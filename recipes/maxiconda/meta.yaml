@@ -1,0 +1,46 @@
+# Copyright (c) Semi-ATE
+# Distributed under the terms of the MIT License
+
+# references:
+#   https://docs.conda.io/projects/conda-build/en/latest/resources/define-metadata.html
+#   https://docs.conda.io/projects/conda-build/en/latest/resources/commands/conda-metapackage.html
+#   https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/packages.html#metapackages
+
+{% set version = "0.0.1" %}
+
+package:
+  name: maxiconda
+  version: {{ version }}
+
+source:
+  git_url: https://github.com/Semi-ATE/maxiconda-meta.git
+
+
+
+
+
+build:
+  noarch: python
+  number: 0
+
+requirements:
+  host:
+    - python
+    - pip
+  run:
+    - python
+
+test:
+  imports:
+    - imagesize
+
+about:
+  home: https://github.com/Semi-ATE/maxiconda-meta
+  license: MIT
+  summary: 'anaconda like metapackage based solely on the conda-forge channel'
+  description: |
+    This module analyzes jpeg/jpeg2000/png/gif image header and
+    return image size.
+  dev_url: https://github.com/Semi-ATE/maxiconda-meta
+  doc_source_url: https://github.com/Semi-ATE/maxiconda-meta/blob/master/README.md
+
