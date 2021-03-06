@@ -13,8 +13,9 @@
 
 In this repository we maintain and release the `maxiconda` and `_spyder_` metapackages.
 
-Building the packages is done here with GitHub Actions, and the released packages are uploaded
-to the [Semi-ATE](https://anaconda.org/Semi-ATE/) channel.
+The contents of the metapackages can be found [here](metapackages.xlsx).
+
+Building the packages is done here with GitHub Actions, and the released packages are uploaded to the [Semi-ATE](https://anaconda.org/Semi-ATE/) channel.
 
 This `Semi-ATE` channel is included when installing with the [maxiconda installers](https://github.com/Semi-ATE/maxiconda).
 
@@ -26,7 +27,13 @@ This `Semi-ATE` channel is included when installing with the [maxiconda installe
 (base) me@mybox:~$ conda create -n some_env maxiconda
 ````
 
-The above will create an environment with the name (-n) `some_env` and install the `maxiconda` meta package in it. You can find the list of the packages included in the `maxiconda` metapackage [here](maxiconda.md).
+or alternatively
+
+```bash
+(base) me@mybox:~$ mamba create -n some_env maxiconda
+```
+
+The above will create an environment with the name (-n) `some_env` and install the `maxiconda` meta package in it.
 
 ### \_spyder\_
 
@@ -34,7 +41,13 @@ The above will create an environment with the name (-n) `some_env` and install t
 (base) me@mybox:~$ conda create -n _spyder_ _spyder_
 ````
 
-The above will create a [spyder](https://github.com/spyder-ide/spyder) application environment called `_spyder_` and installs the `_spyder_` metapackage in it. For your reference you can find the list of packages included in the `_spyder_` metapackage [here](_spyder_.md).
+or alternatively
+
+```bash
+(base) me@mybox:~$ mamba create -n _spyder_ _spyder_
+```
+
+The above will create a [spyder](https://github.com/spyder-ide/spyder) application environment called `_spyder_` and installs the `_spyder_` metapackage in it.
 
 ### whe Semi-ATE channel is not configured
 
@@ -44,10 +57,10 @@ In case you don't have the Semi-ATE channel available (for example you installed
 (base) me@mybox:~$ conda create -n some_env maxiconda -c Semi-ATE
 ```
 
-or alternatively firs add the channel like so :
+or alternatively first add the channel like so :
 
 ```
-(base) me@mybox:~$ conda config --env --add channels glotzer
+(base) me@mybox:~$ conda config --set channel_priority strict
+(base) me@mybox:~$ conda config --append channels Semi-ATE
 (base) me@mybox:~$ conda create -n some_env maxiconda
 ```
-
