@@ -1,0 +1,77 @@
+base:
+  - mamba
+  - conda-build
+  - maxiconda-shortcuts
+  - spyder-remote-server
+
+_spyder_:
+  - spyder
+  - spyder-screencast
+  - spyder-remote-client
+#  - spyder-terminal
+#  - Semi-ATE
+  
+maxiconda:
+  - spyder-kernels
+  - numpy
+  - numba
+  - matplotlib
+  - openpyxl
+  - requests
+  - psutil
+  - pyqt
+  - qdarkstyle
+  - qtawesome
+  - regex
+  - sqlite
+  - sqlalchemy
+  - tqdm
+  - pandas
+  - beautifilsoup
+
+cf-data:
+  - spyder-kernels
+  - scrapy
+  - beautifulsoup
+  - numpy
+  - scipy
+  - pandas
+  - keras
+  - scikit-learn
+  - pytorch
+  - tensorflow
+  - xgboost
+  - matplotlib
+  - seaborn
+  - bokeh
+  - plotly
+  - pydot
+  - caffe
+  - statsmodels
+  - lightgbm
+  - pycaret
+  - sqlalchemy
+  - sqlite
+
+cf-web:
+  - spyder-kernels
+  - requests
+  - simplejson
+  - sqlalchemy
+  - twisted
+  - beautifulsoup
+  - django
+
+cf-eng:
+  - spyder-kernels
+  - pyvisa-py
+  - pyserial
+  - pyusb
+  
+cf-bio:
+  - spyder-kernels
+
+cf-astro:
+  - spyder-kernels
+
+
