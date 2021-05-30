@@ -14,7 +14,7 @@ In this file we define the environments and the **primary packages** that make u
 
 In order for the `maxiconda` installer to function propperly, there should be **AT LEAST** the following environments:
 - base : A lean-mean-fighting-machine environment that is **NOT** used as a development environment.
-- _spyder_ : The `spyder` application environment.
+- \_spyder\_ : The `spyder` application environment.
 - maxiconda : An environment that suit most average use-cases. 
 
 Next to those we can define a number of other environments that focus on specific tasks. 
