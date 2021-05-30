@@ -12,7 +12,7 @@ Note: both the CPython and the PyPy version (if available) will be installed nex
 
 In this file we define the environments and the **primary packages** that make up the environment.
 
-In order for the `maxiconda` installer to function, there should be **AT LEAST** the following environments:
+In order for the `maxiconda` installer to function propperly, there should be **AT LEAST** the following environments:
 - base : A lean-mean-fighting-machine environment that is **NOT** used as a development environment.
 - _spyder_ : The `spyder` application environment.
 - maxiconda : An environment that suit most average use-cases. 
