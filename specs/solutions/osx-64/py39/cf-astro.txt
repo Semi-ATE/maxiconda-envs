@@ -1,0 +1,54 @@
+# osx-64/py39/cf-astro
+
+python 3.9.4
+
+# 1 primary packages :
+
+spyder-kernels = 2.0.3
+
+# 44 secondary packages :
+
+appnope = 0.1.2
+backcall = 0.2.0
+backports = 1.0
+backports.functools_lru_cache = 1.6.4
+ca-certificates = 2021.5.30
+certifi = 2021.5.30
+cloudpickle = 1.6.0
+decorator = 5.0.9
+ipykernel = 5.5.5
+ipython = 7.24.0
+ipython_genutils = 0.2.0
+jedi = 0.18.0
+jupyter_client = 6.1.12
+jupyter_core = 4.7.1
+libcxx = 11.1.0
+libffi = 3.3
+libsodium = 1.0.18
+matplotlib-inline = 0.1.2
+ncurses = 6.2
+openssl = 1.1.1k
+parso = 0.8.2
+pexpect = 4.8.0
+pickleshare = 0.7.5
+pip = 21.1.2
+prompt-toolkit = 3.0.18
+ptyprocess = 0.7.0
+pygments = 2.9.0
+python-dateutil = 2.8.1
+python_abi = 3.9
+pyzmq = 22.1.0
+readline = 8.1
+setuptools = 49.6.0
+six = 1.16.0
+sqlite = 3.35.5
+tk = 8.6.10
+tornado = 6.1
+traitlets = 5.0.5
+tzdata = 2021a
+wcwidth = 0.2.5
+wheel = 0.36.2
+wurlitzer = 2.1.0
+xz = 5.2.5
+zeromq = 4.3.4
+zlib = 1.2.11
