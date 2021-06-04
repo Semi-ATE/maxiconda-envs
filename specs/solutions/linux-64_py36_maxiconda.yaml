@@ -18,7 +18,7 @@ build:
 requirements:
   host:
     # python
-    - python 3.6.13 0 # `0` might need to be something like `py39h14843e3_0` (the build string) ... need to try
+    - python 3.6.13  x  # `x` is most likely to be the build-string (eg `py36h14843e3_0`) instead of the bild-number ... need to try out
     - pypy3.6 7.3.3 x 
     # 15 primary packages :
     - matplotlib 3.3.4 x
