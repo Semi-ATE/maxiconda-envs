@@ -19,8 +19,8 @@ build:
 requirements:
   host:
     # python
-    - python 3.6.13 0
-    - pypy3.6 = 7.3.3 0
+    - python 3.6.13 0 --> 0 might need to be something like py39h14843e3_0 ... need to try
+    - pypy3.6 7.3.3 0  --> note, not `=` sign, just space
     # 15 primary packages :
     - matplotlib 3.3.4
     - numba = 0.53.1
