@@ -7,7 +7,7 @@
 
 package:
   name: maxiconda
-  version: version
+  version: {{ version }}
 
 source: 
   path: https://github.com/Semi-ATE/maxiconda-envs/blob/main/specs/solutions/linux-64/py36/maxiconda.yaml
