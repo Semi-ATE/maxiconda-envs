@@ -1,31 +1,29 @@
 # linux-64/py36/cf-astro
 
-python 3.6.12
+python 3.6.13
 
 # 1 primary packages :
 
 spyder-kernels = 2.0.3
 
-# 50 secondary packages :
+# 46 secondary packages :
 
 _libgcc_mutex = 0.1
 _openmp_mutex = 4.5
 backcall = 0.2.0
 backports = 1.0
 backports.functools_lru_cache = 1.6.4
-bzip2 = 1.0.8
 ca-certificates = 2021.5.30
 certifi = 2021.5.30
 cloudpickle = 1.6.0
 decorator = 5.0.9
-expat = 2.4.1
-gdbm = 1.18
 ipykernel = 5.5.5
 ipython = 7.16.1
 ipython_genutils = 0.2.0
 jedi = 0.17.2
 jupyter_client = 6.1.12
 jupyter_core = 4.7.1
+ld_impl_linux-64 = 2.35.1
 libffi = 3.3
 libgcc-ng = 9.3.0
 libgomp = 9.3.0
@@ -39,9 +37,7 @@ pickleshare = 0.7.5
 pip = 21.1.2
 prompt-toolkit = 3.0.18
 ptyprocess = 0.7.0
-py = 1.10.0
 pygments = 2.9.0
-pypy3.6 = 7.3.3
 python-dateutil = 2.8.1
 python_abi = 3.6
 pyzmq = 22.1.0
