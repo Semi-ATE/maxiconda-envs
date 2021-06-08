@@ -1,6 +1,6 @@
 # linux-64/py36/cf-web
 
-python 3.6.13
+python 3.6.12
 
 # 6 primary packages :
 
@@ -11,7 +11,7 @@ spyder-kernels = 2.0.3
 sqlalchemy = 1.4.17
 twisted = 21.2.0
 
-# 73 secondary packages :
+# 76 secondary packages :
 
 _libgcc_mutex = 0.1
 _openmp_mutex = 4.5
@@ -23,14 +23,17 @@ backports = 1.0
 backports.functools_lru_cache = 1.6.4
 bcrypt = 3.2.0
 brotlipy = 0.7.0
+bzip2 = 1.0.8
 ca-certificates = 2021.5.30
 certifi = 2021.5.30
-cffi = 1.14.5
+cffi = 1.14.3
 chardet = 4.0.0
 cloudpickle = 1.6.0
 constantly = 15.1.0
 cryptography = 3.4.7
 decorator = 5.0.9
+expat = 2.4.1
+gdbm = 1.18
 greenlet = 1.1.0
 hyperlink = 21.0.0
 idna = 2.10
@@ -42,7 +45,6 @@ ipython_genutils = 0.2.0
 jedi = 0.17.2
 jupyter_client = 6.1.12
 jupyter_core = 4.7.1
-ld_impl_linux-64 = 2.35.1
 libffi = 3.3
 libgcc-ng = 9.3.0
 libgomp = 9.3.0
@@ -56,12 +58,13 @@ pickleshare = 0.7.5
 pip = 21.1.2
 prompt-toolkit = 3.0.18
 ptyprocess = 0.7.0
+py = 1.10.0
 pyasn1 = 0.4.8
 pyasn1-modules = 0.2.7
-pycparser = 2.20
 pygments = 2.9.0
 pyhamcrest = 2.0.2
 pyopenssl = 20.0.1
+pypy3.6 = 7.3.3
 pysocks = 1.7.1
 python-dateutil = 2.8.1
 python_abi = 3.6
