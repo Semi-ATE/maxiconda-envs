@@ -24,7 +24,7 @@ statsmodels = 0.12.2
 tensorflow = 2.3.0
 xgboost = 1.4.0
 
-# 324 secondary packages :
+# 325 secondary packages :
 
 _py-xgboost-mutex = 2.0
 _tflow_select = 2.3.0
@@ -47,7 +47,7 @@ bcrypt = 3.2.0
 bleach = 3.3.0
 blinker = 1.4
 boto = 2.49.0
-boto3 = 1.17.92
+boto3 = 1.17.93
 botocore = 1.20.93
 brotlipy = 0.7.0
 bz2file = 0.98
@@ -292,7 +292,8 @@ srsly = 2.4.1
 tabulate = 0.8.9
 tangled-up-in-unicode = 0.1.0
 tbb = 2020.2
-tensorboard = 2.4.1
+tensorboard = 2.5.0
+tensorboard-data-server = 0.6.0
 tensorboard-plugin-wit = 1.8.0
 tensorflow-base = 2.3.0
 tensorflow-estimator = 2.4.0
@@ -304,7 +305,7 @@ thinc = 8.0.3
 threadpoolctl = 2.1.0
 tk = 8.6.10
 tornado = 6.1
-tqdm = 4.61.0
+tqdm = 4.61.1
 traitlets = 5.0.5
 twisted = 21.2.0
 twisted-iocpsupport = 1.0.1
