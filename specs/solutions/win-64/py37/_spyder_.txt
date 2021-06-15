@@ -8,13 +8,13 @@ spyder = 5.0.4
 spyder-remote-client = 0.0.4
 spyder-screencast = 0.0.12
 
-# 168 secondary packages :
+# 167 secondary packages :
 
 alabaster = 0.7.12
 appdirs = 1.4.4
 argh = 0.26.2
 arrow = 1.1.0
-astroid = 2.5.8
+astroid = 2.5.6
 async_generator = 1.10
 atomicwrites = 1.4.0
 attrs = 21.2.0
@@ -85,7 +85,7 @@ netifaces = 0.10.9
 numpydoc = 1.1.0
 openssl = 1.1.1k
 packaging = 20.9
-pandoc = 2.14.0.1
+pandoc = 2.14.0.2
 pandocfilters = 1.4.2
 paramiko = 2.7.2
 parso = 0.7.0
@@ -102,7 +102,7 @@ pycparser = 2.20
 pydocstyle = 6.1.1
 pyflakes = 2.2.0
 pygments = 2.9.0
-pylint = 2.7.2
+pylint = 2.8.3
 pyls-black = 0.4.6
 pyls-spyder = 0.3.2
 pynacl = 1.4.0
@@ -158,7 +158,6 @@ toml = 0.10.2
 tornado = 6.1
 traitlets = 5.0.5
 typed-ast = 1.4.3
-typing-extensions = 3.10.0.0
 typing_extensions = 3.10.0.0
 ujson = 4.0.2
 unidecode = 1.2.0
