@@ -1,38 +1,38 @@
 Windows:
   x86_64:
     py36: win-64_py36
-    pypy36: win-64_pypy36
+    # pypy36: win-64_pypy36
     py37: win-64_py37
-    pypy37: win-64_pypy37
+    # pypy37: win-64_pypy37
     py38: win-64_py38
     py39: win-64_py39
 Linux:
   x86_64:
     py36: linux-64_py36
-    pypy36: linux-64_pypy36
+    # pypy36: linux-64_pypy36
     py37: linux-64_py37
-    pypy37: linux-64_pypy37
+    # pypy37: linux-64_pypy37
     py38: linux-64_py38
     py39: linux-64_py39
   aarch64:
     py36: linux-aarch64_py36
-    pypy36: linux-aarch64_pypy36
+    # pypy36: linux-aarch64_pypy36
     py37: linux-aarch64_py37
-    pypy37: linux-aarch64_pypy37
+    # pypy37: linux-aarch64_pypy37
     py38: linux-aarch64_py38
     py39: linux-aarch64_py39
 MacOS:
   x86_64:
     py36: osx-64_py36
-    pypy36: osx-64_pypy36
+    # pypy36: osx-64_pypy36
     py37: osx-64_py37
-    pypy37: osx-64_pypy37
+    # pypy37: osx-64_pypy37
     py38: osx-64_py38
     py39: osx-64_py39
   aarch64:
     py36: osx-arm64_py36
-    pypy36: osx-arm64_pypy36
+    # pypy36: osx-arm64_pypy36
     py37: osx-arm64_py37
-    pypy37: osx-arm64_pypy37
+    # pypy37: osx-arm64_pypy37
     py38: osx-arm64_py38
     py39: osx-arm64_py39
