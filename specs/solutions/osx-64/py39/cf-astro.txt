@@ -1,54 +1,54 @@
 # osx-64/py39/cf-astro
 
-python 3.9.4
+python = 3.9.5 = hd187cdc_0_cpython
 
 # 1 primary packages :
 
-spyder-kernels = 2.0.4
+spyder-kernels = 2.0.4 = hd187cdc_0_cpython
 
 # 44 secondary packages :
 
-appnope = 0.1.2
-backcall = 0.2.0
-backports = 1.0
-backports.functools_lru_cache = 1.6.4
-ca-certificates = 2021.5.30
-certifi = 2021.5.30
-cloudpickle = 1.6.0
-decorator = 5.0.9
-ipykernel = 5.5.5
-ipython = 7.24.1
-ipython_genutils = 0.2.0
-jedi = 0.18.0
-jupyter_client = 6.1.12
-jupyter_core = 4.7.1
-libcxx = 11.1.0
-libffi = 3.3
-libsodium = 1.0.18
-matplotlib-inline = 0.1.2
-ncurses = 6.2
-openssl = 1.1.1k
-parso = 0.8.2
-pexpect = 4.8.0
-pickleshare = 0.7.5
-pip = 21.1.2
-prompt-toolkit = 3.0.19
-ptyprocess = 0.7.0
-pygments = 2.9.0
-python-dateutil = 2.8.1
-python_abi = 3.9
-pyzmq = 22.1.0
-readline = 8.1
-setuptools = 49.6.0
-six = 1.16.0
-sqlite = 3.35.5
-tk = 8.6.10
-tornado = 6.1
-traitlets = 5.0.5
-tzdata = 2021a
-wcwidth = 0.2.5
-wheel = 0.36.2
-wurlitzer = 2.1.0
-xz = 5.2.5
-zeromq = 4.3.4
-zlib = 1.2.11
+appnope = {'version': '0.1.2', 'build_string': 'py39h6e9494a_1'} = py39h6e9494a_1
+backcall = {'version': '0.2.0', 'build_string': 'pyh9f0ad1d_0'} = pyh9f0ad1d_0
+backports = {'version': '1.0', 'build_string': 'py_2'} = py_2
+backports.functools_lru_cache = {'version': '1.6.4', 'build_string': 'pyhd8ed1ab_0'} = pyhd8ed1ab_0
+ca-certificates = {'version': '2021.5.30', 'build_string': 'h033912b_0'} = h033912b_0
+certifi = {'version': '2021.5.30', 'build_string': 'py39h6e9494a_0'} = py39h6e9494a_0
+cloudpickle = {'version': '1.6.0', 'build_string': 'py_0'} = py_0
+decorator = {'version': '5.0.9', 'build_string': 'pyhd8ed1ab_0'} = pyhd8ed1ab_0
+ipykernel = {'version': '5.5.5', 'build_string': 'py39h71a6800_0'} = py39h71a6800_0
+ipython = {'version': '7.24.1', 'build_string': 'py39h71a6800_0'} = py39h71a6800_0
+ipython_genutils = {'version': '0.2.0', 'build_string': 'py_1'} = py_1
+jedi = {'version': '0.18.0', 'build_string': 'py39h6e9494a_2'} = py39h6e9494a_2
+jupyter_client = {'version': '6.1.12', 'build_string': 'pyhd8ed1ab_0'} = pyhd8ed1ab_0
+jupyter_core = {'version': '4.7.1', 'build_string': 'py39h6e9494a_0'} = py39h6e9494a_0
+libcxx = {'version': '11.1.0', 'build_string': 'habf9029_0'} = habf9029_0
+libffi = {'version': '3.3', 'build_string': 'h046ec9c_2'} = h046ec9c_2
+libsodium = {'version': '1.0.18', 'build_string': 'hbcb3906_1'} = hbcb3906_1
+matplotlib-inline = {'version': '0.1.2', 'build_string': 'pyhd8ed1ab_2'} = pyhd8ed1ab_2
+ncurses = {'version': '6.2', 'build_string': 'h2e338ed_4'} = h2e338ed_4
+openssl = {'version': '1.1.1k', 'build_string': 'h0d85af4_0'} = h0d85af4_0
+parso = {'version': '0.8.2', 'build_string': 'pyhd8ed1ab_0'} = pyhd8ed1ab_0
+pexpect = {'version': '4.8.0', 'build_string': 'pyh9f0ad1d_2'} = pyh9f0ad1d_2
+pickleshare = {'version': '0.7.5', 'build_string': 'py39hde42818_1002'} = py39hde42818_1002
+pip = {'version': '21.1.2', 'build_string': 'pyhd8ed1ab_0'} = pyhd8ed1ab_0
+prompt-toolkit = {'version': '3.0.19', 'build_string': 'pyha770c72_0'} = pyha770c72_0
+ptyprocess = {'version': '0.7.0', 'build_string': 'pyhd3deb0d_0'} = pyhd3deb0d_0
+pygments = {'version': '2.9.0', 'build_string': 'pyhd8ed1ab_0'} = pyhd8ed1ab_0
+python-dateutil = {'version': '2.8.1', 'build_string': 'py_0'} = py_0
+python_abi = {'version': '3.9', 'build_string': '1_cp39'} = 1_cp39
+pyzmq = {'version': '22.1.0', 'build_string': 'py39h7fec2f1_0'} = py39h7fec2f1_0
+readline = {'version': '8.1', 'build_string': 'h05e3726_0'} = h05e3726_0
+setuptools = {'version': '49.6.0', 'build_string': 'py39h6e9494a_3'} = py39h6e9494a_3
+six = {'version': '1.16.0', 'build_string': 'pyh6c4a22f_0'} = pyh6c4a22f_0
+sqlite = {'version': '3.35.5', 'build_string': 'h44b9ce1_0'} = h44b9ce1_0
+tk = {'version': '8.6.10', 'build_string': 'hb0a8c7a_1'} = hb0a8c7a_1
+tornado = {'version': '6.1', 'build_string': 'py39hcbf5805_1'} = py39hcbf5805_1
+traitlets = {'version': '5.0.5', 'build_string': 'py_0'} = py_0
+tzdata = {'version': '2021a', 'build_string': 'he74cb21_0'} = he74cb21_0
+wcwidth = {'version': '0.2.5', 'build_string': 'pyh9f0ad1d_2'} = pyh9f0ad1d_2
+wheel = {'version': '0.36.2', 'build_string': 'pyhd3deb0d_0'} = pyhd3deb0d_0
+wurlitzer = {'version': '2.1.0', 'build_string': 'py39h6e9494a_0'} = py39h6e9494a_0
+xz = {'version': '5.2.5', 'build_string': 'haf1e3a3_1'} = haf1e3a3_1
+zeromq = {'version': '4.3.4', 'build_string': 'h1c7c35f_0'} = h1c7c35f_0
+zlib = {'version': '1.2.11', 'build_string': 'h7795811_1010'} = h7795811_1010
