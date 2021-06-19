@@ -1,57 +1,57 @@
 # linux-64/py38/cf-astro
 
-python 3.8.10
+python = 3.8.10 = h49503c6_1_cpython
 
 # 1 primary packages :
 
-spyder-kernels = 2.0.4
+spyder-kernels = 2.0.4 = h49503c6_1_cpython
 
 # 47 secondary packages :
 
-_libgcc_mutex = 0.1
-_openmp_mutex = 4.5
-backcall = 0.2.0
-backports = 1.0
-backports.functools_lru_cache = 1.6.4
-ca-certificates = 2021.5.30
-certifi = 2021.5.30
-cloudpickle = 1.6.0
-decorator = 5.0.9
-ipykernel = 5.5.5
-ipython = 7.24.1
-ipython_genutils = 0.2.0
-jedi = 0.18.0
-jupyter_client = 6.1.12
-jupyter_core = 4.7.1
-ld_impl_linux-64 = 2.35.1
-libffi = 3.3
-libgcc-ng = 9.3.0
-libgomp = 9.3.0
-libsodium = 1.0.18
-libstdcxx-ng = 9.3.0
-matplotlib-inline = 0.1.2
-ncurses = 6.2
-openssl = 1.1.1k
-parso = 0.8.2
-pexpect = 4.8.0
-pickleshare = 0.7.5
-pip = 21.1.2
-prompt-toolkit = 3.0.19
-ptyprocess = 0.7.0
-pygments = 2.9.0
-python-dateutil = 2.8.1
-python_abi = 3.8
-pyzmq = 22.1.0
-readline = 8.1
-setuptools = 49.6.0
-six = 1.16.0
-sqlite = 3.35.5
-tk = 8.6.10
-tornado = 6.1
-traitlets = 5.0.5
-wcwidth = 0.2.5
-wheel = 0.36.2
-wurlitzer = 2.1.0
-xz = 5.2.5
-zeromq = 4.3.4
-zlib = 1.2.11
+_libgcc_mutex = {'version': '0.1', 'build_string': 'conda_forge'} = conda_forge
+_openmp_mutex = {'version': '4.5', 'build_string': '1_gnu'} = 1_gnu
+backcall = {'version': '0.2.0', 'build_string': 'pyh9f0ad1d_0'} = pyh9f0ad1d_0
+backports = {'version': '1.0', 'build_string': 'py_2'} = py_2
+backports.functools_lru_cache = {'version': '1.6.4', 'build_string': 'pyhd8ed1ab_0'} = pyhd8ed1ab_0
+ca-certificates = {'version': '2021.5.30', 'build_string': 'ha878542_0'} = ha878542_0
+certifi = {'version': '2021.5.30', 'build_string': 'py38h578d9bd_0'} = py38h578d9bd_0
+cloudpickle = {'version': '1.6.0', 'build_string': 'py_0'} = py_0
+decorator = {'version': '5.0.9', 'build_string': 'pyhd8ed1ab_0'} = pyhd8ed1ab_0
+ipykernel = {'version': '5.5.5', 'build_string': 'py38hd0cf306_0'} = py38hd0cf306_0
+ipython = {'version': '7.24.1', 'build_string': 'py38hd0cf306_0'} = py38hd0cf306_0
+ipython_genutils = {'version': '0.2.0', 'build_string': 'py_1'} = py_1
+jedi = {'version': '0.18.0', 'build_string': 'py38h578d9bd_2'} = py38h578d9bd_2
+jupyter_client = {'version': '6.1.12', 'build_string': 'pyhd8ed1ab_0'} = pyhd8ed1ab_0
+jupyter_core = {'version': '4.7.1', 'build_string': 'py38h578d9bd_0'} = py38h578d9bd_0
+ld_impl_linux-64 = {'version': '2.35.1', 'build_string': 'hea4e1c9_2'} = hea4e1c9_2
+libffi = {'version': '3.3', 'build_string': 'h58526e2_2'} = h58526e2_2
+libgcc-ng = {'version': '9.3.0', 'build_string': 'h2828fa1_19'} = h2828fa1_19
+libgomp = {'version': '9.3.0', 'build_string': 'h2828fa1_19'} = h2828fa1_19
+libsodium = {'version': '1.0.18', 'build_string': 'h516909a_1'} = h516909a_1
+libstdcxx-ng = {'version': '9.3.0', 'build_string': 'h6de172a_19'} = h6de172a_19
+matplotlib-inline = {'version': '0.1.2', 'build_string': 'pyhd8ed1ab_2'} = pyhd8ed1ab_2
+ncurses = {'version': '6.2', 'build_string': 'h58526e2_4'} = h58526e2_4
+openssl = {'version': '1.1.1k', 'build_string': 'h7f98852_0'} = h7f98852_0
+parso = {'version': '0.8.2', 'build_string': 'pyhd8ed1ab_0'} = pyhd8ed1ab_0
+pexpect = {'version': '4.8.0', 'build_string': 'py38h32f6830_1'} = py38h32f6830_1
+pickleshare = {'version': '0.7.5', 'build_string': 'py38h32f6830_1002'} = py38h32f6830_1002
+pip = {'version': '21.1.2', 'build_string': 'pyhd8ed1ab_0'} = pyhd8ed1ab_0
+prompt-toolkit = {'version': '3.0.19', 'build_string': 'pyha770c72_0'} = pyha770c72_0
+ptyprocess = {'version': '0.7.0', 'build_string': 'pyhd3deb0d_0'} = pyhd3deb0d_0
+pygments = {'version': '2.9.0', 'build_string': 'pyhd8ed1ab_0'} = pyhd8ed1ab_0
+python-dateutil = {'version': '2.8.1', 'build_string': 'py_0'} = py_0
+python_abi = {'version': '3.8', 'build_string': '1_cp38'} = 1_cp38
+pyzmq = {'version': '22.1.0', 'build_string': 'py38h2035c66_0'} = py38h2035c66_0
+readline = {'version': '8.1', 'build_string': 'h46c0cb4_0'} = h46c0cb4_0
+setuptools = {'version': '49.6.0', 'build_string': 'py38h578d9bd_3'} = py38h578d9bd_3
+six = {'version': '1.16.0', 'build_string': 'pyh6c4a22f_0'} = pyh6c4a22f_0
+sqlite = {'version': '3.35.5', 'build_string': 'h74cdb3f_0'} = h74cdb3f_0
+tk = {'version': '8.6.10', 'build_string': 'hed695b0_1'} = hed695b0_1
+tornado = {'version': '6.1', 'build_string': 'py38h497a2fe_1'} = py38h497a2fe_1
+traitlets = {'version': '5.0.5', 'build_string': 'py_0'} = py_0
+wcwidth = {'version': '0.2.5', 'build_string': 'pyh9f0ad1d_2'} = pyh9f0ad1d_2
+wheel = {'version': '0.36.2', 'build_string': 'pyhd3deb0d_0'} = pyhd3deb0d_0
+wurlitzer = {'version': '2.1.0', 'build_string': 'py38h578d9bd_0'} = py38h578d9bd_0
+xz = {'version': '5.2.5', 'build_string': 'h516909a_1'} = h516909a_1
+zeromq = {'version': '4.3.4', 'build_string': 'h9c3ff4c_0'} = h9c3ff4c_0
+zlib = {'version': '1.2.11', 'build_string': 'h516909a_1010'} = h516909a_1010
