@@ -1,72 +1,31 @@
-name: CI
+name: Build recipes
 
 on: [push, pull_request]
 
 jobs:
-  build:
-    name: ${{ matrix.TARGET_OS }}-${{ matrix.TARGET_ARCH }}
-    runs-on: ${{ matrix.VM }}
+  create:
+    name: ${{ matrix.OS }}
+    runs-on: ${{ matrix.OS }}
     strategy:
       fail-fast: false
       matrix:
-        include:
-          - VM: windows-latest
-            TARGET_OS: "Windows"
-            TARGET_ARCH: x86_64
-
-          - VM: macos-latest
-            TARGET_OS: "MacOS"
-            TARGET_ARCH: x86_64
-
-          - VM: ubuntu-latest
-            TARGET_OS: "Linux"
-            TARGET_ARCH: x86_64
-            DOCKER_IMG: condaforge/linux-anvil-comp7
-            DOCKER_ARCH: amd64
-
-          - VM: ubuntu-latest
-            TARGET_OS: "Linux"
-            TARGET_ARCH: aarch64
-            DOCKER_IMG: condaforge/linux-anvil-aarch64
-            DOCKER_ARCH: arm64v8
-
-          - VM: ubuntu-latest
-            TARGET_OS: "Linux"
-            TARGET_ARCH: ppc64le
-            DOCKER_IMG: condaforge/linux-anvil-ppc64le
-            DOCKER_ARCH: ppc64le
-
+        OS: ["ubuntu-latest", "windows-latest", "macos-latest"]
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Windows-only setup
+    - name: Setup conda environment
       uses: conda-incubator/setup-miniconda@v2
       with:
-        miniconda-version: "latest"
-      if: contains(matrix.BUILD_OS, 'Windows')
+        miniconda-version: latest
+        activate-environment: maxiconda-envs
+        environment-file: environment.yml
+        channel-priority: strict
 
-    - name: Build the metapackages
+    - name: Build packages
+      shell: bash -l {0}
       env:
-        TARGET_OS: ${{ matrix.TARGET_OS }}
-        TARGET_ARCH: ${{ matrix.TARGET_ARCH }}
-        DOCKER_IMG: ${{ matrix.DOCKER_IMG }}
-        DOCKER_ARCH: ${{ matrix.DOCKER_ARCH }}
+        CONDA_UPLOAD_TOKEN: ${{ secrets.CONDA_UPLOAD_TOKEN }}
+        MAXICONDA_ENV_RELEASE: "0.0.1"
       run: |
-        if [[ "$TARGET_OS" == "Linux" ]]; then
-          bash build_on_linux.sh;
-        fi
-        if [[ "$TARGET_OS" == "MacOS" ]]; then
-          bash build_on_macos.sh;
-        fi
-        if [[ "$TARGET_OS" == "Windows" ]]; then
-          source /c/Miniconda3/Scripts/activate;
-          source build_on_windows.sh;
-        fi
-      shell: bash
-
-    - name: Upload metapackages to Github artifact
-      uses: actions/upload-artifact@v2
-      with:
-        path: build/**
-        name: ${{ matrix.TARGET_OS }}-${{ matrix.TARGET_ARCH }}
+        python -u scripts/build.py
