@@ -8,7 +8,7 @@ spyder = 5.0.4 = h7840368_1_cpython
 spyder-remote-client = 0.0.4 = h7840368_1_cpython
 spyder-screencast = 0.0.12 = h7840368_1_cpython
 
-# 167 secondary packages :
+# 168 secondary packages :
 
 alabaster = 0.7.12 = py_0
 appdirs = 1.4.4 = pyh9f0ad1d_0
@@ -78,14 +78,14 @@ mccabe = 0.6.1 = py_1
 mistune = 0.8.4 = py38h294d835_1003
 mypy_extensions = 0.4.3 = py38haa244fe_3
 nbclient = 0.5.3 = pyhd8ed1ab_0
-nbconvert = 6.0.7 = py38haa244fe_3
+nbconvert = 6.1.0 = py38haa244fe_0
 nbformat = 5.1.3 = pyhd8ed1ab_0
 nest-asyncio = 1.5.1 = pyhd8ed1ab_0
 netifaces = 0.10.9 = py38h294d835_1003
 numpydoc = 1.1.0 = py_1
 openssl = 1.1.1k = h8ffe710_0
 packaging = 20.9 = pyh44b312d_0
-pandoc = 2.14.0.2 = h8ffe710_0
+pandoc = 2.14.0.3 = h8ffe710_0
 pandocfilters = 1.4.2 = py_1
 paramiko = 2.7.2 = pyh9f0ad1d_0
 parso = 0.7.0 = pyh9f0ad1d_0
@@ -119,7 +119,7 @@ python-dateutil = 2.8.1 = py_0
 python-jsonrpc-server = 0.4.0 = pyh9f0ad1d_0
 python-language-server = 0.36.2 = pyhd8ed1ab_0
 python-slugify = 5.0.2 = pyhd8ed1ab_0
-python_abi = 3.8 = 1_cp38
+python_abi = 3.8 = 2_cp38
 pytz = 2021.1 = pyhd8ed1ab_0
 pywin32 = 300 = py38h294d835_0
 pywin32-ctypes = 0.2.0 = py38haa244fe_1003
@@ -129,7 +129,7 @@ qdarkstyle = 3.0.2 = pyhd8ed1ab_0
 qscreencast = 0.1.35 = py38haa244fe_0
 qstylizer = 0.2.0 = pyhd8ed1ab_1
 qt = 5.12.9 = h5909a2a_4
-qtawesome = 1.0.2 = pyhd8ed1ab_0
+qtawesome = 1.0.3 = pyhd8ed1ab_0
 qtconsole = 5.1.0 = pyhd8ed1ab_0
 qtpy = 1.9.0 = py_0
 regex = 2021.4.4 = py38h294d835_0
@@ -159,11 +159,12 @@ tornado = 6.1 = py38h294d835_1
 traitlets = 5.0.5 = py_0
 typed-ast = 1.4.3 = py38h294d835_0
 typing_extensions = 3.10.0.0 = pyha770c72_0
+ucrt = 10.0.20348.0 = h57928b3_0
 ujson = 4.0.2 = py38h885f38d_0
 unidecode = 1.2.0 = pyhd8ed1ab_0
 urllib3 = 1.26.5 = pyhd8ed1ab_0
-vc = 14.2 = hb210afc_4
-vs2015_runtime = 14.28.29325 = h5e1d092_4
+vc = 14.2 = hc4473a8_5
+vs2015_runtime = 14.29.30037 = h902a5da_5
 watchdog = 2.1.2 = py38haa244fe_0
 wcwidth = 0.2.5 = pyh9f0ad1d_2
 webencodings = 0.5.1 = py_1
