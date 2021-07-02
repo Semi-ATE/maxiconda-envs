@@ -7,7 +7,7 @@ python = 3.7.10 = hffdb5ce_100_cpython
 spyder = 5.0.5 = hffdb5ce_100_cpython
 spyder-remote-client = 0.0.4 = hffdb5ce_100_cpython
 
-# 207 secondary packages :
+# 208 secondary packages :
 
 _libgcc_mutex = 0.1 = conda_forge
 _openmp_mutex = 4.5 = 1_gnu
@@ -40,6 +40,7 @@ cookiecutter = 1.7.3 = pyh6c4a22f_0
 cryptography = 3.4.7 = py37h5d9358c_0
 dataclasses = 0.8 = pyhc8e2a94_1
 dbus = 1.13.6 = h48d8840_2
+debugpy = 1.3.0 = py37hcd2ae1e_0
 decorator = 5.0.9 = pyhd8ed1ab_0
 defusedxml = 0.7.1 = pyhd8ed1ab_0
 diff-match-patch = 20200713 = pyh9f0ad1d_0
@@ -59,11 +60,11 @@ icu = 68.1 = h58526e2_0
 idna = 2.10 = pyh9f0ad1d_0
 ifaddr = 0.1.7 = pyh9f0ad1d_0
 imagesize = 1.2.0 = py_0
-importlib-metadata = 4.6.0 = py37h89c1867_0
-importlib_metadata = 4.6.0 = hd8ed1ab_0
+importlib-metadata = 3.10.1 = py37h89c1867_0
+importlib_metadata = 3.10.1 = hd8ed1ab_0
 inflection = 0.5.1 = pyh9f0ad1d_0
 intervaltree = 3.0.2 = py_0
-ipykernel = 5.5.5 = py37h085eea5_0
+ipykernel = 6.0.0 = py37h085eea5_0
 ipython = 7.25.0 = py37h085eea5_1
 ipython_genutils = 0.2.0 = py_1
 isort = 5.9.1 = pyhd8ed1ab_0
@@ -139,7 +140,7 @@ pycparser = 2.20 = pyh9f0ad1d_2
 pydocstyle = 6.1.1 = pyhd8ed1ab_0
 pyflakes = 2.2.0 = pyh9f0ad1d_0
 pygments = 2.9.0 = pyhd8ed1ab_0
-pylint = 2.9.1 = pyhd8ed1ab_0
+pylint = 2.9.3 = pyhd8ed1ab_0
 pyls-black = 0.4.6 = pyh9f0ad1d_0
 pyls-spyder = 0.3.2 = pyhd8ed1ab_0
 pyopenssl = 20.0.1 = pyhd8ed1ab_0
