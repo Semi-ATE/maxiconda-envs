@@ -20,7 +20,7 @@ sqlalchemy = 1.4.20 = h0e5c897_0_cpython
 sqlite = 3.36.0 = h0e5c897_0_cpython
 tqdm = 4.61.1 = h0e5c897_0_cpython
 
-# 106 secondary packages :
+# 107 secondary packages :
 
 appnope = 0.1.2 = py38h50d1736_1
 backcall = 0.2.0 = pyh9f0ad1d_0
@@ -35,6 +35,7 @@ cloudpickle = 1.6.0 = py_0
 cryptography = 3.4.7 = py38h1fa4640_0
 cycler = 0.10.0 = py_2
 dbus = 1.13.6 = ha13b53f_2
+debugpy = 1.3.0 = py38ha048514_0
 decorator = 5.0.9 = pyhd8ed1ab_0
 et_xmlfile = 1.0.1 = py_1001
 expat = 2.4.1 = he49afe7_0
@@ -45,7 +46,7 @@ glib-tools = 2.68.3 = he49afe7_0
 greenlet = 1.1.0 = py38ha048514_0
 icu = 68.1 = h74dc148_0
 idna = 2.10 = pyh9f0ad1d_0
-ipykernel = 5.5.5 = py38h6c79ece_0
+ipykernel = 6.0.0 = py38h6c79ece_0
 ipython = 7.25.0 = py38h6c79ece_1
 ipython_genutils = 0.2.0 = py_1
 jbig = 2.1 = h0d85af4_2003
@@ -95,7 +96,7 @@ parso = 0.8.2 = pyhd8ed1ab_0
 pcre = 8.45 = he49afe7_0
 pexpect = 4.8.0 = py38h32f6830_1
 pickleshare = 0.7.5 = py38h32f6830_1002
-pillow = 8.2.0 = py38h83525de_1
+pillow = 8.3.0 = py38hee640a0_0
 pip = 21.1.3 = pyhd8ed1ab_0
 prompt-toolkit = 3.0.19 = pyha770c72_0
 ptyprocess = 0.7.0 = pyhd3deb0d_0
