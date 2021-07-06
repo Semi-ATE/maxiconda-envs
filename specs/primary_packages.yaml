@@ -1,11 +1,13 @@
-base:
+maxiconda-base:
   - mamba
   - conda-build
+  - git
   - maxiconda-shortcuts
   - spyder-remote-server
 
 _spyder_:
   - spyder
+  - ffmpeg
   - spyder-screencast
   - spyder-remote-client
 #  - spyder-terminal
@@ -14,6 +16,7 @@ _spyder_:
 maxiconda:
   - spyder-kernels
   - numpy
+  - ipython
   - numba
   - matplotlib
   - openpyxl
