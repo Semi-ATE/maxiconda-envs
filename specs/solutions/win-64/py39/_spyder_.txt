@@ -1,9 +1,10 @@
 # win-64/py39/_spyder_
 
-python = 3.9.5 = h7840368_0_cpython
+python = 3.9.6 = h7840368_0_cpython
 
-# 2 primary packages :
+# 3 primary packages :
 
+ffmpeg = 4.3.1 = h7840368_0_cpython
 spyder = 5.0.5 = h7840368_0_cpython
 spyder-remote-client = 0.0.4 = h7840368_0_cpython
 
@@ -131,7 +132,7 @@ qt = 5.12.9 = h5909a2a_4
 qtawesome = 1.0.3 = pyhd8ed1ab_0
 qtconsole = 5.1.1 = pyhd8ed1ab_0
 qtpy = 1.9.0 = py_0
-regex = 2021.7.5 = py39hb82d6ee_0
+regex = 2021.7.6 = py39hb82d6ee_0
 requests = 2.25.1 = pyhd3deb0d_0
 rope = 0.19.0 = pyhd8ed1ab_0
 rtree = 0.9.7 = py39h09fdee3_1
