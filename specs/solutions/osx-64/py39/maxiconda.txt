@@ -1,9 +1,10 @@
 # osx-64/py39/maxiconda
 
-python = 3.9.5 = hd187cdc_0_cpython
+python = 3.9.6 = hd187cdc_0_cpython
 
-# 15 primary packages :
+# 16 primary packages :
 
+ipython = 7.25.0 = hd187cdc_0_cpython
 matplotlib = 3.4.2 = hd187cdc_0_cpython
 numba = 0.53.1 = hd187cdc_0_cpython
 numpy = 1.21.0 = hd187cdc_0_cpython
@@ -13,14 +14,14 @@ psutil = 5.8.0 = hd187cdc_0_cpython
 pyqt = 5.12.3 = hd187cdc_0_cpython
 qdarkstyle = 3.0.2 = hd187cdc_0_cpython
 qtawesome = 1.0.3 = hd187cdc_0_cpython
-regex = 2021.7.5 = hd187cdc_0_cpython
+regex = 2021.7.6 = hd187cdc_0_cpython
 requests = 2.25.1 = hd187cdc_0_cpython
 spyder-kernels = 2.0.5 = hd187cdc_0_cpython
 sqlalchemy = 1.4.20 = hd187cdc_0_cpython
 sqlite = 3.36.0 = hd187cdc_0_cpython
-tqdm = 4.61.1 = hd187cdc_0_cpython
+tqdm = 4.61.2 = hd187cdc_0_cpython
 
-# 108 secondary packages :
+# 107 secondary packages :
 
 appnope = 0.1.2 = py39h6e9494a_1
 backcall = 0.2.0 = pyh9f0ad1d_0
@@ -47,7 +48,6 @@ greenlet = 1.1.0 = py39h9fcab8e_0
 icu = 68.1 = h74dc148_0
 idna = 2.10 = pyh9f0ad1d_0
 ipykernel = 6.0.1 = py39h71a6800_0
-ipython = 7.25.0 = py39h71a6800_1
 ipython_genutils = 0.2.0 = py_1
 jbig = 2.1 = h0d85af4_2003
 jdcal = 1.4.1 = py_0

@@ -2,8 +2,9 @@
 
 python = 3.6.13 = h7728216_0_cpython
 
-# 15 primary packages :
+# 16 primary packages :
 
+ipython = 7.16.1 = h7728216_0_cpython
 matplotlib = 3.3.4 = h7728216_0_cpython
 numba = 0.53.1 = h7728216_0_cpython
 numpy = 1.19.5 = h7728216_0_cpython
@@ -13,14 +14,14 @@ psutil = 5.8.0 = h7728216_0_cpython
 pyqt = 5.12.3 = h7728216_0_cpython
 qdarkstyle = 3.0.2 = h7728216_0_cpython
 qtawesome = 1.0.3 = h7728216_0_cpython
-regex = 2021.7.5 = h7728216_0_cpython
+regex = 2021.7.6 = h7728216_0_cpython
 requests = 2.25.1 = h7728216_0_cpython
 spyder-kernels = 2.0.5 = h7728216_0_cpython
 sqlalchemy = 1.4.20 = h7728216_0_cpython
 sqlite = 3.36.0 = h7728216_0_cpython
-tqdm = 4.61.1 = h7728216_0_cpython
+tqdm = 4.61.2 = h7728216_0_cpython
 
-# 108 secondary packages :
+# 107 secondary packages :
 
 appnope = 0.1.2 = py36h79c6626_1
 backcall = 0.2.0 = pyh9f0ad1d_0
@@ -47,7 +48,6 @@ icu = 68.1 = h74dc148_0
 idna = 2.10 = pyh9f0ad1d_0
 importlib-metadata = 4.6.1 = py36h79c6626_0
 ipykernel = 5.5.5 = py36h495a4c6_0
-ipython = 7.16.1 = py36h9cf137f_2
 ipython_genutils = 0.2.0 = py36_0
 jbig = 2.1 = h0d85af4_2003
 jdcal = 1.4.1 = py_0

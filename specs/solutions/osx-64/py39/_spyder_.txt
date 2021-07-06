@@ -1,13 +1,14 @@
 # osx-64/py39/_spyder_
 
-python = 3.9.5 = hd187cdc_0_cpython
+python = 3.9.6 = hd187cdc_0_cpython
 
-# 2 primary packages :
+# 3 primary packages :
 
+ffmpeg = 4.3.1 = hd187cdc_0_cpython
 spyder = 5.0.5 = hd187cdc_0_cpython
 spyder-remote-client = 0.0.4 = hd187cdc_0_cpython
 
-# 187 secondary packages :
+# 195 secondary packages :
 
 alabaster = 0.7.12 = py_0
 appdirs = 1.4.4 = pyh9f0ad1d_0
@@ -28,6 +29,7 @@ binaryornot = 0.4.4 = py_1
 black = 21.5b2 = pyhd8ed1ab_0
 bleach = 3.3.0 = pyh44b312d_0
 brotlipy = 0.7.0 = py39h89e85a6_1001
+bzip2 = 1.0.8 = h0d85af4_4
 ca-certificates = 2021.5.30 = h033912b_0
 certifi = 2021.5.30 = py39h6e9494a_0
 cffi = 1.14.5 = py39hb71fe58_0
@@ -47,10 +49,13 @@ docutils = 0.17.1 = py39h6e9494a_0
 entrypoints = 0.3 = py39hde42818_1002
 expat = 2.4.1 = he49afe7_0
 flake8 = 3.8.4 = py_0
+freetype = 2.10.4 = h4cff582_1
 future = 0.18.2 = py39h6e9494a_3
 gettext = 0.19.8.1 = h7937167_1005
 glib = 2.68.3 = he49afe7_0
 glib-tools = 2.68.3 = he49afe7_0
+gmp = 6.2.1 = h2e338ed_0
+gnutls = 3.6.13 = h756fd2b_1
 icu = 68.1 = h74dc148_0
 idna = 2.10 = pyh9f0ad1d_0
 ifaddr = 0.1.7 = pyh9f0ad1d_0
@@ -73,6 +78,7 @@ jupyter_core = 4.7.1 = py39h6e9494a_0
 jupyterlab_pygments = 0.1.2 = pyh9f0ad1d_0
 keyring = 23.0.1 = py39h6e9494a_0
 krb5 = 1.19.1 = hcfbf3a7_0
+lame = 3.100 = h35c211d_1001
 lazy-object-proxy = 1.6.0 = py39h89e85a6_0
 libclang = 11.1.0 = default_he082bbe_1
 libcxx = 11.1.0 = habf9029_0
@@ -99,9 +105,11 @@ nbformat = 5.1.3 = pyhd8ed1ab_0
 ncurses = 6.2 = h2e338ed_4
 nest-asyncio = 1.5.1 = pyhd8ed1ab_0
 netifaces = 0.10.9 = py39hcbf5805_1003
+nettle = 3.6 = hedd7734_0
 nspr = 4.30 = hcd9eead_0
 nss = 3.67 = h31e2bf1_0
 numpydoc = 1.1.0 = py_1
+openh264 = 2.1.1 = hfd3ada9_0
 openssl = 1.1.1k = h0d85af4_0
 packaging = 21.0 = pyhd8ed1ab_0
 pandoc = 2.14.0.3 = h0d85af4_0
@@ -150,7 +158,7 @@ qtawesome = 1.0.3 = pyhd8ed1ab_0
 qtconsole = 5.1.1 = pyhd8ed1ab_0
 qtpy = 1.9.0 = py_0
 readline = 8.1 = h05e3726_0
-regex = 2021.7.5 = py39h89e85a6_0
+regex = 2021.7.6 = py39h89e85a6_0
 requests = 2.25.1 = pyhd3deb0d_0
 rope = 0.19.0 = pyhd8ed1ab_0
 rtree = 0.9.7 = py39h7d0d40a_1
@@ -188,6 +196,7 @@ webencodings = 0.5.1 = py_1
 wheel = 0.36.2 = pyhd3deb0d_0
 wrapt = 1.12.1 = py39h89e85a6_3
 wurlitzer = 2.1.0 = py39h6e9494a_0
+x264 = 1!161.3030 = h0d85af4_1
 xz = 5.2.5 = haf1e3a3_1
 yaml = 0.2.5 = haf1e3a3_0
 yapf = 0.31.0 = pyhd8ed1ab_0
