@@ -13,7 +13,7 @@ psutil = 5.8.0 = h0e5c897_0_cpython
 pyqt = 5.12.3 = h0e5c897_0_cpython
 qdarkstyle = 3.0.2 = h0e5c897_0_cpython
 qtawesome = 1.0.3 = h0e5c897_0_cpython
-regex = 2021.7.1 = h0e5c897_0_cpython
+regex = 2021.7.5 = h0e5c897_0_cpython
 requests = 2.25.1 = h0e5c897_0_cpython
 spyder-kernels = 2.0.5 = h0e5c897_0_cpython
 sqlalchemy = 1.4.20 = h0e5c897_0_cpython
@@ -26,10 +26,10 @@ appnope = 0.1.2 = py38h50d1736_1
 backcall = 0.2.0 = pyh9f0ad1d_0
 backports = 1.0 = py_2
 backports.functools_lru_cache = 1.6.4 = pyhd8ed1ab_0
-brotlipy = 0.7.0 = py38h5406a74_1001
+brotlipy = 0.7.0 = py38h96a0964_1001
 ca-certificates = 2021.5.30 = h033912b_0
 certifi = 2021.5.30 = py38h50d1736_0
-cffi = 1.14.5 = py38ha97d567_0
+cffi = 1.14.5 = py38h9688ba1_0
 chardet = 4.0.0 = py38h50d1736_1
 cloudpickle = 1.6.0 = py_0
 cryptography = 3.4.7 = py38h1fa4640_0
@@ -119,7 +119,7 @@ readline = 8.1 = h05e3726_0
 setuptools = 49.6.0 = py38h50d1736_3
 six = 1.16.0 = pyh6c4a22f_0
 tk = 8.6.10 = h0419947_1
-tornado = 6.1 = py38h5406a74_1
+tornado = 6.1 = py38h96a0964_1
 traitlets = 5.0.5 = py_0
 urllib3 = 1.26.6 = pyhd8ed1ab_0
 wcwidth = 0.2.5 = pyh9f0ad1d_2
