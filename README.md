@@ -1,4 +1,4 @@
-# maxiconda-meta
+# maxiconda-envs
 
 [![GitHub](https://img.shields.io/github/license/Semi-ATE/maxiconda-meta?color=black)](https://github.com/Semi-ATE/maxiconda/blob/main/LICENSE)
 
