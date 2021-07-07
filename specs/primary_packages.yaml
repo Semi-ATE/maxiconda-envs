@@ -5,6 +5,12 @@ _spyder_:
   - spyder-remote-client
 #  - spyder-terminal
 #  - Semi-ATE
+  - cython
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - sympy
   
 maxiconda:
   - spyder-kernels
