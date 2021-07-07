@@ -1,12 +1,11 @@
 maxiconda-base:
   - conda
-  - mamba
   - conda-build
-#  - git
-#  - git-lfs
-  - maxiconda-shortcuts
+  - mamba
+  - git
+  - git-lfs
   - spyder-remote-server
-#  - pip
+  - pip
   - bzip2
 
 _spyder_:
