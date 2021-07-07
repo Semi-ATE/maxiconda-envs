@@ -1,13 +1,3 @@
-maxiconda-base:
-  - conda
-  - conda-build
-  - mamba
-  - git
-  - git-lfs
-  - spyder-remote-server
-  - pip
-  - bzip2
-
 _spyder_:
   - spyder
   - ffmpeg
