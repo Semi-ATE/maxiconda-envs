@@ -2,13 +2,19 @@
 
 python = 3.9.6 = h49503c6_0_cpython
 
-# 3 primary packages :
+# 9 primary packages :
 
+cython = 0.29.23 = h49503c6_0_cpython
 ffmpeg = 4.3.1 = h49503c6_0_cpython
+matplotlib = 3.4.2 = h49503c6_0_cpython
+numpy = 1.21.0 = h49503c6_0_cpython
+pandas = 1.3.0 = h49503c6_0_cpython
+scipy = 1.7.0 = h49503c6_0_cpython
 spyder = 5.0.5 = h49503c6_0_cpython
 spyder-remote-client = 0.0.4 = h49503c6_0_cpython
+sympy = 1.8 = h49503c6_0_cpython
 
-# 215 secondary packages :
+# 237 secondary packages :
 
 _libgcc_mutex = 0.1 = conda_forge
 _openmp_mutex = 4.5 = 1_gnu
@@ -40,6 +46,7 @@ cloudpickle = 1.6.0 = py_0
 colorama = 0.4.4 = pyh9f0ad1d_0
 cookiecutter = 1.7.3 = pyh6c4a22f_0
 cryptography = 3.4.7 = py39hbca0aa6_0
+cycler = 0.10.0 = py_2
 dataclasses = 0.8 = pyhc8e2a94_1
 dbus = 1.13.6 = h48d8840_2
 debugpy = 1.3.0 = py39he80948d_0
@@ -57,6 +64,7 @@ gettext = 0.19.8.1 = h0b5b191_1005
 glib = 2.68.3 = h9c3ff4c_0
 glib-tools = 2.68.3 = h9c3ff4c_0
 gmp = 6.2.1 = h58526e2_0
+gmpy2 = 2.1.0b5 = py39h78fa15d_0
 gnutls = 3.6.13 = h85f3911_1
 gst-plugins-base = 1.18.4 = hf529b03_2
 gstreamer = 1.18.4 = h76c114f_2
@@ -72,6 +80,7 @@ ipykernel = 6.0.1 = py39hef51801_0
 ipython = 7.25.0 = py39hef51801_1
 ipython_genutils = 0.2.0 = py_1
 isort = 5.9.1 = pyhd8ed1ab_0
+jbig = 2.1 = h7f98852_2003
 jedi = 0.17.2 = py39hf3d152e_1
 jeepney = 0.6.0 = pyhd8ed1ab_0
 jinja2 = 2.11.3 = pyh44b312d_0
@@ -82,36 +91,52 @@ jupyter_client = 6.1.12 = pyhd8ed1ab_0
 jupyter_core = 4.7.1 = py39hf3d152e_0
 jupyterlab_pygments = 0.1.2 = pyh9f0ad1d_0
 keyring = 23.0.1 = py39hf3d152e_0
+kiwisolver = 1.3.1 = py39h1a9c180_1
 krb5 = 1.19.1 = hcc1bbae_0
 lame = 3.100 = h7f98852_1001
 lazy-object-proxy = 1.6.0 = py39h3811e60_0
+lcms2 = 2.12 = hddcbb42_0
 ld_impl_linux-64 = 2.36.1 = hea4e1c9_1
+lerc = 2.2.1 = h9c3ff4c_0
+libblas = 3.9.0 = 9_openblas
+libcblas = 3.9.0 = 9_openblas
 libclang = 11.1.0 = default_ha53f305_1
+libdeflate = 1.7 = h7f98852_5
 libedit = 3.1.20191231 = he28a2e2_2
 libevent = 2.1.10 = hcdb4288_3
 libffi = 3.3 = h58526e2_2
 libgcc-ng = 9.3.0 = h2828fa1_19
+libgfortran-ng = 9.3.0 = hff62375_19
+libgfortran5 = 9.3.0 = hff62375_19
 libglib = 2.68.3 = h3e27bee_0
 libgomp = 9.3.0 = h2828fa1_19
 libiconv = 1.16 = h516909a_0
+liblapack = 3.9.0 = 9_openblas
 libllvm11 = 11.1.0 = hf817b99_2
 libogg = 1.3.4 = h7f98852_1
+libopenblas = 0.3.15 = pthreads_h8fe5266_1
 libopus = 1.3.1 = h7f98852_1
 libpng = 1.6.37 = h21135ba_2
 libpq = 13.3 = hd57d9b9_0
 libsodium = 1.0.18 = h36c2ea0_1
 libspatialindex = 1.9.3 = h9c3ff4c_3
 libstdcxx-ng = 9.3.0 = h6de172a_19
+libtiff = 4.3.0 = hf544144_1
 libuuid = 2.32.1 = h7f98852_1000
 libvorbis = 1.3.7 = h9c3ff4c_0
+libwebp-base = 1.2.0 = h7f98852_2
 libxcb = 1.13 = h7f98852_1003
 libxkbcommon = 1.0.3 = he3ba5ed_0
 libxml2 = 2.9.12 = h72842e0_0
 lz4-c = 1.9.3 = h9c3ff4c_0
 markupsafe = 1.1.1 = py39h3811e60_3
+matplotlib-base = 3.4.2 = py39h2fa2bec_0
 matplotlib-inline = 0.1.2 = pyhd8ed1ab_2
 mccabe = 0.6.1 = py_1
 mistune = 0.8.4 = py39h3811e60_1004
+mpc = 1.1.0 = h04dde30_1009
+mpfr = 4.0.2 = he80fd80_1
+mpmath = 1.2.1 = pyhd8ed1ab_0
 mypy_extensions = 0.4.3 = py39hf3d152e_3
 mysql-common = 8.0.25 = ha770c72_2
 mysql-libs = 8.0.25 = hfa10184_2
@@ -125,7 +150,9 @@ nettle = 3.6 = he412f7d_0
 nspr = 4.30 = h9c3ff4c_0
 nss = 3.67 = hb5efdd6_0
 numpydoc = 1.1.0 = py_1
+olefile = 0.46 = pyh9f0ad1d_1
 openh264 = 2.1.1 = h780b84a_0
+openjpeg = 2.4.0 = hb52868f_1
 openssl = 1.1.1k = h7f98852_0
 packaging = 21.0 = pyhd8ed1ab_0
 pandoc = 2.14.0.3 = h7f98852_0
@@ -135,6 +162,7 @@ pathspec = 0.8.1 = pyhd3deb0d_0
 pcre = 8.45 = h9c3ff4c_0
 pexpect = 4.8.0 = pyh9f0ad1d_2
 pickleshare = 0.7.5 = py39hde42818_1002
+pillow = 8.3.1 = py39ha612740_0
 pip = 21.1.3 = pyhd8ed1ab_0
 pluggy = 0.13.1 = py39hf3d152e_4
 poyo = 0.5.0 = py_0
@@ -204,7 +232,7 @@ tornado = 6.1 = py39h3811e60_1
 traitlets = 5.0.5 = py_0
 typed-ast = 1.4.3 = py39h3811e60_0
 typing_extensions = 3.10.0.0 = pyha770c72_0
-tzdata = 2021a = he74cb21_0
+tzdata = 2021a = he74cb21_1
 ujson = 4.0.2 = py39he80948d_0
 unidecode = 1.2.0 = pyhd8ed1ab_0
 urllib3 = 1.26.6 = pyhd8ed1ab_0
