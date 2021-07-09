@@ -6,7 +6,7 @@ on:
 
 jobs:
   build_and_upload:
-    name: ${{ matrix.OS_CPU }}
+    name: ${{ matrix.OS }}
     runs-on: ${{ matrix.VM }}
     strategy:
       fail-fast: false
