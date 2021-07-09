@@ -239,7 +239,7 @@ def write_recipe(designator, primary_packages, environment, build_string=False):
     /
     """
     OS_CPU, PY = designator.split('_')
-    print(f"{OS_CPU}/{PY}/{environment}")
+    print(f"Solving : {OS_CPU}/{PY}/{environment}")
 
     print(f"  primary packages : {primary_packages}")
 

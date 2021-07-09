@@ -87,7 +87,7 @@ def upload(package_path):
     PY = package_file.split("-")[2].split("_")[0]
     OS_CPU = package_path.split(os.sep)[-2] 
 
-    print(f"{OS_CPU}/{PY}/{environment}")
+    print(f"Uploading : {OS_CPU}/{PY}/{environment}")
     #TODO: maybe only run if the package_version != "0.0.0" ?!?
     retval = True
     cmd = ["anaconda", "-t", os.environ.get("CONDA_UPLOAD_TOKEN", "Woops"), "upload", "-u", "semi-ate", package_path, "--force"]
@@ -120,7 +120,7 @@ def build(env_meta_path):
     PY = env_meta_path.split(os.sep)[-3]
     OS_CPU = env_meta_path.split(os.sep)[-4]
 
-    print(f"{OS_CPU}/{PY}/{environment}")
+    print(f"building : {OS_CPU}/{PY}/{environment}")
 
     NUMPY_VER = None
     PYTHON_VER = None
@@ -140,15 +140,20 @@ def build(env_meta_path):
     p = subprocess.Popen(cmd, cwd=env_meta_root, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     output, error = p.communicate()
     output_lines = output.decode("utf-8").split("\n")
+    error_lines = error.decode("utf-8").split("\n")
     for i in range(len(output_lines)):
         if output_lines[i].startswith("anaconda upload"):
             break
-    if os.path.exists(output_lines[i+1].strip()):
+    if i+1 <= len(output_lines):
         print("Success.")
         print(f"  {output_lines[i+1].strip()}")
         return output_lines[i+1].strip()
     else:
         print("Failure.")
+        for line in output_lines:
+            print(line)
+        for line in error_lines:
+            print(line)
         return None
 
 def main(testing=True):

@@ -1,0 +1,166 @@
+#
+# Copyright (c) Semi-ATE
+# Distributed under the terms of the MIT License
+#
+# linux-64/pypy36/maxiconda
+#
+
+{% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
+
+package:
+  name: maxiconda
+  version: {{ version }}
+
+source:
+  path: .
+
+build:
+  number: 0
+
+requirements:
+  build:
+    # python
+    - pypy3.6 =7.3.3 =he1ebe50_3
+  run:
+    # python
+    - pypy3.6 =7.3.3 =he1ebe50_3
+
+    # 15 primary packages :
+    - ipython =7.16.1 =py36he2ddec3_2
+    - matplotlib =3.3.4 =py36hd000896_0
+    - numba =0.53.1 =py36ha9443f7_0
+    - numpy =1.19.5 =py36h7e87304_1
+    - openpyxl =3.0.7 =pyhd8ed1ab_0
+    - pandas =1.1.5 =py36hcf32051_0
+    - psutil =5.8.0 =py36h70b1f00_1
+    - pyqt =5.9.2 =py36h05f1152_2
+    - qdarkstyle =3.0.2 =pyhd8ed1ab_0
+    - qtawesome =1.0.3 =pyhd8ed1ab_0
+    - regex =2021.4.4 =py36h70b1f00_0
+    - requests =2.25.1 =pyhd3deb0d_0
+    - spyder-kernels =2.0.4 =py36hd000896_0
+    - sqlalchemy =1.4.18 =py36h70b1f00_0
+    - sqlite =3.36.0 =h9cd32fc_0
+    - tqdm =4.61.2 =pyhd8ed1ab_1
+
+    # 110 secondary packages :
+    - _libgcc_mutex =0.1 =conda_forge
+    - _openmp_mutex =4.5 =1_gnu
+    - backcall =0.2.0 =pyh9f0ad1d_0
+    - backports =1.0 =py_2
+    - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
+    - brotlipy =0.7.0 =py36hd7bf43e_1001
+    - bzip2 =1.0.8 =h7f98852_4
+    - ca-certificates =2021.5.30 =ha878542_0
+    - certifi =2021.5.30 =py36hd000896_0
+    - cffi =1.14.3 =5_pypy36
+    - chardet =4.0.0 =py36hd000896_1
+    - cloudpickle =1.6.0 =py_0
+    - cryptography =3.4.7 =py36h99ba8bc_0
+    - cycler =0.10.0 =py_2
+    - dbus =1.13.6 =h48d8840_2
+    - decorator =5.0.9 =pyhd8ed1ab_0
+    - et_xmlfile =1.0.1 =py_1001
+    - expat =2.4.1 =h9c3ff4c_0
+    - fontconfig =2.13.1 =he4413a7_1000
+    - freetype =2.10.4 =h0708190_1
+    - gdbm =1.18 =h0a1914f_2
+    - gettext =0.19.8.1 =h0b5b191_1005
+    - glib =2.68.3 =h9c3ff4c_0
+    - glib-tools =2.68.3 =h9c3ff4c_0
+    - greenlet =1.1.0 =py36ha03b18c_0
+    - gst-plugins-base =1.14.0 =hbbd80ab_1
+    - gstreamer =1.14.0 =h28cd5cc_2
+    - icu =58.2 =hf484d3e_1000
+    - idna =2.10 =pyh9f0ad1d_0
+    - importlib-metadata =4.5.0 =py36hd000896_0
+    - ipykernel =5.5.5 =py36he2ddec3_0
+    - ipython_genutils =0.2.0 =py_1
+    - jbig =2.1 =h7f98852_2003
+    - jdcal =1.4.1 =py_0
+    - jedi =0.17.2 =py36hd000896_1
+    - jpeg =9d =h516909a_0
+    - jupyter_client =6.1.12 =pyhd8ed1ab_0
+    - jupyter_core =4.7.1 =py36hd000896_0
+    - kiwisolver =1.3.1 =py36h4ea7e17_1
+    - lcms2 =2.12 =hddcbb42_0
+    - lerc =2.2.1 =h9c3ff4c_0
+    - libblas =3.9.0 =9_openblas
+    - libcblas =3.9.0 =9_openblas
+    - libdeflate =1.7 =h7f98852_5
+    - libffi =3.3 =h58526e2_2
+    - libgcc-ng =9.3.0 =h2828fa1_19
+    - libgfortran-ng =9.3.0 =hff62375_19
+    - libgfortran5 =9.3.0 =hff62375_19
+    - libglib =2.68.3 =h3e27bee_0
+    - libgomp =9.3.0 =h2828fa1_19
+    - libiconv =1.16 =h516909a_0
+    - liblapack =3.9.0 =9_openblas
+    - libllvm10 =10.0.1 =he513fc3_3
+    - libopenblas =0.3.15 =pthreads_h8fe5266_1
+    - libpng =1.6.37 =hed695b0_2
+    - libsodium =1.0.18 =h516909a_1
+    - libstdcxx-ng =9.3.0 =h6de172a_19
+    - libtiff =4.3.0 =hf544144_1
+    - libuuid =2.32.1 =h14c3975_1000
+    - libwebp-base =1.2.0 =h7f98852_2
+    - libxcb =1.13 =h7f98852_1003
+    - libxml2 =2.9.9 =h13577e0_2
+    - llvmlite =0.36.0 =py36h2811f2f_0
+    - lz4-c =1.9.3 =h9c3ff4c_0
+    - matplotlib-base =3.3.4 =py36h9f53877_0
+    - ncurses =6.2 =h58526e2_4
+    - olefile =0.46 =pyh9f0ad1d_1
+    - openjpeg =2.4.0 =hb52868f_1
+    - openssl =1.1.1k =h7f98852_0
+    - parso =0.7.1 =pyh9f0ad1d_0
+    - pcre =8.45 =h9c3ff4c_0
+    - pexpect =4.8.0 =py36hc560c46_1
+    - pickleshare =0.7.5 =py36hc560c46_1002
+    - pillow =8.2.0 =py36h66fa6a0_1
+    - pip =21.1.3 =pyhd8ed1ab_0
+    - prompt-toolkit =3.0.19 =pyha770c72_0
+    - pthread-stubs =0.4 =h36c2ea0_1001
+    - ptyprocess =0.7.0 =pyhd3deb0d_0
+    - py =1.10.0 =pyhd3deb0d_0
+    - pygments =2.9.0 =pyhd8ed1ab_0
+    - pyopenssl =20.0.1 =pyhd8ed1ab_0
+    - pyparsing =2.4.7 =pyh9f0ad1d_0
+    - pysocks =1.7.1 =py36hd000896_3
+    - python =3.6.12 =5_73_pypy
+    - python-dateutil =2.8.1 =py_0
+    - python_abi =3.6 =2_pypy36_pp73
+    - pytz =2021.1 =pyhd8ed1ab_0
+    - pyzmq =22.1.0 =py36h83a5976_0
+    - qt =5.9.7 =h5867ecd_1
+    - qtpy =1.9.0 =py_0
+    - readline =8.1 =h46c0cb4_0
+    - setuptools =49.6.0 =py36hd000896_3
+    - sip =4.19.8 =py36hf484d3e_0
+    - six =1.16.0 =pyh6c4a22f_0
+    - tbb =2020.3 =hfd86e86_0
+    - tk =8.6.10 =hed695b0_1
+    - tornado =6.1 =py36h70b1f00_1
+    - traitlets =4.3.3 =py36hc560c46_1
+    - typing_extensions =3.10.0.0 =pyha770c72_0
+    - urllib3 =1.26.6 =pyhd8ed1ab_0
+    - wcwidth =0.2.5 =pyh9f0ad1d_2
+    - wheel =0.36.2 =pyhd3deb0d_0
+    - wurlitzer =2.1.0 =py36hd000896_0
+    - xorg-libxau =1.0.9 =h14c3975_0
+    - xorg-libxdmcp =1.1.3 =h516909a_0
+    - xz =5.2.5 =h516909a_1
+    - zeromq =4.3.4 =h9c3ff4c_0
+    - zipp =3.5.0 =pyhd8ed1ab_0
+    - zlib =1.2.11 =h516909a_1010
+    - zstd =1.5.0 =ha95c52a_0
+about:
+  home: https://github.com/Semi-ATE/maxiconda-envs
+  license: MIT
+  license_file: ../../../../LICENSE
+  summary: 'maxiconda meta package'
+  dev_url: https://github.com/Semi-ATE/maxiconda-envs
+
+extra:
+  recipe-maintainers:
+    - nerohmot
