@@ -80,14 +80,31 @@ def upload(package_path):
     if not os.path.exists(package_path):
         raise Exception(f"'{package_path}' does not exist!")
 
-    cmd = ["anaconda", "-t", os.environ.get("CONDA_UPLOAD_TOKEN", "Woops"), "upload", "-u", "semi-ate", package_path, "--force"]
-    print(f"'{' '.join(cmd)}'")
-    p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-    output, error = p.communicate()
-    error_lines = error.decode("utf-8").split("\n")    
-    #TODO: add the return value based on the error_lines
-    print(error_lines)
+    package_path = os.path.normpath(package_path)
+    package_file = package_path.split(os.sep)[-1]
+    environment = package_file.split("-")[0]
+    package_version = package_file.split("-")[1]
+    PY = package_file.split("-")[2].split("_")[0]
+    OS_CPU = package_path.split(os.sep)[-2] 
 
+    print(f"{OS_CPU}/{PY}/{environment}")
+    #TODO: maybe only run if the package_version != "0.0.0" ?!?
+    retval = True
+    cmd = ["anaconda", "-t", os.environ.get("CONDA_UPLOAD_TOKEN", "Woops"), "upload", "-u", "semi-ate", package_path, "--force"]
+    print(f"  running '{' '.join(cmd)}' ... ", end="", flush=True)
+    p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    _, output = p.communicate()
+    output_lines = output.decode("utf-8").split("\n")  
+    for output_line in output_lines:
+        if "[ERROR]" in output_line:
+            retval = False
+    if retval == False:
+        print("Failure.")
+        for output_line in output_lines:
+            print(f"  {output_line}")
+    else:
+        print("Success.")
+    return retval
 
 def build(env_meta_path):
 
@@ -97,6 +114,13 @@ def build(env_meta_path):
     env_meta_root = os.path.dirname(env_meta_path)
     if not os.path.exists(env_meta_root):
         raise Exception(f"'{env_meta_root}' does not exist!")
+
+    env_meta_path = os.path.normpath(env_meta_path)
+    environment = env_meta_path.split(os.sep)[-2]
+    PY = env_meta_path.split(os.sep)[-3]
+    OS_CPU = env_meta_path.split(os.sep)[-4]
+
+    print(f"{OS_CPU}/{PY}/{environment}")
 
     NUMPY_VER = None
     PYTHON_VER = None
@@ -111,19 +135,23 @@ def build(env_meta_path):
     if NUMPY_VER:
         cmd.extend(["--numpy", NUMPY_VER])
     cmd.extend(["-c", "conda-forge"])
+
+    print(f"  running '{' '.join(cmd)}' ... ", end="", flush=True)
     p = subprocess.Popen(cmd, cwd=env_meta_root, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     output, error = p.communicate()
     output_lines = output.decode("utf-8").split("\n")
-
     for i in range(len(output_lines)):
         if output_lines[i].startswith("anaconda upload"):
             break
     if os.path.exists(output_lines[i+1].strip()):
+        print("Success.")
+        print(f"  {output_lines[i+1].strip()}")
         return output_lines[i+1].strip()
     else:
+        print("Failure.")
         return None
 
-def main(and_upload=False):
+def main(testing=True):
 
     OS_CPU_recipes = RECIPES_ROOT / get_OS_CPU() 
 
@@ -131,18 +159,12 @@ def main(and_upload=False):
         for file in files:
             if file == "meta.yaml":
                 recipe_path = os.path.join(root, file)
-                print(f"building : '{recipe_path}' ... ", end="", flush=True)
                 package = build(recipe_path)
-                if not package is None:
-                    print(f"Done. ({package})")
-                    if and_upload:
-                        print(f"uploading : ", end="", flush=True)
-                        upload(package)
-                else:
-                    print("Failed.")
+                if not package is None and not testing:
+                    upload(package)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--and-upload', action='store_true')
+    parser.add_argument('--test', action='store_true')
     args = parser.parse_args()
-    main(args.and_upload)
+    main(args.test)
