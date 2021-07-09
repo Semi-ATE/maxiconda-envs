@@ -42,8 +42,8 @@ jobs:
         OS: ${{ matrix.OS }}
         DOCKER_IMG: ${{ matrix.DOCKER_IMG }}
         CONDA_UPLOAD_TOKEN: ${{ secrets.CONDA_UPLOAD_TOKEN }}
-        MAXICONDA_ENV_RELEASE: ${GITHUB_REF##*/}
       run: |
+        export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/};
         if [[ "$OS" == "linux-aarch64" ]]; then
           echo "Solving Environments for linux-aarch64"
         elif [[ "$OS" == "osx-arm64" ]]; then
