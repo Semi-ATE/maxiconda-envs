@@ -120,7 +120,7 @@ def build(env_meta_path):
     PY = env_meta_path.split(os.sep)[-3]
     OS_CPU = env_meta_path.split(os.sep)[-4]
 
-    print(f"building : {OS_CPU}/{PY}/{environment}")
+    print(f"Building : {OS_CPU}/{PY}/{environment}")
 
     NUMPY_VER = None
     PYTHON_VER = None
