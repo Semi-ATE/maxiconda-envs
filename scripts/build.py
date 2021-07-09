@@ -2,104 +2,147 @@
 # -*- coding: utf-8 -*-
 """
 """
+import argparse
 import sys
 import os
 import platform
 import subprocess
 from pathlib import Path
-from jinja2 import Template
-from yaml import safe_load
 
 # Constants
 HERE = Path(__file__).resolve().parent
 REPO_ROOT = HERE.parent
-RECIPES_PATH = REPO_ROOT / "recipes"
-UPLOAD_SCRIPT = REPO_ROOT / "scripts" / "upload.sh"
+RECIPES_ROOT  = REPO_ROOT / "recipes"
+
+def get_OS_CPU():
+    """
+    This function will return the OS and CPU in a conda-forge compatible format.
+
+    Parameters
+    ----------
+    /
+
+    Returns
+    -------
+    conda-forge compatile OS_CPU, limited to:
+        - linux-64   
+        - linux-aarch64
+        - osx-64   
+        - osx-arm64
+        - win-64
+    """
+
+    is_64bits = sys.maxsize > 2**32
+    if not is_64bits:
+        raise Exception("only 64 bit platforms are supported.")
+
+    CPU = platform.machine()
+
+    OS = platform.system()
+    if OS == "Linux":
+        if CPU in ["AMD64", "x86_64"]:
+            OS_CPU = "linux-64"
+        elif CPU in ["aarch64"]:
+            OS_CPU = "linux-aarch64"
+        else:
+            raise Exception(f"'{CPU}' not supported in Linux")
+    elif OS == "Windows":
+        if CPU in ["AMD64", "x86_64"]:
+            OS_CPU = "win-64"
+        else:
+            raise Exception(f"'{CPU}' not supported in Windows")
+    elif OS == "Darwin":
+        if CPU in ["AMD64", "x86_64"]:
+            OS_CPU = "osx-64"
+        elif CPU in ["aarch64"]:
+            OS_CPU = "osx-arm64"
+        else:
+            raise Exception(f"'{CPU}' not supported in MacOS")
+    else:
+        raise Exception("'{OS}' not supported.")
+
+    return OS_CPU
+
+def upload(package_path):
+    """
+    This function uploads the package pointed to by package_path to anaconda.org/Semi-ATE
+    It uses the CONDA_UPLOAD_TOKEN environment variable to do so.
+
+    Parameters
+    ----------
+    package_path : str that points to a valid meta.yaml file under recipes.
+
+    Returns
+    -------
+    bool (True for success, False for failure)
+    """
+
+    if not os.path.exists(package_path):
+        raise Exception(f"'{package_path}' does not exist!")
+
+    cmd = ["anaconda", "-t", os.environ.get("CONDA_UPLOAD_TOKEN", "Woops"), "upload", "-u", "semi-ate", package_path, "--force"]
+    print(f"'{' '.join(cmd)}'")
+    p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    output, error = p.communicate()
+    error_lines = error.decode("utf-8").split("\n")    
+    #TODO: add the return value based on the error_lines
+    print(error_lines)
 
 
-def get_env():
-    os_table = {
-        "Darwin": "osx",
-        "Linux": "linux",
-        "Windows": "win",
-    }
-    return os_table.get(platform.system())
+def build(env_meta_path):
 
+    if not os.path.exists(env_meta_path):
+        raise Exception(f"'{env_meta_path}' does not exist!")
 
-def get_py_numpy(meta_fpath):
-    with open(meta_fpath, "r") as fh:
-        data = fh.read()
-    
-    py_ver = None
-    numpy_ver = None
-    template = Template(data)
-    data = safe_load(template.render(os=os))
-    for package in data["requirements"]["build"]:
-        if package.startswith("python ="):
-            py_ver = package.split(" =")[-1]
+    env_meta_root = os.path.dirname(env_meta_path)
+    if not os.path.exists(env_meta_root):
+        raise Exception(f"'{env_meta_root}' does not exist!")
 
-    for package in data["requirements"]["run"]:
-        if package.startswith("numpy ="):
-            numpy_ver = package.split(" =")[-1]
+    NUMPY_VER = None
+    PYTHON_VER = None
+    with open(env_meta_path) as fd:
+        for line in fd:
+            if "- numpy " in line:
+                NUMPY_VER = line.split("=")[1].strip()
+            if "- python " in line and PYTHON_VER is None:
+                PYTHON_VER = line.split("=")[1].strip()
 
-    name = data["package"]["name"]
-    version = data["package"]["version"]
-    build = data["build"]["number"]
-    return name, version, build, py_ver, numpy_ver
-
-
-def upload(version, build, environment, py_ver):
-    py_ver = "".join(py_ver.split(".")[:2])
-    path = Path(sys.prefix) / "conda-bld" / f"{get_env()}-64" / f"{environment}-{version}-py{py_ver}_{build}.tar.bz2"
-    cmd = ["anaconda", "-t", "$CONDA_UPLOAD_TOKEN", "upload", "-u", "semi-ate", str(path), "--force"]
-
-    print("\n\nUploading packages:\n\n")
-    print(f"{cmd}\n\n")
-
-    cmd[2] = os.environ.get("CONDA_UPLOAD_TOKEN")
-    if path.is_file():
-        p = subprocess.Popen(cmd)
-        p.communicate()
-
-
-def purge():
-    print("\n\nPurging packages:\n\n")
-    cmd = ["conda", "build", "purge-all"]
-    p = subprocess.Popen(cmd)
-    p.communicate()
-
-
-def build_package(meta_fpath, py_ver, numpy_ver):
-    cmd = ["conda-build", ".", "--python",  py_ver]
-    if numpy_ver:
-        cmd.extend(["--numpy", numpy_ver])
-
+    cmd = ["conda-build", ".", "--python",  PYTHON_VER]
+    if NUMPY_VER:
+        cmd.extend(["--numpy", NUMPY_VER])
     cmd.extend(["-c", "conda-forge"])
-    path = meta_fpath.parent
-    print("\n\nBuilding packages:\n\n")
-    print(f"Working dir: {path}")
-    print(" ".join(cmd))
-    print("\n\n")
-    p = subprocess.Popen(cmd, cwd=path)
-    p.communicate()
+    p = subprocess.Popen(cmd, cwd=env_meta_root, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    output, error = p.communicate()
+    output_lines = output.decode("utf-8").split("\n")
 
+    for i in range(len(output_lines)):
+        if output_lines[i].startswith("anaconda upload"):
+            break
+    if os.path.exists(output_lines[i+1].strip()):
+        return output_lines[i+1].strip()
+    else:
+        return None
 
-def main(python_version, py_implementation):
-    recipes_path = RECIPES_PATH / f"{get_env()}-64/{py_implementation}{python_version.replace('.', '')}/"
-    for environment in recipes_path.iterdir():
-        if environment.is_dir():
-            for meta_path in environment.iterdir():
-                if str(meta_path).endswith(".yaml"):
-                    environment_name, version, build, py_ver, numpy_ver = get_py_numpy(meta_path)
-                    # purge()
-                    build_package(meta_path, py_ver, numpy_ver)
-                    upload(version, build, environment_name, py_ver)
+def main(and_upload=False):
 
+    OS_CPU_recipes = RECIPES_ROOT / get_OS_CPU() 
+
+    for root, dirs, files in os.walk(str(OS_CPU_recipes)):
+        for file in files:
+            if file == "meta.yaml":
+                recipe_path = os.path.join(root, file)
+                print(f"building : '{recipe_path}' ... ", end="", flush=True)
+                package = build(recipe_path)
+                if not package is None:
+                    print(f"Done. ({package})")
+                    if and_upload:
+                        print(f"uploading : ", end="", flush=True)
+                        upload(package)
+                else:
+                    print("Failed.")
 
 if __name__ == '__main__':
-    for python_version in ["3.6", "3.7", "3.8", "3.9"]:
-        for py_implementation in ["py"]:
-            main(
-                python_version,
-                py_implementation,
-            )
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--and-upload', action='store_true')
+    args = parser.parse_args()
+    main(args.and_upload)

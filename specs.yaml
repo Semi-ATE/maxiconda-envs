@@ -1,0 +1,110 @@
+matrix:
+  win-64:
+    win-64_py36: ['_spyder_', 'maxiconda']
+    win-64_pypy36: ['maxiconda']
+    win-64_py37: ['_spyder_', 'maxiconda']
+    win-64_pypy37: ['maxiconda']
+    win-64_py38: ['_spyder_', 'maxiconda']
+    win-64_py39: ['_spyder_', 'maxiconda']
+  linux-64:
+    linux-64_py36: ['_spyder_', 'maxiconda']
+    linux-64_pypy36: ['maxiconda']
+    linux-64_py37: ['_spyder_', 'maxiconda']
+    linux-64_pypy37: ['maxiconda']
+    linux-64_py38: ['_spyder_', 'maxiconda']
+    linux-64_py39:  ['_spyder_', 'maxiconda']
+  linux-aarch64:
+    linux-aarch64_py36: ['_spyder_', 'maxiconda']
+    linux-aarch64_pypy36: ['maxiconda']
+    linux-aarch64_py37: ['_spyder_', 'maxiconda']
+    linux-aarch64_pypy37: ['maxiconda']
+    linux-aarch64_py38: ['_spyder_', 'maxiconda']
+    linux-aarch64_py39: ['_spyder_', 'maxiconda']
+  osx-64:   
+    osx-64_py36: ['_spyder_', 'maxiconda']
+    osx-64_pypy36: ['maxiconda']
+    osx-64_py37: ['_spyder_', 'maxiconda']
+    osx-64_pypy37: ['maxiconda']
+    osx-64_py38: ['_spyder_', 'maxiconda']
+    osx-64_py39: ['_spyder_', 'maxiconda']
+  osx-arm64:
+    osx-arm64_py36: ['_spyder_', 'maxiconda']
+    osx-arm64_pypy36: ['maxiconda']
+    osx-arm64_py37: ['_spyder_', 'maxiconda']
+    osx-arm64_pypy37: ['maxiconda']
+    osx-arm64_py38: ['_spyder_', 'maxiconda']
+    osx-arm64_py39: ['_spyder_', 'maxiconda']
+
+environments:
+  _spyder_:
+    - spyder
+    # - ffmpeg
+    - spyder-screencast
+    - spyder-remote-client
+    - spyder-terminal
+    # - Semi-ATE
+    - cython
+    - matplotlib
+    - numpy
+    - pandas
+    - scipy
+    - sympy
+  maxiconda:
+    - spyder-kernels
+    - numpy
+    - ipython
+    - numba
+    - matplotlib
+    - openpyxl
+    - requests
+    - psutil
+    - pyqt
+    - qdarkstyle
+    - qtawesome
+    - regex
+    - sqlite
+    - sqlalchemy
+    - tqdm
+    - pandas
+    - beautifilsoup
+    - menu-inst
+  cf-data:
+    - spyder-kernels
+    - scrapy
+    - beautifulsoup
+    - numpy
+    - scipy
+    - pandas
+    - keras
+    - scikit-learn
+    - pytorch
+    - tensorflow
+    - xgboost
+    - matplotlib
+    - seaborn
+    - bokeh
+    - plotly
+    - pydot
+    - caffe
+    - statsmodels
+    - lightgbm
+    - pycaret
+    - sqlalchemy
+    - sqlite
+  cf-web:
+    - spyder-kernels
+    - requests
+    - simplejson
+    - sqlalchemy
+    - twisted
+    - beautifulsoup
+    - django
+  cf-eng:
+    - spyder-kernels
+    - pyvisa-py
+    - pyserial
+    - pyusb
+  cf-bio:
+    - spyder-kernels
+  cf-astro:
+    - spyder-kernels

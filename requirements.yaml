@@ -1,0 +1,14 @@
+name: maxiconda-envs
+
+channels:
+  - conda-forge
+
+dependencies:
+  - anaconda-client
+  - conda-build
+  - jinja2
+  - openpyxl
+  - python
+  - pyyaml
+  - requests
+  - git

@@ -1,0 +1,57 @@
+name: Continuous Delivery
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  build_and_upload:
+    name: ${{ matrix.OS_CPU }}
+    runs-on: ${{ matrix.VM }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - OS_CPU: win-64
+            VM: windows-latest            
+          - OS_CPU: linux-64
+            VM: linux-latest
+          # - OS_CPU: linux-aarch64
+          #   VM: linux-latest
+          #   DOCKER_image: xyz
+          - OS_CPU: osx-64
+            VM: macos-latest
+          # - OS_CPU: osx-arm64
+          #   VM: macos-latest
+          #   DOCKER_IMG: xyz      
+    steps:  
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup conda environment
+      uses: conda-incubator/setup-miniconda@v2
+      with:
+        miniconda-version: latest
+        activate-environment: maxiconda-envs
+        environment-file: requirements.yml
+        channel-priority: strict
+
+    - name: build and upload
+      shell: bash -l {0}
+      env:
+        CONDA_UPLOAD_TOKEN: ${{ secrets.CONDA_UPLOAD_TOKEN }}
+        MAXICONDA_ENV_RELEASE: ${GITHUB_REF##*/}
+      run: |
+        python -u scripts/build.py --and-upload
+
+  # consolidate:
+  #   runs-on: linux-latest
+  #   steps:
+  #   - name: consolidate
+  #     shell: bash -l {0}
+  #     env:
+  #       CONDA_UPLOAD_TOKEN: ${{ secrets.CONDA_UPLOAD_TOKEN }}
+  #       MAXICONDA_ENV_RELEASE: ${GITHUB_REF##*/}
+  #     run: |
+  #       python -u scripts/build.py --and-upload
+  
