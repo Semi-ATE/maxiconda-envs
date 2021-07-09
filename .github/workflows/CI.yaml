@@ -18,11 +18,11 @@ jobs:
             VM: windows-latest            
           - OS_CPU: linux-64
             VM: linux-latest
-          # - OS_CPU: linux-aarch64
-          #   VM: linux-latest
-          #   DOCKER_image: xyz
           - OS_CPU: osx-64
             VM: macos-latest
+          - OS_CPU: linux-aarch64
+            VM: linux-latest
+            DOCKER_IMG: condaforge/linux-anvil-aarch64
           # - OS_CPU: osx-arm64
           #   VM: macos-latest
           #   DOCKER_IMG: xyz      
@@ -38,7 +38,7 @@ jobs:
       with:
         miniconda-version: latest
         activate-environment: maxiconda-envs
-        environment-file: requirements.yml
+        environment-file: environment.yaml
         channel-priority: strict
 
     - name: git setup for Windows
@@ -46,10 +46,22 @@ jobs:
       run:
         git config --global core.autocrlf false  # fix for windows commit that exits with 1 if no changes. 
 
-    - name: solve
-      shell: bash -l {0}
+
+    - name: Solve
+      env:
+        OS_CPU: ${{ matrix.OS_CPU }}
+        DOCLER_IMG: ${{ matrix.DOCKER_IMG }}
       run: |
-        python -u scripts/solve.py
+        if [[ "$OS_CPU" == "linux-aarch64" ]]; then
+          pwd
+          docker run --rm --privileged multiarch/qemu-user-static --reset --credential yes --persistent yes
+          docker run --rm -v "$(pwd):/construct" ${DOCKER_IMAGE} python -u scripts/solve.py
+        elif [[ "$OS_CPU" == "osx-arm64"]]; then
+          echo "To be implemented"
+        else
+          python -u scripts/solve.py
+        fi
+      shell: bash
 
     - name: Commit files
       run: |
