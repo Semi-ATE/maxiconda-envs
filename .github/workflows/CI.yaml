@@ -7,7 +7,7 @@ on:
     - cron: 0 0 * * *
 
 jobs:
-  solve:
+  solve_and_test:
     name: ${{ matrix.OS }}
     runs-on: ${{ matrix.VM }}
     strategy:
@@ -59,21 +59,20 @@ jobs:
         else
           echo "Solving Environments for $OS"
           python -u scripts/solve.py
+          python -u scripts/build.py --test
         fi
 
-#     - name: Commit files
-#       run: |
-#         git config --local user.email "action@github.com"
-#         git config --local user.name "GitHub Action"
-#         git add . || echo "ignore adding files, proceed"
-#         git commit -m "Update packages ${{ matrix.OS_CPU }}" || echo "ignore commit failure, proceed"
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add . || echo "ignore adding files, proceed"
+        git commit -m "Update packages ${{ matrix.OS_CPU }}" || echo "ignore commit failure, proceed"
 
-#     - name: Push changes
-#       uses: ad-m/github-push-action@v0.6.0
-#       with:
-#         github_token: ${{ secrets.TOKEN_GITHUB }}
-#         branch: main
-#         directory: "../maxiconda-envs"
-#         repository: Semi-ATE/maxiconda-envs
-
-#   build:
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.TOKEN_GITHUB }}
+        branch: main
+        directory: "../maxiconda-envs"
+        repository: Semi-ATE/maxiconda-envs
