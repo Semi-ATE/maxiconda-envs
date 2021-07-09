@@ -8,7 +8,7 @@ on:
 
 jobs:
   solve:
-    name: ${{ matrix.OS_CPU }}
+    name: ${{ matrix.OS }}
     runs-on: ${{ matrix.VM }}
     strategy:
       fail-fast: false
@@ -49,15 +49,15 @@ jobs:
     - name: Solve Target Environments
       shell: bash -l {0}
       env:
-        OS_CPU: ${{ matrix.OS_CPU }}
+        OS: ${{ matrix.OS }}
         DOCKER_IMG: ${{ matrix.DOCKER_IMG }}
       run: |
-        if [[ "$OS_CPU" == "linux-aarch64" ]]; then
+        if [[ "$OS" == "linux-aarch64" ]]; then
           echo "Solving Environments for linux-aarch64"
-        elif [[ "$OS_CPU" == "osx-arm64" ]]; then
+        elif [[ "$OS" == "osx-arm64" ]]; then
           echo "Solving Environments for osx-arm64"
         else
-          echo "Solving Environments for $OS_CPU"
+          echo "Solving Environments for $OS"
         fi
 
 #     - name: Commit files
