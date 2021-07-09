@@ -144,6 +144,9 @@ def build(env_meta_path):
     for i in range(len(output_lines)):
         if output_lines[i].startswith("anaconda upload"):
             break
+
+    print(f"i={i} <-> len(output_lines)={len(output_lines)}")
+
     if i+1 <= len(output_lines):
         print("Success.")
         print(f"  {output_lines[i+1].strip()}")
