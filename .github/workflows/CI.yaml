@@ -27,11 +27,11 @@ jobs:
             VM: macos-latest
             DOCKER_IMG: xyz      
     steps:  
-    - name: Checkout code
-      uses: actions/checkout@v2
-      with:
-        persist-credentials: false  # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
-        fetch-depth: 0  # otherwise, you will failed to push refs to dest repo
+#     - name: Checkout code
+#       uses: actions/checkout@v2
+#       with:
+#         persist-credentials: false  # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+#         fetch-depth: 0  # otherwise, you will failed to push refs to dest repo
 
 #     - name: Setup conda environment
 #       uses: conda-incubator/setup-miniconda@v2
@@ -54,14 +54,10 @@ jobs:
         echo "$OS_CPU"
         if [[ "$OS_CPU" == "linux-aarch64" ]]; then
           echo "linux-aarch64"
-          pwd
-          docker run --rm --privileged multiarch/qemu-user-static --reset --credential yes --persistent yes
-          docker run --rm -v "$(pwd):/construct" ${DOCKER_IMAGE} python -u scripts/solve.py
         elif [[ "$OS_CPU" == "osx-arm64" ]]; then
           echo "osx-arm64"
         else
           echo "$OS_CPU"
-          #python -u scripts/solve.py
         fi
       shell: bash
 
