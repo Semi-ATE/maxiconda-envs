@@ -294,6 +294,7 @@ def write_recipe(designator, primary_packages, environment, build_string=False):
         fh.write("\n")
         fh.write("build:\n")
         fh.write("  number: 0\n")
+        fh.write(f"  string: {PY}\n")
         fh.write("\n")
         fh.write("requirements:\n")
         fh.write("  build:\n")
@@ -303,7 +304,7 @@ def write_recipe(designator, primary_packages, environment, build_string=False):
         fh.write("    # python\n")
         fh.write(f"    - {PYTHON}\n")
         fh.write("\n")
-        fh.write(f"    # {len(primary_packages)-1} primary packages :\n")
+        fh.write(f"    # {len(primary_packages)} primary packages :\n")
         for primary_package in sorted(primary_packages):
             fh.write(f"    - {primary_package} ={packages[primary_package]['version']}")
             if build_string:
