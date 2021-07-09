@@ -49,15 +49,14 @@ jobs:
     - name: Solve Target Environments
       env:
         OS_CPU: ${{ matrix.OS_CPU }}
-        DOCLER_IMG: ${{ matrix.DOCKER_IMG }}
+        DOCKER_IMG: ${{ matrix.DOCKER_IMG }}
       run: |
-        echo "$OS_CPU"
         if [[ "$OS_CPU" == "linux-aarch64" ]]; then
-          echo "linux-aarch64"
+          echo "Solving Environments for linux-aarch64"
         elif [[ "$OS_CPU" == "osx-arm64" ]]; then
-          echo "osx-arm64"
+          echo "Solving Environments for osx-arm64"
         else
-          echo "$OS_CPU"
+          echo "Solving Environments for $OS_CPU"
         fi
       shell: bash
 
