@@ -7,22 +7,22 @@ on:
     - cron: 0 0 * * *
 
 jobs:
-  solve_and_check-in:
+  solve:
     name: ${{ matrix.OS_CPU }}
     runs-on: ${{ matrix.VM }}
     strategy:
       fail-fast: false
       matrix:
         include:
-          - OS_CPU: win-64
-            VM: windows-latest            
+          # - OS_CPU: win-64
+          #   VM: windows-latest            
           - OS_CPU: linux-64
             VM: linux-latest
-          - OS_CPU: osx-64
-            VM: macos-latest
-          - OS_CPU: linux-aarch64
-            VM: linux-latest
-            DOCKER_IMG: condaforge/linux-anvil-aarch64
+          # - OS_CPU: osx-64
+          #   VM: macos-latest
+          # - OS_CPU: linux-aarch64
+          #   VM: linux-latest
+          #   DOCKER_IMG: condaforge/linux-anvil-aarch64
           # - OS_CPU: osx-arm64
           #   VM: macos-latest
           #   DOCKER_IMG: xyz      
@@ -33,51 +33,50 @@ jobs:
         persist-credentials: false  # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         fetch-depth: 0  # otherwise, you will failed to push refs to dest repo
 
-    - name: Setup conda environment
-      uses: conda-incubator/setup-miniconda@v2
-      with:
-        miniconda-version: latest
-        activate-environment: maxiconda-envs
-        environment-file: environment.yaml
-        channel-priority: strict
+#     - name: Setup conda environment
+#       uses: conda-incubator/setup-miniconda@v2
+#       with:
+#         miniconda-version: latest
+#         activate-environment: maxiconda-envs
+#         environment-file: environment.yaml
+#         channel-priority: strict
 
-    - name: git setup for Windows
-      if: runner.os == 'Windows'
-      run:
-        git config --global core.autocrlf false  # fix for windows commit that exits with 1 if no changes. 
+#     - name: git setup for Windows
+#       if: runner.os == 'Windows'
+#       run:
+#         git config --global core.autocrlf false  # fix for windows commit that exits with 1 if no changes. 
 
-
-    - name: Solve
+    - name: Solve Target Environments
       env:
         OS_CPU: ${{ matrix.OS_CPU }}
         DOCLER_IMG: ${{ matrix.DOCKER_IMG }}
       run: |
-        if [[ "$OS_CPU" == "linux-aarch64" ]]
-        then
-          pwd
-          docker run --rm --privileged multiarch/qemu-user-static --reset --credential yes --persistent yes
-          docker run --rm -v "$(pwd):/construct" ${DOCKER_IMAGE} python -u scripts/solve.py
-        elif [[ "$OS_CPU" == "osx-arm64"]]
-        then
-          echo "To be implemented"
+        if [[ "$OS_CPU" == "linux-aarch64" ]]; then
+          echo "linux-aarch64"
+          #pwd
+          #docker run --rm --privileged multiarch/qemu-user-static --reset --credential yes --persistent yes
+          #docker run --rm -v "$(pwd):/construct" ${DOCKER_IMAGE} python -u scripts/solve.py
+        elif [[ "$OS_CPU" == "osx-arm64"]]; then
+          echo "osx-arm64"
         else
-          python -u scripts/solve.py
+          echo "$OS_CPU"
+          #python -u scripts/solve.py
         fi
       shell: bash
 
-    - name: Commit files
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add . || echo "ignore adding files, proceed"
-        git commit -m "Update packages ${{ matrix.OS_CPU }}" || echo "ignore commit failure, proceed"
+#     - name: Commit files
+#       run: |
+#         git config --local user.email "action@github.com"
+#         git config --local user.name "GitHub Action"
+#         git add . || echo "ignore adding files, proceed"
+#         git commit -m "Update packages ${{ matrix.OS_CPU }}" || echo "ignore commit failure, proceed"
 
-    - name: Push changes
-      uses: ad-m/github-push-action@v0.6.0
-      with:
-        github_token: ${{ secrets.TOKEN_GITHUB }}
-        branch: main
-        directory: "../maxiconda-envs"
-        repository: Semi-ATE/maxiconda-envs
+#     - name: Push changes
+#       uses: ad-m/github-push-action@v0.6.0
+#       with:
+#         github_token: ${{ secrets.TOKEN_GITHUB }}
+#         branch: main
+#         directory: "../maxiconda-envs"
+#         repository: Semi-ATE/maxiconda-envs
 
-  # build:
+#   build:
