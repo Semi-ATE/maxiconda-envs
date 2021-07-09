@@ -17,11 +17,11 @@ jobs:
           - OS: win-64
             VM: windows-latest            
           - OS: linux-64
-            VM: linux-latest
+            VM: ubuntu-latest
           - OS: osx-64
             VM: macos-latest
           - OS: linux-aarch64
-            VM: linux-latest
+            VM: ubuntu-latest
             DOCKER_IMG: condaforge/linux-anvil-aarch64
           - OS: osx-arm64
             VM: macos-latest
