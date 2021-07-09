@@ -84,7 +84,7 @@ def upload(package_path):
     package_file = package_path.split(os.sep)[-1]
     environment = package_file.split("-")[0]
     package_version = package_file.split("-")[1]
-    PY = package_file.split("-")[2].split("_")[0]
+    PY = package_file.split("-")[2].split(".")[0]
     OS_CPU = package_path.split(os.sep)[-2] 
 
     print(f"Uploading : {OS_CPU}/{PY}/{environment}")
