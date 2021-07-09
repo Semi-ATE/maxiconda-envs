@@ -52,11 +52,13 @@ jobs:
         OS_CPU: ${{ matrix.OS_CPU }}
         DOCLER_IMG: ${{ matrix.DOCKER_IMG }}
       run: |
-        if [[ "$OS_CPU" == "linux-aarch64" ]]; then
+        if [[ "$OS_CPU" == "linux-aarch64" ]]
+        then
           pwd
           docker run --rm --privileged multiarch/qemu-user-static --reset --credential yes --persistent yes
           docker run --rm -v "$(pwd):/construct" ${DOCKER_IMAGE} python -u scripts/solve.py
-        elif [[ "$OS_CPU" == "osx-arm64"]]; then
+        elif [[ "$OS_CPU" == "osx-arm64"]]
+        then
           echo "To be implemented"
         else
           python -u scripts/solve.py
