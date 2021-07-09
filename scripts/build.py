@@ -139,25 +139,32 @@ def build(env_meta_path):
     print(f"  running '{' '.join(cmd)}' ... ", end="", flush=True)
     p = subprocess.Popen(cmd, cwd=env_meta_root, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     output, error = p.communicate()
-    output_lines = output.decode("utf-8").split("\n")
-    error_lines = error.decode("utf-8").split("\n")
-    for i in range(len(output_lines)):
-        if output_lines[i].startswith("anaconda upload"):
-            break
 
-    print(f"i={i} <-> len(output_lines)={len(output_lines)}")
-
-    if i+1 <= len(output_lines):
-        print("Success.")
-        print(f"  {output_lines[i+1].strip()}")
-        return output_lines[i+1].strip()
+    retval = None
+    if b"anaconda upload" in output:
+        print("success.")
+        retval = output.split(b"anaconda upload")[1].split(b"\n")[1]
+        retval = str(retval).replace("b'", "").replace("'", "").strip()
+        print(f"  package location = '{retval}'")
     else:
         print("Failure.")
+        output_lines = output.decode("utf-8").split("\n")
+        error_lines = error.decode("utf-8").split("\n")
         for line in output_lines:
             print(line)
         for line in error_lines:
             print(line)
-        return None
+    return retval
+
+def is_uploadable(package_path):
+    if not isinstance(package_path, str):
+        return False
+    package_path = os.path.normpath(package_path)
+    if not os.path.exists(package_path):
+        return False
+    retval = os.path.basename(package_path)
+    retval = retval.split("-")[1]
+    return not (retval == "0.0.0")
 
 def main(testing=True):
 
@@ -168,8 +175,9 @@ def main(testing=True):
             if file == "meta.yaml":
                 recipe_path = os.path.join(root, file)
                 package = build(recipe_path)
-                if not package is None and not testing:
-                    upload(package)
+                if is_uploadable(package):
+                    if not testing:
+                        upload(package)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
