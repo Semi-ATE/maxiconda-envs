@@ -14,18 +14,18 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          # - OS_CPU: win-64
-          #   VM: windows-latest            
+          - OS_CPU: win-64
+            VM: windows-latest            
           - OS_CPU: linux-64
             VM: linux-latest
-          # - OS_CPU: osx-64
-          #   VM: macos-latest
-          # - OS_CPU: linux-aarch64
-          #   VM: linux-latest
-          #   DOCKER_IMG: condaforge/linux-anvil-aarch64
-          # - OS_CPU: osx-arm64
-          #   VM: macos-latest
-          #   DOCKER_IMG: xyz      
+          - OS_CPU: osx-64
+            VM: macos-latest
+          - OS_CPU: linux-aarch64
+            VM: linux-latest
+            DOCKER_IMG: condaforge/linux-anvil-aarch64
+          - OS_CPU: osx-arm64
+            VM: macos-latest
+            DOCKER_IMG: xyz      
     steps:  
     - name: Checkout code
       uses: actions/checkout@v2
