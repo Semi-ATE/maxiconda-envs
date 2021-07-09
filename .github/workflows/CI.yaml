@@ -14,16 +14,16 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - OS_CPU: win-64
+          - OS: win-64
             VM: windows-latest            
-          - OS_CPU: linux-64
+          - OS: linux-64
             VM: linux-latest
-          - OS_CPU: osx-64
+          - OS: osx-64
             VM: macos-latest
-          - OS_CPU: linux-aarch64
+          - OS: linux-aarch64
             VM: linux-latest
             DOCKER_IMG: condaforge/linux-anvil-aarch64
-          - OS_CPU: osx-arm64
+          - OS: osx-arm64
             VM: macos-latest
             DOCKER_IMG: xyz      
     steps:  
@@ -44,9 +44,10 @@ jobs:
 #     - name: git setup for Windows
 #       if: runner.os == 'Windows'
 #       run:
-#         git config --global core.autocrlf false  # fix for windows commit that exits with 1 if no changes. 
+#         git config --global core.autocrlf false  # fix for windows commit that exits with 1 if no changes ref: https://github.com/rstudio/shinycoreci-apps/blob/6f2cc1e6bc59e509b8b151190d9dd50ec9efaadd/.github/workflows/ci-runtests.yml#L161-L164 
 
     - name: Solve Target Environments
+      shell: bash -l {0}
       env:
         OS_CPU: ${{ matrix.OS_CPU }}
         DOCKER_IMG: ${{ matrix.DOCKER_IMG }}
@@ -58,7 +59,6 @@ jobs:
         else
           echo "Solving Environments for $OS_CPU"
         fi
-      shell: bash
 
 #     - name: Commit files
 #       run: |
