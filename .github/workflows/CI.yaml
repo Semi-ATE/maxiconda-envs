@@ -67,9 +67,9 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add . || echo "ignore adding files, proceed"
-        git commit -m "Update packages ${{ matrix.OS_CPU }}" || echo "ignore commit failure, proceed"
         git pull
+        git add -A || echo "ignore adding files, proceed"
+        git commit -m "Update packages ${{ matrix.OS_CPU }}" || echo "ignore commit failure, proceed"
 
     - name: Push changes
       uses: ad-m/github-push-action@v0.6.0
