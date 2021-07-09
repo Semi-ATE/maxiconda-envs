@@ -58,6 +58,7 @@ jobs:
         else
           echo "Solving Environments for $OS_CPU"
         fi
+      shell: bash
 
 #     - name: Commit files
 #       run: |
