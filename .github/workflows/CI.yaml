@@ -52,14 +52,12 @@ jobs:
         DOCLER_IMG: ${{ matrix.DOCKER_IMG }}
       run: |
         echo "$OS_CPU"
-        if [[ "$OS_CPU" == "linux-aarch64" ]]
-        then
+        if [[ "$OS_CPU" == "linux-aarch64" ]]; then
           echo "linux-aarch64"
           pwd
           docker run --rm --privileged multiarch/qemu-user-static --reset --credential yes --persistent yes
           docker run --rm -v "$(pwd):/construct" ${DOCKER_IMAGE} python -u scripts/solve.py
-        elif [[ "$OS_CPU" == "osx-arm64"]]
-        then
+        elif [[ "$OS_CPU" == "osx-arm64" ]]; then
           echo "osx-arm64"
         else
           echo "$OS_CPU"
