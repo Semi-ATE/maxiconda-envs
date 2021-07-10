@@ -1,0 +1,50 @@
+name: Testing vehicle
+
+on:
+  workflow_dispatch:
+
+jobs:
+  my_test:
+    name: ${{ matrix.OS }}
+    runs-on: ${{ matrix.VM }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - OS: win-64
+            VM: windows-latest            
+          - OS: linux-64
+            VM: ubuntu-latest
+          - OS: osx-64
+            VM: macos-latest
+          - OS: linux-aarch64
+            VM: ubuntu-latest
+            DOCKER_IMG: condaforge/linux-anvil-aarch64
+          - OS: osx-arm64
+            VM: macos-latest
+            DOCKER_IMG: xyz      
+    steps:
+    - name: test if on Windows
+      shell: bash -l {0}
+      run: |
+        if 
+        
+    - name: Git set up for Windows
+      if: runner.os == 'Windows'
+      run:
+        git config --global core.autocrlf false  # fix for windows commit that exits with 1 if no changes ref: https://github.com/rstudio/shinycoreci-apps/blob/6f2cc1e6bc59e509b8b151190d9dd50ec9efaadd/.github/workflows/ci-runtests.yml#L161-L164 
+
+    - name: Run matrix
+      shell: bash -l {0}
+      env:
+        OS: ${{ matrix.OS }}
+        VM: ${{ matrix.VM }}
+        DOCKER_IMG: ${{ matrix.DOCKER_IMG }}
+      run: |
+        if [[ "$OS" == "linux-aarch64" ]]; then
+          echo ">>>>> Running for $OS on $VM <<<<<"
+        elif [[ "$OS" == "osx-arm64" ]]; then
+          echo ">>>>> Running for $OS on $VM <<<<<"
+        else
+          echo ">>>>> Running for $OS on $VM <<<<<"
+        fi
