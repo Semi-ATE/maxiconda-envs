@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/github/license/Semi-ATE/maxiconda-meta?color=black)](https://github.com/Semi-ATE/maxiconda/blob/main/LICENSE)
 
-[![CI](https://github.com/Semi-ATE/maxiconda-meta/workflows/CI/badge.svg?branch=main)](https://github.com/Semi-ATE/maxiconda-meta/actions?query=workflow%3ACI)
+[![Continuous Integration](https://github.com/Semi-ATE/maxiconda-envs/actions/workflows/CI.yaml/badge.svg)](https://github.com/Semi-ATE/maxiconda-envs/actions/workflows/CI.yaml)
 [![CD](https://github.com/Semi-ATE/maxiconda-meta/workflows/CD/badge.svg)](https://github.com/Semi-ATE/maxiconda-meta/actions?query=workflow%3ACD)
 
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Semi-ATE/maxiconda-meta?color=blue&label=GitHub&sort=semver)](https://github.com/Semi-ATE/maxiconda-meta/releases/latest)
