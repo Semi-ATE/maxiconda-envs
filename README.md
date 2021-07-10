@@ -47,7 +47,7 @@ or alternatively
 
 The above will create a [spyder application environment](https://github.com/spyder-ide/spyder) called `_spyder_` and installs the `_spyder_` metapackage in it.
 
-**_NOTE:_** Environments starting with an underscore ('_') are considered to be application environments, as Spyder is an application it is good practice to install it in an environment starting with an underscore.
+**_NOTE:_** Environments starting with an underscore ('_') are considered to be application environments (as opposed to development environments). As Spyder is an application it is good practice to install it in an environment starting with an underscore.
 
 ### Whe Semi-ATE channel is not configured
 
