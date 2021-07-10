@@ -15,7 +15,7 @@ In this repository we maintain and release the `maxiconda` and `_spyder_` metapa
 
 The contents of the metapackages can be found [here](metapackages.xlsx).
 
-Building the packages is done here with GitHub Actions, and the released packages are uploaded to the [Semi-ATE](https://anaconda.org/Semi-ATE/) channel.
+Building the packages is done here with GitHub Actions, and the released packages are uploaded to the [anaconda.org/Semi-ATE](https://anaconda.org/Semi-ATE/) channel.
 
 This `Semi-ATE` channel is included when installing with the [maxiconda installers](https://github.com/Semi-ATE/maxiconda).
 
