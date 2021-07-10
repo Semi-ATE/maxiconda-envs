@@ -72,7 +72,7 @@ jobs:
           git pull
           git stash pop
           git add -A || echo "ignore adding files, proceed"
-          git commit -m "Update packages ${{ matrix.OS_CPU }}" || echo "ignore commit failure, proceed"
+          git commit -m "Update packages ${{ matrix.OS }}" || echo "ignore commit failure, proceed"
         else
           echo "Nothing to commit"
         fi  
