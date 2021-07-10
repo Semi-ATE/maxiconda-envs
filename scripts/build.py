@@ -143,10 +143,8 @@ def build(env_meta_path):
     retval = None
     if b"anaconda upload" in output:
         print("success.")
-        retval = output.split(b"anaconda upload")[1].split(b"\n")[1]
-        retval = str(retval).replace("b'", "").replace("'", "")
-        if retval.endswith("\r"):  # don't know why this happens ...
-            retval = retval[:-2]
+        retval = output.decode("utf-8") 
+        retval = output.split("anaconda upload")[1].split("\n")[1].strip()
         print(f"  package location = '{retval}'")
     else:
         print("Failure.")
