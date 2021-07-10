@@ -45,7 +45,7 @@ or alternatively
 (base) me@mybox:~$ mamba create -n _spyder_ _spyder_
 ```
 
-The above will create a [spyder](https://github.com/spyder-ide/spyder) application environment called `_spyder_` and installs the `_spyder_` metapackage in it.
+The above will create a [spyder application environment](https://github.com/spyder-ide/spyder) called `_spyder_` and installs the `_spyder_` metapackage in it.
 
 ### whe Semi-ATE channel is not configured
 
