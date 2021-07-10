@@ -11,7 +11,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Semi-ATE/maxiconda-meta)](https://github.com/Semi-ATE/maxiconda-meta/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Semi-ATE/maxiconda-meta)](https://github.com/Semi-ATE/maxiconda-meta/pulls)
 
-In this repository we maintain and release the so called `maxiconda-envs`, in other words maxiconda environments. The environments and their contents can be found [here](metapackages.xlsx).
+In this repository we maintain and release the maxiconda environments. The overview of the environments and their contents can be found [here](metapackages.xlsx).
 
 Solving the [specifications]() is done daily with GitHub Actions. New sollutions are commited directly to the [recipes] directory. Releases are made once so often, which will upload them to the [anaconda.org/Semi-ATE](https://anaconda.org/Semi-ATE/) channel.
 
