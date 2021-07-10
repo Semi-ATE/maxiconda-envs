@@ -19,7 +19,7 @@ This `anaconda.org/Semi-ATE` channel is included when installing with the [maxic
 
 ## Usage
 
-### installing the maxiconda meta package
+### Installing the maxiconda meta package
 
 ```bash
 (base) me@mybox:~$ conda create -n some_env maxiconda
