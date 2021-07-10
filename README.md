@@ -13,9 +13,9 @@
 
 In this repository we maintain and release the so called `maxiconda-envs`, in other words maxiconda environments. The environments and their contents can be found [here](metapackages.xlsx).
 
-Solving the [specifications]() is done daily with GitHub Actions, and the releases are made once so often which will upload them to the [anaconda.org/Semi-ATE](https://anaconda.org/Semi-ATE/) channel.
+Solving the [specifications]() is done daily with GitHub Actions. New sollutions are commited directly to the [recipes] directory. Releases are made once so often, which will upload them to the [anaconda.org/Semi-ATE](https://anaconda.org/Semi-ATE/) channel.
 
-This `Semi-ATE` channel is included when installing with the [maxiconda installers](https://github.com/Semi-ATE/maxiconda).
+This `anaconda.org/Semi-ATE` channel is included when installing with the [maxiconda installers](https://github.com/Semi-ATE/maxiconda).
 
 ## Usage
 
