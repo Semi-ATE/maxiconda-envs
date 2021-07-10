@@ -49,7 +49,7 @@ The above will create a [spyder application environment](https://github.com/spyd
 
 **_NOTE:_** Environments starting with an underscore ('_') are considered to be application environments, as Spyder is an application it is good practice to install it in an environment starting with an underscore.
 
-### whe Semi-ATE channel is not configured
+### Whe Semi-ATE channel is not configured
 
 In case you don't have the Semi-ATE channel available (for example you installed with [miniforge](https://github.com/conda-forge/miniforge)) you can do this :
 
