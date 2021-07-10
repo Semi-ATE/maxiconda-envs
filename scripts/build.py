@@ -158,9 +158,12 @@ def build(env_meta_path):
 
 def is_uploadable(package_path):
     if not isinstance(package_path, str):
+        print(f"not uploadable : '{package_path}' is not a string.")
         return False
+    package_path = package_path.strip()
     package_path = os.path.normpath(package_path)
     if not os.path.exists(package_path):
+        print(f"not uploadable : '{package_path}' file does not exist")
         return False
     retval = os.path.basename(package_path)
     retval = retval.split("-")[1]
