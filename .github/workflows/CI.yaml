@@ -64,7 +64,7 @@ jobs:
 
     - name: Commit files
       run: |
-        something_changed=`git diff-index --exit-code HEAD`
+        something_changed=`git diff-index --quiet HEAD`
         if [ -n "$something_changed" ]; then
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
