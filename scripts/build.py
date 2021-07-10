@@ -144,7 +144,9 @@ def build(env_meta_path):
     if b"anaconda upload" in output:
         print("success.")
         retval = output.split(b"anaconda upload")[1].split(b"\n")[1]
-        retval = str(retval).replace("b'", "").replace("'", "").replace("\r","").strip()
+        retval = str(retval).replace("b'", "").replace("'", "")
+        if retval.endswith("\r"):  # don't know why this happens ...
+            retval = retval[:-2]
         print(f"  package location = '{retval}'")
     else:
         print("Failure.")
@@ -160,7 +162,6 @@ def is_uploadable(package_path):
     if not isinstance(package_path, str):
         print(f"not uploadable : '{package_path}' is not a string.")
         return False
-    package_path = package_path.strip()
     package_path = os.path.normpath(package_path)
     if not os.path.exists(package_path):
         print(f"not uploadable : '{package_path}' file does not exist")
