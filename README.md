@@ -19,7 +19,7 @@ This `anaconda.org/Semi-ATE` channel is included when installing with the [maxic
 
 ## Usage
 
-### maxiconda
+### installing the maxiconda meta package
 
 ```bash
 (base) me@mybox:~$ conda create -n some_env maxiconda
@@ -33,7 +33,7 @@ or alternatively
 
 The above will create an environment with the name (-n) `some_env` and install the `maxiconda` meta package in it.
 
-### \_spyder\_
+### Installing the \_spyder\_ meta package
 
 ```bash
 (base) me@mybox:~$ conda create -n _spyder_ _spyder_
