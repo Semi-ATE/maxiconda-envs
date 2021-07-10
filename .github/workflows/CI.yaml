@@ -60,7 +60,7 @@ jobs:
     - name: Commit files
       shell: bash -l {0}
       run: |
-        something_changed=`git diff-index --quiet HEAD`
+        something_changed=`git diff-index --quiet HEAD` || true
         if [ -n "$something_changed" ]; then
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
