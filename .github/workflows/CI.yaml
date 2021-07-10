@@ -64,13 +64,16 @@ jobs:
 
     - name: Commit files
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git stash -u
-        git pull
-        git stash pop
-        git add -A || echo "ignore adding files, proceed"
-        git commit -m "Update packages ${{ matrix.OS_CPU }}" || echo "ignore commit failure, proceed"
+        something_changed=`git diff-index --exit-code HEAD`
+        if [ -n "$something_changed" ]; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git stash -u
+          git pull
+          git stash pop
+          git add -A || echo "ignore adding files, proceed"
+          git commit -m "Update packages ${{ matrix.OS_CPU }}" || echo "ignore commit failure, proceed"
+        fi  
 
     - name: Push changes
       uses: ad-m/github-push-action@v0.6.0
