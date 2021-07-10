@@ -164,9 +164,7 @@ def is_uploadable(package_path):
     if not os.path.exists(package_path):
         print(f"not uploadable : '{package_path}' file does not exist")
         return False
-    retval = os.path.basename(package_path)
-    retval = retval.split("-")[1]
-    return not (retval == "0.0.0")
+    return True
 
 def main(testing=True):
 
@@ -177,9 +175,8 @@ def main(testing=True):
             if file == "meta.yaml":
                 recipe_path = os.path.join(root, file)
                 package = build(recipe_path)
-                if is_uploadable(package):
-                    if not testing:
-                        upload(package)
+                if is_uploadable(package) and not testing:
+                    upload(package)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
