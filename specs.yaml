@@ -38,10 +38,9 @@ matrix:
 environments:
   _spyder_:
     - spyder
-    # - ffmpeg
+    - spyder-terminal
     - spyder-screencast
     - spyder-remote-client
-    - spyder-terminal
     # - Semi-ATE
     - cython
     - matplotlib
