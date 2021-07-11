@@ -7,6 +7,7 @@
 
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Semi-ATE/maxiconda-meta?color=blue&label=GitHub&sort=semver)](https://github.com/Semi-ATE/maxiconda-meta/releases/latest)
 [![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/Semi-ATE/maxiconda-meta/latest)](https://github.com/Semi-ATE/maxiconda-meta)
+[![anaconda.org/Semi-ATE](https://img.shields.io/badge/anaconda.org-Semi--ATE-blue)](https://anaconda.org/Semi-ATE)
 
 [![GitHub issues](https://img.shields.io/github/issues/Semi-ATE/maxiconda-meta)](https://github.com/Semi-ATE/maxiconda-meta/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Semi-ATE/maxiconda-meta)](https://github.com/Semi-ATE/maxiconda-meta/pulls)
