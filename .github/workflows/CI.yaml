@@ -60,13 +60,13 @@ jobs:
     - name: Commit files
       shell: bash -l {0}
       run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git stash -u
+        git pull
+        git stash pop
         something_changed=`git diff-index --quiet HEAD` || true
         if [[ -n "$something_changed" ]]; then
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git stash -u
-          git pull
-          git stash pop
           git add -A
           git commit -m "Update packages ${{ matrix.OS }}"
         else
