@@ -60,6 +60,7 @@ jobs:
     - name: Commit files
       shell: bash -l {0}
       run: |
+        git status --porcelain
         something_changed=`git status --porcelain`
         if [[ -n "something_changed" ]]; then
           git config --local user.email "action@github.com"
