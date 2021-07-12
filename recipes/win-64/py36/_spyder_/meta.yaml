@@ -26,8 +26,9 @@ requirements:
     # python
     - python =3.6.13 =h39d44d4_0_cpython
 
-    # 10 primary packages :
+    # 11 primary packages :
     - cython =0.29.23 =py36he2d232f_1
+    - ffmpeg =4.3.1 =ha925a31_0
     - matplotlib =3.3.4 =py36ha15d459_0
     - numpy =1.19.5 =py36hd1b969e_1
     - pandas =1.1.5 =py36he38d939_0
@@ -38,7 +39,7 @@ requirements:
     - spyder-terminal =1.0.0 =py36ha15d459_0
     - sympy =1.8 =py36ha15d459_0
 
-    # 203 secondary packages :
+    # 202 secondary packages :
     - alabaster =0.7.12 =py_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - argh =0.26.2 =py36_1001
@@ -74,7 +75,6 @@ requirements:
     - diff-match-patch =20200713 =pyh9f0ad1d_0
     - docutils =0.17.1 =py36ha15d459_0
     - entrypoints =0.3 =py36h9f0ad1d_1002
-    - ffmpeg =4.3.1 =ha925a31_0
     - flake8 =3.8.4 =py_0
     - freetype =2.10.4 =h546665d_1
     - future =0.18.2 =py36ha15d459_3
