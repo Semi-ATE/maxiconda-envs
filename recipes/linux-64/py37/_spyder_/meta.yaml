@@ -26,8 +26,9 @@ requirements:
     # python
     - python =3.7.10 =hffdb5ce_100_cpython
 
-    # 9 primary packages :
+    # 10 primary packages :
     - cython =0.29.23 =py37hcd2ae1e_1
+    - ffmpeg =4.3.1 =hca11adc_2
     - matplotlib =3.4.2 =py37h89c1867_0
     - numpy =1.21.0 =py37h038b26d_0
     - pandas =1.3.0 =py37h219a48f_0
@@ -37,7 +38,7 @@ requirements:
     - spyder-terminal =1.0.0 =py37h89c1867_0
     - sympy =1.8 =py37h89c1867_0
 
-    # 233 secondary packages :
+    # 239 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - alabaster =0.7.12 =py_0
@@ -58,6 +59,7 @@ requirements:
     - black =21.5b2 =pyhd8ed1ab_0
     - bleach =3.3.0 =pyh44b312d_0
     - brotlipy =0.7.0 =py37h5e8e339_1001
+    - bzip2 =1.0.8 =h7f98852_4
     - ca-certificates =2021.5.30 =ha878542_0
     - certifi =2021.5.30 =py37h89c1867_0
     - cffi =1.14.6 =py37hc58025e_0
@@ -86,6 +88,7 @@ requirements:
     - glib-tools =2.68.3 =h9c3ff4c_0
     - gmp =6.2.1 =h58526e2_0
     - gmpy2 =2.1.0b5 =py37h025e8b9_0
+    - gnutls =3.6.13 =h85f3911_1
     - gst-plugins-base =1.18.4 =hf529b03_2
     - gstreamer =1.18.4 =h76c114f_2
     - humanfriendly =9.2 =py37h89c1867_0
@@ -114,6 +117,7 @@ requirements:
     - keyring =23.0.1 =py37h89c1867_0
     - kiwisolver =1.3.1 =py37h2527ec5_1
     - krb5 =1.19.1 =hcc1bbae_0
+    - lame =3.100 =h7f98852_1001
     - lazy-object-proxy =1.6.0 =py37h5e8e339_0
     - lcms2 =2.12 =hddcbb42_0
     - ld_impl_linux-64 =2.36.1 =hea4e1c9_1
@@ -166,10 +170,12 @@ requirements:
     - ncurses =6.2 =h58526e2_4
     - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - netifaces =0.10.9 =py37h5e8e339_1003
+    - nettle =3.6 =he412f7d_0
     - nspr =4.30 =h9c3ff4c_0
     - nss =3.67 =hb5efdd6_0
     - numpydoc =1.1.0 =py_1
     - olefile =0.46 =pyh9f0ad1d_1
+    - openh264 =2.1.1 =h780b84a_0
     - openjpeg =2.4.0 =hb52868f_1
     - openssl =1.1.1k =h7f98852_0
     - packaging =21.0 =pyhd8ed1ab_0
@@ -261,6 +267,7 @@ requirements:
     - wheel =0.36.2 =pyhd3deb0d_0
     - wrapt =1.12.1 =py37h5e8e339_3
     - wurlitzer =2.1.0 =py37h89c1867_0
+    - x264 =1!161.3030 =h7f98852_1
     - xorg-libxau =1.0.9 =h7f98852_0
     - xorg-libxdmcp =1.1.3 =h7f98852_0
     - xz =5.2.5 =h516909a_1
