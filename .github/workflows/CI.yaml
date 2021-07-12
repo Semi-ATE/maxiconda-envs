@@ -60,9 +60,8 @@ jobs:
     - name: Commit files
       shell: bash -l {0}
       run: |
-        something_changed=`git status --porcelain`
-        echo "'$something_changed'"
-        if [[ -n "something_changed" ]]; then
+        if [[ -n "$(git status --porcelain)" ]]; then
+          echo "$(git status --porcelain)"
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git stash -u
