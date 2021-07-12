@@ -21,10 +21,10 @@ build:
 requirements:
   build:
     # python
-    - python =3.9.6 =hd187cdc_0_cpython
+    - python =3.9.6 =hd187cdc_1_cpython
   run:
     # python
-    - python =3.9.6 =hd187cdc_0_cpython
+    - python =3.9.6 =hd187cdc_1_cpython
 
     # 16 primary packages :
     - ipython =7.25.0 =py39h71a6800_1
