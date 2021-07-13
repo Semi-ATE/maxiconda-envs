@@ -8,22 +8,17 @@ on:
 jobs:
   solve_and_test:
     name: ${{ matrix.OS }}
-    runs-on: ${{ matrix.VM }}
+    runs-on: ubuntu-latest
+    env: 
     strategy:
       fail-fast: false
       matrix:
         include:
           - OS: win-64
-            VM: windows-latest            
           - OS: linux-64
-            VM: ubuntu-latest
           - OS: osx-64
-            VM: macos-latest
           - OS: linux-aarch64
-            VM: ubuntu-latest
-            DOCKER_IMG: condaforge/linux-anvil-aarch64
           - OS: osx-arm64
-            VM: macos-latest   
     steps:  
     - name: Checkout code
       uses: actions/checkout@v2
@@ -42,20 +37,12 @@ jobs:
     - name: Solve and test-build target environments
       shell: bash -l {0}
       env:
-        OS: ${{ matrix.OS }}
-        DOCKER_IMG: ${{ matrix.DOCKER_IMG }}
+        CONDA_SUBDIR: ${{ matrix.OS }}
       run: |
-        if [[ "$OS" == "linux-aarch64" ]]; then
-          echo "Solving Environments for linux-aarch64"
-        else
-          if [[ "$OS" == "osx-arm64" ]]; then 
-            export CONDA_SUBDIR="osx-arm64"
-          fi
-          echo ">>>>> Solving Environments for $OS <<<<<"
-          python -u scripts/solve.py
-          echo ">>>>> Test Build Environments for $OS <<<<<"
-          python -u scripts/build.py --test
-        fi
+        echo ">>>>> Solving Environments for $OS <<<<<"
+        python -u scripts/solve.py
+        echo ">>>>> Test Build Environments for $OS <<<<<"
+        python -u scripts/build.py --test
 
     - name: Commit files
       shell: bash -l {0}
@@ -64,10 +51,15 @@ jobs:
           echo "$(git status --porcelain)"
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          echo "git stash -u"
           git stash -u
+          echo "git pull"
           git pull
+          echo "git stash pop"
           git stash pop
+          echo "git add -A"
           git add -A
+          echo "git commit -m "Update Packages ${{ matrix.OS }}"
           git commit -m "Update packages ${{ matrix.OS }}"
         else
           echo "Nothing to commit"
