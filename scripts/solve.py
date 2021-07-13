@@ -282,7 +282,7 @@ def write_recipe(designator, primary_packages, environment, build_string=False):
         fh.write("#\n# Copyright (c) Semi-ATE\n")
         fh.write("# Distributed under the terms of the MIT License\n")
         fh.write("#\n")
-        fh.write(f"# {OS_CPU}/{PY}/{environment} ({datetime.date.today().strftime('%d %b %Y')})\n")
+        fh.write(f"# {OS_CPU}/{PY}/{environment}\n")
         fh.write("#\n\n")
         fh.write('{% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}\n')
         fh.write("\n")
