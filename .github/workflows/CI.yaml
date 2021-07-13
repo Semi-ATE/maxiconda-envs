@@ -23,8 +23,7 @@ jobs:
             VM: ubuntu-latest
             DOCKER_IMG: condaforge/linux-anvil-aarch64
           - OS: osx-arm64
-            VM: macos-latest
-            DOCKER_IMG: xyz      
+            VM: macos-latest   
     steps:  
     - name: Checkout code
       uses: actions/checkout@v2
@@ -48,9 +47,10 @@ jobs:
       run: |
         if [[ "$OS" == "linux-aarch64" ]]; then
           echo "Solving Environments for linux-aarch64"
-        elif [[ "$OS" == "osx-arm64" ]]; then
-          echo "Solving Environments for osx-arm64"
         else
+          if [[ "$OS" == "osx-arm64" ]]; then 
+            export CONDA_SUBDIR="osx-arm64"
+          fi
           echo ">>>>> Solving Environments for $OS <<<<<"
           python -u scripts/solve.py
           echo ">>>>> Test Build Environments for $OS <<<<<"
