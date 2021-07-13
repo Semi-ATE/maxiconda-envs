@@ -9,7 +9,6 @@ jobs:
   solve_and_test:
     name: ${{ matrix.OS }}
     runs-on: ubuntu-latest
-    env: 
     strategy:
       fail-fast: false
       matrix:
