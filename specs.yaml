@@ -39,16 +39,16 @@ environments:
   _spyder_:
     - spyder
     - spyder-terminal
-    - spyder-screencast
     - ffmpeg
+    - spyder-screencast
     - spyder-remote-client
-    # - Semi-ATE
-    - cython
-    - matplotlib
-    - numpy
-    - pandas
-    - scipy
-    - sympy
+#    - Semi-ATE
+#     - cython
+#     - matplotlib
+#     - numpy
+#     - pandas
+#     - scipy
+#     - sympy
   maxiconda:
     - spyder-kernels
     - numpy
