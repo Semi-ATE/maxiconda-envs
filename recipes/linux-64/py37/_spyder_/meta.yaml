@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# linux-64/py37/_spyder_
+# linux-64/py37/_spyder_ (created on linux-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
@@ -20,10 +20,8 @@ build:
 
 requirements:
   build:
-    # python
     - python =3.7.10 =hffdb5ce_100_cpython
   run:
-    # python
     - python =3.7.10 =hffdb5ce_100_cpython
 
     # 4 primary packages :

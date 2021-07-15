@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# linux-64/py38/_spyder_
+# linux-64/py38/_spyder_ (created on linux-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
@@ -20,10 +20,8 @@ build:
 
 requirements:
   build:
-    # python
     - python =3.8.10 =h49503c6_1_cpython
   run:
-    # python
     - python =3.8.10 =h49503c6_1_cpython
 
     # 4 primary packages :
@@ -93,7 +91,7 @@ requirements:
     - importlib_metadata =4.6.1 =hd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.0.2 =py_0
-    - ipykernel =6.0.1 =py38hd0cf306_0
+    - ipykernel =6.0.1 =py38hd0cf306_1
     - ipython =7.25.0 =py38hd0cf306_1
     - ipython_genutils =0.2.0 =py_1
     - isort =5.9.2 =pyhd8ed1ab_0

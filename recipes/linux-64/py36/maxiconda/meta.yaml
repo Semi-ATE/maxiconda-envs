@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# linux-64/py36/maxiconda
+# linux-64/py36/maxiconda (created on linux-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
@@ -20,10 +20,8 @@ build:
 
 requirements:
   build:
-    # python
     - python =3.6.13 =hffdb5ce_0_cpython
   run:
-    # python
     - python =3.6.13 =hffdb5ce_0_cpython
 
     # 16 primary packages :
@@ -40,7 +38,7 @@ requirements:
     - regex =2021.7.6 =py36h8f6f2f9_0
     - requests =2.25.1 =pyhd3deb0d_0
     - spyder-kernels =2.0.5 =py36h5fab9bb_0
-    - sqlalchemy =1.4.20 =py36h8f6f2f9_0
+    - sqlalchemy =1.4.21 =py36h8f6f2f9_0
     - sqlite =3.36.0 =h9cd32fc_0
     - tqdm =4.61.2 =pyhd8ed1ab_1
 
