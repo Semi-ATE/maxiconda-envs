@@ -9,6 +9,8 @@ jobs:
   solve_and_test:
     name: ${{ matrix.OS }}
     runs-on: ${{ matrix.VM }}
+    env:
+      OS: ${{ matrix.OS }}
     strategy:
       fail-fast: false
       matrix:
@@ -26,12 +28,14 @@ jobs:
             VM: macos-latest
     steps:  
     - name: Checkout code
+      if: ${{ env.OS != 'linux-aarch64' }}
       uses: actions/checkout@v2
       with:
         persist-credentials: false  # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         fetch-depth: 0  # otherwise, you will failed to push refs to dest repo
 
     - name: Set up conda environment
+      if: ${{ env.OS != 'linux-aarch64' }}
       uses: conda-incubator/setup-miniconda@v2
       with:
         miniconda-version: latest
@@ -47,8 +51,8 @@ jobs:
       run: |
         if [[ "$OS" == "linux-aarch64" ]]; then
           echo "Solving Environments for linux-aarch64"
-          export CONDA_SUBDIR="linux-aarch64"
-          python -u scripts/maxiconda.py --solve
+          #docker run --rm --privileged multiarch/qemu-user-static --reset --credential yes --persistent yes
+          #docker run --rm -v "$(pwd):/construct" ${DOCKER_IMG} /scripts/build.sh
         elif [[ "$OS" == "osx-arm64" ]]; then
           echo "Solving Environments for osx-arm64"
           export CONDA_SUBDIR="osx-arm64"
