@@ -8,16 +8,22 @@ on:
 jobs:
   solve_and_test:
     name: ${{ matrix.OS }}
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.VM }}
     strategy:
       fail-fast: false
       matrix:
         include:
           - OS: win-64
+            VM: windows-latest
           - OS: linux-64
+            VM: ubuntu-latest
           - OS: osx-64
+            VM: macos-latest
           - OS: linux-aarch64
+            VM: ubuntu-latest
+            DOCKER_IMG: condaforge/linux-anvil-aarch64
           - OS: osx-arm64
+            VM: macos-latest
     steps:  
     - name: Checkout code
       uses: actions/checkout@v2
@@ -36,13 +42,21 @@ jobs:
     - name: Solve and test-build target environments
       shell: bash -l {0}
       env:
-        CONDA_SUBDIR: ${{ matrix.OS }}
+        OS: ${{ matrix.OS }}
+        DOCKER_IMG: ${{ matrix.DOCKER_IMG }}
       run: |
-        echo ">>>>> Solving Environments for $OS <<<<<"
-        python -u scripts/solve.py
-        echo ">>>>> Test Build Environments for $OS <<<<<"
-        python -u scripts/build.py --test
-
+        if [[ "$OS" == "linux-aarch64" ]]; then
+          echo "Solving Environments for linux-aarch64"
+          export CONDA_SUBDIR="linux-aarch64"
+          python -u scripts/maxiconda.py --solve
+        elif [[ "$OS" == "osx-arm64" ]]; then
+          echo "Solving Environments for osx-arm64"
+          export CONDA_SUBDIR="osx-arm64"
+          python -u scripts/maxiconda.py --solve
+        else
+          python -u scripts/maxiconda.py --solve --build
+        fi
+        
     - name: Commit files
       shell: bash -l {0}
       run: |
