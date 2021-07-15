@@ -55,42 +55,54 @@ jobs:
           python -u scripts/maxiconda.py --build --upload
         fi
 
-#   consolidate:
-#     runs-on: ubuntu-latest
-#     steps:
-#     - name: Checkout code
-#       uses: actions/checkout@v2
-#       with:
-#         persist-credentials: false  # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
-#         fetch-depth: 0  # otherwise, you will failed to push refs to dest repo
+  consolidate:
+    runs-on: ubuntu-latest
+    needs: build_and_upload
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false  # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+        fetch-depth: 0  # otherwise, you will failed to push refs to dest repo
 
-#     - name: Set up conda environment
-#       uses: conda-incubator/setup-miniconda@v2
-#       with:
-#         miniconda-version: latest
-#         activate-environment: maxiconda-envs
-#         environment-file: environment.yaml
-#         channel-priority: strict
+    - name: Set up conda environment
+      uses: conda-incubator/setup-miniconda@v2
+      with:
+        miniconda-version: latest
+        activate-environment: maxiconda-envs
+        environment-file: environment.yaml
+        channel-priority: strict
 
-#     - name: consolidate
-#       shell: bash -l {0}
-#       env:
-#         CONDA_UPLOAD_TOKEN: ${{ secrets.CONDA_UPLOAD_TOKEN }}
-#         MAXICONDA_ENV_RELEASE: ${GITHUB_REF##*/}
-#       run: |
-#         python -u scripts/consolidate.py
-  
-#     - name: Commit files
-#       run: |
-#         git config --local user.email "action@github.com"
-#         git config --local user.name "GitHub Action"
-#         git add . || echo "ignore adding files, proceed"
-#         git commit -m "Update packages ${{ matrix.OS_CPU }}" || echo "ignore commit failure, proceed"
+    - name: Create actual summary
+      shell: bash -l {0}
+      run: |
+        python -u scripts/maxiconda.py --digest
 
-#     - name: Push changes
-#       uses: ad-m/github-push-action@v0.6.0
-#       with:
-#         github_token: ${{ secrets.TOKEN_GITHUB }}
-#         branch: main
-#         directory: "../maxiconda-envs"
-#         repository: Semi-ATE/maxiconda-envs
+    - name: Commit files
+      shell: bash -l {0}
+      run: |
+        if [[ -n "$(git status --porcelain)" ]]; then
+          echo "$(git status --porcelain)"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          echo "git stash -u"
+          git stash -u
+          echo "git pull"
+          git pull
+          echo "git stash pop"
+          git stash pop
+          echo "git add -A"
+          git add -A
+          echo "git commit -m \"Update Packages ${{ matrix.OS }}\""
+          git commit -m "Update packages ${{ matrix.OS }}"
+        else
+          echo "Nothing to commit"
+        fi  
+
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.TOKEN_GITHUB }}
+        branch: main
+        directory: "../maxiconda-envs"
+        repository: Semi-ATE/maxiconda-envs
