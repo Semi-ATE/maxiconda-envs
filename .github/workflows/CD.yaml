@@ -45,12 +45,14 @@ jobs:
       run: |
         export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/};
         if [[ "$OS" == "linux-aarch64" ]]; then
-          echo "Solving Environments for linux-aarch64"
+          echo "Build and Upload Environments for linux-aarch64"
         elif [[ "$OS" == "osx-arm64" ]]; then
-          echo "Solving Environments for osx-arm64"
+          echo "Build and Upload Environments for osx-arm64"
+          export CONDA_SUBDIR="osx-arm64"
+          python -u scripts/maxiconda.py --solve
         else
-          echo ">>>>> Build and upload environments for $OS <<<<<"
-          python -u scripts/build.py
+          echo "Build and Upload Environments for $OS"
+          python -u scripts/maxiconda.py --build --upload
         fi
 
 #   consolidate:
