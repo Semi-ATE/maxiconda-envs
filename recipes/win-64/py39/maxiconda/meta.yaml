@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# win-64/py39/maxiconda
+# win-64/py39/maxiconda (created on win-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
@@ -20,10 +20,8 @@ build:
 
 requirements:
   build:
-    # python
     - python =3.9.6 =h7840368_1_cpython
   run:
-    # python
     - python =3.9.6 =h7840368_1_cpython
 
     # 16 primary packages :
@@ -40,7 +38,7 @@ requirements:
     - regex =2021.7.6 =py39hb82d6ee_0
     - requests =2.25.1 =pyhd3deb0d_0
     - spyder-kernels =2.0.5 =py39hcbf5309_0
-    - sqlalchemy =1.4.20 =py39hb82d6ee_0
+    - sqlalchemy =1.4.21 =py39hb82d6ee_0
     - sqlite =3.36.0 =h8ffe710_0
     - tqdm =4.61.2 =pyhd8ed1ab_1
 
@@ -65,7 +63,7 @@ requirements:
     - icu =68.1 =h0e60522_0
     - idna =2.10 =pyh9f0ad1d_0
     - intel-openmp =2021.3.0 =h57928b3_3372
-    - ipykernel =6.0.1 =py39h832f523_0
+    - ipykernel =6.0.1 =py39h832f523_1
     - ipython_genutils =0.2.0 =py_1
     - jbig =2.1 =h8d14728_2003
     - jdcal =1.4.1 =py_0
@@ -106,7 +104,7 @@ requirements:
     - pyqtchart =5.12 =py39h415ef7b_7
     - pyqtwebengine =5.12.1 =py39h415ef7b_7
     - pysocks =1.7.1 =py39hcbf5309_3
-    - python-dateutil =2.8.1 =py_0
+    - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =2_cp39
     - pytz =2021.1 =pyhd8ed1ab_0
     - pywin32 =300 =py39hb82d6ee_0

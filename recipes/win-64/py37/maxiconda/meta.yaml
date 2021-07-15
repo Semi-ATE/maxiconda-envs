@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# win-64/py37/maxiconda
+# win-64/py37/maxiconda (created on win-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
@@ -20,10 +20,8 @@ build:
 
 requirements:
   build:
-    # python
     - python =3.7.10 =h7840368_100_cpython
   run:
-    # python
     - python =3.7.10 =h7840368_100_cpython
 
     # 16 primary packages :
@@ -40,7 +38,7 @@ requirements:
     - regex =2021.7.6 =py37hcc03f2d_0
     - requests =2.25.1 =pyhd3deb0d_0
     - spyder-kernels =2.0.5 =py37h03978a9_0
-    - sqlalchemy =1.4.20 =py37hcc03f2d_0
+    - sqlalchemy =1.4.21 =py37hcc03f2d_0
     - sqlite =3.36.0 =h8ffe710_0
     - tqdm =4.61.2 =pyhd8ed1ab_1
 
@@ -106,7 +104,7 @@ requirements:
     - pyqtchart =5.12 =py37hf2a7229_7
     - pyqtwebengine =5.12.1 =py37hf2a7229_7
     - pysocks =1.7.1 =py37h03978a9_3
-    - python-dateutil =2.8.1 =py_0
+    - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.7 =2_cp37m
     - pytz =2021.1 =pyhd8ed1ab_0
     - pywin32 =300 =py37hcc03f2d_0

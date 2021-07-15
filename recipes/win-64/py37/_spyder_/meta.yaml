@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# win-64/py37/_spyder_
+# win-64/py37/_spyder_ (created on win-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
@@ -20,10 +20,8 @@ build:
 
 requirements:
   build:
-    # python
     - python =3.7.10 =h7840368_100_cpython
   run:
-    # python
     - python =3.7.10 =h7840368_100_cpython
 
     # 5 primary packages :
@@ -141,7 +139,7 @@ requirements:
     - pyreadline =2.1 =py37h03978a9_1003
     - pyrsistent =0.17.3 =py37hcc03f2d_2
     - pysocks =1.7.1 =py37h03978a9_3
-    - python-dateutil =2.8.1 =py_0
+    - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-jsonrpc-server =0.4.0 =pyh9f0ad1d_0
     - python-language-server =0.36.2 =pyhd8ed1ab_0
     - python-slugify =5.0.2 =pyhd8ed1ab_0
@@ -167,7 +165,7 @@ requirements:
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.1.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
-    - sphinx =4.1.0 =pyh6c4a22f_0
+    - sphinx =4.1.1 =pyh6c4a22f_0
     - sphinxcontrib-applehelp =1.0.2 =py_0
     - sphinxcontrib-devhelp =1.0.2 =py_0
     - sphinxcontrib-htmlhelp =2.0.0 =pyhd8ed1ab_0
