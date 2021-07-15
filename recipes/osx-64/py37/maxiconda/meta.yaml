@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# osx-64/py37/maxiconda
+# osx-64/py37/maxiconda (created on osx-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
@@ -20,10 +20,8 @@ build:
 
 requirements:
   build:
-    # python
     - python =3.7.10 =h7728216_100_cpython
   run:
-    # python
     - python =3.7.10 =h7728216_100_cpython
 
     # 16 primary packages :
@@ -40,7 +38,7 @@ requirements:
     - regex =2021.7.6 =py37h271585c_0
     - requests =2.25.1 =pyhd3deb0d_0
     - spyder-kernels =2.0.5 =py37hf985489_0
-    - sqlalchemy =1.4.20 =py37h271585c_0
+    - sqlalchemy =1.4.21 =py37h271585c_0
     - sqlite =3.36.0 =h23a322b_0
     - tqdm =4.61.2 =pyhd8ed1ab_1
 
@@ -101,7 +99,7 @@ requirements:
     - libsodium =1.0.18 =hbcb3906_1
     - libtiff =4.3.0 =h1167814_1
     - libwebp-base =1.2.0 =h0d85af4_2
-    - llvm-openmp =11.1.0 =hda6cdc1_1
+    - llvm-openmp =12.0.1 =hda6cdc1_0
     - llvmlite =0.36.0 =py37h62ea057_0
     - lz4-c =1.9.3 =h046ec9c_0
     - matplotlib-base =3.4.2 =py37hb018525_0
@@ -131,7 +129,7 @@ requirements:
     - pyqtchart =5.12 =py37h5ae2165_7
     - pyqtwebengine =5.12.1 =py37h5ae2165_7
     - pysocks =1.7.1 =py37hf985489_3
-    - python-dateutil =2.8.1 =py_0
+    - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.7 =2_cp37m
     - pytz =2021.1 =pyhd8ed1ab_0
     - pyzmq =22.1.0 =py37h8f778e5_0

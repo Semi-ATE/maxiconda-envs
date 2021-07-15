@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# osx-64/py38/_spyder_
+# osx-64/py38/_spyder_ (created on osx-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
@@ -20,10 +20,8 @@ build:
 
 requirements:
   build:
-    # python
     - python =3.8.10 =h0e5c897_0_cpython
   run:
-    # python
     - python =3.8.10 =h0e5c897_0_cpython
 
     # 4 primary packages :
@@ -89,7 +87,7 @@ requirements:
     - importlib_metadata =4.6.1 =hd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.0.2 =py_0
-    - ipykernel =6.0.1 =py38h6c79ece_0
+    - ipykernel =6.0.1 =py38h6c79ece_1
     - ipython =7.25.0 =py38h6c79ece_1
     - ipython_genutils =0.2.0 =py_1
     - isort =5.9.2 =pyhd8ed1ab_0
@@ -167,7 +165,7 @@ requirements:
     - pyqtwebengine =5.12.1 =py38h721a93c_7
     - pyrsistent =0.17.3 =py38h96a0964_2
     - pysocks =1.7.1 =py38h50d1736_3
-    - python-dateutil =2.8.1 =py_0
+    - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-jsonrpc-server =0.4.0 =pyh9f0ad1d_0
     - python-language-server =0.36.2 =pyhd8ed1ab_0
     - python-slugify =5.0.2 =pyhd8ed1ab_0
@@ -191,7 +189,7 @@ requirements:
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.1.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
-    - sphinx =4.1.0 =pyh6c4a22f_0
+    - sphinx =4.1.1 =pyh6c4a22f_0
     - sphinxcontrib-applehelp =1.0.2 =py_0
     - sphinxcontrib-devhelp =1.0.2 =py_0
     - sphinxcontrib-htmlhelp =2.0.0 =pyhd8ed1ab_0
