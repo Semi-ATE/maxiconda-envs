@@ -473,52 +473,56 @@ def solve(implementation, environment, with_buildstring=True):
 
 def main(args):
 
-    if args.solve == args.build == False:
-        raise Exception("at least solve or build need to be given")
+    if args.solve == args.build == args.digest == False:
+        raise Exception("at least one action needs to be given (--solve --build --digest)")
 
-    CONDA_SUBDIR = os.environ.get("CONDA_SUBDIR")
-    if CONDA_SUBDIR is None:
-        host_is_target = True
-        CONDA_SUBDIR = get_subdir()
+    if args.digest:
+        print("digest needst implementing...")
     else:
-        host_is_target = False
+        CONDA_SUBDIR = os.environ.get("CONDA_SUBDIR")
+        if CONDA_SUBDIR is None:
+            host_is_target = True
+            CONDA_SUBDIR = get_subdir()
+        else:
+            host_is_target = False
 
-    if os.path.exists(SPECS_FPATH):
-        with open(SPECS_FPATH) as fd:
-            specs = yaml.load(fd, Loader=yaml.FullLoader)
-            implementations = specs['matrix'][CONDA_SUBDIR]
-            environments = specs['environments']
-    else:
-        raise Exception(f"'{str(SPECS_PATH)}' does not exits!")
+        if os.path.exists(SPECS_FPATH):
+            with open(SPECS_FPATH) as fd:
+                specs = yaml.load(fd, Loader=yaml.FullLoader)
+                implementations = specs['matrix'][CONDA_SUBDIR]
+                environments = specs['environments']
+        else:
+            raise Exception(f"'{str(SPECS_PATH)}' does not exits!")
 
-    for implementation in implementations:
-        for environment in implementations[implementation]:
-            if environment not in environments:
-                raise Exception(f"Implementation '{implementation}' references the '{environment}' environment which is not defined.")
-            if args.solve:
-                print(f"Solving : '{CONDA_SUBDIR}/{implementation.split('_')[1]}/{environment}' (from {get_subdir()})")
-                recipe_dir = solve(implementation, environment)
-            if args.build:
-                if host_is_target: 
-                    print(f"Building : '{CONDA_SUBDIR}/{implementation.split('_')[1]}/{environment}'")
-                    package_path = build(recipe_dir)
-                else:
-                    print(f"Building : Skipped (Can not build for '{CONDA_SUBDIR}' on '{get_subdir()}'")
-                    package_path = None
-            if args.upload:
-                if package_path:
-                    if is_uploadable(package_path):
-                        upload(package_path)
+        for implementation in implementations:
+            for environment in implementations[implementation]:
+                if environment not in environments:
+                    raise Exception(f"Implementation '{implementation}' references the '{environment}' environment which is not defined.")
+                if args.solve:
+                    print(f"Solving : '{CONDA_SUBDIR}/{implementation.split('_')[1]}/{environment}' (from {get_subdir()})")
+                    recipe_dir = solve(implementation, environment)
+                if args.build:
+                    if host_is_target: 
+                        print(f"Building : '{CONDA_SUBDIR}/{implementation.split('_')[1]}/{environment}'")
+                        package_path = build(recipe_dir)
                     else:
-                        print(f"Upload : Skipped (test build)")
-                else:
-                    print(f"Upload : Skipped (build not successfull)")
+                        print(f"Building : Skipped (Can not build for '{CONDA_SUBDIR}' on '{get_subdir()}'")
+                        package_path = None
+                if args.upload:
+                    if package_path:
+                        if is_uploadable(package_path):
+                            upload(package_path)
+                        else:
+                            print(f"Upload : Skipped (test build)")
+                    else:
+                        print(f"Upload : Skipped (build not successfull)")
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--solve', action='store_true')
     parser.add_argument('--build', action='store_true')
     parser.add_argument('--upload', action='store_true')
+    parser.add_argument('--digest', action='store_true')
     args = parser.parse_args()
     main(args)
 
