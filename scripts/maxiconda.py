@@ -19,6 +19,7 @@ import json
 import tarfile
 import io
 from typing import Tuple
+import openpyxl
 
 # Constants
 HERE = Path(__file__).resolve().parent
@@ -170,13 +171,17 @@ def build(env_meta_path):
 
 def is_uploadable(package_path):
     if not isinstance(package_path, str):
+        print("--> upload : no string")
         return False
     package_path = os.path.normpath(package_path)
     if not os.path.exists(package_path):
+        print("--> upload : doesn't exist")
         return False
     retval = os.path.basename(package_path)
     retval = retval.split("-")[1]
-    return not (retval == "0.0.0")
+    print(f"upload --> {retval}")
+    retval = not (retval == "0.0.0")
+    return retval
 
 def get_repodata(url):
     """
@@ -487,6 +492,8 @@ def solve(implementation, environment, with_buildstring=True):
 
 def create_digest():
 
+
+
     release = os.environ.get("MAXICONDA_ENV_RELEASE", '0.0.14')
     print(f"Creating digest for V{release}")
 
@@ -527,17 +534,39 @@ def create_digest():
                         data[environment][platform] = {}
                     if python not in data[environment][platform]:
                         data[environment][platform][python] = index['depends']
-    all_packages = []
+    all_packages = {}
+    columns = {}
     for environment in data:
+        all_packages[environment] = []
+        columns[environment] = {}
         for platform in data[environment]:
+
             for python in data[environment][platform]:
-                print(f"{environment}/{platform}/{python}")
+                # print(f"{environment}/{platform}/{python}")
                 for package in data[environment][platform][python]:
-                    print(f"  {package}")
+                    # print(f"  {package}")
                     name, version, build = package.split(' ')
-                    if name not in all_packages:
-                        all_packages.append(name)
-    print(sorted(all_packages))
+                    if name not in all_packages[environment]:
+                        all_packages[environment].append(name)
+    print(all_packages)
+
+    
+
+
+    wb = openpyxl.Workbook()
+    wb_name = f"{str(REPO_ROOT / 'maxiconda-envs.xlsx')}"
+    print(wb_name)
+    for environment in data:
+        wb.create_sheet(environment)
+        ws = wb[environment]
+        for index, package in enumerate(sorted(all_packages[environment])):
+            ws[f'A{index+3}'] = package.split(' ')[0]
+    del wb['Sheet']
+    wb.save(wb_name)
+
+
+
+
 
 
     # order the info in an xlsx
