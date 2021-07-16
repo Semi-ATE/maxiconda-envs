@@ -36,13 +36,13 @@ requirements:
     - qdarkstyle =3.0.2 =pyhd8ed1ab_0
     - qtawesome =1.0.3 =pyhd8ed1ab_0
     - regex =2021.7.6 =py39hb82d6ee_0
-    - requests =2.25.1 =pyhd3deb0d_0
+    - requests =2.26.0 =pyhd8ed1ab_0
     - spyder-kernels =2.0.5 =py39hcbf5309_0
     - sqlalchemy =1.4.21 =py39hb82d6ee_0
     - sqlite =3.36.0 =h8ffe710_0
     - tqdm =4.61.2 =pyhd8ed1ab_1
 
-    # 86 secondary packages :
+    # 87 secondary packages :
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -51,6 +51,7 @@ requirements:
     - certifi =2021.5.30 =py39hcbf5309_0
     - cffi =1.14.6 =py39h0878f49_0
     - chardet =4.0.0 =py39hcbf5309_1
+    - charset-normalizer =2.0.0 =pyhd8ed1ab_0
     - cloudpickle =1.6.0 =py_0
     - colorama =0.4.4 =pyh9f0ad1d_0
     - cryptography =3.4.7 =py39hd8d06c1_0
@@ -61,9 +62,9 @@ requirements:
     - freetype =2.10.4 =h546665d_1
     - greenlet =1.1.0 =py39h415ef7b_0
     - icu =68.1 =h0e60522_0
-    - idna =2.10 =pyh9f0ad1d_0
+    - idna =3.1 =pyhd3deb0d_0
     - intel-openmp =2021.3.0 =h57928b3_3372
-    - ipykernel =6.0.1 =py39h832f523_1
+    - ipykernel =6.0.2 =py39h832f523_0
     - ipython_genutils =0.2.0 =py_1
     - jbig =2.1 =h8d14728_2003
     - jdcal =1.4.1 =py_0
