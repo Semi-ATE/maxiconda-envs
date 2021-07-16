@@ -157,7 +157,7 @@ def build(env_meta_path):
     if b"anaconda upload" in output:
         print("success.")
         retval = output.split(b"anaconda upload")[1].split(b"\n")[1]
-        retval = str(retval).replace("b'", "").replace("'", "").strip()
+        retval = str(retval).replace("b'", "").replace("'", "").replace("\r", "").strip()
         print(f"  package location = '{retval}'")
     else:
         print("Failure.")
