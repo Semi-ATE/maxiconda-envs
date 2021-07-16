@@ -36,13 +36,13 @@ requirements:
     - qdarkstyle =3.0.2 =pyhd8ed1ab_0
     - qtawesome =1.0.3 =pyhd8ed1ab_0
     - regex =2021.7.6 =py36hfa26744_0
-    - requests =2.25.1 =pyhd3deb0d_0
+    - requests =2.26.0 =pyhd8ed1ab_0
     - spyder-kernels =2.0.5 =py36h79c6626_0
     - sqlalchemy =1.4.21 =py36hfa26744_0
     - sqlite =3.36.0 =h23a322b_0
     - tqdm =4.61.2 =pyhd8ed1ab_1
 
-    # 107 secondary packages :
+    # 108 secondary packages :
     - appnope =0.1.2 =py36h79c6626_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py36_1
@@ -52,6 +52,7 @@ requirements:
     - certifi =2021.5.30 =py36h79c6626_0
     - cffi =1.14.6 =py36h66709a0_0
     - chardet =4.0.0 =py36h79c6626_1
+    - charset-normalizer =2.0.0 =pyhd8ed1ab_0
     - cloudpickle =1.6.0 =py_0
     - cryptography =3.4.7 =py36h3d45be8_0
     - cycler =0.10.0 =py36_0
@@ -65,7 +66,7 @@ requirements:
     - glib-tools =2.68.3 =he49afe7_0
     - greenlet =1.1.0 =py36hefe7e0e_0
     - icu =68.1 =h74dc148_0
-    - idna =2.10 =pyh9f0ad1d_0
+    - idna =3.1 =pyhd3deb0d_0
     - importlib-metadata =4.6.1 =py36h79c6626_0
     - ipykernel =5.5.5 =py36h495a4c6_0
     - ipython_genutils =0.2.0 =py36_0
