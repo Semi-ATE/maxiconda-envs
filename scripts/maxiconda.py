@@ -487,7 +487,7 @@ def solve(implementation, environment, with_buildstring=True):
 
 def create_digest():
 
-    release = os.environ.get("MAXICONDA_RELEASE", '0.0.14')
+    release = os.environ.get("MAXICONDA_ENV_RELEASE", '0.0.14')
     print(f"Creating digest for V{release}")
 
     data = {}
@@ -551,7 +551,7 @@ def main(args):
     if args.upload and not args.build:
         print("uploading implies also building! (add --build)")
         args.build = True
-        
+
     if args.digest:
         create_digest()
     else:
