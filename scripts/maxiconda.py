@@ -16,6 +16,7 @@ import yaml
 import requests
 import bz2
 import json
+import tarfile
 from typing import Tuple
 
 # Constants
@@ -176,19 +177,6 @@ def is_uploadable(package_path):
     retval = retval.split("-")[1]
     return not (retval == "0.0.0")
 
-def build_main(testing=True):
-
-    OS_CPU_recipes = RECIPES_ROOT / get_OS_CPU() 
-
-    for root, dirs, files in os.walk(str(OS_CPU_recipes)):
-        for file in files:
-            if file == "meta.yaml":
-                recipe_path = os.path.join(root, file)
-                package = build(recipe_path)
-                if is_uploadable(package):
-                    if not testing:
-                        upload(package)
-
 def get_repodata(url):
     """
     Get repodata from url poitning to anaconda.org bz2 files.
@@ -220,6 +208,31 @@ def get_repodata(url):
         arch = CACHE[url]
 
     return arch
+
+def get_packages_from_channel(channel, platform):
+    """
+    This function returns all packages that exist for the given designator in a given channel
+
+    Parameters
+    ----------
+    platform
+      str formatted like so :
+        linux-64 --> to get all python versions
+
+    Returns
+    -------
+    dict
+        packages and versions formatted like { package : [versions] }
+    """
+    with open(SPECS_FPATH) as fd:
+        specs = yaml.load(fd, Loader=yaml.FullLoader)
+        platforms = list(specs['matrix'])
+    if platform not in platforms:
+        return {}
+
+    repodata_url = f"https://conda.anaconda.org/{channel}/{platform}/repodata.json.bz2"
+    packages = get_repodata(repodata_url)['packages']
+    return packages
 
 def get_conda_forge_packages(designator):
     """
@@ -337,14 +350,14 @@ def run_solver(pkgs, PY, channels=["conda-forge"], solver="mamba"):
     stdout, _ = p.communicate()
     data = {}
     if stdout.decode("utf-8").startswith("Encountered problems while solving."):
-        data = {}
         feedback = stdout.decode("utf-8").split("Problem:")[1].strip()
     else:
         try:
             data = json.loads(stdout)
             feedback = None
         except Exception as err:
-            print(f"Error: {err}")
+            feedback = f"Error: {err}"
+            feedback += stdout.decode("utf-8")
 
     return PY_IMP, data, feedback
 
@@ -471,13 +484,53 @@ def solve(implementation, environment, with_buildstring=True):
 
     return str(recipe_fpath)
 
+def create_digest():
+
+    release = os.environ.get("MAXICONDA_RELEASE", '0.0.14')
+    print(f"Creating digest for V{release}")
+
+    with open(SPECS_FPATH) as fd:
+        specs = yaml.load(fd, Loader=yaml.FullLoader)
+        environments = specs['environments']
+        platforms = list(specs['matrix'])
+    
+    data = {}
+    for environment in environments:
+        data[environment] = {}
+        for platform in platforms:
+            packages_from_channel = list(get_packages_from_channel("Semi-ATE", platform))
+            for package in packages_from_channel:
+                if package.startswith(f"{environment}-{release}"):
+                    package_url = f"https://anaconda.org/Semi-ATE/{environment}/{release}/download/{platform}/{package}"
+                    request = requests.get(package_url)
+                    if request.status_code != 200:
+                        print(f"Warning: '{package_url}' doesn't exist!")
+                        continue
+                    json_file_tar_bz2 = request.content
+                    json_file_tar = bz2.decompress(json_file_tar_bz2)
+                    json_file = tarfile.open(fileobj=json_file_tar)
+                    json_file = json_file_tar.extractfile("info/index.json")
+
+                    arch = json.loads(arch_json)
+
+
+
+                    data[environment][platform] = None
+    print(data)
+                    
+
+
+    # download all environments from the latest release, extract info/index.json
+    # order the info in an xlsx
+    # save the xlsx under the name maxiconda-envs.xlsx
+
 def main(args):
 
     if args.solve == args.build == args.digest == False:
         raise Exception("at least one action needs to be given (--solve --build --digest)")
 
     if args.digest:
-        print("digest needst implementing...")
+        create_digest()
     else:
         CONDA_SUBDIR = os.environ.get("CONDA_SUBDIR")
         if CONDA_SUBDIR is None:

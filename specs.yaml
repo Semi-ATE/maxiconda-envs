@@ -61,12 +61,12 @@ environments:
     - sqlalchemy
     - tqdm
     - pandas
-    - beautifilsoup
+    - beautifilsoup4
     - menu-inst
   cf-data:
     - spyder-kernels
     - scrapy
-    - beautifulsoup
+    - beautifulsoup4
     - numpy
     - scipy
     - pandas
@@ -92,7 +92,7 @@ environments:
     - simplejson
     - sqlalchemy
     - twisted
-    - beautifulsoup
+    - beautifulsoup4
     - django
   cf-eng:
     - spyder-kernels
