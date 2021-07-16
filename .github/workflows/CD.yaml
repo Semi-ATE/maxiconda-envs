@@ -76,6 +76,7 @@ jobs:
     - name: Create actual summary
       shell: bash -l {0}
       run: |
+        export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/}
         python -u scripts/maxiconda.py --digest
 
     - name: Commit files
