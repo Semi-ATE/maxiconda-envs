@@ -17,6 +17,7 @@ import requests
 import bz2
 import json
 import tarfile
+import io
 from typing import Tuple
 
 # Constants
@@ -489,38 +490,56 @@ def create_digest():
     release = os.environ.get("MAXICONDA_RELEASE", '0.0.14')
     print(f"Creating digest for V{release}")
 
+    data = {}
     with open(SPECS_FPATH) as fd:
         specs = yaml.load(fd, Loader=yaml.FullLoader)
-        environments = specs['environments']
+        environments = list(specs['environments'])
         platforms = list(specs['matrix'])
-    
-    data = {}
-    for environment in environments:
-        data[environment] = {}
+        targets = []
         for platform in platforms:
-            packages_from_channel = list(get_packages_from_channel("Semi-ATE", platform))
-            for package in packages_from_channel:
-                if package.startswith(f"{environment}-{release}"):
-                    package_url = f"https://anaconda.org/Semi-ATE/{environment}/{release}/download/{platform}/{package}"
-                    request = requests.get(package_url)
+            for target in specs['matrix'][platform]:
+                if target not in targets:
+                    targets.append(target)
+        for environment in environments:
+            data[environment] = {}
+            for target in targets:
+                platform, python = target.split("_")
+                if environment in specs['matrix'][platform][target]:
+                    url = f"https://anaconda.org/Semi-ATE/{environment}/{release}/download/{platform}/{environment}-{release}-{python}.tar.bz2"
+                    print(f"{url} ... ", end="")
+                    request = requests.get(url)
                     if request.status_code != 200:
-                        print(f"Warning: '{package_url}' doesn't exist!")
+                        print("Does not exist!")
                         continue
-                    json_file_tar_bz2 = request.content
-                    json_file_tar = bz2.decompress(json_file_tar_bz2)
-                    json_file = tarfile.open(fileobj=json_file_tar)
-                    json_file = json_file_tar.extractfile("info/index.json")
+                    try:
+                        json_file_tar_flo_blo_bz2 = request.content
+                        json_file_tar_flo_blo = bz2.decompress(json_file_tar_flo_blo_bz2)
+                        json_file_tar_flo = io.BytesIO(json_file_tar_flo_blo)
+                        json_file_tar = tarfile.open(fileobj=json_file_tar_flo)
+                        json_file_tar.extract("info/index.json", path=f".")
+                        with open("./info/index.json", 'r') as fd:
+                            index = json.load(fd)
+                    except:
+                        print("Does not exist! (or has problem)")
+                        continue
+                    print("exists")
+                    if platform not in data[environment]:
+                        data[environment][platform] = {}
+                    if python not in data[environment][platform]:
+                        data[environment][platform][python] = index['depends']
+    all_packages = []
+    for environment in data:
+        for platform in data[environment]:
+            for python in data[environment][platform]:
+                print(f"{environment}/{platform}/{python}")
+                for package in data[environment][platform][python]:
+                    print(f"  {package}")
+                    name, version, build = package.split(' ')
+                    if name not in all_packages:
+                        all_packages.append(name)
+    print(sorted(all_packages))
 
-                    arch = json.loads(arch_json)
 
-
-
-                    data[environment][platform] = None
-    print(data)
-                    
-
-
-    # download all environments from the latest release, extract info/index.json
     # order the info in an xlsx
     # save the xlsx under the name maxiconda-envs.xlsx
 
@@ -529,6 +548,10 @@ def main(args):
     if args.solve == args.build == args.digest == False:
         raise Exception("at least one action needs to be given (--solve --build --digest)")
 
+    if args.upload and not args.build:
+        print("uploading implies also building! (add --build)")
+        args.build = True
+        
     if args.digest:
         create_digest()
     else:
@@ -537,7 +560,10 @@ def main(args):
             host_is_target = True
             CONDA_SUBDIR = get_subdir()
         else:
-            host_is_target = False
+            if CONDA_SUBDIR == get_subdir():
+                host_is_target = True
+            else:
+                host_is_target = False
 
         if os.path.exists(SPECS_FPATH):
             with open(SPECS_FPATH) as fd:
@@ -554,6 +580,8 @@ def main(args):
                 if args.solve:
                     print(f"Solving : '{CONDA_SUBDIR}/{implementation.split('_')[1]}/{environment}' (from {get_subdir()})")
                     recipe_dir = solve(implementation, environment)
+                else:
+                    recipe_dir = str(RECIPES_ROOT / f"{CONDA_SUBDIR}/{implementation.split('_')[1]}/{environment}/meta.yaml")
                 if args.build:
                     if host_is_target: 
                         print(f"Building : '{CONDA_SUBDIR}/{implementation.split('_')[1]}/{environment}'")
