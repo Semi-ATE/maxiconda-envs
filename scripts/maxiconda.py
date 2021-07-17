@@ -159,7 +159,7 @@ def build(env_meta_path):
         print("***")
         print(output)
         print("***")
-        retval = output.split(b'anaconda upload \\')[1].split(b'\r')[1].decode("utf-8").strip()
+        retval = output.split(b'anaconda upload \\')[1].replace(b"\r","").split(b'\n')[1].decode("utf-8").strip()
         print(f"  package location = '{retval}'")
     else:
         print("Failure.")
