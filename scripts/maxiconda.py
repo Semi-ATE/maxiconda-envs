@@ -156,6 +156,9 @@ def build(env_meta_path):
     retval = None
     if b"anaconda upload" in output:
         print("success.")
+        print("***")
+        print(output)
+        print("***")
         retval = output.split(b'anaconda upload \\')[1].split(b'\r')[1].decode("utf-8").strip()
         print(f"  package location = '{retval}'")
     else:
@@ -489,9 +492,17 @@ def solve(implementation, environment, with_buildstring=True):
 
     return str(recipe_fpath)
 
+def next_xlsx_column(col_str):
+    last_char = col_str[-1]
+    if last_char == "Z":
+        if col_str[:-1].count("Z") == len(col_str[:-1]):
+            return "A" * (len(col_str) + 1)
+        else:
+            return f"{col_str[:-2]}{chr(ord(col_str[-2])+1)}A"
+    else:
+        return f"{col_str[:-1]}{chr(ord(last_char)+1)}"
+
 def create_digest():
-
-
 
     release = os.environ.get("MAXICONDA_ENV_RELEASE", '0.0.14')
     print(f"Creating digest for V{release}")
