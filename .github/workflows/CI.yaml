@@ -64,6 +64,7 @@ jobs:
       shell: bash -l {0}
       run: |
         if [[ -n "$(git status --porcelain)" ]]; then
+          export DATE=$(date +'%A %B %d, %Y')
           echo "$(git status --porcelain)"
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -75,7 +76,7 @@ jobs:
           git stash pop
           echo "git add -A"
           git add -A
-          echo "git commit -m \"Update Packages ${{ matrix.OS }}\""
+          echo "git commit -m \"Update Packages ${{ matrix.OS }} $DATE\""
           git commit -m "Update packages ${{ matrix.OS }}"
         else
           echo "Nothing to commit"
