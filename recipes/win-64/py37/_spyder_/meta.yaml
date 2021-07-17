@@ -36,7 +36,7 @@ requirements:
     - spyder-terminal =1.0.0 =py37h03978a9_0
     - sympy =1.8 =py37h03978a9_0
 
-    # 205 secondary packages :
+    # 207 secondary packages :
     - alabaster =0.7.12 =py_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - argh =0.26.2 =py37_1001
@@ -52,7 +52,7 @@ requirements:
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - bcrypt =3.2.0 =py37hcc03f2d_1
     - binaryornot =0.4.4 =py_1
-    - black =21.5b2 =pyhd8ed1ab_0
+    - black =21.7b0 =pyhd8ed1ab_0
     - bleach =3.3.1 =pyhd8ed1ab_0
     - brotlipy =0.7.0 =py37hcc03f2d_1001
     - ca-certificates =2021.5.30 =h5b45459_0
@@ -215,6 +215,8 @@ requirements:
     - tinycss2 =1.1.0 =pyhd8ed1ab_0
     - tk =8.6.10 =h8ffe710_1
     - toml =0.10.2 =pyhd8ed1ab_0
+    - tomli =1.0.4 =pyhd8ed1ab_0
+    - tomlkit =0.7.2 =py37h03978a9_0
     - tornado =6.1 =py37hcc03f2d_1
     - traitlets =5.0.5 =py_0
     - typed-ast =1.4.3 =py37hcc03f2d_0
