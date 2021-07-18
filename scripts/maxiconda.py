@@ -205,7 +205,7 @@ def is_uploadable(package_path):
     """
     if not isinstance(package_path, str):
         return False
-    if not package_path.endswwith(".tar.bz2"):
+    if not package_path.endswith(".tar.bz2"):
         return False
     package_path = os.path.normpath(package_path)
     if not os.path.exists(package_path):
