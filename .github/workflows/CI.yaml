@@ -76,8 +76,8 @@ jobs:
           git stash pop
           echo "git add -A"
           git add -A
-          echo "git commit -m \"Update Packages ${{ matrix.OS }} $DATE\""
-          git commit -m "Update packages ${{ matrix.OS }}"
+          echo "git commit -m \"$DATE (${{ matrix.os }})\""
+          git commit -m "$DATE (${{ matrix.os }})"
         else
           echo "Nothing to commit ($DATE)"
         fi  

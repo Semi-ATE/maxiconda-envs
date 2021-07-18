@@ -20,6 +20,8 @@ import tarfile
 import io
 from typing import Tuple
 import openpyxl
+from openpyxl.worksheet.dimensions import ColumnDimension, DimensionHolder
+from openpyxl.utils import get_column_letter
 
 # Constants
 HERE = Path(__file__).resolve().parent
@@ -30,7 +32,7 @@ CACHE = {}
 
 def get_subdir():
     """
-    This function will return the OS and CPU in a conda-forge compatible format (aka: 'SUBDIR')
+    This function will return the OS and CPU in a conda-forge compatible format (aka: 'CONDA_SUBDIR')
 
     Parameters
     ----------
@@ -120,6 +122,20 @@ def upload(package_path):
     return retval
 
 def build(env_meta_path):
+    """
+    Builds the package for `env_meta_path`.
+
+
+    Parameters
+    ----------
+    env_meta_path : str
+        path pointing to a 'meta.yaml' file.
+
+    Returns
+    -------
+    success : the path to the build package
+    failure : None
+    """
 
     if not os.path.exists(env_meta_path):
         raise Exception(f"'{env_meta_path}' does not exist!")
@@ -156,9 +172,6 @@ def build(env_meta_path):
     retval = None
     if b"anaconda upload" in output:
         print("success.")
-        print("***")
-        print(output)
-        print("***")
         retval = output.split(b'anaconda upload \\')[1].replace(b"\r",b"").split(b'\n')[1].decode("utf-8").strip()
         print(f"  package location = '{retval}'")
     else:
@@ -172,16 +185,33 @@ def build(env_meta_path):
     return retval
 
 def is_uploadable(package_path):
+    """
+    Determines if `package_path` is uploadable.
+
+    if the version is '0.0.0' this means it is a test build, and that is not uploaded.
+    if `package_path` doesn't point to an existing file, obviously it is not uploadable.
+    `package_path needs to be a string.
+    `package_path` must end with '.tar.bz2'.
+    
+    Parameters
+    ----------
+    package_path : str
+        path to the package.
+
+    Returns
+    -------
+    True : if all conditons are fulfilled..
+    False : if one or more conditions are not fulfilled. 
+    """
     if not isinstance(package_path, str):
-        print("--> upload : no string")
+        return False
+    if not package_path.endswwith(".tar.bz2"):
         return False
     package_path = os.path.normpath(package_path)
     if not os.path.exists(package_path):
-        print("--> upload : doesn't exist")
         return False
     retval = os.path.basename(package_path)
     retval = retval.split("-")[1]
-    print(f"upload --> {retval}")
     retval = not (retval == "0.0.0")
     return retval
 
@@ -504,29 +534,60 @@ def next_xlsx_column(col_str):
 
 def create_digest():
 
-    release = os.environ.get("MAXICONDA_ENV_RELEASE", '0.0.14')
+    def as_text(value):
+        if value is None:
+            return ""
+        return str(value)
+
+    release = os.environ.get("MAXICONDA_ENV_RELEASE", '0.0.27')
     print(f"Creating digest for V{release}")
 
     data = {}
     with open(SPECS_FPATH) as fd:
         specs = yaml.load(fd, Loader=yaml.FullLoader)
-        environments = list(specs['environments'])
-        platforms = list(specs['matrix'])
-        targets = []
+        environments = list(specs['environments'])  # list of all environments
+        platforms = list(specs['matrix'])  # list of all platforms
+        primary_packages = {}  # dictionary with all primary packages per environmnet
+        for environment in environments:
+            primary_packages[environment] = specs['environments'][environment]
+        targets = []  # list of all targets
+        column = {}  # dictionary, key = target & value = (xlsx_column, OS, CPU, PY) 
+        last_column = "A"
         for platform in platforms:
             for target in specs['matrix'][platform]:
                 if target not in targets:
                     targets.append(target)
+                OS_CPU, PY = target.split("_")
+                OS, CPU = OS_CPU.split("-")
+                if OS == "win":
+                    OS = "Windows"
+                    if CPU == "64":
+                        CPU = "x86_64"
+                elif OS == "linux":
+                    OS = "Linux"
+                    if CPU == "64":
+                        CPU = "x86_64"
+                elif OS == "osx":
+                    OS = "MacOS"
+                    if CPU == "64":
+                        CPU = "x86_64"
+                else:
+                    raise Exception(f"OS '{OS}' not implemented")
+                
+                this_column = next_xlsx_column(last_column)
+                column[target] = (this_column, OS, CPU, PY)
+                last_column = this_column                
+        max_column = next_xlsx_column(last_column)
         for environment in environments:
             data[environment] = {}
             for target in targets:
                 platform, python = target.split("_")
                 if environment in specs['matrix'][platform][target]:
                     url = f"https://anaconda.org/Semi-ATE/{environment}/{release}/download/{platform}/{environment}-{release}-{python}.tar.bz2"
-                    print(f"{url} ... ", end="")
+                    print(f"Analyzing '{url}' ... ", end="")
                     request = requests.get(url)
                     if request.status_code != 200:
-                        print("Does not exist!")
+                        print("Skiped (file doesn't exist)")
                         continue
                     try:
                         json_file_tar_flo_blo_bz2 = request.content
@@ -537,42 +598,96 @@ def create_digest():
                         with open("./info/index.json", 'r') as fd:
                             index = json.load(fd)
                     except:
-                        print("Does not exist! (or has problem)")
+                        print("Skipped (encountered a problem)")
                         continue
-                    print("exists")
+                    print("Done.")
                     if platform not in data[environment]:
                         data[environment][platform] = {}
                     if python not in data[environment][platform]:
                         data[environment][platform][python] = index['depends']
+
+    print("Consolidating data ... ", end="", flush=True)
+
+    # dictionary with all packages per environment
     all_packages = {}
-    columns = {}
     for environment in data:
         all_packages[environment] = []
-        columns[environment] = {}
         for platform in data[environment]:
-
             for python in data[environment][platform]:
-                # print(f"{environment}/{platform}/{python}")
                 for package in data[environment][platform][python]:
-                    # print(f"  {package}")
                     name, version, build = package.split(' ')
                     if name not in all_packages[environment]:
                         all_packages[environment].append(name)
-    print(all_packages)
 
-    
-
-
+    # dictionary per enviroment where key = package name & key = row number
+    row = {}
     wb = openpyxl.Workbook()
     wb_name = f"{str(REPO_ROOT / 'maxiconda-envs.xlsx')}"
-    print(wb_name)
     for environment in data:
+        row[environment] = {}
         wb.create_sheet(environment)
         ws = wb[environment]
+        ws_dim_holder = DimensionHolder(worksheet=ws)
+        ws["A1"] = f"V{release}"
+        ws["A1"].font = openpyxl.styles.Font(bold=True, color='00FF0000')
+
+        # Insert the packages
+        row_offset = 4
         for index, package in enumerate(sorted(all_packages[environment])):
-            ws[f'A{index+3}'] = package.split(' ')[0]
+            this_row = row_offset + index
+            this_cell = f"A{this_row}"
+            ws[this_cell] = package
+            row[environment][package] = this_row
+            # set the background of the primary packages to red
+            if package in primary_packages[environment] or package == "python":
+                last_column = "A"
+                while last_column != max_column:
+                    ws[f"{last_column}{this_row}"].fill = openpyxl.styles.PatternFill(start_color="D3D3D3", fill_type = "solid")
+                    last_column = next_xlsx_column(last_column)
+
+
+                
+        # Insert the data per target
+        for target in targets:
+            this_column, OS, CPU, PY = column[target]
+            platform = target.split("_")[0]
+            ws[f"{this_column}1"] = OS 
+            ws[f"{this_column}1"].alignment = openpyxl.styles.Alignment(horizontal='center')
+            ws[f"{this_column}2"] = CPU
+            ws[f"{this_column}2"].alignment = openpyxl.styles.Alignment(horizontal='center')
+            ws[f"{this_column}3"] = PY
+            ws[f"{this_column}3"].alignment = openpyxl.styles.Alignment(horizontal='center')
+            for package in all_packages[environment]:
+                this_row = row[environment][package]
+                package_version = None
+                package_build = None
+                if environment in data:
+                    if platform in data[environment]:
+                        if PY in data[environment][platform]:
+                            for env_package in data[environment][platform][PY]:
+                                if env_package.startswith(package):
+                                    _, package_version, package_build = env_package.split(" ")
+                                if package_version and package_build:
+                                    ws[f"{this_column}{this_row}"] = package_version
+                                    ws[f"{this_column}{this_row}"].comment = openpyxl.comments.Comment(package_build, "Semi-ATE")
+                                    ws[f"{this_column}{this_row}"].alignment = openpyxl.styles.Alignment(horizontal='center')
+
+        # adjust column width to fit ALL the column contenses
+        for column_cells in ws.columns:
+            new_column_length = max(len(as_text(cell.value)) for cell in column_cells)
+            new_column_letter = (openpyxl.utils.get_column_letter(column_cells[0].column))
+            if new_column_length > 0:
+                ws.column_dimensions[new_column_letter].width = new_column_length + 1
+
     del wb['Sheet']
-    wb.save(wb_name)
+    print("Done.")
+    print(f"Saving '{wb_name}' ... ", end="", flush=True)
+    try:
+        wb.save(wb_name)
+    except:
+        print("Failed!")
+    else:
+        print("Done.")
 
 
 
