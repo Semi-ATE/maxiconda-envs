@@ -46,10 +46,10 @@ jobs:
         export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/};
         if [[ "$OS" == "linux-aarch64" ]]; then
           echo "Build and Upload Environments for linux-aarch64"
+          #docker run --rm --privileged multiarch/qemu-user-static --reset --credential yes --persistent yes
+          #docker run --rm -v "$(pwd):/construct" ${DOCKER_IMG} /scripts/build.sh
         elif [[ "$OS" == "osx-arm64" ]]; then
           echo "Build and Upload Environments for osx-arm64"
-          export CONDA_SUBDIR="osx-arm64"
-          python -u scripts/maxiconda.py --solve
         else
           echo "Build and Upload Environments for $OS"
           python -u scripts/maxiconda.py --build --upload
