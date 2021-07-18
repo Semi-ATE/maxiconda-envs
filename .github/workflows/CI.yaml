@@ -49,11 +49,11 @@ jobs:
         DOCKER_IMG: ${{ matrix.DOCKER_IMG }}
       run: |
         if [[ "$OS" == "linux-aarch64" ]]; then
-          echo "Solving Environments for linux-aarch64"
-          #docker run --rm --privileged multiarch/qemu-user-static --reset --credential yes --persistent yes
-          #docker run --rm -v "$(pwd):/construct" ${DOCKER_IMG} /scripts/build.sh
+          echo "Cross solving environments for linux-aarch64 (no test build)"
+          export CONDA_SUBDIR="linux-aarch64"
+          python -u scripts/maxiconda.py --solve
         elif [[ "$OS" == "osx-arm64" ]]; then
-          echo "Solving Environments for osx-arm64"
+          echo "Cross solving environments for osx-arm64 (no test build)"
           export CONDA_SUBDIR="osx-arm64"
           python -u scripts/maxiconda.py --solve
         else
