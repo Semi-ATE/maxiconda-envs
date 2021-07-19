@@ -80,6 +80,7 @@ jobs:
           git commit -m "$DATE (${{ matrix.os }})"
         else
           echo "Nothing to commit ($DATE)"
+          git pull
         fi  
 
     - name: Push changes
