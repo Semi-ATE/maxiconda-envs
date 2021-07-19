@@ -34,7 +34,7 @@ jobs:
         fetch-depth: 0  # otherwise, you will failed to push refs to dest repo
 
     - name: Set up conda environment
-      if: ${{ env.OS != 'linux-aarch64' }}
+#       if: ${{ env.OS != 'linux-aarch64' }}  # environment needs to be setup in the container
       uses: conda-incubator/setup-miniconda@v2
       with:
         miniconda-version: latest
