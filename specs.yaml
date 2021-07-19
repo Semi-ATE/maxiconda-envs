@@ -70,10 +70,10 @@ environments:
     - numpy
     - scipy
     - pandas
-    - keras
+#     - keras
     - scikit-learn
     - pytorch
-    - tensorflow
+#     - tensorflow
     - xgboost
     - matplotlib
     - seaborn
