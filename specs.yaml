@@ -101,5 +101,13 @@ environments:
     - pyusb
   cf-bio:
     - spyder-kernels
+    - numpy
+    - pandas
+    - pymol-open-source
+    - scipy
+    - biopython
+    - matplotlib
+    - mdanalysis
+    - rdkit
   cf-astro:
     - spyder-kernels
