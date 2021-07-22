@@ -20,7 +20,6 @@ jobs:
             VM: macos-latest
           - OS: linux-aarch64
             VM: ubuntu-latest
-            DOCKER_IMG: condaforge/linux-anvil-aarch64
           - OS: osx-arm64
             VM: macos-latest
             DOCKER_IMG: xyz      
@@ -45,9 +44,10 @@ jobs:
       run: |
         export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/};
         if [[ "$OS" == "linux-aarch64" ]]; then
-          echo "Build and Upload Environments for linux-aarch64"
-          #docker run --rm --privileged multiarch/qemu-user-static --reset --credential yes --persistent yes
-          #docker run --rm -v "$(pwd):/construct" ${DOCKER_IMG} /scripts/build.sh
+	  echo "Build and Upload Environments for linux-aarch64"
+          export MAXICONDA_ARGS="--build --upload"
+          docker run --rm --privileged multiarch/qemu-user-static --reset --credential yes --persistent yes
+          docker run --rm -v "$(pwd):/maxiconda-envs" -e MAXICONDA_ENV_RELEASE -e CONDA_UPLOAD_TOKEN -e MAXICONDA_ARGS condaforge/linux-anvil-aarch64 /maxiconda-envs/scripts/linux-aarch64.sh
         elif [[ "$OS" == "osx-arm64" ]]; then
           echo "Build and Upload Environments for osx-arm64"
         else

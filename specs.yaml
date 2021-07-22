@@ -34,7 +34,7 @@ matrix:
 environments:
   _spyder_:
     - spyder
-    - spyder-terminal
+#    - spyder-terminal  # not available on linux-aarch64 yet
     - spyder-screencast
     - spyder-remote-client
 #    - Semi-ATE
