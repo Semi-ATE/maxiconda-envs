@@ -49,9 +49,9 @@ jobs:
         DOCKER_IMG: ${{ matrix.DOCKER_IMG }}
       run: |
         if [[ "$OS" == "linux-aarch64" ]]; then
-	  chmod -R -c o+w ./*
-	  export MAXICONDA_ARGS="--solve --build"
-	  docker run --rm --privileged multiarch/qemu-user-static --reset --credential yes --persistent yes	  
+          chmod -R -c o+w ./*
+          export MAXICONDA_ARGS="--solve --build"
+          docker run --rm --privileged multiarch/qemu-user-static --reset --credential yes --persistent yes	  
 	  docker run --rm -v "$(pwd):/maxiconda-envs" -e MAXICONDA_ARGS condaforge/linux-anvil-aarch64 /maxiconda-envs/scripts/linux-aarch64.sh
         elif [[ "$OS" == "osx-arm64" ]]; then
           echo "Cross solving environments for osx-arm64 (no test build)"
