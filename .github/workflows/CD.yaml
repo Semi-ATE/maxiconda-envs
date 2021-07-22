@@ -44,7 +44,7 @@ jobs:
       run: |
         export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/};
         if [[ "$OS" == "linux-aarch64" ]]; then
-	  echo "Build and Upload Environments for linux-aarch64"
+          echo "Build and Upload Environments for linux-aarch64"
           export MAXICONDA_ARGS="--build --upload"
           docker run --rm --privileged multiarch/qemu-user-static --reset --credential yes --persistent yes
           docker run --rm -v "$(pwd):/maxiconda-envs" -e MAXICONDA_ENV_RELEASE -e CONDA_UPLOAD_TOKEN -e MAXICONDA_ARGS condaforge/linux-anvil-aarch64 /maxiconda-envs/scripts/linux-aarch64.sh
