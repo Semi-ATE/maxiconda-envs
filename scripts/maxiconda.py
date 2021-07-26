@@ -382,7 +382,7 @@ def run_solver(pkgs, PY, channels=["conda-forge"], solver="mamba"):
         cmd.append("--channel")
         cmd.append(channel)
 
-    print(f"  CONDA_SUBDIR = {os.environ("CONDA_SUBDIR")}")
+    print(f"  CONDA_SUBDIR = {os.environ('CONDA_SUBDIR')}")
     print("  solving command: '" + " ".join(cmd) + "'")
 
     p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
