@@ -24,7 +24,7 @@ requirements:
   run:
     - python =3.7.10 =h7728216_100_cpython
 
-    # 8 primary packages :
+    # 9 primary packages :
     - cython =0.29.24 =py37hd8d24ac_0
     - matplotlib =3.4.2 =py37hf985489_0
     - numpy =1.21.1 =py37h84c02c4_0
@@ -32,9 +32,10 @@ requirements:
     - scipy =1.7.0 =py37h866764c_1
     - spyder =5.0.5 =py37hf985489_2
     - spyder-remote-client =0.0.4 =pyhd8ed1ab_0
+    - spyder-terminal =1.0.0 =py37hf985489_1
     - sympy =1.8 =py37hf985489_0
 
-    # 213 secondary packages :
+    # 216 secondary packages :
     - alabaster =0.7.12 =py_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - applaunchservices =0.2.1 =py_0
@@ -62,6 +63,7 @@ requirements:
     - click =8.0.1 =py37hf985489_0
     - cloudpickle =1.6.0 =py_0
     - colorama =0.4.4 =pyh9f0ad1d_0
+    - coloredlogs =15.0.1 =py37hf985489_1
     - cookiecutter =1.7.3 =pyh6c4a22f_0
     - cryptography =3.4.7 =py37hce4a858_0
     - cycler =0.10.0 =py_2
@@ -81,6 +83,7 @@ requirements:
     - glib-tools =2.68.3 =he49afe7_0
     - gmp =6.2.1 =h2e338ed_0
     - gmpy2 =2.1.0b5 =py37h60f582e_0
+    - humanfriendly =9.2 =py37hf985489_1
     - icu =68.1 =h74dc148_0
     - idna =3.1 =pyhd3deb0d_0
     - ifaddr =0.1.7 =pyh9f0ad1d_0
@@ -128,7 +131,7 @@ requirements:
     - libspatialindex =1.9.3 =he49afe7_4
     - libtiff =4.3.0 =h1167814_1
     - libwebp-base =1.2.0 =h0d85af4_2
-    - llvm-openmp =12.0.1 =hda6cdc1_0
+    - llvm-openmp =12.0.1 =hda6cdc1_1
     - lz4-c =1.9.3 =h046ec9c_0
     - markupsafe =1.1.1 =py37hf967b71_3
     - matplotlib-base =3.4.2 =py37hb018525_0
@@ -218,6 +221,7 @@ requirements:
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_0
     - spyder-kernels =2.0.5 =py37hf985489_0
     - sqlite =3.36.0 =h23a322b_0
+    - terminado =0.10.1 =py37hf985489_0
     - testpath =0.5.0 =pyhd8ed1ab_0
     - text-unidecode =1.3 =py_0
     - textdistance =4.2.1 =pyhd8ed1ab_0
