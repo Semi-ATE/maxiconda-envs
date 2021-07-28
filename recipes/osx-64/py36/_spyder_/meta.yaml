@@ -24,7 +24,7 @@ requirements:
   run:
     - python =3.6.13 =h7728216_0_cpython
 
-    # 8 primary packages :
+    # 9 primary packages :
     - cython =0.29.24 =py36hefe7e0e_0
     - matplotlib =3.3.4 =py36h79c6626_0
     - numpy =1.19.5 =py36h08b5fde_2
@@ -32,9 +32,10 @@ requirements:
     - scipy =1.5.3 =py36h04de62b_0
     - spyder =5.0.5 =py36h79c6626_2
     - spyder-remote-client =0.0.4 =pyhd8ed1ab_0
+    - spyder-terminal =1.0.0 =py36h79c6626_1
     - sympy =1.8 =py36h79c6626_0
 
-    # 212 secondary packages :
+    # 215 secondary packages :
     - alabaster =0.7.12 =py_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - applaunchservices =0.2.1 =py_0
@@ -62,6 +63,7 @@ requirements:
     - click =8.0.1 =py36h79c6626_0
     - cloudpickle =1.6.0 =py_0
     - colorama =0.4.4 =pyh9f0ad1d_0
+    - coloredlogs =15.0.1 =py36h79c6626_1
     - cookiecutter =1.7.3 =pyh6c4a22f_0
     - cryptography =3.4.7 =py36h3d45be8_0
     - cycler =0.10.0 =py36_0
@@ -81,6 +83,7 @@ requirements:
     - glib-tools =2.68.3 =he49afe7_0
     - gmp =6.2.1 =h2e338ed_0
     - gmpy2 =2.1.0b5 =py36hd1bac1b_0
+    - humanfriendly =9.2 =py36h79c6626_1
     - icu =68.1 =h74dc148_0
     - idna =3.1 =pyhd3deb0d_0
     - ifaddr =0.1.7 =pyh9f0ad1d_0
@@ -104,31 +107,31 @@ requirements:
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
     - keyring =23.0.1 =py36h79c6626_0
     - kiwisolver =1.3.1 =py36hc61eee1_1
-    - krb5 =1.19.1 =hcfbf3a7_0
+    - krb5 =1.19.2 =hcfbf3a7_0
     - lazy-object-proxy =1.6.0 =py36hfa26744_0
     - lcms2 =2.12 =h577c468_0
     - lerc =2.2.1 =h046ec9c_0
-    - libblas =3.9.0 =9_openblas
-    - libcblas =3.9.0 =9_openblas
+    - libblas =3.9.0 =10_openblas
+    - libcblas =3.9.0 =10_openblas
     - libclang =11.1.0 =default_he082bbe_1
     - libcxx =12.0.1 =habf9029_0
     - libdeflate =1.7 =h35c211d_5
     - libedit =3.1.20191231 =h0678c8f_2
     - libffi =3.3 =h046ec9c_2
-    - libgfortran =5.0.0 =9_3_0_h6c81a4c_22
-    - libgfortran5 =9.3.0 =h6c81a4c_22
+    - libgfortran =5.0.0 =9_3_0_h6c81a4c_23
+    - libgfortran5 =9.3.0 =h6c81a4c_23
     - libglib =2.68.3 =hd556434_0
     - libiconv =1.16 =haf1e3a3_0
-    - liblapack =3.9.0 =9_openblas
+    - liblapack =3.9.0 =10_openblas
     - libllvm11 =11.1.0 =hd011deb_2
-    - libopenblas =0.3.15 =openmp_h5e1b9a4_1
+    - libopenblas =0.3.17 =openmp_h3351f45_1
     - libpng =1.6.37 =h7cec526_2
     - libpq =13.3 =hea3049e_0
     - libsodium =1.0.18 =hbcb3906_1
     - libspatialindex =1.9.3 =he49afe7_4
     - libtiff =4.3.0 =h1167814_1
     - libwebp-base =1.2.0 =h0d85af4_2
-    - llvm-openmp =12.0.1 =hda6cdc1_0
+    - llvm-openmp =12.0.1 =hda6cdc1_1
     - lz4-c =1.9.3 =h046ec9c_0
     - markupsafe =1.1.1 =py36h20b66c6_3
     - matplotlib-base =3.3.4 =py36h4ea959b_0
@@ -217,6 +220,7 @@ requirements:
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_0
     - spyder-kernels =2.0.5 =py36h79c6626_0
     - sqlite =3.36.0 =h23a322b_0
+    - terminado =0.10.1 =py36h79c6626_0
     - testpath =0.5.0 =pyhd8ed1ab_0
     - text-unidecode =1.3 =py_0
     - textdistance =4.2.1 =pyhd8ed1ab_0
