@@ -112,3 +112,9 @@ environments:
     - rdkit
   cf-astro:
     - spyder-kernels
+  cf-ros:
+    - spyder-kernels
+    - ros-core
+    - ros-actionlib
+    - ros-dynamic-reconfigure
+    
