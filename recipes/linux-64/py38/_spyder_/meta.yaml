@@ -93,8 +93,8 @@ requirements:
     - idna =3.1 =pyhd3deb0d_0
     - ifaddr =0.1.7 =pyh9f0ad1d_0
     - imagesize =1.2.0 =py_0
-    - importlib-metadata =4.6.1 =py38h578d9bd_0
-    - importlib_metadata =4.6.1 =hd8ed1ab_0
+    - importlib-metadata =4.6.3 =py38h578d9bd_0
+    - importlib_metadata =4.6.3 =hd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.0.2 =py_0
     - ipykernel =6.0.3 =py38hd0cf306_0
@@ -125,11 +125,11 @@ requirements:
     - libedit =3.1.20191231 =he28a2e2_2
     - libevent =2.1.10 =hcdb4288_3
     - libffi =3.3 =h58526e2_2
-    - libgcc-ng =11.1.0 =hc902ee8_5
-    - libgfortran-ng =11.1.0 =h69a702a_5
-    - libgfortran5 =11.1.0 =h6c583b3_5
+    - libgcc-ng =11.1.0 =hc902ee8_6
+    - libgfortran-ng =11.1.0 =h69a702a_6
+    - libgfortran5 =11.1.0 =h6c583b3_6
     - libglib =2.68.3 =h3e27bee_0
-    - libgomp =11.1.0 =hc902ee8_5
+    - libgomp =11.1.0 =hc902ee8_6
     - libiconv =1.16 =h516909a_0
     - liblapack =3.9.0 =10_openblas
     - libllvm11 =11.1.0 =hf817b99_2
@@ -140,7 +140,7 @@ requirements:
     - libpq =13.3 =hd57d9b9_0
     - libsodium =1.0.18 =h36c2ea0_1
     - libspatialindex =1.9.3 =h9c3ff4c_4
-    - libstdcxx-ng =11.1.0 =h56837e0_5
+    - libstdcxx-ng =11.1.0 =h56837e0_6
     - libtiff =4.3.0 =hf544144_1
     - libuuid =2.32.1 =h7f98852_1000
     - libvorbis =1.3.7 =h9c3ff4c_0
@@ -181,7 +181,7 @@ requirements:
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pillow =8.3.1 =py38h8e6f84c_0
-    - pip =21.2.1 =pyhd8ed1ab_0
+    - pip =21.2.2 =pyhd8ed1ab_0
     - pluggy =0.13.1 =py38h578d9bd_4
     - poyo =0.5.0 =py_0
     - prompt-toolkit =3.0.19 =pyha770c72_0
