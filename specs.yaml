@@ -12,11 +12,10 @@ matrix:
     linux-64_py38: ['_spyder_', 'maxiconda']
     linux-64_py39:  ['_spyder_', 'maxiconda']
   linux-aarch64:
-    linux-aarch64_py36: ['_spyder_', 'maxiconda']
-    linux-aarch64_py37: ['_spyder_', 'maxiconda']
+    linux-aarch64_py37: ['maxiconda']
     #linux-aarch64_pypy37: ['maxiconda']
-    linux-aarch64_py38: ['_spyder_', 'maxiconda']
-    linux-aarch64_py39: ['_spyder_', 'maxiconda']
+    linux-aarch64_py38: ['maxiconda']
+    linux-aarch64_py39: ['maxiconda']
   osx-64:
     osx-64_py36: ['_spyder_', 'maxiconda']
     osx-64_py37: ['_spyder_', 'maxiconda']
