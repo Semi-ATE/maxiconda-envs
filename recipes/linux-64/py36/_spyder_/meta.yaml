@@ -30,12 +30,12 @@ requirements:
     - numpy =1.19.5 =py36hfc0c790_2
     - pandas =1.1.5 =py36h284efc9_0
     - scipy =1.5.3 =py36h9e8f40b_0
-    - spyder =5.0.5 =py36h5fab9bb_2
+    - spyder =5.1.1 =py36h5fab9bb_0
     - spyder-remote-client =0.0.4 =pyhd8ed1ab_0
     - spyder-terminal =1.0.0 =py36h5fab9bb_1
     - sympy =1.8 =py36h5fab9bb_0
 
-    # 234 secondary packages :
+    # 233 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - alabaster =0.7.12 =py_0
@@ -47,7 +47,7 @@ requirements:
     - async_generator =1.10 =py_0
     - atomicwrites =1.4.0 =pyh9f0ad1d_0
     - attrs =21.2.0 =pyhd8ed1ab_0
-    - autopep8 =1.5.6 =pyhd8ed1ab_0
+    - autopep8 =1.5.7 =pyhd8ed1ab_0
     - babel =2.9.1 =pyh44b312d_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py36_1
@@ -76,10 +76,9 @@ requirements:
     - docutils =0.17.1 =py36h5fab9bb_0
     - entrypoints =0.3 =py36h9f0ad1d_1002
     - expat =2.4.1 =h9c3ff4c_0
-    - flake8 =3.8.4 =py_0
+    - flake8 =3.9.2 =pyhd8ed1ab_0
     - fontconfig =2.13.1 =hba837de_1005
     - freetype =2.10.4 =h0708190_1
-    - future =0.18.2 =py36h5fab9bb_3
     - gettext =0.19.8.1 =h0b5b191_1005
     - glib =2.68.3 =h9c3ff4c_0
     - glib-tools =2.68.3 =h9c3ff4c_0
@@ -124,11 +123,11 @@ requirements:
     - libedit =3.1.20191231 =he28a2e2_2
     - libevent =2.1.10 =hcdb4288_3
     - libffi =3.3 =h58526e2_2
-    - libgcc-ng =11.1.0 =hc902ee8_7
-    - libgfortran-ng =11.1.0 =h69a702a_7
-    - libgfortran5 =11.1.0 =h6c583b3_7
+    - libgcc-ng =11.1.0 =hc902ee8_8
+    - libgfortran-ng =11.1.0 =h69a702a_8
+    - libgfortran5 =11.1.0 =h6c583b3_8
     - libglib =2.68.3 =h3e27bee_0
-    - libgomp =11.1.0 =hc902ee8_7
+    - libgomp =11.1.0 =hc902ee8_8
     - libiconv =1.16 =h516909a_0
     - liblapack =3.9.0 =10_openblas
     - libllvm11 =11.1.0 =hf817b99_2
@@ -139,7 +138,7 @@ requirements:
     - libpq =13.3 =hd57d9b9_0
     - libsodium =1.0.18 =h36c2ea0_1
     - libspatialindex =1.9.3 =h9c3ff4c_4
-    - libstdcxx-ng =11.1.0 =h56837e0_7
+    - libstdcxx-ng =11.1.0 =h56837e0_8
     - libtiff =4.3.0 =hf544144_1
     - libuuid =2.32.1 =h7f98852_1000
     - libvorbis =1.3.7 =h9c3ff4c_0
@@ -173,7 +172,7 @@ requirements:
     - packaging =21.0 =pyhd8ed1ab_0
     - pandoc =2.14.1 =h7f98852_0
     - pandocfilters =1.4.2 =py36_0
-    - parso =0.7.0 =pyh9f0ad1d_0
+    - parso =0.7.1 =pyh9f0ad1d_0
     - pathspec =0.9.0 =pyhd8ed1ab_0
     - pcre =8.45 =h9c3ff4c_0
     - pexpect =4.8.0 =py36h9f0ad1d_1
@@ -186,14 +185,13 @@ requirements:
     - psutil =5.8.0 =py36h8f6f2f9_1
     - pthread-stubs =0.4 =h36c2ea0_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pycodestyle =2.6.0 =pyh9f0ad1d_0
+    - pycodestyle =2.7.0 =pyhd8ed1ab_0
     - pycparser =2.20 =pyh9f0ad1d_2
     - pydocstyle =6.1.1 =pyhd8ed1ab_0
-    - pyflakes =2.2.0 =pyh9f0ad1d_0
+    - pyflakes =2.3.1 =pyhd8ed1ab_0
     - pygments =2.9.0 =pyhd8ed1ab_0
     - pylint =2.9.6 =pyhd8ed1ab_0
-    - pyls-black =0.4.6 =pyh9f0ad1d_0
-    - pyls-spyder =0.3.2 =pyhd8ed1ab_0
+    - pyls-spyder =0.4.0 =pyhd8ed1ab_0
     - pyopenssl =20.0.1 =pyhd8ed1ab_0
     - pyparsing =2.4.7 =pyh9f0ad1d_0
     - pyqt =5.12.3 =py36h5fab9bb_7
@@ -204,14 +202,15 @@ requirements:
     - pyrsistent =0.17.3 =py36h8f6f2f9_2
     - pysocks =1.7.1 =py36h5fab9bb_3
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
-    - python-jsonrpc-server =0.4.0 =pyh9f0ad1d_0
-    - python-language-server =0.36.2 =pyhd8ed1ab_0
+    - python-lsp-black =1.0.0 =pyhd8ed1ab_0
+    - python-lsp-jsonrpc =1.0.0 =pyhd8ed1ab_0
+    - python-lsp-server =1.2.1 =pyhd8ed1ab_0
     - python-slugify =5.0.2 =pyhd8ed1ab_0
     - python_abi =3.6 =2_cp36m
     - pytz =2021.1 =pyhd8ed1ab_0
     - pyxdg =0.27 =pyhd8ed1ab_0
     - pyyaml =5.4.1 =py36h8f6f2f9_0
-    - pyzmq =22.1.0 =py36h7068817_0
+    - pyzmq =22.2.0 =py36h7068817_0
     - qdarkstyle =3.0.2 =pyhd8ed1ab_0
     - qstylizer =0.2.1 =pyhd8ed1ab_0
     - qt =5.12.9 =hda022c4_4
@@ -235,7 +234,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =py_0
     - sphinxcontrib-qthelp =1.0.3 =py_0
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_0
-    - spyder-kernels =2.0.5 =py36h5fab9bb_0
+    - spyder-kernels =2.1.0 =py36h5fab9bb_0
     - sqlite =3.36.0 =h9cd32fc_0
     - terminado =0.10.1 =py36h5fab9bb_0
     - testpath =0.5.0 =pyhd8ed1ab_0
