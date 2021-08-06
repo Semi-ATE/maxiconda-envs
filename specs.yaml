@@ -60,6 +60,8 @@ environments:
     - pandas
     - beautifilsoup4
     - menu-inst
+    - pytest
+    - hypothesis
   cf-data:
     - spyder-kernels
     - scrapy
