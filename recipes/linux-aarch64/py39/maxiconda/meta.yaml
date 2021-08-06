@@ -25,7 +25,7 @@ requirements:
     - python =3.9.6 =h4f4e160_1_cpython
 
     # 16 primary packages :
-    - ipython =7.25.0 =py39hef158d4_1
+    - ipython =7.26.0 =py39hef158d4_0
     - matplotlib =3.4.2 =py39ha65689a_0
     - numba =0.53.1 =py39h0974df5_1
     - numpy =1.21.1 =py39h43e3299_0
@@ -35,14 +35,14 @@ requirements:
     - pyqt =5.12.3 =py39ha65689a_7
     - qdarkstyle =3.0.2 =pyhd8ed1ab_0
     - qtawesome =1.0.3 =pyhd8ed1ab_0
-    - regex =2021.7.6 =py39h14843e3_0
+    - regex =2021.8.3 =py39h14843e3_0
     - requests =2.26.0 =pyhd8ed1ab_0
-    - spyder-kernels =2.0.5 =py39ha65689a_0
+    - spyder-kernels =2.1.0 =py39ha65689a_0
     - sqlalchemy =1.4.22 =py39h14843e3_0
     - sqlite =3.36.0 =hc164836_0
-    - tqdm =4.61.2 =pyhd8ed1ab_1
+    - tqdm =4.62.0 =pyhd8ed1ab_0
 
-    # 125 secondary packages :
+    # 126 secondary packages :
     - _openmp_mutex =4.5 =1_gnu
     - alsa-lib =1.2.3 =h516909a_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -55,6 +55,7 @@ requirements:
     - chardet =4.0.0 =py39ha65689a_1
     - charset-normalizer =2.0.0 =pyhd8ed1ab_0
     - cloudpickle =1.6.0 =py_0
+    - colorama =0.4.4 =pyh9f0ad1d_0
     - cryptography =3.4.7 =py39hc5d6c06_0
     - cycler =0.10.0 =py_2
     - dbus =1.13.6 =h55ded54_2
@@ -81,33 +82,33 @@ requirements:
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.7.1 =py39ha65689a_0
     - kiwisolver =1.3.1 =py39hb300cb6_1
-    - krb5 =1.19.1 =h4f20351_0
+    - krb5 =1.19.2 =h4f20351_0
     - lcms2 =2.12 =h012adcb_0
-    - ld_impl_linux-aarch64 =2.36.1 =h02ad14f_1
+    - ld_impl_linux-aarch64 =2.36.1 =h02ad14f_2
     - lerc =2.2.1 =h01db608_0
-    - libblas =3.9.0 =9_openblas
-    - libcblas =3.9.0 =9_openblas
+    - libblas =3.9.0 =10_openblas
+    - libcblas =3.9.0 =10_openblas
     - libclang =11.1.0 =default_h4839fef_1
     - libdeflate =1.7 =hf897c2e_5
     - libedit =3.1.20191231 =he28a2e2_2
     - libevent =2.1.10 =hcdb4288_3
     - libffi =3.3 =h884eca8_2
-    - libgcc-ng =11.1.0 =h3322914_2
-    - libgfortran-ng =11.1.0 =he9431aa_0
-    - libgfortran5 =11.1.0 =hd62da68_2
+    - libgcc-ng =11.1.0 =h3322914_8
+    - libgfortran-ng =11.1.0 =he9431aa_8
+    - libgfortran5 =11.1.0 =hd62da68_8
     - libglib =2.68.3 =he97b138_0
-    - libgomp =11.1.0 =h3322914_2
+    - libgomp =11.1.0 =h3322914_8
     - libiconv =1.16 =h6dd45c4_0
-    - liblapack =3.9.0 =9_openblas
+    - liblapack =3.9.0 =10_openblas
     - libllvm10 =10.0.1 =he513fc3_3
     - libllvm11 =11.1.0 =h6293a0b_2
     - libogg =1.3.4 =h3557bc0_1
-    - libopenblas =0.3.15 =pthreads_h775ce2d_1
+    - libopenblas =0.3.17 =pthreads_h775ce2d_1
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.37 =hbd635b3_2
     - libpq =13.3 =h29fb33b_0
     - libsodium =1.0.18 =hb9de7d4_1
-    - libstdcxx-ng =11.1.0 =h5eeca4d_2
+    - libstdcxx-ng =11.1.0 =h5eeca4d_8
     - libtiff =4.3.0 =h1ff68f6_1
     - libuuid =2.32.1 =hf897c2e_1000
     - libvorbis =1.3.7 =h01db608_0
@@ -116,7 +117,7 @@ requirements:
     - libxkbcommon =1.0.3 =he09c752_0
     - libxml2 =2.9.12 =hd674cf7_0
     - llvmlite =0.36.0 =py39h4ebc84c_0
-    - lz4-c =1.9.3 =h01db608_0
+    - lz4-c =1.9.3 =h01db608_1
     - matplotlib-base =3.4.2 =py39hf25eaef_0
     - matplotlib-inline =0.1.2 =pyhd8ed1ab_2
     - mysql-common =8.0.25 =h8af1aa0_2
@@ -132,7 +133,7 @@ requirements:
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =8.3.1 =py39h6bfd5da_0
-    - pip =21.2.1 =pyhd8ed1ab_0
+    - pip =21.2.2 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.19 =pyha770c72_0
     - pthread-stubs =0.4 =hb9de7d4_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
@@ -148,7 +149,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =2_cp39
     - pytz =2021.1 =pyhd8ed1ab_0
-    - pyzmq =22.1.0 =py39h3674c48_0
+    - pyzmq =22.2.1 =py39h3674c48_0
     - qt =5.12.9 =hbfd4b83_4
     - qtpy =1.9.0 =py_0
     - readline =8.1 =h1a49cc3_0
