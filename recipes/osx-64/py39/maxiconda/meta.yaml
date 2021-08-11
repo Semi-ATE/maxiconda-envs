@@ -87,8 +87,8 @@ requirements:
     - krb5 =1.19.2 =hcfbf3a7_0
     - lcms2 =2.12 =h577c468_0
     - lerc =2.2.1 =h046ec9c_0
-    - libblas =3.9.0 =10_openblas
-    - libcblas =3.9.0 =10_openblas
+    - libblas =3.9.0 =11_osx64_openblas
+    - libcblas =3.9.0 =11_osx64_openblas
     - libclang =11.1.0 =default_he082bbe_1
     - libcxx =12.0.1 =habf9029_0
     - libdeflate =1.7 =h35c211d_5
@@ -98,7 +98,7 @@ requirements:
     - libgfortran5 =9.3.0 =h6c81a4c_23
     - libglib =2.68.3 =hd556434_0
     - libiconv =1.16 =haf1e3a3_0
-    - liblapack =3.9.0 =10_openblas
+    - liblapack =3.9.0 =11_osx64_openblas
     - libllvm10 =10.0.1 =h009f743_3
     - libllvm11 =11.1.0 =hd011deb_2
     - libopenblas =0.3.17 =openmp_h3351f45_1
@@ -158,7 +158,7 @@ requirements:
     - tzdata =2021a =he74cb21_1
     - urllib3 =1.26.6 =pyhd8ed1ab_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
-    - wheel =0.36.2 =pyhd3deb0d_0
+    - wheel =0.37.0 =pyhd8ed1ab_0
     - wurlitzer =2.1.1 =py39h6e9494a_0
     - xz =5.2.5 =haf1e3a3_1
     - zeromq =4.3.4 =h1c7c35f_0
