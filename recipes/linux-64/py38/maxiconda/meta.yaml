@@ -29,9 +29,9 @@ requirements:
     - ipython =7.26.0 =py38he5a9106_0
     - matplotlib =3.4.3 =py38h578d9bd_0
     - numba =0.53.1 =py38h8b71fd7_1
-    - numpy =1.21.1 =py38h9894fe3_0
+    - numpy =1.21.2 =py38he2449b9_0
     - openpyxl =3.0.7 =pyhd8ed1ab_0
-    - pandas =1.3.1 =py38h1abd341_0
+    - pandas =1.3.2 =py38h43a58ef_0
     - psutil =5.8.0 =py38h497a2fe_1
     - pyqt =5.12.3 =py38h578d9bd_7
     - pytest =6.2.4 =py38h578d9bd_0
@@ -80,7 +80,7 @@ requirements:
     - icu =68.1 =h58526e2_0
     - idna =3.1 =pyhd3deb0d_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
-    - ipykernel =6.1.0 =py38he5a9106_0
+    - ipykernel =6.2.0 =py38he5a9106_0
     - ipython_genutils =0.2.0 =py_1
     - jbig =2.1 =h7f98852_2003
     - jdcal =1.4.1 =py_0
@@ -119,7 +119,7 @@ requirements:
     - libtiff =4.3.0 =hf544144_1
     - libuuid =2.32.1 =h7f98852_1000
     - libvorbis =1.3.7 =h9c3ff4c_0
-    - libwebp-base =1.2.0 =h7f98852_2
+    - libwebp-base =1.2.1 =h7f98852_0
     - libxcb =1.13 =h7f98852_1003
     - libxkbcommon =1.0.3 =he3ba5ed_0
     - libxml2 =2.9.12 =h72842e0_0
@@ -135,7 +135,7 @@ requirements:
     - nss =3.69 =hb5efdd6_0
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =hb52868f_1
-    - openssl =1.1.1k =h7f98852_0
+    - openssl =1.1.1k =h7f98852_1
     - packaging =21.0 =pyhd8ed1ab_0
     - parso =0.8.2 =pyhd8ed1ab_0
     - pcre =8.45 =h9c3ff4c_0
@@ -149,7 +149,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - py =1.10.0 =pyhd3deb0d_0
     - pycparser =2.20 =pyh9f0ad1d_2
-    - pygments =2.9.0 =pyhd8ed1ab_0
+    - pygments =2.10.0 =pyhd8ed1ab_0
     - pyopenssl =20.0.1 =pyhd8ed1ab_0
     - pyparsing =2.4.7 =pyh9f0ad1d_0
     - pyqt-impl =5.12.3 =py38h7400c14_7
@@ -164,7 +164,7 @@ requirements:
     - qt =5.12.9 =hda022c4_4
     - qtpy =1.9.0 =py_0
     - readline =8.1 =h46c0cb4_0
-    - setuptools =49.6.0 =py38h578d9bd_3
+    - setuptools =57.4.0 =py38h578d9bd_0
     - six =1.16.0 =pyh6c4a22f_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
     - tk =8.6.10 =h21135ba_1
