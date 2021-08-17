@@ -29,9 +29,9 @@ requirements:
     - ipython =7.26.0 =py37h4038f58_0
     - matplotlib =3.4.3 =py37h03978a9_0
     - numba =0.53.1 =py37h9690626_1
-    - numpy =1.21.1 =py37hcbcd69c_0
+    - numpy =1.21.2 =py37h940b05c_0
     - openpyxl =3.0.7 =pyhd8ed1ab_0
-    - pandas =1.3.1 =py37h90003fb_0
+    - pandas =1.3.2 =py37h9386db6_0
     - psutil =5.8.0 =py37hcc03f2d_1
     - pyqt =5.12.3 =py37h03978a9_7
     - pytest =6.2.4 =py37h03978a9_0
@@ -45,7 +45,7 @@ requirements:
     - sqlite =3.36.0 =h8ffe710_0
     - tqdm =4.62.1 =pyhd8ed1ab_0
 
-    # 107 secondary packages :
+    # 106 secondary packages :
     - argcomplete =1.12.3 =pyhd8ed1ab_2
     - atomicwrites =1.4.0 =pyh9f0ad1d_0
     - attrs =21.2.0 =pyhd8ed1ab_0
@@ -74,7 +74,7 @@ requirements:
     - importlib_metadata =4.6.4 =hd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
     - intel-openmp =2021.3.0 =h57928b3_3372
-    - ipykernel =6.1.0 =py37h4038f58_0
+    - ipykernel =6.2.0 =py37h4038f58_0
     - ipython_genutils =0.2.0 =py_1
     - jbig =2.1 =h8d14728_2003
     - jdcal =1.4.1 =py_0
@@ -107,7 +107,7 @@ requirements:
     - msys2-conda-epoch =20160418 =1
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =hb211442_1
-    - openssl =1.1.1k =h8ffe710_0
+    - openssl =1.1.1k =h8ffe710_1
     - packaging =21.0 =pyhd8ed1ab_0
     - parso =0.8.2 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
@@ -117,7 +117,7 @@ requirements:
     - prompt-toolkit =3.0.19 =pyha770c72_0
     - py =1.10.0 =pyhd3deb0d_0
     - pycparser =2.20 =pyh9f0ad1d_2
-    - pygments =2.9.0 =pyhd8ed1ab_0
+    - pygments =2.10.0 =pyhd8ed1ab_0
     - pyopenssl =20.0.1 =pyhd8ed1ab_0
     - pyparsing =2.4.7 =pyh9f0ad1d_0
     - pyqt-impl =5.12.3 =py37hf2a7229_7
@@ -132,7 +132,7 @@ requirements:
     - pyzmq =22.2.1 =py37hcce574b_0
     - qt =5.12.9 =h5909a2a_4
     - qtpy =1.9.0 =py_0
-    - setuptools =49.6.0 =py37h03978a9_3
+    - setuptools =57.4.0 =py37h03978a9_0
     - six =1.16.0 =pyh6c4a22f_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
     - tk =8.6.10 =h8ffe710_1
@@ -147,7 +147,6 @@ requirements:
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.37.0 =pyhd8ed1ab_1
     - win_inet_pton =1.1.0 =py37h03978a9_2
-    - wincertstore =0.2 =py37h03978a9_1006
     - xz =5.2.5 =h62dcd97_1
     - zeromq =4.3.4 =h0e60522_0
     - zipp =3.5.0 =pyhd8ed1ab_0
