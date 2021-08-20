@@ -43,10 +43,14 @@ environments:
     - sympy
   maxiconda:
     - spyder-kernels
+    - cython
+    - matplotlib
     - numpy
+    - pandas
+    - scipy
+    - sympy
     - ipython
     - numba
-    - matplotlib
     - openpyxl
     - requests
     - psutil
@@ -58,7 +62,6 @@ environments:
     - sqlite
     - sqlalchemy
     - tqdm
-    - pandas
     - beautifilsoup4
     - menu-inst
     - pytest
