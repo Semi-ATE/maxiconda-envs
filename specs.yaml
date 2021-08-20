@@ -43,6 +43,7 @@ environments:
     - sympy
   maxiconda:
     - spyder-kernels
+    - bitarray
     - cython
     - matplotlib
     - numpy
