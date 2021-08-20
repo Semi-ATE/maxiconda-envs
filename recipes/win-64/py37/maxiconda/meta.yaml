@@ -24,7 +24,8 @@ requirements:
   run:
     - python =3.7.10 =h7840368_100_cpython
 
-    # 19 primary packages :
+    # 21 primary packages :
+    - cython =0.29.24 =py37hf2a7229_0
     - hypothesis =6.14.8 =pyhd8ed1ab_0
     - ipython =7.26.0 =py37h4038f58_0
     - matplotlib =3.4.3 =py37h03978a9_0
@@ -43,9 +44,10 @@ requirements:
     - spyder-kernels =2.1.0 =py37h03978a9_0
     - sqlalchemy =1.4.23 =py37hcc03f2d_0
     - sqlite =3.36.0 =h8ffe710_0
+    - sympy =1.8 =py37h03978a9_0
     - tqdm =4.62.1 =pyhd8ed1ab_0
 
-    # 106 secondary packages :
+    # 107 secondary packages :
     - argcomplete =1.12.3 =pyhd8ed1ab_2
     - atomicwrites =1.4.0 =pyh9f0ad1d_0
     - attrs =21.2.0 =pyhd8ed1ab_0
@@ -104,6 +106,7 @@ requirements:
     - matplotlib-inline =0.1.2 =pyhd8ed1ab_2
     - mkl =2020.4 =hb70f87d_311
     - more-itertools =8.8.0 =pyhd8ed1ab_0
+    - mpmath =1.2.1 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =hb211442_1
