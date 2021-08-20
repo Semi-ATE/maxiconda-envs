@@ -24,7 +24,8 @@ requirements:
   run:
     - python =3.8.10 =h4f4e160_1_cpython
 
-    # 19 primary packages :
+    # 21 primary packages :
+    - cython =0.29.24 =py38h0119ad3_0
     - hypothesis =6.14.8 =pyhd8ed1ab_0
     - ipython =7.26.0 =py38h82e0a02_0
     - matplotlib =3.4.3 =py38h2063c64_0
@@ -43,9 +44,10 @@ requirements:
     - spyder-kernels =2.1.0 =py38h2063c64_0
     - sqlalchemy =1.4.23 =py38h9544abe_0
     - sqlite =3.36.0 =hc164836_0
+    - sympy =1.8 =py38h2063c64_0
     - tqdm =4.62.1 =pyhd8ed1ab_0
 
-    # 134 secondary packages :
+    # 139 secondary packages :
     - _openmp_mutex =4.5 =1_gnu
     - alsa-lib =1.2.3 =h516909a_0
     - attrs =21.2.0 =pyhd8ed1ab_0
@@ -73,6 +75,8 @@ requirements:
     - gettext =0.19.8.1 =h4454c44_1005
     - glib =2.68.4 =h01db608_0
     - glib-tools =2.68.4 =h01db608_0
+    - gmp =6.2.1 =h7fd3ca4_0
+    - gmpy2 =2.1.0b5 =py38hebe8f22_0
     - greenlet =1.1.1 =py38h0119ad3_0
     - gst-plugins-base =1.18.4 =h227fc8a_2
     - gstreamer =1.18.4 =h6d0dd4b_2
@@ -127,6 +131,9 @@ requirements:
     - matplotlib-base =3.4.3 =py38hc1f2ad6_0
     - matplotlib-inline =0.1.2 =pyhd8ed1ab_2
     - more-itertools =8.8.0 =pyhd8ed1ab_0
+    - mpc =1.1.0 =h04dde30_1009
+    - mpfr =4.1.0 =h719063d_0
+    - mpmath =1.2.1 =pyhd8ed1ab_0
     - mysql-common =8.0.25 =h8af1aa0_2
     - mysql-libs =8.0.25 =ha3f2873_2
     - ncurses =6.2 =h7fd3ca4_4
