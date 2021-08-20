@@ -24,7 +24,8 @@ requirements:
   run:
     - python =3.9.6 =h49503c6_1_cpython
 
-    # 21 primary packages :
+    # 22 primary packages :
+    - bitarray =2.0.1 =py39h3811e60_0
     - cython =0.29.24 =py39he80948d_0
     - hypothesis =6.14.8 =pyhd8ed1ab_0
     - ipython =7.26.0 =py39hef51801_0
