@@ -67,6 +67,8 @@ environments:
     - menu-inst
     - pytest
     - hypothesis
+    - yaml
+    - json
   cf-data:
     - spyder-kernels
     - scrapy
