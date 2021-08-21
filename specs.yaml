@@ -67,7 +67,7 @@ environments:
     - menu-inst
     - pytest
     - hypothesis
-    - yaml
+    - ruamel
     - json
   cf-data:
     - spyder-kernels
