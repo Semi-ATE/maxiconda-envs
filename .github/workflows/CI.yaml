@@ -7,25 +7,19 @@ on:
 
 jobs:
   solve_and_test:
-    name: ${{ matrix.OS }}
-    runs-on: ${{ matrix.VM }}
+    name: ${{ matrix.CONDA_SUBDIR }}
+    runs-on: ubuntu-latest
     env:
-      OS: ${{ matrix.OS }}
+      CONDA_SUBDIR: ${{ matrix.CONDA_SUBDIR }}
     strategy:
       fail-fast: false
       matrix:
         include:
-          - OS: win-64
-            VM: windows-latest
-          - OS: linux-64
-            VM: ubuntu-latest
-          - OS: osx-64
-            VM: macos-latest
-          - OS: linux-aarch64
-            VM: ubuntu-latest
-            DOCKER_IMG: condaforge/linux-anvil-aarch64
-          - OS: osx-arm64
-            VM: macos-latest
+          - CONDA_SUBDIR: win-64
+          - CONDA_SUBDIR: linux-64
+          - CONDA_SUBDIR: linux-aarch64
+          - CONDA_SUBDIR: osx-64
+          - CONDA_SUBDIR: osx-arm64
     steps:  
     - name: Checkout code
       uses: actions/checkout@v2
@@ -33,33 +27,25 @@ jobs:
         persist-credentials: false  # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         fetch-depth: 0  # otherwise, you will failed to push refs to dest repo
 
-    - name: Set up conda environment
-      if: ${{ env.OS != 'linux-aarch64' }}  # environment needs to be setup in the container
-      uses: conda-incubator/setup-miniconda@v2
-      with:
-        miniconda-version: latest
-        activate-environment: maxiconda-envs
-        environment-file: environment.yaml
-        channel-priority: strict
+    - name: Install mamba & environment
+      uses: mamba-org/provision-with-micromamba@v10
 
     - name: Solve and test-build target environments
       shell: bash -l {0}
-      env:
-        OS: ${{ matrix.OS }}
-        DOCKER_IMG: ${{ matrix.DOCKER_IMG }}
       run: |
-        if [[ "$OS" == "linux-aarch64" ]]; then
-          chmod -R -c o+w ./*
-          export MAXICONDA_ARGS="--solve --build"
-          docker run --rm --privileged multiarch/qemu-user-static --reset --credential yes --persistent yes	  
-          docker run --rm -v "$(pwd):/maxiconda-envs" -e MAXICONDA_ARGS condaforge/linux-anvil-aarch64 /maxiconda-envs/scripts/linux-aarch64.sh
-        elif [[ "$OS" == "osx-arm64" ]]; then
-          echo "Cross solving environments for osx-arm64 (no test build)"
-          export CONDA_SUBDIR="osx-arm64"
-          python -u scripts/maxiconda.py --solve
-        else
-          python -u scripts/maxiconda.py --solve --build
-        fi
+        mkdir build
+        cd build
+        python -u ../scripts/maxiconda.py --solve --build
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        path: build/*
+        name: '*-0.0.0.tar.gz'
+
+    - name: Remobe artifacts
+      shell: bash -l {0}
+      run: rm -rf build
 
     - name: Commit files
       shell: bash -l {0}

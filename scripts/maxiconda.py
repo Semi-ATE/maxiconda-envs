@@ -11,17 +11,22 @@ import sys
 import os
 import platform
 import subprocess
-from pathlib import Path
+import shutil
+import tempfile
+import jinja2
+import time
+import datetime
 import yaml
 import requests
 import bz2
 import json
 import tarfile
 import io
-from typing import Tuple
 import openpyxl
 from openpyxl.worksheet.dimensions import ColumnDimension, DimensionHolder
 from openpyxl.utils import get_column_letter
+from pathlib import Path
+from typing import Tuple
 
 # Constants
 HERE = Path(__file__).resolve().parent
@@ -183,6 +188,218 @@ def build(env_meta_path):
         for line in error_lines:
             print(line)
     return retval
+
+
+def xbuild(env_meta_path, output_path=None):
+    """
+    Builds the package for `env_meta_path`.
+
+    Parameters
+    ----------
+    env_meta_path : str
+        path pointing to a 'meta.yaml' file.
+
+    Returns
+    -------
+    success : the path to the build package
+    failure : None
+    """
+
+    if not os.path.exists(env_meta_path):
+        raise Exception(f"'{env_meta_path}' does not exist!")
+
+    env_meta_root = os.path.dirname(env_meta_path)
+    if not os.path.exists(env_meta_root):
+        raise Exception(f"'{env_meta_root}' does not exist!")
+    env_meta_path = os.path.normpath(env_meta_path)
+
+    licens_path = os.path.join(env_meta_path)
+
+    VERSION = os.getenv('MAXICONDA_ENV_RELEASE', "0.0.0")
+
+    environment = env_meta_path.split(os.sep)[-2]
+    PY = env_meta_path.split(os.sep)[-3]
+    OS_CPU = env_meta_path.split(os.sep)[-4]
+    OS, CPU = OS_CPU.split('-')
+    if CPU == "64":
+        CPU = "x86_64"
+    NUMPY_VER = "1.21.2"
+    PYTHON_VER = None
+    DEPENDS = []
+    deps = False
+    MAINTAINERS = []
+    maintainers = False
+    with open(env_meta_path) as fd:
+        for line in fd:
+            line = line.lstrip()
+            if line.startswith("number:"):
+                BUILD_NUMBER = line.split(":")[-1].strip()
+                deps = False
+                maintainers = False
+            if line.startswith("string:"):
+                BUILD_STRING = line.split(":")[-1].strip()
+                deps = False
+                maintainers = False
+            if line.startswith("home:"):
+                HOME_URL = line.split(":")[1].strip()
+                deps = False
+                maintainers = False
+            if line.startswith("license:"):
+                LICENSE = line.split(":")[1].strip()
+                deps = False
+                maintainers = False
+            if line.startswith("license_file:"):
+                LICENSE_FILE = line.split(":")[1].strip()
+                deps = False
+                maintainers = False
+            if line.startswith("summary:"):
+                SUMMARY = line.split(":")[1].strip()
+                deps = False
+                maintainers = False
+            if line.startswith("dev_url:"):
+                DEV_URL = line.split(":")[1].strip()
+                deps = False
+                maintainers = False
+            if line.startswith("about:"):
+                deps = False
+                maintainers = False
+            if line.startswith("run:"):
+                deps = True
+                maintainers = False
+            if line.startswith("maintainers:"):
+                deps = False
+                maintainers = True
+            if deps: 
+                if line.startswith("- "):
+                    DEPENDS.append(line[1:].strip())
+                if line.startswith("- numpy"):
+                    NUMPY_VER = line.split("=")[1].strip()
+                if line.startswith("- python"):
+                    PYTHON_VER = line.split("=")[1].strip()
+            if maintainers:
+                if line.startswitn("- "):
+                    MAINTAINERS.append(line[1:].strip())
+
+    if output_path is None:
+        archive_name = os.path.join(os.getcwd(), f"{environment}-{VERSION}-{PY}.tar.bz2")
+    else:
+        archive_name = os.path.join(output_path, f"{environment}-{VERSION}-{PY}.tar.bz2") 
+
+    license_path = os.path.normpath(os.path.join(os.path.dirname(env_meta_path), LICENSE_FILE))
+
+    index = {
+        "arch" : CPU,
+        "build" : BUILD_STRING,
+        "build_number" : BUILD_NUMBER,
+        "depends" : DEPENDS,
+        "license": "MIT",
+        "name": environment,
+        "platform": OS,
+        "subdir": OS_CPU,
+        "timestamp": int(time.time()*1000),
+        "version": VERSION
+    }
+
+    about = {
+        "channels": [
+            "https://conda.anaconda.org/Semi-ATE",
+            "https://conda.anaconda.org/conda-forge"
+         ],
+        "conda_build_version": "3.21.4",
+        "conda_private": False,
+        "conda_version": "4.10.3",
+        "dev_url": DEV_URL,
+        "env_vars": {
+            "CIO_TEST": "<not set>"
+        },
+        "extra": {
+            "copy_test_source_files": True,
+            "final": True,
+            "recipe-maintainers": MAINTAINERS,
+        },
+        "home": HOME_URL,
+        "identifiers": [],
+        "keywords": [],
+        "license": LICENSE,
+        "license_file": LICENSE_FILE,
+        "root_pkgs": DEPENDS,
+        "summary": SUMMARY,
+        "tags": []
+    }
+
+    PATHS = {
+        "paths": [],
+        "paths_version": 1
+    }
+
+    CONDA_BUILD_CONFIG = f"""c_compiler: gcc
+cpu_optimization_target: nocona
+cran_mirror: https://cran.r-project.org
+cxx_compiler: gxx
+extend_keys:
+- ignore_version
+- pin_run_as_build
+- ignore_build_only_deps
+- extend_keys
+fortran_compiler: gfortran
+ignore_build_only_deps:
+- numpy
+- python
+lua: '5'
+numpy: {NUMPY_VER}
+perl: 5.26.2
+pin_run_as_build:
+  python:
+    min_pin: x.x
+    max_pin: x.x
+  r-base:
+    min_pin: x.x
+    max_pin: x.x
+python: {PYTHON_VER}
+r_base: '3.5'
+target_platform: {OS_CPU}
+"""
+
+    with tempfile.TemporaryDirectory() as tmpdirname:
+        licenses_directory = os.path.join(tmpdirname, "licenses")
+        os.makedirs(licenses_directory, mode=0o777, exist_ok=True)
+        shutil.copyfile(license_path, os.path.join(tmpdirname, "licenses", "LICENSE0.txt"))
+
+        recipe_directory = os.path.join(tmpdirname, "recipe")
+        os.makedirs(recipe_directory, mode=0o777, exist_ok=True)
+        shutil.copyfile(env_meta_path, os.path.join(tmpdirname, "recipe", "meta.yaml.template"))
+        with open(os.path.join(tmpdirname, "recipe", "conda_build_config.yaml"), "w", encoding="utf-8") as file:
+            file.write(CONDA_BUILD_CONFIG)
+        file_loader = jinja2.FileSystemLoader(os.path.dirname(env_meta_path))
+        env = jinja2.Environment(loader=file_loader)
+        template = env.get_template('meta.yaml')
+        env.globals.update(os=os)
+        output = '\n'.join(template.render().split('\n')[9:])
+        LOCATION = os.path.sep.join(os.path.dirname(env_meta_path).split(os.path.sep)[-5:])
+        DATE = datetime.datetime.now().strftime("%A %B %d %Y @ %H:%M:%S")
+        with open(os.path.join(tmpdirname, "recipe", "meta.yaml"), "w") as fd:
+            fd.write("# This file is created by maxiconda-env/xbuild\n")
+            fd.write(f"# meta.yaml template originally from 'https://github.com/Semi-ATE/{LOCATION}', last modified {DATE}\n")
+            fd.write("# ------------------------------------------------\n\n")
+            fd.write(output)
+
+        with open(os.path.join(tmpdirname, "about.json"), "w", encoding="utf-8") as file:
+            json.dump(about, file, indent=2)
+        with open(os.path.join(tmpdirname, "files"), "w"):
+            pass
+        with open(os.path.join(tmpdirname, "git"), "w"):
+            pass
+        with open(os.path.join(tmpdirname, "hash_input.json"), "w", encoding="utf-8") as file:
+            json.dump({}, file, indent=2)
+        with open(os.path.join(tmpdirname, "index.json"), "w", encoding="utf-8") as file:
+            json.dump(index, file, indent=2)
+        with open(os.path.join(tmpdirname, "paths.json"), "w", encoding="utf-8") as file:
+            json.dump(PATHS, file, indent=2)
+
+        with tarfile.open(archive_name, mode='w:bz2') as archive:
+            archive.add(tmpdirname, recursive=True, arcname="info")
+
+    return archive_name
 
 def is_uploadable(package_path):
     """
@@ -712,13 +929,7 @@ def main(args):
     else:
         CONDA_SUBDIR = os.environ.get("CONDA_SUBDIR")
         if CONDA_SUBDIR is None:
-            host_is_target = True
             CONDA_SUBDIR = get_subdir()
-        else:
-            if CONDA_SUBDIR == get_subdir():
-                host_is_target = True
-            else:
-                host_is_target = False
 
         if os.path.exists(SPECS_FPATH):
             with open(SPECS_FPATH) as fd:
@@ -738,12 +949,8 @@ def main(args):
                 else:
                     recipe_dir = str(RECIPES_ROOT / f"{CONDA_SUBDIR}/{implementation.split('_')[1]}/{environment}/meta.yaml")
                 if args.build:
-                    if host_is_target: 
-                        print(f"Building : '{CONDA_SUBDIR}/{implementation.split('_')[1]}/{environment}'")
-                        package_path = build(recipe_dir)
-                    else:
-                        print(f"Building : Skipped (Can not build for '{CONDA_SUBDIR}' on '{get_subdir()}'")
-                        package_path = None
+                    print(f"Building : '{CONDA_SUBDIR}/{implementation.split('_')[1]}/{environment}'")
+                    package_path = xbuild(recipe_dir)
                 if args.upload:
                     if package_path:
                         if is_uploadable(package_path):
