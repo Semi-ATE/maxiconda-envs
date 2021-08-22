@@ -10,16 +10,16 @@ jobs:
     name: ${{ matrix.CONDA_SUBDIR }}
     runs-on: ubuntu-latest
     env:
-      CONDA_SUBDIR: ${{ matrix.CONDA_SUBDIR }}
+      TARGET_CONDA_SUBDIR: ${{ matrix.TARGET_CONDA_SUBDIR }}
     strategy:
       fail-fast: false
       matrix:
         include:
-          - CONDA_SUBDIR: win-64
-          - CONDA_SUBDIR: linux-64
-          - CONDA_SUBDIR: linux-aarch64
-          - CONDA_SUBDIR: osx-64
-          - CONDA_SUBDIR: osx-arm64
+          - TARGET_CONDA_SUBDIR: win-64
+          - TARGET_CONDA_SUBDIR: linux-64
+          - TARGET_CONDA_SUBDIR: linux-aarch64
+          - TARGET_CONDA_SUBDIR: osx-64
+          - TARGET_CONDA_SUBDIR: osx-arm64
     steps:  
     - name: Checkout code
       uses: actions/checkout@v2
@@ -29,30 +29,26 @@ jobs:
 
     - name: Install mamba & environment
       uses: mamba-org/provision-with-micromamba@v10
-
-    - name: show environment
-      shell: bash -l {0}
-      run: |
-        set
         
-    - name: Solve and test-build target environments
+    - name: Solve and test-build meta-packages
       shell: bash -l {0}
       run: |
+        echo $(TARGET_CONDA_SUBDIR)
         mkdir build
         cd build
         python -u ../scripts/maxiconda.py --solve --build
 
-    - name: Upload artifact
+    - name: Upload build meta-packages
       uses: actions/upload-artifact@v2
       with:
         name: ${{ matrix.CONDA_SUBDIR }}-meta-packages
         path: build/
 
-    - name: Remobe artifacts
+    - name: Remove build meta-packages from file system
       shell: bash -l {0}
       run: rm -rf build
 
-    - name: Commit files
+    - name: Commit recipes
       shell: bash -l {0}
       run: |
         export DATE=$(date +'%A %B %d, %Y')
