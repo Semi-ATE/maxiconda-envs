@@ -7,7 +7,7 @@ on:
 
 jobs:
   solve_and_test:
-    name: ${{ matrix.CONDA_SUBDIR }}
+    name: ${{ matrix.TARGET_CONDA_SUBDIR }}
     runs-on: ubuntu-latest
     env:
       TARGET_CONDA_SUBDIR: ${{ matrix.TARGET_CONDA_SUBDIR }}
