@@ -37,6 +37,10 @@ jobs:
         cd build
         python -u ../scripts/maxiconda.py --solve --build
 
+    - name: show environment
+      shell: bash -l {0}
+      run: find .
+      
     - name: Upload artifact
       uses: actions/upload-artifact@v2
       with:
