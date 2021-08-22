@@ -927,9 +927,10 @@ def main(args):
     if args.digest:
         create_digest()
     else:
-        CONDA_SUBDIR = os.environ.get("CONDA_SUBDIR")
+        CONDA_SUBDIR = os.environ.get("TARGET_CONDA_SUBDIR")
         if CONDA_SUBDIR is None:
             CONDA_SUBDIR = get_subdir()
+            print(">>>>>>>>>>>>>>>> why I don't see TARGET_CONDA_SUBDIR environment variable ?!?")
 
         if os.path.exists(SPECS_FPATH):
             with open(SPECS_FPATH) as fd:
@@ -937,7 +938,7 @@ def main(args):
                 implementations = specs['matrix'][CONDA_SUBDIR]
                 environments = specs['environments']
         else:
-            raise Exception(f"'{str(SPECS_PATH)}' does not exits!")
+            raise Exception(f"'{str({SPECS_FPATH})}' does not exits!")
 
         for implementation in implementations:
             for environment in implementations[implementation]:
@@ -949,8 +950,9 @@ def main(args):
                 else:
                     recipe_dir = str(RECIPES_ROOT / f"{CONDA_SUBDIR}/{implementation.split('_')[1]}/{environment}/meta.yaml")
                 if args.build:
-                    print(f"Building : '{CONDA_SUBDIR}/{implementation.split('_')[1]}/{environment}'")
+                    print(f"Building : '{CONDA_SUBDIR}/{implementation.split('_')[1]}/{environment}' ... ", end="")
                     package_path = xbuild(recipe_dir)
+                    print(package_path)
                 if args.upload:
                     if package_path:
                         if is_uploadable(package_path):
