@@ -33,8 +33,7 @@ jobs:
     - name: show environment
       shell: bash -l {0}
       run: |
-        find .
-        mamba list
+        set
         
     - name: Solve and test-build target environments
       shell: bash -l {0}
