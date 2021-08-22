@@ -24,8 +24,9 @@ requirements:
   run:
     - python =3.7.10 =hffdb5ce_100_cpython
 
-    # 22 primary packages :
-    - bitarray =2.3.0 =py37h5e8e339_0
+    # 24 primary packages :
+    - beautifulsoup4 =4.9.3 =pyhb0f4dca_0
+    - bitarray =2.3.1 =py37h5e8e339_0
     - cython =0.29.24 =py37hcd2ae1e_0
     - hypothesis =6.14.8 =pyhd8ed1ab_0
     - ipython =7.26.0 =py37h6531663_0
@@ -41,6 +42,7 @@ requirements:
     - qtawesome =1.0.3 =pyhd8ed1ab_0
     - regex =2021.8.3 =py37h5e8e339_0
     - requests =2.26.0 =pyhd8ed1ab_0
+    - ruamel =1.0 =py37h89c1867_4
     - scipy =1.7.1 =py37hf2a6cf1_0
     - spyder-kernels =2.1.0 =py37h89c1867_0
     - sqlalchemy =1.4.23 =py37h5e8e339_0
@@ -48,7 +50,7 @@ requirements:
     - sympy =1.8 =py37h89c1867_0
     - tqdm =4.62.1 =pyhd8ed1ab_0
 
-    # 145 secondary packages :
+    # 146 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - alsa-lib =1.2.3 =h516909a_0
@@ -178,6 +180,7 @@ requirements:
     - setuptools =57.4.0 =py37h89c1867_0
     - six =1.16.0 =pyh6c4a22f_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
+    - soupsieve =2.0.1 =py37hc8dfbb8_0
     - tk =8.6.10 =h21135ba_1
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.1 =py37h5e8e339_1
