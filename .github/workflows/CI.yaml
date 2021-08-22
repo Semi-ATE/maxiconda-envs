@@ -45,7 +45,7 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-artifact@v2
       with:
-        name: build-atrtifacts
+        name: ${{ matrix.CONDA_SUBDIR }}-artifacts
         path: build/
 
     - name: Remobe artifacts
