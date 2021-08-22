@@ -32,8 +32,10 @@ jobs:
 
     - name: show environment
       shell: bash -l {0}
-      run: find .
-
+      run: |
+        find .
+        mamba list
+        
     - name: Solve and test-build target environments
       shell: bash -l {0}
       run: |
