@@ -69,6 +69,7 @@ environments:
     - hypothesis
     - pyyaml
     - json
+    - jinja2
   cf-data:
     - spyder-kernels
     - scrapy
@@ -95,11 +96,13 @@ environments:
   cf-web:
     - spyder-kernels
     - requests
-    - simplejson
+    - json
+    - pyyaml
     - sqlalchemy
     - twisted
     - beautifulsoup4
     - django
+    - jinja2
   cf-eng:
     - spyder-kernels
     - openpyxl
