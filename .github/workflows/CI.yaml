@@ -45,8 +45,8 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-artifact@v2
       with:
-        path: build/*
-        name: '*-0.0.0.tar.gz'
+        name: build-atrtifacts
+        path: build/
 
     - name: Remobe artifacts
       shell: bash -l {0}
