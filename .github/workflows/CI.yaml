@@ -64,7 +64,7 @@ jobs:
           git stash pop
           echo "git add -A"
           git add -A
-          echo "git commit -m \"$DATE (${{ matrix.os }})\""
+          echo "git commit -m \"$DATE (${{ matrix.TARGET_CONDA_SUBDIR }})\""
           git commit -m "$DATE (${{ matrix.os }})"
         else
           echo "Nothing to commit ($DATE)"
