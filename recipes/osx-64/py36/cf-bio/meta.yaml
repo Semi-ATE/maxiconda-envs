@@ -1,0 +1,162 @@
+#
+# Copyright (c) Semi-ATE
+# Distributed under the terms of the MIT License
+#
+# osx-64/py36/cf-bio (created on linux-64)
+#
+
+{% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
+
+package:
+  name: cf-bio
+  version: {{ version }}
+
+source:
+  path: .
+
+build:
+  number: 0
+  string: py36
+
+requirements:
+  build:
+    - python =3.6.13 =h7728216_0_cpython
+  run:
+    - python =3.6.13 =h7728216_0_cpython
+
+    # 8 primary packages :
+    - biopython =1.79 =py36hfa26744_0
+    - matplotlib =3.3.4 =py36h79c6626_0
+    - mdanalysis =2.0.0 =py36hefe7e0e_1
+    - numpy =1.19.5 =py36h08b5fde_2
+    - pandas =1.1.5 =py36h2be6da3_0
+    - rdkit =2021.03.4 =py36h7ddc302_0
+    - scipy =1.5.3 =py36h4f136de_1
+    - spyder-kernels =2.1.0 =py36h79c6626_0
+
+    # 115 secondary packages :
+    - appnope =0.1.2 =py36h79c6626_1
+    - backcall =0.2.0 =pyh9f0ad1d_0
+    - backports =1.0 =py36_1
+    - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
+    - boost =1.74.0 =py36h9149184_3
+    - boost-cpp =1.74.0 =hff03dee_4
+    - bzip2 =1.0.8 =h0d85af4_4
+    - c-ares =1.17.2 =h0d85af4_0
+    - ca-certificates =2021.5.30 =h033912b_0
+    - cairo =1.16.0 =he43a7df_1008
+    - certifi =2021.5.30 =py36h79c6626_0
+    - cftime =1.5.0 =py36hab44bd3_0
+    - cloudpickle =1.6.0 =py_0
+    - colorama =0.4.4 =pyh9f0ad1d_0
+    - curl =7.78.0 =hb861fe1_0
+    - cycler =0.10.0 =py36_0
+    - decorator =4.4.2 =py_0
+    - fontconfig =2.13.1 =h10f422b_1005
+    - freetype =2.10.4 =h4cff582_1
+    - gettext =0.19.8.1 =h7937167_1005
+    - greenlet =1.1.1 =py36hefe7e0e_0
+    - griddataformats =0.5.0 =py_0
+    - gsd =2.4.2 =py36hab44bd3_0
+    - hdf4 =4.2.15 =hefd3b78_3
+    - hdf5 =1.10.6 =nompi_hc5d9132_1114
+    - icu =68.1 =h74dc148_0
+    - importlib-metadata =4.6.4 =py36h79c6626_0
+    - ipykernel =5.5.5 =py36h495a4c6_0
+    - ipython =7.16.1 =py36h9cf137f_2
+    - ipython_genutils =0.2.0 =py36_0
+    - jbig =2.1 =h0d85af4_2003
+    - jedi =0.17.2 =py36h79c6626_1
+    - joblib =1.0.1 =pyhd8ed1ab_0
+    - jpeg =9d =hbcb3906_0
+    - jupyter_client =6.1.12 =pyhd8ed1ab_0
+    - jupyter_core =4.7.1 =py36h79c6626_0
+    - kiwisolver =1.3.1 =py36hc61eee1_1
+    - krb5 =1.19.2 =hcfbf3a7_0
+    - lcms2 =2.12 =h577c468_0
+    - lerc =2.2.1 =h046ec9c_0
+    - libblas =3.9.0 =11_osx64_openblas
+    - libcblas =3.9.0 =11_osx64_openblas
+    - libcurl =7.78.0 =hf45b732_0
+    - libcxx =12.0.1 =habf9029_0
+    - libdeflate =1.7 =h35c211d_5
+    - libedit =3.1.20191231 =h0678c8f_2
+    - libev =4.33 =haf1e3a3_1
+    - libffi =3.3 =h046ec9c_2
+    - libgfortran =5.0.0 =9_3_0_h6c81a4c_23
+    - libgfortran5 =9.3.0 =h6c81a4c_23
+    - libglib =2.68.4 =hd556434_0
+    - libiconv =1.16 =haf1e3a3_0
+    - liblapack =3.9.0 =11_osx64_openblas
+    - libnetcdf =4.8.0 =nompi_hb4d10b0_103
+    - libnghttp2 =1.43.0 =h07e645a_0
+    - libopenblas =0.3.17 =openmp_h3351f45_1
+    - libpng =1.6.37 =h7cec526_2
+    - libsodium =1.0.18 =hbcb3906_1
+    - libssh2 =1.9.0 =h52ee1ee_6
+    - libtiff =4.3.0 =h1167814_1
+    - libwebp-base =1.2.1 =h0d85af4_0
+    - libxml2 =2.9.12 =h93ec3fd_0
+    - libzip =1.8.0 =h8b0c345_0
+    - llvm-openmp =12.0.1 =hda6cdc1_1
+    - lz4-c =1.9.3 =he49afe7_1
+    - matplotlib-base =3.3.4 =py36h4ea959b_0
+    - mmtf-python =1.1.2 =py_0
+    - msgpack-python =1.0.2 =py36hc61eee1_1
+    - ncurses =6.2 =h2e338ed_4
+    - netcdf4 =1.5.7 =nompi_py36hc0a01b0_100
+    - networkx =2.6.2 =pyhd8ed1ab_0
+    - olefile =0.46 =pyh9f0ad1d_1
+    - openjpeg =2.4.0 =h6e7aa92_1
+    - openssl =1.1.1k =h0d85af4_1
+    - parso =0.7.1 =pyh9f0ad1d_0
+    - patsy =0.5.1 =py_0
+    - pcre =8.45 =he49afe7_0
+    - pexpect =4.8.0 =py36h9f0ad1d_1
+    - pickleshare =0.7.5 =py36h9f0ad1d_1002
+    - pillow =8.3.1 =py36h950f3bb_0
+    - pip =21.2.4 =pyhd8ed1ab_0
+    - pixman =0.40.0 =hbcb3906_0
+    - prompt-toolkit =3.0.19 =pyha770c72_0
+    - ptyprocess =0.7.0 =pyhd3deb0d_0
+    - pycairo =1.20.1 =py36hd9b1a54_0
+    - pygments =2.10.0 =pyhd8ed1ab_0
+    - pyparsing =2.4.7 =pyh9f0ad1d_0
+    - python-dateutil =2.8.2 =pyhd8ed1ab_0
+    - python_abi =3.6 =2_cp36m
+    - pytz =2021.1 =pyhd8ed1ab_0
+    - pyzmq =22.2.1 =py36h50cd92c_0
+    - readline =8.1 =h05e3726_0
+    - reportlab =3.5.68 =py36h92d37d9_0
+    - scikit-learn =0.24.2 =py36he40f1e8_1
+    - seaborn =0.11.2 =hd8ed1ab_0
+    - seaborn-base =0.11.2 =pyhd8ed1ab_0
+    - setuptools =57.4.0 =py36h79c6626_0
+    - six =1.16.0 =pyh6c4a22f_0
+    - sqlalchemy =1.4.23 =py36hfa26744_0
+    - sqlite =3.36.0 =h23a322b_0
+    - statsmodels =0.12.2 =py36hf14bfbd_0
+    - threadpoolctl =2.2.0 =pyh8a188c0_0
+    - tk =8.6.11 =hd798d34_0
+    - tornado =6.1 =py36hfa26744_1
+    - tqdm =4.62.1 =pyhd8ed1ab_0
+    - traitlets =4.3.3 =py36h9f0ad1d_1
+    - typing_extensions =3.10.0.0 =pyha770c72_0
+    - wcwidth =0.2.5 =pyh9f0ad1d_2
+    - wheel =0.37.0 =pyhd8ed1ab_1
+    - wurlitzer =3.0.0 =py36h79c6626_0
+    - xz =5.2.5 =haf1e3a3_1
+    - zeromq =4.3.4 =h1c7c35f_0
+    - zipp =3.5.0 =pyhd8ed1ab_0
+    - zlib =1.2.11 =h7795811_1010
+    - zstd =1.5.0 =h582d3a0_0
+about:
+  home: https://github.com/Semi-ATE/maxiconda-envs
+  license: MIT
+  license_file: ../../../../LICENSE
+  summary: 'cf-bio meta package'
+  dev_url: https://github.com/Semi-ATE/maxiconda-envs
+
+extra:
+  recipe-maintainers:
+    - nerohmot
