@@ -64,11 +64,9 @@ environments:
     - sqlalchemy
     - tqdm
     - beautifulsoup4
-    - menu-inst
     - pytest
     - hypothesis
     - pyyaml
-    - json
     - jinja2
   cf-data:
     - spyder-kernels
@@ -96,7 +94,6 @@ environments:
   cf-web:
     - spyder-kernels
     - requests
-    - json
     - pyyaml
     - sqlalchemy
     - twisted
