@@ -1,0 +1,109 @@
+#
+# Copyright (c) Semi-ATE
+# Distributed under the terms of the MIT License
+#
+# linux-64/py39/cf-eng (created on linux-64)
+#
+
+{% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
+
+package:
+  name: cf-eng
+  version: {{ version }}
+
+source:
+  path: .
+
+build:
+  number: 0
+  string: py39
+
+requirements:
+  build:
+    - python =3.9.6 =h49503c6_1_cpython
+  run:
+    - python =3.9.6 =h49503c6_1_cpython
+
+    # 7 primary packages :
+    - numpy =1.21.2 =py39hdbf815f_0
+    - openpyxl =3.0.7 =pyhd8ed1ab_0
+    - pandas =1.3.2 =py39hde0f152_0
+    - pyserial =3.5 =pyhd8ed1ab_0
+    - pyusb =1.2.1 =pyhd8ed1ab_0
+    - pyvisa-py =0.5.2 =pyh44b312d_0
+    - spyder-kernels =2.1.0 =py39hf3d152e_0
+
+    # 63 secondary packages :
+    - _libgcc_mutex =0.1 =conda_forge
+    - _openmp_mutex =4.5 =1_gnu
+    - backcall =0.2.0 =pyh9f0ad1d_0
+    - backports =1.0 =py_2
+    - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
+    - ca-certificates =2021.5.30 =ha878542_0
+    - cloudpickle =1.6.0 =py_0
+    - debugpy =1.4.1 =py39he80948d_0
+    - decorator =5.0.9 =pyhd8ed1ab_0
+    - et_xmlfile =1.0.1 =py_1001
+    - importlib-metadata =4.6.4 =py39hf3d152e_0
+    - ipykernel =6.2.0 =py39hef51801_0
+    - ipython =7.26.0 =py39hef51801_0
+    - ipython_genutils =0.2.0 =py_1
+    - jdcal =1.4.1 =py_0
+    - jedi =0.18.0 =py39hf3d152e_2
+    - jupyter_client =6.1.12 =pyhd8ed1ab_0
+    - jupyter_core =4.7.1 =py39hf3d152e_0
+    - ld_impl_linux-64 =2.36.1 =hea4e1c9_2
+    - libblas =3.9.0 =11_linux64_openblas
+    - libcblas =3.9.0 =11_linux64_openblas
+    - libffi =3.3 =h58526e2_2
+    - libgcc-ng =11.1.0 =hc902ee8_8
+    - libgfortran-ng =11.1.0 =h69a702a_8
+    - libgfortran5 =11.1.0 =h6c583b3_8
+    - libgomp =11.1.0 =hc902ee8_8
+    - liblapack =3.9.0 =11_linux64_openblas
+    - libopenblas =0.3.17 =pthreads_h8fe5266_1
+    - libsodium =1.0.18 =h36c2ea0_1
+    - libstdcxx-ng =11.1.0 =h56837e0_8
+    - libusb =1.0.24 =h18f079d_4
+    - matplotlib-inline =0.1.2 =pyhd8ed1ab_2
+    - ncurses =6.2 =h58526e2_4
+    - openssl =1.1.1k =h7f98852_1
+    - parso =0.8.2 =pyhd8ed1ab_0
+    - patchelf =0.13 =h58526e2_0
+    - pexpect =4.8.0 =pyh9f0ad1d_2
+    - pickleshare =0.7.5 =py39hde42818_1002
+    - pip =21.2.4 =pyhd8ed1ab_0
+    - prompt-toolkit =3.0.19 =pyha770c72_0
+    - ptyprocess =0.7.0 =pyhd3deb0d_0
+    - pygments =2.10.0 =pyhd8ed1ab_0
+    - python-dateutil =2.8.2 =pyhd8ed1ab_0
+    - python_abi =3.9 =2_cp39
+    - pytz =2021.1 =pyhd8ed1ab_0
+    - pyvisa =1.11.3 =py39hf3d152e_1
+    - pyzmq =22.2.1 =py39h37b5a0c_0
+    - readline =8.1 =h46c0cb4_0
+    - setuptools =57.4.0 =py39hf3d152e_0
+    - six =1.16.0 =pyh6c4a22f_0
+    - sqlite =3.36.0 =h9cd32fc_0
+    - tk =8.6.11 =h21135ba_0
+    - tornado =6.1 =py39h3811e60_1
+    - traitlets =5.0.5 =py_0
+    - typing_extensions =3.10.0.0 =pyha770c72_0
+    - tzdata =2021a =he74cb21_1
+    - wcwidth =0.2.5 =pyh9f0ad1d_2
+    - wheel =0.37.0 =pyhd8ed1ab_1
+    - wurlitzer =3.0.0 =py39hf3d152e_0
+    - xz =5.2.5 =h516909a_1
+    - zeromq =4.3.4 =h9c3ff4c_0
+    - zipp =3.5.0 =pyhd8ed1ab_0
+    - zlib =1.2.11 =h516909a_1010
+about:
+  home: https://github.com/Semi-ATE/maxiconda-envs
+  license: MIT
+  license_file: ../../../../LICENSE
+  summary: 'cf-eng meta package'
+  dev_url: https://github.com/Semi-ATE/maxiconda-envs
+
+extra:
+  recipe-maintainers:
+    - nerohmot
