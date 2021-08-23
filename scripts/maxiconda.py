@@ -535,7 +535,10 @@ def run_solver(pkgs, PY, channels=["conda-forge"], solver="mamba"):
         cmd.append("--channel")
         cmd.append(channel)
 
-    print(f"  CONDA_SUBDIR = {os.environ.get('TARGET_CONDA_SUBDIR', get_subdir())}")
+    saved_CONDA_SUBDIR = os.environ.get('CONDA_SUBDIR')
+    os.environ["CONDA_SUBDIR"] = os.environ.get("TARGET_CONDA_SUBDIR", "woops!")
+
+    print(f"  CONDA_SUBDIR = '{saved_CONDA_SUBDIR}' ➜ '{os.environ.get("CONDA_SUBDIR", "double woops!")}'")
     print("  solving command: '" + " ".join(cmd) + "'")
 
     p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
@@ -550,6 +553,10 @@ def run_solver(pkgs, PY, channels=["conda-forge"], solver="mamba"):
         except Exception as err:
             feedback = f"Error: {err}"
             feedback += stdout.decode("utf-8")
+
+    os.environ["CONDA_SUBDIR"] = saved_CONDA_SUBDIR
+    print(f"  CONDA_SUBDIR = '{os.environ.get("TARGET_CONDA_SUBDIR")}' ➜ '{os.environ.get("CONDA_SUBDIR")}'")
+
 
     return PY_IMP, data, feedback
 
