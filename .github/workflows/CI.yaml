@@ -41,7 +41,7 @@ jobs:
     - name: Upload build meta-packages
       uses: actions/upload-artifact@v2
       with:
-        name: ${{ matrix.CONDA_SUBDIR }}-meta-packages
+        name: ${{ matrix.TARGET_CONDA_SUBDIR }}-meta-packages
         path: build/
 
     - name: Remove build meta-packages from file system
