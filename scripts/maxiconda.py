@@ -126,70 +126,6 @@ def upload(package_path):
         print("Success.")
     return retval
 
-def build(env_meta_path):
-    """
-    Builds the package for `env_meta_path`.
-
-
-    Parameters
-    ----------
-    env_meta_path : str
-        path pointing to a 'meta.yaml' file.
-
-    Returns
-    -------
-    success : the path to the build package
-    failure : None
-    """
-
-    if not os.path.exists(env_meta_path):
-        raise Exception(f"'{env_meta_path}' does not exist!")
-
-    env_meta_root = os.path.dirname(env_meta_path)
-    if not os.path.exists(env_meta_root):
-        raise Exception(f"'{env_meta_root}' does not exist!")
-
-    env_meta_path = os.path.normpath(env_meta_path)
-    environment = env_meta_path.split(os.sep)[-2]
-    PY = env_meta_path.split(os.sep)[-3]
-    OS_CPU = env_meta_path.split(os.sep)[-4]
-
-    NUMPY_VER = None
-    PYTHON_VER = None
-    with open(env_meta_path) as fd:
-        for line in fd:
-            if "- numpy " in line:
-                NUMPY_VER = line.split("=")[1].strip()
-            if "- python " in line and PYTHON_VER is None:
-                PYTHON_VER = line.split("=")[1].strip()
-
-    cmd = ["mamba", "build", ".", "--python",  PYTHON_VER]
-    # cmd = ["conda-build", ".", "--python",  PYTHON_VER]
-    if NUMPY_VER:
-        cmd.extend(["--numpy", NUMPY_VER])
-    # cmd.extend([f"-c", "conda-forge", "-c", "Semi-ATE"])
-    cmd.extend([f"-c", "conda-forge"])
-
-    print(f"  running '{' '.join(cmd)}' in '{env_meta_root}' ... ", end="", flush=True)
-    p = subprocess.Popen(cmd, cwd=env_meta_root, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-    output, error = p.communicate()
-
-    retval = None
-    if b"anaconda upload" in output:
-        print("success.")
-        retval = output.split(b'anaconda upload \\')[1].replace(b"\r",b"").split(b'\n')[1].decode("utf-8").strip()
-        print(f"  package location = '{retval}'")
-    else:
-        print("Failure.")
-        output_lines = output.decode("utf-8").split("\n")
-        error_lines = error.decode("utf-8").split("\n")
-        for line in output_lines:
-            print(line)
-        for line in error_lines:
-            print(line)
-    return retval
-
-
 def xbuild(env_meta_path, output_path=None):
     """
     Builds the package for `env_meta_path`.
@@ -599,7 +535,7 @@ def run_solver(pkgs, PY, channels=["conda-forge"], solver="mamba"):
         cmd.append("--channel")
         cmd.append(channel)
 
-    print(f"  CONDA_SUBDIR = {os.environ.get('CONDA_SUBDIR', get_subdir())}")
+    print(f"  CONDA_SUBDIR = {os.environ.get('TARGET_CONDA_SUBDIR', get_subdir())}")
     print("  solving command: '" + " ".join(cmd) + "'")
 
     p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
