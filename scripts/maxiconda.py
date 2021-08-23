@@ -535,10 +535,11 @@ def run_solver(pkgs, PY, channels=["conda-forge"], solver="mamba"):
         cmd.append("--channel")
         cmd.append(channel)
 
+    target_CONDA_SUBDIR = os.environ.get('TARGET_CONDA_SUBDIR', 'Woops!')
     saved_CONDA_SUBDIR = os.environ.get('CONDA_SUBDIR')
-    os.environ["CONDA_SUBDIR"] = os.environ.get("TARGET_CONDA_SUBDIR", "woops!")
+    os.environ["CONDA_SUBDIR"] = target_CONDA_SUBDIR
 
-    print(f"  CONDA_SUBDIR = '{saved_CONDA_SUBDIR}' ➜ '{os.environ.get("CONDA_SUBDIR", "double woops!")}'")
+    print(f"  CONDA_SUBDIR = '{saved_CONDA_SUBDIR}' ➜ '{target_CONDA_SUBDIR}'")
     print("  solving command: '" + " ".join(cmd) + "'")
 
     p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
@@ -555,8 +556,7 @@ def run_solver(pkgs, PY, channels=["conda-forge"], solver="mamba"):
             feedback += stdout.decode("utf-8")
 
     os.environ["CONDA_SUBDIR"] = saved_CONDA_SUBDIR
-    print(f"  CONDA_SUBDIR = '{os.environ.get("TARGET_CONDA_SUBDIR")}' ➜ '{os.environ.get("CONDA_SUBDIR")}'")
-
+    print(f"  CONDA_SUBDIR = '{target_CONDA_SUBDIR}' ➜ '{saved_CONDA_SUBDIR}'")
 
     return PY_IMP, data, feedback
 
