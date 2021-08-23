@@ -27,8 +27,8 @@ matrix:
     #osx-arm64_py36: /
     #osx-arm64_py37: ['_spyder_', 'maxiconda']
     #osx-64_pypy37: ['maxiconda']
-    osx-arm64_py38: ['maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
-    osx-arm64_py39: ['maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+    osx-arm64_py38: ['maxiconda', 'cf-web', 'cf-bio', 'cf-astro']
+    osx-arm64_py39: ['maxiconda', 'cf-web', 'cf-bio', 'cf-astro']
 
 environments:
   _spyder_:
