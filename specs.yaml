@@ -1,32 +1,30 @@
 matrix:
   win-64:
-    win-64_py36: ['_spyder_', 'maxiconda']
-    win-64_py37: ['_spyder_', 'maxiconda']
+    win-64_py37: ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro', 'cf-ros']
     #win-64_pypy37: ['maxiconda']
-    win-64_py38: ['_spyder_', 'maxiconda']
-    win-64_py39: ['_spyder_', 'maxiconda']
+    win-64_py38: ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro', 'cf-ros']
+    win-64_py39: ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro', 'cf-ros']
   linux-64:
-    linux-64_py36: ['_spyder_', 'maxiconda']
-    linux-64_py37: ['_spyder_', 'maxiconda']
+    linux-64_py37: ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro', 'cf-ros']
     #linux-64_pypy37: ['maxiconda']
-    linux-64_py38: ['_spyder_', 'maxiconda']
-    linux-64_py39:  ['_spyder_', 'maxiconda']
+    linux-64_py38: ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro', 'cf-ros']
+    linux-64_py39:  ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro', 'cf-ros']
   linux-aarch64:
-    linux-aarch64_py37: ['maxiconda']
+    linux-aarch64_py37: ['maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro', 'cf-ros']
     #linux-aarch64_pypy37: ['maxiconda']
-    linux-aarch64_py38: ['maxiconda']
-    linux-aarch64_py39: ['maxiconda']
+    linux-aarch64_py38: ['maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro', 'cf-ros']
+    linux-aarch64_py39: ['maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro', 'cf-ros']
   osx-64:
-    osx-64_py36: ['_spyder_', 'maxiconda']
-    osx-64_py37: ['_spyder_', 'maxiconda']
+    osx-64_py36: ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro', 'cf-ros']
+    osx-64_py37: ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro', 'cf-ros']
     #osx-64_pypy37: ['maxiconda']
-    osx-64_py38: ['_spyder_', 'maxiconda']
-    osx-64_py39: ['_spyder_', 'maxiconda']
+    osx-64_py38: ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro', 'cf-ros']
+    osx-64_py39: ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro', 'cf-ros']
   osx-arm64:
     #osx-arm64_py37: ['_spyder_', 'maxiconda']
     #osx-64_pypy37: ['maxiconda']
-    osx-arm64_py38: ['maxiconda']
-    osx-arm64_py39: ['maxiconda']
+    osx-arm64_py38: ['maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro', 'cf-ros']
+    osx-arm64_py39: ['maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro', 'cf-ros']
 
 environments:
   _spyder_:
