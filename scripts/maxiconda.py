@@ -555,7 +555,11 @@ def run_solver(pkgs, PY, channels=["conda-forge"], solver="mamba"):
             feedback = f"Error: {err}"
             feedback += stdout.decode("utf-8")
 
-    os.environ["CONDA_SUBDIR"] = saved_CONDA_SUBDIR
+    if saved_CONDA_SUBDIR is None:
+        del os.environ["CONDA_SUBDIR"]
+    else:
+        os.environ["CONDA_SUBDIR"] = saved_CONDA_SUBDIR
+
     print(f"  CONDA_SUBDIR = '{target_CONDA_SUBDIR}' ➜ '{saved_CONDA_SUBDIR}'")
 
     return PY_IMP, data, feedback
