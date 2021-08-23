@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# win-64/py37/_spyder_ (created on win-64)
+# win-64/py37/_spyder_ (created on linux-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
@@ -190,7 +190,7 @@ requirements:
     - qtawesome =1.0.3 =pyhd8ed1ab_0
     - qtconsole =5.1.1 =pyhd8ed1ab_0
     - qtpy =1.10.0 =pyhd8ed1ab_0
-    - regex =2021.8.3 =py37hcc03f2d_0
+    - regex =2021.8.21 =py37hcc03f2d_0
     - requests =2.26.0 =pyhd8ed1ab_0
     - rope =0.19.0 =pyhd8ed1ab_0
     - rtree =0.9.7 =py37h13cc57e_2
@@ -214,7 +214,7 @@ requirements:
     - textdistance =4.2.1 =pyhd8ed1ab_0
     - three-merge =0.1.1 =pyh9f0ad1d_0
     - tinycss2 =1.1.0 =pyhd8ed1ab_0
-    - tk =8.6.10 =h8ffe710_1
+    - tk =8.6.11 =h8ffe710_0
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =1.2.1 =pyhd8ed1ab_0
     - tornado =6.1 =py37hcc03f2d_1

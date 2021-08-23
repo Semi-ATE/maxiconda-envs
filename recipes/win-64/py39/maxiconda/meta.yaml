@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# win-64/py39/maxiconda (created on win-64)
+# win-64/py39/maxiconda (created on linux-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
@@ -24,12 +24,13 @@ requirements:
   run:
     - python =3.9.6 =h7840368_1_cpython
 
-    # 24 primary packages :
+    # 25 primary packages :
     - beautifulsoup4 =4.9.3 =pyhb0f4dca_0
     - bitarray =2.3.1 =py39hb82d6ee_0
     - cython =0.29.24 =py39h415ef7b_0
-    - hypothesis =6.14.8 =pyhd8ed1ab_0
+    - hypothesis =6.15.0 =pyhd8ed1ab_0
     - ipython =7.26.0 =py39h832f523_0
+    - jinja2 =3.0.1 =pyhd8ed1ab_0
     - matplotlib =3.4.3 =py39hcbf5309_0
     - numba =0.53.1 =py39hb8cd55e_1
     - numpy =1.21.2 =py39h6635163_0
@@ -38,11 +39,11 @@ requirements:
     - psutil =5.8.0 =py39hb82d6ee_1
     - pyqt =5.12.3 =py39hcbf5309_7
     - pytest =6.2.4 =py39hcbf5309_0
+    - pyyaml =5.4.1 =py39hb82d6ee_1
     - qdarkstyle =3.0.2 =pyhd8ed1ab_0
     - qtawesome =1.0.3 =pyhd8ed1ab_0
-    - regex =2021.8.3 =py39hb82d6ee_0
+    - regex =2021.8.21 =py39hb82d6ee_0
     - requests =2.26.0 =pyhd8ed1ab_0
-    - ruamel =1.0 =py39hcbf5309_4
     - scipy =1.7.1 =py39hc0c34ad_0
     - spyder-kernels =2.1.0 =py39hcbf5309_0
     - sqlalchemy =1.4.23 =py39hb82d6ee_0
@@ -50,7 +51,7 @@ requirements:
     - sympy =1.8 =py39hcbf5309_0
     - tqdm =4.62.1 =pyhd8ed1ab_0
 
-    # 104 secondary packages :
+    # 106 secondary packages :
     - atomicwrites =1.4.0 =pyh9f0ad1d_0
     - attrs =21.2.0 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -102,6 +103,7 @@ requirements:
     - m2w64-gcc-libs-core =5.3.0 =7
     - m2w64-gmp =6.1.0 =2
     - m2w64-libwinpthread-git =5.0.0.4634.697f757 =2
+    - markupsafe =2.0.1 =py39hb82d6ee_0
     - matplotlib-base =3.4.3 =py39h581301d_0
     - matplotlib-inline =0.1.2 =pyhd8ed1ab_2
     - mkl =2020.4 =hb70f87d_311
@@ -139,7 +141,7 @@ requirements:
     - six =1.16.0 =pyh6c4a22f_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
     - soupsieve =2.0.1 =py_1
-    - tk =8.6.10 =h8ffe710_1
+    - tk =8.6.11 =h8ffe710_0
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.1 =py39hb82d6ee_1
     - traitlets =5.0.5 =py_0
@@ -152,6 +154,7 @@ requirements:
     - wheel =0.37.0 =pyhd8ed1ab_1
     - win_inet_pton =1.1.0 =py39hcbf5309_2
     - xz =5.2.5 =h62dcd97_1
+    - yaml =0.2.5 =he774522_0
     - zeromq =4.3.4 =h0e60522_0
     - zlib =1.2.11 =h62dcd97_1010
     - zstd =1.5.0 =h6255e5f_0
