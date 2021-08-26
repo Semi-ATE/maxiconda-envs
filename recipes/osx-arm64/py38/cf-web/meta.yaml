@@ -34,7 +34,7 @@ requirements:
     - sqlalchemy =1.4.23 =py38hea4295b_0
     - twisted =21.7.0 =py38hea4295b_0
 
-    # 74 secondary packages :
+    # 76 secondary packages :
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.2 =py38h10201cd_1
     - asgiref =3.4.1 =pyhd8ed1ab_0
@@ -55,6 +55,7 @@ requirements:
     - cryptography =3.4.7 =py38h3c0dae5_0
     - debugpy =1.4.1 =py38h6f2b01f_0
     - decorator =5.0.9 =pyhd8ed1ab_0
+    - entrypoints =0.3 =pyhd8ed1ab_1003
     - greenlet =1.1.1 =py38h6f2b01f_0
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - idna =3.1 =pyhd3deb0d_0
@@ -63,7 +64,7 @@ requirements:
     - ipython =7.26.0 =py38h2cb4d76_0
     - ipython_genutils =0.2.0 =py_1
     - jedi =0.18.0 =py38h10201cd_2
-    - jupyter_client =6.1.12 =pyhd8ed1ab_0
+    - jupyter_client =7.0.1 =pyhd8ed1ab_0
     - jupyter_core =4.7.1 =py38h10201cd_0
     - libcxx =12.0.1 =h168391b_0
     - libffi =3.3 =h9f76cd9_2
@@ -71,12 +72,13 @@ requirements:
     - markupsafe =2.0.1 =py38hea4295b_0
     - matplotlib-inline =0.1.2 =pyhd8ed1ab_2
     - ncurses =6.2 =h9aa5885_4
+    - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - openssl =1.1.1k =h3422bc3_1
     - parso =0.8.2 =pyhd8ed1ab_0
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py_1003
     - pip =21.2.4 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.19 =pyha770c72_0
+    - prompt-toolkit =3.0.20 =pyha770c72_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
