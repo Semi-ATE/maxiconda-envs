@@ -34,7 +34,7 @@ requirements:
     - sqlalchemy =1.4.23 =py36h68aa20f_0
     - twisted =21.7.0 =py36h68aa20f_0
 
-    # 69 secondary packages :
+    # 71 secondary packages :
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - asgiref =3.4.1 =pyhd8ed1ab_0
     - attrs =21.2.0 =pyhd8ed1ab_0
@@ -54,6 +54,7 @@ requirements:
     - constantly =15.1.0 =py_0
     - cryptography =3.4.7 =py36hd0de82c_0
     - decorator =5.0.9 =pyhd8ed1ab_0
+    - entrypoints =0.3 =py36h9f0ad1d_1002
     - greenlet =1.1.1 =py36he2d232f_0
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - idna =3.1 =pyhd3deb0d_0
@@ -63,15 +64,16 @@ requirements:
     - ipython =7.16.1 =py36h7b2dad6_2
     - ipython_genutils =0.2.0 =py36_0
     - jedi =0.17.2 =py36ha15d459_1
-    - jupyter_client =6.1.12 =pyhd8ed1ab_0
+    - jupyter_client =7.0.1 =pyhd8ed1ab_0
     - jupyter_core =4.7.1 =py36ha15d459_0
     - libsodium =1.0.18 =h8d14728_1
     - markupsafe =2.0.1 =py36h68aa20f_0
+    - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - openssl =1.1.1k =h8ffe710_1
     - parso =0.7.1 =pyh9f0ad1d_0
     - pickleshare =0.7.5 =py36h9f0ad1d_1002
     - pip =21.2.4 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.19 =pyha770c72_0
+    - prompt-toolkit =3.0.20 =pyha770c72_0
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pycparser =2.20 =pyh9f0ad1d_2
