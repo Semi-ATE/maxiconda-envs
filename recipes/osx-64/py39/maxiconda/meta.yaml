@@ -51,7 +51,7 @@ requirements:
     - sympy =1.8 =py39h6e9494a_0
     - tqdm =4.62.2 =pyhd8ed1ab_0
 
-    # 126 secondary packages :
+    # 128 secondary packages :
     - appnope =0.1.2 =py39h6e9494a_1
     - attrs =21.2.0 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -71,6 +71,7 @@ requirements:
     - dbus =1.13.6 =ha13b53f_2
     - debugpy =1.4.1 =py39h9fcab8e_0
     - decorator =5.0.9 =pyhd8ed1ab_0
+    - entrypoints =0.3 =py39hde42818_1002
     - et_xmlfile =1.0.1 =py_1001
     - expat =2.4.1 =he49afe7_0
     - freetype =2.10.4 =h4cff582_1
@@ -89,7 +90,7 @@ requirements:
     - jdcal =1.4.1 =py_0
     - jedi =0.18.0 =py39h6e9494a_2
     - jpeg =9d =hbcb3906_0
-    - jupyter_client =6.1.12 =pyhd8ed1ab_0
+    - jupyter_client =7.0.1 =pyhd8ed1ab_0
     - jupyter_core =4.7.1 =py39h6e9494a_0
     - kiwisolver =1.3.1 =py39hf018cea_1
     - krb5 =1.19.2 =hcfbf3a7_0
@@ -128,6 +129,7 @@ requirements:
     - mysql-common =8.0.25 =h694c41f_2
     - mysql-libs =8.0.25 =h115446f_2
     - ncurses =6.2 =h2e338ed_4
+    - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - nspr =4.30 =hcd9eead_0
     - nss =3.69 =h31e2bf1_0
     - olefile =0.46 =pyh9f0ad1d_1
@@ -141,7 +143,7 @@ requirements:
     - pillow =8.3.1 =py39he9bb72f_0
     - pip =21.2.4 =pyhd8ed1ab_0
     - pluggy =0.13.1 =py39h6e9494a_4
-    - prompt-toolkit =3.0.19 =pyha770c72_0
+    - prompt-toolkit =3.0.20 =pyha770c72_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - py =1.10.0 =pyhd3deb0d_0
     - pycparser =2.20 =pyh9f0ad1d_2
