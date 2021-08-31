@@ -36,13 +36,12 @@ requirements:
     - spyder-terminal =1.1.0 =py37h03978a9_1
     - sympy =1.8 =py37h03978a9_0
 
-    # 207 secondary packages :
+    # 206 secondary packages :
     - alabaster =0.7.12 =py_0
-    - appdirs =1.4.4 =pyh9f0ad1d_0
     - argcomplete =1.12.3 =pyhd8ed1ab_2
     - argh =0.26.2 =py37_1001
     - arrow =1.1.1 =pyhd8ed1ab_0
-    - astroid =2.7.2 =py37h03978a9_0
+    - astroid =2.7.3 =py37h03978a9_0
     - async_generator =1.10 =py_0
     - atomicwrites =1.4.0 =pyh9f0ad1d_0
     - attrs =21.2.0 =pyhd8ed1ab_0
@@ -53,7 +52,7 @@ requirements:
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - bcrypt =3.2.0 =py37hcc03f2d_1
     - binaryornot =0.4.4 =py_1
-    - black =21.7b0 =pyhd8ed1ab_0
+    - black =21.8b0 =pyhd8ed1ab_0
     - bleach =4.1.0 =pyhd8ed1ab_0
     - brotlipy =0.7.0 =py37hcc03f2d_1001
     - ca-certificates =2021.5.30 =h5b45459_0
@@ -88,7 +87,7 @@ requirements:
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intel-openmp =2021.3.0 =h57928b3_3372
     - intervaltree =3.0.2 =py_0
-    - ipykernel =6.2.0 =py37h4038f58_0
+    - ipykernel =6.3.0 =py37h4038f58_0
     - ipython =7.27.0 =py37h4038f58_0
     - ipython_genutils =0.2.0 =py_1
     - isort =5.9.3 =pyhd8ed1ab_0
@@ -98,7 +97,7 @@ requirements:
     - jinja2-time =0.2.0 =py_2
     - jpeg =9d =h8ffe710_0
     - jsonschema =3.2.0 =py37hc8dfbb8_1
-    - jupyter_client =7.0.1 =pyhd8ed1ab_0
+    - jupyter_client =7.0.2 =pyhd8ed1ab_0
     - jupyter_core =4.7.1 =py37h03978a9_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
     - keyring =23.1.0 =py37h03978a9_0
@@ -239,7 +238,7 @@ requirements:
     - xz =5.2.5 =h62dcd97_1
     - yaml =0.2.5 =he774522_0
     - yapf =0.31.0 =pyhd8ed1ab_0
-    - zeroconf =0.36.1 =pyhd8ed1ab_0
+    - zeroconf =0.36.2 =pyhd8ed1ab_0
     - zeromq =4.3.4 =h0e60522_1
     - zipp =3.5.0 =pyhd8ed1ab_0
     - zlib =1.2.11 =h62dcd97_1010
