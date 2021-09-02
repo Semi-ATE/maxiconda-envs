@@ -61,7 +61,7 @@ requirements:
     - griddataformats =0.5.0 =py_0
     - gsd =2.4.2 =py38h0793694_0
     - hdf4 =4.2.15 =hefd3b78_3
-    - hdf5 =1.10.6 =nompi_hc5d9132_1114
+    - hdf5 =1.12.1 =nompi_h2f0ef1a_100
     - icu =68.1 =h74dc148_0
     - ipykernel =6.3.1 =py38h5fd9f69_0
     - ipython =7.27.0 =py38h5fd9f69_0
@@ -89,7 +89,7 @@ requirements:
     - libglib =2.68.4 =hd556434_0
     - libiconv =1.16 =haf1e3a3_0
     - liblapack =3.9.0 =11_osx64_openblas
-    - libnetcdf =4.8.1 =nompi_hb4d10b0_100
+    - libnetcdf =4.8.1 =nompi_h6609ca0_101
     - libnghttp2 =1.43.0 =h07e645a_0
     - libopenblas =0.3.17 =openmp_h3351f45_1
     - libpng =1.6.37 =h7cec526_2
@@ -107,7 +107,7 @@ requirements:
     - msgpack-python =1.0.2 =py38h12bbefe_1
     - ncurses =6.2 =h2e338ed_4
     - nest-asyncio =1.5.1 =pyhd8ed1ab_0
-    - netcdf4 =1.5.7 =nompi_py38hf928500_101
+    - netcdf4 =1.5.7 =nompi_py38h465ef27_102
     - networkx =2.6.2 =pyhd8ed1ab_0
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =h6e7aa92_1
@@ -146,7 +146,7 @@ requirements:
     - traitlets =5.1.0 =pyhd8ed1ab_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.37.0 =pyhd8ed1ab_1
-    - wurlitzer =3.0.1 =py38h50d1736_0
+    - wurlitzer =3.0.2 =py38h50d1736_0
     - xz =5.2.5 =haf1e3a3_1
     - zeromq =4.3.4 =he49afe7_1
     - zlib =1.2.11 =h7795811_1010
