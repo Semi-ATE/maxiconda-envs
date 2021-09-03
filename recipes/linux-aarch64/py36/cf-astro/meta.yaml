@@ -25,9 +25,9 @@ requirements:
     - python =3.6.13 =h468538b_0_cpython
 
     # 1 primary packages :
-    - spyder-kernels =2.1.0 =py36h704843e_0
+    - spyder-kernels =2.1.1 =py36h704843e_0
 
-    # 46 secondary packages :
+    # 44 secondary packages :
     - _openmp_mutex =4.5 =1_gnu
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
@@ -35,12 +35,11 @@ requirements:
     - ca-certificates =2021.5.30 =h4fd8a4c_0
     - cloudpickle =1.6.0 =py_0
     - decorator =5.0.9 =pyhd8ed1ab_0
-    - entrypoints =0.3 =py36h9f0ad1d_1002
     - ipykernel =5.5.5 =py36h103942d_0
     - ipython =7.16.1 =py36h0e46ebc_2
     - ipython_genutils =0.2.0 =py_1
     - jedi =0.17.2 =py36h704843e_1
-    - jupyter_client =7.0.2 =pyhd8ed1ab_0
+    - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.7.1 =py36h704843e_0
     - ld_impl_linux-aarch64 =2.36.1 =h02ad14f_2
     - libffi =3.3 =h884eca8_2
@@ -49,7 +48,6 @@ requirements:
     - libsodium =1.0.18 =hb9de7d4_1
     - libstdcxx-ng =11.1.0 =h5eeca4d_8
     - ncurses =6.2 =h7fd3ca4_4
-    - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - openssl =1.1.1k =hf897c2e_1
     - parso =0.7.1 =pyh9f0ad1d_0
     - pexpect =4.8.0 =py36h9f0ad1d_1
@@ -65,7 +63,7 @@ requirements:
     - setuptools =57.4.0 =py36h704843e_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlite =3.36.0 =hc164836_0
-    - tk =8.6.11 =ha99a2a3_0
+    - tk =8.6.11 =hd8af866_1
     - tornado =6.1 =py36h269c3a8_1
     - traitlets =4.3.3 =py36h9f0ad1d_1
     - wcwidth =0.2.5 =pyh9f0ad1d_2

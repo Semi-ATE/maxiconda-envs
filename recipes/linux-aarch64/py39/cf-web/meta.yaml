@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.6 =h4f4e160_1_cpython
+    - python =3.9.7 =h4f4e160_0_cpython
   run:
-    - python =3.9.6 =h4f4e160_1_cpython
+    - python =3.9.7 =h4f4e160_0_cpython
 
     # 8 primary packages :
     - beautifulsoup4 =4.9.3 =pyhb0f4dca_0
@@ -30,11 +30,11 @@ requirements:
     - jinja2 =3.0.1 =pyhd8ed1ab_0
     - pyyaml =5.4.1 =py39h14843e3_1
     - requests =2.26.0 =pyhd8ed1ab_0
-    - spyder-kernels =2.1.0 =py39ha65689a_0
+    - spyder-kernels =2.1.1 =py39ha65689a_0
     - sqlalchemy =1.4.23 =py39h14843e3_0
     - twisted =21.7.0 =py39h14843e3_0
 
-    # 80 secondary packages :
+    # 78 secondary packages :
     - _openmp_mutex =4.5 =1_gnu
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - asgiref =3.4.1 =pyhd8ed1ab_0
@@ -55,7 +55,6 @@ requirements:
     - cryptography =3.4.7 =py39hc5d6c06_0
     - debugpy =1.4.1 =py39h99ab00b_0
     - decorator =5.0.9 =pyhd8ed1ab_0
-    - entrypoints =0.3 =py39hde42818_1002
     - greenlet =1.1.1 =py39h99ab00b_0
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - idna =3.1 =pyhd3deb0d_0
@@ -64,7 +63,7 @@ requirements:
     - ipython =7.27.0 =py39hef158d4_0
     - ipython_genutils =0.2.0 =py_1
     - jedi =0.18.0 =py39ha65689a_2
-    - jupyter_client =7.0.2 =pyhd8ed1ab_0
+    - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.7.1 =py39ha65689a_0
     - ld_impl_linux-aarch64 =2.36.1 =h02ad14f_2
     - libffi =3.3 =h884eca8_2
@@ -75,7 +74,6 @@ requirements:
     - markupsafe =2.0.1 =py39h14843e3_0
     - matplotlib-inline =0.1.2 =pyhd8ed1ab_2
     - ncurses =6.2 =h7fd3ca4_4
-    - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - openssl =1.1.1k =hf897c2e_1
     - parso =0.8.2 =pyhd8ed1ab_0
     - pexpect =4.8.0 =pyh9f0ad1d_2
@@ -100,7 +98,7 @@ requirements:
     - soupsieve =2.0.1 =py_1
     - sqlite =3.36.0 =hc164836_0
     - sqlparse =0.4.1 =pyh9f0ad1d_0
-    - tk =8.6.11 =ha99a2a3_0
+    - tk =8.6.11 =hd8af866_1
     - tornado =6.1 =py39h14843e3_1
     - traitlets =5.1.0 =pyhd8ed1ab_0
     - typing-extensions =3.10.0.0 =hd8ed1ab_0
