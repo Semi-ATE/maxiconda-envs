@@ -20,14 +20,14 @@ build:
 
 requirements:
   build:
-    - python =3.9.6 =h49503c6_1_cpython
+    - python =3.9.7 =h49503c6_0_cpython
   run:
-    - python =3.9.6 =h49503c6_1_cpython
+    - python =3.9.7 =h49503c6_0_cpython
 
     # 1 primary packages :
-    - spyder-kernels =2.1.0 =py39hf3d152e_0
+    - spyder-kernels =2.1.1 =py39hf3d152e_0
 
-    # 50 secondary packages :
+    # 48 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -37,12 +37,11 @@ requirements:
     - cloudpickle =1.6.0 =py_0
     - debugpy =1.4.1 =py39he80948d_0
     - decorator =5.0.9 =pyhd8ed1ab_0
-    - entrypoints =0.3 =py39hde42818_1002
     - ipykernel =6.3.1 =py39hef51801_0
     - ipython =7.27.0 =py39hef51801_0
     - ipython_genutils =0.2.0 =py_1
     - jedi =0.18.0 =py39hf3d152e_2
-    - jupyter_client =7.0.2 =pyhd8ed1ab_0
+    - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.7.1 =py39hf3d152e_0
     - ld_impl_linux-64 =2.36.1 =hea4e1c9_2
     - libffi =3.3 =h58526e2_2
@@ -52,7 +51,6 @@ requirements:
     - libstdcxx-ng =11.1.0 =h56837e0_8
     - matplotlib-inline =0.1.2 =pyhd8ed1ab_2
     - ncurses =6.2 =h58526e2_4
-    - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - openssl =1.1.1k =h7f98852_1
     - parso =0.8.2 =pyhd8ed1ab_0
     - pexpect =4.8.0 =pyh9f0ad1d_2
@@ -68,7 +66,7 @@ requirements:
     - setuptools =57.4.0 =py39hf3d152e_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlite =3.36.0 =h9cd32fc_0
-    - tk =8.6.11 =h21135ba_0
+    - tk =8.6.11 =h27826a3_1
     - tornado =6.1 =py39h3811e60_1
     - traitlets =5.1.0 =pyhd8ed1ab_0
     - tzdata =2021a =he74cb21_1

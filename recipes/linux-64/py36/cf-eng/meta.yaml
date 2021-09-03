@@ -31,9 +31,9 @@ requirements:
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
     - pyvisa-py =0.5.2 =pyh44b312d_0
-    - spyder-kernels =2.1.0 =py36h5fab9bb_0
+    - spyder-kernels =2.1.1 =py36h5fab9bb_0
 
-    # 64 secondary packages :
+    # 62 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -43,7 +43,6 @@ requirements:
     - cloudpickle =1.6.0 =py_0
     - dataclasses =0.8 =pyh787bdff_2
     - decorator =5.0.9 =pyhd8ed1ab_0
-    - entrypoints =0.3 =py36h9f0ad1d_1002
     - et_xmlfile =1.0.1 =py36_0
     - importlib-metadata =4.8.1 =py36h5fab9bb_0
     - importlib_metadata =4.8.1 =hd8ed1ab_0
@@ -52,7 +51,7 @@ requirements:
     - ipython_genutils =0.2.0 =py36_0
     - jdcal =1.4.1 =py_0
     - jedi =0.17.2 =py36h5fab9bb_1
-    - jupyter_client =7.0.2 =pyhd8ed1ab_0
+    - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.7.1 =py36h5fab9bb_0
     - ld_impl_linux-64 =2.36.1 =hea4e1c9_2
     - libblas =3.9.0 =11_linux64_openblas
@@ -68,7 +67,6 @@ requirements:
     - libstdcxx-ng =11.1.0 =h56837e0_8
     - libusb =1.0.24 =h18f079d_4
     - ncurses =6.2 =h58526e2_4
-    - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - openssl =1.1.1k =h7f98852_1
     - parso =0.7.1 =pyh9f0ad1d_0
     - patchelf =0.13 =h58526e2_0
@@ -87,7 +85,7 @@ requirements:
     - setuptools =57.4.0 =py36h5fab9bb_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlite =3.36.0 =h9cd32fc_0
-    - tk =8.6.11 =h21135ba_0
+    - tk =8.6.11 =h27826a3_1
     - tornado =6.1 =py36h8f6f2f9_1
     - traitlets =4.3.3 =py36h9f0ad1d_1
     - typing_extensions =3.10.0.0 =pyha770c72_0
