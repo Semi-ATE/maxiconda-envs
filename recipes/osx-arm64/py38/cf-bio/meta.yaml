@@ -31,9 +31,9 @@ requirements:
     - pandas =1.3.2 =py38h3777fb4_0
     - rdkit =2021.03.5 =py38hbcbf861_0
     - scipy =1.7.0 =py38hd0c9ec0_0
-    - spyder-kernels =2.1.0 =py38h10201cd_0
+    - spyder-kernels =2.1.1 =py38h10201cd_0
 
-    # 88 secondary packages :
+    # 86 secondary packages :
     - appnope =0.1.2 =py38h10201cd_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
@@ -48,7 +48,6 @@ requirements:
     - cycler =0.10.0 =py_2
     - debugpy =1.4.1 =py38h6f2b01f_0
     - decorator =5.0.9 =pyhd8ed1ab_0
-    - entrypoints =0.3 =pyhd8ed1ab_1003
     - fontconfig =2.13.1 =heb65262_1005
     - freetype =2.10.4 =h17b34a0_1
     - gettext =0.19.8.1 =hea66d9f_1005
@@ -60,7 +59,7 @@ requirements:
     - jbig =2.1 =h3422bc3_2003
     - jedi =0.18.0 =py38h10201cd_2
     - jpeg =9d =h27ca646_0
-    - jupyter_client =7.0.2 =pyhd8ed1ab_0
+    - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.7.1 =py38h10201cd_0
     - kiwisolver =1.3.2 =py38h1670459_0
     - lcms2 =2.12 =had6a04f_0
@@ -86,7 +85,6 @@ requirements:
     - matplotlib-base =3.4.3 =py38hb140015_0
     - matplotlib-inline =0.1.2 =pyhd8ed1ab_2
     - ncurses =6.2 =h9aa5885_4
-    - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =h062765e_1
     - openssl =1.1.1k =h3422bc3_1
@@ -112,7 +110,7 @@ requirements:
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.23 =py38hea4295b_0
     - sqlite =3.36.0 =h72a2b83_0
-    - tk =8.6.11 =he1e0b03_0
+    - tk =8.6.11 =he1e0b03_1
     - tornado =6.1 =py38hea4295b_1
     - traitlets =5.1.0 =pyhd8ed1ab_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2

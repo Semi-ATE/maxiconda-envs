@@ -30,11 +30,11 @@ requirements:
     - jinja2 =3.0.1 =pyhd8ed1ab_0
     - pyyaml =5.4.1 =py38hea4295b_1
     - requests =2.26.0 =pyhd8ed1ab_0
-    - spyder-kernels =2.1.0 =py38h10201cd_0
+    - spyder-kernels =2.1.1 =py38h10201cd_0
     - sqlalchemy =1.4.23 =py38hea4295b_0
     - twisted =21.7.0 =py38hea4295b_0
 
-    # 76 secondary packages :
+    # 74 secondary packages :
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.2 =py38h10201cd_1
     - asgiref =3.4.1 =pyhd8ed1ab_0
@@ -55,7 +55,6 @@ requirements:
     - cryptography =3.4.7 =py38h3c0dae5_0
     - debugpy =1.4.1 =py38h6f2b01f_0
     - decorator =5.0.9 =pyhd8ed1ab_0
-    - entrypoints =0.3 =pyhd8ed1ab_1003
     - greenlet =1.1.1 =py38h6f2b01f_0
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - idna =3.1 =pyhd3deb0d_0
@@ -64,7 +63,7 @@ requirements:
     - ipython =7.27.0 =py38h2cb4d76_0
     - ipython_genutils =0.2.0 =py_1
     - jedi =0.18.0 =py38h10201cd_2
-    - jupyter_client =7.0.2 =pyhd8ed1ab_0
+    - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.7.1 =py38h10201cd_0
     - libcxx =12.0.1 =h168391b_0
     - libffi =3.3 =h9f76cd9_2
@@ -72,7 +71,6 @@ requirements:
     - markupsafe =2.0.1 =py38hea4295b_0
     - matplotlib-inline =0.1.2 =pyhd8ed1ab_2
     - ncurses =6.2 =h9aa5885_4
-    - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - openssl =1.1.1k =h3422bc3_1
     - parso =0.8.2 =pyhd8ed1ab_0
     - pexpect =4.8.0 =pyh9f0ad1d_2
@@ -97,7 +95,7 @@ requirements:
     - soupsieve =2.0.1 =py_1
     - sqlite =3.36.0 =h72a2b83_0
     - sqlparse =0.4.1 =pyh9f0ad1d_0
-    - tk =8.6.11 =he1e0b03_0
+    - tk =8.6.11 =he1e0b03_1
     - tornado =6.1 =py38hea4295b_1
     - traitlets =5.1.0 =pyhd8ed1ab_0
     - typing-extensions =3.10.0.0 =hd8ed1ab_0
