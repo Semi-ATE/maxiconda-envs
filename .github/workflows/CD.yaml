@@ -27,14 +27,9 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Set up conda environment
-      uses: conda-incubator/setup-miniconda@v2
-      with:
-        miniconda-version: latest
-        activate-environment: maxiconda-envs
-        environment-file: environment.yaml
-        channel-priority: strict
-
+    - name: Install mamba & environment
+      uses: mamba-org/provision-with-micromamba@v10
+      
     - name: Build and upload
       shell: bash -l {0}
       env:
