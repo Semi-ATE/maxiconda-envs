@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.6 =h7840368_1_cpython
+    - python =3.9.7 =h7840368_0_cpython
   run:
-    - python =3.9.6 =h7840368_1_cpython
+    - python =3.9.7 =h7840368_0_cpython
 
     # 7 primary packages :
     - numpy =1.21.2 =py39h6635163_0
@@ -31,9 +31,9 @@ requirements:
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
     - pyvisa-py =0.5.2 =pyh44b312d_0
-    - spyder-kernels =2.1.0 =py39hcbf5309_0
+    - spyder-kernels =2.1.1 =py39hcbf5309_0
 
-    # 54 secondary packages :
+    # 52 secondary packages :
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -42,7 +42,6 @@ requirements:
     - colorama =0.4.4 =pyh9f0ad1d_0
     - debugpy =1.4.1 =py39h415ef7b_0
     - decorator =5.0.9 =pyhd8ed1ab_0
-    - entrypoints =0.3 =py39hde42818_1002
     - et_xmlfile =1.0.1 =py_1001
     - importlib-metadata =4.8.1 =py39hcbf5309_0
     - intel-openmp =2021.3.0 =h57928b3_3372
@@ -51,7 +50,7 @@ requirements:
     - ipython_genutils =0.2.0 =py_1
     - jdcal =1.4.1 =py_0
     - jedi =0.18.0 =py39hcbf5309_2
-    - jupyter_client =7.0.2 =pyhd8ed1ab_0
+    - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.7.1 =py39hcbf5309_0
     - libblas =3.9.0 =11_win64_mkl
     - libcblas =3.9.0 =11_win64_mkl
@@ -60,7 +59,6 @@ requirements:
     - libusb =1.0.24 =h8ffe710_4
     - matplotlib-inline =0.1.2 =pyhd8ed1ab_2
     - mkl =2021.3.0 =hb70f87d_564
-    - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - openssl =1.1.1k =h8ffe710_1
     - parso =0.8.2 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py39hde42818_1002

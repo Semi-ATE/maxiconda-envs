@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.6 =h7840368_1_cpython
+    - python =3.9.7 =h7840368_0_cpython
   run:
-    - python =3.9.6 =h7840368_1_cpython
+    - python =3.9.7 =h7840368_0_cpython
 
     # 8 primary packages :
     - beautifulsoup4 =4.9.3 =pyhb0f4dca_0
@@ -30,11 +30,11 @@ requirements:
     - jinja2 =3.0.1 =pyhd8ed1ab_0
     - pyyaml =5.4.1 =py39hb82d6ee_1
     - requests =2.26.0 =pyhd8ed1ab_0
-    - spyder-kernels =2.1.0 =py39hcbf5309_0
+    - spyder-kernels =2.1.1 =py39hcbf5309_0
     - sqlalchemy =1.4.23 =py39hb82d6ee_0
     - twisted =21.7.0 =py39hb82d6ee_0
 
-    # 73 secondary packages :
+    # 71 secondary packages :
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - asgiref =3.4.1 =pyhd8ed1ab_0
     - attrs =21.2.0 =pyhd8ed1ab_0
@@ -55,7 +55,6 @@ requirements:
     - cryptography =3.4.7 =py39hd8d06c1_0
     - debugpy =1.4.1 =py39h415ef7b_0
     - decorator =5.0.9 =pyhd8ed1ab_0
-    - entrypoints =0.3 =py39hde42818_1002
     - greenlet =1.1.1 =py39h415ef7b_0
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - idna =3.1 =pyhd3deb0d_0
@@ -64,12 +63,11 @@ requirements:
     - ipython =7.27.0 =py39h832f523_0
     - ipython_genutils =0.2.0 =py_1
     - jedi =0.18.0 =py39hcbf5309_2
-    - jupyter_client =7.0.2 =pyhd8ed1ab_0
+    - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.7.1 =py39hcbf5309_0
     - libsodium =1.0.18 =h8d14728_1
     - markupsafe =2.0.1 =py39hb82d6ee_0
     - matplotlib-inline =0.1.2 =pyhd8ed1ab_2
-    - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - openssl =1.1.1k =h8ffe710_1
     - parso =0.8.2 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py39hde42818_1002
