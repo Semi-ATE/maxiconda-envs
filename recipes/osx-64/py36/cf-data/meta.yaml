@@ -39,7 +39,7 @@ requirements:
     - scipy =1.5.3 =py36h4f136de_1
     - scrapy =2.5.0 =py36h79c6626_1
     - seaborn =0.11.2 =hd8ed1ab_0
-    - spyder-kernels =2.1.0 =py36h79c6626_0
+    - spyder-kernels =2.1.1 =py36h79c6626_0
     - sqlalchemy =1.4.23 =py36hfa26744_0
     - sqlite =3.36.0 =h23a322b_0
     - statsmodels =0.12.2 =py36hf14bfbd_0
@@ -144,7 +144,7 @@ requirements:
     - joblib =1.0.1 =pyhd8ed1ab_0
     - jpeg =9d =hbcb3906_0
     - jsonschema =3.2.0 =py36h9f0ad1d_1
-    - jupyter_client =7.0.2 =pyhd8ed1ab_0
+    - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.7.1 =py36h79c6626_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
     - jupyterlab_widgets =1.0.1 =pyhd8ed1ab_0
@@ -199,7 +199,7 @@ requirements:
     - nltk =3.6.2 =pyhd8ed1ab_0
     - notebook =6.3.0 =py36h79c6626_0
     - numba =0.53.0 =py36h7eb7284_0
-    - numexpr =2.7.3 =py36h7083def_0
+    - numexpr =2.7.3 =py36he43235d_0
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =h6e7aa92_1
     - openssl =1.1.1k =h0d85af4_1
@@ -277,7 +277,7 @@ requirements:
     - textblob =0.15.3 =py_0
     - thinc =7.4.5 =py36h337d322_2
     - threadpoolctl =2.2.0 =pyh8a188c0_0
-    - tk =8.6.11 =hd798d34_0
+    - tk =8.6.11 =h5dbffcc_1
     - tornado =6.1 =py36hfa26744_1
     - tqdm =4.62.2 =pyhd8ed1ab_0
     - traitlets =4.3.3 =py36h9f0ad1d_1

@@ -25,9 +25,9 @@ requirements:
     - python =3.7.10 =h7728216_100_cpython
 
     # 1 primary packages :
-    - spyder-kernels =2.1.0 =py37hf985489_0
+    - spyder-kernels =2.1.1 =py37hf985489_0
 
-    # 50 secondary packages :
+    # 48 secondary packages :
     - appnope =0.1.2 =py37hf985489_1
     - argcomplete =1.12.3 =pyhd8ed1ab_2
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -37,21 +37,19 @@ requirements:
     - cloudpickle =1.6.0 =py_0
     - debugpy =1.4.1 =py37hd8d24ac_0
     - decorator =5.0.9 =pyhd8ed1ab_0
-    - entrypoints =0.3 =py37hc8dfbb8_1002
     - importlib-metadata =4.8.1 =py37hf985489_0
     - importlib_metadata =4.8.1 =hd8ed1ab_0
     - ipykernel =6.3.1 =py37h4c52d7d_0
     - ipython =7.27.0 =py37h4c52d7d_0
     - ipython_genutils =0.2.0 =py_1
     - jedi =0.18.0 =py37hf985489_2
-    - jupyter_client =7.0.2 =pyhd8ed1ab_0
+    - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.7.1 =py37hf985489_0
     - libcxx =12.0.1 =habf9029_0
     - libffi =3.3 =h046ec9c_2
     - libsodium =1.0.18 =hbcb3906_1
     - matplotlib-inline =0.1.2 =pyhd8ed1ab_2
     - ncurses =6.2 =h2e338ed_4
-    - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - openssl =1.1.1k =h0d85af4_1
     - parso =0.8.2 =pyhd8ed1ab_0
     - pexpect =4.8.0 =py37hc8dfbb8_1
@@ -67,7 +65,7 @@ requirements:
     - setuptools =57.4.0 =py37hf985489_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlite =3.36.0 =h23a322b_0
-    - tk =8.6.11 =hd798d34_0
+    - tk =8.6.11 =h5dbffcc_1
     - tornado =6.1 =py37h271585c_1
     - traitlets =5.1.0 =pyhd8ed1ab_0
     - typing_extensions =3.10.0.0 =pyha770c72_0
