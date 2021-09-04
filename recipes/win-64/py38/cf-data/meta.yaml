@@ -41,7 +41,7 @@ requirements:
     - spyder-kernels =2.1.1 =py38haa244fe_0
     - sqlalchemy =1.4.23 =py38h294d835_0
     - sqlite =3.36.0 =h8ffe710_0
-    - statsmodels =0.12.2 =py38h347fdf6_0
+    - statsmodels =0.12.2 =py38h6f4d8f0_0
     - xgboost =1.4.0 =py38haa244fe_0
 
     # 281 secondary packages :
@@ -183,8 +183,8 @@ requirements:
     - missingno =0.4.2 =py_1
     - mistune =0.8.4 =py38h294d835_1004
     - mkl =2020.4 =hb70f87d_311
-    - mlflow =1.19.0 =py38hdedce57_0
-    - mlxtend =0.18.0 =pyhd3deb0d_0
+    - mlflow =1.20.0 =py38hdedce57_0
+    - mlxtend =0.19.0 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - multimethod =1.4 =py_0
     - murmurhash =1.0.5 =py38h885f38d_0
@@ -199,7 +199,7 @@ requirements:
     - numexpr =2.7.3 =py38h4c96930_0
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =hb211442_1
-    - openssl =1.1.1k =h8ffe710_1
+    - openssl =1.1.1l =h8ffe710_0
     - packaging =21.0 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pandoc =2.14.2 =h8ffe710_0
@@ -212,7 +212,7 @@ requirements:
     - pcre =8.45 =h0e60522_0
     - phik =0.11.2 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py38h32f6830_1002
-    - pillow =8.3.1 =py38h794f750_0
+    - pillow =8.3.2 =py38h794f750_0
     - pip =21.2.4 =pyhd8ed1ab_0
     - pixman =0.40.0 =h8ffe710_0
     - preshed =3.0.5 =py38h885f38d_1
@@ -247,7 +247,7 @@ requirements:
     - python-editor =1.0.4 =py_0
     - python_abi =3.8 =2_cp38
     - pytz =2021.1 =pyhd8ed1ab_0
-    - pywavelets =1.1.1 =py38h347fdf6_3
+    - pywavelets =1.1.1 =py38h6f4d8f0_3
     - pywin32 =227 =py38h294d835_1
     - pywinpty =1.1.4 =py38hd3f51b4_0
     - pyyaml =5.4.1 =py38h294d835_1
