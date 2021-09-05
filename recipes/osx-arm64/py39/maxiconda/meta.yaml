@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# osx-arm64/py39/maxiconda (created on linux-64)
+# osx-arm64/py39/maxiconda (created Sunday September 05 2021 at 05:10:50 on linux-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
@@ -153,6 +153,7 @@ requirements:
     - zeromq =4.3.4 =hbdafb3b_1
     - zlib =1.2.11 =h31e879b_1009
     - zstd =1.5.0 =h861e0a7_0
+
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
   license: MIT
