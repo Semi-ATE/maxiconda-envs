@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# osx-64/py39/cf-web (created on linux-64)
+# osx-64/py39/cf-web (created Sunday September 05 2021 at 05:12:35 on linux-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
@@ -110,6 +110,7 @@ requirements:
     - zeromq =4.3.4 =he49afe7_1
     - zlib =1.2.11 =h7795811_1010
     - zope.interface =5.4.0 =py39h89e85a6_0
+
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
   license: MIT
