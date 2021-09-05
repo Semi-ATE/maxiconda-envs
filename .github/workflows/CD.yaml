@@ -6,70 +6,48 @@ on:
 
 jobs:
   build_and_upload:
-    name: ${{ matrix.OS }}
-    runs-on: ${{ matrix.VM }}
+    name: ${{ matrix.SUBDIR }}
+    runs-on: ubuntu-latest
+    env:
+      SUBDIR: ${{ matrix.SUBDIR }}
     strategy:
       fail-fast: false
       matrix:
         include:
-          - OS: win-64
-            VM: windows-latest            
-          - OS: linux-64
-            VM: ubuntu-latest
-          - OS: osx-64
-            VM: macos-latest
-          - OS: linux-aarch64
-            VM: ubuntu-latest
-          - OS: osx-arm64
-            VM: macos-latest
-            DOCKER_IMG: xyz      
+          - SUBDIR: win-64
+          - SUBDIR: linux-64
+          - SUBDIR: linux-aarch64
+          - SUBDIR: osx-64
+          - SUBDIR: osx-arm64
     steps:  
     - name: Checkout code
       uses: actions/checkout@v2
+      with:
+        persist-credentials: false  # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+        fetch-depth: 0  # otherwise, you will failed to push refs to dest repo
 
     - name: Install mamba & environment
       uses: mamba-org/provision-with-micromamba@v10
-      
-    - name: Build and upload
+
+    - name: build and upload meta-packages
       shell: bash -l {0}
-      env:
-        OS: ${{ matrix.OS }}
-        DOCKER_IMG: ${{ matrix.DOCKER_IMG }}
-        CONDA_UPLOAD_TOKEN: ${{ secrets.CONDA_UPLOAD_TOKEN }}
       run: |
-        export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/};
-        if [[ "$OS" == "linux-aarch64" ]]; then
-          echo "Build and Upload Environments for linux-aarch64"
-          export MAXICONDA_ARGS="--build --upload"
-          docker run --rm --privileged multiarch/qemu-user-static --reset --credential yes --persistent yes
-          docker run --rm -v "$(pwd):/maxiconda-envs" -e MAXICONDA_ENV_RELEASE -e CONDA_UPLOAD_TOKEN -e MAXICONDA_ARGS condaforge/linux-anvil-aarch64 /maxiconda-envs/scripts/linux-aarch64.sh
-        elif [[ "$OS" == "osx-arm64" ]]; then
-          echo "Build and Upload Environments for osx-arm64"
-        else
-          echo "Build and Upload Environments for $OS"
-          python -u scripts/maxiconda.py --build --upload
-        fi
+        mkdir build
+        cd build
+        python -u ../scripts/maxiconda.py --build --upload $SUBDIR
 
   consolidate:
     runs-on: ubuntu-latest
     needs: build_and_upload
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-
-    - name: Set up conda environment
-      uses: conda-incubator/setup-miniconda@v2
-      with:
-        miniconda-version: latest
-        activate-environment: maxiconda-envs
-        environment-file: environment.yaml
-        channel-priority: strict
+    - name: Install mamba & environment
+      uses: mamba-org/provision-with-micromamba@v10
 
     - name: Create the summary
       shell: bash -l {0}
       run: |
-        export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/}
-        python -u scripts/maxiconda.py --digest
+        echo export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/}
+        python -u scripts/digest.py --build ${GITHUB_REF##*/}
 
     - name: Upload the summary to release assets
       uses: alexellis/upload-assets@0.2.3
