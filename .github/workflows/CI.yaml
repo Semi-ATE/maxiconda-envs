@@ -7,19 +7,19 @@ on:
 
 jobs:
   solve_and_test:
-    name: ${{ matrix.TARGET_CONDA_SUBDIR }}
+    name: ${{ matrix.SUBDIR }}
     runs-on: ubuntu-latest
     env:
-      TARGET_CONDA_SUBDIR: ${{ matrix.TARGET_CONDA_SUBDIR }}
+      SUBDIR: ${{ matrix.SUBDIR }}
     strategy:
       fail-fast: false
       matrix:
         include:
-          - TARGET_CONDA_SUBDIR: win-64
-          - TARGET_CONDA_SUBDIR: linux-64
-          - TARGET_CONDA_SUBDIR: linux-aarch64
-          - TARGET_CONDA_SUBDIR: osx-64
-          - TARGET_CONDA_SUBDIR: osx-arm64
+          - SUBDIR: win-64
+          - SUBDIR: linux-64
+          - SUBDIR: linux-aarch64
+          - SUBDIR: osx-64
+          - SUBDIR: osx-arm64
     steps:  
     - name: Checkout code
       uses: actions/checkout@v2
@@ -33,10 +33,9 @@ jobs:
     - name: Solve and test-build meta-packages
       shell: bash -l {0}
       run: |
-        echo $(TARGET_CONDA_SUBDIR)
         mkdir build
         cd build
-        python -u ../scripts/maxiconda.py --solve --build
+        python -u ../scripts/maxiconda.py --solve --build $(SUBDIR)
 
     - name: Upload build meta-packages
       uses: actions/upload-artifact@v2
