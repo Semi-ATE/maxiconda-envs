@@ -41,7 +41,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: ${{ matrix.SUBDIR }}_recipes
-        path: recipes/$SUBDIR/
+        path: recipes/${{ matrix.SUBDIR }}/
 
     - name: Upload build packages
       uses: actions/upload-artifact@v2
