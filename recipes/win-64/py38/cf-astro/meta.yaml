@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# win-64/py38/cf-astro (created on linux-64)
+# win-64/py38/cf-astro (created Sunday September 05 2021 at 05:11:44 on linux-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
@@ -65,6 +65,7 @@ requirements:
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.37.0 =pyhd8ed1ab_1
     - zeromq =4.3.4 =h0e60522_1
+
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
   license: MIT
