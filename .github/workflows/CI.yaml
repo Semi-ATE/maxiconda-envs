@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  solve_and_test:
+  solve_and_build:
     name: ${{ matrix.SUBDIR }}
     runs-on: ubuntu-latest
     env:
@@ -37,43 +37,77 @@ jobs:
         cd build
         python -u ../scripts/maxiconda.py --solve --build $SUBDIR
 
-    - name: Upload build meta-packages
+    - name: Upload solved recipes
       uses: actions/upload-artifact@v2
       with:
-        name: ${{ matrix.SUBDIR }}-meta-packages
+        name: ${{ matrix.SUBDIR }}_recipes
+        path: recipes/$SUBDIR/
+
+    - name: Upload build packages
+      uses: actions/upload-artifact@v2
+      with:
+        name: ${{ matrix.SUBDIR }}_packages
         path: build/
 
-    - name: Remove build meta-packages from file system
-      shell: bash -l {0}
-      run: rm -rf build
-
-    - name: Commit recipes
-      shell: bash -l {0}
-      run: |
-        export DATE=$(date +'%A %B %d, %Y')
-        if [[ -n "$(git status --porcelain)" ]]; then
-          echo "$(git status --porcelain)"
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          echo "git stash -u"
-          git stash -u
-          echo "git pull"
-          git pull
-          echo "git stash pop"
-          git stash pop
-          echo "git add -A"
-          git add -A
-          echo "git commit -m \"$DATE (${{ matrix.SUBDIR }})\""
-          git commit -m "$DATE (${{ matrix.SUBDIR }})"
-        else
-          echo "Nothing to commit ($DATE)"
-          git pull
-        fi  
-
-    - name: Push changes
-      uses: ad-m/github-push-action@v0.6.0
+  consolidate:
+    runs-on: ubuntu-latest
+    needs: solve_and_build
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
       with:
-        github_token: ${{ secrets.TOKEN_GITHUB }}
-        branch: main
-        directory: "../maxiconda-envs"
-        repository: Semi-ATE/maxiconda-envs
+        persist-credentials: false  # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+        fetch-depth: 0  # otherwise, you will failed to push refs to dest repo
+    
+    - name: Install mamba & environment
+      uses: mamba-org/provision-with-micromamba@v10
+
+    - name: Download a Build Artifact
+      uses: actions/download-artifact@v2
+
+    - name: Display structure of downloaded files
+      run: ls -R
+
+#     - name: Create the summary
+#       shell: bash -l {0}
+#       run: |
+#         echo export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/}
+#         python -u scripts/digest.py --build ${GITHUB_REF##*/}
+
+#     - name: Upload the summary to release assets
+#       uses: alexellis/upload-assets@0.2.3
+#       env:
+#         GITHUB_TOKEN: ${{ github.token }}
+#       with:
+#         asset_paths: '["maxiconda-envs.xlsx"]'
+
+#     - name: Commit recipes
+#       shell: bash -l {0}
+#       run: |
+#         export DATE=$(date +'%A %B %d, %Y')
+#         if [[ -n "$(git status --porcelain)" ]]; then
+#           echo "$(git status --porcelain)"
+#           git config --local user.email "action@github.com"
+#           git config --local user.name "GitHub Action"
+#           echo "git stash -u"
+#           git stash -u
+#           echo "git pull"
+#           git pull
+#           echo "git stash pop"
+#           git stash pop
+#           echo "git add -A"
+#           git add -A
+#           echo "git commit -m \"$DATE (${{ matrix.SUBDIR }})\""
+#           git commit -m "$DATE (${{ matrix.SUBDIR }})"
+#         else
+#           echo "Nothing to commit ($DATE)"
+#           git pull
+#         fi  
+
+#     - name: Push changes
+#       uses: ad-m/github-push-action@v0.6.0
+#       with:
+#         github_token: ${{ secrets.TOKEN_GITHUB }}
+#         branch: main
+#         directory: "../maxiconda-envs"
+#         repository: Semi-ATE/maxiconda-envs
