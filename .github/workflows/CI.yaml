@@ -62,11 +62,20 @@ jobs:
     - name: Install mamba & environment
       uses: mamba-org/provision-with-micromamba@v10
 
-    - name: Download a Build Artifact
+    - name: Download *ALL* Build Artifacts
       uses: actions/download-artifact@v2
 
     - name: Display structure of downloaded files
-      run: ls -R
+      run: tree
+      
+    - name: Remove build packages
+      shell: bash -l {0}
+      run: |
+        rm -rf *_packages/
+        
+    - name: Display structure of downloaded files
+      run: tree
+        
 
 #     - name: Create the summary
 #       shell: bash -l {0}
