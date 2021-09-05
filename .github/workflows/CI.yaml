@@ -73,11 +73,12 @@ jobs:
       shell: bash -l {0}
       run: |
         mapfile -t dirlist < <(find . -maxdepth 1 -mindepth 1 -type d | grep _recipes$)
-        IFS="_"
-        for dir in ${dirlist[@]}; do
-          source_directory=(${dir##*/})
-          echo ">>> ${source_directory[0]} <<< ${source_directory[1]}"
-        done
+        echo "dirlist='$dirlist'"
+#        IFS="_"
+#        for dir in ${dirlist[@]}; do
+#          source_directory=(${dir##*/})
+#          echo ">>> ${source_directory[0]} <<< ${source_directory[1]}"
+#        done
 #        remove the directories
           
         
