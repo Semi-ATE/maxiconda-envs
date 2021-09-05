@@ -65,13 +65,24 @@ jobs:
     - name: Download *ALL* Build Artifacts
       uses: actions/download-artifact@v2
 
-    - name: Display structure of downloaded files
-      run: tree
-      
     - name: Remove build packages
       shell: bash -l {0}
+      run: rm -rf *_packages/
+        
+    - name: Move recipes into place
+      shell: bash -l {0}
       run: |
-        rm -rf *_packages/
+        mapfile -t dirlist < <(find . -maxdepth 1 -mindepth 1 -type d | grep _recipes$)
+        IFS="_"
+        for dir in ${dirlist[@]}; do
+          dir=${dir##*/}
+          parts=( $dir )
+          real_dir=${parts[0]}
+          echo ">>> $real_dir <<< $dir"
+        done
+#        remove the directories
+          
+        
         
     - name: Display structure of downloaded files
       run: tree
