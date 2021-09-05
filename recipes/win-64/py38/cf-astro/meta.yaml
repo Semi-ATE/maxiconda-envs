@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# win-64/py38/cf-astro (created Sunday September 05 2021 at 05:11:44 on linux-64)
+# win-64/py38/cf-astro (created Sunday September 05 2021 at 05:17:33 on linux-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
