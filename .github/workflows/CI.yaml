@@ -35,12 +35,12 @@ jobs:
       run: |
         mkdir build
         cd build
-        python -u ../scripts/maxiconda.py --solve --build $(SUBDIR)
+        python -u ../scripts/maxiconda.py --solve --build $SUBDIR
 
     - name: Upload build meta-packages
       uses: actions/upload-artifact@v2
       with:
-        name: ${{ matrix.TARGET_CONDA_SUBDIR }}-meta-packages
+        name: ${{ matrix.SUBDIR }}-meta-packages
         path: build/
 
     - name: Remove build meta-packages from file system
@@ -63,8 +63,8 @@ jobs:
           git stash pop
           echo "git add -A"
           git add -A
-          echo "git commit -m \"$DATE (${{ matrix.TARGET_CONDA_SUBDIR }})\""
-          git commit -m "$DATE (${{ matrix.os }})"
+          echo "git commit -m \"$DATE (${{ matrix.SUBDIR }})\""
+          git commit -m "$DATE (${{ matrix.SUBDIR }})"
         else
           echo "Nothing to commit ($DATE)"
           git pull
