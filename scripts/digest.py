@@ -129,6 +129,9 @@ def create_digest(args):
         ws_dim_holder = openpyxl.worksheet.dimensions.DimensionHolder(worksheet=ws)
         ws["A1"] = f"V{build_version}"
         ws["A1"].font = openpyxl.styles.Font(bold=True, color='00FF0000')
+        ws["A2"] = f"specs.yaml"  
+        ws['A2'].hyperlink = f"https://github.com/Semi-ATE/maxiconda-envs/releases/download/{build_version}/specs.yaml"
+        ws['A2'].style = "Hyperlink"
 
         # Insert the packages
         row_offset = 4
