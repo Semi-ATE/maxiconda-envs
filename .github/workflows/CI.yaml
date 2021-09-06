@@ -72,16 +72,24 @@ jobs:
     - name: Move recipes into place
       shell: bash -l {0}
       run: |
-        mapfile -t dirlist < <(find . -maxdepth 1 -mindepth 1 -type d | grep _recipes$)
-        echo "dirlist='$dirlist'"
-#        IFS="_"
-#        for dir in ${dirlist[@]}; do
-#          source_directory=(${dir##*/})
-#          echo ">>> ${source_directory[0]} <<< ${source_directory[1]}"
-#        done
-#        remove the directories
-          
-        
+        for dir in ./*/; do
+          dir="${dir%/}"
+          dir="${dir##*/}"
+          if [[ "$dir" == *_recipes ]]; then
+	          target=${dir%_recipes}
+	          destination_dir="./recipes/${target}/"
+            source_dir="./${target}_recipes"
+	          if [ ! -d "$destination_dir" ]; then
+	            mkdir $destination_dir
+	          fi
+	          move="cp -rf $source_dir/* $destination_dir"
+	          echo $move
+	          $move
+	          remove="rm -rf $source_dir"
+	          echo $remove
+	          $remove
+          fi
+        done
         
     - name: Display structure of downloaded files
       run: tree
