@@ -464,7 +464,7 @@ target_platform: {self.subdir}
 
         return archive_name
 
-    def is_uploadable(package_fpath):
+    def is_uploadable(self, package_fpath):
         """
         Determines if `package_fpath` is uploadable.
 
