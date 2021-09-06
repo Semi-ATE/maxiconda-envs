@@ -20,6 +20,23 @@ supported_subdirs = ['linux-64', 'linux-aarch64', 'win-64', 'osx-64', 'osx-arm64
 
 def create_digest(args):
 
+    def os_cpu_to_subdir(OS, CPU):
+        if OS == "Linux":
+            retval = "linux-"
+        elif OS == "Windows":
+            retval = "win-"
+        elif OS == "MacOS":
+            retval = "osx-" 
+        else:
+            raise ValueError(f"Unsupported OS : '{OS}'")
+        if CPU == "x86_64":
+            retval += "64"
+        elif CPU in ["aarch64", "arm64"]:
+            retval += CPU
+        else:
+            raise ValueError(f"Unsupporte CPU : '{CPU}'")
+        return retval
+
     def as_text(value):
         if value is None:
             return ""
@@ -154,13 +171,15 @@ def create_digest(args):
         for target in targets:
             this_column, OS, CPU, PY = column[target]
             platform = target.split("_")[0]
+            SUBDIR = os_cpu_to_subdir(OS, CPU)
+            URL = f"https://anaconda.org/Semi-ATE/{environment}/{build_version}/download/{SUBDIR}/{environment}-{build_version}-{PY}.tar.bz2"
             ws[f"{this_column}1"] = OS 
             ws[f"{this_column}1"].alignment = openpyxl.styles.Alignment(horizontal='center')
             ws[f"{this_column}2"] = CPU
             ws[f"{this_column}2"].alignment = openpyxl.styles.Alignment(horizontal='center')
             ws[f"{this_column}3"] = PY
             ws[f"{this_column}3"].alignment = openpyxl.styles.Alignment(horizontal='center')
-            ws[f"{this_column}3"].hyperlink = f"https://anaconda.org/Semi-ATE/{environment}/{build_version}/download/{OS}-{CPU}/{environment}-{build_version}-{PY}.tar.bz2"
+            ws[f"{this_column}3"].hyperlink = URL
             ws[f"{this_column}3"].style = "Hyperlink"
             for package in all_packages[environment]:
                 this_row = row[environment][package]
