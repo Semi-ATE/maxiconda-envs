@@ -91,19 +91,6 @@ jobs:
           fi
         done
 
-#     - name: Create the summary
-#       shell: bash -l {0}
-#       run: |
-#         echo export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/}
-#         python -u scripts/digest.py --build ${GITHUB_REF##*/}
-
-#     - name: Upload the summary to release assets
-#       uses: alexellis/upload-assets@0.2.3
-#       env:
-#         GITHUB_TOKEN: ${{ github.token }}
-#       with:
-#         asset_paths: '["maxiconda-envs.xlsx"]'
-
     - name: Commit recipes
       shell: bash -l {0}
       run: |
