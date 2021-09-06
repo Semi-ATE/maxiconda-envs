@@ -160,7 +160,7 @@ def create_digest(args):
             ws[f"{this_column}2"].alignment = openpyxl.styles.Alignment(horizontal='center')
             ws[f"{this_column}3"] = PY
             ws[f"{this_column}3"].alignment = openpyxl.styles.Alignment(horizontal='center')
-            ws[f"{this_column}3"].huyperlink = f"https://anaconda.org/Semi-ATE/{environment}/{build_version}/download/{OS}-{CPU}/{environment}-{build_ersion}-{PY}.tar.bz2"
+            ws[f"{this_column}3"].huyperlink = f"https://anaconda.org/Semi-ATE/{environment}/{build_version}/download/{OS}-{CPU}/{environment}-{build_version}-{PY}.tar.bz2"
             ws[f"{this_column}3"].style = "Hyperlink"
             for package in all_packages[environment]:
                 this_row = row[environment][package]
