@@ -511,6 +511,7 @@ target_platform: {self.subdir}
             raise Exception(f"'{package_fpath}' does not exist!")
             
         package_name = os.path.basename(package_fpath)
+        print(f"package_name='{package_name}'")
         environment, version, PY = package_name.split("-")
             
         print(f"Uploading : '{package_fpath}' ... ", end="", flush=True)
@@ -566,5 +567,4 @@ if __name__ == '__main__':
             if args.build:
                 archive_fpath = maxiconda.build(PY, environment)
                 if args.upload and (archive_fpath != ""):
-                    print(f">>>'{archive_fpath}' type = {type(archive_fpath)}")
                     maxiconda.upload(archive_fpath)
