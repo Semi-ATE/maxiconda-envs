@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# win-64/py38/_spyder_ (created Sunday September 05 2021 at 05:33:33 on linux-64)
+# win-64/py38/_spyder_ (created Monday September 06 2021 at 08:13:16 on linux-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
@@ -30,7 +30,7 @@ requirements:
     - numpy =1.21.2 =py38h089cfbf_0
     - pandas =1.3.2 =py38h5d928e2_0
     - scipy =1.7.1 =py38ha1292f7_0
-    - spyder =5.1.2 =py38haa244fe_0
+    - spyder =5.1.3 =py38haa244fe_0
     - spyder-remote-client =0.0.24 =pyhd8ed1ab_0
     - spyder-screencast =0.0.17 =py38haa244fe_0
     - spyder-terminal =1.1.0 =py38haa244fe_1

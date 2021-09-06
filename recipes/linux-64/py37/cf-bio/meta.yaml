@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# linux-64/py37/cf-bio (created Sunday September 05 2021 at 05:34:01 on linux-64)
+# linux-64/py37/cf-bio (created Monday September 06 2021 at 08:13:46 on linux-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
@@ -167,7 +167,7 @@ requirements:
     - qt =5.12.9 =hda022c4_4
     - readline =8.1 =h46c0cb4_0
     - reportlab =3.5.68 =py37h69800bb_0
-    - scikit-learn =0.24.2 =py37hf9e9bfc_1
+    - scikit-learn =0.24.2 =py37hf0f1638_1
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
     - setuptools =57.4.0 =py37h89c1867_0

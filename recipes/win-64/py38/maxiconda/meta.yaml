@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# win-64/py38/maxiconda (created Sunday September 05 2021 at 05:33:34 on linux-64)
+# win-64/py38/maxiconda (created Monday September 06 2021 at 08:13:17 on linux-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
@@ -26,7 +26,7 @@ requirements:
 
     # 25 primary packages :
     - beautifulsoup4 =4.9.3 =pyhb0f4dca_0
-    - bitarray =2.3.2 =py38h294d835_0
+    - bitarray =2.3.3 =py38h294d835_0
     - cython =0.29.24 =py38h885f38d_0
     - hypothesis =6.17.4 =pyhd8ed1ab_0
     - ipython =7.27.0 =py38h595d716_0
