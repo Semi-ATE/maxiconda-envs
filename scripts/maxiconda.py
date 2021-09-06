@@ -565,6 +565,6 @@ if __name__ == '__main__':
                 recipe_fpath = maxiconda.solve(PY, environment)
             if args.build:
                 archive_fpath = maxiconda.build(PY, environment)
-            if args.upload and (archive_fpath != ""):
-                print(f">>>{archive_fpath}")
-                maxiconda.upload(archive_fpath)
+                if args.upload and (archive_fpath != ""):
+                    print(f">>>'{archive_fpath}' type = {type(archive_fpath}")
+                    maxiconda.upload(archive_fpath)
