@@ -32,9 +32,9 @@ jobs:
     - name: build and upload meta-packages
       shell: bash -l {0}
       env:
-        MAXICONDA_ENV_RELEASE: ${GITHUB_REF##*/}
         CONDA_UPLOAD_TOKEN: ${{ secrets.CONDA_UPLOAD_TOKEN }}
       run: |
+        export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/}
         mkdir build
         cd build
         python -u ../scripts/maxiconda.py --build --upload $SUBDIR
