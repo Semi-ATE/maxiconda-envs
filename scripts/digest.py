@@ -139,6 +139,9 @@ def create_digest(args):
             this_row = row_offset + index
             this_cell = f"A{this_row}"
             ws[this_cell] = package
+            ws[this_cell].hyperlink = f"https://anaconda.org/conda-forge/{package}"
+            ws[this_cell].style = "Hyperlink"
+            
             row[environment][package] = this_row
             # set the background of the primary packages to red
             if package in primary_packages[environment] or package == "python":
