@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# win-64/py39/maxiconda (created Monday September 06 2021 at 08:13:26 on linux-64)
+# win-64/py39/maxiconda (created Monday September 06 2021 at 08:18:36 on linux-64)
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
