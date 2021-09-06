@@ -76,18 +76,18 @@ jobs:
           dir="${dir%/}"
           dir="${dir##*/}"
           if [[ "$dir" == *_recipes ]]; then
-	          target=${dir%_recipes}
-	          destination_dir="./recipes/${target}/"
+            target=${dir%_recipes}
+            destination_dir="./recipes/${target}/"
             source_dir="./${target}_recipes"
-	          if [ ! -d "$destination_dir" ]; then
-	            mkdir $destination_dir
-	          fi
-	          move="cp -rf $source_dir/* $destination_dir"
-	          echo $move
-	          $move
-	          remove="rm -rf $source_dir"
-	          echo $remove
-	          $remove
+            if [ ! -d "$destination_dir" ]; then
+              mkdir $destination_dir
+            fi
+            move="cp -rf $source_dir/* $destination_dir"
+            echo $move
+            $move
+            remove="rm -rf $source_dir"
+            echo $remove
+            $remove
           fi
         done
         
