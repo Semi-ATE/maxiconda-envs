@@ -58,9 +58,10 @@ jobs:
         echo export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/}
         python -u scripts/digest.py --build ${GITHUB_REF##*/}
 
-    - name: Upload the summary to release assets
+    - name: Upload the summary and the specs to release assets
       uses: alexellis/upload-assets@0.2.3
       env:
         GITHUB_TOKEN: ${{ github.token }}
       with:
-        asset_paths: '["maxiconda-envs.xlsx"]'
+        asset_paths: '["maxiconda-envs.xlsx", "specs.yaml"]'
+
