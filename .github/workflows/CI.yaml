@@ -90,10 +90,6 @@ jobs:
             $remove
           fi
         done
-        
-    - name: Display structure of downloaded files
-      run: tree
-        
 
 #     - name: Create the summary
 #       shell: bash -l {0}
@@ -108,33 +104,33 @@ jobs:
 #       with:
 #         asset_paths: '["maxiconda-envs.xlsx"]'
 
-#     - name: Commit recipes
-#       shell: bash -l {0}
-#       run: |
-#         export DATE=$(date +'%A %B %d, %Y')
-#         if [[ -n "$(git status --porcelain)" ]]; then
-#           echo "$(git status --porcelain)"
-#           git config --local user.email "action@github.com"
-#           git config --local user.name "GitHub Action"
-#           echo "git stash -u"
-#           git stash -u
-#           echo "git pull"
-#           git pull
-#           echo "git stash pop"
-#           git stash pop
-#           echo "git add -A"
-#           git add -A
-#           echo "git commit -m \"$DATE (${{ matrix.SUBDIR }})\""
-#           git commit -m "$DATE (${{ matrix.SUBDIR }})"
-#         else
-#           echo "Nothing to commit ($DATE)"
-#           git pull
-#         fi  
+    - name: Commit recipes
+      shell: bash -l {0}
+      run: |
+        export DATE=$(date +'%A %B %d, %Y')
+        if [[ -n "$(git status --porcelain)" ]]; then
+          echo "$(git status --porcelain)"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          echo "git stash -u"
+          git stash -u
+          echo "git pull"
+          git pull
+          echo "git stash pop"
+          git stash pop
+          echo "git add -A"
+          git add -A
+          echo "git commit -m \"$DATE\""
+          git commit -m "$DATE"
+        else
+          echo "Nothing to commit ($DATE)"
+          git pull
+        fi  
 
-#     - name: Push changes
-#       uses: ad-m/github-push-action@v0.6.0
-#       with:
-#         github_token: ${{ secrets.TOKEN_GITHUB }}
-#         branch: main
-#         directory: "../maxiconda-envs"
-#         repository: Semi-ATE/maxiconda-envs
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.TOKEN_GITHUB }}
+        branch: main
+        directory: "../maxiconda-envs"
+        repository: Semi-ATE/maxiconda-envs
