@@ -515,8 +515,7 @@ target_platform: {self.subdir}
         PY = package_name_parts[-1]
         version = package_name_parts[-2]
         environment = "-".join(package_name_parts[:-2]
-        print(f"package_name='{package_name}' --> environment='{environment}', version='{version}', PY='{PY}'")
-                                   
+                                  
 #        environment, version, PY = package_name.split("-")
             
         print(f"Uploading : '{package_fpath}' ... ", end="", flush=True)
