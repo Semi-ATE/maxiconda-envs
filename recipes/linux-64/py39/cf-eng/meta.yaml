@@ -2,7 +2,7 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# linux-64/py39/cf-eng (created Tuesday September 07 2021 at 00:13:01 on linux-64)
+# linux-64/py39/cf-eng
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
