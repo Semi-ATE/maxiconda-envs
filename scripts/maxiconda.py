@@ -419,49 +419,53 @@ target_platform: {self.subdir}
         print("Done.")
 
         print(f"  Writing : '{archive_name}' ... ", end="", flush=True)
-        with tempfile.TemporaryDirectory() as tmpdirname:
-            licenses_directory = os.path.join(tmpdirname, "licenses")
-            os.makedirs(licenses_directory, mode=0o777, exist_ok=True)
-            shutil.copyfile(self.license_fpath, os.path.join(tmpdirname, "licenses", "LICENSE0.txt"))
+        
+        tmpdirname = tempfile.mkdtemp(f"{self.subdir}_{PY}", f"{environment}_")
+        print(f"temporary directory = '{tmpdirname}'")
+        
+        licenses_directory = os.path.join(tmpdirname, "licenses")
+        os.makedirs(licenses_directory, mode=0o777, exist_ok=True)
+        shutil.copyfile(self.license_fpath, os.path.join(tmpdirname, "licenses", "LICENSE0.txt"))
 
-            recipe_directory = os.path.join(tmpdirname, "recipe")
-            os.makedirs(recipe_directory, mode=0o777, exist_ok=True)
-            shutil.copyfile(recipe_fpath, os.path.join(tmpdirname, "recipe", "meta.yaml.template"))
+        recipe_directory = os.path.join(tmpdirname, "recipe")
+        os.makedirs(recipe_directory, mode=0o777, exist_ok=True)
+        shutil.copyfile(recipe_fpath, os.path.join(tmpdirname, "recipe", "meta.yaml.template"))
 
-            with open(os.path.join(tmpdirname, "recipe", "conda_build_config.yaml"), "w", encoding="utf-8") as file:
-                file.write(CONDA_BUILD_CONFIG)
+        with open(os.path.join(tmpdirname, "recipe", "conda_build_config.yaml"), "w", encoding="utf-8") as file:
+            file.write(CONDA_BUILD_CONFIG)
 
-            file_loader = jinja2.FileSystemLoader(os.path.dirname(recipe_fpath))
-            env = jinja2.Environment(loader=file_loader)
-            template = env.get_template('meta.yaml')
-            env.globals.update(os=os)
-            output = '\n'.join(template.render().split('\n')[9:])
-            LOCATION = os.path.sep.join(os.path.dirname(recipe_fpath).split(os.path.sep)[-5:])
-            DATE = datetime.datetime.now().strftime("%A %B %d %Y @ %H:%M:%S")
-            with open(os.path.join(tmpdirname, "recipe", "meta.yaml"), "w") as fd:
-                fd.write("# This file is created by maxiconda-env/build\n")
-                fd.write(f"# meta.yaml template originally from 'https://github.com/Semi-ATE/{LOCATION}'\n")
-                fd.write(f"# Created on {DATE}\n")
-                fd.write("# ------------------------------------------------\n\n")
-                fd.write(output)
+        file_loader = jinja2.FileSystemLoader(os.path.dirname(recipe_fpath))
+        env = jinja2.Environment(loader=file_loader)
+        template = env.get_template('meta.yaml')
+        env.globals.update(os=os)
+        output = '\n'.join(template.render().split('\n')[9:])
+        LOCATION = os.path.sep.join(os.path.dirname(recipe_fpath).split(os.path.sep)[-5:])
+        DATE = datetime.datetime.now().strftime("%A %B %d %Y @ %H:%M:%S")
+        with open(os.path.join(tmpdirname, "recipe", "meta.yaml"), "w") as fd:
+            fd.write("# This file is created by maxiconda-env/build\n")
+            fd.write(f"# meta.yaml template originally from 'https://github.com/Semi-ATE/{LOCATION}'\n")
+            fd.write(f"# Created on {DATE}\n")
+            fd.write("# ------------------------------------------------\n\n")
+            fd.write(output)
 
-            with open(os.path.join(tmpdirname, "about.json"), "w", encoding="utf-8") as file:
-                json.dump(about, file, indent=2)
-            with open(os.path.join(tmpdirname, "files"), "w"):
-                pass
-            with open(os.path.join(tmpdirname, "git"), "w"):
-                pass
-            with open(os.path.join(tmpdirname, "hash_input.json"), "w", encoding="utf-8") as file:
-                json.dump({}, file, indent=2)
-            with open(os.path.join(tmpdirname, "index.json"), "w", encoding="utf-8") as file:
-                json.dump(index, file, indent=2)
-            with open(os.path.join(tmpdirname, "paths.json"), "w", encoding="utf-8") as file:
-                json.dump(PATHS, file, indent=2)
+        with open(os.path.join(tmpdirname, "about.json"), "w", encoding="utf-8") as file:
+            json.dump(about, file, indent=2)
+        with open(os.path.join(tmpdirname, "files"), "w"):
+            pass
+        with open(os.path.join(tmpdirname, "git"), "w"):
+            pass
+        with open(os.path.join(tmpdirname, "hash_input.json"), "w", encoding="utf-8") as file:
+            json.dump({}, file, indent=2)
+        with open(os.path.join(tmpdirname, "index.json"), "w", encoding="utf-8") as file:
+            json.dump(index, file, indent=2)
+        with open(os.path.join(tmpdirname, "paths.json"), "w", encoding="utf-8") as file:
+            json.dump(PATHS, file, indent=2)
 
-            with tarfile.open(archive_name, mode='w:bz2') as archive:
-                archive.add(tmpdirname, recursive=True, arcname="info")
-                
-            tmpdirname.cleanup()  # Shouldn't bee necessary !
+        with tarfile.open(archive_name, mode='w:bz2') as archive:
+            archive.add(tmpdirname, recursive=True, arcname="info")
+
+        shutil.rmtree(tmpdirname)
+
         print("Done.")
 
         return archive_name
