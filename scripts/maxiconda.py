@@ -181,7 +181,7 @@ class Maxiconda:
                 fh.write("#\n# Copyright (c) Semi-ATE\n")
                 fh.write("# Distributed under the terms of the MIT License\n")
                 fh.write("#\n")
-                fh.write(f"# {self.subdir}/{PY}/{environment} (created {datetime.datetime.now().strftime('%A %B %d %Y at %H:%M:%S')} on {self.get_platform_subdir()})\n")
+                fh.write(f"# {self.subdir}/{PY}/{environment}\n")
                 fh.write("#\n\n")
                 fh.write('{% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}\n')
                 fh.write("\n")
