@@ -460,6 +460,8 @@ target_platform: {self.subdir}
 
             with tarfile.open(archive_name, mode='w:bz2') as archive:
                 archive.add(tmpdirname, recursive=True, arcname="info")
+                
+            tmpdirname.cleanup()  # Shouldn't bee necessary !
         print("Done.")
 
         return archive_name
