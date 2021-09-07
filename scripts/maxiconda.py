@@ -34,6 +34,11 @@ class Maxiconda:
         self.specs_fpath = os.path.join(self.repo_root, "specs.yaml")
         self.recipe_root = os.path.join(self.repo_root, "recipes")
         self.license_fpath = os.path.join(self.repo_root, "LICENSE")
+        self.build_root = os.path.join(self.repo_root, "build", self.subdir)
+
+        if os.path.exists(self.build_root):
+            shutil.rmtree(self.build_root)
+        os.makedirs(self.build_root)
 
         with open(self.specs_fpath) as fd:
             self.specs = yaml.load(fd, Loader=yaml.FullLoader)
@@ -269,7 +274,7 @@ class Maxiconda:
                 
         return data, feedback
 
-    def build(self, PY:str, environment:str, output_path:str=os.getcwd()) -> str:
+    def build(self, PY:str, environment:str) -> str:
         print(f"Building : {self.subdir}/{PY}/{environment}")
         
         recipe_fpath = os.path.join(self.recipe_root, self.subdir, PY, environment, "meta.yaml")
@@ -277,11 +282,9 @@ class Maxiconda:
             self.log(PY, environment, f"'{recipe_fpath}' does not exist!", prefix="  Aborting : ")
             return ""
 
-        if not os.path.exists(output_path):
-            os.makedirs(output_path, exist_ok=True)
-        archive_name = os.path.join(output_path, f"{environment}-{self.build_version}-{PY}.tar.bz2") 
+        archive_name = os.path.join(self.build_root, f"{environment}-{self.build_version}-{PY}.tar.bz2") 
         if os.path.exists(archive_name):
-            os.remove(archive_name)
+            raise Exception(f"'{archive_name}' already exists")
             
         print(f"  Analyzing : '{recipe_fpath}' ... ", end="", flush=True)
         OS, CPU = self.subdir.split("-")
@@ -421,7 +424,6 @@ target_platform: {self.subdir}
         print(f"  Writing : '{archive_name}' ... ", end="", flush=True)
         
         tmpdirname = tempfile.mkdtemp(f"{self.subdir}_{PY}", f"{environment}_")
-        print(f"temporary directory = '{tmpdirname}'")
         
         licenses_directory = os.path.join(tmpdirname, "licenses")
         os.makedirs(licenses_directory, mode=0o777, exist_ok=True)
