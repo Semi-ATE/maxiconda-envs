@@ -85,6 +85,8 @@ jobs:
 
     - name: Upload to anaconda.org
       shell: bash -l {0}
+      env:
+        CONDA_UPLOAD_TOKEN: ${{ secrets.CONDA_UPLOAD_TOKEN }}      
       run: |
         export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/}
         python -u scripts/release.py
