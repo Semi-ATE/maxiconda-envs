@@ -68,7 +68,6 @@ def do_upload(fpath):
     
     retval = True
     cmd = ["anaconda", "-t", os.environ.get("CONDA_UPLOAD_TOKEN", "Woops"), "upload", "-u", "semi-ate", fpath, "--force"]
-    print(" ".join(cmd))
     p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     _, output = p.communicate()
     output_lines = output.decode("utf-8").split("\n")  
