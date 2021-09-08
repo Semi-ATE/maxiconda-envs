@@ -472,91 +472,15 @@ target_platform: {self.subdir}
 
         return archive_name
 
-    def is_uploadable(self, package_fpath):
-        """
-        Determines if `package_fpath` is uploadable.
-
-        if the version is '0.0.0' this means it is a test build, and that is not uploaded.
-        if `package_fpath` doesn't point to an existing file, obviously it is not uploadable.
-        `package_fpath needs to be a string.
-        `package_fpath` must end with '.tar.bz2'.
-        
-        Parameters
-        ----------
-        package_fpath : str
-            path to the package.
-
-        Returns
-        -------
-        True : if all conditons are fulfilled..
-        False : if one or more conditions are not fulfilled. 
-        """
-        if not isinstance(package_fpath, str):
-            return False
-        if not package_fpath.endswith(".tar.bz2"):
-            return False
-        retval = os.path.basename(package_fpath)
-        retval = retval.split("-")[1]
-        retval = not (retval == "0.0.0")
-        return retval
-
-    def upload(self, package_fpath):
-        """
-        This function uploads the package pointed to by package_fpath to anaconda.org/Semi-ATE
-        It uses the CONDA_UPLOAD_TOKEN environment variable to do so.
-
-        Parameters
-        ----------
-        package_fpath : str that points to a valid meta.yaml file under recipes.
-
-        Returns
-        -------
-        bool (True for success, False for failure)
-        """
-
-        package_fpath = os.path.normpath(package_fpath)
-        if not os.path.exists(package_fpath):
-            raise Exception(f"'{package_fpath}' does not exist!")
-            
-        package_name = os.path.basename(package_fpath)
-        package_name_parts = package_name.split("-")
-        PY = package_name_parts[-1].split(".")[0]
-        version = package_name_parts[-2]
-        environment = "-".join(package_name_parts[:-2])
-
-        print(f"Uploading : '{package_fpath}' ... ", end="", flush=True)
-        if self.is_uploadable(package_fpath):
-            retval = True
-            cmd = ["anaconda", "-t", os.environ.get("CONDA_UPLOAD_TOKEN", "Woops"), "upload", "-u", "semi-ate", package_fpath, "--force"]
-            p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-            _, output = p.communicate()
-            output_lines = output.decode("utf-8").split("\n")  
-    
-            for output_line in output_lines:
-                if "[ERROR]" in output_line:
-                    retval = False
-                    
-            if retval == False:
-                print("FAIL.")
-                for output_line in output_lines:
-                    self.log(PY, environment, f"{output_line}", prefix="    ")
-            else:
-                print("Done.")
-        else:
-            print("FAIL (file not uploadable)")
-            retval = False
-        return retval
-
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('SUBDIR', type=str, default="*", help=f"The SUBDIR to work with. {supported_subdirs}")
     parser.add_argument('--solve', action='store_true')
     parser.add_argument('--build', action='store_true')
-    parser.add_argument('--upload', action='store_true')
     args = parser.parse_args()
     
-    if args.solve == args.build == args.upload == False:
-        print("Error: At least one action needs to be given (--solve --build --upload --digest)")
+    if args.solve == args.build == False:
+        print("Error: At least one action needs to be given (--solve --build)")
         parser.print_help()
         sys.exit(1)
     
@@ -564,11 +488,7 @@ if __name__ == '__main__':
         print(f"Error: '{args.SUBDIR}' is not supported, should be one of {supported_subdirs}")
         parser.print_help()
         sys.exit(1)
-        
-    if args.upload and not args.build:
-        print("Warning: --upload implies --build")
-        args.build = True
-        
+                
     maxiconda = Maxiconda(args.SUBDIR)
     for PY in maxiconda.targets:
         for environment in maxiconda.targets[PY]:
@@ -576,5 +496,3 @@ if __name__ == '__main__':
                 recipe_fpath = maxiconda.solve(PY, environment)
             if args.build:
                 archive_fpath = maxiconda.build(PY, environment)
-                if args.upload and (archive_fpath != ""):
-                    maxiconda.upload(archive_fpath)
