@@ -3,12 +3,8 @@
 
 import os
 import subprocess
-import time
 
 from maxiconda import supported_subdirs
-
-SUBDIR_SLEEP = 2*60  # 2 minutes
-PACKAGE_SLEEP = 10  # seconds
 
 def release():
     """
@@ -47,8 +43,6 @@ def release():
                 for upload_file in upload_files:
                     if upload_file.endswith(".tar.bz2") and (build_version in upload_file):
                         do_upload(os.path.join(upload_dir, upload_file))
-                        time.sleep(PACKAGE_SLEEP)                        
-            time.sleep(SUBDIR_SLEEP)
         else:
             print(f"nothing to upload. ('build/{subdir}' does not exist)")
 
