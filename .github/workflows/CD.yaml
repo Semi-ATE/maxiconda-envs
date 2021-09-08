@@ -69,7 +69,7 @@ jobs:
             destination_dir="./build/${target}/"
             source_dir="./${target}_packages"
             mkdir $destination_dir
-            copy="cp -rf $source_dir/* $destination_dir"
+            copy="cp -rfv $source_dir/* $destination_dir"
             echo $copy
             $copy
             remove="rm -rf $source_dir"
