@@ -71,7 +71,6 @@ jobs:
             subdir=${dir%_packages}
             source_dir="./${subdir}_packages/${subdir}"
             destination_dir="./build/"
-            mkdir $destination_dir
             copy="cp -rv $source_dir $destination_dir"
             echo $copy
             $copy
