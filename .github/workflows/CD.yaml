@@ -71,7 +71,6 @@ jobs:
             target=${dir%_packages}
             destination_dir="./build/"
             source_dir="./${target}_packages"
-            mkdir $destination_dir
             copy="cp -rfv $source_dir/* $destination_dir"
             echo $copy
             $copy
