@@ -27,7 +27,7 @@ jobs:
     - name: Install mamba & environment
       uses: mamba-org/provision-with-micromamba@v10
 
-    - name: build and upload meta-packages
+    - name: build meta-packages
       shell: bash -l {0}
       env:
         CONDA_UPLOAD_TOKEN: ${{ secrets.CONDA_UPLOAD_TOKEN }}
@@ -37,7 +37,7 @@ jobs:
         cd build
         python -u ../scripts/maxiconda.py --build $SUBDIR
 
-    - name: Upload build packages
+    - name: Upload meta-packages to artifacts
       uses: actions/upload-artifact@v2
       with:
         name: ${{ matrix.SUBDIR }}_packages
@@ -54,12 +54,13 @@ jobs:
     - name: Install mamba & environment
       uses: mamba-org/provision-with-micromamba@v10
 
-    - name: Download *ALL* Build Artifacts
+    - name: Download meta-packages from artifacts
       uses: actions/download-artifact@v2
 
     - name: Move packages into place
       shell: bash -l {0}
       run: |
+        mkdir ./build
         for dir in ./*/; do
           dir="${dir%/}"
           dir="${dir##*/}"
@@ -67,9 +68,7 @@ jobs:
             target=${dir%_packages}
             destination_dir="./build/${target}/"
             source_dir="./${target}_packages"
-            if [ ! -d "$destination_dir" ]; then
-              mkdir $destination_dir
-            fi
+            mkdir $destination_dir
             copy="cp -rf $source_dir/* $destination_dir"
             echo $copy
             $copy
