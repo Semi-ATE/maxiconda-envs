@@ -68,13 +68,12 @@ jobs:
           dir="${dir%/}"
           dir="${dir##*/}"
           if [[ "$dir" == *_packages ]]; then
-            target=${dir%_packages}
-            destination_dir="./build/"
-            source_dir="./${target}_packages"
-            copy="cp -rfv $source_dir/* $destination_dir"
-            echo $copy
-            $copy
-            remove="rm -rf $source_dir"
+            subdir=${dir%_packages}
+            source_dir="./${target}_packages/${target}"
+            move="mv $source_dir ./build/"
+            echo $move
+            $mv
+            remove="rm -rf $dir"
             echo $remove
             $remove
           fi
