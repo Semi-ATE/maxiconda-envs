@@ -5,7 +5,7 @@ on:
     types: [created]
 
 jobs:
-  build_and_upload:
+  build:
     name: ${{ matrix.SUBDIR }}
     runs-on: ubuntu-latest
     env:
@@ -20,11 +20,9 @@ jobs:
           - SUBDIR: osx-64
           - SUBDIR: osx-arm64
     steps:  
+    
     - name: Checkout code
       uses: actions/checkout@v2
-      with:
-        persist-credentials: false  # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
-        fetch-depth: 0  # otherwise, you will failed to push refs to dest repo
 
     - name: Install mamba & environment
       uses: mamba-org/provision-with-micromamba@v10
@@ -37,20 +35,53 @@ jobs:
         export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/}
         mkdir build
         cd build
-        python -u ../scripts/maxiconda.py --build --upload $SUBDIR
+        python -u ../scripts/maxiconda.py --build $SUBDIR
 
-  digest:
+    - name: Upload build packages
+      uses: actions/upload-artifact@v2
+      with:
+        name: ${{ matrix.SUBDIR }}_packages
+        path: build/
+
+  release:
     runs-on: ubuntu-latest
-    needs: build_and_upload
+    needs: build
     steps:
+    
     - name: Checkout code
       uses: actions/checkout@v2
-      with:
-        persist-credentials: false  # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
-        fetch-depth: 0  # otherwise, you will failed to push refs to dest repo
 
     - name: Install mamba & environment
       uses: mamba-org/provision-with-micromamba@v10
+
+    - name: Download *ALL* Build Artifacts
+      uses: actions/download-artifact@v2
+
+    - name: Move packages into place
+      shell: bash -l {0}
+      run: |
+        for dir in ./*/; do
+          dir="${dir%/}"
+          dir="${dir##*/}"
+          if [[ "$dir" == *_packages ]]; then
+            target=${dir%_packages}
+            destination_dir="./build/${target}/"
+            source_dir="./${target}_packages"
+            if [ ! -d "$destination_dir" ]; then
+              mkdir $destination_dir
+            fi
+            copy="cp -rf $source_dir/* $destination_dir"
+            echo $copy
+            $copy
+            remove="rm -rf $source_dir"
+            echo $remove
+            $remove
+          fi
+        done
+
+    - name: Upload to anaconda.org
+      shell: bash -l {0}
+      run: python -u scripts/release.py
 
     - name: Create the summary
       shell: bash -l {0}
