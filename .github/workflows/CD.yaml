@@ -80,7 +80,9 @@ jobs:
 
     - name: Upload to anaconda.org
       shell: bash -l {0}
-      run: python -u scripts/release.py
+      run: |
+        export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/}
+        python -u scripts/release.py
 
     - name: Create the summary
       shell: bash -l {0}
