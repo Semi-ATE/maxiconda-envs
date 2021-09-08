@@ -57,9 +57,6 @@ jobs:
     - name: Download meta-packages from artifacts
       uses: actions/download-artifact@v2
 
-    - name: look around
-      run: tree
-
     - name: Move packages into place
       shell: bash -l {0}
       run: |
@@ -79,9 +76,6 @@ jobs:
             $remove
           fi
         done
-
-    - name: look around
-      run: tree
 
     - name: Upload to anaconda.org
       shell: bash -l {0}
