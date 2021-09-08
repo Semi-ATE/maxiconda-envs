@@ -29,6 +29,7 @@ def release():
     for subdir in supported_subdirs:
         upload_dir = os.path.join(build_root, subdir)
         print(f"  {subdir} : ", end="", flush=True)
+        os.environ["CONDA_SUBDIR"] = subdir
         if os.path.exists(upload_dir):
             upload_files = os.listdir(upload_dir)
             files_to_upload = 0
