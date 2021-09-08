@@ -67,6 +67,7 @@ def do_upload(fpath):
     output_lines = output.decode("utf-8").split("\n")  
 
     for output_line in output_lines:
+        print(output_line)
         if "[ERROR]" in output_line:
             retval = False
             
