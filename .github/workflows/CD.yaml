@@ -69,7 +69,7 @@ jobs:
           dir="${dir##*/}"
           if [[ "$dir" == *_packages ]]; then
             subdir=${dir%_packages}
-            source_dir="./${target}_packages/${target}"
+            source_dir="./${subdir}_packages/${subdir}"
             move="mv $source_dir ./build/"
             echo $move
             $mv
