@@ -66,6 +66,7 @@ environments:
     - hypothesis
     - pyyaml
     - jinja2
+    - rust
 
   cf-data:
     - spyder-kernels
