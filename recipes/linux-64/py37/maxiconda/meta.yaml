@@ -28,7 +28,7 @@ requirements:
     - beautifulsoup4 =4.10.0 =pyha770c72_0
     - bitarray =2.3.3 =py37h5e8e339_0
     - cython =0.29.24 =py37hcd2ae1e_0
-    - hypothesis =6.19.0 =pyhd8ed1ab_0
+    - hypothesis =6.20.0 =pyhd8ed1ab_0
     - ipython =7.27.0 =py37h6531663_0
     - jinja2 =3.0.1 =pyhd8ed1ab_0
     - matplotlib =3.4.3 =py37h89c1867_0
@@ -47,7 +47,7 @@ requirements:
     - scipy =1.7.1 =py37hf2a6cf1_0
     - spyder-kernels =2.1.1 =py37h89c1867_0
     - sqlalchemy =1.4.23 =py37h5e8e339_0
-    - sqlite =3.36.0 =h9cd32fc_0
+    - sqlite =3.36.0 =h9cd32fc_1
     - sympy =1.8 =py37h89c1867_0
     - tqdm =4.62.2 =pyhd8ed1ab_0
 
@@ -84,14 +84,14 @@ requirements:
     - gmp =6.2.1 =h58526e2_0
     - gmpy2 =2.1.0b5 =py37h025e8b9_0
     - greenlet =1.1.1 =py37hcd2ae1e_0
-    - gst-plugins-base =1.18.4 =hf529b03_2
-    - gstreamer =1.18.4 =h76c114f_2
+    - gst-plugins-base =1.18.5 =hf529b03_0
+    - gstreamer =1.18.5 =h76c114f_0
     - icu =68.1 =h58526e2_0
     - idna =3.1 =pyhd3deb0d_0
     - importlib-metadata =4.8.1 =py37h89c1867_0
     - importlib_metadata =4.8.1 =hd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
-    - ipykernel =6.3.1 =py37h6531663_0
+    - ipykernel =6.4.0 =py37h6531663_0
     - ipython_genutils =0.2.0 =py_1
     - jbig =2.1 =h7f98852_2003
     - jdcal =1.4.1 =py_0
@@ -179,7 +179,7 @@ requirements:
     - qt =5.12.9 =hda022c4_4
     - qtpy =1.11.0 =pyhd8ed1ab_0
     - readline =8.1 =h46c0cb4_0
-    - setuptools =58.0.3 =py37h89c1867_0
+    - setuptools =58.0.4 =py37h89c1867_0
     - six =1.16.0 =pyh6c4a22f_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
     - soupsieve =2.0.1 =py37hc8dfbb8_0

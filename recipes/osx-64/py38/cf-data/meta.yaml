@@ -41,7 +41,7 @@ requirements:
     - seaborn =0.11.2 =hd8ed1ab_0
     - spyder-kernels =2.1.1 =py38h50d1736_0
     - sqlalchemy =1.4.23 =py38h96a0964_0
-    - sqlite =3.36.0 =h23a322b_0
+    - sqlite =3.36.0 =h23a322b_1
     - statsmodels =0.12.2 =py38hbe852b5_0
     - xgboost =1.4.0 =py38hbb4f172_0
 
@@ -132,7 +132,7 @@ requirements:
     - importlib-metadata =4.8.1 =py38h50d1736_0
     - importlib_metadata =4.8.1 =hd8ed1ab_0
     - incremental =21.3.0 =pyhd8ed1ab_0
-    - ipykernel =6.3.1 =py38h5fd9f69_0
+    - ipykernel =6.4.0 =py38h5fd9f69_0
     - ipython =7.27.0 =py38h5fd9f69_0
     - ipython_genutils =0.2.0 =py_1
     - ipywidgets =7.6.4 =pyhd8ed1ab_0
@@ -171,7 +171,7 @@ requirements:
     - librsvg =2.50.7 =hd2a7919_0
     - libsodium =1.0.18 =hbcb3906_1
     - libtiff =4.3.0 =h1167814_1
-    - libtool =2.4.6 =h2e338ed_1007
+    - libtool =2.4.6 =he49afe7_1008
     - libwebp =1.2.1 =h28dabe5_0
     - libwebp-base =1.2.1 =h0d85af4_0
     - libxgboost =1.4.0 =he49afe7_0
@@ -261,7 +261,7 @@ requirements:
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - service_identity =18.1.0 =py_0
-    - setuptools =58.0.3 =py38h50d1736_0
+    - setuptools =58.0.4 =py38h50d1736_0
     - shellingham =1.4.0 =pyh44b312d_0
     - six =1.16.0 =pyh6c4a22f_0
     - sleef =3.5.1 =h35c211d_1

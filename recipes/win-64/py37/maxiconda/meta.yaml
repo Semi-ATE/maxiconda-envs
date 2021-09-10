@@ -28,7 +28,7 @@ requirements:
     - beautifulsoup4 =4.10.0 =pyha770c72_0
     - bitarray =2.3.3 =py37hcc03f2d_0
     - cython =0.29.24 =py37hf2a7229_0
-    - hypothesis =6.19.0 =pyhd8ed1ab_0
+    - hypothesis =6.20.0 =pyhd8ed1ab_0
     - ipython =7.27.0 =py37h4038f58_0
     - jinja2 =3.0.1 =pyhd8ed1ab_0
     - matplotlib =3.4.3 =py37h03978a9_0
@@ -47,7 +47,7 @@ requirements:
     - scipy =1.7.1 =py37hb6553fb_0
     - spyder-kernels =2.1.1 =py37h03978a9_0
     - sqlalchemy =1.4.23 =py37hcc03f2d_0
-    - sqlite =3.36.0 =h8ffe710_0
+    - sqlite =3.36.0 =h8ffe710_1
     - sympy =1.8 =py37h03978a9_0
     - tqdm =4.62.2 =pyhd8ed1ab_0
 
@@ -80,7 +80,7 @@ requirements:
     - importlib_metadata =4.8.1 =hd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
     - intel-openmp =2021.3.0 =h57928b3_3372
-    - ipykernel =6.3.1 =py37h4038f58_0
+    - ipykernel =6.4.0 =py37h4038f58_0
     - ipython_genutils =0.2.0 =py_1
     - jbig =2.1 =h8d14728_2003
     - jdcal =1.4.1 =py_0
@@ -140,7 +140,7 @@ requirements:
     - pyzmq =22.2.1 =py37hcce574b_0
     - qt =5.12.9 =h5909a2a_4
     - qtpy =1.11.0 =pyhd8ed1ab_0
-    - setuptools =58.0.3 =py37h03978a9_0
+    - setuptools =58.0.4 =py37h03978a9_0
     - six =1.16.0 =pyh6c4a22f_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
     - soupsieve =2.0.1 =py37hc8dfbb8_0

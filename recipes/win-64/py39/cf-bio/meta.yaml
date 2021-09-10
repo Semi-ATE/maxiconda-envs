@@ -64,7 +64,7 @@ requirements:
     - hdf5 =1.10.6 =nompi_h5268f04_1114
     - icu =68.1 =h0e60522_0
     - intel-openmp =2021.3.0 =h57928b3_3372
-    - ipykernel =6.3.1 =py39h832f523_0
+    - ipykernel =6.4.0 =py39h832f523_0
     - ipython =7.27.0 =py39h832f523_0
     - ipython_genutils =0.2.0 =py_1
     - jbig =2.1 =h8d14728_2003
@@ -136,10 +136,10 @@ requirements:
     - scikit-learn =0.24.2 =py39h74df8f2_1
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
-    - setuptools =58.0.3 =py39hcbf5309_0
+    - setuptools =58.0.4 =py39hcbf5309_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.23 =py39hb82d6ee_0
-    - sqlite =3.36.0 =h8ffe710_0
+    - sqlite =3.36.0 =h8ffe710_1
     - statsmodels =0.12.2 =py39h5d4886f_0
     - tbb =2021.3.0 =h2d74725_0
     - threadpoolctl =2.2.0 =pyh8a188c0_0
