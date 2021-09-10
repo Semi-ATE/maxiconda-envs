@@ -41,6 +41,9 @@ environments:
 
   maxiconda:
     - spyder-kernels
+    - r-essentials
+    - r-base
+    - rust
     - bitarray
     - cython
     - matplotlib
@@ -66,7 +69,6 @@ environments:
     - hypothesis
     - pyyaml
     - jinja2
-    - rust
 
   cf-data:
     - spyder-kernels
