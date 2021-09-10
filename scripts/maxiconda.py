@@ -300,7 +300,7 @@ class Maxiconda:
             for line in fd:
                 line = line.lstrip()
                 if line.startswith("number:"):
-                    BUILD_NUMBER = line.split(":")[-1].strip()
+                    BUILD_NUMBER = int(line.split(":")[-1].strip())
                     deps = False
                     maintainers = False
                 if line.startswith("string:"):
