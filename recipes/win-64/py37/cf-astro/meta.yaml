@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =h7840368_100_cpython
+    - python =3.7.10 =h7840368_101_cpython
   run:
-    - python =3.7.10 =h7840368_100_cpython
+    - python =3.7.10 =h7840368_101_cpython
 
     # 1 primary packages :
     - spyder-kernels =2.1.1 =py37h03978a9_0

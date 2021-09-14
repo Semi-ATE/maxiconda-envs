@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =h7728216_100_cpython
+    - python =3.7.10 =haf480d7_101_cpython
   run:
-    - python =3.7.10 =h7728216_100_cpython
+    - python =3.7.10 =haf480d7_101_cpython
 
     # 7 primary packages :
     - numpy =1.21.2 =py37haefe36b_0
@@ -56,7 +56,7 @@ requirements:
     - libblas =3.9.0 =11_osx64_openblas
     - libcblas =3.9.0 =11_osx64_openblas
     - libcxx =12.0.1 =habf9029_0
-    - libffi =3.3 =h046ec9c_2
+    - libffi =3.4.2 =he49afe7_1
     - libgfortran =5.0.0 =9_3_0_h6c81a4c_23
     - libgfortran5 =9.3.0 =h6c81a4c_23
     - liblapack =3.9.0 =11_osx64_openblas

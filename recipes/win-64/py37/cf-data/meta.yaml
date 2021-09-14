@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =h7840368_100_cpython
+    - python =3.7.10 =h7840368_101_cpython
   run:
-    - python =3.7.10 =h7840368_100_cpython
+    - python =3.7.10 =h7840368_101_cpython
 
     # 18 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -205,7 +205,7 @@ requirements:
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pandoc =2.14.2 =h8ffe710_0
     - pandocfilters =1.4.2 =py_1
-    - pango =1.48.9 =hd84fcdd_0
+    - pango =1.48.10 =hd84fcdd_0
     - parsel =1.6.0 =py_0
     - parso =0.8.2 =pyhd8ed1ab_0
     - pathy =0.6.0 =pyhd8ed1ab_0
