@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.10 =h4f4e160_1_cpython
+    - python =3.8.10 =h9f07fca_2_cpython
   run:
-    - python =3.8.10 =h4f4e160_1_cpython
+    - python =3.8.10 =h9f07fca_2_cpython
 
     # 8 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -47,7 +47,7 @@ requirements:
     - brotlipy =0.7.0 =py38h9544abe_1001
     - ca-certificates =2021.5.30 =h4fd8a4c_0
     - certifi =2021.5.30 =py38h2063c64_0
-    - cffi =1.14.6 =py38hba996e7_0
+    - cffi =1.14.6 =py38hc42474b_1
     - chardet =4.0.0 =py38h2063c64_1
     - charset-normalizer =2.0.0 =pyhd8ed1ab_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
@@ -66,7 +66,7 @@ requirements:
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.7.1 =py38h2063c64_0
     - ld_impl_linux-aarch64 =2.36.1 =h02ad14f_2
-    - libffi =3.3 =h884eca8_2
+    - libffi =3.4.2 =h3621d8e_1
     - libgcc-ng =11.1.0 =h3322914_8
     - libgomp =11.1.0 =h3322914_8
     - libsodium =1.0.18 =hb9de7d4_1

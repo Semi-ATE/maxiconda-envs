@@ -30,22 +30,22 @@ requirements:
     - mdanalysis =2.0.0 =py37hd8d24ac_1
     - numpy =1.21.2 =py37haefe36b_0
     - pandas =1.3.3 =py37h5b83a90_0
-    - rdkit =2018.09.1 =py37hdb4e85a_1000
+    - rdkit =2021.03.5 =py37h9710f2f_0
     - scipy =1.7.1 =py37h4e3cf02_0
     - spyder-kernels =2.1.1 =py37hf985489_0
 
-    # 116 secondary packages :
+    # 119 secondary packages :
     - appnope =0.1.2 =py37hf985489_1
     - argcomplete =1.12.3 =pyhd8ed1ab_2
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
-    - boost =1.68.0 =py37h9888f84_1001
-    - boost-cpp =1.68.0 =h6f8c590_1000
+    - boost =1.74.0 =py37h9bf10a3_3
+    - boost-cpp =1.74.0 =hff03dee_4
     - bzip2 =1.0.8 =h0d85af4_4
     - c-ares =1.17.2 =h0d85af4_0
     - ca-certificates =2021.5.30 =h033912b_0
-    - cairo =1.14.12 =he6fea26_5
+    - cairo =1.16.0 =he43a7df_1008
     - certifi =2021.5.30 =py37hf985489_0
     - cftime =1.5.0 =py37h238668a_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
@@ -54,15 +54,15 @@ requirements:
     - cycler =0.10.0 =py_2
     - debugpy =1.4.1 =py37hd8d24ac_0
     - decorator =4.4.2 =py_0
-    - fontconfig =2.13.1 =h1027ab8_1000
+    - fontconfig =2.13.1 =h10f422b_1005
     - freetype =2.10.4 =h4cff582_1
-    - gettext =0.19.8.1 =h1f1d5ed_1
-    - glib =2.55.0 =0
+    - gettext =0.19.8.1 =hd1a6beb_1006
+    - greenlet =1.1.1 =py37hd8d24ac_0
     - griddataformats =0.5.0 =py_0
     - gsd =2.4.2 =py37h238668a_0
     - hdf4 =4.2.15 =hefd3b78_3
     - hdf5 =1.12.1 =nompi_h2f0ef1a_100
-    - icu =58.2 =h0a44026_1000
+    - icu =68.1 =h74dc148_0
     - importlib-metadata =4.8.1 =py37hf985489_0
     - importlib_metadata =4.8.1 =hd8ed1ab_0
     - ipykernel =6.4.0 =py37h4c52d7d_0
@@ -88,7 +88,8 @@ requirements:
     - libffi =3.4.2 =he49afe7_1
     - libgfortran =5.0.0 =9_3_0_h6c81a4c_23
     - libgfortran5 =9.3.0 =h6c81a4c_23
-    - libiconv =1.15 =h0b31af3_1006
+    - libglib =2.68.4 =hf1fb8c0_1
+    - libiconv =1.16 =haf1e3a3_0
     - liblapack =3.9.0 =11_osx64_openblas
     - libnetcdf =4.8.1 =nompi_h6609ca0_101
     - libnghttp2 =1.43.0 =h07e645a_0
@@ -98,7 +99,7 @@ requirements:
     - libssh2 =1.10.0 =h52ee1ee_0
     - libtiff =4.3.0 =h1167814_1
     - libwebp-base =1.2.1 =h0d85af4_0
-    - libxml2 =2.9.9 =hd80cff7_2
+    - libxml2 =2.9.12 =h93ec3fd_0
     - libzip =1.8.0 =h8b0c345_0
     - llvm-openmp =12.0.1 =hda6cdc1_1
     - lz4-c =1.9.3 =he49afe7_1
@@ -119,10 +120,10 @@ requirements:
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pillow =8.3.2 =py37h76dc067_0
     - pip =21.2.4 =pyhd8ed1ab_0
-    - pixman =0.34.0 =h1de35cc_1003
+    - pixman =0.40.0 =hbcb3906_0
     - prompt-toolkit =3.0.20 =pyha770c72_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pycairo =1.18.0 =py37ha54c0a8_1000
+    - pycairo =1.20.1 =py37hac2abfc_0
     - pygments =2.10.0 =pyhd8ed1ab_0
     - pyparsing =2.4.7 =pyh9f0ad1d_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
@@ -130,11 +131,13 @@ requirements:
     - pytz =2021.1 =pyhd8ed1ab_0
     - pyzmq =22.2.1 =py37h8f778e5_0
     - readline =8.1 =h05e3726_0
+    - reportlab =3.5.68 =py37h08983f2_0
     - scikit-learn =0.24.2 =py37h5a4fc86_1
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
     - setuptools =58.0.4 =py37hf985489_0
     - six =1.16.0 =pyh6c4a22f_0
+    - sqlalchemy =1.4.23 =py37h271585c_0
     - sqlite =3.36.0 =h23a322b_1
     - statsmodels =0.12.2 =py37h032687b_0
     - threadpoolctl =2.2.0 =pyh8a188c0_0

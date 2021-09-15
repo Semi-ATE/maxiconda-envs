@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =hffdb5ce_100_cpython
+    - python =3.7.10 =hb7a2778_101_cpython
   run:
-    - python =3.7.10 =hffdb5ce_100_cpython
+    - python =3.7.10 =hb7a2778_101_cpython
 
     # 28 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -76,7 +76,7 @@ requirements:
     - ca-certificates =2021.5.30 =ha878542_0
     - cairo =1.16.0 =h6cf1ce9_1008
     - certifi =2021.5.30 =py37h89c1867_0
-    - cffi =1.14.6 =py37hc58025e_0
+    - cffi =1.14.6 =py37h036bc23_1
     - chardet =4.0.0 =py37h89c1867_1
     - charset-normalizer =2.0.0 =pyhd8ed1ab_0
     - click =8.0.1 =py37h89c1867_0
@@ -103,11 +103,11 @@ requirements:
     - fribidi =1.0.10 =h36c2ea0_0
     - gcc_impl_linux-64 =9.4.0 =h03d3576_8
     - gcc_linux-64 =9.4.0 =h391b98a_1
-    - gettext =0.19.8.1 =h0b5b191_1005
+    - gettext =0.19.8.1 =h73d1719_1006
     - gfortran_impl_linux-64 =9.4.0 =h0003116_8
     - gfortran_linux-64 =9.4.0 =hf0ab688_1
-    - glib =2.68.4 =h9c3ff4c_0
-    - glib-tools =2.68.4 =h9c3ff4c_0
+    - glib =2.68.4 =h9c3ff4c_1
+    - glib-tools =2.68.4 =h9c3ff4c_1
     - gmp =6.2.1 =h58526e2_0
     - gmpy2 =2.1.0b5 =py37h025e8b9_0
     - graphite2 =1.3.13 =h58526e2_1001
@@ -147,12 +147,12 @@ requirements:
     - libedit =3.1.20191231 =he28a2e2_2
     - libev =4.33 =h516909a_1
     - libevent =2.1.10 =hcdb4288_3
-    - libffi =3.3 =h58526e2_2
+    - libffi =3.4.2 =h9c3ff4c_1
     - libgcc-devel_linux-64 =9.4.0 =hd854feb_8
     - libgcc-ng =11.1.0 =hc902ee8_8
     - libgfortran-ng =11.1.0 =h69a702a_8
     - libgfortran5 =11.1.0 =h6c583b3_8
-    - libglib =2.68.4 =h3e27bee_0
+    - libglib =2.68.4 =h174f98d_1
     - libgomp =11.1.0 =hc902ee8_8
     - libiconv =1.16 =h516909a_0
     - liblapack =3.9.0 =11_linux64_openblas
@@ -202,7 +202,7 @@ requirements:
     - openssl =1.1.1l =h7f98852_0
     - packaging =21.0 =pyhd8ed1ab_0
     - pandoc =2.14.2 =h7f98852_0
-    - pandocfilters =1.4.2 =py_1
+    - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.48.10 =hb8ff022_0
     - parso =0.8.2 =pyhd8ed1ab_0
     - pcre =8.45 =h9c3ff4c_0
@@ -233,7 +233,7 @@ requirements:
     - pytz =2021.1 =pyhd8ed1ab_0
     - pyzmq =22.2.1 =py37h336d617_0
     - qt =5.12.9 =hda022c4_4
-    - qtpy =1.11.0 =pyhd8ed1ab_0
+    - qtpy =1.11.1 =pyhd8ed1ab_0
     - r-askpass =1.1 =r41hcfec24a_2
     - r-assertthat =0.2.1 =r41hc72bb7e_2
     - r-backports =1.2.1 =r41hcfec24a_0
@@ -398,8 +398,8 @@ requirements:
     - r-uuid =0.1_4 =r41hcfec24a_1
     - r-vctrs =0.3.8 =r41hcfec24a_1
     - r-viridislite =0.4.0 =r41hc72bb7e_0
-    - r-vroom =1.5.4 =r41h03ef668_0
-    - r-waldo =0.3.0 =r41hc72bb7e_0
+    - r-vroom =1.5.5 =r41h03ef668_0
+    - r-waldo =0.3.1 =r41hc72bb7e_0
     - r-withr =2.4.2 =r41hc72bb7e_0
     - r-xfun =0.25 =r41h03ef668_0
     - r-xml2 =1.3.2 =r41h03ef668_1

@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.7 =h54d631c_0_cpython
+    - python =3.9.7 =h54d631c_1_cpython
   run:
-    - python =3.9.7 =h54d631c_0_cpython
+    - python =3.9.7 =h54d631c_1_cpython
 
     # 7 primary packages :
     - biopython =1.79 =py39h5161555_0
@@ -50,7 +50,7 @@ requirements:
     - decorator =5.1.0 =pyhd8ed1ab_0
     - fontconfig =2.13.1 =heb65262_1005
     - freetype =2.10.4 =h17b34a0_1
-    - gettext =0.19.8.1 =hea66d9f_1005
+    - gettext =0.19.8.1 =h049c9fb_1006
     - greenlet =1.1.1 =py39hfb83b0d_0
     - icu =68.1 =h17758a7_0
     - ipykernel =6.4.1 =py39h32adebf_0
@@ -68,10 +68,10 @@ requirements:
     - libcblas =3.9.0 =11_osxarm64_openblas
     - libcxx =12.0.1 =h168391b_0
     - libdeflate =1.7 =h27ca646_5
-    - libffi =3.3 =h9f76cd9_2
+    - libffi =3.4.2 =hbdafb3b_1
     - libgfortran =5.0.0.dev0 =11_0_1_hf114ba7_23
     - libgfortran5 =11.0.1.dev0 =hf114ba7_23
-    - libglib =2.68.4 =h6c200e4_0
+    - libglib =2.68.4 =h67e64d8_1
     - libiconv =1.16 =h642e427_0
     - liblapack =3.9.0 =11_osxarm64_openblas
     - libopenblas =0.3.17 =openmp_h5dd58f0_1
