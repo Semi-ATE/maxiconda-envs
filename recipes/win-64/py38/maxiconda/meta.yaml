@@ -28,7 +28,7 @@ requirements:
     - beautifulsoup4 =4.10.0 =pyha770c72_0
     - bitarray =2.3.4 =py38h294d835_0
     - cython =0.29.24 =py38h885f38d_0
-    - hypothesis =6.21.1 =pyhd8ed1ab_0
+    - hypothesis =6.21.3 =pyhd8ed1ab_0
     - ipython =7.27.0 =py38h595d716_0
     - jinja2 =3.0.1 =pyhd8ed1ab_0
     - matplotlib =3.4.3 =py38haa244fe_0
@@ -152,10 +152,10 @@ requirements:
     - mpmath =1.2.1 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - nbclient =0.5.4 =pyhd8ed1ab_0
-    - nbconvert =6.1.0 =py38haa244fe_0
+    - nbconvert =6.1.0 =py38haa244fe_1
     - nbformat =5.1.3 =pyhd8ed1ab_0
     - nest-asyncio =1.5.1 =pyhd8ed1ab_0
-    - notebook =6.4.3 =pyha770c72_0
+    - notebook =6.4.4 =pyha770c72_0
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =hb211442_1
     - openssl =1.1.1l =h8ffe710_0
@@ -255,7 +255,7 @@ requirements:
     - r-httpuv =1.6.3 =r41ha856d6a_0
     - r-httr =1.4.2 =r41hc72bb7e_0
     - r-ids =1.0.1 =r41hc72bb7e_1
-    - r-ipred =0.9_11 =r41h6d2157b_0
+    - r-ipred =0.9_12 =r41h6d2157b_0
     - r-irdisplay =1.0 =r41hd8ed1ab_0
     - r-irkernel =1.2 =r41hc72bb7e_0
     - r-isoband =0.2.5 =r41ha856d6a_0
@@ -320,7 +320,7 @@ requirements:
     - r-reprex =2.0.1 =r41hc72bb7e_0
     - r-reshape2 =1.4.4 =r41ha856d6a_1
     - r-rlang =0.4.11 =r41h6d2157b_0
-    - r-rmarkdown =2.10 =r41hc72bb7e_0
+    - r-rmarkdown =2.11 =r41hc72bb7e_0
     - r-rpart =4.1_15 =r41h6d2157b_2
     - r-rprojroot =2.0.2 =r41hc72bb7e_0
     - r-rstudioapi =0.13 =r41hc72bb7e_0
