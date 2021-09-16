@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.10 =h7840368_2_cpython
+    - python =3.8.12 =h7840368_0_cpython
   run:
-    - python =3.8.10 =h7840368_2_cpython
+    - python =3.8.12 =h7840368_0_cpython
 
     # 18 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -159,7 +159,7 @@ requirements:
     - libiconv =1.16 =he774522_0
     - liblapack =3.9.0 =8_mkl
     - libpng =1.6.37 =h1d00b33_2
-    - libprotobuf =3.17.2 =h7755175_1
+    - libprotobuf =3.18.0 =h7755175_0
     - libsodium =1.0.18 =h8d14728_1
     - libtiff =4.3.0 =h0c97f57_1
     - libwebp =1.2.1 =h57928b3_0
@@ -221,7 +221,7 @@ requirements:
     - prometheus_flask_exporter =0.18.2 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.20 =pyha770c72_0
     - protego =0.1.16 =py_0
-    - protobuf =3.17.2 =py38h885f38d_0
+    - protobuf =3.18.0 =py38h885f38d_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - py-xgboost =1.4.0 =py38haa244fe_0
     - pyasn1 =0.4.8 =py_0

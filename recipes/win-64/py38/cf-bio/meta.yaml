@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.10 =h7840368_2_cpython
+    - python =3.8.12 =h7840368_0_cpython
   run:
-    - python =3.8.10 =h7840368_2_cpython
+    - python =3.8.12 =h7840368_0_cpython
 
     # 9 primary packages :
     - biopython =1.79 =py38h294d835_0

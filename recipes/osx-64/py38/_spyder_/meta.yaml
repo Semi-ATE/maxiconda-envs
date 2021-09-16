@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.10 =h0e5c897_0_cpython
+    - python =3.8.12 =h17280f6_0_cpython
   run:
-    - python =3.8.10 =h0e5c897_0_cpython
+    - python =3.8.12 =h17280f6_0_cpython
 
     # 9 primary packages :
     - cython =0.29.24 =py38ha048514_0
@@ -56,7 +56,7 @@ requirements:
     - brotlipy =0.7.0 =py38h96a0964_1001
     - ca-certificates =2021.5.30 =h033912b_0
     - certifi =2021.5.30 =py38h50d1736_0
-    - cffi =1.14.6 =py38h9688ba1_0
+    - cffi =1.14.6 =py38h1a44b6c_1
     - chardet =4.0.0 =py38h50d1736_1
     - charset-normalizer =2.0.0 =pyhd8ed1ab_0
     - click =8.0.1 =py38h50d1736_0
@@ -77,9 +77,9 @@ requirements:
     - expat =2.4.1 =he49afe7_0
     - flake8 =3.9.2 =pyhd8ed1ab_0
     - freetype =2.10.4 =h4cff582_1
-    - gettext =0.19.8.1 =h7937167_1005
-    - glib =2.68.4 =he49afe7_0
-    - glib-tools =2.68.4 =he49afe7_0
+    - gettext =0.19.8.1 =hd1a6beb_1006
+    - glib =2.68.4 =he49afe7_1
+    - glib-tools =2.68.4 =he49afe7_1
     - gmp =6.2.1 =h2e338ed_0
     - gmpy2 =2.1.0b5 =py38h6052812_0
     - humanfriendly =9.2 =py38h50d1736_1
@@ -116,10 +116,10 @@ requirements:
     - libcxx =12.0.1 =habf9029_0
     - libdeflate =1.7 =h35c211d_5
     - libedit =3.1.20191231 =h0678c8f_2
-    - libffi =3.3 =h046ec9c_2
+    - libffi =3.4.2 =he49afe7_1
     - libgfortran =5.0.0 =9_3_0_h6c81a4c_23
     - libgfortran5 =9.3.0 =h6c81a4c_23
-    - libglib =2.68.4 =hd556434_0
+    - libglib =2.68.4 =hf1fb8c0_1
     - libiconv =1.16 =haf1e3a3_0
     - liblapack =3.9.0 =11_osx64_openblas
     - libllvm11 =11.1.0 =hd011deb_2
