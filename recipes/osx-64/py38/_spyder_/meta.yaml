@@ -24,12 +24,13 @@ requirements:
   run:
     - python =3.8.12 =h17280f6_0_cpython
 
-    # 9 primary packages :
+    # 10 primary packages :
     - cython =0.29.24 =py38ha048514_0
     - matplotlib =3.4.3 =py38h50d1736_0
     - numpy =1.21.2 =py38h49b9922_0
     - pandas =1.3.3 =py38ha53d530_0
     - scipy =1.7.1 =py38hd329d04_0
+    - semi-ate =0.1.27 =pyhd8ed1ab_0
     - spyder =5.1.5 =py38h50d1736_0
     - spyder-remote-client =0.0.24 =pyhd8ed1ab_0
     - spyder-terminal =1.1.0 =py38h50d1736_1
