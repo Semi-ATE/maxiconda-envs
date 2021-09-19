@@ -24,11 +24,12 @@ requirements:
   run:
     - python =3.9.7 =h1248fe1_1_cpython
 
-    # 10 primary packages :
+    # 11 primary packages :
     - cython =0.29.24 =py39h9fcab8e_0
     - matplotlib =3.4.3 =py39h6e9494a_0
     - numpy =1.21.2 =py39h7eed0ac_0
     - pandas =1.3.3 =py39h4d6be9b_0
+    - pydantic =1.8.2 =py39h89e85a6_0
     - scipy =1.7.1 =py39h056f1c0_0
     - semi-ate =0.1.27 =pyhd8ed1ab_0
     - spyder =5.1.5 =py39h6e9494a_0
@@ -36,7 +37,7 @@ requirements:
     - spyder-terminal =1.1.0 =py39h6e9494a_1
     - sympy =1.8 =py39h6e9494a_0
 
-    # 216 secondary packages :
+    # 217 secondary packages :
     - alabaster =0.7.12 =py_0
     - applaunchservices =0.2.1 =py_0
     - appnope =0.1.2 =py39h6e9494a_1
@@ -234,6 +235,7 @@ requirements:
     - tornado =6.1 =py39h89e85a6_1
     - traitlets =5.1.0 =pyhd8ed1ab_0
     - typed-ast =1.4.3 =py39h89e85a6_0
+    - typing-extensions =3.10.0.0 =hd8ed1ab_0
     - typing_extensions =3.10.0.0 =pyha770c72_0
     - tzdata =2021a =he74cb21_1
     - ujson =4.1.0 =py39h9fcab8e_0
@@ -248,7 +250,7 @@ requirements:
     - xz =5.2.5 =haf1e3a3_1
     - yaml =0.2.5 =haf1e3a3_0
     - yapf =0.31.0 =pyhd8ed1ab_0
-    - zeroconf =0.36.3 =pyhd8ed1ab_0
+    - zeroconf =0.36.5 =pyhd8ed1ab_0
     - zeromq =4.3.4 =he49afe7_1
     - zipp =3.5.0 =pyhd8ed1ab_0
     - zlib =1.2.11 =h7795811_1010
