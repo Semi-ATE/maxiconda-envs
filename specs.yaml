@@ -38,6 +38,8 @@ environments:
     - pandas
     - scipy
     - sympy
+    # to be removed, dependency problem with semi-ate
+    - pydantic
 
   maxiconda:
     - spyder-kernels
