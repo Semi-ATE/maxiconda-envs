@@ -53,7 +53,7 @@ requirements:
     - sqlalchemy =1.4.23 =py37h5e8e339_0
     - sqlite =3.36.0 =h9cd32fc_1
     - sympy =1.8 =py37h89c1867_0
-    - tqdm =4.62.2 =pyhd8ed1ab_0
+    - tqdm =4.62.3 =pyhd8ed1ab_0
 
     # 413 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
@@ -153,7 +153,7 @@ requirements:
     - libedit =3.1.20191231 =he28a2e2_2
     - libev =4.33 =h516909a_1
     - libevent =2.1.10 =hcdb4288_3
-    - libffi =3.4.2 =h9c3ff4c_1
+    - libffi =3.4.2 =h9c3ff4c_2
     - libgcc-devel_linux-64 =9.4.0 =hd854feb_8
     - libgcc-ng =11.2.0 =h1d223b6_8
     - libgfortran-ng =11.2.0 =h69a702a_8
@@ -424,7 +424,7 @@ requirements:
     - rust-std-x86_64-unknown-linux-gnu =1.55.0 =hc1431ca_2
     - sed =4.8 =he412f7d_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =58.0.4 =py37h89c1867_0
+    - setuptools =58.0.4 =py37h89c1867_1
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.1.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0

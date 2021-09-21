@@ -53,7 +53,7 @@ requirements:
     - sqlalchemy =1.4.23 =py38h96a0964_0
     - sqlite =3.36.0 =h23a322b_1
     - sympy =1.8 =py38h50d1736_0
-    - tqdm =4.62.2 =pyhd8ed1ab_0
+    - tqdm =4.62.3 =pyhd8ed1ab_0
 
     # 389 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
@@ -152,7 +152,7 @@ requirements:
     - libdeflate =1.7 =h35c211d_5
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =haf1e3a3_1
-    - libffi =3.4.2 =he49afe7_1
+    - libffi =3.4.2 =he49afe7_2
     - libgfortran =5.0.0 =9_3_0_h6c81a4c_23
     - libgfortran-devel_osx-64 =9.3.0 =h6c81a4c_23
     - libgfortran5 =9.3.0 =h6c81a4c_23
@@ -413,7 +413,7 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-apple-darwin =1.55.0 =h15ec7c7_2
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =58.0.4 =py38h50d1736_0
+    - setuptools =58.0.4 =py38h50d1736_1
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.1.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
