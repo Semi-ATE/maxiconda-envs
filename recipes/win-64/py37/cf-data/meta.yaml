@@ -70,7 +70,7 @@ requirements:
     - chardet =4.0.0 =py37h03978a9_1
     - charset-normalizer =2.0.0 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyh9f0ad1d_0
-    - click =7.1.2 =pyh9f0ad1d_0
+    - click =8.0.1 =py37h03978a9_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
     - colorlover =0.3.0 =py_0
@@ -89,7 +89,7 @@ requirements:
     - debugpy =1.4.1 =py37hf2a7229_0
     - decorator =5.1.0 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
-    - docker-py =5.0.2 =py37h03978a9_0
+    - docker-py =4.1.0 =py37_0
     - docker-pycreds =0.4.0 =py_0
     - entrypoints =0.3 =py37hc8dfbb8_1002
     - expat =2.4.1 =h39d44d4_0
@@ -249,7 +249,7 @@ requirements:
     - python_abi =3.7 =2_cp37m
     - pytz =2021.1 =pyhd8ed1ab_0
     - pywavelets =1.1.1 =py37hec80d1f_3
-    - pywin32 =227 =py37hcc03f2d_1
+    - pywin32 =301 =py37hcc03f2d_0
     - pywinpty =1.1.4 =py37h7f67f24_0
     - pyyaml =5.4.1 =py37hcc03f2d_1
     - pyzmq =22.3.0 =py37hcce574b_0
@@ -268,7 +268,7 @@ requirements:
     - smart_open =5.2.1 =pyhd8ed1ab_0
     - smmap =3.0.5 =pyh44b312d_0
     - soupsieve =2.0.1 =py37hc8dfbb8_0
-    - spacy =3.1.2 =py37h457096e_0
+    - spacy =3.1.3 =py37h457096e_0
     - spacy-legacy =3.0.8 =pyhd8ed1ab_0
     - sqlparse =0.4.2 =pyhd8ed1ab_0
     - srsly =2.4.1 =py37hf2a7229_0
@@ -287,7 +287,7 @@ requirements:
     - traitlets =5.1.0 =pyhd8ed1ab_0
     - twisted =21.7.0 =py37hcc03f2d_0
     - twisted-iocpsupport =1.0.2 =py37hcc03f2d_0
-    - typer =0.3.2 =pyhd8ed1ab_0
+    - typer =0.4.0 =pyhd8ed1ab_0
     - typing-extensions =3.10.0.0 =hd8ed1ab_0
     - typing_extensions =3.10.0.0 =pyha770c72_0
     - ucrt =10.0.20348.0 =h57928b3_0
