@@ -35,7 +35,7 @@ requirements:
     - matplotlib =3.4.3 =py37h03978a9_0
     - numba =0.53.1 =py37h9690626_1
     - numpy =1.21.2 =py37h940b05c_0
-    - openpyxl =3.0.8 =pyhd8ed1ab_0
+    - openpyxl =3.0.9 =pyhd8ed1ab_0
     - pandas =1.3.3 =py37h9386db6_0
     - psutil =5.8.0 =py37hcc03f2d_1
     - pyqt =5.12.3 =py37h03978a9_7
@@ -50,12 +50,12 @@ requirements:
     - rust =1.55.0 =hf8d6059_2
     - scipy =1.7.1 =py37hb6553fb_0
     - spyder-kernels =2.1.1 =py37h03978a9_0
-    - sqlalchemy =1.4.23 =py37hcc03f2d_0
+    - sqlalchemy =1.4.24 =py37hcc03f2d_0
     - sqlite =3.36.0 =h8ffe710_1
     - sympy =1.8 =py37h03978a9_0
     - tqdm =4.62.3 =pyhd8ed1ab_0
 
-    # 355 secondary packages :
+    # 354 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - alabaster =0.7.12 =py_0
     - argcomplete =1.12.3 =pyhd8ed1ab_2
@@ -98,7 +98,6 @@ requirements:
     - ipykernel =6.4.1 =py37h4038f58_0
     - ipython_genutils =0.2.0 =py_1
     - jbig =2.1 =h8d14728_2003
-    - jdcal =1.4.1 =py_0
     - jedi =0.18.0 =py37h03978a9_2
     - jpeg =9d =h8ffe710_0
     - jsonschema =3.2.0 =py37hc8dfbb8_1
@@ -219,7 +218,7 @@ requirements:
     - r-codetools =0.2_18 =r41hc72bb7e_0
     - r-colorspace =2.0_2 =r41h6d2157b_0
     - r-commonmark =1.7 =r41h6d2157b_1002
-    - r-cpp11 =0.3.1 =r41hc72bb7e_0
+    - r-cpp11 =0.4.0 =r41hc72bb7e_0
     - r-crayon =1.4.1 =r41hc72bb7e_0
     - r-crul =1.1.0 =r41h785f33e_0
     - r-curl =4.3.2 =r41h6d2157b_0
@@ -395,9 +394,9 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.1 =py37hcc03f2d_1
     - traitlets =5.1.0 =pyhd8ed1ab_0
-    - typing_extensions =3.10.0.0 =pyha770c72_0
+    - typing_extensions =3.10.0.2 =pyha770c72_0
     - ucrt =10.0.20348.0 =h57928b3_0
-    - urllib3 =1.26.6 =pyhd8ed1ab_0
+    - urllib3 =1.26.7 =pyhd8ed1ab_0
     - vc =14.2 =hb210afc_5
     - vs2015_runtime =14.29.30037 =h902a5da_5
     - wcwidth =0.2.5 =pyh9f0ad1d_2

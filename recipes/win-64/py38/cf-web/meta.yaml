@@ -31,7 +31,7 @@ requirements:
     - pyyaml =5.4.1 =py38h294d835_1
     - requests =2.26.0 =pyhd8ed1ab_0
     - spyder-kernels =2.1.1 =py38haa244fe_0
-    - sqlalchemy =1.4.23 =py38h294d835_0
+    - sqlalchemy =1.4.24 =py38h294d835_0
     - twisted =21.7.0 =py38h294d835_0
 
     # 70 secondary packages :
@@ -93,10 +93,10 @@ requirements:
     - tornado =6.1 =py38h294d835_1
     - traitlets =5.1.0 =pyhd8ed1ab_0
     - twisted-iocpsupport =1.0.2 =py38h294d835_0
-    - typing-extensions =3.10.0.0 =hd8ed1ab_0
-    - typing_extensions =3.10.0.0 =pyha770c72_0
+    - typing-extensions =3.10.0.2 =hd8ed1ab_0
+    - typing_extensions =3.10.0.2 =pyha770c72_0
     - ucrt =10.0.20348.0 =h57928b3_0
-    - urllib3 =1.26.6 =pyhd8ed1ab_0
+    - urllib3 =1.26.7 =pyhd8ed1ab_0
     - vc =14.2 =hb210afc_5
     - vs2015_runtime =14.29.30037 =h902a5da_5
     - wcwidth =0.2.5 =pyh9f0ad1d_2

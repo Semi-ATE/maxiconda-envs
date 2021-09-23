@@ -35,7 +35,7 @@ requirements:
     - matplotlib =3.4.3 =py37h89c1867_0
     - numba =0.53.1 =py37hb11d6e1_1
     - numpy =1.21.2 =py37h31617e3_0
-    - openpyxl =3.0.8 =pyhd8ed1ab_0
+    - openpyxl =3.0.9 =pyhd8ed1ab_0
     - pandas =1.3.3 =py37he8f5f7f_0
     - psutil =5.8.0 =py37h5e8e339_1
     - pyqt =5.12.3 =py37h89c1867_7
@@ -50,12 +50,12 @@ requirements:
     - rust =1.55.0 =h3bf0571_2
     - scipy =1.7.1 =py37hf2a6cf1_0
     - spyder-kernels =2.1.1 =py37h89c1867_0
-    - sqlalchemy =1.4.23 =py37h5e8e339_0
+    - sqlalchemy =1.4.24 =py37h5e8e339_0
     - sqlite =3.36.0 =h9cd32fc_1
     - sympy =1.8 =py37h89c1867_0
     - tqdm =4.62.3 =pyhd8ed1ab_0
 
-    # 413 secondary packages :
+    # 412 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -86,7 +86,7 @@ requirements:
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
     - cryptography =3.4.7 =py37h5d9358c_0
-    - curl =7.79.0 =hea6ffbf_0
+    - curl =7.79.1 =hea6ffbf_0
     - cycler =0.10.0 =py_2
     - dbus =1.13.6 =h48d8840_2
     - debugpy =1.4.1 =py37hcd2ae1e_0
@@ -107,7 +107,7 @@ requirements:
     - fribidi =1.0.10 =h36c2ea0_0
     - gcc_impl_linux-64 =9.4.0 =h03d3576_8
     - gcc_linux-64 =9.4.0 =h391b98a_1
-    - gettext =0.19.8.1 =h73d1719_1006
+    - gettext =0.19.8.1 =h73d1719_1007
     - gfortran_impl_linux-64 =9.4.0 =h0003116_8
     - gfortran_linux-64 =9.4.0 =hf0ab688_1
     - git =2.33.0 =pl5321hc30692c_0
@@ -132,7 +132,6 @@ requirements:
     - ipykernel =6.4.1 =py37h6531663_0
     - ipython_genutils =0.2.0 =py_1
     - jbig =2.1 =h7f98852_2003
-    - jdcal =1.4.1 =py_0
     - jedi =0.18.0 =py37h89c1867_2
     - jpeg =9d =h36c2ea0_0
     - jsonschema =3.2.0 =py37hc8dfbb8_1
@@ -148,12 +147,12 @@ requirements:
     - libblas =3.9.0 =11_linux64_openblas
     - libcblas =3.9.0 =11_linux64_openblas
     - libclang =11.1.0 =default_ha53f305_1
-    - libcurl =7.79.0 =h2574ce0_0
+    - libcurl =7.79.1 =h2574ce0_0
     - libdeflate =1.7 =h7f98852_5
     - libedit =3.1.20191231 =he28a2e2_2
     - libev =4.33 =h516909a_1
     - libevent =2.1.10 =hcdb4288_3
-    - libffi =3.4.2 =h9c3ff4c_2
+    - libffi =3.4.2 =h9c3ff4c_3
     - libgcc-devel_linux-64 =9.4.0 =hd854feb_8
     - libgcc-ng =11.2.0 =h1d223b6_8
     - libgfortran-ng =11.2.0 =h69a702a_8
@@ -265,7 +264,7 @@ requirements:
     - r-codetools =0.2_18 =r41hc72bb7e_0
     - r-colorspace =2.0_2 =r41hcfec24a_0
     - r-commonmark =1.7 =r41hcfec24a_1002
-    - r-cpp11 =0.3.1 =r41hc72bb7e_0
+    - r-cpp11 =0.4.0 =r41hc72bb7e_0
     - r-crayon =1.4.1 =r41hc72bb7e_0
     - r-crul =1.1.0 =r41h785f33e_0
     - r-curl =4.3.2 =r41hcfec24a_0
@@ -321,7 +320,7 @@ requirements:
     - r-knitr =1.34 =r41hc72bb7e_0
     - r-labeling =0.4.2 =r41hc72bb7e_0
     - r-later =1.2.0 =r41h03ef668_0
-    - r-lattice =0.20_44 =r41hcfec24a_0
+    - r-lattice =0.20_45 =r41hcfec24a_0
     - r-lava =1.6.10 =r41hc72bb7e_0
     - r-lazyeval =0.2.2 =r41hcfec24a_2
     - r-lifecycle =1.0.0 =r41hc72bb7e_0
@@ -445,8 +444,8 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.1 =py37h5e8e339_1
     - traitlets =5.1.0 =pyhd8ed1ab_0
-    - typing_extensions =3.10.0.0 =pyha770c72_0
-    - urllib3 =1.26.6 =pyhd8ed1ab_0
+    - typing_extensions =3.10.0.2 =pyha770c72_0
+    - urllib3 =1.26.7 =pyhd8ed1ab_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - webencodings =0.5.1 =py_1
     - wheel =0.37.0 =pyhd8ed1ab_1

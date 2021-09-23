@@ -53,7 +53,7 @@ requirements:
     - cftime =1.5.0 =py37h6f94858_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
-    - curl =7.79.0 =hea6ffbf_0
+    - curl =7.79.1 =hea6ffbf_0
     - cycler =0.10.0 =py_2
     - dbus =1.13.6 =h48d8840_2
     - debugpy =1.4.1 =py37hcd2ae1e_0
@@ -61,7 +61,7 @@ requirements:
     - expat =2.4.1 =h9c3ff4c_0
     - fontconfig =2.13.1 =hba837de_1005
     - freetype =2.10.4 =h0708190_1
-    - gettext =0.19.8.1 =h73d1719_1006
+    - gettext =0.19.8.1 =h73d1719_1007
     - glew =2.1.0 =h9c3ff4c_2
     - glib =2.68.4 =h9c3ff4c_1
     - glib-tools =2.68.4 =h9c3ff4c_1
@@ -93,12 +93,12 @@ requirements:
     - libblas =3.9.0 =11_linux64_openblas
     - libcblas =3.9.0 =11_linux64_openblas
     - libclang =11.1.0 =default_ha53f305_1
-    - libcurl =7.79.0 =h2574ce0_0
+    - libcurl =7.79.1 =h2574ce0_0
     - libdeflate =1.7 =h7f98852_5
     - libedit =3.1.20191231 =he28a2e2_2
     - libev =4.33 =h516909a_1
     - libevent =2.1.10 =hcdb4288_3
-    - libffi =3.4.2 =h9c3ff4c_2
+    - libffi =3.4.2 =h9c3ff4c_3
     - libgcc-ng =11.2.0 =h1d223b6_8
     - libgfortran-ng =11.2.0 =h69a702a_8
     - libgfortran5 =11.2.0 =h5c6108e_8
@@ -172,7 +172,7 @@ requirements:
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
     - setuptools =58.0.4 =py37h89c1867_1
     - six =1.16.0 =pyh6c4a22f_0
-    - sqlalchemy =1.4.23 =py37h5e8e339_0
+    - sqlalchemy =1.4.24 =py37h5e8e339_0
     - sqlite =3.36.0 =h9cd32fc_1
     - statsmodels =0.12.2 =py37hb1e94ed_0
     - threadpoolctl =2.2.0 =pyh8a188c0_0
@@ -180,7 +180,7 @@ requirements:
     - tornado =6.1 =py37h5e8e339_1
     - tqdm =4.62.3 =pyhd8ed1ab_0
     - traitlets =5.1.0 =pyhd8ed1ab_0
-    - typing_extensions =3.10.0.0 =pyha770c72_0
+    - typing_extensions =3.10.0.2 =pyha770c72_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.37.0 =pyhd8ed1ab_1
     - wurlitzer =3.0.2 =py37h89c1867_0
