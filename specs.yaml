@@ -72,9 +72,17 @@ environments:
     - hypothesis
     - pyyaml
     - jinja2
+
+  cf-ate:
+    - spyder-kernels
     - Semi-ATE
     - Semi-ATE-STDF
     - pydantic
+    - paho-mqtt 
+    - xmltodict 
+    - transitions 
+    - aiohttp 
+    - aiomqtt
 
   cf-data:
     - spyder-kernels
