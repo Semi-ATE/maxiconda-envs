@@ -74,6 +74,7 @@ environments:
     - jinja2
     - Semi-ATE
     - Semi-ATE-STDF
+    - pydantic
 
   cf-data:
     - spyder-kernels
