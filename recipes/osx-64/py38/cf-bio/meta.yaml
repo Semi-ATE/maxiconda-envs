@@ -26,7 +26,7 @@ requirements:
 
     # 8 primary packages :
     - biopython =1.79 =py38h96a0964_0
-    - matplotlib =3.4.3 =py38h50d1736_0
+    - matplotlib =3.4.3 =py38h50d1736_1
     - mdanalysis =2.0.0 =py38ha048514_1
     - numpy =1.21.2 =py38h49b9922_0
     - pandas =1.3.3 =py38ha53d530_0
@@ -100,7 +100,7 @@ requirements:
     - libzip =1.8.0 =h8b0c345_0
     - llvm-openmp =12.0.1 =hda6cdc1_1
     - lz4-c =1.9.3 =he49afe7_1
-    - matplotlib-base =3.4.3 =py38hc7d2367_0
+    - matplotlib-base =3.4.3 =py38hc7d2367_1
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mmtf-python =1.1.2 =py_0
     - msgpack-python =1.0.2 =py38h12bbefe_1
@@ -134,7 +134,7 @@ requirements:
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
     - setuptools =58.0.4 =py38h50d1736_1
     - six =1.16.0 =pyh6c4a22f_0
-    - sqlalchemy =1.4.24 =py38h96a0964_0
+    - sqlalchemy =1.4.25 =py38h96a0964_0
     - sqlite =3.36.0 =h23a322b_1
     - statsmodels =0.12.2 =py38hbe852b5_0
     - threadpoolctl =2.2.0 =pyh8a188c0_0

@@ -63,12 +63,12 @@ requirements:
     - libopenblas =0.3.17 =pthreads_h8fe5266_1
     - libsodium =1.0.18 =h36c2ea0_1
     - libstdcxx-ng =11.2.0 =he4da1e4_8
-    - libusb =1.0.24 =h18f079d_4
+    - libudev1 =249 =h7f98852_0
+    - libusb =1.0.24 =h4c0bc5a_105
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - ncurses =6.2 =h58526e2_4
     - openssl =1.1.1l =h7f98852_0
     - parso =0.8.2 =pyhd8ed1ab_0
-    - patchelf =0.13 =h58526e2_0
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pip =21.2.4 =pyhd8ed1ab_0

@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.7 =h1248fe1_1_cpython
+    - python =3.9.7 =h1248fe1_2_cpython
   run:
-    - python =3.9.7 =h1248fe1_1_cpython
+    - python =3.9.7 =h1248fe1_2_cpython
 
     # 8 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -31,7 +31,7 @@ requirements:
     - pyyaml =5.4.1 =py39h89e85a6_1
     - requests =2.26.0 =pyhd8ed1ab_0
     - spyder-kernels =2.1.1 =py39h6e9494a_0
-    - sqlalchemy =1.4.24 =py39h89e85a6_0
+    - sqlalchemy =1.4.25 =py39h89e85a6_0
     - twisted =21.7.0 =py39h89e85a6_0
 
     # 75 secondary packages :

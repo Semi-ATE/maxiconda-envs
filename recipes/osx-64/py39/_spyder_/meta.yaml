@@ -20,13 +20,13 @@ build:
 
 requirements:
   build:
-    - python =3.9.7 =h1248fe1_1_cpython
+    - python =3.9.7 =h1248fe1_2_cpython
   run:
-    - python =3.9.7 =h1248fe1_1_cpython
+    - python =3.9.7 =h1248fe1_2_cpython
 
     # 11 primary packages :
     - cython =0.29.24 =py39h9fcab8e_0
-    - matplotlib =3.4.3 =py39h6e9494a_0
+    - matplotlib =3.4.3 =py39h6e9494a_1
     - numpy =1.21.2 =py39h7eed0ac_0
     - pandas =1.3.3 =py39h4d6be9b_0
     - pydantic =1.8.2 =py39h89e85a6_0
@@ -135,7 +135,7 @@ requirements:
     - llvm-openmp =12.0.1 =hda6cdc1_1
     - lz4-c =1.9.3 =he49afe7_1
     - markupsafe =1.1.1 =py39hcbf5805_3
-    - matplotlib-base =3.4.3 =py39hb07454d_0
+    - matplotlib-base =3.4.3 =py39hb07454d_1
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mccabe =0.6.1 =py_1
     - mistune =0.8.4 =py39h89e85a6_1004
@@ -238,7 +238,7 @@ requirements:
     - typing-extensions =3.10.0.2 =hd8ed1ab_0
     - typing_extensions =3.10.0.2 =pyha770c72_0
     - tzdata =2021a =he74cb21_1
-    - ujson =4.1.0 =py39h9fcab8e_0
+    - ujson =4.2.0 =py39h9fcab8e_0
     - unidecode =1.3.2 =pyhd8ed1ab_0
     - urllib3 =1.26.7 =pyhd8ed1ab_0
     - watchdog =2.1.5 =py39h9c2f2d1_0
@@ -250,7 +250,7 @@ requirements:
     - xz =5.2.5 =haf1e3a3_1
     - yaml =0.2.5 =haf1e3a3_0
     - yapf =0.31.0 =pyhd8ed1ab_0
-    - zeroconf =0.36.6 =pyhd8ed1ab_0
+    - zeroconf =0.36.7 =pyhd8ed1ab_0
     - zeromq =4.3.4 =he49afe7_1
     - zipp =3.5.0 =pyhd8ed1ab_0
     - zlib =1.2.11 =h7795811_1010

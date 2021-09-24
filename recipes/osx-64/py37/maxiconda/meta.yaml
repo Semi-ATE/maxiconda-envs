@@ -32,7 +32,7 @@ requirements:
     - hypothesis =6.21.6 =pyhd8ed1ab_0
     - ipython =7.27.0 =py37h4c52d7d_0
     - jinja2 =3.0.1 =pyhd8ed1ab_0
-    - matplotlib =3.4.3 =py37hf985489_0
+    - matplotlib =3.4.3 =py37hf985489_1
     - numba =0.53.1 =py37h0183300_1
     - numpy =1.21.2 =py37haefe36b_0
     - openpyxl =3.0.9 =pyhd8ed1ab_0
@@ -50,7 +50,7 @@ requirements:
     - rust =1.55.0 =h1c3a24c_2
     - scipy =1.7.1 =py37h4e3cf02_0
     - spyder-kernels =2.1.1 =py37hf985489_0
-    - sqlalchemy =1.4.24 =py37h271585c_0
+    - sqlalchemy =1.4.25 =py37h271585c_0
     - sqlite =3.36.0 =h23a322b_1
     - sympy =1.8 =py37hf985489_0
     - tqdm =4.62.3 =pyhd8ed1ab_0
@@ -177,7 +177,7 @@ requirements:
     - lz4-c =1.9.3 =he49afe7_1
     - make =4.3 =h22f3db7_1
     - markupsafe =2.0.1 =py37h271585c_0
-    - matplotlib-base =3.4.3 =py37h3147e9e_0
+    - matplotlib-base =3.4.3 =py37h3147e9e_1
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mistune =0.8.4 =py37h271585c_1004
     - more-itertools =8.10.0 =pyhd8ed1ab_0
@@ -200,7 +200,7 @@ requirements:
     - packaging =21.0 =pyhd8ed1ab_0
     - pandoc =2.14.2 =h0d85af4_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.48.10 =ha05cd14_0
+    - pango =1.48.10 =ha05cd14_1
     - parso =0.8.2 =pyhd8ed1ab_0
     - pcre =8.45 =he49afe7_0
     - pcre2 =10.37 =ha16e1b2_0
@@ -322,7 +322,7 @@ requirements:
     - r-markdown =1.1 =r41h28b5c78_1
     - r-mass =7.3_54 =r41h28b5c78_0
     - r-matrix =1.3_4 =r41hc2c5f09_0
-    - r-mgcv =1.8_36 =r41hc2c5f09_0
+    - r-mgcv =1.8_37 =r41hf27e4f0_0
     - r-mime =0.11 =r41h28b5c78_0
     - r-modelmetrics =1.2.2.2 =r41h9951f98_1
     - r-modelr =0.1.8 =r41hc72bb7e_0
