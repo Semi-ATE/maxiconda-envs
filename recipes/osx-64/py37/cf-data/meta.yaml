@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py37hf985489_0
     - pytorch =1.9.0 =cpu_py37h6234483_2
-    - scikit-learn =0.24.2 =py37h5a4fc86_1
+    - scikit-learn =1.0 =py37h5a4fc86_0
     - scipy =1.7.1 =py37h4e3cf02_0
     - scrapy =2.5.0 =py37hf985489_0
     - seaborn =0.11.2 =hd8ed1ab_0
@@ -110,7 +110,7 @@ requirements:
     - future =0.18.2 =py37hf985489_3
     - gdk-pixbuf =2.42.6 =h2e6141f_0
     - gensim =4.1.1 =py37hd8d24ac_0
-    - gettext =0.19.8.1 =hd1a6beb_1007
+    - gettext =0.19.8.1 =hd1a6beb_1008
     - giflib =5.2.1 =hbcb3906_2
     - gitdb =4.0.7 =pyhd8ed1ab_0
     - gitpython =3.1.24 =pyhd8ed1ab_0
@@ -159,7 +159,7 @@ requirements:
     - libcblas =3.9.0 =11_osx64_mkl
     - libcxx =12.0.1 =habf9029_0
     - libdeflate =1.7 =h35c211d_5
-    - libffi =3.4.2 =he49afe7_3
+    - libffi =3.4.2 =he49afe7_4
     - libgd =2.3.3 =h311d3fc_0
     - libgfortran =5.0.0 =9_3_0_h6c81a4c_23
     - libgfortran5 =9.3.0 =h6c81a4c_23
