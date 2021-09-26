@@ -47,7 +47,7 @@ requirements:
     - ca-certificates =2021.5.30 =h033912b_0
     - cairo =1.16.0 =he43a7df_1008
     - certifi =2021.5.30 =py37hf985489_0
-    - cftime =1.5.0 =py37h238668a_0
+    - cftime =1.5.1 =py37h032687b_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
     - curl =7.79.1 =hb861fe1_0
@@ -100,7 +100,7 @@ requirements:
     - libtiff =4.3.0 =h1167814_1
     - libwebp-base =1.2.1 =h0d85af4_0
     - libxml2 =2.9.12 =h93ec3fd_0
-    - libzip =1.8.0 =h8b0c345_0
+    - libzip =1.8.0 =h8b0c345_1
     - llvm-openmp =12.0.1 =hda6cdc1_1
     - lz4-c =1.9.3 =he49afe7_1
     - matplotlib-base =3.4.3 =py37h3147e9e_1
@@ -135,10 +135,10 @@ requirements:
     - scikit-learn =1.0 =py37h5a4fc86_0
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
-    - setuptools =58.0.4 =py37hf985489_1
+    - setuptools =58.0.4 =py37hf985489_2
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.25 =py37h271585c_0
-    - sqlite =3.36.0 =h23a322b_1
+    - sqlite =3.36.0 =h23a322b_2
     - statsmodels =0.12.2 =py37h032687b_0
     - threadpoolctl =2.2.0 =pyh8a188c0_0
     - tk =8.6.11 =h5dbffcc_1
