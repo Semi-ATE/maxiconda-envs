@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py37hf985489_0
     - pytorch =1.9.0 =cpu_py37h6234483_2
-    - scikit-learn =1.0 =py37h5a4fc86_0
+    - scikit-learn =1.0 =py37h5a4fc86_1
     - scipy =1.7.1 =py37h4e3cf02_0
     - scrapy =2.5.0 =py37hf985489_0
     - seaborn =0.11.2 =hd8ed1ab_0
@@ -215,7 +215,7 @@ requirements:
     - parsel =1.6.0 =py_0
     - parso =0.8.2 =pyhd8ed1ab_0
     - pathy =0.6.0 =pyhd8ed1ab_0
-    - patsy =0.5.1 =py_0
+    - patsy =0.5.2 =pyhd8ed1ab_0
     - pcre =8.45 =he49afe7_0
     - pexpect =4.8.0 =py37hc8dfbb8_1
     - phik =0.11.2 =pyhd8ed1ab_0
