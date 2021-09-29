@@ -55,7 +55,7 @@ requirements:
     - sympy =1.8 =py37h89c1867_0
     - tqdm =4.62.3 =pyhd8ed1ab_0
 
-    # 413 secondary packages :
+    # 415 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -105,10 +105,10 @@ requirements:
     - fonts-conda-forge =1 =0
     - freetype =2.10.4 =h0708190_1
     - fribidi =1.0.10 =h36c2ea0_0
-    - gcc_impl_linux-64 =9.4.0 =h03d3576_8
+    - gcc_impl_linux-64 =9.4.0 =h03d3576_9
     - gcc_linux-64 =9.4.0 =h391b98a_1
     - gettext =0.19.8.1 =h73d1719_1008
-    - gfortran_impl_linux-64 =9.4.0 =h0003116_8
+    - gfortran_impl_linux-64 =9.4.0 =h0003116_9
     - gfortran_linux-64 =9.4.0 =hf0ab688_1
     - git =2.33.0 =pl5321hc30692c_1
     - glib =2.68.4 =h9c3ff4c_1
@@ -120,7 +120,7 @@ requirements:
     - gsl =2.7 =he838d99_0
     - gst-plugins-base =1.18.5 =hf529b03_0
     - gstreamer =1.18.5 =h76c114f_0
-    - gxx_impl_linux-64 =9.4.0 =h03d3576_8
+    - gxx_impl_linux-64 =9.4.0 =h03d3576_9
     - gxx_linux-64 =9.4.0 =h0316aca_1
     - harfbuzz =2.9.1 =h83ec7ef_0
     - icu =68.1 =h58526e2_0
@@ -140,7 +140,7 @@ requirements:
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
     - kernel-headers_linux-64 =2.6.32 =he073ed8_14
     - kiwisolver =1.3.2 =py37h2527ec5_0
-    - krb5 =1.19.2 =hcc1bbae_1
+    - krb5 =1.19.2 =hcc1bbae_2
     - lcms2 =2.12 =hddcbb42_0
     - ld_impl_linux-64 =2.36.1 =hea4e1c9_2
     - lerc =2.2.1 =h9c3ff4c_0
@@ -153,12 +153,12 @@ requirements:
     - libev =4.33 =h516909a_1
     - libevent =2.1.10 =hcdb4288_3
     - libffi =3.4.2 =h9c3ff4c_4
-    - libgcc-devel_linux-64 =9.4.0 =hd854feb_8
-    - libgcc-ng =11.2.0 =h1d223b6_8
-    - libgfortran-ng =11.2.0 =h69a702a_8
-    - libgfortran5 =11.2.0 =h5c6108e_8
+    - libgcc-devel_linux-64 =9.4.0 =hd854feb_9
+    - libgcc-ng =11.2.0 =h1d223b6_9
+    - libgfortran-ng =11.2.0 =h69a702a_9
+    - libgfortran5 =11.2.0 =h5c6108e_9
     - libglib =2.68.4 =h174f98d_1
-    - libgomp =11.2.0 =h1d223b6_8
+    - libgomp =11.2.0 =h1d223b6_9
     - libiconv =1.16 =h516909a_0
     - liblapack =3.9.0 =11_linux64_openblas
     - libllvm10 =10.0.1 =he513fc3_3
@@ -169,11 +169,11 @@ requirements:
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.37 =h21135ba_2
     - libpq =13.3 =hd57d9b9_0
-    - libsanitizer =9.4.0 =h79bfe98_8
+    - libsanitizer =9.4.0 =h79bfe98_9
     - libsodium =1.0.18 =h36c2ea0_1
     - libssh2 =1.10.0 =ha56f1ee_2
-    - libstdcxx-devel_linux-64 =9.4.0 =hd854feb_8
-    - libstdcxx-ng =11.2.0 =he4da1e4_8
+    - libstdcxx-devel_linux-64 =9.4.0 =hd854feb_9
+    - libstdcxx-ng =11.2.0 =he4da1e4_9
     - libtiff =4.3.0 =hf544144_1
     - libuuid =2.32.1 =h7f98852_1000
     - libvorbis =1.3.7 =h9c3ff4c_0
@@ -255,7 +255,7 @@ requirements:
     - r-bslib =0.3.0 =r41hc72bb7e_0
     - r-cachem =1.0.6 =r41hcfec24a_0
     - r-callr =3.7.0 =r41hc72bb7e_0
-    - r-caret =6.0_88 =r41hcfec24a_0
+    - r-caret =6.0_89 =r41hcfec24a_0
     - r-cellranger =1.1.0 =r41hc72bb7e_1003
     - r-class =7.3_19 =r41hcfec24a_0
     - r-cli =3.0.1 =r41h03ef668_1
@@ -268,14 +268,15 @@ requirements:
     - r-crayon =1.4.1 =r41hc72bb7e_0
     - r-crul =1.1.0 =r41h785f33e_0
     - r-curl =4.3.2 =r41hcfec24a_0
-    - r-data.table =1.14.0 =r41hcfec24a_0
+    - r-data.table =1.14.2 =r41hcfec24a_0
     - r-dbi =1.1.1 =r41hc72bb7e_0
     - r-dbplyr =2.1.1 =r41hc72bb7e_0
-    - r-desc =1.3.0 =r41hc72bb7e_0
+    - r-desc =1.4.0 =r41hc72bb7e_0
     - r-diffobj =0.3.4 =r41hcfec24a_0
     - r-digest =0.6.28 =r41h03ef668_0
     - r-dplyr =1.0.7 =r41h03ef668_0
     - r-dtplyr =1.1.0 =r41hc72bb7e_0
+    - r-e1071 =1.7_9 =r41h03ef668_0
     - r-ellipsis =0.3.2 =r41hcfec24a_0
     - r-evaluate =0.14 =r41hc72bb7e_2
     - r-fansi =0.4.2 =r41hcfec24a_0
@@ -297,7 +298,7 @@ requirements:
     - r-globals =0.14.0 =r41hc72bb7e_0
     - r-glue =1.4.2 =r41hcfec24a_0
     - r-googledrive =2.0.0 =r41hc72bb7e_0
-    - r-googlesheets4 =0.3.0 =r41hc72bb7e_0
+    - r-googlesheets4 =1.0.0 =r41h785f33e_0
     - r-gower =0.2.2 =r41hcfec24a_0
     - r-gtable =0.3.0 =r41hc72bb7e_3
     - r-haven =2.4.3 =r41h2713e49_0
@@ -333,7 +334,7 @@ requirements:
     - r-mass =7.3_54 =r41hcfec24a_0
     - r-matrix =1.3_4 =r41he454529_0
     - r-mgcv =1.8_37 =r41he454529_0
-    - r-mime =0.11 =r41hcfec24a_0
+    - r-mime =0.12 =r41hcfec24a_0
     - r-modelmetrics =1.2.2.2 =r41h03ef668_1
     - r-modelr =0.1.8 =r41hc72bb7e_0
     - r-munsell =0.5.0 =r41hc72bb7e_1003
@@ -355,6 +356,7 @@ requirements:
     - r-progress =1.2.2 =r41hc72bb7e_2
     - r-progressr =0.9.0 =r41hc72bb7e_0
     - r-promises =1.2.0.1 =r41h03ef668_0
+    - r-proxy =0.4_26 =r41hcfec24a_0
     - r-pryr =0.1.4 =r41h03ef668_1004
     - r-ps =1.6.0 =r41hcfec24a_0
     - r-purrr =0.3.4 =r41hcfec24a_1
@@ -365,7 +367,7 @@ requirements:
     - r-rbokeh =0.5.2 =r41hc72bb7e_0
     - r-rcolorbrewer =1.1_2 =r41h785f33e_1003
     - r-rcpp =1.0.7 =r41h03ef668_0
-    - r-readr =2.0.1 =r41h03ef668_0
+    - r-readr =2.0.2 =r41h03ef668_0
     - r-readxl =1.3.1 =r41h2713e49_4
     - r-recipes =0.1.17 =r41hc72bb7e_0
     - r-recommended =4.1 =r41hd8ed1ab_1004
@@ -398,16 +400,16 @@ requirements:
     - r-tidyselect =1.1.1 =r41hc72bb7e_0
     - r-tidyverse =1.3.1 =r41hc72bb7e_0
     - r-timedate =3043.102 =r41hc72bb7e_1002
-    - r-tinytex =0.33 =r41hc72bb7e_0
+    - r-tinytex =0.34 =r41hc72bb7e_0
     - r-triebeard =0.3.0 =r41h9c3ff4c_1003
     - r-ttr =0.24.2 =r41hcfec24a_0
-    - r-tzdb =0.1.2 =r41h03ef668_0
+    - r-tzdb =0.1.2 =r41h03ef668_1
     - r-urltools =1.7.3 =r41h03ef668_2
     - r-utf8 =1.2.2 =r41hcfec24a_0
     - r-uuid =0.1_4 =r41hcfec24a_1
     - r-vctrs =0.3.8 =r41hcfec24a_1
     - r-viridislite =0.4.0 =r41hc72bb7e_0
-    - r-vroom =1.5.5 =r41h03ef668_0
+    - r-vroom =1.5.5 =r41h03ef668_1
     - r-waldo =0.3.1 =r41hc72bb7e_0
     - r-withr =2.4.2 =r41hc72bb7e_0
     - r-xfun =0.26 =r41h03ef668_0
