@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.12 =h9f07fca_0_cpython
+    - python =3.8.12 =h47f6e27_1_cpython
   run:
-    - python =3.8.12 =h9f07fca_0_cpython
+    - python =3.8.12 =h47f6e27_1_cpython
 
     # 7 primary packages :
     - biopython =1.79 =py38h9544abe_0
@@ -51,7 +51,7 @@ requirements:
     - fontconfig =2.13.1 =hd44bfdd_1005
     - freetype =2.10.4 =hdf53a3c_1
     - gettext =0.19.8.1 =h6edf1e2_1008
-    - greenlet =1.1.1 =py38h0119ad3_0
+    - greenlet =1.1.2 =py38h0119ad3_0
     - icu =68.1 =h884eca8_0
     - ipykernel =6.4.1 =py38h82e0a02_0
     - ipython =7.28.0 =py38h82e0a02_0
@@ -91,7 +91,7 @@ requirements:
     - ncurses =6.2 =h7fd3ca4_4
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =h45037e0_1
-    - openssl =1.1.1l =hf897c2e_0
+    - openssl =3.0.0 =hf897c2e_1
     - parso =0.8.2 =pyhd8ed1ab_0
     - pcre =8.45 =h01db608_0
     - pexpect =4.8.0 =py38h32f6830_1

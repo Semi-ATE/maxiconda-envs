@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.7 =hb7a2778_2_cpython
+    - python =3.9.7 =hb7a2778_3_cpython
   run:
-    - python =3.9.7 =hb7a2778_2_cpython
+    - python =3.9.7 =hb7a2778_3_cpython
 
     # 11 primary packages :
     - cython =0.29.24 =py39he80948d_0

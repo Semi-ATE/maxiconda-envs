@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.7 =h7840368_2_cpython
+    - python =3.9.7 =h7840368_3_cpython
   run:
-    - python =3.9.7 =h7840368_2_cpython
+    - python =3.9.7 =h7840368_3_cpython
 
     # 8 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -55,7 +55,7 @@ requirements:
     - cryptography =3.4.7 =py39hd8d06c1_0
     - debugpy =1.4.1 =py39h415ef7b_0
     - decorator =5.1.0 =pyhd8ed1ab_0
-    - greenlet =1.1.1 =py39h415ef7b_0
+    - greenlet =1.1.2 =py39h415ef7b_0
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - idna =3.1 =pyhd3deb0d_0
     - incremental =21.3.0 =pyhd8ed1ab_0

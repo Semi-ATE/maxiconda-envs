@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.12 =h17280f6_0_cpython
+    - python =3.8.12 =h17280f6_1_cpython
   run:
-    - python =3.8.12 =h17280f6_0_cpython
+    - python =3.8.12 =h17280f6_1_cpython
 
     # 11 primary packages :
     - cython =0.29.24 =py38ha048514_0
