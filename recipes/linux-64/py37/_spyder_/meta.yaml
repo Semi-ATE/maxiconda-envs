@@ -37,7 +37,7 @@ requirements:
     - spyder-terminal =1.1.0 =py37h89c1867_1
     - sympy =1.8 =py37h89c1867_0
 
-    # 236 secondary packages :
+    # 237 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - alabaster =0.7.12 =py_0
@@ -108,7 +108,7 @@ requirements:
     - jinja2 =2.11.3 =pyh44b312d_0
     - jinja2-time =0.2.0 =py_2
     - jpeg =9d =h36c2ea0_0
-    - jsonschema =3.2.0 =py37hc8dfbb8_1
+    - jsonschema =4.0.1 =pyhd8ed1ab_0
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.8.1 =py37h89c1867_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
@@ -149,6 +149,7 @@ requirements:
     - libxcb =1.13 =h7f98852_1003
     - libxkbcommon =1.0.3 =he3ba5ed_0
     - libxml2 =2.9.12 =h72842e0_0
+    - libzlib =1.2.11 =h36c2ea0_1012
     - lz4-c =1.9.3 =h9c3ff4c_1
     - markupsafe =1.1.1 =py37h5e8e339_3
     - matplotlib-base =3.4.3 =py37h1058ff1_1
@@ -223,7 +224,7 @@ requirements:
     - qtconsole =5.1.1 =pyhd8ed1ab_0
     - qtpy =1.11.2 =pyhd8ed1ab_0
     - readline =8.1 =h46c0cb4_0
-    - regex =2021.9.24 =py37h5e8e339_0
+    - regex =2021.9.30 =py37h5e8e339_0
     - requests =2.26.0 =pyhd8ed1ab_0
     - rope =0.20.1 =pyhd8ed1ab_0
     - rtree =0.9.7 =py37h0b55af0_2
@@ -272,7 +273,7 @@ requirements:
     - zeroconf =0.36.7 =pyhd8ed1ab_0
     - zeromq =4.3.4 =h9c3ff4c_1
     - zipp =3.5.0 =pyhd8ed1ab_0
-    - zlib =1.2.11 =h36c2ea0_1011
+    - zlib =1.2.11 =h36c2ea0_1012
     - zstd =1.5.0 =ha95c52a_0
 
 about:

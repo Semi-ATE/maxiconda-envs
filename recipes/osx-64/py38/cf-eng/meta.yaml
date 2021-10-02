@@ -33,7 +33,7 @@ requirements:
     - pyvisa-py =0.5.2 =pyh44b312d_0
     - spyder-kernels =2.1.2 =py38h50d1736_0
 
-    # 57 secondary packages :
+    # 58 secondary packages :
     - appnope =0.1.2 =py38h50d1736_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
@@ -60,6 +60,7 @@ requirements:
     - libopenblas =0.3.17 =openmp_h3351f45_1
     - libsodium =1.0.18 =hbcb3906_1
     - libusb =1.0.24 =h0d85af4_105
+    - libzlib =1.2.11 =h9173be1_1012
     - llvm-openmp =12.0.1 =hda6cdc1_1
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - ncurses =6.2 =h2e338ed_4
@@ -90,7 +91,7 @@ requirements:
     - xz =5.2.5 =haf1e3a3_1
     - zeromq =4.3.4 =he49afe7_1
     - zipp =3.5.0 =pyhd8ed1ab_0
-    - zlib =1.2.11 =h9173be1_1011
+    - zlib =1.2.11 =h9173be1_1012
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

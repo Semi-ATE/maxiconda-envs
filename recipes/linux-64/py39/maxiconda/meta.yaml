@@ -45,9 +45,9 @@ requirements:
     - qtawesome =1.0.3 =pyhd8ed1ab_0
     - r-base =4.1.1 =hb93adac_1
     - r-essentials =4.1 =r41hd8ed1ab_2002
-    - regex =2021.9.24 =py39h3811e60_0
+    - regex =2021.9.30 =py39h3811e60_0
     - requests =2.26.0 =pyhd8ed1ab_0
-    - rust =1.55.0 =h3bf0571_2
+    - rust =1.55.0 =h61edd41_3
     - scipy =1.7.1 =py39hee8e79c_0
     - spyder-kernels =2.1.2 =py39hf3d152e_0
     - sqlalchemy =1.4.25 =py39h3811e60_0
@@ -55,7 +55,7 @@ requirements:
     - sympy =1.8 =py39hf3d152e_0
     - tqdm =4.62.3 =pyhd8ed1ab_0
 
-    # 414 secondary packages :
+    # 415 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -132,7 +132,7 @@ requirements:
     - jbig =2.1 =h7f98852_2003
     - jedi =0.18.0 =py39hf3d152e_2
     - jpeg =9d =h36c2ea0_0
-    - jsonschema =3.2.0 =pyhd8ed1ab_3
+    - jsonschema =4.0.1 =pyhd8ed1ab_0
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.8.1 =py39hf3d152e_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
@@ -179,6 +179,7 @@ requirements:
     - libxcb =1.13 =h7f98852_1003
     - libxkbcommon =1.0.3 =he3ba5ed_0
     - libxml2 =2.9.12 =h72842e0_0
+    - libzlib =1.2.11 =h36c2ea0_1012
     - llvmlite =0.36.0 =py39h1bbdace_0
     - lz4-c =1.9.3 =h9c3ff4c_1
     - make =4.3 =hd18ef5c_1
@@ -422,7 +423,7 @@ requirements:
     - ruamel.yaml =0.17.16 =py39h3811e60_0
     - ruamel.yaml.clib =0.2.2 =py39h3811e60_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-unknown-linux-gnu =1.55.0 =hc1431ca_2
+    - rust-std-x86_64-unknown-linux-gnu =1.55.0 =hc1431ca_3
     - sed =4.8 =he412f7d_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =58.0.4 =py39hf3d152e_2
@@ -446,7 +447,7 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.1 =py39h3811e60_1
     - traitlets =5.1.0 =pyhd8ed1ab_0
-    - tzdata =2021a =he74cb21_1
+    - tzdata =2021b =he74cb21_0
     - urllib3 =1.26.7 =pyhd8ed1ab_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - webencodings =0.5.1 =py_1
@@ -468,7 +469,7 @@ requirements:
     - yaml =0.2.5 =h516909a_0
     - zeromq =4.3.4 =h9c3ff4c_1
     - zipp =3.5.0 =pyhd8ed1ab_0
-    - zlib =1.2.11 =h36c2ea0_1011
+    - zlib =1.2.11 =h36c2ea0_1012
     - zstd =1.5.0 =ha95c52a_0
 
 about:

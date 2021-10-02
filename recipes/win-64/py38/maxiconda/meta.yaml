@@ -45,9 +45,9 @@ requirements:
     - qtawesome =1.0.3 =pyhd8ed1ab_0
     - r-base =4.1.1 =hddad469_1
     - r-essentials =4.1 =r41hd8ed1ab_2002
-    - regex =2021.9.24 =py38h294d835_0
+    - regex =2021.9.30 =py38h294d835_0
     - requests =2.26.0 =pyhd8ed1ab_0
-    - rust =1.55.0 =hf8d6059_2
+    - rust =1.55.0 =hf8d6059_3
     - scipy =1.7.1 =py38ha1292f7_0
     - spyder-kernels =2.1.2 =py38haa244fe_0
     - sqlalchemy =1.4.25 =py38h294d835_0
@@ -91,7 +91,6 @@ requirements:
     - idna =3.1 =pyhd3deb0d_0
     - imagesize =1.2.0 =py_0
     - importlib-metadata =4.8.1 =py38haa244fe_0
-    - importlib_metadata =4.8.1 =hd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
     - intel-openmp =2021.3.0 =h57928b3_3372
     - ipykernel =6.4.1 =py38h595d716_0
@@ -99,7 +98,7 @@ requirements:
     - jbig =2.1 =h8d14728_2003
     - jedi =0.18.0 =py38haa244fe_2
     - jpeg =9d =h8ffe710_0
-    - jsonschema =3.2.0 =py38h32f6830_1
+    - jsonschema =4.0.1 =pyhd8ed1ab_0
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.8.1 =py38haa244fe_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
@@ -115,6 +114,7 @@ requirements:
     - libpng =1.6.37 =h1d00b33_2
     - libsodium =1.0.18 =h8d14728_1
     - libtiff =4.3.0 =h0c97f57_1
+    - libzlib =1.2.11 =h8ffe710_1012
     - llvmlite =0.36.0 =py38h57a6900_0
     - lz4-c =1.9.3 =h8ffe710_1
     - m2w64-bwidget =1.9.10 =2
@@ -376,7 +376,7 @@ requirements:
     - ruamel.yaml =0.17.16 =py38h294d835_0
     - ruamel.yaml.clib =0.2.2 =py38h294d835_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-pc-windows-msvc =1.55.0 =h69312b4_2
+    - rust-std-x86_64-pc-windows-msvc =1.55.0 =h69312b4_3
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =58.0.4 =py38haa244fe_2
     - six =1.16.0 =pyh6c4a22f_0
@@ -410,7 +410,7 @@ requirements:
     - yaml =0.2.5 =he774522_0
     - zeromq =4.3.4 =h0e60522_1
     - zipp =3.5.0 =pyhd8ed1ab_0
-    - zlib =1.2.11 =h8d14728_1011
+    - zlib =1.2.11 =h8ffe710_1012
     - zstd =1.5.0 =h6255e5f_0
 
 about:

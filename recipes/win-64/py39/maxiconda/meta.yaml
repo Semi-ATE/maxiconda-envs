@@ -45,9 +45,9 @@ requirements:
     - qtawesome =1.0.3 =pyhd8ed1ab_0
     - r-base =4.1.1 =hddad469_1
     - r-essentials =4.1 =r41hd8ed1ab_2002
-    - regex =2021.9.24 =py39hb82d6ee_0
+    - regex =2021.9.30 =py39hb82d6ee_0
     - requests =2.26.0 =pyhd8ed1ab_0
-    - rust =1.55.0 =hf8d6059_2
+    - rust =1.55.0 =hf8d6059_3
     - scipy =1.7.1 =py39hc0c34ad_0
     - spyder-kernels =2.1.2 =py39hcbf5309_0
     - sqlalchemy =1.4.25 =py39hb82d6ee_0
@@ -55,7 +55,7 @@ requirements:
     - sympy =1.8 =py39hcbf5309_0
     - tqdm =4.62.3 =pyhd8ed1ab_0
 
-    # 356 secondary packages :
+    # 357 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - alabaster =0.7.12 =py_0
     - argon2-cffi =20.1.0 =py39hb82d6ee_2
@@ -98,7 +98,7 @@ requirements:
     - jbig =2.1 =h8d14728_2003
     - jedi =0.18.0 =py39hcbf5309_2
     - jpeg =9d =h8ffe710_0
-    - jsonschema =3.2.0 =pyhd8ed1ab_3
+    - jsonschema =4.0.1 =pyhd8ed1ab_0
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.8.1 =py39hcbf5309_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
@@ -114,6 +114,7 @@ requirements:
     - libpng =1.6.37 =h1d00b33_2
     - libsodium =1.0.18 =h8d14728_1
     - libtiff =4.3.0 =h0c97f57_1
+    - libzlib =1.2.11 =h8ffe710_1012
     - llvmlite =0.36.0 =py39ha0cd8c8_0
     - lz4-c =1.9.3 =h8ffe710_1
     - m2w64-bwidget =1.9.10 =2
@@ -375,7 +376,7 @@ requirements:
     - ruamel.yaml =0.17.16 =py39hb82d6ee_0
     - ruamel.yaml.clib =0.2.2 =py39hb82d6ee_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-pc-windows-msvc =1.55.0 =h69312b4_2
+    - rust-std-x86_64-pc-windows-msvc =1.55.0 =h69312b4_3
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =58.0.4 =py39hcbf5309_2
     - six =1.16.0 =pyh6c4a22f_0
@@ -396,7 +397,7 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.1 =py39hb82d6ee_1
     - traitlets =5.1.0 =pyhd8ed1ab_0
-    - tzdata =2021a =he74cb21_1
+    - tzdata =2021b =he74cb21_0
     - ucrt =10.0.20348.0 =h57928b3_0
     - urllib3 =1.26.7 =pyhd8ed1ab_0
     - vc =14.2 =hb210afc_5
@@ -410,7 +411,7 @@ requirements:
     - yaml =0.2.5 =he774522_0
     - zeromq =4.3.4 =h0e60522_1
     - zipp =3.5.0 =pyhd8ed1ab_0
-    - zlib =1.2.11 =h8d14728_1011
+    - zlib =1.2.11 =h8ffe710_1012
     - zstd =1.5.0 =h6255e5f_0
 
 about:

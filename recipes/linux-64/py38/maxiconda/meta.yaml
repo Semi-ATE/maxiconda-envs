@@ -45,9 +45,9 @@ requirements:
     - qtawesome =1.0.3 =pyhd8ed1ab_0
     - r-base =4.1.1 =hb93adac_1
     - r-essentials =4.1 =r41hd8ed1ab_2002
-    - regex =2021.9.24 =py38h497a2fe_0
+    - regex =2021.9.30 =py38h497a2fe_0
     - requests =2.26.0 =pyhd8ed1ab_0
-    - rust =1.55.0 =h3bf0571_2
+    - rust =1.55.0 =h61edd41_3
     - scipy =1.7.1 =py38h56a6a73_0
     - spyder-kernels =2.1.2 =py38h578d9bd_0
     - sqlalchemy =1.4.25 =py38h497a2fe_0
@@ -126,14 +126,13 @@ requirements:
     - idna =3.1 =pyhd3deb0d_0
     - imagesize =1.2.0 =py_0
     - importlib-metadata =4.8.1 =py38h578d9bd_0
-    - importlib_metadata =4.8.1 =hd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
     - ipykernel =6.4.1 =py38he5a9106_0
     - ipython_genutils =0.2.0 =py_1
     - jbig =2.1 =h7f98852_2003
     - jedi =0.18.0 =py38h578d9bd_2
     - jpeg =9d =h36c2ea0_0
-    - jsonschema =3.2.0 =py38h32f6830_1
+    - jsonschema =4.0.1 =pyhd8ed1ab_0
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.8.1 =py38h578d9bd_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
@@ -180,6 +179,7 @@ requirements:
     - libxcb =1.13 =h7f98852_1003
     - libxkbcommon =1.0.3 =he3ba5ed_0
     - libxml2 =2.9.12 =h72842e0_0
+    - libzlib =1.2.11 =h36c2ea0_1012
     - llvmlite =0.36.0 =py38h4630a5e_0
     - lz4-c =1.9.3 =h9c3ff4c_1
     - make =4.3 =hd18ef5c_1
@@ -423,7 +423,7 @@ requirements:
     - ruamel.yaml =0.17.16 =py38h497a2fe_0
     - ruamel.yaml.clib =0.2.2 =py38h497a2fe_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-unknown-linux-gnu =1.55.0 =hc1431ca_2
+    - rust-std-x86_64-unknown-linux-gnu =1.55.0 =hc1431ca_3
     - sed =4.8 =he412f7d_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =58.0.4 =py38h578d9bd_2
@@ -468,7 +468,7 @@ requirements:
     - yaml =0.2.5 =h516909a_0
     - zeromq =4.3.4 =h9c3ff4c_1
     - zipp =3.5.0 =pyhd8ed1ab_0
-    - zlib =1.2.11 =h36c2ea0_1011
+    - zlib =1.2.11 =h36c2ea0_1012
     - zstd =1.5.0 =ha95c52a_0
 
 about:

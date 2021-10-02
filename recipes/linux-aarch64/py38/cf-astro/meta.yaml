@@ -27,7 +27,7 @@ requirements:
     # 1 primary packages :
     - spyder-kernels =2.1.2 =py38h2063c64_0
 
-    # 46 secondary packages :
+    # 47 secondary packages :
     - _openmp_mutex =4.5 =1_gnu
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
@@ -48,6 +48,7 @@ requirements:
     - libgomp =11.2.0 =hf1cc4e7_9
     - libsodium =1.0.18 =hb9de7d4_1
     - libstdcxx-ng =11.2.0 =h0d0a5bb_9
+    - libzlib =1.2.11 =hb9de7d4_1012
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - ncurses =6.2 =h7fd3ca4_4
     - openssl =3.0.0 =hf897c2e_1
@@ -73,7 +74,7 @@ requirements:
     - wurlitzer =3.0.2 =py38h2063c64_0
     - xz =5.2.5 =h6dd45c4_1
     - zeromq =4.3.4 =h01db608_1
-    - zlib =1.2.11 =hb9de7d4_1011
+    - zlib =1.2.11 =hb9de7d4_1012
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

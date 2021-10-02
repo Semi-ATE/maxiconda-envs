@@ -34,7 +34,7 @@ requirements:
     - scipy =1.5.3 =py39h0fe7a32_0
     - spyder-kernels =2.1.2 =py39h6e9494a_0
 
-    # 115 secondary packages :
+    # 116 secondary packages :
     - appnope =0.1.2 =py39h6e9494a_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
@@ -98,6 +98,7 @@ requirements:
     - libwebp-base =1.2.1 =h0d85af4_0
     - libxml2 =2.9.12 =h93ec3fd_0
     - libzip =1.8.0 =h7e5727d_1
+    - libzlib =1.2.11 =h9173be1_1012
     - llvm-openmp =12.0.1 =hda6cdc1_1
     - lz4-c =1.9.3 =he49afe7_1
     - matplotlib-base =3.4.3 =py39hb07454d_1
@@ -137,18 +138,18 @@ requirements:
     - sqlalchemy =1.4.25 =py39h89e85a6_0
     - sqlite =3.36.0 =h23a322b_2
     - statsmodels =0.12.2 =py39hc89836e_0
-    - threadpoolctl =2.2.0 =pyh8a188c0_0
+    - threadpoolctl =3.0.0 =pyh8a188c0_0
     - tk =8.6.11 =h5dbffcc_1
     - tornado =6.1 =py39h89e85a6_1
     - tqdm =4.62.3 =pyhd8ed1ab_0
     - traitlets =5.1.0 =pyhd8ed1ab_0
-    - tzdata =2021a =he74cb21_1
+    - tzdata =2021b =he74cb21_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.37.0 =pyhd8ed1ab_1
     - wurlitzer =3.0.2 =py39h6e9494a_0
     - xz =5.2.5 =haf1e3a3_1
     - zeromq =4.3.4 =he49afe7_1
-    - zlib =1.2.11 =h9173be1_1011
+    - zlib =1.2.11 =h9173be1_1012
     - zstd =1.5.0 =h582d3a0_0
 
 about:

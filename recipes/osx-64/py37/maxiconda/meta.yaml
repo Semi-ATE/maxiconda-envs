@@ -45,9 +45,9 @@ requirements:
     - qtawesome =1.0.3 =pyhd8ed1ab_0
     - r-base =4.1.1 =h65845f3_1
     - r-essentials =4.1 =r41hd8ed1ab_2002
-    - regex =2021.9.24 =py37h271585c_0
+    - regex =2021.9.30 =py37h271585c_0
     - requests =2.26.0 =pyhd8ed1ab_0
-    - rust =1.55.0 =h1c3a24c_2
+    - rust =1.55.0 =h7e1429e_3
     - scipy =1.7.1 =py37h4e3cf02_0
     - spyder-kernels =2.1.2 =py37hf985489_0
     - sqlalchemy =1.4.25 =py37h271585c_0
@@ -55,7 +55,7 @@ requirements:
     - sympy =1.8 =py37hf985489_0
     - tqdm =4.62.3 =pyhd8ed1ab_0
 
-    # 394 secondary packages :
+    # 395 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - alabaster =0.7.12 =py_0
     - appnope =0.1.2 =py37hf985489_1
@@ -133,7 +133,7 @@ requirements:
     - jbig =2.1 =h0d85af4_2003
     - jedi =0.18.0 =py37hf985489_2
     - jpeg =9d =hbcb3906_0
-    - jsonschema =3.2.0 =py37hc8dfbb8_1
+    - jsonschema =4.0.1 =pyhd8ed1ab_0
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.8.1 =py37hf985489_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
@@ -171,6 +171,7 @@ requirements:
     - libtiff =4.3.0 =h1167814_1
     - libwebp-base =1.2.1 =h0d85af4_0
     - libxml2 =2.9.12 =h93ec3fd_0
+    - libzlib =1.2.11 =h9173be1_1012
     - llvm-openmp =12.0.1 =hda6cdc1_1
     - llvm-tools =11.1.0 =hd011deb_2
     - llvmlite =0.36.0 =py37h62ea057_0
@@ -415,7 +416,7 @@ requirements:
     - ruamel.yaml =0.17.16 =py37h271585c_0
     - ruamel.yaml.clib =0.2.2 =py37hf967b71_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-apple-darwin =1.55.0 =h15ec7c7_2
+    - rust-std-x86_64-apple-darwin =1.55.0 =h059895a_3
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =58.0.4 =py37hf985489_2
     - six =1.16.0 =pyh6c4a22f_0
@@ -448,7 +449,7 @@ requirements:
     - yaml =0.2.5 =haf1e3a3_0
     - zeromq =4.3.4 =he49afe7_1
     - zipp =3.5.0 =pyhd8ed1ab_0
-    - zlib =1.2.11 =h9173be1_1011
+    - zlib =1.2.11 =h9173be1_1012
     - zstd =1.5.0 =h582d3a0_0
 
 about:

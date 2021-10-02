@@ -34,7 +34,7 @@ requirements:
     - sqlalchemy =1.4.25 =py37h5e8e339_0
     - twisted =21.7.0 =py37h5e8e339_0
 
-    # 82 secondary packages :
+    # 83 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -75,6 +75,7 @@ requirements:
     - libgomp =11.2.0 =h1d223b6_9
     - libsodium =1.0.18 =h36c2ea0_1
     - libstdcxx-ng =11.2.0 =he4da1e4_9
+    - libzlib =1.2.11 =h36c2ea0_1012
     - markupsafe =2.0.1 =py37h5e8e339_0
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - ncurses =6.2 =h58526e2_4
@@ -115,7 +116,7 @@ requirements:
     - yaml =0.2.5 =h516909a_0
     - zeromq =4.3.4 =h9c3ff4c_1
     - zipp =3.5.0 =pyhd8ed1ab_0
-    - zlib =1.2.11 =h36c2ea0_1011
+    - zlib =1.2.11 =h36c2ea0_1012
     - zope.interface =5.4.0 =py37h5e8e339_0
 
 about:

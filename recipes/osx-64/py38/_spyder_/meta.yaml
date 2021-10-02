@@ -37,7 +37,7 @@ requirements:
     - spyder-terminal =1.1.0 =py38h50d1736_1
     - sympy =1.8 =py38h50d1736_0
 
-    # 216 secondary packages :
+    # 217 secondary packages :
     - alabaster =0.7.12 =py_0
     - applaunchservices =0.2.1 =py_0
     - appnope =0.1.2 =py38h50d1736_1
@@ -102,7 +102,7 @@ requirements:
     - jinja2 =2.11.3 =pyh44b312d_0
     - jinja2-time =0.2.0 =py_2
     - jpeg =9d =hbcb3906_0
-    - jsonschema =3.2.0 =py38h32f6830_1
+    - jsonschema =4.0.1 =pyhd8ed1ab_0
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.8.1 =py38h50d1736_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
@@ -132,6 +132,7 @@ requirements:
     - libspatialindex =1.9.3 =he49afe7_4
     - libtiff =4.3.0 =h1167814_1
     - libwebp-base =1.2.1 =h0d85af4_0
+    - libzlib =1.2.11 =h9173be1_1012
     - llvm-openmp =12.0.1 =hda6cdc1_1
     - lz4-c =1.9.3 =he49afe7_1
     - markupsafe =1.1.1 =py38h5406a74_3
@@ -206,7 +207,7 @@ requirements:
     - qtconsole =5.1.1 =pyhd8ed1ab_0
     - qtpy =1.11.2 =pyhd8ed1ab_0
     - readline =8.1 =h05e3726_0
-    - regex =2021.9.24 =py38h96a0964_0
+    - regex =2021.9.30 =py38h96a0964_0
     - requests =2.26.0 =pyhd8ed1ab_0
     - rope =0.20.1 =pyhd8ed1ab_0
     - rtree =0.9.7 =py38hc59ffc2_2
@@ -252,7 +253,7 @@ requirements:
     - zeroconf =0.36.7 =pyhd8ed1ab_0
     - zeromq =4.3.4 =he49afe7_1
     - zipp =3.5.0 =pyhd8ed1ab_0
-    - zlib =1.2.11 =h9173be1_1011
+    - zlib =1.2.11 =h9173be1_1012
     - zstd =1.5.0 =h582d3a0_0
 
 about:
