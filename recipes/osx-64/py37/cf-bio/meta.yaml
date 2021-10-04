@@ -32,7 +32,7 @@ requirements:
     - pandas =1.3.3 =py37h5b83a90_0
     - rdkit =2021.03.5 =py37h9710f2f_0
     - scipy =1.7.1 =py37h4e3cf02_0
-    - spyder-kernels =2.1.2 =py37hf985489_0
+    - spyder-kernels =2.1.3 =py37hf985489_0
 
     # 120 secondary packages :
     - appnope =0.1.2 =py37hf985489_1
@@ -101,7 +101,7 @@ requirements:
     - libwebp-base =1.2.1 =h0d85af4_0
     - libxml2 =2.9.12 =h93ec3fd_0
     - libzip =1.8.0 =h8b0c345_1
-    - libzlib =1.2.11 =h9173be1_1012
+    - libzlib =1.2.11 =h9173be1_1013
     - llvm-openmp =12.0.1 =hda6cdc1_1
     - lz4-c =1.9.3 =he49afe7_1
     - matplotlib-base =3.4.3 =py37h3147e9e_1
@@ -140,7 +140,7 @@ requirements:
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.25 =py37h271585c_0
     - sqlite =3.36.0 =h23a322b_2
-    - statsmodels =0.12.2 =py37h032687b_0
+    - statsmodels =0.13.0 =py37h032687b_0
     - threadpoolctl =3.0.0 =pyh8a188c0_0
     - tk =8.6.11 =h5dbffcc_1
     - tornado =6.1 =py37h271585c_1
@@ -152,8 +152,8 @@ requirements:
     - wurlitzer =3.0.2 =py37hf985489_0
     - xz =5.2.5 =haf1e3a3_1
     - zeromq =4.3.4 =he49afe7_1
-    - zipp =3.5.1 =pyhd8ed1ab_0
-    - zlib =1.2.11 =h9173be1_1012
+    - zipp =3.6.0 =pyhd8ed1ab_0
+    - zlib =1.2.11 =h9173be1_1013
     - zstd =1.5.0 =h582d3a0_0
 
 about:

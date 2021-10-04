@@ -25,7 +25,7 @@ requirements:
     - python =3.8.12 =hd949e87_1_cpython
 
     # 1 primary packages :
-    - spyder-kernels =2.1.2 =py38h10201cd_0
+    - spyder-kernels =2.1.3 =py38h10201cd_0
 
     # 44 secondary packages :
     - appnope =0.1.2 =py38h10201cd_1
@@ -45,7 +45,7 @@ requirements:
     - libcxx =12.0.1 =h168391b_0
     - libffi =3.4.2 =hbdafb3b_4
     - libsodium =1.0.18 =h27ca646_1
-    - libzlib =1.2.11 =hee7b306_1012
+    - libzlib =1.2.11 =hee7b306_1013
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - ncurses =6.2 =h9aa5885_4
     - openssl =3.0.0 =h3422bc3_1
@@ -71,7 +71,7 @@ requirements:
     - wurlitzer =3.0.2 =py38h10201cd_0
     - xz =5.2.5 =h642e427_1
     - zeromq =4.3.4 =hbdafb3b_1
-    - zlib =1.2.11 =hee7b306_1012
+    - zlib =1.2.11 =hee7b306_1013
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
