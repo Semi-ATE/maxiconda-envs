@@ -26,7 +26,7 @@ requirements:
 
     # 29 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
-    - bitarray =2.3.4 =py37h5e8e339_0
+    - bitarray =2.3.4 =py37h5e8e339_1
     - cython =0.29.24 =py37hcd2ae1e_0
     - grayskull =0.8.5 =pyhd8ed1ab_0
     - hypothesis =6.23.1 =pyhd8ed1ab_0
@@ -392,11 +392,11 @@ requirements:
     - r-sourcetools =0.1.7 =r41h9c3ff4c_1002
     - r-spatial =7.3_14 =r41hcfec24a_0
     - r-squarem =2021.1 =r41hc72bb7e_0
-    - r-stringi =1.7.4 =r41hcabe038_0
+    - r-stringi =1.7.5 =r41hcabe038_0
     - r-stringr =1.4.0 =r41hc72bb7e_2
     - r-survival =3.2_13 =r41hcfec24a_0
     - r-sys =3.4 =r41hcfec24a_0
-    - r-testthat =3.0.4 =r41h03ef668_0
+    - r-testthat =3.1.0 =r41h03ef668_0
     - r-tibble =3.1.5 =r41hcfec24a_0
     - r-tidyr =1.1.4 =r41h03ef668_0
     - r-tidyselect =1.1.1 =r41hc72bb7e_0
