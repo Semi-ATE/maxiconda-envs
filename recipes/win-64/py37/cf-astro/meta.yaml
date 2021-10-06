@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =h7840368_101_cpython
+    - python =3.7.10 =h900ac77_102_cpython
   run:
-    - python =3.7.10 =h7840368_101_cpython
+    - python =3.7.10 =h900ac77_102_cpython
 
     # 1 primary packages :
     - spyder-kernels =2.1.3 =py37h03978a9_0
@@ -47,7 +47,7 @@ requirements:
     - jupyter_core =4.8.1 =py37h03978a9_0
     - libsodium =1.0.18 =h8d14728_1
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
-    - openssl =1.1.1l =h8ffe710_0
+    - openssl =3.0.0 =h8ffe710_1
     - parso =0.8.2 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pip =21.2.4 =pyhd8ed1ab_0

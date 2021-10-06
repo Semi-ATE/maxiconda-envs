@@ -20,13 +20,13 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =hb7a2778_101_cpython
+    - python =3.7.10 =hb7a2778_102_cpython
   run:
-    - python =3.7.10 =hb7a2778_101_cpython
+    - python =3.7.10 =hb7a2778_102_cpython
 
     # 8 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
-    - django =3.2.7 =pyhd8ed1ab_0
+    - django =3.2.8 =pyhd8ed1ab_0
     - jinja2 =3.0.1 =pyhd8ed1ab_0
     - pyyaml =5.4.1 =py37h5e8e339_1
     - requests =2.26.0 =pyhd8ed1ab_0
@@ -94,7 +94,7 @@ requirements:
     - pysocks =1.7.1 =py37h89c1867_3
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.7 =2_cp37m
-    - pytz =2021.1 =pyhd8ed1ab_0
+    - pytz =2021.3 =pyhd8ed1ab_0
     - pyzmq =22.3.0 =py37h336d617_0
     - readline =8.1 =h46c0cb4_0
     - service_identity =18.1.0 =py_0

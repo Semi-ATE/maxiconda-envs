@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =h9f07fca_101_cpython
+    - python =3.7.10 =h47f6e27_102_cpython
   run:
-    - python =3.7.10 =h9f07fca_101_cpython
+    - python =3.7.10 =h47f6e27_102_cpython
 
     # 7 primary packages :
     - biopython =1.79 =py37hcd4c3ab_0
@@ -95,7 +95,7 @@ requirements:
     - ncurses =6.2 =h7fd3ca4_4
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =h45037e0_1
-    - openssl =1.1.1l =hf897c2e_0
+    - openssl =3.0.0 =hf897c2e_1
     - parso =0.8.2 =pyhd8ed1ab_0
     - pcre =8.45 =h01db608_0
     - pexpect =4.8.0 =py37hc8dfbb8_1
@@ -111,7 +111,7 @@ requirements:
     - pyparsing =2.4.7 =pyh9f0ad1d_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.7 =2_cp37m
-    - pytz =2021.1 =pyhd8ed1ab_0
+    - pytz =2021.3 =pyhd8ed1ab_0
     - pyzmq =22.3.0 =py37h3f30300_0
     - readline =8.1 =h1a49cc3_0
     - reportlab =3.5.68 =py37h49369dd_0

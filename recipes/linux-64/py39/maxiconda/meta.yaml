@@ -121,7 +121,7 @@ requirements:
     - gstreamer =1.18.5 =h76c114f_0
     - gxx_impl_linux-64 =9.4.0 =h03d3576_9
     - gxx_linux-64 =9.4.0 =h0316aca_1
-    - harfbuzz =2.9.1 =h83ec7ef_1
+    - harfbuzz =3.0.0 =h83ec7ef_1
     - icu =68.1 =h58526e2_0
     - idna =3.1 =pyhd3deb0d_0
     - imagesize =1.2.0 =py_0
@@ -207,7 +207,7 @@ requirements:
     - packaging =21.0 =pyhd8ed1ab_0
     - pandoc =2.14.2 =h7f98852_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.48.10 =hb8ff022_1
+    - pango =1.48.10 =h54213e6_2
     - parso =0.8.2 =pyhd8ed1ab_0
     - pcre =8.45 =h9c3ff4c_0
     - pcre2 =10.37 =h032f7d1_0
@@ -237,7 +237,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-utils =2.5.6 =pyh44b312d_0
     - python_abi =3.9 =2_cp39
-    - pytz =2021.1 =pyhd8ed1ab_0
+    - pytz =2021.3 =pyhd8ed1ab_0
     - pyzmq =22.3.0 =py39h37b5a0c_0
     - qt =5.12.9 =hda022c4_4
     - qtpy =1.11.2 =pyhd8ed1ab_0
@@ -271,7 +271,7 @@ requirements:
     - r-dbi =1.1.1 =r41hc72bb7e_0
     - r-dbplyr =2.1.1 =r41hc72bb7e_0
     - r-desc =1.4.0 =r41hc72bb7e_0
-    - r-diffobj =0.3.4 =r41hcfec24a_0
+    - r-diffobj =0.3.5 =r41hcfec24a_0
     - r-digest =0.6.28 =r41h03ef668_0
     - r-dplyr =1.0.7 =r41h03ef668_0
     - r-dtplyr =1.1.0 =r41hc72bb7e_0
@@ -447,7 +447,7 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.1 =py39h3811e60_1
     - traitlets =5.1.0 =pyhd8ed1ab_0
-    - tzdata =2021b =he74cb21_0
+    - tzdata =2021c =he74cb21_0
     - urllib3 =1.26.7 =pyhd8ed1ab_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - webencodings =0.5.1 =py_1

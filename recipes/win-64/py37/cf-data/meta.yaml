@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =h7840368_101_cpython
+    - python =3.7.10 =h7840368_102_cpython
   run:
-    - python =3.7.10 =h7840368_101_cpython
+    - python =3.7.10 =h7840368_102_cpython
 
     # 18 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -113,7 +113,7 @@ requirements:
     - greenlet =1.1.2 =py37hf2a7229_0
     - gts =0.7.6 =h7c369d9_2
     - h2 =3.2.0 =py37hc8dfbb8_1
-    - harfbuzz =2.9.1 =hc601d6f_1
+    - harfbuzz =3.0.0 =hc601d6f_1
     - hpack =3.0.0 =py_0
     - htmlmin =0.1.12 =py_1
     - hyperframe =5.2.0 =py_0
@@ -204,7 +204,7 @@ requirements:
     - pandas-profiling =3.1.0 =pyhd8ed1ab_0
     - pandoc =2.14.2 =h8ffe710_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.48.10 =hd84fcdd_1
+    - pango =1.48.10 =h33e4779_2
     - parsel =1.6.0 =py_0
     - parso =0.8.2 =pyhd8ed1ab_0
     - pathy =0.6.0 =pyhd8ed1ab_0
@@ -246,7 +246,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-editor =1.0.4 =py_0
     - python_abi =3.7 =2_cp37m
-    - pytz =2021.1 =pyhd8ed1ab_0
+    - pytz =2021.3 =pyhd8ed1ab_0
     - pywavelets =1.1.1 =py37hec80d1f_3
     - pywin32 =301 =py37hcc03f2d_0
     - pywinpty =1.1.4 =py37h7f67f24_0

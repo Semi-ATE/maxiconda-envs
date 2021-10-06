@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =hb7a2778_101_cpython
+    - python =3.7.10 =hf930737_102_cpython
   run:
-    - python =3.7.10 =hb7a2778_101_cpython
+    - python =3.7.10 =hf930737_102_cpython
 
     # 7 primary packages :
     - numpy =1.21.2 =py37h31617e3_0
@@ -70,7 +70,7 @@ requirements:
     - libzlib =1.2.11 =h36c2ea0_1013
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - ncurses =6.2 =h58526e2_4
-    - openssl =1.1.1l =h7f98852_0
+    - openssl =3.0.0 =h7f98852_1
     - parso =0.8.2 =pyhd8ed1ab_0
     - pexpect =4.8.0 =py37hc8dfbb8_1
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
@@ -80,7 +80,7 @@ requirements:
     - pygments =2.10.0 =pyhd8ed1ab_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.7 =2_cp37m
-    - pytz =2021.1 =pyhd8ed1ab_0
+    - pytz =2021.3 =pyhd8ed1ab_0
     - pyvisa =1.11.3 =py37h89c1867_1
     - pyzmq =22.3.0 =py37h336d617_0
     - readline =8.1 =h46c0cb4_0

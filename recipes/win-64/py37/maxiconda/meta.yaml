@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =h7840368_101_cpython
+    - python =3.7.10 =h7840368_102_cpython
   run:
-    - python =3.7.10 =h7840368_101_cpython
+    - python =3.7.10 =h7840368_102_cpython
 
     # 29 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -191,7 +191,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-utils =2.5.6 =pyh44b312d_0
     - python_abi =3.7 =2_cp37m
-    - pytz =2021.1 =pyhd8ed1ab_0
+    - pytz =2021.3 =pyhd8ed1ab_0
     - pywin32 =301 =py37hcc03f2d_0
     - pywinpty =1.1.4 =py37h7f67f24_0
     - pyzmq =22.3.0 =py37hcce574b_0
@@ -227,7 +227,7 @@ requirements:
     - r-dbi =1.1.1 =r41hc72bb7e_0
     - r-dbplyr =2.1.1 =r41hc72bb7e_0
     - r-desc =1.4.0 =r41hc72bb7e_0
-    - r-diffobj =0.3.4 =r41h6d2157b_0
+    - r-diffobj =0.3.5 =r41h6d2157b_0
     - r-digest =0.6.28 =r41ha856d6a_0
     - r-dplyr =1.0.7 =r41ha856d6a_0
     - r-dtplyr =1.1.0 =r41hc72bb7e_0
