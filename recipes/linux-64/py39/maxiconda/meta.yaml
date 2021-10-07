@@ -149,7 +149,7 @@ requirements:
     - libdeflate =1.7 =h7f98852_5
     - libedit =3.1.20191231 =he28a2e2_2
     - libev =4.33 =h516909a_1
-    - libevent =2.1.10 =hcdb4288_3
+    - libevent =2.1.10 =h9b69904_4
     - libffi =3.4.2 =h9c3ff4c_4
     - libgcc-devel_linux-64 =9.4.0 =hd854feb_9
     - libgcc-ng =11.2.0 =h1d223b6_9
@@ -211,7 +211,7 @@ requirements:
     - parso =0.8.2 =pyhd8ed1ab_0
     - pcre =8.45 =h9c3ff4c_0
     - pcre2 =10.37 =h032f7d1_0
-    - perl =5.32.1 =0_h7f98852_perl5
+    - perl =5.32.1 =1_h7f98852_perl5
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =8.3.2 =py39ha612740_0
@@ -333,7 +333,7 @@ requirements:
     - r-markdown =1.1 =r41hcfec24a_1
     - r-mass =7.3_54 =r41hcfec24a_0
     - r-matrix =1.3_4 =r41he454529_0
-    - r-mgcv =1.8_37 =r41he454529_0
+    - r-mgcv =1.8_38 =r41he454529_0
     - r-mime =0.12 =r41hcfec24a_0
     - r-modelmetrics =1.2.2.2 =r41h03ef668_1
     - r-modelr =0.1.8 =r41hc72bb7e_0
@@ -341,7 +341,7 @@ requirements:
     - r-nlme =3.1_153 =r41h859d828_0
     - r-nnet =7.3_16 =r41hcfec24a_0
     - r-numderiv =2016.8_1.1 =r41hc72bb7e_3
-    - r-openssl =1.4.5 =r41he36bf35_0
+    - r-openssl =1.4.5 =r41he36bf35_1
     - r-parallelly =1.28.1 =r41hc72bb7e_0
     - r-pbdzmq =0.3_5 =r41h42bf92c_1
     - r-pillar =1.6.3 =r41hc72bb7e_0
@@ -426,7 +426,7 @@ requirements:
     - rust-std-x86_64-unknown-linux-gnu =1.55.0 =hc1431ca_3
     - sed =4.8 =he412f7d_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =58.0.4 =py39hf3d152e_2
+    - setuptools =58.2.0 =py39hf3d152e_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.1.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
