@@ -29,7 +29,7 @@ requirements:
     - bitarray =2.3.4 =py37h5e8e339_1
     - cython =0.29.24 =py37hcd2ae1e_0
     - grayskull =0.8.5 =pyhd8ed1ab_0
-    - hypothesis =6.23.1 =pyhd8ed1ab_0
+    - hypothesis =6.23.2 =pyhd8ed1ab_0
     - ipython =7.28.0 =py37h6531663_0
     - jinja2 =3.0.2 =pyhd8ed1ab_0
     - matplotlib =3.4.3 =py37h89c1867_1
@@ -45,14 +45,14 @@ requirements:
     - qtawesome =1.0.3 =pyhd8ed1ab_0
     - r-base =4.1.1 =hb93adac_1
     - r-essentials =4.1 =r41hd8ed1ab_2002
-    - regex =2021.9.30 =py37h5e8e339_0
+    - regex =2021.10.8 =py37h5e8e339_0
     - requests =2.26.0 =pyhd8ed1ab_0
     - rust =1.55.0 =h61edd41_3
     - scipy =1.7.1 =py37hf2a6cf1_0
     - spyder-kernels =2.1.3 =py37h89c1867_0
     - sqlalchemy =1.4.25 =py37h5e8e339_0
     - sqlite =3.36.0 =h9cd32fc_2
-    - sympy =1.8 =py37h89c1867_0
+    - sympy =1.9 =py37h89c1867_0
     - tqdm =4.62.3 =pyhd8ed1ab_0
 
     # 417 secondary packages :
@@ -76,13 +76,13 @@ requirements:
     - bwidget =1.9.14 =ha770c72_0
     - bzip2 =1.0.8 =h7f98852_4
     - c-ares =1.17.2 =h7f98852_0
-    - ca-certificates =2021.5.30 =ha878542_0
+    - ca-certificates =2021.10.8 =ha878542_0
     - cairo =1.16.0 =h6cf1ce9_1008
-    - certifi =2021.5.30 =py37h89c1867_0
+    - certifi =2021.10.8 =py37h89c1867_0
     - cffi =1.14.6 =py37h036bc23_1
     - chardet =4.0.0 =py37h89c1867_1
     - charset-normalizer =2.0.0 =pyhd8ed1ab_0
-    - click =8.0.1 =py37h89c1867_0
+    - click =8.0.2 =py37h89c1867_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
     - cryptography =3.4.7 =py37h5d9358c_0
@@ -105,10 +105,10 @@ requirements:
     - fonts-conda-forge =1 =0
     - freetype =2.10.4 =h0708190_1
     - fribidi =1.0.10 =h36c2ea0_0
-    - gcc_impl_linux-64 =9.4.0 =h03d3576_9
+    - gcc_impl_linux-64 =9.4.0 =h03d3576_10
     - gcc_linux-64 =9.4.0 =h391b98a_1
     - gettext =0.19.8.1 =h73d1719_1008
-    - gfortran_impl_linux-64 =9.4.0 =h0003116_9
+    - gfortran_impl_linux-64 =9.4.0 =h0003116_10
     - gfortran_linux-64 =9.4.0 =hf0ab688_1
     - git =2.33.0 =pl5321hc30692c_2
     - glib =2.68.4 =h9c3ff4c_1
@@ -120,7 +120,7 @@ requirements:
     - gsl =2.7 =he838d99_0
     - gst-plugins-base =1.18.5 =hf529b03_0
     - gstreamer =1.18.5 =h76c114f_0
-    - gxx_impl_linux-64 =9.4.0 =h03d3576_9
+    - gxx_impl_linux-64 =9.4.0 =h03d3576_10
     - gxx_linux-64 =9.4.0 =h0316aca_1
     - harfbuzz =3.0.0 =h83ec7ef_1
     - icu =68.1 =h58526e2_0
@@ -153,12 +153,12 @@ requirements:
     - libev =4.33 =h516909a_1
     - libevent =2.1.10 =h9b69904_4
     - libffi =3.4.2 =h9c3ff4c_4
-    - libgcc-devel_linux-64 =9.4.0 =hd854feb_9
-    - libgcc-ng =11.2.0 =h1d223b6_9
-    - libgfortran-ng =11.2.0 =h69a702a_9
-    - libgfortran5 =11.2.0 =h5c6108e_9
+    - libgcc-devel_linux-64 =9.4.0 =hd854feb_10
+    - libgcc-ng =11.2.0 =h1d223b6_10
+    - libgfortran-ng =11.2.0 =h69a702a_10
+    - libgfortran5 =11.2.0 =h5c6108e_10
     - libglib =2.68.4 =h174f98d_1
-    - libgomp =11.2.0 =h1d223b6_9
+    - libgomp =11.2.0 =h1d223b6_10
     - libiconv =1.16 =h516909a_0
     - liblapack =3.9.0 =11_linux64_openblas
     - libllvm10 =10.0.1 =he513fc3_3
@@ -169,11 +169,11 @@ requirements:
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.37 =h21135ba_2
     - libpq =13.3 =hd57d9b9_1
-    - libsanitizer =9.4.0 =h79bfe98_9
+    - libsanitizer =9.4.0 =h79bfe98_10
     - libsodium =1.0.18 =h36c2ea0_1
     - libssh2 =1.10.0 =ha56f1ee_2
-    - libstdcxx-devel_linux-64 =9.4.0 =hd854feb_9
-    - libstdcxx-ng =11.2.0 =he4da1e4_9
+    - libstdcxx-devel_linux-64 =9.4.0 =hd854feb_10
+    - libstdcxx-ng =11.2.0 =he4da1e4_10
     - libtiff =4.3.0 =hf544144_1
     - libuuid =2.32.1 =h7f98852_1000
     - libvorbis =1.3.7 =h9c3ff4c_0
@@ -253,10 +253,10 @@ requirements:
     - r-boot =1.3_28 =r41hc72bb7e_0
     - r-brio =1.1.2 =r41hcfec24a_0
     - r-broom =0.7.9 =r41hc72bb7e_0
-    - r-bslib =0.3.0 =r41hc72bb7e_0
+    - r-bslib =0.3.1 =r41hc72bb7e_0
     - r-cachem =1.0.6 =r41hcfec24a_0
     - r-callr =3.7.0 =r41hc72bb7e_0
-    - r-caret =6.0_89 =r41hcfec24a_0
+    - r-caret =6.0_90 =r41hcfec24a_0
     - r-cellranger =1.1.0 =r41hc72bb7e_1003
     - r-class =7.3_19 =r41hcfec24a_0
     - r-cli =3.0.1 =r41h03ef668_1

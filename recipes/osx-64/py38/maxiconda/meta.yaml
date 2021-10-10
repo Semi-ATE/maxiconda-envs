@@ -29,7 +29,7 @@ requirements:
     - bitarray =2.3.4 =py38h96a0964_1
     - cython =0.29.24 =py38ha048514_0
     - grayskull =0.8.5 =pyhd8ed1ab_0
-    - hypothesis =6.23.1 =pyhd8ed1ab_0
+    - hypothesis =6.23.2 =pyhd8ed1ab_0
     - ipython =7.28.0 =py38h5fd9f69_0
     - jinja2 =3.0.2 =pyhd8ed1ab_0
     - matplotlib =3.4.3 =py38h50d1736_1
@@ -45,14 +45,14 @@ requirements:
     - qtawesome =1.0.3 =pyhd8ed1ab_0
     - r-base =4.1.1 =h65845f3_1
     - r-essentials =4.1 =r41hd8ed1ab_2002
-    - regex =2021.9.30 =py38h96a0964_0
+    - regex =2021.10.8 =py38h96a0964_0
     - requests =2.26.0 =pyhd8ed1ab_0
     - rust =1.55.0 =h7e1429e_3
     - scipy =1.7.1 =py38hd329d04_0
     - spyder-kernels =2.1.3 =py38h50d1736_0
     - sqlalchemy =1.4.25 =py38h96a0964_0
     - sqlite =3.36.0 =h23a322b_2
-    - sympy =1.8 =py38h50d1736_0
+    - sympy =1.9 =py38h50d1736_0
     - tqdm =4.62.3 =pyhd8ed1ab_0
 
     # 392 secondary packages :
@@ -71,10 +71,10 @@ requirements:
     - bwidget =1.9.14 =h694c41f_0
     - bzip2 =1.0.8 =h0d85af4_4
     - c-ares =1.17.2 =h0d85af4_0
-    - ca-certificates =2021.5.30 =h033912b_0
+    - ca-certificates =2021.10.8 =h033912b_0
     - cairo =1.16.0 =he43a7df_1008
     - cctools_osx-64 =949.0.1 =h6407bdd_22
-    - certifi =2021.5.30 =py38h50d1736_0
+    - certifi =2021.10.8 =py38h50d1736_0
     - cffi =1.14.6 =py38h1a44b6c_1
     - chardet =4.0.0 =py38h50d1736_1
     - charset-normalizer =2.0.0 =pyhd8ed1ab_0
@@ -83,7 +83,7 @@ requirements:
     - clang_osx-64 =11.1.0 =hb91bd55_3
     - clangxx =11.1.0 =default_he082bbe_1
     - clangxx_osx-64 =11.1.0 =h7e1b574_3
-    - click =8.0.1 =py38h50d1736_0
+    - click =8.0.2 =py38h50d1736_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
     - compiler-rt =11.1.0 =h654b07c_0
@@ -242,10 +242,10 @@ requirements:
     - r-boot =1.3_28 =r41hc72bb7e_0
     - r-brio =1.1.2 =r41h28b5c78_0
     - r-broom =0.7.9 =r41hc72bb7e_0
-    - r-bslib =0.3.0 =r41hc72bb7e_0
+    - r-bslib =0.3.1 =r41hc72bb7e_0
     - r-cachem =1.0.6 =r41h28b5c78_0
     - r-callr =3.7.0 =r41hc72bb7e_0
-    - r-caret =6.0_89 =r41h28b5c78_0
+    - r-caret =6.0_90 =r41h28b5c78_0
     - r-cellranger =1.1.0 =r41hc72bb7e_1003
     - r-class =7.3_19 =r41h28b5c78_0
     - r-cli =3.0.1 =r41h9951f98_1
