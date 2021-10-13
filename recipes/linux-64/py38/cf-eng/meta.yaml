@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.12 =hf930737_1_cpython
+    - python =3.8.12 =hf930737_2_cpython
   run:
-    - python =3.8.12 =hf930737_1_cpython
+    - python =3.8.12 =hf930737_2_cpython
 
     # 7 primary packages :
     - numpy =1.21.2 =py38he2449b9_0
@@ -33,7 +33,7 @@ requirements:
     - pyvisa-py =0.5.2 =pyh44b312d_0
     - spyder-kernels =2.1.3 =py38h578d9bd_0
 
-    # 62 secondary packages :
+    # 63 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -60,6 +60,7 @@ requirements:
     - libgfortran5 =11.2.0 =h5c6108e_10
     - libgomp =11.2.0 =h1d223b6_10
     - liblapack =3.9.0 =11_linux64_openblas
+    - libnsl =2.0.0 =h7f98852_0
     - libopenblas =0.3.17 =pthreads_h8fe5266_1
     - libsodium =1.0.18 =h36c2ea0_1
     - libstdcxx-ng =11.2.0 =he4da1e4_10
@@ -72,7 +73,7 @@ requirements:
     - parso =0.8.2 =pyhd8ed1ab_0
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
-    - pip =21.2.4 =pyhd8ed1ab_0
+    - pip =21.3 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.20 =pyha770c72_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pygments =2.10.0 =pyhd8ed1ab_0

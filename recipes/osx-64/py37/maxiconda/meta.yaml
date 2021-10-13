@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =haf480d7_102_cpython
+    - python =3.7.10 =haf480d7_103_cpython
   run:
-    - python =3.7.10 =haf480d7_102_cpython
+    - python =3.7.10 =haf480d7_103_cpython
 
     # 29 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -84,7 +84,7 @@ requirements:
     - clang_osx-64 =11.1.0 =hb91bd55_3
     - clangxx =11.1.0 =default_he082bbe_1
     - clangxx_osx-64 =11.1.0 =h7e1b574_3
-    - click =8.0.2 =py37hf985489_0
+    - click =8.0.3 =py37hf985489_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
     - compiler-rt =11.1.0 =h654b07c_0
@@ -209,7 +209,7 @@ requirements:
     - pexpect =4.8.0 =py37hc8dfbb8_1
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pillow =8.3.2 =py37h76dc067_0
-    - pip =21.2.4 =pyhd8ed1ab_0
+    - pip =21.3 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
     - pluggy =1.0.0 =py37hf985489_1
     - progressbar2 =3.53.1 =pyh9f0ad1d_0

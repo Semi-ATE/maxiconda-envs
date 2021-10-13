@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =h7840368_102_cpython
+    - python =3.7.10 =h7840368_103_cpython
   run:
-    - python =3.7.10 =h7840368_102_cpython
+    - python =3.7.10 =h7840368_103_cpython
 
     # 8 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -74,7 +74,7 @@ requirements:
     - openssl =1.1.1l =h8ffe710_0
     - parso =0.8.2 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
-    - pip =21.2.4 =pyhd8ed1ab_0
+    - pip =21.3 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.20 =pyha770c72_0
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0

@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =hb7a2778_102_cpython
+    - python =3.7.10 =hb7a2778_103_cpython
   run:
-    - python =3.7.10 =hb7a2778_102_cpython
+    - python =3.7.10 =hb7a2778_103_cpython
 
     # 8 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -34,7 +34,7 @@ requirements:
     - sqlalchemy =1.4.25 =py37h5e8e339_0
     - twisted =21.7.0 =py37h5e8e339_0
 
-    # 83 secondary packages :
+    # 84 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -73,6 +73,7 @@ requirements:
     - libffi =3.4.2 =h9c3ff4c_4
     - libgcc-ng =11.2.0 =h1d223b6_10
     - libgomp =11.2.0 =h1d223b6_10
+    - libnsl =2.0.0 =h7f98852_0
     - libsodium =1.0.18 =h36c2ea0_1
     - libstdcxx-ng =11.2.0 =he4da1e4_10
     - libzlib =1.2.11 =h36c2ea0_1013
@@ -83,7 +84,7 @@ requirements:
     - parso =0.8.2 =pyhd8ed1ab_0
     - pexpect =4.8.0 =py37hc8dfbb8_1
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
-    - pip =21.2.4 =pyhd8ed1ab_0
+    - pip =21.3 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.20 =pyha770c72_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pyasn1 =0.4.8 =py_0

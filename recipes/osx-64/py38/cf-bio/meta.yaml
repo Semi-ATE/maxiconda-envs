@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.12 =h43ca1e7_1_cpython
+    - python =3.8.12 =h43ca1e7_2_cpython
   run:
-    - python =3.8.12 =h43ca1e7_1_cpython
+    - python =3.8.12 =h43ca1e7_2_cpython
 
     # 8 primary packages :
     - biopython =1.79 =py38h96a0964_0
@@ -117,7 +117,7 @@ requirements:
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pillow =8.3.2 =py38hee640a0_0
-    - pip =21.2.4 =pyhd8ed1ab_0
+    - pip =21.3 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
     - prompt-toolkit =3.0.20 =pyha770c72_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0

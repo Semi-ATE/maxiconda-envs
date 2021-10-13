@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.12 =h7840368_1_cpython
+    - python =3.8.12 =h7840368_2_cpython
   run:
-    - python =3.8.12 =h7840368_1_cpython
+    - python =3.8.12 =h7840368_2_cpython
 
     # 18 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -69,7 +69,7 @@ requirements:
     - chardet =4.0.0 =py38haa244fe_1
     - charset-normalizer =2.0.0 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyh9f0ad1d_0
-    - click =8.0.2 =py38haa244fe_0
+    - click =8.0.3 =py38haa244fe_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
     - colorlover =0.3.0 =py_0
@@ -213,7 +213,7 @@ requirements:
     - phik =0.11.2 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pillow =8.3.2 =py38h794f750_0
-    - pip =21.2.4 =pyhd8ed1ab_0
+    - pip =21.3 =pyhd8ed1ab_0
     - pixman =0.40.0 =h8ffe710_0
     - preshed =3.0.5 =py38h885f38d_1
     - priority =1.3.0 =py_0
