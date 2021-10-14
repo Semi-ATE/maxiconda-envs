@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =haf480d7_103_cpython
+    - python =3.7.10 =haf480d7_104_cpython
   run:
-    - python =3.7.10 =haf480d7_103_cpython
+    - python =3.7.10 =haf480d7_104_cpython
 
     # 29 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -74,7 +74,7 @@ requirements:
     - c-ares =1.17.2 =h0d85af4_0
     - ca-certificates =2021.10.8 =h033912b_0
     - cairo =1.16.0 =he43a7df_1008
-    - cctools_osx-64 =949.0.1 =h6407bdd_22
+    - cctools_osx-64 =949.0.1 =h6407bdd_23
     - certifi =2021.10.8 =py37hf985489_0
     - cffi =1.14.6 =py37h446072c_1
     - chardet =4.0.0 =py37hf985489_1
@@ -142,14 +142,14 @@ requirements:
     - lcms2 =2.12 =h577c468_0
     - ld64_osx-64 =530 =he8994da_21
     - ldid =2.1.2 =h6a69015_3
-    - lerc =2.2.1 =h046ec9c_0
+    - lerc =3.0 =he49afe7_0
     - libblas =3.9.0 =11_osx64_openblas
     - libcblas =3.9.0 =11_osx64_openblas
     - libclang =11.1.0 =default_he082bbe_1
     - libclang-cpp11.1 =11.1.0 =default_he082bbe_1
     - libcurl =7.79.1 =hf45b732_1
     - libcxx =12.0.1 =habf9029_0
-    - libdeflate =1.7 =h35c211d_5
+    - libdeflate =1.8 =h0d85af4_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =haf1e3a3_1
     - libffi =3.4.2 =he49afe7_4
@@ -168,7 +168,7 @@ requirements:
     - libpq =13.3 =hea3049e_1
     - libsodium =1.0.18 =hbcb3906_1
     - libssh2 =1.10.0 =h52ee1ee_2
-    - libtiff =4.3.0 =h1167814_1
+    - libtiff =4.3.0 =hd146c10_2
     - libwebp-base =1.2.1 =h0d85af4_0
     - libxml2 =2.9.12 =h93ec3fd_0
     - libzlib =1.2.11 =h9173be1_1013

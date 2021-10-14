@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =haf480d7_103_cpython
+    - python =3.7.10 =haf480d7_104_cpython
   run:
-    - python =3.7.10 =haf480d7_103_cpython
+    - python =3.7.10 =haf480d7_104_cpython
 
     # 8 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0

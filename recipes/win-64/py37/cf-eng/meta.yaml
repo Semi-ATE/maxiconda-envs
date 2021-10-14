@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =h900ac77_103_cpython
+    - python =3.7.10 =h900ac77_104_cpython
   run:
-    - python =3.7.10 =h900ac77_103_cpython
+    - python =3.7.10 =h900ac77_104_cpython
 
     # 7 primary packages :
     - numpy =1.21.2 =py37h940b05c_0
@@ -46,7 +46,7 @@ requirements:
     - et_xmlfile =1.0.1 =py37_1000
     - importlib-metadata =4.8.1 =py37h03978a9_0
     - importlib_metadata =4.8.1 =hd8ed1ab_0
-    - intel-openmp =2021.3.0 =h57928b3_3372
+    - intel-openmp =2021.4.0 =h57928b3_3556
     - ipykernel =6.4.1 =py37h4038f58_0
     - ipython =7.28.0 =py37h4038f58_0
     - ipython_genutils =0.2.0 =py_1

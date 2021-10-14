@@ -104,10 +104,10 @@ requirements:
     - fonts-conda-forge =1 =0
     - freetype =2.10.4 =h0708190_1
     - fribidi =1.0.10 =h36c2ea0_0
-    - gcc_impl_linux-64 =9.4.0 =h03d3576_10
+    - gcc_impl_linux-64 =9.4.0 =h03d3576_11
     - gcc_linux-64 =9.4.0 =h391b98a_1
     - gettext =0.19.8.1 =h73d1719_1008
-    - gfortran_impl_linux-64 =9.4.0 =h0003116_10
+    - gfortran_impl_linux-64 =9.4.0 =h0003116_11
     - gfortran_linux-64 =9.4.0 =hf0ab688_1
     - git =2.33.0 =pl5321hc30692c_2
     - glib =2.68.4 =h9c3ff4c_1
@@ -119,7 +119,7 @@ requirements:
     - gsl =2.7 =he838d99_0
     - gst-plugins-base =1.18.5 =hf529b03_0
     - gstreamer =1.18.5 =h76c114f_0
-    - gxx_impl_linux-64 =9.4.0 =h03d3576_10
+    - gxx_impl_linux-64 =9.4.0 =h03d3576_11
     - gxx_linux-64 =9.4.0 =h0316aca_1
     - harfbuzz =3.0.0 =h83ec7ef_1
     - icu =68.1 =h58526e2_0
@@ -141,22 +141,22 @@ requirements:
     - krb5 =1.19.2 =hcc1bbae_2
     - lcms2 =2.12 =hddcbb42_0
     - ld_impl_linux-64 =2.36.1 =hea4e1c9_2
-    - lerc =2.2.1 =h9c3ff4c_0
+    - lerc =3.0 =h9c3ff4c_0
     - libblas =3.9.0 =11_linux64_openblas
     - libcblas =3.9.0 =11_linux64_openblas
     - libclang =11.1.0 =default_ha53f305_1
     - libcurl =7.79.1 =h2574ce0_1
-    - libdeflate =1.7 =h7f98852_5
+    - libdeflate =1.8 =h7f98852_0
     - libedit =3.1.20191231 =he28a2e2_2
     - libev =4.33 =h516909a_1
     - libevent =2.1.10 =h9b69904_4
     - libffi =3.4.2 =h9c3ff4c_4
-    - libgcc-devel_linux-64 =9.4.0 =hd854feb_10
-    - libgcc-ng =11.2.0 =h1d223b6_10
-    - libgfortran-ng =11.2.0 =h69a702a_10
-    - libgfortran5 =11.2.0 =h5c6108e_10
+    - libgcc-devel_linux-64 =9.4.0 =hd854feb_11
+    - libgcc-ng =11.2.0 =h1d223b6_11
+    - libgfortran-ng =11.2.0 =h69a702a_11
+    - libgfortran5 =11.2.0 =h5c6108e_11
     - libglib =2.68.4 =h174f98d_1
-    - libgomp =11.2.0 =h1d223b6_10
+    - libgomp =11.2.0 =h1d223b6_11
     - libiconv =1.16 =h516909a_0
     - liblapack =3.9.0 =11_linux64_openblas
     - libllvm10 =10.0.1 =he513fc3_3
@@ -167,12 +167,12 @@ requirements:
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.37 =h21135ba_2
     - libpq =13.3 =hd57d9b9_1
-    - libsanitizer =9.4.0 =h79bfe98_10
+    - libsanitizer =9.4.0 =h79bfe98_11
     - libsodium =1.0.18 =h36c2ea0_1
     - libssh2 =1.10.0 =ha56f1ee_2
-    - libstdcxx-devel_linux-64 =9.4.0 =hd854feb_10
-    - libstdcxx-ng =11.2.0 =he4da1e4_10
-    - libtiff =4.3.0 =hf544144_1
+    - libstdcxx-devel_linux-64 =9.4.0 =hd854feb_11
+    - libstdcxx-ng =11.2.0 =he4da1e4_11
+    - libtiff =4.3.0 =h6f004c6_2
     - libuuid =2.32.1 =h7f98852_1000
     - libvorbis =1.3.7 =h9c3ff4c_0
     - libwebp-base =1.2.1 =h7f98852_0
