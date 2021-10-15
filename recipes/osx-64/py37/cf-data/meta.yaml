@@ -26,7 +26,7 @@ requirements:
 
     # 19 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
-    - bokeh =2.4.0 =py37hf985489_0
+    - bokeh =2.4.1 =py37hf985489_0
     - lightgbm =3.2.1 =py37hd8d24ac_0
     - matplotlib =3.4.3 =py37hf985489_1
     - numpy =1.21.2 =py37haefe36b_0
@@ -80,7 +80,7 @@ requirements:
     - configparser =5.0.2 =pyhd8ed1ab_0
     - confuse =1.6.0 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
-    - cryptography =3.4.8 =py37hce4a858_0
+    - cryptography =35.0.0 =py37h39b5bc4_0
     - cssselect =1.1.0 =py_0
     - cufflinks-py =0.17.3 =py_0
     - cycler =0.10.0 =py_2
