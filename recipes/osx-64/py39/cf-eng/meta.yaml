@@ -50,14 +50,14 @@ requirements:
     - jedi =0.18.0 =py39h6e9494a_2
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.8.1 =py39h6e9494a_0
-    - libblas =3.9.0 =11_osx64_openblas
-    - libcblas =3.9.0 =11_osx64_openblas
+    - libblas =3.9.0 =12_osx64_openblas
+    - libcblas =3.9.0 =12_osx64_openblas
     - libcxx =12.0.1 =habf9029_0
     - libffi =3.4.2 =he49afe7_4
     - libgfortran =5.0.0 =9_3_0_h6c81a4c_23
     - libgfortran5 =9.3.0 =h6c81a4c_23
-    - liblapack =3.9.0 =11_osx64_openblas
-    - libopenblas =0.3.17 =openmp_h3351f45_1
+    - liblapack =3.9.0 =12_osx64_openblas
+    - libopenblas =0.3.18 =openmp_h3351f45_0
     - libsodium =1.0.18 =hbcb3906_1
     - libusb =1.0.24 =h0d85af4_105
     - libzlib =1.2.11 =h9173be1_1013

@@ -118,8 +118,8 @@ requirements:
     - lcms2 =2.12 =hddcbb42_0
     - ld_impl_linux-64 =2.36.1 =hea4e1c9_2
     - lerc =3.0 =h9c3ff4c_0
-    - libblas =3.9.0 =11_linux64_openblas
-    - libcblas =3.9.0 =11_linux64_openblas
+    - libblas =3.9.0 =12_linux64_openblas
+    - libcblas =3.9.0 =12_linux64_openblas
     - libclang =11.1.0 =default_ha53f305_1
     - libdeflate =1.8 =h7f98852_0
     - libedit =3.1.20191231 =he28a2e2_2
@@ -131,10 +131,10 @@ requirements:
     - libglib =2.68.4 =h174f98d_1
     - libgomp =11.2.0 =h1d223b6_11
     - libiconv =1.16 =h516909a_0
-    - liblapack =3.9.0 =11_linux64_openblas
+    - liblapack =3.9.0 =12_linux64_openblas
     - libllvm11 =11.1.0 =hf817b99_2
     - libogg =1.3.4 =h7f98852_1
-    - libopenblas =0.3.17 =pthreads_h8fe5266_1
+    - libopenblas =0.3.18 =pthreads_h8fe5266_0
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.37 =h21135ba_2
     - libpq =13.3 =hd57d9b9_1

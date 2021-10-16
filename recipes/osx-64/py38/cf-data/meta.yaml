@@ -153,8 +153,8 @@ requirements:
     - kmodes =0.11.0 =pyh44b312d_1
     - lcms2 =2.12 =h577c468_0
     - lerc =3.0 =he49afe7_0
-    - libblas =3.9.0 =11_osx64_mkl
-    - libcblas =3.9.0 =11_osx64_mkl
+    - libblas =3.9.0 =12_osx64_mkl
+    - libcblas =3.9.0 =12_osx64_mkl
     - libcxx =12.0.1 =habf9029_0
     - libdeflate =1.8 =h0d85af4_0
     - libffi =3.4.2 =he49afe7_4
@@ -163,7 +163,7 @@ requirements:
     - libgfortran5 =9.3.0 =h6c81a4c_23
     - libglib =2.68.4 =hf1fb8c0_1
     - libiconv =1.16 =haf1e3a3_0
-    - liblapack =3.9.0 =11_osx64_mkl
+    - liblapack =3.9.0 =12_osx64_mkl
     - libllvm10 =10.0.1 =h009f743_3
     - libpng =1.6.37 =h7cec526_2
     - libprotobuf =3.18.1 =hcf210ce_0
@@ -238,7 +238,7 @@ requirements:
     - pydispatcher =2.0.5 =py_1
     - pygments =2.10.0 =pyhd8ed1ab_0
     - pyldavis =3.3.1 =pyhd8ed1ab_0
-    - pynndescent =0.5.4 =pyh6c4a22f_0
+    - pynndescent =0.5.5 =pyh6c4a22f_0
     - pyod =0.9.4 =pyhd8ed1ab_0
     - pyopenssl =21.0.0 =pyhd8ed1ab_0
     - pyparsing =2.4.7 =pyh9f0ad1d_0

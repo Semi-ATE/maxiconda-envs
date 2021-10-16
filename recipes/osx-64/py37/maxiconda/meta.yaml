@@ -143,8 +143,8 @@ requirements:
     - ld64_osx-64 =530 =he8994da_21
     - ldid =2.1.2 =h6a69015_3
     - lerc =3.0 =he49afe7_0
-    - libblas =3.9.0 =11_osx64_openblas
-    - libcblas =3.9.0 =11_osx64_openblas
+    - libblas =3.9.0 =12_osx64_openblas
+    - libcblas =3.9.0 =12_osx64_openblas
     - libclang =11.1.0 =default_he082bbe_1
     - libclang-cpp11.1 =11.1.0 =default_he082bbe_1
     - libcurl =7.79.1 =hf45b732_1
@@ -158,12 +158,12 @@ requirements:
     - libgfortran5 =9.3.0 =h6c81a4c_23
     - libglib =2.68.4 =hf1fb8c0_1
     - libiconv =1.16 =haf1e3a3_0
-    - liblapack =3.9.0 =11_osx64_openblas
+    - liblapack =3.9.0 =12_osx64_openblas
     - libllvm10 =10.0.1 =h009f743_3
     - libllvm11 =11.1.0 =hd011deb_2
     - libllvm12 =12.0.1 =hd011deb_2
     - libnghttp2 =1.43.0 =h6f36284_1
-    - libopenblas =0.3.17 =openmp_h3351f45_1
+    - libopenblas =0.3.18 =openmp_h3351f45_0
     - libpng =1.6.37 =h7cec526_2
     - libpq =13.3 =hea3049e_1
     - libsodium =1.0.18 =hbcb3906_1

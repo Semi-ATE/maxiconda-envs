@@ -58,7 +58,7 @@ requirements:
     - gettext =0.19.8.1 =hd1a6beb_1008
     - greenlet =1.1.2 =py38ha048514_0
     - griddataformats =0.5.0 =py_0
-    - gsd =2.4.2 =py38h0793694_0
+    - gsd =2.5.0 =py38hbe852b5_0
     - hdf4 =4.2.15 =hefd3b78_3
     - hdf5 =1.12.1 =nompi_hd9e8a45_101
     - icu =68.1 =h74dc148_0
@@ -75,8 +75,8 @@ requirements:
     - krb5 =1.19.2 =h289aae4_2
     - lcms2 =2.12 =h577c468_0
     - lerc =3.0 =he49afe7_0
-    - libblas =3.9.0 =11_osx64_openblas
-    - libcblas =3.9.0 =11_osx64_openblas
+    - libblas =3.9.0 =12_osx64_openblas
+    - libcblas =3.9.0 =12_osx64_openblas
     - libcurl =7.79.1 =h97da3c1_1
     - libcxx =12.0.1 =habf9029_0
     - libdeflate =1.8 =h0d85af4_0
@@ -87,10 +87,10 @@ requirements:
     - libgfortran5 =9.3.0 =h6c81a4c_23
     - libglib =2.68.4 =hf1fb8c0_1
     - libiconv =1.16 =haf1e3a3_0
-    - liblapack =3.9.0 =11_osx64_openblas
+    - liblapack =3.9.0 =12_osx64_openblas
     - libnetcdf =4.8.1 =nompi_h6609ca0_101
     - libnghttp2 =1.43.0 =hfd382f3_1
-    - libopenblas =0.3.17 =openmp_h3351f45_1
+    - libopenblas =0.3.18 =openmp_h3351f45_0
     - libpng =1.6.37 =h7cec526_2
     - libsodium =1.0.18 =hbcb3906_1
     - libssh2 =1.10.0 =hd3787cc_2
