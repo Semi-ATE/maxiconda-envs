@@ -28,7 +28,7 @@ requirements:
     - beautifulsoup4 =4.10.0 =pyha770c72_0
     - bitarray =2.3.4 =py37h5e8e339_1
     - cython =0.29.24 =py37hcd2ae1e_0
-    - grayskull =0.8.5 =pyhd8ed1ab_0
+    - grayskull =0.9.1 =pyhd8ed1ab_0
     - hypothesis =6.23.4 =pyhd8ed1ab_0
     - ipython =7.28.0 =py37h6531663_0
     - jinja2 =3.0.2 =pyhd8ed1ab_0
@@ -47,7 +47,7 @@ requirements:
     - r-essentials =4.1 =r41hd8ed1ab_2002
     - regex =2021.10.21 =py37h5e8e339_0
     - requests =2.26.0 =pyhd8ed1ab_0
-    - rust =1.55.0 =h61edd41_3
+    - rust =1.56.0 =h61edd41_0
     - scipy =1.7.1 =py37hf2a6cf1_0
     - spyder-kernels =2.1.3 =py37h89c1867_0
     - sqlalchemy =1.4.26 =py37h5e8e339_0
@@ -218,12 +218,12 @@ requirements:
     - pexpect =4.8.0 =py37hc8dfbb8_1
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pillow =8.3.2 =py37h0f21c89_0
-    - pip =21.3 =pyhd8ed1ab_0
+    - pip =21.3.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h36c2ea0_0
     - pluggy =1.0.0 =py37h89c1867_1
     - progressbar2 =3.53.1 =pyh9f0ad1d_0
     - prometheus_client =0.11.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.20 =pyha770c72_0
+    - prompt-toolkit =3.0.21 =pyha770c72_0
     - pthread-stubs =0.4 =h36c2ea0_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - py =1.10.0 =pyhd3deb0d_0
@@ -421,12 +421,12 @@ requirements:
     - r-xts =0.12.1 =r41hcfec24a_0
     - r-yaml =2.2.1 =r41hcfec24a_1
     - r-zoo =1.8_9 =r41hcfec24a_1
-    - rapidfuzz =0.12.5 =py37h3340039_0
+    - rapidfuzz =1.8.1 =py37he8f5f7f_0
     - readline =8.1 =h46c0cb4_0
     - ruamel.yaml =0.17.16 =py37h5e8e339_0
     - ruamel.yaml.clib =0.2.2 =py37h5e8e339_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-unknown-linux-gnu =1.55.0 =hc1431ca_3
+    - rust-std-x86_64-unknown-linux-gnu =1.56.0 =hc1431ca_0
     - sed =4.8 =he412f7d_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =58.2.0 =py37h89c1867_0
