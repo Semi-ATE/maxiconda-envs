@@ -111,8 +111,8 @@ requirements:
     - gfortran_impl_linux-64 =9.4.0 =h0003116_11
     - gfortran_linux-64 =9.4.0 =hf0ab688_1
     - git =2.33.1 =pl5321hc30692c_0
-    - glib =2.70.0 =h780b84a_0
-    - glib-tools =2.70.0 =h780b84a_0
+    - glib =2.70.0 =h780b84a_1
+    - glib-tools =2.70.0 =h780b84a_1
     - gmp =6.2.1 =h58526e2_0
     - gmpy2 =2.1.0b5 =py37h025e8b9_0
     - graphite2 =1.3.13 =h58526e2_1001
@@ -157,7 +157,7 @@ requirements:
     - libgcc-ng =11.2.0 =h1d223b6_11
     - libgfortran-ng =11.2.0 =h69a702a_11
     - libgfortran5 =11.2.0 =h5c6108e_11
-    - libglib =2.70.0 =h174f98d_0
+    - libglib =2.70.0 =h174f98d_1
     - libgomp =11.2.0 =h1d223b6_11
     - libiconv =1.16 =h516909a_0
     - liblapack =3.9.0 =12_linux64_openblas
