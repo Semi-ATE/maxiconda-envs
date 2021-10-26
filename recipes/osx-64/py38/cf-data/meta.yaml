@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py38h50d1736_0
     - pytorch =1.9.1 =cpu_py38h7f09a23_3
-    - scikit-learn =1.0 =py38h1021539_1
+    - scikit-learn =1.0.1 =py38h1021539_0
     - scipy =1.7.1 =py38hd329d04_0
     - scrapy =2.5.1 =py38h50d1736_0
     - seaborn =0.11.2 =hd8ed1ab_0
@@ -208,7 +208,7 @@ requirements:
     - openssl =1.1.1l =h0d85af4_0
     - packaging =21.0 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
-    - pandoc =2.14.2 =h0d85af4_0
+    - pandoc =2.15 =h0d85af4_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.48.10 =h056538c_2
     - parsel =1.6.0 =py_0
