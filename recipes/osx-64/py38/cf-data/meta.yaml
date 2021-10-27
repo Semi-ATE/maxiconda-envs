@@ -34,8 +34,8 @@ requirements:
     - plotly =5.3.1 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py38h50d1736_0
-    - pytorch =1.9.1 =cpu_py38h7f09a23_3
-    - scikit-learn =1.0.1 =py38h1021539_0
+    - pytorch =1.10.0 =cpu_py38h7f09a23_0
+    - scikit-learn =1.0.1 =py38h1021539_1
     - scipy =1.7.1 =py38hd329d04_0
     - scrapy =2.5.1 =py38h50d1736_0
     - seaborn =0.11.2 =hd8ed1ab_0
@@ -197,7 +197,7 @@ requirements:
     - nbformat =5.1.3 =pyhd8ed1ab_0
     - ncurses =6.2 =h2e338ed_4
     - nest-asyncio =1.5.1 =pyhd8ed1ab_0
-    - networkx =2.5 =py_0
+    - networkx =2.6.3 =pyhd8ed1ab_1
     - ninja =1.10.2 =h940c156_1
     - nltk =3.6.5 =pyhd8ed1ab_0
     - notebook =6.4.5 =pyha770c72_0
@@ -213,7 +213,7 @@ requirements:
     - pango =1.48.10 =h056538c_2
     - parsel =1.6.0 =py_0
     - parso =0.8.2 =pyhd8ed1ab_0
-    - pathy =0.6.0 =pyhd8ed1ab_0
+    - pathy =0.6.1 =pyhd8ed1ab_0
     - patsy =0.5.2 =pyhd8ed1ab_0
     - pcre =8.45 =he49afe7_0
     - pexpect =4.8.0 =py38h32f6830_1
@@ -241,7 +241,7 @@ requirements:
     - pynndescent =0.5.5 =pyh6c4a22f_0
     - pyod =0.9.4 =pyhd8ed1ab_0
     - pyopenssl =21.0.0 =pyhd8ed1ab_0
-    - pyparsing =2.4.7 =pyh9f0ad1d_0
+    - pyparsing =3.0.1 =pyhd8ed1ab_1
     - pyrsistent =0.17.3 =py38h96a0964_2
     - pysocks =1.7.1 =py38h50d1736_3
     - python-cufflinks =0.17.3 =py_0
@@ -271,7 +271,7 @@ requirements:
     - spacy =3.1.3 =py38hb0f0857_0
     - spacy-legacy =3.0.8 =pyhd8ed1ab_0
     - sqlparse =0.4.2 =pyhd8ed1ab_0
-    - srsly =2.4.1 =py38ha048514_0
+    - srsly =2.4.2 =py38ha048514_0
     - tabulate =0.8.9 =pyhd8ed1ab_0
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.4.0 =h940c156_0
@@ -284,7 +284,7 @@ requirements:
     - tk =8.6.11 =h5dbffcc_1
     - tornado =6.1 =py38h96a0964_1
     - tqdm =4.62.3 =pyhd8ed1ab_0
-    - traitlets =5.1.0 =pyhd8ed1ab_0
+    - traitlets =5.1.1 =pyhd8ed1ab_0
     - twisted =21.7.0 =py38h96a0964_0
     - typer =0.4.0 =pyhd8ed1ab_0
     - typing-extensions =3.10.0.2 =hd8ed1ab_0

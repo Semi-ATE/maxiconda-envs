@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.10 =h9f07fca_104_cpython
+    - python =3.7.12 =h9f07fca_100_cpython
   run:
-    - python =3.7.10 =h9f07fca_104_cpython
+    - python =3.7.12 =h9f07fca_100_cpython
 
     # 8 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -105,7 +105,7 @@ requirements:
     - sqlparse =0.4.2 =pyhd8ed1ab_0
     - tk =8.6.11 =hd8af866_1
     - tornado =6.1 =py37hcd4c3ab_1
-    - traitlets =5.1.0 =pyhd8ed1ab_0
+    - traitlets =5.1.1 =pyhd8ed1ab_0
     - typing-extensions =3.10.0.2 =hd8ed1ab_0
     - typing_extensions =3.10.0.2 =pyha770c72_0
     - urllib3 =1.26.7 =pyhd8ed1ab_0
