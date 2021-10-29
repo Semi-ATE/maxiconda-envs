@@ -89,7 +89,7 @@ requirements:
     - gst-plugins-base =1.18.5 =hf529b03_0
     - gstreamer =1.18.5 =h76c114f_0
     - humanfriendly =10.0 =py38h578d9bd_0
-    - icu =68.1 =h58526e2_0
+    - icu =68.2 =h9c3ff4c_0
     - idna =3.1 =pyhd3deb0d_0
     - ifaddr =0.1.7 =pyh9f0ad1d_0
     - imagesize =1.2.0 =py_0
@@ -109,7 +109,7 @@ requirements:
     - jpeg =9d =h36c2ea0_0
     - jsonschema =4.1.2 =pyhd8ed1ab_0
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
-    - jupyter_core =4.9.0 =py38h578d9bd_0
+    - jupyter_core =4.9.1 =py38h578d9bd_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
     - keyring =23.2.1 =py38h578d9bd_0
     - kiwisolver =1.3.2 =py38h1fd1430_0
@@ -160,16 +160,16 @@ requirements:
     - mpfr =4.1.0 =h9202a9a_1
     - mpmath =1.2.1 =pyhd8ed1ab_0
     - mypy_extensions =0.4.3 =py38h578d9bd_3
-    - mysql-common =8.0.27 =ha770c72_0
-    - mysql-libs =8.0.27 =hfa10184_0
+    - mysql-common =8.0.27 =ha770c72_1
+    - mysql-libs =8.0.27 =hfa10184_1
     - nbclient =0.5.4 =pyhd8ed1ab_0
     - nbconvert =6.2.0 =py38h578d9bd_0
     - nbformat =5.1.3 =pyhd8ed1ab_0
     - ncurses =6.2 =h58526e2_4
     - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - netifaces =0.10.9 =py38h497a2fe_1003
-    - nspr =4.30 =h9c3ff4c_0
-    - nss =3.69 =hb5efdd6_1
+    - nspr =4.32 =h9c3ff4c_0
+    - nss =3.71 =hb5efdd6_0
     - numpydoc =1.1.0 =py_1
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =hb52868f_1
