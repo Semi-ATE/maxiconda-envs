@@ -67,7 +67,7 @@ requirements:
     - coloredlogs =15.0.1 =py39hcbf5309_1
     - cookiecutter =1.7.3 =pyh6c4a22f_0
     - cryptography =35.0.0 =py39h7bc7c5c_1
-    - cycler =0.10.0 =py_2
+    - cycler =0.11.0 =pyhd8ed1ab_0
     - dataclasses =0.8 =pyhc8e2a94_3
     - debugpy =1.4.1 =py39h415ef7b_0
     - decorator =5.1.0 =pyhd8ed1ab_0
@@ -140,7 +140,7 @@ requirements:
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =hb211442_1
     - openssl =1.1.1l =h8ffe710_0
-    - packaging =21.0 =pyhd8ed1ab_0
+    - packaging =21.2 =pyhd8ed1ab_1
     - pandoc =2.15 =h8ffe710_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - paramiko =2.8.0 =pyhd8ed1ab_0
@@ -165,7 +165,7 @@ requirements:
     - pyls-spyder =0.4.0 =pyhd8ed1ab_0
     - pynacl =1.4.0 =py39hb3671d1_2
     - pyopenssl =21.0.0 =pyhd8ed1ab_0
-    - pyparsing =3.0.3 =pyhd8ed1ab_0
+    - pyparsing =2.4.7 =pyhd8ed1ab_1
     - pyqt =5.12.3 =py39hcbf5309_7
     - pyqt-impl =5.12.3 =py39h415ef7b_7
     - pyqt5-sip =4.19.18 =py39h415ef7b_7
@@ -183,7 +183,7 @@ requirements:
     - pytz =2021.3 =pyhd8ed1ab_0
     - pywin32 =301 =py39hb82d6ee_0
     - pywin32-ctypes =0.2.0 =py39hcbf5309_1003
-    - pywinpty =1.1.4 =py39h99910a6_0
+    - pywinpty =1.1.5 =py39h99910a6_0
     - pyyaml =6.0 =py39hb82d6ee_0
     - pyzmq =22.3.0 =py39he46f08e_0
     - qdarkstyle =3.0.2 =pyhd8ed1ab_0
@@ -197,7 +197,7 @@ requirements:
     - requests =2.26.0 =pyhd8ed1ab_0
     - rope =0.21.0 =pyhd8ed1ab_0
     - rtree =0.9.7 =py39h09fdee3_2
-    - setuptools =58.2.0 =py39hcbf5309_0
+    - setuptools =58.3.0 =py39hcbf5309_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.1.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0

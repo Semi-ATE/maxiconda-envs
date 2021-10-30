@@ -54,7 +54,7 @@ requirements:
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
     - curl =7.79.1 =h2574ce0_1
-    - cycler =0.10.0 =py_2
+    - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h48d8840_2
     - debugpy =1.4.1 =py37hcd2ae1e_0
     - decorator =5.1.0 =pyhd8ed1ab_0
@@ -69,8 +69,8 @@ requirements:
     - greenlet =1.1.2 =py37hcd2ae1e_0
     - griddataformats =0.6.0 =pyhd8ed1ab_0
     - gsd =2.5.0 =py37hb1e94ed_0
-    - gst-plugins-base =1.18.5 =hf529b03_0
-    - gstreamer =1.18.5 =h76c114f_0
+    - gst-plugins-base =1.18.5 =hf529b03_1
+    - gstreamer =1.18.5 =h9f60fe5_1
     - hdf4 =4.2.15 =h10796ff_3
     - hdf5 =1.10.6 =nompi_h6a2412b_1114
     - icu =68.2 =h9c3ff4c_0
@@ -172,7 +172,7 @@ requirements:
     - scikit-learn =1.0.1 =py37hf0f1638_1
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
-    - setuptools =58.2.0 =py37h89c1867_0
+    - setuptools =58.3.0 =py37h89c1867_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.26 =py37h5e8e339_0
     - sqlite =3.36.0 =h9cd32fc_2

@@ -41,7 +41,7 @@ requirements:
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - boost =1.74.0 =py37h3b38789_3
-    - boost-cpp =1.74.0 =h5b4e17d_4
+    - boost-cpp =1.74.0 =h5b4e17d_5
     - bzip2 =1.0.8 =h8ffe710_4
     - ca-certificates =2021.10.8 =h5b45459_0
     - cairo =1.16.0 =hb19e0ff_1008
@@ -50,7 +50,7 @@ requirements:
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
     - curl =7.79.1 =h789b8ee_1
-    - cycler =0.10.0 =py_2
+    - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.4.1 =py37hf2a7229_0
     - decorator =5.1.0 =pyhd8ed1ab_0
     - fontconfig =2.13.1 =h1989441_1005
@@ -140,7 +140,7 @@ requirements:
     - scikit-learn =1.0.1 =py37ha78be43_1
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
-    - setuptools =58.2.0 =py37h03978a9_0
+    - setuptools =58.3.0 =py37h03978a9_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.26 =py37hcc03f2d_0
     - sqlite =3.36.0 =h8ffe710_2
