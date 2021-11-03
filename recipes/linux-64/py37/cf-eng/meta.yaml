@@ -25,7 +25,7 @@ requirements:
     - python =3.7.12 =hf930737_100_cpython
 
     # 7 primary packages :
-    - numpy =1.21.3 =py37h31617e3_0
+    - numpy =1.21.3 =py37h31617e3_1
     - openpyxl =3.0.9 =pyhd8ed1ab_0
     - pandas =1.3.4 =py37he8f5f7f_0
     - pyserial =3.5 =pyhd8ed1ab_0
@@ -42,15 +42,15 @@ requirements:
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - ca-certificates =2021.10.8 =ha878542_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
-    - debugpy =1.4.1 =py37hcd2ae1e_0
+    - debugpy =1.4.1 =py37hcd2ae1e_1
     - decorator =5.1.0 =pyhd8ed1ab_0
     - et_xmlfile =1.0.1 =py_1001
-    - importlib-metadata =4.8.1 =py37h89c1867_0
-    - importlib_metadata =4.8.1 =hd8ed1ab_0
+    - importlib-metadata =4.8.1 =py37h89c1867_1
+    - importlib_metadata =4.8.1 =hd8ed1ab_1
     - ipykernel =6.4.2 =py37h6531663_0
     - ipython =7.29.0 =py37h6531663_0
     - ipython_genutils =0.2.0 =py_1
-    - jedi =0.18.0 =py37h89c1867_2
+    - jedi =0.18.0 =py37h89c1867_3
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.9.1 =py37h89c1867_0
     - ld_impl_linux-64 =2.36.1 =hea4e1c9_2
@@ -83,13 +83,13 @@ requirements:
     - python_abi =3.7 =2_cp37m
     - pytz =2021.3 =pyhd8ed1ab_0
     - pyvisa =1.11.3 =py37h89c1867_1
-    - pyzmq =22.3.0 =py37h336d617_0
+    - pyzmq =22.3.0 =py37h336d617_1
     - readline =8.1 =h46c0cb4_0
     - setuptools =58.4.0 =py37h89c1867_1
     - six =1.16.0 =pyh6c4a22f_0
     - sqlite =3.36.0 =h9cd32fc_2
     - tk =8.6.11 =h27826a3_1
-    - tornado =6.1 =py37h5e8e339_1
+    - tornado =6.1 =py37h5e8e339_2
     - traitlets =5.1.1 =pyhd8ed1ab_0
     - typing_extensions =3.10.0.2 =pyha770c72_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2

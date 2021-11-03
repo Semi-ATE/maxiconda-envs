@@ -28,7 +28,7 @@ requirements:
     - biopython =1.79 =py37h5e8e339_0
     - matplotlib =3.4.3 =py37h89c1867_1
     - mdanalysis =2.0.0 =py37hcd2ae1e_1
-    - numpy =1.21.3 =py37h31617e3_0
+    - numpy =1.21.3 =py37h31617e3_1
     - pandas =1.3.4 =py37he8f5f7f_0
     - pymol-open-source =2.5.0 =py37h84945d2_4
     - rdkit =2021.09.2 =py37h13c2175_0
@@ -56,7 +56,7 @@ requirements:
     - curl =7.79.1 =h2574ce0_1
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h48d8840_2
-    - debugpy =1.4.1 =py37hcd2ae1e_0
+    - debugpy =1.4.1 =py37hcd2ae1e_1
     - decorator =5.1.0 =pyhd8ed1ab_0
     - expat =2.4.1 =h9c3ff4c_0
     - fontconfig =2.13.1 =hba837de_1005
@@ -66,7 +66,7 @@ requirements:
     - glib =2.70.0 =h780b84a_1
     - glib-tools =2.70.0 =h780b84a_1
     - glm =0.9.9.4 =hc9558a2_0
-    - greenlet =1.1.2 =py37hcd2ae1e_0
+    - greenlet =1.1.2 =py37hcd2ae1e_1
     - griddataformats =0.6.0 =pyhd8ed1ab_0
     - gsd =2.5.0 =py37hb1e94ed_0
     - gst-plugins-base =1.18.5 =hf529b03_1
@@ -74,19 +74,19 @@ requirements:
     - hdf4 =4.2.15 =h10796ff_3
     - hdf5 =1.10.6 =nompi_h6a2412b_1114
     - icu =68.2 =h9c3ff4c_0
-    - importlib-metadata =4.8.1 =py37h89c1867_0
-    - importlib_metadata =4.8.1 =hd8ed1ab_0
+    - importlib-metadata =4.8.1 =py37h89c1867_1
+    - importlib_metadata =4.8.1 =hd8ed1ab_1
     - ipykernel =6.4.2 =py37h6531663_0
     - ipython =7.29.0 =py37h6531663_0
     - ipython_genutils =0.2.0 =py_1
     - jbig =2.1 =h7f98852_2003
-    - jedi =0.18.0 =py37h89c1867_2
+    - jedi =0.18.0 =py37h89c1867_3
     - joblib =1.1.0 =pyhd8ed1ab_0
     - jpeg =9d =h36c2ea0_0
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.9.1 =py37h89c1867_0
-    - kiwisolver =1.3.2 =py37h2527ec5_0
-    - krb5 =1.19.2 =hcc1bbae_2
+    - kiwisolver =1.3.2 =py37h2527ec5_1
+    - krb5 =1.19.2 =hcc1bbae_3
     - lcms2 =2.12 =hddcbb42_0
     - ld_impl_linux-64 =2.36.1 =hea4e1c9_2
     - lerc =3.0 =h9c3ff4c_0
@@ -115,7 +115,7 @@ requirements:
     - libopenblas =0.3.18 =pthreads_h8fe5266_0
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.37 =h21135ba_2
-    - libpq =13.3 =hd57d9b9_1
+    - libpq =13.3 =hd57d9b9_2
     - libsodium =1.0.18 =h36c2ea0_1
     - libssh2 =1.10.0 =ha56f1ee_2
     - libstdcxx-ng =11.2.0 =he4da1e4_11
@@ -131,7 +131,7 @@ requirements:
     - matplotlib-base =3.4.3 =py37h1058ff1_1
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mmtf-python =1.1.2 =py_0
-    - msgpack-python =1.0.2 =py37h2527ec5_1
+    - msgpack-python =1.0.2 =py37h2527ec5_2
     - mysql-common =8.0.27 =ha770c72_1
     - mysql-libs =8.0.27 =hfa10184_1
     - ncurses =6.2 =h58526e2_4
@@ -165,7 +165,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.7 =2_cp37m
     - pytz =2021.3 =pyhd8ed1ab_0
-    - pyzmq =22.3.0 =py37h336d617_0
+    - pyzmq =22.3.0 =py37h336d617_1
     - qt =5.12.9 =hda022c4_4
     - readline =8.1 =h46c0cb4_0
     - reportlab =3.5.68 =py37h69800bb_0
@@ -179,7 +179,7 @@ requirements:
     - statsmodels =0.13.0 =py37hb1e94ed_0
     - threadpoolctl =3.0.0 =pyh8a188c0_0
     - tk =8.6.11 =h27826a3_1
-    - tornado =6.1 =py37h5e8e339_1
+    - tornado =6.1 =py37h5e8e339_2
     - tqdm =4.62.3 =pyhd8ed1ab_0
     - traitlets =5.1.1 =pyhd8ed1ab_0
     - typing_extensions =3.10.0.2 =pyha770c72_0

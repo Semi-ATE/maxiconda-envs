@@ -25,9 +25,9 @@ requirements:
     - python =3.9.7 =hb7a2778_3_cpython
 
     # 11 primary packages :
-    - cython =0.29.24 =py39he80948d_0
+    - cython =0.29.24 =py39he80948d_1
     - matplotlib =3.4.3 =py39hf3d152e_1
-    - numpy =1.21.3 =py39hdbf815f_0
+    - numpy =1.21.3 =py39hdbf815f_1
     - pandas =1.3.4 =py39hde0f152_0
     - pydantic =1.8.2 =py39h3811e60_0
     - scipy =1.7.1 =py39hee8e79c_0
@@ -54,15 +54,15 @@ requirements:
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - binaryornot =0.4.4 =py_1
-    - black =21.9b0 =pyhd8ed1ab_1
+    - black =21.10b0 =pyhd8ed1ab_0
     - bleach =4.1.0 =pyhd8ed1ab_0
-    - brotlipy =0.7.0 =py39h3811e60_1001
+    - brotlipy =0.7.0 =py39h3811e60_1002
     - ca-certificates =2021.10.8 =ha878542_0
     - certifi =2021.10.8 =py39hf3d152e_1
-    - cffi =1.14.6 =py39h4bc2ebd_1
-    - chardet =4.0.0 =py39hf3d152e_1
+    - cffi =1.14.6 =py39h4bc2ebd_2
+    - chardet =4.0.0 =py39hf3d152e_2
     - charset-normalizer =2.0.0 =pyhd8ed1ab_0
-    - click =8.0.3 =py39hf3d152e_0
+    - click =8.0.3 =py39hf3d152e_1
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
     - coloredlogs =15.0.1 =py39hf3d152e_1
@@ -71,7 +71,7 @@ requirements:
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dataclasses =0.8 =pyhc8e2a94_3
     - dbus =1.13.6 =h48d8840_2
-    - debugpy =1.4.1 =py39he80948d_0
+    - debugpy =1.4.1 =py39he80948d_1
     - decorator =5.1.0 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - diff-match-patch =20200713 =pyh9f0ad1d_0
@@ -93,16 +93,16 @@ requirements:
     - idna =3.1 =pyhd3deb0d_0
     - ifaddr =0.1.7 =pyh9f0ad1d_0
     - imagesize =1.2.0 =py_0
-    - importlib-metadata =4.8.1 =py39hf3d152e_0
-    - importlib_metadata =4.8.1 =hd8ed1ab_0
+    - importlib-metadata =4.8.1 =py39hf3d152e_1
+    - importlib_metadata =4.8.1 =hd8ed1ab_1
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.0.2 =py_0
     - ipykernel =6.4.2 =py39hef51801_0
-    - ipython =7.29.0 =py39hef51801_0
+    - ipython =7.29.0 =py39hef51801_1
     - ipython_genutils =0.2.0 =py_1
     - isort =5.9.3 =pyhd8ed1ab_0
     - jbig =2.1 =h7f98852_2003
-    - jedi =0.18.0 =py39hf3d152e_2
+    - jedi =0.18.0 =py39hf3d152e_3
     - jeepney =0.7.1 =pyhd8ed1ab_0
     - jinja2 =2.11.3 =pyh44b312d_0
     - jinja2-time =0.2.0 =py_2
@@ -112,9 +112,9 @@ requirements:
     - jupyter_core =4.9.1 =py39hf3d152e_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
     - keyring =23.2.1 =py39hf3d152e_0
-    - kiwisolver =1.3.2 =py39h1a9c180_0
-    - krb5 =1.19.2 =hcc1bbae_2
-    - lazy-object-proxy =1.6.0 =py39h3811e60_0
+    - kiwisolver =1.3.2 =py39h1a9c180_1
+    - krb5 =1.19.2 =hcc1bbae_3
+    - lazy-object-proxy =1.6.0 =py39h3811e60_1
     - lcms2 =2.12 =hddcbb42_0
     - ld_impl_linux-64 =2.36.1 =hea4e1c9_2
     - lerc =3.0 =h9c3ff4c_0
@@ -137,7 +137,7 @@ requirements:
     - libopenblas =0.3.18 =pthreads_h8fe5266_0
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.37 =h21135ba_2
-    - libpq =13.3 =hd57d9b9_1
+    - libpq =13.3 =hd57d9b9_2
     - libsodium =1.0.18 =h36c2ea0_1
     - libspatialindex =1.9.3 =h9c3ff4c_4
     - libstdcxx-ng =11.2.0 =he4da1e4_11
@@ -154,11 +154,11 @@ requirements:
     - matplotlib-base =3.4.3 =py39h2fa2bec_1
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mccabe =0.6.1 =py_1
-    - mistune =0.8.4 =py39h3811e60_1004
+    - mistune =0.8.4 =py39h3811e60_1005
     - mpc =1.2.1 =h9f54685_0
     - mpfr =4.1.0 =h9202a9a_1
     - mpmath =1.2.1 =pyhd8ed1ab_0
-    - mypy_extensions =0.4.3 =py39hf3d152e_3
+    - mypy_extensions =0.4.3 =py39hf3d152e_4
     - mysql-common =8.0.27 =ha770c72_1
     - mysql-libs =8.0.27 =hfa10184_1
     - nbclient =0.5.4 =pyhd8ed1ab_0
@@ -166,7 +166,7 @@ requirements:
     - nbformat =5.1.3 =pyhd8ed1ab_0
     - ncurses =6.2 =h58526e2_4
     - nest-asyncio =1.5.1 =pyhd8ed1ab_0
-    - netifaces =0.10.9 =py39h3811e60_1003
+    - netifaces =0.10.9 =py39h3811e60_1004
     - nspr =4.32 =h9c3ff4c_0
     - nss =3.71 =hb5efdd6_0
     - numpydoc =1.1.0 =py_1
@@ -184,10 +184,10 @@ requirements:
     - pillow =8.3.2 =py39ha612740_0
     - pip =21.3.1 =pyhd8ed1ab_0
     - platformdirs =2.3.0 =pyhd8ed1ab_0
-    - pluggy =1.0.0 =py39hf3d152e_1
+    - pluggy =1.0.0 =py39hf3d152e_2
     - poyo =0.5.0 =py_0
     - prompt-toolkit =3.0.21 =pyha770c72_0
-    - psutil =5.8.0 =py39h3811e60_1
+    - psutil =5.8.0 =py39h3811e60_2
     - pthread-stubs =0.4 =h36c2ea0_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pycodestyle =2.7.0 =pyhd8ed1ab_0
@@ -204,8 +204,8 @@ requirements:
     - pyqt5-sip =4.19.18 =py39he80948d_7
     - pyqtchart =5.12 =py39h0fcd23e_7
     - pyqtwebengine =5.12.1 =py39h0fcd23e_7
-    - pyrsistent =0.17.3 =py39h3811e60_2
-    - pysocks =1.7.1 =py39hf3d152e_3
+    - pyrsistent =0.17.3 =py39h3811e60_3
+    - pysocks =1.7.1 =py39hf3d152e_4
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-lsp-black =1.0.0 =pyhd8ed1ab_0
     - python-lsp-jsonrpc =1.0.0 =pyhd8ed1ab_0
@@ -214,16 +214,16 @@ requirements:
     - python_abi =3.9 =2_cp39
     - pytz =2021.3 =pyhd8ed1ab_0
     - pyxdg =0.27 =pyhd8ed1ab_0
-    - pyyaml =6.0 =py39h3811e60_0
-    - pyzmq =22.3.0 =py39h37b5a0c_0
+    - pyyaml =6.0 =py39h3811e60_1
+    - pyzmq =22.3.0 =py39h37b5a0c_1
     - qdarkstyle =3.0.2 =pyhd8ed1ab_0
     - qstylizer =0.2.1 =pyhd8ed1ab_0
     - qt =5.12.9 =hda022c4_4
-    - qtawesome =1.0.3 =pyhd8ed1ab_0
+    - qtawesome =1.1.0 =pyhd8ed1ab_0
     - qtconsole =5.1.1 =pyhd8ed1ab_0
     - qtpy =1.11.2 =pyhd8ed1ab_0
     - readline =8.1 =h46c0cb4_0
-    - regex =2021.10.23 =py39h3811e60_0
+    - regex =2021.10.23 =py39h3811e60_1
     - requests =2.26.0 =pyhd8ed1ab_0
     - rope =0.21.0 =pyhd8ed1ab_0
     - rtree =0.9.7 =py39hb102c33_2
@@ -250,13 +250,13 @@ requirements:
     - tk =8.6.11 =h27826a3_1
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =1.2.2 =pyhd8ed1ab_0
-    - tornado =6.1 =py39h3811e60_1
+    - tornado =6.1 =py39h3811e60_2
     - traitlets =5.1.1 =pyhd8ed1ab_0
-    - typed-ast =1.4.3 =py39h3811e60_0
+    - typed-ast =1.4.3 =py39h3811e60_1
     - typing-extensions =3.10.0.2 =hd8ed1ab_0
     - typing_extensions =3.10.0.2 =pyha770c72_0
     - tzdata =2021e =he74cb21_0
-    - ujson =4.2.0 =py39he80948d_0
+    - ujson =4.2.0 =py39he80948d_1
     - unidecode =1.3.2 =pyhd8ed1ab_0
     - urllib3 =1.26.7 =pyhd8ed1ab_0
     - watchdog =2.1.6 =py39hf3d152e_0

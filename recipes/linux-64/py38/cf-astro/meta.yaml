@@ -35,12 +35,12 @@ requirements:
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - ca-certificates =2021.10.8 =ha878542_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
-    - debugpy =1.4.1 =py38h709712a_0
+    - debugpy =1.4.1 =py38h709712a_1
     - decorator =5.1.0 =pyhd8ed1ab_0
     - ipykernel =6.4.2 =py38he5a9106_0
-    - ipython =7.29.0 =py38he5a9106_0
+    - ipython =7.29.0 =py38he5a9106_1
     - ipython_genutils =0.2.0 =py_1
-    - jedi =0.18.0 =py38h578d9bd_2
+    - jedi =0.18.0 =py38h578d9bd_3
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.9.1 =py38h578d9bd_0
     - ld_impl_linux-64 =2.36.1 =hea4e1c9_2
@@ -63,13 +63,13 @@ requirements:
     - pygments =2.10.0 =pyhd8ed1ab_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.8 =2_cp38
-    - pyzmq =22.3.0 =py38h2035c66_0
+    - pyzmq =22.3.0 =py38h2035c66_1
     - readline =8.1 =h46c0cb4_0
     - setuptools =58.4.0 =py38h578d9bd_1
     - six =1.16.0 =pyh6c4a22f_0
     - sqlite =3.36.0 =h9cd32fc_2
     - tk =8.6.11 =h27826a3_1
-    - tornado =6.1 =py38h497a2fe_1
+    - tornado =6.1 =py38h497a2fe_2
     - traitlets =5.1.1 =pyhd8ed1ab_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.37.0 =pyhd8ed1ab_1
