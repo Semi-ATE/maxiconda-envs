@@ -29,7 +29,7 @@ requirements:
     - matplotlib =3.4.3 =py37hf985489_1
     - numpy =1.21.3 =py37haefe36b_1
     - pandas =1.3.4 =py37h5b83a90_0
-    - pydantic =1.8.2 =py37h271585c_0
+    - pydantic =1.8.2 =py37h271585c_1
     - scipy =1.7.1 =py37h4e3cf02_0
     - semi-ate =0.1.29 =pyhd8ed1ab_0
     - spyder =5.1.5 =py37hf985489_0
@@ -97,7 +97,7 @@ requirements:
     - ipykernel =6.4.2 =py37h4c52d7d_0
     - ipython =7.29.0 =py37h4c52d7d_1
     - ipython_genutils =0.2.0 =py_1
-    - isort =5.9.3 =pyhd8ed1ab_0
+    - isort =5.10.0 =pyhd8ed1ab_0
     - jbig =2.1 =h0d85af4_2003
     - jedi =0.18.0 =py37hf985489_3
     - jinja2 =2.11.3 =pyh44b312d_0
@@ -160,7 +160,7 @@ requirements:
     - openjpeg =2.4.0 =h6e7aa92_1
     - openssl =1.1.1l =h0d85af4_0
     - packaging =21.2 =pyhd8ed1ab_1
-    - pandoc =2.16 =h0d85af4_0
+    - pandoc =2.16.1 =h0d85af4_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.2 =pyhd8ed1ab_0
     - pathspec =0.9.0 =pyhd8ed1ab_0
@@ -199,7 +199,7 @@ requirements:
     - python.app =1.3 =py37h271585c_6
     - python_abi =3.7 =2_cp37m
     - pytz =2021.3 =pyhd8ed1ab_0
-    - pyyaml =6.0 =py37h271585c_1
+    - pyyaml =6.0 =py37h271585c_2
     - pyzmq =22.3.0 =py37h8f778e5_1
     - qdarkstyle =3.0.2 =pyhd8ed1ab_0
     - qstylizer =0.2.1 =pyhd8ed1ab_0
@@ -208,7 +208,7 @@ requirements:
     - qtconsole =5.1.1 =pyhd8ed1ab_0
     - qtpy =1.11.2 =pyhd8ed1ab_0
     - readline =8.1 =h05e3726_0
-    - regex =2021.10.23 =py37h271585c_1
+    - regex =2021.11.2 =py37h271585c_0
     - requests =2.26.0 =pyhd8ed1ab_0
     - rope =0.21.0 =pyhd8ed1ab_0
     - rtree =0.9.7 =py37hf13911c_2
