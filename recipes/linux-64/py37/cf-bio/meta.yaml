@@ -25,7 +25,7 @@ requirements:
     - python =3.7.12 =hb7a2778_100_cpython
 
     # 9 primary packages :
-    - biopython =1.79 =py37h5e8e339_0
+    - biopython =1.79 =py37h5e8e339_1
     - matplotlib =3.4.3 =py37h89c1867_1
     - mdanalysis =2.0.0 =py37hcd2ae1e_1
     - numpy =1.21.3 =py37h31617e3_1
@@ -56,7 +56,7 @@ requirements:
     - curl =7.79.1 =h2574ce0_1
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h48d8840_2
-    - debugpy =1.4.1 =py37hcd2ae1e_1
+    - debugpy =1.5.1 =py37hcd2ae1e_0
     - decorator =5.1.0 =pyhd8ed1ab_0
     - expat =2.4.1 =h9c3ff4c_0
     - fontconfig =2.13.1 =hba837de_1005
@@ -115,7 +115,7 @@ requirements:
     - libopenblas =0.3.18 =pthreads_h8fe5266_0
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.37 =h21135ba_2
-    - libpq =13.3 =hd57d9b9_2
+    - libpq =13.3 =hd57d9b9_3
     - libsodium =1.0.18 =h36c2ea0_1
     - libssh2 =1.10.0 =ha56f1ee_2
     - libstdcxx-ng =11.2.0 =he4da1e4_11
@@ -151,10 +151,10 @@ requirements:
     - pip =21.3.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h36c2ea0_0
     - pmw =2.0.1 =py37h89c1867_1004
-    - prompt-toolkit =3.0.21 =pyha770c72_0
+    - prompt-toolkit =3.0.22 =pyha770c72_0
     - pthread-stubs =0.4 =h36c2ea0_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pycairo =1.20.1 =py37hfff247e_0
+    - pycairo =1.20.1 =py37hfff247e_1
     - pygments =2.10.0 =pyhd8ed1ab_0
     - pyparsing =3.0.4 =pyhd8ed1ab_0
     - pyqt =5.12.3 =py37h89c1867_7
@@ -172,7 +172,7 @@ requirements:
     - scikit-learn =1.0.1 =py37hf0f1638_1
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
-    - setuptools =58.4.0 =py37h89c1867_1
+    - setuptools =58.5.2 =py37h89c1867_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.26 =py37h5e8e339_1
     - sqlite =3.36.0 =h9cd32fc_2

@@ -43,17 +43,17 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
-    - bcrypt =3.2.0 =py39h14843e3_1
-    - brotlipy =0.7.0 =py39h14843e3_1001
+    - bcrypt =3.2.0 =py39h14843e3_2
+    - brotlipy =0.7.0 =py39h14843e3_1003
     - ca-certificates =2021.10.8 =h4fd8a4c_0
     - certifi =2021.10.8 =py39ha65689a_1
-    - cffi =1.14.6 =py39hab139ec_2
+    - cffi =1.15.0 =py39hab139ec_0
     - chardet =4.0.0 =py39ha65689a_2
     - charset-normalizer =2.0.0 =pyhd8ed1ab_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
-    - cryptography =35.0.0 =py39h659f20f_1
-    - debugpy =1.4.1 =py39h99ab00b_1
+    - cryptography =35.0.0 =py39h659f20f_2
+    - debugpy =1.5.1 =py39h99ab00b_0
     - decorator =5.1.0 =pyhd8ed1ab_0
     - greenlet =1.1.2 =py39h99ab00b_1
     - hyperlink =21.0.0 =pyhd3deb0d_0
@@ -81,7 +81,7 @@ requirements:
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py39hde42818_1002
     - pip =21.3.1 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.21 =pyha770c72_0
+    - prompt-toolkit =3.0.22 =pyha770c72_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
@@ -95,7 +95,7 @@ requirements:
     - pyzmq =22.3.0 =py39h3674c48_1
     - readline =8.1 =h1a49cc3_0
     - service_identity =18.1.0 =py_0
-    - setuptools =58.4.0 =py39ha65689a_1
+    - setuptools =58.5.2 =py39ha65689a_0
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.0.1 =py_1
     - sqlite =3.36.0 =hc164836_2

@@ -25,7 +25,7 @@ requirements:
     - python =3.9.7 =h47f6e27_4_cpython
 
     # 7 primary packages :
-    - biopython =1.79 =py39h14843e3_0
+    - biopython =1.79 =py39h14843e3_1
     - matplotlib =3.4.3 =py39ha65689a_1
     - numpy =1.21.3 =py39hfe099e2_1
     - pandas =1.3.4 =py39h7b4a2eb_0
@@ -46,7 +46,7 @@ requirements:
     - certifi =2021.10.8 =py39ha65689a_1
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - cycler =0.11.0 =pyhd8ed1ab_0
-    - debugpy =1.4.1 =py39h99ab00b_1
+    - debugpy =1.5.1 =py39h99ab00b_0
     - decorator =5.1.0 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -107,10 +107,10 @@ requirements:
     - pillow =8.3.2 =py39h6bfd5da_0
     - pip =21.3.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =hb9de7d4_0
-    - prompt-toolkit =3.0.21 =pyha770c72_0
+    - prompt-toolkit =3.0.22 =pyha770c72_0
     - pthread-stubs =0.4 =hb9de7d4_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pycairo =1.20.1 =py39h72612d3_0
+    - pycairo =1.20.1 =py39h72612d3_1
     - pygments =2.10.0 =pyhd8ed1ab_0
     - pyparsing =3.0.4 =pyhd8ed1ab_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
@@ -119,7 +119,7 @@ requirements:
     - pyzmq =22.3.0 =py39h3674c48_1
     - readline =8.1 =h1a49cc3_0
     - reportlab =3.5.68 =py39h97cb7f8_0
-    - setuptools =58.4.0 =py39ha65689a_1
+    - setuptools =58.5.2 =py39ha65689a_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.26 =py39h14843e3_1
     - sqlite =3.36.0 =hc164836_2

@@ -29,7 +29,7 @@ requirements:
     - matplotlib =3.4.3 =py37hf985489_1
     - numpy =1.21.3 =py37haefe36b_1
     - pandas =1.3.4 =py37h5b83a90_0
-    - pydantic =1.8.2 =py37h271585c_1
+    - pydantic =1.8.2 =py37h271585c_2
     - scipy =1.7.1 =py37h4e3cf02_0
     - semi-ate =0.1.29 =pyhd8ed1ab_0
     - spyder =5.1.5 =py37hf985489_0
@@ -56,10 +56,10 @@ requirements:
     - binaryornot =0.4.4 =py_1
     - black =21.10b0 =pyhd8ed1ab_0
     - bleach =4.1.0 =pyhd8ed1ab_0
-    - brotlipy =0.7.0 =py37h271585c_1002
+    - brotlipy =0.7.0 =py37h271585c_1003
     - ca-certificates =2021.10.8 =h033912b_0
     - certifi =2021.10.8 =py37hf985489_1
-    - cffi =1.14.6 =py37h446072c_2
+    - cffi =1.15.0 =py37h446072c_0
     - chardet =4.0.0 =py37hf985489_2
     - charset-normalizer =2.0.0 =pyhd8ed1ab_0
     - click =8.0.3 =py37hf985489_1
@@ -67,11 +67,11 @@ requirements:
     - colorama =0.4.4 =pyh9f0ad1d_0
     - coloredlogs =15.0.1 =py37hf985489_1
     - cookiecutter =1.7.3 =pyh6c4a22f_0
-    - cryptography =35.0.0 =py37h5e77fcc_1
+    - cryptography =35.0.0 =py37h5e77fcc_2
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dataclasses =0.8 =pyhc8e2a94_3
     - dbus =1.13.6 =ha13b53f_2
-    - debugpy =1.4.1 =py37hd8d24ac_1
+    - debugpy =1.5.1 =py37hd8d24ac_0
     - decorator =5.1.0 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - diff-match-patch =20200713 =pyh9f0ad1d_0
@@ -84,7 +84,7 @@ requirements:
     - glib =2.70.0 =hcf210ce_1
     - glib-tools =2.70.0 =hcf210ce_1
     - gmp =6.2.1 =h2e338ed_0
-    - gmpy2 =2.1.0b5 =py37h60f582e_0
+    - gmpy2 =2.1.0rc1 =py37h60f582e_0
     - humanfriendly =10.0 =py37hf985489_0
     - icu =68.2 =he49afe7_0
     - idna =3.1 =pyhd3deb0d_0
@@ -128,7 +128,7 @@ requirements:
     - libllvm11 =11.1.0 =hd011deb_2
     - libopenblas =0.3.18 =openmp_h3351f45_0
     - libpng =1.6.37 =h7cec526_2
-    - libpq =13.3 =hea3049e_2
+    - libpq =13.3 =hea3049e_3
     - libsodium =1.0.18 =hbcb3906_1
     - libspatialindex =1.9.3 =he49afe7_4
     - libtiff =4.3.0 =hd146c10_2
@@ -172,7 +172,7 @@ requirements:
     - platformdirs =2.3.0 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py37hf985489_2
     - poyo =0.5.0 =py_0
-    - prompt-toolkit =3.0.21 =pyha770c72_0
+    - prompt-toolkit =3.0.22 =pyha770c72_0
     - psutil =5.8.0 =py37h271585c_2
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pycodestyle =2.7.0 =pyhd8ed1ab_0
@@ -189,7 +189,7 @@ requirements:
     - pyqt5-sip =4.19.18 =py37h5ab9d7d_7
     - pyqtchart =5.12 =py37h5ae2165_7
     - pyqtwebengine =5.12.1 =py37h5ae2165_7
-    - pyrsistent =0.17.3 =py37h271585c_3
+    - pyrsistent =0.18.0 =py37h271585c_0
     - pysocks =1.7.1 =py37hf985489_4
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-lsp-black =1.0.0 =pyhd8ed1ab_0
@@ -212,7 +212,7 @@ requirements:
     - requests =2.26.0 =pyhd8ed1ab_0
     - rope =0.21.0 =pyhd8ed1ab_0
     - rtree =0.9.7 =py37hf13911c_2
-    - setuptools =58.4.0 =py37hf985489_1
+    - setuptools =58.5.2 =py37hf985489_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.1.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
@@ -225,7 +225,7 @@ requirements:
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_0
     - spyder-kernels =2.1.3 =py37hf985489_0
     - sqlite =3.36.0 =h23a322b_2
-    - terminado =0.12.1 =py37hf985489_0
+    - terminado =0.12.1 =py37hf985489_1
     - testpath =0.5.0 =pyhd8ed1ab_0
     - text-unidecode =1.3 =py_0
     - textdistance =4.2.2 =pyhd8ed1ab_0
