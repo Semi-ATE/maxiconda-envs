@@ -27,7 +27,7 @@ requirements:
     # 7 primary packages :
     - biopython =1.79 =py39h14843e3_1
     - matplotlib =3.4.3 =py39ha65689a_1
-    - numpy =1.21.3 =py39hfe099e2_1
+    - numpy =1.21.4 =py39hfe099e2_0
     - pandas =1.3.4 =py39h7b4a2eb_0
     - rdkit =2021.09.2 =py39h679a4f3_0
     - scipy =1.7.1 =py39h5c7b0d2_0
@@ -119,7 +119,7 @@ requirements:
     - pyzmq =22.3.0 =py39h3674c48_1
     - readline =8.1 =h1a49cc3_0
     - reportlab =3.5.68 =py39h97cb7f8_0
-    - setuptools =58.5.2 =py39ha65689a_0
+    - setuptools =58.5.3 =py39ha65689a_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.26 =py39h14843e3_1
     - sqlite =3.36.0 =hc164836_2
@@ -129,7 +129,7 @@ requirements:
     - tzdata =2021e =he74cb21_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.37.0 =pyhd8ed1ab_1
-    - wurlitzer =3.0.2 =py39ha65689a_0
+    - wurlitzer =3.0.2 =py39h4420490_1
     - xorg-kbproto =1.0.7 =h3557bc0_1002
     - xorg-libice =1.0.10 =h3557bc0_0
     - xorg-libsm =1.2.3 =h965e137_1000

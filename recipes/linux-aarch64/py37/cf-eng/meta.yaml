@@ -25,7 +25,7 @@ requirements:
     - python =3.7.12 =h47f6e27_100_cpython
 
     # 7 primary packages :
-    - numpy =1.21.3 =py37h0c538df_1
+    - numpy =1.21.4 =py37h0c538df_0
     - openpyxl =3.0.9 =pyhd8ed1ab_0
     - pandas =1.3.4 =py37h12eb62e_0
     - pyserial =3.5 =pyhd8ed1ab_0
@@ -81,10 +81,10 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.7 =2_cp37m
     - pytz =2021.3 =pyhd8ed1ab_0
-    - pyvisa =1.11.3 =py37hd9ded2f_1
+    - pyvisa =1.11.3 =py37hd9ded2f_2
     - pyzmq =22.3.0 =py37h3f30300_1
     - readline =8.1 =h1a49cc3_0
-    - setuptools =58.5.2 =py37hd9ded2f_0
+    - setuptools =58.5.3 =py37hd9ded2f_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlite =3.36.0 =hc164836_2
     - tk =8.6.11 =hd8af866_1
@@ -93,7 +93,7 @@ requirements:
     - typing_extensions =3.10.0.2 =pyha770c72_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.37.0 =pyhd8ed1ab_1
-    - wurlitzer =3.0.2 =py37hd9ded2f_0
+    - wurlitzer =3.0.2 =py37hfd236b0_1
     - xz =5.2.5 =h6dd45c4_1
     - zeromq =4.3.4 =h01db608_1
     - zipp =3.6.0 =pyhd8ed1ab_0
