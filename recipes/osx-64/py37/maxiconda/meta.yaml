@@ -29,7 +29,7 @@ requirements:
     - bitarray =2.3.4 =py37h271585c_2
     - cython =0.29.24 =py37hd8d24ac_1
     - grayskull =0.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.24.1 =pyhd8ed1ab_0
+    - hypothesis =6.24.2 =pyhd8ed1ab_0
     - ipython =7.29.0 =py37h4c52d7d_1
     - jinja2 =3.0.2 =pyhd8ed1ab_0
     - matplotlib =3.4.3 =py37hf985489_1
@@ -217,8 +217,8 @@ requirements:
     - prometheus_client =0.12.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.22 =pyha770c72_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - py =1.10.0 =pyhd3deb0d_0
-    - pycparser =2.20 =pyh9f0ad1d_2
+    - py =1.11.0 =pyh6c4a22f_0
+    - pycparser =2.21 =pyhd8ed1ab_0
     - pygments =2.10.0 =pyhd8ed1ab_0
     - pyopenssl =21.0.0 =pyhd8ed1ab_0
     - pyparsing =2.4.7 =pyhd8ed1ab_1
@@ -289,7 +289,7 @@ requirements:
     - r-gistr =0.9.0 =r41hc72bb7e_0
     - r-glmnet =4.1_2 =r41h749f5a1_0
     - r-globals =0.14.0 =r41hc72bb7e_0
-    - r-glue =1.4.2 =r41h28b5c78_0
+    - r-glue =1.5.0 =r41h28b5c78_0
     - r-googledrive =2.0.0 =r41hc72bb7e_0
     - r-googlesheets4 =1.0.0 =r41h785f33e_0
     - r-gower =0.2.2 =r41h28b5c78_0
@@ -389,7 +389,7 @@ requirements:
     - r-survival =3.2_13 =r41h28b5c78_0
     - r-sys =3.4 =r41h28b5c78_0
     - r-testthat =3.1.0 =r41h9951f98_0
-    - r-tibble =3.1.5 =r41h28b5c78_0
+    - r-tibble =3.1.6 =r41h28b5c78_0
     - r-tidyr =1.1.4 =r41h9951f98_0
     - r-tidyselect =1.1.1 =r41hbe3e9c8_0
     - r-tidyverse =1.3.1 =r41hc72bb7e_0
