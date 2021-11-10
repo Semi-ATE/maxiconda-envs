@@ -30,9 +30,9 @@ requirements:
     - numpy =1.21.4 =py39h6635163_0
     - pandas =1.3.4 =py39h2e25243_1
     - pydantic =1.8.2 =py39hb82d6ee_2
-    - scipy =1.7.1 =py39hc0c34ad_0
+    - scipy =1.7.2 =py39hc0c34ad_0
     - semi-ate =0.1.29 =pyhd8ed1ab_0
-    - spyder =5.1.5 =py39hcbf5309_0
+    - spyder =5.1.5 =py39hcbf5309_1
     - spyder-remote-client =0.0.25 =pyhd8ed1ab_0
     - spyder-screencast =0.0.17 =py39hcbf5309_0
     - spyder-terminal =1.1.0 =py39hcbf5309_1
@@ -46,7 +46,7 @@ requirements:
     - async_generator =1.10 =py_0
     - atomicwrites =1.4.0 =pyh9f0ad1d_0
     - attrs =21.2.0 =pyhd8ed1ab_0
-    - autopep8 =1.6.0 =pyhd8ed1ab_0
+    - autopep8 =1.5.7 =pyhd8ed1ab_0
     - babel =2.9.1 =pyh44b312d_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
@@ -82,9 +82,9 @@ requirements:
     - icu =68.2 =h0e60522_0
     - idna =3.1 =pyhd3deb0d_0
     - ifaddr =0.1.7 =pyh9f0ad1d_0
-    - imagesize =1.2.0 =py_0
-    - importlib-metadata =4.8.1 =py39hcbf5309_1
-    - importlib_metadata =4.8.1 =hd8ed1ab_1
+    - imagesize =1.3.0 =pyhd8ed1ab_0
+    - importlib-metadata =4.8.2 =py39hcbf5309_0
+    - importlib_metadata =4.8.2 =hd8ed1ab_0
     - importlib_resources =5.4.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intel-openmp =2021.4.0 =h57928b3_3556
@@ -92,7 +92,7 @@ requirements:
     - ipykernel =6.4.2 =py39h832f523_0
     - ipython =7.29.0 =py39h832f523_1
     - ipython_genutils =0.2.0 =py_1
-    - isort =5.10.0 =pyhd8ed1ab_0
+    - isort =5.10.1 =pyhd8ed1ab_0
     - jbig =2.1 =h8d14728_2003
     - jedi =0.18.0 =py39hcbf5309_3
     - jinja2 =2.11.3 =pyh44b312d_0
@@ -132,7 +132,7 @@ requirements:
     - mpmath =1.2.1 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - mypy_extensions =0.4.3 =py39hcbf5309_4
-    - nbclient =0.5.4 =pyhd8ed1ab_0
+    - nbclient =0.5.5 =pyhd8ed1ab_0
     - nbconvert =6.2.0 =py39hcbf5309_0
     - nbformat =5.1.3 =pyhd8ed1ab_0
     - nest-asyncio =1.5.1 =pyhd8ed1ab_0
@@ -178,7 +178,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-lsp-black =1.0.0 =pyhd8ed1ab_0
     - python-lsp-jsonrpc =1.0.0 =pyhd8ed1ab_0
-    - python-lsp-server =1.2.4 =pyhd8ed1ab_0
+    - python-lsp-server =1.2.4 =pyhd8ed1ab_1
     - python-slugify =5.0.2 =pyhd8ed1ab_0
     - python_abi =3.9 =2_cp39
     - pytz =2021.3 =pyhd8ed1ab_0

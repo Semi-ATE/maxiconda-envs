@@ -48,7 +48,7 @@ requirements:
     - regex =2021.11.2 =py38h294d835_0
     - requests =2.26.0 =pyhd8ed1ab_0
     - rust =1.56.1 =hf8d6059_0
-    - scipy =1.7.1 =py38ha1292f7_0
+    - scipy =1.7.2 =py38ha1292f7_0
     - spyder-kernels =2.1.3 =py38haa244fe_0
     - sqlalchemy =1.4.26 =py38h294d835_1
     - sqlite =3.36.0 =h8ffe710_2
@@ -89,8 +89,8 @@ requirements:
     - greenlet =1.1.2 =py38h885f38d_1
     - icu =68.2 =h0e60522_0
     - idna =3.1 =pyhd3deb0d_0
-    - imagesize =1.2.0 =py_0
-    - importlib-metadata =4.8.1 =py38haa244fe_1
+    - imagesize =1.3.0 =pyhd8ed1ab_0
+    - importlib-metadata =4.8.2 =py38haa244fe_0
     - importlib_resources =5.4.0 =pyhd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
     - intel-openmp =2021.4.0 =h57928b3_3556
@@ -157,7 +157,7 @@ requirements:
     - more-itertools =8.10.0 =pyhd8ed1ab_0
     - mpmath =1.2.1 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
-    - nbclient =0.5.4 =pyhd8ed1ab_0
+    - nbclient =0.5.5 =pyhd8ed1ab_0
     - nbconvert =6.2.0 =py38haa244fe_0
     - nbformat =5.1.3 =pyhd8ed1ab_0
     - nest-asyncio =1.5.1 =pyhd8ed1ab_0
