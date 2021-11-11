@@ -34,7 +34,7 @@ requirements:
     - scipy =1.7.2 =py37h4e3cf02_0
     - spyder-kernels =2.1.3 =py37hf985489_0
 
-    # 126 secondary packages :
+    # 125 secondary packages :
     - appnope =0.1.2 =py37hf985489_2
     - argcomplete =1.12.3 =pyhd8ed1ab_2
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -50,7 +50,7 @@ requirements:
     - cftime =1.5.1.1 =py37h032687b_1
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
-    - curl =7.79.1 =h97da3c1_1
+    - curl =7.80.0 =h97da3c1_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.5.1 =py37hd8d24ac_0
     - decorator =5.1.0 =pyhd8ed1ab_0
@@ -71,9 +71,8 @@ requirements:
     - icu =69.1 =he49afe7_0
     - importlib-metadata =4.8.2 =py37hf985489_0
     - importlib_metadata =4.8.2 =hd8ed1ab_0
-    - ipykernel =6.4.2 =py37h4c52d7d_0
+    - ipykernel =6.5.0 =py37h4c52d7d_0
     - ipython =7.29.0 =py37h4c52d7d_1
-    - ipython_genutils =0.2.0 =py_1
     - jbig =2.1 =h0d85af4_2003
     - jedi =0.18.0 =py37hf985489_3
     - joblib =1.1.0 =pyhd8ed1ab_0
@@ -86,7 +85,7 @@ requirements:
     - lerc =3.0 =he49afe7_0
     - libblas =3.9.0 =12_osx64_openblas
     - libcblas =3.9.0 =12_osx64_openblas
-    - libcurl =7.79.1 =h97da3c1_1
+    - libcurl =7.80.0 =h97da3c1_0
     - libcxx =12.0.1 =habf9029_0
     - libdeflate =1.8 =h0d85af4_0
     - libedit =3.1.20191231 =h0678c8f_2
@@ -125,7 +124,7 @@ requirements:
     - pcre =8.45 =he49afe7_0
     - pexpect =4.8.0 =py37hc8dfbb8_1
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
-    - pillow =8.3.2 =py37h76dc067_0
+    - pillow =8.4.0 =py37h76dc067_0
     - pip =21.3.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
     - prompt-toolkit =3.0.22 =pyha770c72_0
