@@ -26,7 +26,7 @@ requirements:
 
     # 8 primary packages :
     - biopython =1.79 =py37h271585c_1
-    - matplotlib =3.4.3 =py37hf985489_1
+    - matplotlib =3.4.3 =py37hf985489_2
     - mdanalysis =2.0.0 =py37hd8d24ac_1
     - numpy =1.21.4 =py37haefe36b_0
     - pandas =1.3.4 =py37h5b83a90_1
@@ -72,13 +72,13 @@ requirements:
     - importlib-metadata =4.8.2 =py37hf985489_0
     - importlib_metadata =4.8.2 =hd8ed1ab_0
     - ipykernel =6.5.0 =py37h4c52d7d_0
-    - ipython =7.29.0 =py37h4c52d7d_1
+    - ipython =7.29.0 =py37h4c52d7d_2
     - jbig =2.1 =h0d85af4_2003
     - jedi =0.18.0 =py37hf985489_3
     - joblib =1.1.0 =pyhd8ed1ab_0
     - jpeg =9d =hbcb3906_0
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
-    - jupyter_core =4.9.1 =py37hf985489_0
+    - jupyter_core =4.9.1 =py37hf985489_1
     - kiwisolver =1.3.2 =py37h737db71_1
     - krb5 =1.19.2 =h289aae4_3
     - lcms2 =2.12 =h577c468_0
@@ -109,7 +109,7 @@ requirements:
     - libzlib =1.2.11 =h9173be1_1013
     - llvm-openmp =12.0.1 =hda6cdc1_1
     - lz4-c =1.9.3 =he49afe7_1
-    - matplotlib-base =3.4.3 =py37h3147e9e_1
+    - matplotlib-base =3.4.3 =py37h3147e9e_2
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mmtf-python =1.1.2 =py_0
     - msgpack-python =1.0.2 =py37h737db71_2
@@ -131,21 +131,21 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pycairo =1.20.1 =py37hac2abfc_1
     - pygments =2.10.0 =pyhd8ed1ab_0
-    - pyparsing =3.0.5 =pyhd8ed1ab_0
+    - pyparsing =3.0.6 =pyhd8ed1ab_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.7 =2_cp37m
     - pytz =2021.3 =pyhd8ed1ab_0
     - pyzmq =22.3.0 =py37h8f778e5_1
     - readline =8.1 =h05e3726_0
     - reportlab =3.5.68 =py37h08983f2_0
-    - scikit-learn =1.0.1 =py37h5a4fc86_1
+    - scikit-learn =1.0.1 =py37h572704e_2
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
     - setuptools =58.5.3 =py37hf985489_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.27 =py37h271585c_0
     - sqlite =3.36.0 =h23a322b_2
-    - statsmodels =0.13.0 =py37h032687b_1
+    - statsmodels =0.13.1 =py37h032687b_0
     - threadpoolctl =3.0.0 =pyh8a188c0_0
     - tk =8.6.11 =h5dbffcc_1
     - tornado =6.1 =py37h271585c_2

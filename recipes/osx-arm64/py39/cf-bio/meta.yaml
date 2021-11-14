@@ -26,7 +26,7 @@ requirements:
 
     # 7 primary packages :
     - biopython =1.79 =py39h5161555_1
-    - matplotlib =3.4.3 =py39hdf13c20_1
+    - matplotlib =3.4.3 =py39hdf13c20_2
     - numpy =1.21.4 =py39h1f3b974_0
     - pandas =1.3.4 =py39h7f752ed_1
     - rdkit =2021.09.2 =py39h29b70d0_0
@@ -60,12 +60,12 @@ requirements:
     - greenlet =1.1.2 =py39hfb83b0d_1
     - icu =69.1 =hbdafb3b_0
     - ipykernel =6.5.0 =py39h32adebf_0
-    - ipython =7.29.0 =py39h32adebf_1
+    - ipython =7.29.0 =py39h32adebf_2
     - jbig =2.1 =h3422bc3_2003
     - jedi =0.18.0 =py39h2804cbe_3
     - jpeg =9d =h27ca646_0
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
-    - jupyter_core =4.9.1 =py39h2804cbe_0
+    - jupyter_core =4.9.1 =py39h2804cbe_1
     - kiwisolver =1.3.2 =py39h4d2d688_1
     - lcms2 =2.12 =had6a04f_0
     - lerc =3.0 =hbdafb3b_0
@@ -88,7 +88,7 @@ requirements:
     - libzlib =1.2.11 =hee7b306_1013
     - llvm-openmp =12.0.1 =hf3c4609_1
     - lz4-c =1.9.3 =hbdafb3b_1
-    - matplotlib-base =3.4.3 =py39h5aa4fe7_1
+    - matplotlib-base =3.4.3 =py39h5aa4fe7_2
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - ncurses =6.2 =h9aa5885_4
     - olefile =0.46 =pyh9f0ad1d_1
@@ -105,7 +105,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pycairo =1.20.1 =py39h551958b_1
     - pygments =2.10.0 =pyhd8ed1ab_0
-    - pyparsing =3.0.5 =pyhd8ed1ab_0
+    - pyparsing =3.0.6 =pyhd8ed1ab_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =2_cp39
     - pytz =2021.3 =pyhd8ed1ab_0

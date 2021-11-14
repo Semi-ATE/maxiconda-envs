@@ -26,7 +26,7 @@ requirements:
 
     # 11 primary packages :
     - cython =0.29.24 =py37hd8d24ac_1
-    - matplotlib =3.4.3 =py37hf985489_1
+    - matplotlib =3.4.3 =py37hf985489_2
     - numpy =1.21.4 =py37haefe36b_0
     - pandas =1.3.4 =py37h5b83a90_1
     - pydantic =1.8.2 =py37h271585c_2
@@ -96,7 +96,7 @@ requirements:
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.0.2 =py_0
     - ipykernel =6.5.0 =py37h4c52d7d_0
-    - ipython =7.29.0 =py37h4c52d7d_1
+    - ipython =7.29.0 =py37h4c52d7d_2
     - ipython_genutils =0.2.0 =py_1
     - isort =5.10.1 =pyhd8ed1ab_0
     - jbig =2.1 =h0d85af4_2003
@@ -106,9 +106,9 @@ requirements:
     - jpeg =9d =hbcb3906_0
     - jsonschema =4.2.1 =pyhd8ed1ab_0
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
-    - jupyter_core =4.9.1 =py37hf985489_0
+    - jupyter_core =4.9.1 =py37hf985489_1
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
-    - keyring =23.2.1 =py37hf985489_0
+    - keyring =23.2.1 =py37hf985489_1
     - kiwisolver =1.3.2 =py37h737db71_1
     - krb5 =1.19.2 =hcfbf3a7_3
     - lazy-object-proxy =1.6.0 =py37h271585c_1
@@ -138,7 +138,7 @@ requirements:
     - llvm-openmp =12.0.1 =hda6cdc1_1
     - lz4-c =1.9.3 =he49afe7_1
     - markupsafe =1.1.1 =py37hf967b71_3
-    - matplotlib-base =3.4.3 =py37h3147e9e_1
+    - matplotlib-base =3.4.3 =py37h3147e9e_2
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mccabe =0.6.1 =py_1
     - mistune =0.8.4 =py37h271585c_1005
@@ -155,7 +155,7 @@ requirements:
     - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - netifaces =0.10.9 =py37h271585c_1004
     - nspr =4.32 =hcd9eead_1
-    - nss =3.71 =h31e2bf1_0
+    - nss =3.72 =h31e2bf1_0
     - numpydoc =1.1.0 =py_1
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =h6e7aa92_1
@@ -252,7 +252,7 @@ requirements:
     - xz =5.2.5 =haf1e3a3_1
     - yaml =0.2.5 =haf1e3a3_0
     - yapf =0.31.0 =pyhd8ed1ab_0
-    - zeroconf =0.36.12 =pyhd8ed1ab_0
+    - zeroconf =0.36.13 =pyhd8ed1ab_0
     - zeromq =4.3.4 =he49afe7_1
     - zipp =3.6.0 =pyhd8ed1ab_0
     - zlib =1.2.11 =h9173be1_1013
