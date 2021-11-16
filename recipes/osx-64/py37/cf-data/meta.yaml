@@ -31,7 +31,7 @@ requirements:
     - matplotlib =3.4.3 =py37hf985489_2
     - numpy =1.21.4 =py37haefe36b_0
     - pandas =1.3.4 =py37h5b83a90_1
-    - plotly =5.3.1 =pyhd8ed1ab_0
+    - plotly =5.4.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py37hf985489_1
     - pytorch =1.10.0 =cpu_py37ha02ccf4_0
@@ -134,7 +134,7 @@ requirements:
     - importlib_metadata =4.8.2 =hd8ed1ab_0
     - importlib_resources =5.4.0 =pyhd8ed1ab_0
     - incremental =21.3.0 =pyhd8ed1ab_0
-    - ipykernel =6.5.0 =py37h4c52d7d_0
+    - ipykernel =6.5.0 =py37h4c52d7d_1
     - ipython =7.29.0 =py37h4c52d7d_2
     - ipython_genutils =0.2.0 =py_1
     - ipywidgets =7.6.5 =pyhd8ed1ab_0
@@ -266,7 +266,7 @@ requirements:
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - service_identity =18.1.0 =py_0
-    - setuptools =58.5.3 =py37hf985489_0
+    - setuptools =59.1.0 =py37hf985489_0
     - shellingham =1.4.0 =pyh44b312d_0
     - six =1.16.0 =pyh6c4a22f_0
     - sleef =3.5.1 =h6db0672_2
@@ -302,11 +302,11 @@ requirements:
     - wasabi =0.8.2 =pyh44b312d_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - webencodings =0.5.1 =py_1
-    - websocket-client =1.1.0 =py37hf985489_1
+    - websocket-client =1.2.1 =py37hf985489_0
     - werkzeug =2.0.1 =pyhd8ed1ab_0
     - wheel =0.37.0 =pyhd8ed1ab_1
     - widgetsnbextension =3.5.2 =py37hf985489_0
-    - wordcloud =1.8.1 =py37h271585c_1
+    - wordcloud =1.8.1 =py37h271585c_2
     - wurlitzer =3.0.2 =py37hf985489_1
     - xz =5.2.5 =haf1e3a3_1
     - yaml =0.2.5 =haf1e3a3_0
