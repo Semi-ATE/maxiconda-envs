@@ -31,7 +31,7 @@ requirements:
     - pandas =1.3.4 =py38h3777fb4_1
     - rdkit =2021.09.2 =py38hbcbf861_0
     - scipy =1.7.2 =py38hd0c9ec0_0
-    - spyder-kernels =2.1.3 =py38h10201cd_0
+    - spyder-kernels =2.1.3 =py38h10201cd_1
 
     # 92 secondary packages :
     - appnope =0.1.2 =py38h10201cd_2
@@ -76,7 +76,7 @@ requirements:
     - libffi =3.4.2 =h3422bc3_5
     - libgfortran =5.0.0.dev0 =11_0_1_hf114ba7_23
     - libgfortran5 =11.0.1.dev0 =hf114ba7_23
-    - libglib =2.70.0 =h67e64d8_1
+    - libglib =2.70.1 =h67e64d8_0
     - libiconv =1.16 =h642e427_0
     - liblapack =3.9.0 =12_osxarm64_openblas
     - libopenblas =0.3.18 =openmp_h5dd58f0_0
@@ -112,7 +112,7 @@ requirements:
     - pyzmq =22.3.0 =py38h51b17a6_1
     - readline =8.1 =hedafd6a_0
     - reportlab =3.5.68 =py38h1ca7581_0
-    - setuptools =59.1.0 =py38h10201cd_0
+    - setuptools =59.1.1 =py38h10201cd_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.27 =py38hea4295b_0
     - sqlite =3.36.0 =h72a2b83_2

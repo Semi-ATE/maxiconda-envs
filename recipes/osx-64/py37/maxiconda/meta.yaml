@@ -29,7 +29,7 @@ requirements:
     - bitarray =2.3.4 =py37h271585c_2
     - cython =0.29.24 =py37hd8d24ac_1
     - grayskull =0.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.24.4 =pyhd8ed1ab_0
+    - hypothesis =6.24.5 =pyhd8ed1ab_0
     - ipython =7.29.0 =py37h4c52d7d_2
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - matplotlib =3.4.3 =py37hf985489_2
@@ -49,7 +49,7 @@ requirements:
     - requests =2.26.0 =pyhd8ed1ab_0
     - rust =1.56.1 =h7e1429e_0
     - scipy =1.7.2 =py37h4e3cf02_0
-    - spyder-kernels =2.1.3 =py37hf985489_0
+    - spyder-kernels =2.1.3 =py37hf985489_1
     - sqlalchemy =1.4.27 =py37h271585c_0
     - sqlite =3.36.0 =h23a322b_2
     - sympy =1.9 =py37hf985489_1
@@ -113,8 +113,8 @@ requirements:
     - gfortran_impl_osx-64 =9.3.0 =h9cc0e5e_23
     - gfortran_osx-64 =9.3.0 =h18f7dce_14
     - git =2.33.1 =pl5321h9a53687_0
-    - glib =2.70.0 =hcf210ce_1
-    - glib-tools =2.70.0 =hcf210ce_1
+    - glib =2.70.1 =hcf210ce_0
+    - glib-tools =2.70.1 =hcf210ce_0
     - gmp =6.2.1 =h2e338ed_0
     - gmpy2 =2.1.0rc1 =py37h60f582e_0
     - graphite2 =1.3.13 =h2e338ed_1001
@@ -157,7 +157,7 @@ requirements:
     - libgfortran =5.0.0 =9_3_0_h6c81a4c_23
     - libgfortran-devel_osx-64 =9.3.0 =h6c81a4c_23
     - libgfortran5 =9.3.0 =h6c81a4c_23
-    - libglib =2.70.0 =hf1fb8c0_1
+    - libglib =2.70.1 =hf1fb8c0_0
     - libiconv =1.16 =haf1e3a3_0
     - liblapack =3.9.0 =12_osx64_openblas
     - libllvm10 =10.0.1 =h009f743_3
@@ -419,7 +419,7 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-apple-darwin =1.56.1 =h059895a_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =59.1.0 =py37hf985489_0
+    - setuptools =59.1.1 =py37hf985489_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.1.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
