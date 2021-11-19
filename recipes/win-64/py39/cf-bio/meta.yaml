@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - biopython =1.79 =py39hb82d6ee_1
-    - matplotlib =3.4.3 =py39hcbf5309_2
+    - matplotlib =3.5.0 =py39hcbf5309_0
     - mdanalysis =2.0.0 =py39h415ef7b_1
     - numpy =1.21.4 =py39h6635163_0
     - pandas =1.3.4 =py39h2e25243_1
@@ -35,12 +35,14 @@ requirements:
     - scipy =1.7.2 =py39hc0c34ad_0
     - spyder-kernels =2.1.3 =py39hcbf5309_1
 
-    # 121 secondary packages :
+    # 129 secondary packages :
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - boost =1.74.0 =py39hefe7e4c_4
     - boost-cpp =1.74.0 =h5b4e17d_5
+    - brotli =1.0.9 =h8ffe710_6
+    - brotli-bin =1.0.9 =h8ffe710_6
     - bzip2 =1.0.8 =h8ffe710_4
     - ca-certificates =2021.10.8 =h5b45459_0
     - cairo =1.16.0 =hb19e0ff_1008
@@ -53,6 +55,7 @@ requirements:
     - debugpy =1.5.1 =py39h415ef7b_0
     - decorator =5.1.0 =pyhd8ed1ab_0
     - fontconfig =2.13.1 =h1989441_1005
+    - fonttools =4.28.1 =py39hb82d6ee_0
     - freetype =2.10.4 =h546665d_1
     - gettext =0.19.8.1 =ha2e2712_1008
     - glew =2.1.0 =h39d44d4_2
@@ -77,6 +80,9 @@ requirements:
     - lcms2 =2.12 =h2a16943_0
     - lerc =3.0 =h0e60522_0
     - libblas =3.9.0 =12_win64_mkl
+    - libbrotlicommon =1.0.9 =h8ffe710_6
+    - libbrotlidec =1.0.9 =h8ffe710_6
+    - libbrotlienc =1.0.9 =h8ffe710_6
     - libcblas =3.9.0 =12_win64_mkl
     - libclang =11.1.0 =default_h5c34c98_1
     - libcurl =7.80.0 =h789b8ee_0
@@ -98,17 +104,19 @@ requirements:
     - m2w64-gcc-libs-core =5.3.0 =7
     - m2w64-gmp =6.1.0 =2
     - m2w64-libwinpthread-git =5.0.0.4634.697f757 =2
-    - matplotlib-base =3.4.3 =py39h581301d_2
+    - matplotlib-base =3.5.0 =py39h581301d_0
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mkl =2021.4.0 =h0e2418a_729
     - mmtf-python =1.1.2 =py_0
     - msgpack-python =1.0.2 =py39h2e07f2f_2
     - msys2-conda-epoch =20160418 =1
+    - munkres =1.1.4 =pyh9f0ad1d_0
     - netcdf4 =1.5.6 =nompi_py39hc3aef6b_102
     - networkx =2.6.3 =pyhd8ed1ab_1
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =hb211442_1
     - openssl =1.1.1l =h8ffe710_0
+    - packaging =21.3 =pyhd8ed1ab_0
     - parso =0.8.2 =pyhd8ed1ab_0
     - patsy =0.5.2 =pyhd8ed1ab_0
     - pcre =8.45 =h0e60522_0

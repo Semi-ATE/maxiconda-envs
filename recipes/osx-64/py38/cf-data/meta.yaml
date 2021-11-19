@@ -28,7 +28,7 @@ requirements:
     - beautifulsoup4 =4.10.0 =pyha770c72_0
     - bokeh =2.4.1 =py38h50d1736_2
     - lightgbm =3.3.1 =py38hffa2396_0
-    - matplotlib =3.4.3 =py38h50d1736_2
+    - matplotlib =3.5.0 =py38h50d1736_0
     - numpy =1.21.4 =py38h49b9922_0
     - pandas =1.3.4 =py38ha53d530_1
     - plotly =5.4.0 =pyhd8ed1ab_0
@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.13.1 =py38hbe852b5_0
     - xgboost =1.5.0 =py38hbb4f172_0
 
-    # 268 secondary packages :
+    # 276 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.4.1 =py_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -62,6 +62,8 @@ requirements:
     - bcrypt =3.2.0 =py38h96a0964_2
     - bleach =4.1.0 =pyhd8ed1ab_0
     - bottleneck =1.3.2 =py38hbe852b5_5
+    - brotli =1.0.9 =h0d85af4_6
+    - brotli-bin =1.0.9 =h0d85af4_6
     - brotlipy =0.7.0 =py38h96a0964_1003
     - ca-certificates =2021.10.8 =h033912b_0
     - cairo =1.16.0 =he43a7df_1008
@@ -103,6 +105,7 @@ requirements:
     - fontconfig =2.13.1 =h10f422b_1005
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
+    - fonttools =4.28.1 =py38h96a0964_0
     - freetype =2.10.4 =h4cff582_1
     - fribidi =1.0.10 =hbcb3906_0
     - funcy =1.16 =pyhd8ed1ab_0
@@ -156,6 +159,9 @@ requirements:
     - lcms2 =2.12 =h577c468_0
     - lerc =3.0 =he49afe7_0
     - libblas =3.9.0 =12_osx64_mkl
+    - libbrotlicommon =1.0.9 =h0d85af4_6
+    - libbrotlidec =1.0.9 =h0d85af4_6
+    - libbrotlienc =1.0.9 =h0d85af4_6
     - libcblas =3.9.0 =12_osx64_mkl
     - libcxx =12.0.1 =habf9029_0
     - libdeflate =1.8 =h0d85af4_0
@@ -185,7 +191,7 @@ requirements:
     - lz4-c =1.9.3 =he49afe7_1
     - mako =1.1.6 =pyhd8ed1ab_0
     - markupsafe =2.0.1 =py38h96a0964_1
-    - matplotlib-base =3.4.3 =py38hc7d2367_2
+    - matplotlib-base =3.5.0 =py38hc7d2367_0
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mistune =0.8.4 =py38h96a0964_1005
@@ -193,6 +199,7 @@ requirements:
     - mlflow =1.21.0 =py38hf6bc2c6_0
     - mlxtend =0.19.0 =pyhd8ed1ab_0
     - multimethod =1.4 =py_0
+    - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.6 =py38ha048514_2
     - nbclient =0.5.8 =pyhd8ed1ab_0
     - nbconvert =6.3.0 =py38h50d1736_1
@@ -208,7 +215,7 @@ requirements:
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =h6e7aa92_1
     - openssl =1.1.1l =h0d85af4_0
-    - packaging =21.2 =pyhd8ed1ab_1
+    - packaging =21.3 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pandoc =2.16.1 =h0d85af4_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -244,7 +251,7 @@ requirements:
     - pynndescent =0.5.5 =pyh6c4a22f_0
     - pyod =0.9.5 =pyhd8ed1ab_0
     - pyopenssl =21.0.0 =pyhd8ed1ab_0
-    - pyparsing =2.4.7 =pyhd8ed1ab_1
+    - pyparsing =3.0.6 =pyhd8ed1ab_0
     - pyrsistent =0.18.0 =py38h96a0964_0
     - pysocks =1.7.1 =py38h50d1736_4
     - python-cufflinks =0.17.3 =py_0
@@ -294,6 +301,7 @@ requirements:
     - typing-extensions =4.0.0 =hd8ed1ab_0
     - typing_extensions =4.0.0 =pyha770c72_0
     - umap-learn =0.5.2 =py38h50d1736_0
+    - unicodedata2 =13.0.0.post2 =py38h96a0964_4
     - urllib3 =1.26.7 =pyhd8ed1ab_0
     - visions =0.7.1 =pyhd8ed1ab_0
     - w3lib =1.22.0 =pyh9f0ad1d_0

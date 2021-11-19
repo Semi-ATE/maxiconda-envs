@@ -26,20 +26,22 @@ requirements:
 
     # 7 primary packages :
     - biopython =1.79 =py39h5161555_1
-    - matplotlib =3.4.3 =py39hdf13c20_2
+    - matplotlib =3.5.0 =py39hdf13c20_0
     - numpy =1.21.4 =py39h1f3b974_0
     - pandas =1.3.4 =py39h7f752ed_1
     - rdkit =2021.09.2 =py39h29b70d0_0
     - scipy =1.7.2 =py39h5060c3b_0
     - spyder-kernels =2.1.3 =py39h2804cbe_1
 
-    # 93 secondary packages :
+    # 101 secondary packages :
     - appnope =0.1.2 =py39h2804cbe_2
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - boost =1.74.0 =py39h776e71f_4
     - boost-cpp =1.74.0 =h128b0ad_5
+    - brotli =1.0.9 =h3422bc3_6
+    - brotli-bin =1.0.9 =h3422bc3_6
     - bzip2 =1.0.8 =h3422bc3_4
     - ca-certificates =2021.10.8 =h4653dfc_0
     - cairo =1.16.0 =hb99c34e_1009
@@ -55,6 +57,7 @@ requirements:
     - fontconfig =2.13.1 =heb65262_1005
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
+    - fonttools =4.28.1 =py39h5161555_0
     - freetype =2.10.4 =h17b34a0_1
     - gettext =0.19.8.1 =h049c9fb_1008
     - greenlet =1.1.2 =py39hfb83b0d_1
@@ -70,6 +73,9 @@ requirements:
     - lcms2 =2.12 =had6a04f_0
     - lerc =3.0 =hbdafb3b_0
     - libblas =3.9.0 =12_osxarm64_openblas
+    - libbrotlicommon =1.0.9 =h3422bc3_6
+    - libbrotlidec =1.0.9 =h3422bc3_6
+    - libbrotlienc =1.0.9 =h3422bc3_6
     - libcblas =3.9.0 =12_osxarm64_openblas
     - libcxx =12.0.1 =h168391b_0
     - libdeflate =1.8 =h3422bc3_0
@@ -88,12 +94,14 @@ requirements:
     - libzlib =1.2.11 =hee7b306_1013
     - llvm-openmp =12.0.1 =hf3c4609_1
     - lz4-c =1.9.3 =hbdafb3b_1
-    - matplotlib-base =3.4.3 =py39h5aa4fe7_2
+    - matplotlib-base =3.5.0 =py39h5aa4fe7_0
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
+    - munkres =1.1.4 =pyh9f0ad1d_0
     - ncurses =6.2 =h9aa5885_4
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =h062765e_1
     - openssl =3.0.0 =h3422bc3_2
+    - packaging =21.3 =pyhd8ed1ab_0
     - parso =0.8.2 =pyhd8ed1ab_0
     - pcre =8.45 =hbdafb3b_0
     - pexpect =4.8.0 =pyh9f0ad1d_2
