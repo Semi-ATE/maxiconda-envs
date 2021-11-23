@@ -29,7 +29,7 @@ requirements:
     - bitarray =2.3.4 =py37h271585c_2
     - cython =0.29.24 =py37hd8d24ac_1
     - grayskull =0.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.26.0 =pyhd8ed1ab_0
+    - hypothesis =6.27.0 =pyhd8ed1ab_0
     - ipython =7.29.0 =py37h4c52d7d_2
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - matplotlib =3.5.0 =py37hf985489_0
@@ -172,7 +172,7 @@ requirements:
     - libnghttp2 =1.43.0 =h6f36284_1
     - libopenblas =0.3.18 =openmp_h3351f45_0
     - libpng =1.6.37 =h7cec526_2
-    - libpq =13.3 =hea3049e_3
+    - libpq =13.5 =hea3049e_0
     - libsodium =1.0.18 =hbcb3906_1
     - libssh2 =1.10.0 =h52ee1ee_2
     - libtiff =4.3.0 =hd146c10_2
@@ -207,7 +207,7 @@ requirements:
     - openjpeg =2.4.0 =h6e7aa92_1
     - openssl =1.1.1l =h0d85af4_0
     - packaging =21.3 =pyhd8ed1ab_0
-    - pandoc =2.16.1 =h0d85af4_0
+    - pandoc =2.16.2 =h0d85af4_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.48.10 =h056538c_2
     - parso =0.8.2 =pyhd8ed1ab_0
@@ -266,7 +266,7 @@ requirements:
     - r-commonmark =1.7 =r41h28b5c78_1002
     - r-cpp11 =0.4.1 =r41hc72bb7e_0
     - r-crayon =1.4.2 =r41hc72bb7e_0
-    - r-crul =1.1.0 =r41h785f33e_0
+    - r-crul =1.2.0 =r41h785f33e_0
     - r-curl =4.3.2 =r41h28b5c78_0
     - r-data.table =1.14.2 =r41ha76789d_0
     - r-dbi =1.1.1 =r41hc72bb7e_0
