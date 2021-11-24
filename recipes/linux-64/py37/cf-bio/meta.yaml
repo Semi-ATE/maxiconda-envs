@@ -33,9 +33,9 @@ requirements:
     - pymol-open-source =2.5.0 =py37h84945d2_4
     - rdkit =2021.09.2 =py37h13c2175_0
     - scipy =1.7.2 =py37hf2a6cf1_0
-    - spyder-kernels =2.1.3 =py37h89c1867_1
+    - spyder-kernels =2.2.0 =py37h89c1867_0
 
-    # 174 secondary packages :
+    # 176 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - alsa-lib =1.2.3 =h516909a_0
@@ -60,9 +60,10 @@ requirements:
     - dbus =1.13.6 =h48d8840_2
     - debugpy =1.5.1 =py37hcd2ae1e_0
     - decorator =5.1.0 =pyhd8ed1ab_0
+    - entrypoints =0.3 =py37hc8dfbb8_1002
     - expat =2.4.1 =h9c3ff4c_0
     - fontconfig =2.13.1 =hba837de_1005
-    - fonttools =4.28.1 =py37h5e8e339_0
+    - fonttools =4.28.2 =py37h5e8e339_0
     - freetype =2.10.4 =h0708190_1
     - gettext =0.19.8.1 =h73d1719_1008
     - glew =2.1.0 =h9c3ff4c_2
@@ -85,7 +86,7 @@ requirements:
     - jedi =0.18.1 =py37h89c1867_0
     - joblib =1.1.0 =pyhd8ed1ab_0
     - jpeg =9d =h36c2ea0_0
-    - jupyter_client =6.1.12 =pyhd8ed1ab_0
+    - jupyter_client =7.1.0 =pyhd8ed1ab_0
     - jupyter_core =4.9.1 =py37h89c1867_1
     - kiwisolver =1.3.2 =py37h2527ec5_1
     - krb5 =1.19.2 =hcc1bbae_3
@@ -141,6 +142,7 @@ requirements:
     - mysql-common =8.0.27 =ha770c72_1
     - mysql-libs =8.0.27 =hfa10184_1
     - ncurses =6.2 =h58526e2_4
+    - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - netcdf4 =1.5.6 =nompi_py37hf7b6e46_102
     - networkx =2.6.3 =pyhd8ed1ab_1
     - nspr =4.32 =h9c3ff4c_1

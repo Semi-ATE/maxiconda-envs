@@ -25,9 +25,9 @@ requirements:
     - python =3.7.12 =h900ac77_100_cpython
 
     # 1 primary packages :
-    - spyder-kernels =2.1.3 =py37h03978a9_1
+    - spyder-kernels =2.2.0 =py37h03978a9_0
 
-    # 41 secondary packages :
+    # 43 secondary packages :
     - argcomplete =1.12.3 =pyhd8ed1ab_2
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
@@ -37,15 +37,17 @@ requirements:
     - colorama =0.4.4 =pyh9f0ad1d_0
     - debugpy =1.5.1 =py37hf2a7229_0
     - decorator =5.1.0 =pyhd8ed1ab_0
+    - entrypoints =0.3 =py37hc8dfbb8_1002
     - importlib-metadata =4.8.2 =py37h03978a9_0
     - importlib_metadata =4.8.2 =hd8ed1ab_0
     - ipykernel =6.5.0 =py37h4038f58_1
     - ipython =7.29.0 =py37h4038f58_2
     - jedi =0.18.1 =py37h03978a9_0
-    - jupyter_client =6.1.12 =pyhd8ed1ab_0
+    - jupyter_client =7.1.0 =pyhd8ed1ab_0
     - jupyter_core =4.9.1 =py37h03978a9_1
     - libsodium =1.0.18 =h8d14728_1
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
+    - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - openssl =3.0.0 =h8ffe710_2
     - parso =0.8.2 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
