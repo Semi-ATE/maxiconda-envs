@@ -46,7 +46,7 @@ requirements:
     - r-base =4.1.1 =hb93adac_1
     - r-essentials =4.1 =r41hd8ed1ab_2002
     - regex =2021.11.10 =py38h497a2fe_0
-    - requests =2.26.0 =pyhd8ed1ab_0
+    - requests =2.26.0 =pyhd8ed1ab_1
     - rust =1.56.1 =h61edd41_0
     - scipy =1.7.2 =py38h56a6a73_0
     - spyder-kernels =2.2.0 =py38h578d9bd_0
@@ -55,7 +55,7 @@ requirements:
     - sympy =1.9 =py38h578d9bd_1
     - tqdm =4.62.3 =pyhd8ed1ab_0
 
-    # 424 secondary packages :
+    # 423 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -81,8 +81,7 @@ requirements:
     - cairo =1.16.0 =h6cf1ce9_1008
     - certifi =2021.10.8 =py38h578d9bd_1
     - cffi =1.15.0 =py38h3931269_0
-    - chardet =4.0.0 =py38h578d9bd_2
-    - charset-normalizer =2.0.0 =pyhd8ed1ab_0
+    - charset-normalizer =2.0.7 =pyhd8ed1ab_0
     - click =8.0.3 =py38h578d9bd_1
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
@@ -195,7 +194,7 @@ requirements:
     - matplotlib-base =3.5.0 =py38hf4fb855_0
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mistune =0.8.4 =py38h497a2fe_1005
-    - more-itertools =8.11.0 =pyhd8ed1ab_0
+    - more-itertools =8.12.0 =pyhd8ed1ab_0
     - mpc =1.2.1 =h9f54685_0
     - mpfr =4.1.0 =h9202a9a_1
     - mpmath =1.2.1 =pyhd8ed1ab_0
@@ -252,7 +251,7 @@ requirements:
     - qtpy =1.11.2 =pyhd8ed1ab_0
     - r-askpass =1.1 =r41hcfec24a_2
     - r-assertthat =0.2.1 =r41hc72bb7e_2
-    - r-backports =1.3.0 =r41hcfec24a_0
+    - r-backports =1.4.0 =r41hcfec24a_0
     - r-base64enc =0.1_3 =r41hcfec24a_1004
     - r-bit =4.0.4 =r41hcfec24a_0
     - r-bit64 =4.0.5 =r41hcfec24a_0

@@ -29,12 +29,12 @@ requirements:
     - django =3.2.9 =pyhd8ed1ab_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - pyyaml =6.0 =py37h271585c_3
-    - requests =2.26.0 =pyhd8ed1ab_0
+    - requests =2.26.0 =pyhd8ed1ab_1
     - spyder-kernels =2.2.0 =py37hf985489_0
     - sqlalchemy =1.4.27 =py37h271585c_0
     - twisted =21.7.0 =py37h271585c_1
 
-    # 80 secondary packages :
+    # 79 secondary packages :
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.2 =py37hf985489_2
     - argcomplete =1.12.3 =pyhd8ed1ab_2
@@ -49,8 +49,7 @@ requirements:
     - ca-certificates =2021.10.8 =h033912b_0
     - certifi =2021.10.8 =py37hf985489_1
     - cffi =1.15.0 =py37h446072c_0
-    - chardet =4.0.0 =py37hf985489_2
-    - charset-normalizer =2.0.0 =pyhd8ed1ab_0
+    - charset-normalizer =2.0.7 =pyhd8ed1ab_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - cryptography =36.0.0 =py37h5e77fcc_0
