@@ -30,7 +30,7 @@ requirements:
     - numpy =1.21.4 =py39h6635163_0
     - pandas =1.3.4 =py39h2e25243_1
     - pydantic =1.8.2 =py39hb82d6ee_2
-    - scipy =1.7.2 =py39hc0c34ad_0
+    - scipy =1.7.3 =py39hc0c34ad_0
     - semi-ate =0.1.29 =pyhd8ed1ab_0
     - spyder =5.1.5 =py39hcbf5309_1
     - spyder-remote-client =0.0.25 =pyhd8ed1ab_0
@@ -62,7 +62,7 @@ requirements:
     - certifi =2021.10.8 =py39hcbf5309_1
     - cffi =1.15.0 =py39h0878f49_0
     - chardet =4.0.0 =py39hcbf5309_2
-    - charset-normalizer =2.0.7 =pyhd8ed1ab_0
+    - charset-normalizer =2.0.8 =pyhd8ed1ab_0
     - click =8.0.3 =py39hcbf5309_1
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
@@ -105,7 +105,7 @@ requirements:
     - jupyter_client =6.1.12 =pyhd8ed1ab_0
     - jupyter_core =4.9.1 =py39hcbf5309_1
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
-    - keyring =23.2.1 =py39hcbf5309_1
+    - keyring =23.3.0 =py39hcbf5309_0
     - kiwisolver =1.3.2 =py39h2e07f2f_1
     - lazy-object-proxy =1.6.0 =py39hb82d6ee_1
     - lcms2 =2.12 =h2a16943_0
