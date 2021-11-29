@@ -24,7 +24,9 @@ requirements:
   run:
     - python =3.7.12 =hb7a2778_100_cpython
 
-    # 29 primary packages :
+    # 35 primary packages :
+    - aiohttp =3.8.1 =py37h5e8e339_0
+    - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.10.0 =pyha770c72_0
     - bitarray =2.3.4 =py37h5e8e339_2
     - cython =0.29.24 =py37hcd2ae1e_1
@@ -36,8 +38,10 @@ requirements:
     - numba =0.53.1 =py37hb11d6e1_1
     - numpy =1.21.4 =py37h31617e3_0
     - openpyxl =3.0.9 =pyhd8ed1ab_0
+    - paho-mqtt =1.5.1 =pyhd3deb0d_0
     - pandas =1.3.4 =py37he8f5f7f_1
     - psutil =5.8.0 =py37h5e8e339_2
+    - pydantic =1.8.2 =py37h5e8e339_2
     - pyqt =5.12.3 =py37h89c1867_8
     - pytest =6.2.5 =py37h89c1867_1
     - pyyaml =6.0 =py37h5e8e339_3
@@ -54,16 +58,21 @@ requirements:
     - sqlite =3.37.0 =h9cd32fc_0
     - sympy =1.9 =py37h89c1867_1
     - tqdm =4.62.3 =pyhd8ed1ab_0
+    - transitions =0.8.10 =pyhd8ed1ab_0
+    - xmltodict =0.12.0 =py_0
 
-    # 426 secondary packages :
+    # 433 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - _r-mutex =1.0.1 =anacondar_1
+    - aiosignal =1.2.0 =pyhd8ed1ab_0
     - alabaster =0.7.12 =py_0
     - alsa-lib =1.2.3 =h516909a_0
     - argcomplete =1.12.3 =pyhd8ed1ab_2
     - argon2-cffi =21.1.0 =py37h5e8e339_2
+    - async-timeout =4.0.1 =pyhd8ed1ab_0
     - async_generator =1.10 =py_0
+    - asynctest =0.13.0 =py_0
     - attrs =21.2.0 =pyhd8ed1ab_0
     - babel =2.9.1 =pyh44b312d_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -107,6 +116,7 @@ requirements:
     - fonttools =4.28.2 =py37h5e8e339_0
     - freetype =2.10.4 =h0708190_1
     - fribidi =1.0.10 =h36c2ea0_0
+    - frozenlist =1.2.0 =py37h5e8e339_1
     - gcc_impl_linux-64 =9.4.0 =h03d3576_11
     - gcc_linux-64 =9.4.0 =h391b98a_1
     - gettext =0.19.8.1 =h73d1719_1008
@@ -200,6 +210,7 @@ requirements:
     - mpc =1.2.1 =h9f54685_0
     - mpfr =4.1.0 =h9202a9a_1
     - mpmath =1.2.1 =pyhd8ed1ab_0
+    - multidict =5.2.0 =py37h5e8e339_1
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mysql-common =8.0.27 =ha770c72_1
     - mysql-libs =8.0.27 =hfa10184_1
@@ -457,6 +468,7 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.1 =py37h5e8e339_2
     - traitlets =5.1.1 =pyhd8ed1ab_0
+    - typing-extensions =4.0.0 =hd8ed1ab_0
     - typing_extensions =4.0.0 =pyha770c72_0
     - unicodedata2 =13.0.0.post2 =py37h5e8e339_4
     - urllib3 =1.26.7 =pyhd8ed1ab_0
@@ -478,6 +490,7 @@ requirements:
     - xorg-xproto =7.0.31 =h7f98852_1007
     - xz =5.2.5 =h516909a_1
     - yaml =0.2.5 =h516909a_0
+    - yarl =1.7.2 =py37h5e8e339_1
     - zeromq =4.3.4 =h9c3ff4c_1
     - zipp =3.6.0 =pyhd8ed1ab_0
     - zlib =1.2.11 =h36c2ea0_1013
