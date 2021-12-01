@@ -60,7 +60,7 @@ requirements:
     - dbus =1.13.6 =h48d8840_2
     - debugpy =1.5.1 =py37hcd2ae1e_0
     - decorator =5.1.0 =pyhd8ed1ab_0
-    - entrypoints =0.3 =py37hc8dfbb8_1002
+    - entrypoints =0.3 =pyhd8ed1ab_1003
     - expat =2.4.1 =h9c3ff4c_0
     - fontconfig =2.13.1 =hba837de_1005
     - fonttools =4.28.2 =py37h5e8e339_0
@@ -80,7 +80,7 @@ requirements:
     - icu =68.2 =h9c3ff4c_0
     - importlib-metadata =4.8.2 =py37h89c1867_0
     - importlib_metadata =4.8.2 =hd8ed1ab_0
-    - ipykernel =6.5.0 =py37h6531663_1
+    - ipykernel =6.5.1 =py37h6531663_0
     - ipython =7.30.0 =py37h89c1867_0
     - jbig =2.1 =h7f98852_2003
     - jedi =0.18.1 =py37h89c1867_0
@@ -154,8 +154,8 @@ requirements:
     - parso =0.8.2 =pyhd8ed1ab_0
     - patsy =0.5.2 =pyhd8ed1ab_0
     - pcre =8.45 =h9c3ff4c_0
-    - pexpect =4.8.0 =py37hc8dfbb8_1
-    - pickleshare =0.7.5 =py37hc8dfbb8_1002
+    - pexpect =4.8.0 =pyh9f0ad1d_2
+    - pickleshare =0.7.5 =py_1003
     - pillow =8.4.0 =py37h0f21c89_0
     - pip =21.3.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h36c2ea0_0

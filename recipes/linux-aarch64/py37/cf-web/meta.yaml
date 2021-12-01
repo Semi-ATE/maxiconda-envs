@@ -55,14 +55,14 @@ requirements:
     - cryptography =36.0.0 =py37hf0c668e_0
     - debugpy =1.5.1 =py37had24c86_0
     - decorator =5.1.0 =pyhd8ed1ab_0
-    - entrypoints =0.3 =py37hc8dfbb8_1002
+    - entrypoints =0.3 =pyhd8ed1ab_1003
     - greenlet =1.1.2 =py37had24c86_1
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - idna =3.1 =pyhd3deb0d_0
     - importlib-metadata =4.8.2 =py37hd9ded2f_0
     - importlib_metadata =4.8.2 =hd8ed1ab_0
     - incremental =21.3.0 =pyhd8ed1ab_0
-    - ipykernel =6.5.0 =py37heac6637_1
+    - ipykernel =6.5.1 =py37heac6637_0
     - ipython =7.30.0 =py37hfd236b0_0
     - jedi =0.18.1 =py37hd9ded2f_0
     - jupyter_client =7.1.0 =pyhd8ed1ab_0
@@ -81,8 +81,8 @@ requirements:
     - nest-asyncio =1.5.1 =pyhd8ed1ab_0
     - openssl =1.1.1l =hf897c2e_0
     - parso =0.8.2 =pyhd8ed1ab_0
-    - pexpect =4.8.0 =py37hc8dfbb8_1
-    - pickleshare =0.7.5 =py37hc8dfbb8_1002
+    - pexpect =4.8.0 =pyh9f0ad1d_2
+    - pickleshare =0.7.5 =py_1003
     - pip =21.3.1 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.22 =pyha770c72_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0
