@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.3.4 =py39hb82d6ee_2
     - cython =0.29.24 =py39h415ef7b_1
     - grayskull =0.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.29.3 =pyhd8ed1ab_0
+    - hypothesis =6.30.0 =pyhd8ed1ab_0
     - ipython =7.30.1 =py39hcbf5309_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - matplotlib =3.5.0 =py39hcbf5309_0
@@ -47,7 +47,7 @@ requirements:
     - pyyaml =6.0 =py39hb82d6ee_3
     - qdarkstyle =3.0.3 =pyhd8ed1ab_0
     - qtawesome =1.1.1 =pyhd8ed1ab_0
-    - r-base =4.1.1 =hddad469_1
+    - r-base =4.1.1 =hddad469_2
     - r-essentials =4.1 =r41hd8ed1ab_2002
     - regex =2021.11.10 =py39hb82d6ee_0
     - requests =2.26.0 =pyhd8ed1ab_1
@@ -93,7 +93,7 @@ requirements:
     - docutils =0.17.1 =py39hcbf5309_1
     - entrypoints =0.3 =pyhd8ed1ab_1003
     - et_xmlfile =1.0.1 =py_1001
-    - fonttools =4.28.2 =py39hb82d6ee_0
+    - fonttools =4.28.3 =py39hb82d6ee_0
     - freetype =2.10.4 =h546665d_1
     - frozenlist =1.2.0 =py39hb82d6ee_1
     - git =2.34.1 =h57928b3_0
@@ -105,7 +105,7 @@ requirements:
     - importlib_resources =5.4.0 =pyhd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
     - intel-openmp =2021.4.0 =h57928b3_3556
-    - ipykernel =6.5.1 =py39h832f523_0
+    - ipykernel =6.6.0 =py39h832f523_0
     - ipython_genutils =0.2.0 =py_1
     - jbig =2.1 =h8d14728_2003
     - jedi =0.18.1 =py39hcbf5309_0
@@ -211,7 +211,7 @@ requirements:
     - pywinpty =1.1.6 =py39h99910a6_0
     - pyzmq =22.3.0 =py39he46f08e_1
     - qt =5.12.9 =h5909a2a_4
-    - qtpy =1.11.2 =pyhd8ed1ab_0
+    - qtpy =1.11.3 =pyhd8ed1ab_0
     - r-askpass =1.1 =r41h6d2157b_2
     - r-assertthat =0.2.1 =r41hc72bb7e_2
     - r-backports =1.4.0 =r41h6d2157b_0
@@ -361,7 +361,7 @@ requirements:
     - r-sourcetools =0.1.7 =r41hfa435f1_1002
     - r-spatial =7.3_14 =r41h6d2157b_0
     - r-squarem =2021.1 =r41hc72bb7e_0
-    - r-stringi =1.7.6 =r41ha856d6a_0
+    - r-stringi =1.7.6 =r41ha856d6a_1
     - r-stringr =1.4.0 =r41hc72bb7e_2
     - r-survival =3.2_13 =r41h6d2157b_0
     - r-sys =3.4 =r41h6d2157b_0
@@ -399,7 +399,7 @@ requirements:
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
-    - soupsieve =2.3 =pyhd8ed1ab_0
+    - soupsieve =2.3.1 =pyhd8ed1ab_0
     - sphinx =4.3.1 =pyh6c4a22f_0
     - sphinxcontrib-applehelp =1.0.2 =py_0
     - sphinxcontrib-devhelp =1.0.2 =py_0

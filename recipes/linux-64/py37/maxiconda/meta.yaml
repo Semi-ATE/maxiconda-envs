@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.3.4 =py37h5e8e339_2
     - cython =0.29.24 =py37hcd2ae1e_1
     - grayskull =0.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.29.3 =pyhd8ed1ab_0
+    - hypothesis =6.30.0 =pyhd8ed1ab_0
     - ipython =7.30.1 =py37h89c1867_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - matplotlib =3.5.0 =py37h89c1867_0
@@ -113,7 +113,7 @@ requirements:
     - fontconfig =2.13.1 =hba837de_1005
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.28.2 =py37h5e8e339_0
+    - fonttools =4.28.3 =py37h5e8e339_0
     - freetype =2.10.4 =h0708190_1
     - fribidi =1.0.10 =h36c2ea0_0
     - frozenlist =1.2.0 =py37h5e8e339_1
@@ -142,7 +142,7 @@ requirements:
     - importlib_metadata =4.8.2 =hd8ed1ab_0
     - importlib_resources =5.4.0 =pyhd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
-    - ipykernel =6.5.1 =py37h6531663_0
+    - ipykernel =6.6.0 =py37h6531663_0
     - ipython_genutils =0.2.0 =py_1
     - jbig =2.1 =h7f98852_2003
     - jedi =0.18.1 =py37h89c1867_0
@@ -261,7 +261,7 @@ requirements:
     - pytz =2021.3 =pyhd8ed1ab_0
     - pyzmq =22.3.0 =py37h336d617_1
     - qt =5.12.9 =hda022c4_4
-    - qtpy =1.11.2 =pyhd8ed1ab_0
+    - qtpy =1.11.3 =pyhd8ed1ab_0
     - r-askpass =1.1 =r41hcfec24a_2
     - r-assertthat =0.2.1 =r41hc72bb7e_2
     - r-backports =1.4.0 =r41hcfec24a_0
@@ -451,7 +451,7 @@ requirements:
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
-    - soupsieve =2.3 =pyhd8ed1ab_0
+    - soupsieve =2.3.1 =pyhd8ed1ab_0
     - sphinx =4.3.1 =pyh6c4a22f_0
     - sphinxcontrib-applehelp =1.0.2 =py_0
     - sphinxcontrib-devhelp =1.0.2 =py_0
