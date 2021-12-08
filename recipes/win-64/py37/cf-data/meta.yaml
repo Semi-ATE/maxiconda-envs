@@ -65,7 +65,7 @@ requirements:
     - brotlipy =0.7.0 =py37hcc03f2d_1003
     - ca-certificates =2021.10.8 =h5b45459_0
     - cairo =1.16.0 =hb19e0ff_1008
-    - catalogue =2.0.6 =py37h03978a9_0
+    - catalogue =2.0.6 =py37h03978a9_1
     - catboost =1.0.3 =py37h03978a9_1
     - certifi =2021.10.8 =py37h03978a9_1
     - cffi =1.15.0 =py37hd8e9650_0
@@ -90,7 +90,7 @@ requirements:
     - debugpy =1.5.1 =py37hf2a7229_0
     - decorator =5.1.0 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
-    - docker-py =5.0.3 =py37h03978a9_1
+    - docker-py =5.0.3 =py37h03978a9_2
     - docker-pycreds =0.4.0 =py_0
     - entrypoints =0.3 =pyhd8ed1ab_1003
     - expat =2.4.1 =h39d44d4_0
@@ -144,7 +144,7 @@ requirements:
     - jmespath =0.10.0 =pyh9f0ad1d_0
     - joblib =1.1.0 =pyhd8ed1ab_0
     - jpeg =9d =h8ffe710_0
-    - jsonschema =4.2.1 =pyhd8ed1ab_0
+    - jsonschema =4.2.1 =pyhd8ed1ab_1
     - jupyter_client =7.1.0 =pyhd8ed1ab_0
     - jupyter_core =4.9.1 =py37h03978a9_1
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
@@ -163,7 +163,7 @@ requirements:
     - libdeflate =1.8 =h8ffe710_0
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h8bb91b0_0
-    - libglib =2.70.1 =h3be07f2_0
+    - libglib =2.70.2 =h3be07f2_0
     - libiconv =1.16 =he774522_0
     - liblapack =3.9.0 =8_mkl
     - libpng =1.6.37 =h1d00b33_2
@@ -282,7 +282,7 @@ requirements:
     - spacy-legacy =3.0.8 =pyhd8ed1ab_0
     - spacy-loggers =1.0.1 =pyhd8ed1ab_0
     - sqlparse =0.4.2 =pyhd8ed1ab_0
-    - srsly =2.4.2 =py37hf2a7229_0
+    - srsly =2.4.2 =py37hf2a7229_1
     - tabulate =0.8.9 =pyhd8ed1ab_0
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2020.2 =h2d74725_4
@@ -310,10 +310,10 @@ requirements:
     - vs2015_runtime =14.29.30037 =h902a5da_5
     - w3lib =1.22.0 =pyh9f0ad1d_0
     - waitress =2.0.0 =pyhd8ed1ab_0
-    - wasabi =0.8.2 =pyh44b312d_0
+    - wasabi =0.9.0 =pyhd8ed1ab_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - webencodings =0.5.1 =py_1
-    - websocket-client =1.2.1 =py37h03978a9_0
+    - websocket-client =1.2.2 =pyhd8ed1ab_0
     - werkzeug =2.0.1 =pyhd8ed1ab_0
     - wheel =0.37.0 =pyhd8ed1ab_1
     - widgetsnbextension =3.5.2 =py37h03978a9_1

@@ -68,7 +68,7 @@ requirements:
     - brotlipy =0.7.0 =py37h271585c_1003
     - ca-certificates =2021.10.8 =h033912b_0
     - cairo =1.16.0 =he43a7df_1008
-    - catalogue =2.0.6 =py37hf985489_0
+    - catalogue =2.0.6 =py37hf985489_1
     - catboost =1.0.3 =py37hf985489_1
     - certifi =2021.10.8 =py37hf985489_1
     - cffi =1.15.0 =py37h446072c_0
@@ -93,7 +93,7 @@ requirements:
     - debugpy =1.5.1 =py37hd8d24ac_0
     - decorator =5.1.0 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
-    - docker-py =5.0.3 =py37hf985489_1
+    - docker-py =5.0.3 =py37hf985489_2
     - docker-pycreds =0.4.0 =py_0
     - entrypoints =0.3 =pyhd8ed1ab_1003
     - expat =2.4.1 =he49afe7_0
@@ -149,7 +149,7 @@ requirements:
     - jmespath =0.10.0 =pyh9f0ad1d_0
     - joblib =1.1.0 =pyhd8ed1ab_0
     - jpeg =9d =hbcb3906_0
-    - jsonschema =4.2.1 =pyhd8ed1ab_0
+    - jsonschema =4.2.1 =pyhd8ed1ab_1
     - jupyter_client =7.1.0 =pyhd8ed1ab_0
     - jupyter_core =4.9.1 =py37hf985489_1
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
@@ -170,7 +170,7 @@ requirements:
     - libgd =2.3.3 =h311d3fc_0
     - libgfortran =5.0.0 =9_3_0_h6c81a4c_23
     - libgfortran5 =9.3.0 =h6c81a4c_23
-    - libglib =2.70.1 =hf1fb8c0_0
+    - libglib =2.70.2 =hf1fb8c0_0
     - libiconv =1.16 =haf1e3a3_0
     - liblapack =3.9.0 =12_osx64_mkl
     - libllvm10 =10.0.1 =h009f743_3
@@ -283,7 +283,7 @@ requirements:
     - spacy-legacy =3.0.8 =pyhd8ed1ab_0
     - spacy-loggers =1.0.1 =pyhd8ed1ab_0
     - sqlparse =0.4.2 =pyhd8ed1ab_0
-    - srsly =2.4.2 =py37hd8d24ac_0
+    - srsly =2.4.2 =py37hd8d24ac_1
     - tabulate =0.8.9 =pyhd8ed1ab_0
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.4.0 =h940c156_1
@@ -306,10 +306,10 @@ requirements:
     - urllib3 =1.26.7 =pyhd8ed1ab_0
     - visions =0.7.1 =pyhd8ed1ab_0
     - w3lib =1.22.0 =pyh9f0ad1d_0
-    - wasabi =0.8.2 =pyh44b312d_0
+    - wasabi =0.9.0 =pyhd8ed1ab_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - webencodings =0.5.1 =py_1
-    - websocket-client =1.2.1 =py37hf985489_0
+    - websocket-client =1.2.2 =pyhd8ed1ab_0
     - werkzeug =2.0.1 =pyhd8ed1ab_0
     - wheel =0.37.0 =pyhd8ed1ab_1
     - widgetsnbextension =3.5.2 =py37hf985489_1
