@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.3.4 =py39h3811e60_2
     - cython =0.29.25 =py39he80948d_0
     - grayskull =0.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.30.1 =pyhd8ed1ab_0
+    - hypothesis =6.31.0 =pyhd8ed1ab_0
     - ipython =7.30.1 =py39hf3d152e_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - matplotlib =3.5.0 =py39hf3d152e_0
@@ -54,7 +54,7 @@ requirements:
     - rust =1.57.0 =h61edd41_0
     - scipy =1.7.3 =py39hee8e79c_0
     - spyder-kernels =2.2.0 =py39hf3d152e_0
-    - sqlalchemy =1.4.27 =py39h3811e60_0
+    - sqlalchemy =1.4.28 =py39h3811e60_0
     - sqlite =3.37.0 =h9cd32fc_0
     - sympy =1.9 =py39hf3d152e_1
     - tqdm =4.62.3 =pyhd8ed1ab_0
@@ -237,7 +237,7 @@ requirements:
     - pluggy =1.0.0 =py39hf3d152e_2
     - progressbar2 =3.53.1 =pyh9f0ad1d_0
     - prometheus_client =0.12.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.23 =pyha770c72_0
+    - prompt-toolkit =3.0.24 =pyha770c72_0
     - pthread-stubs =0.4 =h36c2ea0_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - py =1.11.0 =pyh6c4a22f_0
@@ -303,7 +303,7 @@ requirements:
     - r-foreach =1.5.1 =r41hc72bb7e_0
     - r-foreign =0.8_81 =r41hcfec24a_0
     - r-formatr =1.11 =r41hc72bb7e_0
-    - r-fs =1.5.1 =r41h03ef668_0
+    - r-fs =1.5.2 =r41h03ef668_0
     - r-future =1.23.0 =r41hc72bb7e_0
     - r-future.apply =1.8.1 =r41hc72bb7e_0
     - r-gargle =1.2.0 =r41hc72bb7e_0
