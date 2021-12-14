@@ -34,12 +34,12 @@ requirements:
     - hypothesis =6.31.4 =pyhd8ed1ab_0
     - ipython =7.30.1 =py39hcbf5309_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
-    - matplotlib =3.5.0 =py39hcbf5309_0
+    - matplotlib =3.5.1 =py39hcbf5309_0
     - numba =0.53.1 =py39hb8cd55e_1
     - numpy =1.21.4 =py39h6635163_0
     - openpyxl =3.0.9 =pyhd8ed1ab_0
     - paho-mqtt =1.5.1 =pyhd3deb0d_0
-    - pandas =1.3.4 =py39h2e25243_1
+    - pandas =1.3.5 =py39h2e25243_0
     - psutil =5.8.0 =py39hb82d6ee_2
     - pydantic =1.8.2 =py39hb82d6ee_2
     - pyqt =5.12.3 =py39hcbf5309_8
@@ -164,7 +164,7 @@ requirements:
     - m2w64-xz =5.2.2 =2
     - m2w64-zlib =1.2.8 =10
     - markupsafe =2.0.1 =py39hb82d6ee_1
-    - matplotlib-base =3.5.0 =py39h581301d_0
+    - matplotlib-base =3.5.1 =py39h581301d_0
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mistune =0.8.4 =py39hb82d6ee_1005
     - mkl =2020.4 =hb70f87d_311
@@ -214,7 +214,7 @@ requirements:
     - qtpy =1.11.3 =pyhd8ed1ab_0
     - r-askpass =1.1 =r41h6d2157b_2
     - r-assertthat =0.2.1 =r41hc72bb7e_2
-    - r-backports =1.4.0 =r41h6d2157b_0
+    - r-backports =1.4.1 =r41h6d2157b_0
     - r-base64enc =0.1_3 =r41h6d2157b_1004
     - r-bit =4.0.4 =r41h6d2157b_0
     - r-bit64 =4.0.5 =r41h6d2157b_0

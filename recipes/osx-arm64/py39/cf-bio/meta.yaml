@@ -26,9 +26,9 @@ requirements:
 
     # 7 primary packages :
     - biopython =1.79 =py39h5161555_1
-    - matplotlib =3.5.0 =py39hdf13c20_0
+    - matplotlib =3.5.1 =py39hdf13c20_0
     - numpy =1.21.4 =py39h1f3b974_0
-    - pandas =1.3.4 =py39h7f752ed_1
+    - pandas =1.3.5 =py39h7f752ed_0
     - rdkit =2021.09.2 =py39h29b70d0_0
     - scipy =1.7.3 =py39h5060c3b_0
     - spyder-kernels =2.2.0 =py39h2804cbe_0
@@ -95,7 +95,7 @@ requirements:
     - libzlib =1.2.11 =hee7b306_1013
     - llvm-openmp =12.0.1 =hf3c4609_1
     - lz4-c =1.9.3 =hbdafb3b_1
-    - matplotlib-base =3.5.0 =py39h5aa4fe7_0
+    - matplotlib-base =3.5.1 =py39h5aa4fe7_0
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - ncurses =6.2 =h9aa5885_4
