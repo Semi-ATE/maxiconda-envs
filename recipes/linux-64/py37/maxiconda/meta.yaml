@@ -70,7 +70,7 @@ requirements:
     - alsa-lib =1.2.3 =h516909a_0
     - argcomplete =1.12.3 =pyhd8ed1ab_2
     - argon2-cffi =21.1.0 =py37h5e8e339_2
-    - async-timeout =4.0.1 =pyhd8ed1ab_0
+    - async-timeout =4.0.2 =pyhd8ed1ab_0
     - async_generator =1.10 =py_0
     - asynctest =0.13.0 =py_0
     - attrs =21.2.0 =pyhd8ed1ab_0
@@ -105,7 +105,7 @@ requirements:
     - docutils =0.17.1 =py37h89c1867_1
     - entrypoints =0.3 =pyhd8ed1ab_1003
     - et_xmlfile =1.0.1 =py_1001
-    - expat =2.4.1 =h9c3ff4c_0
+    - expat =2.4.2 =h9c3ff4c_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -138,8 +138,8 @@ requirements:
     - icu =68.2 =h9c3ff4c_0
     - idna =3.1 =pyhd3deb0d_0
     - imagesize =1.3.0 =pyhd8ed1ab_0
-    - importlib-metadata =4.9.0 =py37h89c1867_0
-    - importlib_metadata =4.9.0 =hd8ed1ab_0
+    - importlib-metadata =4.10.0 =py37h89c1867_0
+    - importlib_metadata =4.10.0 =hd8ed1ab_0
     - importlib_resources =5.4.0 =pyhd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
     - ipykernel =6.6.0 =py37h6531663_0
@@ -147,7 +147,7 @@ requirements:
     - jbig =2.1 =h7f98852_2003
     - jedi =0.18.1 =py37h89c1867_0
     - jpeg =9d =h36c2ea0_0
-    - jsonschema =4.3.1 =pyhd8ed1ab_0
+    - jsonschema =4.3.2 =pyhd8ed1ab_0
     - jupyter_client =7.1.0 =pyhd8ed1ab_0
     - jupyter_core =4.9.1 =py37h89c1867_1
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
@@ -289,7 +289,7 @@ requirements:
     - r-crul =1.2.0 =r41h785f33e_0
     - r-curl =4.3.2 =r41hcfec24a_0
     - r-data.table =1.14.2 =r41hcfec24a_0
-    - r-dbi =1.1.1 =r41hc72bb7e_0
+    - r-dbi =1.1.2 =r41hc72bb7e_0
     - r-dbplyr =2.1.1 =r41hc72bb7e_0
     - r-desc =1.4.0 =r41hc72bb7e_0
     - r-diffobj =0.3.5 =r41hcfec24a_0
@@ -447,7 +447,7 @@ requirements:
     - rust-std-x86_64-unknown-linux-gnu =1.57.0 =hc1431ca_0
     - sed =4.8 =he412f7d_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =59.6.0 =py37h89c1867_0
+    - setuptools =59.7.0 =py37h89c1867_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
@@ -470,7 +470,7 @@ requirements:
     - traitlets =5.1.1 =pyhd8ed1ab_0
     - typing-extensions =4.0.1 =hd8ed1ab_0
     - typing_extensions =4.0.1 =pyha770c72_0
-    - unicodedata2 =13.0.0.post2 =py37h5e8e339_4
+    - unicodedata2 =14.0.0 =py37h5e8e339_0
     - urllib3 =1.26.7 =pyhd8ed1ab_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - webencodings =0.5.1 =py_1

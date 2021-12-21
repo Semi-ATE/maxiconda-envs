@@ -92,7 +92,7 @@ requirements:
     - docker-py =5.0.3 =py38haa244fe_2
     - docker-pycreds =0.4.0 =py_0
     - entrypoints =0.3 =pyhd8ed1ab_1003
-    - expat =2.4.1 =h39d44d4_0
+    - expat =2.4.2 =h39d44d4_0
     - flask =2.0.2 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -125,7 +125,7 @@ requirements:
     - idna =3.1 =pyhd3deb0d_0
     - imagehash =4.2.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.8.1 =pyhd8ed1ab_0
-    - importlib-metadata =4.9.0 =py38haa244fe_0
+    - importlib-metadata =4.10.0 =py38haa244fe_0
     - importlib_resources =5.4.0 =pyhd8ed1ab_0
     - incremental =21.3.0 =pyhd8ed1ab_0
     - intel-openmp =2021.4.0 =h57928b3_3556
@@ -142,7 +142,7 @@ requirements:
     - jmespath =0.10.0 =pyh9f0ad1d_0
     - joblib =1.1.0 =pyhd8ed1ab_0
     - jpeg =9d =h8ffe710_0
-    - jsonschema =4.3.1 =pyhd8ed1ab_0
+    - jsonschema =4.3.2 =pyhd8ed1ab_0
     - jupyter_client =7.1.0 =pyhd8ed1ab_0
     - jupyter_core =4.9.1 =py38haa244fe_1
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
@@ -270,7 +270,7 @@ requirements:
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - service_identity =18.1.0 =py_0
-    - setuptools =59.6.0 =py38haa244fe_0
+    - setuptools =59.7.0 =py38haa244fe_0
     - shellingham =1.4.0 =pyh44b312d_0
     - six =1.16.0 =pyh6c4a22f_0
     - smart_open =5.2.1 =pyhd8ed1ab_0
@@ -301,7 +301,7 @@ requirements:
     - typing_extensions =4.0.1 =pyha770c72_0
     - ucrt =10.0.20348.0 =h57928b3_0
     - umap-learn =0.5.2 =py38haa244fe_0
-    - unicodedata2 =13.0.0.post2 =py38h294d835_4
+    - unicodedata2 =14.0.0 =py38h294d835_0
     - urllib3 =1.26.7 =pyhd8ed1ab_0
     - vc =14.2 =hb210afc_5
     - visions =0.7.1 =pyhd8ed1ab_0

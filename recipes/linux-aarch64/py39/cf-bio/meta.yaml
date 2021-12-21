@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.7 =h47f6e27_4_cpython
+    - python =3.9.9 =h2265c99_0_cpython
   run:
-    - python =3.9.7 =h47f6e27_4_cpython
+    - python =3.9.9 =h2265c99_0_cpython
 
     # 7 primary packages :
     - biopython =1.79 =py39h14843e3_1
@@ -128,7 +128,7 @@ requirements:
     - pyzmq =22.3.0 =py39h3674c48_1
     - readline =8.1 =h1a49cc3_0
     - reportlab =3.5.68 =py39hef7aae6_1
-    - setuptools =59.6.0 =py39ha65689a_0
+    - setuptools =59.7.0 =py39ha65689a_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.28 =py39h14843e3_0
     - sqlite =3.37.0 =hc164836_0

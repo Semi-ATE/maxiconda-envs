@@ -68,8 +68,8 @@ requirements:
     - hdf4 =4.2.15 =h0e5069d_3
     - hdf5 =1.10.6 =nompi_h5268f04_1114
     - icu =68.2 =h0e60522_0
-    - importlib-metadata =4.9.0 =py37h03978a9_0
-    - importlib_metadata =4.9.0 =hd8ed1ab_0
+    - importlib-metadata =4.10.0 =py37h03978a9_0
+    - importlib_metadata =4.10.0 =hd8ed1ab_0
     - intel-openmp =2021.4.0 =h57928b3_3556
     - ipykernel =6.6.0 =py37h4038f58_0
     - ipython =7.30.1 =py37h03978a9_0
@@ -149,7 +149,7 @@ requirements:
     - scikit-learn =1.0.1 =py37hcabfae0_3
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
-    - setuptools =59.6.0 =py37h03978a9_0
+    - setuptools =59.7.0 =py37h03978a9_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.28 =py37hcc03f2d_0
     - sqlite =3.37.0 =h8ffe710_0
@@ -162,7 +162,7 @@ requirements:
     - traitlets =5.1.1 =pyhd8ed1ab_0
     - typing_extensions =4.0.1 =pyha770c72_0
     - ucrt =10.0.20348.0 =h57928b3_0
-    - unicodedata2 =13.0.0.post2 =py37hcc03f2d_4
+    - unicodedata2 =14.0.0 =py37hcc03f2d_0
     - vc =14.2 =hb210afc_5
     - vs2015_runtime =14.29.30037 =h902a5da_5
     - wcwidth =0.2.5 =pyh9f0ad1d_2
