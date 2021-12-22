@@ -27,7 +27,7 @@ requirements:
     # 7 primary packages :
     - biopython =1.79 =py39h14843e3_1
     - matplotlib =3.5.1 =py39ha65689a_0
-    - numpy =1.21.4 =py39hfe099e2_0
+    - numpy =1.21.5 =py39h13ff968_0
     - pandas =1.3.5 =py39h03da0bc_0
     - rdkit =2021.09.3 =py39h679a4f3_0
     - scipy =1.7.3 =py39h59f125f_0
@@ -128,7 +128,7 @@ requirements:
     - pyzmq =22.3.0 =py39h3674c48_1
     - readline =8.1 =h1a49cc3_0
     - reportlab =3.5.68 =py39hef7aae6_1
-    - setuptools =59.7.0 =py39ha65689a_0
+    - setuptools =60.0.3 =py39ha65689a_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.28 =py39h14843e3_0
     - sqlite =3.37.0 =hc164836_0

@@ -28,14 +28,14 @@ requirements:
     - biopython =1.79 =py37h5e8e339_1
     - matplotlib =3.5.1 =py37h89c1867_0
     - mdanalysis =2.0.0 =py37hcd2ae1e_1
-    - numpy =1.21.4 =py37h31617e3_0
+    - numpy =1.21.5 =py37hf2998dd_0
     - pandas =1.3.5 =py37he8f5f7f_0
     - pymol-open-source =2.5.0 =py37h84945d2_4
     - rdkit =2021.09.3 =py37h13c2175_0
     - scipy =1.7.3 =py37hf2a6cf1_0
     - spyder-kernels =2.2.0 =py37h89c1867_0
 
-    # 176 secondary packages :
+    # 174 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - alsa-lib =1.2.3 =h516909a_0
@@ -57,7 +57,7 @@ requirements:
     - colorama =0.4.4 =pyh9f0ad1d_0
     - curl =7.80.0 =h2574ce0_0
     - cycler =0.11.0 =pyhd8ed1ab_0
-    - dbus =1.13.6 =h48d8840_2
+    - dbus =1.13.6 =h5008d03_3
     - debugpy =1.5.1 =py37hcd2ae1e_0
     - decorator =5.1.0 =pyhd8ed1ab_0
     - entrypoints =0.3 =pyhd8ed1ab_1003
@@ -67,8 +67,6 @@ requirements:
     - freetype =2.10.4 =h0708190_1
     - gettext =0.19.8.1 =h73d1719_1008
     - glew =2.1.0 =h9c3ff4c_2
-    - glib =2.70.2 =h780b84a_0
-    - glib-tools =2.70.2 =h780b84a_0
     - glm =0.9.9.4 =hc9558a2_0
     - greenlet =1.1.2 =py37hcd2ae1e_1
     - griddataformats =0.6.0 =pyhd8ed1ab_0
@@ -181,7 +179,7 @@ requirements:
     - scikit-learn =1.0.1 =py37hf9e9bfc_3
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
-    - setuptools =59.7.0 =py37h89c1867_0
+    - setuptools =60.0.3 =py37h89c1867_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.28 =py37h5e8e339_0
     - sqlite =3.37.0 =h9cd32fc_0
