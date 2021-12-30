@@ -32,7 +32,7 @@ requirements:
     - pydantic =1.8.2 =py39h3811e60_2
     - scipy =1.7.3 =py39hee8e79c_0
     - semi-ate =0.1.29 =pyhd8ed1ab_0
-    - spyder =5.2.1 =py39hf3d152e_0
+    - spyder =5.2.1 =py39hf3d152e_1
     - spyder-remote-client =0.0.25 =pyhd8ed1ab_0
     - spyder-terminal =1.1.0 =py39hf3d152e_1
     - sympy =1.9 =py39hf3d152e_1
@@ -47,7 +47,7 @@ requirements:
     - astroid =2.9.0 =py39hf3d152e_0
     - async_generator =1.10 =py_0
     - atomicwrites =1.4.0 =pyh9f0ad1d_0
-    - attrs =21.2.0 =pyhd8ed1ab_0
+    - attrs =21.4.0 =pyhd8ed1ab_0
     - autopep8 =1.6.0 =pyhd8ed1ab_1
     - babel =2.9.1 =pyh44b312d_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -135,7 +135,7 @@ requirements:
     - libgcc-ng =11.2.0 =h1d223b6_11
     - libgfortran-ng =11.2.0 =h69a702a_11
     - libgfortran5 =11.2.0 =h5c6108e_11
-    - libglib =2.70.2 =h174f98d_0
+    - libglib =2.70.2 =h174f98d_1
     - libgomp =11.2.0 =h1d223b6_11
     - libiconv =1.16 =h516909a_0
     - liblapack =3.9.0 =12_linux64_openblas
@@ -236,7 +236,7 @@ requirements:
     - rope =0.22.0 =pyhd8ed1ab_0
     - rtree =0.9.7 =py39hb102c33_3
     - secretstorage =3.3.1 =py39hf3d152e_1
-    - setuptools =60.1.0 =py39hf3d152e_0
+    - setuptools =60.1.1 =py39hf3d152e_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
