@@ -34,10 +34,10 @@ requirements:
     - semi-ate =0.1.29 =pyhd8ed1ab_0
     - spyder =5.2.1 =py37h89c1867_1
     - spyder-remote-client =0.0.25 =pyhd8ed1ab_0
-    - spyder-terminal =1.1.0 =py37h89c1867_1
+    - spyder-terminal =1.2.0 =py37h89c1867_0
     - sympy =1.9 =py37h89c1867_1
 
-    # 245 secondary packages :
+    # 246 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - alabaster =0.7.12 =py_0
@@ -196,7 +196,7 @@ requirements:
     - pluggy =1.0.0 =py37h89c1867_2
     - poyo =0.5.0 =py_0
     - prompt-toolkit =3.0.24 =pyha770c72_0
-    - psutil =5.8.0 =py37h5e8e339_2
+    - psutil =5.9.0 =py37h5e8e339_0
     - pthread-stubs =0.4 =h36c2ea0_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pycodestyle =2.8.0 =pyhd8ed1ab_0
@@ -229,14 +229,15 @@ requirements:
     - qstylizer =0.2.1 =pyhd8ed1ab_0
     - qt =5.12.9 =hda022c4_4
     - qtawesome =1.1.1 =pyhd8ed1ab_0
-    - qtconsole =5.2.2 =pyhd8ed1ab_0
+    - qtconsole =5.2.2 =pyhd8ed1ab_1
+    - qtconsole-base =5.2.2 =pyhd8ed1ab_1
     - qtpy =2.0.0 =pyhd8ed1ab_0
     - readline =8.1 =h46c0cb4_0
     - requests =2.26.0 =pyhd8ed1ab_1
     - rope =0.22.0 =pyhd8ed1ab_0
     - rtree =0.9.7 =py37h0b55af0_3
     - secretstorage =3.3.1 =py37h89c1867_1
-    - setuptools =60.1.1 =py37h89c1867_0
+    - setuptools =60.2.0 =py37h89c1867_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
