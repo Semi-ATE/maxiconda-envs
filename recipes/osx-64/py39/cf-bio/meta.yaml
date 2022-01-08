@@ -51,10 +51,10 @@ requirements:
     - cftime =1.5.1.1 =py39hc89836e_1
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
-    - curl =7.80.0 =h97da3c1_1
+    - curl =7.81.0 =h97da3c1_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.5.1 =py39h9fcab8e_0
-    - decorator =5.1.0 =pyhd8ed1ab_0
+    - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.3 =pyhd8ed1ab_1003
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -89,7 +89,7 @@ requirements:
     - libbrotlidec =1.0.9 =h0d85af4_6
     - libbrotlienc =1.0.9 =h0d85af4_6
     - libcblas =3.9.0 =12_osx64_openblas
-    - libcurl =7.80.0 =h97da3c1_1
+    - libcurl =7.81.0 =h97da3c1_0
     - libcxx =12.0.1 =habf9029_1
     - libdeflate =1.8 =h0d85af4_0
     - libedit =3.1.20191231 =h0678c8f_2
@@ -137,7 +137,7 @@ requirements:
     - prompt-toolkit =3.0.24 =pyha770c72_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pycairo =1.20.1 =py39hbe14034_1
-    - pygments =2.11.1 =pyhd8ed1ab_0
+    - pygments =2.11.2 =pyhd8ed1ab_0
     - pyparsing =3.0.6 =pyhd8ed1ab_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =2_cp39
@@ -148,7 +148,7 @@ requirements:
     - scikit-learn =1.0.2 =py39hd4eea88_0
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
-    - setuptools =60.2.0 =py39h6e9494a_0
+    - setuptools =60.3.1 =py39h6e9494a_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.29 =py39h89e85a6_0
     - sqlite =3.37.0 =h23a322b_0

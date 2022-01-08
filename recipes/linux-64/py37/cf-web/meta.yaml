@@ -29,7 +29,7 @@ requirements:
     - django =4.0 =pyhd8ed1ab_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - pyyaml =6.0 =py37h5e8e339_3
-    - requests =2.27.0 =pyhd8ed1ab_0
+    - requests =2.27.1 =pyhd8ed1ab_0
     - spyder-kernels =2.2.0 =py37h89c1867_0
     - sqlalchemy =1.4.29 =py37h5e8e339_0
     - twisted =21.7.0 =py37h5e8e339_1
@@ -50,12 +50,12 @@ requirements:
     - ca-certificates =2021.10.8 =ha878542_0
     - certifi =2021.10.8 =py37h89c1867_1
     - cffi =1.15.0 =py37h036bc23_0
-    - charset-normalizer =2.0.9 =pyhd8ed1ab_0
+    - charset-normalizer =2.0.10 =pyhd8ed1ab_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - cryptography =36.0.1 =py37hf1a17b8_0
     - debugpy =1.5.1 =py37hcd2ae1e_0
-    - decorator =5.1.0 =pyhd8ed1ab_0
+    - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.3 =pyhd8ed1ab_1003
     - greenlet =1.1.2 =py37hcd2ae1e_1
     - hyperlink =21.0.0 =pyhd3deb0d_0
@@ -90,7 +90,7 @@ requirements:
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pygments =2.11.1 =pyhd8ed1ab_0
+    - pygments =2.11.2 =pyhd8ed1ab_0
     - pyopenssl =21.0.0 =pyhd8ed1ab_0
     - pysocks =1.7.1 =py37h89c1867_4
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
@@ -99,7 +99,7 @@ requirements:
     - pyzmq =22.3.0 =py37h336d617_1
     - readline =8.1 =h46c0cb4_0
     - service_identity =18.1.0 =py_0
-    - setuptools =60.2.0 =py37h89c1867_0
+    - setuptools =60.3.1 =py37h89c1867_0
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.3.1 =pyhd8ed1ab_0
     - sqlite =3.37.0 =h9cd32fc_0
@@ -109,7 +109,7 @@ requirements:
     - traitlets =5.1.1 =pyhd8ed1ab_0
     - typing-extensions =4.0.1 =hd8ed1ab_0
     - typing_extensions =4.0.1 =pyha770c72_0
-    - urllib3 =1.26.7 =pyhd8ed1ab_0
+    - urllib3 =1.26.8 =pyhd8ed1ab_1
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.37.1 =pyhd8ed1ab_0
     - wurlitzer =3.0.2 =py37h89c1867_1

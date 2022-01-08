@@ -43,14 +43,14 @@ requirements:
     - psutil =5.9.0 =py39h3811e60_0
     - pydantic =1.9.0 =py39h3811e60_0
     - pyqt =5.12.3 =py39hf3d152e_8
-    - pytest =6.2.5 =py39hf3d152e_1
+    - pytest =6.2.5 =py39hf3d152e_2
     - pyyaml =6.0 =py39h3811e60_3
     - qdarkstyle =3.0.3 =pyhd8ed1ab_0
     - qtawesome =1.1.1 =pyhd8ed1ab_0
     - r-base =4.1.1 =hb93adac_1
     - r-essentials =4.1 =r41hd8ed1ab_2002
     - regex =2021.11.10 =py39h3811e60_0
-    - requests =2.27.0 =pyhd8ed1ab_0
+    - requests =2.27.1 =pyhd8ed1ab_0
     - rust =1.57.0 =h61edd41_0
     - scipy =1.7.3 =py39hee8e79c_0
     - spyder-kernels =2.2.0 =py39hf3d152e_0
@@ -61,7 +61,7 @@ requirements:
     - transitions =0.8.10 =pyhd8ed1ab_0
     - xmltodict =0.12.0 =py_0
 
-    # 429 secondary packages :
+    # 428 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -78,7 +78,7 @@ requirements:
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - binutils_impl_linux-64 =2.36.1 =h193b22a_2
-    - binutils_linux-64 =2.36 =hf3e587d_3
+    - binutils_linux-64 =2.36 =hf3e587d_4
     - bleach =4.1.0 =pyhd8ed1ab_0
     - brotli =1.0.9 =h7f98852_6
     - brotli-bin =1.0.9 =h7f98852_6
@@ -90,16 +90,16 @@ requirements:
     - cairo =1.16.0 =h6cf1ce9_1008
     - certifi =2021.10.8 =py39hf3d152e_1
     - cffi =1.15.0 =py39h4bc2ebd_0
-    - charset-normalizer =2.0.9 =pyhd8ed1ab_0
+    - charset-normalizer =2.0.10 =pyhd8ed1ab_0
     - click =8.0.3 =py39hf3d152e_1
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
     - cryptography =36.0.1 =py39h95dcef6_0
-    - curl =7.80.0 =h2574ce0_0
+    - curl =7.81.0 =h2574ce0_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
     - debugpy =1.5.1 =py39he80948d_0
-    - decorator =5.1.0 =pyhd8ed1ab_0
+    - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - docutils =0.17.1 =py39hf3d152e_1
     - entrypoints =0.3 =pyhd8ed1ab_1003
@@ -118,10 +118,10 @@ requirements:
     - fribidi =1.0.10 =h36c2ea0_0
     - frozenlist =1.2.0 =py39h3811e60_1
     - gcc_impl_linux-64 =9.4.0 =h03d3576_11
-    - gcc_linux-64 =9.4.0 =h391b98a_3
+    - gcc_linux-64 =9.4.0 =h391b98a_4
     - gettext =0.19.8.1 =h73d1719_1008
     - gfortran_impl_linux-64 =9.4.0 =h0003116_11
-    - gfortran_linux-64 =9.4.0 =hf0ab688_3
+    - gfortran_linux-64 =9.4.0 =hf0ab688_4
     - git =2.34.1 =pl5321hc30692c_0
     - gmp =6.2.1 =h58526e2_0
     - gmpy2 =2.1.0rc1 =py39h78fa15d_0
@@ -131,7 +131,7 @@ requirements:
     - gst-plugins-base =1.18.5 =hf529b03_2
     - gstreamer =1.18.5 =h9f60fe5_2
     - gxx_impl_linux-64 =9.4.0 =h03d3576_11
-    - gxx_linux-64 =9.4.0 =h0316aca_3
+    - gxx_linux-64 =9.4.0 =h0316aca_4
     - harfbuzz =3.1.1 =h83ec7ef_0
     - icu =68.2 =h9c3ff4c_0
     - idna =3.1 =pyhd3deb0d_0
@@ -160,7 +160,7 @@ requirements:
     - libbrotlienc =1.0.9 =h7f98852_6
     - libcblas =3.9.0 =12_linux64_openblas
     - libclang =11.1.0 =default_ha53f305_1
-    - libcurl =7.80.0 =h2574ce0_0
+    - libcurl =7.81.0 =h2574ce0_0
     - libdeflate =1.8 =h7f98852_0
     - libedit =3.1.20191231 =he28a2e2_2
     - libev =4.33 =h516909a_1
@@ -203,7 +203,6 @@ requirements:
     - matplotlib-base =3.5.1 =py39h2fa2bec_0
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mistune =0.8.4 =py39h3811e60_1005
-    - more-itertools =8.12.0 =pyhd8ed1ab_0
     - mpc =1.2.1 =h9f54685_0
     - mpfr =4.1.0 =h9202a9a_1
     - mpmath =1.2.1 =pyhd8ed1ab_0
@@ -243,7 +242,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - py =1.11.0 =pyh6c4a22f_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pygments =2.11.1 =pyhd8ed1ab_0
+    - pygments =2.11.2 =pyhd8ed1ab_0
     - pyopenssl =21.0.0 =pyhd8ed1ab_0
     - pyparsing =3.0.6 =pyhd8ed1ab_0
     - pyqt-impl =5.12.3 =py39hde8b62d_8
@@ -404,7 +403,7 @@ requirements:
     - r-selectr =0.4_2 =r41hc72bb7e_1
     - r-shape =1.4.6 =r41ha770c72_0
     - r-shiny =1.7.1 =r41h785f33e_0
-    - r-sourcetools =0.1.7 =r41h9c3ff4c_1002
+    - r-sourcetools =0.1.7 =r41h03ef668_1002
     - r-spatial =7.3_14 =r41hcfec24a_0
     - r-squarem =2021.1 =r41hc72bb7e_0
     - r-stringi =1.7.6 =r41hcabe038_0
@@ -443,7 +442,7 @@ requirements:
     - rust-std-x86_64-unknown-linux-gnu =1.57.0 =hc1431ca_0
     - sed =4.8 =he412f7d_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =60.2.0 =py39hf3d152e_0
+    - setuptools =60.3.1 =py39hf3d152e_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
@@ -467,7 +466,7 @@ requirements:
     - typing-extensions =4.0.1 =hd8ed1ab_0
     - typing_extensions =4.0.1 =pyha770c72_0
     - tzdata =2021e =he74cb21_0
-    - urllib3 =1.26.7 =pyhd8ed1ab_0
+    - urllib3 =1.26.8 =pyhd8ed1ab_1
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - webencodings =0.5.1 =py_1
     - wheel =0.37.1 =pyhd8ed1ab_0

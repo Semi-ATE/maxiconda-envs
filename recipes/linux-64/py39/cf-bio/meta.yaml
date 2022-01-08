@@ -54,11 +54,11 @@ requirements:
     - cftime =1.5.1.1 =py39hce5d2b2_1
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
-    - curl =7.80.0 =h2574ce0_0
+    - curl =7.81.0 =h2574ce0_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
     - debugpy =1.5.1 =py39he80948d_0
-    - decorator =5.1.0 =pyhd8ed1ab_0
+    - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.3 =pyhd8ed1ab_1003
     - expat =2.4.2 =h9c3ff4c_0
     - fontconfig =2.13.1 =hba837de_1005
@@ -94,7 +94,7 @@ requirements:
     - libbrotlienc =1.0.9 =h7f98852_6
     - libcblas =3.9.0 =12_linux64_openblas
     - libclang =11.1.0 =default_ha53f305_1
-    - libcurl =7.80.0 =h2574ce0_0
+    - libcurl =7.81.0 =h2574ce0_0
     - libdeflate =1.8 =h7f98852_0
     - libedit =3.1.20191231 =he28a2e2_2
     - libev =4.33 =h516909a_1
@@ -159,7 +159,7 @@ requirements:
     - pthread-stubs =0.4 =h36c2ea0_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pycairo =1.20.1 =py39hedcb9fc_1
-    - pygments =2.11.1 =pyhd8ed1ab_0
+    - pygments =2.11.2 =pyhd8ed1ab_0
     - pyparsing =3.0.6 =pyhd8ed1ab_0
     - pyqt =5.12.3 =py39hf3d152e_8
     - pyqt-impl =5.12.3 =py39hde8b62d_8
@@ -176,7 +176,7 @@ requirements:
     - scikit-learn =1.0.2 =py39h4dfa638_0
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
-    - setuptools =60.2.0 =py39hf3d152e_0
+    - setuptools =60.3.1 =py39hf3d152e_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.29 =py39h3811e60_0
     - sqlite =3.37.0 =h9cd32fc_0
