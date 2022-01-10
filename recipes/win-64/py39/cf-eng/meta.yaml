@@ -74,7 +74,7 @@ requirements:
     - pyvisa =1.11.3 =py39hcbf5309_2
     - pywin32 =303 =py39hb82d6ee_0
     - pyzmq =22.3.0 =py39he46f08e_1
-    - setuptools =60.3.1 =py39hcbf5309_0
+    - setuptools =60.5.0 =py39hcbf5309_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlite =3.37.0 =h8ffe710_0
     - tbb =2021.5.0 =h2d74725_0
@@ -90,7 +90,7 @@ requirements:
     - wheel =0.37.1 =pyhd8ed1ab_0
     - xz =5.2.5 =h62dcd97_1
     - zeromq =4.3.4 =h0e60522_1
-    - zipp =3.6.0 =pyhd8ed1ab_0
+    - zipp =3.7.0 =pyhd8ed1ab_0
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

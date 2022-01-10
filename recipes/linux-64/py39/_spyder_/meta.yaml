@@ -87,9 +87,9 @@ requirements:
     - freetype =2.10.4 =h0708190_1
     - gettext =0.19.8.1 =h73d1719_1008
     - gmp =6.2.1 =h58526e2_0
-    - gmpy2 =2.1.0rc1 =py39h78fa15d_0
-    - gst-plugins-base =1.18.5 =hf529b03_2
-    - gstreamer =1.18.5 =h9f60fe5_2
+    - gmpy2 =2.1.2 =py39h78fa15d_0
+    - gst-plugins-base =1.18.5 =hf529b03_3
+    - gstreamer =1.18.5 =h9f60fe5_3
     - humanfriendly =10.0 =py39hf3d152e_1
     - icu =68.2 =h9c3ff4c_0
     - idna =3.1 =pyhd3deb0d_0
@@ -107,7 +107,7 @@ requirements:
     - jbig =2.1 =h7f98852_2003
     - jedi =0.18.1 =py39hf3d152e_0
     - jeepney =0.7.1 =pyhd8ed1ab_0
-    - jellyfish =0.8.9 =py39h3811e60_2
+    - jellyfish =0.9.0 =py39h3811e60_0
     - jinja2 =2.11.3 =pyh44b312d_0
     - jinja2-time =0.2.0 =py_2
     - jpeg =9d =h36c2ea0_0
@@ -177,7 +177,7 @@ requirements:
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
     - netifaces =0.10.9 =py39h3811e60_1005
     - nspr =4.32 =h9c3ff4c_1
-    - nss =3.73 =hb5efdd6_0
+    - nss =3.74 =hb5efdd6_0
     - numpydoc =1.1.0 =py_1
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =hb52868f_1
@@ -237,7 +237,7 @@ requirements:
     - rope =0.22.0 =pyhd8ed1ab_0
     - rtree =0.9.7 =py39hb102c33_3
     - secretstorage =3.3.1 =py39hf3d152e_1
-    - setuptools =60.3.1 =py39hf3d152e_0
+    - setuptools =60.5.0 =py39hf3d152e_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
@@ -281,7 +281,7 @@ requirements:
     - yapf =0.32.0 =pyhd8ed1ab_0
     - zeroconf =0.38.1 =pyhd8ed1ab_0
     - zeromq =4.3.4 =h9c3ff4c_1
-    - zipp =3.6.0 =pyhd8ed1ab_0
+    - zipp =3.7.0 =pyhd8ed1ab_0
     - zlib =1.2.11 =h36c2ea0_1013
     - zstd =1.5.1 =ha95c52a_0
 
