@@ -32,7 +32,7 @@ requirements:
     - cython =0.29.26 =py38ha048514_0
     - grayskull =0.9.1 =pyhd8ed1ab_0
     - hypothesis =6.35.0 =pyhd8ed1ab_0
-    - ipython =7.31.0 =py38h50d1736_0
+    - ipython =8.0.0 =py38h50d1736_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - matplotlib =3.5.1 =py38h50d1736_0
     - numba =0.53.1 =py38h5b9a75a_1
@@ -61,13 +61,14 @@ requirements:
     - transitions =0.8.10 =pyhd8ed1ab_0
     - xmltodict =0.12.0 =py_0
 
-    # 405 secondary packages :
+    # 416 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.2.0 =pyhd8ed1ab_0
     - alabaster =0.7.12 =py_0
     - appnope =0.1.2 =py38h50d1736_2
     - argon2-cffi =21.3.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py38h96a0964_1
+    - asttokens =2.0.5 =pyhd8ed1ab_0
     - async-timeout =4.0.2 =pyhd8ed1ab_0
     - async_generator =1.10 =py_0
     - attrs =21.4.0 =pyhd8ed1ab_0
@@ -75,6 +76,7 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
+    - black =21.12b0 =pyhd8ed1ab_0
     - bleach =4.1.0 =pyhd8ed1ab_0
     - brotli =1.0.9 =h0d85af4_6
     - brotli-bin =1.0.9 =h0d85af4_6
@@ -101,6 +103,7 @@ requirements:
     - cryptography =36.0.1 =py38h56c4533_0
     - curl =7.81.0 =hf45b732_0
     - cycler =0.11.0 =pyhd8ed1ab_0
+    - dataclasses =0.8 =pyhc8e2a94_3
     - dbus =1.13.6 =h811a1a6_3
     - debugpy =1.5.1 =py38ha048514_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -108,6 +111,7 @@ requirements:
     - docutils =0.17.1 =py38h50d1736_1
     - entrypoints =0.3 =pyhd8ed1ab_1003
     - et_xmlfile =1.0.1 =py_1001
+    - executing =0.8.2 =pyhd8ed1ab_0
     - expat =2.4.2 =he49afe7_0
     - flit-core =3.6.0 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -143,7 +147,7 @@ requirements:
     - jbig =2.1 =h0d85af4_2003
     - jedi =0.18.1 =py38h50d1736_0
     - jpeg =9d =hbcb3906_0
-    - jsonschema =4.3.3 =pyhd8ed1ab_0
+    - jsonschema =4.4.0 =pyhd8ed1ab_0
     - jupyter_client =7.1.0 =pyhd8ed1ab_0
     - jupyter_core =4.9.1 =py38h50d1736_1
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
@@ -199,6 +203,7 @@ requirements:
     - mpmath =1.2.1 =pyhd8ed1ab_0
     - multidict =5.2.0 =py38h96a0964_1
     - munkres =1.1.4 =pyh9f0ad1d_0
+    - mypy_extensions =0.4.3 =py38h50d1736_4
     - mysql-common =8.0.27 =h694c41f_3
     - mysql-libs =8.0.27 =h115446f_3
     - nbclient =0.5.9 =pyhd8ed1ab_0
@@ -206,7 +211,7 @@ requirements:
     - nbformat =5.1.3 =pyhd8ed1ab_0
     - ncurses =6.2 =h2e338ed_4
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
-    - notebook =6.4.6 =pyha770c72_0
+    - notebook =6.4.7 =pyha770c72_0
     - nspr =4.32 =hcd9eead_1
     - nss =3.74 =h31e2bf1_0
     - olefile =0.46 =pyh9f0ad1d_1
@@ -217,6 +222,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.48.10 =h056538c_2
     - parso =0.8.3 =pyhd8ed1ab_0
+    - pathspec =0.9.0 =pyhd8ed1ab_0
     - pcre =8.45 =he49afe7_0
     - pcre2 =10.37 =ha16e1b2_0
     - perl =5.32.1 =1_h0d85af4_perl5
@@ -225,11 +231,13 @@ requirements:
     - pillow =8.4.0 =py38hee640a0_0
     - pip =21.3.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
+    - platformdirs =2.3.0 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py38h50d1736_2
     - progressbar2 =3.53.1 =pyh9f0ad1d_0
     - prometheus_client =0.12.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.24 =pyha770c72_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0
+    - pure_eval =0.2.1 =pyhd8ed1ab_0
     - py =1.11.0 =pyh6c4a22f_0
     - pycparser =2.21 =pyhd8ed1ab_0
     - pygments =2.11.2 =pyhd8ed1ab_0
@@ -443,6 +451,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =py_0
     - sphinxcontrib-qthelp =1.0.3 =py_0
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_1
+    - stack_data =0.1.3 =pyhd8ed1ab_0
     - stdlib-list =0.7.0 =py_2
     - tapi =1100.0.11 =h9ce4665_0
     - terminado =0.12.1 =py38h50d1736_1
@@ -450,8 +459,10 @@ requirements:
     - tk =8.6.11 =h5dbffcc_1
     - tktable =2.10 =h49f0cf7_3
     - toml =0.10.2 =pyhd8ed1ab_0
+    - tomli =1.2.2 =pyhd8ed1ab_0
     - tornado =6.1 =py38h96a0964_2
     - traitlets =5.1.1 =pyhd8ed1ab_0
+    - typed-ast =1.5.1 =py38h96a0964_0
     - typing-extensions =4.0.1 =hd8ed1ab_0
     - typing_extensions =4.0.1 =pyha770c72_0
     - unicodedata2 =14.0.0 =py38h96a0964_0

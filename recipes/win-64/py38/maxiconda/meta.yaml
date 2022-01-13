@@ -32,7 +32,7 @@ requirements:
     - cython =0.29.26 =py38h885f38d_0
     - grayskull =0.9.1 =pyhd8ed1ab_0
     - hypothesis =6.35.0 =pyhd8ed1ab_0
-    - ipython =7.31.0 =py38haa244fe_0
+    - ipython =8.0.0 =py38haa244fe_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - matplotlib =3.5.1 =py38haa244fe_0
     - numba =0.53.1 =py38h99fac5f_1
@@ -61,12 +61,13 @@ requirements:
     - transitions =0.8.10 =pyhd8ed1ab_0
     - xmltodict =0.12.0 =py_0
 
-    # 371 secondary packages :
+    # 382 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.2.0 =pyhd8ed1ab_0
     - alabaster =0.7.12 =py_0
     - argon2-cffi =21.3.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py38h294d835_1
+    - asttokens =2.0.5 =pyhd8ed1ab_0
     - async-timeout =4.0.2 =pyhd8ed1ab_0
     - async_generator =1.10 =py_0
     - atomicwrites =1.4.0 =pyh9f0ad1d_0
@@ -75,6 +76,7 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
+    - black =21.12b0 =pyhd8ed1ab_0
     - bleach =4.1.0 =pyhd8ed1ab_0
     - brotli =1.0.9 =h8ffe710_6
     - brotli-bin =1.0.9 =h8ffe710_6
@@ -88,12 +90,14 @@ requirements:
     - colorama =0.4.4 =pyh9f0ad1d_0
     - cryptography =36.0.1 =py38hb7941b4_0
     - cycler =0.11.0 =pyhd8ed1ab_0
+    - dataclasses =0.8 =pyhc8e2a94_3
     - debugpy =1.5.1 =py38h885f38d_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - docutils =0.17.1 =py38haa244fe_1
     - entrypoints =0.3 =pyhd8ed1ab_1003
     - et_xmlfile =1.0.1 =py_1001
+    - executing =0.8.2 =pyhd8ed1ab_0
     - flit-core =3.6.0 =pyhd8ed1ab_0
     - fonttools =4.28.5 =py38h294d835_0
     - freetype =2.10.4 =h546665d_1
@@ -112,7 +116,7 @@ requirements:
     - jbig =2.1 =h8d14728_2003
     - jedi =0.18.1 =py38haa244fe_0
     - jpeg =9d =h8ffe710_0
-    - jsonschema =4.3.3 =pyhd8ed1ab_0
+    - jsonschema =4.4.0 =pyhd8ed1ab_0
     - jupyter_client =7.1.0 =pyhd8ed1ab_0
     - jupyter_core =4.9.1 =py38haa244fe_1
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
@@ -174,11 +178,12 @@ requirements:
     - msys2-conda-epoch =20160418 =1
     - multidict =5.2.0 =py38h294d835_1
     - munkres =1.1.4 =pyh9f0ad1d_0
+    - mypy_extensions =0.4.3 =py38haa244fe_4
     - nbclient =0.5.9 =pyhd8ed1ab_0
     - nbconvert =6.4.0 =py38haa244fe_0
     - nbformat =5.1.3 =pyhd8ed1ab_0
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
-    - notebook =6.4.6 =pyha770c72_0
+    - notebook =6.4.7 =pyha770c72_0
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =hb211442_1
     - openssl =1.1.1l =h8ffe710_0
@@ -186,13 +191,16 @@ requirements:
     - pandoc =2.16.2 =h8ffe710_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
+    - pathspec =0.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pillow =8.4.0 =py38h794f750_0
     - pip =21.3.1 =pyhd8ed1ab_0
+    - platformdirs =2.3.0 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py38haa244fe_2
     - progressbar2 =3.53.1 =pyh9f0ad1d_0
     - prometheus_client =0.12.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.24 =pyha770c72_0
+    - pure_eval =0.2.1 =pyhd8ed1ab_0
     - py =1.11.0 =pyh6c4a22f_0
     - pycparser =2.21 =pyhd8ed1ab_0
     - pygments =2.11.2 =pyhd8ed1ab_0
@@ -407,13 +415,16 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =py_0
     - sphinxcontrib-qthelp =1.0.3 =py_0
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_1
+    - stack_data =0.1.3 =pyhd8ed1ab_0
     - stdlib-list =0.7.0 =py_2
     - terminado =0.12.1 =py38haa244fe_1
     - testpath =0.5.0 =pyhd8ed1ab_0
     - tk =8.6.11 =h8ffe710_1
     - toml =0.10.2 =pyhd8ed1ab_0
+    - tomli =1.2.2 =pyhd8ed1ab_0
     - tornado =6.1 =py38h294d835_2
     - traitlets =5.1.1 =pyhd8ed1ab_0
+    - typed-ast =1.5.1 =py38h294d835_0
     - typing-extensions =4.0.1 =hd8ed1ab_0
     - typing_extensions =4.0.1 =pyha770c72_0
     - ucrt =10.0.20348.0 =h57928b3_0
