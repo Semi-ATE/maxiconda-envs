@@ -33,10 +33,9 @@ requirements:
     - pymol-open-source =2.5.0 =py37h2362228_4
     - rdkit =2021.09.4 =py37hd1be60c_0
     - scipy =1.7.3 =py37hb6553fb_0
-    - spyder-kernels =2.2.0 =py37h03978a9_0
+    - spyder-kernels =2.2.1 =py37h03978a9_0
 
-    # 136 secondary packages :
-    - argcomplete =2.0.0 =pyhd8ed1ab_0
+    # 134 secondary packages :
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -69,9 +68,8 @@ requirements:
     - hdf5 =1.10.6 =nompi_h5268f04_1114
     - icu =68.2 =h0e60522_0
     - importlib-metadata =4.10.0 =py37h03978a9_0
-    - importlib_metadata =4.10.0 =hd8ed1ab_0
     - intel-openmp =2022.0.0 =h57928b3_3663
-    - ipykernel =6.6.1 =py37h4038f58_0
+    - ipykernel =6.7.0 =py37h4038f58_0
     - ipython =7.31.0 =py37h03978a9_0
     - jbig =2.1 =h8d14728_2003
     - jedi =0.18.1 =py37h03978a9_0

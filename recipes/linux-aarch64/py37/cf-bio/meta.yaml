@@ -29,13 +29,12 @@ requirements:
     - matplotlib =3.5.1 =py37hd9ded2f_0
     - numpy =1.21.5 =py37h8c07229_0
     - pandas =1.3.5 =py37hf8333fe_0
-    - rdkit =2021.09.3 =py37hb7e63a7_0
+    - rdkit =2021.09.4 =py37hb7e63a7_0
     - scipy =1.7.3 =py37hd18d958_0
-    - spyder-kernels =2.2.0 =py37hfd236b0_0
+    - spyder-kernels =2.2.1 =py37hfd236b0_0
 
-    # 125 secondary packages :
+    # 123 secondary packages :
     - _openmp_mutex =4.5 =1_gnu
-    - argcomplete =2.0.0 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -65,9 +64,8 @@ requirements:
     - greenlet =1.1.2 =py37had24c86_1
     - icu =69.1 =h3621d8e_0
     - importlib-metadata =4.10.0 =py37hd9ded2f_0
-    - importlib_metadata =4.10.0 =hd8ed1ab_0
-    - ipykernel =6.6.1 =py37heac6637_0
-    - ipython =7.31.0 =py37hfd236b0_0
+    - ipykernel =6.7.0 =py37heac6637_0
+    - ipython =7.31.0 =py37hd9ded2f_0
     - jbig =2.1 =hf897c2e_2003
     - jedi =0.18.1 =py37hd9ded2f_0
     - jpeg =9d =hfd2af3c_0

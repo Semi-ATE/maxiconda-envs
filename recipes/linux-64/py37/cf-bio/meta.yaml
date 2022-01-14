@@ -33,13 +33,12 @@ requirements:
     - pymol-open-source =2.5.0 =py37h84945d2_4
     - rdkit =2021.09.4 =py37h13c2175_0
     - scipy =1.7.3 =py37hf2a6cf1_0
-    - spyder-kernels =2.2.0 =py37h89c1867_0
+    - spyder-kernels =2.2.1 =py37h89c1867_0
 
-    # 174 secondary packages :
+    # 172 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - alsa-lib =1.2.3 =h516909a_0
-    - argcomplete =2.0.0 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -77,8 +76,7 @@ requirements:
     - hdf5 =1.10.6 =nompi_h6a2412b_1114
     - icu =68.2 =h9c3ff4c_0
     - importlib-metadata =4.10.0 =py37h89c1867_0
-    - importlib_metadata =4.10.0 =hd8ed1ab_0
-    - ipykernel =6.6.1 =py37h6531663_0
+    - ipykernel =6.7.0 =py37h6531663_0
     - ipython =7.31.0 =py37h89c1867_0
     - jbig =2.1 =h7f98852_2003
     - jedi =0.18.1 =py37h89c1867_0

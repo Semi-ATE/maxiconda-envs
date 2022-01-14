@@ -53,7 +53,7 @@ requirements:
     - requests =2.27.1 =pyhd8ed1ab_0
     - rust =1.57.0 =h7e1429e_0
     - scipy =1.7.3 =py37h4e3cf02_0
-    - spyder-kernels =2.2.0 =py37hf985489_0
+    - spyder-kernels =2.2.1 =py37hf985489_0
     - sqlalchemy =1.4.29 =py37h271585c_0
     - sqlite =3.37.0 =h23a322b_0
     - sympy =1.9 =py37hf985489_1
@@ -61,12 +61,11 @@ requirements:
     - transitions =0.8.10 =pyhd8ed1ab_0
     - xmltodict =0.12.0 =py_0
 
-    # 408 secondary packages :
+    # 407 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.2.0 =pyhd8ed1ab_0
     - alabaster =0.7.12 =py_0
     - appnope =0.1.2 =py37hf985489_2
-    - argcomplete =2.0.0 =pyhd8ed1ab_0
     - argon2-cffi =21.3.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py37h271585c_1
     - async-timeout =4.0.2 =pyhd8ed1ab_0
@@ -140,7 +139,7 @@ requirements:
     - importlib_metadata =4.10.0 =hd8ed1ab_0
     - importlib_resources =5.4.0 =pyhd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
-    - ipykernel =6.6.1 =py37h4c52d7d_0
+    - ipykernel =6.7.0 =py37h4c52d7d_0
     - ipython_genutils =0.2.0 =py_1
     - isl =0.22.1 =hb1e8313_2
     - jbig =2.1 =h0d85af4_2003
@@ -216,7 +215,7 @@ requirements:
     - openjpeg =2.4.0 =h6e7aa92_1
     - openssl =1.1.1l =h0d85af4_0
     - packaging =21.3 =pyhd8ed1ab_0
-    - pandoc =2.16.2 =h0d85af4_0
+    - pandoc =2.17 =h0d85af4_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.48.10 =h056538c_2
     - parso =0.8.3 =pyhd8ed1ab_0
@@ -266,7 +265,7 @@ requirements:
     - r-callr =3.7.0 =r41hc72bb7e_0
     - r-caret =6.0_90 =r41h28b5c78_0
     - r-cellranger =1.1.0 =r41hc72bb7e_1004
-    - r-class =7.3_19 =r41h28b5c78_0
+    - r-class =7.3_20 =r41h28b5c78_0
     - r-cli =3.1.0 =r41h9951f98_0
     - r-clipr =0.7.1 =r41hc72bb7e_0
     - r-cluster =2.1.2 =r41h749f5a1_0
@@ -294,7 +293,7 @@ requirements:
     - r-fontawesome =0.2.2 =r41hc72bb7e_0
     - r-forcats =0.5.1 =r41hc72bb7e_0
     - r-foreach =1.5.1 =r41hc72bb7e_0
-    - r-foreign =0.8_81 =r41h28b5c78_0
+    - r-foreign =0.8_82 =r41h28b5c78_0
     - r-formatr =1.11 =r41hc72bb7e_0
     - r-fs =1.5.2 =r41h9951f98_0
     - r-future =1.23.0 =r41hc72bb7e_0
@@ -340,15 +339,15 @@ requirements:
     - r-lubridate =1.8.0 =r41h9951f98_0
     - r-magrittr =2.0.1 =r41h28b5c78_1
     - r-maps =3.4.0 =r41h28b5c78_0
-    - r-mass =7.3_54 =r41h28b5c78_0
+    - r-mass =7.3_55 =r41h28b5c78_0
     - r-matrix =1.4_0 =r41hc2c5f09_0
     - r-mgcv =1.8_38 =r41hf27e4f0_0
     - r-mime =0.12 =r41h28b5c78_0
     - r-modelmetrics =1.2.2.2 =r41hff6cd7b_1
     - r-modelr =0.1.8 =r41hc72bb7e_0
     - r-munsell =0.5.0 =r41hc72bb7e_1004
-    - r-nlme =3.1_153 =r41h749f5a1_0
-    - r-nnet =7.3_16 =r41h28b5c78_0
+    - r-nlme =3.1_155 =r41h749f5a1_0
+    - r-nnet =7.3_17 =r41h28b5c78_0
     - r-numderiv =2016.8_1.1 =r41hc72bb7e_3
     - r-openssl =1.4.6 =r41hd95e000_0
     - r-parallelly =1.30.0 =r41hc72bb7e_0
@@ -397,7 +396,7 @@ requirements:
     - r-shape =1.4.6 =r41ha770c72_0
     - r-shiny =1.7.1 =r41h785f33e_0
     - r-sourcetools =0.1.7 =r41h9951f98_1002
-    - r-spatial =7.3_14 =r41h28b5c78_0
+    - r-spatial =7.3_15 =r41h28b5c78_0
     - r-squarem =2021.1 =r41hc72bb7e_0
     - r-stringi =1.7.6 =r41hd783aa8_0
     - r-stringr =1.4.0 =r41hc72bb7e_2

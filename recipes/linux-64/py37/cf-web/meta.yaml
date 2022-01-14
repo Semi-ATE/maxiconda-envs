@@ -30,15 +30,14 @@ requirements:
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - pyyaml =6.0 =py37h5e8e339_3
     - requests =2.27.1 =pyhd8ed1ab_0
-    - spyder-kernels =2.2.0 =py37h89c1867_0
+    - spyder-kernels =2.2.1 =py37h89c1867_0
     - sqlalchemy =1.4.29 =py37h5e8e339_0
     - twisted =21.7.0 =py37h5e8e339_1
 
-    # 84 secondary packages :
+    # 82 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - appdirs =1.4.4 =pyh9f0ad1d_0
-    - argcomplete =2.0.0 =pyhd8ed1ab_0
     - asgiref =3.4.1 =pyhd8ed1ab_0
     - attrs =21.4.0 =pyhd8ed1ab_0
     - automat =20.2.0 =py_0
@@ -61,9 +60,8 @@ requirements:
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - idna =3.1 =pyhd3deb0d_0
     - importlib-metadata =4.10.0 =py37h89c1867_0
-    - importlib_metadata =4.10.0 =hd8ed1ab_0
     - incremental =21.3.0 =pyhd8ed1ab_0
-    - ipykernel =6.6.1 =py37h6531663_0
+    - ipykernel =6.7.0 =py37h6531663_0
     - ipython =7.31.0 =py37h89c1867_0
     - jedi =0.18.1 =py37h89c1867_0
     - jupyter_client =7.1.0 =pyhd8ed1ab_0
