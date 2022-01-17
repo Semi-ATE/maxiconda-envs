@@ -84,7 +84,7 @@ requirements:
     - c-ares =1.18.1 =h0d85af4_0
     - ca-certificates =2021.10.8 =h033912b_0
     - cairo =1.16.0 =he43a7df_1008
-    - cctools_osx-64 =973.0.1 =h3e07e27_2
+    - cctools_osx-64 =973.0.1 =h3e07e27_3
     - certifi =2021.10.8 =py37hf985489_1
     - cffi =1.15.0 =py37h446072c_0
     - charset-normalizer =2.0.10 =pyhd8ed1ab_0
@@ -151,8 +151,7 @@ requirements:
     - kiwisolver =1.3.2 =py37h737db71_1
     - krb5 =1.19.2 =hcfbf3a7_3
     - lcms2 =2.12 =h577c468_0
-    - ld64_osx-64 =609 =h2487922_2
-    - ldid =2.1.2 =h6a69015_3
+    - ld64_osx-64 =609 =h2487922_3
     - lerc =3.0 =he49afe7_0
     - libblas =3.9.0 =12_osx64_openblas
     - libbrotlicommon =1.0.9 =h0d85af4_6
@@ -431,7 +430,8 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-apple-darwin =1.58.0 =h059895a_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =59.7.0 =py37hf985489_0
+    - setuptools =59.8.0 =py37hf985489_0
+    - sigtool =0.1.2 =h504443f_1
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
