@@ -95,7 +95,7 @@ requirements:
     - docker-py =5.0.3 =py37hf985489_2
     - docker-pycreds =0.4.0 =py_0
     - entrypoints =0.3 =pyhd8ed1ab_1003
-    - expat =2.4.2 =he49afe7_0
+    - expat =2.4.3 =he49afe7_0
     - flask =2.0.2 =pyhd8ed1ab_0
     - flit-core =3.6.0 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -132,7 +132,7 @@ requirements:
     - idna =3.3 =pyhd8ed1ab_0
     - imagehash =4.2.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.9.0 =pyhd8ed1ab_0
-    - importlib-metadata =4.10.0 =py37hf985489_0
+    - importlib-metadata =4.10.1 =py37hf985489_0
     - importlib_resources =5.4.0 =pyhd8ed1ab_0
     - incremental =21.3.0 =pyhd8ed1ab_0
     - ipykernel =6.7.0 =py37h4c52d7d_0
@@ -217,7 +217,7 @@ requirements:
     - openssl =1.1.1l =h0d85af4_0
     - packaging =21.3 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
-    - pandoc =2.17 =h0d85af4_0
+    - pandoc =2.17.0.1 =h0d85af4_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.48.10 =h056538c_2
     - parsel =1.6.0 =py_0
@@ -252,7 +252,7 @@ requirements:
     - pyod =0.9.7 =pyhd8ed1ab_0
     - pyopenssl =21.0.0 =pyhd8ed1ab_0
     - pyparsing =3.0.6 =pyhd8ed1ab_0
-    - pyrsistent =0.18.0 =py37h271585c_0
+    - pyrsistent =0.18.1 =py37h271585c_0
     - pysocks =1.7.1 =py37hf985489_4
     - python-cufflinks =0.17.3 =py_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
