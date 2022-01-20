@@ -114,11 +114,11 @@ requirements:
     - lazy-object-proxy =1.7.1 =py37h271585c_0
     - lcms2 =2.12 =h577c468_0
     - lerc =3.0 =he49afe7_0
-    - libblas =3.9.0 =12_osx64_openblas
+    - libblas =3.9.0 =13_osx64_openblas
     - libbrotlicommon =1.0.9 =h0d85af4_6
     - libbrotlidec =1.0.9 =h0d85af4_6
     - libbrotlienc =1.0.9 =h0d85af4_6
-    - libcblas =3.9.0 =12_osx64_openblas
+    - libcblas =3.9.0 =13_osx64_openblas
     - libclang =11.1.0 =default_he082bbe_1
     - libcxx =12.0.1 =habf9029_1
     - libdeflate =1.8 =h0d85af4_0
@@ -128,7 +128,7 @@ requirements:
     - libgfortran5 =9.3.0 =h6c81a4c_23
     - libglib =2.70.2 =hf1fb8c0_1
     - libiconv =1.16 =haf1e3a3_0
-    - liblapack =3.9.0 =12_osx64_openblas
+    - liblapack =3.9.0 =13_osx64_openblas
     - libllvm11 =11.1.0 =hd011deb_2
     - libopenblas =0.3.18 =openmp_h3351f45_0
     - libpng =1.6.37 =h7cec526_2
@@ -155,7 +155,7 @@ requirements:
     - nbclient =0.5.10 =pyhd8ed1ab_1
     - nbconvert =6.4.0 =py37hf985489_0
     - nbformat =5.1.3 =pyhd8ed1ab_0
-    - ncurses =6.2 =h2e338ed_4
+    - ncurses =6.3 =he49afe7_0
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
     - netifaces =0.10.9 =py37h271585c_1005
     - nspr =4.32 =hcd9eead_1
