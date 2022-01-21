@@ -88,7 +88,7 @@ requirements:
     - gmp =6.2.1 =h2e338ed_0
     - gmpy2 =2.1.2 =py39hab8a6df_0
     - humanfriendly =10.0 =py39h6e9494a_1
-    - icu =68.2 =he49afe7_0
+    - icu =69.1 =he49afe7_0
     - idna =3.3 =pyhd8ed1ab_0
     - ifaddr =0.1.7 =pyh9f0ad1d_0
     - imagesize =1.3.0 =pyhd8ed1ab_0
@@ -122,7 +122,7 @@ requirements:
     - libbrotlidec =1.0.9 =h0d85af4_6
     - libbrotlienc =1.0.9 =h0d85af4_6
     - libcblas =3.9.0 =13_osx64_openblas
-    - libclang =11.1.0 =default_he082bbe_1
+    - libclang =13.0.0 =default_he082bbe_0
     - libcxx =12.0.1 =habf9029_1
     - libdeflate =1.8 =h0d85af4_0
     - libedit =3.1.20191231 =h0678c8f_2
@@ -132,14 +132,14 @@ requirements:
     - libglib =2.70.2 =hf1fb8c0_1
     - libiconv =1.16 =haf1e3a3_0
     - liblapack =3.9.0 =13_osx64_openblas
-    - libllvm11 =11.1.0 =hd011deb_2
+    - libllvm13 =13.0.0 =hd011deb_0
     - libopenblas =0.3.18 =openmp_h3351f45_0
     - libpng =1.6.37 =h7cec526_2
-    - libpq =13.5 =hea3049e_1
+    - libpq =14.1 =hea3049e_1
     - libsodium =1.0.18 =hbcb3906_1
     - libspatialindex =1.9.3 =he49afe7_4
     - libtiff =4.3.0 =hd146c10_2
-    - libwebp-base =1.2.1 =h0d85af4_0
+    - libwebp-base =1.2.2 =h0d85af4_0
     - libzlib =1.2.11 =h9173be1_1013
     - llvm-openmp =12.0.1 =hda6cdc1_1
     - lz4-c =1.9.3 =he49afe7_1
@@ -212,7 +212,7 @@ requirements:
     - pyzmq =22.3.0 =py39h7fec2f1_1
     - qdarkstyle =3.0.2 =pyhd8ed1ab_0
     - qstylizer =0.2.1 =pyhd8ed1ab_0
-    - qt =5.12.9 =h126340a_4
+    - qt =5.12.9 =h2a607e2_5
     - qtawesome =1.1.1 =pyhd8ed1ab_0
     - qtconsole =5.2.2 =pyhd8ed1ab_1
     - qtconsole-base =5.2.2 =pyhd8ed1ab_1
@@ -225,7 +225,7 @@ requirements:
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
-    - sphinx =4.4.0 =pyh6c4a22f_0
+    - sphinx =4.4.0 =pyh6c4a22f_1
     - sphinxcontrib-applehelp =1.0.2 =py_0
     - sphinxcontrib-devhelp =1.0.2 =py_0
     - sphinxcontrib-htmlhelp =2.0.0 =pyhd8ed1ab_0

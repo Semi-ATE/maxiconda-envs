@@ -40,14 +40,14 @@ requirements:
     - scrapy =2.5.1 =py38h50d1736_0
     - seaborn =0.11.2 =hd8ed1ab_0
     - spyder-kernels =2.2.1 =py38h50d1736_0
-    - sqlalchemy =1.4.29 =py38h96a0964_0
+    - sqlalchemy =1.4.30 =py38h96a0964_0
     - sqlite =3.37.0 =h23a322b_0
     - statsmodels =0.13.1 =py38hbe852b5_0
     - xgboost =1.5.0 =py38hbb4f172_1
 
-    # 286 secondary packages :
+    # 285 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
-    - alembic =1.4.1 =py_0
+    - alembic =1.7.5 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.2 =py38h50d1736_2
     - argon2-cffi =21.3.0 =pyhd8ed1ab_0
@@ -199,7 +199,7 @@ requirements:
     - missingno =0.4.2 =py_1
     - mistune =0.8.4 =py38h96a0964_1005
     - mkl =2021.4.0 =h89fa619_689
-    - mlflow =1.22.0 =py38hf6bc2c6_1
+    - mlflow =1.23.0 =py38hf6bc2c6_0
     - mlxtend =0.19.0 =pyhd8ed1ab_0
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
@@ -263,7 +263,6 @@ requirements:
     - pysocks =1.7.1 =py38h50d1736_4
     - python-cufflinks =0.17.3 =py_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
-    - python-editor =1.0.4 =py_0
     - python_abi =3.8 =2_cp38
     - pytz =2021.3 =pyhd8ed1ab_0
     - pywavelets =1.2.0 =py38hbe852b5_1
@@ -319,7 +318,7 @@ requirements:
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - webencodings =0.5.1 =py_1
     - websocket-client =1.2.3 =pyhd8ed1ab_0
-    - werkzeug =2.0.1 =pyhd8ed1ab_0
+    - werkzeug =2.0.2 =pyhd8ed1ab_0
     - wheel =0.37.1 =pyhd8ed1ab_0
     - widgetsnbextension =3.5.2 =py38h50d1736_1
     - wordcloud =1.8.1 =py38h96a0964_2

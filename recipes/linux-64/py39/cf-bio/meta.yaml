@@ -28,14 +28,14 @@ requirements:
     - biopython =1.79 =py39h3811e60_1
     - matplotlib =3.5.1 =py39hf3d152e_0
     - mdanalysis =2.0.0 =py39he80948d_1
-    - numpy =1.22.0 =py39h91f2184_0
+    - numpy =1.22.0 =py39h91f2184_1
     - pandas =1.3.5 =py39hde0f152_0
     - pymol-open-source =2.5.0 =py39h20a8f2e_4
     - rdkit =2021.09.4 =py39hccf6a74_0
     - scipy =1.7.3 =py39hee8e79c_0
     - spyder-kernels =2.2.1 =py39hf3d152e_0
 
-    # 182 secondary packages :
+    # 188 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - alsa-lib =1.2.3 =h516909a_0
@@ -45,13 +45,13 @@ requirements:
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - black =21.12b0 =pyhd8ed1ab_0
     - boost =1.74.0 =py39h5472131_4
-    - boost-cpp =1.74.0 =h312852a_4
+    - boost-cpp =1.74.0 =h359cf19_5
     - brotli =1.0.9 =h7f98852_6
     - brotli-bin =1.0.9 =h7f98852_6
     - bzip2 =1.0.8 =h7f98852_4
     - c-ares =1.18.1 =h7f98852_0
     - ca-certificates =2021.10.8 =ha878542_0
-    - cairo =1.16.0 =h6cf1ce9_1008
+    - cairo =1.16.0 =ha00ac49_1009
     - certifi =2021.10.8 =py39hf3d152e_1
     - cftime =1.5.1.1 =py39hce5d2b2_1
     - click =8.0.3 =py39hf3d152e_1
@@ -66,7 +66,13 @@ requirements:
     - entrypoints =0.3 =pyhd8ed1ab_1003
     - executing =0.8.2 =pyhd8ed1ab_0
     - expat =2.4.3 =h9c3ff4c_0
+    - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
+    - font-ttf-inconsolata =3.000 =h77eed37_0
+    - font-ttf-source-code-pro =2.038 =h77eed37_0
+    - font-ttf-ubuntu =0.83 =hab24e00_0
     - fontconfig =2.13.1 =hba837de_1005
+    - fonts-conda-ecosystem =1 =0
+    - fonts-conda-forge =1 =0
     - fonttools =4.28.5 =py39h3811e60_0
     - freetype =2.10.4 =h0708190_1
     - gettext =0.19.8.1 =h73d1719_1008
@@ -79,7 +85,7 @@ requirements:
     - gstreamer =1.18.5 =h9f60fe5_3
     - hdf4 =4.2.15 =h10796ff_3
     - hdf5 =1.10.6 =nompi_h6a2412b_1114
-    - icu =68.2 =h9c3ff4c_0
+    - icu =69.1 =h9c3ff4c_0
     - ipykernel =6.7.0 =py39hef51801_0
     - ipython =8.0.1 =py39hf3d152e_0
     - jbig =2.1 =h7f98852_2003
@@ -93,12 +99,12 @@ requirements:
     - lcms2 =2.12 =hddcbb42_0
     - ld_impl_linux-64 =2.36.1 =hea4e1c9_2
     - lerc =3.0 =h9c3ff4c_0
-    - libblas =3.9.0 =12_linux64_openblas
+    - libblas =3.9.0 =13_linux64_openblas
     - libbrotlicommon =1.0.9 =h7f98852_6
     - libbrotlidec =1.0.9 =h7f98852_6
     - libbrotlienc =1.0.9 =h7f98852_6
-    - libcblas =3.9.0 =12_linux64_openblas
-    - libclang =11.1.0 =default_ha53f305_1
+    - libcblas =3.9.0 =13_linux64_openblas
+    - libclang =13.0.0 =default_hc23dcda_0
     - libcurl =7.81.0 =h2574ce0_0
     - libdeflate =1.8 =h7f98852_0
     - libedit =3.1.20191231 =he28a2e2_2
@@ -112,8 +118,8 @@ requirements:
     - libglu =9.0.0 =he1b5a44_1001
     - libgomp =11.2.0 =h1d223b6_11
     - libiconv =1.16 =h516909a_0
-    - liblapack =3.9.0 =12_linux64_openblas
-    - libllvm11 =11.1.0 =hf817b99_2
+    - liblapack =3.9.0 =13_linux64_openblas
+    - libllvm13 =13.0.0 =hf817b99_0
     - libnetcdf =4.7.4 =nompi_h56d31a8_107
     - libnghttp2 =1.43.0 =h812cca2_1
     - libnsl =2.0.0 =h7f98852_0
@@ -121,17 +127,17 @@ requirements:
     - libopenblas =0.3.18 =pthreads_h8fe5266_0
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.37 =h21135ba_2
-    - libpq =13.5 =hd57d9b9_1
+    - libpq =14.1 =hd57d9b9_1
     - libsodium =1.0.18 =h36c2ea0_1
     - libssh2 =1.10.0 =ha56f1ee_2
     - libstdcxx-ng =11.2.0 =he4da1e4_11
     - libtiff =4.3.0 =h6f004c6_2
     - libuuid =2.32.1 =h7f98852_1000
     - libvorbis =1.3.7 =h9c3ff4c_0
-    - libwebp-base =1.2.1 =h7f98852_0
+    - libwebp-base =1.2.2 =h7f98852_0
     - libxcb =1.13 =h7f98852_1004
     - libxkbcommon =1.0.3 =he3ba5ed_0
-    - libxml2 =2.9.12 =h72842e0_0
+    - libxml2 =2.9.12 =h885dcf4_1
     - libzlib =1.2.11 =h36c2ea0_1013
     - lz4-c =1.9.3 =h9c3ff4c_1
     - matplotlib-base =3.5.1 =py39h2fa2bec_0
@@ -179,7 +185,7 @@ requirements:
     - python_abi =3.9 =2_cp39
     - pytz =2021.3 =pyhd8ed1ab_0
     - pyzmq =22.3.0 =py39h37b5a0c_1
-    - qt =5.12.9 =hda022c4_4
+    - qt =5.12.9 =ha98a1a1_5
     - readline =8.1 =h46c0cb4_0
     - reportlab =3.5.68 =py39he59360d_1
     - scikit-learn =1.0.2 =py39h4dfa638_0
@@ -187,7 +193,7 @@ requirements:
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
     - setuptools =59.8.0 =py39hf3d152e_0
     - six =1.16.0 =pyh6c4a22f_0
-    - sqlalchemy =1.4.29 =py39h3811e60_0
+    - sqlalchemy =1.4.30 =py39h3811e60_0
     - sqlite =3.37.0 =h9cd32fc_0
     - stack_data =0.1.4 =pyhd8ed1ab_0
     - statsmodels =0.13.1 =py39hce5d2b2_0

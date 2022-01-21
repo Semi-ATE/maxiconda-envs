@@ -65,7 +65,7 @@ requirements:
     - icu =69.1 =h3621d8e_0
     - importlib-metadata =4.10.1 =py37hd9ded2f_0
     - ipykernel =6.7.0 =py37heac6637_0
-    - ipython =7.31.0 =py37hd9ded2f_0
+    - ipython =7.31.1 =py37hd9ded2f_0
     - jbig =2.1 =hf897c2e_2003
     - jedi =0.18.1 =py37hd9ded2f_0
     - jpeg =9d =hfd2af3c_0
@@ -75,11 +75,11 @@ requirements:
     - lcms2 =2.12 =h012adcb_0
     - ld_impl_linux-aarch64 =2.36.1 =h02ad14f_2
     - lerc =3.0 =h01db608_0
-    - libblas =3.9.0 =12_linuxaarch64_openblas
+    - libblas =3.9.0 =13_linuxaarch64_openblas
     - libbrotlicommon =1.0.9 =hf897c2e_6
     - libbrotlidec =1.0.9 =hf897c2e_6
     - libbrotlienc =1.0.9 =hf897c2e_6
-    - libcblas =3.9.0 =12_linuxaarch64_openblas
+    - libcblas =3.9.0 =13_linuxaarch64_openblas
     - libdeflate =1.8 =hf897c2e_0
     - libffi =3.4.2 =h3557bc0_5
     - libgcc-ng =11.2.0 =hf1cc4e7_11
@@ -88,7 +88,7 @@ requirements:
     - libglib =2.70.2 =hde3fb6c_1
     - libgomp =11.2.0 =hf1cc4e7_11
     - libiconv =1.16 =h6dd45c4_0
-    - liblapack =3.9.0 =12_linuxaarch64_openblas
+    - liblapack =3.9.0 =13_linuxaarch64_openblas
     - libnsl =2.0.0 =hf897c2e_0
     - libopenblas =0.3.18 =pthreads_h775ce2d_0
     - libpng =1.6.37 =hbd635b3_2
@@ -96,7 +96,7 @@ requirements:
     - libstdcxx-ng =11.2.0 =h0d0a5bb_11
     - libtiff =4.3.0 =h58d83a1_2
     - libuuid =2.32.1 =hf897c2e_1000
-    - libwebp-base =1.2.1 =hf897c2e_0
+    - libwebp-base =1.2.2 =hf897c2e_0
     - libxcb =1.13 =h3557bc0_1004
     - libxml2 =2.9.12 =h1e2ce75_1
     - libzlib =1.2.11 =hb9de7d4_1013
@@ -131,7 +131,7 @@ requirements:
     - reportlab =3.5.68 =py37hf7d51d1_1
     - setuptools =59.8.0 =py37hd9ded2f_0
     - six =1.16.0 =pyh6c4a22f_0
-    - sqlalchemy =1.4.29 =py37hcd4c3ab_0
+    - sqlalchemy =1.4.30 =py37hcd4c3ab_0
     - sqlite =3.37.0 =hc164836_0
     - tk =8.6.11 =hd8af866_1
     - tornado =6.1 =py37hcd4c3ab_2
