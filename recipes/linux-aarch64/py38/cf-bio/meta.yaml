@@ -100,7 +100,7 @@ requirements:
     - libstdcxx-ng =11.2.0 =h0d0a5bb_11
     - libtiff =4.3.0 =h58d83a1_2
     - libuuid =2.32.1 =hf897c2e_1000
-    - libwebp-base =1.2.2 =hf897c2e_0
+    - libwebp-base =1.2.2 =hf897c2e_1
     - libxcb =1.13 =h3557bc0_1004
     - libxml2 =2.9.12 =h1e2ce75_1
     - libzlib =1.2.11 =hb9de7d4_1013
@@ -130,7 +130,7 @@ requirements:
     - pure_eval =0.2.1 =pyhd8ed1ab_1
     - pycairo =1.20.1 =py38h946362b_1
     - pygments =2.11.2 =pyhd8ed1ab_0
-    - pyparsing =3.0.6 =pyhd8ed1ab_0
+    - pyparsing =3.0.7 =pyhd8ed1ab_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.8 =2_cp38
     - pytz =2021.3 =pyhd8ed1ab_0
@@ -139,7 +139,7 @@ requirements:
     - reportlab =3.5.68 =py38hc1da1f5_1
     - setuptools =59.8.0 =py38h2063c64_0
     - six =1.16.0 =pyh6c4a22f_0
-    - sqlalchemy =1.4.30 =py38h9544abe_0
+    - sqlalchemy =1.4.31 =py38h9544abe_0
     - sqlite =3.37.0 =hc164836_0
     - stack_data =0.1.4 =pyhd8ed1ab_0
     - tk =8.6.11 =hd8af866_1
@@ -166,7 +166,7 @@ requirements:
     - xz =5.2.5 =h6dd45c4_1
     - zeromq =4.3.4 =h01db608_1
     - zlib =1.2.11 =hb9de7d4_1013
-    - zstd =1.5.1 =h41fb7a4_0
+    - zstd =1.5.2 =h41fb7a4_0
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

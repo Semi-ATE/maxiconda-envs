@@ -112,7 +112,7 @@ requirements:
     - libsodium =1.0.18 =hbcb3906_1
     - libssh2 =1.10.0 =hd3787cc_2
     - libtiff =4.3.0 =hd146c10_2
-    - libwebp-base =1.2.2 =h0d85af4_0
+    - libwebp-base =1.2.2 =h0d85af4_1
     - libxml2 =2.9.12 =h7e28ab6_1
     - libzip =1.8.0 =h7e5727d_1
     - libzlib =1.2.11 =h9173be1_1013
@@ -147,7 +147,7 @@ requirements:
     - pure_eval =0.2.1 =pyhd8ed1ab_1
     - pycairo =1.20.1 =py39hbe14034_1
     - pygments =2.11.2 =pyhd8ed1ab_0
-    - pyparsing =3.0.6 =pyhd8ed1ab_0
+    - pyparsing =3.0.7 =pyhd8ed1ab_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =2_cp39
     - pytz =2021.3 =pyhd8ed1ab_0
@@ -159,7 +159,7 @@ requirements:
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
     - setuptools =59.8.0 =py39h6e9494a_0
     - six =1.16.0 =pyh6c4a22f_0
-    - sqlalchemy =1.4.30 =py39h89e85a6_0
+    - sqlalchemy =1.4.31 =py39h89e85a6_0
     - sqlite =3.37.0 =h23a322b_0
     - stack_data =0.1.4 =pyhd8ed1ab_0
     - statsmodels =0.13.1 =py39hc89836e_0
@@ -178,7 +178,7 @@ requirements:
     - xz =5.2.5 =haf1e3a3_1
     - zeromq =4.3.4 =he49afe7_1
     - zlib =1.2.11 =h9173be1_1013
-    - zstd =1.5.1 =h582d3a0_0
+    - zstd =1.5.2 =h582d3a0_0
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

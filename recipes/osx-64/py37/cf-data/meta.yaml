@@ -40,7 +40,7 @@ requirements:
     - scrapy =2.5.1 =py37hf985489_0
     - seaborn =0.11.2 =hd8ed1ab_0
     - spyder-kernels =2.2.1 =py37hf985489_0
-    - sqlalchemy =1.4.30 =py37h271585c_0
+    - sqlalchemy =1.4.31 =py37h271585c_0
     - sqlite =3.37.0 =h23a322b_0
     - statsmodels =0.13.1 =py37h032687b_0
     - xgboost =1.5.0 =py37h3f6e5c9_1
@@ -251,7 +251,7 @@ requirements:
     - pynndescent =0.5.5 =pyh6c4a22f_0
     - pyod =0.9.7 =pyhd8ed1ab_0
     - pyopenssl =21.0.0 =pyhd8ed1ab_0
-    - pyparsing =3.0.6 =pyhd8ed1ab_0
+    - pyparsing =3.0.7 =pyhd8ed1ab_0
     - pyrsistent =0.18.1 =py37h271585c_0
     - pysocks =1.7.1 =py37hf985489_4
     - python-cufflinks =0.17.3 =py_0
@@ -320,7 +320,7 @@ requirements:
     - zipp =3.7.0 =pyhd8ed1ab_0
     - zlib =1.2.11 =h9173be1_1013
     - zope.interface =5.4.0 =py37h271585c_1
-    - zstd =1.5.1 =h582d3a0_0
+    - zstd =1.5.2 =h582d3a0_0
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
