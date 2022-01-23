@@ -39,7 +39,7 @@ requirements:
     - numpy =1.22.0 =py39h9d9ce41_1
     - openpyxl =3.0.9 =pyhd8ed1ab_0
     - paho-mqtt =1.6.0 =pyhd8ed1ab_0
-    - pandas =1.3.5 =py39h4d6be9b_0
+    - pandas =1.4.0 =py39h4d6be9b_0
     - psutil =5.9.0 =py39h89e85a6_0
     - pydantic =1.9.0 =py39h89e85a6_0
     - pyqt =5.12.3 =py39h6e9494a_8
@@ -148,7 +148,7 @@ requirements:
     - jedi =0.18.1 =py39h6e9494a_0
     - jpeg =9d =hbcb3906_0
     - jsonschema =4.4.0 =pyhd8ed1ab_0
-    - jupyter_client =7.1.1 =pyhd8ed1ab_0
+    - jupyter_client =7.1.2 =pyhd8ed1ab_0
     - jupyter_core =4.9.1 =py39h6e9494a_1
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
     - kiwisolver =1.3.2 =py39hf018cea_1
@@ -236,7 +236,7 @@ requirements:
     - prometheus_client =0.12.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.24 =pyha770c72_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pure_eval =0.2.1 =pyhd8ed1ab_1
+    - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py =1.11.0 =pyh6c4a22f_0
     - pycparser =2.21 =pyhd8ed1ab_0
     - pygments =2.11.2 =pyhd8ed1ab_0
@@ -407,7 +407,7 @@ requirements:
     - r-stringr =1.4.0 =r41hc72bb7e_2
     - r-survival =3.2_13 =r41h28b5c78_0
     - r-sys =3.4 =r41h28b5c78_0
-    - r-testthat =3.1.1 =r41h9951f98_0
+    - r-testthat =3.1.2 =r41h9951f98_0
     - r-tibble =3.1.6 =r41h28b5c78_0
     - r-tidyr =1.1.4 =r41h9951f98_0
     - r-tidyselect =1.1.1 =r41hbe3e9c8_0
@@ -438,7 +438,7 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-apple-darwin =1.58.1 =h059895a_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =59.8.0 =py39h6e9494a_0
+    - setuptools =60.5.0 =py39h6e9494a_0
     - sigtool =0.1.2 =h504443f_1
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0

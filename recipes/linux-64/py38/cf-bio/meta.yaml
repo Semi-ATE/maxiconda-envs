@@ -29,7 +29,7 @@ requirements:
     - matplotlib =3.5.1 =py38h578d9bd_0
     - mdanalysis =2.0.0 =py38h709712a_1
     - numpy =1.22.0 =py38h6ae9a64_1
-    - pandas =1.3.5 =py38h43a58ef_0
+    - pandas =1.4.0 =py38h43a58ef_0
     - pymol-open-source =2.5.0 =py38h8341299_4
     - rdkit =2021.09.4 =py38h8c3fb5a_0
     - scipy =1.7.3 =py38h56a6a73_0
@@ -53,7 +53,7 @@ requirements:
     - ca-certificates =2021.10.8 =ha878542_0
     - cairo =1.16.0 =ha00ac49_1009
     - certifi =2021.10.8 =py38h578d9bd_1
-    - cftime =1.5.1.1 =py38h6c62de6_1
+    - cftime =1.5.2 =py38h6c62de6_0
     - click =8.0.3 =py38h578d9bd_1
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
@@ -92,7 +92,7 @@ requirements:
     - jedi =0.18.1 =py38h578d9bd_0
     - joblib =1.1.0 =pyhd8ed1ab_0
     - jpeg =9d =h36c2ea0_0
-    - jupyter_client =7.1.1 =pyhd8ed1ab_0
+    - jupyter_client =7.1.2 =pyhd8ed1ab_0
     - jupyter_core =4.9.1 =py38h578d9bd_1
     - kiwisolver =1.3.2 =py38h1fd1430_1
     - krb5 =1.19.2 =hcc1bbae_3
@@ -172,7 +172,7 @@ requirements:
     - prompt-toolkit =3.0.24 =pyha770c72_0
     - pthread-stubs =0.4 =h36c2ea0_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pure_eval =0.2.1 =pyhd8ed1ab_1
+    - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycairo =1.20.1 =py38hf61ee4a_1
     - pygments =2.11.2 =pyhd8ed1ab_0
     - pyparsing =3.0.7 =pyhd8ed1ab_0
@@ -191,7 +191,7 @@ requirements:
     - scikit-learn =1.0.2 =py38h1561384_0
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
-    - setuptools =59.8.0 =py38h578d9bd_0
+    - setuptools =60.5.0 =py38h578d9bd_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.31 =py38h497a2fe_0
     - sqlite =3.37.0 =h9cd32fc_0
