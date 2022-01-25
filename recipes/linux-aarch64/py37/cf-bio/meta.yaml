@@ -24,16 +24,14 @@ requirements:
   run:
     - python =3.7.12 =h47f6e27_100_cpython
 
-    # 7 primary packages :
-    - biopython =1.79 =py37hcd4c3ab_1
+    # 5 primary packages :
     - matplotlib =3.5.1 =py37hd9ded2f_0
-    - numpy =1.21.5 =py37h8c07229_0
     - pandas =1.3.5 =py37hf8333fe_0
     - rdkit =2021.09.4 =py37hb7e63a7_0
     - scipy =1.7.3 =py37hd18d958_0
     - spyder-kernels =2.2.1 =py37hfd236b0_0
 
-    # 123 secondary packages :
+    # 124 secondary packages :
     - _openmp_mutex =4.5 =1_gnu
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
@@ -106,6 +104,7 @@ requirements:
     - munkres =1.1.4 =pyh9f0ad1d_0
     - ncurses =6.3 =h01db608_0
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
+    - numpy =1.21.5 =py37h8c07229_0
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =h45037e0_1
     - openssl =3.0.0 =hf897c2e_1

@@ -24,16 +24,15 @@ requirements:
   run:
     - python =3.7.12 =h47f6e27_100_cpython
 
-    # 7 primary packages :
+    # 6 primary packages :
     - numpy =1.21.5 =py37h8c07229_0
     - openpyxl =3.0.9 =pyhd8ed1ab_0
-    - pandas =1.3.5 =py37hf8333fe_0
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
     - pyvisa-py =0.5.2 =pyh44b312d_0
     - spyder-kernels =2.2.1 =py37hfd236b0_0
 
-    # 64 secondary packages :
+    # 63 secondary packages :
     - _openmp_mutex =4.5 =1_gnu
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
@@ -80,11 +79,10 @@ requirements:
     - pygments =2.11.2 =pyhd8ed1ab_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.7 =2_cp37m
-    - pytz =2021.3 =pyhd8ed1ab_0
     - pyvisa =1.11.3 =py37hd9ded2f_2
     - pyzmq =22.3.0 =py37h3f30300_1
     - readline =8.1 =h1a49cc3_0
-    - setuptools =59.8.0 =py37hd9ded2f_0
+    - setuptools =60.5.0 =py37hd9ded2f_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlite =3.37.0 =hc164836_0
     - tk =8.6.11 =hd8af866_1

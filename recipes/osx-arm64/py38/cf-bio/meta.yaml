@@ -27,7 +27,7 @@ requirements:
     # 7 primary packages :
     - biopython =1.79 =py38hea4295b_1
     - matplotlib =3.5.1 =py38h150bfb4_0
-    - numpy =1.22.0 =py38h9d822b3_1
+    - numpy =1.22.1 =py38h9d822b3_0
     - pandas =1.4.0 =py38h3777fb4_0
     - rdkit =2021.09.4 =py38hbcbf861_0
     - scipy =1.7.3 =py38hd0c9ec0_0
@@ -140,7 +140,7 @@ requirements:
     - tomli =1.2.2 =pyhd8ed1ab_0
     - tornado =6.1 =py38hea4295b_2
     - traitlets =5.1.1 =pyhd8ed1ab_0
-    - typed-ast =1.5.1 =py38hea4295b_0
+    - typed-ast =1.5.2 =py38hea4295b_0
     - typing_extensions =4.0.1 =pyha770c72_0
     - unicodedata2 =14.0.0 =py38hea4295b_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
