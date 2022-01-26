@@ -33,7 +33,7 @@ requirements:
     - scipy =1.7.3 =py39h5060c3b_0
     - spyder-kernels =2.2.1 =py39h2804cbe_0
 
-    # 116 secondary packages :
+    # 117 secondary packages :
     - appnope =0.1.2 =py39h2804cbe_2
     - asttokens =2.0.5 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -60,10 +60,10 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =hab24e00_0
-    - fontconfig =2.13.1 =heb65262_1005
+    - fontconfig =2.13.94 =heb65262_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.28.5 =py39h5161555_0
+    - fonttools =4.29.0 =py39h5161555_0
     - freetype =2.10.4 =h17b34a0_1
     - gettext =0.19.8.1 =h049c9fb_1008
     - greenlet =1.1.2 =py39hfb83b0d_1
@@ -143,6 +143,7 @@ requirements:
     - typed-ast =1.5.2 =py39h5161555_0
     - typing_extensions =4.0.1 =pyha770c72_0
     - tzdata =2021e =he74cb21_0
+    - unicodedata2 =14.0.0 =py39h5161555_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.37.1 =pyhd8ed1ab_0
     - wurlitzer =3.0.2 =py39h2804cbe_1

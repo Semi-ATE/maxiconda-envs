@@ -24,12 +24,16 @@ requirements:
   run:
     - python =3.8.12 =h47f6e27_2_cpython
 
-    # 3 primary packages :
+    # 7 primary packages :
+    - biopython =1.79 =py38h9544abe_1
+    - matplotlib =3.5.1 =py38h2063c64_0
+    - numpy =1.22.1 =py38he9a3fad_0
+    - pandas =1.4.0 =py38hd4bfb9c_0
     - rdkit =2021.09.4 =py38he42a87e_0
     - scipy =1.7.3 =py38h79f4abc_0
     - spyder-kernels =2.2.1 =py38he3eb160_0
 
-    # 135 secondary packages :
+    # 133 secondary packages :
     - _openmp_mutex =4.5 =1_gnu
     - asttokens =2.0.5 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -56,10 +60,10 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =hab24e00_0
-    - fontconfig =2.13.1 =hd44bfdd_1005
+    - fontconfig =2.13.94 =ha44df8c_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.28.5 =py38h9544abe_0
+    - fonttools =4.29.0 =py38h9544abe_0
     - freetype =2.10.4 =hdf53a3c_1
     - gettext =0.19.8.1 =h6edf1e2_1008
     - greenlet =1.1.2 =py38h0119ad3_1
@@ -82,18 +86,18 @@ requirements:
     - libcblas =3.9.0 =13_linuxaarch64_openblas
     - libdeflate =1.8 =hf897c2e_0
     - libffi =3.4.2 =h3557bc0_5
-    - libgcc-ng =11.2.0 =hf1cc4e7_11
-    - libgfortran-ng =11.2.0 =he9431aa_11
-    - libgfortran5 =11.2.0 =h440fb59_11
+    - libgcc-ng =11.2.0 =hf1cc4e7_12
+    - libgfortran-ng =11.2.0 =he9431aa_12
+    - libgfortran5 =11.2.0 =h440fb59_12
     - libglib =2.70.2 =hde3fb6c_1
-    - libgomp =11.2.0 =hf1cc4e7_11
+    - libgomp =11.2.0 =hf1cc4e7_12
     - libiconv =1.16 =h6dd45c4_0
     - liblapack =3.9.0 =13_linuxaarch64_openblas
     - libnsl =2.0.0 =hf897c2e_0
     - libopenblas =0.3.18 =pthreads_h775ce2d_0
     - libpng =1.6.37 =hbd635b3_2
     - libsodium =1.0.18 =hb9de7d4_1
-    - libstdcxx-ng =11.2.0 =h0d0a5bb_11
+    - libstdcxx-ng =11.2.0 =h0d0a5bb_12
     - libtiff =4.3.0 =h58d83a1_2
     - libuuid =2.32.1 =hf897c2e_1000
     - libwebp-base =1.2.2 =hf897c2e_1
@@ -107,12 +111,10 @@ requirements:
     - mypy_extensions =0.4.3 =py38h2063c64_4
     - ncurses =6.3 =h01db608_0
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
-    - numpy =1.22.1 =py38he9a3fad_0
     - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =h45037e0_1
     - openssl =3.0.0 =hf897c2e_1
     - packaging =21.3 =pyhd8ed1ab_0
-    - pandas =1.4.0 =py38hd4bfb9c_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pathspec =0.9.0 =pyhd8ed1ab_0
     - pcre =8.45 =h01db608_0
