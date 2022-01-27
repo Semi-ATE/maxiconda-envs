@@ -26,7 +26,7 @@ requirements:
 
     # 8 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
-    - django =4.0 =pyhd8ed1ab_1
+    - django =4.0.1 =py39hf3d152e_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - pyyaml =6.0 =py39h3811e60_3
     - requests =2.27.1 =pyhd8ed1ab_0
@@ -34,7 +34,7 @@ requirements:
     - sqlalchemy =1.4.31 =py39h3811e60_0
     - twisted =21.7.0 =py39h3811e60_1
 
-    # 95 secondary packages :
+    # 94 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -103,7 +103,6 @@ requirements:
     - pysocks =1.7.1 =py39hf3d152e_4
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =2_cp39
-    - pytz =2021.3 =pyhd8ed1ab_0
     - pyzmq =22.3.0 =py39h37b5a0c_1
     - readline =8.1 =h46c0cb4_0
     - service_identity =18.1.0 =py_0

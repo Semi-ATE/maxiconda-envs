@@ -26,7 +26,7 @@ requirements:
 
     # 8 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
-    - django =4.0 =pyhd8ed1ab_1
+    - django =4.0.1 =py38h50d1736_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - pyyaml =6.0 =py38h96a0964_3
     - requests =2.27.1 =pyhd8ed1ab_0
@@ -34,7 +34,7 @@ requirements:
     - sqlalchemy =1.4.31 =py38h96a0964_0
     - twisted =21.7.0 =py38h96a0964_1
 
-    # 87 secondary packages :
+    # 88 secondary packages :
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.2 =py38h50d1736_2
     - asgiref =3.5.0 =pyhd8ed1ab_0
@@ -44,6 +44,7 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
+    - backports.zoneinfo =0.2.1 =py38h96a0964_4
     - bcrypt =3.2.0 =py38h96a0964_2
     - black =21.12b0 =pyhd8ed1ab_0
     - brotlipy =0.7.0 =py38h96a0964_1003
@@ -96,7 +97,6 @@ requirements:
     - pysocks =1.7.1 =py38h50d1736_4
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.8 =2_cp38
-    - pytz =2021.3 =pyhd8ed1ab_0
     - pyzmq =22.3.0 =py38hd3b92b6_1
     - readline =8.1 =h05e3726_0
     - service_identity =18.1.0 =py_0
@@ -113,6 +113,7 @@ requirements:
     - typed-ast =1.5.2 =py38h96a0964_0
     - typing-extensions =4.0.1 =hd8ed1ab_0
     - typing_extensions =4.0.1 =pyha770c72_0
+    - tzdata =2021e =he74cb21_0
     - urllib3 =1.26.8 =pyhd8ed1ab_1
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.37.1 =pyhd8ed1ab_0
