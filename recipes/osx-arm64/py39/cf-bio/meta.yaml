@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.9 =h43b31ca_0_cpython
+    - python =3.9.10 =h38ef502_0_cpython
   run:
-    - python =3.9.9 =h43b31ca_0_cpython
+    - python =3.9.10 =h38ef502_0_cpython
 
     # 7 primary packages :
     - biopython =1.79 =py39h5161555_1
@@ -119,7 +119,7 @@ requirements:
     - pip =21.3.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h27ca646_0
     - platformdirs =2.3.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.25 =pyha770c72_0
+    - prompt-toolkit =3.0.26 =pyha770c72_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycairo =1.20.1 =py39h551958b_1

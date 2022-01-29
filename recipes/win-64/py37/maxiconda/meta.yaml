@@ -29,7 +29,7 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.10.0 =pyha770c72_0
     - bitarray =2.3.5 =py37hcc03f2d_0
-    - cython =0.29.26 =py37hf2a7229_0
+    - cython =0.29.27 =py37hf2a7229_0
     - grayskull =0.9.1 =pyhd8ed1ab_0
     - hypothesis =6.36.0 =pyhd8ed1ab_0
     - ipython =7.31.1 =py37h03978a9_0
@@ -184,7 +184,7 @@ requirements:
     - openjpeg =2.4.0 =hb211442_1
     - openssl =1.1.1l =h8ffe710_0
     - packaging =21.3 =pyhd8ed1ab_0
-    - pandoc =2.17.0.1 =h57928b3_0
+    - pandoc =2.17.0.1 =h57928b3_1
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
@@ -192,8 +192,8 @@ requirements:
     - pip =21.3.1 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py37h03978a9_2
     - progressbar2 =3.53.1 =pyh9f0ad1d_0
-    - prometheus_client =0.13.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.25 =pyha770c72_0
+    - prometheus_client =0.13.1 =pyhd8ed1ab_0
+    - prompt-toolkit =3.0.26 =pyha770c72_0
     - py =1.11.0 =pyh6c4a22f_0
     - pycparser =2.21 =pyhd8ed1ab_0
     - pygments =2.11.2 =pyhd8ed1ab_0
