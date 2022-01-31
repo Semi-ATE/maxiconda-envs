@@ -25,25 +25,20 @@ requirements:
     - python =3.8.12 =hd949e87_2_cpython
 
     # 1 primary packages :
-    - spyder-kernels =2.2.1 =py38h10201cd_0
+    - spyder-kernels =2.2.1 =py38h10201cd_1
 
-    # 58 secondary packages :
+    # 45 secondary packages :
     - appnope =0.1.2 =py38h10201cd_2
-    - asttokens =2.0.5 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
-    - black =21.12b0 =pyhd8ed1ab_0
     - ca-certificates =2021.10.8 =h4653dfc_0
-    - click =8.0.3 =py38h10201cd_1
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
-    - dataclasses =0.8 =pyhc8e2a94_3
     - debugpy =1.5.1 =py38h6f2b01f_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.3 =pyhd8ed1ab_1003
-    - executing =0.8.2 =pyhd8ed1ab_0
     - ipykernel =6.7.0 =py38h2cb4d76_0
-    - ipython =8.0.1 =py38h10201cd_0
+    - ipython =7.31.1 =py38h10201cd_0
     - jedi =0.18.1 =py38h10201cd_0
     - jupyter_client =7.1.2 =pyhd8ed1ab_0
     - jupyter_core =4.9.1 =py38h10201cd_1
@@ -52,19 +47,15 @@ requirements:
     - libsodium =1.0.18 =h27ca646_1
     - libzlib =1.2.11 =hee7b306_1013
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
-    - mypy_extensions =0.4.3 =py38h10201cd_4
     - ncurses =6.3 =hc470f4d_0
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
     - openssl =3.0.0 =h3422bc3_2
     - parso =0.8.3 =pyhd8ed1ab_0
-    - pathspec =0.9.0 =pyhd8ed1ab_0
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py_1003
-    - pip =21.3.1 =pyhd8ed1ab_0
-    - platformdirs =2.3.0 =pyhd8ed1ab_0
+    - pip =22.0.1 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.26 =pyha770c72_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pygments =2.11.2 =pyhd8ed1ab_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.8 =2_cp38
@@ -73,13 +64,9 @@ requirements:
     - setuptools =60.5.0 =py38h10201cd_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlite =3.37.0 =h72a2b83_0
-    - stack_data =0.1.4 =pyhd8ed1ab_0
     - tk =8.6.11 =he1e0b03_1
-    - tomli =1.2.2 =pyhd8ed1ab_0
     - tornado =6.1 =py38hea4295b_2
     - traitlets =5.1.1 =pyhd8ed1ab_0
-    - typed-ast =1.5.2 =py38hea4295b_0
-    - typing_extensions =4.0.1 =pyha770c72_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.37.1 =pyhd8ed1ab_0
     - wurlitzer =3.0.2 =py38h10201cd_1

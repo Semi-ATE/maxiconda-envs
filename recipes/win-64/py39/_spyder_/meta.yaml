@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.10 =h9a09f29_0_cpython
+    - python =3.9.10 =h9a09f29_1_cpython
   run:
-    - python =3.9.10 =h9a09f29_0_cpython
+    - python =3.9.10 =h9a09f29_1_cpython
 
     # 12 primary packages :
     - cython =0.29.27 =py39h415ef7b_0
@@ -159,7 +159,7 @@ requirements:
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py_1003
     - pillow =8.4.0 =py39h916092e_0
-    - pip =21.3.1 =pyhd8ed1ab_0
+    - pip =22.0.1 =pyhd8ed1ab_0
     - platformdirs =2.3.0 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py39hcbf5309_2
     - poyo =0.5.0 =py_0
@@ -174,7 +174,7 @@ requirements:
     - pylint =2.12.2 =pyhd8ed1ab_0
     - pyls-spyder =0.4.0 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py39hb3671d1_0
-    - pyopenssl =21.0.0 =pyhd8ed1ab_0
+    - pyopenssl =22.0.0 =pyhd8ed1ab_0
     - pyparsing =3.0.7 =pyhd8ed1ab_0
     - pyqt =5.12.3 =py39hcbf5309_8
     - pyqt-impl =5.12.3 =py39h415ef7b_8
@@ -218,7 +218,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =py_0
     - sphinxcontrib-qthelp =1.0.3 =py_0
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_1
-    - spyder-kernels =2.2.1 =py39hcbf5309_0
+    - spyder-kernels =2.2.1 =py39hcbf5309_1
     - sqlite =3.37.0 =h8ffe710_0
     - tbb =2021.5.0 =h2d74725_0
     - terminado =0.13.1 =py39hcbf5309_0
