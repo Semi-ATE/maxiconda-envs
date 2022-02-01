@@ -71,7 +71,7 @@ requirements:
     - catboost =1.0.4 =py37hf985489_2
     - certifi =2021.10.8 =py37hf985489_1
     - cffi =1.15.0 =py37h446072c_0
-    - charset-normalizer =2.0.10 =pyhd8ed1ab_0
+    - charset-normalizer =2.0.11 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyh9f0ad1d_0
     - click =8.0.3 =py37hf985489_1
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
@@ -95,7 +95,7 @@ requirements:
     - docker-py =5.0.3 =py37hf985489_2
     - docker-pycreds =0.4.0 =py_0
     - entrypoints =0.3 =pyhd8ed1ab_1003
-    - expat =2.4.3 =he49afe7_0
+    - expat =2.4.4 =he49afe7_0
     - flask =2.0.2 =pyhd8ed1ab_0
     - flit-core =3.6.0 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -217,7 +217,7 @@ requirements:
     - openssl =1.1.1l =h0d85af4_0
     - packaging =21.3 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
-    - pandoc =2.17.0.1 =h694c41f_1
+    - pandoc =2.17.1.1 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.48.10 =h056538c_2
     - parsel =1.6.0 =py_0
@@ -229,7 +229,7 @@ requirements:
     - phik =0.12.0 =py37h6778b53_1
     - pickleshare =0.7.5 =py_1003
     - pillow =8.4.0 =py37h76dc067_0
-    - pip =22.0.1 =pyhd8ed1ab_0
+    - pip =22.0.2 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
     - preshed =3.0.6 =py37hd8d24ac_1
     - priority =1.3.0 =py_0
@@ -290,7 +290,7 @@ requirements:
     - testpath =0.5.0 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
     - thinc =8.0.13 =py37h326c9ff_0
-    - threadpoolctl =3.0.0 =pyh8a188c0_0
+    - threadpoolctl =3.1.0 =pyh8a188c0_0
     - tk =8.6.11 =h5dbffcc_1
     - tornado =6.1 =py37h271585c_2
     - tqdm =4.62.3 =pyhd8ed1ab_0

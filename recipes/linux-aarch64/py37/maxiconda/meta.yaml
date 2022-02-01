@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.3.5 =py37hcd4c3ab_0
     - cython =0.29.27 =py37had24c86_0
     - grayskull =0.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.36.0 =pyhd8ed1ab_0
+    - hypothesis =6.36.1 =pyhd8ed1ab_0
     - ipython =7.31.1 =py37hd9ded2f_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - matplotlib =3.5.1 =py37hd9ded2f_0
@@ -89,7 +89,7 @@ requirements:
     - cairo =1.16.0 =h68c2cfe_1009
     - certifi =2021.10.8 =py37hd9ded2f_1
     - cffi =1.15.0 =py37hefcd6b3_0
-    - charset-normalizer =2.0.10 =pyhd8ed1ab_0
+    - charset-normalizer =2.0.11 =pyhd8ed1ab_0
     - click =8.0.3 =py37hd9ded2f_1
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
@@ -103,7 +103,7 @@ requirements:
     - docutils =0.17.1 =py37hd9ded2f_1
     - entrypoints =0.3 =pyhd8ed1ab_1003
     - et_xmlfile =1.0.1 =py_1001
-    - expat =2.4.3 =h3621d8e_0
+    - expat =2.4.4 =h3621d8e_0
     - flit-core =3.6.0 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -222,7 +222,7 @@ requirements:
     - openjpeg =2.4.0 =h45037e0_1
     - openssl =1.1.1l =hf897c2e_0
     - packaging =21.3 =pyhd8ed1ab_0
-    - pandoc =2.17.0.1 =h8af1aa0_1
+    - pandoc =2.17.1.1 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.50.3 =h8e42fcd_0
     - parso =0.8.3 =pyhd8ed1ab_0
@@ -232,7 +232,7 @@ requirements:
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py_1003
     - pillow =8.4.0 =py37h4c9d247_0
-    - pip =22.0.1 =pyhd8ed1ab_0
+    - pip =22.0.2 =pyhd8ed1ab_0
     - pixman =0.40.0 =hb9de7d4_0
     - pluggy =1.0.0 =py37hd9ded2f_2
     - progressbar2 =3.53.1 =pyh9f0ad1d_0
@@ -383,7 +383,7 @@ requirements:
     - r-rbokeh =0.5.2 =r41hc72bb7e_1
     - r-rcolorbrewer =1.1_2 =r41h785f33e_1003
     - r-rcpp =1.0.8 =r41hecdc70b_0
-    - r-readr =2.1.1 =r41hecdc70b_0
+    - r-readr =2.1.2 =r41hecdc70b_0
     - r-readxl =1.3.1 =r41h14fd0b6_4
     - r-recipes =0.1.17 =r41hc72bb7e_0
     - r-recommended =4.1 =r41hd8ed1ab_1004

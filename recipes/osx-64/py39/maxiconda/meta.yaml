@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.3.5 =py39h89e85a6_0
     - cython =0.29.27 =py39h9fcab8e_0
     - grayskull =1.1.0 =pyhd8ed1ab_0
-    - hypothesis =6.36.0 =pyhd8ed1ab_0
+    - hypothesis =6.36.1 =pyhd8ed1ab_0
     - ipython =7.31.1 =py39h6e9494a_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - matplotlib =3.5.1 =py39h6e9494a_0
@@ -86,7 +86,7 @@ requirements:
     - cctools_osx-64 =973.0.1 =h609b070_5
     - certifi =2021.10.8 =py39h6e9494a_1
     - cffi =1.15.0 =py39he338e87_0
-    - charset-normalizer =2.0.10 =pyhd8ed1ab_0
+    - charset-normalizer =2.0.11 =pyhd8ed1ab_0
     - clang =12.0.1 =h694c41f_4
     - clang-12 =12.0.1 =default_he082bbe_4
     - clang_osx-64 =12.0.1 =h633439f_6
@@ -108,7 +108,7 @@ requirements:
     - docutils =0.17.1 =py39h6e9494a_1
     - entrypoints =0.3 =pyhd8ed1ab_1003
     - et_xmlfile =1.0.1 =py_1001
-    - expat =2.4.3 =he49afe7_0
+    - expat =2.4.4 =he49afe7_0
     - flit-core =3.6.0 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -212,7 +212,7 @@ requirements:
     - openjpeg =2.4.0 =h6e7aa92_1
     - openssl =1.1.1l =h0d85af4_0
     - packaging =21.3 =pyhd8ed1ab_0
-    - pandoc =2.17.0.1 =h694c41f_1
+    - pandoc =2.17.1.1 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.48.10 =h056538c_2
     - parso =0.8.3 =pyhd8ed1ab_0
@@ -222,7 +222,7 @@ requirements:
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py_1003
     - pillow =8.4.0 =py39he9bb72f_0
-    - pip =22.0.1 =pyhd8ed1ab_0
+    - pip =22.0.2 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
     - pkginfo =1.8.2 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py39h6e9494a_2
@@ -373,7 +373,7 @@ requirements:
     - r-rbokeh =0.5.2 =r41hc72bb7e_1
     - r-rcolorbrewer =1.1_2 =r41h785f33e_1003
     - r-rcpp =1.0.8 =r41h9951f98_0
-    - r-readr =2.1.1 =r41h9951f98_0
+    - r-readr =2.1.2 =r41h9951f98_0
     - r-readxl =1.3.1 =r41h8a02945_4
     - r-recipes =0.1.17 =r41hc72bb7e_0
     - r-recommended =4.1 =r41hd8ed1ab_1004
@@ -431,7 +431,7 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-apple-darwin =1.58.1 =h059895a_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =60.5.0 =py39h6e9494a_0
+    - setuptools =60.6.0 =py39h6e9494a_0
     - sigtool =0.1.3 =h57ddcff_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
