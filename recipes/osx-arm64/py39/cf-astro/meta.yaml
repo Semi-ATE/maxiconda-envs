@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.10 =h38ef502_1_cpython
+    - python =3.9.10 =h38ef502_2_cpython
   run:
-    - python =3.9.10 =h38ef502_1_cpython
+    - python =3.9.10 =h38ef502_2_cpython
 
     # 1 primary packages :
     - spyder-kernels =2.2.1 =py39h2804cbe_1

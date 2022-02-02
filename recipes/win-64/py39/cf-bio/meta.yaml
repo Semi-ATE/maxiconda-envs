@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.10 =h9a09f29_1_cpython
+    - python =3.9.10 =h9a09f29_2_cpython
   run:
-    - python =3.9.10 =h9a09f29_1_cpython
+    - python =3.9.10 =h9a09f29_2_cpython
 
     # 9 primary packages :
     - biopython =1.79 =py39hb82d6ee_1
@@ -56,7 +56,7 @@ requirements:
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.3 =pyhd8ed1ab_1003
     - fontconfig =2.13.94 =h1989441_0
-    - fonttools =4.29.0 =py39hb82d6ee_0
+    - fonttools =4.29.1 =py39hb82d6ee_0
     - freetype =2.10.4 =h546665d_1
     - gettext =0.19.8.1 =ha2e2712_1008
     - glew =2.1.0 =h39d44d4_2

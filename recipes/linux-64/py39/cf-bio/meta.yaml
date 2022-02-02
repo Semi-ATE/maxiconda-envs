@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.10 =h85951f9_1_cpython
+    - python =3.9.10 =h85951f9_2_cpython
   run:
-    - python =3.9.10 =h85951f9_1_cpython
+    - python =3.9.10 =h85951f9_2_cpython
 
     # 9 primary packages :
     - biopython =1.79 =py39h3811e60_1
@@ -68,7 +68,7 @@ requirements:
     - fontconfig =2.13.94 =ha180cfb_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.29.0 =py39h3811e60_0
+    - fonttools =4.29.1 =py39h3811e60_0
     - freetype =2.10.4 =h0708190_1
     - gettext =0.19.8.1 =h73d1719_1008
     - glew =2.1.0 =h9c3ff4c_2

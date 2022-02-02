@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.10 =he7f7bba_1_cpython
+    - python =3.9.10 =he7f7bba_2_cpython
   run:
-    - python =3.9.10 =he7f7bba_1_cpython
+    - python =3.9.10 =he7f7bba_2_cpython
 
     # 35 primary packages :
     - aiohttp =3.8.1 =py39h14843e3_0
@@ -112,7 +112,7 @@ requirements:
     - fontconfig =2.13.94 =ha44df8c_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.29.0 =py39h14843e3_0
+    - fonttools =4.29.1 =py39h14843e3_0
     - freetype =2.10.4 =hdf53a3c_1
     - fribidi =1.0.10 =hb9de7d4_0
     - frozenlist =1.3.0 =py39h14843e3_0
@@ -131,7 +131,7 @@ requirements:
     - gstreamer =1.18.5 =h01406a2_3
     - gxx_impl_linux-aarch64 =9.4.0 =h603953f_12
     - gxx_linux-aarch64 =9.4.0 =h1e24722_4
-    - harfbuzz =3.2.0 =h046a1c0_0
+    - harfbuzz =3.3.1 =h046a1c0_0
     - icu =69.1 =h3621d8e_0
     - idna =3.3 =pyhd8ed1ab_0
     - imagesize =1.3.0 =pyhd8ed1ab_0
@@ -235,7 +235,7 @@ requirements:
     - pixman =0.40.0 =hb9de7d4_0
     - pkginfo =1.8.2 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py39ha65689a_2
-    - progressbar2 =3.53.1 =pyh9f0ad1d_0
+    - progressbar2 =4.0.0 =pyhd8ed1ab_0
     - prometheus_client =0.13.1 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.26 =pyha770c72_0
     - pthread-stubs =0.4 =hb9de7d4_1001
@@ -307,7 +307,7 @@ requirements:
     - r-future =1.23.0 =r41hc72bb7e_0
     - r-future.apply =1.8.1 =r41hc72bb7e_0
     - r-gargle =1.2.0 =r41hc72bb7e_0
-    - r-generics =0.1.1 =r41hc72bb7e_0
+    - r-generics =0.1.2 =r41hc72bb7e_0
     - r-ggplot2 =3.3.5 =r41hc72bb7e_0
     - r-gistr =0.9.0 =r41hc72bb7e_0
     - r-glmnet =4.1_2 =r41h6fc6016_0
@@ -360,7 +360,7 @@ requirements:
     - r-openssl =1.4.6 =r41h2820974_0
     - r-parallelly =1.30.0 =r41hc72bb7e_0
     - r-pbdzmq =0.3_6 =r41h5fd1efb_0
-    - r-pillar =1.6.5 =r41hc72bb7e_0
+    - r-pillar =1.7.0 =r41hc72bb7e_0
     - r-pkgconfig =2.0.3 =r41hc72bb7e_1
     - r-pkgload =1.2.4 =r41hecdc70b_0
     - r-plyr =1.8.6 =r41hecdc70b_1
@@ -412,7 +412,7 @@ requirements:
     - r-sys =3.4 =r41h96a179c_0
     - r-testthat =3.1.2 =r41hecdc70b_0
     - r-tibble =3.1.6 =r41h96a179c_0
-    - r-tidyr =1.1.4 =r41hecdc70b_0
+    - r-tidyr =1.2.0 =r41hecdc70b_0
     - r-tidyselect =1.1.1 =r41h4da3e95_0
     - r-tidyverse =1.3.1 =r41hc72bb7e_0
     - r-timedate =3043.102 =r41hc72bb7e_1002
