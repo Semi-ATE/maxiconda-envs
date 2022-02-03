@@ -46,7 +46,7 @@ requirements:
     - et_xmlfile =1.0.1 =py_1001
     - importlib-metadata =4.10.1 =py38haa244fe_0
     - intel-openmp =2022.0.0 =h57928b3_3663
-    - ipykernel =6.7.0 =py38h595d716_0
+    - ipykernel =6.8.0 =py38h595d716_0
     - ipython =7.31.1 =py38haa244fe_0
     - jedi =0.18.1 =py38haa244fe_0
     - jupyter_client =7.1.2 =pyhd8ed1ab_0
@@ -62,7 +62,7 @@ requirements:
     - openssl =3.0.0 =h8ffe710_2
     - parso =0.8.3 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
-    - pip =22.0.2 =pyhd8ed1ab_0
+    - pip =22.0.2 =pyhd8ed1ab_1
     - prompt-toolkit =3.0.26 =pyha770c72_0
     - pygments =2.11.2 =pyhd8ed1ab_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
@@ -71,7 +71,7 @@ requirements:
     - pyvisa =1.11.3 =py38haa244fe_2
     - pywin32 =303 =py38h294d835_0
     - pyzmq =22.3.0 =py38h09162b1_1
-    - setuptools =60.6.0 =py38haa244fe_0
+    - setuptools =60.7.0 =py38haa244fe_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlite =3.37.0 =h8ffe710_0
     - tbb =2021.5.0 =h2d74725_0
@@ -84,7 +84,7 @@ requirements:
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.37.1 =pyhd8ed1ab_0
     - zeromq =4.3.4 =h0e60522_1
-    - zipp =3.7.0 =pyhd8ed1ab_0
+    - zipp =3.7.0 =pyhd8ed1ab_1
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
