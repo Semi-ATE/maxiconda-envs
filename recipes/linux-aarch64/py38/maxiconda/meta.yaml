@@ -61,7 +61,7 @@ requirements:
     - transitions =0.8.10 =pyhd8ed1ab_0
     - xmltodict =0.12.0 =py_0
 
-    # 428 secondary packages :
+    # 429 secondary packages :
     - _openmp_mutex =4.5 =1_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.2.0 =pyhd8ed1ab_0
@@ -101,7 +101,7 @@ requirements:
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - docutils =0.17.1 =py38h2063c64_1
-    - entrypoints =0.3 =pyhd8ed1ab_1003
+    - entrypoints =0.4 =pyhd8ed1ab_0
     - et_xmlfile =1.0.1 =py_1001
     - expat =2.4.4 =h3621d8e_0
     - flit-core =3.6.0 =pyhd8ed1ab_0
@@ -121,6 +121,7 @@ requirements:
     - gettext =0.19.8.1 =h6edf1e2_1008
     - gfortran_impl_linux-aarch64 =9.4.0 =h54cdb55_12
     - gfortran_linux-aarch64 =9.4.0 =h02353c8_4
+    - giflib =5.2.1 =hb9de7d4_2
     - git =2.35.0 =pl5321h063bab8_0
     - gmp =6.2.1 =h7fd3ca4_0
     - gmpy2 =2.1.2 =py38h80d68c0_0
@@ -190,6 +191,7 @@ requirements:
     - libtiff =4.3.0 =h58d83a1_2
     - libuuid =2.32.1 =hf897c2e_1000
     - libvorbis =1.3.7 =h01db608_0
+    - libwebp =1.2.2 =h21830e5_0
     - libwebp-base =1.2.2 =hf897c2e_1
     - libxcb =1.13 =h3557bc0_1004
     - libxkbcommon =1.0.3 =he09c752_0
@@ -217,7 +219,6 @@ requirements:
     - notebook =6.4.8 =pyha770c72_0
     - nspr =4.32 =h01db608_0
     - nss =3.74 =hdd3d7a4_0
-    - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =h45037e0_1
     - openssl =1.1.1l =hf897c2e_0
     - packaging =21.3 =pyhd8ed1ab_0
@@ -230,8 +231,8 @@ requirements:
     - perl =5.32.1 =1_hf897c2e_perl5
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py_1003
-    - pillow =8.4.0 =py38h8aad6ef_0
-    - pip =22.0.2 =pyhd8ed1ab_1
+    - pillow =9.0.0 =py38h2494775_0
+    - pip =22.0.3 =pyhd8ed1ab_0
     - pixman =0.40.0 =hb9de7d4_0
     - pkginfo =1.8.2 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py38h2063c64_2
@@ -315,7 +316,7 @@ requirements:
     - r-glue =1.6.1 =r41h96a179c_0
     - r-googledrive =2.0.0 =r41hc72bb7e_0
     - r-googlesheets4 =1.0.0 =r41h785f33e_0
-    - r-gower =0.2.2 =r41h96a179c_0
+    - r-gower =1.0.0 =r41h96a179c_0
     - r-gtable =0.3.0 =r41hc72bb7e_3
     - r-haven =2.4.3 =r41h14fd0b6_0
     - r-hexbin =1.28.2 =r41h6fc6016_0
@@ -442,7 +443,7 @@ requirements:
     - rust-std-aarch64-unknown-linux-gnu =1.58.1 =ha15b78c_0
     - sed =4.8 =ha0d5d3d_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =60.7.0 =py38h2063c64_0
+    - setuptools =60.7.1 =py38h2063c64_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0

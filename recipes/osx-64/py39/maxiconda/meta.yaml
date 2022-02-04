@@ -61,7 +61,7 @@ requirements:
     - transitions =0.8.10 =pyhd8ed1ab_0
     - xmltodict =0.12.0 =py_0
 
-    # 407 secondary packages :
+    # 413 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.2.0 =pyhd8ed1ab_0
     - alabaster =0.7.12 =py_0
@@ -106,7 +106,7 @@ requirements:
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - docutils =0.17.1 =py39h6e9494a_1
-    - entrypoints =0.3 =pyhd8ed1ab_1003
+    - entrypoints =0.4 =pyhd8ed1ab_0
     - et_xmlfile =1.0.1 =py_1001
     - expat =2.4.4 =he49afe7_0
     - flit-core =3.6.0 =pyhd8ed1ab_0
@@ -124,6 +124,7 @@ requirements:
     - gettext =0.19.8.1 =hd1a6beb_1008
     - gfortran_impl_osx-64 =9.3.0 =h9cc0e5e_23
     - gfortran_osx-64 =9.3.0 =h18f7dce_15
+    - giflib =5.2.1 =hbcb3906_2
     - git =2.35.0 =pl5321h9a53687_0
     - gmp =6.2.1 =h2e338ed_0
     - gmpy2 =2.1.2 =py39hab8a6df_0
@@ -170,6 +171,7 @@ requirements:
     - libgfortran5 =9.3.0 =h6c81a4c_23
     - libglib =2.70.2 =hf1fb8c0_1
     - libiconv =1.16 =haf1e3a3_0
+    - libimagequant =2.17.0 =h9bde063_1
     - liblapack =3.9.0 =13_osx64_openblas
     - libllvm10 =10.0.1 =h009f743_3
     - libllvm12 =12.0.1 =hd011deb_2
@@ -181,7 +183,9 @@ requirements:
     - libsodium =1.0.18 =hbcb3906_1
     - libssh2 =1.10.0 =h52ee1ee_2
     - libtiff =4.3.0 =hd146c10_2
+    - libwebp =1.2.2 =h28dabe5_0
     - libwebp-base =1.2.2 =h0d85af4_1
+    - libxcb =1.13 =h0d85af4_1004
     - libxml2 =2.9.12 =h7e28ab6_1
     - libzlib =1.2.11 =h9173be1_1013
     - llvm-openmp =12.0.1 =hda6cdc1_1
@@ -208,7 +212,6 @@ requirements:
     - notebook =6.4.8 =pyha770c72_0
     - nspr =4.32 =hcd9eead_1
     - nss =3.74 =h31e2bf1_0
-    - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =h6e7aa92_1
     - openssl =1.1.1l =h0d85af4_0
     - packaging =21.3 =pyhd8ed1ab_0
@@ -221,14 +224,15 @@ requirements:
     - perl =5.32.1 =1_h0d85af4_perl5
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py_1003
-    - pillow =8.4.0 =py39he9bb72f_0
-    - pip =22.0.2 =pyhd8ed1ab_1
+    - pillow =9.0.0 =py39h768cb32_0
+    - pip =22.0.3 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
     - pkginfo =1.8.2 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py39h6e9494a_2
     - progressbar2 =4.0.0 =pyhd8ed1ab_0
     - prometheus_client =0.13.1 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.26 =pyha770c72_0
+    - pthread-stubs =0.4 =hc929b4f_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - py =1.11.0 =pyh6c4a22f_0
     - pycparser =2.21 =pyhd8ed1ab_0
@@ -305,7 +309,7 @@ requirements:
     - r-glue =1.6.1 =r41h28b5c78_0
     - r-googledrive =2.0.0 =r41hc72bb7e_0
     - r-googlesheets4 =1.0.0 =r41h785f33e_0
-    - r-gower =0.2.2 =r41h28b5c78_0
+    - r-gower =1.0.0 =r41h28b5c78_0
     - r-gtable =0.3.0 =r41hc72bb7e_3
     - r-haven =2.4.3 =r41h8a02945_0
     - r-hexbin =1.28.2 =r41h749f5a1_0
@@ -431,7 +435,7 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-apple-darwin =1.58.1 =h059895a_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =60.7.0 =py39h6e9494a_0
+    - setuptools =60.7.1 =py39h6e9494a_0
     - sigtool =0.1.3 =h57ddcff_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
@@ -462,6 +466,8 @@ requirements:
     - webencodings =0.5.1 =py_1
     - wheel =0.37.1 =pyhd8ed1ab_0
     - wurlitzer =3.0.2 =py39h6e9494a_1
+    - xorg-libxau =1.0.9 =h35c211d_0
+    - xorg-libxdmcp =1.1.3 =h35c211d_0
     - xz =5.2.5 =haf1e3a3_1
     - yaml =0.2.5 =h0d85af4_2
     - yarl =1.7.2 =py39h89e85a6_1

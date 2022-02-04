@@ -37,7 +37,7 @@ requirements:
     - spyder-terminal =1.2.1 =py38h578d9bd_0
     - sympy =1.9 =py38h578d9bd_1
 
-    # 250 secondary packages :
+    # 253 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - alabaster =0.7.12 =py_0
@@ -77,7 +77,7 @@ requirements:
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - diff-match-patch =20200713 =pyh9f0ad1d_0
     - docutils =0.17.1 =py38h578d9bd_1
-    - entrypoints =0.3 =pyhd8ed1ab_1003
+    - entrypoints =0.4 =pyhd8ed1ab_0
     - expat =2.4.4 =h9c3ff4c_0
     - flake8 =4.0.1 =pyhd8ed1ab_1
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -89,7 +89,9 @@ requirements:
     - fonts-conda-forge =1 =0
     - fonttools =4.29.1 =py38h497a2fe_0
     - freetype =2.10.4 =h0708190_1
+    - fribidi =1.0.10 =h36c2ea0_0
     - gettext =0.19.8.1 =h73d1719_1008
+    - giflib =5.2.1 =h36c2ea0_2
     - gmp =6.2.1 =h58526e2_0
     - gmpy2 =2.1.2 =py38h8384b0a_0
     - gst-plugins-base =1.18.5 =hf529b03_3
@@ -142,6 +144,7 @@ requirements:
     - libglib =2.70.2 =h174f98d_1
     - libgomp =11.2.0 =h1d223b6_12
     - libiconv =1.16 =h516909a_0
+    - libimagequant =2.17.0 =h7f98852_1
     - liblapack =3.9.0 =13_linux64_openblas
     - libllvm13 =13.0.0 =hf817b99_0
     - libnsl =2.0.0 =h7f98852_0
@@ -156,6 +159,7 @@ requirements:
     - libtiff =4.3.0 =h6f004c6_2
     - libuuid =2.32.1 =h7f98852_1000
     - libvorbis =1.3.7 =h9c3ff4c_0
+    - libwebp =1.2.2 =h3452ae3_0
     - libwebp-base =1.2.2 =h7f98852_1
     - libxcb =1.13 =h7f98852_1004
     - libxkbcommon =1.0.3 =he3ba5ed_0
@@ -183,7 +187,6 @@ requirements:
     - nspr =4.32 =h9c3ff4c_1
     - nss =3.74 =hb5efdd6_0
     - numpydoc =1.2 =pyhd8ed1ab_0
-    - olefile =0.46 =pyh9f0ad1d_1
     - openjpeg =2.4.0 =hb52868f_1
     - openssl =1.1.1l =h7f98852_0
     - packaging =21.3 =pyhd8ed1ab_0
@@ -194,8 +197,8 @@ requirements:
     - pcre =8.45 =h9c3ff4c_0
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py_1003
-    - pillow =8.4.0 =py38h8e6f84c_0
-    - pip =22.0.2 =pyhd8ed1ab_1
+    - pillow =9.0.0 =py38he2f12e7_0
+    - pip =22.0.3 =pyhd8ed1ab_0
     - platformdirs =2.3.0 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py38h578d9bd_2
     - poyo =0.5.0 =py_0
@@ -241,7 +244,7 @@ requirements:
     - rope =0.22.0 =pyhd8ed1ab_0
     - rtree =0.9.7 =py38h02d302b_3
     - secretstorage =3.3.1 =py38h578d9bd_1
-    - setuptools =60.7.0 =py38h578d9bd_0
+    - setuptools =60.7.1 =py38h578d9bd_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
