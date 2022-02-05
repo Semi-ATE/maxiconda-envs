@@ -35,7 +35,7 @@ requirements:
     - ipython =7.31.1 =py37hd9ded2f_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - matplotlib =3.5.1 =py37hd9ded2f_0
-    - numba =0.55.0 =py37h1951102_0
+    - numba =0.55.1 =py37h1951102_0
     - numpy =1.21.5 =py37h8c07229_0
     - openpyxl =3.0.9 =pyhd8ed1ab_0
     - paho-mqtt =1.6.0 =pyhd8ed1ab_0
@@ -43,7 +43,7 @@ requirements:
     - psutil =5.9.0 =py37hcd4c3ab_0
     - pydantic =1.9.0 =py37hcd4c3ab_0
     - pyqt =5.12.3 =py37hfd236b0_8
-    - pytest =6.2.5 =py37hd9ded2f_2
+    - pytest =7.0.0 =py37hd9ded2f_0
     - pyyaml =6.0 =py37hcd4c3ab_3
     - qdarkstyle =3.0.3 =pyhd8ed1ab_0
     - qtawesome =1.1.1 =pyhd8ed1ab_0
@@ -232,7 +232,7 @@ requirements:
     - perl =5.32.1 =1_hf897c2e_perl5
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py_1003
-    - pillow =9.0.0 =py37had6dad8_0
+    - pillow =9.0.1 =py37had6dad8_0
     - pip =22.0.3 =pyhd8ed1ab_0
     - pixman =0.40.0 =hb9de7d4_0
     - pluggy =1.0.0 =py37hd9ded2f_2
@@ -461,7 +461,7 @@ requirements:
     - testpath =0.5.0 =pyhd8ed1ab_0
     - tk =8.6.11 =hd8af866_1
     - tktable =2.10 =hcd05d48_3
-    - toml =0.10.2 =pyhd8ed1ab_0
+    - tomli =2.0.0 =pyhd8ed1ab_1
     - tornado =6.1 =py37hcd4c3ab_2
     - traitlets =5.1.1 =pyhd8ed1ab_0
     - typing-extensions =4.0.1 =hd8ed1ab_0

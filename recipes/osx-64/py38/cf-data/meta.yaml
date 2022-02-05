@@ -29,12 +29,12 @@ requirements:
     - bokeh =2.4.2 =py38h50d1736_0
     - lightgbm =3.3.2 =py38hffa2396_0
     - matplotlib =3.5.1 =py38h50d1736_0
-    - numpy =1.22.1 =py38h9d72dae_0
+    - numpy =1.22.2 =py38h9d72dae_0
     - pandas =1.4.0 =py38ha53d530_0
     - plotly =5.5.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py38h50d1736_1
-    - pytorch =1.10.1 =cpu_py38h2cb30f8_0
+    - pytorch =1.10.2 =cpu_py38h2cb30f8_0
     - scikit-learn =1.0.2 =py38h37f3bb3_0
     - scipy =1.7.3 =py38hd329d04_0
     - scrapy =2.5.1 =py38h50d1736_0
@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.13.1 =py38hbe852b5_0
     - xgboost =1.5.1 =py38hbb4f172_0
 
-    # 279 secondary packages :
+    # 280 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.7.6 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -68,7 +68,7 @@ requirements:
     - ca-certificates =2021.10.8 =h033912b_0
     - cairo =1.16.0 =he43a7df_1008
     - catalogue =2.0.6 =py38h50d1736_1
-    - catboost =1.0.4 =py38h50d1736_2
+    - catboost =1.0.4 =py38h50d1736_3
     - certifi =2021.10.8 =py38h50d1736_1
     - cffi =1.15.0 =py38h1a44b6c_0
     - charset-normalizer =2.0.11 =pyhd8ed1ab_0
@@ -229,7 +229,7 @@ requirements:
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - phik =0.12.0 =py38hf79be9d_1
     - pickleshare =0.7.5 =py_1003
-    - pillow =9.0.0 =py38h47ebe08_0
+    - pillow =9.0.1 =py38h47ebe08_0
     - pip =22.0.3 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
     - preshed =3.0.6 =py38ha048514_1
@@ -258,6 +258,7 @@ requirements:
     - pysocks =1.7.1 =py38h50d1736_4
     - python-cufflinks =0.17.3 =py_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
+    - python-graphviz =0.19.1 =pyhaef67bd_0
     - python_abi =3.8 =2_cp38
     - pytz =2021.3 =pyhd8ed1ab_0
     - pywavelets =1.2.0 =py38hbe852b5_1

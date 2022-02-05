@@ -36,14 +36,14 @@ requirements:
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - matplotlib =3.5.1 =py38haa244fe_0
     - numba =0.53.1 =py38h99fac5f_1
-    - numpy =1.22.1 =py38hcf66579_0
+    - numpy =1.22.2 =py38hcf66579_0
     - openpyxl =3.0.9 =pyhd8ed1ab_0
     - paho-mqtt =1.6.0 =pyhd8ed1ab_0
     - pandas =1.4.0 =py38h5d928e2_0
     - psutil =5.9.0 =py38h294d835_0
     - pydantic =1.9.0 =py38h294d835_0
     - pyqt =5.12.3 =py38haa244fe_8
-    - pytest =6.2.5 =py38haa244fe_2
+    - pytest =7.0.0 =py38haa244fe_0
     - pyyaml =6.0 =py38h294d835_3
     - qdarkstyle =3.0.3 =pyhd8ed1ab_0
     - qtawesome =1.1.1 =pyhd8ed1ab_0
@@ -192,7 +192,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
-    - pillow =9.0.0 =py38hd8e0db4_0
+    - pillow =9.0.1 =py38hd8e0db4_0
     - pip =22.0.3 =pyhd8ed1ab_0
     - pkginfo =1.8.2 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py38haa244fe_2
@@ -216,7 +216,7 @@ requirements:
     - python_abi =3.8 =2_cp38
     - pytz =2021.3 =pyhd8ed1ab_0
     - pywin32 =303 =py38h294d835_0
-    - pywinpty =2.0.1 =py38hd3f51b4_0
+    - pywinpty =2.0.2 =py38hd3f51b4_0
     - pyzmq =22.3.0 =py38h09162b1_1
     - qt =5.12.9 =h5909a2a_4
     - qtpy =2.0.1 =pyhd8ed1ab_0
@@ -418,7 +418,7 @@ requirements:
     - terminado =0.13.1 =py38haa244fe_0
     - testpath =0.5.0 =pyhd8ed1ab_0
     - tk =8.6.11 =h8ffe710_1
-    - toml =0.10.2 =pyhd8ed1ab_0
+    - tomli =2.0.0 =pyhd8ed1ab_1
     - tornado =6.1 =py38h294d835_2
     - traitlets =5.1.1 =pyhd8ed1ab_0
     - typing-extensions =4.0.1 =hd8ed1ab_0
