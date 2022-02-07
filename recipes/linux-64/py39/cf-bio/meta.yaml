@@ -32,7 +32,7 @@ requirements:
     - pandas =1.4.0 =py39hde0f152_0
     - pymol-open-source =2.5.0 =py39h20a8f2e_4
     - rdkit =2021.09.4 =py39hccf6a74_0
-    - scipy =1.7.3 =py39hee8e79c_0
+    - scipy =1.8.0 =py39hee8e79c_0
     - spyder-kernels =2.2.1 =py39hf3d152e_1
 
     # 179 secondary packages :
@@ -43,7 +43,7 @@ requirements:
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - boost =1.74.0 =py39h5472131_5
-    - boost-cpp =1.74.0 =h359cf19_6
+    - boost-cpp =1.74.0 =h6cacc03_7
     - brotli =1.0.9 =h7f98852_6
     - brotli-bin =1.0.9 =h7f98852_6
     - bzip2 =1.0.8 =h7f98852_4
