@@ -35,7 +35,7 @@ requirements:
     - scipy =1.8.0 =py39hc0c34ad_1
     - spyder-kernels =2.2.1 =py39hcbf5309_1
 
-    # 140 secondary packages :
+    # 138 secondary packages :
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -92,7 +92,6 @@ requirements:
     - libffi =3.4.2 =h8ffe710_5
     - libglib =2.70.2 =h3be07f2_2
     - libiconv =1.16 =he774522_0
-    - libimagequant =2.17.0 =hcfcfb64_1
     - liblapack =3.9.0 =13_win64_mkl
     - libnetcdf =4.7.4 =nompi_h3a9aa94_107
     - libpng =1.6.37 =h1d00b33_2
@@ -104,7 +103,6 @@ requirements:
     - libxcb =1.13 =hcd874cb_1004
     - libxml2 =2.9.12 =hf5bbc77_1
     - libzlib =1.2.11 =h8ffe710_1013
-    - llvm-openmp =12.0.1 =h2d74725_1
     - lz4-c =1.9.3 =h8ffe710_1
     - m2w64-gcc-libgfortran =5.3.0 =6
     - m2w64-gcc-libs =5.3.0 =7
@@ -128,11 +126,11 @@ requirements:
     - patsy =0.5.2 =pyhd8ed1ab_0
     - pcre =8.45 =h0e60522_0
     - pickleshare =0.7.5 =py_1003
-    - pillow =9.0.1 =py39ha53f419_0
+    - pillow =9.0.1 =py39ha53f419_1
     - pip =22.0.3 =pyhd8ed1ab_0
     - pixman =0.40.0 =h8ffe710_0
     - pmw =2.0.1 =py39hcbf5309_1004
-    - prompt-toolkit =3.0.26 =pyha770c72_0
+    - prompt-toolkit =3.0.27 =pyha770c72_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - pycairo =1.20.1 =py39h1f09dad_1
     - pygments =2.11.2 =pyhd8ed1ab_0

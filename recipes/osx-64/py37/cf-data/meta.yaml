@@ -31,7 +31,7 @@ requirements:
     - matplotlib =3.5.1 =py37hf985489_0
     - numpy =1.21.5 =py37h3c8089f_0
     - pandas =1.3.5 =py37h5b83a90_0
-    - plotly =5.5.0 =pyhd8ed1ab_0
+    - plotly =5.6.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py37hf985489_1
     - pytorch =1.10.2 =cpu_py37h3ff094a_0
@@ -187,7 +187,7 @@ requirements:
     - libxml2 =2.9.10 =h93ec3fd_4
     - libxslt =1.1.33 =h5739fc3_2
     - libzlib =1.2.11 =h9173be1_1013
-    - llvm-openmp =12.0.1 =hda6cdc1_1
+    - llvm-openmp =13.0.1 =hda6cdc1_0
     - llvmlite =0.38.0 =py37h62ea057_0
     - lxml =4.6.3 =py37h250624f_0
     - lz4-c =1.9.3 =he49afe7_1
@@ -229,14 +229,14 @@ requirements:
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - phik =0.12.0 =py37h6778b53_1
     - pickleshare =0.7.5 =py_1003
-    - pillow =9.0.1 =py37h942db99_0
+    - pillow =9.0.1 =py37h942db99_1
     - pip =22.0.3 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
     - preshed =3.0.6 =py37hd8d24ac_1
     - priority =1.3.0 =py_0
     - prometheus_client =0.13.1 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.18.7 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.26 =pyha770c72_0
+    - prompt-toolkit =3.0.27 =pyha770c72_0
     - protego =0.1.16 =py_0
     - protobuf =3.19.4 =py37hd8d24ac_0
     - pthread-stubs =0.4 =hc929b4f_1001
