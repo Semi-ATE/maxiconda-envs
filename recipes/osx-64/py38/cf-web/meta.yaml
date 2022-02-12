@@ -32,7 +32,7 @@ requirements:
     - requests =2.27.1 =pyhd8ed1ab_0
     - spyder-kernels =2.2.1 =py38h50d1736_1
     - sqlalchemy =1.4.31 =py38h96a0964_0
-    - twisted =21.7.0 =py38h96a0964_1
+    - twisted =22.1.0 =py38h96a0964_0
 
     # 76 secondary packages :
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -91,7 +91,7 @@ requirements:
     - pyzmq =22.3.0 =py38hd3b92b6_1
     - readline =8.1 =h05e3726_0
     - service_identity =18.1.0 =py_0
-    - setuptools =60.8.1 =py38h50d1736_0
+    - setuptools =60.8.2 =py38h50d1736_0
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.3.1 =pyhd8ed1ab_0
     - sqlite =3.37.0 =h23a322b_0

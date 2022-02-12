@@ -43,7 +43,7 @@ requirements:
     - psutil =5.9.0 =py38h9544abe_0
     - pydantic =1.9.0 =py38h9544abe_0
     - pyqt =5.12.3 =py38he3eb160_8
-    - pytest =7.0.0 =py38h2063c64_0
+    - pytest =7.0.1 =py38h2063c64_0
     - pyyaml =6.0 =py38h9544abe_3
     - qdarkstyle =3.0.3 =pyhd8ed1ab_0
     - qtawesome =1.1.1 =pyhd8ed1ab_0
@@ -136,7 +136,7 @@ requirements:
     - icu =69.1 =h3621d8e_0
     - idna =3.3 =pyhd8ed1ab_0
     - imagesize =1.3.0 =pyhd8ed1ab_0
-    - importlib-metadata =4.10.1 =py38h2063c64_0
+    - importlib-metadata =4.11.0 =py38h2063c64_0
     - importlib_resources =5.4.0 =pyhd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
     - ipykernel =6.9.0 =py38h82e0a02_0
@@ -182,7 +182,7 @@ requirements:
     - libopenblas =0.3.18 =pthreads_h775ce2d_0
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.37 =hbd635b3_2
-    - libpq =14.1 =h29fb33b_1
+    - libpq =14.2 =h29fb33b_0
     - libsanitizer =9.4.0 =h4d00405_12
     - libsodium =1.0.18 =hb9de7d4_1
     - libssh2 =1.10.0 =h1ab2c7b_2
@@ -212,7 +212,7 @@ requirements:
     - mysql-common =8.0.28 =h8af1aa0_0
     - mysql-libs =8.0.28 =ha3f2873_0
     - nbclient =0.5.10 =pyhd8ed1ab_1
-    - nbconvert =6.4.1 =py38he3eb160_0
+    - nbconvert =6.4.2 =py38he3eb160_0
     - nbformat =5.1.3 =pyhd8ed1ab_0
     - ncurses =6.2 =h7fd3ca4_4
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
@@ -443,7 +443,7 @@ requirements:
     - rust-std-aarch64-unknown-linux-gnu =1.58.1 =ha15b78c_0
     - sed =4.8 =ha0d5d3d_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =60.8.1 =py38h2063c64_0
+    - setuptools =60.8.2 =py38h2063c64_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
