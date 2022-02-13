@@ -28,13 +28,13 @@ requirements:
     - cython =0.29.27 =py38ha048514_0
     - matplotlib =3.5.1 =py38h50d1736_0
     - numpy =1.22.2 =py38h9d72dae_0
-    - pandas =1.4.0 =py38ha53d530_0
+    - pandas =1.4.1 =py38ha53d530_0
     - pydantic =1.9.0 =py38h96a0964_0
     - scipy =1.8.0 =py38hd329d04_1
     - semi-ate =0.1.29 =pyhd8ed1ab_0
     - spyder =5.2.2 =py38h50d1736_2
     - spyder-remote-client =0.0.25 =pyhd8ed1ab_0
-    - spyder-terminal =1.2.1 =py38h50d1736_0
+    - spyder-terminal =1.2.1 =py38h50d1736_1
     - sympy =1.9 =py38h50d1736_1
 
     # 231 secondary packages :
@@ -128,7 +128,7 @@ requirements:
     - libffi =3.4.2 =h0d85af4_5
     - libgfortran =5.0.0 =9_3_0_h6c81a4c_23
     - libgfortran5 =9.3.0 =h6c81a4c_23
-    - libglib =2.70.2 =hf1fb8c0_2
+    - libglib =2.70.2 =hf1fb8c0_3
     - libiconv =1.16 =haf1e3a3_0
     - libimagequant =2.17.0 =h9bde063_1
     - liblapack =3.9.0 =13_osx64_openblas

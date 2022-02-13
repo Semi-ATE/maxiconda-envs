@@ -39,7 +39,7 @@ requirements:
     - numpy =1.22.2 =py38h9d72dae_0
     - openpyxl =3.0.9 =pyhd8ed1ab_0
     - paho-mqtt =1.6.0 =pyhd8ed1ab_0
-    - pandas =1.4.0 =py38ha53d530_0
+    - pandas =1.4.1 =py38ha53d530_0
     - psutil =5.9.0 =py38h96a0964_0
     - pydantic =1.9.0 =py38h96a0964_0
     - pyqt =5.12.3 =py38h50d1736_8
@@ -61,7 +61,7 @@ requirements:
     - transitions =0.8.10 =pyhd8ed1ab_0
     - xmltodict =0.12.0 =py_0
 
-    # 413 secondary packages :
+    # 412 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.2.0 =pyhd8ed1ab_0
     - alabaster =0.7.12 =py_0
@@ -83,7 +83,7 @@ requirements:
     - c-ares =1.18.1 =h0d85af4_0
     - ca-certificates =2021.10.8 =h033912b_0
     - cairo =1.16.0 =he01c77b_1009
-    - cctools_osx-64 =973.0.1 =hb41342b_6
+    - cctools_osx-64 =973.0.1 =h609b070_7
     - certifi =2021.10.8 =py38h50d1736_1
     - cffi =1.15.0 =py38h1a44b6c_0
     - charset-normalizer =2.0.11 =pyhd8ed1ab_0
@@ -151,7 +151,7 @@ requirements:
     - kiwisolver =1.3.2 =py38h12bbefe_1
     - krb5 =1.19.2 =hcfbf3a7_3
     - lcms2 =2.12 =h577c468_0
-    - ld64_osx-64 =609 =hc6b1d1e_6
+    - ld64_osx-64 =609 =hc6b1d1e_7
     - lerc =3.0 =he49afe7_0
     - libblas =3.9.0 =13_osx64_openblas
     - libbrotlicommon =1.0.9 =h0d85af4_6
@@ -169,12 +169,11 @@ requirements:
     - libgfortran =5.0.0 =9_3_0_h6c81a4c_23
     - libgfortran-devel_osx-64 =9.3.0 =h6c81a4c_23
     - libgfortran5 =9.3.0 =h6c81a4c_23
-    - libglib =2.70.2 =hf1fb8c0_2
+    - libglib =2.70.2 =hf1fb8c0_3
     - libiconv =1.16 =haf1e3a3_0
     - libimagequant =2.17.0 =h9bde063_1
     - liblapack =3.9.0 =13_osx64_openblas
     - libllvm10 =10.0.1 =h009f743_3
-    - libllvm11 =11.1.0 =hd011deb_2
     - libllvm12 =12.0.1 =hd011deb_2
     - libllvm13 =13.0.1 =hd011deb_0
     - libnghttp2 =1.46.0 =h6f36284_0
