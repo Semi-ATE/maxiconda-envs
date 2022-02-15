@@ -93,7 +93,7 @@ requirements:
     - libcblas =3.9.0 =13_osx64_openblas
     - libcurl =7.81.0 =h97da3c1_0
     - libcxx =12.0.1 =habf9029_1
-    - libdeflate =1.8 =h0d85af4_0
+    - libdeflate =1.10 =h0d85af4_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =haf1e3a3_1
     - libffi =3.4.2 =h0d85af4_5
@@ -109,7 +109,7 @@ requirements:
     - libpng =1.6.37 =h7cec526_2
     - libsodium =1.0.18 =hbcb3906_1
     - libssh2 =1.10.0 =hd3787cc_2
-    - libtiff =4.3.0 =hd146c10_2
+    - libtiff =4.3.0 =h17f2ce3_3
     - libwebp =1.2.2 =h28dabe5_0
     - libwebp-base =1.2.2 =h0d85af4_1
     - libxcb =1.13 =h0d85af4_1004
@@ -153,7 +153,7 @@ requirements:
     - scikit-learn =1.0.2 =py38h37f3bb3_0
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
-    - setuptools =60.8.2 =py38h50d1736_0
+    - setuptools =60.9.0 =py38h50d1736_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.31 =py38h96a0964_0
     - sqlite =3.37.0 =h23a322b_0

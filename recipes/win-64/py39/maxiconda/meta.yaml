@@ -82,7 +82,7 @@ requirements:
     - ca-certificates =2021.10.8 =h5b45459_0
     - certifi =2021.10.8 =py39hcbf5309_1
     - cffi =1.15.0 =py39h0878f49_0
-    - charset-normalizer =2.0.11 =pyhd8ed1ab_0
+    - charset-normalizer =2.0.12 =pyhd8ed1ab_0
     - click =8.0.3 =py39hcbf5309_1
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
@@ -127,13 +127,13 @@ requirements:
     - libbrotlienc =1.0.9 =h8ffe710_6
     - libcblas =3.9.0 =8_mkl
     - libclang =11.1.0 =default_h5c34c98_1
-    - libdeflate =1.8 =h8ffe710_0
+    - libdeflate =1.10 =h8ffe710_0
     - libffi =3.4.2 =h8ffe710_5
     - libiconv =1.16 =he774522_0
     - liblapack =3.9.0 =8_mkl
     - libpng =1.6.37 =h1d00b33_2
     - libsodium =1.0.18 =h8d14728_1
-    - libtiff =4.3.0 =hd413186_2
+    - libtiff =4.3.0 =hc4061b1_3
     - libwebp =1.2.2 =h57928b3_0
     - libwebp-base =1.2.2 =h8ffe710_1
     - libxcb =1.13 =hcd874cb_1004
@@ -236,14 +236,14 @@ requirements:
     - r-caret =6.0_90 =r41h6d2157b_0
     - r-cellranger =1.1.0 =r41hc72bb7e_1004
     - r-class =7.3_20 =r41h6d2157b_0
-    - r-cli =3.1.1 =r41ha856d6a_0
+    - r-cli =3.2.0 =r41ha856d6a_0
     - r-clipr =0.7.1 =r41hc72bb7e_0
     - r-cluster =2.1.2 =r41he816bda_0
     - r-codetools =0.2_18 =r41hc72bb7e_0
     - r-colorspace =2.0_2 =r41h6d2157b_0
     - r-commonmark =1.7 =r41h6d2157b_1002
     - r-cpp11 =0.4.2 =r41hc72bb7e_0
-    - r-crayon =1.4.2 =r41hc72bb7e_0
+    - r-crayon =1.5.0 =r41hc72bb7e_0
     - r-crul =1.2.0 =r41h785f33e_0
     - r-curl =4.3.2 =r41h6d2157b_0
     - r-data.table =1.14.2 =r41h6d2157b_0
@@ -402,7 +402,7 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-pc-windows-msvc =1.58.1 =h69312b4_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =60.8.2 =py39hcbf5309_0
+    - setuptools =60.9.0 =py39hcbf5309_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
@@ -421,8 +421,8 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.1 =py39hb82d6ee_2
     - traitlets =5.1.1 =pyhd8ed1ab_0
-    - typing-extensions =4.0.1 =hd8ed1ab_0
-    - typing_extensions =4.0.1 =pyha770c72_0
+    - typing-extensions =4.1.1 =hd8ed1ab_0
+    - typing_extensions =4.1.1 =pyha770c72_0
     - tzdata =2021e =he74cb21_0
     - ucrt =10.0.20348.0 =h57928b3_0
     - unicodedata2 =14.0.0 =py39hb82d6ee_0

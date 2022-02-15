@@ -61,7 +61,7 @@ requirements:
     - certifi =2021.10.8 =py37h03978a9_1
     - cffi =1.15.0 =py37hd8e9650_0
     - chardet =4.0.0 =py37h03978a9_2
-    - charset-normalizer =2.0.11 =pyhd8ed1ab_0
+    - charset-normalizer =2.0.12 =pyhd8ed1ab_0
     - click =8.0.3 =py37h03978a9_1
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
@@ -117,12 +117,12 @@ requirements:
     - libbrotlienc =1.0.9 =h8ffe710_6
     - libcblas =3.9.0 =13_win64_mkl
     - libclang =11.1.0 =default_h5c34c98_1
-    - libdeflate =1.8 =h8ffe710_0
+    - libdeflate =1.10 =h8ffe710_0
     - liblapack =3.9.0 =13_win64_mkl
     - libpng =1.6.37 =h1d00b33_2
     - libsodium =1.0.18 =h8d14728_1
     - libspatialindex =1.9.3 =h39d44d4_4
-    - libtiff =4.3.0 =hd413186_2
+    - libtiff =4.3.0 =hc4061b1_3
     - libwebp =1.2.2 =h57928b3_0
     - libwebp-base =1.2.2 =h8ffe710_1
     - libxcb =1.13 =hcd874cb_1004
@@ -235,8 +235,8 @@ requirements:
     - tornado =6.1 =py37hcc03f2d_2
     - traitlets =5.1.1 =pyhd8ed1ab_0
     - typed-ast =1.5.2 =py37hcc03f2d_0
-    - typing-extensions =4.0.1 =hd8ed1ab_0
-    - typing_extensions =4.0.1 =pyha770c72_0
+    - typing-extensions =4.1.1 =hd8ed1ab_0
+    - typing_extensions =4.1.1 =pyha770c72_0
     - ucrt =10.0.20348.0 =h57928b3_0
     - ujson =5.1.0 =py37hf2a7229_0
     - unicodedata2 =14.0.0 =py37hcc03f2d_0

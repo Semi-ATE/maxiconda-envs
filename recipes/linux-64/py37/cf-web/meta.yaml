@@ -49,7 +49,7 @@ requirements:
     - ca-certificates =2021.10.8 =ha878542_0
     - certifi =2021.10.8 =py37h89c1867_1
     - cffi =1.15.0 =py37h036bc23_0
-    - charset-normalizer =2.0.11 =pyhd8ed1ab_0
+    - charset-normalizer =2.0.12 =pyhd8ed1ab_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - cryptography =36.0.1 =py37hf1a17b8_0
@@ -97,7 +97,7 @@ requirements:
     - pyzmq =22.3.0 =py37h336d617_1
     - readline =8.1 =h46c0cb4_0
     - service_identity =18.1.0 =py_0
-    - setuptools =60.8.2 =py37h89c1867_0
+    - setuptools =60.9.0 =py37h89c1867_0
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.3.1 =pyhd8ed1ab_0
     - sqlite =3.37.0 =h9cd32fc_0
@@ -105,8 +105,8 @@ requirements:
     - tk =8.6.11 =h27826a3_1
     - tornado =6.1 =py37h5e8e339_2
     - traitlets =5.1.1 =pyhd8ed1ab_0
-    - typing-extensions =4.0.1 =hd8ed1ab_0
-    - typing_extensions =4.0.1 =pyha770c72_0
+    - typing-extensions =4.1.1 =hd8ed1ab_0
+    - typing_extensions =4.1.1 =pyha770c72_0
     - urllib3 =1.26.8 =pyhd8ed1ab_1
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.37.1 =pyhd8ed1ab_0
