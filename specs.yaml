@@ -79,6 +79,7 @@ environments:
     - transitions
     - aiohttp
     - aiomqtt
+    - pyserial
     
   cf-ate:
     - spyder-kernels
