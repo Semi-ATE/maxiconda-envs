@@ -42,7 +42,7 @@ requirements:
     - sqlalchemy =1.4.31 =py38h294d835_0
     - sqlite =3.37.0 =h8ffe710_0
     - statsmodels =0.13.2 =py38h6f4d8f0_0
-    - xgboost =1.5.1 =py38haa244fe_0
+    - xgboost =1.5.1 =cpu_py38hc22ac66_1
 
     # 292 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
@@ -93,7 +93,7 @@ requirements:
     - docker-pycreds =0.4.0 =py_0
     - entrypoints =0.4 =pyhd8ed1ab_0
     - expat =2.4.4 =h39d44d4_0
-    - flask =2.0.2 =pyhd8ed1ab_0
+    - flask =2.0.3 =pyhd8ed1ab_0
     - flit-core =3.6.0 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -126,7 +126,7 @@ requirements:
     - idna =3.3 =pyhd8ed1ab_0
     - imagehash =4.2.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.9.0 =pyhd8ed1ab_0
-    - importlib-metadata =4.11.0 =py38haa244fe_0
+    - importlib-metadata =4.11.1 =py38haa244fe_0
     - importlib_resources =5.4.0 =pyhd8ed1ab_0
     - incremental =21.3.0 =pyhd8ed1ab_0
     - intel-openmp =2022.0.0 =h57928b3_3663
@@ -172,7 +172,7 @@ requirements:
     - libwebp =1.2.2 =h57928b3_0
     - libwebp-base =1.2.2 =h8ffe710_1
     - libxcb =1.13 =hcd874cb_1004
-    - libxgboost =1.5.1 =h0e60522_0
+    - libxgboost =1.5.1 =cpu_h110a20b_1
     - libxml2 =2.9.10 =hf5bbc77_4
     - libxslt =1.1.33 =h65864e5_2
     - libzlib =1.2.11 =h8ffe710_1013
@@ -197,7 +197,7 @@ requirements:
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.6 =py38h885f38d_2
-    - nbclient =0.5.10 =pyhd8ed1ab_1
+    - nbclient =0.5.11 =pyhd8ed1ab_0
     - nbconvert =6.4.2 =py38haa244fe_0
     - nbformat =5.1.3 =pyhd8ed1ab_0
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
@@ -231,7 +231,7 @@ requirements:
     - protego =0.1.16 =py_0
     - protobuf =3.19.4 =py38h885f38d_0
     - pthread-stubs =0.4 =hcd874cb_1001
-    - py-xgboost =1.5.1 =py38haa244fe_0
+    - py-xgboost =1.5.1 =cpu_py38hc22ac66_1
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -270,7 +270,7 @@ requirements:
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - service_identity =18.1.0 =py_0
-    - setuptools =60.9.0 =py38haa244fe_0
+    - setuptools =60.9.1 =py38haa244fe_0
     - shellingham =1.4.0 =pyh44b312d_0
     - six =1.16.0 =pyh6c4a22f_0
     - smart_open =5.2.1 =pyhd8ed1ab_0

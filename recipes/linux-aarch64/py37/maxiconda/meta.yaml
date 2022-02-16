@@ -24,7 +24,7 @@ requirements:
   run:
     - python =3.7.12 =h9f07fca_100_cpython
 
-    # 35 primary packages :
+    # 36 primary packages :
     - aiohttp =3.8.1 =py37hcd4c3ab_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -43,6 +43,7 @@ requirements:
     - psutil =5.9.0 =py37hcd4c3ab_0
     - pydantic =1.9.0 =py37hcd4c3ab_0
     - pyqt =5.12.3 =py37hfd236b0_8
+    - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =7.0.1 =py37hd9ded2f_0
     - pyyaml =6.0 =py37hcd4c3ab_3
     - qdarkstyle =3.0.3 =pyhd8ed1ab_0
@@ -136,8 +137,8 @@ requirements:
     - icu =69.1 =h3621d8e_0
     - idna =3.3 =pyhd8ed1ab_0
     - imagesize =1.3.0 =pyhd8ed1ab_0
-    - importlib-metadata =4.11.0 =py37hd9ded2f_0
-    - importlib_metadata =4.11.0 =hd8ed1ab_0
+    - importlib-metadata =4.11.1 =py37hd9ded2f_0
+    - importlib_metadata =4.11.1 =hd8ed1ab_0
     - importlib_resources =5.4.0 =pyhd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
     - ipykernel =6.9.0 =py37heac6637_0
@@ -212,7 +213,7 @@ requirements:
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mysql-common =8.0.28 =h8af1aa0_0
     - mysql-libs =8.0.28 =ha3f2873_0
-    - nbclient =0.5.10 =pyhd8ed1ab_1
+    - nbclient =0.5.11 =pyhd8ed1ab_0
     - nbconvert =6.4.2 =py37hfd236b0_0
     - nbformat =5.1.3 =pyhd8ed1ab_0
     - ncurses =6.2 =h7fd3ca4_4

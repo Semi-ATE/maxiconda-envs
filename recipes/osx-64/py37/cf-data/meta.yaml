@@ -43,7 +43,7 @@ requirements:
     - sqlalchemy =1.4.31 =py37h271585c_0
     - sqlite =3.37.0 =h23a322b_0
     - statsmodels =0.13.2 =py37h032687b_0
-    - xgboost =1.5.1 =py37h3f6e5c9_0
+    - xgboost =1.5.1 =cpu_py37haa29005_1
 
     # 280 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
@@ -96,7 +96,7 @@ requirements:
     - docker-pycreds =0.4.0 =py_0
     - entrypoints =0.4 =pyhd8ed1ab_0
     - expat =2.4.4 =he49afe7_0
-    - flask =2.0.2 =pyhd8ed1ab_0
+    - flask =2.0.3 =pyhd8ed1ab_0
     - flit-core =3.6.0 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -132,7 +132,7 @@ requirements:
     - idna =3.3 =pyhd8ed1ab_0
     - imagehash =4.2.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.9.0 =pyhd8ed1ab_0
-    - importlib-metadata =4.11.0 =py37hf985489_0
+    - importlib-metadata =4.11.1 =py37hf985489_0
     - importlib_resources =5.4.0 =pyhd8ed1ab_0
     - incremental =21.3.0 =pyhd8ed1ab_0
     - ipykernel =6.9.0 =py37h4c52d7d_0
@@ -183,7 +183,7 @@ requirements:
     - libwebp =1.2.2 =h28dabe5_0
     - libwebp-base =1.2.2 =h0d85af4_1
     - libxcb =1.13 =h0d85af4_1004
-    - libxgboost =1.5.1 =h4a89273_0
+    - libxgboost =1.5.1 =cpu_h598c753_1
     - libxml2 =2.9.10 =h93ec3fd_4
     - libxslt =1.1.33 =h5739fc3_2
     - libzlib =1.2.11 =h9173be1_1013
@@ -203,7 +203,7 @@ requirements:
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.6 =py37hd8d24ac_2
-    - nbclient =0.5.10 =pyhd8ed1ab_1
+    - nbclient =0.5.11 =pyhd8ed1ab_0
     - nbconvert =6.4.2 =py37hf985489_0
     - nbformat =5.1.3 =pyhd8ed1ab_0
     - ncurses =6.3 =he49afe7_0
@@ -241,7 +241,7 @@ requirements:
     - protobuf =3.19.4 =py37hd8d24ac_0
     - pthread-stubs =0.4 =hc929b4f_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - py-xgboost =1.5.1 =py37hf985489_0
+    - py-xgboost =1.5.1 =cpu_py37h5be20f2_1
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
