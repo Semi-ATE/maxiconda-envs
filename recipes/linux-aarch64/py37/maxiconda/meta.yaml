@@ -78,7 +78,7 @@ requirements:
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - binutils_impl_linux-aarch64 =2.36.1 =h026399b_2
-    - binutils_linux-aarch64 =2.36 =h7854541_4
+    - binutils_linux-aarch64 =2.36 =h7854541_5
     - bleach =4.1.0 =pyhd8ed1ab_0
     - brotli =1.0.9 =hf897c2e_6
     - brotli-bin =1.0.9 =hf897c2e_6
@@ -118,10 +118,10 @@ requirements:
     - fribidi =1.0.10 =hb9de7d4_0
     - frozenlist =1.3.0 =py37hcd4c3ab_0
     - gcc_impl_linux-aarch64 =9.4.0 =h603953f_12
-    - gcc_linux-aarch64 =9.4.0 =h9fa865e_4
+    - gcc_linux-aarch64 =9.4.0 =h9fa865e_5
     - gettext =0.19.8.1 =h6edf1e2_1008
     - gfortran_impl_linux-aarch64 =9.4.0 =h54cdb55_12
-    - gfortran_linux-aarch64 =9.4.0 =h02353c8_4
+    - gfortran_linux-aarch64 =9.4.0 =h02353c8_5
     - giflib =5.2.1 =hb9de7d4_2
     - git =2.35.0 =pl5321h063bab8_0
     - gmp =6.2.1 =h7fd3ca4_0
@@ -132,7 +132,7 @@ requirements:
     - gst-plugins-base =1.18.5 =h227fc8a_3
     - gstreamer =1.18.5 =h01406a2_3
     - gxx_impl_linux-aarch64 =9.4.0 =h603953f_12
-    - gxx_linux-aarch64 =9.4.0 =h1e24722_4
+    - gxx_linux-aarch64 =9.4.0 =h1e24722_5
     - harfbuzz =3.4.0 =h046a1c0_0
     - icu =69.1 =h3621d8e_0
     - idna =3.3 =pyhd8ed1ab_0
@@ -141,14 +141,14 @@ requirements:
     - importlib_metadata =4.11.1 =hd8ed1ab_0
     - importlib_resources =5.4.0 =pyhd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
-    - ipykernel =6.9.0 =py37heac6637_0
+    - ipykernel =6.9.1 =py37heac6637_0
     - ipython_genutils =0.2.0 =py_1
     - jbig =2.1 =hf897c2e_2003
     - jedi =0.18.1 =py37hd9ded2f_0
     - jpeg =9e =h3557bc0_0
     - jsonschema =4.4.0 =pyhd8ed1ab_0
     - jupyter_client =7.1.2 =pyhd8ed1ab_0
-    - jupyter_core =4.9.1 =py37hfd236b0_1
+    - jupyter_core =4.9.2 =py37hfd236b0_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
     - kernel-headers_linux-aarch64 =4.18.0 =h5b4a56d_13
     - kiwisolver =1.3.2 =py37h7ed3beb_1
@@ -418,7 +418,7 @@ requirements:
     - r-tidyselect =1.1.1 =r41h4da3e95_0
     - r-tidyverse =1.3.1 =r41hc72bb7e_0
     - r-timedate =3043.102 =r41hc72bb7e_1002
-    - r-tinytex =0.36 =r41hc72bb7e_0
+    - r-tinytex =0.37 =r41hc72bb7e_0
     - r-triebeard =0.3.0 =r41h01db608_1003
     - r-ttr =0.24.3 =r41h96a179c_0
     - r-tzdb =0.2.0 =r41hecdc70b_0
@@ -460,7 +460,7 @@ requirements:
     - sysroot_linux-aarch64 =2.17 =h43d7e78_13
     - terminado =0.13.1 =py37hd9ded2f_0
     - testpath =0.5.0 =pyhd8ed1ab_0
-    - tk =8.6.11 =hd8af866_1
+    - tk =8.6.12 =hd8af866_0
     - tktable =2.10 =hcd05d48_3
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.1 =py37hcd4c3ab_2
