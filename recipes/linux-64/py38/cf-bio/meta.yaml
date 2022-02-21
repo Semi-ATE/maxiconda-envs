@@ -35,7 +35,7 @@ requirements:
     - scipy =1.8.0 =py38h56a6a73_1
     - spyder-kernels =2.2.1 =py38h578d9bd_1
 
-    # 178 secondary packages :
+    # 176 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - alsa-lib =1.2.3 =h516909a_0
@@ -70,7 +70,6 @@ requirements:
     - fonts-conda-forge =1 =0
     - fonttools =4.29.1 =py38h497a2fe_0
     - freetype =2.10.4 =h0708190_1
-    - fribidi =1.0.10 =h36c2ea0_0
     - gettext =0.19.8.1 =h73d1719_1008
     - giflib =5.2.1 =h36c2ea0_2
     - glew =2.1.0 =h9c3ff4c_2
@@ -115,7 +114,6 @@ requirements:
     - libglu =9.0.0 =he1b5a44_1001
     - libgomp =11.2.0 =h1d223b6_12
     - libiconv =1.16 =h516909a_0
-    - libimagequant =2.17.0 =h7f98852_1
     - liblapack =3.9.0 =13_linux64_openblas
     - libllvm13 =13.0.1 =hf817b99_0
     - libnetcdf =4.7.4 =nompi_h56d31a8_107
@@ -160,7 +158,7 @@ requirements:
     - pcre =8.45 =h9c3ff4c_0
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py_1003
-    - pillow =9.0.1 =py38he2f12e7_1
+    - pillow =9.0.1 =py38h0ee0e06_2
     - pip =22.0.3 =pyhd8ed1ab_0
     - pixman =0.40.0 =h36c2ea0_0
     - pmw =2.0.1 =py38h578d9bd_1004

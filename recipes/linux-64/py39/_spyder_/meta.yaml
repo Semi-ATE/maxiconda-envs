@@ -37,7 +37,7 @@ requirements:
     - spyder-terminal =1.2.1 =py39hf3d152e_1
     - sympy =1.9 =py39hf3d152e_1
 
-    # 255 secondary packages :
+    # 253 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - alabaster =0.7.12 =py_0
@@ -90,7 +90,6 @@ requirements:
     - fonts-conda-forge =1 =0
     - fonttools =4.29.1 =py39h3811e60_0
     - freetype =2.10.4 =h0708190_1
-    - fribidi =1.0.10 =h36c2ea0_0
     - gettext =0.19.8.1 =h73d1719_1008
     - giflib =5.2.1 =h36c2ea0_2
     - gmp =6.2.1 =h58526e2_0
@@ -145,7 +144,6 @@ requirements:
     - libglib =2.70.2 =h174f98d_4
     - libgomp =11.2.0 =h1d223b6_12
     - libiconv =1.16 =h516909a_0
-    - libimagequant =2.17.0 =h7f98852_1
     - liblapack =3.9.0 =13_linux64_openblas
     - libllvm13 =13.0.1 =hf817b99_0
     - libnsl =2.0.0 =h7f98852_0
@@ -198,7 +196,7 @@ requirements:
     - pcre =8.45 =h9c3ff4c_0
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py_1003
-    - pillow =9.0.1 =py39he69867a_1
+    - pillow =9.0.1 =py39hae2aec6_2
     - pip =22.0.3 =pyhd8ed1ab_0
     - platformdirs =2.5.1 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py39hf3d152e_2
@@ -275,7 +273,7 @@ requirements:
     - tzdata =2021e =he74cb21_0
     - ujson =5.1.0 =py39he80948d_0
     - unicodedata2 =14.0.0 =py39h3811e60_0
-    - unidecode =1.3.2 =pyhd8ed1ab_0
+    - unidecode =1.3.3 =pyhd8ed1ab_0
     - urllib3 =1.26.8 =pyhd8ed1ab_1
     - watchdog =2.1.6 =py39hf3d152e_1
     - wcwidth =0.2.5 =pyh9f0ad1d_2

@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.13.2 =py37h032687b_0
     - xgboost =1.5.1 =cpu_py37haa29005_2
 
-    # 280 secondary packages :
+    # 279 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.7.6 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -171,7 +171,6 @@ requirements:
     - libgfortran5 =9.3.0 =h6c81a4c_23
     - libglib =2.70.2 =hf1fb8c0_4
     - libiconv =1.16 =haf1e3a3_0
-    - libimagequant =2.17.0 =h9bde063_1
     - liblapack =3.9.0 =13_osx64_mkl
     - libllvm11 =11.1.0 =hd011deb_3
     - libpng =1.6.37 =h7cec526_2
@@ -229,7 +228,7 @@ requirements:
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - phik =0.12.0 =py37h6778b53_1
     - pickleshare =0.7.5 =py_1003
-    - pillow =9.0.1 =py37h942db99_1
+    - pillow =9.0.1 =py37h2540ef4_2
     - pip =22.0.3 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
     - preshed =3.0.6 =py37hd8d24ac_1

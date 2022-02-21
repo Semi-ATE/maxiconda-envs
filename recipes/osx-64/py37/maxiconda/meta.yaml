@@ -62,7 +62,7 @@ requirements:
     - transitions =0.8.10 =pyhd8ed1ab_0
     - xmltodict =0.12.0 =py_0
 
-    # 412 secondary packages :
+    # 411 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.2.0 =pyhd8ed1ab_0
     - alabaster =0.7.12 =py_0
@@ -173,7 +173,6 @@ requirements:
     - libgfortran5 =9.3.0 =h6c81a4c_23
     - libglib =2.70.2 =hf1fb8c0_4
     - libiconv =1.16 =haf1e3a3_0
-    - libimagequant =2.17.0 =h9bde063_1
     - liblapack =3.9.0 =13_osx64_openblas
     - libllvm11 =11.1.0 =hd011deb_3
     - libllvm12 =12.0.1 =hd011deb_2
@@ -226,7 +225,7 @@ requirements:
     - perl =5.32.1 =2_h0d85af4_perl5
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py_1003
-    - pillow =9.0.1 =py37h942db99_1
+    - pillow =9.0.1 =py37h2540ef4_2
     - pip =22.0.3 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
     - pluggy =1.0.0 =py37hf985489_2
@@ -299,7 +298,7 @@ requirements:
     - r-foreign =0.8_82 =r41h28b5c78_0
     - r-formatr =1.11 =r41hc72bb7e_0
     - r-fs =1.5.2 =r41h9951f98_0
-    - r-future =1.23.0 =r41hc72bb7e_0
+    - r-future =1.24.0 =r41hc72bb7e_0
     - r-future.apply =1.8.1 =r41hc72bb7e_0
     - r-gargle =1.2.0 =r41hc72bb7e_0
     - r-generics =0.1.2 =r41hc72bb7e_0
