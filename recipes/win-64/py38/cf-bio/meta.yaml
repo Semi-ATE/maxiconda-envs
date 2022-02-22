@@ -35,7 +35,7 @@ requirements:
     - scipy =1.8.0 =py38ha1292f7_1
     - spyder-kernels =2.2.1 =py38haa244fe_1
 
-    # 136 secondary packages :
+    # 137 secondary packages :
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -62,7 +62,7 @@ requirements:
     - glew =2.1.0 =h39d44d4_2
     - glm =0.9.9.4 =h1ad3211_0
     - greenlet =1.1.2 =py38h885f38d_1
-    - griddataformats =0.6.0 =pyhd8ed1ab_0
+    - griddataformats =0.7.0 =pyhd8ed1ab_0
     - gsd =2.5.1 =py38h6f4d8f0_0
     - hdf4 =4.2.15 =h0e5069d_3
     - hdf5 =1.10.6 =nompi_h5268f04_1114
@@ -112,6 +112,7 @@ requirements:
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mkl =2022.0.0 =h0e2418a_796
     - mmtf-python =1.1.2 =py_0
+    - mrcfile =1.3.0 =pyh44b312d_0
     - msgpack-python =1.0.3 =py38hbd9d945_0
     - msys2-conda-epoch =20160418 =1
     - munkres =1.1.4 =pyh9f0ad1d_0
