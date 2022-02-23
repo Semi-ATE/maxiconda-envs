@@ -58,7 +58,7 @@ requirements:
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - bcrypt =3.2.0 =py37hcc03f2d_2
     - bleach =4.1.0 =pyhd8ed1ab_0
-    - bottleneck =1.3.2 =py37hec80d1f_5
+    - bottleneck =1.3.4 =py37hec80d1f_0
     - brotli =1.0.9 =h8ffe710_6
     - brotli-bin =1.0.9 =h8ffe710_6
     - brotlipy =0.7.0 =py37hcc03f2d_1003
@@ -92,7 +92,7 @@ requirements:
     - docker-py =5.0.3 =py37h03978a9_2
     - docker-pycreds =0.4.0 =py_0
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - expat =2.4.4 =h39d44d4_0
+    - expat =2.4.6 =h39d44d4_0
     - flask =2.0.3 =pyhd8ed1ab_0
     - flit-core =3.6.0 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -111,7 +111,7 @@ requirements:
     - getopt-win32 =0.1 =h8ffe710_0
     - gettext =0.19.8.1 =ha2e2712_1008
     - gitdb =4.0.9 =pyhd8ed1ab_0
-    - gitpython =3.1.26 =pyhd8ed1ab_0
+    - gitpython =3.1.27 =pyhd8ed1ab_0
     - graphite2 =1.3.13 =1000
     - graphviz =2.50.0 =hefbd956_1
     - greenlet =1.1.2 =py37hf2a7229_1
