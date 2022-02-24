@@ -13,7 +13,7 @@ matrix:
     linux-aarch64_py37: ['maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
     #linux-aarch64_pypy37: ['maxiconda']
     linux-aarch64_py38: ['maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
-    linux-aarch64_py39: ['maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+    linux-aarch64_py39: ['maxiconda', '_spyder_trial_', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
   osx-64:
     osx-64_py37: ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
     #osx-64_pypy37: ['maxiconda']
@@ -40,6 +40,22 @@ environments:
     - sympy
     # to be removed, dependency problem with semi-ate
     - pydantic
+
+  _spyder_trial_:
+    - pyqt
+    - qt-main
+    - qt-webengine
+    - spyder
+    - spyder-terminal
+    - spyder-screencast
+    - spyder-remote-client
+    - semi-ate
+    - cython
+    - matplotlib
+    - numpy
+    - pandas
+    - scipy
+    - sympy
 
   maxiconda:
     - spyder-kernels
