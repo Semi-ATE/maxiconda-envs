@@ -59,7 +59,7 @@ requirements:
     - sqlite =3.37.0 =hc164836_0
     - sympy =1.9 =py37hfd236b0_1
     - tqdm =4.62.3 =pyhd8ed1ab_0
-    - transitions =0.8.10 =pyhd8ed1ab_0
+    - transitions =0.8.11 =pyhd8ed1ab_0
     - xmltodict =0.12.0 =py_0
 
     # 429 secondary packages :
@@ -78,7 +78,7 @@ requirements:
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - binutils_impl_linux-aarch64 =2.36.1 =h026399b_2
-    - binutils_linux-aarch64 =2.36 =h7854541_5
+    - binutils_linux-aarch64 =2.36 =h7854541_6
     - bleach =4.1.0 =pyhd8ed1ab_0
     - brotli =1.0.9 =hf897c2e_6
     - brotli-bin =1.0.9 =hf897c2e_6
@@ -118,10 +118,10 @@ requirements:
     - fribidi =1.0.10 =hb9de7d4_0
     - frozenlist =1.3.0 =py37hcd4c3ab_0
     - gcc_impl_linux-aarch64 =9.4.0 =h603953f_12
-    - gcc_linux-aarch64 =9.4.0 =h9fa865e_5
+    - gcc_linux-aarch64 =9.4.0 =h9fa865e_6
     - gettext =0.19.8.1 =h6edf1e2_1008
     - gfortran_impl_linux-aarch64 =9.4.0 =h54cdb55_12
-    - gfortran_linux-aarch64 =9.4.0 =h02353c8_5
+    - gfortran_linux-aarch64 =9.4.0 =h02353c8_6
     - giflib =5.2.1 =hb9de7d4_2
     - git =2.35.0 =pl5321h063bab8_0
     - gmp =6.2.1 =h7fd3ca4_0
@@ -132,7 +132,7 @@ requirements:
     - gst-plugins-base =1.18.5 =h227fc8a_3
     - gstreamer =1.18.5 =h01406a2_3
     - gxx_impl_linux-aarch64 =9.4.0 =h603953f_12
-    - gxx_linux-aarch64 =9.4.0 =h1e24722_5
+    - gxx_linux-aarch64 =9.4.0 =h1e24722_6
     - harfbuzz =3.4.0 =h046a1c0_0
     - icu =69.1 =h3621d8e_0
     - idna =3.3 =pyhd8ed1ab_0
@@ -314,7 +314,7 @@ requirements:
     - r-gistr =0.9.0 =r41hc72bb7e_0
     - r-glmnet =4.1_2 =r41h6fc6016_0
     - r-globals =0.14.0 =r41hc72bb7e_0
-    - r-glue =1.6.1 =r41h96a179c_0
+    - r-glue =1.6.2 =r41hc7730c6_0
     - r-googledrive =2.0.0 =r41hc72bb7e_0
     - r-googlesheets4 =1.0.0 =r41h785f33e_0
     - r-gower =1.0.0 =r41h96a179c_0
@@ -459,7 +459,7 @@ requirements:
     - stdlib-list =0.7.0 =py_2
     - sysroot_linux-aarch64 =2.17 =h43d7e78_13
     - terminado =0.13.1 =py37hd9ded2f_0
-    - testpath =0.5.0 =pyhd8ed1ab_0
+    - testpath =0.6.0 =pyhd8ed1ab_0
     - tk =8.6.12 =hd8af866_0
     - tktable =2.10 =hcd05d48_3
     - tomli =2.0.1 =pyhd8ed1ab_0
