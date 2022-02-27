@@ -241,7 +241,7 @@ class Maxiconda:
                 
         return retval
 
-    def _run_solver(self, PY, environment, packages, channels=['conda-forge']):
+    def _run_solver(self, PY, environment, packages, channels=['conda-forge', 'semi-ate]):
         solver = "mamba"  # conda is much slower
         
         if PY.startswith("pypy"):
