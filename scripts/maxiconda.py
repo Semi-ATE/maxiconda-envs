@@ -260,7 +260,7 @@ class Maxiconda:
             cmd.append("--channel")
             cmd.append(channel)
             
-        print(f">>> {' '.join(cmd)}"
+        print(f">>> {' '.join(cmd)}")
         
         p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         stdout, _ = p.communicate()
