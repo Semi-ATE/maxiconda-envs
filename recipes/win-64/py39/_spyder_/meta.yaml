@@ -24,14 +24,13 @@ requirements:
   run:
     - python =3.9.10 =h9a09f29_2_cpython
 
-    # 12 primary packages :
+    # 11 primary packages :
     - cython =0.29.28 =py39h415ef7b_0
     - matplotlib =3.5.1 =py39hcbf5309_0
     - numpy =1.22.2 =py39h6331f09_0
     - pandas =1.4.1 =py39h2e25243_0
     - pydantic =1.9.0 =py39hb82d6ee_0
     - scipy =1.8.0 =py39hc0c34ad_1
-    - semi-ate =0.1.29 =pyhd8ed1ab_0
     - spyder =5.2.2 =py39hcbf5309_3
     - spyder-remote-client =0.0.25 =pyhd8ed1ab_0
     - spyder-screencast =0.0.17 =py39hcbf5309_0
@@ -208,7 +207,7 @@ requirements:
     - qtconsole-base =5.2.2 =pyhd8ed1ab_1
     - qtpy =2.0.1 =pyhd8ed1ab_0
     - requests =2.27.1 =pyhd8ed1ab_0
-    - rope =0.22.0 =pyhd8ed1ab_0
+    - rope =0.23.0 =pyhd8ed1ab_0
     - rtree =0.9.7 =py39h09fdee3_3
     - setuptools =60.9.3 =py39hcbf5309_0
     - six =1.16.0 =pyh6c4a22f_0
