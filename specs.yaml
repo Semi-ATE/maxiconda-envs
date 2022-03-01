@@ -43,13 +43,11 @@ environments:
 
   _spyder_trial_:
     - pyqt=5.15.4
-    - qt-main
-    - qt-webengine
     - spyder
     - spyder-terminal
     - spyder-screencast
     - spyder-remote-client
-    - semi-ate
+#    - semi-ate
     - cython
     - matplotlib
     - numpy
