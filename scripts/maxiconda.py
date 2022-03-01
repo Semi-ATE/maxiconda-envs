@@ -260,9 +260,7 @@ class Maxiconda:
         for channel in channels:
             cmd.append("--channel")
             cmd.append(channel)
-            
-        print(f">>> {' '.join(cmd)}")
-        
+                    
         p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         stdout, _ = p.communicate()
         data = {}
@@ -273,6 +271,7 @@ class Maxiconda:
                 data = json.loads(stdout)
                 feedback = None
             except:
+                print(f">>> {' '.join(cmd)}")
                 feedback = stdout.decode("utf-8").replace('\n', '').split('-')[1].strip()
                 
         return data, feedback
