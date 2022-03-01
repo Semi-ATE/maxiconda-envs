@@ -2,13 +2,13 @@
 # Copyright (c) Semi-ATE
 # Distributed under the terms of the MIT License
 #
-# linux-64/py39/_spyder_
+# linux-64/py39/_spyder_trial_
 #
 
 {% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}
 
 package:
-  name: _spyder_
+  name: _spyder_trial_
   version: {{ version }}
 
 source:
@@ -24,19 +24,20 @@ requirements:
   run:
     - python =3.9.10 =h85951f9_2_cpython
 
-    # 10 primary packages :
+    # 11 primary packages :
     - cython =0.29.28 =py39he80948d_0
     - matplotlib =3.5.1 =py39hf3d152e_0
     - numpy =1.22.2 =py39h91f2184_0
     - pandas =1.4.1 =py39hde0f152_0
-    - pydantic =1.9.0 =py39h3811e60_0
+    - qt-main =5.15.2 =h88c78e7_2
     - scipy =1.8.0 =py39hee8e79c_1
+    - semi-ate =0.1.29 =pyhd8ed1ab_0
     - spyder =5.2.2 =py39hf3d152e_3
     - spyder-remote-client =0.0.25 =pyhd8ed1ab_0
     - spyder-terminal =1.2.1 =py39hf3d152e_1
     - sympy =1.9 =py39hf3d152e_1
 
-    # 265 secondary packages :
+    # 264 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - alabaster =0.7.12 =py_0
@@ -242,7 +243,6 @@ requirements:
     - pyzmq =22.3.0 =py39h37b5a0c_1
     - qdarkstyle =3.0.2 =pyhd8ed1ab_0
     - qstylizer =0.2.1 =pyhd8ed1ab_0
-    - qt-main =5.15.2 =h88c78e7_2
     - qt-webengine =5.15.4 =h19fc7b4_0
     - qtawesome =1.1.1 =pyhd8ed1ab_0
     - qtconsole =5.2.2 =pyhd8ed1ab_1
@@ -307,7 +307,7 @@ about:
   home: https://github.com/Semi-ATE/maxiconda-envs
   license: MIT
   license_file: ../../../../LICENSE
-  summary: '_spyder_ meta package'
+  summary: '_spyder_trial_ meta package'
   dev_url: https://github.com/Semi-ATE/maxiconda-envs
 
 extra:
