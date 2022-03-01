@@ -42,7 +42,7 @@ environments:
     - pydantic
 
   _spyder_trial_:
-    - pyqt
+    - pyqt=5.15.4
     - qt-main
     - qt-webengine
     - spyder
