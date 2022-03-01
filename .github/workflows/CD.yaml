@@ -33,6 +33,7 @@ jobs:
         CONDA_UPLOAD_TOKEN: ${{ secrets.CONDA_UPLOAD_TOKEN }}
       run: |
         export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/}
+        conda config --set channel_priority false
         mkdir build
         cd build
         python -u ../scripts/maxiconda.py --build $SUBDIR
