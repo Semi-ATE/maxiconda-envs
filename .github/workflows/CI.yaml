@@ -30,6 +30,7 @@ jobs:
     - name: Solve and test-build meta-packages
       shell: bash -l {0}
       run: |
+        conda config --get channel_priority
         mkdir build
         cd build
         python -u ../scripts/maxiconda.py --solve --build $SUBDIR
