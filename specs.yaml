@@ -13,7 +13,7 @@ matrix:
     linux-aarch64_py37: ['_spyder_trial_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
     #linux-aarch64_pypy37: ['maxiconda']
     linux-aarch64_py38: ['_spyder_trial_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
-    linux-aarch64_py39: ['_spyder_trial_', 'maxiconda', '_spyder_trial_', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+    linux-aarch64_py39: ['_spyder_trial_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
   osx-64:
     osx-64_py37: ['_spyder_trial_', '_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
     #osx-64_pypy37: ['maxiconda']
