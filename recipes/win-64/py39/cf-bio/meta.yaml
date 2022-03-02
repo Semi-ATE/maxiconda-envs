@@ -24,18 +24,19 @@ requirements:
   run:
     - python =3.9.10 =h9a09f29_2_cpython
 
-    # 9 primary packages :
+    # 10 primary packages :
     - biopython =1.79 =py39hb82d6ee_1
     - matplotlib =3.5.1 =py39hcbf5309_0
     - mdanalysis =2.0.0 =py39h415ef7b_1
     - numpy =1.22.2 =py39h6331f09_0
     - pandas =1.4.1 =py39h2e25243_0
     - pymol-open-source =2.5.0 =py39h2edbb11_4
+    - pyqt =5.15.4 =py39hcbf5309_0
     - rdkit =2021.09.4 =py39hfadf033_0
     - scipy =1.8.0 =py39hc0c34ad_1
     - spyder-kernels =2.2.1 =py39hcbf5309_1
 
-    # 150 secondary packages :
+    # 149 secondary packages :
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -85,7 +86,7 @@ requirements:
     - jupyter_client =7.1.2 =pyhd8ed1ab_0
     - jupyter_core =4.9.2 =py39hcbf5309_0
     - kiwisolver =1.3.2 =py39h2e07f2f_1
-    - krb5 =1.19.2 =h20d022d_3
+    - krb5 =1.19.2 =h1176d77_4
     - lcms2 =2.12 =h2a16943_0
     - lerc =3.0 =h0e60522_0
     - libblas =3.9.0 =13_win64_mkl
@@ -145,7 +146,6 @@ requirements:
     - pycairo =1.20.1 =py39h1f09dad_1
     - pygments =2.11.2 =pyhd8ed1ab_0
     - pyparsing =3.0.7 =pyhd8ed1ab_0
-    - pyqt =5.15.4 =py39hcbf5309_0
     - pyqt-impl =5.15.4 =py39h415ef7b_0
     - pyqt5-sip =12.9.0 =py39h415ef7b_0
     - pyqtwebengine =5.15.4 =py39h415ef7b_0

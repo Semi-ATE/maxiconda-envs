@@ -24,12 +24,13 @@ requirements:
   run:
     - python =3.7.12 =h7840368_100_cpython
 
-    # 11 primary packages :
+    # 12 primary packages :
     - cython =0.29.28 =py37hf2a7229_0
     - matplotlib =3.5.1 =py37h03978a9_0
     - numpy =1.21.5 =py37h5fa1a60_0
     - pandas =1.3.5 =py37h9386db6_0
     - pydantic =1.9.0 =py37hcc03f2d_0
+    - pyqt =5.12.3 =py37h03978a9_8
     - scipy =1.7.3 =py37hb6553fb_0
     - spyder =5.2.2 =py37h03978a9_3
     - spyder-remote-client =0.0.25 =pyhd8ed1ab_0
@@ -37,7 +38,7 @@ requirements:
     - spyder-terminal =1.2.1 =py37h03978a9_1
     - sympy =1.9 =py37h03978a9_1
 
-    # 221 secondary packages :
+    # 220 secondary packages :
     - alabaster =0.7.12 =py_0
     - argh =0.26.2 =py37_1001
     - arrow =1.2.2 =pyhd8ed1ab_0
@@ -176,7 +177,6 @@ requirements:
     - pynacl =1.5.0 =py37ha54c9ec_0
     - pyopenssl =22.0.0 =pyhd8ed1ab_0
     - pyparsing =3.0.7 =pyhd8ed1ab_0
-    - pyqt =5.12.3 =py37h03978a9_8
     - pyqt-impl =5.12.3 =py37hf2a7229_8
     - pyqt5-sip =4.19.18 =py37hf2a7229_8
     - pyqtchart =5.12 =py37hf2a7229_8
