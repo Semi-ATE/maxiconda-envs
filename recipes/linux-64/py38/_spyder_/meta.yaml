@@ -24,12 +24,18 @@ requirements:
   run:
     - python =3.8.12 =ha38a3c6_3_cpython
 
-    # 3 primary packages :
+    # 9 primary packages :
+    - cython =0.29.28 =py38h709712a_0
+    - matplotlib =3.5.1 =py38h578d9bd_0
+    - numpy =1.22.2 =py38h6ae9a64_0
+    - pandas =1.4.1 =py38h43a58ef_0
     - pyqt =5.15.4 =py38h578d9bd_0
+    - scipy =1.8.0 =py38h56a6a73_1
     - spyder =5.2.2 =py38h578d9bd_3
     - spyder-terminal =1.2.1 =py38h578d9bd_1
+    - sympy =1.9 =py38h578d9bd_1
 
-    # 237 secondary packages :
+    # 260 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - alabaster =0.7.12 =py_0
@@ -48,6 +54,8 @@ requirements:
     - binaryornot =0.4.4 =py_1
     - black =22.1.0 =pyhd8ed1ab_0
     - bleach =4.1.0 =pyhd8ed1ab_0
+    - brotli =1.0.9 =h7f98852_6
+    - brotli-bin =1.0.9 =h7f98852_6
     - brotlipy =0.7.0 =py38h497a2fe_1003
     - ca-certificates =2021.10.8 =ha878542_0
     - certifi =2021.10.8 =py38h578d9bd_1
@@ -60,6 +68,7 @@ requirements:
     - coloredlogs =15.0.1 =py38h578d9bd_2
     - cookiecutter =1.7.3 =pyh6c4a22f_1
     - cryptography =36.0.1 =py38h3e25421_0
+    - cycler =0.11.0 =pyhd8ed1ab_0
     - dataclasses =0.8 =pyhc8e2a94_3
     - dbus =1.13.6 =h5008d03_3
     - debugpy =1.5.1 =py38h709712a_0
@@ -78,9 +87,12 @@ requirements:
     - fontconfig =2.13.96 =ha180cfb_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
+    - fonttools =4.29.1 =py38h497a2fe_0
     - freetype =2.10.4 =h0708190_1
     - gettext =0.19.8.1 =h73d1719_1008
     - giflib =5.2.1 =h36c2ea0_2
+    - gmp =6.2.1 =h58526e2_0
+    - gmpy2 =2.1.2 =py38h8384b0a_0
     - gst-plugins-base =1.18.5 =hf529b03_3
     - gstreamer =1.18.5 =h9f60fe5_3
     - humanfriendly =10.0 =py38h578d9bd_2
@@ -111,11 +123,18 @@ requirements:
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
     - keyring =23.4.0 =py38h578d9bd_2
     - keyutils =1.6.1 =h166bdaf_0
+    - kiwisolver =1.3.2 =py38h1fd1430_1
     - krb5 =1.19.2 =h3790be6_4
     - lazy-object-proxy =1.7.1 =py38h497a2fe_0
+    - lcms2 =2.12 =hddcbb42_0
     - ld_impl_linux-64 =2.36.1 =hea4e1c9_2
     - lerc =3.0 =h9c3ff4c_0
+    - libblas =3.9.0 =13_linux64_openblas
+    - libbrotlicommon =1.0.9 =h7f98852_6
+    - libbrotlidec =1.0.9 =h7f98852_6
+    - libbrotlienc =1.0.9 =h7f98852_6
     - libcap =2.51 =h7f98852_0
+    - libcblas =3.9.0 =13_linux64_openblas
     - libclang =13.0.1 =default_hc23dcda_0
     - libcups =2.3.3 =hf5a7f15_1
     - libdb =6.2.32 =h9c3ff4c_0
@@ -130,9 +149,11 @@ requirements:
     - libglib =2.70.2 =h174f98d_4
     - libgomp =11.2.0 =h1d223b6_12
     - libiconv =1.16 =h516909a_0
+    - liblapack =3.9.0 =13_linux64_openblas
     - libllvm13 =13.0.1 =hf817b99_2
     - libnsl =2.0.0 =h7f98852_0
     - libogg =1.3.4 =h7f98852_1
+    - libopenblas =0.3.18 =pthreads_h8fe5266_0
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.37 =h21135ba_2
     - libpq =14.2 =hd57d9b9_0
@@ -152,9 +173,14 @@ requirements:
     - libzlib =1.2.11 =h36c2ea0_1013
     - lz4-c =1.9.3 =h9c3ff4c_1
     - markupsafe =2.1.0 =py38h0a891b7_0
+    - matplotlib-base =3.5.1 =py38hf4fb855_0
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mccabe =0.6.1 =py_1
     - mistune =0.8.4 =py38h497a2fe_1005
+    - mpc =1.2.1 =h9f54685_0
+    - mpfr =4.1.0 =h9202a9a_1
+    - mpmath =1.2.1 =pyhd8ed1ab_0
+    - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =0.4.3 =py38h578d9bd_4
     - mysql-common =8.0.28 =ha770c72_0
     - mysql-libs =8.0.28 =hfa10184_0
@@ -166,6 +192,7 @@ requirements:
     - nspr =4.32 =h9c3ff4c_1
     - nss =3.74 =hb5efdd6_0
     - numpydoc =1.2 =pyhd8ed1ab_0
+    - openjpeg =2.4.0 =hb52868f_1
     - openssl =1.1.1l =h7f98852_0
     - packaging =21.3 =pyhd8ed1ab_0
     - pandoc =2.17.1.1 =ha770c72_0
@@ -175,6 +202,7 @@ requirements:
     - pcre =8.45 =h9c3ff4c_0
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
+    - pillow =9.0.1 =py38h0ee0e06_2
     - pip =22.0.3 =pyhd8ed1ab_0
     - platformdirs =2.5.1 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py38h578d9bd_2
@@ -250,6 +278,7 @@ requirements:
     - typing-extensions =4.1.1 =hd8ed1ab_0
     - typing_extensions =4.1.1 =pyha770c72_0
     - ujson =5.1.0 =py38h709712a_0
+    - unicodedata2 =14.0.0 =py38h497a2fe_0
     - unidecode =1.3.3 =pyhd8ed1ab_0
     - urllib3 =1.26.8 =pyhd8ed1ab_1
     - watchdog =2.1.6 =py38h578d9bd_1
