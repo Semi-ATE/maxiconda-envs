@@ -1,37 +1,36 @@
 matrix:
   win-64:
-    win-64_py37: ['_spyder_trial_', '_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+    win-64_py37: ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
     #win-64_pypy37: ['maxiconda']
-    win-64_py38: ['_spyder_trial_', '_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
-    win-64_py39: ['_spyder_trial_', '_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+    win-64_py38: ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+    win-64_py39: ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
   linux-64:
-    linux-64_py37: ['_spyder_trial_', '_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+    linux-64_py37: ['_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
     #linux-64_pypy37: ['maxiconda']
-    linux-64_py38: ['_spyder_trial_', '_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+    linux-64_py38: ['_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
     linux-64_py39: ['_spyder_trial_', '_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
   linux-aarch64:
-    linux-aarch64_py37: ['_spyder_trial_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+    linux-aarch64_py37: ['_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
     #linux-aarch64_pypy37: ['maxiconda']
-    linux-aarch64_py38: ['_spyder_trial_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
-    linux-aarch64_py39: ['_spyder_trial_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+    linux-aarch64_py38: ['_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+    linux-aarch64_py39: ['_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
   osx-64:
-    osx-64_py37: ['_spyder_trial_', '_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+    osx-64_py37: ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
     #osx-64_pypy37: ['maxiconda']
-    osx-64_py38: ['_spyder_trial_', '_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
-    osx-64_py39: ['_spyder_trial_', '_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+    osx-64_py38: ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+    osx-64_py39: ['_spyder_', 'maxiconda', 'cf-data', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
   osx-arm64:
     #osx-arm64_py37: ['_spyder_', 'maxiconda']
-    #osx-64_pypy37: ['maxiconda']
-    osx-arm64_py38: ['_spyder_trial_', 'maxiconda', 'cf-web', 'cf-bio', 'cf-astro']
-    osx-arm64_py39: ['_spyder_trial_', 'maxiconda', 'cf-web', 'cf-bio', 'cf-astro']
+    osx-arm64_py38: ['_spyder_', 'maxiconda', 'cf-web', 'cf-bio', 'cf-astro']
+    osx-arm64_py39: ['_spyder_', 'maxiconda', 'cf-web', 'cf-bio', 'cf-astro']
 
 environments:
   _spyder_:
+    - pyqt
     - spyder
     - spyder-terminal
     - spyder-screencast
     - spyder-remote-client
-    #- semi-ate
     - cython
     - matplotlib
     - numpy
@@ -40,20 +39,6 @@ environments:
     - sympy
     # to be removed, dependency problem with semi-ate
     - pydantic
-
-  _spyder_trial_:
-    - pyqt=5.15.4
-    - spyder
-    - spyder-terminal
-    - spyder-screencast
-    - spyder-remote-client
-#    - semi-ate
-    - cython
-    - matplotlib
-    - numpy
-    - pandas
-    - scipy
-    - sympy
 
   maxiconda:
     - spyder-kernels
@@ -96,8 +81,8 @@ environments:
     - pyserial
     
   cf-ate:
+    - pyqt
     - spyder-kernels
-    - Semi-ATE
     - Semi-ATE-STDF
     - pydantic
     - paho-mqtt 
@@ -107,6 +92,7 @@ environments:
     - aiomqtt
 
   cf-data:
+    - pyqt
     - spyder-kernels
     - scrapy
     - beautifulsoup4
@@ -131,6 +117,7 @@ environments:
     - sqlite
 
   cf-web:
+    - pyqt
     - spyder-kernels
     - requests
     - pyyaml
@@ -141,6 +128,7 @@ environments:
     - jinja2
 
   cf-eng:
+    - pyqt
     - spyder-kernels
     - openpyxl
     - pyvisa-py
@@ -150,6 +138,7 @@ environments:
     - numpy
 
   cf-bio:
+    - pyqt
     - spyder-kernels
     - numpy
     - pandas
@@ -161,5 +150,6 @@ environments:
     - rdkit
 
   cf-astro:
+    - pyqt
     - spyder-kernels
     
