@@ -24,13 +24,11 @@ requirements:
   run:
     - python =3.7.12 =haf480d7_100_cpython
 
-    # 4 primary packages :
+    # 2 primary packages :
     - pyqt =5.15.4 =py37hf985489_0
     - spyder =5.2.2 =py37hf985489_3
-    - spyder-remote-client =0.0.25 =pyhd8ed1ab_0
-    - spyder-terminal =1.2.1 =py37hf985489_1
 
-    # 201 secondary packages :
+    # 195 secondary packages :
     - alabaster =0.7.12 =py_0
     - applaunchservices =0.2.1 =py_0
     - appnope =0.1.2 =py37hf985489_2
@@ -56,7 +54,6 @@ requirements:
     - click =8.0.4 =py37hf985489_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
-    - coloredlogs =15.0.1 =py37hf985489_2
     - cookiecutter =1.7.3 =pyh6c4a22f_1
     - cryptography =36.0.1 =py37h5e77fcc_0
     - dataclasses =0.8 =pyhc8e2a94_3
@@ -71,10 +68,8 @@ requirements:
     - giflib =5.2.1 =hbcb3906_2
     - gst-plugins-base =1.18.5 =h63a84d5_3
     - gstreamer =1.18.5 =h8cc6204_3
-    - humanfriendly =10.0 =py37hf985489_2
     - icu =69.1 =he49afe7_0
     - idna =3.3 =pyhd8ed1ab_0
-    - ifaddr =0.1.7 =pyh9f0ad1d_0
     - imagesize =1.3.0 =pyhd8ed1ab_0
     - importlib-metadata =4.2.0 =py37hf985489_0
     - importlib_metadata =4.2.0 =hd8ed1ab_0
@@ -131,7 +126,6 @@ requirements:
     - nbformat =5.1.3 =pyhd8ed1ab_0
     - ncurses =6.3 =he49afe7_0
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
-    - netifaces =0.10.9 =py37h271585c_1005
     - nspr =4.32 =hcd9eead_1
     - nss =3.74 =h31e2bf1_0
     - numpydoc =1.2 =pyhd8ed1ab_0
@@ -201,7 +195,6 @@ requirements:
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_1
     - spyder-kernels =2.2.1 =py37hf985489_1
     - sqlite =3.37.0 =h23a322b_0
-    - terminado =0.13.1 =py37hf985489_0
     - testpath =0.6.0 =pyhd8ed1ab_0
     - text-unidecode =1.3 =py_0
     - textdistance =4.2.2 =pyhd8ed1ab_0
@@ -227,7 +220,6 @@ requirements:
     - xz =5.2.5 =haf1e3a3_1
     - yaml =0.2.5 =h0d85af4_2
     - yapf =0.32.0 =pyhd8ed1ab_0
-    - zeroconf =0.38.4 =pyhd8ed1ab_0
     - zeromq =4.3.4 =he49afe7_1
     - zipp =3.7.0 =pyhd8ed1ab_1
     - zlib =1.2.11 =h9173be1_1013
