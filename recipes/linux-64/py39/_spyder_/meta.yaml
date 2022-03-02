@@ -24,11 +24,12 @@ requirements:
   run:
     - python =3.9.10 =h85951f9_2_cpython
 
-    # 2 primary packages :
+    # 3 primary packages :
     - pyqt =5.15.4 =py39hf3d152e_0
     - spyder =5.2.2 =py39hf3d152e_3
+    - spyder-terminal =1.2.1 =py39hf3d152e_1
 
-    # 236 secondary packages :
+    # 239 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - alabaster =0.7.12 =py_0
@@ -57,6 +58,7 @@ requirements:
     - click =8.0.4 =py39hf3d152e_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
+    - coloredlogs =15.0.1 =py39hf3d152e_2
     - cookiecutter =1.7.3 =pyh6c4a22f_1
     - cryptography =36.0.1 =py39h95dcef6_0
     - dataclasses =0.8 =pyhc8e2a94_3
@@ -82,6 +84,7 @@ requirements:
     - giflib =5.2.1 =h36c2ea0_2
     - gst-plugins-base =1.18.5 =hf529b03_3
     - gstreamer =1.18.5 =h9f60fe5_3
+    - humanfriendly =10.0 =py39hf3d152e_2
     - icu =69.1 =h9c3ff4c_0
     - idna =3.3 =pyhd8ed1ab_0
     - imagesize =1.3.0 =pyhd8ed1ab_0
@@ -233,6 +236,7 @@ requirements:
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_1
     - spyder-kernels =2.2.1 =py39hf3d152e_1
     - sqlite =3.37.0 =h9cd32fc_0
+    - terminado =0.13.1 =py39hf3d152e_0
     - testpath =0.6.0 =pyhd8ed1ab_0
     - text-unidecode =1.3 =py_0
     - textdistance =4.2.2 =pyhd8ed1ab_0
