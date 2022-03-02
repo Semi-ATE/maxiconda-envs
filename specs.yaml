@@ -8,7 +8,7 @@ matrix:
     linux-64_py37: ['_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
     #linux-64_pypy37: ['maxiconda']
     linux-64_py38: ['_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
-    linux-64_py39: ['_spyder_trial_', '_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+    linux-64_py39: ['_spyder_', '_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
   linux-aarch64:
     linux-aarch64_py37: ['_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
     #linux-aarch64_pypy37: ['maxiconda']
