@@ -256,7 +256,7 @@ class Maxiconda:
             raise ValueError(f"'{PY}' should start with 'py' or 'pypy'")
         
 #        cmd = [solver, "create", "--name", "test_env", "--dry-run", "--json", "--yes", "--strict-channel-priority", PY_IMP] + packages
-        cmd = [solver, "create", "--name", "test_env", "--dry-run", "--json", "--yes", PY_IMP] + packages
+        cmd = [solver, "create", "--name", "test_env", "--dry-run", "--json", "--yes", "--no-channel-priority", PY_IMP] + packages
         for channel in channels:
             cmd.append("--channel")
             cmd.append(channel)
