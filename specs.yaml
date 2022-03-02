@@ -31,14 +31,14 @@ environments:
     - spyder-terminal
     - spyder-screencast
     - spyder-remote-client
-    - cython
-    - matplotlib
-    - numpy
-    - pandas
-    - scipy
-    - sympy
+    #- cython
+    #- matplotlib
+    #- numpy
+    #- pandas
+    #- scipy
+    #- sympy
     # to be removed, dependency problem with semi-ate
-    - pydantic
+    #- pydantic
 
   maxiconda:
     - spyder-kernels
