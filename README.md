@@ -1,6 +1,6 @@
 # maxiconda-envs
 
-[![GitHub](https://img.shields.io/github/license/Semi-ATE/maxiconda-meta?color=black)](https://github.com/Semi-ATE/maxiconda/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/Semi-ATE/maxiconda-envs?color=black)](https://github.com/Semi-ATE/maxiconda/blob/main/LICENSE)
 
 
 [![Continuous Integration](https://github.com/Semi-ATE/maxiconda-envs/actions/workflows/CI.yaml/badge.svg)](https://github.com/Semi-ATE/maxiconda-envs/actions/workflows/CI.yaml)
