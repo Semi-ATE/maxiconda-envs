@@ -29,13 +29,13 @@ requirements:
     - matplotlib =3.5.1 =py37hf985489_0
     - numpy =1.21.5 =py37h3c8089f_0
     - pandas =1.3.5 =py37h5b83a90_0
-    - pyqt =5.15.4 =py37hf985489_0
+    - pyqt =5.15.4 =py37hf985489_1
     - scipy =1.7.3 =py37h4e3cf02_0
     - spyder =5.2.2 =py37hf985489_3
     - spyder-terminal =1.2.1 =py37hf985489_1
     - sympy =1.9 =py37hf985489_1
 
-    # 229 secondary packages :
+    # 230 secondary packages :
     - alabaster =0.7.12 =py_0
     - applaunchservices =0.2.1 =py_0
     - appnope =0.1.2 =py37hf985489_2
@@ -191,9 +191,10 @@ requirements:
     - pyls-spyder =0.4.0 =pyhd8ed1ab_0
     - pyopenssl =22.0.0 =pyhd8ed1ab_0
     - pyparsing =3.0.7 =pyhd8ed1ab_0
-    - pyqt-impl =5.15.4 =py37h5a87095_0
-    - pyqt5-sip =12.9.0 =py37h5a87095_0
-    - pyqtwebengine =5.15.4 =py37h5a87095_0
+    - pyqt-impl =5.15.4 =py37h5a87095_1
+    - pyqt5-sip =12.9.0 =py37h5a87095_1
+    - pyqtchart =5.15.4 =py37h5a87095_1
+    - pyqtwebengine =5.15.4 =py37h5a87095_1
     - pyrsistent =0.18.1 =py37h271585c_0
     - pysocks =1.7.1 =py37hf985489_4
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
@@ -209,7 +210,7 @@ requirements:
     - qdarkstyle =3.0.2 =pyhd8ed1ab_0
     - qstylizer =0.2.1 =pyhd8ed1ab_0
     - qt-main =5.15.2 =h8f7a3c3_2
-    - qt-webengine =5.15.4 =h3a3182f_0
+    - qt-webengine =5.15.4 =h3a3182f_1
     - qtawesome =1.1.1 =pyhd8ed1ab_0
     - qtconsole =5.2.2 =pyhd8ed1ab_1
     - qtconsole-base =5.2.2 =pyhd8ed1ab_1
