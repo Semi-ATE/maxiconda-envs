@@ -29,12 +29,12 @@ requirements:
     - matplotlib =3.5.1 =py38h2063c64_0
     - numpy =1.22.2 =py38he9a3fad_0
     - pandas =1.4.1 =py38hd4bfb9c_0
-    - pyqt =5.15.4 =py38h2063c64_0
+    - pyqt =5.15.4 =py38h2063c64_1
     - rdkit =2021.09.4 =py38he42a87e_0
     - scipy =1.8.0 =py38h79f4abc_1
     - spyder-kernels =2.2.1 =py38he3eb160_1
 
-    # 160 secondary packages :
+    # 161 secondary packages :
     - _openmp_mutex =4.5 =1_gnu
     - alsa-lib =1.2.3 =h516909a_0
     - attr =2.4.48 =h516909a_0
@@ -156,9 +156,10 @@ requirements:
     - pycairo =1.20.1 =py38h946362b_1
     - pygments =2.11.2 =pyhd8ed1ab_0
     - pyparsing =3.0.7 =pyhd8ed1ab_0
-    - pyqt-impl =5.15.4 =py38h7cb29f2_0
-    - pyqt5-sip =12.9.0 =py38h7cb29f2_0
-    - pyqtwebengine =5.15.4 =py38h7cb29f2_0
+    - pyqt-impl =5.15.4 =py38h7cb29f2_1
+    - pyqt5-sip =12.9.0 =py38h7cb29f2_1
+    - pyqtchart =5.15.4 =py38h7cb29f2_1
+    - pyqtwebengine =5.15.4 =py38h7cb29f2_1
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.8 =2_cp38
     - pytz =2021.3 =pyhd8ed1ab_0

@@ -42,7 +42,7 @@ requirements:
     - pandas =1.4.1 =py38hd4bfb9c_0
     - psutil =5.9.0 =py38h9544abe_0
     - pydantic =1.9.0 =py38h9544abe_0
-    - pyqt =5.15.4 =py38h2063c64_0
+    - pyqt =5.15.4 =py38h2063c64_1
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =7.0.1 =py38h2063c64_0
     - pyyaml =6.0 =py38h9544abe_3
@@ -62,7 +62,7 @@ requirements:
     - transitions =0.8.11 =pyhd8ed1ab_0
     - xmltodict =0.12.0 =py_0
 
-    # 444 secondary packages :
+    # 445 secondary packages :
     - _openmp_mutex =4.5 =1_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.2.0 =pyhd8ed1ab_0
@@ -125,7 +125,7 @@ requirements:
     - gfortran_impl_linux-aarch64 =9.4.0 =h54cdb55_13
     - gfortran_linux-aarch64 =9.4.0 =h02353c8_6
     - giflib =5.2.1 =hb9de7d4_2
-    - git =2.35.0 =pl5321h063bab8_0
+    - git =2.35.1 =pl5321hd6c143b_0
     - gmp =6.2.1 =h7fd3ca4_0
     - gmpy2 =2.1.2 =py38h80d68c0_0
     - graphite2 =1.3.13 =h7fd3ca4_1001
@@ -236,7 +236,7 @@ requirements:
     - packaging =21.3 =pyhd8ed1ab_0
     - pandoc =2.17.1.1 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.50.3 =h8e42fcd_0
+    - pango =1.50.4 =h7a4e8f0_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre =8.45 =h01db608_0
     - pcre2 =10.37 =h73360fb_0
@@ -260,9 +260,10 @@ requirements:
     - pygments =2.11.2 =pyhd8ed1ab_0
     - pyopenssl =22.0.0 =pyhd8ed1ab_0
     - pyparsing =3.0.7 =pyhd8ed1ab_0
-    - pyqt-impl =5.15.4 =py38h7cb29f2_0
-    - pyqt5-sip =12.9.0 =py38h7cb29f2_0
-    - pyqtwebengine =5.15.4 =py38h7cb29f2_0
+    - pyqt-impl =5.15.4 =py38h7cb29f2_1
+    - pyqt5-sip =12.9.0 =py38h7cb29f2_1
+    - pyqtchart =5.15.4 =py38h7cb29f2_1
+    - pyqtwebengine =5.15.4 =py38h7cb29f2_1
     - pyrsistent =0.18.1 =py38h9544abe_0
     - pysocks =1.7.1 =py38h2063c64_4
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
@@ -423,7 +424,7 @@ requirements:
     - r-squarem =2021.1 =r41hc72bb7e_0
     - r-stringi =1.7.6 =r41hab7f079_1
     - r-stringr =1.4.0 =r41hc72bb7e_2
-    - r-survival =3.3_0 =r41hc7730c6_0
+    - r-survival =3.3_1 =r41hc7730c6_0
     - r-sys =3.4 =r41h96a179c_0
     - r-testthat =3.1.2 =r41hecdc70b_0
     - r-tibble =3.1.6 =r41h96a179c_0
@@ -442,7 +443,7 @@ requirements:
     - r-viridislite =0.4.0 =r41hc72bb7e_0
     - r-vroom =1.5.7 =r41hecdc70b_0
     - r-waldo =0.3.1 =r41hc72bb7e_0
-    - r-withr =2.4.3 =r41hc72bb7e_0
+    - r-withr =2.5.0 =r41hc72bb7e_0
     - r-xfun =0.30 =r41hf13958e_0
     - r-xml2 =1.3.3 =r41hecdc70b_0
     - r-xtable =1.8_4 =r41hc72bb7e_3

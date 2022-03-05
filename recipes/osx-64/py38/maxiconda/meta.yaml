@@ -62,7 +62,7 @@ requirements:
     - transitions =0.8.11 =pyhd8ed1ab_0
     - xmltodict =0.12.0 =py_0
 
-    # 419 secondary packages :
+    # 418 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.2.0 =pyhd8ed1ab_0
     - alabaster =0.7.12 =py_0
@@ -84,15 +84,15 @@ requirements:
     - c-ares =1.18.1 =h0d85af4_0
     - ca-certificates =2021.10.8 =h033912b_0
     - cairo =1.16.0 =he01c77b_1009
-    - cctools_osx-64 =973.0.1 =hb41342b_8
+    - cctools_osx-64 =973.0.1 =h609b070_9
     - certifi =2021.10.8 =py38h50d1736_1
     - cffi =1.15.0 =py38h1a44b6c_0
     - charset-normalizer =2.0.12 =pyhd8ed1ab_0
     - clang =12.0.1 =h694c41f_4
     - clang-12 =12.0.1 =default_he082bbe_4
-    - clang_osx-64 =12.0.1 =h633439f_6
+    - clang_osx-64 =12.0.1 =h633439f_7
     - clangxx =12.0.1 =default_he082bbe_4
-    - clangxx_osx-64 =12.0.1 =hdb584c0_6
+    - clangxx_osx-64 =12.0.1 =hdb584c0_7
     - click =8.0.4 =py38h50d1736_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
@@ -125,7 +125,7 @@ requirements:
     - gfortran_impl_osx-64 =9.3.0 =h9cc0e5e_23
     - gfortran_osx-64 =9.3.0 =h18f7dce_15
     - giflib =5.2.1 =hbcb3906_2
-    - git =2.35.0 =pl5321h9a53687_0
+    - git =2.35.1 =pl5321h33a4a8a_0
     - gmp =6.2.1 =h2e338ed_0
     - gmpy2 =2.1.2 =py38h6052812_0
     - graphite2 =1.3.13 =h2e338ed_1001
@@ -153,7 +153,7 @@ requirements:
     - kiwisolver =1.3.2 =py38h12bbefe_1
     - krb5 =1.19.2 =hb49756b_4
     - lcms2 =2.12 =h577c468_0
-    - ld64_osx-64 =609 =hc6b1d1e_8
+    - ld64_osx-64 =609 =hc6b1d1e_9
     - lerc =3.0 =he49afe7_0
     - libblas =3.9.0 =13_osx64_openblas
     - libbrotlicommon =1.0.9 =h0d85af4_6
@@ -175,7 +175,6 @@ requirements:
     - libiconv =1.16 =haf1e3a3_0
     - liblapack =3.9.0 =13_osx64_openblas
     - libllvm10 =10.0.1 =h009f743_3
-    - libllvm11 =11.1.0 =hd011deb_3
     - libllvm12 =12.0.1 =hd011deb_2
     - libllvm13 =13.0.1 =h64f94b2_2
     - libnghttp2 =1.47.0 =h942079c_0
@@ -193,7 +192,7 @@ requirements:
     - libxcb =1.13 =h0d85af4_1004
     - libxml2 =2.9.12 =h7e28ab6_1
     - libzlib =1.2.11 =h9173be1_1013
-    - llvm-openmp =13.0.1 =hda6cdc1_0
+    - llvm-openmp =13.0.1 =hcb1a161_1
     - llvm-tools =12.0.1 =hd011deb_2
     - llvmlite =0.36.0 =py38h872f124_0
     - lz4-c =1.9.3 =he49afe7_1
@@ -222,7 +221,7 @@ requirements:
     - packaging =21.3 =pyhd8ed1ab_0
     - pandoc =2.17.1.1 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.50.3 =h7f27720_0
+    - pango =1.50.4 =h0e59876_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre =8.45 =he49afe7_0
     - pcre2 =10.37 =ha16e1b2_0
@@ -408,7 +407,7 @@ requirements:
     - r-squarem =2021.1 =r41hc72bb7e_0
     - r-stringi =1.7.6 =r41h99ba7f4_1
     - r-stringr =1.4.0 =r41hc72bb7e_2
-    - r-survival =3.3_0 =r41h0f1d5c4_0
+    - r-survival =3.3_1 =r41h0f1d5c4_0
     - r-sys =3.4 =r41h28b5c78_0
     - r-testthat =3.1.2 =r41h9951f98_0
     - r-tibble =3.1.6 =r41h28b5c78_0
@@ -427,7 +426,7 @@ requirements:
     - r-viridislite =0.4.0 =r41hc72bb7e_0
     - r-vroom =1.5.7 =r41h9951f98_0
     - r-waldo =0.3.1 =r41hc72bb7e_0
-    - r-withr =2.4.3 =r41hc72bb7e_0
+    - r-withr =2.5.0 =r41hc72bb7e_0
     - r-xfun =0.30 =r41hc4bb905_0
     - r-xml2 =1.3.3 =r41h9951f98_0
     - r-xtable =1.8_4 =r41hc72bb7e_3
