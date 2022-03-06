@@ -67,7 +67,7 @@ class Maxiconda:
         if not prefix is None:
             print(f"{prefix}{message}") 
         logfile = os.path.join(self.repo_root, "recipes", self.subdir, PY, environment, "meta.log")
-        with open(logfile, "a") as fd:
+        with open(logfile, "a+") as fd:
             fd.write(f"{datetime.datetime.now().strftime('%Y/%m/%d@%H:%M:%S')} >> {message.strip()}\n")
 
     def get_platform_subdir(self):
