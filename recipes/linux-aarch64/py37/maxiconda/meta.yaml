@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.4.0 =py37heeccf27_0
     - cython =0.29.28 =py37had24c86_0
     - grayskull =0.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.39.1 =pyhd8ed1ab_0
+    - hypothesis =6.39.2 =pyhd8ed1ab_0
     - ipython =7.32.0 =py37hd9ded2f_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - matplotlib =3.5.1 =py37hd9ded2f_0
@@ -55,7 +55,7 @@ requirements:
     - rust =1.59.0 =h26fb2b7_0
     - scipy =1.7.3 =py37hd18d958_0
     - spyder-kernels =2.2.1 =py37hfd236b0_1
-    - sqlalchemy =1.4.31 =py37hcd4c3ab_0
+    - sqlalchemy =1.4.32 =py37heeccf27_0
     - sqlite =3.37.0 =hc164836_0
     - sympy =1.10 =py37hfd236b0_0
     - tqdm =4.63.0 =pyhd8ed1ab_0
@@ -237,7 +237,7 @@ requirements:
     - packaging =21.3 =pyhd8ed1ab_0
     - pandoc =2.17.1.1 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.50.4 =h7a4e8f0_0
+    - pango =1.50.5 =h7a4e8f0_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre =8.45 =h01db608_0
     - pcre2 =10.37 =h73360fb_0
@@ -245,7 +245,7 @@ requirements:
     - pexpect =4.8.0 =py37hc8dfbb8_1
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pillow =9.0.1 =py37h2dc4c6d_2
-    - pip =22.0.3 =pyhd8ed1ab_0
+    - pip =22.0.4 =pyhd8ed1ab_0
     - pixman =0.40.0 =hb9de7d4_0
     - pluggy =1.0.0 =py37hd9ded2f_2
     - portaudio =19.6.0 =h04411df_4
@@ -272,7 +272,7 @@ requirements:
     - pytz =2021.3 =pyhd8ed1ab_0
     - pyzmq =22.3.0 =py37h3f30300_1
     - qt-main =5.15.2 =h023c47d_1
-    - qt-webengine =5.15.4 =h7c9c5db_0
+    - qt-webengine =5.15.4 =h7c9c5db_1
     - qtpy =2.0.1 =pyhd8ed1ab_0
     - r-askpass =1.1 =r41h96a179c_2
     - r-assertthat =0.2.1 =r41hc72bb7e_2
@@ -473,7 +473,7 @@ requirements:
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_1
     - stdlib-list =0.7.0 =py_2
     - sysroot_linux-aarch64 =2.17 =h43d7e78_13
-    - terminado =0.13.2 =py37hd9ded2f_0
+    - terminado =0.13.3 =py37hd9ded2f_0
     - testpath =0.6.0 =pyhd8ed1ab_0
     - tk =8.6.12 =hd8af866_0
     - tktable =2.10 =hcd05d48_3

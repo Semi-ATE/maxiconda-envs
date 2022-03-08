@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.4.0 =py37h540881e_0
     - cython =0.29.28 =py37hcd2ae1e_0
     - grayskull =0.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.39.1 =pyhd8ed1ab_0
+    - hypothesis =6.39.2 =pyhd8ed1ab_0
     - ipython =7.32.0 =py37h89c1867_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - matplotlib =3.5.1 =py37h89c1867_0
@@ -55,7 +55,7 @@ requirements:
     - rust =1.59.0 =h30be4a0_0
     - scipy =1.7.3 =py37hf2a6cf1_0
     - spyder-kernels =2.2.1 =py37h89c1867_1
-    - sqlalchemy =1.4.31 =py37h5e8e339_0
+    - sqlalchemy =1.4.32 =py37h540881e_0
     - sqlite =3.37.0 =h9cd32fc_0
     - sympy =1.10 =py37h89c1867_0
     - tqdm =4.63.0 =pyhd8ed1ab_0
@@ -238,7 +238,7 @@ requirements:
     - packaging =21.3 =pyhd8ed1ab_0
     - pandoc =2.17.1.1 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.50.4 =h4dcc4a0_0
+    - pango =1.50.5 =h4dcc4a0_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre =8.45 =h9c3ff4c_0
     - pcre2 =10.37 =h032f7d1_0
@@ -246,7 +246,7 @@ requirements:
     - pexpect =4.8.0 =py37hc8dfbb8_1
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pillow =9.0.1 =py37h44f0d7a_2
-    - pip =22.0.3 =pyhd8ed1ab_0
+    - pip =22.0.4 =pyhd8ed1ab_0
     - pixman =0.40.0 =h36c2ea0_0
     - pluggy =1.0.0 =py37h89c1867_2
     - progressbar2 =4.0.0 =pyhd8ed1ab_0
@@ -473,7 +473,7 @@ requirements:
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_1
     - stdlib-list =0.7.0 =py37hc8dfbb8_1
     - sysroot_linux-64 =2.12 =he073ed8_15
-    - terminado =0.13.2 =py37h89c1867_0
+    - terminado =0.13.3 =py37h89c1867_0
     - testpath =0.6.0 =pyhd8ed1ab_0
     - tk =8.6.12 =h27826a3_0
     - tktable =2.10 =hb7b940f_3

@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.4.0 =py38hed1de0f_0
     - cython =0.29.28 =py38ha048514_0
     - grayskull =1.1.2 =pyhd8ed1ab_0
-    - hypothesis =6.39.1 =pyhd8ed1ab_0
+    - hypothesis =6.39.2 =pyhd8ed1ab_0
     - ipython =7.32.0 =py38h50d1736_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - matplotlib =3.5.1 =py38h50d1736_0
@@ -55,7 +55,7 @@ requirements:
     - rust =1.59.0 =h7e1429e_0
     - scipy =1.8.0 =py38hd329d04_1
     - spyder-kernels =2.2.1 =py38h50d1736_1
-    - sqlalchemy =1.4.31 =py38h96a0964_0
+    - sqlalchemy =1.4.32 =py38hed1de0f_0
     - sqlite =3.37.0 =h23a322b_0
     - sympy =1.10 =py38h50d1736_0
     - tqdm =4.63.0 =pyhd8ed1ab_0
@@ -221,7 +221,7 @@ requirements:
     - packaging =21.3 =pyhd8ed1ab_0
     - pandoc =2.17.1.1 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.50.4 =h0e59876_0
+    - pango =1.50.5 =h0e59876_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre =8.45 =he49afe7_0
     - pcre2 =10.37 =ha16e1b2_0
@@ -229,7 +229,7 @@ requirements:
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pillow =9.0.1 =py38h7207f37_2
-    - pip =22.0.3 =pyhd8ed1ab_0
+    - pip =22.0.4 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
     - pkginfo =1.8.2 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py38h50d1736_2
@@ -456,7 +456,7 @@ requirements:
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_1
     - stdlib-list =0.7.0 =py38h32f6830_1
     - tapi =1100.0.11 =h9ce4665_0
-    - terminado =0.13.2 =py38h50d1736_0
+    - terminado =0.13.3 =py38h50d1736_0
     - testpath =0.6.0 =pyhd8ed1ab_0
     - tk =8.6.12 =h5dbffcc_0
     - tktable =2.10 =h49f0cf7_3
