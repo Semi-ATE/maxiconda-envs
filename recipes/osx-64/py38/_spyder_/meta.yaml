@@ -27,7 +27,7 @@ requirements:
     # 9 primary packages :
     - cython =0.29.28 =py38ha048514_0
     - matplotlib =3.5.1 =py38h50d1736_0
-    - numpy =1.22.2 =py38h9d72dae_0
+    - numpy =1.22.3 =py38hd52c74b_0
     - pandas =1.4.1 =py38ha53d530_0
     - pyqt =5.15.4 =py38h50d1736_1
     - scipy =1.8.0 =py38hd329d04_1
@@ -100,7 +100,7 @@ requirements:
     - jedi =0.18.1 =py38h50d1736_0
     - jellyfish =0.9.0 =py38h96a0964_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
-    - jinja2-time =0.2.0 =py_2
+    - jinja2-time =0.2.0 =pyhd8ed1ab_3
     - jpeg =9e =h0d85af4_0
     - jsonschema =4.4.0 =pyhd8ed1ab_0
     - jupyter_client =7.1.2 =pyhd8ed1ab_0

@@ -27,8 +27,8 @@ requirements:
     # 9 primary packages :
     - biopython =1.79 =py39h89e85a6_1
     - matplotlib =3.5.1 =py39h6e9494a_0
-    - mdanalysis =2.0.0 =py39h9fcab8e_1
-    - numpy =1.22.2 =py39h9d9ce41_0
+    - mdanalysis =2.1.0 =py39hfd1d529_0
+    - numpy =1.22.3 =py39hf56e92f_0
     - pandas =1.4.1 =py39h4d6be9b_0
     - pyqt =5.15.4 =py39h6e9494a_1
     - rdkit =2021.09.5 =py39h1ae426c_0
@@ -52,16 +52,17 @@ requirements:
     - cftime =1.6.0 =py39h86b5767_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
-    - curl =7.81.0 =hf45b732_0
+    - curl =7.82.0 =h9f20792_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.5.1 =py39h9fcab8e_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
+    - expat =2.4.7 =h96cf925_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =hab24e00_0
-    - fontconfig =2.13.96 =h10f422b_0
+    - fontconfig =2.13.96 =h676cef8_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.29.1 =py39h89e85a6_0
@@ -94,7 +95,7 @@ requirements:
     - libbrotlienc =1.0.9 =h0d85af4_6
     - libcblas =3.9.0 =13_osx64_openblas
     - libclang =13.0.1 =default_he082bbe_0
-    - libcurl =7.81.0 =hf45b732_0
+    - libcurl =7.82.0 =h9f20792_0
     - libcxx =12.0.1 =habf9029_1
     - libdeflate =1.10 =h0d85af4_0
     - libedit =3.1.20191231 =h0678c8f_2
@@ -120,7 +121,6 @@ requirements:
     - libwebp =1.2.2 =h28dabe5_0
     - libwebp-base =1.2.2 =h0d85af4_1
     - libxcb =1.13 =h0d85af4_1004
-    - libxml2 =2.9.12 =h7e28ab6_1
     - libzip =1.8.0 =h8b0c345_1
     - libzlib =1.2.11 =h9173be1_1013
     - llvm-openmp =13.0.1 =hcb1a161_1

@@ -27,7 +27,7 @@ requirements:
     # 7 primary packages :
     - biopython =1.79 =py39h5161555_1
     - matplotlib =3.5.1 =py39hdf13c20_0
-    - numpy =1.22.2 =py39h61a45d2_0
+    - numpy =1.22.3 =py39h690d673_0
     - pandas =1.4.1 =py39h7f752ed_0
     - rdkit =2021.09.5 =py39h71be56f_0
     - scipy =1.8.0 =py39h5060c3b_1
@@ -51,11 +51,12 @@ requirements:
     - debugpy =1.5.1 =py39hfb83b0d_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
+    - expat =2.4.7 =h6b3803e_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =hab24e00_0
-    - fontconfig =2.13.96 =heb65262_0
+    - fontconfig =2.13.96 =hfb34624_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.29.1 =py39h5161555_0
@@ -94,7 +95,6 @@ requirements:
     - libwebp =1.2.2 =h0d20362_0
     - libwebp-base =1.2.2 =h3422bc3_1
     - libxcb =1.13 =h9b22ae9_1004
-    - libxml2 =2.9.12 =hedbfbf4_1
     - libzlib =1.2.11 =hee7b306_1013
     - llvm-openmp =13.0.1 =h455960f_1
     - lz4-c =1.9.3 =hbdafb3b_1

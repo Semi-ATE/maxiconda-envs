@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.4.0 =py37h69ee0a8_0
     - cython =0.29.28 =py37hd8d24ac_0
     - grayskull =0.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.39.2 =pyhd8ed1ab_0
+    - hypothesis =6.39.3 =pyhd8ed1ab_0
     - ipython =7.32.0 =py37hf985489_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - matplotlib =3.5.1 =py37hf985489_0
@@ -100,7 +100,7 @@ requirements:
     - compiler-rt =12.0.1 =he01351e_0
     - compiler-rt_osx-64 =12.0.1 =hd3f61c9_0
     - cryptography =36.0.1 =py37h5e77fcc_0
-    - curl =7.81.0 =hf45b732_0
+    - curl =7.82.0 =h9f20792_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.5.1 =py37hd8d24ac_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -108,13 +108,13 @@ requirements:
     - docutils =0.17.1 =py37hf985489_1
     - entrypoints =0.4 =pyhd8ed1ab_0
     - et_xmlfile =1.0.1 =py37_1000
-    - expat =2.4.6 =h96cf925_0
+    - expat =2.4.7 =h96cf925_0
     - flit-core =3.7.1 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =hab24e00_0
-    - fontconfig =2.13.96 =h10f422b_0
+    - fontconfig =2.13.96 =h676cef8_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.29.1 =py37h271585c_0
@@ -163,7 +163,7 @@ requirements:
     - libcblas =3.9.0 =13_osx64_openblas
     - libclang =13.0.1 =default_he082bbe_0
     - libclang-cpp12 =12.0.1 =default_he082bbe_4
-    - libcurl =7.81.0 =hf45b732_0
+    - libcurl =7.82.0 =h9f20792_0
     - libcxx =12.0.1 =habf9029_1
     - libdeflate =1.10 =h0d85af4_0
     - libedit =3.1.20191231 =h0678c8f_2

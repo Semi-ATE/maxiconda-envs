@@ -31,12 +31,12 @@ requirements:
     - bitarray =2.4.0 =py38h81aae68_0
     - cython =0.29.28 =py38h0119ad3_0
     - grayskull =1.1.2 =pyhd8ed1ab_0
-    - hypothesis =6.39.2 =pyhd8ed1ab_0
+    - hypothesis =6.39.3 =pyhd8ed1ab_0
     - ipython =7.32.0 =py38h2063c64_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
     - matplotlib =3.5.1 =py38h2063c64_0
     - numba =0.53.1 =py38h887e8e3_1
-    - numpy =1.22.2 =py38he9a3fad_0
+    - numpy =1.22.3 =py38h09d2039_0
     - openpyxl =3.0.9 =pyhd8ed1ab_0
     - paho-mqtt =1.6.0 =pyhd8ed1ab_0
     - pandas =1.4.1 =py38hd4bfb9c_0
@@ -96,7 +96,7 @@ requirements:
     - colorama =0.4.4 =pyh9f0ad1d_0
     - conda-souschef =2.1.1 =pyhd8ed1ab_0
     - cryptography =36.0.1 =py38h1376e7f_0
-    - curl =7.81.0 =hcafe9da_0
+    - curl =7.82.0 =h8fd98b7_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h12b9eeb_3
     - debugpy =1.5.1 =py38h0119ad3_0
@@ -105,14 +105,14 @@ requirements:
     - docutils =0.17.1 =py38h2063c64_1
     - entrypoints =0.4 =pyhd8ed1ab_0
     - et_xmlfile =1.0.1 =py_1001
-    - expat =2.4.6 =ha18d298_0
+    - expat =2.4.7 =ha18d298_0
     - fftw =3.3.10 =nompi_h92e7866_102
     - flit-core =3.7.1 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =hab24e00_0
-    - fontconfig =2.13.96 =ha44df8c_0
+    - fontconfig =2.13.96 =h856ede2_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.29.1 =py38h9544abe_0
@@ -168,7 +168,7 @@ requirements:
     - libcblas =3.9.0 =13_linuxaarch64_openblas
     - libclang =13.0.1 =default_hf9dac01_0
     - libcups =2.3.3 =h5ca083f_1
-    - libcurl =7.81.0 =hcafe9da_0
+    - libcurl =7.82.0 =h8fd98b7_0
     - libdb =6.2.32 =h01db608_0
     - libdeflate =1.10 =hf897c2e_0
     - libedit =3.1.20191231 =he28a2e2_2
