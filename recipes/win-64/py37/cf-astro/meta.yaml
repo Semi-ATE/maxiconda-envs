@@ -28,7 +28,7 @@ requirements:
     - pyqt =5.15.4 =py37h03978a9_1
     - spyder-kernels =2.2.1 =py37h03978a9_1
 
-    # 69 secondary packages :
+    # 70 secondary packages :
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -42,7 +42,7 @@ requirements:
     - gst-plugins-base =1.18.5 =he07aa86_3
     - gstreamer =1.18.5 =hdff456e_3
     - icu =69.1 =h0e60522_0
-    - ipykernel =6.9.1 =py37h4038f58_0
+    - ipykernel =6.9.2 =py37h90c5f73_0
     - ipython =7.32.0 =py37h03978a9_0
     - jedi =0.18.1 =py37h03978a9_0
     - jpeg =9e =h8ffe710_0
@@ -70,6 +70,7 @@ requirements:
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pip =22.0.4 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.27 =pyha770c72_0
+    - psutil =5.9.0 =py37hcc03f2d_0
     - pygments =2.11.2 =pyhd8ed1ab_0
     - pyparsing =3.0.7 =pyhd8ed1ab_0
     - pyqt-impl =5.15.4 =py37hf2a7229_1

@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.13.2 =py38h6f4d8f0_0
     - xgboost =1.5.1 =cpu_py38hc22ac66_2
 
-    # 298 secondary packages :
+    # 299 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.7.6 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -127,11 +127,11 @@ requirements:
     - idna =3.3 =pyhd8ed1ab_0
     - imagehash =4.2.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.9.0 =pyhd8ed1ab_0
-    - importlib-metadata =4.11.2 =py38haa244fe_0
+    - importlib-metadata =4.11.3 =py38haa244fe_0
     - importlib_resources =5.4.0 =pyhd8ed1ab_0
     - incremental =21.3.0 =pyhd8ed1ab_0
     - intel-openmp =2022.0.0 =h57928b3_3663
-    - ipykernel =6.9.1 =py38h595d716_0
+    - ipykernel =6.9.2 =py38h4317176_0
     - ipython =7.32.0 =py38haa244fe_0
     - ipython_genutils =0.2.0 =py_1
     - ipywidgets =7.6.5 =pyhd8ed1ab_0
@@ -207,7 +207,7 @@ requirements:
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
     - networkx =2.7.1 =pyhd8ed1ab_0
     - nltk =3.6.7 =pyhd8ed1ab_0
-    - notebook =6.4.8 =pyha770c72_0
+    - notebook =6.4.9 =pyha770c72_0
     - numba =0.53.1 =py38h99fac5f_1
     - numexpr =2.7.3 =py38h5d928e2_2
     - openjpeg =2.4.0 =hb211442_1
@@ -233,6 +233,7 @@ requirements:
     - prompt-toolkit =3.0.27 =pyha770c72_0
     - protego =0.1.16 =py_0
     - protobuf =3.19.4 =py38h885f38d_0
+    - psutil =5.9.0 =py38h294d835_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - py-xgboost =1.5.1 =cpu_py38hc22ac66_2
     - pyasn1 =0.4.8 =py_0
@@ -293,7 +294,7 @@ requirements:
     - terminado =0.13.3 =py38haa244fe_0
     - testpath =0.6.0 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
-    - thinc =8.0.13 =py38he5193b3_0
+    - thinc =8.0.14 =py38h9e3ed74_0
     - threadpoolctl =3.1.0 =pyh8a188c0_0
     - tk =8.6.12 =h8ffe710_0
     - tldextract =3.2.0 =pyhd8ed1ab_0

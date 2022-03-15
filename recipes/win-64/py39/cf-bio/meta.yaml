@@ -36,7 +36,7 @@ requirements:
     - scipy =1.8.0 =py39hc0c34ad_1
     - spyder-kernels =2.2.1 =py39hcbf5309_1
 
-    # 150 secondary packages :
+    # 151 secondary packages :
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -78,7 +78,7 @@ requirements:
     - hdf5 =1.10.6 =nompi_h5268f04_1114
     - icu =69.1 =h0e60522_0
     - intel-openmp =2022.0.0 =h57928b3_3663
-    - ipykernel =6.9.1 =py39h832f523_0
+    - ipykernel =6.9.2 =py39h832f523_0
     - ipython =7.32.0 =py39hcbf5309_0
     - jbig =2.1 =h8d14728_2003
     - jedi =0.18.1 =py39hcbf5309_0
@@ -142,6 +142,7 @@ requirements:
     - pixman =0.40.0 =h8ffe710_0
     - pmw =2.0.1 =py39hcbf5309_1004
     - prompt-toolkit =3.0.27 =pyha770c72_0
+    - psutil =5.9.0 =py39hb82d6ee_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - pycairo =1.21.0 =py39h1f09dad_0
     - pygments =2.11.2 =pyhd8ed1ab_0
