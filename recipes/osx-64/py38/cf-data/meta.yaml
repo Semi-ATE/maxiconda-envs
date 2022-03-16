@@ -42,18 +42,18 @@ requirements:
     - seaborn =0.11.2 =hd8ed1ab_0
     - spyder-kernels =2.2.1 =py38h50d1736_1
     - sqlalchemy =1.4.32 =py38hed1de0f_0
-    - sqlite =3.37.0 =h23a322b_0
+    - sqlite =3.37.1 =hb516253_0
     - statsmodels =0.13.2 =py38hbe852b5_0
     - xgboost =1.5.1 =cpu_py38h39ba569_2
 
     # 302 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
-    - alembic =1.7.6 =pyhd8ed1ab_0
+    - alembic =1.7.7 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.2 =py38h50d1736_2
     - argon2-cffi =21.3.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py38h96a0964_1
-    - asn1crypto =1.5.0 =pyhd8ed1ab_0
+    - asn1crypto =1.5.1 =pyhd8ed1ab_0
     - atk-1.0 =2.36.0 =he69c4ee_4
     - attrs =21.4.0 =pyhd8ed1ab_0
     - automat =20.2.0 =py_0
@@ -156,9 +156,9 @@ requirements:
     - jupyter_core =4.9.2 =py38h50d1736_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
     - jupyterlab_widgets =1.0.2 =pyhd8ed1ab_0
-    - kiwisolver =1.3.2 =py38h12bbefe_1
+    - kiwisolver =1.4.0 =py38h8b7791e_0
     - kmodes =0.11.1 =pyhd8ed1ab_0
-    - krb5 =1.19.2 =hb49756b_4
+    - krb5 =1.19.3 =hb49756b_0
     - langcodes =3.3.0 =pyhd8ed1ab_0
     - lcms2 =2.12 =h577c468_0
     - lerc =3.0 =he49afe7_0
@@ -202,7 +202,7 @@ requirements:
     - lxml =4.8.0 =py38h6ea4786_0
     - lz4-c =1.9.3 =he49afe7_1
     - mako =1.2.0 =pyhd8ed1ab_0
-    - markupsafe =2.1.0 =py38hed1de0f_1
+    - markupsafe =2.1.1 =py38hed1de0f_0
     - matplotlib-base =3.5.1 =py38hc7d2367_0
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
@@ -223,7 +223,7 @@ requirements:
     - networkx =2.7.1 =pyhd8ed1ab_0
     - ninja =1.10.2 =h940c156_1
     - nltk =3.6.7 =pyhd8ed1ab_0
-    - notebook =6.4.9 =pyha770c72_0
+    - notebook =6.4.10 =pyha770c72_0
     - nspr =4.32 =hcd9eead_1
     - nss =3.74 =h31e2bf1_0
     - numba =0.53.0 =py38hab5c5c7_0
@@ -251,7 +251,7 @@ requirements:
     - prometheus_client =0.13.1 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.19.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.27 =pyha770c72_0
-    - protego =0.1.16 =py_0
+    - protego =0.2.1 =pyhd8ed1ab_0
     - protobuf =3.19.4 =py38ha048514_0
     - psutil =5.9.0 =py38h96a0964_0
     - pthread-stubs =0.4 =hc929b4f_1001
@@ -314,7 +314,7 @@ requirements:
     - terminado =0.13.3 =py38h50d1736_0
     - testpath =0.6.0 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
-    - thinc =8.0.14 =py38ha47dcfc_0
+    - thinc =8.0.15 =py38ha47dcfc_0
     - threadpoolctl =3.1.0 =pyh8a188c0_0
     - tk =8.6.12 =h5dbffcc_0
     - toml =0.10.2 =pyhd8ed1ab_0

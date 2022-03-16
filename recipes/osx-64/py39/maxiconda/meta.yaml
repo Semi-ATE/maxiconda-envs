@@ -56,7 +56,7 @@ requirements:
     - scipy =1.8.0 =py39h056f1c0_1
     - spyder-kernels =2.2.1 =py39h6e9494a_1
     - sqlalchemy =1.4.32 =py39h63b48b0_0
-    - sqlite =3.37.0 =h23a322b_0
+    - sqlite =3.37.1 =hb516253_0
     - sympy =1.10 =py39h6e9494a_0
     - tqdm =4.63.0 =pyhd8ed1ab_0
     - transitions =0.8.11 =pyhd8ed1ab_0
@@ -150,8 +150,8 @@ requirements:
     - jupyter_client =7.1.2 =pyhd8ed1ab_0
     - jupyter_core =4.9.2 =py39h6e9494a_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
-    - kiwisolver =1.3.2 =py39hf018cea_1
-    - krb5 =1.19.2 =hb49756b_4
+    - kiwisolver =1.4.0 =py39h7248d28_0
+    - krb5 =1.19.3 =hb49756b_0
     - lcms2 =2.12 =h577c468_0
     - ld64_osx-64 =609 =hc6b1d1e_9
     - lerc =3.0 =he49afe7_0
@@ -197,7 +197,7 @@ requirements:
     - llvmlite =0.36.0 =py39h798a4f4_0
     - lz4-c =1.9.3 =he49afe7_1
     - make =4.3 =h22f3db7_1
-    - markupsafe =2.1.0 =py39h63b48b0_1
+    - markupsafe =2.1.1 =py39h63b48b0_0
     - matplotlib-base =3.5.1 =py39hb07454d_0
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mistune =0.8.4 =py39h89e85a6_1005
@@ -213,7 +213,7 @@ requirements:
     - nbformat =5.2.0 =pyhd8ed1ab_0
     - ncurses =6.3 =he49afe7_0
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
-    - notebook =6.4.9 =pyha770c72_0
+    - notebook =6.4.10 =pyha770c72_0
     - nspr =4.32 =hcd9eead_1
     - nss =3.74 =h31e2bf1_0
     - openjpeg =2.4.0 =h6e7aa92_1

@@ -123,8 +123,8 @@ requirements:
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
     - keyring =23.4.0 =py37hfd236b0_2
     - keyutils =1.6.1 =h4e544f5_0
-    - kiwisolver =1.3.2 =py37h7ed3beb_1
-    - krb5 =1.19.2 =h7c456eb_4
+    - kiwisolver =1.4.0 =py37h020193f_0
+    - krb5 =1.19.3 =h7c456eb_0
     - lazy-object-proxy =1.7.1 =py37h494a423_0
     - lcms2 =2.12 =h012adcb_0
     - ld_impl_linux-aarch64 =2.36.1 =h02ad14f_2
@@ -143,11 +143,11 @@ requirements:
     - libevent =2.1.10 =h6aed413_4
     - libffi =3.4.2 =h3557bc0_5
     - libflac =1.3.4 =h4de3ea5_0
-    - libgcc-ng =11.2.0 =hf1cc4e7_13
-    - libgfortran-ng =11.2.0 =he9431aa_13
-    - libgfortran5 =11.2.0 =h440fb59_13
+    - libgcc-ng =11.2.0 =hf1cc4e7_14
+    - libgfortran-ng =11.2.0 =he9431aa_14
+    - libgfortran5 =11.2.0 =h440fb59_14
     - libglib =2.70.2 =hde3fb6c_4
-    - libgomp =11.2.0 =hf1cc4e7_13
+    - libgomp =11.2.0 =hf1cc4e7_14
     - libiconv =1.16 =h6dd45c4_0
     - liblapack =3.9.0 =13_linuxaarch64_openblas
     - libllvm13 =13.0.1 =hb2805f8_2
@@ -160,7 +160,7 @@ requirements:
     - libsndfile =1.0.31 =h01db608_1
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =1.9.3 =h01db608_4
-    - libstdcxx-ng =11.2.0 =h0d0a5bb_13
+    - libstdcxx-ng =11.2.0 =h0d0a5bb_14
     - libtiff =4.3.0 =hdea21e4_3
     - libtool =2.4.6 =h01db608_1008
     - libuuid =2.32.1 =hf897c2e_1000
@@ -172,7 +172,7 @@ requirements:
     - libxml2 =2.9.12 =h1e2ce75_1
     - libzlib =1.2.11 =hb9de7d4_1013
     - lz4-c =1.9.3 =h01db608_1
-    - markupsafe =2.1.0 =py37heeccf27_1
+    - markupsafe =2.1.1 =py37heeccf27_0
     - matplotlib-base =3.5.1 =py37hb72241e_0
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mccabe =0.6.1 =py_1
@@ -264,7 +264,7 @@ requirements:
     - sphinxcontrib-qthelp =1.0.3 =py_0
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_1
     - spyder-kernels =2.2.1 =py37hfd236b0_1
-    - sqlite =3.37.0 =hc164836_0
+    - sqlite =3.37.1 =hc74f5b8_0
     - terminado =0.13.3 =py37hd9ded2f_0
     - testpath =0.6.0 =pyhd8ed1ab_0
     - text-unidecode =1.3 =py_0
