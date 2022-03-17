@@ -118,7 +118,7 @@ requirements:
     - gitdb =4.0.9 =pyhd8ed1ab_0
     - gitpython =3.1.27 =pyhd8ed1ab_0
     - graphite2 =1.3.13 =h2e338ed_1001
-    - graphviz =3.0.0 =h6f567cf_0
+    - graphviz =3.0.0 =h6f567cf_1
     - greenlet =1.1.2 =py37hd8d24ac_1
     - gst-plugins-base =1.18.5 =h63a84d5_3
     - gstreamer =1.18.5 =h8cc6204_3
@@ -141,21 +141,21 @@ requirements:
     - ipykernel =6.9.2 =py37h0a7177a_0
     - ipython =7.32.0 =py37hf985489_0
     - ipython_genutils =0.2.0 =py_1
-    - ipywidgets =7.6.5 =pyhd8ed1ab_0
+    - ipywidgets =7.7.0 =pyhd8ed1ab_0
     - itemadapter =0.4.0 =pyhd8ed1ab_0
     - itemloaders =1.0.4 =pyhd8ed1ab_0
     - itsdangerous =2.1.1 =pyhd8ed1ab_0
     - jbig =2.1 =h0d85af4_2003
     - jedi =0.18.1 =py37hf985489_0
     - jinja2 =3.0.3 =pyhd8ed1ab_0
-    - jmespath =0.10.0 =pyh9f0ad1d_0
+    - jmespath =1.0.0 =pyhd8ed1ab_0
     - joblib =1.1.0 =pyhd8ed1ab_0
     - jpeg =9e =h0d85af4_0
     - jsonschema =4.4.0 =pyhd8ed1ab_0
     - jupyter_client =7.1.2 =pyhd8ed1ab_0
     - jupyter_core =4.9.2 =py37hf985489_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
-    - jupyterlab_widgets =1.0.2 =pyhd8ed1ab_0
+    - jupyterlab_widgets =1.1.0 =pyhd8ed1ab_0
     - kiwisolver =1.4.0 =py37h18621fa_0
     - kmodes =0.11.1 =pyhd8ed1ab_0
     - krb5 =1.19.3 =hb49756b_0
@@ -241,7 +241,7 @@ requirements:
     - patsy =0.5.2 =pyhd8ed1ab_0
     - pcre =8.45 =he49afe7_0
     - pexpect =4.8.0 =py37hc8dfbb8_1
-    - phik =0.12.0 =py37h6778b53_1
+    - phik =0.12.1 =py37h91ec133_0
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pillow =9.0.1 =py37h2540ef4_2
     - pip =22.0.4 =pyhd8ed1ab_0
@@ -287,7 +287,7 @@ requirements:
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
     - readline =8.1 =h05e3726_0
-    - regex =2022.3.2 =py37h69ee0a8_0
+    - regex =2022.3.15 =py37h69ee0a8_0
     - requests =2.27.1 =pyhd8ed1ab_0
     - retrying =1.3.3 =py_2
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
@@ -335,7 +335,7 @@ requirements:
     - websocket-client =1.3.1 =pyhd8ed1ab_0
     - werkzeug =2.0.3 =pyhd8ed1ab_1
     - wheel =0.37.1 =pyhd8ed1ab_0
-    - widgetsnbextension =3.5.2 =py37hf985489_1
+    - widgetsnbextension =3.6.0 =py37hf985489_0
     - wordcloud =1.8.1 =py37h271585c_2
     - wurlitzer =3.0.2 =py37hf985489_1
     - xorg-libxau =1.0.9 =h35c211d_0
