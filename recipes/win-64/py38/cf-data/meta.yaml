@@ -120,7 +120,7 @@ requirements:
     - gst-plugins-base =1.18.5 =he07aa86_3
     - gstreamer =1.18.5 =hdff456e_3
     - gts =0.7.6 =h7c369d9_2
-    - harfbuzz =3.4.0 =hc1763ed_0
+    - harfbuzz =4.0.1 =hc1763ed_0
     - htmlmin =0.1.12 =py_1
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =69.1 =h0e60522_0
@@ -216,7 +216,7 @@ requirements:
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pandoc =2.17.1.1 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.50.5 =h6a11761_1
+    - pango =1.50.5 =h66df5b2_2
     - parsel =1.6.0 =py_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pathy =0.6.1 =pyhd8ed1ab_0
@@ -275,7 +275,7 @@ requirements:
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - service_identity =18.1.0 =py_0
-    - setuptools =60.9.3 =py38haa244fe_0
+    - setuptools =60.10.0 =py38haa244fe_0
     - shellingham =1.4.0 =pyh44b312d_0
     - sip =6.5.1 =py38h885f38d_2
     - six =1.16.0 =pyh6c4a22f_0
@@ -310,7 +310,7 @@ requirements:
     - ucrt =10.0.20348.0 =h57928b3_0
     - umap-learn =0.5.2 =py38haa244fe_1
     - unicodedata2 =14.0.0 =py38h294d835_0
-    - urllib3 =1.26.8 =pyhd8ed1ab_1
+    - urllib3 =1.26.9 =pyhd8ed1ab_0
     - vc =14.2 =hb210afc_6
     - visions =0.7.1 =pyhd8ed1ab_0
     - vs2015_runtime =14.29.30037 =h902a5da_6
