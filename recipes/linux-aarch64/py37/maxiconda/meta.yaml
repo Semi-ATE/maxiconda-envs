@@ -44,7 +44,7 @@ requirements:
     - pydantic =1.9.0 =py37hcd4c3ab_0
     - pyqt =5.15.4 =py37hd9ded2f_1
     - pyserial =3.5 =pyhd8ed1ab_0
-    - pytest =7.1.0 =py37hd9ded2f_0
+    - pytest =7.1.1 =py37hd9ded2f_0
     - pyyaml =6.0 =py37hcd4c3ab_3
     - qdarkstyle =3.0.3 =pyhd8ed1ab_0
     - qtawesome =1.1.1 =pyhd8ed1ab_0
@@ -79,7 +79,7 @@ requirements:
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - binutils_impl_linux-aarch64 =2.36.1 =h026399b_2
-    - binutils_linux-aarch64 =2.36 =h7854541_7
+    - binutils_linux-aarch64 =2.36 =h7854541_8
     - bleach =4.1.0 =pyhd8ed1ab_0
     - brotli =1.0.9 =hf897c2e_6
     - brotli-bin =1.0.9 =hf897c2e_6
@@ -115,15 +115,15 @@ requirements:
     - fontconfig =2.13.96 =h856ede2_2
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.30.0 =py37heeccf27_0
+    - fonttools =4.31.1 =py37heeccf27_0
     - freetype =2.10.4 =hdf53a3c_1
     - fribidi =1.0.10 =hb9de7d4_0
     - frozenlist =1.3.0 =py37hcd4c3ab_0
     - gcc_impl_linux-aarch64 =9.4.0 =h603953f_14
-    - gcc_linux-aarch64 =9.4.0 =h9fa865e_7
+    - gcc_linux-aarch64 =9.4.0 =h9fa865e_8
     - gettext =0.19.8.1 =h6edf1e2_1008
     - gfortran_impl_linux-aarch64 =9.4.0 =h54cdb55_14
-    - gfortran_linux-aarch64 =9.4.0 =h02353c8_7
+    - gfortran_linux-aarch64 =9.4.0 =h02353c8_8
     - giflib =5.2.1 =hb9de7d4_2
     - git =2.35.1 =pl5321hd6c143b_0
     - gmp =6.2.1 =h7fd3ca4_0
@@ -134,7 +134,7 @@ requirements:
     - gst-plugins-base =1.18.5 =h227fc8a_3
     - gstreamer =1.18.5 =h01406a2_3
     - gxx_impl_linux-aarch64 =9.4.0 =h603953f_14
-    - gxx_linux-aarch64 =9.4.0 =h1e24722_7
+    - gxx_linux-aarch64 =9.4.0 =h1e24722_8
     - harfbuzz =4.0.1 =hefe178f_0
     - icu =69.1 =h3621d8e_0
     - idna =3.3 =pyhd8ed1ab_0
@@ -408,7 +408,7 @@ requirements:
     - r-repr =1.1.4 =r41h785f33e_0
     - r-reprex =2.0.1 =r41hc72bb7e_0
     - r-reshape2 =1.4.4 =r41hecdc70b_1
-    - r-rlang =0.4.12 =r41h96a179c_0
+    - r-rlang =1.0.2 =r41hf13958e_0
     - r-rmarkdown =2.13 =r41hc72bb7e_1
     - r-rpart =4.1.16 =r41h96a179c_0
     - r-rprojroot =2.0.2 =r41hc72bb7e_0

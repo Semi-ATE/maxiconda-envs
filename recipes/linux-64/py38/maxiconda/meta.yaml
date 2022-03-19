@@ -44,7 +44,7 @@ requirements:
     - pydantic =1.9.0 =py38h497a2fe_0
     - pyqt =5.15.4 =py38h578d9bd_1
     - pyserial =3.5 =pyhd8ed1ab_0
-    - pytest =7.1.0 =py38h578d9bd_0
+    - pytest =7.1.1 =py38h578d9bd_0
     - pyyaml =6.0 =py38h497a2fe_3
     - qdarkstyle =3.0.3 =pyhd8ed1ab_0
     - qtawesome =1.1.1 =pyhd8ed1ab_0
@@ -79,7 +79,7 @@ requirements:
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - binutils_impl_linux-64 =2.36.1 =h193b22a_2
-    - binutils_linux-64 =2.36 =hf3e587d_7
+    - binutils_linux-64 =2.36 =hf3e587d_8
     - bleach =4.1.0 =pyhd8ed1ab_0
     - brotli =1.0.9 =h7f98852_6
     - brotli-bin =1.0.9 =h7f98852_6
@@ -116,15 +116,15 @@ requirements:
     - fontconfig =2.13.96 =h8e229c2_2
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.30.0 =py38h0a891b7_0
+    - fonttools =4.31.1 =py38h0a891b7_0
     - freetype =2.10.4 =h0708190_1
     - fribidi =1.0.10 =h36c2ea0_0
     - frozenlist =1.3.0 =py38h497a2fe_0
     - gcc_impl_linux-64 =9.4.0 =h03d3576_14
-    - gcc_linux-64 =9.4.0 =h391b98a_7
+    - gcc_linux-64 =9.4.0 =h391b98a_8
     - gettext =0.19.8.1 =h73d1719_1008
     - gfortran_impl_linux-64 =9.4.0 =h0003116_14
-    - gfortran_linux-64 =9.4.0 =hf0ab688_7
+    - gfortran_linux-64 =9.4.0 =hf0ab688_8
     - giflib =5.2.1 =h36c2ea0_2
     - git =2.35.1 =pl5321h36853c3_0
     - gmp =6.2.1 =h58526e2_0
@@ -135,7 +135,7 @@ requirements:
     - gst-plugins-base =1.18.5 =hf529b03_3
     - gstreamer =1.18.5 =h9f60fe5_3
     - gxx_impl_linux-64 =9.4.0 =h03d3576_14
-    - gxx_linux-64 =9.4.0 =h0316aca_7
+    - gxx_linux-64 =9.4.0 =h0316aca_8
     - harfbuzz =3.4.0 =hb4a5f5f_0
     - icu =69.1 =h9c3ff4c_0
     - idna =3.3 =pyhd8ed1ab_0
@@ -408,7 +408,7 @@ requirements:
     - r-repr =1.1.4 =r41h785f33e_0
     - r-reprex =2.0.1 =r41hc72bb7e_0
     - r-reshape2 =1.4.4 =r41h03ef668_1
-    - r-rlang =0.4.12 =r41hcfec24a_0
+    - r-rlang =1.0.2 =r41h7525677_0
     - r-rmarkdown =2.13 =r41hc72bb7e_1
     - r-rpart =4.1.16 =r41hcfec24a_0
     - r-rprojroot =2.0.2 =r41hc72bb7e_0
