@@ -27,7 +27,7 @@ requirements:
     # 10 primary packages :
     - biopython =1.79 =py38h294d835_1
     - matplotlib =3.5.1 =py38haa244fe_0
-    - mdanalysis =2.1.0 =py38h885f38d_0
+    - mdanalysis =2.1.0 =py38h885f38d_1
     - numpy =1.22.3 =py38hcf66579_0
     - pandas =1.4.1 =py38h5d928e2_0
     - pymol-open-source =2.5.0 =py38h12185f3_4
@@ -129,7 +129,7 @@ requirements:
     - munkres =1.1.4 =pyh9f0ad1d_0
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
     - netcdf4 =1.5.6 =nompi_py38h8504c39_102
-    - networkx =2.7.1 =pyhd8ed1ab_0
+    - networkx =2.7.1 =pyhd8ed1ab_1
     - openjpeg =2.4.0 =hb211442_1
     - openssl =1.1.1l =h8ffe710_0
     - packaging =21.3 =pyhd8ed1ab_0
