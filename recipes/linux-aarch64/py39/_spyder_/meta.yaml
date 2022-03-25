@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.10 =he7f7bba_2_cpython
+    - python =3.9.12 =h2eada40_0_cpython
   run:
-    - python =3.9.10 =he7f7bba_2_cpython
+    - python =3.9.12 =h2eada40_0_cpython
 
     # 9 primary packages :
     - cython =0.29.27 =py39h99ab00b_0
@@ -114,7 +114,7 @@ requirements:
     - jedi =0.18.1 =py39ha65689a_0
     - jeepney =0.7.1 =pyhd8ed1ab_0
     - jellyfish =0.9.0 =py39h14843e3_0
-    - jinja2 =3.0.3 =pyhd8ed1ab_0
+    - jinja2 =3.1.0 =pyhd8ed1ab_0
     - jinja2-time =0.2.0 =pyhd8ed1ab_3
     - jpeg =9e =h3557bc0_0
     - json-c =0.15 =hf268ab8_0
@@ -194,7 +194,7 @@ requirements:
     - nss =3.76 =h1b46d77_0
     - numpydoc =1.2 =pyhd8ed1ab_0
     - openjpeg =2.4.0 =h45037e0_1
-    - openssl =1.1.1l =hf897c2e_0
+    - openssl =1.1.1n =h4e544f5_0
     - packaging =21.3 =pyhd8ed1ab_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0

@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.10 =h1dd9edd_2_cpython
+    - python =3.9.12 =h8b4d769_0_cpython
   run:
-    - python =3.9.10 =h1dd9edd_2_cpython
+    - python =3.9.12 =h8b4d769_0_cpython
 
     # 9 primary packages :
     - biopython =1.79 =py39h89e85a6_1
@@ -140,7 +140,7 @@ requirements:
     - nspr =4.32 =hcd9eead_1
     - nss =3.76 =hfce436b_0
     - openjpeg =2.4.0 =h6e7aa92_1
-    - openssl =1.1.1l =h0d85af4_0
+    - openssl =1.1.1n =h6c3fc93_0
     - packaging =21.3 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - patsy =0.5.2 =pyhd8ed1ab_0
@@ -182,7 +182,7 @@ requirements:
     - tk =8.6.12 =h5dbffcc_0
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.1 =py39h89e85a6_2
-    - tqdm =4.63.0 =pyhd8ed1ab_0
+    - tqdm =4.63.1 =pyhd8ed1ab_0
     - traitlets =5.1.1 =pyhd8ed1ab_0
     - tzdata =2022a =h191b570_0
     - unicodedata2 =14.0.0 =py39h89e85a6_0

@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.10 =h9a09f29_2_cpython
+    - python =3.9.12 =h9a09f29_0_cpython
   run:
-    - python =3.9.10 =h9a09f29_2_cpython
+    - python =3.9.12 =h9a09f29_0_cpython
 
     # 8 primary packages :
     - numpy =1.22.3 =py39h6331f09_0
@@ -78,7 +78,7 @@ requirements:
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mkl =2022.0.0 =h0e2418a_796
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
-    - openssl =1.1.1l =h8ffe710_0
+    - openssl =1.1.1n =h8ffe710_0
     - packaging =21.3 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre =8.45 =h0e60522_0

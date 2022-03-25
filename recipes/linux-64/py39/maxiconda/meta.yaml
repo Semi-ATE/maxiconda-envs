@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.10 =h85951f9_2_cpython
+    - python =3.9.12 =h9a8a25e_0_cpython
   run:
-    - python =3.9.10 =h85951f9_2_cpython
+    - python =3.9.12 =h9a8a25e_0_cpython
 
     # 36 primary packages :
     - aiohttp =3.8.1 =py39h3811e60_0
@@ -33,7 +33,7 @@ requirements:
     - grayskull =1.1.2 =pyhd8ed1ab_0
     - hypothesis =6.39.4 =pyhd8ed1ab_0
     - ipython =7.32.0 =py39hf3d152e_0
-    - jinja2 =3.0.3 =pyhd8ed1ab_0
+    - jinja2 =3.1.0 =pyhd8ed1ab_0
     - matplotlib =3.5.1 =py39hf3d152e_0
     - numba =0.53.1 =py39h56b8d98_1
     - numpy =1.22.3 =py39h18676bf_0
@@ -58,7 +58,7 @@ requirements:
     - sqlalchemy =1.4.32 =py39hb9d737c_0
     - sqlite =3.37.1 =h4ff8645_0
     - sympy =1.10.1 =py39hf3d152e_0
-    - tqdm =4.63.0 =pyhd8ed1ab_0
+    - tqdm =4.63.1 =pyhd8ed1ab_0
     - transitions =0.8.11 =pyhd8ed1ab_0
     - xmltodict =0.12.0 =py_0
 
@@ -233,7 +233,7 @@ requirements:
     - nspr =4.32 =h9c3ff4c_1
     - nss =3.76 =h2350873_0
     - openjpeg =2.4.0 =hb52868f_1
-    - openssl =1.1.1l =h7f98852_0
+    - openssl =1.1.1n =h166bdaf_0
     - packaging =21.3 =pyhd8ed1ab_0
     - pandoc =2.17.1.1 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -311,7 +311,7 @@ requirements:
     - r-e1071 =1.7_9 =r41h03ef668_0
     - r-ellipsis =0.3.2 =r41hcfec24a_0
     - r-evaluate =0.15 =r41hc72bb7e_0
-    - r-fansi =1.0.2 =r41hcfec24a_0
+    - r-fansi =1.0.3 =r41h06615bd_0
     - r-farver =2.1.0 =r41h03ef668_0
     - r-fastmap =1.1.0 =r41h03ef668_0
     - r-fontawesome =0.2.2 =r41hc72bb7e_0
@@ -415,7 +415,7 @@ requirements:
     - r-rprojroot =2.0.2 =r41hc72bb7e_0
     - r-rstudioapi =0.13 =r41hc72bb7e_0
     - r-rvest =1.0.2 =r41hc72bb7e_0
-    - r-sass =0.4.0 =r41h03ef668_0
+    - r-sass =0.4.1 =r41h7525677_0
     - r-scales =1.1.1 =r41hc72bb7e_0
     - r-selectr =0.4_2 =r41hc72bb7e_1
     - r-shape =1.4.6 =r41ha770c72_0
