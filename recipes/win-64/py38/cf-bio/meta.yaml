@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.12 =h7840368_2_cpython
+    - python =3.8.13 =h9a09f29_0_cpython
   run:
-    - python =3.8.12 =h7840368_2_cpython
+    - python =3.8.13 =h9a09f29_0_cpython
 
     # 10 primary packages :
     - biopython =1.79 =py38h294d835_1
@@ -162,7 +162,7 @@ requirements:
     - scikit-learn =1.0.2 =py38hb60ee80_0
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
-    - setuptools =60.10.0 =py38haa244fe_0
+    - setuptools =61.0.0 =py38haa244fe_0
     - sip =6.5.1 =py38h885f38d_2
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.32 =py38h294d835_0

@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.12 =h17280f6_3_cpython
+    - python =3.8.13 =h394c593_0_cpython
   run:
-    - python =3.8.12 =h17280f6_3_cpython
+    - python =3.8.13 =h394c593_0_cpython
 
     # 9 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =1.4.32 =py38hed1de0f_0
     - twisted =22.2.0 =py38hed1de0f_0
 
-    # 117 secondary packages :
+    # 118 secondary packages :
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.2 =py38h50d1736_2
     - asgiref =3.5.0 =pyhd8ed1ab_0
@@ -47,6 +47,7 @@ requirements:
     - backports.zoneinfo =0.2.1 =py38h96a0964_4
     - bcrypt =3.2.0 =py38h96a0964_2
     - brotlipy =0.7.0 =py38h96a0964_1003
+    - bzip2 =1.0.8 =h0d85af4_4
     - ca-certificates =2021.10.8 =h033912b_0
     - certifi =2021.10.8 =py38h50d1736_1
     - cffi =1.15.0 =py38h1a44b6c_0
@@ -130,7 +131,7 @@ requirements:
     - qt-webengine =5.15.4 =h3a3182f_1
     - readline =8.1 =h05e3726_0
     - service_identity =18.1.0 =py_0
-    - setuptools =60.10.0 =py38h50d1736_0
+    - setuptools =61.0.0 =py38h50d1736_0
     - sip =6.5.1 =py38ha048514_2
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.3.1 =pyhd8ed1ab_0

@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.12 =hab31e5c_3_cpython
+    - python =3.8.13 =h7e095e3_0_cpython
   run:
-    - python =3.8.12 =hab31e5c_3_cpython
+    - python =3.8.13 =h7e095e3_0_cpython
 
     # 8 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
@@ -34,7 +34,7 @@ requirements:
     - sqlalchemy =1.4.32 =py38h33210d7_0
     - twisted =22.2.0 =py38h33210d7_0
 
-    # 76 secondary packages :
+    # 77 secondary packages :
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.2 =py38h10201cd_2
     - asgiref =3.5.0 =pyhd8ed1ab_0
@@ -45,6 +45,7 @@ requirements:
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - bcrypt =3.2.0 =py38hea4295b_2
     - brotlipy =0.7.0 =py38hea4295b_1003
+    - bzip2 =1.0.8 =h3422bc3_4
     - ca-certificates =2021.10.8 =h4653dfc_0
     - certifi =2021.10.8 =py38h10201cd_1
     - cffi =1.15.0 =py38hc67bbb8_0
@@ -92,7 +93,7 @@ requirements:
     - pyzmq =22.3.0 =py38h51b17a6_1
     - readline =8.1 =hedafd6a_0
     - service_identity =18.1.0 =py_0
-    - setuptools =60.10.0 =py38h10201cd_0
+    - setuptools =61.0.0 =py38h10201cd_0
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.3.1 =pyhd8ed1ab_0
     - sqlite =3.37.1 =h7e3ccbd_0

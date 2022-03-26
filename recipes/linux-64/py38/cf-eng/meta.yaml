@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.12 =ha38a3c6_3_cpython
+    - python =3.8.13 =h582c2e5_0_cpython
   run:
-    - python =3.8.12 =ha38a3c6_3_cpython
+    - python =3.8.13 =h582c2e5_0_cpython
 
     # 8 primary packages :
     - numpy =1.22.3 =py38h05e7239_0
@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.5.2 =pyh44b312d_0
     - spyder-kernels =2.2.1 =py38h578d9bd_1
 
-    # 136 secondary packages :
+    # 137 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =1_gnu
     - alsa-lib =1.2.3 =h516909a_0
@@ -42,6 +42,7 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
+    - bzip2 =1.0.8 =h7f98852_4
     - ca-certificates =2021.10.8 =ha878542_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
@@ -152,7 +153,7 @@ requirements:
     - qt-main =5.15.2 =h88c78e7_2
     - qt-webengine =5.15.4 =h19fc7b4_1
     - readline =8.1 =h46c0cb4_0
-    - setuptools =60.10.0 =py38h578d9bd_0
+    - setuptools =61.0.0 =py38h578d9bd_0
     - sip =6.5.1 =py38h709712a_2
     - six =1.16.0 =pyh6c4a22f_0
     - sqlite =3.37.1 =h4ff8645_0

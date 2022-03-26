@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.12 =h2eada40_0_cpython
+    - python =3.9.12 =h2eada40_1_cpython
   run:
-    - python =3.9.12 =h2eada40_0_cpython
+    - python =3.9.12 =h2eada40_1_cpython
 
     # 8 primary packages :
     - numpy =1.22.3 =py39h80965e7_0
@@ -153,7 +153,7 @@ requirements:
     - qt-main =5.15.2 =h023c47d_1
     - qt-webengine =5.15.4 =h7c9c5db_1
     - readline =8.1 =h1a49cc3_0
-    - setuptools =60.10.0 =py39ha65689a_0
+    - setuptools =61.0.0 =py39ha65689a_0
     - sip =6.5.1 =py39h99ab00b_2
     - six =1.16.0 =pyh6c4a22f_0
     - sqlite =3.37.1 =hc74f5b8_0
