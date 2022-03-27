@@ -27,7 +27,7 @@ requirements:
     # 9 primary packages :
     - beautifulsoup4 =4.10.0 =pyha770c72_0
     - django =4.0 =pyhd8ed1ab_0
-    - jinja2 =3.1.0 =pyhd8ed1ab_0
+    - jinja2 =3.1.1 =pyhd8ed1ab_0
     - pyqt =5.15.4 =py37hf985489_1
     - pyyaml =6.0 =py37h271585c_3
     - requests =2.27.1 =pyhd8ed1ab_0
@@ -92,7 +92,7 @@ requirements:
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp =1.2.2 =h28dabe5_0
     - libwebp-base =1.2.2 =h0d85af4_1
-    - libzlib =1.2.11 =h9173be1_1013
+    - libzlib =1.2.11 =h6c3fc93_1014
     - lz4-c =1.9.3 =he49afe7_1
     - markupsafe =2.1.1 =py37h69ee0a8_0
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
@@ -131,7 +131,7 @@ requirements:
     - qt-webengine =5.15.4 =h3a3182f_1
     - readline =8.1 =h05e3726_0
     - service_identity =18.1.0 =py_0
-    - setuptools =61.0.0 =py37hf985489_0
+    - setuptools =61.1.1 =py37hf985489_0
     - sip =6.5.1 =py37hd8d24ac_2
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.3.1 =pyhd8ed1ab_0
@@ -151,7 +151,7 @@ requirements:
     - yaml =0.2.5 =h0d85af4_2
     - zeromq =4.3.4 =he49afe7_1
     - zipp =3.7.0 =pyhd8ed1ab_1
-    - zlib =1.2.11 =h9173be1_1013
+    - zlib =1.2.11 =h6c3fc93_1014
     - zope.interface =5.4.0 =py37h271585c_1
     - zstd =1.5.2 =h582d3a0_0
 

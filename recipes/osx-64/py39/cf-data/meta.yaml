@@ -134,7 +134,7 @@ requirements:
     - imagehash =4.2.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.9.0 =pyhd8ed1ab_0
     - importlib-metadata =4.11.3 =py39h6e9494a_0
-    - importlib_resources =5.4.0 =pyhd8ed1ab_0
+    - importlib_resources =5.6.0 =pyhd8ed1ab_0
     - incremental =21.3.0 =pyhd8ed1ab_0
     - ipykernel =6.9.2 =py39h71a6800_0
     - ipython =7.32.0 =py39h6e9494a_0
@@ -145,7 +145,7 @@ requirements:
     - itsdangerous =2.1.2 =pyhd8ed1ab_0
     - jbig =2.1 =h0d85af4_2003
     - jedi =0.18.1 =py39h6e9494a_0
-    - jinja2 =3.1.0 =pyhd8ed1ab_0
+    - jinja2 =3.1.1 =pyhd8ed1ab_0
     - jmespath =1.0.0 =pyhd8ed1ab_0
     - joblib =1.1.0 =pyhd8ed1ab_0
     - jpeg =9e =h0d85af4_0
@@ -191,10 +191,10 @@ requirements:
     - libxgboost =1.5.1 =cpu_h598c753_2
     - libxml2 =2.9.10 =h93ec3fd_4
     - libxslt =1.1.33 =h5739fc3_2
-    - libzlib =1.2.11 =h9173be1_1013
+    - libzlib =1.2.11 =h6c3fc93_1014
     - llvm-openmp =13.0.1 =hcb1a161_1
     - llvmlite =0.36.0 =py39h798a4f4_0
-    - lxml =4.6.3 =py39hf41e7f8_0
+    - lxml =4.8.0 =py39h63b48b0_1
     - lz4-c =1.9.3 =he49afe7_1
     - mako =1.2.0 =pyhd8ed1ab_0
     - markupsafe =2.1.1 =py39h63b48b0_0
@@ -288,7 +288,7 @@ requirements:
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - service_identity =18.1.0 =py_0
-    - setuptools =61.0.0 =py39h6e9494a_0
+    - setuptools =61.1.1 =py39h6e9494a_0
     - shellingham =1.4.0 =pyh44b312d_0
     - six =1.16.0 =pyh6c4a22f_0
     - sleef =3.5.1 =h6db0672_2
@@ -340,7 +340,7 @@ requirements:
     - yellowbrick =1.4 =pyhd8ed1ab_0
     - zeromq =4.3.4 =he49afe7_1
     - zipp =3.7.0 =pyhd8ed1ab_1
-    - zlib =1.2.11 =h9173be1_1013
+    - zlib =1.2.11 =h6c3fc93_1014
     - zope.interface =5.4.0 =py39h89e85a6_1
     - zstd =1.5.2 =h582d3a0_0
 

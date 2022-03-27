@@ -41,7 +41,7 @@ requirements:
     - alsa-lib =1.2.3 =h516909a_0
     - argh =0.26.2 =pyh9f0ad1d_1002
     - arrow =1.2.2 =pyhd8ed1ab_0
-    - astroid =2.11.0 =py39h4420490_0
+    - astroid =2.11.1 =py39h4420490_0
     - atomicwrites =1.4.0 =pyh9f0ad1d_0
     - attr =2.4.48 =h516909a_0
     - attrs =21.4.0 =pyhd8ed1ab_0
@@ -103,7 +103,7 @@ requirements:
     - imagesize =1.3.0 =pyhd8ed1ab_0
     - importlib-metadata =4.11.3 =py39ha65689a_0
     - importlib_metadata =4.11.3 =hd8ed1ab_0
-    - importlib_resources =5.4.0 =pyhd8ed1ab_0
+    - importlib_resources =5.6.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.0.2 =py_0
     - ipykernel =6.9.2 =py39hef158d4_0
@@ -115,7 +115,7 @@ requirements:
     - jedi =0.18.1 =py39ha65689a_0
     - jeepney =0.7.1 =pyhd8ed1ab_0
     - jellyfish =0.9.0 =py39h14843e3_0
-    - jinja2 =3.1.0 =pyhd8ed1ab_0
+    - jinja2 =3.1.1 =pyhd8ed1ab_0
     - jinja2-time =0.2.0 =pyhd8ed1ab_3
     - jpeg =9e =h3557bc0_0
     - json-c =0.15 =hf268ab8_0
@@ -172,7 +172,7 @@ requirements:
     - libxcb =1.13 =h3557bc0_1004
     - libxkbcommon =1.0.3 =he09c752_0
     - libxml2 =2.9.12 =h1e2ce75_1
-    - libzlib =1.2.11 =hb9de7d4_1013
+    - libzlib =1.2.11 =h4e544f5_1014
     - lz4-c =1.9.3 =h01db608_1
     - markupsafe =2.1.1 =py39hb9a1dbb_0
     - matplotlib-base =3.5.1 =py39hc6c69e0_0
@@ -219,7 +219,7 @@ requirements:
     - pydocstyle =6.1.1 =pyhd8ed1ab_0
     - pyflakes =2.4.0 =pyhd8ed1ab_0
     - pygments =2.11.2 =pyhd8ed1ab_0
-    - pylint =2.13.0 =pyhd8ed1ab_0
+    - pylint =2.13.1 =pyhd8ed1ab_0
     - pyls-spyder =0.4.0 =pyhd8ed1ab_0
     - pyopenssl =22.0.0 =pyhd8ed1ab_0
     - pyparsing =3.0.7 =pyhd8ed1ab_0
@@ -252,7 +252,7 @@ requirements:
     - rope =0.23.0 =pyhd8ed1ab_0
     - rtree =0.9.7 =py39hc184c06_3
     - secretstorage =3.3.1 =py39ha65689a_1
-    - setuptools =61.0.0 =py39ha65689a_0
+    - setuptools =61.1.1 =py39ha65689a_0
     - sip =6.5.1 =py39h99ab00b_2
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
@@ -286,7 +286,7 @@ requirements:
     - unicodedata2 =14.0.0 =py39h981f643_0
     - unidecode =1.3.4 =pyhd8ed1ab_0
     - urllib3 =1.26.9 =pyhd8ed1ab_0
-    - watchdog =2.1.6 =py39ha65689a_1
+    - watchdog =2.1.7 =py39ha65689a_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - webencodings =0.5.1 =py_1
     - wheel =0.37.1 =pyhd8ed1ab_0
@@ -299,7 +299,7 @@ requirements:
     - yapf =0.32.0 =pyhd8ed1ab_0
     - zeromq =4.3.4 =h01db608_1
     - zipp =3.7.0 =pyhd8ed1ab_1
-    - zlib =1.2.11 =hb9de7d4_1013
+    - zlib =1.2.11 =h4e544f5_1014
     - zstd =1.5.2 =h41fb7a4_0
 
 about:
