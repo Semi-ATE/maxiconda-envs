@@ -25,7 +25,7 @@ requirements:
     - python =3.7.12 =h9f07fca_100_cpython
 
     # 9 primary packages :
-    - cython =0.29.28 =py37had24c86_0
+    - cython =0.29.28 =py37hea06613_1
     - matplotlib =3.5.1 =py37hd9ded2f_0
     - numpy =1.21.5 =py37h8c07229_0
     - pandas =1.3.5 =py37hf8333fe_0
@@ -62,7 +62,7 @@ requirements:
     - cffi =1.15.0 =py37hefcd6b3_0
     - chardet =4.0.0 =py37hd9ded2f_2
     - charset-normalizer =2.0.12 =pyhd8ed1ab_0
-    - click =8.0.4 =py37hd9ded2f_0
+    - click =8.1.0 =py37hd9ded2f_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
     - coloredlogs =15.0.1 =py37hd9ded2f_2
@@ -119,7 +119,7 @@ requirements:
     - jpeg =9e =h3557bc0_0
     - json-c =0.15 =hf268ab8_0
     - jsonschema =4.4.0 =pyhd8ed1ab_0
-    - jupyter_client =7.1.2 =pyhd8ed1ab_0
+    - jupyter_client =7.2.0 =pyhd8ed1ab_0
     - jupyter_core =4.9.2 =py37hfd236b0_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
     - keyring =23.4.0 =py37hfd236b0_2
@@ -183,8 +183,8 @@ requirements:
     - mpmath =1.2.1 =pyhd8ed1ab_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =0.4.3 =py37hd9ded2f_4
-    - mysql-common =8.0.28 =h8af1aa0_0
-    - mysql-libs =8.0.28 =ha3f2873_0
+    - mysql-common =8.0.28 =hcde889d_2
+    - mysql-libs =8.0.28 =h913e832_2
     - nbclient =0.5.13 =pyhd8ed1ab_0
     - nbconvert =6.4.5 =py37hfd236b0_0
     - nbformat =5.2.0 =pyhd8ed1ab_0
@@ -280,7 +280,7 @@ requirements:
     - typed-ast =1.5.2 =py37hcd4c3ab_0
     - typing-extensions =4.1.1 =hd8ed1ab_0
     - typing_extensions =4.1.1 =pyha770c72_0
-    - ujson =5.1.0 =py37had24c86_0
+    - ujson =5.1.0 =py37hea06613_1
     - unicodedata2 =14.0.0 =py37h494a423_0
     - unidecode =1.3.4 =pyhd8ed1ab_0
     - urllib3 =1.26.9 =pyhd8ed1ab_0
