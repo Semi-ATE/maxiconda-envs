@@ -32,7 +32,7 @@ requirements:
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
     - pyvisa-py =0.5.2 =pyh44b312d_0
-    - spyder-kernels =2.2.1 =py39h4420490_1
+    - spyder-kernels =2.3.0 =py39h4420490_0
 
     # 114 secondary packages :
     - _openmp_mutex =4.5 =1_gnu
@@ -48,7 +48,7 @@ requirements:
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
     - et_xmlfile =1.0.1 =py_1001
-    - expat =2.4.7 =ha18d298_0
+    - expat =2.4.8 =ha18d298_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -66,7 +66,7 @@ requirements:
     - ipython =7.32.0 =py39ha65689a_0
     - jedi =0.18.1 =py39ha65689a_0
     - jpeg =9e =h3557bc0_0
-    - jupyter_client =7.2.0 =pyhd8ed1ab_0
+    - jupyter_client =7.2.1 =pyhd8ed1ab_0
     - jupyter_core =4.9.2 =py39h4420490_0
     - keyutils =1.6.1 =h4e544f5_0
     - krb5 =1.19.3 =h750e270_0
@@ -131,7 +131,7 @@ requirements:
     - pyzmq =22.3.0 =py39h3674c48_1
     - qt =5.12.9 =hd3f9f3d_6
     - readline =8.1 =h1a49cc3_0
-    - setuptools =61.2.0 =py39ha65689a_1
+    - setuptools =61.2.0 =py39ha65689a_3
     - six =1.16.0 =pyh6c4a22f_0
     - sqlite =3.37.1 =hc74f5b8_0
     - tk =8.6.12 =hd8af866_0

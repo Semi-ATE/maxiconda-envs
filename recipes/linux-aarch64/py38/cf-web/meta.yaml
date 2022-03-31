@@ -31,7 +31,7 @@ requirements:
     - pyqt =5.15.4 =py38h2063c64_1
     - pyyaml =6.0 =py38h9544abe_3
     - requests =2.27.1 =pyhd8ed1ab_0
-    - spyder-kernels =2.2.1 =py38he3eb160_1
+    - spyder-kernels =2.3.0 =py38he3eb160_0
     - sqlalchemy =1.4.32 =py38h81aae68_0
     - twisted =22.2.0 =py38h81aae68_0
 
@@ -61,7 +61,7 @@ requirements:
     - debugpy =1.5.1 =py38h0119ad3_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - expat =2.4.7 =ha18d298_0
+    - expat =2.4.8 =ha18d298_0
     - fftw =3.3.10 =nompi_h92e7866_102
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -87,7 +87,7 @@ requirements:
     - jedi =0.18.1 =py38h2063c64_0
     - jpeg =9e =h3557bc0_0
     - json-c =0.15 =hf268ab8_0
-    - jupyter_client =7.2.0 =pyhd8ed1ab_0
+    - jupyter_client =7.2.1 =pyhd8ed1ab_0
     - jupyter_core =4.9.2 =py38he3eb160_0
     - keyutils =1.6.1 =h4e544f5_0
     - krb5 =1.19.3 =h7c456eb_0
@@ -167,7 +167,7 @@ requirements:
     - qt-webengine =5.15.4 =h7c9c5db_1
     - readline =8.1 =h1a49cc3_0
     - service_identity =18.1.0 =py_0
-    - setuptools =61.2.0 =py38h2063c64_1
+    - setuptools =61.2.0 =py38h2063c64_3
     - sip =6.5.1 =py38h0119ad3_2
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.3.1 =pyhd8ed1ab_0

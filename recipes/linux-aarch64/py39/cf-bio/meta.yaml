@@ -32,7 +32,7 @@ requirements:
     - pyqt =5.12.3 =py39h4420490_8
     - rdkit =2021.09.5 =py39h3f581e4_0
     - scipy =1.8.0 =py39h59f125f_1
-    - spyder-kernels =2.2.1 =py39h4420490_1
+    - spyder-kernels =2.3.0 =py39h4420490_0
 
     # 148 secondary packages :
     - _openmp_mutex =4.5 =1_gnu
@@ -54,7 +54,7 @@ requirements:
     - debugpy =1.5.1 =py39h99ab00b_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - expat =2.4.7 =ha18d298_0
+    - expat =2.4.8 =ha18d298_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -75,10 +75,10 @@ requirements:
     - jbig =2.1 =hf897c2e_2003
     - jedi =0.18.1 =py39ha65689a_0
     - jpeg =9e =h3557bc0_0
-    - jupyter_client =7.2.0 =pyhd8ed1ab_0
+    - jupyter_client =7.2.1 =pyhd8ed1ab_0
     - jupyter_core =4.9.2 =py39h4420490_0
     - keyutils =1.6.1 =h4e544f5_0
-    - kiwisolver =1.4.0 =py39h110580c_0
+    - kiwisolver =1.4.2 =py39h110580c_0
     - krb5 =1.19.3 =h750e270_0
     - lcms2 =2.12 =h012adcb_0
     - ld_impl_linux-aarch64 =2.36.1 =h02ad14f_2
@@ -156,7 +156,7 @@ requirements:
     - qt =5.12.9 =hd3f9f3d_6
     - readline =8.1 =h1a49cc3_0
     - reportlab =3.5.68 =py39hef7aae6_1
-    - setuptools =61.2.0 =py39ha65689a_1
+    - setuptools =61.2.0 =py39ha65689a_3
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.32 =py39hb9a1dbb_0
     - sqlite =3.37.1 =hc74f5b8_0

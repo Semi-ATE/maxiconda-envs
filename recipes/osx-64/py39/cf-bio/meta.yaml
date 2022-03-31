@@ -33,7 +33,7 @@ requirements:
     - pyqt =5.12.3 =py39h6e9494a_8
     - rdkit =2021.09.5 =py39h1ae426c_0
     - scipy =1.8.0 =py39h056f1c0_1
-    - spyder-kernels =2.2.1 =py39h6e9494a_1
+    - spyder-kernels =2.3.0 =py39h6e9494a_0
 
     # 152 secondary packages :
     - appnope =0.1.2 =py39h6e9494a_2
@@ -58,7 +58,7 @@ requirements:
     - debugpy =1.5.1 =py39h9fcab8e_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - expat =2.4.7 =h96cf925_0
+    - expat =2.4.8 =h96cf925_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -82,9 +82,9 @@ requirements:
     - jedi =0.18.1 =py39h6e9494a_0
     - joblib =1.1.0 =pyhd8ed1ab_0
     - jpeg =9e =h0d85af4_0
-    - jupyter_client =7.2.0 =pyhd8ed1ab_0
+    - jupyter_client =7.2.1 =pyhd8ed1ab_0
     - jupyter_core =4.9.2 =py39h6e9494a_0
-    - kiwisolver =1.4.0 =py39h7248d28_0
+    - kiwisolver =1.4.2 =py39h7248d28_0
     - krb5 =1.19.3 =hb98e516_0
     - lcms2 =2.12 =h577c468_0
     - lerc =3.0 =he49afe7_0
@@ -167,7 +167,7 @@ requirements:
     - scikit-learn =1.0.2 =py39hd4eea88_0
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
-    - setuptools =61.2.0 =py39h6e9494a_1
+    - setuptools =61.2.0 =py39h6e9494a_3
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.32 =py39h63b48b0_0
     - sqlite =3.37.1 =hb516253_0

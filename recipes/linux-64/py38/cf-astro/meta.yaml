@@ -26,7 +26,7 @@ requirements:
 
     # 2 primary packages :
     - pyqt =5.12.3 =py38h578d9bd_8
-    - spyder-kernels =2.2.1 =py38h578d9bd_1
+    - spyder-kernels =2.3.0 =py38h578d9bd_0
 
     # 100 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
@@ -42,7 +42,7 @@ requirements:
     - debugpy =1.5.1 =py38h709712a_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - expat =2.4.7 =h27087fc_0
+    - expat =2.4.8 =h27087fc_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -59,7 +59,7 @@ requirements:
     - ipython =7.32.0 =py38h578d9bd_0
     - jedi =0.18.1 =py38h578d9bd_0
     - jpeg =9e =h7f98852_0
-    - jupyter_client =7.2.0 =pyhd8ed1ab_0
+    - jupyter_client =7.2.1 =pyhd8ed1ab_0
     - jupyter_core =4.9.2 =py38h578d9bd_0
     - keyutils =1.6.1 =h166bdaf_0
     - krb5 =1.19.3 =h08a2579_0
@@ -114,7 +114,7 @@ requirements:
     - pyzmq =22.3.0 =py38h2035c66_1
     - qt =5.12.9 =h1304e3e_6
     - readline =8.1 =h46c0cb4_0
-    - setuptools =61.2.0 =py38h578d9bd_1
+    - setuptools =61.2.0 =py38h578d9bd_3
     - six =1.16.0 =pyh6c4a22f_0
     - sqlite =3.37.1 =h4ff8645_0
     - tk =8.6.12 =h27826a3_0

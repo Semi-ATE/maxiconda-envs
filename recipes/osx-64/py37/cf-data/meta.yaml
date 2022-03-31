@@ -40,7 +40,7 @@ requirements:
     - scipy =1.7.3 =py37h4e3cf02_0
     - scrapy =2.5.0 =py37hf985489_0
     - seaborn =0.11.2 =hd8ed1ab_0
-    - spyder-kernels =2.2.1 =py37hf985489_1
+    - spyder-kernels =2.3.0 =py37hf985489_0
     - sqlalchemy =1.4.32 =py37h69ee0a8_0
     - sqlite =3.37.1 =hb516253_0
     - statsmodels =0.13.2 =py37h032687b_0
@@ -96,7 +96,7 @@ requirements:
     - docker-py =5.0.3 =py37hf985489_2
     - docker-pycreds =0.4.0 =py_0
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - expat =2.4.7 =h96cf925_0
+    - expat =2.4.8 =h96cf925_0
     - flask =2.1.0 =pyhd8ed1ab_0
     - flit-core =3.7.1 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -152,11 +152,11 @@ requirements:
     - joblib =1.1.0 =pyhd8ed1ab_0
     - jpeg =9e =h0d85af4_0
     - jsonschema =4.4.0 =pyhd8ed1ab_0
-    - jupyter_client =7.2.0 =pyhd8ed1ab_0
+    - jupyter_client =7.2.1 =pyhd8ed1ab_0
     - jupyter_core =4.9.2 =py37hf985489_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
     - jupyterlab_widgets =1.1.0 =pyhd8ed1ab_0
-    - kiwisolver =1.4.0 =py37h18621fa_0
+    - kiwisolver =1.4.2 =py37h18621fa_0
     - kmodes =0.11.1 =pyhd8ed1ab_0
     - krb5 =1.19.3 =hb49756b_0
     - langcodes =3.3.0 =pyhd8ed1ab_0
@@ -321,7 +321,7 @@ requirements:
     - tqdm =4.63.1 =pyhd8ed1ab_0
     - traitlets =5.1.1 =pyhd8ed1ab_0
     - twisted =22.2.0 =py37h69ee0a8_0
-    - typer =0.4.0 =pyhd8ed1ab_0
+    - typer =0.4.1 =pyhd8ed1ab_0
     - typing-extensions =3.10.0.2 =hd8ed1ab_0
     - typing_extensions =3.10.0.2 =pyha770c72_0
     - umap-learn =0.5.2 =py37hf985489_1
@@ -329,7 +329,7 @@ requirements:
     - urllib3 =1.26.9 =pyhd8ed1ab_0
     - visions =0.7.1 =pyhd8ed1ab_0
     - w3lib =1.22.0 =pyh9f0ad1d_0
-    - wasabi =0.9.0 =pyhd8ed1ab_0
+    - wasabi =0.9.1 =pyhd8ed1ab_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - webencodings =0.5.1 =py_1
     - websocket-client =1.3.2 =pyhd8ed1ab_0
