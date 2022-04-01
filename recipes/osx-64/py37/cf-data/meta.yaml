@@ -41,7 +41,7 @@ requirements:
     - scrapy =2.5.0 =py37hf985489_0
     - seaborn =0.11.2 =hd8ed1ab_0
     - spyder-kernels =2.3.0 =py37hf985489_0
-    - sqlalchemy =1.4.32 =py37h69ee0a8_0
+    - sqlalchemy =1.4.33 =py37h69ee0a8_0
     - sqlite =3.37.1 =hb516253_0
     - statsmodels =0.13.2 =py37h032687b_0
     - xgboost =1.5.1 =cpu_py37haa29005_2
@@ -70,11 +70,11 @@ requirements:
     - cairo =1.16.0 =h9e0e54b_1010
     - catalogue =2.0.6 =py37hf985489_1
     - catboost =1.0.4 =py37hf985489_3
-    - certifi =2021.10.8 =py37hf985489_1
+    - certifi =2021.10.8 =py37hf985489_2
     - cffi =1.15.0 =py37h446072c_0
     - charset-normalizer =2.0.12 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyh9f0ad1d_0
-    - click =8.1.0 =py37hf985489_0
+    - click =8.0.4 =py37hf985489_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
     - colorlover =0.3.0 =py_0
@@ -97,7 +97,7 @@ requirements:
     - docker-pycreds =0.4.0 =py_0
     - entrypoints =0.4 =pyhd8ed1ab_0
     - expat =2.4.8 =h96cf925_0
-    - flask =2.1.0 =pyhd8ed1ab_0
+    - flask =2.1.1 =pyhd8ed1ab_0
     - flit-core =3.7.1 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -126,7 +126,7 @@ requirements:
     - gts =0.7.6 =hccb3bdf_2
     - gunicorn =20.1.0 =py37hf985489_1
     - h2 =3.2.0 =py37hc8dfbb8_1
-    - harfbuzz =4.1.0 =h48644e2_0
+    - harfbuzz =4.2.0 =h48644e2_0
     - hpack =3.0.0 =py_0
     - htmlmin =0.1.12 =py_1
     - hyperframe =5.2.0 =py_0
@@ -135,10 +135,10 @@ requirements:
     - idna =3.3 =pyhd8ed1ab_0
     - imagehash =4.2.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.9.0 =pyhd8ed1ab_0
-    - importlib-metadata =4.11.3 =py37hf985489_0
+    - importlib-metadata =4.11.3 =py37hf985489_1
     - importlib_resources =5.6.0 =pyhd8ed1ab_0
     - incremental =21.3.0 =pyhd8ed1ab_0
-    - ipykernel =6.10.0 =py37h0a7177a_0
+    - ipykernel =6.11.0 =py37h0a7177a_0
     - ipython =7.32.0 =py37hf985489_0
     - ipython_genutils =0.2.0 =py_1
     - ipywidgets =7.7.0 =pyhd8ed1ab_0
@@ -157,7 +157,7 @@ requirements:
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
     - jupyterlab_widgets =1.1.0 =pyhd8ed1ab_0
     - kiwisolver =1.4.2 =py37h18621fa_0
-    - kmodes =0.11.1 =pyhd8ed1ab_0
+    - kmodes =0.12.0 =pyhd8ed1ab_0
     - krb5 =1.19.3 =hb49756b_0
     - langcodes =3.3.0 =pyhd8ed1ab_0
     - lcms2 =2.12 =h577c468_0
@@ -202,7 +202,7 @@ requirements:
     - lxml =4.8.0 =py37h69ee0a8_1
     - lz4-c =1.9.3 =he49afe7_1
     - mako =1.2.0 =pyhd8ed1ab_0
-    - markupsafe =2.1.1 =py37h69ee0a8_0
+    - markupsafe =2.1.1 =py37h69ee0a8_1
     - matplotlib-base =3.5.1 =py37h3147e9e_0
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
@@ -280,7 +280,7 @@ requirements:
     - python_abi =3.7 =2_cp37m
     - pytz =2022.1 =pyhd8ed1ab_0
     - pywavelets =1.3.0 =py37h4105427_0
-    - pyyaml =6.0 =py37h271585c_3
+    - pyyaml =6.0 =py37h69ee0a8_4
     - pyzmq =22.3.0 =py37h8f778e5_1
     - qt-main =5.15.2 =h8f7a3c3_2
     - qt-webengine =5.15.4 =h3a3182f_1
@@ -293,7 +293,7 @@ requirements:
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - service_identity =18.1.0 =py_0
-    - setuptools =59.8.0 =py37hf985489_0
+    - setuptools =59.8.0 =py37hf985489_1
     - shellingham =1.4.0 =pyh44b312d_0
     - sip =6.5.1 =py37hd8d24ac_2
     - six =1.16.0 =pyh6c4a22f_0
@@ -301,7 +301,7 @@ requirements:
     - smart_open =5.2.1 =pyhd8ed1ab_0
     - smmap =3.0.5 =pyh44b312d_0
     - soupsieve =2.3.1 =pyhd8ed1ab_0
-    - spacy =3.2.2 =py37h326c9ff_0
+    - spacy =3.2.4 =py37hf1bba82_0
     - spacy-legacy =3.0.9 =pyhd8ed1ab_0
     - spacy-loggers =1.0.1 =pyhd8ed1ab_0
     - sqlparse =0.4.2 =pyhd8ed1ab_0
@@ -333,7 +333,7 @@ requirements:
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - webencodings =0.5.1 =py_1
     - websocket-client =1.3.2 =pyhd8ed1ab_0
-    - werkzeug =2.0.3 =pyhd8ed1ab_1
+    - werkzeug =2.1.0 =pyhd8ed1ab_0
     - wheel =0.37.1 =pyhd8ed1ab_0
     - widgetsnbextension =3.6.0 =py37hf985489_0
     - wordcloud =1.8.1 =py37h271585c_2

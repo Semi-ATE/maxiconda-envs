@@ -29,7 +29,7 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.10.0 =pyha770c72_0
     - bitarray =2.4.1 =py39hb9d737c_0
-    - cython =0.29.28 =py39h5a03fae_1
+    - cython =0.29.28 =py39h5a03fae_2
     - grayskull =1.1.2 =pyhd8ed1ab_0
     - hypothesis =6.40.0 =pyhd8ed1ab_0
     - ipython =7.32.0 =py39hf3d152e_0
@@ -45,7 +45,7 @@ requirements:
     - pyqt =5.15.4 =py39hf3d152e_1
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =7.1.1 =py39hf3d152e_0
-    - pyyaml =6.0 =py39h3811e60_3
+    - pyyaml =6.0 =py39hb9d737c_4
     - qdarkstyle =3.0.3 =pyhd8ed1ab_0
     - qtawesome =1.1.1 =pyhd8ed1ab_0
     - r-base =4.1.3 =hd930d0e_0
@@ -55,7 +55,7 @@ requirements:
     - rust =1.59.0 =h30be4a0_0
     - scipy =1.8.0 =py39hee8e79c_1
     - spyder-kernels =2.3.0 =py39hf3d152e_0
-    - sqlalchemy =1.4.32 =py39hb9d737c_0
+    - sqlalchemy =1.4.33 =py39hb9d737c_0
     - sqlite =3.37.1 =h4ff8645_0
     - sympy =1.10.1 =py39hf3d152e_0
     - tqdm =4.63.1 =pyhd8ed1ab_0
@@ -89,10 +89,10 @@ requirements:
     - c-ares =1.18.1 =h7f98852_0
     - ca-certificates =2021.10.8 =ha878542_0
     - cairo =1.16.0 =ha12eb4b_1010
-    - certifi =2021.10.8 =py39hf3d152e_1
+    - certifi =2021.10.8 =py39hf3d152e_2
     - cffi =1.15.0 =py39h4bc2ebd_0
     - charset-normalizer =2.0.12 =pyhd8ed1ab_0
-    - click =8.1.0 =py39hf3d152e_0
+    - click =8.1.1 =py39hf3d152e_1
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
     - colorama =0.4.4 =pyh9f0ad1d_0
     - conda-souschef =2.1.1 =pyhd8ed1ab_0
@@ -136,14 +136,14 @@ requirements:
     - gstreamer =1.18.5 =h9f60fe5_3
     - gxx_impl_linux-64 =10.3.0 =hf2f2afa_14
     - gxx_linux-64 =10.3.0 =h2593f52_9
-    - harfbuzz =4.1.0 =h40b6f09_0
+    - harfbuzz =4.2.0 =h40b6f09_0
     - icu =69.1 =h9c3ff4c_0
     - idna =3.3 =pyhd8ed1ab_0
     - imagesize =1.3.0 =pyhd8ed1ab_0
-    - importlib-metadata =4.11.3 =py39hf3d152e_0
+    - importlib-metadata =4.11.3 =py39hf3d152e_1
     - importlib_resources =5.6.0 =pyhd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
-    - ipykernel =6.10.0 =py39hef51801_0
+    - ipykernel =6.11.0 =py39hef51801_0
     - ipython_genutils =0.2.0 =py_1
     - jack =1.9.18 =hfd4fe87_1001
     - jbig =2.1 =h7f98852_2003
@@ -213,7 +213,7 @@ requirements:
     - llvmlite =0.36.0 =py39h1bbdace_0
     - lz4-c =1.9.3 =h9c3ff4c_1
     - make =4.3 =hd18ef5c_1
-    - markupsafe =2.1.1 =py39hb9d737c_0
+    - markupsafe =2.1.1 =py39hb9d737c_1
     - matplotlib-base =3.5.1 =py39h2fa2bec_0
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - mistune =0.8.4 =py39h3811e60_1005

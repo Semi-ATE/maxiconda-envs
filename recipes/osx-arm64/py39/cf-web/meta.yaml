@@ -28,10 +28,10 @@ requirements:
     - beautifulsoup4 =4.10.0 =pyha770c72_0
     - django =4.0 =pyhd8ed1ab_1
     - jinja2 =3.1.1 =pyhd8ed1ab_0
-    - pyyaml =6.0 =py39h5161555_3
+    - pyyaml =6.0 =py39hb18efdd_4
     - requests =2.27.1 =pyhd8ed1ab_0
     - spyder-kernels =2.3.0 =py39h2804cbe_0
-    - sqlalchemy =1.4.32 =py39hb18efdd_0
+    - sqlalchemy =1.4.33 =py39hb18efdd_0
     - twisted =22.2.0 =py39hb18efdd_0
 
     # 78 secondary packages :
@@ -47,7 +47,7 @@ requirements:
     - brotlipy =0.7.0 =py39h5161555_1003
     - bzip2 =1.0.8 =h3422bc3_4
     - ca-certificates =2021.10.8 =h4653dfc_0
-    - certifi =2021.10.8 =py39h2804cbe_1
+    - certifi =2021.10.8 =py39h2804cbe_2
     - cffi =1.15.0 =py39h52b1de0_0
     - charset-normalizer =2.0.12 =pyhd8ed1ab_0
     - cloudpickle =2.0.0 =pyhd8ed1ab_0
@@ -60,7 +60,7 @@ requirements:
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - idna =3.3 =pyhd8ed1ab_0
     - incremental =21.3.0 =pyhd8ed1ab_0
-    - ipykernel =6.10.0 =py39h32adebf_0
+    - ipykernel =6.11.0 =py39h32adebf_0
     - ipython =7.32.0 =py39h2804cbe_0
     - jedi =0.18.1 =py39h2804cbe_0
     - jupyter_client =7.2.1 =pyhd8ed1ab_0
@@ -69,7 +69,7 @@ requirements:
     - libffi =3.4.2 =h3422bc3_5
     - libsodium =1.0.18 =h27ca646_1
     - libzlib =1.2.11 =h90dfc92_1014
-    - markupsafe =2.1.1 =py39hb18efdd_0
+    - markupsafe =2.1.1 =py39hb18efdd_1
     - matplotlib-inline =0.1.3 =pyhd8ed1ab_0
     - ncurses =6.3 =hc470f4d_0
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
