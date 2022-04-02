@@ -32,7 +32,7 @@ requirements:
     - pyyaml =6.0 =py38h0a891b7_4
     - requests =2.27.1 =pyhd8ed1ab_0
     - spyder-kernels =2.3.0 =py38h578d9bd_0
-    - sqlalchemy =1.4.33 =py38h0a891b7_0
+    - sqlalchemy =1.4.34 =py38h0a891b7_0
     - twisted =22.2.0 =py38h0a891b7_0
 
     # 156 secondary packages :
@@ -81,7 +81,7 @@ requirements:
     - icu =69.1 =h9c3ff4c_0
     - idna =3.3 =pyhd8ed1ab_0
     - incremental =21.3.0 =pyhd8ed1ab_0
-    - ipykernel =6.11.0 =py38h7f3c49e_0
+    - ipykernel =6.11.0 =py38h7f3c49e_1
     - ipython =7.32.0 =py38h578d9bd_0
     - jack =1.9.18 =hfd4fe87_1001
     - jbig =2.1 =h7f98852_2003
@@ -136,7 +136,7 @@ requirements:
     - ncurses =6.3 =h9c3ff4c_0
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
     - nspr =4.32 =h9c3ff4c_1
-    - nss =3.76 =h2350873_0
+    - nss =3.77 =h2350873_0
     - openssl =1.1.1n =h166bdaf_0
     - packaging =21.3 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
@@ -167,7 +167,7 @@ requirements:
     - qt-webengine =5.15.4 =h19fc7b4_1
     - readline =8.1 =h46c0cb4_0
     - service_identity =18.1.0 =py_0
-    - setuptools =61.2.0 =py38h578d9bd_3
+    - setuptools =61.3.0 =py38h578d9bd_0
     - sip =6.5.1 =py38h709712a_2
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.3.1 =pyhd8ed1ab_0
@@ -175,7 +175,7 @@ requirements:
     - sqlparse =0.4.2 =pyhd8ed1ab_0
     - tk =8.6.12 =h27826a3_0
     - toml =0.10.2 =pyhd8ed1ab_0
-    - tornado =6.1 =py38h497a2fe_2
+    - tornado =6.1 =py38h0a891b7_3
     - traitlets =5.1.1 =pyhd8ed1ab_0
     - typing-extensions =4.1.1 =hd8ed1ab_0
     - typing_extensions =4.1.1 =pyha770c72_0

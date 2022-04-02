@@ -40,7 +40,7 @@ requirements:
     - scrapy =2.6.1 =py38haa244fe_1
     - seaborn =0.11.2 =hd8ed1ab_0
     - spyder-kernels =2.3.0 =py38haa244fe_0
-    - sqlalchemy =1.4.33 =py38h294d835_0
+    - sqlalchemy =1.4.34 =py38h294d835_0
     - sqlite =3.37.1 =h8ffe710_0
     - statsmodels =0.13.2 =py38h6f4d8f0_0
     - xgboost =1.5.1 =cpu_py38hc22ac66_2
@@ -132,7 +132,7 @@ requirements:
     - importlib_resources =5.6.0 =pyhd8ed1ab_0
     - incremental =21.3.0 =pyhd8ed1ab_0
     - intel-openmp =2022.0.0 =h57928b3_3663
-    - ipykernel =6.11.0 =py38h4317176_0
+    - ipykernel =6.11.0 =py38h4317176_1
     - ipython =7.32.0 =py38haa244fe_0
     - ipython_genutils =0.2.0 =py_1
     - ipywidgets =7.7.0 =pyhd8ed1ab_0
@@ -276,7 +276,7 @@ requirements:
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - service_identity =18.1.0 =py_0
-    - setuptools =61.2.0 =py38haa244fe_3
+    - setuptools =61.3.0 =py38haa244fe_0
     - shellingham =1.4.0 =pyh44b312d_0
     - sip =6.5.1 =py38h885f38d_2
     - six =1.16.0 =pyh6c4a22f_0
@@ -285,7 +285,7 @@ requirements:
     - soupsieve =2.3.1 =pyhd8ed1ab_0
     - spacy =3.2.4 =py38h9e3ed74_0
     - spacy-legacy =3.0.9 =pyhd8ed1ab_0
-    - spacy-loggers =1.0.1 =pyhd8ed1ab_0
+    - spacy-loggers =1.0.2 =pyhd8ed1ab_0
     - sqlparse =0.4.2 =pyhd8ed1ab_0
     - srsly =2.4.2 =py38h885f38d_1
     - tabulate =0.8.9 =pyhd8ed1ab_0
@@ -300,7 +300,7 @@ requirements:
     - tk =8.6.12 =h8ffe710_0
     - tldextract =3.2.0 =pyhd8ed1ab_0
     - toml =0.10.2 =pyhd8ed1ab_0
-    - tornado =6.1 =py38h294d835_2
+    - tornado =6.1 =py38h294d835_3
     - tqdm =4.63.1 =pyhd8ed1ab_0
     - traitlets =5.1.1 =pyhd8ed1ab_0
     - twisted =22.2.0 =py38h294d835_0
@@ -321,10 +321,10 @@ requirements:
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - webencodings =0.5.1 =py_1
     - websocket-client =1.3.2 =pyhd8ed1ab_0
-    - werkzeug =2.1.0 =pyhd8ed1ab_0
+    - werkzeug =2.1.1 =pyhd8ed1ab_0
     - wheel =0.37.1 =pyhd8ed1ab_0
     - widgetsnbextension =3.6.0 =py38haa244fe_0
-    - win_inet_pton =1.1.0 =py38haa244fe_3
+    - win_inet_pton =1.1.0 =py38haa244fe_4
     - winpty =0.4.3 =4
     - wordcloud =1.8.1 =py38h294d835_2
     - xorg-kbproto =1.0.7 =hcd874cb_1002

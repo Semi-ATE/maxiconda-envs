@@ -55,7 +55,7 @@ requirements:
     - gst-plugins-base =1.20.1 =hcf0ee16_1
     - gstreamer =1.20.1 =hd4edc92_1
     - icu =69.1 =h9c3ff4c_0
-    - ipykernel =6.11.0 =py38h7f3c49e_0
+    - ipykernel =6.11.0 =py38h7f3c49e_1
     - ipython =7.32.0 =py38h578d9bd_0
     - jedi =0.18.1 =py38h578d9bd_0
     - jpeg =9e =h7f98852_0
@@ -93,7 +93,7 @@ requirements:
     - ncurses =6.3 =h9c3ff4c_0
     - nest-asyncio =1.5.4 =pyhd8ed1ab_0
     - nspr =4.32 =h9c3ff4c_1
-    - nss =3.76 =h2350873_0
+    - nss =3.77 =h2350873_0
     - openssl =3.0.2 =h166bdaf_1
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre =8.45 =h9c3ff4c_0
@@ -114,11 +114,11 @@ requirements:
     - pyzmq =22.3.0 =py38h2035c66_1
     - qt =5.12.9 =h1304e3e_6
     - readline =8.1 =h46c0cb4_0
-    - setuptools =61.2.0 =py38h578d9bd_3
+    - setuptools =61.3.0 =py38h578d9bd_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlite =3.37.1 =h4ff8645_0
     - tk =8.6.12 =h27826a3_0
-    - tornado =6.1 =py38h497a2fe_2
+    - tornado =6.1 =py38h0a891b7_3
     - traitlets =5.1.1 =pyhd8ed1ab_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.37.1 =pyhd8ed1ab_0
