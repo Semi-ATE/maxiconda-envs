@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.4.1 =py39hb82d6ee_0
     - cython =0.29.28 =py39h415ef7b_2
     - grayskull =1.1.2 =pyhd8ed1ab_0
-    - hypothesis =6.40.2 =pyhd8ed1ab_0
+    - hypothesis =6.41.0 =pyhd8ed1ab_0
     - ipython =7.32.0 =py39hcbf5309_0
     - jinja2 =3.1.1 =pyhd8ed1ab_0
     - matplotlib =3.5.1 =py39hcbf5309_0
@@ -39,8 +39,8 @@ requirements:
     - numpy =1.22.3 =py39h6331f09_0
     - openpyxl =3.0.9 =pyhd8ed1ab_0
     - paho-mqtt =1.6.0 =pyhd8ed1ab_0
-    - pandas =1.4.1 =py39h2e25243_0
-    - psutil =5.9.0 =py39hb82d6ee_0
+    - pandas =1.4.2 =py39h2e25243_0
+    - psutil =5.9.0 =py39hb82d6ee_1
     - pydantic =1.9.0 =py39hb82d6ee_0
     - pyqt =5.15.4 =py39hcbf5309_1
     - pyserial =3.5 =pyhd8ed1ab_0
@@ -76,9 +76,9 @@ requirements:
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - bleach =4.1.0 =pyhd8ed1ab_0
-    - brotli =1.0.9 =h8ffe710_6
-    - brotli-bin =1.0.9 =h8ffe710_6
-    - brotlipy =0.7.0 =py39hb82d6ee_1003
+    - brotli =1.0.9 =h8ffe710_7
+    - brotli-bin =1.0.9 =h8ffe710_7
+    - brotlipy =0.7.0 =py39hb82d6ee_1004
     - bzip2 =1.0.8 =h8ffe710_4
     - ca-certificates =2021.10.8 =h5b45459_0
     - certifi =2021.10.8 =py39hcbf5309_2
@@ -102,7 +102,7 @@ requirements:
     - frozenlist =1.3.0 =py39hb82d6ee_1
     - gettext =0.19.8.1 =ha2e2712_1008
     - git =2.35.1 =h57928b3_0
-    - greenlet =1.1.2 =py39h415ef7b_1
+    - greenlet =1.1.2 =py39h415ef7b_2
     - gst-plugins-base =1.18.5 =he07aa86_3
     - gstreamer =1.18.5 =hdff456e_3
     - icu =69.1 =h0e60522_0
@@ -112,7 +112,7 @@ requirements:
     - importlib_resources =5.6.0 =pyhd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
     - intel-openmp =2022.0.0 =h57928b3_3663
-    - ipykernel =6.11.0 =py39h832f523_1
+    - ipykernel =6.11.0 =py39h832f523_2
     - ipython_genutils =0.2.0 =py_1
     - jbig =2.1 =h8d14728_2003
     - jedi =0.18.1 =py39hcbf5309_0
@@ -121,14 +121,14 @@ requirements:
     - jupyter_client =7.2.1 =pyhd8ed1ab_0
     - jupyter_core =4.9.2 =py39hcbf5309_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
-    - kiwisolver =1.4.2 =py39h2e07f2f_0
+    - kiwisolver =1.4.2 =py39h2e07f2f_1
     - krb5 =1.19.3 =h1176d77_0
     - lcms2 =2.12 =h2a16943_0
     - lerc =3.0 =h0e60522_0
     - libblas =3.9.0 =8_mkl
-    - libbrotlicommon =1.0.9 =h8ffe710_6
-    - libbrotlidec =1.0.9 =h8ffe710_6
-    - libbrotlienc =1.0.9 =h8ffe710_6
+    - libbrotlicommon =1.0.9 =h8ffe710_7
+    - libbrotlidec =1.0.9 =h8ffe710_7
+    - libbrotlienc =1.0.9 =h8ffe710_7
     - libcblas =3.9.0 =8_mkl
     - libclang =13.0.1 =default_h81446c8_0
     - libdeflate =1.10 =h8ffe710_0
@@ -185,7 +185,7 @@ requirements:
     - mkl =2020.4 =hb70f87d_311
     - mpmath =1.2.1 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
-    - multidict =6.0.2 =py39hb82d6ee_0
+    - multidict =6.0.2 =py39hb82d6ee_1
     - munkres =1.1.4 =pyh9f0ad1d_0
     - nbclient =0.5.13 =pyhd8ed1ab_0
     - nbconvert =6.4.5 =py39hcbf5309_0
@@ -200,7 +200,7 @@ requirements:
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre =8.45 =h0e60522_0
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =9.0.1 =py39ha53f419_2
+    - pillow =9.1.0 =py39ha53f419_0
     - pip =22.0.4 =pyhd8ed1ab_0
     - pkginfo =1.8.2 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py39hcbf5309_3
@@ -218,7 +218,7 @@ requirements:
     - pyqtchart =5.15.4 =py39h415ef7b_1
     - pyqtwebengine =5.15.4 =py39h415ef7b_1
     - pyrsistent =0.18.1 =py39hb82d6ee_0
-    - pysocks =1.7.1 =py39hcbf5309_4
+    - pysocks =1.7.1 =py39hcbf5309_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-utils =3.1.0 =pyhd8ed1ab_0
     - python_abi =3.9 =2_cp39
@@ -412,7 +412,7 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-pc-windows-msvc =1.59.0 =h69312b4_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =61.3.0 =py39hcbf5309_0
+    - setuptools =61.3.1 =py39hcbf5309_0
     - sip =6.5.1 =py39h415ef7b_2
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0

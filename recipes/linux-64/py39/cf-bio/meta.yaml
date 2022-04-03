@@ -29,7 +29,7 @@ requirements:
     - matplotlib =3.5.1 =py39hf3d152e_0
     - mdanalysis =2.1.0 =py39h5a03fae_1
     - numpy =1.22.3 =py39h18676bf_0
-    - pandas =1.4.1 =py39hde0f152_0
+    - pandas =1.4.2 =py39h1832856_0
     - pymol-open-source =2.5.0 =py39h20a8f2e_4
     - pyqt =5.12.3 =py39hf3d152e_8
     - rdkit =2022.03.1 =py39h89e00b9_0
@@ -45,8 +45,8 @@ requirements:
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - boost =1.74.0 =py39h5472131_5
     - boost-cpp =1.74.0 =h6cacc03_7
-    - brotli =1.0.9 =h7f98852_6
-    - brotli-bin =1.0.9 =h7f98852_6
+    - brotli =1.0.9 =h166bdaf_7
+    - brotli-bin =1.0.9 =h166bdaf_7
     - bzip2 =1.0.8 =h7f98852_4
     - c-ares =1.18.1 =h7f98852_0
     - ca-certificates =2021.10.8 =ha878542_0
@@ -75,7 +75,7 @@ requirements:
     - giflib =5.2.1 =h36c2ea0_2
     - glew =2.1.0 =h9c3ff4c_2
     - glm =0.9.9.4 =hc9558a2_0
-    - greenlet =1.1.2 =py39he80948d_1
+    - greenlet =1.1.2 =py39h5a03fae_2
     - griddataformats =0.7.0 =pyhd8ed1ab_0
     - gsd =2.5.1 =py39hce5d2b2_0
     - gst-plugins-base =1.20.1 =hcf0ee16_1
@@ -83,7 +83,7 @@ requirements:
     - hdf4 =4.2.15 =h10796ff_3
     - hdf5 =1.10.6 =nompi_h3c11f04_101
     - icu =69.1 =h9c3ff4c_0
-    - ipykernel =6.11.0 =py39hef51801_1
+    - ipykernel =6.11.0 =py39hef51801_2
     - ipython =7.32.0 =py39hf3d152e_0
     - jbig =2.1 =h7f98852_2003
     - jedi =0.18.1 =py39hf3d152e_0
@@ -92,15 +92,15 @@ requirements:
     - jupyter_client =7.2.1 =pyhd8ed1ab_0
     - jupyter_core =4.9.2 =py39hf3d152e_0
     - keyutils =1.6.1 =h166bdaf_0
-    - kiwisolver =1.4.2 =py39hf939315_0
+    - kiwisolver =1.4.2 =py39hf939315_1
     - krb5 =1.19.3 =h08a2579_0
     - lcms2 =2.12 =hddcbb42_0
     - ld_impl_linux-64 =2.36.1 =hea4e1c9_2
     - lerc =3.0 =h9c3ff4c_0
     - libblas =3.9.0 =8_openblas
-    - libbrotlicommon =1.0.9 =h7f98852_6
-    - libbrotlidec =1.0.9 =h7f98852_6
-    - libbrotlienc =1.0.9 =h7f98852_6
+    - libbrotlicommon =1.0.9 =h166bdaf_7
+    - libbrotlidec =1.0.9 =h166bdaf_7
+    - libbrotlienc =1.0.9 =h166bdaf_7
     - libcblas =3.9.0 =8_openblas
     - libclang =13.0.1 =default_hc23dcda_0
     - libcurl =7.82.0 =h2283fc2_0
@@ -161,15 +161,15 @@ requirements:
     - pcre =8.45 =h9c3ff4c_0
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =9.0.1 =py39hae2aec6_2
+    - pillow =9.1.0 =py39hae2aec6_0
     - pip =22.0.4 =pyhd8ed1ab_0
     - pixman =0.40.0 =h36c2ea0_0
     - pmw =2.0.1 =py39hf3d152e_1004
     - prompt-toolkit =3.0.27 =pyha770c72_0
-    - psutil =5.9.0 =py39h3811e60_0
+    - psutil =5.9.0 =py39hb9d737c_1
     - pthread-stubs =0.4 =h36c2ea0_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pycairo =1.21.0 =py39h0934665_0
+    - pycairo =1.21.0 =py39h0934665_1
     - pygments =2.11.2 =pyhd8ed1ab_0
     - pyparsing =3.0.7 =pyhd8ed1ab_0
     - pyqt-impl =5.12.3 =py39hde8b62d_8
@@ -186,7 +186,7 @@ requirements:
     - scikit-learn =1.0.2 =py39h4dfa638_0
     - seaborn =0.11.2 =hd8ed1ab_0
     - seaborn-base =0.11.2 =pyhd8ed1ab_0
-    - setuptools =61.3.0 =py39hf3d152e_0
+    - setuptools =61.3.1 =py39hf3d152e_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.34 =py39hb9d737c_0
     - sqlite =3.37.1 =h4ff8645_0

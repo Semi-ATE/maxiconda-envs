@@ -28,10 +28,10 @@ requirements:
     - cython =0.29.28 =py39h5a03fae_2
     - matplotlib =3.5.1 =py39hf3d152e_0
     - numpy =1.22.3 =py39h18676bf_0
-    - pandas =1.4.1 =py39hde0f152_0
+    - pandas =1.4.2 =py39h1832856_0
     - pyqt =5.15.4 =py39hf3d152e_1
     - scipy =1.8.0 =py39hee8e79c_1
-    - spyder =5.2.2 =py39hf3d152e_3
+    - spyder =5.3.0 =py39hf3d152e_0
     - spyder-terminal =1.2.1 =py39hf3d152e_1
     - sympy =1.10.1 =py39hf3d152e_0
 
@@ -55,9 +55,9 @@ requirements:
     - binaryornot =0.4.4 =py_1
     - black =22.3.0 =pyhd8ed1ab_0
     - bleach =4.1.0 =pyhd8ed1ab_0
-    - brotli =1.0.9 =h7f98852_6
-    - brotli-bin =1.0.9 =h7f98852_6
-    - brotlipy =0.7.0 =py39h3811e60_1003
+    - brotli =1.0.9 =h166bdaf_7
+    - brotli-bin =1.0.9 =h166bdaf_7
+    - brotlipy =0.7.0 =py39hb9d737c_1004
     - bzip2 =1.0.8 =h7f98852_4
     - ca-certificates =2021.10.8 =ha878542_0
     - certifi =2021.10.8 =py39hf3d152e_2
@@ -107,7 +107,7 @@ requirements:
     - importlib_resources =5.6.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.0.2 =py_0
-    - ipykernel =6.11.0 =py39hef51801_1
+    - ipykernel =6.11.0 =py39hef51801_2
     - ipython =7.32.0 =py39hf3d152e_0
     - ipython_genutils =0.2.0 =py_1
     - isort =5.10.1 =pyhd8ed1ab_0
@@ -126,16 +126,16 @@ requirements:
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
     - keyring =23.4.0 =py39hf3d152e_2
     - keyutils =1.6.1 =h166bdaf_0
-    - kiwisolver =1.4.2 =py39hf939315_0
+    - kiwisolver =1.4.2 =py39hf939315_1
     - krb5 =1.19.3 =h3790be6_0
     - lazy-object-proxy =1.7.1 =py39h3811e60_0
     - lcms2 =2.12 =hddcbb42_0
     - ld_impl_linux-64 =2.36.1 =hea4e1c9_2
     - lerc =3.0 =h9c3ff4c_0
     - libblas =3.9.0 =13_linux64_openblas
-    - libbrotlicommon =1.0.9 =h7f98852_6
-    - libbrotlidec =1.0.9 =h7f98852_6
-    - libbrotlienc =1.0.9 =h7f98852_6
+    - libbrotlicommon =1.0.9 =h166bdaf_7
+    - libbrotlidec =1.0.9 =h166bdaf_7
+    - libbrotlienc =1.0.9 =h166bdaf_7
     - libcap =2.51 =h7f98852_0
     - libcblas =3.9.0 =13_linux64_openblas
     - libclang =13.0.1 =default_hc23dcda_0
@@ -205,13 +205,13 @@ requirements:
     - pcre =8.45 =h9c3ff4c_0
     - pexpect =4.8.0 =pyh9f0ad1d_2
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =9.0.1 =py39hae2aec6_2
+    - pillow =9.1.0 =py39hae2aec6_0
     - pip =22.0.4 =pyhd8ed1ab_0
     - platformdirs =2.5.1 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py39hf3d152e_3
     - poyo =0.5.0 =py_0
     - prompt-toolkit =3.0.27 =pyha770c72_0
-    - psutil =5.9.0 =py39h3811e60_0
+    - psutil =5.9.0 =py39hb9d737c_1
     - pthread-stubs =0.4 =h36c2ea0_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pulseaudio =14.0 =hb166930_4
@@ -229,31 +229,31 @@ requirements:
     - pyqtchart =5.15.4 =py39h5a03fae_1
     - pyqtwebengine =5.15.4 =py39h5a03fae_1
     - pyrsistent =0.18.1 =py39h3811e60_0
-    - pysocks =1.7.1 =py39hf3d152e_4
+    - pysocks =1.7.1 =py39hf3d152e_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
-    - python-lsp-black =1.1.0 =pyhd8ed1ab_0
+    - python-lsp-black =1.2.0 =pyhd8ed1ab_0
     - python-lsp-jsonrpc =1.0.0 =pyhd8ed1ab_0
-    - python-lsp-server =1.3.3 =pyhd8ed1ab_0
+    - python-lsp-server =1.4.1 =pyhd8ed1ab_1
     - python-slugify =6.1.1 =pyhd8ed1ab_0
     - python_abi =3.9 =2_cp39
     - pytz =2022.1 =pyhd8ed1ab_0
     - pyxdg =0.27 =pyhd8ed1ab_0
     - pyyaml =6.0 =py39hb9d737c_4
     - pyzmq =22.3.0 =py39h37b5a0c_1
-    - qdarkstyle =3.0.2 =pyhd8ed1ab_0
+    - qdarkstyle =3.0.3 =pyhd8ed1ab_0
     - qstylizer =0.2.1 =pyhd8ed1ab_0
     - qt-main =5.15.2 =h88c78e7_2
     - qt-webengine =5.15.4 =h19fc7b4_1
     - qtawesome =1.1.1 =pyhd8ed1ab_0
-    - qtconsole =5.2.2 =pyhd8ed1ab_1
-    - qtconsole-base =5.2.2 =pyhd8ed1ab_1
+    - qtconsole =5.3.0 =pyhd8ed1ab_0
+    - qtconsole-base =5.3.0 =pyhd8ed1ab_0
     - qtpy =2.0.1 =pyhd8ed1ab_0
     - readline =8.1 =h46c0cb4_0
     - requests =2.27.1 =pyhd8ed1ab_0
     - rope =0.23.0 =pyhd8ed1ab_0
     - rtree =0.9.7 =py39hb102c33_3
     - secretstorage =3.3.1 =py39hf3d152e_1
-    - setuptools =61.3.0 =py39hf3d152e_0
+    - setuptools =61.3.1 =py39hf3d152e_0
     - sip =6.5.1 =py39he80948d_2
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
@@ -266,7 +266,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =py_0
     - sphinxcontrib-qthelp =1.0.3 =py_0
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_1
-    - spyder-kernels =2.2.1 =py39hf3d152e_1
+    - spyder-kernels =2.3.0 =py39hf3d152e_0
     - sqlite =3.37.1 =h4ff8645_0
     - terminado =0.13.3 =py39hf3d152e_0
     - testpath =0.6.0 =pyhd8ed1ab_0
@@ -287,7 +287,7 @@ requirements:
     - unicodedata2 =14.0.0 =py39h3811e60_0
     - unidecode =1.3.4 =pyhd8ed1ab_0
     - urllib3 =1.26.9 =pyhd8ed1ab_0
-    - watchdog =2.1.7 =py39hf3d152e_0
+    - watchdog =2.1.7 =py39hf3d152e_1
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - webencodings =0.5.1 =py_1
     - wheel =0.37.1 =pyhd8ed1ab_0

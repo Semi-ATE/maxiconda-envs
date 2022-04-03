@@ -41,9 +41,9 @@ requirements:
     - backports =1.0 =py_2
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - boost =1.74.0 =py37h457096e_5
-    - boost-cpp =1.74.0 =h9f4b32c_7
-    - brotli =1.0.9 =h8ffe710_6
-    - brotli-bin =1.0.9 =h8ffe710_6
+    - boost-cpp =1.74.0 =h9f4b32c_8
+    - brotli =1.0.9 =h8ffe710_7
+    - brotli-bin =1.0.9 =h8ffe710_7
     - bzip2 =1.0.8 =h8ffe710_4
     - ca-certificates =2021.10.8 =h5b45459_0
     - cairo =1.16.0 =h15b3021_1010
@@ -69,7 +69,7 @@ requirements:
     - gettext =0.19.8.1 =ha2e2712_1008
     - glew =2.1.0 =h39d44d4_2
     - glm =0.9.9.4 =h1ad3211_0
-    - greenlet =1.1.2 =py37hf2a7229_1
+    - greenlet =1.1.2 =py37hf2a7229_2
     - griddataformats =0.7.0 =pyhd8ed1ab_0
     - gsd =2.5.1 =py37hec80d1f_0
     - gst-plugins-base =1.18.5 =he07aa86_3
@@ -79,7 +79,7 @@ requirements:
     - icu =69.1 =h0e60522_0
     - importlib-metadata =4.11.3 =py37h03978a9_1
     - intel-openmp =2022.0.0 =h57928b3_3663
-    - ipykernel =6.11.0 =py37h90c5f73_0
+    - ipykernel =6.11.0 =py37h90c5f73_2
     - ipython =7.32.0 =py37h03978a9_0
     - jbig =2.1 =h8d14728_2003
     - jedi =0.18.1 =py37h03978a9_0
@@ -87,14 +87,14 @@ requirements:
     - jpeg =9e =h8ffe710_0
     - jupyter_client =7.2.1 =pyhd8ed1ab_0
     - jupyter_core =4.9.2 =py37h03978a9_0
-    - kiwisolver =1.4.2 =py37h8c56517_0
+    - kiwisolver =1.4.2 =py37h8c56517_1
     - krb5 =1.19.3 =h1176d77_0
     - lcms2 =2.12 =h2a16943_0
     - lerc =3.0 =h0e60522_0
     - libblas =3.9.0 =13_win64_mkl
-    - libbrotlicommon =1.0.9 =h8ffe710_6
-    - libbrotlidec =1.0.9 =h8ffe710_6
-    - libbrotlienc =1.0.9 =h8ffe710_6
+    - libbrotlicommon =1.0.9 =h8ffe710_7
+    - libbrotlidec =1.0.9 =h8ffe710_7
+    - libbrotlienc =1.0.9 =h8ffe710_7
     - libcblas =3.9.0 =13_win64_mkl
     - libclang =13.0.1 =default_h81446c8_0
     - libcurl =7.82.0 =h789b8ee_0
@@ -138,14 +138,14 @@ requirements:
     - patsy =0.5.2 =pyhd8ed1ab_0
     - pcre =8.45 =h0e60522_0
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
-    - pillow =9.0.1 =py37h8675073_2
+    - pillow =9.1.0 =py37h8675073_0
     - pip =22.0.4 =pyhd8ed1ab_0
     - pixman =0.40.0 =h8ffe710_0
     - pmw =2.0.1 =py37h03978a9_1004
     - prompt-toolkit =3.0.27 =pyha770c72_0
-    - psutil =5.9.0 =py37hcc03f2d_0
+    - psutil =5.9.0 =py37hcc03f2d_1
     - pthread-stubs =0.4 =hcd874cb_1001
-    - pycairo =1.21.0 =py37h43013c1_0
+    - pycairo =1.21.0 =py37h43013c1_1
     - pygments =2.11.2 =pyhd8ed1ab_0
     - pyparsing =3.0.7 =pyhd8ed1ab_0
     - pyqt-impl =5.15.4 =py37hf2a7229_1

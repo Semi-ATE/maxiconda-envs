@@ -60,9 +60,9 @@ requirements:
     - bcrypt =3.2.0 =py37hcc03f2d_2
     - bleach =4.1.0 =pyhd8ed1ab_0
     - bottleneck =1.3.4 =py37hec80d1f_0
-    - brotli =1.0.9 =h8ffe710_6
-    - brotli-bin =1.0.9 =h8ffe710_6
-    - brotlipy =0.7.0 =py37hcc03f2d_1003
+    - brotli =1.0.9 =h8ffe710_7
+    - brotli-bin =1.0.9 =h8ffe710_7
+    - brotlipy =0.7.0 =py37hcc03f2d_1004
     - ca-certificates =2021.10.8 =h5b45459_0
     - cairo =1.16.0 =h15b3021_1010
     - catalogue =2.0.6 =py37h03978a9_1
@@ -116,7 +116,7 @@ requirements:
     - gitpython =3.1.27 =pyhd8ed1ab_0
     - graphite2 =1.3.13 =1000
     - graphviz =3.0.0 =had6c3a3_1
-    - greenlet =1.1.2 =py37hf2a7229_1
+    - greenlet =1.1.2 =py37hf2a7229_2
     - gst-plugins-base =1.18.5 =he07aa86_3
     - gstreamer =1.18.5 =hdff456e_3
     - gts =0.7.6 =h7c369d9_2
@@ -131,7 +131,7 @@ requirements:
     - importlib_resources =5.6.0 =pyhd8ed1ab_0
     - incremental =21.3.0 =pyhd8ed1ab_0
     - intel-openmp =2022.0.0 =h57928b3_3663
-    - ipykernel =6.11.0 =py37h90c5f73_0
+    - ipykernel =6.11.0 =py37h90c5f73_2
     - ipython =7.32.0 =py37h03978a9_0
     - ipython_genutils =0.2.0 =py_1
     - ipywidgets =7.7.0 =pyhd8ed1ab_0
@@ -149,16 +149,16 @@ requirements:
     - jupyter_core =4.9.2 =py37h03978a9_0
     - jupyterlab_pygments =0.1.2 =pyh9f0ad1d_0
     - jupyterlab_widgets =1.1.0 =pyhd8ed1ab_0
-    - kiwisolver =1.4.2 =py37h8c56517_0
+    - kiwisolver =1.4.2 =py37h8c56517_1
     - kmodes =0.12.0 =pyhd8ed1ab_0
     - krb5 =1.19.3 =h1176d77_0
     - langcodes =3.3.0 =pyhd8ed1ab_0
     - lcms2 =2.12 =h2a16943_0
     - lerc =3.0 =h0e60522_0
     - libblas =3.9.0 =13_win64_mkl
-    - libbrotlicommon =1.0.9 =h8ffe710_6
-    - libbrotlidec =1.0.9 =h8ffe710_6
-    - libbrotlienc =1.0.9 =h8ffe710_6
+    - libbrotlicommon =1.0.9 =h8ffe710_7
+    - libbrotlidec =1.0.9 =h8ffe710_7
+    - libbrotlienc =1.0.9 =h8ffe710_7
     - libcblas =3.9.0 =13_win64_mkl
     - libclang =13.0.1 =default_h81446c8_0
     - libdeflate =1.10 =h8ffe710_0
@@ -224,7 +224,7 @@ requirements:
     - pcre =8.45 =h0e60522_0
     - phik =0.12.2 =py37h743671a_0
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
-    - pillow =9.0.1 =py37h8675073_2
+    - pillow =9.1.0 =py37h8675073_0
     - pip =22.0.4 =pyhd8ed1ab_0
     - pixman =0.40.0 =h8ffe710_0
     - preshed =3.0.6 =py37hf2a7229_1
@@ -233,7 +233,7 @@ requirements:
     - prompt-toolkit =3.0.27 =pyha770c72_0
     - protego =0.2.1 =pyhd8ed1ab_0
     - protobuf =3.20.0 =py37hf2a7229_0
-    - psutil =5.9.0 =py37hcc03f2d_0
+    - psutil =5.9.0 =py37hcc03f2d_1
     - pthread-stubs =0.4 =hcd874cb_1001
     - py-xgboost =1.5.1 =cpu_py37h48304b8_2
     - pyasn1 =0.4.8 =py_0
@@ -253,7 +253,7 @@ requirements:
     - pyqtchart =5.15.4 =py37hf2a7229_1
     - pyqtwebengine =5.15.4 =py37hf2a7229_1
     - pyrsistent =0.18.1 =py37hcc03f2d_0
-    - pysocks =1.7.1 =py37h03978a9_4
+    - pysocks =1.7.1 =py37h03978a9_5
     - python-cufflinks =0.17.3 =py_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-graphviz =0.19.1 =pyhaef67bd_0
