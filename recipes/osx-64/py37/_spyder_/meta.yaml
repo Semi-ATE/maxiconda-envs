@@ -38,7 +38,7 @@ requirements:
     # 233 secondary packages :
     - alabaster =0.7.12 =py_0
     - applaunchservices =0.2.1 =py_0
-    - appnope =0.1.2 =py37hf985489_2
+    - appnope =0.1.2 =py37hf985489_3
     - argh =0.26.2 =py37_1001
     - arrow =1.2.2 =pyhd8ed1ab_0
     - astroid =2.11.2 =py37hf985489_0
@@ -154,14 +154,14 @@ requirements:
     - mpfr =4.1.0 =h0f52abe_1
     - mpmath =1.2.1 =pyhd8ed1ab_0
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - mypy_extensions =0.4.3 =py37hf985489_4
+    - mypy_extensions =0.4.3 =py37hf985489_5
     - mysql-common =8.0.28 =hab7e275_2
     - mysql-libs =8.0.28 =h2a44bf5_2
     - nbclient =0.5.13 =pyhd8ed1ab_0
     - nbconvert =6.4.5 =py37hf985489_0
     - nbformat =5.2.0 =pyhd8ed1ab_0
     - ncurses =6.3 =he49afe7_0
-    - nest-asyncio =1.5.4 =pyhd8ed1ab_0
+    - nest-asyncio =1.5.5 =pyhd8ed1ab_0
     - nspr =4.32 =hcd9eead_1
     - nss =3.77 =hfce436b_0
     - numpydoc =1.2.1 =pyhd8ed1ab_2
@@ -197,7 +197,7 @@ requirements:
     - pyqt5-sip =12.9.0 =py37h5a87095_1
     - pyqtchart =5.15.4 =py37h5a87095_1
     - pyqtwebengine =5.15.4 =py37h5a87095_1
-    - pyrsistent =0.18.1 =py37h271585c_0
+    - pyrsistent =0.18.1 =py37h69ee0a8_1
     - pysocks =1.7.1 =py37hf985489_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-lsp-black =1.2.0 =pyhd8ed1ab_0
@@ -266,7 +266,7 @@ requirements:
     - yaml =0.2.5 =h0d85af4_2
     - yapf =0.32.0 =pyhd8ed1ab_0
     - zeromq =4.3.4 =he49afe7_1
-    - zipp =3.7.0 =pyhd8ed1ab_1
+    - zipp =3.8.0 =pyhd8ed1ab_0
     - zlib =1.2.11 =h6c3fc93_1014
     - zstd =1.5.2 =h582d3a0_0
 

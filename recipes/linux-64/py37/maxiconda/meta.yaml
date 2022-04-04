@@ -25,7 +25,7 @@ requirements:
     - python =3.7.12 =hb7a2778_100_cpython
 
     # 36 primary packages :
-    - aiohttp =3.8.1 =py37h5e8e339_0
+    - aiohttp =3.8.1 =py37h540881e_1
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.10.0 =pyha770c72_0
     - bitarray =2.4.1 =py37h540881e_0
@@ -50,7 +50,7 @@ requirements:
     - qtawesome =1.1.1 =pyhd8ed1ab_0
     - r-base =4.1.3 =hd930d0e_0
     - r-essentials =4.1 =r41hd8ed1ab_2002
-    - regex =2022.3.15 =py37h540881e_0
+    - regex =2022.3.15 =py37h540881e_1
     - requests =2.27.1 =pyhd8ed1ab_0
     - rust =1.59.0 =h30be4a0_0
     - scipy =1.7.3 =py37hf2a6cf1_0
@@ -229,7 +229,7 @@ requirements:
     - nbconvert =6.4.5 =py37h89c1867_0
     - nbformat =5.2.0 =pyhd8ed1ab_0
     - ncurses =6.3 =h9c3ff4c_0
-    - nest-asyncio =1.5.4 =pyhd8ed1ab_0
+    - nest-asyncio =1.5.5 =pyhd8ed1ab_0
     - notebook =6.4.10 =pyha770c72_0
     - nspr =4.32 =h9c3ff4c_1
     - nss =3.77 =h2350873_0
@@ -264,7 +264,7 @@ requirements:
     - pyqt5-sip =12.9.0 =py37hd23a5d3_1
     - pyqtchart =5.15.4 =py37hd23a5d3_1
     - pyqtwebengine =5.15.4 =py37hd23a5d3_1
-    - pyrsistent =0.18.1 =py37h5e8e339_0
+    - pyrsistent =0.18.1 =py37h540881e_1
     - pysocks =1.7.1 =py37h89c1867_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-utils =3.1.0 =pyhd8ed1ab_0
@@ -398,7 +398,7 @@ requirements:
     - r-randomforest =4.6_14 =r41h859d828_1004
     - r-rappdirs =0.3.3 =r41hcfec24a_0
     - r-rbokeh =0.5.2 =r41hc72bb7e_1
-    - r-rcolorbrewer =1.1_2 =r41h785f33e_1003
+    - r-rcolorbrewer =1.1_3 =r41h785f33e_0
     - r-rcpp =1.0.8.3 =r41h7525677_0
     - r-readr =2.1.2 =r41h03ef668_0
     - r-readxl =1.4.0 =r41hf23e330_0
@@ -412,7 +412,7 @@ requirements:
     - r-rlang =1.0.2 =r41h7525677_0
     - r-rmarkdown =2.13 =r41hc72bb7e_1
     - r-rpart =4.1.16 =r41hcfec24a_0
-    - r-rprojroot =2.0.2 =r41hc72bb7e_0
+    - r-rprojroot =2.0.3 =r41hc72bb7e_0
     - r-rstudioapi =0.13 =r41hc72bb7e_0
     - r-rvest =1.0.2 =r41hc72bb7e_0
     - r-sass =0.4.1 =r41h7525677_0
@@ -454,7 +454,7 @@ requirements:
     - rapidfuzz =1.9.1 =py37he8f5f7f_0
     - readline =8.1 =h46c0cb4_0
     - ruamel.yaml =0.17.21 =py37h5e8e339_0
-    - ruamel.yaml.clib =0.2.6 =py37h5e8e339_0
+    - ruamel.yaml.clib =0.2.6 =py37h540881e_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-unknown-linux-gnu =1.59.0 =hc1431ca_0
     - sed =4.8 =he412f7d_0
@@ -504,9 +504,9 @@ requirements:
     - xorg-xproto =7.0.31 =h7f98852_1007
     - xz =5.2.5 =h516909a_1
     - yaml =0.2.5 =h7f98852_2
-    - yarl =1.7.2 =py37h5e8e339_1
+    - yarl =1.7.2 =py37h540881e_2
     - zeromq =4.3.4 =h9c3ff4c_1
-    - zipp =3.7.0 =pyhd8ed1ab_1
+    - zipp =3.8.0 =pyhd8ed1ab_0
     - zlib =1.2.11 =h166bdaf_1014
     - zstd =1.5.2 =ha95c52a_0
 

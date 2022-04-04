@@ -109,7 +109,7 @@ requirements:
     - freetype =2.10.4 =h546665d_1
     - fribidi =1.0.10 =h8d14728_0
     - funcy =1.17 =pyhd8ed1ab_0
-    - future =0.18.2 =py39hcbf5309_4
+    - future =0.18.2 =py39hcbf5309_5
     - gensim =4.1.2 =py39h415ef7b_1
     - getopt-win32 =0.1 =h8ffe710_0
     - gettext =0.19.8.1 =ha2e2712_1008
@@ -205,7 +205,7 @@ requirements:
     - nbclient =0.5.13 =pyhd8ed1ab_0
     - nbconvert =6.4.5 =py39hcbf5309_0
     - nbformat =5.2.0 =pyhd8ed1ab_0
-    - nest-asyncio =1.5.4 =pyhd8ed1ab_0
+    - nest-asyncio =1.5.5 =pyhd8ed1ab_0
     - networkx =2.7.1 =pyhd8ed1ab_1
     - nltk =3.6.7 =pyhd8ed1ab_0
     - notebook =6.4.10 =pyha770c72_0
@@ -253,7 +253,7 @@ requirements:
     - pyqt5-sip =12.9.0 =py39h415ef7b_1
     - pyqtchart =5.15.4 =py39h415ef7b_1
     - pyqtwebengine =5.15.4 =py39h415ef7b_1
-    - pyrsistent =0.18.1 =py39hb82d6ee_0
+    - pyrsistent =0.18.1 =py39hb82d6ee_1
     - pysocks =1.7.1 =py39hcbf5309_5
     - python-cufflinks =0.17.3 =py_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
@@ -269,7 +269,7 @@ requirements:
     - qt-webengine =5.15.4 =ha014ca1_1
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
-    - regex =2022.3.15 =py39hb82d6ee_0
+    - regex =2022.3.15 =py39hb82d6ee_1
     - requests =2.27.1 =pyhd8ed1ab_0
     - requests-file =1.5.1 =pyh9f0ad1d_0
     - retrying =1.3.3 =py_2
@@ -343,7 +343,7 @@ requirements:
     - yaml =0.2.5 =h8ffe710_2
     - yellowbrick =1.4 =pyhd8ed1ab_0
     - zeromq =4.3.4 =h0e60522_1
-    - zipp =3.7.0 =pyhd8ed1ab_1
+    - zipp =3.8.0 =pyhd8ed1ab_0
     - zlib =1.2.11 =h8ffe710_1014
     - zope.interface =5.4.0 =py39hb82d6ee_1
     - zstd =1.5.2 =h6255e5f_0
