@@ -22,10 +22,10 @@ jobs:
     steps:  
     
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Install mamba & environment
-      uses: mamba-org/provision-with-micromamba@v10
+      uses: mamba-org/provision-with-micromamba@v14
 
     - name: build meta-packages
       shell: bash -l {0}
@@ -39,7 +39,7 @@ jobs:
         python -u ../scripts/maxiconda.py --build $SUBDIR
 
     - name: Upload meta-packages to artifacts
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: ${{ matrix.SUBDIR }}_packages
         path: build/
@@ -50,13 +50,13 @@ jobs:
     steps:
     
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Install mamba & environment
-      uses: mamba-org/provision-with-micromamba@v10
+      uses: mamba-org/provision-with-micromamba@v14
 
     - name: Download meta-packages from artifacts
-      uses: actions/download-artifact@v2
+      uses: actions/download-artifact@v3
 
     - name: Move packages into place
       shell: bash -l {0}
