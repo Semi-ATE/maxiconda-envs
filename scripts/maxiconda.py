@@ -355,7 +355,7 @@ class Maxiconda:
                 if maintainers:
                     if line.startswitn("- "):
                         MAINTAINERS.append(line[1:].strip())
-
+        BUILD_STRING = f"{BUILD_STRING}_{BUILD_NUMBER}"
         index = {
             "arch" : CPU,
             "build" : BUILD_STRING,
