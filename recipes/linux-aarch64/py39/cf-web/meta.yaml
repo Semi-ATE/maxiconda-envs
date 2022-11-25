@@ -55,7 +55,7 @@ requirements:
     - cffi =1.15.1 =py39hb26bf21_2
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
     - cloudpickle =2.2.0 =pyhd8ed1ab_0
-    - comm =0.1.0 =pyhd8ed1ab_0
+    - comm =0.1.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - cryptography =38.0.3 =py39h2b83269_0
     - dbus =1.13.6 =h12b9eeb_3
@@ -176,7 +176,7 @@ requirements:
     - typing-extensions =4.4.0 =hd8ed1ab_0
     - typing_extensions =4.4.0 =pyha770c72_0
     - tzdata =2022f =h191b570_0
-    - urllib3 =1.26.11 =pyhd8ed1ab_0
+    - urllib3 =1.26.13 =pyhd8ed1ab_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.38.4 =pyhd8ed1ab_0
     - wurlitzer =3.0.2 =py39ha65689a_1
