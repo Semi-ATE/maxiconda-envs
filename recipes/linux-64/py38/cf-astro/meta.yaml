@@ -28,7 +28,7 @@ requirements:
     - pyqt =5.12.3 =py38h578d9bd_8
     - spyder-kernels =2.4.0 =py38h578d9bd_0
 
-    # 106 secondary packages :
+    # 105 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.3.2 =h166bdaf_0
@@ -38,7 +38,6 @@ requirements:
     - bzip2 =1.0.8 =h7f98852_4
     - ca-certificates =2022.9.24 =ha878542_0
     - cloudpickle =2.2.0 =pyhd8ed1ab_0
-    - comm =0.1.1 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
     - debugpy =1.6.3 =py38hfa26641_1
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -58,7 +57,7 @@ requirements:
     - gst-plugins-base =1.20.2 =hcf0ee16_0
     - gstreamer =1.20.3 =hd4edc92_2
     - icu =69.1 =h9c3ff4c_0
-    - ipykernel =6.18.0 =pyh210e3f2_0
+    - ipykernel =6.17.1 =pyh210e3f2_0
     - ipython =7.33.0 =py38h578d9bd_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jpeg =9e =h166bdaf_2

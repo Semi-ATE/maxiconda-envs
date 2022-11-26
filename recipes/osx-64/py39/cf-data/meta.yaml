@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.13.5 =py39h7cc1f47_2
     - xgboost =1.7.1 =cpu_py39hd182d69_0
 
-    # 287 secondary packages :
+    # 286 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.8.1 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -75,7 +75,6 @@ requirements:
     - cloudpickle =2.2.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - colorlover =0.3.0 =py_0
-    - comm =0.1.1 =pyhd8ed1ab_0
     - confection =0.0.3 =py39h2a79d86_1
     - configparser =5.3.0 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
@@ -131,7 +130,7 @@ requirements:
     - importlib-metadata =5.1.0 =pyha770c72_0
     - importlib_resources =5.10.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - ipykernel =6.18.0 =pyh736e0ef_0
+    - ipykernel =6.17.1 =pyh736e0ef_0
     - ipython =7.33.0 =py39h6e9494a_0
     - ipywidgets =8.0.2 =pyhd8ed1ab_1
     - itemadapter =0.7.0 =pyhd8ed1ab_0
