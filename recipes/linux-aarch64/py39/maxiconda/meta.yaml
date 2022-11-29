@@ -62,7 +62,7 @@ requirements:
     - transitions =0.9.0 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 449 secondary packages :
+    # 450 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
@@ -93,9 +93,10 @@ requirements:
     - click =8.1.3 =py39h4420490_1
     - cloudpickle =2.2.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
+    - comm =0.1.1 =pyhd8ed1ab_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.0.6 =py39hcdbe1fc_0
-    - cryptography =38.0.3 =py39h2b83269_0
+    - cryptography =38.0.4 =py39h2b83269_0
     - curl =7.86.0 =h22f3f83_1
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h12b9eeb_3
@@ -139,7 +140,7 @@ requirements:
     - importlib-metadata =5.1.0 =pyha770c72_0
     - importlib_resources =5.10.0 =pyhd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
-    - ipykernel =6.17.1 =pyh210e3f2_0
+    - ipykernel =6.18.1 =pyh210e3f2_0
     - ipython_genutils =0.2.0 =py_1
     - jack =1.9.21 =haacb02c_1
     - jedi =0.18.2 =pyhd8ed1ab_0

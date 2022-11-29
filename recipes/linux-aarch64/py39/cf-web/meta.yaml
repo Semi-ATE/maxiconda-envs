@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =1.4.44 =py39hb9a1dbb_0
     - twisted =22.10.0 =py39hb9a1dbb_0
 
-    # 155 secondary packages :
+    # 156 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h4e544f5_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -55,8 +55,9 @@ requirements:
     - cffi =1.15.1 =py39hb26bf21_2
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
     - cloudpickle =2.2.0 =pyhd8ed1ab_0
+    - comm =0.1.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
-    - cryptography =38.0.3 =py39h2b83269_0
+    - cryptography =38.0.4 =py39h2b83269_0
     - dbus =1.13.6 =h12b9eeb_3
     - debugpy =1.6.3 =py39h3d8bfb9_1
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -81,7 +82,7 @@ requirements:
     - icu =70.1 =ha18d298_0
     - idna =3.4 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - ipykernel =6.17.1 =pyh210e3f2_0
+    - ipykernel =6.18.1 =pyh210e3f2_0
     - ipython =7.33.0 =py39ha65689a_0
     - jack =1.9.21 =haacb02c_1
     - jedi =0.18.2 =pyhd8ed1ab_0

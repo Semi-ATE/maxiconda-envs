@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =1.4.44 =py39ha55989b_0
     - twisted =22.10.0 =py39ha55989b_0
 
-    # 102 secondary packages :
+    # 103 secondary packages :
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - asgiref =3.5.2 =pyhd8ed1ab_0
     - attrs =22.1.0 =pyh71513ae_1
@@ -53,6 +53,7 @@ requirements:
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
     - cloudpickle =2.2.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
+    - comm =0.1.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - cryptography =38.0.4 =py39h58e9bdb_0
     - debugpy =1.6.3 =py39h99910a6_1
@@ -68,7 +69,7 @@ requirements:
     - icu =70.1 =h0e60522_0
     - idna =3.4 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - ipykernel =6.17.1 =pyh025b116_0
+    - ipykernel =6.18.1 =pyh025b116_0
     - ipython =7.33.0 =py39hcbf5309_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jpeg =9e =h8ffe710_2

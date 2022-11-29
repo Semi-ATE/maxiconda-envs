@@ -35,7 +35,7 @@ requirements:
     - spyder-terminal =1.2.2 =py39hf3d152e_0
     - sympy =1.11.1 =py39hf3d152e_2
 
-    # 261 secondary packages :
+    # 262 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.12 =py_0
@@ -66,6 +66,7 @@ requirements:
     - cloudpickle =2.2.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - coloredlogs =15.0.1 =py39hf3d152e_2
+    - comm =0.1.1 =pyhd8ed1ab_0
     - contourpy =1.0.6 =py39hf939315_0
     - cookiecutter =2.1.1 =pyh6c4a22f_0
     - cryptography =38.0.4 =py39h3ccb8fc_0
@@ -106,7 +107,7 @@ requirements:
     - importlib_resources =5.10.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.0.2 =py_0
-    - ipykernel =6.17.1 =pyh210e3f2_0
+    - ipykernel =6.18.1 =pyh210e3f2_0
     - ipython =7.33.0 =py39hf3d152e_0
     - ipython_genutils =0.2.0 =py_1
     - isort =5.10.1 =pyhd8ed1ab_0
