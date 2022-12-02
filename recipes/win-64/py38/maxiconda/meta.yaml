@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.15 =h0269646_0_cpython
+    - python =3.8.15 =h4de0772_0_cpython
   run:
-    - python =3.8.15 =h0269646_0_cpython
+    - python =3.8.15 =h4de0772_0_cpython
 
     # 36 primary packages :
     - aiohttp =3.8.3 =py38h91455d4_1
@@ -88,7 +88,7 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.0.6 =py38hb1fd069_0
-    - cryptography =38.0.4 =py38h086c683_0
+    - cryptography =38.0.4 =py38h95f5157_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.4 =py38hd3f51b4_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -122,7 +122,7 @@ requirements:
     - jupyter_server =1.23.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py38hb1fd069_1
-    - krb5 =1.19.3 =h1176d77_0
+    - krb5 =1.19.3 =hc8ab02b_0
     - lcms2 =2.14 =h90d422f_0
     - lerc =4.0.0 =h63175ca_0
     - libblas =3.9.0 =16_win64_mkl
@@ -198,7 +198,7 @@ requirements:
     - notebook =6.5.2 =pyha770c72_1
     - notebook-shim =0.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =hc9384bd_1
-    - openssl =1.1.1s =hcfcfb64_0
+    - openssl =3.0.7 =hcfcfb64_0
     - packaging =21.3 =pyhd8ed1ab_0
     - pandoc =2.19.2 =h57928b3_1
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -231,7 +231,7 @@ requirements:
     - pywin32 =304 =py38hd3f51b4_2
     - pywinpty =2.0.9 =py38hd3f51b4_0
     - pyzmq =24.0.1 =py38ha85f68a_1
-    - qt-main =5.15.6 =h9c3277a_2
+    - qt-main =5.15.6 =hb9439ea_3
     - qtpy =2.3.0 =pyhd8ed1ab_0
     - r-askpass =1.1 =r41h6d2157b_3
     - r-assertthat =0.2.1 =r41hc72bb7e_3
@@ -335,7 +335,7 @@ requirements:
     - r-nlme =3.1_160 =r41he816bda_0
     - r-nnet =7.3_18 =r41h6d2157b_1
     - r-numderiv =2016.8_1.1 =r41hc72bb7e_4
-    - r-openssl =2.0.4 =r41hc08181c_0
+    - r-openssl =2.0.4 =r41h81a3cea_0
     - r-parallelly =1.32.1 =r41hc72bb7e_1
     - r-pbdzmq =0.3_8 =r41hf3fe701_0
     - r-pillar =1.8.1 =r41hc72bb7e_1

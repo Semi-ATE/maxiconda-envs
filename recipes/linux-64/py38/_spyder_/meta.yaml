@@ -29,20 +29,21 @@ requirements:
     - matplotlib =3.6.2 =py38h578d9bd_0
     - numpy =1.23.5 =py38h7042d01_0
     - pandas =1.5.2 =py38h8f669ce_0
-    - pyqt =5.12.3 =py38h578d9bd_8
+    - pyqt =5.15.7 =py38h7492b6b_2
     - scipy =1.9.3 =py38h8ce737c_2
-    - spyder =5.4.0 =py38h578d9bd_0
+    - spyder =5.2.2 =py38h578d9bd_3
     - spyder-terminal =1.2.2 =py38h578d9bd_0
     - sympy =1.11.1 =py38h578d9bd_2
 
-    # 260 secondary packages :
+    # 277 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.12 =py_0
-    - alsa-lib =1.2.3.2 =h166bdaf_0
+    - alsa-lib =1.2.8 =h166bdaf_0
     - arrow =1.2.3 =pyhd8ed1ab_0
     - astroid =2.12.13 =py38h578d9bd_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_0
+    - attr =2.5.1 =h166bdaf_1
     - attrs =22.1.0 =pyh71513ae_1
     - autopep8 =1.6.0 =pyhd8ed1ab_1
     - babel =2.11.0 =pyhd8ed1ab_0
@@ -76,11 +77,11 @@ requirements:
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - diff-match-patch =20200713 =pyh9f0ad1d_0
     - dill =0.3.6 =pyhd8ed1ab_1
-    - docstring-to-markdown =0.10 =pyhd8ed1ab_0
     - docutils =0.19 =py38h578d9bd_1
     - entrypoints =0.4 =pyhd8ed1ab_0
     - expat =2.5.0 =h27087fc_0
-    - flake8 =5.0.4 =pyhd8ed1ab_0
+    - fftw =3.3.10 =nompi_hf0379b8_106
+    - flake8 =4.0.1 =pyhd8ed1ab_2
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -95,10 +96,11 @@ requirements:
     - glib-tools =2.74.1 =h6239696_1
     - gmp =6.2.1 =h58526e2_0
     - gmpy2 =2.1.2 =py38h793c122_1
-    - gst-plugins-base =1.20.2 =hcf0ee16_0
-    - gstreamer =1.20.3 =hd4edc92_2
+    - gst-plugins-base =1.21.2 =h3e40eee_0
+    - gstreamer =1.21.2 =hd4edc92_0
+    - gstreamer-orc =0.4.33 =h166bdaf_0
     - humanfriendly =10.0 =py38h578d9bd_4
-    - icu =69.1 =h9c3ff4c_0
+    - icu =70.1 =h27087fc_0
     - idna =3.4 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
     - importlib-metadata =5.1.0 =pyha770c72_0
@@ -110,6 +112,7 @@ requirements:
     - ipython =7.33.0 =py38h578d9bd_0
     - ipython_genutils =0.2.0 =py_1
     - isort =5.10.1 =pyhd8ed1ab_0
+    - jack =1.9.21 =h583fa2b_2
     - jaraco.classes =3.2.3 =pyhd8ed1ab_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jeepney =0.8.0 =pyhd8ed1ab_0
@@ -125,6 +128,7 @@ requirements:
     - keyutils =1.6.1 =h166bdaf_0
     - kiwisolver =1.4.4 =py38h43d8883_1
     - krb5 =1.19.3 =h08a2579_0
+    - lame =3.100 =h166bdaf_1003
     - lazy-object-proxy =1.8.0 =py38h0a891b7_0
     - lcms2 =2.14 =h6ed2654_0
     - ld_impl_linux-64 =2.39 =hcc3a1bd_1
@@ -133,46 +137,59 @@ requirements:
     - libbrotlicommon =1.0.9 =h166bdaf_8
     - libbrotlidec =1.0.9 =h166bdaf_8
     - libbrotlienc =1.0.9 =h166bdaf_8
+    - libcap =2.66 =ha37c62d_0
     - libcblas =3.9.0 =16_linux64_openblas
-    - libclang =13.0.1 =default_hc23dcda_0
+    - libclang =15.0.6 =default_h2e3cab8_0
+    - libclang13 =15.0.6 =default_h3a83d3e_0
+    - libcups =2.3.3 =h3e49a29_2
+    - libdb =6.2.32 =h9c3ff4c_0
     - libdeflate =1.14 =h166bdaf_0
     - libedit =3.1.20191231 =he28a2e2_2
     - libevent =2.1.10 =h28343ad_4
     - libffi =3.4.2 =h7f98852_5
+    - libflac =1.4.2 =h27087fc_0
     - libgcc-ng =12.2.0 =h65d4601_19
+    - libgcrypt =1.10.1 =h166bdaf_0
     - libgfortran-ng =12.2.0 =h69a702a_19
     - libgfortran5 =12.2.0 =h337968e_19
     - libglib =2.74.1 =h606061b_1
     - libgomp =12.2.0 =h65d4601_19
+    - libgpg-error =1.45 =hc0c96e0_0
     - libiconv =1.17 =h166bdaf_0
     - liblapack =3.9.0 =16_linux64_openblas
-    - libllvm13 =13.0.1 =hf817b99_2
+    - libllvm15 =15.0.6 =h63197d8_0
     - libnsl =2.0.0 =h7f98852_0
     - libogg =1.3.4 =h7f98852_1
     - libopenblas =0.3.21 =pthreads_h78a6416_3
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.39 =h753d276_0
-    - libpq =14.5 =he2d8382_1
+    - libpq =15.1 =h67c24c5_1
+    - libsndfile =1.1.0 =h27087fc_0
     - libsodium =1.0.18 =h36c2ea0_1
     - libspatialindex =1.9.3 =h9c3ff4c_4
     - libsqlite =3.40.0 =h753d276_0
     - libstdcxx-ng =12.2.0 =h46fd767_19
+    - libsystemd0 =252 =h2a991cd_0
     - libtiff =4.4.0 =h55922b4_4
+    - libtool =2.4.6 =h9c3ff4c_1008
+    - libudev1 =252 =h166bdaf_0
     - libuuid =2.32.1 =h7f98852_1000
     - libvorbis =1.3.7 =h9c3ff4c_0
     - libwebp-base =1.2.4 =h166bdaf_0
     - libxcb =1.13 =h7f98852_1004
     - libxkbcommon =1.0.3 =he3ba5ed_0
-    - libxml2 =2.9.12 =h885dcf4_1
+    - libxml2 =2.10.3 =h7463322_0
     - libzlib =1.2.13 =h166bdaf_4
+    - lz4-c =1.9.3 =h9c3ff4c_1
     - markupsafe =2.1.1 =py38h0a891b7_2
     - matplotlib-base =3.6.2 =py38hb021067_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
-    - mccabe =0.7.0 =pyhd8ed1ab_0
+    - mccabe =0.6.1 =py_1
     - mistune =2.0.4 =pyhd8ed1ab_0
     - more-itertools =9.0.0 =pyhd8ed1ab_0
     - mpc =1.2.1 =h9f54685_0
     - mpfr =4.1.0 =h9202a9a_1
+    - mpg123 =1.30.2 =h27087fc_1
     - mpmath =1.2.1 =pyhd8ed1ab_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =0.4.3 =py38h578d9bd_6
@@ -203,32 +220,29 @@ requirements:
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
     - platformdirs =2.5.2 =pyhd8ed1ab_1
     - pluggy =1.0.0 =py38h578d9bd_4
+    - ply =3.11 =py_1
     - prompt-toolkit =3.0.33 =pyha770c72_0
     - psutil =5.9.4 =py38h0a891b7_0
     - pthread-stubs =0.4 =h36c2ea0_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pycodestyle =2.9.1 =pyhd8ed1ab_0
+    - pulseaudio =16.1 =h126f2b6_0
+    - pycodestyle =2.8.0 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
     - pydocstyle =6.1.1 =pyhd8ed1ab_0
-    - pyflakes =2.5.0 =pyhd8ed1ab_0
+    - pyflakes =2.4.0 =pyhd8ed1ab_0
     - pygments =2.13.0 =pyhd8ed1ab_0
     - pylint =2.15.7 =pyhd8ed1ab_0
-    - pylint-venv =2.3.0 =pyhd8ed1ab_0
     - pyls-spyder =0.4.0 =pyhd8ed1ab_0
     - pyopenssl =22.1.0 =pyhd8ed1ab_0
     - pyparsing =3.0.9 =pyhd8ed1ab_0
-    - pyqt-impl =5.12.3 =py38h0ffb2e6_8
-    - pyqt5-sip =4.19.18 =py38h709712a_8
-    - pyqtchart =5.12 =py38h7400c14_8
-    - pyqtwebengine =5.12.1 =py38h7400c14_8
+    - pyqt5-sip =12.11.0 =py38hfa26641_2
     - pyrsistent =0.19.2 =py38h0a891b7_0
     - pysocks =1.7.1 =py38h578d9bd_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-fastjsonschema =2.16.2 =pyhd8ed1ab_0
-    - python-lsp-black =1.2.1 =pyhd8ed1ab_0
+    - python-lsp-black =1.1.0 =pyhd8ed1ab_0
     - python-lsp-jsonrpc =1.0.0 =pyhd8ed1ab_0
-    - python-lsp-server =1.6.0 =hd8ed1ab_0
-    - python-lsp-server-base =1.6.0 =pyhd8ed1ab_0
+    - python-lsp-server =1.3.3 =pyhd8ed1ab_0
     - python-slugify =7.0.0 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pytoolconfig =1.2.2 =pyhd8ed1ab_0
@@ -236,12 +250,12 @@ requirements:
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0 =py38h0a891b7_5
     - pyzmq =24.0.1 =py38hfc09fa9_1
-    - qdarkstyle =3.0.3 =pyhd8ed1ab_0
+    - qdarkstyle =3.0.2 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt =5.12.9 =h1304e3e_6
+    - qt-main =5.15.6 =he99da89_3
     - qtawesome =1.2.1 =pyhd8ed1ab_0
-    - qtconsole =5.4.0 =pyhd8ed1ab_0
-    - qtconsole-base =5.4.0 =pyha770c72_0
+    - qtconsole =5.2.2 =pyhd8ed1ab_1
+    - qtconsole-base =5.2.2 =pyhd8ed1ab_1
     - qtpy =2.3.0 =pyhd8ed1ab_0
     - readline =8.1.2 =h0f457ee_0
     - requests =2.28.1 =pyhd8ed1ab_1
@@ -249,6 +263,7 @@ requirements:
     - rtree =1.0.1 =py38h02d302b_1
     - secretstorage =3.3.3 =py38h578d9bd_1
     - setuptools =65.5.1 =pyhd8ed1ab_0
+    - sip =6.7.5 =py38hfa26641_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
@@ -260,8 +275,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =py_0
     - sphinxcontrib-qthelp =1.0.3 =py_0
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_2
-    - spyder-kernels =2.4.0 =py38h578d9bd_0
-    - sqlite =3.40.0 =h4ff8645_0
+    - spyder-kernels =2.2.1 =py38h578d9bd_1
     - terminado =0.17.0 =pyh41d4057_0
     - text-unidecode =1.3 =py_0
     - textdistance =4.5.0 =pyhd8ed1ab_0
@@ -283,10 +297,14 @@ requirements:
     - watchdog =2.1.9 =py38h578d9bd_1
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - webencodings =0.5.1 =py_1
-    - whatthepatch =1.0.3 =pyhd8ed1ab_0
     - wheel =0.38.4 =pyhd8ed1ab_0
     - wrapt =1.14.1 =py38h0a891b7_1
     - wurlitzer =3.0.2 =py38h578d9bd_1
+    - xcb-util =0.4.0 =h166bdaf_0
+    - xcb-util-image =0.4.0 =h166bdaf_0
+    - xcb-util-keysyms =0.4.0 =h166bdaf_0
+    - xcb-util-renderutil =0.3.9 =h166bdaf_0
+    - xcb-util-wm =0.4.1 =h166bdaf_0
     - xorg-libxau =1.0.9 =h7f98852_0
     - xorg-libxdmcp =1.1.3 =h7f98852_0
     - xz =5.2.6 =h166bdaf_0
@@ -294,7 +312,6 @@ requirements:
     - yapf =0.32.0 =pyhd8ed1ab_0
     - zeromq =4.3.4 =h9c3ff4c_1
     - zipp =3.11.0 =pyhd8ed1ab_0
-    - zlib =1.2.13 =h166bdaf_4
     - zstd =1.5.2 =h6239696_4
 
 about:

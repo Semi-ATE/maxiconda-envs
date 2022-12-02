@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.15 =h0269646_0_cpython
+    - python =3.9.15 =h4de0772_0_cpython
   run:
-    - python =3.9.15 =h0269646_0_cpython
+    - python =3.9.15 =h4de0772_0_cpython
 
     # 8 primary packages :
     - numpy =1.23.5 =py39hbccbffa_0
@@ -60,7 +60,7 @@ requirements:
     - jpeg =9e =h8ffe710_2
     - jupyter_client =7.4.7 =pyhd8ed1ab_0
     - jupyter_core =5.1.0 =py39hcbf5309_0
-    - krb5 =1.19.3 =h1176d77_0
+    - krb5 =1.19.3 =hc8ab02b_0
     - libblas =3.9.0 =16_win64_mkl
     - libcblas =3.9.0 =16_win64_mkl
     - libclang =15.0.6 =default_h77d9078_0
@@ -79,7 +79,7 @@ requirements:
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mkl =2022.1.0 =h6a75c08_874
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
-    - openssl =1.1.1s =hcfcfb64_0
+    - openssl =3.0.7 =hcfcfb64_0
     - packaging =21.3 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =h17e33f8_0
@@ -98,7 +98,7 @@ requirements:
     - pyvisa =1.12.0 =py39hcbf5309_1
     - pywin32 =304 =py39h99910a6_2
     - pyzmq =24.0.1 =py39hea35a22_1
-    - qt-main =5.15.6 =h9c3277a_2
+    - qt-main =5.15.6 =hb9439ea_3
     - setuptools =65.5.1 =pyhd8ed1ab_0
     - sip =6.7.5 =py39h99910a6_0
     - six =1.16.0 =pyh6c4a22f_0
