@@ -62,7 +62,7 @@ requirements:
     - transitions =0.9.0 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 444 secondary packages :
+    # 445 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
@@ -145,7 +145,7 @@ requirements:
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jpeg =9e =h9cdd2b7_2
     - jsonschema =4.17.3 =pyhd8ed1ab_0
-    - jupyter_client =7.4.7 =pyhd8ed1ab_0
+    - jupyter_client =7.4.8 =pyhd8ed1ab_0
     - jupyter_core =5.1.0 =py38he3eb160_0
     - jupyter_server =1.23.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
@@ -194,7 +194,7 @@ requirements:
     - libpng =1.6.39 =hf9034f9_0
     - libpq =15.1 =h68e116c_1
     - libsanitizer =12.2.0 =hc13a102_19
-    - libsndfile =1.1.0 =h4de3ea5_0
+    - libsndfile =1.1.0 =hd600fc2_1
     - libsodium =1.0.18 =hb9de7d4_1
     - libsqlite =3.40.0 =hf9034f9_0
     - libssh2 =1.10.0 =he5a64b1_3
@@ -220,7 +220,7 @@ requirements:
     - mistune =2.0.4 =pyhd8ed1ab_0
     - mpc =1.2.1 =h846f343_0
     - mpfr =4.1.0 =h719063d_1
-    - mpg123 =1.30.2 =h4de3ea5_1
+    - mpg123 =1.31.1 =h4de3ea5_0
     - mpmath =1.2.1 =pyhd8ed1ab_0
     - multidict =6.0.2 =py38hdacc76a_2
     - munkres =1.1.4 =pyh9f0ad1d_0
@@ -228,9 +228,9 @@ requirements:
     - mysql-libs =8.0.31 =h8735f6a_0
     - nbclassic =0.4.8 =pyhd8ed1ab_0
     - nbclient =0.7.2 =pyhd8ed1ab_0
-    - nbconvert =7.2.5 =pyhd8ed1ab_0
-    - nbconvert-core =7.2.5 =pyhd8ed1ab_0
-    - nbconvert-pandoc =7.2.5 =pyhd8ed1ab_0
+    - nbconvert =7.2.6 =pyhd8ed1ab_0
+    - nbconvert-core =7.2.6 =pyhd8ed1ab_0
+    - nbconvert-pandoc =7.2.6 =pyhd8ed1ab_0
     - nbformat =5.7.0 =pyhd8ed1ab_0
     - ncurses =6.3 =headf329_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
@@ -362,7 +362,7 @@ requirements:
     - r-lifecycle =1.0.3 =r42hc72bb7e_1
     - r-listenv =0.8.0 =r42hc72bb7e_2
     - r-lobstr =1.1.2 =r42h526691d_1
-    - r-lubridate =1.8.0 =r42h526691d_1
+    - r-lubridate =1.9.0 =r42h4fed366_0
     - r-magrittr =2.0.3 =r42h8e445f0_1
     - r-maps =3.4.1 =r42hc7730c6_1
     - r-mass =7.3_58.1 =r42h8e445f0_1
@@ -430,6 +430,7 @@ requirements:
     - r-tidyr =1.2.1 =r42h526691d_1
     - r-tidyselect =1.2.0 =r42h4571c7f_0
     - r-tidyverse =1.3.2 =r42hc72bb7e_1
+    - r-timechange =0.1.1 =r42he0e9005_1
     - r-timedate =4021.106 =r42hc72bb7e_1
     - r-tinytex =0.42 =r42hc72bb7e_1
     - r-triebeard =0.3.0 =r42h526691d_1005
@@ -464,7 +465,7 @@ requirements:
     - soupsieve =2.3.2.post1 =pyhd8ed1ab_0
     - stdlib-list =0.8.0 =pyhd8ed1ab_0
     - sysroot_linux-aarch64 =2.17 =h43d7e78_13
-    - terminado =0.17.0 =pyh41d4057_0
+    - terminado =0.17.1 =pyh41d4057_0
     - tinycss2 =1.2.1 =pyhd8ed1ab_0
     - tk =8.6.12 =hd8af866_0
     - tktable =2.10 =hcd05d48_3
