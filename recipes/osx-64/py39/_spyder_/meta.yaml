@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =0.29.32 =py39h7a8716b_1
-    - matplotlib =3.6.2 =py39h6e9494a_0
+    - matplotlib =3.5.3 =py39h6e9494a_2
     - numpy =1.23.5 =py39hdfa1d0c_0
     - pandas =1.5.2 =py39hecff1ad_0
     - pyqt =5.15.7 =py39h327fbb6_2
@@ -35,7 +35,7 @@ requirements:
     - spyder-terminal =1.2.2 =py39h6e9494a_0
     - sympy =1.11.1 =py39h6e9494a_2
 
-    # 241 secondary packages :
+    # 240 secondary packages :
     - alabaster =0.7.12 =py_0
     - applaunchservices =0.3.0 =py39h6e9494a_1
     - appnope =0.1.3 =pyhd8ed1ab_0
@@ -57,7 +57,7 @@ requirements:
     - brotlipy =0.7.0 =py39ha30fb19_1005
     - bzip2 =1.0.8 =h0d85af4_4
     - ca-certificates =2022.9.24 =h033912b_0
-    - certifi =2022.9.24 =pyhd8ed1ab_0
+    - certifi =2022.12.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py39h131948b_2
     - chardet =5.1.0 =py39h6e9494a_0
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
@@ -65,7 +65,6 @@ requirements:
     - cloudpickle =2.2.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - coloredlogs =15.0.1 =py39h6e9494a_2
-    - contourpy =1.0.6 =py39h92daf61_0
     - cookiecutter =2.1.1 =pyh6c4a22f_0
     - cryptography =38.0.4 =py39hbeae22c_0
     - cycler =0.11.0 =pyhd8ed1ab_0
@@ -95,7 +94,7 @@ requirements:
     - importlib_resources =5.10.1 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.0.2 =py_0
-    - ipykernel =6.17.1 =pyh736e0ef_0
+    - ipykernel =6.17.1 =pyh210e3f2_0
     - ipython =7.33.0 =py39h6e9494a_0
     - ipython_genutils =0.2.0 =py_1
     - isort =5.10.1 =pyhd8ed1ab_0
@@ -148,7 +147,7 @@ requirements:
     - libzlib =1.2.13 =hfd90126_4
     - llvm-openmp =15.0.6 =h61d9ccf_0
     - markupsafe =2.1.1 =py39ha30fb19_2
-    - matplotlib-base =3.6.2 =py39hb2f573b_0
+    - matplotlib-base =3.5.3 =py39h35e3ac7_2
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mccabe =0.6.1 =py_1
     - mistune =2.0.4 =pyhd8ed1ab_0
@@ -186,7 +185,7 @@ requirements:
     - platformdirs =2.5.2 =pyhd8ed1ab_1
     - pluggy =1.0.0 =py39h6e9494a_4
     - ply =3.11 =py_1
-    - prompt-toolkit =3.0.33 =pyha770c72_0
+    - prompt-toolkit =3.0.36 =pyha770c72_0
     - psutil =5.9.4 =py39ha30fb19_0
     - pthread-stubs =0.4 =hc929b4f_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
@@ -244,7 +243,7 @@ requirements:
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_2
     - spyder-kernels =2.2.1 =py39h6e9494a_1
     - sqlite =3.40.0 =h9ae0607_0
-    - terminado =0.17.1 =pyhd1c38e8_0
+    - terminado =0.17.1 =pyh41d4057_0
     - text-unidecode =1.3 =py_0
     - textdistance =4.5.0 =pyhd8ed1ab_0
     - three-merge =0.1.1 =pyh9f0ad1d_0

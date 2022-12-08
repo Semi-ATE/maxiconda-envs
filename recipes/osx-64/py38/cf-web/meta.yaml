@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - beautifulsoup4 =4.11.1 =pyha770c72_0
-    - django =4.1.3 =pyhd8ed1ab_0
+    - django =4.1.4 =pyhd8ed1ab_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - pyqt =5.15.7 =py38h872f513_2
     - pyyaml =6.0 =py38hef030d1_5
@@ -49,7 +49,7 @@ requirements:
     - brotlipy =0.7.0 =py38hef030d1_1005
     - bzip2 =1.0.8 =h0d85af4_4
     - ca-certificates =2022.9.24 =h033912b_0
-    - certifi =2022.9.24 =pyhd8ed1ab_0
+    - certifi =2022.12.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38hb368cf1_2
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
     - cloudpickle =2.2.0 =pyhd8ed1ab_0
@@ -68,7 +68,7 @@ requirements:
     - icu =70.1 =h96cf925_0
     - idna =3.4 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - ipykernel =6.17.1 =pyh736e0ef_0
+    - ipykernel =6.17.1 =pyh210e3f2_0
     - ipython =7.33.0 =py38h50d1736_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jpeg =9e =hac89ed1_2
@@ -109,7 +109,7 @@ requirements:
     - pip =22.3.1 =pyhd8ed1ab_0
     - platformdirs =2.5.2 =pyhd8ed1ab_1
     - ply =3.11 =py_1
-    - prompt-toolkit =3.0.33 =pyha770c72_0
+    - prompt-toolkit =3.0.36 =pyha770c72_0
     - psutil =5.9.4 =py38hef030d1_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pyasn1 =0.4.8 =py_0

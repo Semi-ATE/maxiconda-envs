@@ -54,7 +54,7 @@ requirements:
     - requests =2.28.1 =pyhd8ed1ab_1
     - rust =1.65.0 =hf8d6059_0
     - scipy =1.7.3 =py37hb6553fb_0
-    - spyder-kernels =2.4.0 =win_pyhd8ed1ab_1
+    - spyder-kernels =2.4.0 =unix_pyhd8ed1ab_1
     - sqlalchemy =1.4.42 =py37h51bd9d9_0
     - sqlite =3.40.0 =hcfcfb64_0
     - sympy =1.10.1 =py37h03978a9_1
@@ -81,7 +81,7 @@ requirements:
     - brotlipy =0.7.0 =py37hcc03f2d_1004
     - bzip2 =1.0.8 =h8ffe710_4
     - ca-certificates =2022.9.24 =h5b45459_0
-    - certifi =2022.9.24 =pyhd8ed1ab_0
+    - certifi =2022.12.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py37ha95fbe2_1
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
     - click =8.1.3 =py37h03978a9_0
@@ -113,7 +113,7 @@ requirements:
     - importlib_resources =5.10.1 =pyhd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
     - intel-openmp =2022.2.1 =h57928b3_19741
-    - ipykernel =6.16.2 =pyh025b116_0
+    - ipykernel =6.16.2 =pyh210e3f2_0
     - ipython_genutils =0.2.0 =py_1
     - jarowinkler =1.2.3 =py37h7f67f24_0
     - jedi =0.18.2 =pyhd8ed1ab_0
@@ -215,9 +215,10 @@ requirements:
     - ply =3.11 =py_1
     - progressbar2 =4.2.0 =pyhd8ed1ab_0
     - prometheus_client =0.15.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.33 =pyha770c72_0
+    - prompt-toolkit =3.0.36 =pyha770c72_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
+    - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pycparser =2.21 =pyhd8ed1ab_0
     - pygments =2.13.0 =pyhd8ed1ab_0
     - pyopenssl =22.1.0 =pyhd8ed1ab_0
@@ -231,7 +232,6 @@ requirements:
     - python_abi =3.7 =3_cp37m
     - pytz =2022.6 =pyhd8ed1ab_0
     - pywin32 =303 =py37hcc03f2d_0
-    - pywinpty =2.0.8 =py37h7f67f24_0
     - pyzmq =24.0.1 =py37h7347f05_0
     - qt-main =5.15.6 =hb9439ea_3
     - qtpy =2.3.0 =pyhd8ed1ab_0
@@ -421,7 +421,7 @@ requirements:
     - soupsieve =2.3.2.post1 =pyhd8ed1ab_0
     - stdlib-list =0.8.0 =pyhd8ed1ab_0
     - tbb =2021.7.0 =h91493d7_1
-    - terminado =0.17.0 =pyh08f2357_0
+    - terminado =0.17.1 =pyh41d4057_0
     - tinycss2 =1.2.1 =pyhd8ed1ab_0
     - tk =8.6.12 =h8ffe710_0
     - toml =0.10.2 =pyhd8ed1ab_0
@@ -441,7 +441,7 @@ requirements:
     - websocket-client =1.4.2 =pyhd8ed1ab_0
     - wheel =0.38.4 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py37h03978a9_4
-    - winpty =0.4.3 =4
+    - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xorg-libxau =1.0.9 =hcd874cb_0
     - xorg-libxdmcp =1.1.3 =hcd874cb_0
     - xz =5.2.6 =h8d14728_0

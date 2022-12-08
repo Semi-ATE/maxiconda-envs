@@ -34,7 +34,7 @@ requirements:
     - hypothesis =6.60.0 =pyha770c72_0
     - ipython =7.33.0 =py38h50d1736_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
-    - matplotlib =3.6.2 =py38h50d1736_0
+    - matplotlib =3.5.3 =py38h50d1736_2
     - numba =0.56.4 =py38hab356c4_0
     - numpy =1.23.5 =py38hc2f29e8_0
     - openpyxl =3.0.10 =py38hef030d1_2
@@ -62,7 +62,7 @@ requirements:
     - transitions =0.9.0 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 411 secondary packages :
+    # 413 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.6.2 =pyhd8ed1ab_0
@@ -85,7 +85,7 @@ requirements:
     - ca-certificates =2022.9.24 =h033912b_0
     - cairo =1.16.0 =h904041c_1014
     - cctools_osx-64 =973.0.1 =hcc6d90d_11
-    - certifi =2022.9.24 =pyhd8ed1ab_0
+    - certifi =2022.12.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38hb368cf1_2
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
     - clang =14.0.6 =h694c41f_0
@@ -99,7 +99,6 @@ requirements:
     - compiler-rt =14.0.6 =h613da45_0
     - compiler-rt_osx-64 =14.0.6 =hab78ec2_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
-    - contourpy =1.0.6 =py38h98b9b1b_0
     - cryptography =38.0.4 =py38h4257468_0
     - curl =7.86.0 =h581aaea_1
     - cycler =0.11.0 =pyhd8ed1ab_0
@@ -140,7 +139,7 @@ requirements:
     - importlib-metadata =5.1.0 =pyha770c72_0
     - importlib_resources =5.10.1 =pyhd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
-    - ipykernel =6.17.1 =pyh736e0ef_0
+    - ipykernel =6.17.1 =pyh210e3f2_0
     - ipython_genutils =0.2.0 =py_1
     - isl =0.25 =hb486fe8_0
     - jedi =0.18.2 =pyhd8ed1ab_0
@@ -148,7 +147,9 @@ requirements:
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.8 =pyhd8ed1ab_0
     - jupyter_core =5.1.0 =py38h50d1736_0
-    - jupyter_server =1.23.3 =pyhd8ed1ab_0
+    - jupyter_events =0.5.0 =pyhd8ed1ab_0
+    - jupyter_server =2.0.0 =pyhd8ed1ab_0
+    - jupyter_server_terminals =0.4.2 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py38h98b9b1b_1
     - krb5 =1.19.3 =hb98e516_0
@@ -198,7 +199,7 @@ requirements:
     - llvmlite =0.39.1 =py38hc86dbf9_1
     - make =4.3 =h22f3db7_1
     - markupsafe =2.1.1 =py38hef030d1_2
-    - matplotlib-base =3.6.2 =py38hcb346ec_0
+    - matplotlib-base =3.5.3 =py38hae485fc_2
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mistune =2.0.4 =pyhd8ed1ab_0
     - mpc =1.2.1 =hbb51d92_0
@@ -240,7 +241,7 @@ requirements:
     - ply =3.11 =py_1
     - progressbar2 =4.2.0 =pyhd8ed1ab_0
     - prometheus_client =0.15.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.33 =pyha770c72_0
+    - prompt-toolkit =3.0.36 =pyha770c72_0
     - pthread-stubs =0.4 =hc929b4f_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pycparser =2.21 =pyhd8ed1ab_0
@@ -252,6 +253,7 @@ requirements:
     - pysocks =1.7.1 =py38h50d1736_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-fastjsonschema =2.16.2 =pyhd8ed1ab_0
+    - python-json-logger =2.0.1 =pyh9f0ad1d_0
     - python-utils =3.4.5 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pytz =2022.6 =pyhd8ed1ab_0
@@ -336,7 +338,7 @@ requirements:
     - r-kernsmooth =2.23_20 =r42hc309deb_1
     - r-knitr =1.41 =r42hc72bb7e_0
     - r-labeling =0.4.2 =r42hc72bb7e_2
-    - r-later =1.3.0 =r42hf00d5e6_1
+    - r-later =1.2.0 =r42h49197e3_1
     - r-lattice =0.20_45 =r42h815d134_1
     - r-lava =1.7.0 =r42hc72bb7e_0
     - r-lazyeval =0.2.2 =r42h815d134_3
@@ -433,7 +435,7 @@ requirements:
     - rapidfuzz =2.13.2 =py38h4cd09af_0
     - readline =8.1.2 =h3899abd_0
     - ruamel.yaml =0.17.21 =py38hef030d1_2
-    - ruamel.yaml.clib =0.2.7 =py38hef030d1_0
+    - ruamel.yaml.clib =0.2.7 =py38hef030d1_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-apple-darwin =1.65.0 =h059895a_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
@@ -446,7 +448,7 @@ requirements:
     - soupsieve =2.3.2.post1 =pyhd8ed1ab_0
     - stdlib-list =0.8.0 =pyhd8ed1ab_0
     - tapi =1100.0.11 =h9ce4665_0
-    - terminado =0.17.1 =pyhd1c38e8_0
+    - terminado =0.17.1 =pyh41d4057_0
     - tinycss2 =1.2.1 =pyhd8ed1ab_0
     - tk =8.6.12 =h5dbffcc_0
     - tktable =2.10 =h49f0cf7_3

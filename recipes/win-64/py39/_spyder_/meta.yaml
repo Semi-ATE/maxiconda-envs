@@ -35,7 +35,7 @@ requirements:
     - spyder-terminal =1.2.2 =py39hcbf5309_0
     - sympy =1.11.1 =py39hcbf5309_2
 
-    # 236 secondary packages :
+    # 234 secondary packages :
     - alabaster =0.7.12 =py_0
     - arrow =1.2.3 =pyhd8ed1ab_0
     - astroid =2.12.13 =py39hcbf5309_0
@@ -56,7 +56,7 @@ requirements:
     - brotlipy =0.7.0 =py39ha55989b_1005
     - bzip2 =1.0.8 =h8ffe710_4
     - ca-certificates =2022.9.24 =h5b45459_0
-    - certifi =2022.9.24 =pyhd8ed1ab_0
+    - certifi =2022.12.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py39h68f70e3_2
     - chardet =5.1.0 =py39hcbf5309_0
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
@@ -93,7 +93,7 @@ requirements:
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intel-openmp =2022.2.1 =h57928b3_19741
     - intervaltree =3.0.2 =py_0
-    - ipykernel =6.17.1 =pyh025b116_0
+    - ipykernel =6.17.1 =pyh210e3f2_0
     - ipython =7.33.0 =py39hcbf5309_0
     - ipython_genutils =0.2.0 =py_1
     - isort =5.10.1 =pyhd8ed1ab_0
@@ -177,7 +177,7 @@ requirements:
     - platformdirs =2.5.2 =pyhd8ed1ab_1
     - pluggy =1.0.0 =py39hcbf5309_4
     - ply =3.11 =py_1
-    - prompt-toolkit =3.0.33 =pyha770c72_0
+    - prompt-toolkit =3.0.36 =pyha770c72_0
     - psutil =5.9.4 =py39ha55989b_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
@@ -207,7 +207,6 @@ requirements:
     - pytz =2022.6 =pyhd8ed1ab_0
     - pywin32 =304 =py39h99910a6_2
     - pywin32-ctypes =0.2.0 =py39hcbf5309_1006
-    - pywinpty =2.0.9 =py39h99910a6_0
     - pyyaml =6.0 =py39ha55989b_5
     - pyzmq =24.0.1 =py39hea35a22_1
     - qdarkstyle =3.0.2 =pyhd8ed1ab_0
@@ -235,7 +234,7 @@ requirements:
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_2
     - spyder-kernels =2.2.1 =py39hcbf5309_1
     - tbb =2021.7.0 =h91493d7_1
-    - terminado =0.17.0 =pyh08f2357_0
+    - terminado =0.17.1 =pyh41d4057_0
     - text-unidecode =1.3 =py_0
     - textdistance =4.5.0 =pyhd8ed1ab_0
     - three-merge =0.1.1 =pyh9f0ad1d_0
@@ -262,7 +261,6 @@ requirements:
     - webencodings =0.5.1 =py_1
     - wheel =0.38.4 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py39hcbf5309_5
-    - winpty =0.4.3 =4
     - wrapt =1.14.1 =py39ha55989b_1
     - xorg-libxau =1.0.9 =hcd874cb_0
     - xorg-libxdmcp =1.1.3 =hcd874cb_0

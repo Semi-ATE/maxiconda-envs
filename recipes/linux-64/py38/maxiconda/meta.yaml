@@ -62,7 +62,7 @@ requirements:
     - transitions =0.9.0 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 446 secondary packages :
+    # 449 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -86,9 +86,9 @@ requirements:
     - bwidget =1.9.14 =ha770c72_1
     - bzip2 =1.0.8 =h7f98852_4
     - c-ares =1.18.1 =h7f98852_0
-    - ca-certificates =2022.9.24 =ha878542_0
+    - ca-certificates =2022.12.7 =ha878542_0
     - cairo =1.16.0 =ha61ee94_1014
-    - certifi =2022.9.24 =pyhd8ed1ab_0
+    - certifi =2022.12.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38h4a40e3a_2
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
     - click =8.1.3 =py38h578d9bd_1
@@ -148,7 +148,9 @@ requirements:
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.8 =pyhd8ed1ab_0
     - jupyter_core =5.1.0 =py38h578d9bd_0
-    - jupyter_server =1.23.3 =pyhd8ed1ab_0
+    - jupyter_events =0.5.0 =pyhd8ed1ab_0
+    - jupyter_server =2.0.0 =pyhd8ed1ab_0
+    - jupyter_server_terminals =0.4.2 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - kernel-headers_linux-64 =2.6.32 =he073ed8_15
     - keyutils =1.6.1 =h166bdaf_0
@@ -259,7 +261,7 @@ requirements:
     - ply =3.11 =py_1
     - progressbar2 =4.2.0 =pyhd8ed1ab_0
     - prometheus_client =0.15.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.33 =pyha770c72_0
+    - prompt-toolkit =3.0.36 =pyha770c72_0
     - pthread-stubs =0.4 =h36c2ea0_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pulseaudio =16.1 =h126f2b6_0
@@ -272,6 +274,7 @@ requirements:
     - pysocks =1.7.1 =py38h578d9bd_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-fastjsonschema =2.16.2 =pyhd8ed1ab_0
+    - python-json-logger =2.0.1 =pyh9f0ad1d_0
     - python-utils =3.4.5 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pytz =2022.6 =pyhd8ed1ab_0
@@ -453,7 +456,7 @@ requirements:
     - rapidfuzz =2.13.2 =py38hfa26641_0
     - readline =8.1.2 =h0f457ee_0
     - ruamel.yaml =0.17.21 =py38h0a891b7_2
-    - ruamel.yaml.clib =0.2.7 =py38h0a891b7_0
+    - ruamel.yaml.clib =0.2.7 =py38h1de0b5d_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-unknown-linux-gnu =1.65.0 =hc1431ca_0
     - sed =4.8 =he412f7d_0

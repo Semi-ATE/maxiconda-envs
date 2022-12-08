@@ -62,7 +62,7 @@ requirements:
     - transitions =0.9.0 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 388 secondary packages :
+    # 390 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.6.2 =pyhd8ed1ab_0
@@ -80,7 +80,7 @@ requirements:
     - brotlipy =0.7.0 =py39ha55989b_1005
     - bzip2 =1.0.8 =h8ffe710_4
     - ca-certificates =2022.9.24 =h5b45459_0
-    - certifi =2022.9.24 =pyhd8ed1ab_0
+    - certifi =2022.12.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py39h68f70e3_2
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
     - click =8.1.3 =py39hcbf5309_1
@@ -112,14 +112,16 @@ requirements:
     - importlib_resources =5.10.1 =pyhd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
     - intel-openmp =2022.2.1 =h57928b3_19741
-    - ipykernel =6.17.1 =pyh025b116_0
+    - ipykernel =6.17.1 =pyh210e3f2_0
     - ipython_genutils =0.2.0 =py_1
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jpeg =9e =h8ffe710_2
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.8 =pyhd8ed1ab_0
     - jupyter_core =5.1.0 =py39hcbf5309_0
-    - jupyter_server =1.23.3 =pyhd8ed1ab_0
+    - jupyter_events =0.5.0 =pyhd8ed1ab_0
+    - jupyter_server =2.0.0 =pyhd8ed1ab_0
+    - jupyter_server_terminals =0.4.2 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py39h1f6ef14_1
     - krb5 =1.19.3 =hc8ab02b_0
@@ -215,9 +217,10 @@ requirements:
     - ply =3.11 =py_1
     - progressbar2 =4.2.0 =pyhd8ed1ab_0
     - prometheus_client =0.15.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.33 =pyha770c72_0
+    - prompt-toolkit =3.0.36 =pyha770c72_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
+    - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pycparser =2.21 =pyhd8ed1ab_0
     - pygments =2.13.0 =pyhd8ed1ab_0
     - pyopenssl =22.1.0 =pyhd8ed1ab_0
@@ -227,11 +230,11 @@ requirements:
     - pysocks =1.7.1 =py39hcbf5309_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-fastjsonschema =2.16.2 =pyhd8ed1ab_0
+    - python-json-logger =2.0.1 =pyh9f0ad1d_0
     - python-utils =3.4.5 =pyhd8ed1ab_0
     - python_abi =3.9 =3_cp39
     - pytz =2022.6 =pyhd8ed1ab_0
     - pywin32 =304 =py39h99910a6_2
-    - pywinpty =2.0.9 =py39h99910a6_0
     - pyzmq =24.0.1 =py39hea35a22_1
     - qt-main =5.15.6 =hb9439ea_3
     - qtpy =2.3.0 =pyhd8ed1ab_0
@@ -409,7 +412,7 @@ requirements:
     - r-zoo =1.8_11 =r41h6d2157b_1
     - rapidfuzz =2.13.2 =py39h99910a6_0
     - ruamel.yaml =0.17.21 =py39ha55989b_2
-    - ruamel.yaml.clib =0.2.7 =py39ha55989b_0
+    - ruamel.yaml.clib =0.2.7 =py39ha55989b_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-pc-windows-msvc =1.65.0 =h69312b4_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
@@ -421,7 +424,7 @@ requirements:
     - soupsieve =2.3.2.post1 =pyhd8ed1ab_0
     - stdlib-list =0.8.0 =pyhd8ed1ab_0
     - tbb =2021.7.0 =h91493d7_1
-    - terminado =0.17.0 =pyh08f2357_0
+    - terminado =0.17.1 =pyh41d4057_0
     - tinycss2 =1.2.1 =pyhd8ed1ab_0
     - tk =8.6.12 =h8ffe710_0
     - toml =0.10.2 =pyhd8ed1ab_0
@@ -442,7 +445,6 @@ requirements:
     - websocket-client =1.4.2 =pyhd8ed1ab_0
     - wheel =0.38.4 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py39hcbf5309_5
-    - winpty =0.4.3 =4
     - xorg-libxau =1.0.9 =hcd874cb_0
     - xorg-libxdmcp =1.1.3 =hcd874cb_0
     - xz =5.2.6 =h8d14728_0
