@@ -28,12 +28,12 @@ requirements:
     - pyqt =5.15.7 =py37h15e4627_1
     - spyder-kernels =2.4.0 =unix_pyhd8ed1ab_1
 
-    # 68 secondary packages :
+    # 67 secondary packages :
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =h8ffe710_4
-    - ca-certificates =2022.9.24 =h5b45459_0
+    - ca-certificates =2022.12.7 =h5b45459_0
     - cloudpickle =2.2.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - debugpy =1.6.3 =py37hf2a7229_0
@@ -66,7 +66,7 @@ requirements:
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - openssl =3.0.7 =hcfcfb64_1
-    - packaging =21.3 =pyhd8ed1ab_0
+    - packaging =22.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =h17e33f8_0
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
@@ -75,7 +75,6 @@ requirements:
     - prompt-toolkit =3.0.36 =pyha770c72_0
     - psutil =5.9.3 =py37h51bd9d9_0
     - pygments =2.13.0 =pyhd8ed1ab_0
-    - pyparsing =3.0.9 =pyhd8ed1ab_0
     - pyqt5-sip =12.11.0 =py37h7f67f24_1
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.7 =3_cp37m

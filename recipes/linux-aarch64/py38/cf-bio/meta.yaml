@@ -34,7 +34,7 @@ requirements:
     - scipy =1.9.3 =py38ha629af0_2
     - spyder-kernels =2.4.0 =py38he3eb160_0
 
-    # 171 secondary packages :
+    # 172 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h4e544f5_0
     - attr =2.5.1 =h4e544f5_1
@@ -46,10 +46,11 @@ requirements:
     - brotli =1.0.9 =h4e544f5_8
     - brotli-bin =1.0.9 =h4e544f5_8
     - bzip2 =1.0.8 =hf897c2e_4
-    - ca-certificates =2022.9.24 =h4fd8a4c_0
+    - ca-certificates =2022.12.7 =h4fd8a4c_0
     - cairo =1.16.0 =hd19fb6e_1014
     - certifi =2022.12.7 =pyhd8ed1ab_0
     - cloudpickle =2.2.0 =pyhd8ed1ab_0
+    - comm =0.1.1 =pyhd8ed1ab_0
     - contourpy =1.0.6 =py38hd5caf9b_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h12b9eeb_3
@@ -75,7 +76,7 @@ requirements:
     - gstreamer =1.21.2 =hf4e84e4_0
     - gstreamer-orc =0.4.33 =h4e544f5_0
     - icu =70.1 =ha18d298_0
-    - ipykernel =6.17.1 =pyh210e3f2_0
+    - ipykernel =6.19.2 =pyh210e3f2_0
     - ipython =7.33.0 =py38h2063c64_0
     - jack =1.9.21 =h52479df_2
     - jedi =0.18.2 =pyhd8ed1ab_0
@@ -148,7 +149,7 @@ requirements:
     - nss =3.82 =h4b7554b_0
     - openjpeg =2.5.0 =h9b6de37_1
     - openssl =3.0.7 =hb4cce97_1
-    - packaging =21.3 =pyhd8ed1ab_0
+    - packaging =22.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =he7b27c6_0
     - pexpect =4.8.0 =py38h32f6830_1
@@ -202,7 +203,7 @@ requirements:
     - xorg-renderproto =0.11.1 =h3557bc0_1002
     - xorg-xextproto =7.3.0 =h3557bc0_1002
     - xorg-xproto =7.0.31 =h3557bc0_1007
-    - xz =5.2.6 =h9cdd2b7_0
+    - xz =5.2.9 =h9cdd2b7_0
     - zeromq =4.3.4 =h01db608_1
     - zlib =1.2.13 =h4e544f5_4
     - zstd =1.5.2 =hc1e27d5_4

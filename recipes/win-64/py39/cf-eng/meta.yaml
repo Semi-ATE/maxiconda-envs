@@ -39,9 +39,10 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =h8ffe710_4
-    - ca-certificates =2022.9.24 =h5b45459_0
+    - ca-certificates =2022.12.7 =h5b45459_0
     - cloudpickle =2.2.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
+    - comm =0.1.1 =pyhd8ed1ab_0
     - debugpy =1.6.4 =py39h99910a6_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
@@ -54,7 +55,7 @@ requirements:
     - icu =70.1 =h0e60522_0
     - importlib-metadata =5.1.0 =pyha770c72_0
     - intel-openmp =2022.2.1 =h57928b3_19741
-    - ipykernel =6.17.1 =pyh210e3f2_0
+    - ipykernel =6.19.2 =pyh210e3f2_0
     - ipython =7.33.0 =py39hcbf5309_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jpeg =9e =h8ffe710_2
@@ -82,7 +83,7 @@ requirements:
     - mkl =2022.1.0 =h6a75c08_874
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - openssl =3.0.7 =hcfcfb64_1
-    - packaging =21.3 =pyhd8ed1ab_0
+    - packaging =22.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =h17e33f8_0
     - pickleshare =0.7.5 =py39hde42818_1002
@@ -93,7 +94,6 @@ requirements:
     - psutil =5.9.4 =py39ha55989b_0
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pygments =2.13.0 =pyhd8ed1ab_0
-    - pyparsing =3.0.9 =pyhd8ed1ab_0
     - pyqt5-sip =12.11.0 =py39h99910a6_2
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =3_cp39
@@ -117,7 +117,7 @@ requirements:
     - vs2015_runtime =14.32.31332 =h1d6e394_9
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.38.4 =pyhd8ed1ab_0
-    - xz =5.2.6 =h8d14728_0
+    - xz =5.2.9 =h64bf75a_0
     - zeromq =4.3.4 =h0e60522_1
     - zipp =3.11.0 =pyhd8ed1ab_0
     - zstd =1.5.2 =h7755175_4

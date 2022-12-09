@@ -36,7 +36,7 @@ requirements:
     - scipy =1.9.3 =py39h18313fe_2
     - spyder-kernels =2.4.0 =py39h2804cbe_0
 
-    # 168 secondary packages :
+    # 169 secondary packages :
     - appnope =0.1.3 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -47,7 +47,7 @@ requirements:
     - brotli-bin =1.0.9 =h1a8c8d9_8
     - bzip2 =1.0.8 =h3422bc3_4
     - c-ares =1.18.1 =h3422bc3_0
-    - ca-certificates =2022.9.24 =h4653dfc_0
+    - ca-certificates =2022.12.7 =h4653dfc_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.16.0 =h73a0509_1014
@@ -55,6 +55,7 @@ requirements:
     - cftime =1.6.2 =py39h4d8bf0d_1
     - cloudpickle =2.2.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
+    - comm =0.1.1 =pyhd8ed1ab_0
     - contourpy =1.0.6 =py39haaf3ac1_0
     - curl =7.86.0 =hd538317_1
     - cycler =0.11.0 =pyhd8ed1ab_0
@@ -86,7 +87,7 @@ requirements:
     - hdf4 =4.2.15 =h1a38d6a_5
     - hdf5 =1.12.2 =nompi_h8968d4b_100
     - icu =70.1 =h6b3803e_0
-    - ipykernel =6.17.1 =pyh210e3f2_0
+    - ipykernel =6.19.2 =pyh210e3f2_0
     - ipython =7.33.0 =py39h2804cbe_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - joblib =1.2.0 =pyhd8ed1ab_0
@@ -150,7 +151,7 @@ requirements:
     - nss =3.78 =h1483a63_0
     - openjpeg =2.5.0 =h5d4e404_1
     - openssl =1.1.1s =h03a7124_1
-    - packaging =21.3 =pyhd8ed1ab_0
+    - packaging =22.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - patsy =0.5.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =hb34f9b4_0
@@ -177,7 +178,7 @@ requirements:
     - qt-main =5.15.6 =hf3dd84c_1
     - readline =8.1.2 =h46ed386_0
     - reportlab =3.5.68 =py39h3fc2f6e_1
-    - scikit-learn =1.1.3 =py39h57c6424_1
+    - scikit-learn =1.2.0 =py39h57c6424_0
     - seaborn =0.12.1 =hd8ed1ab_0
     - seaborn-base =0.12.1 =pyhd8ed1ab_0
     - setuptools =65.5.1 =pyhd8ed1ab_0
@@ -201,7 +202,7 @@ requirements:
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xorg-libxau =1.0.9 =h27ca646_0
     - xorg-libxdmcp =1.1.3 =h27ca646_0
-    - xz =5.2.6 =h57fd34a_0
+    - xz =5.2.9 =h1a8c8d9_0
     - zeromq =4.3.4 =hbdafb3b_1
     - zlib =1.2.13 =h03a7124_4
     - zstd =1.5.2 =h8128057_4
