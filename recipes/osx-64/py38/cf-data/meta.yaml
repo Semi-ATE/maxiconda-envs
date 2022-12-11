@@ -183,7 +183,7 @@ requirements:
     - langcodes =3.3.0 =pyhd8ed1ab_0
     - lcms2 =2.14 =h90f4b2a_0
     - lerc =4.0.0 =hb486fe8_0
-    - libabseil =20220623.0 =cxx17_h844d122_5
+    - libabseil =20220623.0 =cxx17_h844d122_6
     - libarrow =10.0.1 =hef0c04d_2_cpu
     - libblas =3.9.0 =16_osx64_openblas
     - libbrotlicommon =1.0.9 =hb7f2c08_8
@@ -216,7 +216,7 @@ requirements:
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.39 =ha978bb4_0
     - libpq =15.1 =hb1ae2b1_1
-    - libprotobuf =3.21.10 =hbc0c0cd_0
+    - libprotobuf =3.21.11 =hbc0c0cd_0
     - librsvg =2.54.4 =h3d48ba6_0
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.40.0 =ha978bb4_0
@@ -281,7 +281,7 @@ requirements:
     - parquet-cpp =1.5.1 =1
     - parsel =1.7.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
-    - pathy =0.10.0 =pyhd8ed1ab_0
+    - pathy =0.10.1 =pyhd8ed1ab_0
     - patsy =0.5.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =h1c4e4bc_0
     - pexpect =4.8.0 =py38h32f6830_1
@@ -298,7 +298,7 @@ requirements:
     - prometheus_flask_exporter =0.21.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.36 =pyha770c72_0
     - protego =0.2.1 =pyhd8ed1ab_0
-    - protobuf =4.21.10 =py38h4cd09af_0
+    - protobuf =4.21.11 =py38h4cd09af_0
     - psutil =5.9.4 =py38hef030d1_0
     - pthread-stubs =0.4 =hc929b4f_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
@@ -332,7 +332,7 @@ requirements:
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
     - pyyaml =6.0 =py38hef030d1_5
     - pyzmq =24.0.1 =py38h0b711fd_0
-    - qt-main =5.15.6 =h23f3e19_3
+    - qt-main =5.15.6 =hd1d9d18_4
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
     - re2 =2022.06.01 =hb486fe8_1
