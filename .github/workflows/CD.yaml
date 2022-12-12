@@ -30,7 +30,7 @@ jobs:
     - name: build meta-packages
       shell: bash -l {0}
       env:
-        CONDA_UPLOAD_TOKEN: ${{ secrets.CONDA_UPLOAD_TOKEN }}
+        CONDA_UPLOAD_TOKEN: ${{ secrets.ANACONDA_TOKEN }}
       run: |
         export MAXICONDA_ENV_RELEASE=${GITHUB_REF##*/}
         conda config --set channel_priority false
