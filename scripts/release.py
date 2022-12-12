@@ -65,7 +65,7 @@ def do_upload(fpath):
     p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     _, output = p.communicate()
     output_lines = output.decode("utf-8").split("\n")  
-
+    print(output)
     for output_line in output_lines:
         if "[ERROR]" in output_line:
             retval = False
