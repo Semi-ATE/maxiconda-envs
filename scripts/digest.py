@@ -100,7 +100,7 @@ def create_digest(args):
             for target in targets:
                 platform, python = target.split("_")
                 if environment in specs['matrix'][platform][target]:
-                    url = f"https://anaconda.org/Semi-ATE/{environment}/{build_version}/download/{platform}/{environment}-{build_version}-{python}.tar.bz2"
+                    url = f"https://anaconda.org/Semi-ATE/{environment}/{build_version}/download/{platform}/{environment}-{build_version}-{python}_0.tar.bz2"
                     print(f"Analyzing '{url}' ... ", end="", flush=True)
                     request = requests.get(url)
                     if request.status_code != 200:
