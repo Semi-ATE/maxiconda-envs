@@ -270,7 +270,6 @@ class Maxiconda:
                     
         p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         stdout, _ = p.communicate()
-        print(stdout.decode("utf-8"))
         data = {}
         if stdout.decode("utf-8").startswith("Encountered problems while solving"):
             feedback = stdout.decode("utf-8").split(":")[1].strip().replace("-", "").strip()
