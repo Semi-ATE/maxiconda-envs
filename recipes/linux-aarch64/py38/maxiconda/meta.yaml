@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.6.0 =py38h81aae68_1
     - cython =0.29.32 =py38h5f8a8d0_1
     - grayskull =1.8.4 =pyhd8ed1ab_1
-    - hypothesis =6.60.0 =pyha770c72_0
+    - hypothesis =6.60.1 =pyha770c72_0
     - ipython =7.33.0 =py38h2063c64_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.6.2 =py38h2063c64_0
@@ -55,7 +55,7 @@ requirements:
     - rust =1.65.0 =h26fb2b7_0
     - scipy =1.9.3 =py38ha629af0_2
     - spyder-kernels =2.4.0 =py38he3eb160_0
-    - sqlalchemy =1.4.44 =py38h81aae68_0
+    - sqlalchemy =1.4.45 =py38hd5eba46_0
     - sqlite =3.40.0 =h69ca7e5_0
     - sympy =1.11.1 =py38he3eb160_2
     - tqdm =4.64.1 =pyhd8ed1ab_0
@@ -310,7 +310,7 @@ requirements:
     - r-data.table =1.14.6 =r42h8e445f0_0
     - r-dbi =1.1.3 =r42hc72bb7e_1
     - r-dbplyr =2.2.1 =r42hc72bb7e_1
-    - r-digest =0.6.30 =r42h526691d_0
+    - r-digest =0.6.31 =r42he0e9005_0
     - r-dplyr =1.0.10 =r42h526691d_1
     - r-dtplyr =1.2.2 =r42hc72bb7e_2
     - r-e1071 =1.7_12 =r42h526691d_0
@@ -453,7 +453,7 @@ requirements:
     - r-xts =0.12.2 =r42h8e445f0_0
     - r-yaml =2.3.6 =r42h8e445f0_0
     - r-zoo =1.8_11 =r42h8e445f0_1
-    - rapidfuzz =2.13.4 =py38h31bd7b8_0
+    - rapidfuzz =2.13.6 =py38h31bd7b8_0
     - readline =8.1.2 =h38e3740_0
     - ruamel.yaml =0.17.21 =py38hdacc76a_2
     - ruamel.yaml.clib =0.2.7 =py38hda48048_1
