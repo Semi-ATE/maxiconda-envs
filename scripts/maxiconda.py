@@ -291,7 +291,7 @@ class Maxiconda:
             self.log(PY, environment, f"'{recipe_fpath}' does not exist!", prefix="  Aborting : ")
             return ""
 
-        archive_name = os.path.join(self.build_root, f"{environment}-{self.build_version}-{PY}.tar.bz2") 
+        archive_name = os.path.join(self.build_root, f"{environment}-{self.build_version}-{PY}_0.tar.bz2") 
         if os.path.exists(archive_name):
             raise Exception(f"'{archive_name}' already exists")
             
