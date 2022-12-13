@@ -8,25 +8,34 @@ on:
 jobs:
   solve_and_build:
     name: ${{ matrix.SUBDIR }}
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.OS_IMAGE }}
     env:
       SUBDIR: ${{ matrix.SUBDIR }}
     strategy:
       fail-fast: false
       matrix:
         include:
-          - SUBDIR: win-64
-          - SUBDIR: linux-64
-          - SUBDIR: linux-aarch64
-          - SUBDIR: osx-64
-          - SUBDIR: osx-arm64
-    steps:  
+          - OS_IMAGE: ubuntu-latest
+            SUBDIR: linux-64
+
+          - OS_IMAGE: ubuntu-latest
+            SUBDIR: linux-aarch64
+
+          - OS_IMAGE: macos-latest
+            SUBDIR: osx-64
+
+          - OS_IMAGE: macos-latest
+            SUBDIR: osx-arm64
+
+          - OS_IMAGE: windows-latest
+            SUBDIR: win-64
+    steps:
     - name: Checkout code
       uses: actions/checkout@v3
 
     - name: Install mamba & environment
       uses: mamba-org/provision-with-micromamba@v14
-        
+
     - name: Solve and test-build meta-packages
       shell: bash -l {0}
       run: |
@@ -56,7 +65,7 @@ jobs:
       with:
         persist-credentials: false  # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         fetch-depth: 0  # otherwise, you will failed to push refs to dest repo
-    
+
     - name: Install mamba & environment
       uses: mamba-org/provision-with-micromamba@v14
 
@@ -66,7 +75,7 @@ jobs:
     - name: Remove build packages
       shell: bash -l {0}
       run: rm -rf *_packages/
-        
+
     - name: Move recipes into place
       shell: bash -l {0}
       run: |
@@ -110,7 +119,7 @@ jobs:
         else
           echo "Nothing to commit ($DATE)"
           git pull
-        fi  
+        fi
 
     - name: Push changes
       uses: ad-m/github-push-action@master
