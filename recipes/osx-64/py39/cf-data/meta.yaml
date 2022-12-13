@@ -28,7 +28,7 @@ requirements:
     - beautifulsoup4 =4.11.1 =pyha770c72_0
     - bokeh =3.0.3 =pyhd8ed1ab_0
     - lightgbm =3.3.3 =py39hc23ddd4_1
-    - matplotlib =3.5.3 =py39h6e9494a_2
+    - matplotlib =3.6.2 =py39h6e9494a_0
     - numpy =1.23.5 =py39hdfa1d0c_0
     - pandas =1.5.2 =py39hecff1ad_0
     - plotly =5.11.0 =pyhd8ed1ab_1
@@ -66,10 +66,10 @@ requirements:
     - aws-c-http =0.6.27 =h40fbe91_3
     - aws-c-io =0.13.11 =hb3bb6ef_2
     - aws-c-mqtt =0.7.13 =h95fd635_9
-    - aws-c-s3 =0.1.51 =h9f2fa91_14
+    - aws-c-s3 =0.2.1 =h9f2fa91_0
     - aws-c-sdkutils =0.1.7 =hfb1f584_0
     - aws-checksums =0.1.13 =hfb1f584_5
-    - aws-crt-cpp =0.18.16 =hf36d960_1
+    - aws-crt-cpp =0.18.16 =h8755ad4_2
     - aws-sdk-cpp =1.9.379 =hafd40d4_5
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -157,7 +157,7 @@ requirements:
     - importlib-metadata =5.1.0 =pyha770c72_0
     - importlib_resources =5.10.1 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - ipykernel =6.19.2 =pyh210e3f2_0
+    - ipykernel =6.19.2 =pyh736e0ef_0
     - ipython =7.33.0 =py39h6e9494a_0
     - ipython_genutils =0.2.0 =py_1
     - ipywidgets =7.7.2 =pyhd8ed1ab_0
@@ -240,7 +240,7 @@ requirements:
     - mako =1.2.4 =pyhd8ed1ab_0
     - markdown =3.4.1 =pyhd8ed1ab_0
     - markupsafe =2.1.1 =py39ha30fb19_2
-    - matplotlib-base =3.5.3 =py39h35e3ac7_2
+    - matplotlib-base =3.6.2 =py39hb2f573b_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mistune =2.0.4 =pyhd8ed1ab_0
     - mkl =2022.2.1 =h44ed08c_16952
@@ -261,7 +261,7 @@ requirements:
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - networkx =2.8.8 =pyhd8ed1ab_0
     - ninja =1.11.0 =h1b54a9f_0
-    - nltk =3.7 =pyhd8ed1ab_0
+    - nltk =3.8 =pyhd8ed1ab_0
     - notebook =6.5.2 =pyha770c72_1
     - notebook-shim =0.2.2 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
@@ -365,7 +365,7 @@ requirements:
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.7.0 =hb8565cd_1
     - tenacity =8.1.0 =pyhd8ed1ab_0
-    - terminado =0.17.1 =pyh41d4057_0
+    - terminado =0.17.1 =pyhd1c38e8_0
     - textblob =0.15.3 =py_0
     - thinc =8.1.5 =py39h6dc771e_1
     - threadpoolctl =3.1.0 =pyh8a188c0_0
