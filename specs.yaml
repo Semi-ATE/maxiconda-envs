@@ -27,6 +27,7 @@ matrix:
 environments:
   _spyder_:
     - pyqt
+    - pyqtwebengine
     - spyder
     - spyder-terminal
     #- spyder-screencast
