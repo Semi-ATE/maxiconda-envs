@@ -24,7 +24,7 @@ requirements:
   run:
     - python =3.9.15 =h2d96c93_0_cpython
 
-    # 35 primary packages :
+    # 37 primary packages :
     - aiohttp =3.8.3 =py39h02fc5c5_1
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.11.1 =pyha770c72_0
@@ -53,12 +53,14 @@ requirements:
     - requests =2.28.1 =pyhd8ed1ab_1
     - rust =1.65.0 =h4ff7c5d_0
     - scipy =1.9.3 =py39h18313fe_2
+    - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.0 =py39h2804cbe_0
     - sqlalchemy =1.4.45 =py39h02fc5c5_0
     - sqlite =3.40.0 =h2229b38_0
     - sympy =1.11.1 =py39h2804cbe_2
     - tqdm =4.64.1 =pyhd8ed1ab_0
     - transitions =0.9.0 =pyhd8ed1ab_0
+    - xlsxwriter =3.0.3 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
     # 415 secondary packages :
@@ -326,7 +328,7 @@ requirements:
     - r-htmltools =0.5.4 =r42h9a38a31_0
     - r-htmlwidgets =1.5.4 =r42hc72bb7e_1
     - r-httpcode =0.3.0 =r42hf450f58_2
-    - r-httpuv =1.6.6 =r42h9a38a31_1
+    - r-httpuv =1.6.7 =r42h9a38a31_0
     - r-httr =1.4.4 =r42hc72bb7e_1
     - r-ids =1.0.1 =r42hc72bb7e_2
     - r-ipred =0.9_13 =r42h5d63f41_1
