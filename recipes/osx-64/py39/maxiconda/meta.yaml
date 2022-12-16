@@ -126,7 +126,7 @@ requirements:
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.3.3 =py39ha30fb19_0
     - gettext =0.21.1 =h8a4c099_0
-    - gfortran_impl_osx-64 =11.3.0 =h1f927f5_26
+    - gfortran_impl_osx-64 =11.3.0 =h1f927f5_27
     - gfortran_osx-64 =11.3.0 =h18f7dce_0
     - glib =2.74.1 =hbc0c0cd_1
     - glib-tools =2.74.1 =hbc0c0cd_1
@@ -174,9 +174,9 @@ requirements:
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =haf1e3a3_1
     - libffi =3.4.2 =h0d85af4_5
-    - libgfortran =5.0.0 =9_5_0_h97931a8_26
-    - libgfortran-devel_osx-64 =11.3.0 =h824d247_26
-    - libgfortran5 =11.3.0 =h082f757_26
+    - libgfortran =5.0.0 =11_3_0_h97931a8_27
+    - libgfortran-devel_osx-64 =11.3.0 =h824d247_27
+    - libgfortran5 =11.3.0 =h082f757_27
     - libglib =2.74.1 =h4c723e1_1
     - libiconv =1.17 =hac89ed1_0
     - liblapack =3.9.0 =16_osx64_openblas
@@ -262,7 +262,7 @@ requirements:
     - python_abi =3.9 =3_cp39
     - pytz =2022.6 =pyhd8ed1ab_0
     - pyzmq =24.0.1 =py39hed8f129_1
-    - qt-main =5.15.6 =hd1d9d18_4
+    - qt-main =5.15.6 =h0916ed4_4
     - qtpy =2.3.0 =pyhd8ed1ab_0
     - r-askpass =1.1 =r42h815d134_3
     - r-assertthat =0.2.1 =r42hc72bb7e_3
@@ -272,7 +272,7 @@ requirements:
     - r-bit64 =4.0.5 =r42h815d134_1
     - r-blob =1.2.3 =r42hc72bb7e_1
     - r-boot =1.3_28.1 =r42hc72bb7e_0
-    - r-broom =1.0.1 =r42hc72bb7e_1
+    - r-broom =1.0.2 =r42hc72bb7e_0
     - r-bslib =0.4.1 =r42hc72bb7e_0
     - r-cachem =1.0.6 =r42h815d134_1
     - r-callr =3.7.3 =r42hc72bb7e_0
@@ -327,7 +327,7 @@ requirements:
     - r-highr =0.9 =r42hc72bb7e_1
     - r-hms =1.1.2 =r42hc72bb7e_1
     - r-htmltools =0.5.4 =r42h49197e3_0
-    - r-htmlwidgets =1.5.4 =r42hc72bb7e_1
+    - r-htmlwidgets =1.6.0 =r42hc72bb7e_0
     - r-httpcode =0.3.0 =r42h694c41f_2
     - r-httpuv =1.6.7 =r42h49197e3_0
     - r-httr =1.4.4 =r42hc72bb7e_1
@@ -360,11 +360,11 @@ requirements:
     - r-modelmetrics =1.2.2.2 =r42h910fb29_2
     - r-modelr =0.1.10 =r42hc72bb7e_0
     - r-munsell =0.5.0 =r42hc72bb7e_1005
-    - r-nlme =3.1_160 =r42h1e4e481_0
+    - r-nlme =3.1_161 =r42h1e4e481_0
     - r-nnet =7.3_18 =r42h815d134_1
     - r-numderiv =2016.8_1.1 =r42hc72bb7e_4
     - r-openssl =2.0.5 =r42hfeb9312_0
-    - r-parallelly =1.32.1 =r42hc72bb7e_1
+    - r-parallelly =1.33.0 =r42hc72bb7e_0
     - r-pbdzmq =0.3_8 =r42h19f9668_0
     - r-pillar =1.8.1 =r42hc72bb7e_1
     - r-pkgconfig =2.0.3 =r42hc72bb7e_2
@@ -397,7 +397,7 @@ requirements:
     - r-reprex =2.0.2 =r42hc72bb7e_1
     - r-reshape2 =1.4.4 =r42h49197e3_2
     - r-rlang =1.0.6 =r42h49197e3_1
-    - r-rmarkdown =2.18 =r42hc72bb7e_1
+    - r-rmarkdown =2.19 =r42hc72bb7e_0
     - r-rpart =4.1.19 =r42h815d134_0
     - r-rstudioapi =0.14 =r42hc72bb7e_1
     - r-rvest =1.0.3 =r42hc72bb7e_1
@@ -405,7 +405,7 @@ requirements:
     - r-scales =1.2.1 =r42hc72bb7e_1
     - r-selectr =0.4_2 =r42hc72bb7e_2
     - r-shape =1.4.6 =r42ha770c72_1
-    - r-shiny =1.7.3 =r42h785f33e_0
+    - r-shiny =1.7.4 =r42h785f33e_0
     - r-sourcetools =0.1.7 =r42h49197e3_1003
     - r-spatial =7.3_15 =r42h815d134_1
     - r-squarem =2021.1 =r42hc72bb7e_1

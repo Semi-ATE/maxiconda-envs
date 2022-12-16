@@ -124,8 +124,8 @@ requirements:
     - libdeflate =1.14 =hb7f2c08_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libffi =3.4.2 =h0d85af4_5
-    - libgfortran =5.0.0 =9_5_0_h97931a8_26
-    - libgfortran5 =11.3.0 =h082f757_26
+    - libgfortran =5.0.0 =11_3_0_h97931a8_27
+    - libgfortran5 =11.3.0 =h082f757_27
     - libglib =2.74.1 =h4c723e1_1
     - libiconv =1.17 =hac89ed1_0
     - liblapack =3.9.0 =16_osx64_openblas
@@ -214,13 +214,13 @@ requirements:
     - python-slugify =7.0.0 =pyhd8ed1ab_0
     - python.app =1.4 =py37h271585c_0
     - python_abi =3.7 =3_cp37m
-    - pytoolconfig =1.2.4 =pyhd8ed1ab_0
+    - pytoolconfig =1.2.4 =pyhd8ed1ab_1
     - pytz =2022.6 =pyhd8ed1ab_0
     - pyyaml =6.0 =py37h69ee0a8_4
     - pyzmq =24.0.1 =py37haa7bc41_0
     - qdarkstyle =3.0.3 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.6 =hd1d9d18_4
+    - qt-main =5.15.6 =h0916ed4_4
     - qt-webengine =5.15.4 =h1d4dd28_3
     - qtawesome =1.2.1 =pyhd8ed1ab_0
     - qtconsole =5.3.2 =pyhd8ed1ab_0
@@ -228,7 +228,7 @@ requirements:
     - qtpy =2.3.0 =pyhd8ed1ab_0
     - readline =8.1.2 =h3899abd_0
     - requests =2.28.1 =pyhd8ed1ab_1
-    - rope =1.5.1 =pyhd8ed1ab_0
+    - rope =1.6.0 =pyhd8ed1ab_0
     - rtree =1.0.1 =py37hf13911c_0
     - setuptools =59.8.0 =py37hf985489_1
     - sip =6.7.2 =py37hac51a3e_0
