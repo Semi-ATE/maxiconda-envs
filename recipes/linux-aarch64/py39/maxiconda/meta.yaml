@@ -28,7 +28,7 @@ requirements:
     - aiohttp =3.8.3 =py39h0fd3b05_1
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.11.1 =pyha770c72_0
-    - bitarray =2.6.0 =py39h599bc27_1
+    - bitarray =2.6.1 =py39h599bc27_0
     - cython =0.29.32 =py39h3d8bfb9_1
     - grayskull =1.8.4 =pyhd8ed1ab_1
     - hypothesis =6.61.0 =pyha770c72_0
@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0 =py39h0fd3b05_5
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.1 =pyhd8ed1ab_0
-    - r-base =4.2.2 =h3f2eb09_1
+    - r-base =4.2.2 =he088d64_2
     - r-essentials =4.2 =r42hd8ed1ab_2003
     - regex =2022.10.31 =py39h0fd3b05_0
     - requests =2.28.1 =pyhd8ed1ab_1
@@ -99,7 +99,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.0.6 =py39hcdbe1fc_0
     - cryptography =38.0.4 =py39h2b83269_0
-    - curl =7.86.0 =h22f3f83_1
+    - curl =7.86.0 =h6ad7c7a_2
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h12b9eeb_3
     - debugpy =1.6.4 =py39h3d8bfb9_0
@@ -157,7 +157,7 @@ requirements:
     - kernel-headers_linux-aarch64 =4.18.0 =h5b4a56d_13
     - keyutils =1.6.1 =h4e544f5_0
     - kiwisolver =1.4.4 =py39h110580c_1
-    - krb5 =1.19.3 =h750e270_0
+    - krb5 =1.20.1 =h113d92e_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.14 =h5246980_0
     - ld_impl_linux-aarch64 =2.39 =h16cd69b_1
@@ -170,8 +170,8 @@ requirements:
     - libcblas =3.9.0 =16_linuxaarch64_openblas
     - libclang =15.0.6 =default_ha7bf5e6_0
     - libclang13 =15.0.6 =default_h3684801_0
-    - libcups =2.3.3 =h0c1ea75_2
-    - libcurl =7.86.0 =h22f3f83_1
+    - libcups =2.3.3 =h4303303_3
+    - libcurl =7.86.0 =h6ad7c7a_2
     - libdb =6.2.32 =h01db608_0
     - libdeflate =1.14 =h4e544f5_0
     - libedit =3.1.20191231 =he28a2e2_2
@@ -197,7 +197,7 @@ requirements:
     - libopenblas =0.3.21 =pthreads_h6cb6f83_3
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
-    - libpq =15.1 =h68e116c_1
+    - libpq =15.1 =hd21d9e6_2
     - libsanitizer =12.2.0 =hc13a102_19
     - libsndfile =1.1.0 =hd600fc2_1
     - libsodium =1.0.18 =hb9de7d4_1
@@ -279,9 +279,9 @@ requirements:
     - python-json-logger =2.0.1 =pyh9f0ad1d_0
     - python-utils =3.4.5 =pyhd8ed1ab_0
     - python_abi =3.9 =3_cp39
-    - pytz =2022.6 =pyhd8ed1ab_0
+    - pytz =2022.7 =pyhd8ed1ab_0
     - pyzmq =24.0.1 =py39h754ef6b_1
-    - qt-main =5.15.6 =h44831fa_3
+    - qt-main =5.15.6 =h9e5b47b_5
     - qtpy =2.3.0 =pyhd8ed1ab_0
     - r-askpass =1.1 =r42h8e445f0_3
     - r-assertthat =0.2.1 =r42hc72bb7e_3
@@ -463,7 +463,7 @@ requirements:
     - rust-std-aarch64-unknown-linux-gnu =1.65.0 =ha15b78c_0
     - sed =4.8 =ha0d5d3d_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =65.5.1 =pyhd8ed1ab_0
+    - setuptools =65.6.3 =pyhd8ed1ab_0
     - sip =6.7.5 =py39h7735e2f_0
     - six =1.16.0 =pyh6c4a22f_0
     - sniffio =1.3.0 =pyhd8ed1ab_0
