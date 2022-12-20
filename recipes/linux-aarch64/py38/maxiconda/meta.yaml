@@ -35,8 +35,8 @@ requirements:
     - ipython =7.33.0 =py38h2063c64_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.6.2 =py38h2063c64_0
-    - numba =0.56.4 =py38h4c0ec4d_0
-    - numpy =1.23.5 =py38h0fc68d9_0
+    - numba =0.53.1 =py38h887e8e3_1
+    - numpy =1.24.0 =py38h993b045_0
     - openpyxl =3.0.10 =py38hdacc76a_2
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =1.5.2 =py38hae4a69d_0
@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0 =py38hdacc76a_5
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.1 =pyhd8ed1ab_0
-    - r-base =4.2.2 =he088d64_2
+    - r-base =4.2.2 =h620ca72_3
     - r-essentials =4.2 =r42hd8ed1ab_2003
     - regex =2022.10.31 =py38hdacc76a_0
     - requests =2.28.1 =pyhd8ed1ab_1
@@ -136,13 +136,13 @@ requirements:
     - gstreamer =1.21.2 =hf4e84e4_0
     - gstreamer-orc =0.4.33 =h4e544f5_0
     - gxx_impl_linux-aarch64 =12.2.0 =h0c671d3_19
-    - harfbuzz =5.3.0 =h6f3452c_0
+    - harfbuzz =6.0.0 =hbcb8a4f_0
     - icu =70.1 =ha18d298_0
     - idna =3.4 =pyhd8ed1ab_0
-    - importlib-metadata =5.1.0 =pyha770c72_0
+    - importlib-metadata =5.2.0 =pyha770c72_0
     - importlib_resources =5.10.1 =pyhd8ed1ab_0
     - iniconfig =1.1.1 =pyh9f0ad1d_0
-    - ipykernel =6.19.2 =pyh210e3f2_0
+    - ipykernel =6.19.3 =pyh210e3f2_0
     - ipython_genutils =0.2.0 =py_1
     - jack =1.9.21 =h52479df_2
     - jedi =0.18.2 =pyhd8ed1ab_0
@@ -152,14 +152,14 @@ requirements:
     - jupyter_core =5.1.0 =py38he3eb160_0
     - jupyter_events =0.5.0 =pyhd8ed1ab_0
     - jupyter_server =2.0.1 =pyhd8ed1ab_0
-    - jupyter_server_terminals =0.4.2 =pyhd8ed1ab_0
+    - jupyter_server_terminals =0.4.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - kernel-headers_linux-aarch64 =4.18.0 =h5b4a56d_13
     - keyutils =1.6.1 =h4e544f5_0
     - kiwisolver =1.4.4 =py38hbcd4e1f_1
     - krb5 =1.20.1 =h113d92e_0
     - lame =3.100 =h4e544f5_1003
-    - lcms2 =2.14 =h5246980_0
+    - lcms2 =2.14 =h7576be9_1
     - ld_impl_linux-aarch64 =2.39 =h16cd69b_1
     - lerc =4.0.0 =h4de3ea5_0
     - libblas =3.9.0 =16_linuxaarch64_openblas
@@ -189,7 +189,7 @@ requirements:
     - libgpg-error =1.45 =h2472e2e_0
     - libiconv =1.17 =h9cdd2b7_0
     - liblapack =3.9.0 =16_linuxaarch64_openblas
-    - libllvm11 =11.1.0 =hb2805f8_5
+    - libllvm10 =10.0.1 =he513fc3_3
     - libllvm15 =15.0.6 =hd950eb9_0
     - libnghttp2 =1.47.0 =h674c3cc_1
     - libnsl =2.0.0 =hf897c2e_0
@@ -206,7 +206,7 @@ requirements:
     - libstdcxx-devel_linux-aarch64 =12.2.0 =h58a5bb6_19
     - libstdcxx-ng =12.2.0 =hc13a102_19
     - libsystemd0 =252 =hc6ee767_0
-    - libtiff =4.4.0 =hfcd36d1_5
+    - libtiff =4.5.0 =hfcd36d1_0
     - libtool =2.4.6 =h01db608_1008
     - libudev1 =252 =h4e544f5_0
     - libuuid =2.32.1 =hf897c2e_1000
@@ -216,7 +216,7 @@ requirements:
     - libxkbcommon =1.0.3 =he09c752_0
     - libxml2 =2.10.3 =h249b6dd_0
     - libzlib =1.2.13 =h4e544f5_4
-    - llvmlite =0.39.1 =py38hd14ccfc_1
+    - llvmlite =0.36.0 =py38h68ca503_0
     - lz4-c =1.9.3 =h01db608_1
     - make =4.3 =h309ac5b_1
     - markupsafe =2.1.1 =py38h81aae68_2
@@ -236,24 +236,24 @@ requirements:
     - nbconvert =7.2.6 =pyhd8ed1ab_0
     - nbconvert-core =7.2.6 =pyhd8ed1ab_0
     - nbconvert-pandoc =7.2.6 =pyhd8ed1ab_0
-    - nbformat =5.7.0 =pyhd8ed1ab_0
+    - nbformat =5.7.1 =pyhd8ed1ab_0
     - ncurses =6.3 =headf329_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - notebook =6.5.2 =pyha770c72_1
     - notebook-shim =0.2.2 =pyhd8ed1ab_0
     - nspr =4.35 =h4de3ea5_0
     - nss =3.82 =h4b7554b_0
-    - openjpeg =2.5.0 =h9b6de37_1
+    - openjpeg =2.5.0 =h9508984_2
     - openssl =3.0.7 =hb4cce97_1
     - packaging =22.0 =pyhd8ed1ab_0
     - pandoc =2.19.2 =h8af1aa0_1
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.50.12 =h3f2bcdb_0
+    - pango =1.50.12 =h1f1e9b3_1
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =he7b27c6_0
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
-    - pillow =9.2.0 =py38h29cb35a_3
+    - pillow =9.2.0 =py38h4225b63_4
     - pip =22.3.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =hb9de7d4_0
     - pkginfo =1.9.2 =pyhd8ed1ab_0
@@ -479,7 +479,7 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tomli-w =1.0.0 =pyhd8ed1ab_0
     - tornado =6.2 =py38h81aae68_1
-    - traitlets =5.7.1 =pyhd8ed1ab_0
+    - traitlets =5.8.0 =pyhd8ed1ab_0
     - typing-extensions =4.4.0 =hd8ed1ab_0
     - typing_extensions =4.4.0 =pyha770c72_0
     - tzdata =2022g =h191b570_0

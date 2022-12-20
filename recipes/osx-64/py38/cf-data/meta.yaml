@@ -29,7 +29,7 @@ requirements:
     - bokeh =3.0.3 =pyhd8ed1ab_0
     - lightgbm =3.3.3 =py38h6e1195d_1
     - matplotlib =3.6.2 =py38h50d1736_0
-    - numpy =1.23.5 =py38hc2f29e8_0
+    - numpy =1.24.0 =py38hc2f29e8_0
     - pandas =1.5.2 =py38hec72209_0
     - plotly =5.11.0 =pyhd8ed1ab_1
     - pycaret =2.2.3 =pyhd3deb0d_0
@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.13.5 =py38hbd87e4b_2
     - xgboost =1.7.1 =cpu_py38ha5ba132_0
 
-    # 359 secondary packages :
+    # 360 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.9.0 =pyhd8ed1ab_0
     - anyio =3.6.2 =pyhd8ed1ab_0
@@ -77,6 +77,7 @@ requirements:
     - bcrypt =3.2.2 =py38hef030d1_1
     - bleach =5.0.1 =pyhd8ed1ab_0
     - blinker =1.5 =pyhd8ed1ab_0
+    - bottleneck =1.3.5 =py38hbd87e4b_1
     - brotli =1.0.9 =hb7f2c08_8
     - brotli-bin =1.0.9 =hb7f2c08_8
     - brotlipy =0.7.0 =py38hef030d1_1005
@@ -97,6 +98,7 @@ requirements:
     - comm =0.1.2 =pyhd8ed1ab_0
     - confection =0.0.3 =py38h5a36765_1
     - configparser =5.3.0 =pyhd8ed1ab_0
+    - confuse =2.0.0 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.0.6 =py38h98b9b1b_0
     - cryptography =38.0.4 =py38h4257468_0
@@ -129,7 +131,7 @@ requirements:
     - fribidi =1.0.10 =hbcb3906_0
     - funcy =1.17 =pyhd8ed1ab_0
     - future =0.18.2 =py38h50d1736_5
-    - gdk-pixbuf =2.42.8 =h3648f77_1
+    - gdk-pixbuf =2.42.8 =h710d9fd_2
     - gensim =4.2.0 =py38h2b30649_0
     - gettext =0.21.1 =h8a4c099_0
     - gflags =2.2.2 =hb1e8313_1004
@@ -147,17 +149,17 @@ requirements:
     - gtk2 =2.24.33 =h7c1209e_2
     - gts =0.7.6 =hccb3bdf_2
     - gunicorn =20.1.0 =py38h50d1736_3
-    - harfbuzz =5.3.0 =h08f8713_0
+    - harfbuzz =6.0.0 =h08f8713_0
     - htmlmin =0.1.12 =py_1
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =70.1 =h96cf925_0
     - idna =3.4 =pyhd8ed1ab_0
     - imagehash =4.3.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.10.0 =pyhd8ed1ab_0
-    - importlib-metadata =5.1.0 =pyha770c72_0
+    - importlib-metadata =5.2.0 =pyha770c72_0
     - importlib_resources =5.10.1 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - ipykernel =6.19.2 =pyh736e0ef_0
+    - ipykernel =6.19.3 =pyh736e0ef_0
     - ipython =7.33.0 =py38h50d1736_0
     - ipython_genutils =0.2.0 =py_1
     - ipywidgets =7.7.2 =pyhd8ed1ab_0
@@ -174,14 +176,14 @@ requirements:
     - jupyter_core =5.1.0 =py38h50d1736_0
     - jupyter_events =0.5.0 =pyhd8ed1ab_0
     - jupyter_server =2.0.1 =pyhd8ed1ab_0
-    - jupyter_server_terminals =0.4.2 =pyhd8ed1ab_0
+    - jupyter_server_terminals =0.4.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - jupyterlab_widgets =1.1.1 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py38h98b9b1b_1
     - kmodes =0.12.2 =pyhd8ed1ab_0
-    - krb5 =1.19.3 =hb98e516_0
+    - krb5 =1.20.1 =h049b76e_0
     - langcodes =3.3.0 =pyhd8ed1ab_0
-    - lcms2 =2.14 =h90f4b2a_0
+    - lcms2 =2.14 =h29502cd_1
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20220623.0 =cxx17_h844d122_6
     - libarrow =10.0.1 =h6707bc3_3_cpu
@@ -190,17 +192,16 @@ requirements:
     - libbrotlidec =1.0.9 =hb7f2c08_8
     - libbrotlienc =1.0.9 =hb7f2c08_8
     - libcblas =3.9.0 =16_osx64_openblas
-    - libclang =15.0.6 =default_h20dc2f0_0
-    - libclang13 =15.0.6 =default_hc4b5f92_0
+    - libclang =13.0.1 =default_he082bbe_0
     - libcrc32c =1.1.2 =he49afe7_0
-    - libcurl =7.86.0 =h581aaea_1
+    - libcurl =7.86.0 =h6df9250_2
     - libcxx =14.0.6 =hccf4f1f_0
     - libdeflate =1.14 =hb7f2c08_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =haf1e3a3_1
     - libevent =2.1.10 =h7d65743_4
     - libffi =3.4.2 =h0d85af4_5
-    - libgd =2.3.3 =h1e214de_3
+    - libgd =2.3.3 =h4685329_4
     - libgfortran =5.0.0 =11_3_0_h97931a8_27
     - libgfortran5 =11.3.0 =h082f757_27
     - libglib =2.74.1 =h4c723e1_1
@@ -208,25 +209,25 @@ requirements:
     - libgrpc =1.51.1 =h966d1d5_0
     - libiconv =1.17 =hac89ed1_0
     - liblapack =3.9.0 =16_osx64_openblas
-    - libllvm11 =11.1.0 =h8fb7429_5
-    - libllvm15 =15.0.6 =h7001e86_0
+    - libllvm10 =10.0.1 =h009f743_3
+    - libllvm13 =13.0.1 =h64f94b2_2
     - libnghttp2 =1.47.0 =h5aae05b_1
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.21 =openmp_h429af6e_3
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.39 =ha978bb4_0
-    - libpq =15.1 =hb1ae2b1_1
+    - libpq =15.1 =h3640bf0_2
     - libprotobuf =3.21.11 =hbc0c0cd_0
     - librsvg =2.54.4 =h3d48ba6_0
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.40.0 =ha978bb4_0
     - libssh2 =1.10.0 =h47af595_3
     - libthrift =0.16.0 =h16802d8_2
-    - libtiff =4.4.0 =h6268bbc_5
+    - libtiff =4.5.0 =h6268bbc_0
     - libtool =2.4.6 =he49afe7_1008
     - libutf8proc =2.8.0 =hb7f2c08_0
     - libvorbis =1.3.7 =h046ec9c_0
-    - libwebp =1.2.4 =hfa4350a_0
+    - libwebp =1.2.4 =h70a068d_1
     - libwebp-base =1.2.4 =h775f41a_0
     - libxcb =1.13 =h0d85af4_1004
     - libxgboost =1.7.1 =cpu_h0c1cf5f_0
@@ -234,7 +235,7 @@ requirements:
     - libxslt =1.1.37 =h5d22bc9_0
     - libzlib =1.2.13 =hfd90126_4
     - llvm-openmp =15.0.6 =h61d9ccf_0
-    - llvmlite =0.39.1 =py38hc86dbf9_1
+    - llvmlite =0.36.0 =py38h872f124_0
     - lxml =4.9.2 =py38h64add32_0
     - lz4-c =1.9.3 =he49afe7_1
     - mako =1.2.4 =pyhd8ed1ab_0
@@ -242,6 +243,7 @@ requirements:
     - markupsafe =2.1.1 =py38hef030d1_2
     - matplotlib-base =3.6.2 =py38hcb346ec_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
+    - missingno =0.4.2 =py_1
     - mistune =2.0.4 =pyhd8ed1ab_0
     - mkl =2022.2.1 =h44ed08c_16952
     - mlflow =1.27.0 =py38hf6bc2c6_0
@@ -256,7 +258,7 @@ requirements:
     - nbconvert =7.2.6 =pyhd8ed1ab_0
     - nbconvert-core =7.2.6 =pyhd8ed1ab_0
     - nbconvert-pandoc =7.2.6 =pyhd8ed1ab_0
-    - nbformat =5.7.0 =pyhd8ed1ab_0
+    - nbformat =5.7.1 =pyhd8ed1ab_0
     - ncurses =6.3 =h96cf925_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - networkx =2.8.8 =pyhd8ed1ab_0
@@ -266,17 +268,17 @@ requirements:
     - notebook-shim =0.2.2 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
     - nss =3.78 =ha8197d3_0
-    - numba =0.56.4 =py38hab356c4_0
+    - numba =0.53.0 =py38hab5c5c7_0
     - numexpr =2.8.3 =py38hec72209_1
     - oauthlib =3.2.2 =pyhd8ed1ab_0
-    - openjpeg =2.5.0 =h5d0d7b0_1
+    - openjpeg =2.5.0 =h13ac156_2
     - openssl =3.0.7 =hfd90126_1
     - orc =1.8.1 =ha9d861c_0
     - packaging =22.0 =pyhd8ed1ab_0
-    - pandas-profiling =3.5.0 =pyhd8ed1ab_0
+    - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pandoc =2.19.2 =h694c41f_1
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.50.12 =h7fca291_0
+    - pango =1.50.12 =hbd9bf65_1
     - paramiko =2.12.0 =pyhd8ed1ab_0
     - parquet-cpp =1.5.1 =1
     - parsel =1.7.0 =pyhd8ed1ab_0
@@ -287,7 +289,7 @@ requirements:
     - pexpect =4.8.0 =py38h32f6830_1
     - phik =0.12.3 =py38hea7a1ff_0
     - pickleshare =0.7.5 =py38h32f6830_1002
-    - pillow =9.2.0 =py38h85595ef_3
+    - pillow =9.2.0 =py38hf04c7c8_4
     - pip =22.3.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
@@ -332,7 +334,7 @@ requirements:
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
     - pyyaml =6.0 =py38hef030d1_5
     - pyzmq =24.0.1 =py38h0b711fd_0
-    - qt-main =5.15.6 =h0916ed4_4
+    - qt-main =5.15.6 =haeff654_5
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
     - re2 =2022.06.01 =hb486fe8_1
@@ -375,16 +377,15 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.2 =py38hef030d1_1
     - tqdm =4.64.1 =pyhd8ed1ab_0
-    - traitlets =5.7.1 =pyhd8ed1ab_0
+    - traitlets =5.8.0 =pyhd8ed1ab_0
     - twisted =22.10.0 =py38hef030d1_0
-    - typeguard =2.13.3 =pyhd8ed1ab_0
     - typer =0.4.2 =pyhd8ed1ab_0
     - typing-extensions =4.4.0 =hd8ed1ab_0
     - typing_extensions =4.4.0 =pyha770c72_0
     - umap-learn =0.5.3 =py38h50d1736_0
     - unicodedata2 =15.0.0 =py38hef030d1_0
     - urllib3 =1.26.13 =pyhd8ed1ab_0
-    - visions =0.7.5 =pyhd8ed1ab_0
+    - visions =0.7.1 =pyhd8ed1ab_0
     - w3lib =2.1.1 =pyhd8ed1ab_0
     - wasabi =0.10.1 =pyhd8ed1ab_1
     - wcwidth =0.2.5 =pyh9f0ad1d_2
