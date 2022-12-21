@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.7.12 =h7840368_100_cpython
+    - python =3.7.12 =h900ac77_100_cpython
   run:
-    - python =3.7.12 =h7840368_100_cpython
+    - python =3.7.12 =h900ac77_100_cpython
 
     # 9 primary packages :
     - cython =0.29.32 =py37hf2a7229_0
@@ -64,7 +64,7 @@ requirements:
     - cloudpickle =2.2.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - cookiecutter =2.1.1 =pyh6c4a22f_0
-    - cryptography =38.0.2 =py37h7375b12_1
+    - cryptography =38.0.2 =py37h953a470_1
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.3 =py37hf2a7229_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -106,7 +106,7 @@ requirements:
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - keyring =23.9.3 =py37h03978a9_0
     - kiwisolver =1.4.4 =py37h8c56517_0
-    - krb5 =1.20.1 =h6609f42_0
+    - krb5 =1.20.1 =heb0366b_0
     - lazy-object-proxy =1.7.1 =py37hcc03f2d_1
     - lcms2 =2.14 =h90d422f_0
     - lerc =4.0.0 =h63175ca_0
@@ -152,14 +152,14 @@ requirements:
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =0.4.3 =py37h03978a9_5
     - nbclient =0.7.0 =pyhd8ed1ab_0
-    - nbconvert =7.2.6 =pyhd8ed1ab_0
-    - nbconvert-core =7.2.6 =pyhd8ed1ab_0
-    - nbconvert-pandoc =7.2.6 =pyhd8ed1ab_0
+    - nbconvert =7.2.7 =pyhd8ed1ab_0
+    - nbconvert-core =7.2.7 =pyhd8ed1ab_0
+    - nbconvert-pandoc =7.2.7 =pyhd8ed1ab_0
     - nbformat =5.7.1 =pyhd8ed1ab_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - numpydoc =1.5.0 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =hc9384bd_1
-    - openssl =1.1.1s =hcfcfb64_1
+    - openssl =3.0.7 =hcfcfb64_1
     - packaging =22.0 =pyhd8ed1ab_0
     - pandoc =2.19.2 =h57928b3_1
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -209,8 +209,8 @@ requirements:
     - pyzmq =24.0.1 =py37h7347f05_0
     - qdarkstyle =3.0.3 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.6 =h068e40c_5
-    - qt-webengine =5.15.4 =hd018be4_3
+    - qt-main =5.15.6 =h9580fe5_5
+    - qt-webengine =5.15.4 =h0bdee70_3
     - qtawesome =1.2.1 =pyhd8ed1ab_0
     - qtconsole =5.3.2 =pyhd8ed1ab_0
     - qtconsole-base =5.3.2 =pyha770c72_0
