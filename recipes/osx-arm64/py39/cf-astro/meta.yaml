@@ -20,15 +20,15 @@ build:
 
 requirements:
   build:
-    - python =3.9.15 =h2d96c93_0_cpython
+    - python =3.9.15 =hea58f1e_0_cpython
   run:
-    - python =3.9.15 =h2d96c93_0_cpython
+    - python =3.9.15 =hea58f1e_0_cpython
 
     # 2 primary packages :
     - pyqt =5.15.7 =py39h7fba1b6_2
     - spyder-kernels =2.4.0 =py39h2804cbe_0
 
-    # 82 secondary packages :
+    # 81 secondary packages :
     - appnope =0.1.3 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -43,8 +43,8 @@ requirements:
     - gettext =0.21.1 =h0186832_0
     - glib =2.74.1 =hb5ab8b9_1
     - glib-tools =2.74.1 =hb5ab8b9_1
-    - gst-plugins-base =1.21.1 =h8b7775e_0
-    - gstreamer =1.21.1 =hcb7b3dd_0
+    - gst-plugins-base =1.21.3 =h8b7775e_1
+    - gstreamer =1.21.3 =hcb7b3dd_1
     - icu =70.1 =h6b3803e_0
     - ipykernel =6.19.4 =pyh736e0ef_0
     - ipython =7.33.0 =py39h2804cbe_0
@@ -52,32 +52,31 @@ requirements:
     - jpeg =9e =he4db4b2_2
     - jupyter_client =7.4.8 =pyhd8ed1ab_0
     - jupyter_core =5.1.0 =py39h2804cbe_0
-    - krb5 =1.19.3 =hf9b2bbe_0
-    - libclang =15.0.6 =default_h9e54d93_0
-    - libclang13 =15.0.6 =default_h7d574e7_0
+    - krb5 =1.20.1 =h69eda48_0
+    - libclang =14.0.6 =default_h81a5282_0
+    - libclang13 =14.0.6 =default_he70ec0d_0
     - libcxx =14.0.6 =h2692d47_0
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libffi =3.4.2 =h3422bc3_5
     - libglib =2.74.1 =h4646484_1
     - libiconv =1.17 =he4db4b2_0
-    - libllvm15 =15.0.6 =h62b9111_0
+    - libllvm14 =14.0.6 =hf6e71e7_1
     - libogg =1.3.4 =h27ca646_1
     - libopus =1.3.1 =h27ca646_1
     - libpng =1.6.39 =h76d750c_0
-    - libpq =14.5 =hb650857_3
+    - libpq =15.1 =h1a28acd_2
     - libsodium =1.0.18 =h27ca646_1
     - libsqlite =3.40.0 =h76d750c_0
     - libvorbis =1.3.7 =h9f76cd9_0
-    - libxml2 =2.10.3 =h87b0503_0
     - libzlib =1.2.13 =h03a7124_4
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
-    - mysql-common =8.0.31 =hab468bb_0
-    - mysql-libs =8.0.31 =hea58576_0
+    - mysql-common =8.0.31 =h518ea0a_0
+    - mysql-libs =8.0.31 =hcb599eb_0
     - ncurses =6.3 =h07bb92c_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - nspr =4.35 =hb7217d7_0
     - nss =3.78 =h1483a63_0
-    - openssl =1.1.1s =h03a7124_1
+    - openssl =3.0.7 =h03a7124_1
     - packaging =22.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =hb34f9b4_0
@@ -94,7 +93,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =3_cp39
     - pyzmq =24.0.1 =py39h0553236_1
-    - qt-main =5.15.6 =hf3dd84c_1
+    - qt-main =5.15.6 =hda43d4a_5
     - readline =8.1.2 =h46ed386_0
     - setuptools =65.6.3 =pyhd8ed1ab_0
     - sip =6.7.5 =py39h23fbdae_0

@@ -71,7 +71,7 @@ requirements:
     - argon2-cffi =21.3.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py39ha55989b_3
     - async-timeout =4.0.2 =pyhd8ed1ab_0
-    - attrs =22.1.0 =pyh71513ae_1
+    - attrs =22.2.0 =pyh71513ae_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -107,12 +107,12 @@ requirements:
     - glib =2.74.1 =h12be248_1
     - glib-tools =2.74.1 =h12be248_1
     - greenlet =2.0.1 =py39h99910a6_0
-    - gst-plugins-base =1.21.2 =h001b923_0
-    - gstreamer =1.21.2 =h6b5321d_0
+    - gst-plugins-base =1.21.3 =h001b923_1
+    - gstreamer =1.21.3 =h6b5321d_1
     - icu =70.1 =h0e60522_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =5.2.0 =pyha770c72_0
-    - importlib_resources =5.10.1 =pyhd8ed1ab_0
+    - importlib_resources =5.10.1 =pyhd8ed1ab_1
     - iniconfig =1.1.1 =pyh9f0ad1d_0
     - intel-openmp =2023.0.0 =h57928b3_25922
     - ipykernel =6.19.4 =pyh025b116_0
@@ -122,8 +122,8 @@ requirements:
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.8 =pyhd8ed1ab_0
     - jupyter_core =5.1.0 =py39hcbf5309_0
-    - jupyter_events =0.5.0 =pyhd8ed1ab_0
-    - jupyter_server =2.0.1 =pyhd8ed1ab_0
+    - jupyter_events =0.5.0 =pyhd8ed1ab_1
+    - jupyter_server =2.0.3 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py39h1f6ef14_1
@@ -230,7 +230,7 @@ requirements:
     - pysocks =1.7.1 =py39hcbf5309_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-fastjsonschema =2.16.2 =pyhd8ed1ab_0
-    - python-json-logger =2.0.1 =pyh9f0ad1d_0
+    - python-json-logger =2.0.4 =pyhd8ed1ab_0
     - python-utils =3.4.5 =pyhd8ed1ab_0
     - python_abi =3.9 =3_cp39
     - pytz =2022.7 =pyhd8ed1ab_0
@@ -405,13 +405,13 @@ requirements:
     - r-viridislite =0.4.1 =r41hc72bb7e_1
     - r-vroom =1.6.0 =r41ha856d6a_1
     - r-withr =2.5.0 =r41hc72bb7e_1
-    - r-xfun =0.35 =r41ha856d6a_0
+    - r-xfun =0.36 =r41ha856d6a_0
     - r-xml2 =1.3.3 =r41ha856d6a_2
     - r-xtable =1.8_4 =r41hc72bb7e_4
     - r-xts =0.12.2 =r41h6d2157b_0
     - r-yaml =2.3.6 =r41h6d2157b_0
     - r-zoo =1.8_11 =r41h6d2157b_1
-    - rapidfuzz =2.13.6 =py39h99910a6_0
+    - rapidfuzz =2.13.7 =py39h99910a6_0
     - ruamel.yaml =0.17.21 =py39ha55989b_2
     - ruamel.yaml.clib =0.2.7 =py39ha55989b_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1

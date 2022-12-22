@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.15 =hf452327_0_cpython
+    - python =3.8.15 =h3ba56d0_0_cpython
   run:
-    - python =3.8.15 =hf452327_0_cpython
+    - python =3.8.15 =h3ba56d0_0_cpython
 
     # 37 primary packages :
     - aiohttp =3.8.3 =py38hb991d35_1
@@ -47,7 +47,7 @@ requirements:
     - pyyaml =6.0 =py38hb991d35_5
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.1 =pyhd8ed1ab_0
-    - r-base =4.2.2 =hb80a13a_1
+    - r-base =4.2.2 =heabe65b_3
     - r-essentials =4.2 =r42hd8ed1ab_2003
     - regex =2022.10.31 =py38hb991d35_0
     - requests =2.28.1 =pyhd8ed1ab_1
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.0.3 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 415 secondary packages :
+    # 414 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.6.2 =pyhd8ed1ab_0
@@ -71,7 +71,7 @@ requirements:
     - argon2-cffi =21.3.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py38hb991d35_3
     - async-timeout =4.0.2 =pyhd8ed1ab_0
-    - attrs =22.1.0 =pyh71513ae_1
+    - attrs =22.2.0 =pyh71513ae_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -102,8 +102,8 @@ requirements:
     - compiler-rt_osx-arm64 =14.0.6 =h48302dc_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.0.6 =py38h9dc3d6a_0
-    - cryptography =38.0.4 =py38h5eb7249_0
-    - curl =7.86.0 =hd538317_1
+    - cryptography =38.0.4 =py38h23f6d3d_0
+    - curl =7.87.0 =h9049daf_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.4 =py38h2b1e499_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -134,13 +134,13 @@ requirements:
     - graphite2 =1.3.13 =h9f76cd9_1001
     - greenlet =2.0.1 =py38h2b1e499_0
     - gsl =2.7 =h6e638da_0
-    - gst-plugins-base =1.21.1 =h8b7775e_0
-    - gstreamer =1.21.1 =hcb7b3dd_0
+    - gst-plugins-base =1.21.3 =h8b7775e_1
+    - gstreamer =1.21.3 =hcb7b3dd_1
     - harfbuzz =6.0.0 =hddbc195_0
     - icu =70.1 =h6b3803e_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =5.2.0 =pyha770c72_0
-    - importlib_resources =5.10.1 =pyhd8ed1ab_0
+    - importlib_resources =5.10.1 =pyhd8ed1ab_1
     - iniconfig =1.1.1 =pyh9f0ad1d_0
     - ipykernel =6.19.4 =pyh736e0ef_0
     - ipython_genutils =0.2.0 =py_1
@@ -150,13 +150,13 @@ requirements:
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.8 =pyhd8ed1ab_0
     - jupyter_core =5.1.0 =py38h10201cd_0
-    - jupyter_events =0.5.0 =pyhd8ed1ab_0
-    - jupyter_server =2.0.1 =pyhd8ed1ab_0
+    - jupyter_events =0.5.0 =pyhd8ed1ab_1
+    - jupyter_server =2.0.3 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py38h9dc3d6a_1
-    - krb5 =1.19.3 =hf9b2bbe_0
-    - lcms2 =2.14 =h8193b64_0
+    - krb5 =1.20.1 =h69eda48_0
+    - lcms2 =2.14 =h481adae_1
     - ld64_osx-arm64 =609 =h7167370_11
     - lerc =4.0.0 =h9a09cb3_0
     - libblas =3.9.0 =16_osxarm64_openblas
@@ -164,10 +164,10 @@ requirements:
     - libbrotlidec =1.0.9 =h1a8c8d9_8
     - libbrotlienc =1.0.9 =h1a8c8d9_8
     - libcblas =3.9.0 =16_osxarm64_openblas
-    - libclang =15.0.6 =default_h9e54d93_0
+    - libclang =14.0.6 =default_h81a5282_0
     - libclang-cpp14 =14.0.6 =default_h81a5282_0
-    - libclang13 =15.0.6 =default_h7d574e7_0
-    - libcurl =7.86.0 =hd538317_1
+    - libclang13 =14.0.6 =default_he70ec0d_0
+    - libcurl =7.87.0 =h9049daf_0
     - libcxx =14.0.6 =h2692d47_0
     - libdeflate =1.14 =h1a8c8d9_0
     - libedit =3.1.20191231 =hc8eb9b7_2
@@ -181,17 +181,16 @@ requirements:
     - liblapack =3.9.0 =16_osxarm64_openblas
     - libllvm10 =10.0.1 =h4468dd5_2
     - libllvm14 =14.0.6 =hf6e71e7_1
-    - libllvm15 =15.0.6 =h62b9111_0
-    - libnghttp2 =1.47.0 =h232270b_1
+    - libnghttp2 =1.47.0 =h519802c_1
     - libogg =1.3.4 =h27ca646_1
     - libopenblas =0.3.21 =openmp_hc731615_3
     - libopus =1.3.1 =h27ca646_1
     - libpng =1.6.39 =h76d750c_0
-    - libpq =14.5 =hb650857_3
+    - libpq =15.1 =h1a28acd_2
     - libsodium =1.0.18 =h27ca646_1
     - libsqlite =3.40.0 =h76d750c_0
-    - libssh2 =1.10.0 =hb80f160_3
-    - libtiff =4.4.0 =heb92581_5
+    - libssh2 =1.10.0 =h7a5bd25_3
+    - libtiff =4.5.0 =heb92581_0
     - libvorbis =1.3.7 =h9f76cd9_0
     - libwebp-base =1.2.4 =h57fd34a_0
     - libxcb =1.13 =h9b22ae9_1004
@@ -210,8 +209,8 @@ requirements:
     - mpmath =1.2.1 =pyhd8ed1ab_0
     - multidict =6.0.2 =py38hb991d35_2
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - mysql-common =8.0.31 =hab468bb_0
-    - mysql-libs =8.0.31 =hea58576_0
+    - mysql-common =8.0.31 =h518ea0a_0
+    - mysql-libs =8.0.31 =hcb599eb_0
     - nbclassic =0.4.8 =pyhd8ed1ab_0
     - nbclient =0.7.2 =pyhd8ed1ab_0
     - nbconvert =7.2.7 =pyhd8ed1ab_0
@@ -224,8 +223,8 @@ requirements:
     - notebook-shim =0.2.2 =pyhd8ed1ab_0
     - nspr =4.35 =hb7217d7_0
     - nss =3.78 =h1483a63_0
-    - openjpeg =2.5.0 =h5d4e404_1
-    - openssl =1.1.1s =h03a7124_1
+    - openjpeg =2.5.0 =hbc2ba62_2
+    - openssl =3.0.7 =h03a7124_1
     - packaging =22.0 =pyhd8ed1ab_0
     - pandoc =2.19.2 =hce30654_1
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -234,7 +233,7 @@ requirements:
     - pcre2 =10.40 =hb34f9b4_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py_1003
-    - pillow =9.2.0 =py38hf86a106_3
+    - pillow =9.2.0 =py38h1bb68ce_4
     - pip =22.3.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h27ca646_0
     - pkginfo =1.9.2 =pyhd8ed1ab_0
@@ -256,12 +255,12 @@ requirements:
     - pysocks =1.7.1 =py38h10201cd_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-fastjsonschema =2.16.2 =pyhd8ed1ab_0
-    - python-json-logger =2.0.1 =pyh9f0ad1d_0
+    - python-json-logger =2.0.4 =pyhd8ed1ab_0
     - python-utils =3.4.5 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pytz =2022.7 =pyhd8ed1ab_0
     - pyzmq =24.0.1 =py38hb72be9f_1
-    - qt-main =5.15.6 =hf3dd84c_1
+    - qt-main =5.15.6 =hda43d4a_5
     - qtpy =2.3.0 =pyhd8ed1ab_0
     - r-askpass =1.1 =r42h5d63f41_3
     - r-assertthat =0.2.1 =r42hc72bb7e_3
@@ -362,7 +361,7 @@ requirements:
     - r-nlme =3.1_161 =r42h505ec0b_0
     - r-nnet =7.3_18 =r42h5d63f41_1
     - r-numderiv =2016.8_1.1 =r42hc72bb7e_4
-    - r-openssl =2.0.5 =r42h7306eaf_0
+    - r-openssl =2.0.5 =r42h1bdd256_0
     - r-parallelly =1.33.0 =r42hc72bb7e_0
     - r-pbdzmq =0.3_8 =r42hd9ec729_0
     - r-pillar =1.8.1 =r42hc72bb7e_1
@@ -429,13 +428,13 @@ requirements:
     - r-viridislite =0.4.1 =r42hc72bb7e_1
     - r-vroom =1.6.0 =r42h9a38a31_1
     - r-withr =2.5.0 =r42hc72bb7e_1
-    - r-xfun =0.35 =r42h9a38a31_0
+    - r-xfun =0.36 =r42h9a38a31_0
     - r-xml2 =1.3.3 =r42haf93cbb_2
     - r-xtable =1.8_4 =r42hc72bb7e_4
     - r-xts =0.12.2 =r42h5d63f41_0
     - r-yaml =2.3.6 =r42h5d63f41_0
     - r-zoo =1.8_11 =r42h5d63f41_1
-    - rapidfuzz =2.13.6 =py38h2b1e499_0
+    - rapidfuzz =2.13.7 =py38h2b1e499_0
     - readline =8.1.2 =h46ed386_0
     - ruamel.yaml =0.17.21 =py38hb991d35_2
     - ruamel.yaml.clib =0.2.7 =py38hb991d35_1
@@ -443,7 +442,7 @@ requirements:
     - rust-std-aarch64-apple-darwin =1.65.0 =hf1a8007_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =65.6.3 =pyhd8ed1ab_0
-    - sigtool =0.1.3 =h7747421_0
+    - sigtool =0.1.3 =h44b9a77_0
     - sip =6.7.5 =py38h2b1e499_0
     - six =1.16.0 =pyh6c4a22f_0
     - sniffio =1.3.0 =pyhd8ed1ab_0

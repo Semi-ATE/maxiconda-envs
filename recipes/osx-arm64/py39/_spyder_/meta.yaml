@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.15 =h2d96c93_0_cpython
+    - python =3.9.15 =hea58f1e_0_cpython
   run:
-    - python =3.9.15 =h2d96c93_0_cpython
+    - python =3.9.15 =hea58f1e_0_cpython
 
     # 9 primary packages :
     - cython =0.29.32 =py39h23fbdae_1
@@ -42,7 +42,7 @@ requirements:
     - arrow =1.2.3 =pyhd8ed1ab_0
     - astroid =2.12.13 =py39h2804cbe_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_0
-    - attrs =22.1.0 =pyh71513ae_1
+    - attrs =22.2.0 =pyh71513ae_0
     - autopep8 =1.6.0 =pyhd8ed1ab_1
     - babel =2.11.0 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -67,7 +67,7 @@ requirements:
     - comm =0.1.2 =pyhd8ed1ab_0
     - contourpy =1.0.6 =py39haaf3ac1_0
     - cookiecutter =2.1.1 =pyh6c4a22f_0
-    - cryptography =38.0.4 =py39haa0b8cc_0
+    - cryptography =38.0.4 =py39he2a39a8_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.4 =py39h23fbdae_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -86,14 +86,14 @@ requirements:
     - glib-tools =2.74.1 =hb5ab8b9_1
     - gmp =6.2.1 =h9f76cd9_0
     - gmpy2 =2.1.2 =py39h0b4f9c6_1
-    - gst-plugins-base =1.20.3 =h8b7775e_2
-    - gstreamer =1.20.3 =hcb7b3dd_2
+    - gst-plugins-base =1.21.3 =h8b7775e_1
+    - gstreamer =1.21.3 =hcb7b3dd_1
     - icu =70.1 =h6b3803e_0
     - idna =3.4 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
     - importlib-metadata =5.2.0 =pyha770c72_0
     - importlib_metadata =5.2.0 =hd8ed1ab_0
-    - importlib_resources =5.10.1 =pyhd8ed1ab_0
+    - importlib_resources =5.10.1 =pyhd8ed1ab_1
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.0.2 =py_0
     - ipykernel =6.19.4 =pyh736e0ef_0
@@ -112,7 +112,7 @@ requirements:
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - keyring =23.11.0 =py39h2804cbe_0
     - kiwisolver =1.4.4 =py39haaf3ac1_1
-    - krb5 =1.19.3 =hf9b2bbe_0
+    - krb5 =1.20.1 =h69eda48_0
     - lazy-object-proxy =1.8.0 =py39h02fc5c5_0
     - lcms2 =2.14 =h481adae_1
     - lerc =4.0.0 =h9a09cb3_0
@@ -137,7 +137,7 @@ requirements:
     - libopenblas =0.3.21 =openmp_hc731615_3
     - libopus =1.3.1 =h27ca646_1
     - libpng =1.6.39 =h76d750c_0
-    - libpq =14.5 =hb650857_3
+    - libpq =15.1 =h1a28acd_2
     - libsodium =1.0.18 =h27ca646_1
     - libspatialindex =1.9.3 =hbdafb3b_4
     - libsqlite =3.40.0 =h76d750c_0
@@ -159,8 +159,8 @@ requirements:
     - mpmath =1.2.1 =pyhd8ed1ab_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =0.4.3 =py39h2804cbe_6
-    - mysql-common =8.0.31 =hab468bb_0
-    - mysql-libs =8.0.31 =hea58576_0
+    - mysql-common =8.0.31 =h518ea0a_0
+    - mysql-libs =8.0.31 =hcb599eb_0
     - nbclient =0.7.2 =pyhd8ed1ab_0
     - nbconvert =7.2.7 =pyhd8ed1ab_0
     - nbconvert-core =7.2.7 =pyhd8ed1ab_0
@@ -172,7 +172,7 @@ requirements:
     - nss =3.78 =h1483a63_0
     - numpydoc =1.5.0 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =hbc2ba62_2
-    - openssl =1.1.1s =h03a7124_1
+    - openssl =3.0.7 =h03a7124_1
     - packaging =22.0 =pyhd8ed1ab_0
     - pandoc =2.19.2 =hce30654_1
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -223,8 +223,8 @@ requirements:
     - pyzmq =24.0.1 =py39h0553236_1
     - qdarkstyle =3.0.3 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.6 =h96bf0dc_0
-    - qt-webengine =5.15.4 =h43c6231_3
+    - qt-main =5.15.6 =hda43d4a_5
+    - qt-webengine =5.15.4 =h3a00a3b_3
     - qtawesome =1.2.1 =pyhd8ed1ab_0
     - qtconsole =5.4.0 =pyhd8ed1ab_0
     - qtconsole-base =5.4.0 =pyha770c72_0

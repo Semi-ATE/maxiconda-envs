@@ -36,7 +36,7 @@ requirements:
     - scipy =1.9.3 =py39hddc5342_2
     - spyder-kernels =2.4.0 =py39hf3d152e_0
 
-    # 212 secondary packages :
+    # 213 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h166bdaf_0
@@ -60,7 +60,7 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.2 =pyhd8ed1ab_0
     - contourpy =1.0.6 =py39hf939315_0
-    - curl =7.86.0 =hdc1c0ab_2
+    - curl =7.87.0 =hdc1c0ab_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
     - debugpy =1.6.4 =py39h5a03fae_0
@@ -86,12 +86,12 @@ requirements:
     - greenlet =2.0.1 =py39h5a03fae_0
     - griddataformats =1.0.1 =pyhd8ed1ab_0
     - gsd =2.7.0 =py39h2ae25f5_1
-    - gst-plugins-base =1.21.2 =h3e40eee_0
-    - gstreamer =1.21.2 =hd4edc92_0
+    - gst-plugins-base =1.21.3 =h4243ec0_1
+    - gstreamer =1.21.3 =h25f0c4b_1
     - gstreamer-orc =0.4.33 =h166bdaf_0
     - h5py =3.7.0 =nompi_py39h817c9c5_102
     - hdf4 =4.2.15 =h9772cbc_5
-    - hdf5 =1.12.2 =nompi_h4df4325_100
+    - hdf5 =1.12.2 =nompi_h4df4325_101
     - icu =70.1 =h27087fc_0
     - ipykernel =6.19.4 =pyh210e3f2_0
     - ipython =7.33.0 =py39hf3d152e_0
@@ -108,6 +108,7 @@ requirements:
     - lcms2 =2.14 =hfd0df8a_1
     - ld_impl_linux-64 =2.39 =hcc3a1bd_1
     - lerc =4.0.0 =h27087fc_0
+    - libaec =1.0.6 =h9c3ff4c_0
     - libblas =3.9.0 =16_linux64_openblas
     - libbrotlicommon =1.0.9 =h166bdaf_8
     - libbrotlidec =1.0.9 =h166bdaf_8
@@ -117,7 +118,7 @@ requirements:
     - libclang =15.0.6 =default_h2e3cab8_0
     - libclang13 =15.0.6 =default_h3a83d3e_0
     - libcups =2.3.3 =h36d4200_3
-    - libcurl =7.86.0 =hdc1c0ab_2
+    - libcurl =7.87.0 =hdc1c0ab_0
     - libdb =6.2.32 =h9c3ff4c_0
     - libdeflate =1.14 =h166bdaf_0
     - libedit =3.1.20191231 =he28a2e2_2
