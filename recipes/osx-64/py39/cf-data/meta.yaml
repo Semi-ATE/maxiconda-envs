@@ -58,18 +58,18 @@ requirements:
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =22.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.6.21 =hbc0b158_0
+    - aws-c-auth =0.6.21 =h79862ba_1
     - aws-c-cal =0.5.20 =hdc31e88_3
     - aws-c-common =0.8.5 =hb7f2c08_0
     - aws-c-compression =0.2.16 =hfb1f584_0
     - aws-c-event-stream =0.2.16 =hb9fe1ad_0
-    - aws-c-http =0.6.27 =h40fbe91_3
+    - aws-c-http =0.6.29 =h40fbe91_0
     - aws-c-io =0.13.11 =hb3bb6ef_2
-    - aws-c-mqtt =0.7.13 =h95fd635_9
-    - aws-c-s3 =0.2.1 =hdbd076e_1
+    - aws-c-mqtt =0.7.13 =h9baa75a_10
+    - aws-c-s3 =0.2.1 =hfb6aee5_2
     - aws-c-sdkutils =0.1.7 =hfb1f584_0
     - aws-checksums =0.1.14 =hfb1f584_0
-    - aws-crt-cpp =0.18.16 =hbed2100_4
+    - aws-crt-cpp =0.18.16 =hb25e9ed_5
     - aws-sdk-cpp =1.9.379 =h8c00297_6
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -173,7 +173,7 @@ requirements:
     - jupyter_client =7.4.8 =pyhd8ed1ab_0
     - jupyter_core =5.1.0 =py39h6e9494a_0
     - jupyter_events =0.5.0 =pyhd8ed1ab_1
-    - jupyter_server =2.0.3 =pyhd8ed1ab_0
+    - jupyter_server =2.0.4 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - jupyterlab_widgets =1.1.1 =pyhd8ed1ab_0

@@ -31,7 +31,7 @@ requirements:
     - pyqt =5.15.7 =py38h872f513_2
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
-    - pyvisa-py =0.5.3 =pyh6c4a22f_0
+    - pyvisa-py =0.6.0 =pyh1a96a4e_0
     - spyder-kernels =2.4.0 =py38h50d1736_0
 
     # 93 secondary packages :
@@ -108,7 +108,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pytz =2022.7 =pyhd8ed1ab_0
-    - pyvisa =1.12.0 =py38h50d1736_1
+    - pyvisa =1.13.0 =py38h50d1736_0
     - pyzmq =24.0.1 =py38h0b711fd_0
     - qt-main =5.15.6 =haeff654_5
     - readline =8.1.2 =h3899abd_0
