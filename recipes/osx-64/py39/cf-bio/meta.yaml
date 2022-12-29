@@ -36,7 +36,7 @@ requirements:
     - scipy =1.9.3 =py39h8a15683_2
     - spyder-kernels =2.4.0 =py39h6e9494a_0
 
-    # 170 secondary packages :
+    # 171 secondary packages :
     - appnope =0.1.3 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -93,7 +93,7 @@ requirements:
     - joblib =1.2.0 =pyhd8ed1ab_0
     - jpeg =9e =hac89ed1_2
     - jupyter_client =7.4.8 =pyhd8ed1ab_0
-    - jupyter_core =5.1.0 =py39h6e9494a_0
+    - jupyter_core =5.1.1 =py39h6e9494a_0
     - kiwisolver =1.4.4 =py39h92daf61_1
     - krb5 =1.20.1 =h049b76e_0
     - lcms2 =2.14 =h29502cd_1
@@ -160,7 +160,7 @@ requirements:
     - pillow =9.2.0 =py39h7f5cd59_4
     - pip =22.3.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
-    - platformdirs =2.6.0 =pyhd8ed1ab_0
+    - platformdirs =2.6.2 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pmw =2.0.1 =py39h6e9494a_1007
     - prompt-toolkit =3.0.36 =pyha770c72_0
@@ -195,6 +195,7 @@ requirements:
     - tornado =6.2 =py39ha30fb19_1
     - tqdm =4.64.1 =pyhd8ed1ab_0
     - traitlets =5.8.0 =pyhd8ed1ab_0
+    - typing-extensions =4.4.0 =hd8ed1ab_0
     - typing_extensions =4.4.0 =pyha770c72_0
     - tzdata =2022g =h191b570_0
     - unicodedata2 =15.0.0 =py39ha30fb19_0

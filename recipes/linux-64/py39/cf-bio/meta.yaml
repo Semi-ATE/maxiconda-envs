@@ -36,7 +36,7 @@ requirements:
     - scipy =1.9.3 =py39hddc5342_2
     - spyder-kernels =2.4.0 =py39hf3d152e_0
 
-    # 213 secondary packages :
+    # 214 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h166bdaf_0
@@ -100,7 +100,7 @@ requirements:
     - joblib =1.2.0 =pyhd8ed1ab_0
     - jpeg =9e =h166bdaf_2
     - jupyter_client =7.4.8 =pyhd8ed1ab_0
-    - jupyter_core =5.1.0 =py39hf3d152e_0
+    - jupyter_core =5.1.1 =py39hf3d152e_0
     - keyutils =1.6.1 =h166bdaf_0
     - kiwisolver =1.4.4 =py39hf939315_1
     - krb5 =1.20.1 =h81ceb04_0
@@ -189,7 +189,7 @@ requirements:
     - pillow =9.2.0 =py39h2320bf1_4
     - pip =22.3.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h36c2ea0_0
-    - platformdirs =2.6.0 =pyhd8ed1ab_0
+    - platformdirs =2.6.2 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pmw =2.0.1 =py39hf3d152e_1007
     - prompt-toolkit =3.0.36 =pyha770c72_0
@@ -224,6 +224,7 @@ requirements:
     - tornado =6.2 =py39hb9d737c_1
     - tqdm =4.64.1 =pyhd8ed1ab_0
     - traitlets =5.8.0 =pyhd8ed1ab_0
+    - typing-extensions =4.4.0 =hd8ed1ab_0
     - typing_extensions =4.4.0 =pyha770c72_0
     - tzdata =2022g =h191b570_0
     - unicodedata2 =15.0.0 =py39hb9d737c_0
