@@ -34,12 +34,14 @@ requirements:
     - pyqt =5.15.7 =py39h18e9c17_2
     - rdkit =2022.09.3 =py39hb00a813_0
     - scipy =1.9.3 =py39hddc5342_2
-    - spyder-kernels =2.4.0 =py39hf3d152e_0
+    - spyder-kernels =2.4.1 =unix_pyhd8ed1ab_0
 
-    # 214 secondary packages :
+    # 219 secondary packages :
+    - _ipython_minor_entry_point =8.7.0 =h8cf3c4a_0
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h166bdaf_0
+    - asttokens =2.2.1 =pyhd8ed1ab_0
     - attr =2.5.1 =h166bdaf_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -66,6 +68,7 @@ requirements:
     - debugpy =1.6.4 =py39h5a03fae_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
+    - executing =1.2.0 =pyhd8ed1ab_0
     - expat =2.5.0 =h27087fc_0
     - fasteners =0.17.3 =pyhd8ed1ab_0
     - fftw =3.3.10 =nompi_hf0379b8_106
@@ -94,7 +97,7 @@ requirements:
     - hdf5 =1.12.2 =nompi_h4df4325_101
     - icu =70.1 =h27087fc_0
     - ipykernel =6.19.4 =pyh210e3f2_0
-    - ipython =7.33.0 =py39hf3d152e_0
+    - ipython =8.7.0 =pyh41d4057_0
     - jack =1.9.21 =h583fa2b_2
     - jedi =0.18.2 =pyhd8ed1ab_0
     - joblib =1.2.0 =pyhd8ed1ab_0
@@ -197,6 +200,7 @@ requirements:
     - pthread-stubs =0.4 =h36c2ea0_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pulseaudio =16.1 =h126f2b6_0
+    - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycairo =1.23.0 =py39h23c5bb2_0
     - pygments =2.13.0 =pyhd8ed1ab_0
     - pyparsing =3.0.9 =pyhd8ed1ab_0
@@ -216,6 +220,7 @@ requirements:
     - sip =6.7.5 =py39h5a03fae_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.45 =py39h72bdee0_0
+    - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.13.5 =py39h2ae25f5_2
     - threadpoolctl =3.1.0 =pyh8a188c0_0
     - tidynamics =1.0.0 =py_0
