@@ -29,7 +29,7 @@ requirements:
     - bokeh =3.0.3 =pyhd8ed1ab_0
     - lightgbm =3.3.3 =py39h99910a6_1
     - matplotlib =3.6.2 =py39hcbf5309_0
-    - numpy =1.24.0 =py39hbccbffa_0
+    - numpy =1.24.1 =py39hbccbffa_0
     - pandas =1.5.2 =py39h2ba5b7c_0
     - plotly =5.11.0 =pyhd8ed1ab_1
     - pycaret =2.2.3 =pyhd3deb0d_0
@@ -61,15 +61,15 @@ requirements:
     - aws-c-cal =0.5.20 =h4b5e85a_3
     - aws-c-common =0.8.5 =hcfcfb64_0
     - aws-c-compression =0.2.16 =h3dc32ea_0
-    - aws-c-event-stream =0.2.16 =hb67f86a_0
+    - aws-c-event-stream =0.2.17 =hb67f86a_0
     - aws-c-http =0.6.29 =h844ee93_0
     - aws-c-io =0.13.11 =hea55e33_2
     - aws-c-mqtt =0.7.13 =h461ce70_10
     - aws-c-s3 =0.2.1 =h0f2ed3e_2
     - aws-c-sdkutils =0.1.7 =h3dc32ea_0
     - aws-checksums =0.1.14 =h3dc32ea_0
-    - aws-crt-cpp =0.18.16 =h09df7fd_5
-    - aws-sdk-cpp =1.9.379 =h4d30238_6
+    - aws-crt-cpp =0.18.16 =h1481d00_6
+    - aws-sdk-cpp =1.9.379 =haf3c795_7
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -292,7 +292,7 @@ requirements:
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic =1.10.3 =py39ha55989b_0
+    - pydantic =1.10.4 =py39ha55989b_0
     - pydispatcher =2.0.5 =py_1
     - pygments =2.13.0 =pyhd8ed1ab_0
     - pyjwt =2.6.0 =pyhd8ed1ab_0
