@@ -35,8 +35,7 @@ requirements:
     - sqlalchemy =1.4.45 =py38hd5eba46_0
     - twisted =22.10.0 =py38h81aae68_0
 
-    # 164 secondary packages :
-    - _ipython_minor_entry_point =8.7.0 =h3b92ee0_0
+    # 163 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h4e544f5_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -87,12 +86,12 @@ requirements:
     - idna =3.4 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.19.4 =pyh210e3f2_0
-    - ipython =8.7.0 =pyh41d4057_0
+    - ipython =8.8.0 =pyh41d4057_0
     - jack =1.9.21 =h52479df_2
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jpeg =9e =h9cdd2b7_2
     - jupyter_client =7.4.8 =pyhd8ed1ab_0
-    - jupyter_core =5.1.1 =py38he3eb160_0
+    - jupyter_core =5.1.2 =py38he3eb160_0
     - keyutils =1.6.1 =h4e544f5_0
     - krb5 =1.20.1 =h113d92e_0
     - lame =3.100 =h4e544f5_1003

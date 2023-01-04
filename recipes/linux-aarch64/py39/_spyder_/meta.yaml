@@ -35,8 +35,7 @@ requirements:
     - spyder =5.4.1 =py39h4420490_1
     - sympy =1.11.1 =py39h4420490_2
 
-    # 288 secondary packages :
-    - _ipython_minor_entry_point =8.7.0 =h8cf3c4a_0
+    # 287 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.12 =py_0
     - alsa-lib =1.2.8 =h4e544f5_0
@@ -106,13 +105,13 @@ requirements:
     - icu =70.1 =ha18d298_0
     - idna =3.4 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
-    - importlib-metadata =6.0.0 =pyha770c72_0
-    - importlib_metadata =6.0.0 =hd8ed1ab_0
+    - importlib-metadata =4.11.4 =py39ha65689a_0
+    - importlib_metadata =4.11.4 =hd8ed1ab_0
     - importlib_resources =5.10.2 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.0.2 =py_0
     - ipykernel =6.19.4 =pyh210e3f2_0
-    - ipython =8.7.0 =pyh41d4057_0
+    - ipython =8.8.0 =pyh41d4057_0
     - ipython_genutils =0.2.0 =py_1
     - isort =5.11.4 =pyhd8ed1ab_0
     - jack =1.9.21 =h52479df_2
@@ -125,7 +124,7 @@ requirements:
     - jpeg =9e =h9cdd2b7_2
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.8 =pyhd8ed1ab_0
-    - jupyter_core =5.1.1 =py39h4420490_0
+    - jupyter_core =5.1.2 =py39h4420490_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - keyring =23.13.1 =py39h4420490_0
     - keyutils =1.6.1 =h4e544f5_0
@@ -234,7 +233,7 @@ requirements:
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycodestyle =2.10.0 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydocstyle =6.1.1 =pyhd8ed1ab_0
+    - pydocstyle =6.2.0 =pyhd8ed1ab_0
     - pyflakes =3.0.1 =pyhd8ed1ab_0
     - pygments =2.14.0 =pyhd8ed1ab_0
     - pylint =2.15.9 =pyhd8ed1ab_0

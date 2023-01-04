@@ -31,7 +31,7 @@ requirements:
     - cython =0.29.32 =py39h23fbdae_1
     - grayskull =1.8.4 =pyhd8ed1ab_1
     - hypothesis =6.61.0 =pyha770c72_0
-    - ipython =8.7.0 =pyhd1c38e8_0
+    - ipython =8.8.0 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.6.2 =py39hdf13c20_0
     - numba =0.53.1 =py39hbdc0675_1
@@ -63,8 +63,7 @@ requirements:
     - xlsxwriter =3.0.5 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 420 secondary packages :
-    - _ipython_minor_entry_point =8.7.0 =h8cf3c4a_0
+    # 419 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.6.2 =pyhd8ed1ab_0
@@ -152,7 +151,7 @@ requirements:
     - jpeg =9e =he4db4b2_2
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.8 =pyhd8ed1ab_0
-    - jupyter_core =5.1.1 =py39h2804cbe_0
+    - jupyter_core =5.1.2 =py39h2804cbe_0
     - jupyter_events =0.5.0 =pyhd8ed1ab_1
     - jupyter_server =2.0.6 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.3 =pyhd8ed1ab_0
@@ -240,7 +239,7 @@ requirements:
     - pillow =9.4.0 =py39h8bbe137_0
     - pip =22.3.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h27ca646_0
-    - pkginfo =1.9.2 =pyhd8ed1ab_0
+    - pkginfo =1.9.3 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
     - platformdirs =2.6.2 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py39h2804cbe_4
