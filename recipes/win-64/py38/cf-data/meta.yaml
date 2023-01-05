@@ -36,16 +36,16 @@ requirements:
     - pydot =1.4.2 =py38haa244fe_3
     - pyqt =5.15.7 =py38hd6c051e_2
     - scikit-learn =1.2.0 =py38h69724d7_0
-    - scipy =1.9.3 =py38h0f6ee2a_2
+    - scipy =1.10.0 =py38h0f6ee2a_0
     - scrapy =2.7.1 =py38haa244fe_1
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.1 =win_pyhd8ed1ab_0
-    - sqlalchemy =1.4.45 =py38h91455d4_0
+    - sqlalchemy =1.4.46 =py38h91455d4_0
     - sqlite =3.40.0 =hcfcfb64_0
     - statsmodels =0.13.5 =py38hbaf524b_2
     - xgboost =1.7.1 =cpu_py38hc22ac66_0
 
-    # 359 secondary packages :
+    # 363 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.9.1 =pyhd8ed1ab_0
     - anyio =3.6.2 =pyhd8ed1ab_0
@@ -155,7 +155,6 @@ requirements:
     - importlib-metadata =6.0.0 =pyha770c72_0
     - importlib_resources =5.10.2 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - intel-openmp =2023.0.0 =h57928b3_25922
     - ipykernel =6.19.4 =pyh025b116_0
     - ipython =8.8.0 =pyh08f2357_0
     - ipython_genutils =0.2.0 =py_1
@@ -184,25 +183,27 @@ requirements:
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20220623.0 =cxx17_h1a56200_6
     - libarrow =10.0.1 =h226723c_3_cpu
-    - libblas =3.9.0 =8_mkl
+    - libblas =3.9.0 =16_win64_openblas
     - libbrotlicommon =1.0.9 =hcfcfb64_8
     - libbrotlidec =1.0.9 =hcfcfb64_8
     - libbrotlienc =1.0.9 =hcfcfb64_8
-    - libcblas =3.9.0 =8_mkl
+    - libcblas =3.9.0 =16_win64_openblas
     - libclang =15.0.6 =default_h77d9078_0
     - libclang13 =15.0.6 =default_h77d9078_0
     - libcrc32c =1.1.2 =h0e60522_0
     - libcurl =7.87.0 =h68f0423_0
     - libdeflate =1.14 =hcfcfb64_0
     - libffi =3.4.2 =h8ffe710_5
+    - libflang =5.0.0 =h6538335_20180525
     - libgd =2.3.3 =hf5a96e7_4
     - libglib =2.74.1 =he8f3873_1
     - libgoogle-cloud =2.5.0 =h5fc25aa_1
     - libgrpc =1.51.1 =h6a6baca_0
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.4 =hcfcfb64_0
-    - liblapack =3.9.0 =8_mkl
+    - liblapack =3.9.0 =16_win64_openblas
     - libogg =1.3.4 =h8ffe710_1
+    - libopenblas =0.3.21 =pthreads_h02691f0_0
     - libpng =1.6.39 =h19919ed_0
     - libprotobuf =3.21.12 =h12be248_0
     - libsodium =1.0.18 =h8d14728_1
@@ -219,6 +220,7 @@ requirements:
     - libxml2 =2.10.3 =hc3477c8_0
     - libxslt =1.1.37 =h0192164_0
     - libzlib =1.2.13 =hcfcfb64_4
+    - llvm-meta =5.0.0 =0
     - llvmlite =0.36.0 =py38h57a6900_0
     - lxml =4.9.2 =py38h8e95c58_0
     - lz4-c =1.9.3 =h8ffe710_1
@@ -234,7 +236,6 @@ requirements:
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mistune =2.0.4 =pyhd8ed1ab_0
-    - mkl =2020.4 =hb70f87d_311
     - mlflow =1.27.0 =py38hdedce57_0
     - mlxtend =0.21.0 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
@@ -250,12 +251,14 @@ requirements:
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - networkx =2.8.8 =pyhd8ed1ab_0
     - nltk =3.8.1 =pyhd8ed1ab_0
+    - nomkl =1.0 =h5ca1d4c_0
     - notebook =6.5.2 =pyha770c72_1
     - notebook-shim =0.2.2 =pyhd8ed1ab_0
     - numba =0.53.1 =py38h99fac5f_1
-    - numexpr =2.7.3 =py38h5d928e2_2
+    - numexpr =2.8.3 =py38ha1c86ba_101
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha2aaf27_2
+    - openmp =5.0.0 =vc14_1
     - openssl =3.0.7 =hcfcfb64_1
     - packaging =22.0 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
@@ -277,6 +280,7 @@ requirements:
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
     - platformdirs =2.6.2 =pyhd8ed1ab_0
     - ply =3.11 =py_1
+    - pooch =1.6.0 =pyhd8ed1ab_0
     - preshed =3.0.8 =py38hd3f51b4_1
     - prometheus_client =0.15.0 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.21.0 =pyhd8ed1ab_0
