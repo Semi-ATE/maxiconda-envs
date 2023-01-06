@@ -35,8 +35,8 @@ requirements:
     - ipython =8.8.0 =pyh41d4057_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.6.2 =py38h2063c64_0
-    - numba =0.53.1 =py38h887e8e3_1
-    - numpy =1.24.1 =py38h993b045_0
+    - numba =0.56.4 =py38h4c0ec4d_0
+    - numpy =1.23.5 =py38h0fc68d9_0
     - openpyxl =3.0.10 =py38hdacc76a_2
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =1.5.2 =py38hae4a69d_0
@@ -61,7 +61,7 @@ requirements:
     - sympy =1.11.1 =py38he3eb160_2
     - tqdm =4.64.1 =pyhd8ed1ab_0
     - transitions =0.9.0 =pyhd8ed1ab_0
-    - xlsxwriter =3.0.5 =pyhd8ed1ab_0
+    - xlsxwriter =3.0.6 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
     # 456 secondary packages :
@@ -193,7 +193,7 @@ requirements:
     - libiconv =1.17 =h9cdd2b7_0
     - libjpeg-turbo =2.1.4 =h4e544f5_0
     - liblapack =3.9.0 =16_linuxaarch64_openblas
-    - libllvm10 =10.0.1 =he513fc3_3
+    - libllvm11 =11.1.0 =hb2805f8_5
     - libllvm15 =15.0.6 =hd950eb9_0
     - libnghttp2 =1.51.0 =h674c3cc_0
     - libnsl =2.0.0 =hf897c2e_0
@@ -220,7 +220,7 @@ requirements:
     - libxkbcommon =1.0.3 =he09c752_0
     - libxml2 =2.10.3 =h249b6dd_0
     - libzlib =1.2.13 =h4e544f5_4
-    - llvmlite =0.36.0 =py38h68ca503_0
+    - llvmlite =0.39.1 =py38hd14ccfc_1
     - lz4-c =1.9.3 =h01db608_1
     - make =4.3 =h309ac5b_1
     - markupsafe =2.1.1 =py38h81aae68_2

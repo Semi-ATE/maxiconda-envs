@@ -27,7 +27,7 @@ requirements:
     # 10 primary packages :
     - biopython =1.80 =py39ha55989b_0
     - matplotlib =3.6.2 =py39hcbf5309_0
-    - mdanalysis =2.4.1 =py39hd354de2_0
+    - mdanalysis =2.4.2 =py39hd354de2_0
     - numpy =1.24.1 =py39hbccbffa_0
     - pandas =1.5.2 =py39h2ba5b7c_0
     - pymol-open-source =2.5.0 =py39hd556d13_6
@@ -36,7 +36,7 @@ requirements:
     - scipy =1.10.0 =py39hfbf2dce_0
     - spyder-kernels =2.4.1 =win_pyhd8ed1ab_0
 
-    # 182 secondary packages :
+    # 184 secondary packages :
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -155,6 +155,7 @@ requirements:
     - packaging =22.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - patsy =0.5.3 =pyhd8ed1ab_0
+    - pbr =5.11.0 =pyhd8ed1ab_0
     - pcre2 =10.40 =h17e33f8_0
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =9.4.0 =py39h9767c21_0
@@ -171,6 +172,7 @@ requirements:
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycairo =1.23.0 =py39h82915f6_0
     - pycparser =2.21 =pyhd8ed1ab_0
+    - pyedr =0.7.1 =pyhd8ed1ab_0
     - pygments =2.14.0 =pyhd8ed1ab_0
     - pyopenssl =23.0.0 =pyhd8ed1ab_0
     - pyparsing =3.0.9 =pyhd8ed1ab_0

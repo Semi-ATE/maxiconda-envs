@@ -35,8 +35,8 @@ requirements:
     - ipython =8.8.0 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.6.2 =py38h50d1736_0
-    - numba =0.53.1 =py38h5b9a75a_1
-    - numpy =1.24.1 =py38hc2f29e8_0
+    - numba =0.56.4 =py38hab356c4_0
+    - numpy =1.23.5 =py38hc2f29e8_0
     - openpyxl =3.0.10 =py38hef030d1_2
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =1.5.2 =py38hec72209_0
@@ -61,7 +61,7 @@ requirements:
     - sympy =1.11.1 =py38h50d1736_2
     - tqdm =4.64.1 =pyhd8ed1ab_0
     - transitions =0.9.0 =pyhd8ed1ab_0
-    - xlsxwriter =3.0.5 =pyhd8ed1ab_0
+    - xlsxwriter =3.0.6 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
     # 421 secondary packages :
@@ -183,7 +183,7 @@ requirements:
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =2.1.4 =hb7f2c08_0
     - liblapack =3.9.0 =16_osx64_openblas
-    - libllvm10 =10.0.1 =h009f743_3
+    - libllvm11 =11.1.0 =h8fb7429_5
     - libllvm13 =13.0.1 =h64f94b2_2
     - libllvm14 =14.0.6 =h5b596cc_1
     - libnghttp2 =1.51.0 =he2ab024_0
@@ -203,7 +203,7 @@ requirements:
     - libzlib =1.2.13 =hfd90126_4
     - llvm-openmp =15.0.6 =h61d9ccf_0
     - llvm-tools =14.0.6 =h5b596cc_1
-    - llvmlite =0.36.0 =py38h872f124_0
+    - llvmlite =0.39.1 =py38hc86dbf9_1
     - make =4.3 =h22f3db7_1
     - markupsafe =2.1.1 =py38hef030d1_2
     - matplotlib-base =3.6.2 =py38hcb346ec_0

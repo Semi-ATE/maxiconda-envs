@@ -35,8 +35,8 @@ requirements:
     - ipython =8.8.0 =pyh08f2357_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.6.2 =py39hcbf5309_0
-    - numba =0.53.1 =py39hb8cd55e_1
-    - numpy =1.24.1 =py39hbccbffa_0
+    - numba =0.56.4 =py39h99ae161_0
+    - numpy =1.23.5 =py39hbccbffa_0
     - openpyxl =3.0.10 =py39ha55989b_2
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =1.5.2 =py39h2ba5b7c_0
@@ -61,10 +61,10 @@ requirements:
     - sympy =1.11.1 =py39hcbf5309_2
     - tqdm =4.64.1 =pyhd8ed1ab_0
     - transitions =0.9.0 =pyhd8ed1ab_0
-    - xlsxwriter =3.0.5 =pyhd8ed1ab_0
+    - xlsxwriter =3.0.6 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 397 secondary packages :
+    # 399 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.6.2 =pyhd8ed1ab_0
@@ -133,19 +133,20 @@ requirements:
     - krb5 =1.20.1 =heb0366b_0
     - lcms2 =2.14 =ha5c8aab_1
     - lerc =4.0.0 =h63175ca_0
-    - libblas =3.9.0 =8_mkl
+    - libblas =3.9.0 =16_win64_mkl
     - libbrotlicommon =1.0.9 =hcfcfb64_8
     - libbrotlidec =1.0.9 =hcfcfb64_8
     - libbrotlienc =1.0.9 =hcfcfb64_8
-    - libcblas =3.9.0 =8_mkl
+    - libcblas =3.9.0 =16_win64_mkl
     - libclang =15.0.6 =default_h77d9078_0
     - libclang13 =15.0.6 =default_h77d9078_0
     - libdeflate =1.14 =hcfcfb64_0
     - libffi =3.4.2 =h8ffe710_5
     - libglib =2.74.1 =he8f3873_1
+    - libhwloc =2.8.0 =h039e092_1
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.4 =hcfcfb64_0
-    - liblapack =3.9.0 =8_mkl
+    - liblapack =3.9.0 =16_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
     - libsodium =1.0.18 =h8d14728_1
@@ -156,7 +157,7 @@ requirements:
     - libxcb =1.13 =hcd874cb_1004
     - libxml2 =2.10.3 =hc3477c8_0
     - libzlib =1.2.13 =hcfcfb64_4
-    - llvmlite =0.36.0 =py39ha0cd8c8_0
+    - llvmlite =0.39.1 =py39hd28a505_1
     - m2w64-bwidget =1.9.10 =2
     - m2w64-bzip2 =1.0.6 =6
     - m2w64-expat =2.1.1 =2
@@ -192,7 +193,7 @@ requirements:
     - matplotlib-base =3.6.2 =py39haf65ace_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mistune =2.0.4 =pyhd8ed1ab_0
-    - mkl =2020.4 =hb70f87d_311
+    - mkl =2022.1.0 =h6a75c08_874
     - mpmath =1.2.1 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - multidict =6.0.4 =py39ha55989b_0
@@ -226,6 +227,7 @@ requirements:
     - prometheus_client =0.15.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.36 =pyha770c72_0
     - pthread-stubs =0.4 =hcd874cb_1001
+    - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
     - pygments =2.14.0 =pyhd8ed1ab_0
@@ -431,6 +433,7 @@ requirements:
     - soupsieve =2.3.2.post1 =pyhd8ed1ab_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - stdlib-list =0.8.0 =pyhd8ed1ab_0
+    - tbb =2021.7.0 =h91493d7_1
     - terminado =0.17.0 =pyh08f2357_0
     - tinycss2 =1.2.1 =pyhd8ed1ab_0
     - tk =8.6.12 =h8ffe710_0
@@ -460,7 +463,6 @@ requirements:
     - yarl =1.8.2 =py39ha55989b_0
     - zeromq =4.3.4 =h0e60522_1
     - zipp =3.11.0 =pyhd8ed1ab_0
-    - zlib =1.2.13 =hcfcfb64_4
     - zstd =1.5.2 =h7755175_4
 
 about:
