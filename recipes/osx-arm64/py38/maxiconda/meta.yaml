@@ -51,7 +51,7 @@ requirements:
     - r-essentials =4.2 =r42hd8ed1ab_2003
     - regex =2022.10.31 =py38hb991d35_0
     - requests =2.28.1 =pyhd8ed1ab_1
-    - rust =1.65.0 =h4ff7c5d_0
+    - rust =1.66.1 =h4ff7c5d_0
     - scipy =1.10.0 =py38h7b4f323_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.1 =unix_pyhd8ed1ab_0
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.0.6 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 421 secondary packages :
+    # 423 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.6.2 =pyhd8ed1ab_0
@@ -153,7 +153,7 @@ requirements:
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.8 =pyhd8ed1ab_0
     - jupyter_core =5.1.3 =py38h10201cd_0
-    - jupyter_events =0.5.0 =pyhd8ed1ab_1
+    - jupyter_events =0.6.2 =pyhd8ed1ab_0
     - jupyter_server =2.0.6 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
@@ -190,7 +190,7 @@ requirements:
     - libopenblas =0.3.21 =openmp_hc731615_3
     - libopus =1.3.1 =h27ca646_1
     - libpng =1.6.39 =h76d750c_0
-    - libpq =15.1 =h1a28acd_2
+    - libpq =15.1 =h1a28acd_3
     - libsodium =1.0.18 =h27ca646_1
     - libsqlite =3.40.0 =h76d750c_0
     - libssh2 =1.10.0 =h7a5bd25_3
@@ -383,7 +383,7 @@ requirements:
     - r-proxy =0.4_27 =r42h5d63f41_1
     - r-pryr =0.1.5 =r42h9a38a31_1
     - r-ps =1.7.2 =r42h5d63f41_0
-    - r-purrr =1.0.0 =r42h5d63f41_0
+    - r-purrr =1.0.1 =r42h5d63f41_0
     - r-quantmod =0.4.20 =r42hc72bb7e_1
     - r-r6 =2.5.1 =r42hc72bb7e_1
     - r-randomforest =4.7_1.1 =r42h505ec0b_1
@@ -393,7 +393,7 @@ requirements:
     - r-rcpp =1.0.9 =r42h9a38a31_2
     - r-readr =2.1.3 =r42h9a38a31_1
     - r-readxl =1.4.1 =r42h815e8a2_1
-    - r-recipes =1.0.3 =r42hc72bb7e_0
+    - r-recipes =1.0.4 =r42hc72bb7e_0
     - r-recommended =4.2 =r42hd8ed1ab_1005
     - r-rematch =1.0.1 =r42hc72bb7e_1005
     - r-rematch2 =2.1.2 =r42hc72bb7e_2
@@ -413,7 +413,7 @@ requirements:
     - r-sourcetools =0.1.7 =r42h9a38a31_1003
     - r-spatial =7.3_15 =r42h5d63f41_1
     - r-squarem =2021.1 =r42hc72bb7e_1
-    - r-stringi =1.7.8 =r42ha4a7437_1
+    - r-stringi =1.7.12 =r42ha4a7437_0
     - r-stringr =1.5.0 =r42h785f33e_0
     - r-survival =3.5_0 =r42h5d63f41_0
     - r-sys =3.4.1 =r42h5d63f41_0
@@ -442,10 +442,12 @@ requirements:
     - r-zoo =1.8_11 =r42h5d63f41_1
     - rapidfuzz =2.13.7 =py38h2b1e499_0
     - readline =8.1.2 =h46ed386_0
+    - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
+    - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - ruamel.yaml =0.17.21 =py38hb991d35_2
     - ruamel.yaml.clib =0.2.7 =py38hb991d35_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-aarch64-apple-darwin =1.65.0 =hf1a8007_0
+    - rust-std-aarch64-apple-darwin =1.66.1 =hf1a8007_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =65.6.3 =pyhd8ed1ab_0
     - sigtool =0.1.3 =h44b9a77_0
@@ -470,7 +472,7 @@ requirements:
     - typing_extensions =4.4.0 =pyha770c72_0
     - tzdata =2022g =h191b570_0
     - unicodedata2 =15.0.0 =py38hb991d35_0
-    - urllib3 =1.26.13 =pyhd8ed1ab_0
+    - urllib3 =1.26.14 =pyhd8ed1ab_0
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - webencodings =0.5.1 =py_1
     - websocket-client =1.4.2 =pyhd8ed1ab_0

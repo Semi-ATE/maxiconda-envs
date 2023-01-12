@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.1 =r41hd8ed1ab_2003
     - regex =2022.10.31 =py38h91455d4_0
     - requests =2.28.1 =pyhd8ed1ab_1
-    - rust =1.65.0 =hf8d6059_0
+    - rust =1.66.1 =hf8d6059_0
     - scipy =1.10.0 =py38h0f6ee2a_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.1 =win_pyhd8ed1ab_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.0.6 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 399 secondary packages :
+    # 401 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.6.2 =pyhd8ed1ab_0
@@ -125,7 +125,7 @@ requirements:
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.8 =pyhd8ed1ab_0
     - jupyter_core =5.1.3 =py38haa244fe_0
-    - jupyter_events =0.5.0 =pyhd8ed1ab_1
+    - jupyter_events =0.6.2 =pyhd8ed1ab_0
     - jupyter_server =2.0.6 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
@@ -362,7 +362,7 @@ requirements:
     - r-proxy =0.4_27 =r41h6d2157b_1
     - r-pryr =0.1.5 =r41ha856d6a_1
     - r-ps =1.7.2 =r41h6d2157b_0
-    - r-purrr =1.0.0 =r41h6d2157b_0
+    - r-purrr =1.0.1 =r41h6d2157b_0
     - r-quantmod =0.4.20 =r41hc72bb7e_1
     - r-r6 =2.5.1 =r41hc72bb7e_1
     - r-randomforest =4.7_1.1 =r41he816bda_1
@@ -372,7 +372,7 @@ requirements:
     - r-rcpp =1.0.9 =r41ha856d6a_2
     - r-readr =2.1.3 =r41ha856d6a_1
     - r-readxl =1.4.1 =r41h1c2d66b_1
-    - r-recipes =1.0.3 =r41hc72bb7e_0
+    - r-recipes =1.0.4 =r41hc72bb7e_0
     - r-recommended =4.1 =r41hd8ed1ab_1005
     - r-rematch =1.0.1 =r41hc72bb7e_1005
     - r-rematch2 =2.1.2 =r41hc72bb7e_2
@@ -392,7 +392,7 @@ requirements:
     - r-sourcetools =0.1.7 =r41ha856d6a_1003
     - r-spatial =7.3_15 =r41h6d2157b_1
     - r-squarem =2021.1 =r41hc72bb7e_1
-    - r-stringi =1.7.8 =r41ha856d6a_1
+    - r-stringi =1.7.12 =r41ha856d6a_0
     - r-stringr =1.5.0 =r41h785f33e_0
     - r-survival =3.5_0 =r41h6d2157b_0
     - r-sys =3.4.1 =r41h6d2157b_0
@@ -420,10 +420,12 @@ requirements:
     - r-yaml =2.3.6 =r41h6d2157b_0
     - r-zoo =1.8_11 =r41h6d2157b_1
     - rapidfuzz =2.13.7 =py38hd3f51b4_0
+    - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
+    - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - ruamel.yaml =0.17.21 =py38h91455d4_2
     - ruamel.yaml.clib =0.2.7 =py38h91455d4_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-pc-windows-msvc =1.65.0 =h69312b4_0
+    - rust-std-x86_64-pc-windows-msvc =1.66.1 =h69312b4_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =65.6.3 =pyhd8ed1ab_0
     - sip =6.7.5 =py38hd3f51b4_0
@@ -447,7 +449,7 @@ requirements:
     - tzdata =2022g =h191b570_0
     - ucrt =10.0.22621.0 =h57928b3_0
     - unicodedata2 =15.0.0 =py38h91455d4_0
-    - urllib3 =1.26.13 =pyhd8ed1ab_0
+    - urllib3 =1.26.14 =pyhd8ed1ab_0
     - vc =14.3 =h3d8a991_9
     - vs2015_runtime =14.32.31332 =h1d6e394_9
     - wcwidth =0.2.5 =pyh9f0ad1d_2
