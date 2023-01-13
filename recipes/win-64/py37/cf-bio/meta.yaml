@@ -117,7 +117,7 @@ requirements:
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp-base =1.2.4 =h8ffe710_0
     - libxcb =1.13 =hcd874cb_1004
-    - libxml2 =2.10.3 =hc3477c8_1
+    - libxml2 =2.10.3 =hc3477c8_0
     - libzip =1.9.2 =h519de47_1
     - libzlib =1.2.13 =hcfcfb64_4
     - m2w64-gcc-libgfortran =5.3.0 =6
@@ -138,7 +138,7 @@ requirements:
     - networkx =2.7 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =hc9384bd_1
     - openssl =3.0.7 =hcfcfb64_1
-    - packaging =22.0 =pyhd8ed1ab_0
+    - packaging =23.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - patsy =0.5.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =h17e33f8_0
@@ -183,8 +183,8 @@ requirements:
     - typing_extensions =4.4.0 =pyha770c72_0
     - ucrt =10.0.22621.0 =h57928b3_0
     - unicodedata2 =14.0.0 =py37hcc03f2d_1
-    - vc =14.3 =h3d8a991_9
-    - vs2015_runtime =14.32.31332 =h1d6e394_9
+    - vc =14.3 =hb6edc58_10
+    - vs2015_runtime =14.34.31931 =h4c5c07a_10
     - wcwidth =0.2.5 =pyh9f0ad1d_2
     - wheel =0.38.4 =pyhd8ed1ab_0
     - xorg-libxau =1.0.9 =hcd874cb_0
