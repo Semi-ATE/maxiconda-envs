@@ -38,7 +38,7 @@ requirements:
     # 280 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
-    - alabaster =0.7.12 =py_0
+    - alabaster =0.7.13 =pyhd8ed1ab_0
     - alsa-lib =1.2.8 =h166bdaf_0
     - arrow =1.2.3 =pyhd8ed1ab_0
     - astroid =2.12.11 =py37h89c1867_0
@@ -119,7 +119,7 @@ requirements:
     - jinja2-time =0.2.0 =pyhd8ed1ab_3
     - jpeg =9e =h166bdaf_2
     - jsonschema =4.17.3 =pyhd8ed1ab_0
-    - jupyter_client =7.4.8 =pyhd8ed1ab_0
+    - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =4.11.1 =py37h89c1867_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - keyring =23.9.3 =py37h89c1867_0
@@ -137,8 +137,8 @@ requirements:
     - libbrotlienc =1.0.9 =h166bdaf_8
     - libcap =2.66 =ha37c62d_0
     - libcblas =3.9.0 =16_linux64_openblas
-    - libclang =15.0.6 =default_h2e3cab8_0
-    - libclang13 =15.0.6 =default_h3a83d3e_0
+    - libclang =15.0.7 =default_had23c3d_0
+    - libclang13 =15.0.7 =default_h3e3d535_0
     - libcups =2.3.3 =h36d4200_3
     - libdb =6.2.32 =h9c3ff4c_0
     - libdeflate =1.14 =h166bdaf_0
@@ -155,7 +155,7 @@ requirements:
     - libgpg-error =1.46 =h620e276_0
     - libiconv =1.17 =h166bdaf_0
     - liblapack =3.9.0 =16_linux64_openblas
-    - libllvm15 =15.0.6 =h63197d8_0
+    - libllvm15 =15.0.7 =hadd5161_0
     - libnsl =2.0.0 =h7f98852_0
     - libogg =1.3.4 =h7f98852_1
     - libopenblas =0.3.21 =pthreads_h78a6416_3

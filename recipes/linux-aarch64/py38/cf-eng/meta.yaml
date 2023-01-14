@@ -75,7 +75,7 @@ requirements:
     - jack =1.9.21 =h52479df_2
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jpeg =9e =h9cdd2b7_2
-    - jupyter_client =7.4.8 =pyhd8ed1ab_0
+    - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =5.1.3 =py38he3eb160_0
     - keyutils =1.6.1 =h4e544f5_0
     - krb5 =1.20.1 =h113d92e_0
@@ -84,8 +84,8 @@ requirements:
     - libblas =3.9.0 =16_linuxaarch64_openblas
     - libcap =2.66 =hbb70f59_0
     - libcblas =3.9.0 =16_linuxaarch64_openblas
-    - libclang =15.0.6 =default_ha7bf5e6_0
-    - libclang13 =15.0.6 =default_h3684801_0
+    - libclang =15.0.7 =default_h3fabc39_0
+    - libclang13 =15.0.7 =default_haf32b04_0
     - libcups =2.3.3 =h4303303_3
     - libdb =6.2.32 =h01db608_0
     - libedit =3.1.20191231 =he28a2e2_2
@@ -101,7 +101,7 @@ requirements:
     - libgpg-error =1.46 =haae8ae4_0
     - libiconv =1.17 =h9cdd2b7_0
     - liblapack =3.9.0 =16_linuxaarch64_openblas
-    - libllvm15 =15.0.6 =hd950eb9_0
+    - libllvm15 =15.0.7 =h87099f9_0
     - libnsl =2.0.0 =hf897c2e_0
     - libogg =1.3.4 =h3557bc0_1
     - libopenblas =0.3.21 =pthreads_h6cb6f83_3
@@ -152,7 +152,7 @@ requirements:
     - python_abi =3.8 =3_cp38
     - pytz =2022.7 =pyhd8ed1ab_0
     - pyvisa =1.13.0 =py38h2063c64_0
-    - pyzmq =24.0.1 =py38h891b4b0_1
+    - pyzmq =25.0.0 =py38ha599cda_0
     - qt-main =5.15.6 =h9e5b47b_5
     - readline =8.1.2 =h38e3740_0
     - setuptools =65.6.3 =pyhd8ed1ab_0
