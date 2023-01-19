@@ -26,15 +26,15 @@ requirements:
 
     # 10 primary packages :
     - biopython =1.80 =py38h0a891b7_0
-    - matplotlib =3.6.2 =py38h578d9bd_0
+    - matplotlib =3.6.3 =py38h578d9bd_0
     - mdanalysis =2.4.2 =py38hbea5b78_0
     - numpy =1.24.1 =py38hab0fcb9_0
     - pandas =1.5.2 =py38hdc8b05c_2
     - pymol-open-source =2.5.0 =py38hccd11d7_6
     - pyqt =5.15.7 =py38h7492b6b_2
-    - rdkit =2022.09.3 =py38h6600b1c_1
+    - rdkit =2022.09.4 =py38h6600b1c_1
     - scipy =1.10.0 =py38h10c12cc_0
-    - spyder-kernels =2.4.1 =unix_pyhd8ed1ab_0
+    - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
 
     # 232 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
@@ -172,7 +172,7 @@ requirements:
     - libzip =1.9.2 =hc929e4a_1
     - libzlib =1.2.13 =h166bdaf_4
     - lz4-c =1.9.3 =h9c3ff4c_1
-    - matplotlib-base =3.6.2 =py38hb021067_0
+    - matplotlib-base =3.6.3 =py38hd6c3c57_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mmtf-python =1.1.3 =pyhd8ed1ab_0
     - mpg123 =1.31.2 =hcb278e6_0

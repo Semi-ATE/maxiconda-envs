@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =0.29.33 =py38hd3f51b4_0
-    - matplotlib =3.6.2 =py38haa244fe_0
+    - matplotlib =3.6.3 =py38haa244fe_0
     - numpy =1.24.1 =py38h90ce339_0
     - pandas =1.5.2 =py38h5846ac1_2
     - pyqt =5.15.7 =py38hd6c051e_2
@@ -148,7 +148,7 @@ requirements:
     - m2w64-gmp =6.1.0 =2
     - m2w64-libwinpthread-git =5.0.0.4634.697f757 =2
     - markupsafe =2.1.1 =py38h91455d4_2
-    - matplotlib-base =3.6.2 =py38h528a6c7_0
+    - matplotlib-base =3.6.3 =py38h528a6c7_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_0
     - mistune =2.0.4 =pyhd8ed1ab_0
@@ -191,7 +191,7 @@ requirements:
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycodestyle =2.10.0 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydocstyle =6.3.0 =pyhd8ed1ab_0
+    - pydocstyle =6.2.3 =pyhd8ed1ab_0
     - pyflakes =3.0.1 =pyhd8ed1ab_0
     - pygments =2.14.0 =pyhd8ed1ab_0
     - pylint =2.15.10 =pyhd8ed1ab_0
@@ -207,8 +207,8 @@ requirements:
     - python-fastjsonschema =2.16.2 =pyhd8ed1ab_0
     - python-lsp-black =1.2.1 =pyhd8ed1ab_0
     - python-lsp-jsonrpc =1.0.0 =pyhd8ed1ab_0
-    - python-lsp-server =1.7.0 =hd8ed1ab_0
-    - python-lsp-server-base =1.7.0 =pyhd8ed1ab_0
+    - python-lsp-server =1.7.1 =hd8ed1ab_0
+    - python-lsp-server-base =1.7.1 =pyhd8ed1ab_0
     - python-slugify =7.0.0 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pytoolconfig =1.2.4 =pyhd8ed1ab_1
@@ -241,7 +241,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =py_0
     - sphinxcontrib-qthelp =1.0.3 =py_0
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_2
-    - spyder-kernels =2.4.1 =win_pyhd8ed1ab_0
+    - spyder-kernels =2.4.2 =win_pyhd8ed1ab_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tbb =2021.7.0 =h91493d7_1
     - text-unidecode =1.3 =py_0

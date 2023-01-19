@@ -26,13 +26,13 @@ requirements:
 
     # 8 primary packages :
     - biopython =1.80 =py39h0fd3b05_0
-    - matplotlib =3.6.2 =py39ha65689a_0
+    - matplotlib =3.6.3 =py39ha65689a_0
     - numpy =1.24.1 =py39hc9a35f1_0
     - pandas =1.5.2 =py39h1e1c27f_2
     - pyqt =5.15.7 =py39h3eb3a2c_2
     - rdkit =2022.03.1 =py39h3f581e4_0
     - scipy =1.10.0 =py39hafab3e7_0
-    - spyder-kernels =2.4.1 =unix_pyhd8ed1ab_0
+    - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
 
     # 192 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
@@ -146,7 +146,7 @@ requirements:
     - libxml2 =2.10.3 =h249b6dd_0
     - libzlib =1.2.13 =h4e544f5_4
     - lz4-c =1.9.3 =h01db608_1
-    - matplotlib-base =3.6.2 =py39h15a8d8b_0
+    - matplotlib-base =3.6.3 =py39h2983639_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mpg123 =1.31.2 =hd600fc2_0
     - munkres =1.1.4 =pyh9f0ad1d_0
