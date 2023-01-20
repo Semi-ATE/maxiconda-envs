@@ -27,7 +27,7 @@ requirements:
     # 8 primary packages :
     - numpy =1.24.1 =py39hc9a35f1_0
     - openpyxl =3.0.10 =py39h0fd3b05_2
-    - pandas =1.5.2 =py39h1e1c27f_2
+    - pandas =1.5.3 =py39h1e1c27f_0
     - pyqt =5.15.7 =py39h3eb3a2c_2
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
@@ -179,7 +179,7 @@ requirements:
     - xz =5.2.6 =h9cdd2b7_0
     - zeromq =4.3.4 =h01db608_1
     - zipp =3.11.0 =pyhd8ed1ab_0
-    - zstd =1.5.2 =hc1e27d5_4
+    - zstd =1.5.2 =h44f6412_5
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

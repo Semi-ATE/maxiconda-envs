@@ -29,7 +29,7 @@ requirements:
     - matplotlib =3.6.3 =py38haa244fe_0
     - mdanalysis =2.4.2 =py38h5465b62_0
     - numpy =1.24.1 =py38h90ce339_0
-    - pandas =1.5.2 =py38h5846ac1_2
+    - pandas =1.5.3 =py38h5846ac1_0
     - pymol-open-source =2.5.0 =py38h6f9134c_6
     - pyqt =5.15.7 =py38hd6c051e_2
     - rdkit =2022.09.4 =py38h8aea279_1
@@ -219,7 +219,7 @@ requirements:
     - xz =5.2.6 =h8d14728_0
     - zeromq =4.3.4 =h0e60522_1
     - zlib =1.2.13 =hcfcfb64_4
-    - zstd =1.5.2 =h7755175_4
+    - zstd =1.5.2 =h12be248_5
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

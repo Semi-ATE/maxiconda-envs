@@ -30,7 +30,7 @@ requirements:
     - lightgbm =3.3.4 =py38h6e1195d_0
     - matplotlib =3.6.3 =py38h50d1736_0
     - numpy =1.23.5 =py38hc2f29e8_0
-    - pandas =1.5.2 =py38hec72209_2
+    - pandas =1.5.3 =py38hec72209_0
     - plotly =5.12.0 =pyhd8ed1ab_1
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py38h50d1736_3
@@ -232,7 +232,7 @@ requirements:
     - lz4-c =1.9.3 =he49afe7_1
     - mako =1.2.4 =pyhd8ed1ab_0
     - markdown =3.4.1 =pyhd8ed1ab_0
-    - markupsafe =2.1.1 =py38hef030d1_2
+    - markupsafe =2.1.2 =py38hef030d1_0
     - matplotlib-base =3.6.3 =py38hcb346ec_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
@@ -385,7 +385,7 @@ requirements:
     - zipp =3.11.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =hfd90126_4
     - zope.interface =5.5.2 =py38hef030d1_0
-    - zstd =1.5.2 =hfa58983_4
+    - zstd =1.5.2 =hbc0c0cd_5
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

@@ -28,11 +28,11 @@ requirements:
     - cython =0.29.33 =py39hdcdd789_0
     - matplotlib =3.6.3 =py39ha65689a_0
     - numpy =1.24.1 =py39hc9a35f1_0
-    - pandas =1.5.2 =py39h1e1c27f_2
+    - pandas =1.5.3 =py39h1e1c27f_0
     - pyqt =5.15.7 =py39h3eb3a2c_2
     - pyqtwebengine =5.15.7 =py39h3eb3a2c_2
     - scipy =1.10.0 =py39hafab3e7_0
-    - spyder =5.4.1 =py39h4420490_1
+    - spyder =5.4.2 =py39h4420490_0
     - sympy =1.11.1 =py39h4420490_2
 
     # 289 secondary packages :
@@ -186,7 +186,7 @@ requirements:
     - libxml2 =2.10.3 =h249b6dd_0
     - libzlib =1.2.13 =h4e544f5_4
     - lz4-c =1.9.3 =h01db608_1
-    - markupsafe =2.1.1 =py39hb9a1dbb_2
+    - markupsafe =2.1.2 =py39h599bc27_0
     - matplotlib-base =3.6.3 =py39h2983639_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_0
@@ -324,7 +324,7 @@ requirements:
     - yapf =0.32.0 =pyhd8ed1ab_0
     - zeromq =4.3.4 =h01db608_1
     - zipp =3.11.0 =pyhd8ed1ab_0
-    - zstd =1.5.2 =hc1e27d5_4
+    - zstd =1.5.2 =h44f6412_5
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

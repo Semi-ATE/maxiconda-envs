@@ -39,7 +39,7 @@ requirements:
     - numpy =1.23.5 =py38h7042d01_0
     - openpyxl =3.0.10 =py38h0a891b7_2
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
-    - pandas =1.5.2 =py38hdc8b05c_2
+    - pandas =1.5.3 =py38hdc8b05c_0
     - psutil =5.9.4 =py38h0a891b7_0
     - pydantic =1.10.4 =py38h1de0b5d_1
     - pyqt =5.15.7 =py38h7492b6b_2
@@ -224,7 +224,7 @@ requirements:
     - llvmlite =0.39.1 =py38h38d86a4_1
     - lz4-c =1.9.3 =h9c3ff4c_1
     - make =4.3 =hd18ef5c_1
-    - markupsafe =2.1.1 =py38h0a891b7_2
+    - markupsafe =2.1.2 =py38h1de0b5d_0
     - matplotlib-base =3.6.3 =py38hd6c3c57_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mistune =2.0.4 =pyhd8ed1ab_0
@@ -523,7 +523,7 @@ requirements:
     - zeromq =4.3.4 =h9c3ff4c_1
     - zipp =3.11.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h166bdaf_4
-    - zstd =1.5.2 =h6239696_4
+    - zstd =1.5.2 =h3eb15da_5
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

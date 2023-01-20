@@ -93,7 +93,7 @@ requirements:
     - libsqlite =3.40.0 =ha978bb4_0
     - libvorbis =1.3.7 =h046ec9c_0
     - libzlib =1.2.13 =hfd90126_4
-    - markupsafe =2.1.1 =py38hef030d1_2
+    - markupsafe =2.1.2 =py38hef030d1_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mysql-common =8.0.31 =hc4b2c72_0
     - mysql-libs =8.0.31 =h8658499_0
@@ -149,7 +149,7 @@ requirements:
     - yaml =0.2.5 =h0d85af4_2
     - zeromq =4.3.4 =he49afe7_1
     - zope.interface =5.5.2 =py38hef030d1_0
-    - zstd =1.5.2 =hfa58983_4
+    - zstd =1.5.2 =hbc0c0cd_5
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
