@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.6.1 =py39ha30fb19_0
     - cython =0.29.33 =py39h7a8716b_0
     - grayskull =1.8.4 =pyhd8ed1ab_1
-    - hypothesis =6.62.1 =pyha770c72_0
+    - hypothesis =6.63.0 =pyha770c72_0
     - ipython =8.8.0 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.6.3 =py39h6e9494a_0
@@ -98,7 +98,7 @@ requirements:
     - clangxx =14.0.6 =default_h55ffa42_0
     - clangxx_osx-64 =14.0.6 =h6f97653_4
     - click =8.1.3 =py39h6e9494a_1
-    - cloudpickle =2.2.0 =pyhd8ed1ab_0
+    - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.2 =pyhd8ed1ab_0
     - compiler-rt =14.0.6 =h613da45_0
@@ -402,7 +402,7 @@ requirements:
     - r-reprex =2.0.2 =r42hc72bb7e_1
     - r-reshape2 =1.4.4 =r42h49197e3_2
     - r-rlang =1.0.6 =r42h49197e3_1
-    - r-rmarkdown =2.19 =r42hc72bb7e_0
+    - r-rmarkdown =2.20 =r42hc72bb7e_0
     - r-rpart =4.1.19 =r42h815d134_0
     - r-rstudioapi =0.14 =r42hc72bb7e_1
     - r-rvest =1.0.3 =r42hc72bb7e_1
@@ -450,7 +450,7 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-apple-darwin =1.66.1 =h059895a_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =66.0.0 =pyhd8ed1ab_0
+    - setuptools =66.1.0 =pyhd8ed1ab_0
     - sigtool =0.1.3 =h88f4db0_0
     - sip =6.7.5 =py39h7a8716b_0
     - six =1.16.0 =pyh6c4a22f_0
@@ -487,7 +487,7 @@ requirements:
     - zeromq =4.3.4 =he49afe7_1
     - zipp =3.11.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =hfd90126_4
-    - zstd =1.5.2 =hbc0c0cd_5
+    - zstd =1.5.2 =hbc0c0cd_6
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

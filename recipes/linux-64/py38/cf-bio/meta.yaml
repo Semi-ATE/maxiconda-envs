@@ -61,7 +61,7 @@ requirements:
     - cffi =1.15.1 =py38h4a40e3a_3
     - cftime =1.6.2 =py38h26c90d9_1
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
-    - cloudpickle =2.2.0 =pyhd8ed1ab_0
+    - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.2 =pyhd8ed1ab_0
     - contourpy =1.0.7 =py38hfbd4bf9_0
@@ -179,8 +179,8 @@ requirements:
     - mrcfile =1.4.3 =pyhd8ed1ab_0
     - msgpack-python =1.0.4 =py38h43d8883_1
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - mysql-common =8.0.31 =h26416b9_0
-    - mysql-libs =8.0.31 =hbc51c84_0
+    - mysql-common =8.0.32 =ha901b37_0
+    - mysql-libs =8.0.32 =hd7da12d_0
     - ncurses =6.3 =h27087fc_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - netcdf4 =1.6.2 =nompi_py38h2250339_100
@@ -229,7 +229,7 @@ requirements:
     - scikit-learn =1.2.0 =py38h1e1a916_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - seaborn-base =0.12.2 =pyhd8ed1ab_0
-    - setuptools =66.0.0 =pyhd8ed1ab_0
+    - setuptools =66.1.0 =pyhd8ed1ab_0
     - sip =6.7.5 =py38hfa26641_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.46 =py38h1de0b5d_0
@@ -268,7 +268,7 @@ requirements:
     - xz =5.2.6 =h166bdaf_0
     - zeromq =4.3.4 =h9c3ff4c_1
     - zlib =1.2.13 =h166bdaf_4
-    - zstd =1.5.2 =h3eb15da_5
+    - zstd =1.5.2 =h3eb15da_6
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

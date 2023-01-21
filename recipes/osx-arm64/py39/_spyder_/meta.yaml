@@ -64,7 +64,7 @@ requirements:
     - chardet =5.1.0 =py39h2804cbe_0
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
     - click =8.1.3 =py39h2804cbe_1
-    - cloudpickle =2.2.0 =pyhd8ed1ab_0
+    - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.2 =pyhd8ed1ab_0
     - contourpy =1.0.7 =py39haaf3ac1_0
@@ -239,7 +239,7 @@ requirements:
     - requests =2.28.2 =pyhd8ed1ab_0
     - rope =1.6.0 =pyhd8ed1ab_0
     - rtree =1.0.1 =py39hb28b0e7_1
-    - setuptools =66.0.0 =pyhd8ed1ab_0
+    - setuptools =66.1.0 =pyhd8ed1ab_0
     - sip =6.7.5 =py39h23fbdae_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
@@ -287,7 +287,7 @@ requirements:
     - yapf =0.32.0 =pyhd8ed1ab_0
     - zeromq =4.3.4 =hbdafb3b_1
     - zipp =3.11.0 =pyhd8ed1ab_0
-    - zstd =1.5.2 =hf913c23_5
+    - zstd =1.5.2 =hf913c23_6
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

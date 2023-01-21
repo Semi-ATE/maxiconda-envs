@@ -35,7 +35,7 @@ requirements:
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =h8ffe710_4
     - ca-certificates =2022.12.7 =h5b45459_0
-    - cloudpickle =2.2.0 =pyhd8ed1ab_0
+    - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.2 =pyhd8ed1ab_0
     - debugpy =1.6.5 =py38hd3f51b4_0
@@ -86,7 +86,7 @@ requirements:
     - pywin32 =304 =py38hd3f51b4_2
     - pyzmq =25.0.0 =py38ha85f68a_0
     - qt-main =5.15.6 =h9580fe5_5
-    - setuptools =66.0.0 =pyhd8ed1ab_0
+    - setuptools =66.1.0 =pyhd8ed1ab_0
     - sip =6.7.5 =py38hd3f51b4_0
     - six =1.16.0 =pyh6c4a22f_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
@@ -103,7 +103,7 @@ requirements:
     - wheel =0.38.4 =pyhd8ed1ab_0
     - xz =5.2.6 =h8d14728_0
     - zeromq =4.3.4 =h0e60522_1
-    - zstd =1.5.2 =h12be248_5
+    - zstd =1.5.2 =h12be248_6
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

@@ -56,7 +56,7 @@ requirements:
     - cffi =1.15.1 =py39h68f70e3_3
     - cftime =1.6.2 =py39hc266a54_1
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
-    - cloudpickle =2.2.0 =pyhd8ed1ab_0
+    - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.2 =pyhd8ed1ab_0
     - contourpy =1.0.7 =py39h1f6ef14_0
@@ -190,7 +190,7 @@ requirements:
     - scikit-learn =1.2.0 =py39h6fe01c0_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - seaborn-base =0.12.2 =pyhd8ed1ab_0
-    - setuptools =66.0.0 =pyhd8ed1ab_0
+    - setuptools =66.1.0 =pyhd8ed1ab_0
     - sip =6.7.5 =py39h99910a6_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.46 =py39ha55989b_0
@@ -220,7 +220,7 @@ requirements:
     - xz =5.2.6 =h8d14728_0
     - zeromq =4.3.4 =h0e60522_1
     - zlib =1.2.13 =hcfcfb64_4
-    - zstd =1.5.2 =h12be248_5
+    - zstd =1.5.2 =h12be248_6
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

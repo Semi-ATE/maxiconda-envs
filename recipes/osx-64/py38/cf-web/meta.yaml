@@ -53,7 +53,7 @@ requirements:
     - certifi =2022.12.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38hb368cf1_3
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
-    - cloudpickle =2.2.0 =pyhd8ed1ab_0
+    - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - comm =0.1.2 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - cryptography =39.0.0 =py38h4257468_0
@@ -127,7 +127,7 @@ requirements:
     - qt-main =5.15.6 =haeff654_5
     - readline =8.1.2 =h3899abd_0
     - service_identity =18.1.0 =py_0
-    - setuptools =66.0.0 =pyhd8ed1ab_0
+    - setuptools =66.1.0 =pyhd8ed1ab_0
     - sip =6.7.5 =py38h4cd09af_0
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.3.2.post1 =pyhd8ed1ab_0
@@ -149,7 +149,7 @@ requirements:
     - yaml =0.2.5 =h0d85af4_2
     - zeromq =4.3.4 =he49afe7_1
     - zope.interface =5.5.2 =py38hef030d1_0
-    - zstd =1.5.2 =hbc0c0cd_5
+    - zstd =1.5.2 =hbc0c0cd_6
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

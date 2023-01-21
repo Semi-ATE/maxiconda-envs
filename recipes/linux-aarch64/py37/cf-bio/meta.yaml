@@ -49,7 +49,7 @@ requirements:
     - ca-certificates =2022.12.7 =h4fd8a4c_0
     - cairo =1.16.0 =hd19fb6e_1014
     - certifi =2022.12.7 =pyhd8ed1ab_0
-    - cloudpickle =2.2.0 =pyhd8ed1ab_0
+    - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h12b9eeb_3
     - debugpy =1.6.3 =py37hb20f0a7_0
@@ -140,8 +140,8 @@ requirements:
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mpg123 =1.31.2 =hd600fc2_0
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - mysql-common =8.0.31 =h224b56f_0
-    - mysql-libs =8.0.31 =h8735f6a_0
+    - mysql-common =8.0.32 =hed3ad84_0
+    - mysql-libs =8.0.32 =h42d7160_0
     - ncurses =6.3 =headf329_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - nspr =4.35 =h4de3ea5_0
@@ -208,7 +208,7 @@ requirements:
     - zeromq =4.3.4 =h01db608_1
     - zipp =3.11.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h4e544f5_4
-    - zstd =1.5.2 =h44f6412_5
+    - zstd =1.5.2 =h44f6412_6
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

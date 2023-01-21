@@ -55,7 +55,7 @@ requirements:
     - certifi =2022.12.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py39hb26bf21_3
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
-    - cloudpickle =2.2.0 =pyhd8ed1ab_0
+    - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - comm =0.1.2 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - cryptography =39.0.0 =py39h8a84b6a_0
@@ -136,8 +136,8 @@ requirements:
     - markupsafe =2.1.2 =py39h599bc27_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mpg123 =1.31.2 =hd600fc2_0
-    - mysql-common =8.0.31 =h224b56f_0
-    - mysql-libs =8.0.31 =h8735f6a_0
+    - mysql-common =8.0.32 =hed3ad84_0
+    - mysql-libs =8.0.32 =h42d7160_0
     - ncurses =6.3 =headf329_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - nspr =4.35 =h4de3ea5_0
@@ -170,7 +170,7 @@ requirements:
     - qt-main =5.15.6 =h9e5b47b_5
     - readline =8.1.2 =h38e3740_0
     - service_identity =18.1.0 =py_0
-    - setuptools =66.0.0 =pyhd8ed1ab_0
+    - setuptools =66.1.0 =pyhd8ed1ab_0
     - sip =6.7.5 =py39h7735e2f_0
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.3.2.post1 =pyhd8ed1ab_0
@@ -198,7 +198,7 @@ requirements:
     - yaml =0.2.5 =hf897c2e_2
     - zeromq =4.3.4 =h01db608_1
     - zope.interface =5.5.2 =py39hb9a1dbb_0
-    - zstd =1.5.2 =h44f6412_5
+    - zstd =1.5.2 =h44f6412_6
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
