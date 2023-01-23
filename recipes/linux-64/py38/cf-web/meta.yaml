@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =1.4.46 =py38h1de0b5d_0
     - twisted =22.10.0 =py38h0a891b7_0
 
-    # 164 secondary packages :
+    # 178 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h166bdaf_0
@@ -53,6 +53,7 @@ requirements:
     - brotlipy =0.7.0 =py38h0a891b7_1005
     - bzip2 =1.0.8 =h7f98852_4
     - ca-certificates =2022.12.7 =ha878542_0
+    - cairo =1.16.0 =ha61ee94_1014
     - certifi =2022.12.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38h4a40e3a_3
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
@@ -78,10 +79,12 @@ requirements:
     - gettext =0.21.1 =h27087fc_0
     - glib =2.74.1 =h6239696_1
     - glib-tools =2.74.1 =h6239696_1
+    - graphite2 =1.3.13 =h58526e2_1001
     - greenlet =2.0.1 =py38hfa26641_0
     - gst-plugins-base =1.21.3 =h4243ec0_1
     - gstreamer =1.21.3 =h25f0c4b_1
     - gstreamer-orc =0.4.33 =h166bdaf_0
+    - harfbuzz =6.0.0 =h8e241bc_0
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =70.1 =h27087fc_0
     - idna =3.4 =pyhd8ed1ab_0
@@ -150,6 +153,7 @@ requirements:
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pip =22.3.1 =pyhd8ed1ab_0
+    - pixman =0.40.0 =h36c2ea0_0
     - platformdirs =2.6.2 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - prompt-toolkit =3.0.36 =pyha770c72_0
@@ -168,7 +172,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pyzmq =25.0.0 =py38he24dcef_0
-    - qt-main =5.15.6 =hf6cd601_5
+    - qt-main =5.15.6 =h602db52_6
     - readline =8.1.2 =h0f457ee_0
     - service_identity =18.1.0 =py_0
     - setuptools =66.1.1 =pyhd8ed1ab_0
@@ -193,11 +197,21 @@ requirements:
     - xcb-util-keysyms =0.4.0 =h166bdaf_0
     - xcb-util-renderutil =0.3.9 =h166bdaf_0
     - xcb-util-wm =0.4.1 =h166bdaf_0
+    - xorg-kbproto =1.0.7 =h7f98852_1002
+    - xorg-libice =1.0.10 =h7f98852_0
+    - xorg-libsm =1.2.3 =hd9c2040_1000
+    - xorg-libx11 =1.7.2 =h7f98852_0
     - xorg-libxau =1.0.9 =h7f98852_0
     - xorg-libxdmcp =1.1.3 =h7f98852_0
+    - xorg-libxext =1.3.4 =h7f98852_1
+    - xorg-libxrender =0.9.10 =h7f98852_1003
+    - xorg-renderproto =0.11.1 =h7f98852_1002
+    - xorg-xextproto =7.3.0 =h7f98852_1002
+    - xorg-xproto =7.0.31 =h7f98852_1007
     - xz =5.2.6 =h166bdaf_0
     - yaml =0.2.5 =h7f98852_2
     - zeromq =4.3.4 =h9c3ff4c_1
+    - zlib =1.2.13 =h166bdaf_4
     - zope.interface =5.5.2 =py38h0a891b7_0
     - zstd =1.5.2 =h3eb15da_6
 
