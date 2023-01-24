@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.6.1 =py39ha55989b_0
     - cython =0.29.33 =py39h99910a6_0
     - grayskull =2.0.0 =pyhd8ed1ab_0
-    - hypothesis =6.63.0 =pyha770c72_0
+    - hypothesis =6.64.0 =pyha770c72_0
     - ipython =8.8.0 =pyh08f2357_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.6.3 =py39hcbf5309_0
@@ -261,13 +261,13 @@ requirements:
     - r-callr =3.7.3 =r41hc72bb7e_0
     - r-caret =6.0_93 =r41h6d2157b_1
     - r-cellranger =1.1.0 =r41hc72bb7e_1005
-    - r-class =7.3_20 =r41h6d2157b_1
+    - r-class =7.3_21 =r41h6d2157b_0
     - r-cli =3.6.0 =r41ha856d6a_0
     - r-clipr =0.8.0 =r41hc72bb7e_1
     - r-clock =0.6.1 =r41ha856d6a_1
     - r-cluster =2.1.4 =r41he816bda_0
     - r-codetools =0.2_18 =r41hc72bb7e_1
-    - r-colorspace =2.0_3 =r41h6d2157b_1
+    - r-colorspace =2.1_0 =r41h6d2157b_0
     - r-commonmark =1.8.1 =r41h6d2157b_0
     - r-cpp11 =0.4.3 =r41hc72bb7e_0
     - r-crayon =1.5.2 =r41hc72bb7e_1
@@ -282,7 +282,7 @@ requirements:
     - r-e1071 =1.7_12 =r41ha856d6a_0
     - r-ellipsis =0.3.2 =r41h6d2157b_1
     - r-evaluate =0.20 =r41hc72bb7e_0
-    - r-fansi =1.0.3 =r41h6d2157b_1
+    - r-fansi =1.0.4 =r41h6d2157b_0
     - r-farver =2.1.1 =r41ha856d6a_1
     - r-fastmap =1.1.0 =r41ha856d6a_1
     - r-fontawesome =0.4.0 =r41hc72bb7e_0
@@ -335,7 +335,7 @@ requirements:
     - r-lubridate =1.9.0 =r41h6d2157b_0
     - r-magrittr =2.0.3 =r41h6d2157b_1
     - r-maps =3.4.1 =r41h6d2157b_1
-    - r-mass =7.3_58.1 =r41h6d2157b_1
+    - r-mass =7.3_58.2 =r41h6d2157b_0
     - r-matrix =1.5_3 =r41hb9981e2_0
     - r-memoise =2.0.1 =r41hc72bb7e_1
     - r-mgcv =1.8_41 =r41hb9981e2_0
@@ -390,7 +390,7 @@ requirements:
     - r-shape =1.4.6 =r41ha770c72_1
     - r-shiny =1.7.4 =r41h785f33e_0
     - r-sourcetools =0.1.7 =r41ha856d6a_1003
-    - r-spatial =7.3_15 =r41h6d2157b_1
+    - r-spatial =7.3_16 =r41h6d2157b_0
     - r-squarem =2021.1 =r41hc72bb7e_1
     - r-stringi =1.7.12 =r41ha856d6a_0
     - r-stringr =1.5.0 =r41h785f33e_0
@@ -409,15 +409,15 @@ requirements:
     - r-urltools =1.7.3 =r41ha856d6a_3
     - r-utf8 =1.2.2 =r41h6d2157b_1
     - r-uuid =1.1_0 =r41h6d2157b_1
-    - r-vctrs =0.5.1 =r41ha856d6a_0
+    - r-vctrs =0.5.2 =r41ha856d6a_0
     - r-viridislite =0.4.1 =r41hc72bb7e_1
-    - r-vroom =1.6.0 =r41ha856d6a_1
+    - r-vroom =1.6.1 =r41ha856d6a_0
     - r-withr =2.5.0 =r41hc72bb7e_1
     - r-xfun =0.36 =r41ha856d6a_0
     - r-xml2 =1.3.3 =r41ha856d6a_2
     - r-xtable =1.8_4 =r41hc72bb7e_4
     - r-xts =0.12.2 =r41h6d2157b_0
-    - r-yaml =2.3.6 =r41h6d2157b_0
+    - r-yaml =2.3.7 =r41h6d2157b_0
     - r-zoo =1.8_11 =r41h6d2157b_1
     - rapidfuzz =2.13.7 =py39h99910a6_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
