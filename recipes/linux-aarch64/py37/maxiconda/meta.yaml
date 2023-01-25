@@ -81,7 +81,7 @@ requirements:
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py37h795501a_5
     - binutils_impl_linux-aarch64 =2.39 =h48546ad_1
-    - bleach =5.0.1 =pyhd8ed1ab_0
+    - bleach =6.0.0 =pyhd8ed1ab_0
     - brotli =1.0.9 =h4e544f5_8
     - brotli-bin =1.0.9 =h4e544f5_8
     - brotlipy =0.7.0 =py37h795501a_1004
@@ -232,9 +232,9 @@ requirements:
     - mysql-libs =8.0.32 =h42d7160_0
     - nbclassic =0.4.8 =pyhd8ed1ab_0
     - nbclient =0.7.0 =pyhd8ed1ab_0
-    - nbconvert =7.2.8 =pyhd8ed1ab_0
-    - nbconvert-core =7.2.8 =pyhd8ed1ab_0
-    - nbconvert-pandoc =7.2.8 =pyhd8ed1ab_0
+    - nbconvert =7.2.9 =pyhd8ed1ab_0
+    - nbconvert-core =7.2.9 =pyhd8ed1ab_0
+    - nbconvert-pandoc =7.2.9 =pyhd8ed1ab_0
     - nbformat =5.7.3 =pyhd8ed1ab_0
     - ncurses =6.3 =headf329_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
@@ -260,7 +260,7 @@ requirements:
     - pluggy =1.0.0 =py37hd9ded2f_3
     - ply =3.11 =py_1
     - progressbar2 =4.2.0 =pyhd8ed1ab_0
-    - prometheus_client =0.15.0 =pyhd8ed1ab_0
+    - prometheus_client =0.16.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.36 =pyha770c72_0
     - pthread-stubs =0.4 =hb9de7d4_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
@@ -323,7 +323,7 @@ requirements:
     - r-foreach =1.5.2 =r42hc72bb7e_1
     - r-foreign =0.8_84 =r42h4fed366_0
     - r-formatr =1.14 =r42hc72bb7e_0
-    - r-fs =1.5.2 =r42h526691d_2
+    - r-fs =1.6.0 =r42he0e9005_0
     - r-future =1.30.0 =r42hc72bb7e_0
     - r-future.apply =1.10.0 =r42hc72bb7e_0
     - r-gargle =1.2.1 =r42hc72bb7e_1
@@ -365,7 +365,7 @@ requirements:
     - r-lifecycle =1.0.3 =r42hc72bb7e_1
     - r-listenv =0.9.0 =r42hc72bb7e_0
     - r-lobstr =1.1.2 =r42he0e9005_2
-    - r-lubridate =1.9.0 =r42h4fed366_0
+    - r-lubridate =1.9.1 =r42h4fed366_0
     - r-magrittr =2.0.3 =r42h8e445f0_1
     - r-maps =3.4.1 =r42hc7730c6_1
     - r-mass =7.3_58.2 =r42h4fed366_0
@@ -417,7 +417,7 @@ requirements:
     - r-rpart =4.1.19 =r42h8e445f0_0
     - r-rstudioapi =0.14 =r42hc72bb7e_1
     - r-rvest =1.0.3 =r42hc72bb7e_1
-    - r-sass =0.4.4 =r42h526691d_0
+    - r-sass =0.4.5 =r42he0e9005_0
     - r-scales =1.2.1 =r42hc72bb7e_1
     - r-selectr =0.4_2 =r42hc72bb7e_2
     - r-shape =1.4.6 =r42ha770c72_1
