@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.15 =h4a9ceb5_0_cpython
+    - python =3.8.15 =he550d4f_1_cpython
   run:
-    - python =3.8.15 =h4a9ceb5_0_cpython
+    - python =3.8.15 =he550d4f_1_cpython
 
     # 38 primary packages :
     - aiohttp =3.8.3 =py38h0a891b7_1
@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.6.1 =py38h1de0b5d_0
     - cython =0.29.33 =py38h8dc9893_0
     - grayskull =2.1.0 =pyhd8ed1ab_0
-    - hypothesis =6.65.0 =pyha770c72_0
+    - hypothesis =6.65.1 =pyha770c72_0
     - ipython =8.8.0 =pyh41d4057_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.6.3 =py38h578d9bd_0
@@ -222,7 +222,7 @@ requirements:
     - libxml2 =2.10.3 =h7463322_0
     - libzlib =1.2.13 =h166bdaf_4
     - llvmlite =0.39.1 =py38h38d86a4_1
-    - lz4-c =1.9.3 =h9c3ff4c_1
+    - lz4-c =1.9.4 =hcb278e6_0
     - make =4.3 =hd18ef5c_1
     - markupsafe =2.1.2 =py38h1de0b5d_0
     - matplotlib-base =3.6.3 =py38hd6c3c57_0
@@ -328,7 +328,7 @@ requirements:
     - r-fansi =1.0.4 =r42h133d619_0
     - r-farver =2.1.1 =r42h7525677_1
     - r-fastmap =1.1.0 =r42h7525677_1
-    - r-fontawesome =0.4.0 =r42hc72bb7e_0
+    - r-fontawesome =0.5.0 =r42hc72bb7e_0
     - r-forcats =0.5.2 =r42hc72bb7e_1
     - r-foreach =1.5.2 =r42hc72bb7e_1
     - r-foreign =0.8_84 =r42h133d619_0
@@ -497,7 +497,7 @@ requirements:
     - urllib3 =1.26.14 =pyhd8ed1ab_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1
-    - websocket-client =1.4.2 =pyhd8ed1ab_0
+    - websocket-client =1.5.0 =pyhd8ed1ab_0
     - wheel =0.38.4 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =h166bdaf_0

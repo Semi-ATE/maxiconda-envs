@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.15 =h4a9ceb5_0_cpython
+    - python =3.8.15 =he550d4f_1_cpython
   run:
-    - python =3.8.15 =h4a9ceb5_0_cpython
+    - python =3.8.15 =he550d4f_1_cpython
 
     # 8 primary packages :
     - numpy =1.24.1 =py38hab0fcb9_0
@@ -31,7 +31,7 @@ requirements:
     - pyqt =5.15.7 =py38ha0d8c90_3
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
-    - pyvisa-py =0.6.0 =pyh1a96a4e_0
+    - pyvisa-py =0.6.1 =pyh1a96a4e_0
     - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
 
     # 159 secondary packages :
@@ -126,7 +126,7 @@ requirements:
     - libxkbcommon =1.0.3 =he3ba5ed_0
     - libxml2 =2.10.3 =h7463322_0
     - libzlib =1.2.13 =h166bdaf_4
-    - lz4-c =1.9.3 =h9c3ff4c_1
+    - lz4-c =1.9.4 =hcb278e6_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mpg123 =1.31.2 =hcb278e6_0
     - mysql-common =8.0.32 =ha901b37_0
