@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.6.1 =py38h91455d4_0
     - cython =0.29.33 =py38hd3f51b4_0
     - grayskull =2.1.0 =pyhd8ed1ab_0
-    - hypothesis =6.65.1 =pyha770c72_0
+    - hypothesis =6.65.2 =pyha770c72_0
     - ipython =8.8.0 =pyh08f2357_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.6.3 =py38haa244fe_0
@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.1 =r41hd8ed1ab_2003
     - regex =2022.10.31 =py38h91455d4_0
     - requests =2.28.2 =pyhd8ed1ab_0
-    - rust =1.66.1 =hf8d6059_0
+    - rust =1.67.0 =hf8d6059_0
     - scipy =1.10.0 =py38h0f6ee2a_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.2 =win_pyhd8ed1ab_0
@@ -208,7 +208,7 @@ requirements:
     - notebook =6.5.2 =pyha770c72_1
     - notebook-shim =0.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha2aaf27_2
-    - openssl =3.0.7 =hcfcfb64_1
+    - openssl =3.0.7 =hcfcfb64_2
     - packaging =23.0 =pyhd8ed1ab_0
     - pandoc =2.19.2 =h57928b3_1
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -376,7 +376,7 @@ requirements:
     - r-recommended =4.1 =r41hd8ed1ab_1005
     - r-rematch =1.0.1 =r41hc72bb7e_1005
     - r-rematch2 =2.1.2 =r41hc72bb7e_2
-    - r-repr =1.1.5 =r41h785f33e_0
+    - r-repr =1.1.6 =r41h785f33e_0
     - r-reprex =2.0.2 =r41hc72bb7e_1
     - r-reshape2 =1.4.4 =r41ha856d6a_2
     - r-rlang =1.0.6 =r41ha856d6a_1
@@ -425,7 +425,7 @@ requirements:
     - ruamel.yaml =0.17.21 =py38h91455d4_2
     - ruamel.yaml.clib =0.2.7 =py38h91455d4_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-pc-windows-msvc =1.66.1 =h69312b4_0
+    - rust-std-x86_64-pc-windows-msvc =1.67.0 =h69312b4_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =66.1.1 =pyhd8ed1ab_0
     - sip =6.7.5 =py38hd3f51b4_0

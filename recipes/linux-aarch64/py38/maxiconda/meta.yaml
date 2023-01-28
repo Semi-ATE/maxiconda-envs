@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.6.1 =py38hd5eba46_0
     - cython =0.29.33 =py38h31bd7b8_0
     - grayskull =2.1.0 =pyhd8ed1ab_0
-    - hypothesis =6.65.1 =pyha770c72_0
+    - hypothesis =6.65.2 =pyha770c72_0
     - ipython =8.8.0 =pyh41d4057_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.6.3 =py38h2063c64_0
@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.2 =r42hd8ed1ab_2003
     - regex =2022.10.31 =py38hdacc76a_0
     - requests =2.28.2 =pyhd8ed1ab_0
-    - rust =1.66.1 =h17c2ec1_0
+    - rust =1.67.0 =h17c2ec1_0
     - scipy =1.10.0 =py38h39f6eef_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
@@ -81,7 +81,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py38hdacc76a_7
-    - binutils_impl_linux-aarch64 =2.39 =h48546ad_1
+    - binutils_impl_linux-aarch64 =2.40 =h870a726_0
     - bleach =6.0.0 =pyhd8ed1ab_0
     - brotli =1.0.9 =h4e544f5_8
     - brotli-bin =1.0.9 =h4e544f5_8
@@ -118,7 +118,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =hab24e00_0
-    - fontconfig =2.14.1 =h77febde_0
+    - fontconfig =2.14.2 =ha9a116f_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.38.0 =py38hdacc76a_1
@@ -163,7 +163,7 @@ requirements:
     - krb5 =1.20.1 =h113d92e_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.14 =h7576be9_1
-    - ld_impl_linux-aarch64 =2.39 =h16cd69b_1
+    - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
     - libblas =3.9.0 =16_linuxaarch64_openblas
     - libbrotlicommon =1.0.9 =h4e544f5_8
@@ -248,7 +248,7 @@ requirements:
     - nspr =4.35 =h4de3ea5_0
     - nss =3.82 =h4b7554b_0
     - openjpeg =2.5.0 =h9508984_2
-    - openssl =3.0.7 =hb4cce97_1
+    - openssl =3.0.7 =hb4cce97_2
     - packaging =23.0 =pyhd8ed1ab_0
     - pandoc =2.19.2 =h8af1aa0_1
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -418,7 +418,7 @@ requirements:
     - r-recommended =4.2 =r42hd8ed1ab_1005
     - r-rematch =1.0.1 =r42hc72bb7e_1005
     - r-rematch2 =2.1.2 =r42hc72bb7e_2
-    - r-repr =1.1.5 =r42h785f33e_0
+    - r-repr =1.1.6 =r42h785f33e_0
     - r-reprex =2.0.2 =r42hc72bb7e_1
     - r-reshape2 =1.4.4 =r42h526691d_2
     - r-rlang =1.0.6 =r42h526691d_1
@@ -468,7 +468,7 @@ requirements:
     - ruamel.yaml =0.17.21 =py38hdacc76a_2
     - ruamel.yaml.clib =0.2.7 =py38hda48048_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-aarch64-unknown-linux-gnu =1.66.1 =ha15b78c_0
+    - rust-std-aarch64-unknown-linux-gnu =1.67.0 =ha15b78c_0
     - sed =4.8 =ha0d5d3d_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =66.1.1 =pyhd8ed1ab_0
