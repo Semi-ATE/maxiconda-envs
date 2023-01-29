@@ -29,9 +29,9 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.11.1 =pyha770c72_0
     - cython =0.29.33 =py38h2b1e499_0
-    - grayskull =2.1.0 =pyhd8ed1ab_0
+    - grayskull =2.2.0 =pyhd8ed1ab_0
     - hypothesis =6.65.2 =pyha770c72_0
-    - ipython =8.8.0 =pyhd1c38e8_0
+    - ipython =8.9.0 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.6.3 =py38h150bfb4_0
     - numba =0.56.4 =py38h947a10e_0
@@ -55,7 +55,7 @@ requirements:
     - scipy =1.10.0 =py38h7b4f323_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
-    - sqlalchemy =1.4.46 =py38hb991d35_0
+    - sqlalchemy =2.0.0 =py38hb991d35_0
     - sqlite =3.40.0 =h2229b38_0
     - sympy =1.11.1 =py38h10201cd_2
     - tqdm =4.64.1 =pyhd8ed1ab_0
@@ -135,7 +135,7 @@ requirements:
     - gmp =6.2.1 =h9f76cd9_0
     - gmpy2 =2.1.2 =py38h904d018_1
     - graphite2 =1.3.13 =h9f76cd9_1001
-    - greenlet =2.0.1 =py38h2b1e499_0
+    - greenlet =2.0.2 =py38h2b1e499_0
     - gsl =2.7 =h6e638da_0
     - gst-plugins-base =1.21.3 =h8b7775e_1
     - gstreamer =1.21.3 =hcb7b3dd_1
@@ -451,7 +451,7 @@ requirements:
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =66.1.1 =pyhd8ed1ab_0
     - sigtool =0.1.3 =h44b9a77_0
-    - sip =6.7.5 =py38h2b1e499_0
+    - sip =6.7.6 =py38h2b1e499_0
     - six =1.16.0 =pyh6c4a22f_0
     - sniffio =1.3.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
@@ -484,7 +484,7 @@ requirements:
     - yaml =0.2.5 =h3422bc3_2
     - yarl =1.8.2 =py38hb991d35_0
     - zeromq =4.3.4 =hbdafb3b_1
-    - zipp =3.11.0 =pyhd8ed1ab_0
+    - zipp =3.12.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h03a7124_4
     - zstd =1.5.2 =hf913c23_6
 
