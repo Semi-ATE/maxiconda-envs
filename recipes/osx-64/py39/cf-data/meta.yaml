@@ -51,7 +51,7 @@ requirements:
     - alembic =1.9.1 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.3 =pyhd8ed1ab_0
-    - arrow-cpp =10.0.1 =h88f4db0_4_cpu
+    - arrow-cpp =10.0.1 =h694c41f_5_cpu
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =22.2.0 =pyh71513ae_0
@@ -64,11 +64,11 @@ requirements:
     - aws-c-http =0.7.0 =h4f27208_0
     - aws-c-io =0.13.12 =hb3bb6ef_1
     - aws-c-mqtt =0.7.13 =h32e11d9_12
-    - aws-c-s3 =0.2.1 =h9eec77e_4
+    - aws-c-s3 =0.2.3 =h9eec77e_0
     - aws-c-sdkutils =0.1.7 =hfb1f584_0
     - aws-checksums =0.1.14 =hfb1f584_0
-    - aws-crt-cpp =0.18.16 =hb73098c_9
-    - aws-sdk-cpp =1.9.379 =h19d6a86_8
+    - aws-crt-cpp =0.18.16 =hd0be3c5_10
+    - aws-sdk-cpp =1.10.57 =h19d6a86_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -83,7 +83,7 @@ requirements:
     - ca-certificates =2022.12.7 =h033912b_0
     - cairo =1.16.0 =h904041c_1014
     - catalogue =2.0.8 =py39h6e9494a_1
-    - catboost =1.1.1 =py39h6e9494a_1
+    - catboost =1.1.1 =py39h6e9494a_2
     - certifi =2022.12.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py39h131948b_3
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
@@ -156,7 +156,7 @@ requirements:
     - importlib-metadata =6.0.0 =pyha770c72_0
     - importlib_resources =5.10.2 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - ipykernel =6.20.2 =pyh736e0ef_0
+    - ipykernel =6.21.0 =pyh736e0ef_0
     - ipython =8.9.0 =pyhd1c38e8_0
     - ipywidgets =8.0.4 =pyhd8ed1ab_0
     - itemadapter =0.7.0 =pyhd8ed1ab_0
@@ -169,7 +169,7 @@ requirements:
     - jpeg =9e =hac89ed1_2
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
-    - jupyter_core =5.1.5 =py39h6e9494a_0
+    - jupyter_core =5.2.0 =py39h6e9494a_0
     - jupyterlab_widgets =3.0.5 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py39h92daf61_1
     - kmodes =0.12.2 =pyhd8ed1ab_0
@@ -178,7 +178,7 @@ requirements:
     - lcms2 =2.14 =h29502cd_1
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20220623.0 =cxx17_h844d122_6
-    - libarrow =10.0.1 =h5398121_4_cpu
+    - libarrow =10.0.1 =h5364784_5_cpu
     - libblas =3.9.0 =16_osx64_openblas
     - libbrotlicommon =1.0.9 =hb7f2c08_8
     - libbrotlidec =1.0.9 =hb7f2c08_8
@@ -290,7 +290,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.1 =cpu_py39hb0a6171_0
-    - pyarrow =10.0.1 =py39h2db5b05_4_cpu
+    - pyarrow =10.0.1 =py39h56e7202_5_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -359,7 +359,7 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.2 =py39ha30fb19_1
     - tqdm =4.64.1 =pyhd8ed1ab_0
-    - traitlets =5.8.1 =pyhd8ed1ab_0
+    - traitlets =5.9.0 =pyhd8ed1ab_0
     - twisted =22.10.0 =py39ha30fb19_0
     - typer =0.7.0 =pyhd8ed1ab_0
     - typing-extensions =4.4.0 =hd8ed1ab_0
