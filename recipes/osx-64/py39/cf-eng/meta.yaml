@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.15 =h709bd14_0_cpython
+    - python =3.9.16 =h709bd14_0_cpython
   run:
-    - python =3.9.15 =h709bd14_0_cpython
+    - python =3.9.16 =h709bd14_0_cpython
 
     # 8 primary packages :
     - numpy =1.24.1 =py39h6ee2318_0

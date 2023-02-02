@@ -20,19 +20,19 @@ build:
 
 requirements:
   build:
-    - python =3.8.15 =h4de0772_1_cpython
+    - python =3.8.16 =h4de0772_1_cpython
   run:
-    - python =3.8.15 =h4de0772_1_cpython
+    - python =3.8.16 =h4de0772_1_cpython
 
     # 9 primary packages :
-    - beautifulsoup4 =4.11.1 =pyha770c72_0
+    - beautifulsoup4 =4.11.2 =pyha770c72_0
     - django =4.1.5 =pyhd8ed1ab_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - pyqt =5.15.7 =py38hd6c051e_3
     - pyyaml =6.0 =py38h91455d4_5
     - requests =2.28.2 =pyhd8ed1ab_0
     - spyder-kernels =2.4.2 =win_pyhd8ed1ab_0
-    - sqlalchemy =2.0.0 =py38h91455d4_0
+    - sqlalchemy =2.0.1 =py38h91455d4_0
     - twisted =22.10.0 =py38h91455d4_0
 
     # 106 secondary packages :

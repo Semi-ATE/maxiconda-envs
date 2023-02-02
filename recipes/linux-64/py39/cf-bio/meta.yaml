@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.15 =hba424b6_0_cpython
+    - python =3.9.16 =h2782a2a_0_cpython
   run:
-    - python =3.9.15 =hba424b6_0_cpython
+    - python =3.9.16 =h2782a2a_0_cpython
 
     # 10 primary packages :
     - biopython =1.80 =py39hb9d737c_0
@@ -234,7 +234,7 @@ requirements:
     - setuptools =66.1.1 =pyhd8ed1ab_0
     - sip =6.7.6 =py39h227be39_0
     - six =1.16.0 =pyh6c4a22f_0
-    - sqlalchemy =2.0.0 =py39h72bdee0_0
+    - sqlalchemy =2.0.1 =py39h72bdee0_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.13.5 =py39h2ae25f5_2
     - threadpoolctl =3.1.0 =pyh8a188c0_0

@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.15 =hea58f1e_0_cpython
+    - python =3.9.16 =hea58f1e_0_cpython
   run:
-    - python =3.9.15 =hea58f1e_0_cpython
+    - python =3.9.16 =hea58f1e_0_cpython
 
     # 10 primary packages :
     - biopython =1.80 =py39h02fc5c5_0
@@ -203,7 +203,7 @@ requirements:
     - setuptools =66.1.1 =pyhd8ed1ab_0
     - sip =6.7.6 =py39h23fbdae_0
     - six =1.16.0 =pyh6c4a22f_0
-    - sqlalchemy =2.0.0 =py39h02fc5c5_0
+    - sqlalchemy =2.0.1 =py39h02fc5c5_0
     - sqlite =3.40.0 =h2229b38_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.13.5 =py39h4d8bf0d_2
