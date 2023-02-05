@@ -35,7 +35,7 @@ requirements:
     - spyder =5.4.2 =py39h4420490_0
     - sympy =1.11.1 =py39h4420490_2
 
-    # 289 secondary packages :
+    # 288 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - alsa-lib =1.2.8 =h4e544f5_0
@@ -159,7 +159,6 @@ requirements:
     - libgomp =12.2.0 =h607ecd0_19
     - libgpg-error =1.46 =haae8ae4_0
     - libiconv =1.17 =h9cdd2b7_0
-    - libjpeg-turbo =2.1.4 =h4e544f5_0
     - liblapack =3.9.0 =16_linuxaarch64_openblas
     - libllvm15 =15.0.7 =h87099f9_0
     - libnsl =2.0.0 =hf897c2e_0
@@ -197,7 +196,7 @@ requirements:
     - mpg123 =1.31.2 =hd600fc2_0
     - mpmath =1.2.1 =pyhd8ed1ab_0
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - mypy_extensions =0.4.3 =py39h4420490_6
+    - mypy_extensions =1.0.0 =pyha770c72_0
     - mysql-common =8.0.32 =hed3ad84_0
     - mysql-libs =8.0.32 =h42d7160_0
     - nbclient =0.7.2 =pyhd8ed1ab_0
@@ -220,7 +219,7 @@ requirements:
     - pcre2 =10.40 =he7b27c6_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =9.4.0 =py39h32ea969_0
+    - pillow =9.4.0 =py39h72365ce_1
     - pip =23.0 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
     - platformdirs =2.6.2 =pyhd8ed1ab_0

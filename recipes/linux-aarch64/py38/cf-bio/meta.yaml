@@ -34,7 +34,7 @@ requirements:
     - scipy =1.10.0 =py38h39f6eef_0
     - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
 
-    # 191 secondary packages :
+    # 190 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h4e544f5_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -121,7 +121,6 @@ requirements:
     - libgomp =12.2.0 =h607ecd0_19
     - libgpg-error =1.46 =haae8ae4_0
     - libiconv =1.17 =h9cdd2b7_0
-    - libjpeg-turbo =2.1.4 =h4e544f5_0
     - liblapack =3.9.0 =16_linuxaarch64_openblas
     - libllvm15 =15.0.7 =h87099f9_0
     - libnsl =2.0.0 =hf897c2e_0
@@ -163,7 +162,7 @@ requirements:
     - pcre2 =10.40 =he7b27c6_0
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
-    - pillow =9.4.0 =py38hff6ed89_0
+    - pillow =9.4.0 =py38h4225b63_1
     - pip =23.0 =pyhd8ed1ab_0
     - pixman =0.40.0 =hb9de7d4_0
     - platformdirs =2.6.2 =pyhd8ed1ab_0

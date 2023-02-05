@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.6.2 =py39h599bc27_0
     - cython =0.29.33 =py39hdcdd789_0
     - grayskull =2.2.2 =pyhd8ed1ab_0
-    - hypothesis =6.66.0 =pyha770c72_0
+    - hypothesis =6.66.2 =pyha770c72_0
     - ipython =8.9.0 =pyh41d4057_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.6.3 =py39ha65689a_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.0.8 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 458 secondary packages :
+    # 457 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
@@ -191,7 +191,6 @@ requirements:
     - libgomp =12.2.0 =h607ecd0_19
     - libgpg-error =1.46 =haae8ae4_0
     - libiconv =1.17 =h9cdd2b7_0
-    - libjpeg-turbo =2.1.4 =h4e544f5_0
     - liblapack =3.9.0 =16_linuxaarch64_openblas
     - libllvm11 =11.1.0 =hb2805f8_5
     - libllvm15 =15.0.7 =h87099f9_0
@@ -257,7 +256,7 @@ requirements:
     - pcre2 =10.40 =he7b27c6_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =9.4.0 =py39h32ea969_0
+    - pillow =9.4.0 =py39h72365ce_1
     - pip =23.0 =pyhd8ed1ab_0
     - pixman =0.40.0 =hb9de7d4_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0

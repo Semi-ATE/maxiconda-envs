@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.13.5 =py39hc266a54_2
     - xgboost =1.7.1 =cpu_py39ha538f94_0
 
-    # 339 secondary packages :
+    # 338 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.9.1 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -191,7 +191,6 @@ requirements:
     - libgrpc =1.51.1 =hb074f84_1
     - libhwloc =2.8.0 =h039e092_1
     - libiconv =1.17 =h8ffe710_0
-    - libjpeg-turbo =2.1.4 =hcfcfb64_0
     - liblapack =3.9.0 =16_win64_openblas
     - libogg =1.3.4 =h8ffe710_1
     - libopenblas =0.3.21 =pthreads_h02691f0_0
@@ -255,7 +254,7 @@ requirements:
     - pcre2 =10.40 =h17e33f8_0
     - phik =0.12.3 =py39h0f24028_0
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =9.4.0 =py39h9767c21_0
+    - pillow =9.4.0 =py39hcebd2be_1
     - pip =23.0 =pyhd8ed1ab_0
     - pixman =0.40.0 =h8ffe710_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
