@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.11.2 =pyha770c72_0
     - cython =0.29.33 =py39h23fbdae_0
     - grayskull =2.2.2 =pyhd8ed1ab_0
-    - hypothesis =6.66.2 =pyha770c72_0
+    - hypothesis =6.67.0 =pyha770c72_0
     - ipython =8.9.0 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.6.3 =py39hdf13c20_0
@@ -52,7 +52,7 @@ requirements:
     - regex =2022.10.31 =py39h02fc5c5_0
     - requests =2.28.2 =pyhd8ed1ab_0
     - rust =1.67.0 =h4ff7c5d_0
-    - scipy =1.10.0 =py39h18313fe_0
+    - scipy =1.10.0 =py39h18313fe_2
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
     - sqlalchemy =2.0.1 =py39h02fc5c5_0
@@ -474,7 +474,7 @@ requirements:
     - urllib3 =1.26.14 =pyhd8ed1ab_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1
-    - websocket-client =1.5.0 =pyhd8ed1ab_0
+    - websocket-client =1.5.1 =pyhd8ed1ab_0
     - wheel =0.38.4 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xorg-libxau =1.0.9 =h27ca646_0
@@ -483,7 +483,7 @@ requirements:
     - yaml =0.2.5 =h3422bc3_2
     - yarl =1.8.2 =py39h02fc5c5_0
     - zeromq =4.3.4 =hbdafb3b_1
-    - zipp =3.12.0 =pyhd8ed1ab_0
+    - zipp =3.12.1 =pyhd8ed1ab_0
     - zlib =1.2.13 =h03a7124_4
     - zstd =1.5.2 =hf913c23_6
 

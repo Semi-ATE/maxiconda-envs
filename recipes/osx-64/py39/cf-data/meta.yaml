@@ -37,7 +37,7 @@ requirements:
     - pyqt =5.15.7 =py39h327fbb6_3
     - pytorch =1.13.1 =cpu_py39h0a103a1_0
     - scikit-learn =1.2.1 =py39hdbdcc14_0
-    - scipy =1.10.0 =py39h8a15683_0
+    - scipy =1.10.0 =py39h8a15683_2
     - scrapy =2.8.0 =py39h6e9494a_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
@@ -256,7 +256,7 @@ requirements:
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h13ac156_2
     - openssl =3.0.7 =hfd90126_2
-    - orc =1.8.2 =ha9d861c_1
+    - orc =1.8.2 =ha9d861c_2
     - packaging =23.0 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.50.12 =hbd9bf65_1
@@ -370,7 +370,7 @@ requirements:
     - w3lib =1.22.0 =pyh9f0ad1d_0
     - wasabi =1.1.1 =py39h6e9494a_1
     - wcwidth =0.2.6 =pyhd8ed1ab_0
-    - websocket-client =1.5.0 =pyhd8ed1ab_0
+    - websocket-client =1.5.1 =pyhd8ed1ab_0
     - werkzeug =2.2.2 =pyhd8ed1ab_0
     - wheel =0.38.4 =pyhd8ed1ab_0
     - widgetsnbextension =4.0.5 =pyhd8ed1ab_0
@@ -383,7 +383,7 @@ requirements:
     - yaml =0.2.5 =h0d85af4_2
     - yellowbrick =1.5 =pyhd8ed1ab_0
     - zeromq =4.3.4 =he49afe7_1
-    - zipp =3.12.0 =pyhd8ed1ab_0
+    - zipp =3.12.1 =pyhd8ed1ab_0
     - zlib =1.2.13 =hfd90126_4
     - zope.interface =5.5.2 =py39ha30fb19_0
     - zstd =1.5.2 =hbc0c0cd_6

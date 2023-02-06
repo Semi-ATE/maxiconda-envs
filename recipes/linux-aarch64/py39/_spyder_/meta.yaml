@@ -31,7 +31,7 @@ requirements:
     - pandas =1.5.3 =py39h1e1c27f_0
     - pyqt =5.15.7 =py39hd020858_3
     - pyqtwebengine =5.15.7 =py39h35ca6cc_3
-    - scipy =1.10.0 =py39hafab3e7_0
+    - scipy =1.10.0 =py39hafab3e7_2
     - spyder =5.4.2 =py39h4420490_0
     - sympy =1.11.1 =py39h4420490_2
 
@@ -41,7 +41,7 @@ requirements:
     - alsa-lib =1.2.8 =h4e544f5_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - arrow =1.2.3 =pyhd8ed1ab_0
-    - astroid =2.13.4 =py39h4420490_0
+    - astroid =2.14.1 =py39h4420490_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_0
     - attr =2.5.1 =h4e544f5_1
@@ -237,7 +237,7 @@ requirements:
     - pydocstyle =6.2.3 =pyhd8ed1ab_0
     - pyflakes =3.0.1 =pyhd8ed1ab_0
     - pygments =2.14.0 =pyhd8ed1ab_0
-    - pylint =2.15.10 =pyhd8ed1ab_0
+    - pylint =2.16.1 =pyhd8ed1ab_0
     - pylint-venv =2.3.0 =pyhd8ed1ab_0
     - pyls-spyder =0.4.0 =pyhd8ed1ab_0
     - pyopenssl =23.0.0 =pyhd8ed1ab_0
@@ -322,7 +322,7 @@ requirements:
     - yaml =0.2.5 =hf897c2e_2
     - yapf =0.32.0 =pyhd8ed1ab_0
     - zeromq =4.3.4 =h01db608_1
-    - zipp =3.12.0 =pyhd8ed1ab_0
+    - zipp =3.12.1 =pyhd8ed1ab_0
     - zstd =1.5.2 =h44f6412_6
 
 about:
