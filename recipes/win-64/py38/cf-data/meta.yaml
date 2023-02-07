@@ -45,11 +45,11 @@ requirements:
     - statsmodels =0.13.5 =py38hbaf524b_2
     - xgboost =1.7.1 =cpu_py38hc22ac66_0
 
-    # 337 secondary packages :
+    # 338 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.9.1 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
-    - arrow-cpp =11.0.0 =h57928b3_1_cpu
+    - arrow-cpp =11.0.0 =h57928b3_2_cpu
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - attrs =22.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
@@ -172,7 +172,7 @@ requirements:
     - lcms2 =2.14 =ha5c8aab_1
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20220623.0 =cxx17_h1a56200_6
-    - libarrow =11.0.0 =h04ae3b9_1_cpu
+    - libarrow =11.0.0 =h2be9b5f_2_cpu
     - libblas =3.9.0 =16_win64_openblas
     - libbrotlicommon =1.0.9 =hcfcfb64_8
     - libbrotlidec =1.0.9 =hcfcfb64_8
@@ -187,7 +187,7 @@ requirements:
     - libflang =5.0.0 =h6538335_20180525
     - libgd =2.3.3 =hf5a96e7_4
     - libglib =2.74.1 =he8f3873_1
-    - libgoogle-cloud =2.5.0 =h5fc25aa_1
+    - libgoogle-cloud =2.7.0 =h5fc25aa_0
     - libgrpc =1.51.1 =hb074f84_1
     - libhwloc =2.8.0 =h039e092_1
     - libiconv =1.17 =h8ffe710_0
@@ -242,6 +242,7 @@ requirements:
     - openjpeg =2.5.0 =ha2aaf27_2
     - openmp =5.0.0 =vc14_1
     - openssl =3.0.7 =hcfcfb64_2
+    - orc =1.8.2 =hada7b9e_2
     - packaging =23.0 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.50.12 =hdffb7b3_1
@@ -272,7 +273,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.1 =cpu_py38hc22ac66_0
-    - pyarrow =11.0.0 =py38hc72dcf3_1_cpu
+    - pyarrow =11.0.0 =py38hc72dcf3_2_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -315,7 +316,7 @@ requirements:
     - setuptools =67.1.0 =pyhd8ed1ab_0
     - shap =0.41.0 =py38hcc40339_0
     - shellingham =1.5.0.post1 =pyhd8ed1ab_0
-    - sip =6.7.6 =py38hd3f51b4_0
+    - sip =6.7.7 =py38hd3f51b4_0
     - six =1.16.0 =pyh6c4a22f_0
     - slicer =0.0.7 =pyhd8ed1ab_0
     - smart_open =5.2.1 =pyhd8ed1ab_0
