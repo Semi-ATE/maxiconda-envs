@@ -35,13 +35,13 @@ requirements:
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py39h6e9494a_3
     - pyqt =5.15.7 =py39h327fbb6_3
-    - pytorch =1.13.1 =cpu_py39h0a103a1_0
+    - pytorch =1.13.1 =cpu_py39he8d27a1_1
     - scikit-learn =1.2.1 =py39hdbdcc14_0
     - scipy =1.10.0 =py39h8a15683_2
     - scrapy =2.8.0 =py39h6e9494a_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.1 =py39ha30fb19_0
+    - sqlalchemy =2.0.2 =py39ha30fb19_0
     - sqlite =3.40.0 =h9ae0607_0
     - statsmodels =0.13.5 =py39h7cc1f47_2
     - xgboost =1.7.1 =cpu_py39hd182d69_0
@@ -197,7 +197,7 @@ requirements:
     - libgfortran =5.0.0 =11_3_0_h97931a8_27
     - libgfortran5 =11.3.0 =h082f757_27
     - libglib =2.74.1 =h4c723e1_1
-    - libgoogle-cloud =2.7.0 =hb5e37a9_0
+    - libgoogle-cloud =2.7.0 =hb5e37a9_1
     - libgrpc =1.51.1 =h1ddfa78_1
     - libiconv =1.17 =hac89ed1_0
     - liblapack =3.9.0 =16_osx64_openblas
@@ -274,7 +274,7 @@ requirements:
     - pip =23.0 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
-    - platformdirs =2.6.2 =pyhd8ed1ab_0
+    - platformdirs =3.0.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pooch =1.6.0 =pyhd8ed1ab_0
     - preshed =3.0.8 =py39h7a8716b_1
