@@ -56,7 +56,7 @@ requirements:
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - comm =0.1.2 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
-    - cryptography =39.0.0 =py39hbeae22c_0
+    - cryptography =39.0.1 =py39hbeae22c_0
     - debugpy =1.6.6 =py39h7a8716b_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
@@ -65,8 +65,8 @@ requirements:
     - glib =2.74.1 =hbc0c0cd_1
     - glib-tools =2.74.1 =hbc0c0cd_1
     - greenlet =2.0.2 =py39h7a8716b_0
-    - gst-plugins-base =1.21.3 =h37e1711_1
-    - gstreamer =1.21.3 =h1d18e73_1
+    - gst-plugins-base =1.22.0 =h37e1711_0
+    - gstreamer =1.22.0 =h1d18e73_0
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =70.1 =h96cf925_0
     - idna =3.4 =pyhd8ed1ab_0
@@ -101,7 +101,7 @@ requirements:
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
     - nss =3.78 =ha8197d3_0
-    - openssl =3.0.7 =hfd90126_2
+    - openssl =3.0.8 =hfd90126_0
     - packaging =23.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =h1c4e4bc_0
@@ -124,7 +124,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =3_cp39
     - pyzmq =25.0.0 =py39hed8f129_0
-    - qt-main =5.15.6 =haeff654_6
+    - qt-main =5.15.8 =h1d3b3f8_6
     - readline =8.1.2 =h3899abd_0
     - service_identity =18.1.0 =py_0
     - setuptools =67.1.0 =pyhd8ed1ab_0

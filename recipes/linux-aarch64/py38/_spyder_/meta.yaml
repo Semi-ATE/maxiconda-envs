@@ -70,7 +70,7 @@ requirements:
     - comm =0.1.2 =pyhd8ed1ab_0
     - contourpy =1.0.7 =py38h721baa8_0
     - cookiecutter =2.1.1 =pyh6c4a22f_0
-    - cryptography =39.0.0 =py38hd0a2be6_0
+    - cryptography =39.0.1 =py38hd0a2be6_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h12b9eeb_3
     - debugpy =1.6.6 =py38h31bd7b8_0
@@ -142,8 +142,8 @@ requirements:
     - libbrotlienc =1.0.9 =h4e544f5_8
     - libcap =2.66 =hbb70f59_0
     - libcblas =3.9.0 =16_linuxaarch64_openblas
-    - libclang =15.0.7 =default_h3fabc39_0
-    - libclang13 =15.0.7 =default_haf32b04_0
+    - libclang =15.0.7 =default_h3fabc39_1
+    - libclang13 =15.0.7 =default_haf32b04_1
     - libcups =2.3.3 =h4303303_3
     - libdb =6.2.32 =h01db608_0
     - libdeflate =1.17 =hb4cce97_0
@@ -210,7 +210,7 @@ requirements:
     - nss =3.82 =h4b7554b_0
     - numpydoc =1.5.0 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h9508984_2
-    - openssl =3.0.7 =hb4cce97_2
+    - openssl =3.0.8 =hb4cce97_0
     - packaging =23.0 =pyhd8ed1ab_0
     - pandoc =2.19.2 =h8af1aa0_1
     - pandocfilters =1.5.0 =pyhd8ed1ab_0

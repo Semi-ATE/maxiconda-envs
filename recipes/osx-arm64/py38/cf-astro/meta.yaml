@@ -45,8 +45,8 @@ requirements:
     - gettext =0.21.1 =h0186832_0
     - glib =2.74.1 =hb5ab8b9_1
     - glib-tools =2.74.1 =hb5ab8b9_1
-    - gst-plugins-base =1.21.3 =h8b7775e_1
-    - gstreamer =1.21.3 =hcb7b3dd_1
+    - gst-plugins-base =1.22.0 =h8b7775e_0
+    - gstreamer =1.22.0 =hcb7b3dd_0
     - icu =70.1 =h6b3803e_0
     - ipykernel =6.21.1 =pyh736e0ef_0
     - ipython =8.9.0 =pyhd1c38e8_0
@@ -78,7 +78,7 @@ requirements:
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - nspr =4.35 =hb7217d7_0
     - nss =3.78 =h1483a63_0
-    - openssl =3.0.7 =h03a7124_2
+    - openssl =3.0.8 =h03a7124_0
     - packaging =23.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =hb34f9b4_0
@@ -96,7 +96,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pyzmq =25.0.0 =py38hb72be9f_0
-    - qt-main =5.15.6 =hda43d4a_6
+    - qt-main =5.15.8 =hfe8d25c_6
     - readline =8.1.2 =h46ed386_0
     - setuptools =67.1.0 =pyhd8ed1ab_0
     - sip =6.7.7 =py38h2b1e499_0

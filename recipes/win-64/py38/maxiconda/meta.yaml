@@ -93,7 +93,7 @@ requirements:
     - comm =0.1.2 =pyhd8ed1ab_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.0.7 =py38hb1fd069_0
-    - cryptography =39.0.0 =py38h95f5157_0
+    - cryptography =39.0.1 =py38h95f5157_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.6 =py38hd3f51b4_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -110,8 +110,8 @@ requirements:
     - glib =2.74.1 =h12be248_1
     - glib-tools =2.74.1 =h12be248_1
     - greenlet =2.0.2 =py38hd3f51b4_0
-    - gst-plugins-base =1.21.3 =h001b923_1
-    - gstreamer =1.21.3 =h6b5321d_1
+    - gst-plugins-base =1.22.0 =h001b923_0
+    - gstreamer =1.22.0 =h6b5321d_0
     - icu =70.1 =h0e60522_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =6.0.0 =pyha770c72_0
@@ -138,8 +138,8 @@ requirements:
     - libbrotlidec =1.0.9 =hcfcfb64_8
     - libbrotlienc =1.0.9 =hcfcfb64_8
     - libcblas =3.9.0 =16_win64_mkl
-    - libclang =15.0.7 =default_h77d9078_0
-    - libclang13 =15.0.7 =default_h77d9078_0
+    - libclang =15.0.7 =default_h77d9078_1
+    - libclang13 =15.0.7 =default_h77d9078_1
     - libdeflate =1.17 =hcfcfb64_0
     - libffi =3.4.2 =h8ffe710_5
     - libglib =2.74.1 =he8f3873_1
@@ -207,7 +207,7 @@ requirements:
     - notebook =6.5.2 =pyha770c72_1
     - notebook-shim =0.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha2aaf27_2
-    - openssl =3.0.7 =hcfcfb64_2
+    - openssl =3.0.8 =hcfcfb64_0
     - packaging =23.0 =pyhd8ed1ab_0
     - pandoc =2.19.2 =h57928b3_1
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -244,7 +244,7 @@ requirements:
     - pywin32 =304 =py38hd3f51b4_2
     - pywinpty =2.0.10 =py38hd3f51b4_0
     - pyzmq =25.0.0 =py38ha85f68a_0
-    - qt-main =5.15.6 =h9580fe5_6
+    - qt-main =5.15.8 =h720456b_6
     - qtpy =2.3.0 =pyhd8ed1ab_0
     - r-askpass =1.1 =r41h6d2157b_3
     - r-assertthat =0.2.1 =r41hc72bb7e_3

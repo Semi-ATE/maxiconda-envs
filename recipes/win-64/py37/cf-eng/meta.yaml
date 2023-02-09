@@ -31,7 +31,7 @@ requirements:
     - pyqt =5.15.7 =py37h15e4627_1
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
-    - pyvisa-py =0.6.1 =pyh1a96a4e_0
+    - pyvisa-py =0.6.2 =pyh1a96a4e_0
     - spyder-kernels =2.4.2 =win_pyhd8ed1ab_0
 
     # 83 secondary packages :
@@ -49,8 +49,8 @@ requirements:
     - gettext =0.21.1 =h5728263_0
     - glib =2.74.1 =h12be248_1
     - glib-tools =2.74.1 =h12be248_1
-    - gst-plugins-base =1.21.3 =h001b923_1
-    - gstreamer =1.21.3 =h6b5321d_1
+    - gst-plugins-base =1.22.0 =h001b923_0
+    - gstreamer =1.22.0 =h6b5321d_0
     - icu =70.1 =h0e60522_0
     - importlib-metadata =4.11.4 =py37h03978a9_0
     - importlib_metadata =4.11.4 =hd8ed1ab_0
@@ -64,8 +64,8 @@ requirements:
     - krb5 =1.20.1 =heb0366b_0
     - libblas =3.9.0 =16_win64_mkl
     - libcblas =3.9.0 =16_win64_mkl
-    - libclang =15.0.7 =default_h77d9078_0
-    - libclang13 =15.0.7 =default_h77d9078_0
+    - libclang =15.0.7 =default_h77d9078_1
+    - libclang13 =15.0.7 =default_h77d9078_1
     - libffi =3.4.2 =h8ffe710_5
     - libglib =2.74.1 =he8f3873_1
     - libhwloc =2.8.0 =h039e092_1
@@ -82,7 +82,7 @@ requirements:
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mkl =2022.1.0 =h6a75c08_874
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
-    - openssl =3.0.7 =hcfcfb64_2
+    - openssl =3.0.8 =hcfcfb64_0
     - packaging =23.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =h17e33f8_0
@@ -100,7 +100,7 @@ requirements:
     - pyvisa =1.12.0 =py37h03978a9_0
     - pywin32 =303 =py37hcc03f2d_0
     - pyzmq =24.0.1 =py37h7347f05_0
-    - qt-main =5.15.6 =h9580fe5_6
+    - qt-main =5.15.8 =h720456b_6
     - setuptools =59.8.0 =py37h03978a9_1
     - sip =6.7.2 =py37h7f67f24_0
     - six =1.16.0 =pyh6c4a22f_0

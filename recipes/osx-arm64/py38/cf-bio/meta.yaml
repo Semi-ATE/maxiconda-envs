@@ -62,7 +62,7 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.2 =pyhd8ed1ab_0
     - contourpy =1.0.7 =py38h9dc3d6a_0
-    - cryptography =39.0.0 =py38h23f6d3d_0
+    - cryptography =39.0.1 =py38h23f6d3d_0
     - curl =7.87.0 =h9049daf_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.6 =py38h2b1e499_0
@@ -88,8 +88,8 @@ requirements:
     - greenlet =2.0.2 =py38h2b1e499_0
     - griddataformats =1.0.1 =pyhd8ed1ab_0
     - gsd =2.7.0 =py38hb39dbe9_1
-    - gst-plugins-base =1.21.3 =h8b7775e_1
-    - gstreamer =1.21.3 =hcb7b3dd_1
+    - gst-plugins-base =1.22.0 =h8b7775e_0
+    - gstreamer =1.22.0 =hcb7b3dd_0
     - h5py =3.8.0 =nompi_py38h2475068_100
     - hdf4 =4.2.15 =h1a38d6a_5
     - hdf5 =1.12.2 =nompi_ha7af310_101
@@ -159,7 +159,7 @@ requirements:
     - nspr =4.35 =hb7217d7_0
     - nss =3.78 =h1483a63_0
     - openjpeg =2.5.0 =hbc2ba62_2
-    - openssl =3.0.7 =h03a7124_2
+    - openssl =3.0.8 =h03a7124_0
     - packaging =23.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - patsy =0.5.3 =pyhd8ed1ab_0
@@ -192,7 +192,7 @@ requirements:
     - pytng =0.3.0 =py38h2346e95_0
     - pytz =2022.7.1 =pyhd8ed1ab_0
     - pyzmq =25.0.0 =py38hb72be9f_0
-    - qt-main =5.15.6 =hda43d4a_6
+    - qt-main =5.15.8 =hfe8d25c_6
     - readline =8.1.2 =h46ed386_0
     - reportlab =3.6.12 =py38hbfd35f9_2
     - requests =2.28.2 =pyhd8ed1ab_0
