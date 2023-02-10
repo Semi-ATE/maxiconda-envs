@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.7.0 =py38hd5eba46_0
     - cython =0.29.33 =py38h31bd7b8_0
     - grayskull =2.2.2 =pyhd8ed1ab_0
-    - hypothesis =6.67.1 =pyha770c72_0
+    - hypothesis =6.68.0 =pyha770c72_0
     - ipython =8.9.0 =pyh41d4057_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.6.3 =py38h2063c64_0
@@ -200,7 +200,7 @@ requirements:
     - libopenblas =0.3.21 =pthreads_h6cb6f83_3
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
-    - libpq =15.1 =hd21d9e6_3
+    - libpq =15.2 =hd21d9e6_0
     - libsanitizer =12.2.0 =hc13a102_19
     - libsndfile =1.2.0 =h693ebdd_0
     - libsodium =1.0.18 =hb9de7d4_1
@@ -282,7 +282,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-fastjsonschema =2.16.2 =pyhd8ed1ab_0
     - python-json-logger =2.0.4 =pyhd8ed1ab_0
-    - python-utils =3.4.5 =pyhd8ed1ab_0
+    - python-utils =3.5.1 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pytz =2022.7.1 =pyhd8ed1ab_0
     - pyzmq =25.0.0 =py38ha599cda_0
@@ -412,7 +412,7 @@ requirements:
     - r-rcolorbrewer =1.1_3 =r42h785f33e_1
     - r-rcpp =1.0.10 =r42he0e9005_0
     - r-readr =2.1.3 =r42h526691d_1
-    - r-readxl =1.4.1 =r42h75afb0f_1
+    - r-readxl =1.4.2 =r42h1b05734_0
     - r-recipes =1.0.4 =r42hc72bb7e_0
     - r-recommended =4.2 =r42hd8ed1ab_1005
     - r-rematch =1.0.1 =r42hc72bb7e_1005
@@ -519,7 +519,7 @@ requirements:
     - yaml =0.2.5 =hf897c2e_2
     - yarl =1.8.2 =py38hdacc76a_0
     - zeromq =4.3.4 =h01db608_1
-    - zipp =3.12.1 =pyhd8ed1ab_0
+    - zipp =3.13.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h4e544f5_4
     - zstd =1.5.2 =h44f6412_6
 
