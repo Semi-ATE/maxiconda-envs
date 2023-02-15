@@ -28,7 +28,7 @@ requirements:
     - beautifulsoup4 =4.11.2 =pyha770c72_0
     - bokeh =3.0.3 =pyhd8ed1ab_0
     - lightgbm =3.3.5 =py38hd3f51b4_0
-    - matplotlib =3.6.3 =py38haa244fe_0
+    - matplotlib =3.7.0 =py38haa244fe_0
     - numpy =1.23.5 =py38h90ce339_0
     - pandas =1.5.3 =py38h5846ac1_0
     - plotly =5.13.0 =pyhd8ed1ab_0
@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.13.5 =py38hbaf524b_2
     - xgboost =1.7.1 =cpu_py38hc22ac66_0
 
-    # 338 secondary packages :
+    # 339 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.9.3 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -148,6 +148,7 @@ requirements:
     - imagehash =4.3.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.10.1 =pyhd8ed1ab_0
     - importlib-metadata =6.0.0 =pyha770c72_0
+    - importlib-resources =5.10.2 =pyhd8ed1ab_0
     - importlib_resources =5.10.2 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.21.2 =pyh025b116_0
@@ -222,7 +223,7 @@ requirements:
     - mako =1.2.4 =pyhd8ed1ab_0
     - markdown =3.4.1 =pyhd8ed1ab_0
     - markupsafe =2.1.2 =py38h91455d4_0
-    - matplotlib-base =3.6.3 =py38h528a6c7_0
+    - matplotlib-base =3.7.0 =py38h528a6c7_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mlflow =1.27.0 =py38hdedce57_0
@@ -313,7 +314,7 @@ requirements:
     - rich =12.6.0 =pyhd8ed1ab_0
     - seaborn-base =0.12.2 =pyhd8ed1ab_0
     - service_identity =18.1.0 =py_0
-    - setuptools =67.1.0 =pyhd8ed1ab_0
+    - setuptools =67.3.1 =pyhd8ed1ab_0
     - shap =0.41.0 =py38hcc40339_0
     - shellingham =1.5.1 =pyhd8ed1ab_0
     - sip =6.7.7 =py38hd3f51b4_0
@@ -359,7 +360,7 @@ requirements:
     - wasabi =1.1.1 =py38haa244fe_1
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - websocket-client =1.5.1 =pyhd8ed1ab_0
-    - werkzeug =2.2.2 =pyhd8ed1ab_0
+    - werkzeug =2.2.3 =pyhd8ed1ab_0
     - wheel =0.38.4 =pyhd8ed1ab_0
     - widgetsnbextension =4.0.5 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py38haa244fe_5
