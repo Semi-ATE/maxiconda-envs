@@ -53,19 +53,19 @@ requirements:
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - attrs =22.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.6.23 =ha196094_1
-    - aws-c-cal =0.5.20 =he1c2654_4
-    - aws-c-common =0.8.9 =hcfcfb64_0
-    - aws-c-compression =0.2.16 =h6ac2469_1
-    - aws-c-event-stream =0.2.18 =h0f94bbc_2
-    - aws-c-http =0.7.3 =h51f5a2b_1
-    - aws-c-io =0.13.14 =h8cc9bab_3
-    - aws-c-mqtt =0.8.6 =h73c741a_1
-    - aws-c-s3 =0.2.3 =h7f24016_3
-    - aws-c-sdkutils =0.1.7 =h6ac2469_1
-    - aws-checksums =0.1.14 =h6ac2469_1
-    - aws-crt-cpp =0.18.16 =h343e5dd_13
-    - aws-sdk-cpp =1.10.57 =h23ab7d0_2
+    - aws-c-auth =0.6.24 =h70a2419_2
+    - aws-c-cal =0.5.20 =he7b4fd9_5
+    - aws-c-common =0.8.10 =hcfcfb64_0
+    - aws-c-compression =0.2.16 =h03e7ab0_2
+    - aws-c-event-stream =0.2.18 =h4940add_4
+    - aws-c-http =0.7.4 =he8bd823_0
+    - aws-c-io =0.13.15 =haee68bb_1
+    - aws-c-mqtt =0.8.6 =h4693608_3
+    - aws-c-s3 =0.2.4 =hd02cd85_0
+    - aws-c-sdkutils =0.1.7 =h03e7ab0_2
+    - aws-checksums =0.1.14 =h03e7ab0_2
+    - aws-crt-cpp =0.19.7 =hfbcc61c_3
+    - aws-sdk-cpp =1.10.57 =hfadcb20_3
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -279,7 +279,7 @@ requirements:
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic =1.10.4 =py38h91455d4_1
+    - pydantic =1.10.5 =py38h91455d4_0
     - pydispatcher =2.0.5 =py_1
     - pygments =2.14.0 =pyhd8ed1ab_0
     - pyjwt =2.6.0 =pyhd8ed1ab_0
@@ -314,7 +314,7 @@ requirements:
     - rich =12.6.0 =pyhd8ed1ab_0
     - seaborn-base =0.12.2 =pyhd8ed1ab_0
     - service_identity =18.1.0 =py_0
-    - setuptools =67.3.1 =pyhd8ed1ab_0
+    - setuptools =67.3.2 =pyhd8ed1ab_0
     - shap =0.41.0 =py38hcc40339_0
     - shellingham =1.5.1 =pyhd8ed1ab_0
     - sip =6.7.7 =py38hd3f51b4_0
