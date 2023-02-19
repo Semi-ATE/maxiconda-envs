@@ -40,12 +40,12 @@ requirements:
     - scrapy =2.8.0 =py38haa244fe_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.2 =win_pyhd8ed1ab_0
-    - sqlalchemy =2.0.3 =py38h91455d4_0
+    - sqlalchemy =2.0.4 =py38h91455d4_0
     - sqlite =3.40.0 =hcfcfb64_0
     - statsmodels =0.13.5 =py38hbaf524b_2
     - xgboost =1.7.1 =cpu_py38hc22ac66_0
 
-    # 339 secondary packages :
+    # 344 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.9.4 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -123,8 +123,10 @@ requirements:
     - fonttools =4.38.0 =py38h91455d4_1
     - freetype =2.12.1 =h546665d_1
     - fribidi =1.0.10 =h8d14728_0
+    - fst-pso =1.8.1 =pyhd8ed1ab_0
     - funcy =1.18 =pyhd8ed1ab_0
     - future =0.18.3 =pyhd8ed1ab_0
+    - fuzzytm =2.0.5 =pyhd8ed1ab_0
     - gensim =4.3.0 =py38h5846ac1_1
     - getopt-win32 =0.1 =h8ffe710_0
     - gettext =0.21.1 =h5728263_0
@@ -225,6 +227,7 @@ requirements:
     - markupsafe =2.1.2 =py38h91455d4_0
     - matplotlib-base =3.7.0 =py38h528a6c7_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
+    - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mlflow =1.27.0 =py38hdedce57_0
     - mlxtend =0.21.0 =pyhd8ed1ab_0
@@ -265,7 +268,7 @@ requirements:
     - pooch =1.6.0 =pyhd8ed1ab_0
     - preshed =3.0.8 =py38hd3f51b4_1
     - prometheus_client =0.16.0 =pyhd8ed1ab_0
-    - prometheus_flask_exporter =0.21.0 =pyhd8ed1ab_0
+    - prometheus_flask_exporter =0.22.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.36 =pyha770c72_0
     - protego =0.2.1 =pyhd8ed1ab_0
     - protobuf =4.21.12 =py38hd3f51b4_0
@@ -281,9 +284,10 @@ requirements:
     - pycparser =2.21 =pyhd8ed1ab_0
     - pydantic =1.10.5 =py38h91455d4_0
     - pydispatcher =2.0.5 =py_1
+    - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.14.0 =pyhd8ed1ab_0
     - pyjwt =2.6.0 =pyhd8ed1ab_0
-    - pyldavis =3.3.1 =pyhd8ed1ab_0
+    - pyldavis =3.4.0 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py38hbc1c497_2
     - pynndescent =0.5.8 =pyh1a96a4e_0
     - pyod =1.0.7 =pyhd8ed1ab_0
@@ -317,6 +321,7 @@ requirements:
     - setuptools =67.3.2 =pyhd8ed1ab_0
     - shap =0.41.0 =py38hcc40339_0
     - shellingham =1.5.1 =pyhd8ed1ab_0
+    - simpful =2.9.0 =pyhd8ed1ab_0
     - sip =6.7.7 =py38hd3f51b4_0
     - six =1.16.0 =pyh6c4a22f_0
     - slicer =0.0.7 =pyhd8ed1ab_0
@@ -381,7 +386,7 @@ requirements:
     - yaml =0.2.5 =h8ffe710_2
     - yellowbrick =1.5 =pyhd8ed1ab_0
     - zeromq =4.3.4 =h0e60522_1
-    - zipp =3.13.0 =pyhd8ed1ab_0
+    - zipp =3.14.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =hcfcfb64_4
     - zope.interface =5.5.2 =py38h91455d4_0
     - zstd =1.5.2 =h12be248_6

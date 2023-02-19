@@ -41,12 +41,12 @@ requirements:
     - scrapy =2.8.0 =py38h50d1736_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.3 =py38hef030d1_0
+    - sqlalchemy =2.0.4 =py38hef030d1_0
     - sqlite =3.40.0 =h9ae0607_0
     - statsmodels =0.13.5 =py38hbd87e4b_2
     - xgboost =1.7.1 =cpu_py38ha5ba132_0
 
-    # 340 secondary packages :
+    # 345 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.9.4 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -126,8 +126,10 @@ requirements:
     - fonttools =4.38.0 =py38hef030d1_1
     - freetype =2.12.1 =h3f81eb7_1
     - fribidi =1.0.10 =hbcb3906_0
+    - fst-pso =1.8.1 =pyhd8ed1ab_0
     - funcy =1.18 =pyhd8ed1ab_0
     - future =0.18.3 =pyhd8ed1ab_0
+    - fuzzytm =2.0.5 =pyhd8ed1ab_0
     - gdk-pixbuf =2.42.10 =he00a9fc_0
     - gensim =4.3.0 =py38hec72209_1
     - gettext =0.21.1 =h8a4c099_0
@@ -195,8 +197,8 @@ requirements:
     - libevent =2.1.10 =h7d65743_4
     - libffi =3.4.2 =h0d85af4_5
     - libgd =2.3.3 =h4685329_4
-    - libgfortran =5.0.0 =11_3_0_h97931a8_27
-    - libgfortran5 =11.3.0 =h082f757_27
+    - libgfortran =5.0.0 =10_4_0_h97931a8_28
+    - libgfortran5 =11.3.0 =h082f757_28
     - libglib =2.74.1 =h4c723e1_1
     - libgoogle-cloud =2.7.0 =hb5e37a9_1
     - libgrpc =1.51.1 =h1ddfa78_1
@@ -236,6 +238,7 @@ requirements:
     - markupsafe =2.1.2 =py38hef030d1_0
     - matplotlib-base =3.7.0 =py38hcb346ec_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
+    - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mkl =2022.2.1 =h44ed08c_16952
     - mlflow =1.27.0 =py38hf6bc2c6_0
@@ -280,7 +283,7 @@ requirements:
     - pooch =1.6.0 =pyhd8ed1ab_0
     - preshed =3.0.8 =py38h4cd09af_1
     - prometheus_client =0.16.0 =pyhd8ed1ab_0
-    - prometheus_flask_exporter =0.21.0 =pyhd8ed1ab_0
+    - prometheus_flask_exporter =0.22.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.36 =pyha770c72_0
     - protego =0.2.1 =pyhd8ed1ab_0
     - protobuf =4.21.12 =py38h4cd09af_0
@@ -296,9 +299,10 @@ requirements:
     - pycparser =2.21 =pyhd8ed1ab_0
     - pydantic =1.10.5 =py38hef030d1_0
     - pydispatcher =2.0.5 =py_1
+    - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.14.0 =pyhd8ed1ab_0
     - pyjwt =2.6.0 =pyhd8ed1ab_0
-    - pyldavis =3.3.1 =pyhd8ed1ab_0
+    - pyldavis =3.4.0 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py38hef030d1_2
     - pynndescent =0.5.8 =pyh1a96a4e_0
     - pyod =1.0.7 =pyhd8ed1ab_0
@@ -332,6 +336,7 @@ requirements:
     - setuptools =67.3.2 =pyhd8ed1ab_0
     - shap =0.41.0 =py38h2b30649_0
     - shellingham =1.5.1 =pyhd8ed1ab_0
+    - simpful =2.9.0 =pyhd8ed1ab_0
     - sip =6.7.7 =py38h4cd09af_0
     - six =1.16.0 =pyh6c4a22f_0
     - sleef =3.5.1 =h6db0672_2
@@ -383,7 +388,7 @@ requirements:
     - yaml =0.2.5 =h0d85af4_2
     - yellowbrick =1.5 =pyhd8ed1ab_0
     - zeromq =4.3.4 =he49afe7_1
-    - zipp =3.13.0 =pyhd8ed1ab_0
+    - zipp =3.14.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =hfd90126_4
     - zope.interface =5.5.2 =py38hef030d1_0
     - zstd =1.5.2 =hbc0c0cd_6
