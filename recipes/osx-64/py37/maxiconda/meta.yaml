@@ -100,7 +100,7 @@ requirements:
     - compiler-rt =14.0.6 =h613da45_0
     - compiler-rt_osx-64 =14.0.6 =hab78ec2_0
     - cryptography =38.0.2 =py37hbf3704f_1
-    - curl =7.88.0 =h6df9250_0
+    - curl =7.88.1 =h6df9250_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.3 =py37hf6dfe07_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -138,7 +138,7 @@ requirements:
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =4.11.4 =py37hf985489_0
     - importlib_metadata =4.11.4 =hd8ed1ab_0
-    - importlib_resources =5.10.2 =pyhd8ed1ab_0
+    - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
     - ipykernel =6.16.2 =pyh736e0ef_0
     - ipython_genutils =0.2.0 =py_1
@@ -159,7 +159,7 @@ requirements:
     - libcblas =3.9.0 =16_osx64_openblas
     - libclang =13.0.1 =default_he082bbe_0
     - libclang-cpp14 =14.0.6 =default_h55ffa42_0
-    - libcurl =7.88.0 =h6df9250_0
+    - libcurl =7.88.1 =h6df9250_0
     - libcxx =14.0.6 =hccf4f1f_0
     - libdeflate =1.17 =hac1461d_0
     - libedit =3.1.20191231 =h0678c8f_2
@@ -218,7 +218,7 @@ requirements:
     - packaging =23.0 =pyhd8ed1ab_0
     - pandoc =2.19.2 =h694c41f_1
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.50.12 =hbd9bf65_1
+    - pango =1.50.13 =hbd9bf65_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =h1c4e4bc_0
     - perl =5.32.1 =2_h0d85af4_perl5

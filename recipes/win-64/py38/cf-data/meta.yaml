@@ -150,8 +150,8 @@ requirements:
     - imagehash =4.3.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.10.1 =pyhd8ed1ab_0
     - importlib-metadata =6.0.0 =pyha770c72_0
-    - importlib-resources =5.10.2 =pyhd8ed1ab_0
-    - importlib_resources =5.10.2 =pyhd8ed1ab_0
+    - importlib-resources =5.12.0 =pyhd8ed1ab_0
+    - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.21.2 =pyh025b116_0
     - ipython =8.10.0 =pyh08f2357_0
@@ -184,7 +184,7 @@ requirements:
     - libclang =15.0.7 =default_h77d9078_1
     - libclang13 =15.0.7 =default_h77d9078_1
     - libcrc32c =1.1.2 =h0e60522_0
-    - libcurl =7.88.0 =h68f0423_0
+    - libcurl =7.88.1 =h68f0423_0
     - libdeflate =1.17 =hcfcfb64_0
     - libffi =3.4.2 =h8ffe710_5
     - libflang =5.0.0 =h6538335_20180525
@@ -249,7 +249,7 @@ requirements:
     - orc =1.8.2 =hada7b9e_2
     - packaging =23.0 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
-    - pango =1.50.12 =hdffb7b3_1
+    - pango =1.50.13 =hdffb7b3_0
     - paramiko =3.0.0 =pyhd8ed1ab_0
     - parquet-cpp =1.5.1 =1
     - parsel =1.7.0 =pyhd8ed1ab_0

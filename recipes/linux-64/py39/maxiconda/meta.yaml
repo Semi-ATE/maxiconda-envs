@@ -102,7 +102,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.0.7 =py39h4b4f3f3_0
     - cryptography =39.0.1 =py39h079d5ae_0
-    - curl =7.88.0 =hdc1c0ab_0
+    - curl =7.88.1 =hdc1c0ab_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
     - debugpy =1.6.6 =py39h227be39_0
@@ -144,8 +144,8 @@ requirements:
     - icu =70.1 =h27087fc_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =6.0.0 =pyha770c72_0
-    - importlib-resources =5.10.2 =pyhd8ed1ab_0
-    - importlib_resources =5.10.2 =pyhd8ed1ab_0
+    - importlib-resources =5.12.0 =pyhd8ed1ab_0
+    - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
     - ipykernel =6.21.2 =pyh210e3f2_0
     - ipython_genutils =0.2.0 =py_1
@@ -176,7 +176,7 @@ requirements:
     - libclang =15.0.7 =default_had23c3d_1
     - libclang13 =15.0.7 =default_h3e3d535_1
     - libcups =2.3.3 =h36d4200_3
-    - libcurl =7.88.0 =hdc1c0ab_0
+    - libcurl =7.88.1 =hdc1c0ab_0
     - libdb =6.2.32 =h9c3ff4c_0
     - libdeflate =1.17 =h0b41bf4_0
     - libedit =3.1.20191231 =he28a2e2_2
@@ -253,7 +253,7 @@ requirements:
     - packaging =23.0 =pyhd8ed1ab_0
     - pandoc =2.19.2 =h32600fe_1
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.50.12 =hd33c08f_1
+    - pango =1.50.13 =hd33c08f_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =hc3806b6_0
     - pexpect =4.8.0 =pyh1a96a4e_2
