@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.0.8 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 423 secondary packages :
+    # 427 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.6.2 =pyhd8ed1ab_0
@@ -261,7 +261,7 @@ requirements:
     - pysocks =1.7.1 =py38h10201cd_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-fastjsonschema =2.16.2 =pyhd8ed1ab_0
-    - python-json-logger =2.0.6 =pyhd8ed1ab_0
+    - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-utils =3.5.2 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pytz =2022.7.1 =pyhd8ed1ab_0
@@ -290,6 +290,7 @@ requirements:
     - r-codetools =0.2_19 =r42hc72bb7e_0
     - r-colorspace =2.1_0 =r42h5d63f41_0
     - r-commonmark =1.8.1 =r42h5d63f41_0
+    - r-conflicted =1.2.0 =r42h785f33e_0
     - r-cpp11 =0.4.3 =r42hc72bb7e_0
     - r-crayon =1.5.2 =r42hc72bb7e_1
     - r-crul =1.3 =r42h785f33e_1
@@ -353,7 +354,7 @@ requirements:
     - r-lifecycle =1.0.3 =r42hc72bb7e_1
     - r-listenv =0.9.0 =r42hc72bb7e_0
     - r-lobstr =1.1.2 =r42h9a38a31_2
-    - r-lubridate =1.9.1 =r42h5d63f41_0
+    - r-lubridate =1.9.2 =r42h5d63f41_1
     - r-magrittr =2.0.3 =r42h5d63f41_1
     - r-maps =3.4.1 =r42h5d63f41_1
     - r-mass =7.3_58.2 =r42h5d63f41_0
@@ -386,6 +387,7 @@ requirements:
     - r-purrr =1.0.1 =r42h5d63f41_0
     - r-quantmod =0.4.20 =r42hc72bb7e_1
     - r-r6 =2.5.1 =r42hc72bb7e_1
+    - r-ragg =1.2.5 =r42h7c62015_0
     - r-randomforest =4.7_1.1 =r42h505ec0b_1
     - r-rappdirs =0.3.3 =r42h5d63f41_1
     - r-rbokeh =0.5.2 =r42hc72bb7e_2
@@ -417,10 +419,12 @@ requirements:
     - r-stringr =1.5.0 =r42h785f33e_0
     - r-survival =3.5_3 =r42h5d63f41_0
     - r-sys =3.4.1 =r42h5d63f41_0
+    - r-systemfonts =1.0.4 =r42h131deae_1
+    - r-textshaping =0.3.6 =r42h89424e7_4
     - r-tibble =3.1.8 =r42h5d63f41_1
     - r-tidyr =1.3.0 =r42h9a38a31_0
     - r-tidyselect =1.2.0 =r42h011812f_0
-    - r-tidyverse =1.3.2 =r42hc72bb7e_1
+    - r-tidyverse =2.0.0 =r42h785f33e_0
     - r-timechange =0.2.0 =r42h9a38a31_0
     - r-timedate =4022.108 =r42hc72bb7e_0
     - r-tinytex =0.44 =r42hc72bb7e_0
@@ -449,7 +453,7 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-aarch64-apple-darwin =1.67.1 =hf1a8007_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =67.3.2 =pyhd8ed1ab_0
+    - setuptools =67.4.0 =pyhd8ed1ab_0
     - sigtool =0.1.3 =h44b9a77_0
     - sip =6.7.7 =py38h2b1e499_0
     - six =1.16.0 =pyh6c4a22f_0
