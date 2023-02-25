@@ -31,7 +31,7 @@ requirements:
     - matplotlib =3.7.0 =py38h50d1736_0
     - numpy =1.23.5 =py38hc2f29e8_0
     - pandas =1.5.3 =py38hec72209_0
-    - plotly =5.13.0 =pyhd8ed1ab_0
+    - plotly =5.13.1 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py38h50d1736_3
     - pyqt =5.15.7 =py38h872f513_3
@@ -56,19 +56,19 @@ requirements:
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =22.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.6.24 =h422b843_4
-    - aws-c-cal =0.5.20 =h5416995_5
-    - aws-c-common =0.8.10 =hb7f2c08_0
-    - aws-c-compression =0.2.16 =h288e6d0_2
-    - aws-c-event-stream =0.2.18 =hf8dada5_5
-    - aws-c-http =0.7.4 =hb598cb7_1
-    - aws-c-io =0.13.17 =h3b40e00_1
-    - aws-c-mqtt =0.8.6 =h777da7f_5
-    - aws-c-s3 =0.2.4 =h1121c18_2
-    - aws-c-sdkutils =0.1.7 =h288e6d0_2
-    - aws-checksums =0.1.14 =h288e6d0_2
-    - aws-crt-cpp =0.19.7 =hd2fdb20_6
-    - aws-sdk-cpp =1.10.57 =h023ad5b_3
+    - aws-c-auth =0.6.24 =h8d3cba3_5
+    - aws-c-cal =0.5.20 =hcd718c4_6
+    - aws-c-common =0.8.11 =hb7f2c08_0
+    - aws-c-compression =0.2.16 =hdd9fac5_3
+    - aws-c-event-stream =0.2.18 =hc78af93_6
+    - aws-c-http =0.7.4 =h555b4b3_2
+    - aws-c-io =0.13.17 =ha3dd007_2
+    - aws-c-mqtt =0.8.6 =h3ff12dd_6
+    - aws-c-s3 =0.2.4 =hcc306eb_3
+    - aws-c-sdkutils =0.1.7 =hdd9fac5_3
+    - aws-checksums =0.1.14 =hdd9fac5_3
+    - aws-crt-cpp =0.19.7 =h197cfde_7
+    - aws-sdk-cpp =1.10.57 =h6d45362_4
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -246,8 +246,8 @@ requirements:
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.9 =py38h4cd09af_1
-    - mysql-common =8.0.31 =hc4b2c72_0
-    - mysql-libs =8.0.31 =h8658499_0
+    - mysql-common =8.0.32 =hc4b2c72_0
+    - mysql-libs =8.0.32 =h8658499_0
     - nbformat =5.7.3 =pyhd8ed1ab_0
     - ncurses =6.3 =h96cf925_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
