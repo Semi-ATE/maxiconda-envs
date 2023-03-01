@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.4 =py38hd5eba46_0
     - twisted =22.10.0 =py38h81aae68_0
 
-    # 177 secondary packages :
+    # 178 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h4e544f5_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -89,7 +89,7 @@ requirements:
     - idna =3.4 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.21.2 =pyh210e3f2_0
-    - ipython =8.10.0 =pyh41d4057_0
+    - ipython =8.11.0 =pyh41d4057_0
     - jack =1.9.22 =hf8b18a5_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jpeg =9e =h2a766a3_3
@@ -155,7 +155,8 @@ requirements:
     - pixman =0.40.0 =hb9de7d4_0
     - platformdirs =3.0.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
-    - prompt-toolkit =3.0.36 =pyha770c72_0
+    - prompt-toolkit =3.0.38 =pyha770c72_0
+    - prompt_toolkit =3.0.38 =hd8ed1ab_0
     - psutil =5.9.4 =py38hdacc76a_0
     - pthread-stubs =0.4 =hb9de7d4_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
@@ -199,7 +200,7 @@ requirements:
     - xorg-kbproto =1.0.7 =h3557bc0_1002
     - xorg-libice =1.0.10 =h3557bc0_0
     - xorg-libsm =1.2.3 =h965e137_1000
-    - xorg-libx11 =1.7.2 =h3557bc0_0
+    - xorg-libx11 =1.8.4 =h2a766a3_0
     - xorg-libxau =1.0.9 =h3557bc0_0
     - xorg-libxdmcp =1.1.3 =h3557bc0_0
     - xorg-libxext =1.3.4 =h2a766a3_2

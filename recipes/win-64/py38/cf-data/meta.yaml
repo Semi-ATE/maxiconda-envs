@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.13.5 =py38hbaf524b_2
     - xgboost =1.7.1 =cpu_py38hc22ac66_0
 
-    # 344 secondary packages :
+    # 345 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.9.4 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -154,7 +154,7 @@ requirements:
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.21.2 =pyh025b116_0
-    - ipython =8.10.0 =pyh08f2357_0
+    - ipython =8.11.0 =pyh08f2357_0
     - ipywidgets =8.0.4 =pyhd8ed1ab_0
     - itemadapter =0.7.0 =pyhd8ed1ab_0
     - itemloaders =1.0.6 =pyhd8ed1ab_0
@@ -265,11 +265,12 @@ requirements:
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
     - platformdirs =3.0.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
-    - pooch =1.6.0 =pyhd8ed1ab_0
+    - pooch =1.7.0 =pyhd8ed1ab_0
     - preshed =3.0.8 =py38hd3f51b4_1
     - prometheus_client =0.16.0 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.22.2 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.36 =pyha770c72_0
+    - prompt-toolkit =3.0.38 =pyha770c72_0
+    - prompt_toolkit =3.0.38 =hd8ed1ab_0
     - protego =0.2.1 =pyhd8ed1ab_0
     - protobuf =4.21.12 =py38hd3f51b4_0
     - psutil =5.9.4 =py38h91455d4_0
@@ -338,7 +339,7 @@ requirements:
     - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.8.0 =h91493d7_0
-    - tenacity =8.2.1 =pyhd8ed1ab_0
+    - tenacity =8.2.2 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
     - thinc =8.1.7 =py38h137dd97_0
     - threadpoolctl =3.1.0 =pyh8a188c0_0
@@ -373,7 +374,7 @@ requirements:
     - xorg-kbproto =1.0.7 =hcd874cb_1002
     - xorg-libice =1.0.10 =hcd874cb_0
     - xorg-libsm =1.2.3 =hcd874cb_1000
-    - xorg-libx11 =1.7.2 =hcd874cb_0
+    - xorg-libx11 =1.8.4 =hcd874cb_0
     - xorg-libxau =1.0.9 =hcd874cb_0
     - xorg-libxdmcp =1.1.3 =hcd874cb_0
     - xorg-libxext =1.3.4 =hcd874cb_2

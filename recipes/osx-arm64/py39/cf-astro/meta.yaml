@@ -28,7 +28,7 @@ requirements:
     - pyqt =5.15.7 =py39h7fba1b6_3
     - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
 
-    # 86 secondary packages :
+    # 87 secondary packages :
     - appnope =0.1.3 =pyhd8ed1ab_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -49,7 +49,7 @@ requirements:
     - gstreamer =1.22.0 =hcb7b3dd_0
     - icu =70.1 =h6b3803e_0
     - ipykernel =6.21.2 =pyh736e0ef_0
-    - ipython =8.10.0 =pyhd1c38e8_0
+    - ipython =8.11.0 =pyhd1c38e8_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jpeg =9e =h1a8c8d9_3
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
@@ -87,7 +87,8 @@ requirements:
     - pip =23.0.1 =pyhd8ed1ab_0
     - platformdirs =3.0.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
-    - prompt-toolkit =3.0.36 =pyha770c72_0
+    - prompt-toolkit =3.0.38 =pyha770c72_0
+    - prompt_toolkit =3.0.38 =hd8ed1ab_0
     - psutil =5.9.4 =py39h02fc5c5_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
