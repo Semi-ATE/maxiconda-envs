@@ -61,7 +61,7 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.2 =pyhd8ed1ab_0
     - contourpy =1.0.7 =py38h9dc3d6a_0
-    - cryptography =39.0.1 =py38h23f6d3d_0
+    - cryptography =39.0.2 =py38h23f6d3d_0
     - curl =7.88.1 =h9049daf_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.6 =py38h2b1e499_0
@@ -121,8 +121,8 @@ requirements:
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libev =4.33 =h642e427_1
     - libffi =3.4.2 =h3422bc3_5
-    - libgfortran =5.0.0 =11_3_0_hd922786_28
-    - libgfortran5 =11.3.0 =hdaf2cc0_28
+    - libgfortran =5.0.0 =12_2_0_hd922786_29
+    - libgfortran5 =12.2.0 =h0eea778_29
     - libglib =2.74.1 =h4646484_1
     - libiconv =1.17 =he4db4b2_0
     - liblapack =3.9.0 =16_osxarm64_openblas
@@ -171,7 +171,7 @@ requirements:
     - pillow =9.4.0 =py38h1bb68ce_1
     - pip =23.0.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h27ca646_0
-    - platformdirs =3.0.0 =pyhd8ed1ab_0
+    - platformdirs =3.1.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pmw =2.0.1 =py38h10201cd_1007
     - pooch =1.7.0 =pyhd8ed1ab_0
@@ -212,7 +212,7 @@ requirements:
     - tk =8.6.12 =he1e0b03_0
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.2 =py38hb991d35_1
-    - tqdm =4.64.1 =pyhd8ed1ab_0
+    - tqdm =4.65.0 =pyhd8ed1ab_0
     - traitlets =5.9.0 =pyhd8ed1ab_0
     - typing-extensions =4.4.0 =hd8ed1ab_0
     - typing_extensions =4.4.0 =pyha770c72_0
