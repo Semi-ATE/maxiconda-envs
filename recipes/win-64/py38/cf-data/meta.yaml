@@ -49,7 +49,7 @@ requirements:
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.9.4 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
-    - arrow-cpp =11.0.0 =h57928b3_8_cpu
+    - arrow-cpp =11.0.0 =h57928b3_9_cpu
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - attrs =22.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
@@ -175,7 +175,7 @@ requirements:
     - lcms2 =2.14 =ha5c8aab_1
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230125.0 =cxx17_h63175ca_1
-    - libarrow =11.0.0 =hf268bf0_8_cpu
+    - libarrow =11.0.0 =hf268bf0_9_cpu
     - libblas =3.9.0 =16_win64_openblas
     - libbrotlicommon =1.0.9 =hcfcfb64_8
     - libbrotlidec =1.0.9 =hcfcfb64_8
@@ -278,7 +278,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.1 =cpu_py38hc22ac66_0
-    - pyarrow =11.0.0 =py38hc72dcf3_8_cpu
+    - pyarrow =11.0.0 =py38hc72dcf3_9_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
