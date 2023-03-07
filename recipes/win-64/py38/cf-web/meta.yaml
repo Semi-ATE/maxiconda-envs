@@ -32,7 +32,7 @@ requirements:
     - pyyaml =6.0 =py38h91455d4_5
     - requests =2.28.2 =pyhd8ed1ab_0
     - spyder-kernels =2.4.2 =win_pyhd8ed1ab_0
-    - sqlalchemy =2.0.4 =py38h91455d4_0
+    - sqlalchemy =2.0.5.post1 =py38h91455d4_0
     - twisted =22.10.0 =py38h91455d4_0
 
     # 107 secondary packages :
@@ -65,13 +65,13 @@ requirements:
     - glib =2.74.1 =h12be248_1
     - glib-tools =2.74.1 =h12be248_1
     - greenlet =2.0.2 =py38hd3f51b4_0
-    - gst-plugins-base =1.22.0 =h001b923_0
-    - gstreamer =1.22.0 =h6b5321d_0
+    - gst-plugins-base =1.22.0 =h001b923_1
+    - gstreamer =1.22.0 =h6b5321d_1
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =70.1 =h0e60522_0
     - idna =3.4 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - ipykernel =6.21.2 =pyh025b116_0
+    - ipykernel =6.21.3 =pyh025b116_0
     - ipython =8.11.0 =pyh08f2357_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jpeg =9e =hcfcfb64_3
@@ -117,7 +117,7 @@ requirements:
     - pyzmq =25.0.0 =py38ha85f68a_0
     - qt-main =5.15.8 =h720456b_6
     - service_identity =18.1.0 =py_0
-    - setuptools =67.4.0 =pyhd8ed1ab_0
+    - setuptools =67.5.1 =pyhd8ed1ab_0
     - sip =6.7.7 =py38hd3f51b4_0
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.3.2.post1 =pyhd8ed1ab_0

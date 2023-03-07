@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =0.29.33 =py39h7a8716b_0
-    - matplotlib =3.7.0 =py39h6e9494a_0
+    - matplotlib =3.7.1 =py39h6e9494a_0
     - numpy =1.24.2 =py39h6ee2318_0
     - pandas =1.5.3 =py39hecff1ad_0
     - pyqt =5.15.7 =py39h327fbb6_3
@@ -35,12 +35,12 @@ requirements:
     - spyder =5.4.2 =py39h6e9494a_0
     - sympy =1.11.1 =py39h6e9494a_2
 
-    # 250 secondary packages :
+    # 251 secondary packages :
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - applaunchservices =0.3.0 =py39h6e9494a_1
     - appnope =0.1.3 =pyhd8ed1ab_0
     - arrow =1.2.3 =pyhd8ed1ab_0
-    - astroid =2.14.2 =py39h6e9494a_0
+    - astroid =2.15.0 =py39h6e9494a_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_0
     - attrs =22.2.0 =pyh71513ae_0
@@ -80,7 +80,7 @@ requirements:
     - entrypoints =0.4 =pyhd8ed1ab_0
     - executing =1.2.0 =pyhd8ed1ab_0
     - flake8 =6.0.0 =pyhd8ed1ab_0
-    - fonttools =4.38.0 =py39ha30fb19_1
+    - fonttools =4.39.0 =py39ha30fb19_0
     - freetype =2.12.1 =h3f81eb7_1
     - gettext =0.21.1 =h8a4c099_0
     - giflib =5.2.1 =hbcb3906_2
@@ -88,8 +88,8 @@ requirements:
     - glib-tools =2.74.1 =hbc0c0cd_1
     - gmp =6.2.1 =h2e338ed_0
     - gmpy2 =2.1.2 =py39h2da61ea_1
-    - gst-plugins-base =1.22.0 =h37e1711_0
-    - gstreamer =1.22.0 =h1d18e73_0
+    - gst-plugins-base =1.22.0 =h37e1711_1
+    - gstreamer =1.22.0 =h1d18e73_1
     - icu =70.1 =h96cf925_0
     - idna =3.4 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
@@ -108,7 +108,7 @@ requirements:
     - jellyfish =0.9.0 =py39ha30fb19_2
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - jinja2-time =0.2.0 =pyhd8ed1ab_3
-    - jpeg =9e =hb7f2c08_3
+    - jpeg =9e =hac89ed1_2
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =5.2.0 =py39h6e9494a_0
@@ -129,10 +129,11 @@ requirements:
     - libdeflate =1.17 =hac1461d_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libffi =3.4.2 =h0d85af4_5
-    - libgfortran =5.0.0 =11_3_0_h97931a8_29
-    - libgfortran5 =12.2.0 =he409387_29
+    - libgfortran =5.0.0 =12_2_0_h97931a8_30
+    - libgfortran5 =12.2.0 =he409387_30
     - libglib =2.74.1 =h4c723e1_1
     - libiconv =1.17 =hac89ed1_0
+    - libjpeg-turbo =2.1.4 =hb7f2c08_0
     - liblapack =3.9.0 =16_osx64_openblas
     - libllvm13 =13.0.1 =h64f94b2_2
     - libogg =1.3.4 =h35c211d_1
@@ -143,15 +144,15 @@ requirements:
     - libsodium =1.0.18 =hbcb3906_1
     - libspatialindex =1.9.3 =he49afe7_4
     - libsqlite =3.40.0 =ha978bb4_0
-    - libtiff =4.5.0 =hee9004a_2
+    - libtiff =4.5.0 =hce39587_3
     - libvorbis =1.3.7 =h046ec9c_0
-    - libwebp =1.2.4 =h70a068d_1
+    - libwebp =1.2.4 =ha343e25_2
     - libwebp-base =1.2.4 =h775f41a_0
     - libxcb =1.13 =h0d85af4_1004
     - libzlib =1.2.13 =hfd90126_4
     - llvm-openmp =15.0.7 =h61d9ccf_0
     - markupsafe =2.1.2 =py39ha30fb19_0
-    - matplotlib-base =3.7.0 =py39hb2f573b_0
+    - matplotlib-base =3.7.1 =py39hb2f573b_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_0
     - mistune =2.0.5 =pyhd8ed1ab_0
@@ -238,7 +239,7 @@ requirements:
     - requests =2.28.2 =pyhd8ed1ab_0
     - rope =1.7.0 =pyhd8ed1ab_0
     - rtree =1.0.1 =py39h7d0d40a_1
-    - setuptools =67.4.0 =pyhd8ed1ab_0
+    - setuptools =67.5.1 =pyhd8ed1ab_0
     - sip =6.7.7 =py39h7a8716b_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0

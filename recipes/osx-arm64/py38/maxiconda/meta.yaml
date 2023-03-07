@@ -33,7 +33,7 @@ requirements:
     - hypothesis =6.68.2 =pyha770c72_0
     - ipython =8.11.0 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
-    - matplotlib =3.7.0 =py38h150bfb4_0
+    - matplotlib =3.7.1 =py38h150bfb4_0
     - numba =0.56.4 =py38h947a10e_0
     - numpy =1.23.5 =py38h09ac2d9_0
     - openpyxl =3.1.1 =py38hb991d35_0
@@ -55,7 +55,7 @@ requirements:
     - scipy =1.10.1 =py38h7b4f323_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.4 =py38hb991d35_0
+    - sqlalchemy =2.0.5.post1 =py38hb991d35_0
     - sqlite =3.40.0 =h2229b38_0
     - sympy =1.11.1 =py38h10201cd_2
     - tqdm =4.65.0 =pyhd8ed1ab_1
@@ -122,12 +122,12 @@ requirements:
     - fontconfig =2.14.2 =h82840c6_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.38.0 =py38hb991d35_1
+    - fonttools =4.39.0 =py38hb991d35_0
     - freetype =2.12.1 =hd633e50_1
     - fribidi =1.0.10 =h27ca646_0
     - frozenlist =1.3.3 =py38hb991d35_0
     - gettext =0.21.1 =h0186832_0
-    - gfortran_impl_osx-arm64 =11.3.0 =h2a9d086_29
+    - gfortran_impl_osx-arm64 =11.3.0 =h2a9d086_30
     - gfortran_osx-arm64 =11.3.0 =h57527a5_0
     - glib =2.74.1 =hb5ab8b9_1
     - glib-tools =2.74.1 =hb5ab8b9_1
@@ -136,8 +136,8 @@ requirements:
     - graphite2 =1.3.13 =h9f76cd9_1001
     - greenlet =2.0.2 =py38h2b1e499_0
     - gsl =2.7 =h6e638da_0
-    - gst-plugins-base =1.22.0 =h8b7775e_0
-    - gstreamer =1.22.0 =hcb7b3dd_0
+    - gst-plugins-base =1.22.0 =h8b7775e_1
+    - gstreamer =1.22.0 =hcb7b3dd_1
     - harfbuzz =6.0.0 =hddbc195_0
     - icu =70.1 =h6b3803e_0
     - idna =3.4 =pyhd8ed1ab_0
@@ -154,12 +154,12 @@ requirements:
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =5.2.0 =py38h10201cd_0
     - jupyter_events =0.6.3 =pyhd8ed1ab_0
-    - jupyter_server =2.3.0 =pyhd8ed1ab_0
+    - jupyter_server =2.4.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py38h9dc3d6a_1
     - krb5 =1.20.1 =h69eda48_0
-    - lcms2 =2.14 =h481adae_1
+    - lcms2 =2.15 =h481adae_0
     - ld64_osx-arm64 =609 =h7167370_11
     - lerc =4.0.0 =h9a09cb3_0
     - libblas =3.9.0 =16_osxarm64_openblas
@@ -176,9 +176,9 @@ requirements:
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libev =4.33 =h642e427_1
     - libffi =3.4.2 =h3422bc3_5
-    - libgfortran =5.0.0 =12_2_0_hd922786_29
-    - libgfortran-devel_osx-arm64 =11.3.0 =hfe9555d_29
-    - libgfortran5 =12.2.0 =h0eea778_29
+    - libgfortran =5.0.0 =11_3_0_hd922786_30
+    - libgfortran-devel_osx-arm64 =11.3.0 =hfe9555d_30
+    - libgfortran5 =11.3.0 =hdaf2cc0_30
     - libglib =2.74.1 =h4646484_1
     - libiconv =1.17 =he4db4b2_0
     - liblapack =3.9.0 =16_osxarm64_openblas
@@ -204,7 +204,7 @@ requirements:
     - llvmlite =0.39.1 =py38he6bf707_1
     - make =4.3 =he57ea6c_1
     - markupsafe =2.1.2 =py38hb991d35_0
-    - matplotlib-base =3.7.0 =py38hbbe890c_0
+    - matplotlib-base =3.7.1 =py38hbbe890c_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mistune =2.0.5 =pyhd8ed1ab_0
     - mpc =1.3.1 =h91ba8db_0
@@ -222,7 +222,7 @@ requirements:
     - nbformat =5.7.3 =pyhd8ed1ab_0
     - ncurses =6.3 =h07bb92c_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
-    - notebook =6.5.2 =pyha770c72_1
+    - notebook =6.5.3 =pyha770c72_0
     - notebook-shim =0.2.2 =pyhd8ed1ab_0
     - nspr =4.35 =hb7217d7_0
     - nss =3.88 =h789eff7_0
@@ -453,7 +453,7 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-aarch64-apple-darwin =1.67.1 =hf1a8007_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =67.4.0 =pyhd8ed1ab_0
+    - setuptools =67.5.1 =pyhd8ed1ab_0
     - sigtool =0.1.3 =h44b9a77_0
     - sip =6.7.7 =py38h2b1e499_0
     - six =1.16.0 =pyh6c4a22f_0
