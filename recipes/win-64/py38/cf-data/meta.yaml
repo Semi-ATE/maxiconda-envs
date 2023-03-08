@@ -47,7 +47,7 @@ requirements:
 
     # 345 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
-    - alembic =1.10.0 =pyhd8ed1ab_0
+    - alembic =1.10.1 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - arrow-cpp =11.0.0 =h57928b3_9_cpu
     - asttokens =2.2.1 =pyhd8ed1ab_0
@@ -139,8 +139,8 @@ requirements:
     - graphite2 =1.3.13 =1000
     - graphviz =7.1.0 =h51cb2cd_0
     - greenlet =2.0.2 =py38hd3f51b4_0
-    - gst-plugins-base =1.22.0 =h001b923_1
-    - gstreamer =1.22.0 =h6b5321d_1
+    - gst-plugins-base =1.22.0 =h001b923_2
+    - gstreamer =1.22.0 =h6b5321d_2
     - gts =0.7.6 =h7c369d9_2
     - harfbuzz =6.0.0 =he256f1b_0
     - htmlmin =0.1.12 =py_1
@@ -206,7 +206,7 @@ requirements:
     - libtiff =4.5.0 =hf8721a0_2
     - libutf8proc =2.8.0 =h82a8f57_0
     - libvorbis =1.3.7 =h0e60522_0
-    - libwebp =1.2.4 =hcfcfb64_2
+    - libwebp =1.2.4 =hcfcfb64_3
     - libwebp-base =1.2.4 =h8ffe710_0
     - libxcb =1.13 =hcd874cb_1004
     - libxgboost =1.7.1 =cpu_h20390bd_0

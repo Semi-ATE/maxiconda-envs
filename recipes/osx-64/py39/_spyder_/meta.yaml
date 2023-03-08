@@ -35,7 +35,7 @@ requirements:
     - spyder =5.4.2 =py39h6e9494a_0
     - sympy =1.11.1 =py39h6e9494a_2
 
-    # 251 secondary packages :
+    # 250 secondary packages :
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - applaunchservices =0.3.0 =py39h6e9494a_1
     - appnope =0.1.3 =pyhd8ed1ab_0
@@ -88,8 +88,8 @@ requirements:
     - glib-tools =2.74.1 =hbc0c0cd_1
     - gmp =6.2.1 =h2e338ed_0
     - gmpy2 =2.1.2 =py39h2da61ea_1
-    - gst-plugins-base =1.22.0 =h37e1711_1
-    - gstreamer =1.22.0 =h1d18e73_1
+    - gst-plugins-base =1.22.0 =h37e1711_2
+    - gstreamer =1.22.0 =h1d18e73_2
     - icu =70.1 =h96cf925_0
     - idna =3.4 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
@@ -108,7 +108,7 @@ requirements:
     - jellyfish =0.9.0 =py39ha30fb19_2
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - jinja2-time =0.2.0 =pyhd8ed1ab_3
-    - jpeg =9e =hac89ed1_2
+    - jpeg =9e =hb7f2c08_3
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =5.2.0 =py39h6e9494a_0
@@ -117,7 +117,7 @@ requirements:
     - kiwisolver =1.4.4 =py39h92daf61_1
     - krb5 =1.20.1 =h049b76e_0
     - lazy-object-proxy =1.9.0 =py39ha30fb19_0
-    - lcms2 =2.14 =h29502cd_1
+    - lcms2 =2.15 =h29502cd_0
     - lerc =4.0.0 =hb486fe8_0
     - libblas =3.9.0 =16_osx64_openblas
     - libbrotlicommon =1.0.9 =hb7f2c08_8
@@ -133,7 +133,6 @@ requirements:
     - libgfortran5 =12.2.0 =he409387_30
     - libglib =2.74.1 =h4c723e1_1
     - libiconv =1.17 =hac89ed1_0
-    - libjpeg-turbo =2.1.4 =hb7f2c08_0
     - liblapack =3.9.0 =16_osx64_openblas
     - libllvm13 =13.0.1 =h64f94b2_2
     - libogg =1.3.4 =h35c211d_1
@@ -144,9 +143,9 @@ requirements:
     - libsodium =1.0.18 =hbcb3906_1
     - libspatialindex =1.9.3 =he49afe7_4
     - libsqlite =3.40.0 =ha978bb4_0
-    - libtiff =4.5.0 =hce39587_3
+    - libtiff =4.5.0 =hee9004a_2
     - libvorbis =1.3.7 =h046ec9c_0
-    - libwebp =1.2.4 =ha343e25_2
+    - libwebp =1.2.4 =h70a068d_1
     - libwebp-base =1.2.4 =h775f41a_0
     - libxcb =1.13 =h0d85af4_1004
     - libzlib =1.2.13 =hfd90126_4
@@ -159,7 +158,7 @@ requirements:
     - more-itertools =9.1.0 =pyhd8ed1ab_0
     - mpc =1.3.1 =h81bd1dd_0
     - mpfr =4.1.0 =h0f52abe_1
-    - mpmath =1.2.1 =pyhd8ed1ab_0
+    - mpmath =1.3.0 =pyhd8ed1ab_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =1.0.0 =pyha770c72_0
     - mysql-common =8.0.32 =hc4b2c72_0
@@ -177,7 +176,7 @@ requirements:
     - openjpeg =2.5.0 =h13ac156_2
     - openssl =3.0.8 =hfd90126_0
     - packaging =23.0 =pyhd8ed1ab_0
-    - pandoc =2.19.2 =h694c41f_1
+    - pandoc =2.19.2 =h694c41f_2
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pathspec =0.11.0 =pyhd8ed1ab_0
@@ -202,7 +201,7 @@ requirements:
     - pydocstyle =6.2.3 =pyhd8ed1ab_0
     - pyflakes =3.0.1 =pyhd8ed1ab_0
     - pygments =2.14.0 =pyhd8ed1ab_0
-    - pylint =2.16.3 =pyhd8ed1ab_0
+    - pylint =2.16.4 =pyhd8ed1ab_0
     - pylint-venv =3.0.1 =pyhd8ed1ab_0
     - pyls-spyder =0.4.0 =pyhd8ed1ab_0
     - pyobjc-core =9.0 =py39h0504f80_0

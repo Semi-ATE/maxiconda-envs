@@ -48,7 +48,7 @@ requirements:
 
     # 346 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
-    - alembic =1.10.0 =pyhd8ed1ab_0
+    - alembic =1.10.1 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.3 =pyhd8ed1ab_0
     - arrow-cpp =11.0.0 =h694c41f_9_cpu
@@ -143,8 +143,8 @@ requirements:
     - graphite2 =1.3.13 =h2e338ed_1001
     - graphviz =7.1.0 =hc51f7b9_0
     - greenlet =2.0.2 =py38h4cd09af_0
-    - gst-plugins-base =1.22.0 =h37e1711_1
-    - gstreamer =1.22.0 =h1d18e73_1
+    - gst-plugins-base =1.22.0 =h37e1711_2
+    - gstreamer =1.22.0 =h1d18e73_2
     - gtk2 =2.24.33 =h7c1209e_2
     - gts =0.7.6 =hccb3bdf_2
     - gunicorn =20.1.0 =py38h50d1736_3
@@ -178,7 +178,7 @@ requirements:
     - kmodes =0.12.2 =pyhd8ed1ab_0
     - krb5 =1.20.1 =h049b76e_0
     - langcodes =3.3.0 =pyhd8ed1ab_0
-    - lcms2 =2.14 =h29502cd_1
+    - lcms2 =2.15 =h29502cd_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230125.0 =cxx17_hf0c8a7f_1
     - libarrow =11.0.0 =hae1ae47_9_cpu

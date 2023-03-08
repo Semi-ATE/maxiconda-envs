@@ -96,8 +96,8 @@ requirements:
     - gmp =6.2.1 =h7fd3ca4_0
     - gmpy2 =2.1.2 =py37hbac9a9b_0
     - graphite2 =1.3.13 =h7fd3ca4_1001
-    - gst-plugins-base =1.22.0 =h8a62080_1
-    - gstreamer =1.22.0 =h1f26242_1
+    - gst-plugins-base =1.22.0 =h8a62080_2
+    - gstreamer =1.22.0 =h1f26242_2
     - gstreamer-orc =0.4.33 =h4e544f5_0
     - harfbuzz =6.0.0 =hbcb8a4f_0
     - icu =70.1 =ha18d298_0
@@ -191,7 +191,7 @@ requirements:
     - mpc =1.3.1 =hf4c8f4c_0
     - mpfr =4.1.0 =h719063d_1
     - mpg123 =1.31.2 =hd600fc2_0
-    - mpmath =1.2.1 =pyhd8ed1ab_0
+    - mpmath =1.3.0 =pyhd8ed1ab_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =1.0.0 =pyha770c72_0
     - mysql-common =8.0.32 =hed3ad84_0
@@ -209,7 +209,7 @@ requirements:
     - openjpeg =2.5.0 =h9b6de37_1
     - openssl =3.0.8 =hb4cce97_0
     - packaging =23.0 =pyhd8ed1ab_0
-    - pandoc =2.19.2 =h8af1aa0_1
+    - pandoc =2.19.2 =h8af1aa0_2
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pathspec =0.11.0 =pyhd8ed1ab_0
