@@ -47,7 +47,7 @@ requirements:
 
     # 346 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
-    - alembic =1.10.1 =pyhd8ed1ab_0
+    - alembic =1.10.2 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - arrow-cpp =11.0.0 =h57928b3_9_cpu
     - asttokens =2.2.1 =pyhd8ed1ab_0
@@ -283,7 +283,7 @@ requirements:
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic =1.10.5 =py39ha55989b_0
+    - pydantic =1.10.6 =py39ha55989b_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.14.0 =pyhd8ed1ab_0
@@ -341,7 +341,7 @@ requirements:
     - tbb =2021.8.0 =h91493d7_0
     - tenacity =8.2.2 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
-    - thinc =8.1.8 =py39hbd792c9_0
+    - thinc =8.1.9 =py39hbd792c9_0
     - threadpoolctl =3.1.0 =pyh8a188c0_0
     - tk =8.6.12 =h8ffe710_0
     - tldextract =3.4.0 =pyhd8ed1ab_0
