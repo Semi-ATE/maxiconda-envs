@@ -46,7 +46,7 @@ requirements:
     - pytest =7.2.2 =pyhd8ed1ab_0
     - pyyaml =6.0 =py38hb991d35_5
     - qdarkstyle =3.1 =pyhd8ed1ab_0
-    - qtawesome =1.2.2 =pyhd8ed1ab_0
+    - qtawesome =1.2.3 =pyhd8ed1ab_0
     - r-base =4.2.2 =heabe65b_3
     - r-essentials =4.2 =r42hd8ed1ab_2003
     - regex =2022.10.31 =py38hb991d35_0
@@ -127,7 +127,7 @@ requirements:
     - fribidi =1.0.10 =h27ca646_0
     - frozenlist =1.3.3 =py38hb991d35_0
     - gettext =0.21.1 =h0186832_0
-    - gfortran_impl_osx-arm64 =11.3.0 =h2a9d086_30
+    - gfortran_impl_osx-arm64 =11.3.0 =h2a9d086_31
     - gfortran_osx-arm64 =11.3.0 =h57527a5_1
     - glib =2.74.1 =hb5ab8b9_1
     - glib-tools =2.74.1 =hb5ab8b9_1
@@ -176,9 +176,9 @@ requirements:
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libev =4.33 =h642e427_1
     - libffi =3.4.2 =h3422bc3_5
-    - libgfortran =5.0.0 =12_2_0_hd922786_30
-    - libgfortran-devel_osx-arm64 =11.3.0 =hfe9555d_30
-    - libgfortran5 =12.2.0 =h0eea778_30
+    - libgfortran =5.0.0 =12_2_0_hd922786_31
+    - libgfortran-devel_osx-arm64 =11.3.0 =hfe9555d_31
+    - libgfortran5 =12.2.0 =h0eea778_31
     - libglib =2.74.1 =h4646484_1
     - libiconv =1.17 =he4db4b2_0
     - liblapack =3.9.0 =16_osxarm64_openblas
@@ -225,7 +225,7 @@ requirements:
     - notebook =6.5.3 =pyha770c72_0
     - notebook-shim =0.2.2 =pyhd8ed1ab_0
     - nspr =4.35 =hb7217d7_0
-    - nss =3.88 =h789eff7_0
+    - nss =3.89 =h789eff7_0
     - openjpeg =2.5.0 =hbc2ba62_2
     - openssl =3.0.8 =h03a7124_0
     - packaging =23.0 =pyhd8ed1ab_0
@@ -368,7 +368,7 @@ requirements:
     - r-nlme =3.1_162 =r42h505ec0b_0
     - r-nnet =7.3_18 =r42h5d63f41_1
     - r-numderiv =2016.8_1.1 =r42hc72bb7e_4
-    - r-openssl =2.0.5 =r42h1bdd256_0
+    - r-openssl =2.0.6 =r42h1bdd256_0
     - r-parallelly =1.34.0 =r42hc72bb7e_0
     - r-pbdzmq =0.3_9 =r42hd9ec729_0
     - r-pillar =1.8.1 =r42hc72bb7e_1
