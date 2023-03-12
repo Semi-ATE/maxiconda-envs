@@ -51,7 +51,7 @@ requirements:
     - alembic =1.10.2 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.3 =pyhd8ed1ab_0
-    - arrow-cpp =11.0.0 =h694c41f_9_cpu
+    - arrow-cpp =11.0.0 =h694c41f_10_cpu
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =22.2.0 =pyh71513ae_0
@@ -64,10 +64,10 @@ requirements:
     - aws-c-http =0.7.5 =h48c8a4b_3
     - aws-c-io =0.13.18 =ha36c512_3
     - aws-c-mqtt =0.8.6 =hf0e91f3_9
-    - aws-c-s3 =0.2.5 =ha4068c2_5
+    - aws-c-s3 =0.2.6 =ha4068c2_0
     - aws-c-sdkutils =0.1.7 =hfd5090c_4
     - aws-checksums =0.1.14 =hfd5090c_4
-    - aws-crt-cpp =0.19.8 =h04d291e_6
+    - aws-crt-cpp =0.19.8 =heb0c860_7
     - aws-sdk-cpp =1.10.57 =hb2ba235_7
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -181,7 +181,7 @@ requirements:
     - lcms2 =2.15 =h29502cd_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230125.0 =cxx17_hf0c8a7f_1
-    - libarrow =11.0.0 =hae1ae47_9_cpu
+    - libarrow =11.0.0 =h35b0843_10_cpu
     - libblas =3.9.0 =16_osx64_openblas
     - libbrotlicommon =1.0.9 =hb7f2c08_8
     - libbrotlidec =1.0.9 =hb7f2c08_8
@@ -200,8 +200,8 @@ requirements:
     - libgfortran =5.0.0 =11_3_0_h97931a8_31
     - libgfortran5 =12.2.0 =he409387_31
     - libglib =2.74.1 =h4c723e1_1
-    - libgoogle-cloud =2.8.0 =h2ba3e75_0
-    - libgrpc =1.51.1 =h5bc3d57_3
+    - libgoogle-cloud =2.8.0 =h176059f_1
+    - libgrpc =1.52.1 =h5bc3d57_1
     - libiconv =1.17 =hac89ed1_0
     - liblapack =3.9.0 =16_osx64_openblas
     - libllvm11 =11.1.0 =h8fb7429_5
@@ -241,7 +241,7 @@ requirements:
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mkl =2022.2.1 =h44ed08c_16952
-    - mlflow =1.27.0 =py39h8ac9d56_0
+    - mlflow =2.2.1 =py39h8ac9d56_0
     - mlxtend =0.21.0 =pyhd8ed1ab_0
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
@@ -293,7 +293,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.1 =cpu_py39hb0a6171_0
-    - pyarrow =11.0.0 =py39h56e7202_9_cpu
+    - pyarrow =11.0.0 =py39h56e7202_10_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -344,7 +344,7 @@ requirements:
     - slicer =0.0.7 =pyhd8ed1ab_0
     - smart_open =5.2.1 =pyhd8ed1ab_0
     - smmap =3.0.5 =pyh44b312d_0
-    - snappy =1.1.9 =h225ccf5_2
+    - snappy =1.1.10 =h225ccf5_0
     - soupsieve =2.3.2.post1 =pyhd8ed1ab_0
     - spacy =3.5.0 =py39h6dc771e_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
@@ -367,8 +367,8 @@ requirements:
     - traitlets =5.9.0 =pyhd8ed1ab_0
     - twisted =22.10.0 =py39ha30fb19_0
     - typer =0.7.0 =pyhd8ed1ab_0
-    - typing-extensions =4.4.0 =hd8ed1ab_0
-    - typing_extensions =4.4.0 =pyha770c72_0
+    - typing-extensions =4.5.0 =hd8ed1ab_0
+    - typing_extensions =4.5.0 =pyha770c72_0
     - tzdata =2022g =h191b570_0
     - umap-learn =0.5.3 =py39h6e9494a_0
     - unicodedata2 =15.0.0 =py39ha30fb19_0
