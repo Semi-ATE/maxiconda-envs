@@ -35,7 +35,7 @@ requirements:
     - spyder =5.3.3 =py37hd9ded2f_0
     - sympy =1.10.1 =py37hfd236b0_1
 
-    # 293 secondary packages :
+    # 294 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - alsa-lib =1.2.8 =h4e544f5_0
@@ -178,7 +178,7 @@ requirements:
     - libwebp =1.2.4 =hef792ef_0
     - libwebp-base =1.2.4 =h4e544f5_0
     - libxcb =1.13 =h3557bc0_1004
-    - libxkbcommon =1.5.0 =h4f22d97_0
+    - libxkbcommon =1.5.0 =h4f22d97_1
     - libxml2 =2.10.3 =h249b6dd_0
     - libzlib =1.2.13 =h4e544f5_4
     - lz4-c =1.9.4 =hd600fc2_0
@@ -220,7 +220,7 @@ requirements:
     - pip =23.0.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =hb9de7d4_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
-    - platformdirs =3.1.0 =pyhd8ed1ab_0
+    - platformdirs =3.1.1 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py37hd9ded2f_3
     - ply =3.11 =py_1
     - prompt-toolkit =3.0.38 =pyha770c72_0
@@ -298,7 +298,7 @@ requirements:
     - ujson =5.5.0 =py37hb20f0a7_0
     - unicodedata2 =14.0.0 =py37h795501a_1
     - unidecode =1.3.6 =pyhd8ed1ab_0
-    - urllib3 =1.26.14 =pyhd8ed1ab_0
+    - urllib3 =1.26.15 =pyhd8ed1ab_0
     - watchdog =2.1.9 =py37hd9ded2f_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1
@@ -311,6 +311,7 @@ requirements:
     - xcb-util-keysyms =0.4.0 =h4e544f5_0
     - xcb-util-renderutil =0.3.9 =h4e544f5_0
     - xcb-util-wm =0.4.1 =h4e544f5_0
+    - xkeyboard-config =2.38 =hb4cce97_0
     - xorg-kbproto =1.0.7 =h3557bc0_1002
     - xorg-libice =1.0.10 =h3557bc0_0
     - xorg-libsm =1.2.3 =h965e137_1000

@@ -105,7 +105,6 @@ requirements:
     - jellyfish =0.9.0 =py38h91455d4_2
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - jinja2-time =0.2.0 =pyhd8ed1ab_3
-    - jpeg =9e =hcfcfb64_3
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =5.2.0 =py38haa244fe_0
@@ -114,7 +113,7 @@ requirements:
     - kiwisolver =1.4.4 =py38hb1fd069_1
     - krb5 =1.20.1 =heb0366b_0
     - lazy-object-proxy =1.9.0 =py38h91455d4_0
-    - lcms2 =2.15 =ha5c8aab_0
+    - lcms2 =2.15 =h3e3b177_1
     - lerc =4.0.0 =h63175ca_0
     - libblas =3.9.0 =16_win64_mkl
     - libbrotlicommon =1.0.9 =hcfcfb64_8
@@ -128,13 +127,14 @@ requirements:
     - libglib =2.74.1 =he8f3873_1
     - libhwloc =2.9.0 =h51c2c0f_0
     - libiconv =1.17 =h8ffe710_0
+    - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
     - liblapack =3.9.0 =16_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
     - libsodium =1.0.18 =h8d14728_1
     - libspatialindex =1.9.3 =h39d44d4_4
     - libsqlite =3.40.0 =hcfcfb64_0
-    - libtiff =4.5.0 =hf8721a0_2
+    - libtiff =4.5.0 =hc3b8658_5
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp =1.2.4 =hcfcfb64_3
     - libwebp-base =1.2.4 =h8ffe710_0
@@ -175,10 +175,10 @@ requirements:
     - pcre2 =10.40 =h17e33f8_0
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
-    - pillow =9.4.0 =py38h087119c_1
+    - pillow =9.4.0 =py38h0c7286b_2
     - pip =23.0.1 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
-    - platformdirs =3.1.0 =pyhd8ed1ab_0
+    - platformdirs =3.1.1 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py38haa244fe_4
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyhd8ed1ab_0
@@ -219,7 +219,7 @@ requirements:
     - pyzmq =25.0.0 =py38ha85f68a_0
     - qdarkstyle =3.0.3 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.8 =h720456b_6
+    - qt-main =5.15.8 =h88fe7eb_7
     - qt-webengine =5.15.8 =h5b1ea0b_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.4.0 =pyhd8ed1ab_0
@@ -261,7 +261,7 @@ requirements:
     - ujson =5.7.0 =py38hd3f51b4_0
     - unicodedata2 =15.0.0 =py38h91455d4_0
     - unidecode =1.3.6 =pyhd8ed1ab_0
-    - urllib3 =1.26.14 =pyhd8ed1ab_0
+    - urllib3 =1.26.15 =pyhd8ed1ab_0
     - vc =14.3 =hb6edc58_10
     - vs2015_runtime =14.34.31931 =h4c5c07a_10
     - watchdog =2.3.1 =py38haa244fe_0

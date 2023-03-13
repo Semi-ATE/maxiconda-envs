@@ -108,7 +108,6 @@ requirements:
     - jellyfish =0.9.0 =py39h02fc5c5_2
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - jinja2-time =0.2.0 =pyhd8ed1ab_3
-    - jpeg =9e =h1a8c8d9_3
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =5.2.0 =py39h2804cbe_0
@@ -117,7 +116,7 @@ requirements:
     - kiwisolver =1.4.4 =py39haaf3ac1_1
     - krb5 =1.20.1 =h69eda48_0
     - lazy-object-proxy =1.9.0 =py39h02fc5c5_0
-    - lcms2 =2.15 =h481adae_0
+    - lcms2 =2.15 =hd835a16_1
     - lerc =4.0.0 =h9a09cb3_0
     - libblas =3.9.0 =16_osxarm64_openblas
     - libbrotlicommon =1.0.9 =h1a8c8d9_8
@@ -134,6 +133,7 @@ requirements:
     - libgfortran5 =12.2.0 =h0eea778_31
     - libglib =2.74.1 =h4646484_1
     - libiconv =1.17 =he4db4b2_0
+    - libjpeg-turbo =2.1.5.1 =h1a8c8d9_0
     - liblapack =3.9.0 =16_osxarm64_openblas
     - libllvm14 =14.0.6 =hf6e71e7_1
     - libogg =1.3.4 =h27ca646_1
@@ -144,10 +144,10 @@ requirements:
     - libsodium =1.0.18 =h27ca646_1
     - libspatialindex =1.9.3 =hbdafb3b_4
     - libsqlite =3.40.0 =h76d750c_0
-    - libtiff =4.5.0 =h5dffbdd_2
+    - libtiff =4.5.0 =hdc14d85_5
     - libvorbis =1.3.7 =h9f76cd9_0
-    - libwebp =1.2.4 =h999c80f_1
-    - libwebp-base =1.2.4 =h57fd34a_0
+    - libwebp =1.2.4 =h66d6964_3
+    - libwebp-base =1.2.4 =h1a8c8d9_0
     - libxcb =1.13 =h9b22ae9_1004
     - libzlib =1.2.13 =h03a7124_4
     - llvm-openmp =15.0.7 =h7cfbb63_0
@@ -184,10 +184,10 @@ requirements:
     - pcre2 =10.40 =hb34f9b4_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py_1003
-    - pillow =9.4.0 =py39h8bd98a6_1
+    - pillow =9.4.0 =py39hfc21214_2
     - pip =23.0.1 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
-    - platformdirs =3.1.0 =pyhd8ed1ab_0
+    - platformdirs =3.1.1 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py39h2804cbe_4
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyhd8ed1ab_0
@@ -229,7 +229,7 @@ requirements:
     - pyzmq =25.0.0 =py39h0553236_0
     - qdarkstyle =3.0.3 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.8 =hfe8d25c_6
+    - qt-main =5.15.8 =h80905e8_7
     - qt-webengine =5.15.8 =h78108cb_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.4.0 =pyhd8ed1ab_0
@@ -271,7 +271,7 @@ requirements:
     - ujson =5.7.0 =py39h23fbdae_0
     - unicodedata2 =15.0.0 =py39h02fc5c5_0
     - unidecode =1.3.6 =pyhd8ed1ab_0
-    - urllib3 =1.26.14 =pyhd8ed1ab_0
+    - urllib3 =1.26.15 =pyhd8ed1ab_0
     - watchdog =2.3.1 =py39h02fc5c5_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1

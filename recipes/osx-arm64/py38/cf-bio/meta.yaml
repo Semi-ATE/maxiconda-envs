@@ -90,7 +90,7 @@ requirements:
     - gst-plugins-base =1.22.0 =h8b7775e_2
     - gstreamer =1.22.0 =hcb7b3dd_2
     - h5py =3.8.0 =nompi_py38h2475068_100
-    - hdf4 =4.2.15 =h1a38d6a_5
+    - hdf4 =4.2.15 =h8111dcc_6
     - hdf5 =1.12.2 =nompi_ha7af310_101
     - icu =70.1 =h6b3803e_0
     - idna =3.4 =pyhd8ed1ab_0
@@ -100,12 +100,11 @@ requirements:
     - ipython =8.11.0 =pyhd1c38e8_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - joblib =1.2.0 =pyhd8ed1ab_0
-    - jpeg =9e =h1a8c8d9_3
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =5.2.0 =py38h10201cd_0
     - kiwisolver =1.4.4 =py38h9dc3d6a_1
     - krb5 =1.20.1 =h69eda48_0
-    - lcms2 =2.15 =h481adae_0
+    - lcms2 =2.15 =hd835a16_1
     - lerc =4.0.0 =h9a09cb3_0
     - libaec =1.0.6 =hb7217d7_1
     - libblas =3.9.0 =16_osxarm64_openblas
@@ -125,9 +124,10 @@ requirements:
     - libgfortran5 =12.2.0 =h0eea778_31
     - libglib =2.74.1 =h4646484_1
     - libiconv =1.17 =he4db4b2_0
+    - libjpeg-turbo =2.1.5.1 =h1a8c8d9_0
     - liblapack =3.9.0 =16_osxarm64_openblas
     - libllvm14 =14.0.6 =hf6e71e7_1
-    - libnetcdf =4.9.1 =nompi_h232cb48_101
+    - libnetcdf =4.9.1 =nompi_hda66dd9_102
     - libnghttp2 =1.52.0 =hae82a92_0
     - libogg =1.3.4 =h27ca646_1
     - libopenblas =0.3.21 =openmp_hc731615_3
@@ -137,9 +137,9 @@ requirements:
     - libsodium =1.0.18 =h27ca646_1
     - libsqlite =3.40.0 =h76d750c_0
     - libssh2 =1.10.0 =h7a5bd25_3
-    - libtiff =4.5.0 =h5dffbdd_2
+    - libtiff =4.5.0 =hdc14d85_5
     - libvorbis =1.3.7 =h9f76cd9_0
-    - libwebp-base =1.2.4 =h57fd34a_0
+    - libwebp-base =1.2.4 =h1a8c8d9_0
     - libxcb =1.13 =h9b22ae9_1004
     - libxml2 =2.10.3 =h87b0503_0
     - libzip =1.9.2 =h76ab92c_1
@@ -168,10 +168,10 @@ requirements:
     - pcre2 =10.40 =hb34f9b4_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py_1003
-    - pillow =9.4.0 =py38h1bb68ce_1
+    - pillow =9.4.0 =py38h545d6f9_2
     - pip =23.0.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h27ca646_0
-    - platformdirs =3.1.0 =pyhd8ed1ab_0
+    - platformdirs =3.1.1 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pmw =2.0.1 =py38h10201cd_1007
     - pooch =1.7.0 =pyhd8ed1ab_0
@@ -194,7 +194,7 @@ requirements:
     - pytng =0.3.0 =py38h2346e95_0
     - pytz =2022.7.1 =pyhd8ed1ab_0
     - pyzmq =25.0.0 =py38hb72be9f_0
-    - qt-main =5.15.8 =hfe8d25c_6
+    - qt-main =5.15.8 =h80905e8_7
     - readline =8.1.2 =h46ed386_0
     - reportlab =3.6.12 =py38hbfd35f9_2
     - requests =2.28.2 =pyhd8ed1ab_0
@@ -217,7 +217,7 @@ requirements:
     - typing-extensions =4.5.0 =hd8ed1ab_0
     - typing_extensions =4.5.0 =pyha770c72_0
     - unicodedata2 =15.0.0 =py38hb991d35_0
-    - urllib3 =1.26.14 =pyhd8ed1ab_0
+    - urllib3 =1.26.15 =pyhd8ed1ab_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - wheel =0.38.4 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0

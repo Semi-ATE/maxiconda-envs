@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.5.post1 =py38hd5eba46_0
     - twisted =22.10.0 =py38h81aae68_0
 
-    # 178 secondary packages :
+    # 180 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h4e544f5_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -92,7 +92,6 @@ requirements:
     - ipython =8.11.0 =pyh41d4057_0
     - jack =1.9.22 =hf8b18a5_0
     - jedi =0.18.2 =pyhd8ed1ab_0
-    - jpeg =9e =h2a766a3_3
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =5.2.0 =py38he3eb160_0
     - keyutils =1.6.1 =h4e544f5_0
@@ -116,6 +115,7 @@ requirements:
     - libgomp =12.2.0 =h607ecd0_19
     - libgpg-error =1.46 =haae8ae4_0
     - libiconv =1.17 =h9cdd2b7_0
+    - libjpeg-turbo =2.1.5.1 =hb4cce97_0
     - libllvm15 =15.0.7 =h87099f9_0
     - libnsl =2.0.0 =hf897c2e_0
     - libogg =1.3.4 =h3557bc0_1
@@ -132,7 +132,7 @@ requirements:
     - libuuid =2.32.1 =hf897c2e_1000
     - libvorbis =1.3.7 =h01db608_0
     - libxcb =1.13 =h3557bc0_1004
-    - libxkbcommon =1.5.0 =h4f22d97_0
+    - libxkbcommon =1.5.0 =h4f22d97_1
     - libxml2 =2.10.3 =h249b6dd_0
     - libzlib =1.2.13 =h4e544f5_4
     - lz4-c =1.9.4 =hd600fc2_0
@@ -153,7 +153,7 @@ requirements:
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pip =23.0.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =hb9de7d4_0
-    - platformdirs =3.1.0 =pyhd8ed1ab_0
+    - platformdirs =3.1.1 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - prompt-toolkit =3.0.38 =pyha770c72_0
     - prompt_toolkit =3.0.38 =hd8ed1ab_0
@@ -172,7 +172,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pyzmq =25.0.0 =py38ha599cda_0
-    - qt-main =5.15.8 =h75fb342_6
+    - qt-main =5.15.8 =h7a5f702_7
     - readline =8.1.2 =h38e3740_0
     - service_identity =18.1.0 =py_0
     - setuptools =67.6.0 =pyhd8ed1ab_0
@@ -188,7 +188,7 @@ requirements:
     - typing-extensions =4.5.0 =hd8ed1ab_0
     - typing_extensions =4.5.0 =pyha770c72_0
     - tzdata =2022g =h191b570_0
-    - urllib3 =1.26.14 =pyhd8ed1ab_0
+    - urllib3 =1.26.15 =pyhd8ed1ab_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - wheel =0.38.4 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
@@ -197,6 +197,7 @@ requirements:
     - xcb-util-keysyms =0.4.0 =h4e544f5_0
     - xcb-util-renderutil =0.3.9 =h4e544f5_0
     - xcb-util-wm =0.4.1 =h4e544f5_0
+    - xkeyboard-config =2.38 =hb4cce97_0
     - xorg-kbproto =1.0.7 =h3557bc0_1002
     - xorg-libice =1.0.10 =h3557bc0_0
     - xorg-libsm =1.2.3 =h965e137_1000
@@ -207,6 +208,7 @@ requirements:
     - xorg-libxrender =0.9.10 =h3557bc0_1003
     - xorg-renderproto =0.11.1 =h3557bc0_1002
     - xorg-xextproto =7.3.0 =h2a766a3_1003
+    - xorg-xf86vidmodeproto =2.3.1 =hf897c2e_1002
     - xorg-xproto =7.0.31 =h3557bc0_1007
     - xz =5.2.6 =h9cdd2b7_0
     - yaml =0.2.5 =hf897c2e_2
