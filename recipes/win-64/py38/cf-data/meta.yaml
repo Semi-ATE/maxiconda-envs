@@ -26,7 +26,7 @@ requirements:
 
     # 19 primary packages :
     - beautifulsoup4 =4.11.2 =pyha770c72_0
-    - bokeh =3.0.3 =pyhd8ed1ab_0
+    - bokeh =3.1.0 =pyhd8ed1ab_0
     - lightgbm =3.3.5 =py38hd3f51b4_0
     - matplotlib =3.7.1 =py38haa244fe_0
     - numpy =1.23.5 =py38h90ce339_0
@@ -109,7 +109,7 @@ requirements:
     - docker-py =6.0.0 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
     - executing =1.2.0 =pyhd8ed1ab_0
-    - filelock =3.9.0 =pyhd8ed1ab_0
+    - filelock =3.9.1 =pyhd8ed1ab_0
     - flask =2.2.3 =pyhd8ed1ab_0
     - fonttools =4.39.0 =py38h91455d4_0
     - freetype =2.12.1 =h546665d_1
@@ -212,7 +212,7 @@ requirements:
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mkl =2022.1.0 =h6a75c08_874
-    - mlflow =2.2.1 =py38hdedce57_0
+    - mlflow =2.2.2 =py38hdedce57_0
     - mlxtend =0.21.0 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - multimethod =1.4 =py_0
@@ -226,7 +226,7 @@ requirements:
     - numexpr =2.7.3 =py38h5d928e2_2
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha2aaf27_2
-    - openssl =3.0.8 =hcfcfb64_0
+    - openssl =3.1.0 =hcfcfb64_0
     - orc =1.8.2 =hada7b9e_2
     - packaging =23.0 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
@@ -286,7 +286,7 @@ requirements:
     - pywin32 =304 =py38hd3f51b4_2
     - pywin32-on-windows =0.1.0 =pyh07e9846_2
     - pyyaml =6.0 =py38h91455d4_5
-    - pyzmq =25.0.0 =py38ha85f68a_0
+    - pyzmq =25.0.1 =py38ha85f68a_0
     - qt-main =5.15.8 =h88fe7eb_7
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
@@ -346,7 +346,7 @@ requirements:
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - websocket-client =1.5.1 =pyhd8ed1ab_0
     - werkzeug =2.2.3 =pyhd8ed1ab_0
-    - wheel =0.38.4 =pyhd8ed1ab_0
+    - wheel =0.40.0 =pyhd8ed1ab_0
     - widgetsnbextension =4.0.5 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py38haa244fe_5
     - wordcloud =1.8.2.2 =py38h91455d4_1
