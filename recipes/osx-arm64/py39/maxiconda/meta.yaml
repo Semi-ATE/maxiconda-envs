@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.11.2 =pyha770c72_0
     - cython =0.29.33 =py39h23fbdae_0
     - grayskull =2.2.2 =pyhd8ed1ab_0
-    - hypothesis =6.68.2 =pyha770c72_0
+    - hypothesis =6.69.0 =pyha770c72_0
     - ipython =8.11.0 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py39hdf13c20_0
@@ -47,7 +47,7 @@ requirements:
     - pyyaml =6.0 =py39h02fc5c5_5
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
-    - r-base =4.2.2 =heabe65b_3
+    - r-base =4.2.3 =heabe65b_0
     - r-essentials =4.2 =r42hd8ed1ab_2003
     - regex =2022.10.31 =py39h02fc5c5_0
     - requests =2.28.2 =pyhd8ed1ab_0
@@ -86,7 +86,7 @@ requirements:
     - c-ares =1.18.1 =h3422bc3_0
     - ca-certificates =2022.12.7 =h4653dfc_0
     - cairo =1.16.0 =h73a0509_1014
-    - cctools_osx-arm64 =973.0.1 =hef52d2f_11
+    - cctools_osx-arm64 =973.0.1 =hef52d2f_12
     - certifi =2022.12.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py39h7e6b969_3
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
@@ -160,7 +160,7 @@ requirements:
     - kiwisolver =1.4.4 =py39haaf3ac1_1
     - krb5 =1.20.1 =h69eda48_0
     - lcms2 =2.15 =h481adae_0
-    - ld64_osx-arm64 =609 =h7167370_11
+    - ld64_osx-arm64 =609 =h7167370_12
     - lerc =4.0.0 =h9a09cb3_0
     - libblas =3.9.0 =16_osxarm64_openblas
     - libbrotlicommon =1.0.9 =h1a8c8d9_8
@@ -197,7 +197,7 @@ requirements:
     - libvorbis =1.3.7 =h9f76cd9_0
     - libwebp-base =1.3.0 =h1a8c8d9_0
     - libxcb =1.13 =h9b22ae9_1004
-    - libxml2 =2.10.3 =h87b0503_0
+    - libxml2 =2.10.3 =h87b0503_3
     - libzlib =1.2.13 =h03a7124_4
     - llvm-openmp =15.0.7 =h7cfbb63_0
     - llvm-tools =14.0.6 =hf6e71e7_1
