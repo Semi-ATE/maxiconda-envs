@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.11.2 =pyha770c72_0
     - cython =0.29.33 =py38h2b1e499_0
     - grayskull =2.2.2 =pyhd8ed1ab_0
-    - hypothesis =6.69.0 =pyha770c72_0
+    - hypothesis =6.70.0 =pyha770c72_0
     - ipython =8.11.0 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py38h150bfb4_0
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.0.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 427 secondary packages :
+    # 428 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.6.2 =pyhd8ed1ab_0
@@ -90,17 +90,17 @@ requirements:
     - certifi =2022.12.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38ha45ccd6_3
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
-    - clang =14.0.6 =hce30654_0
-    - clang-14 =14.0.6 =default_h81a5282_0
-    - clang_osx-arm64 =14.0.6 =h15773ab_4
-    - clangxx =14.0.6 =default_hb7ecf47_0
-    - clangxx_osx-arm64 =14.0.6 =he29aa18_4
+    - clang =15.0.7 =hce30654_1
+    - clang-15 =15.0.7 =default_h9e54d93_1
+    - clang_osx-arm64 =15.0.7 =h77e971b_0
+    - clangxx =15.0.7 =default_hb64c1ec_1
+    - clangxx_osx-arm64 =15.0.7 =h768a7fd_0
     - click =8.1.3 =py38h10201cd_1
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.2 =pyhd8ed1ab_0
-    - compiler-rt =14.0.6 =h30b49de_0
-    - compiler-rt_osx-arm64 =14.0.6 =h48302dc_0
+    - compiler-rt =15.0.7 =h30b49de_0
+    - compiler-rt_osx-arm64 =15.0.7 =h30b49de_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.0.7 =py38h9dc3d6a_0
     - cryptography =39.0.2 =py38h23f6d3d_0
@@ -122,7 +122,7 @@ requirements:
     - fontconfig =2.14.2 =h82840c6_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.39.0 =py38hb991d35_0
+    - fonttools =4.39.2 =py38hb991d35_0
     - freetype =2.12.1 =hd633e50_1
     - fribidi =1.0.10 =h27ca646_0
     - frozenlist =1.3.3 =py38hb991d35_0
@@ -152,7 +152,7 @@ requirements:
     - jpeg =9e =h1a8c8d9_3
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
-    - jupyter_core =5.2.0 =py38h10201cd_0
+    - jupyter_core =5.3.0 =py38h10201cd_0
     - jupyter_events =0.6.3 =pyhd8ed1ab_0
     - jupyter_server =2.4.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
@@ -160,7 +160,7 @@ requirements:
     - kiwisolver =1.4.4 =py38h9dc3d6a_1
     - krb5 =1.20.1 =h69eda48_0
     - lcms2 =2.15 =h481adae_0
-    - ld64_osx-arm64 =609 =h7167370_12
+    - ld64_osx-arm64 =609 =h74cdc5f_12
     - lerc =4.0.0 =h9a09cb3_0
     - libblas =3.9.0 =16_osxarm64_openblas
     - libbrotlicommon =1.0.9 =h1a8c8d9_8
@@ -168,7 +168,7 @@ requirements:
     - libbrotlienc =1.0.9 =h1a8c8d9_8
     - libcblas =3.9.0 =16_osxarm64_openblas
     - libclang =14.0.6 =default_h81a5282_0
-    - libclang-cpp14 =14.0.6 =default_h81a5282_0
+    - libclang-cpp15 =15.0.7 =default_h9e54d93_1
     - libclang13 =14.0.6 =default_he70ec0d_0
     - libcurl =7.88.1 =h9049daf_0
     - libcxx =15.0.7 =h75e25f2_0
@@ -184,6 +184,7 @@ requirements:
     - liblapack =3.9.0 =16_osxarm64_openblas
     - libllvm11 =11.1.0 =hfa12f05_5
     - libllvm14 =14.0.6 =hf6e71e7_1
+    - libllvm15 =15.0.7 =h62b9111_1
     - libnghttp2 =1.52.0 =hae82a92_0
     - libogg =1.3.4 =h27ca646_1
     - libopenblas =0.3.21 =openmp_hc731615_3
@@ -200,7 +201,7 @@ requirements:
     - libxml2 =2.10.3 =h87b0503_3
     - libzlib =1.2.13 =h03a7124_4
     - llvm-openmp =15.0.7 =h7cfbb63_0
-    - llvm-tools =14.0.6 =hf6e71e7_1
+    - llvm-tools =15.0.7 =h62b9111_1
     - llvmlite =0.39.1 =py38he6bf707_1
     - make =4.3 =he57ea6c_1
     - markupsafe =2.1.2 =py38hb991d35_0
@@ -434,7 +435,7 @@ requirements:
     - r-urltools =1.7.3 =r42h9a38a31_3
     - r-utf8 =1.2.3 =r42h5d63f41_0
     - r-uuid =1.1_0 =r42h5d63f41_1
-    - r-vctrs =0.5.2 =r42h9a38a31_0
+    - r-vctrs =0.6.0 =r42h9a38a31_0
     - r-viridislite =0.4.1 =r42hc72bb7e_1
     - r-vroom =1.6.1 =r42h9a38a31_0
     - r-withr =2.5.0 =r42hc72bb7e_1
