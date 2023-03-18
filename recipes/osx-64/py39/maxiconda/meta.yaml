@@ -105,7 +105,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.0.7 =py39h92daf61_0
     - cryptography =39.0.2 =py39hbeae22c_0
-    - curl =7.88.1 =h6df9250_0
+    - curl =7.88.1 =h6df9250_1
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.6 =py39h7a8716b_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -155,7 +155,7 @@ requirements:
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =5.3.0 =py39h6e9494a_0
     - jupyter_events =0.6.3 =pyhd8ed1ab_0
-    - jupyter_server =2.4.0 =pyhd8ed1ab_0
+    - jupyter_server =2.5.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py39h92daf61_1
@@ -170,7 +170,7 @@ requirements:
     - libcblas =3.9.0 =16_osx64_openblas
     - libclang =13.0.1 =default_h255f2f3_1
     - libclang-cpp15 =15.0.7 =default_h20dc2f0_1
-    - libcurl =7.88.1 =h6df9250_0
+    - libcurl =7.88.1 =h6df9250_1
     - libcxx =15.0.7 =h71dddab_0
     - libdeflate =1.17 =hac1461d_0
     - libedit =3.1.20191231 =h0678c8f_2
@@ -275,7 +275,7 @@ requirements:
     - r-base64enc =0.1_3 =r42h815d134_1005
     - r-bit =4.0.5 =r42h815d134_0
     - r-bit64 =4.0.5 =r42h815d134_1
-    - r-blob =1.2.3 =r42hc72bb7e_1
+    - r-blob =1.2.4 =r42hc72bb7e_0
     - r-boot =1.3_28.1 =r42hc72bb7e_0
     - r-broom =1.0.4 =r42hc72bb7e_0
     - r-bslib =0.4.2 =r42hc72bb7e_0
@@ -290,7 +290,7 @@ requirements:
     - r-cluster =2.1.4 =r42h1e4e481_0
     - r-codetools =0.2_19 =r42hc72bb7e_0
     - r-colorspace =2.1_0 =r42h815d134_0
-    - r-commonmark =1.8.1 =r42h815d134_0
+    - r-commonmark =1.9.0 =r42h815d134_0
     - r-conflicted =1.2.0 =r42h785f33e_0
     - r-cpp11 =0.4.3 =r42hc72bb7e_0
     - r-crayon =1.5.2 =r42hc72bb7e_1
@@ -333,7 +333,7 @@ requirements:
     - r-highr =0.10 =r42hc72bb7e_0
     - r-hms =1.1.2 =r42hc72bb7e_1
     - r-htmltools =0.5.4 =r42h49197e3_0
-    - r-htmlwidgets =1.6.1 =r42hc72bb7e_0
+    - r-htmlwidgets =1.6.2 =r42hc72bb7e_0
     - r-httpcode =0.3.0 =r42h694c41f_2
     - r-httpuv =1.6.9 =r42h49197e3_0
     - r-httr =1.4.5 =r42hc72bb7e_0
