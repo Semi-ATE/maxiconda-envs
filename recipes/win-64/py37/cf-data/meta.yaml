@@ -25,7 +25,7 @@ requirements:
     - python =3.7.12 =h900ac77_100_cpython
 
     # 19 primary packages :
-    - beautifulsoup4 =4.11.2 =pyha770c72_0
+    - beautifulsoup4 =4.12.0 =pyha770c72_0
     - bokeh =2.4.3 =py37h03978a9_0
     - lightgbm =3.3.3 =py37h7f67f24_0
     - matplotlib =3.5.3 =py37h03978a9_2
@@ -173,7 +173,7 @@ requirements:
     - libwebp-base =1.3.0 =hcfcfb64_0
     - libxcb =1.13 =hcd874cb_1004
     - libxgboost =1.6.2 =cpu_h20390bd_1
-    - libxml2 =2.10.3 =hc3477c8_3
+    - libxml2 =2.10.3 =hc3477c8_4
     - libxslt =1.1.37 =h0192164_0
     - libzlib =1.2.13 =hcfcfb64_4
     - llvmlite =0.39.1 =py37h0c9d48c_0
@@ -194,7 +194,7 @@ requirements:
     - msys2-conda-epoch =20160418 =1
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.9 =py37h7f67f24_0
-    - nbformat =5.7.3 =pyhd8ed1ab_0
+    - nbformat =5.8.0 =pyhd8ed1ab_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - networkx =2.7 =pyhd8ed1ab_0
     - nltk =3.8.1 =pyhd8ed1ab_0
@@ -240,7 +240,7 @@ requirements:
     - pyldavis =3.3.1 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py37ha54c9ec_1
     - pynndescent =0.5.8 =pyh1a96a4e_0
-    - pyod =1.0.8 =pyhd8ed1ab_0
+    - pyod =1.0.9 =pyhd8ed1ab_0
     - pyopenssl =23.0.0 =pyhd8ed1ab_0
     - pyparsing =3.0.9 =pyhd8ed1ab_0
     - pyqt5-sip =12.11.0 =py37h7f67f24_1

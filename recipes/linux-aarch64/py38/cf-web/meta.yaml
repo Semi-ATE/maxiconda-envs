@@ -25,7 +25,7 @@ requirements:
     - python =3.8.15 =ha43d526_1_cpython
 
     # 9 primary packages :
-    - beautifulsoup4 =4.11.2 =pyha770c72_0
+    - beautifulsoup4 =4.12.0 =pyha770c72_0
     - django =4.1.7 =pyhd8ed1ab_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - pyqt =5.15.7 =py38h78f0ab1_3
@@ -88,7 +88,7 @@ requirements:
     - icu =70.1 =ha18d298_0
     - idna =3.4 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - ipykernel =6.21.3 =pyh210e3f2_0
+    - ipykernel =6.22.0 =pyh210e3f2_0
     - ipython =8.11.0 =pyh41d4057_0
     - jack =1.9.22 =hf8b18a5_0
     - jedi =0.18.2 =pyhd8ed1ab_0
@@ -133,12 +133,12 @@ requirements:
     - libvorbis =1.3.7 =h01db608_0
     - libxcb =1.13 =h3557bc0_1004
     - libxkbcommon =1.5.0 =h4f22d97_1
-    - libxml2 =2.10.3 =habe54e3_3
+    - libxml2 =2.10.3 =habe54e3_4
     - libzlib =1.2.13 =h4e544f5_4
     - lz4-c =1.9.4 =hd600fc2_0
     - markupsafe =2.1.2 =py38hd5eba46_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
-    - mpg123 =1.31.2 =hd600fc2_0
+    - mpg123 =1.31.3 =hd600fc2_0
     - mysql-common =8.0.32 =hed3ad84_0
     - mysql-libs =8.0.32 =h42d7160_0
     - ncurses =6.3 =headf329_1
@@ -171,7 +171,7 @@ requirements:
     - pysocks =1.7.1 =py38h2063c64_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
-    - pyzmq =25.0.1 =py38ha599cda_0
+    - pyzmq =25.0.2 =py38ha599cda_0
     - qt-main =5.15.8 =h7a5f702_7
     - readline =8.1.2 =h38e3740_0
     - service_identity =18.1.0 =py_0

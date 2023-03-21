@@ -25,7 +25,7 @@ requirements:
     - python =3.8.16 =hf9b03c3_1_cpython
 
     # 20 primary packages :
-    - beautifulsoup4 =4.11.2 =pyha770c72_0
+    - beautifulsoup4 =4.12.0 =pyha770c72_0
     - bokeh =3.1.0 =pyhd8ed1ab_0
     - lightgbm =3.3.5 =py38h6e1195d_0
     - matplotlib =3.7.1 =py38h50d1736_0
@@ -159,7 +159,7 @@ requirements:
     - importlib-resources =5.12.0 =pyhd8ed1ab_0
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - ipykernel =6.21.2 =pyh736e0ef_0
+    - ipykernel =6.22.0 =pyh736e0ef_0
     - ipython =8.11.0 =pyhd1c38e8_0
     - ipywidgets =8.0.4 =pyhd8ed1ab_0
     - itemadapter =0.7.0 =pyhd8ed1ab_0
@@ -226,7 +226,7 @@ requirements:
     - libwebp-base =1.2.4 =h775f41a_0
     - libxcb =1.13 =h0d85af4_1004
     - libxgboost =1.7.4 =cpu_h0c1cf5f_0
-    - libxml2 =2.10.3 =hb9e07b5_0
+    - libxml2 =2.10.3 =h201ad9d_4
     - libxslt =1.1.37 =h5d22bc9_0
     - libzlib =1.2.13 =hfd90126_4
     - llvm-openmp =16.0.0 =h61d9ccf_0
@@ -248,7 +248,7 @@ requirements:
     - murmurhash =1.0.9 =py38h4cd09af_1
     - mysql-common =8.0.32 =hc4b2c72_0
     - mysql-libs =8.0.32 =h8658499_0
-    - nbformat =5.7.3 =pyhd8ed1ab_0
+    - nbformat =5.8.0 =pyhd8ed1ab_0
     - ncurses =6.3 =h96cf925_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - networkx =3.0 =pyhd8ed1ab_0
@@ -306,7 +306,7 @@ requirements:
     - pyldavis =3.4.0 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py38hef030d1_2
     - pynndescent =0.5.8 =pyh1a96a4e_0
-    - pyod =1.0.8 =pyhd8ed1ab_0
+    - pyod =1.0.9 =pyhd8ed1ab_0
     - pyopenssl =23.0.0 =pyhd8ed1ab_0
     - pyparsing =3.0.9 =pyhd8ed1ab_0
     - pyqt5-sip =12.11.0 =py38haf9be31_3
@@ -321,7 +321,7 @@ requirements:
     - pywavelets =1.4.1 =py38hbd87e4b_0
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
     - pyyaml =6.0 =py38hef030d1_5
-    - pyzmq =25.0.1 =py38h0b711fd_0
+    - pyzmq =25.0.2 =py38h0b711fd_0
     - qt-main =5.15.8 =h1d3b3f8_6
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0

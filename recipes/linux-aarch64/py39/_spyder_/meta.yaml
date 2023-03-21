@@ -50,7 +50,7 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
-    - beautifulsoup4 =4.11.2 =pyha770c72_0
+    - beautifulsoup4 =4.12.0 =pyha770c72_0
     - binaryornot =0.4.4 =py_1
     - black =23.1.0 =py39h4420490_0
     - bleach =6.0.0 =pyhd8ed1ab_0
@@ -114,7 +114,7 @@ requirements:
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.0.2 =py_0
-    - ipykernel =6.21.3 =pyh210e3f2_0
+    - ipykernel =6.22.0 =pyh210e3f2_0
     - ipython =8.11.0 =pyh41d4057_0
     - ipython_genutils =0.2.0 =py_1
     - isort =5.12.0 =pyhd8ed1ab_1
@@ -185,7 +185,7 @@ requirements:
     - libwebp-base =1.3.0 =hb4cce97_0
     - libxcb =1.13 =h3557bc0_1004
     - libxkbcommon =1.5.0 =h4f22d97_1
-    - libxml2 =2.10.3 =habe54e3_3
+    - libxml2 =2.10.3 =habe54e3_4
     - libzlib =1.2.13 =h4e544f5_4
     - lz4-c =1.9.4 =hd600fc2_0
     - markupsafe =2.1.2 =py39h599bc27_0
@@ -196,7 +196,7 @@ requirements:
     - more-itertools =9.1.0 =pyhd8ed1ab_0
     - mpc =1.3.1 =hf4c8f4c_0
     - mpfr =4.2.0 =h96f194b_0
-    - mpg123 =1.31.2 =hd600fc2_0
+    - mpg123 =1.31.3 =hd600fc2_0
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =1.0.0 =pyha770c72_0
@@ -206,7 +206,7 @@ requirements:
     - nbconvert =7.2.9 =pyhd8ed1ab_0
     - nbconvert-core =7.2.9 =pyhd8ed1ab_0
     - nbconvert-pandoc =7.2.9 =pyhd8ed1ab_0
-    - nbformat =5.7.3 =pyhd8ed1ab_0
+    - nbformat =5.8.0 =pyhd8ed1ab_0
     - ncurses =6.3 =headf329_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - nspr =4.35 =h4de3ea5_0
@@ -262,7 +262,7 @@ requirements:
     - pytz =2022.7.1 =pyhd8ed1ab_0
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0 =py39h0fd3b05_5
-    - pyzmq =25.0.1 =py39h693dd76_0
+    - pyzmq =25.0.2 =py39h693dd76_0
     - qdarkstyle =3.0.3 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
     - qt-main =5.15.8 =h7a5f702_7
@@ -309,7 +309,7 @@ requirements:
     - unicodedata2 =15.0.0 =py39h0fd3b05_0
     - unidecode =1.3.6 =pyhd8ed1ab_0
     - urllib3 =1.26.15 =pyhd8ed1ab_0
-    - watchdog =2.3.1 =py39ha65689a_0
+    - watchdog =3.0.0 =py39ha65689a_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1
     - whatthepatch =1.0.4 =pyhd8ed1ab_0
