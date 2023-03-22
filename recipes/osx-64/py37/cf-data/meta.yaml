@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.13.2 =py37h4de8ad1_0
     - xgboost =1.6.2 =cpu_py37h1d3cd25_1
 
-    # 283 secondary packages :
+    # 281 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.10.2 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -133,7 +133,7 @@ requirements:
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.16.2 =pyh736e0ef_0
     - ipython =7.33.0 =py37hf985489_0
-    - ipywidgets =8.0.4 =pyhd8ed1ab_0
+    - ipywidgets =8.0.5 =pyhd8ed1ab_0
     - itemadapter =0.7.0 =pyhd8ed1ab_0
     - itemloaders =1.0.6 =pyhd8ed1ab_0
     - itsdangerous =2.1.2 =pyhd8ed1ab_0
@@ -145,7 +145,7 @@ requirements:
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =4.11.1 =py37hf985489_0
-    - jupyterlab_widgets =3.0.5 =pyhd8ed1ab_0
+    - jupyterlab_widgets =3.0.6 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py37h229a17a_0
     - kmodes =0.12.2 =pyhd8ed1ab_0
     - krb5 =1.20.1 =h049b76e_0
@@ -203,7 +203,6 @@ requirements:
     - murmurhash =1.0.9 =py37hac51a3e_0
     - mysql-common =8.0.32 =hc4b2c72_0
     - mysql-libs =8.0.32 =h8658499_0
-    - nbformat =5.8.0 =pyhd8ed1ab_0
     - ncurses =6.3 =h96cf925_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - networkx =2.7 =pyhd8ed1ab_0
@@ -262,7 +261,6 @@ requirements:
     - pysocks =1.7.1 =py37hf985489_5
     - python-cufflinks =0.17.3 =py_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
-    - python-fastjsonschema =2.16.3 =pyhd8ed1ab_0
     - python-graphviz =0.20.1 =pyh22cad53_0
     - python_abi =3.7 =3_cp37m
     - pytz =2022.7.1 =pyhd8ed1ab_0
@@ -317,7 +315,7 @@ requirements:
     - websocket-client =1.5.1 =pyhd8ed1ab_0
     - werkzeug =2.2.3 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
-    - widgetsnbextension =4.0.5 =pyhd8ed1ab_0
+    - widgetsnbextension =4.0.6 =pyhd8ed1ab_0
     - wordcloud =1.8.2.2 =py37h8052db5_1
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xorg-libxau =1.0.9 =h35c211d_0

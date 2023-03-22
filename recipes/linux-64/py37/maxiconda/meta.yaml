@@ -124,7 +124,7 @@ requirements:
     - gcc_impl_linux-64 =12.2.0 =hcc96c02_19
     - gettext =0.21.1 =h27087fc_0
     - gfortran_impl_linux-64 =12.2.0 =h55be85b_19
-    - git =2.40.0 =pl5321h693f4a3_0
+    - git =2.40.0 =pl5321h3ca6407_1
     - glib =2.74.1 =h6239696_1
     - glib-tools =2.74.1 =h6239696_1
     - gmp =6.2.1 =h58526e2_0
@@ -293,7 +293,7 @@ requirements:
     - r-bslib =0.4.2 =r42hc72bb7e_0
     - r-cachem =1.0.7 =r42h133d619_0
     - r-callr =3.7.3 =r42hc72bb7e_0
-    - r-caret =6.0_93 =r42h06615bd_1
+    - r-caret =6.0_94 =r42h133d619_0
     - r-cellranger =1.1.0 =r42hc72bb7e_1005
     - r-class =7.3_21 =r42h133d619_0
     - r-cli =3.6.0 =r42h38f115c_0
@@ -309,7 +309,7 @@ requirements:
     - r-curl =4.3.3 =r42h06615bd_1
     - r-data.table =1.14.8 =r42h133d619_0
     - r-dbi =1.1.3 =r42hc72bb7e_1
-    - r-dbplyr =2.3.1 =r42hc72bb7e_0
+    - r-dbplyr =2.3.2 =r42hc72bb7e_0
     - r-digest =0.6.31 =r42h38f115c_0
     - r-dplyr =1.1.0 =r42h38f115c_0
     - r-dtplyr =1.3.0 =r42hc72bb7e_0
@@ -337,12 +337,12 @@ requirements:
     - r-googledrive =2.0.0 =r42hc72bb7e_1
     - r-googlesheets4 =1.0.1 =r42h785f33e_1
     - r-gower =1.0.1 =r42h133d619_0
-    - r-gtable =0.3.2 =r42hc72bb7e_0
+    - r-gtable =0.3.3 =r42hc72bb7e_0
     - r-hardhat =1.2.0 =r42hc72bb7e_1
     - r-haven =2.5.2 =r42h38f115c_0
     - r-hexbin =1.28.2 =r42h8da6f51_1
     - r-highr =0.10 =r42hc72bb7e_0
-    - r-hms =1.1.2 =r42hc72bb7e_1
+    - r-hms =1.1.3 =r42hc72bb7e_0
     - r-htmltools =0.5.4 =r42h38f115c_0
     - r-htmlwidgets =1.6.2 =r42hc72bb7e_0
     - r-httpcode =0.3.0 =r42ha770c72_2
@@ -395,7 +395,7 @@ requirements:
     - r-promises =1.2.0.1 =r42h7525677_1
     - r-proxy =0.4_27 =r42h06615bd_1
     - r-pryr =0.1.6 =r42h38f115c_0
-    - r-ps =1.7.2 =r42h06615bd_0
+    - r-ps =1.7.3 =r42h133d619_0
     - r-purrr =1.0.1 =r42h133d619_0
     - r-quantmod =0.4.20 =r42hc72bb7e_1
     - r-r6 =2.5.1 =r42hc72bb7e_1

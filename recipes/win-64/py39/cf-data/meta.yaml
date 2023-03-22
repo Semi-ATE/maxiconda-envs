@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.13.5 =py39hc266a54_2
     - xgboost =1.7.4 =cpu_py39ha538f94_0
 
-    # 316 secondary packages :
+    # 311 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.10.2 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -142,7 +142,7 @@ requirements:
     - intel-openmp =2023.0.0 =h57928b3_25922
     - ipykernel =6.22.0 =pyh025b116_0
     - ipython =8.11.0 =pyh08f2357_0
-    - ipywidgets =8.0.4 =pyhd8ed1ab_0
+    - ipywidgets =8.0.5 =pyhd8ed1ab_0
     - itemadapter =0.7.0 =pyhd8ed1ab_0
     - itemloaders =1.0.6 =pyhd8ed1ab_0
     - itsdangerous =2.1.2 =pyhd8ed1ab_0
@@ -150,10 +150,9 @@ requirements:
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - jmespath =1.0.1 =pyhd8ed1ab_0
     - joblib =1.2.0 =pyhd8ed1ab_0
-    - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =5.3.0 =py39hcbf5309_0
-    - jupyterlab_widgets =3.0.5 =pyhd8ed1ab_0
+    - jupyterlab_widgets =3.0.6 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py39h1f6ef14_1
     - kmodes =0.12.2 =pyhd8ed1ab_0
     - krb5 =1.20.1 =heb0366b_0
@@ -193,7 +192,7 @@ requirements:
     - libwebp-base =1.3.0 =hcfcfb64_0
     - libxcb =1.13 =hcd874cb_1004
     - libxgboost =1.7.4 =cpu_h20390bd_0
-    - libxml2 =2.10.3 =hc3477c8_4
+    - libxml2 =2.10.3 =hc3477c8_6
     - libxslt =1.1.37 =h0192164_0
     - libzlib =1.2.13 =hcfcfb64_4
     - llvmlite =0.39.1 =py39hd28a505_1
@@ -218,7 +217,6 @@ requirements:
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.9 =py39h99910a6_1
-    - nbformat =5.8.0 =pyhd8ed1ab_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - networkx =3.0 =pyhd8ed1ab_0
     - nltk =3.8.1 =pyhd8ed1ab_0
@@ -241,10 +239,9 @@ requirements:
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =9.4.0 =py39haa1d754_2
     - pip =23.0.1 =pyhd8ed1ab_0
-    - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
     - platformdirs =3.1.1 =pyhd8ed1ab_0
     - ply =3.11 =py_1
-    - pooch =1.7.0 =pyhd8ed1ab_0
+    - pooch =1.7.0 =pyha770c72_1
     - preshed =3.0.8 =py39h99910a6_1
     - prometheus_client =0.16.0 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.22.3 =pyhd8ed1ab_0
@@ -274,11 +271,9 @@ requirements:
     - pyopenssl =23.0.0 =pyhd8ed1ab_0
     - pyparsing =3.0.9 =pyhd8ed1ab_0
     - pyqt5-sip =12.11.0 =py39h99910a6_3
-    - pyrsistent =0.19.3 =py39ha55989b_0
     - pysocks =1.7.1 =py39hcbf5309_5
     - python-cufflinks =0.17.3 =py_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
-    - python-fastjsonschema =2.16.3 =pyhd8ed1ab_0
     - python-graphviz =0.16 =pyhd3deb0d_1
     - python_abi =3.9 =3_cp39
     - pytz =2022.7.1 =pyhd8ed1ab_0
@@ -348,7 +343,7 @@ requirements:
     - websocket-client =1.5.1 =pyhd8ed1ab_0
     - werkzeug =2.2.3 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
-    - widgetsnbextension =4.0.5 =pyhd8ed1ab_0
+    - widgetsnbextension =4.0.6 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py39hcbf5309_5
     - wordcloud =1.8.2.2 =py39ha55989b_1
     - xorg-libxau =1.0.9 =hcd874cb_0
