@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.0.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 463 secondary packages :
+    # 464 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -100,7 +100,7 @@ requirements:
     - comm =0.1.3 =pyhd8ed1ab_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.0.7 =py38hfbd4bf9_0
-    - cryptography =39.0.2 =py38h3d167d9_0
+    - cryptography =40.0.1 =py38h3d167d9_0
     - curl =7.88.1 =hdc1c0ab_1
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
@@ -262,7 +262,7 @@ requirements:
     - pixman =0.40.0 =h36c2ea0_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
-    - platformdirs =3.1.1 =pyhd8ed1ab_0
+    - platformdirs =3.2.0 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py38h578d9bd_4
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyha770c72_3
@@ -342,7 +342,7 @@ requirements:
     - r-generics =0.1.3 =r42hc72bb7e_1
     - r-ggplot2 =3.4.1 =r42hc72bb7e_0
     - r-gistr =0.9.0 =r42hc72bb7e_1
-    - r-glmnet =4.1_2 =r42h8da6f51_1
+    - r-glmnet =4.1_7 =r42haa30946_0
     - r-globals =0.16.2 =r42hc72bb7e_0
     - r-glue =1.6.2 =r42h06615bd_1
     - r-googledrive =2.1.0 =r42hc72bb7e_0
@@ -415,6 +415,7 @@ requirements:
     - r-rbokeh =0.5.2 =r42hc72bb7e_2
     - r-rcolorbrewer =1.1_3 =r42h785f33e_1
     - r-rcpp =1.0.10 =r42h38f115c_0
+    - r-rcppeigen =0.3.3.9.3 =r42h9f5de39_0
     - r-readr =2.1.4 =r42h38f115c_0
     - r-readxl =1.4.2 =r42h81ef4d7_0
     - r-recipes =1.0.5 =r42hc72bb7e_0
