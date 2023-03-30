@@ -27,7 +27,7 @@ requirements:
     # 8 primary packages :
     - numpy =1.24.2 =py39h7360e5f_0
     - openpyxl =3.1.1 =py39h72bdee0_0
-    - pandas =1.5.3 =py39h2ad29b5_0
+    - pandas =1.5.3 =py39h2ad29b5_1
     - pyqt =5.15.7 =py39h5c7b992_3
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
@@ -120,7 +120,7 @@ requirements:
     - libtool =2.4.7 =h27087fc_0
     - libudev1 =253 =h0b41bf4_1
     - libusb =1.0.26 =h0b4f0b6_100
-    - libuuid =2.32.1 =h7f98852_1000
+    - libuuid =2.38.1 =h0b41bf4_0
     - libvorbis =1.3.7 =h9c3ff4c_0
     - libxcb =1.13 =h7f98852_1004
     - libxkbcommon =1.5.0 =h79f4944_1
@@ -158,7 +158,7 @@ requirements:
     - pyqt5-sip =12.11.0 =py39h227be39_3
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =3_cp39
-    - pytz =2023.2 =pyhd8ed1ab_0
+    - pytz =2023.3 =pyhd8ed1ab_0
     - pyvisa =1.13.0 =py39hf3d152e_0
     - pyzmq =25.0.2 =py39h0be026e_0
     - qt-main =5.15.8 =h67dfc38_7

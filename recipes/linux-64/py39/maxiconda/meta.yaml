@@ -39,7 +39,7 @@ requirements:
     - numpy =1.23.5 =py39h3d75532_0
     - openpyxl =3.1.1 =py39h72bdee0_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
-    - pandas =1.5.3 =py39h2ad29b5_0
+    - pandas =1.5.3 =py39h2ad29b5_1
     - psutil =5.9.4 =py39hb9d737c_0
     - pydantic =1.10.7 =py39h72bdee0_0
     - pyqt =5.15.7 =py39h5c7b992_3
@@ -213,7 +213,7 @@ requirements:
     - libtiff =4.5.0 =ha587672_6
     - libtool =2.4.7 =h27087fc_0
     - libudev1 =253 =h0b41bf4_1
-    - libuuid =2.32.1 =h7f98852_1000
+    - libuuid =2.38.1 =h0b41bf4_0
     - libvorbis =1.3.7 =h9c3ff4c_0
     - libwebp-base =1.3.0 =h0b41bf4_0
     - libxcb =1.13 =h7f98852_1004
@@ -288,7 +288,7 @@ requirements:
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-utils =3.5.2 =pyhd8ed1ab_0
     - python_abi =3.9 =3_cp39
-    - pytz =2023.2 =pyhd8ed1ab_0
+    - pytz =2023.3 =pyhd8ed1ab_0
     - pyzmq =25.0.2 =py39h0be026e_0
     - qt-main =5.15.8 =h67dfc38_7
     - qtpy =2.3.0 =pyhd8ed1ab_0

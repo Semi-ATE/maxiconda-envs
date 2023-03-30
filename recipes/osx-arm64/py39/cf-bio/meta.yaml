@@ -29,19 +29,20 @@ requirements:
     - matplotlib =3.7.1 =py39hdf13c20_0
     - mdanalysis =2.4.2 =py39ha2a2680_0
     - numpy =1.24.2 =py39hff61c6a_0
-    - pandas =1.5.3 =py39hde7b980_0
+    - pandas =1.5.3 =py39hde7b980_1
     - pymol-open-source =2.5.0 =py39h9c51d1a_6
     - pyqt =5.15.7 =py39h7fba1b6_3
     - rdkit =2022.09.5 =py39hed0c4f2_0
     - scipy =1.10.1 =py39h18313fe_0
     - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
 
-    # 192 secondary packages :
+    # 195 secondary packages :
     - appnope =0.1.3 =pyhd8ed1ab_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
+    - blosc =1.21.3 =h1d6ff8b_0
     - boost =1.78.0 =py39h99de9ae_4
     - boost-cpp =1.78.0 =h1cb353e_1
     - brotli =1.0.9 =h1a8c8d9_8
@@ -115,7 +116,7 @@ requirements:
     - libclang =14.0.6 =default_h81a5282_0
     - libclang13 =14.0.6 =default_he70ec0d_0
     - libcurl =7.88.1 =h9049daf_1
-    - libcxx =15.0.7 =h75e25f2_0
+    - libcxx =16.0.0 =h75e25f2_0
     - libdeflate =1.18 =h1a8c8d9_0
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libev =4.33 =h642e427_1
@@ -127,7 +128,7 @@ requirements:
     - libjpeg-turbo =2.1.5.1 =h1a8c8d9_0
     - liblapack =3.9.0 =16_osxarm64_openblas
     - libllvm14 =14.0.6 =hf6e71e7_1
-    - libnetcdf =4.9.2 =nompi_h9b03b3c_102
+    - libnetcdf =4.9.2 =nompi_h9b03b3c_103
     - libnghttp2 =1.52.0 =hae82a92_0
     - libogg =1.3.4 =h27ca646_1
     - libopenblas =0.3.21 =openmp_hc731615_3
@@ -145,6 +146,7 @@ requirements:
     - libzip =1.9.2 =h76ab92c_1
     - libzlib =1.2.13 =h03a7124_4
     - llvm-openmp =16.0.0 =h7cfbb63_0
+    - lz4-c =1.9.4 =hb7217d7_0
     - matplotlib-base =3.7.1 =py39h35e9e80_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mmtf-python =1.1.3 =pyhd8ed1ab_0
@@ -192,7 +194,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =3_cp39
     - pytng =0.3.0 =py39h4fa970e_0
-    - pytz =2023.2 =pyhd8ed1ab_0
+    - pytz =2023.3 =pyhd8ed1ab_0
     - pyzmq =25.0.2 =py39h0553236_0
     - qt-main =5.15.8 =h80905e8_7
     - readline =8.2 =h92ec313_1
@@ -204,6 +206,7 @@ requirements:
     - setuptools =67.6.1 =pyhd8ed1ab_0
     - sip =6.7.7 =py39h23fbdae_0
     - six =1.16.0 =pyh6c4a22f_0
+    - snappy =1.1.10 =h17c5cce_0
     - sqlalchemy =2.0.7 =py39h02fc5c5_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.13.5 =py39h4d8bf0d_2

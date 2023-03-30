@@ -29,14 +29,14 @@ requirements:
     - matplotlib =3.7.1 =py39hf3d152e_0
     - mdanalysis =2.4.2 =py39h5ea5205_0
     - numpy =1.24.2 =py39h7360e5f_0
-    - pandas =1.5.3 =py39h2ad29b5_0
+    - pandas =1.5.3 =py39h2ad29b5_1
     - pymol-open-source =2.5.0 =py39h7992df7_6
     - pyqt =5.15.7 =py39h5c7b992_3
     - rdkit =2022.09.4 =py39hb00a813_1
     - scipy =1.10.1 =py39h7360e5f_0
     - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
 
-    # 241 secondary packages :
+    # 243 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h166bdaf_0
@@ -45,6 +45,7 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
+    - blosc =1.21.3 =hafa529b_0
     - boost =1.78.0 =py39h7c9e3ff_4
     - boost-cpp =1.78.0 =h75c5d50_1
     - brotli =1.0.9 =h166bdaf_8
@@ -148,7 +149,7 @@ requirements:
     - libjpeg-turbo =2.1.5.1 =h0b41bf4_0
     - liblapack =3.9.0 =16_linux64_openblas
     - libllvm15 =15.0.7 =hadd5161_1
-    - libnetcdf =4.9.2 =nompi_hf3f8848_102
+    - libnetcdf =4.9.2 =nompi_hf3f8848_103
     - libnghttp2 =1.52.0 =h61bc06f_0
     - libnsl =2.0.0 =h7f98852_0
     - libogg =1.3.4 =h7f98852_1
@@ -165,7 +166,7 @@ requirements:
     - libtiff =4.5.0 =ha587672_6
     - libtool =2.4.7 =h27087fc_0
     - libudev1 =253 =h0b41bf4_1
-    - libuuid =2.32.1 =h7f98852_1000
+    - libuuid =2.38.1 =h0b41bf4_0
     - libvorbis =1.3.7 =h9c3ff4c_0
     - libwebp-base =1.3.0 =h0b41bf4_0
     - libxcb =1.13 =h7f98852_1004
@@ -225,7 +226,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =3_cp39
     - pytng =0.3.0 =py39h0050040_0
-    - pytz =2023.2 =pyhd8ed1ab_0
+    - pytz =2023.3 =pyhd8ed1ab_0
     - pyzmq =25.0.2 =py39h0be026e_0
     - qt-main =5.15.8 =h67dfc38_7
     - readline =8.2 =h8228510_1
@@ -237,6 +238,7 @@ requirements:
     - setuptools =67.6.1 =pyhd8ed1ab_0
     - sip =6.7.7 =py39h227be39_0
     - six =1.16.0 =pyh6c4a22f_0
+    - snappy =1.1.10 =h9fff704_0
     - sqlalchemy =2.0.7 =py39h72bdee0_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.13.5 =py39h2ae25f5_2
