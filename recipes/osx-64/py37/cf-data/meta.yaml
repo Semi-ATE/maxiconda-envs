@@ -31,7 +31,7 @@ requirements:
     - matplotlib =3.5.3 =py37hf985489_2
     - numpy =1.21.6 =py37h345d48f_0
     - pandas =1.3.5 =py37h5b83a90_0
-    - plotly =5.13.1 =pyhd8ed1ab_0
+    - plotly =5.14.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py37hf985489_2
     - pyqt =5.15.7 =py37h1b19134_1
@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.13.2 =py37h4de8ad1_0
     - xgboost =1.6.2 =cpu_py37h1d3cd25_1
 
-    # 281 secondary packages :
+    # 282 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.10.2 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -89,7 +89,7 @@ requirements:
     - decorator =5.1.1 =pyhd8ed1ab_0
     - docker-py =6.0.0 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - expat =2.5.0 =hf0c8a7f_0
+    - expat =2.5.0 =hf0c8a7f_1
     - filelock =3.10.7 =pyhd8ed1ab_0
     - flask =2.2.3 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -160,6 +160,7 @@ requirements:
     - libcxx =16.0.0 =h71dddab_0
     - libdeflate =1.14 =hb7f2c08_0
     - libedit =3.1.20191231 =h0678c8f_2
+    - libexpat =2.5.0 =hf0c8a7f_1
     - libffi =3.4.2 =h0d85af4_5
     - libgd =2.3.3 =h1e214de_3
     - libgfortran =5.0.0 =11_3_0_h97931a8_31
@@ -196,7 +197,7 @@ requirements:
     - matplotlib-base =3.5.3 =py37h3748cd6_2
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mkl =2022.2.1 =h44ed08c_16952
-    - mlflow =1.30.0 =py37h712bc25_0
+    - mlflow =1.26.1 =py37h712bc25_0
     - mlxtend =0.21.0 =pyhd8ed1ab_0
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
@@ -215,7 +216,7 @@ requirements:
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h5d0d7b0_1
     - openssl =3.1.0 =hfd90126_0
-    - packaging =21.3 =pyhd8ed1ab_0
+    - packaging =23.0 =pyhd8ed1ab_0
     - pandas-profiling =3.6.3 =pyhd8ed1ab_0
     - pango =1.50.14 =hbd9bf65_0
     - paramiko =3.1.0 =pyhd8ed1ab_0
@@ -263,7 +264,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-graphviz =0.20.1 =pyh22cad53_0
     - python_abi =3.7 =3_cp37m
-    - pytz =2022.7.1 =pyhd8ed1ab_0
+    - pytz =2023.3 =pyhd8ed1ab_0
     - pywavelets =1.3.0 =py37h49e79e5_1
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
     - pyyaml =6.0 =py37h69ee0a8_4

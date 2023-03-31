@@ -32,7 +32,7 @@ requirements:
     - cython =0.29.33 =py39hdcdd789_0
     - grayskull =2.3.0 =pyhd8ed1ab_0
     - hypothesis =6.70.1 =pyha770c72_0
-    - ipython =8.11.0 =pyh41d4057_0
+    - ipython =8.12.0 =pyh41d4057_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py39ha65689a_0
     - numba =0.56.4 =py39h58e5d4c_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.0.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 464 secondary packages :
+    # 465 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
@@ -110,7 +110,7 @@ requirements:
     - et_xmlfile =1.1.0 =pyhd8ed1ab_0
     - exceptiongroup =1.1.1 =pyhd8ed1ab_0
     - executing =1.2.0 =pyhd8ed1ab_0
-    - expat =2.5.0 =ha18d298_0
+    - expat =2.5.0 =hd600fc2_1
     - fftw =3.3.10 =nompi_ha1d0423_106
     - flit-core =3.8.0 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -179,6 +179,7 @@ requirements:
     - libedit =3.1.20191231 =he28a2e2_2
     - libev =4.33 =h516909a_1
     - libevent =2.1.10 =h4f30969_4
+    - libexpat =2.5.0 =hd600fc2_1
     - libffi =3.4.2 =h3557bc0_5
     - libflac =1.4.2 =h4de3ea5_0
     - libgcc-devel_linux-aarch64 =12.2.0 =h58a5bb6_19
@@ -290,7 +291,7 @@ requirements:
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyzmq =25.0.2 =py39h693dd76_0
     - qt-main =5.15.8 =h7a5f702_7
-    - qtpy =2.3.0 =pyhd8ed1ab_0
+    - qtpy =2.3.1 =pyhd8ed1ab_0
     - r-askpass =1.1 =r42h8e445f0_3
     - r-assertthat =0.2.1 =r42hc72bb7e_3
     - r-backports =1.4.1 =r42h8e445f0_1
@@ -348,7 +349,7 @@ requirements:
     - r-googlesheets4 =1.1.0 =r42h785f33e_0
     - r-gower =1.0.1 =r42h4fed366_0
     - r-gtable =0.3.3 =r42hc72bb7e_0
-    - r-hardhat =1.2.0 =r42hc72bb7e_1
+    - r-hardhat =1.3.0 =r42hc72bb7e_0
     - r-haven =2.5.2 =r42he0e9005_0
     - r-hexbin =1.28.3 =r42hfdb4d34_0
     - r-highr =0.10 =r42hc72bb7e_0

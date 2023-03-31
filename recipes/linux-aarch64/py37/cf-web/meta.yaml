@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =1.4.42 =py37heeccf27_0
     - twisted =22.8.0 =py37heeccf27_0
 
-    # 177 secondary packages :
+    # 178 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h4e544f5_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -61,7 +61,7 @@ requirements:
     - debugpy =1.6.3 =py37hb20f0a7_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - expat =2.5.0 =ha18d298_0
+    - expat =2.5.0 =hd600fc2_1
     - fftw =3.3.10 =nompi_ha1d0423_106
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -102,6 +102,7 @@ requirements:
     - libdb =6.2.32 =h01db608_0
     - libedit =3.1.20191231 =he28a2e2_2
     - libevent =2.1.10 =h4f30969_4
+    - libexpat =2.5.0 =hd600fc2_1
     - libffi =3.4.2 =h3557bc0_5
     - libflac =1.4.2 =h4de3ea5_0
     - libgcc-ng =12.2.0 =h607ecd0_19
