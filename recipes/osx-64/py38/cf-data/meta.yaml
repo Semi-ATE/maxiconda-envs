@@ -30,7 +30,7 @@ requirements:
     - lightgbm =3.3.5 =py38h6e1195d_0
     - matplotlib =3.7.1 =py38h50d1736_0
     - numpy =1.23.5 =py38hc2f29e8_0
-    - pandas =1.5.3 =py38hec72209_1
+    - pandas =2.0.0 =py38hec72209_0
     - plotly =5.14.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py38h50d1736_3
@@ -40,13 +40,13 @@ requirements:
     - scipy =1.10.1 =py38hfb8b963_0
     - scrapy =2.8.0 =py38h50d1736_1
     - seaborn =0.12.2 =hd8ed1ab_0
-    - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
+    - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
     - sqlalchemy =2.0.8 =py38hef030d1_0
     - sqlite =3.40.0 =h9ae0607_0
     - statsmodels =0.13.5 =py38hbd87e4b_2
     - xgboost =1.7.4 =cpu_py38ha5ba132_0
 
-    # 337 secondary packages :
+    # 339 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.10.2 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -154,6 +154,7 @@ requirements:
     - imbalanced-learn =0.10.1 =pyhd8ed1ab_0
     - importlib-metadata =6.1.0 =pyha770c72_0
     - importlib-resources =5.12.0 =pyhd8ed1ab_0
+    - importlib_metadata =6.1.0 =hd8ed1ab_0
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.22.0 =pyh736e0ef_0
@@ -167,7 +168,7 @@ requirements:
     - jmespath =1.0.1 =pyhd8ed1ab_0
     - joblib =1.2.0 =pyhd8ed1ab_0
     - jsonschema =4.17.3 =pyhd8ed1ab_0
-    - jupyter_client =7.4.9 =pyhd8ed1ab_0
+    - jupyter_client =8.1.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.0 =py38h50d1736_0
     - jupyterlab_widgets =3.0.7 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py38h98b9b1b_1
@@ -253,7 +254,7 @@ requirements:
     - nspr =4.35 =hea0b92c_0
     - nss =3.89 =h78b00b3_0
     - numba =0.56.4 =py38hab356c4_0
-    - numexpr =2.8.3 =py38hec72209_1
+    - numexpr =2.8.4 =py38hdaefe69_0
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h13ac156_2
     - openssl =3.1.0 =hfd90126_0
@@ -312,6 +313,7 @@ requirements:
     - python-cufflinks =0.17.3 =py_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-graphviz =0.20.1 =pyh22cad53_0
+    - python-tzdata =2023.3 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pytz =2022.7.1 =pyhd8ed1ab_0
     - pywavelets =1.4.1 =py38hbd87e4b_0
@@ -332,7 +334,7 @@ requirements:
     - setuptools =67.6.1 =pyhd8ed1ab_0
     - shap =0.41.0 =py38h2b30649_0
     - simpful =2.10.0 =pyhd8ed1ab_0
-    - sip =6.7.7 =py38h4cd09af_0
+    - sip =6.7.7 =py38h4cd09af_1
     - six =1.16.0 =pyh6c4a22f_0
     - sleef =3.5.1 =h6db0672_2
     - slicer =0.0.7 =pyhd8ed1ab_0

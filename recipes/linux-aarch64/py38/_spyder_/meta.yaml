@@ -28,14 +28,14 @@ requirements:
     - cython =0.29.33 =py38h31bd7b8_0
     - matplotlib =3.7.1 =py38h2063c64_0
     - numpy =1.24.2 =py38h39f6eef_0
-    - pandas =1.5.3 =py38h19f5adf_1
+    - pandas =2.0.0 =py38h19f5adf_0
     - pyqt =5.15.7 =py38h78f0ab1_3
     - pyqtwebengine =5.15.7 =py38hea26669_3
     - scipy =1.10.1 =py38h39f6eef_0
     - spyder =5.4.2 =py38he3eb160_0
     - sympy =1.11.1 =py38he3eb160_2
 
-    # 307 secondary packages :
+    # 308 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - alsa-lib =1.2.8 =h4e544f5_0
@@ -45,7 +45,7 @@ requirements:
     - atomicwrites =1.4.1 =pyhd8ed1ab_0
     - attr =2.5.1 =h4e544f5_1
     - attrs =22.2.0 =pyh71513ae_0
-    - autopep8 =1.6.0 =pyhd8ed1ab_1
+    - autopep8 =2.0.2 =pyhd8ed1ab_0
     - babel =2.12.1 =pyhd8ed1ab_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -126,7 +126,7 @@ requirements:
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - jinja2-time =0.2.0 =pyhd8ed1ab_3
     - jsonschema =4.17.3 =pyhd8ed1ab_0
-    - jupyter_client =7.4.9 =pyhd8ed1ab_0
+    - jupyter_client =8.1.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.0 =py38he3eb160_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - keyring =23.13.1 =py38he3eb160_0
@@ -242,7 +242,7 @@ requirements:
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycodestyle =2.10.0 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydocstyle =6.2.3 =pyhd8ed1ab_0
+    - pydocstyle =6.3.0 =pyhd8ed1ab_0
     - pyflakes =3.0.1 =pyhd8ed1ab_0
     - pygments =2.14.0 =pyhd8ed1ab_0
     - pylint =2.17.1 =pyhd8ed1ab_0
@@ -257,9 +257,10 @@ requirements:
     - python-fastjsonschema =2.16.3 =pyhd8ed1ab_0
     - python-lsp-black =1.2.1 =pyhd8ed1ab_0
     - python-lsp-jsonrpc =1.0.0 =pyhd8ed1ab_0
-    - python-lsp-server =1.7.1 =hd8ed1ab_0
-    - python-lsp-server-base =1.7.1 =pyhd8ed1ab_0
+    - python-lsp-server =1.7.2 =pyhd8ed1ab_0
+    - python-lsp-server-base =1.7.2 =pyhd8ed1ab_0
     - python-slugify =8.0.1 =pyhd8ed1ab_1
+    - python-tzdata =2023.3 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pytoolconfig =1.2.5 =pyhd8ed1ab_0
     - pytz =2023.3 =pyhd8ed1ab_0
@@ -271,8 +272,8 @@ requirements:
     - qt-main =5.15.8 =hbada809_8
     - qt-webengine =5.15.8 =h106d629_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
-    - qtconsole =5.4.1 =pyhd8ed1ab_0
-    - qtconsole-base =5.4.1 =pyha770c72_0
+    - qtconsole =5.4.2 =pyhd8ed1ab_0
+    - qtconsole-base =5.4.2 =pyha770c72_0
     - qtpy =2.3.1 =pyhd8ed1ab_0
     - readline =8.2 =h8fc344f_1
     - requests =2.28.2 =pyhd8ed1ab_1
@@ -280,7 +281,7 @@ requirements:
     - rtree =1.0.1 =py38hc089ca2_1
     - secretstorage =3.3.3 =py38h2063c64_1
     - setuptools =67.6.1 =pyhd8ed1ab_0
-    - sip =6.7.7 =py38ha362064_0
+    - sip =6.7.7 =py38ha362064_1
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
@@ -292,7 +293,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =py_0
     - sphinxcontrib-qthelp =1.0.3 =py_0
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_2
-    - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
+    - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - text-unidecode =1.3 =py_0
     - textdistance =4.5.0 =pyhd8ed1ab_0

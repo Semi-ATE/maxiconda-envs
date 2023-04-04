@@ -39,7 +39,7 @@ requirements:
     - numpy =1.23.5 =py38h7042d01_0
     - openpyxl =3.1.1 =py38h1de0b5d_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
-    - pandas =1.5.3 =py38hdc8b05c_1
+    - pandas =2.0.0 =py38hdc8b05c_0
     - psutil =5.9.4 =py38h0a891b7_0
     - pydantic =1.10.7 =py38h1de0b5d_0
     - pyqt =5.15.7 =py38ha0d8c90_3
@@ -55,7 +55,7 @@ requirements:
     - rust =1.67.1 =hefb9f0a_0
     - scipy =1.10.1 =py38h10c12cc_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
-    - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
+    - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
     - sqlalchemy =2.0.8 =py38h1de0b5d_0
     - sqlite =3.40.0 =h4ff8645_0
     - sympy =1.11.1 =py38h578d9bd_2
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.0.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 466 secondary packages :
+    # 468 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -144,6 +144,7 @@ requirements:
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =6.1.0 =pyha770c72_0
     - importlib-resources =5.12.0 =pyhd8ed1ab_0
+    - importlib_metadata =6.1.0 =hd8ed1ab_0
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
     - ipykernel =6.22.0 =pyh210e3f2_0
@@ -151,7 +152,7 @@ requirements:
     - jack =1.9.22 =h11f4161_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jsonschema =4.17.3 =pyhd8ed1ab_0
-    - jupyter_client =7.4.9 =pyhd8ed1ab_0
+    - jupyter_client =8.1.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.0 =py38h578d9bd_0
     - jupyter_events =0.6.3 =pyhd8ed1ab_0
     - jupyter_server =2.5.0 =pyhd8ed1ab_0
@@ -287,6 +288,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-fastjsonschema =2.16.3 =pyhd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
+    - python-tzdata =2023.3 =pyhd8ed1ab_0
     - python-utils =3.5.2 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pytz =2023.3 =pyhd8ed1ab_0
@@ -478,7 +480,7 @@ requirements:
     - semver =2.13.0 =pyh9f0ad1d_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =67.6.1 =pyhd8ed1ab_0
-    - sip =6.7.7 =py38h8dc9893_0
+    - sip =6.7.7 =py38h8dc9893_1
     - six =1.16.0 =pyh6c4a22f_0
     - sniffio =1.3.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0

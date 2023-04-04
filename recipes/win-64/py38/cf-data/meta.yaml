@@ -30,7 +30,7 @@ requirements:
     - lightgbm =3.3.5 =py38hd3f51b4_0
     - matplotlib =3.7.1 =py38haa244fe_0
     - numpy =1.23.5 =py38h90ce339_0
-    - pandas =1.5.3 =py38h5846ac1_1
+    - pandas =2.0.0 =py38h5846ac1_0
     - plotly =5.14.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py38haa244fe_3
@@ -39,13 +39,13 @@ requirements:
     - scipy =1.10.1 =py38h0f6ee2a_0
     - scrapy =2.8.0 =py38haa244fe_1
     - seaborn =0.12.2 =hd8ed1ab_0
-    - spyder-kernels =2.4.2 =win_pyhd8ed1ab_0
+    - spyder-kernels =2.4.3 =win_pyhd8ed1ab_0
     - sqlalchemy =2.0.8 =py38h91455d4_0
     - sqlite =3.40.0 =hcfcfb64_0
     - statsmodels =0.13.5 =py38hbaf524b_2
     - xgboost =1.7.4 =cpu_py38hc22ac66_0
 
-    # 332 secondary packages :
+    # 334 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.10.2 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -148,6 +148,7 @@ requirements:
     - imbalanced-learn =0.10.1 =pyhd8ed1ab_0
     - importlib-metadata =6.1.0 =pyha770c72_0
     - importlib-resources =5.12.0 =pyhd8ed1ab_0
+    - importlib_metadata =6.1.0 =hd8ed1ab_0
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - intel-openmp =2023.0.0 =h57928b3_25922
@@ -162,7 +163,7 @@ requirements:
     - jmespath =1.0.1 =pyhd8ed1ab_0
     - joblib =1.2.0 =pyhd8ed1ab_0
     - jsonschema =4.17.3 =pyhd8ed1ab_0
-    - jupyter_client =7.4.9 =pyhd8ed1ab_0
+    - jupyter_client =8.1.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.0 =py38haa244fe_0
     - jupyterlab_widgets =3.0.7 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py38hb1fd069_1
@@ -293,6 +294,7 @@ requirements:
     - python-cufflinks =0.17.3 =py_0
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-graphviz =0.20.1 =pyh22cad53_0
+    - python-tzdata =2023.3 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pytz =2022.7.1 =pyhd8ed1ab_0
     - pywavelets =1.4.1 =py38hbaf524b_0
@@ -313,7 +315,7 @@ requirements:
     - setuptools =67.6.1 =pyhd8ed1ab_0
     - shap =0.41.0 =py38hcc40339_0
     - simpful =2.10.0 =pyhd8ed1ab_0
-    - sip =6.7.7 =py38hd3f51b4_0
+    - sip =6.7.7 =py38hd3f51b4_1
     - six =1.16.0 =pyh6c4a22f_0
     - slicer =0.0.7 =pyhd8ed1ab_0
     - smart_open =6.3.0 =pyhd8ed1ab_1

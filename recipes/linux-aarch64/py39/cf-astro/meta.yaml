@@ -26,9 +26,9 @@ requirements:
 
     # 2 primary packages :
     - pyqt =5.15.7 =py39hd020858_3
-    - spyder-kernels =2.4.2 =unix_pyhd8ed1ab_0
+    - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
-    # 145 secondary packages :
+    # 147 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h4e544f5_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
@@ -44,7 +44,6 @@ requirements:
     - dbus =1.13.6 =h12b9eeb_3
     - debugpy =1.6.6 =py39hdcdd789_0
     - decorator =5.1.1 =pyhd8ed1ab_0
-    - entrypoints =0.4 =pyhd8ed1ab_0
     - executing =1.2.0 =pyhd8ed1ab_0
     - expat =2.5.0 =hd600fc2_1
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -63,10 +62,12 @@ requirements:
     - gstreamer =1.22.0 =h1f26242_2
     - harfbuzz =6.0.0 =h3c6782d_1
     - icu =72.1 =hcf00150_0
+    - importlib-metadata =6.1.0 =pyha770c72_0
+    - importlib_metadata =6.1.0 =hd8ed1ab_0
     - ipykernel =6.22.0 =pyh210e3f2_0
     - ipython =8.12.0 =pyh41d4057_0
     - jedi =0.18.2 =pyhd8ed1ab_0
-    - jupyter_client =7.4.9 =pyhd8ed1ab_0
+    - jupyter_client =8.1.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.0 =py39h4420490_0
     - keyutils =1.6.1 =h4e544f5_0
     - krb5 =1.20.1 =h113d92e_0
@@ -139,7 +140,7 @@ requirements:
     - qt-main =5.15.8 =hbada809_8
     - readline =8.2 =h8fc344f_1
     - setuptools =67.6.1 =pyhd8ed1ab_0
-    - sip =6.7.7 =py39h9232d20_0
+    - sip =6.7.7 =py39h9232d20_1
     - six =1.16.0 =pyh6c4a22f_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tk =8.6.12 =hd8af866_0
@@ -172,6 +173,7 @@ requirements:
     - xorg-xproto =7.0.31 =h3557bc0_1007
     - xz =5.2.6 =h9cdd2b7_0
     - zeromq =4.3.4 =h01db608_1
+    - zipp =3.15.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h4e544f5_4
     - zstd =1.5.2 =h44f6412_6
 
