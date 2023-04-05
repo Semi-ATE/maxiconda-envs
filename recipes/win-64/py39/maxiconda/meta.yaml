@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.1 =r41hd8ed1ab_2003
     - regex =2023.3.23 =py39ha55989b_0
     - requests =2.28.2 =pyhd8ed1ab_1
-    - rust =1.67.1 =hf8d6059_0
+    - rust =1.67.1 =hf8d6059_1
     - scipy =1.10.1 =py39hfbf2dce_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =win_pyhd8ed1ab_0
@@ -211,11 +211,11 @@ requirements:
     - msys2-conda-epoch =20160418 =1
     - multidict =6.0.4 =py39ha55989b_0
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - nbclassic =0.5.3 =pyhb4ecaf3_3
+    - nbclassic =0.5.4 =pyhb4ecaf3_1
     - nbclient =0.7.2 =pyhd8ed1ab_0
-    - nbconvert =7.2.10 =pyhd8ed1ab_1
-    - nbconvert-core =7.2.10 =pyhd8ed1ab_1
-    - nbconvert-pandoc =7.2.10 =pyhd8ed1ab_1
+    - nbconvert =7.3.0 =pyhd8ed1ab_2
+    - nbconvert-core =7.3.0 =pyhd8ed1ab_2
+    - nbconvert-pandoc =7.3.0 =pyhd8ed1ab_2
     - nbformat =5.8.0 =pyhd8ed1ab_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - notebook =6.5.3 =pyha770c72_0
@@ -445,7 +445,7 @@ requirements:
     - ruamel.yaml =0.17.21 =py39ha55989b_3
     - ruamel.yaml.clib =0.2.7 =py39ha55989b_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-pc-windows-msvc =1.67.1 =h69312b4_0
+    - rust-std-x86_64-pc-windows-msvc =1.67.1 =h69312b4_1
     - semver =2.13.0 =pyh9f0ad1d_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =67.6.1 =pyhd8ed1ab_0
