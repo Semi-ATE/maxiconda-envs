@@ -27,11 +27,11 @@ requirements:
     # 38 primary packages :
     - aiohttp =3.8.4 =py39ha55989b_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
-    - beautifulsoup4 =4.12.0 =pyha770c72_0
+    - beautifulsoup4 =4.12.1 =pyha770c72_0
     - bitarray =2.7.3 =py39ha55989b_0
-    - cython =0.29.33 =py39h99910a6_0
+    - cython =0.29.34 =py39h99910a6_0
     - grayskull =2.3.0 =pyhd8ed1ab_0
-    - hypothesis =6.70.1 =pyha770c72_0
+    - hypothesis =6.70.2 =pyha770c72_0
     - ipython =8.12.0 =pyh08f2357_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py39hcbf5309_0
@@ -211,8 +211,8 @@ requirements:
     - msys2-conda-epoch =20160418 =1
     - multidict =6.0.4 =py39ha55989b_0
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - nbclassic =0.5.4 =pyhb4ecaf3_1
-    - nbclient =0.7.2 =pyhd8ed1ab_0
+    - nbclassic =0.5.5 =pyhb4ecaf3_1
+    - nbclient =0.7.3 =pyhd8ed1ab_0
     - nbconvert =7.3.0 =pyhd8ed1ab_2
     - nbconvert-core =7.3.0 =pyhd8ed1ab_2
     - nbconvert-pandoc =7.3.0 =pyhd8ed1ab_2
@@ -378,9 +378,9 @@ requirements:
     - r-promises =1.2.0.1 =r41ha856d6a_1
     - r-proxy =0.4_27 =r41h6d2157b_1
     - r-pryr =0.1.6 =r41ha856d6a_0
-    - r-ps =1.7.3 =r41h6d2157b_0
+    - r-ps =1.7.4 =r41h6d2157b_0
     - r-purrr =1.0.1 =r41h6d2157b_0
-    - r-quantmod =0.4.20 =r41hc72bb7e_1
+    - r-quantmod =0.4.21 =r41hc72bb7e_0
     - r-r6 =2.5.1 =r41hc72bb7e_1
     - r-ragg =1.2.5 =r41hb5fc66f_0
     - r-randomforest =4.7_1.1 =r41he816bda_1

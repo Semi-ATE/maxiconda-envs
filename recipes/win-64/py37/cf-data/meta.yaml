@@ -25,13 +25,13 @@ requirements:
     - python =3.7.12 =h900ac77_100_cpython
 
     # 19 primary packages :
-    - beautifulsoup4 =4.12.0 =pyha770c72_0
+    - beautifulsoup4 =4.12.1 =pyha770c72_0
     - bokeh =2.4.3 =py37h03978a9_0
     - lightgbm =3.3.3 =py37h7f67f24_0
     - matplotlib =3.5.3 =py37h03978a9_2
     - numpy =1.21.6 =py37h2830a78_0
     - pandas =1.3.5 =py37h9386db6_0
-    - plotly =5.14.0 =pyhd8ed1ab_0
+    - plotly =5.14.1 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py37h03978a9_2
     - pyqt =5.15.7 =py37h15e4627_1
@@ -55,7 +55,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - bcrypt =3.2.2 =py37hcc03f2d_0
-    - blinker =1.5 =pyhd8ed1ab_0
+    - blinker =1.6 =pyhd8ed1ab_0
     - brotli =1.0.9 =hcfcfb64_8
     - brotli-bin =1.0.9 =hcfcfb64_8
     - brotlipy =0.7.0 =py37hcc03f2d_1004
@@ -73,7 +73,7 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_0
     - colorlover =0.3.0 =py_0
     - configparser =5.3.0 =pyhd8ed1ab_0
-    - confuse =2.0.0 =pyhd8ed1ab_0
+    - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - cryptography =38.0.2 =py37h953a470_1
     - cssselect =1.2.0 =pyhd8ed1ab_0

@@ -27,7 +27,7 @@ requirements:
     # 38 primary packages :
     - aiohttp =3.8.3 =py37h795501a_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
-    - beautifulsoup4 =4.12.0 =pyha770c72_0
+    - beautifulsoup4 =4.12.1 =pyha770c72_0
     - bitarray =2.6.0 =py37heeccf27_0
     - cython =0.29.32 =py37hb20f0a7_0
     - grayskull =0.9.1 =pyhd8ed1ab_0
@@ -231,7 +231,7 @@ requirements:
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mysql-common =8.0.32 =hed3ad84_1
     - mysql-libs =8.0.32 =h42d7160_1
-    - nbclassic =0.5.4 =pyhb4ecaf3_1
+    - nbclassic =0.5.5 =pyhb4ecaf3_1
     - nbclient =0.7.0 =pyhd8ed1ab_0
     - nbconvert =7.3.0 =pyhd8ed1ab_2
     - nbconvert-core =7.3.0 =pyhd8ed1ab_2
@@ -397,9 +397,9 @@ requirements:
     - r-promises =1.2.0.1 =r42h526691d_1
     - r-proxy =0.4_27 =r42h8e445f0_1
     - r-pryr =0.1.6 =r42he0e9005_0
-    - r-ps =1.7.3 =r42h4fed366_0
+    - r-ps =1.7.4 =r42h4fed366_0
     - r-purrr =1.0.1 =r42h4fed366_0
-    - r-quantmod =0.4.20 =r42hc72bb7e_1
+    - r-quantmod =0.4.21 =r42hc72bb7e_0
     - r-r6 =2.5.1 =r42hc72bb7e_1
     - r-randomforest =4.7_1.1 =r42h7d6fccf_1
     - r-rappdirs =0.3.3 =r42h8e445f0_1

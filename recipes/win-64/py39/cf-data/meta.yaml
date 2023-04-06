@@ -25,13 +25,13 @@ requirements:
     - python =3.9.16 =h4de0772_0_cpython
 
     # 19 primary packages :
-    - beautifulsoup4 =4.12.0 =pyha770c72_0
+    - beautifulsoup4 =4.12.1 =pyha770c72_0
     - bokeh =3.1.0 =pyhd8ed1ab_0
     - lightgbm =3.3.5 =py39h99910a6_0
     - matplotlib =3.7.1 =py39hcbf5309_0
     - numpy =1.23.5 =py39hbccbffa_0
     - pandas =2.0.0 =py39h2ba5b7c_0
-    - plotly =5.14.0 =pyhd8ed1ab_0
+    - plotly =5.14.1 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py39hcbf5309_3
     - pyqt =5.15.7 =py39hb77abff_3
@@ -70,7 +70,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - bcrypt =3.2.2 =py39ha55989b_1
-    - blinker =1.5 =pyhd8ed1ab_0
+    - blinker =1.6 =pyhd8ed1ab_0
     - bottleneck =1.3.7 =py39hc266a54_0
     - brotli =1.0.9 =hcfcfb64_8
     - brotli-bin =1.0.9 =hcfcfb64_8
@@ -91,7 +91,7 @@ requirements:
     - colorlover =0.3.0 =py_0
     - comm =0.1.3 =pyhd8ed1ab_0
     - configparser =5.3.0 =pyhd8ed1ab_0
-    - confuse =2.0.0 =pyhd8ed1ab_0
+    - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.0.7 =py39h1f6ef14_0
     - cryptography =40.0.1 =py39hb6bd5e6_0
@@ -233,7 +233,7 @@ requirements:
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.9 =py39h99910a6_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
-    - networkx =3.0 =pyhd8ed1ab_0
+    - networkx =3.1 =pyhd8ed1ab_0
     - nltk =3.8.1 =pyhd8ed1ab_0
     - numba =0.56.4 =py39h99ae161_0
     - numexpr =2.7.3 =py39h2e25243_2
@@ -252,7 +252,7 @@ requirements:
     - pcre2 =10.40 =h17e33f8_0
     - phik =0.12.3 =py39h0f24028_0
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =9.4.0 =py39haa1d754_2
+    - pillow =9.5.0 =py39haa1d754_0
     - pip =23.0.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h8ffe710_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
