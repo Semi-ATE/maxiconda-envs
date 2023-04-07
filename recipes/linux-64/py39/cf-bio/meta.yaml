@@ -69,7 +69,7 @@ requirements:
     - curl =7.88.1 =hdc1c0ab_1
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
-    - debugpy =1.6.6 =py39h227be39_0
+    - debugpy =1.6.7 =py39h227be39_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - executing =1.2.0 =pyhd8ed1ab_0
     - expat =2.5.0 =hcb278e6_1
@@ -146,7 +146,7 @@ requirements:
     - libiconv =1.17 =h166bdaf_0
     - libjpeg-turbo =2.1.5.1 =h0b41bf4_0
     - liblapack =3.9.0 =16_linux64_openblas
-    - libllvm16 =16.0.0 =hadd5161_1
+    - libllvm16 =16.0.1 =hadd5161_0
     - libnetcdf =4.9.2 =nompi_hf3f8848_103
     - libnghttp2 =1.52.0 =h61bc06f_0
     - libnsl =2.0.0 =h7f98852_0
@@ -234,7 +234,7 @@ requirements:
     - sip =6.7.7 =py39h227be39_1
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.1.10 =h9fff704_0
-    - sqlalchemy =2.0.8 =py39h72bdee0_0
+    - sqlalchemy =2.0.9 =py39h72bdee0_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.13.5 =py39h2ae25f5_2
     - threadpoolctl =3.1.0 =pyh8a188c0_0

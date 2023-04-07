@@ -47,7 +47,7 @@ requirements:
 
     # 281 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
-    - alembic =1.10.2 =pyhd8ed1ab_0
+    - alembic =1.10.3 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - attrs =22.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
@@ -190,7 +190,7 @@ requirements:
     - missingno =0.4.2 =py_1
     - mkl =2022.1.0 =h6a75c08_874
     - mlflow =1.26.1 =py37hd3201af_0
-    - mlxtend =0.21.0 =pyhd8ed1ab_0
+    - mlxtend =0.22.0 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.9 =py37h7f67f24_0
