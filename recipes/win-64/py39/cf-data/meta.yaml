@@ -25,7 +25,7 @@ requirements:
     - python =3.9.16 =h4de0772_0_cpython
 
     # 19 primary packages :
-    - beautifulsoup4 =4.12.1 =pyha770c72_0
+    - beautifulsoup4 =4.12.2 =pyha770c72_0
     - bokeh =3.1.0 =pyhd8ed1ab_0
     - lightgbm =3.3.5 =py39h99910a6_0
     - matplotlib =3.7.1 =py39hcbf5309_0
@@ -108,7 +108,7 @@ requirements:
     - entrypoints =0.4 =pyhd8ed1ab_0
     - executing =1.2.0 =pyhd8ed1ab_0
     - expat =2.5.0 =h63175ca_1
-    - filelock =3.10.7 =pyhd8ed1ab_0
+    - filelock =3.11.0 =pyhd8ed1ab_0
     - flask =2.2.3 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -146,9 +146,9 @@ requirements:
     - idna =3.4 =pyhd8ed1ab_0
     - imagehash =4.3.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.10.1 =pyhd8ed1ab_0
-    - importlib-metadata =6.1.0 =pyha770c72_0
+    - importlib-metadata =6.2.0 =pyha770c72_0
     - importlib-resources =5.12.0 =pyhd8ed1ab_0
-    - importlib_metadata =6.1.0 =hd8ed1ab_0
+    - importlib_metadata =6.2.0 =hd8ed1ab_0
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - intel-openmp =2023.0.0 =h57928b3_25922
@@ -178,8 +178,8 @@ requirements:
     - libbrotlidec =1.0.9 =hcfcfb64_8
     - libbrotlienc =1.0.9 =hcfcfb64_8
     - libcblas =3.9.0 =16_win64_mkl
-    - libclang =16.0.0 =default_h8b4101f_1
-    - libclang13 =16.0.0 =default_h45d3cf4_1
+    - libclang =16.0.1 =default_h8b4101f_0
+    - libclang13 =16.0.1 =default_h45d3cf4_0
     - libcrc32c =1.1.2 =h0e60522_0
     - libcurl =7.88.1 =h68f0423_1
     - libdeflate =1.18 =hcfcfb64_0
@@ -235,7 +235,7 @@ requirements:
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - networkx =3.1 =pyhd8ed1ab_0
     - nltk =3.8.1 =pyhd8ed1ab_0
-    - numba =0.56.4 =py39h99ae161_0
+    - numba =0.56.4 =py39hadaa1c4_1
     - numexpr =2.7.3 =py39h2e25243_2
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha2aaf27_2

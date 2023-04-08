@@ -25,7 +25,7 @@ requirements:
     - python =3.8.16 =hf9b03c3_1_cpython
 
     # 20 primary packages :
-    - beautifulsoup4 =4.12.1 =pyha770c72_0
+    - beautifulsoup4 =4.12.2 =pyha770c72_0
     - bokeh =3.1.0 =pyhd8ed1ab_0
     - lightgbm =3.3.5 =py38h6e1195d_0
     - matplotlib =3.7.1 =py38h50d1736_0
@@ -111,7 +111,7 @@ requirements:
     - entrypoints =0.4 =pyhd8ed1ab_0
     - executing =1.2.0 =pyhd8ed1ab_0
     - expat =2.5.0 =hf0c8a7f_1
-    - filelock =3.10.7 =pyhd8ed1ab_0
+    - filelock =3.11.0 =pyhd8ed1ab_0
     - flask =2.2.3 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -154,9 +154,9 @@ requirements:
     - idna =3.4 =pyhd8ed1ab_0
     - imagehash =4.3.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.10.1 =pyhd8ed1ab_0
-    - importlib-metadata =6.1.0 =pyha770c72_0
+    - importlib-metadata =6.2.0 =pyha770c72_0
     - importlib-resources =5.12.0 =pyhd8ed1ab_0
-    - importlib_metadata =6.1.0 =hd8ed1ab_0
+    - importlib_metadata =6.2.0 =hd8ed1ab_0
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.22.0 =pyh736e0ef_0
@@ -189,7 +189,7 @@ requirements:
     - libclang13 =14.0.6 =default_hb5731bd_0
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =7.88.1 =h6df9250_1
-    - libcxx =16.0.0 =h71dddab_0
+    - libcxx =16.0.1 =h71dddab_0
     - libdeflate =1.18 =hac1461d_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =haf1e3a3_1
@@ -230,7 +230,7 @@ requirements:
     - libxml2 =2.10.3 =h554bb67_6
     - libxslt =1.1.37 =h5d22bc9_0
     - libzlib =1.2.13 =hfd90126_4
-    - llvm-openmp =16.0.0 =h61d9ccf_0
+    - llvm-openmp =16.0.1 =h61d9ccf_0
     - llvmlite =0.39.1 =py38hc86dbf9_1
     - lxml =4.9.2 =py38h64add32_0
     - lz4-c =1.9.4 =hf0c8a7f_0
@@ -258,7 +258,7 @@ requirements:
     - nltk =3.8.1 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
     - nss =3.89 =h78b00b3_0
-    - numba =0.56.4 =py38hab356c4_0
+    - numba =0.56.4 =py38hfdfe451_1
     - numexpr =2.8.4 =py38hdaefe69_0
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h13ac156_2

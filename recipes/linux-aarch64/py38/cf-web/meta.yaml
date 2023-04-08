@@ -25,7 +25,7 @@ requirements:
     - python =3.8.15 =ha43d526_1_cpython
 
     # 9 primary packages :
-    - beautifulsoup4 =4.12.1 =pyha770c72_0
+    - beautifulsoup4 =4.12.2 =pyha770c72_0
     - django =4.2 =pyhd8ed1ab_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - pyqt =5.15.7 =py38h78f0ab1_3
@@ -84,8 +84,8 @@ requirements:
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =72.1 =hcf00150_0
     - idna =3.4 =pyhd8ed1ab_0
-    - importlib-metadata =6.1.0 =pyha770c72_0
-    - importlib_metadata =6.1.0 =hd8ed1ab_0
+    - importlib-metadata =6.2.0 =pyha770c72_0
+    - importlib_metadata =6.2.0 =hd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.22.0 =pyh210e3f2_0
     - ipython =8.12.0 =pyh41d4057_0
@@ -97,8 +97,8 @@ requirements:
     - lame =3.100 =h4e544f5_1003
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - libcap =2.67 =h8246067_0
-    - libclang =16.0.0 =default_h209acd0_1
-    - libclang13 =16.0.0 =default_hf927025_1
+    - libclang =16.0.1 =default_h209acd0_0
+    - libclang13 =16.0.1 =default_hf927025_0
     - libcups =2.3.3 =h4303303_3
     - libedit =3.1.20191231 =he28a2e2_2
     - libevent =2.1.10 =h4f30969_4

@@ -25,7 +25,7 @@ requirements:
     - python =3.7.12 =hf3644f1_100_cpython
 
     # 20 primary packages :
-    - beautifulsoup4 =4.12.1 =pyha770c72_0
+    - beautifulsoup4 =4.12.2 =pyha770c72_0
     - bokeh =2.4.3 =py37hf985489_0
     - lightgbm =3.3.3 =py37ha1dd313_0
     - matplotlib =3.5.3 =py37hf985489_2
@@ -90,7 +90,7 @@ requirements:
     - docker-py =6.0.0 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
     - expat =2.5.0 =hf0c8a7f_1
-    - filelock =3.10.7 =pyhd8ed1ab_0
+    - filelock =3.11.0 =pyhd8ed1ab_0
     - flask =2.2.3 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -157,7 +157,7 @@ requirements:
     - libbrotlienc =1.0.9 =hb7f2c08_8
     - libcblas =3.9.0 =16_osx64_openblas
     - libclang =13.0.1 =default_h255f2f3_1
-    - libcxx =16.0.0 =h71dddab_0
+    - libcxx =16.0.1 =h71dddab_0
     - libdeflate =1.14 =hb7f2c08_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libexpat =2.5.0 =hf0c8a7f_1
@@ -189,7 +189,7 @@ requirements:
     - libxml2 =2.10.3 =h201ad9d_4
     - libxslt =1.1.37 =h5d22bc9_0
     - libzlib =1.2.13 =hfd90126_4
-    - llvm-openmp =16.0.0 =h61d9ccf_0
+    - llvm-openmp =16.0.1 =h61d9ccf_0
     - llvmlite =0.39.1 =py37h5d31d3a_0
     - lxml =4.9.1 =py37h994c40b_0
     - mako =1.2.4 =pyhd8ed1ab_0
