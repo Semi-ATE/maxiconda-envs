@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.13.5 =py39h7cc1f47_2
     - xgboost =1.7.4 =cpu_py39hd182d69_0
 
-    # 346 secondary packages :
+    # 347 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.10.3 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -154,9 +154,9 @@ requirements:
     - idna =3.4 =pyhd8ed1ab_0
     - imagehash =4.3.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.10.1 =pyhd8ed1ab_0
-    - importlib-metadata =6.2.1 =pyha770c72_0
+    - importlib-metadata =6.3.0 =pyha770c72_0
     - importlib-resources =5.12.0 =pyhd8ed1ab_0
-    - importlib_metadata =6.2.1 =hd8ed1ab_0
+    - importlib_metadata =6.3.0 =hd8ed1ab_0
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.22.0 =pyh736e0ef_0
@@ -304,7 +304,7 @@ requirements:
     - pydantic =1.10.7 =py39ha30fb19_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
-    - pygments =2.14.0 =pyhd8ed1ab_0
+    - pygments =2.15.0 =pyhd8ed1ab_0
     - pyjwt =2.6.0 =pyhd8ed1ab_0
     - pyldavis =3.4.0 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py39ha30fb19_2
@@ -339,7 +339,7 @@ requirements:
     - setuptools =67.6.1 =pyhd8ed1ab_0
     - shap =0.41.0 =py39hf72b562_0
     - simpful =2.10.0 =pyhd8ed1ab_0
-    - sip =6.7.7 =py39h7a8716b_1
+    - sip =6.7.8 =py39h7a8716b_0
     - six =1.16.0 =pyh6c4a22f_0
     - sleef =3.5.1 =h6db0672_2
     - slicer =0.0.7 =pyhd8ed1ab_0
@@ -362,6 +362,7 @@ requirements:
     - tk =8.6.12 =h5dbffcc_0
     - tldextract =3.4.0 =pyhd8ed1ab_0
     - toml =0.10.2 =pyhd8ed1ab_0
+    - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.2 =py39ha30fb19_1
     - tqdm =4.65.0 =pyhd8ed1ab_1
     - traitlets =5.9.0 =pyhd8ed1ab_0
