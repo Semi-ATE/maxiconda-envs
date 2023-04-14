@@ -100,7 +100,7 @@ requirements:
     - compiler-rt =16.0.1 =h613da45_0
     - compiler-rt_osx-64 =16.0.1 =h613da45_0
     - cryptography =38.0.2 =py37hbf3704f_1
-    - curl =7.88.1 =h6df9250_1
+    - curl =8.0.1 =h1fead75_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.3 =py37hf6dfe07_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -159,7 +159,7 @@ requirements:
     - libclang =14.0.6 =default_h55ffa42_0
     - libclang-cpp16 =16.0.1 =default_hd25f202_0
     - libclang13 =14.0.6 =default_hb5731bd_0
-    - libcurl =7.88.1 =h6df9250_1
+    - libcurl =8.0.1 =h1fead75_0
     - libcxx =16.0.1 =h71dddab_0
     - libdeflate =1.18 =hac1461d_0
     - libedit =3.1.20191231 =h0678c8f_2
@@ -422,7 +422,7 @@ requirements:
     - r-xtable =1.8_4 =r42hc72bb7e_4
     - r-xts =0.13.0 =r42h815d134_0
     - r-yaml =2.3.7 =r42h815d134_0
-    - r-zoo =1.8_11 =r42h815d134_1
+    - r-zoo =1.8_12 =r42h815d134_0
     - rapidfuzz =2.12.0 =py37hac51a3e_0
     - readline =8.2 =h9e318b2_1
     - ruamel.yaml =0.17.21 =py37h69ee0a8_1
