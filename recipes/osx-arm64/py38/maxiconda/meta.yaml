@@ -43,7 +43,7 @@ requirements:
     - pydantic =1.10.7 =py38hb991d35_0
     - pyqt =5.15.7 =py38hd4e55b5_3
     - pyserial =3.5 =pyhd8ed1ab_0
-    - pytest =7.3.0 =pyhd8ed1ab_0
+    - pytest =7.3.1 =pyhd8ed1ab_0
     - pyyaml =6.0 =py38hb991d35_5
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
@@ -103,7 +103,7 @@ requirements:
     - compiler-rt_osx-arm64 =16.0.1 =h30b49de_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.0.7 =py38h9dc3d6a_0
-    - cryptography =40.0.1 =py38h23f6d3d_0
+    - cryptography =40.0.2 =py38h23f6d3d_0
     - curl =8.0.1 =heffe338_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.7 =py38h2b1e499_0
@@ -151,7 +151,7 @@ requirements:
     - isl =0.25 =h9a09cb3_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jsonschema =4.17.3 =pyhd8ed1ab_0
-    - jupyter_client =8.1.0 =pyhd8ed1ab_0
+    - jupyter_client =8.2.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.0 =py38h10201cd_0
     - jupyter_events =0.6.3 =pyhd8ed1ab_0
     - jupyter_server =2.5.0 =pyhd8ed1ab_0
