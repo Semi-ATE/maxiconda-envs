@@ -39,7 +39,7 @@ requirements:
     - openpyxl =3.1.1 =py39h02fc5c5_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.0.0 =py39hde7b980_0
-    - psutil =5.9.4 =py39h02fc5c5_0
+    - psutil =5.9.5 =py39h02fc5c5_0
     - pydantic =1.10.7 =py39h02fc5c5_0
     - pyqt =5.15.7 =py39h7fba1b6_3
     - pyserial =3.5 =pyhd8ed1ab_0
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.0.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 429 secondary packages :
+    # 430 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.6.2 =pyhd8ed1ab_0
@@ -301,6 +301,7 @@ requirements:
     - r-data.table =1.14.8 =r42h5b9a8e2_0
     - r-dbi =1.1.3 =r42hc72bb7e_1
     - r-dbplyr =2.3.2 =r42hc72bb7e_0
+    - r-diagram =1.6.5 =r42ha770c72_1
     - r-digest =0.6.31 =r42h9a38a31_0
     - r-dplyr =1.1.1 =r42h9a38a31_0
     - r-dtplyr =1.3.1 =r42hc72bb7e_0
@@ -380,7 +381,7 @@ requirements:
     - r-prettyunits =1.1.1 =r42hc72bb7e_2
     - r-proc =1.18.0 =r42h9a38a31_1
     - r-processx =3.8.0 =r42h5d63f41_0
-    - r-prodlim =2019.11.13 =r42h9a38a31_2
+    - r-prodlim =2023.03.31 =r42h9a38a31_0
     - r-progress =1.2.2 =r42hc72bb7e_3
     - r-progressr =0.13.0 =r42hc72bb7e_0
     - r-promises =1.2.0.1 =r42h9a38a31_1
@@ -442,10 +443,10 @@ requirements:
     - r-xfun =0.38 =r42h9a38a31_0
     - r-xml2 =1.3.3 =r42haf93cbb_2
     - r-xtable =1.8_4 =r42hc72bb7e_4
-    - r-xts =0.13.0 =r42h5d63f41_0
+    - r-xts =0.13.1 =r42h5d63f41_0
     - r-yaml =2.3.7 =r42h5d63f41_0
     - r-zoo =1.8_12 =r42h5d63f41_0
-    - rapidfuzz =2.15.0 =py39h23fbdae_0
+    - rapidfuzz =2.15.1 =py39h23fbdae_0
     - readline =8.2 =h92ec313_1
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
