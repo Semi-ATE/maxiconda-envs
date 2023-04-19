@@ -90,7 +90,7 @@ requirements:
     - docker-py =6.0.0 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
     - expat =2.5.0 =hf0c8a7f_1
-    - filelock =3.11.0 =pyhd8ed1ab_0
+    - filelock =3.12.0 =pyhd8ed1ab_0
     - flask =2.2.3 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -110,8 +110,8 @@ requirements:
     - giflib =5.2.1 =hb7f2c08_3
     - gitdb =4.0.10 =pyhd8ed1ab_0
     - gitpython =3.1.31 =pyhd8ed1ab_0
-    - glib =2.74.1 =hbc0c0cd_1
-    - glib-tools =2.74.1 =hbc0c0cd_1
+    - glib =2.76.1 =hbc0c0cd_0
+    - glib-tools =2.76.1 =hbc0c0cd_0
     - graphite2 =1.3.13 =h2e338ed_1001
     - graphviz =7.0.5 =hc51f7b9_0
     - greenlet =1.1.3 =py37hac51a3e_0
@@ -165,7 +165,7 @@ requirements:
     - libgd =2.3.3 =h1e214de_3
     - libgfortran =5.0.0 =11_3_0_h97931a8_31
     - libgfortran5 =12.2.0 =he409387_31
-    - libglib =2.74.1 =h4c723e1_1
+    - libglib =2.76.1 =h4c723e1_0
     - libiconv =1.17 =hac89ed1_0
     - liblapack =3.9.0 =16_osx64_openblas
     - libllvm11 =11.1.0 =h8fb7429_5
@@ -220,7 +220,7 @@ requirements:
     - pandas-profiling =3.6.3 =pyhd8ed1ab_0
     - pango =1.50.14 =hbd9bf65_0
     - paramiko =3.1.0 =pyhd8ed1ab_0
-    - parsel =1.7.0 =pyhd8ed1ab_0
+    - parsel =1.8.1 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - patsy =0.5.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =h1c4e4bc_0
@@ -253,7 +253,7 @@ requirements:
     - pyjwt =2.6.0 =pyhd8ed1ab_0
     - pyldavis =3.3.1 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py37h69ee0a8_1
-    - pynndescent =0.5.8 =pyh1a96a4e_0
+    - pynndescent =0.5.9 =pyh1a96a4e_0
     - pyod =1.0.9 =pyhd8ed1ab_0
     - pyopenssl =23.1.1 =pyhd8ed1ab_0
     - pyparsing =3.0.9 =pyhd8ed1ab_0
@@ -287,7 +287,7 @@ requirements:
     - smmap =3.0.5 =pyh44b312d_0
     - soupsieve =2.3.2.post1 =pyhd8ed1ab_0
     - spacy =2.3.7 =py37h5e312ef_0
-    - sqlparse =0.4.3 =pyhd8ed1ab_0
+    - sqlparse =0.4.4 =pyhd8ed1ab_0
     - srsly =1.0.5 =py37h9af6487_0
     - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0

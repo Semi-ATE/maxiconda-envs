@@ -62,15 +62,15 @@ requirements:
     - fonts-conda-forge =1 =0
     - freetype =2.12.1 =hbbbf32d_1
     - gettext =0.21.1 =ha18d298_0
-    - glib =2.74.1 =h7866ba4_1
-    - glib-tools =2.74.1 =h7866ba4_1
+    - glib =2.76.1 =h3cb9bc8_0
+    - glib-tools =2.76.1 =h3cb9bc8_0
     - graphite2 =1.3.13 =h7fd3ca4_1001
     - gst-plugins-base =1.22.0 =h8a62080_2
     - gstreamer =1.22.0 =h1f26242_2
     - harfbuzz =6.0.0 =h3c6782d_1
     - icu =72.1 =hcf00150_0
-    - importlib-metadata =6.4.1 =pyha770c72_0
-    - importlib_metadata =6.4.1 =hd8ed1ab_0
+    - importlib-metadata =6.5.0 =pyha770c72_0
+    - importlib_metadata =6.5.0 =hd8ed1ab_0
     - ipykernel =6.22.0 =pyh210e3f2_0
     - ipython =8.12.0 =pyh41d4057_0
     - jedi =0.18.2 =pyhd8ed1ab_0
@@ -95,7 +95,7 @@ requirements:
     - libgcrypt =1.10.1 =h4e544f5_0
     - libgfortran-ng =12.2.0 =he9431aa_19
     - libgfortran5 =12.2.0 =hf695500_19
-    - libglib =2.74.1 =h01e6fbd_1
+    - libglib =2.76.1 =h938bdf7_0
     - libgomp =12.2.0 =h607ecd0_19
     - libgpg-error =1.46 =haae8ae4_0
     - libiconv =1.17 =h9cdd2b7_0
@@ -164,7 +164,7 @@ requirements:
     - tk =8.6.12 =hd8af866_0
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
-    - tornado =6.2 =py38h81aae68_1
+    - tornado =6.3 =py38hd5eba46_0
     - traitlets =5.9.0 =pyhd8ed1ab_0
     - typing-extensions =4.5.0 =hd8ed1ab_0
     - typing_extensions =4.5.0 =pyha770c72_0
