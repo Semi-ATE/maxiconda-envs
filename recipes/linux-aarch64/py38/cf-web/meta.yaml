@@ -32,7 +32,7 @@ requirements:
     - pyyaml =6.0 =py38hdacc76a_5
     - requests =2.28.2 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.9 =py38hd5eba46_0
+    - sqlalchemy =2.0.10 =py38hea3b116_0
     - twisted =22.10.0 =py38h81aae68_0
 
     # 176 secondary packages :
@@ -74,8 +74,8 @@ requirements:
     - fonts-conda-forge =1 =0
     - freetype =2.12.1 =hbbbf32d_1
     - gettext =0.21.1 =ha18d298_0
-    - glib =2.76.1 =h3cb9bc8_0
-    - glib-tools =2.76.1 =h3cb9bc8_0
+    - glib =2.76.2 =hd84c7bf_0
+    - glib-tools =2.76.2 =hd84c7bf_0
     - graphite2 =1.3.13 =h7fd3ca4_1001
     - greenlet =2.0.2 =py38h31bd7b8_0
     - gst-plugins-base =1.22.0 =h8a62080_2
@@ -84,8 +84,8 @@ requirements:
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =72.1 =hcf00150_0
     - idna =3.4 =pyhd8ed1ab_0
-    - importlib-metadata =6.5.0 =pyha770c72_0
-    - importlib_metadata =6.5.0 =hd8ed1ab_0
+    - importlib-metadata =6.6.0 =pyha770c72_0
+    - importlib_metadata =6.6.0 =hd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.22.0 =pyh210e3f2_0
     - ipython =8.12.0 =pyh41d4057_0
@@ -97,8 +97,8 @@ requirements:
     - lame =3.100 =h4e544f5_1003
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - libcap =2.67 =h8246067_0
-    - libclang =16.0.1 =default_h209acd0_0
-    - libclang13 =16.0.1 =default_hf927025_0
+    - libclang =16.0.2 =default_h62e6ce5_0
+    - libclang13 =16.0.2 =default_hd1ddda2_0
     - libcups =2.3.3 =h4303303_3
     - libedit =3.1.20191231 =he28a2e2_2
     - libevent =2.1.10 =h4f30969_4
@@ -107,12 +107,12 @@ requirements:
     - libflac =1.4.2 =h4de3ea5_0
     - libgcc-ng =12.2.0 =h607ecd0_19
     - libgcrypt =1.10.1 =h4e544f5_0
-    - libglib =2.76.1 =h938bdf7_0
+    - libglib =2.76.2 =h0464669_0
     - libgomp =12.2.0 =h607ecd0_19
     - libgpg-error =1.46 =haae8ae4_0
     - libiconv =1.17 =h9cdd2b7_0
     - libjpeg-turbo =2.1.5.1 =hb4cce97_0
-    - libllvm16 =16.0.1 =hdbfac2a_0
+    - libllvm16 =16.0.2 =h11d3cc5_0
     - libnsl =2.0.0 =hf897c2e_0
     - libogg =1.3.4 =h3557bc0_1
     - libopus =1.3.1 =hf897c2e_1
@@ -120,7 +120,7 @@ requirements:
     - libpq =15.2 =hd21d9e6_0
     - libsndfile =1.2.0 =h693ebdd_0
     - libsodium =1.0.18 =hb9de7d4_1
-    - libsqlite =3.40.0 =hf9034f9_0
+    - libsqlite =3.40.0 =hf9034f9_1
     - libstdcxx-ng =12.2.0 =hc13a102_19
     - libsystemd0 =253 =h74de264_1
     - libuuid =2.38.1 =hb4cce97_0
@@ -145,7 +145,7 @@ requirements:
     - pcre2 =10.40 =he7b27c6_0
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
-    - pip =23.1 =pyhd8ed1ab_0
+    - pip =23.1.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =hb9de7d4_0
     - platformdirs =3.2.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1

@@ -97,8 +97,8 @@ requirements:
     - freetype =2.12.1 =hca18f0e_1
     - gettext =0.21.1 =h27087fc_0
     - giflib =5.2.1 =h0b41bf4_3
-    - glib =2.76.1 =h3eb15da_0
-    - glib-tools =2.76.1 =h3eb15da_0
+    - glib =2.76.2 =hfc55251_0
+    - glib-tools =2.76.2 =hfc55251_0
     - gmp =6.2.1 =h58526e2_0
     - gmpy2 =2.1.2 =py38h793c122_1
     - graphite2 =1.3.13 =h58526e2_1001
@@ -109,9 +109,9 @@ requirements:
     - icu =72.1 =hcb278e6_0
     - idna =3.4 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
-    - importlib-metadata =6.5.0 =pyha770c72_0
+    - importlib-metadata =6.6.0 =pyha770c72_0
     - importlib-resources =5.12.0 =pyhd8ed1ab_0
-    - importlib_metadata =6.5.0 =hd8ed1ab_0
+    - importlib_metadata =6.6.0 =hd8ed1ab_0
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.0.2 =py_0
@@ -145,8 +145,8 @@ requirements:
     - libbrotlienc =1.0.9 =h166bdaf_8
     - libcap =2.67 =he9d0100_0
     - libcblas =3.9.0 =16_linux64_openblas
-    - libclang =16.0.1 =default_h62803fd_0
-    - libclang13 =16.0.1 =default_h9b593c0_0
+    - libclang =16.0.2 =default_h83cc7fd_0
+    - libclang13 =16.0.2 =default_hd781213_0
     - libcups =2.3.3 =h36d4200_3
     - libdb =6.2.32 =h9c3ff4c_0
     - libdeflate =1.18 =h0b41bf4_0
@@ -159,13 +159,13 @@ requirements:
     - libgcrypt =1.10.1 =h166bdaf_0
     - libgfortran-ng =12.2.0 =h69a702a_19
     - libgfortran5 =12.2.0 =h337968e_19
-    - libglib =2.76.1 =ha491796_0
+    - libglib =2.76.2 =hebfc3b9_0
     - libgomp =12.2.0 =h65d4601_19
     - libgpg-error =1.46 =h620e276_0
     - libiconv =1.17 =h166bdaf_0
     - libjpeg-turbo =2.1.5.1 =h0b41bf4_0
     - liblapack =3.9.0 =16_linux64_openblas
-    - libllvm16 =16.0.1 =hadd5161_0
+    - libllvm16 =16.0.2 =hbf9e925_0
     - libnsl =2.0.0 =h7f98852_0
     - libogg =1.3.4 =h7f98852_1
     - libopenblas =0.3.21 =pthreads_h78a6416_3
@@ -175,7 +175,7 @@ requirements:
     - libsndfile =1.2.0 =hb75c966_0
     - libsodium =1.0.18 =h36c2ea0_1
     - libspatialindex =1.9.3 =h9c3ff4c_4
-    - libsqlite =3.40.0 =h753d276_0
+    - libsqlite =3.40.0 =h753d276_1
     - libstdcxx-ng =12.2.0 =h46fd767_19
     - libsystemd0 =253 =h8c4010b_1
     - libtiff =4.5.0 =ha587672_6
@@ -225,7 +225,7 @@ requirements:
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pillow =9.5.0 =py38h961100d_0
-    - pip =23.1 =pyhd8ed1ab_0
+    - pip =23.1.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h36c2ea0_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
     - platformdirs =3.2.0 =pyhd8ed1ab_0

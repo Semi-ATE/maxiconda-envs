@@ -84,8 +84,8 @@ requirements:
     - freetype =2.12.1 =hd633e50_1
     - gettext =0.21.1 =h0186832_0
     - giflib =5.2.1 =h1a8c8d9_3
-    - glib =2.76.1 =hb5ab8b9_0
-    - glib-tools =2.76.1 =hb5ab8b9_0
+    - glib =2.76.2 =ha614eb4_0
+    - glib-tools =2.76.2 =ha614eb4_0
     - gmp =6.2.1 =h9f76cd9_0
     - gmpy2 =2.1.2 =py39h0b4f9c6_1
     - gst-plugins-base =1.22.0 =h8b7775e_2
@@ -93,9 +93,9 @@ requirements:
     - icu =72.1 =he12128b_0
     - idna =3.4 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
-    - importlib-metadata =6.5.0 =pyha770c72_0
+    - importlib-metadata =6.6.0 =pyha770c72_0
     - importlib-resources =5.12.0 =pyhd8ed1ab_0
-    - importlib_metadata =6.5.0 =hd8ed1ab_0
+    - importlib_metadata =6.6.0 =hd8ed1ab_0
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.0.2 =py_0
@@ -125,13 +125,13 @@ requirements:
     - libcblas =3.9.0 =16_osxarm64_openblas
     - libclang =14.0.6 =default_h81a5282_0
     - libclang13 =14.0.6 =default_he70ec0d_0
-    - libcxx =16.0.1 =h75e25f2_0
+    - libcxx =16.0.2 =h4653b0c_0
     - libdeflate =1.18 =h1a8c8d9_0
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libffi =3.4.2 =h3422bc3_5
     - libgfortran =5.0.0 =12_2_0_hd922786_31
     - libgfortran5 =12.2.0 =h0eea778_31
-    - libglib =2.76.1 =h4646484_0
+    - libglib =2.76.2 =h24e9cb9_0
     - libiconv =1.17 =he4db4b2_0
     - libjpeg-turbo =2.1.5.1 =h1a8c8d9_0
     - liblapack =3.9.0 =16_osxarm64_openblas
@@ -143,14 +143,14 @@ requirements:
     - libpq =15.2 =h1a28acd_0
     - libsodium =1.0.18 =h27ca646_1
     - libspatialindex =1.9.3 =hbdafb3b_4
-    - libsqlite =3.40.0 =h76d750c_0
+    - libsqlite =3.40.0 =h76d750c_1
     - libtiff =4.5.0 =h4f7d55c_6
     - libvorbis =1.3.7 =h9f76cd9_0
     - libwebp =1.3.0 =h66d6964_0
     - libwebp-base =1.3.0 =h1a8c8d9_0
     - libxcb =1.13 =h9b22ae9_1004
     - libzlib =1.2.13 =h03a7124_4
-    - llvm-openmp =16.0.1 =h7cfbb63_0
+    - llvm-openmp =16.0.2 =h1c12783_0
     - markupsafe =2.1.2 =py39h02fc5c5_0
     - matplotlib-base =3.7.1 =py39h35e9e80_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
@@ -185,7 +185,7 @@ requirements:
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py_1003
     - pillow =9.5.0 =py39hfc21214_0
-    - pip =23.1 =pyhd8ed1ab_0
+    - pip =23.1.1 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
     - platformdirs =3.2.0 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py39h2804cbe_4

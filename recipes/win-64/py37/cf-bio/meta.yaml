@@ -68,8 +68,8 @@ requirements:
     - freetype =2.12.1 =h546665d_1
     - gettext =0.21.1 =h5728263_0
     - glew =2.1.0 =h39d44d4_2
-    - glib =2.76.1 =h12be248_0
-    - glib-tools =2.76.1 =h12be248_0
+    - glib =2.76.2 =h12be248_0
+    - glib-tools =2.76.2 =h12be248_0
     - glm =0.9.9.4 =h5362a0b_2
     - greenlet =1.1.3 =py37hf2a7229_0
     - griddataformats =0.7.0 =pyhd8ed1ab_0
@@ -104,7 +104,7 @@ requirements:
     - libdeflate =1.14 =hcfcfb64_0
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
-    - libglib =2.76.1 =he8f3873_0
+    - libglib =2.76.2 =he8f3873_0
     - libhwloc =2.9.1 =h51c2c0f_0
     - libiconv =1.17 =h8ffe710_0
     - liblapack =3.9.0 =16_win64_mkl
@@ -112,7 +112,7 @@ requirements:
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
     - libsodium =1.0.18 =h8d14728_1
-    - libsqlite =3.40.0 =hcfcfb64_0
+    - libsqlite =3.40.0 =hcfcfb64_1
     - libssh2 =1.10.0 =h9a1e1f7_3
     - libtiff =4.4.0 =hc4f729c_5
     - libvorbis =1.3.7 =h0e60522_0
@@ -145,7 +145,7 @@ requirements:
     - pcre2 =10.40 =h17e33f8_0
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pillow =9.2.0 =py37h42a8222_2
-    - pip =23.1 =pyhd8ed1ab_0
+    - pip =23.1.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h8ffe710_0
     - ply =3.11 =py_1
     - pmw =2.0.1 =py37h03978a9_1006
@@ -171,7 +171,7 @@ requirements:
     - sip =6.7.2 =py37h7f67f24_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.42 =py37h51bd9d9_0
-    - sqlite =3.40.0 =hcfcfb64_0
+    - sqlite =3.40.0 =hcfcfb64_1
     - statsmodels =0.13.2 =py37h3a130e4_0
     - tbb =2021.9.0 =h91493d7_0
     - threadpoolctl =3.1.0 =pyh8a188c0_0

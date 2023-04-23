@@ -70,8 +70,8 @@ requirements:
     - freetype =2.12.1 =h3f81eb7_1
     - gettext =0.21.1 =h8a4c099_0
     - glew =2.1.0 =h046ec9c_2
-    - glib =2.76.1 =hbc0c0cd_0
-    - glib-tools =2.76.1 =hbc0c0cd_0
+    - glib =2.76.2 =h7d26f99_0
+    - glib-tools =2.76.2 =h7d26f99_0
     - glm =0.9.9.4 =h1b54a9f_2
     - greenlet =1.1.3 =py37hac51a3e_0
     - griddataformats =0.7.0 =pyhd8ed1ab_0
@@ -101,7 +101,7 @@ requirements:
     - libcblas =3.9.0 =16_osx64_openblas
     - libclang =13.0.1 =default_h255f2f3_1
     - libcurl =8.0.1 =h1fead75_0
-    - libcxx =16.0.1 =h71dddab_0
+    - libcxx =16.0.2 =hd57cbcb_0
     - libdeflate =1.14 =hb7f2c08_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =haf1e3a3_1
@@ -109,7 +109,7 @@ requirements:
     - libffi =3.4.2 =h0d85af4_5
     - libgfortran =5.0.0 =11_3_0_h97931a8_31
     - libgfortran5 =12.2.0 =he409387_31
-    - libglib =2.76.1 =h4c723e1_0
+    - libglib =2.76.2 =hc62aa5d_0
     - libiconv =1.17 =hac89ed1_0
     - liblapack =3.9.0 =16_osx64_openblas
     - libllvm13 =13.0.1 =h64f94b2_2
@@ -121,7 +121,7 @@ requirements:
     - libpng =1.6.39 =ha978bb4_0
     - libpq =15.2 =h3640bf0_0
     - libsodium =1.0.18 =hbcb3906_1
-    - libsqlite =3.40.0 =ha978bb4_0
+    - libsqlite =3.40.0 =ha978bb4_1
     - libssh2 =1.10.0 =h47af595_3
     - libtiff =4.4.0 =h6268bbc_5
     - libvorbis =1.3.7 =h046ec9c_0
@@ -130,7 +130,7 @@ requirements:
     - libxml2 =2.10.3 =h201ad9d_4
     - libzip =1.9.2 =h6db710c_1
     - libzlib =1.2.13 =hfd90126_4
-    - llvm-openmp =16.0.1 =h61d9ccf_0
+    - llvm-openmp =16.0.2 =hff08bdf_0
     - matplotlib-base =3.5.3 =py37h3748cd6_2
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mmtf-python =1.1.3 =pyhd8ed1ab_0
@@ -154,7 +154,7 @@ requirements:
     - pexpect =4.8.0 =py37hc8dfbb8_1
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pillow =9.2.0 =py37ha6ba2b9_2
-    - pip =23.1 =pyhd8ed1ab_0
+    - pip =23.1.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
     - ply =3.11 =py_1
     - pmw =2.0.1 =py37hf985489_1006
@@ -180,7 +180,7 @@ requirements:
     - sip =6.7.2 =py37hac51a3e_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.42 =py37h8052db5_0
-    - sqlite =3.40.0 =h9ae0607_0
+    - sqlite =3.40.0 =h9ae0607_1
     - statsmodels =0.13.2 =py37h4de8ad1_0
     - threadpoolctl =3.1.0 =pyh8a188c0_0
     - tk =8.6.12 =h5dbffcc_0

@@ -41,7 +41,7 @@ requirements:
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.3 =win_pyhd8ed1ab_0
     - sqlalchemy =1.4.42 =py37h51bd9d9_0
-    - sqlite =3.40.0 =hcfcfb64_0
+    - sqlite =3.40.0 =hcfcfb64_1
     - statsmodels =0.13.2 =py37h3a130e4_0
     - xgboost =1.6.2 =cpu_py37h48304b8_1
 
@@ -108,8 +108,8 @@ requirements:
     - gettext =0.21.1 =h5728263_0
     - gitdb =4.0.10 =pyhd8ed1ab_0
     - gitpython =3.1.31 =pyhd8ed1ab_0
-    - glib =2.76.1 =h12be248_0
-    - glib-tools =2.76.1 =h12be248_0
+    - glib =2.76.2 =h12be248_0
+    - glib-tools =2.76.2 =h12be248_0
     - graphite2 =1.3.13 =1000
     - graphviz =8.0.3 =h51cb2cd_0
     - greenlet =1.1.3 =py37hf2a7229_0
@@ -158,7 +158,7 @@ requirements:
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h891f43f_3
-    - libglib =2.76.1 =he8f3873_0
+    - libglib =2.76.2 =he8f3873_0
     - libhwloc =2.9.1 =h51c2c0f_0
     - libiconv =1.17 =h8ffe710_0
     - liblapack =3.9.0 =16_win64_mkl
@@ -166,7 +166,7 @@ requirements:
     - libpng =1.6.39 =h19919ed_0
     - libprotobuf =3.21.8 =h12be248_0
     - libsodium =1.0.18 =h8d14728_1
-    - libsqlite =3.40.0 =hcfcfb64_0
+    - libsqlite =3.40.0 =hcfcfb64_1
     - libtiff =4.4.0 =hc4f729c_5
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp =1.3.0 =hcfcfb64_0
@@ -214,7 +214,7 @@ requirements:
     - phik =0.12.2 =py37h743671a_0
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pillow =9.2.0 =py37h42a8222_2
-    - pip =23.1 =pyhd8ed1ab_0
+    - pip =23.1.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h8ffe710_0
     - ply =3.11 =py_1
     - preshed =3.0.8 =py37h7f67f24_0

@@ -75,8 +75,8 @@ requirements:
     - freetype =2.12.1 =hca18f0e_1
     - gettext =0.21.1 =h27087fc_0
     - glew =2.1.0 =h9c3ff4c_2
-    - glib =2.76.1 =h3eb15da_0
-    - glib-tools =2.76.1 =h3eb15da_0
+    - glib =2.76.2 =hfc55251_0
+    - glib-tools =2.76.2 =hfc55251_0
     - glm =0.9.9.4 =h924138e_2
     - graphite2 =1.3.13 =h58526e2_1001
     - greenlet =1.1.3 =py37hd23a5d3_0
@@ -128,7 +128,7 @@ requirements:
     - libgcrypt =1.10.1 =h166bdaf_0
     - libgfortran-ng =12.2.0 =h69a702a_19
     - libgfortran5 =12.2.0 =h337968e_19
-    - libglib =2.76.1 =ha491796_0
+    - libglib =2.76.2 =hebfc3b9_0
     - libglu =9.0.0 =he1b5a44_1001
     - libgomp =12.2.0 =h65d4601_19
     - libgpg-error =1.46 =h620e276_0
@@ -145,7 +145,7 @@ requirements:
     - libpq =15.2 =hb675445_0
     - libsndfile =1.2.0 =hb75c966_0
     - libsodium =1.0.18 =h36c2ea0_1
-    - libsqlite =3.40.0 =h753d276_0
+    - libsqlite =3.40.0 =h753d276_1
     - libssh2 =1.10.0 =hf14f497_3
     - libstdcxx-ng =12.2.0 =h46fd767_19
     - libsystemd0 =253 =h8c4010b_1
@@ -185,7 +185,7 @@ requirements:
     - pexpect =4.8.0 =py37hc8dfbb8_1
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pillow =9.2.0 =py37h850a105_2
-    - pip =23.1 =pyhd8ed1ab_0
+    - pip =23.1.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h36c2ea0_0
     - ply =3.11 =py_1
     - pmw =2.0.1 =py37h89c1867_1006
@@ -214,7 +214,7 @@ requirements:
     - sip =6.7.2 =py37hd23a5d3_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.42 =py37h540881e_0
-    - sqlite =3.40.0 =h4ff8645_0
+    - sqlite =3.40.0 =h4ff8645_1
     - statsmodels =0.13.2 =py37hda87dfa_0
     - threadpoolctl =3.1.0 =pyh8a188c0_0
     - tk =8.6.12 =h27826a3_0
