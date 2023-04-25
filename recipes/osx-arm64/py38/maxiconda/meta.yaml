@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - cython =0.29.34 =py38h2b1e499_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.72.1 =pyha770c72_0
+    - hypothesis =6.72.2 =pyha770c72_0
     - ipython =8.12.0 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py38h150bfb4_0
@@ -38,7 +38,7 @@ requirements:
     - numpy =1.23.5 =py38h09ac2d9_0
     - openpyxl =3.1.1 =py38hb991d35_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
-    - pandas =2.0.0 =py38h61dac83_0
+    - pandas =2.0.1 =py38hefb543e_0
     - psutil =5.9.5 =py38hb991d35_0
     - pydantic =1.10.7 =py38hb991d35_0
     - pyqt =5.15.7 =py38hd4e55b5_3
@@ -226,11 +226,11 @@ requirements:
     - ncurses =6.3 =h07bb92c_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - notebook =6.5.4 =pyha770c72_0
-    - notebook-shim =0.2.2 =pyhd8ed1ab_0
+    - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - nspr =4.35 =hb7217d7_0
     - nss =3.89 =h789eff7_0
     - openjpeg =2.5.0 =hbc2ba62_2
-    - openssl =3.1.0 =h53f4e23_1
+    - openssl =3.1.0 =h53f4e23_2
     - packaging =23.1 =pyhd8ed1ab_0
     - pandoc =2.19.2 =hce30654_2
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -456,7 +456,7 @@ requirements:
     - rust-std-aarch64-apple-darwin =1.69.0 =hf1a8007_0
     - semver =2.13.0 =pyh9f0ad1d_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =67.7.1 =pyhd8ed1ab_0
+    - setuptools =67.7.2 =pyhd8ed1ab_0
     - sigtool =0.1.3 =h44b9a77_0
     - sip =6.7.9 =py38he333c0f_0
     - six =1.16.0 =pyh6c4a22f_0

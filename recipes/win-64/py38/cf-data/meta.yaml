@@ -30,7 +30,7 @@ requirements:
     - lightgbm =3.3.5 =py38hd3f51b4_0
     - matplotlib =3.7.1 =py38haa244fe_0
     - numpy =1.23.5 =py38h90ce339_0
-    - pandas =2.0.0 =py38h5846ac1_0
+    - pandas =2.0.1 =py38hf08cf0d_0
     - plotly =5.14.1 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py38haa244fe_3
@@ -47,7 +47,7 @@ requirements:
 
     # 341 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
-    - alembic =1.10.3 =pyhd8ed1ab_0
+    - alembic =1.10.4 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - arrow-cpp =11.0.0 =h57928b3_14_cpu
     - asttokens =2.2.1 =pyhd8ed1ab_0
@@ -242,7 +242,7 @@ requirements:
     - numexpr =2.7.3 =py38h5d928e2_2
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha2aaf27_2
-    - openssl =3.1.0 =hcfcfb64_1
+    - openssl =3.1.0 =hcfcfb64_2
     - orc =1.8.3 =hada7b9e_0
     - packaging =23.1 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
@@ -314,7 +314,7 @@ requirements:
     - rich =12.6.0 =pyhd8ed1ab_0
     - seaborn-base =0.12.2 =pyhd8ed1ab_0
     - service_identity =18.1.0 =py_0
-    - setuptools =67.7.1 =pyhd8ed1ab_0
+    - setuptools =67.7.2 =pyhd8ed1ab_0
     - shap =0.41.0 =py38hcc40339_0
     - shellingham =1.5.1 =pyhd8ed1ab_0
     - simpful =2.10.0 =pyhd8ed1ab_0

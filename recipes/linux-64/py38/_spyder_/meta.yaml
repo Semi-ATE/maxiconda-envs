@@ -28,7 +28,7 @@ requirements:
     - cython =0.29.34 =py38h8dc9893_0
     - matplotlib =3.7.1 =py38h578d9bd_0
     - numpy =1.24.3 =py38h59b608b_0
-    - pandas =2.0.0 =py38hdc8b05c_0
+    - pandas =2.0.1 =py38h01efb38_0
     - pyqt =5.15.7 =py38ha0d8c90_3
     - pyqtwebengine =5.15.7 =py38h2cd9a72_3
     - scipy =1.10.1 =py38h59f1b5f_0
@@ -41,7 +41,7 @@ requirements:
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - alsa-lib =1.2.8 =h166bdaf_0
     - arrow =1.2.3 =pyhd8ed1ab_0
-    - astroid =2.15.3 =py38h578d9bd_0
+    - astroid =2.15.4 =py38h578d9bd_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_0
     - attr =2.5.1 =h166bdaf_1
@@ -215,7 +215,7 @@ requirements:
     - nss =3.89 =he45b914_0
     - numpydoc =1.5.0 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =hfec8fc6_2
-    - openssl =3.1.0 =hd590300_1
+    - openssl =3.1.0 =hd590300_2
     - packaging =23.1 =pyhd8ed1ab_0
     - pandoc =2.19.2 =h32600fe_2
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -246,7 +246,7 @@ requirements:
     - pydocstyle =6.3.0 =pyhd8ed1ab_0
     - pyflakes =3.0.1 =pyhd8ed1ab_0
     - pygments =2.15.1 =pyhd8ed1ab_0
-    - pylint =2.17.2 =pyhd8ed1ab_0
+    - pylint =2.17.3 =pyhd8ed1ab_0
     - pylint-venv =3.0.1 =pyhd8ed1ab_0
     - pyls-spyder =0.4.0 =pyhd8ed1ab_0
     - pyopenssl =23.1.1 =pyhd8ed1ab_0
@@ -281,7 +281,7 @@ requirements:
     - rope =1.7.0 =pyhd8ed1ab_0
     - rtree =1.0.1 =py38h02d302b_1
     - secretstorage =3.3.3 =py38h578d9bd_1
-    - setuptools =67.7.1 =pyhd8ed1ab_0
+    - setuptools =67.7.2 =pyhd8ed1ab_0
     - sip =6.7.9 =py38h17151c0_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
