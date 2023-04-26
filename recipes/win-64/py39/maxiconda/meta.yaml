@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.7.3 =py39ha55989b_0
     - cython =0.29.34 =py39h99910a6_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.72.2 =pyha770c72_0
+    - hypothesis =6.72.4 =pyha770c72_0
     - ipython =8.12.0 =pyh08f2357_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py39hcbf5309_0
@@ -212,7 +212,7 @@ requirements:
     - multidict =6.0.4 =py39ha55989b_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - nbclassic =0.5.5 =pyhb4ecaf3_1
-    - nbclient =0.7.3 =pyhd8ed1ab_0
+    - nbclient =0.7.4 =pyhd8ed1ab_0
     - nbconvert =7.3.1 =pyhd8ed1ab_0
     - nbconvert-core =7.3.1 =pyhd8ed1ab_0
     - nbconvert-pandoc =7.3.1 =pyhd8ed1ab_0
@@ -233,7 +233,7 @@ requirements:
     - pixman =0.40.0 =h8ffe710_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
-    - platformdirs =3.2.0 =pyhd8ed1ab_0
+    - platformdirs =3.3.0 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py39hcbf5309_4
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyha770c72_3
@@ -308,7 +308,7 @@ requirements:
     - r-foreach =1.5.2 =r41hc72bb7e_1
     - r-foreign =0.8_84 =r41h6d2157b_0
     - r-formatr =1.14 =r41hc72bb7e_0
-    - r-fs =1.6.1 =r41ha856d6a_0
+    - r-fs =1.6.2 =r41ha856d6a_0
     - r-future =1.32.0 =r41hc72bb7e_0
     - r-future.apply =1.10.0 =r41hc72bb7e_0
     - r-gargle =1.4.0 =r41h785f33e_0
@@ -391,7 +391,7 @@ requirements:
     - r-rcpp =1.0.10 =r41ha856d6a_0
     - r-readr =2.1.4 =r41ha856d6a_0
     - r-readxl =1.4.2 =r41h1c2d66b_0
-    - r-recipes =1.0.5 =r41hc72bb7e_0
+    - r-recipes =1.0.6 =r41hc72bb7e_0
     - r-recommended =4.1 =r41hd8ed1ab_1005
     - r-rematch =1.0.1 =r41hc72bb7e_1005
     - r-rematch2 =2.1.2 =r41hc72bb7e_2
@@ -472,8 +472,8 @@ requirements:
     - ucrt =10.0.22621.0 =h57928b3_0
     - unicodedata2 =15.0.0 =py39ha55989b_0
     - urllib3 =1.26.15 =pyhd8ed1ab_0
-    - vc =14.3 =hb6edc58_10
-    - vs2015_runtime =14.34.31931 =h4c5c07a_10
+    - vc =14.3 =h3d8a991_11
+    - vs2015_runtime =14.34.31931 =h4c5c07a_11
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1
     - websocket-client =1.5.1 =pyhd8ed1ab_0
@@ -484,7 +484,7 @@ requirements:
     - xorg-libxdmcp =1.1.3 =hcd874cb_0
     - xz =5.2.6 =h8d14728_0
     - yaml =0.2.5 =h8ffe710_2
-    - yarl =1.8.2 =py39ha55989b_0
+    - yarl =1.9.1 =py39ha55989b_0
     - zeromq =4.3.4 =h0e60522_1
     - zipp =3.15.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =hcfcfb64_4
