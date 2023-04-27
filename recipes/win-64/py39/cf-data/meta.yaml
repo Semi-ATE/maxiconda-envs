@@ -49,22 +49,22 @@ requirements:
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.10.4 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
-    - arrow-cpp =11.0.0 =h57928b3_14_cpu
+    - arrow-cpp =11.0.0 =h57928b3_15_cpu
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - attrs =22.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.6.26 =h9215439_2
+    - aws-c-auth =0.6.26 =h13ad978_3
     - aws-c-cal =0.5.21 =h7cda486_2
     - aws-c-common =0.8.14 =hcfcfb64_0
     - aws-c-compression =0.2.16 =h8a79959_5
-    - aws-c-event-stream =0.2.20 =h5f78564_4
-    - aws-c-http =0.7.6 =h2545be9_0
-    - aws-c-io =0.13.19 =h0d2781e_3
-    - aws-c-mqtt =0.8.6 =hd211e0c_12
-    - aws-c-s3 =0.2.8 =h8113e7b_0
+    - aws-c-event-stream =0.2.20 =h87071a5_5
+    - aws-c-http =0.7.6 =h6496181_1
+    - aws-c-io =0.13.21 =h0d2781e_0
+    - aws-c-mqtt =0.8.6 =h39145e5_13
+    - aws-c-s3 =0.2.8 =hb1f0bd5_1
     - aws-c-sdkutils =0.1.9 =h8a79959_0
     - aws-checksums =0.1.14 =h8a79959_5
-    - aws-crt-cpp =0.19.9 =ha4c2e88_1
+    - aws-crt-cpp =0.19.9 =hdb1b351_2
     - aws-sdk-cpp =1.10.57 =h75fde64_9
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -137,7 +137,7 @@ requirements:
     - glib-tools =2.76.2 =h12be248_0
     - glog =0.6.0 =h4797de2_0
     - graphite2 =1.3.13 =1000
-    - graphviz =8.0.3 =h51cb2cd_0
+    - graphviz =8.0.4 =h51cb2cd_0
     - greenlet =2.0.2 =py39h99910a6_0
     - gst-plugins-base =1.22.0 =h001b923_2
     - gstreamer =1.22.0 =h6b5321d_2
@@ -175,7 +175,7 @@ requirements:
     - lcms2 =2.15 =h3e3b177_1
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230125.0 =cxx17_h63175ca_1
-    - libarrow =11.0.0 =h8646f51_14_cpu
+    - libarrow =11.0.0 =h8646f51_15_cpu
     - libblas =3.9.0 =16_win64_mkl
     - libbrotlicommon =1.0.9 =hcfcfb64_8
     - libbrotlidec =1.0.9 =hcfcfb64_8
@@ -257,7 +257,7 @@ requirements:
     - phik =0.12.3 =py39h0f24028_0
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =9.5.0 =py39haa1d754_0
-    - pip =23.1.1 =pyhd8ed1ab_0
+    - pip =23.1.2 =pyhd8ed1ab_0
     - pixman =0.40.0 =h8ffe710_0
     - platformdirs =3.3.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
@@ -274,7 +274,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.4 =cpu_py39ha538f94_0
-    - pyarrow =11.0.0 =py39hca4e8af_14_cpu
+    - pyarrow =11.0.0 =py39hca4e8af_15_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -308,7 +308,7 @@ requirements:
     - queuelib =1.6.2 =pyhd8ed1ab_0
     - re2 =2023.02.02 =h63175ca_0
     - regex =2023.3.23 =py39ha55989b_0
-    - requests =2.28.2 =pyhd8ed1ab_1
+    - requests =2.29.0 =pyhd8ed1ab_0
     - requests-file =1.5.1 =pyh9f0ad1d_0
     - retrying =1.3.3 =py_2
     - rich =12.6.0 =pyhd8ed1ab_0
@@ -363,7 +363,7 @@ requirements:
     - wasabi =1.1.1 =py39hcbf5309_1
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - websocket-client =1.5.1 =pyhd8ed1ab_0
-    - werkzeug =2.2.3 =pyhd8ed1ab_0
+    - werkzeug =2.3.0 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
     - widgetsnbextension =4.0.7 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py39hcbf5309_5
