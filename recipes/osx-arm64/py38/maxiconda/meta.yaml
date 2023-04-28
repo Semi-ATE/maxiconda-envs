@@ -36,7 +36,7 @@ requirements:
     - matplotlib =3.7.1 =py38h150bfb4_0
     - numba =0.56.4 =py38hfb5a544_1
     - numpy =1.23.5 =py38h09ac2d9_0
-    - openpyxl =3.1.1 =py38hb991d35_0
+    - openpyxl =3.1.2 =py38hb192615_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.0.1 =py38hefb543e_0
     - psutil =5.9.5 =py38hb991d35_0
@@ -55,12 +55,12 @@ requirements:
     - scipy =1.10.1 =py38h78649e0_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.10 =py38hb192615_0
+    - sqlalchemy =2.0.11 =py38hb192615_0
     - sqlite =3.40.0 =h2229b38_1
     - sympy =1.11.1 =py38h10201cd_2
     - tqdm =4.65.0 =pyhd8ed1ab_1
     - transitions =0.9.0 =pyhd8ed1ab_0
-    - xlsxwriter =3.0.9 =pyhd8ed1ab_0
+    - xlsxwriter =3.1.0 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
     # 430 secondary packages :
@@ -217,7 +217,7 @@ requirements:
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mysql-common =8.0.32 =h518ea0a_1
     - mysql-libs =8.0.32 =hcb599eb_1
-    - nbclassic =0.5.5 =pyhb4ecaf3_1
+    - nbclassic =0.5.6 =pyhb4ecaf3_1
     - nbclient =0.7.4 =pyhd8ed1ab_0
     - nbconvert =7.3.1 =pyhd8ed1ab_0
     - nbconvert-core =7.3.1 =pyhd8ed1ab_0
@@ -244,7 +244,7 @@ requirements:
     - pixman =0.40.0 =h27ca646_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
-    - platformdirs =3.3.0 =pyhd8ed1ab_0
+    - platformdirs =3.4.0 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py38h10201cd_4
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyha770c72_3
