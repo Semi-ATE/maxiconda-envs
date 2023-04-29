@@ -31,8 +31,8 @@ requirements:
     - bitarray =2.7.3 =py39ha55989b_0
     - cython =0.29.34 =py39h99910a6_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.74.0 =pyha770c72_0
-    - ipython =8.12.0 =pyh08f2357_0
+    - hypothesis =6.74.1 =pyha770c72_0
+    - ipython =8.12.1 =pyh08f2357_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py39hcbf5309_0
     - numba =0.56.4 =py39hadaa1c4_1
@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.1 =r41hd8ed1ab_2003
     - regex =2023.3.23 =py39ha55989b_0
     - requests =2.29.0 =pyhd8ed1ab_0
-    - rust =1.69.0 =hf8d6059_0
+    - rust =1.69.0 =hf8d6059_1
     - scipy =1.10.1 =py39hde5eda1_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =win_pyhd8ed1ab_0
@@ -233,7 +233,7 @@ requirements:
     - pixman =0.40.0 =h8ffe710_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
-    - platformdirs =3.4.0 =pyhd8ed1ab_0
+    - platformdirs =3.5.0 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py39hcbf5309_4
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyha770c72_3
@@ -446,7 +446,7 @@ requirements:
     - ruamel.yaml =0.17.21 =py39ha55989b_3
     - ruamel.yaml.clib =0.2.7 =py39ha55989b_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-pc-windows-msvc =1.69.0 =h69312b4_0
+    - rust-std-x86_64-pc-windows-msvc =1.69.0 =h69312b4_1
     - semver =2.13.0 =pyh9f0ad1d_0
     - send2trash =1.8.2 =pyh08f2357_0
     - setuptools =67.7.2 =pyhd8ed1ab_0

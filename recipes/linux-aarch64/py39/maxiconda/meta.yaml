@@ -31,8 +31,8 @@ requirements:
     - bitarray =2.7.3 =py39h599bc27_0
     - cython =0.29.34 =py39hdcdd789_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.74.0 =pyha770c72_0
-    - ipython =8.12.0 =pyh41d4057_0
+    - hypothesis =6.74.1 =pyha770c72_0
+    - ipython =8.12.1 =pyh41d4057_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py39ha65689a_0
     - numba =0.56.4 =py39h6619693_1
@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.2 =r42hd8ed1ab_2003
     - regex =2023.3.23 =py39h24fc6b6_0
     - requests =2.29.0 =pyhd8ed1ab_0
-    - rust =1.69.0 =h17c2ec1_0
+    - rust =1.69.0 =h9d3d833_1
     - scipy =1.10.1 =py39hfa096b2_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
@@ -263,7 +263,7 @@ requirements:
     - pixman =0.40.0 =hb9de7d4_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
-    - platformdirs =3.4.0 =pyhd8ed1ab_0
+    - platformdirs =3.5.0 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py39ha65689a_4
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyha770c72_3
@@ -475,7 +475,7 @@ requirements:
     - ruamel.yaml =0.17.21 =py39h24fc6b6_3
     - ruamel.yaml.clib =0.2.7 =py39h24fc6b6_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-aarch64-unknown-linux-gnu =1.69.0 =ha15b78c_0
+    - rust-std-aarch64-unknown-linux-gnu =1.69.0 =ha15b78c_1
     - sed =4.8 =ha0d5d3d_0
     - semver =2.13.0 =pyh9f0ad1d_0
     - send2trash =1.8.2 =pyh41d4057_0
