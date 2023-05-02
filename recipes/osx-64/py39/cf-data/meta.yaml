@@ -41,7 +41,7 @@ requirements:
     - scrapy =2.8.0 =py39h6e9494a_1
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.11 =py39hdc70f33_0
+    - sqlalchemy =2.0.12 =py39hdc70f33_0
     - sqlite =3.40.0 =h9ae0607_1
     - statsmodels =0.13.5 =py39h7cc1f47_2
     - xgboost =1.7.4 =cpu_py39hd182d69_0
@@ -51,23 +51,23 @@ requirements:
     - alembic =1.10.4 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.3 =pyhd8ed1ab_0
-    - arrow-cpp =11.0.0 =h694c41f_17_cpu
+    - arrow-cpp =11.0.0 =h694c41f_18_cpu
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =22.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.6.26 =hed811a8_5
-    - aws-c-cal =0.5.21 =h57d8c43_3
+    - aws-c-auth =0.6.26 =hc32346d_6
+    - aws-c-cal =0.5.26 =h57d8c43_0
     - aws-c-common =0.8.17 =h0dc2134_0
     - aws-c-compression =0.2.16 =hc203854_6
     - aws-c-event-stream =0.2.20 =h33c8cf8_6
-    - aws-c-http =0.7.7 =hed4ed4e_2
-    - aws-c-io =0.13.21 =h898c1fb_1
+    - aws-c-http =0.7.7 =h69c0737_3
+    - aws-c-io =0.13.21 =h776a98b_3
     - aws-c-mqtt =0.8.6 =h6b69f33_15
-    - aws-c-s3 =0.2.8 =h2f30b96_3
+    - aws-c-s3 =0.2.8 =h6938ca5_4
     - aws-c-sdkutils =0.1.9 =hc203854_1
     - aws-checksums =0.1.14 =hc203854_6
-    - aws-crt-cpp =0.19.9 =h489901d_4
+    - aws-crt-cpp =0.19.9 =h103f044_5
     - aws-sdk-cpp =1.10.57 =h55b9a6d_10
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -115,7 +115,7 @@ requirements:
     - executing =1.2.0 =pyhd8ed1ab_0
     - expat =2.5.0 =hf0c8a7f_1
     - filelock =3.12.0 =pyhd8ed1ab_0
-    - flask =2.3.1 =pyhd8ed1ab_1
+    - flask =2.3.2 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -182,7 +182,7 @@ requirements:
     - lcms2 =2.15 =h2dcdeff_1
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230125.0 =cxx17_hf0c8a7f_1
-    - libarrow =11.0.0 =h2698f8f_17_cpu
+    - libarrow =11.0.0 =h2698f8f_18_cpu
     - libblas =3.9.0 =16_osx64_openblas
     - libbrotlicommon =1.0.9 =hb7f2c08_8
     - libbrotlidec =1.0.9 =hb7f2c08_8
@@ -298,7 +298,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.4 =cpu_py39hb0a6171_0
-    - pyarrow =11.0.0 =py39h105b94d_17_cpu
+    - pyarrow =11.0.0 =py39h105b94d_18_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -384,10 +384,10 @@ requirements:
     - wasabi =1.1.1 =py39h6e9494a_1
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - websocket-client =1.5.1 =pyhd8ed1ab_0
-    - werkzeug =2.3.2 =pyhd8ed1ab_0
+    - werkzeug =2.3.3 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
     - widgetsnbextension =4.0.7 =pyhd8ed1ab_0
-    - wordcloud =1.8.2.2 =py39ha30fb19_1
+    - wordcloud =1.9.1.1 =py39hdc70f33_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xorg-libxau =1.0.9 =h35c211d_0
     - xorg-libxdmcp =1.1.3 =h35c211d_0
