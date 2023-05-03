@@ -80,7 +80,7 @@ requirements:
     - ca-certificates =2022.12.7 =h5b45459_0
     - cairo =1.16.0 =hdecc03f_1015
     - catalogue =2.0.8 =py38haa244fe_1
-    - catboost =1.1.1 =py38haa244fe_2
+    - catboost =1.2 =py38haa244fe_4
     - certifi =2022.12.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38h57701bc_3
     - charset-normalizer =3.1.0 =pyhd8ed1ab_0
@@ -192,7 +192,7 @@ requirements:
     - libgd =2.3.3 =h2ed9e1d_6
     - libglib =2.76.2 =he8f3873_0
     - libgoogle-cloud =2.9.1 =h00b2bdc_0
-    - libgrpc =1.54.0 =h32da247_0
+    - libgrpc =1.54.1 =h32da247_0
     - libhwloc =2.9.1 =h51c2c0f_0
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
@@ -243,7 +243,7 @@ requirements:
     - numexpr =2.7.3 =py38h5d928e2_2
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha2aaf27_2
-    - openssl =3.1.0 =hcfcfb64_2
+    - openssl =3.1.0 =hcfcfb64_3
     - orc =1.8.3 =hada7b9e_0
     - packaging =23.1 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
@@ -308,7 +308,7 @@ requirements:
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
     - re2 =2023.02.02 =h63175ca_0
-    - regex =2023.3.23 =py38h91455d4_0
+    - regex =2023.5.4 =py38h91455d4_0
     - requests =2.29.0 =pyhd8ed1ab_0
     - requests-file =1.5.1 =pyh9f0ad1d_0
     - retrying =1.3.3 =py_2
