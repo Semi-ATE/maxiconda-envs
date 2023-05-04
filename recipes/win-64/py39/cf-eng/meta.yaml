@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.6.3 =pyh1a96a4e_0
     - spyder-kernels =2.4.3 =win_pyhd8ed1ab_0
 
-    # 94 secondary packages :
+    # 95 secondary packages :
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -121,7 +121,8 @@ requirements:
     - typing_extensions =4.5.0 =pyha770c72_0
     - tzdata =2023c =h71feb2d_0
     - ucrt =10.0.22621.0 =h57928b3_0
-    - vc =14.3 =h3d8a991_11
+    - vc =14.3 =hb25d44b_12
+    - vc14_runtime =14.34.31931 =h5081d32_12
     - vs2015_runtime =14.34.31931 =h4c5c07a_11
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0

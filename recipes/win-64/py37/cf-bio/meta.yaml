@@ -36,7 +36,7 @@ requirements:
     - scipy =1.7.3 =py37hb6553fb_0
     - spyder-kernels =2.4.3 =win_pyhd8ed1ab_0
 
-    # 158 secondary packages :
+    # 159 secondary packages :
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -70,7 +70,7 @@ requirements:
     - glew =2.1.0 =h39d44d4_2
     - glib =2.76.2 =h12be248_0
     - glib-tools =2.76.2 =h12be248_0
-    - glm =0.9.9.4 =h5362a0b_2
+    - glm =0.9.9.8 =h181d51b_0
     - greenlet =1.1.3 =py37hf2a7229_0
     - griddataformats =0.7.0 =pyhd8ed1ab_0
     - gsd =2.6.0 =py37h3a130e4_0
@@ -184,7 +184,8 @@ requirements:
     - typing_extensions =4.5.0 =pyha770c72_0
     - ucrt =10.0.22621.0 =h57928b3_0
     - unicodedata2 =14.0.0 =py37hcc03f2d_1
-    - vc =14.3 =h3d8a991_11
+    - vc =14.3 =hb25d44b_12
+    - vc14_runtime =14.34.31931 =h5081d32_12
     - vs2015_runtime =14.34.31931 =h4c5c07a_11
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
