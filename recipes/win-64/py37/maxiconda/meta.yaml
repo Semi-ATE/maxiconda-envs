@@ -193,7 +193,7 @@ requirements:
     - msys2-conda-epoch =20160418 =1
     - multidict =6.0.2 =py37hcc03f2d_1
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - nbclassic =0.5.6 =pyhb4ecaf3_1
+    - nbclassic =1.0.0 =pyhb4ecaf3_1
     - nbclient =0.7.0 =pyhd8ed1ab_0
     - nbconvert =7.3.1 =pyhd8ed1ab_0
     - nbconvert-core =7.3.1 =pyhd8ed1ab_0
@@ -375,7 +375,7 @@ requirements:
     - r-rpart =4.1.19 =r41h6d2157b_0
     - r-rstudioapi =0.14 =r41hc72bb7e_1
     - r-rvest =1.0.3 =r41hc72bb7e_1
-    - r-sass =0.4.5 =r41ha856d6a_0
+    - r-sass =0.4.6 =r41ha856d6a_0
     - r-scales =1.2.1 =r41hc72bb7e_1
     - r-selectr =0.4_2 =r41hc72bb7e_2
     - r-shape =1.4.6 =r41ha770c72_1
@@ -437,9 +437,9 @@ requirements:
     - ucrt =10.0.22621.0 =h57928b3_0
     - unicodedata2 =14.0.0 =py37hcc03f2d_1
     - urllib3 =1.26.15 =pyhd8ed1ab_0
-    - vc =14.3 =hb25d44b_12
-    - vc14_runtime =14.34.31931 =h5081d32_12
-    - vs2015_runtime =14.34.31931 =h4c5c07a_11
+    - vc =14.3 =hb25d44b_16
+    - vc14_runtime =14.34.31931 =h5081d32_16
+    - vs2015_runtime =14.34.31931 =hed1258a_16
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1
     - websocket-client =1.5.1 =pyhd8ed1ab_0

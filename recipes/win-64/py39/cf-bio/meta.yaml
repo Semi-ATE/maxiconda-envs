@@ -98,7 +98,7 @@ requirements:
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - intel-openmp =2023.1.0 =h57928b3_46319
     - ipykernel =6.22.0 =pyh025b116_0
-    - ipython =8.13.1 =pyh08f2357_0
+    - ipython =8.13.2 =pyh08f2357_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - joblib =1.2.0 =pyhd8ed1ab_0
     - jupyter_client =8.2.0 =pyhd8ed1ab_0
@@ -113,8 +113,8 @@ requirements:
     - libbrotlidec =1.0.9 =hcfcfb64_8
     - libbrotlienc =1.0.9 =hcfcfb64_8
     - libcblas =3.9.0 =16_win64_mkl
-    - libclang =16.0.2 =default_h8b4101f_0
-    - libclang13 =16.0.2 =default_h45d3cf4_0
+    - libclang =16.0.3 =default_h8b4101f_0
+    - libclang13 =16.0.3 =default_h45d3cf4_0
     - libcurl =8.0.1 =h68f0423_0
     - libdeflate =1.18 =hcfcfb64_0
     - libexpat =2.5.0 =h63175ca_1
@@ -218,9 +218,9 @@ requirements:
     - ucrt =10.0.22621.0 =h57928b3_0
     - unicodedata2 =15.0.0 =py39ha55989b_0
     - urllib3 =1.26.15 =pyhd8ed1ab_0
-    - vc =14.3 =hb25d44b_12
-    - vc14_runtime =14.34.31931 =h5081d32_12
-    - vs2015_runtime =14.34.31931 =h4c5c07a_11
+    - vc =14.3 =hb25d44b_16
+    - vc14_runtime =14.34.31931 =h5081d32_16
+    - vs2015_runtime =14.34.31931 =hed1258a_16
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py39hcbf5309_5

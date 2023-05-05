@@ -32,7 +32,7 @@ requirements:
     - cython =0.29.34 =py39h7a8716b_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
     - hypothesis =6.75.1 =pyha770c72_0
-    - ipython =8.13.1 =pyhd1c38e8_0
+    - ipython =8.13.2 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py39h6e9494a_0
     - numba =0.56.4 =py39h6e2ba77_1
@@ -203,7 +203,7 @@ requirements:
     - libxcb =1.13 =h0d85af4_1004
     - libxml2 =2.10.3 =h201ad9d_4
     - libzlib =1.2.13 =hfd90126_4
-    - llvm-openmp =16.0.2 =hff08bdf_0
+    - llvm-openmp =16.0.3 =hff08bdf_0
     - llvm-tools =16.0.1 =h7001e86_0
     - llvmlite =0.39.1 =py39had167e2_1
     - make =4.3 =h22f3db7_1
@@ -218,7 +218,7 @@ requirements:
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mysql-common =8.0.32 =hc4b2c72_1
     - mysql-libs =8.0.32 =h8658499_1
-    - nbclassic =0.5.6 =pyhb4ecaf3_1
+    - nbclassic =1.0.0 =pyhb4ecaf3_1
     - nbclient =0.7.4 =pyhd8ed1ab_0
     - nbconvert =7.3.1 =pyhd8ed1ab_0
     - nbconvert-core =7.3.1 =pyhd8ed1ab_0
@@ -364,7 +364,7 @@ requirements:
     - r-lubridate =1.9.2 =r42h815d134_1
     - r-magrittr =2.0.3 =r42h815d134_1
     - r-maps =3.4.1 =r42h815d134_1
-    - r-mass =7.3_59 =r42h6dc245f_0
+    - r-mass =7.3_60 =r42h6dc245f_0
     - r-matrix =1.5_4 =r42hce01bf1_0
     - r-memoise =2.0.1 =r42hc72bb7e_1
     - r-mgcv =1.8_42 =r42h40f944a_0
@@ -414,7 +414,7 @@ requirements:
     - r-rpart =4.1.19 =r42h815d134_0
     - r-rstudioapi =0.14 =r42hc72bb7e_1
     - r-rvest =1.0.3 =r42hc72bb7e_1
-    - r-sass =0.4.5 =r42h49197e3_0
+    - r-sass =0.4.6 =r42hac7d2d5_0
     - r-scales =1.2.1 =r42hc72bb7e_1
     - r-selectr =0.4_2 =r42hc72bb7e_2
     - r-shape =1.4.6 =r42ha770c72_1
