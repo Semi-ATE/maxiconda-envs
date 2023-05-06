@@ -42,10 +42,10 @@ requirements:
     - spyder-kernels =2.4.3 =win_pyhd8ed1ab_0
     - sqlalchemy =2.0.12 =py38h91455d4_0
     - sqlite =3.40.0 =hcfcfb64_1
-    - statsmodels =0.13.5 =py38hbaf524b_2
+    - statsmodels =0.14.0 =py38h634f036_1
     - xgboost =1.7.4 =cpu_py38hc22ac66_0
 
-    # 343 secondary packages :
+    # 341 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.10.4 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -156,7 +156,7 @@ requirements:
     - incremental =22.10.0 =pyhd8ed1ab_0
     - intel-openmp =2023.1.0 =h57928b3_46319
     - ipykernel =6.22.0 =pyh025b116_0
-    - ipython =8.12.1 =pyh08f2357_0
+    - ipython =8.12.2 =pyh08f2357_0
     - ipywidgets =8.0.6 =pyhd8ed1ab_0
     - itemadapter =0.8.0 =pyhd8ed1ab_0
     - itemloaders =1.1.0 =pyhd8ed1ab_0
@@ -230,7 +230,7 @@ requirements:
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mkl =2022.1.0 =h6a75c08_874
-    - mlflow =2.3.0 =py38hdedce57_1
+    - mlflow =2.3.1 =py38hdedce57_0
     - mlxtend =0.22.0 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - multimethod =1.4 =py_0
@@ -316,12 +316,10 @@ requirements:
     - seaborn-base =0.12.2 =pyhd8ed1ab_0
     - service_identity =18.1.0 =py_0
     - setuptools =67.7.2 =pyhd8ed1ab_0
-    - shap =0.41.0 =py38hcc40339_0
     - shellingham =1.5.1 =pyhd8ed1ab_0
     - simpful =2.10.0 =pyhd8ed1ab_0
     - sip =6.7.9 =py38hd3f51b4_0
     - six =1.16.0 =pyh6c4a22f_0
-    - slicer =0.0.7 =pyhd8ed1ab_0
     - smart_open =5.2.1 =pyhd8ed1ab_0
     - smmap =3.0.5 =pyh44b312d_0
     - snappy =1.1.10 =hfb803bf_0

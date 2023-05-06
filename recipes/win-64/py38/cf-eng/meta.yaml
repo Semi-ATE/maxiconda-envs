@@ -31,7 +31,7 @@ requirements:
     - pyqt =5.15.7 =py38hd6c051e_3
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
-    - pyvisa-py =0.6.3 =pyh1a96a4e_0
+    - pyvisa-py =0.7.0 =pyh1a96a4e_0
     - spyder-kernels =2.4.3 =win_pyhd8ed1ab_0
 
     # 94 secondary packages :
@@ -58,7 +58,7 @@ requirements:
     - importlib_metadata =6.6.0 =hd8ed1ab_0
     - intel-openmp =2023.1.0 =h57928b3_46319
     - ipykernel =6.22.0 =pyh025b116_0
-    - ipython =8.12.1 =pyh08f2357_0
+    - ipython =8.12.2 =pyh08f2357_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jupyter_client =8.2.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.0 =py38haa244fe_0

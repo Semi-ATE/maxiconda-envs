@@ -31,7 +31,7 @@ requirements:
     - pyqt =5.15.7 =py38ha0d8c90_3
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
-    - pyvisa-py =0.6.3 =pyh1a96a4e_0
+    - pyvisa-py =0.7.0 =pyh1a96a4e_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
     # 160 secondary packages :
@@ -73,7 +73,7 @@ requirements:
     - importlib-metadata =6.6.0 =pyha770c72_0
     - importlib_metadata =6.6.0 =hd8ed1ab_0
     - ipykernel =6.22.0 =pyh210e3f2_0
-    - ipython =8.12.1 =pyh41d4057_0
+    - ipython =8.12.2 =pyh41d4057_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jupyter_client =8.2.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.0 =py38h578d9bd_0
@@ -125,8 +125,8 @@ requirements:
     - lz4-c =1.9.4 =hcb278e6_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mpg123 =1.31.3 =hcb278e6_0
-    - mysql-common =8.0.32 =ha901b37_1
-    - mysql-libs =8.0.32 =hd7da12d_1
+    - mysql-common =8.0.32 =hf1915f5_2
+    - mysql-libs =8.0.32 =hca2cd23_2
     - ncurses =6.3 =h27087fc_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - nspr =4.35 =h27087fc_0
