@@ -28,7 +28,7 @@ requirements:
     - cython =0.29.34 =py39h99910a6_0
     - matplotlib =3.7.1 =py39hcbf5309_0
     - numpy =1.24.3 =py39h816b6a6_0
-    - pandas =2.0.1 =py39h1679cfb_0
+    - pandas =2.0.1 =py39h1679cfb_1
     - pyqt =5.15.7 =py39hb77abff_3
     - pyqtwebengine =5.15.7 =py39h2f4a3f1_3
     - scipy =1.10.1 =py39hde5eda1_1
@@ -41,7 +41,7 @@ requirements:
     - astroid =2.15.4 =py39hcbf5309_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_0
-    - attrs =23.1.0 =pyh71513ae_0
+    - attrs =23.1.0 =pyh71513ae_1
     - autopep8 =2.0.2 =pyhd8ed1ab_0
     - babel =2.12.1 =pyhd8ed1ab_1
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -56,8 +56,8 @@ requirements:
     - brotli-bin =1.0.9 =hcfcfb64_8
     - brotlipy =0.7.0 =py39ha55989b_1005
     - bzip2 =1.0.8 =h8ffe710_4
-    - ca-certificates =2022.12.7 =h5b45459_0
-    - certifi =2022.12.7 =pyhd8ed1ab_0
+    - ca-certificates =2023.5.7 =h56e8100_0
+    - certifi =2023.5.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py39h68f70e3_3
     - chardet =5.1.0 =py39hcbf5309_0
     - charset-normalizer =3.1.0 =pyhd8ed1ab_0
@@ -220,7 +220,7 @@ requirements:
     - pyzmq =25.0.2 =py39hea35a22_0
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.8 =h7f2b912_9
+    - qt-main =5.15.8 =h7f2b912_10
     - qt-webengine =5.15.8 =h5b1ea0b_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.4.3 =pyhd8ed1ab_0

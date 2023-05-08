@@ -30,7 +30,7 @@ requirements:
     - lightgbm =3.3.5 =py38hd3f51b4_0
     - matplotlib =3.7.1 =py38haa244fe_0
     - numpy =1.23.5 =py38h90ce339_0
-    - pandas =2.0.1 =py38hf08cf0d_0
+    - pandas =2.0.1 =py38hf08cf0d_1
     - plotly =5.14.1 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py38haa244fe_3
@@ -51,7 +51,7 @@ requirements:
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - arrow-cpp =11.0.0 =h57928b3_19_cpu
     - asttokens =2.2.1 =pyhd8ed1ab_0
-    - attrs =23.1.0 =pyh71513ae_0
+    - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
     - aws-c-auth =0.6.26 =h0e8f9f7_6
     - aws-c-cal =0.5.26 =h3200b0f_0
@@ -77,11 +77,11 @@ requirements:
     - brotlipy =0.7.0 =py38h91455d4_1005
     - bzip2 =1.0.8 =h8ffe710_4
     - c-ares =1.18.1 =h8ffe710_0
-    - ca-certificates =2022.12.7 =h5b45459_0
+    - ca-certificates =2023.5.7 =h56e8100_0
     - cairo =1.16.0 =hdecc03f_1015
     - catalogue =2.0.8 =py38haa244fe_1
     - catboost =1.2 =py38haa244fe_4
-    - certifi =2022.12.7 =pyhd8ed1ab_0
+    - certifi =2023.5.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38h57701bc_3
     - charset-normalizer =3.1.0 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyh9f0ad1d_0
@@ -304,7 +304,7 @@ requirements:
     - pywin32-on-windows =0.1.0 =pyh07e9846_2
     - pyyaml =6.0 =py38h91455d4_5
     - pyzmq =25.0.2 =py38ha85f68a_0
-    - qt-main =5.15.8 =h7f2b912_9
+    - qt-main =5.15.8 =h7f2b912_10
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
     - re2 =2023.02.02 =h63175ca_0

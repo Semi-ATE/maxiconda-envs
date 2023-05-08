@@ -28,7 +28,7 @@ requirements:
     - cython =0.29.34 =py39h7a8716b_0
     - matplotlib =3.7.1 =py39h6e9494a_0
     - numpy =1.24.3 =py39h892e69a_0
-    - pandas =2.0.1 =py39h11b3245_0
+    - pandas =2.0.1 =py39h11b3245_1
     - pyqt =5.15.7 =py39h327fbb6_3
     - pyqtwebengine =5.15.7 =py39hb593388_3
     - scipy =1.10.1 =py39h4c5e66d_1
@@ -43,7 +43,7 @@ requirements:
     - astroid =2.15.4 =py39h6e9494a_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_0
-    - attrs =23.1.0 =pyh71513ae_0
+    - attrs =23.1.0 =pyh71513ae_1
     - autopep8 =2.0.2 =pyhd8ed1ab_0
     - babel =2.12.1 =pyhd8ed1ab_1
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -57,8 +57,8 @@ requirements:
     - brotli-bin =1.0.9 =hb7f2c08_8
     - brotlipy =0.7.0 =py39ha30fb19_1005
     - bzip2 =1.0.8 =h0d85af4_4
-    - ca-certificates =2022.12.7 =h033912b_0
-    - certifi =2022.12.7 =pyhd8ed1ab_0
+    - ca-certificates =2023.5.7 =h8857fd0_0
+    - certifi =2023.5.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py39h131948b_3
     - chardet =5.1.0 =py39h6e9494a_0
     - charset-normalizer =3.1.0 =pyhd8ed1ab_0
@@ -125,7 +125,7 @@ requirements:
     - libcblas =3.9.0 =16_osx64_openblas
     - libclang =14.0.6 =default_h55ffa42_0
     - libclang13 =14.0.6 =default_hb5731bd_0
-    - libcxx =16.0.2 =hd57cbcb_0
+    - libcxx =16.0.3 =hd57cbcb_0
     - libdeflate =1.18 =hac1461d_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libffi =3.4.2 =h0d85af4_5
@@ -230,7 +230,7 @@ requirements:
     - pyzmq =25.0.2 =py39hed8f129_0
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.8 =h0afe88e_9
+    - qt-main =5.15.8 =h0afe88e_10
     - qt-webengine =5.15.8 =h84e7aee_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.4.3 =pyhd8ed1ab_0

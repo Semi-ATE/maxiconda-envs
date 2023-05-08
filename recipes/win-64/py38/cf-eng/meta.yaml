@@ -27,7 +27,7 @@ requirements:
     # 8 primary packages :
     - numpy =1.24.3 =py38h1d91fd2_0
     - openpyxl =3.1.2 =py38h91455d4_0
-    - pandas =2.0.1 =py38hf08cf0d_0
+    - pandas =2.0.1 =py38hf08cf0d_1
     - pyqt =5.15.7 =py38hd6c051e_3
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
@@ -40,7 +40,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =h8ffe710_4
-    - ca-certificates =2022.12.7 =h5b45459_0
+    - ca-certificates =2023.5.7 =h56e8100_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.3 =pyhd8ed1ab_0
@@ -106,7 +106,7 @@ requirements:
     - pyvisa =1.13.0 =py38haa244fe_0
     - pywin32 =304 =py38hd3f51b4_2
     - pyzmq =25.0.2 =py38ha85f68a_0
-    - qt-main =5.15.8 =h7f2b912_9
+    - qt-main =5.15.8 =h7f2b912_10
     - setuptools =67.7.2 =pyhd8ed1ab_0
     - sip =6.7.9 =py38hd3f51b4_0
     - six =1.16.0 =pyh6c4a22f_0

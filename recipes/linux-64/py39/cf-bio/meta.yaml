@@ -29,7 +29,7 @@ requirements:
     - matplotlib =3.7.1 =py39hf3d152e_0
     - mdanalysis =2.4.3 =py39h5ea5205_0
     - numpy =1.24.3 =py39h6183b62_0
-    - pandas =2.0.1 =py39h40cae4c_0
+    - pandas =2.0.1 =py39h40cae4c_1
     - pymol-open-source =2.5.0 =py39h7992df7_6
     - pyqt =5.15.7 =py39h5c7b992_3
     - rdkit =2023.03.1 =py39h55a5abb_0
@@ -53,11 +53,11 @@ requirements:
     - brotlipy =0.7.0 =py39hb9d737c_1005
     - bzip2 =1.0.8 =h7f98852_4
     - c-ares =1.18.1 =h7f98852_0
-    - ca-certificates =2022.12.7 =ha878542_0
+    - ca-certificates =2023.5.7 =hbcca054_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.16.0 =h35add3b_1015
-    - certifi =2022.12.7 =pyhd8ed1ab_0
+    - certifi =2023.5.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py39he91dace_3
     - cftime =1.6.2 =py39h2ae25f5_1
     - charset-normalizer =3.1.0 =pyhd8ed1ab_0
@@ -223,7 +223,7 @@ requirements:
     - pytng =0.3.0 =py39h0050040_0
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyzmq =25.0.2 =py39h0be026e_0
-    - qt-main =5.15.8 =h5c52f38_9
+    - qt-main =5.15.8 =h5c52f38_10
     - readline =8.2 =h8228510_1
     - reportlab =3.6.13 =py39h12ba270_0
     - requests =2.29.0 =pyhd8ed1ab_0

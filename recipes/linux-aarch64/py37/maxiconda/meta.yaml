@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.2 =r42hd8ed1ab_2003
     - regex =2022.9.13 =py37h795501a_0
     - requests =2.29.0 =pyhd8ed1ab_0
-    - rust =1.69.0 =h9d3d833_1
+    - rust =1.69.0 =h9d3d833_2
     - scipy =1.7.3 =py37hd18d958_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
@@ -76,7 +76,7 @@ requirements:
     - async-timeout =4.0.2 =pyhd8ed1ab_0
     - asynctest =0.13.0 =py_0
     - attr =2.5.1 =h4e544f5_1
-    - attrs =23.1.0 =pyh71513ae_0
+    - attrs =23.1.0 =pyh71513ae_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -89,9 +89,9 @@ requirements:
     - bwidget =1.9.14 =h8af1aa0_1
     - bzip2 =1.0.8 =hf897c2e_4
     - c-ares =1.18.1 =hf897c2e_0
-    - ca-certificates =2022.12.7 =h4fd8a4c_0
+    - ca-certificates =2023.5.7 =hcefe29a_0
     - cairo =1.16.0 =hd19fb6e_1014
-    - certifi =2022.12.7 =pyhd8ed1ab_0
+    - certifi =2023.5.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py37h828e148_1
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
     - click =8.1.3 =py37hfd236b0_0
@@ -463,7 +463,7 @@ requirements:
     - ruamel.yaml =0.17.21 =py37h795501a_1
     - ruamel.yaml.clib =0.2.6 =py37h795501a_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-aarch64-unknown-linux-gnu =1.69.0 =ha15b78c_1
+    - rust-std-aarch64-unknown-linux-gnu =1.69.0 =ha15b78c_2
     - sed =4.8 =ha0d5d3d_0
     - send2trash =1.8.2 =pyh41d4057_0
     - setuptools =59.8.0 =py37hfd236b0_1

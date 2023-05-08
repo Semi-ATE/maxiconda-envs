@@ -27,7 +27,7 @@ requirements:
     # 8 primary packages :
     - numpy =1.24.3 =py39h892e69a_0
     - openpyxl =3.1.2 =py39hdc70f33_0
-    - pandas =2.0.1 =py39h11b3245_0
+    - pandas =2.0.1 =py39h11b3245_1
     - pyqt =5.15.7 =py39h327fbb6_3
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
@@ -41,7 +41,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =h0d85af4_4
-    - ca-certificates =2022.12.7 =h033912b_0
+    - ca-certificates =2023.5.7 =h8857fd0_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - comm =0.1.3 =pyhd8ed1ab_0
     - debugpy =1.6.7 =py39h7a8716b_0
@@ -66,7 +66,7 @@ requirements:
     - libcblas =3.9.0 =16_osx64_openblas
     - libclang =14.0.6 =default_h55ffa42_0
     - libclang13 =14.0.6 =default_hb5731bd_0
-    - libcxx =16.0.2 =hd57cbcb_0
+    - libcxx =16.0.3 =hd57cbcb_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libffi =3.4.2 =h0d85af4_5
     - libgfortran =5.0.0 =11_3_0_h97931a8_31
@@ -116,7 +116,7 @@ requirements:
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyvisa =1.13.0 =py39h6e9494a_0
     - pyzmq =25.0.2 =py39hed8f129_0
-    - qt-main =5.15.8 =h0afe88e_9
+    - qt-main =5.15.8 =h0afe88e_10
     - readline =8.2 =h9e318b2_1
     - setuptools =67.7.2 =pyhd8ed1ab_0
     - sip =6.7.9 =py39h840bb9f_0

@@ -38,7 +38,7 @@ requirements:
     - numpy =1.23.5 =py38h09ac2d9_0
     - openpyxl =3.1.2 =py38hb192615_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
-    - pandas =2.0.1 =py38hefb543e_0
+    - pandas =2.0.1 =py38hefb543e_1
     - psutil =5.9.5 =py38hb991d35_0
     - pydantic =1.10.7 =py38hb991d35_0
     - pyqt =5.15.7 =py38hd4e55b5_3
@@ -51,7 +51,7 @@ requirements:
     - r-essentials =4.2 =r42hd8ed1ab_2003
     - regex =2023.5.5 =py38hb192615_0
     - requests =2.29.0 =pyhd8ed1ab_0
-    - rust =1.69.0 =h4ff7c5d_1
+    - rust =1.69.0 =h4ff7c5d_2
     - scipy =1.10.1 =py38h78649e0_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
@@ -72,7 +72,7 @@ requirements:
     - argon2-cffi-bindings =21.2.0 =py38hb991d35_3
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - async-timeout =4.0.2 =pyhd8ed1ab_0
-    - attrs =23.1.0 =pyh71513ae_0
+    - attrs =23.1.0 =pyh71513ae_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -84,10 +84,10 @@ requirements:
     - bwidget =1.9.14 =hce30654_1
     - bzip2 =1.0.8 =h3422bc3_4
     - c-ares =1.18.1 =h3422bc3_0
-    - ca-certificates =2022.12.7 =h4653dfc_0
+    - ca-certificates =2023.5.7 =hf0a4a13_0
     - cairo =1.16.0 =h73a0509_1014
     - cctools_osx-arm64 =973.0.1 =h7a0f565_13
-    - certifi =2022.12.7 =pyhd8ed1ab_0
+    - certifi =2023.5.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38ha45ccd6_3
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
     - clang =16.0.1 =h1e5164c_0
@@ -171,7 +171,7 @@ requirements:
     - libclang-cpp16 =16.0.1 =default_he7141eb_0
     - libclang13 =14.0.6 =default_he70ec0d_0
     - libcurl =8.0.1 =heffe338_0
-    - libcxx =16.0.2 =h4653b0c_0
+    - libcxx =16.0.3 =h4653b0c_0
     - libdeflate =1.18 =h1a8c8d9_0
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libev =4.33 =h642e427_1
@@ -453,7 +453,7 @@ requirements:
     - ruamel.yaml =0.17.24 =py38hb192615_0
     - ruamel.yaml.clib =0.2.7 =py38hb991d35_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-aarch64-apple-darwin =1.69.0 =hf1a8007_1
+    - rust-std-aarch64-apple-darwin =1.69.0 =hf1a8007_2
     - semver =2.13.0 =pyh9f0ad1d_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =67.7.2 =pyhd8ed1ab_0

@@ -29,7 +29,7 @@ requirements:
     - matplotlib =3.7.1 =py38h50d1736_0
     - mdanalysis =2.4.3 =py38h5e08df7_0
     - numpy =1.24.3 =py38h9a4a08f_0
-    - pandas =2.0.1 =py38h78e6021_0
+    - pandas =2.0.1 =py38h78e6021_1
     - pymol-open-source =2.5.0 =py38h29c9bdd_6
     - pyqt =5.15.7 =py38h872f513_3
     - rdkit =2023.03.1 =py38h5fac29f_0
@@ -50,11 +50,11 @@ requirements:
     - brotlipy =0.7.0 =py38hef030d1_1005
     - bzip2 =1.0.8 =h0d85af4_4
     - c-ares =1.18.1 =h0d85af4_0
-    - ca-certificates =2022.12.7 =h033912b_0
+    - ca-certificates =2023.5.7 =h8857fd0_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.16.0 =h297c08e_1015
-    - certifi =2022.12.7 =pyhd8ed1ab_0
+    - certifi =2023.5.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38hb368cf1_3
     - cftime =1.6.2 =py38hbd87e4b_1
     - charset-normalizer =3.1.0 =pyhd8ed1ab_0
@@ -117,7 +117,7 @@ requirements:
     - libclang =14.0.6 =default_h55ffa42_0
     - libclang13 =14.0.6 =default_hb5731bd_0
     - libcurl =8.0.1 =h1fead75_0
-    - libcxx =16.0.2 =hd57cbcb_0
+    - libcxx =16.0.3 =hd57cbcb_0
     - libdeflate =1.18 =hac1461d_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =haf1e3a3_1
@@ -199,7 +199,7 @@ requirements:
     - pytng =0.3.0 =py38hadfd06d_0
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyzmq =25.0.2 =py38h0b711fd_0
-    - qt-main =5.15.8 =h0afe88e_9
+    - qt-main =5.15.8 =h0afe88e_10
     - readline =8.2 =h9e318b2_1
     - reportlab =3.6.13 =py38hd9f4822_0
     - requests =2.29.0 =pyhd8ed1ab_0
