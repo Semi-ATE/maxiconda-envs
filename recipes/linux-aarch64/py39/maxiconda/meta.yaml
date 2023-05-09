@@ -39,7 +39,7 @@ requirements:
     - numpy =1.23.5 =py39hf5a3166_0
     - openpyxl =3.1.2 =py39h898b7ef_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
-    - pandas =2.0.1 =py39h61474ce_0
+    - pandas =2.0.1 =py39h61474ce_1
     - psutil =5.9.5 =py39h24fc6b6_0
     - pydantic =1.10.7 =py39h24fc6b6_0
     - pyqt =5.15.7 =py39hd020858_3
@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
     - sqlalchemy =2.0.12 =py39h7cc1d5f_0
-    - sqlite =3.40.0 =h69ca7e5_1
+    - sqlite =3.41.2 =h3b3482f_1
     - sympy =1.11.1 =py39h4420490_2
     - tqdm =4.65.0 =pyhd8ed1ab_1
     - transitions =0.9.0 =pyhd8ed1ab_0
@@ -147,7 +147,7 @@ requirements:
     - importlib_metadata =6.6.0 =hd8ed1ab_0
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
-    - ipykernel =6.22.0 =pyh210e3f2_0
+    - ipykernel =6.23.0 =pyh210e3f2_0
     - ipython_genutils =0.2.0 =py_1
     - jack =1.9.22 =hf8b18a5_0
     - jedi =0.18.2 =pyhd8ed1ab_0
@@ -207,7 +207,7 @@ requirements:
     - libsanitizer =12.2.0 =hc13a102_19
     - libsndfile =1.2.0 =h693ebdd_0
     - libsodium =1.0.18 =hb9de7d4_1
-    - libsqlite =3.40.0 =hf9034f9_1
+    - libsqlite =3.41.2 =h194ca79_1
     - libssh2 =1.10.0 =he5a64b1_3
     - libstdcxx-devel_linux-aarch64 =12.2.0 =h58a5bb6_19
     - libstdcxx-ng =12.2.0 =hc13a102_19
@@ -361,8 +361,8 @@ requirements:
     - r-htmltools =0.5.5 =r42he0e9005_0
     - r-htmlwidgets =1.6.2 =r42hc72bb7e_0
     - r-httpcode =0.3.0 =r42h37bb5a9_2
-    - r-httpuv =1.6.9 =r42hc3d7334_0
-    - r-httr =1.4.5 =r42hc72bb7e_0
+    - r-httpuv =1.6.10 =r42ha6e910b_0
+    - r-httr =1.4.6 =r42hc72bb7e_0
     - r-ids =1.0.1 =r42hc72bb7e_2
     - r-ipred =0.9_14 =r42h4fed366_0
     - r-irdisplay =1.1 =r42hd8ed1ab_1

@@ -38,11 +38,11 @@ requirements:
     - pytorch =2.0.0 =cpu_py39h5404d98_0
     - scikit-learn =1.2.2 =py39h151e6e4_1
     - scipy =1.10.1 =py39h4c5e66d_1
-    - scrapy =2.8.0 =py39h6e9494a_1
+    - scrapy =2.9.0 =py39h6e9494a_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
     - sqlalchemy =2.0.12 =py39hdc70f33_0
-    - sqlite =3.40.0 =h9ae0607_1
+    - sqlite =3.41.2 =h2b0dec6_1
     - statsmodels =0.14.0 =py39h57e1da4_1
     - xgboost =1.7.4 =cpu_py39hd182d69_0
 
@@ -105,12 +105,12 @@ requirements:
     - cycler =0.11.0 =pyhd8ed1ab_0
     - cymem =2.0.7 =py39h7a8716b_1
     - cython-blis =0.7.9 =py39h7cc1f47_1
-    - databricks-cli =0.17.6 =pyhd8ed1ab_0
+    - databricks-cli =0.17.7 =pyhd8ed1ab_0
     - dataclasses =0.8 =pyhc8e2a94_3
     - datefinder =0.7.3 =pyhd8ed1ab_0
     - debugpy =1.6.7 =py39h7a8716b_0
     - decorator =5.1.1 =pyhd8ed1ab_0
-    - docker-py =6.0.0 =pyhd8ed1ab_0
+    - docker-py =6.1.0 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
     - executing =1.2.0 =pyhd8ed1ab_0
     - expat =2.5.0 =hf0c8a7f_1
@@ -162,7 +162,7 @@ requirements:
     - importlib_metadata =6.6.0 =hd8ed1ab_0
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - ipykernel =6.22.0 =pyh736e0ef_0
+    - ipykernel =6.23.0 =pyh736e0ef_0
     - ipython =8.13.2 =pyhd1c38e8_0
     - ipywidgets =8.0.6 =pyhd8ed1ab_0
     - itemadapter =0.8.0 =pyhd8ed1ab_0
@@ -219,7 +219,7 @@ requirements:
     - libprotobuf =3.21.12 =hbc0c0cd_0
     - librsvg =2.56.0 =h123f2dd_0
     - libsodium =1.0.18 =hbcb3906_1
-    - libsqlite =3.40.0 =ha978bb4_1
+    - libsqlite =3.41.2 =h58db7d2_1
     - libssh2 =1.10.0 =h47af595_3
     - libthrift =0.18.1 =h88b220a_1
     - libtiff =4.5.0 =hedf67fa_6
@@ -378,7 +378,7 @@ requirements:
     - unicodedata2 =15.0.0 =py39ha30fb19_0
     - urllib3 =1.26.15 =pyhd8ed1ab_0
     - visions =0.7.1 =pyhd8ed1ab_0
-    - w3lib =1.22.0 =pyh9f0ad1d_0
+    - w3lib =2.1.1 =pyhd8ed1ab_0
     - wasabi =1.1.1 =py39h6e9494a_1
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - websocket-client =1.5.1 =pyhd8ed1ab_0

@@ -28,7 +28,7 @@ requirements:
     - cython =0.29.34 =py38h31bd7b8_0
     - matplotlib =3.7.1 =py38h2063c64_0
     - numpy =1.24.3 =py38he3f4005_0
-    - pandas =2.0.1 =py38h4d82974_0
+    - pandas =2.0.1 =py38h4d82974_1
     - pyqt =5.15.7 =py38h78f0ab1_3
     - pyqtwebengine =5.15.7 =py38hea26669_3
     - scipy =1.10.1 =py38h8583a00_1
@@ -113,8 +113,8 @@ requirements:
     - importlib_metadata =6.6.0 =hd8ed1ab_0
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
-    - intervaltree =3.0.2 =py_0
-    - ipykernel =6.22.0 =pyh210e3f2_0
+    - intervaltree =3.1.0 =pyhd8ed1ab_1
+    - ipykernel =6.23.0 =pyh210e3f2_0
     - ipython =8.12.2 =pyh41d4057_0
     - ipython_genutils =0.2.0 =py_1
     - isort =5.12.0 =pyhd8ed1ab_1
@@ -174,7 +174,7 @@ requirements:
     - libsndfile =1.2.0 =h693ebdd_0
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =1.9.3 =h01db608_4
-    - libsqlite =3.40.0 =hf9034f9_1
+    - libsqlite =3.41.2 =h194ca79_1
     - libstdcxx-ng =12.2.0 =hc13a102_19
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.5.0 =h536c0eb_6
