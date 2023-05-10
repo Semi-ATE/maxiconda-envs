@@ -73,7 +73,7 @@ requirements:
     - debugpy =1.6.7 =py39h23fbdae_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
-    - diff-match-patch =20200713 =pyh9f0ad1d_0
+    - diff-match-patch =20230430 =pyhd8ed1ab_0
     - dill =0.3.6 =pyhd8ed1ab_1
     - docstring-to-markdown =0.12 =pyhd8ed1ab_0
     - docutils =0.19 =py39h2804cbe_1
@@ -165,9 +165,9 @@ requirements:
     - mysql-common =8.0.32 =h7b5afe1_2
     - mysql-libs =8.0.32 =hb292caa_2
     - nbclient =0.7.4 =pyhd8ed1ab_0
-    - nbconvert =7.3.1 =pyhd8ed1ab_0
-    - nbconvert-core =7.3.1 =pyhd8ed1ab_0
-    - nbconvert-pandoc =7.3.1 =pyhd8ed1ab_0
+    - nbconvert =7.4.0 =pyhd8ed1ab_0
+    - nbconvert-core =7.4.0 =pyhd8ed1ab_0
+    - nbconvert-pandoc =7.4.0 =pyhd8ed1ab_0
     - nbformat =5.8.0 =pyhd8ed1ab_0
     - ncurses =6.3 =h07bb92c_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
