@@ -26,7 +26,7 @@ requirements:
 
     # 20 primary packages :
     - beautifulsoup4 =4.12.2 =pyha770c72_0
-    - bokeh =3.1.0 =pyhd8ed1ab_0
+    - bokeh =3.1.1 =pyhd8ed1ab_0
     - lightgbm =3.3.5 =py38h6e1195d_0
     - matplotlib =3.7.1 =py38h50d1736_0
     - numpy =1.23.5 =py38hc2f29e8_0
@@ -37,7 +37,7 @@ requirements:
     - pyqt =5.15.7 =py38h872f513_3
     - pytorch =2.0.0 =cpu_py38h7c2c2ba_0
     - scikit-learn =1.2.2 =py38h1081964_1
-    - scipy =1.10.1 =py38h1a492ef_1
+    - scipy =1.10.1 =py38h1a492ef_2
     - scrapy =2.9.0 =py38h50d1736_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
@@ -123,7 +123,7 @@ requirements:
     - fontconfig =2.14.2 =h5bb23bf_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.39.3 =py38hef030d1_0
+    - fonttools =4.39.4 =py38hcafd530_0
     - freetype =2.12.1 =h3f81eb7_1
     - fribidi =1.0.10 =hbcb3906_0
     - fst-pso =1.8.1 =pyhd8ed1ab_0
@@ -150,7 +150,7 @@ requirements:
     - gtk2 =2.24.33 =h7c1209e_2
     - gts =0.7.6 =hccb3bdf_2
     - gunicorn =20.1.0 =py38h50d1736_3
-    - harfbuzz =7.2.0 =h413ba03_0
+    - harfbuzz =7.3.0 =h413ba03_0
     - htmlmin =0.1.12 =py_1
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =72.1 =h7336db1_0
