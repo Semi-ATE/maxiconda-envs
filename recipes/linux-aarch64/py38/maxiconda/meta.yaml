@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.7.3 =py38hd5eba46_0
     - cython =0.29.34 =py38h31bd7b8_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.75.2 =pyha770c72_0
+    - hypothesis =6.75.3 =pyha770c72_0
     - ipython =8.12.2 =pyh41d4057_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py38h2063c64_0
@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0 =py38hdacc76a_5
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
-    - r-base =4.2.3 =h75c4010_1
+    - r-base =4.2.3 =h3cea091_2
     - r-essentials =4.2 =r42hd8ed1ab_2003
     - regex =2023.5.5 =py38h9579f32_0
     - requests =2.29.0 =pyhd8ed1ab_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.0 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 469 secondary packages :
+    # 461 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - _sysroot_linux-aarch64_curr_repodata_hack =4 =h57d6b7b_13
@@ -90,7 +90,7 @@ requirements:
     - bzip2 =1.0.8 =hf897c2e_4
     - c-ares =1.18.1 =hf897c2e_0
     - ca-certificates =2023.5.7 =hcefe29a_0
-    - cairo =1.16.0 =hd19fb6e_1014
+    - cairo =1.16.0 =hf367cc0_1015
     - certifi =2023.5.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38h6989fa8_3
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
@@ -112,8 +112,7 @@ requirements:
     - exceptiongroup =1.1.1 =pyhd8ed1ab_0
     - executing =1.2.0 =pyhd8ed1ab_0
     - expat =2.5.0 =hd600fc2_1
-    - fftw =3.3.10 =nompi_h2dcef8e_107
-    - flit-core =3.8.0 =pyhd8ed1ab_0
+    - flit-core =3.9.0 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -133,14 +132,13 @@ requirements:
     - gmp =6.2.1 =h7fd3ca4_0
     - gmpy2 =2.1.2 =py38hff653fa_1
     - graphite2 =1.3.13 =h7fd3ca4_1001
-    - greenlet =2.0.2 =py38h31bd7b8_0
+    - greenlet =2.0.2 =py38hb83fbf6_1
     - gsl =2.7 =h294027d_0
     - gst-plugins-base =1.22.0 =h8a62080_2
     - gstreamer =1.22.0 =h1f26242_2
-    - gstreamer-orc =0.4.33 =h4e544f5_0
     - gxx_impl_linux-aarch64 =12.2.0 =h0c671d3_19
-    - harfbuzz =6.0.0 =hbcb8a4f_0
-    - icu =70.1 =ha18d298_0
+    - harfbuzz =6.0.0 =h3c6782d_1
+    - icu =72.1 =hcf00150_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =6.6.0 =pyha770c72_0
     - importlib-resources =5.12.0 =pyhd8ed1ab_0
@@ -149,7 +147,6 @@ requirements:
     - iniconfig =2.0.0 =pyhd8ed1ab_0
     - ipykernel =6.23.0 =pyh210e3f2_0
     - ipython_genutils =0.2.0 =py_1
-    - jack =1.9.22 =hf8b18a5_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =8.2.0 =pyhd8ed1ab_0
@@ -172,11 +169,10 @@ requirements:
     - libbrotlienc =1.0.9 =h4e544f5_8
     - libcap =2.67 =h8246067_0
     - libcblas =3.9.0 =16_linuxaarch64_openblas
-    - libclang =15.0.7 =default_h3fabc39_1
-    - libclang13 =15.0.7 =default_haf32b04_1
+    - libclang =16.0.3 =default_h62e6ce5_0
+    - libclang13 =16.0.3 =default_hd1ddda2_0
     - libcups =2.3.3 =h4303303_3
     - libcurl =8.0.1 =h7c02cbb_0
-    - libdb =6.2.32 =h01db608_0
     - libdeflate =1.18 =hb4cce97_0
     - libedit =3.1.20191231 =he28a2e2_2
     - libev =4.33 =h516909a_1
@@ -196,7 +192,7 @@ requirements:
     - libjpeg-turbo =2.1.5.1 =hb4cce97_0
     - liblapack =3.9.0 =16_linuxaarch64_openblas
     - libllvm11 =11.1.0 =hb2805f8_5
-    - libllvm15 =15.0.7 =h87099f9_1
+    - libllvm16 =16.0.3 =h11d3cc5_1
     - libnghttp2 =1.52.0 =h250e5c5_0
     - libnsl =2.0.0 =hf897c2e_0
     - libogg =1.3.4 =h3557bc0_1
@@ -213,14 +209,12 @@ requirements:
     - libstdcxx-ng =12.2.0 =hc13a102_19
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.5.0 =h536c0eb_6
-    - libtool =2.4.7 =h4de3ea5_0
-    - libudev1 =253 =hb4cce97_1
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
     - libwebp-base =1.3.0 =hb4cce97_0
     - libxcb =1.13 =h3557bc0_1004
     - libxkbcommon =1.5.0 =h4f22d97_1
-    - libxml2 =2.10.3 =habe54e3_4
+    - libxml2 =2.10.4 =h430b14f_0
     - libzlib =1.2.13 =h4e544f5_4
     - llvmlite =0.39.1 =py38hd14ccfc_1
     - lz4-c =1.9.4 =hd600fc2_0
@@ -274,9 +268,7 @@ requirements:
     - prompt_toolkit =3.0.38 =hd8ed1ab_0
     - pthread-stubs =0.4 =hb9de7d4_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pulseaudio =16.1 =hd600fc2_3
     - pulseaudio-client =16.1 =h0c4632f_3
-    - pulseaudio-daemon =16.1 =h7a898ed_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
     - pygments =2.15.1 =pyhd8ed1ab_0
@@ -293,7 +285,7 @@ requirements:
     - python_abi =3.8 =3_cp38
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyzmq =25.0.2 =py38ha599cda_0
-    - qt-main =5.15.8 =h7a5f702_7
+    - qt-main =5.15.8 =hbada809_8
     - qtpy =2.3.1 =pyhd8ed1ab_0
     - r-askpass =1.1 =r42h8e445f0_3
     - r-assertthat =0.2.1 =r42hc72bb7e_3
@@ -442,7 +434,7 @@ requirements:
     - r-sourcetools =0.1.7_1 =r42he0e9005_0
     - r-spatial =7.3_16 =r42h4fed366_0
     - r-squarem =2021.1 =r42hc72bb7e_1
-    - r-stringi =1.7.12 =r42h7e26fe9_0
+    - r-stringi =1.7.12 =r42heb6e581_1
     - r-stringr =1.5.0 =r42h785f33e_0
     - r-survival =3.5_5 =r42h4fed366_0
     - r-sys =3.4.1 =r42h8e445f0_0

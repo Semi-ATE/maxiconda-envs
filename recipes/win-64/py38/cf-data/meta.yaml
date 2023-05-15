@@ -53,19 +53,19 @@ requirements:
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.6.26 =h0e8f9f7_6
+    - aws-c-auth =0.6.27 =h0e8f9f7_0
     - aws-c-cal =0.5.26 =h3200b0f_0
     - aws-c-common =0.8.17 =hcfcfb64_0
     - aws-c-compression =0.2.16 =h50f2975_6
     - aws-c-event-stream =0.2.20 =h03f8742_6
     - aws-c-http =0.7.7 =h1ea9cf2_3
-    - aws-c-io =0.13.21 =h09d0bb2_3
-    - aws-c-mqtt =0.8.6 =h9028ce9_15
-    - aws-c-s3 =0.2.8 =h1059ad0_4
+    - aws-c-io =0.13.21 =h09d0bb2_4
+    - aws-c-mqtt =0.8.11 =h9028ce9_0
+    - aws-c-s3 =0.3.0 =h8e18d2d_1
     - aws-c-sdkutils =0.1.9 =h50f2975_1
     - aws-checksums =0.1.14 =h50f2975_6
-    - aws-crt-cpp =0.19.9 =hd59d7e4_5
-    - aws-sdk-cpp =1.10.57 =h44051fd_10
+    - aws-crt-cpp =0.20.1 =h2d50ba6_2
+    - aws-sdk-cpp =1.10.57 =h0fa2e13_11
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -138,7 +138,7 @@ requirements:
     - glog =0.6.0 =h4797de2_0
     - graphite2 =1.3.13 =1000
     - graphviz =8.0.5 =h51cb2cd_0
-    - greenlet =2.0.2 =py38hd3f51b4_0
+    - greenlet =2.0.2 =py38hd3f51b4_1
     - gst-plugins-base =1.22.0 =h001b923_2
     - gstreamer =1.22.0 =h6b5321d_2
     - gts =0.7.6 =h7c369d9_2

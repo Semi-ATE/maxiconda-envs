@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.7.3 =py38h91455d4_0
     - cython =0.29.34 =py38hd3f51b4_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.75.2 =pyha770c72_0
+    - hypothesis =6.75.3 =pyha770c72_0
     - ipython =8.12.2 =pyh08f2357_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py38haa244fe_0
@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0 =py38h91455d4_5
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
-    - r-base =4.1.3 =hdca333a_5
+    - r-base =4.1.3 =hdca333a_8
     - r-essentials =4.1 =r41hd8ed1ab_2003
     - regex =2023.5.5 =py38h91455d4_0
     - requests =2.29.0 =pyhd8ed1ab_0
@@ -103,7 +103,7 @@ requirements:
     - exceptiongroup =1.1.1 =pyhd8ed1ab_0
     - executing =1.2.0 =pyhd8ed1ab_0
     - expat =2.5.0 =h63175ca_1
-    - flit-core =3.8.0 =pyhd8ed1ab_0
+    - flit-core =3.9.0 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -119,7 +119,7 @@ requirements:
     - glib =2.76.2 =h12be248_0
     - glib-tools =2.76.2 =h12be248_0
     - graphite2 =1.3.13 =1000
-    - greenlet =2.0.2 =py38hd3f51b4_0
+    - greenlet =2.0.2 =py38hd3f51b4_1
     - gst-plugins-base =1.22.0 =h001b923_2
     - gstreamer =1.22.0 =h6b5321d_2
     - harfbuzz =6.0.0 =he256f1b_0
@@ -411,7 +411,7 @@ requirements:
     - r-sourcetools =0.1.7_1 =r41ha856d6a_0
     - r-spatial =7.3_16 =r41h6d2157b_0
     - r-squarem =2021.1 =r41hc72bb7e_1
-    - r-stringi =1.7.12 =r41ha856d6a_0
+    - r-stringi =1.7.12 =r41ha856d6a_1
     - r-stringr =1.5.0 =r41h785f33e_0
     - r-survival =3.5_5 =r41h6d2157b_0
     - r-sys =3.4.1 =r41h6d2157b_0
