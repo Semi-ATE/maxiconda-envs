@@ -33,7 +33,7 @@ requirements:
     - pyqtwebengine =5.15.7 =py38h2cd9a72_3
     - scipy =1.10.1 =py38h59b608b_3
     - spyder =5.4.3 =py38h578d9bd_0
-    - sympy =1.11.1 =py38h578d9bd_2
+    - sympy =1.12 =pypyh9d50eac_103
 
     # 308 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
@@ -41,7 +41,7 @@ requirements:
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - alsa-lib =1.2.8 =h166bdaf_0
     - arrow =1.2.3 =pyhd8ed1ab_0
-    - astroid =2.15.4 =py38h578d9bd_0
+    - astroid =2.15.5 =py38h578d9bd_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_0
     - attr =2.5.1 =h166bdaf_1
@@ -115,7 +115,7 @@ requirements:
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
-    - ipykernel =6.23.0 =pyh210e3f2_0
+    - ipykernel =6.23.1 =pyh210e3f2_0
     - ipython =8.12.2 =pyh41d4057_0
     - ipython_genutils =0.2.0 =py_1
     - isort =5.12.0 =pyhd8ed1ab_1
@@ -304,7 +304,7 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tomlkit =0.11.8 =pyha770c72_0
-    - tornado =6.3 =py38h1de0b5d_0
+    - tornado =6.3.2 =py38h01eb140_0
     - traitlets =5.9.0 =pyhd8ed1ab_0
     - typing-extensions =4.5.0 =hd8ed1ab_0
     - typing_extensions =4.5.0 =pyha770c72_0

@@ -81,14 +81,14 @@ requirements:
     - greenlet =2.0.2 =py38h17151c0_1
     - gst-plugins-base =1.22.0 =h4243ec0_2
     - gstreamer =1.22.0 =h25f0c4b_2
-    - harfbuzz =6.0.0 =h3ff4399_1
+    - harfbuzz =7.3.0 =hdb3a94d_0
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =72.1 =hcb278e6_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =6.6.0 =pyha770c72_0
     - importlib_metadata =6.6.0 =hd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - ipykernel =6.23.0 =pyh210e3f2_0
+    - ipykernel =6.23.1 =pyh210e3f2_0
     - ipython =8.12.2 =pyh41d4057_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jupyter_client =8.2.0 =pyhd8ed1ab_0
@@ -102,7 +102,7 @@ requirements:
     - libclang13 =16.0.3 =default_hd781213_0
     - libcups =2.3.3 =h36d4200_3
     - libedit =3.1.20191231 =he28a2e2_2
-    - libevent =2.1.10 =h28343ad_4
+    - libevent =2.1.12 =h3358134_0
     - libexpat =2.5.0 =hcb278e6_1
     - libffi =3.4.2 =h7f98852_5
     - libflac =1.4.2 =h27087fc_0
@@ -167,7 +167,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pyzmq =25.0.2 =py38he24dcef_0
-    - qt-main =5.15.8 =h5c52f38_10
+    - qt-main =5.15.8 =haa3a1c2_11
     - readline =8.2 =h8228510_1
     - service_identity =18.1.0 =py_0
     - setuptools =67.7.2 =pyhd8ed1ab_0
@@ -179,7 +179,7 @@ requirements:
     - tk =8.6.12 =h27826a3_0
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
-    - tornado =6.3 =py38h1de0b5d_0
+    - tornado =6.3.2 =py38h01eb140_0
     - traitlets =5.9.0 =pyhd8ed1ab_0
     - typing-extensions =4.5.0 =hd8ed1ab_0
     - typing_extensions =4.5.0 =pyha770c72_0

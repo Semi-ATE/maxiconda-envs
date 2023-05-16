@@ -33,12 +33,12 @@ requirements:
     - pyqtwebengine =5.15.7 =py38h30305e3_3
     - scipy =1.10.1 =py38h1aea9ed_3
     - spyder =5.4.3 =py38haa244fe_0
-    - sympy =1.11.1 =py38haa244fe_2
+    - sympy =1.12 =pyh04b8f61_3
 
     # 244 secondary packages :
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - arrow =1.2.3 =pyhd8ed1ab_0
-    - astroid =2.15.4 =py38haa244fe_0
+    - astroid =2.15.5 =py38haa244fe_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
@@ -96,7 +96,7 @@ requirements:
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intel-openmp =2023.1.0 =h57928b3_46319
     - intervaltree =3.1.0 =pyhd8ed1ab_1
-    - ipykernel =6.23.0 =pyh025b116_0
+    - ipykernel =6.23.1 =pyh025b116_0
     - ipython =8.12.2 =pyh08f2357_0
     - ipython_genutils =0.2.0 =py_1
     - isort =5.12.0 =pyhd8ed1ab_1
@@ -220,7 +220,7 @@ requirements:
     - pyzmq =25.0.2 =py38ha85f68a_0
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.8 =h7f2b912_10
+    - qt-main =5.15.8 =h2c8576c_11
     - qt-webengine =5.15.8 =h5b1ea0b_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.4.3 =pyhd8ed1ab_0
@@ -253,7 +253,7 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tomlkit =0.11.8 =pyha770c72_0
-    - tornado =6.3 =py38h91455d4_0
+    - tornado =6.3.2 =py38h91455d4_0
     - traitlets =5.9.0 =pyhd8ed1ab_0
     - typing-extensions =4.5.0 =hd8ed1ab_0
     - typing_extensions =4.5.0 =pyha770c72_0

@@ -58,7 +58,7 @@ requirements:
     - spyder-kernels =2.4.3 =win_pyhd8ed1ab_0
     - sqlalchemy =2.0.13 =py38h91455d4_0
     - sqlite =3.41.2 =hcfcfb64_1
-    - sympy =1.11.1 =py38haa244fe_2
+    - sympy =1.12 =pyh04b8f61_3
     - tqdm =4.65.0 =pyhd8ed1ab_1
     - transitions =0.9.0 =pyhd8ed1ab_0
     - xlsxwriter =3.1.0 =pyhd8ed1ab_0
@@ -83,7 +83,7 @@ requirements:
     - brotlipy =0.7.0 =py38h91455d4_1005
     - bzip2 =1.0.8 =h8ffe710_4
     - ca-certificates =2023.5.7 =h56e8100_0
-    - cairo =1.16.0 =hd694305_1014
+    - cairo =1.16.0 =hdecc03f_1015
     - certifi =2023.5.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38h57701bc_3
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
@@ -122,8 +122,8 @@ requirements:
     - greenlet =2.0.2 =py38hd3f51b4_1
     - gst-plugins-base =1.22.0 =h001b923_2
     - gstreamer =1.22.0 =h6b5321d_2
-    - harfbuzz =6.0.0 =he256f1b_0
-    - icu =70.1 =h0e60522_0
+    - harfbuzz =7.3.0 =h196d34a_0
+    - icu =72.1 =h63175ca_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =6.6.0 =pyha770c72_0
     - importlib-resources =5.12.0 =pyhd8ed1ab_0
@@ -131,10 +131,9 @@ requirements:
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
     - intel-openmp =2023.1.0 =h57928b3_46319
-    - ipykernel =6.23.0 =pyh025b116_0
+    - ipykernel =6.23.1 =pyh025b116_0
     - ipython_genutils =0.2.0 =py_1
     - jedi =0.18.2 =pyhd8ed1ab_0
-    - jpeg =9e =hcfcfb64_3
     - jsonschema =4.17.3 =pyhd8ed1ab_0
     - jupyter_client =8.2.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.0 =py38haa244fe_0
@@ -144,27 +143,28 @@ requirements:
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py38hb1fd069_1
     - krb5 =1.20.1 =heb0366b_0
-    - lcms2 =2.15 =ha5c8aab_0
+    - lcms2 =2.15 =h3e3b177_1
     - lerc =4.0.0 =h63175ca_0
     - libblas =3.9.0 =16_win64_mkl
     - libbrotlicommon =1.0.9 =hcfcfb64_8
     - libbrotlidec =1.0.9 =hcfcfb64_8
     - libbrotlienc =1.0.9 =hcfcfb64_8
     - libcblas =3.9.0 =16_win64_mkl
-    - libclang =15.0.7 =default_h77d9078_1
-    - libclang13 =15.0.7 =default_h77d9078_1
-    - libdeflate =1.17 =hcfcfb64_0
+    - libclang =16.0.3 =default_h8b4101f_0
+    - libclang13 =16.0.3 =default_h45d3cf4_0
+    - libdeflate =1.18 =hcfcfb64_0
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
     - libglib =2.76.2 =he8f3873_0
     - libhwloc =2.9.1 =h51c2c0f_0
     - libiconv =1.17 =h8ffe710_0
+    - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
     - liblapack =3.9.0 =16_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.41.2 =hcfcfb64_1
-    - libtiff =4.5.0 =hf8721a0_2
+    - libtiff =4.5.0 =h6c8260b_6
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp-base =1.3.0 =hcfcfb64_0
     - libxcb =1.13 =hcd874cb_1004
@@ -228,7 +228,7 @@ requirements:
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =h17e33f8_0
     - pickleshare =0.7.5 =py38h32f6830_1002
-    - pillow =9.4.0 =py38h087119c_1
+    - pillow =9.5.0 =py38h0c7286b_0
     - pip =23.1.2 =pyhd8ed1ab_0
     - pixman =0.40.0 =h8ffe710_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
@@ -261,7 +261,7 @@ requirements:
     - pywin32 =304 =py38hd3f51b4_2
     - pywinpty =2.0.10 =py38hd3f51b4_0
     - pyzmq =25.0.2 =py38ha85f68a_0
-    - qt-main =5.15.8 =h720456b_6
+    - qt-main =5.15.8 =h2c8576c_11
     - qtpy =2.3.1 =pyhd8ed1ab_0
     - r-askpass =1.1 =r41h6d2157b_3
     - r-assertthat =0.2.1 =r41hc72bb7e_3
@@ -280,7 +280,7 @@ requirements:
     - r-class =7.3_22 =r41h6d2157b_0
     - r-cli =3.6.1 =r41ha856d6a_0
     - r-clipr =0.8.0 =r41hc72bb7e_1
-    - r-clock =0.6.1 =r41ha856d6a_1
+    - r-clock =0.7.0 =r41ha856d6a_0
     - r-cluster =2.1.4 =r41he816bda_0
     - r-codetools =0.2_19 =r41hc72bb7e_0
     - r-colorspace =2.1_0 =r41h6d2157b_0
@@ -289,7 +289,7 @@ requirements:
     - r-cpp11 =0.4.3 =r41hc72bb7e_0
     - r-crayon =1.5.2 =r41hc72bb7e_1
     - r-crul =1.3 =r41h785f33e_1
-    - r-curl =4.3.3 =r41h6d2157b_1
+    - r-curl =4.3.3 =r41h6d2157b_2
     - r-data.table =1.14.8 =r41h6d2157b_0
     - r-dbi =1.1.3 =r41hc72bb7e_1
     - r-dbplyr =2.3.2 =r41hc72bb7e_0
@@ -383,7 +383,7 @@ requirements:
     - r-purrr =1.0.1 =r41h6d2157b_0
     - r-quantmod =0.4.22 =r41hc72bb7e_0
     - r-r6 =2.5.1 =r41hc72bb7e_1
-    - r-ragg =1.2.5 =r41hb5fc66f_0
+    - r-ragg =1.2.5 =r41h0927e99_1
     - r-randomforest =4.7_1.1 =r41he816bda_1
     - r-rappdirs =0.3.3 =r41h6d2157b_1
     - r-rbokeh =0.5.2 =r41hc72bb7e_2
@@ -416,7 +416,7 @@ requirements:
     - r-survival =3.5_5 =r41h6d2157b_0
     - r-sys =3.4.1 =r41h6d2157b_0
     - r-systemfonts =1.0.4 =r41h93c4b31_1
-    - r-textshaping =0.3.6 =r41hfd7ed9c_4
+    - r-textshaping =0.3.6 =r41h0488efe_5
     - r-tibble =3.2.1 =r41h6d2157b_1
     - r-tidyr =1.3.0 =r41ha856d6a_0
     - r-tidyselect =1.2.0 =r41h6addd8b_0
@@ -464,7 +464,7 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tomli-w =1.0.0 =pyhd8ed1ab_0
-    - tornado =6.3 =py38h91455d4_0
+    - tornado =6.3.2 =py38h91455d4_0
     - traitlets =5.9.0 =pyhd8ed1ab_0
     - typing-extensions =4.5.0 =hd8ed1ab_0
     - typing_extensions =4.5.0 =pyha770c72_0

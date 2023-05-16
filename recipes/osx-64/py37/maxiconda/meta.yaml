@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.0 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 401 secondary packages :
+    # 405 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.6.2 =pyhd8ed1ab_0
@@ -156,9 +156,9 @@ requirements:
     - lerc =4.0.0 =hb486fe8_0
     - libblas =3.9.0 =16_osx64_openblas
     - libcblas =3.9.0 =16_osx64_openblas
-    - libclang =14.0.6 =default_h55ffa42_0
+    - libclang =15.0.7 =default_h20dc2f0_1
     - libclang-cpp16 =16.0.3 =default_h43f3e7d_0
-    - libclang13 =14.0.6 =default_hb5731bd_0
+    - libclang13 =15.0.7 =default_hc4b5f92_1
     - libcurl =8.0.1 =h1fead75_0
     - libcxx =16.0.3 =hd57cbcb_0
     - libdeflate =1.18 =hac1461d_0
@@ -174,7 +174,7 @@ requirements:
     - libjpeg-turbo =2.1.5.1 =hb7f2c08_0
     - liblapack =3.9.0 =16_osx64_openblas
     - libllvm11 =11.1.0 =h8fb7429_5
-    - libllvm14 =14.0.6 =h5b596cc_1
+    - libllvm15 =15.0.7 =h7001e86_1
     - libllvm16 =16.0.3 =hf646ca0_1
     - libnghttp2 =1.52.0 =he2ab024_0
     - libogg =1.3.4 =h35c211d_1
@@ -250,7 +250,7 @@ requirements:
     - python_abi =3.7 =3_cp37m
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyzmq =24.0.1 =py37haa7bc41_0
-    - qt-main =5.15.8 =h0afe88e_10
+    - qt-main =5.15.8 =h23c57ac_11
     - qtpy =2.3.1 =pyhd8ed1ab_0
     - r-askpass =1.1 =r42h815d134_3
     - r-assertthat =0.2.1 =r42hc72bb7e_3
@@ -269,15 +269,16 @@ requirements:
     - r-class =7.3_22 =r42h6dc245f_0
     - r-cli =3.6.1 =r42h49197e3_0
     - r-clipr =0.8.0 =r42hc72bb7e_1
-    - r-clock =0.6.1 =r42h49197e3_1
+    - r-clock =0.7.0 =r42hac7d2d5_0
     - r-cluster =2.1.4 =r42h1e4e481_0
     - r-codetools =0.2_19 =r42hc72bb7e_0
     - r-colorspace =2.1_0 =r42h815d134_0
     - r-commonmark =1.9.0 =r42h815d134_0
+    - r-conflicted =1.2.0 =r42h785f33e_0
     - r-cpp11 =0.4.3 =r42hc72bb7e_0
     - r-crayon =1.5.2 =r42hc72bb7e_1
     - r-crul =1.3 =r42h785f33e_1
-    - r-curl =4.3.3 =r42h815d134_1
+    - r-curl =4.3.3 =r42h0100ac3_2
     - r-data.table =1.14.8 =r42h557251b_0
     - r-dbi =1.1.3 =r42hc72bb7e_1
     - r-dbplyr =2.3.2 =r42hc72bb7e_0
@@ -371,6 +372,7 @@ requirements:
     - r-purrr =1.0.1 =r42h815d134_0
     - r-quantmod =0.4.22 =r42hc72bb7e_0
     - r-r6 =2.5.1 =r42hc72bb7e_1
+    - r-ragg =1.2.5 =r42he54449d_1
     - r-randomforest =4.7_1.1 =r42h1e4e481_1
     - r-rappdirs =0.3.3 =r42h815d134_1
     - r-rbokeh =0.5.2 =r42hc72bb7e_2
@@ -403,10 +405,12 @@ requirements:
     - r-stringr =1.5.0 =r42h785f33e_0
     - r-survival =3.5_5 =r42h815d134_0
     - r-sys =3.4.1 =r42h815d134_0
+    - r-systemfonts =1.0.4 =r42h1372bf0_1
+    - r-textshaping =0.3.6 =r42heedee68_5
     - r-tibble =3.2.1 =r42h815d134_1
     - r-tidyr =1.3.0 =r42h49197e3_0
     - r-tidyselect =1.2.0 =r42hbe3e9c8_0
-    - r-tidyverse =1.3.2 =r42hc72bb7e_1
+    - r-tidyverse =2.0.0 =r42h785f33e_0
     - r-timechange =0.2.0 =r42h49197e3_0
     - r-timedate =4022.108 =r42hc72bb7e_0
     - r-tinytex =0.45 =r42hc72bb7e_0
@@ -421,7 +425,7 @@ requirements:
     - r-vroom =1.6.3 =r42hac7d2d5_0
     - r-withr =2.5.0 =r42hc72bb7e_1
     - r-xfun =0.39 =r42hac7d2d5_0
-    - r-xml2 =1.3.3 =r42h3576887_2
+    - r-xml2 =1.3.4 =r42hcf629ed_0
     - r-xtable =1.8_4 =r42hc72bb7e_4
     - r-xts =0.13.1 =r42h815d134_0
     - r-yaml =2.3.7 =r42h815d134_0
