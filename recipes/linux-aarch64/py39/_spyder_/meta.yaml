@@ -35,7 +35,7 @@ requirements:
     - spyder =5.4.3 =py39h4420490_0
     - sympy =1.12 =pypyh9d50eac_103
 
-    # 308 secondary packages :
+    # 313 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - alsa-lib =1.2.8 =h4e544f5_0
@@ -83,7 +83,6 @@ requirements:
     - entrypoints =0.4 =pyhd8ed1ab_0
     - executing =1.2.0 =pyhd8ed1ab_0
     - expat =2.5.0 =hd600fc2_1
-    - fftw =3.3.10 =nompi_h2dcef8e_107
     - flake8 =6.0.0 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -103,8 +102,7 @@ requirements:
     - graphite2 =1.3.13 =h7fd3ca4_1001
     - gst-plugins-base =1.22.0 =h8a62080_2
     - gstreamer =1.22.0 =h1f26242_2
-    - gstreamer-orc =0.4.33 =h4e544f5_0
-    - harfbuzz =6.0.0 =h3c6782d_1
+    - harfbuzz =7.3.0 =h8428050_0
     - icu =72.1 =hcf00150_0
     - idna =3.4 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
@@ -118,7 +116,6 @@ requirements:
     - ipython =8.13.2 =pyh41d4057_0
     - ipython_genutils =0.2.0 =py_1
     - isort =5.12.0 =pyhd8ed1ab_1
-    - jack =1.9.22 =hf8b18a5_0
     - jaraco.classes =3.2.3 =pyhd8ed1ab_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jeepney =0.8.0 =pyhd8ed1ab_0
@@ -147,10 +144,9 @@ requirements:
     - libclang =16.0.3 =default_h62e6ce5_0
     - libclang13 =16.0.3 =default_hd1ddda2_0
     - libcups =2.3.3 =h4303303_3
-    - libdb =6.2.32 =h01db608_0
     - libdeflate =1.18 =hb4cce97_0
     - libedit =3.1.20191231 =he28a2e2_2
-    - libevent =2.1.10 =h4f30969_4
+    - libevent =2.1.12 =hf55b2d5_0
     - libexpat =2.5.0 =hd600fc2_1
     - libffi =3.4.2 =h3557bc0_5
     - libflac =1.4.2 =h4de3ea5_0
@@ -174,12 +170,10 @@ requirements:
     - libsndfile =1.2.0 =h693ebdd_0
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =1.9.3 =h01db608_4
-    - libsqlite =3.41.2 =h194ca79_1
+    - libsqlite =3.42.0 =h194ca79_0
     - libstdcxx-ng =12.2.0 =hc13a102_19
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.5.0 =h536c0eb_6
-    - libtool =2.4.7 =h4de3ea5_0
-    - libudev1 =253 =hb4cce97_1
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
     - libwebp =1.3.0 =h1ef4f07_0
@@ -236,9 +230,7 @@ requirements:
     - psutil =5.9.5 =py39h24fc6b6_0
     - pthread-stubs =0.4 =hb9de7d4_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pulseaudio =16.1 =hd600fc2_3
     - pulseaudio-client =16.1 =h0c4632f_3
-    - pulseaudio-daemon =16.1 =h7a898ed_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycodestyle =2.10.0 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
@@ -257,8 +249,8 @@ requirements:
     - python-fastjsonschema =2.16.3 =pyhd8ed1ab_0
     - python-lsp-black =1.2.1 =pyhd8ed1ab_0
     - python-lsp-jsonrpc =1.0.0 =pyhd8ed1ab_0
-    - python-lsp-server =1.7.2 =pyhd8ed1ab_0
-    - python-lsp-server-base =1.7.2 =pyhd8ed1ab_0
+    - python-lsp-server =1.7.3 =pyhd8ed1ab_0
+    - python-lsp-server-base =1.7.3 =pyhd8ed1ab_0
     - python-slugify =8.0.1 =pyhd8ed1ab_1
     - python-tzdata =2023.3 =pyhd8ed1ab_0
     - python_abi =3.9 =3_cp39
@@ -269,8 +261,8 @@ requirements:
     - pyzmq =25.0.2 =py39h693dd76_0
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.8 =hbada809_8
-    - qt-webengine =5.15.8 =h106d629_0
+    - qt-main =5.15.8 =he1f70d2_11
+    - qt-webengine =5.15.8 =h0b9e7e1_1
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.4.3 =pyhd8ed1ab_0
     - qtconsole-base =5.4.3 =pyha770c72_0
@@ -325,21 +317,34 @@ requirements:
     - xcb-util-renderutil =0.3.9 =h4e544f5_0
     - xcb-util-wm =0.4.1 =h4e544f5_0
     - xkeyboard-config =2.38 =hb4cce97_0
+    - xorg-compositeproto =0.4.2 =hf897c2e_1001
+    - xorg-damageproto =1.2.1 =hf897c2e_1002
+    - xorg-fixesproto =5.0 =h3557bc0_1002
+    - xorg-inputproto =2.3.2 =h3557bc0_1002
     - xorg-kbproto =1.0.7 =h3557bc0_1002
     - xorg-libice =1.0.10 =h3557bc0_0
     - xorg-libsm =1.2.3 =h965e137_1000
     - xorg-libx11 =1.8.4 =h2a766a3_0
     - xorg-libxau =1.0.9 =h3557bc0_0
+    - xorg-libxcomposite =0.4.6 =hb4cce97_1
+    - xorg-libxdamage =1.1.5 =hf897c2e_1
     - xorg-libxdmcp =1.1.3 =h3557bc0_0
     - xorg-libxext =1.3.4 =h2a766a3_2
+    - xorg-libxfixes =5.0.3 =h3557bc0_1004
+    - xorg-libxi =1.7.10 =h3557bc0_0
+    - xorg-libxrandr =1.5.2 =hf897c2e_1
     - xorg-libxrender =0.9.10 =h3557bc0_1003
+    - xorg-libxtst =1.2.3 =hf897c2e_1002
+    - xorg-randrproto =1.5.0 =hf897c2e_1001
+    - xorg-recordproto =1.14.2 =hf897c2e_1002
     - xorg-renderproto =0.11.1 =h3557bc0_1002
+    - xorg-util-macros =1.19.3 =hf897c2e_0
     - xorg-xextproto =7.3.0 =h2a766a3_1003
     - xorg-xf86vidmodeproto =2.3.1 =hf897c2e_1002
     - xorg-xproto =7.0.31 =h3557bc0_1007
     - xz =5.2.6 =h9cdd2b7_0
     - yaml =0.2.5 =hf897c2e_2
-    - yapf =0.32.0 =pyhd8ed1ab_0
+    - yapf =0.33.0 =pyhd8ed1ab_1
     - zeromq =4.3.4 =h01db608_1
     - zipp =3.15.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h4e544f5_4

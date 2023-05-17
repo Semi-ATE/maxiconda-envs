@@ -45,14 +45,14 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
-    - blosc =1.21.3 =hafa529b_0
+    - blosc =1.21.4 =h0f2a231_0
     - boost =1.78.0 =py38h4e30db6_4
     - boost-cpp =1.78.0 =h6582d0a_3
     - brotli =1.0.9 =h166bdaf_8
     - brotli-bin =1.0.9 =h166bdaf_8
     - brotlipy =0.7.0 =py38h0a891b7_1005
     - bzip2 =1.0.8 =h7f98852_4
-    - c-ares =1.18.1 =h7f98852_0
+    - c-ares =1.19.0 =hd590300_0
     - ca-certificates =2023.5.7 =hbcca054_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
@@ -157,7 +157,7 @@ requirements:
     - libpq =15.3 =hbcd7760_0
     - libsndfile =1.2.0 =hb75c966_0
     - libsodium =1.0.18 =h36c2ea0_1
-    - libsqlite =3.41.2 =h2797004_1
+    - libsqlite =3.42.0 =h2797004_0
     - libssh2 =1.10.0 =hf14f497_3
     - libstdcxx-ng =12.2.0 =h46fd767_19
     - libsystemd0 =253 =h8c4010b_1

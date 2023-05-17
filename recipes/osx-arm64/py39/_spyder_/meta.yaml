@@ -143,7 +143,7 @@ requirements:
     - libpq =15.3 =h7126958_0
     - libsodium =1.0.18 =h27ca646_1
     - libspatialindex =1.9.3 =hbdafb3b_4
-    - libsqlite =3.41.2 =hb31c410_1
+    - libsqlite =3.42.0 =hb31c410_0
     - libtiff =4.5.0 =h4f7d55c_6
     - libvorbis =1.3.7 =h9f76cd9_0
     - libwebp =1.3.0 =h66d6964_0
@@ -219,8 +219,8 @@ requirements:
     - python-fastjsonschema =2.16.3 =pyhd8ed1ab_0
     - python-lsp-black =1.2.1 =pyhd8ed1ab_0
     - python-lsp-jsonrpc =1.0.0 =pyhd8ed1ab_0
-    - python-lsp-server =1.7.2 =pyhd8ed1ab_0
-    - python-lsp-server-base =1.7.2 =pyhd8ed1ab_0
+    - python-lsp-server =1.7.3 =pyhd8ed1ab_0
+    - python-lsp-server-base =1.7.3 =pyhd8ed1ab_0
     - python-slugify =8.0.1 =pyhd8ed1ab_1
     - python-tzdata =2023.3 =pyhd8ed1ab_0
     - python.app =1.4 =py39h94aca2f_1
@@ -232,7 +232,7 @@ requirements:
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
     - qt-main =5.15.8 =hcac2fde_11
-    - qt-webengine =5.15.8 =h78108cb_0
+    - qt-webengine =5.15.8 =hc1a9d58_1
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.4.3 =pyhd8ed1ab_0
     - qtconsole-base =5.4.3 =pyha770c72_0
@@ -284,7 +284,7 @@ requirements:
     - xorg-libxdmcp =1.1.3 =h27ca646_0
     - xz =5.2.6 =h57fd34a_0
     - yaml =0.2.5 =h3422bc3_2
-    - yapf =0.32.0 =pyhd8ed1ab_0
+    - yapf =0.33.0 =pyhd8ed1ab_1
     - zeromq =4.3.4 =hbdafb3b_1
     - zipp =3.15.0 =pyhd8ed1ab_0
     - zstd =1.5.2 =hf913c23_6

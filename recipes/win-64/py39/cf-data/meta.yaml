@@ -41,13 +41,13 @@ requirements:
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.3 =win_pyhd8ed1ab_0
     - sqlalchemy =2.0.13 =py39ha55989b_0
-    - sqlite =3.41.2 =hcfcfb64_1
+    - sqlite =3.42.0 =hcfcfb64_0
     - statsmodels =0.14.0 =py39hbaa61f9_1
     - xgboost =1.7.4 =cpu_py39ha538f94_0
 
     # 342 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
-    - alembic =1.10.4 =pyhd8ed1ab_0
+    - alembic =1.11.0 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - arrow-cpp =11.0.0 =h57928b3_19_cpu
     - asttokens =2.2.1 =pyhd8ed1ab_0
@@ -76,7 +76,7 @@ requirements:
     - brotli-bin =1.0.9 =hcfcfb64_8
     - brotlipy =0.7.0 =py39ha55989b_1005
     - bzip2 =1.0.8 =h8ffe710_4
-    - c-ares =1.18.1 =h8ffe710_0
+    - c-ares =1.19.0 =hcfcfb64_0
     - ca-certificates =2023.5.7 =h56e8100_0
     - cairo =1.16.0 =hdecc03f_1015
     - catalogue =2.0.8 =py39hcbf5309_1
@@ -167,7 +167,7 @@ requirements:
     - joblib =1.2.0 =pyhd8ed1ab_0
     - jupyter_client =8.2.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.0 =py39hcbf5309_0
-    - jupyterlab_widgets =3.0.7 =pyhd8ed1ab_0
+    - jupyterlab_widgets =3.0.7 =pyhd8ed1ab_1
     - kiwisolver =1.4.4 =py39h1f6ef14_1
     - kmodes =0.12.2 =pyhd8ed1ab_0
     - krb5 =1.20.1 =heb0366b_0
@@ -201,7 +201,7 @@ requirements:
     - libpng =1.6.39 =h19919ed_0
     - libprotobuf =3.21.12 =h12be248_0
     - libsodium =1.0.18 =h8d14728_1
-    - libsqlite =3.41.2 =hcfcfb64_1
+    - libsqlite =3.42.0 =hcfcfb64_0
     - libssh2 =1.10.0 =h9a1e1f7_3
     - libthrift =0.18.1 =h9ce19ad_1
     - libtiff =4.5.0 =h6c8260b_6
@@ -324,7 +324,7 @@ requirements:
     - smmap =3.0.5 =pyh44b312d_0
     - snappy =1.1.10 =hfb803bf_0
     - soupsieve =2.3.2.post1 =pyhd8ed1ab_0
-    - spacy =3.5.2 =py39h6d95a06_0
+    - spacy =3.5.3 =py39h6d95a06_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
     - spacy-loggers =1.0.4 =pyhd8ed1ab_0
     - sqlparse =0.4.4 =pyhd8ed1ab_0
