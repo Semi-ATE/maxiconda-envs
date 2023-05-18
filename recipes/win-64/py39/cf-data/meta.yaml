@@ -49,7 +49,7 @@ requirements:
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.11.0 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
-    - arrow-cpp =11.0.0 =h57928b3_19_cpu
+    - arrow-cpp =11.0.0 =h57928b3_20_cpu
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
@@ -174,8 +174,8 @@ requirements:
     - langcodes =3.3.0 =pyhd8ed1ab_0
     - lcms2 =2.15 =h3e3b177_1
     - lerc =4.0.0 =h63175ca_0
-    - libabseil =20230125.0 =cxx17_h63175ca_1
-    - libarrow =11.0.0 =h91bed3e_19_cpu
+    - libabseil =20230125.2 =cxx17_h63175ca_2
+    - libarrow =11.0.0 =ha096e86_20_cpu
     - libblas =3.9.0 =16_win64_mkl
     - libbrotlicommon =1.0.9 =hcfcfb64_8
     - libbrotlidec =1.0.9 =hcfcfb64_8
@@ -184,15 +184,15 @@ requirements:
     - libclang =16.0.3 =default_h8b4101f_0
     - libclang13 =16.0.3 =default_h45d3cf4_0
     - libcrc32c =1.1.2 =h0e60522_0
-    - libcurl =8.0.1 =h68f0423_0
+    - libcurl =8.1.0 =h68f0423_0
     - libdeflate =1.18 =hcfcfb64_0
     - libevent =2.1.12 =hf43717d_0
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h2ed9e1d_6
     - libglib =2.76.2 =he8f3873_0
-    - libgoogle-cloud =2.10.0 =h00b2bdc_0
-    - libgrpc =1.54.2 =h32da247_0
+    - libgoogle-cloud =2.10.1 =h00b2bdc_1
+    - libgrpc =1.54.2 =ha177ca7_2
     - libhwloc =2.9.1 =h51c2c0f_0
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
@@ -275,7 +275,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.4 =cpu_py39ha538f94_0
-    - pyarrow =11.0.0 =py39hca4e8af_19_cpu
+    - pyarrow =11.0.0 =py39hca4e8af_20_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -307,7 +307,7 @@ requirements:
     - qt-main =5.15.8 =h2c8576c_11
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
-    - re2 =2023.02.02 =h63175ca_0
+    - re2 =2023.03.02 =hd4eee63_0
     - regex =2023.5.5 =py39ha55989b_0
     - requests =2.29.0 =pyhd8ed1ab_0
     - requests-file =1.5.1 =pyh9f0ad1d_0
@@ -338,7 +338,7 @@ requirements:
     - thinc =8.1.10 =py39h6d95a06_0
     - threadpoolctl =3.1.0 =pyh8a188c0_0
     - tk =8.6.12 =h8ffe710_0
-    - tldextract =3.4.1 =pyhd8ed1ab_0
+    - tldextract =3.4.2 =pyhd8ed1ab_0
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.3.2 =py39ha55989b_0
