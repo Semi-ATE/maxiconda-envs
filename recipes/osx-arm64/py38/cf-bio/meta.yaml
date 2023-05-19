@@ -114,10 +114,10 @@ requirements:
     - libbrotlidec =1.0.9 =h1a8c8d9_8
     - libbrotlienc =1.0.9 =h1a8c8d9_8
     - libcblas =3.9.0 =16_osxarm64_openblas
-    - libclang =15.0.7 =default_h9e54d93_1
-    - libclang13 =15.0.7 =default_h7d574e7_1
+    - libclang =15.0.7 =default_h5dc8d65_2
+    - libclang13 =15.0.7 =default_hc7183e1_2
     - libcurl =8.1.0 =h912dcd9_0
-    - libcxx =16.0.3 =h4653b0c_0
+    - libcxx =16.0.4 =h4653b0c_0
     - libdeflate =1.18 =h1a8c8d9_0
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libev =4.33 =h642e427_1
@@ -147,7 +147,7 @@ requirements:
     - libxml2 =2.10.4 =h2aff0a6_0
     - libzip =1.9.2 =h76ab92c_1
     - libzlib =1.2.13 =h03a7124_4
-    - llvm-openmp =16.0.3 =h1c12783_0
+    - llvm-openmp =16.0.4 =h1c12783_0
     - lz4-c =1.9.4 =hb7217d7_0
     - matplotlib-base =3.7.1 =py38hbbe890c_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
@@ -210,7 +210,7 @@ requirements:
     - sip =6.7.9 =py38he333c0f_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.1.10 =h17c5cce_0
-    - sqlalchemy =2.0.13 =py38hb192615_0
+    - sqlalchemy =2.0.14 =py38hb192615_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.0 =py38h58b515d_1
     - threadpoolctl =3.1.0 =pyh8a188c0_0

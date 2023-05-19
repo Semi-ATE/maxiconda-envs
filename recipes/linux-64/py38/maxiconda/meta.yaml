@@ -56,7 +56,7 @@ requirements:
     - scipy =1.10.1 =py38h59b608b_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.13 =py38h01eb140_0
+    - sqlalchemy =2.0.14 =py38h01eb140_0
     - sqlite =3.42.0 =h2c6b66d_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.65.0 =pyhd8ed1ab_1
@@ -169,8 +169,8 @@ requirements:
     - libbrotlienc =1.0.9 =h166bdaf_8
     - libcap =2.67 =he9d0100_0
     - libcblas =3.9.0 =16_linux64_openblas
-    - libclang =16.0.3 =default_h83cc7fd_0
-    - libclang13 =16.0.3 =default_hd781213_0
+    - libclang =16.0.3 =default_h1cdf331_2
+    - libclang13 =16.0.3 =default_h4d60ac6_2
     - libcups =2.3.3 =h36d4200_3
     - libcurl =8.1.0 =h409715c_0
     - libdeflate =1.18 =h0b41bf4_0
@@ -199,7 +199,7 @@ requirements:
     - libopenblas =0.3.21 =pthreads_h78a6416_3
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.39 =h753d276_0
-    - libpq =15.3 =hbcd7760_0
+    - libpq =15.3 =hbcd7760_1
     - libsanitizer =12.2.0 =h46fd767_19
     - libsndfile =1.2.0 =hb75c966_0
     - libsodium =1.0.18 =h36c2ea0_1

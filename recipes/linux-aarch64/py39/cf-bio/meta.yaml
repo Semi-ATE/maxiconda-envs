@@ -107,8 +107,8 @@ requirements:
     - libbrotlienc =1.0.9 =h4e544f5_8
     - libcap =2.67 =h8246067_0
     - libcblas =3.9.0 =16_linuxaarch64_openblas
-    - libclang =15.0.7 =default_h3fabc39_1
-    - libclang13 =15.0.7 =default_haf32b04_1
+    - libclang =15.0.7 =default_hdf9a116_2
+    - libclang13 =15.0.7 =default_hc086480_2
     - libcups =2.3.3 =h4303303_3
     - libdb =6.2.32 =h01db608_0
     - libdeflate =1.18 =hb4cce97_0
@@ -133,7 +133,7 @@ requirements:
     - libopenblas =0.3.21 =pthreads_h6cb6f83_3
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
-    - libpq =15.3 =hf616e62_0
+    - libpq =15.3 =hf616e62_1
     - libsndfile =1.2.0 =h693ebdd_0
     - libsodium =1.0.18 =hb9de7d4_1
     - libsqlite =3.42.0 =h194ca79_0
@@ -201,7 +201,7 @@ requirements:
     - setuptools =67.7.2 =pyhd8ed1ab_0
     - sip =6.7.9 =py39he8647fe_0
     - six =1.16.0 =pyh6c4a22f_0
-    - sqlalchemy =2.0.13 =py39h7cc1d5f_0
+    - sqlalchemy =2.0.14 =py39h7cc1d5f_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tk =8.6.12 =hd8af866_0
     - toml =0.10.2 =pyhd8ed1ab_0

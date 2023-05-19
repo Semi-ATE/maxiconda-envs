@@ -113,8 +113,8 @@ requirements:
     - libbrotlidec =1.0.9 =hcfcfb64_8
     - libbrotlienc =1.0.9 =hcfcfb64_8
     - libcblas =3.9.0 =16_win64_mkl
-    - libclang =16.0.3 =default_h8b4101f_0
-    - libclang13 =16.0.3 =default_h45d3cf4_0
+    - libclang =16.0.3 =default_h8b4101f_1
+    - libclang13 =16.0.3 =default_h45d3cf4_1
     - libcurl =8.1.0 =h68f0423_0
     - libdeflate =1.18 =hcfcfb64_0
     - libexpat =2.5.0 =h63175ca_1
@@ -200,7 +200,7 @@ requirements:
     - sip =6.7.9 =py39h99910a6_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.1.10 =hfb803bf_0
-    - sqlalchemy =2.0.13 =py39ha55989b_0
+    - sqlalchemy =2.0.14 =py39ha55989b_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.0 =py39hbaa61f9_1
     - tbb =2021.9.0 =h91493d7_0
