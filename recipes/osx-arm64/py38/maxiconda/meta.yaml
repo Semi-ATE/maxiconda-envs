@@ -34,8 +34,8 @@ requirements:
     - ipython =8.12.2 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py38h150bfb4_0
-    - numba =0.56.4 =py38hfb5a544_1
-    - numpy =1.23.5 =py38h09ac2d9_0
+    - numba =0.57.0 =py38h11be589_0
+    - numpy =1.24.3 =py38ha84db1f_0
     - openpyxl =3.1.2 =py38hb192615_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.0.1 =py38hefb543e_1
@@ -47,11 +47,11 @@ requirements:
     - pyyaml =6.0 =py38hb991d35_5
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
-    - r-base =4.2.3 =h0794cc7_2
+    - r-base =4.2.3 =h4b3f977_3
     - r-essentials =4.2 =r42hd8ed1ab_2003
     - regex =2023.5.5 =py38hb192615_0
     - requests =2.29.0 =pyhd8ed1ab_0
-    - rust =1.69.0 =h4ff7c5d_2
+    - rust =1.69.0 =h4ff7c5d_3
     - scipy =1.10.1 =py38h038e806_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
@@ -90,17 +90,17 @@ requirements:
     - certifi =2023.5.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38ha45ccd6_3
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
-    - clang =16.0.3 =he79909e_2
-    - clang-16 =16.0.3 =default_h07b2d96_2
-    - clang_osx-arm64 =16.0.3 =hc8c1da4_1
-    - clangxx =16.0.3 =default_h298e243_2
-    - clangxx_osx-arm64 =16.0.3 =h7af2fdc_1
+    - clang =16.0.4 =he79909e_0
+    - clang-16 =16.0.4 =default_h07b2d96_0
+    - clang_osx-arm64 =16.0.4 =hc1848c3_0
+    - clangxx =16.0.4 =default_h298e243_0
+    - clangxx_osx-arm64 =16.0.4 =h4a98d72_0
     - click =8.1.3 =py38h10201cd_1
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.3 =pyhd8ed1ab_0
-    - compiler-rt =16.0.3 =hf8d1dfb_1
-    - compiler-rt_osx-arm64 =16.0.3 =hf8d1dfb_1
+    - compiler-rt =16.0.4 =hf8d1dfb_0
+    - compiler-rt_osx-arm64 =16.0.4 =hf8d1dfb_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.0.7 =py38h9dc3d6a_0
     - cryptography =40.0.2 =py38h23f6d3d_0
@@ -127,8 +127,8 @@ requirements:
     - fribidi =1.0.10 =h27ca646_0
     - frozenlist =1.3.3 =py38hb991d35_0
     - gettext =0.21.1 =h0186832_0
-    - gfortran_impl_osx-arm64 =11.3.0 =h2a9d086_31
-    - gfortran_osx-arm64 =11.3.0 =h57527a5_1
+    - gfortran_impl_osx-arm64 =12.2.0 =hf7539cf_31
+    - gfortran_osx-arm64 =12.2.0 =h57527a5_1
     - glib =2.76.2 =ha614eb4_0
     - glib-tools =2.76.2 =ha614eb4_0
     - gmp =6.2.1 =h9f76cd9_0
@@ -168,7 +168,7 @@ requirements:
     - libbrotlienc =1.0.9 =h1a8c8d9_8
     - libcblas =3.9.0 =16_osxarm64_openblas
     - libclang =15.0.7 =default_h5dc8d65_2
-    - libclang-cpp16 =16.0.3 =default_h07b2d96_2
+    - libclang-cpp16 =16.0.4 =default_h07b2d96_0
     - libclang13 =15.0.7 =default_hc7183e1_2
     - libcurl =8.1.0 =h912dcd9_0
     - libcxx =16.0.4 =h4653b0c_0
@@ -178,21 +178,21 @@ requirements:
     - libexpat =2.5.0 =hb7217d7_1
     - libffi =3.4.2 =h3422bc3_5
     - libgfortran =5.0.0 =12_2_0_hd922786_31
-    - libgfortran-devel_osx-arm64 =11.3.0 =hfe9555d_31
+    - libgfortran-devel_osx-arm64 =12.2.0 =he825656_31
     - libgfortran5 =12.2.0 =h0eea778_31
     - libglib =2.76.2 =h24e9cb9_0
     - libiconv =1.17 =he4db4b2_0
     - libjpeg-turbo =2.1.5.1 =h1a8c8d9_0
     - liblapack =3.9.0 =16_osxarm64_openblas
-    - libllvm11 =11.1.0 =hfa12f05_5
-    - libllvm15 =15.0.7 =h62b9111_1
-    - libllvm16 =16.0.3 =hc12c677_1
+    - libllvm14 =14.0.6 =hd1a9a77_2
+    - libllvm15 =15.0.7 =h504e6bf_2
+    - libllvm16 =16.0.4 =he79909e_0
     - libnghttp2 =1.52.0 =hae82a92_0
     - libogg =1.3.4 =h27ca646_1
     - libopenblas =0.3.21 =openmp_hc731615_3
     - libopus =1.3.1 =h27ca646_1
     - libpng =1.6.39 =h76d750c_0
-    - libpq =15.3 =h7126958_0
+    - libpq =15.3 =h7126958_1
     - libsodium =1.0.18 =h27ca646_1
     - libsqlite =3.42.0 =hb31c410_0
     - libssh2 =1.10.0 =h7a5bd25_3
@@ -200,11 +200,11 @@ requirements:
     - libvorbis =1.3.7 =h9f76cd9_0
     - libwebp-base =1.3.0 =h1a8c8d9_0
     - libxcb =1.13 =h9b22ae9_1004
-    - libxml2 =2.10.4 =h2aff0a6_0
+    - libxml2 =2.11.3 =he3bdae6_2
     - libzlib =1.2.13 =h03a7124_4
     - llvm-openmp =16.0.4 =h1c12783_0
-    - llvm-tools =16.0.3 =hc12c677_1
-    - llvmlite =0.39.1 =py38he6bf707_1
+    - llvm-tools =16.0.4 =he79909e_0
+    - llvmlite =0.40.0 =py38h761d82c_0
     - make =4.3 =he57ea6c_1
     - markupsafe =2.1.2 =py38hb991d35_0
     - matplotlib-base =3.7.1 =py38hbbe890c_0
@@ -445,7 +445,7 @@ requirements:
     - r-vroom =1.6.3 =r42he62749d_0
     - r-withr =2.5.0 =r42hc72bb7e_1
     - r-xfun =0.39 =r42he62749d_0
-    - r-xml2 =1.3.4 =r42h8ec0bad_0
+    - r-xml2 =1.3.4 =r42h77ef413_1
     - r-xtable =1.8_4 =r42hc72bb7e_4
     - r-xts =0.13.1 =r42h5d63f41_0
     - r-yaml =2.3.7 =r42h5d63f41_0
@@ -457,7 +457,7 @@ requirements:
     - ruamel.yaml =0.17.26 =py38hb192615_0
     - ruamel.yaml.clib =0.2.7 =py38hb991d35_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-aarch64-apple-darwin =1.69.0 =hf1a8007_2
+    - rust-std-aarch64-apple-darwin =1.69.0 =hf1a8007_3
     - semver =2.13.0 =pyh9f0ad1d_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =67.7.2 =pyhd8ed1ab_0

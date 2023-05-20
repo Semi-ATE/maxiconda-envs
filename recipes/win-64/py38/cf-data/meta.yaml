@@ -29,7 +29,7 @@ requirements:
     - bokeh =3.1.1 =pyhd8ed1ab_0
     - lightgbm =3.3.5 =py38hd3f51b4_0
     - matplotlib =3.7.1 =py38haa244fe_0
-    - numpy =1.23.5 =py38h90ce339_0
+    - numpy =1.24.3 =py38h1d91fd2_0
     - pandas =2.0.1 =py38hf08cf0d_1
     - plotly =5.14.1 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
@@ -214,7 +214,7 @@ requirements:
     - libxml2 =2.10.4 =hc3477c8_0
     - libxslt =1.1.37 =h0192164_0
     - libzlib =1.2.13 =hcfcfb64_4
-    - llvmlite =0.39.1 =py38h19421c1_1
+    - llvmlite =0.40.0 =py38h19421c1_0
     - lxml =4.9.2 =py38h8e95c58_0
     - lz4-c =1.9.4 =hcfcfb64_0
     - m2w64-gcc-libgfortran =5.3.0 =6
@@ -239,7 +239,7 @@ requirements:
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - networkx =3.1 =pyhd8ed1ab_0
     - nltk =3.8.1 =pyhd8ed1ab_0
-    - numba =0.56.4 =py38hb182ae8_1
+    - numba =0.57.0 =py38hb182ae8_0
     - numexpr =2.7.3 =py38h5d928e2_2
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha2aaf27_2
@@ -338,7 +338,7 @@ requirements:
     - thinc =8.1.10 =py38h618a1af_0
     - threadpoolctl =3.1.0 =pyh8a188c0_0
     - tk =8.6.12 =h8ffe710_0
-    - tldextract =3.4.2 =pyhd8ed1ab_0
+    - tldextract =3.4.3 =pyhd8ed1ab_0
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.3.2 =py38h91455d4_0
@@ -350,7 +350,7 @@ requirements:
     - typing-extensions =4.5.0 =hd8ed1ab_0
     - typing_extensions =4.5.0 =pyha770c72_0
     - ucrt =10.0.22621.0 =h57928b3_0
-    - umap-learn =0.5.3 =py38haa244fe_0
+    - umap-learn =0.5.3 =py38haa244fe_1
     - unicodedata2 =15.0.0 =py38h91455d4_0
     - urllib3 =1.26.15 =pyhd8ed1ab_0
     - vc =14.3 =hb25d44b_16
@@ -378,7 +378,7 @@ requirements:
     - xorg-libxt =1.2.1 =hcd874cb_2
     - xorg-xextproto =7.3.0 =hcd874cb_1003
     - xorg-xproto =7.0.31 =hcd874cb_1007
-    - xyzservices =2023.2.0 =pyhd8ed1ab_0
+    - xyzservices =2023.5.0 =pyhd8ed1ab_0
     - xz =5.2.6 =h8d14728_0
     - yaml =0.2.5 =h8ffe710_2
     - yellowbrick =1.5 =pyhd8ed1ab_0
