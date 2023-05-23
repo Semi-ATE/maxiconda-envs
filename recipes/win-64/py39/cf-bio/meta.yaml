@@ -36,7 +36,7 @@ requirements:
     - scipy =1.10.1 =py39hde5eda1_3
     - spyder-kernels =2.4.3 =win_pyhd8ed1ab_0
 
-    # 194 secondary packages :
+    # 189 secondary packages :
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -46,21 +46,18 @@ requirements:
     - boost-cpp =1.78.0 =h9f4b32c_3
     - brotli =1.0.9 =hcfcfb64_8
     - brotli-bin =1.0.9 =hcfcfb64_8
-    - brotlipy =0.7.0 =py39ha55989b_1005
     - bzip2 =1.0.8 =h8ffe710_4
     - ca-certificates =2023.5.7 =h56e8100_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.16.0 =hdecc03f_1016
     - certifi =2023.5.7 =pyhd8ed1ab_0
-    - cffi =1.15.1 =py39h68f70e3_3
     - cftime =1.6.2 =py39hc266a54_1
     - charset-normalizer =3.1.0 =pyhd8ed1ab_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.3 =pyhd8ed1ab_0
     - contourpy =1.0.7 =py39h1f6ef14_0
-    - cryptography =40.0.2 =py39hb6bd5e6_0
     - curl =8.1.0 =h68f0423_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.7 =py39h99910a6_0
@@ -84,7 +81,7 @@ requirements:
     - glm =0.9.9.8 =h181d51b_0
     - greenlet =2.0.2 =py39h99910a6_1
     - griddataformats =1.0.1 =pyhd8ed1ab_0
-    - gsd =2.8.1 =py39hbaa61f9_0
+    - gsd =2.9.0 =py39hbaa61f9_0
     - gst-plugins-base =1.22.3 =h001b923_1
     - gstreamer =1.22.3 =h6b5321d_1
     - h5py =3.8.0 =nompi_py39h8a0c37c_101
@@ -176,10 +173,8 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycairo =1.23.0 =py39h82915f6_0
-    - pycparser =2.21 =pyhd8ed1ab_0
     - pyedr =0.7.1 =pyhd8ed1ab_0
     - pygments =2.15.1 =pyhd8ed1ab_0
-    - pyopenssl =23.1.1 =pyhd8ed1ab_0
     - pyparsing =3.0.9 =pyhd8ed1ab_0
     - pyqt5-sip =12.11.0 =py39h99910a6_3
     - pysocks =1.7.1 =py39hcbf5309_5
@@ -192,7 +187,7 @@ requirements:
     - pyzmq =25.0.2 =py39hea35a22_0
     - qt-main =5.15.8 =h2c8576c_11
     - reportlab =3.6.13 =py39h181c743_0
-    - requests =2.29.0 =pyhd8ed1ab_0
+    - requests =2.31.0 =pyhd8ed1ab_0
     - scikit-learn =1.2.2 =py39hb6325b5_1
     - seaborn =0.12.2 =hd8ed1ab_0
     - seaborn-base =0.12.2 =pyhd8ed1ab_0
@@ -217,7 +212,7 @@ requirements:
     - tzdata =2023c =h71feb2d_0
     - ucrt =10.0.22621.0 =h57928b3_0
     - unicodedata2 =15.0.0 =py39ha55989b_0
-    - urllib3 =1.26.15 =pyhd8ed1ab_0
+    - urllib3 =2.0.2 =pyhd8ed1ab_0
     - vc =14.3 =hb25d44b_16
     - vc14_runtime =14.34.31931 =h5081d32_16
     - vs2015_runtime =14.34.31931 =hed1258a_16

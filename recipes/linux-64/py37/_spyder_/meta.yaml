@@ -35,7 +35,7 @@ requirements:
     - spyder =5.3.3 =py37h89c1867_0
     - sympy =1.10.1 =py37h89c1867_1
 
-    # 297 secondary packages :
+    # 295 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.13 =pyhd8ed1ab_0
@@ -56,7 +56,6 @@ requirements:
     - bleach =6.0.0 =pyhd8ed1ab_0
     - brotli =1.0.9 =h166bdaf_8
     - brotli-bin =1.0.9 =h166bdaf_8
-    - brotlipy =0.7.0 =py37h540881e_1004
     - bzip2 =1.0.8 =h7f98852_4
     - ca-certificates =2023.5.7 =hbcca054_0
     - cairo =1.16.0 =ha61ee94_1014
@@ -239,13 +238,12 @@ requirements:
     - pygments =2.15.1 =pyhd8ed1ab_0
     - pylint =2.15.4 =pyhd8ed1ab_0
     - pyls-spyder =0.4.0 =pyhd8ed1ab_0
-    - pyopenssl =23.1.1 =pyhd8ed1ab_0
     - pyparsing =3.0.9 =pyhd8ed1ab_0
     - pyqt5-sip =12.11.0 =py37hd23a5d3_1
     - pyrsistent =0.18.1 =py37h540881e_1
     - pysocks =1.7.1 =py37h89c1867_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
-    - python-fastjsonschema =2.16.3 =pyhd8ed1ab_0
+    - python-fastjsonschema =2.17.1 =pyhd8ed1ab_0
     - python-lsp-black =1.3.0 =pyhd8ed1ab_0
     - python-lsp-jsonrpc =1.0.0 =pyhd8ed1ab_0
     - python-lsp-server =1.5.0 =hd8ed1ab_1
@@ -266,7 +264,7 @@ requirements:
     - qtconsole-base =5.3.2 =pyha770c72_0
     - qtpy =2.3.1 =pyhd8ed1ab_0
     - readline =8.2 =h8228510_1
-    - requests =2.29.0 =pyhd8ed1ab_0
+    - requests =2.31.0 =pyhd8ed1ab_0
     - rope =1.8.0 =pyhd8ed1ab_0
     - rtree =1.0.1 =py37h0b55af0_0
     - secretstorage =3.3.3 =py37h89c1867_0
@@ -301,7 +299,7 @@ requirements:
     - ujson =5.5.0 =py37hd23a5d3_0
     - unicodedata2 =14.0.0 =py37h540881e_1
     - unidecode =1.3.6 =pyhd8ed1ab_0
-    - urllib3 =1.26.15 =pyhd8ed1ab_0
+    - urllib3 =2.0.2 =pyhd8ed1ab_0
     - watchdog =2.1.9 =py37h89c1867_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1

@@ -45,7 +45,7 @@ requirements:
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =h7f98852_4
     - ca-certificates =2023.5.7 =hbcca054_0
-    - cairo =1.16.0 =h35add3b_1015
+    - cairo =1.16.0 =hbbf8b49_1016
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - comm =0.1.3 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
@@ -66,8 +66,8 @@ requirements:
     - glib =2.76.2 =hfc55251_0
     - glib-tools =2.76.2 =hfc55251_0
     - graphite2 =1.3.13 =h58526e2_1001
-    - gst-plugins-base =1.22.0 =h4243ec0_2
-    - gstreamer =1.22.0 =h25f0c4b_2
+    - gst-plugins-base =1.22.3 =h938bd60_1
+    - gstreamer =1.22.3 =h977cf35_1
     - harfbuzz =7.3.0 =hdb3a94d_0
     - icu =72.1 =hcb278e6_0
     - importlib-metadata =6.6.0 =pyha770c72_0
@@ -84,8 +84,8 @@ requirements:
     - libblas =3.9.0 =16_linux64_openblas
     - libcap =2.67 =he9d0100_0
     - libcblas =3.9.0 =16_linux64_openblas
-    - libclang =16.0.3 =default_h1cdf331_2
-    - libclang13 =16.0.3 =default_h4d60ac6_2
+    - libclang =16.0.4 =default_h1cdf331_0
+    - libclang13 =16.0.4 =default_h4d60ac6_0
     - libcups =2.3.3 =h36d4200_3
     - libedit =3.1.20191231 =he28a2e2_2
     - libevent =2.1.12 =h3358134_0
@@ -102,7 +102,7 @@ requirements:
     - libiconv =1.17 =h166bdaf_0
     - libjpeg-turbo =2.1.5.1 =h0b41bf4_0
     - liblapack =3.9.0 =16_linux64_openblas
-    - libllvm16 =16.0.3 =hbf9e925_1
+    - libllvm16 =16.0.4 =h5cf9203_0
     - libnsl =2.0.0 =h7f98852_0
     - libogg =1.3.4 =h7f98852_1
     - libopenblas =0.3.21 =pthreads_h78a6416_3
@@ -118,9 +118,9 @@ requirements:
     - libusb =1.0.26 =h0b4f0b6_100
     - libuuid =2.38.1 =h0b41bf4_0
     - libvorbis =1.3.7 =h9c3ff4c_0
-    - libxcb =1.13 =h7f98852_1004
-    - libxkbcommon =1.5.0 =h79f4944_1
-    - libxml2 =2.10.4 =hfdac1af_0
+    - libxcb =1.15 =h0b41bf4_0
+    - libxkbcommon =1.5.0 =h5d7e998_3
+    - libxml2 =2.11.4 =h0d562d8_0
     - libzlib =1.2.13 =h166bdaf_4
     - lz4-c =1.9.4 =hcb278e6_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
@@ -156,7 +156,7 @@ requirements:
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyvisa =1.13.0 =py39hf3d152e_0
     - pyzmq =25.0.2 =py39h0be026e_0
-    - qt-main =5.15.8 =haa3a1c2_11
+    - qt-main =5.15.8 =h01ceb2d_12
     - readline =8.2 =h8228510_1
     - setuptools =67.7.2 =pyhd8ed1ab_0
     - sip =6.7.9 =py39h3d6467e_0
@@ -173,16 +173,16 @@ requirements:
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
-    - xcb-util =0.4.0 =h516909a_0
-    - xcb-util-image =0.4.0 =h166bdaf_0
-    - xcb-util-keysyms =0.4.0 =h516909a_0
-    - xcb-util-renderutil =0.3.9 =h166bdaf_0
-    - xcb-util-wm =0.4.1 =h516909a_0
+    - xcb-util =0.4.0 =hd590300_1
+    - xcb-util-image =0.4.0 =h8ee46fc_1
+    - xcb-util-keysyms =0.4.0 =h8ee46fc_1
+    - xcb-util-renderutil =0.3.9 =hd590300_1
+    - xcb-util-wm =0.4.1 =h8ee46fc_1
     - xkeyboard-config =2.38 =h0b41bf4_0
     - xorg-kbproto =1.0.7 =h7f98852_1002
     - xorg-libice =1.0.10 =h7f98852_0
     - xorg-libsm =1.2.3 =hd9c2040_1000
-    - xorg-libx11 =1.8.4 =h0b41bf4_0
+    - xorg-libx11 =1.8.4 =h8ee46fc_1
     - xorg-libxau =1.0.11 =hd590300_0
     - xorg-libxdmcp =1.1.3 =h7f98852_0
     - xorg-libxext =1.3.4 =h0b41bf4_2

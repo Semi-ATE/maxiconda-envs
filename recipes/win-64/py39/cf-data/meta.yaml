@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.0 =py39hbaa61f9_1
     - xgboost =1.7.4 =cpu_py39ha538f94_0
 
-    # 342 secondary packages :
+    # 344 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.11.1 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -74,9 +74,8 @@ requirements:
     - bottleneck =1.3.7 =py39hc266a54_0
     - brotli =1.0.9 =hcfcfb64_8
     - brotli-bin =1.0.9 =hcfcfb64_8
-    - brotlipy =0.7.0 =py39ha55989b_1005
     - bzip2 =1.0.8 =h8ffe710_4
-    - c-ares =1.19.0 =hcfcfb64_0
+    - c-ares =1.19.1 =hcfcfb64_0
     - ca-certificates =2023.5.7 =h56e8100_0
     - cairo =1.16.0 =hdecc03f_1016
     - catalogue =2.0.8 =py39hcbf5309_1
@@ -154,7 +153,6 @@ requirements:
     - importlib_metadata =6.6.0 =hd8ed1ab_0
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - intel-openmp =2023.1.0 =h57928b3_46319
     - ipykernel =6.23.1 =pyh025b116_0
     - ipython =8.13.2 =pyh08f2357_0
     - ipywidgets =8.0.6 =pyhd8ed1ab_0
@@ -176,11 +174,11 @@ requirements:
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230125.2 =cxx17_h63175ca_2
     - libarrow =11.0.0 =ha096e86_20_cpu
-    - libblas =3.9.0 =16_win64_mkl
+    - libblas =3.9.0 =16_win64_openblas
     - libbrotlicommon =1.0.9 =hcfcfb64_8
     - libbrotlidec =1.0.9 =hcfcfb64_8
     - libbrotlienc =1.0.9 =hcfcfb64_8
-    - libcblas =3.9.0 =16_win64_mkl
+    - libcblas =3.9.0 =16_win64_openblas
     - libclang =16.0.3 =default_h8b4101f_1
     - libclang13 =16.0.3 =default_h45d3cf4_1
     - libcrc32c =1.1.2 =h0e60522_0
@@ -189,6 +187,7 @@ requirements:
     - libevent =2.1.12 =hf43717d_0
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
+    - libflang =5.0.0 =h6538335_20180525
     - libgd =2.3.3 =h2ed9e1d_6
     - libglib =2.76.2 =he8f3873_0
     - libgoogle-cloud =2.10.1 =h00b2bdc_1
@@ -196,8 +195,9 @@ requirements:
     - libhwloc =2.9.1 =h51c2c0f_0
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
-    - liblapack =3.9.0 =16_win64_mkl
+    - liblapack =3.9.0 =16_win64_openblas
     - libogg =1.3.4 =h8ffe710_1
+    - libopenblas =0.3.21 =pthreads_h02691f0_0
     - libpng =1.6.39 =h19919ed_0
     - libprotobuf =3.21.12 =h12be248_0
     - libsodium =1.0.18 =h8d14728_1
@@ -214,6 +214,7 @@ requirements:
     - libxml2 =2.10.4 =hc3477c8_0
     - libxslt =1.1.37 =h0192164_0
     - libzlib =1.2.13 =hcfcfb64_4
+    - llvm-meta =5.0.0 =0
     - llvmlite =0.40.0 =py39hd28a505_0
     - lxml =4.9.2 =py39h0942119_0
     - lz4-c =1.9.4 =hcfcfb64_0
@@ -229,7 +230,6 @@ requirements:
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
-    - mkl =2022.1.0 =h6a75c08_874
     - mlflow =2.3.2 =py39h54a35c1_1
     - mlxtend =0.22.0 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
@@ -239,10 +239,12 @@ requirements:
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - networkx =3.1 =pyhd8ed1ab_0
     - nltk =3.8.1 =pyhd8ed1ab_0
+    - nomkl =1.0 =h5ca1d4c_0
     - numba =0.57.0 =py39hadaa1c4_0
-    - numexpr =2.7.3 =py39h2e25243_2
+    - numexpr =2.8.4 =py39hd9d57a3_100
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha2aaf27_2
+    - openmp =5.0.0 =vc14_1
     - openssl =3.1.0 =hcfcfb64_3
     - orc =1.8.3 =hada7b9e_0
     - packaging =23.1 =pyhd8ed1ab_0
@@ -309,7 +311,7 @@ requirements:
     - queuelib =1.6.2 =pyhd8ed1ab_0
     - re2 =2023.03.02 =hd4eee63_0
     - regex =2023.5.5 =py39ha55989b_0
-    - requests =2.29.0 =pyhd8ed1ab_0
+    - requests =2.31.0 =pyhd8ed1ab_0
     - requests-file =1.5.1 =pyh9f0ad1d_0
     - retrying =1.3.3 =py_2
     - rich =12.6.0 =pyhd8ed1ab_0
@@ -353,7 +355,7 @@ requirements:
     - ucrt =10.0.22621.0 =h57928b3_0
     - umap-learn =0.5.3 =py39hcbf5309_1
     - unicodedata2 =15.0.0 =py39ha55989b_0
-    - urllib3 =1.26.15 =pyhd8ed1ab_0
+    - urllib3 =2.0.2 =pyhd8ed1ab_0
     - vc =14.3 =hb25d44b_16
     - vc14_runtime =14.34.31931 =h5081d32_16
     - visions =0.7.1 =pyhd8ed1ab_0
@@ -367,7 +369,7 @@ requirements:
     - wheel =0.40.0 =pyhd8ed1ab_0
     - widgetsnbextension =4.0.7 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py39hcbf5309_5
-    - wordcloud =1.9.1.1 =py39ha55989b_0
+    - wordcloud =1.9.2 =py39ha55989b_0
     - xorg-kbproto =1.0.7 =hcd874cb_1002
     - xorg-libice =1.0.10 =hcd874cb_0
     - xorg-libsm =1.2.3 =hcd874cb_1000

@@ -51,7 +51,7 @@ requirements:
     - r-base =4.2.3 =h4373c2c_3
     - r-essentials =4.2 =r42hd8ed1ab_2003
     - regex =2023.5.5 =py38hcafd530_0
-    - requests =2.29.0 =pyhd8ed1ab_0
+    - requests =2.31.0 =pyhd8ed1ab_0
     - rust =1.69.0 =h7e1429e_3
     - scipy =1.10.1 =py38h9cf86d3_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
@@ -61,10 +61,10 @@ requirements:
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.65.0 =pyhd8ed1ab_1
     - transitions =0.9.0 =pyhd8ed1ab_0
-    - xlsxwriter =3.1.0 =pyhd8ed1ab_0
+    - xlsxwriter =3.1.1 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 436 secondary packages :
+    # 433 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.6.2 =pyhd8ed1ab_0
@@ -81,10 +81,9 @@ requirements:
     - bleach =6.0.0 =pyhd8ed1ab_0
     - brotli =1.0.9 =hb7f2c08_8
     - brotli-bin =1.0.9 =hb7f2c08_8
-    - brotlipy =0.7.0 =py38hef030d1_1005
     - bwidget =1.9.14 =h694c41f_1
     - bzip2 =1.0.8 =h0d85af4_4
-    - c-ares =1.19.0 =h0dc2134_0
+    - c-ares =1.19.1 =h0dc2134_0
     - ca-certificates =2023.5.7 =h8857fd0_0
     - cairo =1.16.0 =h09dd18c_1016
     - cctools_osx-64 =973.0.1 =h5676edf_13
@@ -104,7 +103,6 @@ requirements:
     - compiler-rt_osx-64 =16.0.4 =he1888fc_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.0.7 =py38h98b9b1b_0
-    - cryptography =40.0.2 =py38h4257468_0
     - curl =8.1.0 =hbee3ae8_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.7 =py38h4cd09af_0
@@ -219,7 +217,7 @@ requirements:
     - mysql-common =8.0.32 =hc6116ba_2
     - mysql-libs =8.0.32 =haa61052_2
     - nbclassic =1.0.0 =pyhb4ecaf3_1
-    - nbclient =0.7.4 =pyhd8ed1ab_0
+    - nbclient =0.8.0 =pyhd8ed1ab_0
     - nbconvert =7.4.0 =pyhd8ed1ab_0
     - nbconvert-core =7.4.0 =pyhd8ed1ab_0
     - nbconvert-pandoc =7.4.0 =pyhd8ed1ab_0
@@ -260,20 +258,19 @@ requirements:
     - pygments =2.15.1 =pyhd8ed1ab_0
     - pyobjc-core =9.1.1 =py38h8f2a8f7_0
     - pyobjc-framework-cocoa =9.1.1 =py38h8f2a8f7_0
-    - pyopenssl =23.1.1 =pyhd8ed1ab_0
     - pyparsing =3.0.9 =pyhd8ed1ab_0
     - pyqt5-sip =12.11.0 =py38haf9be31_3
     - pyrsistent =0.19.3 =py38hef030d1_0
     - pysocks =1.7.1 =py38h50d1736_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
-    - python-fastjsonschema =2.16.3 =pyhd8ed1ab_0
+    - python-fastjsonschema =2.17.1 =pyhd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2023.3 =pyhd8ed1ab_0
     - python-utils =3.5.2 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyzmq =25.0.2 =py38h0b711fd_0
-    - qt-main =5.15.8 =h23c57ac_11
+    - qt-main =5.15.8 =h23c57ac_12
     - qtpy =2.3.1 =pyhd8ed1ab_0
     - r-askpass =1.1 =r42h815d134_3
     - r-assertthat =0.2.1 =r42hc72bb7e_3
@@ -486,7 +483,7 @@ requirements:
     - typing_extensions =4.5.0 =pyha770c72_0
     - tzdata =2023c =h71feb2d_0
     - unicodedata2 =15.0.0 =py38hef030d1_0
-    - urllib3 =1.26.15 =pyhd8ed1ab_0
+    - urllib3 =2.0.2 =pyhd8ed1ab_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1
     - websocket-client =1.5.2 =pyhd8ed1ab_0
