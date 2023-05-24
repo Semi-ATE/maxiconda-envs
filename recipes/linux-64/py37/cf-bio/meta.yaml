@@ -56,7 +56,7 @@ requirements:
     - cftime =1.6.2 =py37hc105733_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
-    - curl =8.1.0 =h409715c_0
+    - curl =8.1.1 =h409715c_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
     - debugpy =1.6.3 =py37hd23a5d3_0
@@ -75,8 +75,8 @@ requirements:
     - freetype =2.12.1 =hca18f0e_1
     - gettext =0.21.1 =h27087fc_0
     - glew =2.1.0 =h9c3ff4c_2
-    - glib =2.76.2 =hfc55251_0
-    - glib-tools =2.76.2 =hfc55251_0
+    - glib =2.76.3 =hfc55251_0
+    - glib-tools =2.76.3 =hfc55251_0
     - glm =0.9.9.8 =h00ab1b0_0
     - graphite2 =1.3.13 =h58526e2_1001
     - greenlet =1.1.3 =py37hd23a5d3_0
@@ -115,7 +115,7 @@ requirements:
     - libclang =15.0.7 =default_h7634d5b_2
     - libclang13 =15.0.7 =default_h9986a30_2
     - libcups =2.3.3 =h36d4200_3
-    - libcurl =8.1.0 =h409715c_0
+    - libcurl =8.1.1 =h409715c_0
     - libdb =6.2.32 =h9c3ff4c_0
     - libdeflate =1.14 =h166bdaf_0
     - libedit =3.1.20191231 =he28a2e2_2
@@ -128,7 +128,7 @@ requirements:
     - libgcrypt =1.10.1 =h166bdaf_0
     - libgfortran-ng =12.2.0 =h69a702a_19
     - libgfortran5 =12.2.0 =h337968e_19
-    - libglib =2.76.2 =hebfc3b9_0
+    - libglib =2.76.3 =hebfc3b9_0
     - libglu =9.0.0 =he1b5a44_1001
     - libgomp =12.2.0 =h65d4601_19
     - libgpg-error =1.46 =h620e276_0
@@ -222,8 +222,8 @@ requirements:
     - tornado =6.2 =py37h540881e_0
     - tqdm =4.65.0 =pyhd8ed1ab_1
     - traitlets =5.9.0 =pyhd8ed1ab_0
-    - typing-extensions =4.5.0 =hd8ed1ab_0
-    - typing_extensions =4.5.0 =pyha770c72_0
+    - typing-extensions =4.6.0 =hd8ed1ab_0
+    - typing_extensions =4.6.0 =pyha770c72_0
     - unicodedata2 =14.0.0 =py37h540881e_1
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0

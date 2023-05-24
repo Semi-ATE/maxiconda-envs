@@ -136,8 +136,8 @@ requirements:
     - giflib =5.2.1 =hb7f2c08_3
     - gitdb =4.0.10 =pyhd8ed1ab_0
     - gitpython =3.1.31 =pyhd8ed1ab_0
-    - glib =2.76.2 =h7d26f99_0
-    - glib-tools =2.76.2 =h7d26f99_0
+    - glib =2.76.3 =h7d26f99_0
+    - glib-tools =2.76.3 =h7d26f99_0
     - glog =0.6.0 =h8ac2a54_0
     - gmp =6.2.1 =h2e338ed_0
     - gmpy2 =2.1.2 =py39h2da61ea_1
@@ -190,7 +190,7 @@ requirements:
     - libclang =15.0.7 =default_hdb78580_2
     - libclang13 =15.0.7 =default_h953c2e9_2
     - libcrc32c =1.1.2 =he49afe7_0
-    - libcurl =8.1.0 =hbee3ae8_0
+    - libcurl =8.1.1 =hbee3ae8_0
     - libcxx =16.0.4 =hd57cbcb_0
     - libdeflate =1.18 =hac1461d_0
     - libedit =3.1.20191231 =h0678c8f_2
@@ -201,7 +201,7 @@ requirements:
     - libgd =2.3.3 =h3d994df_6
     - libgfortran =5.0.0 =11_3_0_h97931a8_31
     - libgfortran5 =12.2.0 =he409387_31
-    - libglib =2.76.2 =hc62aa5d_0
+    - libglib =2.76.3 =hc62aa5d_0
     - libgoogle-cloud =2.10.1 =h20eaa6e_1
     - libgrpc =1.54.2 =hfaa49da_2
     - libiconv =1.17 =hac89ed1_0
@@ -302,7 +302,7 @@ requirements:
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic =1.10.7 =py39ha30fb19_0
+    - pydantic =1.10.8 =py39hdc70f33_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.15.1 =pyhd8ed1ab_0
@@ -370,8 +370,8 @@ requirements:
     - traitlets =5.9.0 =pyhd8ed1ab_0
     - twisted =22.10.0 =py39ha30fb19_0
     - typer =0.7.0 =pyhd8ed1ab_0
-    - typing-extensions =4.5.0 =hd8ed1ab_0
-    - typing_extensions =4.5.0 =pyha770c72_0
+    - typing-extensions =4.6.0 =hd8ed1ab_0
+    - typing_extensions =4.6.0 =pyha770c72_0
     - tzdata =2023c =h71feb2d_0
     - umap-learn =0.5.3 =py39h6e9494a_1
     - unicodedata2 =15.0.0 =py39ha30fb19_0

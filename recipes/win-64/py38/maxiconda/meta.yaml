@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.0.1 =py38hf08cf0d_1
     - psutil =5.9.5 =py38h91455d4_0
-    - pydantic =1.10.7 =py38h91455d4_0
+    - pydantic =1.10.8 =py38h91455d4_0
     - pyqt =5.15.7 =py38hd6c051e_3
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =7.3.1 =pyhd8ed1ab_0
@@ -114,8 +114,8 @@ requirements:
     - fribidi =1.0.10 =h8d14728_0
     - frozenlist =1.3.3 =py38h91455d4_0
     - gettext =0.21.1 =h5728263_0
-    - glib =2.76.2 =h12be248_0
-    - glib-tools =2.76.2 =h12be248_0
+    - glib =2.76.3 =h12be248_0
+    - glib-tools =2.76.3 =h12be248_0
     - graphite2 =1.3.13 =1000
     - greenlet =2.0.2 =py38hd3f51b4_1
     - gst-plugins-base =1.22.3 =h001b923_1
@@ -153,7 +153,7 @@ requirements:
     - libdeflate =1.18 =hcfcfb64_0
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
-    - libglib =2.76.2 =he8f3873_0
+    - libglib =2.76.3 =he8f3873_0
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
     - liblapack =3.9.0 =16_win64_mkl
@@ -409,7 +409,7 @@ requirements:
     - r-stringi =1.7.12 =r41ha856d6a_1
     - r-stringr =1.5.0 =r41h785f33e_0
     - r-survival =3.5_5 =r41h6d2157b_0
-    - r-sys =3.4.1 =r41h6d2157b_0
+    - r-sys =3.4.2 =r41h6d2157b_0
     - r-systemfonts =1.0.4 =r41h93c4b31_1
     - r-textshaping =0.3.6 =r41h0488efe_5
     - r-tibble =3.2.1 =r41h6d2157b_1
@@ -461,8 +461,8 @@ requirements:
     - tomli-w =1.0.0 =pyhd8ed1ab_0
     - tornado =6.3.2 =py38h91455d4_0
     - traitlets =5.9.0 =pyhd8ed1ab_0
-    - typing-extensions =4.5.0 =hd8ed1ab_0
-    - typing_extensions =4.5.0 =pyha770c72_0
+    - typing-extensions =4.6.0 =hd8ed1ab_0
+    - typing_extensions =4.6.0 =pyha770c72_0
     - tzdata =2023c =h71feb2d_0
     - ucrt =10.0.22621.0 =h57928b3_0
     - unicodedata2 =15.0.0 =py38h91455d4_0
