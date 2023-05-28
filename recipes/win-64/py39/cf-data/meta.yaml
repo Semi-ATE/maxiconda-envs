@@ -49,7 +49,7 @@ requirements:
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.11.1 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
-    - arrow-cpp =11.0.0 =h57928b3_20_cpu
+    - arrow-cpp =11.0.0 =h57928b3_21_cpu
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
@@ -64,8 +64,8 @@ requirements:
     - aws-c-s3 =0.3.0 =h9503c08_2
     - aws-c-sdkutils =0.1.9 =h91ceee4_2
     - aws-checksums =0.1.14 =h91ceee4_7
-    - aws-crt-cpp =0.20.1 =he8b9daf_3
-    - aws-sdk-cpp =1.10.57 =h353f050_12
+    - aws-crt-cpp =0.20.2 =he8b9daf_0
+    - aws-sdk-cpp =1.10.57 =ha156882_13
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
@@ -173,7 +173,7 @@ requirements:
     - lcms2 =2.15 =h3e3b177_1
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230125.2 =cxx17_h63175ca_2
-    - libarrow =11.0.0 =ha096e86_20_cpu
+    - libarrow =11.0.0 =ha096e86_21_cpu
     - libblas =3.9.0 =16_win64_openblas
     - libbrotlicommon =1.0.9 =hcfcfb64_8
     - libbrotlidec =1.0.9 =hcfcfb64_8
@@ -277,7 +277,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.4 =cpu_py39ha538f94_0
-    - pyarrow =11.0.0 =py39hca4e8af_20_cpu
+    - pyarrow =11.0.0 =py39hca4e8af_21_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
