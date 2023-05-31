@@ -70,7 +70,7 @@ requirements:
     - _sysroot_linux-aarch64_curr_repodata_hack =4 =h57d6b7b_13
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - alsa-lib =1.2.8 =h4e544f5_0
-    - anyio =3.6.2 =pyhd8ed1ab_0
+    - anyio =3.7.0 =pyhd8ed1ab_1
     - argon2-cffi =21.3.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py37h795501a_2
     - async-timeout =4.0.2 =pyhd8ed1ab_0
@@ -96,7 +96,7 @@ requirements:
     - click =8.1.3 =py37hfd236b0_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
-    - curl =8.1.1 =hc34909b_0
+    - curl =8.1.2 =hc34909b_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h12b9eeb_3
     - debugpy =1.6.3 =py37hb20f0a7_0
@@ -132,7 +132,7 @@ requirements:
     - gsl =2.7 =h294027d_0
     - gst-plugins-base =1.22.0 =h8a62080_2
     - gstreamer =1.22.0 =h1f26242_2
-    - gstreamer-orc =0.4.33 =h4e544f5_0
+    - gstreamer-orc =0.4.34 =h31becfc_0
     - gxx_impl_linux-aarch64 =12.2.0 =h0c671d3_19
     - harfbuzz =6.0.0 =hbcb8a4f_0
     - icu =70.1 =ha18d298_0
@@ -169,7 +169,7 @@ requirements:
     - libclang =15.0.7 =default_hdf9a116_2
     - libclang13 =15.0.7 =default_hc086480_2
     - libcups =2.3.3 =h4303303_3
-    - libcurl =8.1.1 =hc34909b_0
+    - libcurl =8.1.2 =hc34909b_0
     - libdb =6.2.32 =h01db608_0
     - libdeflate =1.14 =h4e544f5_0
     - libedit =3.1.20191231 =he28a2e2_2
@@ -243,7 +243,7 @@ requirements:
     - nspr =4.35 =h4de3ea5_0
     - nss =3.89 =hf608148_0
     - openjpeg =2.5.0 =h9b6de37_1
-    - openssl =3.1.0 =h31becfc_3
+    - openssl =3.1.1 =h31becfc_0
     - packaging =23.1 =pyhd8ed1ab_0
     - pandoc =2.19.2 =h8af1aa0_2
     - pandocfilters =1.5.0 =pyhd8ed1ab_0

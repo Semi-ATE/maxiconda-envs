@@ -28,7 +28,7 @@ requirements:
     - aiohttp =3.8.4 =py39ha55989b_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
-    - bitarray =2.7.3 =py39ha55989b_0
+    - bitarray =2.7.4 =py39ha55989b_0
     - cython =0.29.35 =py39h99910a6_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
     - hypothesis =6.75.6 =pyha770c72_0
@@ -67,7 +67,7 @@ requirements:
     # 422 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
-    - anyio =3.6.2 =pyhd8ed1ab_0
+    - anyio =3.7.0 =pyhd8ed1ab_1
     - argon2-cffi =21.3.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py39ha55989b_3
     - asttokens =2.2.1 =pyhd8ed1ab_0
@@ -148,8 +148,8 @@ requirements:
     - libbrotlidec =1.0.9 =hcfcfb64_8
     - libbrotlienc =1.0.9 =hcfcfb64_8
     - libcblas =3.9.0 =16_win64_mkl
-    - libclang =16.0.4 =default_heb8d277_0
-    - libclang13 =16.0.4 =default_hc80b9e7_0
+    - libclang =15.0.7 =default_h77d9078_2
+    - libclang13 =15.0.7 =default_h77d9078_2
     - libdeflate =1.18 =hcfcfb64_0
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
@@ -218,7 +218,7 @@ requirements:
     - notebook =6.5.4 =pyha770c72_0
     - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha2aaf27_2
-    - openssl =3.1.0 =hcfcfb64_3
+    - openssl =3.1.1 =hcfcfb64_0
     - overrides =7.3.1 =pyhd8ed1ab_0
     - packaging =23.1 =pyhd8ed1ab_0
     - pandoc =2.19.2 =h57928b3_2
@@ -257,7 +257,7 @@ requirements:
     - pywin32 =304 =py39h99910a6_2
     - pywinpty =2.0.10 =py39h99910a6_0
     - pyzmq =25.0.2 =py39hea35a22_0
-    - qt-main =5.15.8 =h2c8576c_12
+    - qt-main =5.15.8 =h2c8576c_13
     - qtpy =2.3.1 =pyhd8ed1ab_0
     - r-askpass =1.1 =r41h6d2157b_3
     - r-assertthat =0.2.1 =r41hc72bb7e_3
@@ -439,7 +439,7 @@ requirements:
     - rapidfuzz =3.0.0 =py39h99910a6_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - ruamel.yaml =0.17.28 =py39ha55989b_0
+    - ruamel.yaml =0.17.30 =py39ha55989b_0
     - ruamel.yaml.clib =0.2.7 =py39ha55989b_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-pc-windows-msvc =1.69.0 =h69312b4_3
