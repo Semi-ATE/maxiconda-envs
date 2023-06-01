@@ -30,11 +30,11 @@ requirements:
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - cython =0.29.35 =py38he333c0f_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.75.6 =pyha770c72_0
+    - hypothesis =6.75.7 =pyha770c72_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py38h150bfb4_0
-    - numba =0.57.0 =py38h11be589_0
+    - numba =0.57.0 =py38h11be589_1
     - numpy =1.24.3 =py38ha84db1f_0
     - openpyxl =3.1.2 =py38hb192615_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
@@ -220,7 +220,7 @@ requirements:
     - nbconvert =7.4.0 =pyhd8ed1ab_0
     - nbconvert-core =7.4.0 =pyhd8ed1ab_0
     - nbconvert-pandoc =7.4.0 =pyhd8ed1ab_0
-    - nbformat =5.8.0 =pyhd8ed1ab_0
+    - nbformat =5.9.0 =pyhd8ed1ab_0
     - ncurses =6.3 =h07bb92c_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - notebook =6.5.4 =pyha770c72_0
@@ -228,7 +228,7 @@ requirements:
     - nspr =4.35 =hb7217d7_0
     - nss =3.89 =h789eff7_0
     - openjpeg =2.5.0 =hbc2ba62_2
-    - openssl =3.1.1 =h53f4e23_0
+    - openssl =3.1.1 =h53f4e23_1
     - overrides =7.3.1 =pyhd8ed1ab_0
     - packaging =23.1 =pyhd8ed1ab_0
     - pandoc =2.19.2 =hce30654_2
@@ -267,7 +267,7 @@ requirements:
     - python-utils =3.5.2 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pytz =2023.3 =pyhd8ed1ab_0
-    - pyzmq =25.0.2 =py38hb72be9f_0
+    - pyzmq =25.1.0 =py38hef91016_0
     - qt-main =5.15.8 =hcac2fde_13
     - qtpy =2.3.1 =pyhd8ed1ab_0
     - r-askpass =1.1 =r42h5d63f41_3
@@ -452,7 +452,7 @@ requirements:
     - readline =8.2 =h92ec313_1
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - ruamel.yaml =0.17.30 =py38hb192615_0
+    - ruamel.yaml =0.17.31 =py38hb192615_0
     - ruamel.yaml.clib =0.2.7 =py38hb991d35_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-aarch64-apple-darwin =1.69.0 =hf1a8007_3
