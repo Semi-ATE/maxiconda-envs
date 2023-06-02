@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.0 =py39hbaa61f9_1
     - xgboost =1.7.4 =cpu_py39ha538f94_0
 
-    # 341 secondary packages :
+    # 342 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.11.1 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -74,6 +74,7 @@ requirements:
     - bottleneck =1.3.7 =py39hc266a54_0
     - brotli =1.0.9 =hcfcfb64_8
     - brotli-bin =1.0.9 =hcfcfb64_8
+    - brotlipy =0.7.0 =py39ha55989b_1005
     - bzip2 =1.0.8 =h8ffe710_4
     - c-ares =1.19.1 =hcfcfb64_0
     - ca-certificates =2023.5.7 =h56e8100_0
@@ -95,13 +96,13 @@ requirements:
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.0.7 =py39h1f6ef14_0
-    - cryptography =41.0.0 =py39hb6bd5e6_0
+    - cryptography =41.0.1 =py39hb6bd5e6_0
     - cssselect =1.2.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =py_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - cymem =2.0.7 =py39h99910a6_1
     - cython-blis =0.7.9 =py39hc266a54_1
-    - databricks-cli =0.17.7 =pyhd8ed1ab_0
+    - databricks-cli =0.17.7 =pyhd8ed1ab_1
     - dataclasses =0.8 =pyhc8e2a94_3
     - datefinder =0.7.3 =pyhd8ed1ab_0
     - debugpy =1.6.7 =py39h99910a6_0
@@ -352,7 +353,7 @@ requirements:
     - ucrt =10.0.22621.0 =h57928b3_0
     - umap-learn =0.5.3 =py39hcbf5309_1
     - unicodedata2 =15.0.0 =py39ha55989b_0
-    - urllib3 =2.0.2 =pyhd8ed1ab_0
+    - urllib3 =1.26.15 =pyhd8ed1ab_0
     - vc =14.3 =hb25d44b_16
     - vc14_runtime =14.34.31931 =h5081d32_16
     - visions =0.7.1 =pyhd8ed1ab_0

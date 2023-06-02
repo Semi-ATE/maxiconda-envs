@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.7.4 =py38h01eb140_0
     - cython =0.29.35 =py38h17151c0_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.75.7 =pyha770c72_0
+    - hypothesis =6.75.9 =pyha770c72_0
     - ipython =8.12.2 =pyh41d4057_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py38h578d9bd_0
@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.2 =r42hd8ed1ab_2003
     - regex =2023.5.5 =py38h01eb140_0
     - requests =2.31.0 =pyhd8ed1ab_0
-    - rust =1.69.0 =h70c747d_3
+    - rust =1.69.0 =h70c747d_4
     - scipy =1.10.1 =py38h59b608b_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
@@ -279,7 +279,7 @@ requirements:
     - python-fastjsonschema =2.17.1 =pyhd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2023.3 =pyhd8ed1ab_0
-    - python-utils =3.5.2 =pyhd8ed1ab_0
+    - python-utils =3.6.0 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyzmq =25.1.0 =py38h509eb50_0
@@ -422,7 +422,7 @@ requirements:
     - r-reprex =2.0.2 =r42hc72bb7e_1
     - r-reshape2 =1.4.4 =r42h7525677_2
     - r-rlang =1.1.1 =r42ha503ecb_0
-    - r-rmarkdown =2.21 =r42hc72bb7e_0
+    - r-rmarkdown =2.22 =r42hc72bb7e_0
     - r-rpart =4.1.19 =r42h06615bd_0
     - r-rstudioapi =0.14 =r42hc72bb7e_1
     - r-rvest =1.0.3 =r42hc72bb7e_1
@@ -470,7 +470,7 @@ requirements:
     - ruamel.yaml =0.17.31 =py38h01eb140_0
     - ruamel.yaml.clib =0.2.7 =py38h1de0b5d_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-unknown-linux-gnu =1.69.0 =hc1431ca_3
+    - rust-std-x86_64-unknown-linux-gnu =1.69.0 =hc1431ca_4
     - sed =4.8 =he412f7d_0
     - semver =2.13.0 =pyh9f0ad1d_0
     - send2trash =1.8.2 =pyh41d4057_0
