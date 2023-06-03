@@ -44,14 +44,13 @@ requirements:
     - sqlalchemy =2.0.15 =py38hcafd530_0
     - sqlite =3.42.0 =h2b0dec6_0
     - statsmodels =0.14.0 =py38hd2faf92_1
-    - xgboost =1.7.4 =cpu_py38ha5ba132_0
+    - xgboost =1.7.4 =cpu_py38h9ec35b5_2
 
-    # 349 secondary packages :
+    # 347 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.11.1 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.3 =pyhd8ed1ab_0
-    - arrow-cpp =11.0.0 =h694c41f_21_cpu
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =23.1.0 =pyh71513ae_1
@@ -181,7 +180,7 @@ requirements:
     - lcms2 =2.15 =h2dcdeff_1
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230125.2 =cxx17_h000cb23_2
-    - libarrow =11.0.0 =h8fc5235_21_cpu
+    - libarrow =11.0.0 =h8fc5235_22_cpu
     - libblas =3.9.0 =16_osx64_openblas
     - libbrotlicommon =1.0.9 =hb7f2c08_8
     - libbrotlidec =1.0.9 =hb7f2c08_8
@@ -195,7 +194,7 @@ requirements:
     - libdeflate =1.18 =hac1461d_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =haf1e3a3_1
-    - libevent =2.1.12 =h9cee658_0
+    - libevent =2.1.12 =ha90c15b_1
     - libexpat =2.5.0 =hf0c8a7f_1
     - libffi =3.4.2 =h0d85af4_5
     - libgd =2.3.3 =h3d994df_6
@@ -207,7 +206,7 @@ requirements:
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =2.1.5.1 =hb7f2c08_0
     - liblapack =3.9.0 =16_osx64_openblas
-    - libllvm14 =14.0.6 =hc8e404f_2
+    - libllvm14 =14.0.6 =hc8e404f_3
     - libllvm15 =15.0.7 =h7001e86_1
     - libnghttp2 =1.52.0 =he2ab024_0
     - libogg =1.3.4 =h35c211d_1
@@ -228,7 +227,7 @@ requirements:
     - libwebp =1.3.0 =ha9aa8fa_0
     - libwebp-base =1.3.0 =hb7f2c08_0
     - libxcb =1.15 =hb7f2c08_0
-    - libxgboost =1.7.4 =cpu_h0c1cf5f_0
+    - libxgboost =1.7.4 =cpu_h4cd8c17_2
     - libxml2 =2.10.4 =h554bb67_0
     - libxslt =1.1.37 =h5d22bc9_0
     - libzlib =1.2.13 =hfd90126_4
@@ -270,7 +269,6 @@ requirements:
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.50.14 =hbce5e75_1
     - paramiko =3.2.0 =pyhd8ed1ab_0
-    - parquet-cpp =1.5.1 =1
     - parsel =1.8.1 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pathy =0.10.1 =pyhd8ed1ab_0
@@ -296,8 +294,8 @@ requirements:
     - pthread-stubs =0.4 =hc929b4f_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
-    - py-xgboost =1.7.4 =cpu_py38he866dac_0
-    - pyarrow =11.0.0 =py38h810e5a8_21_cpu
+    - py-xgboost =1.7.4 =cpu_py38he866dac_2
+    - pyarrow =11.0.0 =py38h810e5a8_22_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -370,8 +368,8 @@ requirements:
     - traitlets =5.9.0 =pyhd8ed1ab_0
     - twisted =22.10.0 =py38hef030d1_0
     - typer =0.7.0 =pyhd8ed1ab_0
-    - typing-extensions =4.6.2 =hd8ed1ab_0
-    - typing_extensions =4.6.2 =pyha770c72_0
+    - typing-extensions =4.6.3 =hd8ed1ab_0
+    - typing_extensions =4.6.3 =pyha770c72_0
     - umap-learn =0.5.3 =py38h50d1736_1
     - unicodedata2 =15.0.0 =py38hef030d1_0
     - urllib3 =2.0.2 =pyhd8ed1ab_0

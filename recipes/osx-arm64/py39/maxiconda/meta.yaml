@@ -31,7 +31,7 @@ requirements:
     - cython =0.29.35 =py39hb198ff7_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
     - hypothesis =6.75.9 =pyha770c72_0
-    - ipython =8.13.2 =pyhd1c38e8_0
+    - ipython =8.14.0 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py39hdf13c20_0
     - numba =0.57.0 =py39he8ed757_1
@@ -182,7 +182,7 @@ requirements:
     - libiconv =1.17 =he4db4b2_0
     - libjpeg-turbo =2.1.5.1 =h1a8c8d9_0
     - liblapack =3.9.0 =16_osxarm64_openblas
-    - libllvm14 =14.0.6 =hd1a9a77_2
+    - libllvm14 =14.0.6 =hd1a9a77_3
     - libllvm15 =15.0.7 =h504e6bf_2
     - libllvm16 =16.0.4 =he79909e_0
     - libnghttp2 =1.52.0 =hae82a92_0
@@ -479,8 +479,8 @@ requirements:
     - tomli-w =1.0.0 =pyhd8ed1ab_0
     - tornado =6.3.2 =py39h0f82c59_0
     - traitlets =5.9.0 =pyhd8ed1ab_0
-    - typing-extensions =4.6.2 =hd8ed1ab_0
-    - typing_extensions =4.6.2 =pyha770c72_0
+    - typing-extensions =4.6.3 =hd8ed1ab_0
+    - typing_extensions =4.6.3 =pyha770c72_0
     - typing_utils =0.1.0 =pyhd8ed1ab_0
     - tzdata =2023c =h71feb2d_0
     - unicodedata2 =15.0.0 =py39h02fc5c5_0

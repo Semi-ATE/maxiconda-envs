@@ -174,7 +174,7 @@ requirements:
     - libdeflate =1.18 =hb4cce97_0
     - libedit =3.1.20191231 =he28a2e2_2
     - libev =4.33 =h516909a_1
-    - libevent =2.1.12 =hf55b2d5_0
+    - libevent =2.1.12 =h4ba1bb4_1
     - libexpat =2.5.0 =hd600fc2_1
     - libffi =3.4.2 =h3557bc0_5
     - libflac =1.4.2 =h4de3ea5_0
@@ -189,7 +189,7 @@ requirements:
     - libiconv =1.17 =h9cdd2b7_0
     - libjpeg-turbo =2.1.5.1 =hb4cce97_0
     - liblapack =3.9.0 =16_linuxaarch64_openblas
-    - libllvm14 =14.0.6 =h966f666_2
+    - libllvm14 =14.0.6 =h966f666_3
     - libllvm15 =15.0.7 =hc720cd8_2
     - libnghttp2 =1.52.0 =h250e5c5_0
     - libnsl =2.0.0 =hf897c2e_0
@@ -492,8 +492,8 @@ requirements:
     - tomli-w =1.0.0 =pyhd8ed1ab_0
     - tornado =6.3.2 =py38hea3b116_0
     - traitlets =5.9.0 =pyhd8ed1ab_0
-    - typing-extensions =4.6.2 =hd8ed1ab_0
-    - typing_extensions =4.6.2 =pyha770c72_0
+    - typing-extensions =4.6.3 =hd8ed1ab_0
+    - typing_extensions =4.6.3 =pyha770c72_0
     - typing_utils =0.1.0 =pyhd8ed1ab_0
     - tzdata =2023c =h71feb2d_0
     - unicodedata2 =15.0.0 =py38hdacc76a_0
