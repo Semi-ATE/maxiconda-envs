@@ -50,7 +50,7 @@ requirements:
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - r-base =4.2.3 =hfabd6f2_3
     - r-essentials =4.2 =r42hd8ed1ab_2003
-    - regex =2023.5.5 =py39hd1e30aa_0
+    - regex =2023.6.3 =py39hd1e30aa_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rust =1.69.0 =h70c747d_4
     - scipy =1.10.1 =py39h6183b62_3
@@ -122,9 +122,9 @@ requirements:
     - freetype =2.12.1 =hca18f0e_1
     - fribidi =1.0.10 =h36c2ea0_0
     - frozenlist =1.3.3 =py39hb9d737c_0
-    - gcc_impl_linux-64 =12.2.0 =hcc96c02_19
+    - gcc_impl_linux-64 =13.1.0 =hc4be1a9_0
     - gettext =0.21.1 =h27087fc_0
-    - gfortran_impl_linux-64 =12.2.0 =h55be85b_19
+    - gfortran_impl_linux-64 =13.1.0 =hd511a9b_0
     - glib =2.76.3 =hfc55251_0
     - glib-tools =2.76.3 =hfc55251_0
     - gmp =6.2.1 =h58526e2_0
@@ -134,7 +134,7 @@ requirements:
     - gsl =2.7 =he838d99_0
     - gst-plugins-base =1.22.3 =h938bd60_1
     - gstreamer =1.22.3 =h977cf35_1
-    - gxx_impl_linux-64 =12.2.0 =hcc96c02_19
+    - gxx_impl_linux-64 =13.1.0 =hc4be1a9_0
     - harfbuzz =7.3.0 =hdb3a94d_0
     - icu =72.1 =hcb278e6_0
     - idna =3.4 =pyhd8ed1ab_0
@@ -178,13 +178,13 @@ requirements:
     - libexpat =2.5.0 =hcb278e6_1
     - libffi =3.4.2 =h7f98852_5
     - libflac =1.4.2 =h27087fc_0
-    - libgcc-devel_linux-64 =12.2.0 =h3b97bd3_19
-    - libgcc-ng =12.2.0 =h65d4601_19
+    - libgcc-devel_linux-64 =13.1.0 =he3cc6c4_0
+    - libgcc-ng =13.1.0 =he5830b7_0
     - libgcrypt =1.10.1 =h166bdaf_0
-    - libgfortran-ng =12.2.0 =h69a702a_19
-    - libgfortran5 =12.2.0 =h337968e_19
+    - libgfortran-ng =13.1.0 =h69a702a_0
+    - libgfortran5 =13.1.0 =h15d22d2_0
     - libglib =2.76.3 =hebfc3b9_0
-    - libgomp =12.2.0 =h65d4601_19
+    - libgomp =13.1.0 =he5830b7_0
     - libgpg-error =1.46 =h620e276_0
     - libiconv =1.17 =h166bdaf_0
     - libjpeg-turbo =2.1.5.1 =h0b41bf4_0
@@ -198,13 +198,13 @@ requirements:
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.39 =h753d276_0
     - libpq =15.3 =hbcd7760_1
-    - libsanitizer =12.2.0 =h46fd767_19
+    - libsanitizer =13.1.0 =hfd8a6a1_0
     - libsndfile =1.2.0 =hb75c966_0
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.42.0 =h2797004_0
     - libssh2 =1.10.0 =hf14f497_3
-    - libstdcxx-devel_linux-64 =12.2.0 =h3b97bd3_19
-    - libstdcxx-ng =12.2.0 =h46fd767_19
+    - libstdcxx-devel_linux-64 =13.1.0 =he3cc6c4_0
+    - libstdcxx-ng =13.1.0 =hfd8a6a1_0
     - libsystemd0 =253 =h8c4010b_1
     - libtiff =4.5.0 =ha587672_6
     - libuuid =2.38.1 =h0b41bf4_0
@@ -217,7 +217,7 @@ requirements:
     - llvmlite =0.40.0 =py39h174d805_0
     - lz4-c =1.9.4 =hcb278e6_0
     - make =4.3 =hd18ef5c_1
-    - markupsafe =2.1.2 =py39h72bdee0_0
+    - markupsafe =2.1.3 =py39hd1e30aa_0
     - matplotlib-base =3.7.1 =py39he190548_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mistune =2.0.5 =pyhd8ed1ab_0
@@ -463,7 +463,7 @@ requirements:
     - r-xts =0.13.1 =r42h133d619_0
     - r-yaml =2.3.7 =r42h133d619_0
     - r-zoo =1.8_12 =r42h133d619_0
-    - rapidfuzz =3.0.0 =py39h227be39_0
+    - rapidfuzz =3.1.0 =py39h3d6467e_0
     - readline =8.2 =h8228510_1
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
