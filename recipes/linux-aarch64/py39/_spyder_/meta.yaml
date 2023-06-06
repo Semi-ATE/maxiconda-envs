@@ -134,12 +134,12 @@ requirements:
     - lcms2 =2.15 =h3e0bdec_1
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
-    - libblas =3.9.0 =16_linuxaarch64_openblas
+    - libblas =3.9.0 =17_linuxaarch64_openblas
     - libbrotlicommon =1.0.9 =h4e544f5_8
     - libbrotlidec =1.0.9 =h4e544f5_8
     - libbrotlienc =1.0.9 =h4e544f5_8
     - libcap =2.67 =h8246067_0
-    - libcblas =3.9.0 =16_linuxaarch64_openblas
+    - libcblas =3.9.0 =17_linuxaarch64_openblas
     - libclang =15.0.7 =default_hdf9a116_2
     - libclang13 =15.0.7 =default_hc086480_2
     - libcups =2.3.3 =h4303303_3
@@ -158,11 +158,11 @@ requirements:
     - libgpg-error =1.46 =haae8ae4_0
     - libiconv =1.17 =h9cdd2b7_0
     - libjpeg-turbo =2.1.5.1 =hb4cce97_0
-    - liblapack =3.9.0 =16_linuxaarch64_openblas
+    - liblapack =3.9.0 =17_linuxaarch64_openblas
     - libllvm15 =15.0.7 =hc720cd8_2
     - libnsl =2.0.0 =hf897c2e_0
     - libogg =1.3.4 =h3557bc0_1
-    - libopenblas =0.3.21 =pthreads_h6cb6f83_3
+    - libopenblas =0.3.23 =pthreads_hd703e6f_0
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
     - libpq =15.3 =hf616e62_1

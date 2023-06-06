@@ -110,11 +110,11 @@ requirements:
     - lazy-object-proxy =1.7.1 =py37h69ee0a8_1
     - lcms2 =2.14 =h90f4b2a_0
     - lerc =4.0.0 =hb486fe8_0
-    - libblas =3.9.0 =16_osx64_openblas
+    - libblas =3.9.0 =17_osx64_openblas
     - libbrotlicommon =1.0.9 =hb7f2c08_8
     - libbrotlidec =1.0.9 =hb7f2c08_8
     - libbrotlienc =1.0.9 =hb7f2c08_8
-    - libcblas =3.9.0 =16_osx64_openblas
+    - libcblas =3.9.0 =17_osx64_openblas
     - libclang =13.0.1 =default_h255f2f3_1
     - libcxx =16.0.5 =hd57cbcb_0
     - libdeflate =1.14 =hb7f2c08_0
@@ -124,10 +124,10 @@ requirements:
     - libgfortran5 =12.2.0 =he409387_31
     - libglib =2.76.3 =hc62aa5d_0
     - libiconv =1.17 =hac89ed1_0
-    - liblapack =3.9.0 =16_osx64_openblas
+    - liblapack =3.9.0 =17_osx64_openblas
     - libllvm13 =13.0.1 =h64f94b2_2
     - libogg =1.3.4 =h35c211d_1
-    - libopenblas =0.3.21 =openmp_h429af6e_3
+    - libopenblas =0.3.23 =openmp_h429af6e_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.39 =ha978bb4_0
     - libpq =15.3 =h9dc22bb_1
