@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.0 =py39hbaa61f9_1
     - xgboost =1.7.4 =cpu_py39ha538f94_2
 
-    # 340 secondary packages :
+    # 339 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.11.1 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -73,7 +73,6 @@ requirements:
     - bottleneck =1.3.7 =py39hc266a54_0
     - brotli =1.0.9 =hcfcfb64_8
     - brotli-bin =1.0.9 =hcfcfb64_8
-    - brotlipy =0.7.0 =py39ha55989b_1005
     - bzip2 =1.0.8 =h8ffe710_4
     - c-ares =1.19.1 =hcfcfb64_0
     - ca-certificates =2023.5.7 =h56e8100_0
@@ -101,7 +100,7 @@ requirements:
     - cycler =0.11.0 =pyhd8ed1ab_0
     - cymem =2.0.7 =py39h99910a6_1
     - cython-blis =0.7.9 =py39hc266a54_1
-    - databricks-cli =0.17.7 =pyhd8ed1ab_1
+    - databricks-cli =0.17.7 =pyhd8ed1ab_0
     - dataclasses =0.8 =pyhc8e2a94_3
     - datefinder =0.7.3 =pyhd8ed1ab_0
     - debugpy =1.6.7 =py39h99910a6_0
@@ -174,7 +173,7 @@ requirements:
     - lcms2 =2.15 =h3e3b177_1
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230125.2 =cxx17_h63175ca_2
-    - libarrow =11.0.0 =hd971356_23_cpu
+    - libarrow =12.0.0 =hba48b7f_6_cpu
     - libblas =3.9.0 =17_win64_mkl
     - libbrotlicommon =1.0.9 =hcfcfb64_8
     - libbrotlidec =1.0.9 =hcfcfb64_8
@@ -190,9 +189,9 @@ requirements:
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h2ed9e1d_6
     - libglib =2.76.3 =he8f3873_0
-    - libgoogle-cloud =2.11.0 =h00b2bdc_0
+    - libgoogle-cloud =2.11.0 =h00b2bdc_1
     - libgrpc =1.54.2 =ha177ca7_2
-    - libhwloc =2.9.1 =cpu_hadd60ae_5
+    - libhwloc =2.9.1 =nocuda_h15da153_6
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
     - liblapack =3.9.0 =17_win64_mkl
@@ -229,7 +228,7 @@ requirements:
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mkl =2022.1.0 =h6a75c08_874
-    - mlflow =2.3.2 =py39h54a35c1_1
+    - mlflow =2.4.0 =py39h54a35c1_0
     - mlxtend =0.22.0 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - multimethod =1.4 =py_0
@@ -273,7 +272,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.4 =cpu_py39ha538f94_2
-    - pyarrow =11.0.0 =py39hca4e8af_23_cpu
+    - pyarrow =12.0.0 =py39hca4e8af_6_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -351,14 +350,14 @@ requirements:
     - ucrt =10.0.22621.0 =h57928b3_0
     - umap-learn =0.5.3 =py39hcbf5309_1
     - unicodedata2 =15.0.0 =py39ha55989b_0
-    - urllib3 =1.26.15 =pyhd8ed1ab_0
+    - urllib3 =2.0.3 =pyhd8ed1ab_0
     - vc =14.3 =hb25d44b_16
     - vc14_runtime =14.34.31931 =h5081d32_16
     - visions =0.7.1 =pyhd8ed1ab_0
     - vs2015_runtime =14.34.31931 =hed1258a_16
     - w3lib =2.1.1 =pyhd8ed1ab_0
     - waitress =2.1.2 =pyhd8ed1ab_0
-    - wasabi =1.1.1 =py39hcbf5309_1
+    - wasabi =1.1.2 =py39hcbf5309_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - websocket-client =1.5.2 =pyhd8ed1ab_0
     - werkzeug =2.3.4 =pyhd8ed1ab_0
