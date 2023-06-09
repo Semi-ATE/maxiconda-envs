@@ -31,7 +31,7 @@ requirements:
     - matplotlib =3.7.1 =py39h6e9494a_0
     - numpy =1.24.3 =py39h892e69a_0
     - pandas =2.0.2 =py39h11b3245_0
-    - plotly =5.14.1 =pyhd8ed1ab_0
+    - plotly =5.15.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py39h6e9494a_3
     - pyqt =5.15.7 =py39h327fbb6_3
@@ -180,7 +180,7 @@ requirements:
     - lcms2 =2.15 =h2dcdeff_1
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230125.2 =cxx17_h000cb23_2
-    - libarrow =12.0.0 =h7bc8ed6_6_cpu
+    - libarrow =12.0.0 =h7bc8ed6_7_cpu
     - libblas =3.9.0 =17_osx64_openblas
     - libbrotlicommon =1.0.9 =hb7f2c08_8
     - libbrotlidec =1.0.9 =hb7f2c08_8
@@ -295,7 +295,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.4 =cpu_py39hb0a6171_2
-    - pyarrow =12.0.0 =py39h105b94d_6_cpu
+    - pyarrow =12.0.0 =py39h105b94d_7_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3

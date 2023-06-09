@@ -31,7 +31,7 @@ requirements:
     - matplotlib =3.7.1 =py38haa244fe_0
     - numpy =1.24.3 =py38h1d91fd2_0
     - pandas =2.0.2 =py38hf08cf0d_0
-    - plotly =5.14.1 =pyhd8ed1ab_0
+    - plotly =5.15.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py38haa244fe_3
     - pyqt =5.15.7 =py38hd6c051e_3
@@ -173,7 +173,7 @@ requirements:
     - lcms2 =2.15 =h3e3b177_1
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230125.2 =cxx17_h63175ca_2
-    - libarrow =12.0.0 =hba48b7f_6_cpu
+    - libarrow =12.0.0 =hba48b7f_7_cpu
     - libblas =3.9.0 =17_win64_mkl
     - libbrotlicommon =1.0.9 =hcfcfb64_8
     - libbrotlidec =1.0.9 =hcfcfb64_8
@@ -272,7 +272,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.4 =cpu_py38hc22ac66_2
-    - pyarrow =12.0.0 =py38h75459e5_6_cpu
+    - pyarrow =12.0.0 =py38h75459e5_7_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -367,7 +367,7 @@ requirements:
     - xorg-kbproto =1.0.7 =hcd874cb_1002
     - xorg-libice =1.0.10 =hcd874cb_0
     - xorg-libsm =1.2.3 =hcd874cb_1000
-    - xorg-libx11 =1.8.4 =hefa74cf_1
+    - xorg-libx11 =1.8.5 =hefa74cf_0
     - xorg-libxau =1.0.11 =hcd874cb_0
     - xorg-libxdmcp =1.1.3 =hcd874cb_0
     - xorg-libxext =1.3.4 =hcd874cb_2
