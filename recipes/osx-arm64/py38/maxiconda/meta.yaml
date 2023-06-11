@@ -25,7 +25,7 @@ requirements:
     - python =3.8.16 =h3ba56d0_1_cpython
 
     # 37 primary packages :
-    - aiohttp =3.8.4 =py38hb991d35_0
+    - aiohttp =3.8.4 =py38hb192615_1
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - cython =0.29.35 =py38he333c0f_0
@@ -40,7 +40,7 @@ requirements:
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.0.2 =py38hefb543e_0
     - psutil =5.9.5 =py38hb991d35_0
-    - pydantic =1.10.8 =py38hb192615_0
+    - pydantic =1.10.9 =py38hb192615_0
     - pyqt =5.15.7 =py38hd4e55b5_3
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =7.3.1 =pyhd8ed1ab_0
@@ -55,7 +55,7 @@ requirements:
     - scipy =1.10.1 =py38h038e806_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.15 =py38hb192615_0
+    - sqlalchemy =2.0.16 =py38hb192615_0
     - sqlite =3.42.0 =h203b68d_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.65.0 =pyhd8ed1ab_1
@@ -88,7 +88,7 @@ requirements:
     - cctools_osx-arm64 =973.0.1 =h7a0f565_13
     - certifi =2023.5.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38ha45ccd6_3
-    - charset-normalizer =2.1.1 =pyhd8ed1ab_0
+    - charset-normalizer =3.1.0 =pyhd8ed1ab_0
     - clang =16.0.5 =he79909e_0
     - clang-16 =16.0.5 =default_h07b2d96_0
     - clang_osx-arm64 =16.0.5 =h4e029a2_0
@@ -243,7 +243,7 @@ requirements:
     - pixman =0.40.0 =h27ca646_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
-    - platformdirs =3.5.1 =pyhd8ed1ab_0
+    - platformdirs =3.5.3 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py38h10201cd_4
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyha770c72_3
@@ -318,7 +318,7 @@ requirements:
     - r-fs =1.6.2 =r42he62749d_0
     - r-future =1.32.0 =r42hc72bb7e_0
     - r-future.apply =1.11.0 =r42hc72bb7e_0
-    - r-gargle =1.4.0 =r42h785f33e_0
+    - r-gargle =1.5.0 =r42h785f33e_0
     - r-generics =0.1.3 =r42hc72bb7e_1
     - r-ggplot2 =3.4.2 =r42hc72bb7e_0
     - r-gistr =0.9.0 =r42hc72bb7e_1
