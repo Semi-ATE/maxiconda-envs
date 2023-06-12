@@ -55,19 +55,19 @@ requirements:
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.6.27 =h093a61a_1
-    - aws-c-cal =0.5.26 =h9b5d637_1
-    - aws-c-common =0.8.19 =h0dc2134_0
-    - aws-c-compression =0.2.16 =h3039e2f_7
-    - aws-c-event-stream =0.2.20 =h58c9f2d_7
-    - aws-c-http =0.7.7 =hb536a44_4
-    - aws-c-io =0.13.21 =hbe544ae_5
-    - aws-c-mqtt =0.8.11 =h3f6fd96_1
-    - aws-c-s3 =0.3.0 =hfaded3d_2
-    - aws-c-sdkutils =0.1.9 =h3039e2f_2
-    - aws-checksums =0.1.14 =h3039e2f_7
-    - aws-crt-cpp =0.20.2 =hb50731f_0
-    - aws-sdk-cpp =1.10.57 =hf90da8b_13
+    - aws-c-auth =0.6.28 =h22f1ae1_4
+    - aws-c-cal =0.5.27 =h1a35643_0
+    - aws-c-common =0.8.20 =h0dc2134_0
+    - aws-c-compression =0.2.17 =h0ead7ca_0
+    - aws-c-event-stream =0.3.0 =h4ceace6_5
+    - aws-c-http =0.7.8 =h79d3298_3
+    - aws-c-io =0.13.24 =ha48b2be_1
+    - aws-c-mqtt =0.8.13 =ha1ff44c_1
+    - aws-c-s3 =0.3.4 =h20273eb_4
+    - aws-c-sdkutils =0.1.10 =h0ead7ca_0
+    - aws-checksums =0.1.16 =h0ead7ca_0
+    - aws-crt-cpp =0.20.2 =he77339f_8
+    - aws-sdk-cpp =1.10.57 =h3009220_14
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
