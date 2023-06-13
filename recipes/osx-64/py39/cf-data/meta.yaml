@@ -113,7 +113,7 @@ requirements:
     - entrypoints =0.4 =pyhd8ed1ab_0
     - executing =1.2.0 =pyhd8ed1ab_0
     - expat =2.5.0 =hf0c8a7f_1
-    - filelock =3.12.1 =pyhd8ed1ab_0
+    - filelock =3.12.2 =pyhd8ed1ab_0
     - flask =2.3.2 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -122,7 +122,7 @@ requirements:
     - fontconfig =2.14.2 =h5bb23bf_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.39.4 =py39hdc70f33_0
+    - fonttools =4.40.0 =py39hdc70f33_0
     - freetype =2.12.1 =h3f81eb7_1
     - fribidi =1.0.10 =hbcb3906_0
     - fst-pso =1.8.1 =pyhd8ed1ab_0
@@ -147,7 +147,7 @@ requirements:
     - gst-plugins-base =1.22.3 =hb5d3a86_1
     - gstreamer =1.22.3 =h53e17e3_1
     - gtk2 =2.24.33 =h7c1209e_2
-    - gts =0.7.6 =hccb3bdf_2
+    - gts =0.7.6 =h53e17e3_4
     - gunicorn =20.1.0 =py39h6e9494a_3
     - harfbuzz =7.3.0 =h413ba03_0
     - htmlmin =0.1.12 =py_1
@@ -231,7 +231,7 @@ requirements:
     - libxgboost =1.7.4 =cpu_h4cd8c17_2
     - libxml2 =2.10.4 =h554bb67_0
     - libxslt =1.1.37 =h5d22bc9_0
-    - libzlib =1.2.13 =hfd90126_4
+    - libzlib =1.2.13 =h8a1eda9_5
     - llvm-openmp =16.0.5 =hff08bdf_0
     - llvmlite =0.40.0 =py39hc281fc9_0
     - lxml =4.9.2 =py39hfbce9ca_0
@@ -393,7 +393,7 @@ requirements:
     - yellowbrick =1.5 =pyhd8ed1ab_0
     - zeromq =4.3.4 =he49afe7_1
     - zipp =3.15.0 =pyhd8ed1ab_0
-    - zlib =1.2.13 =hfd90126_4
+    - zlib =1.2.13 =h8a1eda9_5
     - zope.interface =6.0 =py39ha30fb19_0
     - zstd =1.5.2 =hbc0c0cd_6
 

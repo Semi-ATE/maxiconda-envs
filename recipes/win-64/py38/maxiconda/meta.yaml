@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.7.5 =py38h91455d4_0
     - cython =0.29.35 =py38hd3f51b4_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.78.0 =pyha770c72_0
+    - hypothesis =6.78.1 =pyha770c72_0
     - ipython =8.12.2 =pyh08f2357_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py38haa244fe_0
@@ -44,7 +44,7 @@ requirements:
     - pydantic =1.10.9 =py38h91455d4_0
     - pyqt =5.15.7 =py38hd6c051e_3
     - pyserial =3.5 =pyhd8ed1ab_0
-    - pytest =7.3.1 =pyhd8ed1ab_0
+    - pytest =7.3.2 =pyhd8ed1ab_0
     - pyyaml =6.0 =py38h91455d4_5
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
@@ -109,7 +109,7 @@ requirements:
     - fontconfig =2.14.2 =hbde0cde_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.39.4 =py38h91455d4_0
+    - fonttools =4.40.0 =py38h91455d4_0
     - freetype =2.12.1 =h546665d_1
     - fribidi =1.0.10 =h8d14728_0
     - frozenlist =1.3.3 =py38h91455d4_0
@@ -167,7 +167,7 @@ requirements:
     - libwebp-base =1.3.0 =hcfcfb64_0
     - libxcb =1.15 =hcd874cb_0
     - libxml2 =2.11.4 =hc3477c8_0
-    - libzlib =1.2.13 =hcfcfb64_4
+    - libzlib =1.2.13 =hcfcfb64_5
     - llvmlite =0.40.0 =py38h19421c1_0
     - m2w64-bwidget =1.9.10 =2
     - m2w64-bzip2 =1.0.6 =6
@@ -487,7 +487,7 @@ requirements:
     - yarl =1.9.2 =py38h91455d4_0
     - zeromq =4.3.4 =h0e60522_1
     - zipp =3.15.0 =pyhd8ed1ab_0
-    - zlib =1.2.13 =hcfcfb64_4
+    - zlib =1.2.13 =hcfcfb64_5
     - zstd =1.5.2 =h12be248_6
 
 about:
