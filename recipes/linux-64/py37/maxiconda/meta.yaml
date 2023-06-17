@@ -44,7 +44,7 @@ requirements:
     - pydantic =1.10.2 =py37h540881e_0
     - pyqt =5.15.7 =py37hf30b843_1
     - pyserial =3.5 =pyhd8ed1ab_0
-    - pytest =7.2.0 =py37h89c1867_0
+    - pytest =7.3.2 =pyhd8ed1ab_1
     - pyyaml =6.0 =py37h540881e_4
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
@@ -298,7 +298,7 @@ requirements:
     - r-class =7.3_22 =r42h57805ef_1
     - r-cli =3.6.1 =r42ha503ecb_1
     - r-clipr =0.8.0 =r42hc72bb7e_2
-    - r-clock =0.7.0 =r42ha503ecb_0
+    - r-clock =0.7.0 =r42ha503ecb_1
     - r-cluster =2.1.4 =r42h61816a4_1
     - r-codetools =0.2_19 =r42hc72bb7e_1
     - r-colorspace =2.1_0 =r42h57805ef_1
@@ -331,7 +331,7 @@ requirements:
     - r-gargle =1.5.0 =r42h785f33e_1
     - r-generics =0.1.3 =r42hc72bb7e_2
     - r-ggplot2 =3.4.2 =r42hc72bb7e_1
-    - r-gistr =0.9.0 =r42hc72bb7e_1
+    - r-gistr =0.9.0 =r42hc72bb7e_2
     - r-glmnet =4.1_7 =r42hcf54a89_1
     - r-globals =0.16.2 =r42hc72bb7e_1
     - r-glue =1.6.2 =r42h57805ef_2
@@ -340,7 +340,7 @@ requirements:
     - r-gower =1.0.1 =r42h57805ef_1
     - r-gtable =0.3.3 =r42hc72bb7e_1
     - r-hardhat =1.3.0 =r42hc72bb7e_1
-    - r-haven =2.5.2 =r42h38f115c_0
+    - r-haven =2.5.2 =r42ha503ecb_1
     - r-hexbin =1.28.3 =r42h61816a4_1
     - r-highr =0.10 =r42hc72bb7e_1
     - r-hms =1.1.3 =r42hc72bb7e_1
@@ -351,8 +351,8 @@ requirements:
     - r-httr =1.4.6 =r42hc72bb7e_1
     - r-ids =1.0.1 =r42hc72bb7e_3
     - r-ipred =0.9_14 =r42h57805ef_1
-    - r-irdisplay =1.1 =r42hd8ed1ab_1
-    - r-irkernel =1.3.2 =r42h785f33e_0
+    - r-irdisplay =1.1 =r42hd8ed1ab_2
+    - r-irkernel =1.3.2 =r42h785f33e_1
     - r-isoband =0.2.7 =r42ha503ecb_2
     - r-iterators =1.0.14 =r42hc72bb7e_2
     - r-jquerylib =0.1.4 =r42hc72bb7e_2
@@ -406,9 +406,9 @@ requirements:
     - r-rcolorbrewer =1.1_3 =r42h785f33e_2
     - r-rcpp =1.0.10 =r42ha503ecb_1
     - r-rcppeigen =0.3.3.9.3 =r42h08d816e_1
-    - r-readr =2.1.4 =r42h38f115c_0
+    - r-readr =2.1.4 =r42ha503ecb_1
     - r-readxl =1.4.2 =r42ha5c9fba_1
-    - r-recipes =1.0.6 =r42hc72bb7e_0
+    - r-recipes =1.0.6 =r42hc72bb7e_1
     - r-recommended =4.2 =r42hd8ed1ab_1006
     - r-rematch =1.0.1 =r42hc72bb7e_1006
     - r-rematch2 =2.1.2 =r42hc72bb7e_3

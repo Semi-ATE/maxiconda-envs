@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.16 =hf9b03c3_1_cpython
+    - python =3.8.17 =hf9b03c3_0_cpython
   run:
-    - python =3.8.16 =hf9b03c3_1_cpython
+    - python =3.8.17 =hf9b03c3_0_cpython
 
     # 20 primary packages :
     - beautifulsoup4 =4.12.2 =pyha770c72_0
@@ -181,7 +181,7 @@ requirements:
     - lcms2 =2.15 =h2dcdeff_1
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230125.2 =cxx17_h000cb23_2
-    - libarrow =12.0.0 =h7bc8ed6_7_cpu
+    - libarrow =12.0.0 =h3aa1ecd_8_cpu
     - libblas =3.9.0 =17_osx64_openblas
     - libbrotlicommon =1.0.9 =hb7f2c08_8
     - libbrotlidec =1.0.9 =hb7f2c08_8
@@ -191,7 +191,7 @@ requirements:
     - libclang13 =15.0.7 =default_h953c2e9_2
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.1.2 =hbee3ae8_0
-    - libcxx =16.0.5 =hd57cbcb_0
+    - libcxx =16.0.6 =hd57cbcb_0
     - libdeflate =1.18 =hac1461d_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =haf1e3a3_1
@@ -265,7 +265,7 @@ requirements:
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h13ac156_2
     - openssl =3.1.1 =h8a1eda9_1
-    - orc =1.8.3 =hec59b76_1
+    - orc =1.8.4 =hec59b76_0
     - packaging =23.1 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.50.14 =hbce5e75_1
@@ -296,7 +296,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.4 =cpu_py38he866dac_2
-    - pyarrow =12.0.0 =py38h810e5a8_7_cpu
+    - pyarrow =12.0.0 =py38h9790107_8_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3

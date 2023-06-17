@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.16 =h4de0772_1_cpython
+    - python =3.8.17 =h4de0772_0_cpython
   run:
-    - python =3.8.16 =h4de0772_1_cpython
+    - python =3.8.17 =h4de0772_0_cpython
 
     # 19 primary packages :
     - beautifulsoup4 =4.12.2 =pyha770c72_0
@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.0 =py38h634f036_1
     - xgboost =1.7.4 =cpu_py38hc22ac66_2
 
-    # 339 secondary packages :
+    # 337 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.11.1 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -129,12 +129,10 @@ requirements:
     - gensim =4.3.1 =py38hf08cf0d_1
     - getopt-win32 =0.1 =h8ffe710_0
     - gettext =0.21.1 =h5728263_0
-    - gflags =2.2.2 =ha925a31_1004
     - gitdb =4.0.10 =pyhd8ed1ab_0
     - gitpython =3.1.31 =pyhd8ed1ab_0
     - glib =2.76.3 =h12be248_0
     - glib-tools =2.76.3 =h12be248_0
-    - glog =0.6.0 =h4797de2_0
     - graphite2 =1.3.13 =1000
     - graphviz =8.0.5 =h51cb2cd_0
     - greenlet =2.0.2 =py38hd3f51b4_1
@@ -174,7 +172,7 @@ requirements:
     - lcms2 =2.15 =h3e3b177_1
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230125.2 =cxx17_h63175ca_2
-    - libarrow =12.0.0 =hba48b7f_7_cpu
+    - libarrow =12.0.0 =h5f84808_8_cpu
     - libblas =3.9.0 =17_win64_mkl
     - libbrotlicommon =1.0.9 =hcfcfb64_8
     - libbrotlidec =1.0.9 =hcfcfb64_8
@@ -190,15 +188,15 @@ requirements:
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h2ed9e1d_6
     - libglib =2.76.3 =he8f3873_0
-    - libgoogle-cloud =2.11.0 =h00b2bdc_1
-    - libgrpc =1.54.2 =ha177ca7_2
+    - libgoogle-cloud =2.11.0 =hec1a1f0_1
+    - libgrpc =1.55.1 =h0c1e3fa_1
     - libhwloc =2.9.1 =nocuda_h15da153_6
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
     - liblapack =3.9.0 =17_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
-    - libprotobuf =3.21.12 =h12be248_0
+    - libprotobuf =4.23.2 =h1975477_5
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.42.0 =hcfcfb64_0
     - libssh2 =1.11.0 =h7dfc565_0
@@ -243,7 +241,7 @@ requirements:
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha2aaf27_2
     - openssl =3.1.1 =hcfcfb64_1
-    - orc =1.8.3 =hada7b9e_1
+    - orc =1.8.4 =h08d22ad_0
     - packaging =23.1 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.50.14 =hd64ce24_1
@@ -267,13 +265,13 @@ requirements:
     - prompt-toolkit =3.0.38 =pyha770c72_0
     - prompt_toolkit =3.0.38 =hd8ed1ab_0
     - protego =0.2.1 =pyhd8ed1ab_0
-    - protobuf =4.21.12 =py38hd3f51b4_0
+    - protobuf =4.23.2 =py38h2e8c927_1
     - psutil =5.9.5 =py38h91455d4_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.4 =cpu_py38hc22ac66_2
-    - pyarrow =12.0.0 =py38h75459e5_7_cpu
+    - pyarrow =12.0.0 =py38h75459e5_8_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3

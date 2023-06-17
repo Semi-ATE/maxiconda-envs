@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.16 =h3ba56d0_1_cpython
+    - python =3.8.17 =h3ba56d0_0_cpython
   run:
-    - python =3.8.16 =h3ba56d0_1_cpython
+    - python =3.8.17 =h3ba56d0_0_cpython
 
     # 2 primary packages :
     - pyqt =5.15.7 =py38hd4e55b5_3
@@ -57,7 +57,7 @@ requirements:
     - krb5 =1.20.1 =h69eda48_0
     - libclang =15.0.7 =default_h5dc8d65_2
     - libclang13 =15.0.7 =default_hc7183e1_2
-    - libcxx =16.0.5 =h4653b0c_0
+    - libcxx =16.0.6 =h4653b0c_0
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libffi =3.4.2 =h3422bc3_5
     - libglib =2.76.3 =h24e9cb9_0

@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.16 =h4de0772_1_cpython
+    - python =3.8.17 =h4de0772_0_cpython
   run:
-    - python =3.8.16 =h4de0772_1_cpython
+    - python =3.8.17 =h4de0772_0_cpython
 
     # 10 primary packages :
     - biopython =1.81 =py38h91455d4_0
@@ -81,7 +81,7 @@ requirements:
     - glm =0.9.9.8 =h181d51b_0
     - greenlet =2.0.2 =py38hd3f51b4_1
     - griddataformats =1.0.1 =pyhd8ed1ab_0
-    - gsd =2.9.0 =py38h634f036_0
+    - gsd =3.0.0 =py38h634f036_0
     - gst-plugins-base =1.22.3 =h001b923_1
     - gstreamer =1.22.3 =h6b5321d_1
     - h5py =3.8.0 =nompi_py38h442309b_101
