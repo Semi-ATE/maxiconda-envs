@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.7.5 =py39hdc70f33_0
     - cython =0.29.35 =py39h840bb9f_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.78.3 =pyha770c72_0
+    - hypothesis =6.79.0 =pyha770c72_0
     - ipython =8.14.0 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py39h6e9494a_0
@@ -299,7 +299,7 @@ requirements:
     - r-cpp11 =0.4.3 =r42hc72bb7e_1
     - r-crayon =1.5.2 =r42hc72bb7e_2
     - r-crul =1.4.0 =r42h785f33e_1
-    - r-curl =5.0.0 =r42h0100ac3_1
+    - r-curl =5.0.1 =r42h0100ac3_0
     - r-data.table =1.14.8 =r42hc72ff8c_1
     - r-dbi =1.1.3 =r42hc72bb7e_2
     - r-dbplyr =2.3.2 =r42hc72bb7e_1
@@ -396,7 +396,7 @@ requirements:
     - r-ragg =1.2.5 =r42he54449d_2
     - r-randomforest =4.7_1.1 =r42hfe07776_2
     - r-rappdirs =0.3.3 =r42h6dc245f_2
-    - r-rbokeh =0.5.2 =r42hc72bb7e_2
+    - r-rbokeh =0.5.2 =r42hc72bb7e_3
     - r-rcolorbrewer =1.1_3 =r42h785f33e_2
     - r-rcpp =1.0.10 =r42hac7d2d5_1
     - r-rcppeigen =0.3.3.9.3 =r42hfaea39f_1
@@ -455,7 +455,7 @@ requirements:
     - readline =8.2 =h9e318b2_1
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - ruamel.yaml =0.17.31 =py39hdc70f33_0
+    - ruamel.yaml =0.17.32 =py39hdc70f33_0
     - ruamel.yaml.clib =0.2.7 =py39ha30fb19_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-apple-darwin =1.70.0 =h059895a_0
@@ -488,7 +488,7 @@ requirements:
     - urllib3 =2.0.3 =pyhd8ed1ab_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1
-    - websocket-client =1.5.3 =pyhd8ed1ab_0
+    - websocket-client =1.6.0 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xorg-libxau =1.0.11 =h0dc2134_0

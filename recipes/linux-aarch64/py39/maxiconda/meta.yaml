@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.7.5 =py39h7cc1d5f_0
     - cython =0.29.35 =py39h387a81e_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.78.3 =pyha770c72_0
+    - hypothesis =6.79.0 =pyha770c72_0
     - ipython =8.14.0 =pyh41d4057_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py39ha65689a_0
@@ -185,7 +185,7 @@ requirements:
     - libgfortran5 =13.1.0 =h24e4805_0
     - libglib =2.76.3 =h0464669_0
     - libgomp =13.1.0 =h2b4548d_0
-    - libgpg-error =1.46 =haae8ae4_0
+    - libgpg-error =1.47 =h5ce24db_0
     - libiconv =1.17 =h9cdd2b7_0
     - libjpeg-turbo =2.1.5.1 =hb4cce97_0
     - liblapack =3.9.0 =17_linuxaarch64_openblas
@@ -311,7 +311,7 @@ requirements:
     - r-cpp11 =0.4.3 =r42hc72bb7e_1
     - r-crayon =1.5.2 =r42hc72bb7e_2
     - r-crul =1.4.0 =r42h785f33e_1
-    - r-curl =5.0.0 =r42h8aed89a_1
+    - r-curl =5.0.1 =r42h8aed89a_0
     - r-data.table =1.14.8 =r42h25e906a_1
     - r-dbi =1.1.3 =r42hc72bb7e_2
     - r-dbplyr =2.3.2 =r42hc72bb7e_1
@@ -408,7 +408,7 @@ requirements:
     - r-ragg =1.2.5 =r42h26ab081_2
     - r-randomforest =4.7_1.1 =r42hd5055e1_2
     - r-rappdirs =0.3.3 =r42h25e906a_2
-    - r-rbokeh =0.5.2 =r42hc72bb7e_2
+    - r-rbokeh =0.5.2 =r42hc72bb7e_3
     - r-rcolorbrewer =1.1_3 =r42h785f33e_2
     - r-rcpp =1.0.10 =r42h93f32a7_1
     - r-rcppeigen =0.3.3.9.3 =r42h022fc8a_1
@@ -467,7 +467,7 @@ requirements:
     - readline =8.2 =h8fc344f_1
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - ruamel.yaml =0.17.31 =py39h898b7ef_0
+    - ruamel.yaml =0.17.32 =py39h898b7ef_0
     - ruamel.yaml.clib =0.2.7 =py39h24fc6b6_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-aarch64-unknown-linux-gnu =1.70.0 =ha15b78c_0
@@ -500,7 +500,7 @@ requirements:
     - urllib3 =2.0.3 =pyhd8ed1ab_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1
-    - websocket-client =1.5.3 =pyhd8ed1ab_0
+    - websocket-client =1.6.0 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =h31becfc_1

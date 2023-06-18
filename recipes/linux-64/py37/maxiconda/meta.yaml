@@ -185,7 +185,7 @@ requirements:
     - libgfortran5 =13.1.0 =h15d22d2_0
     - libglib =2.76.3 =hebfc3b9_0
     - libgomp =13.1.0 =he5830b7_0
-    - libgpg-error =1.46 =h620e276_0
+    - libgpg-error =1.47 =h71f35ed_0
     - libiconv =1.17 =h166bdaf_0
     - liblapack =3.9.0 =17_linux64_openblas
     - libllvm11 =11.1.0 =he0ac6c6_5
@@ -306,7 +306,7 @@ requirements:
     - r-cpp11 =0.4.3 =r42hc72bb7e_1
     - r-crayon =1.5.2 =r42hc72bb7e_2
     - r-crul =1.4.0 =r42h785f33e_1
-    - r-curl =5.0.0 =r42hf9611b0_1
+    - r-curl =5.0.1 =r42hf9611b0_0
     - r-data.table =1.14.8 =r42h57805ef_1
     - r-dbi =1.1.3 =r42hc72bb7e_2
     - r-dbplyr =2.3.2 =r42hc72bb7e_1
@@ -402,7 +402,7 @@ requirements:
     - r-r6 =2.5.1 =r42hc72bb7e_2
     - r-randomforest =4.7_1.1 =r42h61816a4_2
     - r-rappdirs =0.3.3 =r42h57805ef_2
-    - r-rbokeh =0.5.2 =r42hc72bb7e_2
+    - r-rbokeh =0.5.2 =r42hc72bb7e_3
     - r-rcolorbrewer =1.1_3 =r42h785f33e_2
     - r-rcpp =1.0.10 =r42ha503ecb_1
     - r-rcppeigen =0.3.3.9.3 =r42h08d816e_1
@@ -486,7 +486,7 @@ requirements:
     - urllib3 =2.0.3 =pyhd8ed1ab_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1
-    - websocket-client =1.5.3 =pyhd8ed1ab_0
+    - websocket-client =1.6.0 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =h516909a_0

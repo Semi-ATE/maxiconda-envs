@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.7.5 =py38h91455d4_0
     - cython =0.29.35 =py38hd3f51b4_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.78.3 =pyha770c72_0
+    - hypothesis =6.79.0 =pyha770c72_0
     - ipython =8.12.2 =pyh08f2357_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py38haa244fe_0
@@ -441,7 +441,7 @@ requirements:
     - rapidfuzz =3.1.1 =py38hd3f51b4_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - ruamel.yaml =0.17.31 =py38h91455d4_0
+    - ruamel.yaml =0.17.32 =py38h91455d4_0
     - ruamel.yaml.clib =0.2.7 =py38h91455d4_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-pc-windows-msvc =1.70.0 =h69312b4_0
@@ -476,7 +476,7 @@ requirements:
     - vs2015_runtime =14.34.31931 =hed1258a_16
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1
-    - websocket-client =1.5.3 =pyhd8ed1ab_0
+    - websocket-client =1.6.0 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py38haa244fe_5
     - winpty =0.4.3 =4
