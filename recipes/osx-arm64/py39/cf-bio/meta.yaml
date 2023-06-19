@@ -27,8 +27,8 @@ requirements:
     # 10 primary packages :
     - biopython =1.81 =py39h02fc5c5_0
     - matplotlib =3.7.1 =py39hdf13c20_0
-    - mdanalysis =2.5.0 =py39ha1bfa81_0
-    - numpy =1.24.3 =py39h485cf63_0
+    - mdanalysis =2.5.0 =py39ha1bfa81_1
+    - numpy =1.25.0 =py39h485cf63_0
     - pandas =2.0.2 =py39h6b13a34_0
     - pymol-open-source =2.5.0 =py39h573d8f3_6
     - pyqt =5.15.7 =py39h7fba1b6_3
@@ -83,7 +83,7 @@ requirements:
     - glm =0.9.9.8 =h1995070_0
     - greenlet =2.0.2 =py39hb198ff7_1
     - griddataformats =1.0.1 =pyhd8ed1ab_0
-    - gsd =3.0.0 =py39h8a366b7_0
+    - gsd =2.9.0 =py39h8a366b7_0
     - gst-plugins-base =1.22.3 =h27255cc_1
     - gstreamer =1.22.3 =he42f4ea_1
     - h5py =3.8.0 =nompi_py39hbcdb4fd_101
@@ -172,7 +172,7 @@ requirements:
     - pillow =9.5.0 =py39h1641143_1
     - pip =23.1.2 =pyhd8ed1ab_0
     - pixman =0.40.0 =h27ca646_0
-    - platformdirs =3.5.3 =pyhd8ed1ab_0
+    - platformdirs =3.6.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pmw =2.0.1 =py39h2804cbe_1007
     - pooch =1.7.0 =pyha770c72_3
@@ -185,7 +185,7 @@ requirements:
     - pycairo =1.23.0 =py39h8c587d4_0
     - pyedr =0.7.1 =pyhd8ed1ab_0
     - pygments =2.15.1 =pyhd8ed1ab_0
-    - pyparsing =3.0.9 =pyhd8ed1ab_0
+    - pyparsing =3.1.0 =pyhd8ed1ab_0
     - pyqt5-sip =12.11.0 =py39h23fbdae_3
     - pysocks =1.7.1 =py39h2804cbe_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
