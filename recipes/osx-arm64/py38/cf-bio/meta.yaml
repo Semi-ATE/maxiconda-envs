@@ -32,7 +32,7 @@ requirements:
     - pandas =2.0.2 =py38hefb543e_0
     - pymol-open-source =2.5.0 =py38h00554c9_6
     - pyqt =5.15.7 =py38hd4e55b5_3
-    - rdkit =2023.03.1 =py38h35c3679_0
+    - rdkit =2023.03.2 =py38h35c3679_0
     - scipy =1.10.1 =py38h038e806_3
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
@@ -86,7 +86,7 @@ requirements:
     - gsd =3.0.0 =py38h58b515d_0
     - gst-plugins-base =1.22.3 =h27255cc_1
     - gstreamer =1.22.3 =he42f4ea_1
-    - h5py =3.8.0 =nompi_py38hd3ff8df_101
+    - h5py =3.9.0 =nompi_py38hbfe8551_100
     - hdf4 =4.2.15 =h8111dcc_6
     - hdf5 =1.14.0 =nompi_h6b85c65_103
     - icu =72.1 =he12128b_0
@@ -152,8 +152,8 @@ requirements:
     - mrcfile =1.4.3 =pyhd8ed1ab_0
     - msgpack-python =1.0.5 =py38h9dc3d6a_0
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - mysql-common =8.0.32 =h7b5afe1_3
-    - mysql-libs =8.0.32 =hb292caa_3
+    - mysql-common =8.0.33 =h7b5afe1_0
+    - mysql-libs =8.0.33 =hb292caa_0
     - ncurses =6.4 =h7ea286d_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - netcdf4 =1.6.4 =nompi_py38h508e367_100
