@@ -36,7 +36,7 @@ requirements:
     - scipy =1.10.1 =py39h6183b62_3
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
-    # 234 secondary packages :
+    # 236 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h166bdaf_0
@@ -80,6 +80,7 @@ requirements:
     - fonts-conda-forge =1 =0
     - fonttools =4.40.0 =py39hd1e30aa_0
     - freetype =2.12.1 =hca18f0e_1
+    - freetype-py =2.4.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h27087fc_0
     - glew =2.1.0 =h9c3ff4c_2
     - glib =2.76.3 =hfc55251_0
@@ -220,12 +221,13 @@ requirements:
     - pyzmq =25.1.0 =py39hb257651_0
     - qt-main =5.15.8 =h01ceb2d_13
     - readline =8.2 =h8228510_1
-    - reportlab =3.6.13 =py39h12ba270_0
+    - reportlab =4.0.0 =py39hd1e30aa_0
     - requests =2.31.0 =pyhd8ed1ab_0
+    - rlpycairo =0.2.0 =pyhd8ed1ab_0
     - scikit-learn =1.2.2 =py39hc236052_2
     - seaborn =0.12.2 =hd8ed1ab_0
     - seaborn-base =0.12.2 =pyhd8ed1ab_0
-    - setuptools =67.7.2 =pyhd8ed1ab_0
+    - setuptools =68.0.0 =pyhd8ed1ab_0
     - sip =6.7.9 =py39h3d6467e_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.1.10 =h9fff704_0
