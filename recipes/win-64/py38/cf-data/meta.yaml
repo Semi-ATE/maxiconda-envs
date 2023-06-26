@@ -136,8 +136,8 @@ requirements:
     - graphite2 =1.3.13 =1000
     - graphviz =8.0.5 =h51cb2cd_0
     - greenlet =2.0.2 =py38hd3f51b4_1
-    - gst-plugins-base =1.22.3 =h001b923_1
-    - gstreamer =1.22.3 =h6b5321d_1
+    - gst-plugins-base =1.22.4 =h001b923_0
+    - gstreamer =1.22.4 =hb4038d2_0
     - gts =0.7.6 =h6b5321d_4
     - harfbuzz =7.3.0 =h196d34a_0
     - htmlmin =0.1.12 =py_1
@@ -162,7 +162,7 @@ requirements:
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - jmespath =1.0.1 =pyhd8ed1ab_0
     - joblib =1.2.0 =pyhd8ed1ab_0
-    - jupyter_client =8.2.0 =pyhd8ed1ab_0
+    - jupyter_client =8.3.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py38haa244fe_0
     - jupyterlab_widgets =3.0.7 =pyhd8ed1ab_1
     - kiwisolver =1.4.4 =py38hb1fd069_1
@@ -256,7 +256,7 @@ requirements:
     - pillow =9.5.0 =py38ha7eb54a_1
     - pip =23.1.2 =pyhd8ed1ab_0
     - pixman =0.40.0 =h8ffe710_0
-    - platformdirs =3.6.0 =pyhd8ed1ab_0
+    - platformdirs =3.8.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyha770c72_3
     - preshed =3.0.8 =py38hd3f51b4_1

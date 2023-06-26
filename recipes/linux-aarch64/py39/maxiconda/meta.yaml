@@ -28,10 +28,10 @@ requirements:
     - aiohttp =3.8.4 =py39h898b7ef_1
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
-    - bitarray =2.7.5 =py39h7cc1d5f_0
+    - bitarray =2.7.6 =py39h7cc1d5f_0
     - cython =0.29.35 =py39h387a81e_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.79.1 =pyha770c72_0
+    - hypothesis =6.79.2 =pyha770c72_0
     - ipython =8.14.0 =pyh41d4057_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py39ha65689a_0
@@ -44,7 +44,7 @@ requirements:
     - pydantic =1.10.9 =py39h898b7ef_0
     - pyqt =5.15.7 =py39hd020858_3
     - pyserial =3.5 =pyhd8ed1ab_0
-    - pytest =7.3.2 =pyhd8ed1ab_1
+    - pytest =7.4.0 =pyhd8ed1ab_0
     - pyyaml =6.0 =py39h0fd3b05_5
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
@@ -147,7 +147,7 @@ requirements:
     - ipython_genutils =0.2.0 =py_1
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jsonschema =4.17.3 =pyhd8ed1ab_0
-    - jupyter_client =8.2.0 =pyhd8ed1ab_0
+    - jupyter_client =8.3.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py39h4420490_0
     - jupyter_events =0.6.3 =pyhd8ed1ab_0
     - jupyter_server =2.6.0 =pyhd8ed1ab_0
@@ -257,7 +257,7 @@ requirements:
     - pixman =0.40.0 =hb9de7d4_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
-    - platformdirs =3.6.0 =pyhd8ed1ab_0
+    - platformdirs =3.8.0 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py39ha65689a_4
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyha770c72_3
@@ -297,7 +297,7 @@ requirements:
     - r-bslib =0.5.0 =r42hc72bb7e_1
     - r-cachem =1.0.8 =r42h25e906a_1
     - r-callr =3.7.3 =r42hc72bb7e_1
-    - r-caret =6.0_94 =r42h4fed366_0
+    - r-caret =6.0_94 =r42h25e906a_1
     - r-cellranger =1.1.0 =r42hc72bb7e_1006
     - r-class =7.3_22 =r42h25e906a_1
     - r-cli =3.6.1 =r42h93f32a7_1
