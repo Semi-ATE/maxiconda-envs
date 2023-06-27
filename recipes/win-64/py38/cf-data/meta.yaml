@@ -29,7 +29,7 @@ requirements:
     - bokeh =3.1.1 =pyhd8ed1ab_0
     - lightgbm =3.3.5 =py38hd3f51b4_0
     - matplotlib =3.7.1 =py38haa244fe_0
-    - numpy =1.24.3 =py38h1d91fd2_0
+    - numpy =1.24.4 =py38h1d91fd2_0
     - pandas =2.0.2 =py38hf08cf0d_0
     - plotly =5.15.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
@@ -67,7 +67,7 @@ requirements:
     - aws-sdk-cpp =1.10.57 =ha442f66_14
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
+    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - bcrypt =3.2.2 =py38h91455d4_1
     - blinker =1.6.2 =pyhd8ed1ab_0
     - bottleneck =1.3.7 =py38hbaf524b_0
@@ -152,7 +152,7 @@ requirements:
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - intel-openmp =2023.1.0 =h57928b3_46319
-    - ipykernel =6.23.2 =pyh6817e22_0
+    - ipykernel =6.23.3 =pyh6817e22_0
     - ipython =8.12.2 =pyh08f2357_0
     - ipywidgets =8.0.6 =pyhd8ed1ab_0
     - itemadapter =0.8.0 =pyhd8ed1ab_0
@@ -172,7 +172,7 @@ requirements:
     - lcms2 =2.15 =h3e3b177_1
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230125.2 =cxx17_h63175ca_2
-    - libarrow =12.0.0 =h5f84808_8_cpu
+    - libarrow =12.0.0 =h71d8ae8_9_cpu
     - libblas =3.9.0 =17_win64_mkl
     - libbrotlicommon =1.0.9 =hcfcfb64_8
     - libbrotlidec =1.0.9 =hcfcfb64_8
@@ -188,7 +188,7 @@ requirements:
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h2ed9e1d_6
     - libglib =2.76.3 =he8f3873_0
-    - libgoogle-cloud =2.11.0 =hec1a1f0_1
+    - libgoogle-cloud =2.12.0 =hec1a1f0_0
     - libgrpc =1.55.1 =h0c1e3fa_1
     - libhwloc =2.9.1 =nocuda_h15da153_6
     - libiconv =1.17 =h8ffe710_0
@@ -211,7 +211,7 @@ requirements:
     - libxml2 =2.11.4 =hc3477c8_0
     - libxslt =1.1.37 =h6070c61_1
     - libzlib =1.2.13 =hcfcfb64_5
-    - llvmlite =0.40.0 =py38h19421c1_0
+    - llvmlite =0.40.1 =py38h19421c1_0
     - lxml =4.9.2 =py38h5a3a0f9_1
     - lz4-c =1.9.4 =hcfcfb64_0
     - m2w64-gcc-libgfortran =5.3.0 =6
@@ -236,7 +236,7 @@ requirements:
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - networkx =3.1 =pyhd8ed1ab_0
     - nltk =3.8.1 =pyhd8ed1ab_0
-    - numba =0.57.0 =py38hb182ae8_2
+    - numba =0.57.1 =py38hb182ae8_0
     - numexpr =2.7.3 =py38h5d928e2_2
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha2aaf27_2
@@ -271,7 +271,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.4 =cpu_py38hc22ac66_2
-    - pyarrow =12.0.0 =py38h75459e5_8_cpu
+    - pyarrow =12.0.0 =py38h75459e5_9_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -284,7 +284,7 @@ requirements:
     - pyldavis =3.4.1 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py38hbc1c497_2
     - pynndescent =0.5.10 =pyh1a96a4e_0
-    - pyod =1.0.9 =pyhd8ed1ab_0
+    - pyod =1.1.0 =pyhd8ed1ab_0
     - pyopenssl =23.2.0 =pyhd8ed1ab_1
     - pyparsing =3.1.0 =pyhd8ed1ab_0
     - pyqt5-sip =12.11.0 =py38hd3f51b4_3
@@ -357,7 +357,7 @@ requirements:
     - waitress =2.1.2 =pyhd8ed1ab_0
     - wasabi =1.1.2 =py38haa244fe_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
-    - websocket-client =1.6.0 =pyhd8ed1ab_0
+    - websocket-client =1.6.1 =pyhd8ed1ab_0
     - werkzeug =2.3.6 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
     - widgetsnbextension =4.0.7 =pyhd8ed1ab_0

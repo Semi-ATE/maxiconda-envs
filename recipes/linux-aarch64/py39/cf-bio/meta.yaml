@@ -31,7 +31,7 @@ requirements:
     - pandas =2.0.2 =py39h61474ce_0
     - pyqt =5.15.7 =py39hd020858_3
     - rdkit =2022.03.1 =py39h3f581e4_0
-    - scipy =1.10.1 =py39hf88902c_3
+    - scipy =1.11.0 =py39hf88902c_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
     # 201 secondary packages :
@@ -41,7 +41,7 @@ requirements:
     - attr =2.5.1 =h4e544f5_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
+    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - boost =1.74.0 =py39ha253240_5
     - boost-cpp =1.74.0 =ha1c1135_8
     - brotli =1.0.9 =h4e544f5_8
@@ -86,7 +86,7 @@ requirements:
     - importlib-resources =5.12.0 =pyhd8ed1ab_0
     - importlib_metadata =6.7.0 =hd8ed1ab_0
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
-    - ipykernel =6.23.2 =pyh210e3f2_0
+    - ipykernel =6.23.3 =pyh71e2992_0
     - ipython =8.14.0 =pyh41d4057_0
     - jack =1.9.22 =hf8b18a5_0
     - jedi =0.18.2 =pyhd8ed1ab_0
@@ -114,7 +114,7 @@ requirements:
     - libevent =2.1.10 =h4f30969_4
     - libexpat =2.5.0 =hd600fc2_1
     - libffi =3.4.2 =h3557bc0_5
-    - libflac =1.4.2 =h4de3ea5_0
+    - libflac =1.4.3 =h2f0025b_0
     - libgcc-ng =13.1.0 =h2b4548d_0
     - libgcrypt =1.10.1 =h4e544f5_0
     - libgfortran-ng =13.1.0 =he9431aa_0

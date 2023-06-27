@@ -75,7 +75,7 @@ requirements:
     - attrs =23.1.0 =pyh71513ae_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
+    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py37hcc03f2d_5
     - bleach =6.0.0 =pyhd8ed1ab_0
     - brotli =1.0.9 =hcfcfb64_8
@@ -226,7 +226,7 @@ requirements:
     - pysocks =1.7.1 =py37h03978a9_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-fastjsonschema =2.17.1 =pyhd8ed1ab_0
-    - python-utils =3.6.0 =pyhd8ed1ab_0
+    - python-utils =3.7.0 =pyhd8ed1ab_0
     - python_abi =3.7 =3_cp37m
     - pytz =2023.3 =pyhd8ed1ab_0
     - pywin32 =303 =py37hcc03f2d_0
@@ -439,7 +439,7 @@ requirements:
     - vs2015_runtime =14.36.32532 =h05e6639_16
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1
-    - websocket-client =1.6.0 =pyhd8ed1ab_0
+    - websocket-client =1.6.1 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py37h03978a9_4
     - winpty =0.4.3 =4

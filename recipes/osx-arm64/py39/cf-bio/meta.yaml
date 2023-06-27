@@ -33,7 +33,7 @@ requirements:
     - pymol-open-source =2.5.0 =py39h573d8f3_6
     - pyqt =5.15.7 =py39h7fba1b6_3
     - rdkit =2023.03.2 =py39hcba3512_0
-    - scipy =1.10.1 =py39ha6b2cbd_3
+    - scipy =1.11.0 =py39ha6b2cbd_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
     # 196 secondary packages :
@@ -41,7 +41,7 @@ requirements:
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.4 =pyhd8ed1ab_0
+    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - blosc =1.21.4 =hc338f07_0
     - boost =1.78.0 =py39h99de9ae_4
     - boost-cpp =1.78.0 =h9ed8d21_3
@@ -96,7 +96,7 @@ requirements:
     - importlib-resources =5.12.0 =pyhd8ed1ab_0
     - importlib_metadata =6.7.0 =hd8ed1ab_0
     - importlib_resources =5.12.0 =pyhd8ed1ab_0
-    - ipykernel =6.23.2 =pyh5fb750a_0
+    - ipykernel =6.23.3 =pyh5fb750a_0
     - ipython =8.14.0 =pyhd1c38e8_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - joblib =1.2.0 =pyhd8ed1ab_0
