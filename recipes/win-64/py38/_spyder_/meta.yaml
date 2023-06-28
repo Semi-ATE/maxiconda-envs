@@ -52,8 +52,8 @@ requirements:
     - binaryornot =0.4.4 =py_1
     - black =23.3.0 =py38haa244fe_1
     - bleach =6.0.0 =pyhd8ed1ab_0
-    - brotli =1.0.9 =hcfcfb64_8
-    - brotli-bin =1.0.9 =hcfcfb64_8
+    - brotli =1.0.9 =hcfcfb64_9
+    - brotli-bin =1.0.9 =hcfcfb64_9
     - bzip2 =1.0.8 =h8ffe710_4
     - ca-certificates =2023.5.7 =h56e8100_0
     - certifi =2023.5.7 =pyhd8ed1ab_0
@@ -115,9 +115,9 @@ requirements:
     - lcms2 =2.15 =h3e3b177_1
     - lerc =4.0.0 =h63175ca_0
     - libblas =3.9.0 =17_win64_mkl
-    - libbrotlicommon =1.0.9 =hcfcfb64_8
-    - libbrotlidec =1.0.9 =hcfcfb64_8
-    - libbrotlienc =1.0.9 =hcfcfb64_8
+    - libbrotlicommon =1.0.9 =hcfcfb64_9
+    - libbrotlidec =1.0.9 =hcfcfb64_9
+    - libbrotlienc =1.0.9 =hcfcfb64_9
     - libcblas =3.9.0 =17_win64_mkl
     - libclang =15.0.7 =default_h77d9078_2
     - libclang13 =15.0.7 =default_h77d9078_2
@@ -213,12 +213,12 @@ requirements:
     - pytoolconfig =1.2.5 =pyhd8ed1ab_0
     - pytz =2023.3 =pyhd8ed1ab_0
     - pywin32 =304 =py38hd3f51b4_2
-    - pywin32-ctypes =0.2.1 =py38haa244fe_0
+    - pywin32-ctypes =0.2.2 =py38haa244fe_0
     - pyyaml =6.0 =py38h91455d4_5
     - pyzmq =25.1.0 =py38ha85f68a_0
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.8 =h2c8576c_13
+    - qt-main =5.15.8 =h2c8576c_14
     - qt-webengine =5.15.8 =h5b1ea0b_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.4.3 =pyhd8ed1ab_0

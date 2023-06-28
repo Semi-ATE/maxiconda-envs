@@ -31,7 +31,7 @@ requirements:
     # 137 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
-    - alsa-lib =1.2.8 =h166bdaf_0
+    - alsa-lib =1.2.9 =hd590300_0
     - attr =2.5.1 =h166bdaf_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -57,8 +57,8 @@ requirements:
     - glib =2.76.3 =hfc55251_0
     - glib-tools =2.76.3 =hfc55251_0
     - graphite2 =1.3.13 =h58526e2_1001
-    - gst-plugins-base =1.22.3 =h938bd60_1
-    - gstreamer =1.22.3 =h977cf35_1
+    - gst-plugins-base =1.22.4 =hf7dbed1_0
+    - gstreamer =1.22.4 =h98fc4e7_0
     - harfbuzz =7.3.0 =hdb3a94d_0
     - icu =72.1 =hcb278e6_0
     - ipykernel =6.16.2 =pyh210e3f2_0
@@ -131,7 +131,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.7 =3_cp37m
     - pyzmq =24.0.1 =py37h0c0c2a8_0
-    - qt-main =5.15.8 =h01ceb2d_13
+    - qt-main =5.15.8 =hf9e2b05_14
     - readline =8.2 =h8228510_1
     - setuptools =68.0.0 =pyhd8ed1ab_0
     - sip =6.7.2 =py37hd23a5d3_0

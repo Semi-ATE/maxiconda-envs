@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.7.6 =py39h7cc1d5f_0
     - cython =0.29.35 =py39h387a81e_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.79.3 =pyha770c72_0
+    - hypothesis =6.79.4 =pyha770c72_0
     - ipython =8.14.0 =pyh41d4057_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py39ha65689a_0
@@ -56,7 +56,7 @@ requirements:
     - scipy =1.11.0 =py39hf88902c_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.16 =py39h7cc1d5f_0
+    - sqlalchemy =2.0.17 =py39h7cc1d5f_0
     - sqlite =3.42.0 =h3b3482f_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.65.0 =pyhd8ed1ab_1
@@ -83,8 +83,8 @@ requirements:
     - backports.zoneinfo =0.2.1 =py39h4420490_7
     - binutils_impl_linux-aarch64 =2.40 =h870a726_0
     - bleach =6.0.0 =pyhd8ed1ab_0
-    - brotli =1.0.9 =h4e544f5_8
-    - brotli-bin =1.0.9 =h4e544f5_8
+    - brotli =1.0.9 =h4e544f5_9
+    - brotli-bin =1.0.9 =h4e544f5_9
     - bwidget =1.9.14 =h8af1aa0_1
     - bzip2 =1.0.8 =hf897c2e_4
     - c-ares =1.19.1 =h31becfc_0
@@ -150,7 +150,7 @@ requirements:
     - jupyter_client =8.3.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py39h4420490_0
     - jupyter_events =0.6.3 =pyhd8ed1ab_0
-    - jupyter_server =2.6.0 =pyhd8ed1ab_0
+    - jupyter_server =2.7.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - kernel-headers_linux-aarch64 =4.18.0 =h5b4a56d_13
@@ -162,9 +162,9 @@ requirements:
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
     - libblas =3.9.0 =17_linuxaarch64_openblas
-    - libbrotlicommon =1.0.9 =h4e544f5_8
-    - libbrotlidec =1.0.9 =h4e544f5_8
-    - libbrotlienc =1.0.9 =h4e544f5_8
+    - libbrotlicommon =1.0.9 =h4e544f5_9
+    - libbrotlidec =1.0.9 =h4e544f5_9
+    - libbrotlienc =1.0.9 =h4e544f5_9
     - libcap =2.67 =h8246067_0
     - libcblas =3.9.0 =17_linuxaarch64_openblas
     - libclang =15.0.7 =default_hdf9a116_2

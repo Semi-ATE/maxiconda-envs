@@ -32,7 +32,7 @@ requirements:
     - pyyaml =6.0 =py39h02fc5c5_5
     - requests =2.31.0 =pyhd8ed1ab_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.16 =py39h0f82c59_0
+    - sqlalchemy =2.0.17 =py39h0f82c59_0
     - twisted =22.10.0 =py39h02fc5c5_0
 
     # 123 secondary packages :
@@ -47,8 +47,8 @@ requirements:
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py39h2804cbe_7
     - bcrypt =3.2.2 =py39h02fc5c5_1
-    - brotli =1.0.9 =h1a8c8d9_8
-    - brotli-bin =1.0.9 =h1a8c8d9_8
+    - brotli =1.0.9 =h1a8c8d9_9
+    - brotli-bin =1.0.9 =h1a8c8d9_9
     - bzip2 =1.0.8 =h3422bc3_4
     - ca-certificates =2023.5.7 =hf0a4a13_0
     - certifi =2023.5.7 =pyhd8ed1ab_0
@@ -79,9 +79,9 @@ requirements:
     - jupyter_client =8.3.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py39h2804cbe_0
     - krb5 =1.20.1 =h69eda48_0
-    - libbrotlicommon =1.0.9 =h1a8c8d9_8
-    - libbrotlidec =1.0.9 =h1a8c8d9_8
-    - libbrotlienc =1.0.9 =h1a8c8d9_8
+    - libbrotlicommon =1.0.9 =h1a8c8d9_9
+    - libbrotlidec =1.0.9 =h1a8c8d9_9
+    - libbrotlienc =1.0.9 =h1a8c8d9_9
     - libclang =15.0.7 =default_h5dc8d65_2
     - libclang13 =15.0.7 =default_hc7183e1_2
     - libcxx =16.0.6 =h4653b0c_0
@@ -132,7 +132,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =3_cp39
     - pyzmq =25.1.0 =py39h1e134f0_0
-    - qt-main =5.15.8 =hcac2fde_13
+    - qt-main =5.15.8 =hcac2fde_14
     - readline =8.2 =h92ec313_1
     - service_identity =18.1.0 =py_0
     - setuptools =68.0.0 =pyhd8ed1ab_0

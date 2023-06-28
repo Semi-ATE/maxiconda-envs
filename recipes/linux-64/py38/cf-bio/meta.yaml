@@ -39,7 +39,7 @@ requirements:
     # 235 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
-    - alsa-lib =1.2.8 =h166bdaf_0
+    - alsa-lib =1.2.9 =hd590300_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - attr =2.5.1 =h166bdaf_1
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -48,8 +48,8 @@ requirements:
     - blosc =1.21.4 =h0f2a231_0
     - boost =1.78.0 =py38h4e30db6_4
     - boost-cpp =1.78.0 =h6582d0a_3
-    - brotli =1.0.9 =h166bdaf_8
-    - brotli-bin =1.0.9 =h166bdaf_8
+    - brotli =1.0.9 =h166bdaf_9
+    - brotli-bin =1.0.9 =h166bdaf_9
     - bzip2 =1.0.8 =h7f98852_4
     - c-ares =1.19.1 =hd590300_0
     - ca-certificates =2023.5.7 =hbcca054_0
@@ -90,8 +90,8 @@ requirements:
     - greenlet =2.0.2 =py38h17151c0_1
     - griddataformats =1.0.1 =pyhd8ed1ab_0
     - gsd =3.0.1 =py38h31356c5_0
-    - gst-plugins-base =1.22.3 =h938bd60_1
-    - gstreamer =1.22.3 =h977cf35_1
+    - gst-plugins-base =1.22.4 =hf7dbed1_0
+    - gstreamer =1.22.4 =h98fc4e7_0
     - h5py =3.9.0 =nompi_py38h89e2d6c_100
     - harfbuzz =7.3.0 =hdb3a94d_0
     - hdf4 =4.2.15 =h501b40f_6
@@ -117,9 +117,9 @@ requirements:
     - lerc =4.0.0 =h27087fc_0
     - libaec =1.0.6 =hcb278e6_1
     - libblas =3.9.0 =17_linux64_openblas
-    - libbrotlicommon =1.0.9 =h166bdaf_8
-    - libbrotlidec =1.0.9 =h166bdaf_8
-    - libbrotlienc =1.0.9 =h166bdaf_8
+    - libbrotlicommon =1.0.9 =h166bdaf_9
+    - libbrotlidec =1.0.9 =h166bdaf_9
+    - libbrotlienc =1.0.9 =h166bdaf_9
     - libcap =2.67 =he9d0100_0
     - libcblas =3.9.0 =17_linux64_openblas
     - libclang =15.0.7 =default_h7634d5b_2
@@ -219,7 +219,7 @@ requirements:
     - pytng =0.3.0 =py38hcf6129a_0
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyzmq =25.1.0 =py38h509eb50_0
-    - qt-main =5.15.8 =h01ceb2d_13
+    - qt-main =5.15.8 =hf9e2b05_14
     - readline =8.2 =h8228510_1
     - reportlab =4.0.0 =py38h01eb140_0
     - requests =2.31.0 =pyhd8ed1ab_0
@@ -231,7 +231,7 @@ requirements:
     - sip =6.7.9 =py38h17151c0_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.1.10 =h9fff704_0
-    - sqlalchemy =2.0.16 =py38h01eb140_0
+    - sqlalchemy =2.0.17 =py38h01eb140_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.0 =py38h31356c5_1
     - threadpoolctl =3.1.0 =pyh8a188c0_0

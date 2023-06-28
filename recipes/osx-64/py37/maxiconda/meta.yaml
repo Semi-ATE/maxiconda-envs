@@ -79,8 +79,8 @@ requirements:
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py37h994c40b_5
     - bleach =6.0.0 =pyhd8ed1ab_0
-    - brotli =1.0.9 =hb7f2c08_8
-    - brotli-bin =1.0.9 =hb7f2c08_8
+    - brotli =1.0.9 =hb7f2c08_9
+    - brotli-bin =1.0.9 =hb7f2c08_9
     - bwidget =1.9.14 =h694c41f_1
     - bzip2 =1.0.8 =h0d85af4_4
     - c-ares =1.19.1 =h0dc2134_0
@@ -155,9 +155,9 @@ requirements:
     - ld64_osx-64 =609 =hbfe4790_13
     - lerc =4.0.0 =hb486fe8_0
     - libblas =3.9.0 =17_osx64_openblas
-    - libbrotlicommon =1.0.9 =hb7f2c08_8
-    - libbrotlidec =1.0.9 =hb7f2c08_8
-    - libbrotlienc =1.0.9 =hb7f2c08_8
+    - libbrotlicommon =1.0.9 =hb7f2c08_9
+    - libbrotlidec =1.0.9 =hb7f2c08_9
+    - libbrotlienc =1.0.9 =hb7f2c08_9
     - libcblas =3.9.0 =17_osx64_openblas
     - libclang =15.0.7 =default_hdb78580_2
     - libclang-cpp16 =16.0.6 =default_h762fdd7_0
@@ -252,7 +252,7 @@ requirements:
     - python_abi =3.7 =3_cp37m
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyzmq =24.0.1 =py37haa7bc41_0
-    - qt-main =5.15.8 =h23c57ac_13
+    - qt-main =5.15.8 =h23c57ac_14
     - qtpy =2.3.1 =pyhd8ed1ab_0
     - r-askpass =1.1 =r42h6dc245f_4
     - r-assertthat =0.2.1 =r42hc72bb7e_4

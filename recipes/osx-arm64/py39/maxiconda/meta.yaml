@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - cython =0.29.35 =py39hb198ff7_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.79.3 =pyha770c72_0
+    - hypothesis =6.79.4 =pyha770c72_0
     - ipython =8.14.0 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.1 =py39hdf13c20_0
@@ -55,7 +55,7 @@ requirements:
     - scipy =1.11.0 =py39ha6b2cbd_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.16 =py39h0f82c59_0
+    - sqlalchemy =2.0.17 =py39h0f82c59_0
     - sqlite =3.42.0 =h203b68d_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.65.0 =pyhd8ed1ab_1
@@ -78,8 +78,8 @@ requirements:
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py39h2804cbe_7
     - bleach =6.0.0 =pyhd8ed1ab_0
-    - brotli =1.0.9 =h1a8c8d9_8
-    - brotli-bin =1.0.9 =h1a8c8d9_8
+    - brotli =1.0.9 =h1a8c8d9_9
+    - brotli-bin =1.0.9 =h1a8c8d9_9
     - bwidget =1.9.14 =hce30654_1
     - bzip2 =1.0.8 =h3422bc3_4
     - c-ares =1.19.1 =hb547adb_0
@@ -152,7 +152,7 @@ requirements:
     - jupyter_client =8.3.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py39h2804cbe_0
     - jupyter_events =0.6.3 =pyhd8ed1ab_0
-    - jupyter_server =2.6.0 =pyhd8ed1ab_0
+    - jupyter_server =2.7.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py39haaf3ac1_1
@@ -161,9 +161,9 @@ requirements:
     - ld64_osx-arm64 =609 =h297e91e_13
     - lerc =4.0.0 =h9a09cb3_0
     - libblas =3.9.0 =17_osxarm64_openblas
-    - libbrotlicommon =1.0.9 =h1a8c8d9_8
-    - libbrotlidec =1.0.9 =h1a8c8d9_8
-    - libbrotlienc =1.0.9 =h1a8c8d9_8
+    - libbrotlicommon =1.0.9 =h1a8c8d9_9
+    - libbrotlidec =1.0.9 =h1a8c8d9_9
+    - libbrotlienc =1.0.9 =h1a8c8d9_9
     - libcblas =3.9.0 =17_osxarm64_openblas
     - libclang =15.0.7 =default_h5dc8d65_2
     - libclang-cpp16 =16.0.6 =default_h07b2d96_0
@@ -270,7 +270,7 @@ requirements:
     - python_abi =3.9 =3_cp39
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyzmq =25.1.0 =py39h1e134f0_0
-    - qt-main =5.15.8 =hcac2fde_13
+    - qt-main =5.15.8 =hcac2fde_14
     - qtpy =2.3.1 =pyhd8ed1ab_0
     - r-askpass =1.1 =r42h21dc0da_4
     - r-assertthat =0.2.1 =r42hc72bb7e_4

@@ -44,8 +44,8 @@ requirements:
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - boost =1.74.0 =py38h98a32fd_5
     - boost-cpp =1.74.0 =ha1c1135_8
-    - brotli =1.0.9 =h4e544f5_8
-    - brotli-bin =1.0.9 =h4e544f5_8
+    - brotli =1.0.9 =h4e544f5_9
+    - brotli-bin =1.0.9 =h4e544f5_9
     - bzip2 =1.0.8 =hf897c2e_4
     - ca-certificates =2023.5.7 =hcefe29a_0
     - cairo =1.16.0 =hd19fb6e_1014
@@ -100,9 +100,9 @@ requirements:
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
     - libblas =3.9.0 =17_linuxaarch64_openblas
-    - libbrotlicommon =1.0.9 =h4e544f5_8
-    - libbrotlidec =1.0.9 =h4e544f5_8
-    - libbrotlienc =1.0.9 =h4e544f5_8
+    - libbrotlicommon =1.0.9 =h4e544f5_9
+    - libbrotlidec =1.0.9 =h4e544f5_9
+    - libbrotlienc =1.0.9 =h4e544f5_9
     - libcap =2.67 =h8246067_0
     - libcblas =3.9.0 =17_linuxaarch64_openblas
     - libclang =15.0.7 =default_hdf9a116_2
@@ -198,7 +198,7 @@ requirements:
     - setuptools =68.0.0 =pyhd8ed1ab_0
     - sip =6.7.9 =py38hed0da46_0
     - six =1.16.0 =pyh6c4a22f_0
-    - sqlalchemy =2.0.16 =py38hea3b116_0
+    - sqlalchemy =2.0.17 =py38hea3b116_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tk =8.6.12 =hd8af866_0
     - toml =0.10.2 =pyhd8ed1ab_0

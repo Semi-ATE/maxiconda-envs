@@ -45,8 +45,8 @@ requirements:
     - blosc =1.21.4 =heccf04b_0
     - boost =1.78.0 =py38he49a349_4
     - boost-cpp =1.78.0 =hf5ba120_3
-    - brotli =1.0.9 =hb7f2c08_8
-    - brotli-bin =1.0.9 =hb7f2c08_8
+    - brotli =1.0.9 =hb7f2c08_9
+    - brotli-bin =1.0.9 =hb7f2c08_9
     - bzip2 =1.0.8 =h0d85af4_4
     - c-ares =1.19.1 =h0dc2134_0
     - ca-certificates =2023.5.7 =h8857fd0_0
@@ -108,9 +108,9 @@ requirements:
     - lerc =4.0.0 =hb486fe8_0
     - libaec =1.0.6 =hf0c8a7f_1
     - libblas =3.9.0 =17_osx64_openblas
-    - libbrotlicommon =1.0.9 =hb7f2c08_8
-    - libbrotlidec =1.0.9 =hb7f2c08_8
-    - libbrotlienc =1.0.9 =hb7f2c08_8
+    - libbrotlicommon =1.0.9 =hb7f2c08_9
+    - libbrotlidec =1.0.9 =hb7f2c08_9
+    - libbrotlienc =1.0.9 =hb7f2c08_9
     - libcblas =3.9.0 =17_osx64_openblas
     - libclang =15.0.7 =default_hdb78580_2
     - libclang13 =15.0.7 =default_h953c2e9_2
@@ -195,7 +195,7 @@ requirements:
     - pytng =0.3.0 =py38hadfd06d_0
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyzmq =25.1.0 =py38h3b70857_0
-    - qt-main =5.15.8 =h23c57ac_13
+    - qt-main =5.15.8 =h23c57ac_14
     - readline =8.2 =h9e318b2_1
     - reportlab =4.0.0 =py38hcafd530_0
     - requests =2.31.0 =pyhd8ed1ab_0
@@ -207,7 +207,7 @@ requirements:
     - sip =6.7.9 =py38h940360d_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.1.10 =h225ccf5_0
-    - sqlalchemy =2.0.16 =py38hcafd530_0
+    - sqlalchemy =2.0.17 =py38hcafd530_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.0 =py38hd2faf92_1
     - threadpoolctl =3.1.0 =pyh8a188c0_0

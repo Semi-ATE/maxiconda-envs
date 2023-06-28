@@ -36,7 +36,7 @@ requirements:
 
     # 160 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
-    - alsa-lib =1.2.8 =h4e544f5_0
+    - alsa-lib =1.2.9 =h31becfc_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - attr =2.5.1 =h4e544f5_1
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -65,8 +65,8 @@ requirements:
     - glib =2.76.3 =hd84c7bf_0
     - glib-tools =2.76.3 =hd84c7bf_0
     - graphite2 =1.3.13 =h7fd3ca4_1001
-    - gst-plugins-base =1.22.3 =h746d1cd_1
-    - gstreamer =1.22.3 =he293c15_1
+    - gst-plugins-base =1.22.4 =hc44d83b_0
+    - gstreamer =1.22.4 =hed71854_0
     - harfbuzz =7.3.0 =h8428050_0
     - icu =72.1 =hcf00150_0
     - importlib-metadata =6.7.0 =pyha770c72_0
@@ -155,7 +155,7 @@ requirements:
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyvisa =1.13.0 =py39ha65689a_0
     - pyzmq =25.1.0 =py39h7ea2324_0
-    - qt-main =5.15.8 =h0396913_13
+    - qt-main =5.15.8 =h6015ebc_14
     - readline =8.2 =h8fc344f_1
     - setuptools =68.0.0 =pyhd8ed1ab_0
     - sip =6.7.9 =py39he8647fe_0
