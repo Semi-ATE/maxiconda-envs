@@ -87,9 +87,9 @@ requirements:
     - gsd =2.9.0 =py39h8a366b7_0
     - gst-plugins-base =1.22.4 =h27255cc_0
     - gstreamer =1.22.4 =h8c52bba_0
-    - h5py =3.9.0 =nompi_py39h3e61b17_100
+    - h5py =3.9.0 =nompi_py39he9c2634_101
     - hdf4 =4.2.15 =h8111dcc_6
-    - hdf5 =1.14.0 =nompi_h6b85c65_103
+    - hdf5 =1.14.1 =nompi_h3aba7b3_100
     - icu =72.1 =he12128b_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =6.7.0 =pyha770c72_0
@@ -99,7 +99,7 @@ requirements:
     - ipykernel =6.23.3 =pyh5fb750a_0
     - ipython =8.14.0 =pyhd1c38e8_0
     - jedi =0.18.2 =pyhd8ed1ab_0
-    - joblib =1.2.0 =pyhd8ed1ab_0
+    - joblib =1.3.0 =pyhd8ed1ab_0
     - jupyter_client =8.3.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py39h2804cbe_0
     - kiwisolver =1.4.4 =py39haaf3ac1_1
@@ -128,7 +128,7 @@ requirements:
     - libjpeg-turbo =2.1.5.1 =h1a8c8d9_0
     - liblapack =3.9.0 =17_osxarm64_openblas
     - libllvm15 =15.0.7 =h504e6bf_2
-    - libnetcdf =4.9.2 =nompi_h0a2dbf5_105
+    - libnetcdf =4.9.2 =nompi_hd95b5de_106
     - libnghttp2 =1.52.0 =hae82a92_0
     - libogg =1.3.4 =h27ca646_1
     - libopenblas =0.3.23 =openmp_hc731615_0
@@ -157,7 +157,7 @@ requirements:
     - mysql-libs =8.0.33 =hb292caa_0
     - ncurses =6.4 =h7ea286d_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
-    - netcdf4 =1.6.4 =nompi_py39hce53f29_100
+    - netcdf4 =1.6.4 =nompi_py39h7147c39_101
     - networkx =3.1 =pyhd8ed1ab_0
     - nspr =4.35 =hb7217d7_0
     - nss =3.89 =h789eff7_0

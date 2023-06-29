@@ -85,9 +85,9 @@ requirements:
     - gsd =2.9.0 =py39hbaa61f9_0
     - gst-plugins-base =1.22.4 =h001b923_0
     - gstreamer =1.22.4 =hb4038d2_0
-    - h5py =3.9.0 =nompi_py39h9c8e182_100
+    - h5py =3.9.0 =nompi_py39hde1a6dc_101
     - hdf4 =4.2.15 =h1334946_6
-    - hdf5 =1.14.0 =nompi_h918d9b7_103
+    - hdf5 =1.14.1 =nompi_h73e8ff5_100
     - icu =72.1 =h63175ca_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =6.7.0 =pyha770c72_0
@@ -98,7 +98,7 @@ requirements:
     - ipykernel =6.23.3 =pyh6817e22_0
     - ipython =8.14.0 =pyh08f2357_0
     - jedi =0.18.2 =pyhd8ed1ab_0
-    - joblib =1.2.0 =pyhd8ed1ab_0
+    - joblib =1.3.0 =pyhd8ed1ab_0
     - jupyter_client =8.3.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py39hcbf5309_0
     - kiwisolver =1.4.4 =py39h1f6ef14_1
@@ -122,7 +122,7 @@ requirements:
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
     - liblapack =3.9.0 =17_win64_mkl
-    - libnetcdf =4.9.2 =nompi_ha5afab8_105
+    - libnetcdf =4.9.2 =nompi_h5729074_106
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
     - libsodium =1.0.18 =h8d14728_1
@@ -150,7 +150,7 @@ requirements:
     - msys2-conda-epoch =20160418 =1
     - munkres =1.1.4 =pyh9f0ad1d_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
-    - netcdf4 =1.6.4 =nompi_py39h5f77c00_100
+    - netcdf4 =1.6.4 =nompi_py39h6379b8f_101
     - networkx =3.1 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha2aaf27_2
     - openssl =3.1.1 =hcfcfb64_1
