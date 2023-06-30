@@ -31,11 +31,11 @@ requirements:
     - pyqt =5.15.7 =py39h5c7b992_3
     - pyyaml =6.0 =py39hb9d737c_5
     - requests =2.31.0 =pyhd8ed1ab_0
-    - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
+    - spyder-kernels =2.4.4 =unix_pyh707e725_0
     - sqlalchemy =2.0.17 =py39hd1e30aa_0
     - twisted =22.10.0 =py39hb9d737c_0
 
-    # 181 secondary packages :
+    # 177 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.9 =hd590300_0
@@ -50,8 +50,7 @@ requirements:
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py39hf3d152e_7
     - bcrypt =3.2.2 =py39hb9d737c_1
-    - brotli =1.0.9 =h166bdaf_9
-    - brotli-bin =1.0.9 =h166bdaf_9
+    - brotli-python =1.0.9 =py39h5a03fae_9
     - bzip2 =1.0.8 =h7f98852_4
     - ca-certificates =2023.5.7 =hbcca054_0
     - cairo =1.16.0 =hbbf8b49_1016
@@ -98,9 +97,6 @@ requirements:
     - krb5 =1.20.1 =h81ceb04_0
     - lame =3.100 =h166bdaf_1003
     - ld_impl_linux-64 =2.40 =h41732ed_0
-    - libbrotlicommon =1.0.9 =h166bdaf_9
-    - libbrotlidec =1.0.9 =h166bdaf_9
-    - libbrotlienc =1.0.9 =h166bdaf_9
     - libcap =2.67 =he9d0100_0
     - libclang =15.0.7 =default_h7634d5b_2
     - libclang13 =15.0.7 =default_h9986a30_2
@@ -185,10 +181,10 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.3.2 =py39hd1e30aa_0
     - traitlets =5.9.0 =pyhd8ed1ab_0
-    - typing-extensions =4.6.3 =hd8ed1ab_0
-    - typing_extensions =4.6.3 =pyha770c72_0
+    - typing-extensions =4.7.0 =hd8ed1ab_0
+    - typing_extensions =4.7.0 =pyha770c72_0
     - tzdata =2023c =h71feb2d_0
-    - urllib3 =2.0.3 =pyhd8ed1ab_0
+    - urllib3 =2.0.3 =pyhd8ed1ab_1
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0

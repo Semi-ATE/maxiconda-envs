@@ -29,14 +29,14 @@ requirements:
     - matplotlib =3.7.1 =py38h150bfb4_0
     - mdanalysis =2.4.3 =py38hee9ea5e_0
     - numpy =1.24.4 =py38ha84db1f_0
-    - pandas =2.0.2 =py38hefb543e_0
+    - pandas =2.0.3 =py38hefb543e_0
     - pymol-open-source =2.5.0 =py38h00554c9_6
     - pyqt =5.15.7 =py38hd4e55b5_3
     - rdkit =2023.03.2 =py38h35c3679_0
     - scipy =1.10.1 =py38h038e806_3
-    - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
+    - spyder-kernels =2.4.4 =unix_pyh707e725_0
 
-    # 195 secondary packages :
+    # 196 secondary packages :
     - appnope =0.1.3 =pyhd8ed1ab_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -47,6 +47,7 @@ requirements:
     - boost-cpp =1.78.0 =h9ed8d21_3
     - brotli =1.0.9 =h1a8c8d9_9
     - brotli-bin =1.0.9 =h1a8c8d9_9
+    - brotli-python =1.0.9 =py38h2b1e499_9
     - bzip2 =1.0.8 =h3422bc3_4
     - c-ares =1.19.1 =hb547adb_0
     - ca-certificates =2023.5.7 =hf0a4a13_0
@@ -76,7 +77,7 @@ requirements:
     - fonts-conda-forge =1 =0
     - fonttools =4.40.0 =py38hb192615_0
     - freetype =2.12.1 =hd633e50_1
-    - freetype-py =2.4.0 =pyhd8ed1ab_0
+    - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h0186832_0
     - glew =2.1.0 =h9f76cd9_2
     - glib =2.76.3 =ha614eb4_0
@@ -140,7 +141,7 @@ requirements:
     - libssh2 =1.11.0 =h7a5bd25_0
     - libtiff =4.5.1 =h23a1a89_0
     - libvorbis =1.3.7 =h9f76cd9_0
-    - libwebp-base =1.3.0 =h1a8c8d9_0
+    - libwebp-base =1.3.1 =hb547adb_0
     - libxcb =1.15 =hf346824_0
     - libxml2 =2.11.4 =he3bdae6_0
     - libzip =1.9.2 =h76ab92c_1
@@ -197,7 +198,7 @@ requirements:
     - pyzmq =25.1.0 =py38hef91016_0
     - qt-main =5.15.8 =hcac2fde_14
     - readline =8.2 =h92ec313_1
-    - reportlab =4.0.0 =py38hb192615_0
+    - reportlab =4.0.4 =py38hb192615_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
     - scikit-learn =1.2.2 =py38h971c870_2
@@ -218,10 +219,10 @@ requirements:
     - tornado =6.3.2 =py38hb192615_0
     - tqdm =4.65.0 =pyhd8ed1ab_1
     - traitlets =5.9.0 =pyhd8ed1ab_0
-    - typing-extensions =4.6.3 =hd8ed1ab_0
-    - typing_extensions =4.6.3 =pyha770c72_0
+    - typing-extensions =4.7.0 =hd8ed1ab_0
+    - typing_extensions =4.7.0 =pyha770c72_0
     - unicodedata2 =15.0.0 =py38hb991d35_0
-    - urllib3 =2.0.3 =pyhd8ed1ab_0
+    - urllib3 =2.0.3 =pyhd8ed1ab_1
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0

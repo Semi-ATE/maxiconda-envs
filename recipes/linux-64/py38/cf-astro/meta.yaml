@@ -26,7 +26,7 @@ requirements:
 
     # 2 primary packages :
     - pyqt =5.15.7 =py38ha0d8c90_3
-    - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
+    - spyder-kernels =2.4.4 =unix_pyh707e725_0
 
     # 148 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
@@ -149,8 +149,8 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.3.2 =py38h01eb140_0
     - traitlets =5.9.0 =pyhd8ed1ab_0
-    - typing-extensions =4.6.3 =hd8ed1ab_0
-    - typing_extensions =4.6.3 =pyha770c72_0
+    - typing-extensions =4.7.0 =hd8ed1ab_0
+    - typing_extensions =4.7.0 =pyha770c72_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
