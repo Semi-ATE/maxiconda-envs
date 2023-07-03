@@ -171,7 +171,7 @@ requirements:
     - lcms2 =2.15 =h3e3b177_1
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230125.3 =cxx17_h63175ca_0
-    - libarrow =12.0.1 =h2b9eda4_1_cpu
+    - libarrow =12.0.1 =hbf49b3f_2_cpu
     - libblas =3.9.0 =17_win64_mkl
     - libbrotlicommon =1.0.9 =hcfcfb64_9
     - libbrotlidec =1.0.9 =hcfcfb64_9
@@ -187,15 +187,15 @@ requirements:
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h2ed9e1d_6
     - libglib =2.76.3 =he8f3873_0
-    - libgoogle-cloud =2.12.0 =hec1a1f0_0
-    - libgrpc =1.55.1 =h0c1e3fa_1
+    - libgoogle-cloud =2.12.0 =hbc1b25b_1
+    - libgrpc =1.56.0 =hea2d5f7_2
     - libhwloc =2.9.1 =nocuda_h15da153_6
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
     - liblapack =3.9.0 =17_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
-    - libprotobuf =4.23.2 =h1975477_5
+    - libprotobuf =4.23.3 =h1975477_0
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.42.0 =hcfcfb64_0
     - libssh2 =1.11.0 =h7dfc565_0
@@ -242,7 +242,7 @@ requirements:
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha2aaf27_2
     - openssl =3.1.1 =hcfcfb64_1
-    - orc =1.9.0 =h08d22ad_0
+    - orc =1.9.0 =hf2b8f0d_1
     - packaging =23.1 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.50.14 =hd64ce24_1
@@ -266,13 +266,13 @@ requirements:
     - prompt-toolkit =3.0.38 =pyha770c72_0
     - prompt_toolkit =3.0.38 =hd8ed1ab_0
     - protego =0.2.1 =pyhd8ed1ab_0
-    - protobuf =4.23.2 =py39ha25027d_1
+    - protobuf =4.23.3 =py39ha25027d_0
     - psutil =5.9.5 =py39ha55989b_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.4 =cpu_py39ha538f94_2
-    - pyarrow =12.0.1 =py39hca4e8af_1_cpu
+    - pyarrow =12.0.1 =py39hca4e8af_2_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -344,8 +344,8 @@ requirements:
     - twisted =22.10.0 =py39ha55989b_0
     - twisted-iocpsupport =1.0.3 =py39ha55989b_0
     - typer =0.9.0 =pyhd8ed1ab_0
-    - typing-extensions =4.7.0 =hd8ed1ab_0
-    - typing_extensions =4.7.0 =pyha770c72_0
+    - typing-extensions =4.7.1 =hd8ed1ab_0
+    - typing_extensions =4.7.1 =pyha770c72_0
     - tzdata =2023c =h71feb2d_0
     - ucrt =10.0.22621.0 =h57928b3_0
     - umap-learn =0.5.3 =py39hcbf5309_1

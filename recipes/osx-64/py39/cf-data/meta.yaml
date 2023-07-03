@@ -180,7 +180,7 @@ requirements:
     - lcms2 =2.15 =h2dcdeff_1
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230125.3 =cxx17_h000cb23_0
-    - libarrow =12.0.1 =hecdf8c6_1_cpu
+    - libarrow =12.0.1 =hecdf8c6_2_cpu
     - libblas =3.9.0 =17_osx64_openblas
     - libbrotlicommon =1.0.9 =hb7f2c08_9
     - libbrotlidec =1.0.9 =hb7f2c08_9
@@ -201,7 +201,7 @@ requirements:
     - libgfortran =5.0.0 =11_3_0_h97931a8_31
     - libgfortran5 =12.2.0 =he409387_31
     - libglib =2.76.3 =hc62aa5d_0
-    - libgoogle-cloud =2.12.0 =h20eaa6e_0
+    - libgoogle-cloud =2.12.0 =h20eaa6e_1
     - libgrpc =1.54.2 =hfaa49da_2
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =2.1.5.1 =hb7f2c08_0
@@ -253,8 +253,8 @@ requirements:
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.9 =py39h7a8716b_1
-    - mysql-common =8.0.33 =hc6116ba_0
-    - mysql-libs =8.0.33 =haa61052_0
+    - mysql-common =8.0.33 =hc6116ba_1
+    - mysql-libs =8.0.33 =haa61052_1
     - ncurses =6.4 =hf0c8a7f_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - networkx =3.1 =pyhd8ed1ab_0
@@ -279,7 +279,7 @@ requirements:
     - pexpect =4.8.0 =pyh1a96a4e_2
     - phik =0.12.3 =py39h407aec2_0
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =9.5.0 =py39he6683de_1
+    - pillow =10.0.0 =py39he6683de_0
     - pip =23.1.2 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
     - platformdirs =3.8.0 =pyhd8ed1ab_0
@@ -297,7 +297,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.4 =cpu_py39hb0a6171_2
-    - pyarrow =12.0.1 =py39h8c09acb_1_cpu
+    - pyarrow =12.0.1 =py39h8c09acb_2_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -370,8 +370,8 @@ requirements:
     - traitlets =5.9.0 =pyhd8ed1ab_0
     - twisted =22.10.0 =py39ha30fb19_0
     - typer =0.9.0 =pyhd8ed1ab_0
-    - typing-extensions =4.7.0 =hd8ed1ab_0
-    - typing_extensions =4.7.0 =pyha770c72_0
+    - typing-extensions =4.7.1 =hd8ed1ab_0
+    - typing_extensions =4.7.1 =pyha770c72_0
     - tzdata =2023c =h71feb2d_0
     - umap-learn =0.5.3 =py39h6e9494a_1
     - unicodedata2 =15.0.0 =py39ha30fb19_0
