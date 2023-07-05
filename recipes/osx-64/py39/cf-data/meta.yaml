@@ -55,19 +55,19 @@ requirements:
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.6.28 =h20829a2_9
+    - aws-c-auth =0.7.0 =h20829a2_0
     - aws-c-cal =0.6.0 =h865601d_0
     - aws-c-common =0.8.23 =h0dc2134_0
     - aws-c-compression =0.2.17 =hd42d803_1
-    - aws-c-event-stream =0.3.0 =h8382e13_8
+    - aws-c-event-stream =0.3.1 =h8382e13_0
     - aws-c-http =0.7.10 =hb0473fa_2
     - aws-c-io =0.13.27 =h8caa2fd_0
     - aws-c-mqtt =0.8.13 =h6f5b2ba_5
-    - aws-c-s3 =0.3.11 =hc2f533f_2
+    - aws-c-s3 =0.3.12 =h700f7ba_2
     - aws-c-sdkutils =0.1.11 =hd42d803_1
     - aws-checksums =0.1.16 =hd42d803_1
-    - aws-crt-cpp =0.20.2 =h77e56f0_14
-    - aws-sdk-cpp =1.10.57 =h39307cc_15
+    - aws-crt-cpp =0.20.2 =h818a4bf_18
+    - aws-sdk-cpp =1.10.57 =h8d6e493_16
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -162,7 +162,7 @@ requirements:
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.23.3 =pyh5fb750a_0
     - ipython =8.14.0 =pyhd1c38e8_0
-    - ipywidgets =8.0.6 =pyhd8ed1ab_0
+    - ipywidgets =8.0.7 =pyhd8ed1ab_0
     - itemadapter =0.8.0 =pyhd8ed1ab_0
     - itemloaders =1.1.0 =pyhd8ed1ab_0
     - itsdangerous =2.1.2 =pyhd8ed1ab_0
@@ -172,7 +172,7 @@ requirements:
     - joblib =1.3.0 =pyhd8ed1ab_1
     - jupyter_client =8.3.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py39h6e9494a_0
-    - jupyterlab_widgets =3.0.7 =pyhd8ed1ab_1
+    - jupyterlab_widgets =3.0.8 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py39h92daf61_1
     - kmodes =0.12.2 =pyhd8ed1ab_0
     - krb5 =1.20.1 =h049b76e_0
@@ -383,7 +383,7 @@ requirements:
     - websocket-client =1.6.1 =pyhd8ed1ab_0
     - werkzeug =2.3.6 =pyhd8ed1ab_0
     - wheel =0.40.0 =pyhd8ed1ab_0
-    - widgetsnbextension =4.0.7 =pyhd8ed1ab_0
+    - widgetsnbextension =4.0.8 =pyhd8ed1ab_0
     - wordcloud =1.9.2 =py39hdc70f33_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xorg-libxau =1.0.11 =h0dc2134_0
