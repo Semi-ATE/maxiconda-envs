@@ -29,7 +29,7 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - bitarray =2.7.6 =py39hdc70f33_0
-    - cython =0.29.35 =py39h840bb9f_0
+    - cython =0.29.36 =py39h840bb9f_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
     - hypothesis =6.80.0 =pyha770c72_0
     - ipython =8.14.0 =pyhd1c38e8_0
@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.0.3 =py39h11b3245_0
     - psutil =5.9.5 =py39ha30fb19_0
-    - pydantic =2.0.1 =py39hdc70f33_0
+    - pydantic =2.0.1 =py39hdc70f33_2
     - pyqt =5.15.7 =py39h327fbb6_3
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =7.4.0 =pyhd8ed1ab_0
@@ -137,8 +137,8 @@ requirements:
     - graphite2 =1.3.13 =h2e338ed_1001
     - greenlet =2.0.2 =py39h840bb9f_1
     - gsl =2.7 =h93259b0_0
-    - gst-plugins-base =1.22.4 =hb5d3a86_0
-    - gstreamer =1.22.4 =h840fbdc_0
+    - gst-plugins-base =1.22.4 =hb5d3a86_1
+    - gstreamer =1.22.4 =h840fbdc_1
     - harfbuzz =7.3.0 =h413ba03_0
     - icu =72.1 =h7336db1_0
     - idna =3.4 =pyhd8ed1ab_0
@@ -252,13 +252,13 @@ requirements:
     - pooch =1.7.0 =pyha770c72_3
     - progressbar2 =4.2.0 =pyhd8ed1ab_0
     - prometheus_client =0.17.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.38 =pyha770c72_0
-    - prompt_toolkit =3.0.38 =hd8ed1ab_0
+    - prompt-toolkit =3.0.39 =pyha770c72_0
+    - prompt_toolkit =3.0.39 =hd8ed1ab_0
     - pthread-stubs =0.4 =hc929b4f_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic-core =2.0.1 =py39hf33989b_0
+    - pydantic-core =2.0.2 =py39hf33989b_0
     - pygments =2.15.1 =pyhd8ed1ab_0
     - pyobjc-core =9.2 =py39head00df_0
     - pyobjc-framework-cocoa =9.2 =py39head00df_0
