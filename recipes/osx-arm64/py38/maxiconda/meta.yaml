@@ -30,17 +30,17 @@ requirements:
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - cython =0.29.36 =py38he333c0f_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.80.0 =pyha770c72_0
+    - hypothesis =6.80.1 =pyha770c72_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
-    - matplotlib =3.7.1 =py38h150bfb4_0
+    - matplotlib =3.7.2 =py38h150bfb4_0
     - numba =0.57.1 =py38h11be589_0
     - numpy =1.24.4 =py38ha84db1f_0
     - openpyxl =3.1.2 =py38hb192615_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.0.3 =py38hefb543e_0
     - psutil =5.9.5 =py38hb991d35_0
-    - pydantic =2.0.1 =py38hb192615_2
+    - pydantic =2.0.2 =py38hb192615_1
     - pyqt =5.15.7 =py38hd4e55b5_3
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =7.4.0 =pyhd8ed1ab_0
@@ -55,7 +55,7 @@ requirements:
     - scipy =1.10.1 =py38h038e806_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
-    - sqlalchemy =2.0.17 =py38hb192615_0
+    - sqlalchemy =2.0.18 =py38hb192615_0
     - sqlite =3.42.0 =h203b68d_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.65.0 =pyhd8ed1ab_1
@@ -63,11 +63,11 @@ requirements:
     - xlsxwriter =3.1.2 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 436 secondary packages :
+    # 438 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - annotated-types =0.5.0 =pyhd8ed1ab_0
-    - anyio =3.7.0 =pyhd8ed1ab_1
+    - anyio =3.7.1 =pyhd8ed1ab_0
     - appnope =0.1.3 =pyhd8ed1ab_0
     - argon2-cffi =21.3.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py38hb991d35_3
@@ -150,7 +150,8 @@ requirements:
     - ipython_genutils =0.2.0 =py_1
     - isl =0.25 =h9a09cb3_0
     - jedi =0.18.2 =pyhd8ed1ab_0
-    - jsonschema =4.17.3 =pyhd8ed1ab_0
+    - jsonschema =4.18.0 =pyhd8ed1ab_0
+    - jsonschema-specifications =2023.6.1 =pyhd8ed1ab_0
     - jupyter_client =8.3.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py38h10201cd_0
     - jupyter_events =0.6.3 =pyhd8ed1ab_0
@@ -207,7 +208,7 @@ requirements:
     - llvmlite =0.40.1 =py38h761d82c_0
     - make =4.3 =he57ea6c_1
     - markupsafe =2.1.3 =py38hb192615_0
-    - matplotlib-base =3.7.1 =py38hbbe890c_0
+    - matplotlib-base =3.7.2 =py38h0405b42_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mistune =3.0.0 =pyhd8ed1ab_0
     - mpc =1.3.1 =h91ba8db_0
@@ -257,11 +258,10 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic-core =2.0.2 =py38hd0c8013_0
+    - pydantic-core =2.1.2 =py38hd0c8013_0
     - pygments =2.15.1 =pyhd8ed1ab_0
-    - pyparsing =3.1.0 =pyhd8ed1ab_0
+    - pyparsing =3.0.9 =pyhd8ed1ab_0
     - pyqt5-sip =12.11.0 =py38h2b1e499_3
-    - pyrsistent =0.19.3 =py38hb991d35_0
     - pysocks =1.7.1 =py38h10201cd_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-fastjsonschema =2.17.1 =pyhd8ed1ab_0
@@ -381,7 +381,7 @@ requirements:
     - r-pkgconfig =2.0.3 =r43hc72bb7e_3
     - r-plyr =1.8.8 =r43he62749d_1
     - r-prettyunits =1.1.1 =r43hc72bb7e_3
-    - r-proc =1.18.2 =r43he62749d_2
+    - r-proc =1.18.4 =r43he62749d_0
     - r-processx =3.8.2 =r43h21dc0da_0
     - r-prodlim =2023.03.31 =r43he62749d_1
     - r-progress =1.2.2 =r43hc72bb7e_4
@@ -446,15 +446,17 @@ requirements:
     - r-vroom =1.6.3 =r43he62749d_1
     - r-withr =2.5.0 =r43hc72bb7e_2
     - r-xfun =0.39 =r43he62749d_1
-    - r-xml2 =1.3.4 =r43h77ef413_2
+    - r-xml2 =1.3.5 =r43h77ef413_0
     - r-xtable =1.8_4 =r43hc72bb7e_5
     - r-xts =0.13.1 =r43h21dc0da_1
     - r-yaml =2.3.7 =r43h21dc0da_1
     - r-zoo =1.8_12 =r43h21dc0da_1
     - rapidfuzz =3.1.1 =py38he333c0f_0
     - readline =8.2 =h92ec313_1
+    - referencing =0.29.1 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
+    - rpds-py =0.8.6 =py38hd0c8013_0
     - ruamel.yaml =0.17.32 =py38hb192615_0
     - ruamel.yaml.clib =0.2.7 =py38hb991d35_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1

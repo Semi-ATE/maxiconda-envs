@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =0.29.36 =py39h840bb9f_0
-    - matplotlib =3.7.1 =py39h6e9494a_0
+    - matplotlib =3.7.2 =py39h6e9494a_0
     - numpy =1.25.0 =py39h892e69a_0
     - pandas =2.0.3 =py39h11b3245_0
     - pyqt =5.15.7 =py39h327fbb6_3
@@ -35,7 +35,7 @@ requirements:
     - spyder =5.4.3 =py39h6e9494a_0
     - sympy =1.12 =pypyh9d50eac_103
 
-    # 248 secondary packages :
+    # 249 secondary packages :
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - applaunchservices =0.3.0 =py39h6e9494a_1
     - appnope =0.1.3 =pyhd8ed1ab_0
@@ -66,7 +66,7 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.3 =pyhd8ed1ab_0
     - contourpy =1.1.0 =py39h8ee36c8_0
-    - cookiecutter =2.1.1 =pyh6c4a22f_0
+    - cookiecutter =2.2.0 =pyh1a96a4e_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.7 =py39h7a8716b_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -105,8 +105,8 @@ requirements:
     - jedi =0.18.2 =pyhd8ed1ab_0
     - jellyfish =1.0.0 =py39hf33989b_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
-    - jinja2-time =0.2.0 =pyhd8ed1ab_3
-    - jsonschema =4.17.3 =pyhd8ed1ab_0
+    - jsonschema =4.18.0 =pyhd8ed1ab_0
+    - jsonschema-specifications =2023.6.1 =pyhd8ed1ab_0
     - jupyter_client =8.3.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py39h6e9494a_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
@@ -151,7 +151,7 @@ requirements:
     - libzlib =1.2.13 =h8a1eda9_5
     - llvm-openmp =16.0.6 =hff08bdf_0
     - markupsafe =2.1.3 =py39hdc70f33_0
-    - matplotlib-base =3.7.1 =py39hb2f573b_0
+    - matplotlib-base =3.7.2 =py39h6e39af2_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_0
     - mistune =3.0.0 =pyhd8ed1ab_0
@@ -207,9 +207,8 @@ requirements:
     - pyobjc-framework-cocoa =9.2 =py39head00df_0
     - pyobjc-framework-coreservices =9.1 =py39ha30fb19_0
     - pyobjc-framework-fsevents =9.2 =py39h6e9494a_0
-    - pyparsing =3.1.0 =pyhd8ed1ab_0
+    - pyparsing =3.0.9 =pyhd8ed1ab_0
     - pyqt5-sip =12.11.0 =py39hc100f75_3
-    - pyrsistent =0.19.3 =py39ha30fb19_0
     - pysocks =1.7.1 =py39h6e9494a_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-fastjsonschema =2.17.1 =pyhd8ed1ab_0
@@ -234,8 +233,10 @@ requirements:
     - qtconsole-base =5.4.3 =pyha770c72_0
     - qtpy =2.3.1 =pyhd8ed1ab_0
     - readline =8.2 =h9e318b2_1
+    - referencing =0.29.1 =pyhd8ed1ab_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rope =1.9.0 =pyhd8ed1ab_0
+    - rpds-py =0.8.6 =py39hf33989b_0
     - rtree =1.0.1 =py39h7d0d40a_1
     - setuptools =68.0.0 =pyhd8ed1ab_0
     - sip =6.7.9 =py39h840bb9f_0

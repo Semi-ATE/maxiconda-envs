@@ -26,7 +26,7 @@ requirements:
 
     # 10 primary packages :
     - biopython =1.81 =py38hef030d1_0
-    - matplotlib =3.7.1 =py38h50d1736_0
+    - matplotlib =3.7.2 =py38h50d1736_0
     - mdanalysis =2.4.3 =py38h5e08df7_0
     - numpy =1.24.4 =py38h9a4a08f_0
     - pandas =2.0.3 =py38h78e6021_0
@@ -147,7 +147,7 @@ requirements:
     - libzlib =1.2.13 =h8a1eda9_5
     - llvm-openmp =16.0.6 =hff08bdf_0
     - lz4-c =1.9.4 =hf0c8a7f_0
-    - matplotlib-base =3.7.1 =py38hcb346ec_0
+    - matplotlib-base =3.7.2 =py38h6e6aad2_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mmtf-python =1.1.3 =pyhd8ed1ab_0
     - mrcfile =1.4.3 =pyhd8ed1ab_0
@@ -186,7 +186,7 @@ requirements:
     - pycairo =1.24.0 =py38h1b76839_0
     - pyedr =0.7.1 =pyhd8ed1ab_0
     - pygments =2.15.1 =pyhd8ed1ab_0
-    - pyparsing =3.1.0 =pyhd8ed1ab_0
+    - pyparsing =3.0.9 =pyhd8ed1ab_0
     - pyqt5-sip =12.11.0 =py38haf9be31_3
     - pysocks =1.7.1 =py38h50d1736_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
@@ -207,7 +207,7 @@ requirements:
     - sip =6.7.9 =py38h940360d_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.1.10 =h225ccf5_0
-    - sqlalchemy =2.0.17 =py38hcafd530_0
+    - sqlalchemy =2.0.18 =py38hcafd530_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.0 =py38hd2faf92_1
     - threadpoolctl =3.1.0 =pyh8a188c0_0
