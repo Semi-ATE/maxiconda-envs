@@ -29,7 +29,7 @@ requirements:
     - matplotlib =3.7.2 =py39h6e9494a_0
     - mdanalysis =2.5.0 =py39hd01d8b1_1
     - numpy =1.25.0 =py39h892e69a_0
-    - pandas =2.0.3 =py39h11b3245_0
+    - pandas =2.0.3 =py39h11b3245_1
     - pymol-open-source =2.5.0 =py39hb6a4063_6
     - pyqt =5.15.7 =py39h327fbb6_3
     - rdkit =2023.03.2 =py39h94a1de9_0
@@ -79,8 +79,8 @@ requirements:
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h8a4c099_0
     - glew =2.1.0 =h046ec9c_2
-    - glib =2.76.3 =h7d26f99_0
-    - glib-tools =2.76.3 =h7d26f99_0
+    - glib =2.76.4 =h7d26f99_0
+    - glib-tools =2.76.4 =h7d26f99_0
     - glm =0.9.9.8 =h1c7c39f_0
     - greenlet =2.0.2 =py39h840bb9f_1
     - griddataformats =1.0.1 =pyhd8ed1ab_0
@@ -92,11 +92,11 @@ requirements:
     - hdf5 =1.14.1 =nompi_hedada53_100
     - icu =72.1 =h7336db1_0
     - idna =3.4 =pyhd8ed1ab_0
-    - importlib-metadata =6.7.0 =pyha770c72_0
-    - importlib-resources =5.12.0 =pyhd8ed1ab_0
-    - importlib_metadata =6.7.0 =hd8ed1ab_0
-    - importlib_resources =5.12.0 =pyhd8ed1ab_0
-    - ipykernel =6.23.3 =pyh5fb750a_0
+    - importlib-metadata =6.8.0 =pyha770c72_0
+    - importlib-resources =5.13.0 =pyhd8ed1ab_0
+    - importlib_metadata =6.8.0 =hd8ed1ab_0
+    - importlib_resources =5.13.0 =pyhd8ed1ab_0
+    - ipykernel =6.24.0 =pyh5fb750a_0
     - ipython =8.14.0 =pyhd1c38e8_0
     - jedi =0.18.2 =pyhd8ed1ab_0
     - joblib =1.3.0 =pyhd8ed1ab_1
@@ -123,7 +123,7 @@ requirements:
     - libffi =3.4.2 =h0d85af4_5
     - libgfortran =5.0.0 =11_3_0_h97931a8_31
     - libgfortran5 =12.2.0 =he409387_31
-    - libglib =2.76.3 =hc62aa5d_0
+    - libglib =2.76.4 =hc62aa5d_0
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =2.1.5.1 =hb7f2c08_0
     - liblapack =3.9.0 =17_osx64_openblas
@@ -173,7 +173,7 @@ requirements:
     - pillow =10.0.0 =py39he6683de_0
     - pip =23.1.2 =pyhd8ed1ab_0
     - pixman =0.40.0 =hbcb3906_0
-    - platformdirs =3.8.0 =pyhd8ed1ab_0
+    - platformdirs =3.8.1 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pmw =2.0.1 =py39h6e9494a_1007
     - pooch =1.7.0 =pyha770c72_3
@@ -232,7 +232,7 @@ requirements:
     - zeromq =4.3.4 =he49afe7_1
     - zipp =3.15.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h8a1eda9_5
-    - zstd =1.5.2 =hbc0c0cd_6
+    - zstd =1.5.2 =h829000d_7
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

@@ -123,8 +123,8 @@ requirements:
     - gfortran_impl_osx-64 =12.2.0 =h158f68b_31
     - gfortran_osx-64 =12.2.0 =h18f7dce_1
     - git =2.41.0 =pl5321h5c607e1_0
-    - glib =2.76.3 =h7d26f99_0
-    - glib-tools =2.76.3 =h7d26f99_0
+    - glib =2.76.4 =h7d26f99_0
+    - glib-tools =2.76.4 =h7d26f99_0
     - gmp =6.2.1 =h2e338ed_0
     - gmpy2 =2.1.2 =py37h60f582e_0
     - graphite2 =1.3.13 =h2e338ed_1001
@@ -137,7 +137,7 @@ requirements:
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =4.11.4 =py37hf985489_0
     - importlib_metadata =4.11.4 =hd8ed1ab_0
-    - importlib_resources =5.12.0 =pyhd8ed1ab_0
+    - importlib_resources =5.13.0 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
     - ipykernel =6.16.2 =pyh736e0ef_0
     - ipython_genutils =0.2.0 =py_1
@@ -168,7 +168,7 @@ requirements:
     - libgfortran =5.0.0 =11_3_0_h97931a8_31
     - libgfortran-devel_osx-64 =12.2.0 =hf0fd499_31
     - libgfortran5 =12.2.0 =he409387_31
-    - libglib =2.76.3 =hc62aa5d_0
+    - libglib =2.76.4 =hc62aa5d_0
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =2.1.5.1 =hb7f2c08_0
     - liblapack =3.9.0 =17_osx64_openblas
@@ -279,9 +279,9 @@ requirements:
     - r-curl =5.0.1 =r43h0100ac3_0
     - r-data.table =1.14.8 =r43h7eccc33_2
     - r-dbi =1.1.3 =r43hc72bb7e_2
-    - r-dbplyr =2.3.2 =r43hc72bb7e_1
+    - r-dbplyr =2.3.3 =r43hc72bb7e_0
     - r-diagram =1.6.5 =r43ha770c72_2
-    - r-digest =0.6.31 =r43hac7d2d5_1
+    - r-digest =0.6.33 =r43hac7d2d5_0
     - r-dplyr =1.1.2 =r43hac7d2d5_1
     - r-dtplyr =1.3.1 =r43hc72bb7e_1
     - r-e1071 =1.7_13 =r43hac7d2d5_1
@@ -378,7 +378,7 @@ requirements:
     - r-rcpp =1.0.10 =r43hac7d2d5_1
     - r-rcppeigen =0.3.3.9.3 =r43hfaea39f_1
     - r-readr =2.1.4 =r43hac7d2d5_1
-    - r-readxl =1.4.2 =r43h88814b1_1
+    - r-readxl =1.4.3 =r43h88814b1_0
     - r-recipes =1.0.6 =r43hc72bb7e_1
     - r-recommended =4.3 =r43hd8ed1ab_1006
     - r-rematch =1.0.1 =r43hc72bb7e_1006
@@ -389,7 +389,7 @@ requirements:
     - r-rlang =1.1.1 =r43hac7d2d5_1
     - r-rmarkdown =2.23 =r43hc72bb7e_0
     - r-rpart =4.1.19 =r43h6dc245f_1
-    - r-rstudioapi =0.14 =r43hc72bb7e_2
+    - r-rstudioapi =0.15.0 =r43hc72bb7e_0
     - r-rvest =1.0.3 =r43hc72bb7e_2
     - r-sass =0.4.6 =r43hac7d2d5_1
     - r-scales =1.2.1 =r43hc72bb7e_2
@@ -467,7 +467,7 @@ requirements:
     - zeromq =4.3.4 =he49afe7_1
     - zipp =3.15.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h8a1eda9_5
-    - zstd =1.5.2 =hbc0c0cd_6
+    - zstd =1.5.2 =h829000d_7
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

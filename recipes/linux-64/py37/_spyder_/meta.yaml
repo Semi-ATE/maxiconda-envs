@@ -92,8 +92,8 @@ requirements:
     - freetype =2.12.1 =hca18f0e_1
     - gettext =0.21.1 =h27087fc_0
     - giflib =5.2.1 =h0b41bf4_3
-    - glib =2.76.3 =hfc55251_0
-    - glib-tools =2.76.3 =hfc55251_0
+    - glib =2.76.4 =hfc55251_0
+    - glib-tools =2.76.4 =hfc55251_0
     - gmp =6.2.1 =h58526e2_0
     - gmpy2 =2.1.2 =py37h025e8b9_0
     - graphite2 =1.3.13 =h58526e2_1001
@@ -106,7 +106,7 @@ requirements:
     - imagesize =1.4.1 =pyhd8ed1ab_0
     - importlib-metadata =4.2.0 =py37h89c1867_0
     - importlib_metadata =4.2.0 =hd8ed1ab_0
-    - importlib_resources =5.12.0 =pyhd8ed1ab_0
+    - importlib_resources =5.13.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.16.2 =pyh210e3f2_0
@@ -153,7 +153,7 @@ requirements:
     - libgcrypt =1.10.1 =h166bdaf_0
     - libgfortran-ng =13.1.0 =h69a702a_0
     - libgfortran5 =13.1.0 =h15d22d2_0
-    - libglib =2.76.3 =hebfc3b9_0
+    - libglib =2.76.4 =hebfc3b9_0
     - libgomp =13.1.0 =he5830b7_0
     - libgpg-error =1.47 =h71f35ed_0
     - libiconv =1.17 =h166bdaf_0
@@ -221,7 +221,7 @@ requirements:
     - pip =23.1.2 =pyhd8ed1ab_0
     - pixman =0.40.0 =h36c2ea0_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
-    - platformdirs =3.8.0 =pyhd8ed1ab_0
+    - platformdirs =3.8.1 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py37h89c1867_3
     - ply =3.11 =py_1
     - prompt-toolkit =3.0.39 =pyha770c72_0
@@ -330,7 +330,7 @@ requirements:
     - zeromq =4.3.4 =h9c3ff4c_1
     - zipp =3.15.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =hd590300_5
-    - zstd =1.5.2 =h3eb15da_6
+    - zstd =1.5.2 =hfc55251_7
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

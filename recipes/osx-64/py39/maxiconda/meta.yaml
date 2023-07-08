@@ -39,7 +39,7 @@ requirements:
     - numpy =1.24.4 =py39h892e69a_0
     - openpyxl =3.1.2 =py39hdc70f33_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
-    - pandas =2.0.3 =py39h11b3245_0
+    - pandas =2.0.3 =py39h11b3245_1
     - psutil =5.9.5 =py39ha30fb19_0
     - pydantic =2.0.2 =py39hdc70f33_1
     - pyqt =5.15.7 =py39h327fbb6_3
@@ -97,7 +97,7 @@ requirements:
     - clang_osx-64 =16.0.6 =h8787910_0
     - clangxx =16.0.6 =default_h762fdd7_0
     - clangxx_osx-64 =16.0.6 =h6d92fbe_0
-    - click =8.1.3 =py39h6e9494a_1
+    - click =8.1.4 =unix_pyh707e725_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.3 =pyhd8ed1ab_0
@@ -130,8 +130,8 @@ requirements:
     - gettext =0.21.1 =h8a4c099_0
     - gfortran_impl_osx-64 =12.2.0 =h158f68b_31
     - gfortran_osx-64 =12.2.0 =h18f7dce_1
-    - glib =2.76.3 =h7d26f99_0
-    - glib-tools =2.76.3 =h7d26f99_0
+    - glib =2.76.4 =h7d26f99_0
+    - glib-tools =2.76.4 =h7d26f99_0
     - gmp =6.2.1 =h2e338ed_0
     - gmpy2 =2.1.2 =py39h2da61ea_1
     - graphite2 =1.3.13 =h2e338ed_1001
@@ -142,12 +142,12 @@ requirements:
     - harfbuzz =7.3.0 =h413ba03_0
     - icu =72.1 =h7336db1_0
     - idna =3.4 =pyhd8ed1ab_0
-    - importlib-metadata =6.7.0 =pyha770c72_0
-    - importlib-resources =5.12.0 =pyhd8ed1ab_0
-    - importlib_metadata =6.7.0 =hd8ed1ab_0
-    - importlib_resources =5.12.0 =pyhd8ed1ab_0
+    - importlib-metadata =6.8.0 =pyha770c72_0
+    - importlib-resources =5.13.0 =pyhd8ed1ab_0
+    - importlib_metadata =6.8.0 =hd8ed1ab_0
+    - importlib_resources =5.13.0 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
-    - ipykernel =6.23.3 =pyh5fb750a_0
+    - ipykernel =6.24.0 =pyh5fb750a_0
     - ipython_genutils =0.2.0 =py_1
     - isl =0.25 =hb486fe8_0
     - jedi =0.18.2 =pyhd8ed1ab_0
@@ -182,7 +182,7 @@ requirements:
     - libgfortran =5.0.0 =11_3_0_h97931a8_31
     - libgfortran-devel_osx-64 =12.2.0 =hf0fd499_31
     - libgfortran5 =12.2.0 =he409387_31
-    - libglib =2.76.3 =hc62aa5d_0
+    - libglib =2.76.4 =hc62aa5d_0
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =2.1.5.1 =hb7f2c08_0
     - liblapack =3.9.0 =17_osx64_openblas
@@ -247,7 +247,7 @@ requirements:
     - pixman =0.40.0 =hbcb3906_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
-    - platformdirs =3.8.0 =pyhd8ed1ab_0
+    - platformdirs =3.8.1 =pyhd8ed1ab_0
     - pluggy =1.2.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyha770c72_3
@@ -305,9 +305,9 @@ requirements:
     - r-curl =5.0.1 =r43h0100ac3_0
     - r-data.table =1.14.8 =r43h7eccc33_2
     - r-dbi =1.1.3 =r43hc72bb7e_2
-    - r-dbplyr =2.3.2 =r43hc72bb7e_1
+    - r-dbplyr =2.3.3 =r43hc72bb7e_0
     - r-diagram =1.6.5 =r43ha770c72_2
-    - r-digest =0.6.31 =r43hac7d2d5_1
+    - r-digest =0.6.33 =r43hac7d2d5_0
     - r-dplyr =1.1.2 =r43hac7d2d5_1
     - r-dtplyr =1.3.1 =r43hc72bb7e_1
     - r-e1071 =1.7_13 =r43hac7d2d5_1
@@ -404,7 +404,7 @@ requirements:
     - r-rcpp =1.0.10 =r43hac7d2d5_1
     - r-rcppeigen =0.3.3.9.3 =r43hfaea39f_1
     - r-readr =2.1.4 =r43hac7d2d5_1
-    - r-readxl =1.4.2 =r43h88814b1_1
+    - r-readxl =1.4.3 =r43h88814b1_0
     - r-recipes =1.0.6 =r43hc72bb7e_1
     - r-recommended =4.3 =r43hd8ed1ab_1006
     - r-rematch =1.0.1 =r43hc72bb7e_1006
@@ -415,7 +415,7 @@ requirements:
     - r-rlang =1.1.1 =r43hac7d2d5_1
     - r-rmarkdown =2.23 =r43hc72bb7e_0
     - r-rpart =4.1.19 =r43h6dc245f_1
-    - r-rstudioapi =0.14 =r43hc72bb7e_2
+    - r-rstudioapi =0.15.0 =r43hc72bb7e_0
     - r-rvest =1.0.3 =r43hc72bb7e_2
     - r-sass =0.4.6 =r43hac7d2d5_1
     - r-scales =1.2.1 =r43hc72bb7e_2
@@ -459,7 +459,7 @@ requirements:
     - referencing =0.29.1 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.8.6 =py39hf33989b_0
+    - rpds-py =0.8.8 =py39hf33989b_0
     - ruamel.yaml =0.17.32 =py39hdc70f33_0
     - ruamel.yaml.clib =0.2.7 =py39ha30fb19_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
@@ -504,7 +504,7 @@ requirements:
     - zeromq =4.3.4 =he49afe7_1
     - zipp =3.15.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h8a1eda9_5
-    - zstd =1.5.2 =hbc0c0cd_6
+    - zstd =1.5.2 =h829000d_7
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

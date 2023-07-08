@@ -28,7 +28,7 @@ requirements:
     - cython =0.29.36 =py39h3d6467e_0
     - matplotlib =3.7.2 =py39hf3d152e_0
     - numpy =1.25.0 =py39h6183b62_0
-    - pandas =2.0.3 =py39h40cae4c_0
+    - pandas =2.0.3 =py39h40cae4c_1
     - pyqt =5.15.7 =py39h5c7b992_3
     - pyqtwebengine =5.15.7 =py39ha048f5d_3
     - scipy =1.11.1 =py39h6183b62_0
@@ -65,7 +65,7 @@ requirements:
     - cffi =1.15.1 =py39he91dace_3
     - chardet =5.1.0 =py39hf3d152e_0
     - charset-normalizer =3.1.0 =pyhd8ed1ab_0
-    - click =8.1.3 =py39hf3d152e_1
+    - click =8.1.4 =unix_pyh707e725_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.3 =pyhd8ed1ab_0
@@ -96,8 +96,8 @@ requirements:
     - freetype =2.12.1 =hca18f0e_1
     - gettext =0.21.1 =h27087fc_0
     - giflib =5.2.1 =h0b41bf4_3
-    - glib =2.76.3 =hfc55251_0
-    - glib-tools =2.76.3 =hfc55251_0
+    - glib =2.76.4 =hfc55251_0
+    - glib-tools =2.76.4 =hfc55251_0
     - gmp =6.2.1 =h58526e2_0
     - gmpy2 =2.1.2 =py39h376b7d2_1
     - graphite2 =1.3.13 =h58526e2_1001
@@ -107,10 +107,10 @@ requirements:
     - icu =72.1 =hcb278e6_0
     - idna =3.4 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
-    - importlib-metadata =6.7.0 =pyha770c72_0
-    - importlib-resources =5.12.0 =pyhd8ed1ab_0
-    - importlib_metadata =6.7.0 =hd8ed1ab_0
-    - importlib_resources =5.12.0 =pyhd8ed1ab_0
+    - importlib-metadata =6.8.0 =pyha770c72_0
+    - importlib-resources =5.13.0 =pyhd8ed1ab_0
+    - importlib_metadata =6.8.0 =hd8ed1ab_0
+    - importlib_resources =5.13.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.24.0 =pyh71e2992_0
@@ -155,7 +155,7 @@ requirements:
     - libgcrypt =1.10.1 =h166bdaf_0
     - libgfortran-ng =13.1.0 =h69a702a_0
     - libgfortran5 =13.1.0 =h15d22d2_0
-    - libglib =2.76.3 =hebfc3b9_0
+    - libglib =2.76.4 =hebfc3b9_0
     - libgomp =13.1.0 =he5830b7_0
     - libgpg-error =1.47 =h71f35ed_0
     - libiconv =1.17 =h166bdaf_0
@@ -222,7 +222,7 @@ requirements:
     - pip =23.1.2 =pyhd8ed1ab_0
     - pixman =0.40.0 =h36c2ea0_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
-    - platformdirs =3.8.0 =pyhd8ed1ab_0
+    - platformdirs =3.8.1 =pyhd8ed1ab_0
     - pluggy =1.2.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyha770c72_3
@@ -270,7 +270,7 @@ requirements:
     - referencing =0.29.1 =pyhd8ed1ab_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rope =1.9.0 =pyhd8ed1ab_0
-    - rpds-py =0.8.6 =py39h9fdd4d6_0
+    - rpds-py =0.8.8 =py39h9fdd4d6_0
     - rtree =1.0.1 =py39hb102c33_1
     - secretstorage =3.3.3 =py39hf3d152e_1
     - setuptools =68.0.0 =pyhd8ed1ab_0
@@ -349,7 +349,7 @@ requirements:
     - zeromq =4.3.4 =h9c3ff4c_1
     - zipp =3.15.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =hd590300_5
-    - zstd =1.5.2 =h3eb15da_6
+    - zstd =1.5.2 =hfc55251_7
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
