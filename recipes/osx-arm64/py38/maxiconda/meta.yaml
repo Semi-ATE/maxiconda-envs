@@ -90,7 +90,7 @@ requirements:
     - cctools_osx-arm64 =973.0.1 =h7a0f565_13
     - certifi =2023.5.7 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38ha45ccd6_3
-    - charset-normalizer =3.1.0 =pyhd8ed1ab_0
+    - charset-normalizer =3.2.0 =pyhd8ed1ab_0
     - clang =16.0.6 =he79909e_0
     - clang-16 =16.0.6 =default_h07b2d96_0
     - clang_osx-arm64 =16.0.6 =hc421ffc_0
@@ -142,9 +142,9 @@ requirements:
     - icu =72.1 =he12128b_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =6.8.0 =pyha770c72_0
-    - importlib-resources =5.13.0 =pyhd8ed1ab_0
+    - importlib-resources =6.0.0 =pyhd8ed1ab_0
     - importlib_metadata =6.8.0 =hd8ed1ab_0
-    - importlib_resources =5.13.0 =pyhd8ed1ab_0
+    - importlib_resources =6.0.0 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
     - ipykernel =6.24.0 =pyh5fb750a_0
     - ipython_genutils =0.2.0 =py_1
@@ -364,7 +364,7 @@ requirements:
     - r-magrittr =2.0.3 =r43h21dc0da_2
     - r-maps =3.4.1 =r43h21dc0da_2
     - r-mass =7.3_60 =r43h21dc0da_1
-    - r-matrix =1.5_4.1 =r43hdce2eb6_1
+    - r-matrix =1.6_0 =r43hdce2eb6_0
     - r-memoise =2.0.1 =r43hc72bb7e_2
     - r-mgcv =1.8_42 =r43h8420647_2
     - r-mime =0.12 =r43h21dc0da_2
@@ -418,7 +418,7 @@ requirements:
     - r-scales =1.2.1 =r43hc72bb7e_2
     - r-selectr =0.4_2 =r43hc72bb7e_3
     - r-shape =1.4.6 =r43ha770c72_2
-    - r-shiny =1.7.4 =r43h785f33e_1
+    - r-shiny =1.7.4.1 =r43h785f33e_0
     - r-sourcetools =0.1.7_1 =r43he62749d_1
     - r-spatial =7.3_16 =r43h21dc0da_1
     - r-squarem =2021.1 =r43hc72bb7e_2
