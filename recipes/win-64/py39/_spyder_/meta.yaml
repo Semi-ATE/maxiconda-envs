@@ -27,7 +27,7 @@ requirements:
     # 9 primary packages :
     - cython =0.29.36 =py39h99910a6_0
     - matplotlib =3.7.2 =py39hcbf5309_0
-    - numpy =1.25.0 =py39h816b6a6_0
+    - numpy =1.25.1 =py39h816b6a6_0
     - pandas =2.0.3 =py39h1679cfb_1
     - pyqt =5.15.7 =py39hb77abff_3
     - pyqtwebengine =5.15.7 =py39h2f4a3f1_3
@@ -38,7 +38,7 @@ requirements:
     # 245 secondary packages :
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - arrow =1.2.3 =pyhd8ed1ab_0
-    - astroid =2.15.5 =py39hcbf5309_0
+    - astroid =2.15.6 =py39hcbf5309_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
@@ -279,7 +279,7 @@ requirements:
     - yaml =0.2.5 =h8ffe710_2
     - yapf =0.33.0 =pyhd8ed1ab_1
     - zeromq =4.3.4 =h0e60522_1
-    - zipp =3.15.0 =pyhd8ed1ab_0
+    - zipp =3.16.0 =pyhd8ed1ab_0
     - zstd =1.5.2 =h12be248_7
 
 about:
