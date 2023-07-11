@@ -55,19 +55,19 @@ requirements:
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.0 =h20829a2_0
+    - aws-c-auth =0.7.0 =h9b384ed_1
     - aws-c-cal =0.6.0 =h865601d_0
     - aws-c-common =0.8.23 =h0dc2134_0
     - aws-c-compression =0.2.17 =hd42d803_1
-    - aws-c-event-stream =0.3.1 =h8382e13_0
-    - aws-c-http =0.7.10 =hb0473fa_2
-    - aws-c-io =0.13.27 =h8caa2fd_0
-    - aws-c-mqtt =0.8.13 =h6f5b2ba_5
-    - aws-c-s3 =0.3.12 =h700f7ba_2
+    - aws-c-event-stream =0.3.1 =h7dedc3b_1
+    - aws-c-http =0.7.10 =h3f765f7_3
+    - aws-c-io =0.13.28 =h8caa2fd_0
+    - aws-c-mqtt =0.8.14 =hfeb50ff_1
+    - aws-c-s3 =0.3.13 =h62e4d87_1
     - aws-c-sdkutils =0.1.11 =hd42d803_1
     - aws-checksums =0.1.16 =hd42d803_1
-    - aws-crt-cpp =0.20.2 =h818a4bf_18
-    - aws-sdk-cpp =1.10.57 =h8d6e493_16
+    - aws-crt-cpp =0.20.3 =h63e698a_3
+    - aws-sdk-cpp =1.10.57 =h6c51782_17
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -134,7 +134,7 @@ requirements:
     - gflags =2.2.2 =hb1e8313_1004
     - giflib =5.2.1 =hb7f2c08_3
     - gitdb =4.0.10 =pyhd8ed1ab_0
-    - gitpython =3.1.31 =pyhd8ed1ab_0
+    - gitpython =3.1.32 =pyhd8ed1ab_0
     - glib =2.76.4 =h7d26f99_0
     - glib-tools =2.76.4 =h7d26f99_0
     - glog =0.6.0 =h8ac2a54_0
@@ -156,9 +156,9 @@ requirements:
     - imagehash =4.3.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.11.0 =pyhd8ed1ab_0
     - importlib-metadata =6.8.0 =pyha770c72_0
-    - importlib-resources =6.0.0 =pyhd8ed1ab_0
+    - importlib-resources =6.0.0 =pyhd8ed1ab_1
     - importlib_metadata =6.8.0 =hd8ed1ab_0
-    - importlib_resources =6.0.0 =pyhd8ed1ab_0
+    - importlib_resources =6.0.0 =pyhd8ed1ab_1
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.24.0 =pyh5fb750a_0
     - ipython =8.12.2 =pyhd1c38e8_0
@@ -180,7 +180,7 @@ requirements:
     - lcms2 =2.15 =h2dcdeff_1
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230125.3 =cxx17_h000cb23_0
-    - libarrow =12.0.1 =hecdf8c6_2_cpu
+    - libarrow =12.0.1 =h5b8112e_4_cpu
     - libblas =3.9.0 =17_osx64_openblas
     - libbrotlicommon =1.0.9 =hb7f2c08_9
     - libbrotlidec =1.0.9 =hb7f2c08_9
@@ -245,7 +245,7 @@ requirements:
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mkl =2022.2.1 =h44ed08c_16952
-    - mlflow =2.4.1 =py38hf6bc2c6_0
+    - mlflow =2.4.2 =py38hf6bc2c6_0
     - mlxtend =0.22.0 =pyhd8ed1ab_0
     - mpc =1.3.1 =h81bd1dd_0
     - mpfr =4.2.0 =h4f9bd69_0
@@ -286,7 +286,7 @@ requirements:
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyha770c72_3
     - preshed =3.0.8 =py38h4cd09af_1
-    - prometheus_client =0.17.0 =pyhd8ed1ab_0
+    - prometheus_client =0.17.1 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.22.4 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.39 =pyha770c72_0
     - prompt_toolkit =3.0.39 =hd8ed1ab_0
@@ -297,7 +297,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.4 =cpu_py38he866dac_2
-    - pyarrow =12.0.1 =py38h9790107_2_cpu
+    - pyarrow =12.0.1 =py38h9790107_4_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -347,7 +347,7 @@ requirements:
     - smmap =3.0.5 =pyh44b312d_0
     - snappy =1.1.10 =h225ccf5_0
     - soupsieve =2.3.2.post1 =pyhd8ed1ab_0
-    - spacy =3.5.4 =py38hba43d4d_0
+    - spacy =3.6.0 =py38hba43d4d_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
     - spacy-loggers =1.0.4 =pyhd8ed1ab_0
     - sqlparse =0.4.4 =pyhd8ed1ab_0
@@ -392,7 +392,7 @@ requirements:
     - yaml =0.2.5 =h0d85af4_2
     - yellowbrick =1.5 =pyhd8ed1ab_0
     - zeromq =4.3.4 =he49afe7_1
-    - zipp =3.16.0 =pyhd8ed1ab_0
+    - zipp =3.16.0 =pyhd8ed1ab_1
     - zlib =1.2.13 =h8a1eda9_5
     - zope.interface =6.0 =py38hef030d1_0
     - zstd =1.5.2 =h829000d_7
