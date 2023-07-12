@@ -52,18 +52,18 @@ requirements:
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.0 =h438b140_1
+    - aws-c-auth =0.7.0 =h6f3c987_2
     - aws-c-cal =0.6.0 =h6ba3258_0
     - aws-c-common =0.8.23 =hcfcfb64_0
     - aws-c-compression =0.2.17 =h420beca_1
     - aws-c-event-stream =0.3.1 =had47b81_1
-    - aws-c-http =0.7.10 =h72ba615_3
+    - aws-c-http =0.7.11 =h72ba615_0
     - aws-c-io =0.13.28 =ha35c040_0
-    - aws-c-mqtt =0.8.14 =h2bca42c_1
-    - aws-c-s3 =0.3.13 =h6d9d015_1
+    - aws-c-mqtt =0.8.14 =h4941efa_2
+    - aws-c-s3 =0.3.13 =he04eaa7_2
     - aws-c-sdkutils =0.1.11 =h420beca_1
     - aws-checksums =0.1.16 =h420beca_1
-    - aws-crt-cpp =0.20.3 =h7ef6787_3
+    - aws-crt-cpp =0.20.3 =h247a981_4
     - aws-sdk-cpp =1.10.57 =h1a0519f_17
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -94,7 +94,7 @@ requirements:
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.1.0 =py39h1f6ef14_0
-    - cryptography =41.0.1 =py39hb6bd5e6_0
+    - cryptography =41.0.2 =py39hb6bd5e6_0
     - cssselect =1.2.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =py_0
     - cycler =0.11.0 =pyhd8ed1ab_0
@@ -188,7 +188,7 @@ requirements:
     - libgd =2.3.3 =h2ed9e1d_6
     - libglib =2.76.4 =he8f3873_0
     - libgoogle-cloud =2.12.0 =hbc1b25b_1
-    - libgrpc =1.56.0 =hea2d5f7_2
+    - libgrpc =1.56.1 =hea2d5f7_0
     - libhwloc =2.9.1 =nocuda_h15da153_6
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
