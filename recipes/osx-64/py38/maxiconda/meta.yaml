@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2023.6.3 =py38hcafd530_0
     - requests =2.31.0 =pyhd8ed1ab_0
-    - rust =1.70.0 =h7e1429e_0
+    - rust =1.71.0 =h7e1429e_0
     - scipy =1.10.1 =py38h9cf86d3_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
@@ -97,7 +97,7 @@ requirements:
     - clang_osx-64 =16.0.6 =h8787910_0
     - clangxx =16.0.6 =default_h762fdd7_0
     - clangxx_osx-64 =16.0.6 =h6d92fbe_0
-    - click =8.1.4 =unix_pyh707e725_0
+    - click =8.1.5 =unix_pyh707e725_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.3 =pyhd8ed1ab_0
@@ -126,7 +126,7 @@ requirements:
     - fonttools =4.41.0 =py38hcafd530_0
     - freetype =2.12.1 =h3f81eb7_1
     - fribidi =1.0.10 =hbcb3906_0
-    - frozenlist =1.3.3 =py38hef030d1_0
+    - frozenlist =1.4.0 =py38hcafd530_0
     - gettext =0.21.1 =h8a4c099_0
     - gfortran_impl_osx-64 =12.2.0 =h158f68b_31
     - gfortran_osx-64 =12.2.0 =h18f7dce_1
@@ -151,7 +151,7 @@ requirements:
     - ipython_genutils =0.2.0 =py_1
     - isl =0.25 =hb486fe8_0
     - jedi =0.18.2 =pyhd8ed1ab_0
-    - jsonschema =4.18.1 =pyhd8ed1ab_0
+    - jsonschema =4.18.3 =pyhd8ed1ab_0
     - jsonschema-specifications =2023.6.1 =pyhd8ed1ab_0
     - jupyter_client =8.3.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py38h50d1736_0
@@ -463,7 +463,7 @@ requirements:
     - ruamel.yaml =0.17.32 =py38hcafd530_0
     - ruamel.yaml.clib =0.2.7 =py38hef030d1_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-apple-darwin =1.70.0 =h059895a_0
+    - rust-std-x86_64-apple-darwin =1.71.0 =h059895a_0
     - semver =2.13.0 =pyh9f0ad1d_0
     - send2trash =1.8.2 =pyhd1c38e8_0
     - setuptools =68.0.0 =pyhd8ed1ab_0
