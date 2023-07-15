@@ -27,7 +27,7 @@ requirements:
     # 20 primary packages :
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - bokeh =3.1.1 =pyhd8ed1ab_0
-    - lightgbm =3.3.5 =py38h6e1195d_0
+    - lightgbm =4.0.0 =py38h8a13381_0
     - matplotlib =3.7.2 =py38h50d1736_0
     - numpy =1.24.4 =py38h9a4a08f_0
     - pandas =2.0.3 =py38h78e6021_1
@@ -180,7 +180,7 @@ requirements:
     - lcms2 =2.15 =h2dcdeff_1
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230125.3 =cxx17_h000cb23_0
-    - libarrow =12.0.1 =h5b8112e_4_cpu
+    - libarrow =12.0.1 =h5b8112e_5_cpu
     - libblas =3.9.0 =17_osx64_openblas
     - libbrotlicommon =1.0.9 =hb7f2c08_9
     - libbrotlidec =1.0.9 =hb7f2c08_9
@@ -297,7 +297,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.4 =cpu_py38he866dac_2
-    - pyarrow =12.0.1 =py38h9790107_4_cpu
+    - pyarrow =12.0.1 =py38h9790107_5_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -392,7 +392,7 @@ requirements:
     - yaml =0.2.5 =h0d85af4_2
     - yellowbrick =1.5 =pyhd8ed1ab_0
     - zeromq =4.3.4 =he49afe7_1
-    - zipp =3.16.0 =pyhd8ed1ab_1
+    - zipp =3.16.2 =pyhd8ed1ab_0
     - zlib =1.2.13 =h8a1eda9_5
     - zope.interface =6.0 =py38hef030d1_0
     - zstd =1.5.2 =h829000d_7

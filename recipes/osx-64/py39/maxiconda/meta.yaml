@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.0.3 =py39h11b3245_1
     - psutil =5.9.5 =py39ha30fb19_0
-    - pydantic =2.0.2 =py39hdc70f33_1
+    - pydantic =2.0.3 =py39hdc70f33_0
     - pyqt =5.15.7 =py39h327fbb6_3
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =7.4.0 =pyhd8ed1ab_0
@@ -259,7 +259,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic-core =2.1.2 =py39hf33989b_0
+    - pydantic-core =2.3.0 =py39hf33989b_0
     - pygments =2.15.1 =pyhd8ed1ab_0
     - pyobjc-core =9.2 =py39head00df_0
     - pyobjc-framework-cocoa =9.2 =py39head00df_0
@@ -502,7 +502,7 @@ requirements:
     - yaml =0.2.5 =h0d85af4_2
     - yarl =1.9.2 =py39hdc70f33_0
     - zeromq =4.3.4 =he49afe7_1
-    - zipp =3.16.0 =pyhd8ed1ab_1
+    - zipp =3.16.2 =pyhd8ed1ab_0
     - zlib =1.2.13 =h8a1eda9_5
     - zstd =1.5.2 =h829000d_7
 
