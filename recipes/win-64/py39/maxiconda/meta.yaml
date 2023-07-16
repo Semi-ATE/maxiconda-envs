@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.7.6 =py39ha55989b_0
     - cython =0.29.36 =py39h99910a6_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.81.1 =pyha770c72_0
+    - hypothesis =6.81.2 =pyha770c72_0
     - ipython =8.14.0 =pyh08f2357_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.2 =py39hcbf5309_0
@@ -56,7 +56,7 @@ requirements:
     - scipy =1.11.1 =py39hde5eda1_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.4 =win_pyh7428d3b_0
-    - sqlalchemy =2.0.18 =py39ha55989b_0
+    - sqlalchemy =2.0.19 =py39ha55989b_0
     - sqlite =3.42.0 =hcfcfb64_0
     - sympy =1.12 =pyh04b8f61_3
     - tqdm =4.65.0 =pyhd8ed1ab_1
@@ -231,11 +231,11 @@ requirements:
     - pcre2 =10.40 =h17e33f8_0
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =10.0.0 =py39ha9166d5_0
-    - pip =23.1.2 =pyhd8ed1ab_0
+    - pip =23.2 =pyhd8ed1ab_0
     - pixman =0.40.0 =h8ffe710_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
-    - platformdirs =3.8.1 =pyhd8ed1ab_0
+    - platformdirs =3.9.0 =pyhd8ed1ab_0
     - pluggy =1.2.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyha770c72_3
@@ -260,7 +260,7 @@ requirements:
     - python_abi =3.9 =3_cp39
     - pytz =2023.3 =pyhd8ed1ab_0
     - pywin32 =304 =py39h99910a6_2
-    - pywinpty =2.0.10 =py39h99910a6_0
+    - pywinpty =2.0.11 =py39h99910a6_0
     - pyzmq =25.1.0 =py39hea35a22_0
     - qt-main =5.15.8 =h2c8576c_14
     - qtpy =2.3.1 =pyhd8ed1ab_0
@@ -404,7 +404,7 @@ requirements:
     - r-rpart =4.1.19 =r41h6d2157b_1
     - r-rstudioapi =0.14 =r41hc72bb7e_1
     - r-rvest =1.0.3 =r41hc72bb7e_1
-    - r-sass =0.4.6 =r41ha856d6a_1
+    - r-sass =0.4.7 =r41ha856d6a_0
     - r-scales =1.2.1 =r41hc72bb7e_1
     - r-selectr =0.4_2 =r41hc72bb7e_2
     - r-shape =1.4.6 =r41ha770c72_1
@@ -482,7 +482,7 @@ requirements:
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1
     - websocket-client =1.6.1 =pyhd8ed1ab_0
-    - wheel =0.40.0 =pyhd8ed1ab_0
+    - wheel =0.40.0 =pyhd8ed1ab_1
     - win_inet_pton =1.1.0 =py39hcbf5309_5
     - winpty =0.4.3 =4
     - xorg-libxau =1.0.11 =hcd874cb_0

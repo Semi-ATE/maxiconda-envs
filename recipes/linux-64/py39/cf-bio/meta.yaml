@@ -176,8 +176,8 @@ requirements:
     - mrcfile =1.4.3 =pyhd8ed1ab_0
     - msgpack-python =1.0.5 =py39h4b4f3f3_0
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - mysql-common =8.0.33 =hf1915f5_1
-    - mysql-libs =8.0.33 =hca2cd23_1
+    - mysql-common =8.0.33 =hf1915f5_2
+    - mysql-libs =8.0.33 =hca2cd23_2
     - ncurses =6.4 =hcb278e6_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - netcdf4 =1.6.4 =nompi_py39h4218a78_101
@@ -194,9 +194,9 @@ requirements:
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =10.0.0 =py39haaeba84_0
-    - pip =23.1.2 =pyhd8ed1ab_0
+    - pip =23.2 =pyhd8ed1ab_0
     - pixman =0.40.0 =h36c2ea0_0
-    - platformdirs =3.8.1 =pyhd8ed1ab_0
+    - platformdirs =3.9.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pmw =2.0.1 =py39hf3d152e_1007
     - pooch =1.7.0 =pyha770c72_3
@@ -231,7 +231,7 @@ requirements:
     - sip =6.7.9 =py39h3d6467e_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.1.10 =h9fff704_0
-    - sqlalchemy =2.0.18 =py39hd1e30aa_0
+    - sqlalchemy =2.0.19 =py39hd1e30aa_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.0 =py39h0f8d45d_1
     - threadpoolctl =3.2.0 =pyha21a80b_0
@@ -248,7 +248,7 @@ requirements:
     - unicodedata2 =15.0.0 =py39hb9d737c_0
     - urllib3 =2.0.3 =pyhd8ed1ab_1
     - wcwidth =0.2.6 =pyhd8ed1ab_0
-    - wheel =0.40.0 =pyhd8ed1ab_0
+    - wheel =0.40.0 =pyhd8ed1ab_1
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =hd590300_1
     - xcb-util-image =0.4.0 =h8ee46fc_1

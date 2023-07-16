@@ -40,7 +40,7 @@ requirements:
     - scrapy =2.9.0 =py39hcbf5309_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.4 =win_pyh7428d3b_0
-    - sqlalchemy =2.0.18 =py39ha55989b_0
+    - sqlalchemy =2.0.19 =py39ha55989b_0
     - sqlite =3.42.0 =hcfcfb64_0
     - statsmodels =0.14.0 =py39hbaa61f9_1
     - xgboost =1.7.4 =cpu_py39ha538f94_2
@@ -188,7 +188,7 @@ requirements:
     - libgd =2.3.3 =h2ed9e1d_6
     - libglib =2.76.4 =he8f3873_0
     - libgoogle-cloud =2.12.0 =hbc1b25b_1
-    - libgrpc =1.56.1 =hea2d5f7_0
+    - libgrpc =1.56.2 =hea2d5f7_0
     - libhwloc =2.9.1 =nocuda_h15da153_6
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
@@ -255,9 +255,9 @@ requirements:
     - phik =0.12.3 =py39h0f24028_0
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =10.0.0 =py39ha9166d5_0
-    - pip =23.1.2 =pyhd8ed1ab_0
+    - pip =23.2 =pyhd8ed1ab_0
     - pixman =0.40.0 =h8ffe710_0
-    - platformdirs =3.8.1 =pyhd8ed1ab_0
+    - platformdirs =3.9.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyha770c72_3
     - preshed =3.0.8 =py39h99910a6_1
@@ -361,7 +361,7 @@ requirements:
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - websocket-client =1.6.1 =pyhd8ed1ab_0
     - werkzeug =2.3.6 =pyhd8ed1ab_0
-    - wheel =0.40.0 =pyhd8ed1ab_0
+    - wheel =0.40.0 =pyhd8ed1ab_1
     - widgetsnbextension =4.0.8 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py39hcbf5309_5
     - wordcloud =1.9.2 =py39ha55989b_1
