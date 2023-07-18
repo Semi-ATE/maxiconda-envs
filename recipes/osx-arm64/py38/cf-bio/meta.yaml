@@ -36,9 +36,22 @@ requirements:
     - scipy =1.10.1 =py38h038e806_3
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
 
-    # 195 secondary packages :
+    # 208 secondary packages :
     - appnope =0.1.3 =pyhd8ed1ab_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
+    - aws-c-auth =0.7.0 =hf4e22b4_2
+    - aws-c-cal =0.6.0 =h43a37b4_0
+    - aws-c-common =0.8.23 =hb547adb_0
+    - aws-c-compression =0.2.17 =h31a6291_1
+    - aws-c-event-stream =0.3.1 =h1e1aaf7_1
+    - aws-c-http =0.7.11 =h3107daf_0
+    - aws-c-io =0.13.28 =hf096fb3_0
+    - aws-c-mqtt =0.8.14 =h9418dbe_2
+    - aws-c-s3 =0.3.13 =h79b0d72_2
+    - aws-c-sdkutils =0.1.11 =h31a6291_1
+    - aws-checksums =0.1.16 =h31a6291_1
+    - aws-crt-cpp =0.20.3 =h0918d87_4
+    - aws-sdk-cpp =1.10.57 =h6f3a27c_17
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -128,7 +141,7 @@ requirements:
     - libjpeg-turbo =2.1.5.1 =h1a8c8d9_0
     - liblapack =3.9.0 =17_osxarm64_openblas
     - libllvm15 =15.0.7 =h504e6bf_2
-    - libnetcdf =4.9.2 =nompi_hf3c790a_107
+    - libnetcdf =4.9.2 =nompi_h9fa6108_108
     - libnghttp2 =1.52.0 =hae82a92_0
     - libogg =1.3.4 =h27ca646_1
     - libopenblas =0.3.23 =openmp_hc731615_0

@@ -36,12 +36,25 @@ requirements:
     - scipy =1.10.1 =py38h59b608b_3
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
 
-    # 235 secondary packages :
+    # 249 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.9 =hd590300_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - attr =2.5.1 =h166bdaf_1
+    - aws-c-auth =0.7.0 =hf8751d9_2
+    - aws-c-cal =0.6.0 =h93469e0_0
+    - aws-c-common =0.8.23 =hd590300_0
+    - aws-c-compression =0.2.17 =h862ab75_1
+    - aws-c-event-stream =0.3.1 =h9599702_1
+    - aws-c-http =0.7.11 =hbe98c3e_0
+    - aws-c-io =0.13.28 =h3870b5a_0
+    - aws-c-mqtt =0.8.14 =h2e270ba_2
+    - aws-c-s3 =0.3.13 =heb0bb06_2
+    - aws-c-sdkutils =0.1.11 =h862ab75_1
+    - aws-checksums =0.1.16 =h862ab75_1
+    - aws-crt-cpp =0.20.3 =he9c0e7f_4
+    - aws-sdk-cpp =1.10.57 =hbc2ea52_17
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -145,7 +158,7 @@ requirements:
     - libjpeg-turbo =2.1.5.1 =h0b41bf4_0
     - liblapack =3.9.0 =17_linux64_openblas
     - libllvm15 =15.0.7 =h5cf9203_2
-    - libnetcdf =4.9.2 =nompi_he09a3a9_107
+    - libnetcdf =4.9.2 =nompi_h7e745eb_108
     - libnghttp2 =1.52.0 =h61bc06f_0
     - libnsl =2.0.0 =h7f98852_0
     - libogg =1.3.4 =h7f98852_1
@@ -224,6 +237,7 @@ requirements:
     - reportlab =4.0.4 =py38h01eb140_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
+    - s2n =1.3.46 =h06160fa_0
     - scikit-learn =1.3.0 =py38hc099248_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - seaborn-base =0.12.2 =pyhd8ed1ab_0

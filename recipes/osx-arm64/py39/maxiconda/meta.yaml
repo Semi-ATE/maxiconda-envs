@@ -28,7 +28,7 @@ requirements:
     - aiohttp =3.8.4 =py39h0f82c59_1
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
-    - cython =0.29.36 =py39hb198ff7_0
+    - cython =3.0.0 =py39hb198ff7_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
     - hypothesis =6.81.2 =pyha770c72_0
     - ipython =8.14.0 =pyhd1c38e8_0
@@ -220,9 +220,9 @@ requirements:
     - mysql-libs =8.0.33 =hb292caa_2
     - nbclassic =1.0.0 =pyhb4ecaf3_1
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert =7.6.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.6.0 =pyhd8ed1ab_0
-    - nbconvert-pandoc =7.6.0 =pyhd8ed1ab_0
+    - nbconvert =7.7.1 =pyhd8ed1ab_0
+    - nbconvert-core =7.7.1 =pyhd8ed1ab_0
+    - nbconvert-pandoc =7.7.1 =pyhd8ed1ab_0
     - nbformat =5.9.1 =pyhd8ed1ab_0
     - ncurses =6.4 =h7ea286d_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
@@ -393,7 +393,7 @@ requirements:
     - r-pryr =0.1.6 =r43he62749d_1
     - r-ps =1.7.5 =r43h21dc0da_1
     - r-purrr =1.0.1 =r43h21dc0da_1
-    - r-quantmod =0.4.23 =r43hc72bb7e_1
+    - r-quantmod =0.4.24 =r43hc72bb7e_0
     - r-r6 =2.5.1 =r43hc72bb7e_2
     - r-ragg =1.2.5 =r43he383b5e_2
     - r-randomforest =4.7_1.1 =r43h81fe24e_2
@@ -458,7 +458,7 @@ requirements:
     - referencing =0.29.1 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.8.10 =py39haff01fd_0
+    - rpds-py =0.8.11 =py39haff01fd_0
     - ruamel.yaml =0.17.32 =py39h0f82c59_0
     - ruamel.yaml.clib =0.2.7 =py39h02fc5c5_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1

@@ -36,8 +36,21 @@ requirements:
     - scipy =1.11.1 =py39hde5eda1_0
     - spyder-kernels =2.4.4 =win_pyh7428d3b_0
 
-    # 191 secondary packages :
+    # 204 secondary packages :
     - asttokens =2.2.1 =pyhd8ed1ab_0
+    - aws-c-auth =0.7.0 =h6f3c987_2
+    - aws-c-cal =0.6.0 =h6ba3258_0
+    - aws-c-common =0.8.23 =hcfcfb64_0
+    - aws-c-compression =0.2.17 =h420beca_1
+    - aws-c-event-stream =0.3.1 =had47b81_1
+    - aws-c-http =0.7.11 =h72ba615_0
+    - aws-c-io =0.13.28 =ha35c040_0
+    - aws-c-mqtt =0.8.14 =h4941efa_2
+    - aws-c-s3 =0.3.13 =he04eaa7_2
+    - aws-c-sdkutils =0.1.11 =h420beca_1
+    - aws-checksums =0.1.16 =h420beca_1
+    - aws-crt-cpp =0.20.3 =h247a981_4
+    - aws-sdk-cpp =1.10.57 =h1a0519f_17
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -122,7 +135,7 @@ requirements:
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
     - liblapack =3.9.0 =17_win64_mkl
-    - libnetcdf =4.9.2 =nompi_h5902ca5_107
+    - libnetcdf =4.9.2 =nompi_h624ddae_108
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
     - libsodium =1.0.18 =h8d14728_1
