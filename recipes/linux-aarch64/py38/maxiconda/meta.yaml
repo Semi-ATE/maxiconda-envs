@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.7.6 =py38hea3b116_0
     - cython =3.0.0 =py38hb83fbf6_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.81.2 =pyha770c72_0
+    - hypothesis =6.82.0 =pyha770c72_0
     - ipython =8.12.2 =pyh41d4057_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.2 =py38h2063c64_0
@@ -238,7 +238,7 @@ requirements:
     - mysql-common =8.0.33 =hb6794ad_2
     - mysql-libs =8.0.33 =hf629957_2
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.7.1 =pyhd8ed1ab_1
+    - nbconvert-core =7.7.2 =pyhd8ed1ab_0
     - nbformat =5.9.1 =pyhd8ed1ab_0
     - ncurses =6.4 =h2e1726e_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
@@ -313,7 +313,7 @@ requirements:
     - r-colorspace =2.1_0 =r43h25e906a_1
     - r-commonmark =1.9.0 =r43h25e906a_1
     - r-conflicted =1.2.0 =r43h785f33e_1
-    - r-cpp11 =0.4.4 =r43hc72bb7e_0
+    - r-cpp11 =0.4.5 =r43hc72bb7e_0
     - r-crayon =1.5.2 =r43hc72bb7e_2
     - r-crul =1.4.0 =r43h785f33e_1
     - r-curl =5.0.1 =r43h8aed89a_0
@@ -335,10 +335,10 @@ requirements:
     - r-foreach =1.5.2 =r43hc72bb7e_2
     - r-foreign =0.8_84 =r43h25e906a_1
     - r-formatr =1.14 =r43hc72bb7e_1
-    - r-fs =1.6.2 =r43h93f32a7_1
+    - r-fs =1.6.3 =r43h93f32a7_0
     - r-future =1.33.0 =r43hc72bb7e_0
     - r-future.apply =1.11.0 =r43hc72bb7e_1
-    - r-gargle =1.5.1 =r43h785f33e_0
+    - r-gargle =1.5.2 =r43h785f33e_0
     - r-generics =0.1.3 =r43hc72bb7e_2
     - r-ggplot2 =3.4.2 =r43hc72bb7e_1
     - r-gistr =0.9.0 =r43hc72bb7e_2

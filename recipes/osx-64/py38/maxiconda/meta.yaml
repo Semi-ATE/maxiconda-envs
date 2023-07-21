@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.7.6 =py38hcafd530_0
     - cython =3.0.0 =py38h940360d_0
     - grayskull =2.3.0 =pyhd8ed1ab_1
-    - hypothesis =6.81.2 =pyha770c72_0
+    - hypothesis =6.82.0 =pyha770c72_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.2 =py38h50d1736_0
@@ -130,7 +130,7 @@ requirements:
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.4.0 =py38hcafd530_0
     - gettext =0.21.1 =h8a4c099_0
-    - gfortran_impl_osx-64 =12.2.0 =h158f68b_31
+    - gfortran_impl_osx-64 =12.2.0 =hdfd80ef_32
     - gfortran_osx-64 =12.2.0 =h18f7dce_1
     - glib =2.76.4 =h7d26f99_0
     - glib-tools =2.76.4 =h7d26f99_0
@@ -139,8 +139,8 @@ requirements:
     - graphite2 =1.3.13 =h2e338ed_1001
     - greenlet =2.0.2 =py38h940360d_1
     - gsl =2.7 =h93259b0_0
-    - gst-plugins-base =1.22.4 =hb5d3a86_1
-    - gstreamer =1.22.4 =h840fbdc_1
+    - gst-plugins-base =1.22.5 =hb5d3a86_0
+    - gstreamer =1.22.5 =h840fbdc_0
     - harfbuzz =7.3.0 =h413ba03_0
     - icu =72.1 =h7336db1_0
     - idna =3.4 =pyhd8ed1ab_0
@@ -184,9 +184,9 @@ requirements:
     - libev =4.33 =haf1e3a3_1
     - libexpat =2.5.0 =hf0c8a7f_1
     - libffi =3.4.2 =h0d85af4_5
-    - libgfortran =5.0.0 =11_3_0_h97931a8_31
-    - libgfortran-devel_osx-64 =12.2.0 =hf0fd499_31
-    - libgfortran5 =12.2.0 =he409387_31
+    - libgfortran =5.0.0 =11_3_0_h97931a8_32
+    - libgfortran-devel_osx-64 =12.2.0 =hf0fd499_32
+    - libgfortran5 =12.2.0 =he409387_32
     - libglib =2.76.4 =hc62aa5d_0
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =2.1.5.1 =hb7f2c08_0
@@ -225,7 +225,7 @@ requirements:
     - mysql-common =8.0.33 =hc6116ba_2
     - mysql-libs =8.0.33 =haa61052_2
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.7.1 =pyhd8ed1ab_1
+    - nbconvert-core =7.7.2 =pyhd8ed1ab_0
     - nbformat =5.9.1 =pyhd8ed1ab_0
     - ncurses =6.4 =hf0c8a7f_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
@@ -301,7 +301,7 @@ requirements:
     - r-colorspace =2.1_0 =r43h6dc245f_1
     - r-commonmark =1.9.0 =r43h6dc245f_1
     - r-conflicted =1.2.0 =r43h785f33e_1
-    - r-cpp11 =0.4.4 =r43hc72bb7e_0
+    - r-cpp11 =0.4.5 =r43hc72bb7e_0
     - r-crayon =1.5.2 =r43hc72bb7e_2
     - r-crul =1.4.0 =r43h785f33e_1
     - r-curl =5.0.1 =r43h0100ac3_0
@@ -323,10 +323,10 @@ requirements:
     - r-foreach =1.5.2 =r43hc72bb7e_2
     - r-foreign =0.8_84 =r43h6dc245f_1
     - r-formatr =1.14 =r43hc72bb7e_1
-    - r-fs =1.6.2 =r43hac7d2d5_1
+    - r-fs =1.6.3 =r43hac7d2d5_0
     - r-future =1.33.0 =r43hc72bb7e_0
     - r-future.apply =1.11.0 =r43hc72bb7e_1
-    - r-gargle =1.5.1 =r43h785f33e_0
+    - r-gargle =1.5.2 =r43h785f33e_0
     - r-generics =0.1.3 =r43hc72bb7e_2
     - r-ggplot2 =3.4.2 =r43hc72bb7e_1
     - r-gistr =0.9.0 =r43hc72bb7e_2
