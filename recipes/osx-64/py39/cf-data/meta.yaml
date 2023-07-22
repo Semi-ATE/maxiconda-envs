@@ -121,7 +121,7 @@ requirements:
     - fontconfig =2.14.2 =h5bb23bf_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.41.0 =py39hdc70f33_0
+    - fonttools =4.41.1 =py39hdc70f33_0
     - freetype =2.12.1 =h3f81eb7_1
     - fribidi =1.0.10 =hbcb3906_0
     - fst-pso =1.8.1 =pyhd8ed1ab_0
@@ -198,8 +198,8 @@ requirements:
     - libexpat =2.5.0 =hf0c8a7f_1
     - libffi =3.4.2 =h0d85af4_5
     - libgd =2.3.3 =h3d994df_6
-    - libgfortran =5.0.0 =11_3_0_h97931a8_32
-    - libgfortran5 =12.2.0 =he409387_32
+    - libgfortran =5.0.0 =12_3_0_h97931a8_0
+    - libgfortran5 =12.3.0 =hbd3c1fe_0
     - libglib =2.76.4 =hc62aa5d_0
     - libgoogle-cloud =2.12.0 =h20eaa6e_1
     - libgrpc =1.54.2 =hfaa49da_2
@@ -262,7 +262,7 @@ requirements:
     - nspr =4.35 =hea0b92c_0
     - nss =3.89 =h78b00b3_0
     - numba =0.57.1 =py39hb7a5252_0
-    - numexpr =2.8.4 =py39h75c1baf_0
+    - numexpr =2.8.4 =py39h11b3245_1
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h13ac156_2
     - openssl =3.1.1 =h8a1eda9_1
