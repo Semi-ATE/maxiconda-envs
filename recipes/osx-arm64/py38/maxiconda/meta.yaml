@@ -87,16 +87,16 @@ requirements:
     - bwidget =1.9.14 =hce30654_1
     - bzip2 =1.0.8 =h3422bc3_4
     - c-ares =1.19.1 =hb547adb_0
-    - ca-certificates =2023.5.7 =hf0a4a13_0
+    - ca-certificates =2023.7.22 =hf0a4a13_0
     - cairo =1.16.0 =h1e71087_1016
     - cctools_osx-arm64 =973.0.1 =h7a0f565_13
-    - certifi =2023.5.7 =pyhd8ed1ab_0
+    - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38ha45ccd6_3
     - charset-normalizer =3.2.0 =pyhd8ed1ab_0
-    - clang =16.0.6 =he79909e_0
-    - clang-16 =16.0.6 =default_h07b2d96_0
+    - clang =16.0.6 =he79909e_1
+    - clang-16 =16.0.6 =default_h07b2d96_1
     - clang_osx-arm64 =16.0.6 =hc421ffc_0
-    - clangxx =16.0.6 =default_h298e243_0
+    - clangxx =16.0.6 =default_h298e243_1
     - clangxx_osx-arm64 =16.0.6 =hcd7bac0_0
     - click =8.1.6 =unix_pyh707e725_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
@@ -174,7 +174,7 @@ requirements:
     - libbrotlienc =1.0.9 =h1a8c8d9_9
     - libcblas =3.9.0 =17_osxarm64_openblas
     - libclang =15.0.7 =default_h5dc8d65_2
-    - libclang-cpp16 =16.0.6 =default_h07b2d96_0
+    - libclang-cpp16 =16.0.6 =default_h07b2d96_1
     - libclang13 =15.0.7 =default_hc7183e1_2
     - libcurl =8.1.2 =h912dcd9_0
     - libcxx =16.0.6 =h4653b0c_0
@@ -192,7 +192,7 @@ requirements:
     - liblapack =3.9.0 =17_osxarm64_openblas
     - libllvm14 =14.0.6 =hd1a9a77_3
     - libllvm15 =15.0.7 =h504e6bf_2
-    - libllvm16 =16.0.6 =he79909e_0
+    - libllvm16 =16.0.6 =he79909e_1
     - libnghttp2 =1.52.0 =hae82a92_0
     - libogg =1.3.4 =h27ca646_1
     - libopenblas =0.3.23 =openmp_hc731615_0
@@ -209,7 +209,7 @@ requirements:
     - libxml2 =2.11.4 =he3bdae6_0
     - libzlib =1.2.13 =h53f4e23_5
     - llvm-openmp =16.0.6 =h1c12783_0
-    - llvm-tools =16.0.6 =he79909e_0
+    - llvm-tools =16.0.6 =he79909e_1
     - llvmlite =0.40.1 =py38h761d82c_0
     - make =4.3 =he57ea6c_1
     - markupsafe =2.1.3 =py38hb192615_0
@@ -244,7 +244,7 @@ requirements:
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py_1003
     - pillow =10.0.0 =py38h3f590de_0
-    - pip =23.2 =pyhd8ed1ab_0
+    - pip =23.2.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h27ca646_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
@@ -266,7 +266,7 @@ requirements:
     - pyqt5-sip =12.11.0 =py38h2b1e499_3
     - pysocks =1.7.1 =py38h10201cd_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
-    - python-fastjsonschema =2.17.1 =pyhd8ed1ab_0
+    - python-fastjsonschema =2.18.0 =pyhd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2023.3 =pyhd8ed1ab_0
     - python-utils =3.7.0 =pyhd8ed1ab_0
@@ -493,7 +493,7 @@ requirements:
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1
     - websocket-client =1.6.1 =pyhd8ed1ab_0
-    - wheel =0.40.0 =pyhd8ed1ab_1
+    - wheel =0.41.0 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xorg-libxau =1.0.11 =hb547adb_0
     - xorg-libxdmcp =1.1.3 =h27ca646_0
