@@ -78,7 +78,7 @@ requirements:
     - c-ares =1.19.1 =hcfcfb64_0
     - ca-certificates =2023.7.22 =h56e8100_0
     - cairo =1.16.0 =hdecc03f_1016
-    - catalogue =2.0.8 =py39hcbf5309_1
+    - catalogue =2.0.9 =py39hcbf5309_0
     - catboost =1.2 =py39hcbf5309_4
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.15.1 =py39h68f70e3_3
@@ -150,7 +150,7 @@ requirements:
     - importlib_metadata =6.8.0 =hd8ed1ab_0
     - importlib_resources =6.0.0 =pyhd8ed1ab_1
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - intel-openmp =2023.1.0 =h57928b3_46319
+    - intel-openmp =2023.2.0 =h57928b3_49496
     - ipykernel =6.24.0 =pyh6817e22_0
     - ipython =8.14.0 =pyh08f2357_0
     - ipywidgets =8.0.7 =pyhd8ed1ab_0
@@ -171,7 +171,7 @@ requirements:
     - lcms2 =2.15 =h3e3b177_1
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230125.3 =cxx17_h63175ca_0
-    - libarrow =12.0.1 =h0578746_5_cpu
+    - libarrow =12.0.1 =h0578746_6_cpu
     - libblas =3.9.0 =17_win64_mkl
     - libbrotlicommon =1.0.9 =hcfcfb64_9
     - libbrotlidec =1.0.9 =hcfcfb64_9
@@ -272,7 +272,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.4 =cpu_py39ha538f94_2
-    - pyarrow =12.0.1 =py39hca4e8af_5_cpu
+    - pyarrow =12.0.1 =py39hca4e8af_6_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -315,7 +315,7 @@ requirements:
     - setuptools =68.0.0 =pyhd8ed1ab_0
     - shellingham =1.5.1 =pyhd8ed1ab_0
     - simpful =2.11.0 =pyhd8ed1ab_0
-    - sip =6.7.9 =py39h99910a6_0
+    - sip =6.7.10 =py39h99910a6_0
     - six =1.16.0 =pyh6c4a22f_0
     - smart_open =5.2.1 =pyhd8ed1ab_0
     - smmap =3.0.5 =pyh44b312d_0
