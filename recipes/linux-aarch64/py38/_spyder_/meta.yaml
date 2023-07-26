@@ -29,8 +29,8 @@ requirements:
     - matplotlib =3.7.2 =py38h2063c64_0
     - numpy =1.24.4 =py38he3f4005_0
     - pandas =2.0.3 =py38h958bb2c_1
-    - pyqt =5.15.7 =py38h78f0ab1_3
-    - pyqtwebengine =5.15.7 =py38hea26669_3
+    - pyqt =5.15.9 =py38h3dfd979_4
+    - pyqtwebengine =5.15.9 =py38h5aeb490_4
     - scipy =1.10.1 =py38he3f4005_3
     - spyder =5.4.4 =py38he3eb160_0
     - sympy =1.12 =pypyh9d50eac_103
@@ -112,7 +112,7 @@ requirements:
     - importlib_resources =6.0.0 =pyhd8ed1ab_1
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
-    - ipykernel =6.24.0 =pyh71e2992_0
+    - ipykernel =6.25.0 =pyh71e2992_0
     - ipython =8.12.2 =pyh41d4057_0
     - ipython_genutils =0.2.0 =py_1
     - isort =5.12.0 =pyhd8ed1ab_1
@@ -198,9 +198,9 @@ requirements:
     - mysql-common =8.0.33 =hb6794ad_2
     - mysql-libs =8.0.33 =hf629957_2
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert =7.7.2 =pyhd8ed1ab_0
-    - nbconvert-core =7.7.2 =pyhd8ed1ab_0
-    - nbconvert-pandoc =7.7.2 =pyhd8ed1ab_0
+    - nbconvert =7.7.3 =pyhd8ed1ab_0
+    - nbconvert-core =7.7.3 =pyhd8ed1ab_0
+    - nbconvert-pandoc =7.7.3 =pyhd8ed1ab_0
     - nbformat =5.9.1 =pyhd8ed1ab_0
     - ncurses =6.4 =h2e1726e_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
@@ -241,7 +241,7 @@ requirements:
     - pylint-venv =3.0.2 =pyhd8ed1ab_0
     - pyls-spyder =0.4.0 =pyhd8ed1ab_0
     - pyparsing =3.0.9 =pyhd8ed1ab_0
-    - pyqt5-sip =12.11.0 =py38h31bd7b8_3
+    - pyqt5-sip =12.12.2 =py38hb83fbf6_4
     - pysocks =1.7.1 =py38h2063c64_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-fastjsonschema =2.18.0 =pyhd8ed1ab_0
