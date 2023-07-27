@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.0.3 =py39h11b3245_1
     - psutil =5.9.5 =py39ha30fb19_0
-    - pydantic =2.1.0 =pyhd8ed1ab_0
+    - pydantic =2.1.1 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py39h3dce684_4
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =7.4.0 =pyhd8ed1ab_0
@@ -110,7 +110,7 @@ requirements:
     - compiler-rt_osx-64 =16.0.6 =he1888fc_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.0 =py39h8ee36c8_0
-    - curl =8.2.0 =h5f667d7_0
+    - curl =8.2.1 =h5f667d7_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.7 =py39h7a8716b_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -184,7 +184,7 @@ requirements:
     - libclang =15.0.7 =default_hdb78580_2
     - libclang-cpp16 =16.0.6 =default_h762fdd7_1
     - libclang13 =15.0.7 =default_h953c2e9_2
-    - libcurl =8.2.0 =h5f667d7_0
+    - libcurl =8.2.1 =h5f667d7_0
     - libcxx =16.0.6 =hd57cbcb_0
     - libdeflate =1.18 =hac1461d_0
     - libedit =3.1.20191231 =h0678c8f_2
