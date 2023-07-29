@@ -102,7 +102,7 @@ requirements:
     - graphite2 =1.3.13 =h58526e2_1001
     - greenlet =2.0.2 =py38h17151c0_1
     - griddataformats =1.0.1 =pyhd8ed1ab_0
-    - gsd =3.0.1 =py38h31356c5_0
+    - gsd =3.1.0 =py38h31356c5_0
     - gst-plugins-base =1.22.5 =hf7dbed1_0
     - gstreamer =1.22.5 =h98fc4e7_0
     - h5py =3.9.0 =nompi_py38hc4a6f91_101
@@ -133,10 +133,10 @@ requirements:
     - libbrotlicommon =1.0.9 =h166bdaf_9
     - libbrotlidec =1.0.9 =h166bdaf_9
     - libbrotlienc =1.0.9 =h166bdaf_9
-    - libcap =2.67 =he9d0100_0
+    - libcap =2.69 =h0f662aa_0
     - libcblas =3.9.0 =17_linux64_openblas
-    - libclang =15.0.7 =default_h7634d5b_2
-    - libclang13 =15.0.7 =default_h9986a30_2
+    - libclang =15.0.7 =default_h7634d5b_3
+    - libclang13 =15.0.7 =default_h9986a30_3
     - libcups =2.3.3 =h4637d8d_4
     - libcurl =8.2.1 =hca28451_0
     - libdeflate =1.18 =h0b41bf4_0
@@ -157,7 +157,7 @@ requirements:
     - libiconv =1.17 =h166bdaf_0
     - libjpeg-turbo =2.1.5.1 =h0b41bf4_0
     - liblapack =3.9.0 =17_linux64_openblas
-    - libllvm15 =15.0.7 =h5cf9203_2
+    - libllvm15 =15.0.7 =h5cf9203_3
     - libnetcdf =4.9.2 =nompi_h7e745eb_109
     - libnghttp2 =1.52.0 =h61bc06f_0
     - libnsl =2.0.0 =h7f98852_0
@@ -171,7 +171,7 @@ requirements:
     - libsqlite =3.42.0 =h2797004_0
     - libssh2 =1.11.0 =h0841786_0
     - libstdcxx-ng =13.1.0 =hfd8a6a1_0
-    - libsystemd0 =253 =h8c4010b_1
+    - libsystemd0 =254 =h3516f8a_0
     - libtiff =4.5.1 =h8b53f26_0
     - libuuid =2.38.1 =h0b41bf4_0
     - libvorbis =1.3.7 =h9c3ff4c_0

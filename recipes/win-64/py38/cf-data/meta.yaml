@@ -171,14 +171,14 @@ requirements:
     - lcms2 =2.15 =h3e3b177_1
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230125.3 =cxx17_h63175ca_0
-    - libarrow =12.0.1 =h0578746_6_cpu
+    - libarrow =12.0.1 =h0578746_7_cpu
     - libblas =3.9.0 =17_win64_mkl
     - libbrotlicommon =1.0.9 =hcfcfb64_9
     - libbrotlidec =1.0.9 =hcfcfb64_9
     - libbrotlienc =1.0.9 =hcfcfb64_9
     - libcblas =3.9.0 =17_win64_mkl
-    - libclang =15.0.7 =default_h77d9078_2
-    - libclang13 =15.0.7 =default_h77d9078_2
+    - libclang =15.0.7 =default_h77d9078_3
+    - libclang13 =15.0.7 =default_h77d9078_3
     - libcrc32c =1.1.2 =h0e60522_0
     - libcurl =8.2.1 =hd5e4a3a_0
     - libdeflate =1.18 =hcfcfb64_0
@@ -189,7 +189,7 @@ requirements:
     - libglib =2.76.4 =he8f3873_0
     - libgoogle-cloud =2.12.0 =hbc1b25b_1
     - libgrpc =1.56.2 =hea2d5f7_0
-    - libhwloc =2.9.1 =nocuda_h15da153_6
+    - libhwloc =2.9.2 =nocuda_h15da153_1008
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
     - liblapack =3.9.0 =17_win64_mkl
@@ -272,7 +272,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.4 =cpu_py38hc22ac66_2
-    - pyarrow =12.0.1 =py38h75459e5_6_cpu
+    - pyarrow =12.0.1 =py38h75459e5_7_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -329,7 +329,7 @@ requirements:
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
-    - tbb =2021.9.0 =h91493d7_0
+    - tbb =2021.10.0 =h91493d7_0
     - tenacity =8.2.2 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
     - thinc =8.1.10 =py38h618a1af_0
