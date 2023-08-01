@@ -93,15 +93,15 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.16.0 =h09dd18c_1016
-    - cctools_osx-64 =973.0.1 =h5676edf_13
+    - cctools_osx-64 =973.0.1 =ha1c5b94_14
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.15.1 =py39h131948b_3
     - charset-normalizer =3.2.0 =pyhd8ed1ab_0
     - clang =16.0.6 =hc177806_1
     - clang-16 =16.0.6 =default_h762fdd7_1
-    - clang_osx-64 =16.0.6 =h8787910_0
+    - clang_osx-64 =16.0.6 =h8787910_1
     - clangxx =16.0.6 =default_h762fdd7_1
-    - clangxx_osx-64 =16.0.6 =h6d92fbe_0
+    - clangxx_osx-64 =16.0.6 =h1b7723c_1
     - click =8.1.6 =unix_pyh707e725_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
@@ -165,7 +165,7 @@ requirements:
     - jupyter-lsp =2.2.0 =pyhd8ed1ab_0
     - jupyter_client =8.3.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py39h6e9494a_0
-    - jupyter_events =0.6.3 =pyhd8ed1ab_1
+    - jupyter_events =0.7.0 =pyhd8ed1ab_0
     - jupyter_server =2.7.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
     - jupyterlab =4.0.3 =pyhd8ed1ab_0
@@ -174,7 +174,7 @@ requirements:
     - kiwisolver =1.4.4 =py39h92daf61_1
     - krb5 =1.21.1 =hb884880_0
     - lcms2 =2.15 =h2dcdeff_1
-    - ld64_osx-64 =609 =hbfe4790_13
+    - ld64_osx-64 =609 =ha20a434_14
     - lerc =4.0.0 =hb486fe8_0
     - libblas =3.9.0 =17_osx64_openblas
     - libbrotlicommon =1.0.9 =hb7f2c08_9
@@ -233,10 +233,10 @@ requirements:
     - mysql-libs =8.0.33 =haa61052_2
     - nbclient =0.8.0 =pyhd8ed1ab_0
     - nbconvert-core =7.7.3 =pyhd8ed1ab_0
-    - nbformat =5.9.1 =pyhd8ed1ab_0
+    - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =hf0c8a7f_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
-    - notebook =7.0.0 =pyhd8ed1ab_0
+    - notebook =7.0.1 =pyhd8ed1ab_0
     - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
     - nss =3.89 =h78b00b3_0
@@ -256,7 +256,7 @@ requirements:
     - pixman =0.40.0 =hbcb3906_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_0
-    - platformdirs =3.9.1 =pyhd8ed1ab_0
+    - platformdirs =3.10.0 =pyhd8ed1ab_0
     - pluggy =1.2.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyha770c72_3
@@ -279,7 +279,7 @@ requirements:
     - python-fastjsonschema =2.18.0 =pyhd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2023.3 =pyhd8ed1ab_0
-    - python-utils =3.7.0 =pyhd8ed1ab_0
+    - python-utils =3.7.0 =pyhd8ed1ab_1
     - python_abi =3.9 =3_cp39
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyzmq =25.1.0 =py39hdac9eea_0
