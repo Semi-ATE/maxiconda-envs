@@ -46,9 +46,10 @@ requirements:
     - statsmodels =0.13.2 =py37h4de8ad1_0
     - xgboost =1.6.2 =cpu_py37h1d3cd25_1
 
-    # 282 secondary packages :
+    # 294 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.11.1 =pyhd8ed1ab_0
+    - amqp =5.1.1 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.3 =pyhd8ed1ab_0
     - atk-1.0 =2.38.0 =h1d18e73_1
@@ -58,23 +59,31 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - bcrypt =3.2.2 =py37h994c40b_0
+    - billiard =3.6.4.0 =py37h994c40b_2
     - blinker =1.6.2 =pyhd8ed1ab_0
     - brotli =1.0.9 =hb7f2c08_9
     - brotli-bin =1.0.9 =hb7f2c08_9
     - brotlipy =0.7.0 =py37h69ee0a8_1004
     - bzip2 =1.0.8 =h0d85af4_4
     - ca-certificates =2023.7.22 =h8857fd0_0
+    - cached-property =1.5.2 =hd8ed1ab_1
+    - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.16.0 =h904041c_1014
     - catalogue =1.0.0 =py37hf985489_3
     - catboost =1.1.1 =py37hf985489_1
+    - celery =5.2.7 =pyhd8ed1ab_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.15.1 =py37h7346b73_1
     - charset-normalizer =3.2.0 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyh9f0ad1d_0
     - click =8.1.3 =py37hf985489_0
+    - click-didyoumean =0.3.0 =pyhd8ed1ab_0
+    - click-plugins =1.1.1 =py_0
+    - click-repl =0.2.0 =pyhd8ed1ab_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - colorlover =0.3.0 =py_0
+    - comm =0.1.3 =pyhd8ed1ab_0
     - configparser =5.3.0 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - cryptography =38.0.2 =py37hbf3704f_1
@@ -91,7 +100,7 @@ requirements:
     - entrypoints =0.4 =pyhd8ed1ab_0
     - expat =2.5.0 =hf0c8a7f_1
     - filelock =3.12.2 =pyhd8ed1ab_0
-    - flask =2.2.3 =pyhd8ed1ab_0
+    - flask =2.2.5 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -133,11 +142,11 @@ requirements:
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.16.2 =pyh736e0ef_0
     - ipython =7.33.0 =py37hf985489_0
-    - ipywidgets =8.0.7 =pyhd8ed1ab_0
+    - ipywidgets =8.1.0 =pyhd8ed1ab_0
     - itemadapter =0.8.0 =pyhd8ed1ab_0
     - itemloaders =1.1.0 =pyhd8ed1ab_0
     - itsdangerous =2.1.2 =pyhd8ed1ab_0
-    - jedi =0.18.2 =pyhd8ed1ab_0
+    - jedi =0.19.0 =pyhd8ed1ab_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - jmespath =1.0.1 =pyhd8ed1ab_0
     - joblib =1.3.0 =pyhd8ed1ab_1
@@ -148,6 +157,7 @@ requirements:
     - jupyterlab_widgets =3.0.8 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py37h229a17a_0
     - kmodes =0.12.2 =pyhd8ed1ab_0
+    - kombu =5.2.4 =py37hf985489_1
     - krb5 =1.20.1 =h049b76e_0
     - lcms2 =2.14 =h90f4b2a_0
     - lerc =4.0.0 =hb486fe8_0
@@ -237,6 +247,7 @@ requirements:
     - prometheus_client =0.17.1 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.22.4 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.39 =pyha770c72_0
+    - prompt_toolkit =3.0.39 =hd8ed1ab_0
     - protego =0.2.1 =pyhd8ed1ab_0
     - protobuf =4.21.8 =py37hac51a3e_0
     - psutil =5.9.3 =py37h8052db5_0
@@ -309,6 +320,7 @@ requirements:
     - umap-learn =0.5.3 =py37hf985489_0
     - unicodedata2 =14.0.0 =py37h69ee0a8_1
     - urllib3 =1.26.15 =pyhd8ed1ab_0
+    - vine =5.0.0 =pyhd8ed1ab_1
     - visions =0.7.5 =pyhd8ed1ab_0
     - w3lib =2.1.1 =pyhd8ed1ab_0
     - wasabi =0.10.1 =pyhd8ed1ab_1
