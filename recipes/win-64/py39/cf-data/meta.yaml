@@ -37,17 +37,17 @@ requirements:
     - pyqt =5.15.9 =py39hb77abff_4
     - scikit-learn =1.3.0 =py39hfa9d973_0
     - scipy =1.11.1 =py39hde5eda1_0
-    - scrapy =2.9.0 =py39hcbf5309_0
+    - scrapy =2.10.0 =py39hcbf5309_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.4 =win_pyh7428d3b_0
     - sqlalchemy =2.0.19 =py39ha55989b_0
     - sqlite =3.42.0 =hcfcfb64_0
     - statsmodels =0.14.0 =py39hbaa61f9_1
-    - xgboost =1.7.4 =cpu_py39ha538f94_3
+    - xgboost =1.7.4 =cpu_py39h7090721_4
 
     # 339 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
-    - alembic =1.11.1 =pyhd8ed1ab_0
+    - alembic =1.11.2 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
@@ -206,7 +206,7 @@ requirements:
     - libwebp =1.3.1 =hcfcfb64_0
     - libwebp-base =1.3.1 =hcfcfb64_0
     - libxcb =1.15 =hcd874cb_0
-    - libxgboost =1.7.4 =cpu_h20390bd_3
+    - libxgboost =1.7.4 =cpu_h0f92c63_4
     - libxml2 =2.11.4 =hc3477c8_0
     - libxslt =1.1.37 =h6070c61_1
     - libzlib =1.2.13 =hcfcfb64_5
@@ -271,7 +271,7 @@ requirements:
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
-    - py-xgboost =1.7.4 =cpu_py39ha538f94_3
+    - py-xgboost =1.7.4 =cpu_py39h7090721_4
     - pyarrow =12.0.1 =py39hca4e8af_7_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0

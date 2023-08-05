@@ -35,7 +35,7 @@ requirements:
     - spyder =5.4.4 =py38he3eb160_0
     - sympy =1.12 =pypyh9d50eac_103
 
-    # 312 secondary packages :
+    # 315 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - alsa-lib =1.2.8 =h4e544f5_0
@@ -69,7 +69,7 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.4 =pyhd8ed1ab_0
     - contourpy =1.1.0 =py38hb4b5b6f_0
-    - cookiecutter =2.2.3 =pyh1a96a4e_0
+    - cookiecutter =2.3.0 =pyh1a96a4e_0
     - cryptography =41.0.2 =py38h72e9872_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h12b9eeb_3
@@ -183,10 +183,12 @@ requirements:
     - libxml2 =2.11.4 =h164fba4_0
     - libzlib =1.2.13 =h31becfc_5
     - lz4-c =1.9.4 =hd600fc2_0
+    - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.3 =py38hea3b116_0
     - matplotlib-base =3.7.2 =py38h669b236_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_0
+    - mdurl =0.1.0 =pyhd8ed1ab_0
     - mistune =3.0.0 =pyhd8ed1ab_0
     - more-itertools =10.1.0 =pyhd8ed1ab_0
     - mpc =1.3.1 =hf4c8f4c_0
@@ -266,8 +268,9 @@ requirements:
     - qtconsole-base =5.4.3 =pyha770c72_0
     - qtpy =2.3.1 =pyhd8ed1ab_0
     - readline =8.2 =h8fc344f_1
-    - referencing =0.30.0 =pyhd8ed1ab_0
+    - referencing =0.30.1 =pyhd8ed1ab_0
     - requests =2.31.0 =pyhd8ed1ab_0
+    - rich =13.5.1 =pyhd8ed1ab_0
     - rope =1.9.0 =pyhd8ed1ab_0
     - rpds-py =0.9.2 =py38hf532af8_0
     - rtree =1.0.1 =py38hc089ca2_2

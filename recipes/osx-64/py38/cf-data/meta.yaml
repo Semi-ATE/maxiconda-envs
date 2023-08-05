@@ -38,17 +38,17 @@ requirements:
     - pytorch =2.0.0 =cpu_mkl_py38hbd0e7f1_101
     - scikit-learn =1.3.0 =py38h76d8a74_0
     - scipy =1.10.1 =py38h9cf86d3_3
-    - scrapy =2.9.0 =py38h50d1736_0
+    - scrapy =2.10.0 =py38h50d1736_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
     - sqlalchemy =2.0.19 =py38hcafd530_0
     - sqlite =3.42.0 =h2b0dec6_0
     - statsmodels =0.14.0 =py38hd2faf92_1
-    - xgboost =1.7.4 =cpu_py38h9ec35b5_3
+    - xgboost =1.7.4 =cpu_py38hef7b56c_4
 
     # 350 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
-    - alembic =1.11.1 =pyhd8ed1ab_0
+    - alembic =1.11.2 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.3 =pyhd8ed1ab_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
@@ -228,7 +228,7 @@ requirements:
     - libwebp =1.3.1 =hc961f54_0
     - libwebp-base =1.3.1 =h0dc2134_0
     - libxcb =1.15 =hb7f2c08_0
-    - libxgboost =1.7.4 =cpu_h4cd8c17_3
+    - libxgboost =1.7.4 =cpu_h72f100a_4
     - libxml2 =2.11.4 =hd95e348_0
     - libxslt =1.1.37 =h20bfa82_1
     - libzlib =1.2.13 =h8a1eda9_5
@@ -297,7 +297,7 @@ requirements:
     - pthread-stubs =0.4 =hc929b4f_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
-    - py-xgboost =1.7.4 =cpu_py38he866dac_3
+    - py-xgboost =1.7.4 =cpu_py38hef7b56c_4
     - pyarrow =12.0.1 =py38h9790107_7_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
