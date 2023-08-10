@@ -50,7 +50,7 @@ requirements:
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - r-base =4.3.1 =h7539d2d_3
     - r-essentials =4.3 =r43hd8ed1ab_2004
-    - regex =2023.6.3 =py38h9579f32_0
+    - regex =2023.8.8 =py38h9579f32_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rust =1.71.1 =h9d3d833_0
     - scipy =1.10.1 =py38he3f4005_3
@@ -59,7 +59,7 @@ requirements:
     - sqlalchemy =2.0.19 =py38hea3b116_0
     - sqlite =3.42.0 =h3b3482f_0
     - sympy =1.12 =pypyh9d50eac_103
-    - tqdm =4.65.1 =pyhd8ed1ab_0
+    - tqdm =4.66.0 =pyhd8ed1ab_0
     - transitions =0.9.0 =pyhd8ed1ab_0
     - xlsxwriter =3.1.2 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
@@ -227,7 +227,7 @@ requirements:
     - libwebp-base =1.3.1 =h31becfc_0
     - libxcb =1.15 =h2a766a3_0
     - libxkbcommon =1.5.0 =h307e02a_3
-    - libxml2 =2.11.4 =h164fba4_0
+    - libxml2 =2.11.5 =h164fba4_0
     - libzlib =1.2.13 =h31becfc_5
     - llvmlite =0.40.1 =py38h95a9722_0
     - lz4-c =1.9.4 =hd600fc2_0
@@ -257,7 +257,7 @@ requirements:
     - openssl =3.1.2 =h31becfc_0
     - overrides =7.4.0 =pyhd8ed1ab_0
     - packaging =23.1 =pyhd8ed1ab_0
-    - pandoc =2.19.2 =h8af1aa0_2
+    - pandoc =3.1.3 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.50.14 =hb4276a1_1
     - parso =0.8.3 =pyhd8ed1ab_0
@@ -395,7 +395,7 @@ requirements:
     - r-modelmetrics =1.2.2.2 =r43h93f32a7_3
     - r-modelr =0.1.11 =r43hc72bb7e_1
     - r-munsell =0.5.0 =r43hc72bb7e_1006
-    - r-nlme =3.1_162 =r43hd5055e1_1
+    - r-nlme =3.1_163 =r43hd5055e1_0
     - r-nnet =7.3_19 =r43h25e906a_1
     - r-numderiv =2016.8_1.1 =r43hc72bb7e_5
     - r-openssl =2.0.6 =r43h2a8de3c_1
@@ -434,7 +434,7 @@ requirements:
     - r-reprex =2.0.2 =r43hc72bb7e_2
     - r-reshape2 =1.4.4 =r43h93f32a7_3
     - r-rlang =1.1.1 =r43h93f32a7_1
-    - r-rmarkdown =2.23 =r43hc72bb7e_0
+    - r-rmarkdown =2.23 =r43hc72bb7e_1
     - r-rpart =4.1.19 =r43h25e906a_1
     - r-rstudioapi =0.15.0 =r43hc72bb7e_0
     - r-rvest =1.0.3 =r43hc72bb7e_2
