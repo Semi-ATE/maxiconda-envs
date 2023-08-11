@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.16 =h709bd14_0_cpython
+    - python =3.9.17 =h07e1443_0_cpython
   run:
-    - python =3.9.16 =h709bd14_0_cpython
+    - python =3.9.17 =h07e1443_0_cpython
 
     # 9 primary packages :
     - cython =3.0.0 =py39h840bb9f_0
@@ -138,7 +138,7 @@ requirements:
     - libopenblas =0.3.23 =openmp_h429af6e_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.39 =ha978bb4_0
-    - libpq =15.3 =h3df487d_2
+    - libpq =15.4 =h3df487d_0
     - libsodium =1.0.18 =hbcb3906_1
     - libspatialindex =1.9.3 =he49afe7_4
     - libsqlite =3.42.0 =h58db7d2_0
@@ -225,7 +225,7 @@ requirements:
     - pytoolconfig =1.2.5 =pyhd8ed1ab_0
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyyaml =6.0 =py39ha30fb19_5
-    - pyzmq =25.1.0 =py39hdac9eea_0
+    - pyzmq =25.1.1 =py39hdac9eea_0
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
     - qt-main =5.15.8 =heb9da5c_15

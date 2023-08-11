@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.16 =h4de0772_0_cpython
+    - python =3.9.17 =h4de0772_0_cpython
   run:
-    - python =3.9.16 =h4de0772_0_cpython
+    - python =3.9.17 =h4de0772_0_cpython
 
     # 9 primary packages :
     - beautifulsoup4 =4.12.2 =pyha770c72_0
@@ -115,7 +115,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =3_cp39
     - pywin32 =304 =py39h99910a6_2
-    - pyzmq =25.1.0 =py39hea35a22_0
+    - pyzmq =25.1.1 =py39hea35a22_0
     - qt-main =5.15.8 =h063a7da_15
     - service_identity =18.1.0 =py_0
     - setuptools =68.0.0 =pyhd8ed1ab_0

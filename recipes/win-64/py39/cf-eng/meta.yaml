@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.16 =h4de0772_0_cpython
+    - python =3.9.17 =h4de0772_0_cpython
   run:
-    - python =3.9.16 =h4de0772_0_cpython
+    - python =3.9.17 =h4de0772_0_cpython
 
     # 8 primary packages :
     - numpy =1.25.2 =py39h816b6a6_0
@@ -105,7 +105,7 @@ requirements:
     - pytz =2023.3 =pyhd8ed1ab_0
     - pyvisa =1.13.0 =py39hcbf5309_0
     - pywin32 =304 =py39h99910a6_2
-    - pyzmq =25.1.0 =py39hea35a22_0
+    - pyzmq =25.1.1 =py39hea35a22_0
     - qt-main =5.15.8 =h063a7da_15
     - setuptools =68.0.0 =pyhd8ed1ab_0
     - sip =6.7.11 =py39h99910a6_0
