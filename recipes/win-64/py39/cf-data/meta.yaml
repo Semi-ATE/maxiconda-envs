@@ -26,7 +26,7 @@ requirements:
 
     # 19 primary packages :
     - beautifulsoup4 =4.12.2 =pyha770c72_0
-    - bokeh =3.2.1 =pyhd8ed1ab_0
+    - bokeh =3.2.2 =pyhd8ed1ab_0
     - lightgbm =4.0.0 =py39h99910a6_0
     - matplotlib =3.7.2 =py39hcbf5309_0
     - numpy =1.24.4 =py39h816b6a6_0
@@ -188,7 +188,7 @@ requirements:
     - libgd =2.3.3 =h2ed9e1d_6
     - libglib =2.76.4 =he8f3873_0
     - libgoogle-cloud =2.12.0 =hbc1b25b_1
-    - libgrpc =1.56.2 =hea2d5f7_0
+    - libgrpc =1.56.2 =hea2d5f7_1
     - libhwloc =2.9.2 =nocuda_h15da153_1008
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
@@ -328,7 +328,7 @@ requirements:
     - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.10.0 =h91493d7_0
-    - tenacity =8.2.2 =pyhd8ed1ab_0
+    - tenacity =8.2.3 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
     - thinc =7.4.5 =py39hefe7e4c_2
     - threadpoolctl =3.2.0 =pyha21a80b_0
