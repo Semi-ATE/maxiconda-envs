@@ -42,19 +42,19 @@ requirements:
     - alsa-lib =1.2.9 =hd590300_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - attr =2.5.1 =h166bdaf_1
-    - aws-c-auth =0.7.0 =hbbaa140_3
-    - aws-c-cal =0.6.0 =h93469e0_0
-    - aws-c-common =0.8.23 =hd590300_0
-    - aws-c-compression =0.2.17 =h862ab75_1
-    - aws-c-event-stream =0.3.1 =h9599702_1
-    - aws-c-http =0.7.11 =hbe98c3e_0
-    - aws-c-io =0.13.28 =h3870b5a_0
-    - aws-c-mqtt =0.9.0 =h2e270ba_0
-    - aws-c-s3 =0.3.13 =heb0bb06_2
-    - aws-c-sdkutils =0.1.12 =h862ab75_0
-    - aws-checksums =0.1.16 =h862ab75_1
-    - aws-crt-cpp =0.21.0 =h87b6960_2
-    - aws-sdk-cpp =1.10.57 =h7062fed_18
+    - aws-c-auth =0.7.3 =h28f7589_1
+    - aws-c-cal =0.6.1 =hc309b26_1
+    - aws-c-common =0.9.0 =hd590300_0
+    - aws-c-compression =0.2.17 =h4d4d85c_2
+    - aws-c-event-stream =0.3.1 =h2e3709c_4
+    - aws-c-http =0.7.11 =h00aa349_4
+    - aws-c-io =0.13.32 =h4a1a131_0
+    - aws-c-mqtt =0.9.3 =hb447be9_1
+    - aws-c-s3 =0.3.14 =hf3aad02_1
+    - aws-c-sdkutils =0.1.12 =h4d4d85c_1
+    - aws-checksums =0.1.17 =h4d4d85c_1
+    - aws-crt-cpp =0.21.0 =hb942446_5
+    - aws-sdk-cpp =1.10.57 =h85b1a90_19
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -237,7 +237,7 @@ requirements:
     - reportlab =4.0.4 =py39hd1e30aa_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
-    - s2n =1.3.46 =h06160fa_0
+    - s2n =1.3.48 =h06160fa_0
     - scikit-learn =1.3.0 =py39hc236052_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - seaborn-base =0.12.2 =pyhd8ed1ab_0
@@ -245,7 +245,7 @@ requirements:
     - sip =6.7.11 =py39h3d6467e_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.1.10 =h9fff704_0
-    - sqlalchemy =2.0.19 =py39hd1e30aa_0
+    - sqlalchemy =2.0.20 =py39hd1e30aa_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.0 =py39h0f8d45d_1
     - threadpoolctl =3.2.0 =pyha21a80b_0

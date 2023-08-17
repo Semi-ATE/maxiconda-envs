@@ -31,7 +31,7 @@ requirements:
     - matplotlib =3.7.2 =py38h50d1736_0
     - numpy =1.24.4 =py38h9a4a08f_0
     - pandas =2.0.3 =py38h78e6021_1
-    - plotly =5.16.0 =pyhd8ed1ab_0
+    - plotly =5.16.1 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py38h50d1736_3
     - pyqt =5.15.9 =py38he1c912d_4
@@ -41,7 +41,7 @@ requirements:
     - scrapy =2.10.0 =py38h50d1736_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
-    - sqlalchemy =2.0.19 =py38hcafd530_0
+    - sqlalchemy =2.0.20 =py38hcafd530_0
     - sqlite =3.42.0 =h2b0dec6_0
     - statsmodels =0.14.0 =py38hd2faf92_1
     - xgboost =1.7.6 =cpu_py38hef7b56c_0
@@ -56,19 +56,19 @@ requirements:
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.0 =hd2ca5c1_3
-    - aws-c-cal =0.6.0 =h865601d_0
-    - aws-c-common =0.8.23 =h0dc2134_0
-    - aws-c-compression =0.2.17 =hd42d803_1
-    - aws-c-event-stream =0.3.1 =h7dedc3b_1
-    - aws-c-http =0.7.11 =h3f765f7_0
-    - aws-c-io =0.13.28 =h8caa2fd_0
-    - aws-c-mqtt =0.9.0 =h81f52c0_0
-    - aws-c-s3 =0.3.13 =h54f3bce_2
-    - aws-c-sdkutils =0.1.12 =hd42d803_0
-    - aws-checksums =0.1.16 =hd42d803_1
-    - aws-crt-cpp =0.21.0 =h03643f6_2
-    - aws-sdk-cpp =1.10.57 =h3f720bc_18
+    - aws-c-auth =0.7.3 =hef4cc69_1
+    - aws-c-cal =0.6.1 =h03343b3_1
+    - aws-c-common =0.9.0 =h0dc2134_0
+    - aws-c-compression =0.2.17 =hc1c6d78_2
+    - aws-c-event-stream =0.3.1 =hf265e0f_4
+    - aws-c-http =0.7.11 =h4b92c67_4
+    - aws-c-io =0.13.32 =h9d499ee_0
+    - aws-c-mqtt =0.9.3 =hd869499_1
+    - aws-c-s3 =0.3.14 =hbbd0165_1
+    - aws-c-sdkutils =0.1.12 =hc1c6d78_1
+    - aws-checksums =0.1.17 =hc1c6d78_1
+    - aws-crt-cpp =0.21.0 =hecd4c9a_5
+    - aws-sdk-cpp =1.10.57 =h3ff9d30_19
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -341,7 +341,7 @@ requirements:
     - seaborn-base =0.12.2 =pyhd8ed1ab_0
     - service_identity =18.1.0 =py_0
     - setuptools =68.0.0 =pyhd8ed1ab_0
-    - shellingham =1.5.1 =pyhd8ed1ab_0
+    - shellingham =1.5.2 =pyhd8ed1ab_0
     - simpful =2.11.0 =pyhd8ed1ab_0
     - sip =6.7.11 =py38h940360d_0
     - six =1.16.0 =pyh6c4a22f_0

@@ -39,19 +39,19 @@ requirements:
     # 208 secondary packages :
     - appnope =0.1.3 =pyhd8ed1ab_0
     - asttokens =2.2.1 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.0 =h650bc37_3
-    - aws-c-cal =0.6.0 =h43a37b4_0
-    - aws-c-common =0.8.23 =hb547adb_0
-    - aws-c-compression =0.2.17 =h31a6291_1
-    - aws-c-event-stream =0.3.1 =h1e1aaf7_1
-    - aws-c-http =0.7.11 =h3107daf_0
-    - aws-c-io =0.13.28 =hf096fb3_0
-    - aws-c-mqtt =0.9.0 =h9418dbe_0
-    - aws-c-s3 =0.3.13 =h79b0d72_2
-    - aws-c-sdkutils =0.1.12 =h31a6291_0
-    - aws-checksums =0.1.16 =h31a6291_1
-    - aws-crt-cpp =0.21.0 =h4453169_2
-    - aws-sdk-cpp =1.10.57 =h061ca36_18
+    - aws-c-auth =0.7.3 =h109ad1a_1
+    - aws-c-cal =0.6.1 =hb406d48_1
+    - aws-c-common =0.9.0 =hb547adb_0
+    - aws-c-compression =0.2.17 =he70778a_2
+    - aws-c-event-stream =0.3.1 =hcf14f3f_4
+    - aws-c-http =0.7.11 =hcbec455_4
+    - aws-c-io =0.13.32 =he8ad1d2_0
+    - aws-c-mqtt =0.9.3 =hf45dd20_1
+    - aws-c-s3 =0.3.14 =hf0e1321_1
+    - aws-c-sdkutils =0.1.12 =he70778a_1
+    - aws-checksums =0.1.17 =he70778a_1
+    - aws-crt-cpp =0.21.0 =hda227cd_5
+    - aws-sdk-cpp =1.10.57 =h1190f42_19
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -220,7 +220,7 @@ requirements:
     - sip =6.7.11 =py38he333c0f_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.1.10 =h17c5cce_0
-    - sqlalchemy =2.0.19 =py38hb192615_0
+    - sqlalchemy =2.0.20 =py38hb192615_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.0 =py38h58b515d_1
     - threadpoolctl =3.2.0 =pyha21a80b_0
