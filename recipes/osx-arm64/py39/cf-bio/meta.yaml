@@ -45,13 +45,13 @@ requirements:
     - aws-c-compression =0.2.17 =he70778a_2
     - aws-c-event-stream =0.3.1 =hcf14f3f_4
     - aws-c-http =0.7.11 =hcbec455_4
-    - aws-c-io =0.13.32 =he8ad1d2_0
+    - aws-c-io =0.13.32 =he8ad1d2_1
     - aws-c-mqtt =0.9.3 =hf45dd20_1
     - aws-c-s3 =0.3.14 =hf0e1321_1
     - aws-c-sdkutils =0.1.12 =he70778a_1
     - aws-checksums =0.1.17 =he70778a_1
-    - aws-crt-cpp =0.21.0 =hda227cd_5
-    - aws-sdk-cpp =1.10.57 =h1190f42_19
+    - aws-crt-cpp =0.23.0 =hda227cd_0
+    - aws-sdk-cpp =1.10.57 =hd5419b2_20
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -173,7 +173,7 @@ requirements:
     - netcdf4 =1.6.4 =nompi_py39h7147c39_101
     - networkx =3.1 =pyhd8ed1ab_0
     - nspr =4.35 =hb7217d7_0
-    - nss =3.89 =h789eff7_0
+    - nss =3.92 =hc6b9969_0
     - openjpeg =2.5.0 =hbc2ba62_2
     - openssl =3.1.2 =h53f4e23_0
     - packaging =23.1 =pyhd8ed1ab_0

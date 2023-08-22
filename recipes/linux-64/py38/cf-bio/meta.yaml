@@ -48,13 +48,13 @@ requirements:
     - aws-c-compression =0.2.17 =h4d4d85c_2
     - aws-c-event-stream =0.3.1 =h2e3709c_4
     - aws-c-http =0.7.11 =h00aa349_4
-    - aws-c-io =0.13.32 =h4a1a131_0
+    - aws-c-io =0.13.32 =he9a53bd_1
     - aws-c-mqtt =0.9.3 =hb447be9_1
     - aws-c-s3 =0.3.14 =hf3aad02_1
     - aws-c-sdkutils =0.1.12 =h4d4d85c_1
     - aws-checksums =0.1.17 =h4d4d85c_1
-    - aws-crt-cpp =0.21.0 =hb942446_5
-    - aws-sdk-cpp =1.10.57 =h85b1a90_19
+    - aws-crt-cpp =0.23.0 =hb942446_0
+    - aws-sdk-cpp =1.10.57 =hd831e9c_20
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -196,7 +196,7 @@ requirements:
     - netcdf4 =1.6.4 =nompi_py38h383a0a3_101
     - networkx =3.1 =pyhd8ed1ab_0
     - nspr =4.35 =h27087fc_0
-    - nss =3.89 =he45b914_0
+    - nss =3.92 =h1d7d5a4_0
     - openjpeg =2.5.0 =hfec8fc6_2
     - openssl =3.1.2 =hd590300_0
     - packaging =23.1 =pyhd8ed1ab_0
@@ -237,7 +237,7 @@ requirements:
     - reportlab =4.0.4 =py38h01eb140_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
-    - s2n =1.3.48 =h06160fa_0
+    - s2n =1.3.49 =h06160fa_0
     - scikit-learn =1.3.0 =py38hc099248_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - seaborn-base =0.12.2 =pyhd8ed1ab_0
