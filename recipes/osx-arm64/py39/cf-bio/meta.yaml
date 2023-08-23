@@ -46,11 +46,11 @@ requirements:
     - aws-c-event-stream =0.3.1 =hcf14f3f_4
     - aws-c-http =0.7.11 =hcbec455_4
     - aws-c-io =0.13.32 =he8ad1d2_1
-    - aws-c-mqtt =0.9.3 =hf45dd20_1
+    - aws-c-mqtt =0.9.4 =hf45dd20_0
     - aws-c-s3 =0.3.14 =hf0e1321_1
     - aws-c-sdkutils =0.1.12 =he70778a_1
     - aws-checksums =0.1.17 =he70778a_1
-    - aws-crt-cpp =0.23.0 =hda227cd_0
+    - aws-crt-cpp =0.23.0 =h51d7a1e_1
     - aws-sdk-cpp =1.10.57 =hd5419b2_20
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -237,7 +237,7 @@ requirements:
     - unicodedata2 =15.0.0 =py39h02fc5c5_0
     - urllib3 =2.0.4 =pyhd8ed1ab_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
-    - wheel =0.41.1 =pyhd8ed1ab_0
+    - wheel =0.41.2 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xorg-libxau =1.0.11 =hb547adb_0
     - xorg-libxdmcp =1.1.3 =h27ca646_0

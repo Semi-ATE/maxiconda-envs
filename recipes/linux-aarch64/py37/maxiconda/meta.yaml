@@ -123,7 +123,7 @@ requirements:
     - gcc_impl_linux-aarch64 =13.1.0 =h07080d6_0
     - gettext =0.21.1 =ha18d298_0
     - gfortran_impl_linux-aarch64 =13.1.0 =h8a08e1f_0
-    - git =2.41.0 =pl5321h0d979e1_0
+    - git =2.42.0 =pl5321h0d979e1_0
     - glib =2.76.4 =hd84c7bf_0
     - glib-tools =2.76.4 =hd84c7bf_0
     - gmp =6.2.1 =h7fd3ca4_0
@@ -333,7 +333,7 @@ requirements:
     - r-generics =0.1.3 =r42hc72bb7e_2
     - r-ggplot2 =3.4.3 =r42hc72bb7e_0
     - r-gistr =0.9.0 =r42hc72bb7e_2
-    - r-glmnet =4.1_7 =r42hb731f0c_1
+    - r-glmnet =4.1_8 =r42hb731f0c_0
     - r-globals =0.16.2 =r42hc72bb7e_1
     - r-glue =1.6.2 =r42h25e906a_2
     - r-googledrive =2.1.1 =r42hc72bb7e_1
@@ -394,12 +394,12 @@ requirements:
     - r-prodlim =2023.03.31 =r42h93f32a7_1
     - r-progress =1.2.2 =r42hc72bb7e_4
     - r-progressr =0.14.0 =r42hc72bb7e_0
-    - r-promises =1.2.0.1 =r42h93f32a7_2
+    - r-promises =1.2.1 =r42h93f32a7_0
     - r-proxy =0.4_27 =r42h25e906a_2
     - r-pryr =0.1.6 =r42h93f32a7_1
     - r-ps =1.7.5 =r42h25e906a_1
     - r-purrr =1.0.2 =r42h25e906a_0
-    - r-quantmod =0.4.24 =r42hc72bb7e_0
+    - r-quantmod =0.4.25 =r42hc72bb7e_0
     - r-r6 =2.5.1 =r42hc72bb7e_2
     - r-randomforest =4.7_1.1 =r42hd5055e1_2
     - r-rappdirs =0.3.3 =r42h25e906a_2
@@ -488,7 +488,7 @@ requirements:
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1
     - websocket-client =1.6.1 =pyhd8ed1ab_0
-    - wheel =0.41.1 =pyhd8ed1ab_0
+    - wheel =0.41.2 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =h4e544f5_0
     - xcb-util-image =0.4.0 =h4e544f5_0

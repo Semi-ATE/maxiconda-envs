@@ -60,12 +60,12 @@ requirements:
     - aws-c-event-stream =0.3.1 =h495bb32_4
     - aws-c-http =0.7.11 =hf013885_4
     - aws-c-io =0.13.32 =he824701_1
-    - aws-c-mqtt =0.9.3 =h64f41f2_1
+    - aws-c-mqtt =0.9.4 =h64f41f2_0
     - aws-c-s3 =0.3.14 =hb8b96c7_1
     - aws-c-sdkutils =0.1.12 =h04c9df6_1
     - aws-checksums =0.1.17 =h04c9df6_1
-    - aws-crt-cpp =0.21.0 =hf1ed06d_5
-    - aws-sdk-cpp =1.10.57 =heb7cc7f_19
+    - aws-crt-cpp =0.23.0 =hac34924_1
+    - aws-sdk-cpp =1.10.57 =h22002f8_20
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -111,7 +111,7 @@ requirements:
     - executing =1.2.0 =pyhd8ed1ab_0
     - expat =2.5.0 =h63175ca_1
     - filelock =3.12.2 =pyhd8ed1ab_0
-    - flask =2.3.2 =pyhd8ed1ab_0
+    - flask =2.3.3 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -172,7 +172,7 @@ requirements:
     - lcms2 =2.15 =h3e3b177_1
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230125.3 =cxx17_h63175ca_0
-    - libarrow =12.0.1 =ha06dc20_8_cpu
+    - libarrow =12.0.1 =h10ad630_9_cpu
     - libblas =3.9.0 =17_win64_mkl
     - libbrotlicommon =1.0.9 =hcfcfb64_9
     - libbrotlidec =1.0.9 =hcfcfb64_9
@@ -273,7 +273,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py38hdbc86bd_0
-    - pyarrow =12.0.1 =py38h75459e5_8_cpu
+    - pyarrow =12.0.1 =py38hd94c00f_9_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -301,7 +301,7 @@ requirements:
     - pywavelets =1.4.1 =py38hbaf524b_0
     - pywin32 =304 =py38hd3f51b4_2
     - pywin32-on-windows =0.1.0 =pyh07e9846_2
-    - pyyaml =6.0 =py38h91455d4_5
+    - pyyaml =6.0.1 =py38h91455d4_0
     - pyzmq =25.1.1 =py38ha85f68a_0
     - qt-main =5.15.8 =h063a7da_15
     - querystring_parser =1.2.4 =py_0
@@ -360,9 +360,9 @@ requirements:
     - waitress =2.1.2 =pyhd8ed1ab_0
     - wasabi =1.1.2 =py38haa244fe_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
-    - websocket-client =1.6.1 =pyhd8ed1ab_0
+    - websocket-client =1.6.2 =pyhd8ed1ab_0
     - werkzeug =2.3.7 =pyhd8ed1ab_0
-    - wheel =0.41.1 =pyhd8ed1ab_0
+    - wheel =0.41.2 =pyhd8ed1ab_0
     - widgetsnbextension =4.0.8 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py38haa244fe_5
     - wordcloud =1.9.2 =py38h91455d4_1

@@ -45,7 +45,7 @@ requirements:
     - pyqt =5.15.9 =py38h3dfd979_4
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =7.4.0 =pyhd8ed1ab_0
-    - pyyaml =6.0 =py38hdacc76a_5
+    - pyyaml =6.0.1 =py38h9579f32_0
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - r-base =4.3.1 =h7539d2d_3
@@ -349,7 +349,7 @@ requirements:
     - r-generics =0.1.3 =r43hc72bb7e_2
     - r-ggplot2 =3.4.3 =r43hc72bb7e_0
     - r-gistr =0.9.0 =r43hc72bb7e_2
-    - r-glmnet =4.1_7 =r43hb731f0c_1
+    - r-glmnet =4.1_8 =r43hb731f0c_0
     - r-globals =0.16.2 =r43hc72bb7e_1
     - r-glue =1.6.2 =r43h25e906a_2
     - r-googledrive =2.1.1 =r43hc72bb7e_1
@@ -410,12 +410,12 @@ requirements:
     - r-prodlim =2023.03.31 =r43h93f32a7_1
     - r-progress =1.2.2 =r43hc72bb7e_4
     - r-progressr =0.14.0 =r43hc72bb7e_0
-    - r-promises =1.2.0.1 =r43h93f32a7_2
+    - r-promises =1.2.1 =r43h93f32a7_0
     - r-proxy =0.4_27 =r43h25e906a_2
     - r-pryr =0.1.6 =r43h93f32a7_1
     - r-ps =1.7.5 =r43h25e906a_1
     - r-purrr =1.0.2 =r43h25e906a_0
-    - r-quantmod =0.4.24 =r43hc72bb7e_0
+    - r-quantmod =0.4.25 =r43hc72bb7e_0
     - r-r6 =2.5.1 =r43hc72bb7e_2
     - r-ragg =1.2.5 =r43h26ab081_2
     - r-randomforest =4.7_1.1 =r43hd5055e1_2
@@ -516,8 +516,8 @@ requirements:
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webcolors =1.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =py_1
-    - websocket-client =1.6.1 =pyhd8ed1ab_0
-    - wheel =0.41.1 =pyhd8ed1ab_0
+    - websocket-client =1.6.2 =pyhd8ed1ab_0
+    - wheel =0.41.2 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =h31becfc_1
     - xcb-util-image =0.4.0 =hcb25cf1_1
