@@ -64,11 +64,11 @@ requirements:
     - xlsxwriter =3.1.2 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 387 secondary packages :
+    # 386 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.7.1 =pyhd8ed1ab_0
-    - argon2-cffi =21.3.0 =pyhd8ed1ab_0
+    - argon2-cffi =23.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py37hcc03f2d_2
     - async-timeout =4.0.3 =pyhd8ed1ab_0
     - asynctest =0.13.0 =py_0
@@ -96,7 +96,6 @@ requirements:
     - entrypoints =0.4 =pyhd8ed1ab_0
     - et_xmlfile =1.1.0 =pyhd8ed1ab_0
     - exceptiongroup =1.1.3 =pyhd8ed1ab_0
-    - flit-core =3.9.0 =pyhd8ed1ab_0
     - fonttools =4.38.0 =py37h51bd9d9_0
     - freetype =2.12.1 =h546665d_1
     - frozenlist =1.3.1 =py37hcc03f2d_0
