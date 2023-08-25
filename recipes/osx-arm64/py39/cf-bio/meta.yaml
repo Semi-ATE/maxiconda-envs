@@ -43,15 +43,15 @@ requirements:
     - aws-c-cal =0.6.1 =hb406d48_1
     - aws-c-common =0.9.0 =hb547adb_0
     - aws-c-compression =0.2.17 =he70778a_2
-    - aws-c-event-stream =0.3.1 =hcf14f3f_4
+    - aws-c-event-stream =0.3.2 =hcf14f3f_0
     - aws-c-http =0.7.11 =hcbec455_4
     - aws-c-io =0.13.32 =he8ad1d2_1
-    - aws-c-mqtt =0.9.4 =hf45dd20_0
+    - aws-c-mqtt =0.9.5 =hf45dd20_0
     - aws-c-s3 =0.3.14 =hf0e1321_1
     - aws-c-sdkutils =0.1.12 =he70778a_1
     - aws-checksums =0.1.17 =he70778a_1
-    - aws-crt-cpp =0.23.0 =h51d7a1e_1
-    - aws-sdk-cpp =1.10.57 =hd5419b2_20
+    - aws-crt-cpp =0.23.0 =h173c13b_3
+    - aws-sdk-cpp =1.10.57 =h0092a47_21
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -115,7 +115,7 @@ requirements:
     - joblib =1.3.2 =pyhd8ed1ab_0
     - jupyter_client =8.3.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py39h2804cbe_0
-    - kiwisolver =1.4.4 =py39haaf3ac1_1
+    - kiwisolver =1.4.5 =py39hbd775c9_0
     - krb5 =1.21.2 =h92f50d5_0
     - lcms2 =2.15 =hd835a16_1
     - lerc =4.0.0 =h9a09cb3_0
@@ -149,9 +149,9 @@ requirements:
     - libpng =1.6.39 =h76d750c_0
     - libpq =15.4 =hcea71ed_0
     - libsodium =1.0.18 =h27ca646_1
-    - libsqlite =3.42.0 =hb31c410_0
+    - libsqlite =3.43.0 =hb31c410_0
     - libssh2 =1.11.0 =h7a5bd25_0
-    - libtiff =4.5.1 =h23a1a89_0
+    - libtiff =4.5.1 =h23a1a89_1
     - libvorbis =1.3.7 =h9f76cd9_0
     - libwebp-base =1.3.1 =hb547adb_0
     - libxcb =1.15 =hf346824_0

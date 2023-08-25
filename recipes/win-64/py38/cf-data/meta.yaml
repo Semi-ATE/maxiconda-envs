@@ -41,9 +41,9 @@ requirements:
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.4 =win_pyh7428d3b_0
     - sqlalchemy =2.0.20 =py38h91455d4_0
-    - sqlite =3.42.0 =hcfcfb64_0
+    - sqlite =3.43.0 =hcfcfb64_0
     - statsmodels =0.14.0 =py38h634f036_1
-    - xgboost =1.7.6 =cpu_py38hdbc86bd_0
+    - xgboost =1.7.6 =cpu_py38hdbc86bd_1
 
     # 340 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
@@ -57,15 +57,15 @@ requirements:
     - aws-c-cal =0.6.1 =hfb91821_1
     - aws-c-common =0.9.0 =hcfcfb64_0
     - aws-c-compression =0.2.17 =h04c9df6_2
-    - aws-c-event-stream =0.3.1 =h495bb32_4
+    - aws-c-event-stream =0.3.2 =h495bb32_0
     - aws-c-http =0.7.11 =hf013885_4
     - aws-c-io =0.13.32 =he824701_1
-    - aws-c-mqtt =0.9.4 =h64f41f2_0
+    - aws-c-mqtt =0.9.5 =h64f41f2_0
     - aws-c-s3 =0.3.14 =hb8b96c7_1
     - aws-c-sdkutils =0.1.12 =h04c9df6_1
     - aws-checksums =0.1.17 =h04c9df6_1
-    - aws-crt-cpp =0.23.0 =hac34924_1
-    - aws-sdk-cpp =1.10.57 =h22002f8_20
+    - aws-crt-cpp =0.23.0 =h80f7d43_3
+    - aws-sdk-cpp =1.10.57 =hf794bbe_21
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -126,7 +126,7 @@ requirements:
     - funcy =2.0 =pyhd8ed1ab_0
     - future =0.18.3 =pyhd8ed1ab_0
     - fuzzytm =2.0.5 =pyhd8ed1ab_0
-    - gensim =4.3.1 =py38hf08cf0d_1
+    - gensim =4.3.2 =py38h0b70109_0
     - getopt-win32 =0.1 =h8ffe710_0
     - gettext =0.21.1 =h5728263_0
     - gitdb =4.0.10 =pyhd8ed1ab_0
@@ -165,7 +165,7 @@ requirements:
     - jupyter_client =8.3.0 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py38haa244fe_0
     - jupyterlab_widgets =3.0.8 =pyhd8ed1ab_0
-    - kiwisolver =1.4.4 =py38hb1fd069_1
+    - kiwisolver =1.4.5 =py38hb1fd069_0
     - kmodes =0.12.2 =pyhd8ed1ab_0
     - krb5 =1.21.2 =heb0366b_0
     - langcodes =3.3.0 =pyhd8ed1ab_0
@@ -198,16 +198,16 @@ requirements:
     - libpng =1.6.39 =h19919ed_0
     - libprotobuf =4.23.3 =h1975477_0
     - libsodium =1.0.18 =h8d14728_1
-    - libsqlite =3.42.0 =hcfcfb64_0
+    - libsqlite =3.43.0 =hcfcfb64_0
     - libssh2 =1.11.0 =h7dfc565_0
     - libthrift =0.18.1 =h06f6336_2
-    - libtiff =4.5.1 =h6c8260b_0
+    - libtiff =4.5.1 =h6c8260b_1
     - libutf8proc =2.8.0 =h82a8f57_0
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp =1.3.1 =hcfcfb64_0
     - libwebp-base =1.3.1 =hcfcfb64_0
     - libxcb =1.15 =hcd874cb_0
-    - libxgboost =1.7.6 =cpu_h0f92c63_0
+    - libxgboost =1.7.6 =cpu_h0f92c63_1
     - libxml2 =2.11.5 =hc3477c8_0
     - libxslt =1.1.37 =h6070c61_1
     - libzlib =1.2.13 =hcfcfb64_5
@@ -272,7 +272,7 @@ requirements:
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
-    - py-xgboost =1.7.6 =cpu_py38hdbc86bd_0
+    - py-xgboost =1.7.6 =cpu_py38hdbc86bd_1
     - pyarrow =12.0.1 =py38hd94c00f_9_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
