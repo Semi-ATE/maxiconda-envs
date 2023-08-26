@@ -25,7 +25,7 @@ requirements:
     - python =3.8.17 =hf9b03c3_0_cpython
 
     # 9 primary packages :
-    - cython =3.0.0 =py38h940360d_0
+    - cython =3.0.1 =py38h940360d_0
     - matplotlib =3.7.2 =py38h50d1736_0
     - numpy =1.24.4 =py38h9a4a08f_0
     - pandas =2.0.3 =py38h78e6021_1
@@ -44,7 +44,7 @@ requirements:
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
-    - autopep8 =2.0.2 =pyhd8ed1ab_0
+    - autopep8 =2.0.3 =pyhd8ed1ab_0
     - babel =2.12.1 =pyhd8ed1ab_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3

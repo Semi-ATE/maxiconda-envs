@@ -53,18 +53,18 @@ requirements:
     - asttokens =2.2.1 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.3 =h0127223_1
-    - aws-c-cal =0.6.1 =hfb91821_1
+    - aws-c-auth =0.7.3 =hd125877_3
+    - aws-c-cal =0.6.2 =hfb91821_0
     - aws-c-common =0.9.0 =hcfcfb64_0
     - aws-c-compression =0.2.17 =h04c9df6_2
     - aws-c-event-stream =0.3.2 =h495bb32_0
-    - aws-c-http =0.7.11 =hf013885_4
-    - aws-c-io =0.13.32 =he824701_1
-    - aws-c-mqtt =0.9.5 =h64f41f2_0
-    - aws-c-s3 =0.3.14 =hb8b96c7_1
+    - aws-c-http =0.7.12 =h0890e15_1
+    - aws-c-io =0.13.32 =h83b3346_2
+    - aws-c-mqtt =0.9.5 =h0fd1aac_1
+    - aws-c-s3 =0.3.14 =h9f49523_3
     - aws-c-sdkutils =0.1.12 =h04c9df6_1
     - aws-checksums =0.1.17 =h04c9df6_1
-    - aws-crt-cpp =0.23.0 =h80f7d43_3
+    - aws-crt-cpp =0.23.0 =hf4e30cf_5
     - aws-sdk-cpp =1.10.57 =hf794bbe_21
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -208,7 +208,7 @@ requirements:
     - libwebp-base =1.3.1 =hcfcfb64_0
     - libxcb =1.15 =hcd874cb_0
     - libxgboost =1.7.6 =cpu_h0f92c63_1
-    - libxml2 =2.11.5 =hc3477c8_0
+    - libxml2 =2.11.5 =hc3477c8_1
     - libxslt =1.1.37 =h6070c61_1
     - libzlib =1.2.13 =hcfcfb64_5
     - llvmlite =0.40.1 =py39hd28a505_0

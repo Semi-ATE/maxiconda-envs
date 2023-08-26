@@ -28,7 +28,7 @@ requirements:
     - aiohttp =3.8.5 =py38hb192615_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
-    - cython =3.0.0 =py38he333c0f_0
+    - cython =3.0.1 =py38he333c0f_0
     - grayskull =2.3.1 =pyhd8ed1ab_0
     - hypothesis =6.82.6 =pyha770c72_0
     - ipython =8.12.2 =pyhd1c38e8_0
@@ -51,7 +51,7 @@ requirements:
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2023.8.8 =py38hb192615_0
     - requests =2.31.0 =pyhd8ed1ab_0
-    - rust =1.71.1 =h4ff7c5d_0
+    - rust =1.72.0 =h4ff7c5d_0
     - scipy =1.10.1 =py38h038e806_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
@@ -468,7 +468,7 @@ requirements:
     - ruamel.yaml =0.17.32 =py38hb192615_0
     - ruamel.yaml.clib =0.2.7 =py38hb991d35_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-aarch64-apple-darwin =1.71.1 =hf1a8007_0
+    - rust-std-aarch64-apple-darwin =1.72.0 =hf1a8007_0
     - semver =3.0.1 =pyhd8ed1ab_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =68.1.2 =pyhd8ed1ab_0
