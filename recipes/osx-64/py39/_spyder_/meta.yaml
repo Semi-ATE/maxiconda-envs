@@ -25,7 +25,7 @@ requirements:
     - python =3.9.17 =h07e1443_0_cpython
 
     # 9 primary packages :
-    - cython =3.0.1 =py39h840bb9f_0
+    - cython =3.0.2 =py39h840bb9f_0
     - matplotlib =3.7.2 =py39h6e9494a_0
     - numpy =1.25.2 =py39h892e69a_0
     - pandas =2.0.3 =py39h11b3245_1
@@ -287,7 +287,7 @@ requirements:
     - yapf =0.40.1 =pyhd8ed1ab_0
     - zeromq =4.3.4 =he49afe7_1
     - zipp =3.16.2 =pyhd8ed1ab_0
-    - zstd =1.5.2 =h829000d_7
+    - zstd =1.5.5 =h829000d_0
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
