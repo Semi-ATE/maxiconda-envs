@@ -27,7 +27,7 @@ requirements:
     # 10 primary packages :
     - biopython =1.81 =py39h02fc5c5_0
     - matplotlib =3.7.2 =py39hdf13c20_0
-    - mdanalysis =2.5.0 =py39ha1bfa81_1
+    - mdanalysis =2.6.1 =py39h24b5a5e_0
     - numpy =1.25.2 =py39h485cf63_0
     - pandas =2.0.3 =py39h6b13a34_1
     - pymol-open-source =2.5.0 =py39h573d8f3_6
@@ -97,7 +97,7 @@ requirements:
     - glm =0.9.9.8 =h1995070_0
     - greenlet =2.0.2 =py39hb198ff7_1
     - griddataformats =1.0.1 =pyhd8ed1ab_0
-    - gsd =2.9.0 =py39h8a366b7_0
+    - gsd =3.1.1 =py39h8a366b7_0
     - gst-plugins-base =1.22.5 =h27255cc_0
     - gstreamer =1.22.5 =h8c52bba_0
     - h5py =3.9.0 =nompi_py39he9c2634_101
@@ -113,7 +113,7 @@ requirements:
     - ipython =8.14.0 =pyhd1c38e8_0
     - jedi =0.19.0 =pyhd8ed1ab_0
     - joblib =1.3.2 =pyhd8ed1ab_0
-    - jupyter_client =8.3.0 =pyhd8ed1ab_0
+    - jupyter_client =8.3.1 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py39h2804cbe_0
     - kiwisolver =1.4.5 =py39hbd775c9_0
     - krb5 =1.21.2 =h92f50d5_0

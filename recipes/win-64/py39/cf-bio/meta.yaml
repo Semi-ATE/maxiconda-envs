@@ -27,7 +27,7 @@ requirements:
     # 10 primary packages :
     - biopython =1.81 =py39ha55989b_0
     - matplotlib =3.7.2 =py39hcbf5309_0
-    - mdanalysis =2.5.0 =py39h614b579_1
+    - mdanalysis =2.6.1 =py39h6f76193_0
     - numpy =1.25.2 =py39h816b6a6_0
     - pandas =2.0.3 =py39h1679cfb_1
     - pymol-open-source =2.5.0 =py39h4bdc71c_6
@@ -82,7 +82,7 @@ requirements:
     - glm =0.9.9.8 =h181d51b_0
     - greenlet =2.0.2 =py39h99910a6_1
     - griddataformats =1.0.1 =pyhd8ed1ab_0
-    - gsd =2.9.0 =py39hbaa61f9_0
+    - gsd =3.1.1 =py39hbaa61f9_0
     - gst-plugins-base =1.22.5 =h001b923_0
     - gstreamer =1.22.5 =hb4038d2_0
     - h5py =3.9.0 =nompi_py39hde1a6dc_101
@@ -99,7 +99,7 @@ requirements:
     - ipython =8.14.0 =pyh08f2357_0
     - jedi =0.19.0 =pyhd8ed1ab_0
     - joblib =1.3.2 =pyhd8ed1ab_0
-    - jupyter_client =8.3.0 =pyhd8ed1ab_0
+    - jupyter_client =8.3.1 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py39hcbf5309_0
     - kiwisolver =1.4.5 =py39h1f6ef14_0
     - krb5 =1.21.2 =heb0366b_0
@@ -118,7 +118,7 @@ requirements:
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
     - libglib =2.76.4 =he8f3873_0
-    - libhwloc =2.9.2 =nocuda_h15da153_1008
+    - libhwloc =2.9.2 =default_haede6df_1009
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
     - liblapack =3.9.0 =17_win64_mkl

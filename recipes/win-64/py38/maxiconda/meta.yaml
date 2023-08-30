@@ -145,7 +145,7 @@ requirements:
     - jsonschema-specifications =2023.7.1 =pyhd8ed1ab_0
     - jsonschema-with-format-nongpl =4.19.0 =pyhd8ed1ab_1
     - jupyter-lsp =2.2.0 =pyhd8ed1ab_0
-    - jupyter_client =8.3.0 =pyhd8ed1ab_0
+    - jupyter_client =8.3.1 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py38haa244fe_0
     - jupyter_events =0.7.0 =pyhd8ed1ab_2
     - jupyter_server =2.7.1 =pyhd8ed1ab_0
@@ -168,7 +168,7 @@ requirements:
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
     - libglib =2.76.4 =he8f3873_0
-    - libhwloc =2.9.2 =nocuda_h15da153_1008
+    - libhwloc =2.9.2 =default_haede6df_1009
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
     - liblapack =3.9.0 =17_win64_mkl
@@ -224,7 +224,7 @@ requirements:
     - multidict =6.0.4 =py38h91455d4_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.7.4 =pyhd8ed1ab_0
+    - nbconvert-core =7.8.0 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - notebook =7.0.2 =pyhd8ed1ab_0
@@ -271,7 +271,7 @@ requirements:
     - pywinpty =2.0.11 =py38hd3f51b4_0
     - pyzmq =25.1.1 =py38ha85f68a_0
     - qt-main =5.15.8 =h063a7da_15
-    - qtpy =2.3.1 =pyhd8ed1ab_0
+    - qtpy =2.4.0 =pyhd8ed1ab_0
     - r-askpass =1.1 =r41h6d2157b_4
     - r-assertthat =0.2.1 =r41hc72bb7e_3
     - r-backports =1.4.1 =r41h6d2157b_2

@@ -106,7 +106,7 @@ requirements:
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - jsonschema =4.19.0 =pyhd8ed1ab_1
     - jsonschema-specifications =2023.7.1 =pyhd8ed1ab_0
-    - jupyter_client =8.3.0 =pyhd8ed1ab_0
+    - jupyter_client =8.3.1 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py39hcbf5309_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - keyring =24.2.0 =py39hcbf5309_0
@@ -125,7 +125,7 @@ requirements:
     - libdeflate =1.18 =hcfcfb64_0
     - libffi =3.4.2 =h8ffe710_5
     - libglib =2.76.4 =he8f3873_0
-    - libhwloc =2.9.2 =nocuda_h15da153_1008
+    - libhwloc =2.9.2 =default_haede6df_1009
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
     - liblapack =3.9.0 =17_win64_mkl
@@ -160,9 +160,9 @@ requirements:
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =1.0.0 =pyha770c72_0
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert =7.7.4 =pyhd8ed1ab_0
-    - nbconvert-core =7.7.4 =pyhd8ed1ab_0
-    - nbconvert-pandoc =7.7.4 =pyhd8ed1ab_0
+    - nbconvert =7.8.0 =pyhd8ed1ab_0
+    - nbconvert-core =7.8.0 =pyhd8ed1ab_0
+    - nbconvert-pandoc =7.8.0 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - numpydoc =1.5.0 =pyhd8ed1ab_0
@@ -225,7 +225,7 @@ requirements:
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.4.3 =pyhd8ed1ab_0
     - qtconsole-base =5.4.3 =pyha770c72_0
-    - qtpy =2.3.1 =pyhd8ed1ab_0
+    - qtpy =2.4.0 =pyhd8ed1ab_0
     - referencing =0.30.2 =pyhd8ed1ab_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rich =13.5.1 =pyhd8ed1ab_0
