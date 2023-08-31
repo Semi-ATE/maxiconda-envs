@@ -20,15 +20,15 @@ build:
 
 requirements:
   build:
-    - python =3.9.17 =h4ac3b42_0_cpython
+    - python =3.9.18 =h4ac3b42_0_cpython
   run:
-    - python =3.9.17 =h4ac3b42_0_cpython
+    - python =3.9.18 =h4ac3b42_0_cpython
 
     # 8 primary packages :
     - biopython =1.81 =py39h24fc6b6_0
     - matplotlib =3.7.2 =py39ha65689a_0
     - numpy =1.25.2 =py39hf88902c_0
-    - pandas =2.0.3 =py39h49dc3b3_1
+    - pandas =2.1.0 =py39h26ccf5d_0
     - pyqt =5.15.9 =py39hc7e6f3c_4
     - rdkit =2022.03.1 =py39h3f581e4_0
     - scipy =1.11.2 =py39hf88902c_0

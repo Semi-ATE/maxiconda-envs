@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.17 =h4de0772_0_cpython
+    - python =3.9.18 =h4de0772_0_cpython
   run:
-    - python =3.9.17 =h4de0772_0_cpython
+    - python =3.9.18 =h4de0772_0_cpython
 
     # 19 primary packages :
     - beautifulsoup4 =4.12.2 =pyha770c72_0
@@ -30,14 +30,14 @@ requirements:
     - lightgbm =4.0.0 =py39h99910a6_0
     - matplotlib =3.7.2 =py39hcbf5309_0
     - numpy =1.24.4 =py39h816b6a6_0
-    - pandas =2.0.3 =py39h1679cfb_1
+    - pandas =2.1.0 =py39h32e6231_0
     - plotly =5.16.1 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py39hcbf5309_3
     - pyqt =5.15.9 =py39hb77abff_4
     - scikit-learn =1.3.0 =py39hfa9d973_0
     - scipy =1.11.2 =py39hde5eda1_0
-    - scrapy =2.10.0 =py39hcbf5309_0
+    - scrapy =2.10.1 =py39hcbf5309_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.4 =win_pyh7428d3b_0
     - sqlalchemy =2.0.20 =py39ha55989b_0

@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.17 =h4de0772_0_cpython
+    - python =3.9.18 =h4de0772_0_cpython
   run:
-    - python =3.9.17 =h4de0772_0_cpython
+    - python =3.9.18 =h4de0772_0_cpython
 
     # 38 primary packages :
     - aiohttp =3.8.5 =py39ha55989b_0
@@ -39,7 +39,7 @@ requirements:
     - numpy =1.24.4 =py39h816b6a6_0
     - openpyxl =3.1.2 =py39ha55989b_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
-    - pandas =2.0.3 =py39h1679cfb_1
+    - pandas =2.1.0 =py39h32e6231_0
     - psutil =5.9.5 =py39ha55989b_0
     - pydantic =2.3.0 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py39hb77abff_4
@@ -227,7 +227,7 @@ requirements:
     - nbconvert-core =7.8.0 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
-    - notebook =7.0.2 =pyhd8ed1ab_0
+    - notebook =7.0.3 =pyhd8ed1ab_0
     - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha2aaf27_2
     - openssl =3.1.2 =hcfcfb64_0

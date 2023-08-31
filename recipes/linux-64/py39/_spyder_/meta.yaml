@@ -20,19 +20,19 @@ build:
 
 requirements:
   build:
-    - python =3.9.17 =h0755675_0_cpython
+    - python =3.9.18 =h0755675_0_cpython
   run:
-    - python =3.9.17 =h0755675_0_cpython
+    - python =3.9.18 =h0755675_0_cpython
 
     # 9 primary packages :
     - cython =3.0.2 =py39h3d6467e_0
     - matplotlib =3.7.2 =py39hf3d152e_0
     - numpy =1.25.2 =py39h6183b62_0
-    - pandas =2.0.3 =py39h40cae4c_1
+    - pandas =2.1.0 =py39hddac248_0
     - pyqt =5.15.9 =py39h52134e7_4
     - pyqtwebengine =5.15.9 =py39h071a739_4
     - scipy =1.11.2 =py39h6183b62_0
-    - spyder =5.4.4 =py39hf3d152e_0
+    - spyder =5.4.5 =py39hf3d152e_0
     - sympy =1.12 =pypyh9d50eac_103
 
     # 317 secondary packages :
@@ -282,7 +282,7 @@ requirements:
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
     - soupsieve =2.3.2.post1 =pyhd8ed1ab_0
-    - sphinx =7.2.4 =pyhd8ed1ab_0
+    - sphinx =7.2.5 =pyhd8ed1ab_0
     - sphinxcontrib-applehelp =1.0.7 =pyhd8ed1ab_0
     - sphinxcontrib-devhelp =1.0.5 =pyhd8ed1ab_0
     - sphinxcontrib-htmlhelp =2.0.4 =pyhd8ed1ab_0

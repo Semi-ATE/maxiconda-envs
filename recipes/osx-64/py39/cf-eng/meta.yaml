@@ -20,14 +20,14 @@ build:
 
 requirements:
   build:
-    - python =3.9.17 =h07e1443_0_cpython
+    - python =3.9.18 =h07e1443_0_cpython
   run:
-    - python =3.9.17 =h07e1443_0_cpython
+    - python =3.9.18 =h07e1443_0_cpython
 
     # 8 primary packages :
     - numpy =1.25.2 =py39h892e69a_0
     - openpyxl =3.1.2 =py39hdc70f33_0
-    - pandas =2.0.3 =py39h11b3245_1
+    - pandas =2.1.0 =py39hcc9a0c8_0
     - pyqt =5.15.9 =py39h3dce684_4
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
