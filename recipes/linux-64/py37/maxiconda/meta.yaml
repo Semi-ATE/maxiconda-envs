@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.2 =r42hd8ed1ab_2004
     - regex =2022.9.13 =py37h540881e_0
     - requests =2.31.0 =pyhd8ed1ab_0
-    - rust =1.72.0 =h70c747d_1
+    - rust =1.72.0 =h70c747d_2
     - scipy =1.7.3 =py37hf2a6cf1_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
@@ -83,8 +83,8 @@ requirements:
     - backports.zoneinfo =0.2.1 =py37h540881e_5
     - binutils_impl_linux-64 =2.40 =hf600244_0
     - bleach =6.0.0 =pyhd8ed1ab_0
-    - brotli =1.0.9 =h166bdaf_9
-    - brotli-bin =1.0.9 =h166bdaf_9
+    - brotli =1.1.0 =hd590300_0
+    - brotli-bin =1.1.0 =hd590300_0
     - brotli-python =1.0.9 =py37hd23a5d3_7
     - bwidget =1.9.14 =ha770c72_1
     - bzip2 =1.0.8 =h7f98852_4
@@ -161,9 +161,9 @@ requirements:
     - ld_impl_linux-64 =2.40 =h41732ed_0
     - lerc =4.0.0 =h27087fc_0
     - libblas =3.9.0 =17_linux64_openblas
-    - libbrotlicommon =1.0.9 =h166bdaf_9
-    - libbrotlidec =1.0.9 =h166bdaf_9
-    - libbrotlienc =1.0.9 =h166bdaf_9
+    - libbrotlicommon =1.1.0 =hd590300_0
+    - libbrotlidec =1.1.0 =hd590300_0
+    - libbrotlienc =1.1.0 =hd590300_0
     - libcap =2.67 =he9d0100_0
     - libcblas =3.9.0 =17_linux64_openblas
     - libclang =15.0.7 =default_h7634d5b_3
@@ -460,7 +460,7 @@ requirements:
     - ruamel.yaml =0.17.21 =py37h540881e_1
     - ruamel.yaml.clib =0.2.6 =py37h540881e_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-unknown-linux-gnu =1.72.0 =hc1431ca_1
+    - rust-std-x86_64-unknown-linux-gnu =1.72.0 =hc1431ca_2
     - sed =4.8 =he412f7d_0
     - send2trash =1.8.2 =pyh41d4057_0
     - setuptools =59.8.0 =py37h89c1867_1

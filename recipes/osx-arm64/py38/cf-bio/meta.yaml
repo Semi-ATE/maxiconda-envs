@@ -45,9 +45,9 @@ requirements:
     - blosc =1.21.4 =hc338f07_0
     - boost =1.78.0 =py38he0a633c_4
     - boost-cpp =1.78.0 =h9ed8d21_3
-    - brotli =1.0.9 =h1a8c8d9_9
-    - brotli-bin =1.0.9 =h1a8c8d9_9
-    - brotli-python =1.0.9 =py38h2b1e499_9
+    - brotli =1.1.0 =hb547adb_0
+    - brotli-bin =1.1.0 =hb547adb_0
+    - brotli-python =1.1.0 =py38he333c0f_0
     - bzip2 =1.0.8 =h3422bc3_4
     - c-ares =1.19.1 =hb547adb_0
     - ca-certificates =2023.7.22 =hf0a4a13_0
@@ -108,9 +108,9 @@ requirements:
     - lerc =4.0.0 =h9a09cb3_0
     - libaec =1.0.6 =hb7217d7_1
     - libblas =3.9.0 =17_osxarm64_openblas
-    - libbrotlicommon =1.0.9 =h1a8c8d9_9
-    - libbrotlidec =1.0.9 =h1a8c8d9_9
-    - libbrotlienc =1.0.9 =h1a8c8d9_9
+    - libbrotlicommon =1.1.0 =hb547adb_0
+    - libbrotlidec =1.1.0 =hb547adb_0
+    - libbrotlienc =1.1.0 =hb547adb_0
     - libcblas =3.9.0 =17_osxarm64_openblas
     - libclang =15.0.7 =default_h5dc8d65_3
     - libclang13 =15.0.7 =default_hc7183e1_3
@@ -128,7 +128,7 @@ requirements:
     - libjpeg-turbo =2.1.5.1 =h1a8c8d9_0
     - liblapack =3.9.0 =17_osxarm64_openblas
     - libllvm15 =15.0.7 =h504e6bf_3
-    - libnetcdf =4.9.2 =nompi_hb2fb864_111
+    - libnetcdf =4.9.2 =nompi_hb2fb864_112
     - libnghttp2 =1.52.0 =hae82a92_0
     - libogg =1.3.4 =h27ca646_1
     - libopenblas =0.3.23 =openmp_hc731615_0

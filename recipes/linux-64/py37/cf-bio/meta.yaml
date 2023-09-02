@@ -46,8 +46,8 @@ requirements:
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - boost =1.78.0 =py37h48bf904_0
     - boost-cpp =1.78.0 =h5adbc97_2
-    - brotli =1.0.9 =h166bdaf_9
-    - brotli-bin =1.0.9 =h166bdaf_9
+    - brotli =1.1.0 =hd590300_0
+    - brotli-bin =1.1.0 =hd590300_0
     - bzip2 =1.0.8 =h7f98852_4
     - c-ares =1.19.1 =hd590300_0
     - ca-certificates =2023.7.22 =hbcca054_0
@@ -107,9 +107,9 @@ requirements:
     - lerc =4.0.0 =h27087fc_0
     - libaec =1.0.6 =hcb278e6_1
     - libblas =3.9.0 =17_linux64_openblas
-    - libbrotlicommon =1.0.9 =h166bdaf_9
-    - libbrotlidec =1.0.9 =h166bdaf_9
-    - libbrotlienc =1.0.9 =h166bdaf_9
+    - libbrotlicommon =1.1.0 =hd590300_0
+    - libbrotlidec =1.1.0 =hd590300_0
+    - libbrotlienc =1.1.0 =hd590300_0
     - libcap =2.67 =he9d0100_0
     - libcblas =3.9.0 =17_linux64_openblas
     - libclang =15.0.7 =default_h7634d5b_3

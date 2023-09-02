@@ -53,9 +53,9 @@ requirements:
     - binaryornot =0.4.4 =py_1
     - black =23.7.0 =py38h50d1736_1
     - bleach =6.0.0 =pyhd8ed1ab_0
-    - brotli =1.0.9 =hb7f2c08_9
-    - brotli-bin =1.0.9 =hb7f2c08_9
-    - brotli-python =1.0.9 =py38h4cd09af_9
+    - brotli =1.1.0 =h0dc2134_0
+    - brotli-bin =1.1.0 =h0dc2134_0
+    - brotli-python =1.1.0 =py38h940360d_0
     - bzip2 =1.0.8 =h0d85af4_4
     - ca-certificates =2023.7.22 =h8857fd0_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
@@ -117,9 +117,9 @@ requirements:
     - lcms2 =2.15 =h2dcdeff_1
     - lerc =4.0.0 =hb486fe8_0
     - libblas =3.9.0 =17_osx64_openblas
-    - libbrotlicommon =1.0.9 =hb7f2c08_9
-    - libbrotlidec =1.0.9 =hb7f2c08_9
-    - libbrotlienc =1.0.9 =hb7f2c08_9
+    - libbrotlicommon =1.1.0 =h0dc2134_0
+    - libbrotlidec =1.1.0 =h0dc2134_0
+    - libbrotlienc =1.1.0 =h0dc2134_0
     - libcblas =3.9.0 =17_osx64_openblas
     - libclang =15.0.7 =default_hdb78580_3
     - libclang13 =15.0.7 =default_h953c2e9_3
@@ -231,8 +231,8 @@ requirements:
     - qt-main =5.15.8 =heb9da5c_15
     - qt-webengine =5.15.8 =h66b1b81_1
     - qtawesome =1.2.3 =pyhd8ed1ab_0
-    - qtconsole =5.4.3 =pyhd8ed1ab_0
-    - qtconsole-base =5.4.3 =pyha770c72_0
+    - qtconsole =5.4.4 =pyhd8ed1ab_0
+    - qtconsole-base =5.4.4 =pyha770c72_0
     - qtpy =2.4.0 =pyhd8ed1ab_0
     - readline =8.2 =h9e318b2_1
     - referencing =0.30.2 =pyhd8ed1ab_0

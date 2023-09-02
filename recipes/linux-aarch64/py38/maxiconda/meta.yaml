@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.8.1 =py38hea3b116_0
     - cython =3.0.2 =py38hb83fbf6_0
     - grayskull =2.3.1 =pyhd8ed1ab_0
-    - hypothesis =6.82.7 =pyha770c72_0
+    - hypothesis =6.83.0 =pyha770c72_0
     - ipython =8.12.2 =pyh41d4057_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.2 =py38h2063c64_0
@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2023.8.8 =py38h9579f32_0
     - requests =2.31.0 =pyhd8ed1ab_0
-    - rust =1.72.0 =h9d3d833_1
+    - rust =1.72.0 =h9d3d833_2
     - scipy =1.10.1 =py38he3f4005_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
@@ -87,9 +87,9 @@ requirements:
     - backports.zoneinfo =0.2.1 =py38hdacc76a_7
     - binutils_impl_linux-aarch64 =2.40 =h870a726_0
     - bleach =6.0.0 =pyhd8ed1ab_0
-    - brotli =1.0.9 =h4e544f5_9
-    - brotli-bin =1.0.9 =h4e544f5_9
-    - brotli-python =1.0.9 =py38h5f8a8d0_9
+    - brotli =1.1.0 =h31becfc_0
+    - brotli-bin =1.1.0 =h31becfc_0
+    - brotli-python =1.1.0 =py38hb83fbf6_0
     - bwidget =1.9.14 =h8af1aa0_1
     - bzip2 =1.0.8 =hf897c2e_4
     - c-ares =1.19.1 =h31becfc_0
@@ -176,9 +176,9 @@ requirements:
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
     - libblas =3.9.0 =17_linuxaarch64_openblas
-    - libbrotlicommon =1.0.9 =h4e544f5_9
-    - libbrotlidec =1.0.9 =h4e544f5_9
-    - libbrotlienc =1.0.9 =h4e544f5_9
+    - libbrotlicommon =1.1.0 =h31becfc_0
+    - libbrotlidec =1.1.0 =h31becfc_0
+    - libbrotlienc =1.1.0 =h31becfc_0
     - libcap =2.69 =h883460d_0
     - libcblas =3.9.0 =17_linuxaarch64_openblas
     - libclang =15.0.7 =default_hdf9a116_3
@@ -483,7 +483,7 @@ requirements:
     - ruamel.yaml =0.17.32 =py38h9579f32_0
     - ruamel.yaml.clib =0.2.7 =py38hda48048_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-aarch64-unknown-linux-gnu =1.72.0 =ha15b78c_1
+    - rust-std-aarch64-unknown-linux-gnu =1.72.0 =ha15b78c_2
     - sed =4.8 =ha0d5d3d_0
     - semver =3.0.1 =pyhd8ed1ab_0
     - send2trash =1.8.2 =pyh41d4057_0
