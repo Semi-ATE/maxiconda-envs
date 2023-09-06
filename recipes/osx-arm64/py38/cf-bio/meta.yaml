@@ -85,8 +85,8 @@ requirements:
     - greenlet =2.0.2 =py38he333c0f_1
     - griddataformats =1.0.1 =pyhd8ed1ab_0
     - gsd =3.1.1 =py38h58b515d_0
-    - gst-plugins-base =1.22.5 =h27255cc_0
-    - gstreamer =1.22.5 =h8c52bba_0
+    - gst-plugins-base =1.22.5 =h27255cc_1
+    - gstreamer =1.22.5 =h8c52bba_1
     - h5py =3.9.0 =nompi_py38h04dd3c0_102
     - hdf4 =4.2.15 =h8111dcc_6
     - hdf5 =1.14.2 =nompi_h3aba7b3_100
@@ -96,7 +96,7 @@ requirements:
     - importlib-resources =6.0.1 =pyhd8ed1ab_0
     - importlib_metadata =6.8.0 =hd8ed1ab_0
     - importlib_resources =6.0.1 =pyhd8ed1ab_0
-    - ipykernel =6.25.1 =pyh5fb750a_0
+    - ipykernel =6.25.2 =pyh1050b4e_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - jedi =0.19.0 =pyhd8ed1ab_0
     - joblib =1.3.2 =pyhd8ed1ab_0
@@ -107,11 +107,11 @@ requirements:
     - lcms2 =2.15 =hd835a16_1
     - lerc =4.0.0 =h9a09cb3_0
     - libaec =1.0.6 =hb7217d7_1
-    - libblas =3.9.0 =17_osxarm64_openblas
+    - libblas =3.9.0 =18_osxarm64_openblas
     - libbrotlicommon =1.1.0 =hb547adb_0
     - libbrotlidec =1.1.0 =hb547adb_0
     - libbrotlienc =1.1.0 =hb547adb_0
-    - libcblas =3.9.0 =17_osxarm64_openblas
+    - libcblas =3.9.0 =18_osxarm64_openblas
     - libclang =15.0.7 =default_h5dc8d65_3
     - libclang13 =15.0.7 =default_hc7183e1_3
     - libcurl =8.2.1 =hc52a3a8_0
@@ -126,12 +126,12 @@ requirements:
     - libglib =2.76.4 =h24e9cb9_0
     - libiconv =1.17 =he4db4b2_0
     - libjpeg-turbo =2.1.5.1 =h1a8c8d9_0
-    - liblapack =3.9.0 =17_osxarm64_openblas
+    - liblapack =3.9.0 =18_osxarm64_openblas
     - libllvm15 =15.0.7 =h504e6bf_3
     - libnetcdf =4.9.2 =nompi_hb2fb864_112
     - libnghttp2 =1.52.0 =hae82a92_0
     - libogg =1.3.4 =h27ca646_1
-    - libopenblas =0.3.23 =openmp_hc731615_0
+    - libopenblas =0.3.24 =openmp_hd76b1f2_0
     - libopus =1.3.1 =h27ca646_1
     - libpng =1.6.39 =h76d750c_0
     - libpq =15.4 =hcea71ed_0
@@ -143,7 +143,7 @@ requirements:
     - libwebp-base =1.3.1 =hb547adb_0
     - libxcb =1.15 =hf346824_0
     - libxml2 =2.11.5 =he3bdae6_0
-    - libzip =1.10.1 =ha0bc3c6_1
+    - libzip =1.10.1 =ha0bc3c6_2
     - libzlib =1.2.13 =h53f4e23_5
     - llvm-openmp =16.0.6 =h1c12783_0
     - lz4-c =1.9.4 =hb7217d7_0
@@ -194,7 +194,7 @@ requirements:
     - python-tzdata =2023.3 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
     - pytng =0.3.0 =py38h2346e95_0
-    - pytz =2023.3 =pyhd8ed1ab_0
+    - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.1 =py38hef91016_0
     - qt-main =5.15.8 =hab52160_15
     - readline =8.2 =h92ec313_1

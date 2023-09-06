@@ -76,8 +76,8 @@ requirements:
     - greenlet =1.1.3 =py37hac51a3e_0
     - griddataformats =0.7.0 =pyhd8ed1ab_0
     - gsd =2.6.0 =py37h8a7099b_0
-    - gst-plugins-base =1.22.5 =hb5d3a86_0
-    - gstreamer =1.22.5 =h840fbdc_0
+    - gst-plugins-base =1.22.5 =hb5d3a86_1
+    - gstreamer =1.22.5 =h840fbdc_1
     - hdf4 =4.2.15 =h7aa5921_5
     - hdf5 =1.12.2 =nompi_h48135f9_101
     - icu =70.1 =h96cf925_0
@@ -94,11 +94,11 @@ requirements:
     - lcms2 =2.14 =h90f4b2a_0
     - lerc =4.0.0 =hb486fe8_0
     - libaec =1.0.6 =hf0c8a7f_1
-    - libblas =3.9.0 =17_osx64_openblas
+    - libblas =3.9.0 =18_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_0
     - libbrotlidec =1.1.0 =h0dc2134_0
     - libbrotlienc =1.1.0 =h0dc2134_0
-    - libcblas =3.9.0 =17_osx64_openblas
+    - libcblas =3.9.0 =18_osx64_openblas
     - libclang =13.0.1 =root_62804_h2961583_3
     - libcurl =8.1.2 =hbee3ae8_0
     - libcxx =16.0.6 =hd57cbcb_0
@@ -111,12 +111,12 @@ requirements:
     - libgfortran5 =12.3.0 =hbd3c1fe_1
     - libglib =2.76.4 =hc62aa5d_0
     - libiconv =1.17 =hac89ed1_0
-    - liblapack =3.9.0 =17_osx64_openblas
+    - liblapack =3.9.0 =18_osx64_openblas
     - libllvm13 =13.0.1 =h64f94b2_2
     - libnetcdf =4.8.1 =nompi_hc61b76e_106
     - libnghttp2 =1.52.0 =he2ab024_0
     - libogg =1.3.4 =h35c211d_1
-    - libopenblas =0.3.23 =openmp_h429af6e_0
+    - libopenblas =0.3.24 =openmp_h48a4ad5_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.39 =ha978bb4_0
     - libpq =15.3 =h9dc22bb_1
@@ -128,7 +128,7 @@ requirements:
     - libwebp-base =1.3.1 =h0dc2134_0
     - libxcb =1.13 =h0d85af4_1004
     - libxml2 =2.10.3 =h201ad9d_4
-    - libzip =1.10.1 =hc158999_1
+    - libzip =1.10.1 =hc158999_2
     - libzlib =1.2.13 =h8a1eda9_5
     - llvm-openmp =16.0.6 =hff08bdf_0
     - matplotlib-base =3.5.3 =py37h3748cd6_2
@@ -168,7 +168,7 @@ requirements:
     - pyqt5-sip =12.11.0 =py37h8bea099_1
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.7 =3_cp37m
-    - pytz =2023.3 =pyhd8ed1ab_0
+    - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =24.0.1 =py37haa7bc41_0
     - qt-main =5.15.8 =h1d3b3f8_6
     - readline =8.2 =h9e318b2_1

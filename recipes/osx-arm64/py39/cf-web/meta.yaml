@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - beautifulsoup4 =4.12.2 =pyha770c72_0
-    - django =4.2.4 =pyhd8ed1ab_0
+    - django =4.2.5 =pyhd8ed1ab_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - pyqt =5.15.9 =py39hcf430f4_4
     - pyyaml =6.0.1 =py39h0f82c59_0
@@ -65,15 +65,15 @@ requirements:
     - glib =2.76.4 =ha614eb4_0
     - glib-tools =2.76.4 =ha614eb4_0
     - greenlet =2.0.2 =py39hb198ff7_1
-    - gst-plugins-base =1.22.5 =h27255cc_0
-    - gstreamer =1.22.5 =h8c52bba_0
+    - gst-plugins-base =1.22.5 =h27255cc_1
+    - gstreamer =1.22.5 =h8c52bba_1
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =72.1 =he12128b_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =6.8.0 =pyha770c72_0
     - importlib_metadata =6.8.0 =hd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - ipykernel =6.25.1 =pyh5fb750a_0
+    - ipykernel =6.25.2 =pyh1050b4e_0
     - ipython =8.15.0 =pyh31c8845_0
     - jedi =0.19.0 =pyhd8ed1ab_0
     - jupyter_client =8.3.1 =pyhd8ed1ab_0
@@ -135,7 +135,7 @@ requirements:
     - setuptools =68.1.2 =pyhd8ed1ab_0
     - sip =6.7.11 =py39hb198ff7_0
     - six =1.16.0 =pyh6c4a22f_0
-    - soupsieve =2.5 =pyhd8ed1ab_0
+    - soupsieve =2.5 =pyhd8ed1ab_1
     - sqlparse =0.4.4 =pyhd8ed1ab_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tk =8.6.12 =he1e0b03_0

@@ -136,8 +136,8 @@ requirements:
     - graphite2 =1.3.13 =1000
     - graphviz =8.1.0 =h51cb2cd_0
     - greenlet =2.0.2 =py38hd3f51b4_1
-    - gst-plugins-base =1.22.5 =h001b923_0
-    - gstreamer =1.22.5 =hb4038d2_0
+    - gst-plugins-base =1.22.5 =h001b923_1
+    - gstreamer =1.22.5 =hb4038d2_1
     - gts =0.7.6 =h6b5321d_4
     - harfbuzz =7.3.0 =h196d34a_0
     - htmlmin =0.1.12 =py_1
@@ -152,7 +152,7 @@ requirements:
     - importlib_resources =6.0.1 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - intel-openmp =2023.2.0 =h57928b3_49496
-    - ipykernel =6.25.1 =pyh6817e22_0
+    - ipykernel =6.25.2 =pyh60829e3_0
     - ipython =8.12.2 =pyh08f2357_0
     - ipywidgets =8.1.0 =pyhd8ed1ab_0
     - itemadapter =0.8.0 =pyhd8ed1ab_0
@@ -173,11 +173,11 @@ requirements:
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230125.3 =cxx17_h63175ca_0
     - libarrow =12.0.1 =h10ad630_9_cpu
-    - libblas =3.9.0 =17_win64_mkl
+    - libblas =3.9.0 =18_win64_mkl
     - libbrotlicommon =1.0.9 =hcfcfb64_9
     - libbrotlidec =1.0.9 =hcfcfb64_9
     - libbrotlienc =1.0.9 =hcfcfb64_9
-    - libcblas =3.9.0 =17_win64_mkl
+    - libcblas =3.9.0 =18_win64_mkl
     - libclang =15.0.7 =default_h77d9078_3
     - libclang13 =15.0.7 =default_h77d9078_3
     - libcrc32c =1.1.2 =h0e60522_0
@@ -193,7 +193,7 @@ requirements:
     - libhwloc =2.9.2 =default_haede6df_1009
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
-    - liblapack =3.9.0 =17_win64_mkl
+    - liblapack =3.9.0 =18_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
     - libprotobuf =4.23.3 =h1975477_1
@@ -297,7 +297,7 @@ requirements:
     - python-graphviz =0.20.1 =pyh22cad53_0
     - python-tzdata =2023.3 =pyhd8ed1ab_0
     - python_abi =3.8 =3_cp38
-    - pytz =2023.3 =pyhd8ed1ab_0
+    - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pywavelets =1.4.1 =py38hbaf524b_0
     - pywin32 =304 =py38hd3f51b4_2
     - pywin32-on-windows =0.1.0 =pyh07e9846_2
@@ -322,7 +322,7 @@ requirements:
     - smart_open =5.2.1 =pyhd8ed1ab_0
     - smmap =3.0.5 =pyh44b312d_0
     - snappy =1.1.10 =hfb803bf_0
-    - soupsieve =2.5 =pyhd8ed1ab_0
+    - soupsieve =2.5 =pyhd8ed1ab_1
     - spacy =3.6.1 =py38h618a1af_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
     - spacy-loggers =1.0.4 =pyhd8ed1ab_0

@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - cython =3.0.2 =py39hb198ff7_0
     - grayskull =2.3.1 =pyhd8ed1ab_0
-    - hypothesis =6.84.0 =pyha770c72_0
+    - hypothesis =6.84.1 =pyha770c72_0
     - ipython =8.15.0 =pyh31c8845_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.2 =py39hdf13c20_0
@@ -141,8 +141,8 @@ requirements:
     - graphite2 =1.3.13 =h9f76cd9_1001
     - greenlet =2.0.2 =py39hb198ff7_1
     - gsl =2.7 =h6e638da_0
-    - gst-plugins-base =1.22.5 =h27255cc_0
-    - gstreamer =1.22.5 =h8c52bba_0
+    - gst-plugins-base =1.22.5 =h27255cc_1
+    - gstreamer =1.22.5 =h8c52bba_1
     - harfbuzz =7.3.0 =h46e5fef_0
     - icu =72.1 =he12128b_0
     - idna =3.4 =pyhd8ed1ab_0
@@ -151,7 +151,7 @@ requirements:
     - importlib_metadata =6.8.0 =hd8ed1ab_0
     - importlib_resources =6.0.1 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
-    - ipykernel =6.25.1 =pyh5fb750a_0
+    - ipykernel =6.25.2 =pyh1050b4e_0
     - isl =0.25 =h9a09cb3_0
     - isoduration =20.11.0 =pyhd8ed1ab_0
     - jedi =0.19.0 =pyhd8ed1ab_0
@@ -174,11 +174,11 @@ requirements:
     - lcms2 =2.15 =hd835a16_1
     - ld64_osx-arm64 =609 =ha4bd21c_14
     - lerc =4.0.0 =h9a09cb3_0
-    - libblas =3.9.0 =17_osxarm64_openblas
+    - libblas =3.9.0 =18_osxarm64_openblas
     - libbrotlicommon =1.1.0 =hb547adb_0
     - libbrotlidec =1.1.0 =hb547adb_0
     - libbrotlienc =1.1.0 =hb547adb_0
-    - libcblas =3.9.0 =17_osxarm64_openblas
+    - libcblas =3.9.0 =18_osxarm64_openblas
     - libclang =15.0.7 =default_h5dc8d65_3
     - libclang-cpp16 =16.0.6 =default_h07b2d96_1
     - libclang13 =15.0.7 =default_hc7183e1_3
@@ -195,13 +195,13 @@ requirements:
     - libglib =2.76.4 =h24e9cb9_0
     - libiconv =1.17 =he4db4b2_0
     - libjpeg-turbo =2.1.5.1 =h1a8c8d9_0
-    - liblapack =3.9.0 =17_osxarm64_openblas
+    - liblapack =3.9.0 =18_osxarm64_openblas
     - libllvm14 =14.0.6 =hd1a9a77_4
     - libllvm15 =15.0.7 =h504e6bf_3
     - libllvm16 =16.0.6 =he79909e_2
     - libnghttp2 =1.52.0 =hae82a92_0
     - libogg =1.3.4 =h27ca646_1
-    - libopenblas =0.3.23 =openmp_hc731615_0
+    - libopenblas =0.3.24 =openmp_hd76b1f2_0
     - libopus =1.3.1 =h27ca646_1
     - libpng =1.6.39 =h76d750c_0
     - libpq =15.4 =hcea71ed_0
@@ -279,7 +279,7 @@ requirements:
     - python-tzdata =2023.3 =pyhd8ed1ab_0
     - python-utils =3.7.0 =pyhd8ed1ab_1
     - python_abi =3.9 =3_cp39
-    - pytz =2023.3 =pyhd8ed1ab_0
+    - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.1 =py39h1e134f0_0
     - qt-main =5.15.8 =hab52160_15
     - qtpy =2.4.0 =pyhd8ed1ab_0
@@ -386,7 +386,7 @@ requirements:
     - r-numderiv =2016.8_1.1 =r43hc72bb7e_5
     - r-openssl =2.0.6 =r43h138cb08_1
     - r-parallelly =1.36.0 =r43hc72bb7e_1
-    - r-pbdzmq =0.3_9 =r43h2561c83_1
+    - r-pbdzmq =0.3_10 =r43h2561c83_0
     - r-pillar =1.9.0 =r43hc72bb7e_1
     - r-pkgconfig =2.0.3 =r43hc72bb7e_3
     - r-plyr =1.8.8 =r43he62749d_1
@@ -479,7 +479,7 @@ requirements:
     - six =1.16.0 =pyh6c4a22f_0
     - sniffio =1.3.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
-    - soupsieve =2.5 =pyhd8ed1ab_0
+    - soupsieve =2.5 =pyhd8ed1ab_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - stdlib-list =0.8.0 =pyhd8ed1ab_0
     - tapi =1100.0.11 =he4954df_0

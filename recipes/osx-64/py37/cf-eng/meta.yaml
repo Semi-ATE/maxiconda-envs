@@ -49,8 +49,8 @@ requirements:
     - gettext =0.21.1 =h8a4c099_0
     - glib =2.76.4 =h7d26f99_0
     - glib-tools =2.76.4 =h7d26f99_0
-    - gst-plugins-base =1.22.5 =hb5d3a86_0
-    - gstreamer =1.22.5 =h840fbdc_0
+    - gst-plugins-base =1.22.5 =hb5d3a86_1
+    - gstreamer =1.22.5 =h840fbdc_1
     - icu =72.1 =h7336db1_0
     - importlib-metadata =4.11.4 =py37hf985489_0
     - importlib_metadata =4.11.4 =hd8ed1ab_0
@@ -60,8 +60,8 @@ requirements:
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =4.11.1 =py37hf985489_0
     - krb5 =1.21.2 =hb884880_0
-    - libblas =3.9.0 =17_osx64_openblas
-    - libcblas =3.9.0 =17_osx64_openblas
+    - libblas =3.9.0 =18_osx64_openblas
+    - libcblas =3.9.0 =18_osx64_openblas
     - libclang =15.0.7 =default_hdb78580_3
     - libclang13 =15.0.7 =default_h953c2e9_3
     - libcxx =16.0.6 =hd57cbcb_0
@@ -72,10 +72,10 @@ requirements:
     - libglib =2.76.4 =hc62aa5d_0
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =2.1.5.1 =hb7f2c08_0
-    - liblapack =3.9.0 =17_osx64_openblas
+    - liblapack =3.9.0 =18_osx64_openblas
     - libllvm15 =15.0.7 =he4b1e75_3
     - libogg =1.3.4 =h35c211d_1
-    - libopenblas =0.3.23 =openmp_h429af6e_0
+    - libopenblas =0.3.24 =openmp_h48a4ad5_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.39 =ha978bb4_0
     - libpq =15.4 =h3df487d_0
@@ -108,7 +108,7 @@ requirements:
     - pyqt5-sip =12.11.0 =py37h8bea099_1
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.7 =3_cp37m
-    - pytz =2023.3 =pyhd8ed1ab_0
+    - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyvisa =1.12.0 =py37hf985489_0
     - pyzmq =24.0.1 =py37haa7bc41_0
     - qt-main =5.15.8 =heb9da5c_15
