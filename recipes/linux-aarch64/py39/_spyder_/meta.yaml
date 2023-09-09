@@ -136,12 +136,12 @@ requirements:
     - lcms2 =2.15 =h3e0bdec_1
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
-    - libblas =3.9.0 =18_linuxaarch64_openblas
+    - libblas =3.9.0 =17_linuxaarch64_openblas
     - libbrotlicommon =1.1.0 =h31becfc_0
     - libbrotlidec =1.1.0 =h31becfc_0
     - libbrotlienc =1.1.0 =h31becfc_0
     - libcap =2.69 =h883460d_0
-    - libcblas =3.9.0 =18_linuxaarch64_openblas
+    - libcblas =3.9.0 =17_linuxaarch64_openblas
     - libclang =15.0.7 =default_hdf9a116_3
     - libclang13 =15.0.7 =default_hc086480_3
     - libcups =2.3.3 =h4303303_3
@@ -160,11 +160,11 @@ requirements:
     - libgpg-error =1.47 =h5ce24db_0
     - libiconv =1.17 =h9cdd2b7_0
     - libjpeg-turbo =2.1.5.1 =hb4cce97_0
-    - liblapack =3.9.0 =18_linuxaarch64_openblas
+    - liblapack =3.9.0 =17_linuxaarch64_openblas
     - libllvm15 =15.0.7 =hc720cd8_3
     - libnsl =2.0.0 =hf897c2e_0
     - libogg =1.3.4 =h3557bc0_1
-    - libopenblas =0.3.24 =pthreads_h5a5ec62_0
+    - libopenblas =0.3.23 =pthreads_hd703e6f_0
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
     - libpq =15.3 =hf616e62_1
@@ -249,7 +249,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-fastjsonschema =2.18.0 =pyhd8ed1ab_0
     - python-lsp-black =1.3.0 =pyhd8ed1ab_0
-    - python-lsp-jsonrpc =1.0.0 =pyhd8ed1ab_0
+    - python-lsp-jsonrpc =1.1.0 =pyhd8ed1ab_0
     - python-lsp-server =1.7.4 =pyhd8ed1ab_0
     - python-lsp-server-base =1.7.4 =pyhd8ed1ab_0
     - python-slugify =8.0.1 =pyhd8ed1ab_1

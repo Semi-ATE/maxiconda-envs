@@ -64,8 +64,8 @@ requirements:
     - aws-c-s3 =0.3.14 =h9f49523_3
     - aws-c-sdkutils =0.1.12 =h04c9df6_1
     - aws-checksums =0.1.17 =h04c9df6_1
-    - aws-crt-cpp =0.23.0 =hf4e30cf_5
-    - aws-sdk-cpp =1.11.156 =hf794bbe_0
+    - aws-crt-cpp =0.23.1 =hf4e30cf_0
+    - aws-sdk-cpp =1.11.156 =h77892aa_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -173,7 +173,7 @@ requirements:
     - lcms2 =2.15 =h3e3b177_1
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230125.3 =cxx17_h63175ca_0
-    - libarrow =12.0.1 =h1d4cf54_11_cpu
+    - libarrow =12.0.1 =hba3d5be_12_cpu
     - libblas =3.9.0 =18_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_0
     - libbrotlidec =1.1.0 =hcfcfb64_0
@@ -274,7 +274,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py39h7090721_2
-    - pyarrow =12.0.1 =py39h0a09291_11_cpu
+    - pyarrow =12.0.1 =py39h0a09291_12_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
