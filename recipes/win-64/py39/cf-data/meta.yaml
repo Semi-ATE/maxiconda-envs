@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.0 =py39hbaa61f9_1
     - xgboost =1.7.6 =cpu_py39h7090721_2
 
-    # 342 secondary packages :
+    # 343 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.11.3 =pyhd8ed1ab_0
     - annotated-types =0.5.0 =pyhd8ed1ab_0
@@ -90,7 +90,7 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_0
     - colorlover =0.3.0 =py_0
     - comm =0.1.4 =pyhd8ed1ab_0
-    - confection =0.1.1 =py39hbeae4fa_0
+    - confection =0.1.3 =py39h5b92f00_0
     - configparser =5.3.0 =pyhd8ed1ab_0
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
@@ -128,7 +128,7 @@ requirements:
     - future =0.18.3 =pyhd8ed1ab_0
     - fuzzytm =2.0.5 =pyhd8ed1ab_0
     - gensim =4.3.2 =py39h32e6231_0
-    - getopt-win32 =0.1 =h8ffe710_0
+    - getopt-win32 =0.1 =hcfcfb64_1
     - gettext =0.21.1 =h5728263_0
     - gitdb =4.0.10 =pyhd8ed1ab_0
     - gitpython =3.1.35 =pyhd8ed1ab_0
@@ -139,6 +139,7 @@ requirements:
     - greenlet =2.0.2 =py39h99910a6_1
     - gst-plugins-base =1.22.5 =h001b923_1
     - gstreamer =1.22.5 =hb4038d2_1
+    - gtest =1.14.0 =h91493d7_1
     - gts =0.7.6 =h6b5321d_4
     - harfbuzz =7.3.0 =h196d34a_0
     - htmlmin =0.1.12 =py_1
@@ -172,8 +173,8 @@ requirements:
     - langcodes =3.3.0 =pyhd8ed1ab_0
     - lcms2 =2.15 =h3e3b177_1
     - lerc =4.0.0 =h63175ca_0
-    - libabseil =20230125.3 =cxx17_h63175ca_0
-    - libarrow =12.0.1 =hba3d5be_12_cpu
+    - libabseil =20230802.0 =cxx17_h63175ca_3
+    - libarrow =12.0.1 =h1e3473c_13_cpu
     - libblas =3.9.0 =18_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_0
     - libbrotlidec =1.1.0 =hcfcfb64_0
@@ -189,15 +190,15 @@ requirements:
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h2ed9e1d_6
     - libglib =2.78.0 =he8f3873_0
-    - libgoogle-cloud =2.12.0 =hbc1b25b_1
-    - libgrpc =1.56.2 =hea2d5f7_1
+    - libgoogle-cloud =2.12.0 =h0a0a397_2
+    - libgrpc =1.57.0 =h550f6bd_1
     - libhwloc =2.9.2 =default_haede6df_1009
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_0
     - liblapack =3.9.0 =18_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
-    - libprotobuf =4.23.3 =h1975477_1
+    - libprotobuf =4.23.4 =hb8276f3_5
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.43.0 =hcfcfb64_0
     - libssh2 =1.11.0 =h7dfc565_0
@@ -244,7 +245,7 @@ requirements:
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha2aaf27_2
     - openssl =3.1.2 =hcfcfb64_0
-    - orc =1.9.0 =hf2b8f0d_1
+    - orc =1.9.0 =h8dbeef6_2
     - packaging =23.1 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.50.14 =hd64ce24_1
@@ -268,13 +269,13 @@ requirements:
     - prompt-toolkit =3.0.39 =pyha770c72_0
     - prompt_toolkit =3.0.39 =hd8ed1ab_0
     - protego =0.3.0 =pyhd8ed1ab_0
-    - protobuf =4.23.3 =py39ha25027d_0
+    - protobuf =4.23.4 =py39hb5342b9_2
     - psutil =5.9.5 =py39ha55989b_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py39h7090721_2
-    - pyarrow =12.0.1 =py39h0a09291_12_cpu
+    - pyarrow =12.0.1 =py39h0a09291_13_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -362,7 +363,7 @@ requirements:
     - waitress =2.1.2 =pyhd8ed1ab_0
     - wasabi =1.1.2 =py39hcbf5309_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
-    - websocket-client =1.6.2 =pyhd8ed1ab_0
+    - websocket-client =1.6.3 =pyhd8ed1ab_0
     - werkzeug =2.3.7 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0
     - widgetsnbextension =4.0.8 =pyhd8ed1ab_0
