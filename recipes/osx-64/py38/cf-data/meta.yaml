@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py38h50d1736_3
     - pyqt =5.15.9 =py38he1c912d_4
-    - pytorch =2.0.0 =cpu_mkl_py38h45356d3_101
+    - pytorch =2.0.0 =cpu_mkl_py38h1241bd0_102
     - scikit-learn =1.3.0 =py38h76d8a74_0
     - scipy =1.10.1 =py38h9cf86d3_3
     - scrapy =2.10.1 =py38h50d1736_0
@@ -46,10 +46,9 @@ requirements:
     - statsmodels =0.14.0 =py38hd2faf92_1
     - xgboost =1.7.6 =cpu_py38hef7b56c_2
 
-    # 352 secondary packages :
+    # 350 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.11.3 =pyhd8ed1ab_0
-    - annotated-types =0.5.0 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.3 =pyhd8ed1ab_0
     - asttokens =2.4.0 =pyhd8ed1ab_0
@@ -62,12 +61,12 @@ requirements:
     - aws-c-compression =0.2.17 =hc1c6d78_2
     - aws-c-event-stream =0.3.2 =hf265e0f_0
     - aws-c-http =0.7.12 =h572c275_1
-    - aws-c-io =0.13.32 =hc0caee9_2
+    - aws-c-io =0.13.32 =hc0caee9_3
     - aws-c-mqtt =0.9.5 =h54c5ab7_1
-    - aws-c-s3 =0.3.14 =hab1dffe_3
+    - aws-c-s3 =0.3.17 =hab1dffe_0
     - aws-c-sdkutils =0.1.12 =hc1c6d78_1
     - aws-checksums =0.1.17 =hc1c6d78_1
-    - aws-crt-cpp =0.23.1 =hf409f0c_0
+    - aws-crt-cpp =0.23.1 =hd14e152_1
     - aws-sdk-cpp =1.11.156 =h706e9e7_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -81,7 +80,7 @@ requirements:
     - bzip2 =1.0.8 =h0d85af4_4
     - c-ares =1.19.1 =h0dc2134_0
     - ca-certificates =2023.7.22 =h8857fd0_0
-    - cairo =1.16.0 =h09dd18c_1016
+    - cairo =1.16.0 =hfdb49f2_1017
     - catalogue =2.0.9 =py38h50d1736_0
     - catboost =1.1.1 =py38h50d1736_2
     - certifi =2023.7.22 =pyhd8ed1ab_0
@@ -135,7 +134,7 @@ requirements:
     - gflags =2.2.2 =hb1e8313_1004
     - giflib =5.2.1 =hb7f2c08_3
     - gitdb =4.0.10 =pyhd8ed1ab_0
-    - gitpython =3.1.35 =pyhd8ed1ab_0
+    - gitpython =3.1.36 =pyhd8ed1ab_0
     - glib =2.78.0 =h7d26f99_0
     - glib-tools =2.78.0 =h7d26f99_0
     - glog =0.6.0 =h8ac2a54_0
@@ -149,10 +148,10 @@ requirements:
     - gtk2 =2.24.33 =h7c1209e_2
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =21.2.0 =py38h50d1736_0
-    - harfbuzz =7.3.0 =h413ba03_0
+    - harfbuzz =8.2.0 =h7666e2a_0
     - htmlmin =0.1.12 =py_1
     - hyperlink =21.0.0 =pyhd3deb0d_0
-    - icu =72.1 =h7336db1_0
+    - icu =73.2 =hf5e326d_0
     - idna =3.4 =pyhd8ed1ab_0
     - imagehash =4.3.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.11.0 =pyhd8ed1ab_0
@@ -180,8 +179,8 @@ requirements:
     - langcodes =3.3.0 =pyhd8ed1ab_0
     - lcms2 =2.15 =h2dcdeff_1
     - lerc =4.0.0 =hb486fe8_0
-    - libabseil =20230125.3 =cxx17_h000cb23_0
-    - libarrow =12.0.1 =hca2412d_12_cpu
+    - libabseil =20230802.0 =cxx17_h048a20a_3
+    - libarrow =12.0.1 =heeec12f_13_cpu
     - libblas =3.9.0 =18_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_0
     - libbrotlidec =1.1.0 =h0dc2134_0
@@ -198,12 +197,12 @@ requirements:
     - libevent =2.1.12 =ha90c15b_1
     - libexpat =2.5.0 =hf0c8a7f_1
     - libffi =3.4.2 =h0d85af4_5
-    - libgd =2.3.3 =h3d994df_6
+    - libgd =2.3.3 =heb3472c_7
     - libgfortran =5.0.0 =13_2_0_h97931a8_1
     - libgfortran5 =13.2.0 =h2873a65_1
     - libglib =2.78.0 =hc62aa5d_0
-    - libgoogle-cloud =2.12.0 =h37a168a_1
-    - libgrpc =1.56.2 =he6801ca_1
+    - libgoogle-cloud =2.12.0 =hc7e40ee_2
+    - libgrpc =1.57.0 =ha2534ac_1
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =2.1.5.1 =hb7f2c08_0
     - liblapack =3.9.0 =18_osx64_openblas
@@ -215,7 +214,7 @@ requirements:
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.39 =ha978bb4_0
     - libpq =15.4 =h3df487d_0
-    - libprotobuf =4.23.3 =h5feb325_1
+    - libprotobuf =4.23.4 =he0c2237_6
     - librsvg =2.56.3 =hec3db73_0
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.43.0 =h58db7d2_0
@@ -230,7 +229,7 @@ requirements:
     - libwebp-base =1.3.1 =h0dc2134_0
     - libxcb =1.15 =hb7f2c08_0
     - libxgboost =1.7.6 =cpu_h72f100a_2
-    - libxml2 =2.11.5 =hd95e348_0
+    - libxml2 =2.11.5 =h3346baf_1
     - libxslt =1.1.37 =h20bfa82_1
     - libzlib =1.2.13 =h8a1eda9_5
     - llvm-openmp =16.0.6 =hff08bdf_0
@@ -247,7 +246,7 @@ requirements:
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mkl =2022.2.1 =h44ed08c_16952
-    - mlflow =2.6.0 =py38hf6bc2c6_0
+    - mlflow =2.6.0 =py38hf6bc2c6_1
     - mlxtend =0.22.0 =pyhd8ed1ab_0
     - mpc =1.3.1 =h81bd1dd_0
     - mpfr =4.2.0 =h4f9bd69_0
@@ -268,10 +267,10 @@ requirements:
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h13ac156_2
     - openssl =3.1.2 =h8a1eda9_0
-    - orc =1.9.0 =hef23039_1
+    - orc =1.9.0 =ha4ae40d_2
     - packaging =23.1 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
-    - pango =1.50.14 =hbce5e75_1
+    - pango =1.50.14 =h19c1c8a_2
     - paramiko =3.3.1 =pyhd8ed1ab_0
     - parsel =1.8.1 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
@@ -293,19 +292,18 @@ requirements:
     - prompt-toolkit =3.0.39 =pyha770c72_0
     - prompt_toolkit =3.0.39 =hd8ed1ab_0
     - protego =0.3.0 =pyhd8ed1ab_0
-    - protobuf =4.23.3 =py38h5d109fe_0
+    - protobuf =4.23.4 =py38haa4c059_2
     - psutil =5.9.5 =py38hef030d1_0
     - pthread-stubs =0.4 =hc929b4f_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py38hef7b56c_2
-    - pyarrow =12.0.1 =py38h103467d_12_cpu
+    - pyarrow =12.0.1 =py38h906a081_13_cpu
     - pyasn1 =0.4.8 =py_0
     - pyasn1-modules =0.2.7 =py_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic =2.3.0 =pyhd8ed1ab_0
-    - pydantic-core =2.6.3 =py38h7510fb3_0
+    - pydantic =1.10.12 =py38hcafd530_1
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.16.1 =pyhd8ed1ab_0
@@ -328,7 +326,7 @@ requirements:
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
     - pyyaml =6.0.1 =py38hcafd530_0
     - pyzmq =25.1.1 =py38h3b70857_0
-    - qt-main =5.15.8 =heb9da5c_15
+    - qt-main =5.15.8 =hc03889f_16
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
     - re2 =2023.03.02 =h096449b_0
@@ -340,7 +338,7 @@ requirements:
     - rich =13.5.1 =pyhd8ed1ab_0
     - seaborn-base =0.12.2 =pyhd8ed1ab_0
     - service_identity =18.1.0 =py_0
-    - setuptools =68.1.2 =pyhd8ed1ab_0
+    - setuptools =68.2.2 =pyhd8ed1ab_0
     - shellingham =1.5.3 =pyhd8ed1ab_0
     - simpful =2.11.0 =pyhd8ed1ab_0
     - sip =6.7.11 =py38h940360d_0
@@ -352,7 +350,7 @@ requirements:
     - soupsieve =2.5 =pyhd8ed1ab_1
     - spacy =3.6.1 =py38hba43d4d_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
-    - spacy-loggers =1.0.4 =pyhd8ed1ab_0
+    - spacy-loggers =1.0.5 =pyhd8ed1ab_0
     - sqlparse =0.4.4 =pyhd8ed1ab_0
     - srsly =2.4.7 =py38h940360d_0
     - stack_data =0.6.2 =pyhd8ed1ab_0

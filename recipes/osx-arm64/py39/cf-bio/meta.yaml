@@ -44,7 +44,7 @@ requirements:
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - blosc =1.21.5 =hc338f07_0
     - boost =1.78.0 =py39h99de9ae_4
-    - boost-cpp =1.78.0 =h9ed8d21_3
+    - boost-cpp =1.78.0 =h00df5ed_4
     - brotli =1.1.0 =hb547adb_0
     - brotli-bin =1.1.0 =hb547adb_0
     - brotli-python =1.1.0 =py39hb198ff7_0
@@ -53,7 +53,7 @@ requirements:
     - ca-certificates =2023.7.22 =hf0a4a13_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
-    - cairo =1.16.0 =h1e71087_1016
+    - cairo =1.16.0 =hc5b65c1_1017
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cftime =1.6.2 =py39h4d8bf0d_1
     - charset-normalizer =3.2.0 =pyhd8ed1ab_0
@@ -91,7 +91,7 @@ requirements:
     - h5py =3.9.0 =nompi_py39h6ce3805_102
     - hdf4 =4.2.15 =h8111dcc_6
     - hdf5 =1.14.2 =nompi_h3aba7b3_100
-    - icu =72.1 =he12128b_0
+    - icu =73.2 =hc8870d7_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =6.8.0 =pyha770c72_0
     - importlib-resources =6.0.1 =pyhd8ed1ab_0
@@ -143,7 +143,7 @@ requirements:
     - libvorbis =1.3.7 =h9f76cd9_0
     - libwebp-base =1.3.1 =hb547adb_0
     - libxcb =1.15 =hf346824_0
-    - libxml2 =2.11.5 =he3bdae6_0
+    - libxml2 =2.11.5 =h25269f3_1
     - libzip =1.10.1 =ha0bc3c6_3
     - libzlib =1.2.13 =h53f4e23_5
     - llvm-openmp =16.0.6 =h1c12783_0
@@ -197,7 +197,7 @@ requirements:
     - pytng =0.3.0 =py39h4fa970e_0
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.1 =py39h1e134f0_0
-    - qt-main =5.15.8 =hab52160_15
+    - qt-main =5.15.8 =h219f738_16
     - readline =8.2 =h92ec313_1
     - reportlab =4.0.4 =py39h0f82c59_0
     - requests =2.31.0 =pyhd8ed1ab_0
@@ -205,7 +205,7 @@ requirements:
     - scikit-learn =1.3.0 =py39hd5c4a62_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - seaborn-base =0.12.2 =pyhd8ed1ab_0
-    - setuptools =68.1.2 =pyhd8ed1ab_0
+    - setuptools =68.2.2 =pyhd8ed1ab_0
     - sip =6.7.11 =py39hb198ff7_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.1.10 =h17c5cce_0
