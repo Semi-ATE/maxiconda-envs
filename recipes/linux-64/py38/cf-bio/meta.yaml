@@ -66,7 +66,7 @@ requirements:
     - contourpy =1.1.0 =py38h7f3f72f_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
-    - debugpy =1.7.0 =py38h17151c0_0
+    - debugpy =1.8.0 =py38h17151c0_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - executing =1.2.0 =pyhd8ed1ab_0
     - expat =2.5.0 =hcb278e6_1
@@ -79,7 +79,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.42.1 =py38h01eb140_0
-    - freetype =2.12.1 =hca18f0e_1
+    - freetype =2.12.1 =h267a509_2
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h27087fc_0
     - glew =2.1.0 =h9c3ff4c_2
@@ -125,7 +125,7 @@ requirements:
     - libclang =15.0.7 =default_h7634d5b_3
     - libclang13 =15.0.7 =default_h9986a30_3
     - libcups =2.3.3 =h4637d8d_4
-    - libcurl =8.2.1 =hca28451_0
+    - libcurl =8.3.0 =hca28451_0
     - libdeflate =1.18 =h0b41bf4_0
     - libedit =3.1.20191231 =he28a2e2_2
     - libev =4.33 =h516909a_1
@@ -142,7 +142,7 @@ requirements:
     - libgomp =13.2.0 =h807b86a_0
     - libgpg-error =1.47 =h71f35ed_0
     - libiconv =1.17 =h166bdaf_0
-    - libjpeg-turbo =2.1.5.1 =h0b41bf4_0
+    - libjpeg-turbo =2.1.5.1 =hd590300_1
     - liblapack =3.9.0 =18_linux64_openblas
     - libllvm15 =15.0.7 =h5cf9203_3
     - libnetcdf =4.9.2 =nompi_h80fb2b6_112
