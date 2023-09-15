@@ -133,7 +133,7 @@ requirements:
     - krb5 =1.20.1 =h113d92e_0
     - lame =3.100 =h4e544f5_1003
     - lazy-object-proxy =1.9.0 =py39h24fc6b6_0
-    - lcms2 =2.15 =h3e0bdec_1
+    - lcms2 =2.15 =h2df2c41_2
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
     - libblas =3.9.0 =17_linuxaarch64_openblas
@@ -174,10 +174,10 @@ requirements:
     - libsqlite =3.43.0 =h194ca79_0
     - libstdcxx-ng =13.2.0 =h9a76618_0
     - libsystemd0 =254 =h91e93f8_0
-    - libtiff =4.5.1 =h360e80f_1
+    - libtiff =4.6.0 =h360e80f_0
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
-    - libwebp =1.3.1 =hd7a20fa_0
+    - libwebp =1.3.1 =h850206a_1
     - libwebp-base =1.3.1 =h31becfc_0
     - libxcb =1.15 =h2a766a3_0
     - libxkbcommon =1.5.0 =h307e02a_3
@@ -210,7 +210,7 @@ requirements:
     - nspr =4.35 =h4de3ea5_0
     - nss =3.92 =hc5a5cc2_0
     - numpydoc =1.5.0 =pyhd8ed1ab_0
-    - openjpeg =2.5.0 =h9508984_2
+    - openjpeg =2.5.0 =h0d9d63b_3
     - openssl =3.1.2 =h31becfc_0
     - packaging =23.1 =pyhd8ed1ab_0
     - pandoc =3.1.3 =h8af1aa0_0
@@ -220,7 +220,7 @@ requirements:
     - pcre2 =10.40 =he7b27c6_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =10.0.0 =py39hc5b5638_0
+    - pillow =10.0.0 =py39h6ca4121_1
     - pip =23.2.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =hb9de7d4_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
@@ -290,7 +290,7 @@ requirements:
     - sphinxcontrib-serializinghtml =1.1.9 =pyhd8ed1ab_0
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
-    - text-unidecode =1.3 =py_0
+    - text-unidecode =1.3 =pyhd8ed1ab_1
     - textdistance =4.5.0 =pyhd8ed1ab_0
     - three-merge =0.1.1 =pyh9f0ad1d_0
     - tinycss2 =1.2.1 =pyhd8ed1ab_0
@@ -299,7 +299,7 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tomlkit =0.12.1 =pyha770c72_0
     - tornado =6.3.3 =py39h7cc1d5f_0
-    - traitlets =5.9.0 =pyhd8ed1ab_0
+    - traitlets =5.10.0 =pyhd8ed1ab_0
     - typing-extensions =4.7.1 =hd8ed1ab_0
     - typing_extensions =4.7.1 =pyha770c72_0
     - tzdata =2023c =h71feb2d_0
@@ -308,7 +308,7 @@ requirements:
     - urllib3 =2.0.4 =pyhd8ed1ab_0
     - watchdog =3.0.0 =py39ha65689a_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
-    - webencodings =0.5.1 =py_1
+    - webencodings =0.5.1 =pyhd8ed1ab_2
     - whatthepatch =1.0.5 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0
     - wrapt =1.15.0 =py39h24fc6b6_0

@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0 =py37h69ee0a8_4
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
-    - r-base =4.3.1 =had2b78c_3
+    - r-base =4.3.1 =hc77f628_4
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2022.9.13 =py37h8052db5_0
     - requests =2.31.0 =pyhd8ed1ab_0
@@ -84,7 +84,7 @@ requirements:
     - bzip2 =1.0.8 =h0d85af4_4
     - c-ares =1.19.1 =h0dc2134_0
     - ca-certificates =2023.7.22 =h8857fd0_0
-    - cairo =1.16.0 =h09dd18c_1016
+    - cairo =1.16.0 =hfdb49f2_1017
     - cctools_osx-64 =973.0.1 =ha1c5b94_14
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.15.1 =py37h7346b73_1
@@ -131,8 +131,8 @@ requirements:
     - gsl =2.7 =h93259b0_0
     - gst-plugins-base =1.22.5 =hb5d3a86_1
     - gstreamer =1.22.5 =h840fbdc_1
-    - harfbuzz =7.3.0 =h413ba03_0
-    - icu =72.1 =h7336db1_0
+    - harfbuzz =7.3.0 =h7666e2a_1
+    - icu =73.2 =hf5e326d_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =4.11.4 =py37hf985489_0
     - importlib_metadata =4.11.4 =hd8ed1ab_0
@@ -183,10 +183,10 @@ requirements:
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.43.0 =h58db7d2_0
     - libssh2 =1.11.0 =hd019ec5_0
-    - libtiff =4.5.1 =hf955e92_1
+    - libtiff =4.6.0 =hf955e92_0
     - libvorbis =1.3.7 =h046ec9c_0
-    - libwebp-base =1.3.1 =h0dc2134_0
-    - libxml2 =2.11.5 =hd95e348_0
+    - libwebp-base =1.3.2 =h0dc2134_0
+    - libxml2 =2.11.5 =h3346baf_1
     - libzlib =1.2.13 =h8a1eda9_5
     - llvm-openmp =16.0.6 =hff08bdf_0
     - llvm-tools =16.0.6 =he4b1e75_2
@@ -247,7 +247,7 @@ requirements:
     - python_abi =3.7 =3_cp37m
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =24.0.1 =py37haa7bc41_0
-    - qt-main =5.15.8 =heb9da5c_15
+    - qt-main =5.15.8 =hc03889f_16
     - qtpy =2.4.0 =pyhd8ed1ab_0
     - r-askpass =1.2.0 =r43h6dc245f_0
     - r-assertthat =0.2.1 =r43hc72bb7e_4
@@ -369,7 +369,7 @@ requirements:
     - r-purrr =1.0.2 =r43h6dc245f_0
     - r-quantmod =0.4.25 =r43hc72bb7e_0
     - r-r6 =2.5.1 =r43hc72bb7e_2
-    - r-ragg =1.2.5 =r43he54449d_2
+    - r-ragg =1.2.5 =r43h5126171_3
     - r-randomforest =4.7_1.1 =r43hfe07776_2
     - r-rappdirs =0.3.3 =r43h6dc245f_2
     - r-rbokeh =0.5.2 =r43hc72bb7e_3
@@ -398,7 +398,7 @@ requirements:
     - r-sourcetools =0.1.7_1 =r43hac7d2d5_1
     - r-spatial =7.3_17 =r43h6dc245f_0
     - r-squarem =2021.1 =r43hc72bb7e_2
-    - r-stringi =1.7.12 =r43hf939c12_2
+    - r-stringi =1.7.12 =r43h480af0a_3
     - r-stringr =1.5.0 =r43h785f33e_1
     - r-survival =3.5_7 =r43h6dc245f_0
     - r-sys =3.4.2 =r43h6dc245f_1
@@ -456,7 +456,7 @@ requirements:
     - tzdata =2023c =h71feb2d_0
     - urllib3 =2.0.4 =pyhd8ed1ab_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
-    - webencodings =0.5.1 =py_1
+    - webencodings =0.5.1 =pyhd8ed1ab_2
     - websocket-client =1.6.1 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
