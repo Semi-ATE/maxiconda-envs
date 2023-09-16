@@ -38,7 +38,7 @@ requirements:
     # 314 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.13 =pyhd8ed1ab_0
-    - alsa-lib =1.2.8 =h4e544f5_0
+    - alsa-lib =1.2.10 =h31becfc_0
     - arrow =1.2.3 =pyhd8ed1ab_0
     - astroid =2.15.6 =py38he3eb160_0
     - asttokens =2.4.0 =pyhd8ed1ab_0
@@ -59,7 +59,7 @@ requirements:
     - brotli-python =1.1.0 =py38hb83fbf6_0
     - bzip2 =1.0.8 =hf897c2e_4
     - ca-certificates =2023.7.22 =hcefe29a_0
-    - cairo =1.16.0 =h3b99fb1_1016
+    - cairo =1.16.0 =hd7f43fd_1017
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38h6989fa8_3
     - chardet =5.2.0 =py38h2063c64_0
@@ -100,10 +100,10 @@ requirements:
     - gmp =6.2.1 =h7fd3ca4_0
     - gmpy2 =2.1.2 =py38hff653fa_1
     - graphite2 =1.3.13 =h7fd3ca4_1001
-    - gst-plugins-base =1.22.3 =h746d1cd_1
-    - gstreamer =1.22.3 =he293c15_1
-    - harfbuzz =7.3.0 =h8428050_0
-    - icu =72.1 =hcf00150_0
+    - gst-plugins-base =1.22.5 =h6d82d15_1
+    - gstreamer =1.22.5 =hed71854_1
+    - harfbuzz =8.2.0 =hebeb849_0
+    - icu =73.2 =h787c7f5_0
     - idna =3.4 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
     - importlib-metadata =6.8.0 =pyha770c72_0
@@ -129,7 +129,7 @@ requirements:
     - keyring =24.2.0 =py38he3eb160_0
     - keyutils =1.6.1 =h4e544f5_0
     - kiwisolver =1.4.5 =py38h7e3a353_0
-    - krb5 =1.20.1 =h113d92e_0
+    - krb5 =1.21.2 =hc419048_0
     - lame =3.100 =h4e544f5_1003
     - lazy-object-proxy =1.9.0 =py38hda48048_0
     - lcms2 =2.15 =h2df2c41_2
@@ -143,7 +143,7 @@ requirements:
     - libcblas =3.9.0 =17_linuxaarch64_openblas
     - libclang =15.0.7 =default_hdf9a116_3
     - libclang13 =15.0.7 =default_hc086480_3
-    - libcups =2.3.3 =h4303303_3
+    - libcups =2.3.3 =h405e4a8_4
     - libdeflate =1.18 =hb4cce97_0
     - libedit =3.1.20191231 =he28a2e2_2
     - libevent =2.1.12 =h4ba1bb4_1
@@ -166,7 +166,7 @@ requirements:
     - libopenblas =0.3.23 =pthreads_hd703e6f_0
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
-    - libpq =15.3 =hf616e62_1
+    - libpq =15.4 =h04b8c23_0
     - libsndfile =1.2.2 =h8e84ad3_0
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =1.9.3 =h01db608_4
@@ -176,11 +176,11 @@ requirements:
     - libtiff =4.6.0 =h360e80f_0
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
-    - libwebp =1.3.1 =h850206a_1
-    - libwebp-base =1.3.1 =h31becfc_0
+    - libwebp =1.3.2 =h850206a_0
+    - libwebp-base =1.3.2 =h31becfc_0
     - libxcb =1.15 =h2a766a3_0
     - libxkbcommon =1.5.0 =h307e02a_3
-    - libxml2 =2.11.5 =h164fba4_0
+    - libxml2 =2.11.5 =h3091e33_1
     - libzlib =1.2.13 =h31becfc_5
     - lz4-c =1.9.4 =hd600fc2_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
@@ -261,8 +261,8 @@ requirements:
     - pyzmq =25.1.1 =py38h6a3a231_0
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.8 =h0396913_13
-    - qt-webengine =5.15.8 =he068465_2
+    - qt-main =5.15.8 =h8e8b9a1_16
+    - qt-webengine =5.15.8 =h4d62b09_3
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.4.4 =pyhd8ed1ab_0
     - qtconsole-base =5.4.4 =pyha770c72_0

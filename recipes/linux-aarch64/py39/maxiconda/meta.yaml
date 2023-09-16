@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0.1 =py39h898b7ef_0
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
-    - r-base =4.3.1 =h763ebdd_4
+    - r-base =4.3.1 =h559ac27_4
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2023.8.8 =py39h898b7ef_0
     - requests =2.31.0 =pyhd8ed1ab_0
@@ -69,7 +69,7 @@ requirements:
     - _r-mutex =1.0.1 =anacondar_1
     - _sysroot_linux-aarch64_curr_repodata_hack =4 =h57d6b7b_13
     - aiosignal =1.3.1 =pyhd8ed1ab_0
-    - alsa-lib =1.2.9 =h31becfc_0
+    - alsa-lib =1.2.10 =h31becfc_0
     - annotated-types =0.5.0 =pyhd8ed1ab_0
     - anyio =4.0.0 =pyhd8ed1ab_0
     - argon2-cffi =23.1.0 =pyhd8ed1ab_0
@@ -96,7 +96,7 @@ requirements:
     - ca-certificates =2023.7.22 =hcefe29a_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
-    - cairo =1.16.0 =h3b99fb1_1016
+    - cairo =1.16.0 =hd7f43fd_1017
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.15.1 =py39hb26bf21_3
     - charset-normalizer =3.2.0 =pyhd8ed1ab_0
@@ -139,11 +139,11 @@ requirements:
     - graphite2 =1.3.13 =h7fd3ca4_1001
     - greenlet =2.0.2 =py39h387a81e_1
     - gsl =2.7 =h294027d_0
-    - gst-plugins-base =1.22.5 =hc44d83b_0
-    - gstreamer =1.22.5 =hed71854_0
+    - gst-plugins-base =1.22.5 =h6d82d15_1
+    - gstreamer =1.22.5 =hed71854_1
     - gxx_impl_linux-aarch64 =13.2.0 =h5669b93_0
-    - harfbuzz =7.3.0 =h8428050_0
-    - icu =72.1 =hcf00150_0
+    - harfbuzz =8.2.0 =hebeb849_0
+    - icu =73.2 =h787c7f5_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =6.8.0 =pyha770c72_0
     - importlib-resources =6.0.1 =pyhd8ed1ab_0
@@ -226,7 +226,7 @@ requirements:
     - libwebp-base =1.3.2 =h31becfc_0
     - libxcb =1.15 =h2a766a3_0
     - libxkbcommon =1.5.0 =h307e02a_3
-    - libxml2 =2.11.5 =h164fba4_0
+    - libxml2 =2.11.5 =h3091e33_1
     - libzlib =1.2.13 =h31becfc_5
     - llvmlite =0.40.1 =py39h483cef1_0
     - lz4-c =1.9.4 =hd600fc2_0
@@ -258,7 +258,7 @@ requirements:
     - packaging =23.1 =pyhd8ed1ab_0
     - pandoc =3.1.3 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.50.14 =hb4276a1_1
+    - pango =1.50.14 =h11ef544_2
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =he7b27c6_0
     - pexpect =4.8.0 =pyh1a96a4e_2
@@ -293,7 +293,7 @@ requirements:
     - python_abi =3.9 =3_cp39
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.1 =py39h7ea2324_0
-    - qt-main =5.15.8 =h5633377_15
+    - qt-main =5.15.8 =h8e8b9a1_16
     - qtpy =2.4.0 =pyhd8ed1ab_0
     - r-askpass =1.2.0 =r43h25e906a_0
     - r-assertthat =0.2.1 =r43hc72bb7e_4
@@ -444,12 +444,12 @@ requirements:
     - r-sourcetools =0.1.7_1 =r43h93f32a7_1
     - r-spatial =7.3_17 =r43h25e906a_0
     - r-squarem =2021.1 =r43hc72bb7e_2
-    - r-stringi =1.7.12 =r43heb6e581_2
+    - r-stringi =1.7.12 =r43h0566d91_3
     - r-stringr =1.5.0 =r43h785f33e_1
     - r-survival =3.5_7 =r43h25e906a_0
     - r-sys =3.4.2 =r43h25e906a_1
     - r-systemfonts =1.0.4 =r43he1fe685_2
-    - r-textshaping =0.3.6 =r43h3773dde_6
+    - r-textshaping =0.3.6 =r43h09d6c55_7
     - r-tibble =3.2.1 =r43h25e906a_2
     - r-tidyr =1.3.0 =r43h93f32a7_1
     - r-tidyselect =1.2.0 =r43h4571c7f_1

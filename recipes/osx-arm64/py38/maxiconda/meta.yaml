@@ -47,7 +47,7 @@ requirements:
     - pyyaml =6.0.1 =py38hb192615_0
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
-    - r-base =4.3.1 =h7fa7ea6_4
+    - r-base =4.3.1 =h8ca35e0_4
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2023.8.8 =py38hb192615_0
     - requests =2.31.0 =pyhd8ed1ab_0
@@ -91,7 +91,7 @@ requirements:
     - ca-certificates =2023.7.22 =hf0a4a13_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
-    - cairo =1.16.0 =h1e71087_1016
+    - cairo =1.16.0 =hc5b65c1_1017
     - cctools_osx-arm64 =973.0.1 =h62378fb_14
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.15.1 =py38ha45ccd6_3
@@ -143,8 +143,8 @@ requirements:
     - gsl =2.7 =h6e638da_0
     - gst-plugins-base =1.22.5 =h27255cc_1
     - gstreamer =1.22.5 =h8c52bba_1
-    - harfbuzz =7.3.0 =h46e5fef_0
-    - icu =72.1 =he12128b_0
+    - harfbuzz =8.2.0 =hf1a6348_0
+    - icu =73.2 =hc8870d7_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =6.8.0 =pyha770c72_0
     - importlib-resources =6.0.1 =pyhd8ed1ab_0
@@ -212,7 +212,7 @@ requirements:
     - libvorbis =1.3.7 =h9f76cd9_0
     - libwebp-base =1.3.2 =hb547adb_0
     - libxcb =1.15 =hf346824_0
-    - libxml2 =2.11.5 =he3bdae6_0
+    - libxml2 =2.11.5 =h25269f3_1
     - libzlib =1.2.13 =h53f4e23_5
     - llvm-openmp =16.0.6 =h1c12783_0
     - llvm-tools =16.0.6 =he79909e_2
@@ -244,7 +244,7 @@ requirements:
     - packaging =23.1 =pyhd8ed1ab_0
     - pandoc =3.1.3 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.50.14 =h9f7e0c6_1
+    - pango =1.50.14 =hcf40dda_2
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =hb34f9b4_0
     - pexpect =4.8.0 =pyh1a96a4e_2
@@ -279,7 +279,7 @@ requirements:
     - python_abi =3.8 =3_cp38
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.1 =py38hef91016_0
-    - qt-main =5.15.8 =hab52160_15
+    - qt-main =5.15.8 =h219f738_16
     - qtpy =2.4.0 =pyhd8ed1ab_0
     - r-askpass =1.2.0 =r43h21dc0da_0
     - r-assertthat =0.2.1 =r43hc72bb7e_4
@@ -430,12 +430,12 @@ requirements:
     - r-sourcetools =0.1.7_1 =r43he62749d_1
     - r-spatial =7.3_17 =r43h21dc0da_0
     - r-squarem =2021.1 =r43hc72bb7e_2
-    - r-stringi =1.7.12 =r43hb8c85c0_2
+    - r-stringi =1.7.12 =r43h31e90fb_3
     - r-stringr =1.5.0 =r43h785f33e_1
     - r-survival =3.5_7 =r43h21dc0da_0
     - r-sys =3.4.2 =r43h21dc0da_1
     - r-systemfonts =1.0.4 =r43h4f0b353_2
-    - r-textshaping =0.3.6 =r43h614c5d1_6
+    - r-textshaping =0.3.6 =r43h059379e_7
     - r-tibble =3.2.1 =r43h21dc0da_2
     - r-tidyr =1.3.0 =r43he62749d_1
     - r-tidyselect =1.2.0 =r43h011812f_1
