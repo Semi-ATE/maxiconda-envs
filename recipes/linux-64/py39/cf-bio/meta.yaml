@@ -61,7 +61,7 @@ requirements:
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.4 =pyhd8ed1ab_0
-    - contourpy =1.1.0 =py39h7633fee_0
+    - contourpy =1.1.1 =py39h7633fee_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
     - debugpy =1.8.0 =py39h3d6467e_0
@@ -131,13 +131,13 @@ requirements:
     - libexpat =2.5.0 =hcb278e6_1
     - libffi =3.4.2 =h7f98852_5
     - libflac =1.4.3 =h59595ed_0
-    - libgcc-ng =13.2.0 =h807b86a_0
+    - libgcc-ng =13.2.0 =h807b86a_1
     - libgcrypt =1.10.1 =h166bdaf_0
-    - libgfortran-ng =13.2.0 =h69a702a_0
-    - libgfortran5 =13.2.0 =ha4646dd_0
+    - libgfortran-ng =13.2.0 =h69a702a_1
+    - libgfortran5 =13.2.0 =ha4646dd_1
     - libglib =2.78.0 =hebfc3b9_0
     - libglu =9.0.0 =hac7e632_1003
-    - libgomp =13.2.0 =h807b86a_0
+    - libgomp =13.2.0 =h807b86a_1
     - libgpg-error =1.47 =h71f35ed_0
     - libiconv =1.17 =h166bdaf_0
     - libjpeg-turbo =2.1.5.1 =hd590300_1
@@ -155,7 +155,7 @@ requirements:
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.43.0 =h2797004_0
     - libssh2 =1.11.0 =h0841786_0
-    - libstdcxx-ng =13.2.0 =h7e041cc_0
+    - libstdcxx-ng =13.2.0 =h7e041cc_1
     - libsystemd0 =254 =h3516f8a_0
     - libtiff =4.6.0 =h8b53f26_0
     - libuuid =2.38.1 =h0b41bf4_0
@@ -192,7 +192,7 @@ requirements:
     - pcre2 =10.40 =hc3806b6_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =10.0.0 =py39h444a776_1
+    - pillow =10.0.1 =py39h444a776_0
     - pip =23.2.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h36c2ea0_0
     - platformdirs =3.10.0 =pyhd8ed1ab_0

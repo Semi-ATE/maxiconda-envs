@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - cython =3.0.2 =py39hb198ff7_0
     - grayskull =2.3.1 =pyhd8ed1ab_0
-    - hypothesis =6.84.3 =pyha770c72_0
+    - hypothesis =6.85.0 =pyha770c72_0
     - ipython =8.15.0 =pyh31c8845_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.2 =py39hdf13c20_0
@@ -108,7 +108,7 @@ requirements:
     - compiler-rt =16.0.6 =hf8d1dfb_0
     - compiler-rt_osx-arm64 =16.0.6 =hf8d1dfb_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
-    - contourpy =1.1.0 =py39hbd775c9_0
+    - contourpy =1.1.1 =py39hbd775c9_0
     - curl =8.3.0 =hc52a3a8_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.8.0 =py39hb198ff7_0
@@ -249,7 +249,7 @@ requirements:
     - pcre2 =10.40 =hb34f9b4_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py_1003
-    - pillow =10.0.0 =py39hef383c8_1
+    - pillow =10.0.1 =py39hef383c8_0
     - pip =23.2.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h27ca646_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
