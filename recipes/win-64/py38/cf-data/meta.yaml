@@ -28,7 +28,7 @@ requirements:
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - bokeh =3.1.1 =pyhd8ed1ab_0
     - lightgbm =4.0.0 =py38hd3f51b4_0
-    - matplotlib =3.7.2 =py38haa244fe_0
+    - matplotlib =3.7.3 =py38haa244fe_0
     - numpy =1.24.4 =py38h1d91fd2_0
     - pandas =2.0.3 =py38hf08cf0d_1
     - plotly =5.17.0 =pyhd8ed1ab_0
@@ -170,7 +170,7 @@ requirements:
     - langcodes =3.3.0 =pyhd8ed1ab_0
     - lcms2 =2.15 =he9d350c_2
     - lerc =4.0.0 =h63175ca_0
-    - libabseil =20230802.0 =cxx17_h63175ca_3
+    - libabseil =20230802.1 =cxx17_h63175ca_0
     - libarrow =13.0.0 =h1e3473c_4_cpu
     - libblas =3.9.0 =18_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_0
@@ -222,7 +222,7 @@ requirements:
     - markdown =3.4.4 =pyhd8ed1ab_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.3 =py38h91455d4_0
-    - matplotlib-base =3.7.2 =py38h2d9580e_0
+    - matplotlib-base =3.7.3 =py38h2724991_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mdurl =0.1.0 =pyhd8ed1ab_0
     - miniful =0.0.6 =pyhd8ed1ab_0
@@ -287,7 +287,7 @@ requirements:
     - pynndescent =0.5.10 =pyh1a96a4e_0
     - pyod =1.1.0 =pyhd8ed1ab_0
     - pyopenssl =23.2.0 =pyhd8ed1ab_1
-    - pyparsing =3.0.9 =pyhd8ed1ab_0
+    - pyparsing =3.1.1 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py38hd3f51b4_4
     - pysocks =1.7.1 =py38haa244fe_5
     - python-cufflinks =0.17.3 =py_0
@@ -344,8 +344,8 @@ requirements:
     - twisted =22.10.0 =py38h91455d4_0
     - twisted-iocpsupport =1.0.4 =py38h91455d4_0
     - typer =0.9.0 =pyhd8ed1ab_0
-    - typing-extensions =4.7.1 =hd8ed1ab_0
-    - typing_extensions =4.7.1 =pyha770c72_0
+    - typing-extensions =4.8.0 =hd8ed1ab_0
+    - typing_extensions =4.8.0 =pyha770c72_0
     - ucrt =10.0.22621.0 =h57928b3_0
     - umap-learn =0.5.4 =py38haa244fe_0
     - unicodedata2 =15.0.0 =py38h91455d4_0
