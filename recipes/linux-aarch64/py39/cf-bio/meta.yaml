@@ -26,7 +26,7 @@ requirements:
 
     # 8 primary packages :
     - biopython =1.81 =py39h24fc6b6_0
-    - matplotlib =3.7.3 =py39ha65689a_0
+    - matplotlib =3.8.0 =py39ha65689a_0
     - numpy =1.26.0 =py39hf88902c_0
     - pandas =2.1.0 =py39h26ccf5d_0
     - pyqt =5.15.9 =py39hc7e6f3c_4
@@ -147,7 +147,7 @@ requirements:
     - libxml2 =2.10.3 =habe54e3_4
     - libzlib =1.2.13 =h31becfc_5
     - lz4-c =1.9.4 =hd600fc2_0
-    - matplotlib-base =3.7.3 =py39h8e43113_0
+    - matplotlib-base =3.8.0 =py39h8e43113_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mpg123 =1.31.3 =hd600fc2_0
     - munkres =1.1.4 =pyh9f0ad1d_0
@@ -158,7 +158,7 @@ requirements:
     - nspr =4.35 =h4de3ea5_0
     - nss =3.92 =hc5a5cc2_0
     - openjpeg =2.5.0 =h9508984_2
-    - openssl =3.1.2 =h31becfc_0
+    - openssl =3.1.3 =h31becfc_0
     - packaging =23.1 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =he7b27c6_0
@@ -184,7 +184,7 @@ requirements:
     - pyqt5-sip =12.12.2 =py39h387a81e_4
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-tzdata =2023.3 =pyhd8ed1ab_0
-    - python_abi =3.9 =3_cp39
+    - python_abi =3.9 =4_cp39
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.1 =py39h7ea2324_0
     - qt-main =5.15.8 =h7a5f702_7
@@ -194,7 +194,7 @@ requirements:
     - setuptools =68.2.2 =pyhd8ed1ab_0
     - sip =6.7.11 =py39he8647fe_0
     - six =1.16.0 =pyh6c4a22f_0
-    - sqlalchemy =2.0.20 =py39h7cc1d5f_0
+    - sqlalchemy =2.0.21 =py39h7cc1d5f_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tk =8.6.12 =hd8af866_0
     - toml =0.10.2 =pyhd8ed1ab_0

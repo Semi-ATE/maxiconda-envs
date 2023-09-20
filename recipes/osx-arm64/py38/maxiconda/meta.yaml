@@ -29,7 +29,7 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - cython =3.0.2 =py38he333c0f_0
-    - grayskull =2.3.1 =pyhd8ed1ab_0
+    - grayskull =2.4.0 =pyhd8ed1ab_0
     - hypothesis =6.86.2 =pyha770c72_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
@@ -55,12 +55,12 @@ requirements:
     - scipy =1.10.1 =py38h038e806_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
-    - sqlalchemy =2.0.20 =py38hb192615_0
+    - sqlalchemy =2.0.21 =py38hb192615_0
     - sqlite =3.43.0 =h203b68d_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.66.1 =pyhd8ed1ab_0
     - transitions =0.9.0 =pyhd8ed1ab_0
-    - xlsxwriter =3.1.3 =pyhd8ed1ab_0
+    - xlsxwriter =3.1.4 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
     # 448 secondary packages :
@@ -143,7 +143,7 @@ requirements:
     - gsl =2.7 =h6e638da_0
     - gst-plugins-base =1.22.5 =h27255cc_1
     - gstreamer =1.22.5 =h8c52bba_1
-    - harfbuzz =8.2.0 =hf1a6348_0
+    - harfbuzz =8.2.1 =hf1a6348_0
     - icu =73.2 =hc8870d7_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =6.8.0 =pyha770c72_0
@@ -239,7 +239,7 @@ requirements:
     - nspr =4.35 =hb7217d7_0
     - nss =3.92 =hc6b9969_0
     - openjpeg =2.5.0 =h4c1507b_3
-    - openssl =3.1.2 =h53f4e23_0
+    - openssl =3.1.3 =h53f4e23_0
     - overrides =7.4.0 =pyhd8ed1ab_0
     - packaging =23.1 =pyhd8ed1ab_0
     - pandoc =3.1.3 =hce30654_0
@@ -276,7 +276,7 @@ requirements:
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2023.3 =pyhd8ed1ab_0
     - python-utils =3.7.0 =pyhd8ed1ab_1
-    - python_abi =3.8 =3_cp38
+    - python_abi =3.8 =4_cp38
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.1 =py38hef91016_0
     - qt-main =5.15.8 =h219f738_16

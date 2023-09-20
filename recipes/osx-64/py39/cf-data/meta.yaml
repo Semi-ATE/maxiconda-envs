@@ -28,7 +28,7 @@ requirements:
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - bokeh =3.2.2 =pyhd8ed1ab_0
     - lightgbm =4.0.0 =py39h07d83e0_0
-    - matplotlib =3.7.3 =py39h6e9494a_0
+    - matplotlib =3.8.0 =py39h6e9494a_0
     - numpy =1.24.4 =py39h892e69a_0
     - pandas =2.1.0 =py39hcc9a0c8_0
     - plotly =5.17.0 =pyhd8ed1ab_0
@@ -38,10 +38,10 @@ requirements:
     - pytorch =2.0.0 =cpu_mkl_py39h4368b7e_102
     - scikit-learn =1.3.0 =py39hcb35850_0
     - scipy =1.11.2 =py39h2145d6e_1
-    - scrapy =2.10.1 =py39h6e9494a_0
+    - scrapy =2.11.0 =py39h6e9494a_0
     - seaborn =0.12.2 =hd8ed1ab_0
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
-    - sqlalchemy =2.0.20 =py39hdc70f33_0
+    - sqlalchemy =2.0.21 =py39hdc70f33_0
     - sqlite =3.43.0 =h2b0dec6_0
     - statsmodels =0.14.0 =py39h57e1da4_1
     - xgboost =1.7.6 =cpu_py39ha13d70a_2
@@ -56,7 +56,7 @@ requirements:
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
     - aws-c-auth =0.7.3 =h1fca4dd_3
-    - aws-c-cal =0.6.2 =h03343b3_0
+    - aws-c-cal =0.6.2 =hea78866_1
     - aws-c-common =0.9.0 =h0dc2134_0
     - aws-c-compression =0.2.17 =hc1c6d78_2
     - aws-c-event-stream =0.3.2 =hf265e0f_0
@@ -82,7 +82,7 @@ requirements:
     - ca-certificates =2023.7.22 =h8857fd0_0
     - cairo =1.16.0 =hfdb49f2_1017
     - catalogue =2.0.9 =py39h6e9494a_0
-    - catboost =1.2.1 =py39h6e9494a_0
+    - catboost =1.2.2 =py39h6e9494a_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.15.1 =py39h131948b_3
     - charset-normalizer =3.2.0 =pyhd8ed1ab_0
@@ -97,7 +97,7 @@ requirements:
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.1.1 =py39h8ee36c8_0
-    - cryptography =41.0.3 =py39he8b0a07_0
+    - cryptography =41.0.4 =py39he8b0a07_0
     - cssselect =1.2.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =py_0
     - cycler =0.11.0 =pyhd8ed1ab_0
@@ -149,7 +149,7 @@ requirements:
     - gtk2 =2.24.33 =h7c1209e_2
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =21.2.0 =py39h6e9494a_0
-    - harfbuzz =8.2.0 =h7666e2a_0
+    - harfbuzz =8.2.1 =h7666e2a_0
     - htmlmin =0.1.12 =py_1
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =73.2 =hf5e326d_0
@@ -241,7 +241,7 @@ requirements:
     - markdown =3.4.4 =pyhd8ed1ab_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.3 =py39hdc70f33_0
-    - matplotlib-base =3.7.3 =py39he57df45_0
+    - matplotlib-base =3.8.0 =py39he57df45_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mdurl =0.1.0 =pyhd8ed1ab_0
     - miniful =0.0.6 =pyhd8ed1ab_0
@@ -267,7 +267,7 @@ requirements:
     - numexpr =2.8.4 =py39h11b3245_1
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha4da562_3
-    - openssl =3.1.2 =h8a1eda9_0
+    - openssl =3.1.3 =h8a1eda9_0
     - orc =1.9.0 =ha4ae40d_2
     - packaging =23.1 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
@@ -299,8 +299,8 @@ requirements:
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py39ha13d70a_2
     - pyarrow =13.0.0 =py39h8632116_4_cpu
-    - pyasn1 =0.4.8 =py_0
-    - pyasn1-modules =0.2.7 =py_0
+    - pyasn1 =0.5.0 =pyhd8ed1ab_0
+    - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
     - pydantic =1.10.12 =py39hdc70f33_1
@@ -320,7 +320,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-graphviz =0.20.1 =pyh22cad53_0
     - python-tzdata =2023.3 =pyhd8ed1ab_0
-    - python_abi =3.9 =3_cp39
+    - python_abi =3.9 =4_cp39
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pywavelets =1.4.1 =py39h7cc1f47_0
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
@@ -363,7 +363,7 @@ requirements:
     - thinc =8.1.12 =py39h204a2a1_0
     - threadpoolctl =3.2.0 =pyha21a80b_0
     - tk =8.6.12 =h5dbffcc_0
-    - tldextract =3.5.0 =pyhd8ed1ab_0
+    - tldextract =3.6.0 =pyhd8ed1ab_0
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.3.3 =py39hdc70f33_0
