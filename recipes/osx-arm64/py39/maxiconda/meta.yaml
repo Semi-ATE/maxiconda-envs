@@ -38,7 +38,7 @@ requirements:
     - numpy =1.24.4 =py39h485cf63_0
     - openpyxl =3.1.2 =py39h0f82c59_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
-    - pandas =2.1.0 =py39h425d09f_0
+    - pandas =2.1.1 =py39h425d09f_0
     - psutil =5.9.5 =py39h02fc5c5_0
     - pydantic =2.3.0 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py39hcf430f4_4
@@ -51,7 +51,7 @@ requirements:
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2023.8.8 =py39h0f82c59_0
     - requests =2.31.0 =pyhd8ed1ab_0
-    - rust =1.72.0 =h4ff7c5d_2
+    - rust =1.72.1 =h4ff7c5d_0
     - scipy =1.11.2 =py39h89ddb1b_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
@@ -157,9 +157,9 @@ requirements:
     - jedi =0.19.0 =pyhd8ed1ab_0
     - json5 =0.9.14 =pyhd8ed1ab_0
     - jsonpointer =2.4 =py39h2804cbe_2
-    - jsonschema =4.19.0 =pyhd8ed1ab_1
+    - jsonschema =4.19.1 =pyhd8ed1ab_0
     - jsonschema-specifications =2023.7.1 =pyhd8ed1ab_0
-    - jsonschema-with-format-nongpl =4.19.0 =pyhd8ed1ab_1
+    - jsonschema-with-format-nongpl =4.19.1 =pyhd8ed1ab_0
     - jupyter-lsp =2.2.0 =pyhd8ed1ab_0
     - jupyter_client =8.3.1 =pyhd8ed1ab_0
     - jupyter_core =5.3.1 =py39h2804cbe_0
@@ -234,7 +234,7 @@ requirements:
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h7ea286d_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
-    - notebook =7.0.3 =pyhd8ed1ab_0
+    - notebook =7.0.4 =pyhd8ed1ab_0
     - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - nspr =4.35 =hb7217d7_0
     - nss =3.92 =hc6b9969_0
@@ -249,7 +249,7 @@ requirements:
     - pcre2 =10.40 =hb34f9b4_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py_1003
-    - pillow =10.0.1 =py39hef383c8_0
+    - pillow =10.0.1 =py39hef383c8_1
     - pip =23.2.1 =pyhd8ed1ab_0
     - pixman =0.40.0 =h27ca646_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
@@ -460,7 +460,7 @@ requirements:
     - r-xts =0.13.1 =r43h21dc0da_1
     - r-yaml =2.3.7 =r43h21dc0da_1
     - r-zoo =1.8_12 =r43h21dc0da_1
-    - rapidfuzz =3.2.0 =py39hb198ff7_0
+    - rapidfuzz =3.3.0 =py39hb198ff7_0
     - readline =8.2 =h92ec313_1
     - referencing =0.30.2 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
@@ -469,7 +469,7 @@ requirements:
     - ruamel.yaml =0.17.32 =py39h0f82c59_0
     - ruamel.yaml.clib =0.2.7 =py39h02fc5c5_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-aarch64-apple-darwin =1.72.0 =hf1a8007_2
+    - rust-std-aarch64-apple-darwin =1.72.1 =hf1a8007_0
     - semver =3.0.1 =pyhd8ed1ab_0
     - send2trash =1.8.2 =pyhd1c38e8_0
     - setuptools =68.2.2 =pyhd8ed1ab_0
@@ -497,7 +497,7 @@ requirements:
     - tzdata =2023c =h71feb2d_0
     - unicodedata2 =15.0.0 =py39h02fc5c5_0
     - uri-template =1.3.0 =pyhd8ed1ab_0
-    - urllib3 =2.0.4 =pyhd8ed1ab_0
+    - urllib3 =2.0.5 =pyhd8ed1ab_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webcolors =1.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2

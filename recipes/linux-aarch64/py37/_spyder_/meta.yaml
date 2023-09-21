@@ -148,12 +148,12 @@ requirements:
     - libexpat =2.5.0 =hd600fc2_1
     - libffi =3.4.2 =h3557bc0_5
     - libflac =1.4.3 =h2f0025b_0
-    - libgcc-ng =13.2.0 =hf8544c7_1
+    - libgcc-ng =13.2.0 =hf8544c7_2
     - libgcrypt =1.10.1 =h4e544f5_0
-    - libgfortran-ng =13.2.0 =he9431aa_1
-    - libgfortran5 =13.2.0 =h582850c_1
+    - libgfortran-ng =13.2.0 =he9431aa_2
+    - libgfortran5 =13.2.0 =h582850c_2
     - libglib =2.78.0 =h0464669_0
-    - libgomp =13.2.0 =hf8544c7_1
+    - libgomp =13.2.0 =hf8544c7_2
     - libgpg-error =1.47 =h5ce24db_0
     - libiconv =1.17 =h9cdd2b7_0
     - liblapack =3.9.0 =17_linuxaarch64_openblas
@@ -168,7 +168,7 @@ requirements:
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =1.9.3 =h01db608_4
     - libsqlite =3.43.0 =h194ca79_0
-    - libstdcxx-ng =13.2.0 =h9a76618_1
+    - libstdcxx-ng =13.2.0 =h9a76618_2
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.4.0 =hfcd36d1_5
     - libtool =2.4.7 =h4de3ea5_0
@@ -300,7 +300,7 @@ requirements:
     - typing_extensions =4.7.1 =pyha770c72_0
     - ujson =5.5.0 =py37hb20f0a7_0
     - unicodedata2 =14.0.0 =py37h795501a_1
-    - urllib3 =2.0.4 =pyhd8ed1ab_0
+    - urllib3 =2.0.5 =pyhd8ed1ab_0
     - watchdog =2.1.9 =py37hd9ded2f_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
