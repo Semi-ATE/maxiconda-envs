@@ -25,7 +25,7 @@ requirements:
     - python =3.9.18 =h07e1443_0_cpython
 
     # 8 primary packages :
-    - numpy =1.26.0 =py39h892e69a_0
+    - numpy =1.26.0 =py39h5c76802_0
     - openpyxl =3.1.2 =py39hdc70f33_0
     - pandas =2.1.1 =py39hcc9a0c8_0
     - pyqt =5.15.9 =py39h3dce684_4
@@ -52,8 +52,8 @@ requirements:
     - gettext =0.21.1 =h8a4c099_0
     - glib =2.78.0 =h7d26f99_0
     - glib-tools =2.78.0 =h7d26f99_0
-    - gst-plugins-base =1.22.5 =hb5d3a86_1
-    - gstreamer =1.22.5 =h840fbdc_1
+    - gst-plugins-base =1.22.6 =hb5d3a86_0
+    - gstreamer =1.22.6 =h840fbdc_0
     - icu =73.2 =hf5e326d_0
     - importlib-metadata =6.8.0 =pyha770c72_0
     - importlib_metadata =6.8.0 =hd8ed1ab_0
@@ -137,7 +137,7 @@ requirements:
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xz =5.2.6 =h775f41a_0
     - zeromq =4.3.4 =he49afe7_1
-    - zipp =3.16.2 =pyhd8ed1ab_0
+    - zipp =3.17.0 =pyhd8ed1ab_0
     - zstd =1.5.5 =h829000d_0
 
 about:

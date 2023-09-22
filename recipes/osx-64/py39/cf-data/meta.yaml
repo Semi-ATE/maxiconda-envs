@@ -28,7 +28,7 @@ requirements:
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - bokeh =3.2.2 =pyhd8ed1ab_0
     - lightgbm =4.0.0 =py39h07d83e0_0
-    - matplotlib =3.8.0 =py39h6e9494a_0
+    - matplotlib =3.8.0 =py39h6e9494a_1
     - numpy =1.24.4 =py39h892e69a_0
     - pandas =2.1.1 =py39hcc9a0c8_0
     - plotly =5.17.0 =pyhd8ed1ab_0
@@ -36,7 +36,7 @@ requirements:
     - pydot =1.4.2 =py39h6e9494a_3
     - pyqt =5.15.9 =py39h3dce684_4
     - pytorch =2.0.0 =cpu_mkl_py39h4368b7e_102
-    - scikit-learn =1.3.0 =py39hcb35850_0
+    - scikit-learn =1.3.1 =py39h002124e_0
     - scipy =1.11.2 =py39h2145d6e_1
     - scrapy =2.11.0 =py39h6e9494a_0
     - seaborn =0.12.2 =hd8ed1ab_0
@@ -46,9 +46,10 @@ requirements:
     - statsmodels =0.14.0 =py39h57e1da4_1
     - xgboost =1.7.6 =cpu_py39ha13d70a_2
 
-    # 351 secondary packages :
+    # 353 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.12.0 =pyhd8ed1ab_0
+    - annotated-types =0.5.0 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.3 =pyhd8ed1ab_0
     - asttokens =2.4.0 =pyhd8ed1ab_0
@@ -62,11 +63,11 @@ requirements:
     - aws-c-event-stream =0.3.2 =hf265e0f_0
     - aws-c-http =0.7.12 =h572c275_1
     - aws-c-io =0.13.32 =hc0caee9_3
-    - aws-c-mqtt =0.9.5 =h54c5ab7_1
+    - aws-c-mqtt =0.9.6 =h54c5ab7_0
     - aws-c-s3 =0.3.17 =hab1dffe_0
     - aws-c-sdkutils =0.1.12 =hc1c6d78_1
     - aws-checksums =0.1.17 =hc1c6d78_1
-    - aws-crt-cpp =0.23.1 =hd14e152_1
+    - aws-crt-cpp =0.23.1 =hb32f4fa_2
     - aws-sdk-cpp =1.11.156 =hb534404_2
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -84,7 +85,7 @@ requirements:
     - catalogue =2.0.9 =py39h6e9494a_0
     - catboost =1.2.2 =py39h6e9494a_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
-    - cffi =1.15.1 =py39h131948b_3
+    - cffi =1.15.1 =py39h18ef598_4
     - charset-normalizer =3.2.0 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyh9f0ad1d_0
     - click =8.1.7 =unix_pyh707e725_0
@@ -103,7 +104,7 @@ requirements:
     - cycler =0.11.0 =pyhd8ed1ab_0
     - cymem =2.0.8 =py39h840bb9f_0
     - cython-blis =0.7.10 =py39h57e1da4_1
-    - databricks-cli =0.17.7 =pyhd8ed1ab_1
+    - databricks-cli =0.17.8 =pyhd8ed1ab_0
     - dataclasses =0.8 =pyhc8e2a94_3
     - datefinder =0.7.3 =pyhd8ed1ab_0
     - debugpy =1.8.0 =py39h840bb9f_0
@@ -144,8 +145,8 @@ requirements:
     - graphite2 =1.3.13 =h2e338ed_1001
     - graphviz =8.1.0 =hc7f41f9_0
     - greenlet =2.0.2 =py39h840bb9f_1
-    - gst-plugins-base =1.22.5 =hb5d3a86_1
-    - gstreamer =1.22.5 =h840fbdc_1
+    - gst-plugins-base =1.22.6 =hb5d3a86_0
+    - gstreamer =1.22.6 =h840fbdc_0
     - gtk2 =2.24.33 =h7c1209e_2
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =21.2.0 =py39h6e9494a_0
@@ -241,13 +242,13 @@ requirements:
     - markdown =3.4.4 =pyhd8ed1ab_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.3 =py39hdc70f33_0
-    - matplotlib-base =3.8.0 =py39he57df45_0
+    - matplotlib-base =3.8.0 =py39he57df45_1
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mdurl =0.1.0 =pyhd8ed1ab_0
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mkl =2022.2.1 =h44ed08c_16952
-    - mlflow =2.7.1 =py39h8ac9d56_0
+    - mlflow =2.7.1 =py39h8ac9d56_1
     - mlxtend =0.22.0 =pyhd8ed1ab_0
     - mpc =1.3.1 =h81bd1dd_0
     - mpfr =4.2.0 =h4f9bd69_0
@@ -303,7 +304,8 @@ requirements:
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic =1.10.12 =py39hdc70f33_1
+    - pydantic =2.3.0 =pyhd8ed1ab_0
+    - pydantic-core =2.6.3 =py39hf33989b_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.16.1 =pyhd8ed1ab_0
@@ -394,7 +396,7 @@ requirements:
     - yaml =0.2.5 =h0d85af4_2
     - yellowbrick =1.5 =pyhd8ed1ab_0
     - zeromq =4.3.4 =he49afe7_1
-    - zipp =3.16.2 =pyhd8ed1ab_0
+    - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h8a1eda9_5
     - zope.interface =6.0 =py39ha30fb19_0
     - zstd =1.5.5 =h829000d_0

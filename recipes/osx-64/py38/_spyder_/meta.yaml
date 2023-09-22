@@ -25,7 +25,7 @@ requirements:
     - python =3.8.17 =hf9b03c3_0_cpython
 
     # 9 primary packages :
-    - cython =3.0.2 =py38h940360d_0
+    - cython =3.0.2 =py38h940360d_2
     - matplotlib =3.7.3 =py38h50d1736_0
     - numpy =1.24.4 =py38h9a4a08f_0
     - pandas =2.0.3 =py38h78e6021_1
@@ -74,7 +74,7 @@ requirements:
     - diff-match-patch =20230430 =pyhd8ed1ab_0
     - dill =0.3.7 =pyhd8ed1ab_0
     - docstring-to-markdown =0.12 =pyhd8ed1ab_0
-    - docutils =0.20.1 =py38h50d1736_1
+    - docutils =0.20.1 =py38h50d1736_2
     - entrypoints =0.4 =pyhd8ed1ab_0
     - executing =1.2.0 =pyhd8ed1ab_0
     - flake8 =6.0.0 =pyhd8ed1ab_0
@@ -86,8 +86,8 @@ requirements:
     - glib-tools =2.78.0 =h7d26f99_0
     - gmp =6.2.1 =h2e338ed_0
     - gmpy2 =2.1.2 =py38h919de47_1
-    - gst-plugins-base =1.22.5 =hb5d3a86_1
-    - gstreamer =1.22.5 =h840fbdc_1
+    - gst-plugins-base =1.22.6 =hb5d3a86_0
+    - gstreamer =1.22.6 =h840fbdc_0
     - icu =73.2 =hf5e326d_0
     - idna =3.4 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
@@ -284,7 +284,7 @@ requirements:
     - yaml =0.2.5 =h0d85af4_2
     - yapf =0.40.1 =pyhd8ed1ab_0
     - zeromq =4.3.4 =he49afe7_1
-    - zipp =3.16.2 =pyhd8ed1ab_0
+    - zipp =3.17.0 =pyhd8ed1ab_0
     - zstd =1.5.5 =h829000d_0
 
 about:

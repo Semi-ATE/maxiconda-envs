@@ -28,8 +28,8 @@ requirements:
     - aiohttp =3.8.5 =py38hb192615_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
-    - cython =3.0.2 =py38he333c0f_0
-    - grayskull =2.4.0 =pyhd8ed1ab_0
+    - cython =3.0.2 =py38he333c0f_2
+    - grayskull =2.5.0 =pyhd8ed1ab_0
     - hypothesis =6.86.2 =pyha770c72_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
@@ -47,7 +47,7 @@ requirements:
     - pyyaml =6.0.1 =py38hb192615_0
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
-    - r-base =4.3.1 =h8ca35e0_4
+    - r-base =4.3.1 =h3c76fbc_5
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2023.8.8 =py38hb192615_0
     - requests =2.31.0 =pyhd8ed1ab_0
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.1.4 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 448 secondary packages :
+    # 447 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - annotated-types =0.5.0 =pyhd8ed1ab_0
@@ -94,7 +94,7 @@ requirements:
     - cairo =1.16.0 =hc5b65c1_1017
     - cctools_osx-arm64 =973.0.1 =h62378fb_14
     - certifi =2023.7.22 =pyhd8ed1ab_0
-    - cffi =1.15.1 =py38ha45ccd6_3
+    - cffi =1.15.1 =py38h73f40f7_4
     - charset-normalizer =3.2.0 =pyhd8ed1ab_0
     - clang =16.0.6 =he79909e_1
     - clang-16 =16.0.6 =default_h07b2d96_1
@@ -140,9 +140,8 @@ requirements:
     - gmpy2 =2.1.2 =py38h904d018_1
     - graphite2 =1.3.13 =h9f76cd9_1001
     - greenlet =2.0.2 =py38he333c0f_1
-    - gsl =2.7 =h6e638da_0
-    - gst-plugins-base =1.22.5 =h27255cc_1
-    - gstreamer =1.22.5 =h8c52bba_1
+    - gst-plugins-base =1.22.6 =h27255cc_0
+    - gstreamer =1.22.6 =h8c52bba_0
     - harfbuzz =8.2.1 =hf1a6348_0
     - icu =73.2 =hc8870d7_0
     - idna =3.4 =pyhd8ed1ab_0
@@ -372,7 +371,7 @@ requirements:
     - r-magrittr =2.0.3 =r43h21dc0da_2
     - r-maps =3.4.1 =r43h21dc0da_2
     - r-mass =7.3_60 =r43h21dc0da_1
-    - r-matrix =1.6_1 =r43hdce2eb6_0
+    - r-matrix =1.6_1.1 =r43hdce2eb6_0
     - r-memoise =2.0.1 =r43hc72bb7e_2
     - r-mgcv =1.9_0 =r43h8420647_0
     - r-mime =0.12 =r43h21dc0da_2
@@ -484,7 +483,7 @@ requirements:
     - terminado =0.17.1 =pyhd1c38e8_0
     - tinycss2 =1.2.1 =pyhd8ed1ab_0
     - tk =8.6.12 =he1e0b03_0
-    - tktable =2.10 =hd996620_3
+    - tktable =2.10 =hd996620_4
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tomli-w =1.0.0 =pyhd8ed1ab_0
@@ -509,7 +508,7 @@ requirements:
     - yaml =0.2.5 =h3422bc3_2
     - yarl =1.9.2 =py38hb192615_0
     - zeromq =4.3.4 =hbdafb3b_1
-    - zipp =3.16.2 =pyhd8ed1ab_0
+    - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h53f4e23_5
     - zstd =1.5.5 =h4f39d0f_0
 
