@@ -33,7 +33,7 @@ requirements:
     - pandas =2.0.3 =py38hf08cf0d_1
     - plotly =5.17.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
-    - pydot =1.4.2 =py38haa244fe_3
+    - pydot =1.4.2 =py38haa244fe_4
     - pyqt =5.15.9 =py38hd6c051e_5
     - scikit-learn =1.3.1 =py38h4f736e5_0
     - scipy =1.10.1 =py38h1aea9ed_3
@@ -99,7 +99,7 @@ requirements:
     - cssselect =1.2.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =py_0
     - cycler =0.11.0 =pyhd8ed1ab_0
-    - cymem =2.0.8 =py38hd3f51b4_0
+    - cymem =2.0.8 =py38hd3f51b4_1
     - cython-blis =0.7.10 =py38h634f036_1
     - databricks-cli =0.17.8 =pyhd8ed1ab_0
     - dataclasses =0.8 =pyhc8e2a94_3
@@ -234,7 +234,7 @@ requirements:
     - msys2-conda-epoch =20160418 =1
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - murmurhash =1.0.10 =py38hd3f51b4_0
+    - murmurhash =1.0.10 =py38hd3f51b4_1
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - networkx =3.1 =pyhd8ed1ab_0
     - nltk =3.8.1 =pyhd8ed1ab_0
@@ -267,7 +267,7 @@ requirements:
     - prompt-toolkit =3.0.39 =pyha770c72_0
     - prompt_toolkit =3.0.39 =hd8ed1ab_0
     - protego =0.3.0 =pyhd8ed1ab_0
-    - protobuf =4.23.4 =py38hd545272_2
+    - protobuf =4.23.4 =py38hd545272_3
     - psutil =5.9.5 =py38h91455d4_1
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
@@ -336,7 +336,7 @@ requirements:
     - textblob =0.15.3 =py_0
     - thinc =8.1.12 =py38h618a1af_0
     - threadpoolctl =3.2.0 =pyha21a80b_0
-    - tk =8.6.12 =h8ffe710_0
+    - tk =8.6.13 =hcfcfb64_0
     - tldextract =3.6.0 =pyhd8ed1ab_0
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
@@ -344,7 +344,7 @@ requirements:
     - tqdm =4.66.1 =pyhd8ed1ab_0
     - traitlets =5.10.0 =pyhd8ed1ab_0
     - twisted =22.10.0 =py38h91455d4_0
-    - twisted-iocpsupport =1.0.4 =py38h91455d4_0
+    - twisted-iocpsupport =1.0.4 =py38h91455d4_1
     - typer =0.9.0 =pyhd8ed1ab_0
     - typing-extensions =4.8.0 =hd8ed1ab_0
     - typing_extensions =4.8.0 =pyha770c72_0
