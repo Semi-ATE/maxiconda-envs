@@ -81,7 +81,7 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
-    - backports.zoneinfo =0.2.1 =py39h6e9494a_7
+    - backports.zoneinfo =0.2.1 =py39h6e9494a_8
     - bleach =6.0.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =h0dc2134_0
     - brotli-bin =1.1.0 =h0dc2134_0
@@ -109,10 +109,10 @@ requirements:
     - compiler-rt =16.0.6 =he1888fc_0
     - compiler-rt_osx-64 =16.0.6 =he1888fc_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
-    - contourpy =1.1.1 =py39h8ee36c8_0
+    - contourpy =1.1.1 =py39h8ee36c8_1
     - curl =8.3.0 =h5f667d7_0
     - cycler =0.11.0 =pyhd8ed1ab_0
-    - debugpy =1.8.0 =py39h840bb9f_0
+    - debugpy =1.8.0 =py39h840bb9f_1
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
@@ -389,7 +389,7 @@ requirements:
     - r-pillar =1.9.0 =r43hc72bb7e_1
     - r-pkgconfig =2.0.3 =r43hc72bb7e_3
     - r-plyr =1.8.8 =r43hac7d2d5_1
-    - r-prettyunits =1.1.1 =r43hc72bb7e_3
+    - r-prettyunits =1.2.0 =r43hc72bb7e_0
     - r-proc =1.18.4 =r43hac7d2d5_0
     - r-processx =3.8.2 =r43h6dc245f_0
     - r-prodlim =2023.08.28 =r43hac7d2d5_0
@@ -460,7 +460,7 @@ requirements:
     - r-xts =0.13.1 =r43h6dc245f_1
     - r-yaml =2.3.7 =r43h6dc245f_1
     - r-zoo =1.8_12 =r43h6dc245f_1
-    - rapidfuzz =3.3.0 =py39h840bb9f_0
+    - rapidfuzz =3.3.0 =py39h840bb9f_1
     - readline =8.2 =h9e318b2_1
     - referencing =0.30.2 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
