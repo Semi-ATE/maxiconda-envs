@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.8.1 =py38h91455d4_1
     - cython =3.0.2 =py38hd3f51b4_2
     - grayskull =2.5.0 =pyhd8ed1ab_0
-    - hypothesis =6.86.2 =pyha770c72_0
+    - hypothesis =6.87.0 =pyha770c72_0
     - ipython =8.12.2 =pyh08f2357_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.3 =py38haa244fe_0
@@ -61,7 +61,7 @@ requirements:
     - sympy =1.12 =pyh04b8f61_3
     - tqdm =4.66.1 =pyhd8ed1ab_0
     - transitions =0.9.0 =pyhd8ed1ab_0
-    - xlsxwriter =3.1.4 =pyhd8ed1ab_0
+    - xlsxwriter =3.1.5 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
     # 439 secondary packages :
@@ -146,7 +146,7 @@ requirements:
     - jsonschema-with-format-nongpl =4.19.1 =pyhd8ed1ab_0
     - jupyter-lsp =2.2.0 =pyhd8ed1ab_0
     - jupyter_client =8.3.1 =pyhd8ed1ab_0
-    - jupyter_core =5.3.1 =py38haa244fe_0
+    - jupyter_core =5.3.1 =py38haa244fe_1
     - jupyter_events =0.7.0 =pyhd8ed1ab_2
     - jupyter_server =2.7.3 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
@@ -168,7 +168,7 @@ requirements:
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
     - libglib =2.78.0 =he8f3873_0
-    - libhwloc =2.9.2 =default_haede6df_1009
+    - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_1
     - liblapack =3.9.0 =18_win64_mkl
@@ -264,10 +264,10 @@ requirements:
     - python-fastjsonschema =2.18.0 =pyhd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2023.3 =pyhd8ed1ab_0
-    - python-utils =3.7.0 =pyhd8ed1ab_1
+    - python-utils =3.8.0 =pyhd8ed1ab_0
     - python_abi =3.8 =4_cp38
     - pytz =2023.3.post1 =pyhd8ed1ab_0
-    - pywin32 =304 =py38hd3f51b4_2
+    - pywin32 =306 =py38hd3f51b4_1
     - pywinpty =2.0.11 =py38hd3f51b4_1
     - pyzmq =25.1.1 =py38ha85f68a_1
     - qt-main =5.15.8 =he5a7383_16
@@ -449,7 +449,7 @@ requirements:
     - r-xts =0.13.1 =r41h6d2157b_1
     - r-yaml =2.3.7 =r41h6d2157b_1
     - r-zoo =1.8_12 =r41h6d2157b_1
-    - rapidfuzz =3.3.0 =py38hd3f51b4_1
+    - rapidfuzz =3.3.1 =py38hd3f51b4_0
     - referencing =0.30.2 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
@@ -468,7 +468,7 @@ requirements:
     - soupsieve =2.5 =pyhd8ed1ab_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - stdlib-list =0.8.0 =pyhd8ed1ab_0
-    - tbb =2021.10.0 =h91493d7_0
+    - tbb =2021.10.0 =h91493d7_1
     - terminado =0.17.0 =pyh08f2357_0
     - tinycss2 =1.2.1 =pyhd8ed1ab_0
     - tk =8.6.13 =hcfcfb64_0

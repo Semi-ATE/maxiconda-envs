@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.8.1 =py39h898b7ef_1
     - cython =3.0.2 =py39h387a81e_2
     - grayskull =2.5.0 =pyhd8ed1ab_0
-    - hypothesis =6.86.2 =pyha770c72_0
+    - hypothesis =6.87.0 =pyha770c72_0
     - ipython =8.15.0 =pyh0d859eb_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.8.0 =py39ha65689a_1
@@ -61,7 +61,7 @@ requirements:
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.66.1 =pyhd8ed1ab_0
     - transitions =0.9.0 =pyhd8ed1ab_0
-    - xlsxwriter =3.1.4 =pyhd8ed1ab_0
+    - xlsxwriter =3.1.5 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
     # 477 secondary packages :
@@ -159,7 +159,7 @@ requirements:
     - jsonschema-with-format-nongpl =4.19.1 =pyhd8ed1ab_0
     - jupyter-lsp =2.2.0 =pyhd8ed1ab_0
     - jupyter_client =8.3.1 =pyhd8ed1ab_0
-    - jupyter_core =5.3.1 =py39h4420490_0
+    - jupyter_core =5.3.1 =py39h4420490_1
     - jupyter_events =0.7.0 =pyhd8ed1ab_2
     - jupyter_server =2.7.3 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
@@ -288,7 +288,7 @@ requirements:
     - python-fastjsonschema =2.18.0 =pyhd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2023.3 =pyhd8ed1ab_0
-    - python-utils =3.7.0 =pyhd8ed1ab_1
+    - python-utils =3.8.0 =pyhd8ed1ab_0
     - python_abi =3.9 =4_cp39
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.1 =py39h7ea2324_1
@@ -472,7 +472,7 @@ requirements:
     - r-xts =0.13.1 =r43h25e906a_1
     - r-yaml =2.3.7 =r43h25e906a_1
     - r-zoo =1.8_12 =r43h25e906a_1
-    - rapidfuzz =3.3.0 =py39h387a81e_1
+    - rapidfuzz =3.3.1 =py39h387a81e_0
     - readline =8.2 =h8fc344f_1
     - referencing =0.30.2 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0

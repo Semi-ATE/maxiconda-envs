@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.8.1 =py38hcafd530_1
     - cython =3.0.2 =py38h940360d_2
     - grayskull =2.5.0 =pyhd8ed1ab_0
-    - hypothesis =6.86.2 =pyha770c72_0
+    - hypothesis =6.87.0 =pyha770c72_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.3 =py38h50d1736_0
@@ -61,7 +61,7 @@ requirements:
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.66.1 =pyhd8ed1ab_0
     - transitions =0.9.0 =pyhd8ed1ab_0
-    - xlsxwriter =3.1.4 =pyhd8ed1ab_0
+    - xlsxwriter =3.1.5 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
     # 449 secondary packages :
@@ -277,7 +277,7 @@ requirements:
     - python-fastjsonschema =2.18.0 =pyhd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2023.3 =pyhd8ed1ab_0
-    - python-utils =3.7.0 =pyhd8ed1ab_1
+    - python-utils =3.8.0 =pyhd8ed1ab_0
     - python_abi =3.8 =4_cp38
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.1 =py38h3b70857_1
@@ -461,7 +461,7 @@ requirements:
     - r-xts =0.13.1 =r43h6dc245f_1
     - r-yaml =2.3.7 =r43h6dc245f_1
     - r-zoo =1.8_12 =r43h6dc245f_1
-    - rapidfuzz =3.3.0 =py38h940360d_1
+    - rapidfuzz =3.3.1 =py38h940360d_0
     - readline =8.2 =h9e318b2_1
     - referencing =0.30.2 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
