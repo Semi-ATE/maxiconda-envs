@@ -75,8 +75,8 @@ requirements:
     - glib-tools =2.78.0 =hd84c7bf_0
     - graphite2 =1.3.13 =h7fd3ca4_1001
     - greenlet =1.1.3 =py37hb20f0a7_0
-    - gst-plugins-base =1.22.6 =h6d82d15_0
-    - gstreamer =1.22.6 =hed71854_0
+    - gst-plugins-base =1.22.6 =h6d82d15_1
+    - gstreamer =1.22.6 =hed71854_1
     - harfbuzz =8.2.1 =hebeb849_0
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =73.2 =h787c7f5_0
@@ -114,7 +114,7 @@ requirements:
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
     - libpq =15.4 =h04b8c23_1
-    - libsndfile =1.2.2 =h8e84ad3_0
+    - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
     - libsqlite =3.43.0 =h194ca79_0
     - libstdcxx-ng =13.2.0 =h9a76618_2
@@ -128,7 +128,7 @@ requirements:
     - lz4-c =1.9.4 =hd600fc2_0
     - markupsafe =2.1.1 =py37heeccf27_1
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
-    - mpg123 =1.31.3 =hd600fc2_0
+    - mpg123 =1.32.1 =h2f0025b_0
     - mysql-common =8.0.33 =hb6794ad_4
     - mysql-libs =8.0.33 =hf629957_4
     - ncurses =6.4 =h2e1726e_0
@@ -142,7 +142,7 @@ requirements:
     - pexpect =4.8.0 =py37hc8dfbb8_1
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pip =23.2.1 =pyhd8ed1ab_0
-    - pixman =0.40.0 =hb9de7d4_0
+    - pixman =0.42.2 =h2f0025b_0
     - ply =3.11 =py_1
     - prompt-toolkit =3.0.39 =pyha770c72_0
     - psutil =5.9.3 =py37h795501a_0

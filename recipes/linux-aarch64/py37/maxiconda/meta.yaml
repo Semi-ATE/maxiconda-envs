@@ -198,7 +198,7 @@ requirements:
     - libpng =1.6.39 =hf9034f9_0
     - libpq =15.3 =hf616e62_1
     - libsanitizer =13.2.0 =h9a76618_2
-    - libsndfile =1.2.2 =h8e84ad3_0
+    - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
     - libsqlite =3.43.0 =h194ca79_0
     - libssh2 =1.11.0 =h492db2e_0
@@ -224,7 +224,7 @@ requirements:
     - mistune =3.0.1 =pyhd8ed1ab_0
     - mpc =1.3.1 =hf4c8f4c_0
     - mpfr =4.2.0 =h96f194b_0
-    - mpg123 =1.31.3 =hd600fc2_0
+    - mpg123 =1.32.1 =h2f0025b_0
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - multidict =6.0.2 =py37h795501a_1
     - munkres =1.1.4 =pyh9f0ad1d_0
@@ -255,7 +255,7 @@ requirements:
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pillow =9.2.0 =py37h5e1b7c7_2
     - pip =23.2.1 =pyhd8ed1ab_0
-    - pixman =0.40.0 =hb9de7d4_0
+    - pixman =0.42.2 =h2f0025b_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - pluggy =1.0.0 =py37hd9ded2f_3
     - ply =3.11 =py_1
@@ -381,7 +381,7 @@ requirements:
     - r-nlme =3.1_163 =r42hd5055e1_0
     - r-nnet =7.3_19 =r42h25e906a_1
     - r-numderiv =2016.8_1.1 =r42hc72bb7e_5
-    - r-openssl =2.0.6 =r42h2a8de3c_1
+    - r-openssl =2.1.1 =r42h2a8de3c_0
     - r-parallelly =1.36.0 =r42hc72bb7e_1
     - r-pbdzmq =0.3_10 =r42h249d229_0
     - r-pillar =1.9.0 =r42hc72bb7e_1
@@ -448,7 +448,7 @@ requirements:
     - r-vctrs =0.6.3 =r42h93f32a7_0
     - r-viridislite =0.4.2 =r42hc72bb7e_1
     - r-vroom =1.6.3 =r42h93f32a7_1
-    - r-withr =2.5.0 =r42hc72bb7e_2
+    - r-withr =2.5.1 =r42hc72bb7e_0
     - r-xfun =0.40 =r42h93f32a7_0
     - r-xml2 =1.3.3 =r42h9277e5c_2
     - r-xtable =1.8_4 =r42hc72bb7e_5
@@ -474,7 +474,7 @@ requirements:
     - terminado =0.17.1 =pyh41d4057_0
     - tinycss2 =1.2.1 =pyhd8ed1ab_0
     - tk =8.6.13 =h194ca79_0
-    - tktable =2.10 =h4f9ca69_4
+    - tktable =2.10 =h4f9ca69_5
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.2 =py37heeccf27_0

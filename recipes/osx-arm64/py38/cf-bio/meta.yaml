@@ -85,8 +85,8 @@ requirements:
     - greenlet =2.0.2 =py38he333c0f_1
     - griddataformats =1.0.1 =pyhd8ed1ab_0
     - gsd =3.1.1 =py38h5912bca_1
-    - gst-plugins-base =1.22.6 =h27255cc_0
-    - gstreamer =1.22.6 =h8c52bba_0
+    - gst-plugins-base =1.22.6 =h27255cc_1
+    - gstreamer =1.22.6 =h8c52bba_1
     - h5py =3.9.0 =nompi_py38h04dd3c0_103
     - hdf4 =4.2.15 =h8111dcc_6
     - hdf5 =1.14.2 =nompi_h3aba7b3_100
@@ -173,7 +173,7 @@ requirements:
     - pickleshare =0.7.5 =py_1003
     - pillow =10.0.1 =py38hf19b724_1
     - pip =23.2.1 =pyhd8ed1ab_0
-    - pixman =0.40.0 =h27ca646_0
+    - pixman =0.42.2 =h13dd4ca_0
     - platformdirs =3.10.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pmw =2.0.1 =py38h10201cd_1007
@@ -218,7 +218,7 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.3.3 =py38hb192615_1
     - tqdm =4.66.1 =pyhd8ed1ab_0
-    - traitlets =5.10.0 =pyhd8ed1ab_0
+    - traitlets =5.10.1 =pyhd8ed1ab_0
     - typing-extensions =4.8.0 =hd8ed1ab_0
     - typing_extensions =4.8.0 =pyha770c72_0
     - unicodedata2 =15.0.0 =py38hb192615_1

@@ -137,8 +137,8 @@ requirements:
     - graphite2 =1.3.13 =1000
     - graphviz =8.1.0 =h51cb2cd_0
     - greenlet =2.0.2 =py39h99910a6_1
-    - gst-plugins-base =1.22.6 =h001b923_0
-    - gstreamer =1.22.6 =hb4038d2_0
+    - gst-plugins-base =1.22.6 =h001b923_1
+    - gstreamer =1.22.6 =hb4038d2_1
     - gts =0.7.6 =h6b5321d_4
     - harfbuzz =8.2.1 =h7ab893a_0
     - htmlmin =0.1.12 =py_1
@@ -231,7 +231,7 @@ requirements:
     - missingno =0.4.2 =py_1
     - mkl =2022.1.0 =h6a75c08_874
     - mlflow =2.7.1 =py39h54a35c1_1
-    - mlxtend =0.22.0 =pyhd8ed1ab_0
+    - mlxtend =0.23.0 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
@@ -240,7 +240,7 @@ requirements:
     - networkx =3.1 =pyhd8ed1ab_0
     - nltk =3.8.1 =pyhd8ed1ab_0
     - numba =0.57.1 =py39hadaa1c4_0
-    - numexpr =2.8.4 =mkl_py39h2daf5e8_1
+    - numexpr =2.8.7 =mkl_py39h164d645_0
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h3d672ee_3
     - openssl =3.1.3 =hcfcfb64_0
@@ -258,7 +258,7 @@ requirements:
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =10.0.1 =py39h6ef006c_1
     - pip =23.2.1 =pyhd8ed1ab_0
-    - pixman =0.40.0 =h8ffe710_0
+    - pixman =0.42.2 =h63175ca_0
     - platformdirs =3.10.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - preshed =3.0.9 =py39h99910a6_1
@@ -278,8 +278,8 @@ requirements:
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic =2.3.0 =pyhd8ed1ab_0
-    - pydantic-core =2.6.3 =py39hf21820d_0
+    - pydantic =2.4.1 =pyhd8ed1ab_0
+    - pydantic-core =2.10.1 =py39hf21820d_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.16.1 =pyhd8ed1ab_0
@@ -327,7 +327,7 @@ requirements:
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
     - spacy-loggers =1.0.5 =pyhd8ed1ab_0
     - sqlparse =0.4.4 =pyhd8ed1ab_0
-    - srsly =2.4.8 =py39h99910a6_0
+    - srsly =2.4.8 =py39h99910a6_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
@@ -342,7 +342,7 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.3.3 =py39ha55989b_1
     - tqdm =4.66.1 =pyhd8ed1ab_0
-    - traitlets =5.10.0 =pyhd8ed1ab_0
+    - traitlets =5.10.1 =pyhd8ed1ab_0
     - twisted =22.10.0 =py39ha55989b_0
     - twisted-iocpsupport =1.0.4 =py39ha55989b_1
     - typer =0.9.0 =pyhd8ed1ab_0
