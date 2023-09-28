@@ -161,7 +161,7 @@ requirements:
     - jsonschema-with-format-nongpl =4.19.1 =pyhd8ed1ab_0
     - jupyter-lsp =2.2.0 =pyhd8ed1ab_0
     - jupyter_client =8.3.1 =pyhd8ed1ab_0
-    - jupyter_core =5.3.1 =py38h10201cd_1
+    - jupyter_core =5.3.2 =py38h10201cd_0
     - jupyter_events =0.7.0 =pyhd8ed1ab_2
     - jupyter_server =2.7.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
@@ -309,7 +309,7 @@ requirements:
     - r-curl =5.0.2 =r43h867807f_0
     - r-data.table =1.14.8 =r43h5bdffde_2
     - r-dbi =1.1.3 =r43hc72bb7e_2
-    - r-dbplyr =2.3.3 =r43hc72bb7e_0
+    - r-dbplyr =2.3.4 =r43hc72bb7e_0
     - r-diagram =1.6.5 =r43ha770c72_2
     - r-digest =0.6.33 =r43he62749d_0
     - r-dplyr =1.1.3 =r43he62749d_0
@@ -367,7 +367,7 @@ requirements:
     - r-lifecycle =1.0.3 =r43hc72bb7e_2
     - r-listenv =0.9.0 =r43hc72bb7e_1
     - r-lobstr =1.1.2 =r43he62749d_3
-    - r-lubridate =1.9.2 =r43h21dc0da_2
+    - r-lubridate =1.9.3 =r43h21dc0da_0
     - r-magrittr =2.0.3 =r43h21dc0da_2
     - r-maps =3.4.1 =r43h21dc0da_2
     - r-mass =7.3_60 =r43h21dc0da_1
@@ -493,7 +493,7 @@ requirements:
     - typing_extensions =4.8.0 =pyha770c72_0
     - typing_utils =0.1.0 =pyhd8ed1ab_0
     - tzdata =2023c =h71feb2d_0
-    - unicodedata2 =15.0.0 =py38hb192615_1
+    - unicodedata2 =15.1.0 =py38hb192615_0
     - uri-template =1.3.0 =pyhd8ed1ab_0
     - urllib3 =2.0.5 =pyhd8ed1ab_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0

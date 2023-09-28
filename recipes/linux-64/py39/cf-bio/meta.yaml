@@ -46,7 +46,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - blosc =1.21.5 =h0f2a231_0
-    - boost =1.78.0 =py39h7c9e3ff_4
+    - boost =1.78.0 =py39hda80f44_5
     - boost-cpp =1.78.0 =h2c5509c_4
     - brotli =1.1.0 =hd590300_0
     - brotli-bin =1.1.0 =hd590300_0
@@ -88,7 +88,7 @@ requirements:
     - graphite2 =1.3.13 =h58526e2_1001
     - greenlet =2.0.2 =py39h3d6467e_1
     - griddataformats =1.0.1 =pyhd8ed1ab_0
-    - gsd =3.1.1 =py39h44dd56e_1
+    - gsd =3.2.0 =py39h44dd56e_0
     - gst-plugins-base =1.22.6 =h8e1006c_1
     - gstreamer =1.22.6 =h98fc4e7_1
     - h5py =3.9.0 =nompi_py39h87cadad_103
@@ -105,7 +105,7 @@ requirements:
     - jedi =0.19.0 =pyhd8ed1ab_0
     - joblib =1.3.2 =pyhd8ed1ab_0
     - jupyter_client =8.3.1 =pyhd8ed1ab_0
-    - jupyter_core =5.3.1 =py39hf3d152e_1
+    - jupyter_core =5.3.2 =py39hf3d152e_0
     - keyutils =1.6.1 =h166bdaf_0
     - kiwisolver =1.4.5 =py39h7633fee_1
     - krb5 =1.21.2 =h659d440_0
@@ -145,7 +145,7 @@ requirements:
     - libllvm15 =15.0.7 =h5cf9203_3
     - libnetcdf =4.9.2 =nompi_h80fb2b6_112
     - libnghttp2 =1.52.0 =h61bc06f_0
-    - libnsl =2.0.0 =h7f98852_0
+    - libnsl =2.0.0 =hd590300_1
     - libogg =1.3.4 =h7f98852_1
     - libopenblas =0.3.24 =pthreads_h413a1c8_0
     - libopus =1.3.1 =h7f98852_1
@@ -197,7 +197,7 @@ requirements:
     - pixman =0.42.2 =h59595ed_0
     - platformdirs =3.10.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
-    - pmw =2.0.1 =py39hf3d152e_1007
+    - pmw =2.0.1 =py39hf3d152e_1008
     - prompt-toolkit =3.0.39 =pyha770c72_0
     - prompt_toolkit =3.0.39 =hd8ed1ab_0
     - psutil =5.9.5 =py39hd1e30aa_1
@@ -241,7 +241,7 @@ requirements:
     - typing-extensions =4.8.0 =hd8ed1ab_0
     - typing_extensions =4.8.0 =pyha770c72_0
     - tzdata =2023c =h71feb2d_0
-    - unicodedata2 =15.0.0 =py39hd1e30aa_1
+    - unicodedata2 =15.1.0 =py39hd1e30aa_0
     - wcwidth =0.2.6 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
