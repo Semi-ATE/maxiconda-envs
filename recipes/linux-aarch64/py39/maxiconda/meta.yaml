@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.1.1 =py39h26ccf5d_0
     - psutil =5.9.5 =py39h898b7ef_1
-    - pydantic =2.4.1 =pyhd8ed1ab_0
+    - pydantic =2.4.2 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py39hc7e6f3c_5
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =7.4.2 =pyhd8ed1ab_0
@@ -53,7 +53,7 @@ requirements:
     - regex =2023.8.8 =py39h898b7ef_1
     - requests =2.31.0 =pyhd8ed1ab_0
     - rust =1.72.1 =h9d3d833_0
-    - scipy =1.11.2 =py39h91c28bb_1
+    - scipy =1.11.3 =py39h91c28bb_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
     - sqlalchemy =2.0.21 =py39h7cc1d5f_0
@@ -288,7 +288,7 @@ requirements:
     - python-fastjsonschema =2.18.0 =pyhd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2023.3 =pyhd8ed1ab_0
-    - python-utils =3.8.0 =pyhd8ed1ab_0
+    - python-utils =3.8.1 =pyhd8ed1ab_0
     - python_abi =3.9 =4_cp39
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.1 =py39h7ea2324_1
@@ -478,7 +478,7 @@ requirements:
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rpds-py =0.10.3 =py39hfe8b3a4_0
-    - ruamel.yaml =0.17.32 =py39h898b7ef_0
+    - ruamel.yaml =0.17.33 =py39h898b7ef_0
     - ruamel.yaml.clib =0.2.7 =py39h24fc6b6_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-aarch64-unknown-linux-gnu =1.72.1 =ha15b78c_0

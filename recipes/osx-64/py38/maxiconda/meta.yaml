@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.0.3 =py38h78e6021_1
     - psutil =5.9.5 =py38hcafd530_1
-    - pydantic =2.4.1 =pyhd8ed1ab_0
+    - pydantic =2.4.2 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py38he1c912d_5
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =7.4.2 =pyhd8ed1ab_0
@@ -277,7 +277,7 @@ requirements:
     - python-fastjsonschema =2.18.0 =pyhd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2023.3 =pyhd8ed1ab_0
-    - python-utils =3.8.0 =pyhd8ed1ab_0
+    - python-utils =3.8.1 =pyhd8ed1ab_0
     - python_abi =3.8 =4_cp38
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.1 =py38h3b70857_1
@@ -467,7 +467,7 @@ requirements:
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rpds-py =0.10.3 =py38h7510fb3_0
-    - ruamel.yaml =0.17.32 =py38hcafd530_0
+    - ruamel.yaml =0.17.33 =py38hcafd530_0
     - ruamel.yaml.clib =0.2.7 =py38hef030d1_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-apple-darwin =1.72.1 =h059895a_0

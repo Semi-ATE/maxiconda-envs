@@ -33,7 +33,7 @@ requirements:
     - pymol-open-source =2.5.0 =py39h4bdc71c_6
     - pyqt =5.15.9 =py39hb77abff_5
     - rdkit =2023.03.3 =py39h3f5036f_0
-    - scipy =1.11.2 =py39h7812ad6_1
+    - scipy =1.11.3 =py39h7812ad6_0
     - spyder-kernels =2.4.4 =win_pyh7428d3b_0
 
     # 185 secondary packages :
@@ -171,7 +171,7 @@ requirements:
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
-    - pycairo =1.24.0 =py39h82915f6_0
+    - pycairo =1.25.0 =py39h82915f6_0
     - pyedr =0.7.2 =pyhd8ed1ab_0
     - pygments =2.16.1 =pyhd8ed1ab_0
     - pyparsing =3.1.1 =pyhd8ed1ab_0
