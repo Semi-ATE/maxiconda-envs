@@ -53,9 +53,9 @@ requirements:
     - binaryornot =0.4.4 =py_1
     - black =23.9.1 =py39h6e9494a_0
     - bleach =6.0.0 =pyhd8ed1ab_0
-    - brotli =1.1.0 =h0dc2134_0
-    - brotli-bin =1.1.0 =h0dc2134_0
-    - brotli-python =1.1.0 =py39h840bb9f_0
+    - brotli =1.1.0 =h0dc2134_1
+    - brotli-bin =1.1.0 =h0dc2134_1
+    - brotli-python =1.1.0 =py39h840bb9f_1
     - bzip2 =1.0.8 =h0d85af4_4
     - ca-certificates =2023.7.22 =h8857fd0_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
@@ -66,7 +66,7 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.4 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py39h8ee36c8_1
-    - cookiecutter =2.3.1 =pyh1a96a4e_0
+    - cookiecutter =2.4.0 =pyhca7485f_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.8.0 =py39h840bb9f_1
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -79,7 +79,7 @@ requirements:
     - exceptiongroup =1.1.3 =pyhd8ed1ab_0
     - executing =1.2.0 =pyhd8ed1ab_0
     - flake8 =6.0.0 =pyhd8ed1ab_0
-    - fonttools =4.42.1 =py39hdc70f33_0
+    - fonttools =4.43.0 =py39hdc70f33_0
     - freetype =2.12.1 =h60636b9_2
     - gettext =0.21.1 =h8a4c099_0
     - giflib =5.2.1 =hb7f2c08_3
@@ -99,7 +99,7 @@ requirements:
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.25.2 =pyh1050b4e_0
-    - ipython =8.15.0 =pyh31c8845_0
+    - ipython =8.16.0 =pyh31c8845_0
     - ipython_genutils =0.2.0 =py_1
     - isort =5.12.0 =pyhd8ed1ab_1
     - jaraco.classes =3.3.0 =pyhd8ed1ab_0
@@ -111,16 +111,16 @@ requirements:
     - jupyter_client =8.3.1 =pyhd8ed1ab_0
     - jupyter_core =5.3.2 =py39h6e9494a_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
-    - keyring =24.2.0 =py39h6e9494a_0
+    - keyring =24.2.0 =py39h6e9494a_1
     - kiwisolver =1.4.5 =py39h8ee36c8_1
     - krb5 =1.21.2 =hb884880_0
     - lazy-object-proxy =1.9.0 =py39hdc70f33_1
     - lcms2 =2.15 =ha53face_2
     - lerc =4.0.0 =hb486fe8_0
     - libblas =3.9.0 =18_osx64_openblas
-    - libbrotlicommon =1.1.0 =h0dc2134_0
-    - libbrotlidec =1.1.0 =h0dc2134_0
-    - libbrotlienc =1.1.0 =h0dc2134_0
+    - libbrotlicommon =1.1.0 =h0dc2134_1
+    - libbrotlidec =1.1.0 =h0dc2134_1
+    - libbrotlienc =1.1.0 =h0dc2134_1
     - libcblas =3.9.0 =18_osx64_openblas
     - libclang =15.0.7 =default_hdb78580_3
     - libclang13 =15.0.7 =default_h953c2e9_3
@@ -139,7 +139,7 @@ requirements:
     - libopenblas =0.3.24 =openmp_h48a4ad5_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.39 =ha978bb4_0
-    - libpq =15.4 =h3df487d_1
+    - libpq =15.4 =h3df487d_2
     - libsodium =1.0.18 =hbcb3906_1
     - libspatialindex =1.9.3 =he49afe7_4
     - libsqlite =3.43.0 =h58db7d2_0
@@ -239,7 +239,7 @@ requirements:
     - requests =2.31.0 =pyhd8ed1ab_0
     - rich =13.5.3 =pyhd8ed1ab_0
     - rope =1.10.0 =pyhd8ed1ab_0
-    - rpds-py =0.10.3 =py39hf33989b_0
+    - rpds-py =0.10.3 =py39hf33989b_1
     - rtree =1.0.1 =py39h7d0d40a_3
     - setuptools =68.2.2 =pyhd8ed1ab_0
     - sip =6.7.11 =py39h840bb9f_1
@@ -273,7 +273,7 @@ requirements:
     - unicodedata2 =15.1.0 =py39hdc70f33_0
     - urllib3 =2.0.5 =pyhd8ed1ab_0
     - watchdog =3.0.0 =py39h4cd3b3e_1
-    - wcwidth =0.2.6 =pyhd8ed1ab_0
+    - wcwidth =0.2.7 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - whatthepatch =1.0.5 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0

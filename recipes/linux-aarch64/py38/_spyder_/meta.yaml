@@ -54,14 +54,14 @@ requirements:
     - binaryornot =0.4.4 =py_1
     - black =23.9.1 =py38he3eb160_0
     - bleach =6.0.0 =pyhd8ed1ab_0
-    - brotli =1.1.0 =h31becfc_0
-    - brotli-bin =1.1.0 =h31becfc_0
-    - brotli-python =1.1.0 =py38hb83fbf6_0
+    - brotli =1.1.0 =h31becfc_1
+    - brotli-bin =1.1.0 =h31becfc_1
+    - brotli-python =1.1.0 =py38hb83fbf6_1
     - bzip2 =1.0.8 =hf897c2e_4
     - ca-certificates =2023.7.22 =hcefe29a_0
     - cairo =1.16.0 =hd7f43fd_1017
     - certifi =2023.7.22 =pyhd8ed1ab_0
-    - cffi =1.15.1 =py38h4ab679b_5
+    - cffi =1.16.0 =py38h4ab679b_0
     - chardet =5.2.0 =py38h2063c64_1
     - charset-normalizer =3.2.0 =pyhd8ed1ab_0
     - click =8.1.7 =unix_pyh707e725_0
@@ -69,7 +69,7 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.4 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38hb4b5b6f_1
-    - cookiecutter =2.3.1 =pyh1a96a4e_0
+    - cookiecutter =2.4.0 =pyhca7485f_0
     - cryptography =41.0.4 =py38h72e9872_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - dbus =1.13.6 =h12b9eeb_3
@@ -91,7 +91,7 @@ requirements:
     - fontconfig =2.14.2 =ha9a116f_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.42.1 =py38h9579f32_0
+    - fonttools =4.43.0 =py38h9579f32_0
     - freetype =2.12.1 =hf0a5ef3_2
     - gettext =0.21.1 =ha18d298_0
     - giflib =5.2.1 =hb4cce97_3
@@ -126,7 +126,7 @@ requirements:
     - jupyter_client =8.3.1 =pyhd8ed1ab_0
     - jupyter_core =5.3.2 =py38he3eb160_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
-    - keyring =24.2.0 =py38he3eb160_0
+    - keyring =24.2.0 =py38he3eb160_1
     - keyutils =1.6.1 =h4e544f5_0
     - kiwisolver =1.4.5 =py38h7e3a353_1
     - krb5 =1.21.2 =hc419048_0
@@ -136,9 +136,9 @@ requirements:
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
     - libblas =3.9.0 =17_linuxaarch64_openblas
-    - libbrotlicommon =1.1.0 =h31becfc_0
-    - libbrotlidec =1.1.0 =h31becfc_0
-    - libbrotlienc =1.1.0 =h31becfc_0
+    - libbrotlicommon =1.1.0 =h31becfc_1
+    - libbrotlidec =1.1.0 =h31becfc_1
+    - libbrotlienc =1.1.0 =h31becfc_1
     - libcap =2.69 =h883460d_0
     - libcblas =3.9.0 =17_linuxaarch64_openblas
     - libclang =15.0.7 =default_hdf9a116_3
@@ -166,7 +166,7 @@ requirements:
     - libopenblas =0.3.23 =pthreads_hd703e6f_0
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
-    - libpq =15.4 =h04b8c23_1
+    - libpq =15.4 =h04b8c23_2
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =1.9.3 =h01db608_4
@@ -226,7 +226,7 @@ requirements:
     - platformdirs =3.10.0 =pyhd8ed1ab_0
     - pluggy =1.3.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
-    - pooch =1.7.0 =pyha770c72_3
+    - pooch =1.7.0 =pyhd8ed1ab_4
     - prompt-toolkit =3.0.39 =pyha770c72_0
     - prompt_toolkit =3.0.39 =hd8ed1ab_0
     - psutil =5.9.5 =py38h9579f32_1
@@ -272,7 +272,7 @@ requirements:
     - requests =2.31.0 =pyhd8ed1ab_0
     - rich =13.5.3 =pyhd8ed1ab_0
     - rope =1.10.0 =pyhd8ed1ab_0
-    - rpds-py =0.10.3 =py38hf532af8_0
+    - rpds-py =0.10.3 =py38hf532af8_1
     - rtree =1.0.1 =py38hc089ca2_3
     - secretstorage =3.3.3 =py38h2063c64_2
     - setuptools =68.2.2 =pyhd8ed1ab_0
@@ -306,7 +306,7 @@ requirements:
     - unicodedata2 =15.1.0 =py38h9579f32_0
     - urllib3 =2.0.5 =pyhd8ed1ab_0
     - watchdog =3.0.0 =py38h2063c64_1
-    - wcwidth =0.2.6 =pyhd8ed1ab_0
+    - wcwidth =0.2.7 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - whatthepatch =1.0.5 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0

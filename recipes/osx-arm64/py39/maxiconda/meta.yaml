@@ -31,7 +31,7 @@ requirements:
     - cython =3.0.2 =py39hb198ff7_2
     - grayskull =2.5.0 =pyhd8ed1ab_0
     - hypothesis =6.87.0 =pyha770c72_0
-    - ipython =8.15.0 =pyh31c8845_0
+    - ipython =8.16.0 =pyh31c8845_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.8.0 =py39hdf13c20_1
     - numba =0.57.1 =py39he8ed757_0
@@ -82,9 +82,9 @@ requirements:
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py39h2804cbe_8
     - bleach =6.0.0 =pyhd8ed1ab_0
-    - brotli =1.1.0 =hb547adb_0
-    - brotli-bin =1.1.0 =hb547adb_0
-    - brotli-python =1.1.0 =py39hb198ff7_0
+    - brotli =1.1.0 =hb547adb_1
+    - brotli-bin =1.1.0 =hb547adb_1
+    - brotli-python =1.1.0 =py39hb198ff7_1
     - bwidget =1.9.14 =hce30654_1
     - bzip2 =1.0.8 =h3422bc3_4
     - c-ares =1.19.1 =hb547adb_0
@@ -94,7 +94,7 @@ requirements:
     - cairo =1.16.0 =hc5b65c1_1017
     - cctools_osx-arm64 =973.0.1 =h62378fb_14
     - certifi =2023.7.22 =pyhd8ed1ab_0
-    - cffi =1.15.1 =py39he153c15_5
+    - cffi =1.16.0 =py39he153c15_0
     - charset-normalizer =3.2.0 =pyhd8ed1ab_0
     - clang =16.0.6 =he79909e_1
     - clang-16 =16.0.6 =default_h07b2d96_1
@@ -126,7 +126,7 @@ requirements:
     - fontconfig =2.14.2 =h82840c6_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.42.1 =py39h0f82c59_0
+    - fonttools =4.43.0 =py39h0f82c59_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.12.1 =hadb7bae_2
     - fribidi =1.0.10 =h27ca646_0
@@ -174,9 +174,9 @@ requirements:
     - ld64_osx-arm64 =609 =ha4bd21c_14
     - lerc =4.0.0 =h9a09cb3_0
     - libblas =3.9.0 =18_osxarm64_openblas
-    - libbrotlicommon =1.1.0 =hb547adb_0
-    - libbrotlidec =1.1.0 =hb547adb_0
-    - libbrotlienc =1.1.0 =hb547adb_0
+    - libbrotlicommon =1.1.0 =hb547adb_1
+    - libbrotlidec =1.1.0 =hb547adb_1
+    - libbrotlienc =1.1.0 =hb547adb_1
     - libcblas =3.9.0 =18_osxarm64_openblas
     - libclang =15.0.7 =default_h5dc8d65_3
     - libclang-cpp16 =16.0.6 =default_h07b2d96_1
@@ -203,7 +203,7 @@ requirements:
     - libopenblas =0.3.24 =openmp_hd76b1f2_0
     - libopus =1.3.1 =h27ca646_1
     - libpng =1.6.39 =h76d750c_0
-    - libpq =15.4 =hcea71ed_1
+    - libpq =15.4 =hcea71ed_2
     - libsodium =1.0.18 =h27ca646_1
     - libsqlite =3.43.0 =hb31c410_0
     - libssh2 =1.11.0 =h7a5bd25_0
@@ -317,7 +317,7 @@ requirements:
     - r-dtplyr =1.3.1 =r43hc72bb7e_1
     - r-e1071 =1.7_13 =r43he62749d_1
     - r-ellipsis =0.3.2 =r43h21dc0da_2
-    - r-evaluate =0.21 =r43hc72bb7e_1
+    - r-evaluate =0.22 =r43hc72bb7e_0
     - r-fansi =1.0.4 =r43h21dc0da_1
     - r-farver =2.1.1 =r43he62749d_2
     - r-fastmap =1.1.1 =r43he62749d_1
@@ -442,7 +442,7 @@ requirements:
     - r-tidyverse =2.0.0 =r43h785f33e_1
     - r-timechange =0.2.0 =r43he62749d_1
     - r-timedate =4022.108 =r43hc72bb7e_1
-    - r-tinytex =0.46 =r43hc72bb7e_0
+    - r-tinytex =0.47 =r43hc72bb7e_0
     - r-triebeard =0.4.1 =r43he62749d_1
     - r-ttr =0.24.3 =r43h21dc0da_2
     - r-tzdb =0.4.0 =r43he62749d_1
@@ -464,9 +464,9 @@ requirements:
     - referencing =0.30.2 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.10.3 =py39haff01fd_0
-    - ruamel.yaml =0.17.33 =py39h0f82c59_0
-    - ruamel.yaml.clib =0.2.7 =py39h02fc5c5_1
+    - rpds-py =0.10.3 =py39haff01fd_1
+    - ruamel.yaml =0.17.33 =py39h0f82c59_1
+    - ruamel.yaml.clib =0.2.7 =py39h0f82c59_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-aarch64-apple-darwin =1.72.1 =hf1a8007_0
     - semver =3.0.1 =pyhd8ed1ab_0
@@ -497,7 +497,7 @@ requirements:
     - unicodedata2 =15.1.0 =py39h0f82c59_0
     - uri-template =1.3.0 =pyhd8ed1ab_0
     - urllib3 =2.0.5 =pyhd8ed1ab_0
-    - wcwidth =0.2.6 =pyhd8ed1ab_0
+    - wcwidth =0.2.7 =pyhd8ed1ab_0
     - webcolors =1.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - websocket-client =1.6.3 =pyhd8ed1ab_0

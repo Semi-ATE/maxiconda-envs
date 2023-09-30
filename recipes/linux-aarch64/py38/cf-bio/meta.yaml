@@ -44,9 +44,9 @@ requirements:
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - boost =1.74.0 =py38h98a32fd_5
     - boost-cpp =1.74.0 =ha1c1135_8
-    - brotli =1.1.0 =h31becfc_0
-    - brotli-bin =1.1.0 =h31becfc_0
-    - brotli-python =1.1.0 =py38hb83fbf6_0
+    - brotli =1.1.0 =h31becfc_1
+    - brotli-bin =1.1.0 =h31becfc_1
+    - brotli-python =1.1.0 =py38hb83fbf6_1
     - bzip2 =1.0.8 =hf897c2e_4
     - ca-certificates =2023.7.22 =hcefe29a_0
     - cairo =1.16.0 =hd19fb6e_1014
@@ -69,7 +69,7 @@ requirements:
     - fontconfig =2.14.2 =ha9a116f_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.42.1 =py38h9579f32_0
+    - fonttools =4.43.0 =py38h9579f32_0
     - freetype =2.12.1 =hf0a5ef3_2
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =ha18d298_0
@@ -101,9 +101,9 @@ requirements:
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
     - libblas =3.9.0 =17_linuxaarch64_openblas
-    - libbrotlicommon =1.1.0 =h31becfc_0
-    - libbrotlidec =1.1.0 =h31becfc_0
-    - libbrotlienc =1.1.0 =h31becfc_0
+    - libbrotlicommon =1.1.0 =h31becfc_1
+    - libbrotlidec =1.1.0 =h31becfc_1
+    - libbrotlienc =1.1.0 =h31becfc_1
     - libcap =2.67 =h8246067_0
     - libcblas =3.9.0 =17_linuxaarch64_openblas
     - libclang =15.0.7 =default_hdf9a116_3
@@ -171,7 +171,7 @@ requirements:
     - pixman =0.42.2 =h2f0025b_0
     - platformdirs =3.10.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
-    - pooch =1.7.0 =pyha770c72_3
+    - pooch =1.7.0 =pyhd8ed1ab_4
     - prompt-toolkit =3.0.39 =pyha770c72_0
     - prompt_toolkit =3.0.39 =hd8ed1ab_0
     - psutil =5.9.5 =py38h9579f32_1
@@ -210,7 +210,7 @@ requirements:
     - typing_extensions =4.8.0 =pyha770c72_0
     - unicodedata2 =15.1.0 =py38h9579f32_0
     - urllib3 =2.0.5 =pyhd8ed1ab_0
-    - wcwidth =0.2.6 =pyhd8ed1ab_0
+    - wcwidth =0.2.7 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =h4e544f5_0

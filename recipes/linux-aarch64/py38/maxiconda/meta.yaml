@@ -87,9 +87,9 @@ requirements:
     - backports.zoneinfo =0.2.1 =py38h9579f32_8
     - binutils_impl_linux-aarch64 =2.40 =h870a726_0
     - bleach =6.0.0 =pyhd8ed1ab_0
-    - brotli =1.1.0 =h31becfc_0
-    - brotli-bin =1.1.0 =h31becfc_0
-    - brotli-python =1.1.0 =py38hb83fbf6_0
+    - brotli =1.1.0 =h31becfc_1
+    - brotli-bin =1.1.0 =h31becfc_1
+    - brotli-python =1.1.0 =py38hb83fbf6_1
     - bwidget =1.9.14 =h8af1aa0_1
     - bzip2 =1.0.8 =hf897c2e_4
     - c-ares =1.19.1 =h31becfc_0
@@ -98,7 +98,7 @@ requirements:
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.16.0 =hd7f43fd_1017
     - certifi =2023.7.22 =pyhd8ed1ab_0
-    - cffi =1.15.1 =py38h4ab679b_5
+    - cffi =1.16.0 =py38h4ab679b_0
     - charset-normalizer =3.2.0 =pyhd8ed1ab_0
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
@@ -124,7 +124,7 @@ requirements:
     - fontconfig =2.14.2 =ha9a116f_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.42.1 =py38h9579f32_0
+    - fonttools =4.43.0 =py38h9579f32_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.12.1 =hf0a5ef3_2
     - fribidi =1.0.10 =hb9de7d4_0
@@ -175,9 +175,9 @@ requirements:
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
     - libblas =3.9.0 =17_linuxaarch64_openblas
-    - libbrotlicommon =1.1.0 =h31becfc_0
-    - libbrotlidec =1.1.0 =h31becfc_0
-    - libbrotlienc =1.1.0 =h31becfc_0
+    - libbrotlicommon =1.1.0 =h31becfc_1
+    - libbrotlidec =1.1.0 =h31becfc_1
+    - libbrotlienc =1.1.0 =h31becfc_1
     - libcap =2.69 =h883460d_0
     - libcblas =3.9.0 =17_linuxaarch64_openblas
     - libclang =15.0.7 =default_hdf9a116_3
@@ -210,7 +210,7 @@ requirements:
     - libopenblas =0.3.23 =pthreads_hd703e6f_0
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
-    - libpq =15.4 =h04b8c23_1
+    - libpq =15.4 =h04b8c23_2
     - libsanitizer =13.2.0 =h9a76618_2
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
@@ -270,7 +270,7 @@ requirements:
     - platformdirs =3.10.0 =pyhd8ed1ab_0
     - pluggy =1.3.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
-    - pooch =1.7.0 =pyha770c72_3
+    - pooch =1.7.0 =pyhd8ed1ab_4
     - progressbar2 =4.2.0 =pyhd8ed1ab_0
     - prometheus_client =0.17.1 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.39 =pyha770c72_0
@@ -331,7 +331,7 @@ requirements:
     - r-dtplyr =1.3.1 =r43hc72bb7e_1
     - r-e1071 =1.7_13 =r43h93f32a7_1
     - r-ellipsis =0.3.2 =r43h25e906a_2
-    - r-evaluate =0.21 =r43hc72bb7e_1
+    - r-evaluate =0.22 =r43hc72bb7e_0
     - r-fansi =1.0.4 =r43h25e906a_1
     - r-farver =2.1.1 =r43h93f32a7_2
     - r-fastmap =1.1.1 =r43h93f32a7_1
@@ -456,7 +456,7 @@ requirements:
     - r-tidyverse =2.0.0 =r43h785f33e_1
     - r-timechange =0.2.0 =r43h93f32a7_1
     - r-timedate =4022.108 =r43hc72bb7e_1
-    - r-tinytex =0.46 =r43hc72bb7e_0
+    - r-tinytex =0.47 =r43hc72bb7e_0
     - r-triebeard =0.4.1 =r43h93f32a7_1
     - r-ttr =0.24.3 =r43h25e906a_2
     - r-tzdb =0.4.0 =r43h93f32a7_1
@@ -478,9 +478,9 @@ requirements:
     - referencing =0.30.2 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.10.3 =py38hf532af8_0
-    - ruamel.yaml =0.17.33 =py38h9579f32_0
-    - ruamel.yaml.clib =0.2.7 =py38hda48048_1
+    - rpds-py =0.10.3 =py38hf532af8_1
+    - ruamel.yaml =0.17.33 =py38h9579f32_1
+    - ruamel.yaml.clib =0.2.7 =py38h9579f32_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-aarch64-unknown-linux-gnu =1.72.1 =ha15b78c_0
     - sed =4.8 =ha0d5d3d_0
@@ -511,7 +511,7 @@ requirements:
     - unicodedata2 =15.1.0 =py38h9579f32_0
     - uri-template =1.3.0 =pyhd8ed1ab_0
     - urllib3 =2.0.5 =pyhd8ed1ab_0
-    - wcwidth =0.2.6 =pyhd8ed1ab_0
+    - wcwidth =0.2.7 =pyhd8ed1ab_0
     - webcolors =1.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - websocket-client =1.6.3 =pyhd8ed1ab_0

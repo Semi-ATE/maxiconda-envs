@@ -60,8 +60,8 @@ requirements:
     - bcrypt =3.2.2 =py37h994c40b_0
     - billiard =3.6.4.0 =py37h994c40b_2
     - blinker =1.6.2 =pyhd8ed1ab_0
-    - brotli =1.1.0 =h0dc2134_0
-    - brotli-bin =1.1.0 =h0dc2134_0
+    - brotli =1.1.0 =h0dc2134_1
+    - brotli-bin =1.1.0 =h0dc2134_1
     - brotli-python =1.0.9 =py37h0582d14_7
     - bzip2 =1.0.8 =h0d85af4_4
     - ca-certificates =2023.7.22 =h8857fd0_0
@@ -145,9 +145,9 @@ requirements:
     - lcms2 =2.14 =h90f4b2a_0
     - lerc =4.0.0 =hb486fe8_0
     - libblas =3.9.0 =18_osx64_openblas
-    - libbrotlicommon =1.1.0 =h0dc2134_0
-    - libbrotlidec =1.1.0 =h0dc2134_0
-    - libbrotlienc =1.1.0 =h0dc2134_0
+    - libbrotlicommon =1.1.0 =h0dc2134_1
+    - libbrotlidec =1.1.0 =h0dc2134_1
+    - libbrotlienc =1.1.0 =h0dc2134_1
     - libcblas =3.9.0 =18_osx64_openblas
     - libclang =13.0.1 =root_62804_h2961583_3
     - libcxx =16.0.6 =hd57cbcb_0
@@ -300,7 +300,7 @@ requirements:
     - visions =0.7.5 =pyhd8ed1ab_0
     - w3lib =2.1.2 =pyhd8ed1ab_0
     - wasabi =0.10.1 =pyhd8ed1ab_1
-    - wcwidth =0.2.6 =pyhd8ed1ab_0
+    - wcwidth =0.2.7 =pyhd8ed1ab_0
     - websocket-client =1.6.1 =pyhd8ed1ab_0
     - werkzeug =2.2.3 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0

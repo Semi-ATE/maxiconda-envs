@@ -46,8 +46,8 @@ requirements:
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - boost =1.78.0 =py37h48bf904_0
     - boost-cpp =1.78.0 =h5adbc97_2
-    - brotli =1.1.0 =hd590300_0
-    - brotli-bin =1.1.0 =hd590300_0
+    - brotli =1.1.0 =hd590300_1
+    - brotli-bin =1.1.0 =hd590300_1
     - bzip2 =1.0.8 =h7f98852_4
     - c-ares =1.19.1 =hd590300_0
     - ca-certificates =2023.7.22 =hbcca054_0
@@ -107,9 +107,9 @@ requirements:
     - lerc =4.0.0 =h27087fc_0
     - libaec =1.0.6 =hcb278e6_1
     - libblas =3.9.0 =18_linux64_openblas
-    - libbrotlicommon =1.1.0 =hd590300_0
-    - libbrotlidec =1.1.0 =hd590300_0
-    - libbrotlienc =1.1.0 =hd590300_0
+    - libbrotlicommon =1.1.0 =hd590300_1
+    - libbrotlidec =1.1.0 =hd590300_1
+    - libbrotlienc =1.1.0 =hd590300_1
     - libcap =2.67 =he9d0100_0
     - libcblas =3.9.0 =18_linux64_openblas
     - libclang =15.0.7 =default_h7634d5b_3
@@ -225,7 +225,7 @@ requirements:
     - typing-extensions =4.7.1 =hd8ed1ab_0
     - typing_extensions =4.7.1 =pyha770c72_0
     - unicodedata2 =14.0.0 =py37h540881e_1
-    - wcwidth =0.2.6 =pyhd8ed1ab_0
+    - wcwidth =0.2.7 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =h516909a_0

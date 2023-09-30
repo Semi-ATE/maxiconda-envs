@@ -32,14 +32,14 @@ requirements:
     - cython =3.0.2 =py39h3d6467e_2
     - grayskull =2.5.0 =pyhd8ed1ab_0
     - hypothesis =6.87.0 =pyha770c72_0
-    - ipython =8.15.0 =pyh0d859eb_0
+    - ipython =8.16.0 =pyh0d859eb_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.8.0 =py39hf3d152e_1
     - numba =0.57.1 =py39hb75a051_0
     - numpy =1.24.4 =py39h6183b62_0
     - openpyxl =3.1.2 =py39hd1e30aa_1
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
-    - pandas =2.1.1 =py39hddac248_0
+    - pandas =2.1.1 =py39hddac248_1
     - psutil =5.9.5 =py39hd1e30aa_1
     - pydantic =2.4.2 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py39h52134e7_5
@@ -87,9 +87,9 @@ requirements:
     - backports.zoneinfo =0.2.1 =py39hf3d152e_8
     - binutils_impl_linux-64 =2.40 =hf600244_0
     - bleach =6.0.0 =pyhd8ed1ab_0
-    - brotli =1.1.0 =hd590300_0
-    - brotli-bin =1.1.0 =hd590300_0
-    - brotli-python =1.1.0 =py39h3d6467e_0
+    - brotli =1.1.0 =hd590300_1
+    - brotli-bin =1.1.0 =hd590300_1
+    - brotli-python =1.1.0 =py39h3d6467e_1
     - bwidget =1.9.14 =ha770c72_1
     - bzip2 =1.0.8 =h7f98852_4
     - c-ares =1.19.1 =hd590300_0
@@ -98,7 +98,7 @@ requirements:
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.16.0 =h0c91306_1017
     - certifi =2023.7.22 =pyhd8ed1ab_0
-    - cffi =1.15.1 =py39h7a31438_5
+    - cffi =1.16.0 =py39h7a31438_0
     - charset-normalizer =3.2.0 =pyhd8ed1ab_0
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
@@ -124,7 +124,7 @@ requirements:
     - fontconfig =2.14.2 =h14ed4e7_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.42.1 =py39hd1e30aa_0
+    - fonttools =4.43.0 =py39hd1e30aa_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.12.1 =h267a509_2
     - fribidi =1.0.10 =h36c2ea0_0
@@ -175,9 +175,9 @@ requirements:
     - ld_impl_linux-64 =2.40 =h41732ed_0
     - lerc =4.0.0 =h27087fc_0
     - libblas =3.9.0 =18_linux64_openblas
-    - libbrotlicommon =1.1.0 =hd590300_0
-    - libbrotlidec =1.1.0 =hd590300_0
-    - libbrotlienc =1.1.0 =hd590300_0
+    - libbrotlicommon =1.1.0 =hd590300_1
+    - libbrotlidec =1.1.0 =hd590300_1
+    - libbrotlienc =1.1.0 =hd590300_1
     - libcap =2.69 =h0f662aa_0
     - libcblas =3.9.0 =18_linux64_openblas
     - libclang =15.0.7 =default_h7634d5b_3
@@ -210,7 +210,7 @@ requirements:
     - libopenblas =0.3.24 =pthreads_h413a1c8_0
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.39 =h753d276_0
-    - libpq =15.4 =hfc447b1_1
+    - libpq =15.4 =hfc447b1_2
     - libsanitizer =13.2.0 =h7e041cc_2
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
@@ -330,7 +330,7 @@ requirements:
     - r-dtplyr =1.3.1 =r43hc72bb7e_1
     - r-e1071 =1.7_13 =r43ha503ecb_1
     - r-ellipsis =0.3.2 =r43h57805ef_2
-    - r-evaluate =0.21 =r43hc72bb7e_1
+    - r-evaluate =0.22 =r43hc72bb7e_0
     - r-fansi =1.0.4 =r43h57805ef_1
     - r-farver =2.1.1 =r43ha503ecb_2
     - r-fastmap =1.1.1 =r43ha503ecb_1
@@ -455,7 +455,7 @@ requirements:
     - r-tidyverse =2.0.0 =r43h785f33e_1
     - r-timechange =0.2.0 =r43ha503ecb_1
     - r-timedate =4022.108 =r43hc72bb7e_1
-    - r-tinytex =0.46 =r43hc72bb7e_0
+    - r-tinytex =0.47 =r43hc72bb7e_0
     - r-triebeard =0.4.1 =r43ha503ecb_1
     - r-ttr =0.24.3 =r43h57805ef_2
     - r-tzdb =0.4.0 =r43ha503ecb_1
@@ -477,9 +477,9 @@ requirements:
     - referencing =0.30.2 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.10.3 =py39h9fdd4d6_0
-    - ruamel.yaml =0.17.33 =py39hd1e30aa_0
-    - ruamel.yaml.clib =0.2.7 =py39h72bdee0_1
+    - rpds-py =0.10.3 =py39h9fdd4d6_1
+    - ruamel.yaml =0.17.33 =py39hd1e30aa_1
+    - ruamel.yaml.clib =0.2.7 =py39hd1e30aa_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-unknown-linux-gnu =1.72.1 =hc1431ca_0
     - sed =4.8 =he412f7d_0
@@ -510,7 +510,7 @@ requirements:
     - unicodedata2 =15.1.0 =py39hd1e30aa_0
     - uri-template =1.3.0 =pyhd8ed1ab_0
     - urllib3 =2.0.5 =pyhd8ed1ab_0
-    - wcwidth =0.2.6 =pyhd8ed1ab_0
+    - wcwidth =0.2.7 =pyhd8ed1ab_0
     - webcolors =1.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - websocket-client =1.6.3 =pyhd8ed1ab_0
