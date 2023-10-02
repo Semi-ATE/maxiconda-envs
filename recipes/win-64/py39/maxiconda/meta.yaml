@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.8.1 =py39ha55989b_1
     - cython =3.0.2 =py39h99910a6_2
     - grayskull =2.5.0 =pyhd8ed1ab_0
-    - hypothesis =6.87.0 =pyha770c72_0
+    - hypothesis =6.87.1 =pyha770c72_0
     - ipython =8.16.0 =pyh5737063_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.8.0 =py39hcbf5309_1
@@ -61,17 +61,17 @@ requirements:
     - sympy =1.12 =pyh04b8f61_3
     - tqdm =4.66.1 =pyhd8ed1ab_0
     - transitions =0.9.0 =pyhd8ed1ab_0
-    - xlsxwriter =3.1.5 =pyhd8ed1ab_0
+    - xlsxwriter =3.1.6 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 438 secondary packages :
+    # 439 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - annotated-types =0.5.0 =pyhd8ed1ab_0
     - anyio =4.0.0 =pyhd8ed1ab_0
     - argon2-cffi =23.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py39ha55989b_4
-    - arrow =1.2.3 =pyhd8ed1ab_0
+    - arrow =1.3.0 =pyhd8ed1ab_0
     - asttokens =2.4.0 =pyhd8ed1ab_0
     - async-lru =2.0.4 =pyhd8ed1ab_0
     - async-timeout =4.0.3 =pyhd8ed1ab_0
@@ -232,7 +232,7 @@ requirements:
     - openjpeg =2.5.0 =h3d672ee_3
     - openssl =3.1.3 =hcfcfb64_0
     - overrides =7.4.0 =pyhd8ed1ab_0
-    - packaging =23.1 =pyhd8ed1ab_0
+    - packaging =23.2 =pyhd8ed1ab_0
     - pandoc =2.19.2 =h57928b3_2
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
@@ -260,7 +260,7 @@ requirements:
     - pyqt5-sip =12.12.2 =py39h99910a6_5
     - pysocks =1.7.1 =py39hcbf5309_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
-    - python-fastjsonschema =2.18.0 =pyhd8ed1ab_0
+    - python-fastjsonschema =2.18.1 =pyhd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2023.3 =pyhd8ed1ab_0
     - python-utils =3.8.1 =pyhd8ed1ab_0
@@ -352,7 +352,7 @@ requirements:
     - r-knitr =1.43 =r41hc72bb7e_0
     - r-labeling =0.4.2 =r41hc72bb7e_2
     - r-later =1.3.1 =r41ha856d6a_1
-    - r-lattice =0.21_8 =r41h6d2157b_1
+    - r-lattice =0.21_9 =r41h6d2157b_0
     - r-lava =1.7.2.1 =r41hc72bb7e_0
     - r-lazyeval =0.2.2 =r41h6d2157b_4
     - r-lifecycle =1.0.3 =r41hc72bb7e_1
@@ -476,6 +476,7 @@ requirements:
     - tomli-w =1.0.0 =pyhd8ed1ab_0
     - tornado =6.3.3 =py39ha55989b_1
     - traitlets =5.10.1 =pyhd8ed1ab_0
+    - types-python-dateutil =2.8.19.14 =pyhd8ed1ab_0
     - typing-extensions =4.8.0 =hd8ed1ab_0
     - typing_extensions =4.8.0 =pyha770c72_0
     - typing_utils =0.1.0 =pyhd8ed1ab_0
