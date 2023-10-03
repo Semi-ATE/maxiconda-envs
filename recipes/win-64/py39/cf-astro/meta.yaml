@@ -45,13 +45,13 @@ requirements:
     - gettext =0.21.1 =h5728263_0
     - glib =2.78.0 =h12be248_0
     - glib-tools =2.78.0 =h12be248_0
-    - gst-plugins-base =1.22.6 =h001b923_1
-    - gstreamer =1.22.6 =hb4038d2_1
+    - gst-plugins-base =1.22.6 =h001b923_2
+    - gstreamer =1.22.6 =hb4038d2_2
     - icu =73.2 =h63175ca_0
     - importlib-metadata =6.8.0 =pyha770c72_0
     - importlib_metadata =6.8.0 =hd8ed1ab_0
     - ipykernel =6.25.2 =pyh60829e3_0
-    - ipython =8.16.0 =pyh5737063_0
+    - ipython =8.16.1 =pyh5737063_0
     - jedi =0.19.0 =pyhd8ed1ab_0
     - jupyter_client =8.3.1 =pyhd8ed1ab_0
     - jupyter_core =5.3.2 =py39hcbf5309_0
@@ -76,7 +76,7 @@ requirements:
     - pcre2 =10.40 =h17e33f8_0
     - pickleshare =0.7.5 =py39hde42818_1002
     - pip =23.2.1 =pyhd8ed1ab_0
-    - platformdirs =3.10.0 =pyhd8ed1ab_0
+    - platformdirs =3.11.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - prompt-toolkit =3.0.39 =pyha770c72_0
     - prompt_toolkit =3.0.39 =hd8ed1ab_0
@@ -105,7 +105,7 @@ requirements:
     - vc =14.3 =h64f974e_17
     - vc14_runtime =14.36.32532 =hdcecf7f_17
     - vs2015_runtime =14.36.32532 =h05e6639_17
-    - wcwidth =0.2.7 =pyhd8ed1ab_0
+    - wcwidth =0.2.8 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0
     - xz =5.2.6 =h8d14728_0
     - zeromq =4.3.4 =h0e60522_1

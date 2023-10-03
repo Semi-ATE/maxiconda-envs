@@ -44,8 +44,8 @@ requirements:
     - gettext =0.21.1 =h8a4c099_0
     - glib =2.78.0 =h7d26f99_0
     - glib-tools =2.78.0 =h7d26f99_0
-    - gst-plugins-base =1.22.6 =hb5d3a86_1
-    - gstreamer =1.22.6 =h840fbdc_1
+    - gst-plugins-base =1.22.6 =hb5d3a86_2
+    - gstreamer =1.22.6 =h840fbdc_2
     - icu =73.2 =hf5e326d_0
     - importlib-metadata =6.8.0 =pyha770c72_0
     - importlib_metadata =6.8.0 =hd8ed1ab_0
@@ -87,7 +87,7 @@ requirements:
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pip =23.2.1 =pyhd8ed1ab_0
-    - platformdirs =3.10.0 =pyhd8ed1ab_0
+    - platformdirs =3.11.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - prompt-toolkit =3.0.39 =pyha770c72_0
     - prompt_toolkit =3.0.39 =hd8ed1ab_0
@@ -112,7 +112,7 @@ requirements:
     - traitlets =5.10.1 =pyhd8ed1ab_0
     - typing-extensions =4.8.0 =hd8ed1ab_0
     - typing_extensions =4.8.0 =pyha770c72_0
-    - wcwidth =0.2.7 =pyhd8ed1ab_0
+    - wcwidth =0.2.8 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xz =5.2.6 =h775f41a_0

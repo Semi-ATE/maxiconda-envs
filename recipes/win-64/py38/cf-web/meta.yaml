@@ -64,8 +64,8 @@ requirements:
     - glib =2.78.0 =h12be248_0
     - glib-tools =2.78.0 =h12be248_0
     - greenlet =2.0.2 =py38hd3f51b4_1
-    - gst-plugins-base =1.22.6 =h001b923_1
-    - gstreamer =1.22.6 =hb4038d2_1
+    - gst-plugins-base =1.22.6 =h001b923_2
+    - gstreamer =1.22.6 =hb4038d2_2
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =73.2 =h63175ca_0
     - idna =3.4 =pyhd8ed1ab_0
@@ -99,7 +99,7 @@ requirements:
     - pcre2 =10.40 =h17e33f8_0
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pip =23.2.1 =pyhd8ed1ab_0
-    - platformdirs =3.10.0 =pyhd8ed1ab_0
+    - platformdirs =3.11.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - prompt-toolkit =3.0.39 =pyha770c72_0
     - prompt_toolkit =3.0.39 =hd8ed1ab_0
@@ -138,7 +138,7 @@ requirements:
     - vc =14.3 =h64f974e_17
     - vc14_runtime =14.36.32532 =hdcecf7f_17
     - vs2015_runtime =14.36.32532 =h05e6639_17
-    - wcwidth =0.2.7 =pyhd8ed1ab_0
+    - wcwidth =0.2.8 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py38haa244fe_5
     - xz =5.2.6 =h8d14728_0

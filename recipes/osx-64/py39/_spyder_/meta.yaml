@@ -87,8 +87,8 @@ requirements:
     - glib-tools =2.78.0 =h7d26f99_0
     - gmp =6.2.1 =h2e338ed_0
     - gmpy2 =2.1.2 =py39h2da61ea_1
-    - gst-plugins-base =1.22.6 =hb5d3a86_1
-    - gstreamer =1.22.6 =h840fbdc_1
+    - gst-plugins-base =1.22.6 =hb5d3a86_2
+    - gstreamer =1.22.6 =h840fbdc_2
     - icu =73.2 =hf5e326d_0
     - idna =3.4 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
@@ -99,7 +99,7 @@ requirements:
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.25.2 =pyh1050b4e_0
-    - ipython =8.16.0 =pyh31c8845_0
+    - ipython =8.16.1 =pyh31c8845_0
     - ipython_genutils =0.2.0 =py_1
     - isort =5.12.0 =pyhd8ed1ab_1
     - jaraco.classes =3.3.0 =pyhd8ed1ab_0
@@ -189,7 +189,7 @@ requirements:
     - pillow =10.0.1 =py39h0ada47f_1
     - pip =23.2.1 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
-    - platformdirs =3.10.0 =pyhd8ed1ab_0
+    - platformdirs =3.11.0 =pyhd8ed1ab_0
     - pluggy =1.3.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - prompt-toolkit =3.0.39 =pyha770c72_0
@@ -274,7 +274,7 @@ requirements:
     - unicodedata2 =15.1.0 =py39hdc70f33_0
     - urllib3 =2.0.5 =pyhd8ed1ab_0
     - watchdog =3.0.0 =py39h4cd3b3e_1
-    - wcwidth =0.2.7 =pyhd8ed1ab_0
+    - wcwidth =0.2.8 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - whatthepatch =1.0.5 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0

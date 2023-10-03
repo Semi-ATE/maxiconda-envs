@@ -151,14 +151,14 @@ requirements:
     - lz4-c =1.9.4 =hd600fc2_0
     - matplotlib-base =3.7.3 =py38h7709db9_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
-    - mpg123 =1.32.1 =h2f0025b_0
+    - mpg123 =1.32.3 =h2f0025b_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mysql-common =8.0.33 =hb6794ad_4
     - mysql-libs =8.0.33 =hf629957_4
     - ncurses =6.4 =h2e1726e_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - nspr =4.35 =h4de3ea5_0
-    - nss =3.92 =hc5a5cc2_0
+    - nss =3.94 =hc5a5cc2_0
     - openjpeg =2.5.0 =h9508984_2
     - openssl =3.1.3 =h31becfc_0
     - packaging =23.2 =pyhd8ed1ab_0
@@ -169,7 +169,7 @@ requirements:
     - pillow =9.5.0 =py38h4efd743_0
     - pip =23.2.1 =pyhd8ed1ab_0
     - pixman =0.42.2 =h2f0025b_0
-    - platformdirs =3.10.0 =pyhd8ed1ab_0
+    - platformdirs =3.11.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pooch =1.7.0 =pyhd8ed1ab_4
     - prompt-toolkit =3.0.39 =pyha770c72_0
@@ -181,7 +181,7 @@ requirements:
     - pulseaudio-client =16.1 =h0c4632f_3
     - pulseaudio-daemon =16.1 =h7a898ed_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
-    - pycairo =1.25.0 =py38hd3675a5_0
+    - pycairo =1.25.0 =py38hd3675a5_1
     - pygments =2.16.1 =pyhd8ed1ab_0
     - pyparsing =3.1.1 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py38hb83fbf6_5
@@ -210,7 +210,7 @@ requirements:
     - typing_extensions =4.8.0 =pyha770c72_0
     - unicodedata2 =15.1.0 =py38h9579f32_0
     - urllib3 =2.0.5 =pyhd8ed1ab_0
-    - wcwidth =0.2.7 =pyhd8ed1ab_0
+    - wcwidth =0.2.8 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =h4e544f5_0
