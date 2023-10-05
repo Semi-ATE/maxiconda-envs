@@ -60,14 +60,14 @@ requirements:
     - ca-certificates =2023.7.22 =h8857fd0_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - chardet =5.2.0 =py39h6e9494a_1
-    - charset-normalizer =3.2.0 =pyhd8ed1ab_0
+    - charset-normalizer =3.3.0 =pyhd8ed1ab_0
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.4 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py39h8ee36c8_1
     - cookiecutter =2.4.0 =pyhca7485f_0
-    - cycler =0.11.0 =pyhd8ed1ab_0
+    - cycler =0.12.0 =pyhd8ed1ab_0
     - debugpy =1.8.0 =py39h840bb9f_1
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
@@ -167,9 +167,9 @@ requirements:
     - mysql-common =8.0.33 =h794ff91_4
     - mysql-libs =8.0.33 =he48d296_4
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert =7.8.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.8.0 =pyhd8ed1ab_0
-    - nbconvert-pandoc =7.8.0 =pyhd8ed1ab_0
+    - nbconvert =7.9.1 =pyhd8ed1ab_0
+    - nbconvert-core =7.9.1 =pyhd8ed1ab_0
+    - nbconvert-pandoc =7.9.1 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =hf0c8a7f_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
@@ -265,14 +265,14 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tomlkit =0.12.1 =pyha770c72_0
     - tornado =6.3.3 =py39hdc70f33_1
-    - traitlets =5.10.1 =pyhd8ed1ab_0
+    - traitlets =5.11.2 =pyhd8ed1ab_0
     - types-python-dateutil =2.8.19.14 =pyhd8ed1ab_0
     - typing-extensions =4.8.0 =hd8ed1ab_0
     - typing_extensions =4.8.0 =pyha770c72_0
     - tzdata =2023c =h71feb2d_0
     - ujson =5.8.0 =py39h840bb9f_0
     - unicodedata2 =15.1.0 =py39hdc70f33_0
-    - urllib3 =2.0.5 =pyhd8ed1ab_0
+    - urllib3 =2.0.6 =pyhd8ed1ab_0
     - watchdog =3.0.0 =py39h4cd3b3e_1
     - wcwidth =0.2.8 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2

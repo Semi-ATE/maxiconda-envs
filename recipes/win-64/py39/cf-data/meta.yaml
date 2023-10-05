@@ -59,7 +59,7 @@ requirements:
     - aws-c-compression =0.2.17 =hd5965a7_3
     - aws-c-event-stream =0.3.2 =hea44b67_1
     - aws-c-http =0.7.13 =h6dd44e3_1
-    - aws-c-io =0.13.32 =ha16e049_4
+    - aws-c-io =0.13.32 =ha16e049_5
     - aws-c-mqtt =0.9.6 =h5e85a83_2
     - aws-c-s3 =0.3.17 =ha8f72b6_3
     - aws-c-sdkutils =0.1.12 =hd5965a7_2
@@ -83,7 +83,7 @@ requirements:
     - catboost =1.2.2 =py39hcbf5309_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.16.0 =py39ha55989b_0
-    - charset-normalizer =3.2.0 =pyhd8ed1ab_0
+    - charset-normalizer =3.3.0 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyh9f0ad1d_0
     - click =8.1.7 =win_pyh7428d3b_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
@@ -98,7 +98,7 @@ requirements:
     - cryptography =41.0.4 =py39hb6bd5e6_0
     - cssselect =1.2.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =py_0
-    - cycler =0.11.0 =pyhd8ed1ab_0
+    - cycler =0.12.0 =pyhd8ed1ab_0
     - cymem =2.0.8 =py39h99910a6_1
     - cython-blis =0.7.10 =py39hd88c2e4_2
     - databricks-cli =0.17.8 =pyhd8ed1ab_0
@@ -342,7 +342,7 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.3.3 =py39ha55989b_1
     - tqdm =4.66.1 =pyhd8ed1ab_0
-    - traitlets =5.10.1 =pyhd8ed1ab_0
+    - traitlets =5.11.2 =pyhd8ed1ab_0
     - twisted =22.10.0 =py39ha55989b_0
     - twisted-iocpsupport =1.0.4 =py39ha55989b_1
     - typer =0.9.0 =pyhd8ed1ab_0
@@ -352,7 +352,7 @@ requirements:
     - ucrt =10.0.22621.0 =h57928b3_0
     - umap-learn =0.5.4 =py39hcbf5309_0
     - unicodedata2 =15.1.0 =py39ha55989b_0
-    - urllib3 =1.26.16 =pyhd8ed1ab_0
+    - urllib3 =1.26.17 =pyhd8ed1ab_0
     - vc =14.3 =h64f974e_17
     - vc14_runtime =14.36.32532 =hdcecf7f_17
     - visions =0.7.1 =pyhd8ed1ab_0
@@ -374,7 +374,7 @@ requirements:
     - xorg-libxau =1.0.11 =hcd874cb_0
     - xorg-libxdmcp =1.1.3 =hcd874cb_0
     - xorg-libxext =1.3.4 =hcd874cb_2
-    - xorg-libxpm =3.5.16 =hcd874cb_0
+    - xorg-libxpm =3.5.17 =hcd874cb_0
     - xorg-libxt =1.3.0 =hcd874cb_1
     - xorg-xextproto =7.3.0 =hcd874cb_1003
     - xorg-xproto =7.0.31 =hcd874cb_1007
