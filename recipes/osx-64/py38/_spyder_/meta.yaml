@@ -25,7 +25,7 @@ requirements:
     - python =3.8.17 =hf9b03c3_0_cpython
 
     # 9 primary packages :
-    - cython =3.0.2 =py38h940360d_2
+    - cython =3.0.3 =py38hb2f96d7_0
     - matplotlib =3.7.3 =py38h50d1736_0
     - numpy =1.24.4 =py38h9a4a08f_0
     - pandas =2.0.3 =py38h78e6021_1
@@ -166,9 +166,9 @@ requirements:
     - mysql-common =8.0.33 =h794ff91_4
     - mysql-libs =8.0.33 =he48d296_4
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert =7.9.1 =pyhd8ed1ab_0
-    - nbconvert-core =7.9.1 =pyhd8ed1ab_0
-    - nbconvert-pandoc =7.9.1 =pyhd8ed1ab_0
+    - nbconvert =7.9.2 =pyhd8ed1ab_0
+    - nbconvert-core =7.9.2 =pyhd8ed1ab_0
+    - nbconvert-pandoc =7.9.2 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =hf0c8a7f_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
@@ -239,7 +239,7 @@ requirements:
     - requests =2.31.0 =pyhd8ed1ab_0
     - rich =13.6.0 =pyhd8ed1ab_0
     - rope =1.10.0 =pyhd8ed1ab_0
-    - rpds-py =0.10.3 =py38h7510fb3_1
+    - rpds-py =0.10.4 =py38h51dbebd_0
     - rtree =1.0.1 =py38hc59ffc2_3
     - setuptools =68.2.2 =pyhd8ed1ab_0
     - sip =6.7.11 =py38h940360d_1

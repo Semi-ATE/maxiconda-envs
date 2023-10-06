@@ -36,13 +36,13 @@ requirements:
     - pydot =1.4.2 =py39hcbf5309_4
     - pyqt =5.15.9 =py39hb77abff_5
     - scikit-learn =1.3.1 =py39h7c199eb_0
-    - scipy =1.11.3 =py39h7812ad6_0
+    - scipy =1.11.3 =py39hddb5d58_1
     - scrapy =2.11.0 =py39hcbf5309_0
     - seaborn =0.13.0 =hd8ed1ab_0
     - spyder-kernels =2.4.4 =win_pyh7428d3b_0
     - sqlalchemy =2.0.21 =py39ha55989b_0
     - sqlite =3.43.0 =hcfcfb64_0
-    - statsmodels =0.14.0 =py39hbaa61f9_1
+    - statsmodels =0.14.0 =py39hd88c2e4_2
     - xgboost =1.7.6 =cpu_py39h7090721_2
 
     # 341 secondary packages :
@@ -101,7 +101,7 @@ requirements:
     - cycler =0.12.0 =pyhd8ed1ab_0
     - cymem =2.0.8 =py39h99910a6_1
     - cython-blis =0.7.10 =py39hd88c2e4_2
-    - databricks-cli =0.17.8 =pyhd8ed1ab_0
+    - databricks-cli =0.18.0 =pyhd8ed1ab_0
     - dataclasses =0.8 =pyhc8e2a94_3
     - datefinder =0.7.3 =pyhd8ed1ab_0
     - debugpy =1.8.0 =py39h99910a6_1
@@ -352,7 +352,7 @@ requirements:
     - ucrt =10.0.22621.0 =h57928b3_0
     - umap-learn =0.5.4 =py39hcbf5309_0
     - unicodedata2 =15.1.0 =py39ha55989b_0
-    - urllib3 =1.26.17 =pyhd8ed1ab_0
+    - urllib3 =2.0.6 =pyhd8ed1ab_0
     - vc =14.3 =h64f974e_17
     - vc14_runtime =14.36.32532 =hdcecf7f_17
     - visions =0.7.1 =pyhd8ed1ab_0
@@ -378,14 +378,14 @@ requirements:
     - xorg-libxt =1.3.0 =hcd874cb_1
     - xorg-xextproto =7.3.0 =hcd874cb_1003
     - xorg-xproto =7.0.31 =hcd874cb_1007
-    - xyzservices =2023.7.0 =pyhd8ed1ab_0
+    - xyzservices =2023.10.0 =pyhd8ed1ab_0
     - xz =5.2.6 =h8d14728_0
     - yaml =0.2.5 =h8ffe710_2
     - yellowbrick =1.5 =pyhd8ed1ab_0
     - zeromq =4.3.4 =h0e60522_1
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =hcfcfb64_5
-    - zope.interface =6.0 =py39ha55989b_1
+    - zope.interface =6.1 =py39ha55989b_0
     - zstd =1.5.5 =h12be248_0
 
 about:

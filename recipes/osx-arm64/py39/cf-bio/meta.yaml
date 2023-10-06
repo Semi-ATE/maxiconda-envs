@@ -33,7 +33,7 @@ requirements:
     - pymol-open-source =2.5.0 =py39h573d8f3_6
     - pyqt =5.15.9 =py39hcf430f4_5
     - rdkit =2023.03.3 =py39h46b9520_1
-    - scipy =1.11.3 =py39h89ddb1b_0
+    - scipy =1.11.3 =py39h89ddb1b_1
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
 
     # 191 secondary packages :
@@ -102,7 +102,7 @@ requirements:
     - krb5 =1.21.2 =h92f50d5_0
     - lcms2 =2.15 =h40e5a24_2
     - lerc =4.0.0 =h9a09cb3_0
-    - libaec =1.1.1 =h13dd4ca_0
+    - libaec =1.1.2 =h13dd4ca_1
     - libblas =3.9.0 =18_osxarm64_openblas
     - libboost =1.82.0 =h72cdd8a_5
     - libboost-python =1.82.0 =py39h819cc4c_5
@@ -205,7 +205,7 @@ requirements:
     - snappy =1.1.10 =h17c5cce_0
     - sqlalchemy =2.0.21 =py39h0f82c59_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
-    - statsmodels =0.14.0 =py39h8a366b7_1
+    - statsmodels =0.14.0 =py39h373d45f_2
     - threadpoolctl =3.2.0 =pyha21a80b_0
     - tidynamics =1.1.2 =pyhd8ed1ab_0
     - tk =8.6.13 =hb31c410_0

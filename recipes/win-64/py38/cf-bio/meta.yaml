@@ -103,7 +103,7 @@ requirements:
     - krb5 =1.21.2 =heb0366b_0
     - lcms2 =2.15 =he9d350c_2
     - lerc =4.0.0 =h63175ca_0
-    - libaec =1.1.1 =h63175ca_0
+    - libaec =1.1.2 =h63175ca_1
     - libblas =3.9.0 =18_win64_mkl
     - libboost =1.82.0 =h65993cd_5
     - libboost-python =1.82.0 =py38h153b517_5
@@ -200,7 +200,7 @@ requirements:
     - snappy =1.1.10 =hfb803bf_0
     - sqlalchemy =2.0.21 =py38h91455d4_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
-    - statsmodels =0.14.0 =py38h634f036_1
+    - statsmodels =0.14.0 =py38he7056a7_2
     - tbb =2021.10.0 =h91493d7_1
     - threadpoolctl =3.2.0 =pyha21a80b_0
     - tidynamics =1.1.2 =pyhd8ed1ab_0

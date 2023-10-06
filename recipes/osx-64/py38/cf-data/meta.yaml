@@ -43,7 +43,7 @@ requirements:
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
     - sqlalchemy =2.0.21 =py38hcafd530_0
     - sqlite =3.43.0 =h2b0dec6_0
-    - statsmodels =0.14.0 =py38hd2faf92_1
+    - statsmodels =0.14.0 =py38h7092abf_2
     - xgboost =1.7.6 =cpu_py38hef7b56c_2
 
     # 352 secondary packages :
@@ -62,7 +62,7 @@ requirements:
     - aws-c-compression =0.2.17 =hd41bdd4_3
     - aws-c-event-stream =0.3.2 =hab6341b_1
     - aws-c-http =0.7.13 =h868b204_1
-    - aws-c-io =0.13.32 =hc4800aa_4
+    - aws-c-io =0.13.32 =hc4800aa_5
     - aws-c-mqtt =0.9.6 =he6da789_2
     - aws-c-s3 =0.3.17 =h5997705_3
     - aws-c-sdkutils =0.1.12 =hd41bdd4_2
@@ -104,7 +104,7 @@ requirements:
     - cycler =0.12.0 =pyhd8ed1ab_0
     - cymem =2.0.8 =py38h940360d_1
     - cython-blis =0.7.10 =py38h49861b3_2
-    - databricks-cli =0.17.8 =pyhd8ed1ab_0
+    - databricks-cli =0.18.0 =pyhd8ed1ab_0
     - dataclasses =0.8 =pyhc8e2a94_3
     - datefinder =0.7.3 =pyhd8ed1ab_0
     - debugpy =1.8.0 =py38h940360d_1
@@ -377,7 +377,7 @@ requirements:
     - typing_extensions =4.8.0 =pyha770c72_0
     - umap-learn =0.5.4 =py38h50d1736_0
     - unicodedata2 =15.1.0 =py38hcafd530_0
-    - urllib3 =1.26.17 =pyhd8ed1ab_0
+    - urllib3 =2.0.6 =pyhd8ed1ab_0
     - visions =0.7.1 =pyhd8ed1ab_0
     - w3lib =2.1.2 =pyhd8ed1ab_0
     - wasabi =1.1.2 =py38h50d1736_0
@@ -390,14 +390,14 @@ requirements:
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xorg-libxau =1.0.11 =h0dc2134_0
     - xorg-libxdmcp =1.1.3 =h35c211d_0
-    - xyzservices =2023.7.0 =pyhd8ed1ab_0
+    - xyzservices =2023.10.0 =pyhd8ed1ab_0
     - xz =5.2.6 =h775f41a_0
     - yaml =0.2.5 =h0d85af4_2
     - yellowbrick =1.5 =pyhd8ed1ab_0
     - zeromq =4.3.4 =he49afe7_1
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h8a1eda9_5
-    - zope.interface =6.0 =py38hcafd530_1
+    - zope.interface =6.1 =py38hae2e43d_0
     - zstd =1.5.5 =h829000d_0
 
 about:
