@@ -72,7 +72,7 @@ requirements:
     - fontconfig =2.14.2 =h5bb23bf_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.43.0 =py38hcafd530_0
+    - fonttools =4.43.1 =py38hae2e43d_0
     - freetype =2.12.1 =h60636b9_2
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h8a4c099_0
@@ -80,7 +80,7 @@ requirements:
     - glib =2.78.0 =h7d26f99_0
     - glib-tools =2.78.0 =h7d26f99_0
     - glm =0.9.9.8 =h1c7c39f_0
-    - greenlet =2.0.2 =py38h940360d_1
+    - greenlet =3.0.0 =py38hb2f96d7_1
     - griddataformats =1.0.1 =pyhd8ed1ab_0
     - gsd =3.2.0 =py38h49861b3_0
     - gst-plugins-base =1.22.6 =hb5d3a86_2
@@ -145,7 +145,7 @@ requirements:
     - libxml2 =2.11.5 =h3346baf_1
     - libzip =1.10.1 =hc158999_3
     - libzlib =1.2.13 =h8a1eda9_5
-    - llvm-openmp =16.0.6 =hff08bdf_0
+    - llvm-openmp =17.0.2 =hff08bdf_0
     - lz4-c =1.9.4 =hf0c8a7f_0
     - matplotlib-base =3.7.3 =py38hcd1b199_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
@@ -201,14 +201,14 @@ requirements:
     - reportlab =4.0.4 =py38hcafd530_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
-    - scikit-learn =1.3.1 =py38h1f37d32_0
+    - scikit-learn =1.3.1 =py38h43a65be_1
     - seaborn =0.13.0 =hd8ed1ab_0
     - seaborn-base =0.13.0 =pyhd8ed1ab_0
     - setuptools =68.2.2 =pyhd8ed1ab_0
     - sip =6.7.11 =py38h940360d_1
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.1.10 =h225ccf5_0
-    - sqlalchemy =2.0.21 =py38hcafd530_0
+    - sqlalchemy =2.0.21 =py38hae2e43d_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.0 =py38h7092abf_2
     - threadpoolctl =3.2.0 =pyha21a80b_0

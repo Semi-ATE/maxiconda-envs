@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.8.1 =py38h91455d4_1
     - cython =3.0.3 =py38hd3f51b4_0
     - grayskull =2.5.0 =pyhd8ed1ab_0
-    - hypothesis =6.87.1 =pyha770c72_0
+    - hypothesis =6.87.3 =pyha770c72_0
     - ipython =8.12.2 =pyh08f2357_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.3 =py38haa244fe_0
@@ -56,7 +56,7 @@ requirements:
     - scipy =1.10.1 =py38h1aea9ed_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.4 =win_pyh7428d3b_0
-    - sqlalchemy =2.0.21 =py38h91455d4_0
+    - sqlalchemy =2.0.21 =py38h91455d4_1
     - sqlite =3.43.0 =hcfcfb64_0
     - sympy =1.12 =pyh04b8f61_3
     - tqdm =4.66.1 =pyhd8ed1ab_0
@@ -81,7 +81,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py38h91455d4_8
-    - bleach =6.0.0 =pyhd8ed1ab_0
+    - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =hcfcfb64_1
     - brotli-bin =1.1.0 =hcfcfb64_1
     - brotli-python =1.1.0 =py38hd3f51b4_1
@@ -115,7 +115,7 @@ requirements:
     - fontconfig =2.14.2 =hbde0cde_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.43.0 =py38h91455d4_0
+    - fonttools =4.43.1 =py38h91455d4_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.12.1 =hdaf720e_2
     - fribidi =1.0.10 =h8d14728_0
@@ -124,7 +124,7 @@ requirements:
     - glib =2.78.0 =h12be248_0
     - glib-tools =2.78.0 =h12be248_0
     - graphite2 =1.3.13 =1000
-    - greenlet =2.0.2 =py38hd3f51b4_1
+    - greenlet =3.0.0 =py38hd3f51b4_1
     - gst-plugins-base =1.22.6 =h001b923_2
     - gstreamer =1.22.6 =hb4038d2_2
     - harfbuzz =8.2.1 =h7ab893a_0

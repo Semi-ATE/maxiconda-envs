@@ -69,14 +69,14 @@ requirements:
     - fontconfig =2.14.2 =ha9a116f_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.43.0 =py38h9579f32_0
+    - fonttools =4.43.1 =py38h9579f32_0
     - freetype =2.12.1 =hf0a5ef3_2
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =ha18d298_0
     - glib =2.78.0 =hd84c7bf_0
     - glib-tools =2.78.0 =hd84c7bf_0
     - graphite2 =1.3.13 =h7fd3ca4_1001
-    - greenlet =2.0.2 =py38hb83fbf6_1
+    - greenlet =3.0.0 =py38hb83fbf6_1
     - gst-plugins-base =1.22.0 =h8a62080_2
     - gstreamer =1.22.0 =h1f26242_2
     - gstreamer-orc =0.4.34 =h31becfc_0
@@ -199,7 +199,7 @@ requirements:
     - setuptools =68.2.2 =pyhd8ed1ab_0
     - sip =6.7.11 =py38hed0da46_1
     - six =1.16.0 =pyh6c4a22f_0
-    - sqlalchemy =2.0.21 =py38hea3b116_0
+    - sqlalchemy =2.0.21 =py38hea3b116_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tk =8.6.13 =h194ca79_0
     - toml =0.10.2 =pyhd8ed1ab_0

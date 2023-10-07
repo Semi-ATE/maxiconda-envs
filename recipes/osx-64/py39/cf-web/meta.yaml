@@ -32,7 +32,7 @@ requirements:
     - pyyaml =6.0.1 =py39hdc70f33_1
     - requests =2.31.0 =pyhd8ed1ab_0
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
-    - sqlalchemy =2.0.21 =py39hdc70f33_0
+    - sqlalchemy =2.0.21 =py39ha09f3b3_1
     - twisted =23.8.0 =py39hdc70f33_1
 
     # 120 secondary packages :
@@ -64,7 +64,7 @@ requirements:
     - gettext =0.21.1 =h8a4c099_0
     - glib =2.78.0 =h7d26f99_0
     - glib-tools =2.78.0 =h7d26f99_0
-    - greenlet =2.0.2 =py39h840bb9f_1
+    - greenlet =3.0.0 =py39h110ca85_1
     - gst-plugins-base =1.22.6 =hb5d3a86_2
     - gstreamer =1.22.6 =h840fbdc_2
     - hyperlink =21.0.0 =pyhd3deb0d_0

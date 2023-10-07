@@ -32,7 +32,7 @@ requirements:
     - pyyaml =6.0.1 =py39h898b7ef_1
     - requests =2.31.0 =pyhd8ed1ab_0
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
-    - sqlalchemy =2.0.21 =py39h7cc1d5f_0
+    - sqlalchemy =2.0.21 =py39h7cc1d5f_1
     - twisted =23.8.0 =py39h7cc1d5f_1
 
     # 177 secondary packages :
@@ -78,7 +78,7 @@ requirements:
     - glib =2.78.0 =hd84c7bf_0
     - glib-tools =2.78.0 =hd84c7bf_0
     - graphite2 =1.3.13 =h7fd3ca4_1001
-    - greenlet =2.0.2 =py39h387a81e_1
+    - greenlet =3.0.0 =py39h387a81e_1
     - gst-plugins-base =1.22.6 =h6d82d15_2
     - gstreamer =1.22.6 =hed71854_2
     - harfbuzz =8.2.1 =hebeb849_0
