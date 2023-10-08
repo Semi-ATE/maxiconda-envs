@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2023.10.3 =py39h898b7ef_0
     - requests =2.31.0 =pyhd8ed1ab_0
-    - rust =1.72.1 =h9d3d833_0
+    - rust =1.73.0 =h9d3d833_0
     - scipy =1.11.3 =py39h91c28bb_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
@@ -70,7 +70,7 @@ requirements:
     - _sysroot_linux-aarch64_curr_repodata_hack =4 =h57d6b7b_13
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - alsa-lib =1.2.10 =h31becfc_0
-    - annotated-types =0.5.0 =pyhd8ed1ab_0
+    - annotated-types =0.6.0 =pyhd8ed1ab_0
     - anyio =4.0.0 =pyhd8ed1ab_0
     - argon2-cffi =23.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py39h898b7ef_4
@@ -107,7 +107,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py39hd16970a_1
     - curl =8.3.0 =h4e8248e_0
-    - cycler =0.12.0 =pyhd8ed1ab_0
+    - cycler =0.12.1 =pyhd8ed1ab_0
     - dbus =1.13.6 =h12b9eeb_3
     - debugpy =1.8.0 =py39h387a81e_1
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -238,7 +238,7 @@ requirements:
     - mpfr =4.2.0 =h96f194b_0
     - mpg123 =1.32.3 =h2f0025b_0
     - mpmath =1.3.0 =pyhd8ed1ab_0
-    - multidict =6.0.4 =py39h24fc6b6_0
+    - multidict =6.0.4 =py39h898b7ef_1
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mysql-common =8.0.33 =hb6794ad_4
     - mysql-libs =8.0.33 =hf629957_4
@@ -481,7 +481,7 @@ requirements:
     - ruamel.yaml =0.17.35 =py39h898b7ef_0
     - ruamel.yaml.clib =0.2.7 =py39h898b7ef_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-aarch64-unknown-linux-gnu =1.72.1 =ha15b78c_0
+    - rust-std-aarch64-unknown-linux-gnu =1.73.0 =ha15b78c_0
     - sed =4.8 =ha0d5d3d_0
     - semver =3.0.1 =pyhd8ed1ab_0
     - send2trash =1.8.2 =pyh41d4057_0
@@ -522,7 +522,7 @@ requirements:
     - xcb-util-keysyms =0.4.0 =hcb25cf1_1
     - xcb-util-renderutil =0.3.9 =h31becfc_1
     - xcb-util-wm =0.4.1 =hcb25cf1_1
-    - xkeyboard-config =2.39 =h31becfc_0
+    - xkeyboard-config =2.40 =h31becfc_0
     - xorg-kbproto =1.0.7 =h3557bc0_1002
     - xorg-libice =1.1.1 =h7935292_0
     - xorg-libsm =1.2.4 =h5a01bc2_0

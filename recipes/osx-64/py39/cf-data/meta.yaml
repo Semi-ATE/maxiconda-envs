@@ -49,7 +49,7 @@ requirements:
     # 353 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.12.0 =pyhd8ed1ab_0
-    - annotated-types =0.5.0 =pyhd8ed1ab_0
+    - annotated-types =0.6.0 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.3 =pyhd8ed1ab_0
     - asttokens =2.4.0 =pyhd8ed1ab_0
@@ -62,7 +62,7 @@ requirements:
     - aws-c-compression =0.2.17 =hd41bdd4_3
     - aws-c-event-stream =0.3.2 =hab6341b_1
     - aws-c-http =0.7.13 =h868b204_1
-    - aws-c-io =0.13.32 =hc4800aa_5
+    - aws-c-io =0.13.32 =h2566903_6
     - aws-c-mqtt =0.9.6 =he6da789_2
     - aws-c-s3 =0.3.17 =h5997705_3
     - aws-c-sdkutils =0.1.12 =hd41bdd4_2
@@ -101,7 +101,7 @@ requirements:
     - cryptography =41.0.4 =py39he8b0a07_0
     - cssselect =1.2.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =py_0
-    - cycler =0.12.0 =pyhd8ed1ab_0
+    - cycler =0.12.1 =pyhd8ed1ab_0
     - cymem =2.0.8 =py39h840bb9f_1
     - cython-blis =0.7.10 =py39hd01001f_2
     - databricks-cli =0.18.0 =pyhd8ed1ab_0
