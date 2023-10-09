@@ -67,13 +67,13 @@ requirements:
     - aws-c-s3 =0.3.17 =h5997705_3
     - aws-c-sdkutils =0.1.12 =hd41bdd4_2
     - aws-checksums =0.1.17 =hd41bdd4_2
-    - aws-crt-cpp =0.23.1 =h4e3dc9b_5
-    - aws-sdk-cpp =1.11.156 =h99d1da1_3
+    - aws-crt-cpp =0.24.2 =h6afeb1b_0
+    - aws-sdk-cpp =1.11.156 =hf61f2bb_4
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - bcrypt =4.0.1 =py38h7510fb3_1
-    - blinker =1.6.2 =pyhd8ed1ab_0
+    - blinker =1.6.3 =pyhd8ed1ab_0
     - bottleneck =1.3.7 =py38h49861b3_1
     - brotli =1.1.0 =h0dc2134_1
     - brotli-bin =1.1.0 =h0dc2134_1
@@ -181,7 +181,7 @@ requirements:
     - lcms2 =2.15 =ha53face_2
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230802.1 =cxx17_h048a20a_0
-    - libarrow =13.0.0 =heeec12f_6_cpu
+    - libarrow =13.0.0 =h66f826e_7_cpu
     - libblas =3.9.0 =18_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
@@ -255,8 +255,8 @@ requirements:
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.10 =py38h940360d_1
-    - mysql-common =8.0.33 =h794ff91_4
-    - mysql-libs =8.0.33 =he48d296_4
+    - mysql-common =8.0.33 =h1d20c9b_5
+    - mysql-libs =8.0.33 =hed35180_5
     - ncurses =6.4 =hf0c8a7f_0
     - nest-asyncio =1.5.6 =pyhd8ed1ab_0
     - networkx =3.1 =pyhd8ed1ab_0
@@ -299,7 +299,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py38hef7b56c_2
-    - pyarrow =13.0.0 =py38h906a081_6_cpu
+    - pyarrow =13.0.0 =py38h906a081_7_cpu
     - pyasn1 =0.5.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -382,7 +382,7 @@ requirements:
     - w3lib =2.1.2 =pyhd8ed1ab_0
     - wasabi =1.1.2 =py38h50d1736_0
     - wcwidth =0.2.8 =pyhd8ed1ab_0
-    - websocket-client =1.6.3 =pyhd8ed1ab_0
+    - websocket-client =1.6.4 =pyhd8ed1ab_0
     - werkzeug =3.0.0 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0
     - widgetsnbextension =4.0.9 =pyhd8ed1ab_0

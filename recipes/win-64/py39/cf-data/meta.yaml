@@ -64,13 +64,13 @@ requirements:
     - aws-c-s3 =0.3.17 =ha8f72b6_3
     - aws-c-sdkutils =0.1.12 =hd5965a7_2
     - aws-checksums =0.1.17 =hd5965a7_2
-    - aws-crt-cpp =0.23.1 =h70f7a23_5
-    - aws-sdk-cpp =1.11.156 =h02852bd_3
+    - aws-crt-cpp =0.24.2 =h70f7a23_0
+    - aws-sdk-cpp =1.11.156 =h660de7d_4
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - bcrypt =4.0.1 =py39hf21820d_1
-    - blinker =1.6.2 =pyhd8ed1ab_0
+    - blinker =1.6.3 =pyhd8ed1ab_0
     - bottleneck =1.3.7 =py39hd88c2e4_1
     - brotli =1.1.0 =hcfcfb64_1
     - brotli-bin =1.1.0 =hcfcfb64_1
@@ -173,7 +173,7 @@ requirements:
     - lcms2 =2.15 =he9d350c_2
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230802.1 =cxx17_h63175ca_0
-    - libarrow =13.0.0 =h1e3473c_6_cpu
+    - libarrow =13.0.0 =hf069bef_7_cpu
     - libblas =3.9.0 =18_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
@@ -273,7 +273,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py39h7090721_2
-    - pyarrow =13.0.0 =py39h0a09291_6_cpu
+    - pyarrow =13.0.0 =py39h0a09291_7_cpu
     - pyasn1 =0.5.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -361,7 +361,7 @@ requirements:
     - waitress =2.1.2 =pyhd8ed1ab_0
     - wasabi =1.1.2 =py39hcbf5309_0
     - wcwidth =0.2.8 =pyhd8ed1ab_0
-    - websocket-client =1.6.3 =pyhd8ed1ab_0
+    - websocket-client =1.6.4 =pyhd8ed1ab_0
     - werkzeug =3.0.0 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0
     - widgetsnbextension =4.0.9 =pyhd8ed1ab_0

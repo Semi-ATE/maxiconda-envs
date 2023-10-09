@@ -25,7 +25,7 @@ requirements:
     - python =3.8.17 =ha43d526_0_cpython
 
     # 38 primary packages :
-    - aiohttp =3.8.5 =py38h9579f32_0
+    - aiohttp =3.8.6 =py38h9579f32_1
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - bitarray =2.8.1 =py38h9579f32_1
@@ -224,7 +224,7 @@ requirements:
     - libvorbis =1.3.7 =h01db608_0
     - libwebp-base =1.3.2 =h31becfc_0
     - libxcb =1.15 =h2a766a3_0
-    - libxkbcommon =1.5.0 =h307e02a_3
+    - libxkbcommon =1.6.0 =h307e02a_0
     - libxml2 =2.11.5 =h3091e33_1
     - libzlib =1.2.13 =h31becfc_5
     - llvmlite =0.40.1 =py38h95a9722_0
@@ -240,8 +240,8 @@ requirements:
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - multidict =6.0.4 =py38h9579f32_1
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - mysql-common =8.0.33 =hb6794ad_4
-    - mysql-libs =8.0.33 =hf629957_4
+    - mysql-common =8.0.33 =hb6794ad_5
+    - mysql-libs =8.0.33 =hf629957_5
     - nbclient =0.8.0 =pyhd8ed1ab_0
     - nbconvert-core =7.9.2 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
@@ -332,7 +332,7 @@ requirements:
     - r-e1071 =1.7_13 =r43h93f32a7_1
     - r-ellipsis =0.3.2 =r43h25e906a_2
     - r-evaluate =0.22 =r43hc72bb7e_0
-    - r-fansi =1.0.4 =r43h25e906a_1
+    - r-fansi =1.0.5 =r43h25e906a_0
     - r-farver =2.1.1 =r43h93f32a7_2
     - r-fastmap =1.1.1 =r43h93f32a7_1
     - r-fontawesome =0.5.2 =r43hc72bb7e_0
@@ -515,7 +515,7 @@ requirements:
     - wcwidth =0.2.8 =pyhd8ed1ab_0
     - webcolors =1.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
-    - websocket-client =1.6.3 =pyhd8ed1ab_0
+    - websocket-client =1.6.4 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =h31becfc_1
@@ -539,7 +539,7 @@ requirements:
     - xorg-xproto =7.0.31 =h3557bc0_1007
     - xz =5.2.6 =h9cdd2b7_0
     - yaml =0.2.5 =hf897c2e_2
-    - yarl =1.9.2 =py38h9579f32_0
+    - yarl =1.9.2 =py38h9579f32_1
     - zeromq =4.3.4 =h01db608_1
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h31becfc_5
