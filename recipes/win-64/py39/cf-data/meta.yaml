@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.0 =py39hd88c2e4_2
     - xgboost =1.7.6 =cpu_py39h7090721_2
 
-    # 341 secondary packages :
+    # 343 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.12.0 =pyhd8ed1ab_0
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -76,7 +76,7 @@ requirements:
     - brotli-bin =1.1.0 =hcfcfb64_1
     - brotli-python =1.1.0 =py39h99910a6_1
     - bzip2 =1.0.8 =h8ffe710_4
-    - c-ares =1.19.1 =hcfcfb64_0
+    - c-ares =1.20.1 =hcfcfb64_0
     - ca-certificates =2023.7.22 =h56e8100_0
     - cairo =1.16.0 =h412253b_1017
     - catalogue =2.0.10 =py39hcbf5309_0
@@ -86,6 +86,7 @@ requirements:
     - charset-normalizer =3.3.0 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyh9f0ad1d_0
     - click =8.1.7 =win_pyh7428d3b_0
+    - cloudpathlib =0.15.1 =pyhd8ed1ab_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - colorlover =0.3.0 =py_0
@@ -173,7 +174,7 @@ requirements:
     - lcms2 =2.15 =he9d350c_2
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230802.1 =cxx17_h63175ca_0
-    - libarrow =13.0.0 =hf069bef_7_cpu
+    - libarrow =13.0.0 =h824ab2f_8_cpu
     - libblas =3.9.0 =18_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
@@ -189,15 +190,15 @@ requirements:
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h4c0c323_8
     - libglib =2.78.0 =he8f3873_0
-    - libgoogle-cloud =2.12.0 =h0a0a397_2
-    - libgrpc =1.57.0 =h550f6bd_1
+    - libgoogle-cloud =2.12.0 =ha74b051_3
+    - libgrpc =1.58.1 =h43eea02_0
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =2.1.5.1 =hcfcfb64_1
     - liblapack =3.9.0 =18_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
-    - libprotobuf =4.23.4 =hb8276f3_6
+    - libprotobuf =4.24.3 =hb8276f3_0
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.43.0 =hcfcfb64_0
     - libssh2 =1.11.0 =h7dfc565_0
@@ -244,7 +245,7 @@ requirements:
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h3d672ee_3
     - openssl =3.1.3 =hcfcfb64_0
-    - orc =1.9.0 =h8dbeef6_2
+    - orc =1.9.0 =hd95f75e_3
     - packaging =23.2 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.50.14 =h07c897b_2
@@ -267,13 +268,13 @@ requirements:
     - prompt-toolkit =3.0.39 =pyha770c72_0
     - prompt_toolkit =3.0.39 =hd8ed1ab_0
     - protego =0.3.0 =pyhd8ed1ab_0
-    - protobuf =4.23.4 =py39hb5342b9_3
+    - protobuf =4.24.3 =py39hb5342b9_1
     - psutil =5.9.5 =py39ha55989b_1
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py39h7090721_2
-    - pyarrow =13.0.0 =py39h0a09291_7_cpu
+    - pyarrow =13.0.0 =py39h0a09291_8_cpu
     - pyasn1 =0.5.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -323,7 +324,7 @@ requirements:
     - smmap =3.0.5 =pyh44b312d_0
     - snappy =1.1.10 =hfb803bf_0
     - soupsieve =2.5 =pyhd8ed1ab_1
-    - spacy =3.6.1 =py39h6d95a06_0
+    - spacy =3.7.1 =py39h5c3ab46_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
     - spacy-loggers =1.0.5 =pyhd8ed1ab_0
     - sqlparse =0.4.4 =pyhd8ed1ab_0
@@ -334,7 +335,7 @@ requirements:
     - tbb =2021.10.0 =h91493d7_1
     - tenacity =8.2.3 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
-    - thinc =8.1.12 =py39h6d95a06_0
+    - thinc =8.2.1 =py39h5c3ab46_0
     - threadpoolctl =3.2.0 =pyha21a80b_0
     - tk =8.6.13 =hcfcfb64_0
     - tldextract =3.6.0 =pyhd8ed1ab_0
@@ -361,6 +362,7 @@ requirements:
     - waitress =2.1.2 =pyhd8ed1ab_0
     - wasabi =1.1.2 =py39hcbf5309_0
     - wcwidth =0.2.8 =pyhd8ed1ab_0
+    - weasel =0.3.2 =pyhd8ed1ab_1
     - websocket-client =1.6.4 =pyhd8ed1ab_0
     - werkzeug =3.0.0 =pyhd8ed1ab_0
     - wheel =0.41.2 =pyhd8ed1ab_0
