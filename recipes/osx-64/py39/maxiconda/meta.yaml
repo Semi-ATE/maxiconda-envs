@@ -28,7 +28,7 @@ requirements:
     - aiohttp =3.8.6 =py39ha09f3b3_1
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
-    - bitarray =2.8.1 =py39hdc70f33_1
+    - bitarray =2.8.2 =py39hdc70f33_0
     - cython =3.0.3 =py39h110ca85_0
     - grayskull =2.5.0 =pyhd8ed1ab_0
     - hypothesis =6.87.3 =pyha770c72_0
@@ -57,11 +57,11 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
     - sqlalchemy =2.0.21 =py39ha09f3b3_1
-    - sqlite =3.43.0 =h2b0dec6_0
+    - sqlite =3.43.2 =h7461747_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.66.1 =pyhd8ed1ab_0
     - transitions =0.9.0 =pyhd8ed1ab_0
-    - xlsxwriter =3.1.6 =pyhd8ed1ab_0
+    - xlsxwriter =3.1.7 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
     # 449 secondary packages :
@@ -77,7 +77,7 @@ requirements:
     - async-lru =2.0.4 =pyhd8ed1ab_0
     - async-timeout =4.0.3 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
-    - babel =2.12.1 =pyhd8ed1ab_1
+    - babel =2.13.0 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -162,7 +162,7 @@ requirements:
     - jsonschema-with-format-nongpl =4.19.1 =pyhd8ed1ab_0
     - jupyter-lsp =2.2.0 =pyhd8ed1ab_0
     - jupyter_client =8.3.1 =pyhd8ed1ab_0
-    - jupyter_core =5.3.2 =py39h6e9494a_0
+    - jupyter_core =5.4.0 =py39h6e9494a_0
     - jupyter_events =0.7.0 =pyhd8ed1ab_2
     - jupyter_server =2.7.3 =pyhd8ed1ab_1
     - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
@@ -206,7 +206,7 @@ requirements:
     - libpng =1.6.39 =ha978bb4_0
     - libpq =15.4 =h3df487d_2
     - libsodium =1.0.18 =hbcb3906_1
-    - libsqlite =3.43.0 =h58db7d2_0
+    - libsqlite =3.43.2 =h92b6c6a_0
     - libssh2 =1.11.0 =hd019ec5_0
     - libtiff =4.6.0 =haeeb97c_1
     - libvorbis =1.3.7 =h046ec9c_0
@@ -420,7 +420,7 @@ requirements:
     - r-reshape2 =1.4.4 =r43hac7d2d5_3
     - r-rlang =1.1.1 =r43hac7d2d5_1
     - r-rmarkdown =2.25 =r43hc72bb7e_0
-    - r-rpart =4.1.19 =r43h6dc245f_1
+    - r-rpart =4.1.21 =r43hb2c329c_0
     - r-rstudioapi =0.15.0 =r43hc72bb7e_0
     - r-rvest =1.0.3 =r43hc72bb7e_2
     - r-sass =0.4.7 =r43hac7d2d5_0

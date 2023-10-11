@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.17 =h3ba56d0_0_cpython
+    - python =3.8.18 =h2469fbe_0_cpython
   run:
-    - python =3.8.17 =h3ba56d0_0_cpython
+    - python =3.8.18 =h2469fbe_0_cpython
 
     # 9 primary packages :
     - beautifulsoup4 =4.12.2 =pyha770c72_0
@@ -76,7 +76,7 @@ requirements:
     - ipython =8.12.2 =pyhd1c38e8_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - jupyter_client =8.3.1 =pyhd8ed1ab_0
-    - jupyter_core =5.3.2 =py38h10201cd_0
+    - jupyter_core =5.4.0 =py38h10201cd_0
     - krb5 =1.21.2 =h92f50d5_0
     - libclang =15.0.7 =default_h5dc8d65_3
     - libclang13 =15.0.7 =default_hc7183e1_3
@@ -92,7 +92,7 @@ requirements:
     - libpng =1.6.39 =h76d750c_0
     - libpq =15.4 =hcea71ed_2
     - libsodium =1.0.18 =h27ca646_1
-    - libsqlite =3.43.0 =hb31c410_0
+    - libsqlite =3.43.2 =h091b4b1_0
     - libvorbis =1.3.7 =h9f76cd9_0
     - libxml2 =2.11.5 =h25269f3_1
     - libzlib =1.2.13 =h53f4e23_5
