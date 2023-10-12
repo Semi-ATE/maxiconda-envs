@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =3.0.3 =py39h4ce5507_0
-    - matplotlib =3.8.0 =py39hdf13c20_1
+    - matplotlib =3.8.0 =py39hdf13c20_2
     - numpy =1.26.0 =py39hc348b60_0
     - pandas =2.1.1 =py39h425d09f_1
     - pyqt =5.15.9 =py39hcf430f4_5
@@ -108,14 +108,14 @@ requirements:
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - jsonschema =4.19.1 =pyhd8ed1ab_0
     - jsonschema-specifications =2023.7.1 =pyhd8ed1ab_0
-    - jupyter_client =8.3.1 =pyhd8ed1ab_0
+    - jupyter_client =8.4.0 =pyhd8ed1ab_0
     - jupyter_core =5.4.0 =py39h2804cbe_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - keyring =24.2.0 =py39h2804cbe_1
     - kiwisolver =1.4.5 =py39hbd775c9_1
     - krb5 =1.21.2 =h92f50d5_0
     - lazy-object-proxy =1.9.0 =py39h0f82c59_1
-    - lcms2 =2.15 =h40e5a24_2
+    - lcms2 =2.15 =hf2736f0_3
     - lerc =4.0.0 =h9a09cb3_0
     - libblas =3.9.0 =18_osxarm64_openblas
     - libbrotlicommon =1.1.0 =hb547adb_1
@@ -132,20 +132,20 @@ requirements:
     - libgfortran5 =13.2.0 =hf226fd6_1
     - libglib =2.78.0 =h24e9cb9_0
     - libiconv =1.17 =he4db4b2_0
-    - libjpeg-turbo =2.1.5.1 =hb547adb_1
+    - libjpeg-turbo =3.0.0 =hb547adb_1
     - liblapack =3.9.0 =18_osxarm64_openblas
     - libllvm15 =15.0.7 =h504e6bf_3
     - libogg =1.3.4 =h27ca646_1
     - libopenblas =0.3.24 =openmp_hd76b1f2_0
     - libopus =1.3.1 =h27ca646_1
     - libpng =1.6.39 =h76d750c_0
-    - libpq =15.4 =hcea71ed_2
+    - libpq =16.0 =hcea71ed_1
     - libsodium =1.0.18 =h27ca646_1
     - libspatialindex =1.9.3 =hbdafb3b_4
     - libsqlite =3.43.2 =h091b4b1_0
-    - libtiff =4.6.0 =h77c4dce_1
+    - libtiff =4.6.0 =ha8a6c65_2
     - libvorbis =1.3.7 =h9f76cd9_0
-    - libwebp =1.3.2 =h9393c0e_0
+    - libwebp =1.3.2 =hf30222e_1
     - libwebp-base =1.3.2 =hb547adb_0
     - libxcb =1.15 =hf346824_0
     - libxml2 =2.11.5 =h25269f3_1
@@ -153,7 +153,7 @@ requirements:
     - llvm-openmp =17.0.2 =h1c12783_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.3 =py39h0f82c59_1
-    - matplotlib-base =3.8.0 =py39h6685e7c_1
+    - matplotlib-base =3.8.0 =py39h1a09f3e_2
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_0
     - mdurl =0.1.0 =pyhd8ed1ab_0
@@ -172,7 +172,7 @@ requirements:
     - nbconvert-pandoc =7.9.2 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h7ea286d_0
-    - nest-asyncio =1.5.6 =pyhd8ed1ab_0
+    - nest-asyncio =1.5.7 =pyhd8ed1ab_0
     - nspr =4.35 =hb7217d7_0
     - nss =3.94 =hc6b9969_0
     - numpydoc =1.5.0 =pyhd8ed1ab_0
@@ -186,7 +186,7 @@ requirements:
     - pcre2 =10.40 =hb34f9b4_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py_1003
-    - pillow =10.0.1 =py39hef383c8_1
+    - pillow =10.0.1 =py39h90af52a_2
     - pip =23.2.1 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - platformdirs =3.11.0 =pyhd8ed1ab_0
@@ -228,8 +228,8 @@ requirements:
     - pyzmq =25.1.1 =py39h1e134f0_1
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.8 =h219f738_16
-    - qt-webengine =5.15.8 =hc1a9d58_1
+    - qt-main =5.15.8 =h6bf1bb6_17
+    - qt-webengine =5.15.8 =h78108cb_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.4.4 =pyhd8ed1ab_0
     - qtconsole-base =5.4.4 =pyha770c72_0
@@ -285,7 +285,7 @@ requirements:
     - xz =5.2.6 =h57fd34a_0
     - yaml =0.2.5 =h3422bc3_2
     - yapf =0.40.1 =pyhd8ed1ab_0
-    - zeromq =4.3.4 =hbdafb3b_1
+    - zeromq =4.3.5 =h965bd2d_0
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zstd =1.5.5 =h4f39d0f_0
 

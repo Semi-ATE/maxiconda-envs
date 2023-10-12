@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0.1 =py38h01eb140_1
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
-    - r-base =4.3.1 =h639d9d3_5
+    - r-base =4.3.1 =h93585b2_6
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2023.10.3 =py38h01eb140_0
     - requests =2.31.0 =pyhd8ed1ab_0
@@ -96,7 +96,7 @@ requirements:
     - ca-certificates =2023.7.22 =hbcca054_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
-    - cairo =1.16.0 =h0c91306_1017
+    - cairo =1.18.0 =h3faef2a_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.16.0 =py38h6d47a40_0
     - charset-normalizer =3.3.0 =pyhd8ed1ab_0
@@ -106,7 +106,7 @@ requirements:
     - comm =0.1.4 =pyhd8ed1ab_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h7f3f72f_1
-    - curl =8.3.0 =hca28451_0
+    - curl =8.4.0 =hca28451_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
     - debugpy =1.8.0 =py38h17151c0_1
@@ -158,12 +158,12 @@ requirements:
     - jsonschema-specifications =2023.7.1 =pyhd8ed1ab_0
     - jsonschema-with-format-nongpl =4.19.1 =pyhd8ed1ab_0
     - jupyter-lsp =2.2.0 =pyhd8ed1ab_0
-    - jupyter_client =8.3.1 =pyhd8ed1ab_0
+    - jupyter_client =8.4.0 =pyhd8ed1ab_0
     - jupyter_core =5.4.0 =py38h578d9bd_0
     - jupyter_events =0.7.0 =pyhd8ed1ab_2
     - jupyter_server =2.7.3 =pyhd8ed1ab_1
     - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
-    - jupyterlab =4.0.6 =pyhd8ed1ab_0
+    - jupyterlab =4.0.7 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - jupyterlab_server =2.25.0 =pyhd8ed1ab_0
     - kernel-headers_linux-64 =2.6.32 =he073ed8_16
@@ -171,7 +171,7 @@ requirements:
     - kiwisolver =1.4.5 =py38h7f3f72f_1
     - krb5 =1.21.2 =h659d440_0
     - lame =3.100 =h166bdaf_1003
-    - lcms2 =2.15 =h7f713cb_2
+    - lcms2 =2.15 =hb7c19ff_3
     - ld_impl_linux-64 =2.40 =h41732ed_0
     - lerc =4.0.0 =h27087fc_0
     - libblas =3.9.0 =18_linux64_openblas
@@ -183,7 +183,7 @@ requirements:
     - libclang =15.0.7 =default_h7634d5b_3
     - libclang13 =15.0.7 =default_h9986a30_3
     - libcups =2.3.3 =h4637d8d_4
-    - libcurl =8.3.0 =hca28451_0
+    - libcurl =8.4.0 =hca28451_0
     - libdeflate =1.19 =hd590300_0
     - libedit =3.1.20191231 =he28a2e2_2
     - libev =4.33 =h516909a_1
@@ -200,7 +200,7 @@ requirements:
     - libgomp =13.2.0 =h807b86a_2
     - libgpg-error =1.47 =h71f35ed_0
     - libiconv =1.17 =h166bdaf_0
-    - libjpeg-turbo =2.1.5.1 =hd590300_1
+    - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =18_linux64_openblas
     - libllvm14 =14.0.6 =hcd5def8_4
     - libllvm15 =15.0.7 =h5cf9203_3
@@ -210,7 +210,7 @@ requirements:
     - libopenblas =0.3.24 =pthreads_h413a1c8_0
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.39 =h753d276_0
-    - libpq =15.4 =hfc447b1_2
+    - libpq =16.0 =hfc447b1_1
     - libsanitizer =13.2.0 =h7e041cc_2
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
@@ -219,7 +219,7 @@ requirements:
     - libstdcxx-devel_linux-64 =13.2.0 =ha9c7c90_2
     - libstdcxx-ng =13.2.0 =h7e041cc_2
     - libsystemd0 =254 =h3516f8a_0
-    - libtiff =4.6.0 =h29866fb_1
+    - libtiff =4.6.0 =ha9c0a0a_2
     - libuuid =2.38.1 =h0b41bf4_0
     - libvorbis =1.3.7 =h9c3ff4c_0
     - libwebp-base =1.3.2 =hd590300_0
@@ -246,7 +246,7 @@ requirements:
     - nbconvert-core =7.9.2 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =hcb278e6_0
-    - nest-asyncio =1.5.6 =pyhd8ed1ab_0
+    - nest-asyncio =1.5.7 =pyhd8ed1ab_0
     - notebook =7.0.4 =pyhd8ed1ab_0
     - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - nspr =4.35 =h27087fc_0
@@ -262,7 +262,7 @@ requirements:
     - pcre2 =10.40 =hc3806b6_0
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
-    - pillow =10.0.1 =py38h71741d6_1
+    - pillow =10.0.1 =py38ha43c96d_2
     - pip =23.2.1 =pyhd8ed1ab_0
     - pixman =0.42.2 =h59595ed_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
@@ -293,7 +293,7 @@ requirements:
     - python_abi =3.8 =4_cp38
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.1 =py38h509eb50_1
-    - qt-main =5.15.8 =hc47bfe8_16
+    - qt-main =5.15.8 =h82b777d_17
     - qtpy =2.4.0 =pyhd8ed1ab_0
     - r-askpass =1.2.0 =r43h57805ef_0
     - r-assertthat =0.2.1 =r43hc72bb7e_4
@@ -415,7 +415,7 @@ requirements:
     - r-purrr =1.0.2 =r43h57805ef_0
     - r-quantmod =0.4.25 =r43hc72bb7e_0
     - r-r6 =2.5.1 =r43hc72bb7e_2
-    - r-ragg =1.2.5 =r43hd759249_3
+    - r-ragg =1.2.6 =r43h73ae6e3_0
     - r-randomforest =4.7_1.1 =r43h61816a4_2
     - r-rappdirs =0.3.3 =r43h57805ef_2
     - r-rbokeh =0.5.2 =r43hc72bb7e_3
@@ -527,7 +527,7 @@ requirements:
     - xorg-kbproto =1.0.7 =h7f98852_1002
     - xorg-libice =1.1.1 =hd590300_0
     - xorg-libsm =1.2.4 =h7391055_0
-    - xorg-libx11 =1.8.6 =h8ee46fc_0
+    - xorg-libx11 =1.8.7 =h8ee46fc_0
     - xorg-libxau =1.0.11 =hd590300_0
     - xorg-libxdmcp =1.1.3 =h7f98852_0
     - xorg-libxext =1.3.4 =h0b41bf4_2
@@ -540,7 +540,7 @@ requirements:
     - xz =5.2.6 =h166bdaf_0
     - yaml =0.2.5 =h7f98852_2
     - yarl =1.9.2 =py38h01eb140_1
-    - zeromq =4.3.4 =h9c3ff4c_1
+    - zeromq =4.3.5 =h59595ed_0
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =hd590300_5
     - zstd =1.5.5 =hfc55251_0

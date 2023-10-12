@@ -26,7 +26,7 @@ requirements:
 
     # 10 primary packages :
     - biopython =1.81 =py39ha55989b_0
-    - matplotlib =3.8.0 =py39hcbf5309_1
+    - matplotlib =3.8.0 =py39hcbf5309_2
     - mdanalysis =2.6.1 =py39h6f76193_0
     - numpy =1.26.0 =py39hddb5d58_0
     - pandas =2.1.1 =py39h32e6231_1
@@ -48,7 +48,7 @@ requirements:
     - ca-certificates =2023.7.22 =h56e8100_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
-    - cairo =1.16.0 =h412253b_1017
+    - cairo =1.18.0 =h1fef639_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cftime =1.6.2 =py39hd88c2e4_2
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
@@ -83,7 +83,7 @@ requirements:
     - gst-plugins-base =1.22.6 =h001b923_2
     - gstreamer =1.22.6 =hb4038d2_2
     - h5py =3.10.0 =nompi_py39h7371b1f_100
-    - hdf4 =4.2.15 =h1334946_6
+    - hdf4 =4.2.15 =h5557f11_7
     - hdf5 =1.14.2 =nompi_h73e8ff5_100
     - icu =73.2 =h63175ca_0
     - importlib-metadata =6.8.0 =pyha770c72_0
@@ -95,11 +95,11 @@ requirements:
     - ipython =8.16.1 =pyh5737063_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - joblib =1.3.2 =pyhd8ed1ab_0
-    - jupyter_client =8.3.1 =pyhd8ed1ab_0
+    - jupyter_client =8.4.0 =pyhd8ed1ab_0
     - jupyter_core =5.4.0 =py39hcbf5309_0
     - kiwisolver =1.4.5 =py39h1f6ef14_1
     - krb5 =1.21.2 =heb0366b_0
-    - lcms2 =2.15 =he9d350c_2
+    - lcms2 =2.15 =h67d730c_3
     - lerc =4.0.0 =h63175ca_0
     - libaec =1.1.2 =h63175ca_1
     - libblas =3.9.0 =18_win64_mkl
@@ -111,14 +111,14 @@ requirements:
     - libcblas =3.9.0 =18_win64_mkl
     - libclang =15.0.7 =default_h77d9078_3
     - libclang13 =15.0.7 =default_h77d9078_3
-    - libcurl =8.3.0 =hd5e4a3a_0
+    - libcurl =8.4.0 =hd5e4a3a_0
     - libdeflate =1.19 =hcfcfb64_0
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
     - libglib =2.78.0 =he8f3873_0
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =h8ffe710_0
-    - libjpeg-turbo =2.1.5.1 =hcfcfb64_1
+    - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =18_win64_mkl
     - libnetcdf =4.9.2 =nompi_h8284064_112
     - libogg =1.3.4 =h8ffe710_1
@@ -126,7 +126,7 @@ requirements:
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.43.2 =hcfcfb64_0
     - libssh2 =1.11.0 =h7dfc565_0
-    - libtiff =4.6.0 =h4554b19_1
+    - libtiff =4.6.0 =h6e2ebb7_2
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp-base =1.3.2 =hcfcfb64_0
     - libxcb =1.15 =hcd874cb_0
@@ -139,7 +139,7 @@ requirements:
     - m2w64-gcc-libs-core =5.3.0 =7
     - m2w64-gmp =6.1.0 =2
     - m2w64-libwinpthread-git =5.0.0.4634.697f757 =2
-    - matplotlib-base =3.8.0 =py39hf19769e_1
+    - matplotlib-base =3.8.0 =py39hf19769e_2
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mda-xdrlib =0.2.0 =pyhd8ed1ab_0
     - mkl =2022.1.0 =h6a75c08_874
@@ -148,7 +148,7 @@ requirements:
     - msgpack-python =1.0.6 =py39h1f6ef14_0
     - msys2-conda-epoch =20160418 =1
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - nest-asyncio =1.5.6 =pyhd8ed1ab_0
+    - nest-asyncio =1.5.7 =pyhd8ed1ab_0
     - netcdf4 =1.6.4 =nompi_py39h9a3bb69_103
     - networkx =3.1 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h3d672ee_3
@@ -159,7 +159,7 @@ requirements:
     - pbr =5.11.1 =pyhd8ed1ab_0
     - pcre2 =10.40 =h17e33f8_0
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =10.0.1 =py39h6ef006c_1
+    - pillow =10.0.1 =py39h368b509_2
     - pip =23.2.1 =pyhd8ed1ab_0
     - pixman =0.42.2 =h63175ca_0
     - platformdirs =3.11.0 =pyhd8ed1ab_0
@@ -183,8 +183,8 @@ requirements:
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pywin32 =306 =py39h99910a6_2
     - pyzmq =25.1.1 =py39hea35a22_1
-    - qt-main =5.15.8 =he5a7383_16
-    - reportlab =4.0.5 =py39ha55989b_0
+    - qt-main =5.15.8 =h9e85ed6_17
+    - reportlab =4.0.6 =py39ha55989b_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
     - scikit-learn =1.3.1 =py39h7c199eb_1
     - seaborn =0.13.0 =hd8ed1ab_0

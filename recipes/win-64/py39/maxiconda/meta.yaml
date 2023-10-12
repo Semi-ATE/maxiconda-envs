@@ -28,13 +28,13 @@ requirements:
     - aiohttp =3.8.6 =py39ha55989b_1
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
-    - bitarray =2.8.1 =py39ha55989b_1
+    - bitarray =2.8.2 =py39ha55989b_0
     - cython =3.0.3 =py39h99910a6_0
     - grayskull =2.5.0 =pyhd8ed1ab_0
     - hypothesis =6.87.3 =pyha770c72_0
     - ipython =8.16.1 =pyh5737063_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
-    - matplotlib =3.8.0 =py39hcbf5309_1
+    - matplotlib =3.8.0 =py39hcbf5309_2
     - numba =0.57.1 =py39hadaa1c4_0
     - numpy =1.24.4 =py39h816b6a6_0
     - openpyxl =3.1.2 =py39ha55989b_1
@@ -89,7 +89,7 @@ requirements:
     - ca-certificates =2023.7.22 =h56e8100_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
-    - cairo =1.16.0 =h412253b_1017
+    - cairo =1.18.0 =h1fef639_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.16.0 =py39ha55989b_0
     - charset-normalizer =3.3.0 =pyhd8ed1ab_0
@@ -145,17 +145,17 @@ requirements:
     - jsonschema-specifications =2023.7.1 =pyhd8ed1ab_0
     - jsonschema-with-format-nongpl =4.19.1 =pyhd8ed1ab_0
     - jupyter-lsp =2.2.0 =pyhd8ed1ab_0
-    - jupyter_client =8.3.1 =pyhd8ed1ab_0
+    - jupyter_client =8.4.0 =pyhd8ed1ab_0
     - jupyter_core =5.4.0 =py39hcbf5309_0
     - jupyter_events =0.7.0 =pyhd8ed1ab_2
     - jupyter_server =2.7.3 =pyhd8ed1ab_1
     - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
-    - jupyterlab =4.0.6 =pyhd8ed1ab_0
+    - jupyterlab =4.0.7 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - jupyterlab_server =2.25.0 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py39h1f6ef14_1
     - krb5 =1.21.2 =heb0366b_0
-    - lcms2 =2.15 =he9d350c_2
+    - lcms2 =2.15 =h67d730c_3
     - lerc =4.0.0 =h63175ca_0
     - libblas =3.9.0 =18_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_1
@@ -170,13 +170,13 @@ requirements:
     - libglib =2.78.0 =he8f3873_0
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =h8ffe710_0
-    - libjpeg-turbo =2.1.5.1 =hcfcfb64_1
+    - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =18_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.43.2 =hcfcfb64_0
-    - libtiff =4.6.0 =h4554b19_1
+    - libtiff =4.6.0 =h6e2ebb7_2
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp-base =1.3.2 =hcfcfb64_0
     - libxcb =1.15 =hcd874cb_0
@@ -215,7 +215,7 @@ requirements:
     - m2w64-xz =5.2.2 =2
     - m2w64-zlib =1.2.8 =10
     - markupsafe =2.1.3 =py39ha55989b_1
-    - matplotlib-base =3.8.0 =py39hf19769e_1
+    - matplotlib-base =3.8.0 =py39hf19769e_2
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mistune =3.0.1 =pyhd8ed1ab_0
     - mkl =2022.1.0 =h6a75c08_874
@@ -226,7 +226,7 @@ requirements:
     - nbclient =0.8.0 =pyhd8ed1ab_0
     - nbconvert-core =7.9.2 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
-    - nest-asyncio =1.5.6 =pyhd8ed1ab_0
+    - nest-asyncio =1.5.7 =pyhd8ed1ab_0
     - notebook =7.0.4 =pyhd8ed1ab_0
     - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h3d672ee_3
@@ -238,7 +238,7 @@ requirements:
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =h17e33f8_0
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =10.0.1 =py39h6ef006c_1
+    - pillow =10.0.1 =py39h368b509_2
     - pip =23.2.1 =pyhd8ed1ab_0
     - pixman =0.42.2 =h63175ca_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
@@ -269,7 +269,7 @@ requirements:
     - pywin32 =306 =py39h99910a6_2
     - pywinpty =2.0.12 =py39h99910a6_0
     - pyzmq =25.1.1 =py39hea35a22_1
-    - qt-main =5.15.8 =he5a7383_16
+    - qt-main =5.15.8 =h9e85ed6_17
     - qtpy =2.4.0 =pyhd8ed1ab_0
     - r-askpass =1.2.0 =r41h6d2157b_0
     - r-assertthat =0.2.1 =r41hc72bb7e_3
@@ -391,7 +391,7 @@ requirements:
     - r-purrr =1.0.2 =r41h6d2157b_0
     - r-quantmod =0.4.22 =r41hc72bb7e_0
     - r-r6 =2.5.1 =r41hc72bb7e_1
-    - r-ragg =1.2.5 =r41h4a06299_3
+    - r-ragg =1.2.6 =r41ha22d727_0
     - r-randomforest =4.7_1.1 =r41he816bda_2
     - r-rappdirs =0.3.3 =r41h6d2157b_2
     - r-rbokeh =0.5.2 =r41hc72bb7e_2
