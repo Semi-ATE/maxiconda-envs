@@ -92,7 +92,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.0 =hd1e100b_0
-    - cctools_osx-arm64 =973.0.1 =h62378fb_14
+    - cctools_osx-arm64 =973.0.1 =h62378fb_15
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.16.0 =py38h73f40f7_0
     - charset-normalizer =3.3.0 =pyhd8ed1ab_0
@@ -105,8 +105,8 @@ requirements:
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.4 =pyhd8ed1ab_0
-    - compiler-rt =16.0.6 =hf8d1dfb_0
-    - compiler-rt_osx-arm64 =16.0.6 =hf8d1dfb_0
+    - compiler-rt =16.0.6 =hf8d1dfb_1
+    - compiler-rt_osx-arm64 =16.0.6 =hf8d1dfb_1
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h9afee92_1
     - curl =8.4.0 =h2d989ff_0
@@ -171,7 +171,7 @@ requirements:
     - kiwisolver =1.4.5 =py38h9afee92_1
     - krb5 =1.21.2 =h92f50d5_0
     - lcms2 =2.15 =hf2736f0_3
-    - ld64_osx-arm64 =609 =ha4bd21c_14
+    - ld64_osx-arm64 =609 =ha4bd21c_15
     - lerc =4.0.0 =h9a09cb3_0
     - libblas =3.9.0 =18_osxarm64_openblas
     - libbrotlicommon =1.1.0 =hb547adb_1
@@ -232,8 +232,8 @@ requirements:
     - nbconvert-core =7.9.2 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h7ea286d_0
-    - nest-asyncio =1.5.7 =pyhd8ed1ab_0
-    - notebook =7.0.4 =pyhd8ed1ab_0
+    - nest-asyncio =1.5.8 =pyhd8ed1ab_0
+    - notebook =7.0.5 =pyhd8ed1ab_0
     - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - nspr =4.35 =hb7217d7_0
     - nss =3.94 =hc6b9969_0
@@ -463,7 +463,7 @@ requirements:
     - referencing =0.30.2 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.10.4 =py38h51b07bf_0
+    - rpds-py =0.10.6 =py38h51b07bf_0
     - ruamel.yaml =0.17.35 =py38hb192615_0
     - ruamel.yaml.clib =0.2.7 =py38hb192615_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1

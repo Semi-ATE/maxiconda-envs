@@ -85,7 +85,7 @@ requirements:
     - c-ares =1.20.1 =h10d778d_0
     - ca-certificates =2023.7.22 =h8857fd0_0
     - cairo =1.18.0 =h99e66fa_0
-    - cctools_osx-64 =973.0.1 =ha1c5b94_14
+    - cctools_osx-64 =973.0.1 =ha1c5b94_15
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.15.1 =py37h7346b73_1
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
@@ -97,8 +97,8 @@ requirements:
     - click =8.1.3 =py37hf985489_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
-    - compiler-rt =16.0.6 =he1888fc_0
-    - compiler-rt_osx-64 =16.0.6 =he1888fc_0
+    - compiler-rt =16.0.6 =he1888fc_1
+    - compiler-rt_osx-64 =16.0.6 =he1888fc_1
     - curl =8.4.0 =h726d00d_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.3 =py37hf6dfe07_0
@@ -149,7 +149,7 @@ requirements:
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - kiwisolver =1.4.4 =py37h229a17a_0
     - krb5 =1.21.2 =hb884880_0
-    - ld64_osx-64 =609 =ha20a434_14
+    - ld64_osx-64 =609 =ha20a434_15
     - lerc =4.0.0 =hb486fe8_0
     - libblas =3.9.0 =18_osx64_openblas
     - libcblas =3.9.0 =18_osx64_openblas
@@ -208,7 +208,7 @@ requirements:
     - nbconvert-pandoc =7.6.0 =pyhd8ed1ab_0
     - nbformat =5.8.0 =pyhd8ed1ab_0
     - ncurses =6.4 =hf0c8a7f_0
-    - nest-asyncio =1.5.7 =pyhd8ed1ab_0
+    - nest-asyncio =1.5.8 =pyhd8ed1ab_0
     - notebook =6.5.6 =pyha770c72_0
     - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0

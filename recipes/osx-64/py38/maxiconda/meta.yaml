@@ -93,7 +93,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.0 =h99e66fa_0
-    - cctools_osx-64 =973.0.1 =ha1c5b94_14
+    - cctools_osx-64 =973.0.1 =ha1c5b94_15
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.16.0 =py38h082e395_0
     - charset-normalizer =3.3.0 =pyhd8ed1ab_0
@@ -106,8 +106,8 @@ requirements:
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.4 =pyhd8ed1ab_0
-    - compiler-rt =16.0.6 =he1888fc_0
-    - compiler-rt_osx-64 =16.0.6 =he1888fc_0
+    - compiler-rt =16.0.6 =he1888fc_1
+    - compiler-rt_osx-64 =16.0.6 =he1888fc_1
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h15a1a5b_1
     - curl =8.4.0 =h726d00d_0
@@ -172,7 +172,7 @@ requirements:
     - kiwisolver =1.4.5 =py38h15a1a5b_1
     - krb5 =1.21.2 =hb884880_0
     - lcms2 =2.15 =hd6ba6f3_3
-    - ld64_osx-64 =609 =ha20a434_14
+    - ld64_osx-64 =609 =ha20a434_15
     - lerc =4.0.0 =hb486fe8_0
     - libblas =3.9.0 =18_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
@@ -233,8 +233,8 @@ requirements:
     - nbconvert-core =7.9.2 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =hf0c8a7f_0
-    - nest-asyncio =1.5.7 =pyhd8ed1ab_0
-    - notebook =7.0.4 =pyhd8ed1ab_0
+    - nest-asyncio =1.5.8 =pyhd8ed1ab_0
+    - notebook =7.0.5 =pyhd8ed1ab_0
     - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
     - nss =3.94 =hd6ac835_0
@@ -466,7 +466,7 @@ requirements:
     - referencing =0.30.2 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.10.4 =py38h51dbebd_0
+    - rpds-py =0.10.6 =py38h51dbebd_0
     - ruamel.yaml =0.17.35 =py38hcafd530_0
     - ruamel.yaml.clib =0.2.7 =py38hcafd530_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
