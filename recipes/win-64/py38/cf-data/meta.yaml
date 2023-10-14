@@ -40,7 +40,7 @@ requirements:
     - scrapy =2.11.0 =py38haa244fe_0
     - seaborn =0.13.0 =hd8ed1ab_0
     - spyder-kernels =2.4.4 =win_pyh7428d3b_0
-    - sqlalchemy =2.0.21 =py38h91455d4_1
+    - sqlalchemy =2.0.22 =py38h91455d4_0
     - sqlite =3.43.2 =hcfcfb64_0
     - statsmodels =0.14.0 =py38he7056a7_2
     - xgboost =1.7.6 =cpu_py38hdbc86bd_5
@@ -53,18 +53,18 @@ requirements:
     - asttokens =2.4.0 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.4 =hc10d58f_1
+    - aws-c-auth =0.7.4 =hd571b1d_2
     - aws-c-cal =0.6.2 =hd5965a7_2
     - aws-c-common =0.9.3 =hcfcfb64_0
     - aws-c-compression =0.2.17 =hd5965a7_3
-    - aws-c-event-stream =0.3.2 =hea44b67_1
-    - aws-c-http =0.7.13 =h6dd44e3_1
-    - aws-c-io =0.13.32 =ha16e049_6
-    - aws-c-mqtt =0.9.6 =h5e85a83_2
-    - aws-c-s3 =0.3.17 =ha8f72b6_3
+    - aws-c-event-stream =0.3.2 =hef061cf_2
+    - aws-c-http =0.7.13 =h064cb6d_2
+    - aws-c-io =0.13.33 =ha16e049_0
+    - aws-c-mqtt =0.9.6 =h37bb463_3
+    - aws-c-s3 =0.3.17 =h263813f_4
     - aws-c-sdkutils =0.1.12 =hd5965a7_2
     - aws-checksums =0.1.17 =hd5965a7_2
-    - aws-crt-cpp =0.24.2 =h70f7a23_0
+    - aws-crt-cpp =0.24.2 =h3dafe13_1
     - aws-sdk-cpp =1.11.156 =h660de7d_4
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -190,14 +190,14 @@ requirements:
     - libgd =2.3.3 =h312136b_9
     - libglib =2.78.0 =he8f3873_0
     - libgoogle-cloud =2.12.0 =ha74b051_3
-    - libgrpc =1.58.1 =h43eea02_0
+    - libgrpc =1.58.1 =h43eea02_1
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =18_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
-    - libprotobuf =4.24.3 =hb8276f3_0
+    - libprotobuf =4.24.3 =hb8276f3_1
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.43.2 =hcfcfb64_0
     - libssh2 =1.11.0 =h7dfc565_0
