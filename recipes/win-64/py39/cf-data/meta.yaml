@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.0 =py39hd88c2e4_2
     - xgboost =1.7.6 =cpu_py39h7090721_5
 
-    # 343 secondary packages :
+    # 344 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.12.0 =pyhd8ed1ab_0
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -60,11 +60,11 @@ requirements:
     - aws-c-event-stream =0.3.2 =hef061cf_2
     - aws-c-http =0.7.13 =h064cb6d_2
     - aws-c-io =0.13.33 =ha16e049_0
-    - aws-c-mqtt =0.9.6 =h37bb463_3
+    - aws-c-mqtt =0.9.7 =h37bb463_0
     - aws-c-s3 =0.3.17 =h263813f_4
     - aws-c-sdkutils =0.1.12 =hd5965a7_2
     - aws-checksums =0.1.17 =hd5965a7_2
-    - aws-crt-cpp =0.24.2 =h3dafe13_1
+    - aws-crt-cpp =0.24.2 =h84553ab_2
     - aws-sdk-cpp =1.11.156 =h660de7d_4
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -174,7 +174,7 @@ requirements:
     - lcms2 =2.15 =h67d730c_3
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230802.1 =cxx17_h63175ca_0
-    - libarrow =13.0.0 =h824ab2f_8_cpu
+    - libarrow =13.0.0 =he7bc412_9_cpu
     - libblas =3.9.0 =18_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
@@ -191,7 +191,7 @@ requirements:
     - libgd =2.3.3 =h312136b_9
     - libglib =2.78.0 =he8f3873_0
     - libgoogle-cloud =2.12.0 =ha74b051_3
-    - libgrpc =1.58.1 =h43eea02_1
+    - libgrpc =1.58.1 =h2a9c87f_2
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
@@ -199,6 +199,7 @@ requirements:
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
     - libprotobuf =4.24.3 =hb8276f3_1
+    - libre2-11 =2023.06.02 =h8c5ae5e_0
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.43.2 =hcfcfb64_0
     - libssh2 =1.11.0 =h7dfc565_0
@@ -255,7 +256,7 @@ requirements:
     - pathy =0.10.2 =pyhd8ed1ab_0
     - patsy =0.5.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =h17e33f8_0
-    - phik =0.12.3 =py39h0f24028_0
+    - phik =0.12.3 =py39h0f24028_1
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =10.0.1 =py39h368b509_2
     - pip =23.2.1 =pyhd8ed1ab_0
@@ -274,7 +275,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py39h7090721_5
-    - pyarrow =13.0.0 =py39h0a09291_8_cpu
+    - pyarrow =13.0.0 =py39h0a09291_9_cpu
     - pyasn1 =0.5.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -307,7 +308,7 @@ requirements:
     - qt-main =5.15.8 =h9e85ed6_17
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
-    - re2 =2023.03.02 =hd4eee63_0
+    - re2 =2023.06.02 =hcbb65ff_0
     - regex =2023.10.3 =py39ha55989b_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - requests-file =1.5.1 =pyh9f0ad1d_0
@@ -318,7 +319,7 @@ requirements:
     - setuptools =68.2.2 =pyhd8ed1ab_0
     - shellingham =1.5.3 =pyhd8ed1ab_0
     - simpful =2.11.0 =pyhd8ed1ab_0
-    - sip =6.7.11 =py39h99910a6_1
+    - sip =6.7.12 =py39h99910a6_0
     - six =1.16.0 =pyh6c4a22f_0
     - smart_open =5.2.1 =pyhd8ed1ab_0
     - smmap =3.0.5 =pyh44b312d_0
