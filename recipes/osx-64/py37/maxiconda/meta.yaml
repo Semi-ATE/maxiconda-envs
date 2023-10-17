@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2022.9.13 =py37h8052db5_0
     - requests =2.31.0 =pyhd8ed1ab_0
-    - rust =1.73.0 =h7e1429e_0
+    - rust =1.73.0 =h7e1429e_1
     - scipy =1.7.3 =py37h4e3cf02_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
@@ -151,8 +151,8 @@ requirements:
     - krb5 =1.21.2 =hb884880_0
     - ld64_osx-64 =609 =ha20a434_15
     - lerc =4.0.0 =hb486fe8_0
-    - libblas =3.9.0 =18_osx64_openblas
-    - libcblas =3.9.0 =18_osx64_openblas
+    - libblas =3.9.0 =19_osx64_openblas
+    - libcblas =3.9.0 =19_osx64_openblas
     - libclang =15.0.7 =default_hdb78580_3
     - libclang-cpp16 =16.0.6 =default_h762fdd7_1
     - libclang13 =15.0.7 =default_h953c2e9_3
@@ -169,7 +169,7 @@ requirements:
     - libglib =2.78.0 =hc62aa5d_0
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =3.0.0 =h0dc2134_1
-    - liblapack =3.9.0 =18_osx64_openblas
+    - liblapack =3.9.0 =19_osx64_openblas
     - libllvm11 =11.1.0 =h8fb7429_5
     - libllvm15 =15.0.7 =he4b1e75_3
     - libllvm16 =16.0.6 =he4b1e75_2
@@ -393,7 +393,7 @@ requirements:
     - r-scales =1.2.1 =r43hc72bb7e_2
     - r-selectr =0.4_2 =r43hc72bb7e_3
     - r-shape =1.4.6 =r43ha770c72_2
-    - r-shiny =1.7.5 =r43h785f33e_0
+    - r-shiny =1.7.5.1 =r43h785f33e_0
     - r-sourcetools =0.1.7_1 =r43hac7d2d5_1
     - r-spatial =7.3_17 =r43h6dc245f_0
     - r-squarem =2021.1 =r43hc72bb7e_2
@@ -431,7 +431,7 @@ requirements:
     - ruamel.yaml =0.17.21 =py37h69ee0a8_1
     - ruamel.yaml.clib =0.2.6 =py37h69ee0a8_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-apple-darwin =1.73.0 =h059895a_0
+    - rust-std-x86_64-apple-darwin =1.73.0 =h059895a_1
     - send2trash =1.8.2 =pyhd1c38e8_0
     - setuptools =59.8.0 =py37hf985489_1
     - sigtool =0.1.3 =h88f4db0_0

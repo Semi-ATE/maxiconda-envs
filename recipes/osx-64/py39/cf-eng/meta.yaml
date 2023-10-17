@@ -42,7 +42,7 @@ requirements:
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =h0d85af4_4
     - ca-certificates =2023.7.22 =h8857fd0_0
-    - cloudpickle =2.2.1 =pyhd8ed1ab_0
+    - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - comm =0.1.4 =pyhd8ed1ab_0
     - debugpy =1.8.0 =py39h840bb9f_1
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -63,8 +63,8 @@ requirements:
     - jupyter_client =8.4.0 =pyhd8ed1ab_0
     - jupyter_core =5.4.0 =py39h6e9494a_0
     - krb5 =1.21.2 =hb884880_0
-    - libblas =3.9.0 =18_osx64_openblas
-    - libcblas =3.9.0 =18_osx64_openblas
+    - libblas =3.9.0 =19_osx64_openblas
+    - libcblas =3.9.0 =19_osx64_openblas
     - libclang =15.0.7 =default_hdb78580_3
     - libclang13 =15.0.7 =default_h953c2e9_3
     - libcxx =16.0.6 =hd57cbcb_0
@@ -75,7 +75,7 @@ requirements:
     - libglib =2.78.0 =hc62aa5d_0
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =3.0.0 =h0dc2134_1
-    - liblapack =3.9.0 =18_osx64_openblas
+    - liblapack =3.9.0 =19_osx64_openblas
     - libllvm15 =15.0.7 =he4b1e75_3
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.24 =openmp_h48a4ad5_0

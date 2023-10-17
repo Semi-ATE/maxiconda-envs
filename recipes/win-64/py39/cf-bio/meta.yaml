@@ -51,7 +51,7 @@ requirements:
     - cairo =1.18.0 =h1fef639_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cftime =1.6.2 =py39hd88c2e4_2
-    - cloudpickle =2.2.1 =pyhd8ed1ab_0
+    - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.4 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py39h1f6ef14_1
@@ -102,13 +102,13 @@ requirements:
     - lcms2 =2.15 =h67d730c_3
     - lerc =4.0.0 =h63175ca_0
     - libaec =1.1.2 =h63175ca_1
-    - libblas =3.9.0 =18_win64_mkl
+    - libblas =3.9.0 =19_win64_mkl
     - libboost =1.82.0 =h65993cd_6
     - libboost-python =1.82.0 =py39h5c3ab46_6
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
     - libbrotlienc =1.1.0 =hcfcfb64_1
-    - libcblas =3.9.0 =18_win64_mkl
+    - libcblas =3.9.0 =19_win64_mkl
     - libclang =15.0.7 =default_h77d9078_3
     - libclang13 =15.0.7 =default_h77d9078_3
     - libcurl =8.4.0 =hd5e4a3a_0
@@ -119,7 +119,7 @@ requirements:
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
-    - liblapack =3.9.0 =18_win64_mkl
+    - liblapack =3.9.0 =19_win64_mkl
     - libnetcdf =4.9.2 =nompi_h8284064_112
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
@@ -142,7 +142,7 @@ requirements:
     - matplotlib-base =3.8.0 =py39hf19769e_2
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mda-xdrlib =0.2.0 =pyhd8ed1ab_0
-    - mkl =2022.1.0 =h6a75c08_874
+    - mkl =2023.2.0 =h6a75c08_50496
     - mmtf-python =1.1.3 =pyhd8ed1ab_0
     - mrcfile =1.4.3 =pyhd8ed1ab_0
     - msgpack-python =1.0.6 =py39h1f6ef14_0
@@ -159,7 +159,7 @@ requirements:
     - pbr =5.11.1 =pyhd8ed1ab_0
     - pcre2 =10.40 =h17e33f8_0
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =10.0.1 =py39h368b509_2
+    - pillow =10.1.0 =py39h368b509_0
     - pip =23.3 =pyhd8ed1ab_0
     - pixman =0.42.2 =h63175ca_0
     - platformdirs =3.11.0 =pyhd8ed1ab_0

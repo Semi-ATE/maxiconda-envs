@@ -132,12 +132,12 @@ requirements:
     - lcms2 =2.14 =h5246980_0
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
-    - libblas =3.9.0 =17_linuxaarch64_openblas
+    - libblas =3.9.0 =19_linuxaarch64_openblas
     - libbrotlicommon =1.1.0 =h31becfc_1
     - libbrotlidec =1.1.0 =h31becfc_1
     - libbrotlienc =1.1.0 =h31becfc_1
     - libcap =2.67 =h8246067_0
-    - libcblas =3.9.0 =17_linuxaarch64_openblas
+    - libcblas =3.9.0 =19_linuxaarch64_openblas
     - libclang =15.0.7 =default_hdf9a116_3
     - libclang13 =15.0.7 =default_hc086480_3
     - libcups =2.3.3 =h4303303_3
@@ -156,11 +156,11 @@ requirements:
     - libgomp =13.2.0 =hf8544c7_2
     - libgpg-error =1.47 =h5ce24db_0
     - libiconv =1.17 =h9cdd2b7_0
-    - liblapack =3.9.0 =17_linuxaarch64_openblas
+    - liblapack =3.9.0 =19_linuxaarch64_openblas
     - libllvm15 =15.0.7 =h87099f9_1
     - libnsl =2.0.1 =h31becfc_0
     - libogg =1.3.4 =h3557bc0_1
-    - libopenblas =0.3.23 =pthreads_hd703e6f_0
+    - libopenblas =0.3.24 =pthreads_h5a5ec62_0
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
     - libpq =15.3 =hf616e62_1

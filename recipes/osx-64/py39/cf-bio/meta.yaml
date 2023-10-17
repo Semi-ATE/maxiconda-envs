@@ -53,7 +53,7 @@ requirements:
     - cairo =1.18.0 =h99e66fa_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cftime =1.6.2 =py39hd01001f_2
-    - cloudpickle =2.2.1 =pyhd8ed1ab_0
+    - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.4 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py39h8ee36c8_1
@@ -103,13 +103,13 @@ requirements:
     - lcms2 =2.15 =hd6ba6f3_3
     - lerc =4.0.0 =hb486fe8_0
     - libaec =1.1.2 =he965462_1
-    - libblas =3.9.0 =18_osx64_openblas
+    - libblas =3.9.0 =19_osx64_openblas
     - libboost =1.82.0 =hf0c313a_6
     - libboost-python =1.82.0 =py39h4aa56a1_6
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
     - libbrotlienc =1.1.0 =h0dc2134_1
-    - libcblas =3.9.0 =18_osx64_openblas
+    - libcblas =3.9.0 =19_osx64_openblas
     - libclang =15.0.7 =default_hdb78580_3
     - libclang13 =15.0.7 =default_h953c2e9_3
     - libcurl =8.4.0 =h726d00d_0
@@ -124,7 +124,7 @@ requirements:
     - libglib =2.78.0 =hc62aa5d_0
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =3.0.0 =h0dc2134_1
-    - liblapack =3.9.0 =18_osx64_openblas
+    - liblapack =3.9.0 =19_osx64_openblas
     - libllvm15 =15.0.7 =he4b1e75_3
     - libnetcdf =4.9.2 =nompi_h6a32802_112
     - libnghttp2 =1.52.0 =he2ab024_0
@@ -169,7 +169,7 @@ requirements:
     - pcre2 =10.40 =h1c4e4bc_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =10.0.1 =py39h877a9eb_2
+    - pillow =10.1.0 =py39hdd30358_0
     - pip =23.3 =pyhd8ed1ab_0
     - pixman =0.42.2 =he965462_0
     - platformdirs =3.11.0 =pyhd8ed1ab_0
