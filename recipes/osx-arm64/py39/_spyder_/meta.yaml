@@ -25,7 +25,7 @@ requirements:
     - python =3.9.18 =hfa1ae8a_0_cpython
 
     # 9 primary packages :
-    - cython =3.0.3 =py39h4ce5507_0
+    - cython =3.0.4 =py39h4ce5507_0
     - matplotlib =3.8.0 =py39hdf13c20_2
     - numpy =1.26.0 =py39hc348b60_0
     - pandas =2.1.1 =py39h425d09f_1
@@ -51,7 +51,7 @@ requirements:
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - binaryornot =0.4.4 =py_1
-    - black =23.9.1 =py39h2804cbe_1
+    - black =23.10.0 =py39h2804cbe_0
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =hb547adb_1
     - brotli-bin =1.1.0 =hb547adb_1
@@ -150,7 +150,7 @@ requirements:
     - libxcb =1.15 =hf346824_0
     - libxml2 =2.11.5 =h25269f3_1
     - libzlib =1.2.13 =h53f4e23_5
-    - llvm-openmp =17.0.2 =h1c12783_0
+    - llvm-openmp =17.0.3 =hcd81f8e_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.3 =py39h0f82c59_1
     - matplotlib-base =3.8.0 =py39h1a09f3e_2
