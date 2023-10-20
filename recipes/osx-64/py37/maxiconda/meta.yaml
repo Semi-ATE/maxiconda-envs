@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.7 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 401 secondary packages :
+    # 403 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.7.1 =pyhd8ed1ab_0
@@ -91,9 +91,11 @@ requirements:
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
     - clang =16.0.6 =hc177806_1
     - clang-16 =16.0.6 =default_h762fdd7_1
-    - clang_osx-64 =16.0.6 =h8787910_2
+    - clang_impl_osx-64 =16.0.6 =h8787910_5
+    - clang_osx-64 =16.0.6 =hb91bd55_5
     - clangxx =16.0.6 =default_h762fdd7_1
-    - clangxx_osx-64 =16.0.6 =h1b7723c_2
+    - clangxx_impl_osx-64 =16.0.6 =h1b7723c_5
+    - clangxx_osx-64 =16.0.6 =hb91bd55_5
     - click =8.1.3 =py37hf985489_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
@@ -453,7 +455,7 @@ requirements:
     - typing-extensions =4.7.1 =hd8ed1ab_0
     - typing_extensions =4.7.1 =pyha770c72_0
     - tzdata =2023c =h71feb2d_0
-    - urllib3 =2.0.6 =pyhd8ed1ab_0
+    - urllib3 =2.0.7 =pyhd8ed1ab_0
     - wcwidth =0.2.8 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - websocket-client =1.6.1 =pyhd8ed1ab_0
