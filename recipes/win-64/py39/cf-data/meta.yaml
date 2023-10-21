@@ -53,18 +53,18 @@ requirements:
     - asttokens =2.4.0 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.4 =hd571b1d_2
-    - aws-c-cal =0.6.2 =hd5965a7_2
+    - aws-c-auth =0.7.4 =h38fcb40_4
+    - aws-c-cal =0.6.6 =hd5965a7_0
     - aws-c-common =0.9.3 =hcfcfb64_0
     - aws-c-compression =0.2.17 =hd5965a7_3
-    - aws-c-event-stream =0.3.2 =hef061cf_2
-    - aws-c-http =0.7.13 =h064cb6d_2
-    - aws-c-io =0.13.33 =ha16e049_0
-    - aws-c-mqtt =0.9.7 =h37bb463_0
-    - aws-c-s3 =0.3.18 =h263813f_0
+    - aws-c-event-stream =0.3.2 =h97c4253_3
+    - aws-c-http =0.7.13 =heb5e3ba_5
+    - aws-c-io =0.13.35 =h9064048_1
+    - aws-c-mqtt =0.9.7 =h993aabb_1
+    - aws-c-s3 =0.3.18 =h510fa76_2
     - aws-c-sdkutils =0.1.12 =hd5965a7_2
     - aws-checksums =0.1.17 =hd5965a7_2
-    - aws-crt-cpp =0.24.3 =hd745c5a_1
+    - aws-crt-cpp =0.24.3 =hd326782_3
     - aws-sdk-cpp =1.11.182 =hc1d519e_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -131,7 +131,7 @@ requirements:
     - gensim =4.3.2 =py39h32e6231_0
     - getopt-win32 =0.1 =hcfcfb64_1
     - gettext =0.21.1 =h5728263_0
-    - gitdb =4.0.10 =pyhd8ed1ab_0
+    - gitdb =4.0.11 =pyhd8ed1ab_0
     - gitpython =3.1.40 =pyhd8ed1ab_0
     - glib =2.78.0 =h12be248_0
     - glib-tools =2.78.0 =h12be248_0
@@ -280,7 +280,7 @@ requirements:
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic =2.4.2 =pyhd8ed1ab_0
+    - pydantic =2.4.2 =pyhd8ed1ab_1
     - pydantic-core =2.10.1 =py39hf21820d_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
@@ -324,7 +324,7 @@ requirements:
     - six =1.16.0 =pyh6c4a22f_0
     - slicer =0.0.7 =pyhd8ed1ab_0
     - smart_open =5.2.1 =pyhd8ed1ab_0
-    - smmap =3.0.5 =pyh44b312d_0
+    - smmap =5.0.0 =pyhd8ed1ab_0
     - snappy =1.1.10 =hfb803bf_0
     - soupsieve =2.5 =pyhd8ed1ab_1
     - spacy =3.7.1 =py39h5c3ab46_1
