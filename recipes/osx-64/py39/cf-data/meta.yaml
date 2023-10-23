@@ -79,14 +79,14 @@ requirements:
     - brotli-bin =1.1.0 =h0dc2134_1
     - brotli-python =1.1.0 =py39h840bb9f_1
     - bzip2 =1.0.8 =h0d85af4_4
-    - c-ares =1.20.1 =h10d778d_0
+    - c-ares =1.20.1 =h10d778d_1
     - ca-certificates =2023.7.22 =h8857fd0_0
     - cairo =1.18.0 =h99e66fa_0
     - catalogue =2.0.10 =py39h6e9494a_0
     - catboost =1.2.2 =py39h6e9494a_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.16.0 =py39h18ef598_0
-    - charset-normalizer =3.3.0 =pyhd8ed1ab_0
+    - charset-normalizer =3.3.1 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyh9f0ad1d_0
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpathlib =0.15.1 =pyhd8ed1ab_0
@@ -253,7 +253,7 @@ requirements:
     - mlflow =1.27.0 =py39h8ac9d56_0
     - mlxtend =0.23.0 =pyhd8ed1ab_0
     - mpc =1.3.1 =h81bd1dd_0
-    - mpfr =4.2.0 =h4f9bd69_0
+    - mpfr =4.2.1 =h0c69b56_0
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
