@@ -76,7 +76,7 @@ requirements:
     - async-lru =2.0.4 =pyhd8ed1ab_0
     - async-timeout =4.0.3 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
-    - babel =2.13.0 =pyhd8ed1ab_0
+    - babel =2.13.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -98,11 +98,11 @@ requirements:
     - charset-normalizer =3.3.1 =pyhd8ed1ab_0
     - clang =16.0.6 =he79909e_1
     - clang-16 =16.0.6 =default_h07b2d96_1
-    - clang_impl_osx-arm64 =16.0.6 =hc421ffc_5
-    - clang_osx-arm64 =16.0.6 =h54d7cd3_5
+    - clang_impl_osx-arm64 =16.0.6 =hc421ffc_6
+    - clang_osx-arm64 =16.0.6 =h54d7cd3_6
     - clangxx =16.0.6 =default_h298e243_1
-    - clangxx_impl_osx-arm64 =16.0.6 =hcd7bac0_5
-    - clangxx_osx-arm64 =16.0.6 =h54d7cd3_5
+    - clangxx_impl_osx-arm64 =16.0.6 =hcd7bac0_6
+    - clangxx_osx-arm64 =16.0.6 =hc421ffc_6
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
@@ -240,7 +240,7 @@ requirements:
     - nspr =4.35 =hb7217d7_0
     - nss =3.94 =hc6b9969_0
     - openjpeg =2.5.0 =h4c1507b_3
-    - openssl =3.1.3 =h53f4e23_0
+    - openssl =3.1.4 =h0d3ecfb_0
     - overrides =7.4.0 =pyhd8ed1ab_0
     - packaging =23.2 =pyhd8ed1ab_0
     - pandoc =3.1.3 =hce30654_0
@@ -282,7 +282,7 @@ requirements:
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.1 =py39he0a3c8b_2
     - qt-main =5.15.8 =h6bf1bb6_17
-    - qtpy =2.4.0 =pyhd8ed1ab_0
+    - qtpy =2.4.1 =pyhd8ed1ab_0
     - r-askpass =1.2.0 =r43h21dc0da_0
     - r-assertthat =0.2.1 =r43hc72bb7e_4
     - r-backports =1.4.1 =r43h21dc0da_2
@@ -350,7 +350,7 @@ requirements:
     - r-htmltools =0.5.6.1 =r43he96f11e_0
     - r-htmlwidgets =1.6.2 =r43hc72bb7e_1
     - r-httpcode =0.3.0 =r43hf450f58_3
-    - r-httpuv =1.6.11 =r43he62749d_1
+    - r-httpuv =1.6.12 =r43he96f11e_0
     - r-httr =1.4.7 =r43hc72bb7e_0
     - r-ids =1.0.1 =r43hc72bb7e_3
     - r-ipred =0.9_14 =r43h21dc0da_1
@@ -364,7 +364,7 @@ requirements:
     - r-knitr =1.44 =r43hc72bb7e_0
     - r-labeling =0.4.3 =r43hc72bb7e_0
     - r-later =1.3.1 =r43he62749d_1
-    - r-lattice =0.22_4 =r43hd2d937b_0
+    - r-lattice =0.22_5 =r43hd2d937b_0
     - r-lava =1.7.2.1 =r43hc72bb7e_1
     - r-lazyeval =0.2.2 =r43h21dc0da_4
     - r-lifecycle =1.0.3 =r43hc72bb7e_2
@@ -444,7 +444,7 @@ requirements:
     - r-tidyverse =2.0.0 =r43h785f33e_1
     - r-timechange =0.2.0 =r43he62749d_1
     - r-timedate =4022.108 =r43hc72bb7e_1
-    - r-tinytex =0.48 =r43hc72bb7e_0
+    - r-tinytex =0.48 =r43hc72bb7e_1
     - r-triebeard =0.4.1 =r43he62749d_1
     - r-ttr =0.24.3 =r43h21dc0da_2
     - r-tzdb =0.4.0 =r43he62749d_1
@@ -467,7 +467,7 @@ requirements:
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rpds-py =0.10.6 =py39h8fec3ad_0
-    - ruamel.yaml =0.17.39 =py39h17cfd9d_0
+    - ruamel.yaml =0.18.2 =py39h17cfd9d_0
     - ruamel.yaml.clib =0.2.7 =py39h0f82c59_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-aarch64-apple-darwin =1.73.0 =hf6ec828_2

@@ -80,7 +80,7 @@ requirements:
     - async-timeout =4.0.3 =pyhd8ed1ab_0
     - attr =2.5.1 =h166bdaf_1
     - attrs =23.1.0 =pyh71513ae_1
-    - babel =2.13.0 =pyhd8ed1ab_0
+    - babel =2.13.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -252,7 +252,7 @@ requirements:
     - nspr =4.35 =h27087fc_0
     - nss =3.94 =h1d7d5a4_0
     - openjpeg =2.5.0 =h488ebb8_3
-    - openssl =3.1.3 =hd590300_0
+    - openssl =3.1.4 =hd590300_0
     - overrides =7.4.0 =pyhd8ed1ab_0
     - packaging =23.2 =pyhd8ed1ab_0
     - pandoc =3.1.3 =h32600fe_0
@@ -293,7 +293,7 @@ requirements:
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.1 =py39h8c080ef_2
     - qt-main =5.15.8 =h82b777d_17
-    - qtpy =2.4.0 =pyhd8ed1ab_0
+    - qtpy =2.4.1 =pyhd8ed1ab_0
     - r-askpass =1.2.0 =r43h57805ef_0
     - r-assertthat =0.2.1 =r43hc72bb7e_4
     - r-backports =1.4.1 =r43h57805ef_2
@@ -361,7 +361,7 @@ requirements:
     - r-htmltools =0.5.6.1 =r43ha503ecb_0
     - r-htmlwidgets =1.6.2 =r43hc72bb7e_1
     - r-httpcode =0.3.0 =r43ha770c72_3
-    - r-httpuv =1.6.11 =r43ha503ecb_1
+    - r-httpuv =1.6.12 =r43ha503ecb_0
     - r-httr =1.4.7 =r43hc72bb7e_0
     - r-ids =1.0.1 =r43hc72bb7e_3
     - r-ipred =0.9_14 =r43h57805ef_1
@@ -375,7 +375,7 @@ requirements:
     - r-knitr =1.44 =r43hc72bb7e_0
     - r-labeling =0.4.3 =r43hc72bb7e_0
     - r-later =1.3.1 =r43ha503ecb_1
-    - r-lattice =0.22_4 =r43h57805ef_0
+    - r-lattice =0.22_5 =r43h57805ef_0
     - r-lava =1.7.2.1 =r43hc72bb7e_1
     - r-lazyeval =0.2.2 =r43h57805ef_4
     - r-lifecycle =1.0.3 =r43hc72bb7e_2
@@ -397,7 +397,7 @@ requirements:
     - r-numderiv =2016.8_1.1 =r43hc72bb7e_5
     - r-openssl =2.1.1 =r43hb353fa6_0
     - r-parallelly =1.36.0 =r43hc72bb7e_1
-    - r-pbdzmq =0.3_10 =r43ha81a24b_0
+    - r-pbdzmq =0.3_10 =r43hc2df49b_1
     - r-pillar =1.9.0 =r43hc72bb7e_1
     - r-pkgconfig =2.0.3 =r43hc72bb7e_3
     - r-plyr =1.8.9 =r43ha503ecb_0
@@ -455,7 +455,7 @@ requirements:
     - r-tidyverse =2.0.0 =r43h785f33e_1
     - r-timechange =0.2.0 =r43ha503ecb_1
     - r-timedate =4022.108 =r43hc72bb7e_1
-    - r-tinytex =0.48 =r43hc72bb7e_0
+    - r-tinytex =0.48 =r43hc72bb7e_1
     - r-triebeard =0.4.1 =r43ha503ecb_1
     - r-ttr =0.24.3 =r43h57805ef_2
     - r-tzdb =0.4.0 =r43ha503ecb_1
@@ -478,7 +478,7 @@ requirements:
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rpds-py =0.10.6 =py39h9fdd4d6_0
-    - ruamel.yaml =0.17.39 =py39hd1e30aa_0
+    - ruamel.yaml =0.18.2 =py39hd1e30aa_0
     - ruamel.yaml.clib =0.2.7 =py39hd1e30aa_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-unknown-linux-gnu =1.73.0 =hc1431ca_2

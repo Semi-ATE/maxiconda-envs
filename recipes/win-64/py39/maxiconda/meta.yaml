@@ -76,7 +76,7 @@ requirements:
     - async-lru =2.0.4 =pyhd8ed1ab_0
     - async-timeout =4.0.3 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
-    - babel =2.13.0 =pyhd8ed1ab_0
+    - babel =2.13.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -230,7 +230,7 @@ requirements:
     - notebook =7.0.6 =pyhd8ed1ab_0
     - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h3d672ee_3
-    - openssl =3.1.3 =hcfcfb64_0
+    - openssl =3.1.4 =hcfcfb64_0
     - overrides =7.4.0 =pyhd8ed1ab_0
     - packaging =23.2 =pyhd8ed1ab_0
     - pandoc =2.19.2 =h57928b3_2
@@ -270,7 +270,7 @@ requirements:
     - pywinpty =2.0.12 =py39h99910a6_0
     - pyzmq =25.1.1 =py39h7eaf5a6_2
     - qt-main =5.15.8 =h9e85ed6_17
-    - qtpy =2.4.0 =pyhd8ed1ab_0
+    - qtpy =2.4.1 =pyhd8ed1ab_0
     - r-askpass =1.2.0 =r41h6d2157b_0
     - r-assertthat =0.2.1 =r41hc72bb7e_3
     - r-backports =1.4.1 =r41h6d2157b_2
@@ -338,7 +338,7 @@ requirements:
     - r-htmltools =0.5.6.1 =r41ha856d6a_0
     - r-htmlwidgets =1.6.2 =r41hc72bb7e_0
     - r-httpcode =0.3.0 =r41h57928b3_3
-    - r-httpuv =1.6.11 =r41ha856d6a_1
+    - r-httpuv =1.6.12 =r41ha856d6a_0
     - r-httr =1.4.6 =r41hc72bb7e_0
     - r-ids =1.0.1 =r41hc72bb7e_2
     - r-ipred =0.9_14 =r41h6d2157b_1
@@ -352,7 +352,7 @@ requirements:
     - r-knitr =1.43 =r41hc72bb7e_0
     - r-labeling =0.4.2 =r41hc72bb7e_2
     - r-later =1.3.1 =r41ha856d6a_1
-    - r-lattice =0.22_4 =r41h6d2157b_0
+    - r-lattice =0.22_5 =r41h6d2157b_0
     - r-lava =1.7.2.1 =r41hc72bb7e_0
     - r-lazyeval =0.2.2 =r41h6d2157b_4
     - r-lifecycle =1.0.3 =r41hc72bb7e_1
@@ -453,7 +453,7 @@ requirements:
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rpds-py =0.10.6 =py39hf21820d_0
-    - ruamel.yaml =0.17.39 =py39ha55989b_0
+    - ruamel.yaml =0.18.2 =py39ha55989b_0
     - ruamel.yaml.clib =0.2.7 =py39ha55989b_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-pc-windows-msvc =1.73.0 =h17fc481_2
