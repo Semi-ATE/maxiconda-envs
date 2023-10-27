@@ -47,10 +47,10 @@ requirements:
 
     # 345 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
-    - alembic =1.12.0 =pyhd8ed1ab_0
+    - alembic =1.12.1 =pyhd8ed1ab_0
     - annotated-types =0.6.0 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
-    - asttokens =2.4.0 =pyhd8ed1ab_0
+    - asttokens =2.4.1 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
     - aws-c-auth =0.7.4 =h7c265c8_6
@@ -64,8 +64,8 @@ requirements:
     - aws-c-s3 =0.3.19 =h8eb200d_1
     - aws-c-sdkutils =0.1.12 =h85219b4_3
     - aws-checksums =0.1.17 =h85219b4_3
-    - aws-crt-cpp =0.24.3 =he3eaa9a_7
-    - aws-sdk-cpp =1.11.182 =hef92bd4_1
+    - aws-crt-cpp =0.24.4 =he3eaa9a_0
+    - aws-sdk-cpp =1.11.182 =h9479ca2_2
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -152,7 +152,7 @@ requirements:
     - importlib_metadata =6.8.0 =hd8ed1ab_0
     - importlib_resources =6.1.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - intel-openmp =2023.2.0 =h57928b3_50496
+    - intel-openmp =2023.2.0 =h57928b3_50497
     - ipykernel =6.26.0 =pyha63f2e9_0
     - ipython =8.12.2 =pyh08f2357_0
     - ipywidgets =8.1.1 =pyhd8ed1ab_0
@@ -173,7 +173,7 @@ requirements:
     - lcms2 =2.15 =h67d730c_3
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230802.1 =cxx17_h63175ca_0
-    - libarrow =13.0.0 =hdbedc8d_11_cpu
+    - libarrow =13.0.0 =hc7845e2_13_cpu
     - libblas =3.9.0 =19_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
@@ -275,7 +275,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py38h684852a_5
-    - pyarrow =13.0.0 =py38hd94c00f_11_cpu
+    - pyarrow =13.0.0 =py38hd94c00f_13_cpu
     - pyasn1 =0.5.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -382,7 +382,7 @@ requirements:
     - xorg-libxt =1.3.0 =hcd874cb_1
     - xorg-xextproto =7.3.0 =hcd874cb_1003
     - xorg-xproto =7.0.31 =hcd874cb_1007
-    - xyzservices =2023.10.0 =pyhd8ed1ab_0
+    - xyzservices =2023.10.1 =pyhd8ed1ab_0
     - xz =5.2.6 =h8d14728_0
     - yaml =0.2.5 =h8ffe710_2
     - yellowbrick =1.5 =pyhd8ed1ab_0

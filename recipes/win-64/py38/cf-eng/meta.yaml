@@ -31,11 +31,11 @@ requirements:
     - pyqt =5.15.9 =py38hd6c051e_5
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
-    - pyvisa-py =0.7.0 =pyh1a96a4e_0
+    - pyvisa-py =0.7.1 =pyhca7485f_0
     - spyder-kernels =2.4.4 =win_pyh7428d3b_0
 
     # 94 secondary packages :
-    - asttokens =2.4.0 =pyhd8ed1ab_0
+    - asttokens =2.4.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -56,7 +56,7 @@ requirements:
     - icu =73.2 =h63175ca_0
     - importlib-metadata =6.8.0 =pyha770c72_0
     - importlib_metadata =6.8.0 =hd8ed1ab_0
-    - intel-openmp =2023.2.0 =h57928b3_50496
+    - intel-openmp =2023.2.0 =h57928b3_50497
     - ipykernel =6.26.0 =pyha63f2e9_0
     - ipython =8.12.2 =pyh08f2357_0
     - jedi =0.19.1 =pyhd8ed1ab_0
