@@ -39,7 +39,7 @@ requirements:
     - numpy =1.24.4 =py39hf88902c_0
     - openpyxl =3.1.2 =py39h898b7ef_1
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
-    - pandas =2.1.1 =py39h26ccf5d_1
+    - pandas =2.1.2 =py39h26ccf5d_0
     - psutil =5.9.5 =py39h898b7ef_1
     - pydantic =2.4.2 =pyhd8ed1ab_1
     - pyqt =5.15.9 =py39hc7e6f3c_5
@@ -204,7 +204,7 @@ requirements:
     - liblapack =3.9.0 =19_linuxaarch64_openblas
     - libllvm14 =14.0.6 =h966f666_4
     - libllvm15 =15.0.7 =hc720cd8_3
-    - libnghttp2 =1.52.0 =h250e5c5_0
+    - libnghttp2 =1.55.1 =hb0e430d_0
     - libnsl =2.0.1 =h31becfc_0
     - libogg =1.3.4 =h3557bc0_1
     - libopenblas =0.3.24 =pthreads_h5a5ec62_0
