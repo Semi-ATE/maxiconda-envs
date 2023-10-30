@@ -61,10 +61,10 @@ requirements:
     - aws-c-http =0.7.13 =hddd7df3_7
     - aws-c-io =0.13.35 =h8233182_4
     - aws-c-mqtt =0.9.8 =hf43a5ce_0
-    - aws-c-s3 =0.3.19 =h8eb200d_1
+    - aws-c-s3 =0.3.20 =h8eb200d_0
     - aws-c-sdkutils =0.1.12 =h85219b4_3
     - aws-checksums =0.1.17 =h85219b4_3
-    - aws-crt-cpp =0.24.4 =he3eaa9a_0
+    - aws-crt-cpp =0.24.4 =h41fd54c_1
     - aws-sdk-cpp =1.11.182 =h9479ca2_2
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -110,7 +110,7 @@ requirements:
     - docker-py =6.1.3 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
     - exceptiongroup =1.1.3 =pyhd8ed1ab_0
-    - executing =1.2.0 =pyhd8ed1ab_0
+    - executing =2.0.1 =pyhd8ed1ab_0
     - expat =2.5.0 =h63175ca_1
     - filelock =3.13.0 =pyhd8ed1ab_0
     - flask =3.0.0 =pyhd8ed1ab_0
