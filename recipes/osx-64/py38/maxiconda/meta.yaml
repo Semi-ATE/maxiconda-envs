@@ -29,7 +29,7 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - bitarray =2.8.2 =py38hcafd530_0
-    - cython =3.0.4 =py38hb2f96d7_0
+    - cython =3.0.5 =py38hb2f96d7_0
     - grayskull =2.5.1 =pyhd8ed1ab_0
     - hypothesis =6.88.1 =pyha770c72_0
     - ipython =8.12.2 =pyhd1c38e8_0
@@ -159,12 +159,12 @@ requirements:
     - jedi =0.19.1 =pyhd8ed1ab_0
     - json5 =0.9.14 =pyhd8ed1ab_0
     - jsonpointer =2.4 =py38h50d1736_3
-    - jsonschema =4.19.1 =pyhd8ed1ab_0
+    - jsonschema =4.19.2 =pyhd8ed1ab_0
     - jsonschema-specifications =2023.7.1 =pyhd8ed1ab_0
-    - jsonschema-with-format-nongpl =4.19.1 =pyhd8ed1ab_0
+    - jsonschema-with-format-nongpl =4.19.2 =pyhd8ed1ab_0
     - jupyter-lsp =2.2.0 =pyhd8ed1ab_0
     - jupyter_client =8.5.0 =pyhd8ed1ab_0
-    - jupyter_core =5.4.0 =py38h50d1736_0
+    - jupyter_core =5.5.0 =py38h50d1736_0
     - jupyter_events =0.8.0 =pyhd8ed1ab_0
     - jupyter_server =2.9.1 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
@@ -232,7 +232,7 @@ requirements:
     - mysql-common =8.0.33 =h1d20c9b_5
     - mysql-libs =8.0.33 =hed35180_5
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.9.2 =pyhd8ed1ab_0
+    - nbconvert-core =7.10.0 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =hf0c8a7f_0
     - nest-asyncio =1.5.8 =pyhd8ed1ab_0
@@ -261,7 +261,7 @@ requirements:
     - ply =3.11 =py_1
     - pooch =1.8.0 =pyhd8ed1ab_0
     - progressbar2 =4.2.0 =pyhd8ed1ab_0
-    - prometheus_client =0.17.1 =pyhd8ed1ab_0
+    - prometheus_client =0.18.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.39 =pyha770c72_0
     - prompt_toolkit =3.0.39 =hd8ed1ab_0
     - pthread-stubs =0.4 =hc929b4f_1001
@@ -363,7 +363,7 @@ requirements:
     - r-jquerylib =0.1.4 =r43hc72bb7e_2
     - r-jsonlite =1.8.7 =r43h6dc245f_0
     - r-kernsmooth =2.23_22 =r43h06293e5_0
-    - r-knitr =1.44 =r43hc72bb7e_0
+    - r-knitr =1.45 =r43hc72bb7e_0
     - r-labeling =0.4.3 =r43hc72bb7e_0
     - r-later =1.3.1 =r43h670e93c_1
     - r-lattice =0.22_5 =r43hb2c329c_0
@@ -456,7 +456,7 @@ requirements:
     - r-vctrs =0.6.4 =r43h64b2c41_0
     - r-viridislite =0.4.2 =r43hc72bb7e_1
     - r-vroom =1.6.4 =r43hac7d2d5_0
-    - r-withr =2.5.1 =r43hc72bb7e_0
+    - r-withr =2.5.2 =r43hc72bb7e_0
     - r-xfun =0.40 =r43hac7d2d5_0
     - r-xml2 =1.3.5 =r43h2e0d1c5_0
     - r-xtable =1.8_4 =r43hc72bb7e_5
@@ -493,7 +493,7 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tomli-w =1.0.0 =pyhd8ed1ab_0
     - tornado =6.3.3 =py38hcafd530_1
-    - traitlets =5.12.0 =pyhd8ed1ab_0
+    - traitlets =5.13.0 =pyhd8ed1ab_0
     - types-python-dateutil =2.8.19.14 =pyhd8ed1ab_0
     - typing-extensions =4.8.0 =hd8ed1ab_0
     - typing_extensions =4.8.0 =pyha770c72_0
@@ -506,7 +506,7 @@ requirements:
     - webcolors =1.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - websocket-client =1.6.4 =pyhd8ed1ab_0
-    - wheel =0.41.2 =pyhd8ed1ab_0
+    - wheel =0.41.3 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xorg-libxau =1.0.11 =h0dc2134_0
     - xorg-libxdmcp =1.1.3 =h35c211d_0
