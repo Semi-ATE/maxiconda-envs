@@ -33,7 +33,7 @@ requirements:
     - requests =2.31.0 =pyhd8ed1ab_0
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
     - sqlalchemy =2.0.22 =py38hea3b116_0
-    - twisted =23.8.0 =py38hea3b116_1
+    - twisted =23.10.0 =py38hea3b116_0
 
     # 176 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
@@ -135,7 +135,7 @@ requirements:
     - mpg123 =1.32.3 =h2f0025b_0
     - mysql-common =8.0.33 =hb6794ad_5
     - mysql-libs =8.0.33 =hf629957_5
-    - ncurses =6.4 =h2e1726e_0
+    - ncurses =6.4 =h0425590_2
     - nest-asyncio =1.5.8 =pyhd8ed1ab_0
     - nspr =4.35 =h4de3ea5_0
     - nss =3.94 =hc5a5cc2_0
@@ -160,7 +160,7 @@ requirements:
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
     - pygments =2.16.1 =pyhd8ed1ab_0
-    - pyopenssl =23.2.0 =pyhd8ed1ab_1
+    - pyopenssl =23.3.0 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py38hb83fbf6_5
     - pysocks =1.7.1 =py38h2063c64_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
@@ -184,7 +184,7 @@ requirements:
     - typing_extensions =4.8.0 =pyha770c72_0
     - tzdata =2023c =h71feb2d_0
     - urllib3 =2.0.7 =pyhd8ed1ab_0
-    - wcwidth =0.2.8 =pyhd8ed1ab_0
+    - wcwidth =0.2.9 =pyhd8ed1ab_0
     - wheel =0.41.3 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =h31becfc_1
