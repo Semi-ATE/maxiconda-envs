@@ -26,7 +26,7 @@ requirements:
 
     # 10 primary packages :
     - biopython =1.81 =py39h17cfd9d_1
-    - matplotlib =3.8.0 =py39hdf13c20_2
+    - matplotlib =3.8.1 =py39hdf13c20_0
     - mdanalysis =2.6.1 =py39h24b5a5e_0
     - numpy =1.26.0 =py39hc348b60_0
     - pandas =2.1.2 =py39hf8cecc8_0
@@ -36,10 +36,9 @@ requirements:
     - scipy =1.11.3 =py39h89ddb1b_1
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
 
-    # 191 secondary packages :
+    # 190 secondary packages :
     - appnope =0.1.3 =pyhd8ed1ab_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
-    - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - blosc =1.21.5 =hc338f07_0
@@ -93,7 +92,7 @@ requirements:
     - importlib_metadata =6.8.0 =hd8ed1ab_0
     - importlib_resources =6.1.0 =pyhd8ed1ab_0
     - ipykernel =6.26.0 =pyh3cd1d5f_0
-    - ipython =8.16.1 =pyh31c8845_0
+    - ipython =8.17.2 =pyh31c8845_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - joblib =1.3.2 =pyhd8ed1ab_0
     - jupyter_client =8.5.0 =pyhd8ed1ab_0
@@ -134,7 +133,7 @@ requirements:
     - libpng =1.6.39 =h76d750c_0
     - libpq =16.0 =hcea71ed_1
     - libsodium =1.0.18 =h27ca646_1
-    - libsqlite =3.43.2 =h091b4b1_0
+    - libsqlite =3.44.0 =h091b4b1_0
     - libssh2 =1.11.0 =h7a5bd25_0
     - libtiff =4.6.0 =ha8a6c65_2
     - libvorbis =1.3.7 =h9f76cd9_0
@@ -143,9 +142,9 @@ requirements:
     - libxml2 =2.11.5 =h25269f3_1
     - libzip =1.10.1 =ha0bc3c6_3
     - libzlib =1.2.13 =h53f4e23_5
-    - llvm-openmp =17.0.3 =hcd81f8e_0
+    - llvm-openmp =17.0.4 =hcd81f8e_0
     - lz4-c =1.9.4 =hb7217d7_0
-    - matplotlib-base =3.8.0 =py39h1a09f3e_2
+    - matplotlib-base =3.8.1 =py39h1a09f3e_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mda-xdrlib =0.2.0 =pyhd8ed1ab_0
     - mmtf-python =1.1.3 =pyhd8ed1ab_0

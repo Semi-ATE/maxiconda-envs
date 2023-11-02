@@ -28,9 +28,8 @@ requirements:
     - pyqt =5.15.9 =py39hb77abff_5
     - spyder-kernels =2.4.4 =win_pyh7428d3b_0
 
-    # 82 secondary packages :
+    # 81 secondary packages :
     - asttokens =2.4.1 =pyhd8ed1ab_0
-    - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =h8ffe710_4
@@ -51,7 +50,7 @@ requirements:
     - importlib-metadata =6.8.0 =pyha770c72_0
     - importlib_metadata =6.8.0 =hd8ed1ab_0
     - ipykernel =6.26.0 =pyha63f2e9_0
-    - ipython =8.16.1 =pyh5737063_0
+    - ipython =8.17.2 =pyh5737063_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - jupyter_client =8.5.0 =pyhd8ed1ab_0
     - jupyter_core =5.5.0 =py39hcbf5309_0
@@ -65,7 +64,7 @@ requirements:
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
     - libsodium =1.0.18 =h8d14728_1
-    - libsqlite =3.43.2 =hcfcfb64_0
+    - libsqlite =3.44.0 =hcfcfb64_0
     - libvorbis =1.3.7 =h0e60522_0
     - libzlib =1.2.13 =hcfcfb64_5
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0

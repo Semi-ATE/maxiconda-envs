@@ -28,12 +28,11 @@ requirements:
     - pyqt =5.15.9 =py39hc7e6f3c_5
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
 
-    # 149 secondary packages :
+    # 148 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.10 =h31becfc_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attr =2.5.1 =h4e544f5_1
-    - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =hf897c2e_4
@@ -66,7 +65,7 @@ requirements:
     - importlib-metadata =6.8.0 =pyha770c72_0
     - importlib_metadata =6.8.0 =hd8ed1ab_0
     - ipykernel =6.26.0 =pyhf8b6a83_0
-    - ipython =8.16.1 =pyh0d859eb_0
+    - ipython =8.17.2 =pyh41d4057_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - jupyter_client =8.5.0 =pyhd8ed1ab_0
     - jupyter_core =5.5.0 =py39h4420490_0
@@ -98,7 +97,7 @@ requirements:
     - libpq =16.0 =h04b8c23_1
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
-    - libsqlite =3.43.2 =h194ca79_0
+    - libsqlite =3.44.0 =h194ca79_0
     - libstdcxx-ng =13.2.0 =h9a76618_2
     - libsystemd0 =254 =h91e93f8_0
     - libuuid =2.38.1 =hb4cce97_0

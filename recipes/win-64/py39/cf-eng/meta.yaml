@@ -34,9 +34,8 @@ requirements:
     - pyvisa-py =0.7.1 =pyhca7485f_0
     - spyder-kernels =2.4.4 =win_pyh7428d3b_0
 
-    # 96 secondary packages :
+    # 95 secondary packages :
     - asttokens =2.4.1 =pyhd8ed1ab_0
-    - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =h8ffe710_4
@@ -59,7 +58,7 @@ requirements:
     - importlib_metadata =6.8.0 =hd8ed1ab_0
     - intel-openmp =2023.2.0 =h57928b3_50497
     - ipykernel =6.26.0 =pyha63f2e9_0
-    - ipython =8.16.1 =pyh5737063_0
+    - ipython =8.17.2 =pyh5737063_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - jupyter_client =8.5.0 =pyhd8ed1ab_0
     - jupyter_core =5.5.0 =py39hcbf5309_0
@@ -77,7 +76,7 @@ requirements:
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
     - libsodium =1.0.18 =h8d14728_1
-    - libsqlite =3.43.2 =hcfcfb64_0
+    - libsqlite =3.44.0 =hcfcfb64_0
     - libusb =1.0.26 =h8ffe710_100
     - libvorbis =1.3.7 =h0e60522_0
     - libxml2 =2.11.5 =hc3477c8_1

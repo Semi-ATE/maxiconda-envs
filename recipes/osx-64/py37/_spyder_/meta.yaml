@@ -59,7 +59,7 @@ requirements:
     - ca-certificates =2023.7.22 =h8857fd0_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - chardet =5.0.0 =py37hf985489_0
-    - charset-normalizer =3.3.1 =pyhd8ed1ab_0
+    - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - click =8.1.3 =py37hf985489_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
@@ -133,14 +133,14 @@ requirements:
     - libpq =15.3 =h9dc22bb_1
     - libsodium =1.0.18 =hbcb3906_1
     - libspatialindex =1.9.3 =he49afe7_4
-    - libsqlite =3.43.2 =h92b6c6a_0
+    - libsqlite =3.44.0 =h92b6c6a_0
     - libtiff =4.4.0 =h6268bbc_5
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp =1.2.4 =hfa4350a_0
     - libwebp-base =1.2.4 =h775f41a_0
     - libxcb =1.13 =h0d85af4_1004
     - libzlib =1.2.13 =h8a1eda9_5
-    - llvm-openmp =17.0.3 =hb6ac08f_0
+    - llvm-openmp =17.0.4 =hb6ac08f_0
     - markdown-it-py =2.2.0 =pyhd8ed1ab_0
     - markupsafe =2.1.1 =py37h69ee0a8_1
     - matplotlib-base =3.5.3 =py37h3748cd6_2
@@ -240,7 +240,7 @@ requirements:
     - sphinxcontrib-qthelp =1.0.3 =py_0
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_2
     - spyder-kernels =2.3.3 =py37hf985489_0
-    - sqlite =3.43.2 =h7461747_0
+    - sqlite =3.44.0 =h7461747_0
     - text-unidecode =1.3 =pyhd8ed1ab_1
     - textdistance =4.5.0 =pyhd8ed1ab_0
     - three-merge =0.1.1 =pyh9f0ad1d_0

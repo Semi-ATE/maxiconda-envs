@@ -26,7 +26,7 @@ requirements:
 
     # 10 primary packages :
     - biopython =1.81 =py39ha55989b_1
-    - matplotlib =3.8.0 =py39hcbf5309_2
+    - matplotlib =3.8.1 =py39hcbf5309_0
     - mdanalysis =2.6.1 =py39h6f76193_0
     - numpy =1.26.0 =py39hddb5d58_0
     - pandas =2.1.2 =py39h32e6231_0
@@ -36,9 +36,8 @@ requirements:
     - scipy =1.11.3 =py39hddb5d58_1
     - spyder-kernels =2.4.4 =win_pyh7428d3b_0
 
-    # 185 secondary packages :
+    # 184 secondary packages :
     - asttokens =2.4.1 =pyhd8ed1ab_0
-    - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - blosc =1.21.5 =hdccc3a2_0
@@ -92,7 +91,7 @@ requirements:
     - importlib_resources =6.1.0 =pyhd8ed1ab_0
     - intel-openmp =2023.2.0 =h57928b3_50497
     - ipykernel =6.26.0 =pyha63f2e9_0
-    - ipython =8.16.1 =pyh5737063_0
+    - ipython =8.17.2 =pyh5737063_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - joblib =1.3.2 =pyhd8ed1ab_0
     - jupyter_client =8.5.0 =pyhd8ed1ab_0
@@ -124,7 +123,7 @@ requirements:
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
     - libsodium =1.0.18 =h8d14728_1
-    - libsqlite =3.43.2 =hcfcfb64_0
+    - libsqlite =3.44.0 =hcfcfb64_0
     - libssh2 =1.11.0 =h7dfc565_0
     - libtiff =4.6.0 =h6e2ebb7_2
     - libvorbis =1.3.7 =h0e60522_0
@@ -139,7 +138,7 @@ requirements:
     - m2w64-gcc-libs-core =5.3.0 =7
     - m2w64-gmp =6.1.0 =2
     - m2w64-libwinpthread-git =5.0.0.4634.697f757 =2
-    - matplotlib-base =3.8.0 =py39hf19769e_2
+    - matplotlib-base =3.8.1 =py39hf19769e_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mda-xdrlib =0.2.0 =pyhd8ed1ab_0
     - mkl =2023.2.0 =h6a75c08_50496

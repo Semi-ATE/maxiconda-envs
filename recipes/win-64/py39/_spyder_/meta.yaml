@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =3.0.5 =py39h99910a6_0
-    - matplotlib =3.8.0 =py39hcbf5309_2
+    - matplotlib =3.8.1 =py39hcbf5309_0
     - numpy =1.26.0 =py39hddb5d58_0
     - pandas =2.1.2 =py39h32e6231_0
     - pyqt =5.15.9 =py39hb77abff_5
@@ -35,7 +35,7 @@ requirements:
     - spyder =5.4.5 =py39hcbf5309_0
     - sympy =1.12 =pyh04b8f61_3
 
-    # 248 secondary packages :
+    # 247 secondary packages :
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - arrow =1.3.0 =pyhd8ed1ab_0
     - astroid =2.15.8 =py39hcbf5309_0
@@ -44,7 +44,6 @@ requirements:
     - attrs =23.1.0 =pyh71513ae_1
     - autopep8 =2.0.4 =pyhd8ed1ab_0
     - babel =2.13.1 =pyhd8ed1ab_0
-    - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - bcrypt =4.0.1 =py39hf21820d_1
@@ -60,7 +59,7 @@ requirements:
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.16.0 =py39ha55989b_0
     - chardet =5.2.0 =py39hcbf5309_1
-    - charset-normalizer =3.3.1 =pyhd8ed1ab_0
+    - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - click =8.1.7 =win_pyh7428d3b_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
@@ -98,7 +97,7 @@ requirements:
     - intel-openmp =2023.2.0 =h57928b3_50497
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.26.0 =pyha63f2e9_0
-    - ipython =8.16.1 =pyh5737063_0
+    - ipython =8.17.2 =pyh5737063_0
     - ipython_genutils =0.2.0 =py_1
     - isort =5.12.0 =pyhd8ed1ab_1
     - jaraco.classes =3.3.0 =pyhd8ed1ab_0
@@ -134,7 +133,7 @@ requirements:
     - libpng =1.6.39 =h19919ed_0
     - libsodium =1.0.18 =h8d14728_1
     - libspatialindex =1.9.3 =h39d44d4_4
-    - libsqlite =3.43.2 =hcfcfb64_0
+    - libsqlite =3.44.0 =hcfcfb64_0
     - libtiff =4.6.0 =h6e2ebb7_2
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp =1.3.2 =hcfcfb64_1
@@ -149,7 +148,7 @@ requirements:
     - m2w64-libwinpthread-git =5.0.0.4634.697f757 =2
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.3 =py39ha55989b_1
-    - matplotlib-base =3.8.0 =py39hf19769e_2
+    - matplotlib-base =3.8.1 =py39hf19769e_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_0
     - mdurl =0.1.0 =pyhd8ed1ab_0

@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
     - sqlalchemy =2.0.22 =py38h01eb140_0
-    - sqlite =3.43.2 =h2c6b66d_0
+    - sqlite =3.44.0 =h2c6b66d_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.66.1 =pyhd8ed1ab_0
     - transitions =0.9.0 =pyhd8ed1ab_0
@@ -99,7 +99,7 @@ requirements:
     - cairo =1.18.0 =h3faef2a_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.16.0 =py38h6d47a40_0
-    - charset-normalizer =3.3.1 =pyhd8ed1ab_0
+    - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
@@ -214,7 +214,7 @@ requirements:
     - libsanitizer =13.2.0 =h7e041cc_2
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
-    - libsqlite =3.43.2 =h2797004_0
+    - libsqlite =3.44.0 =h2797004_0
     - libssh2 =1.11.0 =h0841786_0
     - libstdcxx-devel_linux-64 =13.2.0 =ha9c7c90_2
     - libstdcxx-ng =13.2.0 =h7e041cc_2
@@ -331,7 +331,7 @@ requirements:
     - r-dtplyr =1.3.1 =r43hc72bb7e_1
     - r-e1071 =1.7_13 =r43ha503ecb_1
     - r-ellipsis =0.3.2 =r43h57805ef_2
-    - r-evaluate =0.22 =r43hc72bb7e_0
+    - r-evaluate =0.23 =r43hc72bb7e_0
     - r-fansi =1.0.5 =r43h57805ef_0
     - r-farver =2.1.1 =r43ha503ecb_2
     - r-fastmap =1.1.1 =r43ha503ecb_1
@@ -467,7 +467,7 @@ requirements:
     - r-viridislite =0.4.2 =r43hc72bb7e_1
     - r-vroom =1.6.4 =r43ha503ecb_0
     - r-withr =2.5.2 =r43hc72bb7e_0
-    - r-xfun =0.40 =r43ha503ecb_0
+    - r-xfun =0.41 =r43ha503ecb_0
     - r-xml2 =1.3.5 =r43h1ad5fc0_0
     - r-xtable =1.8_4 =r43hc72bb7e_5
     - r-xts =0.13.1 =r43h57805ef_1
@@ -479,7 +479,7 @@ requirements:
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rpds-py =0.10.6 =py38h0cc4f7c_0
-    - ruamel.yaml =0.18.3 =py38h01eb140_0
+    - ruamel.yaml =0.18.4 =py38h01eb140_0
     - ruamel.yaml.clib =0.2.7 =py38h01eb140_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-unknown-linux-gnu =1.73.0 =hc1431ca_2

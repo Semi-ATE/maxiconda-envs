@@ -32,9 +32,9 @@ requirements:
     - cython =3.0.5 =py39h387a81e_0
     - grayskull =2.5.1 =pyhd8ed1ab_0
     - hypothesis =6.88.1 =pyha770c72_0
-    - ipython =8.16.1 =pyh0d859eb_0
+    - ipython =8.17.2 =pyh41d4057_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
-    - matplotlib =3.8.0 =py39ha65689a_2
+    - matplotlib =3.8.1 =py39ha65689a_0
     - numba =0.57.1 =py39h4aa0189_0
     - numpy =1.24.4 =py39hf88902c_0
     - openpyxl =3.1.2 =py39h898b7ef_1
@@ -57,14 +57,14 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
     - sqlalchemy =2.0.22 =py39h7cc1d5f_0
-    - sqlite =3.43.2 =h3b3482f_0
+    - sqlite =3.44.0 =h3b3482f_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.66.1 =pyhd8ed1ab_0
     - transitions =0.9.0 =pyhd8ed1ab_0
     - xlsxwriter =3.1.7 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 478 secondary packages :
+    # 477 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - _sysroot_linux-aarch64_curr_repodata_hack =4 =h57d6b7b_13
@@ -81,7 +81,6 @@ requirements:
     - attr =2.5.1 =h4e544f5_1
     - attrs =23.1.0 =pyh71513ae_1
     - babel =2.13.1 =pyhd8ed1ab_0
-    - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py39h4420490_8
@@ -99,7 +98,7 @@ requirements:
     - cairo =1.18.0 =ha13f110_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.16.0 =py39hdf53b9e_0
-    - charset-normalizer =3.3.1 =pyhd8ed1ab_0
+    - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
@@ -214,7 +213,7 @@ requirements:
     - libsanitizer =13.2.0 =h9a76618_2
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
-    - libsqlite =3.43.2 =h194ca79_0
+    - libsqlite =3.44.0 =h194ca79_0
     - libssh2 =1.11.0 =h492db2e_0
     - libstdcxx-devel_linux-aarch64 =13.2.0 =h0a96a4f_2
     - libstdcxx-ng =13.2.0 =h9a76618_2
@@ -231,7 +230,7 @@ requirements:
     - lz4-c =1.9.4 =hd600fc2_0
     - make =4.3 =h309ac5b_1
     - markupsafe =2.1.3 =py39h7cc1d5f_1
-    - matplotlib-base =3.8.0 =py39h8e43113_2
+    - matplotlib-base =3.8.1 =py39h8e43113_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mistune =3.0.1 =pyhd8ed1ab_0
     - mpc =1.3.1 =hf4c8f4c_0
@@ -330,7 +329,7 @@ requirements:
     - r-dtplyr =1.3.1 =r43hc72bb7e_1
     - r-e1071 =1.7_13 =r43h93f32a7_1
     - r-ellipsis =0.3.2 =r43h25e906a_2
-    - r-evaluate =0.22 =r43hc72bb7e_0
+    - r-evaluate =0.23 =r43hc72bb7e_0
     - r-fansi =1.0.5 =r43h25e906a_0
     - r-farver =2.1.1 =r43h93f32a7_2
     - r-fastmap =1.1.1 =r43h93f32a7_1
@@ -466,7 +465,7 @@ requirements:
     - r-viridislite =0.4.2 =r43hc72bb7e_1
     - r-vroom =1.6.4 =r43h93f32a7_0
     - r-withr =2.5.2 =r43hc72bb7e_0
-    - r-xfun =0.40 =r43h93f32a7_0
+    - r-xfun =0.41 =r43h93f32a7_0
     - r-xml2 =1.3.5 =r43h9ff23c6_0
     - r-xtable =1.8_4 =r43hc72bb7e_5
     - r-xts =0.13.1 =r43h25e906a_1
@@ -478,7 +477,7 @@ requirements:
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rpds-py =0.10.6 =py39hfe8b3a4_0
-    - ruamel.yaml =0.18.3 =py39h898b7ef_0
+    - ruamel.yaml =0.18.4 =py39h898b7ef_0
     - ruamel.yaml.clib =0.2.7 =py39h898b7ef_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-aarch64-unknown-linux-gnu =1.73.0 =ha15b78c_2
