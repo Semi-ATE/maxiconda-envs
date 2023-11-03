@@ -41,7 +41,7 @@ requirements:
     - scrapy =2.11.0 =py38h50d1736_0
     - seaborn =0.13.0 =hd8ed1ab_0
     - spyder-kernels =2.4.4 =unix_pyh707e725_0
-    - sqlalchemy =2.0.22 =py38hae2e43d_0
+    - sqlalchemy =2.0.23 =py38hae2e43d_0
     - sqlite =3.44.0 =h7461747_0
     - statsmodels =0.14.0 =py38h7092abf_2
     - xgboost =1.7.6 =cpu_py38h273ab5c_5
@@ -73,13 +73,13 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - bcrypt =4.0.1 =py38h7510fb3_1
-    - blinker =1.6.3 =pyhd8ed1ab_0
+    - blinker =1.7.0 =pyhd8ed1ab_0
     - bottleneck =1.3.7 =py38h49861b3_1
     - brotli =1.1.0 =h0dc2134_1
     - brotli-bin =1.1.0 =h0dc2134_1
     - brotli-python =1.1.0 =py38h940360d_1
     - bzip2 =1.0.8 =h0d85af4_4
-    - c-ares =1.20.1 =h10d778d_1
+    - c-ares =1.21.0 =h10d778d_0
     - ca-certificates =2023.7.22 =h8857fd0_0
     - cairo =1.18.0 =h99e66fa_0
     - catalogue =2.0.10 =py38h50d1736_0
@@ -257,8 +257,8 @@ requirements:
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.10 =py38h940360d_1
-    - mysql-common =8.0.33 =h1d20c9b_5
-    - mysql-libs =8.0.33 =hed35180_5
+    - mysql-common =8.0.33 =h1d20c9b_6
+    - mysql-libs =8.0.33 =hed35180_6
     - ncurses =6.4 =h93d8f39_2
     - nest-asyncio =1.5.8 =pyhd8ed1ab_0
     - networkx =3.1 =pyhd8ed1ab_0

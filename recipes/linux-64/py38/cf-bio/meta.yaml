@@ -50,7 +50,7 @@ requirements:
     - brotli-bin =1.1.0 =hd590300_1
     - brotli-python =1.1.0 =py38h17151c0_1
     - bzip2 =1.0.8 =h7f98852_4
-    - c-ares =1.20.1 =hd590300_1
+    - c-ares =1.21.0 =hd590300_0
     - ca-certificates =2023.7.22 =hbcca054_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
@@ -177,8 +177,8 @@ requirements:
     - mrcfile =1.4.3 =pyhd8ed1ab_0
     - msgpack-python =1.0.6 =py38h7f3f72f_0
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - mysql-common =8.0.33 =hf1915f5_5
-    - mysql-libs =8.0.33 =hca2cd23_5
+    - mysql-common =8.0.33 =hf1915f5_6
+    - mysql-libs =8.0.33 =hca2cd23_6
     - ncurses =6.4 =h59595ed_2
     - nest-asyncio =1.5.8 =pyhd8ed1ab_0
     - netcdf4 =1.6.5 =nompi_py38hd72f54f_100
@@ -232,7 +232,7 @@ requirements:
     - sip =6.7.12 =py38h17151c0_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.1.10 =h9fff704_0
-    - sqlalchemy =2.0.22 =py38h01eb140_0
+    - sqlalchemy =2.0.23 =py38h01eb140_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.0 =py38h7f0c24c_2
     - threadpoolctl =3.2.0 =pyha21a80b_0
