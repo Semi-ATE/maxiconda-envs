@@ -32,14 +32,14 @@ requirements:
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
     - pyvisa-py =0.7.1 =pyhca7485f_0
-    - spyder-kernels =2.4.4 =win_pyh7428d3b_0
+    - spyder-kernels =2.5.0 =win_pyh7428d3b_0
 
     # 94 secondary packages :
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
-    - bzip2 =1.0.8 =h8ffe710_4
+    - bzip2 =1.0.8 =hcfcfb64_5
     - ca-certificates =2023.7.22 =h56e8100_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
@@ -49,8 +49,8 @@ requirements:
     - et_xmlfile =1.1.0 =pyhd8ed1ab_0
     - executing =2.0.1 =pyhd8ed1ab_0
     - gettext =0.21.1 =h5728263_0
-    - glib =2.78.0 =h12be248_0
-    - glib-tools =2.78.0 =h12be248_0
+    - glib =2.78.1 =h12be248_0
+    - glib-tools =2.78.1 =h12be248_0
     - gst-plugins-base =1.22.6 =h001b923_2
     - gstreamer =1.22.6 =hb4038d2_2
     - icu =73.2 =h63175ca_0
@@ -60,7 +60,7 @@ requirements:
     - ipykernel =6.26.0 =pyha63f2e9_0
     - ipython =8.12.2 =pyh08f2357_0
     - jedi =0.19.1 =pyhd8ed1ab_0
-    - jupyter_client =8.5.0 =pyhd8ed1ab_0
+    - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.5.0 =py38haa244fe_0
     - krb5 =1.21.2 =heb0366b_0
     - libblas =3.9.0 =19_win64_mkl
@@ -68,7 +68,7 @@ requirements:
     - libclang =15.0.7 =default_h77d9078_3
     - libclang13 =15.0.7 =default_h77d9078_3
     - libffi =3.4.2 =h8ffe710_5
-    - libglib =2.78.0 =he8f3873_0
+    - libglib =2.78.1 =he8f3873_0
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =h8ffe710_0
     - libjpeg-turbo =3.0.0 =hcfcfb64_1

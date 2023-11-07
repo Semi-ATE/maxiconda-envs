@@ -26,7 +26,7 @@ requirements:
 
     # 2 primary packages :
     - pyqt =5.15.9 =py38h951d1d4_5
-    - spyder-kernels =2.4.4 =unix_pyh707e725_0
+    - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
 
     # 90 secondary packages :
     - appnope =0.1.3 =pyhd8ed1ab_0
@@ -34,7 +34,7 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
-    - bzip2 =1.0.8 =h3422bc3_4
+    - bzip2 =1.0.8 =h93a5062_5
     - ca-certificates =2023.7.22 =hf0a4a13_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - comm =0.1.4 =pyhd8ed1ab_0
@@ -42,8 +42,8 @@ requirements:
     - decorator =5.1.1 =pyhd8ed1ab_0
     - executing =2.0.1 =pyhd8ed1ab_0
     - gettext =0.21.1 =h0186832_0
-    - glib =2.78.0 =ha614eb4_0
-    - glib-tools =2.78.0 =ha614eb4_0
+    - glib =2.78.1 =h9e231a4_0
+    - glib-tools =2.78.1 =h9e231a4_0
     - gst-plugins-base =1.22.6 =h27255cc_2
     - gstreamer =1.22.6 =h8c52bba_2
     - icu =73.2 =hc8870d7_0
@@ -52,7 +52,7 @@ requirements:
     - ipykernel =6.26.0 =pyh3cd1d5f_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - jedi =0.19.1 =pyhd8ed1ab_0
-    - jupyter_client =8.5.0 =pyhd8ed1ab_0
+    - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.5.0 =py38h10201cd_0
     - krb5 =1.21.2 =h92f50d5_0
     - libclang =15.0.7 =default_h5dc8d65_3
@@ -60,7 +60,7 @@ requirements:
     - libcxx =16.0.6 =h4653b0c_0
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libffi =3.4.2 =h3422bc3_5
-    - libglib =2.78.0 =h24e9cb9_0
+    - libglib =2.78.1 =hd9b11f9_0
     - libiconv =1.17 =he4db4b2_0
     - libjpeg-turbo =3.0.0 =hb547adb_1
     - libllvm15 =15.0.7 =h504e6bf_3

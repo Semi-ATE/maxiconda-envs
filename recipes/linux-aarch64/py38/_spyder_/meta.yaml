@@ -57,7 +57,7 @@ requirements:
     - brotli =1.1.0 =h31becfc_1
     - brotli-bin =1.1.0 =h31becfc_1
     - brotli-python =1.1.0 =py38hb83fbf6_1
-    - bzip2 =1.0.8 =hf897c2e_4
+    - bzip2 =1.0.8 =h31becfc_5
     - ca-certificates =2023.7.22 =hcefe29a_0
     - cairo =1.18.0 =ha13f110_0
     - certifi =2023.7.22 =pyhd8ed1ab_0
@@ -95,8 +95,8 @@ requirements:
     - freetype =2.12.1 =hf0a5ef3_2
     - gettext =0.21.1 =ha18d298_0
     - giflib =5.2.1 =hb4cce97_3
-    - glib =2.78.0 =hd84c7bf_0
-    - glib-tools =2.78.0 =hd84c7bf_0
+    - glib =2.78.1 =hd84c7bf_0
+    - glib-tools =2.78.1 =hd84c7bf_0
     - gmp =6.2.1 =h7fd3ca4_0
     - gmpy2 =2.1.2 =py38hff653fa_1
     - graphite2 =1.3.13 =h7fd3ca4_1001
@@ -123,7 +123,7 @@ requirements:
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - jsonschema =4.19.2 =pyhd8ed1ab_0
     - jsonschema-specifications =2023.7.1 =pyhd8ed1ab_0
-    - jupyter_client =8.5.0 =pyhd8ed1ab_0
+    - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.5.0 =py38he3eb160_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
     - keyring =24.2.0 =py38he3eb160_1
@@ -132,7 +132,7 @@ requirements:
     - krb5 =1.21.2 =hc419048_0
     - lame =3.100 =h4e544f5_1003
     - lazy-object-proxy =1.9.0 =py38h9579f32_1
-    - lcms2 =2.15 =h2df2c41_2
+    - lcms2 =2.15 =h922389a_3
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
     - libblas =3.9.0 =19_linuxaarch64_openblas
@@ -154,11 +154,11 @@ requirements:
     - libgcrypt =1.10.1 =h4e544f5_0
     - libgfortran-ng =13.2.0 =he9431aa_2
     - libgfortran5 =13.2.0 =h582850c_2
-    - libglib =2.78.0 =h0464669_0
+    - libglib =2.78.1 =h0464669_0
     - libgomp =13.2.0 =hf8544c7_2
     - libgpg-error =1.47 =h5ce24db_0
     - libiconv =1.17 =h9cdd2b7_0
-    - libjpeg-turbo =2.1.5.1 =h31becfc_1
+    - libjpeg-turbo =3.0.0 =h31becfc_1
     - liblapack =3.9.0 =19_linuxaarch64_openblas
     - libllvm15 =15.0.7 =hc720cd8_3
     - libnsl =2.0.1 =h31becfc_0
@@ -166,17 +166,17 @@ requirements:
     - libopenblas =0.3.24 =pthreads_h5a5ec62_0
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
-    - libpq =15.4 =h04b8c23_2
+    - libpq =16.0 =h04b8c23_1
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =1.9.3 =h01db608_4
     - libsqlite =3.44.0 =h194ca79_0
     - libstdcxx-ng =13.2.0 =h9a76618_2
     - libsystemd0 =254 =h91e93f8_0
-    - libtiff =4.6.0 =hffba272_1
+    - libtiff =4.6.0 =h1708d11_2
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
-    - libwebp =1.3.2 =h850206a_0
+    - libwebp =1.3.2 =heb2ea1b_1
     - libwebp-base =1.3.2 =h31becfc_0
     - libxcb =1.15 =h2a766a3_0
     - libxkbcommon =1.6.0 =h307e02a_0
@@ -200,9 +200,9 @@ requirements:
     - mysql-common =8.0.33 =hb6794ad_6
     - mysql-libs =8.0.33 =hf629957_6
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert =7.10.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.10.0 =pyhd8ed1ab_0
-    - nbconvert-pandoc =7.10.0 =pyhd8ed1ab_0
+    - nbconvert =7.11.0 =pyhd8ed1ab_0
+    - nbconvert-core =7.11.0 =pyhd8ed1ab_0
+    - nbconvert-pandoc =7.11.0 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h0425590_2
     - nest-asyncio =1.5.8 =pyhd8ed1ab_0
@@ -219,7 +219,7 @@ requirements:
     - pcre2 =10.40 =he7b27c6_0
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
-    - pillow =10.0.1 =py38h7d768ba_1
+    - pillow =10.1.0 =py38hf904494_0
     - pip =23.3.1 =pyhd8ed1ab_0
     - pixman =0.42.2 =h2f0025b_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
@@ -261,8 +261,8 @@ requirements:
     - pyzmq =25.1.1 =py38h6a3a231_1
     - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.8 =h8e8b9a1_16
-    - qt-webengine =5.15.8 =h4d62b09_3
+    - qt-main =5.15.8 =hc564a22_17
+    - qt-webengine =5.15.8 =hb6addb8_4
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.4.4 =pyhd8ed1ab_0
     - qtconsole-base =5.4.4 =pyha770c72_0

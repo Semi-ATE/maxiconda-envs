@@ -34,7 +34,7 @@ requirements:
     - pyqt =5.15.9 =py38he1c912d_5
     - rdkit =2023.09.1 =py38h079a94c_0
     - scipy =1.10.1 =py38h9cf86d3_3
-    - spyder-kernels =2.4.4 =unix_pyh707e725_0
+    - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
 
     # 196 secondary packages :
     - appnope =0.1.3 =pyhd8ed1ab_0
@@ -46,7 +46,7 @@ requirements:
     - brotli =1.1.0 =h0dc2134_1
     - brotli-bin =1.1.0 =h0dc2134_1
     - brotli-python =1.1.0 =py38h940360d_1
-    - bzip2 =1.0.8 =h0d85af4_4
+    - bzip2 =1.0.8 =h10d778d_5
     - c-ares =1.21.0 =h10d778d_0
     - ca-certificates =2023.7.22 =h8857fd0_0
     - cached-property =1.5.2 =hd8ed1ab_1
@@ -77,8 +77,8 @@ requirements:
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h8a4c099_0
     - glew =2.1.0 =h046ec9c_2
-    - glib =2.78.0 =h7d26f99_0
-    - glib-tools =2.78.0 =h7d26f99_0
+    - glib =2.78.1 =hf4d7fad_0
+    - glib-tools =2.78.1 =hf4d7fad_0
     - glm =0.9.9.8 =h1c7c39f_0
     - greenlet =3.0.1 =py38hb2f96d7_0
     - griddataformats =1.0.1 =pyhd8ed1ab_0
@@ -98,7 +98,7 @@ requirements:
     - ipython =8.12.2 =pyhd1c38e8_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - joblib =1.3.2 =pyhd8ed1ab_0
-    - jupyter_client =8.5.0 =pyhd8ed1ab_0
+    - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.5.0 =py38h50d1736_0
     - kiwisolver =1.4.5 =py38h15a1a5b_1
     - krb5 =1.21.2 =hb884880_0
@@ -123,7 +123,7 @@ requirements:
     - libffi =3.4.2 =h0d85af4_5
     - libgfortran =5.0.0 =13_2_0_h97931a8_1
     - libgfortran5 =13.2.0 =h2873a65_1
-    - libglib =2.78.0 =hc62aa5d_0
+    - libglib =2.78.1 =h6d9ecee_0
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =19_osx64_openblas
