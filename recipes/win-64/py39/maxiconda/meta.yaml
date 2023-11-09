@@ -35,8 +35,8 @@ requirements:
     - ipython =8.17.2 =pyh5737063_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.8.1 =py39hcbf5309_0
-    - numba =0.57.1 =py39hadaa1c4_0
-    - numpy =1.24.4 =py39h816b6a6_0
+    - numba =0.58.1 =py39h6836801_0
+    - numpy =1.26.0 =py39hddb5d58_0
     - openpyxl =3.1.2 =py39ha55989b_1
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.1.2 =py39h32e6231_0
@@ -151,7 +151,7 @@ requirements:
     - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
     - jupyterlab =4.0.8 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
-    - jupyterlab_server =2.25.0 =pyhd8ed1ab_0
+    - jupyterlab_server =2.25.1 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py39h1f6ef14_1
     - krb5 =1.21.2 =heb0366b_0
     - lcms2 =2.15 =h67d730c_3
@@ -181,7 +181,7 @@ requirements:
     - libxcb =1.15 =hcd874cb_0
     - libxml2 =2.11.5 =hc3477c8_1
     - libzlib =1.2.13 =hcfcfb64_5
-    - llvmlite =0.40.1 =py39hd28a505_0
+    - llvmlite =0.41.1 =py39hd28a505_0
     - m2w64-bwidget =1.9.10 =2
     - m2w64-bzip2 =1.0.6 =6
     - m2w64-expat =2.1.1 =2
@@ -361,7 +361,7 @@ requirements:
     - r-magrittr =2.0.3 =r41h6d2157b_2
     - r-maps =3.4.1.1 =r41h6d2157b_0
     - r-mass =7.3_58.3 =r41h6d2157b_0
-    - r-matrix =1.6_1.1 =r41hb9981e2_0
+    - r-matrix =1.6_2 =r41hb9981e2_0
     - r-memoise =2.0.1 =r41hc72bb7e_1
     - r-mgcv =1.9_0 =r41hb9981e2_0
     - r-mime =0.12 =r41h6d2157b_2
