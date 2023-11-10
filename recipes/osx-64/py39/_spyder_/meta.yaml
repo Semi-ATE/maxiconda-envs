@@ -32,7 +32,7 @@ requirements:
     - pyqt =5.15.9 =py39h3dce684_5
     - pyqtwebengine =5.15.9 =py39h6ed9014_5
     - scipy =1.11.3 =py39h2145d6e_1
-    - spyder =5.5.0 =py39h6e9494a_0
+    - spyder =5.5.0 =py39h6e9494a_1
     - sympy =1.12 =pypyh9d50eac_103
 
     # 248 secondary packages :
@@ -101,7 +101,7 @@ requirements:
     - ipython =8.17.2 =pyh31c8845_0
     - isort =5.12.0 =pyhd8ed1ab_1
     - jaraco.classes =3.3.0 =pyhd8ed1ab_0
-    - jedi =0.18.2 =pyhd8ed1ab_0
+    - jedi =0.19.1 =pyhd8ed1ab_0
     - jellyfish =1.0.1 =py39hf33989b_1
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - jsonschema =4.19.2 =pyhd8ed1ab_0
@@ -136,7 +136,7 @@ requirements:
     - libopenblas =0.3.24 =openmp_h48a4ad5_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.39 =ha978bb4_0
-    - libpq =16.0 =h3df487d_1
+    - libpq =16.1 =h6dd4ff7_0
     - libsodium =1.0.18 =hbcb3906_1
     - libspatialindex =1.9.3 =he49afe7_4
     - libsqlite =3.44.0 =h92b6c6a_0
@@ -235,7 +235,7 @@ requirements:
     - referencing =0.30.2 =pyhd8ed1ab_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rich =13.6.0 =pyhd8ed1ab_0
-    - rope =1.11.0 =pyhd8ed1ab_0
+    - rope =1.11.0 =pyhd8ed1ab_1
     - rpds-py =0.12.0 =py39h3f9c672_0
     - rtree =1.1.0 =py39h7d0d40a_0
     - setuptools =68.2.2 =pyhd8ed1ab_0

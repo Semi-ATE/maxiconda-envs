@@ -56,19 +56,19 @@ requirements:
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.5 =h45736e2_2
+    - aws-c-auth =0.7.5 =h3724742_3
     - aws-c-cal =0.6.9 =h01c20f0_0
     - aws-c-common =0.9.5 =h10d778d_0
     - aws-c-compression =0.2.17 =ha78fcfa_5
     - aws-c-event-stream =0.3.2 =h1738cac_5
-    - aws-c-http =0.7.13 =hbc44fbd_9
+    - aws-c-http =0.7.14 =hbc44fbd_0
     - aws-c-io =0.13.35 =ha5bf2a1_7
-    - aws-c-mqtt =0.9.8 =h6908946_1
-    - aws-c-s3 =0.3.22 =hb08bd98_1
+    - aws-c-mqtt =0.9.8 =h5727053_2
+    - aws-c-s3 =0.3.22 =hf862c59_2
     - aws-c-sdkutils =0.1.12 =ha78fcfa_4
     - aws-checksums =0.1.17 =ha78fcfa_4
-    - aws-crt-cpp =0.24.4 =hbf586ac_5
-    - aws-sdk-cpp =1.11.182 =h6be1521_3
+    - aws-crt-cpp =0.24.5 =h4eb6da0_1
+    - aws-sdk-cpp =1.11.182 =h8a7c8da_4
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -183,13 +183,13 @@ requirements:
     - lcms2 =2.15 =hd6ba6f3_3
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230802.1 =cxx17_h048a20a_0
-    - libarrow =14.0.0 =heee2434_0_cpu
-    - libarrow-acero =14.0.0 =hc222712_0_cpu
-    - libarrow-dataset =14.0.0 =hc222712_0_cpu
-    - libarrow-flight =14.0.0 =h440f1c2_0_cpu
-    - libarrow-flight-sql =14.0.0 =h2cc6c1c_0_cpu
-    - libarrow-gandiva =14.0.0 =heeebe7c_0_cpu
-    - libarrow-substrait =14.0.0 =h2cc6c1c_0_cpu
+    - libarrow =14.0.1 =hcf474e5_1_cpu
+    - libarrow-acero =14.0.1 =hc222712_1_cpu
+    - libarrow-dataset =14.0.1 =hc222712_1_cpu
+    - libarrow-flight =14.0.1 =ha1803ca_1_cpu
+    - libarrow-flight-sql =14.0.1 =h8ec153b_1_cpu
+    - libarrow-gandiva =14.0.1 =heeebe7c_1_cpu
+    - libarrow-substrait =14.0.1 =h8ec153b_1_cpu
     - libblas =3.9.0 =19_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
@@ -221,9 +221,9 @@ requirements:
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.24 =openmp_h48a4ad5_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =14.0.0 =h27bd29f_0_cpu
+    - libparquet =14.0.1 =h27bd29f_1_cpu
     - libpng =1.6.39 =ha978bb4_0
-    - libpq =16.0 =h3df487d_1
+    - libpq =16.1 =h6dd4ff7_0
     - libprotobuf =4.24.4 =h0ee05dc_0
     - libre2-11 =2023.06.02 =h4694dbf_0
     - librsvg =2.56.3 =hec3db73_0
@@ -309,7 +309,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py38h273ab5c_5
-    - pyarrow =14.0.0 =py38hffdeace_0_cpu
+    - pyarrow =14.0.1 =py38hffdeace_1_cpu
     - pyasn1 =0.5.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -377,7 +377,7 @@ requirements:
     - thinc =8.2.1 =py38h820b6e8_0
     - threadpoolctl =3.2.0 =pyha21a80b_0
     - tk =8.6.13 =h1abcd95_1
-    - tldextract =5.1.0 =pyhd8ed1ab_0
+    - tldextract =5.1.0 =pyhd8ed1ab_1
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.3.3 =py38hcafd530_1
