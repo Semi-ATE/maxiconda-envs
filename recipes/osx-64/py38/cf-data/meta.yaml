@@ -56,19 +56,19 @@ requirements:
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.5 =h3724742_3
-    - aws-c-cal =0.6.9 =h01c20f0_0
-    - aws-c-common =0.9.5 =h10d778d_0
-    - aws-c-compression =0.2.17 =ha78fcfa_5
-    - aws-c-event-stream =0.3.2 =h1738cac_5
-    - aws-c-http =0.7.14 =hbc44fbd_0
-    - aws-c-io =0.13.35 =ha5bf2a1_7
-    - aws-c-mqtt =0.9.8 =h5727053_2
-    - aws-c-s3 =0.3.22 =hf862c59_2
-    - aws-c-sdkutils =0.1.12 =ha78fcfa_4
-    - aws-checksums =0.1.17 =ha78fcfa_4
-    - aws-crt-cpp =0.24.5 =h4eb6da0_1
-    - aws-sdk-cpp =1.11.182 =h8a7c8da_4
+    - aws-c-auth =0.7.5 =hc3630cc_4
+    - aws-c-cal =0.6.9 =h49e9720_1
+    - aws-c-common =0.9.8 =h10d778d_0
+    - aws-c-compression =0.2.17 =hff1f2c8_6
+    - aws-c-event-stream =0.3.2 =hb6e475e_6
+    - aws-c-http =0.7.14 =h950a07a_1
+    - aws-c-io =0.13.35 =hb98174f_8
+    - aws-c-mqtt =0.9.9 =h5e4a26e_0
+    - aws-c-s3 =0.3.22 =hebde1ec_3
+    - aws-c-sdkutils =0.1.12 =hff1f2c8_5
+    - aws-checksums =0.1.17 =hff1f2c8_5
+    - aws-crt-cpp =0.24.5 =h788c88f_3
+    - aws-sdk-cpp =1.11.182 =h8f92232_5
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -141,7 +141,7 @@ requirements:
     - glib =2.78.1 =hf4d7fad_0
     - glib-tools =2.78.1 =hf4d7fad_0
     - glog =0.6.0 =h8ac2a54_0
-    - gmp =6.2.1 =h2e338ed_0
+    - gmp =6.3.0 =h93d8f39_0
     - gmpy2 =2.1.2 =py38h919de47_1
     - graphite2 =1.3.13 =h2e338ed_1001
     - graphviz =8.1.0 =hc7f41f9_0
@@ -300,8 +300,8 @@ requirements:
     - preshed =3.0.9 =py38h940360d_1
     - prometheus_client =0.18.0 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.23.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.39 =pyha770c72_0
-    - prompt_toolkit =3.0.39 =hd8ed1ab_0
+    - prompt-toolkit =3.0.40 =pyha770c72_0
+    - prompt_toolkit =3.0.40 =hd8ed1ab_0
     - protego =0.3.0 =pyhd8ed1ab_0
     - protobuf =4.24.4 =py38h6758674_0
     - psutil =5.9.5 =py38hcafd530_1
