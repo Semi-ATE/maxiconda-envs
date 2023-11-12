@@ -30,7 +30,7 @@ requirements:
     - lightgbm =4.1.0 =py39h86ebb63_2
     - matplotlib =3.8.1 =py39h6e9494a_0
     - numpy =1.26.0 =py39h5c76802_0
-    - pandas =2.1.2 =py39h5d65943_0
+    - pandas =2.1.3 =py39h5d65943_0
     - plotly =5.18.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =1.4.2 =py39h6e9494a_4
@@ -56,7 +56,7 @@ requirements:
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.5 =hc3630cc_4
+    - aws-c-auth =0.7.6 =hc3630cc_0
     - aws-c-cal =0.6.9 =h49e9720_1
     - aws-c-common =0.9.8 =h10d778d_0
     - aws-c-compression =0.2.17 =hff1f2c8_6
@@ -64,10 +64,10 @@ requirements:
     - aws-c-http =0.7.14 =h950a07a_1
     - aws-c-io =0.13.35 =hb98174f_8
     - aws-c-mqtt =0.9.9 =h5e4a26e_0
-    - aws-c-s3 =0.3.22 =hebde1ec_3
+    - aws-c-s3 =0.3.23 =hb1cbb54_1
     - aws-c-sdkutils =0.1.12 =hff1f2c8_5
     - aws-checksums =0.1.17 =hff1f2c8_5
-    - aws-crt-cpp =0.24.5 =h788c88f_3
+    - aws-crt-cpp =0.24.5 =h7eda119_5
     - aws-sdk-cpp =1.11.182 =h8f92232_5
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -294,7 +294,7 @@ requirements:
     - pillow =10.1.0 =py39hdd30358_0
     - pip =23.3.1 =pyhd8ed1ab_0
     - pixman =0.42.2 =he965462_0
-    - platformdirs =3.11.0 =pyhd8ed1ab_0
+    - platformdirs =4.0.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - preshed =3.0.9 =py39h840bb9f_1
     - prometheus_client =0.18.0 =pyhd8ed1ab_0

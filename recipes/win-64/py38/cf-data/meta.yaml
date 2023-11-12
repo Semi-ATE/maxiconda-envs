@@ -53,7 +53,7 @@ requirements:
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.5 =h2364229_4
+    - aws-c-auth =0.7.6 =h2364229_0
     - aws-c-cal =0.6.9 =hde771f8_1
     - aws-c-common =0.9.8 =hcfcfb64_0
     - aws-c-compression =0.2.17 =hde771f8_6
@@ -61,10 +61,10 @@ requirements:
     - aws-c-http =0.7.14 =h0e17c8e_1
     - aws-c-io =0.13.35 =h56d495d_8
     - aws-c-mqtt =0.9.9 =hd1ff352_0
-    - aws-c-s3 =0.3.22 =hf6df343_3
+    - aws-c-s3 =0.3.23 =hec067e0_1
     - aws-c-sdkutils =0.1.12 =hde771f8_5
     - aws-checksums =0.1.17 =hde771f8_5
-    - aws-crt-cpp =0.24.5 =hf157e0c_3
+    - aws-crt-cpp =0.24.5 =hb03f413_5
     - aws-sdk-cpp =1.11.182 =hb23311d_5
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
@@ -267,7 +267,7 @@ requirements:
     - pillow =10.1.0 =py38hc375fad_0
     - pip =23.3.1 =pyhd8ed1ab_0
     - pixman =0.42.2 =h63175ca_0
-    - platformdirs =3.11.0 =pyhd8ed1ab_0
+    - platformdirs =4.0.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pooch =1.8.0 =pyhd8ed1ab_0
     - preshed =3.0.9 =py38hd3f51b4_1

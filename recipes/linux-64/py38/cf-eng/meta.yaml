@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.1 =pyhca7485f_0
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
 
-    # 160 secondary packages :
+    # 159 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.10 =hd590300_0
@@ -139,7 +139,7 @@ requirements:
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pip =23.3.1 =pyhd8ed1ab_0
     - pixman =0.42.2 =h59595ed_0
-    - platformdirs =3.11.0 =pyhd8ed1ab_0
+    - platformdirs =4.0.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - prompt-toolkit =3.0.40 =pyha770c72_0
     - prompt_toolkit =3.0.40 =hd8ed1ab_0
@@ -167,7 +167,6 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.3.3 =py38h01eb140_1
     - traitlets =5.13.0 =pyhd8ed1ab_0
-    - typing-extensions =4.8.0 =hd8ed1ab_0
     - typing_extensions =4.8.0 =pyha770c72_0
     - wcwidth =0.2.9 =pyhd8ed1ab_0
     - wheel =0.41.3 =pyhd8ed1ab_0
