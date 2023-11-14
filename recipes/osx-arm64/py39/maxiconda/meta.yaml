@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - cython =3.0.5 =py39h4ce5507_0
     - grayskull =2.5.1 =pyhd8ed1ab_0
-    - hypothesis =6.88.3 =pyha770c72_0
+    - hypothesis =6.88.4 =pyha770c72_0
     - ipython =8.17.2 =pyh31c8845_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.8.1 =py39hdf13c20_0
@@ -95,11 +95,11 @@ requirements:
     - certifi =2023.7.22 =pyhd8ed1ab_0
     - cffi =1.16.0 =py39he153c15_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
-    - clang =16.0.6 =he79909e_1
-    - clang-16 =16.0.6 =default_h07b2d96_1
+    - clang =16.0.6 =he79909e_2
+    - clang-16 =16.0.6 =default_h07b2d96_2
     - clang_impl_osx-arm64 =16.0.6 =hc421ffc_6
     - clang_osx-arm64 =16.0.6 =h54d7cd3_6
-    - clangxx =16.0.6 =default_h298e243_1
+    - clangxx =16.0.6 =default_h298e243_2
     - clangxx_impl_osx-arm64 =16.0.6 =hcd7bac0_6
     - clangxx_osx-arm64 =16.0.6 =hc421ffc_6
     - click =8.1.7 =unix_pyh707e725_0
@@ -180,7 +180,7 @@ requirements:
     - libbrotlienc =1.1.0 =hb547adb_1
     - libcblas =3.9.0 =19_osxarm64_openblas
     - libclang =15.0.7 =default_h5dc8d65_3
-    - libclang-cpp16 =16.0.6 =default_h07b2d96_1
+    - libclang-cpp16 =16.0.6 =default_h07b2d96_2
     - libclang13 =15.0.7 =default_hc7183e1_3
     - libcurl =8.4.0 =h2d989ff_0
     - libcxx =16.0.6 =h4653b0c_0
@@ -431,7 +431,7 @@ requirements:
     - r-sourcetools =0.1.7_1 =r43he62749d_1
     - r-spatial =7.3_17 =r43h21dc0da_0
     - r-squarem =2021.1 =r43hc72bb7e_2
-    - r-stringi =1.7.12 =r43h31e90fb_3
+    - r-stringi =1.8.1 =r43ha87ad83_0
     - r-stringr =1.5.0 =r43h785f33e_1
     - r-survival =3.5_7 =r43h21dc0da_0
     - r-sys =3.4.2 =r43h21dc0da_1
