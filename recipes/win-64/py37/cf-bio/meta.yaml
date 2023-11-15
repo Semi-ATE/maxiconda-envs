@@ -74,8 +74,8 @@ requirements:
     - greenlet =1.1.3 =py37hf2a7229_0
     - griddataformats =0.7.0 =pyhd8ed1ab_0
     - gsd =2.6.0 =py37h3a130e4_0
-    - gst-plugins-base =1.22.6 =h001b923_2
-    - gstreamer =1.22.6 =hb4038d2_2
+    - gst-plugins-base =1.22.7 =h001b923_0
+    - gstreamer =1.22.7 =hb4038d2_0
     - hdf4 =4.2.15 =h1b1b6ef_5
     - hdf5 =1.12.2 =nompi_h57737ce_101
     - icu =70.1 =h0e60522_0
@@ -149,7 +149,7 @@ requirements:
     - pixman =0.42.2 =h63175ca_0
     - ply =3.11 =py_1
     - pmw =2.0.1 =py37h03978a9_1006
-    - prompt-toolkit =3.0.40 =pyha770c72_0
+    - prompt-toolkit =3.0.41 =pyha770c72_0
     - psutil =5.9.3 =py37h51bd9d9_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
@@ -187,7 +187,7 @@ requirements:
     - vc =14.3 =h64f974e_17
     - vc14_runtime =14.36.32532 =hdcecf7f_17
     - vs2015_runtime =14.36.32532 =h05e6639_17
-    - wcwidth =0.2.9 =pyhd8ed1ab_0
+    - wcwidth =0.2.10 =pyhd8ed1ab_0
     - wheel =0.41.3 =pyhd8ed1ab_0
     - xorg-libxau =1.0.11 =hcd874cb_0
     - xorg-libxdmcp =1.1.3 =hcd874cb_0

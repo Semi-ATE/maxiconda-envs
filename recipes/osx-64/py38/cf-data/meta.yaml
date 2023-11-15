@@ -67,8 +67,8 @@ requirements:
     - aws-c-s3 =0.3.23 =hb1cbb54_1
     - aws-c-sdkutils =0.1.12 =hff1f2c8_5
     - aws-checksums =0.1.17 =hff1f2c8_5
-    - aws-crt-cpp =0.24.5 =h7eda119_5
-    - aws-sdk-cpp =1.11.182 =h8f92232_5
+    - aws-crt-cpp =0.24.6 =h7eda119_0
+    - aws-sdk-cpp =1.11.182 =h06c5342_6
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
@@ -123,7 +123,7 @@ requirements:
     - fontconfig =2.14.2 =h5bb23bf_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.44.0 =py38hae2e43d_0
+    - fonttools =4.44.1 =py38hae2e43d_0
     - freetype =2.12.1 =h60636b9_2
     - fribidi =1.0.10 =hbcb3906_0
     - fsspec =2023.10.0 =pyhca7485f_0
@@ -146,12 +146,12 @@ requirements:
     - graphite2 =1.3.13 =h2e338ed_1001
     - graphviz =8.1.0 =hc7f41f9_0
     - greenlet =3.0.1 =py38hb2f96d7_0
-    - gst-plugins-base =1.22.6 =hb5d3a86_2
-    - gstreamer =1.22.6 =h840fbdc_2
+    - gst-plugins-base =1.22.7 =hd283e88_0
+    - gstreamer =1.22.7 =h8954545_0
     - gtk2 =2.24.33 =h7c1209e_2
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =21.2.0 =py38h50d1736_1
-    - harfbuzz =8.2.1 =h7666e2a_0
+    - harfbuzz =8.3.0 =hf45c392_0
     - htmlmin =0.1.12 =py_1
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =73.2 =hf5e326d_0
@@ -183,13 +183,13 @@ requirements:
     - lcms2 =2.15 =hd6ba6f3_3
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230802.1 =cxx17_h048a20a_0
-    - libarrow =14.0.1 =hcf474e5_1_cpu
-    - libarrow-acero =14.0.1 =hc222712_1_cpu
-    - libarrow-dataset =14.0.1 =hc222712_1_cpu
-    - libarrow-flight =14.0.1 =ha1803ca_1_cpu
-    - libarrow-flight-sql =14.0.1 =h8ec153b_1_cpu
-    - libarrow-gandiva =14.0.1 =heeebe7c_1_cpu
-    - libarrow-substrait =14.0.1 =h8ec153b_1_cpu
+    - libarrow =14.0.1 =h3b78187_2_cpu
+    - libarrow-acero =14.0.1 =hc222712_2_cpu
+    - libarrow-dataset =14.0.1 =hc222712_2_cpu
+    - libarrow-flight =14.0.1 =h440f1c2_2_cpu
+    - libarrow-flight-sql =14.0.1 =h2cc6c1c_2_cpu
+    - libarrow-gandiva =14.0.1 =heeebe7c_2_cpu
+    - libarrow-substrait =14.0.1 =h2cc6c1c_2_cpu
     - libblas =3.9.0 =19_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
@@ -221,7 +221,7 @@ requirements:
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.24 =openmp_h48a4ad5_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =14.0.1 =h27bd29f_1_cpu
+    - libparquet =14.0.1 =h27bd29f_2_cpu
     - libpng =1.6.39 =ha978bb4_0
     - libpq =16.1 =h6dd4ff7_0
     - libprotobuf =4.24.4 =h0ee05dc_0
@@ -243,7 +243,7 @@ requirements:
     - libxml2 =2.11.5 =h3346baf_1
     - libxslt =1.1.37 =h20bfa82_1
     - libzlib =1.2.13 =h8a1eda9_5
-    - llvm-openmp =17.0.4 =hb6ac08f_0
+    - llvm-openmp =17.0.5 =hb6ac08f_0
     - llvmlite =0.41.1 =py38h6008ce5_0
     - lxml =4.9.3 =py38h2d3ed51_1
     - lz4-c =1.9.4 =hf0c8a7f_0
@@ -298,10 +298,10 @@ requirements:
     - ply =3.11 =py_1
     - pooch =1.8.0 =pyhd8ed1ab_0
     - preshed =3.0.9 =py38h940360d_1
-    - prometheus_client =0.18.0 =pyhd8ed1ab_0
+    - prometheus_client =0.18.0 =pyhd8ed1ab_1
     - prometheus_flask_exporter =0.23.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.40 =pyha770c72_0
-    - prompt_toolkit =3.0.40 =hd8ed1ab_0
+    - prompt-toolkit =3.0.41 =pyha770c72_0
+    - prompt_toolkit =3.0.41 =hd8ed1ab_0
     - protego =0.3.0 =pyhd8ed1ab_0
     - protobuf =4.24.4 =py38h6758674_0
     - psutil =5.9.5 =py38hcafd530_1
@@ -309,13 +309,13 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py38h273ab5c_5
-    - pyarrow =14.0.1 =py38hffdeace_1_cpu
+    - pyarrow =14.0.1 =py38hffdeace_2_cpu
     - pyasn1 =0.5.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic =2.4.2 =pyhd8ed1ab_1
-    - pydantic-core =2.10.1 =py38h7510fb3_0
+    - pydantic =2.5.0 =pyhd8ed1ab_0
+    - pydantic-core =2.14.1 =py38h51dbebd_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.16.1 =pyhd8ed1ab_0
@@ -389,11 +389,11 @@ requirements:
     - typing_extensions =4.8.0 =pyha770c72_0
     - umap-learn =0.5.4 =py38h50d1736_0
     - unicodedata2 =15.1.0 =py38hcafd530_0
-    - urllib3 =2.0.7 =pyhd8ed1ab_0
+    - urllib3 =2.1.0 =pyhd8ed1ab_0
     - visions =0.7.1 =pyhd8ed1ab_0
     - w3lib =2.1.2 =pyhd8ed1ab_0
     - wasabi =1.1.2 =py38h50d1736_0
-    - wcwidth =0.2.9 =pyhd8ed1ab_0
+    - wcwidth =0.2.10 =pyhd8ed1ab_0
     - weasel =0.3.4 =pyhd8ed1ab_0
     - websocket-client =1.6.4 =pyhd8ed1ab_0
     - werkzeug =3.0.1 =pyhd8ed1ab_0

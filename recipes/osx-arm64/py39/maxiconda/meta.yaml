@@ -40,7 +40,7 @@ requirements:
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.1.3 =py39hf8cecc8_0
     - psutil =5.9.5 =py39h0f82c59_1
-    - pydantic =2.4.2 =pyhd8ed1ab_1
+    - pydantic =2.5.0 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py39hcf430f4_5
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =7.4.3 =pyhd8ed1ab_0
@@ -127,7 +127,7 @@ requirements:
     - fontconfig =2.14.2 =h82840c6_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.44.0 =py39h17cfd9d_0
+    - fonttools =4.44.1 =py39h17cfd9d_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.12.1 =hadb7bae_2
     - fribidi =1.0.10 =h27ca646_0
@@ -141,9 +141,9 @@ requirements:
     - gmpy2 =2.1.2 =py39h0b4f9c6_1
     - graphite2 =1.3.13 =h9f76cd9_1001
     - greenlet =3.0.1 =py39h4ce5507_0
-    - gst-plugins-base =1.22.6 =h27255cc_2
-    - gstreamer =1.22.6 =h8c52bba_2
-    - harfbuzz =8.2.1 =hf1a6348_0
+    - gst-plugins-base =1.22.7 =h040e9b9_0
+    - gstreamer =1.22.7 =hd492984_0
+    - harfbuzz =8.3.0 =h8f0ba13_0
     - icu =73.2 =hc8870d7_0
     - idna =3.4 =pyhd8ed1ab_0
     - importlib-metadata =6.8.0 =pyha770c72_0
@@ -214,7 +214,7 @@ requirements:
     - libxcb =1.15 =hf346824_0
     - libxml2 =2.11.5 =h25269f3_1
     - libzlib =1.2.13 =h53f4e23_5
-    - llvm-openmp =17.0.4 =hcd81f8e_0
+    - llvm-openmp =17.0.5 =hcd81f8e_0
     - llvm-tools =16.0.6 =he79909e_2
     - llvmlite =0.41.1 =py39h047a24b_0
     - make =4.3 =he57ea6c_1
@@ -258,14 +258,14 @@ requirements:
     - pluggy =1.3.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - progressbar2 =4.2.0 =pyhd8ed1ab_0
-    - prometheus_client =0.18.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.40 =pyha770c72_0
-    - prompt_toolkit =3.0.40 =hd8ed1ab_0
+    - prometheus_client =0.18.0 =pyhd8ed1ab_1
+    - prompt-toolkit =3.0.41 =pyha770c72_0
+    - prompt_toolkit =3.0.41 =hd8ed1ab_0
     - pthread-stubs =0.4 =h27ca646_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic-core =2.10.1 =py39haff01fd_0
+    - pydantic-core =2.14.1 =py39h8fec3ad_0
     - pygments =2.16.1 =pyhd8ed1ab_0
     - pyobjc-core =10.0 =py39h4d1a642_0
     - pyobjc-framework-cocoa =10.0 =py39h4d1a642_1
@@ -373,7 +373,7 @@ requirements:
     - r-magrittr =2.0.3 =r43h21dc0da_2
     - r-maps =3.4.1.1 =r43hd2d937b_0
     - r-mass =7.3_60 =r43h21dc0da_1
-    - r-matrix =1.6_2 =r43hb447869_0
+    - r-matrix =1.6_3 =r43hb447869_0
     - r-memoise =2.0.1 =r43hc72bb7e_2
     - r-mgcv =1.9_0 =r43h8420647_0
     - r-mime =0.12 =r43h21dc0da_2
@@ -498,8 +498,8 @@ requirements:
     - tzdata =2023c =h71feb2d_0
     - unicodedata2 =15.1.0 =py39h0f82c59_0
     - uri-template =1.3.0 =pyhd8ed1ab_0
-    - urllib3 =2.0.7 =pyhd8ed1ab_0
-    - wcwidth =0.2.9 =pyhd8ed1ab_0
+    - urllib3 =2.1.0 =pyhd8ed1ab_0
+    - wcwidth =0.2.10 =pyhd8ed1ab_0
     - webcolors =1.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - websocket-client =1.6.4 =pyhd8ed1ab_0

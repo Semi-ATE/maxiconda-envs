@@ -51,8 +51,8 @@ requirements:
     - gettext =0.21.1 =h5728263_0
     - glib =2.78.1 =h12be248_0
     - glib-tools =2.78.1 =h12be248_0
-    - gst-plugins-base =1.22.6 =h001b923_2
-    - gstreamer =1.22.6 =hb4038d2_2
+    - gst-plugins-base =1.22.7 =h001b923_0
+    - gstreamer =1.22.7 =hb4038d2_0
     - icu =73.2 =h63175ca_0
     - importlib-metadata =6.8.0 =pyha770c72_0
     - importlib_metadata =6.8.0 =hd8ed1ab_0
@@ -92,8 +92,8 @@ requirements:
     - pip =23.3.1 =pyhd8ed1ab_0
     - platformdirs =4.0.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
-    - prompt-toolkit =3.0.40 =pyha770c72_0
-    - prompt_toolkit =3.0.40 =hd8ed1ab_0
+    - prompt-toolkit =3.0.41 =pyha770c72_0
+    - prompt_toolkit =3.0.41 =hd8ed1ab_0
     - psutil =5.9.5 =py38h91455d4_1
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
@@ -103,7 +103,7 @@ requirements:
     - python-tzdata =2023.3 =pyhd8ed1ab_0
     - python_abi =3.8 =4_cp38
     - pytz =2023.3.post1 =pyhd8ed1ab_0
-    - pyvisa =1.13.0 =py38haa244fe_1
+    - pyvisa =1.14.0 =pyhd8ed1ab_0
     - pywin32 =306 =py38hd3f51b4_2
     - pyzmq =25.1.1 =py38hdecc13b_2
     - qt-main =5.15.8 =h9e85ed6_17
@@ -122,7 +122,7 @@ requirements:
     - vc =14.3 =h64f974e_17
     - vc14_runtime =14.36.32532 =hdcecf7f_17
     - vs2015_runtime =14.36.32532 =h05e6639_17
-    - wcwidth =0.2.9 =pyhd8ed1ab_0
+    - wcwidth =0.2.10 =pyhd8ed1ab_0
     - wheel =0.41.3 =pyhd8ed1ab_0
     - xz =5.2.6 =h8d14728_0
     - zeromq =4.3.5 =h63175ca_0
