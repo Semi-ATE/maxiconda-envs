@@ -81,8 +81,8 @@ requirements:
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h27087fc_0
     - glew =2.1.0 =h9c3ff4c_2
-    - glib =2.78.1 =hfc55251_0
-    - glib-tools =2.78.1 =hfc55251_0
+    - glib =2.78.1 =hfc55251_1
+    - glib-tools =2.78.1 =hfc55251_1
     - glm =0.9.9.8 =h00ab1b0_0
     - graphite2 =1.3.13 =h58526e2_1001
     - greenlet =3.0.1 =py38h17151c0_0
@@ -137,7 +137,7 @@ requirements:
     - libgcrypt =1.10.2 =hd590300_0
     - libgfortran-ng =13.2.0 =h69a702a_3
     - libgfortran5 =13.2.0 =ha4646dd_3
-    - libglib =2.78.1 =hebfc3b9_0
+    - libglib =2.78.1 =h783c2da_1
     - libglu =9.0.0 =hac7e632_1003
     - libgomp =13.2.0 =h807b86a_3
     - libgpg-error =1.47 =h71f35ed_0
@@ -191,7 +191,7 @@ requirements:
     - parso =0.8.3 =pyhd8ed1ab_0
     - patsy =0.5.3 =pyhd8ed1ab_0
     - pbr =6.0.0 =pyhd8ed1ab_0
-    - pcre2 =10.40 =hc3806b6_0
+    - pcre2 =10.42 =hcad00b1_0
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pillow =10.1.0 =py38ha43c96d_0

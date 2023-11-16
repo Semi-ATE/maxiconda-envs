@@ -47,8 +47,8 @@ requirements:
     - entrypoints =0.4 =pyhd8ed1ab_0
     - et_xmlfile =1.1.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h8a4c099_0
-    - glib =2.78.1 =hf4d7fad_0
-    - glib-tools =2.78.1 =hf4d7fad_0
+    - glib =2.78.1 =hf4d7fad_1
+    - glib-tools =2.78.1 =hf4d7fad_1
     - gst-plugins-base =1.22.7 =hd283e88_0
     - gstreamer =1.22.7 =h8954545_0
     - icu =73.2 =hf5e326d_0
@@ -69,7 +69,7 @@ requirements:
     - libffi =3.4.2 =h0d85af4_5
     - libgfortran =5.0.0 =13_2_0_h97931a8_1
     - libgfortran5 =13.2.0 =h2873a65_1
-    - libglib =2.78.1 =h6d9ecee_0
+    - libglib =2.78.1 =h198397b_1
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =19_osx64_openblas
@@ -96,7 +96,7 @@ requirements:
     - openssl =3.1.4 =hd75f5a5_0
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
-    - pcre2 =10.40 =h1c4e4bc_0
+    - pcre2 =10.42 =h0ad2156_0
     - pexpect =4.8.0 =py37hc8dfbb8_1
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pip =23.3.1 =pyhd8ed1ab_0

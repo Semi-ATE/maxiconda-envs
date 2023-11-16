@@ -61,11 +61,11 @@ requirements:
     - aws-c-http =0.7.14 =h0e17c8e_1
     - aws-c-io =0.13.35 =h56d495d_8
     - aws-c-mqtt =0.9.9 =hd1ff352_0
-    - aws-c-s3 =0.3.23 =hec067e0_1
+    - aws-c-s3 =0.3.24 =hec067e0_0
     - aws-c-sdkutils =0.1.12 =hde771f8_5
     - aws-checksums =0.1.17 =hde771f8_5
-    - aws-crt-cpp =0.24.6 =hb03f413_0
-    - aws-sdk-cpp =1.11.182 =h0652cf5_6
+    - aws-crt-cpp =0.24.7 =h42e4cab_1
+    - aws-sdk-cpp =1.11.182 =hdff5e81_7
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - bcrypt =4.0.1 =py39hf21820d_1
@@ -132,8 +132,8 @@ requirements:
     - gettext =0.21.1 =h5728263_0
     - gitdb =4.0.11 =pyhd8ed1ab_0
     - gitpython =3.1.40 =pyhd8ed1ab_0
-    - glib =2.78.1 =h12be248_0
-    - glib-tools =2.78.1 =h12be248_0
+    - glib =2.78.1 =h12be248_1
+    - glib-tools =2.78.1 =h12be248_1
     - graphite2 =1.3.13 =1000
     - graphviz =8.1.0 =h51cb2cd_0
     - greenlet =3.0.1 =py39h99910a6_0
@@ -173,13 +173,13 @@ requirements:
     - lcms2 =2.15 =h67d730c_3
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230802.1 =cxx17_h63175ca_0
-    - libarrow =14.0.1 =h0850d3a_2_cpu
-    - libarrow-acero =14.0.1 =h63175ca_2_cpu
-    - libarrow-dataset =14.0.1 =h63175ca_2_cpu
-    - libarrow-flight =14.0.1 =h53b1db0_2_cpu
-    - libarrow-flight-sql =14.0.1 =h78eab7c_2_cpu
-    - libarrow-gandiva =14.0.1 =hb2eaab1_2_cpu
-    - libarrow-substrait =14.0.1 =hd4c9904_2_cpu
+    - libarrow =14.0.1 =h58589b8_3_cpu
+    - libarrow-acero =14.0.1 =h63175ca_3_cpu
+    - libarrow-dataset =14.0.1 =h63175ca_3_cpu
+    - libarrow-flight =14.0.1 =h53b1db0_3_cpu
+    - libarrow-flight-sql =14.0.1 =h78eab7c_3_cpu
+    - libarrow-gandiva =14.0.1 =hb2eaab1_3_cpu
+    - libarrow-substrait =14.0.1 =hd4c9904_3_cpu
     - libblas =3.9.0 =19_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
@@ -194,7 +194,7 @@ requirements:
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h312136b_9
-    - libglib =2.78.1 =he8f3873_0
+    - libglib =2.78.1 =h16e383f_1
     - libgoogle-cloud =2.12.0 =h39f2fc6_4
     - libgrpc =1.59.2 =h5bbd4a7_0
     - libhwloc =2.9.3 =default_haede6df_1009
@@ -202,7 +202,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =19_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
-    - libparquet =14.0.1 =h7ec3a38_2_cpu
+    - libparquet =14.0.1 =h7ec3a38_3_cpu
     - libpng =1.6.39 =h19919ed_0
     - libprotobuf =4.24.4 =hb8276f3_0
     - libre2-11 =2023.06.02 =h8c5ae5e_0
@@ -261,7 +261,7 @@ requirements:
     - parso =0.8.3 =pyhd8ed1ab_0
     - pathy =0.10.2 =pyhd8ed1ab_0
     - patsy =0.5.3 =pyhd8ed1ab_0
-    - pcre2 =10.40 =h17e33f8_0
+    - pcre2 =10.42 =h17e33f8_0
     - phik =0.12.3 =py39h0f24028_1
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =10.1.0 =py39h368b509_0
@@ -281,7 +281,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py39hd3de297_5
-    - pyarrow =14.0.1 =py39h0a09291_2_cpu
+    - pyarrow =14.0.1 =py39h0a09291_3_cpu
     - pyasn1 =0.5.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3

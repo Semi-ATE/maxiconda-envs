@@ -75,8 +75,8 @@ requirements:
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h8a4c099_0
     - glew =2.1.0 =h046ec9c_2
-    - glib =2.78.1 =hf4d7fad_0
-    - glib-tools =2.78.1 =hf4d7fad_0
+    - glib =2.78.1 =hf4d7fad_1
+    - glib-tools =2.78.1 =hf4d7fad_1
     - glm =0.9.9.8 =h1c7c39f_0
     - greenlet =3.0.1 =py39h110ca85_0
     - griddataformats =1.0.2 =pyhd8ed1ab_0
@@ -120,7 +120,7 @@ requirements:
     - libffi =3.4.2 =h0d85af4_5
     - libgfortran =5.0.0 =13_2_0_h97931a8_1
     - libgfortran5 =13.2.0 =h2873a65_1
-    - libglib =2.78.1 =h6d9ecee_0
+    - libglib =2.78.1 =h198397b_1
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =19_osx64_openblas
@@ -165,7 +165,7 @@ requirements:
     - parso =0.8.3 =pyhd8ed1ab_0
     - patsy =0.5.3 =pyhd8ed1ab_0
     - pbr =6.0.0 =pyhd8ed1ab_0
-    - pcre2 =10.40 =h1c4e4bc_0
+    - pcre2 =10.42 =h0ad2156_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =10.1.0 =py39hdd30358_0
