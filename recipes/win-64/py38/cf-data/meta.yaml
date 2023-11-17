@@ -120,7 +120,7 @@ requirements:
     - fontconfig =2.14.2 =hbde0cde_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.44.1 =py38h91455d4_0
+    - fonttools =4.44.3 =py38h91455d4_0
     - freetype =2.12.1 =hdaf720e_2
     - fribidi =1.0.10 =h8d14728_0
     - fst-pso =1.8.1 =pyhd8ed1ab_0
@@ -287,8 +287,8 @@ requirements:
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic =2.5.0 =pyhd8ed1ab_0
-    - pydantic-core =2.14.1 =py38h4900a04_0
+    - pydantic =2.5.1 =pyhd8ed1ab_0
+    - pydantic-core =2.14.3 =py38h4900a04_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.16.1 =pyhd8ed1ab_0
@@ -320,7 +320,7 @@ requirements:
     - requests =2.31.0 =pyhd8ed1ab_0
     - requests-file =1.5.1 =pyh9f0ad1d_0
     - retrying =1.3.3 =py_2
-    - rich =13.6.0 =pyhd8ed1ab_0
+    - rich =13.7.0 =pyhd8ed1ab_0
     - seaborn-base =0.13.0 =pyhd8ed1ab_0
     - service_identity =18.1.0 =py_0
     - setuptools =68.2.2 =pyhd8ed1ab_0

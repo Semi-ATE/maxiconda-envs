@@ -92,7 +92,7 @@ requirements:
     - fontconfig =2.14.2 =h14ed4e7_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.44.1 =py38h01eb140_0
+    - fonttools =4.44.3 =py38h01eb140_0
     - freetype =2.12.1 =h267a509_2
     - gettext =0.21.1 =h27087fc_0
     - giflib =5.2.1 =h0b41bf4_3
@@ -121,7 +121,7 @@ requirements:
     - jeepney =0.8.0 =pyhd8ed1ab_0
     - jellyfish =1.0.1 =py38h0cc4f7c_1
     - jinja2 =3.1.2 =pyhd8ed1ab_1
-    - jsonschema =4.19.2 =pyhd8ed1ab_0
+    - jsonschema =4.20.0 =pyhd8ed1ab_0
     - jsonschema-specifications =2023.11.1 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.5.0 =py38h578d9bd_0
@@ -263,15 +263,15 @@ requirements:
     - qt-main =5.15.8 =h82b777d_17
     - qt-webengine =5.15.8 =h75ea521_4
     - qtawesome =1.2.3 =pyhd8ed1ab_0
-    - qtconsole =5.5.0 =pyhd8ed1ab_0
-    - qtconsole-base =5.5.0 =pyha770c72_0
+    - qtconsole =5.5.1 =pyhd8ed1ab_0
+    - qtconsole-base =5.5.1 =pyha770c72_0
     - qtpy =2.4.1 =pyhd8ed1ab_0
     - readline =8.2 =h8228510_1
     - referencing =0.31.0 =pyhd8ed1ab_0
     - requests =2.31.0 =pyhd8ed1ab_0
-    - rich =13.6.0 =pyhd8ed1ab_0
+    - rich =13.7.0 =pyhd8ed1ab_0
     - rope =1.11.0 =pyhd8ed1ab_1
-    - rpds-py =0.12.0 =py38h0cc4f7c_0
+    - rpds-py =0.13.0 =py38h0cc4f7c_0
     - rtree =1.1.0 =py38h02d302b_0
     - secretstorage =3.3.3 =py38h578d9bd_2
     - setuptools =68.2.2 =pyhd8ed1ab_0
