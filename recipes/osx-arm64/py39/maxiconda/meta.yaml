@@ -47,7 +47,7 @@ requirements:
     - pyyaml =6.0.1 =py39h0f82c59_1
     - qdarkstyle =3.2 =pyhd8ed1ab_0
     - qtawesome =1.2.3 =pyhd8ed1ab_0
-    - r-base =4.3.2 =haf9be62_0
+    - r-base =4.3.2 =h9389748_1
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2023.10.3 =py39h0f82c59_0
     - requests =2.31.0 =pyhd8ed1ab_0
@@ -87,12 +87,12 @@ requirements:
     - bwidget =1.9.14 =hce30654_1
     - bzip2 =1.0.8 =h93a5062_5
     - c-ares =1.21.0 =h93a5062_0
-    - ca-certificates =2023.7.22 =hf0a4a13_0
+    - ca-certificates =2023.11.17 =hf0a4a13_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.0 =hd1e100b_0
     - cctools_osx-arm64 =973.0.1 =h62378fb_15
-    - certifi =2023.7.22 =pyhd8ed1ab_0
+    - certifi =2023.11.17 =pyhd8ed1ab_0
     - cffi =1.16.0 =py39he153c15_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - clang =16.0.6 =he79909e_2
@@ -135,8 +135,8 @@ requirements:
     - gettext =0.21.1 =h0186832_0
     - gfortran_impl_osx-arm64 =12.3.0 =hbbb9e1e_1
     - gfortran_osx-arm64 =12.3.0 =h57527a5_1
-    - glib =2.78.1 =h9e231a4_0
-    - glib-tools =2.78.1 =h9e231a4_0
+    - glib =2.78.1 =h9e231a4_1
+    - glib-tools =2.78.1 =h9e231a4_1
     - gmp =6.3.0 =h965bd2d_0
     - gmpy2 =2.1.2 =py39h0b4f9c6_1
     - graphite2 =1.3.13 =h9f76cd9_1001
@@ -166,9 +166,9 @@ requirements:
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
     - jupyter_server =2.10.1 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
-    - jupyterlab =4.0.8 =pyhd8ed1ab_0
+    - jupyterlab =4.0.9 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
-    - jupyterlab_server =2.25.1 =pyhd8ed1ab_0
+    - jupyterlab_server =2.25.2 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py39hbd775c9_1
     - krb5 =1.21.2 =h92f50d5_0
     - lcms2 =2.15 =hf2736f0_3
@@ -192,7 +192,7 @@ requirements:
     - libgfortran =5.0.0 =13_2_0_hd922786_1
     - libgfortran-devel_osx-arm64 =12.3.0 =hc62be1c_1
     - libgfortran5 =13.2.0 =hf226fd6_1
-    - libglib =2.78.1 =hd9b11f9_0
+    - libglib =2.78.1 =hb438215_1
     - libiconv =1.17 =he4db4b2_0
     - libjpeg-turbo =3.0.0 =hb547adb_1
     - liblapack =3.9.0 =19_osxarm64_openblas
@@ -246,7 +246,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.50.14 =hcf40dda_2
     - parso =0.8.3 =pyhd8ed1ab_0
-    - pcre2 =10.40 =hb34f9b4_0
+    - pcre2 =10.42 =h26f9a81_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py_1003
     - pillow =10.1.0 =py39h755f0b7_0
@@ -266,7 +266,7 @@ requirements:
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
     - pydantic-core =2.14.3 =py39h8fec3ad_0
-    - pygments =2.16.1 =pyhd8ed1ab_0
+    - pygments =2.17.0 =pyhd8ed1ab_0
     - pyobjc-core =10.0 =py39h4d1a642_0
     - pyobjc-framework-cocoa =10.0 =py39h4d1a642_1
     - pyparsing =3.1.1 =pyhd8ed1ab_0
@@ -427,7 +427,7 @@ requirements:
     - r-scales =1.2.1 =r43hc72bb7e_2
     - r-selectr =0.4_2 =r43hc72bb7e_3
     - r-shape =1.4.6 =r43ha770c72_2
-    - r-shiny =1.7.5.1 =r43h785f33e_0
+    - r-shiny =1.8.0 =r43h785f33e_0
     - r-sourcetools =0.1.7_1 =r43he62749d_1
     - r-spatial =7.3_17 =r43h21dc0da_0
     - r-squarem =2021.1 =r43hc72bb7e_2
