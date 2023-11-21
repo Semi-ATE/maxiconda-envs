@@ -79,7 +79,7 @@ requirements:
     - brotli-bin =1.1.0 =h0dc2134_1
     - brotli-python =1.1.0 =py38h940360d_1
     - bzip2 =1.0.8 =h10d778d_5
-    - c-ares =1.21.0 =h10d778d_0
+    - c-ares =1.22.1 =h10d778d_0
     - ca-certificates =2023.11.17 =h8857fd0_0
     - cairo =1.18.0 =h99e66fa_0
     - catalogue =2.0.10 =py38h50d1736_0
@@ -123,7 +123,7 @@ requirements:
     - fontconfig =2.14.2 =h5bb23bf_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.44.3 =py38hae2e43d_0
+    - fonttools =4.45.0 =py38hae2e43d_0
     - freetype =2.12.1 =h60636b9_2
     - fribidi =1.0.10 =hbcb3906_0
     - fsspec =2023.10.0 =pyhca7485f_0
@@ -183,13 +183,13 @@ requirements:
     - lcms2 =2.15 =hd6ba6f3_3
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230802.1 =cxx17_h048a20a_0
-    - libarrow =14.0.1 =hd201b0c_3_cpu
-    - libarrow-acero =14.0.1 =hc222712_3_cpu
-    - libarrow-dataset =14.0.1 =hc222712_3_cpu
-    - libarrow-flight =14.0.1 =h440f1c2_3_cpu
-    - libarrow-flight-sql =14.0.1 =h2cc6c1c_3_cpu
-    - libarrow-gandiva =14.0.1 =heeebe7c_3_cpu
-    - libarrow-substrait =14.0.1 =h2cc6c1c_3_cpu
+    - libarrow =14.0.1 =h660ed53_4_cpu
+    - libarrow-acero =14.0.1 =hc222712_4_cpu
+    - libarrow-dataset =14.0.1 =hc222712_4_cpu
+    - libarrow-flight =14.0.1 =ha1803ca_4_cpu
+    - libarrow-flight-sql =14.0.1 =h8ec153b_4_cpu
+    - libarrow-gandiva =14.0.1 =heeebe7c_4_cpu
+    - libarrow-substrait =14.0.1 =h8ec153b_4_cpu
     - libblas =3.9.0 =19_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
@@ -221,7 +221,7 @@ requirements:
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.24 =openmp_h48a4ad5_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =14.0.1 =h27bd29f_3_cpu
+    - libparquet =14.0.1 =h27bd29f_4_cpu
     - libpng =1.6.39 =ha978bb4_0
     - libpq =16.1 =h6dd4ff7_0
     - libprotobuf =4.24.4 =h0ee05dc_0
@@ -278,7 +278,7 @@ requirements:
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha4da562_3
     - openssl =3.1.4 =hd75f5a5_0
-    - orc =1.9.0 =hd1092d7_4
+    - orc =1.9.2 =h9ab30d4_0
     - packaging =23.2 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.50.14 =h19c1c8a_2
@@ -309,7 +309,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py38h273ab5c_6
-    - pyarrow =14.0.1 =py38hffdeace_3_cpu
+    - pyarrow =14.0.1 =py38hffdeace_4_cpu
     - pyasn1 =0.5.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -318,11 +318,11 @@ requirements:
     - pydantic-core =2.14.3 =py38h51dbebd_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
-    - pygments =2.17.0 =pyhd8ed1ab_0
+    - pygments =2.17.1 =pyhd8ed1ab_0
     - pyjwt =2.8.0 =pyhd8ed1ab_0
     - pyldavis =3.4.1 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py38hcafd530_3
-    - pynndescent =0.5.10 =pyh1a96a4e_0
+    - pynndescent =0.5.11 =pyhca7485f_0
     - pyod =1.1.2 =pyhd8ed1ab_0
     - pyopenssl =23.3.0 =pyhd8ed1ab_0
     - pyparsing =3.1.1 =pyhd8ed1ab_0

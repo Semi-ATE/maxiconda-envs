@@ -31,10 +31,10 @@ requirements:
     - bitarray =2.8.3 =py39ha55989b_0
     - cython =3.0.5 =py39h99910a6_0
     - grayskull =2.5.1 =pyhd8ed1ab_0
-    - hypothesis =6.89.0 =pyha770c72_0
+    - hypothesis =6.90.0 =pyha770c72_0
     - ipython =8.17.2 =pyh5737063_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
-    - matplotlib =3.8.1 =py39hcbf5309_0
+    - matplotlib =3.8.2 =py39hcbf5309_0
     - numba =0.58.1 =py39h6836801_0
     - numpy =1.26.0 =py39hddb5d58_0
     - openpyxl =3.1.2 =py39ha55989b_1
@@ -114,7 +114,7 @@ requirements:
     - fontconfig =2.14.2 =hbde0cde_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.44.3 =py39ha55989b_0
+    - fonttools =4.45.0 =py39ha55989b_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.12.1 =hdaf720e_2
     - fribidi =1.0.10 =h8d14728_0
@@ -214,7 +214,7 @@ requirements:
     - m2w64-xz =5.2.2 =2
     - m2w64-zlib =1.2.8 =10
     - markupsafe =2.1.3 =py39ha55989b_1
-    - matplotlib-base =3.8.1 =py39hf19769e_0
+    - matplotlib-base =3.8.2 =py39hf19769e_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mistune =3.0.2 =pyhd8ed1ab_0
     - mkl =2023.2.0 =h6a75c08_50496
@@ -254,7 +254,7 @@ requirements:
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
     - pydantic-core =2.14.3 =py39hf21820d_0
-    - pygments =2.17.0 =pyhd8ed1ab_0
+    - pygments =2.17.1 =pyhd8ed1ab_0
     - pyparsing =3.1.1 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py39h99910a6_5
     - pysocks =1.7.1 =py39hcbf5309_5
