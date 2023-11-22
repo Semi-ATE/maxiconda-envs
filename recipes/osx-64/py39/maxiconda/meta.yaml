@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 450 secondary packages :
+    # 448 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -78,8 +78,6 @@ requirements:
     - async-timeout =4.0.3 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
     - babel =2.13.1 =pyhd8ed1ab_0
-    - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py39h6e9494a_8
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =h0dc2134_1
@@ -118,7 +116,7 @@ requirements:
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
     - et_xmlfile =1.1.0 =pyhd8ed1ab_0
-    - exceptiongroup =1.1.3 =pyhd8ed1ab_0
+    - exceptiongroup =1.2.0 =pyhd8ed1ab_0
     - executing =2.0.1 =pyhd8ed1ab_0
     - expat =2.5.0 =hf0c8a7f_1
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -165,7 +163,7 @@ requirements:
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.5.0 =py39h6e9494a_0
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
-    - jupyter_server =2.10.1 =pyhd8ed1ab_0
+    - jupyter_server =2.11.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
     - jupyterlab =4.0.9 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.2.2 =pyhd8ed1ab_0
@@ -175,11 +173,11 @@ requirements:
     - lcms2 =2.15 =hd6ba6f3_3
     - ld64_osx-64 =609 =ha20a434_15
     - lerc =4.0.0 =hb486fe8_0
-    - libblas =3.9.0 =19_osx64_openblas
+    - libblas =3.9.0 =20_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
     - libbrotlienc =1.1.0 =h0dc2134_1
-    - libcblas =3.9.0 =19_osx64_openblas
+    - libcblas =3.9.0 =20_osx64_openblas
     - libclang =15.0.7 =default_hdb78580_3
     - libclang-cpp16 =16.0.6 =default_h762fdd7_2
     - libclang13 =15.0.7 =default_h953c2e9_3
@@ -196,13 +194,13 @@ requirements:
     - libglib =2.78.1 =h198397b_1
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =3.0.0 =h0dc2134_1
-    - liblapack =3.9.0 =19_osx64_openblas
+    - liblapack =3.9.0 =20_osx64_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm15 =15.0.7 =he4b1e75_3
     - libllvm16 =16.0.6 =he4b1e75_2
     - libnghttp2 =1.58.0 =h64cf6d3_0
     - libogg =1.3.4 =h35c211d_1
-    - libopenblas =0.3.24 =openmp_h48a4ad5_0
+    - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.39 =ha978bb4_0
     - libpq =16.1 =h6dd4ff7_0
@@ -259,7 +257,7 @@ requirements:
     - pluggy =1.3.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - progressbar2 =4.2.0 =pyhd8ed1ab_0
-    - prometheus_client =0.18.0 =pyhd8ed1ab_1
+    - prometheus_client =0.19.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.41 =pyha770c72_0
     - prompt_toolkit =3.0.41 =hd8ed1ab_0
     - pthread-stubs =0.4 =hc929b4f_1001
@@ -267,7 +265,7 @@ requirements:
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
     - pydantic-core =2.14.3 =py39h3f9c672_0
-    - pygments =2.17.1 =pyhd8ed1ab_0
+    - pygments =2.17.2 =pyhd8ed1ab_0
     - pyobjc-core =10.0 =py39head00df_0
     - pyobjc-framework-cocoa =10.0 =py39head00df_1
     - pyparsing =3.1.1 =pyhd8ed1ab_0
@@ -500,7 +498,7 @@ requirements:
     - unicodedata2 =15.1.0 =py39hdc70f33_0
     - uri-template =1.3.0 =pyhd8ed1ab_0
     - urllib3 =2.1.0 =pyhd8ed1ab_0
-    - wcwidth =0.2.10 =pyhd8ed1ab_0
+    - wcwidth =0.2.12 =pyhd8ed1ab_0
     - webcolors =1.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - websocket-client =1.6.4 =pyhd8ed1ab_0

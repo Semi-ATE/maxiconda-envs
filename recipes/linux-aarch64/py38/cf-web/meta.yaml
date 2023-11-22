@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.23 =py38hea3b116_0
     - twisted =23.10.0 =py38hea3b116_0
 
-    # 176 secondary packages :
+    # 175 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.10 =h31becfc_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -46,7 +46,6 @@ requirements:
     - automat =22.10.0 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py38h9579f32_8
     - bcrypt =4.0.1 =py38h4577bcc_1
     - brotli-python =1.1.0 =py38hb83fbf6_1
@@ -159,7 +158,7 @@ requirements:
     - pyasn1 =0.5.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pygments =2.17.1 =pyhd8ed1ab_0
+    - pygments =2.17.2 =pyhd8ed1ab_0
     - pyopenssl =23.3.0 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py38hb83fbf6_5
     - pysocks =1.7.1 =py38h2063c64_5
@@ -184,7 +183,7 @@ requirements:
     - typing_extensions =4.8.0 =pyha770c72_0
     - tzdata =2023c =h71feb2d_0
     - urllib3 =2.1.0 =pyhd8ed1ab_0
-    - wcwidth =0.2.10 =pyhd8ed1ab_0
+    - wcwidth =0.2.12 =pyhd8ed1ab_0
     - wheel =0.41.3 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =h31becfc_1

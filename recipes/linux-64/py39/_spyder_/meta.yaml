@@ -35,7 +35,7 @@ requirements:
     - spyder =5.5.0 =py39hf3d152e_1
     - sympy =1.12 =pypyh9d50eac_103
 
-    # 313 secondary packages :
+    # 311 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.13 =pyhd8ed1ab_0
@@ -48,8 +48,6 @@ requirements:
     - attrs =23.1.0 =pyh71513ae_1
     - autopep8 =2.0.4 =pyhd8ed1ab_0
     - babel =2.13.1 =pyhd8ed1ab_0
-    - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - binaryornot =0.4.4 =py_1
     - black =23.10.1 =py39hf3d152e_0
@@ -69,7 +67,7 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.4 =pyhd8ed1ab_0
     - contourpy =1.2.0 =py39h7633fee_0
-    - cookiecutter =2.4.0 =pyhca7485f_0
+    - cookiecutter =2.5.0 =pyhca7485f_0
     - cryptography =41.0.5 =py39hd4f0224_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
@@ -81,7 +79,7 @@ requirements:
     - docstring-to-markdown =0.13 =pyhd8ed1ab_0
     - docutils =0.20.1 =py39hf3d152e_2
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - exceptiongroup =1.1.3 =pyhd8ed1ab_0
+    - exceptiongroup =1.2.0 =pyhd8ed1ab_0
     - executing =2.0.1 =pyhd8ed1ab_0
     - expat =2.5.0 =hcb278e6_1
     - flake8 =6.1.0 =pyhd8ed1ab_0
@@ -134,12 +132,12 @@ requirements:
     - lcms2 =2.15 =hb7c19ff_3
     - ld_impl_linux-64 =2.40 =h41732ed_0
     - lerc =4.0.0 =h27087fc_0
-    - libblas =3.9.0 =19_linux64_openblas
+    - libblas =3.9.0 =20_linux64_openblas
     - libbrotlicommon =1.1.0 =hd590300_1
     - libbrotlidec =1.1.0 =hd590300_1
     - libbrotlienc =1.1.0 =hd590300_1
     - libcap =2.69 =h0f662aa_0
-    - libcblas =3.9.0 =19_linux64_openblas
+    - libcblas =3.9.0 =20_linux64_openblas
     - libclang =15.0.7 =default_h7634d5b_3
     - libclang13 =15.0.7 =default_h9986a30_3
     - libcups =2.3.3 =h4637d8d_4
@@ -158,11 +156,11 @@ requirements:
     - libgpg-error =1.47 =h71f35ed_0
     - libiconv =1.17 =h166bdaf_0
     - libjpeg-turbo =3.0.0 =hd590300_1
-    - liblapack =3.9.0 =19_linux64_openblas
+    - liblapack =3.9.0 =20_linux64_openblas
     - libllvm15 =15.0.7 =h5cf9203_3
     - libnsl =2.0.1 =hd590300_0
     - libogg =1.3.4 =h7f98852_1
-    - libopenblas =0.3.24 =pthreads_h413a1c8_0
+    - libopenblas =0.3.25 =pthreads_h413a1c8_0
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.39 =h753d276_0
     - libpq =16.1 =hfc447b1_0
@@ -236,7 +234,7 @@ requirements:
     - pycparser =2.21 =pyhd8ed1ab_0
     - pydocstyle =6.3.0 =pyhd8ed1ab_0
     - pyflakes =3.1.0 =pyhd8ed1ab_0
-    - pygments =2.17.1 =pyhd8ed1ab_0
+    - pygments =2.17.2 =pyhd8ed1ab_0
     - pylint =3.0.2 =pyhd8ed1ab_0
     - pylint-venv =3.0.3 =pyhd8ed1ab_0
     - pyls-spyder =0.4.0 =pyhd8ed1ab_0
@@ -306,7 +304,7 @@ requirements:
     - unicodedata2 =15.1.0 =py39hd1e30aa_0
     - urllib3 =2.1.0 =pyhd8ed1ab_0
     - watchdog =3.0.0 =py39hf3d152e_1
-    - wcwidth =0.2.10 =pyhd8ed1ab_0
+    - wcwidth =0.2.12 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - whatthepatch =1.0.5 =pyhd8ed1ab_0
     - wheel =0.41.3 =pyhd8ed1ab_0

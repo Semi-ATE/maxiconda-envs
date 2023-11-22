@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.14.0 =py38h7092abf_2
     - xgboost =1.7.6 =cpu_py38h273ab5c_6
 
-    # 365 secondary packages :
+    # 363 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.12.1 =pyhd8ed1ab_0
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -70,8 +70,6 @@ requirements:
     - aws-crt-cpp =0.24.7 =h0a75192_2
     - aws-sdk-cpp =1.11.182 =h28d282b_7
     - backcall =0.2.0 =pyh9f0ad1d_0
-    - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - bcrypt =4.0.1 =py38h7510fb3_1
     - blinker =1.7.0 =pyhd8ed1ab_0
     - bottleneck =1.3.7 =py38h49861b3_1
@@ -190,11 +188,11 @@ requirements:
     - libarrow-flight-sql =14.0.1 =h8ec153b_4_cpu
     - libarrow-gandiva =14.0.1 =heeebe7c_4_cpu
     - libarrow-substrait =14.0.1 =h8ec153b_4_cpu
-    - libblas =3.9.0 =19_osx64_openblas
+    - libblas =3.9.0 =20_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
     - libbrotlienc =1.1.0 =h0dc2134_1
-    - libcblas =3.9.0 =19_osx64_openblas
+    - libcblas =3.9.0 =20_osx64_openblas
     - libclang =15.0.7 =default_hdb78580_3
     - libclang13 =15.0.7 =default_h953c2e9_3
     - libcrc32c =1.1.2 =he49afe7_0
@@ -214,12 +212,12 @@ requirements:
     - libgrpc =1.59.3 =ha7f534c_0
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =3.0.0 =h0dc2134_1
-    - liblapack =3.9.0 =19_osx64_openblas
+    - liblapack =3.9.0 =20_osx64_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm15 =15.0.7 =he4b1e75_3
     - libnghttp2 =1.58.0 =h64cf6d3_0
     - libogg =1.3.4 =h35c211d_1
-    - libopenblas =0.3.24 =openmp_h48a4ad5_0
+    - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
     - libparquet =14.0.1 =h27bd29f_4_cpu
     - libpng =1.6.39 =ha978bb4_0
@@ -298,7 +296,7 @@ requirements:
     - ply =3.11 =py_1
     - pooch =1.8.0 =pyhd8ed1ab_0
     - preshed =3.0.9 =py38h940360d_1
-    - prometheus_client =0.18.0 =pyhd8ed1ab_1
+    - prometheus_client =0.19.0 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.23.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.41 =pyha770c72_0
     - prompt_toolkit =3.0.41 =hd8ed1ab_0
@@ -318,7 +316,7 @@ requirements:
     - pydantic-core =2.14.3 =py38h51dbebd_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
-    - pygments =2.17.1 =pyhd8ed1ab_0
+    - pygments =2.17.2 =pyhd8ed1ab_0
     - pyjwt =2.8.0 =pyhd8ed1ab_0
     - pyldavis =3.4.1 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py38hcafd530_3
@@ -393,7 +391,7 @@ requirements:
     - visions =0.7.1 =pyhd8ed1ab_0
     - w3lib =2.1.2 =pyhd8ed1ab_0
     - wasabi =1.1.2 =py38h50d1736_0
-    - wcwidth =0.2.10 =pyhd8ed1ab_0
+    - wcwidth =0.2.12 =pyhd8ed1ab_0
     - weasel =0.3.4 =pyhd8ed1ab_0
     - websocket-client =1.6.4 =pyhd8ed1ab_0
     - werkzeug =3.0.1 =pyhd8ed1ab_0

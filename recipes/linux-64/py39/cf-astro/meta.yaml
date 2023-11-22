@@ -28,14 +28,12 @@ requirements:
     - pyqt =5.15.9 =py39h52134e7_5
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
 
-    # 148 secondary packages :
+    # 146 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.10 =hd590300_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attr =2.5.1 =h166bdaf_1
-    - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =hd590300_5
     - ca-certificates =2023.11.17 =hbcca054_0
     - cairo =1.18.0 =h3faef2a_0
@@ -44,7 +42,7 @@ requirements:
     - dbus =1.13.6 =h5008d03_3
     - debugpy =1.8.0 =py39h3d6467e_1
     - decorator =5.1.1 =pyhd8ed1ab_0
-    - exceptiongroup =1.1.3 =pyhd8ed1ab_0
+    - exceptiongroup =1.2.0 =pyhd8ed1ab_0
     - executing =2.0.1 =pyhd8ed1ab_0
     - expat =2.5.0 =hcb278e6_1
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -133,7 +131,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pulseaudio-client =16.1 =hb77b528_5
     - pure_eval =0.2.2 =pyhd8ed1ab_0
-    - pygments =2.17.1 =pyhd8ed1ab_0
+    - pygments =2.17.2 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py39h3d6467e_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =4_cp39
@@ -151,7 +149,7 @@ requirements:
     - traitlets =5.13.0 =pyhd8ed1ab_0
     - typing_extensions =4.8.0 =pyha770c72_0
     - tzdata =2023c =h71feb2d_0
-    - wcwidth =0.2.10 =pyhd8ed1ab_0
+    - wcwidth =0.2.12 =pyhd8ed1ab_0
     - wheel =0.41.3 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =hd590300_1

@@ -28,10 +28,8 @@ requirements:
     - pyqt =5.15.9 =py39hb77abff_5
     - spyder-kernels =2.5.0 =win_pyh7428d3b_0
 
-    # 80 secondary packages :
+    # 78 secondary packages :
     - asttokens =2.4.1 =pyhd8ed1ab_0
-    - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =hcfcfb64_5
     - ca-certificates =2023.11.17 =h56e8100_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
@@ -39,7 +37,7 @@ requirements:
     - comm =0.1.4 =pyhd8ed1ab_0
     - debugpy =1.8.0 =py39h99910a6_1
     - decorator =5.1.1 =pyhd8ed1ab_0
-    - exceptiongroup =1.1.3 =pyhd8ed1ab_0
+    - exceptiongroup =1.2.0 =pyhd8ed1ab_0
     - executing =2.0.1 =pyhd8ed1ab_0
     - gettext =0.21.1 =h5728263_0
     - glib =2.78.1 =h12be248_1
@@ -81,7 +79,7 @@ requirements:
     - prompt_toolkit =3.0.41 =hd8ed1ab_0
     - psutil =5.9.5 =py39ha55989b_1
     - pure_eval =0.2.2 =pyhd8ed1ab_0
-    - pygments =2.17.1 =pyhd8ed1ab_0
+    - pygments =2.17.2 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py39h99910a6_5
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =4_cp39
@@ -103,7 +101,7 @@ requirements:
     - vc =14.3 =h64f974e_17
     - vc14_runtime =14.36.32532 =hdcecf7f_17
     - vs2015_runtime =14.36.32532 =h05e6639_17
-    - wcwidth =0.2.10 =pyhd8ed1ab_0
+    - wcwidth =0.2.12 =pyhd8ed1ab_0
     - wheel =0.41.3 =pyhd8ed1ab_0
     - xz =5.2.6 =h8d14728_0
     - zeromq =4.3.5 =h63175ca_0

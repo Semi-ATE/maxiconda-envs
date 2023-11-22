@@ -34,14 +34,12 @@ requirements:
     - scipy =1.10.1 =py38he3f4005_3
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
 
-    # 201 secondary packages :
+    # 199 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h4e544f5_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attr =2.5.1 =h4e544f5_1
     - backcall =0.2.0 =pyh9f0ad1d_0
-    - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - boost =1.74.0 =py38h98a32fd_5
     - boost-cpp =1.74.0 =ha1c1135_8
     - brotli =1.1.0 =h31becfc_1
@@ -100,12 +98,12 @@ requirements:
     - lcms2 =2.15 =h3e0bdec_1
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
-    - libblas =3.9.0 =19_linuxaarch64_openblas
+    - libblas =3.9.0 =20_linuxaarch64_openblas
     - libbrotlicommon =1.1.0 =h31becfc_1
     - libbrotlidec =1.1.0 =h31becfc_1
     - libbrotlienc =1.1.0 =h31becfc_1
     - libcap =2.67 =h8246067_0
-    - libcblas =3.9.0 =19_linuxaarch64_openblas
+    - libcblas =3.9.0 =20_linuxaarch64_openblas
     - libclang =15.0.7 =default_hdf9a116_3
     - libclang13 =15.0.7 =default_hc086480_3
     - libcups =2.3.3 =h4303303_3
@@ -125,11 +123,11 @@ requirements:
     - libgpg-error =1.47 =h5ce24db_0
     - libiconv =1.17 =h9cdd2b7_0
     - libjpeg-turbo =2.1.5.1 =h31becfc_1
-    - liblapack =3.9.0 =19_linuxaarch64_openblas
+    - liblapack =3.9.0 =20_linuxaarch64_openblas
     - libllvm15 =15.0.7 =h87099f9_1
     - libnsl =2.0.1 =h31becfc_0
     - libogg =1.3.4 =h3557bc0_1
-    - libopenblas =0.3.24 =pthreads_h5a5ec62_0
+    - libopenblas =0.3.25 =pthreads_h5a5ec62_0
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
     - libpq =15.3 =hf616e62_1
@@ -182,7 +180,7 @@ requirements:
     - pulseaudio-daemon =16.1 =h7a898ed_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycairo =1.25.0 =py38hd3675a5_1
-    - pygments =2.17.1 =pyhd8ed1ab_0
+    - pygments =2.17.2 =pyhd8ed1ab_0
     - pyparsing =3.1.1 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py38hb83fbf6_5
     - pysocks =1.7.1 =py38h2063c64_5
@@ -210,7 +208,7 @@ requirements:
     - typing_extensions =4.8.0 =pyha770c72_0
     - unicodedata2 =15.1.0 =py38h9579f32_0
     - urllib3 =2.1.0 =pyhd8ed1ab_0
-    - wcwidth =0.2.10 =pyhd8ed1ab_0
+    - wcwidth =0.2.12 =pyhd8ed1ab_0
     - wheel =0.41.3 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =h4e544f5_0

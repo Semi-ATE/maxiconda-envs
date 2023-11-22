@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 450 secondary packages :
+    # 449 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -79,7 +79,6 @@ requirements:
     - babel =2.13.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py38hb192615_8
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =hb547adb_1
@@ -118,7 +117,7 @@ requirements:
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
     - et_xmlfile =1.1.0 =pyhd8ed1ab_0
-    - exceptiongroup =1.1.3 =pyhd8ed1ab_0
+    - exceptiongroup =1.2.0 =pyhd8ed1ab_0
     - executing =2.0.1 =pyhd8ed1ab_0
     - expat =2.5.0 =hb7217d7_1
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -175,11 +174,11 @@ requirements:
     - lcms2 =2.15 =hf2736f0_3
     - ld64_osx-arm64 =609 =ha4bd21c_15
     - lerc =4.0.0 =h9a09cb3_0
-    - libblas =3.9.0 =19_osxarm64_openblas
+    - libblas =3.9.0 =20_osxarm64_openblas
     - libbrotlicommon =1.1.0 =hb547adb_1
     - libbrotlidec =1.1.0 =hb547adb_1
     - libbrotlienc =1.1.0 =hb547adb_1
-    - libcblas =3.9.0 =19_osxarm64_openblas
+    - libcblas =3.9.0 =20_osxarm64_openblas
     - libclang =15.0.7 =default_h5dc8d65_3
     - libclang-cpp16 =16.0.6 =default_h07b2d96_2
     - libclang13 =15.0.7 =default_hc7183e1_3
@@ -196,13 +195,13 @@ requirements:
     - libglib =2.78.1 =hb438215_1
     - libiconv =1.17 =he4db4b2_0
     - libjpeg-turbo =3.0.0 =hb547adb_1
-    - liblapack =3.9.0 =19_osxarm64_openblas
+    - liblapack =3.9.0 =20_osxarm64_openblas
     - libllvm14 =14.0.6 =hd1a9a77_4
     - libllvm15 =15.0.7 =h504e6bf_3
     - libllvm16 =16.0.6 =he79909e_2
     - libnghttp2 =1.58.0 =ha4dd798_0
     - libogg =1.3.4 =h27ca646_1
-    - libopenblas =0.3.24 =openmp_hd76b1f2_0
+    - libopenblas =0.3.25 =openmp_h6c19121_0
     - libopus =1.3.1 =h27ca646_1
     - libpng =1.6.39 =h76d750c_0
     - libpq =16.1 =hd435d45_0
@@ -260,7 +259,7 @@ requirements:
     - ply =3.11 =py_1
     - pooch =1.8.0 =pyhd8ed1ab_0
     - progressbar2 =4.2.0 =pyhd8ed1ab_0
-    - prometheus_client =0.18.0 =pyhd8ed1ab_1
+    - prometheus_client =0.19.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.41 =pyha770c72_0
     - prompt_toolkit =3.0.41 =hd8ed1ab_0
     - pthread-stubs =0.4 =h27ca646_1001
@@ -268,7 +267,7 @@ requirements:
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
     - pydantic-core =2.14.3 =py38h51b07bf_0
-    - pygments =2.17.1 =pyhd8ed1ab_0
+    - pygments =2.17.2 =pyhd8ed1ab_0
     - pyparsing =3.1.1 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py38he333c0f_5
     - pysocks =1.7.1 =py38h10201cd_5
@@ -499,7 +498,7 @@ requirements:
     - unicodedata2 =15.1.0 =py38hb192615_0
     - uri-template =1.3.0 =pyhd8ed1ab_0
     - urllib3 =2.1.0 =pyhd8ed1ab_0
-    - wcwidth =0.2.10 =pyhd8ed1ab_0
+    - wcwidth =0.2.12 =pyhd8ed1ab_0
     - webcolors =1.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - websocket-client =1.6.4 =pyhd8ed1ab_0

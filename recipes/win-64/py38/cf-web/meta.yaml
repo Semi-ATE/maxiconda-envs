@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.23 =py38h91455d4_0
     - twisted =23.10.0 =py38h91455d4_0
 
-    # 111 secondary packages :
+    # 110 secondary packages :
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - asgiref =3.7.2 =pyhd8ed1ab_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
@@ -43,7 +43,6 @@ requirements:
     - automat =22.10.0 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py38h91455d4_8
     - bcrypt =4.0.1 =py38h4900a04_1
     - brotli-python =1.1.0 =py38hd3f51b4_1
@@ -108,7 +107,7 @@ requirements:
     - pyasn1 =0.5.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pygments =2.17.1 =pyhd8ed1ab_0
+    - pygments =2.17.2 =pyhd8ed1ab_0
     - pyopenssl =23.3.0 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py38hd3f51b4_5
     - pysocks =1.7.1 =py38haa244fe_5
@@ -138,7 +137,7 @@ requirements:
     - vc =14.3 =h64f974e_17
     - vc14_runtime =14.36.32532 =hdcecf7f_17
     - vs2015_runtime =14.36.32532 =h05e6639_17
-    - wcwidth =0.2.10 =pyhd8ed1ab_0
+    - wcwidth =0.2.12 =pyhd8ed1ab_0
     - wheel =0.41.3 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py38haa244fe_5
     - xz =5.2.6 =h8d14728_0
