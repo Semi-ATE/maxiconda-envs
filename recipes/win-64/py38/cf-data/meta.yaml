@@ -41,7 +41,7 @@ requirements:
     - seaborn =0.13.0 =hd8ed1ab_0
     - spyder-kernels =2.5.0 =win_pyh7428d3b_0
     - sqlalchemy =2.0.23 =py38h91455d4_0
-    - sqlite =3.44.0 =hcfcfb64_0
+    - sqlite =3.44.1 =hcfcfb64_0
     - statsmodels =0.14.0 =py38he7056a7_2
     - xgboost =1.7.6 =cpu_py38h684852a_6
 
@@ -53,18 +53,18 @@ requirements:
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.7 =h2364229_0
+    - aws-c-auth =0.7.7 =h84b5a32_1
     - aws-c-cal =0.6.9 =hde771f8_1
     - aws-c-common =0.9.8 =hcfcfb64_0
     - aws-c-compression =0.2.17 =hde771f8_6
-    - aws-c-event-stream =0.3.2 =he53de8f_6
-    - aws-c-http =0.7.14 =h0e17c8e_1
-    - aws-c-io =0.13.35 =h56d495d_8
-    - aws-c-mqtt =0.9.9 =hd1ff352_0
-    - aws-c-s3 =0.3.24 =h7fe92ea_1
+    - aws-c-event-stream =0.3.2 =hac16e19_7
+    - aws-c-http =0.7.14 =h9b49971_2
+    - aws-c-io =0.13.36 =h56d495d_0
+    - aws-c-mqtt =0.9.10 =hbf19702_1
+    - aws-c-s3 =0.4.0 =h812f6a7_1
     - aws-c-sdkutils =0.1.12 =hde771f8_5
     - aws-checksums =0.1.17 =hde771f8_5
-    - aws-crt-cpp =0.24.7 =h09a2372_2
+    - aws-crt-cpp =0.24.7 =h5fc6ec9_5
     - aws-sdk-cpp =1.11.182 =hdff5e81_7
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bcrypt =4.0.1 =py38h4900a04_1
@@ -205,7 +205,7 @@ requirements:
     - libprotobuf =4.24.4 =hb8276f3_0
     - libre2-11 =2023.06.02 =h8c5ae5e_0
     - libsodium =1.0.18 =h8d14728_1
-    - libsqlite =3.44.0 =hcfcfb64_0
+    - libsqlite =3.44.1 =hcfcfb64_0
     - libssh2 =1.11.0 =h7dfc565_0
     - libthrift =0.19.0 =ha2b3283_1
     - libtiff =4.6.0 =h6e2ebb7_2
@@ -285,8 +285,8 @@ requirements:
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic =2.5.1 =pyhd8ed1ab_0
-    - pydantic-core =2.14.3 =py38h4900a04_0
+    - pydantic =2.5.2 =pyhd8ed1ab_0
+    - pydantic-core =2.14.5 =py38h4900a04_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0

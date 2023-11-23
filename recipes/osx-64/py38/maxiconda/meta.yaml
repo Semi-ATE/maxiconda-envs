@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.0.3 =py38h78e6021_1
     - psutil =5.9.5 =py38hcafd530_1
-    - pydantic =2.5.1 =pyhd8ed1ab_0
+    - pydantic =2.5.2 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py38he1c912d_5
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =7.4.3 =pyhd8ed1ab_0
@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
     - sqlalchemy =2.0.23 =py38hae2e43d_0
-    - sqlite =3.44.0 =h7461747_0
+    - sqlite =3.44.1 =h7461747_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.66.1 =pyhd8ed1ab_0
     - transitions =0.9.0 =pyhd8ed1ab_0
@@ -207,7 +207,7 @@ requirements:
     - libpng =1.6.39 =ha978bb4_0
     - libpq =16.1 =h6dd4ff7_0
     - libsodium =1.0.18 =hbcb3906_1
-    - libsqlite =3.44.0 =h92b6c6a_0
+    - libsqlite =3.44.1 =h92b6c6a_0
     - libssh2 =1.11.0 =hd019ec5_0
     - libtiff =4.6.0 =h684deea_2
     - libvorbis =1.3.7 =h046ec9c_0
@@ -267,7 +267,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic-core =2.14.3 =py38h51dbebd_0
+    - pydantic-core =2.14.5 =py38h51dbebd_0
     - pygments =2.17.2 =pyhd8ed1ab_0
     - pyobjc-core =10.0 =py38h095c2e5_0
     - pyobjc-framework-cocoa =10.0 =py38h095c2e5_1
@@ -293,7 +293,7 @@ requirements:
     - r-blob =1.2.4 =r43hc72bb7e_1
     - r-boot =1.3_28.1 =r43hc72bb7e_1
     - r-broom =1.0.5 =r43hc72bb7e_1
-    - r-bslib =0.5.1 =r43hc72bb7e_0
+    - r-bslib =0.6.0 =r43hc72bb7e_0
     - r-cachem =1.0.8 =r43h6dc245f_1
     - r-callr =3.7.3 =r43hc72bb7e_1
     - r-caret =6.0_94 =r43h6dc245f_1
@@ -349,7 +349,7 @@ requirements:
     - r-highr =0.10 =r43hc72bb7e_1
     - r-hms =1.1.3 =r43hc72bb7e_1
     - r-htmltools =0.5.7 =r43h64b2c41_0
-    - r-htmlwidgets =1.6.2 =r43hc72bb7e_1
+    - r-htmlwidgets =1.6.3 =r43hc72bb7e_0
     - r-httpcode =0.3.0 =r43h694c41f_3
     - r-httpuv =1.6.12 =r43h64b2c41_0
     - r-httr =1.4.7 =r43hc72bb7e_0
@@ -445,7 +445,7 @@ requirements:
     - r-tidyverse =2.0.0 =r43h785f33e_1
     - r-timechange =0.2.0 =r43hac7d2d5_1
     - r-timedate =4022.108 =r43hc72bb7e_1
-    - r-tinytex =0.48 =r43hc72bb7e_1
+    - r-tinytex =0.49 =r43hc72bb7e_0
     - r-triebeard =0.4.1 =r43hac7d2d5_1
     - r-ttr =0.24.3 =r43h6dc245f_2
     - r-tzdb =0.4.0 =r43hac7d2d5_1

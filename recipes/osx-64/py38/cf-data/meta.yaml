@@ -42,7 +42,7 @@ requirements:
     - seaborn =0.13.0 =hd8ed1ab_0
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
     - sqlalchemy =2.0.23 =py38hae2e43d_0
-    - sqlite =3.44.0 =h7461747_0
+    - sqlite =3.44.1 =h7461747_0
     - statsmodels =0.14.0 =py38h7092abf_2
     - xgboost =1.7.6 =cpu_py38h273ab5c_6
 
@@ -56,18 +56,18 @@ requirements:
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.7 =hc3630cc_0
+    - aws-c-auth =0.7.7 =h9ac2572_1
     - aws-c-cal =0.6.9 =h49e9720_1
     - aws-c-common =0.9.8 =h10d778d_0
     - aws-c-compression =0.2.17 =hff1f2c8_6
-    - aws-c-event-stream =0.3.2 =hb6e475e_6
-    - aws-c-http =0.7.14 =h950a07a_1
-    - aws-c-io =0.13.35 =hb98174f_8
-    - aws-c-mqtt =0.9.9 =h5e4a26e_0
-    - aws-c-s3 =0.3.24 =h4293da7_1
+    - aws-c-event-stream =0.3.2 =hdb93a3d_7
+    - aws-c-http =0.7.14 =h99202ee_2
+    - aws-c-io =0.13.36 =hb98174f_0
+    - aws-c-mqtt =0.9.10 =h10c2427_1
+    - aws-c-s3 =0.4.0 =h70a162a_1
     - aws-c-sdkutils =0.1.12 =hff1f2c8_5
     - aws-checksums =0.1.17 =hff1f2c8_5
-    - aws-crt-cpp =0.24.7 =h0a75192_2
+    - aws-crt-cpp =0.24.7 =hd8871d3_5
     - aws-sdk-cpp =1.11.182 =h28d282b_7
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bcrypt =4.0.1 =py38h7510fb3_1
@@ -226,7 +226,7 @@ requirements:
     - libre2-11 =2023.06.02 =h4694dbf_0
     - librsvg =2.56.3 =hec3db73_0
     - libsodium =1.0.18 =hbcb3906_1
-    - libsqlite =3.44.0 =h92b6c6a_0
+    - libsqlite =3.44.1 =h92b6c6a_0
     - libssh2 =1.11.0 =hd019ec5_0
     - libthrift =0.19.0 =h064b379_1
     - libtiff =4.6.0 =h684deea_2
@@ -312,8 +312,8 @@ requirements:
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic =2.5.1 =pyhd8ed1ab_0
-    - pydantic-core =2.14.3 =py38h51dbebd_0
+    - pydantic =2.5.2 =pyhd8ed1ab_0
+    - pydantic-core =2.14.5 =py38h51dbebd_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0
