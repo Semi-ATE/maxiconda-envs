@@ -64,10 +64,10 @@ requirements:
     - aws-c-http =0.7.14 =h99202ee_2
     - aws-c-io =0.13.36 =hb98174f_0
     - aws-c-mqtt =0.9.10 =h10c2427_1
-    - aws-c-s3 =0.4.0 =h70a162a_1
+    - aws-c-s3 =0.4.1 =h70a162a_0
     - aws-c-sdkutils =0.1.12 =hff1f2c8_5
     - aws-checksums =0.1.17 =hff1f2c8_5
-    - aws-crt-cpp =0.24.7 =hd8871d3_5
+    - aws-crt-cpp =0.24.7 =hf3941dc_6
     - aws-sdk-cpp =1.11.182 =h28d282b_7
     - bcrypt =4.0.1 =py39hf33989b_1
     - blinker =1.7.0 =pyhd8ed1ab_0
@@ -121,7 +121,7 @@ requirements:
     - fontconfig =2.14.2 =h5bb23bf_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.45.0 =py39ha09f3b3_0
+    - fonttools =4.45.1 =py39ha09f3b3_0
     - freetype =2.12.1 =h60636b9_2
     - fribidi =1.0.10 =hbcb3906_0
     - fsspec =2023.10.0 =pyhca7485f_0
