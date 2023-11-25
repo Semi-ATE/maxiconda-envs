@@ -36,12 +36,12 @@ requirements:
     - pydot =1.4.2 =py39hcbf5309_4
     - pyqt =5.15.9 =py39hb77abff_5
     - scikit-learn =1.3.2 =py39h7c199eb_1
-    - scipy =1.11.3 =py39hddb5d58_1
+    - scipy =1.11.4 =py39hddb5d58_0
     - scrapy =2.11.0 =py39hcbf5309_0
     - seaborn =0.13.0 =hd8ed1ab_0
     - spyder-kernels =2.5.0 =win_pyh7428d3b_0
     - sqlalchemy =2.0.23 =py39ha55989b_0
-    - sqlite =3.44.1 =hcfcfb64_0
+    - sqlite =3.44.2 =hcfcfb64_0
     - statsmodels =0.14.0 =py39hd88c2e4_2
     - xgboost =1.7.6 =cpu_py39hd3de297_6
 
@@ -142,7 +142,7 @@ requirements:
     - htmlmin =0.1.12 =py_1
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =73.2 =h63175ca_0
-    - idna =3.4 =pyhd8ed1ab_0
+    - idna =3.5 =pyhd8ed1ab_0
     - imagehash =4.3.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.11.0 =pyhd8ed1ab_0
     - importlib-metadata =6.8.0 =pyha770c72_0
@@ -152,7 +152,7 @@ requirements:
     - incremental =22.10.0 =pyhd8ed1ab_0
     - intel-openmp =2023.2.0 =h57928b3_50497
     - ipykernel =6.26.0 =pyha63f2e9_0
-    - ipython =8.17.2 =pyh5737063_0
+    - ipython =8.18.0 =pyh5737063_0
     - ipywidgets =8.1.1 =pyhd8ed1ab_0
     - itemadapter =0.8.0 =pyhd8ed1ab_0
     - itemloaders =1.1.0 =pyhd8ed1ab_0
@@ -205,7 +205,7 @@ requirements:
     - libprotobuf =4.24.4 =hb8276f3_0
     - libre2-11 =2023.06.02 =h8c5ae5e_0
     - libsodium =1.0.18 =h8d14728_1
-    - libsqlite =3.44.1 =hcfcfb64_0
+    - libsqlite =3.44.2 =hcfcfb64_0
     - libssh2 =1.11.0 =h7dfc565_0
     - libthrift =0.19.0 =ha2b3283_1
     - libtiff =4.6.0 =h6e2ebb7_2
@@ -249,7 +249,7 @@ requirements:
     - numexpr =2.8.7 =mkl_py39h8e34069_4
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h3d672ee_3
-    - openssl =3.1.4 =hcfcfb64_0
+    - openssl =3.2.0 =hcfcfb64_0
     - orc =1.9.2 =hf0b6bd4_0
     - packaging =23.2 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0

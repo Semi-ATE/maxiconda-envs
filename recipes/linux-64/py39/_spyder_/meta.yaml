@@ -31,8 +31,8 @@ requirements:
     - pandas =2.1.3 =py39hddac248_0
     - pyqt =5.15.9 =py39h52134e7_5
     - pyqtwebengine =5.15.9 =py39h071a739_5
-    - scipy =1.11.3 =py39h474f0d3_1
-    - spyder =5.5.0 =py39hf3d152e_2
+    - scipy =1.11.4 =py39h474f0d3_0
+    - spyder =5.5.0 =py39hf3d152e_3
     - sympy =1.12 =pypyh9d50eac_103
 
     # 311 secondary packages :
@@ -103,7 +103,7 @@ requirements:
     - gstreamer =1.22.7 =h98fc4e7_0
     - harfbuzz =8.3.0 =h3d44ed6_0
     - icu =73.2 =h59595ed_0
-    - idna =3.4 =pyhd8ed1ab_0
+    - idna =3.5 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
     - importlib-metadata =6.8.0 =pyha770c72_0
     - importlib-resources =6.1.1 =pyhd8ed1ab_0
@@ -112,7 +112,7 @@ requirements:
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.26.0 =pyhf8b6a83_0
-    - ipython =8.17.2 =pyh41d4057_0
+    - ipython =8.18.0 =pyh0d859eb_0
     - isort =5.12.0 =pyhd8ed1ab_1
     - jaraco.classes =3.3.0 =pyhd8ed1ab_0
     - jedi =0.19.1 =pyhd8ed1ab_0
@@ -167,7 +167,7 @@ requirements:
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
     - libspatialindex =1.9.3 =h9c3ff4c_4
-    - libsqlite =3.44.1 =h2797004_0
+    - libsqlite =3.44.2 =h2797004_0
     - libstdcxx-ng =13.2.0 =h7e041cc_3
     - libsystemd0 =254 =h3516f8a_0
     - libtiff =4.6.0 =ha9c0a0a_2
@@ -207,7 +207,7 @@ requirements:
     - nss =3.94 =h1d7d5a4_0
     - numpydoc =1.5.0 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h488ebb8_3
-    - openssl =3.1.4 =hd590300_0
+    - openssl =3.2.0 =hd590300_0
     - packaging =23.2 =pyhd8ed1ab_0
     - pandoc =3.1.3 =h32600fe_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
