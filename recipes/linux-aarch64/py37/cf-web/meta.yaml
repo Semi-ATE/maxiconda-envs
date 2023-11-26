@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =1.4.42 =py37heeccf27_0
     - twisted =22.8.0 =py37heeccf27_0
 
-    # 168 secondary packages :
+    # 169 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.10 =h31becfc_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -65,7 +65,7 @@ requirements:
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
-    - font-ttf-ubuntu =0.83 =hab24e00_0
+    - font-ttf-ubuntu =0.83 =h77eed37_1
     - fontconfig =2.14.2 =ha9a116f_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
@@ -162,7 +162,8 @@ requirements:
     - pyzmq =24.0.1 =py37h7cb28e0_0
     - qt-main =5.15.8 =hc564a22_17
     - readline =8.2 =h8fc344f_1
-    - service_identity =18.1.0 =py_0
+    - service-identity =21.1.0 =pyhd8ed1ab_0
+    - service_identity =21.1.0 =hd8ed1ab_0
     - setuptools =68.2.2 =pyhd8ed1ab_0
     - sip =6.7.2 =py37hea06613_0
     - six =1.16.0 =pyh6c4a22f_0

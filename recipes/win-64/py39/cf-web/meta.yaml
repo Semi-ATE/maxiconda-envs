@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.23 =py39ha55989b_0
     - twisted =23.10.0 =py39ha55989b_0
 
-    # 109 secondary packages :
+    # 110 secondary packages :
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - asgiref =3.7.2 =pyhd8ed1ab_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
@@ -115,7 +115,8 @@ requirements:
     - pywin32 =306 =py39h99910a6_2
     - pyzmq =25.1.1 =py39h7eaf5a6_2
     - qt-main =5.15.8 =h9e85ed6_17
-    - service_identity =18.1.0 =py_0
+    - service-identity =21.1.0 =pyhd8ed1ab_0
+    - service_identity =21.1.0 =hd8ed1ab_0
     - setuptools =68.2.2 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h99910a6_0
     - six =1.16.0 =pyh6c4a22f_0
