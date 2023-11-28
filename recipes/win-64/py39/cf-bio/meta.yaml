@@ -36,7 +36,7 @@ requirements:
     - scipy =1.11.4 =py39hddb5d58_0
     - spyder-kernels =2.5.0 =win_pyh7428d3b_0
 
-    # 182 secondary packages :
+    # 181 secondary packages :
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - blosc =1.21.5 =hdccc3a2_0
     - brotli =1.1.0 =hcfcfb64_1
@@ -89,7 +89,7 @@ requirements:
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - intel-openmp =2023.2.0 =h57928b3_50497
     - ipykernel =6.26.0 =pyha63f2e9_0
-    - ipython =8.18.0 =pyh5737063_0
+    - ipython =8.18.1 =pyh5737063_1
     - jedi =0.19.1 =pyhd8ed1ab_0
     - joblib =1.3.2 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
@@ -163,7 +163,6 @@ requirements:
     - ply =3.11 =py_1
     - pmw =2.0.1 =py39hcbf5309_1008
     - prompt-toolkit =3.0.41 =pyha770c72_0
-    - prompt_toolkit =3.0.41 =hd8ed1ab_0
     - psutil =5.9.5 =py39ha55989b_1
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
@@ -201,7 +200,7 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.3.3 =py39ha55989b_1
     - tqdm =4.66.1 =pyhd8ed1ab_0
-    - traitlets =5.13.0 =pyhd8ed1ab_0
+    - traitlets =5.14.0 =pyhd8ed1ab_0
     - typing-extensions =4.8.0 =hd8ed1ab_0
     - typing_extensions =4.8.0 =pyha770c72_0
     - tzdata =2023c =h71feb2d_0
