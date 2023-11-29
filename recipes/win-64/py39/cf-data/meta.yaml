@@ -66,7 +66,7 @@ requirements:
     - aws-checksums =0.1.17 =hde771f8_5
     - aws-crt-cpp =0.24.7 =hcde188a_6
     - aws-sdk-cpp =1.11.182 =hdff5e81_7
-    - bcrypt =4.1.0 =py39hf21820d_0
+    - bcrypt =4.1.1 =py39hf21820d_0
     - blinker =1.7.0 =pyhd8ed1ab_0
     - bottleneck =1.3.7 =py39hd88c2e4_1
     - brotli =1.1.0 =hcfcfb64_1
@@ -88,12 +88,12 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_0
     - colorlover =0.3.0 =py_0
     - comm =0.1.4 =pyhd8ed1ab_0
-    - confection =0.1.3 =py39h5b92f00_1
+    - confection =0.1.4 =py39h5b92f00_0
     - configparser =5.3.0 =pyhd8ed1ab_0
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.2.0 =py39h1f6ef14_0
-    - cryptography =41.0.5 =py39hb6bd5e6_0
+    - cryptography =41.0.7 =py39hb6bd5e6_0
     - cssselect =1.2.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =py_0
     - cycler =0.12.1 =pyhd8ed1ab_0
@@ -249,7 +249,7 @@ requirements:
     - numexpr =2.8.7 =mkl_py39h8e34069_4
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h3d672ee_3
-    - openssl =3.2.0 =hcfcfb64_0
+    - openssl =3.2.0 =hcfcfb64_1
     - orc =1.9.2 =hf0b6bd4_0
     - packaging =23.2 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
