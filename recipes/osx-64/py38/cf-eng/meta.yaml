@@ -52,8 +52,8 @@ requirements:
     - gst-plugins-base =1.22.7 =hd283e88_0
     - gstreamer =1.22.7 =h8954545_0
     - icu =73.2 =hf5e326d_0
-    - importlib-metadata =6.8.0 =pyha770c72_0
-    - importlib_metadata =6.8.0 =hd8ed1ab_0
+    - importlib-metadata =6.9.0 =pyha770c72_0
+    - importlib_metadata =6.9.0 =hd8ed1ab_0
     - ipykernel =6.26.0 =pyh3cd1d5f_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - jedi =0.19.1 =pyhd8ed1ab_0
@@ -62,8 +62,8 @@ requirements:
     - krb5 =1.21.2 =hb884880_0
     - libblas =3.9.0 =20_osx64_openblas
     - libcblas =3.9.0 =20_osx64_openblas
-    - libclang =15.0.7 =default_hdb78580_3
-    - libclang13 =15.0.7 =default_h953c2e9_3
+    - libclang =15.0.7 =default_h6b1ee41_4
+    - libclang13 =15.0.7 =default_h89cd682_4
     - libcxx =16.0.6 =hd57cbcb_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libffi =3.4.2 =h0d85af4_5
@@ -73,7 +73,7 @@ requirements:
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =20_osx64_openblas
-    - libllvm15 =15.0.7 =he4b1e75_3
+    - libllvm15 =15.0.7 =hbedff68_4
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
@@ -83,9 +83,9 @@ requirements:
     - libsqlite =3.44.2 =h92b6c6a_0
     - libusb =1.0.26 =hc2f2c32_100
     - libvorbis =1.3.7 =h046ec9c_0
-    - libxml2 =2.11.6 =hc0ae0f7_0
+    - libxml2 =2.12.1 =hc0ae0f7_0
     - libzlib =1.2.13 =h8a1eda9_5
-    - llvm-openmp =17.0.5 =hb6ac08f_0
+    - llvm-openmp =17.0.6 =hb6ac08f_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mysql-common =8.0.33 =h1d20c9b_6
     - mysql-libs =8.0.33 =hed35180_6

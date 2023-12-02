@@ -86,7 +86,7 @@ requirements:
     - brotli-python =1.1.0 =py38he333c0f_1
     - bwidget =1.9.14 =hce30654_1
     - bzip2 =1.0.8 =h93a5062_5
-    - c-ares =1.22.1 =h93a5062_0
+    - c-ares =1.23.0 =h93a5062_0
     - ca-certificates =2023.11.17 =hf0a4a13_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
@@ -95,19 +95,19 @@ requirements:
     - certifi =2023.11.17 =pyhd8ed1ab_0
     - cffi =1.16.0 =py38h73f40f7_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
-    - clang =16.0.6 =he79909e_2
-    - clang-16 =16.0.6 =default_h07b2d96_2
+    - clang =16.0.6 =haab561b_3
+    - clang-16 =16.0.6 =default_hd209bcb_3
     - clang_impl_osx-arm64 =16.0.6 =hc421ffc_6
     - clang_osx-arm64 =16.0.6 =h54d7cd3_6
-    - clangxx =16.0.6 =default_h298e243_2
+    - clangxx =16.0.6 =default_h5c94ee4_3
     - clangxx_impl_osx-arm64 =16.0.6 =hcd7bac0_6
     - clangxx_osx-arm64 =16.0.6 =hc421ffc_6
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.4 =pyhd8ed1ab_0
-    - compiler-rt =16.0.6 =hf8d1dfb_1
-    - compiler-rt_osx-arm64 =16.0.6 =hf8d1dfb_1
+    - compiler-rt =16.0.6 =h3808999_2
+    - compiler-rt_osx-arm64 =16.0.6 =h3808999_2
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h9afee92_1
     - curl =8.4.0 =h2d989ff_0
@@ -146,9 +146,9 @@ requirements:
     - harfbuzz =8.3.0 =h8f0ba13_0
     - icu =73.2 =hc8870d7_0
     - idna =3.6 =pyhd8ed1ab_0
-    - importlib-metadata =6.8.0 =pyha770c72_0
+    - importlib-metadata =6.9.0 =pyha770c72_0
     - importlib-resources =6.1.1 =pyhd8ed1ab_0
-    - importlib_metadata =6.8.0 =hd8ed1ab_0
+    - importlib_metadata =6.9.0 =hd8ed1ab_0
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
     - ipykernel =6.26.0 =pyh3cd1d5f_0
@@ -158,7 +158,7 @@ requirements:
     - json5 =0.9.14 =pyhd8ed1ab_0
     - jsonpointer =2.4 =py38h10201cd_3
     - jsonschema =4.20.0 =pyhd8ed1ab_0
-    - jsonschema-specifications =2023.11.1 =pyhd8ed1ab_0
+    - jsonschema-specifications =2023.11.2 =pyhd8ed1ab_0
     - jsonschema-with-format-nongpl =4.20.0 =pyhd8ed1ab_0
     - jupyter-lsp =2.2.1 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
@@ -179,9 +179,9 @@ requirements:
     - libbrotlidec =1.1.0 =hb547adb_1
     - libbrotlienc =1.1.0 =hb547adb_1
     - libcblas =3.9.0 =20_osxarm64_openblas
-    - libclang =15.0.7 =default_h5dc8d65_3
-    - libclang-cpp16 =16.0.6 =default_h07b2d96_2
-    - libclang13 =15.0.7 =default_hc7183e1_3
+    - libclang =15.0.7 =default_hd209bcb_4
+    - libclang-cpp16 =16.0.6 =default_hd209bcb_3
+    - libclang13 =15.0.7 =default_ha49e599_4
     - libcurl =8.4.0 =h2d989ff_0
     - libcxx =16.0.6 =h4653b0c_0
     - libdeflate =1.19 =hb547adb_0
@@ -214,7 +214,7 @@ requirements:
     - libxcb =1.15 =hf346824_0
     - libxml2 =2.11.6 =h0d0cfa8_0
     - libzlib =1.2.13 =h53f4e23_5
-    - llvm-openmp =17.0.5 =hcd81f8e_0
+    - llvm-openmp =17.0.6 =hcd81f8e_0
     - llvm-tools =16.0.6 =he79909e_2
     - llvmlite =0.41.1 =py38hbed3d3f_0
     - make =4.3 =he57ea6c_1
@@ -290,7 +290,7 @@ requirements:
     - r-blob =1.2.4 =r43hc72bb7e_1
     - r-boot =1.3_28.1 =r43hc72bb7e_1
     - r-broom =1.0.5 =r43hc72bb7e_1
-    - r-bslib =0.6.0 =r43hc72bb7e_0
+    - r-bslib =0.6.1 =r43hc72bb7e_0
     - r-cachem =1.0.8 =r43h21dc0da_1
     - r-callr =3.7.3 =r43hc72bb7e_1
     - r-caret =6.0_94 =r43h21dc0da_1
@@ -299,7 +299,7 @@ requirements:
     - r-cli =3.6.1 =r43he62749d_1
     - r-clipr =0.8.0 =r43hc72bb7e_2
     - r-clock =0.7.0 =r43he62749d_1
-    - r-cluster =2.1.5 =r43hf391e02_0
+    - r-cluster =2.1.6 =r43hf391e02_0
     - r-codetools =0.2_19 =r43hc72bb7e_1
     - r-colorspace =2.1_0 =r43h21dc0da_1
     - r-commonmark =1.9.0 =r43h21dc0da_1
@@ -341,7 +341,7 @@ requirements:
     - r-gower =1.0.1 =r43h21dc0da_1
     - r-gtable =0.3.4 =r43hc72bb7e_0
     - r-hardhat =1.3.0 =r43hc72bb7e_1
-    - r-haven =2.5.3 =r43he62749d_0
+    - r-haven =2.5.4 =r43he96f11e_0
     - r-hexbin =1.28.3 =r43h81fe24e_1
     - r-highr =0.10 =r43hc72bb7e_1
     - r-hms =1.1.3 =r43hc72bb7e_1
@@ -372,7 +372,7 @@ requirements:
     - r-magrittr =2.0.3 =r43h21dc0da_2
     - r-maps =3.4.1.1 =r43hd2d937b_0
     - r-mass =7.3_60 =r43h21dc0da_1
-    - r-matrix =1.6_3 =r43hb447869_0
+    - r-matrix =1.6_4 =r43hb447869_0
     - r-memoise =2.0.1 =r43hc72bb7e_2
     - r-mgcv =1.9_0 =r43h8420647_0
     - r-mime =0.12 =r43h21dc0da_2
@@ -461,10 +461,10 @@ requirements:
     - r-zoo =1.8_12 =r43h21dc0da_1
     - rapidfuzz =3.5.2 =py38hde5fecb_0
     - readline =8.2 =h92ec313_1
-    - referencing =0.31.0 =pyhd8ed1ab_0
+    - referencing =0.31.1 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.13.1 =py38h51b07bf_0
+    - rpds-py =0.13.2 =py38h51b07bf_0
     - ruamel.yaml =0.18.5 =py38h336bac9_0
     - ruamel.yaml.clib =0.2.7 =py38hb192615_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1

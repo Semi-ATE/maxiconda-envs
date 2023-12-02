@@ -49,7 +49,7 @@ requirements:
     - brotli =1.1.0 =hd590300_1
     - brotli-bin =1.1.0 =hd590300_1
     - bzip2 =1.0.8 =hd590300_5
-    - c-ares =1.22.1 =hd590300_0
+    - c-ares =1.23.0 =hd590300_0
     - ca-certificates =2023.11.17 =hbcca054_0
     - cairo =1.16.0 =ha61ee94_1014
     - certifi =2023.11.17 =pyhd8ed1ab_0
@@ -112,8 +112,8 @@ requirements:
     - libbrotlienc =1.1.0 =hd590300_1
     - libcap =2.67 =he9d0100_0
     - libcblas =3.9.0 =20_linux64_openblas
-    - libclang =15.0.7 =default_h7634d5b_3
-    - libclang13 =15.0.7 =default_h9986a30_3
+    - libclang =15.0.7 =default_hb11cfb5_4
+    - libclang13 =15.0.7 =default_ha2b6cf4_4
     - libcups =2.3.3 =h36d4200_3
     - libcurl =8.1.2 =h409715c_0
     - libdb =6.2.32 =h9c3ff4c_0
@@ -125,7 +125,7 @@ requirements:
     - libffi =3.4.2 =h7f98852_5
     - libflac =1.4.3 =h59595ed_0
     - libgcc-ng =13.2.0 =h807b86a_3
-    - libgcrypt =1.10.2 =hd590300_0
+    - libgcrypt =1.10.3 =hd590300_0
     - libgfortran-ng =13.2.0 =h69a702a_3
     - libgfortran5 =13.2.0 =ha4646dd_3
     - libglib =2.78.1 =h783c2da_1
@@ -180,7 +180,7 @@ requirements:
     - openssl =3.1.4 =hd590300_0
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
-    - patsy =0.5.3 =pyhd8ed1ab_0
+    - patsy =0.5.4 =pyhd8ed1ab_0
     - pcre2 =10.42 =hcad00b1_0
     - pexpect =4.8.0 =py37hc8dfbb8_1
     - pickleshare =0.7.5 =py37hc8dfbb8_1002

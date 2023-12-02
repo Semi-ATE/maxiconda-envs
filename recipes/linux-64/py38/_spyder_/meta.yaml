@@ -51,7 +51,7 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - binaryornot =0.4.4 =py_1
-    - black =23.10.1 =py38h578d9bd_0
+    - black =23.11.0 =py38h578d9bd_0
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =hd590300_1
     - brotli-bin =1.1.0 =hd590300_1
@@ -105,9 +105,9 @@ requirements:
     - icu =73.2 =h59595ed_0
     - idna =3.6 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
-    - importlib-metadata =6.8.0 =pyha770c72_0
+    - importlib-metadata =6.9.0 =pyha770c72_0
     - importlib-resources =6.1.1 =pyhd8ed1ab_0
-    - importlib_metadata =6.8.0 =hd8ed1ab_0
+    - importlib_metadata =6.9.0 =hd8ed1ab_0
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
@@ -120,7 +120,7 @@ requirements:
     - jellyfish =1.0.3 =py38h0cc4f7c_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - jsonschema =4.20.0 =pyhd8ed1ab_0
-    - jsonschema-specifications =2023.11.1 =pyhd8ed1ab_0
+    - jsonschema-specifications =2023.11.2 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.5.0 =py38h578d9bd_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_0
@@ -138,8 +138,8 @@ requirements:
     - libbrotlienc =1.1.0 =hd590300_1
     - libcap =2.69 =h0f662aa_0
     - libcblas =3.9.0 =20_linux64_openblas
-    - libclang =15.0.7 =default_h7634d5b_3
-    - libclang13 =15.0.7 =default_h9986a30_3
+    - libclang =15.0.7 =default_hb11cfb5_4
+    - libclang13 =15.0.7 =default_ha2b6cf4_4
     - libcups =2.3.3 =h4637d8d_4
     - libdeflate =1.19 =hd590300_0
     - libedit =3.1.20191231 =he28a2e2_2
@@ -148,7 +148,7 @@ requirements:
     - libffi =3.4.2 =h7f98852_5
     - libflac =1.4.3 =h59595ed_0
     - libgcc-ng =13.2.0 =h807b86a_3
-    - libgcrypt =1.10.2 =hd590300_0
+    - libgcrypt =1.10.3 =hd590300_0
     - libgfortran-ng =13.2.0 =h69a702a_3
     - libgfortran5 =13.2.0 =ha4646dd_3
     - libglib =2.78.1 =h783c2da_1
@@ -265,11 +265,11 @@ requirements:
     - qtconsole-base =5.5.1 =pyha770c72_0
     - qtpy =2.4.1 =pyhd8ed1ab_0
     - readline =8.2 =h8228510_1
-    - referencing =0.31.0 =pyhd8ed1ab_0
+    - referencing =0.31.1 =pyhd8ed1ab_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rich =13.7.0 =pyhd8ed1ab_0
     - rope =1.11.0 =pyhd8ed1ab_1
-    - rpds-py =0.13.1 =py38h0cc4f7c_0
+    - rpds-py =0.13.2 =py38h0cc4f7c_0
     - rtree =1.1.0 =py38h02d302b_0
     - secretstorage =3.3.3 =py38h578d9bd_2
     - setuptools =68.2.2 =pyhd8ed1ab_0

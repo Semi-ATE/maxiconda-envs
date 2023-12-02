@@ -43,7 +43,7 @@ requirements:
     - brotli =1.1.0 =h0dc2134_1
     - brotli-bin =1.1.0 =h0dc2134_1
     - bzip2 =1.0.8 =h10d778d_5
-    - c-ares =1.22.1 =h10d778d_0
+    - c-ares =1.23.0 =h10d778d_0
     - ca-certificates =2023.11.17 =h8857fd0_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
@@ -85,9 +85,9 @@ requirements:
     - hdf4 =4.2.15 =h8138101_7
     - hdf5 =1.14.2 =nompi_hedada53_100
     - icu =73.2 =hf5e326d_0
-    - importlib-metadata =6.8.0 =pyha770c72_0
+    - importlib-metadata =6.9.0 =pyha770c72_0
     - importlib-resources =6.1.1 =pyhd8ed1ab_0
-    - importlib_metadata =6.8.0 =hd8ed1ab_0
+    - importlib_metadata =6.9.0 =hd8ed1ab_0
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - ipykernel =6.26.0 =pyh3cd1d5f_0
     - ipython =8.18.1 =pyh31011fe_1
@@ -107,8 +107,8 @@ requirements:
     - libbrotlidec =1.1.0 =h0dc2134_1
     - libbrotlienc =1.1.0 =h0dc2134_1
     - libcblas =3.9.0 =20_osx64_openblas
-    - libclang =15.0.7 =default_hdb78580_3
-    - libclang13 =15.0.7 =default_h953c2e9_3
+    - libclang =15.0.7 =default_h6b1ee41_4
+    - libclang13 =15.0.7 =default_h89cd682_4
     - libcurl =8.4.0 =h726d00d_0
     - libcxx =16.0.6 =hd57cbcb_0
     - libdeflate =1.19 =ha4e1b8e_0
@@ -140,7 +140,7 @@ requirements:
     - libxml2 =2.11.6 =hc0ae0f7_0
     - libzip =1.10.1 =hc158999_3
     - libzlib =1.2.13 =h8a1eda9_5
-    - llvm-openmp =17.0.5 =hb6ac08f_0
+    - llvm-openmp =17.0.6 =hb6ac08f_0
     - lz4-c =1.9.4 =hf0c8a7f_0
     - matplotlib-base =3.8.2 =py39h7070ae8_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
@@ -161,7 +161,7 @@ requirements:
     - openssl =3.1.4 =hd75f5a5_0
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
-    - patsy =0.5.3 =pyhd8ed1ab_0
+    - patsy =0.5.4 =pyhd8ed1ab_0
     - pbr =6.0.0 =pyhd8ed1ab_0
     - pcre2 =10.42 =h0ad2156_0
     - pexpect =4.8.0 =pyh1a96a4e_2

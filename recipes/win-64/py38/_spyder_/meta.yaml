@@ -48,7 +48,7 @@ requirements:
     - bcrypt =4.1.1 =py38h4900a04_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - binaryornot =0.4.4 =py_1
-    - black =23.10.1 =py38haa244fe_0
+    - black =23.11.0 =py38haa244fe_0
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =hcfcfb64_1
     - brotli-bin =1.1.0 =hcfcfb64_1
@@ -87,9 +87,9 @@ requirements:
     - icu =73.2 =h63175ca_0
     - idna =3.6 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
-    - importlib-metadata =6.8.0 =pyha770c72_0
+    - importlib-metadata =6.9.0 =pyha770c72_0
     - importlib-resources =6.1.1 =pyhd8ed1ab_0
-    - importlib_metadata =6.8.0 =hd8ed1ab_0
+    - importlib_metadata =6.9.0 =hd8ed1ab_0
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intel-openmp =2023.2.0 =h57928b3_50497
@@ -102,7 +102,7 @@ requirements:
     - jellyfish =1.0.3 =py38h4900a04_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - jsonschema =4.20.0 =pyhd8ed1ab_0
-    - jsonschema-specifications =2023.11.1 =pyhd8ed1ab_0
+    - jsonschema-specifications =2023.11.2 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.5.0 =py38haa244fe_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_0
@@ -222,11 +222,11 @@ requirements:
     - qtconsole =5.5.1 =pyhd8ed1ab_0
     - qtconsole-base =5.5.1 =pyha770c72_0
     - qtpy =2.4.1 =pyhd8ed1ab_0
-    - referencing =0.31.0 =pyhd8ed1ab_0
+    - referencing =0.31.1 =pyhd8ed1ab_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rich =13.7.0 =pyhd8ed1ab_0
     - rope =1.11.0 =pyhd8ed1ab_1
-    - rpds-py =0.13.1 =py38h4900a04_0
+    - rpds-py =0.13.2 =py38h4900a04_0
     - rtree =1.1.0 =py38h8b54edf_0
     - setuptools =68.2.2 =pyhd8ed1ab_0
     - sip =6.7.12 =py38hd3f51b4_0
