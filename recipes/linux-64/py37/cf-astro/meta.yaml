@@ -85,13 +85,13 @@ requirements:
     - libgomp =13.2.0 =h807b86a_3
     - libgpg-error =1.47 =h71f35ed_0
     - libiconv =1.17 =h166bdaf_0
-    - libjpeg-turbo =3.0.0 =hd590300_1
+    - libjpeg-turbo =2.1.5.1 =hd590300_1
     - libllvm15 =15.0.7 =h5cf9203_3
     - libnsl =2.0.1 =hd590300_0
     - libogg =1.3.4 =h7f98852_1
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.39 =h753d276_0
-    - libpq =16.1 =hfc447b1_0
+    - libpq =15.4 =hfc447b1_3
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.44.2 =h2797004_0
@@ -112,7 +112,7 @@ requirements:
     - nest-asyncio =1.5.8 =pyhd8ed1ab_0
     - nspr =4.35 =h27087fc_0
     - nss =3.95 =h1d7d5a4_0
-    - openssl =3.1.4 =hd590300_0
+    - openssl =3.2.0 =hd590300_1
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.42 =hcad00b1_0
@@ -131,7 +131,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python_abi =3.7 =4_cp37m
     - pyzmq =24.0.1 =py37h0c0c2a8_0
-    - qt-main =5.15.8 =h82b777d_17
+    - qt-main =5.15.8 =hc47bfe8_16
     - readline =8.2 =h8228510_1
     - setuptools =68.2.2 =pyhd8ed1ab_0
     - sip =6.7.2 =py37hd23a5d3_0

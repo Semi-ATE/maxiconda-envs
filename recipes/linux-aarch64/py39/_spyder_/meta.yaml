@@ -67,7 +67,7 @@ requirements:
     - comm =0.1.4 =pyhd8ed1ab_0
     - contourpy =1.2.0 =py39hd16970a_0
     - cookiecutter =2.5.0 =pyhca7485f_0
-    - cryptography =41.0.5 =py39hea2e5f7_0
+    - cryptography =41.0.7 =py39h58638f2_1
     - cycler =0.12.1 =pyhd8ed1ab_0
     - dbus =1.13.6 =h12b9eeb_3
     - debugpy =1.8.0 =py39h387a81e_1
@@ -89,7 +89,7 @@ requirements:
     - fontconfig =2.14.2 =ha9a116f_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.45.1 =py39h898b7ef_0
+    - fonttools =4.46.0 =py39h898b7ef_0
     - freetype =2.12.1 =hf0a5ef3_2
     - gettext =0.21.1 =ha18d298_0
     - giflib =5.2.1 =hb4cce97_3
@@ -128,7 +128,7 @@ requirements:
     - kiwisolver =1.4.5 =py39had2cf8c_1
     - krb5 =1.21.2 =hc419048_0
     - lame =3.100 =h4e544f5_1003
-    - lcms2 =2.15 =h922389a_3
+    - lcms2 =2.15 =h2df2c41_2
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
     - libblas =3.9.0 =20_linuxaarch64_openblas
@@ -154,7 +154,7 @@ requirements:
     - libgomp =13.2.0 =hf8544c7_3
     - libgpg-error =1.47 =h5ce24db_0
     - libiconv =1.17 =h9cdd2b7_0
-    - libjpeg-turbo =3.0.0 =h31becfc_1
+    - libjpeg-turbo =2.1.5.1 =h31becfc_1
     - liblapack =3.9.0 =20_linuxaarch64_openblas
     - libllvm15 =15.0.7 =hc720cd8_3
     - libnsl =2.0.1 =h31becfc_0
@@ -162,17 +162,17 @@ requirements:
     - libopenblas =0.3.25 =pthreads_h5a5ec62_0
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
-    - libpq =16.1 =h04b8c23_0
+    - libpq =15.4 =h04b8c23_3
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =1.9.3 =h01db608_4
     - libsqlite =3.44.2 =h194ca79_0
     - libstdcxx-ng =13.2.0 =h9a76618_3
     - libsystemd0 =254 =h91e93f8_0
-    - libtiff =4.6.0 =h1708d11_2
+    - libtiff =4.6.0 =hffba272_1
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
-    - libwebp =1.3.2 =heb2ea1b_1
+    - libwebp =1.3.2 =h850206a_0
     - libwebp-base =1.3.2 =h31becfc_0
     - libxcb =1.15 =h2a766a3_0
     - libxkbcommon =1.6.0 =h307e02a_0
@@ -206,7 +206,7 @@ requirements:
     - nss =3.95 =hc5a5cc2_0
     - numpydoc =1.5.0 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h0d9d63b_3
-    - openssl =3.1.4 =h31becfc_0
+    - openssl =3.2.0 =h31becfc_1
     - packaging =23.2 =pyhd8ed1ab_0
     - pandoc =3.1.3 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -215,7 +215,7 @@ requirements:
     - pcre2 =10.42 =hd0f9c67_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =10.1.0 =py39h8ce38d7_0
+    - pillow =10.0.1 =py39h6ca4121_1
     - pip =23.3.1 =pyhd8ed1ab_0
     - pixman =0.42.2 =h2f0025b_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
@@ -255,8 +255,8 @@ requirements:
     - pyzmq =25.1.1 =py39hbab03a2_2
     - qdarkstyle =3.2 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.8 =hc564a22_17
-    - qt-webengine =5.15.8 =hb6addb8_4
+    - qt-main =5.15.8 =h8e8b9a1_16
+    - qt-webengine =5.15.8 =h4d62b09_3
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.5.1 =pyhd8ed1ab_0
     - qtconsole-base =5.5.1 =pyha770c72_0
