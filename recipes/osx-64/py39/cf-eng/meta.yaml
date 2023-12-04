@@ -52,8 +52,8 @@ requirements:
     - gst-plugins-base =1.22.7 =hd283e88_0
     - gstreamer =1.22.7 =h8954545_0
     - icu =73.2 =hf5e326d_0
-    - importlib-metadata =6.9.0 =pyha770c72_0
-    - importlib_metadata =6.9.0 =hd8ed1ab_0
+    - importlib-metadata =7.0.0 =pyha770c72_0
+    - importlib_metadata =7.0.0 =hd8ed1ab_0
     - ipykernel =6.26.0 =pyh3cd1d5f_0
     - ipython =8.18.1 =pyh31011fe_1
     - jedi =0.19.1 =pyhd8ed1ab_0
@@ -71,14 +71,14 @@ requirements:
     - libgfortran5 =13.2.0 =h2873a65_1
     - libglib =2.78.1 =h198397b_1
     - libiconv =1.17 =hac89ed1_0
-    - libjpeg-turbo =2.1.5.1 =h0dc2134_1
+    - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm15 =15.0.7 =hbedff68_4
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.39 =ha978bb4_0
-    - libpq =15.4 =h6dd4ff7_3
+    - libpq =16.1 =h6dd4ff7_2
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.44.2 =h92b6c6a_0
     - libusb =1.0.26 =hc2f2c32_100
@@ -114,7 +114,7 @@ requirements:
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyvisa =1.14.1 =pyhd8ed1ab_0
     - pyzmq =25.1.1 =py39h53dde38_2
-    - qt-main =5.15.8 =hc03889f_16
+    - qt-main =5.15.8 =h4385fff_17
     - readline =8.2 =h9e318b2_1
     - setuptools =68.2.2 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h110ca85_0

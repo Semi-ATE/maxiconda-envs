@@ -104,9 +104,9 @@ requirements:
     - icu =73.2 =h787c7f5_0
     - idna =3.6 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
-    - importlib-metadata =6.9.0 =pyha770c72_0
+    - importlib-metadata =7.0.0 =pyha770c72_0
     - importlib-resources =6.1.1 =pyhd8ed1ab_0
-    - importlib_metadata =6.9.0 =hd8ed1ab_0
+    - importlib_metadata =7.0.0 =hd8ed1ab_0
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
@@ -128,7 +128,7 @@ requirements:
     - kiwisolver =1.4.5 =py38h7e3a353_1
     - krb5 =1.21.2 =hc419048_0
     - lame =3.100 =h4e544f5_1003
-    - lcms2 =2.15 =h2df2c41_2
+    - lcms2 =2.16 =h922389a_0
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
     - libblas =3.9.0 =20_linuxaarch64_openblas
@@ -154,7 +154,7 @@ requirements:
     - libgomp =13.2.0 =hf8544c7_3
     - libgpg-error =1.47 =h5ce24db_0
     - libiconv =1.17 =h9cdd2b7_0
-    - libjpeg-turbo =2.1.5.1 =h31becfc_1
+    - libjpeg-turbo =3.0.0 =h31becfc_1
     - liblapack =3.9.0 =20_linuxaarch64_openblas
     - libllvm15 =15.0.7 =hc720cd8_3
     - libnsl =2.0.1 =h31becfc_0
@@ -162,17 +162,17 @@ requirements:
     - libopenblas =0.3.25 =pthreads_h5a5ec62_0
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
-    - libpq =15.4 =h04b8c23_3
+    - libpq =16.1 =h04b8c23_2
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =1.9.3 =h01db608_4
     - libsqlite =3.44.2 =h194ca79_0
     - libstdcxx-ng =13.2.0 =h9a76618_3
     - libsystemd0 =254 =h91e93f8_0
-    - libtiff =4.6.0 =hffba272_1
+    - libtiff =4.6.0 =h1708d11_2
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
-    - libwebp =1.3.2 =h850206a_0
+    - libwebp =1.3.2 =heb2ea1b_1
     - libwebp-base =1.3.2 =h31becfc_0
     - libxcb =1.15 =h2a766a3_0
     - libxkbcommon =1.6.0 =h307e02a_0
@@ -215,7 +215,7 @@ requirements:
     - pcre2 =10.42 =hd0f9c67_0
     - pexpect =4.8.0 =py38h32f6830_1
     - pickleshare =0.7.5 =py38h32f6830_1002
-    - pillow =10.0.1 =py38h7d768ba_1
+    - pillow =10.1.0 =py38hf904494_0
     - pip =23.3.1 =pyhd8ed1ab_0
     - pixman =0.42.2 =h2f0025b_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
@@ -257,8 +257,8 @@ requirements:
     - pyzmq =25.1.1 =py38h6a3a231_1
     - qdarkstyle =3.2 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.8 =h8e8b9a1_16
-    - qt-webengine =5.15.8 =h4d62b09_3
+    - qt-main =5.15.8 =hc564a22_17
+    - qt-webengine =5.15.8 =hb6addb8_4
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.5.1 =pyhd8ed1ab_0
     - qtconsole-base =5.5.1 =pyha770c72_0
@@ -272,7 +272,7 @@ requirements:
     - rtree =1.1.0 =py38hc089ca2_0
     - secretstorage =3.3.3 =py38h2063c64_2
     - setuptools =68.2.2 =pyhd8ed1ab_0
-    - sip =6.7.12 =py38hed0da46_0
+    - sip =6.8.0 =py38hed0da46_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0

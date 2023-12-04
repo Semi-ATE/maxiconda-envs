@@ -56,19 +56,19 @@ requirements:
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.7 =h9ac2572_1
-    - aws-c-cal =0.6.9 =h49e9720_1
-    - aws-c-common =0.9.8 =h10d778d_0
-    - aws-c-compression =0.2.17 =hff1f2c8_6
-    - aws-c-event-stream =0.3.2 =hdb93a3d_7
-    - aws-c-http =0.7.14 =h99202ee_2
-    - aws-c-io =0.13.36 =hb98174f_0
-    - aws-c-mqtt =0.9.10 =h10c2427_1
-    - aws-c-s3 =0.4.1 =h70a162a_0
-    - aws-c-sdkutils =0.1.12 =hff1f2c8_5
-    - aws-checksums =0.1.17 =hff1f2c8_5
-    - aws-crt-cpp =0.24.7 =hf3941dc_6
-    - aws-sdk-cpp =1.11.182 =h28d282b_7
+    - aws-c-auth =0.7.8 =hc8bfbea_1
+    - aws-c-cal =0.6.9 =had988b7_2
+    - aws-c-common =0.9.10 =h10d778d_0
+    - aws-c-compression =0.2.17 =hb45f1eb_7
+    - aws-c-event-stream =0.3.2 =hbc2660c_8
+    - aws-c-http =0.7.14 =h1fa4523_3
+    - aws-c-io =0.13.36 =h3728bb0_1
+    - aws-c-mqtt =0.9.10 =h2150435_2
+    - aws-c-s3 =0.4.3 =h960c460_0
+    - aws-c-sdkutils =0.1.12 =hb45f1eb_6
+    - aws-checksums =0.1.17 =hb45f1eb_6
+    - aws-crt-cpp =0.24.9 =hb404cc8_1
+    - aws-sdk-cpp =1.11.210 =h54a1f87_3
     - bcrypt =4.1.1 =py39h3f9c672_0
     - blinker =1.7.0 =pyhd8ed1ab_0
     - bottleneck =1.3.7 =py39hd01001f_1
@@ -96,7 +96,7 @@ requirements:
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.2.0 =py39h6be1789_0
-    - cryptography =41.0.5 =py39h04c794a_0
+    - cryptography =41.0.7 =py39h187ccd6_1
     - cssselect =1.2.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =py_0
     - cycler =0.12.1 =pyhd8ed1ab_0
@@ -124,7 +124,7 @@ requirements:
     - fonttools =4.46.0 =py39ha09f3b3_0
     - freetype =2.12.1 =h60636b9_2
     - fribidi =1.0.10 =hbcb3906_0
-    - fsspec =2023.10.0 =pyhca7485f_0
+    - fsspec =2023.12.0 =pyhca7485f_0
     - fst-pso =1.8.1 =pyhd8ed1ab_0
     - funcy =2.0 =pyhd8ed1ab_0
     - future =0.18.3 =pyhd8ed1ab_0
@@ -156,9 +156,9 @@ requirements:
     - idna =3.6 =pyhd8ed1ab_0
     - imagehash =4.3.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.11.0 =pyhd8ed1ab_0
-    - importlib-metadata =6.9.0 =pyha770c72_0
+    - importlib-metadata =7.0.0 =pyha770c72_0
     - importlib-resources =6.1.1 =pyhd8ed1ab_0
-    - importlib_metadata =6.9.0 =hd8ed1ab_0
+    - importlib_metadata =7.0.0 =hd8ed1ab_0
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.26.0 =pyh3cd1d5f_0
@@ -178,16 +178,16 @@ requirements:
     - kmodes =0.12.2 =pyhd8ed1ab_0
     - krb5 =1.21.2 =hb884880_0
     - langcodes =3.3.0 =pyhd8ed1ab_0
-    - lcms2 =2.15 =hd6ba6f3_3
+    - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230802.1 =cxx17_h048a20a_0
-    - libarrow =14.0.1 =h660ed53_4_cpu
-    - libarrow-acero =14.0.1 =hc222712_4_cpu
-    - libarrow-dataset =14.0.1 =hc222712_4_cpu
-    - libarrow-flight =14.0.1 =ha1803ca_4_cpu
-    - libarrow-flight-sql =14.0.1 =h8ec153b_4_cpu
-    - libarrow-gandiva =14.0.1 =heeebe7c_4_cpu
-    - libarrow-substrait =14.0.1 =h8ec153b_4_cpu
+    - libarrow =14.0.1 =hd633658_7_cpu
+    - libarrow-acero =14.0.1 =hc222712_7_cpu
+    - libarrow-dataset =14.0.1 =hc222712_7_cpu
+    - libarrow-flight =14.0.1 =h440f1c2_7_cpu
+    - libarrow-flight-sql =14.0.1 =h8ec153b_7_cpu
+    - libarrow-gandiva =14.0.1 =heeebe7c_7_cpu
+    - libarrow-substrait =14.0.1 =h8ec153b_7_cpu
     - libblas =3.9.0 =20_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
@@ -219,9 +219,9 @@ requirements:
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =14.0.1 =h27bd29f_4_cpu
+    - libparquet =14.0.1 =h27bd29f_7_cpu
     - libpng =1.6.39 =ha978bb4_0
-    - libpq =16.1 =h6dd4ff7_0
+    - libpq =16.1 =h6dd4ff7_2
     - libprotobuf =4.24.4 =h0ee05dc_0
     - libre2-11 =2023.06.02 =h4694dbf_0
     - librsvg =2.56.3 =hec3db73_0
@@ -274,7 +274,7 @@ requirements:
     - numexpr =2.8.7 =py39h5d65943_4
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha4da562_3
-    - openssl =3.1.4 =hd75f5a5_0
+    - openssl =3.2.0 =hd75f5a5_1
     - orc =1.9.2 =h9ab30d4_0
     - packaging =23.2 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
@@ -304,7 +304,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py39h15c3653_6
-    - pyarrow =14.0.1 =py39h837709f_4_cpu
+    - pyarrow =14.0.1 =py39h837709f_7_cpu
     - pyasn1 =0.5.1 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -392,7 +392,7 @@ requirements:
     - wasabi =1.1.2 =py39h6e9494a_0
     - wcwidth =0.2.12 =pyhd8ed1ab_0
     - weasel =0.3.4 =pyhd8ed1ab_0
-    - websocket-client =1.6.4 =pyhd8ed1ab_0
+    - websocket-client =1.7.0 =pyhd8ed1ab_0
     - werkzeug =3.0.1 =pyhd8ed1ab_0
     - wheel =0.42.0 =pyhd8ed1ab_0
     - widgetsnbextension =4.0.9 =pyhd8ed1ab_0

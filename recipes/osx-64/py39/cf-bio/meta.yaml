@@ -85,9 +85,9 @@ requirements:
     - hdf4 =4.2.15 =h8138101_7
     - hdf5 =1.14.2 =nompi_hedada53_100
     - icu =73.2 =hf5e326d_0
-    - importlib-metadata =6.9.0 =pyha770c72_0
+    - importlib-metadata =7.0.0 =pyha770c72_0
     - importlib-resources =6.1.1 =pyhd8ed1ab_0
-    - importlib_metadata =6.9.0 =hd8ed1ab_0
+    - importlib_metadata =7.0.0 =hd8ed1ab_0
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - ipykernel =6.26.0 =pyh3cd1d5f_0
     - ipython =8.18.1 =pyh31011fe_1
@@ -97,7 +97,7 @@ requirements:
     - jupyter_core =5.5.0 =py39h6e9494a_0
     - kiwisolver =1.4.5 =py39h8ee36c8_1
     - krb5 =1.21.2 =hb884880_0
-    - lcms2 =2.15 =hd6ba6f3_3
+    - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libaec =1.1.2 =he965462_1
     - libblas =3.9.0 =20_osx64_openblas
@@ -129,7 +129,7 @@ requirements:
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.39 =ha978bb4_0
-    - libpq =16.1 =h6dd4ff7_0
+    - libpq =16.1 =h6dd4ff7_2
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.44.2 =h92b6c6a_0
     - libssh2 =1.11.0 =hd019ec5_0
@@ -158,7 +158,7 @@ requirements:
     - nspr =4.35 =hea0b92c_0
     - nss =3.95 =hfeb00ea_0
     - openjpeg =2.5.0 =ha4da562_3
-    - openssl =3.1.4 =hd75f5a5_0
+    - openssl =3.2.0 =hd75f5a5_1
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - patsy =0.5.4 =pyhd8ed1ab_0
