@@ -77,7 +77,7 @@ requirements:
     - diff-match-patch =20230430 =pyhd8ed1ab_0
     - dill =0.3.7 =pyhd8ed1ab_0
     - docstring-to-markdown =0.13 =pyhd8ed1ab_0
-    - docutils =0.20.1 =py39hf3d152e_2
+    - docutils =0.20.1 =py39hf3d152e_3
     - entrypoints =0.4 =pyhd8ed1ab_0
     - exceptiongroup =1.2.0 =pyhd8ed1ab_0
     - executing =2.0.1 =pyhd8ed1ab_0
@@ -94,8 +94,8 @@ requirements:
     - freetype =2.12.1 =h267a509_2
     - gettext =0.21.1 =h27087fc_0
     - giflib =5.2.1 =h0b41bf4_3
-    - glib =2.78.1 =hfc55251_1
-    - glib-tools =2.78.1 =hfc55251_1
+    - glib =2.78.2 =hfc55251_0
+    - glib-tools =2.78.2 =hfc55251_0
     - gmp =6.3.0 =h59595ed_0
     - gmpy2 =2.1.2 =py39h376b7d2_1
     - graphite2 =1.3.13 =h58526e2_1001
@@ -112,7 +112,7 @@ requirements:
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.26.0 =pyhf8b6a83_0
-    - ipython =8.18.1 =pyh31011fe_1
+    - ipython =8.18.1 =pyh707e725_3
     - isort =5.12.0 =pyhd8ed1ab_1
     - jaraco.classes =3.3.0 =pyhd8ed1ab_0
     - jedi =0.19.1 =pyhd8ed1ab_0
@@ -129,7 +129,7 @@ requirements:
     - kiwisolver =1.4.5 =py39h7633fee_1
     - krb5 =1.21.2 =h659d440_0
     - lame =3.100 =h166bdaf_1003
-    - lcms2 =2.16 =hb7c19ff_0
+    - lcms2 =2.15 =h7f713cb_2
     - ld_impl_linux-64 =2.40 =h41732ed_0
     - lerc =4.0.0 =h27087fc_0
     - libblas =3.9.0 =20_linux64_openblas
@@ -151,11 +151,11 @@ requirements:
     - libgcrypt =1.10.3 =hd590300_0
     - libgfortran-ng =13.2.0 =h69a702a_3
     - libgfortran5 =13.2.0 =ha4646dd_3
-    - libglib =2.78.1 =h783c2da_1
+    - libglib =2.78.2 =h783c2da_0
     - libgomp =13.2.0 =h807b86a_3
     - libgpg-error =1.47 =h71f35ed_0
     - libiconv =1.17 =h166bdaf_0
-    - libjpeg-turbo =3.0.0 =hd590300_1
+    - libjpeg-turbo =2.1.5.1 =hd590300_1
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm15 =15.0.7 =h5cf9203_3
     - libnsl =2.0.1 =hd590300_0
@@ -163,17 +163,17 @@ requirements:
     - libopenblas =0.3.25 =pthreads_h413a1c8_0
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.39 =h753d276_0
-    - libpq =16.1 =hfc447b1_2
+    - libpq =15.4 =hdb747bd_4
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
     - libspatialindex =1.9.3 =h9c3ff4c_4
     - libsqlite =3.44.2 =h2797004_0
     - libstdcxx-ng =13.2.0 =h7e041cc_3
     - libsystemd0 =254 =h3516f8a_0
-    - libtiff =4.6.0 =ha9c0a0a_2
+    - libtiff =4.6.0 =h29866fb_1
     - libuuid =2.38.1 =h0b41bf4_0
     - libvorbis =1.3.7 =h9c3ff4c_0
-    - libwebp =1.3.2 =h658648e_1
+    - libwebp =1.3.2 =hdffd6e0_0
     - libwebp-base =1.3.2 =hd590300_0
     - libxcb =1.15 =h0b41bf4_0
     - libxkbcommon =1.6.0 =h5d7e998_0
@@ -197,9 +197,9 @@ requirements:
     - mysql-common =8.0.33 =hf1915f5_6
     - mysql-libs =8.0.33 =hca2cd23_6
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert =7.11.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.11.0 =pyhd8ed1ab_0
-    - nbconvert-pandoc =7.11.0 =pyhd8ed1ab_0
+    - nbconvert =7.12.0 =pyhd8ed1ab_0
+    - nbconvert-core =7.12.0 =pyhd8ed1ab_0
+    - nbconvert-pandoc =7.12.0 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h59595ed_2
     - nest-asyncio =1.5.8 =pyhd8ed1ab_0
@@ -216,11 +216,11 @@ requirements:
     - pcre2 =10.42 =hcad00b1_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =10.1.0 =py39had0adad_0
+    - pillow =10.0.1 =py39h444a776_1
     - pip =23.3.1 =pyhd8ed1ab_0
     - pixman =0.42.2 =h59595ed_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
-    - platformdirs =4.0.0 =pyhd8ed1ab_0
+    - platformdirs =4.1.0 =pyhd8ed1ab_0
     - pluggy =1.3.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - prompt-toolkit =3.0.41 =pyha770c72_0
@@ -253,11 +253,11 @@ requirements:
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.1 =py39hd1e30aa_1
-    - pyzmq =25.1.1 =py39h8c080ef_2
+    - pyzmq =25.1.2 =py39h8c080ef_0
     - qdarkstyle =3.2 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.8 =h82b777d_17
-    - qt-webengine =5.15.8 =h75ea521_4
+    - qt-main =5.15.8 =hc47bfe8_16
+    - qt-webengine =5.15.8 =h57d7698_3
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.5.1 =pyhd8ed1ab_0
     - qtconsole-base =5.5.1 =pyha770c72_0

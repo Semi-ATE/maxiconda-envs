@@ -130,8 +130,8 @@ requirements:
     - gettext =0.21.1 =h5728263_0
     - gitdb =4.0.11 =pyhd8ed1ab_0
     - gitpython =3.1.40 =pyhd8ed1ab_0
-    - glib =2.78.1 =h12be248_1
-    - glib-tools =2.78.1 =h12be248_1
+    - glib =2.78.2 =h12be248_0
+    - glib-tools =2.78.2 =h12be248_0
     - graphite2 =1.3.13 =1000
     - graphviz =9.0.0 =h51cb2cd_1
     - greenlet =3.0.1 =py39h99910a6_0
@@ -152,7 +152,7 @@ requirements:
     - incremental =22.10.0 =pyhd8ed1ab_0
     - intel-openmp =2023.2.0 =h57928b3_50497
     - ipykernel =6.26.0 =pyha63f2e9_0
-    - ipython =8.18.1 =pyh5737063_1
+    - ipython =8.18.1 =pyh7428d3b_3
     - ipywidgets =8.1.1 =pyhd8ed1ab_0
     - itemadapter =0.8.0 =pyhd8ed1ab_0
     - itemloaders =1.1.0 =pyhd8ed1ab_0
@@ -171,13 +171,13 @@ requirements:
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230802.1 =cxx17_h63175ca_0
-    - libarrow =14.0.1 =h91bc311_7_cpu
-    - libarrow-acero =14.0.1 =h63175ca_7_cpu
-    - libarrow-dataset =14.0.1 =h63175ca_7_cpu
-    - libarrow-flight =14.0.1 =h53b1db0_7_cpu
-    - libarrow-flight-sql =14.0.1 =h78eab7c_7_cpu
-    - libarrow-gandiva =14.0.1 =hb2eaab1_7_cpu
-    - libarrow-substrait =14.0.1 =hd4c9904_7_cpu
+    - libarrow =14.0.1 =h91bc311_8_cpu
+    - libarrow-acero =14.0.1 =h63175ca_8_cpu
+    - libarrow-dataset =14.0.1 =h63175ca_8_cpu
+    - libarrow-flight =14.0.1 =h53b1db0_8_cpu
+    - libarrow-flight-sql =14.0.1 =h78eab7c_8_cpu
+    - libarrow-gandiva =14.0.1 =hb2eaab1_8_cpu
+    - libarrow-substrait =14.0.1 =hd4c9904_8_cpu
     - libblas =3.9.0 =20_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
@@ -186,13 +186,13 @@ requirements:
     - libclang =15.0.7 =default_h77d9078_3
     - libclang13 =15.0.7 =default_h77d9078_3
     - libcrc32c =1.1.2 =h0e60522_0
-    - libcurl =8.4.0 =hd5e4a3a_0
+    - libcurl =8.5.0 =hd5e4a3a_0
     - libdeflate =1.19 =hcfcfb64_0
     - libevent =2.1.12 =h3671451_1
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h312136b_9
-    - libglib =2.78.1 =h16e383f_1
+    - libglib =2.78.2 =h16e383f_0
     - libgoogle-cloud =2.12.0 =h39f2fc6_4
     - libgrpc =1.59.3 =h5bbd4a7_0
     - libhwloc =2.9.3 =default_haede6df_1009
@@ -200,7 +200,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =20_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
-    - libparquet =14.0.1 =h7ec3a38_7_cpu
+    - libparquet =14.0.1 =h7ec3a38_8_cpu
     - libpng =1.6.39 =h19919ed_0
     - libprotobuf =4.24.4 =hb8276f3_0
     - libre2-11 =2023.06.02 =h8c5ae5e_0
@@ -219,7 +219,7 @@ requirements:
     - libxslt =1.1.37 =h6070c61_1
     - libzlib =1.2.13 =hcfcfb64_5
     - llvmlite =0.41.1 =py39hd28a505_0
-    - lxml =4.9.3 =py39hbae3653_1
+    - lxml =4.9.3 =py39hbae3653_2
     - lz4-c =1.9.4 =hcfcfb64_0
     - m2w64-gcc-libgfortran =5.3.0 =6
     - m2w64-gcc-libs =5.3.0 =7
@@ -265,7 +265,7 @@ requirements:
     - pillow =10.1.0 =py39h368b509_0
     - pip =23.3.1 =pyhd8ed1ab_0
     - pixman =0.42.2 =h63175ca_0
-    - platformdirs =4.0.0 =pyhd8ed1ab_0
+    - platformdirs =4.1.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - preshed =3.0.9 =py39h99910a6_1
     - prometheus_client =0.19.0 =pyhd8ed1ab_0
@@ -278,7 +278,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py39hd3de297_6
-    - pyarrow =14.0.1 =py39h0a09291_7_cpu
+    - pyarrow =14.0.1 =py39h0a09291_8_cpu
     - pyasn1 =0.5.1 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -307,7 +307,7 @@ requirements:
     - pywin32 =306 =py39h99910a6_2
     - pywin32-on-windows =0.1.0 =pyh07e9846_2
     - pyyaml =6.0.1 =py39ha55989b_1
-    - pyzmq =25.1.1 =py39h7eaf5a6_2
+    - pyzmq =25.1.2 =py39h7eaf5a6_0
     - qt-main =5.15.8 =h9e85ed6_17
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0

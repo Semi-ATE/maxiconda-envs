@@ -101,8 +101,8 @@ requirements:
     - frozenlist =1.3.1 =py37hcc03f2d_0
     - gettext =0.21.1 =h5728263_0
     - git =2.43.0 =h57928b3_0
-    - glib =2.78.1 =h12be248_1
-    - glib-tools =2.78.1 =h12be248_1
+    - glib =2.78.2 =h12be248_0
+    - glib-tools =2.78.2 =h12be248_0
     - greenlet =1.1.3 =py37hf2a7229_0
     - gst-plugins-base =1.22.7 =h001b923_0
     - gstreamer =1.22.7 =hb4038d2_0
@@ -136,7 +136,7 @@ requirements:
     - libclang13 =15.0.7 =default_h77d9078_3
     - libdeflate =1.14 =hcfcfb64_0
     - libffi =3.4.2 =h8ffe710_5
-    - libglib =2.78.1 =h16e383f_1
+    - libglib =2.78.2 =h16e383f_0
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =h8ffe710_0
     - liblapack =3.9.0 =20_win64_mkl
@@ -267,7 +267,7 @@ requirements:
     - r-digest =0.6.33 =r41ha856d6a_0
     - r-dplyr =1.1.4 =r41ha856d6a_0
     - r-dtplyr =1.3.1 =r41hc72bb7e_0
-    - r-e1071 =1.7_13 =r41ha856d6a_1
+    - r-e1071 =1.7_14 =r41ha856d6a_0
     - r-ellipsis =0.3.2 =r41h6d2157b_2
     - r-evaluate =0.21 =r41hc72bb7e_0
     - r-fansi =1.0.5 =r41h6d2157b_0
@@ -300,7 +300,7 @@ requirements:
     - r-htmltools =0.5.7 =r41ha856d6a_0
     - r-htmlwidgets =1.6.2 =r41hc72bb7e_0
     - r-httpcode =0.3.0 =r41h57928b3_3
-    - r-httpuv =1.6.12 =r41ha856d6a_0
+    - r-httpuv =1.6.13 =r41ha856d6a_0
     - r-httr =1.4.6 =r41hc72bb7e_0
     - r-ids =1.0.1 =r41hc72bb7e_2
     - r-ipred =0.9_14 =r41h6d2157b_1
@@ -309,11 +309,11 @@ requirements:
     - r-isoband =0.2.7 =r41ha856d6a_2
     - r-iterators =1.0.14 =r41hc72bb7e_1
     - r-jquerylib =0.1.4 =r41hc72bb7e_1
-    - r-jsonlite =1.8.7 =r41h6d2157b_0
+    - r-jsonlite =1.8.8 =r41h6d2157b_0
     - r-kernsmooth =2.23_22 =r41hd95e14d_0
     - r-knitr =1.43 =r41hc72bb7e_0
     - r-labeling =0.4.2 =r41hc72bb7e_2
-    - r-later =1.3.1 =r41ha856d6a_1
+    - r-later =1.3.2 =r41ha856d6a_0
     - r-lattice =0.22_5 =r41h6d2157b_0
     - r-lava =1.7.2.1 =r41hc72bb7e_0
     - r-lazyeval =0.2.2 =r41h6d2157b_4
@@ -369,10 +369,10 @@ requirements:
     - r-reshape2 =1.4.4 =r41ha856d6a_3
     - r-rlang =1.1.2 =r41ha856d6a_0
     - r-rmarkdown =2.22 =r41hc72bb7e_0
-    - r-rpart =4.1.21 =r41h6d2157b_0
+    - r-rpart =4.1.23 =r41h6d2157b_0
     - r-rstudioapi =0.14 =r41hc72bb7e_1
     - r-rvest =1.0.3 =r41hc72bb7e_1
-    - r-sass =0.4.7 =r41ha856d6a_0
+    - r-sass =0.4.8 =r41ha856d6a_0
     - r-scales =1.2.1 =r41hc72bb7e_1
     - r-selectr =0.4_2 =r41hc72bb7e_2
     - r-shape =1.4.6 =r41ha770c72_1
@@ -399,7 +399,7 @@ requirements:
     - r-uuid =1.1_1 =r41h6d2157b_0
     - r-vctrs =0.6.5 =r41ha856d6a_0
     - r-viridislite =0.4.1 =r41hc72bb7e_1
-    - r-vroom =1.6.4 =r41ha856d6a_0
+    - r-vroom =1.6.5 =r41ha856d6a_0
     - r-withr =2.5.0 =r41hc72bb7e_1
     - r-xfun =0.41 =r41ha856d6a_0
     - r-xml2 =1.3.3 =r41ha856d6a_2

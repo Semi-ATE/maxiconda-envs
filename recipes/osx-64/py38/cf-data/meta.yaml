@@ -124,7 +124,7 @@ requirements:
     - fonttools =4.46.0 =py38hae2e43d_0
     - freetype =2.12.1 =h60636b9_2
     - fribidi =1.0.10 =hbcb3906_0
-    - fsspec =2023.12.0 =pyhca7485f_0
+    - fsspec =2023.12.1 =pyhca7485f_0
     - fst-pso =1.8.1 =pyhd8ed1ab_0
     - funcy =2.0 =pyhd8ed1ab_0
     - future =0.18.3 =pyhd8ed1ab_0
@@ -136,8 +136,8 @@ requirements:
     - giflib =5.2.1 =hb7f2c08_3
     - gitdb =4.0.11 =pyhd8ed1ab_0
     - gitpython =3.1.40 =pyhd8ed1ab_0
-    - glib =2.78.1 =hf4d7fad_1
-    - glib-tools =2.78.1 =hf4d7fad_1
+    - glib =2.78.2 =hf4d7fad_0
+    - glib-tools =2.78.2 =hf4d7fad_0
     - glog =0.6.0 =h8ac2a54_0
     - gmp =6.3.0 =h93d8f39_0
     - gmpy2 =2.1.2 =py38h919de47_1
@@ -181,13 +181,13 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230802.1 =cxx17_h048a20a_0
-    - libarrow =14.0.1 =hd633658_7_cpu
-    - libarrow-acero =14.0.1 =hc222712_7_cpu
-    - libarrow-dataset =14.0.1 =hc222712_7_cpu
-    - libarrow-flight =14.0.1 =h440f1c2_7_cpu
-    - libarrow-flight-sql =14.0.1 =h8ec153b_7_cpu
-    - libarrow-gandiva =14.0.1 =heeebe7c_7_cpu
-    - libarrow-substrait =14.0.1 =h8ec153b_7_cpu
+    - libarrow =14.0.1 =hb5e1ce9_8_cpu
+    - libarrow-acero =14.0.1 =hc222712_8_cpu
+    - libarrow-dataset =14.0.1 =hc222712_8_cpu
+    - libarrow-flight =14.0.1 =h440f1c2_8_cpu
+    - libarrow-flight-sql =14.0.1 =h2cc6c1c_8_cpu
+    - libarrow-gandiva =14.0.1 =heeebe7c_8_cpu
+    - libarrow-substrait =14.0.1 =h2cc6c1c_8_cpu
     - libblas =3.9.0 =20_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
@@ -196,7 +196,7 @@ requirements:
     - libclang =15.0.7 =default_h6b1ee41_4
     - libclang13 =15.0.7 =default_h89cd682_4
     - libcrc32c =1.1.2 =he49afe7_0
-    - libcurl =8.4.0 =h726d00d_0
+    - libcurl =8.5.0 =h726d00d_0
     - libcxx =16.0.6 =hd57cbcb_0
     - libdeflate =1.19 =ha4e1b8e_0
     - libedit =3.1.20191231 =h0678c8f_2
@@ -207,24 +207,24 @@ requirements:
     - libgd =2.3.3 =h0dceb68_9
     - libgfortran =5.0.0 =13_2_0_h97931a8_1
     - libgfortran5 =13.2.0 =h2873a65_1
-    - libglib =2.78.1 =h198397b_1
+    - libglib =2.78.2 =h198397b_0
     - libgoogle-cloud =2.12.0 =hc0857f6_4
     - libgrpc =1.59.3 =ha7f534c_0
     - libiconv =1.17 =hac89ed1_0
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
-    - libllvm15 =15.0.7 =he4b1e75_3
+    - libllvm15 =15.0.7 =hbedff68_4
     - libnghttp2 =1.58.0 =h64cf6d3_0
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =14.0.1 =h27bd29f_7_cpu
+    - libparquet =14.0.1 =h27bd29f_8_cpu
     - libpng =1.6.39 =ha978bb4_0
-    - libpq =16.1 =h6dd4ff7_2
+    - libpq =16.1 =h74b662b_5
     - libprotobuf =4.24.4 =h0ee05dc_0
     - libre2-11 =2023.06.02 =h4694dbf_0
-    - librsvg =2.56.3 =hec3db73_0
+    - librsvg =2.56.3 =h1877882_1
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.44.2 =h92b6c6a_0
     - libssh2 =1.11.0 =hd019ec5_0
@@ -237,12 +237,12 @@ requirements:
     - libwebp-base =1.3.2 =h0dc2134_0
     - libxcb =1.15 =hb7f2c08_0
     - libxgboost =1.7.6 =cpu_h2b4cd7c_6
-    - libxml2 =2.11.6 =hc0ae0f7_0
-    - libxslt =1.1.37 =h20bfa82_1
+    - libxml2 =2.12.2 =hc0ae0f7_0
+    - libxslt =1.1.39 =h03b04e6_0
     - libzlib =1.2.13 =h8a1eda9_5
     - llvm-openmp =17.0.6 =hb6ac08f_0
     - llvmlite =0.41.1 =py38h6008ce5_0
-    - lxml =4.9.3 =py38h2d3ed51_1
+    - lxml =4.9.1 =py38h0dd4459_0
     - lz4-c =1.9.4 =hf0c8a7f_0
     - mako =1.3.0 =pyhd8ed1ab_0
     - markdown =3.5.1 =pyhd8ed1ab_0
@@ -291,7 +291,7 @@ requirements:
     - pillow =10.1.0 =py38h0024655_0
     - pip =23.3.1 =pyhd8ed1ab_0
     - pixman =0.42.2 =he965462_0
-    - platformdirs =4.0.0 =pyhd8ed1ab_0
+    - platformdirs =4.1.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pooch =1.8.0 =pyhd8ed1ab_0
     - preshed =3.0.9 =py38h940360d_1
@@ -306,7 +306,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py38h273ab5c_6
-    - pyarrow =14.0.1 =py38hffdeace_7_cpu
+    - pyarrow =14.0.1 =py38hffdeace_8_cpu
     - pyasn1 =0.5.1 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -334,7 +334,7 @@ requirements:
     - pywavelets =1.4.1 =py38h49861b3_1
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
     - pyyaml =6.0.1 =py38hcafd530_1
-    - pyzmq =25.1.1 =py38hf69f452_2
+    - pyzmq =25.1.2 =py38ha51bd64_0
     - qt-main =5.15.8 =h4385fff_17
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0

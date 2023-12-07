@@ -61,8 +61,8 @@ requirements:
     - fonts-conda-forge =1 =0
     - freetype =2.12.1 =h267a509_2
     - gettext =0.21.1 =h27087fc_0
-    - glib =2.78.1 =hfc55251_1
-    - glib-tools =2.78.1 =hfc55251_1
+    - glib =2.78.2 =hfc55251_0
+    - glib-tools =2.78.2 =hfc55251_0
     - graphite2 =1.3.13 =h58526e2_1001
     - gst-plugins-base =1.22.7 =h8e1006c_0
     - gstreamer =1.22.7 =h98fc4e7_0
@@ -71,7 +71,7 @@ requirements:
     - importlib-metadata =7.0.0 =pyha770c72_0
     - importlib_metadata =7.0.0 =hd8ed1ab_0
     - ipykernel =6.26.0 =pyhf8b6a83_0
-    - ipython =8.18.1 =pyh31011fe_1
+    - ipython =8.18.1 =pyh707e725_3
     - jedi =0.19.1 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.5.0 =py39hf3d152e_0
@@ -94,11 +94,11 @@ requirements:
     - libgcrypt =1.10.3 =hd590300_0
     - libgfortran-ng =13.2.0 =h69a702a_3
     - libgfortran5 =13.2.0 =ha4646dd_3
-    - libglib =2.78.1 =h783c2da_1
+    - libglib =2.78.2 =h783c2da_0
     - libgomp =13.2.0 =h807b86a_3
     - libgpg-error =1.47 =h71f35ed_0
     - libiconv =1.17 =h166bdaf_0
-    - libjpeg-turbo =3.0.0 =hd590300_1
+    - libjpeg-turbo =2.1.5.1 =hd590300_1
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm15 =15.0.7 =h5cf9203_3
     - libnsl =2.0.1 =hd590300_0
@@ -106,7 +106,7 @@ requirements:
     - libopenblas =0.3.25 =pthreads_h413a1c8_0
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.39 =h753d276_0
-    - libpq =16.1 =hfc447b1_2
+    - libpq =15.4 =hdb747bd_4
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.44.2 =h2797004_0
@@ -137,7 +137,7 @@ requirements:
     - pickleshare =0.7.5 =py39hde42818_1002
     - pip =23.3.1 =pyhd8ed1ab_0
     - pixman =0.42.2 =h59595ed_0
-    - platformdirs =4.0.0 =pyhd8ed1ab_0
+    - platformdirs =4.1.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - prompt-toolkit =3.0.41 =pyha770c72_0
     - psutil =5.9.5 =py39hd1e30aa_1
@@ -152,8 +152,8 @@ requirements:
     - python_abi =3.9 =4_cp39
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyvisa =1.14.1 =pyhd8ed1ab_0
-    - pyzmq =25.1.1 =py39h8c080ef_2
-    - qt-main =5.15.8 =h82b777d_17
+    - pyzmq =25.1.2 =py39h8c080ef_0
+    - qt-main =5.15.8 =hc47bfe8_16
     - readline =8.2 =h8228510_1
     - setuptools =68.2.2 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h3d6467e_0

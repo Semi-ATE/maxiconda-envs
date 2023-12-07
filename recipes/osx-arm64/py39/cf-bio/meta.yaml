@@ -32,7 +32,7 @@ requirements:
     - pandas =2.1.3 =py39hf8cecc8_0
     - pymol-open-source =2.5.0 =py39h573d8f3_6
     - pyqt =5.15.9 =py39hcf430f4_5
-    - rdkit =2023.09.2 =py39he90e540_0
+    - rdkit =2023.09.3 =py39he90e540_0
     - scipy =1.11.4 =py39h36c428d_0
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
 
@@ -73,8 +73,8 @@ requirements:
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h0186832_0
     - glew =2.1.0 =h9f76cd9_2
-    - glib =2.78.1 =h9e231a4_1
-    - glib-tools =2.78.1 =h9e231a4_1
+    - glib =2.78.2 =h9e231a4_0
+    - glib-tools =2.78.2 =h9e231a4_0
     - glm =0.9.9.8 =h1995070_0
     - greenlet =3.0.1 =py39h4ce5507_0
     - griddataformats =1.0.2 =pyhd8ed1ab_0
@@ -90,7 +90,7 @@ requirements:
     - importlib_metadata =7.0.0 =hd8ed1ab_0
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - ipykernel =6.26.0 =pyh3cd1d5f_0
-    - ipython =8.18.1 =pyh31011fe_1
+    - ipython =8.18.1 =pyh707e725_3
     - jedi =0.19.1 =pyhd8ed1ab_0
     - joblib =1.3.2 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
@@ -118,7 +118,7 @@ requirements:
     - libffi =3.4.2 =h3422bc3_5
     - libgfortran =5.0.0 =13_2_0_hd922786_1
     - libgfortran5 =13.2.0 =hf226fd6_1
-    - libglib =2.78.1 =hb438215_1
+    - libglib =2.78.2 =hb438215_0
     - libiconv =1.17 =he4db4b2_0
     - libjpeg-turbo =3.0.0 =hb547adb_1
     - liblapack =3.9.0 =20_osxarm64_openblas
@@ -129,7 +129,7 @@ requirements:
     - libopenblas =0.3.25 =openmp_h6c19121_0
     - libopus =1.3.1 =h27ca646_1
     - libpng =1.6.39 =h76d750c_0
-    - libpq =16.1 =hd435d45_2
+    - libpq =16.1 =hd435d45_0
     - libsodium =1.0.18 =h27ca646_1
     - libsqlite =3.44.2 =h091b4b1_0
     - libssh2 =1.11.0 =h7a5bd25_0
@@ -158,7 +158,7 @@ requirements:
     - nspr =4.35 =hb7217d7_0
     - nss =3.95 =h6cf673f_0
     - openjpeg =2.5.0 =h4c1507b_3
-    - openssl =3.2.0 =h0d3ecfb_1
+    - openssl =3.1.4 =h0d3ecfb_0
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - patsy =0.5.4 =pyhd8ed1ab_0
@@ -169,7 +169,7 @@ requirements:
     - pillow =10.1.0 =py39h755f0b7_0
     - pip =23.3.1 =pyhd8ed1ab_0
     - pixman =0.42.2 =h13dd4ca_0
-    - platformdirs =4.0.0 =pyhd8ed1ab_0
+    - platformdirs =4.1.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pmw =2.0.1 =py39h2804cbe_1008
     - prompt-toolkit =3.0.41 =pyha770c72_0
@@ -187,7 +187,7 @@ requirements:
     - python_abi =3.9 =4_cp39
     - pytng =0.3.1 =py39h33914a9_0
     - pytz =2023.3.post1 =pyhd8ed1ab_0
-    - pyzmq =25.1.1 =py39he0a3c8b_2
+    - pyzmq =25.1.2 =py39he1e2164_0
     - qt-main =5.15.8 =h6bf1bb6_17
     - readline =8.2 =h92ec313_1
     - reportlab =4.0.7 =py39h17cfd9d_0
