@@ -29,7 +29,7 @@ requirements:
     - matplotlib =3.8.2 =py39hdf13c20_0
     - mdanalysis =2.6.1 =py39h24b5a5e_0
     - numpy =1.26.2 =py39heee92a0_0
-    - pandas =2.1.3 =py39hf8cecc8_0
+    - pandas =2.1.4 =py39hf8cecc8_0
     - pymol-open-source =2.5.0 =py39h573d8f3_6
     - pyqt =5.15.9 =py39hcf430f4_5
     - rdkit =2023.09.3 =py39he90e540_0
@@ -73,10 +73,10 @@ requirements:
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h0186832_0
     - glew =2.1.0 =h9f76cd9_2
-    - glib =2.78.2 =h9e231a4_0
-    - glib-tools =2.78.2 =h9e231a4_0
+    - glib =2.78.3 =h9e231a4_0
+    - glib-tools =2.78.3 =h9e231a4_0
     - glm =0.9.9.8 =h1995070_0
-    - greenlet =3.0.1 =py39h4ce5507_0
+    - greenlet =3.0.2 =py39h4ce5507_0
     - griddataformats =1.0.2 =pyhd8ed1ab_0
     - gsd =3.2.0 =py39hf4a74a7_0
     - gst-plugins-base =1.22.7 =h040e9b9_0
@@ -118,7 +118,7 @@ requirements:
     - libffi =3.4.2 =h3422bc3_5
     - libgfortran =5.0.0 =13_2_0_hd922786_1
     - libgfortran5 =13.2.0 =hf226fd6_1
-    - libglib =2.78.2 =hb438215_0
+    - libglib =2.78.3 =hb438215_0
     - libiconv =1.17 =he4db4b2_0
     - libjpeg-turbo =3.0.0 =hb547adb_1
     - liblapack =3.9.0 =20_osxarm64_openblas
@@ -192,7 +192,7 @@ requirements:
     - readline =8.2 =h92ec313_1
     - reportlab =4.0.7 =py39h17cfd9d_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
-    - scikit-learn =1.3.2 =py39h172c841_1
+    - scikit-learn =1.3.2 =py39h172c841_2
     - seaborn =0.13.0 =hd8ed1ab_0
     - seaborn-base =0.13.0 =pyhd8ed1ab_0
     - setuptools =68.2.2 =pyhd8ed1ab_0

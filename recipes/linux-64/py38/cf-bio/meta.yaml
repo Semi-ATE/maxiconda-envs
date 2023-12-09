@@ -79,11 +79,11 @@ requirements:
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h27087fc_0
     - glew =2.1.0 =h9c3ff4c_2
-    - glib =2.78.2 =hfc55251_0
-    - glib-tools =2.78.2 =hfc55251_0
+    - glib =2.78.3 =hfc55251_0
+    - glib-tools =2.78.3 =hfc55251_0
     - glm =0.9.9.8 =h00ab1b0_0
     - graphite2 =1.3.13 =h58526e2_1001
-    - greenlet =3.0.1 =py38h17151c0_0
+    - greenlet =3.0.2 =py38h17151c0_0
     - griddataformats =1.0.1 =pyhd8ed1ab_0
     - gsd =3.2.0 =py38h7f0c24c_0
     - gst-plugins-base =1.22.7 =h8e1006c_0
@@ -135,7 +135,7 @@ requirements:
     - libgcrypt =1.10.3 =hd590300_0
     - libgfortran-ng =13.2.0 =h69a702a_3
     - libgfortran5 =13.2.0 =ha4646dd_3
-    - libglib =2.78.2 =h783c2da_0
+    - libglib =2.78.3 =h783c2da_0
     - libglu =9.0.0 =hac7e632_1003
     - libgomp =13.2.0 =h807b86a_3
     - libgpg-error =1.47 =h71f35ed_0
@@ -156,7 +156,7 @@ requirements:
     - libsqlite =3.44.2 =h2797004_0
     - libssh2 =1.11.0 =h0841786_0
     - libstdcxx-ng =13.2.0 =h7e041cc_3
-    - libsystemd0 =254 =h3516f8a_0
+    - libsystemd0 =255 =h3516f8a_0
     - libtiff =4.6.0 =ha9c0a0a_2
     - libuuid =2.38.1 =h0b41bf4_0
     - libvorbis =1.3.7 =h9c3ff4c_0
@@ -223,7 +223,7 @@ requirements:
     - reportlab =4.0.7 =py38h01eb140_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
-    - scikit-learn =1.3.2 =py38ha25d942_1
+    - scikit-learn =1.3.2 =py38ha25d942_2
     - seaborn =0.13.0 =hd8ed1ab_0
     - seaborn-base =0.13.0 =pyhd8ed1ab_0
     - setuptools =68.2.2 =pyhd8ed1ab_0
