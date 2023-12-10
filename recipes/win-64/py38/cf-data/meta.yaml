@@ -53,7 +53,7 @@ requirements:
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.8 =h2eab514_1
+    - aws-c-auth =0.7.8 =hfc12bfc_2
     - aws-c-cal =0.6.9 =h7f0e5be_2
     - aws-c-common =0.9.10 =hcfcfb64_0
     - aws-c-compression =0.2.17 =h7f0e5be_7
@@ -61,11 +61,11 @@ requirements:
     - aws-c-http =0.7.14 =h80119a0_3
     - aws-c-io =0.13.36 =ha737126_2
     - aws-c-mqtt =0.9.10 =hd6138de_2
-    - aws-c-s3 =0.4.3 =h885c6ba_0
-    - aws-c-sdkutils =0.1.12 =h7f0e5be_6
+    - aws-c-s3 =0.4.4 =h885c6ba_0
+    - aws-c-sdkutils =0.1.13 =h7f0e5be_0
     - aws-checksums =0.1.17 =h7f0e5be_6
-    - aws-crt-cpp =0.24.9 =h5366d96_1
-    - aws-sdk-cpp =1.11.210 =hbe53a2f_3
+    - aws-crt-cpp =0.24.11 =h196e575_2
+    - aws-sdk-cpp =1.11.210 =h5f33293_4
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bcrypt =4.1.1 =py38h4900a04_0
     - blinker =1.7.0 =pyhd8ed1ab_0
@@ -135,8 +135,8 @@ requirements:
     - graphite2 =1.3.13 =1000
     - graphviz =9.0.0 =h51cb2cd_1
     - greenlet =3.0.2 =py38hd3f51b4_0
-    - gst-plugins-base =1.22.7 =h001b923_0
-    - gstreamer =1.22.7 =hb4038d2_0
+    - gst-plugins-base =1.22.7 =h001b923_1
+    - gstreamer =1.22.7 =hb4038d2_1
     - gts =0.7.6 =h6b5321d_4
     - harfbuzz =8.3.0 =h7ab893a_0
     - htmlmin =0.1.12 =py_1
@@ -171,13 +171,13 @@ requirements:
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230802.1 =cxx17_h63175ca_0
-    - libarrow =14.0.1 =h91bc311_8_cpu
-    - libarrow-acero =14.0.1 =h63175ca_8_cpu
-    - libarrow-dataset =14.0.1 =h63175ca_8_cpu
-    - libarrow-flight =14.0.1 =h53b1db0_8_cpu
-    - libarrow-flight-sql =14.0.1 =h78eab7c_8_cpu
-    - libarrow-gandiva =14.0.1 =hb2eaab1_8_cpu
-    - libarrow-substrait =14.0.1 =hd4c9904_8_cpu
+    - libarrow =14.0.1 =h8ab2780_9_cpu
+    - libarrow-acero =14.0.1 =h63175ca_9_cpu
+    - libarrow-dataset =14.0.1 =h63175ca_9_cpu
+    - libarrow-flight =14.0.1 =h53b1db0_9_cpu
+    - libarrow-flight-sql =14.0.1 =h78eab7c_9_cpu
+    - libarrow-gandiva =14.0.1 =hb2eaab1_9_cpu
+    - libarrow-substrait =14.0.1 =hd4c9904_9_cpu
     - libblas =3.9.0 =20_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
@@ -200,7 +200,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =20_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
-    - libparquet =14.0.1 =h7ec3a38_8_cpu
+    - libparquet =14.0.1 =h7ec3a38_9_cpu
     - libpng =1.6.39 =h19919ed_0
     - libprotobuf =4.24.4 =hb8276f3_0
     - libre2-11 =2023.06.02 =h8c5ae5e_0
@@ -280,7 +280,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =1.7.6 =cpu_py38h684852a_6
-    - pyarrow =14.0.1 =py38hd94c00f_8_cpu
+    - pyarrow =14.0.1 =py38hd94c00f_9_cpu
     - pyasn1 =0.5.1 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3

@@ -105,7 +105,7 @@ requirements:
     - comm =0.1.4 =pyhd8ed1ab_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38hb4b5b6f_1
-    - curl =8.4.0 =h4e8248e_0
+    - curl =8.5.0 =h4e8248e_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - dbus =1.13.6 =h12b9eeb_3
     - debugpy =1.8.0 =py38hb83fbf6_1
@@ -182,10 +182,10 @@ requirements:
     - libclang =15.0.7 =default_h65c9d4d_4
     - libclang13 =15.0.7 =default_hf5d3afd_4
     - libcups =2.3.3 =h405e4a8_4
-    - libcurl =8.4.0 =h4e8248e_0
+    - libcurl =8.5.0 =h4e8248e_0
     - libdeflate =1.19 =h31becfc_0
     - libedit =3.1.20191231 =he28a2e2_2
-    - libev =4.33 =h516909a_1
+    - libev =4.33 =h31becfc_2
     - libevent =2.1.12 =h4ba1bb4_1
     - libexpat =2.5.0 =hd600fc2_1
     - libffi =3.4.2 =h3557bc0_5
@@ -203,13 +203,13 @@ requirements:
     - liblapack =3.9.0 =20_linuxaarch64_openblas
     - libllvm14 =14.0.6 =h966f666_4
     - libllvm15 =15.0.7 =hc720cd8_3
-    - libnghttp2 =1.58.0 =hb0e430d_0
+    - libnghttp2 =1.58.0 =hb0e430d_1
     - libnsl =2.0.1 =h31becfc_0
     - libogg =1.3.4 =h3557bc0_1
     - libopenblas =0.3.25 =pthreads_h5a5ec62_0
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
-    - libpq =16.1 =h04b8c23_0
+    - libpq =16.1 =h58720eb_7
     - libsanitizer =13.2.0 =h9a76618_3
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
@@ -251,7 +251,7 @@ requirements:
     - nspr =4.35 =h4de3ea5_0
     - nss =3.95 =hc5a5cc2_0
     - openjpeg =2.5.0 =h0d9d63b_3
-    - openssl =3.1.4 =h31becfc_0
+    - openssl =3.2.0 =h31becfc_1
     - overrides =7.4.0 =pyhd8ed1ab_0
     - packaging =23.2 =pyhd8ed1ab_0
     - pandoc =3.1.3 =h8af1aa0_0

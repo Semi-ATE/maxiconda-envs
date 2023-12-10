@@ -32,7 +32,7 @@ requirements:
     - pandas =2.1.4 =py39hf8cecc8_0
     - pymol-open-source =2.5.0 =py39h573d8f3_6
     - pyqt =5.15.9 =py39hcf430f4_5
-    - rdkit =2023.09.3 =py39he90e540_0
+    - rdkit =2023.09.3 =py39he90e540_1
     - scipy =1.11.4 =py39h36c428d_0
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
 
@@ -79,11 +79,11 @@ requirements:
     - greenlet =3.0.2 =py39h4ce5507_0
     - griddataformats =1.0.2 =pyhd8ed1ab_0
     - gsd =3.2.0 =py39hf4a74a7_0
-    - gst-plugins-base =1.22.7 =h040e9b9_0
-    - gstreamer =1.22.7 =hd492984_0
+    - gst-plugins-base =1.22.7 =h040e9b9_1
+    - gstreamer =1.22.7 =hd492984_1
     - h5py =3.10.0 =nompi_py39haa70198_100
     - hdf4 =4.2.15 =h2ee6834_7
-    - hdf5 =1.14.2 =nompi_h3aba7b3_100
+    - hdf5 =1.14.3 =nompi_h5bb55e9_100
     - icu =73.2 =hc8870d7_0
     - importlib-metadata =7.0.0 =pyha770c72_0
     - importlib-resources =6.1.1 =pyhd8ed1ab_0
@@ -109,11 +109,11 @@ requirements:
     - libcblas =3.9.0 =20_osxarm64_openblas
     - libclang =15.0.7 =default_hd209bcb_4
     - libclang13 =15.0.7 =default_ha49e599_4
-    - libcurl =8.4.0 =h2d989ff_0
+    - libcurl =8.5.0 =h2d989ff_0
     - libcxx =16.0.6 =h4653b0c_0
     - libdeflate =1.19 =hb547adb_0
     - libedit =3.1.20191231 =hc8eb9b7_2
-    - libev =4.33 =h642e427_1
+    - libev =4.33 =h93a5062_2
     - libexpat =2.5.0 =hb7217d7_1
     - libffi =3.4.2 =h3422bc3_5
     - libgfortran =5.0.0 =13_2_0_hd922786_1
@@ -124,12 +124,12 @@ requirements:
     - liblapack =3.9.0 =20_osxarm64_openblas
     - libllvm15 =15.0.7 =h504e6bf_3
     - libnetcdf =4.9.2 =nompi_hb2fb864_112
-    - libnghttp2 =1.58.0 =ha4dd798_0
+    - libnghttp2 =1.58.0 =ha4dd798_1
     - libogg =1.3.4 =h27ca646_1
     - libopenblas =0.3.25 =openmp_h6c19121_0
     - libopus =1.3.1 =h27ca646_1
     - libpng =1.6.39 =h76d750c_0
-    - libpq =16.1 =hd435d45_0
+    - libpq =16.1 =h0f8b458_7
     - libsodium =1.0.18 =h27ca646_1
     - libsqlite =3.44.2 =h091b4b1_0
     - libssh2 =1.11.0 =h7a5bd25_0
@@ -158,7 +158,7 @@ requirements:
     - nspr =4.35 =hb7217d7_0
     - nss =3.95 =h6cf673f_0
     - openjpeg =2.5.0 =h4c1507b_3
-    - openssl =3.1.4 =h0d3ecfb_0
+    - openssl =3.2.0 =h0d3ecfb_1
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - patsy =0.5.4 =pyhd8ed1ab_0
