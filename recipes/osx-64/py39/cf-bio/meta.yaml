@@ -36,7 +36,7 @@ requirements:
     - scipy =1.11.4 =py39ha321857_0
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
 
-    # 187 secondary packages :
+    # 188 secondary packages :
     - appnope =0.1.3 =pyhd8ed1ab_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - blosc =1.21.5 =heccf04b_0
@@ -50,6 +50,7 @@ requirements:
     - cairo =1.18.0 =h99e66fa_0
     - certifi =2023.11.17 =pyhd8ed1ab_0
     - cftime =1.6.3 =py39h5b4affa_0
+    - chardet =5.2.0 =py39h6e9494a_1
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.1.4 =pyhd8ed1ab_0
@@ -119,7 +120,7 @@ requirements:
     - libgfortran =5.0.0 =13_2_0_h97931a8_1
     - libgfortran5 =13.2.0 =h2873a65_1
     - libglib =2.78.3 =h198397b_0
-    - libiconv =1.17 =hac89ed1_0
+    - libiconv =1.17 =hd75f5a5_1
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm15 =15.0.7 =he4b1e75_3
@@ -190,7 +191,7 @@ requirements:
     - pyzmq =25.1.2 =py39hcb7a90d_0
     - qt-main =5.15.8 =h4385fff_17
     - readline =8.2 =h9e318b2_1
-    - reportlab =4.0.7 =py39ha09f3b3_0
+    - reportlab =4.0.8 =py39ha09f3b3_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
     - scikit-learn =1.3.2 =py39hecadb86_2
     - seaborn =0.13.0 =hd8ed1ab_0
@@ -201,7 +202,7 @@ requirements:
     - snappy =1.1.10 =h225ccf5_0
     - sqlalchemy =2.0.23 =py39ha09f3b3_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
-    - statsmodels =0.14.0 =py39h5b4affa_2
+    - statsmodels =0.14.0 =py39h5b4affa_3
     - threadpoolctl =3.2.0 =pyha21a80b_0
     - tidynamics =1.1.2 =pyhd8ed1ab_0
     - tk =8.6.13 =h1abcd95_1

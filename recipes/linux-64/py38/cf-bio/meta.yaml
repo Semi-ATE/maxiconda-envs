@@ -36,7 +36,7 @@ requirements:
     - scipy =1.10.1 =py38h59b608b_3
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
 
-    # 234 secondary packages :
+    # 235 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.10 =hd590300_0
@@ -55,6 +55,7 @@ requirements:
     - cairo =1.18.0 =h3faef2a_0
     - certifi =2023.11.17 =pyhd8ed1ab_0
     - cftime =1.6.3 =py38h7f0c24c_0
+    - chardet =5.2.0 =py38h578d9bd_1
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
@@ -139,7 +140,7 @@ requirements:
     - libglu =9.0.0 =hac7e632_1003
     - libgomp =13.2.0 =h807b86a_3
     - libgpg-error =1.47 =h71f35ed_0
-    - libiconv =1.17 =h166bdaf_0
+    - libiconv =1.17 =hd590300_1
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm15 =15.0.7 =h5cf9203_3
@@ -220,7 +221,7 @@ requirements:
     - pyzmq =25.1.2 =py38h34c975a_0
     - qt-main =5.15.8 =h82b777d_17
     - readline =8.2 =h8228510_1
-    - reportlab =4.0.7 =py38h01eb140_0
+    - reportlab =4.0.8 =py38h01eb140_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
     - scikit-learn =1.3.2 =py38ha25d942_2
@@ -232,7 +233,7 @@ requirements:
     - snappy =1.1.10 =h9fff704_0
     - sqlalchemy =2.0.23 =py38h01eb140_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
-    - statsmodels =0.14.0 =py38h7f0c24c_2
+    - statsmodels =0.14.0 =py38h7f0c24c_3
     - threadpoolctl =3.2.0 =pyha21a80b_0
     - tidynamics =1.1.2 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_h4845f30_101

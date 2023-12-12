@@ -34,7 +34,7 @@ requirements:
     - scipy =1.10.1 =py38he3f4005_3
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
 
-    # 199 secondary packages :
+    # 200 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h4e544f5_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
@@ -49,6 +49,7 @@ requirements:
     - ca-certificates =2023.11.17 =hcefe29a_0
     - cairo =1.16.0 =hd19fb6e_1014
     - certifi =2023.11.17 =pyhd8ed1ab_0
+    - chardet =5.2.0 =py38h2063c64_1
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - comm =0.1.4 =pyhd8ed1ab_0
@@ -121,7 +122,7 @@ requirements:
     - libglib =2.78.3 =h311d5f7_0
     - libgomp =13.2.0 =hf8544c7_3
     - libgpg-error =1.47 =h5ce24db_0
-    - libiconv =1.17 =h9cdd2b7_0
+    - libiconv =1.17 =h31becfc_1
     - libjpeg-turbo =2.1.5.1 =h31becfc_1
     - liblapack =3.9.0 =20_linuxaarch64_openblas
     - libllvm15 =15.0.7 =h87099f9_1
@@ -191,7 +192,7 @@ requirements:
     - pyzmq =25.1.2 =py38ha083373_0
     - qt-main =5.15.8 =h7a5f702_7
     - readline =8.2 =h8fc344f_1
-    - reportlab =4.0.7 =py38h9579f32_0
+    - reportlab =4.0.8 =py38h9579f32_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
     - setuptools =68.2.2 =pyhd8ed1ab_0

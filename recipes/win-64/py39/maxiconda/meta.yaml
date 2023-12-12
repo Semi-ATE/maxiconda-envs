@@ -47,7 +47,7 @@ requirements:
     - pytest =7.4.3 =pyhd8ed1ab_0
     - pyyaml =6.0.1 =py39ha55989b_1
     - qdarkstyle =3.2 =pyhd8ed1ab_0
-    - qtawesome =1.2.3 =pyhd8ed1ab_0
+    - qtawesome =1.3.0 =pyh9208f05_0
     - r-base =4.1.3 =hdca333a_12
     - r-essentials =4.1 =r41hd8ed1ab_2003
     - regex =2023.10.3 =py39ha55989b_0
@@ -146,7 +146,7 @@ requirements:
     - jupyter_core =5.5.0 =py39hcbf5309_0
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
     - jupyter_server =2.12.1 =pyhd8ed1ab_0
-    - jupyter_server_terminals =0.4.4 =pyhd8ed1ab_1
+    - jupyter_server_terminals =0.5.0 =pyhd8ed1ab_0
     - jupyterlab =4.0.9 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_0
     - jupyterlab_server =2.25.2 =pyhd8ed1ab_0
@@ -166,7 +166,7 @@ requirements:
     - libffi =3.4.2 =h8ffe710_5
     - libglib =2.78.3 =h16e383f_0
     - libhwloc =2.9.3 =default_haede6df_1009
-    - libiconv =1.17 =h8ffe710_0
+    - libiconv =1.17 =hcfcfb64_1
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =20_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
@@ -282,7 +282,7 @@ requirements:
     - r-caret =6.0_94 =r41h6d2157b_1
     - r-cellranger =1.1.0 =r41hc72bb7e_1005
     - r-class =7.3_22 =r41h6d2157b_1
-    - r-cli =3.6.1 =r41ha856d6a_1
+    - r-cli =3.6.2 =r41ha856d6a_0
     - r-clipr =0.8.0 =r41hc72bb7e_1
     - r-clock =0.7.0 =r41ha856d6a_1
     - r-cluster =2.1.6 =r41he816bda_0
@@ -387,7 +387,7 @@ requirements:
     - r-purrr =1.0.2 =r41h6d2157b_0
     - r-quantmod =0.4.22 =r41hc72bb7e_0
     - r-r6 =2.5.1 =r41hc72bb7e_1
-    - r-ragg =1.2.6 =r41ha22d727_0
+    - r-ragg =1.2.7 =r41ha22d727_0
     - r-randomforest =4.7_1.1 =r41he816bda_2
     - r-rappdirs =0.3.3 =r41h6d2157b_2
     - r-rbokeh =0.5.2 =r41hc72bb7e_2
@@ -442,7 +442,7 @@ requirements:
     - r-xml2 =1.3.3 =r41ha856d6a_2
     - r-xtable =1.8_4 =r41hc72bb7e_4
     - r-xts =0.13.1 =r41h6d2157b_1
-    - r-yaml =2.3.7 =r41h6d2157b_1
+    - r-yaml =2.3.8 =r41h6d2157b_0
     - r-zoo =1.8_12 =r41h6d2157b_1
     - rapidfuzz =3.5.2 =py39h99910a6_0
     - referencing =0.32.0 =pyhd8ed1ab_0
