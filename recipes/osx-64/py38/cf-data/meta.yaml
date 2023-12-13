@@ -146,7 +146,7 @@ requirements:
     - greenlet =3.0.2 =py38hb2f96d7_0
     - gst-plugins-base =1.22.7 =hd283e88_1
     - gstreamer =1.22.7 =h8954545_1
-    - gtk2 =2.24.33 =h7c1209e_2
+    - gtk2 =2.24.33 =h8ca4665_3
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =21.2.0 =py38h50d1736_1
     - harfbuzz =8.3.0 =hf45c392_0
@@ -298,8 +298,8 @@ requirements:
     - preshed =3.0.9 =py38h940360d_1
     - prometheus_client =0.19.0 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.23.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.41 =pyha770c72_0
-    - prompt_toolkit =3.0.41 =hd8ed1ab_0
+    - prompt-toolkit =3.0.42 =pyha770c72_0
+    - prompt_toolkit =3.0.42 =hd8ed1ab_0
     - protego =0.3.0 =pyhd8ed1ab_0
     - protobuf =4.24.4 =py38h6758674_0
     - psutil =5.9.5 =py38hcafd530_1
@@ -336,7 +336,7 @@ requirements:
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
     - pyyaml =6.0.1 =py38hcafd530_1
     - pyzmq =25.1.2 =py38ha51bd64_0
-    - qt-main =5.15.8 =h4385fff_17
+    - qt-main =5.15.8 =h26cf8db_18
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
     - re2 =2023.06.02 =hd34609a_0
