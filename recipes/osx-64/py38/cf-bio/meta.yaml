@@ -84,7 +84,7 @@ requirements:
     - gsd =3.2.0 =py38h49861b3_0
     - gst-plugins-base =1.22.7 =hd283e88_1
     - gstreamer =1.22.7 =h8954545_1
-    - h5py =3.10.0 =nompi_py38h7e95433_100
+    - h5py =3.10.0 =nompi_py38hf24d7a2_101
     - hdf4 =4.2.15 =h8138101_7
     - hdf5 =1.14.3 =nompi_h691f4bf_100
     - icu =73.2 =hf5e326d_0
@@ -123,7 +123,7 @@ requirements:
     - libgfortran =5.0.0 =13_2_0_h97931a8_1
     - libgfortran5 =13.2.0 =h2873a65_1
     - libglib =2.78.3 =h198397b_0
-    - libiconv =1.17 =hd75f5a5_1
+    - libiconv =1.17 =hd75f5a5_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm15 =15.0.7 =he4b1e75_3
@@ -160,7 +160,7 @@ requirements:
     - netcdf4 =1.6.5 =nompi_py38h52a4375_100
     - networkx =3.1 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
-    - nss =3.95 =hfeb00ea_0
+    - nss =3.96 =ha05da47_0
     - openjpeg =2.5.0 =ha4da562_3
     - openssl =3.2.0 =hd75f5a5_1
     - packaging =23.2 =pyhd8ed1ab_0
@@ -209,7 +209,7 @@ requirements:
     - snappy =1.1.10 =h225ccf5_0
     - sqlalchemy =2.0.23 =py38hae2e43d_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
-    - statsmodels =0.14.0 =py38h7092abf_3
+    - statsmodels =0.14.1 =py38h7092abf_0
     - threadpoolctl =3.2.0 =pyha21a80b_0
     - tidynamics =1.1.2 =pyhd8ed1ab_0
     - tk =8.6.13 =h1abcd95_1

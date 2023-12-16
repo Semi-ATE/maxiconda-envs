@@ -40,7 +40,7 @@ requirements:
     - appnope =0.1.3 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
+    - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
     - boost =1.78.0 =py37hf1bba82_0
     - boost-cpp =1.78.0 =h31500c2_2
     - brotli =1.1.0 =h0dc2134_1
@@ -110,7 +110,7 @@ requirements:
     - libgfortran =5.0.0 =13_2_0_h97931a8_1
     - libgfortran5 =13.2.0 =h2873a65_1
     - libglib =2.78.3 =h198397b_0
-    - libiconv =1.17 =hd75f5a5_1
+    - libiconv =1.17 =hd75f5a5_2
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm13 =13.0.1 =h64f94b2_2
     - libnetcdf =4.8.1 =nompi_hc61b76e_106
@@ -144,7 +144,7 @@ requirements:
     - netcdf4 =1.6.1 =nompi_py37h6cbace0_100
     - networkx =2.7 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
-    - nss =3.95 =hfeb00ea_0
+    - nss =3.96 =ha05da47_0
     - openjpeg =2.5.0 =h5d0d7b0_1
     - openssl =3.1.4 =hd75f5a5_0
     - packaging =23.2 =pyhd8ed1ab_0

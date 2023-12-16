@@ -79,7 +79,7 @@ requirements:
     - attrs =23.1.0 =pyh71513ae_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
+    - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py37h795501a_5
     - binutils_impl_linux-aarch64 =2.40 =h870a726_0
     - bleach =6.1.0 =pyhd8ed1ab_0
@@ -186,7 +186,7 @@ requirements:
     - libglib =2.78.1 =h0464669_0
     - libgomp =13.2.0 =hf8544c7_3
     - libgpg-error =1.47 =h5ce24db_0
-    - libiconv =1.17 =h31becfc_1
+    - libiconv =1.17 =h31becfc_2
     - liblapack =3.9.0 =20_linuxaarch64_openblas
     - libllvm11 =11.1.0 =hb2805f8_5
     - libllvm15 =15.0.7 =h87099f9_1
@@ -241,7 +241,7 @@ requirements:
     - notebook =6.5.6 =pyha770c72_0
     - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - nspr =4.35 =h4de3ea5_0
-    - nss =3.95 =hc5a5cc2_0
+    - nss =3.96 =hc5a5cc2_0
     - openjpeg =2.5.0 =h9b6de37_1
     - openssl =3.1.4 =h31becfc_0
     - packaging =23.2 =pyhd8ed1ab_0
@@ -369,7 +369,7 @@ requirements:
     - r-lobstr =1.1.2 =r42h93f32a7_3
     - r-lubridate =1.9.3 =r42h25e906a_0
     - r-magrittr =2.0.3 =r42h25e906a_2
-    - r-maps =3.4.1.1 =r42h25e906a_0
+    - r-maps =3.4.2 =r42h25e906a_0
     - r-mass =7.3_60 =r42h25e906a_1
     - r-matrix =1.6_4 =r42hd98ab41_0
     - r-memoise =2.0.1 =r42hc72bb7e_2
@@ -408,7 +408,7 @@ requirements:
     - r-rcppeigen =0.3.3.9.4 =r42h022fc8a_0
     - r-readr =2.1.4 =r42h93f32a7_1
     - r-readxl =1.4.3 =r42h53325e7_0
-    - r-recipes =1.0.8 =r42hc72bb7e_0
+    - r-recipes =1.0.9 =r42hc72bb7e_0
     - r-recommended =4.2 =r42hd8ed1ab_1006
     - r-rematch =2.0.0 =r42hc72bb7e_0
     - r-rematch2 =2.1.2 =r42hc72bb7e_3
@@ -437,7 +437,7 @@ requirements:
     - r-tidyselect =1.2.0 =r42h4571c7f_1
     - r-tidyverse =1.3.2 =r42hc72bb7e_1
     - r-timechange =0.2.0 =r42h93f32a7_1
-    - r-timedate =4022.108 =r42hc72bb7e_1
+    - r-timedate =4032.109 =r42hc72bb7e_0
     - r-tinytex =0.49 =r42hc72bb7e_0
     - r-triebeard =0.4.1 =r42h93f32a7_1
     - r-ttr =0.24.4 =r42h25e906a_0

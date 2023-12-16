@@ -41,7 +41,7 @@ requirements:
     - attr =2.5.1 =h166bdaf_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
+    - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =hd590300_5
     - ca-certificates =2023.11.17 =hbcca054_0
     - cairo =1.18.0 =h3faef2a_0
@@ -97,7 +97,7 @@ requirements:
     - libglib =2.78.3 =h783c2da_0
     - libgomp =13.2.0 =h807b86a_3
     - libgpg-error =1.47 =h71f35ed_0
-    - libiconv =1.17 =hd590300_1
+    - libiconv =1.17 =hd590300_2
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm15 =15.0.7 =hb3ce162_4
@@ -128,7 +128,7 @@ requirements:
     - ncurses =6.4 =h59595ed_2
     - nest-asyncio =1.5.8 =pyhd8ed1ab_0
     - nspr =4.35 =h27087fc_0
-    - nss =3.95 =h1d7d5a4_0
+    - nss =3.96 =h1d7d5a4_0
     - openssl =3.2.0 =hd590300_1
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0

@@ -49,7 +49,7 @@ requirements:
     - babel =2.14.0 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
-    - backports.functools_lru_cache =1.6.5 =pyhd8ed1ab_0
+    - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - binaryornot =0.4.4 =py_1
     - black =22.10.0 =py37h89c1867_1
@@ -156,7 +156,7 @@ requirements:
     - libglib =2.78.3 =h783c2da_0
     - libgomp =13.2.0 =h807b86a_3
     - libgpg-error =1.47 =h71f35ed_0
-    - libiconv =1.17 =hd590300_1
+    - libiconv =1.17 =hd590300_2
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm15 =15.0.7 =hadd5161_1
     - libnsl =2.0.1 =hd590300_0
@@ -207,7 +207,7 @@ requirements:
     - ncurses =6.4 =h59595ed_2
     - nest-asyncio =1.5.8 =pyhd8ed1ab_0
     - nspr =4.35 =h27087fc_0
-    - nss =3.95 =h1d7d5a4_0
+    - nss =3.96 =h1d7d5a4_0
     - numpydoc =1.5.0 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h7d73246_1
     - openssl =3.1.4 =hd590300_0
