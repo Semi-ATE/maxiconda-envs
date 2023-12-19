@@ -76,7 +76,7 @@ requirements:
     - exceptiongroup =1.2.0 =pyhd8ed1ab_0
     - executing =2.0.1 =pyhd8ed1ab_0
     - flake8 =6.1.0 =pyhd8ed1ab_0
-    - fonttools =4.46.0 =py39ha09f3b3_0
+    - fonttools =4.47.0 =py39ha09f3b3_0
     - freetype =2.12.1 =h60636b9_2
     - gettext =0.21.1 =h8a4c099_0
     - giflib =5.2.1 =hb7f2c08_3
@@ -105,7 +105,7 @@ requirements:
     - jsonschema =4.20.0 =pyhd8ed1ab_0
     - jsonschema-specifications =2023.11.2 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
-    - jupyter_core =5.5.0 =py39h6e9494a_0
+    - jupyter_core =5.5.1 =py39h6e9494a_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_0
     - keyring =24.3.0 =py39h6e9494a_0
     - kiwisolver =1.4.5 =py39h8ee36c8_1
@@ -162,9 +162,9 @@ requirements:
     - mysql-common =8.0.33 =h1d20c9b_6
     - mysql-libs =8.0.33 =hed35180_6
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert =7.12.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.12.0 =pyhd8ed1ab_0
-    - nbconvert-pandoc =7.12.0 =pyhd8ed1ab_0
+    - nbconvert =7.13.0 =pyhd8ed1ab_0
+    - nbconvert-core =7.13.0 =pyhd8ed1ab_0
+    - nbconvert-pandoc =7.13.0 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h93d8f39_2
     - nest-asyncio =1.5.8 =pyhd8ed1ab_0
@@ -233,7 +233,7 @@ requirements:
     - requests =2.31.0 =pyhd8ed1ab_0
     - rich =13.7.0 =pyhd8ed1ab_0
     - rope =1.11.0 =pyhd8ed1ab_1
-    - rpds-py =0.13.2 =py39h3f9c672_0
+    - rpds-py =0.15.2 =py39h3f9c672_0
     - rtree =1.1.0 =py39h7d0d40a_0
     - setuptools =68.2.2 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h110ca85_0

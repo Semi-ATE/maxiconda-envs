@@ -28,7 +28,7 @@ requirements:
     - aiohttp =3.9.1 =py38h01eb140_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
-    - bitarray =2.8.3 =py38h01eb140_0
+    - bitarray =2.9.0 =py38h01eb140_0
     - cython =3.0.6 =py38h17151c0_0
     - grayskull =2.5.1 =pyhd8ed1ab_0
     - hypothesis =6.92.1 =pyha770c72_0
@@ -71,7 +71,7 @@ requirements:
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - alsa-lib =1.2.10 =hd590300_0
     - annotated-types =0.6.0 =pyhd8ed1ab_0
-    - anyio =4.1.0 =pyhd8ed1ab_0
+    - anyio =4.2.0 =pyhd8ed1ab_0
     - argon2-cffi =23.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py38h01eb140_4
     - arrow =1.3.0 =pyhd8ed1ab_0
@@ -123,7 +123,7 @@ requirements:
     - fontconfig =2.14.2 =h14ed4e7_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.46.0 =py38h01eb140_0
+    - fonttools =4.47.0 =py38h01eb140_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.12.1 =h267a509_2
     - fribidi =1.0.10 =h36c2ea0_0
@@ -158,7 +158,7 @@ requirements:
     - jsonschema-with-format-nongpl =4.20.0 =pyhd8ed1ab_0
     - jupyter-lsp =2.2.1 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
-    - jupyter_core =5.5.0 =py38h578d9bd_0
+    - jupyter_core =5.5.1 =py38h578d9bd_0
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
     - jupyter_server =2.12.1 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.0 =pyhd8ed1ab_0
@@ -242,7 +242,7 @@ requirements:
     - mysql-common =8.0.33 =hf1915f5_6
     - mysql-libs =8.0.33 =hca2cd23_6
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.12.0 =pyhd8ed1ab_0
+    - nbconvert-core =7.13.0 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h59595ed_2
     - nest-asyncio =1.5.8 =pyhd8ed1ab_0
@@ -477,7 +477,7 @@ requirements:
     - referencing =0.32.0 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.13.2 =py38h0cc4f7c_0
+    - rpds-py =0.15.2 =py38h0cc4f7c_0
     - ruamel.yaml =0.18.5 =py38h01eb140_0
     - ruamel.yaml.clib =0.2.7 =py38h01eb140_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
