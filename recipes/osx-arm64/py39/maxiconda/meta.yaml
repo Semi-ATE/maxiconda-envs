@@ -28,7 +28,7 @@ requirements:
     - aiohttp =3.9.1 =py39h17cfd9d_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
-    - cython =3.0.6 =py39h4ce5507_0
+    - cython =3.0.7 =py39hf3050f2_0
     - grayskull =2.5.1 =pyhd8ed1ab_0
     - hypothesis =6.92.1 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
@@ -45,7 +45,7 @@ requirements:
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =7.4.3 =pyhd8ed1ab_0
     - pyyaml =6.0.1 =py39h0f82c59_1
-    - qdarkstyle =3.2 =pyhd8ed1ab_0
+    - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qtawesome =1.3.0 =pyh9208f05_0
     - r-base =4.3.2 =h9389748_1
     - r-essentials =4.3 =r43hd8ed1ab_2004
@@ -139,8 +139,8 @@ requirements:
     - gmpy2 =2.1.2 =py39h0b4f9c6_1
     - graphite2 =1.3.13 =h9f76cd9_1001
     - greenlet =3.0.2 =py39h4ce5507_0
-    - gst-plugins-base =1.22.7 =h040e9b9_1
-    - gstreamer =1.22.7 =hd492984_1
+    - gst-plugins-base =1.22.8 =h09b4b5e_0
+    - gstreamer =1.22.8 =h551c6ff_0
     - harfbuzz =8.3.0 =h8f0ba13_0
     - icu =73.2 =hc8870d7_0
     - idna =3.6 =pyhd8ed1ab_0
@@ -255,7 +255,7 @@ requirements:
     - platformdirs =4.1.0 =pyhd8ed1ab_0
     - pluggy =1.3.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
-    - progressbar2 =4.2.0 =pyhd8ed1ab_0
+    - progressbar2 =4.3.0 =pyhd8ed1ab_0
     - prometheus_client =0.19.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.42 =pyha770c72_0
     - pthread-stubs =0.4 =h27ca646_1001
