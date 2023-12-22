@@ -47,24 +47,24 @@ requirements:
 
     # 349 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
-    - alembic =1.13.0 =pyhd8ed1ab_0
+    - alembic =1.13.1 =pyhd8ed1ab_0
     - annotated-types =0.6.0 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attrs =23.1.0 =pyh71513ae_1
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.8 =hfc12bfc_2
+    - aws-c-auth =0.7.8 =h6bf0135_3
     - aws-c-cal =0.6.9 =h7f0e5be_2
     - aws-c-common =0.9.10 =hcfcfb64_0
     - aws-c-compression =0.2.17 =h7f0e5be_7
     - aws-c-event-stream =0.3.2 =h51e6447_8
-    - aws-c-http =0.7.14 =h80119a0_3
+    - aws-c-http =0.7.15 =h80119a0_0
     - aws-c-io =0.13.36 =ha737126_2
-    - aws-c-mqtt =0.10.0 =hd6138de_0
-    - aws-c-s3 =0.4.5 =h885c6ba_0
+    - aws-c-mqtt =0.10.0 =h9e0d744_1
+    - aws-c-s3 =0.4.5 =he94bf34_1
     - aws-c-sdkutils =0.1.13 =h7f0e5be_0
     - aws-checksums =0.1.17 =h7f0e5be_6
-    - aws-crt-cpp =0.25.0 =h55010f6_2
+    - aws-crt-cpp =0.25.0 =h50a9806_3
     - aws-sdk-cpp =1.11.210 =h0441c79_5
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bcrypt =4.1.2 =py38h4900a04_0
@@ -134,7 +134,7 @@ requirements:
     - glib-tools =2.78.3 =h12be248_0
     - graphite2 =1.3.13 =1000
     - graphviz =9.0.0 =h51cb2cd_1
-    - greenlet =3.0.2 =py38hd3f51b4_0
+    - greenlet =3.0.3 =py38hd3f51b4_0
     - gst-plugins-base =1.22.8 =h001b923_0
     - gstreamer =1.22.8 =hb4038d2_0
     - gts =0.7.6 =h6b5321d_4

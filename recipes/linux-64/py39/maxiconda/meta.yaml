@@ -134,7 +134,7 @@ requirements:
     - gmp =6.3.0 =h59595ed_0
     - gmpy2 =2.1.2 =py39h376b7d2_1
     - graphite2 =1.3.13 =h58526e2_1001
-    - greenlet =3.0.2 =py39h3d6467e_0
+    - greenlet =3.0.3 =py39h3d6467e_0
     - gst-plugins-base =1.22.8 =h8e1006c_0
     - gstreamer =1.22.8 =h98fc4e7_0
     - gxx_impl_linux-64 =13.2.0 =h338b0a0_3
@@ -240,7 +240,7 @@ requirements:
     - mysql-common =8.0.33 =hf1915f5_6
     - mysql-libs =8.0.33 =hca2cd23_6
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.13.0 =pyhd8ed1ab_0
+    - nbconvert-core =7.13.1 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h59595ed_2
     - nest-asyncio =1.5.8 =pyhd8ed1ab_0
@@ -267,7 +267,7 @@ requirements:
     - platformdirs =4.1.0 =pyhd8ed1ab_0
     - pluggy =1.3.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
-    - progressbar2 =4.3.0 =pyhd8ed1ab_0
+    - progressbar2 =4.3.2 =pyhd8ed1ab_0
     - prometheus_client =0.19.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.42 =pyha770c72_0
     - pthread-stubs =0.4 =h36c2ea0_1001
@@ -318,7 +318,7 @@ requirements:
     - r-crul =1.4.0 =r43h785f33e_1
     - r-curl =5.1.0 =r43hf9611b0_0
     - r-data.table =1.14.10 =r43h029312a_0
-    - r-dbi =1.1.3 =r43hc72bb7e_2
+    - r-dbi =1.2.0 =r43hc72bb7e_0
     - r-dbplyr =2.4.0 =r43hc72bb7e_0
     - r-diagram =1.6.5 =r43ha770c72_2
     - r-digest =0.6.33 =r43ha503ecb_0
@@ -383,7 +383,7 @@ requirements:
     - r-mass =7.3_60 =r43h57805ef_1
     - r-matrix =1.6_4 =r43h316c678_0
     - r-memoise =2.0.1 =r43hc72bb7e_2
-    - r-mgcv =1.9_0 =r43h316c678_0
+    - r-mgcv =1.9_1 =r43h316c678_0
     - r-mime =0.12 =r43h57805ef_2
     - r-modelmetrics =1.2.2.2 =r43ha503ecb_3
     - r-modelr =0.1.11 =r43hc72bb7e_1
