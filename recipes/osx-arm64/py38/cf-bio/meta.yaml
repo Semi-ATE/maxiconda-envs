@@ -25,7 +25,7 @@ requirements:
     - python =3.8.18 =h2469fbe_0_cpython
 
     # 10 primary packages :
-    - biopython =1.81 =py38h336bac9_1
+    - biopython =1.82 =py38h336bac9_0
     - matplotlib =3.7.3 =py38h150bfb4_0
     - mdanalysis =2.4.3 =py38hee9ea5e_0
     - numpy =1.24.4 =py38ha84db1f_0
@@ -79,7 +79,7 @@ requirements:
     - glib =2.78.3 =h9e231a4_0
     - glib-tools =2.78.3 =h9e231a4_0
     - glm =0.9.9.8 =h1995070_0
-    - greenlet =3.0.2 =py38hde5fecb_0
+    - greenlet =3.0.3 =py38hb9fa5a8_0
     - griddataformats =1.0.1 =pyhd8ed1ab_0
     - gsd =3.2.0 =py38h5912bca_0
     - gst-plugins-base =1.22.8 =h09b4b5e_0
@@ -89,9 +89,9 @@ requirements:
     - hdf5 =1.14.3 =nompi_h5bb55e9_100
     - icu =73.2 =hc8870d7_0
     - idna =3.6 =pyhd8ed1ab_0
-    - importlib-metadata =7.0.0 =pyha770c72_0
+    - importlib-metadata =7.0.1 =pyha770c72_0
     - importlib-resources =6.1.1 =pyhd8ed1ab_0
-    - importlib_metadata =7.0.0 =hd8ed1ab_0
+    - importlib_metadata =7.0.1 =hd8ed1ab_0
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - ipykernel =6.26.0 =pyh3cd1d5f_0
     - ipython =8.12.2 =pyhd1c38e8_0

@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 449 secondary packages :
+    # 450 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -212,6 +212,7 @@ requirements:
     - libvorbis =1.3.7 =h9c3ff4c_0
     - libwebp-base =1.3.2 =hd590300_0
     - libxcb =1.13 =h7f98852_1004
+    - libxcrypt =4.4.36 =hd590300_1
     - libxkbcommon =1.5.0 =h79f4944_1
     - libxml2 =2.10.3 =hca2bb57_4
     - libzlib =1.2.13 =hd590300_5
@@ -250,7 +251,7 @@ requirements:
     - pango =1.50.14 =hd33c08f_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pcre2 =10.40 =hc3806b6_0
-    - perl =5.32.1 =4_hd590300_perl5
+    - perl =5.32.1 =6_hd590300_perl5
     - pexpect =4.8.0 =py37hc8dfbb8_1
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pillow =9.2.0 =py37h850a105_2
@@ -326,8 +327,8 @@ requirements:
     - r-foreign =0.8_86 =r42h57805ef_0
     - r-formatr =1.14 =r42hc72bb7e_1
     - r-fs =1.6.3 =r42ha503ecb_0
-    - r-future =1.33.0 =r42hc72bb7e_0
-    - r-future.apply =1.11.0 =r42hc72bb7e_1
+    - r-future =1.33.1 =r42hc72bb7e_0
+    - r-future.apply =1.11.1 =r42hc72bb7e_0
     - r-gargle =1.5.2 =r42h785f33e_0
     - r-generics =0.1.3 =r42hc72bb7e_2
     - r-ggplot2 =3.4.4 =r42hc72bb7e_0
@@ -481,7 +482,7 @@ requirements:
     - traitlets =5.9.0 =pyhd8ed1ab_0
     - typing-extensions =4.7.1 =hd8ed1ab_0
     - typing_extensions =4.7.1 =pyha770c72_0
-    - tzdata =2023c =h71feb2d_0
+    - tzdata =2023d =h0c530f3_0
     - unicodedata2 =14.0.0 =py37h540881e_1
     - urllib3 =2.1.0 =pyhd8ed1ab_0
     - wcwidth =0.2.10 =pyhd8ed1ab_0

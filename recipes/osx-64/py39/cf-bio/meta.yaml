@@ -25,7 +25,7 @@ requirements:
     - python =3.9.18 =h07e1443_0_cpython
 
     # 10 primary packages :
-    - biopython =1.81 =py39ha09f3b3_1
+    - biopython =1.82 =py39ha09f3b3_0
     - matplotlib =3.8.2 =py39h6e9494a_0
     - mdanalysis =2.6.1 =py39h1384e97_0
     - numpy =1.26.2 =py39h14c6d2e_0
@@ -86,9 +86,9 @@ requirements:
     - hdf4 =4.2.15 =h8138101_7
     - hdf5 =1.14.3 =nompi_h691f4bf_100
     - icu =73.2 =hf5e326d_0
-    - importlib-metadata =7.0.0 =pyha770c72_0
+    - importlib-metadata =7.0.1 =pyha770c72_0
     - importlib-resources =6.1.1 =pyhd8ed1ab_0
-    - importlib_metadata =7.0.0 =hd8ed1ab_0
+    - importlib_metadata =7.0.1 =hd8ed1ab_0
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - ipykernel =6.26.0 =pyh3cd1d5f_0
     - ipython =8.18.1 =pyh707e725_3
@@ -186,7 +186,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-tzdata =2023.3 =pyhd8ed1ab_0
     - python_abi =3.9 =4_cp39
-    - pytng =0.3.1 =py39hcf27c3a_0
+    - pytng =0.3.1 =py39hcf27c3a_1
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.2 =py39hcb7a90d_0
     - qt-main =5.15.8 =h26cf8db_18
@@ -213,7 +213,7 @@ requirements:
     - traitlets =5.14.0 =pyhd8ed1ab_0
     - typing-extensions =4.9.0 =hd8ed1ab_0
     - typing_extensions =4.9.0 =pyha770c72_0
-    - tzdata =2023c =h71feb2d_0
+    - tzdata =2023d =h0c530f3_0
     - unicodedata2 =15.1.0 =py39hdc70f33_0
     - wcwidth =0.2.12 =pyhd8ed1ab_0
     - wheel =0.42.0 =pyhd8ed1ab_0

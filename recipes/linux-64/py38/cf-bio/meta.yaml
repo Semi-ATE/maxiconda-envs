@@ -25,7 +25,7 @@ requirements:
     - python =3.8.18 =hd12c33a_0_cpython
 
     # 10 primary packages :
-    - biopython =1.81 =py38h01eb140_1
+    - biopython =1.82 =py38h01eb140_0
     - matplotlib =3.7.3 =py38h578d9bd_0
     - mdanalysis =2.4.3 =py38hbea5b78_0
     - numpy =1.24.4 =py38h59b608b_0
@@ -95,9 +95,9 @@ requirements:
     - hdf5 =1.14.3 =nompi_h4f84152_100
     - icu =73.2 =h59595ed_0
     - idna =3.6 =pyhd8ed1ab_0
-    - importlib-metadata =7.0.0 =pyha770c72_0
+    - importlib-metadata =7.0.1 =pyha770c72_0
     - importlib-resources =6.1.1 =pyhd8ed1ab_0
-    - importlib_metadata =7.0.0 =hd8ed1ab_0
+    - importlib_metadata =7.0.1 =hd8ed1ab_0
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - ipykernel =6.26.0 =pyhf8b6a83_0
     - ipython =8.12.2 =pyh41d4057_0

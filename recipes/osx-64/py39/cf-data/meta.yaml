@@ -27,7 +27,7 @@ requirements:
     # 20 primary packages :
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - bokeh =3.3.2 =pyhd8ed1ab_0
-    - lightgbm =4.1.0 =py39h86ebb63_2
+    - lightgbm =4.2.0 =py39hf7b7f60_0
     - matplotlib =3.8.2 =py39h6e9494a_0
     - numpy =1.26.2 =py39h14c6d2e_0
     - pandas =2.1.4 =py39h5d65943_0
@@ -62,7 +62,7 @@ requirements:
     - aws-c-compression =0.2.17 =hb45f1eb_7
     - aws-c-event-stream =0.3.2 =hbc2660c_8
     - aws-c-http =0.7.15 =h1fa4523_0
-    - aws-c-io =0.13.36 =h3728bb0_2
+    - aws-c-io =0.13.36 =h3728bb0_3
     - aws-c-mqtt =0.10.0 =ha95a165_1
     - aws-c-s3 =0.4.5 =h222382d_1
     - aws-c-sdkutils =0.1.13 =hb45f1eb_0
@@ -156,9 +156,9 @@ requirements:
     - idna =3.6 =pyhd8ed1ab_0
     - imagehash =4.3.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.11.0 =pyhd8ed1ab_0
-    - importlib-metadata =7.0.0 =pyha770c72_0
+    - importlib-metadata =7.0.1 =pyha770c72_0
     - importlib-resources =6.1.1 =pyhd8ed1ab_0
-    - importlib_metadata =7.0.0 =hd8ed1ab_0
+    - importlib_metadata =7.0.1 =hd8ed1ab_0
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.26.0 =pyh3cd1d5f_0
@@ -310,8 +310,8 @@ requirements:
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic =2.5.2 =pyhd8ed1ab_0
-    - pydantic-core =2.14.5 =py39h3f9c672_0
+    - pydantic =2.5.3 =pyhd8ed1ab_0
+    - pydantic-core =2.14.6 =py39h3f9c672_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0
@@ -382,7 +382,7 @@ requirements:
     - typer =0.9.0 =pyhd8ed1ab_0
     - typing-extensions =4.9.0 =hd8ed1ab_0
     - typing_extensions =4.9.0 =pyha770c72_0
-    - tzdata =2023c =h71feb2d_0
+    - tzdata =2023d =h0c530f3_0
     - umap-learn =0.5.5 =py39h6e9494a_0
     - unicodedata2 =15.1.0 =py39hdc70f33_0
     - urllib3 =2.1.0 =pyhd8ed1ab_0
