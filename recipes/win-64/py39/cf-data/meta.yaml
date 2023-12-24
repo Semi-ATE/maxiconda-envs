@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.18 =h4de0772_0_cpython
+    - python =3.9.18 =h4de0772_1_cpython
   run:
-    - python =3.9.18 =h4de0772_0_cpython
+    - python =3.9.18 =h4de0772_1_cpython
 
     # 19 primary packages :
     - beautifulsoup4 =4.12.2 =pyha770c72_0
@@ -61,10 +61,10 @@ requirements:
     - aws-c-http =0.7.15 =h80119a0_0
     - aws-c-io =0.13.36 =ha737126_3
     - aws-c-mqtt =0.10.0 =h9e0d744_1
-    - aws-c-s3 =0.4.5 =he94bf34_1
+    - aws-c-s3 =0.4.6 =he94bf34_0
     - aws-c-sdkutils =0.1.13 =h7f0e5be_0
     - aws-checksums =0.1.17 =h7f0e5be_6
-    - aws-crt-cpp =0.25.0 =h50a9806_3
+    - aws-crt-cpp =0.25.0 =h1554317_4
     - aws-sdk-cpp =1.11.210 =h0441c79_5
     - bcrypt =4.1.2 =py39hf21820d_0
     - blinker =1.7.0 =pyhd8ed1ab_0
@@ -246,7 +246,7 @@ requirements:
     - networkx =3.2.1 =pyhd8ed1ab_0
     - nltk =3.8.1 =pyhd8ed1ab_0
     - numba =0.58.1 =py39h6836801_0
-    - numexpr =2.8.7 =mkl_py39h8e34069_4
+    - numexpr =2.8.8 =mkl_py39hd5aa651_0
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h3d672ee_3
     - openssl =3.2.0 =hcfcfb64_1
@@ -284,7 +284,7 @@ requirements:
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
     - pydantic =2.5.3 =pyhd8ed1ab_0
-    - pydantic-core =2.14.6 =py39hf21820d_0
+    - pydantic-core =2.14.6 =py39hf21820d_1
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0

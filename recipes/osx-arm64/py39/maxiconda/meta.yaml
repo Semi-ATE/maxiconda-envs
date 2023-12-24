@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.18 =hfa1ae8a_0_cpython
+    - python =3.9.18 =hd7ebdb9_1_cpython
   run:
-    - python =3.9.18 =hfa1ae8a_0_cpython
+    - python =3.9.18 =hd7ebdb9_1_cpython
 
     # 37 primary packages :
     - aiohttp =3.9.1 =py39h17cfd9d_0
@@ -262,7 +262,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic-core =2.14.6 =py39h8fec3ad_0
+    - pydantic-core =2.14.6 =py39h8fec3ad_1
     - pygments =2.17.2 =pyhd8ed1ab_0
     - pyobjc-core =10.1 =py39hb167abd_0
     - pyobjc-framework-cocoa =10.1 =py39hb167abd_0

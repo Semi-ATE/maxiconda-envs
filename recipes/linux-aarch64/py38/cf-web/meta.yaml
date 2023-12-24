@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.18 =hbbe8eec_0_cpython
+    - python =3.8.18 =hbbe8eec_1_cpython
   run:
-    - python =3.8.18 =hbbe8eec_0_cpython
+    - python =3.8.18 =hbbe8eec_1_cpython
 
     # 9 primary packages :
     - beautifulsoup4 =4.12.2 =pyha770c72_0
@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.23 =py38hea3b116_0
     - twisted =23.10.0 =py38hea3b116_0
 
-    # 176 secondary packages :
+    # 177 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.10 =h31becfc_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -125,6 +125,7 @@ requirements:
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
     - libxcb =1.15 =h2a766a3_0
+    - libxcrypt =4.4.36 =h31becfc_1
     - libxkbcommon =1.6.0 =h217f472_1
     - libxml2 =2.12.3 =h3091e33_0
     - libzlib =1.2.13 =h31becfc_5

@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.18 =h5ba8234_0_cpython
+    - python =3.8.18 =h5ba8234_1_cpython
   run:
-    - python =3.8.18 =h5ba8234_0_cpython
+    - python =3.8.18 =h5ba8234_1_cpython
 
     # 20 primary packages :
     - beautifulsoup4 =4.12.2 =pyha770c72_0
@@ -313,7 +313,7 @@ requirements:
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
     - pydantic =2.5.3 =pyhd8ed1ab_0
-    - pydantic-core =2.14.6 =py38h51dbebd_0
+    - pydantic-core =2.14.6 =py38h51dbebd_1
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0

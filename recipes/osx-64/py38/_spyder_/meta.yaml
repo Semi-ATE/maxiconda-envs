@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.18 =h5ba8234_0_cpython
+    - python =3.8.18 =h5ba8234_1_cpython
   run:
-    - python =3.8.18 =h5ba8234_0_cpython
+    - python =3.8.18 =h5ba8234_1_cpython
 
     # 9 primary packages :
     - cython =3.0.7 =py38h1f5f77c_0
@@ -49,7 +49,7 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - binaryornot =0.4.4 =py_1
-    - black =23.11.0 =py38h50d1736_0
+    - black =23.12.1 =py38h50d1736_0
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =h0dc2134_1
     - brotli-bin =1.1.0 =h0dc2134_1

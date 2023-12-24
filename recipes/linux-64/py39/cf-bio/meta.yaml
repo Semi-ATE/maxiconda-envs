@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.18 =h0755675_0_cpython
+    - python =3.9.18 =h0755675_1_cpython
   run:
-    - python =3.9.18 =h0755675_0_cpython
+    - python =3.9.18 =h0755675_1_cpython
 
     # 10 primary packages :
     - biopython =1.82 =py39hd1e30aa_0
@@ -160,6 +160,7 @@ requirements:
     - libvorbis =1.3.7 =h9c3ff4c_0
     - libwebp-base =1.3.2 =hd590300_0
     - libxcb =1.15 =h0b41bf4_0
+    - libxcrypt =4.4.36 =hd590300_1
     - libxkbcommon =1.6.0 =h5d7e998_0
     - libxml2 =2.11.6 =h232c23b_0
     - libzip =1.10.1 =h2629f0a_3
@@ -186,7 +187,6 @@ requirements:
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - patsy =0.5.4 =pyhd8ed1ab_0
-    - pbr =6.0.0 =pyhd8ed1ab_0
     - pcre2 =10.42 =hcad00b1_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py39hde42818_1002
@@ -203,7 +203,7 @@ requirements:
     - pulseaudio-client =16.1 =hb77b528_5
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycairo =1.25.1 =py39hc92de75_0
-    - pyedr =0.7.2 =pyhd8ed1ab_0
+    - pyedr =0.8.0 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0
     - pyparsing =3.1.1 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py39h3d6467e_5

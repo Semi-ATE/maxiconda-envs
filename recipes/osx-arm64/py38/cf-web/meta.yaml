@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.18 =h2469fbe_0_cpython
+    - python =3.8.18 =h2469fbe_1_cpython
   run:
-    - python =3.8.18 =h2469fbe_0_cpython
+    - python =3.8.18 =h2469fbe_1_cpython
 
     # 9 primary packages :
     - beautifulsoup4 =4.12.2 =pyha770c72_0

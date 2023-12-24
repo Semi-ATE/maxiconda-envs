@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.18 =hd12c33a_0_cpython
+    - python =3.8.18 =hd12c33a_1_cpython
   run:
-    - python =3.8.18 =hd12c33a_0_cpython
+    - python =3.8.18 =hd12c33a_1_cpython
 
     # 10 primary packages :
     - biopython =1.82 =py38h01eb140_0
@@ -36,7 +36,7 @@ requirements:
     - scipy =1.10.1 =py38h59b608b_3
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
 
-    # 235 secondary packages :
+    # 236 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.10 =hd590300_0
@@ -163,6 +163,7 @@ requirements:
     - libvorbis =1.3.7 =h9c3ff4c_0
     - libwebp-base =1.3.2 =hd590300_0
     - libxcb =1.15 =h0b41bf4_0
+    - libxcrypt =4.4.36 =hd590300_1
     - libxkbcommon =1.6.0 =h5d7e998_0
     - libxml2 =2.11.6 =h232c23b_0
     - libzip =1.10.1 =h2629f0a_3

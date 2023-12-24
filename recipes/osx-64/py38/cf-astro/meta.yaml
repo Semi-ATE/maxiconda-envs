@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.18 =h5ba8234_0_cpython
+    - python =3.8.18 =h5ba8234_1_cpython
   run:
-    - python =3.8.18 =h5ba8234_0_cpython
+    - python =3.8.18 =h5ba8234_1_cpython
 
     # 2 primary packages :
     - pyqt =5.15.9 =py38he1c912d_5

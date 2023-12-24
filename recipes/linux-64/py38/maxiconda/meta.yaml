@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.18 =hd12c33a_0_cpython
+    - python =3.8.18 =hd12c33a_1_cpython
   run:
-    - python =3.8.18 =hd12c33a_0_cpython
+    - python =3.8.18 =hd12c33a_1_cpython
 
     # 38 primary packages :
     - aiohttp =3.9.1 =py38h01eb140_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 478 secondary packages :
+    # 479 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -223,6 +223,7 @@ requirements:
     - libvorbis =1.3.7 =h9c3ff4c_0
     - libwebp-base =1.3.2 =hd590300_0
     - libxcb =1.15 =h0b41bf4_0
+    - libxcrypt =4.4.36 =hd590300_1
     - libxkbcommon =1.6.0 =h5d7e998_0
     - libxml2 =2.11.6 =h232c23b_0
     - libzlib =1.2.13 =hd590300_5
@@ -279,7 +280,7 @@ requirements:
     - pulseaudio-client =16.1 =hb77b528_5
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic-core =2.14.6 =py38h0cc4f7c_0
+    - pydantic-core =2.14.6 =py38h0cc4f7c_1
     - pygments =2.17.2 =pyhd8ed1ab_0
     - pyparsing =3.1.1 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py38h17151c0_5

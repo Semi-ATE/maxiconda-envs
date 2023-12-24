@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.18 =hbbe8eec_0_cpython
+    - python =3.8.18 =hbbe8eec_1_cpython
   run:
-    - python =3.8.18 =hbbe8eec_0_cpython
+    - python =3.8.18 =hbbe8eec_1_cpython
 
     # 9 primary packages :
     - cython =3.0.7 =py38hb83fbf6_0
@@ -35,7 +35,7 @@ requirements:
     - spyder =5.5.0 =py38he3eb160_3
     - sympy =1.12 =pypyh9d50eac_103
 
-    # 311 secondary packages :
+    # 312 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - alsa-lib =1.2.10 =h31becfc_0
@@ -50,7 +50,7 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - binaryornot =0.4.4 =py_1
-    - black =23.11.0 =py38he3eb160_0
+    - black =23.12.1 =py38he3eb160_0
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =h31becfc_1
     - brotli-bin =1.1.0 =h31becfc_1
@@ -175,6 +175,7 @@ requirements:
     - libwebp =1.3.2 =heb2ea1b_1
     - libwebp-base =1.3.2 =h31becfc_0
     - libxcb =1.15 =h2a766a3_0
+    - libxcrypt =4.4.36 =h31becfc_1
     - libxkbcommon =1.6.0 =h307e02a_0
     - libxml2 =2.11.6 =h3091e33_0
     - libzlib =1.2.13 =h31becfc_5

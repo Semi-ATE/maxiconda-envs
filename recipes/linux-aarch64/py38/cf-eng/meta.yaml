@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.18 =hbbe8eec_0_cpython
+    - python =3.8.18 =hbbe8eec_1_cpython
   run:
-    - python =3.8.18 =hbbe8eec_0_cpython
+    - python =3.8.18 =hbbe8eec_1_cpython
 
     # 8 primary packages :
     - numpy =1.24.4 =py38he3f4005_0
@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.1 =pyhca7485f_0
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
 
-    # 156 secondary packages :
+    # 157 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.10 =h31becfc_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
@@ -116,6 +116,7 @@ requirements:
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
     - libxcb =1.15 =h2a766a3_0
+    - libxcrypt =4.4.36 =h31becfc_1
     - libxkbcommon =1.6.0 =h217f472_1
     - libxml2 =2.12.3 =h3091e33_0
     - libzlib =1.2.13 =h31becfc_5
