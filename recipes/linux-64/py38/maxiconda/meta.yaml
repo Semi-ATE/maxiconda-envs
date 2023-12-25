@@ -28,7 +28,7 @@ requirements:
     - aiohttp =3.9.1 =py38h01eb140_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
-    - bitarray =2.9.0 =py38h01eb140_0
+    - bitarray =2.9.1 =py38h01eb140_0
     - cython =3.0.7 =py38h17151c0_0
     - grayskull =2.5.1 =pyhd8ed1ab_0
     - hypothesis =6.92.1 =pyha770c72_0
@@ -50,7 +50,7 @@ requirements:
     - qtawesome =1.3.0 =pyh9208f05_0
     - r-base =4.3.2 =hb8ee39d_1
     - r-essentials =4.3 =r43hd8ed1ab_2004
-    - regex =2023.10.3 =py38h01eb140_0
+    - regex =2023.12.25 =py38h01eb140_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rust =1.74.1 =h70c747d_0
     - scipy =1.10.1 =py38h59b608b_3
@@ -202,7 +202,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm14 =14.0.6 =hcd5def8_4
-    - libllvm15 =15.0.7 =h5cf9203_3
+    - libllvm15 =15.0.7 =hb3ce162_4
     - libnghttp2 =1.58.0 =h47da74e_1
     - libnsl =2.0.1 =hd590300_0
     - libogg =1.3.4 =h7f98852_1
@@ -224,8 +224,8 @@ requirements:
     - libwebp-base =1.3.2 =hd590300_0
     - libxcb =1.15 =h0b41bf4_0
     - libxcrypt =4.4.36 =hd590300_1
-    - libxkbcommon =1.6.0 =h5d7e998_0
-    - libxml2 =2.11.6 =h232c23b_0
+    - libxkbcommon =1.6.0 =hd429924_1
+    - libxml2 =2.12.3 =h232c23b_0
     - libzlib =1.2.13 =hd590300_5
     - llvmlite =0.41.1 =py38h94a1851_0
     - lz4-c =1.9.4 =hcb278e6_0
@@ -293,7 +293,7 @@ requirements:
     - python_abi =3.8 =4_cp38
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.2 =py38h34c975a_0
-    - qt-main =5.15.8 =h82b777d_17
+    - qt-main =5.15.8 =h450f30e_18
     - qtpy =2.4.1 =pyhd8ed1ab_0
     - r-askpass =1.2.0 =r43h57805ef_0
     - r-assertthat =0.2.1 =r43hc72bb7e_4
@@ -468,7 +468,7 @@ requirements:
     - r-vroom =1.6.5 =r43ha503ecb_0
     - r-withr =2.5.2 =r43hc72bb7e_0
     - r-xfun =0.41 =r43ha503ecb_0
-    - r-xml2 =1.3.6 =r43h1ad5fc0_0
+    - r-xml2 =1.3.6 =r43hbfba7a4_1
     - r-xtable =1.8_4 =r43hc72bb7e_5
     - r-xts =0.13.1 =r43h57805ef_1
     - r-yaml =2.3.8 =r43h57805ef_0

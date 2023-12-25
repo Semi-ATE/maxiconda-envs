@@ -28,7 +28,7 @@ requirements:
     - aiohttp =3.9.1 =py38h9579f32_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
-    - bitarray =2.9.0 =py38h9579f32_0
+    - bitarray =2.9.1 =py38h9579f32_0
     - cython =3.0.7 =py38hb83fbf6_0
     - grayskull =2.5.1 =pyhd8ed1ab_0
     - hypothesis =6.92.1 =pyha770c72_0
@@ -50,7 +50,7 @@ requirements:
     - qtawesome =1.3.0 =pyh9208f05_0
     - r-base =4.3.2 =h7dc8e12_1
     - r-essentials =4.3 =r43hd8ed1ab_2004
-    - regex =2023.10.3 =py38h9579f32_0
+    - regex =2023.12.25 =py38h9579f32_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rust =1.74.1 =h9d3d833_0
     - scipy =1.10.1 =py38he3f4005_3
@@ -202,7 +202,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =h31becfc_1
     - liblapack =3.9.0 =20_linuxaarch64_openblas
     - libllvm14 =14.0.6 =h966f666_4
-    - libllvm15 =15.0.7 =hc720cd8_3
+    - libllvm15 =15.0.7 =hb4f23b0_4
     - libnghttp2 =1.58.0 =hb0e430d_1
     - libnsl =2.0.1 =h31becfc_0
     - libogg =1.3.4 =h3557bc0_1
@@ -224,8 +224,8 @@ requirements:
     - libwebp-base =1.3.2 =h31becfc_0
     - libxcb =1.15 =h2a766a3_0
     - libxcrypt =4.4.36 =h31becfc_1
-    - libxkbcommon =1.6.0 =h307e02a_0
-    - libxml2 =2.11.6 =h3091e33_0
+    - libxkbcommon =1.6.0 =h217f472_1
+    - libxml2 =2.12.3 =h3091e33_0
     - libzlib =1.2.13 =h31becfc_5
     - llvmlite =0.41.1 =py38h95a9722_0
     - lz4-c =1.9.4 =hd600fc2_0
@@ -293,7 +293,7 @@ requirements:
     - python_abi =3.8 =4_cp38
     - pytz =2023.3.post1 =pyhd8ed1ab_0
     - pyzmq =25.1.2 =py38ha083373_0
-    - qt-main =5.15.8 =hc564a22_17
+    - qt-main =5.15.8 =h5992497_18
     - qtpy =2.4.1 =pyhd8ed1ab_0
     - r-askpass =1.2.0 =r43h25e906a_0
     - r-assertthat =0.2.1 =r43hc72bb7e_4
@@ -468,7 +468,7 @@ requirements:
     - r-vroom =1.6.5 =r43h93f32a7_0
     - r-withr =2.5.2 =r43hc72bb7e_0
     - r-xfun =0.41 =r43h93f32a7_0
-    - r-xml2 =1.3.6 =r43h9ff23c6_0
+    - r-xml2 =1.3.6 =r43hf9302b4_1
     - r-xtable =1.8_4 =r43hc72bb7e_5
     - r-xts =0.13.1 =r43h25e906a_1
     - r-yaml =2.3.8 =r43h25e906a_0
