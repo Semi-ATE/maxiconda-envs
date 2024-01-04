@@ -29,13 +29,13 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.2 =pyha770c72_0
     - cython =3.0.7 =py39hf3050f2_0
-    - grayskull =2.5.2 =pyhd8ed1ab_0
+    - grayskull =2.5.3 =pyhd8ed1ab_0
     - hypothesis =6.92.2 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.8.2 =py39hdf13c20_0
     - numba =0.58.1 =py39h0b2aa81_0
-    - numpy =1.26.2 =py39heee92a0_0
+    - numpy =1.26.3 =py39h7aa2656_0
     - openpyxl =3.1.2 =py39h0f82c59_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.1.4 =py39hf8cecc8_0
@@ -51,11 +51,11 @@ requirements:
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2023.12.25 =py39h17cfd9d_0
     - requests =2.31.0 =pyhd8ed1ab_0
-    - rust =1.74.1 =h4ff7c5d_0
+    - rust =1.75.0 =h4ff7c5d_0
     - scipy =1.11.4 =py39h36c428d_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.24 =py39h17cfd9d_0
+    - sqlalchemy =2.0.25 =py39h17cfd9d_0
     - sqlite =3.44.2 =hf2abe2d_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.66.1 =pyhd8ed1ab_0
@@ -93,17 +93,17 @@ requirements:
     - certifi =2023.11.17 =pyhd8ed1ab_0
     - cffi =1.16.0 =py39he153c15_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
-    - clang =17.0.6 =haab561b_1
-    - clang-17 =17.0.6 =default_hd209bcb_1
+    - clang =17.0.6 =haab561b_2
+    - clang-17 =17.0.6 =default_hd209bcb_2
     - clang_impl_osx-arm64 =17.0.6 =he47c785_7
     - clang_osx-arm64 =17.0.6 =h54d7cd3_7
-    - clangxx =17.0.6 =default_h5c94ee4_1
+    - clangxx =17.0.6 =default_h5c94ee4_2
     - clangxx_impl_osx-arm64 =17.0.6 =h50f59cd_7
     - clangxx_osx-arm64 =17.0.6 =h54d7cd3_7
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
-    - comm =0.1.4 =pyhd8ed1ab_0
+    - comm =0.2.1 =pyhd8ed1ab_0
     - compiler-rt =17.0.6 =h3808999_1
     - compiler-rt_osx-arm64 =17.0.6 =h3808999_1
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
@@ -160,7 +160,7 @@ requirements:
     - jsonschema-with-format-nongpl =4.20.0 =pyhd8ed1ab_0
     - jupyter-lsp =2.2.1 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
-    - jupyter_core =5.6.0 =py39h2804cbe_0
+    - jupyter_core =5.7.0 =py39h2804cbe_0
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
     - jupyter_server =2.12.1 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.1 =pyhd8ed1ab_0
@@ -178,7 +178,7 @@ requirements:
     - libbrotlienc =1.1.0 =hb547adb_1
     - libcblas =3.9.0 =20_osxarm64_openblas
     - libclang =15.0.7 =default_hd209bcb_4
-    - libclang-cpp17 =17.0.6 =default_hd209bcb_1
+    - libclang-cpp17 =17.0.6 =default_hd209bcb_2
     - libclang13 =15.0.7 =default_ha49e599_4
     - libcurl =8.5.0 =h2d989ff_0
     - libcxx =16.0.6 =h4653b0c_0
@@ -228,7 +228,7 @@ requirements:
     - mysql-common =8.0.33 =hf9e6398_6
     - mysql-libs =8.0.33 =he3dca8b_6
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.13.1 =pyhd8ed1ab_0
+    - nbconvert-core =7.14.0 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h463b476_2
     - nest-asyncio =1.5.8 =pyhd8ed1ab_0
@@ -247,7 +247,7 @@ requirements:
     - pcre2 =10.42 =h26f9a81_0
     - pexpect =4.8.0 =pyh1a96a4e_2
     - pickleshare =0.7.5 =py_1003
-    - pillow =10.1.0 =py39h755f0b7_0
+    - pillow =10.2.0 =py39h755f0b7_0
     - pip =23.3.2 =pyhd8ed1ab_0
     - pixman =0.42.2 =h13dd4ca_0
     - pkginfo =1.9.6 =pyhd8ed1ab_0
@@ -466,10 +466,10 @@ requirements:
     - ruamel.yaml =0.18.5 =py39h17cfd9d_0
     - ruamel.yaml.clib =0.2.7 =py39h0f82c59_2
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-aarch64-apple-darwin =1.74.1 =hf6ec828_0
+    - rust-std-aarch64-apple-darwin =1.75.0 =hf6ec828_0
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.2 =pyhd1c38e8_0
-    - setuptools =68.2.2 =pyhd8ed1ab_0
+    - setuptools =69.0.3 =pyhd8ed1ab_0
     - sigtool =0.1.3 =h44b9a77_0
     - sip =6.8.1 =py39hf3050f2_0
     - six =1.16.0 =pyh6c4a22f_0
@@ -487,7 +487,7 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tomli-w =1.0.0 =pyhd8ed1ab_0
     - tornado =6.3.3 =py39h0f82c59_1
-    - traitlets =5.14.0 =pyhd8ed1ab_0
+    - traitlets =5.14.1 =pyhd8ed1ab_0
     - types-python-dateutil =2.8.19.14 =pyhd8ed1ab_0
     - typing-extensions =4.9.0 =hd8ed1ab_0
     - typing_extensions =4.9.0 =pyha770c72_0

@@ -54,7 +54,7 @@ requirements:
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
-    - comm =0.1.4 =pyhd8ed1ab_0
+    - comm =0.2.1 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38hb1fd069_1
     - cycler =0.12.1 =pyhd8ed1ab_0
     - debugpy =1.8.0 =py38hd3f51b4_1
@@ -97,7 +97,7 @@ requirements:
     - jedi =0.19.1 =pyhd8ed1ab_0
     - joblib =1.3.2 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
-    - jupyter_core =5.6.0 =py38haa244fe_0
+    - jupyter_core =5.7.0 =py38haa244fe_0
     - kiwisolver =1.4.5 =py38hb1fd069_1
     - krb5 =1.21.2 =heb0366b_0
     - lcms2 =2.16 =h67d730c_0
@@ -160,7 +160,7 @@ requirements:
     - pbr =6.0.0 =pyhd8ed1ab_0
     - pcre2 =10.42 =h17e33f8_0
     - pickleshare =0.7.5 =py38h32f6830_1002
-    - pillow =10.1.0 =py38hc375fad_0
+    - pillow =10.2.0 =py38hc375fad_0
     - pip =23.3.2 =pyhd8ed1ab_0
     - pixman =0.42.2 =h63175ca_0
     - platformdirs =4.1.0 =pyhd8ed1ab_0
@@ -191,13 +191,13 @@ requirements:
     - requests =2.31.0 =pyhd8ed1ab_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
     - scikit-learn =1.3.2 =py38h4f736e5_2
-    - seaborn =0.13.0 =hd8ed1ab_0
-    - seaborn-base =0.13.0 =pyhd8ed1ab_0
-    - setuptools =68.2.2 =pyhd8ed1ab_0
+    - seaborn =0.13.1 =hd8ed1ab_0
+    - seaborn-base =0.13.1 =pyhd8ed1ab_0
+    - setuptools =69.0.3 =pyhd8ed1ab_0
     - sip =6.7.12 =py38hd3f51b4_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.1.10 =hfb803bf_0
-    - sqlalchemy =2.0.24 =py38h91455d4_0
+    - sqlalchemy =2.0.25 =py38h91455d4_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.1 =py38he7056a7_0
     - tbb =2021.11.0 =h91493d7_0
@@ -208,7 +208,7 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.3.3 =py38h91455d4_1
     - tqdm =4.66.1 =pyhd8ed1ab_0
-    - traitlets =5.14.0 =pyhd8ed1ab_0
+    - traitlets =5.14.1 =pyhd8ed1ab_0
     - typing-extensions =4.9.0 =hd8ed1ab_0
     - typing_extensions =4.9.0 =pyha770c72_0
     - ucrt =10.0.22621.0 =h57928b3_0

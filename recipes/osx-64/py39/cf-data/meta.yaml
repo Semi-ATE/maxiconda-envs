@@ -29,7 +29,7 @@ requirements:
     - bokeh =3.3.2 =pyhd8ed1ab_0
     - lightgbm =4.2.0 =py39hf7b7f60_0
     - matplotlib =3.8.2 =py39h6e9494a_0
-    - numpy =1.26.2 =py39h14c6d2e_0
+    - numpy =1.26.3 =py39h28c39a1_0
     - pandas =2.1.4 =py39h5d65943_0
     - plotly =5.18.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
@@ -39,9 +39,9 @@ requirements:
     - scikit-learn =1.3.2 =py39hecadb86_2
     - scipy =1.11.4 =py39ha321857_0
     - scrapy =2.11.0 =py39h6e9494a_0
-    - seaborn =0.13.0 =hd8ed1ab_0
+    - seaborn =0.13.1 =hd8ed1ab_0
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.24 =py39ha09f3b3_0
+    - sqlalchemy =2.0.25 =py39ha09f3b3_0
     - sqlite =3.44.2 =h7461747_0
     - statsmodels =0.14.1 =py39h5b4affa_0
     - xgboost =2.0.3 =cpu_py39h15c3653_0
@@ -64,11 +64,11 @@ requirements:
     - aws-c-http =0.7.15 =h1fa4523_0
     - aws-c-io =0.13.36 =h3728bb0_3
     - aws-c-mqtt =0.10.0 =ha95a165_1
-    - aws-c-s3 =0.4.6 =h222382d_0
+    - aws-c-s3 =0.4.7 =h222382d_0
     - aws-c-sdkutils =0.1.13 =hb45f1eb_0
     - aws-checksums =0.1.17 =hb45f1eb_6
-    - aws-crt-cpp =0.25.0 =h845a6db_4
-    - aws-sdk-cpp =1.11.210 =hcffc49a_5
+    - aws-crt-cpp =0.25.1 =hfc7c118_1
+    - aws-sdk-cpp =1.11.210 =ha812a5c_6
     - bcrypt =4.1.2 =py39h3f9c672_0
     - blinker =1.7.0 =pyhd8ed1ab_0
     - bottleneck =1.3.7 =py39hd01001f_1
@@ -90,7 +90,7 @@ requirements:
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - colorlover =0.3.0 =py_0
-    - comm =0.1.4 =pyhd8ed1ab_0
+    - comm =0.2.1 =pyhd8ed1ab_0
     - confection =0.1.4 =py39hbd905a8_0
     - configparser =5.3.0 =pyhd8ed1ab_0
     - confuse =2.0.1 =pyhd8ed1ab_0
@@ -172,7 +172,7 @@ requirements:
     - jmespath =1.0.1 =pyhd8ed1ab_0
     - joblib =1.3.2 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
-    - jupyter_core =5.5.1 =py39h6e9494a_0
+    - jupyter_core =5.7.0 =py39h6e9494a_0
     - jupyterlab_widgets =3.0.9 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py39h8ee36c8_1
     - kmodes =0.12.2 =pyhd8ed1ab_0
@@ -181,13 +181,13 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230802.1 =cxx17_h048a20a_0
-    - libarrow =14.0.2 =h2ef8067_0_cpu
-    - libarrow-acero =14.0.2 =h000cb23_0_cpu
-    - libarrow-dataset =14.0.2 =h000cb23_0_cpu
-    - libarrow-flight =14.0.2 =ha1803ca_0_cpu
-    - libarrow-flight-sql =14.0.2 =h8ec153b_0_cpu
-    - libarrow-gandiva =14.0.2 =h01dce7f_0_cpu
-    - libarrow-substrait =14.0.2 =h8ec153b_0_cpu
+    - libarrow =14.0.2 =hb34ab4f_1_cpu
+    - libarrow-acero =14.0.2 =h000cb23_1_cpu
+    - libarrow-dataset =14.0.2 =h000cb23_1_cpu
+    - libarrow-flight =14.0.2 =ha1803ca_1_cpu
+    - libarrow-flight-sql =14.0.2 =h8ec153b_1_cpu
+    - libarrow-gandiva =14.0.2 =h01dce7f_1_cpu
+    - libarrow-substrait =14.0.2 =h8ec153b_1_cpu
     - libblas =3.9.0 =20_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
@@ -220,7 +220,7 @@ requirements:
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =14.0.2 =h381d950_0_cpu
+    - libparquet =14.0.2 =h381d950_1_cpu
     - libpng =1.6.39 =ha978bb4_0
     - libpq =16.1 =ha925e61_7
     - libprotobuf =4.24.4 =h0ee05dc_0
@@ -251,7 +251,7 @@ requirements:
     - markupsafe =2.1.3 =py39hdc70f33_1
     - matplotlib-base =3.8.2 =py39h7070ae8_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
-    - mdurl =0.1.0 =pyhd8ed1ab_0
+    - mdurl =0.1.2 =pyhd8ed1ab_0
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mkl =2022.2.1 =h44ed08c_16952
@@ -289,7 +289,7 @@ requirements:
     - pexpect =4.8.0 =pyh1a96a4e_2
     - phik =0.12.3 =py39h29e5701_1
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =10.1.0 =py39hdd30358_0
+    - pillow =10.2.0 =py39hdd30358_0
     - pip =23.3.2 =pyhd8ed1ab_0
     - pixman =0.42.2 =he965462_0
     - platformdirs =4.1.0 =pyhd8ed1ab_0
@@ -305,7 +305,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py39h15c3653_0
-    - pyarrow =14.0.2 =py39h8632116_0_cpu
+    - pyarrow =14.0.2 =py39h8632116_1_cpu
     - pyasn1 =0.5.1 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -344,10 +344,10 @@ requirements:
     - requests-file =1.5.1 =pyh9f0ad1d_0
     - retrying =1.3.3 =py_2
     - rich =13.7.0 =pyhd8ed1ab_0
-    - seaborn-base =0.13.0 =pyhd8ed1ab_0
+    - seaborn-base =0.13.1 =pyhd8ed1ab_0
     - service-identity =21.1.0 =pyhd8ed1ab_0
     - service_identity =21.1.0 =hd8ed1ab_0
-    - setuptools =68.2.2 =pyhd8ed1ab_0
+    - setuptools =69.0.3 =pyhd8ed1ab_0
     - shellingham =1.5.4 =pyhd8ed1ab_0
     - simpful =2.11.1 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h110ca85_0
@@ -377,7 +377,7 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.3.3 =py39hdc70f33_1
     - tqdm =4.66.1 =pyhd8ed1ab_0
-    - traitlets =5.14.0 =pyhd8ed1ab_0
+    - traitlets =5.14.1 =pyhd8ed1ab_0
     - twisted =22.10.0 =py39ha30fb19_0
     - typer =0.9.0 =pyhd8ed1ab_0
     - typing-extensions =4.9.0 =hd8ed1ab_0

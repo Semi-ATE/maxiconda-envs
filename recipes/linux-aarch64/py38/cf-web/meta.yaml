@@ -32,7 +32,7 @@ requirements:
     - pyyaml =6.0.1 =py38h9579f32_1
     - requests =2.31.0 =pyhd8ed1ab_0
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.24 =py38hea3b116_0
+    - sqlalchemy =2.0.25 =py38hea3b116_0
     - twisted =23.10.0 =py38hea3b116_0
 
     # 177 secondary packages :
@@ -56,7 +56,7 @@ requirements:
     - cffi =1.16.0 =py38h4ab679b_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
-    - comm =0.1.4 =pyhd8ed1ab_0
+    - comm =0.2.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - cryptography =41.0.7 =py38h3d6a9a7_1
     - dbus =1.13.6 =h12b9eeb_3
@@ -90,7 +90,7 @@ requirements:
     - ipython =8.12.2 =pyh41d4057_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
-    - jupyter_core =5.6.0 =py38he3eb160_0
+    - jupyter_core =5.7.0 =py38he3eb160_0
     - keyutils =1.6.1 =h4e544f5_0
     - krb5 =1.21.2 =hc419048_0
     - lame =3.100 =h4e544f5_1003
@@ -170,7 +170,7 @@ requirements:
     - readline =8.2 =h8fc344f_1
     - service-identity =21.1.0 =pyhd8ed1ab_0
     - service_identity =21.1.0 =hd8ed1ab_0
-    - setuptools =68.2.2 =pyhd8ed1ab_0
+    - setuptools =69.0.3 =pyhd8ed1ab_0
     - sip =6.8.1 =py38hed0da46_0
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.5 =pyhd8ed1ab_1
@@ -180,7 +180,7 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.3.3 =py38hea3b116_1
-    - traitlets =5.14.0 =pyhd8ed1ab_0
+    - traitlets =5.14.1 =pyhd8ed1ab_0
     - typing-extensions =4.9.0 =hd8ed1ab_0
     - typing_extensions =4.9.0 =pyha770c72_0
     - tzdata =2023d =h0c530f3_0
