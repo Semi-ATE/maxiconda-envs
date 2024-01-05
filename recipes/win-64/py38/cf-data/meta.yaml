@@ -53,19 +53,19 @@ requirements:
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attrs =23.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.8 =h6bf0135_3
+    - aws-c-auth =0.7.10 =h9ca94be_1
     - aws-c-cal =0.6.9 =h7f0e5be_2
     - aws-c-common =0.9.10 =hcfcfb64_0
     - aws-c-compression =0.2.17 =h7f0e5be_7
-    - aws-c-event-stream =0.3.2 =h51e6447_8
-    - aws-c-http =0.7.15 =h80119a0_0
+    - aws-c-event-stream =0.4.0 =h51e6447_0
+    - aws-c-http =0.8.0 =h80119a0_0
     - aws-c-io =0.13.36 =ha737126_3
-    - aws-c-mqtt =0.10.0 =h9e0d744_1
-    - aws-c-s3 =0.4.6 =he94bf34_0
+    - aws-c-mqtt =0.10.0 =h2889a98_2
+    - aws-c-s3 =0.4.7 =hb620688_2
     - aws-c-sdkutils =0.1.13 =h7f0e5be_0
     - aws-checksums =0.1.17 =h7f0e5be_6
-    - aws-crt-cpp =0.25.0 =h1554317_4
-    - aws-sdk-cpp =1.11.210 =h0441c79_5
+    - aws-crt-cpp =0.26.0 =hda755dc_3
+    - aws-sdk-cpp =1.11.210 =h79fa1a6_8
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bcrypt =4.1.2 =py38h4900a04_0
     - blinker =1.7.0 =pyhd8ed1ab_0
@@ -171,13 +171,13 @@ requirements:
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230802.1 =cxx17_h63175ca_0
-    - libarrow =14.0.2 =h1048771_0_cpu
-    - libarrow-acero =14.0.2 =h63175ca_0_cpu
-    - libarrow-dataset =14.0.2 =h63175ca_0_cpu
-    - libarrow-flight =14.0.2 =h53b1db0_0_cpu
-    - libarrow-flight-sql =14.0.2 =h78eab7c_0_cpu
-    - libarrow-gandiva =14.0.2 =hb2eaab1_0_cpu
-    - libarrow-substrait =14.0.2 =hd4c9904_0_cpu
+    - libarrow =14.0.2 =he5f67d5_2_cpu
+    - libarrow-acero =14.0.2 =h63175ca_2_cpu
+    - libarrow-dataset =14.0.2 =h63175ca_2_cpu
+    - libarrow-flight =14.0.2 =h53b1db0_2_cpu
+    - libarrow-flight-sql =14.0.2 =h78eab7c_2_cpu
+    - libarrow-gandiva =14.0.2 =hb2eaab1_2_cpu
+    - libarrow-substrait =14.0.2 =hd4c9904_2_cpu
     - libblas =3.9.0 =20_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
@@ -200,7 +200,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =20_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
-    - libparquet =14.0.2 =h7ec3a38_0_cpu
+    - libparquet =14.0.2 =h7ec3a38_2_cpu
     - libpng =1.6.39 =h19919ed_0
     - libprotobuf =4.24.4 =hb8276f3_0
     - libre2-11 =2023.06.02 =h8c5ae5e_0
@@ -280,7 +280,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py38h684852a_0
-    - pyarrow =14.0.2 =py38hd94c00f_0_cpu
+    - pyarrow =14.0.2 =py38hd94c00f_2_cpu
     - pyasn1 =0.5.1 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
