@@ -30,13 +30,13 @@ requirements:
     - mdanalysis =2.7.0 =py39h32e6231_1
     - numpy =1.26.3 =py39hddb5d58_0
     - pandas =2.1.4 =py39h32e6231_0
-    - pymol-open-source =2.5.0 =py39h4bdc71c_6
+    - pymol-open-source =2.5.0 =py39heaf5913_6
     - pyqt =5.15.9 =py39hb77abff_5
     - rdkit =2023.09.4 =py39h4e49fef_0
     - scipy =1.11.4 =py39hddb5d58_0
     - spyder-kernels =2.5.0 =win_pyh7428d3b_0
 
-    # 181 secondary packages :
+    # 179 secondary packages :
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - blosc =1.21.5 =hdccc3a2_0
     - brotli =1.1.0 =hcfcfb64_1
@@ -78,8 +78,8 @@ requirements:
     - greenlet =3.0.3 =py39h99910a6_0
     - griddataformats =1.0.2 =pyhd8ed1ab_0
     - gsd =3.2.0 =py39hd88c2e4_0
-    - gst-plugins-base =1.22.8 =h001b923_0
-    - gstreamer =1.22.8 =hb4038d2_0
+    - gst-plugins-base =1.22.8 =h001b923_1
+    - gstreamer =1.22.8 =hb4038d2_1
     - h5py =3.10.0 =nompi_py39he8a0d39_101
     - hdf4 =4.2.15 =h5557f11_7
     - hdf5 =1.14.3 =nompi_h73e8ff5_100
@@ -107,18 +107,17 @@ requirements:
     - libbrotlidec =1.1.0 =hcfcfb64_1
     - libbrotlienc =1.1.0 =hcfcfb64_1
     - libcblas =3.9.0 =20_win64_mkl
-    - libclang =15.0.7 =default_h77d9078_3
-    - libclang13 =15.0.7 =default_h77d9078_3
+    - libclang =15.0.7 =default_hde6756a_4
+    - libclang13 =15.0.7 =default_h85b4d89_4
     - libcurl =8.5.0 =hd5e4a3a_0
     - libdeflate =1.19 =hcfcfb64_0
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
     - libglib =2.78.3 =h16e383f_0
-    - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =hcfcfb64_2
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =20_win64_mkl
-    - libnetcdf =4.9.2 =nompi_h8284064_112
+    - libnetcdf =4.9.2 =nompi_h07c049d_113
     - libogg =1.3.4 =h8ffe710_1
     - libpng =1.6.39 =h19919ed_0
     - libsodium =1.0.18 =h8d14728_1
@@ -128,7 +127,7 @@ requirements:
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp-base =1.3.2 =hcfcfb64_0
     - libxcb =1.15 =hcd874cb_0
-    - libxml2 =2.11.6 =hc3477c8_0
+    - libxml2 =2.12.3 =hc3477c8_0
     - libzip =1.10.1 =h1d365fa_3
     - libzlib =1.2.13 =hcfcfb64_5
     - lz4-c =1.9.4 =hcfcfb64_0
@@ -158,14 +157,13 @@ requirements:
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =10.2.0 =py39h368b509_0
     - pip =23.3.2 =pyhd8ed1ab_0
-    - pixman =0.42.2 =h63175ca_0
+    - pixman =0.43.0 =h63175ca_0
     - platformdirs =4.1.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pmw =2.0.1 =py39hcbf5309_1008
     - prompt-toolkit =3.0.42 =pyha770c72_0
     - psutil =5.9.7 =py39ha55989b_0
     - pthread-stubs =0.4 =hcd874cb_1001
-    - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycairo =1.25.1 =py39h82915f6_0
     - pyedr =0.8.0 =pyhd8ed1ab_0
@@ -192,7 +190,7 @@ requirements:
     - sqlalchemy =2.0.25 =py39ha55989b_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.1 =py39hd88c2e4_0
-    - tbb =2021.11.0 =h91493d7_0
+    - tbb =2021.7.0 =h91493d7_0
     - threadpoolctl =3.2.0 =pyha21a80b_0
     - tidynamics =1.1.2 =pyhd8ed1ab_0
     - tk =8.6.13 =h5226925_1

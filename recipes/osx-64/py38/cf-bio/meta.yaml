@@ -30,7 +30,7 @@ requirements:
     - mdanalysis =2.4.3 =py38h5e08df7_0
     - numpy =1.24.4 =py38h9a4a08f_0
     - pandas =2.0.3 =py38h78e6021_1
-    - pymol-open-source =2.5.0 =py38h1659ecd_6
+    - pymol-open-source =2.5.0 =py38h2374c4a_6
     - pyqt =5.15.9 =py38he1c912d_5
     - rdkit =2023.09.4 =py38hf0db05f_0
     - scipy =1.10.1 =py38h9cf86d3_3
@@ -82,8 +82,8 @@ requirements:
     - greenlet =3.0.3 =py38h1f5f77c_0
     - griddataformats =1.0.1 =pyhd8ed1ab_0
     - gsd =3.2.0 =py38h49861b3_0
-    - gst-plugins-base =1.22.8 =h3fb38fc_0
-    - gstreamer =1.22.8 =hf63bbb8_0
+    - gst-plugins-base =1.22.8 =h3fb38fc_1
+    - gstreamer =1.22.8 =hf63bbb8_1
     - h5py =3.10.0 =nompi_py38hf24d7a2_101
     - hdf4 =4.2.15 =h8138101_7
     - hdf5 =1.14.3 =nompi_h691f4bf_100
@@ -126,8 +126,8 @@ requirements:
     - libiconv =1.17 =hd75f5a5_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =20_osx64_openblas
-    - libllvm15 =15.0.7 =he4b1e75_3
-    - libnetcdf =4.9.2 =nompi_h6a32802_112
+    - libllvm15 =15.0.7 =hbedff68_4
+    - libnetcdf =4.9.2 =nompi_h7760872_113
     - libnghttp2 =1.58.0 =h64cf6d3_1
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.25 =openmp_hfef2a42_0
@@ -141,7 +141,7 @@ requirements:
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp-base =1.3.2 =h0dc2134_0
     - libxcb =1.15 =hb7f2c08_0
-    - libxml2 =2.11.6 =hc0ae0f7_0
+    - libxml2 =2.12.3 =hc0ae0f7_0
     - libzip =1.10.1 =hc158999_3
     - libzlib =1.2.13 =h8a1eda9_5
     - llvm-openmp =17.0.6 =hb6ac08f_0
@@ -172,7 +172,7 @@ requirements:
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pillow =10.2.0 =py38h0024655_0
     - pip =23.3.2 =pyhd8ed1ab_0
-    - pixman =0.42.2 =he965462_0
+    - pixman =0.43.0 =h73e2aa4_0
     - platformdirs =4.1.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pmw =2.0.1 =py38h50d1736_1008
