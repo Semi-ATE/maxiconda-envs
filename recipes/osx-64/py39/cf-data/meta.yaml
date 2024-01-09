@@ -26,7 +26,7 @@ requirements:
 
     # 20 primary packages :
     - beautifulsoup4 =4.12.2 =pyha770c72_0
-    - bokeh =3.3.2 =pyhd8ed1ab_0
+    - bokeh =3.3.3 =pyhd8ed1ab_0
     - lightgbm =4.2.0 =py39hf7b7f60_0
     - matplotlib =3.8.2 =py39h6e9494a_0
     - numpy =1.26.3 =py39h28c39a1_0
@@ -60,15 +60,15 @@ requirements:
     - aws-c-cal =0.6.9 =had988b7_2
     - aws-c-common =0.9.10 =h10d778d_0
     - aws-c-compression =0.2.17 =hb45f1eb_7
-    - aws-c-event-stream =0.4.0 =h451788f_0
-    - aws-c-http =0.8.0 =h1fa4523_0
+    - aws-c-event-stream =0.4.1 =h451788f_1
+    - aws-c-http =0.8.0 =h1fa4523_1
     - aws-c-io =0.13.36 =h3728bb0_3
     - aws-c-mqtt =0.10.0 =hdd2773f_2
     - aws-c-s3 =0.4.7 =hf9a8137_3
     - aws-c-sdkutils =0.1.13 =hb45f1eb_0
     - aws-checksums =0.1.17 =hb45f1eb_6
-    - aws-crt-cpp =0.26.0 =h1d6f5d7_4
-    - aws-sdk-cpp =1.11.210 =heeba50e_8
+    - aws-crt-cpp =0.26.0 =h4285ddc_5
+    - aws-sdk-cpp =1.11.210 =hb301dda_9
     - bcrypt =4.1.2 =py39h3f9c672_0
     - blinker =1.7.0 =pyhd8ed1ab_0
     - bottleneck =1.3.7 =py39hd01001f_1
@@ -172,7 +172,7 @@ requirements:
     - jmespath =1.0.1 =pyhd8ed1ab_0
     - joblib =1.3.2 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
-    - jupyter_core =5.7.0 =py39h6e9494a_0
+    - jupyter_core =5.7.1 =py39h6e9494a_0
     - jupyterlab_widgets =3.0.9 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py39h8ee36c8_1
     - kmodes =0.12.2 =pyhd8ed1ab_0
@@ -389,7 +389,7 @@ requirements:
     - visions =0.7.1 =pyhd8ed1ab_0
     - w3lib =2.1.2 =pyhd8ed1ab_0
     - wasabi =1.1.2 =py39h6e9494a_0
-    - wcwidth =0.2.12 =pyhd8ed1ab_0
+    - wcwidth =0.2.13 =pyhd8ed1ab_0
     - weasel =0.3.4 =pyhd8ed1ab_0
     - websocket-client =1.7.0 =pyhd8ed1ab_0
     - werkzeug =3.0.1 =pyhd8ed1ab_0
