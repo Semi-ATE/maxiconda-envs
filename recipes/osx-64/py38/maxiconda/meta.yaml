@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py38hae2e43d_0
     - cython =3.0.7 =py38h1f5f77c_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.92.6 =pyha770c72_0
+    - hypothesis =6.92.7 =pyha770c72_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - jinja2 =3.1.2 =pyhd8ed1ab_1
     - matplotlib =3.7.3 =py38h50d1736_0
@@ -87,7 +87,7 @@ requirements:
     - brotli-python =1.1.0 =py38h940360d_1
     - bwidget =1.9.14 =h694c41f_1
     - bzip2 =1.0.8 =h10d778d_5
-    - c-ares =1.24.0 =h10d778d_0
+    - c-ares =1.25.0 =h10d778d_0
     - ca-certificates =2023.11.17 =h8857fd0_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
@@ -118,7 +118,7 @@ requirements:
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
     - et_xmlfile =1.1.0 =pyhd8ed1ab_0
-    - exceptiongroup =1.2.0 =pyhd8ed1ab_0
+    - exceptiongroup =1.2.0 =pyhd8ed1ab_2
     - executing =2.0.1 =pyhd8ed1ab_0
     - expat =2.5.0 =hf0c8a7f_1
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -165,7 +165,7 @@ requirements:
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.7.1 =py38h50d1736_0
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
-    - jupyter_server =2.12.2 =pyhd8ed1ab_0
+    - jupyter_server =2.12.3 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.1 =pyhd8ed1ab_0
     - jupyterlab =4.0.10 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_0
@@ -338,7 +338,7 @@ requirements:
     - r-gistr =0.9.0 =r43hc72bb7e_2
     - r-glmnet =4.1_8 =r43ha1020dc_0
     - r-globals =0.16.2 =r43hc72bb7e_1
-    - r-glue =1.6.2 =r43h6dc245f_2
+    - r-glue =1.7.0 =r43hb2c329c_0
     - r-googledrive =2.1.1 =r43hc72bb7e_1
     - r-googlesheets4 =1.1.1 =r43h785f33e_1
     - r-gower =1.0.1 =r43h6dc245f_1
@@ -420,7 +420,7 @@ requirements:
     - r-repr =1.1.6 =r43h785f33e_1
     - r-reprex =2.0.2 =r43hc72bb7e_2
     - r-reshape2 =1.4.4 =r43hac7d2d5_3
-    - r-rlang =1.1.2 =r43h64b2c41_0
+    - r-rlang =1.1.3 =r43h29979af_0
     - r-rmarkdown =2.25 =r43hc72bb7e_0
     - r-rpart =4.1.23 =r43hb2c329c_0
     - r-rstudioapi =0.15.0 =r43hc72bb7e_0
@@ -445,7 +445,7 @@ requirements:
     - r-tidyverse =2.0.0 =r43h785f33e_1
     - r-timechange =0.2.0 =r43hac7d2d5_1
     - r-timedate =4032.109 =r43hc72bb7e_0
-    - r-tinytex =0.49 =r43hc72bb7e_0
+    - r-tinytex =0.49 =r43hc72bb7e_1
     - r-triebeard =0.4.1 =r43hac7d2d5_1
     - r-ttr =0.24.4 =r43hb2c329c_0
     - r-tzdb =0.4.0 =r43hac7d2d5_1

@@ -25,7 +25,7 @@ requirements:
     - python =3.9.18 =h4ac3b42_0_cpython
 
     # 8 primary packages :
-    - biopython =1.82 =py39h898b7ef_0
+    - biopython =1.83 =py39h898b7ef_0
     - matplotlib =3.8.2 =py39ha65689a_0
     - numpy =1.26.3 =py39h91c28bb_0
     - pandas =2.1.4 =py39h26ccf5d_0
@@ -55,7 +55,7 @@ requirements:
     - dbus =1.13.6 =h12b9eeb_3
     - debugpy =1.8.0 =py39h387a81e_1
     - decorator =5.1.1 =pyhd8ed1ab_0
-    - exceptiongroup =1.2.0 =pyhd8ed1ab_0
+    - exceptiongroup =1.2.0 =pyhd8ed1ab_2
     - executing =2.0.1 =pyhd8ed1ab_0
     - expat =2.5.0 =hd600fc2_1
     - fftw =3.3.10 =nompi_h2dcef8e_108
@@ -186,7 +186,7 @@ requirements:
     - pyzmq =25.1.2 =py39hbab03a2_0
     - qt-main =5.15.8 =h7a5f702_7
     - readline =8.2 =h8fc344f_1
-    - reportlab =4.0.8 =py39h898b7ef_0
+    - reportlab =4.0.9 =py39h898b7ef_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
     - setuptools =69.0.3 =pyhd8ed1ab_0
     - sip =6.8.1 =py39he8647fe_0
