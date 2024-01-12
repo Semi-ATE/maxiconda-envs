@@ -31,9 +31,9 @@ requirements:
     - bitarray =2.9.2 =py38h91455d4_0
     - cython =3.0.7 =py38hd3f51b4_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.92.7 =pyha770c72_0
+    - hypothesis =6.92.8 =pyha770c72_0
     - ipython =8.12.2 =pyh08f2357_0
-    - jinja2 =3.1.2 =pyhd8ed1ab_1
+    - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38haa244fe_0
     - numba =0.58.1 =py38h4a59444_0
     - numpy =1.24.4 =py38h1d91fd2_0
@@ -114,7 +114,7 @@ requirements:
     - fontconfig =2.14.2 =hbde0cde_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.47.0 =py38h91455d4_0
+    - fonttools =4.47.2 =py38h91455d4_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.12.1 =hdaf720e_2
     - fribidi =1.0.10 =h8d14728_0
@@ -147,7 +147,7 @@ requirements:
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.7.1 =py38haa244fe_0
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
-    - jupyter_server =2.12.3 =pyhd8ed1ab_0
+    - jupyter_server =2.12.4 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.1 =pyhd8ed1ab_0
     - jupyterlab =4.0.10 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_0
@@ -223,7 +223,7 @@ requirements:
     - multidict =6.0.4 =py38h91455d4_1
     - munkres =1.1.4 =pyh9f0ad1d_0
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.14.0 =pyhd8ed1ab_0
+    - nbconvert-core =7.14.1 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - nest-asyncio =1.5.8 =pyhd8ed1ab_0
     - notebook =7.0.6 =pyhd8ed1ab_0
@@ -302,7 +302,7 @@ requirements:
     - r-dbi =1.1.3 =r41hc72bb7e_1
     - r-dbplyr =2.3.2 =r41hc72bb7e_0
     - r-diagram =1.6.5 =r41ha770c72_1
-    - r-digest =0.6.33 =r41ha856d6a_0
+    - r-digest =0.6.34 =r41ha856d6a_0
     - r-dplyr =1.1.4 =r41ha856d6a_0
     - r-dtplyr =1.3.1 =r41hc72bb7e_0
     - r-e1071 =1.7_14 =r41ha856d6a_0
@@ -397,7 +397,7 @@ requirements:
     - r-rbokeh =0.5.2 =r41hc72bb7e_2
     - r-rcolorbrewer =1.1_3 =r41h785f33e_1
     - r-rcpp =1.0.12 =r41ha856d6a_0
-    - r-readr =2.1.4 =r41ha856d6a_1
+    - r-readr =2.1.5 =r41ha856d6a_0
     - r-readxl =1.4.3 =r41h1c2d66b_0
     - r-recipes =1.0.6 =r41hc72bb7e_0
     - r-recommended =4.1 =r41hd8ed1ab_1005

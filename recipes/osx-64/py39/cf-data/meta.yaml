@@ -56,19 +56,19 @@ requirements:
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =23.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.11 =h5ed86db_0
-    - aws-c-cal =0.6.9 =had988b7_2
-    - aws-c-common =0.9.10 =h10d778d_0
-    - aws-c-compression =0.2.17 =hb45f1eb_7
-    - aws-c-event-stream =0.4.1 =h451788f_1
-    - aws-c-http =0.8.0 =h1fa4523_1
-    - aws-c-io =0.13.36 =h3728bb0_3
-    - aws-c-mqtt =0.10.0 =hdd2773f_2
-    - aws-c-s3 =0.4.7 =hf9a8137_3
-    - aws-c-sdkutils =0.1.13 =hb45f1eb_0
-    - aws-checksums =0.1.17 =hb45f1eb_6
-    - aws-crt-cpp =0.26.0 =h4285ddc_5
-    - aws-sdk-cpp =1.11.210 =hb301dda_9
+    - aws-c-auth =0.7.11 =h94c8779_1
+    - aws-c-cal =0.6.9 =he75d6b7_3
+    - aws-c-common =0.9.12 =h10d778d_0
+    - aws-c-compression =0.2.17 =h45babc2_8
+    - aws-c-event-stream =0.4.1 =h3600a39_2
+    - aws-c-http =0.8.0 =h19e0e28_2
+    - aws-c-io =0.14.0 =h49ca7b5_1
+    - aws-c-mqtt =0.10.1 =h947eb33_0
+    - aws-c-s3 =0.4.9 =hee0ca28_0
+    - aws-c-sdkutils =0.1.13 =h45babc2_1
+    - aws-checksums =0.1.17 =h45babc2_7
+    - aws-crt-cpp =0.26.0 =he4637c3_8
+    - aws-sdk-cpp =1.11.210 =hf51409f_10
     - bcrypt =4.1.2 =py39h3f9c672_0
     - blinker =1.7.0 =pyhd8ed1ab_0
     - bottleneck =1.3.7 =py39hd01001f_1
@@ -121,7 +121,7 @@ requirements:
     - fontconfig =2.14.2 =h5bb23bf_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.47.0 =py39ha09f3b3_0
+    - fonttools =4.47.2 =py39ha09f3b3_0
     - freetype =2.12.1 =h60636b9_2
     - fribidi =1.0.10 =hbcb3906_0
     - fsspec =2023.12.2 =pyhca7485f_0
@@ -168,7 +168,7 @@ requirements:
     - itemloaders =1.1.0 =pyhd8ed1ab_0
     - itsdangerous =2.1.2 =pyhd8ed1ab_0
     - jedi =0.19.1 =pyhd8ed1ab_0
-    - jinja2 =3.1.2 =pyhd8ed1ab_1
+    - jinja2 =3.1.3 =pyhd8ed1ab_0
     - jmespath =1.0.1 =pyhd8ed1ab_0
     - joblib =1.3.2 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0

@@ -31,9 +31,9 @@ requirements:
     - bitarray =2.9.2 =py38h9579f32_0
     - cython =3.0.7 =py38hb83fbf6_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.92.7 =pyha770c72_0
+    - hypothesis =6.92.8 =pyha770c72_0
     - ipython =8.12.2 =pyh41d4057_0
-    - jinja2 =3.1.2 =pyhd8ed1ab_1
+    - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38h2063c64_0
     - numba =0.58.1 =py38hfc97d9d_0
     - numpy =1.24.4 =py38he3f4005_0
@@ -123,7 +123,7 @@ requirements:
     - fontconfig =2.14.2 =ha9a116f_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.47.0 =py38h9579f32_0
+    - fonttools =4.47.2 =py38h9579f32_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.12.1 =hf0a5ef3_2
     - fribidi =1.0.10 =hb9de7d4_0
@@ -160,7 +160,7 @@ requirements:
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.7.1 =py38he3eb160_0
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
-    - jupyter_server =2.12.3 =pyhd8ed1ab_0
+    - jupyter_server =2.12.4 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.1 =pyhd8ed1ab_0
     - jupyterlab =4.0.10 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_0
@@ -236,14 +236,14 @@ requirements:
     - mistune =3.0.2 =pyhd8ed1ab_0
     - mpc =1.3.1 =hf4c8f4c_0
     - mpfr =4.2.1 =ha2d0fc4_0
-    - mpg123 =1.32.3 =h2f0025b_0
+    - mpg123 =1.32.4 =h2f0025b_0
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - multidict =6.0.4 =py38h9579f32_1
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mysql-common =8.0.33 =hb6794ad_6
     - mysql-libs =8.0.33 =hf629957_6
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.14.0 =pyhd8ed1ab_0
+    - nbconvert-core =7.14.1 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h0425590_2
     - nest-asyncio =1.5.8 =pyhd8ed1ab_0
@@ -326,7 +326,7 @@ requirements:
     - r-dbi =1.2.0 =r43hc72bb7e_0
     - r-dbplyr =2.4.0 =r43hc72bb7e_0
     - r-diagram =1.6.5 =r43ha770c72_2
-    - r-digest =0.6.33 =r43h93f32a7_0
+    - r-digest =0.6.34 =r43h93f32a7_0
     - r-dplyr =1.1.4 =r43h93f32a7_0
     - r-dtplyr =1.3.1 =r43hc72bb7e_1
     - r-e1071 =1.7_14 =r43h93f32a7_0
@@ -360,7 +360,7 @@ requirements:
     - r-highr =0.10 =r43hc72bb7e_1
     - r-hms =1.1.3 =r43hc72bb7e_1
     - r-htmltools =0.5.7 =r43h93f32a7_0
-    - r-htmlwidgets =1.6.4 =r43hc72bb7e_0
+    - r-htmlwidgets =1.6.4 =r43hc72bb7e_1
     - r-httpcode =0.3.0 =r43h37bb5a9_3
     - r-httpuv =1.6.13 =r43h93f32a7_0
     - r-httr =1.4.7 =r43hc72bb7e_0
@@ -386,7 +386,7 @@ requirements:
     - r-magrittr =2.0.3 =r43h25e906a_2
     - r-maps =3.4.2 =r43h25e906a_0
     - r-mass =7.3_60 =r43h25e906a_1
-    - r-matrix =1.6_4 =r43hd98ab41_0
+    - r-matrix =1.6_5 =r43hd98ab41_0
     - r-memoise =2.0.1 =r43hc72bb7e_2
     - r-mgcv =1.9_1 =r43hd98ab41_0
     - r-mime =0.12 =r43h25e906a_2
@@ -422,14 +422,14 @@ requirements:
     - r-rcolorbrewer =1.1_3 =r43h785f33e_2
     - r-rcpp =1.0.12 =r43h93f32a7_0
     - r-rcppeigen =0.3.3.9.4 =r43h022fc8a_0
-    - r-readr =2.1.4 =r43h93f32a7_1
+    - r-readr =2.1.5 =r43h93f32a7_0
     - r-readxl =1.4.3 =r43h53325e7_0
     - r-recipes =1.0.9 =r43hc72bb7e_0
     - r-recommended =4.3 =r43hd8ed1ab_1006
     - r-rematch =2.0.0 =r43hc72bb7e_0
     - r-rematch2 =2.1.2 =r43hc72bb7e_3
     - r-repr =1.1.6 =r43h785f33e_1
-    - r-reprex =2.0.2 =r43hc72bb7e_2
+    - r-reprex =2.1.0 =r43hc72bb7e_0
     - r-reshape2 =1.4.4 =r43h93f32a7_3
     - r-rlang =1.1.3 =r43h93f32a7_0
     - r-rmarkdown =2.25 =r43hc72bb7e_0
