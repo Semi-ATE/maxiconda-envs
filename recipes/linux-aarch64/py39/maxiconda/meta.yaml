@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py39h898b7ef_0
     - cython =3.0.7 =py39h387a81e_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.93.0 =pyha770c72_0
+    - hypothesis =6.93.1 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.8.2 =py39ha65689a_0
@@ -223,7 +223,7 @@ requirements:
     - libxcb =1.15 =h2a766a3_0
     - libxcrypt =4.4.36 =h31becfc_1
     - libxkbcommon =1.6.0 =h217f472_1
-    - libxml2 =2.12.3 =h3091e33_0
+    - libxml2 =2.12.4 =h3091e33_1
     - libzlib =1.2.13 =h31becfc_5
     - llvmlite =0.41.1 =py39h483cef1_0
     - lz4-c =1.9.4 =hd600fc2_0
@@ -244,7 +244,7 @@ requirements:
     - nbconvert-core =7.14.1 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h0425590_2
-    - nest-asyncio =1.5.8 =pyhd8ed1ab_0
+    - nest-asyncio =1.5.9 =pyhd8ed1ab_0
     - notebook =7.0.6 =pyhd8ed1ab_0
     - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - nspr =4.35 =h4de3ea5_0
@@ -394,7 +394,7 @@ requirements:
     - r-numderiv =2016.8_1.1 =r43hc72bb7e_5
     - r-openssl =2.1.1 =r43h2a8de3c_0
     - r-parallelly =1.36.0 =r43hc72bb7e_1
-    - r-pbdzmq =0.3_10 =r43hfc16916_1
+    - r-pbdzmq =0.3_11 =r43hfc16916_0
     - r-pillar =1.9.0 =r43hc72bb7e_1
     - r-pkgconfig =2.0.3 =r43hc72bb7e_3
     - r-plyr =1.8.9 =r43h93f32a7_0
