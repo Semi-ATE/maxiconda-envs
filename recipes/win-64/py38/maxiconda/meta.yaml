@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py38h91455d4_0
     - cython =3.0.7 =py38hd3f51b4_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.93.1 =pyha770c72_0
+    - hypothesis =6.94.0 =pyha770c72_0
     - ipython =8.12.2 =pyh08f2357_0
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38haa244fe_0
@@ -135,19 +135,19 @@ requirements:
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
     - intel-openmp =2023.2.0 =h57928b3_50497
-    - ipykernel =6.28.0 =pyha63f2e9_0
+    - ipykernel =6.29.0 =pyha63f2e9_0
     - isoduration =20.11.0 =pyhd8ed1ab_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - json5 =0.9.14 =pyhd8ed1ab_0
     - jsonpointer =2.4 =py38haa244fe_3
-    - jsonschema =4.20.0 =pyhd8ed1ab_0
+    - jsonschema =4.21.0 =pyhd8ed1ab_0
     - jsonschema-specifications =2023.12.1 =pyhd8ed1ab_0
-    - jsonschema-with-format-nongpl =4.20.0 =pyhd8ed1ab_0
+    - jsonschema-with-format-nongpl =4.21.0 =pyhd8ed1ab_0
     - jupyter-lsp =2.2.1 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.7.1 =py38haa244fe_0
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
-    - jupyter_server =2.12.4 =pyhd8ed1ab_0
+    - jupyter_server =2.12.5 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.1 =pyhd8ed1ab_0
     - jupyterlab =4.0.10 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_0
@@ -223,7 +223,7 @@ requirements:
     - multidict =6.0.4 =py38h91455d4_1
     - munkres =1.1.4 =pyh9f0ad1d_0
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.14.1 =pyhd8ed1ab_0
+    - nbconvert-core =7.14.2 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - nest-asyncio =1.5.9 =pyhd8ed1ab_0
     - notebook =7.0.6 =pyhd8ed1ab_0
