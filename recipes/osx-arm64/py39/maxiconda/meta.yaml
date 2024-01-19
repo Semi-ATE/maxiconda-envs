@@ -27,10 +27,10 @@ requirements:
     # 37 primary packages :
     - aiohttp =3.9.1 =py39h17cfd9d_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
-    - beautifulsoup4 =4.12.2 =pyha770c72_0
+    - beautifulsoup4 =4.12.3 =pyha770c72_0
     - cython =3.0.7 =py39hf3050f2_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.96.0 =pyha770c72_0
+    - hypothesis =6.96.1 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.8.2 =py39hdf13c20_0
@@ -395,7 +395,7 @@ requirements:
     - r-promises =1.2.1 =r43he62749d_0
     - r-proxy =0.4_27 =r43h21dc0da_2
     - r-pryr =0.1.6 =r43he62749d_1
-    - r-ps =1.7.5 =r43h21dc0da_1
+    - r-ps =1.7.6 =r43hd2d937b_0
     - r-purrr =1.0.2 =r43h21dc0da_0
     - r-quantmod =0.4.25 =r43hc72bb7e_0
     - r-r6 =2.5.1 =r43hc72bb7e_2
@@ -438,7 +438,7 @@ requirements:
     - r-tidyr =1.3.0 =r43he62749d_1
     - r-tidyselect =1.2.0 =r43h011812f_1
     - r-tidyverse =2.0.0 =r43h785f33e_1
-    - r-timechange =0.2.0 =r43he62749d_1
+    - r-timechange =0.3.0 =r43h65f505e_0
     - r-timedate =4032.109 =r43hc72bb7e_0
     - r-tinytex =0.49 =r43hc72bb7e_1
     - r-triebeard =0.4.1 =r43he62749d_1
