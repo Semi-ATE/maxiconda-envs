@@ -44,7 +44,7 @@ requirements:
     - sqlalchemy =1.4.42 =py37h8052db5_0
     - sqlite =3.44.2 =h7461747_0
     - statsmodels =0.13.2 =py37h4de8ad1_0
-    - xgboost =1.6.2 =cpu_py37h1d3cd25_1
+    - xgboost =2.0.3 =cpu_pyhb06c54e_1
 
     # 271 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
@@ -173,7 +173,7 @@ requirements:
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp-base =1.3.2 =h0dc2134_0
     - libxcb =1.13 =h0d85af4_1004
-    - libxgboost =1.6.2 =cpu_h0c1cf5f_1
+    - libxgboost =2.0.3 =cpu_h397da94_1
     - libxml2 =2.10.3 =h201ad9d_4
     - libxslt =1.1.37 =h5d22bc9_0
     - libzlib =1.2.13 =h8a1eda9_5
@@ -229,7 +229,7 @@ requirements:
     - psutil =5.9.3 =py37h8052db5_0
     - pthread-stubs =0.4 =hc929b4f_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - py-xgboost =1.6.2 =cpu_py37h5be20f2_1
+    - py-xgboost =2.0.3 =cpu_pyh0a621ce_1
     - pyasn1 =0.5.1 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
