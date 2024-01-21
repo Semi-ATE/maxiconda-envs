@@ -28,7 +28,7 @@ requirements:
     - cython =3.0.7 =py39hf3050f2_0
     - matplotlib =3.8.2 =py39hdf13c20_0
     - numpy =1.26.3 =py39h7aa2656_0
-    - pandas =2.1.4 =py39hf8cecc8_0
+    - pandas =2.2.0 =py39h47e51b9_0
     - pyqt =5.15.9 =py39hcf430f4_5
     - pyqtwebengine =5.15.9 =py39h0a87ed2_5
     - scipy =1.11.4 =py39h36c428d_0
@@ -123,8 +123,8 @@ requirements:
     - libdeflate =1.19 =hb547adb_0
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libffi =3.4.2 =h3422bc3_5
-    - libgfortran =5.0.0 =13_2_0_hd922786_1
-    - libgfortran5 =13.2.0 =hf226fd6_1
+    - libgfortran =5.0.0 =13_2_0_hd922786_2
+    - libgfortran5 =13.2.0 =hf226fd6_2
     - libglib =2.78.3 =hb438215_0
     - libiconv =1.17 =h0d3ecfb_2
     - libjpeg-turbo =3.0.0 =hb547adb_1
@@ -147,7 +147,7 @@ requirements:
     - libzlib =1.2.13 =h53f4e23_5
     - llvm-openmp =17.0.6 =hcd81f8e_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
-    - markupsafe =2.1.3 =py39h0f82c59_1
+    - markupsafe =2.1.4 =py39h17cfd9d_0
     - matplotlib-base =3.8.2 =py39h1a09f3e_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_0
@@ -188,7 +188,7 @@ requirements:
     - pluggy =1.3.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - prompt-toolkit =3.0.42 =pyha770c72_0
-    - psutil =5.9.7 =py39h17cfd9d_0
+    - psutil =5.9.8 =py39h17cfd9d_0
     - pthread-stubs =0.4 =h27ca646_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0

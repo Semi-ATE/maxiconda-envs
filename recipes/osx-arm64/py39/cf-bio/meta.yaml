@@ -29,7 +29,7 @@ requirements:
     - matplotlib =3.8.2 =py39hdf13c20_0
     - mdanalysis =2.7.0 =py39h425d09f_1
     - numpy =1.26.3 =py39h7aa2656_0
-    - pandas =2.1.4 =py39hf8cecc8_0
+    - pandas =2.2.0 =py39h47e51b9_0
     - pymol-open-source =2.5.0 =py39h3244720_6
     - pyqt =5.15.9 =py39hcf430f4_5
     - rdkit =2023.09.4 =py39hed78e32_0
@@ -117,8 +117,8 @@ requirements:
     - libev =4.33 =h93a5062_2
     - libexpat =2.5.0 =hb7217d7_1
     - libffi =3.4.2 =h3422bc3_5
-    - libgfortran =5.0.0 =13_2_0_hd922786_1
-    - libgfortran5 =13.2.0 =hf226fd6_1
+    - libgfortran =5.0.0 =13_2_0_hd922786_2
+    - libgfortran5 =13.2.0 =hf226fd6_2
     - libglib =2.78.3 =hb438215_0
     - libiconv =1.17 =h0d3ecfb_2
     - libjpeg-turbo =3.0.0 =hb547adb_1
@@ -173,7 +173,7 @@ requirements:
     - ply =3.11 =py_1
     - pmw =2.0.1 =py39h2804cbe_1008
     - prompt-toolkit =3.0.42 =pyha770c72_0
-    - psutil =5.9.7 =py39h17cfd9d_0
+    - psutil =5.9.8 =py39h17cfd9d_0
     - pthread-stubs =0.4 =h27ca646_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0

@@ -40,7 +40,7 @@ requirements:
     - openpyxl =3.1.2 =py38hcafd530_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.0.3 =py38h78e6021_1
-    - psutil =5.9.7 =py38hae2e43d_0
+    - psutil =5.9.8 =py38hae2e43d_0
     - pydantic =2.5.3 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py38he1c912d_5
     - pyserial =3.5 =pyhd8ed1ab_0
@@ -134,7 +134,7 @@ requirements:
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.4.1 =py38hae2e43d_0
     - gettext =0.21.1 =h8a4c099_0
-    - gfortran_impl_osx-64 =12.3.0 =h54fd467_1
+    - gfortran_impl_osx-64 =12.3.0 =hc328e78_2
     - gfortran_osx-64 =12.3.0 =h18f7dce_1
     - glib =2.78.3 =hf4d7fad_0
     - glib-tools =2.78.3 =hf4d7fad_0
@@ -153,7 +153,7 @@ requirements:
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
     - ipykernel =6.29.0 =pyh3cd1d5f_0
-    - isl =0.25 =hb486fe8_0
+    - isl =0.26 =imath32_h2e86a7b_101
     - isoduration =20.11.0 =pyhd8ed1ab_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - json5 =0.9.14 =pyhd8ed1ab_0
@@ -190,9 +190,9 @@ requirements:
     - libev =4.33 =h10d778d_2
     - libexpat =2.5.0 =hf0c8a7f_1
     - libffi =3.4.2 =h0d85af4_5
-    - libgfortran =5.0.0 =13_2_0_h97931a8_1
-    - libgfortran-devel_osx-64 =12.3.0 =h0b6f5ec_1
-    - libgfortran5 =13.2.0 =h2873a65_1
+    - libgfortran =5.0.0 =13_2_0_h97931a8_2
+    - libgfortran-devel_osx-64 =12.3.0 =h0b6f5ec_2
+    - libgfortran5 =13.2.0 =h2873a65_2
     - libglib =2.78.3 =h198397b_0
     - libiconv =1.17 =hd75f5a5_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
@@ -219,7 +219,7 @@ requirements:
     - llvm-tools =17.0.6 =hbedff68_1
     - llvmlite =0.41.1 =py38h6008ce5_0
     - make =4.3 =h22f3db7_1
-    - markupsafe =2.1.3 =py38hcafd530_1
+    - markupsafe =2.1.4 =py38hae2e43d_0
     - matplotlib-base =3.7.3 =py38hcd1b199_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mistune =3.0.2 =pyhd8ed1ab_0
@@ -241,7 +241,7 @@ requirements:
     - nss =3.96 =ha05da47_0
     - openjpeg =2.5.0 =ha4da562_3
     - openssl =3.2.0 =hd75f5a5_1
-    - overrides =7.4.0 =pyhd8ed1ab_0
+    - overrides =7.6.0 =pyhd8ed1ab_0
     - packaging =23.2 =pyhd8ed1ab_0
     - pandoc =3.1.3 =h9d075a6_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
