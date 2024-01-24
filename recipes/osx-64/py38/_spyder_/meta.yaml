@@ -112,11 +112,11 @@ requirements:
     - krb5 =1.21.2 =hb884880_0
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
-    - libblas =3.9.0 =20_osx64_openblas
+    - libblas =3.9.0 =21_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
     - libbrotlienc =1.1.0 =h0dc2134_1
-    - libcblas =3.9.0 =20_osx64_openblas
+    - libcblas =3.9.0 =21_osx64_openblas
     - libclang =15.0.7 =default_h6b1ee41_4
     - libclang13 =15.0.7 =default_h89cd682_4
     - libcxx =16.0.6 =hd57cbcb_0
@@ -128,10 +128,10 @@ requirements:
     - libglib =2.78.3 =h198397b_0
     - libiconv =1.17 =hd75f5a5_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
-    - liblapack =3.9.0 =20_osx64_openblas
+    - liblapack =3.9.0 =21_osx64_openblas
     - libllvm15 =15.0.7 =hbedff68_4
     - libogg =1.3.4 =h35c211d_1
-    - libopenblas =0.3.25 =openmp_hfef2a42_0
+    - libopenblas =0.3.26 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.39 =ha978bb4_0
     - libpq =16.1 =ha925e61_7
