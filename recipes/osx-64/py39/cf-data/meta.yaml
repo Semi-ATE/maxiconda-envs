@@ -37,7 +37,7 @@ requirements:
     - pyqt =5.15.9 =py39h3dce684_5
     - pytorch =2.1.0 =cpu_mkl_py39h6491c0d_103
     - scikit-learn =1.4.0 =py39hf36d3f6_0
-    - scipy =1.12.0 =py39h0ed1e0f_1
+    - scipy =1.12.0 =py39h0ed1e0f_2
     - scrapy =2.11.0 =py39h6e9494a_0
     - seaborn =0.13.1 =hd8ed1ab_0
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
@@ -155,7 +155,7 @@ requirements:
     - icu =73.2 =hf5e326d_0
     - idna =3.6 =pyhd8ed1ab_0
     - imagehash =4.3.1 =pyhd8ed1ab_0
-    - imbalanced-learn =0.11.0 =pyhd8ed1ab_0
+    - imbalanced-learn =0.12.0 =pyhd8ed1ab_0
     - importlib-metadata =7.0.1 =pyha770c72_0
     - importlib-resources =6.1.1 =pyhd8ed1ab_0
     - importlib_metadata =7.0.1 =hd8ed1ab_0
@@ -287,7 +287,7 @@ requirements:
     - pathy =0.10.2 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0
     - pcre2 =10.42 =h0ad2156_0
-    - pexpect =4.8.0 =pyh1a96a4e_2
+    - pexpect =4.9.0 =pyhd8ed1ab_0
     - phik =0.12.3 =py39h29e5701_1
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =10.2.0 =py39hdd30358_0

@@ -31,7 +31,7 @@ requirements:
     - pandas =2.2.0 =py39h26ccf5d_0
     - pyqt =5.15.9 =py39hc7e6f3c_5
     - pyqtwebengine =5.15.9 =py39h886b22c_5
-    - scipy =1.12.0 =py39h91c28bb_1
+    - scipy =1.12.0 =py39h91c28bb_2
     - spyder =5.5.0 =py39h4420490_3
     - sympy =1.12 =pypyh9d50eac_103
 
@@ -67,7 +67,7 @@ requirements:
     - comm =0.2.1 =pyhd8ed1ab_0
     - contourpy =1.2.0 =py39hd16970a_0
     - cookiecutter =2.5.0 =pyhca7485f_0
-    - cryptography =41.0.7 =py39h58638f2_1
+    - cryptography =42.0.0 =py39h58638f2_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - dbus =1.13.6 =h12b9eeb_3
     - debugpy =1.8.0 =py39h387a81e_1
@@ -214,14 +214,14 @@ requirements:
     - parso =0.8.3 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
     - pcre2 =10.42 =hd0f9c67_0
-    - pexpect =4.8.0 =pyh1a96a4e_2
+    - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =10.2.0 =py39h8ce38d7_0
     - pip =23.3.2 =pyhd8ed1ab_0
     - pixman =0.43.0 =h2f0025b_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - platformdirs =4.1.0 =pyhd8ed1ab_0
-    - pluggy =1.3.0 =pyhd8ed1ab_0
+    - pluggy =1.4.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - prompt-toolkit =3.0.42 =pyha770c72_0
     - psutil =5.9.8 =py39h898b7ef_0
