@@ -132,7 +132,7 @@ requirements:
     - gsl =2.7 =h294027d_0
     - gst-plugins-base =1.22.0 =h8a62080_2
     - gstreamer =1.22.0 =h1f26242_2
-    - gstreamer-orc =0.4.34 =h31becfc_0
+    - gstreamer-orc =0.4.35 =h31becfc_0
     - gxx_impl_linux-aarch64 =13.2.0 =h5669b93_3
     - harfbuzz =6.0.0 =hbcb8a4f_0
     - icu =70.1 =ha18d298_0
@@ -160,12 +160,12 @@ requirements:
     - lcms2 =2.14 =h5246980_0
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
-    - libblas =3.9.0 =21_linuxaarch64_openblas
+    - libblas =3.9.0 =20_linuxaarch64_openblas
     - libbrotlicommon =1.1.0 =h31becfc_1
     - libbrotlidec =1.1.0 =h31becfc_1
     - libbrotlienc =1.1.0 =h31becfc_1
     - libcap =2.67 =h8246067_0
-    - libcblas =3.9.0 =21_linuxaarch64_openblas
+    - libcblas =3.9.0 =20_linuxaarch64_openblas
     - libclang =15.0.7 =default_h65c9d4d_4
     - libclang13 =15.0.7 =default_hf5d3afd_4
     - libcups =2.3.3 =h4303303_3
@@ -187,13 +187,13 @@ requirements:
     - libgomp =13.2.0 =hf8544c7_3
     - libgpg-error =1.47 =h5ce24db_0
     - libiconv =1.17 =h31becfc_2
-    - liblapack =3.9.0 =21_linuxaarch64_openblas
+    - liblapack =3.9.0 =20_linuxaarch64_openblas
     - libllvm11 =11.1.0 =hb2805f8_5
     - libllvm15 =15.0.7 =h87099f9_1
     - libnghttp2 =1.58.0 =hb0e430d_0
     - libnsl =2.0.1 =h31becfc_0
     - libogg =1.3.4 =h3557bc0_1
-    - libopenblas =0.3.26 =pthreads_h5a5ec62_0
+    - libopenblas =0.3.25 =pthreads_h5a5ec62_0
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
     - libpq =15.3 =hf616e62_1

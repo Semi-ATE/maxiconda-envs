@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py39ha55989b_0
     - cython =3.0.7 =py39h99910a6_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.96.4 =pyha770c72_0
+    - hypothesis =6.97.0 =pyha770c72_0
     - ipython =8.18.1 =pyh7428d3b_3
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.8.2 =py39hcbf5309_0
@@ -122,8 +122,8 @@ requirements:
     - glib-tools =2.78.3 =h12be248_0
     - graphite2 =1.3.13 =1000
     - greenlet =3.0.3 =py39h99910a6_0
-    - gst-plugins-base =1.22.8 =h001b923_1
-    - gstreamer =1.22.8 =hb4038d2_1
+    - gst-plugins-base =1.22.9 =h001b923_0
+    - gstreamer =1.22.9 =hb4038d2_0
     - harfbuzz =8.3.0 =h7ab893a_0
     - icu =73.2 =h63175ca_0
     - idna =3.6 =pyhd8ed1ab_0
@@ -132,7 +132,7 @@ requirements:
     - importlib_metadata =7.0.1 =hd8ed1ab_0
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
-    - intel-openmp =2024.0.0 =h57928b3_49840
+    - intel-openmp =2024.0.0 =h57928b3_49841
     - ipykernel =6.29.0 =pyha63f2e9_0
     - isoduration =20.11.0 =pyhd8ed1ab_0
     - jedi =0.19.1 =pyhd8ed1ab_0
@@ -463,7 +463,7 @@ requirements:
     - soupsieve =2.5 =pyhd8ed1ab_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - stdlib-list =0.10.0 =pyhd8ed1ab_0
-    - tbb =2021.11.0 =h91493d7_0
+    - tbb =2021.11.0 =h91493d7_1
     - terminado =0.18.0 =pyh5737063_0
     - tinycss2 =1.2.1 =pyhd8ed1ab_0
     - tk =8.6.13 =h5226925_1

@@ -56,19 +56,19 @@ requirements:
     - atk-1.0 =2.38.0 =h1d18e73_1
     - attrs =23.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.11 =h5ed86db_0
-    - aws-c-cal =0.6.9 =had988b7_2
-    - aws-c-common =0.9.10 =h10d778d_0
-    - aws-c-compression =0.2.17 =hb45f1eb_7
-    - aws-c-event-stream =0.4.1 =h451788f_1
-    - aws-c-http =0.8.0 =h1fa4523_1
-    - aws-c-io =0.13.36 =h3728bb0_3
-    - aws-c-mqtt =0.10.0 =hdd2773f_2
-    - aws-c-s3 =0.4.7 =hf9a8137_3
-    - aws-c-sdkutils =0.1.13 =hb45f1eb_0
-    - aws-checksums =0.1.17 =hb45f1eb_6
-    - aws-crt-cpp =0.26.0 =h4285ddc_5
-    - aws-sdk-cpp =1.11.210 =hb301dda_9
+    - aws-c-auth =0.7.11 =h94c8779_1
+    - aws-c-cal =0.6.9 =he75d6b7_3
+    - aws-c-common =0.9.12 =h10d778d_0
+    - aws-c-compression =0.2.17 =h45babc2_8
+    - aws-c-event-stream =0.4.1 =h3600a39_2
+    - aws-c-http =0.8.0 =h19e0e28_2
+    - aws-c-io =0.14.0 =h49ca7b5_1
+    - aws-c-mqtt =0.10.1 =h947eb33_0
+    - aws-c-s3 =0.4.9 =hee0ca28_0
+    - aws-c-sdkutils =0.1.13 =h45babc2_1
+    - aws-checksums =0.1.17 =h45babc2_7
+    - aws-crt-cpp =0.26.0 =he4637c3_8
+    - aws-sdk-cpp =1.11.210 =hf51409f_10
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bcrypt =4.1.2 =py38h51dbebd_0
     - blinker =1.7.0 =pyhd8ed1ab_0
@@ -144,8 +144,8 @@ requirements:
     - graphite2 =1.3.13 =h2e338ed_1001
     - graphviz =9.0.0 =hee74176_1
     - greenlet =3.0.3 =py38h1f5f77c_0
-    - gst-plugins-base =1.22.8 =h3fb38fc_1
-    - gstreamer =1.22.8 =hf63bbb8_1
+    - gst-plugins-base =1.22.9 =h3fb38fc_0
+    - gstreamer =1.22.9 =hf63bbb8_0
     - gtk2 =2.24.33 =h8ca4665_3
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =21.2.0 =py38h50d1736_1
@@ -188,11 +188,11 @@ requirements:
     - libarrow-flight-sql =14.0.2 =h8ec153b_2_cpu
     - libarrow-gandiva =14.0.2 =h01dce7f_2_cpu
     - libarrow-substrait =14.0.2 =h8ec153b_2_cpu
-    - libblas =3.9.0 =21_osx64_openblas
+    - libblas =3.9.0 =20_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
     - libbrotlienc =1.1.0 =h0dc2134_1
-    - libcblas =3.9.0 =21_osx64_openblas
+    - libcblas =3.9.0 =20_osx64_openblas
     - libclang =15.0.7 =default_h6b1ee41_4
     - libclang13 =15.0.7 =default_h89cd682_4
     - libcrc32c =1.1.2 =he49afe7_0
@@ -213,12 +213,12 @@ requirements:
     - libhwloc =2.9.3 =default_h24e0189_1009
     - libiconv =1.17 =hd75f5a5_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
-    - liblapack =3.9.0 =21_osx64_openblas
+    - liblapack =3.9.0 =20_osx64_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm15 =15.0.7 =hbedff68_4
     - libnghttp2 =1.58.0 =h64cf6d3_1
     - libogg =1.3.4 =h35c211d_1
-    - libopenblas =0.3.26 =openmp_hfef2a42_0
+    - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
     - libparquet =14.0.2 =h381d950_2_cpu
     - libpng =1.6.39 =ha978bb4_0
@@ -272,7 +272,7 @@ requirements:
     - nltk =3.8.1 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
     - nss =3.97 =ha05da47_0
-    - numba =0.58.1 =py38h2d4d3b6_0
+    - numba =0.58.1 =py38h730cc54_0
     - numexpr =2.8.4 =py38h78e6021_1
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha4da562_3
@@ -369,7 +369,7 @@ requirements:
     - sympy =1.12 =pypyh9d50eac_103
     - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
-    - tbb =2021.11.0 =he51d815_0
+    - tbb =2021.11.0 =h7728843_1
     - tenacity =8.2.3 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
     - thinc =8.2.2 =py38h4a817e8_0

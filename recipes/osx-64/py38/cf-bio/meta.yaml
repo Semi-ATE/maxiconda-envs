@@ -82,8 +82,8 @@ requirements:
     - greenlet =3.0.3 =py38h1f5f77c_0
     - griddataformats =1.0.1 =pyhd8ed1ab_0
     - gsd =3.2.1 =py38h7092abf_0
-    - gst-plugins-base =1.22.8 =h3fb38fc_1
-    - gstreamer =1.22.8 =hf63bbb8_1
+    - gst-plugins-base =1.22.9 =h3fb38fc_0
+    - gstreamer =1.22.9 =hf63bbb8_0
     - h5py =3.10.0 =nompi_py38hf24d7a2_101
     - hdf4 =4.2.15 =h8138101_7
     - hdf5 =1.14.3 =nompi_h691f4bf_100
@@ -104,13 +104,13 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libaec =1.1.2 =he965462_1
-    - libblas =3.9.0 =21_osx64_openblas
+    - libblas =3.9.0 =20_osx64_openblas
     - libboost =1.82.0 =h99d8d82_6
     - libboost-python =1.82.0 =py38h17eefc3_6
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
     - libbrotlienc =1.1.0 =h0dc2134_1
-    - libcblas =3.9.0 =21_osx64_openblas
+    - libcblas =3.9.0 =20_osx64_openblas
     - libclang =15.0.7 =default_h6b1ee41_4
     - libclang13 =15.0.7 =default_h89cd682_4
     - libcurl =8.5.0 =h726d00d_0
@@ -125,12 +125,12 @@ requirements:
     - libglib =2.78.3 =h198397b_0
     - libiconv =1.17 =hd75f5a5_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
-    - liblapack =3.9.0 =21_osx64_openblas
+    - liblapack =3.9.0 =20_osx64_openblas
     - libllvm15 =15.0.7 =hbedff68_4
     - libnetcdf =4.9.2 =nompi_h7760872_113
     - libnghttp2 =1.58.0 =h64cf6d3_1
     - libogg =1.3.4 =h35c211d_1
-    - libopenblas =0.3.26 =openmp_hfef2a42_0
+    - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.39 =ha978bb4_0
     - libpq =16.1 =ha925e61_7

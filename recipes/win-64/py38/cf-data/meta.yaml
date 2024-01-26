@@ -53,19 +53,19 @@ requirements:
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attrs =23.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.11 =h9ca94be_0
-    - aws-c-cal =0.6.9 =h7f0e5be_2
-    - aws-c-common =0.9.10 =hcfcfb64_0
-    - aws-c-compression =0.2.17 =h7f0e5be_7
-    - aws-c-event-stream =0.4.1 =h51e6447_1
-    - aws-c-http =0.8.0 =h80119a0_1
-    - aws-c-io =0.13.36 =ha737126_3
-    - aws-c-mqtt =0.10.0 =h2889a98_2
-    - aws-c-s3 =0.4.7 =h876bada_3
-    - aws-c-sdkutils =0.1.13 =h7f0e5be_0
-    - aws-checksums =0.1.17 =h7f0e5be_6
-    - aws-crt-cpp =0.26.0 =h42107db_5
-    - aws-sdk-cpp =1.11.210 =h752ccfa_9
+    - aws-c-auth =0.7.11 =hcf9e330_1
+    - aws-c-cal =0.6.9 =hd33547d_3
+    - aws-c-common =0.9.12 =hcfcfb64_0
+    - aws-c-compression =0.2.17 =hd33547d_8
+    - aws-c-event-stream =0.4.1 =h875930a_2
+    - aws-c-http =0.8.0 =ha1a3518_2
+    - aws-c-io =0.14.0 =hf372335_1
+    - aws-c-mqtt =0.10.1 =hda1dad8_0
+    - aws-c-s3 =0.4.9 =hef93162_0
+    - aws-c-sdkutils =0.1.13 =hd33547d_1
+    - aws-checksums =0.1.17 =hd33547d_7
+    - aws-crt-cpp =0.26.0 =hed7b20b_8
+    - aws-sdk-cpp =1.11.210 =h20b5662_10
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bcrypt =4.1.2 =py38h4900a04_0
     - blinker =1.7.0 =pyhd8ed1ab_0
@@ -135,8 +135,8 @@ requirements:
     - graphite2 =1.3.13 =1000
     - graphviz =9.0.0 =h51cb2cd_1
     - greenlet =3.0.3 =py38hd3f51b4_0
-    - gst-plugins-base =1.22.8 =h001b923_1
-    - gstreamer =1.22.8 =hb4038d2_1
+    - gst-plugins-base =1.22.9 =h001b923_0
+    - gstreamer =1.22.9 =hb4038d2_0
     - gts =0.7.6 =h6b5321d_4
     - harfbuzz =8.3.0 =h7ab893a_0
     - htmlmin =0.1.12 =py_1
@@ -150,7 +150,7 @@ requirements:
     - importlib_metadata =7.0.1 =hd8ed1ab_0
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - intel-openmp =2024.0.0 =h57928b3_49840
+    - intel-openmp =2024.0.0 =h57928b3_49841
     - ipykernel =6.29.0 =pyha63f2e9_0
     - ipython =8.12.2 =pyh08f2357_0
     - ipywidgets =8.1.1 =pyhd8ed1ab_0
@@ -339,7 +339,7 @@ requirements:
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
-    - tbb =2021.11.0 =h91493d7_0
+    - tbb =2021.11.0 =h91493d7_1
     - tenacity =8.2.3 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
     - thinc =8.2.2 =py38h153b517_0

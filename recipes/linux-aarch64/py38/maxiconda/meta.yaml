@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py38h9579f32_0
     - cython =3.0.7 =py38hb83fbf6_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.96.4 =pyha770c72_0
+    - hypothesis =6.97.0 =pyha770c72_0
     - ipython =8.12.2 =pyh41d4057_0
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38h2063c64_0
@@ -137,8 +137,8 @@ requirements:
     - gmpy2 =2.1.2 =py38hff653fa_1
     - graphite2 =1.3.13 =h7fd3ca4_1001
     - greenlet =3.0.3 =py38hb83fbf6_0
-    - gst-plugins-base =1.22.8 =h6d82d15_1
-    - gstreamer =1.22.8 =hed71854_1
+    - gst-plugins-base =1.22.9 =h6d82d15_0
+    - gstreamer =1.22.9 =hed71854_0
     - gxx_impl_linux-aarch64 =13.2.0 =h5669b93_3
     - harfbuzz =8.3.0 =hebeb849_0
     - icu =73.2 =h787c7f5_0
@@ -173,12 +173,12 @@ requirements:
     - lcms2 =2.16 =h922389a_0
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
-    - libblas =3.9.0 =21_linuxaarch64_openblas
+    - libblas =3.9.0 =20_linuxaarch64_openblas
     - libbrotlicommon =1.1.0 =h31becfc_1
     - libbrotlidec =1.1.0 =h31becfc_1
     - libbrotlienc =1.1.0 =h31becfc_1
     - libcap =2.69 =h883460d_0
-    - libcblas =3.9.0 =21_linuxaarch64_openblas
+    - libcblas =3.9.0 =20_linuxaarch64_openblas
     - libclang =15.0.7 =default_h65c9d4d_4
     - libclang13 =15.0.7 =default_hf5d3afd_4
     - libcups =2.3.3 =h405e4a8_4
@@ -200,13 +200,13 @@ requirements:
     - libgpg-error =1.47 =h5ce24db_0
     - libiconv =1.17 =h31becfc_2
     - libjpeg-turbo =3.0.0 =h31becfc_1
-    - liblapack =3.9.0 =21_linuxaarch64_openblas
+    - liblapack =3.9.0 =20_linuxaarch64_openblas
     - libllvm14 =14.0.6 =h966f666_4
     - libllvm15 =15.0.7 =hb4f23b0_4
     - libnghttp2 =1.58.0 =hb0e430d_1
     - libnsl =2.0.1 =h31becfc_0
     - libogg =1.3.4 =h3557bc0_1
-    - libopenblas =0.3.26 =pthreads_h5a5ec62_0
+    - libopenblas =0.3.25 =pthreads_h5a5ec62_0
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.39 =hf9034f9_0
     - libpq =16.1 =h58720eb_7
@@ -487,7 +487,7 @@ requirements:
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.2 =pyh41d4057_0
     - setuptools =69.0.3 =pyhd8ed1ab_0
-    - sip =6.8.1 =py38hed0da46_0
+    - sip =6.8.2 =py38hed0da46_0
     - six =1.16.0 =pyh6c4a22f_0
     - sniffio =1.3.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0

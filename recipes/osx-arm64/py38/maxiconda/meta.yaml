@@ -30,11 +30,11 @@ requirements:
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - cython =3.0.7 =py38hb9fa5a8_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.96.4 =pyha770c72_0
+    - hypothesis =6.97.0 =pyha770c72_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38h150bfb4_0
-    - numba =0.58.1 =py38hb456c90_0
+    - numba =0.58.1 =py38hbe32c8a_0
     - numpy =1.24.4 =py38ha84db1f_0
     - openpyxl =3.1.2 =py38hb192615_1
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
@@ -141,8 +141,8 @@ requirements:
     - gmpy2 =2.1.2 =py38h904d018_1
     - graphite2 =1.3.13 =h9f76cd9_1001
     - greenlet =3.0.3 =py38hb9fa5a8_0
-    - gst-plugins-base =1.22.8 =h09b4b5e_1
-    - gstreamer =1.22.8 =h551c6ff_1
+    - gst-plugins-base =1.22.9 =h09b4b5e_0
+    - gstreamer =1.22.9 =h551c6ff_0
     - harfbuzz =8.3.0 =h8f0ba13_0
     - icu =73.2 =hc8870d7_0
     - idna =3.6 =pyhd8ed1ab_0
@@ -174,11 +174,11 @@ requirements:
     - lcms2 =2.16 =ha0e7c42_0
     - ld64_osx-arm64 =609 =h6a44367_15
     - lerc =4.0.0 =h9a09cb3_0
-    - libblas =3.9.0 =21_osxarm64_openblas
+    - libblas =3.9.0 =20_osxarm64_openblas
     - libbrotlicommon =1.1.0 =hb547adb_1
     - libbrotlidec =1.1.0 =hb547adb_1
     - libbrotlienc =1.1.0 =hb547adb_1
-    - libcblas =3.9.0 =21_osxarm64_openblas
+    - libcblas =3.9.0 =20_osxarm64_openblas
     - libclang =15.0.7 =default_hd209bcb_4
     - libclang-cpp17 =17.0.6 =default_hd209bcb_2
     - libclang13 =15.0.7 =default_ha49e599_4
@@ -195,13 +195,13 @@ requirements:
     - libglib =2.78.3 =hb438215_0
     - libiconv =1.17 =h0d3ecfb_2
     - libjpeg-turbo =3.0.0 =hb547adb_1
-    - liblapack =3.9.0 =21_osxarm64_openblas
+    - liblapack =3.9.0 =20_osxarm64_openblas
     - libllvm14 =14.0.6 =hd1a9a77_4
     - libllvm15 =15.0.7 =h2621b3d_4
     - libllvm17 =17.0.6 =haab561b_1
     - libnghttp2 =1.58.0 =ha4dd798_1
     - libogg =1.3.4 =h27ca646_1
-    - libopenblas =0.3.26 =openmp_h6c19121_0
+    - libopenblas =0.3.25 =openmp_h6c19121_0
     - libopus =1.3.1 =h27ca646_1
     - libpng =1.6.39 =h76d750c_0
     - libpq =16.1 =h0f8b458_7
@@ -473,7 +473,7 @@ requirements:
     - send2trash =1.8.0 =pyhd8ed1ab_0
     - setuptools =69.0.3 =pyhd8ed1ab_0
     - sigtool =0.1.3 =h44b9a77_0
-    - sip =6.8.1 =py38hb9fa5a8_0
+    - sip =6.8.2 =py38hb9fa5a8_0
     - six =1.16.0 =pyh6c4a22f_0
     - sniffio =1.3.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
