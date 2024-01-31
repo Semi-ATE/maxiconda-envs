@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =2.0.0 =py39h6e9494a_0
     - pyqt =5.15.9 =py39h3dce684_5
-    - pytorch =2.1.0 =cpu_mkl_py39h6491c0d_103
+    - pytorch =2.1.2 =cpu_mkl_py39h6491c0d_100
     - scikit-learn =1.4.0 =py39hf36d3f6_0
     - scipy =1.12.0 =py39h0ed1e0f_2
     - scrapy =2.11.0 =py39h6e9494a_0
@@ -96,7 +96,7 @@ requirements:
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.2.0 =py39h6be1789_0
-    - cryptography =41.0.7 =py39h187ccd6_1
+    - cryptography =42.0.2 =py39h7446713_0
     - cssselect =1.2.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =py_0
     - cycler =0.12.1 =pyhd8ed1ab_0
@@ -181,13 +181,13 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20230802.1 =cxx17_h048a20a_0
-    - libarrow =14.0.2 =h1aaacd4_2_cpu
-    - libarrow-acero =14.0.2 =h000cb23_2_cpu
-    - libarrow-dataset =14.0.2 =h000cb23_2_cpu
-    - libarrow-flight =14.0.2 =ha1803ca_2_cpu
-    - libarrow-flight-sql =14.0.2 =h8ec153b_2_cpu
-    - libarrow-gandiva =14.0.2 =h01dce7f_2_cpu
-    - libarrow-substrait =14.0.2 =h8ec153b_2_cpu
+    - libarrow =15.0.0 =h1aaacd4_0_cpu
+    - libarrow-acero =15.0.0 =h000cb23_0_cpu
+    - libarrow-dataset =15.0.0 =h000cb23_0_cpu
+    - libarrow-flight =15.0.0 =ha1803ca_0_cpu
+    - libarrow-flight-sql =15.0.0 =h8ec153b_0_cpu
+    - libarrow-gandiva =15.0.0 =h01dce7f_0_cpu
+    - libarrow-substrait =15.0.0 =h8ec153b_0_cpu
     - libblas =3.9.0 =21_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
@@ -220,7 +220,7 @@ requirements:
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.26 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =14.0.2 =h381d950_2_cpu
+    - libparquet =15.0.0 =h381d950_0_cpu
     - libpng =1.6.39 =ha978bb4_0
     - libpq =16.1 =ha925e61_7
     - libprotobuf =4.24.4 =hc4f2305_0
@@ -231,7 +231,7 @@ requirements:
     - libssh2 =1.11.0 =hd019ec5_0
     - libthrift =0.19.0 =h064b379_1
     - libtiff =4.6.0 =h684deea_2
-    - libtorch =2.1.0 =cpu_mkl_h4241e55_103
+    - libtorch =2.1.2 =cpu_mkl_h4241e55_100
     - libutf8proc =2.8.0 =hb7f2c08_0
     - libuv =1.46.0 =h0c2f820_0
     - libvorbis =1.3.7 =h046ec9c_0
@@ -246,7 +246,7 @@ requirements:
     - llvmlite =0.41.1 =py39he5a6977_0
     - lxml =5.1.0 =py39h9b7d3cf_0
     - lz4-c =1.9.4 =hf0c8a7f_0
-    - mako =1.3.1 =pyhd8ed1ab_0
+    - mako =1.3.2 =pyhd8ed1ab_0
     - markdown =3.5.2 =pyhd8ed1ab_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.4 =py39ha09f3b3_0
@@ -276,7 +276,7 @@ requirements:
     - numexpr =2.8.8 =py39haf03413_0
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha4da562_3
-    - openssl =3.2.0 =hd75f5a5_1
+    - openssl =3.2.1 =hd75f5a5_0
     - orc =1.9.2 =h9ab30d4_0
     - packaging =23.2 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
@@ -306,7 +306,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py39h15c3653_0
-    - pyarrow =14.0.2 =py39h8632116_2_cpu
+    - pyarrow =15.0.0 =py39h8632116_0_cpu
     - pyasn1 =0.5.1 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -321,7 +321,7 @@ requirements:
     - pynacl =1.5.0 =py39hdc70f33_3
     - pynndescent =0.5.11 =pyhca7485f_0
     - pyod =1.1.2 =pyhd8ed1ab_0
-    - pyopenssl =23.3.0 =pyhd8ed1ab_0
+    - pyopenssl =24.0.0 =pyhd8ed1ab_0
     - pyparsing =3.1.1 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py39hb11a7c1_5
     - pysocks =1.7.1 =py39h6e9494a_5
@@ -386,7 +386,7 @@ requirements:
     - tzdata =2023d =h0c530f3_0
     - umap-learn =0.5.5 =py39h6e9494a_0
     - unicodedata2 =15.1.0 =py39hdc70f33_0
-    - urllib3 =2.1.0 =pyhd8ed1ab_0
+    - urllib3 =2.2.0 =pyhd8ed1ab_0
     - visions =0.7.1 =pyhd8ed1ab_0
     - w3lib =2.1.2 =pyhd8ed1ab_0
     - wasabi =1.1.2 =py39h6e9494a_0

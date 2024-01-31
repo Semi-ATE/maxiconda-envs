@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.1 =py38he7056a7_0
     - xgboost =2.0.3 =cpu_py38h684852a_0
 
-    # 349 secondary packages :
+    # 342 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_1
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -53,19 +53,19 @@ requirements:
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attrs =23.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.11 =hcf9e330_1
-    - aws-c-cal =0.6.9 =hd33547d_3
-    - aws-c-common =0.9.12 =hcfcfb64_0
-    - aws-c-compression =0.2.17 =hd33547d_8
-    - aws-c-event-stream =0.4.1 =h875930a_2
-    - aws-c-http =0.8.0 =ha1a3518_2
-    - aws-c-io =0.14.0 =hf372335_1
-    - aws-c-mqtt =0.10.1 =hda1dad8_0
-    - aws-c-s3 =0.4.9 =hef93162_0
-    - aws-c-sdkutils =0.1.13 =hd33547d_1
-    - aws-checksums =0.1.17 =hd33547d_7
-    - aws-crt-cpp =0.26.0 =hed7b20b_8
-    - aws-sdk-cpp =1.11.210 =h20b5662_10
+    - aws-c-auth =0.7.11 =h9ca94be_0
+    - aws-c-cal =0.6.9 =h7f0e5be_2
+    - aws-c-common =0.9.10 =hcfcfb64_0
+    - aws-c-compression =0.2.17 =h7f0e5be_7
+    - aws-c-event-stream =0.4.1 =h51e6447_1
+    - aws-c-http =0.8.0 =h80119a0_1
+    - aws-c-io =0.13.36 =ha737126_3
+    - aws-c-mqtt =0.10.0 =h2889a98_2
+    - aws-c-s3 =0.4.7 =h876bada_3
+    - aws-c-sdkutils =0.1.13 =h7f0e5be_0
+    - aws-checksums =0.1.17 =h7f0e5be_6
+    - aws-crt-cpp =0.26.0 =h42107db_5
+    - aws-sdk-cpp =1.11.210 =h752ccfa_9
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bcrypt =4.1.2 =py38h4900a04_0
     - blinker =1.7.0 =pyhd8ed1ab_0
@@ -94,7 +94,7 @@ requirements:
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.1.1 =py38hb1fd069_1
-    - cryptography =41.0.7 =py38hec14f37_1
+    - cryptography =42.0.2 =py38hec14f37_0
     - cssselect =1.2.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =py_0
     - cycler =0.12.1 =pyhd8ed1ab_0
@@ -171,13 +171,7 @@ requirements:
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20230802.1 =cxx17_h63175ca_0
-    - libarrow =14.0.2 =he5f67d5_2_cpu
-    - libarrow-acero =14.0.2 =h63175ca_2_cpu
-    - libarrow-dataset =14.0.2 =h63175ca_2_cpu
-    - libarrow-flight =14.0.2 =h53b1db0_2_cpu
-    - libarrow-flight-sql =14.0.2 =h78eab7c_2_cpu
-    - libarrow-gandiva =14.0.2 =hb2eaab1_2_cpu
-    - libarrow-substrait =14.0.2 =hd4c9904_2_cpu
+    - libarrow =13.0.0 =h2d8668f_24_cpu
     - libblas =3.9.0 =21_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
@@ -193,16 +187,15 @@ requirements:
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h312136b_9
     - libglib =2.78.3 =h16e383f_0
-    - libgoogle-cloud =2.12.0 =h39f2fc6_4
-    - libgrpc =1.59.3 =h5bbd4a7_0
+    - libgoogle-cloud =2.12.0 =hc7cbac0_5
+    - libgrpc =1.60.0 =h0bf0bfa_0
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =hcfcfb64_2
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =21_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
-    - libparquet =14.0.2 =h7ec3a38_2_cpu
     - libpng =1.6.39 =h19919ed_0
-    - libprotobuf =4.24.4 =hb8276f3_0
+    - libprotobuf =4.25.1 =hb8276f3_0
     - libre2-11 =2023.06.02 =h8c5ae5e_0
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.44.2 =hcfcfb64_0
@@ -226,7 +219,7 @@ requirements:
     - m2w64-gcc-libs-core =5.3.0 =7
     - m2w64-gmp =6.1.0 =2
     - m2w64-libwinpthread-git =5.0.0.4634.697f757 =2
-    - mako =1.3.1 =pyhd8ed1ab_0
+    - mako =1.3.2 =pyhd8ed1ab_0
     - markdown =3.5.2 =pyhd8ed1ab_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.4 =py38h91455d4_0
@@ -249,8 +242,8 @@ requirements:
     - numexpr =2.7.3 =py38h5d928e2_2
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h3d672ee_3
-    - openssl =3.2.0 =hcfcfb64_1
-    - orc =1.9.2 =hf0b6bd4_0
+    - openssl =3.2.1 =hcfcfb64_0
+    - orc =1.9.2 =hf6f83f4_1
     - packaging =23.2 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.50.14 =h07c897b_2
@@ -274,13 +267,13 @@ requirements:
     - prompt-toolkit =3.0.42 =pyha770c72_0
     - prompt_toolkit =3.0.42 =hd8ed1ab_0
     - protego =0.3.0 =pyhd8ed1ab_0
-    - protobuf =4.24.4 =py38hd545272_0
+    - protobuf =4.25.1 =py38hd545272_0
     - psutil =5.9.8 =py38h91455d4_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py38h684852a_0
-    - pyarrow =14.0.2 =py38hd94c00f_2_cpu
+    - pyarrow =13.0.0 =py38hd94c00f_24_cpu
     - pyasn1 =0.5.1 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -295,7 +288,7 @@ requirements:
     - pynacl =1.5.0 =py38hbc1c497_3
     - pynndescent =0.5.11 =pyhca7485f_0
     - pyod =1.1.2 =pyhd8ed1ab_0
-    - pyopenssl =23.3.0 =pyhd8ed1ab_0
+    - pyopenssl =24.0.0 =pyhd8ed1ab_0
     - pyparsing =3.1.1 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py38hd3f51b4_5
     - pysocks =1.7.1 =py38haa244fe_5
@@ -359,7 +352,7 @@ requirements:
     - ucrt =10.0.22621.0 =h57928b3_0
     - umap-learn =0.5.5 =py38haa244fe_0
     - unicodedata2 =15.1.0 =py38h91455d4_0
-    - urllib3 =2.1.0 =pyhd8ed1ab_0
+    - urllib3 =2.2.0 =pyhd8ed1ab_0
     - vc =14.3 =hcf57466_18
     - vc14_runtime =14.38.33130 =h82b7239_18
     - visions =0.7.1 =pyhd8ed1ab_0
