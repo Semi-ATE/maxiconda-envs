@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py39ha09f3b3_0
     - cython =3.0.8 =py39hd253f6c_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.97.6 =pyha770c72_0
+    - hypothesis =6.98.1 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.8.2 =py39h6e9494a_0
@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.2.0 =py39haf03413_0
     - psutil =5.9.8 =py39ha09f3b3_0
-    - pydantic =2.6.0 =pyhd8ed1ab_0
+    - pydantic =2.6.1 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py39h3dce684_5
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =8.0.0 =pyhd8ed1ab_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 447 secondary packages :
+    # 453 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -142,7 +142,13 @@ requirements:
     - greenlet =3.0.3 =py39hd253f6c_0
     - gst-plugins-base =1.22.9 =h3fb38fc_0
     - gstreamer =1.22.9 =hf63bbb8_0
+    - h11 =0.14.0 =pyhd8ed1ab_0
+    - h2 =4.1.0 =py39h6e9494a_0
     - harfbuzz =8.3.0 =hf45c392_0
+    - hpack =4.0.0 =pyh9f0ad1d_0
+    - httpcore =1.0.2 =pyhd8ed1ab_0
+    - httpx =0.26.0 =pyhd8ed1ab_0
+    - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =73.2 =hf5e326d_0
     - idna =3.6 =pyhd8ed1ab_0
     - importlib-metadata =7.0.1 =pyha770c72_0
@@ -165,8 +171,8 @@ requirements:
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
     - jupyter_server =2.12.5 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.2 =pyhd8ed1ab_0
-    - jupyterlab =4.0.12 =pyhd8ed1ab_0
-    - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_0
+    - jupyterlab =4.1.0 =pyhd8ed1ab_0
+    - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - jupyterlab_server =2.25.2 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py39h8ee36c8_1
     - krb5 =1.21.2 =hb884880_0
@@ -263,7 +269,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic-core =2.16.1 =py39hcf47035_0
+    - pydantic-core =2.16.2 =py39hcf47035_0
     - pygments =2.17.2 =pyhd8ed1ab_0
     - pyobjc-core =10.1 =py39h8602b6b_0
     - pyobjc-framework-cocoa =10.1 =py39h8602b6b_0

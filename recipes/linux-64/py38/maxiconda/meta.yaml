@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py38h01eb140_0
     - cython =3.0.8 =py38h17151c0_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.97.6 =pyha770c72_0
+    - hypothesis =6.98.1 =pyha770c72_0
     - ipython =8.12.2 =pyh41d4057_0
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38h578d9bd_0
@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.0.3 =py38h01efb38_1
     - psutil =5.9.8 =py38h01eb140_0
-    - pydantic =2.6.0 =pyhd8ed1ab_0
+    - pydantic =2.6.1 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py38hffdaa6c_5
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =8.0.0 =pyhd8ed1ab_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 479 secondary packages :
+    # 485 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -140,7 +140,13 @@ requirements:
     - gst-plugins-base =1.22.9 =h8e1006c_0
     - gstreamer =1.22.9 =h98fc4e7_0
     - gxx_impl_linux-64 =13.2.0 =h338b0a0_5
+    - h11 =0.14.0 =pyhd8ed1ab_0
+    - h2 =4.1.0 =py38h578d9bd_0
     - harfbuzz =8.3.0 =h3d44ed6_0
+    - hpack =4.0.0 =pyh9f0ad1d_0
+    - httpcore =1.0.2 =pyhd8ed1ab_0
+    - httpx =0.26.0 =pyhd8ed1ab_0
+    - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =73.2 =h59595ed_0
     - idna =3.6 =pyhd8ed1ab_0
     - importlib-metadata =7.0.1 =pyha770c72_0
@@ -162,8 +168,8 @@ requirements:
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
     - jupyter_server =2.12.5 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.2 =pyhd8ed1ab_0
-    - jupyterlab =4.0.12 =pyhd8ed1ab_0
-    - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_0
+    - jupyterlab =4.1.0 =pyhd8ed1ab_0
+    - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - jupyterlab_server =2.25.2 =pyhd8ed1ab_0
     - kernel-headers_linux-64 =2.6.32 =he073ed8_16
     - keyutils =1.6.1 =h166bdaf_0
@@ -280,7 +286,7 @@ requirements:
     - pulseaudio-client =16.1 =hb77b528_5
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic-core =2.16.1 =py38h0cc4f7c_0
+    - pydantic-core =2.16.2 =py38h0cc4f7c_0
     - pygments =2.17.2 =pyhd8ed1ab_0
     - pyparsing =3.1.1 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py38h17151c0_5
@@ -523,7 +529,7 @@ requirements:
     - xcb-util-keysyms =0.4.0 =h8ee46fc_1
     - xcb-util-renderutil =0.3.9 =hd590300_1
     - xcb-util-wm =0.4.1 =h8ee46fc_1
-    - xkeyboard-config =2.40 =hd590300_0
+    - xkeyboard-config =2.41 =hd590300_0
     - xorg-kbproto =1.0.7 =h7f98852_1002
     - xorg-libice =1.1.1 =hd590300_0
     - xorg-libsm =1.2.4 =h7391055_0
