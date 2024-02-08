@@ -121,7 +121,7 @@ requirements:
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.3.1 =py37h74e8b7d_0
     - gettext =0.21.1 =h8a4c099_0
-    - gfortran_impl_osx-64 =12.3.0 =hc328e78_2
+    - gfortran_impl_osx-64 =12.3.0 =hc328e78_3
     - gfortran_osx-64 =12.3.0 =h18f7dce_1
     - git =2.43.0 =pl5321hba7a703_0
     - glib =2.78.3 =hf4d7fad_0
@@ -165,9 +165,9 @@ requirements:
     - libev =4.33 =h10d778d_2
     - libexpat =2.5.0 =hf0c8a7f_1
     - libffi =3.4.2 =h0d85af4_5
-    - libgfortran =5.0.0 =13_2_0_h97931a8_2
-    - libgfortran-devel_osx-64 =12.3.0 =h0b6f5ec_2
-    - libgfortran5 =13.2.0 =h2873a65_2
+    - libgfortran =5.0.0 =13_2_0_h97931a8_3
+    - libgfortran-devel_osx-64 =12.3.0 =h0b6f5ec_3
+    - libgfortran5 =13.2.0 =h2873a65_3
     - libglib =2.78.3 =h198397b_0
     - libiconv =1.17 =hd75f5a5_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
@@ -375,7 +375,7 @@ requirements:
     - r-rappdirs =0.3.3 =r43h6dc245f_2
     - r-rbokeh =0.5.2 =r43hc72bb7e_3
     - r-rcolorbrewer =1.1_3 =r43h785f33e_2
-    - r-rcpp =1.0.11 =r43hac7d2d5_0
+    - r-rcpp =1.0.12 =r43h29979af_0
     - r-rcppeigen =0.3.3.9.4 =r43h9ef54d1_0
     - r-readr =2.1.5 =r43h29979af_0
     - r-readxl =1.4.3 =r43h88814b1_0

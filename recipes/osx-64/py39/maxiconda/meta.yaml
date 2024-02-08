@@ -132,7 +132,7 @@ requirements:
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.4.1 =py39ha09f3b3_0
     - gettext =0.21.1 =h8a4c099_0
-    - gfortran_impl_osx-64 =12.3.0 =hc328e78_2
+    - gfortran_impl_osx-64 =12.3.0 =hc328e78_3
     - gfortran_osx-64 =12.3.0 =h18f7dce_1
     - glib =2.78.3 =hf4d7fad_0
     - glib-tools =2.78.3 =hf4d7fad_0
@@ -156,7 +156,7 @@ requirements:
     - importlib_metadata =7.0.1 =hd8ed1ab_0
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
-    - ipykernel =6.29.1 =pyh3cd1d5f_0
+    - ipykernel =6.29.2 =pyh3cd1d5f_0
     - isl =0.26 =imath32_h2e86a7b_101
     - isoduration =20.11.0 =pyhd8ed1ab_0
     - jedi =0.19.1 =pyhd8ed1ab_0
@@ -194,9 +194,9 @@ requirements:
     - libev =4.33 =h10d778d_2
     - libexpat =2.5.0 =hf0c8a7f_1
     - libffi =3.4.2 =h0d85af4_5
-    - libgfortran =5.0.0 =13_2_0_h97931a8_2
-    - libgfortran-devel_osx-64 =12.3.0 =h0b6f5ec_2
-    - libgfortran5 =13.2.0 =h2873a65_2
+    - libgfortran =5.0.0 =13_2_0_h97931a8_3
+    - libgfortran-devel_osx-64 =12.3.0 =h0b6f5ec_3
+    - libgfortran5 =13.2.0 =h2873a65_3
     - libglib =2.78.3 =h198397b_0
     - libiconv =1.17 =hd75f5a5_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
@@ -235,7 +235,7 @@ requirements:
     - mysql-common =8.0.33 =h1d20c9b_6
     - mysql-libs =8.0.33 =hed35180_6
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.15.0 =pyhd8ed1ab_0
+    - nbconvert-core =7.16.0 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h93d8f39_2
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
@@ -269,7 +269,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic-core =2.16.2 =py39hcf47035_0
+    - pydantic-core =2.16.2 =py39hcf47035_1
     - pygments =2.17.2 =pyhd8ed1ab_0
     - pyobjc-core =10.1 =py39h8602b6b_0
     - pyobjc-framework-cocoa =10.1 =py39h8602b6b_0
@@ -411,7 +411,7 @@ requirements:
     - r-rappdirs =0.3.3 =r43h6dc245f_2
     - r-rbokeh =0.5.2 =r43hc72bb7e_3
     - r-rcolorbrewer =1.1_3 =r43h785f33e_2
-    - r-rcpp =1.0.11 =r43hac7d2d5_0
+    - r-rcpp =1.0.12 =r43h29979af_0
     - r-rcppeigen =0.3.3.9.4 =r43h9ef54d1_0
     - r-readr =2.1.5 =r43h29979af_0
     - r-readxl =1.4.3 =r43h88814b1_0
@@ -470,8 +470,8 @@ requirements:
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rpds-py =0.17.1 =py39h3f9c672_0
-    - ruamel.yaml =0.18.5 =py39ha09f3b3_0
-    - ruamel.yaml.clib =0.2.7 =py39hdc70f33_2
+    - ruamel.yaml =0.18.6 =py39ha09f3b3_0
+    - ruamel.yaml.clib =0.2.8 =py39ha09f3b3_0
     - ruamel.yaml.jinja2 =0.2.4 =py_1
     - rust-std-x86_64-apple-darwin =1.75.0 =h38e4360_0
     - semver =3.0.2 =pyhd8ed1ab_0

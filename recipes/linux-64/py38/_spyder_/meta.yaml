@@ -32,7 +32,7 @@ requirements:
     - pyqt =5.15.9 =py38hffdaa6c_5
     - pyqtwebengine =5.15.9 =py38h3e8a4c8_5
     - scipy =1.10.1 =py38h59b608b_3
-    - spyder =5.5.0 =py38h578d9bd_3
+    - spyder =5.5.1 =py38h578d9bd_0
     - sympy =1.12 =pypyh9d50eac_103
 
     # 313 secondary packages :
@@ -82,7 +82,7 @@ requirements:
     - entrypoints =0.4 =pyhd8ed1ab_0
     - executing =2.0.1 =pyhd8ed1ab_0
     - expat =2.5.0 =hcb278e6_1
-    - flake8 =6.1.0 =pyhd8ed1ab_0
+    - flake8 =7.0.0 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -111,7 +111,7 @@ requirements:
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
-    - ipykernel =6.29.1 =pyhd33586a_0
+    - ipykernel =6.29.2 =pyhd33586a_0
     - ipython =8.12.2 =pyh41d4057_0
     - isort =5.13.2 =pyhd8ed1ab_0
     - jaraco.classes =3.3.0 =pyhd8ed1ab_0
@@ -198,9 +198,9 @@ requirements:
     - mysql-common =8.0.33 =hf1915f5_6
     - mysql-libs =8.0.33 =hca2cd23_6
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert =7.15.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.15.0 =pyhd8ed1ab_0
-    - nbconvert-pandoc =7.15.0 =pyhd8ed1ab_0
+    - nbconvert =7.16.0 =pyhd8ed1ab_0
+    - nbconvert-core =7.16.0 =pyhd8ed1ab_0
+    - nbconvert-pandoc =7.16.0 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h59595ed_2
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
@@ -235,7 +235,7 @@ requirements:
     - pycodestyle =2.11.1 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
     - pydocstyle =6.3.0 =pyhd8ed1ab_0
-    - pyflakes =3.1.0 =pyhd8ed1ab_0
+    - pyflakes =3.2.0 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0
     - pylint =3.0.3 =pyhd8ed1ab_0
     - pylint-venv =3.0.3 =pyhd8ed1ab_0
@@ -247,8 +247,8 @@ requirements:
     - python-fastjsonschema =2.19.1 =pyhd8ed1ab_0
     - python-lsp-black =2.0.0 =pyhd8ed1ab_0
     - python-lsp-jsonrpc =1.1.2 =pyhd8ed1ab_0
-    - python-lsp-server =1.9.0 =pyhd8ed1ab_0
-    - python-lsp-server-base =1.9.0 =pyhd8ed1ab_0
+    - python-lsp-server =1.10.0 =pyhd8ed1ab_0
+    - python-lsp-server-base =1.10.0 =pyhd8ed1ab_0
     - python-slugify =8.0.3 =pyhd8ed1ab_0
     - python-tzdata =2023.4 =pyhd8ed1ab_0
     - python_abi =3.8 =4_cp38
@@ -305,7 +305,7 @@ requirements:
     - ujson =5.9.0 =py38h17151c0_0
     - unicodedata2 =15.1.0 =py38h01eb140_0
     - urllib3 =2.2.0 =pyhd8ed1ab_0
-    - watchdog =3.0.0 =py38h578d9bd_1
+    - watchdog =4.0.0 =py38h578d9bd_0
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - whatthepatch =1.0.5 =pyhd8ed1ab_0

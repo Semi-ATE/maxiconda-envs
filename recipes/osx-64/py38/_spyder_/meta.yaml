@@ -32,7 +32,7 @@ requirements:
     - pyqt =5.15.9 =py38he1c912d_5
     - pyqtwebengine =5.15.9 =py38hf9b569d_5
     - scipy =1.10.1 =py38h9cf86d3_3
-    - spyder =5.5.0 =py38h50d1736_3
+    - spyder =5.5.1 =py38h50d1736_0
     - sympy =1.12 =pypyh9d50eac_103
 
     # 247 secondary packages :
@@ -75,7 +75,7 @@ requirements:
     - docutils =0.20.1 =py38h50d1736_3
     - entrypoints =0.4 =pyhd8ed1ab_0
     - executing =2.0.1 =pyhd8ed1ab_0
-    - flake8 =6.1.0 =pyhd8ed1ab_0
+    - flake8 =7.0.0 =pyhd8ed1ab_0
     - fonttools =4.48.1 =py38hae2e43d_0
     - freetype =2.12.1 =h60636b9_2
     - gettext =0.21.1 =h8a4c099_0
@@ -95,7 +95,7 @@ requirements:
     - importlib_resources =6.1.1 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
-    - ipykernel =6.29.1 =pyh3cd1d5f_0
+    - ipykernel =6.29.2 =pyh3cd1d5f_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - isort =5.13.2 =pyhd8ed1ab_0
     - jaraco.classes =3.3.0 =pyhd8ed1ab_0
@@ -123,8 +123,8 @@ requirements:
     - libdeflate =1.19 =ha4e1b8e_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libffi =3.4.2 =h0d85af4_5
-    - libgfortran =5.0.0 =13_2_0_h97931a8_2
-    - libgfortran5 =13.2.0 =h2873a65_2
+    - libgfortran =5.0.0 =13_2_0_h97931a8_3
+    - libgfortran5 =13.2.0 =h2873a65_3
     - libglib =2.78.3 =h198397b_0
     - libiconv =1.17 =hd75f5a5_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
@@ -162,9 +162,9 @@ requirements:
     - mysql-common =8.0.33 =h1d20c9b_6
     - mysql-libs =8.0.33 =hed35180_6
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert =7.15.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.15.0 =pyhd8ed1ab_0
-    - nbconvert-pandoc =7.15.0 =pyhd8ed1ab_0
+    - nbconvert =7.16.0 =pyhd8ed1ab_0
+    - nbconvert-core =7.16.0 =pyhd8ed1ab_0
+    - nbconvert-pandoc =7.16.0 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h93d8f39_2
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
@@ -196,7 +196,7 @@ requirements:
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycodestyle =2.11.1 =pyhd8ed1ab_0
     - pydocstyle =6.3.0 =pyhd8ed1ab_0
-    - pyflakes =3.1.0 =pyhd8ed1ab_0
+    - pyflakes =3.2.0 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0
     - pylint =3.0.3 =pyhd8ed1ab_0
     - pylint-venv =3.0.3 =pyhd8ed1ab_0
@@ -212,8 +212,8 @@ requirements:
     - python-fastjsonschema =2.19.1 =pyhd8ed1ab_0
     - python-lsp-black =2.0.0 =pyhd8ed1ab_0
     - python-lsp-jsonrpc =1.1.2 =pyhd8ed1ab_0
-    - python-lsp-server =1.9.0 =pyhd8ed1ab_0
-    - python-lsp-server-base =1.9.0 =pyhd8ed1ab_0
+    - python-lsp-server =1.10.0 =pyhd8ed1ab_0
+    - python-lsp-server-base =1.10.0 =pyhd8ed1ab_0
     - python-slugify =8.0.3 =pyhd8ed1ab_0
     - python-tzdata =2023.4 =pyhd8ed1ab_0
     - python.app =1.4 =py38hcafd530_3
@@ -269,7 +269,7 @@ requirements:
     - ujson =5.9.0 =py38hb2f96d7_0
     - unicodedata2 =15.1.0 =py38hcafd530_0
     - urllib3 =2.2.0 =pyhd8ed1ab_0
-    - watchdog =3.0.0 =py38h895037e_1
+    - watchdog =4.0.0 =py38h2bea1e5_0
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - whatthepatch =1.0.5 =pyhd8ed1ab_0
