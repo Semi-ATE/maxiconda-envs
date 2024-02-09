@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =2.0.0 =py39h6e9494a_0
     - pyqt =5.15.9 =py39h3dce684_5
-    - pytorch =2.1.2 =cpu_mkl_py39h0386829_101
+    - pytorch =2.1.2 =cpu_mkl_py39h0386829_102
     - scikit-learn =1.4.0 =py39hf36d3f6_0
     - scipy =1.12.0 =py39h0ed1e0f_2
     - scrapy =2.11.0 =py39h6e9494a_0
@@ -163,7 +163,7 @@ requirements:
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.29.2 =pyh3cd1d5f_0
     - ipython =8.18.1 =pyh707e725_3
-    - ipywidgets =8.1.1 =pyhd8ed1ab_0
+    - ipywidgets =8.1.2 =pyhd8ed1ab_0
     - itemadapter =0.8.0 =pyhd8ed1ab_0
     - itemloaders =1.1.0 =pyhd8ed1ab_0
     - itsdangerous =2.1.2 =pyhd8ed1ab_0
@@ -173,7 +173,7 @@ requirements:
     - joblib =1.3.2 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.7.1 =py39h6e9494a_0
-    - jupyterlab_widgets =3.0.9 =pyhd8ed1ab_0
+    - jupyterlab_widgets =3.0.10 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py39h8ee36c8_1
     - kmodes =0.12.2 =pyhd8ed1ab_0
     - krb5 =1.21.2 =hb884880_0
@@ -222,7 +222,7 @@ requirements:
     - libopus =1.3.1 =hc929b4f_1
     - libparquet =15.0.0 =h381d950_2_cpu
     - libpng =1.6.42 =h92b6c6a_0
-    - libpq =16.1 =ha925e61_7
+    - libpq =16.2 =ha925e61_0
     - libprotobuf =4.25.1 =hc4f2305_1
     - libre2-11 =2023.06.02 =h4694dbf_0
     - librsvg =2.56.3 =h1877882_1
@@ -231,7 +231,7 @@ requirements:
     - libssh2 =1.11.0 =hd019ec5_0
     - libthrift =0.19.0 =h064b379_1
     - libtiff =4.6.0 =h684deea_2
-    - libtorch =2.1.2 =cpu_mkl_hfbdd0c5_101
+    - libtorch =2.1.2 =cpu_mkl_hfbdd0c5_102
     - libutf8proc =2.8.0 =hb7f2c08_0
     - libuv =1.46.0 =h0c2f820_0
     - libvorbis =1.3.7 =h046ec9c_0
@@ -395,7 +395,7 @@ requirements:
     - websocket-client =1.7.0 =pyhd8ed1ab_0
     - werkzeug =3.0.1 =pyhd8ed1ab_0
     - wheel =0.42.0 =pyhd8ed1ab_0
-    - widgetsnbextension =4.0.9 =pyhd8ed1ab_0
+    - widgetsnbextension =4.0.10 =pyhd8ed1ab_0
     - wordcloud =1.9.3 =py39ha09f3b3_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xorg-libxau =1.0.11 =h0dc2134_0
