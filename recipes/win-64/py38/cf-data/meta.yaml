@@ -40,12 +40,12 @@ requirements:
     - scrapy =2.11.0 =py38haa244fe_0
     - seaborn =0.13.2 =hd8ed1ab_0
     - spyder-kernels =2.5.0 =win_pyh7428d3b_0
-    - sqlalchemy =2.0.25 =py38h91455d4_0
+    - sqlalchemy =2.0.26 =py38h91455d4_0
     - sqlite =3.45.1 =hcfcfb64_0
     - statsmodels =0.14.1 =py38he7056a7_0
     - xgboost =2.0.3 =cpu_py38h684852a_0
 
-    # 349 secondary packages :
+    # 344 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_1
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -90,7 +90,6 @@ requirements:
     - colorlover =0.3.0 =py_0
     - comm =0.2.1 =pyhd8ed1ab_0
     - confection =0.1.4 =py38h009e608_0
-    - configparser =5.3.0 =pyhd8ed1ab_0
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.1.1 =py38hb1fd069_1
@@ -100,7 +99,6 @@ requirements:
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cymem =2.0.8 =py38hd3f51b4_1
     - cython-blis =0.7.10 =py38he7056a7_2
-    - databricks-cli =0.18.0 =pyhd8ed1ab_0
     - dataclasses =0.8 =pyhc8e2a94_3
     - datefinder =0.7.3 =pyhd8ed1ab_0
     - debugpy =1.8.1 =py38hd3f51b4_0
@@ -236,7 +234,7 @@ requirements:
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mkl =2024.0.0 =h66d3029_49657
-    - mlflow =2.10.1 =py38hdedce57_0
+    - mlflow =2.10.2 =py38hdedce57_0
     - mlxtend =0.23.1 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - multimethod =1.4 =py_0
@@ -247,7 +245,6 @@ requirements:
     - nltk =3.8.1 =pyhd8ed1ab_0
     - numba =0.58.1 =py38h4a59444_0
     - numexpr =2.7.3 =py38h5d928e2_2
-    - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h3d672ee_3
     - openssl =3.2.1 =hcfcfb64_0
     - orc =1.9.2 =hf6f83f4_1
@@ -290,7 +287,6 @@ requirements:
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0
-    - pyjwt =2.8.0 =pyhd8ed1ab_1
     - pyldavis =3.4.1 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py38hbc1c497_3
     - pynndescent =0.5.11 =pyhca7485f_0
@@ -337,7 +333,6 @@ requirements:
     - sqlparse =0.4.4 =pyhd8ed1ab_0
     - srsly =2.4.8 =py38hd3f51b4_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
-    - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.11.0 =h91493d7_1
     - tenacity =8.2.3 =pyhd8ed1ab_0

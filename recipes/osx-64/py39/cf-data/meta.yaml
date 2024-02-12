@@ -41,12 +41,12 @@ requirements:
     - scrapy =2.11.0 =py39h6e9494a_0
     - seaborn =0.13.2 =hd8ed1ab_0
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.25 =py39ha09f3b3_0
+    - sqlalchemy =2.0.26 =py39ha09f3b3_0
     - sqlite =3.45.1 =h7461747_0
     - statsmodels =0.14.1 =py39h5b4affa_0
     - xgboost =2.0.3 =cpu_py39h15c3653_0
 
-    # 362 secondary packages :
+    # 357 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_1
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -92,7 +92,6 @@ requirements:
     - colorlover =0.3.0 =py_0
     - comm =0.2.1 =pyhd8ed1ab_0
     - confection =0.1.4 =py39hbd905a8_0
-    - configparser =5.3.0 =pyhd8ed1ab_0
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.2.0 =py39h6be1789_0
@@ -102,7 +101,6 @@ requirements:
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cymem =2.0.8 =py39h840bb9f_1
     - cython-blis =0.7.10 =py39hd01001f_2
-    - databricks-cli =0.18.0 =pyhd8ed1ab_0
     - dataclasses =0.8 =pyhc8e2a94_3
     - datefinder =0.7.3 =pyhd8ed1ab_0
     - debugpy =1.8.1 =py39hd253f6c_0
@@ -256,7 +254,7 @@ requirements:
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mkl =2023.2.0 =h54c2260_50500
-    - mlflow =2.10.1 =py39h8ac9d56_0
+    - mlflow =2.10.2 =py39h8ac9d56_0
     - mlxtend =0.23.1 =pyhd8ed1ab_0
     - mpc =1.3.1 =h81bd1dd_0
     - mpfr =4.2.1 =h0c69b56_0
@@ -274,7 +272,6 @@ requirements:
     - nss =3.97 =ha05da47_0
     - numba =0.59.0 =py39hb7f44fa_1
     - numexpr =2.9.0 =py39haf03413_0
-    - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =ha4da562_3
     - openssl =3.2.1 =hd75f5a5_0
     - orc =1.9.2 =ha277160_1
@@ -316,7 +313,6 @@ requirements:
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0
-    - pyjwt =2.8.0 =pyhd8ed1ab_1
     - pyldavis =3.4.1 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py39hdc70f33_3
     - pynndescent =0.5.11 =pyhca7485f_0
@@ -365,7 +361,6 @@ requirements:
     - srsly =2.4.8 =py39h840bb9f_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - sympy =1.12 =pypyh9d50eac_103
-    - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.11.0 =h7728843_1
     - tenacity =8.2.3 =pyhd8ed1ab_0
