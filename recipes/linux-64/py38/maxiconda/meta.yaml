@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py38h01eb140_0
     - cython =3.0.8 =py38h17151c0_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.98.3 =pyha770c72_0
+    - hypothesis =6.98.4 =pyha770c72_0
     - ipython =8.12.2 =pyh41d4057_0
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38h578d9bd_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 485 secondary packages :
+    # 479 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -140,13 +140,7 @@ requirements:
     - gst-plugins-base =1.22.9 =h8e1006c_0
     - gstreamer =1.22.9 =h98fc4e7_0
     - gxx_impl_linux-64 =13.2.0 =h338b0a0_5
-    - h11 =0.14.0 =pyhd8ed1ab_0
-    - h2 =4.1.0 =py38h578d9bd_0
     - harfbuzz =8.3.0 =h3d44ed6_0
-    - hpack =4.0.0 =pyh9f0ad1d_0
-    - httpcore =1.0.2 =pyhd8ed1ab_0
-    - httpx =0.26.0 =pyhd8ed1ab_0
-    - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =73.2 =h59595ed_0
     - idna =3.6 =pyhd8ed1ab_0
     - importlib-metadata =7.0.1 =pyha770c72_0
@@ -168,7 +162,7 @@ requirements:
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
     - jupyter_server =2.12.5 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.2 =pyhd8ed1ab_0
-    - jupyterlab =4.1.0 =pyhd8ed1ab_0
+    - jupyterlab =4.0.12 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - jupyterlab_server =2.25.2 =pyhd8ed1ab_0
     - kernel-headers_linux-64 =2.6.32 =he073ed8_16
@@ -253,7 +247,7 @@ requirements:
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h59595ed_2
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
-    - notebook =7.0.7 =pyhd8ed1ab_0
+    - notebook =7.0.8 =pyhd8ed1ab_0
     - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - nspr =4.35 =h27087fc_0
     - nss =3.97 =h1d7d5a4_0
@@ -294,7 +288,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-fastjsonschema =2.19.1 =pyhd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
-    - python-tzdata =2023.4 =pyhd8ed1ab_0
+    - python-tzdata =2024.1 =pyhd8ed1ab_0
     - python-utils =3.8.2 =pyhd8ed1ab_0
     - python_abi =3.8 =4_cp38
     - pytz =2024.1 =pyhd8ed1ab_0
@@ -441,7 +435,7 @@ requirements:
     - r-rmarkdown =2.25 =r43hc72bb7e_0
     - r-rpart =4.1.23 =r43h57805ef_0
     - r-rstudioapi =0.15.0 =r43hc72bb7e_0
-    - r-rvest =1.0.3 =r43hc72bb7e_2
+    - r-rvest =1.0.4 =r43hc72bb7e_0
     - r-sass =0.4.8 =r43ha503ecb_0
     - r-scales =1.3.0 =r43hc72bb7e_0
     - r-selectr =0.4_2 =r43hc72bb7e_3

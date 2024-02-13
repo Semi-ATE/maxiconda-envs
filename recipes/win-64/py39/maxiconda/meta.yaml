@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py39ha55989b_0
     - cython =3.0.8 =py39h99910a6_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.98.3 =pyha770c72_0
+    - hypothesis =6.98.4 =pyha770c72_0
     - ipython =8.18.1 =pyh7428d3b_3
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.8.2 =py39hcbf5309_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 441 secondary packages :
+    # 435 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -124,13 +124,7 @@ requirements:
     - greenlet =3.0.3 =py39h99910a6_0
     - gst-plugins-base =1.22.9 =h001b923_0
     - gstreamer =1.22.9 =hb4038d2_0
-    - h11 =0.14.0 =pyhd8ed1ab_0
-    - h2 =4.1.0 =py39hcbf5309_0
     - harfbuzz =8.3.0 =h7ab893a_0
-    - hpack =4.0.0 =pyh9f0ad1d_0
-    - httpcore =1.0.2 =pyhd8ed1ab_0
-    - httpx =0.26.0 =pyhd8ed1ab_0
-    - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =73.2 =h63175ca_0
     - idna =3.6 =pyhd8ed1ab_0
     - importlib-metadata =7.0.1 =pyha770c72_0
@@ -153,7 +147,7 @@ requirements:
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
     - jupyter_server =2.12.5 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.2 =pyhd8ed1ab_0
-    - jupyterlab =4.1.0 =pyhd8ed1ab_0
+    - jupyterlab =4.0.12 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - jupyterlab_server =2.25.2 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py39h1f6ef14_1
@@ -230,7 +224,7 @@ requirements:
     - nbconvert-core =7.16.0 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
-    - notebook =7.0.7 =pyhd8ed1ab_0
+    - notebook =7.0.8 =pyhd8ed1ab_0
     - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =h3d672ee_3
     - openssl =3.2.1 =hcfcfb64_0
@@ -264,7 +258,7 @@ requirements:
     - python-dateutil =2.8.2 =pyhd8ed1ab_0
     - python-fastjsonschema =2.19.1 =pyhd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
-    - python-tzdata =2023.4 =pyhd8ed1ab_0
+    - python-tzdata =2024.1 =pyhd8ed1ab_0
     - python-utils =3.8.2 =pyhd8ed1ab_0
     - python_abi =3.9 =4_cp39
     - pytz =2024.1 =pyhd8ed1ab_0
