@@ -56,7 +56,7 @@ requirements:
     - scipy =1.10.1 =py38he3f4005_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.26 =py38hea3b116_0
+    - sqlalchemy =2.0.27 =py38hea3b116_0
     - sqlite =3.45.1 =h3b3482f_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.66.2 =pyhd8ed1ab_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 479 secondary packages :
+    # 485 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - _sysroot_linux-aarch64_curr_repodata_hack =4 =h57d6b7b_13
@@ -140,7 +140,13 @@ requirements:
     - gst-plugins-base =1.22.9 =h6d82d15_0
     - gstreamer =1.22.9 =hed71854_0
     - gxx_impl_linux-aarch64 =13.2.0 =h5669b93_5
+    - h11 =0.14.0 =pyhd8ed1ab_0
+    - h2 =4.1.0 =py38h2063c64_0
     - harfbuzz =8.3.0 =hebeb849_0
+    - hpack =4.0.0 =pyh9f0ad1d_0
+    - httpcore =1.0.2 =pyhd8ed1ab_0
+    - httpx =0.26.0 =pyhd8ed1ab_0
+    - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =73.2 =h787c7f5_0
     - idna =3.6 =pyhd8ed1ab_0
     - importlib-metadata =7.0.1 =pyha770c72_0
@@ -162,7 +168,7 @@ requirements:
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
     - jupyter_server =2.12.5 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.2 =pyhd8ed1ab_0
-    - jupyterlab =4.0.12 =pyhd8ed1ab_0
+    - jupyterlab =4.1.1 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - jupyterlab_server =2.25.2 =pyhd8ed1ab_0
     - kernel-headers_linux-aarch64 =4.18.0 =h5b4a56d_13
@@ -247,7 +253,7 @@ requirements:
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h0425590_2
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
-    - notebook =7.0.8 =pyhd8ed1ab_0
+    - notebook =7.1.0 =pyhd8ed1ab_0
     - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - nspr =4.35 =h4de3ea5_0
     - nss =3.97 =hc5a5cc2_0

@@ -55,7 +55,7 @@ requirements:
     - scipy =1.12.0 =py39hcc04109_2
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
-    - sqlalchemy =2.0.26 =py39h17cfd9d_0
+    - sqlalchemy =2.0.27 =py39h17cfd9d_0
     - sqlite =3.45.1 =hf2abe2d_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.66.2 =pyhd8ed1ab_0
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 447 secondary packages :
+    # 453 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -141,7 +141,13 @@ requirements:
     - greenlet =3.0.3 =py39hf3050f2_0
     - gst-plugins-base =1.22.9 =h09b4b5e_0
     - gstreamer =1.22.9 =h551c6ff_0
+    - h11 =0.14.0 =pyhd8ed1ab_0
+    - h2 =4.1.0 =pyhd8ed1ab_0
     - harfbuzz =8.3.0 =h8f0ba13_0
+    - hpack =4.0.0 =pyh9f0ad1d_0
+    - httpcore =1.0.2 =pyhd8ed1ab_0
+    - httpx =0.26.0 =pyhd8ed1ab_0
+    - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =73.2 =hc8870d7_0
     - idna =3.6 =pyhd8ed1ab_0
     - importlib-metadata =7.0.1 =pyha770c72_0
@@ -164,7 +170,7 @@ requirements:
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
     - jupyter_server =2.12.5 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.2 =pyhd8ed1ab_0
-    - jupyterlab =4.0.12 =pyhd8ed1ab_0
+    - jupyterlab =4.1.1 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - jupyterlab_server =2.25.2 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py39hbd775c9_1
@@ -232,7 +238,7 @@ requirements:
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h463b476_2
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
-    - notebook =7.0.8 =pyhd8ed1ab_0
+    - notebook =7.1.0 =pyhd8ed1ab_0
     - notebook-shim =0.2.3 =pyhd8ed1ab_0
     - nspr =4.35 =hb7217d7_0
     - nss =3.97 =h5ce2875_0
