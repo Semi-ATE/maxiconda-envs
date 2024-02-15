@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py38hae2e43d_0
     - cython =3.0.8 =py38h1f5f77c_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.98.4 =pyha770c72_0
+    - hypothesis =6.98.5 =pyha770c72_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38h50d1736_0
@@ -148,7 +148,7 @@ requirements:
     - h2 =4.1.0 =py38h50d1736_0
     - harfbuzz =8.3.0 =hf45c392_0
     - hpack =4.0.0 =pyh9f0ad1d_0
-    - httpcore =1.0.2 =pyhd8ed1ab_0
+    - httpcore =1.0.3 =pyhd8ed1ab_0
     - httpx =0.26.0 =pyhd8ed1ab_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =73.2 =hf5e326d_0
@@ -175,7 +175,7 @@ requirements:
     - jupyter_server_terminals =0.5.2 =pyhd8ed1ab_0
     - jupyterlab =4.1.1 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
-    - jupyterlab_server =2.25.2 =pyhd8ed1ab_0
+    - jupyterlab_server =2.25.3 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py38h15a1a5b_1
     - krb5 =1.21.2 =hb884880_0
     - lcms2 =2.16 =ha2f27b4_0
@@ -242,7 +242,7 @@ requirements:
     - ncurses =6.4 =h93d8f39_2
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - notebook =7.1.0 =pyhd8ed1ab_0
-    - notebook-shim =0.2.3 =pyhd8ed1ab_0
+    - notebook-shim =0.2.4 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
     - nss =3.97 =ha05da47_0
     - openjpeg =2.5.0 =ha4da562_3
@@ -266,7 +266,7 @@ requirements:
     - ply =3.11 =py_1
     - pooch =1.8.0 =pyhd8ed1ab_0
     - progressbar2 =4.3.2 =pyhd8ed1ab_0
-    - prometheus_client =0.19.0 =pyhd8ed1ab_0
+    - prometheus_client =0.20.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.42 =pyha770c72_0
     - prompt_toolkit =3.0.42 =hd8ed1ab_0
     - pthread-stubs =0.4 =hc929b4f_1001
@@ -408,7 +408,7 @@ requirements:
     - r-pryr =0.1.6 =r43hac7d2d5_1
     - r-ps =1.7.6 =r43hb2c329c_0
     - r-purrr =1.0.2 =r43h6dc245f_0
-    - r-quantmod =0.4.25 =r43hc72bb7e_0
+    - r-quantmod =0.4.26 =r43hc72bb7e_0
     - r-r6 =2.5.1 =r43hc72bb7e_2
     - r-ragg =1.2.7 =r43h1914a8a_0
     - r-randomforest =4.7_1.1 =r43hfe07776_2
@@ -441,7 +441,7 @@ requirements:
     - r-squarem =2021.1 =r43hc72bb7e_2
     - r-stringi =1.8.3 =r43hb55eabf_0
     - r-stringr =1.5.1 =r43h785f33e_0
-    - r-survival =3.5_7 =r43h6dc245f_0
+    - r-survival =3.5_8 =r43hb2c329c_0
     - r-sys =3.4.2 =r43h6dc245f_1
     - r-systemfonts =1.0.5 =r43hac8360d_0
     - r-textshaping =0.3.7 =r43hfe21e11_0
@@ -473,7 +473,7 @@ requirements:
     - referencing =0.33.0 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.17.1 =py38h51dbebd_0
+    - rpds-py =0.18.0 =py38h3614dca_0
     - ruamel.yaml =0.18.6 =py38hae2e43d_0
     - ruamel.yaml.clib =0.2.8 =py38hae2e43d_0
     - ruamel.yaml.jinja2 =0.2.4 =py_1

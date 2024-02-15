@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py39ha55989b_0
     - cython =3.0.8 =py39h99910a6_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.98.4 =pyha770c72_0
+    - hypothesis =6.98.5 =pyha770c72_0
     - ipython =8.18.1 =pyh7428d3b_3
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.8.2 =py39hcbf5309_0
@@ -128,7 +128,7 @@ requirements:
     - h2 =4.1.0 =py39hcbf5309_0
     - harfbuzz =8.3.0 =h7ab893a_0
     - hpack =4.0.0 =pyh9f0ad1d_0
-    - httpcore =1.0.2 =pyhd8ed1ab_0
+    - httpcore =1.0.3 =pyhd8ed1ab_0
     - httpx =0.26.0 =pyhd8ed1ab_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =73.2 =h63175ca_0
@@ -250,7 +250,7 @@ requirements:
     - pluggy =1.4.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - progressbar2 =4.3.2 =pyhd8ed1ab_0
-    - prometheus_client =0.19.0 =pyhd8ed1ab_0
+    - prometheus_client =0.20.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.42 =pyha770c72_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
@@ -423,7 +423,7 @@ requirements:
     - r-squarem =2021.1 =r41hc72bb7e_1
     - r-stringi =1.8.3 =r41ha856d6a_0
     - r-stringr =1.5.0 =r41h785f33e_0
-    - r-survival =3.5_7 =r41h6d2157b_0
+    - r-survival =3.5_8 =r41h6d2157b_0
     - r-sys =3.4.2 =r41h6d2157b_1
     - r-systemfonts =1.0.5 =r41h93c4b31_0
     - r-textshaping =0.3.7 =r41h62baadc_0
@@ -454,7 +454,7 @@ requirements:
     - referencing =0.33.0 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.17.1 =py39hf21820d_0
+    - rpds-py =0.18.0 =py39hf21820d_0
     - ruamel.yaml =0.18.6 =py39ha55989b_0
     - ruamel.yaml.clib =0.2.8 =py39ha55989b_0
     - ruamel.yaml.jinja2 =0.2.4 =py_1
