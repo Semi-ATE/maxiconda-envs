@@ -31,13 +31,13 @@ requirements:
     - matplotlib =3.7.3 =py38haa244fe_0
     - numpy =1.24.4 =py38h1d91fd2_0
     - pandas =2.0.3 =py38hf08cf0d_1
-    - plotly =5.18.0 =pyhd8ed1ab_0
+    - plotly =5.19.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =2.0.0 =py38haa244fe_0
     - pyqt =5.15.9 =py38hd6c051e_5
     - scikit-learn =1.3.2 =py38h4f736e5_2
     - scipy =1.10.1 =py38h1aea9ed_3
-    - scrapy =2.11.0 =py38haa244fe_0
+    - scrapy =2.11.1 =py38haa244fe_2
     - seaborn =0.13.2 =hd8ed1ab_0
     - spyder-kernels =2.5.0 =win_pyh7428d3b_0
     - sqlalchemy =2.0.27 =py38h91455d4_0
@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.1 =py38he7056a7_0
     - xgboost =2.0.3 =cpu_py38h684852a_0
 
-    # 344 secondary packages :
+    # 345 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_1
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -234,7 +234,8 @@ requirements:
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mkl =2024.0.0 =h66d3029_49657
-    - mlflow =2.10.2 =py38hdedce57_0
+    - mlflow =2.10.2 =haa244fe_1
+    - mlflow-skinny =2.10.2 =py38haa244fe_1
     - mlxtend =0.23.1 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - multimethod =1.4 =py_0
@@ -306,7 +307,7 @@ requirements:
     - pywin32-on-windows =0.1.0 =pyh07e9846_2
     - pyyaml =6.0.1 =py38h91455d4_1
     - pyzmq =25.1.2 =py38hdecc13b_0
-    - qt-main =5.15.8 =h9e85ed6_18
+    - qt-main =5.15.8 =h9e85ed6_19
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
     - re2 =2023.06.02 =hcbb65ff_0
@@ -346,7 +347,7 @@ requirements:
     - tornado =6.3.3 =py38h91455d4_1
     - tqdm =4.66.2 =pyhd8ed1ab_0
     - traitlets =5.14.1 =pyhd8ed1ab_0
-    - twisted =22.10.0 =py38h91455d4_0
+    - twisted =23.10.0 =py38h91455d4_0
     - twisted-iocpsupport =1.0.4 =py38h91455d4_1
     - typer =0.9.0 =pyhd8ed1ab_0
     - typing-extensions =4.9.0 =hd8ed1ab_0

@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py38h01eb140_0
     - cython =3.0.8 =py38h17151c0_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.98.5 =pyha770c72_0
+    - hypothesis =6.98.6 =pyha770c72_0
     - ipython =8.12.2 =pyh41d4057_0
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38h578d9bd_0
@@ -170,8 +170,8 @@ requirements:
     - jupyter_server_terminals =0.5.2 =pyhd8ed1ab_0
     - jupyterlab =4.1.1 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
-    - jupyterlab_server =2.25.2 =pyhd8ed1ab_0
-    - kernel-headers_linux-64 =2.6.32 =he073ed8_16
+    - jupyterlab_server =2.25.3 =pyhd8ed1ab_0
+    - kernel-headers_linux-64 =2.6.32 =he073ed8_17
     - keyutils =1.6.1 =h166bdaf_0
     - kiwisolver =1.4.5 =py38h7f3f72f_1
     - krb5 =1.21.2 =h659d440_0
@@ -254,14 +254,14 @@ requirements:
     - ncurses =6.4 =h59595ed_2
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - notebook =7.1.0 =pyhd8ed1ab_0
-    - notebook-shim =0.2.3 =pyhd8ed1ab_0
+    - notebook-shim =0.2.4 =pyhd8ed1ab_0
     - nspr =4.35 =h27087fc_0
     - nss =3.97 =h1d7d5a4_0
     - openjpeg =2.5.0 =h488ebb8_3
     - openssl =3.2.1 =hd590300_0
     - overrides =7.7.0 =pyhd8ed1ab_0
     - packaging =23.2 =pyhd8ed1ab_0
-    - pandoc =3.1.11.1 =ha770c72_0
+    - pandoc =3.1.12 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.50.14 =ha41ecd1_2
     - parso =0.8.3 =pyhd8ed1ab_0
@@ -299,7 +299,7 @@ requirements:
     - python_abi =3.8 =4_cp38
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyzmq =25.1.2 =py38h34c975a_0
-    - qt-main =5.15.8 =h450f30e_18
+    - qt-main =5.15.8 =h5810be5_19
     - qtpy =2.4.1 =pyhd8ed1ab_0
     - r-askpass =1.2.0 =r43h57805ef_0
     - r-assertthat =0.2.1 =r43hc72bb7e_4
@@ -403,7 +403,7 @@ requirements:
     - r-nnet =7.3_19 =r43h57805ef_1
     - r-numderiv =2016.8_1.1 =r43hc72bb7e_5
     - r-openssl =2.1.1 =r43hb353fa6_0
-    - r-parallelly =1.36.0 =r43hc72bb7e_1
+    - r-parallelly =1.37.0 =r43hc72bb7e_0
     - r-pbdzmq =0.3_11 =r43hc2df49b_0
     - r-pillar =1.9.0 =r43hc72bb7e_1
     - r-pkgconfig =2.0.3 =r43hc72bb7e_3
@@ -500,7 +500,7 @@ requirements:
     - soupsieve =2.5 =pyhd8ed1ab_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - stdlib-list =0.10.0 =pyhd8ed1ab_0
-    - sysroot_linux-64 =2.12 =he073ed8_16
+    - sysroot_linux-64 =2.12 =he073ed8_17
     - terminado =0.18.0 =pyh0d859eb_0
     - tinycss2 =1.2.1 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_h4845f30_101

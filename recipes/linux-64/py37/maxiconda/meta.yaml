@@ -152,7 +152,7 @@ requirements:
     - jupyter_core =4.11.1 =py37h89c1867_0
     - jupyter_server =1.23.4 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
-    - kernel-headers_linux-64 =2.6.32 =he073ed8_16
+    - kernel-headers_linux-64 =2.6.32 =he073ed8_17
     - keyutils =1.6.1 =h166bdaf_0
     - kiwisolver =1.4.4 =py37h7cecad7_0
     - krb5 =1.20.1 =h81ceb04_0
@@ -240,13 +240,13 @@ requirements:
     - ncurses =6.4 =h59595ed_2
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - notebook =6.5.6 =pyha770c72_0
-    - notebook-shim =0.2.3 =pyhd8ed1ab_0
+    - notebook-shim =0.2.4 =pyhd8ed1ab_0
     - nspr =4.35 =h27087fc_0
     - nss =3.97 =h1d7d5a4_0
     - openjpeg =2.5.0 =h7d73246_1
     - openssl =3.1.5 =hd590300_0
     - packaging =23.2 =pyhd8ed1ab_0
-    - pandoc =3.1.11.1 =ha770c72_0
+    - pandoc =3.1.12 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.50.14 =hd33c08f_0
     - parso =0.8.3 =pyhd8ed1ab_0
@@ -383,7 +383,7 @@ requirements:
     - r-nnet =7.3_19 =r42h57805ef_1
     - r-numderiv =2016.8_1.1 =r42hc72bb7e_5
     - r-openssl =2.1.1 =r42hb353fa6_0
-    - r-parallelly =1.36.0 =r42hc72bb7e_1
+    - r-parallelly =1.37.0 =r42hc72bb7e_0
     - r-pbdzmq =0.3_11 =r42hc2df49b_0
     - r-pillar =1.9.0 =r42hc72bb7e_1
     - r-pkgconfig =2.0.3 =r42hc72bb7e_3
@@ -471,7 +471,7 @@ requirements:
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
     - soupsieve =2.3.2.post1 =pyhd8ed1ab_0
     - stdlib-list =0.10.0 =pyhd8ed1ab_0
-    - sysroot_linux-64 =2.12 =he073ed8_16
+    - sysroot_linux-64 =2.12 =he073ed8_17
     - terminado =0.17.1 =pyh41d4057_0
     - tinycss2 =1.2.1 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_h4845f30_101

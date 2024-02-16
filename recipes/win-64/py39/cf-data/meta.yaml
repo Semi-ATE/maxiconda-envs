@@ -28,16 +28,16 @@ requirements:
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - bokeh =3.3.4 =pyhd8ed1ab_0
     - lightgbm =4.3.0 =py39h99910a6_0
-    - matplotlib =3.8.2 =py39hcbf5309_0
+    - matplotlib =3.8.3 =py39hcbf5309_0
     - numpy =1.26.4 =py39hddb5d58_0
     - pandas =2.2.0 =py39h32e6231_0
-    - plotly =5.18.0 =pyhd8ed1ab_0
+    - plotly =5.19.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =2.0.0 =py39hcbf5309_0
     - pyqt =5.15.9 =py39hb77abff_5
     - scikit-learn =1.4.0 =py39h7c199eb_0
     - scipy =1.12.0 =py39hddb5d58_2
-    - scrapy =2.11.0 =py39hcbf5309_0
+    - scrapy =2.11.1 =py39hcbf5309_2
     - seaborn =0.13.2 =hd8ed1ab_0
     - spyder-kernels =2.5.0 =win_pyh7428d3b_0
     - sqlalchemy =2.0.27 =py39ha55989b_0
@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.1 =py39hd88c2e4_0
     - xgboost =2.0.3 =cpu_py39hd3de297_0
 
-    # 343 secondary packages :
+    # 344 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_1
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -228,13 +228,14 @@ requirements:
     - markdown =3.5.2 =pyhd8ed1ab_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py39ha55989b_0
-    - matplotlib-base =3.8.2 =py39hf19769e_0
+    - matplotlib-base =3.8.3 =py39hf19769e_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mdurl =0.1.2 =pyhd8ed1ab_0
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mkl =2024.0.0 =h66d3029_49657
-    - mlflow =2.10.2 =py39h54a35c1_0
+    - mlflow =2.10.2 =hcbf5309_1
+    - mlflow-skinny =2.10.2 =py39hcbf5309_1
     - mlxtend =0.23.1 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - multimethod =1.4 =py_0
@@ -304,7 +305,7 @@ requirements:
     - pywin32-on-windows =0.1.0 =pyh07e9846_2
     - pyyaml =6.0.1 =py39ha55989b_1
     - pyzmq =25.1.2 =py39h7eaf5a6_0
-    - qt-main =5.15.8 =h9e85ed6_18
+    - qt-main =5.15.8 =h9e85ed6_19
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
     - re2 =2023.06.02 =hcbb65ff_0
@@ -344,7 +345,7 @@ requirements:
     - tornado =6.3.3 =py39ha55989b_1
     - tqdm =4.66.2 =pyhd8ed1ab_0
     - traitlets =5.14.1 =pyhd8ed1ab_0
-    - twisted =22.10.0 =py39ha55989b_0
+    - twisted =23.10.0 =py39ha55989b_0
     - twisted-iocpsupport =1.0.4 =py39ha55989b_1
     - typer =0.9.0 =pyhd8ed1ab_0
     - typing-extensions =4.9.0 =hd8ed1ab_0
