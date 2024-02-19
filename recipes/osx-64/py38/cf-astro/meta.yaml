@@ -40,8 +40,8 @@ requirements:
     - decorator =5.1.1 =pyhd8ed1ab_0
     - executing =2.0.1 =pyhd8ed1ab_0
     - gettext =0.21.1 =h8a4c099_0
-    - glib =2.78.3 =hf4d7fad_0
-    - glib-tools =2.78.3 =hf4d7fad_0
+    - glib =2.78.4 =h2d185b6_0
+    - glib-tools =2.78.4 =h2d185b6_0
     - gst-plugins-base =1.22.9 =h3fb38fc_0
     - gstreamer =1.22.9 =hf63bbb8_0
     - icu =73.2 =hf5e326d_0
@@ -58,7 +58,7 @@ requirements:
     - libcxx =16.0.6 =hd57cbcb_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libffi =3.4.2 =h0d85af4_5
-    - libglib =2.78.3 =h198397b_0
+    - libglib =2.78.4 =hab64008_0
     - libiconv =1.17 =hd75f5a5_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - libllvm15 =15.0.7 =hbedff68_4
@@ -99,7 +99,7 @@ requirements:
     - pyzmq =25.1.2 =py38ha51bd64_0
     - qt-main =5.15.8 =h4385fff_19
     - readline =8.2 =h9e318b2_1
-    - setuptools =69.0.3 =pyhd8ed1ab_0
+    - setuptools =69.1.0 =pyhd8ed1ab_0
     - sip =6.7.12 =py38hb2f96d7_0
     - six =1.16.0 =pyh6c4a22f_0
     - stack_data =0.6.2 =pyhd8ed1ab_0

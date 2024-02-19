@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.1 =py38he7056a7_0
     - xgboost =2.0.3 =cpu_py38h684852a_0
 
-    # 345 secondary packages :
+    # 346 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_1
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -128,8 +128,8 @@ requirements:
     - gettext =0.21.1 =h5728263_0
     - gitdb =4.0.11 =pyhd8ed1ab_0
     - gitpython =3.1.42 =pyhd8ed1ab_0
-    - glib =2.78.3 =h12be248_0
-    - glib-tools =2.78.3 =h12be248_0
+    - glib =2.78.4 =h12be248_0
+    - glib-tools =2.78.4 =h12be248_0
     - graphite2 =1.3.13 =1000
     - graphviz =9.0.0 =h51cb2cd_1
     - greenlet =3.0.3 =py38hd3f51b4_0
@@ -190,7 +190,7 @@ requirements:
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h312136b_9
-    - libglib =2.78.3 =h16e383f_0
+    - libglib =2.78.4 =h16e383f_0
     - libgoogle-cloud =2.12.0 =hc7cbac0_5
     - libgrpc =1.60.1 =h0bf0bfa_0
     - libhwloc =2.9.3 =default_haede6df_1009
@@ -234,8 +234,9 @@ requirements:
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.4.2 =py_1
     - mkl =2024.0.0 =h66d3029_49657
-    - mlflow =2.10.2 =haa244fe_1
-    - mlflow-skinny =2.10.2 =py38haa244fe_1
+    - mlflow =2.10.2 =haa244fe_2
+    - mlflow-skinny =2.10.2 =py38haa244fe_2
+    - mlflow-ui =2.10.2 =py38haa244fe_2
     - mlxtend =0.23.1 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - multimethod =1.4 =py_0
@@ -319,7 +320,7 @@ requirements:
     - seaborn-base =0.13.2 =pyhd8ed1ab_0
     - service-identity =21.1.0 =pyhd8ed1ab_0
     - service_identity =21.1.0 =hd8ed1ab_0
-    - setuptools =69.0.3 =pyhd8ed1ab_0
+    - setuptools =69.1.0 =pyhd8ed1ab_0
     - shellingham =1.5.4 =pyhd8ed1ab_0
     - simpful =2.11.1 =pyhd8ed1ab_0
     - sip =6.7.12 =py38hd3f51b4_0
@@ -355,7 +356,7 @@ requirements:
     - ucrt =10.0.22621.0 =h57928b3_0
     - umap-learn =0.5.5 =py38haa244fe_1
     - unicodedata2 =15.1.0 =py38h91455d4_0
-    - urllib3 =2.2.0 =pyhd8ed1ab_0
+    - urllib3 =2.2.1 =pyhd8ed1ab_0
     - vc =14.3 =hcf57466_18
     - vc14_runtime =14.38.33130 =h82b7239_18
     - visions =0.7.1 =pyhd8ed1ab_0

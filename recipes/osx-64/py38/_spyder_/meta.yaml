@@ -49,7 +49,7 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - binaryornot =0.4.4 =py_1
-    - black =24.1.1 =py38h50d1736_0
+    - black =24.2.0 =py38h50d1736_0
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =h0dc2134_1
     - brotli-bin =1.1.0 =h0dc2134_1
@@ -80,8 +80,8 @@ requirements:
     - freetype =2.12.1 =h60636b9_2
     - gettext =0.21.1 =h8a4c099_0
     - giflib =5.2.1 =hb7f2c08_3
-    - glib =2.78.3 =hf4d7fad_0
-    - glib-tools =2.78.3 =hf4d7fad_0
+    - glib =2.78.4 =h2d185b6_0
+    - glib-tools =2.78.4 =h2d185b6_0
     - gmp =6.3.0 =h93d8f39_0
     - gmpy2 =2.1.2 =py38h919de47_1
     - gst-plugins-base =1.22.9 =h3fb38fc_0
@@ -125,7 +125,7 @@ requirements:
     - libffi =3.4.2 =h0d85af4_5
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.78.3 =h198397b_0
+    - libglib =2.78.4 =hab64008_0
     - libiconv =1.17 =hd75f5a5_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =20_osx64_openblas
@@ -174,7 +174,7 @@ requirements:
     - openjpeg =2.5.0 =ha4da562_3
     - openssl =3.2.1 =hd75f5a5_0
     - packaging =23.2 =pyhd8ed1ab_0
-    - pandoc =3.1.12 =h694c41f_0
+    - pandoc =3.1.12.1 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
@@ -237,7 +237,7 @@ requirements:
     - rope =1.12.0 =pyhd8ed1ab_0
     - rpds-py =0.18.0 =py38h3614dca_0
     - rtree =1.2.0 =py38hc59ffc2_0
-    - setuptools =69.0.3 =pyhd8ed1ab_0
+    - setuptools =69.1.0 =pyhd8ed1ab_0
     - sip =6.7.12 =py38hb2f96d7_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
@@ -268,7 +268,7 @@ requirements:
     - typing_extensions =4.9.0 =pyha770c72_0
     - ujson =5.9.0 =py38hb2f96d7_0
     - unicodedata2 =15.1.0 =py38hcafd530_0
-    - urllib3 =2.2.0 =pyhd8ed1ab_0
+    - urllib3 =2.2.1 =pyhd8ed1ab_0
     - watchdog =4.0.0 =py38h2bea1e5_0
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2

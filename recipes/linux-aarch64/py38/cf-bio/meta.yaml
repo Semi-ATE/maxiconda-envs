@@ -72,8 +72,8 @@ requirements:
     - freetype =2.12.1 =hf0a5ef3_2
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =ha18d298_0
-    - glib =2.78.3 =hd84c7bf_0
-    - glib-tools =2.78.3 =hd84c7bf_0
+    - glib =2.78.4 =hd84c7bf_0
+    - glib-tools =2.78.4 =hd84c7bf_0
     - graphite2 =1.3.13 =h7fd3ca4_1001
     - greenlet =3.0.3 =py38hb83fbf6_0
     - gst-plugins-base =1.22.0 =h8a62080_2
@@ -119,7 +119,7 @@ requirements:
     - libgcrypt =1.10.3 =h31becfc_0
     - libgfortran-ng =13.2.0 =he9431aa_5
     - libgfortran5 =13.2.0 =h582850c_5
-    - libglib =2.78.3 =h311d5f7_0
+    - libglib =2.78.4 =h311d5f7_0
     - libgomp =13.2.0 =hf8544c7_5
     - libgpg-error =1.47 =h5ce24db_0
     - libiconv =1.17 =h31becfc_2
@@ -195,7 +195,7 @@ requirements:
     - reportlab =4.1.0 =py38h9579f32_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
-    - setuptools =69.0.3 =pyhd8ed1ab_0
+    - setuptools =69.1.0 =pyhd8ed1ab_0
     - sip =6.8.3 =py38hed0da46_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =2.0.27 =py38hea3b116_0
@@ -208,7 +208,7 @@ requirements:
     - typing-extensions =4.9.0 =hd8ed1ab_0
     - typing_extensions =4.9.0 =pyha770c72_0
     - unicodedata2 =15.1.0 =py38h9579f32_0
-    - urllib3 =2.2.0 =pyhd8ed1ab_0
+    - urllib3 =2.2.1 =pyhd8ed1ab_0
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - wheel =0.42.0 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0

@@ -77,8 +77,8 @@ requirements:
     - freetype =2.12.1 =h60636b9_2
     - gettext =0.21.1 =h8a4c099_0
     - giflib =5.2.1 =hb7f2c08_3
-    - glib =2.78.3 =hf4d7fad_0
-    - glib-tools =2.78.3 =hf4d7fad_0
+    - glib =2.78.4 =h2d185b6_0
+    - glib-tools =2.78.4 =h2d185b6_0
     - gmp =6.3.0 =h93d8f39_0
     - gmpy2 =2.1.2 =py37h60f582e_0
     - gst-plugins-base =1.22.9 =h3fb38fc_0
@@ -122,7 +122,7 @@ requirements:
     - libffi =3.4.2 =h0d85af4_5
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.78.3 =h198397b_0
+    - libglib =2.78.4 =hab64008_0
     - libiconv =1.17 =hd75f5a5_2
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm13 =13.0.1 =h64f94b2_2
@@ -169,7 +169,7 @@ requirements:
     - openjpeg =2.5.0 =h5d0d7b0_1
     - openssl =3.1.5 =hd75f5a5_0
     - packaging =23.2 =pyhd8ed1ab_0
-    - pandoc =3.1.12 =h694c41f_0
+    - pandoc =3.1.12.1 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
@@ -256,7 +256,7 @@ requirements:
     - typing_extensions =4.7.1 =pyha770c72_0
     - ujson =5.5.0 =py37hac51a3e_0
     - unicodedata2 =14.0.0 =py37h69ee0a8_1
-    - urllib3 =2.2.0 =pyhd8ed1ab_0
+    - urllib3 =2.2.1 =pyhd8ed1ab_0
     - watchdog =2.1.9 =py37h5ce5e91_0
     - wcwidth =0.2.10 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2

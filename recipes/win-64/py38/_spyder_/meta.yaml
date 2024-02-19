@@ -48,7 +48,7 @@ requirements:
     - bcrypt =4.1.2 =py38h4900a04_0
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - binaryornot =0.4.4 =py_1
-    - black =24.1.1 =py38haa244fe_0
+    - black =24.2.0 =py38haa244fe_0
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =hcfcfb64_1
     - brotli-bin =1.1.0 =hcfcfb64_1
@@ -80,8 +80,8 @@ requirements:
     - fonttools =4.49.0 =py38h91455d4_0
     - freetype =2.12.1 =hdaf720e_2
     - gettext =0.21.1 =h5728263_0
-    - glib =2.78.3 =h12be248_0
-    - glib-tools =2.78.3 =h12be248_0
+    - glib =2.78.4 =h12be248_0
+    - glib-tools =2.78.4 =h12be248_0
     - gst-plugins-base =1.22.9 =h001b923_0
     - gstreamer =1.22.9 =hb4038d2_0
     - icu =73.2 =h63175ca_0
@@ -120,7 +120,7 @@ requirements:
     - libclang13 =15.0.7 =default_h85b4d89_4
     - libdeflate =1.19 =hcfcfb64_0
     - libffi =3.4.2 =h8ffe710_5
-    - libglib =2.78.3 =h16e383f_0
+    - libglib =2.78.4 =h16e383f_0
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =hcfcfb64_2
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
@@ -165,7 +165,7 @@ requirements:
     - openjpeg =2.5.0 =h3d672ee_3
     - openssl =3.2.1 =hcfcfb64_0
     - packaging =23.2 =pyhd8ed1ab_0
-    - pandoc =3.1.12 =h57928b3_0
+    - pandoc =3.1.12.1 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - paramiko =3.4.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
@@ -228,7 +228,7 @@ requirements:
     - rope =1.12.0 =pyhd8ed1ab_0
     - rpds-py =0.18.0 =py38h4900a04_0
     - rtree =1.2.0 =py38h8b54edf_0
-    - setuptools =69.0.3 =pyhd8ed1ab_0
+    - setuptools =69.1.0 =pyhd8ed1ab_0
     - sip =6.7.12 =py38hd3f51b4_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
@@ -261,7 +261,7 @@ requirements:
     - ucrt =10.0.22621.0 =h57928b3_0
     - ujson =5.9.0 =py38hd3f51b4_0
     - unicodedata2 =15.1.0 =py38h91455d4_0
-    - urllib3 =2.2.0 =pyhd8ed1ab_0
+    - urllib3 =2.2.1 =pyhd8ed1ab_0
     - vc =14.3 =hcf57466_18
     - vc14_runtime =14.38.33130 =h82b7239_18
     - vs2015_runtime =14.38.33130 =hcb4865c_18
