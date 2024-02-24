@@ -30,7 +30,7 @@ requirements:
     - lightgbm =4.3.0 =py39h99910a6_0
     - matplotlib =3.8.3 =py39hcbf5309_0
     - numpy =1.26.4 =py39hddb5d58_0
-    - pandas =2.2.0 =py39h32e6231_0
+    - pandas =2.2.1 =py39h32e6231_0
     - plotly =5.19.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =2.0.0 =py39hcbf5309_0
@@ -73,11 +73,11 @@ requirements:
     - brotli-bin =1.1.0 =hcfcfb64_1
     - brotli-python =1.1.0 =py39h99910a6_1
     - bzip2 =1.0.8 =hcfcfb64_5
-    - c-ares =1.26.0 =hcfcfb64_0
+    - c-ares =1.27.0 =hcfcfb64_0
     - ca-certificates =2024.2.2 =h56e8100_0
     - cairo =1.18.0 =h1fef639_0
     - catalogue =2.0.10 =py39hcbf5309_0
-    - catboost =1.2.2 =py39hcbf5309_0
+    - catboost =1.2.3 =py39hcbf5309_0
     - certifi =2024.2.2 =pyhd8ed1ab_0
     - cffi =1.16.0 =py39ha55989b_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
@@ -168,14 +168,14 @@ requirements:
     - langcodes =3.3.0 =pyhd8ed1ab_0
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
-    - libabseil =20230802.1 =cxx17_h63175ca_0
-    - libarrow =15.0.0 =h1401081_6_cpu
-    - libarrow-acero =15.0.0 =h63175ca_6_cpu
-    - libarrow-dataset =15.0.0 =h63175ca_6_cpu
-    - libarrow-flight =15.0.0 =he112ba8_6_cpu
-    - libarrow-flight-sql =15.0.0 =h8f0bfdc_6_cpu
-    - libarrow-gandiva =15.0.0 =h41a35cd_6_cpu
-    - libarrow-substrait =15.0.0 =h7aa34db_6_cpu
+    - libabseil =20240116.1 =cxx17_h63175ca_1
+    - libarrow =15.0.0 =hd01637b_7_cpu
+    - libarrow-acero =15.0.0 =h63175ca_7_cpu
+    - libarrow-dataset =15.0.0 =h63175ca_7_cpu
+    - libarrow-flight =15.0.0 =hca4e5ea_7_cpu
+    - libarrow-flight-sql =15.0.0 =h1ef3bed_7_cpu
+    - libarrow-gandiva =15.0.0 =hc896d4e_7_cpu
+    - libarrow-substrait =15.0.0 =hf368baa_7_cpu
     - libblas =3.9.0 =21_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
@@ -191,18 +191,18 @@ requirements:
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h312136b_9
     - libglib =2.78.4 =h16e383f_0
-    - libgoogle-cloud =2.17.0 =h7ece6b4_2
-    - libgoogle-cloud-storage =2.17.0 =hb581fae_2
-    - libgrpc =1.60.1 =h0bf0bfa_0
+    - libgoogle-cloud =2.21.0 =h2b62511_2
+    - libgoogle-cloud-storage =2.21.0 =hb581fae_2
+    - libgrpc =1.61.1 =h943f600_0
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =hcfcfb64_2
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =21_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
-    - libparquet =15.0.0 =h7ec3a38_6_cpu
+    - libparquet =15.0.0 =h7ec3a38_7_cpu
     - libpng =1.6.42 =h19919ed_0
-    - libprotobuf =4.25.1 =hb8276f3_2
-    - libre2-11 =2023.06.02 =h8c5ae5e_0
+    - libprotobuf =4.25.2 =h503648d_1
+    - libre2-11 =2023.09.01 =hf8d8778_0
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.45.1 =hcfcfb64_0
     - libssh2 =1.11.0 =h7dfc565_0
@@ -250,7 +250,7 @@ requirements:
     - numexpr =2.7.3 =py39h2e25243_2
     - openjpeg =2.5.0 =h3d672ee_3
     - openssl =3.2.1 =hcfcfb64_0
-    - orc =1.9.2 =hf6f83f4_1
+    - orc =1.9.2 =h2702c50_2
     - packaging =23.2 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.50.14 =h07c897b_2
@@ -272,19 +272,19 @@ requirements:
     - prometheus_flask_exporter =0.23.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.42 =pyha770c72_0
     - protego =0.3.0 =pyhd8ed1ab_0
-    - protobuf =4.25.1 =py39hb5342b9_0
+    - protobuf =4.25.2 =py39h018ea92_0
     - psutil =5.9.8 =py39ha55989b_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py39hd3de297_0
-    - pyarrow =15.0.0 =py39h0a09291_6_cpu
+    - pyarrow =15.0.0 =py39h0a09291_7_cpu
     - pyasn1 =0.5.1 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic =2.6.1 =pyhd8ed1ab_0
-    - pydantic-core =2.16.2 =py39hf21820d_1
+    - pydantic =2.6.2 =pyhd8ed1ab_0
+    - pydantic-core =2.16.3 =py39hf21820d_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0
@@ -310,7 +310,7 @@ requirements:
     - qt-main =5.15.8 =h9e85ed6_19
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
-    - re2 =2023.06.02 =hcbb65ff_0
+    - re2 =2023.09.01 =hec2e504_0
     - regex =2023.12.25 =py39ha55989b_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - requests-file =2.0.0 =pyhd8ed1ab_0
@@ -319,7 +319,7 @@ requirements:
     - seaborn-base =0.13.2 =pyhd8ed1ab_0
     - service-identity =21.1.0 =pyhd8ed1ab_0
     - service_identity =21.1.0 =hd8ed1ab_0
-    - setuptools =69.1.0 =pyhd8ed1ab_1
+    - setuptools =69.1.1 =pyhd8ed1ab_0
     - shellingham =1.5.4 =pyhd8ed1ab_0
     - simpful =2.11.1 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h99910a6_0

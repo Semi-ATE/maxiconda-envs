@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.0.3 =py38h78e6021_1
     - psutil =5.9.8 =py38hae2e43d_0
-    - pydantic =2.6.1 =pyhd8ed1ab_0
+    - pydantic =2.6.2 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py38he1c912d_5
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =8.0.1 =pyhd8ed1ab_1
@@ -87,7 +87,7 @@ requirements:
     - brotli-python =1.1.0 =py38h940360d_1
     - bwidget =1.9.14 =h694c41f_1
     - bzip2 =1.0.8 =h10d778d_5
-    - c-ares =1.26.0 =h10d778d_0
+    - c-ares =1.27.0 =h10d778d_0
     - ca-certificates =2024.2.2 =h8857fd0_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
@@ -273,7 +273,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic-core =2.16.2 =py38h3614dca_1
+    - pydantic-core =2.16.3 =py38h3614dca_0
     - pygments =2.17.2 =pyhd8ed1ab_0
     - pyobjc-core =10.1 =py38h37016ba_0
     - pyobjc-framework-cocoa =10.1 =py38h37016ba_0
@@ -340,7 +340,7 @@ requirements:
     - r-future.apply =1.11.1 =r43hc72bb7e_0
     - r-gargle =1.5.2 =r43h785f33e_0
     - r-generics =0.1.3 =r43hc72bb7e_2
-    - r-ggplot2 =3.4.4 =r43hc72bb7e_0
+    - r-ggplot2 =3.5.0 =r43hc72bb7e_0
     - r-gistr =0.9.0 =r43hc72bb7e_2
     - r-glmnet =4.1_8 =r43ha1020dc_0
     - r-globals =0.16.2 =r43hc72bb7e_1
@@ -480,7 +480,7 @@ requirements:
     - rust-std-x86_64-apple-darwin =1.76.0 =h38e4360_0
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.2 =pyhd1c38e8_0
-    - setuptools =69.1.0 =pyhd8ed1ab_1
+    - setuptools =69.1.1 =pyhd8ed1ab_0
     - sigtool =0.1.3 =h88f4db0_0
     - sip =6.7.12 =py38hb2f96d7_0
     - six =1.16.0 =pyh6c4a22f_0
