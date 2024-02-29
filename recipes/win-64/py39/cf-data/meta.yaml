@@ -39,7 +39,7 @@ requirements:
     - scipy =1.12.0 =py39hddb5d58_2
     - scrapy =2.11.1 =py39hcbf5309_2
     - seaborn =0.13.2 =hd8ed1ab_0
-    - spyder-kernels =2.5.0 =win_pyh7428d3b_0
+    - spyder-kernels =2.5.1 =win_pyh7428d3b_0
     - sqlalchemy =2.0.27 =py39ha55989b_0
     - sqlite =3.45.1 =hcfcfb64_0
     - statsmodels =0.14.1 =py39hd88c2e4_0
@@ -168,7 +168,7 @@ requirements:
     - langcodes =3.3.0 =pyhd8ed1ab_0
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
-    - libabseil =20240116.1 =cxx17_h63175ca_1
+    - libabseil =20240116.1 =cxx17_h63175ca_2
     - libarrow =15.0.0 =hd01637b_7_cpu
     - libarrow-acero =15.0.0 =h63175ca_7_cpu
     - libarrow-dataset =15.0.0 =h63175ca_7_cpu
@@ -248,7 +248,7 @@ requirements:
     - nltk =3.8.1 =pyhd8ed1ab_0
     - numba =0.59.0 =py39h6836801_1
     - numexpr =2.7.3 =py39h2e25243_2
-    - openjpeg =2.5.1 =h3d672ee_0
+    - openjpeg =2.5.2 =h3d672ee_0
     - openssl =3.2.1 =hcfcfb64_0
     - orc =1.9.2 =h2702c50_2
     - packaging =23.2 =pyhd8ed1ab_0
@@ -315,7 +315,7 @@ requirements:
     - requests =2.31.0 =pyhd8ed1ab_0
     - requests-file =2.0.0 =pyhd8ed1ab_0
     - retrying =1.3.3 =py_2
-    - rich =13.7.0 =pyhd8ed1ab_0
+    - rich =13.7.1 =pyhd8ed1ab_0
     - seaborn-base =0.13.2 =pyhd8ed1ab_0
     - service-identity =21.1.0 =pyhd8ed1ab_0
     - service_identity =21.1.0 =hd8ed1ab_0
@@ -387,7 +387,7 @@ requirements:
     - xz =5.2.6 =h8d14728_0
     - yaml =0.2.5 =h8ffe710_2
     - yellowbrick =1.5 =pyhd8ed1ab_0
-    - zeromq =4.3.5 =h63175ca_0
+    - zeromq =4.3.5 =h63175ca_1
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =hcfcfb64_5
     - zope.interface =6.2 =py39ha55989b_0

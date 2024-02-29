@@ -34,7 +34,7 @@ requirements:
     - pyqt =5.15.9 =py39h52134e7_5
     - rdkit =2023.09.5 =py39hce5ca95_0
     - scipy =1.12.0 =py39h474f0d3_2
-    - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
+    - spyder-kernels =2.5.1 =unix_pyh707e725_0
 
     # 228 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
@@ -182,7 +182,7 @@ requirements:
     - networkx =3.2.1 =pyhd8ed1ab_0
     - nspr =4.35 =h27087fc_0
     - nss =3.98 =h1d7d5a4_0
-    - openjpeg =2.5.1 =h488ebb8_0
+    - openjpeg =2.5.2 =h488ebb8_0
     - openssl =3.2.1 =hd590300_0
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
@@ -261,7 +261,7 @@ requirements:
     - xorg-xf86vidmodeproto =2.3.1 =h7f98852_1002
     - xorg-xproto =7.0.31 =h7f98852_1007
     - xz =5.2.6 =h166bdaf_0
-    - zeromq =4.3.5 =h59595ed_0
+    - zeromq =4.3.5 =h59595ed_1
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =hd590300_5
     - zstd =1.5.5 =hfc55251_0

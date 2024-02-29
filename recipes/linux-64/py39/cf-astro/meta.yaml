@@ -26,7 +26,7 @@ requirements:
 
     # 2 primary packages :
     - pyqt =5.15.9 =py39h52134e7_5
-    - spyder-kernels =2.5.0 =unix_pyhd8ed1ab_0
+    - spyder-kernels =2.5.1 =unix_pyh707e725_0
 
     # 146 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
@@ -171,7 +171,7 @@ requirements:
     - xorg-xf86vidmodeproto =2.3.1 =h7f98852_1002
     - xorg-xproto =7.0.31 =h7f98852_1007
     - xz =5.2.6 =h166bdaf_0
-    - zeromq =4.3.5 =h59595ed_0
+    - zeromq =4.3.5 =h59595ed_1
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =hd590300_5
     - zstd =1.5.5 =hfc55251_0
