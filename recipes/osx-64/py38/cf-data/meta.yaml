@@ -64,10 +64,10 @@ requirements:
     - aws-c-http =0.8.1 =h45f72bc_5
     - aws-c-io =0.14.5 =h59ded20_1
     - aws-c-mqtt =0.10.2 =ha7d5480_4
-    - aws-c-s3 =0.5.1 =hb71b441_7
+    - aws-c-s3 =0.5.2 =hb71b441_0
     - aws-c-sdkutils =0.1.15 =hf5538d0_1
     - aws-checksums =0.1.18 =hf5538d0_1
-    - aws-crt-cpp =0.26.2 =hf70770f_6
+    - aws-crt-cpp =0.26.2 =h56a5195_7
     - aws-sdk-cpp =1.11.267 =h4da54b2_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bcrypt =4.1.2 =py38h51dbebd_0
@@ -293,7 +293,7 @@ requirements:
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pillow =10.2.0 =py38h0024655_0
     - pip =24.0 =pyhd8ed1ab_0
-    - pixman =0.43.2 =h73e2aa4_0
+    - pixman =0.43.4 =h73e2aa4_0
     - platformdirs =4.2.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - pooch =1.8.1 =pyhd8ed1ab_0
@@ -328,7 +328,7 @@ requirements:
     - pyqt5-sip =12.12.2 =py38h45c2d83_5
     - pysocks =1.7.1 =py38h50d1736_5
     - python-cufflinks =0.17.3 =py_0
-    - python-dateutil =2.8.2 =pyhd8ed1ab_0
+    - python-dateutil =2.9.0 =pyhd8ed1ab_0
     - python-graphviz =0.20.1 =pyh22cad53_0
     - python-tzdata =2024.1 =pyhd8ed1ab_0
     - python_abi =3.8 =4_cp38
@@ -380,7 +380,7 @@ requirements:
     - tornado =6.4 =py38hae2e43d_0
     - tqdm =4.66.2 =pyhd8ed1ab_0
     - traitlets =5.14.1 =pyhd8ed1ab_0
-    - twisted =23.10.0 =py38hae2e43d_0
+    - twisted =24.3.0 =py38hae2e43d_0
     - typer =0.9.0 =pyhd8ed1ab_0
     - typing-extensions =4.10.0 =hd8ed1ab_0
     - typing_extensions =4.10.0 =pyha770c72_0
