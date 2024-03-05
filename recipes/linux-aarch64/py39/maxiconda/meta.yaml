@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py39h898b7ef_0
     - cython =3.0.8 =py39h387a81e_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.98.15 =pyha770c72_0
+    - hypothesis =6.98.17 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.8.3 =py39ha65689a_0
@@ -44,7 +44,7 @@ requirements:
     - pydantic =2.6.3 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py39hc7e6f3c_5
     - pyserial =3.5 =pyhd8ed1ab_0
-    - pytest =8.1.0 =pyhd8ed1ab_0
+    - pytest =8.0.2 =pyhd8ed1ab_0
     - pyyaml =6.0.1 =py39h898b7ef_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qtawesome =1.3.0 =pyh9208f05_0
@@ -129,8 +129,8 @@ requirements:
     - gcc_impl_linux-aarch64 =13.2.0 =h5669b93_5
     - gettext =0.21.1 =ha18d298_0
     - gfortran_impl_linux-aarch64 =13.2.0 =h2e87c2d_5
-    - glib =2.78.4 =hd84c7bf_0
-    - glib-tools =2.78.4 =hd84c7bf_0
+    - glib =2.78.4 =h194ca79_1
+    - glib-tools =2.78.4 =h194ca79_1
     - gmp =6.3.0 =h2f0025b_0
     - gmpy2 =2.1.2 =py39h3ba43c8_1
     - graphite2 =1.3.13 =h7fd3ca4_1001
@@ -155,7 +155,7 @@ requirements:
     - ipykernel =6.29.3 =pyhd33586a_0
     - isoduration =20.11.0 =pyhd8ed1ab_0
     - jedi =0.19.1 =pyhd8ed1ab_0
-    - json5 =0.9.19 =pyhd8ed1ab_0
+    - json5 =0.9.20 =pyhd8ed1ab_0
     - jsonpointer =2.4 =py39h4420490_3
     - jsonschema =4.21.1 =pyhd8ed1ab_0
     - jsonschema-specifications =2023.12.1 =pyhd8ed1ab_0
@@ -164,7 +164,7 @@ requirements:
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.7.1 =py39h4420490_0
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
-    - jupyter_server =2.12.5 =pyhd8ed1ab_0
+    - jupyter_server =2.13.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.2 =pyhd8ed1ab_0
     - jupyterlab =4.1.2 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
@@ -199,7 +199,7 @@ requirements:
     - libgcrypt =1.10.3 =h31becfc_0
     - libgfortran-ng =13.2.0 =he9431aa_5
     - libgfortran5 =13.2.0 =h582850c_5
-    - libglib =2.78.4 =h311d5f7_0
+    - libglib =2.78.4 =h2afc65d_1
     - libgomp =13.2.0 =hf8544c7_5
     - libgpg-error =1.48 =h5ce24db_0
     - libiconv =1.17 =h31becfc_2
@@ -221,7 +221,7 @@ requirements:
     - libssh2 =1.11.0 =h492db2e_0
     - libstdcxx-devel_linux-aarch64 =13.2.0 =h0a96a4f_105
     - libstdcxx-ng =13.2.0 =h9a76618_5
-    - libsystemd0 =255 =h91e93f8_0
+    - libsystemd0 =255 =h91e93f8_1
     - libtiff =4.6.0 =h1708d11_2
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
@@ -247,7 +247,7 @@ requirements:
     - mysql-common =8.0.33 =hb6794ad_6
     - mysql-libs =8.0.33 =hf629957_6
     - nbclient =0.8.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.16.1 =pyhd8ed1ab_0
+    - nbconvert-core =7.16.2 =pyhd8ed1ab_0
     - nbformat =5.9.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h0425590_2
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
@@ -269,7 +269,7 @@ requirements:
     - pillow =10.2.0 =py39h8ce38d7_0
     - pip =24.0 =pyhd8ed1ab_0
     - pixman =0.43.4 =h2f0025b_0
-    - pkginfo =1.9.6 =pyhd8ed1ab_0
+    - pkginfo =1.10.0 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - platformdirs =4.2.0 =pyhd8ed1ab_0
     - pluggy =1.4.0 =pyhd8ed1ab_0
