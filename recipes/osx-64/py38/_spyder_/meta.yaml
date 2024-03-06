@@ -25,7 +25,7 @@ requirements:
     - python =3.8.18 =h5ba8234_1_cpython
 
     # 9 primary packages :
-    - cython =3.0.8 =py38h1f5f77c_0
+    - cython =3.0.9 =py38h1f5f77c_0
     - matplotlib =3.7.3 =py38h50d1736_0
     - numpy =1.24.4 =py38h9a4a08f_0
     - pandas =2.0.3 =py38h78e6021_1
@@ -80,8 +80,8 @@ requirements:
     - freetype =2.12.1 =h60636b9_2
     - gettext =0.21.1 =h8a4c099_0
     - giflib =5.2.1 =hb7f2c08_3
-    - glib =2.78.4 =h92b6c6a_1
-    - glib-tools =2.78.4 =h92b6c6a_1
+    - glib =2.78.4 =h2d185b6_0
+    - glib-tools =2.78.4 =h2d185b6_0
     - gmp =6.3.0 =h93d8f39_0
     - gmpy2 =2.1.2 =py38h919de47_1
     - gst-plugins-base =1.22.9 =h3fb38fc_0
@@ -125,7 +125,7 @@ requirements:
     - libffi =3.4.2 =h0d85af4_5
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.78.4 =h89b4d22_1
+    - libglib =2.78.4 =hab64008_0
     - libiconv =1.17 =hd75f5a5_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =20_osx64_openblas

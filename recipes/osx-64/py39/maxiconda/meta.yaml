@@ -29,7 +29,7 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - bitarray =2.9.2 =py39ha09f3b3_0
-    - cython =3.0.8 =py39hd253f6c_0
+    - cython =3.0.9 =py39hd253f6c_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
     - hypothesis =6.98.17 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
@@ -56,7 +56,7 @@ requirements:
     - scipy =1.12.0 =py39h0ed1e0f_2
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
-    - sqlalchemy =2.0.27 =py39ha09f3b3_0
+    - sqlalchemy =2.0.28 =py39ha09f3b3_0
     - sqlite =3.45.1 =h7461747_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.66.2 =pyhd8ed1ab_0
@@ -134,8 +134,8 @@ requirements:
     - gettext =0.21.1 =h8a4c099_0
     - gfortran_impl_osx-64 =12.3.0 =hc328e78_3
     - gfortran_osx-64 =12.3.0 =h18f7dce_1
-    - glib =2.78.4 =h92b6c6a_1
-    - glib-tools =2.78.4 =h92b6c6a_1
+    - glib =2.78.4 =h2d185b6_0
+    - glib-tools =2.78.4 =h2d185b6_0
     - gmp =6.3.0 =h93d8f39_0
     - gmpy2 =2.1.2 =py39h2da61ea_1
     - graphite2 =1.3.13 =h2e338ed_1001
@@ -165,13 +165,13 @@ requirements:
     - jsonschema =4.21.1 =pyhd8ed1ab_0
     - jsonschema-specifications =2023.12.1 =pyhd8ed1ab_0
     - jsonschema-with-format-nongpl =4.21.1 =pyhd8ed1ab_0
-    - jupyter-lsp =2.2.3 =pyhd8ed1ab_0
+    - jupyter-lsp =2.2.4 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.7.1 =py39h6e9494a_0
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
     - jupyter_server =2.13.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.2 =pyhd8ed1ab_0
-    - jupyterlab =4.1.2 =pyhd8ed1ab_0
+    - jupyterlab =4.1.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - jupyterlab_server =2.25.3 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py39h8ee36c8_1
@@ -197,7 +197,7 @@ requirements:
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran-devel_osx-64 =12.3.0 =h0b6f5ec_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.78.4 =h89b4d22_1
+    - libglib =2.78.4 =hab64008_0
     - libiconv =1.17 =hd75f5a5_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =21_osx64_openblas
@@ -423,7 +423,7 @@ requirements:
     - r-reprex =2.1.0 =r43hc72bb7e_0
     - r-reshape2 =1.4.4 =r43hac7d2d5_3
     - r-rlang =1.1.3 =r43h29979af_0
-    - r-rmarkdown =2.25 =r43hc72bb7e_0
+    - r-rmarkdown =2.26 =r43hc72bb7e_0
     - r-rpart =4.1.23 =r43hb2c329c_0
     - r-rstudioapi =0.15.0 =r43hc72bb7e_0
     - r-rvest =1.0.4 =r43hc72bb7e_0

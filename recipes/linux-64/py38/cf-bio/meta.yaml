@@ -80,8 +80,8 @@ requirements:
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h27087fc_0
     - glew =2.1.0 =h9c3ff4c_2
-    - glib =2.78.4 =h2797004_1
-    - glib-tools =2.78.4 =h2797004_1
+    - glib =2.78.4 =hfc55251_0
+    - glib-tools =2.78.4 =hfc55251_0
     - glm =0.9.9.8 =h00ab1b0_0
     - graphite2 =1.3.13 =h58526e2_1001
     - greenlet =3.0.3 =py38h17151c0_0
@@ -136,7 +136,7 @@ requirements:
     - libgcrypt =1.10.3 =hd590300_0
     - libgfortran-ng =13.2.0 =h69a702a_5
     - libgfortran5 =13.2.0 =ha4646dd_5
-    - libglib =2.78.4 =h4648e47_1
+    - libglib =2.78.4 =h783c2da_0
     - libglu =9.0.0 =hac7e632_1003
     - libgomp =13.2.0 =h807b86a_5
     - libgpg-error =1.48 =h71f35ed_0
@@ -232,7 +232,7 @@ requirements:
     - sip =6.7.12 =py38h17151c0_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.1.10 =h9fff704_0
-    - sqlalchemy =2.0.27 =py38h01eb140_0
+    - sqlalchemy =2.0.28 =py38h01eb140_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.1 =py38h7f0c24c_0
     - threadpoolctl =3.3.0 =pyhc1e730c_0

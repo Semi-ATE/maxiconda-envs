@@ -74,8 +74,8 @@ requirements:
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h5728263_0
     - glew =2.1.0 =h39d44d4_2
-    - glib =2.78.4 =h4dfd0cc_1
-    - glib-tools =2.78.4 =h4dfd0cc_1
+    - glib =2.78.4 =h12be248_0
+    - glib-tools =2.78.4 =h12be248_0
     - glm =0.9.9.8 =h181d51b_0
     - greenlet =3.0.3 =py38hd3f51b4_0
     - griddataformats =1.0.1 =pyhd8ed1ab_0
@@ -116,7 +116,7 @@ requirements:
     - libdeflate =1.19 =hcfcfb64_0
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
-    - libglib =2.78.4 =h55e6270_1
+    - libglib =2.78.4 =h16e383f_0
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =hcfcfb64_2
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
@@ -197,7 +197,7 @@ requirements:
     - sip =6.7.12 =py38hd3f51b4_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.1.10 =hfb803bf_0
-    - sqlalchemy =2.0.27 =py38h91455d4_0
+    - sqlalchemy =2.0.28 =py38h91455d4_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.1 =py38he7056a7_0
     - tbb =2021.11.0 =h91493d7_1

@@ -29,7 +29,7 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - bitarray =2.9.2 =py38h91455d4_0
-    - cython =3.0.8 =py38hd3f51b4_0
+    - cython =3.0.9 =py38hd3f51b4_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
     - hypothesis =6.98.17 =pyha770c72_0
     - ipython =8.12.2 =pyh08f2357_0
@@ -56,7 +56,7 @@ requirements:
     - scipy =1.10.1 =py38h1aea9ed_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.5.1 =win_pyh7428d3b_0
-    - sqlalchemy =2.0.27 =py38h91455d4_0
+    - sqlalchemy =2.0.28 =py38h91455d4_0
     - sqlite =3.45.1 =hcfcfb64_0
     - sympy =1.12 =pyh04b8f61_3
     - tqdm =4.66.2 =pyhd8ed1ab_0
@@ -120,8 +120,8 @@ requirements:
     - fribidi =1.0.10 =h8d14728_0
     - frozenlist =1.4.1 =py38h91455d4_0
     - gettext =0.21.1 =h5728263_0
-    - glib =2.78.4 =h4dfd0cc_1
-    - glib-tools =2.78.4 =h4dfd0cc_1
+    - glib =2.78.4 =h12be248_0
+    - glib-tools =2.78.4 =h12be248_0
     - graphite2 =1.3.13 =1000
     - greenlet =3.0.3 =py38hd3f51b4_0
     - gst-plugins-base =1.22.9 =h001b923_0
@@ -149,13 +149,13 @@ requirements:
     - jsonschema =4.21.1 =pyhd8ed1ab_0
     - jsonschema-specifications =2023.12.1 =pyhd8ed1ab_0
     - jsonschema-with-format-nongpl =4.21.1 =pyhd8ed1ab_0
-    - jupyter-lsp =2.2.3 =pyhd8ed1ab_0
+    - jupyter-lsp =2.2.4 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.7.1 =py38haa244fe_0
     - jupyter_events =0.9.0 =pyhd8ed1ab_0
     - jupyter_server =2.13.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.2 =pyhd8ed1ab_0
-    - jupyterlab =4.1.2 =pyhd8ed1ab_0
+    - jupyterlab =4.1.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - jupyterlab_server =2.25.3 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py38hb1fd069_1
@@ -172,7 +172,7 @@ requirements:
     - libdeflate =1.19 =hcfcfb64_0
     - libexpat =2.5.0 =h63175ca_1
     - libffi =3.4.2 =h8ffe710_5
-    - libglib =2.78.4 =h55e6270_1
+    - libglib =2.78.4 =h16e383f_0
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =hcfcfb64_2
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
