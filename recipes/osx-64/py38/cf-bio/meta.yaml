@@ -32,7 +32,7 @@ requirements:
     - pandas =2.0.3 =py38h78e6021_1
     - pymol-open-source =2.5.0 =py38h2374c4a_6
     - pyqt =5.15.9 =py38he1c912d_5
-    - rdkit =2023.09.5 =py38hf0db05f_0
+    - rdkit =2023.09.6 =py38hf0db05f_0
     - scipy =1.10.1 =py38h9cf86d3_3
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
 
@@ -76,8 +76,8 @@ requirements:
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h8a4c099_0
     - glew =2.1.0 =h046ec9c_2
-    - glib =2.78.4 =h2d185b6_3
-    - glib-tools =2.78.4 =h2d185b6_3
+    - glib =2.78.4 =h2d185b6_4
+    - glib-tools =2.78.4 =h2d185b6_4
     - glm =0.9.9.8 =h1c7c39f_0
     - greenlet =3.0.3 =py38h1f5f77c_0
     - griddataformats =1.0.1 =pyhd8ed1ab_0
@@ -89,10 +89,10 @@ requirements:
     - hdf5 =1.14.3 =nompi_h691f4bf_100
     - icu =73.2 =hf5e326d_0
     - idna =3.6 =pyhd8ed1ab_0
-    - importlib-metadata =7.0.1 =pyha770c72_0
-    - importlib-resources =6.1.2 =pyhd8ed1ab_0
-    - importlib_metadata =7.0.1 =hd8ed1ab_0
-    - importlib_resources =6.1.2 =pyhd8ed1ab_0
+    - importlib-metadata =7.0.2 =pyha770c72_0
+    - importlib-resources =6.1.3 =pyhd8ed1ab_0
+    - importlib_metadata =7.0.2 =hd8ed1ab_0
+    - importlib_resources =6.1.3 =pyhd8ed1ab_0
     - ipykernel =6.29.3 =pyh3cd1d5f_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - jedi =0.19.1 =pyhd8ed1ab_0
@@ -122,7 +122,7 @@ requirements:
     - libffi =3.4.2 =h0d85af4_5
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.78.4 =h81c1438_3
+    - libglib =2.78.4 =h81c1438_4
     - libiconv =1.17 =hd75f5a5_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =20_osx64_openblas

@@ -31,7 +31,7 @@ requirements:
     - pyqt =5.15.9 =py38h3dfd979_5
     - pyserial =3.5 =pyhd8ed1ab_0
     - pyusb =1.2.1 =pyhd8ed1ab_0
-    - pyvisa-py =0.7.1 =pyhca7485f_0
+    - pyvisa-py =0.7.2 =pyhca7485f_0
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
 
     # 157 secondary packages :
@@ -60,15 +60,15 @@ requirements:
     - fonts-conda-forge =1 =0
     - freetype =2.12.1 =hf0a5ef3_2
     - gettext =0.21.1 =ha18d298_0
-    - glib =2.78.4 =hd84c7bf_3
-    - glib-tools =2.78.4 =hd84c7bf_3
+    - glib =2.78.4 =hd84c7bf_4
+    - glib-tools =2.78.4 =hd84c7bf_4
     - graphite2 =1.3.13 =h7fd3ca4_1001
     - gst-plugins-base =1.22.9 =h6d82d15_0
     - gstreamer =1.22.9 =hed71854_0
     - harfbuzz =8.3.0 =hebeb849_0
     - icu =73.2 =h787c7f5_0
-    - importlib-metadata =7.0.1 =pyha770c72_0
-    - importlib_metadata =7.0.1 =hd8ed1ab_0
+    - importlib-metadata =7.0.2 =pyha770c72_0
+    - importlib_metadata =7.0.2 =hd8ed1ab_0
     - ipykernel =6.29.3 =pyhd33586a_0
     - ipython =8.12.2 =pyh41d4057_0
     - jedi =0.19.1 =pyhd8ed1ab_0
@@ -93,7 +93,7 @@ requirements:
     - libgcrypt =1.10.3 =h31becfc_0
     - libgfortran-ng =13.2.0 =he9431aa_5
     - libgfortran5 =13.2.0 =h582850c_5
-    - libglib =2.78.4 =h9d8fbc1_3
+    - libglib =2.78.4 =h9d8fbc1_4
     - libgomp =13.2.0 =hf8544c7_5
     - libgpg-error =1.48 =h5ce24db_0
     - libiconv =1.17 =h31becfc_2
