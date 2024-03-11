@@ -45,10 +45,9 @@ requirements:
     - statsmodels =0.14.1 =py39hd88c2e4_0
     - xgboost =2.0.3 =cpu_py39hd3de297_0
 
-    # 344 secondary packages :
+    # 347 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_1
-    - aniso8601 =9.0.1 =pyhd8ed1ab_0
     - annotated-types =0.6.0 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
@@ -77,17 +76,20 @@ requirements:
     - c-ares =1.27.0 =hcfcfb64_0
     - ca-certificates =2024.2.2 =h56e8100_0
     - cairo =1.18.0 =h1fef639_0
-    - catalogue =1.0.0 =py39hcbf5309_3
+    - catalogue =2.0.10 =py39hcbf5309_0
     - catboost =1.2.3 =py39hcbf5309_2
     - certifi =2024.2.2 =pyhd8ed1ab_0
     - cffi =1.16.0 =py39ha55989b_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyh9f0ad1d_0
     - click =8.1.7 =win_pyh7428d3b_0
+    - cloudpathlib =0.16.0 =pyhd8ed1ab_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - colorlover =0.3.0 =py_0
     - comm =0.2.1 =pyhd8ed1ab_0
+    - confection =0.1.4 =py39h5b92f00_0
+    - configparser =6.0.1 =pyhd8ed1ab_0
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.2.0 =py39h1f6ef14_0
@@ -97,6 +99,8 @@ requirements:
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cymem =2.0.8 =py39h99910a6_1
     - cython-blis =0.7.10 =py39hd88c2e4_2
+    - databricks-cli =0.18.0 =pyhd8ed1ab_0
+    - dataclasses =0.8 =pyhc8e2a94_3
     - datefinder =0.7.3 =pyhd8ed1ab_0
     - debugpy =1.8.1 =py39h99910a6_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -128,10 +132,7 @@ requirements:
     - gitpython =3.1.42 =pyhd8ed1ab_0
     - glib =2.78.4 =h12be248_4
     - glib-tools =2.78.4 =h12be248_4
-    - graphene =3.3 =pyhd8ed1ab_0
     - graphite2 =1.3.13 =1000
-    - graphql-core =3.2.3 =pyhd8ed1ab_0
-    - graphql-relay =3.2.0 =pyhd8ed1ab_0
     - graphviz =9.0.0 =h51cb2cd_1
     - greenlet =3.0.3 =py39h99910a6_0
     - gst-plugins-base =1.22.9 =h001b923_0
@@ -149,7 +150,6 @@ requirements:
     - importlib_metadata =7.0.2 =hd8ed1ab_0
     - importlib_resources =6.1.3 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - intel-openmp =2024.0.0 =h57928b3_49841
     - ipykernel =6.29.3 =pyha63f2e9_0
     - ipython =8.18.1 =pyh7428d3b_3
     - ipywidgets =8.1.2 =pyhd8ed1ab_0
@@ -160,29 +160,22 @@ requirements:
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - jmespath =1.0.1 =pyhd8ed1ab_0
     - joblib =1.3.2 =pyhd8ed1ab_0
-    - jsonschema =4.21.1 =pyhd8ed1ab_0
-    - jsonschema-specifications =2023.12.1 =pyhd8ed1ab_0
     - jupyter_client =8.6.0 =pyhd8ed1ab_0
     - jupyter_core =5.7.1 =py39hcbf5309_0
     - jupyterlab_widgets =3.0.10 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py39h1f6ef14_1
     - kmodes =0.12.2 =pyhd8ed1ab_0
     - krb5 =1.21.2 =heb0366b_0
+    - langcodes =3.3.0 =pyhd8ed1ab_0
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20240116.1 =cxx17_h63175ca_2
-    - libarrow =15.0.0 =hd01637b_7_cpu
-    - libarrow-acero =15.0.0 =h63175ca_7_cpu
-    - libarrow-dataset =15.0.0 =h63175ca_7_cpu
-    - libarrow-flight =15.0.0 =hca4e5ea_7_cpu
-    - libarrow-flight-sql =15.0.0 =h1ef3bed_7_cpu
-    - libarrow-gandiva =15.0.0 =hc896d4e_7_cpu
-    - libarrow-substrait =15.0.0 =hf368baa_7_cpu
-    - libblas =3.9.0 =21_win64_mkl
+    - libarrow =13.0.0 =h1c618c5_30_cpu
+    - libblas =3.9.0 =21_win64_openblas
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
     - libbrotlienc =1.1.0 =hcfcfb64_1
-    - libcblas =3.9.0 =21_win64_mkl
+    - libcblas =3.9.0 =21_win64_openblas
     - libclang =15.0.7 =default_hde6756a_4
     - libclang13 =15.0.7 =default_h85b4d89_4
     - libcrc32c =1.1.2 =h0e60522_0
@@ -191,19 +184,20 @@ requirements:
     - libevent =2.1.12 =h3671451_1
     - libexpat =2.6.1 =h63175ca_0
     - libffi =3.4.2 =h8ffe710_5
+    - libflang =5.0.0 =h6538335_20180525
     - libgd =2.3.3 =h312136b_9
     - libglib =2.78.4 =h39d0aa6_4
-    - libgoogle-cloud =2.21.0 =h2b62511_2
-    - libgoogle-cloud-storage =2.21.0 =hb581fae_2
-    - libgrpc =1.61.1 =h864d0f4_1
+    - libgoogle-cloud =2.22.0 =h9cad5c0_1
+    - libgoogle-cloud-storage =2.22.0 =hb581fae_1
+    - libgrpc =1.62.1 =h5273850_0
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =hcfcfb64_2
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
-    - liblapack =3.9.0 =21_win64_mkl
+    - liblapack =3.9.0 =21_win64_openblas
     - libogg =1.3.4 =h8ffe710_1
-    - libparquet =15.0.0 =h7ec3a38_7_cpu
+    - libopenblas =0.3.26 =pthreads_hc140b1d_0
     - libpng =1.6.43 =h19919ed_0
-    - libprotobuf =4.25.2 =h503648d_1
+    - libprotobuf =4.25.3 =h503648d_0
     - libre2-11 =2023.09.01 =hf8d8778_2
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.45.1 =hcfcfb64_0
@@ -219,6 +213,7 @@ requirements:
     - libxml2 =2.12.5 =hc3477c8_0
     - libxslt =1.1.39 =h3df6e99_0
     - libzlib =1.2.13 =hcfcfb64_5
+    - llvm-meta =5.0.0 =0
     - llvmlite =0.42.0 =py39hd28a505_1
     - lxml =5.1.0 =py39h4d3bb3d_0
     - lz4-c =1.9.4 =hcfcfb64_0
@@ -229,15 +224,14 @@ requirements:
     - m2w64-libwinpthread-git =5.0.0.4634.697f757 =2
     - mako =1.3.2 =pyhd8ed1ab_0
     - markdown =3.5.2 =pyhd8ed1ab_0
+    - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py39ha55989b_0
     - matplotlib-base =3.8.3 =py39hf19769e_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
+    - mdurl =0.1.2 =pyhd8ed1ab_0
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.5.2 =pyhd8ed1ab_0
-    - mkl =2024.0.0 =h66d3029_49657
-    - mlflow =2.11.1 =hcbf5309_1
-    - mlflow-skinny =2.11.1 =py39hcbf5309_1
-    - mlflow-ui =2.11.1 =py39hcbf5309_1
+    - mlflow =1.27.0 =py39h54a35c1_0
     - mlxtend =0.23.1 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - multimethod =1.4 =py_0
@@ -246,17 +240,21 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - networkx =3.2.1 =pyhd8ed1ab_0
     - nltk =3.8.1 =pyhd8ed1ab_0
+    - nomkl =1.0 =h5ca1d4c_0
     - numba =0.59.0 =py39h6836801_1
-    - numexpr =2.7.3 =py39h2e25243_2
+    - numexpr =2.9.0 =py39h9a6cd94_100
+    - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.2 =h3d672ee_0
+    - openmp =5.0.0 =vc14_1
     - openssl =3.2.1 =hcfcfb64_0
-    - orc =1.9.2 =h2702c50_2
-    - packaging =23.2 =pyhd8ed1ab_0
+    - orc =1.9.2 =heb0c069_3
+    - packaging =24.0 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.52.1 =h07c897b_0
     - paramiko =3.4.0 =pyhd8ed1ab_0
     - parsel =1.8.1 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
+    - pathy =0.10.2 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0
     - pcre2 =10.43 =h17e33f8_0
     - phik =0.12.3 =py39h0f24028_1
@@ -264,8 +262,6 @@ requirements:
     - pillow =10.2.0 =py39h368b509_0
     - pip =24.0 =pyhd8ed1ab_0
     - pixman =0.43.4 =h63175ca_0
-    - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
-    - plac =0.9.6 =py_1
     - platformdirs =4.2.0 =pyhd8ed1ab_0
     - ply =3.11 =py_1
     - preshed =3.0.9 =py39h99910a6_1
@@ -273,13 +269,13 @@ requirements:
     - prometheus_flask_exporter =0.23.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.42 =pyha770c72_0
     - protego =0.3.0 =pyhd8ed1ab_0
-    - protobuf =4.25.2 =py39h018ea92_0
+    - protobuf =4.25.3 =py39h018ea92_0
     - psutil =5.9.8 =py39ha55989b_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py39hd3de297_0
-    - pyarrow =15.0.0 =py39h0a09291_7_cpu
+    - pyarrow =13.0.0 =py39h0a09291_30_cpu
     - pyasn1 =0.5.1 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -289,6 +285,7 @@ requirements:
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0
+    - pyjwt =2.8.0 =pyhd8ed1ab_1
     - pyldavis =3.4.1 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py39h09fa780_3
     - pynndescent =0.5.11 =pyhca7485f_0
@@ -312,32 +309,37 @@ requirements:
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
     - re2 =2023.09.01 =hd3b24a8_2
-    - referencing =0.33.0 =pyhd8ed1ab_0
     - regex =2023.12.25 =py39ha55989b_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - requests-file =2.0.0 =pyhd8ed1ab_0
     - retrying =1.3.3 =py_2
-    - rpds-py =0.18.0 =py39hf21820d_0
+    - rich =13.7.1 =pyhd8ed1ab_0
     - seaborn-base =0.13.2 =pyhd8ed1ab_0
     - service-identity =21.1.0 =pyhd8ed1ab_0
     - service_identity =21.1.0 =hd8ed1ab_0
     - setuptools =69.1.1 =pyhd8ed1ab_0
+    - shap =0.44.1 =cpu_py39h0a09291_0
+    - shellingham =1.5.4 =pyhd8ed1ab_0
     - simpful =2.11.1 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h99910a6_0
     - six =1.16.0 =pyh6c4a22f_0
-    - smart_open =7.0.1 =pyhd8ed1ab_0
+    - slicer =0.0.7 =pyhd8ed1ab_0
+    - smart_open =5.2.1 =pyhd8ed1ab_0
     - smmap =5.0.0 =pyhd8ed1ab_0
     - snappy =1.1.10 =hfb803bf_0
     - soupsieve =2.5 =pyhd8ed1ab_1
-    - spacy =2.3.7 =py39hefe7e4c_0
+    - spacy =3.7.2 =py39h5c3ab46_0
+    - spacy-legacy =3.0.12 =pyhd8ed1ab_0
+    - spacy-loggers =1.0.5 =pyhd8ed1ab_0
     - sqlparse =0.4.4 =pyhd8ed1ab_0
-    - srsly =1.0.5 =py39h415ef7b_0
+    - srsly =2.4.8 =py39h99910a6_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
+    - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.11.0 =h91493d7_1
     - tenacity =8.2.3 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
-    - thinc =7.4.5 =py39hefe7e4c_2
+    - thinc =8.2.2 =py39h5c3ab46_0
     - threadpoolctl =3.3.0 =pyhc1e730c_0
     - tk =8.6.13 =h5226925_1
     - tldextract =5.1.1 =pyhd8ed1ab_0
@@ -348,6 +350,7 @@ requirements:
     - traitlets =5.14.1 =pyhd8ed1ab_0
     - twisted =24.3.0 =py39ha55989b_0
     - twisted-iocpsupport =1.0.4 =py39ha55989b_1
+    - typer =0.9.0 =pyhd8ed1ab_0
     - typing-extensions =4.10.0 =hd8ed1ab_0
     - typing_extensions =4.10.0 =pyha770c72_0
     - tzdata =2024a =h0c530f3_0
@@ -360,16 +363,16 @@ requirements:
     - visions =0.7.1 =pyhd8ed1ab_0
     - vs2015_runtime =14.38.33130 =hcb4865c_18
     - w3lib =2.1.2 =pyhd8ed1ab_0
-    - waitress =2.1.2 =pyhd8ed1ab_0
-    - wasabi =0.10.1 =pyhd8ed1ab_1
+    - waitress =3.0.0 =pyhd8ed1ab_0
+    - wasabi =1.1.2 =py39hcbf5309_0
     - wcwidth =0.2.13 =pyhd8ed1ab_0
+    - weasel =0.3.4 =pyhd8ed1ab_0
     - websocket-client =1.7.0 =pyhd8ed1ab_0
     - werkzeug =3.0.1 =pyhd8ed1ab_0
     - wheel =0.42.0 =pyhd8ed1ab_0
     - widgetsnbextension =4.0.10 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py39hcbf5309_5
     - wordcloud =1.9.3 =py39ha55989b_0
-    - wrapt =1.16.0 =py39ha55989b_0
     - xorg-kbproto =1.0.7 =hcd874cb_1002
     - xorg-libice =1.1.1 =hcd874cb_0
     - xorg-libsm =1.2.4 =hcd874cb_0
