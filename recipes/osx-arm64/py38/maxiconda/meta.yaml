@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - cython =3.0.9 =py38hb9fa5a8_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.99.4 =pyha770c72_0
+    - hypothesis =6.99.5 =pyha770c72_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38h150bfb4_0
@@ -56,7 +56,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
     - sqlalchemy =2.0.28 =py38h336bac9_0
-    - sqlite =3.45.1 =hf2abe2d_0
+    - sqlite =3.45.2 =hf2abe2d_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.66.2 =pyhd8ed1ab_0
     - transitions =0.9.0 =pyhd8ed1ab_0
@@ -95,11 +95,11 @@ requirements:
     - certifi =2024.2.2 =pyhd8ed1ab_0
     - cffi =1.16.0 =py38h73f40f7_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
-    - clang =17.0.6 =haab561b_2
-    - clang-17 =17.0.6 =default_hd209bcb_2
+    - clang =17.0.6 =haab561b_3
+    - clang-17 =17.0.6 =default_hd209bcb_3
     - clang_impl_osx-arm64 =17.0.6 =he47c785_10
     - clang_osx-arm64 =17.0.6 =h54d7cd3_10
-    - clangxx =17.0.6 =default_h5c94ee4_2
+    - clangxx =17.0.6 =default_h5c94ee4_3
     - clangxx_impl_osx-arm64 =17.0.6 =h50f59cd_10
     - clangxx_osx-arm64 =17.0.6 =h54d7cd3_10
     - click =8.1.7 =unix_pyh707e725_0
@@ -167,11 +167,11 @@ requirements:
     - jsonschema-specifications =2023.12.1 =pyhd8ed1ab_0
     - jsonschema-with-format-nongpl =4.21.1 =pyhd8ed1ab_0
     - jupyter-lsp =2.2.4 =pyhd8ed1ab_0
-    - jupyter_client =8.6.0 =pyhd8ed1ab_0
-    - jupyter_core =5.7.1 =py38h10201cd_0
-    - jupyter_events =0.9.0 =pyhd8ed1ab_0
+    - jupyter_client =8.6.1 =pyhd8ed1ab_0
+    - jupyter_core =5.7.2 =py38h10201cd_0
+    - jupyter_events =0.9.1 =pyhd8ed1ab_0
     - jupyter_server =2.7.0 =pyhd8ed1ab_0
-    - jupyter_server_terminals =0.5.2 =pyhd8ed1ab_0
+    - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_0
     - jupyterlab =4.1.4 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - jupyterlab_server =2.25.4 =pyhd8ed1ab_0
@@ -186,7 +186,7 @@ requirements:
     - libbrotlienc =1.1.0 =hb547adb_1
     - libcblas =3.9.0 =20_osxarm64_openblas
     - libclang =15.0.7 =default_hd209bcb_4
-    - libclang-cpp17 =17.0.6 =default_hd209bcb_2
+    - libclang-cpp17 =17.0.6 =default_hd209bcb_3
     - libclang13 =15.0.7 =default_ha49e599_4
     - libcurl =8.5.0 =h2d989ff_0
     - libcxx =16.0.6 =h4653b0c_0
@@ -212,7 +212,7 @@ requirements:
     - libpng =1.6.43 =h091b4b1_0
     - libpq =16.2 =h0f8b458_0
     - libsodium =1.0.18 =h27ca646_1
-    - libsqlite =3.45.1 =h091b4b1_0
+    - libsqlite =3.45.2 =h091b4b1_0
     - libssh2 =1.11.0 =h7a5bd25_0
     - libtiff =4.6.0 =ha8a6c65_2
     - libvorbis =1.3.7 =h9f76cd9_0
@@ -237,7 +237,7 @@ requirements:
     - mysql-libs =8.0.33 =he3dca8b_6
     - nbclient =0.8.0 =pyhd8ed1ab_0
     - nbconvert-core =7.16.2 =pyhd8ed1ab_0
-    - nbformat =5.9.2 =pyhd8ed1ab_0
+    - nbformat =5.10.2 =pyhd8ed1ab_0
     - ncurses =6.4 =h463b476_2
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - notebook =7.1.1 =pyhd8ed1ab_0
@@ -487,7 +487,7 @@ requirements:
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - stdlib-list =0.10.0 =pyhd8ed1ab_0
     - tapi =1100.0.11 =he4954df_0
-    - terminado =0.18.0 =pyh31c8845_0
+    - terminado =0.18.1 =pyh31c8845_0
     - tinycss2 =1.2.1 =pyhd8ed1ab_0
     - tk =8.6.13 =h5083fa2_1
     - tktable =2.10 =hd996620_5
@@ -495,7 +495,7 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tomli-w =1.0.0 =pyhd8ed1ab_0
     - tornado =6.4 =py38h336bac9_0
-    - traitlets =5.14.1 =pyhd8ed1ab_0
+    - traitlets =5.14.2 =pyhd8ed1ab_0
     - types-python-dateutil =2.8.19.20240311 =pyhd8ed1ab_0
     - typing-extensions =4.10.0 =hd8ed1ab_0
     - typing_extensions =4.10.0 =pyha770c72_0
