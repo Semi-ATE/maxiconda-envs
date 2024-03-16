@@ -26,7 +26,7 @@ requirements:
 
     # 20 primary packages :
     - beautifulsoup4 =4.12.3 =pyha770c72_0
-    - bokeh =3.3.4 =pyhd8ed1ab_0
+    - bokeh =3.4.0 =pyhd8ed1ab_0
     - lightgbm =4.3.0 =py39hf7b7f60_0
     - matplotlib =3.8.3 =py39h6e9494a_0
     - numpy =1.26.4 =py39h28c39a1_0
@@ -244,7 +244,7 @@ requirements:
     - libxml2 =2.12.5 =hc0ae0f7_0
     - libxslt =1.1.39 =h03b04e6_0
     - libzlib =1.2.13 =h8a1eda9_5
-    - llvm-openmp =17.0.6 =hb6ac08f_0
+    - llvm-openmp =18.1.1 =hb6ac08f_0
     - llvmlite =0.42.0 =py39he5a6977_1
     - lxml =5.1.0 =py39h9b7d3cf_0
     - lz4-c =1.9.4 =hf0c8a7f_0
