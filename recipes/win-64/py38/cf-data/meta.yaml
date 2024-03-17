@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.1 =py38he7056a7_0
     - xgboost =2.0.3 =cpu_py38h684852a_0
 
-    # 351 secondary packages :
+    # 352 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_1
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -53,19 +53,19 @@ requirements:
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attrs =23.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.11 =hcf9e330_1
-    - aws-c-cal =0.6.9 =hd33547d_3
-    - aws-c-common =0.9.12 =hcfcfb64_0
-    - aws-c-compression =0.2.17 =hd33547d_8
-    - aws-c-event-stream =0.4.1 =h875930a_2
-    - aws-c-http =0.8.0 =ha1a3518_2
-    - aws-c-io =0.14.0 =hf372335_1
-    - aws-c-mqtt =0.10.1 =hda1dad8_0
-    - aws-c-s3 =0.4.9 =hef93162_0
-    - aws-c-sdkutils =0.1.13 =hd33547d_1
-    - aws-checksums =0.1.17 =hd33547d_7
-    - aws-crt-cpp =0.26.0 =hed7b20b_8
-    - aws-sdk-cpp =1.11.210 =h20b5662_10
+    - aws-c-auth =0.7.16 =h7613915_8
+    - aws-c-cal =0.6.10 =hf6fcf4e_2
+    - aws-c-common =0.9.14 =hcfcfb64_0
+    - aws-c-compression =0.2.18 =hf6fcf4e_2
+    - aws-c-event-stream =0.4.2 =h3df98b0_6
+    - aws-c-http =0.8.1 =h4e3df0f_7
+    - aws-c-io =0.14.6 =hf0b8b6f_1
+    - aws-c-mqtt =0.10.3 =h96fac68_2
+    - aws-c-s3 =0.5.2 =h08df315_2
+    - aws-c-sdkutils =0.1.15 =hf6fcf4e_2
+    - aws-checksums =0.1.18 =hf6fcf4e_2
+    - aws-crt-cpp =0.26.3 =h6047f0a_2
+    - aws-sdk-cpp =1.11.267 =h558341a_3
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bcrypt =4.1.2 =py38h4900a04_0
     - blinker =1.7.0 =pyhd8ed1ab_0
@@ -95,7 +95,7 @@ requirements:
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.1.1 =py38hb1fd069_1
-    - cryptography =42.0.2 =py38hec14f37_0
+    - cryptography =42.0.5 =py38h95f5157_0
     - cssselect =1.2.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =py_0
     - cycler =0.12.1 =pyhd8ed1ab_0
@@ -170,14 +170,14 @@ requirements:
     - langcodes =3.3.0 =pyhd8ed1ab_0
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
-    - libabseil =20230802.1 =cxx17_h63175ca_0
-    - libarrow =14.0.2 =he5f67d5_3_cpu
-    - libarrow-acero =14.0.2 =h63175ca_3_cpu
-    - libarrow-dataset =14.0.2 =h63175ca_3_cpu
-    - libarrow-flight =14.0.2 =h53b1db0_3_cpu
-    - libarrow-flight-sql =14.0.2 =h78eab7c_3_cpu
-    - libarrow-gandiva =14.0.2 =hb2eaab1_3_cpu
-    - libarrow-substrait =14.0.2 =hd4c9904_3_cpu
+    - libabseil =20240116.1 =cxx17_h63175ca_2
+    - libarrow =15.0.1 =h2a83f13_2_cpu
+    - libarrow-acero =15.0.1 =h63175ca_2_cpu
+    - libarrow-dataset =15.0.1 =h63175ca_2_cpu
+    - libarrow-flight =15.0.1 =h02312f3_2_cpu
+    - libarrow-flight-sql =15.0.1 =h55b4db4_2_cpu
+    - libarrow-gandiva =15.0.1 =h3f2ff47_2_cpu
+    - libarrow-substrait =15.0.1 =h89268de_2_cpu
     - libblas =3.9.0 =21_win64_blis
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
@@ -186,24 +186,25 @@ requirements:
     - libclang =15.0.7 =default_hde6756a_4
     - libclang13 =15.0.7 =default_h85b4d89_4
     - libcrc32c =1.1.2 =h0e60522_0
-    - libcurl =8.5.0 =hd5e4a3a_0
+    - libcurl =8.6.0 =hd5e4a3a_0
     - libdeflate =1.19 =hcfcfb64_0
     - libevent =2.1.12 =h3671451_1
     - libexpat =2.6.2 =h63175ca_0
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h312136b_9
     - libglib =2.80.0 =h39d0aa6_0
-    - libgoogle-cloud =2.12.0 =h39f2fc6_4
-    - libgrpc =1.59.3 =h5bbd4a7_0
+    - libgoogle-cloud =2.22.0 =h9cad5c0_1
+    - libgoogle-cloud-storage =2.22.0 =hb581fae_1
+    - libgrpc =1.62.1 =h5273850_0
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =hcfcfb64_2
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =5_hd5c7e75_netlib
     - libogg =1.3.4 =h8ffe710_1
-    - libparquet =14.0.2 =h7ec3a38_3_cpu
+    - libparquet =15.0.1 =h7ec3a38_2_cpu
     - libpng =1.6.43 =h19919ed_0
-    - libprotobuf =4.24.4 =hb8276f3_0
-    - libre2-11 =2023.09.01 =h8c5ae5e_1
+    - libprotobuf =4.25.3 =h503648d_0
+    - libre2-11 =2023.09.01 =hf8d8778_2
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.45.2 =hcfcfb64_0
     - libssh2 =1.11.0 =h7dfc565_0
@@ -249,8 +250,8 @@ requirements:
     - numexpr =2.8.4 =py38h6de7050_101
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.2 =h3d672ee_0
-    - openssl =3.2.0 =hcfcfb64_1
-    - orc =1.9.2 =hf0b6bd4_0
+    - openssl =3.2.1 =hcfcfb64_0
+    - orc =2.0.0 =heb0c069_0
     - packaging =24.0 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.52.1 =h07c897b_0
@@ -274,18 +275,18 @@ requirements:
     - prompt-toolkit =3.0.42 =pyha770c72_0
     - prompt_toolkit =3.0.42 =hd8ed1ab_0
     - protego =0.3.0 =pyhd8ed1ab_0
-    - protobuf =4.24.4 =py38hd545272_0
+    - protobuf =4.25.3 =py38h0f53e27_0
     - psutil =5.9.8 =py38h91455d4_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py38h684852a_0
-    - pyarrow =14.0.2 =py38hd94c00f_3_cpu
+    - pyarrow =15.0.1 =py38hd94c00f_2_cpu
     - pyasn1 =0.5.1 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.21 =pyhd8ed1ab_0
-    - pydantic =2.6.3 =pyhd8ed1ab_0
+    - pydantic =2.6.4 =pyhd8ed1ab_0
     - pydantic-core =2.16.3 =py38h4900a04_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
@@ -310,10 +311,10 @@ requirements:
     - pywin32-on-windows =0.1.0 =pyh07e9846_2
     - pyyaml =6.0.1 =py38h91455d4_1
     - pyzmq =25.1.2 =py38hdecc13b_0
-    - qt-main =5.15.8 =h9e85ed6_18
+    - qt-main =5.15.8 =h9e85ed6_19
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
-    - re2 =2023.09.01 =hd3b24a8_1
+    - re2 =2023.09.01 =hd3b24a8_2
     - regex =2023.12.25 =py38h91455d4_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - requests-file =2.0.0 =pyhd8ed1ab_0
