@@ -50,7 +50,7 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - binaryornot =0.4.4 =py_1
-    - black =24.2.0 =py38he3eb160_0
+    - black =24.3.0 =py38he3eb160_0
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =h31becfc_1
     - brotli-bin =1.1.0 =h31becfc_1
@@ -207,9 +207,9 @@ requirements:
     - nss =3.98 =hc5a5cc2_0
     - numpydoc =1.6.0 =pyhd8ed1ab_0
     - openjpeg =2.5.2 =h0d9d63b_0
-    - openssl =3.2.1 =h31becfc_0
+    - openssl =3.2.1 =h31becfc_1
     - packaging =24.0 =pyhd8ed1ab_0
-    - pandoc =3.1.12.2 =h8af1aa0_0
+    - pandoc =3.1.12.3 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
@@ -265,7 +265,7 @@ requirements:
     - qtconsole-base =5.5.1 =pyha770c72_0
     - qtpy =2.4.1 =pyhd8ed1ab_0
     - readline =8.2 =h8fc344f_1
-    - referencing =0.33.0 =pyhd8ed1ab_0
+    - referencing =0.34.0 =pyhd8ed1ab_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rich =13.7.1 =pyhd8ed1ab_0
     - rope =1.12.0 =pyhd8ed1ab_0

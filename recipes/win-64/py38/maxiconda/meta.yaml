@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py38h91455d4_0
     - cython =3.0.9 =py38hd3f51b4_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.99.6 =pyha770c72_0
+    - hypothesis =6.99.8 =pyha770c72_0
     - ipython =8.12.2 =pyh08f2357_0
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38haa244fe_0
@@ -152,7 +152,7 @@ requirements:
     - jupyter-lsp =2.2.4 =pyhd8ed1ab_0
     - jupyter_client =8.6.1 =pyhd8ed1ab_0
     - jupyter_core =5.7.2 =py38haa244fe_0
-    - jupyter_events =0.9.1 =pyhd8ed1ab_0
+    - jupyter_events =0.10.0 =pyhd8ed1ab_0
     - jupyter_server =2.13.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_0
     - jupyterlab =4.1.5 =pyhd8ed1ab_0
@@ -235,7 +235,7 @@ requirements:
     - notebook =7.1.2 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_0
     - openjpeg =2.5.2 =h3d672ee_0
-    - openssl =3.2.1 =hcfcfb64_0
+    - openssl =3.2.1 =hcfcfb64_1
     - overrides =7.7.0 =pyhd8ed1ab_0
     - packaging =24.0 =pyhd8ed1ab_0
     - pandoc =2.19.2 =h57928b3_2
@@ -455,7 +455,7 @@ requirements:
     - r-yaml =2.3.8 =r41h6d2157b_0
     - r-zoo =1.8_12 =r41h6d2157b_1
     - rapidfuzz =3.6.2 =py38hd3f51b4_0
-    - referencing =0.33.0 =pyhd8ed1ab_0
+    - referencing =0.34.0 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rpds-py =0.18.0 =py38h4900a04_0
