@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.18 =h7a9c478_1_cpython
+    - python =3.9.19 =h7a9c478_0_cpython
   run:
-    - python =3.9.18 =h7a9c478_1_cpython
+    - python =3.9.19 =h7a9c478_0_cpython
 
     # 9 primary packages :
     - cython =3.0.9 =py39hd253f6c_0
@@ -80,8 +80,8 @@ requirements:
     - freetype =2.12.1 =h60636b9_2
     - gettext =0.21.1 =h8a4c099_0
     - giflib =5.2.1 =hb7f2c08_3
-    - glib =2.80.0 =h81c1438_0
-    - glib-tools =2.80.0 =h49a7eea_0
+    - glib =2.80.0 =h81c1438_1
+    - glib-tools =2.80.0 =h49a7eea_1
     - gmp =6.3.0 =h73e2aa4_1
     - gmpy2 =2.1.2 =py39h2da61ea_1
     - gst-plugins-base =1.22.9 =h3fb38fc_0
@@ -89,10 +89,10 @@ requirements:
     - icu =73.2 =hf5e326d_0
     - idna =3.6 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
-    - importlib-metadata =7.0.2 =pyha770c72_0
-    - importlib-resources =6.3.1 =pyhd8ed1ab_0
-    - importlib_metadata =7.0.2 =hd8ed1ab_0
-    - importlib_resources =6.3.1 =pyhd8ed1ab_0
+    - importlib-metadata =7.1.0 =pyha770c72_0
+    - importlib-resources =6.3.2 =pyhd8ed1ab_0
+    - importlib_metadata =7.1.0 =hd8ed1ab_0
+    - importlib_resources =6.3.2 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.29.3 =pyh3cd1d5f_0
@@ -125,7 +125,7 @@ requirements:
     - libffi =3.4.2 =h0d85af4_5
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.80.0 =h81c1438_0
+    - libglib =2.80.0 =h81c1438_1
     - libiconv =1.17 =hd75f5a5_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =21_osx64_openblas

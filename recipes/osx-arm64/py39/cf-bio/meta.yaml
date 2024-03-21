@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.18 =hd7ebdb9_1_cpython
+    - python =3.9.19 =hd7ebdb9_0_cpython
   run:
-    - python =3.9.18 =hd7ebdb9_1_cpython
+    - python =3.9.19 =hd7ebdb9_0_cpython
 
     # 10 primary packages :
     - biopython =1.83 =py39h17cfd9d_0
@@ -74,8 +74,8 @@ requirements:
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h0186832_0
     - glew =2.1.0 =h9f76cd9_2
-    - glib =2.80.0 =hfc324ee_0
-    - glib-tools =2.80.0 =hb9a4d99_0
+    - glib =2.80.0 =hfc324ee_1
+    - glib-tools =2.80.0 =hb9a4d99_1
     - glm =0.9.9.8 =h1995070_0
     - greenlet =3.0.3 =py39hf3050f2_0
     - griddataformats =1.0.2 =pyhd8ed1ab_0
@@ -86,10 +86,10 @@ requirements:
     - hdf4 =4.2.15 =h2ee6834_7
     - hdf5 =1.14.3 =nompi_h5bb55e9_100
     - icu =73.2 =hc8870d7_0
-    - importlib-metadata =7.0.2 =pyha770c72_0
-    - importlib-resources =6.3.1 =pyhd8ed1ab_0
-    - importlib_metadata =7.0.2 =hd8ed1ab_0
-    - importlib_resources =6.3.1 =pyhd8ed1ab_0
+    - importlib-metadata =7.1.0 =pyha770c72_0
+    - importlib-resources =6.3.2 =pyhd8ed1ab_0
+    - importlib_metadata =7.1.0 =hd8ed1ab_0
+    - importlib_resources =6.3.2 =pyhd8ed1ab_0
     - ipykernel =6.29.3 =pyh3cd1d5f_0
     - ipython =8.18.1 =pyh707e725_3
     - jedi =0.19.1 =pyhd8ed1ab_0
@@ -119,7 +119,7 @@ requirements:
     - libffi =3.4.2 =h3422bc3_5
     - libgfortran =5.0.0 =13_2_0_hd922786_3
     - libgfortran5 =13.2.0 =hf226fd6_3
-    - libglib =2.80.0 =hfc324ee_0
+    - libglib =2.80.0 =hfc324ee_1
     - libiconv =1.17 =h0d3ecfb_2
     - libjpeg-turbo =3.0.0 =hb547adb_1
     - liblapack =3.9.0 =21_osxarm64_openblas
@@ -202,7 +202,7 @@ requirements:
     - sqlalchemy =2.0.28 =py39h17cfd9d_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.1 =py39h373d45f_0
-    - threadpoolctl =3.3.0 =pyhc1e730c_0
+    - threadpoolctl =3.4.0 =pyhc1e730c_0
     - tidynamics =1.1.2 =pyhd8ed1ab_0
     - tk =8.6.13 =h5083fa2_1
     - toml =0.10.2 =pyhd8ed1ab_0

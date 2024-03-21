@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.18 =h4ac3b42_1_cpython
+    - python =3.9.19 =h4ac3b42_0_cpython
   run:
-    - python =3.9.18 =h4ac3b42_1_cpython
+    - python =3.9.19 =h4ac3b42_0_cpython
 
     # 2 primary packages :
     - pyqt =5.15.9 =py39hc7e6f3c_5
@@ -53,15 +53,15 @@ requirements:
     - fonts-conda-forge =1 =0
     - freetype =2.12.1 =hf0a5ef3_2
     - gettext =0.21.1 =ha18d298_0
-    - glib =2.80.0 =h9d8fbc1_0
-    - glib-tools =2.80.0 =hfbcf09e_0
+    - glib =2.80.0 =h9d8fbc1_1
+    - glib-tools =2.80.0 =hfbcf09e_1
     - graphite2 =1.3.13 =h7fd3ca4_1001
     - gst-plugins-base =1.22.9 =h6d82d15_0
     - gstreamer =1.22.9 =hed71854_0
     - harfbuzz =8.3.0 =hebeb849_0
     - icu =73.2 =h787c7f5_0
-    - importlib-metadata =7.0.2 =pyha770c72_0
-    - importlib_metadata =7.0.2 =hd8ed1ab_0
+    - importlib-metadata =7.1.0 =pyha770c72_0
+    - importlib_metadata =7.1.0 =hd8ed1ab_0
     - ipykernel =6.29.3 =pyhd33586a_0
     - ipython =8.18.1 =pyh707e725_3
     - jedi =0.19.1 =pyhd8ed1ab_0
@@ -82,7 +82,7 @@ requirements:
     - libflac =1.4.3 =h2f0025b_0
     - libgcc-ng =13.2.0 =hf8544c7_5
     - libgcrypt =1.10.3 =h31becfc_0
-    - libglib =2.80.0 =h9d8fbc1_0
+    - libglib =2.80.0 =h9d8fbc1_1
     - libgomp =13.2.0 =hf8544c7_5
     - libgpg-error =1.48 =h5ce24db_0
     - libiconv =1.17 =h31becfc_2

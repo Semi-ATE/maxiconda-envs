@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.8.18 =hbbe8eec_1_cpython
+    - python =3.8.19 =hbbe8eec_0_cpython
   run:
-    - python =3.8.18 =hbbe8eec_1_cpython
+    - python =3.8.19 =hbbe8eec_0_cpython
 
     # 9 primary packages :
     - cython =3.0.9 =py38hb83fbf6_0
@@ -93,8 +93,8 @@ requirements:
     - freetype =2.12.1 =hf0a5ef3_2
     - gettext =0.21.1 =ha18d298_0
     - giflib =5.2.1 =hb4cce97_3
-    - glib =2.80.0 =h9d8fbc1_0
-    - glib-tools =2.80.0 =hfbcf09e_0
+    - glib =2.80.0 =h9d8fbc1_1
+    - glib-tools =2.80.0 =hfbcf09e_1
     - gmp =6.3.0 =h2f0025b_1
     - gmpy2 =2.1.2 =py38hff653fa_1
     - graphite2 =1.3.13 =h7fd3ca4_1001
@@ -104,10 +104,10 @@ requirements:
     - icu =73.2 =h787c7f5_0
     - idna =3.6 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
-    - importlib-metadata =7.0.2 =pyha770c72_0
-    - importlib-resources =6.3.1 =pyhd8ed1ab_0
-    - importlib_metadata =7.0.2 =hd8ed1ab_0
-    - importlib_resources =6.3.1 =pyhd8ed1ab_0
+    - importlib-metadata =7.1.0 =pyha770c72_0
+    - importlib-resources =6.3.2 =pyhd8ed1ab_0
+    - importlib_metadata =7.1.0 =hd8ed1ab_0
+    - importlib_resources =6.3.2 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.29.3 =pyhd33586a_0
@@ -150,7 +150,7 @@ requirements:
     - libgcrypt =1.10.3 =h31becfc_0
     - libgfortran-ng =13.2.0 =he9431aa_5
     - libgfortran5 =13.2.0 =h582850c_5
-    - libglib =2.80.0 =h9d8fbc1_0
+    - libglib =2.80.0 =h9d8fbc1_1
     - libgomp =13.2.0 =hf8544c7_5
     - libgpg-error =1.48 =h5ce24db_0
     - libiconv =1.17 =h31becfc_2

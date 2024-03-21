@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.18 =h4de0772_1_cpython
+    - python =3.9.19 =h4de0772_0_cpython
   run:
-    - python =3.9.18 =h4de0772_1_cpython
+    - python =3.9.19 =h4de0772_0_cpython
 
     # 10 primary packages :
     - biopython =1.83 =py39ha55989b_0
@@ -72,8 +72,8 @@ requirements:
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h5728263_0
     - glew =2.1.0 =h39d44d4_2
-    - glib =2.80.0 =h39d0aa6_0
-    - glib-tools =2.80.0 =h0a98069_0
+    - glib =2.80.0 =h39d0aa6_1
+    - glib-tools =2.80.0 =h0a98069_1
     - glm =0.9.9.8 =h181d51b_0
     - greenlet =3.0.3 =py39h99910a6_0
     - griddataformats =1.0.2 =pyhd8ed1ab_0
@@ -84,10 +84,10 @@ requirements:
     - hdf4 =4.2.15 =h5557f11_7
     - hdf5 =1.14.3 =nompi_h73e8ff5_100
     - icu =73.2 =h63175ca_0
-    - importlib-metadata =7.0.2 =pyha770c72_0
-    - importlib-resources =6.3.1 =pyhd8ed1ab_0
-    - importlib_metadata =7.0.2 =hd8ed1ab_0
-    - importlib_resources =6.3.1 =pyhd8ed1ab_0
+    - importlib-metadata =7.1.0 =pyha770c72_0
+    - importlib-resources =6.3.2 =pyhd8ed1ab_0
+    - importlib_metadata =7.1.0 =hd8ed1ab_0
+    - importlib_resources =6.3.2 =pyhd8ed1ab_0
     - intel-openmp =2024.0.0 =h57928b3_49841
     - ipykernel =6.29.3 =pyha63f2e9_0
     - ipython =8.18.1 =pyh7428d3b_3
@@ -113,7 +113,7 @@ requirements:
     - libdeflate =1.19 =hcfcfb64_0
     - libexpat =2.6.2 =h63175ca_0
     - libffi =3.4.2 =h8ffe710_5
-    - libglib =2.80.0 =h39d0aa6_0
+    - libglib =2.80.0 =h39d0aa6_1
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =hcfcfb64_2
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
@@ -193,7 +193,7 @@ requirements:
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.1 =py39hd88c2e4_0
     - tbb =2021.11.0 =h91493d7_1
-    - threadpoolctl =3.3.0 =pyhc1e730c_0
+    - threadpoolctl =3.4.0 =pyhc1e730c_0
     - tidynamics =1.1.2 =pyhd8ed1ab_0
     - tk =8.6.13 =h5226925_1
     - toml =0.10.2 =pyhd8ed1ab_0
