@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.1 =r41hd8ed1ab_2003
     - regex =2023.12.25 =py38h91455d4_0
     - requests =2.31.0 =pyhd8ed1ab_0
-    - rust =1.76.0 =hf8d6059_0
+    - rust =1.77.0 =hf8d6059_0
     - scipy =1.10.1 =py38h1aea9ed_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.5.1 =win_pyh7428d3b_0
@@ -136,9 +136,9 @@ requirements:
     - icu =73.2 =h63175ca_0
     - idna =3.6 =pyhd8ed1ab_0
     - importlib-metadata =7.1.0 =pyha770c72_0
-    - importlib-resources =6.3.2 =pyhd8ed1ab_0
+    - importlib-resources =6.4.0 =pyhd8ed1ab_0
     - importlib_metadata =7.1.0 =hd8ed1ab_0
-    - importlib_resources =6.3.2 =pyhd8ed1ab_0
+    - importlib_resources =6.4.0 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
     - intel-openmp =2024.0.0 =h57928b3_49841
     - ipykernel =6.29.3 =pyha63f2e9_0
@@ -462,7 +462,7 @@ requirements:
     - ruamel.yaml =0.18.6 =py38h91455d4_0
     - ruamel.yaml.clib =0.2.8 =py38h91455d4_0
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-pc-windows-msvc =1.76.0 =h17fc481_0
+    - rust-std-x86_64-pc-windows-msvc =1.77.0 =h17fc481_0
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.2 =pyh08f2357_0
     - setuptools =69.2.0 =pyhd8ed1ab_0
@@ -498,7 +498,7 @@ requirements:
     - webcolors =1.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - websocket-client =1.7.0 =pyhd8ed1ab_0
-    - wheel =0.42.0 =pyhd8ed1ab_0
+    - wheel =0.43.0 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =py38haa244fe_5
     - winpty =0.4.3 =4
     - xorg-libxau =1.0.11 =hcd874cb_0

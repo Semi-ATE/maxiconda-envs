@@ -87,9 +87,9 @@ requirements:
     - hdf5 =1.14.3 =nompi_h5bb55e9_100
     - icu =73.2 =hc8870d7_0
     - importlib-metadata =7.1.0 =pyha770c72_0
-    - importlib-resources =6.3.2 =pyhd8ed1ab_0
+    - importlib-resources =6.4.0 =pyhd8ed1ab_0
     - importlib_metadata =7.1.0 =hd8ed1ab_0
-    - importlib_resources =6.3.2 =pyhd8ed1ab_0
+    - importlib_resources =6.4.0 =pyhd8ed1ab_0
     - ipykernel =6.29.3 =pyh3cd1d5f_0
     - ipython =8.18.1 =pyh707e725_3
     - jedi =0.19.1 =pyhd8ed1ab_0
@@ -100,7 +100,7 @@ requirements:
     - krb5 =1.21.2 =h92f50d5_0
     - lcms2 =2.16 =ha0e7c42_0
     - lerc =4.0.0 =h9a09cb3_0
-    - libaec =1.1.2 =h13dd4ca_1
+    - libaec =1.1.3 =hebf3989_0
     - libblas =3.9.0 =21_osxarm64_openblas
     - libboost =1.82.0 =h489e689_6
     - libboost-python =1.82.0 =py39h313cbe3_6
@@ -141,7 +141,7 @@ requirements:
     - libxml2 =2.12.6 =h0d0cfa8_0
     - libzip =1.10.1 =ha0bc3c6_3
     - libzlib =1.2.13 =h53f4e23_5
-    - llvm-openmp =18.1.1 =hcd81f8e_0
+    - llvm-openmp =18.1.2 =hcd81f8e_0
     - lz4-c =1.9.4 =hb7217d7_0
     - matplotlib-base =3.8.3 =py39hbab7938_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
@@ -215,7 +215,7 @@ requirements:
     - tzdata =2024a =h0c530f3_0
     - unicodedata2 =15.1.0 =py39h0f82c59_0
     - wcwidth =0.2.13 =pyhd8ed1ab_0
-    - wheel =0.42.0 =pyhd8ed1ab_0
+    - wheel =0.43.0 =pyhd8ed1ab_0
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xorg-libxau =1.0.11 =hb547adb_0
     - xorg-libxdmcp =1.1.3 =h27ca646_0
