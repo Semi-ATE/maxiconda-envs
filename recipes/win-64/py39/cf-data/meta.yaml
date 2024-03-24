@@ -61,11 +61,11 @@ requirements:
     - aws-c-http =0.8.1 =h4e3df0f_7
     - aws-c-io =0.14.6 =hf0b8b6f_1
     - aws-c-mqtt =0.10.3 =h96fac68_2
-    - aws-c-s3 =0.5.2 =h08df315_2
+    - aws-c-s3 =0.5.3 =h08df315_0
     - aws-c-sdkutils =0.1.15 =hf6fcf4e_2
     - aws-checksums =0.1.18 =hf6fcf4e_2
-    - aws-crt-cpp =0.26.3 =h6047f0a_2
-    - aws-sdk-cpp =1.11.267 =h558341a_3
+    - aws-crt-cpp =0.26.4 =hedeea9a_1
+    - aws-sdk-cpp =1.11.267 =hfaf0dd0_4
     - bcrypt =4.1.2 =py39hf21820d_0
     - blinker =1.7.0 =pyhd8ed1ab_0
     - bottleneck =1.3.8 =py39hd88c2e4_0
@@ -135,8 +135,8 @@ requirements:
     - graphite2 =1.3.13 =1000
     - graphviz =9.0.0 =h51cb2cd_1
     - greenlet =3.0.3 =py39h99910a6_0
-    - gst-plugins-base =1.22.9 =h001b923_0
-    - gstreamer =1.22.9 =hb4038d2_0
+    - gst-plugins-base =1.22.9 =h001b923_1
+    - gstreamer =1.22.9 =hb4038d2_1
     - gts =0.7.6 =h6b5321d_4
     - harfbuzz =8.3.0 =h7ab893a_0
     - htmlmin =0.1.12 =pyhca7485f_2
@@ -170,23 +170,23 @@ requirements:
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20240116.1 =cxx17_h63175ca_2
-    - libarrow =15.0.2 =h2a83f13_0_cpu
-    - libarrow-acero =15.0.2 =h63175ca_0_cpu
-    - libarrow-dataset =15.0.2 =h63175ca_0_cpu
-    - libarrow-flight =15.0.2 =h02312f3_0_cpu
-    - libarrow-flight-sql =15.0.2 =h55b4db4_0_cpu
-    - libarrow-gandiva =15.0.2 =h3f2ff47_0_cpu
-    - libarrow-substrait =15.0.2 =h89268de_0_cpu
+    - libarrow =15.0.2 =h878f99b_1_cpu
+    - libarrow-acero =15.0.2 =h63175ca_1_cpu
+    - libarrow-dataset =15.0.2 =h63175ca_1_cpu
+    - libarrow-flight =15.0.2 =h02312f3_1_cpu
+    - libarrow-flight-sql =15.0.2 =h55b4db4_1_cpu
+    - libarrow-gandiva =15.0.2 =h3f2ff47_1_cpu
+    - libarrow-substrait =15.0.2 =h89268de_1_cpu
     - libblas =3.9.0 =21_win64_openblas
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
     - libbrotlienc =1.1.0 =hcfcfb64_1
     - libcblas =3.9.0 =21_win64_openblas
-    - libclang =15.0.7 =default_hde6756a_4
-    - libclang13 =15.0.7 =default_h85b4d89_4
+    - libclang =15.0.7 =default_h3a3e6c3_5
+    - libclang13 =15.0.7 =default_hf64faad_5
     - libcrc32c =1.1.2 =h0e60522_0
     - libcurl =8.6.0 =hd5e4a3a_0
-    - libdeflate =1.19 =hcfcfb64_0
+    - libdeflate =1.20 =hcfcfb64_0
     - libevent =2.1.12 =h3671451_1
     - libexpat =2.6.2 =h63175ca_0
     - libffi =3.4.2 =h8ffe710_5
@@ -202,7 +202,7 @@ requirements:
     - liblapack =3.9.0 =21_win64_openblas
     - libogg =1.3.4 =h8ffe710_1
     - libopenblas =0.3.26 =pthreads_hc140b1d_0
-    - libparquet =15.0.2 =h7ec3a38_0_cpu
+    - libparquet =15.0.2 =h7ec3a38_1_cpu
     - libpng =1.6.43 =h19919ed_0
     - libprotobuf =4.25.3 =h503648d_0
     - libre2-11 =2023.09.01 =hf8d8778_2
@@ -210,7 +210,7 @@ requirements:
     - libsqlite =3.45.2 =hcfcfb64_0
     - libssh2 =1.11.0 =h7dfc565_0
     - libthrift =0.19.0 =ha2b3283_1
-    - libtiff =4.6.0 =h6e2ebb7_2
+    - libtiff =4.6.0 =hddb2be6_3
     - libutf8proc =2.8.0 =h82a8f57_0
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp =1.3.2 =hcfcfb64_1
@@ -282,7 +282,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py39hd3de297_0
-    - pyarrow =15.0.2 =py39h0a09291_0_cpu
+    - pyarrow =15.0.2 =py39h0a09291_1_cpu
     - pyasn1 =0.5.1 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -357,7 +357,7 @@ requirements:
     - traitlets =5.14.2 =pyhd8ed1ab_0
     - twisted =24.3.0 =py39ha55989b_0
     - twisted-iocpsupport =1.0.4 =py39ha55989b_1
-    - typer =0.9.0 =pyhd8ed1ab_0
+    - typer =0.9.4 =pyhd8ed1ab_0
     - typing-extensions =4.10.0 =hd8ed1ab_0
     - typing_extensions =4.10.0 =pyha770c72_0
     - tzdata =2024a =h0c530f3_0
