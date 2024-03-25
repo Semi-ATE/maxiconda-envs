@@ -40,12 +40,12 @@ requirements:
     - scrapy =2.11.1 =py39hcbf5309_2
     - seaborn =0.13.2 =hd8ed1ab_0
     - spyder-kernels =2.5.1 =win_pyh7428d3b_0
-    - sqlalchemy =2.0.28 =py39ha55989b_0
+    - sqlalchemy =2.0.29 =py39ha55989b_0
     - sqlite =3.45.2 =hcfcfb64_0
     - statsmodels =0.14.1 =py39hd88c2e4_0
     - xgboost =2.0.3 =cpu_py39hd3de297_0
 
-    # 354 secondary packages :
+    # 353 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_1
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -59,7 +59,7 @@ requirements:
     - aws-c-compression =0.2.18 =hf6fcf4e_2
     - aws-c-event-stream =0.4.2 =h3df98b0_6
     - aws-c-http =0.8.1 =h4e3df0f_7
-    - aws-c-io =0.14.6 =hf0b8b6f_1
+    - aws-c-io =0.14.6 =hf0b8b6f_2
     - aws-c-mqtt =0.10.3 =h96fac68_2
     - aws-c-s3 =0.5.3 =h08df315_0
     - aws-c-sdkutils =0.1.15 =hf6fcf4e_2
@@ -182,8 +182,7 @@ requirements:
     - libbrotlidec =1.1.0 =hcfcfb64_1
     - libbrotlienc =1.1.0 =hcfcfb64_1
     - libcblas =3.9.0 =21_win64_openblas
-    - libclang =15.0.7 =default_h3a3e6c3_5
-    - libclang13 =15.0.7 =default_hf64faad_5
+    - libclang13 =18.1.2 =default_hf64faad_1
     - libcrc32c =1.1.2 =h0e60522_0
     - libcurl =8.6.0 =hd5e4a3a_0
     - libdeflate =1.20 =hcfcfb64_0
@@ -217,7 +216,7 @@ requirements:
     - libwebp-base =1.3.2 =hcfcfb64_0
     - libxcb =1.15 =hcd874cb_0
     - libxgboost =2.0.3 =cpu_h0f92c63_0
-    - libxml2 =2.12.6 =hc3477c8_0
+    - libxml2 =2.12.6 =hc3477c8_1
     - libxslt =1.1.39 =h3df6e99_0
     - libzlib =1.2.13 =hcfcfb64_5
     - llvm-meta =5.0.0 =0
@@ -312,7 +311,7 @@ requirements:
     - pywin32-on-windows =0.1.0 =pyh07e9846_2
     - pyyaml =6.0.1 =py39ha55989b_1
     - pyzmq =25.1.2 =py39h7eaf5a6_0
-    - qt-main =5.15.8 =h9e85ed6_19
+    - qt-main =5.15.8 =h9e85ed6_20
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
     - re2 =2023.09.01 =hd3b24a8_2

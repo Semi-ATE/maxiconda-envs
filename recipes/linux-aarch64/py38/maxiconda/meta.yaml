@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py38h9579f32_0
     - cython =3.0.9 =py38hb83fbf6_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.99.12 =pyha770c72_0
+    - hypothesis =6.99.13 =pyha770c72_0
     - ipython =8.12.2 =pyh41d4057_0
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38h2063c64_0
@@ -56,7 +56,7 @@ requirements:
     - scipy =1.10.1 =py38he3f4005_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
-    - sqlalchemy =2.0.28 =py38hea3b116_0
+    - sqlalchemy =2.0.29 =py38hea3b116_0
     - sqlite =3.45.2 =h3b3482f_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.66.2 =pyhd8ed1ab_0
@@ -230,8 +230,8 @@ requirements:
     - libwebp-base =1.3.2 =h31becfc_0
     - libxcb =1.15 =h2a766a3_0
     - libxcrypt =4.4.36 =h31becfc_1
-    - libxkbcommon =1.6.0 =h217f472_1
-    - libxml2 =2.12.6 =h3091e33_0
+    - libxkbcommon =1.7.0 =h2555907_0
+    - libxml2 =2.12.6 =h3091e33_1
     - libzlib =1.2.13 =h31becfc_5
     - llvmlite =0.41.1 =py38h95a9722_0
     - lz4-c =1.9.4 =hd600fc2_0
@@ -440,7 +440,7 @@ requirements:
     - r-rlang =1.1.3 =r43h93f32a7_0
     - r-rmarkdown =2.26 =r43hc72bb7e_0
     - r-rpart =4.1.23 =r43h25e906a_0
-    - r-rstudioapi =0.15.0 =r43hc72bb7e_0
+    - r-rstudioapi =0.16.0 =r43hc72bb7e_0
     - r-rvest =1.0.4 =r43hc72bb7e_0
     - r-sass =0.4.9 =r43h93f32a7_0
     - r-scales =1.3.0 =r43hc72bb7e_0
@@ -479,7 +479,7 @@ requirements:
     - r-xts =0.13.2 =r43h25e906a_0
     - r-yaml =2.3.8 =r43h25e906a_0
     - r-zoo =1.8_12 =r43h25e906a_1
-    - rapidfuzz =3.6.2 =py38hb83fbf6_0
+    - rapidfuzz =3.7.0 =py38hb83fbf6_0
     - readline =8.2 =h8fc344f_1
     - referencing =0.34.0 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0

@@ -35,7 +35,7 @@ requirements:
     - spyder =5.5.3 =py39h2804cbe_0
     - sympy =1.12 =pypyh9d50eac_103
 
-    # 246 secondary packages :
+    # 249 secondary packages :
     - alabaster =0.7.16 =pyhd8ed1ab_0
     - applaunchservices =0.3.0 =pyh534df25_3
     - appnope =0.1.4 =pyhd8ed1ab_0
@@ -99,6 +99,8 @@ requirements:
     - ipython =8.18.1 =pyh707e725_3
     - isort =5.13.2 =pyhd8ed1ab_0
     - jaraco.classes =3.3.1 =pyhd8ed1ab_0
+    - jaraco.context =4.3.0 =pyhd8ed1ab_0
+    - jaraco.functools =4.0.0 =pyhd8ed1ab_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - jellyfish =1.0.3 =py39h8fec3ad_0
     - jinja2 =3.1.3 =pyhd8ed1ab_0
@@ -107,7 +109,7 @@ requirements:
     - jupyter_client =8.6.1 =pyhd8ed1ab_0
     - jupyter_core =5.7.2 =py39h2804cbe_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
-    - keyring =24.3.1 =py39h2804cbe_0
+    - keyring =25.0.0 =py39h2804cbe_0
     - kiwisolver =1.4.5 =py39hbd775c9_1
     - krb5 =1.21.2 =h92f50d5_0
     - lcms2 =2.16 =ha0e7c42_0
@@ -117,8 +119,8 @@ requirements:
     - libbrotlidec =1.1.0 =hb547adb_1
     - libbrotlienc =1.1.0 =hb547adb_1
     - libcblas =3.9.0 =21_osxarm64_openblas
-    - libclang =15.0.7 =default_he012953_5
-    - libclang13 =15.0.7 =default_h83d0a53_5
+    - libclang-cpp15 =15.0.7 =default_he012953_5
+    - libclang13 =18.1.2 =default_h83d0a53_1
     - libcxx =16.0.6 =h4653b0c_0
     - libdeflate =1.20 =h93a5062_0
     - libedit =3.1.20191231 =hc8eb9b7_2
@@ -130,6 +132,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =hb547adb_1
     - liblapack =3.9.0 =21_osxarm64_openblas
     - libllvm15 =15.0.7 =h2621b3d_4
+    - libllvm18 =18.1.2 =h30cc82d_0
     - libogg =1.3.4 =h27ca646_1
     - libopenblas =0.3.26 =openmp_h6c19121_0
     - libopus =1.3.1 =h27ca646_1
@@ -143,7 +146,7 @@ requirements:
     - libwebp =1.3.2 =hf30222e_1
     - libwebp-base =1.3.2 =hb547adb_0
     - libxcb =1.15 =hf346824_0
-    - libxml2 =2.12.6 =h0d0cfa8_0
+    - libxml2 =2.12.6 =h0d0cfa8_1
     - libzlib =1.2.13 =h53f4e23_5
     - llvm-openmp =18.1.2 =hcd81f8e_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
@@ -159,8 +162,8 @@ requirements:
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =1.0.0 =pyha770c72_0
-    - mysql-common =8.0.33 =hf9e6398_6
-    - mysql-libs =8.0.33 =he3dca8b_6
+    - mysql-common =8.3.0 =hd1853d3_4
+    - mysql-libs =8.3.0 =hf036fc4_4
     - nbclient =0.10.0 =pyhd8ed1ab_0
     - nbconvert =7.16.3 =hd8ed1ab_0
     - nbconvert-core =7.16.3 =pyhd8ed1ab_0
@@ -222,7 +225,7 @@ requirements:
     - pyzmq =25.1.2 =py39he1e2164_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.8 =h6bf1bb6_19
+    - qt-main =5.15.8 =h07f8ed4_20
     - qt-webengine =5.15.8 =h850e111_4
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.5.1 =pyhd8ed1ab_0
@@ -232,7 +235,7 @@ requirements:
     - referencing =0.34.0 =pyhd8ed1ab_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rich =13.7.1 =pyhd8ed1ab_0
-    - rope =1.12.0 =pyhd8ed1ab_0
+    - rope =1.13.0 =pyhd8ed1ab_0
     - rpds-py =0.18.0 =py39h9a407ce_0
     - rtree =1.2.0 =py39hb28b0e7_0
     - setuptools =69.2.0 =pyhd8ed1ab_0

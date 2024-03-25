@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.2 =pyhca7485f_0
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
 
-    # 99 secondary packages :
+    # 100 secondary packages :
     - appnope =0.1.4 =pyhd8ed1ab_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =h10d778d_5
@@ -62,8 +62,8 @@ requirements:
     - krb5 =1.21.2 =hb884880_0
     - libblas =3.9.0 =21_osx64_openblas
     - libcblas =3.9.0 =21_osx64_openblas
-    - libclang =15.0.7 =default_h7151d67_5
-    - libclang13 =15.0.7 =default_h0edc4dd_5
+    - libclang-cpp15 =15.0.7 =default_h7151d67_5
+    - libclang13 =18.1.2 =default_h0edc4dd_1
     - libcxx =16.0.6 =hd57cbcb_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libffi =3.4.2 =h0d85af4_5
@@ -74,6 +74,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =21_osx64_openblas
     - libllvm15 =15.0.7 =hbedff68_4
+    - libllvm18 =18.1.2 =hbcf5fad_0
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.26 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
@@ -83,12 +84,12 @@ requirements:
     - libsqlite =3.45.2 =h92b6c6a_0
     - libusb =1.0.27 =h83ace79_100
     - libvorbis =1.3.7 =h046ec9c_0
-    - libxml2 =2.12.6 =hc0ae0f7_0
+    - libxml2 =2.12.6 =hc0ae0f7_1
     - libzlib =1.2.13 =h8a1eda9_5
     - llvm-openmp =18.1.2 =hb6ac08f_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
-    - mysql-common =8.0.33 =h1d20c9b_6
-    - mysql-libs =8.0.33 =hed35180_6
+    - mysql-common =8.3.0 =hfd7a639_4
+    - mysql-libs =8.3.0 =ha9146f8_4
     - ncurses =6.4.20240210 =h73e2aa4_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
@@ -114,7 +115,7 @@ requirements:
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyvisa =1.14.1 =pyhd8ed1ab_0
     - pyzmq =25.1.2 =py39hcb7a90d_0
-    - qt-main =5.15.8 =h4385fff_19
+    - qt-main =5.15.8 =h98f5cd4_20
     - readline =8.2 =h9e318b2_1
     - setuptools =69.2.0 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h110ca85_0

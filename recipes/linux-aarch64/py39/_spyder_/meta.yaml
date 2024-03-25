@@ -35,7 +35,7 @@ requirements:
     - spyder =5.5.3 =py39h4420490_0
     - sympy =1.12 =pypyh9d50eac_103
 
-    # 311 secondary packages :
+    # 313 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.16 =pyhd8ed1ab_0
     - alsa-lib =1.2.11 =h31becfc_1
@@ -114,6 +114,8 @@ requirements:
     - ipython =8.18.1 =pyh707e725_3
     - isort =5.13.2 =pyhd8ed1ab_0
     - jaraco.classes =3.3.1 =pyhd8ed1ab_0
+    - jaraco.context =4.3.0 =pyhd8ed1ab_0
+    - jaraco.functools =4.0.0 =pyhd8ed1ab_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - jeepney =0.8.0 =pyhd8ed1ab_0
     - jellyfish =1.0.3 =py39hf916c31_0
@@ -123,7 +125,7 @@ requirements:
     - jupyter_client =8.6.1 =pyhd8ed1ab_0
     - jupyter_core =5.7.2 =py39h4420490_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
-    - keyring =24.3.1 =py39h4420490_0
+    - keyring =25.0.0 =py39h4420490_0
     - keyutils =1.6.1 =h4e544f5_0
     - kiwisolver =1.4.5 =py39had2cf8c_1
     - krb5 =1.21.2 =hc419048_0
@@ -176,8 +178,8 @@ requirements:
     - libwebp-base =1.3.2 =h31becfc_0
     - libxcb =1.15 =h2a766a3_0
     - libxcrypt =4.4.36 =h31becfc_1
-    - libxkbcommon =1.6.0 =h217f472_1
-    - libxml2 =2.12.6 =h3091e33_0
+    - libxkbcommon =1.7.0 =h2555907_0
+    - libxml2 =2.12.6 =h3091e33_1
     - libzlib =1.2.13 =h31becfc_5
     - lz4-c =1.9.4 =hd600fc2_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
@@ -266,7 +268,7 @@ requirements:
     - referencing =0.34.0 =pyhd8ed1ab_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rich =13.7.1 =pyhd8ed1ab_0
-    - rope =1.12.0 =pyhd8ed1ab_0
+    - rope =1.13.0 =pyhd8ed1ab_0
     - rpds-py =0.18.0 =py39hfe8b3a4_0
     - rtree =1.2.0 =py39h14cdea4_0
     - secretstorage =3.3.3 =py39ha65689a_2
