@@ -35,7 +35,7 @@ requirements:
     - spyder =5.5.3 =py38he3eb160_0
     - sympy =1.12 =pypyh9d50eac_103
 
-    # 314 secondary packages :
+    # 315 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - alsa-lib =1.2.11 =h31becfc_1
@@ -97,7 +97,7 @@ requirements:
     - glib-tools =2.80.0 =hfbcf09e_1
     - gmp =6.3.0 =h2f0025b_1
     - gmpy2 =2.1.2 =py38hff653fa_1
-    - graphite2 =1.3.13 =h7fd3ca4_1001
+    - graphite2 =1.3.13 =h2f0025b_1002
     - gst-plugins-base =1.22.9 =h0a86eba_1
     - gstreamer =1.22.9 =hed71854_1
     - harfbuzz =8.3.0 =hebeb849_0
@@ -139,8 +139,8 @@ requirements:
     - libbrotlienc =1.1.0 =h31becfc_1
     - libcap =2.69 =h883460d_0
     - libcblas =3.9.0 =20_linuxaarch64_openblas
-    - libclang =15.0.7 =default_hb368394_5
-    - libclang13 =15.0.7 =default_hf9b4efe_5
+    - libclang-cpp15 =15.0.7 =default_hb368394_5
+    - libclang13 =18.1.2 =default_hf9b4efe_1
     - libcups =2.3.3 =h405e4a8_4
     - libdeflate =1.20 =h31becfc_0
     - libedit =3.1.20191231 =he28a2e2_2
@@ -159,6 +159,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =h31becfc_1
     - liblapack =3.9.0 =20_linuxaarch64_openblas
     - libllvm15 =15.0.7 =hb4f23b0_4
+    - libllvm18 =18.1.2 =hbfe100b_0
     - libnsl =2.0.1 =h31becfc_0
     - libogg =1.3.4 =h3557bc0_1
     - libopenblas =0.3.25 =pthreads_h5a5ec62_0
@@ -196,8 +197,8 @@ requirements:
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =1.0.0 =pyha770c72_0
-    - mysql-common =8.0.33 =hb6794ad_6
-    - mysql-libs =8.0.33 =hf629957_6
+    - mysql-common =8.3.0 =hb6794ad_4
+    - mysql-libs =8.3.0 =hf629957_4
     - nbclient =0.10.0 =pyhd8ed1ab_0
     - nbconvert =7.16.3 =hd8ed1ab_0
     - nbconvert-core =7.16.3 =pyhd8ed1ab_0
@@ -231,7 +232,7 @@ requirements:
     - psutil =5.9.8 =py38h9579f32_0
     - pthread-stubs =0.4 =hb9de7d4_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pulseaudio-client =16.1 =h729494f_5
+    - pulseaudio-client =17.0 =h729494f_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycodestyle =2.11.1 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
@@ -260,8 +261,8 @@ requirements:
     - pyzmq =25.1.2 =py38ha083373_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
-    - qt-main =5.15.8 =h5992497_18
-    - qt-webengine =5.15.8 =h6291042_5
+    - qt-main =5.15.8 =h5d96f70_20
+    - qt-webengine =5.15.8 =hdddff8d_6
     - qtawesome =1.2.3 =pyhd8ed1ab_0
     - qtconsole =5.5.1 =pyhd8ed1ab_0
     - qtconsole-base =5.5.1 =pyha770c72_0
