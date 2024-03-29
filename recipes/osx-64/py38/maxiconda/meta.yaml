@@ -47,7 +47,7 @@ requirements:
     - pytest =8.1.1 =pyhd8ed1ab_0
     - pyyaml =6.0.1 =py38hcafd530_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
-    - qtawesome =1.3.0 =pyh9208f05_0
+    - qtawesome =1.3.1 =pyh9208f05_0
     - r-base =4.3.3 =hbe75827_0
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2023.12.25 =py38hae2e43d_0
@@ -111,7 +111,7 @@ requirements:
     - compiler-rt_osx-64 =18.1.2 =ha38d28d_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h15a1a5b_1
-    - curl =8.6.0 =h726d00d_0
+    - curl =8.7.1 =h726d00d_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - debugpy =1.8.1 =py38h1f5f77c_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -140,7 +140,7 @@ requirements:
     - glib-tools =2.78.4 =h2d185b6_0
     - gmp =6.3.0 =h73e2aa4_1
     - gmpy2 =2.1.2 =py38h919de47_1
-    - graphite2 =1.3.13 =h73e2aa4_1002
+    - graphite2 =1.3.13 =h73e2aa4_1003
     - greenlet =3.0.3 =py38h1f5f77c_0
     - gst-plugins-base =1.22.9 =h3fb38fc_0
     - gstreamer =1.22.9 =hf63bbb8_0
@@ -148,7 +148,7 @@ requirements:
     - h2 =4.1.0 =py38h50d1736_0
     - harfbuzz =8.3.0 =hf45c392_0
     - hpack =4.0.0 =pyh9f0ad1d_0
-    - httpcore =1.0.4 =pyhd8ed1ab_0
+    - httpcore =1.0.5 =pyhd8ed1ab_0
     - httpx =0.27.0 =pyhd8ed1ab_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =73.2 =hf5e326d_0
@@ -189,7 +189,7 @@ requirements:
     - libclang =15.0.7 =default_h7151d67_5
     - libclang-cpp18.1 =18.1.2 =default_h7151d67_1
     - libclang13 =15.0.7 =default_h0edc4dd_5
-    - libcurl =8.6.0 =h726d00d_0
+    - libcurl =8.7.1 =h726d00d_0
     - libcxx =16.0.6 =hd57cbcb_0
     - libdeflate =1.20 =h49d49c5_0
     - libedit =3.1.20191231 =h0678c8f_2
@@ -337,7 +337,7 @@ requirements:
     - r-formatr =1.14 =r43hc72bb7e_1
     - r-fs =1.6.3 =r43hac7d2d5_0
     - r-future =1.33.1 =r43hc72bb7e_0
-    - r-future.apply =1.11.1 =r43hc72bb7e_0
+    - r-future.apply =1.11.2 =r43hc72bb7e_0
     - r-gargle =1.5.2 =r43h785f33e_0
     - r-generics =0.1.3 =r43hc72bb7e_2
     - r-ggplot2 =3.5.0 =r43hc72bb7e_0
@@ -511,7 +511,7 @@ requirements:
     - webcolors =1.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - websocket-client =1.7.0 =pyhd8ed1ab_0
-    - wheel =0.43.0 =pyhd8ed1ab_0
+    - wheel =0.43.0 =pyhd8ed1ab_1
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xorg-libxau =1.0.11 =h0dc2134_0
     - xorg-libxdmcp =1.1.3 =h35c211d_0
