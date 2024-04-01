@@ -32,7 +32,7 @@ requirements:
     - pandas =2.0.3 =py38h78e6021_1
     - pymol-open-source =2.5.0 =py38h2374c4a_6
     - pyqt =5.15.9 =py38he1c912d_5
-    - rdkit =2023.09.6 =py38h1bde014_2
+    - rdkit =2024.03.1 =py38hf97be73_0
     - scipy =1.10.1 =py38h9cf86d3_3
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
 
@@ -45,7 +45,7 @@ requirements:
     - brotli-bin =1.1.0 =h0dc2134_1
     - brotli-python =1.1.0 =py38h940360d_1
     - bzip2 =1.0.8 =h10d778d_5
-    - c-ares =1.28.0 =h10d778d_0
+    - c-ares =1.28.1 =h10d778d_0
     - ca-certificates =2024.2.2 =h8857fd0_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1

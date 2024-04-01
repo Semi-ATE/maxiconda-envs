@@ -25,7 +25,7 @@ requirements:
     - python =3.8.19 =hd12c33a_0_cpython
 
     # 9 primary packages :
-    - cython =3.0.9 =py38h17151c0_0
+    - cython =3.0.10 =py38h17151c0_0
     - matplotlib =3.7.3 =py38h578d9bd_0
     - numpy =1.24.4 =py38h59b608b_0
     - pandas =2.0.3 =py38h01efb38_1
@@ -236,7 +236,7 @@ requirements:
     - pulseaudio-client =17.0 =hb77b528_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycodestyle =2.11.1 =pyhd8ed1ab_0
-    - pycparser =2.21 =pyhd8ed1ab_0
+    - pycparser =2.22 =pyhd8ed1ab_0
     - pydocstyle =6.3.0 =pyhd8ed1ab_0
     - pyflakes =3.2.0 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0

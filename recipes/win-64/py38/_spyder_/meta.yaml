@@ -25,7 +25,7 @@ requirements:
     - python =3.8.19 =h4de0772_0_cpython
 
     # 9 primary packages :
-    - cython =3.0.9 =py38hd3f51b4_0
+    - cython =3.0.10 =py38hd3f51b4_0
     - matplotlib =3.7.3 =py38haa244fe_0
     - numpy =1.24.4 =py38h1d91fd2_0
     - pandas =2.0.3 =py38hf08cf0d_1
@@ -189,7 +189,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycodestyle =2.11.1 =pyhd8ed1ab_0
-    - pycparser =2.21 =pyhd8ed1ab_0
+    - pycparser =2.22 =pyhd8ed1ab_0
     - pydocstyle =6.3.0 =pyhd8ed1ab_0
     - pyflakes =3.2.0 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0
