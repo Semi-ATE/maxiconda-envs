@@ -61,10 +61,10 @@ requirements:
     - aws-c-http =0.8.1 =h4e3df0f_7
     - aws-c-io =0.14.6 =hf0b8b6f_2
     - aws-c-mqtt =0.10.3 =h96fac68_2
-    - aws-c-s3 =0.5.4 =h08df315_0
+    - aws-c-s3 =0.5.5 =h08df315_0
     - aws-c-sdkutils =0.1.15 =hf6fcf4e_2
     - aws-checksums =0.1.18 =hf6fcf4e_2
-    - aws-crt-cpp =0.26.4 =hbe739fa_2
+    - aws-crt-cpp =0.26.4 =h944602d_3
     - aws-sdk-cpp =1.11.267 =hfaf0dd0_4
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bcrypt =4.1.2 =py38h4900a04_0
@@ -253,7 +253,7 @@ requirements:
     - orc =2.0.0 =heb0c069_0
     - packaging =24.0 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
-    - pango =1.52.1 =h07c897b_0
+    - pango =1.52.2 =h07c897b_0
     - paramiko =3.4.0 =pyhd8ed1ab_0
     - parsel =1.9.0 =pyhd8ed1ab_0
     - parso =0.8.3 =pyhd8ed1ab_0
@@ -262,7 +262,7 @@ requirements:
     - pcre2 =10.43 =h17e33f8_0
     - phik =0.12.3 =py38h6819d5e_1
     - pickleshare =0.7.5 =py38h32f6830_1002
-    - pillow =10.2.0 =py38hc375fad_0
+    - pillow =10.3.0 =py38h894f861_0
     - pip =24.0 =pyhd8ed1ab_0
     - pixman =0.43.4 =h63175ca_0
     - platformdirs =4.2.0 =pyhd8ed1ab_0
