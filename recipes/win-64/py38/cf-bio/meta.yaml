@@ -69,7 +69,7 @@ requirements:
     - fontconfig =2.14.2 =hbde0cde_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.50.0 =py38h91455d4_0
+    - fonttools =4.51.0 =py38h91455d4_0
     - freetype =2.12.1 =hdaf720e_2
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.21.1 =h5728263_0
@@ -154,7 +154,7 @@ requirements:
     - openjpeg =2.5.2 =h3d672ee_0
     - openssl =3.2.1 =hcfcfb64_1
     - packaging =24.0 =pyhd8ed1ab_0
-    - parso =0.8.3 =pyhd8ed1ab_0
+    - parso =0.8.4 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0
     - pbr =6.0.0 =pyhd8ed1ab_0
     - pcre2 =10.43 =h17e33f8_0
@@ -163,7 +163,7 @@ requirements:
     - pip =24.0 =pyhd8ed1ab_0
     - pixman =0.43.4 =h63175ca_0
     - platformdirs =4.2.0 =pyhd8ed1ab_0
-    - ply =3.11 =py_1
+    - ply =3.11 =pyhd8ed1ab_2
     - pmw =2.0.1 =py38haa244fe_1008
     - pooch =1.8.1 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.42 =pyha770c72_0
@@ -208,8 +208,8 @@ requirements:
     - tornado =6.4 =py38h91455d4_0
     - tqdm =4.66.2 =pyhd8ed1ab_0
     - traitlets =5.14.2 =pyhd8ed1ab_0
-    - typing-extensions =4.10.0 =hd8ed1ab_0
-    - typing_extensions =4.10.0 =pyha770c72_0
+    - typing-extensions =4.11.0 =hd8ed1ab_0
+    - typing_extensions =4.11.0 =pyha770c72_0
     - ucrt =10.0.22621.0 =h57928b3_0
     - unicodedata2 =15.1.0 =py38h91455d4_0
     - urllib3 =2.2.1 =pyhd8ed1ab_0

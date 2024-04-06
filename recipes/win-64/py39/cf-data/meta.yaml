@@ -36,7 +36,7 @@ requirements:
     - pydot =2.0.0 =py39hcbf5309_0
     - pyqt =5.15.9 =py39hb77abff_5
     - scikit-learn =1.4.1.post1 =py39h7c199eb_0
-    - scipy =1.12.0 =py39hddb5d58_2
+    - scipy =1.13.0 =py39hddb5d58_0
     - scrapy =2.11.1 =py39hcbf5309_2
     - seaborn =0.13.2 =hd8ed1ab_0
     - spyder-kernels =2.5.1 =win_pyh7428d3b_0
@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.1 =py39hd88c2e4_0
     - xgboost =2.0.3 =cpu_py39hd3de297_0
 
-    # 353 secondary packages :
+    # 349 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_1
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -89,7 +89,6 @@ requirements:
     - colorlover =0.3.0 =py_0
     - comm =0.2.2 =pyhd8ed1ab_0
     - confection =0.1.4 =py39h5b92f00_0
-    - configparser =6.0.1 =pyhd8ed1ab_0
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.2.0 =py39h1f6ef14_0
@@ -99,7 +98,7 @@ requirements:
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cymem =2.0.8 =py39h99910a6_1
     - cython-blis =0.7.10 =py39hd88c2e4_2
-    - databricks-cli =0.18.0 =pyhd8ed1ab_0
+    - databricks-cli =0.217.0 =hd02998f_0
     - dataclasses =0.8 =pyhc8e2a94_3
     - datefinder =0.7.3 =pyhd8ed1ab_0
     - debugpy =1.8.1 =py39h99910a6_0
@@ -118,7 +117,7 @@ requirements:
     - fontconfig =2.14.2 =hbde0cde_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.50.0 =py39ha55989b_0
+    - fonttools =4.51.0 =py39ha55989b_0
     - freetype =2.12.1 =hdaf720e_2
     - fribidi =1.0.10 =h8d14728_0
     - fst-pso =1.8.1 =pyhd8ed1ab_0
@@ -249,7 +248,6 @@ requirements:
     - nomkl =1.0 =h5ca1d4c_0
     - numba =0.59.1 =py39h6836801_0
     - numexpr =2.9.0 =py39h9a6cd94_100
-    - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.2 =h3d672ee_0
     - openmp =5.0.0 =vc14_1
     - openssl =3.2.1 =hcfcfb64_1
@@ -259,7 +257,7 @@ requirements:
     - pango =1.52.2 =h07c897b_0
     - paramiko =3.4.0 =pyhd8ed1ab_0
     - parsel =1.9.0 =pyhd8ed1ab_0
-    - parso =0.8.3 =pyhd8ed1ab_0
+    - parso =0.8.4 =pyhd8ed1ab_0
     - pathy =0.10.2 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0
     - pcre2 =10.43 =h17e33f8_0
@@ -269,12 +267,12 @@ requirements:
     - pip =24.0 =pyhd8ed1ab_0
     - pixman =0.43.4 =h63175ca_0
     - platformdirs =4.2.0 =pyhd8ed1ab_0
-    - ply =3.11 =py_1
+    - ply =3.11 =pyhd8ed1ab_2
     - preshed =3.0.9 =py39h99910a6_1
     - prometheus_client =0.20.0 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.23.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.42 =pyha770c72_0
-    - protego =0.3.0 =pyhd8ed1ab_0
+    - protego =0.3.1 =pyhd8ed1ab_0
     - protobuf =4.25.3 =py39h018ea92_0
     - psutil =5.9.8 =py39ha55989b_0
     - pthread-stubs =0.4 =hcd874cb_1001
@@ -291,7 +289,6 @@ requirements:
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0
-    - pyjwt =2.8.0 =pyhd8ed1ab_1
     - pyldavis =3.4.1 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py39h09fa780_3
     - pynndescent =0.5.12 =pyhca7485f_0
@@ -340,7 +337,6 @@ requirements:
     - sqlparse =0.4.4 =pyhd8ed1ab_0
     - srsly =2.4.8 =py39h99910a6_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
-    - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.11.0 =h91493d7_1
     - tenacity =8.2.3 =pyhd8ed1ab_0
@@ -357,8 +353,8 @@ requirements:
     - twisted =24.3.0 =py39ha55989b_0
     - twisted-iocpsupport =1.0.4 =py39ha55989b_1
     - typer =0.9.4 =pyhd8ed1ab_0
-    - typing-extensions =4.10.0 =hd8ed1ab_0
-    - typing_extensions =4.10.0 =pyha770c72_0
+    - typing-extensions =4.11.0 =hd8ed1ab_0
+    - typing_extensions =4.11.0 =pyha770c72_0
     - tzdata =2024a =h0c530f3_0
     - ucrt =10.0.22621.0 =h57928b3_0
     - umap-learn =0.5.5 =py39hcbf5309_1

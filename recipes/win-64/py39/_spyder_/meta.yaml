@@ -31,7 +31,7 @@ requirements:
     - pandas =2.2.1 =py39h32e6231_0
     - pyqt =5.15.9 =py39hb77abff_5
     - pyqtwebengine =5.15.9 =py39h2f4a3f1_5
-    - scipy =1.12.0 =py39hddb5d58_2
+    - scipy =1.13.0 =py39hddb5d58_0
     - spyder =5.5.3 =py39hcbf5309_0
     - sympy =1.12 =pyh04b8f61_3
 
@@ -77,7 +77,7 @@ requirements:
     - exceptiongroup =1.2.0 =pyhd8ed1ab_2
     - executing =2.0.1 =pyhd8ed1ab_0
     - flake8 =7.0.0 =pyhd8ed1ab_0
-    - fonttools =4.50.0 =py39ha55989b_0
+    - fonttools =4.51.0 =py39ha55989b_0
     - freetype =2.12.1 =hdaf720e_2
     - gettext =0.21.1 =h5728263_0
     - glib =2.80.0 =h39d0aa6_1
@@ -169,7 +169,7 @@ requirements:
     - pandoc =3.1.12.3 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - paramiko =3.4.0 =pyhd8ed1ab_0
-    - parso =0.8.3 =pyhd8ed1ab_0
+    - parso =0.8.4 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
     - pcre2 =10.43 =h17e33f8_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
@@ -179,7 +179,7 @@ requirements:
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - platformdirs =4.2.0 =pyhd8ed1ab_0
     - pluggy =1.4.0 =pyhd8ed1ab_0
-    - ply =3.11 =py_1
+    - ply =3.11 =pyhd8ed1ab_2
     - prompt-toolkit =3.0.42 =pyha770c72_0
     - psutil =5.9.8 =py39ha55989b_0
     - pthread-stubs =0.4 =hcd874cb_1001
@@ -255,8 +255,8 @@ requirements:
     - tornado =6.4 =py39ha55989b_0
     - traitlets =5.14.2 =pyhd8ed1ab_0
     - types-python-dateutil =2.9.0.20240316 =pyhd8ed1ab_0
-    - typing-extensions =4.10.0 =hd8ed1ab_0
-    - typing_extensions =4.10.0 =pyha770c72_0
+    - typing-extensions =4.11.0 =hd8ed1ab_0
+    - typing_extensions =4.11.0 =pyha770c72_0
     - tzdata =2024a =h0c530f3_0
     - ucrt =10.0.22621.0 =h57928b3_0
     - ujson =5.9.0 =py39h99910a6_0

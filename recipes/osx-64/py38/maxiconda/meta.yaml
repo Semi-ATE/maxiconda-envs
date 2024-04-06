@@ -128,7 +128,7 @@ requirements:
     - fontconfig =2.14.2 =h5bb23bf_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.50.0 =py38hae2e43d_0
+    - fonttools =4.51.0 =py38hae2e43d_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.12.1 =h60636b9_2
     - fribidi =1.0.10 =hbcb3906_0
@@ -230,7 +230,7 @@ requirements:
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mistune =3.0.2 =pyhd8ed1ab_0
     - mpc =1.3.1 =h81bd1dd_0
-    - mpfr =4.2.1 =h0c69b56_0
+    - mpfr =4.2.1 =h4f6b447_1
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - multidict =6.0.5 =py38hef030d1_0
     - munkres =1.1.4 =pyh9f0ad1d_0
@@ -252,7 +252,7 @@ requirements:
     - pandoc =3.1.12.3 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.52.1 =h7f2093b_0
-    - parso =0.8.3 =pyhd8ed1ab_0
+    - parso =0.8.4 =pyhd8ed1ab_0
     - pcre2 =10.42 =h0ad2156_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py38h32f6830_1002
@@ -263,7 +263,7 @@ requirements:
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - platformdirs =4.2.0 =pyhd8ed1ab_0
     - pluggy =1.4.0 =pyhd8ed1ab_0
-    - ply =3.11 =py_1
+    - ply =3.11 =pyhd8ed1ab_2
     - pooch =1.8.1 =pyhd8ed1ab_0
     - progressbar2 =4.4.2 =pyhd8ed1ab_0
     - prometheus_client =0.20.0 =pyhd8ed1ab_0
@@ -403,7 +403,7 @@ requirements:
     - r-prodlim =2023.08.28 =r43hac7d2d5_0
     - r-progress =1.2.3 =r43hc72bb7e_0
     - r-progressr =0.14.0 =r43hc72bb7e_0
-    - r-promises =1.2.1 =r43hac7d2d5_0
+    - r-promises =1.3.0 =r43h29979af_0
     - r-proxy =0.4_27 =r43h6dc245f_2
     - r-pryr =0.1.6 =r43hac7d2d5_1
     - r-ps =1.7.6 =r43hb2c329c_0
@@ -435,7 +435,7 @@ requirements:
     - r-scales =1.3.0 =r43hc72bb7e_0
     - r-selectr =0.4_2 =r43hc72bb7e_3
     - r-shape =1.4.6.1 =r43ha770c72_0
-    - r-shiny =1.8.1 =r43h785f33e_0
+    - r-shiny =1.8.1.1 =r43h785f33e_0
     - r-sourcetools =0.1.7_1 =r43hac7d2d5_1
     - r-spatial =7.3_17 =r43h6dc245f_0
     - r-squarem =2021.1 =r43hc72bb7e_2
@@ -500,8 +500,8 @@ requirements:
     - tornado =6.4 =py38hae2e43d_0
     - traitlets =5.14.2 =pyhd8ed1ab_0
     - types-python-dateutil =2.9.0.20240316 =pyhd8ed1ab_0
-    - typing-extensions =4.10.0 =hd8ed1ab_0
-    - typing_extensions =4.10.0 =pyha770c72_0
+    - typing-extensions =4.11.0 =hd8ed1ab_0
+    - typing_extensions =4.11.0 =pyha770c72_0
     - typing_utils =0.1.0 =pyhd8ed1ab_0
     - tzdata =2024a =h0c530f3_0
     - unicodedata2 =15.1.0 =py38hcafd530_0

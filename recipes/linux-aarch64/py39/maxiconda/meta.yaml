@@ -53,7 +53,7 @@ requirements:
     - regex =2023.12.25 =py39h898b7ef_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rust =1.77.1 =h9d3d833_0
-    - scipy =1.12.0 =py39h91c28bb_2
+    - scipy =1.13.0 =py39h91c28bb_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
     - sqlalchemy =2.0.29 =py39h7cc1d5f_0
@@ -121,7 +121,7 @@ requirements:
     - fontconfig =2.14.2 =ha9a116f_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.50.0 =py39h898b7ef_0
+    - fonttools =4.51.0 =py39h898b7ef_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.12.1 =hf0a5ef3_2
     - fribidi =1.0.10 =hb9de7d4_0
@@ -239,8 +239,8 @@ requirements:
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mistune =3.0.2 =pyhd8ed1ab_0
     - mpc =1.3.1 =hf4c8f4c_0
-    - mpfr =4.2.1 =ha2d0fc4_0
-    - mpg123 =1.32.4 =h2f0025b_0
+    - mpfr =4.2.1 =ha2d0fc4_1
+    - mpg123 =1.32.6 =h2f0025b_0
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - multidict =6.0.5 =py39h898b7ef_0
     - munkres =1.1.4 =pyh9f0ad1d_0
@@ -262,7 +262,7 @@ requirements:
     - pandoc =3.1.12.3 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.52.1 =h11ef544_0
-    - parso =0.8.3 =pyhd8ed1ab_0
+    - parso =0.8.4 =pyhd8ed1ab_0
     - pcre2 =10.42 =hd0f9c67_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py39hde42818_1002
@@ -273,7 +273,7 @@ requirements:
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - platformdirs =4.2.0 =pyhd8ed1ab_0
     - pluggy =1.4.0 =pyhd8ed1ab_0
-    - ply =3.11 =py_1
+    - ply =3.11 =pyhd8ed1ab_2
     - progressbar2 =4.4.2 =pyhd8ed1ab_0
     - prometheus_client =0.20.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.42 =pyha770c72_0
@@ -410,7 +410,7 @@ requirements:
     - r-prodlim =2023.08.28 =r43h93f32a7_0
     - r-progress =1.2.3 =r43hc72bb7e_0
     - r-progressr =0.14.0 =r43hc72bb7e_0
-    - r-promises =1.2.1 =r43h93f32a7_0
+    - r-promises =1.3.0 =r43h93f32a7_0
     - r-proxy =0.4_27 =r43h25e906a_2
     - r-pryr =0.1.6 =r43h93f32a7_1
     - r-ps =1.7.6 =r43h25e906a_0
@@ -442,7 +442,7 @@ requirements:
     - r-scales =1.3.0 =r43hc72bb7e_0
     - r-selectr =0.4_2 =r43hc72bb7e_3
     - r-shape =1.4.6.1 =r43ha770c72_0
-    - r-shiny =1.8.1 =r43h785f33e_0
+    - r-shiny =1.8.1.1 =r43h785f33e_0
     - r-sourcetools =0.1.7_1 =r43h93f32a7_1
     - r-spatial =7.3_17 =r43h25e906a_0
     - r-squarem =2021.1 =r43hc72bb7e_2
@@ -507,8 +507,8 @@ requirements:
     - tornado =6.4 =py39h7cc1d5f_0
     - traitlets =5.14.2 =pyhd8ed1ab_0
     - types-python-dateutil =2.9.0.20240316 =pyhd8ed1ab_0
-    - typing-extensions =4.10.0 =hd8ed1ab_0
-    - typing_extensions =4.10.0 =pyha770c72_0
+    - typing-extensions =4.11.0 =hd8ed1ab_0
+    - typing_extensions =4.11.0 =pyha770c72_0
     - typing_utils =0.1.0 =pyhd8ed1ab_0
     - tzdata =2024a =h0c530f3_0
     - unicodedata2 =15.1.0 =py39h898b7ef_0
