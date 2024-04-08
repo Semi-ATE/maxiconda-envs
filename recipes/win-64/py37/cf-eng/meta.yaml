@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.2 =pyhca7485f_0
     - spyder-kernels =2.4.3 =win_pyhd8ed1ab_0
 
-    # 83 secondary packages :
+    # 90 secondary packages :
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
@@ -46,9 +46,10 @@ requirements:
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
     - et_xmlfile =1.1.0 =pyhd8ed1ab_0
-    - gettext =0.21.1 =h5728263_0
-    - glib =2.80.0 =h39d0aa6_1
-    - glib-tools =2.80.0 =h0a98069_1
+    - gettext =0.22.5 =h5728263_2
+    - gettext-tools =0.22.5 =h7d00a51_2
+    - glib =2.80.0 =h39d0aa6_3
+    - glib-tools =2.80.0 =h0a98069_3
     - gst-plugins-base =1.22.9 =h001b923_1
     - gstreamer =1.22.9 =hb4038d2_1
     - icu =73.2 =h63175ca_0
@@ -61,13 +62,19 @@ requirements:
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =4.11.1 =py37h03978a9_0
     - krb5 =1.21.2 =heb0366b_0
+    - libasprintf =0.22.5 =h5728263_2
+    - libasprintf-devel =0.22.5 =h5728263_2
     - libblas =3.9.0 =21_win64_mkl
     - libcblas =3.9.0 =21_win64_mkl
     - libclang13 =18.1.2 =default_hf64faad_1
     - libffi =3.4.2 =h8ffe710_5
-    - libglib =2.80.0 =h39d0aa6_1
+    - libgettextpo =0.22.5 =h5728263_2
+    - libgettextpo-devel =0.22.5 =h5728263_2
+    - libglib =2.80.0 =h39d0aa6_3
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =hcfcfb64_2
+    - libintl =0.22.5 =h5728263_2
+    - libintl-devel =0.22.5 =h5728263_2
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =21_win64_mkl
     - libogg =1.3.4 =h8ffe710_1

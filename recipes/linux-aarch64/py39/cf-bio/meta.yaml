@@ -34,7 +34,7 @@ requirements:
     - scipy =1.13.0 =py39h91c28bb_0
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
 
-    # 193 secondary packages :
+    # 198 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h4e544f5_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
@@ -69,9 +69,10 @@ requirements:
     - fonttools =4.51.0 =py39h898b7ef_0
     - freetype =2.12.1 =hf0a5ef3_2
     - freetype-py =2.3.0 =pyhd8ed1ab_0
-    - gettext =0.21.1 =ha18d298_0
-    - glib =2.80.0 =h9d8fbc1_1
-    - glib-tools =2.80.0 =hfbcf09e_1
+    - gettext =0.22.5 =h2f0025b_2
+    - gettext-tools =0.22.5 =h2f0025b_2
+    - glib =2.80.0 =h9d8fbc1_3
+    - glib-tools =2.80.0 =hfbcf09e_3
     - graphite2 =1.3.13 =h2f0025b_1003
     - greenlet =3.0.3 =py39h387a81e_0
     - gst-plugins-base =1.22.0 =h8a62080_2
@@ -96,6 +97,8 @@ requirements:
     - lcms2 =2.15 =h3e0bdec_1
     - ld_impl_linux-aarch64 =2.40 =h2d8c526_0
     - lerc =4.0.0 =h4de3ea5_0
+    - libasprintf =0.22.5 =h7b6a552_2
+    - libasprintf-devel =0.22.5 =h7b6a552_2
     - libblas =3.9.0 =21_linuxaarch64_openblas
     - libbrotlicommon =1.1.0 =h31becfc_1
     - libbrotlidec =1.1.0 =h31becfc_1
@@ -114,9 +117,11 @@ requirements:
     - libflac =1.4.3 =h2f0025b_0
     - libgcc-ng =13.2.0 =hf8544c7_5
     - libgcrypt =1.10.3 =h31becfc_0
+    - libgettextpo =0.22.5 =h2f0025b_2
+    - libgettextpo-devel =0.22.5 =h2f0025b_2
     - libgfortran-ng =13.2.0 =he9431aa_5
     - libgfortran5 =13.2.0 =h582850c_5
-    - libglib =2.80.0 =h9d8fbc1_1
+    - libglib =2.80.0 =h9d8fbc1_3
     - libgomp =13.2.0 =hf8544c7_5
     - libgpg-error =1.48 =h5ce24db_0
     - libiconv =1.17 =h31becfc_2

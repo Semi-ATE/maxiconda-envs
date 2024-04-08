@@ -36,7 +36,7 @@ requirements:
     - scipy =1.13.0 =py39h474f0d3_0
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
 
-    # 229 secondary packages :
+    # 234 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.11 =hd590300_1
@@ -76,10 +76,11 @@ requirements:
     - fonttools =4.51.0 =py39hd1e30aa_0
     - freetype =2.12.1 =h267a509_2
     - freetype-py =2.3.0 =pyhd8ed1ab_0
-    - gettext =0.21.1 =h27087fc_0
+    - gettext =0.22.5 =h59595ed_2
+    - gettext-tools =0.22.5 =h59595ed_2
     - glew =2.1.0 =h9c3ff4c_2
-    - glib =2.80.0 =hf2295e7_1
-    - glib-tools =2.80.0 =hde27a5a_1
+    - glib =2.80.0 =hf2295e7_3
+    - glib-tools =2.80.0 =hde27a5a_3
     - glm =0.9.9.8 =h00ab1b0_0
     - graphite2 =1.3.13 =h59595ed_1003
     - greenlet =3.0.3 =py39h3d6467e_0
@@ -110,6 +111,8 @@ requirements:
     - ld_impl_linux-64 =2.40 =h41732ed_0
     - lerc =4.0.0 =h27087fc_0
     - libaec =1.1.3 =h59595ed_0
+    - libasprintf =0.22.5 =h661eb56_2
+    - libasprintf-devel =0.22.5 =h661eb56_2
     - libblas =3.9.0 =21_linux64_openblas
     - libboost =1.84.0 =h8013b2b_2
     - libboost-python =1.84.0 =py39hda80f44_2
@@ -131,9 +134,11 @@ requirements:
     - libflac =1.4.3 =h59595ed_0
     - libgcc-ng =13.2.0 =h807b86a_5
     - libgcrypt =1.10.3 =hd590300_0
+    - libgettextpo =0.22.5 =h59595ed_2
+    - libgettextpo-devel =0.22.5 =h59595ed_2
     - libgfortran-ng =13.2.0 =h69a702a_5
     - libgfortran5 =13.2.0 =ha4646dd_5
-    - libglib =2.80.0 =hf2295e7_1
+    - libglib =2.80.0 =hf2295e7_3
     - libglu =9.0.0 =hac7e632_1003
     - libgomp =13.2.0 =h807b86a_5
     - libgpg-error =1.48 =h71f35ed_0
@@ -141,7 +146,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =21_linux64_openblas
     - libllvm15 =15.0.7 =hb3ce162_4
-    - libllvm18 =18.1.2 =h2448989_0
+    - libllvm18 =18.1.3 =h2448989_0
     - libnetcdf =4.9.2 =nompi_h9612171_113
     - libnghttp2 =1.58.0 =h47da74e_1
     - libnsl =2.0.1 =hd590300_0
@@ -180,7 +185,7 @@ requirements:
     - ncurses =6.4.20240210 =h59595ed_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - netcdf4 =1.6.5 =nompi_py39h4282601_100
-    - networkx =3.3 =pyhd8ed1ab_0
+    - networkx =3.2.1 =pyhd8ed1ab_0
     - nspr =4.35 =h27087fc_0
     - nss =3.98 =h1d7d5a4_0
     - openjpeg =2.5.2 =h488ebb8_0
@@ -224,7 +229,7 @@ requirements:
     - setuptools =69.2.0 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h3d6467e_0
     - six =1.16.0 =pyh6c4a22f_0
-    - snappy =1.1.10 =h9fff704_0
+    - snappy =1.2.0 =hdb0a2a9_0
     - sqlalchemy =2.0.29 =py39hd1e30aa_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.1 =py39h44dd56e_0

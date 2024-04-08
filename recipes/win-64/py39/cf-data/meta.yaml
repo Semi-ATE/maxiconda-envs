@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.1 =py39hd88c2e4_0
     - xgboost =2.0.3 =cpu_py39hd3de297_0
 
-    # 349 secondary packages :
+    # 356 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_1
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -126,11 +126,12 @@ requirements:
     - fuzzytm =2.0.5 =pyhd8ed1ab_0
     - gensim =4.3.2 =py39h32e6231_1
     - getopt-win32 =0.1 =hcfcfb64_1
-    - gettext =0.21.1 =h5728263_0
+    - gettext =0.22.5 =h5728263_2
+    - gettext-tools =0.22.5 =h7d00a51_2
     - gitdb =4.0.11 =pyhd8ed1ab_0
     - gitpython =3.1.43 =pyhd8ed1ab_0
-    - glib =2.80.0 =h39d0aa6_1
-    - glib-tools =2.80.0 =h0a98069_1
+    - glib =2.80.0 =h39d0aa6_3
+    - glib-tools =2.80.0 =h0a98069_3
     - graphite2 =1.3.13 =h63175ca_1003
     - graphviz =9.0.0 =h51cb2cd_1
     - greenlet =3.0.3 =py39h99910a6_0
@@ -176,6 +177,8 @@ requirements:
     - libarrow-flight-sql =15.0.2 =h55b4db4_1_cpu
     - libarrow-gandiva =15.0.2 =h3f2ff47_1_cpu
     - libarrow-substrait =15.0.2 =h89268de_1_cpu
+    - libasprintf =0.22.5 =h5728263_2
+    - libasprintf-devel =0.22.5 =h5728263_2
     - libblas =3.9.0 =21_win64_openblas
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
@@ -190,12 +193,16 @@ requirements:
     - libffi =3.4.2 =h8ffe710_5
     - libflang =5.0.0 =h6538335_20180525
     - libgd =2.3.3 =h312136b_9
-    - libglib =2.80.0 =h39d0aa6_1
+    - libgettextpo =0.22.5 =h5728263_2
+    - libgettextpo-devel =0.22.5 =h5728263_2
+    - libglib =2.80.0 =h39d0aa6_3
     - libgoogle-cloud =2.22.0 =h9cad5c0_1
     - libgoogle-cloud-storage =2.22.0 =hb581fae_1
     - libgrpc =1.62.1 =h5273850_0
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =hcfcfb64_2
+    - libintl =0.22.5 =h5728263_2
+    - libintl-devel =0.22.5 =h5728263_2
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =21_win64_openblas
     - libogg =1.3.4 =h8ffe710_1
@@ -243,7 +250,7 @@ requirements:
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.10 =py39h99910a6_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
-    - networkx =3.3 =pyhd8ed1ab_0
+    - networkx =3.2.1 =pyhd8ed1ab_0
     - nltk =3.8.1 =pyhd8ed1ab_0
     - nomkl =1.0 =h5ca1d4c_0
     - numba =0.59.1 =py39h6836801_0
@@ -329,7 +336,7 @@ requirements:
     - slicer =0.0.7 =pyhd8ed1ab_0
     - smart_open =5.2.1 =pyhd8ed1ab_0
     - smmap =5.0.0 =pyhd8ed1ab_0
-    - snappy =1.1.10 =hfb803bf_0
+    - snappy =1.2.0 =hfb803bf_0
     - soupsieve =2.5 =pyhd8ed1ab_1
     - spacy =3.7.3 =py39h5c3ab46_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0

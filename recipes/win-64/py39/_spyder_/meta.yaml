@@ -35,7 +35,7 @@ requirements:
     - spyder =5.5.3 =py39hcbf5309_0
     - sympy =1.12 =pyh04b8f61_3
 
-    # 243 secondary packages :
+    # 250 secondary packages :
     - alabaster =0.7.16 =pyhd8ed1ab_0
     - arrow =1.3.0 =pyhd8ed1ab_0
     - astroid =3.0.3 =py39hcbf5309_0
@@ -79,9 +79,10 @@ requirements:
     - flake8 =7.0.0 =pyhd8ed1ab_0
     - fonttools =4.51.0 =py39ha55989b_0
     - freetype =2.12.1 =hdaf720e_2
-    - gettext =0.21.1 =h5728263_0
-    - glib =2.80.0 =h39d0aa6_1
-    - glib-tools =2.80.0 =h0a98069_1
+    - gettext =0.22.5 =h5728263_2
+    - gettext-tools =0.22.5 =h7d00a51_2
+    - glib =2.80.0 =h39d0aa6_3
+    - glib-tools =2.80.0 =h0a98069_3
     - gst-plugins-base =1.22.9 =h001b923_1
     - gstreamer =1.22.9 =hb4038d2_1
     - icu =73.2 =h63175ca_0
@@ -113,6 +114,8 @@ requirements:
     - krb5 =1.21.2 =heb0366b_0
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
+    - libasprintf =0.22.5 =h5728263_2
+    - libasprintf-devel =0.22.5 =h5728263_2
     - libblas =3.9.0 =21_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
@@ -121,9 +124,13 @@ requirements:
     - libclang13 =18.1.2 =default_hf64faad_1
     - libdeflate =1.20 =hcfcfb64_0
     - libffi =3.4.2 =h8ffe710_5
-    - libglib =2.80.0 =h39d0aa6_1
+    - libgettextpo =0.22.5 =h5728263_2
+    - libgettextpo-devel =0.22.5 =h5728263_2
+    - libglib =2.80.0 =h39d0aa6_3
     - libhwloc =2.9.3 =default_haede6df_1009
     - libiconv =1.17 =hcfcfb64_2
+    - libintl =0.22.5 =h5728263_2
+    - libintl-devel =0.22.5 =h5728263_2
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =21_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
@@ -166,7 +173,7 @@ requirements:
     - openjpeg =2.5.2 =h3d672ee_0
     - openssl =3.2.1 =hcfcfb64_1
     - packaging =24.0 =pyhd8ed1ab_0
-    - pandoc =3.1.12.3 =h57928b3_0
+    - pandoc =3.1.13 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - paramiko =3.4.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0

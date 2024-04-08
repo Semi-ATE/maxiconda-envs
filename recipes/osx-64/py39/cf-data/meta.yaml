@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.14.1 =py39h5b4affa_0
     - xgboost =2.0.3 =cpu_py39h15c3653_0
 
-    # 363 secondary packages :
+    # 370 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_1
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -130,13 +130,14 @@ requirements:
     - fuzzytm =2.0.5 =pyhd8ed1ab_0
     - gdk-pixbuf =2.42.10 =hd9e0ca3_5
     - gensim =4.3.2 =py39hcc9a0c8_0
-    - gettext =0.21.1 =h8a4c099_0
+    - gettext =0.22.5 =h5ff76d1_2
+    - gettext-tools =0.22.5 =h5ff76d1_2
     - gflags =2.2.2 =hb1e8313_1004
     - giflib =5.2.1 =hb7f2c08_3
     - gitdb =4.0.11 =pyhd8ed1ab_0
     - gitpython =3.1.43 =pyhd8ed1ab_0
-    - glib =2.80.0 =h81c1438_1
-    - glib-tools =2.80.0 =h49a7eea_1
+    - glib =2.80.0 =h81c1438_3
+    - glib-tools =2.80.0 =h49a7eea_3
     - glog =0.7.0 =h31b1b29_0
     - gmp =6.3.0 =h73e2aa4_1
     - gmpy2 =2.1.2 =py39h2da61ea_1
@@ -187,6 +188,8 @@ requirements:
     - libarrow-flight-sql =15.0.0 =hd0b7f58_6_cpu
     - libarrow-gandiva =15.0.0 =h31ebcf0_6_cpu
     - libarrow-substrait =15.0.0 =hd0b7f58_6_cpu
+    - libasprintf =0.22.5 =h5ff76d1_2
+    - libasprintf-devel =0.22.5 =h5ff76d1_2
     - libblas =3.9.0 =21_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
@@ -204,20 +207,24 @@ requirements:
     - libexpat =2.6.2 =h73e2aa4_0
     - libffi =3.4.2 =h0d85af4_5
     - libgd =2.3.3 =h0dceb68_9
+    - libgettextpo =0.22.5 =h5ff76d1_2
+    - libgettextpo-devel =0.22.5 =h5ff76d1_2
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.80.0 =h81c1438_1
+    - libglib =2.80.0 =h81c1438_3
     - libgoogle-cloud =2.17.0 =h22d6d9e_2
     - libgoogle-cloud-storage =2.17.0 =ha67e85c_2
     - libgrpc =1.60.1 =h038e8f1_0
     - libhwloc =2.9.3 =default_h24e0189_1009
     - libiconv =1.17 =hd75f5a5_2
+    - libintl =0.22.5 =h5ff76d1_2
+    - libintl-devel =0.22.5 =h5ff76d1_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =21_osx64_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm15 =15.0.7 =hbedff68_4
     - libllvm16 =16.0.6 =hbedff68_3
-    - libllvm18 =18.1.2 =hbcf5fad_0
+    - libllvm18 =18.1.3 =hbcf5fad_0
     - libnghttp2 =1.58.0 =h64cf6d3_1
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.26 =openmp_hfef2a42_0
@@ -270,7 +277,7 @@ requirements:
     - mysql-libs =8.3.0 =ha9146f8_4
     - ncurses =6.4.20240210 =h73e2aa4_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
-    - networkx =3.3 =pyhd8ed1ab_0
+    - networkx =3.2.1 =pyhd8ed1ab_0
     - nltk =3.8.1 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
     - nss =3.98 =ha05da47_0
@@ -358,7 +365,7 @@ requirements:
     - slicer =0.0.7 =pyhd8ed1ab_0
     - smart_open =5.2.1 =pyhd8ed1ab_0
     - smmap =5.0.0 =pyhd8ed1ab_0
-    - snappy =1.1.10 =h225ccf5_0
+    - snappy =1.2.0 =h6dc393e_0
     - soupsieve =2.5 =pyhd8ed1ab_1
     - spacy =3.7.3 =py39h5d0c61a_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0

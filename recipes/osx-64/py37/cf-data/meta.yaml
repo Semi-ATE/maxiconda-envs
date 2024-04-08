@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.13.2 =py37h4de8ad1_0
     - xgboost =2.0.3 =cpu_pyhc1a9e11_3
 
-    # 267 secondary packages :
+    # 274 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_0
     - amqp =5.2.0 =pyhd8ed1ab_1
@@ -101,11 +101,12 @@ requirements:
     - funcy =2.0 =pyhd8ed1ab_0
     - future =0.18.2 =py37hf985489_5
     - gensim =4.2.0 =py37h233bc55_0
-    - gettext =0.21.1 =h8a4c099_0
+    - gettext =0.22.5 =h5ff76d1_2
+    - gettext-tools =0.22.5 =h5ff76d1_2
     - gitdb =4.0.11 =pyhd8ed1ab_0
     - gitpython =3.1.43 =pyhd8ed1ab_0
-    - glib =2.80.0 =h81c1438_1
-    - glib-tools =2.80.0 =h49a7eea_1
+    - glib =2.80.0 =h81c1438_3
+    - glib-tools =2.80.0 =h49a7eea_3
     - graphviz =2.42.3 =h98dfb87_0
     - greenlet =1.1.3 =py37hac51a3e_0
     - gst-plugins-base =1.22.9 =h3fb38fc_1
@@ -142,6 +143,8 @@ requirements:
     - krb5 =1.20.1 =h049b76e_0
     - lcms2 =2.14 =h90f4b2a_0
     - lerc =4.0.0 =hb486fe8_0
+    - libasprintf =0.22.5 =h5ff76d1_2
+    - libasprintf-devel =0.22.5 =h5ff76d1_2
     - libblas =3.9.0 =20_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
@@ -152,10 +155,14 @@ requirements:
     - libdeflate =1.14 =hb7f2c08_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libffi =3.4.2 =h0d85af4_5
+    - libgettextpo =0.22.5 =h5ff76d1_2
+    - libgettextpo-devel =0.22.5 =h5ff76d1_2
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.80.0 =h81c1438_1
+    - libglib =2.80.0 =h81c1438_3
     - libiconv =1.17 =hd75f5a5_2
+    - libintl =0.22.5 =h5ff76d1_2
+    - libintl-devel =0.22.5 =h5ff76d1_2
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm11 =11.1.0 =h8fb7429_5
     - libllvm13 =13.0.1 =h64f94b2_2
