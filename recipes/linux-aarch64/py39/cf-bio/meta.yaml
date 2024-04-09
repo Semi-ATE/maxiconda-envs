@@ -26,7 +26,7 @@ requirements:
 
     # 8 primary packages :
     - biopython =1.83 =py39h898b7ef_0
-    - matplotlib =3.8.3 =py39ha65689a_0
+    - matplotlib =3.8.4 =py39ha65689a_0
     - numpy =1.26.4 =py39h91c28bb_0
     - pandas =2.2.1 =py39h26ccf5d_0
     - pyqt =5.15.9 =py39hc7e6f3c_5
@@ -71,8 +71,8 @@ requirements:
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.22.5 =h2f0025b_2
     - gettext-tools =0.22.5 =h2f0025b_2
-    - glib =2.80.0 =h9d8fbc1_3
-    - glib-tools =2.80.0 =hfbcf09e_3
+    - glib =2.80.0 =h9d8fbc1_4
+    - glib-tools =2.80.0 =hfbcf09e_4
     - graphite2 =1.3.13 =h2f0025b_1003
     - greenlet =3.0.3 =py39h387a81e_0
     - gst-plugins-base =1.22.0 =h8a62080_2
@@ -99,12 +99,12 @@ requirements:
     - lerc =4.0.0 =h4de3ea5_0
     - libasprintf =0.22.5 =h7b6a552_2
     - libasprintf-devel =0.22.5 =h7b6a552_2
-    - libblas =3.9.0 =21_linuxaarch64_openblas
+    - libblas =3.9.0 =22_linuxaarch64_openblas
     - libbrotlicommon =1.1.0 =h31becfc_1
     - libbrotlidec =1.1.0 =h31becfc_1
     - libbrotlienc =1.1.0 =h31becfc_1
     - libcap =2.67 =h8246067_0
-    - libcblas =3.9.0 =21_linuxaarch64_openblas
+    - libcblas =3.9.0 =22_linuxaarch64_openblas
     - libclang =15.0.7 =default_hb368394_5
     - libclang13 =15.0.7 =default_hf9b4efe_5
     - libcups =2.3.3 =h4303303_3
@@ -121,16 +121,16 @@ requirements:
     - libgettextpo-devel =0.22.5 =h2f0025b_2
     - libgfortran-ng =13.2.0 =he9431aa_5
     - libgfortran5 =13.2.0 =h582850c_5
-    - libglib =2.80.0 =h9d8fbc1_3
+    - libglib =2.80.0 =h9d8fbc1_4
     - libgomp =13.2.0 =hf8544c7_5
     - libgpg-error =1.48 =h5ce24db_0
     - libiconv =1.17 =h31becfc_2
     - libjpeg-turbo =2.1.5.1 =h31becfc_1
-    - liblapack =3.9.0 =21_linuxaarch64_openblas
+    - liblapack =3.9.0 =22_linuxaarch64_openblas
     - libllvm15 =15.0.7 =h87099f9_1
     - libnsl =2.0.1 =h31becfc_0
     - libogg =1.3.4 =h3557bc0_1
-    - libopenblas =0.3.26 =pthreads_h5a5ec62_0
+    - libopenblas =0.3.27 =pthreads_h5a5ec62_0
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.43 =h194ca79_0
     - libpq =15.3 =hf616e62_1
@@ -144,13 +144,13 @@ requirements:
     - libudev1 =253 =hb4cce97_1
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
-    - libwebp-base =1.3.2 =h31becfc_0
+    - libwebp-base =1.3.2 =h31becfc_1
     - libxcb =1.13 =h3557bc0_1004
     - libxkbcommon =1.5.0 =h4f22d97_1
     - libxml2 =2.10.3 =habe54e3_4
     - libzlib =1.2.13 =h31becfc_5
     - lz4-c =1.9.4 =hd600fc2_0
-    - matplotlib-base =3.8.3 =py39h8e43113_0
+    - matplotlib-base =3.8.4 =py39h8e43113_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mpg123 =1.32.6 =h2f0025b_0
     - munkres =1.1.4 =pyh9f0ad1d_0

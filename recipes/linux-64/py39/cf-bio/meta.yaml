@@ -26,7 +26,7 @@ requirements:
 
     # 10 primary packages :
     - biopython =1.83 =py39hd1e30aa_0
-    - matplotlib =3.8.3 =py39hf3d152e_0
+    - matplotlib =3.8.4 =py39hf3d152e_0
     - mdanalysis =2.7.0 =py39hddac248_1
     - numpy =1.26.4 =py39h474f0d3_0
     - pandas =2.2.1 =py39hddac248_0
@@ -79,15 +79,15 @@ requirements:
     - gettext =0.22.5 =h59595ed_2
     - gettext-tools =0.22.5 =h59595ed_2
     - glew =2.1.0 =h9c3ff4c_2
-    - glib =2.80.0 =hf2295e7_3
-    - glib-tools =2.80.0 =hde27a5a_3
+    - glib =2.80.0 =hf2295e7_4
+    - glib-tools =2.80.0 =hde27a5a_4
     - glm =0.9.9.8 =h00ab1b0_0
     - graphite2 =1.3.13 =h59595ed_1003
     - greenlet =3.0.3 =py39h3d6467e_0
     - griddataformats =1.0.2 =pyhd8ed1ab_0
     - gsd =3.2.1 =py39h44dd56e_0
-    - gst-plugins-base =1.22.9 =hfa15dee_1
-    - gstreamer =1.22.9 =h98fc4e7_1
+    - gst-plugins-base =1.24.1 =hfa15dee_1
+    - gstreamer =1.24.1 =h98fc4e7_1
     - h5py =3.10.0 =nompi_py39h2c511df_101
     - harfbuzz =8.3.0 =h3d44ed6_0
     - hdf4 =4.2.15 =h2a13503_7
@@ -100,7 +100,7 @@ requirements:
     - ipykernel =6.29.3 =pyhd33586a_0
     - ipython =8.18.1 =pyh707e725_3
     - jedi =0.19.1 =pyhd8ed1ab_0
-    - joblib =1.3.2 =pyhd8ed1ab_0
+    - joblib =1.4.0 =pyhd8ed1ab_0
     - jupyter_client =8.6.1 =pyhd8ed1ab_0
     - jupyter_core =5.7.2 =py39hf3d152e_0
     - keyutils =1.6.1 =h166bdaf_0
@@ -113,16 +113,16 @@ requirements:
     - libaec =1.1.3 =h59595ed_0
     - libasprintf =0.22.5 =h661eb56_2
     - libasprintf-devel =0.22.5 =h661eb56_2
-    - libblas =3.9.0 =21_linux64_openblas
+    - libblas =3.9.0 =22_linux64_openblas
     - libboost =1.84.0 =h8013b2b_2
     - libboost-python =1.84.0 =py39hda80f44_2
     - libbrotlicommon =1.1.0 =hd590300_1
     - libbrotlidec =1.1.0 =hd590300_1
     - libbrotlienc =1.1.0 =hd590300_1
     - libcap =2.69 =h0f662aa_0
-    - libcblas =3.9.0 =21_linux64_openblas
+    - libcblas =3.9.0 =22_linux64_openblas
     - libclang-cpp15 =15.0.7 =default_h127d8a8_5
-    - libclang13 =18.1.2 =default_h5d6823c_1
+    - libclang13 =18.1.3 =default_h5d6823c_0
     - libcups =2.3.3 =h4637d8d_4
     - libcurl =8.7.1 =hca28451_0
     - libdeflate =1.20 =hd590300_0
@@ -138,20 +138,20 @@ requirements:
     - libgettextpo-devel =0.22.5 =h59595ed_2
     - libgfortran-ng =13.2.0 =h69a702a_5
     - libgfortran5 =13.2.0 =ha4646dd_5
-    - libglib =2.80.0 =hf2295e7_3
+    - libglib =2.80.0 =hf2295e7_4
     - libglu =9.0.0 =hac7e632_1003
     - libgomp =13.2.0 =h807b86a_5
     - libgpg-error =1.48 =h71f35ed_0
     - libiconv =1.17 =hd590300_2
     - libjpeg-turbo =3.0.0 =hd590300_1
-    - liblapack =3.9.0 =21_linux64_openblas
+    - liblapack =3.9.0 =22_linux64_openblas
     - libllvm15 =15.0.7 =hb3ce162_4
     - libllvm18 =18.1.3 =h2448989_0
     - libnetcdf =4.9.2 =nompi_h9612171_113
     - libnghttp2 =1.58.0 =h47da74e_1
     - libnsl =2.0.1 =hd590300_0
     - libogg =1.3.4 =h7f98852_1
-    - libopenblas =0.3.26 =pthreads_h413a1c8_0
+    - libopenblas =0.3.27 =pthreads_h413a1c8_0
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.43 =h2797004_0
     - libpq =16.2 =h33b98f1_1
@@ -164,7 +164,7 @@ requirements:
     - libtiff =4.6.0 =h1dd3fc0_3
     - libuuid =2.38.1 =h0b41bf4_0
     - libvorbis =1.3.7 =h9c3ff4c_0
-    - libwebp-base =1.3.2 =hd590300_0
+    - libwebp-base =1.3.2 =hd590300_1
     - libxcb =1.15 =h0b41bf4_0
     - libxcrypt =4.4.36 =hd590300_1
     - libxkbcommon =1.7.0 =h662e7e4_0
@@ -172,7 +172,7 @@ requirements:
     - libzip =1.10.1 =h2629f0a_3
     - libzlib =1.2.13 =hd590300_5
     - lz4-c =1.9.4 =hcb278e6_0
-    - matplotlib-base =3.8.3 =py39he9076e7_0
+    - matplotlib-base =3.8.4 =py39he9076e7_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mda-xdrlib =0.2.0 =pyhd8ed1ab_0
     - mmtf-python =1.1.3 =pyhd8ed1ab_0
@@ -219,7 +219,7 @@ requirements:
     - pytng =0.3.1 =py39h0fd56e7_1
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyzmq =25.1.2 =py39h8c080ef_0
-    - qt-main =5.15.8 =h112747c_20
+    - qt-main =5.15.8 =hc9dc06e_21
     - readline =8.2 =h8228510_1
     - reportlab =4.1.0 =py39hd1e30aa_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
@@ -229,7 +229,7 @@ requirements:
     - setuptools =69.2.0 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h3d6467e_0
     - six =1.16.0 =pyh6c4a22f_0
-    - snappy =1.2.0 =hdb0a2a9_0
+    - snappy =1.1.10 =hdb0a2a9_1
     - sqlalchemy =2.0.29 =py39hd1e30aa_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.1 =py39h44dd56e_0

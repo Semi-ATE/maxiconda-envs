@@ -136,16 +136,16 @@ requirements:
     - giflib =5.2.1 =hb7f2c08_3
     - gitdb =4.0.11 =pyhd8ed1ab_0
     - gitpython =3.1.43 =pyhd8ed1ab_0
-    - glib =2.80.0 =h81c1438_3
-    - glib-tools =2.80.0 =h49a7eea_3
+    - glib =2.80.0 =h81c1438_4
+    - glib-tools =2.80.0 =h49a7eea_4
     - glog =0.7.0 =h31b1b29_0
     - gmp =6.3.0 =h73e2aa4_1
     - gmpy2 =2.1.2 =py38h919de47_1
     - graphite2 =1.3.13 =h73e2aa4_1003
     - graphviz =9.0.0 =hee74176_1
     - greenlet =3.0.3 =py38h1f5f77c_0
-    - gst-plugins-base =1.22.9 =h3fb38fc_1
-    - gstreamer =1.22.9 =hf63bbb8_1
+    - gst-plugins-base =1.24.1 =h12dd0d4_1
+    - gstreamer =1.24.1 =h7c243d7_1
     - gtk2 =2.24.33 =h8ca4665_4
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =21.2.0 =py38h50d1736_1
@@ -170,7 +170,7 @@ requirements:
     - jedi =0.19.1 =pyhd8ed1ab_0
     - jinja2 =3.1.3 =pyhd8ed1ab_0
     - jmespath =1.0.1 =pyhd8ed1ab_0
-    - joblib =1.3.2 =pyhd8ed1ab_0
+    - joblib =1.4.0 =pyhd8ed1ab_0
     - jupyter_client =8.6.1 =pyhd8ed1ab_0
     - jupyter_core =5.7.2 =py38h50d1736_0
     - jupyterlab_widgets =3.0.10 =pyhd8ed1ab_0
@@ -196,7 +196,7 @@ requirements:
     - libbrotlienc =1.1.0 =h0dc2134_1
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
-    - libclang13 =18.1.2 =default_h0edc4dd_1
+    - libclang13 =18.1.3 =default_h0edc4dd_0
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.7.1 =h726d00d_0
     - libcxx =16.0.6 =hd57cbcb_0
@@ -211,7 +211,7 @@ requirements:
     - libgettextpo-devel =0.22.5 =h5ff76d1_2
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.80.0 =h81c1438_3
+    - libglib =2.80.0 =h81c1438_4
     - libgoogle-cloud =2.17.0 =h22d6d9e_2
     - libgoogle-cloud-storage =2.17.0 =ha67e85c_2
     - libgrpc =1.60.1 =h038e8f1_0
@@ -245,13 +245,13 @@ requirements:
     - libuv =1.48.0 =h67532ce_0
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp =1.3.2 =h44782d1_1
-    - libwebp-base =1.3.2 =h0dc2134_0
+    - libwebp-base =1.3.2 =h10d778d_1
     - libxcb =1.15 =hb7f2c08_0
     - libxgboost =2.0.3 =cpu_h397da94_0
     - libxml2 =2.12.6 =hc0ae0f7_1
     - libxslt =1.1.39 =h03b04e6_0
     - libzlib =1.2.13 =h8a1eda9_5
-    - llvm-openmp =18.1.2 =hb6ac08f_0
+    - llvm-openmp =18.1.3 =hb6ac08f_0
     - llvmlite =0.41.1 =py38h6008ce5_0
     - lxml =5.1.0 =py38h3c26883_0
     - lz4-c =1.9.4 =hf0c8a7f_0
@@ -290,7 +290,7 @@ requirements:
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.52.2 =h7f2093b_0
     - paramiko =3.4.0 =pyhd8ed1ab_0
-    - parsel =1.9.0 =pyhd8ed1ab_0
+    - parsel =1.9.1 =pyhd8ed1ab_1
     - parso =0.8.4 =pyhd8ed1ab_0
     - pathy =0.10.2 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0
@@ -344,7 +344,7 @@ requirements:
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
     - pyyaml =6.0.1 =py38hcafd530_1
     - pyzmq =25.1.2 =py38ha51bd64_0
-    - qt-main =5.15.8 =h98f5cd4_20
+    - qt-main =5.15.8 =hecaf5c3_21
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
     - re2 =2023.09.01 =hb168e87_1
@@ -367,7 +367,7 @@ requirements:
     - slicer =0.0.7 =pyhd8ed1ab_0
     - smart_open =5.2.1 =pyhd8ed1ab_0
     - smmap =5.0.0 =pyhd8ed1ab_0
-    - snappy =1.2.0 =h6dc393e_0
+    - snappy =1.1.10 =h6dc393e_1
     - soupsieve =2.5 =pyhd8ed1ab_1
     - spacy =3.7.3 =py38h4a817e8_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0

@@ -31,10 +31,10 @@ requirements:
     - bitarray =2.9.2 =py39h898b7ef_0
     - cython =3.0.10 =py39h387a81e_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.100.0 =pyha770c72_0
+    - hypothesis =6.100.1 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.3 =pyhd8ed1ab_0
-    - matplotlib =3.8.3 =py39ha65689a_0
+    - matplotlib =3.8.4 =py39ha65689a_0
     - numba =0.59.1 =py39h8e1c05d_0
     - numpy =1.26.4 =py39h91c28bb_0
     - openpyxl =3.1.2 =py39h898b7ef_1
@@ -167,9 +167,9 @@ requirements:
     - jupyter_events =0.10.0 =pyhd8ed1ab_0
     - jupyter_server =2.13.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_0
-    - jupyterlab =4.1.5 =pyhd8ed1ab_0
+    - jupyterlab =4.1.6 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
-    - jupyterlab_server =2.25.4 =pyhd8ed1ab_0
+    - jupyterlab_server =2.26.0 =pyhd8ed1ab_0
     - kernel-headers_linux-aarch64 =4.18.0 =h5b4a56d_14
     - keyutils =1.6.1 =h4e544f5_0
     - kiwisolver =1.4.5 =py39had2cf8c_1
@@ -180,12 +180,12 @@ requirements:
     - lerc =4.0.0 =h4de3ea5_0
     - libasprintf =0.22.5 =h7b6a552_2
     - libasprintf-devel =0.22.5 =h7b6a552_2
-    - libblas =3.9.0 =21_linuxaarch64_openblas
+    - libblas =3.9.0 =22_linuxaarch64_openblas
     - libbrotlicommon =1.1.0 =h31becfc_1
     - libbrotlidec =1.1.0 =h31becfc_1
     - libbrotlienc =1.1.0 =h31becfc_1
     - libcap =2.69 =h883460d_0
-    - libcblas =3.9.0 =21_linuxaarch64_openblas
+    - libcblas =3.9.0 =22_linuxaarch64_openblas
     - libclang =15.0.7 =default_hb368394_5
     - libclang13 =15.0.7 =default_hf9b4efe_5
     - libcups =2.3.3 =h405e4a8_4
@@ -209,13 +209,13 @@ requirements:
     - libgpg-error =1.48 =h5ce24db_0
     - libiconv =1.17 =h31becfc_2
     - libjpeg-turbo =3.0.0 =h31becfc_1
-    - liblapack =3.9.0 =21_linuxaarch64_openblas
+    - liblapack =3.9.0 =22_linuxaarch64_openblas
     - libllvm14 =14.0.6 =h966f666_4
     - libllvm15 =15.0.7 =hb4f23b0_4
     - libnghttp2 =1.58.0 =hb0e430d_1
     - libnsl =2.0.1 =h31becfc_0
     - libogg =1.3.4 =h3557bc0_1
-    - libopenblas =0.3.26 =pthreads_h5a5ec62_0
+    - libopenblas =0.3.27 =pthreads_h5a5ec62_0
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.43 =h194ca79_0
     - libpq =16.2 =h58720eb_1
@@ -230,7 +230,7 @@ requirements:
     - libtiff =4.6.0 =hf980d43_3
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
-    - libwebp-base =1.3.2 =h31becfc_0
+    - libwebp-base =1.3.2 =h31becfc_1
     - libxcb =1.15 =h2a766a3_0
     - libxcrypt =4.4.36 =h31becfc_1
     - libxkbcommon =1.7.0 =h2555907_0
@@ -240,7 +240,7 @@ requirements:
     - lz4-c =1.9.4 =hd600fc2_0
     - make =4.3 =h309ac5b_1
     - markupsafe =2.1.5 =py39h7cc1d5f_0
-    - matplotlib-base =3.8.3 =py39h8e43113_0
+    - matplotlib-base =3.8.4 =py39h8e43113_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mistune =3.0.2 =pyhd8ed1ab_0
     - mpc =1.3.1 =hf4c8f4c_0
@@ -480,7 +480,7 @@ requirements:
     - r-xts =0.13.2 =r43h25e906a_0
     - r-yaml =2.3.8 =r43h25e906a_0
     - r-zoo =1.8_12 =r43h25e906a_1
-    - rapidfuzz =3.8.0 =py39h387a81e_0
+    - rapidfuzz =3.8.1 =py39h387a81e_0
     - readline =8.2 =h8fc344f_1
     - referencing =0.34.0 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
@@ -492,7 +492,7 @@ requirements:
     - rust-std-aarch64-unknown-linux-gnu =1.77.1 =hbe8e118_0
     - sed =4.8 =ha0d5d3d_0
     - semver =3.0.2 =pyhd8ed1ab_0
-    - send2trash =1.8.2 =pyh41d4057_0
+    - send2trash =1.8.3 =pyh0d859eb_0
     - setuptools =69.2.0 =pyhd8ed1ab_0
     - sip =6.8.3 =py39he8647fe_0
     - six =1.16.0 =pyh6c4a22f_0

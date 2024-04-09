@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =3.0.10 =py39hd253f6c_0
-    - matplotlib =3.8.3 =py39h6e9494a_0
+    - matplotlib =3.8.4 =py39h6e9494a_0
     - numpy =1.26.4 =py39h28c39a1_0
     - pandas =2.2.1 =py39haf03413_0
     - pyqt =5.15.9 =py39h3dce684_5
@@ -81,8 +81,8 @@ requirements:
     - gettext =0.22.5 =h5ff76d1_2
     - gettext-tools =0.22.5 =h5ff76d1_2
     - giflib =5.2.1 =hb7f2c08_3
-    - glib =2.80.0 =h81c1438_3
-    - glib-tools =2.80.0 =h49a7eea_3
+    - glib =2.80.0 =h81c1438_4
+    - glib-tools =2.80.0 =h49a7eea_4
     - gmp =6.3.0 =h73e2aa4_1
     - gmpy2 =2.1.2 =py39h2da61ea_1
     - gst-plugins-base =1.22.9 =h3fb38fc_1
@@ -100,7 +100,7 @@ requirements:
     - ipython =8.18.1 =pyh707e725_3
     - isort =5.13.2 =pyhd8ed1ab_0
     - jaraco.classes =3.4.0 =pyhd8ed1ab_0
-    - jaraco.context =4.3.0 =pyhd8ed1ab_0
+    - jaraco.context =5.3.0 =pyhd8ed1ab_0
     - jaraco.functools =4.0.0 =pyhd8ed1ab_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - jellyfish =1.0.3 =py39h3f9c672_0
@@ -117,13 +117,13 @@ requirements:
     - lerc =4.0.0 =hb486fe8_0
     - libasprintf =0.22.5 =h5ff76d1_2
     - libasprintf-devel =0.22.5 =h5ff76d1_2
-    - libblas =3.9.0 =21_osx64_openblas
+    - libblas =3.9.0 =22_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
     - libbrotlienc =1.1.0 =h0dc2134_1
-    - libcblas =3.9.0 =21_osx64_openblas
+    - libcblas =3.9.0 =22_osx64_openblas
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
-    - libclang13 =18.1.2 =default_h0edc4dd_1
+    - libclang13 =18.1.3 =default_h0edc4dd_0
     - libcxx =16.0.6 =hd57cbcb_0
     - libdeflate =1.20 =h49d49c5_0
     - libedit =3.1.20191231 =h0678c8f_2
@@ -132,16 +132,16 @@ requirements:
     - libgettextpo-devel =0.22.5 =h5ff76d1_2
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.80.0 =h81c1438_3
+    - libglib =2.80.0 =h81c1438_4
     - libiconv =1.17 =hd75f5a5_2
     - libintl =0.22.5 =h5ff76d1_2
     - libintl-devel =0.22.5 =h5ff76d1_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
-    - liblapack =3.9.0 =21_osx64_openblas
+    - liblapack =3.9.0 =22_osx64_openblas
     - libllvm15 =15.0.7 =hbedff68_4
     - libllvm18 =18.1.3 =hbcf5fad_0
     - libogg =1.3.4 =h35c211d_1
-    - libopenblas =0.3.26 =openmp_hfef2a42_0
+    - libopenblas =0.3.27 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =16.2 =ha925e61_1
@@ -151,14 +151,14 @@ requirements:
     - libtiff =4.6.0 =h129831d_3
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp =1.3.2 =h44782d1_1
-    - libwebp-base =1.3.2 =h0dc2134_0
+    - libwebp-base =1.3.2 =h10d778d_1
     - libxcb =1.15 =hb7f2c08_0
     - libxml2 =2.12.6 =hc0ae0f7_1
     - libzlib =1.2.13 =h8a1eda9_5
-    - llvm-openmp =18.1.2 =hb6ac08f_0
+    - llvm-openmp =18.1.3 =hb6ac08f_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py39ha09f3b3_0
-    - matplotlib-base =3.8.3 =py39h7070ae8_0
+    - matplotlib-base =3.8.4 =py39h7070ae8_0
     - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_0
     - mdurl =0.1.2 =pyhd8ed1ab_0
