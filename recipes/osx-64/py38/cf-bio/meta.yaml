@@ -30,7 +30,7 @@ requirements:
     - mdanalysis =2.4.3 =py38h5e08df7_0
     - numpy =1.24.4 =py38h9a4a08f_0
     - pandas =2.0.3 =py38h78e6021_1
-    - pymol-open-source =2.5.0 =py38h2374c4a_6
+    - pymol-open-source =3.0.0 =py38hfd74a03_6
     - pyqt =5.15.9 =py38he1c912d_5
     - rdkit =2024.03.1 =py38hf97be73_0
     - scipy =1.10.1 =py38h9cf86d3_3
@@ -40,7 +40,7 @@ requirements:
     - appnope =0.1.4 =pyhd8ed1ab_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
-    - blosc =1.21.5 =heccf04b_0
+    - blosc =1.21.5 =hafa3907_1
     - brotli =1.1.0 =h0dc2134_1
     - brotli-bin =1.1.0 =h0dc2134_1
     - brotli-python =1.1.0 =py38h940360d_1
@@ -214,7 +214,7 @@ requirements:
     - setuptools =69.2.0 =pyhd8ed1ab_0
     - sip =6.7.12 =py38hb2f96d7_0
     - six =1.16.0 =pyh6c4a22f_0
-    - snappy =1.1.10 =h6dc393e_1
+    - snappy =1.2.0 =h6dc393e_1
     - sqlalchemy =2.0.29 =py38hae2e43d_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.1 =py38h7092abf_0

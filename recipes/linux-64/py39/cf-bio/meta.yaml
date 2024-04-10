@@ -30,7 +30,7 @@ requirements:
     - mdanalysis =2.7.0 =py39hddac248_1
     - numpy =1.26.4 =py39h474f0d3_0
     - pandas =2.2.1 =py39hddac248_0
-    - pymol-open-source =2.5.0 =py39he03f1b4_6
+    - pymol-open-source =3.0.0 =py39hc8d1e12_6
     - pyqt =5.15.9 =py39h52134e7_5
     - rdkit =2024.03.1 =py39h6cc1c65_0
     - scipy =1.13.0 =py39h474f0d3_0
@@ -42,7 +42,7 @@ requirements:
     - alsa-lib =1.2.11 =hd590300_1
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attr =2.5.1 =h166bdaf_1
-    - blosc =1.21.5 =h0f2a231_0
+    - blosc =1.21.5 =hc2324a3_1
     - brotli =1.1.0 =hd590300_1
     - brotli-bin =1.1.0 =hd590300_1
     - bzip2 =1.0.8 =hd590300_5
@@ -229,7 +229,7 @@ requirements:
     - setuptools =69.2.0 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h3d6467e_0
     - six =1.16.0 =pyh6c4a22f_0
-    - snappy =1.1.10 =hdb0a2a9_1
+    - snappy =1.2.0 =hdb0a2a9_1
     - sqlalchemy =2.0.29 =py39hd1e30aa_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.1 =py39h44dd56e_0
