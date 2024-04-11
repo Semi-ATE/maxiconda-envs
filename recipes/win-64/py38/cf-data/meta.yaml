@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.1 =py38he7056a7_0
     - xgboost =2.0.3 =cpu_py38h684852a_0
 
-    # 354 secondary packages :
+    # 358 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_1
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -53,23 +53,22 @@ requirements:
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attrs =23.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.16 =h7613915_8
-    - aws-c-cal =0.6.10 =hf6fcf4e_2
-    - aws-c-common =0.9.14 =hcfcfb64_0
-    - aws-c-compression =0.2.18 =hf6fcf4e_2
-    - aws-c-event-stream =0.4.2 =h3df98b0_6
-    - aws-c-http =0.8.1 =h4e3df0f_7
-    - aws-c-io =0.14.6 =hf0b8b6f_2
-    - aws-c-mqtt =0.10.3 =h96fac68_2
-    - aws-c-s3 =0.5.5 =h08df315_0
-    - aws-c-sdkutils =0.1.15 =hf6fcf4e_2
-    - aws-checksums =0.1.18 =hf6fcf4e_2
-    - aws-crt-cpp =0.26.4 =h944602d_3
-    - aws-sdk-cpp =1.11.267 =hfaf0dd0_4
+    - aws-c-auth =0.7.17 =hb40cdec_2
+    - aws-c-cal =0.6.11 =ha21e00f_0
+    - aws-c-common =0.9.15 =hcfcfb64_0
+    - aws-c-compression =0.2.18 =ha21e00f_3
+    - aws-c-event-stream =0.4.2 =hf668b60_8
+    - aws-c-http =0.8.1 =hd704247_10
+    - aws-c-io =0.14.7 =h14865c8_3
+    - aws-c-mqtt =0.10.3 =h748201e_4
+    - aws-c-s3 =0.5.7 =h5da7064_1
+    - aws-c-sdkutils =0.1.15 =ha21e00f_3
+    - aws-checksums =0.1.18 =ha21e00f_3
+    - aws-crt-cpp =0.26.6 =h5bc0ceb_4
+    - aws-sdk-cpp =1.11.267 =h5d77392_6
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bcrypt =4.1.2 =py38h4900a04_0
     - blinker =1.7.0 =pyhd8ed1ab_0
-    - blis =0.9.0 =hcfcfb64_1
     - bottleneck =1.3.8 =py38he7056a7_0
     - brotli =1.1.0 =hcfcfb64_1
     - brotli-bin =1.1.0 =hcfcfb64_1
@@ -91,6 +90,7 @@ requirements:
     - colorlover =0.3.0 =py_0
     - comm =0.2.2 =pyhd8ed1ab_0
     - confection =0.1.4 =py38h009e608_0
+    - configparser =6.0.1 =pyhd8ed1ab_0
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.1.1 =py38hb1fd069_1
@@ -100,7 +100,7 @@ requirements:
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cymem =2.0.8 =py38hd3f51b4_1
     - cython-blis =0.7.10 =py38he7056a7_2
-    - databricks-cli =0.217.0 =hd02998f_0
+    - databricks-cli =0.17.8 =pyhd8ed1ab_0
     - dataclasses =0.8 =pyhc8e2a94_3
     - datefinder =0.7.3 =pyhd8ed1ab_0
     - debugpy =1.8.1 =py38hd3f51b4_0
@@ -151,6 +151,7 @@ requirements:
     - importlib_metadata =7.1.0 =hd8ed1ab_0
     - importlib_resources =6.4.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
+    - intel-openmp =2024.1.0 =h57928b3_964
     - ipykernel =6.29.3 =pyha63f2e9_0
     - ipython =8.12.2 =pyh08f2357_0
     - ipywidgets =8.1.2 =pyhd8ed1ab_0
@@ -171,20 +172,20 @@ requirements:
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20240116.1 =cxx17_h63175ca_2
-    - libarrow =15.0.2 =h878f99b_1_cpu
-    - libarrow-acero =15.0.2 =h63175ca_1_cpu
-    - libarrow-dataset =15.0.2 =h63175ca_1_cpu
-    - libarrow-flight =15.0.2 =h02312f3_1_cpu
-    - libarrow-flight-sql =15.0.2 =h55b4db4_1_cpu
-    - libarrow-gandiva =15.0.2 =h3f2ff47_1_cpu
-    - libarrow-substrait =15.0.2 =h89268de_1_cpu
+    - libarrow =15.0.2 =h45212c0_3_cpu
+    - libarrow-acero =15.0.2 =h8681a6d_3_cpu
+    - libarrow-dataset =15.0.2 =h8681a6d_3_cpu
+    - libarrow-flight =15.0.2 =h83a3238_3_cpu
+    - libarrow-flight-sql =15.0.2 =h21569af_3_cpu
+    - libarrow-gandiva =15.0.2 =h05de715_3_cpu
+    - libarrow-substrait =15.0.2 =hea7f8fd_3_cpu
     - libasprintf =0.22.5 =h5728263_2
     - libasprintf-devel =0.22.5 =h5728263_2
-    - libblas =3.9.0 =22_win64_blis
+    - libblas =3.9.0 =22_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
     - libbrotlienc =1.1.0 =hcfcfb64_1
-    - libcblas =3.9.0 =22_win64_blis
+    - libcblas =3.9.0 =22_win64_mkl
     - libclang13 =18.1.3 =default_hf64faad_0
     - libcrc32c =1.1.2 =h0e60522_0
     - libcurl =8.7.1 =hd5e4a3a_0
@@ -204,9 +205,9 @@ requirements:
     - libintl =0.22.5 =h5728263_2
     - libintl-devel =0.22.5 =h5728263_2
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
-    - liblapack =3.9.0 =5_hd5c7e75_netlib
+    - liblapack =3.9.0 =22_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
-    - libparquet =15.0.2 =h7ec3a38_1_cpu
+    - libparquet =15.0.2 =h39135fc_3_cpu
     - libpng =1.6.43 =h19919ed_0
     - libprotobuf =4.25.3 =h503648d_0
     - libre2-11 =2023.09.01 =hf8d8778_2
@@ -232,7 +233,7 @@ requirements:
     - m2w64-gcc-libs-core =5.3.0 =7
     - m2w64-gmp =6.1.0 =2
     - m2w64-libwinpthread-git =5.0.0.4634.697f757 =2
-    - mako =1.3.2 =pyhd8ed1ab_0
+    - mako =1.3.3 =pyhd8ed1ab_0
     - markdown =3.6 =pyhd8ed1ab_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py38h91455d4_0
@@ -241,6 +242,7 @@ requirements:
     - mdurl =0.1.2 =pyhd8ed1ab_0
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.5.2 =pyhd8ed1ab_0
+    - mkl =2024.1.0 =h66d3029_692
     - mlflow =1.27.0 =py38hdedce57_0
     - mlxtend =0.23.1 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
@@ -250,12 +252,12 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - networkx =3.1 =pyhd8ed1ab_0
     - nltk =3.8.1 =pyhd8ed1ab_0
-    - nomkl =1.0 =h5ca1d4c_0
     - numba =0.58.1 =py38h4a59444_0
-    - numexpr =2.8.4 =py38h6de7050_101
+    - numexpr =2.7.3 =py38h5d928e2_2
+    - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.2 =h3d672ee_0
     - openssl =3.2.1 =hcfcfb64_1
-    - orc =2.0.0 =heb0c069_0
+    - orc =2.0.0 =h7e885a9_1
     - packaging =24.0 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.52.2 =h07c897b_0
@@ -285,7 +287,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py38h684852a_0
-    - pyarrow =15.0.2 =py38hd94c00f_1_cpu
+    - pyarrow =15.0.2 =py38he6cee64_3_cpu
     - pyasn1 =0.5.1 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -295,6 +297,7 @@ requirements:
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0
+    - pyjwt =2.8.0 =pyhd8ed1ab_1
     - pyldavis =3.4.1 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py38hbc1c497_3
     - pynndescent =0.5.12 =pyhca7485f_0
@@ -335,7 +338,7 @@ requirements:
     - slicer =0.0.7 =pyhd8ed1ab_0
     - smart_open =5.2.1 =pyhd8ed1ab_0
     - smmap =5.0.0 =pyhd8ed1ab_0
-    - snappy =1.1.10 =hfb803bf_1
+    - snappy =1.2.0 =hfb803bf_1
     - soupsieve =2.5 =pyhd8ed1ab_1
     - spacy =3.7.3 =py38h153b517_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
@@ -343,6 +346,7 @@ requirements:
     - sqlparse =0.4.4 =pyhd8ed1ab_0
     - srsly =2.4.8 =py38hd3f51b4_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
+    - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.11.0 =h91493d7_1
     - tenacity =8.2.3 =pyhd8ed1ab_0
@@ -364,7 +368,7 @@ requirements:
     - ucrt =10.0.22621.0 =h57928b3_0
     - umap-learn =0.5.5 =py38haa244fe_1
     - unicodedata2 =15.1.0 =py38h91455d4_0
-    - urllib3 =2.2.1 =pyhd8ed1ab_0
+    - urllib3 =1.26.18 =pyhd8ed1ab_0
     - vc =14.3 =hcf57466_18
     - vc14_runtime =14.38.33130 =h82b7239_18
     - visions =0.7.1 =pyhd8ed1ab_0

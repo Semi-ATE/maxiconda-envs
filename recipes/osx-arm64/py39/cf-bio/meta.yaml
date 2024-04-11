@@ -29,8 +29,8 @@ requirements:
     - matplotlib =3.8.4 =py39hdf13c20_0
     - mdanalysis =2.7.0 =py39h425d09f_1
     - numpy =1.26.4 =py39h7aa2656_0
-    - pandas =2.2.1 =py39h47e51b9_0
-    - pymol-open-source =3.0.0 =py39h0bcb747_6
+    - pandas =2.2.2 =py39h47e51b9_0
+    - pymol-open-source =3.0.0 =py39he1815ab_7
     - pyqt =5.15.9 =py39hcf430f4_5
     - rdkit =2024.03.1 =py39ha168fb5_0
     - scipy =1.13.0 =py39hcc04109_0
@@ -83,7 +83,7 @@ requirements:
     - gsd =3.2.1 =py39h373d45f_0
     - gst-plugins-base =1.24.1 =h09b4b5e_1
     - gstreamer =1.24.1 =h551c6ff_1
-    - h5py =3.10.0 =nompi_py39hd62a535_101
+    - h5py =3.11.0 =nompi_py39hd62a535_100
     - hdf4 =4.2.15 =h2ee6834_7
     - hdf5 =1.14.3 =nompi_h5bb55e9_100
     - icu =73.2 =hc8870d7_0
