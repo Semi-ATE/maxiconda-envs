@@ -81,7 +81,7 @@ requirements:
     - hdf5 =1.12.2 =nompi_h57737ce_101
     - icu =70.1 =h0e60522_0
     - importlib-metadata =4.11.4 =py37h03978a9_0
-    - intel-openmp =2024.1.0 =h57928b3_964
+    - intel-openmp =2024.1.0 =h57928b3_965
     - ipykernel =6.16.2 =pyh025b116_0
     - ipython =7.33.0 =py37h03978a9_0
     - jedi =0.19.1 =pyhd8ed1ab_0
@@ -110,7 +110,7 @@ requirements:
     - libgettextpo =0.22.5 =h5728263_2
     - libgettextpo-devel =0.22.5 =h5728263_2
     - libglib =2.80.0 =h39d0aa6_4
-    - libhwloc =2.9.3 =default_haede6df_1009
+    - libhwloc =2.10.0 =default_h2fffb23_1000
     - libiconv =1.17 =hcfcfb64_2
     - libintl =0.22.5 =h5728263_2
     - libintl-devel =0.22.5 =h5728263_2
@@ -180,7 +180,7 @@ requirements:
     - sqlalchemy =1.4.42 =py37h51bd9d9_0
     - sqlite =3.45.2 =hcfcfb64_0
     - statsmodels =0.13.2 =py37h3a130e4_0
-    - tbb =2021.11.0 =h91493d7_1
+    - tbb =2021.12.0 =h91493d7_0
     - threadpoolctl =3.1.0 =pyh8a188c0_0
     - tk =8.6.13 =h5226925_1
     - toml =0.10.2 =pyhd8ed1ab_0

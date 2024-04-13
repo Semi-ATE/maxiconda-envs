@@ -26,7 +26,7 @@ requirements:
 
     # 19 primary packages :
     - beautifulsoup4 =4.12.3 =pyha770c72_0
-    - bokeh =3.4.0 =pyhd8ed1ab_0
+    - bokeh =3.4.1 =pyhd8ed1ab_0
     - lightgbm =4.3.0 =py39h99910a6_0
     - matplotlib =3.8.4 =py39hcbf5309_0
     - numpy =1.26.4 =py39hddb5d58_0
@@ -151,7 +151,7 @@ requirements:
     - importlib_metadata =7.1.0 =hd8ed1ab_0
     - importlib_resources =6.4.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
-    - intel-openmp =2024.1.0 =h57928b3_964
+    - intel-openmp =2024.1.0 =h57928b3_965
     - ipykernel =6.29.3 =pyha63f2e9_0
     - ipython =8.18.1 =pyh7428d3b_3
     - ipywidgets =8.1.2 =pyhd8ed1ab_0
@@ -200,7 +200,7 @@ requirements:
     - libgoogle-cloud =2.22.0 =h9cad5c0_1
     - libgoogle-cloud-storage =2.22.0 =hb581fae_1
     - libgrpc =1.62.1 =h5273850_0
-    - libhwloc =2.9.3 =default_haede6df_1009
+    - libhwloc =2.10.0 =default_h2fffb23_1000
     - libiconv =1.17 =hcfcfb64_2
     - libintl =0.22.5 =h5728263_2
     - libintl-devel =0.22.5 =h5728263_2
@@ -290,8 +290,8 @@ requirements:
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.22 =pyhd8ed1ab_0
-    - pydantic =2.6.4 =pyhd8ed1ab_0
-    - pydantic-core =2.16.3 =py39hf21820d_0
+    - pydantic =2.7.0 =pyhd8ed1ab_0
+    - pydantic-core =2.18.1 =py39hf21820d_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0
@@ -346,7 +346,7 @@ requirements:
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
-    - tbb =2021.11.0 =h91493d7_1
+    - tbb =2021.12.0 =h91493d7_0
     - tenacity =8.2.3 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
     - thinc =8.2.2 =py39h5c3ab46_0
@@ -401,7 +401,7 @@ requirements:
     - zeromq =4.3.5 =h63175ca_1
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =hcfcfb64_5
-    - zope.interface =6.2 =py39ha55989b_0
+    - zope.interface =6.3 =py39ha55989b_0
     - zstd =1.5.5 =h12be248_0
 
 about:

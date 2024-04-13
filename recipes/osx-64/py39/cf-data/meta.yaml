@@ -26,7 +26,7 @@ requirements:
 
     # 20 primary packages :
     - beautifulsoup4 =4.12.3 =pyha770c72_0
-    - bokeh =3.4.0 =pyhd8ed1ab_0
+    - bokeh =3.4.1 =pyhd8ed1ab_0
     - lightgbm =4.3.0 =py39hf7b7f60_0
     - matplotlib =3.8.4 =py39h6e9494a_0
     - numpy =1.26.4 =py39h28c39a1_0
@@ -216,7 +216,7 @@ requirements:
     - libgoogle-cloud =2.17.0 =h22d6d9e_2
     - libgoogle-cloud-storage =2.17.0 =ha67e85c_2
     - libgrpc =1.60.1 =h038e8f1_0
-    - libhwloc =2.9.3 =default_h24e0189_1009
+    - libhwloc =2.10.0 =default_h1321489_1000
     - libiconv =1.17 =hd75f5a5_2
     - libintl =0.22.5 =h5ff76d1_2
     - libintl-devel =0.22.5 =h5ff76d1_2
@@ -321,8 +321,8 @@ requirements:
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.22 =pyhd8ed1ab_0
-    - pydantic =2.6.4 =pyhd8ed1ab_0
-    - pydantic-core =2.16.3 =py39hcf47035_0
+    - pydantic =2.7.0 =pyhd8ed1ab_0
+    - pydantic-core =2.18.1 =py39hcf47035_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0
@@ -379,7 +379,7 @@ requirements:
     - sympy =1.12 =pypyh9d50eac_103
     - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
-    - tbb =2021.11.0 =h7728843_1
+    - tbb =2021.12.0 =h7728843_0
     - tenacity =8.2.3 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
     - thinc =8.2.2 =py39h5d0c61a_0
@@ -419,7 +419,7 @@ requirements:
     - zeromq =4.3.5 =h93d8f39_0
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h8a1eda9_5
-    - zope.interface =6.2 =py39ha09f3b3_0
+    - zope.interface =6.3 =py39ha09f3b3_0
     - zstd =1.5.5 =h829000d_0
 
 about:
