@@ -47,7 +47,7 @@ requirements:
     - bcrypt =4.1.2 =py39hf21820d_0
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - binaryornot =0.4.4 =py_1
-    - black =24.3.0 =py39hcbf5309_0
+    - black =24.4.0 =py39hcbf5309_0
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =hcfcfb64_1
     - brotli-bin =1.1.0 =hcfcfb64_1
@@ -81,12 +81,12 @@ requirements:
     - freetype =2.12.1 =hdaf720e_2
     - gettext =0.22.5 =h5728263_2
     - gettext-tools =0.22.5 =h7d00a51_2
-    - glib =2.80.0 =h39d0aa6_4
-    - glib-tools =2.80.0 =h0a98069_4
+    - glib =2.80.0 =h39d0aa6_5
+    - glib-tools =2.80.0 =h0a98069_5
     - gst-plugins-base =1.22.9 =h001b923_1
     - gstreamer =1.22.9 =hb4038d2_1
     - icu =73.2 =h63175ca_0
-    - idna =3.6 =pyhd8ed1ab_0
+    - idna =3.7 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
     - importlib-metadata =7.1.0 =pyha770c72_0
     - importlib-resources =6.4.0 =pyhd8ed1ab_0
@@ -126,7 +126,7 @@ requirements:
     - libffi =3.4.2 =h8ffe710_5
     - libgettextpo =0.22.5 =h5728263_2
     - libgettextpo-devel =0.22.5 =h5728263_2
-    - libglib =2.80.0 =h39d0aa6_4
+    - libglib =2.80.0 =h39d0aa6_5
     - libhwloc =2.10.0 =default_h2fffb23_1000
     - libiconv =1.17 =hcfcfb64_2
     - libintl =0.22.5 =h5728263_2
@@ -153,7 +153,7 @@ requirements:
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py39ha55989b_0
     - matplotlib-base =3.8.4 =py39hf19769e_0
-    - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
+    - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_0
     - mdurl =0.1.2 =pyhd8ed1ab_0
     - mistune =3.0.2 =pyhd8ed1ab_0
@@ -219,7 +219,7 @@ requirements:
     - pywin32 =306 =py39h99910a6_2
     - pywin32-ctypes =0.2.2 =py39hcbf5309_1
     - pyyaml =6.0.1 =py39ha55989b_1
-    - pyzmq =25.1.2 =py39h7eaf5a6_0
+    - pyzmq =26.0.0 =py39h7eaf5a6_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qstylizer =0.2.2 =pyhd8ed1ab_0
     - qt-main =5.15.8 =h9e85ed6_20

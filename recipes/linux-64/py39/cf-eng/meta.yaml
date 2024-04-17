@@ -62,8 +62,8 @@ requirements:
     - freetype =2.12.1 =h267a509_2
     - gettext =0.22.5 =h59595ed_2
     - gettext-tools =0.22.5 =h59595ed_2
-    - glib =2.80.0 =hf2295e7_4
-    - glib-tools =2.80.0 =hde27a5a_4
+    - glib =2.80.0 =hf2295e7_5
+    - glib-tools =2.80.0 =hde27a5a_5
     - graphite2 =1.3.13 =h59595ed_1003
     - gst-plugins-base =1.24.1 =hfa15dee_1
     - gstreamer =1.24.1 =h98fc4e7_1
@@ -99,7 +99,7 @@ requirements:
     - libgettextpo-devel =0.22.5 =h59595ed_2
     - libgfortran-ng =13.2.0 =h69a702a_5
     - libgfortran5 =13.2.0 =ha4646dd_5
-    - libglib =2.80.0 =hf2295e7_4
+    - libglib =2.80.0 =hf2295e7_5
     - libgomp =13.2.0 =h807b86a_5
     - libgpg-error =1.48 =h71f35ed_0
     - libiconv =1.17 =hd590300_2
@@ -128,7 +128,7 @@ requirements:
     - libxml2 =2.12.6 =h232c23b_1
     - libzlib =1.2.13 =hd590300_5
     - lz4-c =1.9.4 =hcb278e6_0
-    - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
+    - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mpg123 =1.32.6 =h59595ed_0
     - mysql-common =8.3.0 =hf1915f5_4
     - mysql-libs =8.3.0 =hca2cd23_4
@@ -159,7 +159,7 @@ requirements:
     - python_abi =3.9 =4_cp39
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyvisa =1.14.1 =pyhd8ed1ab_0
-    - pyzmq =25.1.2 =py39h8c080ef_0
+    - pyzmq =26.0.0 =py39h8c080ef_0
     - qt-main =5.15.8 =hc9dc06e_21
     - readline =8.2 =h8228510_1
     - setuptools =69.5.1 =pyhd8ed1ab_0

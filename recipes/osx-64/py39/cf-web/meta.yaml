@@ -60,14 +60,14 @@ requirements:
     - executing =2.0.1 =pyhd8ed1ab_0
     - gettext =0.22.5 =h5ff76d1_2
     - gettext-tools =0.22.5 =h5ff76d1_2
-    - glib =2.80.0 =h81c1438_4
-    - glib-tools =2.80.0 =h49a7eea_4
+    - glib =2.80.0 =h81c1438_5
+    - glib-tools =2.80.0 =h49a7eea_5
     - greenlet =3.0.3 =py39hd253f6c_0
     - gst-plugins-base =1.24.1 =h12dd0d4_1
     - gstreamer =1.24.1 =h7c243d7_1
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =73.2 =hf5e326d_0
-    - idna =3.6 =pyhd8ed1ab_0
+    - idna =3.7 =pyhd8ed1ab_0
     - importlib-metadata =7.1.0 =pyha770c72_0
     - importlib_metadata =7.1.0 =hd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
@@ -86,7 +86,7 @@ requirements:
     - libffi =3.4.2 =h0d85af4_5
     - libgettextpo =0.22.5 =h5ff76d1_2
     - libgettextpo-devel =0.22.5 =h5ff76d1_2
-    - libglib =2.80.0 =h81c1438_4
+    - libglib =2.80.0 =h81c1438_5
     - libiconv =1.17 =hd75f5a5_2
     - libintl =0.22.5 =h5ff76d1_2
     - libintl-devel =0.22.5 =h5ff76d1_2
@@ -103,7 +103,7 @@ requirements:
     - libxml2 =2.12.6 =hc0ae0f7_1
     - libzlib =1.2.13 =h8a1eda9_5
     - markupsafe =2.1.5 =py39ha09f3b3_0
-    - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
+    - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mysql-common =8.3.0 =hfd7a639_4
     - mysql-libs =8.3.0 =ha9146f8_4
     - ncurses =6.4.20240210 =h73e2aa4_0
@@ -123,8 +123,8 @@ requirements:
     - psutil =5.9.8 =py39ha09f3b3_0
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
-    - pyasn1 =0.5.1 =pyhd8ed1ab_0
-    - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
+    - pyasn1 =0.6.0 =pyhd8ed1ab_0
+    - pyasn1-modules =0.4.0 =pyhd8ed1ab_0
     - pycparser =2.22 =pyhd8ed1ab_0
     - pygments =2.17.2 =pyhd8ed1ab_0
     - pyopenssl =24.0.0 =pyhd8ed1ab_0
@@ -132,7 +132,7 @@ requirements:
     - pysocks =1.7.1 =py39h6e9494a_5
     - python-dateutil =2.9.0 =pyhd8ed1ab_0
     - python_abi =3.9 =4_cp39
-    - pyzmq =25.1.2 =py39hcb7a90d_0
+    - pyzmq =26.0.0 =py39h53dde38_0
     - qt-main =5.15.8 =hecaf5c3_21
     - readline =8.2 =h9e318b2_1
     - service-identity =21.1.0 =pyhd8ed1ab_0

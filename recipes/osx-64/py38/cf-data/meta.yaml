@@ -129,7 +129,7 @@ requirements:
     - funcy =2.0 =pyhd8ed1ab_0
     - future =1.0.0 =pyhd8ed1ab_0
     - fuzzytm =2.0.5 =pyhd8ed1ab_0
-    - gdk-pixbuf =2.42.10 =hd9e0ca3_5
+    - gdk-pixbuf =2.42.10 =hd9e0ca3_6
     - gensim =4.3.2 =py38h001264d_1
     - gettext =0.22.5 =h5ff76d1_2
     - gettext-tools =0.22.5 =h5ff76d1_2
@@ -137,8 +137,8 @@ requirements:
     - giflib =5.2.2 =h10d778d_0
     - gitdb =4.0.11 =pyhd8ed1ab_0
     - gitpython =3.1.43 =pyhd8ed1ab_0
-    - glib =2.80.0 =h81c1438_4
-    - glib-tools =2.80.0 =h49a7eea_4
+    - glib =2.80.0 =h81c1438_5
+    - glib-tools =2.80.0 =h49a7eea_5
     - glog =0.7.0 =h31b1b29_0
     - gmp =6.3.0 =h73e2aa4_1
     - gmpy2 =2.1.2 =py38h919de47_1
@@ -154,7 +154,7 @@ requirements:
     - htmlmin =0.1.12 =pyhca7485f_2
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =73.2 =hf5e326d_0
-    - idna =3.6 =pyhd8ed1ab_0
+    - idna =3.7 =pyhd8ed1ab_0
     - imagehash =4.3.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.12.2 =pyhd8ed1ab_0
     - importlib-metadata =7.1.0 =pyha770c72_0
@@ -212,7 +212,7 @@ requirements:
     - libgettextpo-devel =0.22.5 =h5ff76d1_2
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.80.0 =h81c1438_4
+    - libglib =2.80.0 =h81c1438_5
     - libgoogle-cloud =2.17.0 =h22d6d9e_2
     - libgoogle-cloud-storage =2.17.0 =ha67e85c_2
     - libgrpc =1.60.1 =h038e8f1_0
@@ -261,7 +261,7 @@ requirements:
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py38hae2e43d_0
     - matplotlib-base =3.7.3 =py38hcd1b199_0
-    - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
+    - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mdurl =0.1.2 =pyhd8ed1ab_0
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.5.2 =pyhd8ed1ab_0
@@ -319,8 +319,8 @@ requirements:
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py38h273ab5c_0
     - pyarrow =15.0.0 =py38h423e391_6_cpu
-    - pyasn1 =0.5.1 =pyhd8ed1ab_0
-    - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
+    - pyasn1 =0.6.0 =pyhd8ed1ab_0
+    - pyasn1-modules =0.4.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.22 =pyhd8ed1ab_0
     - pydantic =2.7.0 =pyhd8ed1ab_0
@@ -346,13 +346,13 @@ requirements:
     - pywavelets =1.4.1 =py38h49861b3_1
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
     - pyyaml =6.0.1 =py38hcafd530_1
-    - pyzmq =25.1.2 =py38ha51bd64_0
+    - pyzmq =26.0.0 =py38hf69f452_0
     - qt-main =5.15.8 =hecaf5c3_21
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.6.2 =pyhd8ed1ab_0
     - re2 =2023.09.01 =hb168e87_1
     - readline =8.2 =h9e318b2_1
-    - regex =2023.12.25 =py38hae2e43d_0
+    - regex =2024.4.16 =py38hae2e43d_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - requests-file =2.0.0 =pyhd8ed1ab_0
     - retrying =1.3.3 =py_2

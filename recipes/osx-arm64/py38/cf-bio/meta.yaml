@@ -77,8 +77,8 @@ requirements:
     - gettext =0.22.5 =h8fbad5d_2
     - gettext-tools =0.22.5 =h8fbad5d_2
     - glew =2.1.0 =h9f76cd9_2
-    - glib =2.80.0 =hfc324ee_4
-    - glib-tools =2.80.0 =hb9a4d99_4
+    - glib =2.80.0 =hfc324ee_5
+    - glib-tools =2.80.0 =hb9a4d99_5
     - glm =0.9.9.8 =h1995070_0
     - greenlet =3.0.3 =py38hb9fa5a8_0
     - griddataformats =1.0.1 =pyhd8ed1ab_0
@@ -89,7 +89,7 @@ requirements:
     - hdf4 =4.2.15 =h2ee6834_7
     - hdf5 =1.14.3 =nompi_h5bb55e9_100
     - icu =73.2 =hc8870d7_0
-    - idna =3.6 =pyhd8ed1ab_0
+    - idna =3.7 =pyhd8ed1ab_0
     - importlib-metadata =7.1.0 =pyha770c72_0
     - importlib-resources =6.4.0 =pyhd8ed1ab_0
     - importlib_metadata =7.1.0 =hd8ed1ab_0
@@ -127,7 +127,7 @@ requirements:
     - libgettextpo-devel =0.22.5 =h8fbad5d_2
     - libgfortran =5.0.0 =13_2_0_hd922786_3
     - libgfortran5 =13.2.0 =hf226fd6_3
-    - libglib =2.80.0 =hfc324ee_4
+    - libglib =2.80.0 =hfc324ee_5
     - libiconv =1.17 =h0d3ecfb_2
     - libintl =0.22.5 =h8fbad5d_2
     - libintl-devel =0.22.5 =h8fbad5d_2
@@ -147,7 +147,7 @@ requirements:
     - libssh2 =1.11.0 =h7a5bd25_0
     - libtiff =4.6.0 =h07db509_3
     - libvorbis =1.3.7 =h9f76cd9_0
-    - libwebp-base =1.3.2 =h93a5062_1
+    - libwebp-base =1.4.0 =h93a5062_0
     - libxcb =1.15 =hf346824_0
     - libxml2 =2.12.6 =h0d0cfa8_1
     - libzip =1.10.1 =ha0bc3c6_3
@@ -155,7 +155,7 @@ requirements:
     - llvm-openmp =18.1.3 =hcd81f8e_0
     - lz4-c =1.9.4 =hb7217d7_0
     - matplotlib-base =3.7.3 =py38hef9d0d7_0
-    - matplotlib-inline =0.1.6 =pyhd8ed1ab_0
+    - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mda-xdrlib =0.2.0 =pyhd8ed1ab_0
     - mmtf-python =1.1.3 =pyhd8ed1ab_0
     - mrcfile =1.5.0 =pyhd8ed1ab_0
@@ -202,7 +202,7 @@ requirements:
     - python_abi =3.8 =4_cp38
     - pytng =0.3.0 =py38h2346e95_0
     - pytz =2024.1 =pyhd8ed1ab_0
-    - pyzmq =25.1.2 =py38hbbed6fd_0
+    - pyzmq =26.0.0 =py38h3de7bb3_0
     - qt-main =5.15.8 =hf679f28_21
     - readline =8.2 =h92ec313_1
     - reportlab =4.1.0 =py38h336bac9_0
