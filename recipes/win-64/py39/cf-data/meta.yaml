@@ -230,7 +230,7 @@ requirements:
     - libzlib =1.2.13 =hcfcfb64_5
     - llvm-meta =5.0.0 =0
     - llvmlite =0.42.0 =py39hd28a505_1
-    - lxml =5.1.0 =py39h4d3bb3d_0
+    - lxml =5.2.1 =py39hbf02b01_0
     - lz4-c =1.9.4 =hcfcfb64_0
     - m2w64-gcc-libgfortran =5.3.0 =6
     - m2w64-gcc-libs =5.3.0 =7
@@ -246,9 +246,9 @@ requirements:
     - mdurl =0.1.2 =pyhd8ed1ab_0
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.5.2 =pyhd8ed1ab_0
-    - mlflow =2.12.1 =hcbf5309_0
-    - mlflow-skinny =2.12.1 =py39hcbf5309_0
-    - mlflow-ui =2.12.1 =py39hcbf5309_0
+    - mlflow =2.12.1 =hcbf5309_1
+    - mlflow-skinny =2.12.1 =py39hcbf5309_1
+    - mlflow-ui =2.12.1 =py39hcbf5309_1
     - mlxtend =0.23.1 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - multimethod =1.4 =py_0
@@ -359,7 +359,7 @@ requirements:
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.4 =py39ha55989b_0
     - tqdm =4.66.2 =pyhd8ed1ab_0
-    - traitlets =5.14.2 =pyhd8ed1ab_0
+    - traitlets =5.14.3 =pyhd8ed1ab_0
     - twisted =24.3.0 =py39ha55989b_0
     - twisted-iocpsupport =1.0.4 =py39ha55989b_1
     - typer =0.9.4 =pyhd8ed1ab_0
