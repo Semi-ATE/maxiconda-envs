@@ -48,8 +48,8 @@ requirements:
     - executing =2.0.1 =pyhd8ed1ab_0
     - gettext =0.22.5 =h5728263_2
     - gettext-tools =0.22.5 =h7d00a51_2
-    - glib =2.80.0 =h39d0aa6_5
-    - glib-tools =2.80.0 =h0a98069_5
+    - glib =2.80.0 =h39d0aa6_6
+    - glib-tools =2.80.0 =h0a98069_6
     - gst-plugins-base =1.24.1 =h001b923_1
     - gstreamer =1.24.1 =hb4038d2_1
     - icu =73.2 =h63175ca_0
@@ -70,7 +70,7 @@ requirements:
     - libffi =3.4.2 =h8ffe710_5
     - libgettextpo =0.22.5 =h5728263_2
     - libgettextpo-devel =0.22.5 =h5728263_2
-    - libglib =2.80.0 =h39d0aa6_5
+    - libglib =2.80.0 =h39d0aa6_6
     - libhwloc =2.10.0 =default_h2fffb23_1000
     - libiconv =1.17 =hcfcfb64_2
     - libintl =0.22.5 =h5728263_2
@@ -108,7 +108,7 @@ requirements:
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyvisa =1.14.1 =pyhd8ed1ab_0
     - pywin32 =306 =py39h99910a6_2
-    - pyzmq =26.0.0 =py39h7eaf5a6_0
+    - pyzmq =26.0.2 =py39h03e5c00_0
     - qt-main =5.15.8 =hcef0176_21
     - setuptools =69.5.1 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h99910a6_0

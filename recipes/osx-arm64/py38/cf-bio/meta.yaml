@@ -77,8 +77,8 @@ requirements:
     - gettext =0.22.5 =h8fbad5d_2
     - gettext-tools =0.22.5 =h8fbad5d_2
     - glew =2.1.0 =h9f76cd9_2
-    - glib =2.80.0 =hfc324ee_5
-    - glib-tools =2.80.0 =hb9a4d99_5
+    - glib =2.80.0 =hfc324ee_6
+    - glib-tools =2.80.0 =hb9a4d99_6
     - glm =0.9.9.8 =h1995070_0
     - greenlet =3.0.3 =py38hb9fa5a8_0
     - griddataformats =1.0.1 =pyhd8ed1ab_0
@@ -127,7 +127,7 @@ requirements:
     - libgettextpo-devel =0.22.5 =h8fbad5d_2
     - libgfortran =5.0.0 =13_2_0_hd922786_3
     - libgfortran5 =13.2.0 =hf226fd6_3
-    - libglib =2.80.0 =hfc324ee_5
+    - libglib =2.80.0 =hfc324ee_6
     - libiconv =1.17 =h0d3ecfb_2
     - libintl =0.22.5 =h8fbad5d_2
     - libintl-devel =0.22.5 =h8fbad5d_2
@@ -202,7 +202,7 @@ requirements:
     - python_abi =3.8 =4_cp38
     - pytng =0.3.0 =py38h2346e95_0
     - pytz =2024.1 =pyhd8ed1ab_0
-    - pyzmq =26.0.0 =py38h3de7bb3_0
+    - pyzmq =26.0.2 =py38h1347feb_0
     - qt-main =5.15.8 =hf679f28_21
     - readline =8.2 =h92ec313_1
     - reportlab =4.1.0 =py38h336bac9_0

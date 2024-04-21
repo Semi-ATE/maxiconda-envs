@@ -60,8 +60,8 @@ requirements:
     - executing =2.0.1 =pyhd8ed1ab_0
     - gettext =0.22.5 =h5ff76d1_2
     - gettext-tools =0.22.5 =h5ff76d1_2
-    - glib =2.80.0 =h81c1438_5
-    - glib-tools =2.80.0 =h49a7eea_5
+    - glib =2.80.0 =h81c1438_6
+    - glib-tools =2.80.0 =h49a7eea_6
     - greenlet =3.0.3 =py39hd253f6c_0
     - gst-plugins-base =1.24.1 =h12dd0d4_1
     - gstreamer =1.24.1 =h7c243d7_1
@@ -86,7 +86,7 @@ requirements:
     - libffi =3.4.2 =h0d85af4_5
     - libgettextpo =0.22.5 =h5ff76d1_2
     - libgettextpo-devel =0.22.5 =h5ff76d1_2
-    - libglib =2.80.0 =h81c1438_5
+    - libglib =2.80.0 =h81c1438_6
     - libiconv =1.17 =hd75f5a5_2
     - libintl =0.22.5 =h5ff76d1_2
     - libintl-devel =0.22.5 =h5ff76d1_2
@@ -132,7 +132,7 @@ requirements:
     - pysocks =1.7.1 =py39h6e9494a_5
     - python-dateutil =2.9.0 =pyhd8ed1ab_0
     - python_abi =3.9 =4_cp39
-    - pyzmq =26.0.0 =py39h53dde38_0
+    - pyzmq =26.0.2 =py39hffc4518_0
     - qt-main =5.15.8 =hecaf5c3_21
     - readline =8.2 =h9e318b2_1
     - service-identity =21.1.0 =pyhd8ed1ab_0
