@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.2.2 =py39haf03413_0
     - psutil =5.9.8 =py39ha09f3b3_0
-    - pydantic =2.7.0 =pyhd8ed1ab_0
+    - pydantic =2.7.1 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py39h3dce684_5
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =8.1.1 =pyhd8ed1ab_0
@@ -174,7 +174,7 @@ requirements:
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_0
     - jupyterlab =4.1.6 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
-    - jupyterlab_server =2.27.0 =pyhd8ed1ab_0
+    - jupyterlab_server =2.27.1 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py39h8ee36c8_1
     - krb5 =1.21.2 =hb884880_0
     - lcms2 =2.16 =ha2f27b4_0
@@ -266,7 +266,7 @@ requirements:
     - pixman =0.43.4 =h73e2aa4_0
     - pkginfo =1.10.0 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
-    - platformdirs =4.2.0 =pyhd8ed1ab_0
+    - platformdirs =4.2.1 =pyhd8ed1ab_0
     - pluggy =1.5.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_2
     - progressbar2 =4.4.2 =pyhd8ed1ab_0
@@ -276,7 +276,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.22 =pyhd8ed1ab_0
-    - pydantic-core =2.18.1 =py39hcf47035_0
+    - pydantic-core =2.18.2 =py39h3013830_0
     - pygments =2.17.2 =pyhd8ed1ab_0
     - pyobjc-core =10.2 =py39h8602b6b_0
     - pyobjc-framework-cocoa =10.2 =py39h8602b6b_0
@@ -343,7 +343,7 @@ requirements:
     - r-future.apply =1.11.2 =r43hc72bb7e_0
     - r-gargle =1.5.2 =r43h785f33e_0
     - r-generics =0.1.3 =r43hc72bb7e_2
-    - r-ggplot2 =3.5.0 =r43hc72bb7e_0
+    - r-ggplot2 =3.5.1 =r43hc72bb7e_0
     - r-gistr =0.9.0 =r43hc72bb7e_2
     - r-glmnet =4.1_8 =r43ha1020dc_0
     - r-globals =0.16.3 =r43hc72bb7e_0
@@ -351,7 +351,7 @@ requirements:
     - r-googledrive =2.1.1 =r43hc72bb7e_1
     - r-googlesheets4 =1.1.1 =r43h785f33e_1
     - r-gower =1.0.1 =r43h6dc245f_1
-    - r-gtable =0.3.4 =r43hc72bb7e_0
+    - r-gtable =0.3.5 =r43hc72bb7e_0
     - r-hardhat =1.3.1 =r43hc72bb7e_0
     - r-haven =2.5.4 =r43h64b2c41_0
     - r-hexbin =1.28.3 =r43hfe07776_1
