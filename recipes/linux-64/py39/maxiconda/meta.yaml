@@ -25,7 +25,7 @@ requirements:
     - python =3.9.19 =h0755675_0_cpython
 
     # 38 primary packages :
-    - aiohttp =3.9.3 =py39hd1e30aa_1
+    - aiohttp =3.9.5 =py39hd1e30aa_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - bitarray =2.9.2 =py39hd1e30aa_0
@@ -453,7 +453,7 @@ requirements:
     - r-squarem =2021.1 =r43hc72bb7e_2
     - r-stringi =1.8.3 =r43h9facbd6_0
     - r-stringr =1.5.1 =r43h785f33e_0
-    - r-survival =3.5_8 =r43h57805ef_0
+    - r-survival =3.6_4 =r43hb1dbf0f_0
     - r-sys =3.4.2 =r43h57805ef_1
     - r-systemfonts =1.0.5 =r43haf97adc_0
     - r-textshaping =0.3.7 =r43hd87b9d6_0
@@ -503,7 +503,7 @@ requirements:
     - stdlib-list =0.10.0 =pyhd8ed1ab_0
     - sysroot_linux-64 =2.12 =he073ed8_17
     - terminado =0.18.1 =pyh0d859eb_0
-    - tinycss2 =1.2.1 =pyhd8ed1ab_0
+    - tinycss2 =1.3.0 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_h4845f30_101
     - tktable =2.10 =h0c5db8f_5
     - toml =0.10.2 =pyhd8ed1ab_0
@@ -522,7 +522,7 @@ requirements:
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - webcolors =1.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
-    - websocket-client =1.7.0 =pyhd8ed1ab_0
+    - websocket-client =1.8.0 =pyhd8ed1ab_0
     - wheel =0.43.0 =pyhd8ed1ab_1
     - wurlitzer =3.0.3 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =hd590300_1
