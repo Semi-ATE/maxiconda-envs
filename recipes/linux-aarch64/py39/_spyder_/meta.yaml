@@ -35,7 +35,7 @@ requirements:
     - spyder =5.5.4 =py39h4420490_0
     - sympy =1.12 =pypyh9d50eac_103
 
-    # 319 secondary packages :
+    # 321 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.16 =pyhd8ed1ab_0
     - alsa-lib =1.2.11 =h31becfc_1
@@ -47,6 +47,8 @@ requirements:
     - attrs =23.2.0 =pyh71513ae_0
     - autopep8 =2.0.4 =pyhd8ed1ab_0
     - babel =2.14.0 =pyhd8ed1ab_0
+    - backports =1.0 =pyhd8ed1ab_3
+    - backports.tarfile =1.0.0 =pyhd8ed1ab_1
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - binaryornot =0.4.4 =py_1
     - black =24.4.2 =py39h4420490_0
@@ -115,7 +117,7 @@ requirements:
     - ipython =8.18.1 =pyh707e725_3
     - isort =5.13.2 =pyhd8ed1ab_0
     - jaraco.classes =3.4.0 =pyhd8ed1ab_1
-    - jaraco.context =4.3.0 =pyhd8ed1ab_0
+    - jaraco.context =5.3.0 =pyhd8ed1ab_1
     - jaraco.functools =4.0.0 =pyhd8ed1ab_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - jeepney =0.8.0 =pyhd8ed1ab_0
@@ -164,7 +166,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =h31becfc_1
     - liblapack =3.9.0 =22_linuxaarch64_openblas
     - libllvm15 =15.0.7 =hb4f23b0_4
-    - libllvm18 =18.1.3 =hbfe100b_0
+    - libllvm18 =18.1.4 =hbfe100b_0
     - libnsl =2.0.1 =h31becfc_0
     - libogg =1.3.4 =h3557bc0_1
     - libopenblas =0.3.27 =pthreads_h5a5ec62_0
@@ -316,7 +318,7 @@ requirements:
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - whatthepatch =1.0.5 =pyhd8ed1ab_0
     - wheel =0.43.0 =pyhd8ed1ab_1
-    - wurlitzer =3.0.3 =pyhd8ed1ab_0
+    - wurlitzer =3.1.0 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =h31becfc_1
     - xcb-util-image =0.4.0 =hcb25cf1_1
     - xcb-util-keysyms =0.4.0 =hcb25cf1_1
