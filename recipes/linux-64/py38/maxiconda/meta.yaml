@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0.1 =py38h01eb140_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qtawesome =1.3.1 =pyh9208f05_0
-    - r-base =4.3.3 =hb8ee39d_0
+    - r-base =4.3.3 =hf0d99cb_1
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2024.4.28 =py38hfb59056_0
     - requests =2.31.0 =pyhd8ed1ab_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 490 secondary packages :
+    # 491 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -119,7 +119,7 @@ requirements:
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
-    - font-ttf-ubuntu =0.83 =h77eed37_1
+    - font-ttf-ubuntu =0.83 =h77eed37_2
     - fontconfig =2.14.2 =h14ed4e7_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
@@ -132,18 +132,18 @@ requirements:
     - gettext =0.22.5 =h59595ed_2
     - gettext-tools =0.22.5 =h59595ed_2
     - gfortran_impl_linux-64 =13.2.0 =h0a8b748_6
-    - glib =2.78.4 =hfc55251_0
-    - glib-tools =2.78.4 =hfc55251_0
+    - glib =2.80.0 =hf2295e7_6
+    - glib-tools =2.80.0 =hde27a5a_6
     - gmp =6.3.0 =h59595ed_1
     - gmpy2 =2.1.5 =py38h93d3344_0
     - graphite2 =1.3.13 =h59595ed_1003
     - greenlet =3.0.3 =py38h17151c0_0
-    - gst-plugins-base =1.22.9 =h8e1006c_0
-    - gstreamer =1.22.9 =h98fc4e7_0
+    - gst-plugins-base =1.24.1 =hfa15dee_1
+    - gstreamer =1.24.1 =h98fc4e7_1
     - gxx_impl_linux-64 =13.2.0 =h1d3d475_6
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =py38h578d9bd_0
-    - harfbuzz =8.3.0 =h3d44ed6_0
+    - harfbuzz =8.4.0 =h3d44ed6_0
     - hpack =4.0.0 =pyh9f0ad1d_0
     - httpcore =1.0.5 =pyhd8ed1ab_0
     - httpx =0.27.0 =pyhd8ed1ab_0
@@ -188,8 +188,8 @@ requirements:
     - libbrotlienc =1.1.0 =hd590300_1
     - libcap =2.69 =h0f662aa_0
     - libcblas =3.9.0 =20_linux64_openblas
-    - libclang =15.0.7 =default_h127d8a8_5
-    - libclang13 =15.0.7 =default_h5d6823c_5
+    - libclang-cpp15 =15.0.7 =default_h127d8a8_5
+    - libclang13 =18.1.4 =default_h5d6823c_0
     - libcups =2.3.3 =h4637d8d_4
     - libcurl =8.7.1 =hca28451_0
     - libdeflate =1.20 =hd590300_0
@@ -206,7 +206,7 @@ requirements:
     - libgettextpo-devel =0.22.5 =h59595ed_2
     - libgfortran-ng =13.2.0 =h69a702a_6
     - libgfortran5 =13.2.0 =h43f5ff8_6
-    - libglib =2.78.4 =h783c2da_0
+    - libglib =2.80.0 =hf2295e7_6
     - libgomp =13.2.0 =hc881cc4_6
     - libgpg-error =1.49 =h4f305b6_0
     - libiconv =1.17 =hd590300_2
@@ -214,6 +214,7 @@ requirements:
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm14 =14.0.6 =hcd5def8_4
     - libllvm15 =15.0.7 =hb3ce162_4
+    - libllvm18 =18.1.4 =h2448989_0
     - libnghttp2 =1.58.0 =h47da74e_1
     - libnsl =2.0.1 =hd590300_0
     - libogg =1.3.4 =h7f98852_1
@@ -251,10 +252,10 @@ requirements:
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - multidict =6.0.5 =py38h01eb140_0
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - mysql-common =8.0.33 =hf1915f5_6
-    - mysql-libs =8.0.33 =hca2cd23_6
+    - mysql-common =8.3.0 =hf1915f5_4
+    - mysql-libs =8.3.0 =hca2cd23_4
     - nbclient =0.10.0 =pyhd8ed1ab_0
-    - nbconvert-core =7.16.3 =pyhd8ed1ab_1
+    - nbconvert-core =7.16.4 =pyhd8ed1ab_0
     - nbformat =5.10.4 =pyhd8ed1ab_0
     - ncurses =6.4.20240210 =h59595ed_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
@@ -263,14 +264,14 @@ requirements:
     - nspr =4.35 =h27087fc_0
     - nss =3.98 =h1d7d5a4_0
     - openjpeg =2.5.2 =h488ebb8_0
-    - openssl =3.2.1 =hd590300_1
+    - openssl =3.3.0 =hd590300_0
     - overrides =7.7.0 =pyhd8ed1ab_0
     - packaging =24.0 =pyhd8ed1ab_0
     - pandoc =3.1.13 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.52.1 =ha41ecd1_0
+    - pango =1.52.2 =ha41ecd1_0
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pcre2 =10.42 =hcad00b1_0
+    - pcre2 =10.43 =hcad00b1_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pillow =10.3.0 =py38h9e66945_0
@@ -288,7 +289,7 @@ requirements:
     - prompt_toolkit =3.0.42 =hd8ed1ab_0
     - pthread-stubs =0.4 =h36c2ea0_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pulseaudio-client =16.1 =hb77b528_5
+    - pulseaudio-client =17.0 =hb77b528_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.22 =pyhd8ed1ab_0
     - pydantic-core =2.18.2 =py38h31a4407_0
@@ -304,7 +305,7 @@ requirements:
     - python_abi =3.8 =4_cp38
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyzmq =26.0.2 =py38ha44f8e3_0
-    - qt-main =5.15.8 =h5810be5_19
+    - qt-main =5.15.8 =hc9dc06e_21
     - qtpy =2.4.1 =pyhd8ed1ab_0
     - r-askpass =1.2.0 =r43h57805ef_0
     - r-assertthat =0.2.1 =r43hc72bb7e_4
@@ -551,7 +552,7 @@ requirements:
     - xz =5.2.6 =h166bdaf_0
     - yaml =0.2.5 =h7f98852_2
     - yarl =1.9.4 =py38h01eb140_0
-    - zeromq =4.3.5 =h59595ed_1
+    - zeromq =4.3.5 =h59595ed_2
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =hd590300_5
     - zstd =1.5.5 =hfc55251_0

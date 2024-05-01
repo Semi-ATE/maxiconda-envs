@@ -87,7 +87,7 @@ requirements:
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
-    - font-ttf-ubuntu =0.83 =h77eed37_1
+    - font-ttf-ubuntu =0.83 =h77eed37_2
     - fontconfig =2.14.2 =ha9a116f_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
@@ -145,7 +145,7 @@ requirements:
     - libcap =2.69 =h883460d_0
     - libcblas =3.9.0 =20_linuxaarch64_openblas
     - libclang-cpp15 =15.0.7 =default_hb368394_5
-    - libclang13 =18.1.3 =default_hf9b4efe_0
+    - libclang13 =18.1.4 =default_hf9b4efe_0
     - libcups =2.3.3 =h405e4a8_4
     - libdeflate =1.20 =h31becfc_0
     - libedit =3.1.20191231 =he28a2e2_2
@@ -207,9 +207,9 @@ requirements:
     - mysql-common =8.3.0 =hb6794ad_4
     - mysql-libs =8.3.0 =hf629957_4
     - nbclient =0.10.0 =pyhd8ed1ab_0
-    - nbconvert =7.16.3 =hd8ed1ab_1
-    - nbconvert-core =7.16.3 =pyhd8ed1ab_1
-    - nbconvert-pandoc =7.16.3 =hd8ed1ab_1
+    - nbconvert =7.16.4 =hd8ed1ab_0
+    - nbconvert-core =7.16.4 =pyhd8ed1ab_0
+    - nbconvert-pandoc =7.16.4 =hd8ed1ab_0
     - nbformat =5.10.4 =pyhd8ed1ab_0
     - ncurses =6.4.20240210 =h0425590_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
@@ -217,7 +217,7 @@ requirements:
     - nss =3.98 =hc5a5cc2_0
     - numpydoc =1.7.0 =pyhd8ed1ab_0
     - openjpeg =2.5.2 =h0d9d63b_0
-    - openssl =3.2.1 =h31becfc_1
+    - openssl =3.3.0 =h31becfc_0
     - packaging =24.0 =pyhd8ed1ab_0
     - pandoc =3.1.13 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -354,7 +354,7 @@ requirements:
     - xz =5.2.6 =h9cdd2b7_0
     - yaml =0.2.5 =hf897c2e_2
     - yapf =0.40.1 =pyhd8ed1ab_0
-    - zeromq =4.3.5 =h2f0025b_1
+    - zeromq =4.3.5 =h2f0025b_2
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h31becfc_5
     - zstd =1.5.5 =h4c53e97_0
