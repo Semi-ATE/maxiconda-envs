@@ -126,10 +126,10 @@ requirements:
     - freetype =2.12.1 =h267a509_2
     - fribidi =1.0.10 =h36c2ea0_0
     - frozenlist =1.4.1 =py39hd1e30aa_0
-    - gcc_impl_linux-64 =13.2.0 =h1d3d475_6
+    - gcc_impl_linux-64 =13.2.0 =h9eb54c0_6
     - gettext =0.22.5 =h59595ed_2
     - gettext-tools =0.22.5 =h59595ed_2
-    - gfortran_impl_linux-64 =13.2.0 =h0a8b748_6
+    - gfortran_impl_linux-64 =13.2.0 =h738fc78_6
     - glib =2.80.0 =hf2295e7_6
     - glib-tools =2.80.0 =hde27a5a_6
     - gmp =6.3.0 =h59595ed_1
@@ -138,7 +138,7 @@ requirements:
     - greenlet =3.0.3 =py39h3d6467e_0
     - gst-plugins-base =1.24.1 =hfa15dee_1
     - gstreamer =1.24.1 =h98fc4e7_1
-    - gxx_impl_linux-64 =13.2.0 =h1d3d475_6
+    - gxx_impl_linux-64 =13.2.0 =h2a599c4_6
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =py39hf3d152e_0
     - harfbuzz =8.4.0 =h3d44ed6_0
@@ -158,9 +158,9 @@ requirements:
     - jedi =0.19.1 =pyhd8ed1ab_0
     - json5 =0.9.25 =pyhd8ed1ab_0
     - jsonpointer =2.4 =py39hf3d152e_3
-    - jsonschema =4.21.1 =pyhd8ed1ab_0
+    - jsonschema =4.22.0 =pyhd8ed1ab_0
     - jsonschema-specifications =2023.12.1 =pyhd8ed1ab_0
-    - jsonschema-with-format-nongpl =4.21.1 =pyhd8ed1ab_0
+    - jsonschema-with-format-nongpl =4.22.0 =pyhd8ed1ab_0
     - jupyter-lsp =2.2.5 =pyhd8ed1ab_0
     - jupyter_client =8.6.1 =pyhd8ed1ab_0
     - jupyter_core =5.7.2 =py39hf3d152e_0
@@ -197,15 +197,15 @@ requirements:
     - libexpat =2.6.2 =h59595ed_0
     - libffi =3.4.2 =h7f98852_5
     - libflac =1.4.3 =h59595ed_0
-    - libgcc-devel_linux-64 =13.2.0 =h95c4c6d_106
-    - libgcc-ng =13.2.0 =hc881cc4_6
+    - libgcc-devel_linux-64 =13.2.0 =hceb6213_106
+    - libgcc-ng =13.2.0 =h77fa898_6
     - libgcrypt =1.10.3 =hd590300_0
     - libgettextpo =0.22.5 =h59595ed_2
     - libgettextpo-devel =0.22.5 =h59595ed_2
     - libgfortran-ng =13.2.0 =h69a702a_6
     - libgfortran5 =13.2.0 =h43f5ff8_6
     - libglib =2.80.0 =hf2295e7_6
-    - libgomp =13.2.0 =hc881cc4_6
+    - libgomp =13.2.0 =h77fa898_6
     - libgpg-error =1.49 =h4f305b6_0
     - libiconv =1.17 =hd590300_2
     - libjpeg-turbo =3.0.0 =hd590300_1
@@ -220,13 +220,13 @@ requirements:
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.43 =h2797004_0
     - libpq =16.2 =h33b98f1_1
-    - libsanitizer =13.2.0 =h95c4c6d_6
+    - libsanitizer =13.2.0 =h6ddb7a1_6
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.45.3 =h2797004_0
     - libssh2 =1.11.0 =h0841786_0
-    - libstdcxx-devel_linux-64 =13.2.0 =h95c4c6d_106
-    - libstdcxx-ng =13.2.0 =h95c4c6d_6
+    - libstdcxx-devel_linux-64 =13.2.0 =hceb6213_106
+    - libstdcxx-ng =13.2.0 =hc0a3c3a_6
     - libsystemd0 =255 =h3516f8a_1
     - libtiff =4.6.0 =h1dd3fc0_3
     - libuuid =2.38.1 =h0b41bf4_0
@@ -548,7 +548,7 @@ requirements:
     - xz =5.2.6 =h166bdaf_0
     - yaml =0.2.5 =h7f98852_2
     - yarl =1.9.4 =py39hd1e30aa_0
-    - zeromq =4.3.5 =h59595ed_2
+    - zeromq =4.3.5 =h75354e8_3
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =hd590300_5
     - zstd =1.5.5 =hfc55251_0

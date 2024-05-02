@@ -123,7 +123,7 @@ requirements:
     - jeepney =0.8.0 =pyhd8ed1ab_0
     - jellyfish =1.0.3 =py38h4577bcc_0
     - jinja2 =3.1.3 =pyhd8ed1ab_0
-    - jsonschema =4.21.1 =pyhd8ed1ab_0
+    - jsonschema =4.22.0 =pyhd8ed1ab_0
     - jsonschema-specifications =2023.12.1 =pyhd8ed1ab_0
     - jupyter_client =8.6.1 =pyhd8ed1ab_0
     - jupyter_core =5.7.2 =py38he3eb160_0
@@ -153,14 +153,14 @@ requirements:
     - libexpat =2.6.2 =h2f0025b_0
     - libffi =3.4.2 =h3557bc0_5
     - libflac =1.4.3 =h2f0025b_0
-    - libgcc-ng =13.2.0 =hf8544c7_5
+    - libgcc-ng =13.2.0 =he277a41_6
     - libgcrypt =1.10.3 =h31becfc_0
     - libgettextpo =0.22.5 =h2f0025b_2
     - libgettextpo-devel =0.22.5 =h2f0025b_2
-    - libgfortran-ng =13.2.0 =he9431aa_5
-    - libgfortran5 =13.2.0 =h582850c_5
+    - libgfortran-ng =13.2.0 =he9431aa_6
+    - libgfortran5 =13.2.0 =h87d9d71_6
     - libglib =2.80.0 =h9d8fbc1_6
-    - libgomp =13.2.0 =hf8544c7_5
+    - libgomp =13.2.0 =he277a41_6
     - libgpg-error =1.49 =hb13efb6_0
     - libiconv =1.17 =h31becfc_2
     - libjpeg-turbo =3.0.0 =h31becfc_1
@@ -177,13 +177,13 @@ requirements:
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =1.9.3 =h01db608_4
     - libsqlite =3.45.3 =h194ca79_0
-    - libstdcxx-ng =13.2.0 =h9a76618_5
+    - libstdcxx-ng =13.2.0 =h3f4de04_6
     - libsystemd0 =255 =h91e93f8_1
     - libtiff =4.6.0 =hf980d43_3
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
-    - libwebp =1.3.2 =heb2ea1b_1
-    - libwebp-base =1.3.2 =h31becfc_1
+    - libwebp =1.4.0 =h8b4e01b_0
+    - libwebp-base =1.4.0 =h31becfc_0
     - libxcb =1.15 =h2a766a3_0
     - libxcrypt =4.4.36 =h31becfc_1
     - libxkbcommon =1.7.0 =h2555907_0
@@ -354,7 +354,7 @@ requirements:
     - xz =5.2.6 =h9cdd2b7_0
     - yaml =0.2.5 =hf897c2e_2
     - yapf =0.40.1 =pyhd8ed1ab_0
-    - zeromq =4.3.5 =h2f0025b_2
+    - zeromq =4.3.5 =h28faeed_3
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h31becfc_5
     - zstd =1.5.5 =h4c53e97_0
