@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 460 secondary packages :
+    # 456 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - annotated-types =0.6.0 =pyhd8ed1ab_0
@@ -94,19 +94,19 @@ requirements:
     - certifi =2024.2.2 =pyhd8ed1ab_0
     - cffi =1.16.0 =py39h18ef598_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
-    - clang =18.1.3 =default_h7151d67_0
-    - clang-18 =18.1.3 =default_h7151d67_0
-    - clang_impl_osx-64 =18.1.3 =hdbcc6ac_11
-    - clang_osx-64 =18.1.3 =hb91bd55_11
-    - clangxx =18.1.3 =default_h7151d67_0
-    - clangxx_impl_osx-64 =18.1.3 =h5bc21ce_11
-    - clangxx_osx-64 =18.1.3 =hb91bd55_11
+    - clang =18.1.4 =default_h7151d67_0
+    - clang-18 =18.1.4 =default_h7151d67_0
+    - clang_impl_osx-64 =18.1.4 =h290ea64_12
+    - clang_osx-64 =18.1.4 =hb91bd55_12
+    - clangxx =18.1.4 =default_h7151d67_0
+    - clangxx_impl_osx-64 =18.1.4 =hfe641c6_12
+    - clangxx_osx-64 =18.1.4 =hb91bd55_12
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_0
-    - compiler-rt =18.1.3 =ha38d28d_0
-    - compiler-rt_osx-64 =18.1.3 =ha38d28d_0
+    - compiler-rt =18.1.4 =h250337d_0
+    - compiler-rt_osx-64 =18.1.4 =hef2a9d4_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.2.1 =py39h0ca7971_0
     - curl =8.7.1 =h726d00d_0
@@ -131,8 +131,6 @@ requirements:
     - freetype =2.12.1 =h60636b9_2
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.4.1 =py39ha09f3b3_0
-    - gettext =0.22.5 =h5ff76d1_2
-    - gettext-tools =0.22.5 =h5ff76d1_2
     - gfortran_impl_osx-64 =12.3.0 =hc328e78_3
     - gfortran_osx-64 =12.3.0 =h18f7dce_1
     - glib =2.80.0 =h81c1438_6
@@ -141,8 +139,8 @@ requirements:
     - gmpy2 =2.1.5 =py39h4e050d6_0
     - graphite2 =1.3.13 =h73e2aa4_1003
     - greenlet =3.0.3 =py39hd253f6c_0
-    - gst-plugins-base =1.24.1 =h12dd0d4_1
-    - gstreamer =1.24.1 =h7c243d7_1
+    - gst-plugins-base =1.24.1 =h12dd0d4_2
+    - gstreamer =1.24.1 =h7c243d7_2
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =py39h6e9494a_0
     - harfbuzz =8.4.0 =h72fa137_0
@@ -181,15 +179,14 @@ requirements:
     - ld64_osx-64 =711 =had5d0d3_0
     - lerc =4.0.0 =hb486fe8_0
     - libasprintf =0.22.5 =h5ff76d1_2
-    - libasprintf-devel =0.22.5 =h5ff76d1_2
     - libblas =3.9.0 =22_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
     - libbrotlienc =1.1.0 =h0dc2134_1
     - libcblas =3.9.0 =22_osx64_openblas
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
-    - libclang-cpp18.1 =18.1.3 =default_h7151d67_0
-    - libclang13 =18.1.3 =default_h0edc4dd_0
+    - libclang-cpp18.1 =18.1.4 =default_h7151d67_0
+    - libclang13 =18.1.4 =default_h0edc4dd_0
     - libcurl =8.7.1 =h726d00d_0
     - libcxx =16.0.6 =hd57cbcb_0
     - libdeflate =1.20 =h49d49c5_0
@@ -198,7 +195,6 @@ requirements:
     - libexpat =2.6.2 =h73e2aa4_0
     - libffi =3.4.2 =h0d85af4_5
     - libgettextpo =0.22.5 =h5ff76d1_2
-    - libgettextpo-devel =0.22.5 =h5ff76d1_2
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran-devel_osx-64 =12.3.0 =h0b6f5ec_3
     - libgfortran5 =13.2.0 =h2873a65_3
@@ -210,7 +206,7 @@ requirements:
     - liblapack =3.9.0 =22_osx64_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm15 =15.0.7 =hbedff68_4
-    - libllvm18 =18.1.3 =hbcf5fad_0
+    - libllvm18 =18.1.4 =hbcf5fad_0
     - libnghttp2 =1.58.0 =h64cf6d3_1
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.27 =openmp_hfef2a42_0
@@ -226,8 +222,8 @@ requirements:
     - libxcb =1.15 =hb7f2c08_0
     - libxml2 =2.12.6 =hc0ae0f7_2
     - libzlib =1.2.13 =h8a1eda9_5
-    - llvm-openmp =18.1.3 =hb6ac08f_0
-    - llvm-tools =18.1.3 =hbcf5fad_0
+    - llvm-openmp =18.1.4 =h2c61cee_0
+    - llvm-tools =18.1.4 =hbcf5fad_0
     - llvmlite =0.42.0 =py39he5a6977_1
     - make =4.3 =h22f3db7_1
     - markupsafe =2.1.5 =py39ha09f3b3_0
@@ -473,7 +469,7 @@ requirements:
     - r-zoo =1.8_12 =r43h6dc245f_1
     - rapidfuzz =3.8.1 =py39hd253f6c_0
     - readline =8.2 =h9e318b2_1
-    - referencing =0.35.0 =pyhd8ed1ab_0
+    - referencing =0.35.1 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rpds-py =0.18.0 =py39hcf47035_0

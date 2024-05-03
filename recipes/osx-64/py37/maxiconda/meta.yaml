@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 410 secondary packages :
+    # 406 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.7.1 =pyhd8ed1ab_0
@@ -89,18 +89,18 @@ requirements:
     - certifi =2024.2.2 =pyhd8ed1ab_0
     - cffi =1.15.1 =py37h7346b73_1
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
-    - clang =18.1.3 =default_h7151d67_0
-    - clang-18 =18.1.3 =default_h7151d67_0
-    - clang_impl_osx-64 =18.1.3 =hdbcc6ac_11
-    - clang_osx-64 =18.1.3 =hb91bd55_11
-    - clangxx =18.1.3 =default_h7151d67_0
-    - clangxx_impl_osx-64 =18.1.3 =h5bc21ce_11
-    - clangxx_osx-64 =18.1.3 =hb91bd55_11
+    - clang =18.1.4 =default_h7151d67_0
+    - clang-18 =18.1.4 =default_h7151d67_0
+    - clang_impl_osx-64 =18.1.4 =h290ea64_12
+    - clang_osx-64 =18.1.4 =hb91bd55_12
+    - clangxx =18.1.4 =default_h7151d67_0
+    - clangxx_impl_osx-64 =18.1.4 =hfe641c6_12
+    - clangxx_osx-64 =18.1.4 =hb91bd55_12
     - click =8.1.3 =py37hf985489_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
-    - compiler-rt =18.1.3 =ha38d28d_0
-    - compiler-rt_osx-64 =18.1.3 =ha38d28d_0
+    - compiler-rt =18.1.4 =h250337d_0
+    - compiler-rt_osx-64 =18.1.4 =hef2a9d4_0
     - curl =8.7.1 =h726d00d_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.3 =py37hf6dfe07_0
@@ -120,19 +120,17 @@ requirements:
     - freetype =2.12.1 =h60636b9_2
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.3.1 =py37h74e8b7d_0
-    - gettext =0.22.5 =h5ff76d1_2
-    - gettext-tools =0.22.5 =h5ff76d1_2
     - gfortran_impl_osx-64 =12.3.0 =hc328e78_3
     - gfortran_osx-64 =12.3.0 =h18f7dce_1
-    - git =2.45.0 =pl5321hf33e10e_0
+    - git =2.45.0 =pl5321h4ac1b59_1
     - glib =2.80.0 =h81c1438_6
     - glib-tools =2.80.0 =h49a7eea_6
     - gmp =6.3.0 =h73e2aa4_1
     - gmpy2 =2.1.2 =py37h60f582e_0
     - graphite2 =1.3.13 =h73e2aa4_1003
     - greenlet =1.1.3 =py37hac51a3e_0
-    - gst-plugins-base =1.24.1 =h12dd0d4_1
-    - gstreamer =1.24.1 =h7c243d7_1
+    - gst-plugins-base =1.24.1 =h12dd0d4_2
+    - gstreamer =1.24.1 =h7c243d7_2
     - harfbuzz =8.4.0 =h72fa137_0
     - icu =73.2 =hf5e326d_0
     - idna =3.7 =pyhd8ed1ab_0
@@ -155,12 +153,11 @@ requirements:
     - ld64_osx-64 =711 =had5d0d3_0
     - lerc =4.0.0 =hb486fe8_0
     - libasprintf =0.22.5 =h5ff76d1_2
-    - libasprintf-devel =0.22.5 =h5ff76d1_2
     - libblas =3.9.0 =20_osx64_openblas
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
-    - libclang-cpp18.1 =18.1.3 =default_h7151d67_0
-    - libclang13 =18.1.3 =default_h0edc4dd_0
+    - libclang-cpp18.1 =18.1.4 =default_h7151d67_0
+    - libclang13 =18.1.4 =default_h0edc4dd_0
     - libcurl =8.7.1 =h726d00d_0
     - libcxx =16.0.6 =hd57cbcb_0
     - libdeflate =1.20 =h49d49c5_0
@@ -169,7 +166,6 @@ requirements:
     - libexpat =2.6.2 =h73e2aa4_0
     - libffi =3.4.2 =h0d85af4_5
     - libgettextpo =0.22.5 =h5ff76d1_2
-    - libgettextpo-devel =0.22.5 =h5ff76d1_2
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran-devel_osx-64 =12.3.0 =h0b6f5ec_3
     - libgfortran5 =13.2.0 =h2873a65_3
@@ -181,7 +177,7 @@ requirements:
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm11 =11.1.0 =h8fb7429_5
     - libllvm15 =15.0.7 =hbedff68_4
-    - libllvm18 =18.1.3 =hbcf5fad_0
+    - libllvm18 =18.1.4 =hbcf5fad_0
     - libnghttp2 =1.58.0 =h64cf6d3_1
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.25 =openmp_hfef2a42_0
@@ -196,8 +192,8 @@ requirements:
     - libwebp-base =1.4.0 =h10d778d_0
     - libxml2 =2.12.6 =hc0ae0f7_2
     - libzlib =1.2.13 =h8a1eda9_5
-    - llvm-openmp =18.1.3 =hb6ac08f_0
-    - llvm-tools =18.1.3 =hbcf5fad_0
+    - llvm-openmp =18.1.4 =h2c61cee_0
+    - llvm-tools =18.1.4 =hbcf5fad_0
     - llvmlite =0.39.1 =py37h5d31d3a_0
     - make =4.3 =h22f3db7_1
     - markupsafe =2.1.1 =py37h69ee0a8_1

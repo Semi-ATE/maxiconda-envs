@@ -32,7 +32,7 @@ requirements:
     - pandas =2.0.3 =py38h01efb38_1
     - pymol-open-source =3.0.0 =py38hfaa11ac_7
     - pyqt =5.15.9 =py38hffdaa6c_5
-    - rdkit =2024.03.1 =py38h924c20c_0
+    - rdkit =2024.03.2 =py38h924c20c_0
     - scipy =1.10.1 =py38h59b608b_3
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
 
@@ -88,8 +88,8 @@ requirements:
     - greenlet =3.0.3 =py38h17151c0_0
     - griddataformats =1.0.1 =pyhd8ed1ab_0
     - gsd =3.2.1 =py38h7f0c24c_0
-    - gst-plugins-base =1.24.1 =hfa15dee_1
-    - gstreamer =1.24.1 =h98fc4e7_1
+    - gst-plugins-base =1.24.1 =hfa15dee_2
+    - gstreamer =1.24.1 =h98fc4e7_2
     - h5py =3.11.0 =nompi_py38h2c1edd7_100
     - harfbuzz =8.4.0 =h3d44ed6_0
     - hdf4 =4.2.15 =h2a13503_7
@@ -103,7 +103,7 @@ requirements:
     - ipykernel =6.29.3 =pyhd33586a_0
     - ipython =8.12.2 =pyh41d4057_0
     - jedi =0.19.1 =pyhd8ed1ab_0
-    - joblib =1.4.0 =pyhd8ed1ab_0
+    - joblib =1.4.2 =pyhd8ed1ab_0
     - jupyter_client =8.6.1 =pyhd8ed1ab_0
     - jupyter_core =5.7.2 =py38h578d9bd_0
     - keyutils =1.6.1 =h166bdaf_0

@@ -32,11 +32,11 @@ requirements:
     - pandas =2.0.3 =py38h78e6021_1
     - pymol-open-source =3.0.0 =py38h7eadeec_7
     - pyqt =5.15.9 =py38he1c912d_5
-    - rdkit =2024.03.1 =py38hf97be73_0
+    - rdkit =2024.03.2 =py38h8578155_0
     - scipy =1.10.1 =py38h9cf86d3_3
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
 
-    # 203 secondary packages :
+    # 197 secondary packages :
     - appnope =0.1.4 =pyhd8ed1ab_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -74,8 +74,6 @@ requirements:
     - fonttools =4.51.0 =py38hae2e43d_0
     - freetype =2.12.1 =h60636b9_2
     - freetype-py =2.3.0 =pyhd8ed1ab_0
-    - gettext =0.22.5 =h5ff76d1_2
-    - gettext-tools =0.22.5 =h5ff76d1_2
     - glew =2.1.0 =h046ec9c_2
     - glib =2.80.0 =h81c1438_6
     - glib-tools =2.80.0 =h49a7eea_6
@@ -83,8 +81,8 @@ requirements:
     - greenlet =3.0.3 =py38h1f5f77c_0
     - griddataformats =1.0.1 =pyhd8ed1ab_0
     - gsd =3.2.1 =py38h7092abf_0
-    - gst-plugins-base =1.24.1 =h12dd0d4_1
-    - gstreamer =1.24.1 =h7c243d7_1
+    - gst-plugins-base =1.24.1 =h12dd0d4_2
+    - gstreamer =1.24.1 =h7c243d7_2
     - h5py =3.11.0 =nompi_py38hf24d7a2_100
     - hdf4 =4.2.15 =h8138101_7
     - hdf5 =1.14.3 =nompi_hb512a33_101
@@ -97,7 +95,7 @@ requirements:
     - ipykernel =6.29.3 =pyh3cd1d5f_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - jedi =0.19.1 =pyhd8ed1ab_0
-    - joblib =1.4.0 =pyhd8ed1ab_0
+    - joblib =1.4.2 =pyhd8ed1ab_0
     - jupyter_client =8.6.1 =pyhd8ed1ab_0
     - jupyter_core =5.7.2 =py38h50d1736_0
     - kiwisolver =1.4.5 =py38h15a1a5b_1
@@ -105,8 +103,6 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libaec =1.1.3 =h73e2aa4_0
-    - libasprintf =0.22.5 =h5ff76d1_2
-    - libasprintf-devel =0.22.5 =h5ff76d1_2
     - libblas =3.9.0 =20_osx64_openblas
     - libboost =1.84.0 =h6ebd1c4_2
     - libboost-python =1.84.0 =py38h98282bb_2
@@ -123,8 +119,6 @@ requirements:
     - libev =4.33 =h10d778d_2
     - libexpat =2.6.2 =h73e2aa4_0
     - libffi =3.4.2 =h0d85af4_5
-    - libgettextpo =0.22.5 =h5ff76d1_2
-    - libgettextpo-devel =0.22.5 =h5ff76d1_2
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
     - libglib =2.80.0 =h81c1438_6
@@ -152,7 +146,7 @@ requirements:
     - libxml2 =2.12.6 =hc0ae0f7_2
     - libzip =1.10.1 =hc158999_3
     - libzlib =1.2.13 =h8a1eda9_5
-    - llvm-openmp =18.1.3 =hb6ac08f_0
+    - llvm-openmp =18.1.4 =h2c61cee_0
     - lz4-c =1.9.4 =hf0c8a7f_0
     - matplotlib-base =3.7.3 =py38hcd1b199_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
