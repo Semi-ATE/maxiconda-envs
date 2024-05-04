@@ -87,7 +87,7 @@ requirements:
     - libintl-devel =0.22.5 =h5ff76d1_2
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - libllvm15 =15.0.7 =hbedff68_4
-    - libllvm18 =18.1.4 =hbcf5fad_0
+    - libllvm18 =18.1.5 =hf99a856_0
     - libogg =1.3.4 =h35c211d_1
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.43 =h92b6c6a_0
@@ -156,7 +156,7 @@ requirements:
     - zeromq =4.3.5 =h8d87b8b_3
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zope.interface =6.3 =py38hae2e43d_0
-    - zstd =1.5.5 =h829000d_0
+    - zstd =1.5.6 =h915ae27_0
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

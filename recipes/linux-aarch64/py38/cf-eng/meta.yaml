@@ -105,7 +105,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =h31becfc_1
     - liblapack =3.9.0 =22_linuxaarch64_openblas
     - libllvm15 =15.0.7 =hb4f23b0_4
-    - libllvm18 =18.1.4 =hbfe100b_0
+    - libllvm18 =18.1.5 =h97c352a_0
     - libnsl =2.0.1 =h31becfc_0
     - libogg =1.3.4 =h3557bc0_1
     - libopenblas =0.3.27 =pthreads_h5a5ec62_0
@@ -197,7 +197,7 @@ requirements:
     - zeromq =4.3.5 =h28faeed_3
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h31becfc_5
-    - zstd =1.5.5 =h4c53e97_0
+    - zstd =1.5.6 =h02f22dd_0
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
