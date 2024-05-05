@@ -31,13 +31,13 @@ requirements:
     - matplotlib =3.8.4 =py39h6e9494a_0
     - numpy =1.26.4 =py39h28c39a1_0
     - pandas =2.2.2 =py39haf03413_0
-    - plotly =5.21.0 =pyhd8ed1ab_0
+    - plotly =5.22.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =2.0.0 =py39h6e9494a_0
     - pyqt =5.15.9 =py39h3dce684_5
     - pytorch =2.1.2 =cpu_mkl_py39h0386829_103
     - scikit-learn =1.4.2 =py39hf36d3f6_0
-    - scipy =1.13.0 =py39h0ed1e0f_0
+    - scipy =1.13.0 =py39h72a3afc_1
     - scrapy =2.11.1 =py39h6e9494a_2
     - seaborn =0.13.2 =hd8ed1ab_2
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
@@ -96,7 +96,7 @@ requirements:
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.2.1 =py39h0ca7971_0
-    - cryptography =42.0.5 =py39h915638b_0
+    - cryptography =42.0.6 =py39hcebcf63_0
     - cssselect =1.2.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =py_0
     - cycler =0.12.1 =pyhd8ed1ab_0
@@ -147,8 +147,8 @@ requirements:
     - graphql-relay =3.2.0 =pyhd8ed1ab_0
     - graphviz =9.0.0 =hee74176_1
     - greenlet =3.0.3 =py39hd253f6c_0
-    - gst-plugins-base =1.24.1 =h12dd0d4_2
-    - gstreamer =1.24.1 =h7c243d7_2
+    - gst-plugins-base =1.24.3 =ha2d3188_0
+    - gstreamer =1.24.3 =h443839b_0
     - gtk2 =2.24.33 =h8ca4665_4
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =21.2.0 =py39h6e9494a_1
@@ -330,7 +330,7 @@ requirements:
     - pydantic-core =2.18.2 =py39h3013830_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
-    - pygments =2.17.2 =pyhd8ed1ab_0
+    - pygments =2.18.0 =pyhd8ed1ab_0
     - pyldavis =3.4.1 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py39hdc70f33_3
     - pynndescent =0.5.12 =pyhca7485f_0
@@ -351,7 +351,7 @@ requirements:
     - pyzmq =26.0.2 =py39hffc4518_0
     - qt-main =5.15.8 =hecaf5c3_21
     - querystring_parser =1.2.4 =py_0
-    - queuelib =1.6.2 =pyhd8ed1ab_0
+    - queuelib =1.7.0 =pyhd8ed1ab_0
     - re2 =2023.09.01 =hb168e87_1
     - readline =8.2 =h9e318b2_1
     - regex =2024.4.28 =py39ha624472_0
@@ -390,7 +390,7 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tornado =6.4 =py39ha09f3b3_0
-    - tqdm =4.66.2 =pyhd8ed1ab_0
+    - tqdm =4.66.4 =pyhd8ed1ab_0
     - traitlets =5.14.3 =pyhd8ed1ab_0
     - twisted =24.3.0 =py39ha09f3b3_0
     - typer =0.9.4 =pyhd8ed1ab_0

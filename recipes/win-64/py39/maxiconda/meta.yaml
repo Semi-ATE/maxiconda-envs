@@ -53,13 +53,13 @@ requirements:
     - regex =2024.4.28 =py39ha55e580_0
     - requests =2.31.0 =pyhd8ed1ab_0
     - rust =1.77.2 =hf8d6059_0
-    - scipy =1.13.0 =py39hddb5d58_0
+    - scipy =1.13.0 =py39h1a10956_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.5.1 =win_pyh7428d3b_0
     - sqlalchemy =2.0.29 =py39ha55989b_0
     - sqlite =3.45.3 =hcfcfb64_0
     - sympy =1.12 =pyh04b8f61_3
-    - tqdm =4.66.2 =pyhd8ed1ab_0
+    - tqdm =4.66.4 =pyhd8ed1ab_0
     - transitions =0.9.0 =pyhd8ed1ab_0
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
@@ -121,8 +121,8 @@ requirements:
     - glib-tools =2.80.0 =h0a98069_6
     - graphite2 =1.3.13 =h63175ca_1003
     - greenlet =3.0.3 =py39h99910a6_0
-    - gst-plugins-base =1.24.1 =h001b923_2
-    - gstreamer =1.24.1 =hb4038d2_2
+    - gst-plugins-base =1.24.3 =hba88be7_0
+    - gstreamer =1.24.3 =h5006eae_0
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =py39hcbf5309_0
     - harfbuzz =8.4.0 =h7ab893a_0
@@ -257,7 +257,7 @@ requirements:
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.22 =pyhd8ed1ab_0
     - pydantic-core =2.18.2 =py39h92a245a_0
-    - pygments =2.17.2 =pyhd8ed1ab_0
+    - pygments =2.18.0 =pyhd8ed1ab_0
     - pyparsing =3.1.2 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py39h99910a6_5
     - pysocks =1.7.1 =py39hcbf5309_5
