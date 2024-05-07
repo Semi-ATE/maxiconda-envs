@@ -41,7 +41,7 @@ requirements:
     - scrapy =2.11.1 =py38h50d1736_2
     - seaborn =0.13.2 =hd8ed1ab_2
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
-    - sqlalchemy =2.0.29 =py38hae2e43d_0
+    - sqlalchemy =2.0.30 =py38hb03f73c_0
     - sqlite =3.45.3 =h7461747_0
     - statsmodels =0.14.1 =py38h7092abf_0
     - xgboost =2.0.3 =cpu_py38h273ab5c_0
@@ -203,7 +203,7 @@ requirements:
     - libclang13 =18.1.5 =default_h033b66c_0
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.7.1 =h726d00d_0
-    - libcxx =16.0.6 =hd57cbcb_0
+    - libcxx =17.0.6 =h88467a6_0
     - libdeflate =1.20 =h49d49c5_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =h10d778d_2
@@ -255,7 +255,7 @@ requirements:
     - libxml2 =2.12.6 =hc0ae0f7_2
     - libxslt =1.1.39 =h03b04e6_0
     - libzlib =1.2.13 =h8a1eda9_5
-    - llvm-openmp =18.1.4 =h2c61cee_0
+    - llvm-openmp =18.1.5 =h39e0ece_0
     - llvmlite =0.41.1 =py38h6008ce5_0
     - lxml =5.2.1 =py38h8a571d4_0
     - lz4-c =1.9.4 =hf0c8a7f_0
@@ -350,10 +350,10 @@ requirements:
     - pywavelets =1.4.1 =py38h49861b3_1
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
     - pyyaml =6.0.1 =py38hcafd530_1
-    - pyzmq =26.0.2 =py38h34e65bf_0
+    - pyzmq =26.0.3 =py38h80f5319_0
     - qt-main =5.15.8 =hecaf5c3_21
     - querystring_parser =1.2.4 =py_0
-    - queuelib =1.7.0 =pyhd8ed1ab_0
+    - queuelib =1.7.0 =pyhd8ed1ab_1
     - re2 =2023.09.01 =hb168e87_1
     - readline =8.2 =h9e318b2_1
     - regex =2024.4.28 =py38h5fec128_0
@@ -377,7 +377,7 @@ requirements:
     - spacy =3.7.3 =py38h4a817e8_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
     - spacy-loggers =1.0.5 =pyhd8ed1ab_0
-    - sqlparse =0.4.4 =pyhd8ed1ab_0
+    - sqlparse =0.5.0 =pyhd8ed1ab_0
     - srsly =2.4.8 =py38h940360d_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - sympy =1.12 =pypyh9d50eac_103
@@ -407,7 +407,7 @@ requirements:
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - weasel =0.3.4 =pyhd8ed1ab_0
     - websocket-client =1.8.0 =pyhd8ed1ab_0
-    - werkzeug =3.0.2 =pyhd8ed1ab_0
+    - werkzeug =3.0.3 =pyhd8ed1ab_0
     - wheel =0.43.0 =pyhd8ed1ab_1
     - widgetsnbextension =4.0.10 =pyhd8ed1ab_0
     - wordcloud =1.9.3 =py38hae2e43d_1

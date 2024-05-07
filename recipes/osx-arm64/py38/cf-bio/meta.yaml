@@ -113,7 +113,7 @@ requirements:
     - libclang-cpp15 =15.0.7 =default_he012953_5
     - libclang13 =18.1.5 =default_h174537c_0
     - libcurl =8.7.1 =h2d989ff_0
-    - libcxx =16.0.6 =h4653b0c_0
+    - libcxx =17.0.6 =h5f092b4_0
     - libdeflate =1.20 =h93a5062_0
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libev =4.33 =h93a5062_2
@@ -146,7 +146,7 @@ requirements:
     - libxml2 =2.12.6 =h0d0cfa8_2
     - libzip =1.10.1 =ha0bc3c6_3
     - libzlib =1.2.13 =h53f4e23_5
-    - llvm-openmp =18.1.4 =hbf6887a_0
+    - llvm-openmp =18.1.5 =hde57baf_0
     - lz4-c =1.9.4 =hb7217d7_0
     - matplotlib-base =3.7.3 =py38hef9d0d7_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
@@ -196,7 +196,7 @@ requirements:
     - python_abi =3.8 =4_cp38
     - pytng =0.3.0 =py38h2346e95_0
     - pytz =2024.1 =pyhd8ed1ab_0
-    - pyzmq =26.0.2 =py38h1347feb_0
+    - pyzmq =26.0.3 =py38h0d2f7f4_0
     - qt-main =5.15.8 =hf679f28_21
     - readline =8.2 =h92ec313_1
     - reportlab =4.1.0 =py38h336bac9_0
@@ -209,7 +209,7 @@ requirements:
     - sip =6.8.3 =py38hb9fa5a8_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.2.0 =hd04f947_1
-    - sqlalchemy =2.0.29 =py38h336bac9_0
+    - sqlalchemy =2.0.30 =py38h3237794_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.1 =py38hd97cf01_0
     - threadpoolctl =3.5.0 =pyhc1e730c_0

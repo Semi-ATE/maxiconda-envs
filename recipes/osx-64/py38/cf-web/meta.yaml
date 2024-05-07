@@ -32,7 +32,7 @@ requirements:
     - pyyaml =6.0.1 =py38hcafd530_1
     - requests =2.31.0 =pyhd8ed1ab_0
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
-    - sqlalchemy =2.0.29 =py38hae2e43d_0
+    - sqlalchemy =2.0.30 =py38hb03f73c_0
     - twisted =24.3.0 =py38hae2e43d_0
 
     # 121 secondary packages :
@@ -78,7 +78,7 @@ requirements:
     - krb5 =1.21.2 =hb884880_0
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
     - libclang13 =18.1.5 =default_h033b66c_0
-    - libcxx =16.0.6 =hd57cbcb_0
+    - libcxx =17.0.6 =h88467a6_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libffi =3.4.2 =h0d85af4_5
     - libglib =2.80.0 =h81c1438_6
@@ -128,7 +128,7 @@ requirements:
     - pysocks =1.7.1 =py38h50d1736_5
     - python-dateutil =2.9.0 =pyhd8ed1ab_0
     - python_abi =3.8 =4_cp38
-    - pyzmq =26.0.2 =py38h34e65bf_0
+    - pyzmq =26.0.3 =py38h80f5319_0
     - qt-main =5.15.8 =hecaf5c3_21
     - readline =8.2 =h9e318b2_1
     - service-identity =21.1.0 =pyhd8ed1ab_0
@@ -137,7 +137,7 @@ requirements:
     - sip =6.7.12 =py38hb2f96d7_0
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.5 =pyhd8ed1ab_1
-    - sqlparse =0.4.4 =pyhd8ed1ab_0
+    - sqlparse =0.5.0 =pyhd8ed1ab_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tk =8.6.13 =h1abcd95_1
     - toml =0.10.2 =pyhd8ed1ab_0
