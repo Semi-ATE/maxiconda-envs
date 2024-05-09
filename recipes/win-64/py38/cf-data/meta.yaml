@@ -54,19 +54,19 @@ requirements:
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attrs =23.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.18 =hba7c1ab_0
-    - aws-c-cal =0.6.11 =ha21e00f_0
-    - aws-c-common =0.9.15 =hcfcfb64_0
-    - aws-c-compression =0.2.18 =ha21e00f_3
-    - aws-c-event-stream =0.4.2 =hf668b60_8
-    - aws-c-http =0.8.1 =hd704247_10
-    - aws-c-io =0.14.7 =h14865c8_6
-    - aws-c-mqtt =0.10.4 =h748201e_0
-    - aws-c-s3 =0.5.7 =h0ac6cc1_2
-    - aws-c-sdkutils =0.1.15 =ha21e00f_3
-    - aws-checksums =0.1.18 =ha21e00f_3
-    - aws-crt-cpp =0.26.8 =h2199128_2
-    - aws-sdk-cpp =1.11.267 =h3f4ca61_7
+    - aws-c-auth =0.7.18 =h4813612_3
+    - aws-c-cal =0.6.12 =hc83774a_0
+    - aws-c-common =0.9.17 =h2466b09_0
+    - aws-c-compression =0.2.18 =hc83774a_4
+    - aws-c-event-stream =0.4.2 =h99f05a9_9
+    - aws-c-http =0.8.1 =h23b3c28_12
+    - aws-c-io =0.14.7 =hebaacdb_9
+    - aws-c-mqtt =0.10.4 =h503f92b_1
+    - aws-c-s3 =0.5.7 =h7ba16a0_4
+    - aws-c-sdkutils =0.1.16 =hc83774a_0
+    - aws-checksums =0.1.18 =hc83774a_4
+    - aws-crt-cpp =0.26.8 =hf33e8a9_6
+    - aws-sdk-cpp =1.11.267 =h12f3f85_8
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bcrypt =4.1.2 =py38h4900a04_0
     - blinker =1.8.2 =pyhd8ed1ab_0
@@ -129,8 +129,8 @@ requirements:
     - getopt-win32 =0.1 =hcfcfb64_1
     - gitdb =4.0.11 =pyhd8ed1ab_0
     - gitpython =3.1.43 =pyhd8ed1ab_0
-    - glib =2.80.0 =h39d0aa6_6
-    - glib-tools =2.80.0 =h0a98069_6
+    - glib =2.80.1 =h0df6a38_0
+    - glib-tools =2.80.1 =h2f9d560_0
     - graphene =3.3 =pyhd8ed1ab_0
     - graphite2 =1.3.13 =h63175ca_1003
     - graphql-core =3.2.3 =pyhd8ed1ab_0
@@ -154,12 +154,12 @@ requirements:
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.29.3 =pyha63f2e9_0
     - ipython =8.12.2 =pyh08f2357_0
-    - ipywidgets =8.1.2 =pyhd8ed1ab_0
+    - ipywidgets =8.1.2 =pyhd8ed1ab_1
     - itemadapter =0.9.0 =pyhd8ed1ab_0
     - itemloaders =1.2.0 =pyhd8ed1ab_0
     - itsdangerous =2.2.0 =pyhd8ed1ab_0
     - jedi =0.19.1 =pyhd8ed1ab_0
-    - jinja2 =3.1.3 =pyhd8ed1ab_0
+    - jinja2 =3.1.4 =pyhd8ed1ab_0
     - jmespath =1.0.1 =pyhd8ed1ab_0
     - joblib =1.4.2 =pyhd8ed1ab_0
     - jupyter_client =8.6.1 =pyhd8ed1ab_0
@@ -193,7 +193,7 @@ requirements:
     - libexpat =2.6.2 =h63175ca_0
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h312136b_9
-    - libglib =2.80.0 =h39d0aa6_6
+    - libglib =2.80.1 =h0df6a38_0
     - libgoogle-cloud =2.23.0 =h68df31e_1
     - libgoogle-cloud-storage =2.23.0 =hb581fae_1
     - libgrpc =1.62.2 =h5273850_0
