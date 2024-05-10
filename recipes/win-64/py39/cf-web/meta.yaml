@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - beautifulsoup4 =4.12.3 =pyha770c72_0
-    - django =4.2.11 =pyhd8ed1ab_0
+    - django =4.2.13 =pyhd8ed1ab_0
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py39hb77abff_5
     - pyyaml =6.0.1 =py39ha55989b_1
@@ -58,8 +58,8 @@ requirements:
     - decorator =5.1.1 =pyhd8ed1ab_0
     - exceptiongroup =1.2.0 =pyhd8ed1ab_2
     - executing =2.0.1 =pyhd8ed1ab_0
-    - glib =2.80.1 =h0df6a38_0
-    - glib-tools =2.80.1 =h2f9d560_0
+    - glib =2.80.2 =h0df6a38_0
+    - glib-tools =2.80.2 =h2f9d560_0
     - greenlet =3.0.3 =py39h99910a6_0
     - gst-plugins-base =1.24.3 =hba88be7_0
     - gstreamer =1.24.3 =h5006eae_0
@@ -77,7 +77,7 @@ requirements:
     - krb5 =1.21.2 =heb0366b_0
     - libclang13 =18.1.5 =default_hf64faad_0
     - libffi =3.4.2 =h8ffe710_5
-    - libglib =2.80.1 =h0df6a38_0
+    - libglib =2.80.2 =h0df6a38_0
     - libiconv =1.17 =hcfcfb64_2
     - libintl =0.22.5 =h5728263_2
     - libintl-devel =0.22.5 =h5728263_2

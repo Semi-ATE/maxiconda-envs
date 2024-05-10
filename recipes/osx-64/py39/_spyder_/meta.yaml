@@ -83,8 +83,8 @@ requirements:
     - gettext =0.22.5 =h5ff76d1_2
     - gettext-tools =0.22.5 =h5ff76d1_2
     - giflib =5.2.2 =h10d778d_0
-    - glib =2.80.0 =h81c1438_6
-    - glib-tools =2.80.0 =h49a7eea_6
+    - glib =2.80.2 =h0f68cf7_0
+    - glib-tools =2.80.2 =hc27840c_0
     - gmp =6.3.0 =h73e2aa4_1
     - gmpy2 =2.1.5 =py39h4e050d6_0
     - gst-plugins-base =1.22.9 =h3fb38fc_1
@@ -134,7 +134,7 @@ requirements:
     - libgettextpo-devel =0.22.5 =h5ff76d1_2
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.80.0 =h81c1438_6
+    - libglib =2.80.2 =h0f68cf7_0
     - libiconv =1.17 =hd75f5a5_2
     - libintl =0.22.5 =h5ff76d1_2
     - libintl-devel =0.22.5 =h5ff76d1_2
@@ -146,7 +146,7 @@ requirements:
     - libopenblas =0.3.27 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.43 =h92b6c6a_0
-    - libpq =16.2 =ha925e61_1
+    - libpq =16.3 =h4501773_0
     - libsodium =1.0.18 =hbcb3906_1
     - libspatialindex =1.9.3 =he49afe7_4
     - libsqlite =3.45.3 =h92b6c6a_0
@@ -178,10 +178,10 @@ requirements:
     - nbconvert-core =7.16.4 =pyhd8ed1ab_0
     - nbconvert-pandoc =7.16.4 =hd8ed1ab_0
     - nbformat =5.10.4 =pyhd8ed1ab_0
-    - ncurses =6.4.20240210 =h73e2aa4_0
+    - ncurses =6.5 =h5846eda_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
-    - nss =3.98 =ha05da47_0
+    - nss =3.100 =h6606ded_0
     - numpydoc =1.7.0 =pyhd8ed1ab_0
     - openjpeg =2.5.2 =h7310d3a_0
     - openssl =3.3.0 =hd75f5a5_0

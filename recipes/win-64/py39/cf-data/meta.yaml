@@ -62,10 +62,10 @@ requirements:
     - aws-c-http =0.8.1 =h23b3c28_12
     - aws-c-io =0.14.7 =hebaacdb_9
     - aws-c-mqtt =0.10.4 =h503f92b_1
-    - aws-c-s3 =0.5.7 =h7ba16a0_4
+    - aws-c-s3 =0.5.8 =h7ba16a0_0
     - aws-c-sdkutils =0.1.16 =hc83774a_0
     - aws-checksums =0.1.18 =hc83774a_4
-    - aws-crt-cpp =0.26.8 =hf33e8a9_6
+    - aws-crt-cpp =0.26.8 =h25b96ce_7
     - aws-sdk-cpp =1.11.267 =h12f3f85_8
     - bcrypt =4.1.2 =py39hf21820d_0
     - blinker =1.8.2 =pyhd8ed1ab_0
@@ -128,8 +128,8 @@ requirements:
     - getopt-win32 =0.1 =hcfcfb64_1
     - gitdb =4.0.11 =pyhd8ed1ab_0
     - gitpython =3.1.43 =pyhd8ed1ab_0
-    - glib =2.80.1 =h0df6a38_0
-    - glib-tools =2.80.1 =h2f9d560_0
+    - glib =2.80.2 =h0df6a38_0
+    - glib-tools =2.80.2 =h2f9d560_0
     - graphene =3.3 =pyhd8ed1ab_0
     - graphite2 =1.3.13 =h63175ca_1003
     - graphql-core =3.2.3 =pyhd8ed1ab_0
@@ -172,13 +172,13 @@ requirements:
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20240116.2 =cxx17_h63175ca_0
-    - libarrow =15.0.2 =he3d97d8_6_cpu
-    - libarrow-acero =15.0.2 =he0c23c2_6_cpu
-    - libarrow-dataset =15.0.2 =he0c23c2_6_cpu
-    - libarrow-flight =15.0.2 =ha7f4a34_6_cpu
-    - libarrow-flight-sql =15.0.2 =hdeef14f_6_cpu
-    - libarrow-gandiva =15.0.2 =hd4515a1_6_cpu
-    - libarrow-substrait =15.0.2 =h1f0e801_6_cpu
+    - libarrow =15.0.2 =he3d97d8_7_cpu
+    - libarrow-acero =15.0.2 =he0c23c2_7_cpu
+    - libarrow-dataset =15.0.2 =he0c23c2_7_cpu
+    - libarrow-flight =15.0.2 =ha7f4a34_7_cpu
+    - libarrow-flight-sql =15.0.2 =hdeef14f_7_cpu
+    - libarrow-gandiva =15.0.2 =hd4515a1_7_cpu
+    - libarrow-substrait =15.0.2 =h1f0e801_7_cpu
     - libblas =3.9.0 =22_win64_openblas
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
@@ -193,7 +193,7 @@ requirements:
     - libffi =3.4.2 =h8ffe710_5
     - libflang =5.0.0 =h6538335_20180525
     - libgd =2.3.3 =h312136b_9
-    - libglib =2.80.1 =h0df6a38_0
+    - libglib =2.80.2 =h0df6a38_0
     - libgoogle-cloud =2.23.0 =h68df31e_1
     - libgoogle-cloud-storage =2.23.0 =hb581fae_1
     - libgrpc =1.62.2 =h5273850_0
@@ -205,7 +205,7 @@ requirements:
     - liblapack =3.9.0 =22_win64_openblas
     - libogg =1.3.4 =h8ffe710_1
     - libopenblas =0.3.27 =pthreads_hc140b1d_0
-    - libparquet =15.0.2 =h178134c_6_cpu
+    - libparquet =15.0.2 =h178134c_7_cpu
     - libpng =1.6.43 =h19919ed_0
     - libprotobuf =4.25.3 =h503648d_0
     - libre2-11 =2023.09.01 =hf8d8778_2
@@ -242,9 +242,9 @@ requirements:
     - mdurl =0.1.2 =pyhd8ed1ab_0
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.5.2 =pyhd8ed1ab_0
-    - mlflow =2.12.1 =hcbf5309_1
-    - mlflow-skinny =2.12.1 =py39hcbf5309_1
-    - mlflow-ui =2.12.1 =py39hcbf5309_1
+    - mlflow =2.12.1 =hcbf5309_2
+    - mlflow-skinny =2.12.1 =py39hcbf5309_2
+    - mlflow-ui =2.12.1 =py39hcbf5309_2
     - mlxtend =0.23.1 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - multimethod =1.4 =py_0
@@ -287,7 +287,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py39hd3de297_0
-    - pyarrow =15.0.2 =py39h338ae66_6_cpu
+    - pyarrow =15.0.2 =py39h338ae66_7_cpu
     - pyasn1 =0.6.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.4.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -345,7 +345,7 @@ requirements:
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.12.0 =h91493d7_0
-    - tenacity =8.2.3 =pyhd8ed1ab_0
+    - tenacity =8.3.0 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
     - thinc =8.2.2 =py39h5c3ab46_0
     - threadpoolctl =3.5.0 =pyhc1e730c_0
