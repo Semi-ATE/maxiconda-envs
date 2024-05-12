@@ -54,7 +54,7 @@ requirements:
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attrs =23.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.19 =h6823eb1_1
+    - aws-c-auth =0.7.20 =h6823eb1_0
     - aws-c-cal =0.6.12 =hc83774a_0
     - aws-c-common =0.9.17 =h2466b09_0
     - aws-c-compression =0.2.18 =hc83774a_4
@@ -62,10 +62,10 @@ requirements:
     - aws-c-http =0.8.1 =hced5053_13
     - aws-c-io =0.14.8 =hebaacdb_0
     - aws-c-mqtt =0.10.4 =hdafd9a4_2
-    - aws-c-s3 =0.5.8 =he5eadfb_2
+    - aws-c-s3 =0.5.8 =h7a83f0e_3
     - aws-c-sdkutils =0.1.16 =hc83774a_0
     - aws-checksums =0.1.18 =hc83774a_4
-    - aws-crt-cpp =0.26.8 =h0f73cf7_9
+    - aws-crt-cpp =0.26.8 =h4438f58_10
     - aws-sdk-cpp =1.11.267 =h12f3f85_8
     - bcrypt =4.1.2 =py39hf21820d_0
     - blinker =1.8.2 =pyhd8ed1ab_0
@@ -347,7 +347,7 @@ requirements:
     - tbb =2021.12.0 =h91493d7_0
     - tenacity =8.3.0 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
-    - thinc =8.2.2 =py39h5c3ab46_0
+    - thinc =8.2.2 =py39haacdf10_1
     - threadpoolctl =3.5.0 =pyhc1e730c_0
     - tk =8.6.13 =h5226925_1
     - tldextract =5.1.2 =pyhd8ed1ab_0
@@ -372,7 +372,7 @@ requirements:
     - vs2015_runtime =14.38.33130 =hcb4865c_18
     - w3lib =2.1.2 =pyhd8ed1ab_0
     - waitress =2.1.2 =pyhd8ed1ab_0
-    - wasabi =1.1.2 =py39hcbf5309_0
+    - wasabi =1.1.2 =py39hcbf5309_1
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - weasel =0.3.4 =pyhd8ed1ab_0
     - websocket-client =1.8.0 =pyhd8ed1ab_0
