@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py38h01eb140_0
     - cython =3.0.10 =py38h17151c0_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.100.7 =pyha770c72_0
+    - hypothesis =6.102.1 =pyha770c72_0
     - ipython =8.12.2 =pyh41d4057_0
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38h578d9bd_0
@@ -237,7 +237,7 @@ requirements:
     - libxcb =1.15 =h0b41bf4_0
     - libxcrypt =4.4.36 =hd590300_1
     - libxkbcommon =1.7.0 =h662e7e4_0
-    - libxml2 =2.12.6 =h232c23b_2
+    - libxml2 =2.12.7 =hc051c1a_0
     - libzlib =1.2.13 =hd590300_5
     - llvmlite =0.41.1 =py38h94a1851_0
     - lz4-c =1.9.4 =hcb278e6_0
@@ -345,7 +345,7 @@ requirements:
     - r-ellipsis =0.3.2 =r43h57805ef_2
     - r-evaluate =0.23 =r43hc72bb7e_0
     - r-fansi =1.0.6 =r43h57805ef_0
-    - r-farver =2.1.1 =r43ha503ecb_2
+    - r-farver =2.1.2 =r43ha18555a_0
     - r-fastmap =1.1.1 =r43ha503ecb_1
     - r-fontawesome =0.5.2 =r43hc72bb7e_0
     - r-forcats =1.0.0 =r43hc72bb7e_1
@@ -552,7 +552,7 @@ requirements:
     - xz =5.2.6 =h166bdaf_0
     - yaml =0.2.5 =h7f98852_2
     - yarl =1.9.4 =py38h01eb140_0
-    - zeromq =4.3.5 =h75354e8_3
+    - zeromq =4.3.5 =h75354e8_4
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =hd590300_5
     - zstd =1.5.6 =ha6fb4c9_0
