@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =2.0.0 =py39h6e9494a_0
     - pyqt =5.15.9 =py39h3dce684_5
-    - pytorch =2.1.2 =cpu_mkl_py39h3d33511_104
+    - pytorch =2.3.0 =cpu_mkl_py39h775f339_100
     - scikit-learn =1.4.2 =py39hf36d3f6_0
     - scipy =1.13.0 =py39h72a3afc_1
     - scrapy =2.11.1 =py39h6e9494a_2
@@ -152,7 +152,7 @@ requirements:
     - gtk2 =2.24.33 =h8ca4665_4
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =21.2.0 =py39h6e9494a_1
-    - harfbuzz =8.4.0 =h72fa137_0
+    - harfbuzz =8.5.0 =h053f038_0
     - htmlmin =0.1.12 =pyhca7485f_2
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =73.2 =hf5e326d_0
@@ -244,7 +244,7 @@ requirements:
     - libssh2 =1.11.0 =hd019ec5_0
     - libthrift =0.19.0 =h064b379_1
     - libtiff =4.6.0 =h129831d_3
-    - libtorch =2.1.2 =cpu_mkl_h47d9746_104
+    - libtorch =2.3.0 =cpu_mkl_h306d6e7_100
     - libutf8proc =2.8.0 =hb7f2c08_0
     - libuv =1.48.0 =h67532ce_0
     - libvorbis =1.3.7 =h046ec9c_0
@@ -259,7 +259,7 @@ requirements:
     - llvmlite =0.42.0 =py39he5a6977_1
     - lxml =5.2.2 =py39h96e9569_0
     - lz4-c =1.9.4 =hf0c8a7f_0
-    - mako =1.3.3 =pyhd8ed1ab_0
+    - mako =1.3.5 =pyhd8ed1ab_0
     - marisa-trie =1.1.0 =py39hd253f6c_1
     - markdown =3.6 =pyhd8ed1ab_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
