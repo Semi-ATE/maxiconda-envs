@@ -28,7 +28,7 @@ requirements:
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - bokeh =3.4.1 =pyhd8ed1ab_0
     - lightgbm =4.3.0 =py39hf7b7f60_0
-    - matplotlib =3.8.4 =py39h6e9494a_1
+    - matplotlib =3.8.4 =py39h6e9494a_2
     - numpy =1.26.4 =py39h28c39a1_0
     - pandas =2.2.2 =py39hbb604f3_1
     - plotly =5.22.0 =pyhd8ed1ab_0
@@ -43,7 +43,7 @@ requirements:
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
     - sqlalchemy =2.0.30 =py39h1a49df0_0
     - sqlite =3.45.3 =h7461747_0
-    - statsmodels =0.14.1 =py39h5b4affa_0
+    - statsmodels =0.14.2 =py39hb943cd9_0
     - xgboost =2.0.3 =cpu_py39h15c3653_0
 
     # 376 secondary packages :
@@ -70,7 +70,7 @@ requirements:
     - aws-checksums =0.1.18 =h94d6f14_4
     - aws-crt-cpp =0.26.8 =hfc86177_10
     - aws-sdk-cpp =1.11.267 =h764722f_8
-    - bcrypt =4.1.2 =py39h3f9c672_0
+    - bcrypt =4.1.3 =py39hf59063a_0
     - blinker =1.8.2 =pyhd8ed1ab_0
     - bottleneck =1.3.8 =py39h5b4affa_0
     - brotli =1.1.0 =h0dc2134_1
@@ -220,7 +220,7 @@ requirements:
     - libgoogle-cloud =2.23.0 =h651e89d_1
     - libgoogle-cloud-storage =2.23.0 =ha67e85c_1
     - libgrpc =1.62.2 =h384b2fc_0
-    - libhwloc =2.10.0 =default_h1321489_1000
+    - libhwloc =2.10.0 =default_h456cccd_1001
     - libiconv =1.17 =hd75f5a5_2
     - libintl =0.22.5 =h5ff76d1_2
     - libintl-devel =0.22.5 =h5ff76d1_2
@@ -265,7 +265,7 @@ requirements:
     - markdown =3.6 =pyhd8ed1ab_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py39ha09f3b3_0
-    - matplotlib-base =3.8.4 =py39hfca4cae_1
+    - matplotlib-base =3.8.4 =py39hfca4cae_2
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mdurl =0.1.2 =pyhd8ed1ab_0
     - miniful =0.0.6 =pyhd8ed1ab_0
