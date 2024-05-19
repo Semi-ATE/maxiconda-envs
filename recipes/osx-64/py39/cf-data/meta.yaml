@@ -186,13 +186,13 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20240116.2 =cxx17_hc1bcbd7_0
-    - libarrow =15.0.2 =hb6a69ac_7_cpu
-    - libarrow-acero =15.0.2 =hf036a51_7_cpu
-    - libarrow-dataset =15.0.2 =hf036a51_7_cpu
-    - libarrow-flight =15.0.2 =hd834827_7_cpu
-    - libarrow-flight-sql =15.0.2 =he1e86a1_7_cpu
-    - libarrow-gandiva =15.0.2 =hfa04d5a_7_cpu
-    - libarrow-substrait =15.0.2 =he1e86a1_7_cpu
+    - libarrow =15.0.2 =hde78c98_8_cpu
+    - libarrow-acero =15.0.2 =hf036a51_8_cpu
+    - libarrow-dataset =15.0.2 =hf036a51_8_cpu
+    - libarrow-flight =15.0.2 =hd834827_8_cpu
+    - libarrow-flight-sql =15.0.2 =he1e86a1_8_cpu
+    - libarrow-gandiva =15.0.2 =hfa04d5a_8_cpu
+    - libarrow-substrait =15.0.2 =he1e86a1_8_cpu
     - libasprintf =0.22.5 =h5ff76d1_2
     - libasprintf-devel =0.22.5 =h5ff76d1_2
     - libblas =3.9.0 =22_osx64_openblas
@@ -217,8 +217,8 @@ requirements:
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
     - libglib =2.80.2 =h0f68cf7_0
-    - libgoogle-cloud =2.23.0 =h651e89d_1
-    - libgoogle-cloud-storage =2.23.0 =ha67e85c_1
+    - libgoogle-cloud =2.24.0 =h721cda5_0
+    - libgoogle-cloud-storage =2.24.0 =ha1c69e0_0
     - libgrpc =1.62.2 =h384b2fc_0
     - libhwloc =2.10.0 =default_h456cccd_1001
     - libiconv =1.17 =hd75f5a5_2
@@ -234,7 +234,7 @@ requirements:
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.27 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =15.0.2 =h904a336_7_cpu
+    - libparquet =15.0.2 =h904a336_8_cpu
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =16.3 =h4501773_0
     - libprotobuf =4.25.3 =h4e4d658_0
@@ -322,7 +322,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py39h15c3653_0
-    - pyarrow =15.0.2 =py39h7aa4791_7_cpu
+    - pyarrow =15.0.2 =py39h7aa4791_8_cpu
     - pyasn1 =0.6.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.4.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -381,7 +381,7 @@ requirements:
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - sympy =1.12 =pypyh9d50eac_103
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
-    - tbb =2021.12.0 =h7728843_0
+    - tbb =2021.12.0 =h3c5361c_1
     - tenacity =8.3.0 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
     - thinc =8.2.3 =py39h614b560_0
