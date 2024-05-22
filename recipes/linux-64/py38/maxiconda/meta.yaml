@@ -51,7 +51,7 @@ requirements:
     - r-base =4.3.3 =hf0d99cb_1
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2024.5.15 =py38hfb59056_0
-    - requests =2.31.0 =pyhd8ed1ab_0
+    - requests =2.32.1 =pyhd8ed1ab_0
     - rust =1.77.2 =h70c747d_1
     - scipy =1.10.1 =py38h59b608b_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
@@ -70,7 +70,7 @@ requirements:
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - alsa-lib =1.2.11 =hd590300_1
-    - annotated-types =0.6.0 =pyhd8ed1ab_0
+    - annotated-types =0.7.0 =pyhd8ed1ab_0
     - anyio =4.3.0 =pyhd8ed1ab_0
     - argon2-cffi =23.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py38h01eb140_4
@@ -264,7 +264,7 @@ requirements:
     - nspr =4.35 =h27087fc_0
     - nss =3.100 =hca3bf56_0
     - openjpeg =2.5.2 =h488ebb8_0
-    - openssl =3.3.0 =hd590300_0
+    - openssl =3.3.0 =h4ab18f5_2
     - overrides =7.7.0 =pyhd8ed1ab_0
     - packaging =24.0 =pyhd8ed1ab_0
     - pandoc =3.2 =ha770c72_0

@@ -51,7 +51,7 @@ requirements:
     - r-base =4.3.3 =hc514ba5_1
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2022.9.13 =py37h8052db5_0
-    - requests =2.31.0 =pyhd8ed1ab_0
+    - requests =2.32.1 =pyhd8ed1ab_0
     - rust =1.77.2 =h7e1429e_1
     - scipy =1.7.3 =py37h4e3cf02_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
@@ -139,7 +139,7 @@ requirements:
     - importlib_resources =6.0.0 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
     - ipykernel =6.16.2 =pyh736e0ef_0
-    - ipython_genutils =0.2.0 =py_1
+    - ipython_genutils =0.2.0 =pyhd8ed1ab_1
     - isl =0.26 =imath32_h2e86a7b_101
     - jarowinkler =1.2.3 =py37hac51a3e_0
     - jedi =0.19.1 =pyhd8ed1ab_0
@@ -218,7 +218,7 @@ requirements:
     - notebook-shim =0.2.4 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
     - nss =3.100 =h6606ded_0
-    - openssl =3.3.0 =hd75f5a5_0
+    - openssl =3.3.0 =h87427d6_2
     - packaging =23.2 =pyhd8ed1ab_0
     - pandoc =3.2 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0

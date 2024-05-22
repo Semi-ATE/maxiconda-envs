@@ -51,7 +51,7 @@ requirements:
     - r-base =4.3.3 =h14488e9_1
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2024.5.15 =py39he257ee7_0
-    - requests =2.31.0 =pyhd8ed1ab_0
+    - requests =2.32.1 =pyhd8ed1ab_0
     - rust =1.77.2 =h9d3d833_1
     - scipy =1.13.0 =py39hb921187_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
@@ -70,7 +70,7 @@ requirements:
     - _sysroot_linux-aarch64_curr_repodata_hack =4 =h57d6b7b_14
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - alsa-lib =1.2.11 =h31becfc_1
-    - annotated-types =0.6.0 =pyhd8ed1ab_0
+    - annotated-types =0.7.0 =pyhd8ed1ab_0
     - anyio =4.3.0 =pyhd8ed1ab_0
     - argon2-cffi =23.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py39h898b7ef_4
@@ -262,7 +262,7 @@ requirements:
     - nspr =4.35 =h4de3ea5_0
     - nss =3.100 =h8c4e863_0
     - openjpeg =2.5.2 =h0d9d63b_0
-    - openssl =3.3.0 =h31becfc_0
+    - openssl =3.3.0 =h68df207_2
     - overrides =7.7.0 =pyhd8ed1ab_0
     - packaging =24.0 =pyhd8ed1ab_0
     - pandoc =3.2 =h8af1aa0_0
