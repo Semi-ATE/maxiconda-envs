@@ -57,19 +57,19 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =23.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.20 =h26f788b_0
-    - aws-c-cal =0.6.12 =h7d0aca8_0
-    - aws-c-common =0.9.17 =hec52a4b_0
-    - aws-c-compression =0.2.18 =h94d6f14_4
-    - aws-c-event-stream =0.4.2 =h88c3968_10
-    - aws-c-http =0.8.1 =h329322f_13
-    - aws-c-io =0.14.8 =hb30fd87_0
-    - aws-c-mqtt =0.10.4 =h2c4861c_2
-    - aws-c-s3 =0.5.9 =h82d509c_0
-    - aws-c-sdkutils =0.1.16 =h94d6f14_0
-    - aws-checksums =0.1.18 =h94d6f14_4
-    - aws-crt-cpp =0.26.8 =h1c89d3c_11
-    - aws-sdk-cpp =1.11.329 =h764722f_0
+    - aws-c-auth =0.7.22 =h7ed6a5d_1
+    - aws-c-cal =0.6.14 =ha54ea95_0
+    - aws-c-common =0.9.18 =hfdf4475_0
+    - aws-c-compression =0.2.18 =hcc689c4_5
+    - aws-c-event-stream =0.4.2 =h18de66f_11
+    - aws-c-http =0.8.1 =h1a82b60_16
+    - aws-c-io =0.14.8 =he53b27b_3
+    - aws-c-mqtt =0.10.4 =he75851c_3
+    - aws-c-s3 =0.5.9 =he81607c_2
+    - aws-c-sdkutils =0.1.16 =hcc689c4_1
+    - aws-checksums =0.1.18 =hcc689c4_5
+    - aws-crt-cpp =0.26.8 =h0a51767_13
+    - aws-sdk-cpp =1.11.329 =h828c308_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bcrypt =4.1.3 =py38h2c15f49_0
     - blinker =1.8.2 =pyhd8ed1ab_0
@@ -205,7 +205,7 @@ requirements:
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
     - libclang13 =18.1.5 =default_h033b66c_0
     - libcrc32c =1.1.2 =he49afe7_0
-    - libcurl =8.7.1 =h726d00d_0
+    - libcurl =8.8.0 =hf9fcc65_0
     - libcxx =17.0.6 =h88467a6_0
     - libdeflate =1.20 =h49d49c5_0
     - libedit =3.1.20191231 =h0678c8f_2
@@ -363,14 +363,14 @@ requirements:
     - re2 =2023.09.01 =hb168e87_2
     - readline =8.2 =h9e318b2_1
     - regex =2024.5.15 =py38hc718529_0
-    - requests =2.32.1 =pyhd8ed1ab_0
-    - requests-file =2.0.0 =pyhd8ed1ab_0
+    - requests =2.32.2 =pyhd8ed1ab_0
+    - requests-file =2.1.0 =pyhd8ed1ab_0
     - retrying =1.3.3 =py_2
     - rich =13.7.1 =pyhd8ed1ab_0
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
     - service-identity =21.1.0 =pyhd8ed1ab_0
     - service_identity =21.1.0 =hd8ed1ab_0
-    - setuptools =69.5.1 =pyhd8ed1ab_0
+    - setuptools =70.0.0 =pyhd8ed1ab_0
     - shellingham =1.5.4 =pyhd8ed1ab_0
     - simpful =2.12.0 =pyhd8ed1ab_1
     - sip =6.7.12 =py38hb2f96d7_0
@@ -429,7 +429,7 @@ requirements:
     - zeromq =4.3.5 =hde137ed_4
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h8a1eda9_5
-    - zope.interface =6.3 =py38hae2e43d_0
+    - zope.interface =6.4.post0 =py38hc718529_0
     - zstd =1.5.6 =h915ae27_0
 
 about:

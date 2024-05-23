@@ -51,7 +51,7 @@ requirements:
     - r-base =4.3.3 =hc514ba5_1
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2022.9.13 =py37h8052db5_0
-    - requests =2.32.1 =pyhd8ed1ab_0
+    - requests =2.32.2 =pyhd8ed1ab_0
     - rust =1.77.2 =h7e1429e_1
     - scipy =1.7.3 =py37h4e3cf02_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
@@ -101,7 +101,7 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_0
     - compiler-rt =18.1.5 =h250337d_0
     - compiler-rt_osx-64 =18.1.5 =hef2a9d4_0
-    - curl =8.7.1 =h726d00d_0
+    - curl =8.8.0 =hea67d85_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.3 =py37hf6dfe07_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -158,7 +158,7 @@ requirements:
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
     - libclang-cpp18.1 =18.1.5 =default_h69aec76_0
     - libclang13 =18.1.5 =default_h033b66c_0
-    - libcurl =8.7.1 =h726d00d_0
+    - libcurl =8.8.0 =hf9fcc65_0
     - libcxx =17.0.6 =h88467a6_0
     - libdeflate =1.20 =h49d49c5_0
     - libedit =3.1.20191231 =h0678c8f_2
