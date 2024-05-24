@@ -33,7 +33,7 @@ requirements:
     - pymol-open-source =3.0.0 =py39hc0d9762_7
     - pyqt =5.15.9 =py39h52134e7_5
     - rdkit =2024.03.2 =py39h6cc1c65_0
-    - scipy =1.13.0 =py39haf93ffa_1
+    - scipy =1.13.1 =py39haf93ffa_0
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
 
     # 234 secondary packages :
@@ -101,7 +101,7 @@ requirements:
     - ipython =8.18.1 =pyh707e725_3
     - jedi =0.19.1 =pyhd8ed1ab_0
     - joblib =1.4.2 =pyhd8ed1ab_0
-    - jupyter_client =8.6.1 =pyhd8ed1ab_0
+    - jupyter_client =8.6.2 =pyhd8ed1ab_0
     - jupyter_core =5.7.2 =py39hf3d152e_0
     - keyutils =1.6.1 =h166bdaf_0
     - kiwisolver =1.4.5 =py39h7633fee_1
@@ -189,7 +189,7 @@ requirements:
     - nspr =4.35 =h27087fc_0
     - nss =3.100 =hca3bf56_0
     - openjpeg =2.5.2 =h488ebb8_0
-    - openssl =3.3.0 =h4ab18f5_2
+    - openssl =3.3.0 =h4ab18f5_3
     - packaging =24.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0
@@ -223,7 +223,7 @@ requirements:
     - readline =8.2 =h8228510_1
     - reportlab =4.1.0 =py39hd1e30aa_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
-    - scikit-learn =1.5.0 =py39h40c85ba_0
+    - scikit-learn =1.5.0 =py39h40c85ba_1
     - seaborn =0.13.2 =hd8ed1ab_2
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
     - setuptools =70.0.0 =pyhd8ed1ab_0

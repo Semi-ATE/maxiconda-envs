@@ -36,8 +36,8 @@ requirements:
     - pydot =2.0.0 =py39h6e9494a_0
     - pyqt =5.15.9 =py39h3dce684_5
     - pytorch =2.3.0 =cpu_mkl_py39h775f339_100
-    - scikit-learn =1.5.0 =py39hf6a2366_0
-    - scipy =1.13.0 =py39h72a3afc_1
+    - scikit-learn =1.5.0 =py39hf6a2366_1
+    - scipy =1.13.1 =py39h038d4f4_0
     - scrapy =2.11.2 =py39h6e9494a_0
     - seaborn =0.13.2 =hd8ed1ab_2
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
@@ -57,19 +57,19 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =23.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.22 =h7ed6a5d_1
-    - aws-c-cal =0.6.14 =ha54ea95_0
-    - aws-c-common =0.9.18 =hfdf4475_0
-    - aws-c-compression =0.2.18 =hcc689c4_5
-    - aws-c-event-stream =0.4.2 =h18de66f_11
-    - aws-c-http =0.8.1 =h1a82b60_16
-    - aws-c-io =0.14.8 =he53b27b_3
-    - aws-c-mqtt =0.10.4 =he75851c_3
-    - aws-c-s3 =0.5.9 =he81607c_2
-    - aws-c-sdkutils =0.1.16 =hcc689c4_1
-    - aws-checksums =0.1.18 =hcc689c4_5
-    - aws-crt-cpp =0.26.8 =h0a51767_13
-    - aws-sdk-cpp =1.11.329 =h828c308_1
+    - aws-c-auth =0.7.22 =h26aba2d_2
+    - aws-c-cal =0.6.14 =hb0e519c_1
+    - aws-c-common =0.9.19 =hfdf4475_0
+    - aws-c-compression =0.2.18 =hb0e519c_6
+    - aws-c-event-stream =0.4.2 =hc5e814a_12
+    - aws-c-http =0.8.1 =ha6e9f73_17
+    - aws-c-io =0.14.8 =hf69683f_5
+    - aws-c-mqtt =0.10.4 =h76e2169_4
+    - aws-c-s3 =0.5.9 =hd10324c_3
+    - aws-c-sdkutils =0.1.16 =hb0e519c_2
+    - aws-checksums =0.1.18 =hb0e519c_6
+    - aws-crt-cpp =0.26.9 =h473fab1_0
+    - aws-sdk-cpp =1.11.329 =h6b2b1af_3
     - bcrypt =4.1.3 =py39hf59063a_0
     - blinker =1.8.2 =pyhd8ed1ab_0
     - bottleneck =1.3.8 =py39h5b4affa_0
@@ -109,7 +109,7 @@ requirements:
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.2.14 =pyh1a96a4e_0
-    - docker-py =7.0.0 =pyhd8ed1ab_0
+    - docker-py =7.1.0 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
     - exceptiongroup =1.2.0 =pyhd8ed1ab_2
     - executing =2.0.1 =pyhd8ed1ab_0
@@ -177,7 +177,7 @@ requirements:
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - jmespath =1.0.1 =pyhd8ed1ab_0
     - joblib =1.4.2 =pyhd8ed1ab_0
-    - jupyter_client =8.6.1 =pyhd8ed1ab_0
+    - jupyter_client =8.6.2 =pyhd8ed1ab_0
     - jupyter_core =5.7.1 =py39h6e9494a_0
     - jupyterlab_widgets =3.0.10 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py39h8ee36c8_1
@@ -188,13 +188,13 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20240116.2 =cxx17_hc1bcbd7_0
-    - libarrow =15.0.2 =haa0c33d_10_cpu
-    - libarrow-acero =15.0.2 =hf036a51_10_cpu
-    - libarrow-dataset =15.0.2 =hf036a51_10_cpu
-    - libarrow-flight =15.0.2 =hd834827_10_cpu
-    - libarrow-flight-sql =15.0.2 =he1e86a1_10_cpu
-    - libarrow-gandiva =15.0.2 =hfa04d5a_10_cpu
-    - libarrow-substrait =15.0.2 =he1e86a1_10_cpu
+    - libarrow =15.0.2 =h0870315_11_cpu
+    - libarrow-acero =15.0.2 =hf036a51_11_cpu
+    - libarrow-dataset =15.0.2 =hf036a51_11_cpu
+    - libarrow-flight =15.0.2 =hd834827_11_cpu
+    - libarrow-flight-sql =15.0.2 =he1e86a1_11_cpu
+    - libarrow-gandiva =15.0.2 =hfa04d5a_11_cpu
+    - libarrow-substrait =15.0.2 =he1e86a1_11_cpu
     - libasprintf =0.22.5 =h5ff76d1_2
     - libasprintf-devel =0.22.5 =h5ff76d1_2
     - libblas =3.9.0 =22_osx64_openblas
@@ -236,7 +236,7 @@ requirements:
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.27 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =15.0.2 =h904a336_10_cpu
+    - libparquet =15.0.2 =h904a336_11_cpu
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =16.3 =h4501773_0
     - libprotobuf =4.25.3 =h4e4d658_0
@@ -294,7 +294,7 @@ requirements:
     - numba =0.59.1 =py39hb7f44fa_0
     - numexpr =2.9.0 =py39haf03413_0
     - openjpeg =2.5.2 =h7310d3a_0
-    - openssl =3.3.0 =h87427d6_2
+    - openssl =3.3.0 =h87427d6_3
     - opentelemetry-api =1.16.0 =pyhd8ed1ab_0
     - opentelemetry-sdk =1.16.0 =pyhd8ed1ab_0
     - opentelemetry-semantic-conventions =0.37b0 =pyhd8ed1ab_0
@@ -327,7 +327,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py39h15c3653_0
-    - pyarrow =15.0.2 =py39h7aa4791_10_cpu
+    - pyarrow =15.0.2 =py39h7aa4791_11_cpu
     - pyasn1 =0.6.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.4.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -427,7 +427,7 @@ requirements:
     - zeromq =4.3.5 =hde137ed_4
     - zipp =3.17.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h8a1eda9_5
-    - zope.interface =6.4.post0 =py39hded5825_0
+    - zope.interface =6.4.post1 =py39hded5825_0
     - zstd =1.5.6 =h915ae27_0
 
 about:
