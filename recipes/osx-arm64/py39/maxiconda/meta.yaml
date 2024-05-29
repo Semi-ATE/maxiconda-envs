@@ -125,7 +125,7 @@ requirements:
     - fontconfig =2.14.2 =h82840c6_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.52.1 =py39hfea33bf_0
+    - fonttools =4.52.4 =py39hfea33bf_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.12.1 =hadb7bae_2
     - fribidi =1.0.10 =h27ca646_0
@@ -220,7 +220,7 @@ requirements:
     - libwebp-base =1.4.0 =h93a5062_0
     - libxcb =1.15 =hf346824_0
     - libxml2 =2.12.7 =ha661575_0
-    - libzlib =1.2.13 =h53f4e23_5
+    - libzlib =1.2.13 =hfb2fe0b_6
     - llvm-openmp =18.1.6 =hde57baf_0
     - llvm-tools =18.1.6 =hdac5640_0
     - llvmlite =0.42.0 =py39h047a24b_1
@@ -350,7 +350,7 @@ requirements:
     - r-hardhat =1.3.1 =r43hc72bb7e_0
     - r-haven =2.5.4 =r43he96f11e_0
     - r-hexbin =1.28.3 =r43h81fe24e_1
-    - r-highr =0.10 =r43hc72bb7e_1
+    - r-highr =0.11 =r43hc72bb7e_0
     - r-hms =1.1.3 =r43hc72bb7e_1
     - r-htmltools =0.5.8.1 =r43h65f505e_0
     - r-htmlwidgets =1.6.4 =r43hc72bb7e_1
@@ -518,7 +518,7 @@ requirements:
     - yarl =1.9.4 =py39h17cfd9d_0
     - zeromq =4.3.5 =hcc0f68c_4
     - zipp =3.17.0 =pyhd8ed1ab_0
-    - zlib =1.2.13 =h53f4e23_5
+    - zlib =1.2.13 =hfb2fe0b_6
     - zstd =1.5.6 =hb46c0d2_0
 
 about:

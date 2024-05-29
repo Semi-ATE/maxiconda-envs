@@ -30,7 +30,7 @@ requirements:
     - mdanalysis =2.4.3 =py38hee9ea5e_0
     - numpy =1.24.4 =py38ha84db1f_0
     - pandas =2.0.3 =py38hefb543e_1
-    - pymol-open-source =3.0.0 =py38h94ce5c2_7
+    - pymol-open-source =3.0.0 =py38h09f8ed2_8
     - pyqt =5.15.9 =py38h951d1d4_5
     - rdkit =2024.03.2 =py38h85cd035_0
     - scipy =1.10.1 =py38h038e806_3
@@ -71,7 +71,7 @@ requirements:
     - fontconfig =2.14.2 =h82840c6_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.52.1 =py38h3237794_0
+    - fonttools =4.52.4 =py38h3237794_0
     - freetype =2.12.1 =hadb7bae_2
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - glew =2.1.0 =h9f76cd9_2
@@ -85,7 +85,7 @@ requirements:
     - gstreamer =1.24.3 =h430e707_0
     - h5py =3.11.0 =nompi_py38h70800c8_101
     - hdf4 =4.2.15 =h2ee6834_7
-    - hdf5 =1.14.3 =nompi_h751145d_101
+    - hdf5 =1.14.3 =nompi_hec07895_102
     - icu =73.2 =hc8870d7_0
     - idna =3.7 =pyhd8ed1ab_0
     - importlib-metadata =7.1.0 =pyha770c72_0
@@ -145,7 +145,7 @@ requirements:
     - libxcb =1.15 =hf346824_0
     - libxml2 =2.12.7 =ha661575_0
     - libzip =1.10.1 =ha0bc3c6_3
-    - libzlib =1.2.13 =h53f4e23_5
+    - libzlib =1.2.13 =hfb2fe0b_6
     - llvm-openmp =18.1.6 =hde57baf_0
     - lz4-c =1.9.4 =hb7217d7_0
     - matplotlib-base =3.7.3 =py38hef9d0d7_0
@@ -232,7 +232,7 @@ requirements:
     - xz =5.2.6 =h57fd34a_0
     - zeromq =4.3.5 =hcc0f68c_4
     - zipp =3.17.0 =pyhd8ed1ab_0
-    - zlib =1.2.13 =h53f4e23_5
+    - zlib =1.2.13 =hfb2fe0b_6
     - zstd =1.5.6 =hb46c0d2_0
 
 about:
