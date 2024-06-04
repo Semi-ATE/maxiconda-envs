@@ -222,8 +222,8 @@ requirements:
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp-base =1.4.0 =h10d778d_0
     - libxcb =1.15 =hb7f2c08_0
-    - libxml2 =2.12.7 =h3e169fe_0
-    - libzlib =1.2.13 =h87427d6_6
+    - libxml2 =2.12.7 =hfa5d230_0
+    - libzlib =1.3.1 =h87427d6_1
     - llvm-openmp =18.1.6 =h15ab845_0
     - llvm-tools =18.1.6 =hd5e122f_0
     - llvmlite =0.41.1 =py38h6008ce5_0
@@ -262,7 +262,7 @@ requirements:
     - pillow =10.3.0 =py38h85abd47_0
     - pip =24.0 =pyhd8ed1ab_0
     - pixman =0.43.4 =h73e2aa4_0
-    - pkginfo =1.10.0 =pyhd8ed1ab_0
+    - pkginfo =1.11.0 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - platformdirs =4.2.2 =pyhd8ed1ab_0
     - pluggy =1.5.0 =pyhd8ed1ab_0
@@ -321,7 +321,7 @@ requirements:
     - r-crul =1.4.2 =r43h785f33e_0
     - r-curl =5.1.0 =r43h0100ac3_0
     - r-data.table =1.15.2 =r43he044350_0
-    - r-dbi =1.2.2 =r43hc72bb7e_0
+    - r-dbi =1.2.3 =r43hc72bb7e_0
     - r-dbplyr =2.5.0 =r43hc72bb7e_0
     - r-diagram =1.6.5 =r43ha770c72_2
     - r-digest =0.6.35 =r43h29979af_0
@@ -523,7 +523,7 @@ requirements:
     - yarl =1.9.4 =py38hae2e43d_0
     - zeromq =4.3.5 =hde137ed_4
     - zipp =3.17.0 =pyhd8ed1ab_0
-    - zlib =1.2.13 =h87427d6_6
+    - zlib =1.3.1 =h87427d6_1
     - zstd =1.5.6 =h915ae27_0
 
 about:
