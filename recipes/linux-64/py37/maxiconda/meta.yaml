@@ -81,7 +81,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py37h540881e_5
-    - binutils_impl_linux-64 =2.40 =ha1999f0_1
+    - binutils_impl_linux-64 =2.40 =ha1999f0_2
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =hd590300_1
     - brotli-bin =1.1.0 =hd590300_1
@@ -159,7 +159,7 @@ requirements:
     - krb5 =1.20.1 =h81ceb04_0
     - lame =3.100 =h166bdaf_1003
     - lcms2 =2.14 =h6ed2654_0
-    - ld_impl_linux-64 =2.40 =hf3520f5_1
+    - ld_impl_linux-64 =2.40 =hf3520f5_2
     - lerc =4.0.0 =h27087fc_0
     - libasprintf =0.22.5 =h661eb56_2
     - libasprintf-devel =0.22.5 =h661eb56_2
@@ -247,7 +247,7 @@ requirements:
     - nspr =4.35 =h27087fc_0
     - nss =3.100 =hca3bf56_0
     - openjpeg =2.5.0 =h7d73246_1
-    - openssl =3.1.5 =h4ab18f5_1
+    - openssl =3.1.6 =h4ab18f5_0
     - packaging =23.2 =pyhd8ed1ab_0
     - pandoc =3.2 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -419,7 +419,7 @@ requirements:
     - r-repr =1.1.7 =r42h785f33e_0
     - r-reprex =2.1.0 =r42hc72bb7e_0
     - r-reshape2 =1.4.4 =r42ha503ecb_3
-    - r-rlang =1.1.3 =r42ha503ecb_0
+    - r-rlang =1.1.4 =r42ha18555a_0
     - r-rmarkdown =2.27 =r42hc72bb7e_0
     - r-rpart =4.1.23 =r42h57805ef_0
     - r-rstudioapi =0.16.0 =r42hc72bb7e_0

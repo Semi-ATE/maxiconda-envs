@@ -41,10 +41,10 @@ requirements:
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.2.2 =py39h60c7704_1
     - psutil =5.9.8 =py39h898b7ef_0
-    - pydantic =2.7.2 =pyhd8ed1ab_0
+    - pydantic =2.7.3 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py39hc7e6f3c_5
     - pyserial =3.5 =pyhd8ed1ab_0
-    - pytest =8.2.1 =pyhd8ed1ab_0
+    - pytest =8.2.2 =pyhd8ed1ab_0
     - pyyaml =6.0.1 =py39h898b7ef_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qtawesome =1.3.1 =pyh9208f05_0
@@ -82,7 +82,7 @@ requirements:
     - attrs =23.2.0 =pyh71513ae_0
     - babel =2.14.0 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py39h4420490_8
-    - binutils_impl_linux-aarch64 =2.40 =hf54a868_1
+    - binutils_impl_linux-aarch64 =2.40 =hf54a868_2
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =h31becfc_1
     - brotli-bin =1.1.0 =h31becfc_1
@@ -176,7 +176,7 @@ requirements:
     - krb5 =1.21.2 =hc419048_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.16 =h922389a_0
-    - ld_impl_linux-aarch64 =2.40 =h9fc2d93_1
+    - ld_impl_linux-aarch64 =2.40 =h9fc2d93_2
     - lerc =4.0.0 =h4de3ea5_0
     - libasprintf =0.22.5 =h7b6a552_2
     - libasprintf-devel =0.22.5 =h7b6a552_2
@@ -235,7 +235,7 @@ requirements:
     - libxcb =1.15 =h2a766a3_0
     - libxcrypt =4.4.36 =h31becfc_1
     - libxkbcommon =1.7.0 =h2555907_0
-    - libxml2 =2.12.7 =habd4b41_0
+    - libxml2 =2.12.7 =h49dc7a2_1
     - libzlib =1.3.1 =h68df207_1
     - llvmlite =0.42.0 =py39h483cef1_1
     - lz4-c =1.9.4 =hd600fc2_0
@@ -262,7 +262,7 @@ requirements:
     - nspr =4.35 =h4de3ea5_0
     - nss =3.100 =h8c4e863_0
     - openjpeg =2.5.2 =h0d9d63b_0
-    - openssl =3.3.0 =h68df207_3
+    - openssl =3.3.1 =h68df207_0
     - overrides =7.7.0 =pyhd8ed1ab_0
     - packaging =24.0 =pyhd8ed1ab_0
     - pandoc =3.2 =h8af1aa0_0
@@ -288,7 +288,7 @@ requirements:
     - pulseaudio-client =17.0 =h729494f_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.22 =pyhd8ed1ab_0
-    - pydantic-core =2.18.3 =py39hb170bb1_0
+    - pydantic-core =2.18.4 =py39hb170bb1_0
     - pygments =2.18.0 =pyhd8ed1ab_0
     - pyparsing =3.1.2 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py39h387a81e_5
@@ -439,7 +439,7 @@ requirements:
     - r-repr =1.1.7 =r43h785f33e_0
     - r-reprex =2.1.0 =r43hc72bb7e_0
     - r-reshape2 =1.4.4 =r43h93f32a7_3
-    - r-rlang =1.1.3 =r43h93f32a7_0
+    - r-rlang =1.1.4 =r43h6170684_0
     - r-rmarkdown =2.27 =r43hc72bb7e_0
     - r-rpart =4.1.23 =r43h25e906a_0
     - r-rstudioapi =0.16.0 =r43hc72bb7e_0
