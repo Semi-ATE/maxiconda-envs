@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.2 =py39h4b0a98a_0
     - xgboost =2.0.3 =cpu_py39hd3de297_0
 
-    # 362 secondary packages :
+    # 357 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_1
     - aniso8601 =9.0.1 =pyhd8ed1ab_0
@@ -94,13 +94,12 @@ requirements:
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.2.1 =py39h1f6ef14_0
-    - cryptography =42.0.7 =py39hae46aff_0
+    - cryptography =42.0.8 =py39hae46aff_0
     - cssselect =1.2.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =py_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cymem =2.0.8 =py39h99910a6_1
     - cython-blis =0.7.10 =py39hd88c2e4_2
-    - dataclasses =0.8 =pyhc8e2a94_3
     - datefinder =0.7.3 =pyhd8ed1ab_0
     - debugpy =1.8.1 =py39h99910a6_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -154,6 +153,7 @@ requirements:
     - importlib_metadata =7.1.0 =hd8ed1ab_0
     - importlib_resources =6.4.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
+    - intel-openmp =2024.1.0 =h57928b3_966
     - ipykernel =6.29.3 =pyha63f2e9_0
     - ipython =8.18.1 =pyh7428d3b_3
     - ipywidgets =8.1.3 =pyhd8ed1ab_0
@@ -182,11 +182,11 @@ requirements:
     - libarrow-flight-sql =15.0.2 =hdeef14f_11_cpu
     - libarrow-gandiva =15.0.2 =hd4515a1_11_cpu
     - libarrow-substrait =15.0.2 =h1f0e801_11_cpu
-    - libblas =3.9.0 =22_win64_openblas
+    - libblas =3.9.0 =22_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
     - libbrotlienc =1.1.0 =hcfcfb64_1
-    - libcblas =3.9.0 =22_win64_openblas
+    - libcblas =3.9.0 =22_win64_mkl
     - libclang13 =18.1.6 =default_hf64faad_0
     - libcrc32c =1.1.2 =h0e60522_0
     - libcurl =8.8.0 =hd5e4a3a_0
@@ -194,7 +194,6 @@ requirements:
     - libevent =2.1.12 =h3671451_1
     - libexpat =2.6.2 =h63175ca_0
     - libffi =3.4.2 =h8ffe710_5
-    - libflang =5.0.0 =h6538335_20180525
     - libgd =2.3.3 =h312136b_9
     - libglib =2.80.2 =h0df6a38_0
     - libgoogle-cloud =2.24.0 =h5e7cea3_0
@@ -205,9 +204,8 @@ requirements:
     - libintl =0.22.5 =h5728263_2
     - libintl-devel =0.22.5 =h5728263_2
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
-    - liblapack =3.9.0 =22_win64_openblas
+    - liblapack =3.9.0 =22_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
-    - libopenblas =0.3.27 =pthreads_hc140b1d_0
     - libparquet =15.0.2 =h178134c_11_cpu
     - libpng =1.6.43 =h19919ed_0
     - libprotobuf =4.25.3 =h503648d_0
@@ -226,7 +224,6 @@ requirements:
     - libxml2 =2.12.7 =h283a6d9_1
     - libxslt =1.1.39 =h3df6e99_0
     - libzlib =1.3.1 =h2466b09_1
-    - llvm-meta =5.0.0 =0
     - llvmlite =0.42.0 =py39hd28a505_1
     - lxml =5.2.2 =py39hbf02b01_0
     - lz4-c =1.9.4 =hcfcfb64_0
@@ -245,6 +242,7 @@ requirements:
     - mdurl =0.1.2 =pyhd8ed1ab_0
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.5.2 =pyhd8ed1ab_0
+    - mkl =2024.1.0 =h66d3029_692
     - mlflow =2.13.0 =hcbf5309_0
     - mlflow-skinny =2.13.0 =py39hcbf5309_0
     - mlflow-ui =2.13.0 =py39hcbf5309_0
@@ -256,12 +254,10 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - networkx =3.2.1 =pyhd8ed1ab_0
     - nltk =3.8.1 =pyhd8ed1ab_0
-    - nomkl =1.0 =h5ca1d4c_0
     - numba =0.59.1 =py39h6836801_0
-    - numexpr =2.10.0 =py39h4919eaa_100
+    - numexpr =2.7.3 =py39h2e25243_2
     - openjpeg =2.5.2 =h3d672ee_0
-    - openmp =5.0.0 =vc14_1
-    - openssl =3.3.0 =h2466b09_3
+    - openssl =3.3.1 =h2466b09_0
     - opentelemetry-api =1.16.0 =pyhd8ed1ab_0
     - opentelemetry-sdk =1.16.0 =pyhd8ed1ab_0
     - opentelemetry-semantic-conventions =0.37b0 =pyhd8ed1ab_0
@@ -272,7 +268,6 @@ requirements:
     - paramiko =3.4.0 =pyhd8ed1ab_0
     - parsel =1.9.1 =pyhd8ed1ab_2
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pathy =0.10.2 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0
     - pcre2 =10.43 =h17e33f8_0
     - phik =0.12.3 =py39h0f24028_1
@@ -285,7 +280,7 @@ requirements:
     - preshed =3.0.9 =py39h99910a6_1
     - prometheus_client =0.20.0 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.23.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.42 =pyha770c72_0
+    - prompt-toolkit =3.0.46 =pyha770c72_0
     - protego =0.3.1 =pyhd8ed1ab_0
     - protobuf =4.25.3 =py39h018ea92_0
     - psutil =5.9.8 =py39ha55989b_0
@@ -339,11 +334,11 @@ requirements:
     - simpful =2.12.0 =pyhd8ed1ab_1
     - sip =6.7.12 =py39h99910a6_0
     - six =1.16.0 =pyh6c4a22f_0
-    - smart_open =5.2.1 =pyhd8ed1ab_0
+    - smart_open =6.4.0 =pyhd8ed1ab_0
     - smmap =5.0.0 =pyhd8ed1ab_0
     - snappy =1.2.0 =hfb803bf_1
     - soupsieve =2.5 =pyhd8ed1ab_1
-    - spacy =3.7.3 =py39h5c3ab46_0
+    - spacy =3.7.4 =py39haacdf10_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
     - spacy-loggers =1.0.5 =pyhd8ed1ab_0
     - sqlparse =0.5.0 =pyhd8ed1ab_0
@@ -376,7 +371,7 @@ requirements:
     - vc14_runtime =14.38.33135 =h835141b_20
     - visions =0.7.1 =pyhd8ed1ab_0
     - vs2015_runtime =14.38.33135 =h22015db_20
-    - w3lib =2.1.2 =pyhd8ed1ab_0
+    - w3lib =2.2.0 =pyhd8ed1ab_0
     - waitress =2.1.2 =pyhd8ed1ab_0
     - wasabi =1.1.2 =py39hcbf5309_1
     - wcwidth =0.2.13 =pyhd8ed1ab_0

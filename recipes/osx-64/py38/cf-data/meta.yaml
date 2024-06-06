@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.14.1 =py38h7092abf_0
     - xgboost =2.0.3 =cpu_py38h273ab5c_0
 
-    # 384 secondary packages :
+    # 382 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_1
     - aniso8601 =9.0.1 =pyhd8ed1ab_0
@@ -98,13 +98,12 @@ requirements:
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.1.1 =py38h15a1a5b_1
-    - cryptography =42.0.7 =py38h09e535d_0
+    - cryptography =42.0.8 =py38h09e535d_0
     - cssselect =1.2.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =py_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cymem =2.0.8 =py38h940360d_1
     - cython-blis =0.7.10 =py38h49861b3_2
-    - dataclasses =0.8 =pyhc8e2a94_3
     - datefinder =0.7.3 =pyhd8ed1ab_0
     - debugpy =1.8.1 =py38h1f5f77c_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -305,7 +304,6 @@ requirements:
     - paramiko =3.4.0 =pyhd8ed1ab_0
     - parsel =1.9.1 =pyhd8ed1ab_2
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pathy =0.10.2 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0
     - pcre2 =10.43 =h0ad2156_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
@@ -320,8 +318,8 @@ requirements:
     - preshed =3.0.9 =py38h940360d_1
     - prometheus_client =0.20.0 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.23.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.42 =pyha770c72_0
-    - prompt_toolkit =3.0.42 =hd8ed1ab_0
+    - prompt-toolkit =3.0.46 =pyha770c72_0
+    - prompt_toolkit =3.0.46 =hd8ed1ab_0
     - protego =0.3.1 =pyhd8ed1ab_0
     - protobuf =4.25.3 =py38hba9f9f8_0
     - psutil =5.9.8 =py38hae2e43d_0
@@ -376,11 +374,11 @@ requirements:
     - sip =6.7.12 =py38hb2f96d7_0
     - six =1.16.0 =pyh6c4a22f_0
     - sleef =3.5.1 =h6db0672_2
-    - smart_open =5.2.1 =pyhd8ed1ab_0
+    - smart_open =6.4.0 =pyhd8ed1ab_0
     - smmap =5.0.0 =pyhd8ed1ab_0
     - snappy =1.2.0 =h6dc393e_1
     - soupsieve =2.5 =pyhd8ed1ab_1
-    - spacy =3.7.3 =py38h4a817e8_0
+    - spacy =3.7.4 =py38ha02b945_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
     - spacy-loggers =1.0.5 =pyhd8ed1ab_0
     - sqlparse =0.5.0 =pyhd8ed1ab_0
@@ -409,7 +407,7 @@ requirements:
     - unicodedata2 =15.1.0 =py38hcafd530_0
     - urllib3 =2.2.1 =pyhd8ed1ab_0
     - visions =0.7.1 =pyhd8ed1ab_0
-    - w3lib =2.1.2 =pyhd8ed1ab_0
+    - w3lib =2.2.0 =pyhd8ed1ab_0
     - wasabi =1.1.2 =py38h50d1736_1
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - weasel =0.3.4 =pyhd8ed1ab_0
