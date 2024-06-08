@@ -146,7 +146,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =22_linux64_openblas
     - libllvm15 =15.0.7 =hb3ce162_4
-    - libllvm18 =18.1.6 =hb77312f_0
+    - libllvm18 =18.1.7 =hb77312f_0
     - libnetcdf =4.9.2 =nompi_h135f659_114
     - libnghttp2 =1.58.0 =h47da74e_1
     - libnsl =2.0.1 =hd590300_0
@@ -238,11 +238,11 @@ requirements:
     - tk =8.6.13 =noxft_h4845f30_101
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
-    - tornado =6.4 =py39hd1e30aa_0
+    - tornado =6.4.1 =py39hd3abc70_0
     - tqdm =4.66.4 =pyhd8ed1ab_0
     - traitlets =5.14.3 =pyhd8ed1ab_0
-    - typing-extensions =4.12.1 =hd8ed1ab_0
-    - typing_extensions =4.12.1 =pyha770c72_0
+    - typing-extensions =4.12.2 =hd8ed1ab_0
+    - typing_extensions =4.12.2 =pyha770c72_0
     - tzdata =2024a =h0c530f3_0
     - unicodedata2 =15.1.0 =py39hd1e30aa_0
     - wcwidth =0.2.13 =pyhd8ed1ab_0
