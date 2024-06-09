@@ -189,7 +189,7 @@ requirements:
     - libcap =2.69 =h883460d_0
     - libcblas =3.9.0 =20_linuxaarch64_openblas
     - libclang-cpp15 =15.0.7 =default_hb368394_5
-    - libclang13 =18.1.6 =default_hf9b4efe_0
+    - libclang13 =18.1.7 =default_h1f68d68_0
     - libcups =2.3.3 =h405e4a8_4
     - libcurl =8.8.0 =h4e8248e_0
     - libdeflate =1.20 =h31becfc_0
@@ -334,7 +334,7 @@ requirements:
     - r-crayon =1.5.2 =r43hc72bb7e_2
     - r-crul =1.4.2 =r43h785f33e_0
     - r-curl =5.1.0 =r43h8aed89a_0
-    - r-data.table =1.15.2 =r43hb4ebc13_0
+    - r-data.table =1.15.4 =r43h4044023_0
     - r-dbi =1.2.3 =r43hc72bb7e_0
     - r-dbplyr =2.5.0 =r43hc72bb7e_0
     - r-diagram =1.6.5 =r43ha770c72_2
@@ -535,7 +535,7 @@ requirements:
     - xcb-util-keysyms =0.4.0 =hcb25cf1_1
     - xcb-util-renderutil =0.3.9 =h31becfc_1
     - xcb-util-wm =0.4.1 =hcb25cf1_1
-    - xkeyboard-config =2.41 =h31becfc_0
+    - xkeyboard-config =2.42 =h68df207_0
     - xorg-kbproto =1.0.7 =h3557bc0_1002
     - xorg-libice =1.1.1 =h7935292_0
     - xorg-libsm =1.2.4 =h5a01bc2_0
@@ -553,7 +553,7 @@ requirements:
     - yaml =0.2.5 =hf897c2e_2
     - yarl =1.9.4 =py38h9579f32_0
     - zeromq =4.3.5 =h28faeed_4
-    - zipp =3.17.0 =pyhd8ed1ab_0
+    - zipp =3.18.0 =pyhd8ed1ab_0
     - zlib =1.3.1 =h68df207_1
     - zstd =1.5.6 =h02f22dd_0
 
