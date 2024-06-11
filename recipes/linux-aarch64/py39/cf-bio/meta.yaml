@@ -46,7 +46,7 @@ requirements:
     - bzip2 =1.0.8 =h31becfc_5
     - ca-certificates =2024.6.2 =hcefe29a_0
     - cairo =1.16.0 =hd19fb6e_1014
-    - certifi =2024.2.2 =pyhd8ed1ab_0
+    - certifi =2024.6.2 =pyhd8ed1ab_0
     - chardet =5.2.0 =py39ha65689a_1
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_0
@@ -95,7 +95,7 @@ requirements:
     - krb5 =1.20.1 =h113d92e_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.15 =h3e0bdec_1
-    - ld_impl_linux-aarch64 =2.40 =h9fc2d93_2
+    - ld_impl_linux-aarch64 =2.40 =h9fc2d93_3
     - lerc =4.0.0 =h4de3ea5_0
     - libasprintf =0.22.5 =h7b6a552_2
     - libasprintf-devel =0.22.5 =h7b6a552_2
@@ -136,7 +136,7 @@ requirements:
     - libpq =15.3 =hf616e62_1
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
-    - libsqlite =3.45.3 =h194ca79_0
+    - libsqlite =3.46.0 =hf51ef55_0
     - libstdcxx-ng =13.2.0 =h3f4de04_7
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.5.1 =h360e80f_1
@@ -172,7 +172,7 @@ requirements:
     - pixman =0.43.4 =h2f0025b_0
     - platformdirs =4.2.2 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_2
-    - prompt-toolkit =3.0.46 =pyha770c72_0
+    - prompt-toolkit =3.0.47 =pyha770c72_0
     - psutil =5.9.8 =py39h898b7ef_0
     - pthread-stubs =0.4 =hb9de7d4_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
@@ -230,7 +230,7 @@ requirements:
     - xorg-xproto =7.0.31 =h3557bc0_1007
     - xz =5.2.6 =h9cdd2b7_0
     - zeromq =4.3.5 =h2f0025b_1
-    - zipp =3.18.1 =pyhd8ed1ab_0
+    - zipp =3.19.2 =pyhd8ed1ab_0
     - zlib =1.2.13 =h68df207_6
     - zstd =1.5.6 =h02f22dd_0
 

@@ -57,7 +57,7 @@ requirements:
     - brotli-python =1.1.0 =py39hb198ff7_1
     - bzip2 =1.0.8 =h93a5062_5
     - ca-certificates =2024.6.2 =hf0a4a13_0
-    - certifi =2024.2.2 =pyhd8ed1ab_0
+    - certifi =2024.6.2 =pyhd8ed1ab_0
     - chardet =5.2.0 =py39h2804cbe_1
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - click =8.1.7 =unix_pyh707e725_0
@@ -149,7 +149,7 @@ requirements:
     - libpq =16.3 =h7afe498_0
     - libsodium =1.0.18 =h27ca646_1
     - libspatialindex =1.9.3 =h00cdb27_5
-    - libsqlite =3.45.3 =h091b4b1_0
+    - libsqlite =3.46.0 =hfb93653_0
     - libtiff =4.6.0 =h07db509_3
     - libvorbis =1.3.7 =h9f76cd9_0
     - libwebp =1.4.0 =h54798ee_0
@@ -165,7 +165,7 @@ requirements:
     - mccabe =0.7.0 =pyhd8ed1ab_0
     - mdurl =0.1.2 =pyhd8ed1ab_0
     - mistune =3.0.2 =pyhd8ed1ab_0
-    - more-itertools =10.2.0 =pyhd8ed1ab_0
+    - more-itertools =10.3.0 =pyhd8ed1ab_0
     - mpc =1.3.1 =h91ba8db_0
     - mpfr =4.2.1 =h41d338b_1
     - mpmath =1.3.0 =pyhd8ed1ab_0
@@ -199,7 +199,7 @@ requirements:
     - platformdirs =4.2.2 =pyhd8ed1ab_0
     - pluggy =1.5.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_2
-    - prompt-toolkit =3.0.46 =pyha770c72_0
+    - prompt-toolkit =3.0.47 =pyha770c72_0
     - psutil =5.9.8 =py39h17cfd9d_0
     - pthread-stubs =0.4 =h27ca646_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
@@ -292,7 +292,7 @@ requirements:
     - yaml =0.2.5 =h3422bc3_2
     - yapf =0.40.1 =pyhd8ed1ab_0
     - zeromq =4.3.5 =hcc0f68c_4
-    - zipp =3.18.1 =pyhd8ed1ab_0
+    - zipp =3.19.2 =pyhd8ed1ab_0
     - zstd =1.5.6 =hb46c0d2_0
 
 about:

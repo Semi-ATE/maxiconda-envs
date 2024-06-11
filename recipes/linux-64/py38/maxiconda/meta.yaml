@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.5.1 =unix_pyh707e725_0
     - sqlalchemy =2.0.30 =py38hfb59056_0
-    - sqlite =3.45.3 =h2c6b66d_0
+    - sqlite =3.46.0 =h6d4b2fc_0
     - sympy =1.12 =pypyh9d50eac_103
     - tqdm =4.66.4 =pyhd8ed1ab_0
     - transitions =0.9.1 =pyhd8ed1ab_0
@@ -84,7 +84,7 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.zoneinfo =0.2.1 =py38h01eb140_8
-    - binutils_impl_linux-64 =2.40 =ha1999f0_2
+    - binutils_impl_linux-64 =2.40 =ha1999f0_3
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =hd590300_1
     - brotli-bin =1.1.0 =hd590300_1
@@ -96,7 +96,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.0 =h3faef2a_0
-    - certifi =2024.2.2 =pyhd8ed1ab_0
+    - certifi =2024.6.2 =pyhd8ed1ab_0
     - cffi =1.16.0 =py38h6d47a40_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - click =8.1.7 =unix_pyh707e725_0
@@ -169,7 +169,7 @@ requirements:
     - jupyter_events =0.10.0 =pyhd8ed1ab_0
     - jupyter_server =2.14.1 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_0
-    - jupyterlab =4.2.1 =pyhd8ed1ab_0
+    - jupyterlab =4.2.2 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - jupyterlab_server =2.27.2 =pyhd8ed1ab_0
     - kernel-headers_linux-64 =2.6.32 =he073ed8_17
@@ -178,7 +178,7 @@ requirements:
     - krb5 =1.21.2 =h659d440_0
     - lame =3.100 =h166bdaf_1003
     - lcms2 =2.16 =hb7c19ff_0
-    - ld_impl_linux-64 =2.40 =hf3520f5_2
+    - ld_impl_linux-64 =2.40 =hf3520f5_3
     - lerc =4.0.0 =h27087fc_0
     - libasprintf =0.22.5 =h661eb56_2
     - libasprintf-devel =0.22.5 =h661eb56_2
@@ -225,7 +225,7 @@ requirements:
     - libsanitizer =13.2.0 =h6ddb7a1_7
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
-    - libsqlite =3.45.3 =h2797004_0
+    - libsqlite =3.46.0 =hde9e2c9_0
     - libssh2 =1.11.0 =h0841786_0
     - libstdcxx-devel_linux-64 =13.2.0 =hceb6213_107
     - libstdcxx-ng =13.2.0 =hc0a3c3a_7
@@ -269,7 +269,7 @@ requirements:
     - packaging =24.0 =pyhd8ed1ab_0
     - pandoc =3.2 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.52.2 =ha41ecd1_0
+    - pango =1.54.0 =h84a9a3c_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pcre2 =10.43 =hcad00b1_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
@@ -285,8 +285,8 @@ requirements:
     - pooch =1.8.2 =pyhd8ed1ab_0
     - progressbar2 =4.4.2 =pyhd8ed1ab_0
     - prometheus_client =0.20.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.46 =pyha770c72_0
-    - prompt_toolkit =3.0.46 =hd8ed1ab_0
+    - prompt-toolkit =3.0.47 =pyha770c72_0
+    - prompt_toolkit =3.0.47 =hd8ed1ab_0
     - pthread-stubs =0.4 =h36c2ea0_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pulseaudio-client =17.0 =hb77b528_0
@@ -343,7 +343,7 @@ requirements:
     - r-dtplyr =1.3.1 =r43hc72bb7e_1
     - r-e1071 =1.7_14 =r43ha503ecb_0
     - r-ellipsis =0.3.2 =r43h57805ef_2
-    - r-evaluate =0.23 =r43hc72bb7e_0
+    - r-evaluate =0.24.0 =r43hc72bb7e_0
     - r-fansi =1.0.6 =r43h57805ef_0
     - r-farver =2.1.2 =r43ha18555a_0
     - r-fastmap =1.2.0 =r43ha18555a_0
@@ -553,7 +553,7 @@ requirements:
     - yaml =0.2.5 =h7f98852_2
     - yarl =1.9.4 =py38h01eb140_0
     - zeromq =4.3.5 =h75354e8_4
-    - zipp =3.18.1 =pyhd8ed1ab_0
+    - zipp =3.19.2 =pyhd8ed1ab_0
     - zlib =1.3.1 =h4ab18f5_1
     - zstd =1.5.6 =ha6fb4c9_0
 

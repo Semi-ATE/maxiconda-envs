@@ -56,7 +56,7 @@ requirements:
     - brotli-python =1.1.0 =py39h99910a6_1
     - bzip2 =1.0.8 =hcfcfb64_5
     - ca-certificates =2024.6.2 =h56e8100_0
-    - certifi =2024.2.2 =pyhd8ed1ab_0
+    - certifi =2024.6.2 =pyhd8ed1ab_0
     - cffi =1.16.0 =py39ha55989b_0
     - chardet =5.2.0 =py39hcbf5309_1
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
@@ -139,7 +139,7 @@ requirements:
     - libpng =1.6.43 =h19919ed_0
     - libsodium =1.0.18 =h8d14728_1
     - libspatialindex =1.9.3 =h5a68840_5
-    - libsqlite =3.45.3 =hcfcfb64_0
+    - libsqlite =3.46.0 =h2466b09_0
     - libtiff =4.6.0 =hddb2be6_3
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp =1.4.0 =h2466b09_0
@@ -160,7 +160,7 @@ requirements:
     - mdurl =0.1.2 =pyhd8ed1ab_0
     - mistune =3.0.2 =pyhd8ed1ab_0
     - mkl =2024.1.0 =h66d3029_692
-    - more-itertools =10.2.0 =pyhd8ed1ab_0
+    - more-itertools =10.3.0 =pyhd8ed1ab_0
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - munkres =1.1.4 =pyh9f0ad1d_0
@@ -189,7 +189,7 @@ requirements:
     - platformdirs =4.2.2 =pyhd8ed1ab_0
     - pluggy =1.5.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_2
-    - prompt-toolkit =3.0.46 =pyha770c72_0
+    - prompt-toolkit =3.0.47 =pyha770c72_0
     - psutil =5.9.8 =py39ha55989b_0
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
@@ -286,7 +286,7 @@ requirements:
     - yaml =0.2.5 =h8ffe710_2
     - yapf =0.40.1 =pyhd8ed1ab_0
     - zeromq =4.3.5 =he1f189c_4
-    - zipp =3.18.1 =pyhd8ed1ab_0
+    - zipp =3.19.2 =pyhd8ed1ab_0
     - zstd =1.5.6 =h0ea2cb4_0
 
 about:
