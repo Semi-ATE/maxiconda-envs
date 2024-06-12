@@ -148,7 +148,7 @@ requirements:
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =16.3 =h4501773_0
     - libsodium =1.0.18 =hbcb3906_1
-    - libspatialindex =1.9.3 =hf036a51_5
+    - libspatialindex =2.0.0 =hf036a51_0
     - libsqlite =3.46.0 =h1b8f9f3_0
     - libtiff =4.6.0 =h129831d_3
     - libvorbis =1.3.7 =h046ec9c_0
@@ -174,9 +174,9 @@ requirements:
     - mysql-common =8.3.0 =hfd7a639_4
     - mysql-libs =8.3.0 =ha9146f8_4
     - nbclient =0.10.0 =pyhd8ed1ab_0
-    - nbconvert =7.16.4 =hd8ed1ab_0
-    - nbconvert-core =7.16.4 =pyhd8ed1ab_0
-    - nbconvert-pandoc =7.16.4 =hd8ed1ab_0
+    - nbconvert =7.16.4 =hd8ed1ab_1
+    - nbconvert-core =7.16.4 =pyhd8ed1ab_1
+    - nbconvert-pandoc =7.16.4 =hd8ed1ab_1
     - nbformat =5.10.4 =pyhd8ed1ab_0
     - ncurses =6.5 =h5846eda_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
@@ -246,7 +246,7 @@ requirements:
     - rich =13.7.1 =pyhd8ed1ab_0
     - rope =1.13.0 =pyhd8ed1ab_0
     - rpds-py =0.18.1 =py39hf59063a_0
-    - rtree =1.2.0 =py39h7d0d40a_0
+    - rtree =1.2.0 =py39h30faeb4_1
     - setuptools =70.0.0 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h110ca85_0
     - six =1.16.0 =pyh6c4a22f_0
@@ -260,7 +260,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_0
     - sphinxcontrib-qthelp =1.0.7 =pyhd8ed1ab_0
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_0
-    - spyder-kernels =2.5.1 =unix_pyh707e725_0
+    - spyder-kernels =2.5.2 =unix_pyh707e725_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tabulate =0.9.0 =pyhd8ed1ab_1
     - text-unidecode =1.3 =pyhd8ed1ab_1
