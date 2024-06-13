@@ -118,14 +118,14 @@ requirements:
     - libexpat =2.6.2 =h2f0025b_0
     - libffi =3.4.2 =h3557bc0_5
     - libflac =1.4.3 =h2f0025b_0
-    - libgcc-ng =13.2.0 =he277a41_7
+    - libgcc-ng =13.2.0 =he277a41_8
     - libgcrypt =1.10.3 =h31becfc_0
     - libgettextpo =0.22.5 =h2f0025b_2
     - libgettextpo-devel =0.22.5 =h2f0025b_2
-    - libgfortran-ng =13.2.0 =he9431aa_7
-    - libgfortran5 =13.2.0 =h87d9d71_7
+    - libgfortran-ng =13.2.0 =he9431aa_8
+    - libgfortran5 =13.2.0 =h2af0866_8
     - libglib =2.80.2 =h34bac0b_0
-    - libgomp =13.2.0 =he277a41_7
+    - libgomp =13.2.0 =he277a41_8
     - libgpg-error =1.49 =hb13efb6_0
     - libiconv =1.17 =h31becfc_2
     - libjpeg-turbo =2.1.5.1 =h31becfc_1
@@ -140,7 +140,7 @@ requirements:
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
     - libsqlite =3.46.0 =hf51ef55_0
-    - libstdcxx-ng =13.2.0 =h3f4de04_7
+    - libstdcxx-ng =13.2.0 =h3f4de04_8
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.5.1 =h360e80f_1
     - libtool =2.4.7 =h4de3ea5_0
@@ -165,7 +165,7 @@ requirements:
     - nss =3.100 =h8c4e863_0
     - openjpeg =2.5.0 =h9508984_2
     - openssl =3.1.6 =h68df207_0
-    - packaging =24.0 =pyhd8ed1ab_0
+    - packaging =24.1 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pcre2 =10.43 =hd0f9c67_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
@@ -216,7 +216,7 @@ requirements:
     - urllib3 =2.2.1 =pyhd8ed1ab_0
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - wheel =0.43.0 =pyhd8ed1ab_1
-    - wurlitzer =3.1.0 =pyhd8ed1ab_0
+    - wurlitzer =3.1.1 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =h4e544f5_0
     - xcb-util-image =0.4.0 =h4e544f5_0
     - xcb-util-keysyms =0.4.0 =h4e544f5_0

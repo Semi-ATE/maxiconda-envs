@@ -119,10 +119,10 @@ requirements:
     - freetype =2.12.1 =hf0a5ef3_2
     - fribidi =1.0.10 =hb9de7d4_0
     - frozenlist =1.3.1 =py37h795501a_0
-    - gcc_impl_linux-aarch64 =13.2.0 =hc4b1cec_7
+    - gcc_impl_linux-aarch64 =13.2.0 =hc4b1cec_8
     - gettext =0.22.5 =h2f0025b_2
     - gettext-tools =0.22.5 =h2f0025b_2
-    - gfortran_impl_linux-aarch64 =13.2.0 =h82352b4_7
+    - gfortran_impl_linux-aarch64 =13.2.0 =hdf3914c_8
     - git =2.42.0 =pl5321h0d979e1_0
     - glib =2.78.1 =hd84c7bf_0
     - glib-tools =2.78.1 =hd84c7bf_0
@@ -134,7 +134,7 @@ requirements:
     - gst-plugins-base =1.22.0 =h8a62080_2
     - gstreamer =1.22.0 =h1f26242_2
     - gstreamer-orc =0.4.38 =h31becfc_0
-    - gxx_impl_linux-aarch64 =13.2.0 =h4f58b69_7
+    - gxx_impl_linux-aarch64 =13.2.0 =h4f58b69_8
     - harfbuzz =6.0.0 =hbcb8a4f_0
     - icu =70.1 =ha18d298_0
     - idna =3.7 =pyhd8ed1ab_0
@@ -181,15 +181,15 @@ requirements:
     - libexpat =2.6.2 =h2f0025b_0
     - libffi =3.4.2 =h3557bc0_5
     - libflac =1.4.3 =h2f0025b_0
-    - libgcc-devel_linux-aarch64 =13.2.0 =h15a78c4_107
-    - libgcc-ng =13.2.0 =he277a41_7
+    - libgcc-devel_linux-aarch64 =13.2.0 =hd381d16_108
+    - libgcc-ng =13.2.0 =he277a41_8
     - libgcrypt =1.10.3 =h31becfc_0
     - libgettextpo =0.22.5 =h2f0025b_2
     - libgettextpo-devel =0.22.5 =h2f0025b_2
-    - libgfortran-ng =13.2.0 =he9431aa_7
-    - libgfortran5 =13.2.0 =h87d9d71_7
+    - libgfortran-ng =13.2.0 =he9431aa_8
+    - libgfortran5 =13.2.0 =h2af0866_8
     - libglib =2.78.1 =h0464669_0
-    - libgomp =13.2.0 =he277a41_7
+    - libgomp =13.2.0 =he277a41_8
     - libgpg-error =1.49 =hb13efb6_0
     - libiconv =1.17 =h31becfc_2
     - liblapack =3.9.0 =20_linuxaarch64_openblas
@@ -202,13 +202,13 @@ requirements:
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.43 =h194ca79_0
     - libpq =15.3 =hf616e62_1
-    - libsanitizer =13.2.0 =hfcb8e1e_7
+    - libsanitizer =13.2.0 =hfcb8e1e_8
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
     - libsqlite =3.46.0 =hf51ef55_0
     - libssh2 =1.11.0 =h492db2e_0
-    - libstdcxx-devel_linux-aarch64 =13.2.0 =h15a78c4_107
-    - libstdcxx-ng =13.2.0 =h3f4de04_7
+    - libstdcxx-devel_linux-aarch64 =13.2.0 =hd381d16_108
+    - libstdcxx-ng =13.2.0 =h3f4de04_8
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.4.0 =hfcd36d1_5
     - libtool =2.4.7 =h4de3ea5_0
@@ -492,7 +492,7 @@ requirements:
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - websocket-client =1.6.1 =pyhd8ed1ab_0
     - wheel =0.42.0 =pyhd8ed1ab_0
-    - wurlitzer =3.1.0 =pyhd8ed1ab_0
+    - wurlitzer =3.1.1 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =h4e544f5_0
     - xcb-util-image =0.4.0 =h4e544f5_0
     - xcb-util-keysyms =0.4.0 =h4e544f5_0
