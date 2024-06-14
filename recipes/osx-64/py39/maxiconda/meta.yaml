@@ -37,7 +37,7 @@ requirements:
     - matplotlib =3.8.4 =py39h6e9494a_2
     - numba =0.59.1 =py39hb7f44fa_0
     - numpy =1.26.4 =py39h28c39a1_0
-    - openpyxl =3.1.2 =py39hdc70f33_1
+    - openpyxl =3.1.4 =py39h4f4a4d5_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.2.2 =py39hbb604f3_1
     - psutil =5.9.8 =py39ha09f3b3_0
@@ -160,7 +160,7 @@ requirements:
     - isoduration =20.11.0 =pyhd8ed1ab_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - json5 =0.9.25 =pyhd8ed1ab_0
-    - jsonpointer =2.4 =py39h6e9494a_3
+    - jsonpointer =3.0.0 =py39h6e9494a_0
     - jsonschema =4.22.0 =pyhd8ed1ab_0
     - jsonschema-specifications =2023.12.1 =pyhd8ed1ab_0
     - jsonschema-with-format-nongpl =4.22.0 =pyhd8ed1ab_0
@@ -206,7 +206,7 @@ requirements:
     - liblapack =3.9.0 =22_osx64_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm15 =15.0.7 =hbedff68_4
-    - libllvm18 =18.1.7 =hd5e122f_0
+    - libllvm18 =18.1.7 =h9ce406d_1
     - libnghttp2 =1.58.0 =h64cf6d3_1
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.27 =openmp_hfef2a42_0
@@ -223,7 +223,7 @@ requirements:
     - libxml2 =2.12.7 =h3e169fe_1
     - libzlib =1.3.1 =h87427d6_1
     - llvm-openmp =18.1.7 =h15ab845_0
-    - llvm-tools =18.1.7 =hd5e122f_0
+    - llvm-tools =18.1.7 =h9ce406d_1
     - llvmlite =0.42.0 =py39he5a6977_1
     - make =4.3 =h22f3db7_1
     - markupsafe =2.1.5 =py39ha09f3b3_0
