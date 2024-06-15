@@ -65,8 +65,8 @@ requirements:
     - aws-c-s3 =0.5.10 =h5bc95ef_3
     - aws-c-sdkutils =0.1.16 =h750c3ff_2
     - aws-checksums =0.1.18 =h750c3ff_6
-    - aws-crt-cpp =0.26.10 =h819e545_4
-    - aws-sdk-cpp =1.11.329 =hd2a0318_4
+    - aws-crt-cpp =0.26.12 =h819e545_0
+    - aws-sdk-cpp =1.11.329 =hab43c70_5
     - bcrypt =4.1.3 =py39h92a245a_0
     - blinker =1.8.2 =pyhd8ed1ab_0
     - bottleneck =1.3.8 =py39hd88c2e4_0
@@ -175,13 +175,13 @@ requirements:
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20240116.2 =cxx17_h63175ca_0
-    - libarrow =15.0.2 =hd9731b5_13_cpu
-    - libarrow-acero =15.0.2 =he0c23c2_13_cpu
-    - libarrow-dataset =15.0.2 =he0c23c2_13_cpu
-    - libarrow-flight =15.0.2 =ha7f4a34_13_cpu
-    - libarrow-flight-sql =15.0.2 =hdeef14f_13_cpu
-    - libarrow-gandiva =15.0.2 =hc87e867_13_cpu
-    - libarrow-substrait =15.0.2 =h1f0e801_13_cpu
+    - libarrow =15.0.2 =h6a9fb90_14_cpu
+    - libarrow-acero =15.0.2 =he0c23c2_14_cpu
+    - libarrow-dataset =15.0.2 =he0c23c2_14_cpu
+    - libarrow-flight =15.0.2 =ha7f4a34_14_cpu
+    - libarrow-flight-sql =15.0.2 =hdeef14f_14_cpu
+    - libarrow-gandiva =15.0.2 =hc87e867_14_cpu
+    - libarrow-substrait =15.0.2 =h1f0e801_14_cpu
     - libblas =3.9.0 =22_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
@@ -206,7 +206,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =22_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
-    - libparquet =15.0.2 =h178134c_13_cpu
+    - libparquet =15.0.2 =h178134c_14_cpu
     - libpng =1.6.43 =h19919ed_0
     - libprotobuf =4.25.3 =h503648d_0
     - libre2-11 =2023.09.01 =hf8d8778_2
@@ -288,7 +288,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py39hd3de297_0
-    - pyarrow =15.0.2 =py39h3c730f4_13_cpu
+    - pyarrow =15.0.2 =py39h3c730f4_14_cpu
     - pyasn1 =0.6.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.4.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
