@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - cython =3.0.10 =py39hf3050f2_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.103.1 =pyha770c72_0
+    - hypothesis =6.103.2 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - matplotlib =3.8.4 =py39hdf13c20_2
@@ -51,7 +51,7 @@ requirements:
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2024.5.15 =py39hfea33bf_0
     - requests =2.32.3 =pyhd8ed1ab_0
-    - rust =1.77.2 =h4ff7c5d_1
+    - rust =1.78.0 =h4ff7c5d_0
     - scipy =1.13.1 =py39h3d5391c_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.5.2 =unix_pyh707e725_0
@@ -279,7 +279,7 @@ requirements:
     - pyqt5-sip =12.12.2 =py39hb198ff7_5
     - pysocks =1.7.1 =py39h2804cbe_5
     - python-dateutil =2.9.0 =pyhd8ed1ab_0
-    - python-fastjsonschema =2.19.1 =pyhd8ed1ab_0
+    - python-fastjsonschema =2.20.0 =pyhd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2024.1 =pyhd8ed1ab_0
     - python-utils =3.8.2 =pyhd8ed1ab_0
@@ -475,7 +475,7 @@ requirements:
     - ruamel.yaml =0.18.6 =py39h17cfd9d_0
     - ruamel.yaml.clib =0.2.8 =py39h17cfd9d_0
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-aarch64-apple-darwin =1.77.2 =hf6ec828_1
+    - rust-std-aarch64-apple-darwin =1.78.0 =hf6ec828_0
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.3 =pyh31c8845_0
     - setuptools =70.0.0 =pyhd8ed1ab_0
