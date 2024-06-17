@@ -39,8 +39,8 @@ requirements:
     - debugpy =1.6.3 =py37hf2a7229_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - glib =2.80.2 =h0df6a38_0
-    - glib-tools =2.80.2 =h2f9d560_0
+    - glib =2.80.2 =h7025463_1
+    - glib-tools =2.80.2 =h4394cf3_1
     - gst-plugins-base =1.24.4 =hba88be7_0
     - gstreamer =1.24.4 =h5006eae_0
     - icu =73.2 =h63175ca_0
@@ -52,7 +52,7 @@ requirements:
     - krb5 =1.21.2 =heb0366b_0
     - libclang13 =18.1.7 =default_h97ce8ae_0
     - libffi =3.4.2 =h8ffe710_5
-    - libglib =2.80.2 =h0df6a38_0
+    - libglib =2.80.2 =h7025463_1
     - libiconv =1.17 =hcfcfb64_2
     - libintl =0.22.5 =h5728263_2
     - libintl-devel =0.22.5 =h5728263_2
@@ -68,7 +68,7 @@ requirements:
     - openssl =3.3.1 =h2466b09_0
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pcre2 =10.43 =h17e33f8_0
+    - pcre2 =10.44 =h3d7b363_0
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pip =24.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_2

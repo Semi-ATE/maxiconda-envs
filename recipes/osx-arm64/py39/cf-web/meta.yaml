@@ -58,8 +58,8 @@ requirements:
     - decorator =5.1.1 =pyhd8ed1ab_0
     - exceptiongroup =1.2.0 =pyhd8ed1ab_2
     - executing =2.0.1 =pyhd8ed1ab_0
-    - glib =2.80.2 =h535f939_0
-    - glib-tools =2.80.2 =h4c882b9_0
+    - glib =2.80.2 =h59d46d9_1
+    - glib-tools =2.80.2 =h8ba3eef_1
     - greenlet =3.0.3 =py39hf3050f2_0
     - gst-plugins-base =1.24.4 =h8a8f8c8_0
     - gstreamer =1.24.4 =h430e707_0
@@ -80,7 +80,7 @@ requirements:
     - libcxx =17.0.6 =h5f092b4_0
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libffi =3.4.2 =h3422bc3_5
-    - libglib =2.80.2 =h535f939_0
+    - libglib =2.80.2 =h59d46d9_1
     - libiconv =1.17 =h0d3ecfb_2
     - libintl =0.22.5 =h8fbad5d_2
     - libintl-devel =0.22.5 =h8fbad5d_2
@@ -103,11 +103,11 @@ requirements:
     - ncurses =6.5 =hb89a1cb_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - nspr =4.35 =hb7217d7_0
-    - nss =3.100 =hc6e9f88_0
+    - nss =3.101 =hc42bcbf_0
     - openssl =3.3.1 =hfb2fe0b_0
     - packaging =24.1 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pcre2 =10.43 =h26f9a81_0
+    - pcre2 =10.44 =h297a79d_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pip =24.0 =pyhd8ed1ab_0

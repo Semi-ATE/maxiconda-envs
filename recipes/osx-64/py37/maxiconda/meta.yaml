@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0 =py37h69ee0a8_4
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qtawesome =1.3.1 =pyh9208f05_0
-    - r-base =4.3.3 =hc514ba5_1
+    - r-base =4.3.3 =h2f142dd_2
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2022.9.13 =py37h8052db5_0
     - requests =2.32.2 =pyhd8ed1ab_0
@@ -122,9 +122,9 @@ requirements:
     - frozenlist =1.3.1 =py37h74e8b7d_0
     - gfortran_impl_osx-64 =12.3.0 =hc328e78_3
     - gfortran_osx-64 =12.3.0 =h18f7dce_1
-    - git =2.45.2 =pl5321hbfd54c6_0
-    - glib =2.80.2 =h0f68cf7_0
-    - glib-tools =2.80.2 =hc27840c_0
+    - git =2.45.2 =pl5321hb0c6a96_1
+    - glib =2.80.2 =h736d271_1
+    - glib-tools =2.80.2 =h959cb30_1
     - gmp =6.3.0 =h73e2aa4_1
     - gmpy2 =2.1.2 =py37h60f582e_0
     - graphite2 =1.3.13 =h73e2aa4_1003
@@ -169,7 +169,7 @@ requirements:
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran-devel_osx-64 =12.3.0 =h0b6f5ec_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.80.2 =h0f68cf7_0
+    - libglib =2.80.2 =h736d271_1
     - libiconv =1.17 =hd75f5a5_2
     - libintl =0.22.5 =h5ff76d1_2
     - libintl-devel =0.22.5 =h5ff76d1_2
@@ -215,14 +215,14 @@ requirements:
     - notebook =6.5.7 =pyha770c72_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
-    - nss =3.100 =h6606ded_0
+    - nss =3.101 =he7eb89d_0
     - openssl =3.3.1 =h87427d6_0
     - packaging =23.2 =pyhd8ed1ab_0
     - pandoc =3.2 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.54.0 =h880b76c_0
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pcre2 =10.43 =h0ad2156_0
+    - pcre2 =10.44 =h7634a1b_0
     - perl =5.32.1 =7_h10d778d_perl5
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py37hc8dfbb8_1002

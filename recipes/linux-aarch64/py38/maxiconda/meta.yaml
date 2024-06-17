@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0.1 =py38h9579f32_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qtawesome =1.3.1 =pyh9208f05_0
-    - r-base =4.3.3 =h14488e9_1
+    - r-base =4.3.3 =hca6edac_2
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2024.5.15 =py38ha5227f9_0
     - requests =2.32.3 =pyhd8ed1ab_0
@@ -84,7 +84,7 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_3
     - backports.zoneinfo =0.2.1 =py38h9579f32_8
-    - binutils_impl_linux-aarch64 =2.40 =hf54a868_4
+    - binutils_impl_linux-aarch64 =2.40 =hf54a868_6
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =h31becfc_1
     - brotli-bin =1.1.0 =h31becfc_1
@@ -132,8 +132,8 @@ requirements:
     - gettext =0.22.5 =h2f0025b_2
     - gettext-tools =0.22.5 =h2f0025b_2
     - gfortran_impl_linux-aarch64 =13.2.0 =hdf3914c_10
-    - glib =2.80.2 =h34bac0b_0
-    - glib-tools =2.80.2 =he16435f_0
+    - glib =2.80.2 =haee52c6_1
+    - glib-tools =2.80.2 =hdaf7ded_1
     - gmp =6.3.0 =h2f0025b_1
     - gmpy2 =2.1.5 =py38h55fd771_1
     - graphite2 =1.3.13 =h2f0025b_1003
@@ -178,7 +178,7 @@ requirements:
     - krb5 =1.21.2 =hc419048_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.16 =h922389a_0
-    - ld_impl_linux-aarch64 =2.40 =h9fc2d93_4
+    - ld_impl_linux-aarch64 =2.40 =h9fc2d93_6
     - lerc =4.0.0 =h4de3ea5_0
     - libasprintf =0.22.5 =h7b6a552_2
     - libasprintf-devel =0.22.5 =h7b6a552_2
@@ -206,7 +206,7 @@ requirements:
     - libgettextpo-devel =0.22.5 =h2f0025b_2
     - libgfortran-ng =13.2.0 =he9431aa_10
     - libgfortran5 =13.2.0 =h2af0866_10
-    - libglib =2.80.2 =h34bac0b_0
+    - libglib =2.80.2 =haee52c6_1
     - libgomp =13.2.0 =he277a41_10
     - libgpg-error =1.49 =hb13efb6_0
     - libiconv =1.17 =h31becfc_2
@@ -271,7 +271,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.54.0 =h399c48b_0
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pcre2 =10.43 =hd0f9c67_0
+    - pcre2 =10.44 =h070dd5b_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pillow =10.3.0 =py38h7ad23c5_0

@@ -83,8 +83,8 @@ requirements:
     - gettext =0.22.5 =h8fbad5d_2
     - gettext-tools =0.22.5 =h8fbad5d_2
     - giflib =5.2.2 =h93a5062_0
-    - glib =2.80.2 =h535f939_0
-    - glib-tools =2.80.2 =h4c882b9_0
+    - glib =2.80.2 =h59d46d9_1
+    - glib-tools =2.80.2 =h8ba3eef_1
     - gmp =6.3.0 =hebf3989_1
     - gmpy2 =2.1.5 =py39h9bb7c0c_1
     - gst-plugins-base =1.22.9 =h09b4b5e_1
@@ -134,7 +134,7 @@ requirements:
     - libgettextpo-devel =0.22.5 =h8fbad5d_2
     - libgfortran =5.0.0 =13_2_0_hd922786_3
     - libgfortran5 =13.2.0 =hf226fd6_3
-    - libglib =2.80.2 =h535f939_0
+    - libglib =2.80.2 =h59d46d9_1
     - libiconv =1.17 =h0d3ecfb_2
     - libintl =0.22.5 =h8fbad5d_2
     - libintl-devel =0.22.5 =h8fbad5d_2
@@ -181,7 +181,7 @@ requirements:
     - ncurses =6.5 =hb89a1cb_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - nspr =4.35 =hb7217d7_0
-    - nss =3.100 =hc6e9f88_0
+    - nss =3.101 =hc42bcbf_0
     - numpydoc =1.7.0 =pyhd8ed1ab_1
     - openjpeg =2.5.2 =h9f1df11_0
     - openssl =3.3.1 =hfb2fe0b_0
@@ -190,7 +190,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
-    - pcre2 =10.43 =h26f9a81_0
+    - pcre2 =10.44 =h297a79d_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pillow =10.3.0 =py39h3352c98_0

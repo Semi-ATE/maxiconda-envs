@@ -78,8 +78,8 @@ requirements:
     - freetype =2.12.1 =hdaf720e_2
     - gettext =0.22.5 =h5728263_2
     - gettext-tools =0.22.5 =h7d00a51_2
-    - glib =2.80.2 =h0df6a38_0
-    - glib-tools =2.80.2 =h2f9d560_0
+    - glib =2.80.2 =h7025463_1
+    - glib-tools =2.80.2 =h4394cf3_1
     - gst-plugins-base =1.22.9 =h001b923_1
     - gstreamer =1.22.9 =hb4038d2_1
     - icu =70.1 =h0e60522_0
@@ -123,7 +123,7 @@ requirements:
     - libffi =3.4.2 =h8ffe710_5
     - libgettextpo =0.22.5 =h5728263_2
     - libgettextpo-devel =0.22.5 =h5728263_2
-    - libglib =2.80.2 =h0df6a38_0
+    - libglib =2.80.2 =h7025463_1
     - libhwloc =2.10.0 =default_h8125262_1001
     - libiconv =1.17 =hcfcfb64_2
     - libintl =0.22.5 =h5728263_2
@@ -174,7 +174,7 @@ requirements:
     - paramiko =3.4.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
-    - pcre2 =10.43 =h17e33f8_0
+    - pcre2 =10.44 =h3d7b363_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pillow =9.2.0 =py37h42a8222_2
