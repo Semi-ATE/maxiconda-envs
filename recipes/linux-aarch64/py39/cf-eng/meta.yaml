@@ -25,7 +25,7 @@ requirements:
     - python =3.9.19 =h4ac3b42_0_cpython
 
     # 8 primary packages :
-    - numpy =1.26.4 =py39h91c28bb_0
+    - numpy =2.0.0 =py39hcdcdb6f_0
     - openpyxl =3.1.4 =py39h898b7ef_0
     - pandas =2.2.2 =py39h60c7704_1
     - pyqt =5.15.9 =py39hc7e6f3c_5
@@ -78,7 +78,7 @@ requirements:
     - keyutils =1.6.1 =h4e544f5_0
     - krb5 =1.21.2 =hc419048_0
     - lame =3.100 =h4e544f5_1003
-    - ld_impl_linux-aarch64 =2.40 =h9fc2d93_6
+    - ld_impl_linux-aarch64 =2.40 =h9fc2d93_7
     - libasprintf =0.22.5 =h7b6a552_2
     - libasprintf-devel =0.22.5 =h7b6a552_2
     - libblas =3.9.0 =22_linuxaarch64_openblas
@@ -134,7 +134,7 @@ requirements:
     - ncurses =6.5 =h0425590_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - nspr =4.35 =h4de3ea5_0
-    - nss =3.100 =h8c4e863_0
+    - nss =3.101 =hfe4779c_0
     - openssl =3.3.1 =h68df207_0
     - packaging =24.1 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0

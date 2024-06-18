@@ -52,13 +52,13 @@ requirements:
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2024.5.15 =py39hded5825_0
     - requests =2.32.3 =pyhd8ed1ab_0
-    - rust =1.78.0 =h6c54e5d_0
+    - rust =1.79.0 =h6c54e5d_0
     - scipy =1.13.1 =py39h038d4f4_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.5.2 =unix_pyh707e725_0
     - sqlalchemy =2.0.30 =py39h1a49df0_0
     - sqlite =3.46.0 =h28673e1_0
-    - sympy =1.12 =pypyh9d50eac_103
+    - sympy =1.12.1 =pypyh2585a3b_103
     - tqdm =4.66.4 =pyhd8ed1ab_0
     - transitions =0.9.1 =pyhd8ed1ab_0
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
@@ -274,8 +274,8 @@ requirements:
     - pycparser =2.22 =pyhd8ed1ab_0
     - pydantic-core =2.18.4 =py39hf59063a_0
     - pygments =2.18.0 =pyhd8ed1ab_0
-    - pyobjc-core =10.2 =py39h8602b6b_0
-    - pyobjc-framework-cocoa =10.2 =py39h8602b6b_0
+    - pyobjc-core =10.3.1 =py39hf8f43b1_0
+    - pyobjc-framework-cocoa =10.3.1 =py39hf8f43b1_0
     - pyparsing =3.1.2 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py39hb11a7c1_5
     - pysocks =1.7.1 =py39h6e9494a_5
@@ -461,7 +461,7 @@ requirements:
     - r-viridislite =0.4.2 =r43hc72bb7e_1
     - r-vroom =1.6.5 =r43h64b2c41_0
     - r-withr =3.0.0 =r43hc72bb7e_0
-    - r-xfun =0.44 =r43h25d921d_0
+    - r-xfun =0.45 =r43h25d921d_0
     - r-xml2 =1.3.6 =r43h3031e3b_1
     - r-xtable =1.8_4 =r43hc72bb7e_5
     - r-xts =0.14.0 =r43h6b9d099_0
@@ -476,7 +476,7 @@ requirements:
     - ruamel.yaml =0.18.6 =py39ha09f3b3_0
     - ruamel.yaml.clib =0.2.8 =py39ha09f3b3_0
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-apple-darwin =1.78.0 =h38e4360_0
+    - rust-std-x86_64-apple-darwin =1.79.0 =h38e4360_0
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.3 =pyh31c8845_0
     - setuptools =70.0.0 =pyhd8ed1ab_0
@@ -505,7 +505,7 @@ requirements:
     - tzdata =2024a =h0c530f3_0
     - unicodedata2 =15.1.0 =py39hdc70f33_0
     - uri-template =1.3.0 =pyhd8ed1ab_0
-    - urllib3 =2.2.1 =pyhd8ed1ab_0
+    - urllib3 =2.2.2 =pyhd8ed1ab_0
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - webcolors =24.6.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2

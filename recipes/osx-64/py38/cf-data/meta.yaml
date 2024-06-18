@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =2.0.0 =py38h50d1736_0
     - pyqt =5.15.9 =py38he1c912d_5
-    - pytorch =2.3.0 =cpu_mkl_py38h00ee1fa_101
+    - pytorch =2.3.1 =cpu_mkl_py38h00ee1fa_100
     - scikit-learn =1.3.2 =py38h43a65be_2
     - scipy =1.10.1 =py38h9cf86d3_3
     - scrapy =2.11.2 =py38h50d1736_0
@@ -187,13 +187,13 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20240116.2 =cxx17_hc1bcbd7_0
-    - libarrow =15.0.2 =hc2fafd7_14_cpu
-    - libarrow-acero =15.0.2 =hf036a51_14_cpu
-    - libarrow-dataset =15.0.2 =hf036a51_14_cpu
-    - libarrow-flight =15.0.2 =hd834827_14_cpu
-    - libarrow-flight-sql =15.0.2 =he1e86a1_14_cpu
-    - libarrow-gandiva =15.0.2 =hfa04d5a_14_cpu
-    - libarrow-substrait =15.0.2 =he1e86a1_14_cpu
+    - libarrow =15.0.2 =hc2fafd7_15_cpu
+    - libarrow-acero =15.0.2 =hf036a51_15_cpu
+    - libarrow-dataset =15.0.2 =hf036a51_15_cpu
+    - libarrow-flight =15.0.2 =hd834827_15_cpu
+    - libarrow-flight-sql =15.0.2 =he1e86a1_15_cpu
+    - libarrow-gandiva =15.0.2 =hfa04d5a_15_cpu
+    - libarrow-substrait =15.0.2 =he1e86a1_15_cpu
     - libasprintf =0.22.5 =h5ff76d1_2
     - libasprintf-devel =0.22.5 =h5ff76d1_2
     - libblas =3.9.0 =20_osx64_openblas
@@ -235,18 +235,18 @@ requirements:
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =15.0.2 =h904a336_14_cpu
+    - libparquet =15.0.2 =h904a336_15_cpu
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =16.3 =h4501773_0
     - libprotobuf =4.25.3 =h4e4d658_0
     - libre2-11 =2023.09.01 =h81f5012_2
-    - librsvg =2.58.0 =h7b06fc5_1
+    - librsvg =2.58.1 =h368d7ee_0
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.46.0 =h1b8f9f3_0
     - libssh2 =1.11.0 =hd019ec5_0
     - libthrift =0.19.0 =h064b379_1
     - libtiff =4.6.0 =h129831d_3
-    - libtorch =2.3.0 =cpu_mkl_h2fda0bb_101
+    - libtorch =2.3.1 =cpu_mkl_h2fda0bb_100
     - libutf8proc =2.8.0 =hb7f2c08_0
     - libuv =1.48.0 =h67532ce_0
     - libvorbis =1.3.7 =h046ec9c_0
@@ -272,9 +272,9 @@ requirements:
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.5.2 =pyhd8ed1ab_0
     - mkl =2023.2.0 =h54c2260_50500
-    - mlflow =2.13.2 =h50d1736_1
-    - mlflow-skinny =2.13.2 =py38h50d1736_1
-    - mlflow-ui =2.13.2 =py38h50d1736_1
+    - mlflow =2.14.0 =h50d1736_0
+    - mlflow-skinny =2.14.0 =py38h50d1736_0
+    - mlflow-ui =2.14.0 =py38h50d1736_0
     - mlxtend =0.23.1 =pyhd8ed1ab_0
     - mpc =1.3.1 =h81bd1dd_0
     - mpfr =4.2.1 =h4f6b447_1
@@ -327,7 +327,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py38h273ab5c_0
-    - pyarrow =15.0.2 =py38h5efbd5e_14_cpu
+    - pyarrow =15.0.2 =py38h5efbd5e_15_cpu
     - pyasn1 =0.6.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.4.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -339,7 +339,7 @@ requirements:
     - pygments =2.18.0 =pyhd8ed1ab_0
     - pyldavis =3.4.1 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py38hcafd530_3
-    - pynndescent =0.5.12 =pyhca7485f_0
+    - pynndescent =0.5.13 =pyhff2d567_0
     - pyod =2.0.0 =pyhd8ed1ab_0
     - pyopenssl =24.0.0 =pyhd8ed1ab_0
     - pyparsing =3.1.2 =pyhd8ed1ab_0
@@ -384,10 +384,10 @@ requirements:
     - sqlparse =0.5.0 =pyhd8ed1ab_0
     - srsly =2.4.8 =py38h940360d_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
-    - sympy =1.12 =pypyh9d50eac_103
+    - sympy =1.12.1 =pypyh2585a3b_103
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.12.0 =h3c5361c_1
-    - tenacity =8.3.0 =pyhd8ed1ab_0
+    - tenacity =8.4.1 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
     - thinc =8.2.3 =py38ha02b945_0
     - threadpoolctl =3.5.0 =pyhc1e730c_0
@@ -405,7 +405,7 @@ requirements:
     - tzdata =2024a =h0c530f3_0
     - umap-learn =0.5.5 =py38h50d1736_1
     - unicodedata2 =15.1.0 =py38hcafd530_0
-    - urllib3 =2.2.1 =pyhd8ed1ab_0
+    - urllib3 =2.2.2 =pyhd8ed1ab_0
     - visions =0.7.1 =pyhd8ed1ab_0
     - w3lib =2.2.1 =pyhd8ed1ab_0
     - wasabi =1.1.2 =py38h50d1736_1

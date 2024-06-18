@@ -27,13 +27,13 @@ requirements:
     # 9 primary packages :
     - cython =3.0.10 =py39h3d6467e_0
     - matplotlib =3.8.4 =py39hf3d152e_2
-    - numpy =1.26.4 =py39h474f0d3_0
+    - numpy =2.0.0 =py39ha0965c0_0
     - pandas =2.2.2 =py39hfc16268_1
     - pyqt =5.15.9 =py39h52134e7_5
     - pyqtwebengine =5.15.9 =py39h071a739_5
     - scipy =1.13.1 =py39haf93ffa_0
     - spyder =5.5.5 =py39hf3d152e_0
-    - sympy =1.12 =pypyh9d50eac_103
+    - sympy =1.12.1 =pypyh2585a3b_103
 
     # 322 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
@@ -135,7 +135,7 @@ requirements:
     - krb5 =1.21.2 =h659d440_0
     - lame =3.100 =h166bdaf_1003
     - lcms2 =2.16 =hb7c19ff_0
-    - ld_impl_linux-64 =2.40 =hf3520f5_6
+    - ld_impl_linux-64 =2.40 =hf3520f5_7
     - lerc =4.0.0 =h27087fc_0
     - libasprintf =0.22.5 =h661eb56_2
     - libasprintf-devel =0.22.5 =h661eb56_2
@@ -313,7 +313,7 @@ requirements:
     - tzdata =2024a =h0c530f3_0
     - ujson =5.10.0 =py39h84cc369_0
     - unicodedata2 =15.1.0 =py39hd1e30aa_0
-    - urllib3 =2.2.1 =pyhd8ed1ab_0
+    - urllib3 =2.2.2 =pyhd8ed1ab_0
     - watchdog =4.0.1 =py39hf3d152e_0
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2

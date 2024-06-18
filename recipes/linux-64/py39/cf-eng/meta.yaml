@@ -25,7 +25,7 @@ requirements:
     - python =3.9.19 =h0755675_0_cpython
 
     # 8 primary packages :
-    - numpy =1.26.4 =py39h474f0d3_0
+    - numpy =2.0.0 =py39ha0965c0_0
     - openpyxl =3.1.4 =py39hd1e30aa_0
     - pandas =2.2.2 =py39hfc16268_1
     - pyqt =5.15.9 =py39h52134e7_5
@@ -79,7 +79,7 @@ requirements:
     - keyutils =1.6.1 =h166bdaf_0
     - krb5 =1.21.2 =h659d440_0
     - lame =3.100 =h166bdaf_1003
-    - ld_impl_linux-64 =2.40 =hf3520f5_6
+    - ld_impl_linux-64 =2.40 =hf3520f5_7
     - libasprintf =0.22.5 =h661eb56_2
     - libasprintf-devel =0.22.5 =h661eb56_2
     - libblas =3.9.0 =22_linux64_openblas

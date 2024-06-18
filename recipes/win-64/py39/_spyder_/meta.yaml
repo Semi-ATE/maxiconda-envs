@@ -27,13 +27,13 @@ requirements:
     # 9 primary packages :
     - cython =3.0.10 =py39h99910a6_0
     - matplotlib =3.8.4 =py39hcbf5309_2
-    - numpy =1.26.4 =py39hddb5d58_0
+    - numpy =2.0.0 =py39h60232e0_0
     - pandas =2.2.2 =py39h2366fc2_1
     - pyqt =5.15.9 =py39hb77abff_5
     - pyqtwebengine =5.15.9 =py39h2f4a3f1_5
     - scipy =1.13.1 =py39h1a10956_0
     - spyder =5.5.5 =py39hcbf5309_0
-    - sympy =1.12 =pyh04b8f61_3
+    - sympy =1.12.1 =pyh04b8f61_3
 
     # 252 secondary packages :
     - alabaster =0.7.16 =pyhd8ed1ab_0
@@ -270,7 +270,7 @@ requirements:
     - ucrt =10.0.22621.0 =h57928b3_0
     - ujson =5.10.0 =py39ha51f57c_0
     - unicodedata2 =15.1.0 =py39ha55989b_0
-    - urllib3 =2.2.1 =pyhd8ed1ab_0
+    - urllib3 =2.2.2 =pyhd8ed1ab_0
     - vc =14.3 =h8a93ad2_20
     - vc14_runtime =14.40.33810 =ha82c5b3_20
     - vs2015_runtime =14.40.33810 =h3bf8584_20

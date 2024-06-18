@@ -175,13 +175,13 @@ requirements:
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20240116.2 =cxx17_h63175ca_0
-    - libarrow =15.0.2 =h6a9fb90_14_cpu
-    - libarrow-acero =15.0.2 =he0c23c2_14_cpu
-    - libarrow-dataset =15.0.2 =he0c23c2_14_cpu
-    - libarrow-flight =15.0.2 =ha7f4a34_14_cpu
-    - libarrow-flight-sql =15.0.2 =hdeef14f_14_cpu
-    - libarrow-gandiva =15.0.2 =hc87e867_14_cpu
-    - libarrow-substrait =15.0.2 =h1f0e801_14_cpu
+    - libarrow =15.0.2 =h6a9fb90_15_cpu
+    - libarrow-acero =15.0.2 =he0c23c2_15_cpu
+    - libarrow-dataset =15.0.2 =he0c23c2_15_cpu
+    - libarrow-flight =15.0.2 =ha7f4a34_15_cpu
+    - libarrow-flight-sql =15.0.2 =hdeef14f_15_cpu
+    - libarrow-gandiva =15.0.2 =hc87e867_15_cpu
+    - libarrow-substrait =15.0.2 =h1f0e801_15_cpu
     - libblas =3.9.0 =22_win64_mkl
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
@@ -206,7 +206,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =22_win64_mkl
     - libogg =1.3.4 =h8ffe710_1
-    - libparquet =15.0.2 =h178134c_14_cpu
+    - libparquet =15.0.2 =h178134c_15_cpu
     - libpng =1.6.43 =h19919ed_0
     - libprotobuf =4.25.3 =h503648d_0
     - libre2-11 =2023.09.01 =hf8d8778_2
@@ -243,9 +243,9 @@ requirements:
     - miniful =0.0.6 =pyhd8ed1ab_0
     - missingno =0.5.2 =pyhd8ed1ab_0
     - mkl =2024.1.0 =h66d3029_692
-    - mlflow =2.13.2 =haa244fe_1
-    - mlflow-skinny =2.13.2 =py38haa244fe_1
-    - mlflow-ui =2.13.2 =py38haa244fe_1
+    - mlflow =2.14.0 =haa244fe_0
+    - mlflow-skinny =2.14.0 =py38haa244fe_0
+    - mlflow-ui =2.14.0 =py38haa244fe_0
     - mlxtend =0.23.1 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
     - multimethod =1.4 =py_0
@@ -290,7 +290,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py38h684852a_0
-    - pyarrow =15.0.2 =py38h01bd588_14_cpu
+    - pyarrow =15.0.2 =py38h01bd588_15_cpu
     - pyasn1 =0.6.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.4.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -302,7 +302,7 @@ requirements:
     - pygments =2.18.0 =pyhd8ed1ab_0
     - pyldavis =3.4.1 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py38hbc1c497_3
-    - pynndescent =0.5.12 =pyhca7485f_0
+    - pynndescent =0.5.13 =pyhff2d567_0
     - pyod =2.0.0 =pyhd8ed1ab_0
     - pyopenssl =24.0.0 =pyhd8ed1ab_0
     - pyparsing =3.1.2 =pyhd8ed1ab_0
@@ -348,7 +348,7 @@ requirements:
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.12.0 =hc790b64_1
-    - tenacity =8.3.0 =pyhd8ed1ab_0
+    - tenacity =8.4.1 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
     - thinc =8.2.3 =py38he8dda6a_0
     - threadpoolctl =3.5.0 =pyhc1e730c_0
@@ -368,7 +368,7 @@ requirements:
     - ucrt =10.0.22621.0 =h57928b3_0
     - umap-learn =0.5.5 =py38haa244fe_1
     - unicodedata2 =15.1.0 =py38h91455d4_0
-    - urllib3 =2.2.1 =pyhd8ed1ab_0
+    - urllib3 =2.2.2 =pyhd8ed1ab_0
     - vc =14.3 =h8a93ad2_20
     - vc14_runtime =14.40.33810 =ha82c5b3_20
     - visions =0.7.1 =pyhd8ed1ab_0

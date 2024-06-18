@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.2 =r42hd8ed1ab_2004
     - regex =2022.9.13 =py37h795501a_0
     - requests =2.32.2 =pyhd8ed1ab_0
-    - rust =1.78.0 =h3393a65_0
+    - rust =1.79.0 =h3393a65_0
     - scipy =1.7.3 =py37hd18d958_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
@@ -81,7 +81,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_3
     - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py37h795501a_5
-    - binutils_impl_linux-aarch64 =2.40 =hf54a868_6
+    - binutils_impl_linux-aarch64 =2.40 =hf54a868_7
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =h31becfc_1
     - brotli-bin =1.1.0 =h31becfc_1
@@ -159,7 +159,7 @@ requirements:
     - krb5 =1.20.1 =h113d92e_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.14 =h5246980_0
-    - ld_impl_linux-aarch64 =2.40 =h9fc2d93_6
+    - ld_impl_linux-aarch64 =2.40 =h9fc2d93_7
     - lerc =4.0.0 =h4de3ea5_0
     - libasprintf =0.22.5 =h7b6a552_2
     - libasprintf-devel =0.22.5 =h7b6a552_2
@@ -245,7 +245,7 @@ requirements:
     - notebook =6.5.7 =pyha770c72_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_0
     - nspr =4.35 =h4de3ea5_0
-    - nss =3.100 =h8c4e863_0
+    - nss =3.101 =hfe4779c_0
     - openjpeg =2.5.0 =h9b6de37_1
     - openssl =3.1.6 =h68df207_0
     - packaging =23.2 =pyhd8ed1ab_0
@@ -453,7 +453,7 @@ requirements:
     - r-viridislite =0.4.2 =r42hc72bb7e_1
     - r-vroom =1.6.5 =r42h93f32a7_0
     - r-withr =3.0.0 =r42hc72bb7e_0
-    - r-xfun =0.44 =r42h6170684_0
+    - r-xfun =0.45 =r42h6170684_0
     - r-xml2 =1.3.3 =r42h9277e5c_2
     - r-xtable =1.8_4 =r42hc72bb7e_5
     - r-xts =0.14.0 =r42hc1cf72c_0
@@ -464,7 +464,7 @@ requirements:
     - ruamel.yaml =0.17.21 =py37h795501a_1
     - ruamel.yaml.clib =0.2.6 =py37h795501a_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-aarch64-unknown-linux-gnu =1.78.0 =hbe8e118_0
+    - rust-std-aarch64-unknown-linux-gnu =1.79.0 =hbe8e118_0
     - sed =4.8 =ha0d5d3d_0
     - send2trash =1.8.3 =pyh0d859eb_0
     - setuptools =59.8.0 =py37hfd236b0_1
@@ -487,7 +487,7 @@ requirements:
     - typing_extensions =4.7.1 =pyha770c72_0
     - tzdata =2024a =h0c530f3_0
     - unicodedata2 =14.0.0 =py37h795501a_1
-    - urllib3 =2.2.1 =pyhd8ed1ab_0
+    - urllib3 =2.2.2 =pyhd8ed1ab_0
     - wcwidth =0.2.10 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - websocket-client =1.6.1 =pyhd8ed1ab_0
