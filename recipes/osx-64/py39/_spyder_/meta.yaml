@@ -85,16 +85,16 @@ requirements:
     - giflib =5.2.2 =h10d778d_0
     - glib =2.80.2 =h736d271_1
     - glib-tools =2.80.2 =h959cb30_1
-    - gmp =6.3.0 =h73e2aa4_1
+    - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.1.5 =py39h87b48b1_1
     - gst-plugins-base =1.22.9 =h3fb38fc_1
     - gstreamer =1.22.9 =hf63bbb8_1
     - icu =73.2 =hf5e326d_0
     - idna =3.7 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
-    - importlib-metadata =7.1.0 =pyha770c72_0
+    - importlib-metadata =7.2.0 =pyha770c72_0
     - importlib-resources =6.4.0 =pyhd8ed1ab_0
-    - importlib_metadata =7.1.0 =hd8ed1ab_0
+    - importlib_metadata =7.2.0 =hd8ed1ab_0
     - importlib_resources =6.4.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
@@ -125,7 +125,7 @@ requirements:
     - libbrotlienc =1.1.0 =h0dc2134_1
     - libcblas =3.9.0 =22_osx64_openblas
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
-    - libclang13 =18.1.7 =default_h0449792_0
+    - libclang13 =18.1.8 =default_h9ff962c_0
     - libcxx =17.0.6 =h88467a6_0
     - libdeflate =1.20 =h49d49c5_0
     - libedit =3.1.20191231 =h0678c8f_2
@@ -141,7 +141,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =22_osx64_openblas
     - libllvm15 =15.0.7 =hbedff68_4
-    - libllvm18 =18.1.7 =h9ce406d_1
+    - libllvm18 =18.1.8 =h9ce406d_0
     - libogg =1.3.4 =h35c211d_1
     - libopenblas =0.3.27 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
@@ -154,10 +154,10 @@ requirements:
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp =1.4.0 =hc207709_0
     - libwebp-base =1.4.0 =h10d778d_0
-    - libxcb =1.15 =hb7f2c08_0
+    - libxcb =1.16 =h0dc2134_0
     - libxml2 =2.12.7 =h3e169fe_1
     - libzlib =1.3.1 =h87427d6_1
-    - llvm-openmp =18.1.7 =h15ab845_0
+    - llvm-openmp =18.1.8 =h15ab845_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py39ha09f3b3_0
     - matplotlib-base =3.8.4 =py39hfca4cae_2
@@ -193,7 +193,7 @@ requirements:
     - pcre2 =10.44 =h7634a1b_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =10.3.0 =py39h9dabb2a_0
+    - pillow =10.3.0 =py39hc3a33ae_1
     - pip =24.0 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - platformdirs =4.2.2 =pyhd8ed1ab_0
@@ -211,10 +211,10 @@ requirements:
     - pylint =3.2.3 =pyhd8ed1ab_0
     - pylint-venv =3.0.3 =pyhd8ed1ab_0
     - pyls-spyder =0.4.0 =pyhd8ed1ab_0
-    - pyobjc-core =10.2 =py39h8602b6b_0
-    - pyobjc-framework-cocoa =10.2 =py39h8602b6b_0
-    - pyobjc-framework-coreservices =10.2 =py39ha09f3b3_0
-    - pyobjc-framework-fsevents =10.2 =py39h6e9494a_0
+    - pyobjc-core =10.3.1 =py39hf8f43b1_0
+    - pyobjc-framework-cocoa =10.3.1 =py39hf8f43b1_0
+    - pyobjc-framework-coreservices =10.3.1 =py39hded5825_0
+    - pyobjc-framework-fsevents =10.3.1 =py39h6e9494a_0
     - pyparsing =3.1.2 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py39hb11a7c1_5
     - pysocks =1.7.1 =py39h6e9494a_5
@@ -247,7 +247,7 @@ requirements:
     - rope =1.13.0 =pyhd8ed1ab_0
     - rpds-py =0.18.1 =py39hf59063a_0
     - rtree =1.2.0 =py39h30faeb4_1
-    - setuptools =70.0.0 =pyhd8ed1ab_0
+    - setuptools =70.1.0 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h110ca85_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0

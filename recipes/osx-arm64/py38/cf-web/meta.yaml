@@ -32,7 +32,7 @@ requirements:
     - pyyaml =6.0.1 =py38hb192615_1
     - requests =2.32.3 =pyhd8ed1ab_0
     - spyder-kernels =2.5.2 =unix_pyh707e725_0
-    - sqlalchemy =2.0.30 =py38h3237794_0
+    - sqlalchemy =2.0.31 =py38h3237794_0
     - twisted =24.3.0 =py38h336bac9_0
 
     # 121 secondary packages :
@@ -62,13 +62,13 @@ requirements:
     - glib =2.80.2 =h59d46d9_1
     - glib-tools =2.80.2 =h8ba3eef_1
     - greenlet =3.0.3 =py38hb9fa5a8_0
-    - gst-plugins-base =1.24.4 =h8a8f8c8_0
-    - gstreamer =1.24.4 =h430e707_0
+    - gst-plugins-base =1.24.5 =h40577aa_0
+    - gstreamer =1.24.5 =h430e707_0
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =73.2 =hc8870d7_0
     - idna =3.7 =pyhd8ed1ab_0
-    - importlib-metadata =7.1.0 =pyha770c72_0
-    - importlib_metadata =7.1.0 =hd8ed1ab_0
+    - importlib-metadata =7.2.0 =pyha770c72_0
+    - importlib_metadata =7.2.0 =hd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - ipykernel =6.29.4 =pyh57ce528_0
     - ipython =8.12.2 =pyhd1c38e8_0
@@ -77,7 +77,7 @@ requirements:
     - jupyter_core =5.7.2 =py38h10201cd_0
     - krb5 =1.21.2 =h92f50d5_0
     - libclang-cpp15 =15.0.7 =default_he012953_5
-    - libclang13 =18.1.7 =default_hb9c8b4a_0
+    - libclang13 =18.1.8 =default_hfc66aa2_0
     - libcxx =17.0.6 =h5f092b4_0
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libffi =3.4.2 =h3422bc3_5
@@ -87,7 +87,7 @@ requirements:
     - libintl-devel =0.22.5 =h8fbad5d_2
     - libjpeg-turbo =3.0.0 =hb547adb_1
     - libllvm15 =15.0.7 =h2621b3d_4
-    - libllvm18 =18.1.7 =h5090b49_1
+    - libllvm18 =18.1.8 =h5090b49_0
     - libogg =1.3.4 =h27ca646_1
     - libopus =1.3.1 =h27ca646_1
     - libpng =1.6.43 =h091b4b1_0
@@ -133,7 +133,7 @@ requirements:
     - readline =8.2 =h92ec313_1
     - service-identity =21.1.0 =pyhd8ed1ab_0
     - service_identity =21.1.0 =hd8ed1ab_0
-    - setuptools =70.0.0 =pyhd8ed1ab_0
+    - setuptools =70.1.0 =pyhd8ed1ab_0
     - sip =6.8.3 =py38hb9fa5a8_0
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.5 =pyhd8ed1ab_1

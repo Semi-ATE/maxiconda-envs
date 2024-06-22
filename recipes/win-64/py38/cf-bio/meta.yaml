@@ -47,7 +47,7 @@ requirements:
     - ca-certificates =2024.6.2 =h56e8100_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
-    - cairo =1.18.0 =h1fef639_0
+    - cairo =1.18.0 =h91e5215_2
     - certifi =2024.6.2 =pyhd8ed1ab_0
     - cftime =1.6.4 =py38haf47d59_0
     - chardet =5.2.0 =py38haa244fe_1
@@ -79,16 +79,16 @@ requirements:
     - greenlet =3.0.3 =py38hd3f51b4_0
     - griddataformats =1.0.1 =pyhd8ed1ab_0
     - gsd =3.3.0 =py38haf47d59_0
-    - gst-plugins-base =1.24.4 =hba88be7_0
-    - gstreamer =1.24.4 =h5006eae_0
+    - gst-plugins-base =1.24.5 =hb0a98b8_0
+    - gstreamer =1.24.5 =h5006eae_0
     - h5py =3.11.0 =nompi_py38hd93224d_102
     - hdf4 =4.2.15 =h5557f11_7
     - hdf5 =1.14.3 =nompi_h2b43c12_105
     - icu =73.2 =h63175ca_0
     - idna =3.7 =pyhd8ed1ab_0
-    - importlib-metadata =7.1.0 =pyha770c72_0
+    - importlib-metadata =7.2.0 =pyha770c72_0
     - importlib-resources =6.4.0 =pyhd8ed1ab_0
-    - importlib_metadata =7.1.0 =hd8ed1ab_0
+    - importlib_metadata =7.2.0 =hd8ed1ab_0
     - importlib_resources =6.4.0 =pyhd8ed1ab_0
     - intel-openmp =2024.1.0 =h57928b3_966
     - ipykernel =6.29.4 =pyh4bbf305_0
@@ -109,7 +109,7 @@ requirements:
     - libbrotlidec =1.1.0 =hcfcfb64_1
     - libbrotlienc =1.1.0 =hcfcfb64_1
     - libcblas =3.9.0 =22_win64_mkl
-    - libclang13 =18.1.7 =default_h97ce8ae_0
+    - libclang13 =18.1.8 =default_ha5278ca_0
     - libcurl =8.8.0 =hd5e4a3a_0
     - libdeflate =1.20 =hcfcfb64_0
     - libexpat =2.6.2 =h63175ca_0
@@ -130,7 +130,7 @@ requirements:
     - libtiff =4.6.0 =hddb2be6_3
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp-base =1.4.0 =hcfcfb64_0
-    - libxcb =1.15 =hcd874cb_0
+    - libxcb =1.16 =hcd874cb_0
     - libxml2 =2.12.7 =h283a6d9_1
     - libzip =1.10.1 =h1d365fa_3
     - libzlib =1.3.1 =h2466b09_1
@@ -160,7 +160,7 @@ requirements:
     - pbr =6.0.0 =pyhd8ed1ab_0
     - pcre2 =10.44 =h3d7b363_0
     - pickleshare =0.7.5 =py38h32f6830_1002
-    - pillow =10.3.0 =py38h894f861_0
+    - pillow =10.3.0 =py38h8d10685_1
     - pip =24.0 =pyhd8ed1ab_0
     - pixman =0.43.4 =h63175ca_0
     - platformdirs =4.2.2 =pyhd8ed1ab_0
@@ -193,11 +193,11 @@ requirements:
     - scikit-learn =1.3.2 =py38h4f736e5_2
     - seaborn =0.13.2 =hd8ed1ab_2
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
-    - setuptools =70.0.0 =pyhd8ed1ab_0
+    - setuptools =70.1.0 =pyhd8ed1ab_0
     - sip =6.7.12 =py38hd3f51b4_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.2.0 =hfb803bf_1
-    - sqlalchemy =2.0.30 =py38h4cb3324_0
+    - sqlalchemy =2.0.31 =py38h4cb3324_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.1 =py38he7056a7_0
     - tbb =2021.12.0 =hc790b64_1
