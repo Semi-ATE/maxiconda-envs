@@ -50,7 +50,7 @@ requirements:
     - ca-certificates =2024.6.2 =hbcca054_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
-    - cairo =1.18.0 =h3faef2a_0
+    - cairo =1.18.0 =hbb29018_2
     - certifi =2024.6.2 =pyhd8ed1ab_0
     - cftime =1.6.4 =py39hd92a3bb_0
     - chardet =5.2.0 =py39hf3d152e_1
@@ -86,8 +86,8 @@ requirements:
     - greenlet =3.0.3 =py39h3d6467e_0
     - griddataformats =1.0.2 =pyhd8ed1ab_0
     - gsd =3.3.0 =py39hd92a3bb_0
-    - gst-plugins-base =1.24.4 =h9ad1361_0
-    - gstreamer =1.24.4 =haf2f30d_0
+    - gst-plugins-base =1.24.5 =hbaaba92_0
+    - gstreamer =1.24.5 =haf2f30d_0
     - h5py =3.11.0 =nompi_py39h24b94d4_102
     - harfbuzz =8.5.0 =hfac3d4d_0
     - hdf4 =4.2.15 =h2a13503_7
@@ -132,15 +132,15 @@ requirements:
     - libexpat =2.6.2 =h59595ed_0
     - libffi =3.4.2 =h7f98852_5
     - libflac =1.4.3 =h59595ed_0
-    - libgcc-ng =13.2.0 =h77fa898_11
+    - libgcc-ng =13.2.0 =h77fa898_12
     - libgcrypt =1.10.3 =hd590300_0
     - libgettextpo =0.22.5 =h59595ed_2
     - libgettextpo-devel =0.22.5 =h59595ed_2
-    - libgfortran-ng =13.2.0 =h69a702a_11
-    - libgfortran5 =13.2.0 =h3d2ce59_11
+    - libgfortran-ng =13.2.0 =h69a702a_12
+    - libgfortran5 =13.2.0 =h3d2ce59_12
     - libglib =2.80.2 =h8a4344b_1
-    - libglu =9.0.0 =hac7e632_1003
-    - libgomp =13.2.0 =h77fa898_11
+    - libglu =9.0.0 =ha6d2627_1004
+    - libgomp =13.2.0 =h77fa898_12
     - libgpg-error =1.49 =h4f305b6_0
     - libiconv =1.17 =hd590300_2
     - libjpeg-turbo =3.0.0 =hd590300_1
@@ -159,15 +159,15 @@ requirements:
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.46.0 =hde9e2c9_0
     - libssh2 =1.11.0 =h0841786_0
-    - libstdcxx-ng =13.2.0 =hc0a3c3a_11
+    - libstdcxx-ng =13.2.0 =hc0a3c3a_12
     - libsystemd0 =255 =h3516f8a_1
     - libtiff =4.6.0 =h1dd3fc0_3
     - libuuid =2.38.1 =h0b41bf4_0
     - libvorbis =1.3.7 =h9c3ff4c_0
     - libwebp-base =1.4.0 =hd590300_0
-    - libxcb =1.15 =h0b41bf4_0
+    - libxcb =1.16 =hd590300_0
     - libxcrypt =4.4.36 =hd590300_1
-    - libxkbcommon =1.7.0 =h662e7e4_0
+    - libxkbcommon =1.7.0 =h2c5496b_1
     - libxml2 =2.12.7 =hc051c1a_1
     - libzip =1.10.1 =h2629f0a_3
     - libzlib =1.3.1 =h4ab18f5_1
@@ -196,7 +196,7 @@ requirements:
     - pcre2 =10.44 =h0f59acf_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =10.3.0 =py39h90c7501_0
+    - pillow =10.3.0 =py39h16a7006_1
     - pip =24.0 =pyhd8ed1ab_0
     - pixman =0.43.2 =h59595ed_0
     - platformdirs =4.2.2 =pyhd8ed1ab_0
@@ -219,7 +219,7 @@ requirements:
     - pytng =0.3.3 =py39ha167c1f_0
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyzmq =26.0.3 =py39ha1047a2_0
-    - qt-main =5.15.8 =hc9dc06e_21
+    - qt-main =5.15.8 =ha2b5568_22
     - readline =8.2 =h8228510_1
     - reportlab =4.1.0 =py39hd1e30aa_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
@@ -248,16 +248,16 @@ requirements:
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - wheel =0.43.0 =pyhd8ed1ab_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
-    - xcb-util =0.4.0 =hd590300_1
-    - xcb-util-image =0.4.0 =h8ee46fc_1
-    - xcb-util-keysyms =0.4.0 =h8ee46fc_1
-    - xcb-util-renderutil =0.3.9 =hd590300_1
-    - xcb-util-wm =0.4.1 =h8ee46fc_1
+    - xcb-util =0.4.1 =hb711507_2
+    - xcb-util-image =0.4.0 =hb711507_2
+    - xcb-util-keysyms =0.4.1 =hb711507_0
+    - xcb-util-renderutil =0.3.10 =hb711507_0
+    - xcb-util-wm =0.4.2 =hb711507_0
     - xkeyboard-config =2.42 =h4ab18f5_0
     - xorg-kbproto =1.0.7 =h7f98852_1002
     - xorg-libice =1.1.1 =hd590300_0
     - xorg-libsm =1.2.4 =h7391055_0
-    - xorg-libx11 =1.8.9 =h8ee46fc_0
+    - xorg-libx11 =1.8.9 =hb711507_1
     - xorg-libxau =1.0.11 =hd590300_0
     - xorg-libxdmcp =1.1.3 =h7f98852_0
     - xorg-libxext =1.3.4 =h0b41bf4_2
