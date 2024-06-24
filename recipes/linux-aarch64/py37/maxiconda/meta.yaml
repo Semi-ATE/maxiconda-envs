@@ -119,10 +119,10 @@ requirements:
     - freetype =2.12.1 =hf0a5ef3_2
     - fribidi =1.0.10 =hb9de7d4_0
     - frozenlist =1.3.1 =py37h795501a_0
-    - gcc_impl_linux-aarch64 =13.2.0 =hc4b1cec_11
+    - gcc_impl_linux-aarch64 =13.2.0 =hc4b1cec_13
     - gettext =0.22.5 =h2f0025b_2
     - gettext-tools =0.22.5 =h2f0025b_2
-    - gfortran_impl_linux-aarch64 =13.2.0 =hdf3914c_11
+    - gfortran_impl_linux-aarch64 =13.2.0 =hdf3914c_13
     - git =2.42.0 =pl5321h0d979e1_0
     - glib =2.78.1 =hd84c7bf_0
     - glib-tools =2.78.1 =hd84c7bf_0
@@ -134,7 +134,7 @@ requirements:
     - gst-plugins-base =1.22.0 =h8a62080_2
     - gstreamer =1.22.0 =h1f26242_2
     - gstreamer-orc =0.4.38 =h31becfc_0
-    - gxx_impl_linux-aarch64 =13.2.0 =h4f58b69_11
+    - gxx_impl_linux-aarch64 =13.2.0 =h4f58b69_13
     - harfbuzz =6.0.0 =hbcb8a4f_0
     - icu =70.1 =ha18d298_0
     - idna =3.7 =pyhd8ed1ab_0
@@ -181,15 +181,15 @@ requirements:
     - libexpat =2.6.2 =h2f0025b_0
     - libffi =3.4.2 =h3557bc0_5
     - libflac =1.4.3 =h2f0025b_0
-    - libgcc-devel_linux-aarch64 =13.2.0 =hd381d16_111
-    - libgcc-ng =13.2.0 =he277a41_11
+    - libgcc-devel_linux-aarch64 =13.2.0 =hd381d16_113
+    - libgcc-ng =13.2.0 =he277a41_13
     - libgcrypt =1.10.3 =h31becfc_0
     - libgettextpo =0.22.5 =h2f0025b_2
     - libgettextpo-devel =0.22.5 =h2f0025b_2
-    - libgfortran-ng =13.2.0 =he9431aa_11
-    - libgfortran5 =13.2.0 =h2af0866_11
+    - libgfortran-ng =13.2.0 =he9431aa_13
+    - libgfortran5 =13.2.0 =h2af0866_13
     - libglib =2.78.1 =h0464669_0
-    - libgomp =13.2.0 =he277a41_11
+    - libgomp =13.2.0 =he277a41_13
     - libgpg-error =1.49 =hb13efb6_0
     - libiconv =1.17 =h31becfc_2
     - liblapack =3.9.0 =20_linuxaarch64_openblas
@@ -202,13 +202,13 @@ requirements:
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.43 =h194ca79_0
     - libpq =15.3 =hf616e62_1
-    - libsanitizer =13.2.0 =hfcb8e1e_11
+    - libsanitizer =13.2.0 =hfcb8e1e_13
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
     - libsqlite =3.46.0 =hf51ef55_0
     - libssh2 =1.11.0 =h492db2e_0
-    - libstdcxx-devel_linux-aarch64 =13.2.0 =hd381d16_111
-    - libstdcxx-ng =13.2.0 =h3f4de04_11
+    - libstdcxx-devel_linux-aarch64 =13.2.0 =hd381d16_113
+    - libstdcxx-ng =13.2.0 =h3f4de04_13
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.4.0 =hfcd36d1_5
     - libtool =2.4.7 =h4de3ea5_0
@@ -315,7 +315,7 @@ requirements:
     - r-dbi =1.2.3 =r42hc72bb7e_0
     - r-dbplyr =2.5.0 =r42hc72bb7e_0
     - r-diagram =1.6.5 =r42ha770c72_2
-    - r-digest =0.6.35 =r42h93f32a7_0
+    - r-digest =0.6.36 =r42h6170684_0
     - r-dplyr =1.1.4 =r42h93f32a7_0
     - r-dtplyr =1.3.1 =r42hc72bb7e_1
     - r-e1071 =1.7_14 =r42h93f32a7_0

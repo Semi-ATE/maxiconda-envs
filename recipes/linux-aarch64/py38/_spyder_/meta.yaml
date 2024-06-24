@@ -59,7 +59,7 @@ requirements:
     - brotli-python =1.1.0 =py38hb83fbf6_1
     - bzip2 =1.0.8 =h31becfc_5
     - ca-certificates =2024.6.2 =hcefe29a_0
-    - cairo =1.18.0 =ha13f110_0
+    - cairo =1.18.0 =h5c54ea9_2
     - certifi =2024.6.2 =pyhd8ed1ab_0
     - cffi =1.16.0 =py38h4ab679b_0
     - chardet =5.2.0 =py38h2063c64_1
@@ -101,15 +101,15 @@ requirements:
     - gmp =6.3.0 =h0a1ffab_2
     - gmpy2 =2.1.5 =py38h55fd771_1
     - graphite2 =1.3.13 =h2f0025b_1003
-    - gst-plugins-base =1.22.9 =h0a86eba_1
-    - gstreamer =1.22.9 =hed71854_1
+    - gst-plugins-base =1.24.5 =h7f2d2c0_0
+    - gstreamer =1.24.5 =h80858a8_0
     - harfbuzz =8.5.0 =h9812418_0
     - icu =73.2 =h787c7f5_0
     - idna =3.7 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
-    - importlib-metadata =7.2.0 =pyha770c72_0
+    - importlib-metadata =7.2.1 =pyha770c72_0
     - importlib-resources =6.4.0 =pyhd8ed1ab_0
-    - importlib_metadata =7.2.0 =hd8ed1ab_0
+    - importlib_metadata =7.2.1 =hd8ed1ab_0
     - importlib_resources =6.4.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
@@ -153,14 +153,14 @@ requirements:
     - libexpat =2.6.2 =h2f0025b_0
     - libffi =3.4.2 =h3557bc0_5
     - libflac =1.4.3 =h2f0025b_0
-    - libgcc-ng =13.2.0 =he277a41_11
+    - libgcc-ng =13.2.0 =he277a41_13
     - libgcrypt =1.10.3 =h31becfc_0
     - libgettextpo =0.22.5 =h2f0025b_2
     - libgettextpo-devel =0.22.5 =h2f0025b_2
-    - libgfortran-ng =13.2.0 =he9431aa_11
-    - libgfortran5 =13.2.0 =h2af0866_11
+    - libgfortran-ng =13.2.0 =he9431aa_13
+    - libgfortran5 =13.2.0 =h2af0866_13
     - libglib =2.80.2 =haee52c6_1
-    - libgomp =13.2.0 =he277a41_11
+    - libgomp =13.2.0 =he277a41_13
     - libgpg-error =1.49 =hb13efb6_0
     - libiconv =1.17 =h31becfc_2
     - libjpeg-turbo =3.0.0 =h31becfc_1
@@ -177,16 +177,16 @@ requirements:
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =2.0.0 =h0a1ffab_0
     - libsqlite =3.46.0 =hf51ef55_0
-    - libstdcxx-ng =13.2.0 =h3f4de04_11
+    - libstdcxx-ng =13.2.0 =h3f4de04_13
     - libsystemd0 =255 =h91e93f8_1
     - libtiff =4.6.0 =hf980d43_3
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
     - libwebp =1.4.0 =h8b4e01b_0
     - libwebp-base =1.4.0 =h31becfc_0
-    - libxcb =1.15 =h2a766a3_0
+    - libxcb =1.16 =h7935292_0
     - libxcrypt =4.4.36 =h31becfc_1
-    - libxkbcommon =1.7.0 =h2555907_0
+    - libxkbcommon =1.7.0 =h46f2afe_1
     - libxml2 =2.12.7 =h49dc7a2_1
     - libzlib =1.3.1 =h68df207_1
     - lz4-c =1.9.4 =hd600fc2_0
@@ -226,7 +226,7 @@ requirements:
     - pcre2 =10.44 =h070dd5b_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py38h32f6830_1002
-    - pillow =10.3.0 =py38h7ad23c5_0
+    - pillow =10.3.0 =py38h092b5d1_1
     - pip =24.0 =pyhd8ed1ab_0
     - pixman =0.43.4 =h2f0025b_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
@@ -268,8 +268,8 @@ requirements:
     - pyzmq =26.0.3 =py38h2a8023b_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qstylizer =0.2.3 =pyhd8ed1ab_0
-    - qt-main =5.15.8 =h5d96f70_20
-    - qt-webengine =5.15.8 =hdddff8d_6
+    - qt-main =5.15.8 =h83f1795_22
+    - qt-webengine =5.15.8 =h1940a72_7
     - qtawesome =1.3.1 =pyh9208f05_0
     - qtconsole =5.5.2 =pyhd8ed1ab_0
     - qtconsole-base =5.5.2 =pyha770c72_0
@@ -320,11 +320,11 @@ requirements:
     - whatthepatch =1.0.5 =pyhd8ed1ab_0
     - wheel =0.43.0 =pyhd8ed1ab_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
-    - xcb-util =0.4.0 =h31becfc_1
-    - xcb-util-image =0.4.0 =hcb25cf1_1
-    - xcb-util-keysyms =0.4.0 =hcb25cf1_1
-    - xcb-util-renderutil =0.3.9 =h31becfc_1
-    - xcb-util-wm =0.4.1 =hcb25cf1_1
+    - xcb-util =0.4.1 =h5c728e9_2
+    - xcb-util-image =0.4.0 =h5c728e9_2
+    - xcb-util-keysyms =0.4.1 =h5c728e9_0
+    - xcb-util-renderutil =0.3.10 =h5c728e9_0
+    - xcb-util-wm =0.4.2 =h5c728e9_0
     - xkeyboard-config =2.42 =h68df207_0
     - xorg-compositeproto =0.4.2 =hf897c2e_1001
     - xorg-damageproto =1.2.1 =hf897c2e_1002
@@ -333,7 +333,7 @@ requirements:
     - xorg-kbproto =1.0.7 =h3557bc0_1002
     - xorg-libice =1.1.1 =h7935292_0
     - xorg-libsm =1.2.4 =h5a01bc2_0
-    - xorg-libx11 =1.8.9 =h055a233_0
+    - xorg-libx11 =1.8.9 =h08be655_1
     - xorg-libxau =1.0.11 =h31becfc_0
     - xorg-libxcomposite =0.4.6 =hb4cce97_1
     - xorg-libxdamage =1.1.5 =hf897c2e_1
