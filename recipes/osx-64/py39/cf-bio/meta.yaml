@@ -85,9 +85,9 @@ requirements:
     - hdf4 =4.2.15 =h8138101_7
     - hdf5 =1.14.3 =nompi_h687a608_105
     - icu =73.2 =hf5e326d_0
-    - importlib-metadata =7.2.1 =pyha770c72_0
+    - importlib-metadata =8.0.0 =pyha770c72_0
     - importlib-resources =6.4.0 =pyhd8ed1ab_0
-    - importlib_metadata =7.2.1 =hd8ed1ab_0
+    - importlib_metadata =8.0.0 =hd8ed1ab_0
     - importlib_resources =6.4.0 =pyhd8ed1ab_0
     - ipykernel =6.29.4 =pyh57ce528_0
     - ipython =8.18.1 =pyh707e725_3
@@ -128,7 +128,7 @@ requirements:
     - libllvm18 =18.1.8 =h9ce406d_0
     - libnetcdf =4.9.2 =nompi_h7334405_114
     - libnghttp2 =1.58.0 =h64cf6d3_1
-    - libogg =1.3.4 =h35c211d_1
+    - libogg =1.3.5 =hfdf4475_0
     - libopenblas =0.3.27 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.43 =h92b6c6a_0
@@ -192,12 +192,12 @@ requirements:
     - pyzmq =26.0.3 =py39h304b177_0
     - qt-main =5.15.8 =he8879f6_22
     - readline =8.2 =h9e318b2_1
-    - reportlab =4.1.0 =py39ha09f3b3_0
+    - reportlab =4.2.2 =py39hded5825_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
     - scikit-learn =1.5.0 =py39hf6a2366_1
     - seaborn =0.13.2 =hd8ed1ab_2
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
-    - setuptools =70.1.0 =pyhd8ed1ab_0
+    - setuptools =70.1.1 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h110ca85_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.2.0 =h6dc393e_1

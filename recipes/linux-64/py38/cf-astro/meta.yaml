@@ -62,8 +62,8 @@ requirements:
     - gstreamer =1.24.5 =haf2f30d_0
     - harfbuzz =8.5.0 =hfac3d4d_0
     - icu =73.2 =h59595ed_0
-    - importlib-metadata =7.2.1 =pyha770c72_0
-    - importlib_metadata =7.2.1 =hd8ed1ab_0
+    - importlib-metadata =8.0.0 =pyha770c72_0
+    - importlib_metadata =8.0.0 =hd8ed1ab_0
     - ipykernel =6.29.4 =pyh3099207_0
     - ipython =8.12.2 =pyh41d4057_0
     - jedi =0.19.1 =pyhd8ed1ab_0
@@ -96,7 +96,7 @@ requirements:
     - libllvm15 =15.0.7 =hb3ce162_4
     - libllvm18 =18.1.8 =hc9dba70_0
     - libnsl =2.0.1 =hd590300_0
-    - libogg =1.3.4 =h7f98852_1
+    - libogg =1.3.5 =h4ab18f5_0
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.43 =h2797004_0
     - libpq =16.3 =ha72fbe1_0
@@ -145,7 +145,7 @@ requirements:
     - pyzmq =26.0.3 =py38ha44f8e3_0
     - qt-main =5.15.8 =ha2b5568_22
     - readline =8.2 =h8228510_1
-    - setuptools =70.1.0 =pyhd8ed1ab_0
+    - setuptools =70.1.1 =pyhd8ed1ab_0
     - sip =6.7.12 =py38h17151c0_0
     - six =1.16.0 =pyh6c4a22f_0
     - stack_data =0.6.2 =pyhd8ed1ab_0

@@ -44,8 +44,8 @@ requirements:
     - gst-plugins-base =1.24.5 =hb0a98b8_0
     - gstreamer =1.24.5 =h5006eae_0
     - icu =73.2 =h63175ca_0
-    - importlib-metadata =7.2.1 =pyha770c72_0
-    - importlib_metadata =7.2.1 =hd8ed1ab_0
+    - importlib-metadata =8.0.0 =pyha770c72_0
+    - importlib_metadata =8.0.0 =hd8ed1ab_0
     - ipykernel =6.29.4 =pyh4bbf305_0
     - ipython =8.18.1 =pyh7428d3b_3
     - jedi =0.19.1 =pyhd8ed1ab_0
@@ -59,7 +59,7 @@ requirements:
     - libintl =0.22.5 =h5728263_2
     - libintl-devel =0.22.5 =h5728263_2
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
-    - libogg =1.3.4 =h8ffe710_1
+    - libogg =1.3.5 =h2466b09_0
     - libpng =1.6.43 =h19919ed_0
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.46.0 =h2466b09_0
@@ -85,7 +85,7 @@ requirements:
     - pywin32 =306 =py39h99910a6_2
     - pyzmq =26.0.3 =py39h03e5c00_0
     - qt-main =5.15.8 =h06adc49_22
-    - setuptools =70.1.0 =pyhd8ed1ab_0
+    - setuptools =70.1.1 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h99910a6_0
     - six =1.16.0 =pyh6c4a22f_0
     - stack_data =0.6.2 =pyhd8ed1ab_0

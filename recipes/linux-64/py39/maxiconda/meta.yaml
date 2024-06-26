@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py39hd1e30aa_0
     - cython =3.0.10 =py39h3d6467e_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.103.5 =pyha770c72_0
+    - hypothesis =6.104.0 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - matplotlib =3.8.4 =py39hf3d152e_2
@@ -150,9 +150,9 @@ requirements:
     - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =73.2 =h59595ed_0
     - idna =3.7 =pyhd8ed1ab_0
-    - importlib-metadata =7.2.1 =pyha770c72_0
+    - importlib-metadata =8.0.0 =pyha770c72_0
     - importlib-resources =6.4.0 =pyhd8ed1ab_0
-    - importlib_metadata =7.2.1 =hd8ed1ab_0
+    - importlib_metadata =8.0.0 =hd8ed1ab_0
     - importlib_resources =6.4.0 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
     - ipykernel =6.29.4 =pyh3099207_0
@@ -217,7 +217,7 @@ requirements:
     - libllvm18 =18.1.8 =hc9dba70_0
     - libnghttp2 =1.58.0 =h47da74e_1
     - libnsl =2.0.1 =hd590300_0
-    - libogg =1.3.4 =h7f98852_1
+    - libogg =1.3.5 =h4ab18f5_0
     - libopenblas =0.3.27 =pthreads_h413a1c8_0
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.43 =h2797004_0
@@ -267,7 +267,7 @@ requirements:
     - openssl =3.3.1 =h4ab18f5_0
     - overrides =7.7.0 =pyhd8ed1ab_0
     - packaging =24.1 =pyhd8ed1ab_0
-    - pandoc =3.2 =ha770c72_0
+    - pandoc =3.2.1 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.54.0 =h84a9a3c_0
     - parso =0.8.4 =pyhd8ed1ab_0
@@ -415,7 +415,7 @@ requirements:
     - r-prettyunits =1.2.0 =r43hc72bb7e_0
     - r-proc =1.18.5 =r43ha503ecb_0
     - r-processx =3.8.4 =r43h57805ef_0
-    - r-prodlim =2023.08.28 =r43ha503ecb_0
+    - r-prodlim =2024.06.25 =r43ha18555a_0
     - r-progress =1.2.3 =r43hc72bb7e_0
     - r-progressr =0.14.0 =r43hc72bb7e_0
     - r-promises =1.3.0 =r43ha503ecb_0
@@ -496,7 +496,7 @@ requirements:
     - sed =4.8 =he412f7d_0
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.3 =pyh0d859eb_0
-    - setuptools =70.1.0 =pyhd8ed1ab_0
+    - setuptools =70.1.1 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h3d6467e_0
     - six =1.16.0 =pyh6c4a22f_0
     - sniffio =1.3.1 =pyhd8ed1ab_0
