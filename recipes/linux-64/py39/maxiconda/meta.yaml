@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py39hd1e30aa_0
     - cython =3.0.10 =py39h3d6467e_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.104.0 =pyha770c72_0
+    - hypothesis =6.104.1 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - matplotlib =3.8.4 =py39hf3d152e_2
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 489 secondary packages :
+    # 490 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -107,7 +107,7 @@ requirements:
     - curl =8.8.0 =he654da7_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
-    - debugpy =1.8.1 =py39h3d6467e_0
+    - debugpy =1.8.2 =py39h84cc369_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
@@ -169,7 +169,7 @@ requirements:
     - jupyter_events =0.10.0 =pyhd8ed1ab_0
     - jupyter_server =2.14.1 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_0
-    - jupyterlab =4.2.2 =pyhd8ed1ab_0
+    - jupyterlab =4.2.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - jupyterlab_server =2.27.2 =pyhd8ed1ab_0
     - kernel-headers_linux-64 =3.10.0 =h4a8ded7_14
@@ -201,14 +201,14 @@ requirements:
     - libflac =1.4.3 =h59595ed_0
     - libgcc-devel_linux-64 =13.2.0 =hdb50d1a_113
     - libgcc-ng =13.2.0 =h77fa898_13
-    - libgcrypt =1.10.3 =hd590300_0
+    - libgcrypt =1.11.0 =h4ab18f5_0
     - libgettextpo =0.22.5 =h59595ed_2
     - libgettextpo-devel =0.22.5 =h59595ed_2
     - libgfortran-ng =13.2.0 =h69a702a_13
     - libgfortran5 =13.2.0 =h3d2ce59_13
     - libglib =2.80.2 =h8a4344b_1
     - libgomp =13.2.0 =h77fa898_13
-    - libgpg-error =1.49 =h4f305b6_0
+    - libgpg-error =1.50 =h4f305b6_0
     - libiconv =1.17 =hd590300_2
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =22_linux64_openblas
@@ -264,7 +264,7 @@ requirements:
     - nspr =4.35 =h27087fc_0
     - nss =3.101 =h593d115_0
     - openjpeg =2.5.2 =h488ebb8_0
-    - openssl =3.3.1 =h4ab18f5_0
+    - openssl =3.3.1 =h4ab18f5_1
     - overrides =7.7.0 =pyhd8ed1ab_0
     - packaging =24.1 =pyhd8ed1ab_0
     - pandoc =3.2.1 =ha770c72_0
@@ -348,7 +348,7 @@ requirements:
     - r-fontawesome =0.5.2 =r43hc72bb7e_0
     - r-forcats =1.0.0 =r43hc72bb7e_1
     - r-foreach =1.5.2 =r43hc72bb7e_2
-    - r-foreign =0.8_86 =r43h57805ef_0
+    - r-foreign =0.8_87 =r43hb1dbf0f_0
     - r-formatr =1.14 =r43hc72bb7e_1
     - r-fs =1.6.4 =r43ha18555a_0
     - r-future =1.33.2 =r43h785f33e_0
@@ -521,7 +521,7 @@ requirements:
     - tzdata =2024a =h0c530f3_0
     - unicodedata2 =15.1.0 =py39hd1e30aa_0
     - uri-template =1.3.0 =pyhd8ed1ab_0
-    - urllib3 =2.2.2 =pyhd8ed1ab_0
+    - urllib3 =2.2.2 =pyhd8ed1ab_1
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - webcolors =24.6.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
@@ -553,6 +553,7 @@ requirements:
     - zeromq =4.3.5 =h75354e8_4
     - zipp =3.19.2 =pyhd8ed1ab_0
     - zlib =1.3.1 =h4ab18f5_1
+    - zstandard =0.22.0 =py39h81c9582_1
     - zstd =1.5.6 =ha6fb4c9_0
 
 about:

@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.31 =py39ha55e580_0
     - twisted =24.3.0 =py39ha55989b_0
 
-    # 109 secondary packages :
+    # 113 secondary packages :
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - asgiref =3.8.1 =pyhd8ed1ab_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
@@ -54,7 +54,7 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - cryptography =42.0.8 =py39hae46aff_0
-    - debugpy =1.8.1 =py39h99910a6_0
+    - debugpy =1.8.2 =py39ha51f57c_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - exceptiongroup =1.2.0 =pyhd8ed1ab_2
     - executing =2.0.1 =pyhd8ed1ab_0
@@ -63,6 +63,9 @@ requirements:
     - greenlet =3.0.3 =py39h99910a6_0
     - gst-plugins-base =1.24.5 =hb0a98b8_0
     - gstreamer =1.24.5 =h5006eae_0
+    - h2 =4.1.0 =py39hcbf5309_0
+    - hpack =4.0.0 =pyh9f0ad1d_0
+    - hyperframe =6.0.1 =pyhd8ed1ab_0
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =73.2 =h63175ca_0
     - idna =3.7 =pyhd8ed1ab_0
@@ -91,7 +94,7 @@ requirements:
     - markupsafe =2.1.5 =py39ha55989b_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
-    - openssl =3.3.1 =h2466b09_0
+    - openssl =3.3.1 =h2466b09_1
     - packaging =24.1 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pcre2 =10.44 =h3d7b363_0
@@ -132,7 +135,7 @@ requirements:
     - typing_extensions =4.12.2 =pyha770c72_0
     - tzdata =2024a =h0c530f3_0
     - ucrt =10.0.22621.0 =h57928b3_0
-    - urllib3 =2.2.2 =pyhd8ed1ab_0
+    - urllib3 =2.2.2 =pyhd8ed1ab_1
     - vc =14.3 =h8a93ad2_20
     - vc14_runtime =14.40.33810 =ha82c5b3_20
     - vs2015_runtime =14.40.33810 =h3bf8584_20
@@ -144,6 +147,7 @@ requirements:
     - zeromq =4.3.5 =he1f189c_4
     - zipp =3.19.2 =pyhd8ed1ab_0
     - zope.interface =6.4.post2 =py39ha55e580_0
+    - zstandard =0.22.0 =py39h9bf74da_1
     - zstd =1.5.6 =h0ea2cb4_0
 
 about:

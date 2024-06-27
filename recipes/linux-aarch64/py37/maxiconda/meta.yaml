@@ -183,14 +183,14 @@ requirements:
     - libflac =1.4.3 =h2f0025b_0
     - libgcc-devel_linux-aarch64 =13.2.0 =hd381d16_113
     - libgcc-ng =13.2.0 =he277a41_13
-    - libgcrypt =1.10.3 =h31becfc_0
+    - libgcrypt =1.11.0 =h68df207_0
     - libgettextpo =0.22.5 =h2f0025b_2
     - libgettextpo-devel =0.22.5 =h2f0025b_2
     - libgfortran-ng =13.2.0 =he9431aa_13
     - libgfortran5 =13.2.0 =h2af0866_13
     - libglib =2.78.1 =h0464669_0
     - libgomp =13.2.0 =he277a41_13
-    - libgpg-error =1.49 =hb13efb6_0
+    - libgpg-error =1.50 =hb13efb6_0
     - libiconv =1.17 =h31becfc_2
     - liblapack =3.9.0 =20_linuxaarch64_openblas
     - libllvm11 =11.1.0 =hb2805f8_5
@@ -327,7 +327,7 @@ requirements:
     - r-fontawesome =0.5.2 =r42hc72bb7e_0
     - r-forcats =1.0.0 =r42hc72bb7e_1
     - r-foreach =1.5.2 =r42hc72bb7e_2
-    - r-foreign =0.8_86 =r42h25e906a_0
+    - r-foreign =0.8_87 =r42hc1cf72c_0
     - r-formatr =1.14 =r42hc72bb7e_1
     - r-fs =1.6.4 =r42h6170684_0
     - r-future =1.33.2 =r42h785f33e_0
@@ -487,7 +487,7 @@ requirements:
     - typing_extensions =4.7.1 =pyha770c72_0
     - tzdata =2024a =h0c530f3_0
     - unicodedata2 =14.0.0 =py37h795501a_1
-    - urllib3 =2.2.2 =pyhd8ed1ab_0
+    - urllib3 =2.2.1 =pyhd8ed1ab_0
     - wcwidth =0.2.10 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - websocket-client =1.6.1 =pyhd8ed1ab_0

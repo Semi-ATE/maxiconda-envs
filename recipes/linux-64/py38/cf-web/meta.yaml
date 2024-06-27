@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.31 =py38hfb59056_0
     - twisted =24.3.0 =py38h01eb140_0
 
-    # 184 secondary packages :
+    # 188 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.12 =h4ab18f5_0
@@ -61,7 +61,7 @@ requirements:
     - constantly =15.1.0 =py_0
     - cryptography =42.0.8 =py38h1407eca_0
     - dbus =1.13.6 =h5008d03_3
-    - debugpy =1.8.1 =py38h17151c0_0
+    - debugpy =1.8.2 =py38h854fd01_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - executing =2.0.1 =pyhd8ed1ab_0
     - expat =2.6.2 =h59595ed_0
@@ -81,7 +81,10 @@ requirements:
     - greenlet =3.0.3 =py38h17151c0_0
     - gst-plugins-base =1.24.5 =hbaaba92_0
     - gstreamer =1.24.5 =haf2f30d_0
+    - h2 =4.1.0 =py38h578d9bd_0
     - harfbuzz =8.5.0 =hfac3d4d_0
+    - hpack =4.0.0 =pyh9f0ad1d_0
+    - hyperframe =6.0.1 =pyhd8ed1ab_0
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =73.2 =h59595ed_0
     - idna =3.7 =pyhd8ed1ab_0
@@ -109,12 +112,12 @@ requirements:
     - libffi =3.4.2 =h7f98852_5
     - libflac =1.4.3 =h59595ed_0
     - libgcc-ng =13.2.0 =h77fa898_13
-    - libgcrypt =1.10.3 =hd590300_0
+    - libgcrypt =1.11.0 =h4ab18f5_0
     - libgettextpo =0.22.5 =h59595ed_2
     - libgettextpo-devel =0.22.5 =h59595ed_2
     - libglib =2.80.2 =h8a4344b_1
     - libgomp =13.2.0 =h77fa898_13
-    - libgpg-error =1.49 =h4f305b6_0
+    - libgpg-error =1.50 =h4f305b6_0
     - libiconv =1.17 =hd590300_2
     - libjpeg-turbo =3.0.0 =hd590300_1
     - libllvm15 =15.0.7 =hb3ce162_4
@@ -146,7 +149,7 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - nspr =4.35 =h27087fc_0
     - nss =3.101 =h593d115_0
-    - openssl =3.3.1 =h4ab18f5_0
+    - openssl =3.3.1 =h4ab18f5_1
     - packaging =24.1 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pcre2 =10.44 =h0f59acf_0
@@ -191,7 +194,7 @@ requirements:
     - typing-extensions =4.12.2 =hd8ed1ab_0
     - typing_extensions =4.12.2 =pyha770c72_0
     - tzdata =2024a =h0c530f3_0
-    - urllib3 =2.2.2 =pyhd8ed1ab_0
+    - urllib3 =2.2.2 =pyhd8ed1ab_1
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - wheel =0.43.0 =pyhd8ed1ab_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
@@ -219,6 +222,7 @@ requirements:
     - zipp =3.19.2 =pyhd8ed1ab_0
     - zlib =1.3.1 =h4ab18f5_1
     - zope.interface =6.4.post2 =py38hfb59056_0
+    - zstandard =0.22.0 =py38he8230f0_1
     - zstd =1.5.6 =ha6fb4c9_0
 
 about:

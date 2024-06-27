@@ -36,7 +36,7 @@ requirements:
     - scipy =1.10.1 =py38h038e806_3
     - spyder-kernels =2.5.2 =unix_pyh707e725_0
 
-    # 197 secondary packages :
+    # 203 secondary packages :
     - appnope =0.1.4 =pyhd8ed1ab_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -51,6 +51,7 @@ requirements:
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.0 =hc6c324b_2
     - certifi =2024.6.2 =pyhd8ed1ab_0
+    - cffi =1.16.0 =py38h73f40f7_0
     - cftime =1.6.4 =py38h9f76b62_0
     - chardet =5.2.0 =py38h10201cd_1
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
@@ -59,7 +60,7 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h9afee92_1
     - cycler =0.12.1 =pyhd8ed1ab_0
-    - debugpy =1.8.1 =py38hb9fa5a8_0
+    - debugpy =1.8.2 =py38h11842c7_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - executing =2.0.1 =pyhd8ed1ab_0
     - expat =2.6.2 =hebf3989_0
@@ -83,9 +84,12 @@ requirements:
     - gsd =3.3.0 =py38h9f76b62_0
     - gst-plugins-base =1.24.5 =h40577aa_0
     - gstreamer =1.24.5 =h430e707_0
+    - h2 =4.1.0 =pyhd8ed1ab_0
     - h5py =3.11.0 =nompi_py38h70800c8_102
     - hdf4 =4.2.15 =h2ee6834_7
     - hdf5 =1.14.3 =nompi_hec07895_105
+    - hpack =4.0.0 =pyh9f0ad1d_0
+    - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =73.2 =hc8870d7_0
     - idna =3.7 =pyhd8ed1ab_0
     - importlib-metadata =8.0.0 =pyha770c72_0
@@ -164,7 +168,7 @@ requirements:
     - nspr =4.35 =hb7217d7_0
     - nss =3.101 =hc42bcbf_0
     - openjpeg =2.5.2 =h9f1df11_0
-    - openssl =3.3.1 =hfb2fe0b_0
+    - openssl =3.3.1 =hfb2fe0b_1
     - packaging =24.1 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0
@@ -186,6 +190,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycairo =1.26.1 =py38he394224_0
+    - pycparser =2.22 =pyhd8ed1ab_0
     - pyedr =0.7.2 =pyhd8ed1ab_0
     - pygments =2.18.0 =pyhd8ed1ab_0
     - pyparsing =3.1.2 =pyhd8ed1ab_0
@@ -223,7 +228,7 @@ requirements:
     - typing-extensions =4.12.2 =hd8ed1ab_0
     - typing_extensions =4.12.2 =pyha770c72_0
     - unicodedata2 =15.1.0 =py38hb192615_0
-    - urllib3 =2.2.2 =pyhd8ed1ab_0
+    - urllib3 =2.2.2 =pyhd8ed1ab_1
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - wheel =0.43.0 =pyhd8ed1ab_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
@@ -233,6 +238,7 @@ requirements:
     - zeromq =4.3.5 =hcc0f68c_4
     - zipp =3.19.2 =pyhd8ed1ab_0
     - zlib =1.3.1 =hfb2fe0b_1
+    - zstandard =0.22.0 =py38h43bb1b3_1
     - zstd =1.5.6 =hb46c0d2_0
 
 about:

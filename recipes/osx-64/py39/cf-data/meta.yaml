@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =2.0.0 =py39h6e9494a_0
     - pyqt =5.15.9 =py39h3dce684_5
-    - pytorch =2.3.1 =cpu_mkl_py39hf1540a8_100
+    - pytorch =2.3.1 =cpu_mkl_py39hf1540a8_101
     - scikit-learn =1.5.0 =py39hf6a2366_1
     - scipy =1.13.1 =py39h038d4f4_0
     - scrapy =2.11.2 =py39h6e9494a_0
@@ -109,7 +109,7 @@ requirements:
     - cython-blis =0.7.10 =py39hd01001f_2
     - databricks-cli =0.17.8 =pyhd8ed1ab_0
     - datefinder =0.7.3 =pyhd8ed1ab_0
-    - debugpy =1.8.1 =py39hd253f6c_0
+    - debugpy =1.8.2 =py39h09c4c31_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - docker-py =7.1.0 =pyhd8ed1ab_0
@@ -243,7 +243,7 @@ requirements:
     - libssh2 =1.11.0 =hd019ec5_0
     - libthrift =0.19.0 =h064b379_1
     - libtiff =4.6.0 =h129831d_3
-    - libtorch =2.3.1 =cpu_mkl_hc3937cb_100
+    - libtorch =2.3.1 =cpu_mkl_hc3937cb_101
     - libutf8proc =2.8.0 =hb7f2c08_0
     - libuv =1.48.0 =h67532ce_0
     - libvorbis =1.3.7 =h046ec9c_0
@@ -289,7 +289,7 @@ requirements:
     - numexpr =2.10.0 =py39hbb604f3_0
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.2 =h7310d3a_0
-    - openssl =3.3.1 =h87427d6_0
+    - openssl =3.3.1 =h87427d6_1
     - orc =2.0.1 =hf43e91b_1
     - packaging =24.1 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0

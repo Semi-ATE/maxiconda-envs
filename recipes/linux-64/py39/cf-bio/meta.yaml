@@ -60,7 +60,7 @@ requirements:
     - contourpy =1.2.1 =py39h7633fee_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
-    - debugpy =1.8.1 =py39h3d6467e_0
+    - debugpy =1.8.2 =py39h84cc369_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - exceptiongroup =1.2.0 =pyhd8ed1ab_2
     - executing =2.0.1 =pyhd8ed1ab_0
@@ -133,7 +133,7 @@ requirements:
     - libffi =3.4.2 =h7f98852_5
     - libflac =1.4.3 =h59595ed_0
     - libgcc-ng =13.2.0 =h77fa898_13
-    - libgcrypt =1.10.3 =hd590300_0
+    - libgcrypt =1.11.0 =h4ab18f5_0
     - libgettextpo =0.22.5 =h59595ed_2
     - libgettextpo-devel =0.22.5 =h59595ed_2
     - libgfortran-ng =13.2.0 =h69a702a_13
@@ -141,7 +141,7 @@ requirements:
     - libglib =2.80.2 =h8a4344b_1
     - libglu =9.0.0 =ha6d2627_1004
     - libgomp =13.2.0 =h77fa898_13
-    - libgpg-error =1.49 =h4f305b6_0
+    - libgpg-error =1.50 =h4f305b6_0
     - libiconv =1.17 =hd590300_2
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =22_linux64_openblas
@@ -189,7 +189,7 @@ requirements:
     - nspr =4.35 =h27087fc_0
     - nss =3.101 =h593d115_0
     - openjpeg =2.5.2 =h488ebb8_0
-    - openssl =3.3.1 =h4ab18f5_0
+    - openssl =3.3.1 =h4ab18f5_1
     - packaging =24.1 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0

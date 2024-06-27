@@ -35,7 +35,7 @@ requirements:
     - spyder =5.5.5 =py39h2804cbe_0
     - sympy =1.12.1 =pypyh2585a3b_103
 
-    # 252 secondary packages :
+    # 258 secondary packages :
     - alabaster =0.7.16 =pyhd8ed1ab_0
     - applaunchservices =0.3.0 =pyh534df25_3
     - appnope =0.1.4 =pyhd8ed1ab_0
@@ -58,6 +58,7 @@ requirements:
     - bzip2 =1.0.8 =h93a5062_5
     - ca-certificates =2024.6.2 =hf0a4a13_0
     - certifi =2024.6.2 =pyhd8ed1ab_0
+    - cffi =1.16.0 =py39he153c15_0
     - chardet =5.2.0 =py39h2804cbe_1
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - click =8.1.7 =unix_pyh707e725_0
@@ -67,7 +68,7 @@ requirements:
     - contourpy =1.2.1 =py39h48c5dd5_0
     - cookiecutter =2.6.0 =pyhca7485f_0
     - cycler =0.12.1 =pyhd8ed1ab_0
-    - debugpy =1.8.1 =py39hf3050f2_0
+    - debugpy =1.8.2 =py39hbf7db11_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - diff-match-patch =20230430 =pyhd8ed1ab_0
@@ -87,6 +88,9 @@ requirements:
     - gmpy2 =2.1.5 =py39h9bb7c0c_1
     - gst-plugins-base =1.24.5 =h40577aa_0
     - gstreamer =1.24.5 =h430e707_0
+    - h2 =4.1.0 =pyhd8ed1ab_0
+    - hpack =4.0.0 =pyh9f0ad1d_0
+    - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =73.2 =hc8870d7_0
     - idna =3.7 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
@@ -178,7 +182,7 @@ requirements:
     - nss =3.101 =hc42bcbf_0
     - numpydoc =1.7.0 =pyhd8ed1ab_1
     - openjpeg =2.5.2 =h9f1df11_0
-    - openssl =3.3.1 =hfb2fe0b_0
+    - openssl =3.3.1 =hfb2fe0b_1
     - packaging =24.1 =pyhd8ed1ab_0
     - pandoc =3.2.1 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -199,10 +203,11 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycodestyle =2.11.1 =pyhd8ed1ab_0
+    - pycparser =2.22 =pyhd8ed1ab_0
     - pydocstyle =6.3.0 =pyhd8ed1ab_0
     - pyflakes =3.2.0 =pyhd8ed1ab_0
     - pygments =2.18.0 =pyhd8ed1ab_0
-    - pylint =3.2.3 =pyhd8ed1ab_0
+    - pylint =3.2.4 =pyhd8ed1ab_0
     - pylint-venv =3.0.3 =pyhd8ed1ab_0
     - pyls-spyder =0.4.0 =pyhd8ed1ab_0
     - pyobjc-core =10.3.1 =py39h336d860_0
@@ -273,7 +278,7 @@ requirements:
     - tzdata =2024a =h0c530f3_0
     - ujson =5.10.0 =py39hbf7db11_0
     - unicodedata2 =15.1.0 =py39h0f82c59_0
-    - urllib3 =2.2.2 =pyhd8ed1ab_0
+    - urllib3 =2.2.2 =pyhd8ed1ab_1
     - watchdog =4.0.1 =py39hfea33bf_0
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
@@ -287,6 +292,7 @@ requirements:
     - yapf =0.40.1 =pyhd8ed1ab_0
     - zeromq =4.3.5 =hcc0f68c_4
     - zipp =3.19.2 =pyhd8ed1ab_0
+    - zstandard =0.22.0 =py39h0b77d07_1
     - zstd =1.5.6 =hb46c0d2_0
 
 about:
