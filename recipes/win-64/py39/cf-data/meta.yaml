@@ -47,7 +47,7 @@ requirements:
 
     # 350 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
-    - alembic =1.13.1 =pyhd8ed1ab_1
+    - alembic =1.13.2 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
@@ -165,7 +165,7 @@ requirements:
     - jupyterlab_widgets =3.0.11 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py39h1f6ef14_1
     - kmodes =0.12.2 =pyhd8ed1ab_0
-    - krb5 =1.21.2 =heb0366b_0
+    - krb5 =1.21.3 =hdf4eb48_0
     - langcodes =3.4.0 =pyhd8ed1ab_0
     - language-data =1.2.0 =pyhd8ed1ab_0
     - lcms2 =2.16 =h67d730c_0
@@ -277,8 +277,8 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py39hd3de297_0
-    - pyarrow =16.1.0 =py39hcb5f9c0_3
-    - pyarrow-core =16.1.0 =py39hf8bb1d3_3_cpu
+    - pyarrow =16.1.0 =py39hcb5f9c0_4
+    - pyarrow-core =16.1.0 =py39hf8bb1d3_4_cpu
     - pyasn1 =0.6.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.4.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -303,7 +303,7 @@ requirements:
     - python-tzdata =2024.1 =pyhd8ed1ab_0
     - python_abi =3.9 =4_cp39
     - pytz =2024.1 =pyhd8ed1ab_0
-    - pywavelets =1.4.1 =py39hd88c2e4_1
+    - pywavelets =1.6.0 =py39h4b0a98a_0
     - pywin32 =306 =py39h99910a6_2
     - pywin32-on-windows =0.1.0 =pyh07e9846_2
     - pyyaml =6.0.1 =py39ha55989b_1

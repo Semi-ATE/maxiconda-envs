@@ -48,7 +48,7 @@ requirements:
 
     # 377 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
-    - alembic =1.13.1 =pyhd8ed1ab_1
+    - alembic =1.13.2 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.4 =pyhd8ed1ab_0
@@ -129,7 +129,7 @@ requirements:
     - fonttools =4.53.0 =py39hded5825_0
     - freetype =2.12.1 =h60636b9_2
     - fribidi =1.0.10 =hbcb3906_0
-    - fsspec =2024.6.0 =pyhff2d567_0
+    - fsspec =2024.6.1 =pyhff2d567_0
     - fst-pso =1.8.1 =pyhd8ed1ab_0
     - funcy =2.0 =pyhd8ed1ab_0
     - future =1.0.0 =pyhd8ed1ab_0
@@ -182,7 +182,7 @@ requirements:
     - jupyterlab_widgets =3.0.11 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py39h8ee36c8_1
     - kmodes =0.12.2 =pyhd8ed1ab_0
-    - krb5 =1.21.2 =hb884880_0
+    - krb5 =1.21.3 =h37d8d59_0
     - langcodes =3.4.0 =pyhd8ed1ab_0
     - language-data =1.2.0 =pyhd8ed1ab_0
     - lcms2 =2.16 =ha2f27b4_0
@@ -318,8 +318,8 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py39h15c3653_0
-    - pyarrow =16.1.0 =py39h810aed5_3
-    - pyarrow-core =16.1.0 =py39hb064662_3_cpu
+    - pyarrow =16.1.0 =py39h810aed5_4
+    - pyarrow-core =16.1.0 =py39hb064662_4_cpu
     - pyasn1 =0.6.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.4.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -344,7 +344,7 @@ requirements:
     - python-tzdata =2024.1 =pyhd8ed1ab_0
     - python_abi =3.9 =4_cp39
     - pytz =2024.1 =pyhd8ed1ab_0
-    - pywavelets =1.4.1 =py39hd01001f_1
+    - pywavelets =1.6.0 =py39hb943cd9_0
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
     - pyyaml =6.0.1 =py39hdc70f33_1
     - pyzmq =26.0.3 =py39h304b177_0
