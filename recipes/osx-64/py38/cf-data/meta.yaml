@@ -27,7 +27,7 @@ requirements:
     # 20 primary packages :
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - bokeh =3.1.1 =pyhd8ed1ab_0
-    - lightgbm =4.4.0 =py38h11ef825_1
+    - lightgbm =4.4.0 =cpu_py3.8h8749f61_2
     - matplotlib =3.7.3 =py38h50d1736_0
     - numpy =1.24.4 =py38h9a4a08f_0
     - pandas =2.0.3 =py38h78e6021_1
@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.14.1 =py38h7092abf_0
     - xgboost =2.0.3 =cpu_py38h273ab5c_0
 
-    # 379 secondary packages :
+    # 381 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.2 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_0
@@ -180,6 +180,7 @@ requirements:
     - jupyter_client =8.6.2 =pyhd8ed1ab_0
     - jupyter_core =5.7.2 =py38h50d1736_0
     - jupyterlab_widgets =3.0.11 =pyhd8ed1ab_0
+    - khronos-opencl-icd-loader =2023.04.17 =h37ebe6b_1
     - kiwisolver =1.4.5 =py38h15a1a5b_1
     - kmodes =0.12.2 =pyhd8ed1ab_0
     - krb5 =1.21.3 =h37d8d59_0
@@ -195,6 +196,7 @@ requirements:
     - libasprintf =0.22.5 =h5ff76d1_2
     - libasprintf-devel =0.22.5 =h5ff76d1_2
     - libblas =3.9.0 =20_osx64_openblas
+    - libboost =1.84.0 =h739af76_3
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
     - libbrotlienc =1.1.0 =h0dc2134_1
@@ -203,7 +205,7 @@ requirements:
     - libclang13 =18.1.8 =default_h9ff962c_0
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.8.0 =hf9fcc65_1
-    - libcxx =17.0.6 =h8d2f0da_1
+    - libcxx =17.0.6 =h8d2f0da_2
     - libdeflate =1.20 =h49d49c5_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =h10d778d_2

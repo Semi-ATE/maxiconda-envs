@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py39ha09f3b3_0
     - cython =3.0.10 =py39hd253f6c_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.104.1 =pyha770c72_0
+    - hypothesis =6.104.2 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - matplotlib =3.8.4 =py39h6e9494a_2
@@ -189,7 +189,7 @@ requirements:
     - libclang-cpp18.1 =18.1.8 =default_h0c94c6a_0
     - libclang13 =18.1.8 =default_h9ff962c_0
     - libcurl =8.8.0 =hf9fcc65_1
-    - libcxx =17.0.6 =h8d2f0da_1
+    - libcxx =17.0.6 =h8d2f0da_2
     - libdeflate =1.20 =h49d49c5_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =h10d778d_2
@@ -461,12 +461,12 @@ requirements:
     - r-vctrs =0.6.5 =r43h64b2c41_0
     - r-viridislite =0.4.2 =r43hc72bb7e_1
     - r-vroom =1.6.5 =r43h64b2c41_0
-    - r-withr =3.0.0 =r43hc72bb7e_0
-    - r-xfun =0.45 =r43h25d921d_0
+    - r-withr =3.0.0 =r43hc72bb7e_1
+    - r-xfun =0.45 =r43h25d921d_1
     - r-xml2 =1.3.6 =r43h3031e3b_1
     - r-xtable =1.8_4 =r43hc72bb7e_5
     - r-xts =0.14.0 =r43h6b9d099_0
-    - r-yaml =2.3.8 =r43hb2c329c_0
+    - r-yaml =2.3.8 =r43h6b9d099_1
     - r-zoo =1.8_12 =r43h6dc245f_1
     - rapidfuzz =3.9.3 =py39h09c4c31_0
     - readline =8.2 =h9e318b2_1

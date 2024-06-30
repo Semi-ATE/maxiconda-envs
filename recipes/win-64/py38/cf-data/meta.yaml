@@ -27,7 +27,7 @@ requirements:
     # 19 primary packages :
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - bokeh =3.1.1 =pyhd8ed1ab_0
-    - lightgbm =4.4.0 =py38h2698bfa_1
+    - lightgbm =4.4.0 =cpu_py3.8h1be1278_2
     - matplotlib =3.7.3 =py38haa244fe_0
     - numpy =1.24.4 =py38h1d91fd2_0
     - pandas =2.0.3 =py38hf08cf0d_1
@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.1 =py38he7056a7_0
     - xgboost =2.0.3 =cpu_py38h684852a_0
 
-    # 352 secondary packages :
+    # 354 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.2 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_0
@@ -163,6 +163,7 @@ requirements:
     - jupyter_client =8.6.2 =pyhd8ed1ab_0
     - jupyter_core =5.7.2 =py38haa244fe_0
     - jupyterlab_widgets =3.0.11 =pyhd8ed1ab_0
+    - khronos-opencl-icd-loader =2023.04.17 =h64bf75a_1
     - kiwisolver =1.4.5 =py38hb1fd069_1
     - kmodes =0.12.2 =pyhd8ed1ab_0
     - krb5 =1.21.3 =hdf4eb48_0
@@ -176,6 +177,7 @@ requirements:
     - libarrow-dataset =16.1.0 =he0c23c2_10_cpu
     - libarrow-substrait =16.1.0 =h1f0e801_10_cpu
     - libblas =3.9.0 =22_win64_mkl
+    - libboost =1.84.0 =h9a677ad_3
     - libbrotlicommon =1.1.0 =hcfcfb64_1
     - libbrotlidec =1.1.0 =hcfcfb64_1
     - libbrotlienc =1.1.0 =hcfcfb64_1
