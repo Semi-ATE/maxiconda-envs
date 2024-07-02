@@ -26,17 +26,17 @@ requirements:
 
     # 10 primary packages :
     - biopython =1.83 =py39ha55989b_0
-    - matplotlib =3.8.4 =py39hcbf5309_2
+    - matplotlib =3.9.0 =py39hcbf5309_0
     - mdanalysis =2.7.0 =py39h32e6231_1
     - numpy =1.26.4 =py39hddb5d58_0
     - pandas =2.2.2 =py39h2366fc2_1
     - pymol-open-source =3.0.0 =py39heacc828_8
     - pyqt =5.15.9 =py39hb77abff_5
-    - rdkit =2024.03.3 =py39h670e38e_0
+    - rdkit =2024.03.4 =py39h670e38e_0
     - scipy =1.13.1 =py39h1a10956_0
     - spyder-kernels =2.5.2 =win_pyh7428d3b_0
 
-    # 181 secondary packages :
+    # 182 secondary packages :
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - blosc =1.21.6 =h85f69ea_0
     - brotli =1.1.0 =hcfcfb64_1
@@ -88,7 +88,7 @@ requirements:
     - importlib_metadata =8.0.0 =hd8ed1ab_0
     - importlib_resources =6.4.0 =pyhd8ed1ab_0
     - intel-openmp =2024.1.0 =h57928b3_966
-    - ipykernel =6.29.4 =pyh4bbf305_0
+    - ipykernel =6.29.5 =pyh4bbf305_0
     - ipython =8.18.1 =pyh7428d3b_3
     - jedi =0.19.1 =pyhd8ed1ab_0
     - joblib =1.4.2 =pyhd8ed1ab_0
@@ -137,7 +137,7 @@ requirements:
     - m2w64-gcc-libs-core =5.3.0 =7
     - m2w64-gmp =6.1.0 =2
     - m2w64-libwinpthread-git =5.0.0.4634.697f757 =2
-    - matplotlib-base =3.8.4 =py39he1095e7_2
+    - matplotlib-base =3.9.0 =py39h5376392_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mda-xdrlib =0.2.0 =pyhd8ed1ab_0
     - mkl =2024.1.0 =h66d3029_692
@@ -179,6 +179,7 @@ requirements:
     - pytz =2024.1 =pyhd8ed1ab_0
     - pywin32 =306 =py39h99910a6_2
     - pyzmq =26.0.3 =py39h03e5c00_0
+    - qhull =2020.2 =h70d2c02_2
     - qt-main =5.15.8 =h06adc49_22
     - reportlab =4.2.2 =py39ha55e580_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0

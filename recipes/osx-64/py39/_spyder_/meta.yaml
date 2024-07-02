@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =3.0.10 =py39hd253f6c_0
-    - matplotlib =3.8.4 =py39h6e9494a_2
+    - matplotlib =3.9.0 =py39h6e9494a_0
     - numpy =2.0.0 =py39h3fadf17_0
     - pandas =2.2.2 =py39hbb604f3_1
     - pyqt =5.15.9 =py39h3dce684_5
@@ -35,7 +35,7 @@ requirements:
     - spyder =5.5.5 =py39h6e9494a_0
     - sympy =1.12.1 =pypyh2585a3b_103
 
-    # 258 secondary packages :
+    # 259 secondary packages :
     - alabaster =0.7.16 =pyhd8ed1ab_0
     - applaunchservices =0.3.0 =py39h6e9494a_1
     - appnope =0.1.4 =pyhd8ed1ab_0
@@ -100,7 +100,7 @@ requirements:
     - importlib_resources =6.4.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
-    - ipykernel =6.29.4 =pyh57ce528_0
+    - ipykernel =6.29.5 =pyh57ce528_0
     - ipython =8.18.1 =pyh707e725_3
     - isort =5.13.2 =pyhd8ed1ab_0
     - jaraco.classes =3.4.0 =pyhd8ed1ab_1
@@ -158,7 +158,7 @@ requirements:
     - llvm-openmp =18.1.8 =h15ab845_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py39ha09f3b3_0
-    - matplotlib-base =3.8.4 =py39hfca4cae_2
+    - matplotlib-base =3.9.0 =py39hb2d44f9_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_0
     - mdurl =0.1.2 =pyhd8ed1ab_0
@@ -232,6 +232,7 @@ requirements:
     - pyyaml =6.0.1 =py39hdc70f33_1
     - pyzmq =26.0.3 =py39h304b177_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
+    - qhull =2020.2 =h940c156_2
     - qstylizer =0.2.3 =pyhd8ed1ab_0
     - qt-main =5.15.8 =he8879f6_22
     - qt-webengine =5.15.8 =h5f65913_4

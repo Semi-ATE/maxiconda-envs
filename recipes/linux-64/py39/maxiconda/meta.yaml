@@ -34,21 +34,21 @@ requirements:
     - hypothesis =6.104.2 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.4 =pyhd8ed1ab_0
-    - matplotlib =3.8.4 =py39hf3d152e_2
+    - matplotlib =3.9.0 =py39hf3d152e_0
     - numba =0.60.0 =py39h0320e7d_0
     - numpy =2.0.0 =py39ha0965c0_0
     - openpyxl =3.1.4 =py39hd1e30aa_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.2.2 =py39hfc16268_1
     - psutil =6.0.0 =py39hd3abc70_0
-    - pydantic =2.7.4 =pyhd8ed1ab_0
+    - pydantic =2.8.0 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py39h52134e7_5
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =8.2.2 =pyhd8ed1ab_0
     - pyyaml =6.0.1 =py39hd1e30aa_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qtawesome =1.3.1 =pyh9208f05_0
-    - r-base =4.3.3 =he2d9a6e_7
+    - r-base =4.3.3 =he2d9a6e_8
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2024.5.15 =py39hd3abc70_0
     - requests =2.32.3 =pyhd8ed1ab_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 490 secondary packages :
+    # 491 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -155,7 +155,7 @@ requirements:
     - importlib_metadata =8.0.0 =hd8ed1ab_0
     - importlib_resources =6.4.0 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_0
-    - ipykernel =6.29.4 =pyh3099207_0
+    - ipykernel =6.29.5 =pyh3099207_0
     - isoduration =20.11.0 =pyhd8ed1ab_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - json5 =0.9.25 =pyhd8ed1ab_0
@@ -243,7 +243,7 @@ requirements:
     - lz4-c =1.9.4 =hcb278e6_0
     - make =4.3 =hd18ef5c_1
     - markupsafe =2.1.5 =py39hd1e30aa_0
-    - matplotlib-base =3.8.4 =py39h10d1fc8_2
+    - matplotlib-base =3.9.0 =py39hd75cb13_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mistune =3.0.2 =pyhd8ed1ab_0
     - mpc =1.3.1 =hfe3b2da_0
@@ -290,7 +290,7 @@ requirements:
     - pulseaudio-client =17.0 =hb77b528_0
     - pure_eval =0.2.2 =pyhd8ed1ab_0
     - pycparser =2.22 =pyhd8ed1ab_0
-    - pydantic-core =2.18.4 =py39ha68c5e3_0
+    - pydantic-core =2.20.0 =py39ha68c5e3_0
     - pygments =2.18.0 =pyhd8ed1ab_0
     - pyparsing =3.1.2 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py39h3d6467e_5
@@ -303,6 +303,7 @@ requirements:
     - python_abi =3.9 =4_cp39
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyzmq =26.0.3 =py39ha1047a2_0
+    - qhull =2020.2 =h4bd325d_2
     - qt-main =5.15.8 =ha2b5568_22
     - qtpy =2.4.1 =pyhd8ed1ab_0
     - r-askpass =1.2.0 =r43hb1dbf0f_1
@@ -349,7 +350,7 @@ requirements:
     - r-forcats =1.0.0 =r43hc72bb7e_1
     - r-foreach =1.5.2 =r43hc72bb7e_3
     - r-foreign =0.8_87 =r43hb1dbf0f_1
-    - r-formatr =1.14 =r43hc72bb7e_1
+    - r-formatr =1.14 =r43hc72bb7e_2
     - r-fs =1.6.4 =r43ha18555a_1
     - r-future =1.33.2 =r43h785f33e_1
     - r-future.apply =1.11.2 =r43hc72bb7e_1
@@ -391,7 +392,7 @@ requirements:
     - r-lazyeval =0.2.2 =r43hb1dbf0f_5
     - r-lifecycle =1.0.4 =r43hc72bb7e_0
     - r-listenv =0.9.1 =r43hc72bb7e_1
-    - r-lobstr =1.1.2 =r43ha503ecb_3
+    - r-lobstr =1.1.2 =r43ha18555a_4
     - r-lubridate =1.9.3 =r43h57805ef_0
     - r-magrittr =2.0.3 =r43hb1dbf0f_3
     - r-maps =3.4.2 =r43hb1dbf0f_1
@@ -408,7 +409,7 @@ requirements:
     - r-numderiv =2016.8_1.1 =r43hc72bb7e_6
     - r-openssl =2.2.0 =r43hd7d0243_0
     - r-parallelly =1.37.1 =r43hb1dbf0f_1
-    - r-pbdzmq =0.3_11 =r43hc2df49b_0
+    - r-pbdzmq =0.3_11 =r43h2a40ca3_1
     - r-pillar =1.9.0 =r43hc72bb7e_1
     - r-pkgconfig =2.0.3 =r43hc72bb7e_4
     - r-plyr =1.8.9 =r43ha18555a_1
@@ -452,7 +453,7 @@ requirements:
     - r-shape =1.4.6.1 =r43ha770c72_1
     - r-shiny =1.8.1.1 =r43h785f33e_0
     - r-sourcetools =0.1.7_1 =r43ha18555a_2
-    - r-spatial =7.3_17 =r43h57805ef_0
+    - r-spatial =7.3_17 =r43hb1dbf0f_1
     - r-squarem =2021.1 =r43hc72bb7e_3
     - r-stringi =1.8.4 =r43hbd1cc82_1
     - r-stringr =1.5.1 =r43h785f33e_0

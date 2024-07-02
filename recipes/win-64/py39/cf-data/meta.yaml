@@ -28,7 +28,7 @@ requirements:
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - bokeh =3.4.2 =pyhd8ed1ab_0
     - lightgbm =4.4.0 =cpu_py3.9h17dbb4c_2
-    - matplotlib =3.8.4 =py39hcbf5309_2
+    - matplotlib =3.9.0 =py39hcbf5309_0
     - numpy =1.26.4 =py39hddb5d58_0
     - pandas =2.2.2 =py39h2366fc2_1
     - plotly =5.22.0 =pyhd8ed1ab_0
@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.2 =py39h4b0a98a_0
     - xgboost =2.0.3 =cpu_py39hd3de297_0
 
-    # 352 secondary packages :
+    # 353 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.2 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_0
@@ -137,7 +137,7 @@ requirements:
     - gst-plugins-base =1.24.5 =hb0a98b8_0
     - gstreamer =1.24.5 =h5006eae_0
     - gts =0.7.6 =h6b5321d_4
-    - harfbuzz =8.5.0 =h81778c3_0
+    - harfbuzz =9.0.0 =h81778c3_0
     - htmlmin =0.1.12 =pyhca7485f_2
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =73.2 =h63175ca_0
@@ -150,7 +150,7 @@ requirements:
     - importlib_resources =6.4.0 =pyhd8ed1ab_0
     - incremental =22.10.0 =pyhd8ed1ab_0
     - intel-openmp =2024.1.0 =h57928b3_966
-    - ipykernel =6.29.4 =pyh4bbf305_0
+    - ipykernel =6.29.5 =pyh4bbf305_0
     - ipython =8.18.1 =pyh7428d3b_3
     - ipywidgets =8.1.3 =pyhd8ed1ab_0
     - itemadapter =0.9.0 =pyhd8ed1ab_0
@@ -232,7 +232,7 @@ requirements:
     - markdown =3.6 =pyhd8ed1ab_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py39ha55989b_0
-    - matplotlib-base =3.8.4 =py39he1095e7_2
+    - matplotlib-base =3.9.0 =py39h5376392_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mdurl =0.1.2 =pyhd8ed1ab_0
     - miniful =0.0.6 =pyhd8ed1ab_0
@@ -255,7 +255,7 @@ requirements:
     - orc =2.0.1 =h7e885a9_1
     - packaging =24.1 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
-    - pango =1.54.0 =h2231ffd_0
+    - pango =1.54.0 =hbb871f6_1
     - paramiko =3.4.0 =pyhd8ed1ab_0
     - parsel =1.9.1 =pyhd8ed1ab_2
     - parso =0.8.4 =pyhd8ed1ab_0
@@ -285,8 +285,8 @@ requirements:
     - pyasn1-modules =0.4.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.22 =pyhd8ed1ab_0
-    - pydantic =2.7.4 =pyhd8ed1ab_0
-    - pydantic-core =2.18.4 =py39h92a245a_0
+    - pydantic =2.8.0 =pyhd8ed1ab_0
+    - pydantic-core =2.20.0 =py39h92a245a_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.18.0 =pyhd8ed1ab_0
@@ -310,6 +310,7 @@ requirements:
     - pywin32-on-windows =0.1.0 =pyh07e9846_2
     - pyyaml =6.0.1 =py39ha55989b_1
     - pyzmq =26.0.3 =py39h03e5c00_0
+    - qhull =2020.2 =h70d2c02_2
     - qt-main =5.15.8 =h06adc49_22
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.7.0 =pyhd8ed1ab_1
