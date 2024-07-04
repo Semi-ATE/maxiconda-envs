@@ -27,7 +27,7 @@ requirements:
     # 20 primary packages :
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - bokeh =3.4.2 =pyhd8ed1ab_0
-    - lightgbm =4.4.0 =cpu_py3.9ha5fbf2f_2
+    - lightgbm =4.4.0 =cpu_py3.9ha5fbf2f_3
     - matplotlib =3.9.0 =py39h6e9494a_0
     - numpy =1.26.4 =py39h28c39a1_0
     - pandas =2.2.2 =py39hbb604f3_1
@@ -36,7 +36,7 @@ requirements:
     - pydot =2.0.0 =py39h6e9494a_0
     - pyqt =5.15.9 =py39h3dce684_5
     - pytorch =2.3.1 =cpu_mkl_py39hf1540a8_101
-    - scikit-learn =1.5.0 =py39hf6a2366_1
+    - scikit-learn =1.5.1 =py39hf6a2366_0
     - scipy =1.13.1 =py39h038d4f4_0
     - scrapy =2.11.2 =py39h6e9494a_0
     - seaborn =0.13.2 =hd8ed1ab_2
@@ -205,7 +205,7 @@ requirements:
     - libclang13 =18.1.8 =default_h9ff962c_0
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.8.0 =hf9fcc65_1
-    - libcxx =17.0.6 =h8d2f0da_2
+    - libcxx =17.0.6 =heb59cac_3
     - libdeflate =1.20 =h49d49c5_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =h10d778d_2
@@ -374,7 +374,7 @@ requirements:
     - slicer =0.0.8 =pyhd8ed1ab_0
     - smart_open =6.4.0 =pyhd8ed1ab_0
     - smmap =5.0.0 =pyhd8ed1ab_0
-    - snappy =1.2.0 =h6dc393e_1
+    - snappy =1.2.1 =he1e6707_0
     - soupsieve =2.5 =pyhd8ed1ab_1
     - spacy =3.7.4 =py39h614b560_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0

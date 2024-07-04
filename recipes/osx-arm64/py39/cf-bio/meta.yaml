@@ -25,7 +25,7 @@ requirements:
     - python =3.9.19 =hd7ebdb9_0_cpython
 
     # 10 primary packages :
-    - biopython =1.83 =py39h17cfd9d_0
+    - biopython =1.84 =py39hfea33bf_0
     - matplotlib =3.9.0 =py39hdf13c20_0
     - mdanalysis =2.7.0 =py39h425d09f_1
     - numpy =1.26.4 =py39h7aa2656_0
@@ -110,7 +110,7 @@ requirements:
     - libclang-cpp15 =15.0.7 =default_he012953_5
     - libclang13 =18.1.8 =default_hfc66aa2_0
     - libcurl =8.8.0 =h7b6f9a7_1
-    - libcxx =17.0.6 =he7857fb_2
+    - libcxx =17.0.6 =h0812c0d_3
     - libdeflate =1.20 =h93a5062_0
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libev =4.33 =h93a5062_2
@@ -195,13 +195,13 @@ requirements:
     - readline =8.2 =h92ec313_1
     - reportlab =4.2.2 =py39hfea33bf_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
-    - scikit-learn =1.5.0 =py39h3c33c8b_1
+    - scikit-learn =1.5.1 =py39h3c33c8b_0
     - seaborn =0.13.2 =hd8ed1ab_2
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
     - setuptools =70.1.1 =pyhd8ed1ab_0
     - sip =6.8.3 =py39hf3050f2_0
     - six =1.16.0 =pyh6c4a22f_0
-    - snappy =1.2.0 =hd04f947_1
+    - snappy =1.2.1 =hd02b534_0
     - sqlalchemy =2.0.31 =py39hfea33bf_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.2 =py39h161d348_0

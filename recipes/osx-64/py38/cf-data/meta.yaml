@@ -27,7 +27,7 @@ requirements:
     # 20 primary packages :
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - bokeh =3.1.1 =pyhd8ed1ab_0
-    - lightgbm =4.4.0 =cpu_py3.8h8749f61_2
+    - lightgbm =4.4.0 =cpu_py3.8h8749f61_3
     - matplotlib =3.7.3 =py38h50d1736_0
     - numpy =1.24.4 =py38h9a4a08f_0
     - pandas =2.0.3 =py38h78e6021_1
@@ -205,7 +205,7 @@ requirements:
     - libclang13 =18.1.8 =default_h9ff962c_0
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.8.0 =hf9fcc65_1
-    - libcxx =17.0.6 =h8d2f0da_2
+    - libcxx =17.0.6 =heb59cac_3
     - libdeflate =1.20 =h49d49c5_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =h10d778d_2
@@ -375,7 +375,7 @@ requirements:
     - slicer =0.0.7 =pyhd8ed1ab_0
     - smart_open =6.4.0 =pyhd8ed1ab_0
     - smmap =5.0.0 =pyhd8ed1ab_0
-    - snappy =1.2.0 =h6dc393e_1
+    - snappy =1.2.1 =he1e6707_0
     - soupsieve =2.5 =pyhd8ed1ab_1
     - spacy =3.7.4 =py38ha02b945_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
