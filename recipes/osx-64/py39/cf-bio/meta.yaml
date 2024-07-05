@@ -26,7 +26,7 @@ requirements:
 
     # 10 primary packages :
     - biopython =1.84 =py39hded5825_0
-    - matplotlib =3.9.0 =py39h6e9494a_0
+    - matplotlib =3.8.4 =py39h6e9494a_2
     - mdanalysis =2.7.0 =py39hcc9a0c8_1
     - numpy =1.26.4 =py39h28c39a1_0
     - pandas =2.2.2 =py39hbb604f3_1
@@ -36,7 +36,7 @@ requirements:
     - scipy =1.13.1 =py39h038d4f4_0
     - spyder-kernels =2.5.2 =unix_pyh707e725_0
 
-    # 190 secondary packages :
+    # 189 secondary packages :
     - appnope =0.1.4 =pyhd8ed1ab_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - blosc =1.21.6 =h7d75f6d_0
@@ -44,7 +44,7 @@ requirements:
     - brotli-bin =1.1.0 =h0dc2134_1
     - bzip2 =1.0.8 =h10d778d_5
     - c-ares =1.28.1 =h10d778d_0
-    - ca-certificates =2024.6.2 =h8857fd0_0
+    - ca-certificates =2024.7.4 =h8857fd0_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.0 =h9f650ed_2
@@ -145,7 +145,7 @@ requirements:
     - libzlib =1.3.1 =h87427d6_1
     - llvm-openmp =18.1.8 =h15ab845_0
     - lz4-c =1.9.4 =hf0c8a7f_0
-    - matplotlib-base =3.9.0 =py39hb2d44f9_0
+    - matplotlib-base =3.8.4 =py39hfca4cae_2
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mda-xdrlib =0.2.0 =pyhd8ed1ab_0
     - mmtf-python =1.1.3 =pyhd8ed1ab_0
@@ -159,7 +159,7 @@ requirements:
     - netcdf4 =1.7.1 =nompi_py39h874e418_101
     - networkx =3.2.1 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
-    - nss =3.101 =he7eb89d_0
+    - nss =3.102 =he7eb89d_0
     - openjpeg =2.5.2 =h7310d3a_0
     - openssl =3.3.1 =h87427d6_1
     - packaging =24.1 =pyhd8ed1ab_0
@@ -190,7 +190,6 @@ requirements:
     - pytng =0.3.3 =py39hef4fc2d_0
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyzmq =26.0.3 =py39h304b177_0
-    - qhull =2020.2 =h940c156_2
     - qt-main =5.15.8 =he8879f6_22
     - readline =8.2 =h9e318b2_1
     - reportlab =4.2.2 =py39hded5825_0
