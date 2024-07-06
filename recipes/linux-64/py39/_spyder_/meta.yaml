@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =3.0.10 =py39h3d6467e_0
-    - matplotlib =3.8.4 =py39hf3d152e_2
+    - matplotlib =3.9.0 =py39hf3d152e_0
     - numpy =2.0.0 =py39ha0965c0_0
     - pandas =2.2.2 =py39hfc16268_1
     - pyqt =5.15.9 =py39h52134e7_5
@@ -35,7 +35,7 @@ requirements:
     - spyder =5.5.5 =py39hf3d152e_0
     - sympy =1.12.1 =pypyh2585a3b_103
 
-    # 326 secondary packages :
+    # 327 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.16 =pyhd8ed1ab_0
@@ -196,7 +196,7 @@ requirements:
     - lz4-c =1.9.4 =hcb278e6_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py39hd1e30aa_0
-    - matplotlib-base =3.8.4 =py39h10d1fc8_2
+    - matplotlib-base =3.9.0 =py39hd75cb13_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_0
     - mdurl =0.1.2 =pyhd8ed1ab_0
@@ -269,6 +269,7 @@ requirements:
     - pyyaml =6.0.1 =py39hd1e30aa_1
     - pyzmq =26.0.3 =py39ha1047a2_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
+    - qhull =2020.2 =h4bd325d_2
     - qstylizer =0.2.3 =pyhd8ed1ab_0
     - qt-main =5.15.8 =ha2b5568_22
     - qt-webengine =5.15.8 =h4c5bc8f_7
