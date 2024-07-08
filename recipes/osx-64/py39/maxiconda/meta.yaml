@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py39ha09f3b3_0
     - cython =3.0.10 =py39hd253f6c_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.104.2 =pyha770c72_0
+    - hypothesis =6.105.1 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - matplotlib =3.8.4 =py39h6e9494a_2
@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0.1 =py39hdc70f33_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qtawesome =1.3.1 =pyh9208f05_0
-    - r-base =4.3.3 =h4648a1f_9
+    - r-base =4.3.3 =h4648a1f_10
     - r-essentials =4.3 =r43hd8ed1ab_2004
     - regex =2024.5.15 =py39hded5825_0
     - requests =2.32.3 =pyhd8ed1ab_0
@@ -126,15 +126,15 @@ requirements:
     - fontconfig =2.14.2 =h5bb23bf_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.53.0 =py39hded5825_0
+    - fonttools =4.53.1 =py39hded5825_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.12.1 =h60636b9_2
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.4.1 =py39ha09f3b3_0
     - gfortran_impl_osx-64 =12.3.0 =hc328e78_3
     - gfortran_osx-64 =12.3.0 =h18f7dce_1
-    - glib =2.80.2 =h736d271_1
-    - glib-tools =2.80.2 =h959cb30_1
+    - glib =2.80.3 =h736d271_1
+    - glib-tools =2.80.3 =h959cb30_1
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.1.5 =py39h87b48b1_1
     - graphite2 =1.3.13 =h73e2aa4_1003
@@ -199,7 +199,7 @@ requirements:
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran-devel_osx-64 =12.3.0 =h0b6f5ec_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.80.2 =h736d271_1
+    - libglib =2.80.3 =h736d271_1
     - libiconv =1.17 =hd75f5a5_2
     - libintl =0.22.5 =h5ff76d1_2
     - libintl-devel =0.22.5 =h5ff76d1_2
@@ -316,7 +316,7 @@ requirements:
     - r-cpp11 =0.4.7 =r43hc72bb7e_1
     - r-crayon =1.5.3 =r43hc72bb7e_1
     - r-crul =1.4.2 =r43h785f33e_0
-    - r-curl =5.1.0 =r43h0100ac3_0
+    - r-curl =5.2.1 =r43h7f2c6dc_0
     - r-data.table =1.15.4 =r43hc85ade9_0
     - r-dbi =1.2.3 =r43hc72bb7e_1
     - r-dbplyr =2.5.0 =r43hc72bb7e_0
@@ -424,7 +424,7 @@ requirements:
     - r-rematch =2.0.0 =r43hc72bb7e_1
     - r-rematch2 =2.1.2 =r43hc72bb7e_3
     - r-repr =1.1.7 =r43h785f33e_0
-    - r-reprex =2.1.0 =r43hc72bb7e_0
+    - r-reprex =2.1.1 =r43hc72bb7e_0
     - r-reshape2 =1.4.4 =r43hac7d2d5_3
     - r-rlang =1.1.4 =r43h25d921d_1
     - r-rmarkdown =2.27 =r43hc72bb7e_1
@@ -466,7 +466,7 @@ requirements:
     - r-xml2 =1.3.6 =r43h3031e3b_1
     - r-xtable =1.8_4 =r43hc72bb7e_6
     - r-xts =0.14.0 =r43h6b9d099_1
-    - r-yaml =2.3.8 =r43h6b9d099_1
+    - r-yaml =2.3.9 =r43h6b9d099_0
     - r-zoo =1.8_12 =r43h6b9d099_2
     - rapidfuzz =3.9.4 =py39h09c4c31_0
     - readline =8.2 =h9e318b2_1
