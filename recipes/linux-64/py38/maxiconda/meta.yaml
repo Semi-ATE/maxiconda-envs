@@ -68,7 +68,7 @@ requirements:
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
-    - _sysroot_linux-64_curr_repodata_hack =3 =h69a702a_14
+    - _sysroot_linux-64_curr_repodata_hack =3 =h69a702a_16
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - alsa-lib =1.2.12 =h4ab18f5_0
     - annotated-types =0.7.0 =pyhd8ed1ab_0
@@ -174,7 +174,7 @@ requirements:
     - jupyterlab =4.2.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - jupyterlab_server =2.27.2 =pyhd8ed1ab_0
-    - kernel-headers_linux-64 =3.10.0 =h4a8ded7_14
+    - kernel-headers_linux-64 =3.10.0 =h4a8ded7_16
     - keyutils =1.6.1 =h166bdaf_0
     - kiwisolver =1.4.5 =py38h7f3f72f_1
     - krb5 =1.21.3 =h659f571_0
@@ -500,7 +500,7 @@ requirements:
     - sed =4.8 =he412f7d_0
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.3 =pyh0d859eb_0
-    - setuptools =70.1.1 =pyhd8ed1ab_0
+    - setuptools =70.2.0 =pyhd8ed1ab_0
     - sip =6.7.12 =py38h17151c0_0
     - six =1.16.0 =pyh6c4a22f_0
     - sniffio =1.3.1 =pyhd8ed1ab_0
@@ -508,7 +508,7 @@ requirements:
     - soupsieve =2.5 =pyhd8ed1ab_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - stdlib-list =0.10.0 =pyhd8ed1ab_0
-    - sysroot_linux-64 =2.17 =h4a8ded7_14
+    - sysroot_linux-64 =2.17 =h4a8ded7_16
     - terminado =0.18.1 =pyh0d859eb_0
     - tinycss2 =1.3.0 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_h4845f30_101

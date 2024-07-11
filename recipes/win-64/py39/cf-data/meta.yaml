@@ -28,7 +28,7 @@ requirements:
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - bokeh =3.4.2 =pyhd8ed1ab_0
     - lightgbm =4.4.0 =cpu_py3.9h17dbb4c_3
-    - matplotlib =3.8.4 =py39hcbf5309_2
+    - matplotlib =3.9.1 =py39hcbf5309_0
     - numpy =1.26.4 =py39hddb5d58_0
     - pandas =2.2.2 =py39h2366fc2_1
     - plotly =5.22.0 =pyhd8ed1ab_0
@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.2 =py39h4b0a98a_0
     - xgboost =2.0.3 =cpu_py39hd3de297_0
 
-    # 356 secondary packages :
+    # 357 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.2 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_0
@@ -232,7 +232,7 @@ requirements:
     - markdown =3.6 =pyhd8ed1ab_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py39ha55989b_0
-    - matplotlib-base =3.8.4 =py39he1095e7_2
+    - matplotlib-base =3.9.1 =py39h5376392_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mdurl =0.1.2 =pyhd8ed1ab_0
     - miniful =0.0.6 =pyhd8ed1ab_0
@@ -310,6 +310,7 @@ requirements:
     - pywin32-on-windows =0.1.0 =pyh07e9846_2
     - pyyaml =6.0.1 =py39ha55989b_1
     - pyzmq =26.0.3 =py39h03e5c00_0
+    - qhull =2020.2 =hc790b64_3
     - qt-main =5.15.8 =h06adc49_22
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.7.0 =pyhd8ed1ab_1
@@ -322,7 +323,7 @@ requirements:
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
     - service-identity =21.1.0 =pyhd8ed1ab_0
     - service_identity =21.1.0 =hd8ed1ab_0
-    - setuptools =70.1.1 =pyhd8ed1ab_0
+    - setuptools =70.2.0 =pyhd8ed1ab_0
     - shap =0.45.1 =cpu_py39h68afd64_0
     - shellingham =1.5.4 =pyhd8ed1ab_0
     - simpful =2.12.0 =pyhd8ed1ab_1

@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =3.0.10 =py39h387a81e_0
-    - matplotlib =3.8.4 =py39ha65689a_2
+    - matplotlib =3.9.1 =py39ha65689a_0
     - numpy =2.0.0 =py39hcdcdb6f_0
     - pandas =2.2.2 =py39h60c7704_1
     - pyqt =5.15.9 =py39hc7e6f3c_5
@@ -35,7 +35,7 @@ requirements:
     - spyder =5.5.5 =py39h4420490_0
     - sympy =1.12.1 =pypyh2585a3b_103
 
-    # 325 secondary packages :
+    # 326 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.16 =pyhd8ed1ab_0
     - alsa-lib =1.2.12 =h68df207_0
@@ -195,7 +195,7 @@ requirements:
     - lz4-c =1.9.4 =hd600fc2_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py39h7cc1d5f_0
-    - matplotlib-base =3.8.4 =py39hf44f4b6_2
+    - matplotlib-base =3.9.1 =py39hf3ba65a_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_0
     - mdurl =0.1.2 =pyhd8ed1ab_0
@@ -268,6 +268,7 @@ requirements:
     - pyyaml =6.0.1 =py39h898b7ef_1
     - pyzmq =26.0.3 =py39h866fef3_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
+    - qhull =2020.2 =h70be974_3
     - qstylizer =0.2.3 =pyhd8ed1ab_0
     - qt-main =5.15.8 =h83f1795_22
     - qt-webengine =5.15.8 =h1940a72_7
@@ -281,9 +282,9 @@ requirements:
     - rich =13.7.1 =pyhd8ed1ab_0
     - rope =1.13.0 =pyhd8ed1ab_0
     - rpds-py =0.19.0 =py39hb8f4057_0
-    - rtree =1.2.0 =py39he4ace81_1
+    - rtree =1.3.0 =py39he4ace81_0
     - secretstorage =3.3.3 =py39ha65689a_2
-    - setuptools =70.1.1 =pyhd8ed1ab_0
+    - setuptools =70.2.0 =pyhd8ed1ab_0
     - sip =6.8.3 =py39he8647fe_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
@@ -306,7 +307,7 @@ requirements:
     - tk =8.6.13 =h194ca79_0
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
-    - tomlkit =0.12.5 =pyha770c72_0
+    - tomlkit =0.13.0 =pyha770c72_0
     - tornado =6.4.1 =py39ha3e8b56_0
     - traitlets =5.14.3 =pyhd8ed1ab_0
     - types-python-dateutil =2.9.0.20240316 =pyhd8ed1ab_0

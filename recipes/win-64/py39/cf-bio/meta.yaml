@@ -26,7 +26,7 @@ requirements:
 
     # 10 primary packages :
     - biopython =1.84 =py39ha55e580_0
-    - matplotlib =3.8.4 =py39hcbf5309_2
+    - matplotlib =3.9.1 =py39hcbf5309_0
     - mdanalysis =2.7.0 =py39h32e6231_1
     - numpy =1.26.4 =py39hddb5d58_0
     - pandas =2.2.2 =py39h2366fc2_1
@@ -36,7 +36,7 @@ requirements:
     - scipy =1.13.1 =py39h1a10956_0
     - spyder-kernels =2.5.2 =win_pyh7428d3b_0
 
-    # 181 secondary packages :
+    # 182 secondary packages :
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - blosc =1.21.6 =h85f69ea_0
     - brotli =1.1.0 =hcfcfb64_1
@@ -137,7 +137,7 @@ requirements:
     - m2w64-gcc-libs-core =5.3.0 =7
     - m2w64-gmp =6.1.0 =2
     - m2w64-libwinpthread-git =5.0.0.4634.697f757 =2
-    - matplotlib-base =3.8.4 =py39he1095e7_2
+    - matplotlib-base =3.9.1 =py39h5376392_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mda-xdrlib =0.2.0 =pyhd8ed1ab_0
     - mkl =2024.1.0 =h66d3029_692
@@ -179,13 +179,14 @@ requirements:
     - pytz =2024.1 =pyhd8ed1ab_0
     - pywin32 =306 =py39h99910a6_2
     - pyzmq =26.0.3 =py39h03e5c00_0
+    - qhull =2020.2 =hc790b64_3
     - qt-main =5.15.8 =h06adc49_22
     - reportlab =4.2.2 =py39ha55e580_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
     - scikit-learn =1.5.1 =py39hdd013cc_0
     - seaborn =0.13.2 =hd8ed1ab_2
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
-    - setuptools =70.1.1 =pyhd8ed1ab_0
+    - setuptools =70.2.0 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h99910a6_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.2.1 =h23299a8_0
