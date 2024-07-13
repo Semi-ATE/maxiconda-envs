@@ -81,7 +81,7 @@ requirements:
     - brotli-bin =1.1.0 =h0dc2134_1
     - brotli-python =1.1.0 =py39h840bb9f_1
     - bzip2 =1.0.8 =h10d778d_5
-    - c-ares =1.28.1 =h10d778d_0
+    - c-ares =1.32.1 =h51dda26_0
     - ca-certificates =2024.7.4 =h8857fd0_0
     - cairo =1.18.0 =h9f650ed_2
     - catalogue =2.0.10 =py39h6e9494a_0
@@ -221,7 +221,7 @@ requirements:
     - libgoogle-cloud =2.26.0 =h721cda5_0
     - libgoogle-cloud-storage =2.26.0 =h9e84e37_0
     - libgrpc =1.62.2 =h384b2fc_0
-    - libhwloc =2.11.0 =default_h456cccd_1000
+    - libhwloc =2.11.1 =default_h456cccd_1000
     - libiconv =1.17 =hd75f5a5_2
     - libintl =0.22.5 =h5ff76d1_2
     - libintl-devel =0.22.5 =h5ff76d1_2
@@ -253,7 +253,7 @@ requirements:
     - libwebp-base =1.4.0 =h10d778d_0
     - libxcb =1.16 =h0dc2134_0
     - libxgboost =2.0.3 =cpu_h397da94_0
-    - libxml2 =2.12.7 =hc603aa4_2
+    - libxml2 =2.12.7 =hc603aa4_3
     - libxslt =1.1.39 =h03b04e6_0
     - libzlib =1.3.1 =h87427d6_1
     - llvm-openmp =18.1.8 =h15ab845_0
@@ -350,7 +350,7 @@ requirements:
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
     - pyyaml =6.0.1 =py39hdc70f33_1
     - pyzmq =26.0.3 =py39h304b177_0
-    - qhull =2020.2 =h3c5361c_3
+    - qhull =2020.2 =h3c5361c_5
     - qt-main =5.15.8 =he8879f6_22
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.7.0 =pyhd8ed1ab_1
@@ -364,7 +364,7 @@ requirements:
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
     - service-identity =21.1.0 =pyhd8ed1ab_0
     - service_identity =21.1.0 =hd8ed1ab_0
-    - setuptools =70.2.0 =pyhd8ed1ab_0
+    - setuptools =70.3.0 =pyhd8ed1ab_0
     - shap =0.45.1 =cpu_py39h2a7f04d_0
     - shellingham =1.5.4 =pyhd8ed1ab_0
     - simpful =2.12.0 =pyhd8ed1ab_1
@@ -386,7 +386,7 @@ requirements:
     - sympy =1.12.1 =pypyh2585a3b_103
     - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
-    - tbb =2021.12.0 =h3c5361c_2
+    - tbb =2021.12.0 =h3c5361c_3
     - tenacity =8.5.0 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
     - thinc =8.2.3 =py39h614b560_0

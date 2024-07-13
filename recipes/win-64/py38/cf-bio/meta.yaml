@@ -119,7 +119,7 @@ requirements:
     - libexpat =2.6.2 =h63175ca_0
     - libffi =3.4.2 =h8ffe710_5
     - libglib =2.80.3 =h7025463_1
-    - libhwloc =2.11.0 =default_h8125262_1000
+    - libhwloc =2.11.1 =default_h8125262_1000
     - libiconv =1.17 =hcfcfb64_2
     - libintl =0.22.5 =h5728263_2
     - libintl-devel =0.22.5 =h5728263_2
@@ -135,7 +135,7 @@ requirements:
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp-base =1.4.0 =hcfcfb64_0
     - libxcb =1.16 =hcd874cb_0
-    - libxml2 =2.12.7 =h0f24e4e_2
+    - libxml2 =2.12.7 =h0f24e4e_3
     - libzip =1.10.1 =h1d365fa_3
     - libzlib =1.3.1 =h2466b09_1
     - lz4-c =1.9.4 =hcfcfb64_0
@@ -198,14 +198,14 @@ requirements:
     - scikit-learn =1.3.2 =py38h4f736e5_2
     - seaborn =0.13.2 =hd8ed1ab_2
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
-    - setuptools =70.2.0 =pyhd8ed1ab_0
+    - setuptools =70.3.0 =pyhd8ed1ab_0
     - sip =6.7.12 =py38hd3f51b4_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.2.1 =h23299a8_0
     - sqlalchemy =2.0.31 =py38h4cb3324_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.1 =py38he7056a7_0
-    - tbb =2021.12.0 =hc790b64_2
+    - tbb =2021.12.0 =hc790b64_3
     - threadpoolctl =3.5.0 =pyhc1e730c_0
     - tidynamics =1.1.2 =pyhd8ed1ab_0
     - tk =8.6.13 =h5226925_1

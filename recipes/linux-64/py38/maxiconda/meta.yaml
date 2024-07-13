@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py38h01eb140_0
     - cython =3.0.10 =py38h17151c0_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.105.1 =pyha770c72_0
+    - hypothesis =6.106.1 =pyha770c72_0
     - ipython =8.12.2 =pyh41d4057_0
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38h578d9bd_0
@@ -92,7 +92,7 @@ requirements:
     - brotli-python =1.1.0 =py38h17151c0_1
     - bwidget =1.9.14 =ha770c72_1
     - bzip2 =1.0.8 =hd590300_5
-    - c-ares =1.32.0 =h4ab18f5_0
+    - c-ares =1.32.1 =h4bc722e_0
     - ca-certificates =2024.7.4 =hbcca054_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
@@ -169,7 +169,7 @@ requirements:
     - jupyter_client =8.6.2 =pyhd8ed1ab_0
     - jupyter_core =5.7.2 =py38h578d9bd_0
     - jupyter_events =0.10.0 =pyhd8ed1ab_0
-    - jupyter_server =2.14.1 =pyhd8ed1ab_1
+    - jupyter_server =2.14.2 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_0
     - jupyterlab =4.2.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
@@ -239,7 +239,7 @@ requirements:
     - libxcb =1.16 =hd590300_0
     - libxcrypt =4.4.36 =hd590300_1
     - libxkbcommon =1.7.0 =h2c5496b_1
-    - libxml2 =2.12.7 =h4c95cb1_2
+    - libxml2 =2.12.7 =h4c95cb1_3
     - libzlib =1.3.1 =h4ab18f5_1
     - llvmlite =0.41.1 =py38h94a1851_0
     - lz4-c =1.9.4 =hcb278e6_0
@@ -400,7 +400,7 @@ requirements:
     - r-magrittr =2.0.3 =r43hb1dbf0f_3
     - r-maps =3.4.2 =r43hb1dbf0f_1
     - r-mass =7.3_60.0.1 =r43hb1dbf0f_1
-    - r-matrix =1.6_5 =r43h316c678_0
+    - r-matrix =1.6_5 =r43he966344_1
     - r-memoise =2.0.1 =r43hc72bb7e_3
     - r-mgcv =1.9_1 =r43h316c678_0
     - r-mime =0.12 =r43hb1dbf0f_3
@@ -500,7 +500,7 @@ requirements:
     - sed =4.8 =he412f7d_0
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.3 =pyh0d859eb_0
-    - setuptools =70.2.0 =pyhd8ed1ab_0
+    - setuptools =70.3.0 =pyhd8ed1ab_0
     - sip =6.7.12 =py38h17151c0_0
     - six =1.16.0 =pyh6c4a22f_0
     - sniffio =1.3.1 =pyhd8ed1ab_0

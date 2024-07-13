@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py38h9579f32_0
     - cython =3.0.10 =py38hb83fbf6_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.105.1 =pyha770c72_0
+    - hypothesis =6.106.1 =pyha770c72_0
     - ipython =8.12.2 =pyh41d4057_0
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38h2063c64_0
@@ -91,7 +91,7 @@ requirements:
     - brotli-python =1.1.0 =py38hb83fbf6_1
     - bwidget =1.9.14 =h8af1aa0_1
     - bzip2 =1.0.8 =h31becfc_5
-    - c-ares =1.32.0 =h68df207_0
+    - c-ares =1.32.1 =h68df207_0
     - ca-certificates =2024.7.4 =hcefe29a_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
@@ -168,7 +168,7 @@ requirements:
     - jupyter_client =8.6.2 =pyhd8ed1ab_0
     - jupyter_core =5.7.2 =py38he3eb160_0
     - jupyter_events =0.10.0 =pyhd8ed1ab_0
-    - jupyter_server =2.14.1 =pyhd8ed1ab_1
+    - jupyter_server =2.14.2 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_0
     - jupyterlab =4.2.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
@@ -238,7 +238,7 @@ requirements:
     - libxcb =1.16 =h7935292_0
     - libxcrypt =4.4.36 =h31becfc_1
     - libxkbcommon =1.7.0 =h46f2afe_1
-    - libxml2 =2.12.7 =hfed6450_2
+    - libxml2 =2.12.7 =hfed6450_3
     - libzlib =1.3.1 =h68df207_1
     - llvmlite =0.41.1 =py38h95a9722_0
     - lz4-c =1.9.4 =hd600fc2_0
@@ -399,7 +399,7 @@ requirements:
     - r-magrittr =2.0.3 =r43hc1cf72c_3
     - r-maps =3.4.2 =r43hc1cf72c_1
     - r-mass =7.3_60.0.1 =r43hc1cf72c_1
-    - r-matrix =1.6_5 =r43hd98ab41_0
+    - r-matrix =1.6_5 =r43h4469540_1
     - r-memoise =2.0.1 =r43hc72bb7e_3
     - r-mgcv =1.9_1 =r43hd98ab41_0
     - r-mime =0.12 =r43hc1cf72c_3
@@ -499,7 +499,7 @@ requirements:
     - sed =4.8 =ha0d5d3d_0
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.3 =pyh0d859eb_0
-    - setuptools =70.2.0 =pyhd8ed1ab_0
+    - setuptools =70.3.0 =pyhd8ed1ab_0
     - sip =6.8.3 =py38hed0da46_0
     - six =1.16.0 =pyh6c4a22f_0
     - sniffio =1.3.1 =pyhd8ed1ab_0
