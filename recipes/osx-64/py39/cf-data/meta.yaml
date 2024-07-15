@@ -56,18 +56,18 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =23.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.22 =hdb02296_8
-    - aws-c-cal =0.7.0 =hd73d8db_0
+    - aws-c-auth =0.7.22 =hb04b931_10
+    - aws-c-cal =0.7.1 =hd73d8db_1
     - aws-c-common =0.9.23 =hfdf4475_0
     - aws-c-compression =0.2.18 =hd73d8db_7
     - aws-c-event-stream =0.4.2 =h2713d70_15
-    - aws-c-http =0.8.2 =ha849b92_5
-    - aws-c-io =0.14.10 =h9f49e27_0
+    - aws-c-http =0.8.2 =he29c2fd_6
+    - aws-c-io =0.14.10 =h4406d91_1
     - aws-c-mqtt =0.10.4 =hf6997d9_8
-    - aws-c-s3 =0.6.0 =hfc8374f_1
+    - aws-c-s3 =0.6.0 =h13137a3_2
     - aws-c-sdkutils =0.1.16 =hd73d8db_3
     - aws-checksums =0.1.18 =hd73d8db_7
-    - aws-crt-cpp =0.27.3 =hed18db7_1
+    - aws-crt-cpp =0.27.3 =h0a15bd7_2
     - aws-sdk-cpp =1.11.329 =h554caeb_9
     - azure-core-cpp =1.12.0 =hf8dbe3c_0
     - azure-identity-cpp =1.8.0 =h906f3f0_1
@@ -80,7 +80,7 @@ requirements:
     - brotli =1.1.0 =h0dc2134_1
     - brotli-bin =1.1.0 =h0dc2134_1
     - brotli-python =1.1.0 =py39h840bb9f_1
-    - bzip2 =1.0.8 =hfdf4475_6
+    - bzip2 =1.0.8 =hfdf4475_7
     - c-ares =1.32.1 =h51dda26_0
     - ca-certificates =2024.7.4 =h8857fd0_0
     - cairo =1.18.0 =h9f650ed_2
@@ -370,7 +370,7 @@ requirements:
     - simpful =2.12.0 =pyhd8ed1ab_1
     - sip =6.7.12 =py39h110ca85_0
     - six =1.16.0 =pyh6c4a22f_0
-    - sleef =3.5.1 =h6db0672_2
+    - sleef =3.6.1 =hd16f56d_1
     - slicer =0.0.8 =pyhd8ed1ab_0
     - smart-open =7.0.4 =hd8ed1ab_0
     - smart_open =7.0.4 =pyhd8ed1ab_0
@@ -389,7 +389,7 @@ requirements:
     - tbb =2021.12.0 =h3c5361c_3
     - tenacity =8.5.0 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
-    - thinc =8.2.3 =py39h614b560_0
+    - thinc =8.2.5 =py39h614b560_0
     - threadpoolctl =3.5.0 =pyhc1e730c_0
     - tk =8.6.13 =h1abcd95_1
     - tldextract =5.1.2 =pyhd8ed1ab_0
