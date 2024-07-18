@@ -33,7 +33,7 @@ requirements:
     - pandas =2.2.2 =py39hbb604f3_1
     - plotly =5.22.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
-    - pydot =2.0.0 =py39h6e9494a_0
+    - pydot =3.0.1 =py39h6e9494a_0
     - pyqt =5.15.9 =py39h3dce684_5
     - pytorch =2.3.1 =cpu_mkl_py39hf1540a8_101
     - scikit-learn =1.5.1 =py39hf6a2366_0
@@ -229,7 +229,7 @@ requirements:
     - liblapack =3.9.0 =22_osx64_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm15 =15.0.7 =hbedff68_4
-    - libllvm18 =18.1.8 =h9ce406d_0
+    - libllvm18 =18.1.8 =h9ce406d_1
     - libnghttp2 =1.58.0 =h64cf6d3_1
     - libogg =1.3.5 =hfdf4475_0
     - libopenblas =0.3.27 =openmp_h8869122_1
@@ -291,7 +291,7 @@ requirements:
     - numexpr =2.10.0 =py39hbb604f3_0
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.2 =h7310d3a_0
-    - openssl =3.3.1 =h87427d6_1
+    - openssl =3.3.1 =h87427d6_2
     - orc =2.0.1 =hf43e91b_1
     - packaging =24.1 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0

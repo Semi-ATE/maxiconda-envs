@@ -51,7 +51,7 @@ requirements:
     - bzip2 =1.0.8 =h4bc722e_7
     - c-ares =1.32.2 =h4bc722e_0
     - ca-certificates =2024.7.4 =hbcca054_0
-    - cairo =1.16.0 =ha61ee94_1014
+    - cairo =1.16.0 =ha61ee94_1012
     - certifi =2024.7.4 =pyhd8ed1ab_0
     - cftime =1.6.2 =py37hc105733_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
@@ -76,8 +76,8 @@ requirements:
     - gettext =0.22.5 =h59595ed_2
     - gettext-tools =0.22.5 =h59595ed_2
     - glew =2.1.0 =h9c3ff4c_2
-    - glib =2.80.2 =hf974151_0
-    - glib-tools =2.80.2 =hb6ce0ca_0
+    - glib =2.80.3 =h8a4344b_1
+    - glib-tools =2.80.3 =h73ef956_1
     - glm =0.9.9.8 =h00ab1b0_0
     - graphite2 =1.3.13 =h59595ed_1003
     - greenlet =1.1.3 =py37hd23a5d3_0
@@ -133,7 +133,7 @@ requirements:
     - libgettextpo-devel =0.22.5 =h59595ed_2
     - libgfortran-ng =14.1.0 =h69a702a_0
     - libgfortran5 =14.1.0 =hc5f4f2c_0
-    - libglib =2.80.2 =hf974151_0
+    - libglib =2.80.3 =h8a4344b_1
     - libglu =9.0.0 =he1b5a44_1001
     - libgomp =14.1.0 =h77fa898_0
     - libgpg-error =1.50 =h4f305b6_0
@@ -164,7 +164,7 @@ requirements:
     - libxkbcommon =1.5.0 =h79f4944_1
     - libxml2 =2.10.3 =hca2bb57_4
     - libzip =1.10.1 =h2629f0a_3
-    - libzlib =1.2.13 =h4ab18f5_6
+    - libzlib =1.3.1 =h4ab18f5_1
     - lz4-c =1.9.4 =hcb278e6_0
     - matplotlib-base =3.5.3 =py37hf395dca_2
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
@@ -180,13 +180,13 @@ requirements:
     - netcdf4 =1.6.1 =nompi_py37hb61e06c_100
     - networkx =2.7 =pyhd8ed1ab_0
     - nspr =4.35 =h27087fc_0
-    - nss =3.100 =hca3bf56_0
+    - nss =3.102 =h593d115_0
     - openjpeg =2.5.0 =h7d73246_1
     - openssl =3.1.6 =h4ab18f5_0
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0
-    - pcre2 =10.43 =hcad00b1_0
+    - pcre2 =10.44 =h0f59acf_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py37hc8dfbb8_1002
     - pillow =9.2.0 =py37h850a105_2
@@ -253,7 +253,7 @@ requirements:
     - xz =5.2.6 =h166bdaf_0
     - zeromq =4.3.5 =h59595ed_1
     - zipp =3.15.0 =pyhd8ed1ab_0
-    - zlib =1.2.13 =h4ab18f5_6
+    - zlib =1.3.1 =h4ab18f5_1
     - zstd =1.5.6 =ha6fb4c9_0
 
 about:

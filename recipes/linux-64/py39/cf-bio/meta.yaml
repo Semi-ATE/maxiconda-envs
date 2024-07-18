@@ -142,7 +142,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =22_linux64_openblas
     - libllvm15 =15.0.7 =hb3ce162_4
-    - libllvm18 =18.1.8 =hc9dba70_0
+    - libllvm18 =18.1.8 =h8b73ec9_1
     - libnetcdf =4.9.2 =nompi_h135f659_114
     - libnghttp2 =1.58.0 =h47da74e_1
     - libnsl =2.0.1 =hd590300_0
@@ -184,7 +184,7 @@ requirements:
     - nspr =4.35 =h27087fc_0
     - nss =3.102 =h593d115_0
     - openjpeg =2.5.2 =h488ebb8_0
-    - openssl =3.3.1 =h4ab18f5_1
+    - openssl =3.3.1 =h4bc722e_2
     - packaging =24.1 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0
