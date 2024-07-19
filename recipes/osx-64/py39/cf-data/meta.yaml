@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.14.2 =py39hb943cd9_0
     - xgboost =2.0.3 =cpu_py39h15c3653_0
 
-    # 384 secondary packages :
+    # 378 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.2 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_0
@@ -136,8 +136,6 @@ requirements:
     - fuzzytm =2.0.5 =pyhd8ed1ab_0
     - gdk-pixbuf =2.42.12 =ha587570_0
     - gensim =4.3.2 =py39hcc9a0c8_0
-    - gettext =0.22.5 =h5ff76d1_2
-    - gettext-tools =0.22.5 =h5ff76d1_2
     - gflags =2.2.2 =hb1e8313_1004
     - giflib =5.2.2 =h10d778d_0
     - gitdb =4.0.11 =pyhd8ed1ab_0
@@ -152,7 +150,7 @@ requirements:
     - greenlet =3.0.3 =py39hd253f6c_0
     - gst-plugins-base =1.24.5 =h0e442b8_0
     - gstreamer =1.24.5 =hbc75551_0
-    - gtk2 =2.24.33 =h8ca4665_4
+    - gtk2 =2.24.33 =h2c15c3c_5
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =22.0.0 =py39h6e9494a_0
     - harfbuzz =9.0.0 =h053f038_0
@@ -193,8 +191,6 @@ requirements:
     - libarrow-acero =16.1.0 =hf036a51_14_cpu
     - libarrow-dataset =16.1.0 =hf036a51_14_cpu
     - libarrow-substrait =16.1.0 =h85bc590_14_cpu
-    - libasprintf =0.22.5 =h5ff76d1_2
-    - libasprintf-devel =0.22.5 =h5ff76d1_2
     - libblas =3.9.0 =22_osx64_openblas
     - libboost =1.84.0 =h739af76_3
     - libbrotlicommon =1.1.0 =h0dc2134_1
@@ -213,8 +209,6 @@ requirements:
     - libexpat =2.6.2 =h73e2aa4_0
     - libffi =3.4.2 =h0d85af4_5
     - libgd =2.3.3 =h0dceb68_9
-    - libgettextpo =0.22.5 =h5ff76d1_2
-    - libgettextpo-devel =0.22.5 =h5ff76d1_2
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
     - libglib =2.80.3 =h736d271_1
@@ -239,7 +233,7 @@ requirements:
     - libpq =16.3 =h4501773_0
     - libprotobuf =4.25.3 =h4e4d658_0
     - libre2-11 =2023.09.01 =h81f5012_2
-    - librsvg =2.58.2 =h368d7ee_0
+    - librsvg =2.58.2 =h902c40a_1
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.46.0 =h1b8f9f3_0
     - libssh2 =1.11.0 =hd019ec5_0
@@ -364,7 +358,7 @@ requirements:
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
     - service-identity =21.1.0 =pyhd8ed1ab_0
     - service_identity =21.1.0 =hd8ed1ab_0
-    - setuptools =70.3.0 =pyhd8ed1ab_0
+    - setuptools =71.0.1 =pyhd8ed1ab_0
     - shap =0.45.1 =cpu_py39h2a7f04d_0
     - shellingham =1.5.4 =pyhd8ed1ab_0
     - simpful =2.12.0 =pyhd8ed1ab_1
@@ -380,7 +374,7 @@ requirements:
     - spacy =3.7.5 =py39hdf1af86_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
     - spacy-loggers =1.0.5 =pyhd8ed1ab_0
-    - sqlparse =0.5.0 =pyhd8ed1ab_0
+    - sqlparse =0.5.1 =pyhd8ed1ab_0
     - srsly =2.4.8 =py39h840bb9f_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - sympy =1.13.0 =pypyh2585a3b_103

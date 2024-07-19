@@ -308,7 +308,7 @@ requirements:
     - r-cachem =1.1.0 =r43h6b9d099_1
     - r-callr =3.7.6 =r43hc72bb7e_1
     - r-caret =6.0_94 =r43h6dc245f_1
-    - r-cellranger =1.1.0 =r43hc72bb7e_1006
+    - r-cellranger =1.1.0 =r43hc72bb7e_1007
     - r-class =7.3_22 =r43h6b9d099_2
     - r-cli =3.6.3 =r43h25d921d_1
     - r-clipr =0.8.0 =r43hc72bb7e_3
@@ -320,14 +320,14 @@ requirements:
     - r-conflicted =1.2.0 =r43h785f33e_2
     - r-cpp11 =0.4.7 =r43hc72bb7e_1
     - r-crayon =1.5.3 =r43hc72bb7e_1
-    - r-crul =1.4.2 =r43h785f33e_0
-    - r-curl =5.2.1 =r43h7f2c6dc_0
+    - r-crul =1.4.2 =r43h785f33e_1
+    - r-curl =5.2.1 =r43he8ffcfd_1
     - r-data.table =1.15.4 =r43hc85ade9_0
     - r-dbi =1.2.3 =r43hc72bb7e_1
     - r-dbplyr =2.5.0 =r43hc72bb7e_0
     - r-diagram =1.6.5 =r43ha770c72_3
     - r-digest =0.6.36 =r43h25d921d_1
-    - r-dplyr =1.1.4 =r43h64b2c41_0
+    - r-dplyr =1.1.4 =r43h25d921d_1
     - r-dtplyr =1.3.1 =r43hc72bb7e_1
     - r-e1071 =1.7_14 =r43h25d921d_1
     - r-ellipsis =0.3.2 =r43h6b9d099_3
@@ -336,7 +336,7 @@ requirements:
     - r-farver =2.1.2 =r43h25d921d_1
     - r-fastmap =1.2.0 =r43h25d921d_1
     - r-fontawesome =0.5.2 =r43hc72bb7e_1
-    - r-forcats =1.0.0 =r43hc72bb7e_1
+    - r-forcats =1.0.0 =r43hc72bb7e_2
     - r-foreach =1.5.2 =r43hc72bb7e_3
     - r-foreign =0.8_87 =r43h6b9d099_1
     - r-formatr =1.14 =r43hc72bb7e_2
@@ -345,7 +345,7 @@ requirements:
     - r-future.apply =1.11.2 =r43hc72bb7e_1
     - r-gargle =1.5.2 =r43h785f33e_0
     - r-generics =0.1.3 =r43hc72bb7e_3
-    - r-ggplot2 =3.5.1 =r43hc72bb7e_0
+    - r-ggplot2 =3.5.1 =r43hc72bb7e_1
     - r-gistr =0.9.0 =r43hc72bb7e_2
     - r-glmnet =4.1_8 =r43hc1e73ce_1
     - r-globals =0.16.3 =r43hc72bb7e_1
@@ -354,8 +354,8 @@ requirements:
     - r-googlesheets4 =1.1.1 =r43h785f33e_1
     - r-gower =1.0.1 =r43h6b9d099_2
     - r-gtable =0.3.5 =r43hc72bb7e_1
-    - r-hardhat =1.4.0 =r43hc72bb7e_0
-    - r-haven =2.5.4 =r43h64b2c41_0
+    - r-hardhat =1.4.0 =r43hc72bb7e_1
+    - r-haven =2.5.4 =r43h25d921d_1
     - r-hexbin =1.28.3 =r43h9612530_2
     - r-highr =0.11 =r43hc72bb7e_1
     - r-hms =1.1.3 =r43hc72bb7e_2
@@ -366,8 +366,8 @@ requirements:
     - r-httr =1.4.7 =r43hc72bb7e_0
     - r-ids =1.0.1 =r43hc72bb7e_3
     - r-ipred =0.9_14 =r43h6dc245f_1
-    - r-irdisplay =1.1 =r43hd8ed1ab_2
-    - r-irkernel =1.3.2 =r43h785f33e_1
+    - r-irdisplay =1.1 =r43hd8ed1ab_3
+    - r-irkernel =1.3.2 =r43h785f33e_2
     - r-isoband =0.2.7 =r43h25d921d_3
     - r-iterators =1.0.14 =r43hc72bb7e_3
     - r-jquerylib =0.1.4 =r43hc72bb7e_3
@@ -413,7 +413,7 @@ requirements:
     - r-pryr =0.1.6 =r43h25d921d_2
     - r-ps =1.7.7 =r43h6b9d099_0
     - r-purrr =1.0.2 =r43h6b9d099_1
-    - r-quantmod =0.4.26 =r43hc72bb7e_0
+    - r-quantmod =0.4.26 =r43hc72bb7e_1
     - r-r6 =2.5.1 =r43hc72bb7e_3
     - r-ragg =1.3.2 =r43h3309713_0
     - r-randomforest =4.7_1.1 =r43h9612530_3
@@ -422,12 +422,12 @@ requirements:
     - r-rcolorbrewer =1.1_3 =r43h785f33e_3
     - r-rcpp =1.0.13 =r43h25d921d_0
     - r-rcppeigen =0.3.4.0.0 =r43hec4e08c_1
-    - r-readr =2.1.5 =r43h29979af_0
-    - r-readxl =1.4.3 =r43h88814b1_0
+    - r-readr =2.1.5 =r43h25d921d_1
+    - r-readxl =1.4.3 =r43h820ef8e_1
     - r-recipes =1.1.0 =r43hc72bb7e_0
     - r-recommended =4.3 =r43hd8ed1ab_1006
     - r-rematch =2.0.0 =r43hc72bb7e_1
-    - r-rematch2 =2.1.2 =r43hc72bb7e_3
+    - r-rematch2 =2.1.2 =r43hc72bb7e_4
     - r-repr =1.1.7 =r43h785f33e_1
     - r-reprex =2.1.1 =r43hc72bb7e_0
     - r-reshape2 =1.4.4 =r43h25d921d_4
@@ -451,21 +451,21 @@ requirements:
     - r-systemfonts =1.1.0 =r43h24f689b_1
     - r-textshaping =0.4.0 =r43hffe0342_0
     - r-tibble =3.2.1 =r43h6b9d099_3
-    - r-tidyr =1.3.1 =r43h29979af_0
+    - r-tidyr =1.3.1 =r43h25d921d_1
     - r-tidyselect =1.2.1 =r43hc72bb7e_1
     - r-tidyverse =2.0.0 =r43h785f33e_1
     - r-timechange =0.3.0 =r43h25d921d_1
     - r-timedate =4032.109 =r43hc72bb7e_1
     - r-tinytex =0.51 =r43hc72bb7e_1
     - r-triebeard =0.4.1 =r43h25d921d_2
-    - r-ttr =0.24.4 =r43hb2c329c_0
+    - r-ttr =0.24.4 =r43h6b9d099_1
     - r-tzdb =0.4.0 =r43h25d921d_2
     - r-urltools =1.7.3 =r43h25d921d_5
     - r-utf8 =1.2.4 =r43h6b9d099_1
     - r-uuid =1.2_0 =r43h6b9d099_1
     - r-vctrs =0.6.5 =r43h25d921d_1
     - r-viridislite =0.4.2 =r43hc72bb7e_2
-    - r-vroom =1.6.5 =r43h64b2c41_0
+    - r-vroom =1.6.5 =r43h25d921d_1
     - r-withr =3.0.0 =r43hc72bb7e_1
     - r-xfun =0.45 =r43h25d921d_1
     - r-xml2 =1.3.6 =r43h3031e3b_1
@@ -485,7 +485,7 @@ requirements:
     - rust-std-x86_64-apple-darwin =1.79.0 =h38e4360_0
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.3 =pyh31c8845_0
-    - setuptools =70.3.0 =pyhd8ed1ab_0
+    - setuptools =71.0.1 =pyhd8ed1ab_0
     - sigtool =0.1.3 =h88f4db0_0
     - sip =6.7.12 =py38hb2f96d7_0
     - six =1.16.0 =pyh6c4a22f_0
