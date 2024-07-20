@@ -206,8 +206,8 @@ requirements:
     - mpfr =4.2.1 =h4f6b447_1
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - multidict =6.0.2 =py37h69ee0a8_1
-    - mysql-common =8.3.0 =hfd7a639_4
-    - mysql-libs =8.3.0 =ha9146f8_4
+    - mysql-common =8.3.0 =h3829a10_5
+    - mysql-libs =8.3.0 =h01befea_5
     - nbclassic =1.1.0 =pyhd8ed1ab_0
     - nbclient =0.7.0 =pyhd8ed1ab_0
     - nbconvert-core =7.6.0 =pyhd8ed1ab_0
@@ -261,7 +261,7 @@ requirements:
     - r-bit64 =4.0.5 =r43h6b9d099_3
     - r-blob =1.2.4 =r43hc72bb7e_2
     - r-boot =1.3_30 =r43hc72bb7e_0
-    - r-broom =1.0.6 =r43hc72bb7e_0
+    - r-broom =1.0.6 =r43hc72bb7e_1
     - r-bslib =0.7.0 =r43hc72bb7e_1
     - r-cachem =1.1.0 =r43h6b9d099_1
     - r-callr =3.7.6 =r43hc72bb7e_1
@@ -282,7 +282,7 @@ requirements:
     - r-curl =5.2.1 =r43he8ffcfd_1
     - r-data.table =1.15.4 =r43hc85ade9_0
     - r-dbi =1.2.3 =r43hc72bb7e_1
-    - r-dbplyr =2.5.0 =r43hc72bb7e_0
+    - r-dbplyr =2.5.0 =r43hc72bb7e_1
     - r-diagram =1.6.5 =r43ha770c72_3
     - r-digest =0.6.36 =r43h25d921d_1
     - r-dplyr =1.1.4 =r43h25d921d_1
@@ -323,7 +323,7 @@ requirements:
     - r-httpuv =1.6.15 =r43h25d921d_1
     - r-httr =1.4.7 =r43hc72bb7e_0
     - r-ids =1.0.1 =r43hc72bb7e_3
-    - r-ipred =0.9_14 =r43h6dc245f_1
+    - r-ipred =0.9_15 =r43h6b9d099_0
     - r-irdisplay =1.1 =r43hd8ed1ab_3
     - r-irkernel =1.3.2 =r43h785f33e_2
     - r-isoband =0.2.7 =r43h25d921d_3
@@ -349,7 +349,7 @@ requirements:
     - r-mgcv =1.9_1 =r43h374a70c_1
     - r-mime =0.12 =r43h6b9d099_3
     - r-modelmetrics =1.2.2.2 =r43hccecf6d_3
-    - r-modelr =0.1.11 =r43hc72bb7e_1
+    - r-modelr =0.1.11 =r43hc72bb7e_2
     - r-munsell =0.5.1 =r43hc72bb7e_1
     - r-nlme =3.1_165 =r43h9612530_1
     - r-nnet =7.3_19 =r43h6b9d099_2

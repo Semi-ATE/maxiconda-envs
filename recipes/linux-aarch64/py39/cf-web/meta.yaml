@@ -110,7 +110,7 @@ requirements:
     - libffi =3.4.2 =h3557bc0_5
     - libflac =1.4.3 =h2f0025b_0
     - libgcc-ng =14.1.0 =he277a41_0
-    - libgcrypt =1.11.0 =h68df207_0
+    - libgcrypt =1.11.0 =h68df207_1
     - libgettextpo =0.22.5 =h2f0025b_2
     - libgettextpo-devel =0.22.5 =h2f0025b_2
     - libglib =2.80.3 =haee52c6_1
@@ -141,8 +141,8 @@ requirements:
     - markupsafe =2.1.5 =py39h7cc1d5f_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mpg123 =1.32.6 =h2f0025b_0
-    - mysql-common =8.3.0 =hb6794ad_4
-    - mysql-libs =8.3.0 =hf629957_4
+    - mysql-common =8.3.0 =h940b476_5
+    - mysql-libs =8.3.0 =h0c23661_5
     - ncurses =6.5 =h0425590_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - nspr =4.35 =h4de3ea5_0
@@ -177,7 +177,7 @@ requirements:
     - readline =8.2 =h8fc344f_1
     - service-identity =21.1.0 =pyhd8ed1ab_0
     - service_identity =21.1.0 =hd8ed1ab_0
-    - setuptools =71.0.1 =pyhd8ed1ab_0
+    - setuptools =71.0.3 =pyhd8ed1ab_0
     - sip =6.8.3 =py39he8647fe_0
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.5 =pyhd8ed1ab_1
