@@ -43,7 +43,7 @@ requirements:
     - pydantic =2.8.2 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py38h951d1d4_5
     - pyserial =3.5 =pyhd8ed1ab_0
-    - pytest =8.2.2 =pyhd8ed1ab_0
+    - pytest =8.3.1 =pyhd8ed1ab_0
     - pyyaml =6.0.1 =py38hb192615_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qtawesome =1.3.1 =pyh9208f05_0
@@ -95,13 +95,13 @@ requirements:
     - certifi =2024.7.4 =pyhd8ed1ab_0
     - cffi =1.16.0 =py38h73f40f7_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
-    - clang =18.1.8 =default_h675cc0c_0
-    - clang-18 =18.1.8 =default_h5c12605_0
-    - clang_impl_osx-arm64 =18.1.8 =h2ae9ea5_17
-    - clang_osx-arm64 =18.1.8 =h54d7cd3_17
-    - clangxx =18.1.8 =default_h675cc0c_0
-    - clangxx_impl_osx-arm64 =18.1.8 =h555f467_17
-    - clangxx_osx-arm64 =18.1.8 =h54d7cd3_17
+    - clang =18.1.8 =default_h675cc0c_1
+    - clang-18 =18.1.8 =default_h5c12605_1
+    - clang_impl_osx-arm64 =18.1.8 =h2ae9ea5_18
+    - clang_osx-arm64 =18.1.8 =h54d7cd3_18
+    - clangxx =18.1.8 =default_h675cc0c_1
+    - clangxx_impl_osx-arm64 =18.1.8 =h555f467_18
+    - clangxx_osx-arm64 =18.1.8 =h54d7cd3_18
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
@@ -187,8 +187,8 @@ requirements:
     - libbrotlienc =1.1.0 =hb547adb_1
     - libcblas =3.9.0 =20_osxarm64_openblas
     - libclang-cpp15 =15.0.7 =default_he012953_5
-    - libclang-cpp18.1 =18.1.8 =default_h5c12605_0
-    - libclang13 =18.1.8 =default_hfc66aa2_0
+    - libclang-cpp18.1 =18.1.8 =default_h5c12605_1
+    - libclang13 =18.1.8 =default_hfc66aa2_1
     - libcurl =8.8.0 =h7b6f9a7_1
     - libcxx =18.1.8 =h167917d_0
     - libdeflate =1.20 =h93a5062_0
@@ -309,7 +309,7 @@ requirements:
     - r-class =7.3_22 =r43h07cda29_2
     - r-cli =3.6.3 =r43hd76f289_1
     - r-clipr =0.8.0 =r43hc72bb7e_3
-    - r-clock =0.7.0 =r43hd76f289_2
+    - r-clock =0.7.1 =r43hd76f289_0
     - r-cluster =2.1.6 =r43h7807725_1
     - r-codetools =0.2_20 =r43hc72bb7e_1
     - r-colorspace =2.1_0 =r43h07cda29_2
@@ -317,7 +317,7 @@ requirements:
     - r-conflicted =1.2.0 =r43h785f33e_2
     - r-cpp11 =0.4.7 =r43hc72bb7e_1
     - r-crayon =1.5.3 =r43hc72bb7e_1
-    - r-crul =1.4.2 =r43h785f33e_1
+    - r-crul =1.5.0 =r43h785f33e_0
     - r-curl =5.2.1 =r43h5c2fa7e_1
     - r-data.table =1.15.4 =r43h629a99f_0
     - r-dbi =1.2.3 =r43hc72bb7e_1
@@ -340,15 +340,15 @@ requirements:
     - r-fs =1.6.4 =r43hd76f289_1
     - r-future =1.33.2 =r43h785f33e_1
     - r-future.apply =1.11.2 =r43hc72bb7e_1
-    - r-gargle =1.5.2 =r43h785f33e_0
+    - r-gargle =1.5.2 =r43h785f33e_1
     - r-generics =0.1.3 =r43hc72bb7e_3
     - r-ggplot2 =3.5.1 =r43hc72bb7e_1
-    - r-gistr =0.9.0 =r43hc72bb7e_2
+    - r-gistr =0.9.0 =r43hc72bb7e_3
     - r-glmnet =4.1_8 =r43ha0027a1_1
     - r-globals =0.16.3 =r43hc72bb7e_1
     - r-glue =1.7.0 =r43h07cda29_1
-    - r-googledrive =2.1.1 =r43hc72bb7e_1
-    - r-googlesheets4 =1.1.1 =r43h785f33e_1
+    - r-googledrive =2.1.1 =r43hc72bb7e_2
+    - r-googlesheets4 =1.1.1 =r43h785f33e_2
     - r-gower =1.0.1 =r43h07cda29_2
     - r-gtable =0.3.5 =r43hc72bb7e_1
     - r-hardhat =1.4.0 =r43hc72bb7e_1
@@ -357,11 +357,11 @@ requirements:
     - r-highr =0.11 =r43hc72bb7e_1
     - r-hms =1.1.3 =r43hc72bb7e_2
     - r-htmltools =0.5.8.1 =r43hd76f289_1
-    - r-htmlwidgets =1.6.4 =r43hc72bb7e_1
+    - r-htmlwidgets =1.6.4 =r43hc72bb7e_2
     - r-httpcode =0.3.0 =r43hf450f58_4
     - r-httpuv =1.6.15 =r43hd76f289_1
-    - r-httr =1.4.7 =r43hc72bb7e_0
-    - r-ids =1.0.1 =r43hc72bb7e_3
+    - r-httr =1.4.7 =r43hc72bb7e_1
+    - r-ids =1.0.1 =r43hc72bb7e_4
     - r-ipred =0.9_15 =r43h07cda29_0
     - r-irdisplay =1.1 =r43hd8ed1ab_3
     - r-irkernel =1.3.2 =r43h785f33e_2
@@ -393,7 +393,7 @@ requirements:
     - r-nlme =3.1_165 =r43h7807725_1
     - r-nnet =7.3_19 =r43h07cda29_2
     - r-numderiv =2016.8_1.1 =r43hc72bb7e_6
-    - r-openssl =2.2.0 =r43h926592e_0
+    - r-openssl =2.2.0 =r43h926592e_1
     - r-parallelly =1.37.1 =r43h07cda29_1
     - r-pbdzmq =0.3_11 =r43hefa18a7_1
     - r-pillar =1.9.0 =r43hc72bb7e_2
@@ -415,7 +415,7 @@ requirements:
     - r-ragg =1.3.2 =r43h7b2350c_0
     - r-randomforest =4.7_1.1 =r43h7807725_3
     - r-rappdirs =0.3.3 =r43h07cda29_3
-    - r-rbokeh =0.5.2 =r43hc72bb7e_3
+    - r-rbokeh =0.5.2 =r43hc72bb7e_4
     - r-rcolorbrewer =1.1_3 =r43h785f33e_3
     - r-rcpp =1.0.13 =r43hd76f289_0
     - r-rcppeigen =0.3.4.0.0 =r43ha5f4c64_1
@@ -426,7 +426,7 @@ requirements:
     - r-rematch =2.0.0 =r43hc72bb7e_1
     - r-rematch2 =2.1.2 =r43hc72bb7e_4
     - r-repr =1.1.7 =r43h785f33e_1
-    - r-reprex =2.1.1 =r43hc72bb7e_0
+    - r-reprex =2.1.1 =r43hc72bb7e_1
     - r-reshape2 =1.4.4 =r43hd76f289_4
     - r-rlang =1.1.4 =r43hd76f289_1
     - r-rmarkdown =2.27 =r43hc72bb7e_1
@@ -453,7 +453,7 @@ requirements:
     - r-tidyverse =2.0.0 =r43h785f33e_1
     - r-timechange =0.3.0 =r43hd76f289_1
     - r-timedate =4032.109 =r43hc72bb7e_1
-    - r-tinytex =0.51 =r43hc72bb7e_1
+    - r-tinytex =0.52 =r43hc72bb7e_0
     - r-triebeard =0.4.1 =r43hd76f289_2
     - r-ttr =0.24.4 =r43h07cda29_1
     - r-tzdb =0.4.0 =r43hd76f289_2
@@ -482,7 +482,7 @@ requirements:
     - rust-std-aarch64-apple-darwin =1.79.0 =hf6ec828_0
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.0 =pyhd8ed1ab_0
-    - setuptools =71.0.3 =pyhd8ed1ab_0
+    - setuptools =71.0.4 =pyhd8ed1ab_0
     - sigtool =0.1.3 =h44b9a77_0
     - sip =6.8.3 =py38hb9fa5a8_0
     - six =1.16.0 =pyh6c4a22f_0

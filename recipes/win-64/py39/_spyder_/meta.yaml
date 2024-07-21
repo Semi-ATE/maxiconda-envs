@@ -38,7 +38,7 @@ requirements:
     # 251 secondary packages :
     - alabaster =0.7.16 =pyhd8ed1ab_0
     - arrow =1.3.0 =pyhd8ed1ab_0
-    - astroid =3.2.3 =py39hcbf5309_0
+    - astroid =3.2.4 =py39hcbf5309_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_0
     - attrs =23.2.0 =pyh71513ae_0
@@ -66,7 +66,7 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_0
     - contourpy =1.2.1 =py39h1f6ef14_0
     - cookiecutter =2.6.0 =pyhca7485f_0
-    - cryptography =42.0.8 =py39hae46aff_0
+    - cryptography =43.0.0 =py39hae46aff_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - debugpy =1.8.2 =py39ha51f57c_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -122,7 +122,7 @@ requirements:
     - libbrotlidec =1.1.0 =hcfcfb64_1
     - libbrotlienc =1.1.0 =hcfcfb64_1
     - libcblas =3.9.0 =22_win64_mkl
-    - libclang13 =18.1.8 =default_ha5278ca_0
+    - libclang13 =18.1.8 =default_ha5278ca_1
     - libdeflate =1.20 =hcfcfb64_0
     - libffi =3.4.2 =h8ffe710_5
     - libglib =2.80.3 =h7025463_1
@@ -234,18 +234,18 @@ requirements:
     - rope =1.13.0 =pyhd8ed1ab_0
     - rpds-py =0.19.0 =py39h92a245a_0
     - rtree =1.3.0 =py39h91da78f_1
-    - setuptools =71.0.3 =pyhd8ed1ab_0
+    - setuptools =71.0.4 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h99910a6_0
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
     - soupsieve =2.5 =pyhd8ed1ab_1
-    - sphinx =7.4.5 =pyhd8ed1ab_0
+    - sphinx =7.4.7 =pyhd8ed1ab_0
     - sphinxcontrib-applehelp =1.0.8 =pyhd8ed1ab_0
     - sphinxcontrib-devhelp =1.0.6 =pyhd8ed1ab_0
-    - sphinxcontrib-htmlhelp =2.0.5 =pyhd8ed1ab_0
+    - sphinxcontrib-htmlhelp =2.0.6 =pyhd8ed1ab_0
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_0
-    - sphinxcontrib-qthelp =1.0.7 =pyhd8ed1ab_0
+    - sphinxcontrib-qthelp =1.0.8 =pyhd8ed1ab_0
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_0
     - spyder-kernels =2.5.2 =win_pyh7428d3b_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
