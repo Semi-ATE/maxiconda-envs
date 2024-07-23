@@ -75,7 +75,7 @@ requirements:
     - azure-storage-common-cpp =12.6.0 =h0dc8e96_1
     - azure-storage-files-datalake-cpp =12.10.0 =hc1cec4e_1
     - backcall =0.2.0 =pyh9f0ad1d_0
-    - bcrypt =4.1.3 =py38h2c15f49_0
+    - bcrypt =4.2.0 =py38h2c15f49_0
     - blinker =1.8.2 =pyhd8ed1ab_0
     - bottleneck =1.4.0 =py38h63504b1_1
     - brotli =1.1.0 =h0dc2134_1
@@ -187,10 +187,10 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20240116.2 =cxx17_hf036a51_1
-    - libarrow =16.1.0 =had6961a_14_cpu
-    - libarrow-acero =16.1.0 =hf036a51_14_cpu
-    - libarrow-dataset =16.1.0 =hf036a51_14_cpu
-    - libarrow-substrait =16.1.0 =h85bc590_14_cpu
+    - libarrow =17.0.0 =had6961a_0_cpu
+    - libarrow-acero =17.0.0 =hf036a51_0_cpu
+    - libarrow-dataset =17.0.0 =hf036a51_0_cpu
+    - libarrow-substrait =17.0.0 =h85bc590_0_cpu
     - libblas =3.9.0 =20_osx64_openblas
     - libboost =1.84.0 =h739af76_3
     - libbrotlicommon =1.1.0 =h0dc2134_1
@@ -228,7 +228,7 @@ requirements:
     - libogg =1.3.5 =hfdf4475_0
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =16.1.0 =h904a336_14_cpu
+    - libparquet =17.0.0 =h904a336_0_cpu
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =16.3 =h4501773_0
     - libprotobuf =4.25.3 =h4e4d658_0
@@ -316,8 +316,8 @@ requirements:
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.3 =pyhd8ed1ab_0
     - py-xgboost =2.0.3 =cpu_py38h273ab5c_0
-    - pyarrow =16.1.0 =py38h5f45964_4
-    - pyarrow-core =16.1.0 =py38hbe69916_4_cpu
+    - pyarrow =17.0.0 =py38h5f45964_0
+    - pyarrow-core =17.0.0 =py38hbe69916_0_cpu
     - pyasn1 =0.6.0 =pyhd8ed1ab_0
     - pyasn1-modules =0.4.0 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
@@ -354,7 +354,7 @@ requirements:
     - regex =2024.5.15 =py38hc718529_0
     - requests =2.32.3 =pyhd8ed1ab_0
     - requests-file =2.1.0 =pyhd8ed1ab_0
-    - retrying =1.3.3 =py_2
+    - retrying =1.3.3 =pyhd8ed1ab_3
     - rich =13.7.1 =pyhd8ed1ab_0
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
     - service-identity =21.1.0 =pyhd8ed1ab_0

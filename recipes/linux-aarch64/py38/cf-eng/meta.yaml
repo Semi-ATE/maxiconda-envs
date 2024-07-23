@@ -81,9 +81,9 @@ requirements:
     - ld_impl_linux-aarch64 =2.40 =h9fc2d93_7
     - libasprintf =0.22.5 =h7b6a552_2
     - libasprintf-devel =0.22.5 =h7b6a552_2
-    - libblas =3.9.0 =22_linuxaarch64_openblas
+    - libblas =3.9.0 =23_linuxaarch64_openblas
     - libcap =2.69 =h883460d_0
-    - libcblas =3.9.0 =22_linuxaarch64_openblas
+    - libcblas =3.9.0 =23_linuxaarch64_openblas
     - libclang-cpp15 =15.0.7 =default_hb368394_5
     - libclang13 =18.1.8 =default_h465fbfb_1
     - libcups =2.3.3 =h405e4a8_4
@@ -103,7 +103,7 @@ requirements:
     - libgpg-error =1.50 =hb13efb6_0
     - libiconv =1.17 =h31becfc_2
     - libjpeg-turbo =3.0.0 =h31becfc_1
-    - liblapack =3.9.0 =22_linuxaarch64_openblas
+    - liblapack =3.9.0 =23_linuxaarch64_openblas
     - libllvm15 =15.0.7 =hb4f23b0_4
     - libllvm18 =18.1.8 =h36f4c5c_1
     - libnsl =2.0.1 =h31becfc_0
