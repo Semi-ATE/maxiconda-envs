@@ -32,11 +32,11 @@ requirements:
     - pandas =2.0.3 =py38h01efb38_1
     - pymol-open-source =3.0.0 =py38hfaa11ac_8
     - pyqt =5.15.9 =py38hffdaa6c_5
-    - rdkit =2024.03.5 =py38h0e50155_0
+    - rdkit =2024.03.5 =py38h890d753_1
     - scipy =1.10.1 =py38h59b608b_3
     - spyder-kernels =2.5.2 =unix_pyh707e725_0
 
-    # 248 secondary packages :
+    # 249 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.12 =h4ab18f5_0
@@ -48,7 +48,7 @@ requirements:
     - brotli-bin =1.1.0 =hd590300_1
     - brotli-python =1.1.0 =py38h17151c0_1
     - bzip2 =1.0.8 =h4bc722e_7
-    - c-ares =1.32.2 =h4bc722e_0
+    - c-ares =1.32.3 =h4bc722e_0
     - ca-certificates =2024.7.4 =hbcca054_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
@@ -100,9 +100,9 @@ requirements:
     - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =73.2 =h59595ed_0
     - idna =3.7 =pyhd8ed1ab_0
-    - importlib-metadata =8.1.0 =pyha770c72_0
+    - importlib-metadata =8.2.0 =pyha770c72_0
     - importlib-resources =6.4.0 =pyhd8ed1ab_0
-    - importlib_metadata =8.1.0 =hd8ed1ab_0
+    - importlib_metadata =8.2.0 =hd8ed1ab_0
     - importlib_resources =6.4.0 =pyhd8ed1ab_0
     - ipykernel =6.29.5 =pyh3099207_0
     - ipython =8.12.2 =pyh41d4057_0
@@ -131,7 +131,7 @@ requirements:
     - libclang-cpp15 =15.0.7 =default_h127d8a8_5
     - libclang13 =18.1.8 =default_h9def88c_1
     - libcups =2.3.3 =h4637d8d_4
-    - libcurl =8.8.0 =hca28451_1
+    - libcurl =8.9.0 =hdb1bdb2_0
     - libdeflate =1.20 =hd590300_0
     - libedit =3.1.20191231 =he28a2e2_2
     - libev =4.33 =hd590300_2
@@ -162,6 +162,7 @@ requirements:
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.43 =h2797004_0
     - libpq =16.3 =ha72fbe1_0
+    - librdkit =2024.03.5 =h79cfef2_1
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.46.0 =hde9e2c9_0
