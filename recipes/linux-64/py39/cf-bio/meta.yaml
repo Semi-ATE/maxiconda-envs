@@ -32,7 +32,7 @@ requirements:
     - pandas =2.2.2 =py39hfc16268_1
     - pymol-open-source =3.0.0 =py39hd7ecefa_8
     - pyqt =5.15.9 =py39h52134e7_5
-    - rdkit =2024.03.5 =py39hc1ff0a3_1
+    - rdkit =2024.03.5 =py39hc1ff0a3_2
     - scipy =1.13.1 =py39haf93ffa_0
     - spyder-kernels =2.5.2 =unix_pyh707e725_0
 
@@ -151,7 +151,7 @@ requirements:
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.43 =h2797004_0
     - libpq =16.3 =ha72fbe1_0
-    - librdkit =2024.03.5 =h79cfef2_1
+    - librdkit =2024.03.5 =h79cfef2_2
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.46.0 =hde9e2c9_0
