@@ -78,7 +78,7 @@ requirements:
     - attrs =23.2.0 =pyh71513ae_0
     - babel =2.14.0 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
-    - backports =1.0 =pyhd8ed1ab_3
+    - backports =1.0 =pyhd8ed1ab_4
     - backports.zoneinfo =0.2.1 =py38hb192615_8
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =hb547adb_1
@@ -253,7 +253,7 @@ requirements:
     - openssl =3.3.1 =hfb2fe0b_2
     - overrides =7.7.0 =pyhd8ed1ab_0
     - packaging =24.1 =pyhd8ed1ab_0
-    - pandoc =3.2.1 =hce30654_0
+    - pandoc =3.3 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.54.0 =h9ee27a3_1
     - parso =0.8.4 =pyhd8ed1ab_0
@@ -299,9 +299,9 @@ requirements:
     - r-bit =4.0.5 =r43h07cda29_2
     - r-bit64 =4.0.5 =r43h07cda29_3
     - r-blob =1.2.4 =r43hc72bb7e_2
-    - r-boot =1.3_30 =r43hc72bb7e_0
+    - r-boot =1.3_30 =r43hc72bb7e_1
     - r-broom =1.0.6 =r43hc72bb7e_1
-    - r-bslib =0.7.0 =r43hc72bb7e_1
+    - r-bslib =0.8.0 =r43hc72bb7e_0
     - r-cachem =1.1.0 =r43h07cda29_1
     - r-callr =3.7.6 =r43hc72bb7e_1
     - r-caret =6.0_94 =r43h07cda29_2
@@ -459,7 +459,7 @@ requirements:
     - r-tzdb =0.4.0 =r43hd76f289_2
     - r-urltools =1.7.3 =r43hd76f289_5
     - r-utf8 =1.2.4 =r43h07cda29_1
-    - r-uuid =1.2_0 =r43h07cda29_1
+    - r-uuid =1.2_1 =r43h07cda29_0
     - r-vctrs =0.6.5 =r43hd76f289_1
     - r-viridislite =0.4.2 =r43hc72bb7e_2
     - r-vroom =1.6.5 =r43hd76f289_1

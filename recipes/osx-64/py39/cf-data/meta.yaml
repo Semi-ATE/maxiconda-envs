@@ -27,7 +27,7 @@ requirements:
     # 20 primary packages :
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - bokeh =3.4.2 =pyhd8ed1ab_0
-    - lightgbm =4.4.0 =cpu_py3.9ha5fbf2f_3
+    - lightgbm =4.5.0 =cpu_py3.9ha5fbf2f_0
     - matplotlib =3.9.1 =py39h6e9494a_0
     - numpy =1.26.4 =py39h28c39a1_0
     - pandas =2.2.2 =py39hbb604f3_1
@@ -44,7 +44,7 @@ requirements:
     - sqlalchemy =2.0.31 =py39hded5825_0
     - sqlite =3.46.0 =h28673e1_0
     - statsmodels =0.14.2 =py39hb943cd9_0
-    - xgboost =2.1.0 =cpu_pyhb8f9a19_1
+    - xgboost =2.1.0 =cpu_pyhb8f9a19_2
 
     # 378 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
@@ -187,10 +187,10 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20240116.2 =cxx17_hf036a51_1
-    - libarrow =17.0.0 =h130fc27_2_cpu
-    - libarrow-acero =17.0.0 =hf036a51_2_cpu
-    - libarrow-dataset =17.0.0 =hf036a51_2_cpu
-    - libarrow-substrait =17.0.0 =h85bc590_2_cpu
+    - libarrow =17.0.0 =h6ab0003_3_cpu
+    - libarrow-acero =17.0.0 =hac325c4_3_cpu
+    - libarrow-dataset =17.0.0 =hac325c4_3_cpu
+    - libarrow-substrait =17.0.0 =hba007a9_3_cpu
     - libblas =3.9.0 =22_osx64_openblas
     - libboost =1.84.0 =h739af76_3
     - libbrotlicommon =1.1.0 =h0dc2134_1
@@ -228,7 +228,7 @@ requirements:
     - libogg =1.3.5 =hfdf4475_0
     - libopenblas =0.3.27 =openmp_h8869122_1
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =17.0.0 =h904a336_2_cpu
+    - libparquet =17.0.0 =h2adadb3_3_cpu
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =16.3 =h4501773_0
     - libprotobuf =4.25.3 =h4e4d658_0
@@ -246,7 +246,7 @@ requirements:
     - libwebp =1.4.0 =hc207709_0
     - libwebp-base =1.4.0 =h10d778d_0
     - libxcb =1.16 =h0dc2134_0
-    - libxgboost =2.1.0 =cpu_h7ae7b8f_1
+    - libxgboost =2.1.0 =cpu_h7ae7b8f_2
     - libxml2 =2.12.7 =hc603aa4_3
     - libxslt =1.1.39 =h03b04e6_0
     - libzlib =1.3.1 =h87427d6_1
@@ -313,7 +313,7 @@ requirements:
     - pthread-stubs =0.4 =hc929b4f_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.3 =pyhd8ed1ab_0
-    - py-xgboost =2.1.0 =cpu_pyh273ab5c_1
+    - py-xgboost =2.1.0 =cpu_pyh995e691_2
     - pyarrow =17.0.0 =py39h810aed5_0
     - pyarrow-core =17.0.0 =py39hb064662_0_cpu
     - pyasn1 =0.6.0 =pyhd8ed1ab_0
@@ -371,7 +371,7 @@ requirements:
     - smmap =5.0.0 =pyhd8ed1ab_0
     - snappy =1.2.1 =he1e6707_0
     - soupsieve =2.5 =pyhd8ed1ab_1
-    - spacy =3.7.5 =py39hdf1af86_0
+    - spacy =3.7.5 =py39h614b560_1
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
     - spacy-loggers =1.0.5 =pyhd8ed1ab_0
     - sqlparse =0.5.1 =pyhd8ed1ab_0
@@ -381,7 +381,7 @@ requirements:
     - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.12.0 =h3c5361c_3
-    - tenacity =8.5.0 =pyhd8ed1ab_0
+    - tenacity =9.0.0 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
     - thinc =8.2.5 =py39h614b560_0
     - threadpoolctl =3.5.0 =pyhc1e730c_0
