@@ -86,8 +86,8 @@ requirements:
     - glib-tools =2.80.3 =h8ba3eef_1
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.1.5 =py39h9bb7c0c_1
-    - gst-plugins-base =1.24.5 =h40577aa_0
-    - gstreamer =1.24.5 =h430e707_0
+    - gst-plugins-base =1.24.6 =h40577aa_0
+    - gstreamer =1.24.6 =h430e707_0
     - h2 =4.1.0 =pyhd8ed1ab_0
     - hpack =4.0.0 =pyh9f0ad1d_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
@@ -107,7 +107,7 @@ requirements:
     - jaraco.context =5.3.0 =pyhd8ed1ab_1
     - jaraco.functools =4.0.0 =pyhd8ed1ab_0
     - jedi =0.19.1 =pyhd8ed1ab_0
-    - jellyfish =1.0.4 =py39h0019b8a_0
+    - jellyfish =1.1.0 =py39h0019b8a_0
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - jsonschema =4.23.0 =pyhd8ed1ab_0
     - jsonschema-specifications =2023.12.1 =pyhd8ed1ab_0
@@ -126,7 +126,7 @@ requirements:
     - libcblas =3.9.0 =23_osxarm64_openblas
     - libclang-cpp15 =15.0.7 =default_he012953_5
     - libclang13 =18.1.8 =default_hfc66aa2_1
-    - libcxx =18.1.8 =h167917d_1
+    - libcxx =18.1.8 =h167917d_2
     - libdeflate =1.20 =h93a5062_0
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libffi =3.4.2 =h3422bc3_5

@@ -36,7 +36,7 @@ requirements:
     - scipy =1.13.1 =py39haf93ffa_0
     - spyder-kernels =2.5.2 =unix_pyh707e725_0
 
-    # 228 secondary packages :
+    # 229 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.12 =h4ab18f5_0
@@ -83,8 +83,8 @@ requirements:
     - greenlet =3.0.3 =py39h3d6467e_0
     - griddataformats =1.0.2 =pyhd8ed1ab_0
     - gsd =3.3.0 =py39hd92a3bb_0
-    - gst-plugins-base =1.24.5 =hbaaba92_0
-    - gstreamer =1.24.5 =haf2f30d_0
+    - gst-plugins-base =1.24.6 =hbaaba92_0
+    - gstreamer =1.24.6 =haf2f30d_0
     - harfbuzz =9.0.0 =hfac3d4d_0
     - hdf4 =4.2.15 =h2a13503_7
     - hdf5 =1.14.3 =nompi_hdf9ad27_105
@@ -256,6 +256,7 @@ requirements:
     - xorg-libxdmcp =1.1.3 =h7f98852_0
     - xorg-libxext =1.3.4 =h0b41bf4_2
     - xorg-libxrender =0.9.11 =hd590300_0
+    - xorg-libxxf86vm =1.1.5 =h4bc722e_1
     - xorg-renderproto =0.11.1 =h7f98852_1002
     - xorg-xextproto =7.3.0 =h0b41bf4_1003
     - xorg-xf86vidmodeproto =2.3.1 =h7f98852_1002
