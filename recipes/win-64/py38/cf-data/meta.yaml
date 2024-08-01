@@ -43,7 +43,7 @@ requirements:
     - sqlalchemy =2.0.31 =py38h4cb3324_0
     - sqlite =3.46.0 =h2466b09_0
     - statsmodels =0.14.1 =py38he7056a7_0
-    - xgboost =2.1.0 =cpu_pyhb8f9a19_2
+    - xgboost =2.1.1 =cpu_pyhb8f9a19_1
 
     # 358 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
@@ -184,7 +184,7 @@ requirements:
     - libcblas =3.9.0 =23_win64_mkl
     - libclang13 =18.1.8 =default_ha5278ca_1
     - libcrc32c =1.1.2 =h0e60522_0
-    - libcurl =8.9.0 =h18fefc2_0
+    - libcurl =8.9.1 =h18fefc2_0
     - libdeflate =1.20 =hcfcfb64_0
     - libevent =2.1.12 =h3671451_1
     - libexpat =2.6.2 =h63175ca_0
@@ -215,7 +215,7 @@ requirements:
     - libwebp =1.4.0 =h2466b09_0
     - libwebp-base =1.4.0 =hcfcfb64_0
     - libxcb =1.16 =hcd874cb_0
-    - libxgboost =2.1.0 =cpu_hb3f76d0_2
+    - libxgboost =2.1.1 =cpu_hb3f76d0_1
     - libxml2 =2.12.7 =h0f24e4e_4
     - libxslt =1.1.39 =h3df6e99_0
     - libzlib =1.3.1 =h2466b09_1
@@ -264,7 +264,7 @@ requirements:
     - phik =0.12.3 =py38h6819d5e_1
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pillow =10.4.0 =py38h8d10685_0
-    - pip =24.0 =pyhd8ed1ab_0
+    - pip =24.2 =pyhd8ed1ab_0
     - pixman =0.43.4 =h63175ca_0
     - platformdirs =4.2.2 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_2
@@ -280,7 +280,7 @@ requirements:
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.3 =pyhd8ed1ab_0
-    - py-xgboost =2.1.0 =cpu_pyh995e691_2
+    - py-xgboost =2.1.1 =cpu_pyh995e691_1
     - pyarrow =17.0.0 =py38h009e608_0
     - pyarrow-core =17.0.0 =py38ha85ed3b_0_cpu
     - pyasn1 =0.6.0 =pyhd8ed1ab_0
