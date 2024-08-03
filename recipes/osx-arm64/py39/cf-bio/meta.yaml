@@ -26,7 +26,7 @@ requirements:
 
     # 10 primary packages :
     - biopython =1.84 =py39hfea33bf_0
-    - matplotlib =3.9.1 =py39hdf13c20_0
+    - matplotlib =3.9.1 =py39hdf13c20_1
     - mdanalysis =2.7.0 =py39h425d09f_1
     - numpy =1.26.4 =py39h7aa2656_0
     - pandas =2.2.2 =py39h998126f_1
@@ -146,7 +146,7 @@ requirements:
     - libzlib =1.3.1 =hfb2fe0b_1
     - llvm-openmp =18.1.8 =hde57baf_0
     - lz4-c =1.9.4 =hb7217d7_0
-    - matplotlib-base =3.9.1 =py39h1398496_0
+    - matplotlib-base =3.9.1 =py39h1398496_1
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mda-xdrlib =0.2.0 =pyhd8ed1ab_0
     - mmtf-python =1.1.3 =pyhd8ed1ab_0
@@ -199,7 +199,7 @@ requirements:
     - scikit-learn =1.5.1 =py39h3c33c8b_0
     - seaborn =0.13.2 =hd8ed1ab_2
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
-    - setuptools =71.0.4 =pyhd8ed1ab_0
+    - setuptools =72.1.0 =pyhd8ed1ab_0
     - sip =6.8.3 =py39hf3050f2_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.2.1 =hd02b534_0
