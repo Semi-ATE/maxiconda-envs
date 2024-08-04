@@ -28,7 +28,7 @@ requirements:
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - bokeh =3.4.2 =pyhd8ed1ab_0
     - lightgbm =4.5.0 =cpu_py3.9ha5fbf2f_1
-    - matplotlib =3.9.1 =py39h6e9494a_1
+    - matplotlib =3.9.1 =py39h6e9494a_2
     - numpy =1.26.4 =py39h28c39a1_0
     - pandas =2.2.2 =py39hbb604f3_1
     - plotly =5.23.0 =pyhd8ed1ab_0
@@ -54,7 +54,7 @@ requirements:
     - appnope =0.1.4 =pyhd8ed1ab_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - atk-1.0 =2.38.0 =h4bec284_2
-    - attrs =23.2.0 =pyh71513ae_0
+    - attrs =24.1.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
     - aws-c-auth =0.7.22 =hb04b931_10
     - aws-c-cal =0.7.1 =hd73d8db_1
@@ -109,7 +109,7 @@ requirements:
     - cython-blis =0.7.10 =py39hd01001f_2
     - databricks-cli =0.17.8 =pyhd8ed1ab_0
     - datefinder =0.7.3 =pyhd8ed1ab_0
-    - debugpy =1.8.2 =py39h09c4c31_0
+    - debugpy =1.8.3 =py39h09c4c31_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - docker-py =7.1.0 =pyhd8ed1ab_0
@@ -146,7 +146,7 @@ requirements:
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.1.5 =py39h87b48b1_1
     - graphite2 =1.3.13 =h73e2aa4_1003
-    - graphviz =11.0.0 =hc9017ca_0
+    - graphviz =12.0.0 =he14ced1_0
     - greenlet =3.0.3 =py39hd253f6c_0
     - gst-plugins-base =1.24.6 =h0e442b8_0
     - gstreamer =1.24.6 =hbc75551_0
@@ -259,7 +259,7 @@ requirements:
     - markdown =3.6 =pyhd8ed1ab_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py39ha09f3b3_0
-    - matplotlib-base =3.9.1 =py39hb2d44f9_1
+    - matplotlib-base =3.9.1 =py39hb2d44f9_2
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mdurl =0.1.2 =pyhd8ed1ab_0
     - miniful =0.0.6 =pyhd8ed1ab_0
@@ -325,7 +325,7 @@ requirements:
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.18.0 =pyhd8ed1ab_0
-    - pyjwt =2.9.0 =pyhd8ed1ab_0
+    - pyjwt =2.9.0 =pyhd8ed1ab_1
     - pyldavis =3.4.1 =pyhd8ed1ab_0
     - pynacl =1.5.0 =py39hdc70f33_3
     - pynndescent =0.5.13 =pyhff2d567_0
