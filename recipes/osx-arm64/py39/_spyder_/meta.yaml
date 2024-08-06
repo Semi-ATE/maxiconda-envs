@@ -25,7 +25,7 @@ requirements:
     - python =3.9.19 =hd7ebdb9_0_cpython
 
     # 9 primary packages :
-    - cython =3.0.10 =py39hf3050f2_0
+    - cython =3.0.11 =py39hbf7db11_0
     - matplotlib =3.9.1 =py39hdf13c20_2
     - numpy =2.0.1 =py39h19d27af_0
     - pandas =2.2.2 =py39h998126f_1
@@ -126,8 +126,8 @@ requirements:
     - libcblas =3.9.0 =23_osxarm64_openblas
     - libclang-cpp15 =15.0.7 =default_he012953_5
     - libclang13 =18.1.8 =default_hfc66aa2_1
-    - libcxx =18.1.8 =h167917d_2
-    - libdeflate =1.20 =h93a5062_0
+    - libcxx =18.1.8 =h5a72898_2
+    - libdeflate =1.21 =h99b78c6_0
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libffi =3.4.2 =h3422bc3_5
     - libgfortran =5.0.0 =13_2_0_hd922786_3
@@ -148,7 +148,7 @@ requirements:
     - libsodium =1.0.18 =h27ca646_1
     - libspatialindex =2.0.0 =h00cdb27_0
     - libsqlite =3.46.0 =hfb93653_0
-    - libtiff =4.6.0 =h07db509_3
+    - libtiff =4.6.0 =hf8409c0_4
     - libvorbis =1.3.7 =h9f76cd9_0
     - libwebp =1.4.0 =h54798ee_0
     - libwebp-base =1.4.0 =h93a5062_0
