@@ -32,7 +32,7 @@ requirements:
     - pyyaml =6.0.1 =py38hb192615_1
     - requests =2.32.3 =pyhd8ed1ab_0
     - spyder-kernels =2.5.2 =unix_pyh707e725_0
-    - sqlalchemy =2.0.31 =py38h3237794_0
+    - sqlalchemy =2.0.32 =py38h3237794_0
     - twisted =24.3.0 =py38h336bac9_0
 
     # 125 secondary packages :
@@ -40,7 +40,7 @@ requirements:
     - appnope =0.1.4 =pyhd8ed1ab_0
     - asgiref =3.8.1 =pyhd8ed1ab_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
-    - attrs =24.1.0 =pyh71513ae_0
+    - attrs =24.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_4
@@ -56,7 +56,7 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - cryptography =43.0.0 =py38h4d1d993_0
-    - debugpy =1.8.3 =py38h11842c7_0
+    - debugpy =1.8.5 =py38h11842c7_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - executing =2.0.1 =pyhd8ed1ab_0
     - glib =2.80.3 =h59d46d9_1
@@ -131,7 +131,7 @@ requirements:
     - pysocks =1.7.1 =py38h10201cd_5
     - python-dateutil =2.9.0 =pyhd8ed1ab_0
     - python_abi =3.8 =4_cp38
-    - pyzmq =26.0.3 =py38h0d2f7f4_0
+    - pyzmq =26.1.0 =py38h0d2f7f4_0
     - qt-main =5.15.8 =hcd44e0d_23
     - readline =8.2 =h92ec313_1
     - service-identity =21.1.0 =pyhd8ed1ab_0
@@ -158,7 +158,7 @@ requirements:
     - yaml =0.2.5 =h3422bc3_2
     - zeromq =4.3.5 =hcc0f68c_4
     - zipp =3.19.2 =pyhd8ed1ab_0
-    - zope.interface =6.4.post2 =py38h3237794_0
+    - zope.interface =7.0.1 =py38h3237794_0
     - zstandard =0.23.0 =py38h43bb1b3_0
     - zstd =1.5.6 =hb46c0d2_0
 

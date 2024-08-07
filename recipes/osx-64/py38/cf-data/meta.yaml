@@ -41,7 +41,7 @@ requirements:
     - scrapy =2.11.2 =py38h50d1736_0
     - seaborn =0.13.2 =hd8ed1ab_2
     - spyder-kernels =2.5.2 =unix_pyh707e725_0
-    - sqlalchemy =2.0.31 =py38hc718529_0
+    - sqlalchemy =2.0.32 =py38hc718529_0
     - sqlite =3.46.0 =h28673e1_0
     - statsmodels =0.14.1 =py38h7092abf_0
     - xgboost =2.1.1 =cpu_pyhb8f9a19_1
@@ -54,7 +54,7 @@ requirements:
     - appnope =0.1.4 =pyhd8ed1ab_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - atk-1.0 =2.38.0 =h4bec284_2
-    - attrs =24.1.0 =pyh71513ae_0
+    - attrs =24.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
     - aws-c-auth =0.7.22 =hb04b931_10
     - aws-c-cal =0.7.1 =hd73d8db_1
@@ -110,7 +110,7 @@ requirements:
     - cython-blis =0.7.10 =py38h49861b3_2
     - databricks-cli =0.17.8 =pyhd8ed1ab_0
     - datefinder =0.7.3 =pyhd8ed1ab_0
-    - debugpy =1.8.3 =py38h8949568_0
+    - debugpy =1.8.5 =py38h8949568_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - docker-py =7.1.0 =pyhd8ed1ab_0
@@ -345,7 +345,7 @@ requirements:
     - pywavelets =1.4.1 =py38h49861b3_1
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
     - pyyaml =6.0.1 =py38hcafd530_1
-    - pyzmq =26.0.3 =py38h80f5319_0
+    - pyzmq =26.1.0 =py38h123d167_0
     - qt-main =5.15.8 =he8879f6_23
     - querystring_parser =1.2.4 =py_0
     - queuelib =1.7.0 =pyhd8ed1ab_1
@@ -424,7 +424,7 @@ requirements:
     - zeromq =4.3.5 =hde137ed_4
     - zipp =3.19.2 =pyhd8ed1ab_0
     - zlib =1.3.1 =h87427d6_1
-    - zope.interface =6.4.post2 =py38hc718529_0
+    - zope.interface =7.0.1 =py38hc718529_0
     - zstd =1.5.6 =h915ae27_0
 
 about:
