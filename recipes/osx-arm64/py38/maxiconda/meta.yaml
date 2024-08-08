@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - cython =3.0.11 =py38h11842c7_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.108.10 =pyha770c72_0
+    - hypothesis =6.110.0 =pyha770c72_0
     - ipython =8.12.2 =pyhd1c38e8_0
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38h150bfb4_0
@@ -44,7 +44,7 @@ requirements:
     - pyqt =5.15.9 =py38h951d1d4_5
     - pyserial =3.5 =pyhd8ed1ab_0
     - pytest =8.3.2 =pyhd8ed1ab_0
-    - pyyaml =6.0.1 =py38hb192615_1
+    - pyyaml =6.0.2 =py38h3237794_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qtawesome =1.3.1 =pyh9208f05_0
     - r-base =4.4.1 =hb9a706f_12
@@ -65,7 +65,7 @@ requirements:
 
     # 462 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
-    - aiohappyeyeballs =2.3.4 =pyhd8ed1ab_0
+    - aiohappyeyeballs =2.3.5 =pyhd8ed1ab_0
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_0
     - anyio =3.7.1 =pyhd8ed1ab_0
@@ -94,15 +94,15 @@ requirements:
     - cairo =1.18.0 =hc6c324b_2
     - cctools_osx-arm64 =986 =hf2da8af_3
     - certifi =2024.7.4 =pyhd8ed1ab_0
-    - cffi =1.16.0 =py38h73f40f7_0
+    - cffi =1.17.0 =py38h858044d_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - clang =18.1.8 =default_h675cc0c_1
     - clang-18 =18.1.8 =default_h5c12605_1
-    - clang_impl_osx-arm64 =18.1.8 =h2ae9ea5_18
-    - clang_osx-arm64 =18.1.8 =h54d7cd3_18
+    - clang_impl_osx-arm64 =18.1.8 =h2ae9ea5_19
+    - clang_osx-arm64 =18.1.8 =h54d7cd3_19
     - clangxx =18.1.8 =default_h675cc0c_1
-    - clangxx_impl_osx-arm64 =18.1.8 =h555f467_18
-    - clangxx_osx-arm64 =18.1.8 =h54d7cd3_18
+    - clangxx_impl_osx-arm64 =18.1.8 =h555f467_19
+    - clangxx_osx-arm64 =18.1.8 =h54d7cd3_19
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
@@ -471,12 +471,12 @@ requirements:
     - r-xts =0.14.0 =r44h07cda29_1
     - r-yaml =2.3.10 =r44h07cda29_0
     - r-zoo =1.8_12 =r44h07cda29_2
-    - rapidfuzz =3.9.5 =py38h11842c7_0
+    - rapidfuzz =3.9.6 =py38h11842c7_0
     - readline =8.2 =h92ec313_1
     - referencing =0.35.1 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.19.1 =py38h186058e_0
+    - rpds-py =0.20.0 =py38h186058e_0
     - ruamel.yaml =0.18.6 =py38h336bac9_0
     - ruamel.yaml.clib =0.2.8 =py38h336bac9_0
     - ruamel.yaml.jinja2 =0.2.4 =py_1

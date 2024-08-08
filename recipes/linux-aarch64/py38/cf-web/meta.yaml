@@ -26,10 +26,10 @@ requirements:
 
     # 9 primary packages :
     - beautifulsoup4 =4.12.3 =pyha770c72_0
-    - django =4.2.14 =pyhd8ed1ab_0
+    - django =4.2.15 =pyhd8ed1ab_0
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py38h3dfd979_5
-    - pyyaml =6.0.1 =py38h9579f32_1
+    - pyyaml =6.0.2 =py38ha5227f9_0
     - requests =2.32.3 =pyhd8ed1ab_0
     - spyder-kernels =2.5.2 =unix_pyh707e725_0
     - sqlalchemy =2.0.32 =py38h34c6dc0_0
@@ -53,7 +53,7 @@ requirements:
     - ca-certificates =2024.7.4 =hcefe29a_0
     - cairo =1.18.0 =h5c54ea9_2
     - certifi =2024.7.4 =pyhd8ed1ab_0
-    - cffi =1.16.0 =py38h4ab679b_0
+    - cffi =1.17.0 =py38hf2f4906_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_0
