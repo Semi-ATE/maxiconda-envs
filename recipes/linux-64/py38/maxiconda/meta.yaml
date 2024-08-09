@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py38h01eb140_0
     - cython =3.0.11 =py38h6d02427_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.110.0 =pyha770c72_0
+    - hypothesis =6.110.1 =pyha770c72_0
     - ipython =8.12.2 =pyh41d4057_0
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38h578d9bd_0
@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.4 =r44hd8ed1ab_2005
     - regex =2024.7.24 =py38h2019614_0
     - requests =2.32.3 =pyhd8ed1ab_0
-    - rust =1.80.0 =h0a17960_0
+    - rust =1.80.1 =h0a17960_0
     - scipy =1.10.1 =py38h59b608b_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.5.2 =unix_pyh707e725_0
@@ -224,7 +224,7 @@ requirements:
     - libopenblas =0.3.25 =pthreads_h413a1c8_0
     - libopus =1.3.1 =h7f98852_1
     - libpng =1.6.43 =h2797004_0
-    - libpq =16.3 =ha72fbe1_0
+    - libpq =16.4 =h482b261_0
     - libsanitizer =14.1.0 =hcba0ae0_0
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
@@ -498,7 +498,7 @@ requirements:
     - ruamel.yaml =0.18.6 =py38h01eb140_0
     - ruamel.yaml.clib =0.2.8 =py38h01eb140_0
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-unknown-linux-gnu =1.80.0 =h2c6d0dc_0
+    - rust-std-x86_64-unknown-linux-gnu =1.80.1 =h2c6d0dc_0
     - sed =4.8 =he412f7d_0
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.3 =pyh0d859eb_0
