@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 406 secondary packages :
+    # 407 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.7.1 =pyhd8ed1ab_0
@@ -123,8 +123,8 @@ requirements:
     - gfortran_impl_osx-64 =12.3.0 =hc328e78_3
     - gfortran_osx-64 =12.3.0 =h18f7dce_1
     - git =2.46.0 =pl5321h9b6aa9b_0
-    - glib =2.80.3 =h736d271_1
-    - glib-tools =2.80.3 =h959cb30_1
+    - glib =2.80.3 =h736d271_2
+    - glib-tools =2.80.3 =h959cb30_2
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.1.2 =py37h60f582e_0
     - graphite2 =1.3.13 =h73e2aa4_1003
@@ -170,7 +170,7 @@ requirements:
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran-devel_osx-64 =12.3.0 =h0b6f5ec_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.80.3 =h736d271_1
+    - libglib =2.80.3 =h736d271_2
     - libiconv =1.17 =hd75f5a5_2
     - libintl =0.22.5 =h5ff76d1_2
     - libintl-devel =0.22.5 =h5ff76d1_2
@@ -178,7 +178,7 @@ requirements:
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm11 =11.1.0 =h8fb7429_5
     - libllvm15 =15.0.7 =hbedff68_4
-    - libllvm18 =18.1.8 =h9ce406d_1
+    - libllvm18 =18.1.8 =h9ce406d_2
     - libnghttp2 =1.58.0 =h64cf6d3_1
     - libogg =1.3.5 =hfdf4475_0
     - libopenblas =0.3.25 =openmp_hfef2a42_0
@@ -195,7 +195,8 @@ requirements:
     - libxml2 =2.12.7 =hc603aa4_3
     - libzlib =1.3.1 =h87427d6_1
     - llvm-openmp =18.1.8 =h15ab845_0
-    - llvm-tools =18.1.8 =h9ce406d_1
+    - llvm-tools =18.1.8 =h9ce406d_2
+    - llvm-tools-18 =18.1.8 =h9ce406d_2
     - llvmlite =0.39.1 =py37h5d31d3a_0
     - make =4.3 =h22f3db7_1
     - markupsafe =2.1.1 =py37h69ee0a8_1

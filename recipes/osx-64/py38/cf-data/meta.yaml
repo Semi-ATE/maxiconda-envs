@@ -56,19 +56,19 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =24.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.22 =hb04b931_10
-    - aws-c-cal =0.7.1 =hd73d8db_1
+    - aws-c-auth =0.7.25 =h57c6dfa_2
+    - aws-c-cal =0.7.2 =hd73d8db_0
     - aws-c-common =0.9.23 =hfdf4475_0
     - aws-c-compression =0.2.18 =hd73d8db_7
-    - aws-c-event-stream =0.4.2 =h2713d70_15
-    - aws-c-http =0.8.2 =he29c2fd_6
-    - aws-c-io =0.14.10 =h4406d91_1
-    - aws-c-mqtt =0.10.4 =hf6997d9_8
-    - aws-c-s3 =0.6.0 =h13137a3_2
+    - aws-c-event-stream =0.4.2 =h3e37b14_19
+    - aws-c-http =0.8.7 =h7438d8a_1
+    - aws-c-io =0.14.18 =h70ed79e_1
+    - aws-c-mqtt =0.10.4 =h02da568_15
+    - aws-c-s3 =0.6.4 =h760d7c8_5
     - aws-c-sdkutils =0.1.16 =hd73d8db_3
     - aws-checksums =0.1.18 =hd73d8db_7
-    - aws-crt-cpp =0.27.3 =h0a15bd7_2
-    - aws-sdk-cpp =1.11.379 =h554caeb_0
+    - aws-crt-cpp =0.27.5 =h31b4b20_3
+    - aws-sdk-cpp =1.11.379 =hf1ac886_1
     - azure-core-cpp =1.13.0 =hf8dbe3c_0
     - azure-identity-cpp =1.8.0 =h60298e3_2
     - azure-storage-blobs-cpp =12.12.0 =h646f05d_0
@@ -140,8 +140,8 @@ requirements:
     - giflib =5.2.2 =h10d778d_0
     - gitdb =4.0.11 =pyhd8ed1ab_0
     - gitpython =3.1.43 =pyhd8ed1ab_0
-    - glib =2.80.3 =h736d271_1
-    - glib-tools =2.80.3 =h959cb30_1
+    - glib =2.80.3 =h736d271_2
+    - glib-tools =2.80.3 =h959cb30_2
     - glog =0.7.1 =h2790a97_0
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.1.5 =py38hdb2c785_1
@@ -187,10 +187,10 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20240116.2 =cxx17_hf036a51_1
-    - libarrow =17.0.0 =h721ee37_4_cpu
-    - libarrow-acero =17.0.0 =hac325c4_4_cpu
-    - libarrow-dataset =17.0.0 =hac325c4_4_cpu
-    - libarrow-substrait =17.0.0 =hba007a9_4_cpu
+    - libarrow =17.0.0 =h13b3563_5_cpu
+    - libarrow-acero =17.0.0 =hac325c4_5_cpu
+    - libarrow-dataset =17.0.0 =hac325c4_5_cpu
+    - libarrow-substrait =17.0.0 =hba007a9_5_cpu
     - libblas =3.9.0 =20_osx64_openblas
     - libboost =1.84.0 =h739af76_3
     - libbrotlicommon =1.1.0 =h0dc2134_1
@@ -211,7 +211,7 @@ requirements:
     - libgd =2.3.3 =h0dceb68_9
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.80.3 =h736d271_1
+    - libglib =2.80.3 =h736d271_2
     - libgoogle-cloud =2.26.0 =h721cda5_0
     - libgoogle-cloud-storage =2.26.0 =h9e84e37_0
     - libgrpc =1.62.2 =h384b2fc_0
@@ -223,12 +223,12 @@ requirements:
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm15 =15.0.7 =hbedff68_4
-    - libllvm18 =18.1.8 =h9ce406d_1
+    - libllvm18 =18.1.8 =h9ce406d_2
     - libnghttp2 =1.58.0 =h64cf6d3_1
     - libogg =1.3.5 =hfdf4475_0
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =17.0.0 =h2adadb3_4_cpu
+    - libparquet =17.0.0 =h2adadb3_5_cpu
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =16.4 =h4501773_0
     - libprotobuf =4.25.3 =h4e4d658_0

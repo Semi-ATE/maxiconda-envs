@@ -25,7 +25,7 @@ requirements:
     - python =3.8.19 =h5ba8234_0_cpython
 
     # 38 primary packages :
-    - aiohttp =3.10.1 =py38hc718529_0
+    - aiohttp =3.10.2 =py38hc718529_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - bitarray =2.9.2 =py38hae2e43d_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.1.9 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 464 secondary packages :
+    # 465 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.3.5 =pyhd8ed1ab_0
     - aiosignal =1.3.1 =pyhd8ed1ab_0
@@ -136,8 +136,8 @@ requirements:
     - frozenlist =1.4.1 =py38hae2e43d_0
     - gfortran_impl_osx-64 =12.3.0 =hc328e78_3
     - gfortran_osx-64 =12.3.0 =h18f7dce_1
-    - glib =2.80.3 =h736d271_1
-    - glib-tools =2.80.3 =h959cb30_1
+    - glib =2.80.3 =h736d271_2
+    - glib-tools =2.80.3 =h959cb30_2
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.1.5 =py38hdb2c785_1
     - graphite2 =1.3.13 =h73e2aa4_1003
@@ -202,7 +202,7 @@ requirements:
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran-devel_osx-64 =12.3.0 =h0b6f5ec_3
     - libgfortran5 =13.2.0 =h2873a65_3
-    - libglib =2.80.3 =h736d271_1
+    - libglib =2.80.3 =h736d271_2
     - libiconv =1.17 =hd75f5a5_2
     - libintl =0.22.5 =h5ff76d1_2
     - libintl-devel =0.22.5 =h5ff76d1_2
@@ -210,7 +210,7 @@ requirements:
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm15 =15.0.7 =hbedff68_4
-    - libllvm18 =18.1.8 =h9ce406d_1
+    - libllvm18 =18.1.8 =h9ce406d_2
     - libnghttp2 =1.58.0 =h64cf6d3_1
     - libogg =1.3.5 =hfdf4475_0
     - libopenblas =0.3.25 =openmp_hfef2a42_0
@@ -228,7 +228,8 @@ requirements:
     - libxml2 =2.12.7 =hc603aa4_3
     - libzlib =1.3.1 =h87427d6_1
     - llvm-openmp =18.1.8 =h15ab845_0
-    - llvm-tools =18.1.8 =h9ce406d_1
+    - llvm-tools =18.1.8 =h9ce406d_2
+    - llvm-tools-18 =18.1.8 =h9ce406d_2
     - llvmlite =0.41.1 =py38h6008ce5_0
     - make =4.3 =h22f3db7_1
     - markupsafe =2.1.5 =py38hae2e43d_0
