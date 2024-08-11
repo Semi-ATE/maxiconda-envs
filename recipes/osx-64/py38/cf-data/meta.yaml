@@ -198,7 +198,7 @@ requirements:
     - libbrotlienc =1.1.0 =h0dc2134_1
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
-    - libclang13 =18.1.8 =default_h9ff962c_1
+    - libclang13 =18.1.8 =default_h9ff962c_2
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.9.1 =hfcf2730_0
     - libcxx =18.1.8 =heced48a_2
@@ -378,7 +378,7 @@ requirements:
     - sqlparse =0.5.1 =pyhd8ed1ab_0
     - srsly =2.4.8 =py38h940360d_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
-    - sympy =1.13.0 =pypyh2585a3b_103
+    - sympy =1.13.1 =pypyh2585a3b_103
     - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.12.0 =h3c5361c_3
@@ -393,7 +393,7 @@ requirements:
     - tornado =6.4.1 =py38hc718529_0
     - tqdm =4.66.5 =pyhd8ed1ab_0
     - traitlets =5.14.3 =pyhd8ed1ab_0
-    - twisted =24.3.0 =py38hae2e43d_0
+    - twisted =24.7.0 =py38hc718529_0
     - typer =0.12.3 =pyhd8ed1ab_0
     - typer-slim =0.12.3 =pyhd8ed1ab_0
     - typer-slim-standard =0.12.3 =hd8ed1ab_0
