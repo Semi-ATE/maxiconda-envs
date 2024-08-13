@@ -31,13 +31,13 @@ requirements:
     - bitarray =2.9.2 =py39ha55989b_0
     - cython =3.0.11 =py39ha51f57c_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.110.2 =pyha770c72_0
+    - hypothesis =6.111.0 =pyha770c72_0
     - ipython =8.18.1 =pyh7428d3b_3
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - matplotlib =3.9.1 =py39hcbf5309_2
     - numba =0.60.0 =py39h5dcb127_0
     - numpy =2.0.1 =py39h60232e0_0
-    - openpyxl =3.1.4 =py39ha55989b_0
+    - openpyxl =3.1.5 =py39ha55989b_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.2.2 =py39h2366fc2_1
     - psutil =6.0.0 =py39ha55e580_0
@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0.2 =py39ha55e580_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qtawesome =1.3.1 =pyh9208f05_0
-    - r-base =4.1.3 =h22dd5fe_14
+    - r-base =4.1.3 =h22dd5fe_15
     - r-essentials =4.1 =r41hd8ed1ab_2003
     - regex =2024.7.24 =py39ha55e580_0
     - requests =2.32.3 =pyhd8ed1ab_0
@@ -58,7 +58,7 @@ requirements:
     - spyder-kernels =2.5.2 =win_pyh7428d3b_0
     - sqlalchemy =2.0.32 =py39ha55e580_0
     - sqlite =3.46.0 =h2466b09_0
-    - sympy =1.13.1 =pyh04b8f61_3
+    - sympy =1.13.2 =pyh04b8f61_3
     - tqdm =4.66.5 =pyhd8ed1ab_0
     - transitions =0.9.2 =pyhd8ed1ab_0
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
@@ -463,7 +463,7 @@ requirements:
     - rpds-py =0.20.0 =py39h92a245a_0
     - ruamel.yaml =0.18.6 =py39ha55989b_0
     - ruamel.yaml.clib =0.2.8 =py39ha55989b_0
-    - ruamel.yaml.jinja2 =0.2.4 =py_1
+    - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_0
     - rust-std-x86_64-pc-windows-msvc =1.80.1 =h17fc481_0
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.3 =pyh5737063_0

@@ -31,13 +31,13 @@ requirements:
     - bitarray =2.9.2 =py39ha09f3b3_0
     - cython =3.0.11 =py39h09c4c31_0
     - grayskull =2.5.3 =pyhd8ed1ab_0
-    - hypothesis =6.110.2 =pyha770c72_0
+    - hypothesis =6.111.0 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - matplotlib =3.9.1 =py39h6e9494a_2
     - numba =0.60.0 =py39h90d9702_0
     - numpy =2.0.1 =py39h3fadf17_0
-    - openpyxl =3.1.4 =py39h4f4a4d5_0
+    - openpyxl =3.1.5 =py39h4f4a4d5_0
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.2.2 =py39hbb604f3_1
     - psutil =6.0.0 =py39hded5825_0
@@ -58,7 +58,7 @@ requirements:
     - spyder-kernels =2.5.2 =unix_pyh707e725_0
     - sqlalchemy =2.0.32 =py39hded5825_0
     - sqlite =3.46.0 =h28673e1_0
-    - sympy =1.13.1 =pypyh2585a3b_103
+    - sympy =1.13.2 =pypyh2585a3b_103
     - tqdm =4.66.5 =pyhd8ed1ab_0
     - transitions =0.9.2 =pyhd8ed1ab_0
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
@@ -258,7 +258,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.54.0 =h115fe74_1
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pcre2 =10.44 =h7634a1b_0
+    - pcre2 =10.44 =h7634a1b_2
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =10.4.0 =py39hc3a33ae_0
@@ -480,7 +480,7 @@ requirements:
     - rpds-py =0.20.0 =py39hf59063a_0
     - ruamel.yaml =0.18.6 =py39ha09f3b3_0
     - ruamel.yaml.clib =0.2.8 =py39ha09f3b3_0
-    - ruamel.yaml.jinja2 =0.2.4 =py_1
+    - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_0
     - rust-std-x86_64-apple-darwin =1.80.1 =h38e4360_0
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.3 =pyh31c8845_0

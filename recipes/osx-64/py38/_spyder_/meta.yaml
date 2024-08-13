@@ -33,7 +33,7 @@ requirements:
     - pyqtwebengine =5.15.9 =py38hf9b569d_5
     - scipy =1.10.1 =py38h9cf86d3_3
     - spyder =5.5.5 =py38h50d1736_0
-    - sympy =1.13.1 =pypyh2585a3b_103
+    - sympy =1.13.2 =pypyh2585a3b_103
 
     # 259 secondary packages :
     - alabaster =0.7.13 =pyhd8ed1ab_0
@@ -51,7 +51,7 @@ requirements:
     - backports.tarfile =1.0.0 =pyhd8ed1ab_1
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - binaryornot =0.4.4 =py_1
-    - black =24.4.2 =py38h50d1736_0
+    - black =24.8.0 =py38h50d1736_0
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =h0dc2134_1
     - brotli-bin =1.1.0 =h0dc2134_1
@@ -188,7 +188,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
-    - pcre2 =10.44 =h7634a1b_0
+    - pcre2 =10.44 =h7634a1b_2
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pillow =10.4.0 =py38hf802781_0

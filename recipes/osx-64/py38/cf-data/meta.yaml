@@ -56,19 +56,19 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =24.2.0 =pyh71513ae_0
     - automat =22.10.0 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.25 =h57c6dfa_2
-    - aws-c-cal =0.7.2 =hd73d8db_0
-    - aws-c-common =0.9.23 =hfdf4475_0
-    - aws-c-compression =0.2.18 =hd73d8db_7
-    - aws-c-event-stream =0.4.2 =h3e37b14_19
-    - aws-c-http =0.8.7 =h7438d8a_1
-    - aws-c-io =0.14.18 =h70ed79e_1
-    - aws-c-mqtt =0.10.4 =h02da568_15
-    - aws-c-s3 =0.6.4 =h760d7c8_5
-    - aws-c-sdkutils =0.1.16 =hd73d8db_3
-    - aws-checksums =0.1.18 =hd73d8db_7
-    - aws-crt-cpp =0.27.5 =h31b4b20_3
-    - aws-sdk-cpp =1.11.379 =hf1ac886_1
+    - aws-c-auth =0.7.25 =h6309471_4
+    - aws-c-cal =0.7.2 =h5b118bc_1
+    - aws-c-common =0.9.25 =hfdf4475_0
+    - aws-c-compression =0.2.18 =h5b118bc_8
+    - aws-c-event-stream =0.4.2 =h671840a_20
+    - aws-c-http =0.8.7 =h22e442e_2
+    - aws-c-io =0.14.18 =hddd658a_2
+    - aws-c-mqtt =0.10.4 =h3710d3a_16
+    - aws-c-s3 =0.6.4 =h89cdba3_6
+    - aws-c-sdkutils =0.1.19 =h5b118bc_0
+    - aws-checksums =0.1.18 =h5b118bc_8
+    - aws-crt-cpp =0.27.5 =h53ac995_5
+    - aws-sdk-cpp =1.11.379 =h065e723_2
     - azure-core-cpp =1.13.0 =hf8dbe3c_0
     - azure-identity-cpp =1.8.0 =h60298e3_2
     - azure-storage-blobs-cpp =12.12.0 =h646f05d_0
@@ -152,7 +152,7 @@ requirements:
     - gstreamer =1.24.6 =hbc75551_0
     - gtk2 =2.24.33 =h2c15c3c_5
     - gts =0.7.6 =h53e17e3_4
-    - gunicorn =22.0.0 =py38h50d1736_0
+    - gunicorn =23.0.0 =py38h50d1736_0
     - harfbuzz =9.0.0 =h053f038_0
     - htmlmin =0.1.12 =pyhca7485f_2
     - hyperlink =21.0.0 =pyhd3deb0d_0
@@ -187,10 +187,10 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20240116.2 =cxx17_hf036a51_1
-    - libarrow =17.0.0 =h13b3563_5_cpu
-    - libarrow-acero =17.0.0 =hac325c4_5_cpu
-    - libarrow-dataset =17.0.0 =hac325c4_5_cpu
-    - libarrow-substrait =17.0.0 =hba007a9_5_cpu
+    - libarrow =17.0.0 =h1496d7c_6_cpu
+    - libarrow-acero =17.0.0 =hac325c4_6_cpu
+    - libarrow-dataset =17.0.0 =hac325c4_6_cpu
+    - libarrow-substrait =17.0.0 =hba007a9_6_cpu
     - libblas =3.9.0 =20_osx64_openblas
     - libboost =1.84.0 =h739af76_3
     - libbrotlicommon =1.1.0 =h0dc2134_1
@@ -212,8 +212,8 @@ requirements:
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
     - libglib =2.80.3 =h736d271_2
-    - libgoogle-cloud =2.26.0 =h721cda5_0
-    - libgoogle-cloud-storage =2.26.0 =h9e84e37_0
+    - libgoogle-cloud =2.28.0 =h721cda5_0
+    - libgoogle-cloud-storage =2.28.0 =h9e84e37_0
     - libgrpc =1.62.2 =h384b2fc_0
     - libhwloc =2.11.1 =default_h456cccd_1000
     - libiconv =1.17 =hd75f5a5_2
@@ -228,7 +228,7 @@ requirements:
     - libogg =1.3.5 =hfdf4475_0
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =17.0.0 =h2adadb3_5_cpu
+    - libparquet =17.0.0 =h2adadb3_6_cpu
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =16.4 =h4501773_0
     - libprotobuf =4.25.3 =h4e4d658_0
@@ -252,7 +252,7 @@ requirements:
     - libzlib =1.3.1 =h87427d6_1
     - llvm-openmp =18.1.8 =h15ab845_0
     - llvmlite =0.41.1 =py38h6008ce5_0
-    - lxml =5.2.2 =py38hdcdec35_0
+    - lxml =5.3.0 =py38h6ac182c_0
     - lz4-c =1.9.4 =hf0c8a7f_0
     - mako =1.3.5 =pyhd8ed1ab_0
     - marisa-trie =1.1.0 =py38h1f5f77c_1
@@ -290,11 +290,11 @@ requirements:
     - packaging =24.1 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.54.0 =h115fe74_1
-    - paramiko =3.4.0 =pyhd8ed1ab_0
+    - paramiko =3.4.1 =pyhd8ed1ab_0
     - parsel =1.9.1 =pyhd8ed1ab_2
     - parso =0.8.4 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0
-    - pcre2 =10.44 =h7634a1b_0
+    - pcre2 =10.44 =h7634a1b_2
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - phik =0.12.3 =py38h77a45d2_1
     - pickleshare =0.7.5 =py38h32f6830_1002
@@ -357,8 +357,8 @@ requirements:
     - retrying =1.3.3 =pyhd8ed1ab_3
     - rich =13.7.1 =pyhd8ed1ab_0
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
-    - service-identity =21.1.0 =pyhd8ed1ab_0
-    - service_identity =21.1.0 =hd8ed1ab_0
+    - service-identity =24.1.0 =pyhd8ed1ab_0
+    - service_identity =24.1.0 =hd8ed1ab_0
     - setuptools =72.1.0 =pyhd8ed1ab_0
     - shap =0.44.1 =cpu_py38h198226a_0
     - shellingham =1.5.4 =pyhd8ed1ab_0
@@ -378,7 +378,7 @@ requirements:
     - sqlparse =0.5.1 =pyhd8ed1ab_0
     - srsly =2.4.8 =py38h940360d_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
-    - sympy =1.13.1 =pypyh2585a3b_103
+    - sympy =1.13.2 =pypyh2585a3b_103
     - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.12.0 =h3c5361c_3

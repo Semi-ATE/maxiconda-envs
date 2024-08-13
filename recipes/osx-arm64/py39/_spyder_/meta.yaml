@@ -33,7 +33,7 @@ requirements:
     - pyqtwebengine =5.15.9 =py39h0a87ed2_5
     - scipy =1.13.1 =py39h3d5391c_0
     - spyder =5.5.5 =py39h2804cbe_0
-    - sympy =1.13.1 =pypyh2585a3b_103
+    - sympy =1.13.2 =pypyh2585a3b_103
 
     # 259 secondary packages :
     - alabaster =0.7.16 =pyhd8ed1ab_0
@@ -50,7 +50,7 @@ requirements:
     - backports.tarfile =1.0.0 =pyhd8ed1ab_1
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - binaryornot =0.4.4 =py_1
-    - black =24.4.2 =py39h2804cbe_0
+    - black =24.8.0 =py39h2804cbe_0
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =hb547adb_1
     - brotli-bin =1.1.0 =hb547adb_1
@@ -180,7 +180,7 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - nspr =4.35 =hb7217d7_0
     - nss =3.103 =hc42bcbf_0
-    - numpydoc =1.7.0 =pyhd8ed1ab_3
+    - numpydoc =1.8.0 =pyhd8ed1ab_0
     - openjpeg =2.5.2 =h9f1df11_0
     - openssl =3.3.1 =hfb2fe0b_2
     - packaging =24.1 =pyhd8ed1ab_0
@@ -188,7 +188,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
-    - pcre2 =10.44 =h297a79d_0
+    - pcre2 =10.44 =h297a79d_2
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pillow =10.4.0 =py39h3baf582_0
