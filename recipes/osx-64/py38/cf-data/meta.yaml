@@ -82,7 +82,7 @@ requirements:
     - brotli-bin =1.1.0 =h0dc2134_1
     - brotli-python =1.1.0 =py38h940360d_1
     - bzip2 =1.0.8 =hfdf4475_7
-    - c-ares =1.32.3 =h51dda26_0
+    - c-ares =1.33.0 =h51dda26_0
     - ca-certificates =2024.7.4 =h8857fd0_0
     - cairo =1.18.0 =h9f650ed_2
     - catalogue =2.0.10 =py38h50d1736_0
@@ -187,10 +187,10 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20240116.2 =cxx17_hf036a51_1
-    - libarrow =17.0.0 =h1496d7c_6_cpu
-    - libarrow-acero =17.0.0 =hac325c4_6_cpu
-    - libarrow-dataset =17.0.0 =hac325c4_6_cpu
-    - libarrow-substrait =17.0.0 =hba007a9_6_cpu
+    - libarrow =17.0.0 =h1496d7c_7_cpu
+    - libarrow-acero =17.0.0 =hac325c4_7_cpu
+    - libarrow-dataset =17.0.0 =hac325c4_7_cpu
+    - libarrow-substrait =17.0.0 =hba007a9_7_cpu
     - libblas =3.9.0 =20_osx64_openblas
     - libboost =1.84.0 =h739af76_3
     - libbrotlicommon =1.1.0 =h0dc2134_1
@@ -228,7 +228,7 @@ requirements:
     - libogg =1.3.5 =hfdf4475_0
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =17.0.0 =h2adadb3_6_cpu
+    - libparquet =17.0.0 =hf1b0f52_7_cpu
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =16.4 =h4501773_0
     - libprotobuf =4.25.3 =h4e4d658_0
@@ -237,7 +237,7 @@ requirements:
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.46.0 =h1b8f9f3_0
     - libssh2 =1.11.0 =hd019ec5_0
-    - libthrift =0.19.0 =h064b379_1
+    - libthrift =0.20.0 =h87f9345_0
     - libtiff =4.6.0 =h603087a_4
     - libtorch =2.3.1 =cpu_mkl_hf6650b8_101
     - libutf8proc =2.8.0 =hb7f2c08_0
@@ -357,7 +357,7 @@ requirements:
     - retrying =1.3.3 =pyhd8ed1ab_3
     - rich =13.7.1 =pyhd8ed1ab_0
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
-    - service-identity =24.1.0 =pyhd8ed1ab_0
+    - service-identity =24.1.0 =pyha770c72_0
     - service_identity =24.1.0 =hd8ed1ab_0
     - setuptools =72.1.0 =pyhd8ed1ab_0
     - shap =0.44.1 =cpu_py38h198226a_0
@@ -422,7 +422,7 @@ requirements:
     - yaml =0.2.5 =h0d85af4_2
     - yellowbrick =1.5 =pyhd8ed1ab_0
     - zeromq =4.3.5 =hde137ed_4
-    - zipp =3.19.2 =pyhd8ed1ab_0
+    - zipp =3.20.0 =pyhd8ed1ab_0
     - zlib =1.3.1 =h87427d6_1
     - zope.interface =7.0.1 =py38hc718529_0
     - zstd =1.5.6 =h915ae27_0
