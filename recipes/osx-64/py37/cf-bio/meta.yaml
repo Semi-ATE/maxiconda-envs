@@ -68,8 +68,8 @@ requirements:
     - fonts-conda-forge =1 =0
     - fonttools =4.38.0 =py37h8052db5_0
     - freetype =2.12.1 =h60636b9_2
-    - gettext =0.22.5 =h5ff76d1_2
-    - gettext-tools =0.22.5 =h5ff76d1_2
+    - gettext =0.22.5 =hdfe23c8_3
+    - gettext-tools =0.22.5 =hdfe23c8_3
     - glew =2.1.0 =h046ec9c_2
     - glib =2.80.3 =h736d271_2
     - glib-tools =2.80.3 =h959cb30_2
@@ -95,29 +95,29 @@ requirements:
     - lcms2 =2.14 =h90f4b2a_0
     - lerc =4.0.0 =hb486fe8_0
     - libaec =1.1.3 =h73e2aa4_0
-    - libasprintf =0.22.5 =h5ff76d1_2
-    - libasprintf-devel =0.22.5 =h5ff76d1_2
+    - libasprintf =0.22.5 =hdfe23c8_3
+    - libasprintf-devel =0.22.5 =hdfe23c8_3
     - libblas =3.9.0 =20_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
     - libbrotlienc =1.1.0 =h0dc2134_1
     - libcblas =3.9.0 =20_osx64_openblas
-    - libclang =13.0.1 =default_h710a399_7
+    - libclang =13.0.1 =default_h255f2f3_6
     - libcurl =8.1.2 =hbee3ae8_0
-    - libcxx =16.0.6 =hd57cbcb_0
+    - libcxx =18.1.8 =heced48a_4
     - libdeflate =1.14 =hb7f2c08_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =h10d778d_2
     - libexpat =2.6.2 =h73e2aa4_0
     - libffi =3.4.2 =h0d85af4_5
-    - libgettextpo =0.22.5 =h5ff76d1_2
-    - libgettextpo-devel =0.22.5 =h5ff76d1_2
+    - libgettextpo =0.22.5 =hdfe23c8_3
+    - libgettextpo-devel =0.22.5 =hdfe23c8_3
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
     - libglib =2.80.3 =h736d271_2
     - libiconv =1.17 =hd75f5a5_2
-    - libintl =0.22.5 =h5ff76d1_2
-    - libintl-devel =0.22.5 =h5ff76d1_2
+    - libintl =0.22.5 =hdfe23c8_3
+    - libintl-devel =0.22.5 =hdfe23c8_3
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm13 =13.0.1 =h64f94b2_2
     - libnetcdf =4.8.1 =nompi_hc61b76e_106
@@ -137,7 +137,7 @@ requirements:
     - libxml2 =2.10.3 =h201ad9d_4
     - libzip =1.10.1 =hc158999_3
     - libzlib =1.3.1 =h87427d6_1
-    - llvm-openmp =18.1.8 =h15ab845_0
+    - llvm-openmp =18.1.8 =h15ab845_1
     - matplotlib-base =3.5.3 =py37h3748cd6_2
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mmtf-python =1.1.3 =pyhd8ed1ab_0

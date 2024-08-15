@@ -182,7 +182,7 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - ld64_osx-64 =711 =h93b84b6_3
     - lerc =4.0.0 =hb486fe8_0
-    - libasprintf =0.22.5 =h5ff76d1_2
+    - libasprintf =0.22.5 =hdfe23c8_3
     - libblas =3.9.0 =20_osx64_openblas
     - libbrotlicommon =1.1.0 =h0dc2134_1
     - libbrotlidec =1.1.0 =h0dc2134_1
@@ -192,20 +192,20 @@ requirements:
     - libclang-cpp18.1 =18.1.8 =default_h0c94c6a_2
     - libclang13 =18.1.8 =default_h9ff962c_2
     - libcurl =8.9.1 =hfcf2730_0
-    - libcxx =18.1.8 =heced48a_2
+    - libcxx =18.1.8 =heced48a_4
     - libdeflate =1.20 =h49d49c5_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =h10d778d_2
     - libexpat =2.6.2 =h73e2aa4_0
     - libffi =3.4.2 =h0d85af4_5
-    - libgettextpo =0.22.5 =h5ff76d1_2
+    - libgettextpo =0.22.5 =hdfe23c8_3
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran-devel_osx-64 =12.3.0 =h0b6f5ec_3
     - libgfortran5 =13.2.0 =h2873a65_3
     - libglib =2.80.3 =h736d271_2
     - libiconv =1.17 =hd75f5a5_2
-    - libintl =0.22.5 =h5ff76d1_2
-    - libintl-devel =0.22.5 =h5ff76d1_2
+    - libintl =0.22.5 =hdfe23c8_3
+    - libintl-devel =0.22.5 =hdfe23c8_3
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
@@ -227,7 +227,7 @@ requirements:
     - libxcb =1.16 =h0dc2134_0
     - libxml2 =2.12.7 =hc603aa4_3
     - libzlib =1.3.1 =h87427d6_1
-    - llvm-openmp =18.1.8 =h15ab845_0
+    - llvm-openmp =18.1.8 =h15ab845_1
     - llvm-tools =18.1.8 =h9ce406d_2
     - llvm-tools-18 =18.1.8 =h9ce406d_2
     - llvmlite =0.41.1 =py38h6008ce5_0
