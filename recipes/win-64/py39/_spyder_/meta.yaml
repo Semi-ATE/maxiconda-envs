@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =3.0.11 =py39ha51f57c_0
-    - matplotlib =3.9.1 =py39hcbf5309_2
+    - matplotlib =3.9.2 =py39hcbf5309_0
     - numpy =2.0.1 =py39h60232e0_0
     - pandas =2.2.2 =py39h2366fc2_1
     - pyqt =5.15.9 =py39hb77abff_5
@@ -104,11 +104,11 @@ requirements:
     - idna =3.7 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
     - importlib-metadata =8.2.0 =pyha770c72_0
-    - importlib-resources =6.4.0 =pyhd8ed1ab_0
+    - importlib-resources =6.4.2 =pyhd8ed1ab_0
     - importlib_metadata =8.2.0 =hd8ed1ab_0
-    - importlib_resources =6.4.0 =pyhd8ed1ab_0
+    - importlib_resources =6.4.2 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
-    - intel-openmp =2024.2.0 =h57928b3_980
+    - intel-openmp =2024.2.1 =h57928b3_1083
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.29.5 =pyh4bbf305_0
     - ipython =8.18.1 =pyh7428d3b_3
@@ -165,7 +165,7 @@ requirements:
     - m2w64-libwinpthread-git =5.0.0.4634.697f757 =2
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py39ha55989b_0
-    - matplotlib-base =3.9.1 =py39h5376392_2
+    - matplotlib-base =3.9.2 =py39h5376392_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_0
     - mdurl =0.1.2 =pyhd8ed1ab_0
