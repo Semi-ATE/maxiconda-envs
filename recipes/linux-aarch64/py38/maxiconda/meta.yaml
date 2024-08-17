@@ -31,7 +31,7 @@ requirements:
     - bitarray =2.9.2 =py38h9579f32_0
     - cython =3.0.11 =py38h8529334_0
     - grayskull =2.6.0 =pyhd8ed1ab_1
-    - hypothesis =6.111.0 =pyha770c72_0
+    - hypothesis =6.111.1 =pyha770c72_0
     - ipython =8.12.2 =pyh41d4057_0
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - matplotlib =3.7.3 =py38h2063c64_0
@@ -68,7 +68,7 @@ requirements:
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - _sysroot_linux-aarch64_curr_repodata_hack =4 =h57d6b7b_16
-    - aiohappyeyeballs =2.3.5 =pyhd8ed1ab_0
+    - aiohappyeyeballs =2.3.6 =pyhd8ed1ab_0
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - alsa-lib =1.2.12 =h68df207_0
     - annotated-types =0.7.0 =pyhd8ed1ab_0
@@ -305,7 +305,7 @@ requirements:
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2024.1 =pyhd8ed1ab_0
     - python-utils =3.8.2 =pyhd8ed1ab_0
-    - python_abi =3.8 =4_cp38
+    - python_abi =3.8 =5_cp38
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyzmq =26.1.0 =py38h2a8023b_0
     - qt-main =5.15.8 =h86d3f6d_23
@@ -411,7 +411,7 @@ requirements:
     - r-nlme =3.1_165 =r44h5b510ea_1
     - r-nnet =7.3_19 =r44hc1cf72c_2
     - r-numderiv =2016.8_1.1 =r44hc72bb7e_6
-    - r-openssl =2.2.0 =r44h21ca366_1
+    - r-openssl =2.2.1 =r44h21ca366_0
     - r-parallelly =1.38.0 =r44hc1cf72c_0
     - r-pbdzmq =0.3_11 =r44hf5c2610_1
     - r-pillar =1.9.0 =r44hc72bb7e_2
@@ -436,7 +436,7 @@ requirements:
     - r-rbokeh =0.5.2 =r44hc72bb7e_4
     - r-rcolorbrewer =1.1_3 =r44h785f33e_3
     - r-rcpp =1.0.13 =r44h6170684_0
-    - r-rcppeigen =0.3.4.0.0 =r44h5da6ed8_1
+    - r-rcppeigen =0.3.4.0.1 =r44h5da6ed8_0
     - r-readr =2.1.5 =r44h6170684_1
     - r-readxl =1.4.3 =r44h3d7b93a_1
     - r-recipes =1.1.0 =r44hc72bb7e_1
