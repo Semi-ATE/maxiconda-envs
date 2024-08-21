@@ -52,20 +52,20 @@ requirements:
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attrs =24.2.0 =pyh71513ae_0
-    - automat =24.8.0 =pyhd8ed1ab_0
+    - automat =24.8.1 =pyhd8ed1ab_0
     - aws-c-auth =0.7.25 =h7db803d_6
     - aws-c-cal =0.7.3 =ha1e9ad3_2
     - aws-c-common =0.9.27 =h2466b09_0
     - aws-c-compression =0.2.18 =ha1e9ad3_10
-    - aws-c-event-stream =0.4.2 =hf2a634e_21
+    - aws-c-event-stream =0.4.3 =hf2a634e_0
     - aws-c-http =0.8.7 =h6bd9195_4
     - aws-c-io =0.14.18 =h8d4122e_5
     - aws-c-mqtt =0.10.4 =h827f298_17
     - aws-c-s3 =0.6.4 =h21392f2_8
     - aws-c-sdkutils =0.1.19 =ha1e9ad3_2
     - aws-checksums =0.1.18 =ha1e9ad3_10
-    - aws-crt-cpp =0.27.5 =h1307057_7
-    - aws-sdk-cpp =1.11.379 =h21b9f41_3
+    - aws-crt-cpp =0.27.5 =h6fef074_8
+    - aws-sdk-cpp =1.11.379 =h2b963c6_4
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bcrypt =4.2.0 =py38h2e0ef18_0
     - blinker =1.8.2 =pyhd8ed1ab_0
@@ -144,9 +144,9 @@ requirements:
     - idna =3.7 =pyhd8ed1ab_0
     - imagehash =4.3.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.12.3 =pyhd8ed1ab_0
-    - importlib-metadata =8.2.0 =pyha770c72_0
+    - importlib-metadata =8.4.0 =pyha770c72_0
     - importlib-resources =6.4.3 =pyhd8ed1ab_0
-    - importlib_metadata =8.2.0 =hd8ed1ab_0
+    - importlib_metadata =8.4.0 =hd8ed1ab_0
     - importlib_resources =6.4.3 =pyhd8ed1ab_0
     - incremental =24.7.2 =pyhd8ed1ab_0
     - intel-openmp =2024.2.1 =h57928b3_1083
@@ -324,7 +324,7 @@ requirements:
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
     - service-identity =24.1.0 =pyha770c72_0
     - service_identity =24.1.0 =hd8ed1ab_0
-    - setuptools =72.1.0 =pyhd8ed1ab_0
+    - setuptools =72.2.0 =pyhd8ed1ab_0
     - shap =0.44.1 =cpu_py38hd94c00f_0
     - shellingham =1.5.4 =pyhd8ed1ab_0
     - simpful =2.12.0 =pyhd8ed1ab_1
