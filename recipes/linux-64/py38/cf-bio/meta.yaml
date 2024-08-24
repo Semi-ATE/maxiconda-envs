@@ -48,7 +48,7 @@ requirements:
     - brotli-bin =1.1.0 =hd590300_1
     - brotli-python =1.1.0 =py38h17151c0_1
     - bzip2 =1.0.8 =h4bc722e_7
-    - c-ares =1.33.0 =ha66036c_0
+    - c-ares =1.33.1 =heb4867d_0
     - ca-certificates =2024.7.4 =hbcca054_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
@@ -99,7 +99,7 @@ requirements:
     - hpack =4.0.0 =pyh9f0ad1d_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =73.2 =h59595ed_0
-    - idna =3.7 =pyhd8ed1ab_0
+    - idna =3.8 =pyhd8ed1ab_0
     - importlib-metadata =8.4.0 =pyha770c72_0
     - importlib-resources =6.4.4 =pyhd8ed1ab_0
     - importlib_metadata =8.4.0 =hd8ed1ab_0
@@ -173,7 +173,7 @@ requirements:
     - libuuid =2.38.1 =h0b41bf4_0
     - libvorbis =1.3.7 =h9c3ff4c_0
     - libwebp-base =1.4.0 =hd590300_0
-    - libxcb =1.16 =hd590300_0
+    - libxcb =1.16 =hb9d3cd8_1
     - libxcrypt =4.4.36 =hd590300_1
     - libxkbcommon =1.7.0 =h2c5496b_1
     - libxml2 =2.12.7 =h4c95cb1_3
@@ -197,7 +197,7 @@ requirements:
     - nspr =4.35 =h27087fc_0
     - nss =3.103 =h593d115_0
     - openjpeg =2.5.2 =h488ebb8_0
-    - openssl =3.3.1 =h4bc722e_2
+    - openssl =3.3.1 =hb9d3cd8_3
     - packaging =24.1 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0
@@ -231,7 +231,7 @@ requirements:
     - python_abi =3.8 =5_cp38
     - pytng =0.3.0 =py38hcf6129a_0
     - pytz =2024.1 =pyhd8ed1ab_0
-    - pyzmq =26.1.1 =py38hb4a53f8_0
+    - pyzmq =26.2.0 =py38h6c80b9a_0
     - qt-main =5.15.8 =h320f8da_24
     - readline =8.2 =h8228510_1
     - reportlab =4.2.2 =py38hfb59056_0

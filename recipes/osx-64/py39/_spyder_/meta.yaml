@@ -92,7 +92,7 @@ requirements:
     - hpack =4.0.0 =pyh9f0ad1d_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =73.2 =hf5e326d_0
-    - idna =3.7 =pyhd8ed1ab_0
+    - idna =3.8 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
     - importlib-metadata =8.4.0 =pyha770c72_0
     - importlib-resources =6.4.4 =pyhd8ed1ab_0
@@ -152,7 +152,7 @@ requirements:
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp =1.4.0 =hc207709_0
     - libwebp-base =1.4.0 =h10d778d_0
-    - libxcb =1.16 =h0dc2134_0
+    - libxcb =1.16 =h00291cd_1
     - libxml2 =2.12.7 =hc603aa4_3
     - libzlib =1.3.1 =h87427d6_1
     - llvm-openmp =18.1.8 =h15ab845_1
@@ -182,7 +182,7 @@ requirements:
     - nss =3.103 =he7eb89d_0
     - numpydoc =1.8.0 =pyhd8ed1ab_0
     - openjpeg =2.5.2 =h7310d3a_0
-    - openssl =3.3.1 =h87427d6_2
+    - openssl =3.3.1 =hd23fc13_3
     - packaging =24.1 =pyhd8ed1ab_0
     - pandoc =3.3 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -230,7 +230,7 @@ requirements:
     - pytoolconfig =1.2.5 =pyhd8ed1ab_0
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py39hded5825_0
-    - pyzmq =26.1.1 =py39hf975025_0
+    - pyzmq =26.2.0 =py39ha6bd863_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qhull =2020.2 =h3c5361c_5
     - qstylizer =0.2.3 =pyhd8ed1ab_0
