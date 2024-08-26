@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =3.0.1 =py39h6e9494a_0
     - pyqt =5.15.9 =py39h3dce684_5
-    - pytorch =2.4.0 =cpu_mkl_py39he10d680_100
+    - pytorch =2.4.0 =cpu_mkl_py39hd2dbf71_101
     - scikit-learn =1.5.1 =py39hf6a2366_0
     - scipy =1.13.1 =py39h038d4f4_0
     - scrapy =2.11.2 =py39h6e9494a_0
@@ -239,7 +239,7 @@ requirements:
     - libssh2 =1.11.0 =hd019ec5_0
     - libthrift =0.20.0 =h87f9345_0
     - libtiff =4.6.0 =h603087a_4
-    - libtorch =2.4.0 =cpu_mkl_hc3937cb_100
+    - libtorch =2.4.0 =cpu_mkl_hdbae018_101
     - libutf8proc =2.8.0 =hb7f2c08_0
     - libuv =1.48.0 =h67532ce_0
     - libvorbis =1.3.7 =h046ec9c_0
@@ -331,7 +331,7 @@ requirements:
     - pynndescent =0.5.13 =pyhff2d567_0
     - pyod =2.0.1 =pyhd8ed1ab_0
     - pyopenssl =24.2.1 =pyhd8ed1ab_2
-    - pyparsing =3.1.2 =pyhd8ed1ab_0
+    - pyparsing =3.1.4 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py39hb11a7c1_5
     - pysocks =1.7.1 =py39h6e9494a_5
     - python-cufflinks =0.17.3 =py_0
@@ -364,7 +364,7 @@ requirements:
     - simpful =2.12.0 =pyhd8ed1ab_1
     - sip =6.7.12 =py39h110ca85_0
     - six =1.16.0 =pyh6c4a22f_0
-    - sleef =3.6.1 =h01aa1be_2
+    - sleef =3.6.1 =h01aa1be_3
     - slicer =0.0.8 =pyhd8ed1ab_0
     - smart-open =7.0.4 =hd8ed1ab_0
     - smart_open =7.0.4 =pyhd8ed1ab_0
@@ -393,9 +393,9 @@ requirements:
     - tqdm =4.66.5 =pyhd8ed1ab_0
     - traitlets =5.14.3 =pyhd8ed1ab_0
     - twisted =24.7.0 =py39hded5825_0
-    - typer =0.12.4 =pyhd8ed1ab_0
-    - typer-slim =0.12.4 =pyhd8ed1ab_0
-    - typer-slim-standard =0.12.4 =hd8ed1ab_0
+    - typer =0.12.5 =pyhd8ed1ab_0
+    - typer-slim =0.12.5 =pyhd8ed1ab_0
+    - typer-slim-standard =0.12.5 =hd8ed1ab_0
     - typing-extensions =4.12.2 =hd8ed1ab_0
     - typing_extensions =4.12.2 =pyha770c72_0
     - tzdata =2024a =h0c530f3_0
