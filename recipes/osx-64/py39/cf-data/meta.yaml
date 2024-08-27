@@ -56,18 +56,18 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =24.2.0 =pyh71513ae_0
     - automat =24.8.1 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.25 =h4880c77_6
+    - aws-c-auth =0.7.26 =hc560a97_1
     - aws-c-cal =0.7.3 =hf37c103_2
     - aws-c-common =0.9.27 =hfdf4475_0
     - aws-c-compression =0.2.19 =h3e75f19_0
     - aws-c-event-stream =0.4.3 =h324d61a_0
-    - aws-c-http =0.8.7 =h3967ab9_5
+    - aws-c-http =0.8.8 =h3967ab9_0
     - aws-c-io =0.14.18 =hf47059d_6
-    - aws-c-mqtt =0.10.4 =h93740dc_17
-    - aws-c-s3 =0.6.4 =hd06a241_8
+    - aws-c-mqtt =0.10.4 =h03607b6_18
+    - aws-c-s3 =0.6.4 =hec109a7_10
     - aws-c-sdkutils =0.1.19 =hf37c103_2
     - aws-checksums =0.1.18 =hf37c103_10
-    - aws-crt-cpp =0.27.6 =hb7fc533_0
+    - aws-crt-cpp =0.27.6 =hf1cd89d_2
     - aws-sdk-cpp =1.11.379 =hdc2ca5d_5
     - azure-core-cpp =1.13.0 =hf8dbe3c_0
     - azure-identity-cpp =1.8.0 =h60298e3_2
@@ -187,10 +187,10 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20240116.2 =cxx17_hf036a51_1
-    - libarrow =17.0.0 =h92d2a6c_9_cpu
-    - libarrow-acero =17.0.0 =hac325c4_9_cpu
-    - libarrow-dataset =17.0.0 =hac325c4_9_cpu
-    - libarrow-substrait =17.0.0 =hba007a9_9_cpu
+    - libarrow =17.0.0 =h92d2a6c_10_cpu
+    - libarrow-acero =17.0.0 =hac325c4_10_cpu
+    - libarrow-dataset =17.0.0 =hac325c4_10_cpu
+    - libarrow-substrait =17.0.0 =hba007a9_10_cpu
     - libblas =3.9.0 =22_osx64_openblas
     - libboost =1.84.0 =h739af76_3
     - libbrotlicommon =1.1.0 =h0dc2134_1
@@ -228,7 +228,7 @@ requirements:
     - libogg =1.3.5 =hfdf4475_0
     - libopenblas =0.3.27 =openmp_h8869122_1
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =17.0.0 =hf1b0f52_9_cpu
+    - libparquet =17.0.0 =hf1b0f52_10_cpu
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =16.4 =h4501773_0
     - libprotobuf =4.25.3 =h4e4d658_0
@@ -237,7 +237,7 @@ requirements:
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.46.0 =h1b8f9f3_0
     - libssh2 =1.11.0 =hd019ec5_0
-    - libthrift =0.20.0 =h87f9345_0
+    - libthrift =0.20.0 =h75589b3_1
     - libtiff =4.6.0 =h603087a_4
     - libtorch =2.4.0 =cpu_mkl_hdbae018_101
     - libutf8proc =2.8.0 =hb7f2c08_0
@@ -275,7 +275,7 @@ requirements:
     - murmurhash =1.0.10 =py39h840bb9f_1
     - mysql-common =8.3.0 =h3829a10_5
     - mysql-libs =8.3.0 =h01befea_5
-    - ncurses =6.5 =h5846eda_0
+    - ncurses =6.5 =hf036a51_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - networkx =3.2.1 =pyhd8ed1ab_0
     - nltk =3.9.1 =pyhd8ed1ab_0
@@ -423,7 +423,7 @@ requirements:
     - zeromq =4.3.5 =hde137ed_4
     - zipp =3.20.0 =pyhd8ed1ab_0
     - zlib =1.3.1 =h87427d6_1
-    - zope.interface =7.0.1 =py39hded5825_0
+    - zope.interface =7.0.2 =py39h06d86d0_0
     - zstd =1.5.6 =h915ae27_0
 
 about:
