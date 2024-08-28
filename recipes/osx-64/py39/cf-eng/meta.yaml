@@ -25,7 +25,7 @@ requirements:
     - python =3.9.19 =h7a9c478_0_cpython
 
     # 8 primary packages :
-    - numpy =2.0.1 =py39h3fadf17_0
+    - numpy =2.0.2 =py39he6d34d4_0
     - openpyxl =3.1.5 =py39h4f4a4d5_0
     - pandas =2.2.2 =py39hbb604f3_1
     - pyqt =5.15.9 =py39h3dce684_5
@@ -63,7 +63,7 @@ requirements:
     - libcblas =3.9.0 =22_osx64_openblas
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
     - libclang13 =18.1.8 =default_h9ff962c_2
-    - libcxx =18.1.8 =heced48a_4
+    - libcxx =18.1.8 =hd876a4e_6
     - libedit =3.1.20191231 =h0678c8f_2
     - libffi =3.4.2 =h0d85af4_5
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
@@ -128,13 +128,13 @@ requirements:
     - tornado =6.4.1 =py39hded5825_0
     - traitlets =5.14.3 =pyhd8ed1ab_0
     - typing_extensions =4.12.2 =pyha770c72_0
-    - tzdata =2024a =h0c530f3_0
+    - tzdata =2024a =h8827d51_1
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - wheel =0.44.0 =pyhd8ed1ab_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
     - xz =5.2.6 =h775f41a_0
     - zeromq =4.3.5 =hde137ed_4
-    - zipp =3.20.0 =pyhd8ed1ab_0
+    - zipp =3.20.1 =pyhd8ed1ab_0
     - zstd =1.5.6 =h915ae27_0
 
 about:

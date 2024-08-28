@@ -35,7 +35,7 @@ requirements:
     - spyder =5.3.3 =py37hd9ded2f_0
     - sympy =1.10.1 =py37hfd236b0_1
 
-    # 300 secondary packages :
+    # 303 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - alsa-lib =1.2.8 =h4e544f5_0
@@ -151,14 +151,16 @@ requirements:
     - libexpat =2.6.2 =h2f0025b_0
     - libffi =3.4.2 =h3557bc0_5
     - libflac =1.4.3 =h2f0025b_0
-    - libgcc-ng =14.1.0 =he277a41_0
+    - libgcc =14.1.0 =he277a41_1
+    - libgcc-ng =14.1.0 =he9431aa_1
     - libgcrypt =1.11.0 =h68df207_1
     - libgettextpo =0.22.5 =h0a1ffab_3
     - libgettextpo-devel =0.22.5 =h0a1ffab_3
-    - libgfortran-ng =14.1.0 =he9431aa_0
-    - libgfortran5 =14.1.0 =h9420597_0
+    - libgfortran =14.1.0 =he9431aa_1
+    - libgfortran-ng =14.1.0 =he9431aa_1
+    - libgfortran5 =14.1.0 =h9420597_1
     - libglib =2.80.3 =haee52c6_2
-    - libgomp =14.1.0 =he277a41_0
+    - libgomp =14.1.0 =he277a41_1
     - libgpg-error =1.50 =hb13efb6_0
     - libiconv =1.17 =h31becfc_2
     - liblapack =3.9.0 =20_linuxaarch64_openblas
@@ -173,7 +175,8 @@ requirements:
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =1.9.3 =h0a1ffab_5
     - libsqlite =3.46.0 =hf51ef55_0
-    - libstdcxx-ng =14.1.0 =h3f4de04_0
+    - libstdcxx =14.1.0 =h3f4de04_1
+    - libstdcxx-ng =14.1.0 =hf1166c9_1
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.4.0 =hfcd36d1_5
     - libtool =2.4.7 =h0a1ffab_1

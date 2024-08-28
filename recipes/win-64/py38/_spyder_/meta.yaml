@@ -32,7 +32,7 @@ requirements:
     - pyqt =5.15.9 =py38hd6c051e_5
     - pyqtwebengine =5.15.9 =py38h30305e3_5
     - scipy =1.10.1 =py38h1aea9ed_3
-    - spyder =5.5.5 =py38haa244fe_0
+    - spyder =5.5.6 =py38haa244fe_0
     - sympy =1.13.2 =pyh04b8f61_3
 
     # 251 secondary packages :
@@ -78,7 +78,7 @@ requirements:
     - docutils =0.20.1 =py38haa244fe_3
     - entrypoints =0.4 =pyhd8ed1ab_0
     - executing =2.0.1 =pyhd8ed1ab_0
-    - flake8 =7.0.0 =pyhd8ed1ab_0
+    - flake8 =7.1.1 =pyhd8ed1ab_0
     - fonttools =4.53.1 =py38h4cb3324_0
     - freetype =2.12.1 =hdaf720e_2
     - glib =2.80.3 =h7025463_2
@@ -194,7 +194,7 @@ requirements:
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.3 =pyhd8ed1ab_0
-    - pycodestyle =2.11.1 =pyhd8ed1ab_0
+    - pycodestyle =2.12.1 =pyhd8ed1ab_0
     - pycparser =2.22 =pyhd8ed1ab_0
     - pydocstyle =6.3.0 =pyhd8ed1ab_0
     - pyflakes =3.2.0 =pyhd8ed1ab_0
@@ -210,8 +210,8 @@ requirements:
     - python-fastjsonschema =2.20.0 =pyhd8ed1ab_0
     - python-lsp-black =2.0.0 =pyhd8ed1ab_0
     - python-lsp-jsonrpc =1.1.2 =pyhd8ed1ab_0
-    - python-lsp-server =1.11.0 =pyhd8ed1ab_0
-    - python-lsp-server-base =1.11.0 =pyhd8ed1ab_0
+    - python-lsp-server =1.12.0 =pyhd8ed1ab_0
+    - python-lsp-server-base =1.12.0 =pyhd8ed1ab_0
     - python-slugify =8.0.4 =pyhd8ed1ab_0
     - python-tzdata =2024.1 =pyhd8ed1ab_0
     - python_abi =3.8 =5_cp38
@@ -284,7 +284,7 @@ requirements:
     - yaml =0.2.5 =h8ffe710_2
     - yapf =0.40.1 =pyhd8ed1ab_0
     - zeromq =4.3.5 =he1f189c_4
-    - zipp =3.20.0 =pyhd8ed1ab_0
+    - zipp =3.20.1 =pyhd8ed1ab_0
     - zstandard =0.23.0 =py38hf92978b_0
     - zstd =1.5.6 =h0ea2cb4_0
 

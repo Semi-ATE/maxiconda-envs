@@ -149,7 +149,7 @@ requirements:
     - harfbuzz =9.0.0 =h1836168_0
     - hpack =4.0.0 =pyh9f0ad1d_0
     - httpcore =1.0.5 =pyhd8ed1ab_0
-    - httpx =0.27.0 =pyhd8ed1ab_0
+    - httpx =0.27.2 =pyhd8ed1ab_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =73.2 =hc8870d7_0
     - idna =3.8 =pyhd8ed1ab_0
@@ -173,7 +173,7 @@ requirements:
     - jupyter_events =0.10.0 =pyhd8ed1ab_0
     - jupyter_server =2.7.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_0
-    - jupyterlab =4.2.4 =pyhd8ed1ab_0
+    - jupyterlab =4.2.5 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py38h9afee92_1
@@ -191,7 +191,7 @@ requirements:
     - libclang-cpp18.1 =18.1.8 =default_h5c12605_2
     - libclang13 =18.1.8 =default_hfc66aa2_2
     - libcurl =8.9.1 =hfd8ffcc_0
-    - libcxx =18.1.8 =h5a72898_4
+    - libcxx =18.1.8 =h3ed4263_6
     - libdeflate =1.20 =h93a5062_0
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libev =4.33 =h93a5062_2
@@ -317,7 +317,7 @@ requirements:
     - r-colorspace =2.1_1 =r44h07cda29_0
     - r-commonmark =1.9.1 =r44h07cda29_1
     - r-conflicted =1.2.0 =r44h785f33e_2
-    - r-cpp11 =0.4.7 =r44hc72bb7e_1
+    - r-cpp11 =0.5.0 =r44hc72bb7e_0
     - r-crayon =1.5.3 =r44hc72bb7e_1
     - r-crul =1.5.0 =r44h785f33e_0
     - r-curl =5.2.1 =r44h5c2fa7e_1
@@ -507,7 +507,7 @@ requirements:
     - typing-extensions =4.12.2 =hd8ed1ab_0
     - typing_extensions =4.12.2 =pyha770c72_0
     - typing_utils =0.1.0 =pyhd8ed1ab_0
-    - tzdata =2024a =h0c530f3_0
+    - tzdata =2024a =h8827d51_1
     - unicodedata2 =15.1.0 =py38hb192615_0
     - uri-template =1.3.0 =pyhd8ed1ab_0
     - urllib3 =2.2.2 =pyhd8ed1ab_1
@@ -523,7 +523,7 @@ requirements:
     - yaml =0.2.5 =h3422bc3_2
     - yarl =1.9.4 =py38h336bac9_0
     - zeromq =4.3.5 =hcc0f68c_4
-    - zipp =3.20.0 =pyhd8ed1ab_0
+    - zipp =3.20.1 =pyhd8ed1ab_0
     - zlib =1.3.1 =hfb2fe0b_1
     - zstandard =0.23.0 =py38h43bb1b3_0
     - zstd =1.5.6 =hb46c0d2_0

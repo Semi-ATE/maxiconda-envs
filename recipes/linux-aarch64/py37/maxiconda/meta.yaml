@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 452 secondary packages :
+    # 455 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - _sysroot_linux-aarch64_curr_repodata_hack =4 =h57d6b7b_16
@@ -119,10 +119,10 @@ requirements:
     - freetype =2.12.1 =hf0a5ef3_2
     - fribidi =1.0.10 =hb9de7d4_0
     - frozenlist =1.3.1 =py37h795501a_0
-    - gcc_impl_linux-aarch64 =14.1.0 =h21755a0_0
+    - gcc_impl_linux-aarch64 =14.1.0 =h21755a0_1
     - gettext =0.22.5 =h0a1ffab_3
     - gettext-tools =0.22.5 =h0a1ffab_3
-    - gfortran_impl_linux-aarch64 =14.1.0 =h6c2f851_0
+    - gfortran_impl_linux-aarch64 =14.1.0 =h6c2f851_1
     - git =2.42.0 =pl5321h0d979e1_0
     - glib =2.78.1 =hd84c7bf_0
     - glib-tools =2.78.1 =hd84c7bf_0
@@ -134,7 +134,7 @@ requirements:
     - gst-plugins-base =1.22.0 =h8a62080_2
     - gstreamer =1.22.0 =h1f26242_2
     - gstreamer-orc =0.4.39 =h68df207_0
-    - gxx_impl_linux-aarch64 =14.1.0 =hd4b107a_0
+    - gxx_impl_linux-aarch64 =14.1.0 =hd4b107a_1
     - harfbuzz =6.0.0 =hbcb8a4f_0
     - icu =70.1 =ha18d298_0
     - idna =3.8 =pyhd8ed1ab_0
@@ -181,15 +181,17 @@ requirements:
     - libexpat =2.6.2 =h2f0025b_0
     - libffi =3.4.2 =h3557bc0_5
     - libflac =1.4.3 =h2f0025b_0
-    - libgcc-devel_linux-aarch64 =14.1.0 =h8373c25_100
-    - libgcc-ng =14.1.0 =he277a41_0
+    - libgcc =14.1.0 =he277a41_1
+    - libgcc-devel_linux-aarch64 =14.1.0 =h8373c25_101
+    - libgcc-ng =14.1.0 =he9431aa_1
     - libgcrypt =1.11.0 =h68df207_1
     - libgettextpo =0.22.5 =h0a1ffab_3
     - libgettextpo-devel =0.22.5 =h0a1ffab_3
-    - libgfortran-ng =14.1.0 =he9431aa_0
-    - libgfortran5 =14.1.0 =h9420597_0
+    - libgfortran =14.1.0 =he9431aa_1
+    - libgfortran-ng =14.1.0 =he9431aa_1
+    - libgfortran5 =14.1.0 =h9420597_1
     - libglib =2.78.1 =h0464669_0
-    - libgomp =14.1.0 =he277a41_0
+    - libgomp =14.1.0 =he277a41_1
     - libgpg-error =1.50 =hb13efb6_0
     - libiconv =1.17 =h31becfc_2
     - liblapack =3.9.0 =20_linuxaarch64_openblas
@@ -202,13 +204,14 @@ requirements:
     - libopus =1.3.1 =hf897c2e_1
     - libpng =1.6.43 =h194ca79_0
     - libpq =15.3 =hf616e62_1
-    - libsanitizer =14.1.0 =h1bb4367_0
+    - libsanitizer =14.1.0 =h1bb4367_1
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
     - libsqlite =3.46.0 =hf51ef55_0
     - libssh2 =1.11.0 =h492db2e_0
-    - libstdcxx-devel_linux-aarch64 =14.1.0 =h8373c25_100
-    - libstdcxx-ng =14.1.0 =h3f4de04_0
+    - libstdcxx =14.1.0 =h3f4de04_1
+    - libstdcxx-devel_linux-aarch64 =14.1.0 =h8373c25_101
+    - libstdcxx-ng =14.1.0 =hf1166c9_1
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.4.0 =hfcd36d1_5
     - libtool =2.4.7 =h0a1ffab_1
@@ -485,7 +488,7 @@ requirements:
     - traitlets =5.9.0 =pyhd8ed1ab_0
     - typing-extensions =4.7.1 =hd8ed1ab_0
     - typing_extensions =4.7.1 =pyha770c72_0
-    - tzdata =2024a =h0c530f3_0
+    - tzdata =2024a =h8827d51_1
     - unicodedata2 =14.0.0 =py37h795501a_1
     - urllib3 =2.2.1 =pyhd8ed1ab_0
     - wcwidth =0.2.10 =pyhd8ed1ab_0
