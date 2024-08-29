@@ -44,7 +44,7 @@ requirements:
     - sqlalchemy =2.0.32 =py39hded5825_0
     - sqlite =3.46.0 =h28673e1_0
     - statsmodels =0.14.2 =py39hb943cd9_0
-    - xgboost =2.1.1 =cpu_pyhb8f9a19_1
+    - xgboost =2.1.1 =cpu_pyhb8f9a19_2
 
     # 378 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
@@ -67,8 +67,8 @@ requirements:
     - aws-c-s3 =0.6.4 =ha70045c_11
     - aws-c-sdkutils =0.1.19 =hf37c103_2
     - aws-checksums =0.1.18 =hf37c103_10
-    - aws-crt-cpp =0.28.0 =h617b8c7_1
-    - aws-sdk-cpp =1.11.379 =hf77b78f_6
+    - aws-crt-cpp =0.28.1 =h617b8c7_0
+    - aws-sdk-cpp =1.11.379 =heef4285_7
     - azure-core-cpp =1.13.0 =hf8dbe3c_0
     - azure-identity-cpp =1.8.0 =h60298e3_2
     - azure-storage-blobs-cpp =12.12.0 =h646f05d_0
@@ -187,10 +187,10 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20240116.2 =cxx17_hf036a51_1
-    - libarrow =17.0.0 =h3be88d5_11_cpu
-    - libarrow-acero =17.0.0 =hac325c4_11_cpu
-    - libarrow-dataset =17.0.0 =hac325c4_11_cpu
-    - libarrow-substrait =17.0.0 =hba007a9_11_cpu
+    - libarrow =17.0.0 =h9267325_12_cpu
+    - libarrow-acero =17.0.0 =hac325c4_12_cpu
+    - libarrow-dataset =17.0.0 =hac325c4_12_cpu
+    - libarrow-substrait =17.0.0 =hba007a9_12_cpu
     - libblas =3.9.0 =22_osx64_openblas
     - libboost =1.84.0 =h739af76_3
     - libbrotlicommon =1.1.0 =h0dc2134_1
@@ -228,7 +228,7 @@ requirements:
     - libogg =1.3.5 =hfdf4475_0
     - libopenblas =0.3.27 =openmp_h8869122_1
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =17.0.0 =hf1b0f52_11_cpu
+    - libparquet =17.0.0 =hf1b0f52_12_cpu
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =16.4 =h4501773_0
     - libprotobuf =4.25.3 =h4e4d658_0
@@ -246,7 +246,7 @@ requirements:
     - libwebp =1.4.0 =hc207709_0
     - libwebp-base =1.4.0 =h10d778d_0
     - libxcb =1.16 =h00291cd_1
-    - libxgboost =2.1.1 =cpu_h7ae7b8f_1
+    - libxgboost =2.1.1 =cpu_h6baefe1_2
     - libxml2 =2.12.7 =hc603aa4_3
     - libxslt =1.1.39 =h03b04e6_0
     - libzlib =1.3.1 =h87427d6_1
@@ -267,7 +267,7 @@ requirements:
     - mkl =2023.2.0 =h54c2260_50500
     - mlflow =1.27.0 =py39h8ac9d56_0
     - mlxtend =0.23.1 =pyhd8ed1ab_0
-    - mpc =1.3.1 =h81bd1dd_0
+    - mpc =1.3.1 =h9d8efa1_0
     - mpfr =4.2.1 =hc80595b_2
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - multimethod =1.4 =py_0
@@ -313,7 +313,7 @@ requirements:
     - pthread-stubs =0.4 =hc929b4f_1001
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.3 =pyhd8ed1ab_0
-    - py-xgboost =2.1.1 =cpu_pyh995e691_1
+    - py-xgboost =2.1.1 =cpu_pyhb442362_2
     - pyarrow =17.0.0 =py39h810aed5_1
     - pyarrow-core =17.0.0 =py39ha39a2de_1_cpu
     - pyasn1 =0.6.0 =pyhd8ed1ab_0
@@ -423,7 +423,7 @@ requirements:
     - zeromq =4.3.5 =hde137ed_4
     - zipp =3.20.1 =pyhd8ed1ab_0
     - zlib =1.3.1 =h87427d6_1
-    - zope.interface =7.0.2 =py39h06d86d0_0
+    - zope.interface =7.0.3 =py39h06d86d0_0
     - zstd =1.5.6 =h915ae27_0
 
 about:
