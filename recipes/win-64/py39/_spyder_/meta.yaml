@@ -25,7 +25,7 @@ requirements:
     - python =3.9.19 =h4de0772_0_cpython
 
     # 9 primary packages :
-    - cython =3.0.11 =py39ha51f57c_0
+    - cython =3.0.11 =py39ha51f57c_1
     - matplotlib =3.9.2 =py39hcbf5309_0
     - numpy =2.0.2 =py39h60232e0_0
     - pandas =2.2.2 =py39h2366fc2_1
@@ -46,7 +46,7 @@ requirements:
     - babel =2.14.0 =pyhd8ed1ab_0
     - backports =1.0 =pyhd8ed1ab_4
     - backports.tarfile =1.0.0 =pyhd8ed1ab_1
-    - bcrypt =4.2.0 =py39h92a245a_0
+    - bcrypt =4.2.0 =py39h92a245a_1
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - binaryornot =0.4.4 =py_1
     - black =24.8.0 =py39hcbf5309_0
@@ -58,14 +58,14 @@ requirements:
     - ca-certificates =2024.7.4 =h56e8100_0
     - cairo =1.18.0 =h91e5215_2
     - certifi =2024.7.4 =pyhd8ed1ab_0
-    - cffi =1.17.0 =py39ha55e580_0
-    - chardet =5.2.0 =py39hcbf5309_1
+    - cffi =1.17.0 =py39ha55e580_1
+    - chardet =5.2.0 =py39hcbf5309_2
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - click =8.1.7 =win_pyh7428d3b_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_0
-    - contourpy =1.2.1 =py39h1f6ef14_0
+    - contourpy =1.3.0 =py39h2b77a98_0
     - cookiecutter =2.6.0 =pyhca7485f_0
     - cryptography =43.0.0 =py39hae46aff_0
     - cycler =0.12.1 =pyhd8ed1ab_0
@@ -125,7 +125,7 @@ requirements:
     - jupyter_core =5.7.2 =py39hcbf5309_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - keyring =25.3.0 =pyh7428d3b_0
-    - kiwisolver =1.4.5 =py39h1f6ef14_1
+    - kiwisolver =1.4.5 =py39h2b77a98_2
     - krb5 =1.21.3 =hdf4eb48_0
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
@@ -134,7 +134,7 @@ requirements:
     - libbrotlidec =1.1.0 =hcfcfb64_1
     - libbrotlienc =1.1.0 =hcfcfb64_1
     - libcblas =3.9.0 =23_win64_mkl
-    - libclang13 =18.1.8 =default_ha5278ca_2
+    - libclang13 =18.1.8 =default_ha5278ca_3
     - libdeflate =1.21 =h2466b09_0
     - libexpat =2.6.2 =h63175ca_0
     - libffi =3.4.2 =h8ffe710_5
@@ -164,7 +164,7 @@ requirements:
     - m2w64-gmp =6.1.0 =2
     - m2w64-libwinpthread-git =5.0.0.4634.697f757 =2
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
-    - markupsafe =2.1.5 =py39ha55989b_0
+    - markupsafe =2.1.5 =py39ha55e580_1
     - matplotlib-base =3.9.2 =py39h5376392_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_0
@@ -195,7 +195,7 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =10.4.0 =py39hfa8c767_0
-    - pip =24.2 =pyhd8ed1ab_0
+    - pip =24.2 =pyh8b19718_1
     - pixman =0.43.4 =h63175ca_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - platformdirs =4.2.2 =pyhd8ed1ab_0
@@ -267,7 +267,7 @@ requirements:
     - spyder-kernels =2.5.2 =win_pyh7428d3b_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tabulate =0.9.0 =pyhd8ed1ab_1
-    - tbb =2021.12.0 =hc790b64_3
+    - tbb =2021.12.0 =hc790b64_4
     - text-unidecode =1.3 =pyhd8ed1ab_1
     - textdistance =4.6.3 =pyhd8ed1ab_0
     - three-merge =0.1.1 =pyh9f0ad1d_0
@@ -276,14 +276,14 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tomlkit =0.13.2 =pyha770c72_0
-    - tornado =6.4.1 =py39ha55e580_0
+    - tornado =6.4.1 =py39ha55e580_1
     - traitlets =5.14.3 =pyhd8ed1ab_0
     - types-python-dateutil =2.9.0.20240821 =pyhd8ed1ab_0
     - typing-extensions =4.12.2 =hd8ed1ab_0
     - typing_extensions =4.12.2 =pyha770c72_0
     - tzdata =2024a =h8827d51_1
     - ucrt =10.0.22621.0 =h57928b3_0
-    - ujson =5.10.0 =py39ha51f57c_0
+    - ujson =5.10.0 =py39ha51f57c_1
     - unicodedata2 =15.1.0 =py39ha55989b_0
     - urllib3 =2.2.2 =pyhd8ed1ab_1
     - vc =14.3 =h8a93ad2_20

@@ -25,7 +25,7 @@ requirements:
     - python =3.9.19 =hd7ebdb9_0_cpython
 
     # 9 primary packages :
-    - cython =3.0.11 =py39hbf7db11_0
+    - cython =3.0.11 =py39hfa9831e_1
     - matplotlib =3.9.2 =py39hdf13c20_0
     - numpy =2.0.2 =py39hd1e06cf_0
     - pandas =2.2.2 =py39h998126f_1
@@ -58,14 +58,14 @@ requirements:
     - bzip2 =1.0.8 =h99b78c6_7
     - ca-certificates =2024.7.4 =hf0a4a13_0
     - certifi =2024.7.4 =pyhd8ed1ab_0
-    - cffi =1.17.0 =py39h210d88a_0
-    - chardet =5.2.0 =py39h2804cbe_1
+    - cffi =1.17.0 =py39h7f933ea_1
+    - chardet =5.2.0 =py39h2804cbe_2
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_0
-    - contourpy =1.2.1 =py39h48c5dd5_0
+    - contourpy =1.3.0 =py39h157d57c_0
     - cookiecutter =2.6.0 =pyhca7485f_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - debugpy =1.8.5 =py39hbf7db11_0
@@ -115,7 +115,7 @@ requirements:
     - jupyter_core =5.7.2 =py39h2804cbe_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - keyring =25.3.0 =pyh534df25_0
-    - kiwisolver =1.4.5 =py39hbd775c9_1
+    - kiwisolver =1.4.5 =py39h157d57c_2
     - krb5 =1.21.3 =h237132a_0
     - lcms2 =2.16 =ha0e7c42_0
     - lerc =4.0.0 =h9a09cb3_0
@@ -125,7 +125,7 @@ requirements:
     - libbrotlienc =1.1.0 =hb547adb_1
     - libcblas =3.9.0 =23_osxarm64_openblas
     - libclang-cpp15 =15.0.7 =default_he012953_5
-    - libclang13 =18.1.8 =default_hfc66aa2_2
+    - libclang13 =18.1.8 =default_hfc66aa2_3
     - libcxx =18.1.8 =h3ed4263_6
     - libdeflate =1.21 =h99b78c6_0
     - libedit =3.1.20191231 =hc8eb9b7_2
@@ -144,7 +144,7 @@ requirements:
     - libopenblas =0.3.27 =openmp_h517c56d_1
     - libopus =1.3.1 =h27ca646_1
     - libpng =1.6.43 =h091b4b1_0
-    - libpq =16.4 =h7afe498_0
+    - libpq =16.4 =h671472c_1
     - libsodium =1.0.18 =h27ca646_1
     - libspatialindex =2.0.0 =h00cdb27_0
     - libsqlite =3.46.0 =hfb93653_0
@@ -157,7 +157,7 @@ requirements:
     - libzlib =1.3.1 =hfb2fe0b_1
     - llvm-openmp =18.1.8 =hde57baf_1
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
-    - markupsafe =2.1.5 =py39h17cfd9d_0
+    - markupsafe =2.1.5 =py39h06df861_1
     - matplotlib-base =3.9.2 =py39h1398496_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_0
@@ -192,7 +192,7 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pillow =10.4.0 =py39h3baf582_0
-    - pip =24.2 =pyhd8ed1ab_0
+    - pip =24.2 =pyh8b19718_1
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - platformdirs =4.2.2 =pyhd8ed1ab_0
     - pluggy =1.5.0 =pyhd8ed1ab_0
@@ -248,7 +248,7 @@ requirements:
     - rpds-py =0.20.0 =py39h0019b8a_0
     - rtree =1.3.0 =py39hb4cb7af_1
     - setuptools =72.2.0 =pyhd8ed1ab_0
-    - sip =6.8.3 =py39hf3050f2_0
+    - sip =6.8.3 =py39hfa9831e_1
     - six =1.16.0 =pyh6c4a22f_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
@@ -271,13 +271,13 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tomlkit =0.13.2 =pyha770c72_0
-    - tornado =6.4.1 =py39hfea33bf_0
+    - tornado =6.4.1 =py39h06df861_1
     - traitlets =5.14.3 =pyhd8ed1ab_0
     - types-python-dateutil =2.9.0.20240821 =pyhd8ed1ab_0
     - typing-extensions =4.12.2 =hd8ed1ab_0
     - typing_extensions =4.12.2 =pyha770c72_0
     - tzdata =2024a =h8827d51_1
-    - ujson =5.10.0 =py39hbf7db11_0
+    - ujson =5.10.0 =py39hfa9831e_1
     - unicodedata2 =15.1.0 =py39h0f82c59_0
     - urllib3 =2.2.2 =pyhd8ed1ab_1
     - watchdog =5.0.0 =py39h06df861_0

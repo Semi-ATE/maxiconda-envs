@@ -40,13 +40,13 @@ requirements:
     - scipy =1.10.1 =py38h9cf86d3_3
     - scrapy =2.11.2 =py38h50d1736_0
     - seaborn =0.13.2 =hd8ed1ab_2
-    - spyder-kernels =2.5.2 =unix_pyh707e725_0
+    - spyder-kernels =3.0.0 =unix_pyh707e725_0
     - sqlalchemy =2.0.32 =py38hc718529_0
     - sqlite =3.46.0 =h28673e1_0
     - statsmodels =0.14.1 =py38h7092abf_0
     - xgboost =2.1.1 =cpu_pyhb8f9a19_2
 
-    # 379 secondary packages :
+    # 380 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.2 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_0
@@ -198,7 +198,7 @@ requirements:
     - libbrotlienc =1.1.0 =h0dc2134_1
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
-    - libclang13 =18.1.8 =default_h9ff962c_2
+    - libclang13 =18.1.8 =default_h9ff962c_3
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.9.1 =hfcf2730_0
     - libcxx =18.1.8 =hd876a4e_6
@@ -230,7 +230,7 @@ requirements:
     - libopus =1.3.1 =hc929b4f_1
     - libparquet =17.0.0 =hf1b0f52_12_cpu
     - libpng =1.6.43 =h92b6c6a_0
-    - libpq =16.4 =h4501773_0
+    - libpq =16.4 =h75a757a_1
     - libprotobuf =4.25.3 =h4e4d658_0
     - libre2-11 =2023.09.01 =h81f5012_2
     - librsvg =2.58.3 =h902c40a_0
@@ -299,7 +299,7 @@ requirements:
     - phik =0.12.3 =py38h77a45d2_1
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pillow =10.4.0 =py38hf802781_0
-    - pip =24.2 =pyhd8ed1ab_0
+    - pip =24.2 =pyh8b19718_1
     - pixman =0.43.4 =h73e2aa4_0
     - platformdirs =4.2.2 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_2
@@ -344,6 +344,7 @@ requirements:
     - pytz =2024.1 =pyhd8ed1ab_0
     - pywavelets =1.4.1 =py38h49861b3_1
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
+    - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py38hc718529_0
     - pyzmq =26.2.0 =py38hd99e78f_0
     - qt-main =5.15.8 =he8879f6_23
@@ -381,7 +382,7 @@ requirements:
     - sympy =1.13.2 =pypyh2585a3b_103
     - tabulate =0.9.0 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
-    - tbb =2021.12.0 =h3c5361c_3
+    - tbb =2021.12.0 =h37c8870_4
     - tenacity =9.0.0 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
     - thinc =8.2.5 =py38ha02b945_0

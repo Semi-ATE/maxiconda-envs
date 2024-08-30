@@ -34,9 +34,9 @@ requirements:
     - pyqt =5.15.9 =py39h52134e7_5
     - rdkit =2024.03.5 =py39hc1ff0a3_3
     - scipy =1.13.1 =py39haf93ffa_0
-    - spyder-kernels =2.5.2 =unix_pyh707e725_0
+    - spyder-kernels =3.0.0 =unix_pyh707e725_0
 
-    # 240 secondary packages :
+    # 241 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.12 =h4ab18f5_0
@@ -51,11 +51,11 @@ requirements:
     - cairo =1.18.0 =hbb29018_2
     - certifi =2024.7.4 =pyhd8ed1ab_0
     - cftime =1.6.4 =py39hd92a3bb_0
-    - chardet =5.2.0 =py39hf3d152e_1
+    - chardet =5.2.0 =py39hf3d152e_2
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_0
-    - contourpy =1.2.1 =py39h7633fee_0
+    - contourpy =1.3.0 =py39h74842e3_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - dbus =1.13.6 =h5008d03_3
     - debugpy =1.8.5 =py39h98e3656_0
@@ -101,7 +101,7 @@ requirements:
     - jupyter_client =8.6.2 =pyhd8ed1ab_0
     - jupyter_core =5.7.2 =py39hf3d152e_0
     - keyutils =1.6.1 =h166bdaf_0
-    - kiwisolver =1.4.5 =py39h7633fee_1
+    - kiwisolver =1.4.5 =py39h74842e3_2
     - krb5 =1.21.3 =h659f571_0
     - lame =3.100 =h166bdaf_1003
     - lcms2 =2.16 =hb7c19ff_0
@@ -119,8 +119,8 @@ requirements:
     - libcap =2.69 =h0f662aa_0
     - libcblas =3.9.0 =23_linux64_openblas
     - libclang-cpp15 =15.0.7 =default_h127d8a8_5
-    - libclang-cpp18.1 =18.1.8 =default_hf981a13_2
-    - libclang13 =18.1.8 =default_h9def88c_2
+    - libclang-cpp18.1 =18.1.8 =default_hf981a13_3
+    - libclang13 =18.1.8 =default_h9def88c_3
     - libcups =2.3.3 =h4637d8d_4
     - libcurl =8.9.1 =hdb1bdb2_0
     - libdeflate =1.21 =h4bc722e_0
@@ -156,7 +156,7 @@ requirements:
     - libopus =1.3.1 =h7f98852_1
     - libpciaccess =0.18 =hd590300_0
     - libpng =1.6.43 =h2797004_0
-    - libpq =16.4 =h482b261_0
+    - libpq =16.4 =h2d7952a_1
     - librdkit =2024.03.5 =h79cfef2_3
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
@@ -201,7 +201,7 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =10.4.0 =py39h16a7006_0
-    - pip =24.2 =pyhd8ed1ab_0
+    - pip =24.2 =pyh8b19718_1
     - pixman =0.43.2 =h59595ed_0
     - platformdirs =4.2.2 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_2
@@ -221,6 +221,7 @@ requirements:
     - python-tzdata =2024.1 =pyhd8ed1ab_0
     - python_abi =3.9 =5_cp39
     - pytz =2024.1 =pyhd8ed1ab_0
+    - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.2.0 =py39h4e4fb57_0
     - qhull =2020.2 =h434a139_5
     - qt-main =5.15.8 =ha2b5568_22
@@ -242,7 +243,7 @@ requirements:
     - tk =8.6.13 =noxft_h4845f30_101
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
-    - tornado =6.4.1 =py39hd3abc70_0
+    - tornado =6.4.1 =py39h8cd3c5a_1
     - tqdm =4.66.5 =pyhd8ed1ab_0
     - traitlets =5.14.3 =pyhd8ed1ab_0
     - typing-extensions =4.12.2 =hd8ed1ab_0

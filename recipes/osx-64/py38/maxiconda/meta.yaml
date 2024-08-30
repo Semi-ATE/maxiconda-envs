@@ -55,7 +55,7 @@ requirements:
     - rust =1.80.1 =h6c54e5d_0
     - scipy =1.10.1 =py38h9cf86d3_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
-    - spyder-kernels =2.5.2 =unix_pyh707e725_0
+    - spyder-kernels =3.0.0 =unix_pyh707e725_0
     - sqlalchemy =2.0.32 =py38hc718529_0
     - sqlite =3.46.0 =h28673e1_0
     - sympy =1.13.2 =pypyh2585a3b_103
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 465 secondary packages :
+    # 467 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.0 =pyhd8ed1ab_0
     - aiosignal =1.3.1 =pyhd8ed1ab_0
@@ -97,11 +97,11 @@ requirements:
     - certifi =2024.7.4 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hc8bcfa4_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
-    - clang =18.1.8 =default_h179603d_2
-    - clang-18 =18.1.8 =default_h0c94c6a_2
+    - clang =18.1.8 =default_h179603d_3
+    - clang-18 =18.1.8 =default_h0c94c6a_3
     - clang_impl_osx-64 =18.1.8 =h6a44ed1_19
     - clang_osx-64 =18.1.8 =hb91bd55_19
-    - clangxx =18.1.8 =default_h179603d_2
+    - clangxx =18.1.8 =default_h179603d_3
     - clangxx_impl_osx-64 =18.1.8 =h4b7810f_19
     - clangxx_osx-64 =18.1.8 =hb91bd55_19
     - click =8.1.7 =unix_pyh707e725_0
@@ -189,10 +189,11 @@ requirements:
     - libbrotlienc =1.1.0 =h0dc2134_1
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
-    - libclang-cpp18.1 =18.1.8 =default_h0c94c6a_2
-    - libclang13 =18.1.8 =default_h9ff962c_2
+    - libclang-cpp18.1 =18.1.8 =default_h0c94c6a_3
+    - libclang13 =18.1.8 =default_h9ff962c_3
     - libcurl =8.9.1 =hfcf2730_0
     - libcxx =18.1.8 =hd876a4e_6
+    - libcxx-devel =18.1.8 =h7c275be_6
     - libdeflate =1.20 =h49d49c5_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =h10d778d_2
@@ -216,7 +217,7 @@ requirements:
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.43 =h92b6c6a_0
-    - libpq =16.4 =h4501773_0
+    - libpq =16.4 =h75a757a_1
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.46.0 =h1b8f9f3_0
     - libssh2 =1.11.0 =hd019ec5_0
@@ -264,7 +265,7 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py38h32f6830_1002
     - pillow =10.4.0 =py38hf802781_0
-    - pip =24.2 =pyhd8ed1ab_0
+    - pip =24.2 =pyh8b19718_1
     - pixman =0.43.4 =h73e2aa4_0
     - pkginfo =1.11.1 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
@@ -272,7 +273,7 @@ requirements:
     - pluggy =1.5.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_2
     - pooch =1.8.2 =pyhd8ed1ab_0
-    - progressbar2 =4.4.2 =pyhd8ed1ab_0
+    - progressbar2 =4.5.0 =pyhd8ed1ab_0
     - prometheus_client =0.20.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.47 =pyha770c72_0
     - prompt_toolkit =3.0.47 =hd8ed1ab_0
@@ -294,6 +295,7 @@ requirements:
     - python-utils =3.8.2 =pyhd8ed1ab_0
     - python_abi =3.8 =5_cp38
     - pytz =2024.1 =pyhd8ed1ab_0
+    - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.2.0 =py38hd99e78f_0
     - qt-main =5.15.8 =he8879f6_23
     - qtpy =2.4.1 =pyhd8ed1ab_0

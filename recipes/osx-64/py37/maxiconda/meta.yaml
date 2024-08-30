@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.13.0 =pyhd8ed1ab_0
 
-    # 407 secondary packages :
+    # 408 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.7.1 =pyhd8ed1ab_0
@@ -89,11 +89,11 @@ requirements:
     - certifi =2024.7.4 =pyhd8ed1ab_0
     - cffi =1.15.1 =py37h7346b73_1
     - charset-normalizer =2.1.1 =pyhd8ed1ab_0
-    - clang =18.1.8 =default_h179603d_2
-    - clang-18 =18.1.8 =default_h0c94c6a_2
+    - clang =18.1.8 =default_h179603d_3
+    - clang-18 =18.1.8 =default_h0c94c6a_3
     - clang_impl_osx-64 =18.1.8 =h6a44ed1_19
     - clang_osx-64 =18.1.8 =hb91bd55_19
-    - clangxx =18.1.8 =default_h179603d_2
+    - clangxx =18.1.8 =default_h179603d_3
     - clangxx_impl_osx-64 =18.1.8 =h4b7810f_19
     - clangxx_osx-64 =18.1.8 =hb91bd55_19
     - click =8.1.3 =py37hf985489_0
@@ -157,10 +157,11 @@ requirements:
     - libblas =3.9.0 =20_osx64_openblas
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
-    - libclang-cpp18.1 =18.1.8 =default_h0c94c6a_2
-    - libclang13 =18.1.8 =default_h9ff962c_2
+    - libclang-cpp18.1 =18.1.8 =default_h0c94c6a_3
+    - libclang13 =18.1.8 =default_h9ff962c_3
     - libcurl =8.9.1 =hfcf2730_0
     - libcxx =18.1.8 =hd876a4e_6
+    - libcxx-devel =18.1.8 =h7c275be_6
     - libdeflate =1.20 =h49d49c5_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =h10d778d_2
@@ -184,7 +185,7 @@ requirements:
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.43 =h92b6c6a_0
-    - libpq =16.4 =h4501773_0
+    - libpq =16.4 =h75a757a_1
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.46.0 =h1b8f9f3_0
     - libssh2 =1.11.0 =hd019ec5_0

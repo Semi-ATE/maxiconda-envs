@@ -29,7 +29,7 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - bitarray =2.9.2 =py39ha55989b_0
-    - cython =3.0.11 =py39ha51f57c_0
+    - cython =3.0.11 =py39ha51f57c_1
     - grayskull =2.6.0 =pyhd8ed1ab_1
     - hypothesis =6.111.2 =pyha770c72_0
     - ipython =8.18.1 =pyh7428d3b_3
@@ -50,12 +50,12 @@ requirements:
     - qtawesome =1.3.1 =pyh9208f05_0
     - r-base =4.1.3 =h22dd5fe_15
     - r-essentials =4.1 =r41hd8ed1ab_2003
-    - regex =2024.7.24 =py39ha55e580_0
+    - regex =2024.7.24 =py39ha55e580_1
     - requests =2.32.3 =pyhd8ed1ab_0
     - rust =1.80.1 =hf8d6059_0
     - scipy =1.13.1 =py39h1a10956_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
-    - spyder-kernels =2.5.2 =win_pyh7428d3b_0
+    - spyder-kernels =3.0.0 =win_pyh7428d3b_0
     - sqlalchemy =2.0.32 =py39ha55e580_0
     - sqlite =3.46.0 =h2466b09_0
     - sympy =1.13.2 =pyh04b8f61_3
@@ -78,7 +78,7 @@ requirements:
     - async-timeout =4.0.3 =pyhd8ed1ab_0
     - attrs =24.2.0 =pyh71513ae_0
     - babel =2.14.0 =pyhd8ed1ab_0
-    - backports.zoneinfo =0.2.1 =py39hcbf5309_8
+    - backports.zoneinfo =0.2.1 =py39hcbf5309_9
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =hcfcfb64_1
     - brotli-bin =1.1.0 =hcfcfb64_1
@@ -89,14 +89,14 @@ requirements:
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.0 =h91e5215_2
     - certifi =2024.7.4 =pyhd8ed1ab_0
-    - cffi =1.17.0 =py39ha55e580_0
+    - cffi =1.17.0 =py39ha55e580_1
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - click =8.1.7 =win_pyh7428d3b_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
-    - contourpy =1.2.1 =py39h1f6ef14_0
+    - contourpy =1.3.0 =py39h2b77a98_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - debugpy =1.8.5 =py39ha51f57c_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -157,7 +157,7 @@ requirements:
     - jupyterlab =4.2.5 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_0
-    - kiwisolver =1.4.5 =py39h1f6ef14_1
+    - kiwisolver =1.4.5 =py39h2b77a98_2
     - krb5 =1.21.3 =hdf4eb48_0
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
@@ -166,7 +166,7 @@ requirements:
     - libbrotlidec =1.1.0 =hcfcfb64_1
     - libbrotlienc =1.1.0 =hcfcfb64_1
     - libcblas =3.9.0 =23_win64_mkl
-    - libclang13 =18.1.8 =default_ha5278ca_2
+    - libclang13 =18.1.8 =default_ha5278ca_3
     - libdeflate =1.21 =h2466b09_0
     - libexpat =2.6.2 =h63175ca_0
     - libffi =3.4.2 =h8ffe710_5
@@ -220,7 +220,7 @@ requirements:
     - m2w64-wineditline =2.101 =5
     - m2w64-xz =5.2.2 =2
     - m2w64-zlib =1.2.8 =10
-    - markupsafe =2.1.5 =py39ha55989b_0
+    - markupsafe =2.1.5 =py39ha55e580_1
     - matplotlib-base =3.9.2 =py39h5376392_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mistune =3.0.2 =pyhd8ed1ab_0
@@ -245,14 +245,14 @@ requirements:
     - pcre2 =10.43 =h17e33f8_0
     - pickleshare =0.7.5 =py39hde42818_1002
     - pillow =10.4.0 =py39hfa8c767_0
-    - pip =24.2 =pyhd8ed1ab_0
+    - pip =24.2 =pyh8b19718_1
     - pixman =0.43.4 =h63175ca_0
     - pkginfo =1.11.1 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - platformdirs =4.2.2 =pyhd8ed1ab_0
     - pluggy =1.5.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_2
-    - progressbar2 =4.4.2 =pyhd8ed1ab_0
+    - progressbar2 =4.5.0 =pyhd8ed1ab_0
     - prometheus_client =0.20.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.47 =pyha770c72_0
     - pthread-stubs =0.4 =hcd874cb_1001
@@ -273,7 +273,7 @@ requirements:
     - python_abi =3.9 =5_cp39
     - pytz =2024.1 =pyhd8ed1ab_0
     - pywin32 =306 =py39h99910a6_2
-    - pywinpty =2.0.13 =py39h99910a6_0
+    - pywinpty =2.0.13 =py39ha51f57c_1
     - pyzmq =26.2.0 =py39h03e5c00_0
     - qhull =2020.2 =hc790b64_5
     - qt-main =5.15.8 =h06adc49_22
@@ -475,14 +475,14 @@ requirements:
     - soupsieve =2.5 =pyhd8ed1ab_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - stdlib-list =0.10.0 =pyhd8ed1ab_0
-    - tbb =2021.12.0 =hc790b64_3
+    - tbb =2021.12.0 =hc790b64_4
     - terminado =0.18.1 =pyh5737063_0
     - tinycss2 =1.3.0 =pyhd8ed1ab_0
     - tk =8.6.13 =h5226925_1
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.1 =pyhd8ed1ab_0
     - tomli-w =1.0.0 =pyhd8ed1ab_0
-    - tornado =6.4.1 =py39ha55e580_0
+    - tornado =6.4.1 =py39ha55e580_1
     - traitlets =5.14.3 =pyhd8ed1ab_0
     - types-python-dateutil =2.9.0.20240821 =pyhd8ed1ab_0
     - typing-extensions =4.12.2 =hd8ed1ab_0
