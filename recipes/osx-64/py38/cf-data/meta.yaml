@@ -67,8 +67,8 @@ requirements:
     - aws-c-s3 =0.6.4 =ha70045c_11
     - aws-c-sdkutils =0.1.19 =hf37c103_2
     - aws-checksums =0.1.18 =hf37c103_10
-    - aws-crt-cpp =0.28.1 =h617b8c7_0
-    - aws-sdk-cpp =1.11.379 =heef4285_7
+    - aws-crt-cpp =0.28.2 =h617b8c7_0
+    - aws-sdk-cpp =1.11.379 =h569b7bb_8
     - azure-core-cpp =1.13.0 =hf8dbe3c_0
     - azure-identity-cpp =1.8.0 =h60298e3_2
     - azure-storage-blobs-cpp =12.12.0 =h646f05d_0
@@ -115,7 +115,7 @@ requirements:
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - docker-py =7.1.0 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - executing =2.0.1 =pyhd8ed1ab_0
+    - executing =2.1.0 =pyhd8ed1ab_0
     - expat =2.6.2 =h73e2aa4_0
     - filelock =3.15.4 =pyhd8ed1ab_0
     - flask =3.0.3 =pyhd8ed1ab_0
@@ -187,10 +187,10 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20240116.2 =cxx17_hf036a51_1
-    - libarrow =17.0.0 =h9267325_12_cpu
-    - libarrow-acero =17.0.0 =hac325c4_12_cpu
-    - libarrow-dataset =17.0.0 =hac325c4_12_cpu
-    - libarrow-substrait =17.0.0 =hba007a9_12_cpu
+    - libarrow =17.0.0 =ha60c65e_13_cpu
+    - libarrow-acero =17.0.0 =hac325c4_13_cpu
+    - libarrow-dataset =17.0.0 =hac325c4_13_cpu
+    - libarrow-substrait =17.0.0 =hba007a9_13_cpu
     - libblas =3.9.0 =20_osx64_openblas
     - libboost =1.84.0 =h739af76_3
     - libbrotlicommon =1.1.0 =h0dc2134_1
@@ -228,7 +228,7 @@ requirements:
     - libogg =1.3.5 =hfdf4475_0
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =17.0.0 =hf1b0f52_12_cpu
+    - libparquet =17.0.0 =hf1b0f52_13_cpu
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =16.4 =h75a757a_1
     - libprotobuf =4.25.3 =h4e4d658_0
