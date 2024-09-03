@@ -69,16 +69,16 @@ requirements:
     - bcrypt =4.2.0 =py39h92a245a_1
     - blinker =1.8.2 =pyhd8ed1ab_0
     - bottleneck =1.4.0 =py39h4b0a98a_1
-    - brotli =1.1.0 =hcfcfb64_1
-    - brotli-bin =1.1.0 =hcfcfb64_1
-    - brotli-python =1.1.0 =py39h99910a6_1
+    - brotli =1.1.0 =h2466b09_2
+    - brotli-bin =1.1.0 =h2466b09_2
+    - brotli-python =1.1.0 =py39ha51f57c_2
     - bzip2 =1.0.8 =h2466b09_7
     - c-ares =1.33.1 =h2466b09_0
     - ca-certificates =2024.8.30 =h56e8100_0
     - cairo =1.18.0 =h91e5215_2
     - catalogue =2.0.10 =py39hcbf5309_0
     - catboost =1.2.5 =py39hcbf5309_0
-    - certifi =2024.7.4 =pyhd8ed1ab_0
+    - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py39ha55e580_1
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyh9f0ad1d_0
@@ -101,7 +101,7 @@ requirements:
     - cython-blis =0.7.10 =py39hd88c2e4_2
     - databricks-cli =0.17.8 =pyhd8ed1ab_0
     - datefinder =0.7.3 =pyhd8ed1ab_0
-    - debugpy =1.8.5 =py39ha51f57c_0
+    - debugpy =1.8.5 =py39ha51f57c_1
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - docker-py =7.1.0 =pyhd8ed1ab_0
@@ -179,9 +179,9 @@ requirements:
     - libarrow-substrait =17.0.0 =h1f0e801_13_cpu
     - libblas =3.9.0 =23_win64_mkl
     - libboost =1.84.0 =h444863b_5
-    - libbrotlicommon =1.1.0 =hcfcfb64_1
-    - libbrotlidec =1.1.0 =hcfcfb64_1
-    - libbrotlienc =1.1.0 =hcfcfb64_1
+    - libbrotlicommon =1.1.0 =h2466b09_2
+    - libbrotlidec =1.1.0 =h2466b09_2
+    - libbrotlienc =1.1.0 =h2466b09_2
     - libcblas =3.9.0 =23_win64_mkl
     - libclang13 =18.1.8 =default_ha5278ca_3
     - libcrc32c =1.1.2 =h0e60522_0
@@ -220,7 +220,7 @@ requirements:
     - libxml2 =2.12.7 =h0f24e4e_4
     - libxslt =1.1.39 =h3df6e99_0
     - libzlib =1.3.1 =h2466b09_1
-    - llvmlite =0.43.0 =py39he94c479_0
+    - llvmlite =0.43.0 =py39he94c479_1
     - lxml =5.3.0 =py39hcc8b0fb_0
     - lz4-c =1.9.4 =hcfcfb64_0
     - m2w64-gcc-libgfortran =5.3.0 =6

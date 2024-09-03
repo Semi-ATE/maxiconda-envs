@@ -42,13 +42,13 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - boost =1.74.0 =py38h98a32fd_5
     - boost-cpp =1.74.0 =ha1c1135_8
-    - brotli =1.1.0 =h31becfc_1
-    - brotli-bin =1.1.0 =h31becfc_1
-    - brotli-python =1.1.0 =py38hb83fbf6_1
+    - brotli =1.1.0 =h86ecc28_2
+    - brotli-bin =1.1.0 =h86ecc28_2
+    - brotli-python =1.0.9 =py38h5f8a8d0_8
     - bzip2 =1.0.8 =h68df207_7
     - ca-certificates =2024.8.30 =hcefe29a_0
     - cairo =1.16.0 =hd19fb6e_1014
-    - certifi =2024.7.4 =pyhd8ed1ab_0
+    - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hf2f4906_0
     - chardet =5.2.0 =py38h2063c64_1
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
@@ -107,9 +107,9 @@ requirements:
     - libasprintf =0.22.5 =h87f4aca_3
     - libasprintf-devel =0.22.5 =h87f4aca_3
     - libblas =3.9.0 =20_linuxaarch64_openblas
-    - libbrotlicommon =1.1.0 =h31becfc_1
-    - libbrotlidec =1.1.0 =h31becfc_1
-    - libbrotlienc =1.1.0 =h31becfc_1
+    - libbrotlicommon =1.1.0 =h86ecc28_2
+    - libbrotlidec =1.1.0 =h86ecc28_2
+    - libbrotlienc =1.1.0 =h86ecc28_2
     - libcap =2.67 =h8246067_0
     - libcblas =3.9.0 =20_linuxaarch64_openblas
     - libclang =15.0.7 =default_hb368394_5

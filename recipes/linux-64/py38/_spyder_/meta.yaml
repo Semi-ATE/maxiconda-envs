@@ -55,13 +55,13 @@ requirements:
     - binaryornot =0.4.4 =py_1
     - black =24.8.0 =py38h578d9bd_0
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.1.0 =hd590300_1
-    - brotli-bin =1.1.0 =hd590300_1
-    - brotli-python =1.1.0 =py38h17151c0_1
+    - brotli =1.1.0 =hb9d3cd8_2
+    - brotli-bin =1.1.0 =hb9d3cd8_2
+    - brotli-python =1.0.9 =py38hfa26641_8
     - bzip2 =1.0.8 =h4bc722e_7
     - ca-certificates =2024.8.30 =hbcca054_0
     - cairo =1.18.0 =hbb29018_2
-    - certifi =2024.7.4 =pyhd8ed1ab_0
+    - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38heb5c249_0
     - chardet =5.2.0 =py38h578d9bd_1
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
@@ -143,9 +143,9 @@ requirements:
     - libasprintf =0.22.5 =he8f35ee_3
     - libasprintf-devel =0.22.5 =he8f35ee_3
     - libblas =3.9.0 =20_linux64_openblas
-    - libbrotlicommon =1.1.0 =hd590300_1
-    - libbrotlidec =1.1.0 =hd590300_1
-    - libbrotlienc =1.1.0 =hd590300_1
+    - libbrotlicommon =1.1.0 =hb9d3cd8_2
+    - libbrotlidec =1.1.0 =hb9d3cd8_2
+    - libbrotlienc =1.1.0 =hb9d3cd8_2
     - libcap =2.69 =h0f662aa_0
     - libcblas =3.9.0 =20_linux64_openblas
     - libclang-cpp15 =15.0.7 =default_h127d8a8_5

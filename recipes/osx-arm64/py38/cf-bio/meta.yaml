@@ -41,16 +41,16 @@ requirements:
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - blosc =1.21.6 =h5499902_0
-    - brotli =1.1.0 =hb547adb_1
-    - brotli-bin =1.1.0 =hb547adb_1
-    - brotli-python =1.1.0 =py38he333c0f_1
+    - brotli =1.1.0 =hd74edd7_2
+    - brotli-bin =1.1.0 =hd74edd7_2
+    - brotli-python =1.0.9 =py38h2b1e499_8
     - bzip2 =1.0.8 =h99b78c6_7
     - c-ares =1.33.1 =hd74edd7_0
     - ca-certificates =2024.8.30 =hf0a4a13_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.0 =hc6c324b_2
-    - certifi =2024.7.4 =pyhd8ed1ab_0
+    - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38h858044d_0
     - cftime =1.6.4 =py38h9f76b62_0
     - chardet =5.2.0 =py38h10201cd_1
@@ -110,9 +110,9 @@ requirements:
     - libblas =3.9.0 =20_osxarm64_openblas
     - libboost =1.84.0 =h17eb2be_3
     - libboost-python =1.84.0 =py38he25cb4c_5
-    - libbrotlicommon =1.1.0 =hb547adb_1
-    - libbrotlidec =1.1.0 =hb547adb_1
-    - libbrotlienc =1.1.0 =hb547adb_1
+    - libbrotlicommon =1.1.0 =hd74edd7_2
+    - libbrotlidec =1.1.0 =hd74edd7_2
+    - libbrotlienc =1.1.0 =hd74edd7_2
     - libcblas =3.9.0 =20_osxarm64_openblas
     - libclang-cpp15 =15.0.7 =default_he012953_5
     - libclang13 =18.1.8 =default_hfc66aa2_3

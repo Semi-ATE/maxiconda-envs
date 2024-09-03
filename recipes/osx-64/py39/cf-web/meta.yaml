@@ -44,17 +44,17 @@ requirements:
     - automat =24.8.1 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py39h6e9494a_9
     - bcrypt =4.2.0 =py39h6e5e23e_1
-    - brotli-python =1.1.0 =py39h840bb9f_1
+    - brotli-python =1.1.0 =py39h7c0e7c0_2
     - bzip2 =1.0.8 =hfdf4475_7
     - ca-certificates =2024.8.30 =h8857fd0_0
-    - certifi =2024.7.4 =pyhd8ed1ab_0
+    - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py39h8ddeee6_1
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - cryptography =43.0.0 =py39h721c90e_0
-    - debugpy =1.8.5 =py39h09c4c31_0
+    - debugpy =1.8.5 =py39h7c0e7c0_1
     - decorator =5.1.1 =pyhd8ed1ab_0
     - exceptiongroup =1.2.2 =pyhd8ed1ab_0
     - executing =2.1.0 =pyhd8ed1ab_0
@@ -158,7 +158,7 @@ requirements:
     - zeromq =4.3.5 =hde137ed_4
     - zipp =3.20.1 =pyhd8ed1ab_0
     - zope.interface =7.0.3 =py39h06d86d0_1
-    - zstandard =0.23.0 =py39h32d468b_0
+    - zstandard =0.23.0 =py39hc23f734_1
     - zstd =1.5.6 =h915ae27_0
 
 about:

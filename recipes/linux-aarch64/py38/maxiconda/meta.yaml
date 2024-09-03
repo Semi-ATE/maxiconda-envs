@@ -87,9 +87,9 @@ requirements:
     - backports.zoneinfo =0.2.1 =py38h9579f32_8
     - binutils_impl_linux-aarch64 =2.40 =hf54a868_7
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.1.0 =h31becfc_1
-    - brotli-bin =1.1.0 =h31becfc_1
-    - brotli-python =1.1.0 =py38hb83fbf6_1
+    - brotli =1.1.0 =h86ecc28_2
+    - brotli-bin =1.1.0 =h86ecc28_2
+    - brotli-python =1.0.9 =py38h5f8a8d0_8
     - bwidget =1.9.14 =h8af1aa0_1
     - bzip2 =1.0.8 =h68df207_7
     - c-ares =1.33.1 =ha64f414_0
@@ -97,7 +97,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.0 =h5c54ea9_2
-    - certifi =2024.7.4 =pyhd8ed1ab_0
+    - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hf2f4906_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - click =8.1.7 =unix_pyh707e725_0
@@ -185,9 +185,9 @@ requirements:
     - libasprintf =0.22.5 =h87f4aca_3
     - libasprintf-devel =0.22.5 =h87f4aca_3
     - libblas =3.9.0 =20_linuxaarch64_openblas
-    - libbrotlicommon =1.1.0 =h31becfc_1
-    - libbrotlidec =1.1.0 =h31becfc_1
-    - libbrotlienc =1.1.0 =h31becfc_1
+    - libbrotlicommon =1.1.0 =h86ecc28_2
+    - libbrotlidec =1.1.0 =h86ecc28_2
+    - libbrotlienc =1.1.0 =h86ecc28_2
     - libcap =2.69 =h883460d_0
     - libcblas =3.9.0 =20_linuxaarch64_openblas
     - libclang-cpp15 =15.0.7 =default_hb368394_5

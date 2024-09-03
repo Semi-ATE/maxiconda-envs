@@ -83,9 +83,9 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_4
     - backports.zoneinfo =0.2.1 =py38hcafd530_8
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.1.0 =h0dc2134_1
-    - brotli-bin =1.1.0 =h0dc2134_1
-    - brotli-python =1.1.0 =py38h940360d_1
+    - brotli =1.1.0 =h00291cd_2
+    - brotli-bin =1.1.0 =h00291cd_2
+    - brotli-python =1.0.9 =py38h4cd09af_8
     - bwidget =1.9.14 =h694c41f_1
     - bzip2 =1.0.8 =hfdf4475_7
     - c-ares =1.33.1 =h44e7173_0
@@ -94,7 +94,7 @@ requirements:
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.0 =h9f650ed_2
     - cctools_osx-64 =986 =h6e61e4f_3
-    - certifi =2024.7.4 =pyhd8ed1ab_0
+    - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hc8bcfa4_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - clang =18.1.8 =default_h179603d_3
@@ -108,8 +108,8 @@ requirements:
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_0
-    - compiler-rt =18.1.8 =h734a56e_0
-    - compiler-rt_osx-64 =18.1.8 =h7312ed1_0
+    - compiler-rt =18.1.8 =h1020d70_1
+    - compiler-rt_osx-64 =18.1.8 =hf2b8a54_1
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h15a1a5b_1
     - curl =8.9.1 =hcd6fca1_0
@@ -184,9 +184,9 @@ requirements:
     - lerc =4.0.0 =hb486fe8_0
     - libasprintf =0.22.5 =hdfe23c8_3
     - libblas =3.9.0 =20_osx64_openblas
-    - libbrotlicommon =1.1.0 =h0dc2134_1
-    - libbrotlidec =1.1.0 =h0dc2134_1
-    - libbrotlienc =1.1.0 =h0dc2134_1
+    - libbrotlicommon =1.1.0 =h00291cd_2
+    - libbrotlidec =1.1.0 =h00291cd_2
+    - libbrotlienc =1.1.0 =h00291cd_2
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
     - libclang-cpp18.1 =18.1.8 =default_h0c94c6a_3

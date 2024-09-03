@@ -56,14 +56,14 @@ requirements:
     - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
     - bcrypt =3.2.2 =py37hcc03f2d_0
     - blinker =1.6.3 =pyhd8ed1ab_0
-    - brotli =1.1.0 =hcfcfb64_1
-    - brotli-bin =1.1.0 =hcfcfb64_1
+    - brotli =1.1.0 =h2466b09_2
+    - brotli-bin =1.1.0 =h2466b09_2
     - brotli-python =1.0.9 =py37hf2a7229_7
     - bzip2 =1.0.8 =h2466b09_7
     - ca-certificates =2024.8.30 =h56e8100_0
     - catalogue =2.0.8 =py37h03978a9_0
     - catboost =1.1.1 =py37h03978a9_1
-    - certifi =2024.7.4 =pyhd8ed1ab_0
+    - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.15.1 =py37ha95fbe2_1
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyh9f0ad1d_0
@@ -138,9 +138,9 @@ requirements:
     - libasprintf =0.22.5 =h5728263_3
     - libasprintf-devel =0.22.5 =h5728263_3
     - libblas =3.9.0 =23_win64_mkl
-    - libbrotlicommon =1.1.0 =hcfcfb64_1
-    - libbrotlidec =1.1.0 =hcfcfb64_1
-    - libbrotlienc =1.1.0 =hcfcfb64_1
+    - libbrotlicommon =1.1.0 =h2466b09_2
+    - libbrotlidec =1.1.0 =h2466b09_2
+    - libbrotlienc =1.1.0 =h2466b09_2
     - libcblas =3.9.0 =23_win64_mkl
     - libclang =15.0.7 =default_h3a3e6c3_5
     - libclang13 =15.0.7 =default_hf64faad_5
