@@ -29,7 +29,7 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.12.3 =pyha770c72_0
     - bitarray =2.9.2 =py39ha09f3b3_0
-    - cython =3.0.11 =py39h7c0e7c0_1
+    - cython =3.0.11 =py39h7c0e7c0_2
     - grayskull =2.6.0 =pyhd8ed1ab_1
     - hypothesis =6.111.2 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.0 =unix_pyh707e725_0
     - sqlalchemy =2.0.32 =py39hded5825_0
-    - sqlite =3.46.0 =h28673e1_0
+    - sqlite =3.46.1 =he26b093_0
     - sympy =1.13.2 =pypyh2585a3b_103
     - tqdm =4.66.5 =pyhd8ed1ab_0
     - transitions =0.9.2 =pyhd8ed1ab_0
@@ -72,7 +72,7 @@ requirements:
     - anyio =4.4.0 =pyhd8ed1ab_0
     - appnope =0.1.4 =pyhd8ed1ab_0
     - argon2-cffi =23.1.0 =pyhd8ed1ab_0
-    - argon2-cffi-bindings =21.2.0 =py39hdc70f33_4
+    - argon2-cffi-bindings =21.2.0 =py39h06d86d0_5
     - arrow =1.3.0 =pyhd8ed1ab_0
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - async-lru =2.0.4 =pyhd8ed1ab_0
@@ -109,7 +109,7 @@ requirements:
     - compiler-rt =18.1.8 =h1020d70_1
     - compiler-rt_osx-64 =18.1.8 =hf2b8a54_1
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
-    - contourpy =1.3.0 =py39h0d8d0ca_0
+    - contourpy =1.3.0 =py39h0d8d0ca_1
     - curl =8.9.1 =hcd6fca1_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - debugpy =1.8.5 =py39h7c0e7c0_1
@@ -127,17 +127,17 @@ requirements:
     - fontconfig =2.14.2 =h5bb23bf_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.53.1 =py39hded5825_0
+    - fonttools =4.53.1 =py39h06d86d0_1
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.12.1 =h60636b9_2
     - fribidi =1.0.10 =hbcb3906_0
-    - frozenlist =1.4.1 =py39ha09f3b3_0
+    - frozenlist =1.4.1 =py39h06d86d0_1
     - gfortran_impl_osx-64 =12.3.0 =hc328e78_3
     - gfortran_osx-64 =12.3.0 =h18f7dce_1
     - glib =2.80.3 =h736d271_2
     - glib-tools =2.80.3 =h959cb30_2
     - gmp =6.3.0 =hf036a51_2
-    - gmpy2 =2.1.5 =py39h87b48b1_1
+    - gmpy2 =2.1.5 =py39h8ddd0cc_2
     - graphite2 =1.3.13 =h73e2aa4_1003
     - greenlet =3.0.3 =py39hd253f6c_0
     - gsl =2.7 =h93259b0_0
@@ -190,8 +190,8 @@ requirements:
     - libclang-cpp18.1 =18.1.8 =default_h0c94c6a_3
     - libclang13 =18.1.8 =default_h9ff962c_3
     - libcurl =8.9.1 =hfcf2730_0
-    - libcxx =18.1.8 =hd876a4e_6
-    - libcxx-devel =18.1.8 =h7c275be_6
+    - libcxx =18.1.8 =hd876a4e_7
+    - libcxx-devel =18.1.8 =h7c275be_7
     - libdeflate =1.20 =h49d49c5_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =h10d778d_2
@@ -217,7 +217,7 @@ requirements:
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =16.4 =h75a757a_1
     - libsodium =1.0.18 =hbcb3906_1
-    - libsqlite =3.46.0 =h1b8f9f3_0
+    - libsqlite =3.46.1 =h4b8f8c9_0
     - libssh2 =1.11.0 =hd019ec5_0
     - libtiff =4.6.0 =h129831d_3
     - libuv =1.48.0 =h67532ce_0
@@ -252,7 +252,7 @@ requirements:
     - nspr =4.35 =hea0b92c_0
     - nss =3.104 =h3135457_0
     - openjpeg =2.5.2 =h7310d3a_0
-    - openssl =3.3.1 =hd23fc13_3
+    - openssl =3.3.2 =hd23fc13_0
     - overrides =7.7.0 =pyhd8ed1ab_0
     - packaging =24.1 =pyhd8ed1ab_0
     - pandoc =3.3 =h694c41f_0
@@ -474,19 +474,19 @@ requirements:
     - r-xts =0.14.0 =r44h6b9d099_1
     - r-yaml =2.3.10 =r44h6b9d099_0
     - r-zoo =1.8_12 =r44h6b9d099_2
-    - rapidfuzz =3.9.6 =py39h09c4c31_0
+    - rapidfuzz =3.9.7 =py39h7c0e7c0_0
     - readline =8.2 =h9e318b2_1
     - referencing =0.35.1 =pyhd8ed1ab_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_0
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.20.0 =py39hf59063a_0
+    - rpds-py =0.20.0 =py39h6e5e23e_1
     - ruamel.yaml =0.18.6 =py39ha09f3b3_0
     - ruamel.yaml.clib =0.2.8 =py39ha09f3b3_0
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_0
     - rust-std-x86_64-apple-darwin =1.80.1 =h38e4360_0
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.3 =pyh31c8845_0
-    - setuptools =72.2.0 =pyhd8ed1ab_0
+    - setuptools =73.0.1 =pyhd8ed1ab_0
     - sigtool =0.1.3 =h88f4db0_0
     - sip =6.7.12 =py39h110ca85_0
     - six =1.16.0 =pyh6c4a22f_0

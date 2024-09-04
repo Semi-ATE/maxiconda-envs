@@ -42,7 +42,7 @@ requirements:
     - seaborn =0.13.2 =hd8ed1ab_2
     - spyder-kernels =3.0.0 =unix_pyh707e725_0
     - sqlalchemy =2.0.32 =py39hded5825_0
-    - sqlite =3.46.0 =h28673e1_0
+    - sqlite =3.46.1 =he26b093_0
     - statsmodels =0.14.2 =py39hb943cd9_0
     - xgboost =2.1.1 =cpu_pyhb8f9a19_2
 
@@ -76,7 +76,7 @@ requirements:
     - azure-storage-files-datalake-cpp =12.11.0 =h14965f0_1
     - bcrypt =4.2.0 =py39h6e5e23e_1
     - blinker =1.8.2 =pyhd8ed1ab_0
-    - bottleneck =1.4.0 =py39hb943cd9_1
+    - bottleneck =1.4.0 =py39hff9a475_2
     - brotli =1.1.0 =h00291cd_2
     - brotli-bin =1.1.0 =h00291cd_2
     - brotli-python =1.1.0 =py39h7c0e7c0_2
@@ -91,7 +91,7 @@ requirements:
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyh9f0ad1d_0
     - click =8.1.7 =unix_pyh707e725_0
-    - cloudpathlib =0.18.1 =pyhd8ed1ab_0
+    - cloudpathlib =0.19.0 =pyhd8ed1ab_0
     - cloudpickle =3.0.0 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
     - colorlover =0.3.0 =py_0
@@ -100,8 +100,8 @@ requirements:
     - configparser =7.1.0 =pyhd8ed1ab_0
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
-    - contourpy =1.3.0 =py39h0d8d0ca_0
-    - cryptography =43.0.0 =py39h721c90e_0
+    - contourpy =1.3.0 =py39h0d8d0ca_1
+    - cryptography =43.0.0 =py39h3d21298_1
     - cssselect =1.2.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =py_0
     - cycler =0.12.1 =pyhd8ed1ab_0
@@ -126,7 +126,7 @@ requirements:
     - fontconfig =2.14.2 =h5bb23bf_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.53.1 =py39hded5825_0
+    - fonttools =4.53.1 =py39h06d86d0_1
     - freetype =2.12.1 =h60636b9_2
     - fribidi =1.0.10 =hbcb3906_0
     - fsspec =2024.6.1 =pyhff2d567_0
@@ -135,7 +135,7 @@ requirements:
     - future =1.0.0 =pyhd8ed1ab_0
     - fuzzytm =2.0.5 =pyhd8ed1ab_0
     - gdk-pixbuf =2.42.12 =ha587570_0
-    - gensim =4.3.2 =py39hcc9a0c8_0
+    - gensim =4.3.3 =py39h64cd7fd_0
     - gflags =2.2.2 =hb1e8313_1004
     - giflib =5.2.2 =h10d778d_0
     - gitdb =4.0.11 =pyhd8ed1ab_0
@@ -144,7 +144,7 @@ requirements:
     - glib-tools =2.80.3 =h959cb30_2
     - glog =0.7.1 =h2790a97_0
     - gmp =6.3.0 =hf036a51_2
-    - gmpy2 =2.1.5 =py39h87b48b1_1
+    - gmpy2 =2.1.5 =py39h8ddd0cc_2
     - graphite2 =1.3.13 =h73e2aa4_1003
     - graphviz =12.0.0 =he14ced1_0
     - greenlet =3.0.3 =py39hd253f6c_0
@@ -201,7 +201,7 @@ requirements:
     - libclang13 =18.1.8 =default_h9ff962c_3
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.9.1 =hfcf2730_0
-    - libcxx =18.1.8 =hd876a4e_6
+    - libcxx =18.1.8 =hd876a4e_7
     - libdeflate =1.21 =hfdf4475_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =h10d778d_2
@@ -235,7 +235,7 @@ requirements:
     - libre2-11 =2023.09.01 =h81f5012_2
     - librsvg =2.58.3 =h902c40a_0
     - libsodium =1.0.18 =hbcb3906_1
-    - libsqlite =3.46.0 =h1b8f9f3_0
+    - libsqlite =3.46.1 =h4b8f8c9_0
     - libssh2 =1.11.0 =hd019ec5_0
     - libthrift =0.20.0 =h75589b3_1
     - libtiff =4.6.0 =h603087a_4
@@ -285,7 +285,7 @@ requirements:
     - numexpr =2.10.0 =py39hbb604f3_0
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.2 =h7310d3a_0
-    - openssl =3.3.1 =hd23fc13_3
+    - openssl =3.3.2 =hd23fc13_0
     - orc =2.0.2 =h22b2039_0
     - packaging =24.1 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
@@ -359,7 +359,7 @@ requirements:
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
     - service-identity =24.1.0 =pyha770c72_0
     - service_identity =24.1.0 =hd8ed1ab_0
-    - setuptools =72.2.0 =pyhd8ed1ab_0
+    - setuptools =73.0.1 =pyhd8ed1ab_0
     - shap =0.45.1 =cpu_py39h2a7f04d_0
     - shellingham =1.5.4 =pyhd8ed1ab_0
     - simpful =2.12.0 =pyhd8ed1ab_1
@@ -417,7 +417,7 @@ requirements:
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
     - xorg-libxau =1.0.11 =h0dc2134_0
     - xorg-libxdmcp =1.1.3 =h35c211d_0
-    - xyzservices =2024.6.0 =pyhd8ed1ab_0
+    - xyzservices =2024.9.0 =pyhd8ed1ab_0
     - xz =5.2.6 =h775f41a_0
     - yaml =0.2.5 =h0d85af4_2
     - yellowbrick =1.5 =pyhd8ed1ab_0

@@ -63,7 +63,7 @@ requirements:
     - libcblas =3.9.0 =22_osx64_openblas
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
     - libclang13 =18.1.8 =default_h9ff962c_3
-    - libcxx =18.1.8 =hd876a4e_6
+    - libcxx =18.1.8 =hd876a4e_7
     - libedit =3.1.20191231 =h0678c8f_2
     - libffi =3.4.2 =h0d85af4_5
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
@@ -82,7 +82,7 @@ requirements:
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =16.4 =h75a757a_1
     - libsodium =1.0.18 =hbcb3906_1
-    - libsqlite =3.46.0 =h1b8f9f3_0
+    - libsqlite =3.46.1 =h4b8f8c9_0
     - libusb =1.0.27 =h83ace79_100
     - libvorbis =1.3.7 =h046ec9c_0
     - libxml2 =2.12.7 =hc603aa4_3
@@ -95,7 +95,7 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - nspr =4.35 =hea0b92c_0
     - nss =3.104 =h3135457_0
-    - openssl =3.3.1 =hd23fc13_3
+    - openssl =3.3.2 =hd23fc13_0
     - packaging =24.1 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pcre2 =10.44 =h7634a1b_2
@@ -120,7 +120,7 @@ requirements:
     - pyzmq =26.2.0 =py38hd99e78f_0
     - qt-main =5.15.8 =he8879f6_23
     - readline =8.2 =h9e318b2_1
-    - setuptools =72.2.0 =pyhd8ed1ab_0
+    - setuptools =73.0.1 =pyhd8ed1ab_0
     - sip =6.7.12 =py38hb2f96d7_0
     - six =1.16.0 =pyh6c4a22f_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
