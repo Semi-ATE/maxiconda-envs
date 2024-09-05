@@ -26,7 +26,7 @@ requirements:
 
     # 8 primary packages :
     - numpy =2.0.2 =py39he6d34d4_0
-    - openpyxl =3.1.5 =py39h4f4a4d5_0
+    - openpyxl =3.1.5 =py39h27e62a2_1
     - pandas =2.2.2 =py39hbb604f3_1
     - pyqt =5.15.9 =py39h3dce684_5
     - pyserial =3.5 =pyhd8ed1ab_0
@@ -62,7 +62,7 @@ requirements:
     - libblas =3.9.0 =22_osx64_openblas
     - libcblas =3.9.0 =22_osx64_openblas
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
-    - libclang13 =18.1.8 =default_h9ff962c_3
+    - libclang13 =18.1.8 =default_h9ff962c_4
     - libcxx =18.1.8 =hd876a4e_7
     - libedit =3.1.20191231 =h0678c8f_2
     - libffi =3.4.2 =h0d85af4_5
@@ -81,7 +81,7 @@ requirements:
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =16.4 =h75a757a_1
-    - libsodium =1.0.18 =hbcb3906_1
+    - libsodium =1.0.20 =hfdf4475_0
     - libsqlite =3.46.1 =h4b8f8c9_0
     - libusb =1.0.27 =h83ace79_100
     - libvorbis =1.3.7 =h046ec9c_0
@@ -116,7 +116,7 @@ requirements:
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyvisa =1.14.1 =pyhd8ed1ab_0
     - pyxdg =0.28 =pyhd8ed1ab_0
-    - pyzmq =26.2.0 =py39ha6bd863_0
+    - pyzmq =26.2.0 =py39ha6bd863_2
     - qt-main =5.15.8 =he8879f6_23
     - readline =8.2 =h9e318b2_1
     - setuptools =73.0.1 =pyhd8ed1ab_0
@@ -134,7 +134,7 @@ requirements:
     - wheel =0.44.0 =pyhd8ed1ab_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
     - xz =5.2.6 =h775f41a_0
-    - zeromq =4.3.5 =hde137ed_4
+    - zeromq =4.3.5 =hb33e954_5
     - zipp =3.20.1 =pyhd8ed1ab_0
     - zstd =1.5.6 =h915ae27_0
 

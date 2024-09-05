@@ -53,7 +53,7 @@ requirements:
     - asttokens =2.4.1 =pyhd8ed1ab_0
     - attrs =24.2.0 =pyh71513ae_0
     - automat =24.8.1 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.26 =h5dd0cea_2
+    - aws-c-auth =0.7.27 =h5dd0cea_0
     - aws-c-cal =0.7.4 =ha1e9ad3_0
     - aws-c-common =0.9.27 =h2466b09_0
     - aws-c-compression =0.2.19 =ha1e9ad3_0
@@ -61,10 +61,10 @@ requirements:
     - aws-c-http =0.8.8 =h8ce653d_1
     - aws-c-io =0.14.18 =hf17f6a9_7
     - aws-c-mqtt =0.10.4 =hc4c7fd1_18
-    - aws-c-s3 =0.6.4 =he1f7337_11
+    - aws-c-s3 =0.6.4 =h37a4806_12
     - aws-c-sdkutils =0.1.19 =ha1e9ad3_2
     - aws-checksums =0.1.18 =ha1e9ad3_10
-    - aws-crt-cpp =0.28.2 =ha4390c3_0
+    - aws-crt-cpp =0.28.2 =h274d8e6_1
     - aws-sdk-cpp =1.11.379 =ha8aa73b_8
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bcrypt =4.2.0 =py38h2e0ef18_0
@@ -182,7 +182,7 @@ requirements:
     - libbrotlidec =1.1.0 =h2466b09_2
     - libbrotlienc =1.1.0 =h2466b09_2
     - libcblas =3.9.0 =23_win64_mkl
-    - libclang13 =18.1.8 =default_ha5278ca_3
+    - libclang13 =18.1.8 =default_ha5278ca_4
     - libcrc32c =1.1.2 =h0e60522_0
     - libcurl =8.9.1 =h18fefc2_0
     - libdeflate =1.21 =h2466b09_0
@@ -251,7 +251,7 @@ requirements:
     - numexpr =2.7.3 =py38h5d928e2_2
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - openjpeg =2.5.2 =h3d672ee_0
-    - openssl =3.3.1 =h2466b09_3
+    - openssl =3.3.2 =h2466b09_0
     - orc =2.0.2 =h784c2ca_0
     - packaging =24.1 =pyhd8ed1ab_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0

@@ -56,7 +56,7 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =24.2.0 =pyh71513ae_0
     - automat =24.8.1 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.26 =h77ec9d9_2
+    - aws-c-auth =0.7.27 =h77ec9d9_0
     - aws-c-cal =0.7.4 =h3e75f19_0
     - aws-c-common =0.9.27 =hfdf4475_0
     - aws-c-compression =0.2.19 =h3e75f19_0
@@ -64,10 +64,10 @@ requirements:
     - aws-c-http =0.8.8 =h504e0bf_1
     - aws-c-io =0.14.18 =hef79b51_7
     - aws-c-mqtt =0.10.4 =h03607b6_18
-    - aws-c-s3 =0.6.4 =ha70045c_11
+    - aws-c-s3 =0.6.4 =h74e0911_12
     - aws-c-sdkutils =0.1.19 =hf37c103_2
     - aws-checksums =0.1.18 =hf37c103_10
-    - aws-crt-cpp =0.28.2 =h617b8c7_0
+    - aws-crt-cpp =0.28.2 =hc796296_1
     - aws-sdk-cpp =1.11.379 =h569b7bb_8
     - azure-core-cpp =1.13.0 =hf8dbe3c_0
     - azure-identity-cpp =1.8.0 =h60298e3_2
@@ -198,7 +198,7 @@ requirements:
     - libbrotlienc =1.1.0 =h00291cd_2
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
-    - libclang13 =18.1.8 =default_h9ff962c_3
+    - libclang13 =18.1.8 =default_h9ff962c_4
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.9.1 =hfcf2730_0
     - libcxx =18.1.8 =hd876a4e_7

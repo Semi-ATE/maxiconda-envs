@@ -26,7 +26,7 @@ requirements:
 
     # 8 primary packages :
     - numpy =2.0.2 =py39h60232e0_0
-    - openpyxl =3.1.5 =py39ha55989b_0
+    - openpyxl =3.1.5 =py39ha55989b_1
     - pandas =2.2.2 =py39h2366fc2_1
     - pyqt =5.15.9 =py39hb77abff_5
     - pyserial =3.5 =pyhd8ed1ab_0
@@ -62,7 +62,7 @@ requirements:
     - krb5 =1.21.3 =hdf4eb48_0
     - libblas =3.9.0 =23_win64_mkl
     - libcblas =3.9.0 =23_win64_mkl
-    - libclang13 =18.1.8 =default_ha5278ca_3
+    - libclang13 =18.1.8 =default_ha5278ca_4
     - libffi =3.4.2 =h8ffe710_5
     - libglib =2.80.3 =h7025463_2
     - libhwloc =2.11.1 =default_h8125262_1000
@@ -73,7 +73,7 @@ requirements:
     - liblapack =3.9.0 =23_win64_mkl
     - libogg =1.3.5 =h2466b09_0
     - libpng =1.6.43 =h19919ed_0
-    - libsodium =1.0.18 =h8d14728_1
+    - libsodium =1.0.20 =hc70643c_0
     - libsqlite =3.46.1 =h2466b09_0
     - libusb =1.0.27 =hcfcfb64_100
     - libvorbis =1.3.7 =h0e60522_0
@@ -82,7 +82,7 @@ requirements:
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mkl =2024.1.0 =h66d3029_694
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
-    - openssl =3.3.1 =h2466b09_3
+    - openssl =3.3.2 =h2466b09_0
     - packaging =24.1 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pcre2 =10.44 =h3d7b363_2
@@ -102,7 +102,7 @@ requirements:
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyvisa =1.14.1 =pyhd8ed1ab_0
     - pywin32 =306 =py39h99910a6_2
-    - pyzmq =26.2.0 =py39h03e5c00_0
+    - pyzmq =26.2.0 =py39h03e5c00_2
     - qt-main =5.15.8 =h06adc49_23
     - setuptools =73.0.1 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h99910a6_0
@@ -123,7 +123,7 @@ requirements:
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - wheel =0.44.0 =pyhd8ed1ab_0
     - xz =5.2.6 =h8d14728_0
-    - zeromq =4.3.5 =he1f189c_4
+    - zeromq =4.3.5 =he1f189c_5
     - zipp =3.20.1 =pyhd8ed1ab_0
     - zstd =1.5.6 =h0ea2cb4_0
 

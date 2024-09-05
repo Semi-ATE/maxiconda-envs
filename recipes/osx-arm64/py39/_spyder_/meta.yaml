@@ -72,7 +72,7 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_0
     - contourpy =1.3.0 =py39h157d57c_1
     - cookiecutter =2.6.0 =pyhca7485f_0
-    - cryptography =43.0.0 =py39hc182a1d_1
+    - cryptography =43.0.1 =py39hc182a1d_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - debugpy =1.8.5 =py39hfa9831e_1
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -124,7 +124,7 @@ requirements:
     - jupyter_core =5.7.2 =py39h2804cbe_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - keyring =25.3.0 =pyh534df25_0
-    - kiwisolver =1.4.5 =py39h157d57c_2
+    - kiwisolver =1.4.7 =py39h157d57c_0
     - krb5 =1.21.3 =h237132a_0
     - lcms2 =2.16 =ha0e7c42_0
     - lerc =4.0.0 =h9a09cb3_0
@@ -134,7 +134,7 @@ requirements:
     - libbrotlienc =1.1.0 =hd74edd7_2
     - libcblas =3.9.0 =23_osxarm64_openblas
     - libclang-cpp15 =15.0.7 =default_he012953_5
-    - libclang13 =18.1.8 =default_hfc66aa2_3
+    - libclang13 =18.1.8 =default_hfc66aa2_4
     - libcxx =18.1.8 =h3ed4263_7
     - libdeflate =1.21 =h99b78c6_0
     - libedit =3.1.20191231 =hc8eb9b7_2
@@ -176,7 +176,7 @@ requirements:
     - mpc =1.3.1 =h8f1351a_0
     - mpfr =4.2.1 =h1cfca0a_2
     - mpmath =1.3.0 =pyhd8ed1ab_0
-    - multidict =6.0.5 =py39h02fc5c5_0
+    - multidict =6.0.5 =py39ha5f49b9_1
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =1.0.0 =pyha770c72_0
     - mysql-common =8.3.0 =h1687695_5
@@ -247,8 +247,8 @@ requirements:
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyuca =1.2 =py_1
     - pyxdg =0.28 =pyhd8ed1ab_0
-    - pyyaml =6.0.2 =py39hfea33bf_0
-    - pyzmq =26.2.0 =py39h6f9cb01_0
+    - pyyaml =6.0.2 =py39h06df861_1
+    - pyzmq =26.2.0 =py39h6f9cb01_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qhull =2020.2 =h420ef59_5
     - qstylizer =0.2.3 =pyhd8ed1ab_0
@@ -311,7 +311,7 @@ requirements:
     - xz =5.2.6 =h57fd34a_0
     - yaml =0.2.5 =h3422bc3_2
     - yapf =0.40.1 =pyhd8ed1ab_0
-    - yarl =1.9.7 =py39h06df861_0
+    - yarl =1.9.8 =py39h06df861_1
     - zeromq =4.3.5 =hcc0f68c_4
     - zipp =3.20.1 =pyhd8ed1ab_0
     - zstandard =0.23.0 =py39hcf1bb16_1
