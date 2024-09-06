@@ -93,7 +93,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.0 =h9f650ed_2
-    - cctools_osx-64 =986 =h6e61e4f_3
+    - cctools_osx-64 =986 =h525afad_4
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hc8bcfa4_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
@@ -121,7 +121,7 @@ requirements:
     - et_xmlfile =1.1.0 =pyhd8ed1ab_0
     - exceptiongroup =1.2.2 =pyhd8ed1ab_0
     - executing =2.1.0 =pyhd8ed1ab_0
-    - expat =2.6.2 =h73e2aa4_0
+    - expat =2.6.3 =hac325c4_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -143,8 +143,8 @@ requirements:
     - graphite2 =1.3.13 =h73e2aa4_1003
     - greenlet =3.0.3 =py38h1f5f77c_0
     - gsl =2.7 =h93259b0_0
-    - gst-plugins-base =1.24.6 =h0e442b8_0
-    - gstreamer =1.24.6 =hbc75551_0
+    - gst-plugins-base =1.24.7 =h0ee1d58_0
+    - gstreamer =1.24.7 =h3271b85_0
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =py38h50d1736_0
     - harfbuzz =9.0.0 =h053f038_0
@@ -180,7 +180,7 @@ requirements:
     - kiwisolver =1.4.5 =py38h15a1a5b_1
     - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.16 =ha2f27b4_0
-    - ld64_osx-64 =711 =h93b84b6_3
+    - ld64_osx-64 =711 =h4c85b5e_4
     - lerc =4.0.0 =hb486fe8_0
     - libasprintf =0.22.5 =hdfe23c8_3
     - libblas =3.9.0 =20_osx64_openblas
@@ -197,7 +197,7 @@ requirements:
     - libdeflate =1.20 =h49d49c5_0
     - libedit =3.1.20191231 =h0678c8f_2
     - libev =4.33 =h10d778d_2
-    - libexpat =2.6.2 =h73e2aa4_0
+    - libexpat =2.6.3 =hac325c4_0
     - libffi =3.4.2 =h0d85af4_5
     - libgettextpo =0.22.5 =hdfe23c8_3
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
@@ -232,7 +232,7 @@ requirements:
     - llvm-tools =18.1.8 =h9ce406d_2
     - llvm-tools-18 =18.1.8 =h9ce406d_2
     - llvmlite =0.41.1 =py38h6008ce5_0
-    - make =4.4.1 =h00291cd_0
+    - make =4.4.1 =h00291cd_1
     - markupsafe =2.1.5 =py38hae2e43d_0
     - matplotlib-base =3.7.3 =py38hcd1b199_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
@@ -360,7 +360,7 @@ requirements:
     - r-gtable =0.3.5 =r44hc72bb7e_1
     - r-hardhat =1.4.0 =r44hc72bb7e_1
     - r-haven =2.5.4 =r44h25d921d_1
-    - r-hexbin =1.28.3 =r44h9612530_2
+    - r-hexbin =1.28.4 =r44h7526d82_0
     - r-highr =0.11 =r44hc72bb7e_1
     - r-hms =1.1.3 =r44hc72bb7e_2
     - r-htmltools =0.5.8.1 =r44h25d921d_1
@@ -498,7 +498,7 @@ requirements:
     - soupsieve =2.5 =pyhd8ed1ab_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - stdlib-list =0.10.0 =pyhd8ed1ab_0
-    - tapi =1100.0.11 =h9ce4665_0
+    - tapi =1300.6.5 =h390ca13_0
     - terminado =0.18.1 =pyh31c8845_0
     - tinycss2 =1.3.0 =pyhd8ed1ab_0
     - tk =8.6.13 =h1abcd95_1

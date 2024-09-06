@@ -55,7 +55,7 @@ requirements:
     - scipy =1.13.1 =py39h3d5391c_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.0 =unix_pyh707e725_0
-    - sqlalchemy =2.0.33 =py39h06df861_0
+    - sqlalchemy =2.0.34 =py39h06df861_0
     - sqlite =3.46.1 =h3b4c4e4_0
     - sympy =1.13.2 =pypyh2585a3b_103
     - tqdm =4.66.5 =pyhd8ed1ab_0
@@ -90,9 +90,9 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.0 =hc6c324b_2
-    - cctools_osx-arm64 =986 =hf2da8af_3
+    - cctools_osx-arm64 =986 =hfaac078_4
     - certifi =2024.8.30 =pyhd8ed1ab_0
-    - cffi =1.17.0 =py39h7f933ea_1
+    - cffi =1.17.1 =py39h7f933ea_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - clang =18.1.8 =default_h675cc0c_4
     - clang-18 =18.1.8 =default_h5c12605_4
@@ -118,7 +118,7 @@ requirements:
     - et_xmlfile =1.1.0 =pyhd8ed1ab_0
     - exceptiongroup =1.2.2 =pyhd8ed1ab_0
     - executing =2.1.0 =pyhd8ed1ab_0
-    - expat =2.6.2 =hebf3989_0
+    - expat =2.6.3 =hf9b8971_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -140,8 +140,8 @@ requirements:
     - graphite2 =1.3.13 =hebf3989_1003
     - greenlet =3.0.3 =py39hf3050f2_0
     - gsl =2.7 =h6e638da_0
-    - gst-plugins-base =1.24.6 =h40577aa_0
-    - gstreamer =1.24.6 =h430e707_0
+    - gst-plugins-base =1.24.7 =hb49d354_0
+    - gstreamer =1.24.7 =hc3f5269_0
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =pyhd8ed1ab_0
     - harfbuzz =9.0.0 =h1836168_0
@@ -177,7 +177,7 @@ requirements:
     - kiwisolver =1.4.7 =py39h157d57c_0
     - krb5 =1.21.3 =h237132a_0
     - lcms2 =2.16 =ha0e7c42_0
-    - ld64_osx-arm64 =711 =h5ecc89c_3
+    - ld64_osx-arm64 =711 =hdd277f2_4
     - lerc =4.0.0 =h9a09cb3_0
     - libasprintf =0.22.5 =h8414b35_3
     - libblas =3.9.0 =23_osxarm64_openblas
@@ -194,7 +194,7 @@ requirements:
     - libdeflate =1.20 =h93a5062_0
     - libedit =3.1.20191231 =hc8eb9b7_2
     - libev =4.33 =h93a5062_2
-    - libexpat =2.6.2 =hebf3989_0
+    - libexpat =2.6.3 =hf9b8971_0
     - libffi =3.4.2 =h3422bc3_5
     - libgettextpo =0.22.5 =h8414b35_3
     - libgfortran =5.0.0 =13_2_0_hd922786_3
@@ -229,7 +229,7 @@ requirements:
     - llvm-tools =18.1.8 =h5090b49_2
     - llvm-tools-18 =18.1.8 =h5090b49_2
     - llvmlite =0.43.0 =py39h05480be_1
-    - make =4.4.1 =hc9fafa5_0
+    - make =4.4.1 =hc9fafa5_1
     - markupsafe =2.1.5 =py39h06df861_1
     - matplotlib-base =3.9.2 =py39h1398496_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
@@ -356,7 +356,7 @@ requirements:
     - r-gtable =0.3.5 =r44hc72bb7e_1
     - r-hardhat =1.4.0 =r44hc72bb7e_1
     - r-haven =2.5.4 =r44hd76f289_1
-    - r-hexbin =1.28.3 =r44h7807725_2
+    - r-hexbin =1.28.4 =r44hf8db2fc_0
     - r-highr =0.11 =r44hc72bb7e_1
     - r-hms =1.1.3 =r44hc72bb7e_2
     - r-htmltools =0.5.8.1 =r44hd76f289_1
@@ -494,7 +494,7 @@ requirements:
     - soupsieve =2.5 =pyhd8ed1ab_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - stdlib-list =0.10.0 =pyhd8ed1ab_0
-    - tapi =1100.0.11 =he4954df_0
+    - tapi =1300.6.5 =h03f4b80_0
     - terminado =0.18.1 =pyh31c8845_0
     - tinycss2 =1.3.0 =pyhd8ed1ab_0
     - tk =8.6.13 =h5083fa2_1
@@ -522,7 +522,7 @@ requirements:
     - xorg-libxdmcp =1.1.3 =h27ca646_0
     - xz =5.2.6 =h57fd34a_0
     - yaml =0.2.5 =h3422bc3_2
-    - yarl =1.9.8 =py39h06df861_1
+    - yarl =1.9.11 =py39h06df861_0
     - zeromq =4.3.5 =h64debc3_5
     - zipp =3.20.1 =pyhd8ed1ab_0
     - zlib =1.3.1 =hfb2fe0b_1

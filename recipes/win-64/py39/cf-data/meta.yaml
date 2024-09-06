@@ -40,7 +40,7 @@ requirements:
     - scrapy =2.11.2 =py39hcbf5309_0
     - seaborn =0.13.2 =hd8ed1ab_2
     - spyder-kernels =3.0.0 =win_pyh7428d3b_0
-    - sqlalchemy =2.0.33 =py39ha55e580_0
+    - sqlalchemy =2.0.34 =py39ha55e580_0
     - sqlite =3.46.1 =h2466b09_0
     - statsmodels =0.14.2 =py39h4b0a98a_0
     - xgboost =2.1.1 =cpu_pyhb8f9a19_2
@@ -66,10 +66,10 @@ requirements:
     - aws-c-http =0.8.8 =h8ce653d_1
     - aws-c-io =0.14.18 =hf17f6a9_7
     - aws-c-mqtt =0.10.4 =hc4c7fd1_18
-    - aws-c-s3 =0.6.4 =h37a4806_12
+    - aws-c-s3 =0.6.5 =h37a4806_0
     - aws-c-sdkutils =0.1.19 =ha1e9ad3_2
     - aws-checksums =0.1.18 =ha1e9ad3_10
-    - aws-crt-cpp =0.28.2 =h274d8e6_1
+    - aws-crt-cpp =0.28.2 =h99bee40_2
     - aws-sdk-cpp =1.11.379 =ha8aa73b_8
     - bcrypt =4.2.0 =py39h92a245a_1
     - blinker =1.8.2 =pyhd8ed1ab_0
@@ -85,7 +85,7 @@ requirements:
     - catalogue =2.0.10 =py39hcbf5309_0
     - catboost =1.2.5 =py39hcbf5309_0
     - certifi =2024.8.30 =pyhd8ed1ab_0
-    - cffi =1.17.0 =py39ha55e580_1
+    - cffi =1.17.1 =py39ha55e580_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyh9f0ad1d_0
     - click =8.1.7 =win_pyh7428d3b_0
@@ -104,7 +104,7 @@ requirements:
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cymem =2.0.8 =py39h99910a6_1
     - cython-blis =0.7.10 =py39hd88c2e4_2
-    - databricks-sdk =0.31.1 =pyhd8ed1ab_0
+    - databricks-sdk =0.32.0 =pyhd8ed1ab_0
     - datefinder =0.7.3 =pyhd8ed1ab_0
     - debugpy =1.8.5 =py39ha51f57c_1
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -115,7 +115,7 @@ requirements:
     - entrypoints =0.4 =pyhd8ed1ab_0
     - exceptiongroup =1.2.2 =pyhd8ed1ab_0
     - executing =2.1.0 =pyhd8ed1ab_0
-    - expat =2.6.2 =h63175ca_0
+    - expat =2.6.3 =he0c23c2_0
     - filelock =3.15.4 =pyhd8ed1ab_0
     - flask =3.0.3 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -142,7 +142,7 @@ requirements:
     - google-auth =2.34.0 =pyhff2d567_0
     - graphene =3.3 =pyhd8ed1ab_0
     - graphite2 =1.3.13 =h63175ca_1003
-    - graphql-core =3.2.3 =pyhd8ed1ab_0
+    - graphql-core =3.2.4 =pyhd8ed1ab_0
     - graphql-relay =3.2.0 =pyhd8ed1ab_0
     - graphviz =11.0.0 =h09e431a_0
     - greenlet =3.0.3 =py39h99910a6_0
@@ -202,7 +202,7 @@ requirements:
     - libcurl =8.9.1 =h18fefc2_0
     - libdeflate =1.21 =h2466b09_0
     - libevent =2.1.12 =h3671451_1
-    - libexpat =2.6.2 =h63175ca_0
+    - libexpat =2.6.3 =he0c23c2_0
     - libffi =3.4.2 =h8ffe710_5
     - libgd =2.3.3 =h312136b_9
     - libglib =2.80.2 =h0df6a38_0
@@ -363,7 +363,7 @@ requirements:
     - srsly =2.4.8 =py39h99910a6_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
-    - tbb =2021.12.0 =hc790b64_4
+    - tbb =2021.13.0 =hc790b64_0
     - tenacity =9.0.0 =pyhd8ed1ab_0
     - textblob =0.15.3 =py_0
     - thinc =8.2.5 =py39haacdf10_0
@@ -417,7 +417,7 @@ requirements:
     - xyzservices =2024.9.0 =pyhd8ed1ab_0
     - xz =5.2.6 =h8d14728_0
     - yaml =0.2.5 =h8ffe710_2
-    - yarl =1.9.8 =py39ha55e580_1
+    - yarl =1.9.11 =py39ha55e580_0
     - yellowbrick =1.5 =pyhd8ed1ab_0
     - zeromq =4.3.5 =he1f189c_5
     - zipp =3.20.1 =pyhd8ed1ab_0
