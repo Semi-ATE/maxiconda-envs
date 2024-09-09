@@ -58,18 +58,18 @@ requirements:
     - async-timeout =4.0.3 =pyhd8ed1ab_0
     - attrs =24.2.0 =pyh71513ae_0
     - automat =24.8.1 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.27 =h5dd0cea_0
+    - aws-c-auth =0.7.29 =h5dd0cea_0
     - aws-c-cal =0.7.4 =ha1e9ad3_0
     - aws-c-common =0.9.27 =h2466b09_0
     - aws-c-compression =0.2.19 =ha1e9ad3_0
     - aws-c-event-stream =0.4.3 =hf2a634e_0
     - aws-c-http =0.8.8 =h8ce653d_1
-    - aws-c-io =0.14.18 =hf17f6a9_7
+    - aws-c-io =0.14.18 =hf17f6a9_8
     - aws-c-mqtt =0.10.4 =hc4c7fd1_18
-    - aws-c-s3 =0.6.5 =h37a4806_0
+    - aws-c-s3 =0.6.5 =h7c1087a_1
     - aws-c-sdkutils =0.1.19 =ha1e9ad3_2
     - aws-checksums =0.1.18 =ha1e9ad3_10
-    - aws-crt-cpp =0.28.2 =h99bee40_2
+    - aws-crt-cpp =0.28.2 =h3df387f_3
     - aws-sdk-cpp =1.11.379 =ha8aa73b_8
     - bcrypt =4.2.0 =py39h92a245a_1
     - blinker =1.8.2 =pyhd8ed1ab_0
@@ -83,7 +83,7 @@ requirements:
     - cachetools =5.5.0 =pyhd8ed1ab_0
     - cairo =1.18.0 =h91e5215_2
     - catalogue =2.0.10 =py39hcbf5309_0
-    - catboost =1.2.5 =py39hcbf5309_0
+    - catboost =1.2.7 =py39hcbf5309_0
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39ha55e580_0
     - charset-normalizer =3.3.2 =pyhd8ed1ab_0
@@ -116,7 +116,7 @@ requirements:
     - exceptiongroup =1.2.2 =pyhd8ed1ab_0
     - executing =2.1.0 =pyhd8ed1ab_0
     - expat =2.6.3 =he0c23c2_0
-    - filelock =3.15.4 =pyhd8ed1ab_0
+    - filelock =3.16.0 =pyhd8ed1ab_0
     - flask =3.0.3 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -286,7 +286,7 @@ requirements:
     - pillow =10.4.0 =py39hfa8c767_0
     - pip =24.2 =pyh8b19718_1
     - pixman =0.43.4 =h63175ca_0
-    - platformdirs =4.2.2 =pyhd8ed1ab_0
+    - platformdirs =4.3.2 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_2
     - preshed =3.0.9 =py39h99910a6_1
     - prometheus_client =0.20.0 =pyhd8ed1ab_0
@@ -294,7 +294,7 @@ requirements:
     - prompt-toolkit =3.0.47 =pyha770c72_0
     - protego =0.3.1 =pyhd8ed1ab_0
     - protobuf =4.25.3 =py39h434d6e0_1
-    - psutil =6.0.0 =py39ha55e580_0
+    - psutil =6.0.0 =py39ha55e580_1
     - pthread-stubs =0.4 =hcd874cb_1001
     - pthreads-win32 =2.9.1 =hfa6e2cd_3
     - pure_eval =0.2.3 =pyhd8ed1ab_0
@@ -311,7 +311,7 @@ requirements:
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.18.0 =pyhd8ed1ab_0
     - pyldavis =3.4.1 =pyhd8ed1ab_0
-    - pynacl =1.5.0 =py39h09fa780_3
+    - pynacl =1.5.0 =py39h63afc94_4
     - pynndescent =0.5.13 =pyhff2d567_0
     - pyod =2.0.2 =pyhd8ed1ab_0
     - pyopenssl =24.2.1 =pyhd8ed1ab_2
@@ -417,7 +417,7 @@ requirements:
     - xyzservices =2024.9.0 =pyhd8ed1ab_0
     - xz =5.2.6 =h8d14728_0
     - yaml =0.2.5 =h8ffe710_2
-    - yarl =1.9.11 =py39ha55e580_0
+    - yarl =1.10.0 =py39ha55e580_0
     - yellowbrick =1.5 =pyhd8ed1ab_0
     - zeromq =4.3.5 =he1f189c_5
     - zipp =3.20.1 =pyhd8ed1ab_0

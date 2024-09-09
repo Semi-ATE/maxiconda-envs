@@ -39,7 +39,7 @@ requirements:
     - openpyxl =3.1.5 =py39h5f73de6_1
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.2.2 =py39h998126f_1
-    - psutil =6.0.0 =py39hfea33bf_0
+    - psutil =6.0.0 =py39h06df861_1
     - pydantic =2.8.2 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py39hcf430f4_5
     - pyserial =3.5 =pyhd8ed1ab_0
@@ -235,7 +235,7 @@ requirements:
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mistune =3.0.2 =pyhd8ed1ab_0
     - mpc =1.3.1 =h8f1351a_1
-    - mpfr =4.2.1 =h1cfca0a_2
+    - mpfr =4.2.1 =hb693164_3
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - multidict =6.0.5 =py39ha5f49b9_1
     - munkres =1.1.4 =pyh9f0ad1d_0
@@ -266,7 +266,7 @@ requirements:
     - pixman =0.43.4 =hebf3989_0
     - pkginfo =1.11.1 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
-    - platformdirs =4.2.2 =pyhd8ed1ab_0
+    - platformdirs =4.3.2 =pyhd8ed1ab_0
     - pluggy =1.5.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_2
     - progressbar2 =4.5.0 =pyhd8ed1ab_0
@@ -278,7 +278,7 @@ requirements:
     - pycparser =2.22 =pyhd8ed1ab_0
     - pydantic-core =2.20.1 =py39h0019b8a_0
     - pygments =2.18.0 =pyhd8ed1ab_0
-    - pyobjc-core =10.3.1 =py39h336d860_0
+    - pyobjc-core =10.3.1 =py39hdc109a9_1
     - pyobjc-framework-cocoa =10.3.1 =py39h336d860_0
     - pyparsing =3.1.4 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py39hb198ff7_5
@@ -398,7 +398,7 @@ requirements:
     - r-numderiv =2016.8_1.1 =r44hc72bb7e_6
     - r-openssl =2.2.1 =r44h926592e_0
     - r-parallelly =1.38.0 =r44h07cda29_0
-    - r-pbdzmq =0.3_11 =r44hefa18a7_1
+    - r-pbdzmq =0.3_12 =r44hd430892_0
     - r-pillar =1.9.0 =r44hc72bb7e_2
     - r-pkgconfig =2.0.3 =r44hc72bb7e_4
     - r-plyr =1.8.9 =r44hd76f289_1
@@ -522,7 +522,7 @@ requirements:
     - xorg-libxdmcp =1.1.3 =h27ca646_0
     - xz =5.2.6 =h57fd34a_0
     - yaml =0.2.5 =h3422bc3_2
-    - yarl =1.9.11 =py39h06df861_0
+    - yarl =1.10.0 =py39h06df861_0
     - zeromq =4.3.5 =h64debc3_5
     - zipp =3.20.1 =pyhd8ed1ab_0
     - zlib =1.3.1 =hfb2fe0b_1

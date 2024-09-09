@@ -56,18 +56,18 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =24.2.0 =pyh71513ae_0
     - automat =24.8.1 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.27 =h77ec9d9_0
+    - aws-c-auth =0.7.29 =h77ec9d9_0
     - aws-c-cal =0.7.4 =h3e75f19_0
     - aws-c-common =0.9.27 =hfdf4475_0
     - aws-c-compression =0.2.19 =h3e75f19_0
     - aws-c-event-stream =0.4.3 =h324d61a_0
     - aws-c-http =0.8.8 =h504e0bf_1
-    - aws-c-io =0.14.18 =hef79b51_7
+    - aws-c-io =0.14.18 =hef79b51_8
     - aws-c-mqtt =0.10.4 =h03607b6_18
-    - aws-c-s3 =0.6.5 =h74e0911_0
+    - aws-c-s3 =0.6.5 =h4bf8e9e_1
     - aws-c-sdkutils =0.1.19 =hf37c103_2
     - aws-checksums =0.1.18 =hf37c103_10
-    - aws-crt-cpp =0.28.2 =h7419a63_2
+    - aws-crt-cpp =0.28.2 =hf91b6fe_3
     - aws-sdk-cpp =1.11.379 =h569b7bb_8
     - azure-core-cpp =1.13.0 =hf8dbe3c_0
     - azure-identity-cpp =1.8.0 =h60298e3_2
@@ -117,7 +117,7 @@ requirements:
     - entrypoints =0.4 =pyhd8ed1ab_0
     - executing =2.1.0 =pyhd8ed1ab_0
     - expat =2.6.3 =hac325c4_0
-    - filelock =3.15.4 =pyhd8ed1ab_0
+    - filelock =3.16.0 =pyhd8ed1ab_0
     - flask =3.0.3 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -268,7 +268,7 @@ requirements:
     - mlflow =1.27.0 =py38hf6bc2c6_0
     - mlxtend =0.23.1 =pyhd8ed1ab_0
     - mpc =1.3.1 =h9d8efa1_1
-    - mpfr =4.2.1 =hc80595b_2
+    - mpfr =4.2.1 =haed47dc_3
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
@@ -301,7 +301,7 @@ requirements:
     - pillow =10.4.0 =py38hf802781_0
     - pip =24.2 =pyh8b19718_1
     - pixman =0.43.4 =h73e2aa4_0
-    - platformdirs =4.2.2 =pyhd8ed1ab_0
+    - platformdirs =4.3.2 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_2
     - pooch =1.8.2 =pyhd8ed1ab_0
     - preshed =3.0.9 =py38h940360d_1

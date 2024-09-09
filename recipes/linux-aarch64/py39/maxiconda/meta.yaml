@@ -40,7 +40,7 @@ requirements:
     - openpyxl =3.1.5 =py39h017ddd6_1
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.2.2 =py39h60c7704_1
-    - psutil =6.0.0 =py39he257ee7_0
+    - psutil =6.0.0 =py39h060674a_1
     - pydantic =2.8.2 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py39hc7e6f3c_5
     - pyserial =3.5 =pyhd8ed1ab_0
@@ -250,8 +250,8 @@ requirements:
     - matplotlib-base =3.9.1 =py39hf3ba65a_2
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mistune =3.0.2 =pyhd8ed1ab_0
-    - mpc =1.3.1 =h5fd8e47_0
-    - mpfr =4.2.1 =ha2d0fc4_1
+    - mpc =1.3.1 =h783934e_1
+    - mpfr =4.2.1 =h2305555_3
     - mpg123 =1.32.6 =h2f0025b_0
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - multidict =6.0.5 =py39h060674a_1
@@ -283,7 +283,7 @@ requirements:
     - pixman =0.43.4 =h2f0025b_0
     - pkginfo =1.11.1 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
-    - platformdirs =4.2.2 =pyhd8ed1ab_0
+    - platformdirs =4.3.2 =pyhd8ed1ab_0
     - pluggy =1.5.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_2
     - progressbar2 =4.5.0 =pyhd8ed1ab_0
@@ -414,7 +414,7 @@ requirements:
     - r-numderiv =2016.8_1.1 =r44hc72bb7e_6
     - r-openssl =2.2.1 =r44h21ca366_0
     - r-parallelly =1.38.0 =r44hc1cf72c_0
-    - r-pbdzmq =0.3_11 =r44hf5c2610_1
+    - r-pbdzmq =0.3_12 =r44h96295fe_0
     - r-pillar =1.9.0 =r44hc72bb7e_2
     - r-pkgconfig =2.0.3 =r44hc72bb7e_4
     - r-plyr =1.8.9 =r44h6170684_1
@@ -556,7 +556,7 @@ requirements:
     - xorg-xproto =7.0.31 =h3557bc0_1007
     - xz =5.2.6 =h9cdd2b7_0
     - yaml =0.2.5 =hf897c2e_2
-    - yarl =1.9.11 =py39h060674a_0
+    - yarl =1.10.0 =py39h060674a_0
     - zeromq =4.3.5 =h8046b5e_5
     - zipp =3.20.1 =pyhd8ed1ab_0
     - zlib =1.3.1 =h68df207_1
