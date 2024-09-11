@@ -73,7 +73,7 @@ requirements:
     - glib-tools =2.80.2 =h2f9d560_0
     - glm =0.9.9.8 =h181d51b_0
     - graphite2 =1.3.13 =h63175ca_1003
-    - greenlet =3.0.3 =py39h99910a6_0
+    - greenlet =3.1.0 =py39ha51f57c_0
     - griddataformats =1.0.2 =pyhd8ed1ab_0
     - gsd =3.3.2 =py39h4b0a98a_0
     - gst-plugins-base =1.24.5 =hb0a98b8_0
@@ -144,7 +144,7 @@ requirements:
     - mkl =2024.1.0 =h66d3029_694
     - mmtf-python =1.1.3 =pyhd8ed1ab_0
     - mrcfile =1.5.3 =pyhd8ed1ab_0
-    - msgpack-python =1.0.8 =py39h2b77a98_1
+    - msgpack-python =1.1.0 =py39h2b77a98_0
     - msys2-conda-epoch =20160418 =1
     - munkres =1.1.4 =pyh9f0ad1d_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
@@ -207,9 +207,9 @@ requirements:
     - tzdata =2024a =h8827d51_1
     - ucrt =10.0.22621.0 =h57928b3_0
     - unicodedata2 =15.1.0 =py39ha55989b_0
-    - vc =14.3 =h8a93ad2_20
-    - vc14_runtime =14.40.33810 =hcc2c482_20
-    - vs2015_runtime =14.40.33810 =h3bf8584_20
+    - vc =14.3 =h8a93ad2_21
+    - vc14_runtime =14.40.33810 =ha82c5b3_21
+    - vs2015_runtime =14.40.33810 =h3bf8584_21
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - wheel =0.44.0 =pyhd8ed1ab_0
     - xorg-libxau =1.0.11 =hcd874cb_0

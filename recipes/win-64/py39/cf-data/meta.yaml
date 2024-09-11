@@ -58,19 +58,19 @@ requirements:
     - async-timeout =4.0.3 =pyhd8ed1ab_0
     - attrs =24.2.0 =pyh71513ae_0
     - automat =24.8.1 =pyhd8ed1ab_0
-    - aws-c-auth =0.7.29 =h5dd0cea_0
-    - aws-c-cal =0.7.4 =ha1e9ad3_0
-    - aws-c-common =0.9.27 =h2466b09_0
-    - aws-c-compression =0.2.19 =ha1e9ad3_0
-    - aws-c-event-stream =0.4.3 =hf2a634e_0
-    - aws-c-http =0.8.8 =h8ce653d_1
-    - aws-c-io =0.14.18 =hf17f6a9_8
-    - aws-c-mqtt =0.10.4 =hc4c7fd1_18
-    - aws-c-s3 =0.6.5 =h7c1087a_1
-    - aws-c-sdkutils =0.1.19 =ha1e9ad3_2
-    - aws-checksums =0.1.18 =ha1e9ad3_10
-    - aws-crt-cpp =0.28.2 =h3df387f_3
-    - aws-sdk-cpp =1.11.379 =ha8aa73b_8
+    - aws-c-auth =0.7.29 =hf1f9119_1
+    - aws-c-cal =0.7.4 =hf1fc857_1
+    - aws-c-common =0.9.28 =h2466b09_0
+    - aws-c-compression =0.2.19 =hf1fc857_1
+    - aws-c-event-stream =0.4.3 =hb6a8f00_1
+    - aws-c-http =0.8.8 =heca9ddf_2
+    - aws-c-io =0.14.18 =h3831a8d_9
+    - aws-c-mqtt =0.10.4 =h4d6445f_19
+    - aws-c-s3 =0.6.5 =h184cd82_2
+    - aws-c-sdkutils =0.1.19 =hf1fc857_3
+    - aws-checksums =0.1.18 =hf1fc857_11
+    - aws-crt-cpp =0.28.2 =hcae1b89_4
+    - aws-sdk-cpp =1.11.379 =h76bae87_9
     - bcrypt =4.2.0 =py39h92a245a_1
     - blinker =1.8.2 =pyhd8ed1ab_0
     - bottleneck =1.4.0 =py39h4b0a98a_2
@@ -145,7 +145,7 @@ requirements:
     - graphql-core =3.2.4 =pyhd8ed1ab_0
     - graphql-relay =3.2.0 =pyhd8ed1ab_0
     - graphviz =11.0.0 =h09e431a_0
-    - greenlet =3.0.3 =py39h99910a6_0
+    - greenlet =3.1.0 =py39ha51f57c_0
     - gst-plugins-base =1.24.5 =hb0a98b8_0
     - gstreamer =1.24.5 =h5006eae_0
     - gts =0.7.6 =h6b5321d_4
@@ -258,7 +258,7 @@ requirements:
     - mlflow-ui =2.16.0 =py39hcbf5309_0
     - mlxtend =0.23.1 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
-    - multidict =6.0.5 =py39ha55e580_1
+    - multidict =6.1.0 =py39ha55e580_0
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.10 =py39h99910a6_1
@@ -387,10 +387,10 @@ requirements:
     - umap-learn =0.5.6 =py39hcbf5309_1
     - unicodedata2 =15.1.0 =py39ha55989b_0
     - urllib3 =2.2.2 =pyhd8ed1ab_1
-    - vc =14.3 =h8a93ad2_20
-    - vc14_runtime =14.40.33810 =hcc2c482_20
+    - vc =14.3 =h8a93ad2_21
+    - vc14_runtime =14.40.33810 =ha82c5b3_21
     - visions =0.7.1 =pyhd8ed1ab_0
-    - vs2015_runtime =14.40.33810 =h3bf8584_20
+    - vs2015_runtime =14.40.33810 =h3bf8584_21
     - w3lib =2.2.1 =pyhd8ed1ab_0
     - waitress =2.1.2 =pyhd8ed1ab_0
     - wasabi =1.1.2 =py39hcbf5309_1
@@ -417,7 +417,7 @@ requirements:
     - xyzservices =2024.9.0 =pyhd8ed1ab_0
     - xz =5.2.6 =h8d14728_0
     - yaml =0.2.5 =h8ffe710_2
-    - yarl =1.11.0 =py39ha55e580_0
+    - yarl =1.11.1 =py39ha55e580_0
     - yellowbrick =1.5 =pyhd8ed1ab_0
     - zeromq =4.3.5 =he1f189c_5
     - zipp =3.20.1 =pyhd8ed1ab_0
