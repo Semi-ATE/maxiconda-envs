@@ -101,7 +101,7 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_0
     - compiler-rt =18.1.8 =h1020d70_1
     - compiler-rt_osx-64 =18.1.8 =hf2b8a54_1
-    - curl =8.9.1 =hcd6fca1_0
+    - curl =8.10.0 =h58e7537_0
     - cycler =0.11.0 =pyhd8ed1ab_0
     - debugpy =1.6.3 =py37hf6dfe07_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -159,7 +159,7 @@ requirements:
     - libclang-cpp15 =15.0.7 =default_h7151d67_5
     - libclang-cpp18.1 =18.1.8 =default_h0c94c6a_4
     - libclang13 =18.1.8 =default_h9ff962c_4
-    - libcurl =8.9.1 =hfcf2730_0
+    - libcurl =8.10.0 =h58e7537_0
     - libcxx =18.1.8 =hd876a4e_7
     - libcxx-devel =18.1.8 =h7c275be_7
     - libdeflate =1.20 =h49d49c5_0
@@ -251,7 +251,7 @@ requirements:
     - python-fastjsonschema =2.20.0 =pyhd8ed1ab_0
     - python-utils =3.6.0 =pyhd8ed1ab_0
     - python_abi =3.7 =4_cp37m
-    - pytz =2024.1 =pyhd8ed1ab_0
+    - pytz =2024.2 =pyhd8ed1ab_0
     - pyzmq =24.0.1 =py37haa7bc41_0
     - qt-main =5.15.8 =he8879f6_23
     - qtpy =2.4.1 =pyhd8ed1ab_0
@@ -375,7 +375,7 @@ requirements:
     - r-purrr =1.0.2 =r44h6b9d099_1
     - r-quantmod =0.4.26 =r44hc72bb7e_1
     - r-r6 =2.5.1 =r44hc72bb7e_3
-    - r-ragg =1.3.2 =r44h3309713_1
+    - r-ragg =1.3.3 =r44h3c7d252_0
     - r-randomforest =4.7_1.1 =r44h9612530_3
     - r-rappdirs =0.3.3 =r44h6b9d099_3
     - r-rbokeh =0.5.2 =r44hc72bb7e_4

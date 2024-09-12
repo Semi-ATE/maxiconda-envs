@@ -81,7 +81,7 @@ requirements:
     - glib-tools =2.80.2 =hb6ce0ca_0
     - glm =0.9.9.8 =h00ab1b0_0
     - graphite2 =1.3.13 =h59595ed_1003
-    - greenlet =3.1.0 =py39hf88036b_0
+    - greenlet =3.1.0 =py39hf88036b_1
     - griddataformats =1.0.2 =pyhd8ed1ab_0
     - gsd =3.3.2 =py39hf3d9206_0
     - gst-plugins-base =1.24.5 =hbaaba92_0
@@ -90,9 +90,9 @@ requirements:
     - hdf4 =4.2.15 =h2a13503_7
     - hdf5 =1.14.3 =nompi_hdf9ad27_105
     - icu =73.2 =h59595ed_0
-    - importlib-metadata =8.4.0 =pyha770c72_0
+    - importlib-metadata =8.5.0 =pyha770c72_0
     - importlib-resources =6.4.5 =pyhd8ed1ab_0
-    - importlib_metadata =8.4.0 =hd8ed1ab_0
+    - importlib_metadata =8.5.0 =hd8ed1ab_0
     - importlib_resources =6.4.5 =pyhd8ed1ab_0
     - ipykernel =6.29.5 =pyh3099207_0
     - ipython =8.18.1 =pyh707e725_3
@@ -122,7 +122,7 @@ requirements:
     - libclang-cpp18.1 =18.1.8 =default_hf981a13_4
     - libclang13 =18.1.8 =default_h9def88c_4
     - libcups =2.3.3 =h4637d8d_4
-    - libcurl =8.9.1 =hdb1bdb2_0
+    - libcurl =8.10.0 =hbbe4b11_0
     - libdeflate =1.21 =h4bc722e_0
     - libdrm =2.4.123 =hb9d3cd8_0
     - libedit =3.1.20191231 =he28a2e2_2
@@ -200,7 +200,7 @@ requirements:
     - pcre2 =10.43 =hcad00b1_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =10.4.0 =py39h16a7006_0
+    - pillow =10.4.0 =py39h648eaa6_1
     - pip =24.2 =pyh8b19718_1
     - pixman =0.43.2 =h59595ed_0
     - platformdirs =4.3.2 =pyhd8ed1ab_0
@@ -220,7 +220,7 @@ requirements:
     - python-dateutil =2.9.0 =pyhd8ed1ab_0
     - python-tzdata =2024.1 =pyhd8ed1ab_0
     - python_abi =3.9 =5_cp39
-    - pytz =2024.1 =pyhd8ed1ab_0
+    - pytz =2024.2 =pyhd8ed1ab_0
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.2.0 =py39h4e4fb57_2
     - qhull =2020.2 =h434a139_5
@@ -229,14 +229,14 @@ requirements:
     - readline =8.2 =h8228510_1
     - reportlab =4.2.2 =py39hd3abc70_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
-    - scikit-learn =1.5.1 =py39hf7b0125_0
+    - scikit-learn =1.5.2 =py39h4b7350c_1
     - seaborn =0.13.2 =hd8ed1ab_2
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
     - setuptools =73.0.1 =pyhd8ed1ab_0
     - sip =6.7.12 =py39h3d6467e_0
     - six =1.16.0 =pyh6c4a22f_0
     - snappy =1.2.1 =ha2e4443_0
-    - sqlalchemy =2.0.34 =py39h8cd3c5a_0
+    - sqlalchemy =2.0.34 =py39h8cd3c5a_1
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - statsmodels =0.14.2 =py39hd92a3bb_0
     - threadpoolctl =3.5.0 =pyhc1e730c_0

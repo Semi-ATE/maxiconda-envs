@@ -35,12 +35,12 @@ requirements:
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =3.0.1 =py39hcbf5309_0
     - pyqt =5.15.9 =py39hb77abff_5
-    - scikit-learn =1.5.1 =py39hdd013cc_0
+    - scikit-learn =1.5.2 =py39hdd013cc_1
     - scipy =1.13.1 =py39h1a10956_0
     - scrapy =2.11.2 =py39hcbf5309_0
     - seaborn =0.13.2 =hd8ed1ab_2
     - spyder-kernels =3.0.0 =win_pyh7428d3b_0
-    - sqlalchemy =2.0.34 =py39ha55e580_0
+    - sqlalchemy =2.0.34 =py39ha55e580_1
     - sqlite =3.46.1 =h2466b09_0
     - statsmodels =0.14.2 =py39h4b0a98a_0
     - xgboost =2.1.1 =cpu_pyhb8f9a19_2
@@ -48,7 +48,7 @@ requirements:
     # 379 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - aiohappyeyeballs =2.4.0 =pyhd8ed1ab_0
-    - aiohttp =3.10.5 =py39ha55e580_0
+    - aiohttp =3.10.5 =py39ha55e580_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - alembic =1.13.2 =pyhd8ed1ab_0
     - aniso8601 =9.0.1 =pyhd8ed1ab_0
@@ -104,7 +104,7 @@ requirements:
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cymem =2.0.8 =py39h99910a6_1
     - cython-blis =0.7.10 =py39hd88c2e4_2
-    - databricks-sdk =0.32.0 =pyhd8ed1ab_0
+    - databricks-sdk =0.32.1 =pyhd8ed1ab_0
     - datefinder =0.7.3 =pyhd8ed1ab_0
     - debugpy =1.8.5 =py39ha51f57c_1
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -145,7 +145,7 @@ requirements:
     - graphql-core =3.2.4 =pyhd8ed1ab_0
     - graphql-relay =3.2.0 =pyhd8ed1ab_0
     - graphviz =11.0.0 =h09e431a_0
-    - greenlet =3.1.0 =py39ha51f57c_0
+    - greenlet =3.1.0 =py39ha51f57c_1
     - gst-plugins-base =1.24.5 =hb0a98b8_0
     - gstreamer =1.24.5 =h5006eae_0
     - gts =0.7.6 =h6b5321d_4
@@ -159,9 +159,9 @@ requirements:
     - idna =3.8 =pyhd8ed1ab_0
     - imagehash =4.3.1 =pyhd8ed1ab_0
     - imbalanced-learn =0.12.3 =pyhd8ed1ab_0
-    - importlib-metadata =8.4.0 =pyha770c72_0
+    - importlib-metadata =8.5.0 =pyha770c72_0
     - importlib-resources =6.4.5 =pyhd8ed1ab_0
-    - importlib_metadata =8.4.0 =hd8ed1ab_0
+    - importlib_metadata =8.5.0 =hd8ed1ab_0
     - importlib_resources =6.4.5 =pyhd8ed1ab_0
     - incremental =24.7.2 =pyhd8ed1ab_0
     - intel-openmp =2024.2.1 =h57928b3_1083
@@ -199,7 +199,7 @@ requirements:
     - libcblas =3.9.0 =23_win64_mkl
     - libclang13 =18.1.8 =default_ha5278ca_4
     - libcrc32c =1.1.2 =h0e60522_0
-    - libcurl =8.9.1 =h18fefc2_0
+    - libcurl =8.10.0 =h1ee3ff0_0
     - libdeflate =1.21 =h2466b09_0
     - libevent =2.1.12 =h3671451_1
     - libexpat =2.6.3 =he0c23c2_0
@@ -283,7 +283,7 @@ requirements:
     - pcre2 =10.43 =h17e33f8_0
     - phik =0.12.3 =py39h0f24028_1
     - pickleshare =0.7.5 =py39hde42818_1002
-    - pillow =10.4.0 =py39hfa8c767_0
+    - pillow =10.4.0 =py39hfa8c767_1
     - pip =24.2 =pyh8b19718_1
     - pixman =0.43.4 =h63175ca_0
     - platformdirs =4.3.2 =pyhd8ed1ab_0
@@ -301,8 +301,8 @@ requirements:
     - py-xgboost =2.1.1 =cpu_pyhb442362_2
     - pyarrow =17.0.0 =py39hcb5f9c0_1
     - pyarrow-core =17.0.0 =py39h7a8928a_1_cpu
-    - pyasn1 =0.6.0 =pyhd8ed1ab_0
-    - pyasn1-modules =0.4.0 =pyhd8ed1ab_0
+    - pyasn1 =0.6.1 =pyhd8ed1ab_0
+    - pyasn1-modules =0.4.1 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.22 =pyhd8ed1ab_0
     - pydantic =2.9.1 =pyhd8ed1ab_0
@@ -324,7 +324,7 @@ requirements:
     - python-graphviz =0.20.3 =pyh717bed2_0
     - python-tzdata =2024.1 =pyhd8ed1ab_0
     - python_abi =3.9 =5_cp39
-    - pytz =2024.1 =pyhd8ed1ab_0
+    - pytz =2024.2 =pyhd8ed1ab_0
     - pyu2f =0.1.5 =pyhd8ed1ab_0
     - pywavelets =1.6.0 =py39h4b0a98a_0
     - pywin32 =306 =py39h99910a6_2
@@ -337,11 +337,11 @@ requirements:
     - querystring_parser =1.2.4 =pyhd8ed1ab_1
     - queuelib =1.7.0 =pyhd8ed1ab_1
     - re2 =2023.09.01 =hd3b24a8_2
-    - regex =2024.7.24 =py39ha55e580_1
+    - regex =2024.9.11 =py39ha55e580_0
     - requests =2.32.3 =pyhd8ed1ab_0
     - requests-file =2.1.0 =pyhd8ed1ab_0
     - retrying =1.3.3 =pyhd8ed1ab_3
-    - rich =13.7.1 =pyhd8ed1ab_0
+    - rich =13.8.1 =pyhd8ed1ab_0
     - rsa =4.9 =pyhd8ed1ab_0
     - seaborn-base =0.13.2 =pyhd8ed1ab_2
     - service-identity =24.1.0 =pyha770c72_0
@@ -417,7 +417,7 @@ requirements:
     - xyzservices =2024.9.0 =pyhd8ed1ab_0
     - xz =5.2.6 =h8d14728_0
     - yaml =0.2.5 =h8ffe710_2
-    - yarl =1.11.1 =py39ha55e580_0
+    - yarl =1.9.4 =py39ha55e580_1
     - yellowbrick =1.5 =pyhd8ed1ab_0
     - zeromq =4.3.5 =he1f189c_5
     - zipp =3.20.1 =pyhd8ed1ab_0
