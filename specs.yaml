@@ -9,12 +9,12 @@ matrix:
     win-64_py312: ['_spyder_', 'maxiconda']
     win-64_py313: ['_spyder_', 'maxiconda']
   linux-64:
-    linux-64_py37: ['_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+#    linux-64_py37: ['_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
     #linux-64_pypy37: ['maxiconda']
-    linux-64_py38: ['_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
-    linux-64_py39: ['_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
-    linux-64_py310: ['_spyder_', 'maxiconda']
-    linux-64_py311: ['_spyder_', 'maxiconda']
+#    linux-64_py38: ['_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+#    linux-64_py39: ['_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
+#    linux-64_py310: ['_spyder_', 'maxiconda']
+#    linux-64_py311: ['_spyder_', 'maxiconda']
     linux-64_py312: ['_spyder_', 'maxiconda']
     linux-64_py313: ['_spyder_', 'maxiconda']
   linux-aarch64:
