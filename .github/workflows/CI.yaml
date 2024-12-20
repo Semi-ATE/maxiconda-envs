@@ -34,7 +34,7 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Install mamba & environment
-      uses: mamba-org/provision-with-micromamba@v16
+      uses: mamba-org/setup-micromamba@v2.0.3
 
     - name: Solve and test-build meta-packages
       shell: bash -l {0}
