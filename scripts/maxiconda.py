@@ -194,7 +194,7 @@ class Maxiconda:
         if feedback is None:
             all_packages = {}
             if not "actions" in data:
-                print(data["solver_problems"][0])
+                raise Exception(f"Solver problem : {data["solver_problems"][0]}")
             else:
                 for element in data["actions"]["LINK"]:
                     all_packages[element["name"]] = {

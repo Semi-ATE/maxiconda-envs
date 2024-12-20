@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: 0 0 * * *
   workflow_dispatch:
+  pull_request:
+    branches: [main]
 
 jobs:
   solve_and_build:
@@ -37,10 +39,6 @@ jobs:
       uses: mamba-org/setup-micromamba@v2.0.3
       with:
         environment-file: environment.yml
-
-    - name: Import requests in micromamba environment (bash)
-      run: python -c "import requests"
-      shell: bash -el {0}
 
     - name: Solve and test-build meta-packages
       shell: bash -l {0}
