@@ -16,7 +16,7 @@ matrix:
 #    linux-64_py310: ['_spyder_', 'maxiconda']
 #    linux-64_py311: ['_spyder_', 'maxiconda']
     linux-64_py312: ['_spyder_', 'maxiconda']
-    linux-64_py313: ['_spyder_', 'maxiconda']
+    linux-64_py313: ['maxiconda']
   linux-aarch64:
     linux-aarch64_py37: ['_spyder_', 'maxiconda', 'cf-web', 'cf-eng', 'cf-bio', 'cf-astro']
     #linux-aarch64_pypy37: ['maxiconda']
