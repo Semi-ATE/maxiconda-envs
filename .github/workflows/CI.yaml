@@ -74,6 +74,8 @@ jobs:
 
     - name: Install micormamba & environment
       uses: mamba-org/setup-micromamba@v2.0.3
+      with:
+        environment-file: environment.yml
 
     - name: Download *ALL* Build Artifacts
       uses: actions/download-artifact@v4
