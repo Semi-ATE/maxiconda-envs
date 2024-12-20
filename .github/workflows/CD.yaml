@@ -3,6 +3,8 @@ name: CD
 on:
   release:
     types: [created]
+  pull_request:
+    branches: [main]
 
 jobs:
   build:
@@ -31,10 +33,12 @@ jobs:
     steps:
 
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
-    - name: Install mamba & environment
-      uses: mamba-org/provision-with-micromamba@v14
+    - name: Install micromamba & environment
+      uses: mamba-org/setup-micromamba@v2.0.3
+      with:
+        environment-file: environment.yml
 
     - name: build meta-packages
       shell: bash -l {0}
@@ -48,7 +52,7 @@ jobs:
         python -u ../scripts/maxiconda.py --build $SUBDIR
 
     - name: Upload meta-packages to artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: ${{ matrix.SUBDIR }}_packages
         path: build/
@@ -59,13 +63,15 @@ jobs:
     steps:
 
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
-    - name: Install mamba & environment
-      uses: mamba-org/provision-with-micromamba@v14
+    - name: Install micormamba & environment
+      uses: mamba-org/setup-micromamba@v2.0.3
+      with:
+        environment-file: environment.yml
 
     - name: Download meta-packages from artifacts
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4
 
     - name: Move packages into place
       shell: bash -l {0}
