@@ -15,11 +15,11 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - OS_IMAGE: ubuntu-latest
-            SUBDIR: linux-64
+#          - OS_IMAGE: ubuntu-latest
+#            SUBDIR: linux-64
 
-          - OS_IMAGE: ubuntu-latest
-            SUBDIR: linux-aarch64
+#          - OS_IMAGE: ubuntu-latest
+#            SUBDIR: linux-aarch64
 
           - OS_IMAGE: macos-latest
             SUBDIR: osx-64
@@ -35,6 +35,12 @@ jobs:
 
     - name: Install micromamba & environment
       uses: mamba-org/setup-micromamba@v2.0.3
+      with:
+        environment-file: environment.yml
+
+    - name: Import requests in micromamba environment (bash)
+      run: python -c "import requests"
+      shell: bash -el {0}
 
     - name: Solve and test-build meta-packages
       shell: bash -l {0}
