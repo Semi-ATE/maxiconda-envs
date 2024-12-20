@@ -15,11 +15,11 @@ jobs:
       fail-fast: false
       matrix:
         include:
-#          - OS_IMAGE: ubuntu-latest
-#            SUBDIR: linux-64
+          - OS_IMAGE: ubuntu-latest
+            SUBDIR: linux-64
 
-#          - OS_IMAGE: ubuntu-latest
-#            SUBDIR: linux-aarch64
+          - OS_IMAGE: ubuntu-latest
+            SUBDIR: linux-aarch64
 
           - OS_IMAGE: macos-latest
             SUBDIR: osx-64
