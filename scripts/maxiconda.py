@@ -193,12 +193,14 @@ class Maxiconda:
 
         if feedback is None:
             all_packages = {}
-            print(data)
-            for element in data["actions"]["LINK"]:
-                all_packages[element["name"]] = {
-                    "version": element["version"],
-                    "build_string": element["build_string"],
-                }
+            if not "actions" in data:
+                print(data["solver_problems"][0])
+            else:
+                for element in data["actions"]["LINK"]:
+                    all_packages[element["name"]] = {
+                        "version": element["version"],
+                        "build_string": element["build_string"],
+                    }
 
             PYPY = None
             primary_packages = {}
