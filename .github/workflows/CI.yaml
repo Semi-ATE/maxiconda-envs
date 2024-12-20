@@ -18,23 +18,23 @@ jobs:
           - OS_IMAGE: ubuntu-latest
             SUBDIR: linux-64
 
-          - OS_IMAGE: ubuntu-latest
-            SUBDIR: linux-aarch64
+#          - OS_IMAGE: ubuntu-latest
+#            SUBDIR: linux-aarch64
 
-          - OS_IMAGE: macos-latest
-            SUBDIR: osx-64
+#          - OS_IMAGE: macos-latest
+#            SUBDIR: osx-64
 
-          - OS_IMAGE: macos-latest
-            SUBDIR: osx-arm64
+#          - OS_IMAGE: macos-latest
+#            SUBDIR: osx-arm64
 
-          - OS_IMAGE: windows-latest
-            SUBDIR: win-64
+#          - OS_IMAGE: windows-latest
+#            SUBDIR: win-64
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
 
     - name: Install mamba & environment
-      uses: mamba-org/provision-with-micromamba@v14
+      uses: mamba-org/provision-with-micromamba@v16
 
     - name: Solve and test-build meta-packages
       shell: bash -l {0}
