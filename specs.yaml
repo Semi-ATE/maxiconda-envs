@@ -45,6 +45,7 @@ environments:
     #- spyder-terminal
     #- spyder-screencast
     #- spyder-remote-client
+    - menuinst
     - cython
     - matplotlib
     - numpy
