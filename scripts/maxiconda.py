@@ -6,7 +6,8 @@ import os
 import requests
 import json
 import bz2
-#import networkx as nx
+
+# import networkx as nx
 import yaml
 import time
 import datetime
@@ -18,15 +19,16 @@ import jinja2
 import tarfile
 import argparse
 
-supported_subdirs = ['linux-64', 'linux-aarch64', 'win-64', 'osx-64', 'osx-arm64']
+supported_subdirs = ["linux-64", "linux-aarch64", "win-64", "osx-64", "osx-arm64"]
+
 
 class Maxiconda:
 
     def __init__(self, subdir):
-        self.saved_subdir = os.getenv('CONDA_SUBDIR', None)
+        self.saved_subdir = os.getenv("CONDA_SUBDIR", None)
         self.subdir = subdir
-        os.environ['CONDA_SUBDIR'] = subdir
-        self.build_version = os.getenv('MAXICONDA_ENV_RELEASE', "0.0.0")
+        os.environ["CONDA_SUBDIR"] = subdir
+        self.build_version = os.getenv("MAXICONDA_ENV_RELEASE", "0.0.0")
 
         print(f"Initializing : {subdir} (v{self.build_version}) .", end="", flush=True)
 
@@ -43,18 +45,20 @@ class Maxiconda:
         with open(self.specs_fpath) as fd:
             self.specs = yaml.load(fd, Loader=yaml.FullLoader)
         self.targets = {}
-        for target in self.specs['matrix'][self.subdir]:
+        for target in self.specs["matrix"][self.subdir]:
             subdir, PY = target.split("_")
             if subdir != self.subdir:
-                raise ValueError(f"Target '{target}' under 'matrix/{self.subdir}' doesn't start with '{self.subdir}'")
-            self.targets[PY] = self.specs['matrix'][self.subdir][target]
+                raise ValueError(
+                    f"Target '{target}' under 'matrix/{self.subdir}' doesn't start with '{self.subdir}'"
+                )
+            self.targets[PY] = self.specs["matrix"][self.subdir][target]
         self.environments = {}
-        for environment in self.specs['environments']:
-            self.environments[environment] = self.specs['environments'][environment]
+        for environment in self.specs["environments"]:
+            self.environments[environment] = self.specs["environments"][environment]
         print(".", end="", flush=True)
 
-        self.get_conda_packages_from('conda-forge', subdir)
-        
+        self.get_conda_packages_from("conda-forge", subdir)
+
         print(" Done.")
 
     def __del__(self):
@@ -65,23 +69,23 @@ class Maxiconda:
 
     def log(self, PY, environment, message, prefix=None):
         if not prefix is None:
-            print(f"{prefix}{message}") 
+            print(f"{prefix}{message}")
         else:
             print(f"{message}")
-            
-#        logfile = os.path.join(self.repo_root, "recipes", self.subdir, PY, environment, "meta.log")
-#        print(f"{os.path.dirname(logfile)} exists = {os.path.isdir(os.path.dirname(logfile))}")
-#        os.makedirs(os.path.dirname(logfile), exist_ok=True)
-#        print(f"{os.path.dirname(logfile)} exists = {os.path.isdir(os.path.dirname(logfile))}")
-#        
-#        with open(logfile, "a") as fd:
-#            fd.write(f"{datetime.datetime.now().strftime('%Y/%m/%d@%H:%M:%S')} >> {message.strip()}\n")
+
+    #        logfile = os.path.join(self.repo_root, "recipes", self.subdir, PY, environment, "meta.log")
+    #        print(f"{os.path.dirname(logfile)} exists = {os.path.isdir(os.path.dirname(logfile))}")
+    #        os.makedirs(os.path.dirname(logfile), exist_ok=True)
+    #        print(f"{os.path.dirname(logfile)} exists = {os.path.isdir(os.path.dirname(logfile))}")
+    #
+    #        with open(logfile, "a") as fd:
+    #            fd.write(f"{datetime.datetime.now().strftime('%Y/%m/%d@%H:%M:%S')} >> {message.strip()}\n")
 
     def get_platform_subdir(self):
-        
+
         if not sys.maxsize > 2**32:
             raise Exception("only 64 bit platforms are supported.")
-        
+
         CPU = platform.machine()
         OS = platform.system()
         if OS == "Linux":
@@ -105,7 +109,7 @@ class Maxiconda:
                 raise Exception(f"'{CPU}' not supported in MacOS")
         else:
             raise Exception("'{OS}' not supported.")
-            
+
         return retval
 
     def get_conda_packages_from(self, channel, subdir):
@@ -113,22 +117,26 @@ class Maxiconda:
             request = requests.get(url)
             if request.status_code == 200:
                 data_json_bz2 = request.content
-                data_json = bz2.decompress(data_json_bz2) 
+                data_json = bz2.decompress(data_json_bz2)
                 data = json.loads(data_json)["packages"]
             else:
                 data = {}
-            return data  
+            return data
 
         # self.graph = nx.Graph()
         self.packages = {}
-        self.packages['noarch'] = get_repo_data(f"https://conda.anaconda.org/{channel}/noarch/repodata.json.bz2")
+        self.packages["noarch"] = get_repo_data(
+            f"https://conda.anaconda.org/{channel}/noarch/repodata.json.bz2"
+        )
         print(".", end="", flush=True)
-        self.packages['arch'] = get_repo_data(f"https://conda.anaconda.org/{channel}/{subdir}/repodata.json.bz2")
+        self.packages["arch"] = get_repo_data(
+            f"https://conda.anaconda.org/{channel}/{subdir}/repodata.json.bz2"
+        )
         print(".", end="", flush=True)
         self.available_packages = []
         for arch in self.packages:
             for package in self.packages[arch]:
-                package_name = self.packages[arch][package]['name']
+                package_name = self.packages[arch][package]["name"]
                 if package_name not in self.available_packages:
                     self.available_packages.append(package_name)
         print(".", end="", flush=True)
@@ -141,7 +149,6 @@ class Maxiconda:
         #         for dependency in package_depends:
         #             self.graph.add_edge(package_name, dependency)
 
-
     def solve(self, PY, environment):
 
         recipe_path = os.path.join(self.recipe_root, self.subdir, PY, environment)
@@ -149,31 +156,52 @@ class Maxiconda:
             os.makedirs(recipe_path)
         recipe_fpath = os.path.join(recipe_path, "meta.yaml")
         made_logging = False
-        
+
         print(f"Solving : {self.subdir}/{PY}/{environment}")
         cleaned_primary_packages = self.environments[environment]
         print(f"  Primary packages : {cleaned_primary_packages}")
         for package in cleaned_primary_packages:
             if package not in self.available_packages:
                 cleaned_primary_packages.remove(package)
-                self.log(PY, environment, f"Removing primary package : '{package}' (does not exist for {self.subdir}/{PY})", "  ")
+                self.log(
+                    PY,
+                    environment,
+                    f"Removing primary package : '{package}' (does not exist for {self.subdir}/{PY})",
+                    "  ",
+                )
                 made_logging = True
             if package.startswith("python"):
                 cleaned_primary_packages.remove(package)
-                self.log(PY, environment, f"Removing primary package : '{package}' (python can't be a primary package)", "  ")
+                self.log(
+                    PY,
+                    environment,
+                    f"Removing primary package : '{package}' (python can't be a primary package)",
+                    "  ",
+                )
                 made_logging = True
             if package.startswith("pypy"):
                 cleaned_primary_packages.remove(package)
-                self.log(PY, environment, f"Removing primary package : '{package}' (pypy can't be a primary package)", " ")
+                self.log(
+                    PY,
+                    environment,
+                    f"Removing primary package : '{package}' (pypy can't be a primary package)",
+                    " ",
+                )
                 made_logging = True
-        
+
         data, feedback = self._run_solver(PY, environment, cleaned_primary_packages)
-        
+
         if feedback is None:
             all_packages = {}
-            for element in data['actions']['LINK']:
-                all_packages[element['name']] = {"version": element['version'], "build_string": element['build_string']}
-            
+            if not "actions" in data:
+                raise Exception(f"Solver problem : {data['solver_problems'][0]}")
+            else:
+                for element in data["actions"]["LINK"]:
+                    all_packages[element["name"]] = {
+                        "version": element["version"],
+                        "build_string": element["build_string"],
+                    }
+
             PYPY = None
             primary_packages = {}
             secondary_packages = {}
@@ -188,20 +216,22 @@ class Maxiconda:
                     secondary_packages[package] = all_packages[package]
 
             print(f"  writing : '{recipe_fpath}' ... ", end="", flush=True)
-            
-            with open(recipe_fpath, 'w') as fh:
+
+            with open(recipe_fpath, "w") as fh:
                 fh.write("#\n# Copyright (c) Semi-ATE\n")
                 fh.write("# Distributed under the terms of the MIT License\n")
                 fh.write("#\n")
                 fh.write(f"# {self.subdir}/{PY}/{environment}\n")
                 fh.write("#\n\n")
-                fh.write('{% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}\n')
+                fh.write(
+                    '{% set version = os.environ.get("MAXICONDA_ENV_RELEASE", "0.0.0") %}\n'
+                )
                 fh.write("\n")
                 fh.write("package:\n")
                 fh.write(f"  name: {environment}\n")
                 fh.write("  version: {{ version }}\n")
                 fh.write("\n")
-                fh.write("source:\n") 
+                fh.write("source:\n")
                 fh.write("  path: .\n")
                 fh.write("\n")
                 fh.write("build:\n")
@@ -218,11 +248,15 @@ class Maxiconda:
                 fh.write("\n")
                 fh.write(f"    # {len(primary_packages)} primary packages :\n")
                 for primary_package in sorted(primary_packages):
-                    fh.write(f"    - {primary_package} ={primary_packages[primary_package]['version']} ={primary_packages[primary_package]['build_string']}\n")
+                    fh.write(
+                        f"    - {primary_package} ={primary_packages[primary_package]['version']} ={primary_packages[primary_package]['build_string']}\n"
+                    )
                 fh.write("\n")
                 fh.write(f"    # {len(secondary_packages)} secondary packages :\n")
                 for secondary_package in sorted(secondary_packages):
-                    fh.write(f"    - {secondary_package} ={secondary_packages[secondary_package]['version']} ={secondary_packages[secondary_package]['build_string']}\n")
+                    fh.write(
+                        f"    - {secondary_package} ={secondary_packages[secondary_package]['version']} ={secondary_packages[secondary_package]['build_string']}\n"
+                    )
                 fh.write("\nabout:\n")
                 fh.write("  home: https://github.com/Semi-ATE/maxiconda-envs\n")
                 fh.write("  license: MIT\n")
@@ -242,59 +276,84 @@ class Maxiconda:
         if not made_logging:
             log_fpath = os.path.join(recipe_path, "meta.log")
             if os.path.isfile(log_fpath):
-                print(f"  Removed un-necessary loggin : {log_fpath} ... ", end="", flush=True)
+                print(
+                    f"  Removed un-necessary loggin : {log_fpath} ... ",
+                    end="",
+                    flush=True,
+                )
                 os.remove(log_fpath)
                 print("Done.")
-                
+
         return retval
 
-    def _run_solver(self, PY, environment, packages, channels=['conda-forge', 'semi-ate']):
-        solver = "mamba"  # conda is much slower
-        
+    def _run_solver(
+        self, PY, environment, packages, channels=["conda-forge", "semi-ate"]
+    ):
+        solver = "micromamba"  # conda is much slower
+
         if PY.startswith("pypy"):
-            if not len(PY) == 6:
-                raise ValueError(f"'{PY}' should be exactly 6 characters long")
-            PY_IMP = f"pypy{PY[4]}.{PY[5]}"
+            PY_IMP = f"pypy{PY[4]}.{PY[5:]}"
         elif PY.startswith("py"):
-            if not len(PY) == 4:
-                raise ValueError(f"'{PY}' should be exactly 4 characters long")
-            PY_IMP = f"python={PY[2]}.{PY[3]}"
+            PY_IMP = f"python={PY[2]}.{PY[3:]}"
         else:
             raise ValueError(f"'{PY}' should start with 'py' or 'pypy'")
-        
-#        cmd = [solver, "create", "--name", "test_env", "--dry-run", "--json", "--yes", "--strict-channel-priority", PY_IMP] + packages
-        cmd = [solver, "create", "--name", "test_env", "--dry-run", "--json", "--yes", "--no-channel-priority", PY_IMP] + packages
+
+        #        cmd = [solver, "create", "--name", "test_env", "--dry-run", "--json", "--yes", "--strict-channel-priority", PY_IMP] + packages
+        cmd = [
+            solver,
+            "create",
+            "--name",
+            "test_env",
+            "--dry-run",
+            "--json",
+            "--yes",
+            "--no-channel-priority",
+            PY_IMP,
+        ] + packages
         for channel in channels:
             cmd.append("--channel")
             cmd.append(channel)
-                    
+
         p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         stdout, _ = p.communicate()
         data = {}
         if stdout.decode("utf-8").startswith("Encountered problems while solving"):
-            feedback = stdout.decode("utf-8").split(":")[1].strip().replace("-", "").strip()
+            feedback = (
+                stdout.decode("utf-8").split(":")[1].strip().replace("-", "").strip()
+            )
         else:
             try:
                 data = json.loads(stdout)
                 feedback = None
             except:
                 print(f">>> {' '.join(cmd)}")
-                feedback = stdout.decode("utf-8").replace('\n', '').split('-')[1].strip()
-                
+                feedback = (
+                    stdout.decode("utf-8").replace("\n", "").split("-")[1].strip()
+                )
+
         return data, feedback
 
-    def build(self, PY:str, environment:str) -> str:
+    def build(self, PY: str, environment: str) -> str:
         print(f"Building : {self.subdir}/{PY}/{environment}")
-        
-        recipe_fpath = os.path.join(self.recipe_root, self.subdir, PY, environment, "meta.yaml")
+
+        recipe_fpath = os.path.join(
+            self.recipe_root, self.subdir, PY, environment, "meta.yaml"
+        )
         if not os.path.exists(recipe_fpath):
-            self.log(PY, environment, f"'{recipe_fpath}' does not exist!", prefix="  Aborting : ")
+            self.log(
+                PY,
+                environment,
+                f"'{recipe_fpath}' does not exist!",
+                prefix="  Aborting : ",
+            )
             return ""
 
-        archive_name = os.path.join(self.build_root, f"{environment}-{self.build_version}-{PY}_0.tar.bz2") 
+        archive_name = os.path.join(
+            self.build_root, f"{environment}-{self.build_version}-{PY}_0.tar.bz2"
+        )
         if os.path.exists(archive_name):
             raise Exception(f"'{archive_name}' already exists")
-            
+
         print(f"  Analyzing : '{recipe_fpath}' ... ", end="", flush=True)
         OS, CPU = self.subdir.split("-")
         if CPU == "64":
@@ -345,7 +404,7 @@ class Maxiconda:
                 if line.startswith("maintainers:"):
                     deps = False
                     maintainers = True
-                if deps: 
+                if deps:
                     if line.startswith("- "):
                         DEPENDS.append(line[1:].strip())
                     if line.startswith("- numpy"):
@@ -357,30 +416,28 @@ class Maxiconda:
                         MAINTAINERS.append(line[1:].strip())
         BUILD_STRING = f"{BUILD_STRING}_{BUILD_NUMBER}"
         index = {
-            "arch" : CPU,
-            "build" : BUILD_STRING,
-            "build_number" : BUILD_NUMBER,
-            "depends" : DEPENDS,
+            "arch": CPU,
+            "build": BUILD_STRING,
+            "build_number": BUILD_NUMBER,
+            "depends": DEPENDS,
             "license": "MIT",
             "name": environment,
             "platform": OS,
             "subdir": self.subdir,
-            "timestamp": int(time.time()*1000),
-            "version": self.build_version
+            "timestamp": int(time.time() * 1000),
+            "version": self.build_version,
         }
 
         about = {
             "channels": [
                 "https://conda.anaconda.org/Semi-ATE",
-                "https://conda.anaconda.org/conda-forge"
-             ],
+                "https://conda.anaconda.org/conda-forge",
+            ],
             "conda_build_version": "3.21.4",
             "conda_private": False,
             "conda_version": "4.10.3",
             "dev_url": DEV_URL,
-            "env_vars": {
-                "CIO_TEST": "<not set>"
-            },
+            "env_vars": {"CIO_TEST": "<not set>"},
             "extra": {
                 "copy_test_source_files": True,
                 "final": True,
@@ -393,13 +450,10 @@ class Maxiconda:
             "license_file": LICENSE_FILE,
             "root_pkgs": DEPENDS,
             "summary": SUMMARY,
-            "tags": []
+            "tags": [],
         }
 
-        PATHS = {
-            "paths": [],
-            "paths_version": 1
-        }
+        PATHS = {"paths": [], "paths_version": 1}
 
         CONDA_BUILD_CONFIG = f"""c_compiler: gcc
 cpu_optimization_target: nocona
@@ -431,48 +485,68 @@ target_platform: {self.subdir}
         print("Done.")
 
         print(f"  Writing : '{archive_name}' ... ", end="", flush=True)
-        
+
         tmpdirname = tempfile.mkdtemp(f"{self.subdir}_{PY}", f"{environment}_")
-        
+
         licenses_directory = os.path.join(tmpdirname, "licenses")
         os.makedirs(licenses_directory, mode=0o777, exist_ok=True)
-        shutil.copyfile(self.license_fpath, os.path.join(tmpdirname, "licenses", "LICENSE0.txt"))
+        shutil.copyfile(
+            self.license_fpath, os.path.join(tmpdirname, "licenses", "LICENSE0.txt")
+        )
 
         recipe_directory = os.path.join(tmpdirname, "recipe")
         os.makedirs(recipe_directory, mode=0o777, exist_ok=True)
-        shutil.copyfile(recipe_fpath, os.path.join(tmpdirname, "recipe", "meta.yaml.template"))
+        shutil.copyfile(
+            recipe_fpath, os.path.join(tmpdirname, "recipe", "meta.yaml.template")
+        )
 
-        with open(os.path.join(tmpdirname, "recipe", "conda_build_config.yaml"), "w", encoding="utf-8") as file:
+        with open(
+            os.path.join(tmpdirname, "recipe", "conda_build_config.yaml"),
+            "w",
+            encoding="utf-8",
+        ) as file:
             file.write(CONDA_BUILD_CONFIG)
 
         file_loader = jinja2.FileSystemLoader(os.path.dirname(recipe_fpath))
         env = jinja2.Environment(loader=file_loader)
-        template = env.get_template('meta.yaml')
+        template = env.get_template("meta.yaml")
         env.globals.update(os=os)
-        output = '\n'.join(template.render().split('\n')[9:])
-        LOCATION = os.path.sep.join(os.path.dirname(recipe_fpath).split(os.path.sep)[-5:])
+        output = "\n".join(template.render().split("\n")[9:])
+        LOCATION = os.path.sep.join(
+            os.path.dirname(recipe_fpath).split(os.path.sep)[-5:]
+        )
         DATE = datetime.datetime.now().strftime("%A %B %d %Y @ %H:%M:%S")
         with open(os.path.join(tmpdirname, "recipe", "meta.yaml"), "w") as fd:
             fd.write("# This file is created by maxiconda-env/build\n")
-            fd.write(f"# meta.yaml template originally from 'https://github.com/Semi-ATE/{LOCATION}'\n")
+            fd.write(
+                f"# meta.yaml template originally from 'https://github.com/Semi-ATE/{LOCATION}'\n"
+            )
             fd.write(f"# Created on {DATE}\n")
             fd.write("# ------------------------------------------------\n\n")
             fd.write(output)
 
-        with open(os.path.join(tmpdirname, "about.json"), "w", encoding="utf-8") as file:
+        with open(
+            os.path.join(tmpdirname, "about.json"), "w", encoding="utf-8"
+        ) as file:
             json.dump(about, file, indent=2)
         with open(os.path.join(tmpdirname, "files"), "w"):
             pass
         with open(os.path.join(tmpdirname, "git"), "w"):
             pass
-        with open(os.path.join(tmpdirname, "hash_input.json"), "w", encoding="utf-8") as file:
+        with open(
+            os.path.join(tmpdirname, "hash_input.json"), "w", encoding="utf-8"
+        ) as file:
             json.dump({}, file, indent=2)
-        with open(os.path.join(tmpdirname, "index.json"), "w", encoding="utf-8") as file:
+        with open(
+            os.path.join(tmpdirname, "index.json"), "w", encoding="utf-8"
+        ) as file:
             json.dump(index, file, indent=2)
-        with open(os.path.join(tmpdirname, "paths.json"), "w", encoding="utf-8") as file:
+        with open(
+            os.path.join(tmpdirname, "paths.json"), "w", encoding="utf-8"
+        ) as file:
             json.dump(PATHS, file, indent=2)
 
-        with tarfile.open(archive_name, mode='w:bz2') as archive:
+        with tarfile.open(archive_name, mode="w:bz2") as archive:
             archive.add(tmpdirname, recursive=True, arcname="info")
 
         shutil.rmtree(tmpdirname)
@@ -481,23 +555,31 @@ target_platform: {self.subdir}
 
         return archive_name
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('SUBDIR', type=str, default="*", help=f"The SUBDIR to work with. {supported_subdirs}")
-    parser.add_argument('--solve', action='store_true')
-    parser.add_argument('--build', action='store_true')
+    parser.add_argument(
+        "SUBDIR",
+        type=str,
+        default="*",
+        help=f"The SUBDIR to work with. {supported_subdirs}",
+    )
+    parser.add_argument("--solve", action="store_true")
+    parser.add_argument("--build", action="store_true")
     args = parser.parse_args()
-    
+
     if args.solve == args.build == False:
         print("Error: At least one action needs to be given (--solve --build)")
         parser.print_help()
         sys.exit(1)
-    
+
     if args.SUBDIR not in supported_subdirs:
-        print(f"Error: '{args.SUBDIR}' is not supported, should be one of {supported_subdirs}")
+        print(
+            f"Error: '{args.SUBDIR}' is not supported, should be one of {supported_subdirs}"
+        )
         parser.print_help()
         sys.exit(1)
-                
+
     maxiconda = Maxiconda(args.SUBDIR)
     for PY in maxiconda.targets:
         for environment in maxiconda.targets[PY]:
