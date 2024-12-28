@@ -35,7 +35,7 @@ requirements:
     - spyder =5.3.3 =py37h03978a9_0
     - sympy =1.10.1 =py37h03978a9_1
 
-    # 241 secondary packages :
+    # 244 secondary packages :
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - arrow =1.2.3 =pyhd8ed1ab_0
     - astroid =2.12.11 =py37h03978a9_0
@@ -55,11 +55,11 @@ requirements:
     - brotli-bin =1.1.0 =h2466b09_2
     - brotli-python =1.0.9 =py37hf2a7229_7
     - bzip2 =1.0.8 =h2466b09_7
-    - ca-certificates =2024.8.30 =h56e8100_0
+    - ca-certificates =2024.12.14 =h56e8100_0
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.15.1 =py37ha95fbe2_1
     - chardet =5.0.0 =py37h03978a9_0
-    - charset-normalizer =3.3.2 =pyhd8ed1ab_0
+    - charset-normalizer =3.4.0 =pyhd8ed1ab_0
     - click =8.1.3 =py37h03978a9_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
@@ -69,7 +69,7 @@ requirements:
     - debugpy =1.6.3 =py37hf2a7229_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
-    - diff-match-patch =20230430 =pyhd8ed1ab_0
+    - diff-match-patch =20241021 =pyhd8ed1ab_0
     - dill =0.3.8 =pyhd8ed1ab_0
     - docutils =0.17.1 =py37h03978a9_2
     - entrypoints =0.4 =pyhd8ed1ab_0
@@ -78,12 +78,12 @@ requirements:
     - freetype =2.12.1 =hdaf720e_2
     - gettext =0.22.5 =h5728263_3
     - gettext-tools =0.22.5 =h5a7288d_3
-    - glib =2.80.3 =h7025463_2
-    - glib-tools =2.80.3 =h4394cf3_2
+    - glib =2.82.2 =h7025463_0
+    - glib-tools =2.82.2 =h4394cf3_0
     - gst-plugins-base =1.22.9 =h001b923_1
     - gstreamer =1.22.9 =hb4038d2_1
     - icu =70.1 =h0e60522_0
-    - idna =3.8 =pyhd8ed1ab_0
+    - idna =3.10 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
     - importlib-metadata =4.2.0 =py37h03978a9_0
     - importlib_metadata =4.2.0 =hd8ed1ab_0
@@ -112,35 +112,37 @@ requirements:
     - lerc =4.0.0 =h63175ca_0
     - libasprintf =0.22.5 =h5728263_3
     - libasprintf-devel =0.22.5 =h5728263_3
-    - libblas =3.9.0 =23_win64_mkl
+    - libblas =3.9.0 =26_win64_mkl
     - libbrotlicommon =1.1.0 =h2466b09_2
     - libbrotlidec =1.1.0 =h2466b09_2
     - libbrotlienc =1.1.0 =h2466b09_2
-    - libcblas =3.9.0 =23_win64_mkl
+    - libcblas =3.9.0 =26_win64_mkl
     - libclang =15.0.7 =default_h3a3e6c3_5
     - libclang13 =15.0.7 =default_hf64faad_5
     - libdeflate =1.14 =hcfcfb64_0
     - libffi =3.4.2 =h8ffe710_5
     - libgettextpo =0.22.5 =h5728263_3
     - libgettextpo-devel =0.22.5 =h5728263_3
-    - libglib =2.80.3 =h7025463_2
-    - libhwloc =2.11.1 =default_h8125262_1000
+    - libglib =2.82.2 =h7025463_0
+    - libhwloc =2.11.2 =default_hc8275d1_1000
     - libiconv =1.17 =hcfcfb64_2
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
-    - liblapack =3.9.0 =23_win64_mkl
+    - liblapack =3.9.0 =26_win64_mkl
+    - liblzma =5.6.3 =h2466b09_1
+    - liblzma-devel =5.6.3 =h2466b09_1
     - libogg =1.3.5 =h2466b09_0
-    - libpng =1.6.43 =h19919ed_0
+    - libpng =1.6.44 =h3ca93ac_0
     - libsodium =1.0.18 =h8d14728_1
     - libspatialindex =1.9.3 =h5a68840_5
-    - libsqlite =3.46.1 =h2466b09_0
+    - libsqlite =3.47.2 =h67fdade_0
     - libtiff =4.4.0 =hc4f729c_5
     - libvorbis =1.3.7 =h0e60522_0
-    - libwebp =1.4.0 =h2466b09_0
-    - libwebp-base =1.4.0 =hcfcfb64_0
+    - libwebp =1.5.0 =h3b0e114_0
+    - libwebp-base =1.5.0 =h3b0e114_0
     - libxcb =1.13 =hcd874cb_1004
-    - libxml2 =2.12.7 =h0f24e4e_4
-    - libzlib =1.3.1 =h2466b09_1
+    - libxml2 =2.13.5 =he286e8c_1
+    - libzlib =1.3.1 =h2466b09_2
     - m2w64-gcc-libgfortran =5.3.0 =6
     - m2w64-gcc-libs =5.3.0 =7
     - m2w64-gcc-libs-core =5.3.0 =7
@@ -153,7 +155,7 @@ requirements:
     - mccabe =0.6.1 =py_1
     - mdurl =0.1.2 =pyhd8ed1ab_0
     - mistune =3.0.2 =pyhd8ed1ab_0
-    - mkl =2024.1.0 =h66d3029_694
+    - mkl =2024.2.2 =h66d3029_15
     - more-itertools =10.0.0 =pyhd8ed1ab_0
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - msys2-conda-epoch =20160418 =1
@@ -167,26 +169,26 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - numpydoc =1.5.0 =pyhd8ed1ab_0
     - openjpeg =2.5.0 =hc9384bd_1
-    - openssl =3.3.2 =h2466b09_0
+    - openssl =3.4.0 =h2466b09_0
     - packaging =23.2 =pyhd8ed1ab_0
-    - pandoc =3.4 =h57928b3_0
+    - pandoc =3.6.1 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - paramiko =3.4.1 =pyhd8ed1ab_0
+    - paramiko =3.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
     - pcre2 =10.44 =h3d7b363_2
     - pexpect =4.9.0 =pyhd8ed1ab_0
-    - pickleshare =0.7.5 =py37hc8dfbb8_1002
+    - pickleshare =0.7.5 =py_1003
     - pillow =9.2.0 =py37h42a8222_2
     - pip =24.0 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - platformdirs =4.0.0 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py37h03978a9_3
     - ply =3.11 =pyhd8ed1ab_2
-    - prompt-toolkit =3.0.47 =pyha770c72_0
+    - prompt-toolkit =3.0.48 =pyha770c72_0
     - psutil =5.9.3 =py37h51bd9d9_0
     - pthread-stubs =0.4 =hcd874cb_1001
-    - pthreads-win32 =2.9.1 =hfa6e2cd_3
+    - pthreads-win32 =2.9.1 =h2466b09_4
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pycodestyle =2.8.0 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
@@ -221,7 +223,7 @@ requirements:
     - qtawesome =1.3.1 =pyh9208f05_0
     - qtconsole =5.3.2 =pyhd8ed1ab_0
     - qtconsole-base =5.3.2 =pyha770c72_0
-    - qtpy =2.4.1 =pyhd8ed1ab_0
+    - qtpy =2.4.2 =pyhdecd6ff_0
     - requests =2.32.2 =pyhd8ed1ab_0
     - rich =13.8.1 =pyhd8ed1ab_0
     - rope =1.11.0 =pyhd8ed1ab_0
@@ -240,38 +242,39 @@ requirements:
     - sphinxcontrib-qthelp =1.0.3 =py_0
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_2
     - spyder-kernels =2.3.3 =py37h03978a9_0
-    - sqlite =3.46.1 =h2466b09_0
-    - tbb =2021.13.0 =hc790b64_0
+    - sqlite =3.47.2 =h2466b09_0
+    - tbb =2021.13.0 =h62715c5_1
     - text-unidecode =1.3 =pyhd8ed1ab_1
     - textdistance =4.6.3 =pyhd8ed1ab_0
     - three-merge =0.1.1 =pyh9f0ad1d_0
-    - tinycss2 =1.3.0 =pyhd8ed1ab_0
+    - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =h5226925_1
     - toml =0.10.2 =pyhd8ed1ab_0
-    - tomli =2.0.1 =pyhd8ed1ab_0
+    - tomli =2.0.2 =pyhd8ed1ab_0
     - tomlkit =0.12.5 =pyha770c72_0
     - tornado =6.2 =py37hcc03f2d_0
     - traitlets =5.9.0 =pyhd8ed1ab_0
     - typed-ast =1.5.4 =py37hcc03f2d_0
     - typing-extensions =4.7.1 =hd8ed1ab_0
     - typing_extensions =4.7.1 =pyha770c72_0
-    - ucrt =10.0.22621.0 =h57928b3_0
+    - ucrt =10.0.22621.0 =h57928b3_1
     - ujson =5.5.0 =py37h7f67f24_0
     - unicodedata2 =14.0.0 =py37hcc03f2d_1
     - urllib3 =2.2.1 =pyhd8ed1ab_0
-    - vc =14.3 =h8a93ad2_21
-    - vc14_runtime =14.40.33810 =ha82c5b3_21
-    - vs2015_runtime =14.40.33810 =h3bf8584_21
+    - vc =14.3 =ha32ba9b_23
+    - vc14_runtime =14.42.34433 =he29a5d6_23
+    - vs2015_runtime =14.42.34433 =hdffcdeb_23
     - watchdog =2.1.9 =py37h03978a9_0
     - wcwidth =0.2.10 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - whatthepatch =1.0.6 =pyhd8ed1ab_0
     - wheel =0.42.0 =pyhd8ed1ab_0
-    - win_inet_pton =1.1.0 =py37h03978a9_4
+    - win_inet_pton =1.1.0 =pyh7428d3b_7
     - wrapt =1.14.1 =py37hcc03f2d_0
     - xorg-libxau =1.0.11 =hcd874cb_0
     - xorg-libxdmcp =1.1.3 =hcd874cb_0
-    - xz =5.2.6 =h8d14728_0
+    - xz =5.6.3 =h208afaa_1
+    - xz-tools =5.6.3 =h2466b09_1
     - yaml =0.2.5 =h8ffe710_2
     - yapf =0.33.0 =pyhd8ed1ab_1
     - zeromq =4.3.4 =h0e60522_1

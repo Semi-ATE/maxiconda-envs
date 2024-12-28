@@ -34,7 +34,7 @@ requirements:
     - scipy =1.7.3 =py37hd18d958_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
-    # 187 secondary packages :
+    # 195 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h4e544f5_0
     - attr =2.5.1 =h4e544f5_1
@@ -46,8 +46,8 @@ requirements:
     - brotli =1.1.0 =h86ecc28_2
     - brotli-bin =1.1.0 =h86ecc28_2
     - bzip2 =1.0.8 =h68df207_7
-    - ca-certificates =2024.8.30 =hcefe29a_0
-    - cairo =1.16.0 =hd19fb6e_1012
+    - ca-certificates =2024.12.14 =hcefe29a_0
+    - cairo =1.16.0 =hd19fb6e_1014
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - cycler =0.11.0 =pyhd8ed1ab_0
@@ -55,12 +55,12 @@ requirements:
     - debugpy =1.6.3 =py37hb20f0a7_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - expat =2.6.3 =h5ad3122_0
+    - expat =2.6.4 =h5ad3122_0
     - fftw =3.3.10 =nompi_h020dacd_110
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
-    - font-ttf-ubuntu =0.83 =h77eed37_2
+    - font-ttf-ubuntu =0.83 =h77eed37_3
     - fontconfig =2.14.2 =ha9a116f_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
@@ -68,13 +68,13 @@ requirements:
     - freetype =2.12.1 =hf0a5ef3_2
     - gettext =0.22.5 =h0a1ffab_3
     - gettext-tools =0.22.5 =h0a1ffab_3
-    - glib =2.80.3 =haee52c6_2
-    - glib-tools =2.80.3 =hdaf7ded_2
+    - glib =2.80.2 =h34bac0b_0
+    - glib-tools =2.80.2 =he16435f_0
     - graphite2 =1.3.13 =h2f0025b_1003
     - greenlet =1.1.3 =py37hb20f0a7_0
     - gst-plugins-base =1.22.0 =h8a62080_2
     - gstreamer =1.22.0 =h1f26242_2
-    - gstreamer-orc =0.4.39 =h68df207_0
+    - gstreamer-orc =0.4.40 =h86ecc28_0
     - harfbuzz =6.0.0 =hbcb8a4f_0
     - icu =70.1 =ha18d298_0
     - importlib-metadata =4.11.4 =py37hd9ded2f_0
@@ -90,7 +90,7 @@ requirements:
     - krb5 =1.20.1 =h113d92e_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.14 =h5246980_0
-    - ld_impl_linux-aarch64 =2.40 =h9fc2d93_7
+    - ld_impl_linux-aarch64 =2.43 =h80caac9_2
     - lerc =4.0.0 =h4de3ea5_0
     - libasprintf =0.22.5 =h87f4aca_3
     - libasprintf-devel =0.22.5 =h87f4aca_3
@@ -107,23 +107,28 @@ requirements:
     - libdeflate =1.14 =h4e544f5_0
     - libedit =3.1.20191231 =he28a2e2_2
     - libevent =2.1.10 =h4f30969_4
-    - libexpat =2.6.3 =h5ad3122_0
+    - libexpat =2.6.4 =h5ad3122_0
     - libffi =3.4.2 =h3557bc0_5
     - libflac =1.4.3 =h2f0025b_0
-    - libgcc =14.1.0 =he277a41_1
-    - libgcc-ng =14.1.0 =he9431aa_1
-    - libgcrypt =1.11.0 =h68df207_1
+    - libgcc =14.2.0 =he277a41_1
+    - libgcc-ng =14.2.0 =he9431aa_1
+    - libgcrypt =1.11.0 =h8af1aa0_2
+    - libgcrypt-devel =1.11.0 =h86ecc28_2
+    - libgcrypt-lib =1.11.0 =h86ecc28_2
+    - libgcrypt-tools =1.11.0 =h86ecc28_2
     - libgettextpo =0.22.5 =h0a1ffab_3
     - libgettextpo-devel =0.22.5 =h0a1ffab_3
-    - libgfortran =14.1.0 =he9431aa_1
-    - libgfortran-ng =14.1.0 =he9431aa_1
-    - libgfortran5 =14.1.0 =h9420597_1
-    - libglib =2.80.3 =haee52c6_2
-    - libgomp =14.1.0 =he277a41_1
-    - libgpg-error =1.50 =hb13efb6_0
+    - libgfortran =14.2.0 =he9431aa_1
+    - libgfortran-ng =14.2.0 =he9431aa_1
+    - libgfortran5 =14.2.0 =hb6113d0_1
+    - libglib =2.80.2 =h34bac0b_0
+    - libgomp =14.2.0 =he277a41_1
+    - libgpg-error =1.51 =h05609ea_1
     - libiconv =1.17 =h31becfc_2
     - liblapack =3.9.0 =20_linuxaarch64_openblas
     - libllvm15 =15.0.7 =h87099f9_1
+    - liblzma =5.6.3 =h86ecc28_1
+    - liblzma-devel =5.6.3 =h86ecc28_1
     - libnsl =2.0.1 =h31becfc_0
     - libogg =1.3.5 =h0b9eccb_0
     - libopenblas =0.3.25 =pthreads_h5a5ec62_0
@@ -132,45 +137,45 @@ requirements:
     - libpq =15.3 =hf616e62_1
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
-    - libsqlite =3.46.1 =hc4a20ef_0
-    - libstdcxx =14.1.0 =h3f4de04_1
-    - libstdcxx-ng =14.1.0 =hf1166c9_1
+    - libsqlite =3.46.0 =hf51ef55_0
+    - libstdcxx =14.2.0 =h3f4de04_1
+    - libstdcxx-ng =14.2.0 =hf1166c9_1
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.4.0 =hfcd36d1_5
     - libtool =2.4.7 =h0a1ffab_1
     - libudev1 =253 =hb4cce97_1
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
-    - libwebp-base =1.4.0 =h31becfc_0
+    - libwebp-base =1.5.0 =h0886dbf_0
     - libxcb =1.13 =h3557bc0_1004
     - libxkbcommon =1.5.0 =h4f22d97_1
     - libxml2 =2.10.3 =habe54e3_4
-    - libzlib =1.3.1 =h68df207_1
+    - libzlib =1.2.13 =h68df207_6
     - lz4-c =1.9.4 =hd600fc2_0
     - matplotlib-base =3.5.3 =py37h77d4868_2
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
-    - mpg123 =1.32.6 =h2f0025b_0
+    - mpg123 =1.32.9 =h65af167_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mysql-common =8.0.33 =hb6794ad_6
     - mysql-libs =8.0.33 =hf629957_6
     - ncurses =6.5 =hcccb83c_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
-    - nspr =4.35 =h4de3ea5_0
-    - nss =3.104 =hbe714ee_0
+    - nspr =4.36 =h5ad3122_0
+    - nss =3.100 =h8c4e863_0
     - openjpeg =2.5.0 =h9b6de37_1
     - openssl =3.1.7 =h86ecc28_0
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pcre2 =10.44 =h070dd5b_2
+    - pcre2 =10.43 =hd0f9c67_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
-    - pickleshare =0.7.5 =py37hc8dfbb8_1002
+    - pickleshare =0.7.5 =py_1003
     - pillow =9.2.0 =py37h5e1b7c7_2
     - pip =24.0 =pyhd8ed1ab_0
-    - pixman =0.43.4 =h2f0025b_0
+    - pixman =0.44.2 =h86a87f0_0
     - ply =3.11 =pyhd8ed1ab_2
-    - prompt-toolkit =3.0.47 =pyha770c72_0
+    - prompt-toolkit =3.0.48 =pyha770c72_0
     - psutil =5.9.3 =py37h795501a_0
-    - pthread-stubs =0.4 =hb9de7d4_1001
+    - pthread-stubs =0.4 =h86ecc28_1002
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pulseaudio =16.1 =hd600fc2_3
     - pulseaudio-client =16.1 =h0c4632f_3
@@ -190,7 +195,7 @@ requirements:
     - sip =6.7.2 =py37hea06613_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.42 =py37heeccf27_0
-    - sqlite =3.46.1 =h578a6b9_0
+    - sqlite =3.46.0 =hdc7ab3c_0
     - tk =8.6.13 =h194ca79_0
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.2 =py37heeccf27_0
@@ -207,20 +212,23 @@ requirements:
     - xcb-util-renderutil =0.3.9 =h4e544f5_0
     - xcb-util-wm =0.4.1 =h4e544f5_0
     - xkeyboard-config =2.38 =hb4cce97_0
-    - xorg-kbproto =1.0.7 =h3557bc0_1002
-    - xorg-libice =1.1.1 =h7935292_0
-    - xorg-libsm =1.2.4 =h5a01bc2_0
+    - xorg-kbproto =1.0.7 =h57736b2_1003
+    - xorg-libice =1.1.2 =h86ecc28_0
+    - xorg-libsm =1.2.5 =h0808dbd_0
     - xorg-libx11 =1.8.4 =h2a766a3_0
-    - xorg-libxau =1.0.11 =h31becfc_0
-    - xorg-libxdmcp =1.1.3 =h3557bc0_0
+    - xorg-libxau =1.0.12 =h86ecc28_0
+    - xorg-libxdmcp =1.1.5 =h57736b2_0
     - xorg-libxext =1.3.4 =h2a766a3_2
     - xorg-libxrender =0.9.10 =h3557bc0_1003
-    - xorg-renderproto =0.11.1 =h3557bc0_1002
-    - xorg-xextproto =7.3.0 =h2a766a3_1003
-    - xorg-xproto =7.0.31 =h3557bc0_1007
-    - xz =5.2.6 =h9cdd2b7_0
+    - xorg-renderproto =0.11.1 =h57736b2_1003
+    - xorg-xextproto =7.3.0 =h57736b2_1004
+    - xorg-xproto =7.0.31 =h57736b2_1008
+    - xz =5.6.3 =h2dbfc1b_1
+    - xz-gpl-tools =5.6.3 =h2dbfc1b_1
+    - xz-tools =5.6.3 =h86ecc28_1
     - zeromq =4.3.5 =h2f0025b_1
     - zipp =3.15.0 =pyhd8ed1ab_0
+    - zlib =1.2.13 =h68df207_6
     - zstd =1.5.6 =h02f22dd_0
 
 about:
