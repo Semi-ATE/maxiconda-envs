@@ -24,9 +24,10 @@ requirements:
   run:
     - python =3.11.11 =h3f84c4b_1_cpython
 
-    # 9 primary packages :
+    # 10 primary packages :
     - cython =3.0.11 =py311hdd1c356_3
     - matplotlib =3.10.0 =py311h1ea47a8_0
+    - menuinst =2.2.0 =py311hda3d55a_0
     - numpy =2.2.1 =py311hc213d13_0
     - pandas =2.2.3 =py311hcf9f919_1
     - pyqt =5.15.9 =py311h125bc19_5
