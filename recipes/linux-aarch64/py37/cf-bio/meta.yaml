@@ -34,7 +34,7 @@ requirements:
     - scipy =1.7.3 =py37hd18d958_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
-    # 195 secondary packages :
+    # 194 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h4e544f5_0
     - attr =2.5.1 =h4e544f5_1
@@ -47,7 +47,7 @@ requirements:
     - brotli-bin =1.1.0 =h86ecc28_2
     - bzip2 =1.0.8 =h68df207_7
     - ca-certificates =2024.12.14 =hcefe29a_0
-    - cairo =1.16.0 =hd19fb6e_1014
+    - cairo =1.16.0 =hd19fb6e_1012
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - cycler =0.11.0 =pyhd8ed1ab_0
@@ -61,15 +61,15 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.14.2 =ha9a116f_0
+    - fontconfig =2.15.0 =h8dda3cd_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.38.0 =py37h795501a_0
     - freetype =2.12.1 =hf0a5ef3_2
     - gettext =0.22.5 =h0a1ffab_3
     - gettext-tools =0.22.5 =h0a1ffab_3
-    - glib =2.80.2 =h34bac0b_0
-    - glib-tools =2.80.2 =he16435f_0
+    - glib =2.82.2 =hc486b8e_0
+    - glib-tools =2.82.2 =h78ca943_0
     - graphite2 =1.3.13 =h2f0025b_1003
     - greenlet =1.1.3 =py37hb20f0a7_0
     - gst-plugins-base =1.22.0 =h8a62080_2
@@ -121,7 +121,7 @@ requirements:
     - libgfortran =14.2.0 =he9431aa_1
     - libgfortran-ng =14.2.0 =he9431aa_1
     - libgfortran5 =14.2.0 =hb6113d0_1
-    - libglib =2.80.2 =h34bac0b_0
+    - libglib =2.82.2 =hc486b8e_0
     - libgomp =14.2.0 =he277a41_1
     - libgpg-error =1.51 =h05609ea_1
     - libiconv =1.17 =h31becfc_2
@@ -133,11 +133,11 @@ requirements:
     - libogg =1.3.5 =h0b9eccb_0
     - libopenblas =0.3.25 =pthreads_h5a5ec62_0
     - libopus =1.3.1 =hf897c2e_1
-    - libpng =1.6.43 =h194ca79_0
+    - libpng =1.6.44 =hc4a20ef_0
     - libpq =15.3 =hf616e62_1
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
-    - libsqlite =3.46.0 =hf51ef55_0
+    - libsqlite =3.47.2 =h5eb1b54_0
     - libstdcxx =14.2.0 =h3f4de04_1
     - libstdcxx-ng =14.2.0 =hf1166c9_1
     - libsystemd0 =253 =h74de264_1
@@ -150,7 +150,7 @@ requirements:
     - libxcb =1.13 =h3557bc0_1004
     - libxkbcommon =1.5.0 =h4f22d97_1
     - libxml2 =2.10.3 =habe54e3_4
-    - libzlib =1.2.13 =h68df207_6
+    - libzlib =1.3.1 =h86ecc28_2
     - lz4-c =1.9.4 =hd600fc2_0
     - matplotlib-base =3.5.3 =py37h77d4868_2
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
@@ -161,12 +161,12 @@ requirements:
     - ncurses =6.5 =hcccb83c_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - nspr =4.36 =h5ad3122_0
-    - nss =3.100 =h8c4e863_0
+    - nss =3.107 =hcffee33_0
     - openjpeg =2.5.0 =h9b6de37_1
     - openssl =3.1.7 =h86ecc28_0
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pcre2 =10.43 =hd0f9c67_0
+    - pcre2 =10.44 =h070dd5b_2
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pillow =9.2.0 =py37h5e1b7c7_2
@@ -195,7 +195,7 @@ requirements:
     - sip =6.7.2 =py37hea06613_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.42 =py37heeccf27_0
-    - sqlite =3.46.0 =hdc7ab3c_0
+    - sqlite =3.47.2 =h578a6b9_0
     - tk =8.6.13 =h194ca79_0
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.2 =py37heeccf27_0
@@ -228,7 +228,6 @@ requirements:
     - xz-tools =5.6.3 =h86ecc28_1
     - zeromq =4.3.5 =h2f0025b_1
     - zipp =3.15.0 =pyhd8ed1ab_0
-    - zlib =1.2.13 =h68df207_6
     - zstd =1.5.6 =h02f22dd_0
 
 about:
