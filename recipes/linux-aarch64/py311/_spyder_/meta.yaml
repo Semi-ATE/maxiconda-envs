@@ -56,7 +56,7 @@ requirements:
     - beautifulsoup4 =4.12.3 =pyha770c72_1
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =24.10.0 =py311hec3470c_0
-    - bleach =6.2.0 =pyhd8ed1ab_1
+    - bleach =6.2.0 =pyhd8ed1ab_2
     - brotli =1.1.0 =h86ecc28_2
     - brotli-bin =1.1.0 =h86ecc28_2
     - brotli-python =1.1.0 =py311h89d996e_2
@@ -66,7 +66,7 @@ requirements:
     - certifi =2024.12.14 =pyhd8ed1ab_0
     - cffi =1.17.1 =py311h14e8bb7_0
     - chardet =5.2.0 =py311hfecb2dc_2
-    - charset-normalizer =3.4.0 =pyhd8ed1ab_1
+    - charset-normalizer =3.4.1 =pyhd8ed1ab_0
     - click =8.1.8 =pyh707e725_0
     - cloudpickle =3.1.0 =pyhd8ed1ab_2
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -252,7 +252,7 @@ requirements:
     - pcre2 =10.44 =h070dd5b_2
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.0.0 =py311hb2a0dd2_0
+    - pillow =11.1.0 =py311ha4eaa5e_0
     - pip =24.3.1 =pyh8b19718_2
     - pixman =0.44.2 =h86a87f0_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_2
@@ -267,7 +267,7 @@ requirements:
     - pulseaudio-client =17.0 =h729494f_0
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycodestyle =2.12.1 =pyhd8ed1ab_1
-    - pyconify =0.1.6 =pyhd8ed1ab_1
+    - pyconify =0.2 =pyhd8ed1ab_0
     - pycparser =2.22 =pyh29332c3_1
     - pydocstyle =6.3.0 =pyhd8ed1ab_1
     - pyflakes =3.2.0 =pyhd8ed1ab_1

@@ -93,7 +93,7 @@ requirements:
     - catboost =1.2.7 =py39h6e9494a_0
     - certifi =2024.12.14 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h8ddeee6_0
-    - charset-normalizer =3.4.0 =pyhd8ed1ab_1
+    - charset-normalizer =3.4.1 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyhd8ed1ab_1
     - click =8.1.8 =pyh707e725_0
     - cloudpathlib =0.20.0 =pyhd8ed1ab_0
@@ -114,7 +114,7 @@ requirements:
     - cyrus-sasl =2.1.27 =hf9bab2b_7
     - cython-blis =1.0.1 =py39hf92a157_0
     - databricks-sdk =0.40.0 =pyhd8ed1ab_0
-    - datefinder =0.7.3 =pyhd8ed1ab_0
+    - datefinder =0.7.3 =pyhd8ed1ab_1
     - debugpy =1.8.11 =py39hdf37715_0
     - decorator =5.1.1 =pyhd8ed1ab_1
     - defusedxml =0.7.1 =pyhd8ed1ab_0
@@ -144,8 +144,8 @@ requirements:
     - gdk-pixbuf =2.42.12 =ha587570_0
     - gensim =4.3.3 =py39h64cd7fd_0
     - gflags =2.2.2 =hac325c4_1005
-    - gitdb =4.0.11 =pyhd8ed1ab_1
-    - gitpython =3.1.43 =pyhff2d567_1
+    - gitdb =4.0.12 =pyhd8ed1ab_0
+    - gitpython =3.1.44 =pyhff2d567_0
     - glib =2.82.2 =hbe7352d_0
     - glib-tools =2.82.2 =h8a9f880_0
     - glog =0.7.1 =h2790a97_0
@@ -269,7 +269,7 @@ requirements:
     - lxml =5.3.0 =py39hf553aea_2
     - lz4-c =1.10.0 =h240833e_1
     - mako =1.3.8 =pyhd8ed1ab_0
-    - marisa-trie =1.2.0 =py39h09c4c31_0
+    - marisa-trie =1.2.0 =py39h7c0e7c0_1
     - markdown =3.6 =pyhd8ed1ab_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_1
     - markupsafe =3.0.2 =py39hd18e689_1
@@ -319,7 +319,7 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - phik =0.12.3 =py39h29e5701_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.0.0 =py39h6cf2171_0
+    - pillow =11.1.0 =py39h1fda9f2_0
     - pip =24.3.1 =pyh8b19718_2
     - pixman =0.44.2 =h1fd1274_0
     - platformdirs =4.3.6 =pyhd8ed1ab_1

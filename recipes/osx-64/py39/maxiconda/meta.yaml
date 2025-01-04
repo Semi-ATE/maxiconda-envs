@@ -79,7 +79,7 @@ requirements:
     - async-timeout =5.0.1 =pyhd8ed1ab_1
     - attrs =24.3.0 =pyh71513ae_0
     - babel =2.16.0 =pyhd8ed1ab_1
-    - bleach =6.2.0 =pyhd8ed1ab_1
+    - bleach =6.2.0 =pyhd8ed1ab_2
     - brotli =1.1.0 =h00291cd_2
     - brotli-bin =1.1.0 =h00291cd_2
     - brotli-python =1.1.0 =py39h7c0e7c0_2
@@ -93,7 +93,7 @@ requirements:
     - cctools_osx-64 =1010.6 =hadbd6bd_2
     - certifi =2024.12.14 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h8ddeee6_0
-    - charset-normalizer =3.4.0 =pyhd8ed1ab_1
+    - charset-normalizer =3.4.1 =pyhd8ed1ab_0
     - clang =19.1.6 =default_h576c50e_0
     - clang-19 =19.1.6 =default_h3571c67_0
     - clang_impl_osx-64 =19.1.6 =h5cba23b_23
@@ -264,7 +264,7 @@ requirements:
     - pcre2 =10.44 =h7634a1b_2
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.0.0 =py39h6cf2171_0
+    - pillow =11.1.0 =py39h1fda9f2_0
     - pip =24.3.1 =pyh8b19718_2
     - pixman =0.44.2 =h1fd1274_0
     - pkginfo =1.12.0 =pyhd8ed1ab_1
@@ -483,7 +483,7 @@ requirements:
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rpds-py =0.22.3 =py39hd8827cb_0
-    - ruamel.yaml =0.18.6 =py39h296a897_1
+    - ruamel.yaml =0.18.8 =py39h80efdc8_0
     - ruamel.yaml.clib =0.2.8 =py39h296a897_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-apple-darwin =1.83.0 =h38e4360_0

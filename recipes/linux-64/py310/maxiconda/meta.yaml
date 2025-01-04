@@ -83,7 +83,7 @@ requirements:
     - attrs =24.3.0 =pyh71513ae_0
     - babel =2.16.0 =pyhd8ed1ab_1
     - binutils_impl_linux-64 =2.43 =h4bf12b8_2
-    - bleach =6.2.0 =pyhd8ed1ab_1
+    - bleach =6.2.0 =pyhd8ed1ab_2
     - brotli =1.1.0 =hb9d3cd8_2
     - brotli-bin =1.1.0 =hb9d3cd8_2
     - brotli-python =1.1.0 =py310hf71b8c6_2
@@ -96,7 +96,7 @@ requirements:
     - cairo =1.18.2 =h3394656_1
     - certifi =2024.12.14 =pyhd8ed1ab_0
     - cffi =1.17.1 =py310h8deb56e_0
-    - charset-normalizer =3.4.0 =pyhd8ed1ab_1
+    - charset-normalizer =3.4.1 =pyhd8ed1ab_0
     - click =8.1.8 =pyh707e725_0
     - cloudpickle =3.1.0 =pyhd8ed1ab_2
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -288,7 +288,7 @@ requirements:
     - pcre2 =10.44 =hba22ea6_2
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.0.0 =py310hfeaa1f3_0
+    - pillow =11.1.0 =py310h7e6dc6c_0
     - pip =24.3.1 =pyh8b19718_2
     - pixman =0.44.2 =h29eaf8c_0
     - pkginfo =1.12.0 =pyhd8ed1ab_1
@@ -508,7 +508,7 @@ requirements:
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rpds-py =0.22.3 =py310h505e2c1_0
-    - ruamel.yaml =0.18.6 =py310ha75aee5_1
+    - ruamel.yaml =0.18.8 =py310ha75aee5_0
     - ruamel.yaml.clib =0.2.8 =py310ha75aee5_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-unknown-linux-gnu =1.83.0 =h2c6d0dc_0
