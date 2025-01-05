@@ -31,16 +31,16 @@ requirements:
     - pandas =2.2.3 =py312hcd31e36_1
     - pyqt =5.15.9 =py312h550cae4_5
     - pyqtwebengine =5.15.9 =py312h14105d7_5
-    - scipy =1.14.1 =py312h6bb24ec_2
+    - scipy =1.15.0 =py312hb7ffdcd_0
     - spyder =6.0.3 =osx_pyh1a5313d_1
     - sympy =1.13.3 =pyh2585a3b_104
 
-    # 284 secondary packages :
+    # 283 secondary packages :
     - aiohappyeyeballs =2.4.4 =pyhd8ed1ab_1
     - aiohttp =3.11.11 =py312h998013c_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
-    - applaunchservices =0.3.0 =pyh534df25_3
+    - applaunchservices =0.3.0 =pyh534df25_4
     - appnope =0.1.4 =pyhd8ed1ab_1
     - arrow =1.3.0 =pyhd8ed1ab_1
     - astroid =3.3.8 =py312h81bd7bf_0
@@ -105,7 +105,6 @@ requirements:
     - idna =3.10 =pyhd8ed1ab_1
     - imagesize =1.4.1 =pyhd8ed1ab_0
     - importlib-metadata =8.5.0 =pyha770c72_1
-    - importlib_metadata =8.5.0 =hd8ed1ab_1
     - importlib_resources =6.4.5 =pyhd8ed1ab_1
     - inflection =0.5.1 =pyhd8ed1ab_1
     - intervaltree =3.1.0 =pyhd8ed1ab_1
@@ -227,7 +226,7 @@ requirements:
     - pyjwt =2.10.1 =pyhd8ed1ab_0
     - pylint =3.3.3 =pyhd8ed1ab_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
-    - pyls-spyder =0.4.0 =pyhd8ed1ab_0
+    - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.5.0 =py312h024a12e_4
     - pyobjc-core =10.3.1 =py312hd24fc31_1
     - pyobjc-framework-cocoa =10.3.1 =py312hd24fc31_1
@@ -240,10 +239,10 @@ requirements:
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
     - python-fastjsonschema =2.21.1 =pyhd8ed1ab_0
     - python-gssapi =1.9.0 =py312h97903a5_1
-    - python-lsp-black =2.0.0 =pyhd8ed1ab_0
-    - python-lsp-jsonrpc =1.1.2 =pyhd8ed1ab_0
-    - python-lsp-server =1.12.0 =pyhd8ed1ab_0
-    - python-lsp-server-base =1.12.0 =pyhd8ed1ab_0
+    - python-lsp-black =2.0.0 =pyhff2d567_1
+    - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
+    - python-lsp-server =1.12.0 =pyhff2d567_1
+    - python-lsp-server-base =1.12.0 =pyhd8ed1ab_1
     - python-slugify =8.0.4 =pyhd8ed1ab_1
     - python-tzdata =2024.2 =pyhd8ed1ab_1
     - python.app =1.4 =py312h830b0dc_4
@@ -259,7 +258,7 @@ requirements:
     - qstylizer =0.2.4 =pyhff2d567_0
     - qt-main =5.15.15 =h67564f6_2
     - qt-webengine =5.15.15 =h5422c0a_1
-    - qtawesome =1.3.1 =pyh9208f05_0
+    - qtawesome =1.3.1 =pyh9208f05_1
     - qtconsole =5.6.1 =pyhd8ed1ab_1
     - qtconsole-base =5.6.1 =pyha770c72_1
     - qtpy =2.4.2 =pyhdecd6ff_0
@@ -289,7 +288,7 @@ requirements:
     - tabulate =0.9.0 =pyhd8ed1ab_2
     - text-unidecode =1.3 =pyhd8ed1ab_2
     - textdistance =4.6.3 =pyhd8ed1ab_0
-    - three-merge =0.1.1 =pyh9f0ad1d_0
+    - three-merge =0.1.1 =pyhd8ed1ab_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =h5083fa2_1
     - toml =0.10.2 =pyhd8ed1ab_1

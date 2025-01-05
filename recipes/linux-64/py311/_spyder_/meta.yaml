@@ -31,11 +31,11 @@ requirements:
     - pandas =2.2.3 =py311h7db5c69_1
     - pyqt =5.15.9 =py311hf0fb5b6_5
     - pyqtwebengine =5.15.9 =py311hd529140_5
-    - scipy =1.14.1 =py311he9a78e4_2
+    - scipy =1.15.0 =py311hc1ac118_0
     - spyder =6.0.3 =linux_pyh62a8a7d_1
     - sympy =1.13.3 =pyh2585a3b_104
 
-    # 354 secondary packages :
+    # 353 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.4.4 =pyhd8ed1ab_1
@@ -123,7 +123,6 @@ requirements:
     - idna =3.10 =pyhd8ed1ab_1
     - imagesize =1.4.1 =pyhd8ed1ab_0
     - importlib-metadata =8.5.0 =pyha770c72_1
-    - importlib_metadata =8.5.0 =hd8ed1ab_1
     - importlib_resources =6.4.5 =pyhd8ed1ab_1
     - inflection =0.5.1 =pyhd8ed1ab_1
     - intervaltree =3.1.0 =pyhd8ed1ab_1
@@ -277,7 +276,7 @@ requirements:
     - pyjwt =2.10.1 =pyhd8ed1ab_0
     - pylint =3.3.3 =pyhd8ed1ab_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
-    - pyls-spyder =0.4.0 =pyhd8ed1ab_0
+    - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.5.0 =py311h9ecbd09_4
     - pyopenssl =24.3.0 =pyhd8ed1ab_0
     - pyparsing =3.2.1 =pyhd8ed1ab_0
@@ -287,10 +286,10 @@ requirements:
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
     - python-fastjsonschema =2.21.1 =pyhd8ed1ab_0
     - python-gssapi =1.9.0 =py311h9db375c_1
-    - python-lsp-black =2.0.0 =pyhd8ed1ab_0
-    - python-lsp-jsonrpc =1.1.2 =pyhd8ed1ab_0
-    - python-lsp-server =1.12.0 =pyhd8ed1ab_0
-    - python-lsp-server-base =1.12.0 =pyhd8ed1ab_0
+    - python-lsp-black =2.0.0 =pyhff2d567_1
+    - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
+    - python-lsp-server =1.12.0 =pyhff2d567_1
+    - python-lsp-server-base =1.12.0 =pyhd8ed1ab_1
     - python-slugify =8.0.4 =pyhd8ed1ab_1
     - python-tzdata =2024.2 =pyhd8ed1ab_1
     - python_abi =3.11 =5_cp311
@@ -306,7 +305,7 @@ requirements:
     - qt-main =5.15.15 =h796de64_1
     - qt-webengine =5.15.15 =hd04a301_1
     - qt6-main =6.8.1 =h9d28a51_0
-    - qtawesome =1.3.1 =pyh9208f05_0
+    - qtawesome =1.3.1 =pyh9208f05_1
     - qtconsole =5.6.1 =pyhd8ed1ab_1
     - qtconsole-base =5.6.1 =pyha770c72_1
     - qtpy =2.4.2 =pyhdecd6ff_0
@@ -337,7 +336,7 @@ requirements:
     - tabulate =0.9.0 =pyhd8ed1ab_2
     - text-unidecode =1.3 =pyhd8ed1ab_2
     - textdistance =4.6.3 =pyhd8ed1ab_0
-    - three-merge =0.1.1 =pyh9f0ad1d_0
+    - three-merge =0.1.1 =pyhd8ed1ab_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_h4845f30_101
     - toml =0.10.2 =pyhd8ed1ab_1
