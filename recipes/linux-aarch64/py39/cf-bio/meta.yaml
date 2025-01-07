@@ -34,7 +34,7 @@ requirements:
     - scipy =1.13.1 =py39hb921187_0
     - spyder-kernels =3.0.2 =unix_pyh707e725_0
 
-    # 215 secondary packages :
+    # 214 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.13 =h86ecc28_0
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -76,7 +76,7 @@ requirements:
     - greenlet =3.1.1 =py39h7dbf29c_1
     - gst-plugins-base =1.24.7 =h570c1df_0
     - gstreamer =1.24.7 =h37d20eb_0
-    - harfbuzz =9.0.0 =hbf49d6b_1
+    - harfbuzz =10.1.0 =hbdc1db7_0
     - icu =75.1 =hf9b3779_0
     - importlib-metadata =8.5.0 =pyha770c72_1
     - importlib-resources =6.4.5 =pyhd8ed1ab_1
@@ -108,7 +108,7 @@ requirements:
     - libcups =2.3.3 =h405e4a8_4
     - libdeflate =1.23 =h5e3c512_0
     - libdrm =2.4.124 =h86ecc28_0
-    - libedit =3.1.20191231 =he28a2e2_2
+    - libedit =3.1.20240808 =pl5321h976ea20_0
     - libegl =1.7.0 =hd24410f_2
     - libevent =2.1.12 =h4ba1bb4_1
     - libexpat =2.6.4 =h5ad3122_0
@@ -201,8 +201,8 @@ requirements:
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.2.0 =py39he601760_3
     - qhull =2020.2 =h70be974_5
-    - qt-main =5.15.15 =hbd72f34_1
-    - qt6-main =6.8.1 =h0d3cc05_0
+    - qt-main =5.15.15 =hcc483f7_2
+    - qt6-main =6.8.1 =ha0a94ed_2
     - readline =8.2 =h8fc344f_1
     - reportlab =4.2.5 =py39h060674a_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
@@ -246,7 +246,6 @@ requirements:
     - xorg-libxrender =0.9.12 =h86ecc28_0
     - xorg-libxtst =1.2.5 =h57736b2_3
     - xorg-libxxf86vm =1.1.6 =h86ecc28_0
-    - xorg-xf86vidmodeproto =2.3.1 =h57736b2_1005
     - zeromq =4.3.5 =h5efb499_7
     - zipp =3.21.0 =pyhd8ed1ab_1
     - zstd =1.5.6 =h02f22dd_0

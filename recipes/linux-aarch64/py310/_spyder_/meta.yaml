@@ -57,7 +57,7 @@ requirements:
     - beautifulsoup4 =4.12.3 =pyha770c72_1
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =24.10.0 =py310h4c7bcd0_0
-    - bleach =6.2.0 =pyhd8ed1ab_2
+    - bleach =6.2.0 =pyhd8ed1ab_3
     - brotli =1.1.0 =h86ecc28_2
     - brotli-bin =1.1.0 =h86ecc28_2
     - brotli-python =1.1.0 =py310he30c3ed_2
@@ -162,7 +162,7 @@ requirements:
     - libcups =2.3.3 =h405e4a8_4
     - libdeflate =1.23 =h5e3c512_0
     - libdrm =2.4.124 =h86ecc28_0
-    - libedit =3.1.20191231 =he28a2e2_2
+    - libedit =3.1.20240808 =pl5321h976ea20_0
     - libegl =1.7.0 =hd24410f_2
     - libevent =2.1.12 =h4ba1bb4_1
     - libexpat =2.6.4 =h5ad3122_0
@@ -383,7 +383,7 @@ requirements:
     - xorg-libxxf86vm =1.1.6 =h86ecc28_0
     - xorg-xf86vidmodeproto =2.3.1 =h57736b2_1005
     - yaml =0.2.5 =hf897c2e_2
-    - yapf =0.40.1 =pyhd8ed1ab_1
+    - yapf =0.43.0 =pyhd8ed1ab_1
     - yarl =1.18.3 =py310ha766c32_0
     - zeromq =4.3.5 =h5efb499_7
     - zipp =3.21.0 =pyhd8ed1ab_1

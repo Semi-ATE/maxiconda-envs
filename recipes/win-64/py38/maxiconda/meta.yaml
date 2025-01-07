@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 450 secondary packages :
+    # 432 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
     - aiosignal =1.3.1 =pyhd8ed1ab_0
@@ -89,7 +89,6 @@ requirements:
     - ca-certificates =2024.12.14 =h56e8100_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
-    - cairo =1.18.0 =h91e5215_2
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38h4cb3324_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
@@ -108,32 +107,22 @@ requirements:
     - et_xmlfile =2.0.0 =pyhd8ed1ab_0
     - exceptiongroup =1.2.2 =pyhd8ed1ab_0
     - executing =2.1.0 =pyhd8ed1ab_0
-    - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
-    - font-ttf-inconsolata =3.000 =h77eed37_0
-    - font-ttf-source-code-pro =2.038 =h77eed37_0
-    - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.15.0 =h765892d_1
-    - fonts-conda-ecosystem =1 =0
-    - fonts-conda-forge =1 =0
     - fonttools =4.53.1 =py38h4cb3324_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.12.1 =hdaf720e_2
-    - fribidi =1.0.10 =h8d14728_0
     - frozenlist =1.4.1 =py38h91455d4_0
     - glib =2.82.2 =h7025463_0
     - glib-tools =2.82.2 =h4394cf3_0
-    - graphite2 =1.3.13 =h63175ca_1003
     - greenlet =3.0.3 =py38hd3f51b4_0
     - gst-plugins-base =1.24.7 =hb0a98b8_0
     - gstreamer =1.24.7 =h5006eae_0
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =8.5.0 =h81778c3_0
     - hpack =4.0.0 =pyh9f0ad1d_0
     - httpcore =1.0.7 =pyh29332c3_1
     - httpx =0.27.2 =pyhd8ed1ab_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
-    - icu =73.2 =h63175ca_0
+    - icu =75.1 =he0c23c2_0
     - idna =3.10 =pyhd8ed1ab_0
     - importlib-metadata =8.5.0 =pyha770c72_0
     - importlib-resources =6.4.5 =pyhd8ed1ab_0
@@ -169,7 +158,6 @@ requirements:
     - libcblas =3.9.0 =26_win64_mkl
     - libclang13 =19.1.6 =default_ha5278ca_0
     - libdeflate =1.23 =h9062f6e_0
-    - libexpat =2.6.4 =he0c23c2_0
     - libffi =3.4.2 =h8ffe710_5
     - libglib =2.82.2 =h7025463_0
     - libhwloc =2.11.2 =default_hc8275d1_1000
@@ -248,7 +236,6 @@ requirements:
     - pickleshare =0.7.5 =py_1003
     - pillow =10.4.0 =py38h8d10685_0
     - pip =24.3.1 =pyh8b19718_0
-    - pixman =0.44.2 =had0cd8c_0
     - pkginfo =1.12.0 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - platformdirs =4.3.6 =pyhd8ed1ab_0
@@ -278,7 +265,7 @@ requirements:
     - pywin32 =306 =py38hd3f51b4_2
     - pywinpty =2.0.13 =py38hd3f51b4_0
     - pyzmq =26.2.0 =py38h3c56b06_0
-    - qt-main =5.15.8 =h06adc49_23
+    - qt-main =5.15.15 =h9151539_2
     - qtpy =2.4.2 =pyhdecd6ff_0
     - r-askpass =1.2.0 =r41h6d2157b_0
     - r-assertthat =0.2.1 =r41hc72bb7e_3
@@ -302,7 +289,6 @@ requirements:
     - r-codetools =0.2_19 =r41hc72bb7e_0
     - r-colorspace =2.1_0 =r41h6d2157b_1
     - r-commonmark =1.9.1 =r41h6d2157b_0
-    - r-conflicted =1.2.0 =r41h785f33e_0
     - r-cpp11 =0.4.7 =r41hc72bb7e_0
     - r-crayon =1.5.2 =r41hc72bb7e_1
     - r-crul =1.4.0 =r41h785f33e_0
@@ -400,7 +386,6 @@ requirements:
     - r-purrr =1.0.2 =r41h6d2157b_0
     - r-quantmod =0.4.22 =r41hc72bb7e_0
     - r-r6 =2.5.1 =r41hc72bb7e_1
-    - r-ragg =1.3.2 =r41he767bbc_0
     - r-randomforest =4.7_1.1 =r41he816bda_2
     - r-rappdirs =0.3.3 =r41h6d2157b_2
     - r-rbokeh =0.5.2 =r41hc72bb7e_2
@@ -432,12 +417,10 @@ requirements:
     - r-stringr =1.5.0 =r41h785f33e_0
     - r-survival =3.7_0 =r41h245b76f_0
     - r-sys =3.4.2 =r41h6d2157b_1
-    - r-systemfonts =1.1.0 =r41h754b566_0
-    - r-textshaping =0.4.0 =r41hdd868d5_0
     - r-tibble =3.2.1 =r41h6d2157b_2
     - r-tidyr =1.3.1 =r41ha856d6a_0
     - r-tidyselect =1.2.0 =r41h6addd8b_1
-    - r-tidyverse =2.0.0 =r41h785f33e_0
+    - r-tidyverse =1.3.2 =r41hc72bb7e_1
     - r-timechange =0.3.0 =r41ha856d6a_0
     - r-timedate =4022.108 =r41hc72bb7e_0
     - r-tinytex =0.45 =r41hc72bb7e_0
@@ -512,7 +495,6 @@ requirements:
     - yarl =1.9.4 =py38h91455d4_0
     - zeromq =4.3.5 =he1f189c_4
     - zipp =3.21.0 =pyhd8ed1ab_0
-    - zlib =1.3.1 =h2466b09_2
     - zstandard =0.23.0 =py38hf92978b_0
     - zstd =1.5.6 =h0ea2cb4_0
 
