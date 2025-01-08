@@ -33,9 +33,9 @@ requirements:
     - pyqtwebengine =5.15.9 =py39h071a739_5
     - scipy =1.13.1 =py39haf93ffa_0
     - spyder =6.0.3 =linux_pyh62a8a7d_1
-    - sympy =1.13.3 =pyh2585a3b_104
+    - sympy =1.13.3 =pyh2585a3b_105
 
-    # 356 secondary packages :
+    # 357 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.4.4 =pyhd8ed1ab_1
@@ -59,6 +59,7 @@ requirements:
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =24.10.0 =py39hf3d152e_0
     - bleach =6.2.0 =pyhd8ed1ab_3
+    - bleach-with-css =6.2.0 =hd8ed1ab_3
     - brotli =1.1.0 =hb9d3cd8_2
     - brotli-bin =1.1.0 =hb9d3cd8_2
     - brotli-python =1.1.0 =py39hf88036b_2
@@ -105,7 +106,7 @@ requirements:
     - fonttools =4.55.3 =py39h9399b63_1
     - freetype =2.12.1 =h267a509_2
     - frozenlist =1.5.0 =py39h8cd3c5a_0
-    - fzf =0.57.0 =h59e48b9_0
+    - fzf =0.57.0 =h59e48b9_1
     - gettext =0.22.5 =he02047a_3
     - gettext-tools =0.22.5 =he02047a_3
     - giflib =5.2.2 =hd590300_0
@@ -124,8 +125,8 @@ requirements:
     - idna =3.10 =pyhd8ed1ab_1
     - imagesize =1.4.1 =pyhd8ed1ab_0
     - importlib-metadata =8.5.0 =pyha770c72_1
-    - importlib-resources =6.4.5 =pyhd8ed1ab_1
-    - importlib_resources =6.4.5 =pyhd8ed1ab_1
+    - importlib-resources =6.5.2 =pyhd8ed1ab_0
+    - importlib_resources =6.5.2 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyhd8ed1ab_1
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.29.5 =pyh3099207_0
@@ -235,9 +236,9 @@ requirements:
     - mysql-common =9.0.1 =h266115a_4
     - mysql-libs =9.0.1 =he0572af_4
     - nbclient =0.10.2 =pyhd8ed1ab_0
-    - nbconvert =7.16.5 =hd8ed1ab_0
-    - nbconvert-core =7.16.5 =pyhd8ed1ab_0
-    - nbconvert-pandoc =7.16.5 =hd8ed1ab_0
+    - nbconvert =7.16.5 =hd8ed1ab_1
+    - nbconvert-core =7.16.5 =pyhd8ed1ab_1
+    - nbconvert-pandoc =7.16.5 =hd8ed1ab_1
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =he02047a_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
@@ -275,7 +276,7 @@ requirements:
     - pydocstyle =6.3.0 =pyhd8ed1ab_1
     - pyflakes =3.2.0 =pyhd8ed1ab_1
     - pygithub =2.5.0 =pyhd8ed1ab_0
-    - pygments =2.18.0 =pyhd8ed1ab_1
+    - pygments =2.19.1 =pyhd8ed1ab_0
     - pyjwt =2.10.1 =pyhd8ed1ab_0
     - pylint =3.3.3 =pyhd8ed1ab_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
