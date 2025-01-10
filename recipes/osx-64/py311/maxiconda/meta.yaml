@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.0.0 =py311h1314207_0
     - cython =3.0.11 =py311h4cb39f0_3
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.123.9 =pyha770c72_0
+    - hypothesis =6.123.11 =pyha770c72_0
     - ipython =8.31.0 =pyh707e725_0
     - jinja2 =3.1.5 =pyhd8ed1ab_0
     - matplotlib =3.10.0 =py311h6eed73b_0
@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.2.3 =py311haeb46be_1
     - psutil =6.1.1 =py311h4d7f069_0
-    - pydantic =2.10.4 =pyh3cfb1c2_0
+    - pydantic =2.10.5 =pyh3cfb1c2_0
     - pyqt =5.15.9 =py311h5b1a2bc_5
     - pyserial =3.5 =pyhd8ed1ab_1
     - pytest =8.3.4 =pyhd8ed1ab_1
@@ -407,7 +407,7 @@ requirements:
     - r-plyr =1.8.9 =r44h25d921d_1
     - r-prettyunits =1.2.0 =r44hc72bb7e_1
     - r-proc =1.18.5 =r44h25d921d_1
-    - r-processx =3.8.4 =r44h6b9d099_1
+    - r-processx =3.8.5 =r44h79f565e_0
     - r-prodlim =2024.06.25 =r44h25d921d_1
     - r-progress =1.2.3 =r44hc72bb7e_1
     - r-progressr =0.15.1 =r44hc72bb7e_0
@@ -470,7 +470,7 @@ requirements:
     - r-viridislite =0.4.2 =r44hc72bb7e_2
     - r-vroom =1.6.5 =r44h25d921d_1
     - r-withr =3.0.2 =r44hc72bb7e_0
-    - r-xfun =0.49 =r44h2711daa_0
+    - r-xfun =0.50 =r44h2711daa_0
     - r-xml2 =1.3.6 =r44h0ea9301_2
     - r-xtable =1.8_4 =r44hc72bb7e_6
     - r-xts =0.14.1 =r44h362b90a_0
@@ -487,7 +487,7 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-apple-darwin =1.83.0 =h38e4360_0
     - send2trash =1.8.3 =pyh31c8845_1
-    - setuptools =75.6.0 =pyhff2d567_1
+    - setuptools =75.7.0 =pyhff2d567_0
     - sigtool =0.1.3 =h88f4db0_0
     - sip =6.7.12 =py311hd39e593_0
     - six =1.17.0 =pyhd8ed1ab_0
