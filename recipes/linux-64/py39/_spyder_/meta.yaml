@@ -28,7 +28,7 @@ requirements:
     - cython =3.0.11 =py39hde8bd2b_3
     - matplotlib =3.9.4 =py39hf3d152e_0
     - numpy =2.0.2 =py39h9cb892a_1
-    - pandas =2.2.3 =py39h3b40f6f_1
+    - pandas =2.2.3 =py39h3b40f6f_2
     - pyqt =5.15.9 =py39h52134e7_5
     - pyqtwebengine =5.15.9 =py39h071a739_5
     - scipy =1.13.1 =py39haf93ffa_0
@@ -249,7 +249,7 @@ requirements:
     - openldap =2.6.9 =he970967_0
     - openssl =3.4.0 =h7b32b05_1
     - packaging =24.2 =pyhd8ed1ab_2
-    - pandoc =3.6.1 =ha770c72_0
+    - pandoc =3.6.2 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_1
     - pathspec =0.12.1 =pyhd8ed1ab_1
@@ -361,7 +361,7 @@ requirements:
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
-    - wrapt =1.17.0 =py39h8cd3c5a_0
+    - wrapt =1.17.1 =py39h8cd3c5a_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xcb-util =0.4.1 =hb711507_2
     - xcb-util-cursor =0.1.5 =hb9d3cd8_0
