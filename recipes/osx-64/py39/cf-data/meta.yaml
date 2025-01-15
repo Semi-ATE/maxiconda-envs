@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.3.6 =pyhd8ed1ab_0
     - pydot =3.0.3 =py39h6e9494a_0
     - pyqt =5.15.9 =py39h3dce684_5
-    - pytorch =2.5.1 =cpu_mkl_py39_h3446ff2_108
+    - pytorch =2.5.1 =cpu_mkl_py39_h3446ff2_109
     - scikit-learn =0.23.2 =py39hcaaab68_3
     - scipy =1.5.3 =py39h3164f57_0
     - scrapy =2.12.0 =py39h6e9494a_1
@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.14.1 =py39h5b4affa_0
     - xgboost =2.1.3 =cpu_pyhac85b48_0
 
-    # 383 secondary packages :
+    # 382 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - aiohappyeyeballs =2.4.4 =pyhd8ed1ab_1
     - aiohttp =3.11.11 =py39hd18e689_0
@@ -198,17 +198,17 @@ requirements:
     - libarrow-acero =18.1.0 =ha6338a2_8_cpu
     - libarrow-dataset =18.1.0 =ha6338a2_8_cpu
     - libarrow-substrait =18.1.0 =h5c2345d_8_cpu
-    - libblas =3.9.0 =20_osx64_openblas
+    - libblas =3.9.0 =20_osx64_mkl
     - libboost =1.84.0 =hf0da243_7
     - libbrotlicommon =1.1.0 =h00291cd_2
     - libbrotlidec =1.1.0 =h00291cd_2
     - libbrotlienc =1.1.0 =h00291cd_2
-    - libcblas =3.9.0 =20_osx64_openblas
+    - libcblas =3.9.0 =20_osx64_mkl
     - libclang-cpp17 =17.0.6 =default_hb173f14_7
     - libclang13 =19.1.6 =default_hf2b7afa_0
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.11.1 =h5dec5d8_0
-    - libcxx =19.1.6 =hf95d169_1
+    - libcxx =19.1.7 =hf95d169_0
     - libdeflate =1.23 =he65b83e_0
     - libedit =3.1.20240808 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -227,16 +227,15 @@ requirements:
     - libintl =0.22.5 =hdfe23c8_3
     - libintl-devel =0.22.5 =hdfe23c8_3
     - libjpeg-turbo =3.0.0 =h0dc2134_1
-    - liblapack =3.9.0 =20_osx64_openblas
+    - liblapack =3.9.0 =20_osx64_mkl
     - liblightgbm =4.5.0 =cpu_h84bc62d_3
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm19 =19.1.6 =hc29ff6c_0
+    - libllvm19 =19.1.7 =hc29ff6c_0
     - liblzma =5.6.3 =hd471939_1
     - libnghttp2 =1.64.0 =hc7306c3_0
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =hfdf4475_0
-    - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.3.1 =hc929b4f_1
     - libparquet =18.1.0 =h3e22b07_8_cpu
     - libpng =1.6.45 =h3c4a55f_0
@@ -249,7 +248,7 @@ requirements:
     - libssh2 =1.11.1 =h3dc7d44_0
     - libthrift =0.21.0 =h75589b3_0
     - libtiff =4.7.0 =hb77a491_3
-    - libtorch =2.5.1 =cpu_mkl_h781220b_108
+    - libtorch =2.5.1 =cpu_mkl_h89b0757_109
     - libutf8proc =2.9.0 =h6e16a3a_1
     - libuv =1.49.2 =hd79239c_0
     - libvorbis =1.3.7 =h046ec9c_0
@@ -417,7 +416,7 @@ requirements:
     - wheel =0.45.1 =pyhd8ed1ab_1
     - widgetsnbextension =4.0.13 =pyhd8ed1ab_1
     - wordcloud =1.9.4 =py39h80efdc8_1
-    - wrapt =1.17.1 =py39h80efdc8_0
+    - wrapt =1.17.2 =py39h80efdc8_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xorg-libxau =1.0.12 =h6e16a3a_0
     - xorg-libxdmcp =1.1.5 =h00291cd_0
