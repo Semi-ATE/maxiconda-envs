@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - beautifulsoup4 =4.12.3 =pyha770c72_1
-    - django =4.2.17 =pyhd8ed1ab_0
+    - django =4.2.18 =pyhd8ed1ab_0
     - jinja2 =3.1.5 =pyhd8ed1ab_0
     - pyqt =5.15.9 =py39h52134e7_5
     - pyyaml =6.0.2 =py39h8cd3c5a_1
@@ -54,7 +54,7 @@ requirements:
     - certifi =2024.12.14 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h15c3d72_0
     - charset-normalizer =3.4.1 =pyhd8ed1ab_0
-    - cloudpickle =3.1.0 =pyhd8ed1ab_2
+    - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_1
     - constantly =15.1.0 =py_0
     - cryptography =44.0.0 =py39h7170ec2_0
@@ -102,8 +102,8 @@ requirements:
     - libasprintf =0.22.5 =he8f35ee_3
     - libasprintf-devel =0.22.5 =he8f35ee_3
     - libcap =2.71 =h39aace5_0
-    - libclang-cpp19.1 =19.1.6 =default_hb5137d0_0
-    - libclang13 =19.1.6 =default_h9c6a7e4_0
+    - libclang-cpp19.1 =19.1.7 =default_hb5137d0_0
+    - libclang13 =19.1.7 =default_h9c6a7e4_0
     - libcups =2.3.3 =h4637d8d_4
     - libdrm =2.4.124 =hb9d3cd8_0
     - libedit =3.1.20240808 =pl5321h7949ede_0

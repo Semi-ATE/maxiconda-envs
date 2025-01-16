@@ -69,7 +69,7 @@ requirements:
     - chardet =5.2.0 =py312h8025657_2
     - charset-normalizer =3.4.1 =pyhd8ed1ab_0
     - click =8.1.8 =pyh707e725_0
-    - cloudpickle =3.1.0 =pyhd8ed1ab_2
+    - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.2 =pyhd8ed1ab_1
     - contourpy =1.3.1 =py312h451a7dd_0
@@ -143,7 +143,7 @@ requirements:
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - keyring =25.6.0 =pyha804496_0
     - keyutils =1.6.1 =h4e544f5_0
-    - kiwisolver =1.4.7 =py312h88dc405_0
+    - kiwisolver =1.4.8 =py312h17cf362_0
     - krb5 =1.21.3 =h50a48e9_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.16 =h922389a_0
@@ -157,8 +157,8 @@ requirements:
     - libbrotlienc =1.1.0 =h86ecc28_2
     - libcap =2.71 =h51d75a7_0
     - libcblas =3.9.0 =26_linuxaarch64_openblas
-    - libclang-cpp19.1 =19.1.6 =default_he324ac1_0
-    - libclang13 =19.1.6 =default_h4390ef5_0
+    - libclang-cpp19.1 =19.1.7 =default_he324ac1_0
+    - libclang13 =19.1.7 =default_h4390ef5_0
     - libcups =2.3.3 =h405e4a8_4
     - libdeflate =1.23 =h5e3c512_0
     - libdrm =2.4.124 =h86ecc28_0

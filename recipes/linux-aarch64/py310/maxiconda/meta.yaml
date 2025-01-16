@@ -98,7 +98,7 @@ requirements:
     - cffi =1.17.1 =py310h1451162_0
     - charset-normalizer =3.4.1 =pyhd8ed1ab_0
     - click =8.1.8 =pyh707e725_0
-    - cloudpickle =3.1.0 =pyhd8ed1ab_2
+    - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.2 =pyhd8ed1ab_1
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
@@ -188,8 +188,8 @@ requirements:
     - libbrotlienc =1.1.0 =h86ecc28_2
     - libcap =2.71 =h51d75a7_0
     - libcblas =3.9.0 =26_linuxaarch64_openblas
-    - libclang-cpp19.1 =19.1.6 =default_he324ac1_0
-    - libclang13 =19.1.6 =default_h4390ef5_0
+    - libclang-cpp19.1 =19.1.7 =default_he324ac1_0
+    - libclang13 =19.1.7 =default_h4390ef5_0
     - libcups =2.3.3 =h405e4a8_4
     - libcurl =8.11.1 =h6702fde_0
     - libdeflate =1.23 =h5e3c512_0
@@ -529,7 +529,7 @@ requirements:
     - tktable =2.10 =h52f7bd3_6
     - toml =0.10.2 =pyhd8ed1ab_1
     - tomli =2.2.1 =pyhd8ed1ab_1
-    - tomli-w =1.1.0 =pyhd8ed1ab_1
+    - tomli-w =1.2.0 =pyhd8ed1ab_0
     - tornado =6.4.2 =py310h78583b1_0
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - types-python-dateutil =2.9.0.20241206 =pyhd8ed1ab_0
