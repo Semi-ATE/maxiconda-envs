@@ -25,7 +25,7 @@ requirements:
     - python =3.9.21 =h9c0c6dc_1_cpython
 
     # 10 primary packages :
-    - biopython =1.84 =py39hd3abc70_0
+    - biopython =1.85 =py39h8cd3c5a_0
     - matplotlib =3.9.4 =py39hf3d152e_0
     - mdanalysis =2.7.0 =py39hddac248_1
     - numpy =1.26.4 =py39h474f0d3_0
@@ -81,8 +81,8 @@ requirements:
     - gettext =0.22.5 =he02047a_3
     - gettext-tools =0.22.5 =he02047a_3
     - glew =2.1.0 =h9c3ff4c_2
-    - glib =2.82.2 =h44428e9_0
-    - glib-tools =2.82.2 =h4833e2c_0
+    - glib =2.82.2 =h07242d1_1
+    - glib-tools =2.82.2 =h4833e2c_1
     - glm =0.9.9.8 =h00ab1b0_0
     - graphite2 =1.3.13 =h59595ed_1003
     - greenlet =3.1.1 =py39hf88036b_1
@@ -144,7 +144,7 @@ requirements:
     - libgfortran-ng =14.2.0 =h69a702a_1
     - libgfortran5 =14.2.0 =hd5240d6_1
     - libgl =1.7.0 =ha4b6fd6_2
-    - libglib =2.82.2 =h2ff4ddf_0
+    - libglib =2.82.2 =h2ff4ddf_1
     - libglu =9.0.3 =h03adeef_0
     - libglvnd =1.7.0 =ha4b6fd6_2
     - libglx =1.7.0 =ha4b6fd6_2
