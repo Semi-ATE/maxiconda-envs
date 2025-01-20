@@ -70,7 +70,7 @@ requirements:
     - aws-c-sdkutils =0.2.2 =h099ea23_0
     - aws-checksums =0.2.2 =h099ea23_4
     - aws-crt-cpp =0.29.9 =h331aa33_1
-    - aws-sdk-cpp =1.11.458 =h7d73209_6
+    - aws-sdk-cpp =1.11.488 =h7d73209_0
     - bcrypt =4.2.1 =py39h92a245a_0
     - blinker =1.9.0 =pyhff2d567_0
     - bottleneck =1.4.2 =py39h4b0a98a_0
@@ -107,7 +107,7 @@ requirements:
     - cython-blis =1.0.1 =py39h4b0a98a_0
     - databricks-sdk =0.40.0 =pyhd8ed1ab_0
     - datefinder =0.7.3 =pyhd8ed1ab_1
-    - debugpy =1.8.11 =py39ha51f57c_0
+    - debugpy =1.8.12 =py39ha51f57c_0
     - decorator =5.1.1 =pyhd8ed1ab_1
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.2.15 =pyhd8ed1ab_1
@@ -186,10 +186,10 @@ requirements:
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20240722.0 =cxx17_h4eb7d71_4
-    - libarrow =18.1.0 =h3403d70_9_cpu
-    - libarrow-acero =18.1.0 =h7d8d6a5_9_cpu
-    - libarrow-dataset =18.1.0 =h7d8d6a5_9_cpu
-    - libarrow-substrait =18.1.0 =h3dbecdf_9_cpu
+    - libarrow =18.1.0 =hdefaa99_10_cpu
+    - libarrow-acero =18.1.0 =h7d8d6a5_10_cpu
+    - libarrow-dataset =18.1.0 =h7d8d6a5_10_cpu
+    - libarrow-substrait =18.1.0 =h3dbecdf_10_cpu
     - libblas =3.9.0 =26_win64_mkl
     - libboost =1.84.0 =hb0986bb_7
     - libbrotlicommon =1.1.0 =h2466b09_2
@@ -219,7 +219,7 @@ requirements:
     - liblightgbm =4.5.0 =cpu_hb4e115d_3
     - liblzma =5.6.3 =h2466b09_1
     - libogg =1.3.5 =h2466b09_0
-    - libparquet =18.1.0 =ha850022_9_cpu
+    - libparquet =18.1.0 =ha850022_10_cpu
     - libpng =1.6.45 =had7236b_0
     - libprotobuf =5.28.3 =h8309712_1
     - libre2-11 =2024.07.02 =h4eb7d71_2
