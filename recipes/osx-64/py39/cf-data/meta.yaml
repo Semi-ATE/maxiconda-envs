@@ -51,7 +51,7 @@ requirements:
     - aiohappyeyeballs =2.4.4 =pyhd8ed1ab_1
     - aiohttp =3.11.11 =py39hd18e689_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
-    - alembic =1.14.0 =pyhd8ed1ab_1
+    - alembic =1.14.1 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
     - appdirs =1.4.4 =pyhd8ed1ab_1
     - appnope =0.1.4 =pyhd8ed1ab_1
@@ -111,7 +111,7 @@ requirements:
     - cymem =2.0.11 =py39hdf37715_0
     - cyrus-sasl =2.1.27 =hf9bab2b_7
     - cython-blis =0.7.10 =py39hd01001f_2
-    - databricks-sdk =0.40.0 =pyhd8ed1ab_0
+    - databricks-sdk =0.41.0 =pyhd8ed1ab_0
     - debugpy =1.8.12 =py39hdf37715_0
     - decorator =5.1.1 =pyhd8ed1ab_1
     - defusedxml =0.7.1 =pyhd8ed1ab_0
@@ -194,10 +194,10 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20240722.0 =cxx17_h0e468a2_4
-    - libarrow =18.1.0 =h56ae090_9_cpu
-    - libarrow-acero =18.1.0 =ha6338a2_9_cpu
-    - libarrow-dataset =18.1.0 =ha6338a2_9_cpu
-    - libarrow-substrait =18.1.0 =h5c2345d_9_cpu
+    - libarrow =18.1.0 =hc7ff7ea_11_cpu
+    - libarrow-acero =18.1.0 =ha6338a2_11_cpu
+    - libarrow-dataset =18.1.0 =ha6338a2_11_cpu
+    - libarrow-substrait =18.1.0 =h5c2345d_11_cpu
     - libblas =3.9.0 =20_osx64_mkl
     - libboost =1.84.0 =hf0da243_7
     - libbrotlicommon =1.1.0 =h00291cd_2
@@ -237,7 +237,7 @@ requirements:
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =hfdf4475_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =18.1.0 =h3e22b07_9_cpu
+    - libparquet =18.1.0 =h3e22b07_11_cpu
     - libpng =1.6.45 =h3c4a55f_0
     - libpq =17.2 =h639cf83_1
     - libprotobuf =5.28.3 =h6401091_1
@@ -249,7 +249,7 @@ requirements:
     - libthrift =0.21.0 =h75589b3_0
     - libtiff =4.7.0 =hb77a491_3
     - libtorch =2.5.1 =cpu_mkl_h89b0757_109
-    - libutf8proc =2.9.0 =h6e16a3a_1
+    - libutf8proc =2.10.0 =h777c5d8_0
     - libuv =1.50.0 =h4cb831e_0
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp-base =1.5.0 =h6cf52b4_0
@@ -321,7 +321,7 @@ requirements:
     - prometheus_flask_exporter =0.23.1 =pyhd8ed1ab_1
     - prompt-toolkit =3.0.48 =pyha770c72_1
     - propcache =0.2.1 =py39h80efdc8_0
-    - protego =0.3.1 =pyhd8ed1ab_1
+    - protego =0.4.0 =pyhd8ed1ab_0
     - protobuf =5.28.3 =py39hdf37715_0
     - psutil =6.1.1 =py39h80efdc8_0
     - pthread-stubs =0.4 =h00291cd_1002

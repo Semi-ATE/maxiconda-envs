@@ -51,7 +51,7 @@ requirements:
     - aiohappyeyeballs =2.4.4 =pyhd8ed1ab_1
     - aiohttp =3.11.11 =py39hf73967f_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
-    - alembic =1.14.0 =pyhd8ed1ab_1
+    - alembic =1.14.1 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
     - appdirs =1.4.4 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -70,7 +70,7 @@ requirements:
     - aws-c-sdkutils =0.2.2 =h099ea23_0
     - aws-checksums =0.2.2 =h099ea23_4
     - aws-crt-cpp =0.29.9 =h331aa33_1
-    - aws-sdk-cpp =1.11.488 =h7d73209_0
+    - aws-sdk-cpp =1.11.458 =h7d73209_6
     - bcrypt =4.2.1 =py39h92a245a_0
     - blinker =1.9.0 =pyhff2d567_0
     - bottleneck =1.4.2 =py39h4b0a98a_0
@@ -105,7 +105,7 @@ requirements:
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cymem =2.0.11 =py39ha51f57c_0
     - cython-blis =1.0.1 =py39h4b0a98a_0
-    - databricks-sdk =0.40.0 =pyhd8ed1ab_0
+    - databricks-sdk =0.41.0 =pyhd8ed1ab_0
     - datefinder =0.7.3 =pyhd8ed1ab_1
     - debugpy =1.8.12 =py39ha51f57c_0
     - decorator =5.1.1 =pyhd8ed1ab_1
@@ -186,10 +186,10 @@ requirements:
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20240722.0 =cxx17_h4eb7d71_4
-    - libarrow =18.1.0 =hdefaa99_10_cpu
-    - libarrow-acero =18.1.0 =h7d8d6a5_10_cpu
-    - libarrow-dataset =18.1.0 =h7d8d6a5_10_cpu
-    - libarrow-substrait =18.1.0 =h3dbecdf_10_cpu
+    - libarrow =18.1.0 =h5d8f7e9_11_cpu
+    - libarrow-acero =18.1.0 =h7d8d6a5_11_cpu
+    - libarrow-dataset =18.1.0 =h7d8d6a5_11_cpu
+    - libarrow-substrait =18.1.0 =h3dbecdf_11_cpu
     - libblas =3.9.0 =26_win64_mkl
     - libboost =1.84.0 =hb0986bb_7
     - libbrotlicommon =1.1.0 =h2466b09_2
@@ -219,7 +219,7 @@ requirements:
     - liblightgbm =4.5.0 =cpu_hb4e115d_3
     - liblzma =5.6.3 =h2466b09_1
     - libogg =1.3.5 =h2466b09_0
-    - libparquet =18.1.0 =ha850022_10_cpu
+    - libparquet =18.1.0 =ha850022_11_cpu
     - libpng =1.6.45 =had7236b_0
     - libprotobuf =5.28.3 =h8309712_1
     - libre2-11 =2024.07.02 =h4eb7d71_2
@@ -228,7 +228,7 @@ requirements:
     - libssh2 =1.11.1 =he619c9f_0
     - libthrift =0.21.0 =hbe90ef8_0
     - libtiff =4.7.0 =h797046b_3
-    - libutf8proc =2.9.0 =h2466b09_1
+    - libutf8proc =2.10.0 =hf9b99b7_0
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp-base =1.5.0 =h3b0e114_0
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_9
@@ -291,7 +291,7 @@ requirements:
     - prometheus_flask_exporter =0.23.1 =pyhd8ed1ab_1
     - prompt-toolkit =3.0.48 =pyha770c72_1
     - propcache =0.2.1 =py39ha55e580_0
-    - protego =0.3.1 =pyhd8ed1ab_1
+    - protego =0.4.0 =pyhd8ed1ab_0
     - protobuf =5.28.3 =py39ha51f57c_0
     - psutil =6.1.1 =py39ha55e580_0
     - pthread-stubs =0.4 =h0e40799_1002

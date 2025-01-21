@@ -27,7 +27,7 @@ requirements:
     # 9 primary packages :
     - cython =3.0.11 =py312hdfe4e29_3
     - matplotlib =3.10.0 =py312h8025657_0
-    - numpy =2.2.1 =py312h4dce2f2_0
+    - numpy =2.2.2 =py312hce01fe4_0
     - pandas =2.2.3 =py312ha2895bd_2
     - pyqt =5.15.9 =py312hd46c331_5
     - pyqtwebengine =5.15.9 =py312h47c9644_5
@@ -56,8 +56,8 @@ requirements:
     - beautifulsoup4 =4.12.3 =pyha770c72_1
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =24.10.0 =py312h996f985_0
-    - bleach =6.2.0 =pyhd8ed1ab_3
-    - bleach-with-css =6.2.0 =hd8ed1ab_3
+    - bleach =6.2.0 =pyh29332c3_4
+    - bleach-with-css =6.2.0 =h82add2a_4
     - brotli =1.1.0 =h86ecc28_2
     - brotli-bin =1.1.0 =h86ecc28_2
     - brotli-python =1.1.0 =py312h6f74592_2
