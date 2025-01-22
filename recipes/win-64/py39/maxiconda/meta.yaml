@@ -45,7 +45,7 @@ requirements:
     - pyqt =5.15.9 =py39hb77abff_5
     - pyserial =3.5 =pyhd8ed1ab_1
     - pytest =8.3.4 =pyhd8ed1ab_1
-    - pyyaml =6.0.2 =py39ha55e580_1
+    - pyyaml =6.0.2 =py39hf73967f_2
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.3.1 =pyh9208f05_1
     - r-base =4.4.2 =h4b0a3a2_2
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_1
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 442 secondary packages :
+    # 441 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.4 =pyhd8ed1ab_1
@@ -118,7 +118,7 @@ requirements:
     - fontconfig =2.15.0 =h765892d_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.55.3 =py39hf73967f_1
+    - fonttools =4.55.4 =py39hf73967f_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.12.1 =hdaf720e_2
     - fribidi =1.0.10 =h8d14728_0
@@ -142,7 +142,7 @@ requirements:
     - hyperframe =6.0.1 =pyhd8ed1ab_1
     - icu =75.1 =he0c23c2_0
     - idna =3.10 =pyhd8ed1ab_1
-    - importlib-metadata =8.5.0 =pyha770c72_1
+    - importlib-metadata =8.6.1 =pyha770c72_0
     - importlib-resources =6.5.2 =pyhd8ed1ab_0
     - importlib_resources =6.5.2 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_1
@@ -248,7 +248,7 @@ requirements:
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
     - prometheus_client =0.21.1 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.48 =pyha770c72_1
+    - prompt-toolkit =3.0.50 =pyha770c72_0
     - propcache =0.2.1 =py39ha55e580_0
     - pthread-stubs =0.4 =h0e40799_1002
     - pure_eval =0.2.3 =pyhd8ed1ab_1
@@ -300,7 +300,7 @@ requirements:
     - r-crayon =1.5.3 =r44hc72bb7e_1
     - r-crul =1.5.0 =r44h785f33e_0
     - r-curl =6.0.1 =r44h97788c5_0
-    - r-data.table =1.15.4 =r44h3d7605b_1
+    - r-data.table =1.16.4 =r44h3d7605b_0
     - r-dbi =1.2.3 =r44hc72bb7e_1
     - r-dbplyr =2.5.0 =r44hc72bb7e_1
     - r-diagram =1.6.5 =r44ha770c72_3
@@ -504,7 +504,6 @@ requirements:
     - yarl =1.18.3 =py39ha55e580_0
     - zeromq =4.3.5 =ha9f60a1_7
     - zipp =3.21.0 =pyhd8ed1ab_1
-    - zlib =1.3.1 =h2466b09_2
     - zstandard =0.23.0 =py39h9bf74da_1
     - zstd =1.5.6 =h0ea2cb4_0
 
