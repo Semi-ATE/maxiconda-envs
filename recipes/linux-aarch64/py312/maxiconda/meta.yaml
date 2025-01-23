@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.0.0 =py312hb2c0f52_0
     - cython =3.0.11 =py312hdfe4e29_3
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.124.1 =pyha770c72_0
+    - hypothesis =6.124.2 =pyha770c72_0
     - ipython =8.31.0 =pyh707e725_0
     - jinja2 =3.1.5 =pyhd8ed1ab_0
     - matplotlib =3.10.0 =py312h8025657_0
@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.2 =unix_pyh707e725_0
     - sqlalchemy =2.0.37 =py312h52516f5_0
-    - sqlite =3.48.0 =h578a6b9_0
+    - sqlite =3.48.0 =h578a6b9_1
     - sympy =1.13.3 =pyh2585a3b_105
     - tqdm =4.67.1 =pyhd8ed1ab_1
     - transitions =0.9.2 =pyhd8ed1ab_1
@@ -234,7 +234,7 @@ requirements:
     - libsanitizer =14.2.0 =hff26f3d_1
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.20 =h68df207_0
-    - libsqlite =3.48.0 =h5eb1b54_0
+    - libsqlite =3.48.0 =h5eb1b54_1
     - libssh2 =1.11.1 =ha41c0db_0
     - libstdcxx =14.2.0 =h3f4de04_1
     - libstdcxx-devel_linux-aarch64 =14.2.0 =h46490cb_101
@@ -313,7 +313,7 @@ requirements:
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
     - python-fastjsonschema =2.21.1 =pyhd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
-    - python-tzdata =2024.2 =pyhd8ed1ab_1
+    - python-tzdata =2025.1 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.12 =5_cp312
     - pytz =2024.1 =pyhd8ed1ab_0
@@ -571,7 +571,7 @@ requirements:
     - xorg-libxxf86vm =1.1.6 =h86ecc28_0
     - xorg-xf86vidmodeproto =2.3.1 =h57736b2_1005
     - yaml =0.2.5 =hf897c2e_2
-    - yarl =1.18.3 =py312hb2c0f52_0
+    - yarl =1.18.3 =py312hcc812fe_1
     - zeromq =4.3.5 =h5efb499_7
     - zipp =3.21.0 =pyhd8ed1ab_1
     - zstandard =0.23.0 =py312hb698573_1
