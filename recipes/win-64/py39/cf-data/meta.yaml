@@ -70,7 +70,7 @@ requirements:
     - aws-c-sdkutils =0.2.2 =h099ea23_0
     - aws-checksums =0.2.2 =h099ea23_4
     - aws-crt-cpp =0.29.9 =he488853_2
-    - aws-sdk-cpp =1.11.458 =h7d73209_6
+    - aws-sdk-cpp =1.11.489 =h7d73209_0
     - bcrypt =4.2.1 =py39h92a245a_0
     - blinker =1.9.0 =pyhff2d567_0
     - bottleneck =1.4.2 =py39h4b0a98a_0
@@ -128,7 +128,7 @@ requirements:
     - fonttools =4.55.4 =py39hf73967f_0
     - freetype =2.12.1 =hdaf720e_2
     - fribidi =1.0.10 =h8d14728_0
-    - frozenlist =1.5.0 =py39ha55e580_0
+    - frozenlist =1.5.0 =py39hf73967f_1
     - fst-pso =1.8.1 =pyhd8ed1ab_0
     - funcy =2.0 =pyhd8ed1ab_1
     - future =1.0.0 =pyhd8ed1ab_1
@@ -139,7 +139,7 @@ requirements:
     - gitpython =3.1.44 =pyhff2d567_0
     - glib =2.82.2 =h3d4babf_1
     - glib-tools =2.82.2 =h4394cf3_1
-    - google-auth =2.37.0 =pyhd8ed1ab_0
+    - google-auth =2.38.0 =pyhd8ed1ab_0
     - graphene =3.4.3 =pyhd8ed1ab_1
     - graphite2 =1.3.13 =h63175ca_1003
     - graphql-core =3.2.5 =pyhd8ed1ab_1
@@ -151,9 +151,9 @@ requirements:
     - gts =0.7.6 =h6b5321d_4
     - h2 =4.1.0 =pyhd8ed1ab_1
     - harfbuzz =10.2.0 =h885c0d4_0
-    - hpack =4.0.0 =pyhd8ed1ab_1
+    - hpack =4.1.0 =pyhd8ed1ab_0
     - htmlmin =0.1.12 =pyhca7485f_2
-    - hyperframe =6.0.1 =pyhd8ed1ab_1
+    - hyperframe =6.1.0 =pyhd8ed1ab_0
     - hyperlink =21.0.0 =pyh29332c3_1
     - icu =75.1 =he0c23c2_0
     - idna =3.10 =pyhd8ed1ab_1
@@ -186,10 +186,10 @@ requirements:
     - lcms2 =2.16 =h67d730c_0
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20240722.0 =cxx17_h4eb7d71_4
-    - libarrow =18.1.0 =h85fe113_12_cpu
-    - libarrow-acero =18.1.0 =h7d8d6a5_12_cpu
-    - libarrow-dataset =18.1.0 =h7d8d6a5_12_cpu
-    - libarrow-substrait =18.1.0 =h3dbecdf_12_cpu
+    - libarrow =18.1.0 =hc3bbc16_13_cpu
+    - libarrow-acero =18.1.0 =h7d8d6a5_13_cpu
+    - libarrow-dataset =18.1.0 =h7d8d6a5_13_cpu
+    - libarrow-substrait =18.1.0 =h3dbecdf_13_cpu
     - libblas =3.9.0 =26_win64_mkl
     - libboost =1.84.0 =hb0986bb_7
     - libbrotlicommon =1.1.0 =h2466b09_2
@@ -219,7 +219,7 @@ requirements:
     - liblightgbm =4.5.0 =cpu_hb4e115d_3
     - liblzma =5.6.3 =h2466b09_1
     - libogg =1.3.5 =h2466b09_0
-    - libparquet =18.1.0 =ha850022_12_cpu
+    - libparquet =18.1.0 =ha850022_13_cpu
     - libpng =1.6.45 =had7236b_0
     - libprotobuf =5.28.3 =h8309712_1
     - libre2-11 =2024.07.02 =h4eb7d71_2
@@ -290,7 +290,7 @@ requirements:
     - prometheus_client =0.21.1 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.23.1 =pyhd8ed1ab_1
     - prompt-toolkit =3.0.50 =pyha770c72_0
-    - propcache =0.2.1 =py39ha55e580_0
+    - propcache =0.2.1 =py39hf73967f_1
     - protego =0.4.0 =pyhd8ed1ab_0
     - protobuf =5.28.3 =py39ha51f57c_0
     - psutil =6.1.1 =py39ha55e580_0
@@ -385,10 +385,10 @@ requirements:
     - umap-learn =0.5.7 =py39hcbf5309_0
     - unicodedata2 =16.0.0 =py39ha55e580_0
     - urllib3 =2.3.0 =pyhd8ed1ab_0
-    - vc =14.3 =ha32ba9b_23
-    - vc14_runtime =14.42.34433 =he29a5d6_23
+    - vc =14.3 =h5fd82a7_24
+    - vc14_runtime =14.42.34433 =h6356254_24
     - visions =0.7.1 =pyhd8ed1ab_0
-    - vs2015_runtime =14.42.34433 =hdffcdeb_23
+    - vs2015_runtime =14.42.34433 =hfef2bbc_24
     - w3lib =2.2.1 =pyhd8ed1ab_1
     - waitress =2.1.2 =pyhd8ed1ab_0
     - wasabi =1.1.2 =py39hcbf5309_1

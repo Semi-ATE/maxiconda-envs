@@ -99,7 +99,7 @@ requirements:
     - fonts-conda-forge =1 =0
     - fonttools =4.55.4 =py39hf73967f_0
     - freetype =2.12.1 =hdaf720e_2
-    - frozenlist =1.5.0 =py39ha55e580_0
+    - frozenlist =1.5.0 =py39hf73967f_1
     - fzf =0.58.0 =h86e1c39_0
     - glib =2.82.2 =h3d4babf_1
     - glib-tools =2.82.2 =h4394cf3_1
@@ -108,8 +108,8 @@ requirements:
     - gstreamer =1.24.7 =h5006eae_0
     - h2 =4.1.0 =pyhd8ed1ab_1
     - harfbuzz =10.2.0 =h885c0d4_0
-    - hpack =4.0.0 =pyhd8ed1ab_1
-    - hyperframe =6.0.1 =pyhd8ed1ab_1
+    - hpack =4.1.0 =pyhd8ed1ab_0
+    - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =75.1 =he0c23c2_0
     - idna =3.10 =pyhd8ed1ab_1
     - imagesize =1.4.1 =pyhd8ed1ab_0
@@ -209,7 +209,7 @@ requirements:
     - pluggy =1.5.0 =pyhd8ed1ab_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.50 =pyha770c72_0
-    - propcache =0.2.1 =py39ha55e580_0
+    - propcache =0.2.1 =py39hf73967f_1
     - psutil =6.1.1 =py39ha55e580_0
     - pthread-stubs =0.4 =h0e40799_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
@@ -300,9 +300,9 @@ requirements:
     - ujson =5.10.0 =py39ha51f57c_1
     - unicodedata2 =16.0.0 =py39ha55e580_0
     - urllib3 =2.3.0 =pyhd8ed1ab_0
-    - vc =14.3 =ha32ba9b_23
-    - vc14_runtime =14.42.34433 =he29a5d6_23
-    - vs2015_runtime =14.42.34433 =hdffcdeb_23
+    - vc =14.3 =h5fd82a7_24
+    - vc14_runtime =14.42.34433 =h6356254_24
+    - vs2015_runtime =14.42.34433 =hfef2bbc_24
     - watchdog =6.0.0 =py39hcbf5309_0
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - webencodings =0.5.1 =pyhd8ed1ab_3

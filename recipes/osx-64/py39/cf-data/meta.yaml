@@ -72,7 +72,7 @@ requirements:
     - aws-c-sdkutils =0.2.2 =hc0df2db_0
     - aws-checksums =0.2.2 =hc0df2db_4
     - aws-crt-cpp =0.29.9 =h5c43303_2
-    - aws-sdk-cpp =1.11.458 =h904bc55_6
+    - aws-sdk-cpp =1.11.489 =h904bc55_0
     - azure-core-cpp =1.14.0 =h9a36307_0
     - azure-identity-cpp =1.10.0 =ha4e2ba9_0
     - azure-storage-blobs-cpp =12.13.0 =h3d2f5f1_1
@@ -132,7 +132,7 @@ requirements:
     - fonttools =4.55.4 =py39hd18e689_0
     - freetype =2.12.1 =h60636b9_2
     - fribidi =1.0.10 =hbcb3906_0
-    - frozenlist =1.5.0 =py39h296a897_0
+    - frozenlist =1.5.0 =py39hd18e689_1
     - fsspec =2024.12.0 =pyhd8ed1ab_0
     - funcy =2.0 =pyhd8ed1ab_1
     - future =1.0.0 =pyhd8ed1ab_1
@@ -146,7 +146,7 @@ requirements:
     - glog =0.7.1 =h2790a97_0
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.1.5 =py39h127c8af_3
-    - google-auth =2.37.0 =pyhd8ed1ab_0
+    - google-auth =2.38.0 =pyhd8ed1ab_0
     - graphene =3.4.3 =pyhd8ed1ab_1
     - graphite2 =1.3.13 =h73e2aa4_1003
     - graphql-core =3.2.5 =pyhd8ed1ab_1
@@ -160,9 +160,9 @@ requirements:
     - gunicorn =22.0.0 =py39h6e9494a_0
     - h2 =4.1.0 =pyhd8ed1ab_1
     - harfbuzz =10.2.0 =h5b25545_0
-    - hpack =4.0.0 =pyhd8ed1ab_1
+    - hpack =4.1.0 =pyhd8ed1ab_0
     - htmlmin =0.1.12 =pyhca7485f_2
-    - hyperframe =6.0.1 =pyhd8ed1ab_1
+    - hyperframe =6.1.0 =pyhd8ed1ab_0
     - hyperlink =21.0.0 =pyh29332c3_1
     - icu =75.1 =h120a0e1_0
     - idna =3.10 =pyhd8ed1ab_1
@@ -194,10 +194,10 @@ requirements:
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20240722.0 =cxx17_h0e468a2_4
-    - libarrow =18.1.0 =h36d682d_12_cpu
-    - libarrow-acero =18.1.0 =ha6338a2_12_cpu
-    - libarrow-dataset =18.1.0 =ha6338a2_12_cpu
-    - libarrow-substrait =18.1.0 =h5c2345d_12_cpu
+    - libarrow =18.1.0 =h553eae1_13_cpu
+    - libarrow-acero =18.1.0 =ha6338a2_13_cpu
+    - libarrow-dataset =18.1.0 =ha6338a2_13_cpu
+    - libarrow-substrait =18.1.0 =h5c2345d_13_cpu
     - libblas =3.9.0 =20_osx64_mkl
     - libboost =1.84.0 =hf0da243_7
     - libbrotlicommon =1.1.0 =h00291cd_2
@@ -237,7 +237,7 @@ requirements:
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =hfdf4475_0
     - libopus =1.3.1 =hc929b4f_1
-    - libparquet =18.1.0 =h3e22b07_12_cpu
+    - libparquet =18.1.0 =h3e22b07_13_cpu
     - libpng =1.6.45 =h3c4a55f_0
     - libpq =17.2 =h639cf83_1
     - libprotobuf =5.28.3 =h6401091_1
@@ -320,7 +320,7 @@ requirements:
     - prometheus_client =0.21.1 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.23.1 =pyhd8ed1ab_1
     - prompt-toolkit =3.0.50 =pyha770c72_0
-    - propcache =0.2.1 =py39h80efdc8_0
+    - propcache =0.2.1 =py39hd18e689_1
     - protego =0.4.0 =pyhd8ed1ab_0
     - protobuf =5.28.3 =py39hdf37715_0
     - psutil =6.1.1 =py39h80efdc8_0

@@ -104,7 +104,7 @@ requirements:
     - fonts-conda-forge =1 =0
     - fonttools =4.55.4 =py310heeae437_0
     - freetype =2.12.1 =hf0a5ef3_2
-    - frozenlist =1.5.0 =py310ha766c32_0
+    - frozenlist =1.5.0 =py310heeae437_1
     - fzf =0.58.0 =h56f8b8a_0
     - gettext =0.22.5 =h0a1ffab_3
     - gettext-tools =0.22.5 =h0a1ffab_3
@@ -118,8 +118,8 @@ requirements:
     - gstreamer =1.24.7 =h37d20eb_0
     - h2 =4.1.0 =pyhd8ed1ab_1
     - harfbuzz =9.0.0 =hbf49d6b_1
-    - hpack =4.0.0 =pyhd8ed1ab_1
-    - hyperframe =6.0.1 =pyhd8ed1ab_1
+    - hpack =4.1.0 =pyhd8ed1ab_0
+    - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =75.1 =hf9b3779_0
     - idna =3.10 =pyhd8ed1ab_1
     - imagesize =1.4.1 =pyhd8ed1ab_0
@@ -261,7 +261,7 @@ requirements:
     - pluggy =1.5.0 =pyhd8ed1ab_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.50 =pyha770c72_0
-    - propcache =0.2.1 =py310ha766c32_0
+    - propcache =0.2.1 =py310heeae437_1
     - psutil =6.1.1 =py310ha766c32_0
     - pthread-stubs =0.4 =h86ecc28_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1

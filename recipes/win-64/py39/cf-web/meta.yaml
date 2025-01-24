@@ -65,8 +65,8 @@ requirements:
     - gst-plugins-base =1.24.7 =hb0a98b8_0
     - gstreamer =1.24.7 =h5006eae_0
     - h2 =4.1.0 =pyhd8ed1ab_1
-    - hpack =4.0.0 =pyhd8ed1ab_1
-    - hyperframe =6.0.1 =pyhd8ed1ab_1
+    - hpack =4.1.0 =pyhd8ed1ab_0
+    - hyperframe =6.1.0 =pyhd8ed1ab_0
     - hyperlink =21.0.0 =pyh29332c3_1
     - icu =75.1 =he0c23c2_0
     - idna =3.10 =pyhd8ed1ab_1
@@ -137,9 +137,9 @@ requirements:
     - tzdata =2025a =h78e105d_0
     - ucrt =10.0.22621.0 =h57928b3_1
     - urllib3 =2.3.0 =pyhd8ed1ab_0
-    - vc =14.3 =ha32ba9b_23
-    - vc14_runtime =14.42.34433 =he29a5d6_23
-    - vs2015_runtime =14.42.34433 =hdffcdeb_23
+    - vc =14.3 =h5fd82a7_24
+    - vc14_runtime =14.42.34433 =h6356254_24
+    - vs2015_runtime =14.42.34433 =hfef2bbc_24
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
     - win_inet_pton =1.1.0 =pyh7428d3b_8

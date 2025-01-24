@@ -90,7 +90,7 @@ requirements:
     - flake8 =7.1.1 =pyhd8ed1ab_1
     - fonttools =4.55.4 =py311ha3cf9ac_0
     - freetype =2.12.1 =h60636b9_2
-    - frozenlist =1.5.0 =py311h1314207_0
+    - frozenlist =1.5.0 =py311ha3cf9ac_1
     - fzf =0.58.0 =he954eb5_0
     - giflib =5.2.2 =h10d778d_0
     - glib =2.82.2 =h915cd9b_1
@@ -100,8 +100,8 @@ requirements:
     - gst-plugins-base =1.24.7 =h0ee1d58_0
     - gstreamer =1.24.7 =h3271b85_0
     - h2 =4.1.0 =pyhd8ed1ab_1
-    - hpack =4.0.0 =pyhd8ed1ab_1
-    - hyperframe =6.0.1 =pyhd8ed1ab_1
+    - hpack =4.1.0 =pyhd8ed1ab_0
+    - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =75.1 =h120a0e1_0
     - idna =3.10 =pyhd8ed1ab_1
     - imagesize =1.4.1 =pyhd8ed1ab_0
@@ -212,7 +212,7 @@ requirements:
     - pluggy =1.5.0 =pyhd8ed1ab_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.50 =pyha770c72_0
-    - propcache =0.2.1 =py311h4d7f069_0
+    - propcache =0.2.1 =py311ha3cf9ac_1
     - psutil =6.1.1 =py311h4d7f069_0
     - pthread-stubs =0.4 =h00291cd_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
