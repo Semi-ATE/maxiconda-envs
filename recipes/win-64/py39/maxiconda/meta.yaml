@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.0.0 =py39ha55e580_0
     - cython =3.0.11 =py39h4279646_3
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.124.2 =pyha770c72_0
+    - hypothesis =6.124.5 =pyha770c72_0
     - ipython =8.18.1 =pyh7428d3b_3
     - jinja2 =3.1.5 =pyhd8ed1ab_0
     - matplotlib =3.9.4 =py39hcbf5309_0
@@ -77,7 +77,7 @@ requirements:
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - async-lru =2.0.4 =pyhd8ed1ab_1
     - async-timeout =5.0.1 =pyhd8ed1ab_1
-    - attrs =24.3.0 =pyh71513ae_0
+    - attrs =25.1.0 =pyh71513ae_0
     - babel =2.16.0 =pyhd8ed1ab_1
     - binutils_impl_win-64 =2.43 =h095e170_2
     - bleach =6.2.0 =pyh29332c3_4
@@ -118,7 +118,7 @@ requirements:
     - fontconfig =2.15.0 =h765892d_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.55.5 =py39hf73967f_0
+    - fonttools =4.55.6 =py39hf73967f_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.12.1 =hdaf720e_2
     - fribidi =1.0.10 =h8d14728_0
@@ -174,7 +174,7 @@ requirements:
     - libbrotlidec =1.1.0 =h2466b09_2
     - libbrotlienc =1.1.0 =h2466b09_2
     - libcblas =3.9.0 =26_win64_mkl
-    - libclang13 =19.1.7 =default_ha5278ca_0
+    - libclang13 =19.1.7 =default_ha5278ca_1
     - libcurl =8.11.1 =h88aaa65_0
     - libdeflate =1.23 =h9062f6e_0
     - libexpat =2.6.4 =he0c23c2_0
@@ -194,7 +194,7 @@ requirements:
     - liblzma =5.6.3 =h2466b09_1
     - libnghttp2 =1.64.0 =he0c23c2_0
     - libogg =1.3.5 =h2466b09_0
-    - libpng =1.6.45 =had7236b_0
+    - libpng =1.6.46 =had7236b_0
     - libsodium =1.0.20 =hc70643c_0
     - libsqlite =3.48.0 =h67fdade_1
     - libssh2 =1.11.1 =he619c9f_0
@@ -364,7 +364,7 @@ requirements:
     - r-magrittr =2.0.3 =r44h11b023d_3
     - r-maps =3.4.2.1 =r44h11b023d_0
     - r-mass =7.3_64 =r44h11b023d_0
-    - r-matrix =1.6_5 =r44h05aa911_1
+    - r-matrix =1.7_2 =r44h412cb52_0
     - r-memoise =2.0.1 =r44hc72bb7e_3
     - r-mgcv =1.9_1 =r44h05aa911_1
     - r-mime =0.12 =r44h11b023d_3
@@ -452,7 +452,7 @@ requirements:
     - r-yaml =2.3.10 =r44h11b023d_0
     - r-zoo =1.8_12 =r44h11b023d_2
     - rapidfuzz =3.11.0 =py39ha51f57c_0
-    - referencing =0.36.1 =pyhd8ed1ab_0
+    - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rpds-py =0.22.3 =py39h92a245a_0

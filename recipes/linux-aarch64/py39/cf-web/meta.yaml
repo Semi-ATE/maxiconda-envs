@@ -42,7 +42,7 @@ requirements:
     - asgiref =3.8.1 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - attr =2.5.1 =h4e544f5_1
-    - attrs =24.3.0 =pyh71513ae_0
+    - attrs =25.1.0 =pyh71513ae_0
     - automat =24.8.1 =pyhd8ed1ab_1
     - backports.zoneinfo =0.2.1 =py39h4420490_9
     - bcrypt =4.2.1 =py39h9386928_0
@@ -56,7 +56,7 @@ requirements:
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_1
     - constantly =15.1.0 =py_0
-    - cryptography =44.0.0 =py39h11f9b69_0
+    - cryptography =44.0.0 =py39h11f9b69_1
     - cyrus-sasl =2.1.27 =hf6b2984_7
     - dbus =1.13.6 =h12b9eeb_3
     - debugpy =1.8.12 =py39h7dbf29c_0
@@ -101,8 +101,8 @@ requirements:
     - libasprintf =0.22.5 =h87f4aca_3
     - libasprintf-devel =0.22.5 =h87f4aca_3
     - libcap =2.71 =h51d75a7_0
-    - libclang-cpp19.1 =19.1.7 =default_he324ac1_0
-    - libclang13 =19.1.7 =default_h4390ef5_0
+    - libclang-cpp19.1 =19.1.7 =default_he324ac1_1
+    - libclang13 =19.1.7 =default_h4390ef5_1
     - libcups =2.3.3 =h405e4a8_4
     - libdrm =2.4.124 =h86ecc28_0
     - libedit =3.1.20240808 =pl5321h976ea20_0
@@ -124,14 +124,14 @@ requirements:
     - libgpg-error =1.51 =h05609ea_1
     - libiconv =1.17 =h31becfc_2
     - libjpeg-turbo =3.0.0 =h31becfc_1
-    - libllvm19 =19.1.7 =h2edbd07_0
+    - libllvm19 =19.1.7 =h2edbd07_1
     - liblzma =5.6.3 =h86ecc28_1
     - libnsl =2.0.1 =h31becfc_0
     - libntlm =1.4 =hf897c2e_1002
     - libogg =1.3.5 =h0b9eccb_0
     - libopus =1.3.1 =hf897c2e_1
     - libpciaccess =0.18 =h31becfc_0
-    - libpng =1.6.45 =hec79eb8_0
+    - libpng =1.6.46 =hec79eb8_0
     - libpq =17.2 =hd56632b_1
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.20 =h68df207_0

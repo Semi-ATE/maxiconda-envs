@@ -65,7 +65,7 @@ requirements:
     - fontconfig =2.15.0 =h8dda3cd_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.55.5 =py39hbebea31_0
+    - fonttools =4.55.6 =py39hbebea31_0
     - freetype =2.12.1 =hf0a5ef3_2
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.22.5 =h0a1ffab_3
@@ -103,8 +103,8 @@ requirements:
     - libbrotlienc =1.1.0 =h86ecc28_2
     - libcap =2.71 =h51d75a7_0
     - libcblas =3.9.0 =26_linuxaarch64_openblas
-    - libclang-cpp19.1 =19.1.7 =default_he324ac1_0
-    - libclang13 =19.1.7 =default_h4390ef5_0
+    - libclang-cpp19.1 =19.1.7 =default_he324ac1_1
+    - libclang13 =19.1.7 =default_h4390ef5_1
     - libcups =2.3.3 =h405e4a8_4
     - libdeflate =1.23 =h5e3c512_0
     - libdrm =2.4.124 =h86ecc28_0
@@ -131,7 +131,7 @@ requirements:
     - libiconv =1.17 =h31becfc_2
     - libjpeg-turbo =3.0.0 =h31becfc_1
     - liblapack =3.9.0 =26_linuxaarch64_openblas
-    - libllvm19 =19.1.7 =h2edbd07_0
+    - libllvm19 =19.1.7 =h2edbd07_1
     - liblzma =5.6.3 =h86ecc28_1
     - libnsl =2.0.1 =h31becfc_0
     - libntlm =1.4 =hf897c2e_1002
@@ -140,7 +140,7 @@ requirements:
     - libopengl =1.7.0 =hd24410f_2
     - libopus =1.3.1 =hf897c2e_1
     - libpciaccess =0.18 =h31becfc_0
-    - libpng =1.6.45 =hec79eb8_0
+    - libpng =1.6.46 =hec79eb8_0
     - libpq =17.2 =hd56632b_1
     - librdkit =2024.09.4 =h568aa26_0
     - libsndfile =1.2.2 =h79657aa_1

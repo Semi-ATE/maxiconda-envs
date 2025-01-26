@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.0.0 =py310ha75aee5_0
     - cython =3.0.11 =py310h5b1441d_3
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.124.2 =pyha770c72_0
+    - hypothesis =6.124.5 =pyha770c72_0
     - ipython =8.31.0 =pyh707e725_0
     - jinja2 =3.1.5 =pyhd8ed1ab_0
     - matplotlib =3.10.0 =py310hff52083_0
@@ -80,7 +80,7 @@ requirements:
     - async-lru =2.0.4 =pyhd8ed1ab_1
     - async-timeout =5.0.1 =pyhd8ed1ab_1
     - attr =2.5.1 =h166bdaf_1
-    - attrs =24.3.0 =pyh71513ae_0
+    - attrs =25.1.0 =pyh71513ae_0
     - babel =2.16.0 =pyhd8ed1ab_1
     - binutils_impl_linux-64 =2.43 =h4bf12b8_2
     - bleach =6.2.0 =pyh29332c3_4
@@ -125,7 +125,7 @@ requirements:
     - fontconfig =2.15.0 =h7e30c49_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.55.5 =py310h89163eb_0
+    - fonttools =4.55.6 =py310h89163eb_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.12.1 =h267a509_2
     - fribidi =1.0.10 =h36c2ea0_0
@@ -189,8 +189,8 @@ requirements:
     - libbrotlienc =1.1.0 =hb9d3cd8_2
     - libcap =2.71 =h39aace5_0
     - libcblas =3.9.0 =26_linux64_openblas
-    - libclang-cpp19.1 =19.1.7 =default_hb5137d0_0
-    - libclang13 =19.1.7 =default_h9c6a7e4_0
+    - libclang-cpp19.1 =19.1.7 =default_hb5137d0_1
+    - libclang13 =19.1.7 =default_h9c6a7e4_1
     - libcups =2.3.3 =h4637d8d_4
     - libcurl =8.11.1 =h332b0f4_0
     - libdeflate =1.23 =h4ddbbb0_0
@@ -221,7 +221,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =26_linux64_openblas
     - libllvm14 =14.0.6 =hcd5def8_4
-    - libllvm19 =19.1.7 =ha7bfdaf_0
+    - libllvm19 =19.1.7 =ha7bfdaf_1
     - liblzma =5.6.3 =hb9d3cd8_1
     - libnghttp2 =1.64.0 =h161d5f1_0
     - libnsl =2.0.1 =hd590300_0
@@ -231,7 +231,7 @@ requirements:
     - libopengl =1.7.0 =ha4b6fd6_2
     - libopus =1.3.1 =h7f98852_1
     - libpciaccess =0.18 =hd590300_0
-    - libpng =1.6.45 =h943b412_0
+    - libpng =1.6.46 =h943b412_0
     - libpq =17.2 =h3b95a9b_1
     - libsanitizer =14.2.0 =h2a3dede_1
     - libsndfile =1.2.2 =hc60ed4a_1
@@ -416,7 +416,7 @@ requirements:
     - r-magrittr =2.0.3 =r44hb1dbf0f_3
     - r-maps =3.4.2.1 =r44h2b5f3a1_0
     - r-mass =7.3_64 =r44h2b5f3a1_0
-    - r-matrix =1.6_5 =r44he966344_1
+    - r-matrix =1.7_2 =r44h2ae2be5_0
     - r-memoise =2.0.1 =r44hc72bb7e_3
     - r-mgcv =1.9_1 =r44h0d28552_1
     - r-mime =0.12 =r44hb1dbf0f_3
@@ -505,7 +505,7 @@ requirements:
     - r-zoo =1.8_12 =r44hb1dbf0f_2
     - rapidfuzz =3.11.0 =py310hf71b8c6_0
     - readline =8.2 =h8228510_1
-    - referencing =0.36.1 =pyhd8ed1ab_0
+    - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rpds-py =0.22.3 =py310h505e2c1_0
