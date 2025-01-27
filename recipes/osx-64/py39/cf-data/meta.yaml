@@ -27,7 +27,7 @@ requirements:
     # 20 primary packages :
     - beautifulsoup4 =4.12.3 =pyha770c72_1
     - bokeh =3.4.2 =pyhd8ed1ab_0
-    - lightgbm =4.5.0 =cpu_py_3
+    - lightgbm =4.5.0 =cpu_py_4
     - matplotlib =3.9.4 =py39h6e9494a_0
     - numpy =1.26.4 =py39h28c39a1_0
     - pandas =2.2.3 =py39h88a5ddd_1
@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.3.6 =pyhd8ed1ab_0
     - pydot =3.0.4 =py39h6e9494a_0
     - pyqt =5.15.9 =py39h3dce684_5
-    - pytorch =2.5.1 =cpu_mkl_py39_h3446ff2_109
+    - pytorch =2.5.1 =cpu_mkl_py39_h3446ff2_110
     - scikit-learn =0.23.2 =py39hcaaab68_3
     - scipy =1.5.3 =py39h3164f57_0
     - scrapy =2.12.0 =py39h6e9494a_1
@@ -228,7 +228,7 @@ requirements:
     - libintl-devel =0.22.5 =hdfe23c8_3
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =20_osx64_mkl
-    - liblightgbm =4.5.0 =cpu_h84bc62d_3
+    - liblightgbm =4.5.0 =cpu_ha9917bc_4
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm19 =19.1.7 =hc29ff6c_1
@@ -248,7 +248,7 @@ requirements:
     - libssh2 =1.11.1 =h3dc7d44_0
     - libthrift =0.21.0 =h75589b3_0
     - libtiff =4.7.0 =hb77a491_3
-    - libtorch =2.5.1 =cpu_mkl_h89b0757_109
+    - libtorch =2.5.1 =cpu_mkl_h786c6a1_110
     - libutf8proc =2.10.0 =h777c5d8_0
     - libuv =1.50.0 =h4cb831e_0
     - libvorbis =1.3.7 =h046ec9c_0
@@ -272,7 +272,7 @@ requirements:
     - mlflow =2.20.0 =h6e9494a_0
     - mlflow-skinny =2.20.0 =py39h6e9494a_0
     - mlflow-ui =2.20.0 =py39h6e9494a_0
-    - mlxtend =0.23.3 =pyhd8ed1ab_0
+    - mlxtend =0.23.4 =pyhd8ed1ab_0
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
     - mpmath =1.3.0 =pyhd8ed1ab_1
@@ -310,7 +310,7 @@ requirements:
     - phik =0.12.3 =py39h29e5701_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.1.0 =py39h1fda9f2_0
-    - pip =24.3.1 =pyh8b19718_2
+    - pip =25.0 =pyh8b19718_0
     - pixman =0.44.2 =h1fd1274_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_2
     - plac =0.9.6 =py_1
