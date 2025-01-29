@@ -35,7 +35,7 @@ requirements:
     - spyder =6.0.3 =osx_pyh1a5313d_1
     - sympy =1.13.3 =pyh2585a3b_105
 
-    # 285 secondary packages :
+    # 284 secondary packages :
     - aiohappyeyeballs =2.4.4 =pyhd8ed1ab_1
     - aiohttp =3.11.11 =py39hefdd603_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
@@ -85,7 +85,6 @@ requirements:
     - dill =0.3.9 =pyhd8ed1ab_1
     - docstring-to-markdown =0.15 =pyhd8ed1ab_1
     - docutils =0.21.2 =pyhd8ed1ab_1
-    - entrypoints =0.4 =pyhd8ed1ab_1
     - exceptiongroup =1.2.2 =pyhd8ed1ab_1
     - executing =2.1.0 =pyhd8ed1ab_1
     - flake8 =7.1.1 =pyhd8ed1ab_1
@@ -113,7 +112,7 @@ requirements:
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.29.5 =pyh57ce528_0
     - ipython =8.18.1 =pyh707e725_3
-    - isort =5.13.2 =pyhd8ed1ab_1
+    - isort =6.0.0 =pyhd8ed1ab_0
     - jaraco.classes =3.4.0 =pyhd8ed1ab_2
     - jaraco.context =6.0.1 =pyhd8ed1ab_0
     - jaraco.functools =4.1.0 =pyhd8ed1ab_0
@@ -130,12 +129,12 @@ requirements:
     - krb5 =1.21.3 =h237132a_0
     - lcms2 =2.16 =ha0e7c42_0
     - lerc =4.0.0 =h9a09cb3_0
-    - libblas =3.9.0 =26_osxarm64_openblas
+    - libblas =3.9.0 =27_h10e41b3_openblas
     - libbrotlicommon =1.1.0 =hd74edd7_2
     - libbrotlidec =1.1.0 =hd74edd7_2
     - libbrotlienc =1.1.0 =hd74edd7_2
-    - libcblas =3.9.0 =26_osxarm64_openblas
-    - libclang-cpp17 =17.0.6 =default_h146c034_7
+    - libcblas =3.9.0 =27_hd702729_openblas
+    - libclang-cpp17 =17.0.6 =default_hf90f093_8
     - libclang13 =19.1.7 =default_h81d93ff_1
     - libcxx =19.1.7 =ha82da77_0
     - libdeflate =1.23 =hec38601_0
@@ -148,7 +147,7 @@ requirements:
     - libintl =0.22.5 =h8414b35_3
     - libintl-devel =0.22.5 =h8414b35_3
     - libjpeg-turbo =3.0.0 =hb547adb_1
-    - liblapack =3.9.0 =26_osxarm64_openblas
+    - liblapack =3.9.0 =27_hc9a63f6_openblas
     - libllvm17 =17.0.6 =hc4b4ae8_3
     - libllvm19 =19.1.7 =hc4b4ae8_1
     - liblzma =5.6.3 =h39f12f2_1
@@ -175,7 +174,7 @@ requirements:
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
-    - mistune =3.1.0 =pyhd8ed1ab_0
+    - mistune =3.1.1 =pyhd8ed1ab_0
     - more-itertools =10.6.0 =pyhd8ed1ab_0
     - mpc =1.3.1 =h8f1351a_1
     - mpfr =4.2.1 =hb693164_3
@@ -186,9 +185,9 @@ requirements:
     - mysql-common =9.0.1 =hd7719f6_4
     - mysql-libs =9.0.1 =ha8be5b7_4
     - nbclient =0.10.2 =pyhd8ed1ab_0
-    - nbconvert =7.16.5 =hd8ed1ab_1
-    - nbconvert-core =7.16.5 =pyhd8ed1ab_1
-    - nbconvert-pandoc =7.16.5 =hd8ed1ab_1
+    - nbconvert =7.16.6 =hb482800_0
+    - nbconvert-core =7.16.6 =pyh29332c3_0
+    - nbconvert-pandoc =7.16.6 =hed9df3c_0
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h5e97a16_2
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
@@ -226,7 +225,7 @@ requirements:
     - pygithub =2.5.0 =pyhd8ed1ab_0
     - pygments =2.19.1 =pyhd8ed1ab_0
     - pyjwt =2.10.1 =pyhd8ed1ab_0
-    - pylint =3.3.3 =pyhd8ed1ab_0
+    - pylint =3.3.4 =pyh29332c3_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.5.0 =py39h06df861_4
