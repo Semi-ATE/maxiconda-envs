@@ -35,8 +35,8 @@ requirements:
     - ipython =8.31.0 =pyh707e725_0
     - jinja2 =3.1.5 =pyhd8ed1ab_0
     - matplotlib =3.10.0 =py312h7900ff3_0
-    - numba =0.60.0 =py312h83e6fd3_0
-    - numpy =2.0.2 =py312h58c1407_1
+    - numba =0.61.0 =py312h2e6246c_0
+    - numpy =2.1.3 =py312h58c1407_0
     - openpyxl =3.1.5 =py312h710cb58_1
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.2.3 =py312hf9745cd_1
@@ -123,7 +123,7 @@ requirements:
     - fontconfig =2.15.0 =h7e30c49_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.55.6 =py312h178313f_0
+    - fonttools =4.55.7 =py312h178313f_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.12.1 =h267a509_2
     - fribidi =1.0.10 =h36c2ea0_0
@@ -168,7 +168,7 @@ requirements:
     - jupyter_events =0.11.0 =pyhd8ed1ab_0
     - jupyter_server =2.15.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_1
-    - jupyterlab =4.3.4 =pyhd8ed1ab_0
+    - jupyterlab =4.3.5 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_1
     - kernel-headers_linux-64 =3.10.0 =he073ed8_18
@@ -181,12 +181,12 @@ requirements:
     - lerc =4.0.0 =h27087fc_0
     - libasprintf =0.22.5 =he8f35ee_3
     - libasprintf-devel =0.22.5 =he8f35ee_3
-    - libblas =3.9.0 =27_h59b9bed_openblas
+    - libblas =3.9.0 =28_h59b9bed_openblas
     - libbrotlicommon =1.1.0 =hb9d3cd8_2
     - libbrotlidec =1.1.0 =hb9d3cd8_2
     - libbrotlienc =1.1.0 =hb9d3cd8_2
     - libcap =2.71 =h39aace5_0
-    - libcblas =3.9.0 =27_h89f5a98_openblas
+    - libcblas =3.9.0 =28_he106b2a_openblas
     - libclang-cpp19.1 =19.1.7 =default_hb5137d0_1
     - libclang13 =19.1.7 =default_h9c6a7e4_1
     - libcups =2.3.3 =h4637d8d_4
@@ -217,8 +217,8 @@ requirements:
     - libgpg-error =1.51 =hbd13f7d_1
     - libiconv =1.17 =hd590300_2
     - libjpeg-turbo =3.0.0 =hd590300_1
-    - liblapack =3.9.0 =27_h7ac8fdf_openblas
-    - libllvm14 =14.0.6 =hcd5def8_4
+    - liblapack =3.9.0 =28_h7ac8fdf_openblas
+    - libllvm15 =15.0.7 =hb3ce162_4
     - libllvm19 =19.1.7 =ha7bfdaf_1
     - liblzma =5.6.3 =hb9d3cd8_1
     - libnghttp2 =1.64.0 =h161d5f1_0
@@ -251,7 +251,7 @@ requirements:
     - libxml2 =2.13.5 =h8d12d68_1
     - libxslt =1.1.39 =h76b75d6_0
     - libzlib =1.3.1 =hb9d3cd8_2
-    - llvmlite =0.43.0 =py312h374181b_1
+    - llvmlite =0.44.0 =py312h374181b_0
     - lz4-c =1.10.0 =h5888daf_1
     - make =4.4.1 =hb9d3cd8_2
     - markupsafe =3.0.2 =py312h178313f_1
@@ -269,7 +269,7 @@ requirements:
     - nbclient =0.10.2 =pyhd8ed1ab_0
     - nbconvert-core =7.16.6 =pyh29332c3_0
     - nbformat =5.10.4 =pyhd8ed1ab_1
-    - ncurses =6.5 =h2d0b736_2
+    - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - notebook =7.3.2 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1

@@ -127,7 +127,7 @@ requirements:
     - fontconfig =2.15.0 =h37eeddb_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.55.6 =py39hd18e689_0
+    - fonttools =4.55.7 =py39hd18e689_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.12.1 =h60636b9_2
     - fribidi =1.0.10 =hbcb3906_0
@@ -171,7 +171,7 @@ requirements:
     - jupyter_events =0.11.0 =pyhd8ed1ab_0
     - jupyter_server =2.15.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_1
-    - jupyterlab =4.3.4 =pyhd8ed1ab_0
+    - jupyterlab =4.3.5 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_1
     - kiwisolver =1.4.7 =py39h0d8d0ca_0
@@ -180,11 +180,11 @@ requirements:
     - ld64_osx-64 =951.9 =h9d2de3d_2
     - lerc =4.0.0 =hb486fe8_0
     - libasprintf =0.22.5 =hdfe23c8_3
-    - libblas =3.9.0 =27_h7f60823_openblas
+    - libblas =3.9.0 =28_h7f60823_openblas
     - libbrotlicommon =1.1.0 =h00291cd_2
     - libbrotlidec =1.1.0 =h00291cd_2
     - libbrotlienc =1.1.0 =h00291cd_2
-    - libcblas =3.9.0 =27_h19d81b9_openblas
+    - libcblas =3.9.0 =28_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang-cpp19.1 =19.1.7 =default_h3571c67_1
     - libclang13 =19.1.7 =default_hf2b7afa_1
@@ -205,7 +205,7 @@ requirements:
     - libintl =0.22.5 =hdfe23c8_3
     - libintl-devel =0.22.5 =hdfe23c8_3
     - libjpeg-turbo =3.0.0 =h0dc2134_1
-    - liblapack =3.9.0 =27_h236ab99_openblas
+    - liblapack =3.9.0 =28_h236ab99_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm19 =19.1.7 =hc29ff6c_1
@@ -246,7 +246,7 @@ requirements:
     - nbclient =0.10.2 =pyhd8ed1ab_0
     - nbconvert-core =7.16.6 =pyh29332c3_0
     - nbformat =5.10.4 =pyhd8ed1ab_1
-    - ncurses =6.5 =h0622a9a_2
+    - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - notebook =7.3.2 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1

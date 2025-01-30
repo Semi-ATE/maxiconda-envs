@@ -88,7 +88,7 @@ requirements:
     - exceptiongroup =1.2.2 =pyhd8ed1ab_1
     - executing =2.1.0 =pyhd8ed1ab_1
     - flake8 =7.1.1 =pyhd8ed1ab_1
-    - fonttools =4.55.6 =py39hd18e689_0
+    - fonttools =4.55.7 =py39hd18e689_0
     - freetype =2.12.1 =h60636b9_2
     - frozenlist =1.5.0 =py39hd18e689_1
     - fzf =0.58.0 =he954eb5_0
@@ -129,11 +129,11 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.16 =ha2f27b4_0
     - lerc =4.0.0 =hb486fe8_0
-    - libblas =3.9.0 =27_h7f60823_openblas
+    - libblas =3.9.0 =28_h7f60823_openblas
     - libbrotlicommon =1.1.0 =h00291cd_2
     - libbrotlidec =1.1.0 =h00291cd_2
     - libbrotlienc =1.1.0 =h00291cd_2
-    - libcblas =3.9.0 =27_h19d81b9_openblas
+    - libcblas =3.9.0 =28_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =19.1.7 =default_hf2b7afa_1
     - libcxx =19.1.7 =hf95d169_0
@@ -147,7 +147,7 @@ requirements:
     - libintl =0.22.5 =hdfe23c8_3
     - libintl-devel =0.22.5 =hdfe23c8_3
     - libjpeg-turbo =3.0.0 =h0dc2134_1
-    - liblapack =3.9.0 =27_h236ab99_openblas
+    - liblapack =3.9.0 =28_h236ab99_openblas
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm19 =19.1.7 =hc29ff6c_1
     - liblzma =5.6.3 =hd471939_1
@@ -189,7 +189,7 @@ requirements:
     - nbconvert-core =7.16.6 =pyh29332c3_0
     - nbconvert-pandoc =7.16.6 =hed9df3c_0
     - nbformat =5.10.4 =pyhd8ed1ab_1
-    - ncurses =6.5 =h0622a9a_2
+    - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.36 =h97d8b74_0
     - nss =3.107 =h81a00e3_0

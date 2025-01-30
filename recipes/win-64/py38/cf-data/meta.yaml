@@ -186,12 +186,12 @@ requirements:
     - libarrow-flight-sql =15.0.2 =hdeef14f_28_cpu
     - libarrow-gandiva =15.0.2 =hc87e867_28_cpu
     - libarrow-substrait =15.0.2 =h1f0e801_28_cpu
-    - libblas =3.9.0 =27_h576b46c_mkl
+    - libblas =3.9.0 =28_h576b46c_mkl
     - libboost =1.84.0 =hb0986bb_7
     - libbrotlicommon =1.1.0 =h2466b09_2
     - libbrotlidec =1.1.0 =h2466b09_2
     - libbrotlienc =1.1.0 =h2466b09_2
-    - libcblas =3.9.0 =27_h9cfd0ba_mkl
+    - libcblas =3.9.0 =28_h7ad3364_mkl
     - libclang13 =19.1.7 =default_ha5278ca_1
     - libcrc32c =1.1.2 =h0e60522_0
     - libcurl =8.11.1 =h88aaa65_0
@@ -209,7 +209,7 @@ requirements:
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
-    - liblapack =3.9.0 =27_hacfb0e4_mkl
+    - liblapack =3.9.0 =28_hacfb0e4_mkl
     - liblightgbm =4.5.0 =cpu_hb4e115d_3
     - liblzma =5.6.3 =h2466b09_1
     - liblzma-devel =5.6.3 =h2466b09_1

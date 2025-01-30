@@ -60,8 +60,8 @@ requirements:
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =4.11.1 =py37hf985489_0
     - krb5 =1.21.3 =h37d8d59_0
-    - libblas =3.9.0 =27_h7f60823_openblas
-    - libcblas =3.9.0 =27_h19d81b9_openblas
+    - libblas =3.9.0 =28_h7f60823_openblas
+    - libcblas =3.9.0 =28_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =19.1.7 =default_hf2b7afa_1
     - libcxx =19.1.7 =hf95d169_0
@@ -74,7 +74,7 @@ requirements:
     - libintl =0.22.5 =hdfe23c8_3
     - libintl-devel =0.22.5 =hdfe23c8_3
     - libjpeg-turbo =3.0.0 =h0dc2134_1
-    - liblapack =3.9.0 =27_h236ab99_openblas
+    - liblapack =3.9.0 =28_h236ab99_openblas
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm19 =19.1.7 =hc29ff6c_1
     - liblzma =5.6.3 =hd471939_1
@@ -95,7 +95,7 @@ requirements:
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mysql-common =9.0.1 =h4d37847_4
     - mysql-libs =9.0.1 =h2381dc1_4
-    - ncurses =6.5 =h0622a9a_2
+    - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - nspr =4.36 =h97d8b74_0
     - nss =3.107 =h81a00e3_0

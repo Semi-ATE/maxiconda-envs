@@ -101,7 +101,7 @@ requirements:
     - fontconfig =2.15.0 =h7e30c49_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.55.6 =py311h2dc5d0c_0
+    - fonttools =4.55.7 =py311h2dc5d0c_0
     - freetype =2.12.1 =h267a509_2
     - frozenlist =1.5.0 =py311h2dc5d0c_1
     - fzf =0.58.0 =h59e48b9_0
@@ -151,12 +151,12 @@ requirements:
     - lerc =4.0.0 =h27087fc_0
     - libasprintf =0.22.5 =he8f35ee_3
     - libasprintf-devel =0.22.5 =he8f35ee_3
-    - libblas =3.9.0 =27_h59b9bed_openblas
+    - libblas =3.9.0 =28_h59b9bed_openblas
     - libbrotlicommon =1.1.0 =hb9d3cd8_2
     - libbrotlidec =1.1.0 =hb9d3cd8_2
     - libbrotlienc =1.1.0 =hb9d3cd8_2
     - libcap =2.71 =h39aace5_0
-    - libcblas =3.9.0 =27_h89f5a98_openblas
+    - libcblas =3.9.0 =28_he106b2a_openblas
     - libclang-cpp19.1 =19.1.7 =default_hb5137d0_1
     - libclang13 =19.1.7 =default_h9c6a7e4_1
     - libcups =2.3.3 =h4637d8d_4
@@ -183,7 +183,7 @@ requirements:
     - libgpg-error =1.51 =hbd13f7d_1
     - libiconv =1.17 =hd590300_2
     - libjpeg-turbo =3.0.0 =hd590300_1
-    - liblapack =3.9.0 =27_h7ac8fdf_openblas
+    - liblapack =3.9.0 =28_h7ac8fdf_openblas
     - libllvm19 =19.1.7 =ha7bfdaf_1
     - liblzma =5.6.3 =hb9d3cd8_1
     - libnsl =2.0.1 =hd590300_0
@@ -236,7 +236,7 @@ requirements:
     - nbconvert-core =7.16.6 =pyh29332c3_0
     - nbconvert-pandoc =7.16.6 =hed9df3c_0
     - nbformat =5.10.4 =pyhd8ed1ab_1
-    - ncurses =6.5 =h2d0b736_2
+    - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.36 =h5888daf_0
     - nss =3.107 =hdf54f9c_0

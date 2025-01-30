@@ -82,9 +82,9 @@ requirements:
     - ld_impl_linux-64 =2.43 =h712a8e2_2
     - libasprintf =0.22.5 =he8f35ee_3
     - libasprintf-devel =0.22.5 =he8f35ee_3
-    - libblas =3.9.0 =27_h59b9bed_openblas
+    - libblas =3.9.0 =28_h59b9bed_openblas
     - libcap =2.71 =h39aace5_0
-    - libcblas =3.9.0 =27_h89f5a98_openblas
+    - libcblas =3.9.0 =28_he106b2a_openblas
     - libclang-cpp19.1 =19.1.7 =default_hb5137d0_1
     - libclang13 =19.1.7 =default_h9c6a7e4_1
     - libcups =2.3.3 =h4637d8d_4
@@ -110,7 +110,7 @@ requirements:
     - libgpg-error =1.51 =hbd13f7d_1
     - libiconv =1.17 =hd590300_2
     - libjpeg-turbo =3.0.0 =hd590300_1
-    - liblapack =3.9.0 =27_h7ac8fdf_openblas
+    - liblapack =3.9.0 =28_h7ac8fdf_openblas
     - libllvm19 =19.1.7 =ha7bfdaf_1
     - liblzma =5.6.3 =hb9d3cd8_1
     - libnsl =2.0.1 =hd590300_0
@@ -141,7 +141,7 @@ requirements:
     - mpg123 =1.32.9 =hc50e24c_0
     - mysql-common =9.0.1 =h266115a_4
     - mysql-libs =9.0.1 =he0572af_4
-    - ncurses =6.5 =h2d0b736_2
+    - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.36 =h5888daf_0
     - nss =3.107 =hdf54f9c_0

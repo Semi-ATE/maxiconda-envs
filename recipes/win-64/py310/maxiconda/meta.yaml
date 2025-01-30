@@ -35,8 +35,8 @@ requirements:
     - ipython =8.31.0 =pyh7428d3b_0
     - jinja2 =3.1.5 =pyhd8ed1ab_0
     - matplotlib =3.10.0 =py310h5588dad_0
-    - numba =0.60.0 =py310h7793332_0
-    - numpy =2.0.2 =py310h1ec8c79_1
+    - numba =0.61.0 =py310h7793332_0
+    - numpy =2.1.3 =py310h1ec8c79_0
     - openpyxl =3.1.5 =py310h8d17308_1
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
     - pandas =2.2.3 =py310hb4db72f_1
@@ -117,7 +117,7 @@ requirements:
     - fontconfig =2.15.0 =h765892d_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.55.6 =py310h38315fa_0
+    - fonttools =4.55.7 =py310h38315fa_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.12.1 =hdaf720e_2
     - fribidi =1.0.10 =h8d14728_0
@@ -159,7 +159,7 @@ requirements:
     - jupyter_events =0.11.0 =pyhd8ed1ab_0
     - jupyter_server =2.15.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_1
-    - jupyterlab =4.3.4 =pyhd8ed1ab_0
+    - jupyterlab =4.3.5 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_1
     - kiwisolver =1.4.7 =py310hc19bc0b_0
@@ -167,11 +167,11 @@ requirements:
     - lcms2 =2.16 =h67d730c_0
     - ld_impl_win-64 =2.43 =hae1bf67_2
     - lerc =4.0.0 =h63175ca_0
-    - libblas =3.9.0 =27_h576b46c_mkl
+    - libblas =3.9.0 =28_h576b46c_mkl
     - libbrotlicommon =1.1.0 =h2466b09_2
     - libbrotlidec =1.1.0 =h2466b09_2
     - libbrotlienc =1.1.0 =h2466b09_2
-    - libcblas =3.9.0 =27_h9cfd0ba_mkl
+    - libcblas =3.9.0 =28_h7ad3364_mkl
     - libclang13 =19.1.7 =default_ha5278ca_1
     - libcurl =8.11.1 =h88aaa65_0
     - libdeflate =1.23 =h9062f6e_0
@@ -188,7 +188,7 @@ requirements:
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
-    - liblapack =3.9.0 =27_hacfb0e4_mkl
+    - liblapack =3.9.0 =28_hacfb0e4_mkl
     - liblzma =5.6.3 =h2466b09_1
     - libnghttp2 =1.64.0 =he0c23c2_0
     - libogg =1.3.5 =h2466b09_0
@@ -207,7 +207,7 @@ requirements:
     - libxml2 =2.13.5 =he286e8c_1
     - libxslt =1.1.39 =h3df6e99_0
     - libzlib =1.3.1 =h2466b09_2
-    - llvmlite =0.43.0 =py310h0288bfe_1
+    - llvmlite =0.44.0 =py310h0288bfe_0
     - m2w64-sysroot_win-64 =12.0.0.r4.gg4f2fc60ca =h7428d3b_9
     - markupsafe =3.0.2 =py310h38315fa_1
     - matplotlib-base =3.10.0 =py310h37e0a56_0
