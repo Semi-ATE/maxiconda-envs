@@ -31,7 +31,7 @@ requirements:
     - matplotlib =3.9.4 =py39h6e9494a_0
     - numpy =1.26.4 =py39h28c39a1_0
     - pandas =2.2.3 =py39h88a5ddd_1
-    - plotly =5.24.1 =pyhd8ed1ab_1
+    - plotly =6.0.0 =pyhd8ed1ab_0
     - pycaret =2.3.6 =pyhd8ed1ab_0
     - pydot =3.0.4 =py39h6e9494a_0
     - pyqt =5.15.9 =py39h3dce684_5
@@ -87,7 +87,7 @@ requirements:
     - brotli-python =1.1.0 =py39h7c0e7c0_2
     - bzip2 =1.0.8 =hfdf4475_7
     - c-ares =1.34.4 =hf13058a_0
-    - ca-certificates =2024.12.14 =h8857fd0_0
+    - ca-certificates =2025.1.31 =h8857fd0_0
     - cachetools =5.5.1 =pyhd8ed1ab_0
     - cairo =1.18.2 =h950ec3b_1
     - catalogue =1.0.0 =py39h6e9494a_3
@@ -157,7 +157,7 @@ requirements:
     - gstreamer =1.24.7 =h3271b85_0
     - gtk2 =2.24.33 =he806959_7
     - gts =0.7.6 =h53e17e3_4
-    - gunicorn =22.0.0 =py39h6e9494a_0
+    - gunicorn =23.0.0 =py39h6e9494a_1
     - h2 =4.1.0 =pyhd8ed1ab_1
     - harfbuzz =10.2.0 =h5b25545_0
     - hpack =4.1.0 =pyhd8ed1ab_0
@@ -269,9 +269,9 @@ requirements:
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - missingno =0.5.2 =pyhd8ed1ab_0
     - mkl =2023.2.0 =h54c2260_50500
-    - mlflow =2.20.1 =h6e9494a_0
-    - mlflow-skinny =2.20.1 =py39h6e9494a_0
-    - mlflow-ui =2.20.1 =py39h6e9494a_0
+    - mlflow =2.20.1 =h6e9494a_1
+    - mlflow-skinny =2.20.1 =py39h6e9494a_1
+    - mlflow-ui =2.20.1 =py39h6e9494a_1
     - mlxtend =0.23.4 =pyhd8ed1ab_0
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
@@ -282,6 +282,7 @@ requirements:
     - murmurhash =1.0.10 =py39ha92e968_2
     - mysql-common =9.0.1 =h4d37847_4
     - mysql-libs =9.0.1 =h2381dc1_4
+    - narwhals =1.24.1 =pyhd8ed1ab_0
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2 =pyhd8ed1ab_0
@@ -391,7 +392,6 @@ requirements:
     - sympy =1.13.3 =pyh2585a3b_105
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.13.0 =hb890de9_1
-    - tenacity =9.0.0 =pyhd8ed1ab_1
     - textblob =0.15.3 =py_0
     - thinc =7.4.5 =py39h2dd75b9_2
     - threadpoolctl =3.5.0 =pyhc1e730c_0
