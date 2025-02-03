@@ -52,10 +52,10 @@ requirements:
     - attr =2.5.1 =h166bdaf_1
     - attrs =25.1.0 =pyh71513ae_0
     - autopep8 =2.0.4 =pyhd8ed1ab_0
-    - babel =2.16.0 =pyhd8ed1ab_1
+    - babel =2.17.0 =pyhd8ed1ab_0
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhd8ed1ab_1
-    - beautifulsoup4 =4.12.3 =pyha770c72_1
+    - beautifulsoup4 =4.13.0 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =24.10.0 =py310hff52083_0
     - bleach =6.2.0 =pyh29332c3_4
@@ -105,7 +105,7 @@ requirements:
     - fonttools =4.55.8 =py310h89163eb_0
     - freetype =2.12.1 =h267a509_2
     - frozenlist =1.5.0 =py310h89163eb_1
-    - fzf =0.58.0 =h59e48b9_0
+    - fzf =0.59.0 =h59e48b9_0
     - gettext =0.22.5 =he02047a_3
     - gettext-tools =0.22.5 =he02047a_3
     - giflib =5.2.2 =hd590300_0
@@ -163,7 +163,7 @@ requirements:
     - libcups =2.3.3 =h4637d8d_4
     - libdeflate =1.23 =h4ddbbb0_0
     - libdrm =2.4.124 =hb9d3cd8_0
-    - libedit =3.1.20240808 =pl5321h7949ede_0
+    - libedit =3.1.20250104 =pl5321h7949ede_0
     - libegl =1.7.0 =ha4b6fd6_2
     - libevent =2.1.12 =hf998b51_1
     - libexpat =2.6.4 =h5888daf_0
@@ -186,7 +186,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =28_h7ac8fdf_openblas
     - libllvm19 =19.1.7 =ha7bfdaf_1
-    - liblzma =5.6.3 =hb9d3cd8_1
+    - liblzma =5.6.4 =hb9d3cd8_0
     - libnsl =2.0.1 =hd590300_0
     - libntlm =1.8 =hb9d3cd8_0
     - libogg =1.3.5 =h4ab18f5_0

@@ -88,7 +88,7 @@ requirements:
     - libclang13 =19.1.7 =default_h4390ef5_1
     - libcups =2.3.3 =h405e4a8_4
     - libdrm =2.4.124 =h86ecc28_0
-    - libedit =3.1.20240808 =pl5321h976ea20_0
+    - libedit =3.1.20250104 =pl5321h976ea20_0
     - libegl =1.7.0 =hd24410f_2
     - libevent =2.1.12 =h4ba1bb4_1
     - libexpat =2.6.4 =h5ad3122_0
@@ -111,8 +111,8 @@ requirements:
     - libjpeg-turbo =3.0.0 =h31becfc_1
     - liblapack =3.9.0 =28_h411afd4_openblas
     - libllvm19 =19.1.7 =h2edbd07_1
-    - liblzma =5.6.3 =h86ecc28_1
-    - liblzma-devel =5.6.3 =h86ecc28_1
+    - liblzma =5.6.4 =h86ecc28_0
+    - liblzma-devel =5.6.4 =h86ecc28_0
     - libnsl =2.0.1 =h31becfc_0
     - libntlm =1.4 =hf897c2e_1002
     - libogg =1.3.5 =h0b9eccb_0
@@ -203,9 +203,9 @@ requirements:
     - xorg-libxfixes =6.0.1 =h57736b2_0
     - xorg-libxrender =0.9.12 =h86ecc28_0
     - xorg-libxxf86vm =1.1.6 =h86ecc28_0
-    - xz =5.6.3 =h2dbfc1b_1
-    - xz-gpl-tools =5.6.3 =h2dbfc1b_1
-    - xz-tools =5.6.3 =h86ecc28_1
+    - xz =5.6.4 =h2dbfc1b_0
+    - xz-gpl-tools =5.6.4 =h2dbfc1b_0
+    - xz-tools =5.6.4 =h86ecc28_0
     - zeromq =4.3.5 =h28faeed_4
     - zipp =3.21.0 =pyhd8ed1ab_0
     - zstd =1.5.6 =h02f22dd_0

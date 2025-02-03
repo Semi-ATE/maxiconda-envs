@@ -49,10 +49,10 @@ requirements:
     - atomicwrites =1.4.1 =pyhd8ed1ab_1
     - attrs =25.1.0 =pyh71513ae_0
     - autopep8 =2.0.4 =pyhd8ed1ab_0
-    - babel =2.16.0 =pyhd8ed1ab_1
+    - babel =2.17.0 =pyhd8ed1ab_0
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhd8ed1ab_1
-    - beautifulsoup4 =4.12.3 =pyha770c72_1
+    - beautifulsoup4 =4.13.0 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =24.10.0 =py312h81bd7bf_0
     - bleach =6.2.0 =pyh29332c3_4
@@ -90,7 +90,7 @@ requirements:
     - fonttools =4.55.8 =py312h998013c_0
     - freetype =2.12.1 =hadb7bae_2
     - frozenlist =1.5.0 =py312h998013c_1
-    - fzf =0.58.0 =h8842463_0
+    - fzf =0.59.0 =h8842463_0
     - giflib =5.2.2 =h93a5062_0
     - glib =2.82.2 =heee381b_1
     - glib-tools =2.82.2 =h1dc7a0c_1
@@ -136,7 +136,7 @@ requirements:
     - libclang13 =19.1.7 =default_h81d93ff_1
     - libcxx =19.1.7 =ha82da77_0
     - libdeflate =1.23 =hec38601_0
-    - libedit =3.1.20240808 =pl5321hafb1f1b_0
+    - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libexpat =2.6.4 =h286801f_0
     - libffi =3.4.2 =h3422bc3_5
     - libgfortran =5.0.0 =13_2_0_hd922786_3
@@ -149,7 +149,7 @@ requirements:
     - liblapack =3.9.0 =28_hc9a63f6_openblas
     - libllvm17 =17.0.6 =hc4b4ae8_3
     - libllvm19 =19.1.7 =hc4b4ae8_1
-    - liblzma =5.6.3 =h39f12f2_1
+    - liblzma =5.6.4 =h39f12f2_0
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h99b78c6_0
     - libopenblas =0.3.28 =openmp_hf332438_1
