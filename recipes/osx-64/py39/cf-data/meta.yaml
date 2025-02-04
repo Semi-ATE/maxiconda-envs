@@ -25,7 +25,7 @@ requirements:
     - python =3.9.21 =h7fafba3_1_cpython
 
     # 20 primary packages :
-    - beautifulsoup4 =4.13.0 =pyha770c72_0
+    - beautifulsoup4 =4.13.1 =pyha770c72_0
     - bokeh =3.4.2 =pyhd8ed1ab_0
     - lightgbm =4.5.0 =cpu_py_4
     - matplotlib =3.9.4 =py39h6e9494a_0
@@ -112,7 +112,7 @@ requirements:
     - cymem =2.0.11 =py39hdf37715_0
     - cyrus-sasl =2.1.27 =hf9bab2b_7
     - cython-blis =0.7.10 =py39hd01001f_2
-    - databricks-sdk =0.41.0 =pyhd8ed1ab_0
+    - databricks-sdk =0.42.0 =pyhd8ed1ab_0
     - debugpy =1.8.12 =py39hdf37715_0
     - decorator =5.1.1 =pyhd8ed1ab_1
     - defusedxml =0.7.1 =pyhd8ed1ab_0
@@ -153,14 +153,14 @@ requirements:
     - graphite2 =1.3.13 =h73e2aa4_1003
     - graphql-core =3.2.6 =pyh29332c3_0
     - graphql-relay =3.2.0 =pyhd8ed1ab_1
-    - graphviz =12.2.1 =h22ac8cf_0
+    - graphviz =12.2.1 =h44a0556_1
     - greenlet =3.1.1 =py39hdf37715_1
     - gst-plugins-base =1.24.7 =h0ee1d58_0
     - gstreamer =1.24.7 =h3271b85_0
     - gtk3 =3.24.43 =h82a860e_3
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =23.0.0 =py39h6e9494a_1
-    - h2 =4.1.0 =pyhd8ed1ab_1
+    - h2 =4.2.0 =pyhd8ed1ab_0
     - harfbuzz =10.2.0 =h5b25545_0
     - hicolor-icon-theme =0.17 =h694c41f_2
     - hpack =4.1.0 =pyhd8ed1ab_0
@@ -169,7 +169,7 @@ requirements:
     - hyperlink =21.0.0 =pyh29332c3_1
     - icu =75.1 =h120a0e1_0
     - idna =3.10 =pyhd8ed1ab_1
-    - imagehash =4.3.1 =pyhd8ed1ab_1
+    - imagehash =4.3.2 =pyhd8ed1ab_0
     - imbalanced-learn =0.7.0 =py_1
     - importlib-metadata =8.6.1 =pyha770c72_0
     - importlib-resources =6.5.2 =pyhd8ed1ab_0
@@ -287,7 +287,7 @@ requirements:
     - murmurhash =1.0.10 =py39ha92e968_2
     - mysql-common =9.0.1 =h4d37847_4
     - mysql-libs =9.0.1 =h2381dc1_4
-    - narwhals =1.24.2 =pyhd8ed1ab_0
+    - narwhals =1.25.0 =pyhd8ed1ab_0
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2 =pyhd8ed1ab_0

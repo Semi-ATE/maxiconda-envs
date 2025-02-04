@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 510 secondary packages :
+    # 511 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -384,7 +384,7 @@ requirements:
     - r-googlesheets4 =1.1.1 =r44h785f33e_2
     - r-gower =1.0.1 =r44hb1dbf0f_2
     - r-gtable =0.3.6 =r44hc72bb7e_0
-    - r-hardhat =1.4.0 =r44hc72bb7e_1
+    - r-hardhat =1.4.1 =r44hc72bb7e_0
     - r-haven =2.5.4 =r44h0d4f4ea_1
     - r-hexbin =1.28.5 =r44hb67ce94_0
     - r-highr =0.11 =r44hc72bb7e_1
@@ -472,6 +472,7 @@ requirements:
     - r-shape =1.4.6.1 =r44ha770c72_1
     - r-shiny =1.10.0 =r44h785f33e_0
     - r-sourcetools =0.1.7_1 =r44ha18555a_2
+    - r-sparsevctrs =0.2.0 =r44h2b5f3a1_1
     - r-spatial =7.3_18 =r44h2b5f3a1_0
     - r-squarem =2021.1 =r44hc72bb7e_3
     - r-stringi =1.8.4 =r44h33cde33_3
@@ -556,7 +557,7 @@ requirements:
     - xkeyboard-config =2.43 =hb9d3cd8_0
     - xorg-libice =1.1.2 =hb9d3cd8_0
     - xorg-libsm =1.2.5 =he73a12e_0
-    - xorg-libx11 =1.8.10 =h4f16b4b_1
+    - xorg-libx11 =1.8.11 =h4f16b4b_0
     - xorg-libxau =1.0.12 =hb9d3cd8_0
     - xorg-libxdamage =1.1.6 =hb9d3cd8_0
     - xorg-libxdmcp =1.1.5 =hb9d3cd8_0

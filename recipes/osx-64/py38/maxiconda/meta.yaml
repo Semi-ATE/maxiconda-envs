@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 474 secondary packages :
+    # 475 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
     - aiosignal =1.3.1 =pyhd8ed1ab_0
@@ -93,7 +93,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.2 =h950ec3b_1
-    - cctools_osx-64 =1010.6 =hadbd6bd_2
+    - cctools_osx-64 =1010.6 =h96393e6_3
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hc8bcfa4_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
@@ -181,7 +181,7 @@ requirements:
     - kiwisolver =1.4.5 =py38h15a1a5b_1
     - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.16 =ha2f27b4_0
-    - ld64_osx-64 =951.9 =h9d2de3d_2
+    - ld64_osx-64 =951.9 =h5ab288c_3
     - lerc =4.0.0 =hb486fe8_0
     - libasprintf =0.22.5 =hdfe23c8_3
     - libblas =3.9.0 =20_osx64_openblas
@@ -363,7 +363,7 @@ requirements:
     - r-googlesheets4 =1.1.1 =r44h785f33e_2
     - r-gower =1.0.1 =r44h6b9d099_2
     - r-gtable =0.3.6 =r44hc72bb7e_0
-    - r-hardhat =1.4.0 =r44hc72bb7e_1
+    - r-hardhat =1.4.1 =r44hc72bb7e_0
     - r-haven =2.5.4 =r44h25d921d_1
     - r-hexbin =1.28.5 =r44hb3c2f18_0
     - r-highr =0.11 =r44hc72bb7e_1
@@ -451,6 +451,7 @@ requirements:
     - r-shape =1.4.6.1 =r44ha770c72_1
     - r-shiny =1.10.0 =r44h785f33e_0
     - r-sourcetools =0.1.7_1 =r44h25d921d_2
+    - r-sparsevctrs =0.2.0 =r44h79f565e_1
     - r-spatial =7.3_18 =r44h79f565e_0
     - r-squarem =2021.1 =r44hc72bb7e_3
     - r-stringi =1.8.4 =r44hf60abff_3
