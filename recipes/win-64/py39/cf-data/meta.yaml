@@ -25,7 +25,7 @@ requirements:
     - python =3.9.21 =h37870fc_1_cpython
 
     # 19 primary packages :
-    - beautifulsoup4 =4.13.1 =pyha770c72_0
+    - beautifulsoup4 =4.13.2 =pyha770c72_0
     - bokeh =3.4.2 =pyhd8ed1ab_0
     - lightgbm =4.5.0 =cpu_py_4
     - matplotlib =3.9.4 =py39hcbf5309_0
@@ -105,7 +105,7 @@ requirements:
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cymem =2.0.11 =py39ha51f57c_0
     - cython-blis =1.0.1 =py39h4b0a98a_0
-    - databricks-sdk =0.42.0 =pyhd8ed1ab_0
+    - databricks-sdk =0.43.0 =pyhd8ed1ab_0
     - datefinder =0.7.3 =pyhd8ed1ab_1
     - debugpy =1.8.12 =py39ha51f57c_0
     - decorator =5.1.1 =pyhd8ed1ab_1
@@ -275,7 +275,7 @@ requirements:
     - packaging =24.2 =pyhd8ed1ab_2
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.56.1 =h286b592_0
-    - paramiko =3.5.0 =pyhd8ed1ab_1
+    - paramiko =3.5.1 =pyhd8ed1ab_0
     - parsel =1.10.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_1
     - patsy =1.0.1 =pyhd8ed1ab_1
