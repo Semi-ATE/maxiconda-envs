@@ -27,7 +27,7 @@ requirements:
     # 37 primary packages :
     - aiohttp =3.11.11 =py310hc74094e_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
-    - beautifulsoup4 =4.13.2 =pyha770c72_0
+    - beautifulsoup4 =4.13.3 =pyha770c72_0
     - cython =3.0.11 =py310h1dbcdd0_3
     - grayskull =2.7.6 =pyhd8ed1ab_0
     - hypothesis =6.125.1 =pyha770c72_0
@@ -54,7 +54,7 @@ requirements:
     - rust =1.84.0 =h4ff7c5d_0
     - scipy =1.15.1 =py310hd50a768_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
-    - spyder-kernels =3.0.2 =unix_pyh707e725_0
+    - spyder-kernels =3.0.3 =unix_pyh707e725_0
     - sqlalchemy =2.0.37 =py310h078409c_0
     - sqlite =3.48.0 =hd7222ec_1
     - sympy =1.13.3 =pyh2585a3b_105
@@ -166,7 +166,7 @@ requirements:
     - jupyter-lsp =2.2.5 =pyhd8ed1ab_1
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.7.2 =pyh31011fe_1
-    - jupyter_events =0.11.0 =pyhd8ed1ab_0
+    - jupyter_events =0.12.0 =pyh29332c3_0
     - jupyter_server =2.15.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_1
     - jupyterlab =4.3.5 =pyhd8ed1ab_0

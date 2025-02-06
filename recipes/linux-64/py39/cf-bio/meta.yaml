@@ -34,7 +34,7 @@ requirements:
     - pyqt =5.15.9 =py39h52134e7_5
     - rdkit =2024.09.5 =py39h2709aa1_0
     - scipy =1.13.1 =py39haf93ffa_0
-    - spyder-kernels =3.0.2 =unix_pyh707e725_0
+    - spyder-kernels =3.0.3 =unix_pyh707e725_0
 
     # 257 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
@@ -180,7 +180,7 @@ requirements:
     - libwebp-base =1.5.0 =h851e524_0
     - libxcb =1.17.0 =h8a09558_0
     - libxcrypt =4.4.36 =hd590300_1
-    - libxkbcommon =1.7.0 =h2c5496b_1
+    - libxkbcommon =1.8.0 =hc4a0caf_0
     - libxml2 =2.13.5 =h8d12d68_1
     - libxslt =1.1.39 =h76b75d6_0
     - libzip =1.11.2 =h6991a6a_0
