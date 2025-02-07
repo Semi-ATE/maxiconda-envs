@@ -44,13 +44,13 @@ requirements:
     - sqlalchemy =2.0.37 =py39h80efdc8_0
     - sqlite =3.48.0 =h2e4c9dc_1
     - statsmodels =0.14.1 =py39h5b4affa_0
-    - xgboost =2.1.3 =cpu_pyhc1a9e11_3
+    - xgboost =2.1.4 =cpu_pyhc1a9e11_0
 
     # 389 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - adwaita-icon-theme =47.0 =unix_0
     - aiohappyeyeballs =2.4.4 =pyhd8ed1ab_1
-    - aiohttp =3.11.11 =py39hd18e689_0
+    - aiohttp =3.11.12 =py39hd18e689_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alembic =1.14.1 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
@@ -259,7 +259,7 @@ requirements:
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp-base =1.5.0 =h6cf52b4_0
     - libxcb =1.17.0 =hf1f96e2_0
-    - libxgboost =2.1.3 =cpu_h250267a_3
+    - libxgboost =2.1.4 =cpu_h250267a_0
     - libxml2 =2.13.5 =hebb159f_1
     - libxslt =1.1.39 =h03b04e6_0
     - libzlib =1.3.1 =hd23fc13_2
@@ -287,13 +287,13 @@ requirements:
     - murmurhash =1.0.10 =py39ha92e968_2
     - mysql-common =9.0.1 =h4d37847_4
     - mysql-libs =9.0.1 =h2381dc1_4
-    - narwhals =1.25.0 =pyhd8ed1ab_0
+    - narwhals =1.25.2 =pyhd8ed1ab_0
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2 =pyhd8ed1ab_0
     - nltk =3.9.1 =pyhd8ed1ab_1
     - nspr =4.36 =h97d8b74_0
-    - nss =3.107 =h81a00e3_0
+    - nss =3.108 =h32a8879_0
     - numba =0.60.0 =py39h90d9702_0
     - numexpr =2.10.2 =py39h9f64e28_0
     - opencl-headers =2024.10.24 =h240833e_0
@@ -333,7 +333,7 @@ requirements:
     - pthread-stubs =0.4 =h00291cd_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
-    - py-xgboost =2.1.3 =cpu_pyheee7c3a_3
+    - py-xgboost =2.1.4 =cpu_pyh43b6f25_0
     - pyarrow =18.1.0 =py39h6e9494a_0
     - pyarrow-core =18.1.0 =py39h6e815d7_0_cpu
     - pyasn1 =0.6.1 =pyhd8ed1ab_2

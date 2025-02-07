@@ -39,7 +39,7 @@ requirements:
     # 280 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.4.4 =pyhd8ed1ab_1
-    - aiohttp =3.11.11 =py310h38315fa_0
+    - aiohttp =3.11.12 =py310h38315fa_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - arrow =1.3.0 =pyhd8ed1ab_1
@@ -213,7 +213,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycodestyle =2.12.1 =pyhd8ed1ab_1
-    - pyconify =0.2 =pyhd8ed1ab_0
+    - pyconify =0.2.1 =pyhd8ed1ab_0
     - pycparser =2.22 =pyh29332c3_1
     - pydocstyle =6.3.0 =pyhd8ed1ab_1
     - pyflakes =3.2.0 =pyhd8ed1ab_1
@@ -234,8 +234,8 @@ requirements:
     - python-gssapi =1.9.0 =py310h0720048_1
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
-    - python-lsp-server =1.12.0 =pyhff2d567_1
-    - python-lsp-server-base =1.12.0 =pyhd8ed1ab_1
+    - python-lsp-server =1.12.1 =pyhff2d567_0
+    - python-lsp-server-base =1.12.1 =pyhd8ed1ab_0
     - python-slugify =8.0.4 =pyhd8ed1ab_1
     - python-tzdata =2025.1 =pyhd8ed1ab_0
     - python_abi =3.10 =5_cp310
