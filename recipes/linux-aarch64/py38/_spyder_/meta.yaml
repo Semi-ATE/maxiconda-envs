@@ -32,10 +32,10 @@ requirements:
     - pyqt =5.15.9 =py38h3dfd979_5
     - pyqtwebengine =5.15.9 =py38h5aeb490_5
     - scipy =1.10.1 =py38he3f4005_3
-    - spyder =6.0.3 =linux_pyh62a8a7d_1
+    - spyder =6.0.4 =hd8ed1ab_1
     - sympy =1.13.3 =pyh2585a3b_104
 
-    # 352 secondary packages :
+    # 353 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
     - aiohttp =3.10.5 =py38ha5227f9_0
@@ -329,6 +329,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_0
     - sphinxcontrib-qthelp =1.0.3 =py_0
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_2
+    - spyder-base =6.0.4 =linux_pyh62a8a7d_1
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - superqt =0.6.7 =pyh9208f05_0
