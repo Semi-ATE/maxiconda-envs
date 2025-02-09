@@ -143,8 +143,8 @@ requirements:
     - libgfortran5 =13.2.0 =hf226fd6_3
     - libglib =2.82.2 =hdff4504_1
     - libiconv =1.17 =h0d3ecfb_2
-    - libintl =0.22.5 =h8414b35_3
-    - libintl-devel =0.22.5 =h8414b35_3
+    - libintl =0.23.1 =h493aca8_0
+    - libintl-devel =0.23.1 =h493aca8_0
     - libjpeg-turbo =3.0.0 =hb547adb_1
     - liblapack =3.9.0 =28_hc9a63f6_openblas
     - libllvm17 =17.0.6 =hc4b4ae8_3
@@ -241,8 +241,8 @@ requirements:
     - python-gssapi =1.9.0 =py311he0ec53a_1
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
-    - python-lsp-server =1.12.1 =pyhff2d567_0
-    - python-lsp-server-base =1.12.1 =pyhd8ed1ab_0
+    - python-lsp-server =1.12.2 =pyhff2d567_0
+    - python-lsp-server-base =1.12.2 =pyhd8ed1ab_0
     - python-slugify =8.0.4 =pyhd8ed1ab_1
     - python-tzdata =2025.1 =pyhd8ed1ab_0
     - python.app =1.4 =py311hdc19893_4

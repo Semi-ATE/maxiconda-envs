@@ -199,7 +199,7 @@ requirements:
     - libarrow-flight-sql =15.0.2 =he1e86a1_28_cpu
     - libarrow-gandiva =15.0.2 =hfa04d5a_28_cpu
     - libarrow-substrait =15.0.2 =he1e86a1_28_cpu
-    - libasprintf =0.22.5 =hdfe23c8_3
+    - libasprintf =0.23.1 =h27064b9_0
     - libblas =3.9.0 =20_osx64_openblas
     - libboost =1.84.0 =hf0da243_7
     - libbrotlicommon =1.1.0 =h00291cd_2
@@ -218,7 +218,7 @@ requirements:
     - libexpat =2.6.4 =h240833e_0
     - libffi =3.4.2 =h0d85af4_5
     - libgd =2.3.3 =h8555400_11
-    - libgettextpo =0.22.5 =hdfe23c8_3
+    - libgettextpo =0.23.1 =h27064b9_0
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
     - libglib =2.82.2 =h5c976ab_1
@@ -227,8 +227,8 @@ requirements:
     - libgrpc =1.62.2 =h384b2fc_0
     - libhwloc =2.11.2 =default_h4cdd727_1001
     - libiconv =1.17 =hd75f5a5_2
-    - libintl =0.22.5 =hdfe23c8_3
-    - libintl-devel =0.22.5 =hdfe23c8_3
+    - libintl =0.23.1 =h27064b9_0
+    - libintl-devel =0.23.1 =h27064b9_0
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =20_osx64_openblas
     - liblightgbm =4.5.0 =cpu_h84bc62d_3
