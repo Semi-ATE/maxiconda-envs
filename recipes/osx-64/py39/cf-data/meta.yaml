@@ -49,7 +49,7 @@ requirements:
     # 389 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - adwaita-icon-theme =47.0 =unix_0
-    - aiohappyeyeballs =2.4.4 =pyhd8ed1ab_1
+    - aiohappyeyeballs =2.4.6 =pyhd8ed1ab_0
     - aiohttp =3.11.12 =py39hd18e689_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alembic =1.14.1 =pyhd8ed1ab_0
@@ -194,7 +194,7 @@ requirements:
     - kiwisolver =1.4.7 =py39h0d8d0ca_0
     - kmodes =0.12.2 =pyhd8ed1ab_0
     - krb5 =1.21.3 =h37d8d59_0
-    - lcms2 =2.16 =ha2f27b4_0
+    - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20240722.0 =cxx17_h0e468a2_4
     - libarrow =18.1.0 =h553eae1_15_cpu
@@ -265,7 +265,7 @@ requirements:
     - libzlib =1.3.1 =hd23fc13_2
     - llvm-openmp =19.1.7 =ha54dae1_0
     - llvmlite =0.43.0 =py39h164c851_1
-    - lxml =5.3.0 =py39hf553aea_2
+    - lxml =5.3.1 =py39h214c5ce_0
     - lz4-c =1.10.0 =h240833e_1
     - mako =1.3.9 =pyhd8ed1ab_0
     - markdown =3.6 =pyhd8ed1ab_0
@@ -287,7 +287,7 @@ requirements:
     - murmurhash =1.0.10 =py39ha92e968_2
     - mysql-common =9.0.1 =h4d37847_4
     - mysql-libs =9.0.1 =h2381dc1_4
-    - narwhals =1.25.2 =pyhd8ed1ab_0
+    - narwhals =1.26.0 =pyhd8ed1ab_0
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2 =pyhd8ed1ab_0
@@ -316,7 +316,7 @@ requirements:
     - phik =0.12.3 =py39h29e5701_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.1.0 =py39h1fda9f2_0
-    - pip =25.0 =pyh8b19718_0
+    - pip =25.0.1 =pyh8b19718_0
     - pixman =0.44.2 =h1fd1274_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_2
     - plac =0.9.6 =py_1

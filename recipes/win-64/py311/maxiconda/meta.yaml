@@ -29,13 +29,13 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.13.3 =pyha770c72_0
     - bitarray =3.0.0 =py311he736701_0
-    - cython =3.0.11 =py311hdd1c356_3
+    - cython =3.0.12 =py311h34f20a9_0
     - grayskull =2.7.6 =pyhd8ed1ab_0
     - hypothesis =6.125.1 =pyha770c72_0
     - ipython =8.32.0 =pyh9ab4c32_0
     - jinja2 =3.1.5 =pyhd8ed1ab_0
     - matplotlib =3.10.0 =py311h1ea47a8_0
-    - numba =0.61.0 =py311h0673bce_0
+    - numba =0.61.0 =py311h0673bce_1
     - numpy =2.1.3 =py311h35ffc71_0
     - openpyxl =3.1.5 =py311ha68e1ae_1
     - paho-mqtt =1.6.1 =pyhd8ed1ab_0
@@ -67,7 +67,7 @@ requirements:
     # 439 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
-    - aiohappyeyeballs =2.4.4 =pyhd8ed1ab_1
+    - aiohappyeyeballs =2.4.6 =pyhd8ed1ab_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
     - anyio =4.8.0 =pyhd8ed1ab_0
@@ -163,7 +163,7 @@ requirements:
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_1
     - kiwisolver =1.4.7 =py311h3257749_0
     - krb5 =1.21.3 =hdf4eb48_0
-    - lcms2 =2.16 =h67d730c_0
+    - lcms2 =2.17 =hbcf6048_0
     - ld_impl_win-64 =2.43 =hae1bf67_2
     - lerc =4.0.0 =h63175ca_0
     - libblas =3.9.0 =28_h576b46c_mkl
@@ -230,13 +230,13 @@ requirements:
     - openssl =3.4.0 =ha4e3fda_1
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =24.2 =pyhd8ed1ab_2
-    - pandoc =3.6.2 =h57928b3_0
+    - pandoc =3.6.3 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_1
     - pcre2 =10.44 =h3d7b363_2
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.1.0 =py311h43e43bb_0
-    - pip =25.0 =pyh8b19718_0
+    - pip =25.0.1 =pyh8b19718_0
     - pixman =0.44.2 =had0cd8c_0
     - pkginfo =1.12.0 =pyhd8ed1ab_1
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_2
