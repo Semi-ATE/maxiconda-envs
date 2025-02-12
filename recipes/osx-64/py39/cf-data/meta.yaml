@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.3.6 =pyhd8ed1ab_0
     - pydot =3.0.4 =py39h6e9494a_0
     - pyqt =5.15.9 =py39h3dce684_5
-    - pytorch =2.5.1 =cpu_mkl_py39_h3446ff2_111
+    - pytorch =2.5.1 =cpu_mkl_py39_h3446ff2_113
     - scikit-learn =0.23.2 =py39hcaaab68_3
     - scipy =1.5.3 =py39h3164f57_0
     - scrapy =2.12.0 =py39h6e9494a_1
@@ -105,14 +105,14 @@ requirements:
     - constantly =15.1.0 =py_0
     - contourpy =1.3.0 =py39h0d3c867_2
     - cpython =3.9.21 =py39hd8ed1ab_1
-    - cryptography =44.0.0 =py39hce2744d_1
+    - cryptography =44.0.1 =py39hce2744d_0
     - cssselect =1.2.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =pyhff2d567_1
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cymem =2.0.11 =py39hdf37715_0
     - cyrus-sasl =2.1.27 =hf9bab2b_7
     - cython-blis =0.7.10 =py39hd01001f_2
-    - databricks-sdk =0.43.0 =pyhd8ed1ab_0
+    - databricks-sdk =0.44.0 =pyhd8ed1ab_0
     - debugpy =1.8.12 =py39hdf37715_0
     - decorator =5.1.1 =pyhd8ed1ab_1
     - defusedxml =0.7.1 =pyhd8ed1ab_0
@@ -218,7 +218,7 @@ requirements:
     - libev =4.33 =h10d778d_2
     - libevent =2.1.12 =ha90c15b_1
     - libexpat =2.6.4 =h240833e_0
-    - libffi =3.4.2 =h0d85af4_5
+    - libffi =3.4.6 =h281671d_0
     - libgd =2.3.3 =h8555400_11
     - libgettextpo =0.23.1 =h27064b9_0
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
@@ -253,7 +253,7 @@ requirements:
     - libssh2 =1.11.1 =h3dc7d44_0
     - libthrift =0.21.0 =h75589b3_0
     - libtiff =4.7.0 =hb77a491_3
-    - libtorch =2.5.1 =cpu_mkl_h786c6a1_111
+    - libtorch =2.5.1 =cpu_mkl_h786c6a1_113
     - libutf8proc =2.10.0 =h777c5d8_0
     - libuv =1.50.0 =h4cb831e_0
     - libvorbis =1.3.7 =h046ec9c_0
@@ -299,7 +299,7 @@ requirements:
     - opencl-headers =2024.10.24 =h240833e_0
     - openjpeg =2.5.3 =h7fd6d84_0
     - openldap =2.6.9 =hd8a590d_0
-    - openssl =3.4.0 =hc426f3f_1
+    - openssl =3.4.1 =hc426f3f_0
     - opentelemetry-api =1.16.0 =pyhd8ed1ab_0
     - opentelemetry-sdk =1.16.0 =pyhd8ed1ab_0
     - opentelemetry-semantic-conventions =0.37b0 =pyhd8ed1ab_0
@@ -411,7 +411,7 @@ requirements:
     - typing-extensions =4.12.2 =hd8ed1ab_1
     - typing_extensions =4.12.2 =pyha770c72_1
     - tzdata =2025a =h78e105d_0
-    - umap-learn =0.5.7 =py39h6e9494a_0
+    - umap-learn =0.5.7 =py39h6e9494a_1
     - unicodedata2 =16.0.0 =py39h80efdc8_0
     - urllib3 =2.3.0 =pyhd8ed1ab_0
     - visions =0.7.1 =pyhd8ed1ab_0
