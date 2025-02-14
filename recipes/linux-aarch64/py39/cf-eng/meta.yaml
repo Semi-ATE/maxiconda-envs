@@ -81,9 +81,9 @@ requirements:
     - ld_impl_linux-aarch64 =2.43 =h80caac9_2
     - libasprintf =0.23.1 =h5e0f5ae_0
     - libasprintf-devel =0.23.1 =h5e0f5ae_0
-    - libblas =3.9.0 =28_h1a9f1db_openblas
+    - libblas =3.9.0 =29_h1a9f1db_openblas
     - libcap =2.71 =h51d75a7_0
-    - libcblas =3.9.0 =28_hab92f65_openblas
+    - libcblas =3.9.0 =29_hab92f65_openblas
     - libclang-cpp19.1 =19.1.7 =default_he324ac1_1
     - libclang13 =19.1.7 =default_h4390ef5_1
     - libcups =2.3.3 =h405e4a8_4
@@ -109,7 +109,7 @@ requirements:
     - libgpg-error =1.51 =h05609ea_1
     - libiconv =1.17 =h31becfc_2
     - libjpeg-turbo =3.0.0 =h31becfc_1
-    - liblapack =3.9.0 =28_h411afd4_openblas
+    - liblapack =3.9.0 =29_h411afd4_openblas
     - libllvm19 =19.1.7 =h2edbd07_1
     - liblzma =5.6.4 =h86ecc28_0
     - libnsl =2.0.1 =h31becfc_0
@@ -119,7 +119,7 @@ requirements:
     - libopus =1.3.1 =hf897c2e_1
     - libpciaccess =0.18 =h31becfc_0
     - libpng =1.6.46 =hec79eb8_0
-    - libpq =17.2 =hd56632b_1
+    - libpq =17.3 =hf590da8_0
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.20 =h68df207_0
     - libsqlite =3.48.0 =h5eb1b54_1

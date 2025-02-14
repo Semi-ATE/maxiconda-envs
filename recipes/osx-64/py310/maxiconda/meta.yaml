@@ -179,11 +179,11 @@ requirements:
     - ld64_osx-64 =951.9 =h5ab288c_3
     - lerc =4.0.0 =hb486fe8_0
     - libasprintf =0.23.1 =h27064b9_0
-    - libblas =3.9.0 =28_h7f60823_openblas
+    - libblas =3.9.0 =29_h7f60823_openblas
     - libbrotlicommon =1.1.0 =h00291cd_2
     - libbrotlidec =1.1.0 =h00291cd_2
     - libbrotlienc =1.1.0 =h00291cd_2
-    - libcblas =3.9.0 =28_hff6cab4_openblas
+    - libcblas =3.9.0 =29_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang-cpp19.1 =19.1.7 =default_h3571c67_1
     - libclang13 =19.1.7 =default_hf2b7afa_1
@@ -204,7 +204,7 @@ requirements:
     - libintl =0.23.1 =h27064b9_0
     - libintl-devel =0.23.1 =h27064b9_0
     - libjpeg-turbo =3.0.0 =h0dc2134_1
-    - liblapack =3.9.0 =28_h236ab99_openblas
+    - liblapack =3.9.0 =29_h236ab99_openblas
     - libllvm15 =15.0.7 =hbedff68_4
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm19 =19.1.7 =hc29ff6c_1
@@ -215,7 +215,7 @@ requirements:
     - libopenblas =0.3.28 =openmp_hbf64a52_1
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.46 =h3c4a55f_0
-    - libpq =17.2 =h639cf83_1
+    - libpq =17.3 =h9c5cfc2_0
     - libsodium =1.0.20 =hfdf4475_0
     - libsqlite =3.48.0 =hdb6dae5_1
     - libssh2 =1.11.1 =h3dc7d44_0
@@ -313,7 +313,7 @@ requirements:
     - r-caret =6.0_94 =r44h6b9d099_2
     - r-cellranger =1.1.0 =r44hc72bb7e_1007
     - r-class =7.3_23 =r44h79f565e_0
-    - r-cli =3.6.3 =r44h25d921d_1
+    - r-cli =3.6.3 =r44h2711daa_2
     - r-clipr =0.8.0 =r44hc72bb7e_3
     - r-clock =0.7.1 =r44h25d921d_0
     - r-cluster =2.1.8 =r44hb3c2f18_0
@@ -417,7 +417,7 @@ requirements:
     - r-ps =1.8.1 =r44h362b90a_0
     - r-purrr =1.0.2 =r44h6b9d099_1
     - r-quantmod =0.4.26 =r44hc72bb7e_1
-    - r-r6 =2.5.1 =r44hc72bb7e_3
+    - r-r6 =2.6.0 =r44hc72bb7e_0
     - r-ragg =1.3.3 =r44h3c7d252_0
     - r-randomforest =4.7_1.2 =r44h7526d82_0
     - r-rappdirs =0.3.3 =r44h6b9d099_3

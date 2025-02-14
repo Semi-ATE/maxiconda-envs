@@ -27,7 +27,7 @@ requirements:
     # 9 primary packages :
     - cython =3.0.12 =py312h2614dfc_0
     - matplotlib =3.10.0 =py312h7900ff3_0
-    - numpy =2.2.2 =py312h72c5963_0
+    - numpy =2.2.3 =py312h72c5963_0
     - pandas =2.2.3 =py312hf9745cd_1
     - pyqt =5.15.9 =py312h949fe66_5
     - pyqtwebengine =5.15.9 =py312hbd9a932_5
@@ -35,9 +35,9 @@ requirements:
     - spyder =6.0.4 =hd8ed1ab_1
     - sympy =1.13.3 =pyh2585a3b_105
 
-    # 354 secondary packages :
+    # 357 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
-    - _openmp_mutex =4.5 =2_gnu
+    - _openmp_mutex =4.5 =2_kmp_llvm
     - aiohappyeyeballs =2.4.6 =pyhd8ed1ab_0
     - aiohttp =3.11.12 =py312h178313f_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
@@ -151,12 +151,12 @@ requirements:
     - lerc =4.0.0 =h27087fc_0
     - libasprintf =0.23.1 =h8e693c7_0
     - libasprintf-devel =0.23.1 =h8e693c7_0
-    - libblas =3.9.0 =28_h59b9bed_openblas
+    - libblas =3.9.0 =29_h59b9bed_openblas
     - libbrotlicommon =1.1.0 =hb9d3cd8_2
     - libbrotlidec =1.1.0 =hb9d3cd8_2
     - libbrotlienc =1.1.0 =hb9d3cd8_2
     - libcap =2.71 =h39aace5_0
-    - libcblas =3.9.0 =28_he106b2a_openblas
+    - libcblas =3.9.0 =29_he106b2a_openblas
     - libclang-cpp19.1 =19.1.7 =default_hb5137d0_1
     - libclang13 =19.1.7 =default_h9c6a7e4_1
     - libcups =2.3.3 =h4637d8d_4
@@ -179,11 +179,11 @@ requirements:
     - libglib =2.82.2 =h2ff4ddf_1
     - libglvnd =1.7.0 =ha4b6fd6_2
     - libglx =1.7.0 =ha4b6fd6_2
-    - libgomp =14.2.0 =h77fa898_1
     - libgpg-error =1.51 =hbd13f7d_1
+    - libhwloc =2.11.2 =default_h0d58e46_1001
     - libiconv =1.17 =hd590300_2
     - libjpeg-turbo =3.0.0 =hd590300_1
-    - liblapack =3.9.0 =28_h7ac8fdf_openblas
+    - liblapack =3.9.0 =29_h7ac8fdf_openblas
     - libllvm19 =19.1.7 =ha7bfdaf_1
     - liblzma =5.6.4 =hb9d3cd8_0
     - libnsl =2.0.1 =hd590300_0
@@ -194,7 +194,7 @@ requirements:
     - libopus =1.3.1 =h7f98852_1
     - libpciaccess =0.18 =hd590300_0
     - libpng =1.6.46 =h943b412_0
-    - libpq =17.2 =h3b95a9b_1
+    - libpq =17.3 =h27ae623_0
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.20 =h4ab18f5_0
     - libspatialindex =2.1.0 =he57a185_0
@@ -213,6 +213,7 @@ requirements:
     - libxml2 =2.13.5 =h8d12d68_1
     - libxslt =1.1.39 =h76b75d6_0
     - libzlib =1.3.1 =hb9d3cd8_2
+    - llvm-openmp =19.1.7 =h024ca30_0
     - lz4-c =1.10.0 =h5888daf_1
     - markdown-it-py =3.0.0 =pyhd8ed1ab_1
     - markupsafe =3.0.2 =py312h178313f_1
@@ -221,6 +222,7 @@ requirements:
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
     - mistune =3.1.1 =pyhd8ed1ab_0
+    - mkl =2024.2.2 =ha957f24_16
     - more-itertools =10.6.0 =pyhd8ed1ab_0
     - mpc =1.3.1 =h24ddda3_1
     - mpfr =4.2.1 =h90cbb55_3
@@ -335,6 +337,7 @@ requirements:
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.0 =pyhb6d5dde_0
     - tabulate =0.9.0 =pyhd8ed1ab_2
+    - tbb =2021.13.0 =hceb3a55_1
     - text-unidecode =1.3 =pyhd8ed1ab_2
     - textdistance =4.6.3 =pyhd8ed1ab_1
     - three-merge =0.1.1 =pyhd8ed1ab_1

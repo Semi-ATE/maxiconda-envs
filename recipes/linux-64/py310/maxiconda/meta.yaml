@@ -64,9 +64,9 @@ requirements:
     - xlsxwriter =3.2.2 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 513 secondary packages :
+    # 517 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
-    - _openmp_mutex =4.5 =2_gnu
+    - _openmp_mutex =4.5 =2_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.6 =pyhd8ed1ab_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
@@ -182,12 +182,12 @@ requirements:
     - lerc =4.0.0 =h27087fc_0
     - libasprintf =0.23.1 =h8e693c7_0
     - libasprintf-devel =0.23.1 =h8e693c7_0
-    - libblas =3.9.0 =28_h59b9bed_openblas
+    - libblas =3.9.0 =29_h59b9bed_openblas
     - libbrotlicommon =1.1.0 =hb9d3cd8_2
     - libbrotlidec =1.1.0 =hb9d3cd8_2
     - libbrotlienc =1.1.0 =hb9d3cd8_2
     - libcap =2.71 =h39aace5_0
-    - libcblas =3.9.0 =28_he106b2a_openblas
+    - libcblas =3.9.0 =29_he106b2a_openblas
     - libclang-cpp19.1 =19.1.7 =default_hb5137d0_1
     - libclang13 =19.1.7 =default_h9c6a7e4_1
     - libcups =2.3.3 =h4637d8d_4
@@ -216,9 +216,10 @@ requirements:
     - libglx =1.7.0 =ha4b6fd6_2
     - libgomp =14.2.0 =h77fa898_1
     - libgpg-error =1.51 =hbd13f7d_1
+    - libhwloc =2.11.2 =default_h0d58e46_1001
     - libiconv =1.17 =hd590300_2
     - libjpeg-turbo =3.0.0 =hd590300_1
-    - liblapack =3.9.0 =28_h7ac8fdf_openblas
+    - liblapack =3.9.0 =29_h7ac8fdf_openblas
     - libllvm15 =15.0.7 =hb3ce162_4
     - libllvm19 =19.1.7 =ha7bfdaf_1
     - liblzma =5.6.4 =hb9d3cd8_0
@@ -231,7 +232,7 @@ requirements:
     - libopus =1.3.1 =h7f98852_1
     - libpciaccess =0.18 =hd590300_0
     - libpng =1.6.46 =h943b412_0
-    - libpq =17.2 =h3b95a9b_1
+    - libpq =17.3 =h27ae623_0
     - libsanitizer =14.2.0 =h2a3dede_1
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.20 =h4ab18f5_0
@@ -252,6 +253,7 @@ requirements:
     - libxml2 =2.13.5 =h8d12d68_1
     - libxslt =1.1.39 =h76b75d6_0
     - libzlib =1.3.1 =hb9d3cd8_2
+    - llvm-openmp =19.1.7 =h024ca30_0
     - llvmlite =0.44.0 =py310h1a6248f_0
     - lz4-c =1.10.0 =h5888daf_1
     - make =4.4.1 =hb9d3cd8_2
@@ -259,6 +261,7 @@ requirements:
     - matplotlib-base =3.10.0 =py310h68603db_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mistune =3.1.1 =pyhd8ed1ab_0
+    - mkl =2024.2.2 =ha957f24_16
     - mpc =1.3.1 =h24ddda3_1
     - mpfr =4.2.1 =h90cbb55_3
     - mpg123 =1.32.9 =hc50e24c_0
@@ -339,7 +342,7 @@ requirements:
     - r-caret =6.0_94 =r44hdb488b9_2
     - r-cellranger =1.1.0 =r44hc72bb7e_1007
     - r-class =7.3_23 =r44h2b5f3a1_0
-    - r-cli =3.6.3 =r44h0d4f4ea_1
+    - r-cli =3.6.3 =r44h93ab643_2
     - r-clipr =0.8.0 =r44hc72bb7e_3
     - r-clock =0.7.1 =r44h0d4f4ea_0
     - r-cluster =2.1.8 =r44hb67ce94_0
@@ -443,7 +446,7 @@ requirements:
     - r-ps =1.8.1 =r44h2b5f3a1_0
     - r-purrr =1.0.2 =r44hdb488b9_1
     - r-quantmod =0.4.26 =r44hc72bb7e_1
-    - r-r6 =2.5.1 =r44hc72bb7e_3
+    - r-r6 =2.6.0 =r44hc72bb7e_0
     - r-ragg =1.3.3 =r44h9aa3752_0
     - r-randomforest =4.7_1.2 =r44hb67ce94_0
     - r-rappdirs =0.3.3 =r44hb1dbf0f_3
@@ -524,6 +527,7 @@ requirements:
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.11.0 =pyhd8ed1ab_1
     - sysroot_linux-64 =2.17 =h0157908_18
+    - tbb =2021.13.0 =hceb3a55_1
     - terminado =0.18.1 =pyh0d859eb_0
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_h4845f30_101

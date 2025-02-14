@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.3.6 =pyhd8ed1ab_0
     - pydot =3.0.4 =py39h6e9494a_0
     - pyqt =5.15.9 =py39h3dce684_5
-    - pytorch =2.5.1 =cpu_mkl_py39_h3446ff2_113
+    - pytorch =2.6.0 =cpu_mkl_py39_hfdd39ad_100
     - scikit-learn =0.23.2 =py39hcaaab68_3
     - scipy =1.5.3 =py39h3164f57_0
     - scrapy =2.12.0 =py39h6e9494a_1
@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.14.1 =py39h5b4affa_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_0
 
-    # 389 secondary packages :
+    # 390 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - adwaita-icon-theme =47.0 =unix_0
     - aiohappyeyeballs =2.4.6 =pyhd8ed1ab_0
@@ -244,7 +244,7 @@ requirements:
     - libopus =1.3.1 =hc929b4f_1
     - libparquet =18.1.0 =h3e22b07_15_cpu
     - libpng =1.6.46 =h3c4a55f_0
-    - libpq =17.2 =h639cf83_1
+    - libpq =17.3 =h9c5cfc2_0
     - libprotobuf =5.28.3 =h6401091_1
     - libre2-11 =2024.07.02 =h0e468a2_2
     - librsvg =2.58.4 =h21a6cfa_2
@@ -253,7 +253,7 @@ requirements:
     - libssh2 =1.11.1 =h3dc7d44_0
     - libthrift =0.21.0 =h75589b3_0
     - libtiff =4.7.0 =hb77a491_3
-    - libtorch =2.5.1 =cpu_mkl_h786c6a1_113
+    - libtorch =2.6.0 =cpu_mkl_h8a2c0b0_100
     - libutf8proc =2.10.0 =h777c5d8_0
     - libuv =1.50.0 =h4cb831e_0
     - libvorbis =1.3.7 =h046ec9c_0
@@ -274,9 +274,9 @@ requirements:
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - missingno =0.5.2 =pyhd8ed1ab_0
     - mkl =2023.2.0 =h54c2260_50500
-    - mlflow =2.20.1 =h6e9494a_1
-    - mlflow-skinny =2.20.1 =py39h6e9494a_1
-    - mlflow-ui =2.20.1 =py39h6e9494a_1
+    - mlflow =2.20.2 =h6e9494a_0
+    - mlflow-skinny =2.20.2 =py39h6e9494a_0
+    - mlflow-ui =2.20.2 =py39h6e9494a_0
     - mlxtend =0.23.4 =pyhd8ed1ab_0
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
@@ -303,6 +303,7 @@ requirements:
     - opentelemetry-api =1.16.0 =pyhd8ed1ab_0
     - opentelemetry-sdk =1.16.0 =pyhd8ed1ab_0
     - opentelemetry-semantic-conventions =0.37b0 =pyhd8ed1ab_0
+    - optree =0.14.0 =py39ha3ffea8_1
     - orc =2.0.3 =h85ea3fe_2
     - packaging =24.2 =pyhd8ed1ab_2
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
