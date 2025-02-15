@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.12.8 =h9ccd52b_1_cpython
+    - python =3.12.9 =h9ccd52b_0_cpython
   run:
-    - python =3.12.8 =h9ccd52b_1_cpython
+    - python =3.12.9 =h9ccd52b_0_cpython
 
     # 38 primary packages :
     - aiohttp =3.11.12 =py312h3520af0_0
@@ -91,7 +91,7 @@ requirements:
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.2 =h950ec3b_1
     - cctools_osx-64 =1010.6 =h96393e6_3
-    - certifi =2024.12.14 =pyhd8ed1ab_0
+    - certifi =2025.1.31 =pyhd8ed1ab_0
     - cffi =1.17.1 =py312hf857d28_0
     - charset-normalizer =3.4.1 =pyhd8ed1ab_0
     - clang =19.1.7 =default_h576c50e_1
@@ -109,8 +109,8 @@ requirements:
     - compiler-rt_osx-64 =19.1.7 =hc6f8467_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.3.1 =py312hc47a885_0
-    - cpython =3.12.8 =py312hd8ed1ab_1
-    - curl =8.11.1 =h5dec5d8_0
+    - cpython =3.12.9 =py312hd8ed1ab_0
+    - curl =8.12.1 =h5dec5d8_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =hf9bab2b_7
     - debugpy =1.8.12 =py312haafddd8_0
@@ -186,7 +186,7 @@ requirements:
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang-cpp19.1 =19.1.7 =default_h3571c67_1
     - libclang13 =19.1.7 =default_hf2b7afa_1
-    - libcurl =8.11.1 =h5dec5d8_0
+    - libcurl =8.12.1 =h5dec5d8_0
     - libcxx =19.1.7 =hf95d169_0
     - libcxx-devel =19.1.7 =h7c275be_0
     - libdeflate =1.23 =he65b83e_0
@@ -312,7 +312,7 @@ requirements:
     - r-caret =6.0_94 =r44h6b9d099_2
     - r-cellranger =1.1.0 =r44hc72bb7e_1007
     - r-class =7.3_23 =r44h79f565e_0
-    - r-cli =3.6.3 =r44h2711daa_2
+    - r-cli =3.6.4 =r44h2711daa_1
     - r-clipr =0.8.0 =r44hc72bb7e_3
     - r-clock =0.7.1 =r44h25d921d_0
     - r-cluster =2.1.8 =r44hb3c2f18_0

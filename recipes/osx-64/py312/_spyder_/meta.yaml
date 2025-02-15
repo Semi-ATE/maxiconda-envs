@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.12.8 =h9ccd52b_1_cpython
+    - python =3.12.9 =h9ccd52b_0_cpython
   run:
-    - python =3.12.8 =h9ccd52b_1_cpython
+    - python =3.12.9 =h9ccd52b_0_cpython
 
     # 9 primary packages :
     - cython =3.0.12 =py312hdfbeeba_0
@@ -62,7 +62,7 @@ requirements:
     - brotli-python =1.1.0 =py312h5861a67_2
     - bzip2 =1.0.8 =hfdf4475_7
     - ca-certificates =2025.1.31 =h8857fd0_0
-    - certifi =2024.12.14 =pyhd8ed1ab_0
+    - certifi =2025.1.31 =pyhd8ed1ab_0
     - cffi =1.17.1 =py312hf857d28_0
     - chardet =5.2.0 =py312hb401068_2
     - charset-normalizer =3.4.1 =pyhd8ed1ab_0
@@ -72,7 +72,7 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_1
     - contourpy =1.3.1 =py312hc47a885_0
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
-    - cpython =3.12.8 =py312hd8ed1ab_1
+    - cpython =3.12.9 =py312hd8ed1ab_0
     - cryptography =44.0.1 =py312h0995e51_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =hf9bab2b_7
