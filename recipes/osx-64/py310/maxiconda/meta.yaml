@@ -53,7 +53,7 @@ requirements:
     - regex =2024.11.6 =py310hbb8c376_0
     - requests =2.32.3 =pyhd8ed1ab_1
     - rust =1.84.0 =h34a2095_0
-    - scipy =1.15.1 =py310hf1ced75_0
+    - scipy =1.15.2 =py310hef62574_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
     - sqlalchemy =2.0.38 =py310hbb8c376_0
@@ -179,11 +179,11 @@ requirements:
     - ld64_osx-64 =951.9 =h5ab288c_3
     - lerc =4.0.0 =hb486fe8_0
     - libasprintf =0.23.1 =h27064b9_0
-    - libblas =3.9.0 =29_h7f60823_openblas
+    - libblas =3.9.0 =30_h7f60823_openblas
     - libbrotlicommon =1.1.0 =h00291cd_2
     - libbrotlidec =1.1.0 =h00291cd_2
     - libbrotlienc =1.1.0 =h00291cd_2
-    - libcblas =3.9.0 =29_hff6cab4_openblas
+    - libcblas =3.9.0 =30_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang-cpp19.1 =19.1.7 =default_h3571c67_1
     - libclang13 =19.1.7 =default_hf2b7afa_1
@@ -204,7 +204,7 @@ requirements:
     - libintl =0.23.1 =h27064b9_0
     - libintl-devel =0.23.1 =h27064b9_0
     - libjpeg-turbo =3.0.0 =h0dc2134_1
-    - liblapack =3.9.0 =29_h236ab99_openblas
+    - liblapack =3.9.0 =30_h236ab99_openblas
     - libllvm15 =15.0.7 =hc29ff6c_5
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm19 =19.1.7 =hc29ff6c_1
@@ -212,7 +212,7 @@ requirements:
     - libnghttp2 =1.64.0 =hc7306c3_0
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =hfdf4475_0
-    - libopenblas =0.3.28 =openmp_hbf64a52_1
+    - libopenblas =0.3.29 =openmp_hbf64a52_0
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.46 =h3c4a55f_0
     - libpq =17.3 =h9c5cfc2_0

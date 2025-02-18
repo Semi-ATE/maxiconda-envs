@@ -53,7 +53,7 @@ requirements:
     - regex =2024.11.6 =py311ha879c10_0
     - requests =2.32.3 =pyhd8ed1ab_1
     - rust =1.84.0 =h21fc29f_0
-    - scipy =1.15.1 =py311h13dcf5b_0
+    - scipy =1.15.2 =py311h2973cce_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
     - sqlalchemy =2.0.38 =py311h5487e9b_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.2 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 510 secondary packages :
+    # 511 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.6 =pyhd8ed1ab_0
@@ -180,12 +180,12 @@ requirements:
     - lerc =4.0.0 =h4de3ea5_0
     - libasprintf =0.23.1 =h5e0f5ae_0
     - libasprintf-devel =0.23.1 =h5e0f5ae_0
-    - libblas =3.9.0 =29_h1a9f1db_openblas
+    - libblas =3.9.0 =30_h1a9f1db_openblas
     - libbrotlicommon =1.1.0 =h86ecc28_2
     - libbrotlidec =1.1.0 =h86ecc28_2
     - libbrotlienc =1.1.0 =h86ecc28_2
     - libcap =2.71 =h51d75a7_0
-    - libcblas =3.9.0 =29_hab92f65_openblas
+    - libcblas =3.9.0 =30_hab92f65_openblas
     - libclang-cpp19.1 =19.1.7 =default_he324ac1_1
     - libclang13 =19.1.7 =default_h4390ef5_1
     - libcups =2.3.3 =h405e4a8_4
@@ -216,7 +216,7 @@ requirements:
     - libgpg-error =1.51 =h05609ea_1
     - libiconv =1.17 =h31becfc_2
     - libjpeg-turbo =3.0.0 =h31becfc_1
-    - liblapack =3.9.0 =29_h411afd4_openblas
+    - liblapack =3.9.0 =30_h411afd4_openblas
     - libllvm15 =15.0.7 =hcc6320c_5
     - libllvm19 =19.1.7 =h2edbd07_1
     - liblzma =5.6.4 =h86ecc28_0
@@ -224,7 +224,7 @@ requirements:
     - libnsl =2.0.1 =h31becfc_0
     - libntlm =1.4 =hf897c2e_1002
     - libogg =1.3.5 =h0b9eccb_0
-    - libopenblas =0.3.28 =pthreads_h9d3fd7e_1
+    - libopenblas =0.3.29 =pthreads_h9d3fd7e_0
     - libopengl =1.7.0 =hd24410f_2
     - libopus =1.3.1 =hf897c2e_1
     - libpciaccess =0.18 =h31becfc_0
@@ -381,7 +381,7 @@ requirements:
     - r-googlesheets4 =1.1.1 =r44h785f33e_2
     - r-gower =1.0.1 =r44hc1cf72c_2
     - r-gtable =0.3.6 =r44hc72bb7e_0
-    - r-hardhat =1.4.0 =r44hc72bb7e_1
+    - r-hardhat =1.4.1 =r44hc72bb7e_0
     - r-haven =2.5.4 =r44h6170684_1
     - r-hexbin =1.28.5 =r44h6e524ba_0
     - r-highr =0.11 =r44hc72bb7e_1
@@ -469,6 +469,7 @@ requirements:
     - r-shape =1.4.6.1 =r44ha770c72_1
     - r-shiny =1.10.0 =r44h785f33e_0
     - r-sourcetools =0.1.7_1 =r44h6170684_2
+    - r-sparsevctrs =0.2.0 =r44hdd76399_1
     - r-spatial =7.3_18 =r44hdd76399_0
     - r-squarem =2021.1 =r44hc72bb7e_3
     - r-stringi =1.8.4 =r44h892b02f_3
