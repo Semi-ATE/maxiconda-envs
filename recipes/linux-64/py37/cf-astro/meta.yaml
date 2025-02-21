@@ -106,11 +106,11 @@ requirements:
     - libogg =1.3.5 =h4ab18f5_0
     - libopus =1.3.1 =h7f98852_1
     - libpciaccess =0.18 =hd590300_0
-    - libpng =1.6.46 =h943b412_0
-    - libpq =17.3 =h27ae623_0
+    - libpng =1.6.47 =h943b412_0
+    - libpq =17.4 =h27ae623_0
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
-    - libsqlite =3.49.1 =hee588c1_0
+    - libsqlite =3.49.1 =hee588c1_1
     - libstdcxx =14.2.0 =hc0a3c3a_1
     - libstdcxx-ng =14.2.0 =h4852527_1
     - libsystemd0 =257.3 =h3dc2cb9_0
@@ -118,7 +118,7 @@ requirements:
     - libvorbis =1.3.7 =h9c3ff4c_0
     - libxcb =1.17.0 =h8a09558_0
     - libxkbcommon =1.8.0 =hc4a0caf_0
-    - libxml2 =2.13.5 =h8d12d68_1
+    - libxml2 =2.13.6 =h8d12d68_0
     - libzlib =1.3.1 =hb9d3cd8_2
     - lz4-c =1.10.0 =h5888daf_1
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
@@ -154,7 +154,7 @@ requirements:
     - setuptools =69.0.3 =pyhd8ed1ab_0
     - sip =6.7.2 =py37hd23a5d3_0
     - six =1.16.0 =pyh6c4a22f_0
-    - sqlite =3.49.1 =h9eae976_0
+    - sqlite =3.49.1 =h9eae976_1
     - tk =8.6.13 =noxft_h4845f30_101
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.2 =py37h540881e_0
@@ -182,7 +182,7 @@ requirements:
     - xz-gpl-tools =5.6.4 =hbcc6ac9_0
     - xz-tools =5.6.4 =hb9d3cd8_0
     - zeromq =4.3.5 =h75354e8_4
-    - zstd =1.5.6 =ha6fb4c9_0
+    - zstd =1.5.7 =hb8e6e7a_0
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

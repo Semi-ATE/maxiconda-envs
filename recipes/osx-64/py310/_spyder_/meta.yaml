@@ -91,7 +91,7 @@ requirements:
     - fonttools =4.56.0 =py310h8e2f543_0
     - freetype =2.12.1 =h60636b9_2
     - frozenlist =1.5.0 =py310h8e2f543_1
-    - fzf =0.60.0 =he954eb5_0
+    - fzf =0.60.1 =he954eb5_0
     - giflib =5.2.2 =h10d778d_0
     - glib =2.82.2 =h915cd9b_1
     - glib-tools =2.82.2 =hf8faeaf_1
@@ -128,11 +128,11 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hb486fe8_0
-    - libblas =3.9.0 =30_h7f60823_openblas
+    - libblas =3.9.0 =31_h7f60823_openblas
     - libbrotlicommon =1.1.0 =h00291cd_2
     - libbrotlidec =1.1.0 =h00291cd_2
     - libbrotlienc =1.1.0 =h00291cd_2
-    - libcblas =3.9.0 =30_hff6cab4_openblas
+    - libcblas =3.9.0 =31_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =19.1.7 =default_hf2b7afa_1
     - libcxx =19.1.7 =hf95d169_0
@@ -146,7 +146,7 @@ requirements:
     - libintl =0.23.1 =h27064b9_0
     - libintl-devel =0.23.1 =h27064b9_0
     - libjpeg-turbo =3.0.0 =h0dc2134_1
-    - liblapack =3.9.0 =30_h236ab99_openblas
+    - liblapack =3.9.0 =31_h236ab99_openblas
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm19 =19.1.7 =hc29ff6c_1
     - liblzma =5.6.4 =hd471939_0
@@ -154,17 +154,17 @@ requirements:
     - libogg =1.3.5 =hfdf4475_0
     - libopenblas =0.3.29 =openmp_hbf64a52_0
     - libopus =1.3.1 =hc929b4f_1
-    - libpng =1.6.46 =h3c4a55f_0
-    - libpq =17.3 =h9c5cfc2_0
+    - libpng =1.6.47 =h3c4a55f_0
+    - libpq =17.4 =h9c5cfc2_0
     - libsodium =1.0.20 =hfdf4475_0
     - libspatialindex =2.1.0 =h501a4e1_0
-    - libsqlite =3.49.1 =hdb6dae5_0
+    - libsqlite =3.49.1 =hdb6dae5_1
     - libtiff =4.7.0 =hb77a491_3
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp =1.5.0 =h2bf92d2_0
     - libwebp-base =1.5.0 =h6cf52b4_0
     - libxcb =1.17.0 =hf1f96e2_0
-    - libxml2 =2.13.5 =hebb159f_1
+    - libxml2 =2.13.6 =hebb159f_0
     - libzlib =1.3.1 =hd23fc13_2
     - llvm-openmp =19.1.7 =ha54dae1_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_1
@@ -173,7 +173,7 @@ requirements:
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
-    - mistune =3.1.1 =pyhd8ed1ab_0
+    - mistune =3.1.2 =pyhd8ed1ab_0
     - more-itertools =10.6.0 =pyhd8ed1ab_0
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
@@ -318,8 +318,8 @@ requirements:
     - yarl =1.18.3 =py310h8e2f543_1
     - zeromq =4.3.5 =h7130eaa_7
     - zipp =3.21.0 =pyhd8ed1ab_1
-    - zstandard =0.23.0 =py310h41d873f_1
-    - zstd =1.5.6 =h915ae27_0
+    - zstandard =0.19.0 =py310h90acd4f_0
+    - zstd =1.5.7 =h8210216_0
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

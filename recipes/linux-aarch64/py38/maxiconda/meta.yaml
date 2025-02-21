@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
     - sqlalchemy =2.0.32 =py38h34c6dc0_0
-    - sqlite =3.49.1 =h578a6b9_0
+    - sqlite =3.49.1 =h578a6b9_1
     - sympy =1.13.3 =pyh2585a3b_104
     - tqdm =4.67.1 =pyhd8ed1ab_0
     - transitions =0.9.2 =pyhd8ed1ab_0
@@ -233,12 +233,12 @@ requirements:
     - libopenblas =0.3.25 =pthreads_h5a5ec62_0
     - libopus =1.3.1 =hf897c2e_1
     - libpciaccess =0.18 =h31becfc_0
-    - libpng =1.6.46 =hec79eb8_0
-    - libpq =17.3 =hf590da8_0
+    - libpng =1.6.47 =hec79eb8_0
+    - libpq =17.4 =hf590da8_0
     - libsanitizer =14.2.0 =hff26f3d_1
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
-    - libsqlite =3.49.1 =h5eb1b54_0
+    - libsqlite =3.49.1 =h5eb1b54_1
     - libssh2 =1.11.1 =ha41c0db_0
     - libstdcxx =14.2.0 =h3f4de04_1
     - libstdcxx-devel_linux-aarch64 =14.2.0 =h46490cb_101
@@ -252,7 +252,7 @@ requirements:
     - libxcb =1.17.0 =h262b8f6_0
     - libxcrypt =4.4.36 =h31becfc_1
     - libxkbcommon =1.8.0 =h2ef6bd0_0
-    - libxml2 =2.13.5 =h2e0c361_1
+    - libxml2 =2.13.6 =h2e0c361_0
     - libzlib =1.3.1 =h86ecc28_2
     - llvmlite =0.41.1 =py38h95a9722_0
     - lz4-c =1.10.0 =h5ad3122_1
@@ -400,7 +400,7 @@ requirements:
     - r-isoband =0.2.7 =r44h6170684_3
     - r-iterators =1.0.14 =r44hc72bb7e_3
     - r-jquerylib =0.1.4 =r44hc72bb7e_3
-    - r-jsonlite =1.8.9 =r44hdd76399_0
+    - r-jsonlite =1.9.0 =r44hdd76399_0
     - r-kernsmooth =2.23_26 =r44h65a6711_0
     - r-knitr =1.49 =r44hc72bb7e_0
     - r-labeling =0.4.3 =r44hc72bb7e_1
@@ -486,7 +486,7 @@ requirements:
     - r-tidyverse =2.0.0 =r44h785f33e_2
     - r-timechange =0.3.0 =r44h6170684_1
     - r-timedate =4041.110 =r44hc72bb7e_0
-    - r-tinytex =0.54 =r44hc72bb7e_0
+    - r-tinytex =0.55 =r44hc72bb7e_0
     - r-triebeard =0.4.1 =r44h6170684_2
     - r-ttr =0.24.4 =r44hc1cf72c_1
     - r-tzdb =0.4.0 =r44h6170684_2
@@ -497,7 +497,7 @@ requirements:
     - r-viridislite =0.4.2 =r44hc72bb7e_2
     - r-vroom =1.6.5 =r44h6170684_1
     - r-withr =3.0.2 =r44hc72bb7e_0
-    - r-xfun =0.50 =r44h21d2c02_0
+    - r-xfun =0.51 =r44h21d2c02_0
     - r-xml2 =1.3.6 =r44h8669be1_2
     - r-xtable =1.8_4 =r44hc72bb7e_6
     - r-xts =0.14.1 =r44hdd76399_0
