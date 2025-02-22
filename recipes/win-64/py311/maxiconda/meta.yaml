@@ -78,7 +78,7 @@ requirements:
     - async-lru =2.0.4 =pyhd8ed1ab_1
     - attrs =25.1.0 =pyh71513ae_0
     - babel =2.17.0 =pyhd8ed1ab_0
-    - binutils_impl_win-64 =2.43 =h095e170_2
+    - binutils_impl_win-64 =2.43 =h095e170_4
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
     - brotli =1.1.0 =h2466b09_2
@@ -164,7 +164,7 @@ requirements:
     - kiwisolver =1.4.7 =py311h3257749_0
     - krb5 =1.21.3 =hdf4eb48_0
     - lcms2 =2.17 =hbcf6048_0
-    - ld_impl_win-64 =2.43 =hae1bf67_2
+    - ld_impl_win-64 =2.43 =hae1bf67_4
     - lerc =4.0.0 =h63175ca_0
     - libblas =3.9.0 =31_h641d27c_mkl
     - libbrotlicommon =1.1.0 =h2466b09_2
@@ -183,7 +183,7 @@ requirements:
     - libglib =2.82.2 =h7025463_1
     - libgomp =14.2.0 =h1383e82_1
     - libhwloc =2.11.2 =default_ha69328c_1001
-    - libiconv =1.17 =hcfcfb64_2
+    - libiconv =1.18 =h135ad9c_1
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
@@ -203,7 +203,7 @@ requirements:
     - libwebp-base =1.5.0 =h3b0e114_0
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_9
     - libxcb =1.17.0 =h0e4246c_0
-    - libxml2 =2.13.5 =he286e8c_1
+    - libxml2 =2.13.6 =he286e8c_0
     - libxslt =1.1.39 =h3df6e99_0
     - libzlib =1.3.1 =h2466b09_2
     - llvmlite =0.44.0 =py311h7deaa30_0
@@ -379,7 +379,7 @@ requirements:
     - r-plyr =1.8.9 =r44h8ae3a7c_1
     - r-prettyunits =1.2.0 =r44hc72bb7e_1
     - r-proc =1.18.5 =r44h8ae3a7c_1
-    - r-processx =3.8.5 =r44h11b023d_0
+    - r-processx =3.8.6 =r44h11b023d_0
     - r-prodlim =2024.06.25 =r44h8ae3a7c_1
     - r-progress =1.2.3 =r44hc72bb7e_1
     - r-progressr =0.15.1 =r44hc72bb7e_0
@@ -453,7 +453,7 @@ requirements:
     - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.22.3 =py311h533ab2d_0
+    - rpds-py =0.23.1 =py311ha250665_0
     - ruamel.yaml =0.18.10 =py311he736701_0
     - ruamel.yaml.clib =0.2.8 =py311he736701_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1

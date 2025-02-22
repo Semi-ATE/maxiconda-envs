@@ -80,7 +80,7 @@ requirements:
     - attr =2.5.1 =h4e544f5_1
     - attrs =25.1.0 =pyh71513ae_0
     - babel =2.17.0 =pyhd8ed1ab_0
-    - binutils_impl_linux-aarch64 =2.43 =h4c662bb_2
+    - binutils_impl_linux-aarch64 =2.43 =h4c662bb_4
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
     - brotli =1.1.0 =h86ecc28_2
@@ -176,7 +176,7 @@ requirements:
     - krb5 =1.21.3 =h50a48e9_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.17 =hc88f144_0
-    - ld_impl_linux-aarch64 =2.43 =h80caac9_2
+    - ld_impl_linux-aarch64 =2.43 =h80caac9_4
     - lerc =4.0.0 =h4de3ea5_0
     - libasprintf =0.23.1 =h5e0f5ae_0
     - libasprintf-devel =0.23.1 =h5e0f5ae_0
@@ -214,7 +214,7 @@ requirements:
     - libglx =1.7.0 =hd24410f_2
     - libgomp =14.2.0 =he277a41_1
     - libgpg-error =1.51 =h05609ea_1
-    - libiconv =1.18 =hc99b53d_0
+    - libiconv =1.18 =hc99b53d_1
     - libjpeg-turbo =3.0.0 =h31becfc_1
     - liblapack =3.9.0 =31_h411afd4_openblas
     - libllvm15 =15.0.7 =hcc6320c_5
@@ -431,7 +431,7 @@ requirements:
     - r-plyr =1.8.9 =r44h6170684_1
     - r-prettyunits =1.2.0 =r44hc72bb7e_1
     - r-proc =1.18.5 =r44h6170684_1
-    - r-processx =3.8.5 =r44hdd76399_0
+    - r-processx =3.8.6 =r44hdd76399_0
     - r-prodlim =2024.06.25 =r44h6170684_1
     - r-progress =1.2.3 =r44hc72bb7e_1
     - r-progressr =0.15.1 =r44hc72bb7e_0
@@ -506,7 +506,7 @@ requirements:
     - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.22.3 =py312ha4e36d7_0
+    - rpds-py =0.23.1 =py312he7a34ca_0
     - ruamel.yaml =0.18.10 =py312hb2c0f52_0
     - ruamel.yaml.clib =0.2.8 =py312hb2c0f52_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1

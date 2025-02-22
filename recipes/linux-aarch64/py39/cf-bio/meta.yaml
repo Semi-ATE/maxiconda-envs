@@ -76,7 +76,7 @@ requirements:
     - greenlet =3.1.1 =py39h7dbf29c_1
     - gst-plugins-base =1.24.7 =h570c1df_0
     - gstreamer =1.24.7 =h37d20eb_0
-    - harfbuzz =10.2.0 =h785c1aa_0
+    - harfbuzz =10.3.0 =hb5e3f52_0
     - icu =75.1 =hf9b3779_0
     - importlib-metadata =8.6.1 =pyha770c72_0
     - importlib-resources =6.5.2 =pyhd8ed1ab_0
@@ -91,7 +91,7 @@ requirements:
     - krb5 =1.21.3 =h50a48e9_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.17 =hc88f144_0
-    - ld_impl_linux-aarch64 =2.43 =h80caac9_2
+    - ld_impl_linux-aarch64 =2.43 =h80caac9_4
     - lerc =4.0.0 =h4de3ea5_0
     - libasprintf =0.23.1 =h5e0f5ae_0
     - libasprintf-devel =0.23.1 =h5e0f5ae_0
@@ -128,7 +128,7 @@ requirements:
     - libglx =1.7.0 =hd24410f_2
     - libgomp =14.2.0 =he277a41_1
     - libgpg-error =1.51 =h05609ea_1
-    - libiconv =1.18 =hc99b53d_0
+    - libiconv =1.18 =hc99b53d_1
     - libjpeg-turbo =3.0.0 =h31becfc_1
     - liblapack =3.9.0 =31_h411afd4_openblas
     - libllvm19 =19.1.7 =h2edbd07_1

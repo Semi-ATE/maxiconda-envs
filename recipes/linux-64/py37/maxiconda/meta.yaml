@@ -81,7 +81,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_4
     - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py37h540881e_5
-    - binutils_impl_linux-64 =2.43 =h4bf12b8_2
+    - binutils_impl_linux-64 =2.43 =h4bf12b8_4
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.1.0 =hb9d3cd8_2
     - brotli-bin =1.1.0 =hb9d3cd8_2
@@ -159,7 +159,7 @@ requirements:
     - krb5 =1.20.1 =h81ceb04_0
     - lame =3.100 =h166bdaf_1003
     - lcms2 =2.14 =h6ed2654_0
-    - ld_impl_linux-64 =2.43 =h712a8e2_2
+    - ld_impl_linux-64 =2.43 =h712a8e2_4
     - lerc =4.0.0 =h27087fc_0
     - libasprintf =0.23.1 =h8e693c7_0
     - libasprintf-devel =0.23.1 =h8e693c7_0
@@ -196,7 +196,7 @@ requirements:
     - libglib =2.78.1 =hebfc3b9_0
     - libgomp =14.2.0 =h77fa898_1
     - libgpg-error =1.51 =hbd13f7d_1
-    - libiconv =1.18 =h4ce23a2_0
+    - libiconv =1.18 =h4ce23a2_1
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm11 =11.1.0 =he0ac6c6_5
     - libllvm15 =15.0.7 =hadd5161_1

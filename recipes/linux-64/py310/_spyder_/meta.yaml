@@ -148,7 +148,7 @@ requirements:
     - krb5 =1.21.3 =h659f571_0
     - lame =3.100 =h166bdaf_1003
     - lcms2 =2.17 =h717163a_0
-    - ld_impl_linux-64 =2.43 =h712a8e2_2
+    - ld_impl_linux-64 =2.43 =h712a8e2_4
     - lerc =4.0.0 =h27087fc_0
     - libasprintf =0.23.1 =h8e693c7_0
     - libasprintf-devel =0.23.1 =h8e693c7_0
@@ -182,7 +182,7 @@ requirements:
     - libglx =1.7.0 =ha4b6fd6_2
     - libgomp =14.2.0 =h77fa898_1
     - libgpg-error =1.51 =hbd13f7d_1
-    - libiconv =1.18 =h4ce23a2_0
+    - libiconv =1.18 =h4ce23a2_1
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =31_h7ac8fdf_openblas
     - libllvm19 =19.1.7 =ha7bfdaf_1
@@ -315,7 +315,7 @@ requirements:
     - requests =2.32.3 =pyhd8ed1ab_1
     - rich =13.9.4 =pyhd8ed1ab_1
     - rope =1.13.0 =pyhd8ed1ab_1
-    - rpds-py =0.22.3 =py310h505e2c1_0
+    - rpds-py =0.23.1 =py310hc1293b2_0
     - rtree =1.3.0 =py310hfd4b839_3
     - secretstorage =3.3.3 =py310hff52083_3
     - setuptools =75.8.0 =pyhff2d567_0
