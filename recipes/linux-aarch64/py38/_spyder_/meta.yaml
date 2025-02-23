@@ -169,19 +169,19 @@ requirements:
     - libexpat =2.6.4 =h5ad3122_0
     - libffi =3.4.6 =he21f813_0
     - libflac =1.4.3 =h2f0025b_0
-    - libgcc =14.2.0 =he277a41_1
-    - libgcc-ng =14.2.0 =he9431aa_1
+    - libgcc =14.2.0 =he277a41_2
+    - libgcc-ng =14.2.0 =he9431aa_2
     - libgcrypt-lib =1.11.0 =h86ecc28_2
     - libgettextpo =0.23.1 =h5ad3122_0
     - libgettextpo-devel =0.23.1 =h5ad3122_0
-    - libgfortran =14.2.0 =he9431aa_1
-    - libgfortran-ng =14.2.0 =he9431aa_1
-    - libgfortran5 =14.2.0 =hb6113d0_1
+    - libgfortran =14.2.0 =he9431aa_2
+    - libgfortran-ng =14.2.0 =he9431aa_2
+    - libgfortran5 =14.2.0 =hb6113d0_2
     - libgl =1.7.0 =hd24410f_2
     - libglib =2.82.2 =hc486b8e_1
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
-    - libgomp =14.2.0 =he277a41_1
+    - libgomp =14.2.0 =he277a41_2
     - libgpg-error =1.51 =h05609ea_1
     - libiconv =1.18 =hc99b53d_1
     - libjpeg-turbo =3.0.0 =h31becfc_1
@@ -201,8 +201,8 @@ requirements:
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =2.0.0 =h0a1ffab_0
     - libsqlite =3.49.1 =h5eb1b54_1
-    - libstdcxx =14.2.0 =h3f4de04_1
-    - libstdcxx-ng =14.2.0 =hf1166c9_1
+    - libstdcxx =14.2.0 =h3f4de04_2
+    - libstdcxx-ng =14.2.0 =hf1166c9_2
     - libsystemd0 =257.3 =h27834fc_0
     - libtiff =4.7.0 =h88f7998_3
     - libuuid =2.38.1 =hb4cce97_0
@@ -273,7 +273,7 @@ requirements:
     - pycparser =2.22 =pyhd8ed1ab_0
     - pydocstyle =6.3.0 =pyhd8ed1ab_0
     - pyflakes =3.2.0 =pyhd8ed1ab_0
-    - pygithub =2.5.0 =pyhd8ed1ab_0
+    - pygithub =2.6.1 =pyhd8ed1ab_0
     - pygments =2.18.0 =pyhd8ed1ab_0
     - pyjwt =2.9.0 =pyhd8ed1ab_1
     - pylint =3.2.7 =pyhd8ed1ab_0
@@ -387,8 +387,8 @@ requirements:
     - yarl =1.9.4 =py38h9579f32_0
     - zeromq =4.3.5 =h28faeed_4
     - zipp =3.21.0 =pyhd8ed1ab_0
-    - zstandard =0.23.0 =py38h134131f_0
-    - zstd =1.5.6 =h02f22dd_0
+    - zstandard =0.19.0 =py38hdacc76a_0
+    - zstd =1.5.7 =hbcf94c1_1
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

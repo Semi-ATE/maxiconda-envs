@@ -43,7 +43,7 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_1
     - cpython =3.9.21 =py39hd8ed1ab_1
     - debugpy =1.8.12 =py39ha51f57c_0
-    - decorator =5.1.1 =pyhd8ed1ab_1
+    - decorator =5.2.0 =pyhd8ed1ab_0
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
     - exceptiongroup =1.2.2 =pyhd8ed1ab_1
     - executing =2.1.0 =pyhd8ed1ab_1
@@ -125,7 +125,7 @@ requirements:
     - wheel =0.45.1 =pyhd8ed1ab_1
     - zeromq =4.3.5 =ha9f60a1_7
     - zipp =3.21.0 =pyhd8ed1ab_1
-    - zstd =1.5.7 =hbeecb71_0
+    - zstd =1.5.7 =hbeecb71_1
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

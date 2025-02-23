@@ -81,7 +81,7 @@ requirements:
     - cyrus-sasl =2.1.27 =h54b06d7_7
     - dbus =1.13.6 =h5008d03_3
     - debugpy =1.8.12 =py311hfdbb021_0
-    - decorator =5.1.1 =pyhd8ed1ab_1
+    - decorator =5.2.0 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.2.18 =pyhd8ed1ab_0
     - diff-match-patch =20241021 =pyhd8ed1ab_1
@@ -168,18 +168,18 @@ requirements:
     - libexpat =2.6.4 =h5888daf_0
     - libffi =3.4.6 =h2dba641_0
     - libflac =1.4.3 =h59595ed_0
-    - libgcc =14.2.0 =h77fa898_1
-    - libgcc-ng =14.2.0 =h69a702a_1
+    - libgcc =14.2.0 =h767d61c_2
+    - libgcc-ng =14.2.0 =h69a702a_2
     - libgcrypt-lib =1.11.0 =hb9d3cd8_2
     - libgettextpo =0.23.1 =h5888daf_0
     - libgettextpo-devel =0.23.1 =h5888daf_0
-    - libgfortran =14.2.0 =h69a702a_1
-    - libgfortran5 =14.2.0 =hd5240d6_1
+    - libgfortran =14.2.0 =h69a702a_2
+    - libgfortran5 =14.2.0 =hf1ad2bd_2
     - libgl =1.7.0 =ha4b6fd6_2
     - libglib =2.82.2 =h2ff4ddf_1
     - libglvnd =1.7.0 =ha4b6fd6_2
     - libglx =1.7.0 =ha4b6fd6_2
-    - libgomp =14.2.0 =h77fa898_1
+    - libgomp =14.2.0 =h767d61c_2
     - libgpg-error =1.51 =hbd13f7d_1
     - libiconv =1.18 =h4ce23a2_1
     - libjpeg-turbo =3.0.0 =hd590300_1
@@ -199,8 +199,8 @@ requirements:
     - libsodium =1.0.20 =h4ab18f5_0
     - libspatialindex =2.1.0 =he57a185_0
     - libsqlite =3.49.1 =hee588c1_1
-    - libstdcxx =14.2.0 =hc0a3c3a_1
-    - libstdcxx-ng =14.2.0 =h4852527_1
+    - libstdcxx =14.2.0 =h8f9b012_2
+    - libstdcxx-ng =14.2.0 =h4852527_2
     - libsystemd0 =257.3 =h3dc2cb9_0
     - libtiff =4.7.0 =hd9ff511_3
     - libuuid =2.38.1 =h0b41bf4_0
@@ -271,7 +271,7 @@ requirements:
     - pycparser =2.22 =pyh29332c3_1
     - pydocstyle =6.3.0 =pyhd8ed1ab_1
     - pyflakes =3.2.0 =pyhd8ed1ab_1
-    - pygithub =2.5.0 =pyhd8ed1ab_0
+    - pygithub =2.6.1 =pyhd8ed1ab_0
     - pygments =2.19.1 =pyhd8ed1ab_0
     - pyjwt =2.10.1 =pyhd8ed1ab_0
     - pylint =3.3.4 =pyh29332c3_0
@@ -313,7 +313,7 @@ requirements:
     - referencing =0.36.2 =pyh29332c3_0
     - requests =2.32.3 =pyhd8ed1ab_1
     - rich =13.9.4 =pyhd8ed1ab_1
-    - roman-numerals-py =3.0.0 =pyhd8ed1ab_0
+    - roman-numerals-py =3.1.0 =pyhd8ed1ab_0
     - rope =1.13.0 =pyhd8ed1ab_1
     - rpds-py =0.23.1 =py311h687327b_0
     - rtree =1.3.0 =py311h0181012_3
@@ -324,7 +324,7 @@ requirements:
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
     - soupsieve =2.5 =pyhd8ed1ab_1
-    - sphinx =8.2.0 =pyhd8ed1ab_0
+    - sphinx =8.2.1 =pyhd8ed1ab_0
     - sphinxcontrib-applehelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-devhelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-htmlhelp =2.1.0 =pyhd8ed1ab_1
@@ -390,7 +390,7 @@ requirements:
     - zeromq =4.3.5 =h3b0a872_7
     - zipp =3.21.0 =pyhd8ed1ab_1
     - zstandard =0.19.0 =py311hd4cff14_0
-    - zstd =1.5.7 =hb8e6e7a_0
+    - zstd =1.5.7 =hb8e6e7a_1
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

@@ -114,7 +114,7 @@ requirements:
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =h60b93bd_7
     - debugpy =1.8.12 =py39h941272d_0
-    - decorator =5.1.1 =pyhd8ed1ab_1
+    - decorator =5.2.0 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
     - exceptiongroup =1.2.2 =pyhd8ed1ab_1
@@ -325,7 +325,7 @@ requirements:
     - r-crayon =1.5.3 =r44hc72bb7e_1
     - r-crul =1.5.0 =r44h785f33e_0
     - r-curl =6.0.1 =r44h95ef94e_0
-    - r-data.table =1.16.4 =r44h28c71e1_0
+    - r-data.table =1.17.0 =r44h28c71e1_0
     - r-dbi =1.2.3 =r44hc72bb7e_1
     - r-dbplyr =2.5.0 =r44hc72bb7e_1
     - r-diagram =1.6.5 =r44ha770c72_3
@@ -476,7 +476,7 @@ requirements:
     - r-xtable =1.8_4 =r44hc72bb7e_6
     - r-xts =0.14.1 =r44h96f7ad7_0
     - r-yaml =2.3.10 =r44h07cda29_0
-    - r-zoo =1.8_12 =r44h07cda29_2
+    - r-zoo =1.8_13 =r44h570997c_0
     - rapidfuzz =3.12.1 =py39h941272d_0
     - readline =8.2 =h92ec313_1
     - referencing =0.36.2 =pyh29332c3_0
@@ -529,7 +529,7 @@ requirements:
     - zipp =3.21.0 =pyhd8ed1ab_1
     - zlib =1.3.1 =h8359307_2
     - zstandard =0.19.0 =py39h02fc5c5_0
-    - zstd =1.5.7 =h6491c7d_0
+    - zstd =1.5.7 =h6491c7d_1
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
