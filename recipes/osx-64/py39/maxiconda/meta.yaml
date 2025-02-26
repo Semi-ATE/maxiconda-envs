@@ -25,13 +25,13 @@ requirements:
     - python =3.9.21 =h7fafba3_1_cpython
 
     # 38 primary packages :
-    - aiohttp =3.11.12 =py39hd18e689_0
+    - aiohttp =3.11.13 =py39hd18e689_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.13.3 =pyha770c72_0
     - bitarray =3.0.0 =py39h296a897_0
     - cython =3.0.12 =py39hfdee7b9_0
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.127.1 =pyha770c72_0
+    - hypothesis =6.127.2 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.5 =pyhd8ed1ab_0
     - matplotlib =3.9.4 =py39h6e9494a_0
@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.4 =r44hd8ed1ab_2005
     - regex =2024.11.6 =py39h80efdc8_0
     - requests =2.32.3 =pyhd8ed1ab_1
-    - rust =1.84.0 =h34a2095_0
+    - rust =1.85.0 =h34a2095_0
     - scipy =1.13.1 =py39h038d4f4_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
@@ -416,7 +416,7 @@ requirements:
     - r-proxy =0.4_27 =r44h6b9d099_3
     - r-pryr =0.1.6 =r44h25d921d_2
     - r-ps =1.8.1 =r44h362b90a_0
-    - r-purrr =1.0.2 =r44h6b9d099_1
+    - r-purrr =1.0.4 =r44h79f565e_0
     - r-quantmod =0.4.26 =r44hc72bb7e_1
     - r-r6 =2.6.1 =r44hc72bb7e_0
     - r-ragg =1.3.3 =r44h3c7d252_0
@@ -487,7 +487,7 @@ requirements:
     - ruamel.yaml =0.18.10 =py39h80efdc8_0
     - ruamel.yaml.clib =0.2.8 =py39h296a897_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-x86_64-apple-darwin =1.84.0 =h38e4360_0
+    - rust-std-x86_64-apple-darwin =1.85.0 =h38e4360_0
     - send2trash =1.8.3 =pyh31c8845_1
     - setuptools =75.8.0 =pyhff2d567_0
     - sigtool =0.1.3 =h88f4db0_0
