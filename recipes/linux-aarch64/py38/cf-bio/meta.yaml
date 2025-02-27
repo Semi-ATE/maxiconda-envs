@@ -34,7 +34,7 @@ requirements:
     - scipy =1.10.1 =py38he3f4005_3
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
 
-    # 221 secondary packages :
+    # 222 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h4e544f5_0
     - asttokens =3.0.0 =pyhd8ed1ab_0
@@ -139,6 +139,7 @@ requirements:
     - libjpeg-turbo =2.1.5.1 =h31becfc_1
     - liblapack =3.9.0 =20_linuxaarch64_openblas
     - libllvm15 =15.0.7 =h87099f9_1
+    - libltdl =2.4.3a =h5ad3122_0
     - liblzma =5.6.4 =h86ecc28_0
     - liblzma-devel =5.6.4 =h86ecc28_0
     - libnsl =2.0.1 =h31becfc_0
@@ -154,7 +155,7 @@ requirements:
     - libstdcxx-ng =14.2.0 =hf1166c9_2
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.5.1 =h360e80f_1
-    - libtool =2.4.7 =h0a1ffab_1
+    - libtool =2.5.4 =h5ad3122_0
     - libudev1 =253 =hb4cce97_1
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0

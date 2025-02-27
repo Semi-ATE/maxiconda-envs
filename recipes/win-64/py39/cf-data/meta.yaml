@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.4 =py39h4b0a98a_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_0
 
-    # 372 secondary packages :
+    # 373 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _py-xgboost-mutex =2.0 =cpu_0
     - aiohappyeyeballs =2.4.6 =pyhd8ed1ab_0
@@ -251,9 +251,9 @@ requirements:
     - miniful =0.0.6 =pyhd8ed1ab_1
     - missingno =0.5.2 =pyhd8ed1ab_0
     - mkl =2024.2.2 =h66d3029_15
-    - mlflow =2.20.2 =hcbf5309_0
-    - mlflow-skinny =2.20.2 =py39hcbf5309_0
-    - mlflow-ui =2.20.2 =py39hcbf5309_0
+    - mlflow =2.20.3 =hcbf5309_0
+    - mlflow-skinny =2.20.3 =py39hcbf5309_0
+    - mlflow-ui =2.20.3 =py39hcbf5309_0
     - mlxtend =0.23.4 =pyhd8ed1ab_0
     - multidict =6.1.0 =py39hf73967f_1
     - multimethod =1.4 =py_0
@@ -359,7 +359,7 @@ requirements:
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
     - spacy-loggers =1.0.5 =pyhd8ed1ab_0
     - sqlparse =0.5.3 =pyhd8ed1ab_0
-    - srsly =2.5.1 =py39ha51f57c_0
+    - srsly =2.5.1 =py39ha51f57c_1
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.13.0 =h62715c5_1
@@ -382,6 +382,7 @@ requirements:
     - typing_extensions =4.12.2 =pyha770c72_1
     - tzdata =2025a =h78e105d_0
     - ucrt =10.0.22621.0 =h57928b3_1
+    - ujson =5.10.0 =py39ha51f57c_1
     - umap-learn =0.5.7 =py39hcbf5309_1
     - unicodedata2 =16.0.0 =py39ha55e580_0
     - urllib3 =2.3.0 =pyhd8ed1ab_0
