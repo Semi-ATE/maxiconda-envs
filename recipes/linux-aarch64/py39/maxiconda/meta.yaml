@@ -40,14 +40,14 @@ requirements:
     - openpyxl =3.1.5 =py39h017ddd6_1
     - paho-mqtt =2.1.0 =pyhd8ed1ab_0
     - pandas =2.2.3 =py39h53ba5a5_2
-    - psutil =6.1.1 =py39h060674a_0
+    - psutil =7.0.0 =py39h060674a_0
     - pydantic =2.10.6 =pyh3cfb1c2_0
     - pyqt =5.15.9 =py39hc7e6f3c_5
     - pyserial =3.5 =pyhd8ed1ab_1
     - pytest =8.3.4 =pyhd8ed1ab_1
     - pyyaml =6.0.2 =py39hbebea31_2
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
-    - qtawesome =1.3.1 =pyh9208f05_1
+    - qtawesome =1.4.0 =pyh9208f05_0
     - r-base =4.4.2 =h704e9fa_2
     - r-essentials =4.4 =r44hd8ed1ab_2005
     - regex =2024.11.6 =py39h060674a_0
@@ -452,7 +452,7 @@ requirements:
     - r-rcpp =1.0.14 =r44h21d2c02_0
     - r-rcppeigen =0.3.4.0.2 =r44h9eb5c89_0
     - r-readr =2.1.5 =r44h6170684_1
-    - r-readxl =1.4.3 =r44h3d7b93a_1
+    - r-readxl =1.4.4 =r44h1bf9921_0
     - r-recipes =1.1.1 =r44hc72bb7e_0
     - r-recommended =4.4 =r44hd8ed1ab_1007
     - r-rematch =2.0.0 =r44hc72bb7e_1
@@ -486,7 +486,7 @@ requirements:
     - r-tidyverse =2.0.0 =r44h785f33e_2
     - r-timechange =0.3.0 =r44h6170684_1
     - r-timedate =4041.110 =r44hc72bb7e_0
-    - r-tinytex =0.55 =r44hc72bb7e_0
+    - r-tinytex =0.56 =r44hc72bb7e_0
     - r-triebeard =0.4.1 =r44h6170684_2
     - r-ttr =0.24.4 =r44hc1cf72c_1
     - r-tzdb =0.4.0 =r44h6170684_2
@@ -515,7 +515,7 @@ requirements:
     - rust-std-aarch64-unknown-linux-gnu =1.85.0 =hbe8e118_0
     - sed =4.8 =ha0d5d3d_0
     - send2trash =1.8.3 =pyh0d859eb_1
-    - setuptools =75.8.0 =pyhff2d567_0
+    - setuptools =75.8.2 =pyhff2d567_0
     - sip =6.8.6 =py39hb25661d_1
     - six =1.17.0 =pyhd8ed1ab_0
     - sniffio =1.3.1 =pyhd8ed1ab_1
