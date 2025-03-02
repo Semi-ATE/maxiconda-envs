@@ -32,7 +32,7 @@ requirements:
     - cython =3.0.12 =py312h2614dfc_0
     - grayskull =2.7.6 =pyhd8ed1ab_0
     - hypothesis =6.127.3 =pyha770c72_0
-    - ipython =8.32.0 =pyh907856f_0
+    - ipython =9.0.0 =pyhfb0248b_0
     - jinja2 =3.1.5 =pyhd8ed1ab_0
     - matplotlib =3.10.1 =py312h7900ff3_0
     - numba =0.61.0 =py312h2e6246c_1
@@ -55,7 +55,7 @@ requirements:
     - rust =1.85.0 =h1a8d7c4_0
     - scipy =1.15.2 =py312ha707e6e_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
-    - spyder-kernels =3.0.3 =unix_pyh707e725_0
+    - spyder-kernels =0.2.6 =py_1
     - sqlalchemy =2.0.38 =py312h66e93f0_0
     - sqlite =3.49.1 =h9eae976_1
     - sympy =1.13.3 =pyh2585a3b_105
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.2 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 512 secondary packages :
+    # 511 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -155,6 +155,7 @@ requirements:
     - importlib_resources =6.5.2 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_1
     - ipykernel =6.29.5 =pyh3099207_0
+    - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.19.2 =pyhd8ed1ab_1
     - json5 =0.10.0 =pyhd8ed1ab_1
@@ -317,7 +318,6 @@ requirements:
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.12 =5_cp312
     - pytz =2024.1 =pyhd8ed1ab_0
-    - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.2.1 =py312hbf22597_0
     - qhull =2020.2 =h434a139_5
     - qt-main =5.15.15 =h796de64_1
@@ -546,7 +546,6 @@ requirements:
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - websocket-client =1.8.0 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
-    - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xcb-util =0.4.1 =hb711507_2
     - xcb-util-cursor =0.1.5 =hb9d3cd8_0
     - xcb-util-image =0.4.0 =hb711507_2
