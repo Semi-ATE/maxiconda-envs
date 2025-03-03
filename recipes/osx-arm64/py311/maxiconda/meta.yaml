@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.13.3 =pyha770c72_0
     - cython =3.0.12 =py311h71112e5_0
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.127.3 =pyha770c72_0
+    - hypothesis =6.127.4 =pyha770c72_0
     - ipython =9.0.0 =pyhfb0248b_0
     - jinja2 =3.1.5 =pyhd8ed1ab_0
     - matplotlib =3.10.1 =py311ha1ab1f8_0
@@ -43,7 +43,7 @@ requirements:
     - pydantic =2.10.6 =pyh3cfb1c2_0
     - pyqt =5.15.9 =py311hc49b008_5
     - pyserial =3.5 =pyhd8ed1ab_1
-    - pytest =8.3.4 =pyhd8ed1ab_1
+    - pytest =8.3.5 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py311h4921393_2
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.0 =pyh9208f05_0
@@ -475,7 +475,7 @@ requirements:
     - r-xts =0.14.1 =r44h96f7ad7_0
     - r-yaml =2.3.10 =r44h07cda29_0
     - r-zoo =1.8_13 =r44h570997c_0
-    - rapidfuzz =3.12.1 =py311h155a34a_0
+    - rapidfuzz =3.12.2 =py311h155a34a_0
     - readline =8.2 =h1d1bf99_2
     - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1

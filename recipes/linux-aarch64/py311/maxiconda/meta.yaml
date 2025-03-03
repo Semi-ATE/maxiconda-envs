@@ -28,10 +28,10 @@ requirements:
     - aiohttp =3.11.13 =py311h58d527c_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.13.3 =pyha770c72_0
-    - bitarray =3.0.0 =py311ha879c10_0
+    - bitarray =3.1.0 =py311ha879c10_0
     - cython =3.0.12 =py311hc8540bd_0
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.127.3 =pyha770c72_0
+    - hypothesis =6.127.4 =pyha770c72_0
     - ipython =9.0.0 =pyhfb0248b_0
     - jinja2 =3.1.5 =pyhd8ed1ab_0
     - matplotlib =3.10.1 =py311hfecb2dc_0
@@ -44,7 +44,7 @@ requirements:
     - pydantic =2.10.6 =pyh3cfb1c2_0
     - pyqt =5.15.9 =py311hc287a7b_5
     - pyserial =3.5 =pyhd8ed1ab_1
-    - pytest =8.3.4 =pyhd8ed1ab_1
+    - pytest =8.3.5 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py311h58d527c_2
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.0 =pyh9208f05_0
@@ -501,7 +501,7 @@ requirements:
     - r-xts =0.14.1 =r44hdd76399_0
     - r-yaml =2.3.10 =r44hc1cf72c_0
     - r-zoo =1.8_13 =r44hdd76399_0
-    - rapidfuzz =3.12.1 =py311h89d996e_0
+    - rapidfuzz =3.12.2 =py311h89d996e_0
     - readline =8.2 =h8382b9d_2
     - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
