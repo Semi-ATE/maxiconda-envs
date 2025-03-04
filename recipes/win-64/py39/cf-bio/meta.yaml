@@ -83,7 +83,7 @@ requirements:
     - gst-plugins-base =1.24.7 =hb0a98b8_0
     - gstreamer =1.24.7 =h5006eae_0
     - h5py =3.13.0 =nompi_py39h0b25466_100
-    - harfbuzz =10.3.0 =h9e37d49_0
+    - harfbuzz =10.4.0 =h9e37d49_0
     - hdf4 =4.2.15 =h5557f11_7
     - hdf5 =1.14.3 =nompi_hb2c4d47_109
     - icu =75.1 =he0c23c2_0
@@ -212,9 +212,9 @@ requirements:
     - tzdata =2025a =h78e105d_0
     - ucrt =10.0.22621.0 =h57928b3_1
     - unicodedata2 =16.0.0 =py39ha55e580_0
-    - vc =14.3 =h5fd82a7_24
-    - vc14_runtime =14.42.34433 =h6356254_24
-    - vs2015_runtime =14.42.34433 =hfef2bbc_24
+    - vc =14.3 =hbf610ac_24
+    - vc14_runtime =14.42.34438 =hfd919c2_24
+    - vs2015_runtime =14.42.34438 =h7142326_24
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
     - xorg-libx11 =1.8.11 =hf48077a_0

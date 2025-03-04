@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.11.11 =h9e4cc4f_1_cpython
+    - python =3.11.11 =h9e4cc4f_2_cpython
   run:
-    - python =3.11.11 =h9e4cc4f_1_cpython
+    - python =3.11.11 =h9e4cc4f_2_cpython
 
     # 9 primary packages :
     - cython =3.0.12 =py311ha3e34f5_0
@@ -75,7 +75,7 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_1
     - contourpy =1.3.1 =py311hd18a35c_0
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
-    - cpython =3.11.11 =py311hd8ed1ab_1
+    - cpython =3.11.11 =py311hd8ed1ab_2
     - cryptography =44.0.2 =py311hafd3f86_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =h54b06d7_7
@@ -104,7 +104,7 @@ requirements:
     - fonttools =4.56.0 =py311h2dc5d0c_0
     - freetype =2.12.1 =h267a509_2
     - frozenlist =1.5.0 =py311h2dc5d0c_1
-    - fzf =0.60.2 =h59e48b9_0
+    - fzf =0.60.3 =h59e48b9_0
     - gettext =0.23.1 =h5888daf_0
     - gettext-tools =0.23.1 =h5888daf_0
     - giflib =5.2.2 =hd590300_0
