@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.12.9 =h9ccd52b_0_cpython
+    - python =3.12.9 =h9ccd52b_1_cpython
   run:
-    - python =3.12.9 =h9ccd52b_0_cpython
+    - python =3.12.9 =h9ccd52b_1_cpython
 
     # 9 primary packages :
     - cython =3.0.12 =py312hdfbeeba_0
@@ -72,7 +72,7 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_1
     - contourpy =1.3.1 =py312hc47a885_0
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
-    - cpython =3.12.9 =py312hd8ed1ab_0
+    - cpython =3.12.9 =py312hd8ed1ab_1
     - cryptography =44.0.2 =py312h0995e51_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =hf9bab2b_7
