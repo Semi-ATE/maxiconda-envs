@@ -31,9 +31,9 @@ requirements:
     - bitarray =3.1.0 =py311he736701_0
     - cython =3.0.12 =py311h34f20a9_0
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.127.6 =pyha770c72_0
+    - hypothesis =6.127.8 =pyha770c72_0
     - ipython =9.0.0 =pyhca29cf9_1
-    - jinja2 =3.1.5 =pyhd8ed1ab_0
+    - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.1 =py311h1ea47a8_0
     - numba =0.61.0 =py311h0673bce_1
     - numpy =2.1.3 =py311h35ffc71_0
@@ -67,7 +67,7 @@ requirements:
     # 440 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
-    - aiohappyeyeballs =2.4.8 =pyhd8ed1ab_0
+    - aiohappyeyeballs =2.5.0 =pyhd8ed1ab_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
     - anyio =4.8.0 =pyhd8ed1ab_0
@@ -275,7 +275,7 @@ requirements:
     - r-assertthat =0.2.1 =r44hc72bb7e_5
     - r-backports =1.5.0 =r44h11b023d_1
     - r-base64enc =0.1_3 =r44h11b023d_1007
-    - r-bit =4.5.0.1 =r44h11b023d_0
+    - r-bit =4.6.0 =r44h11b023d_0
     - r-bit64 =4.5.2 =r44h11b023d_0
     - r-blob =1.2.4 =r44hc72bb7e_2
     - r-boot =1.3_31 =r44hc72bb7e_0
