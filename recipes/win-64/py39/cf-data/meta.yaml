@@ -186,10 +186,10 @@ requirements:
     - lcms2 =2.17 =hbcf6048_0
     - lerc =4.0.0 =h63175ca_0
     - libabseil =20240722.0 =cxx17_h4eb7d71_4
-    - libarrow =18.1.0 =h74ecf03_16_cpu
-    - libarrow-acero =18.1.0 =h7d8d6a5_16_cpu
-    - libarrow-dataset =18.1.0 =h7d8d6a5_16_cpu
-    - libarrow-substrait =18.1.0 =h3dbecdf_16_cpu
+    - libarrow =18.1.0 =hacc99d8_18_cpu
+    - libarrow-acero =18.1.0 =h7d8d6a5_18_cpu
+    - libarrow-dataset =18.1.0 =h7d8d6a5_18_cpu
+    - libarrow-substrait =18.1.0 =h3dbecdf_18_cpu
     - libblas =3.9.0 =31_h641d27c_mkl
     - libboost =1.84.0 =hb0986bb_7
     - libbrotlicommon =1.1.0 =h2466b09_2
@@ -207,8 +207,8 @@ requirements:
     - libgd =2.3.3 =h7208af6_11
     - libglib =2.82.2 =h7025463_1
     - libgomp =14.2.0 =h1383e82_2
-    - libgoogle-cloud =2.35.0 =h95c5cb2_0
-    - libgoogle-cloud-storage =2.35.0 =he5eb982_0
+    - libgoogle-cloud =2.36.0 =h95c5cb2_0
+    - libgoogle-cloud-storage =2.36.0 =he5eb982_0
     - libgrpc =1.67.1 =h0ac93cb_2
     - libhwloc =2.11.2 =default_ha69328c_1001
     - libiconv =1.18 =h135ad9c_1
@@ -219,7 +219,7 @@ requirements:
     - liblightgbm =4.6.0 =cpu_hb4e115d_0
     - liblzma =5.6.4 =h2466b09_0
     - libogg =1.3.5 =h2466b09_0
-    - libparquet =18.1.0 =ha850022_16_cpu
+    - libparquet =18.1.0 =ha850022_18_cpu
     - libpng =1.6.47 =had7236b_0
     - libprotobuf =5.28.3 =h8309712_1
     - libre2-11 =2024.07.02 =h4eb7d71_2
@@ -271,7 +271,7 @@ requirements:
     - opentelemetry-api =1.16.0 =pyhd8ed1ab_0
     - opentelemetry-sdk =1.16.0 =pyhd8ed1ab_0
     - opentelemetry-semantic-conventions =0.37b0 =pyhd8ed1ab_0
-    - orc =2.0.3 =haf104fe_2
+    - orc =2.1.1 =hafb6be8_0
     - packaging =24.2 =pyhd8ed1ab_2
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.56.1 =h286b592_0
