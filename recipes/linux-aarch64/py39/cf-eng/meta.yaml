@@ -82,7 +82,7 @@ requirements:
     - libasprintf =0.23.1 =h5e0f5ae_0
     - libasprintf-devel =0.23.1 =h5e0f5ae_0
     - libblas =3.9.0 =31_h1a9f1db_openblas
-    - libcap =2.71 =h51d75a7_0
+    - libcap =2.75 =h51d75a7_0
     - libcblas =3.9.0 =31_hab92f65_openblas
     - libclang-cpp19.1 =19.1.7 =default_he324ac1_1
     - libclang13 =19.1.7 =default_h4390ef5_1
@@ -125,9 +125,9 @@ requirements:
     - libsqlite =3.49.1 =h5eb1b54_1
     - libstdcxx =14.2.0 =h3f4de04_2
     - libstdcxx-ng =14.2.0 =hf1166c9_2
-    - libsystemd0 =257.3 =h27834fc_0
-    - libudev1 =257.3 =h1187dce_0
-    - libusb =1.0.27 =hfa5f0b2_100
+    - libsystemd0 =257.4 =h2bb824b_1
+    - libudev1 =257.4 =h7b9e449_1
+    - libusb =1.0.27 =h86ecc28_101
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
     - libxcb =1.17.0 =h262b8f6_0
