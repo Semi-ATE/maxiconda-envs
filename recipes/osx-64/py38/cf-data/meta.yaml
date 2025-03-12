@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.14.1 =py38h7092abf_0
     - xgboost =2.1.1 =cpu_pyhb8f9a19_2
 
-    # 389 secondary packages :
+    # 387 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - adwaita-icon-theme =47.0 =unix_0
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
@@ -152,7 +152,7 @@ requirements:
     - greenlet =3.0.3 =py38h1f5f77c_0
     - gst-plugins-base =1.24.7 =h0ee1d58_0
     - gstreamer =1.24.7 =h3271b85_0
-    - gtk3 =3.24.43 =h82a860e_3
+    - gtk3 =3.24.43 =h82a860e_4
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =22.0.0 =py38h50d1736_0
     - h2 =4.1.0 =pyhd8ed1ab_0
@@ -199,7 +199,6 @@ requirements:
     - libarrow-flight-sql =15.0.2 =he1e86a1_28_cpu
     - libarrow-gandiva =15.0.2 =hfa04d5a_28_cpu
     - libarrow-substrait =15.0.2 =he1e86a1_28_cpu
-    - libasprintf =0.23.1 =h27064b9_0
     - libblas =3.9.0 =20_osx64_openblas
     - libboost =1.84.0 =hf0da243_7
     - libbrotlicommon =1.1.0 =h00291cd_2
@@ -218,7 +217,6 @@ requirements:
     - libexpat =2.6.4 =h240833e_0
     - libffi =3.4.6 =h281671d_0
     - libgd =2.3.3 =h8555400_11
-    - libgettextpo =0.23.1 =h27064b9_0
     - libgfortran =5.0.0 =13_2_0_h97931a8_3
     - libgfortran5 =13.2.0 =h2873a65_3
     - libglib =2.82.2 =h5c976ab_1
