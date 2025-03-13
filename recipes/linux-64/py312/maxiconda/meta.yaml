@@ -56,7 +56,7 @@ requirements:
     - scipy =1.15.2 =py312ha707e6e_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =0.2.6 =py_1
-    - sqlalchemy =2.0.38 =py312h66e93f0_0
+    - sqlalchemy =2.0.39 =py312h66e93f0_0
     - sqlite =3.49.1 =h9eae976_1
     - sympy =1.13.3 =pyh2585a3b_105
     - tqdm =4.67.1 =pyhd8ed1ab_1
@@ -68,7 +68,7 @@ requirements:
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
-    - aiohappyeyeballs =2.5.0 =pyhd8ed1ab_0
+    - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alsa-lib =1.2.13 =hb9d3cd8_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
@@ -79,7 +79,7 @@ requirements:
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - async-lru =2.0.4 =pyhd8ed1ab_1
     - attr =2.5.1 =h166bdaf_1
-    - attrs =25.1.0 =pyh71513ae_0
+    - attrs =25.2.0 =pyh71513ae_0
     - babel =2.17.0 =pyhd8ed1ab_0
     - binutils_impl_linux-64 =2.43 =h4bf12b8_4
     - bleach =6.2.0 =pyh29332c3_4
@@ -248,7 +248,7 @@ requirements:
     - libwebp-base =1.5.0 =h851e524_0
     - libxcb =1.17.0 =h8a09558_0
     - libxcrypt =4.4.36 =hd590300_1
-    - libxkbcommon =1.8.0 =hc4a0caf_0
+    - libxkbcommon =1.8.1 =hc4a0caf_0
     - libxml2 =2.13.6 =h8d12d68_0
     - libxslt =1.1.39 =h76b75d6_0
     - libzlib =1.3.1 =hb9d3cd8_2
@@ -318,7 +318,7 @@ requirements:
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.12 =5_cp312
     - pytz =2024.1 =pyhd8ed1ab_0
-    - pyzmq =26.2.1 =py312hbf22597_0
+    - pyzmq =26.3.0 =py312hbf22597_0
     - qhull =2020.2 =h434a139_5
     - qt-main =5.15.15 =h796de64_1
     - qt6-main =6.8.1 =h9d28a51_0
@@ -328,7 +328,7 @@ requirements:
     - r-backports =1.5.0 =r44hb1dbf0f_1
     - r-base64enc =0.1_3 =r44hb1dbf0f_1007
     - r-bit =4.6.0 =r44h2b5f3a1_0
-    - r-bit64 =4.5.2 =r44h2b5f3a1_0
+    - r-bit64 =4.6.0_1 =r44h2b5f3a1_0
     - r-blob =1.2.4 =r44hc72bb7e_2
     - r-boot =1.3_31 =r44hc72bb7e_0
     - r-broom =1.0.7 =r44hc72bb7e_0

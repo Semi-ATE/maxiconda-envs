@@ -32,14 +32,14 @@ requirements:
     - pyyaml =6.0.2 =py39hf73967f_2
     - requests =2.32.3 =pyhd8ed1ab_1
     - spyder-kernels =3.0.3 =win_pyh7428d3b_0
-    - sqlalchemy =2.0.38 =py39ha55e580_0
+    - sqlalchemy =2.0.39 =py39ha55e580_0
     - twisted =24.11.0 =py39ha55e580_0
 
     # 113 secondary packages :
     - appdirs =1.4.4 =pyhd8ed1ab_1
     - asgiref =3.8.1 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
-    - attrs =25.1.0 =pyh71513ae_0
+    - attrs =25.2.0 =pyh71513ae_0
     - automat =24.8.1 =pyhd8ed1ab_1
     - backports.zoneinfo =0.2.1 =py39hcbf5309_9
     - bcrypt =4.3.0 =py39h92a245a_0
@@ -116,7 +116,7 @@ requirements:
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
     - python_abi =3.9 =5_cp39
     - pywin32 =307 =py39ha51f57c_3
-    - pyzmq =26.2.1 =py39h03e5c00_0
+    - pyzmq =26.3.0 =py39h03e5c00_0
     - qt-main =5.15.15 =h9151539_2
     - service-identity =24.2.0 =pyha770c72_1
     - service_identity =24.2.0 =hd8ed1ab_1

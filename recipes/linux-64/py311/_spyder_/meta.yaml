@@ -38,7 +38,7 @@ requirements:
     # 355 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
-    - aiohappyeyeballs =2.5.0 =pyhd8ed1ab_0
+    - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.11.13 =py311h2dc5d0c_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
@@ -49,7 +49,7 @@ requirements:
     - asyncssh =2.20.0 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_1
     - attr =2.5.1 =h166bdaf_1
-    - attrs =25.1.0 =pyh71513ae_0
+    - attrs =25.2.0 =pyh71513ae_0
     - autopep8 =2.0.4 =pyhd8ed1ab_0
     - babel =2.17.0 =pyhd8ed1ab_0
     - backports =1.0 =pyhd8ed1ab_5
@@ -67,7 +67,7 @@ requirements:
     - cairo =1.18.4 =h3394656_0
     - certifi =2025.1.31 =pyhd8ed1ab_0
     - cffi =1.17.1 =py311hf29c0ef_0
-    - chardet =5.2.0 =py311h38be061_2
+    - chardet =5.2.0 =pyhd8ed1ab_3
     - charset-normalizer =3.4.1 =pyhd8ed1ab_0
     - click =8.1.8 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
@@ -209,7 +209,7 @@ requirements:
     - libwebp-base =1.5.0 =h851e524_0
     - libxcb =1.17.0 =h8a09558_0
     - libxcrypt =4.4.36 =hd590300_1
-    - libxkbcommon =1.8.0 =hc4a0caf_0
+    - libxkbcommon =1.8.1 =hc4a0caf_0
     - libxml2 =2.13.6 =h8d12d68_0
     - libxslt =1.1.39 =h76b75d6_0
     - libzlib =1.3.1 =hb9d3cd8_2
@@ -298,7 +298,7 @@ requirements:
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py311h2dc5d0c_2
-    - pyzmq =26.2.1 =py311h7deb3e3_0
+    - pyzmq =26.3.0 =py311h7deb3e3_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h434a139_5
     - qstylizer =0.2.4 =pyhff2d567_0
