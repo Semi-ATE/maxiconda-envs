@@ -53,7 +53,7 @@ requirements:
     - fontconfig =2.15.0 =h7e30c49_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - freetype =2.12.1 =h267a509_2
+    - freetype =2.13.3 =h48d6fc4_0
     - gettext =0.23.1 =h5888daf_0
     - gettext-tools =0.23.1 =h5888daf_0
     - glib =2.82.2 =h07242d1_1
@@ -124,8 +124,8 @@ requirements:
     - lz4-c =1.10.0 =h5888daf_1
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mpg123 =1.32.9 =hc50e24c_0
-    - mysql-common =9.0.1 =h266115a_4
-    - mysql-libs =9.0.1 =he0572af_4
+    - mysql-common =9.0.1 =h266115a_5
+    - mysql-libs =9.0.1 =he0572af_5
     - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.36 =h5888daf_0
@@ -176,8 +176,8 @@ requirements:
     - xcb-util-wm =0.4.2 =hb711507_0
     - xkeyboard-config =2.43 =hb9d3cd8_0
     - xorg-libice =1.1.2 =hb9d3cd8_0
-    - xorg-libsm =1.2.5 =he73a12e_0
-    - xorg-libx11 =1.8.11 =h4f16b4b_0
+    - xorg-libsm =1.2.6 =he73a12e_0
+    - xorg-libx11 =1.8.12 =h4f16b4b_0
     - xorg-libxau =1.0.12 =hb9d3cd8_0
     - xorg-libxdamage =1.1.6 =hb9d3cd8_0
     - xorg-libxdmcp =1.1.5 =hb9d3cd8_0

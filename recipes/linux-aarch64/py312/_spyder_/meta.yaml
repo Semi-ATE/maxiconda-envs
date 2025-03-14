@@ -101,7 +101,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.56.0 =py312hcc812fe_0
-    - freetype =2.12.1 =hf0a5ef3_2
+    - freetype =2.13.3 =he93130f_0
     - frozenlist =1.5.0 =py312hcc812fe_1
     - fzf =0.60.3 =h56f8b8a_0
     - gettext =0.23.1 =h5ad3122_0
@@ -154,7 +154,7 @@ requirements:
     - libbrotlicommon =1.1.0 =h86ecc28_2
     - libbrotlidec =1.1.0 =h86ecc28_2
     - libbrotlienc =1.1.0 =h86ecc28_2
-    - libcap =2.71 =h51d75a7_0
+    - libcap =2.75 =h51d75a7_0
     - libcblas =3.9.0 =31_hab92f65_openblas
     - libclang-cpp19.1 =19.1.7 =default_he324ac1_1
     - libclang13 =19.1.7 =default_h4390ef5_1
@@ -200,7 +200,7 @@ requirements:
     - libsqlite =3.49.1 =h5eb1b54_1
     - libstdcxx =14.2.0 =h3f4de04_2
     - libstdcxx-ng =14.2.0 =hf1166c9_2
-    - libsystemd0 =257.3 =h27834fc_0
+    - libsystemd0 =257.4 =h2bb824b_1
     - libtiff =4.7.0 =h88f7998_3
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
@@ -228,8 +228,8 @@ requirements:
     - multidict =6.1.0 =py312hcc812fe_2
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =1.0.0 =pyha770c72_1
-    - mysql-common =9.0.1 =h3f5c77f_4
-    - mysql-libs =9.0.1 =h11569fd_4
+    - mysql-common =9.0.1 =h3f5c77f_5
+    - mysql-libs =9.0.1 =h11569fd_5
     - nbclient =0.10.2 =pyhd8ed1ab_0
     - nbconvert =7.16.6 =hb482800_0
     - nbconvert-core =7.16.6 =pyh29332c3_0
@@ -368,8 +368,8 @@ requirements:
     - xcb-util-wm =0.4.2 =h5c728e9_0
     - xkeyboard-config =2.43 =h86ecc28_0
     - xorg-libice =1.1.2 =h86ecc28_0
-    - xorg-libsm =1.2.5 =h0808dbd_0
-    - xorg-libx11 =1.8.11 =hca56bd8_0
+    - xorg-libsm =1.2.6 =h0808dbd_0
+    - xorg-libx11 =1.8.12 =hca56bd8_0
     - xorg-libxau =1.0.12 =h86ecc28_0
     - xorg-libxcomposite =0.4.6 =h86ecc28_2
     - xorg-libxcursor =1.2.3 =h86ecc28_0
@@ -388,8 +388,8 @@ requirements:
     - yarl =1.18.3 =py312hcc812fe_1
     - zeromq =4.3.5 =h5efb499_7
     - zipp =3.21.0 =pyhd8ed1ab_1
-    - zstandard =0.23.0 =py312hb698573_1
-    - zstd =1.5.6 =h02f22dd_0
+    - zstandard =0.23.0 =py312hb2c0f52_1
+    - zstd =1.5.7 =hbcf94c1_1
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

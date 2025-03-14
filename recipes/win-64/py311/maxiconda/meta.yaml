@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.1.1 =py311he736701_0
     - cython =3.0.12 =py311h34f20a9_0
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.128.2 =pyha770c72_0
+    - hypothesis =6.129.1 =pyha770c72_0
     - ipython =9.0.2 =pyhca29cf9_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.1 =py311h1ea47a8_0
@@ -56,7 +56,7 @@ requirements:
     - scipy =1.15.2 =py311h99d06ae_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =0.2.6 =py_1
-    - sqlalchemy =2.0.39 =py311he736701_0
+    - sqlalchemy =2.0.39 =py311he736701_1
     - sqlite =3.49.1 =h2466b09_1
     - sympy =1.13.3 =pyh04b8f61_5
     - tqdm =4.67.1 =pyhd8ed1ab_1
@@ -118,7 +118,7 @@ requirements:
     - fonts-conda-forge =1 =0
     - fonttools =4.56.0 =py311h5082efb_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
-    - freetype =2.12.1 =hdaf720e_2
+    - freetype =2.13.3 =h0b5ce68_0
     - fribidi =1.0.10 =h8d14728_0
     - frozenlist =1.5.0 =py311h5082efb_1
     - gcc_impl_win-64 =14.2.0 =h7f48517_2
@@ -418,7 +418,7 @@ requirements:
     - r-shape =1.4.6.1 =r44ha770c72_1
     - r-shiny =1.10.0 =r44h785f33e_0
     - r-sourcetools =0.1.7_1 =r44h8ae3a7c_2
-    - r-sparsevctrs =0.2.0 =r44h11b023d_1
+    - r-sparsevctrs =0.3.0 =r44h11b023d_0
     - r-spatial =7.3_18 =r44h11b023d_0
     - r-squarem =2021.1 =r44hc72bb7e_3
     - r-stringi =1.8.4 =r44h8ae3a7c_3
@@ -503,7 +503,7 @@ requirements:
     - yarl =1.18.3 =py311h5082efb_1
     - zeromq =4.3.5 =ha9f60a1_7
     - zipp =3.21.0 =pyhd8ed1ab_1
-    - zstandard =0.19.0 =py311ha68e1ae_0
+    - zstandard =0.23.0 =py311he736701_1
     - zstd =1.5.7 =hbeecb71_1
 
 about:

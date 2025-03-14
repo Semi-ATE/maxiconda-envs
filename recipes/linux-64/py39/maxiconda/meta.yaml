@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.1.1 =py39h8cd3c5a_0
     - cython =3.0.12 =py39hbce0bbb_0
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.128.2 =pyha770c72_0
+    - hypothesis =6.129.1 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.9.4 =py39hf3d152e_0
@@ -56,7 +56,7 @@ requirements:
     - scipy =1.13.1 =py39haf93ffa_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
-    - sqlalchemy =2.0.39 =py39h8cd3c5a_0
+    - sqlalchemy =2.0.39 =py39h8cd3c5a_1
     - sqlite =3.49.1 =h9eae976_1
     - sympy =1.13.3 =pyh2585a3b_105
     - tqdm =4.67.1 =pyhd8ed1ab_1
@@ -126,7 +126,7 @@ requirements:
     - fonts-conda-forge =1 =0
     - fonttools =4.56.0 =py39h9399b63_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
-    - freetype =2.12.1 =h267a509_2
+    - freetype =2.13.3 =h48d6fc4_0
     - fribidi =1.0.10 =h36c2ea0_0
     - frozenlist =1.5.0 =py39h9399b63_1
     - gcc_impl_linux-64 =14.2.0 =hdb7739f_2
@@ -266,8 +266,8 @@ requirements:
     - mpmath =1.3.0 =pyhd8ed1ab_1
     - multidict =6.1.0 =py39h9399b63_2
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - mysql-common =9.0.1 =h266115a_4
-    - mysql-libs =9.0.1 =he0572af_4
+    - mysql-common =9.0.1 =h266115a_5
+    - mysql-libs =9.0.1 =he0572af_5
     - nbclient =0.10.2 =pyhd8ed1ab_0
     - nbconvert-core =7.16.6 =pyh29332c3_0
     - nbformat =5.10.4 =pyhd8ed1ab_1
@@ -472,7 +472,7 @@ requirements:
     - r-shape =1.4.6.1 =r44ha770c72_1
     - r-shiny =1.10.0 =r44h785f33e_0
     - r-sourcetools =0.1.7_1 =r44ha18555a_2
-    - r-sparsevctrs =0.2.0 =r44h2b5f3a1_1
+    - r-sparsevctrs =0.3.0 =r44h2b5f3a1_0
     - r-spatial =7.3_18 =r44h2b5f3a1_0
     - r-squarem =2021.1 =r44hc72bb7e_3
     - r-stringi =1.8.4 =r44h33cde33_3
@@ -557,8 +557,8 @@ requirements:
     - xcb-util-wm =0.4.2 =hb711507_0
     - xkeyboard-config =2.43 =hb9d3cd8_0
     - xorg-libice =1.1.2 =hb9d3cd8_0
-    - xorg-libsm =1.2.5 =he73a12e_0
-    - xorg-libx11 =1.8.11 =h4f16b4b_0
+    - xorg-libsm =1.2.6 =he73a12e_0
+    - xorg-libx11 =1.8.12 =h4f16b4b_0
     - xorg-libxau =1.0.12 =hb9d3cd8_0
     - xorg-libxcomposite =0.4.6 =hb9d3cd8_2
     - xorg-libxcursor =1.2.3 =hb9d3cd8_0
@@ -577,7 +577,7 @@ requirements:
     - yarl =1.18.3 =py39h9399b63_1
     - zeromq =4.3.5 =h3b0a872_7
     - zipp =3.21.0 =pyhd8ed1ab_1
-    - zstandard =0.19.0 =py39hb9d737c_0
+    - zstandard =0.23.0 =py39h8cd3c5a_1
     - zstd =1.5.7 =hb8e6e7a_1
 
 about:

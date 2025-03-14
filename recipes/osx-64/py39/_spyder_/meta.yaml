@@ -89,7 +89,7 @@ requirements:
     - executing =2.1.0 =pyhd8ed1ab_1
     - flake8 =7.1.2 =pyhd8ed1ab_0
     - fonttools =4.56.0 =py39hd18e689_0
-    - freetype =2.12.1 =h60636b9_2
+    - freetype =2.13.3 =h40dfd5c_0
     - frozenlist =1.5.0 =py39hd18e689_1
     - fzf =0.60.3 =he954eb5_0
     - giflib =5.2.2 =h10d778d_0
@@ -182,8 +182,8 @@ requirements:
     - multidict =6.1.0 =py39h781ac47_1
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =1.0.0 =pyha770c72_1
-    - mysql-common =9.0.1 =h4d37847_4
-    - mysql-libs =9.0.1 =h2381dc1_4
+    - mysql-common =9.0.1 =hd00b0ec_5
+    - mysql-libs =9.0.1 =h062309a_5
     - nbclient =0.10.2 =pyhd8ed1ab_0
     - nbconvert =7.16.6 =hb482800_0
     - nbconvert-core =7.16.6 =pyh29332c3_0
@@ -319,7 +319,7 @@ requirements:
     - yarl =1.18.3 =py39hd18e689_1
     - zeromq =4.3.5 =h7130eaa_7
     - zipp =3.21.0 =pyhd8ed1ab_1
-    - zstandard =0.19.0 =py39ha30fb19_0
+    - zstandard =0.23.0 =py39h80efdc8_1
     - zstd =1.5.7 =h8210216_1
 
 about:

@@ -70,7 +70,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.56.0 =py39hd18e689_0
-    - freetype =2.12.1 =h60636b9_2
+    - freetype =2.13.3 =h40dfd5c_0
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - glew =2.1.0 =h046ec9c_2
     - glib =2.82.2 =h915cd9b_1
@@ -154,8 +154,8 @@ requirements:
     - mrcfile =1.5.4 =pyhd8ed1ab_0
     - msgpack-python =1.1.0 =py39h0d8d0ca_0
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - mysql-common =9.0.1 =h4d37847_4
-    - mysql-libs =9.0.1 =h2381dc1_4
+    - mysql-common =9.0.1 =hd00b0ec_5
+    - mysql-libs =9.0.1 =h062309a_5
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - netcdf4 =1.7.2 =nompi_py39hab893fb_101
@@ -206,10 +206,10 @@ requirements:
     - sip =6.7.12 =py39h110ca85_0
     - six =1.17.0 =pyhd8ed1ab_0
     - snappy =1.2.1 =haf3c120_1
-    - sqlalchemy =2.0.39 =py39h80efdc8_0
+    - sqlalchemy =2.0.39 =py39h80efdc8_1
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - statsmodels =0.14.4 =py39hff9a475_0
-    - threadpoolctl =3.5.0 =pyhc1e730c_0
+    - threadpoolctl =3.6.0 =pyhecae5ae_0
     - tidynamics =1.1.2 =pyhd8ed1ab_0
     - tk =8.6.13 =h1abcd95_1
     - toml =0.10.2 =pyhd8ed1ab_1
@@ -224,7 +224,7 @@ requirements:
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
-    - xorg-libx11 =1.8.11 =h217831a_0
+    - xorg-libx11 =1.8.12 =h217831a_0
     - xorg-libxau =1.0.12 =h6e16a3a_0
     - xorg-libxdmcp =1.1.5 =h00291cd_0
     - xorg-libxfixes =6.0.1 =h00291cd_0

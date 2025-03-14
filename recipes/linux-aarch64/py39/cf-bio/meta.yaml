@@ -66,7 +66,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.56.0 =py39hbebea31_0
-    - freetype =2.12.1 =hf0a5ef3_2
+    - freetype =2.13.3 =he93130f_0
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.23.1 =h5ad3122_0
     - gettext-tools =0.23.1 =h5ad3122_0
@@ -164,8 +164,8 @@ requirements:
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mpg123 =1.32.9 =h65af167_0
     - munkres =1.1.4 =pyh9f0ad1d_0
-    - mysql-common =9.0.1 =h3f5c77f_4
-    - mysql-libs =9.0.1 =h11569fd_4
+    - mysql-common =9.0.1 =h3f5c77f_5
+    - mysql-libs =9.0.1 =h11569fd_5
     - ncurses =6.5 =ha32ae93_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.36 =h5ad3122_0
@@ -209,7 +209,7 @@ requirements:
     - setuptools =75.8.2 =pyhff2d567_0
     - sip =6.8.6 =py39hb25661d_1
     - six =1.17.0 =pyhd8ed1ab_0
-    - sqlalchemy =2.0.39 =py39h3e3acee_0
+    - sqlalchemy =2.0.39 =py39h3e3acee_1
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - tk =8.6.13 =h194ca79_0
     - toml =0.10.2 =pyhd8ed1ab_1
@@ -232,8 +232,8 @@ requirements:
     - xcb-util-wm =0.4.2 =h5c728e9_0
     - xkeyboard-config =2.43 =h86ecc28_0
     - xorg-libice =1.1.2 =h86ecc28_0
-    - xorg-libsm =1.2.5 =h0808dbd_0
-    - xorg-libx11 =1.8.11 =hca56bd8_0
+    - xorg-libsm =1.2.6 =h0808dbd_0
+    - xorg-libx11 =1.8.12 =hca56bd8_0
     - xorg-libxau =1.0.12 =h86ecc28_0
     - xorg-libxcomposite =0.4.6 =h86ecc28_2
     - xorg-libxcursor =1.2.3 =h86ecc28_0

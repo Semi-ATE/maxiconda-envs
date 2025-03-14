@@ -102,7 +102,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.56.0 =py39hbebea31_0
-    - freetype =2.12.1 =hf0a5ef3_2
+    - freetype =2.13.3 =he93130f_0
     - frozenlist =1.5.0 =py39hbebea31_1
     - fzf =0.60.3 =h56f8b8a_0
     - gettext =0.23.1 =h5ad3122_0
@@ -231,8 +231,8 @@ requirements:
     - multidict =6.1.0 =py39hbebea31_2
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =1.0.0 =pyha770c72_1
-    - mysql-common =9.0.1 =h3f5c77f_4
-    - mysql-libs =9.0.1 =h11569fd_4
+    - mysql-common =9.0.1 =h3f5c77f_5
+    - mysql-libs =9.0.1 =h11569fd_5
     - nbclient =0.10.2 =pyhd8ed1ab_0
     - nbconvert =7.16.6 =hb482800_0
     - nbconvert-core =7.16.6 =pyh29332c3_0
@@ -370,8 +370,8 @@ requirements:
     - xcb-util-wm =0.4.2 =h5c728e9_0
     - xkeyboard-config =2.43 =h86ecc28_0
     - xorg-libice =1.1.2 =h86ecc28_0
-    - xorg-libsm =1.2.5 =h0808dbd_0
-    - xorg-libx11 =1.8.11 =hca56bd8_0
+    - xorg-libsm =1.2.6 =h0808dbd_0
+    - xorg-libx11 =1.8.12 =hca56bd8_0
     - xorg-libxau =1.0.12 =h86ecc28_0
     - xorg-libxcomposite =0.4.6 =h86ecc28_2
     - xorg-libxcursor =1.2.3 =h86ecc28_0
@@ -390,7 +390,7 @@ requirements:
     - yarl =1.18.3 =py39hbebea31_1
     - zeromq =4.3.5 =h5efb499_7
     - zipp =3.21.0 =pyhd8ed1ab_1
-    - zstandard =0.19.0 =py39h0fd3b05_0
+    - zstandard =0.23.0 =py39h060674a_1
     - zstd =1.5.7 =hbcf94c1_1
 
 about:
