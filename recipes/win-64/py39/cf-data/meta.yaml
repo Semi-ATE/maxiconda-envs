@@ -56,21 +56,21 @@ requirements:
     - appdirs =1.4.4 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - async-timeout =5.0.1 =pyhd8ed1ab_1
-    - attrs =25.2.0 =pyh71513ae_0
+    - attrs =25.3.0 =pyh71513ae_0
     - automat =24.8.1 =pyhd8ed1ab_1
-    - aws-c-auth =0.8.6 =h75aa786_0
-    - aws-c-cal =0.8.5 =h8e87c19_1
-    - aws-c-common =0.11.2 =h2466b09_0
-    - aws-c-compression =0.3.1 =h8e87c19_0
-    - aws-c-event-stream =0.5.4 =h9698e81_0
-    - aws-c-http =0.9.3 =hcfd4e1f_0
-    - aws-c-io =0.17.0 =h03c06b7_1
-    - aws-c-mqtt =0.12.2 =h594eef5_0
-    - aws-c-s3 =0.7.12 =h3b608e4_0
-    - aws-c-sdkutils =0.2.3 =h8e87c19_0
-    - aws-checksums =0.2.3 =h8e87c19_0
-    - aws-crt-cpp =0.31.0 =h1ad44a2_0
-    - aws-sdk-cpp =1.11.510 =hf75d2ad_1
+    - aws-c-auth =0.8.6 =h807bc09_2
+    - aws-c-cal =0.8.6 =h850764b_0
+    - aws-c-common =0.11.3 =h2466b09_0
+    - aws-c-compression =0.3.1 =h850764b_1
+    - aws-c-event-stream =0.5.4 =hef957ea_1
+    - aws-c-http =0.9.4 =h2f07f10_2
+    - aws-c-io =0.17.0 =h231fe8a_4
+    - aws-c-mqtt =0.12.2 =hcbe4930_1
+    - aws-c-s3 =0.7.12 =h457c604_2
+    - aws-c-sdkutils =0.2.3 =h850764b_1
+    - aws-checksums =0.2.3 =h850764b_1
+    - aws-crt-cpp =0.31.0 =hc8bc6cd_2
+    - aws-sdk-cpp =1.11.510 =h0e5e90a_2
     - bcrypt =4.3.0 =py39h92a245a_0
     - blinker =1.9.0 =pyhff2d567_0
     - bottleneck =1.4.2 =py39h4b0a98a_0
@@ -116,7 +116,7 @@ requirements:
     - entrypoints =0.4 =pyhd8ed1ab_1
     - exceptiongroup =1.2.2 =pyhd8ed1ab_1
     - executing =2.1.0 =pyhd8ed1ab_1
-    - filelock =3.17.0 =pyhd8ed1ab_0
+    - filelock =3.18.0 =pyhd8ed1ab_0
     - flask =3.1.0 =pyhd8ed1ab_1
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -185,11 +185,11 @@ requirements:
     - language-data =1.3.0 =pyhff2d567_0
     - lcms2 =2.17 =hbcf6048_0
     - lerc =4.0.0 =h63175ca_0
-    - libabseil =20240722.0 =cxx17_h4eb7d71_4
-    - libarrow =18.1.0 =hfd7455e_19_cpu
-    - libarrow-acero =18.1.0 =h7d8d6a5_19_cpu
-    - libarrow-dataset =18.1.0 =h7d8d6a5_19_cpu
-    - libarrow-substrait =18.1.0 =h3dbecdf_19_cpu
+    - libabseil =20250127.0 =cxx17_h4eb7d71_0
+    - libarrow =18.1.0 =h2335092_20_cpu
+    - libarrow-acero =18.1.0 =h7d8d6a5_20_cpu
+    - libarrow-dataset =18.1.0 =h7d8d6a5_20_cpu
+    - libarrow-substrait =18.1.0 =hb76e781_20_cpu
     - libblas =3.9.0 =31_h641d27c_mkl
     - libboost =1.84.0 =hb0986bb_7
     - libbrotlicommon =1.1.0 =h2466b09_2
@@ -207,9 +207,9 @@ requirements:
     - libgd =2.3.3 =h7208af6_11
     - libglib =2.82.2 =h7025463_1
     - libgomp =14.2.0 =h1383e82_2
-    - libgoogle-cloud =2.36.0 =h95c5cb2_0
-    - libgoogle-cloud-storage =2.36.0 =he5eb982_0
-    - libgrpc =1.67.1 =h0ac93cb_2
+    - libgoogle-cloud =2.36.0 =hf249c01_1
+    - libgoogle-cloud-storage =2.36.0 =he5eb982_1
+    - libgrpc =1.71.0 =h35301be_0
     - libhwloc =2.11.2 =default_ha69328c_1001
     - libiconv =1.18 =h135ad9c_1
     - libintl =0.22.5 =h5728263_3
@@ -219,10 +219,10 @@ requirements:
     - liblightgbm =4.6.0 =cpu_hb4e115d_0
     - liblzma =5.6.4 =h2466b09_0
     - libogg =1.3.5 =h2466b09_0
-    - libparquet =18.1.0 =ha850022_19_cpu
+    - libparquet =18.1.0 =ha850022_20_cpu
     - libpng =1.6.47 =had7236b_0
-    - libprotobuf =5.28.3 =h8309712_1
-    - libre2-11 =2024.07.02 =h4eb7d71_2
+    - libprotobuf =5.29.3 =he9d8c4a_0
+    - libre2-11 =2024.07.02 =hd248061_3
     - libsodium =1.0.20 =hc70643c_0
     - libsqlite =3.49.1 =h67fdade_1
     - libssh2 =1.11.1 =he619c9f_0
@@ -268,10 +268,10 @@ requirements:
     - opencl-headers =2024.10.24 =he0c23c2_0
     - openjpeg =2.5.3 =h4d64b90_0
     - openssl =3.4.1 =ha4e3fda_0
-    - opentelemetry-api =1.16.0 =pyhd8ed1ab_0
-    - opentelemetry-sdk =1.16.0 =pyhd8ed1ab_0
-    - opentelemetry-semantic-conventions =0.37b0 =pyhd8ed1ab_0
-    - orc =2.1.1 =hafb6be8_0
+    - opentelemetry-api =1.31.0 =pyhd8ed1ab_0
+    - opentelemetry-sdk =1.31.0 =pyhd8ed1ab_0
+    - opentelemetry-semantic-conventions =0.52b0 =pyh3cfb1c2_0
+    - orc =2.1.1 =h35764e3_1
     - packaging =24.2 =pyhd8ed1ab_2
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.56.2 =h286b592_0
@@ -293,7 +293,7 @@ requirements:
     - prompt-toolkit =3.0.50 =pyha770c72_0
     - propcache =0.2.1 =py39hf73967f_1
     - protego =0.4.0 =pyhd8ed1ab_0
-    - protobuf =5.28.3 =py39ha51f57c_0
+    - protobuf =5.29.3 =py39ha51f57c_0
     - psutil =7.0.0 =py39ha55e580_0
     - pthread-stubs =0.4 =h0e40799_1002
     - pure_eval =0.2.3 =pyhd8ed1ab_1
@@ -335,7 +335,7 @@ requirements:
     - qt6-main =6.8.2 =h1259614_0
     - querystring_parser =1.2.4 =pyhd8ed1ab_2
     - queuelib =1.7.0 =pyhd8ed1ab_2
-    - re2 =2024.07.02 =haf4117d_2
+    - re2 =2024.07.02 =haf4117d_3
     - regex =2024.11.6 =py39ha55e580_0
     - requests =2.32.3 =pyhd8ed1ab_1
     - requests-file =2.1.0 =pyhd8ed1ab_1
