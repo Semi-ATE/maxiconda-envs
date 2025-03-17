@@ -30,8 +30,8 @@ requirements:
     - beautifulsoup4 =4.13.3 =pyha770c72_0
     - bitarray =3.1.1 =py310ha766c32_0
     - cython =3.0.12 =py310hc86cfe9_0
-    - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.129.2 =pyha770c72_0
+    - grayskull =2.8.0 =pyhd8ed1ab_0
+    - hypothesis =6.129.3 =pyha770c72_0
     - ipython =8.34.0 =pyh907856f_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.1 =py310hbbe02a8_0
@@ -76,7 +76,7 @@ requirements:
     - argon2-cffi-bindings =21.2.0 =py310ha766c32_5
     - arrow =1.3.0 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
-    - async-lru =2.0.4 =pyhd8ed1ab_1
+    - async-lru =2.0.5 =pyh29332c3_0
     - async-timeout =5.0.1 =pyhd8ed1ab_1
     - attr =2.5.1 =h4e544f5_1
     - attrs =25.3.0 =pyh71513ae_0
@@ -515,7 +515,7 @@ requirements:
     - sed =4.8 =ha0d5d3d_0
     - send2trash =1.8.3 =pyh0d859eb_1
     - setuptools =75.8.2 =pyhff2d567_0
-    - sip =6.8.6 =py310h58aa515_1
+    - sip =6.8.6 =py310h58aa515_2
     - six =1.17.0 =pyhd8ed1ab_0
     - sniffio =1.3.1 =pyhd8ed1ab_1
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
