@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.13.2 =py37h4de8ad1_0
     - xgboost =2.0.3 =cpu_pyhb8f9a19_4
 
-    # 307 secondary packages :
+    # 308 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_0
     - amqp =5.2.0 =pyhd8ed1ab_1
@@ -168,8 +168,9 @@ requirements:
     - libbrotlidec =1.1.0 =h00291cd_2
     - libbrotlienc =1.1.0 =h00291cd_2
     - libcblas =3.9.0 =20_osx64_openblas
-    - libclang =13.0.1 =default_h255f2f3_6
+    - libclang =13.0.1 =default_h2cdd939_10
     - libcxx =19.1.7 =hf95d169_0
+    - libcxx-devel =16.0.6 =h8f8a49f_2
     - libdeflate =1.14 =hb7f2c08_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libexpat =2.6.4 =h240833e_0

@@ -31,7 +31,7 @@ requirements:
     - matplotlib =3.9.4 =py39h6e9494a_0
     - numpy =1.26.4 =py39h28c39a1_0
     - pandas =2.2.3 =py39h88a5ddd_1
-    - plotly =6.0.0 =pyhd8ed1ab_0
+    - plotly =6.0.1 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =3.0.4 =py39h6e9494a_0
     - pyqt =5.15.9 =py39h3dce684_5
@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.14.4 =py39hff9a475_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_0
 
-    # 409 secondary packages :
+    # 429 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - adwaita-icon-theme =48.0 =unix_0
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -54,6 +54,7 @@ requirements:
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alembic =1.15.1 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
+    - anyio =4.9.0 =pyh29332c3_0
     - appdirs =1.4.4 =pyhd8ed1ab_1
     - appnope =0.1.4 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -120,10 +121,15 @@ requirements:
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.2.18 =pyhd8ed1ab_0
+    - dnspython =2.7.0 =pyhff2d567_1
     - docker-py =7.1.0 =pyhd8ed1ab_1
+    - email-validator =2.2.0 =pyhd8ed1ab_1
+    - email_validator =2.2.0 =hd8ed1ab_1
     - epoxy =1.5.10 =h5eb16cf_1
     - exceptiongroup =1.2.2 =pyhd8ed1ab_1
     - executing =2.1.0 =pyhd8ed1ab_1
+    - fastapi =0.115.11 =pyh29332c3_0
+    - fastapi-cli =0.0.7 =pyhd8ed1ab_0
     - filelock =3.18.0 =pyhd8ed1ab_0
     - flask =3.1.0 =pyhd8ed1ab_1
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -164,11 +170,15 @@ requirements:
     - gtk3 =3.24.43 =h82a860e_4
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =23.0.0 =py39h6e9494a_1
+    - h11 =0.14.0 =pyhd8ed1ab_1
     - h2 =4.2.0 =pyhd8ed1ab_0
     - harfbuzz =10.4.0 =h86b413f_0
     - hicolor-icon-theme =0.17 =h694c41f_2
     - hpack =4.1.0 =pyhd8ed1ab_0
     - htmlmin =0.1.12 =pyhca7485f_2
+    - httpcore =1.0.7 =pyh29332c3_1
+    - httptools =0.6.4 =py39h80efdc8_0
+    - httpx =0.28.1 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - hyperlink =21.0.0 =pyh29332c3_1
     - icu =75.1 =h120a0e1_0
@@ -282,9 +292,9 @@ requirements:
     - miniful =0.0.6 =pyhd8ed1ab_1
     - missingno =0.5.2 =pyhd8ed1ab_0
     - mkl =2023.2.0 =h54c2260_50500
-    - mlflow =2.20.4 =h6e9494a_0
-    - mlflow-skinny =2.20.4 =h6e9494a_0
-    - mlflow-ui =2.20.4 =py39h6e9494a_0
+    - mlflow =2.21.0 =h6e9494a_1
+    - mlflow-skinny =2.21.0 =h6e9494a_1
+    - mlflow-ui =2.21.0 =py39h6e9494a_1
     - mlxtend =0.23.4 =pyhd8ed1ab_0
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
@@ -295,7 +305,7 @@ requirements:
     - murmurhash =1.0.10 =py39ha92e968_2
     - mysql-common =9.0.1 =hd00b0ec_5
     - mysql-libs =9.0.1 =h062309a_5
-    - narwhals =1.30.0 =pyhd8ed1ab_0
+    - narwhals =1.31.0 =pyhd8ed1ab_0
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2.1 =pyhd8ed1ab_0
@@ -316,7 +326,7 @@ requirements:
     - orc =2.1.1 =h82caab2_1
     - packaging =24.2 =pyhd8ed1ab_2
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
-    - pango =1.56.2 =hf94f63b_0
+    - pango =1.56.3 =hf94f63b_0
     - paramiko =3.5.1 =pyhd8ed1ab_0
     - parsel =1.10.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_1
@@ -366,7 +376,9 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-cufflinks =0.17.3 =pyhd8ed1ab_1
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
+    - python-dotenv =1.0.1 =pyhd8ed1ab_1
     - python-graphviz =0.20.3 =pyh91182bf_2
+    - python-multipart =0.0.20 =pyhff2d567_0
     - python-tzdata =2025.1 =pyhd8ed1ab_0
     - python_abi =3.9 =5_cp39
     - pytz =2024.1 =pyhd8ed1ab_0
@@ -387,6 +399,7 @@ requirements:
     - requests-file =2.1.0 =pyhd8ed1ab_1
     - retrying =1.3.4 =pyhd8ed1ab_0
     - rich =13.9.4 =pyhd8ed1ab_1
+    - rich-toolkit =0.11.3 =pyh29332c3_0
     - rsa =4.9 =pyhd8ed1ab_1
     - seaborn-base =0.13.2 =pyhd8ed1ab_3
     - service-identity =24.2.0 =pyha770c72_1
@@ -401,6 +414,7 @@ requirements:
     - smart_open =7.1.0 =pyhd8ed1ab_0
     - smmap =5.0.2 =pyhd8ed1ab_0
     - snappy =1.2.1 =haf3c120_1
+    - sniffio =1.3.1 =pyhd8ed1ab_1
     - soupsieve =2.5 =pyhd8ed1ab_1
     - spacy =3.8.2 =py39h5c7665c_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
@@ -408,6 +422,7 @@ requirements:
     - sqlparse =0.5.3 =pyhd8ed1ab_0
     - srsly =2.5.1 =py39hdf37715_1
     - stack_data =0.6.3 =pyhd8ed1ab_1
+    - starlette =0.46.1 =pyha770c72_0
     - sympy =1.13.3 =pyh2585a3b_105
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.13.0 =hb890de9_1
@@ -432,12 +447,17 @@ requirements:
     - umap-learn =0.5.7 =py39h6e9494a_1
     - unicodedata2 =16.0.0 =py39h80efdc8_0
     - urllib3 =2.3.0 =pyhd8ed1ab_0
+    - uvicorn =0.34.0 =pyh31011fe_0
+    - uvicorn-standard =0.34.0 =h31011fe_0
+    - uvloop =0.21.0 =py39h296a897_1
     - visions =0.7.1 =pyhd8ed1ab_0
     - w3lib =2.3.1 =pyhd8ed1ab_0
     - wasabi =1.1.3 =pyhd8ed1ab_1
+    - watchfiles =0.24.0 =py39h6e5e23e_1
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - weasel =0.4.1 =pyhd8ed1ab_2
     - websocket-client =1.8.0 =pyhd8ed1ab_1
+    - websockets =15.0.1 =py39h80efdc8_0
     - werkzeug =3.1.3 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
     - widgetsnbextension =4.0.13 =pyhd8ed1ab_1
