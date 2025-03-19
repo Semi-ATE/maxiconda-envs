@@ -25,7 +25,7 @@ requirements:
     - python =3.12.9 =h9ccd52b_1_cpython
 
     # 38 primary packages :
-    - aiohttp =3.11.13 =py312h3520af0_0
+    - aiohttp =3.11.14 =py312h3520af0_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.13.3 =pyha770c72_0
     - bitarray =3.1.1 =py312h01d7ebd_0
@@ -94,11 +94,11 @@ requirements:
     - certifi =2025.1.31 =pyhd8ed1ab_0
     - cffi =1.17.1 =py312hf857d28_0
     - charset-normalizer =3.4.1 =pyhd8ed1ab_0
-    - clang =19.1.7 =default_h576c50e_1
-    - clang-19 =19.1.7 =default_h3571c67_1
+    - clang =19.1.7 =default_h576c50e_2
+    - clang-19 =19.1.7 =default_h3571c67_2
     - clang_impl_osx-64 =19.1.7 =hc73cdc9_23
     - clang_osx-64 =19.1.7 =h7e5c614_23
-    - clangxx =19.1.7 =default_heb2e8d1_1
+    - clangxx =19.1.7 =default_heb2e8d1_2
     - clangxx_impl_osx-64 =19.1.7 =hb295874_23
     - clangxx_osx-64 =19.1.7 =h7e5c614_23
     - click =8.1.8 =pyh707e725_0
@@ -185,8 +185,8 @@ requirements:
     - libbrotlienc =1.1.0 =h00291cd_2
     - libcblas =3.9.0 =31_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang-cpp19.1 =19.1.7 =default_h3571c67_1
-    - libclang13 =19.1.7 =default_hf2b7afa_1
+    - libclang-cpp19.1 =19.1.7 =default_h3571c67_2
+    - libclang13 =19.1.7 =default_hf2b7afa_2
     - libcurl =8.12.1 =h5dec5d8_0
     - libcxx =19.1.7 =hf95d169_0
     - libcxx-devel =19.1.7 =h7c275be_0
@@ -238,7 +238,7 @@ requirements:
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
     - mpmath =1.3.0 =pyhd8ed1ab_1
-    - multidict =6.1.0 =py312h6f3313d_1
+    - multidict =6.2.0 =py312h6f3313d_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mysql-common =9.0.1 =hd00b0ec_5
     - mysql-libs =9.0.1 =h062309a_5
@@ -426,7 +426,7 @@ requirements:
     - r-rcppeigen =0.3.4.0.2 =r44haa2a3db_0
     - r-readr =2.1.5 =r44h25d921d_1
     - r-readxl =1.4.5 =r44h307427d_0
-    - r-recipes =1.1.1 =r44hc72bb7e_0
+    - r-recipes =1.2.0 =r44hc72bb7e_0
     - r-recommended =4.4 =r44hd8ed1ab_1007
     - r-rematch =2.0.0 =r44hc72bb7e_1
     - r-rematch2 =2.1.2 =r44hc72bb7e_4
@@ -444,7 +444,7 @@ requirements:
     - r-shape =1.4.6.1 =r44ha770c72_1
     - r-shiny =1.10.0 =r44h785f33e_0
     - r-sourcetools =0.1.7_1 =r44h25d921d_2
-    - r-sparsevctrs =0.3.0 =r44h79f565e_0
+    - r-sparsevctrs =0.3.1 =r44h79f565e_0
     - r-spatial =7.3_18 =r44h79f565e_0
     - r-squarem =2021.1 =r44hc72bb7e_3
     - r-stringi =1.8.4 =r44hf60abff_3

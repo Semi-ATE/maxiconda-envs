@@ -39,7 +39,7 @@ requirements:
     # 281 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
-    - aiohttp =3.11.13 =py311h5082efb_0
+    - aiohttp =3.11.14 =py311h5082efb_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - arrow =1.3.0 =pyhd8ed1ab_1
@@ -140,7 +140,7 @@ requirements:
     - libbrotlidec =1.1.0 =h2466b09_2
     - libbrotlienc =1.1.0 =h2466b09_2
     - libcblas =3.9.0 =31_h5e41251_mkl
-    - libclang13 =19.1.7 =default_ha5278ca_1
+    - libclang13 =19.1.7 =default_ha5278ca_2
     - libdeflate =1.23 =h9062f6e_0
     - libexpat =2.6.4 =he0c23c2_0
     - libffi =3.4.6 =h537db12_0
@@ -178,7 +178,7 @@ requirements:
     - mkl =2024.2.2 =h66d3029_15
     - more-itertools =10.6.0 =pyhd8ed1ab_0
     - mpmath =1.3.0 =pyhd8ed1ab_1
-    - multidict =6.1.0 =py311h5082efb_1
+    - multidict =6.2.0 =py311h5082efb_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =1.0.0 =pyha770c72_1
     - nbclient =0.10.2 =pyhd8ed1ab_0

@@ -50,7 +50,7 @@ requirements:
     - _py-xgboost-mutex =2.0 =cpu_0
     - adwaita-icon-theme =48.0 =unix_0
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
-    - aiohttp =3.11.13 =py39hd18e689_0
+    - aiohttp =3.11.14 =py39hd18e689_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alembic =1.15.1 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
@@ -222,7 +222,7 @@ requirements:
     - libbrotlienc =1.1.0 =h00291cd_2
     - libcblas =3.9.0 =20_osx64_mkl
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =19.1.7 =default_hf2b7afa_1
+    - libclang13 =19.1.7 =default_hf2b7afa_2
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.12.1 =h5dec5d8_0
     - libcxx =19.1.7 =hf95d169_0
@@ -299,7 +299,7 @@ requirements:
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
     - mpmath =1.3.0 =pyhd8ed1ab_1
-    - multidict =6.1.0 =py39h781ac47_1
+    - multidict =6.2.0 =py39h781ac47_0
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.10 =py39ha92e968_2

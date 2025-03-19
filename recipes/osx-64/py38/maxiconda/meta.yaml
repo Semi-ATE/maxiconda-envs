@@ -97,11 +97,11 @@ requirements:
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hc8bcfa4_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
-    - clang =19.1.7 =default_h576c50e_1
-    - clang-19 =19.1.7 =default_h3571c67_1
+    - clang =19.1.7 =default_h576c50e_2
+    - clang-19 =19.1.7 =default_h3571c67_2
     - clang_impl_osx-64 =19.1.7 =hc73cdc9_23
     - clang_osx-64 =19.1.7 =h7e5c614_23
-    - clangxx =19.1.7 =default_heb2e8d1_1
+    - clangxx =19.1.7 =default_heb2e8d1_2
     - clangxx_impl_osx-64 =19.1.7 =hb295874_23
     - clangxx_osx-64 =19.1.7 =h7e5c614_23
     - click =8.1.7 =unix_pyh707e725_0
@@ -190,8 +190,8 @@ requirements:
     - libbrotlienc =1.1.0 =h00291cd_2
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang-cpp19.1 =19.1.7 =default_h3571c67_1
-    - libclang13 =19.1.7 =default_hf2b7afa_1
+    - libclang-cpp19.1 =19.1.7 =default_h3571c67_2
+    - libclang13 =19.1.7 =default_hf2b7afa_2
     - libcurl =8.12.1 =h5dec5d8_0
     - libcxx =19.1.7 =hf95d169_0
     - libcxx-devel =19.1.7 =h7c275be_0
@@ -433,7 +433,7 @@ requirements:
     - r-rcppeigen =0.3.4.0.2 =r44haa2a3db_0
     - r-readr =2.1.5 =r44h25d921d_1
     - r-readxl =1.4.5 =r44h307427d_0
-    - r-recipes =1.1.1 =r44hc72bb7e_0
+    - r-recipes =1.2.0 =r44hc72bb7e_0
     - r-recommended =4.4 =r44hd8ed1ab_1007
     - r-rematch =2.0.0 =r44hc72bb7e_1
     - r-rematch2 =2.1.2 =r44hc72bb7e_4
@@ -451,7 +451,7 @@ requirements:
     - r-shape =1.4.6.1 =r44ha770c72_1
     - r-shiny =1.10.0 =r44h785f33e_0
     - r-sourcetools =0.1.7_1 =r44h25d921d_2
-    - r-sparsevctrs =0.3.0 =r44h79f565e_0
+    - r-sparsevctrs =0.3.1 =r44h79f565e_0
     - r-spatial =7.3_18 =r44h79f565e_0
     - r-squarem =2021.1 =r44hc72bb7e_3
     - r-stringi =1.8.4 =r44hf60abff_3
