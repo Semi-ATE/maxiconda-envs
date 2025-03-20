@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.4 =r44hd8ed1ab_2005
     - regex =2024.11.6 =py310hbb8c376_0
     - requests =2.32.3 =pyhd8ed1ab_1
-    - rust =1.85.0 =h34a2095_0
+    - rust =1.85.1 =h34a2095_0
     - scipy =1.15.2 =py310hef62574_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
@@ -132,8 +132,8 @@ requirements:
     - freetype =2.13.3 =h40dfd5c_0
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.5.0 =py310h8e2f543_1
-    - gfortran_impl_osx-64 =13.2.0 =h2bc304d_3
-    - gfortran_osx-64 =13.2.0 =h18f7dce_1
+    - gfortran_impl_osx-64 =13.3.0 =h355c40b_0
+    - gfortran_osx-64 =13.3.0 =h3223c34_0
     - glib =2.82.2 =h915cd9b_1
     - glib-tools =2.82.2 =hf8faeaf_1
     - gmp =6.3.0 =hf036a51_2
@@ -196,9 +196,9 @@ requirements:
     - libexpat =2.6.4 =h240833e_0
     - libffi =3.4.6 =h281671d_0
     - libgettextpo =0.23.1 =h27064b9_0
-    - libgfortran =5.0.0 =13_2_0_h97931a8_3
-    - libgfortran-devel_osx-64 =13.2.0 =h80d4556_3
-    - libgfortran5 =13.2.0 =h2873a65_3
+    - libgfortran =5.0.0 =14_2_0_h51e75f0_0
+    - libgfortran-devel_osx-64 =13.3.0 =h297be85_0
+    - libgfortran5 =14.2.0 =h51e75f0_0
     - libglib =2.82.2 =h5c976ab_1
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.23.1 =h27064b9_0
@@ -234,7 +234,7 @@ requirements:
     - markupsafe =3.0.2 =py310h8e2f543_1
     - matplotlib-base =3.10.1 =py310h1671ce3_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
-    - mistune =3.1.2 =pyhd8ed1ab_0
+    - mistune =3.1.3 =pyh29332c3_0
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
     - mpmath =1.3.0 =pyhd8ed1ab_1
@@ -321,7 +321,7 @@ requirements:
     - r-colorspace =2.1_1 =r44h6b9d099_0
     - r-commonmark =1.9.5 =r44h79f565e_0
     - r-conflicted =1.2.0 =r44h785f33e_2
-    - r-cpp11 =0.5.1 =r44hc72bb7e_0
+    - r-cpp11 =0.5.2 =r44h785f33e_1
     - r-crayon =1.5.3 =r44hc72bb7e_1
     - r-crul =1.5.0 =r44h785f33e_0
     - r-curl =6.2.1 =r44h03d0d4d_0
@@ -486,7 +486,7 @@ requirements:
     - ruamel.yaml =0.18.10 =py310hbb8c376_0
     - ruamel.yaml.clib =0.2.8 =py310hb9d19b6_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-x86_64-apple-darwin =1.85.0 =h38e4360_0
+    - rust-std-x86_64-apple-darwin =1.85.1 =h38e4360_0
     - send2trash =1.8.3 =pyh31c8845_1
     - setuptools =75.8.2 =pyhff2d567_0
     - sigtool =0.1.3 =h88f4db0_0

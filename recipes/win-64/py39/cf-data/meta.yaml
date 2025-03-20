@@ -194,11 +194,11 @@ requirements:
     - language-data =1.3.0 =pyhff2d567_0
     - lcms2 =2.17 =hbcf6048_0
     - lerc =4.0.0 =h63175ca_0
-    - libabseil =20250127.0 =cxx17_h4eb7d71_0
-    - libarrow =19.0.1 =h3d30abe_4_cpu
-    - libarrow-acero =19.0.1 =h7d8d6a5_4_cpu
-    - libarrow-dataset =19.0.1 =h7d8d6a5_4_cpu
-    - libarrow-substrait =19.0.1 =hb76e781_4_cpu
+    - libabseil =20250127.1 =cxx17_h4eb7d71_0
+    - libarrow =19.0.1 =h3d30abe_5_cpu
+    - libarrow-acero =19.0.1 =h7d8d6a5_5_cpu
+    - libarrow-dataset =19.0.1 =h7d8d6a5_5_cpu
+    - libarrow-substrait =19.0.1 =hb76e781_5_cpu
     - libblas =3.9.0 =31_h641d27c_mkl
     - libboost =1.84.0 =hb0986bb_7
     - libbrotlicommon =1.1.0 =h2466b09_2
@@ -228,7 +228,7 @@ requirements:
     - liblightgbm =4.6.0 =cpu_hb4e115d_0
     - liblzma =5.6.4 =h2466b09_0
     - libogg =1.3.5 =h2466b09_0
-    - libparquet =19.0.1 =ha850022_4_cpu
+    - libparquet =19.0.1 =ha850022_5_cpu
     - libpng =1.6.47 =had7236b_0
     - libprotobuf =5.29.3 =he9d8c4a_0
     - libre2-11 =2024.07.02 =hd248061_3
