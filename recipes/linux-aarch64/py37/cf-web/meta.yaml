@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =1.4.42 =py37heeccf27_0
     - twisted =22.8.0 =py37heeccf27_0
 
-    # 186 secondary packages :
+    # 187 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.13 =h86ecc28_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -98,7 +98,7 @@ requirements:
     - libasprintf-devel =0.23.1 =h5e0f5ae_0
     - libcap =2.75 =h51d75a7_0
     - libclang-cpp19.1 =19.1.7 =default_he324ac1_2
-    - libclang13 =19.1.7 =default_h4390ef5_2
+    - libclang13 =20.1.1 =default_h4390ef5_0
     - libcups =2.3.3 =h405e4a8_4
     - libdrm =2.4.124 =h86ecc28_0
     - libedit =3.1.20250104 =pl5321h976ea20_0
@@ -121,6 +121,7 @@ requirements:
     - libiconv =1.18 =hc99b53d_1
     - libjpeg-turbo =3.0.0 =h31becfc_1
     - libllvm19 =19.1.7 =h2edbd07_1
+    - libllvm20 =20.1.1 =h2edbd07_0
     - liblzma =5.6.4 =h86ecc28_0
     - liblzma-devel =5.6.4 =h86ecc28_0
     - libnsl =2.0.1 =h31becfc_0
@@ -166,7 +167,7 @@ requirements:
     - psutil =5.9.3 =py37h795501a_0
     - pthread-stubs =0.4 =h86ecc28_1002
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pulseaudio-client =17.0 =h729494f_0
+    - pulseaudio-client =17.0 =h2f84921_1
     - pyasn1 =0.5.1 =pyhd8ed1ab_0
     - pyasn1-modules =0.3.0 =pyhd8ed1ab_0
     - pycparser =2.21 =pyhd8ed1ab_0
@@ -221,7 +222,7 @@ requirements:
     - zeromq =4.3.5 =h28faeed_4
     - zipp =3.15.0 =pyhd8ed1ab_0
     - zope.interface =5.5.0 =py37heeccf27_0
-    - zstd =1.5.7 =hbcf94c1_1
+    - zstd =1.5.7 =hbcf94c1_2
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

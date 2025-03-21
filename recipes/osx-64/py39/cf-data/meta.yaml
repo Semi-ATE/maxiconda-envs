@@ -44,7 +44,7 @@ requirements:
     - sqlalchemy =2.0.39 =py39h80efdc8_1
     - sqlite =3.49.1 =h2e4c9dc_2
     - statsmodels =0.14.4 =py39hff9a475_0
-    - xgboost =2.1.4 =cpu_pyhc1a9e11_0
+    - xgboost =2.1.4 =cpu_pyhc1a9e11_1
 
     # 429 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
@@ -222,10 +222,10 @@ requirements:
     - libbrotlienc =1.1.0 =h00291cd_2
     - libcblas =3.9.0 =20_osx64_mkl
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =19.1.7 =default_hf2b7afa_2
+    - libclang13 =20.1.1 =default_hf2b7afa_0
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.12.1 =h5dec5d8_0
-    - libcxx =19.1.7 =hf95d169_0
+    - libcxx =20.1.1 =hf95d169_0
     - libdeflate =1.23 =he65b83e_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -233,8 +233,8 @@ requirements:
     - libexpat =2.6.4 =h240833e_0
     - libffi =3.4.6 =h281671d_0
     - libgd =2.3.3 =h8555400_11
-    - libgfortran =5.0.0 =14_2_0_h51e75f0_0
-    - libgfortran5 =14.2.0 =h51e75f0_0
+    - libgfortran =5.0.0 =14_2_0_h51e75f0_1
+    - libgfortran5 =14.2.0 =h51e75f0_1
     - libglib =2.82.2 =h5c976ab_1
     - libgoogle-cloud =2.36.0 =h777fda5_1
     - libgoogle-cloud-storage =2.36.0 =h3397294_1
@@ -248,7 +248,7 @@ requirements:
     - liblightgbm =4.6.0 =cpu_ha9917bc_0
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm19 =19.1.7 =hc29ff6c_1
+    - libllvm20 =20.1.1 =hc29ff6c_0
     - liblzma =5.6.4 =hd471939_0
     - libnghttp2 =1.64.0 =hc7306c3_0
     - libntlm =1.8 =h6e16a3a_0
@@ -273,11 +273,11 @@ requirements:
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp-base =1.5.0 =h6cf52b4_0
     - libxcb =1.17.0 =hf1f96e2_0
-    - libxgboost =2.1.4 =cpu_h250267a_0
+    - libxgboost =2.1.4 =cpu_h250267a_1
     - libxml2 =2.13.6 =hebb159f_0
     - libxslt =1.1.39 =h03b04e6_0
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =19.1.7 =ha54dae1_0
+    - llvm-openmp =20.1.0 =ha54dae1_0
     - llvmlite =0.43.0 =py39h164c851_1
     - lxml =5.3.1 =py39h214c5ce_0
     - lz4-c =1.10.0 =h240833e_1
@@ -338,7 +338,7 @@ requirements:
     - pillow =11.1.0 =py39h1fda9f2_0
     - pip =25.0.1 =pyh8b19718_0
     - pixman =0.44.2 =h1fd1274_0
-    - platformdirs =4.3.6 =pyhd8ed1ab_1
+    - platformdirs =4.3.7 =pyh29332c3_0
     - ply =3.11 =pyhd8ed1ab_3
     - preshed =3.0.9 =py39ha92e968_2
     - prometheus-cpp =1.3.0 =h7802330_0
@@ -352,7 +352,7 @@ requirements:
     - pthread-stubs =0.4 =h00291cd_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
-    - py-xgboost =2.1.4 =cpu_pyh43b6f25_0
+    - py-xgboost =2.1.4 =cpu_pyhf5c67e3_1
     - pyarrow =19.0.1 =py39h6e9494a_0
     - pyarrow-core =19.0.1 =py39h6e815d7_0_cpu
     - pyasn1 =0.6.1 =pyhd8ed1ab_2
@@ -475,7 +475,7 @@ requirements:
     - zlib =1.3.1 =hd23fc13_2
     - zope.interface =7.2 =py39h80efdc8_0
     - zstandard =0.23.0 =py39h80efdc8_1
-    - zstd =1.5.7 =h8210216_1
+    - zstd =1.5.7 =h8210216_2
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

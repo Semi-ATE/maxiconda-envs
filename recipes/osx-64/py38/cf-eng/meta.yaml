@@ -62,12 +62,12 @@ requirements:
     - libblas =3.9.0 =31_h7f60823_openblas
     - libcblas =3.9.0 =31_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =19.1.7 =default_hf2b7afa_2
-    - libcxx =19.1.7 =hf95d169_0
+    - libclang13 =20.1.1 =default_hf2b7afa_0
+    - libcxx =20.1.1 =hf95d169_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libffi =3.4.6 =h281671d_0
-    - libgfortran =5.0.0 =14_2_0_h51e75f0_0
-    - libgfortran5 =14.2.0 =h51e75f0_0
+    - libgfortran =5.0.0 =14_2_0_h51e75f0_1
+    - libgfortran5 =14.2.0 =h51e75f0_1
     - libglib =2.82.2 =h5c976ab_1
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.23.1 =h27064b9_0
@@ -75,7 +75,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =31_h236ab99_openblas
     - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm19 =19.1.7 =hc29ff6c_1
+    - libllvm20 =20.1.1 =hc29ff6c_0
     - liblzma =5.6.4 =hd471939_0
     - liblzma-devel =5.6.4 =hd471939_0
     - libntlm =1.8 =h6e16a3a_0
@@ -90,7 +90,7 @@ requirements:
     - libvorbis =1.3.7 =h046ec9c_0
     - libxml2 =2.13.6 =hebb159f_0
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =19.1.7 =ha54dae1_0
+    - llvm-openmp =20.1.0 =ha54dae1_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mysql-common =9.0.1 =hd00b0ec_5
     - mysql-libs =9.0.1 =h062309a_5
@@ -142,7 +142,7 @@ requirements:
     - xz-tools =5.6.4 =hd471939_0
     - zeromq =4.3.5 =hde137ed_4
     - zipp =3.21.0 =pyhd8ed1ab_0
-    - zstd =1.5.7 =h8210216_1
+    - zstd =1.5.7 =h8210216_2
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

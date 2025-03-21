@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.2 =pyhca7485f_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
-    # 169 secondary packages :
+    # 170 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.13 =hb9d3cd8_0
@@ -87,7 +87,7 @@ requirements:
     - libcap =2.75 =h39aace5_0
     - libcblas =3.9.0 =31_he106b2a_openblas
     - libclang-cpp19.1 =19.1.7 =default_hb5137d0_2
-    - libclang13 =19.1.7 =default_h9c6a7e4_2
+    - libclang13 =20.1.1 =default_h9c6a7e4_0
     - libcups =2.3.3 =h4637d8d_4
     - libdrm =2.4.124 =hb9d3cd8_0
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -113,6 +113,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =31_h7ac8fdf_openblas
     - libllvm19 =19.1.7 =ha7bfdaf_1
+    - libllvm20 =20.1.1 =ha7bfdaf_0
     - liblzma =5.6.4 =hb9d3cd8_0
     - liblzma-devel =5.6.4 =hb9d3cd8_0
     - libnsl =2.0.1 =hd590300_0
@@ -160,7 +161,7 @@ requirements:
     - psutil =5.9.3 =py37h540881e_0
     - pthread-stubs =0.4 =hb9d3cd8_1002
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pulseaudio-client =17.0 =hb77b528_0
+    - pulseaudio-client =17.0 =hac146a9_1
     - pygments =2.17.2 =pyhd8ed1ab_0
     - pyqt5-sip =12.11.0 =py37hd23a5d3_1
     - python-dateutil =2.9.0 =pyhd8ed1ab_0
@@ -203,7 +204,7 @@ requirements:
     - xz-tools =5.6.4 =hb9d3cd8_0
     - zeromq =4.3.5 =h75354e8_4
     - zipp =3.15.0 =pyhd8ed1ab_0
-    - zstd =1.5.7 =hb8e6e7a_1
+    - zstd =1.5.7 =hb8e6e7a_2
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

@@ -34,7 +34,7 @@ requirements:
     - scipy =1.13.1 =py39hb921187_0
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
 
-    # 214 secondary packages :
+    # 215 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.13 =h86ecc28_0
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -104,7 +104,7 @@ requirements:
     - libcap =2.75 =h51d75a7_0
     - libcblas =3.9.0 =31_hab92f65_openblas
     - libclang-cpp19.1 =19.1.7 =default_he324ac1_2
-    - libclang13 =19.1.7 =default_h4390ef5_2
+    - libclang13 =20.1.1 =default_h4390ef5_0
     - libcups =2.3.3 =h405e4a8_4
     - libdeflate =1.23 =h5e3c512_0
     - libdrm =2.4.124 =h86ecc28_0
@@ -132,6 +132,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =h31becfc_1
     - liblapack =3.9.0 =31_h411afd4_openblas
     - libllvm19 =19.1.7 =h2edbd07_1
+    - libllvm20 =20.1.1 =h2edbd07_0
     - liblzma =5.6.4 =h86ecc28_0
     - libnsl =2.0.1 =h31becfc_0
     - libntlm =1.4 =hf897c2e_1002
@@ -181,13 +182,13 @@ requirements:
     - pillow =11.1.0 =py39h301a0e3_0
     - pip =25.0.1 =pyh8b19718_0
     - pixman =0.44.2 =h86a87f0_0
-    - platformdirs =4.3.6 =pyhd8ed1ab_1
+    - platformdirs =4.3.7 =pyh29332c3_0
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.50 =pyha770c72_0
     - psutil =7.0.0 =py39h060674a_0
     - pthread-stubs =0.4 =h86ecc28_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
-    - pulseaudio-client =17.0 =h729494f_0
+    - pulseaudio-client =17.0 =h2f84921_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycairo =1.27.0 =py39ha0a538d_0
     - pygments =2.19.1 =pyhd8ed1ab_0
@@ -248,7 +249,7 @@ requirements:
     - xorg-libxxf86vm =1.1.6 =h86ecc28_0
     - zeromq =4.3.5 =h5efb499_7
     - zipp =3.21.0 =pyhd8ed1ab_1
-    - zstd =1.5.7 =hbcf94c1_1
+    - zstd =1.5.7 =hbcf94c1_2
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

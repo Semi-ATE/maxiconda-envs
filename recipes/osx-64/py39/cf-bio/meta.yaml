@@ -107,16 +107,16 @@ requirements:
     - libbrotlienc =1.1.0 =h00291cd_2
     - libcblas =3.9.0 =31_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =19.1.7 =default_hf2b7afa_2
+    - libclang13 =20.1.1 =default_hf2b7afa_0
     - libcurl =8.12.1 =h5dec5d8_0
-    - libcxx =19.1.7 =hf95d169_0
+    - libcxx =20.1.1 =hf95d169_0
     - libdeflate =1.23 =he65b83e_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
     - libexpat =2.6.4 =h240833e_0
     - libffi =3.4.6 =h281671d_0
-    - libgfortran =5.0.0 =14_2_0_h51e75f0_0
-    - libgfortran5 =14.2.0 =h51e75f0_0
+    - libgfortran =5.0.0 =14_2_0_h51e75f0_1
+    - libgfortran5 =14.2.0 =h51e75f0_1
     - libglib =2.82.2 =h5c976ab_1
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.23.1 =h27064b9_0
@@ -124,7 +124,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =31_h236ab99_openblas
     - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm19 =19.1.7 =hc29ff6c_1
+    - libllvm20 =20.1.1 =hc29ff6c_0
     - liblzma =5.6.4 =hd471939_0
     - libnetcdf =4.9.2 =nompi_hf3c7182_116
     - libnghttp2 =1.64.0 =hc7306c3_0
@@ -145,7 +145,7 @@ requirements:
     - libxml2 =2.13.6 =hebb159f_0
     - libzip =1.11.2 =h31df5bb_0
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =19.1.7 =ha54dae1_0
+    - llvm-openmp =20.1.0 =ha54dae1_0
     - lz4-c =1.10.0 =h240833e_1
     - matplotlib-base =3.9.4 =py39hda06d36_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
@@ -174,7 +174,7 @@ requirements:
     - pillow =11.1.0 =py39h1fda9f2_0
     - pip =25.0.1 =pyh8b19718_0
     - pixman =0.44.2 =h1fd1274_0
-    - platformdirs =4.3.6 =pyhd8ed1ab_1
+    - platformdirs =4.3.7 =pyh29332c3_0
     - ply =3.11 =pyhd8ed1ab_3
     - pmw =2.0.1 =py39h6e9494a_1008
     - prompt-toolkit =3.0.50 =pyha770c72_0
@@ -231,7 +231,7 @@ requirements:
     - zeromq =4.3.5 =h7130eaa_7
     - zipp =3.21.0 =pyhd8ed1ab_1
     - zlib =1.3.1 =hd23fc13_2
-    - zstd =1.5.7 =h8210216_1
+    - zstd =1.5.7 =h8210216_2
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

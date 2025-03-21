@@ -62,7 +62,7 @@ requirements:
     - krb5 =1.21.3 =hdf4eb48_0
     - libblas =3.9.0 =31_h641d27c_mkl
     - libcblas =3.9.0 =31_h5e41251_mkl
-    - libclang13 =19.1.7 =default_ha5278ca_2
+    - libclang13 =20.1.0 =default_ha5278ca_0
     - libffi =3.4.6 =h537db12_0
     - libglib =2.82.2 =h7025463_1
     - libhwloc =2.11.2 =default_ha69328c_1001
@@ -90,7 +90,7 @@ requirements:
     - pcre2 =10.44 =h3d7b363_2
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pip =25.0.1 =pyh8b19718_0
-    - platformdirs =4.3.6 =pyhd8ed1ab_1
+    - platformdirs =4.3.7 =pyh29332c3_0
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.50 =pyha770c72_0
     - psutil =7.0.0 =py39ha55e580_0
@@ -125,7 +125,7 @@ requirements:
     - wheel =0.45.1 =pyhd8ed1ab_1
     - zeromq =4.3.5 =ha9f60a1_7
     - zipp =3.21.0 =pyhd8ed1ab_1
-    - zstd =1.5.7 =hbeecb71_1
+    - zstd =1.5.7 =hbeecb71_2
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

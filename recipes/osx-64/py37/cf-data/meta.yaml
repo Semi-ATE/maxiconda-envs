@@ -169,7 +169,7 @@ requirements:
     - libbrotlienc =1.1.0 =h00291cd_2
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang =13.0.1 =default_h2cdd939_10
-    - libcxx =19.1.7 =hf95d169_0
+    - libcxx =20.1.1 =hf95d169_0
     - libcxx-devel =16.0.6 =h8f8a49f_2
     - libdeflate =1.14 =hb7f2c08_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
@@ -178,8 +178,8 @@ requirements:
     - libgd =2.3.3 =h1e214de_3
     - libgettextpo =0.23.1 =h27064b9_0
     - libgettextpo-devel =0.23.1 =h27064b9_0
-    - libgfortran =5.0.0 =14_2_0_h51e75f0_0
-    - libgfortran5 =14.2.0 =h51e75f0_0
+    - libgfortran =5.0.0 =14_2_0_h51e75f0_1
+    - libgfortran5 =14.2.0 =h51e75f0_1
     - libglib =2.80.2 =h0f68cf7_0
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.23.1 =h27064b9_0
@@ -209,7 +209,7 @@ requirements:
     - libxml2 =2.10.3 =h201ad9d_4
     - libxslt =1.1.37 =h5d22bc9_0
     - libzlib =1.2.13 =h87427d6_6
-    - llvm-openmp =19.1.7 =ha54dae1_0
+    - llvm-openmp =20.1.0 =ha54dae1_0
     - llvmlite =0.39.1 =py37h5d31d3a_0
     - lxml =4.9.1 =py37h994c40b_0
     - mako =1.3.5 =pyhd8ed1ab_0

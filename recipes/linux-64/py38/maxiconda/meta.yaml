@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 511 secondary packages :
+    # 512 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -193,7 +193,7 @@ requirements:
     - libcap =2.75 =h39aace5_0
     - libcblas =3.9.0 =20_linux64_openblas
     - libclang-cpp19.1 =19.1.7 =default_hb5137d0_2
-    - libclang13 =19.1.7 =default_h9c6a7e4_2
+    - libclang13 =20.1.1 =default_h9c6a7e4_0
     - libcups =2.3.3 =h4637d8d_4
     - libcurl =8.12.1 =h332b0f4_0
     - libdeflate =1.23 =h4ddbbb0_0
@@ -225,6 +225,7 @@ requirements:
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm14 =14.0.6 =hcd5def8_4
     - libllvm19 =19.1.7 =ha7bfdaf_1
+    - libllvm20 =20.1.1 =ha7bfdaf_0
     - liblzma =5.6.4 =hb9d3cd8_0
     - liblzma-devel =5.6.4 =hb9d3cd8_0
     - libnghttp2 =1.64.0 =h161d5f1_0
@@ -306,7 +307,7 @@ requirements:
     - prompt_toolkit =3.0.48 =hd8ed1ab_1
     - pthread-stubs =0.4 =hb9d3cd8_1002
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pulseaudio-client =17.0 =hb77b528_0
+    - pulseaudio-client =17.0 =hac146a9_1
     - pure_eval =0.2.3 =pyhd8ed1ab_0
     - pycparser =2.22 =pyhd8ed1ab_0
     - pydantic-core =2.20.1 =py38h4005ec7_0
@@ -575,7 +576,7 @@ requirements:
     - zeromq =4.3.5 =h75354e8_4
     - zipp =3.21.0 =pyhd8ed1ab_0
     - zstandard =0.19.0 =py38h0a891b7_0
-    - zstd =1.5.7 =hb8e6e7a_1
+    - zstd =1.5.7 =hb8e6e7a_2
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

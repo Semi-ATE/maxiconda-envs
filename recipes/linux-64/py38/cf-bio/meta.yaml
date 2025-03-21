@@ -36,7 +36,7 @@ requirements:
     - scipy =1.10.1 =py38h59b608b_3
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
 
-    # 260 secondary packages :
+    # 261 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.13 =hb9d3cd8_0
@@ -128,7 +128,7 @@ requirements:
     - libcap =2.75 =h39aace5_0
     - libcblas =3.9.0 =20_linux64_openblas
     - libclang-cpp19.1 =19.1.7 =default_hb5137d0_2
-    - libclang13 =19.1.7 =default_h9c6a7e4_2
+    - libclang13 =20.1.1 =default_h9c6a7e4_0
     - libcups =2.3.3 =h4637d8d_4
     - libcurl =8.12.1 =h332b0f4_0
     - libdeflate =1.23 =h4ddbbb0_0
@@ -159,6 +159,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm19 =19.1.7 =ha7bfdaf_1
+    - libllvm20 =20.1.1 =ha7bfdaf_0
     - liblzma =5.6.4 =hb9d3cd8_0
     - liblzma-devel =5.6.4 =hb9d3cd8_0
     - libnetcdf =4.9.2 =nompi_h00e09a9_116
@@ -226,7 +227,7 @@ requirements:
     - psutil =6.0.0 =py38hfb59056_0
     - pthread-stubs =0.4 =hb9d3cd8_1002
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pulseaudio-client =17.0 =hb77b528_0
+    - pulseaudio-client =17.0 =hac146a9_1
     - pure_eval =0.2.3 =pyhd8ed1ab_0
     - pycairo =1.26.1 =py38he403b34_0
     - pycparser =2.22 =pyhd8ed1ab_0
@@ -296,7 +297,7 @@ requirements:
     - zipp =3.21.0 =pyhd8ed1ab_0
     - zlib =1.3.1 =hb9d3cd8_2
     - zstandard =0.19.0 =py38h0a891b7_0
-    - zstd =1.5.7 =hb8e6e7a_1
+    - zstd =1.5.7 =hb8e6e7a_2
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

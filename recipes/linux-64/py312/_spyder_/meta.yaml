@@ -35,7 +35,7 @@ requirements:
     - spyder =6.0.4 =hd8ed1ab_1
     - sympy =1.13.3 =pyh2585a3b_105
 
-    # 355 secondary packages :
+    # 356 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -56,7 +56,7 @@ requirements:
     - backports.tarfile =1.2.0 =pyhd8ed1ab_1
     - beautifulsoup4 =4.13.3 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
-    - black =25.1.0 =py312h7900ff3_0
+    - black =25.1.0 =pyh866005b_0
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
     - brotli =1.1.0 =hb9d3cd8_2
@@ -158,7 +158,7 @@ requirements:
     - libcap =2.75 =h39aace5_0
     - libcblas =3.9.0 =31_he106b2a_openblas
     - libclang-cpp19.1 =19.1.7 =default_hb5137d0_2
-    - libclang13 =19.1.7 =default_h9c6a7e4_2
+    - libclang13 =20.1.1 =default_h9c6a7e4_0
     - libcups =2.3.3 =h4637d8d_4
     - libdeflate =1.23 =h4ddbbb0_0
     - libdrm =2.4.124 =hb9d3cd8_0
@@ -185,6 +185,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =31_h7ac8fdf_openblas
     - libllvm19 =19.1.7 =ha7bfdaf_1
+    - libllvm20 =20.1.1 =ha7bfdaf_0
     - liblzma =5.6.4 =hb9d3cd8_0
     - libnsl =2.0.1 =hd590300_0
     - libntlm =1.8 =hb9d3cd8_0
@@ -256,7 +257,7 @@ requirements:
     - pip =25.0.1 =pyh8b19718_0
     - pixman =0.44.2 =h29eaf8c_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_2
-    - platformdirs =4.3.6 =pyhd8ed1ab_1
+    - platformdirs =4.3.7 =pyh29332c3_0
     - pluggy =1.5.0 =pyhd8ed1ab_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.50 =pyha770c72_0
@@ -264,7 +265,7 @@ requirements:
     - psutil =7.0.0 =py312h66e93f0_0
     - pthread-stubs =0.4 =hb9d3cd8_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
-    - pulseaudio-client =17.0 =hb77b528_0
+    - pulseaudio-client =17.0 =hac146a9_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycodestyle =2.12.1 =pyhd8ed1ab_1
     - pyconify =0.2.1 =pyhd8ed1ab_0
@@ -390,7 +391,7 @@ requirements:
     - zeromq =4.3.5 =h3b0a872_7
     - zipp =3.21.0 =pyhd8ed1ab_1
     - zstandard =0.23.0 =py312h66e93f0_1
-    - zstd =1.5.7 =hb8e6e7a_1
+    - zstd =1.5.7 =hb8e6e7a_2
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

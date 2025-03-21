@@ -167,7 +167,7 @@ requirements:
     - libclang =13.0.1 =default_h2cdd939_10
     - libclang-cpp16 =16.0.1 =default_hd25f202_0
     - libcurl =8.1.2 =hbee3ae8_0
-    - libcxx =19.1.7 =hf95d169_0
+    - libcxx =20.1.1 =hf95d169_0
     - libcxx-devel =16.0.6 =h8f8a49f_2
     - libdeflate =1.14 =hb7f2c08_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
@@ -176,9 +176,9 @@ requirements:
     - libffi =3.4.6 =h281671d_0
     - libgettextpo =0.23.1 =h27064b9_0
     - libgettextpo-devel =0.23.1 =h27064b9_0
-    - libgfortran =5.0.0 =14_2_0_h51e75f0_0
+    - libgfortran =5.0.0 =14_2_0_h51e75f0_1
     - libgfortran-devel_osx-64 =11.4.0 =h01aa347_1
-    - libgfortran5 =14.2.0 =h51e75f0_0
+    - libgfortran5 =14.2.0 =h51e75f0_1
     - libglib =2.78.1 =h6d9ecee_0
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.23.1 =h27064b9_0
@@ -204,7 +204,7 @@ requirements:
     - libxcb =1.13 =h0d85af4_1004
     - libxml2 =2.10.3 =h201ad9d_4
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =19.1.7 =ha54dae1_0
+    - llvm-openmp =20.1.0 =ha54dae1_0
     - llvm-tools =16.0.1 =h7001e86_0
     - llvmlite =0.39.1 =py37h5d31d3a_0
     - make =4.4.1 =h00291cd_2
@@ -485,7 +485,7 @@ requirements:
     - zeromq =4.3.5 =h93d8f39_0
     - zipp =3.15.0 =pyhd8ed1ab_0
     - zlib =1.3.1 =hd23fc13_2
-    - zstd =1.5.7 =h8210216_1
+    - zstd =1.5.7 =h8210216_2
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.2 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 463 secondary packages :
+    # 464 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
@@ -90,7 +90,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h950ec3b_0
-    - cctools_osx-64 =1010.6 =h96393e6_3
+    - cctools_osx-64 =1010.6 =h96393e6_4
     - certifi =2025.1.31 =pyhd8ed1ab_0
     - cffi =1.17.1 =py312hf857d28_0
     - charset-normalizer =3.4.1 =pyhd8ed1ab_0
@@ -131,7 +131,7 @@ requirements:
     - freetype =2.13.3 =h40dfd5c_0
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.5.0 =py312h3520af0_1
-    - gfortran_impl_osx-64 =13.3.0 =h355c40b_0
+    - gfortran_impl_osx-64 =13.3.0 =h355c40b_1
     - gfortran_osx-64 =13.3.0 =h3223c34_0
     - glib =2.82.2 =h915cd9b_1
     - glib-tools =2.82.2 =hf8faeaf_1
@@ -176,7 +176,7 @@ requirements:
     - kiwisolver =1.4.8 =py312h9275861_0
     - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.17 =h72f5680_0
-    - ld64_osx-64 =951.9 =h5ab288c_3
+    - ld64_osx-64 =951.9 =h5ab288c_4
     - lerc =4.0.0 =hb486fe8_0
     - libasprintf =0.23.1 =h27064b9_0
     - libblas =3.9.0 =31_h7f60823_openblas
@@ -186,19 +186,19 @@ requirements:
     - libcblas =3.9.0 =31_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang-cpp19.1 =19.1.7 =default_h3571c67_2
-    - libclang13 =19.1.7 =default_hf2b7afa_2
+    - libclang13 =20.1.1 =default_hf2b7afa_0
     - libcurl =8.12.1 =h5dec5d8_0
-    - libcxx =19.1.7 =hf95d169_0
-    - libcxx-devel =19.1.7 =h7c275be_0
+    - libcxx =20.1.1 =hf95d169_0
+    - libcxx-devel =19.1.7 =h7c275be_1
     - libdeflate =1.23 =he65b83e_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
     - libexpat =2.6.4 =h240833e_0
     - libffi =3.4.6 =h281671d_0
     - libgettextpo =0.23.1 =h27064b9_0
-    - libgfortran =5.0.0 =14_2_0_h51e75f0_0
-    - libgfortran-devel_osx-64 =13.3.0 =h297be85_0
-    - libgfortran5 =14.2.0 =h51e75f0_0
+    - libgfortran =5.0.0 =14_2_0_h51e75f0_1
+    - libgfortran-devel_osx-64 =13.3.0 =h297be85_1
+    - libgfortran5 =14.2.0 =h51e75f0_1
     - libglib =2.82.2 =h5c976ab_1
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.23.1 =h27064b9_0
@@ -208,6 +208,7 @@ requirements:
     - libllvm15 =15.0.7 =hc29ff6c_5
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm19 =19.1.7 =hc29ff6c_1
+    - libllvm20 =20.1.1 =hc29ff6c_0
     - liblzma =5.6.4 =hd471939_0
     - libnghttp2 =1.64.0 =hc7306c3_0
     - libntlm =1.8 =h6e16a3a_0
@@ -226,7 +227,7 @@ requirements:
     - libxcb =1.17.0 =hf1f96e2_0
     - libxml2 =2.13.6 =hebb159f_0
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =19.1.7 =ha54dae1_0
+    - llvm-openmp =20.1.0 =ha54dae1_0
     - llvm-tools =19.1.7 =h3fe3016_1
     - llvm-tools-19 =19.1.7 =he90a8e3_1
     - llvmlite =0.44.0 =py312hc7f3abb_0
@@ -268,7 +269,7 @@ requirements:
     - pixman =0.44.2 =h1fd1274_0
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_2
-    - platformdirs =4.3.6 =pyhd8ed1ab_1
+    - platformdirs =4.3.7 =pyh29332c3_0
     - pluggy =1.5.0 =pyhd8ed1ab_1
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
@@ -527,7 +528,7 @@ requirements:
     - zipp =3.21.0 =pyhd8ed1ab_1
     - zlib =1.3.1 =hd23fc13_2
     - zstandard =0.23.0 =py312h01d7ebd_1
-    - zstd =1.5.7 =h8210216_1
+    - zstd =1.5.7 =h8210216_2
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
