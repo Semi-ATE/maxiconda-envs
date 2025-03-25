@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.1.1 =py310ha8f682b_0
     - cython =3.0.12 =py310h6bd2d47_0
     - grayskull =2.8.0 =pyhd8ed1ab_0
-    - hypothesis =6.130.2 =pyha770c72_0
+    - hypothesis =6.130.3 =pyha770c72_0
     - ipython =8.34.0 =pyh9ab4c32_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.1 =py310h5588dad_0
@@ -207,7 +207,7 @@ requirements:
     - libxml2 =2.13.6 =he286e8c_0
     - libxslt =1.1.39 =h3df6e99_0
     - libzlib =1.3.1 =h2466b09_2
-    - llvmlite =0.44.0 =py310h0288bfe_0
+    - llvmlite =0.44.0 =py310h0288bfe_1
     - m2w64-sysroot_win-64 =12.0.0.r4.gg4f2fc60ca =h7428d3b_9
     - markupsafe =3.0.2 =py310h38315fa_1
     - matplotlib-base =3.10.1 =py310h37e0a56_0
@@ -253,7 +253,7 @@ requirements:
     - pycparser =2.22 =pyh29332c3_1
     - pydantic-core =2.27.2 =py310hc226416_0
     - pygments =2.19.1 =pyhd8ed1ab_0
-    - pyparsing =3.2.1 =pyhd8ed1ab_0
+    - pyparsing =3.2.2 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py310h00ffb61_5
     - pyside6 =6.8.1 =py310h60c6385_0
     - pysocks =1.7.1 =pyh09c184e_7
@@ -373,7 +373,7 @@ requirements:
     - r-nnet =7.3_20 =r44h11b023d_0
     - r-numderiv =2016.8_1.1 =r44hc72bb7e_6
     - r-openssl =2.3.2 =r44haf0e47c_0
-    - r-parallelly =1.42.0 =r44h11b023d_0
+    - r-parallelly =1.43.0 =r44h11b023d_0
     - r-pbdzmq =0.3_13 =r44hecbe834_0
     - r-pillar =1.10.1 =r44hc72bb7e_0
     - r-pkgconfig =2.0.3 =r44hc72bb7e_4

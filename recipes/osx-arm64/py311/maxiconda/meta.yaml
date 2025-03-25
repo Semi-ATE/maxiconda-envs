@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.13.3 =pyha770c72_0
     - cython =3.0.12 =py311h71112e5_0
     - grayskull =2.8.0 =pyhd8ed1ab_0
-    - hypothesis =6.130.2 =pyha770c72_0
+    - hypothesis =6.130.3 =pyha770c72_0
     - ipython =9.0.2 =pyhfb0248b_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.1 =py311ha1ab1f8_0
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.2 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 463 secondary packages :
+    # 462 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
@@ -204,7 +204,6 @@ requirements:
     - libintl-devel =0.23.1 =h493aca8_0
     - libjpeg-turbo =3.0.0 =hb547adb_1
     - liblapack =3.9.0 =31_hc9a63f6_openblas
-    - libllvm15 =15.0.7 =h4429f82_5
     - libllvm17 =17.0.6 =hc4b4ae8_3
     - libllvm20 =20.1.1 =hc4b4ae8_0
     - liblzma =5.6.4 =h39f12f2_0
@@ -228,7 +227,7 @@ requirements:
     - llvm-openmp =20.1.1 =hdb05f8b_1
     - llvm-tools =20.1.1 =hd2aecb6_0
     - llvm-tools-20 =20.1.1 =h87a4c7e_0
-    - llvmlite =0.44.0 =py311h55fc170_0
+    - llvmlite =0.44.0 =py311h55fc170_1
     - make =4.4.1 =hc9fafa5_2
     - markupsafe =3.0.2 =py311h4921393_1
     - matplotlib-base =3.10.1 =py311h031da69_0
@@ -282,7 +281,7 @@ requirements:
     - pygments =2.19.1 =pyhd8ed1ab_0
     - pyobjc-core =11.0 =py311hab620ed_0
     - pyobjc-framework-cocoa =11.0 =py311hab620ed_0
-    - pyparsing =3.2.1 =pyhd8ed1ab_0
+    - pyparsing =3.2.2 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py311ha891d26_5
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
@@ -398,7 +397,7 @@ requirements:
     - r-nnet =7.3_20 =r44h570997c_0
     - r-numderiv =2016.8_1.1 =r44hc72bb7e_6
     - r-openssl =2.3.2 =r44h3814a5a_0
-    - r-parallelly =1.42.0 =r44h570997c_0
+    - r-parallelly =1.43.0 =r44h570997c_0
     - r-pbdzmq =0.3_13 =r44hd430892_0
     - r-pillar =1.10.1 =r44hc72bb7e_0
     - r-pkgconfig =2.0.3 =r44hc72bb7e_4
