@@ -73,8 +73,8 @@ requirements:
     - freetype =2.13.3 =h0b5ce68_0
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - glew =2.1.0 =h39d44d4_2
-    - glib =2.82.2 =h3d4babf_1
-    - glib-tools =2.82.2 =h4394cf3_1
+    - glib =2.84.0 =h3d4babf_0
+    - glib-tools =2.84.0 =h4394cf3_0
     - glm =0.9.9.8 =h181d51b_0
     - graphite2 =1.3.13 =h63175ca_1003
     - greenlet =3.1.1 =py39ha51f57c_1
@@ -115,7 +115,7 @@ requirements:
     - libexpat =2.6.4 =he0c23c2_0
     - libffi =3.4.6 =h537db12_0
     - libgcc =14.2.0 =h1383e82_2
-    - libglib =2.82.2 =h7025463_1
+    - libglib =2.84.0 =h7025463_0
     - libgomp =14.2.0 =h1383e82_2
     - libhwloc =2.11.2 =default_ha69328c_1001
     - libiconv =1.18 =h135ad9c_1
@@ -137,7 +137,7 @@ requirements:
     - libwebp-base =1.5.0 =h3b0e114_0
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_9
     - libxcb =1.17.0 =h0e4246c_0
-    - libxml2 =2.13.6 =he286e8c_0
+    - libxml2 =2.13.7 =he286e8c_0
     - libxslt =1.1.39 =h3df6e99_0
     - libzip =1.11.2 =h3135430_0
     - libzlib =1.3.1 =h2466b09_2
@@ -173,7 +173,7 @@ requirements:
     - pycairo =1.27.0 =py39h84d6a2a_0
     - pyedr =0.8.0 =pyhd8ed1ab_1
     - pygments =2.19.1 =pyhd8ed1ab_0
-    - pyparsing =3.2.2 =pyhd8ed1ab_0
+    - pyparsing =3.2.3 =pyhd8ed1ab_1
     - pyqt5-sip =12.12.2 =py39h99910a6_5
     - pyside6 =6.8.2 =py39h0285922_1
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
@@ -195,7 +195,7 @@ requirements:
     - sip =6.7.12 =py39h99910a6_0
     - six =1.17.0 =pyhd8ed1ab_0
     - snappy =1.2.1 =h500f7fa_1
-    - sqlalchemy =2.0.39 =py39ha55e580_1
+    - sqlalchemy =2.0.40 =py39ha55e580_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - statsmodels =0.14.4 =py39h4b0a98a_0
     - tbb =2021.13.0 =h62715c5_1
@@ -212,9 +212,9 @@ requirements:
     - tzdata =2025b =h78e105d_0
     - ucrt =10.0.22621.0 =h57928b3_1
     - unicodedata2 =16.0.0 =py39ha55e580_0
-    - vc =14.3 =hbf610ac_24
-    - vc14_runtime =14.42.34438 =hfd919c2_24
-    - vs2015_runtime =14.42.34438 =h7142326_24
+    - vc =14.3 =hbf610ac_25
+    - vc14_runtime =14.42.34438 =hfd919c2_25
+    - vs2015_runtime =14.42.34438 =h7142326_25
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
     - xorg-libx11 =1.8.12 =hf48077a_0

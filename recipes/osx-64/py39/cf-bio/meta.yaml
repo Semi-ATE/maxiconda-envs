@@ -73,8 +73,8 @@ requirements:
     - freetype =2.13.3 =h40dfd5c_0
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - glew =2.1.0 =h046ec9c_2
-    - glib =2.82.2 =h915cd9b_1
-    - glib-tools =2.82.2 =hf8faeaf_1
+    - glib =2.84.0 =h915cd9b_0
+    - glib-tools =2.84.0 =hf8faeaf_0
     - glm =0.9.9.8 =h1c7c39f_0
     - greenlet =3.1.1 =py39hdf37715_1
     - griddataformats =1.0.2 =pyhd8ed1ab_1
@@ -117,7 +117,7 @@ requirements:
     - libffi =3.4.6 =h281671d_0
     - libgfortran =5.0.0 =14_2_0_h51e75f0_1
     - libgfortran5 =14.2.0 =h51e75f0_1
-    - libglib =2.82.2 =h5c976ab_1
+    - libglib =2.84.0 =h5c976ab_0
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.23.1 =h27064b9_0
     - libintl-devel =0.23.1 =h27064b9_0
@@ -142,7 +142,7 @@ requirements:
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp-base =1.5.0 =h6cf52b4_0
     - libxcb =1.17.0 =hf1f96e2_0
-    - libxml2 =2.13.6 =hebb159f_0
+    - libxml2 =2.13.7 =hebb159f_0
     - libzip =1.11.2 =h31df5bb_0
     - libzlib =1.3.1 =hd23fc13_2
     - llvm-openmp =20.1.1 =ha54dae1_1
@@ -185,7 +185,7 @@ requirements:
     - pycairo =1.27.0 =py39h92982e2_0
     - pyedr =0.8.0 =pyhd8ed1ab_1
     - pygments =2.19.1 =pyhd8ed1ab_0
-    - pyparsing =3.2.2 =pyhd8ed1ab_0
+    - pyparsing =3.2.3 =pyhd8ed1ab_1
     - pyqt5-sip =12.12.2 =py39hb11a7c1_5
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
     - python-tzdata =2025.2 =pyhd8ed1ab_0
@@ -206,7 +206,7 @@ requirements:
     - sip =6.7.12 =py39h110ca85_0
     - six =1.17.0 =pyhd8ed1ab_0
     - snappy =1.2.1 =haf3c120_1
-    - sqlalchemy =2.0.39 =py39h80efdc8_1
+    - sqlalchemy =2.0.40 =py39h80efdc8_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - statsmodels =0.14.4 =py39hff9a475_0
     - threadpoolctl =3.6.0 =pyhecae5ae_0

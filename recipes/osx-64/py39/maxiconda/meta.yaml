@@ -56,7 +56,7 @@ requirements:
     - scipy =1.13.1 =py39h038d4f4_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
-    - sqlalchemy =2.0.39 =py39h80efdc8_1
+    - sqlalchemy =2.0.40 =py39h80efdc8_0
     - sqlite =3.49.1 =h2e4c9dc_2
     - sympy =1.13.3 =pyh2585a3b_105
     - tqdm =4.67.1 =pyhd8ed1ab_1
@@ -134,8 +134,8 @@ requirements:
     - frozenlist =1.5.0 =py39hd18e689_1
     - gfortran_impl_osx-64 =13.3.0 =h355c40b_1
     - gfortran_osx-64 =13.3.0 =h3223c34_1
-    - glib =2.82.2 =h915cd9b_1
-    - glib-tools =2.82.2 =hf8faeaf_1
+    - glib =2.84.0 =h915cd9b_0
+    - glib-tools =2.84.0 =hf8faeaf_0
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.1.5 =py39h127c8af_3
     - graphite2 =1.3.13 =h73e2aa4_1003
@@ -200,7 +200,7 @@ requirements:
     - libgfortran =5.0.0 =14_2_0_h51e75f0_1
     - libgfortran-devel_osx-64 =13.3.0 =h297be85_1
     - libgfortran5 =14.2.0 =h51e75f0_1
-    - libglib =2.82.2 =h5c976ab_1
+    - libglib =2.84.0 =h5c976ab_0
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.23.1 =h27064b9_0
     - libintl-devel =0.23.1 =h27064b9_0
@@ -225,7 +225,7 @@ requirements:
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp-base =1.5.0 =h6cf52b4_0
     - libxcb =1.17.0 =hf1f96e2_0
-    - libxml2 =2.13.6 =hebb159f_0
+    - libxml2 =2.13.7 =hebb159f_0
     - libzlib =1.3.1 =hd23fc13_2
     - llvm-openmp =20.1.1 =ha54dae1_1
     - llvm-tools =20.1.1 =h3fe3016_0
@@ -284,7 +284,7 @@ requirements:
     - pygments =2.19.1 =pyhd8ed1ab_0
     - pyobjc-core =11.0 =py39h4881f39_0
     - pyobjc-framework-cocoa =11.0 =py39h4881f39_0
-    - pyparsing =3.2.2 =pyhd8ed1ab_0
+    - pyparsing =3.2.3 =pyhd8ed1ab_1
     - pyqt5-sip =12.12.2 =py39hb11a7c1_5
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
@@ -449,7 +449,7 @@ requirements:
     - r-sparsevctrs =0.3.2 =r44h79f565e_0
     - r-spatial =7.3_18 =r44h79f565e_0
     - r-squarem =2021.1 =r44hc72bb7e_3
-    - r-stringi =1.8.4 =r44hf60abff_3
+    - r-stringi =1.8.7 =r44h586c1d5_0
     - r-stringr =1.5.1 =r44h785f33e_1
     - r-survival =3.8_3 =r44h79f565e_0
     - r-sys =3.4.3 =r44h199b6f9_0
@@ -483,7 +483,7 @@ requirements:
     - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.23.1 =py39h0cc59c6_0
+    - rpds-py =0.24.0 =py39h0cc59c6_0
     - ruamel.yaml =0.18.10 =py39h80efdc8_0
     - ruamel.yaml.clib =0.2.8 =py39h296a897_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1

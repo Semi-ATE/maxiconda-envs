@@ -82,8 +82,8 @@ requirements:
     - gettext =0.23.1 =h5888daf_0
     - gettext-tools =0.23.1 =h5888daf_0
     - glew =2.1.0 =h9c3ff4c_2
-    - glib =2.82.2 =h07242d1_1
-    - glib-tools =2.82.2 =h4833e2c_1
+    - glib =2.84.0 =h07242d1_0
+    - glib-tools =2.84.0 =h4833e2c_0
     - glm =0.9.9.8 =h00ab1b0_0
     - graphite2 =1.3.13 =h59595ed_1003
     - greenlet =3.0.3 =py38h17151c0_0
@@ -149,7 +149,7 @@ requirements:
     - libgfortran-ng =14.2.0 =h69a702a_2
     - libgfortran5 =14.2.0 =hf1ad2bd_2
     - libgl =1.7.0 =ha4b6fd6_2
-    - libglib =2.82.2 =h2ff4ddf_1
+    - libglib =2.84.0 =h2ff4ddf_0
     - libglu =9.0.3 =h03adeef_0
     - libglvnd =1.7.0 =ha4b6fd6_2
     - libglx =1.7.0 =ha4b6fd6_2
@@ -186,7 +186,7 @@ requirements:
     - libxcb =1.17.0 =h8a09558_0
     - libxcrypt =4.4.36 =hd590300_1
     - libxkbcommon =1.8.1 =hc4a0caf_0
-    - libxml2 =2.13.6 =h8d12d68_0
+    - libxml2 =2.13.7 =h8d12d68_0
     - libzip =1.11.2 =h6991a6a_0
     - libzlib =1.3.1 =hb9d3cd8_2
     - lz4-c =1.10.0 =h5888daf_1

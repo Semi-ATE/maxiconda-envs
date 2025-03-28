@@ -99,8 +99,8 @@ requirements:
     - freetype =2.13.3 =h0b5ce68_0
     - frozenlist =1.5.0 =py312h31fea79_1
     - fzf =0.60.3 =h86e1c39_0
-    - glib =2.82.2 =h3d4babf_1
-    - glib-tools =2.82.2 =h4394cf3_1
+    - glib =2.84.0 =h3d4babf_0
+    - glib-tools =2.84.0 =h4394cf3_0
     - graphite2 =1.3.13 =h63175ca_1003
     - gst-plugins-base =1.24.7 =hb0a98b8_0
     - gstreamer =1.24.7 =h5006eae_0
@@ -145,7 +145,7 @@ requirements:
     - libexpat =2.6.4 =he0c23c2_0
     - libffi =3.4.6 =h537db12_0
     - libgcc =14.2.0 =h1383e82_2
-    - libglib =2.82.2 =h7025463_1
+    - libglib =2.84.0 =h7025463_0
     - libgomp =14.2.0 =h1383e82_2
     - libhwloc =2.11.2 =default_ha69328c_1001
     - libiconv =1.18 =h135ad9c_1
@@ -165,7 +165,7 @@ requirements:
     - libwebp-base =1.5.0 =h3b0e114_0
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_9
     - libxcb =1.17.0 =h0e4246c_0
-    - libxml2 =2.13.6 =he286e8c_0
+    - libxml2 =2.13.7 =he286e8c_0
     - libxslt =1.1.39 =h3df6e99_0
     - libzlib =1.3.1 =h2466b09_2
     - markdown-it-py =3.0.0 =pyhd8ed1ab_1
@@ -224,7 +224,7 @@ requirements:
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.5.0 =py312hdb89ce9_4
     - pyopenssl =25.0.0 =pyhd8ed1ab_0
-    - pyparsing =3.2.2 =pyhd8ed1ab_0
+    - pyparsing =3.2.3 =pyhd8ed1ab_1
     - pyqt5-sip =12.12.2 =py312h53d5487_5
     - pyside6 =6.8.2 =py312h2ee7485_1
     - pysocks =1.7.1 =pyh09c184e_7
@@ -260,7 +260,7 @@ requirements:
     - rich =13.9.4 =pyhd8ed1ab_1
     - roman-numerals-py =3.1.0 =pyhd8ed1ab_0
     - rope =1.13.0 =pyhd8ed1ab_1
-    - rpds-py =0.23.1 =py312hfe1d9c4_0
+    - rpds-py =0.24.0 =py312hfe1d9c4_0
     - rtree =1.4.0 =pyh11ca60a_1
     - setuptools =75.8.2 =pyhff2d567_0
     - sip =6.7.12 =py312h53d5487_0
@@ -299,9 +299,9 @@ requirements:
     - ujson =5.10.0 =py312h275cf98_1
     - unicodedata2 =16.0.0 =py312h4389bb4_0
     - urllib3 =2.3.0 =pyhd8ed1ab_0
-    - vc =14.3 =hbf610ac_24
-    - vc14_runtime =14.42.34438 =hfd919c2_24
-    - vs2015_runtime =14.42.34438 =h7142326_24
+    - vc =14.3 =hbf610ac_25
+    - vc14_runtime =14.42.34438 =hfd919c2_25
+    - vs2015_runtime =14.42.34438 =h7142326_25
     - watchdog =6.0.0 =py312h2e8e312_0
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - webencodings =0.5.1 =pyhd8ed1ab_3

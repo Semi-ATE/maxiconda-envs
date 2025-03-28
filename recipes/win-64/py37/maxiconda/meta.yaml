@@ -102,8 +102,8 @@ requirements:
     - gettext =0.22.5 =h5728263_3
     - gettext-tools =0.22.5 =h5a7288d_3
     - git =2.49.0 =h57928b3_0
-    - glib =2.82.2 =h3d4babf_1
-    - glib-tools =2.82.2 =h4394cf3_1
+    - glib =2.84.0 =h3d4babf_0
+    - glib-tools =2.84.0 =h4394cf3_0
     - greenlet =1.1.3 =py37hf2a7229_0
     - gst-plugins-base =1.22.9 =h001b923_1
     - gstreamer =1.22.9 =hb4038d2_1
@@ -141,7 +141,7 @@ requirements:
     - libffi =3.4.6 =h537db12_0
     - libgettextpo =0.22.5 =h5728263_3
     - libgettextpo-devel =0.22.5 =h5728263_3
-    - libglib =2.82.2 =h7025463_1
+    - libglib =2.84.0 =h7025463_0
     - libhwloc =2.11.2 =default_hc8275d1_1000
     - libiconv =1.18 =h135ad9c_1
     - libintl =0.22.5 =h5728263_3
@@ -157,7 +157,7 @@ requirements:
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp-base =1.5.0 =h3b0e114_0
     - libxcb =1.13 =hcd874cb_1004
-    - libxml2 =2.13.6 =he286e8c_0
+    - libxml2 =2.13.7 =he286e8c_0
     - libzlib =1.3.1 =h2466b09_2
     - llvmlite =0.39.1 =py37h0c9d48c_0
     - m2w64-bwidget =1.9.10 =2
@@ -441,9 +441,9 @@ requirements:
     - ucrt =10.0.22621.0 =h57928b3_1
     - unicodedata2 =14.0.0 =py37hcc03f2d_1
     - urllib3 =2.2.1 =pyhd8ed1ab_0
-    - vc =14.3 =hbf610ac_24
-    - vc14_runtime =14.42.34438 =hfd919c2_24
-    - vs2015_runtime =14.42.34438 =h7142326_24
+    - vc =14.3 =hbf610ac_25
+    - vc14_runtime =14.42.34438 =hfd919c2_25
+    - vs2015_runtime =14.42.34438 =h7142326_25
     - wcwidth =0.2.10 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_2
     - websocket-client =1.6.1 =pyhd8ed1ab_0
