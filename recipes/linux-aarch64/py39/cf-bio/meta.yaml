@@ -34,7 +34,7 @@ requirements:
     - scipy =1.13.1 =py39hb921187_0
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
 
-    # 215 secondary packages :
+    # 216 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.13 =h86ecc28_0
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -104,6 +104,7 @@ requirements:
     - libcap =2.75 =h51d75a7_0
     - libcblas =3.9.0 =31_hab92f65_openblas
     - libclang-cpp19.1 =19.1.7 =default_he324ac1_2
+    - libclang-cpp20.1 =20.1.1 =default_he324ac1_0
     - libclang13 =20.1.1 =default_h4390ef5_0
     - libcups =2.3.3 =h405e4a8_4
     - libdeflate =1.23 =h5e3c512_0
@@ -194,7 +195,7 @@ requirements:
     - pygments =2.19.1 =pyhd8ed1ab_0
     - pyparsing =3.2.3 =pyhd8ed1ab_1
     - pyqt5-sip =12.12.2 =py39h387a81e_5
-    - pyside6 =6.8.2 =py39h51c6ee1_1
+    - pyside6 =6.8.3 =py39h51c6ee1_0
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python_abi =3.9 =5_cp39
@@ -203,7 +204,7 @@ requirements:
     - pyzmq =26.3.0 =py39he601760_0
     - qhull =2020.2 =h70be974_5
     - qt-main =5.15.15 =hcc483f7_2
-    - qt6-main =6.8.2 =ha0a94ed_0
+    - qt6-main =6.8.3 =ha0a94ed_0
     - readline =8.2 =h8382b9d_2
     - reportlab =4.3.1 =py39h060674a_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
