@@ -152,11 +152,11 @@ requirements:
     - greenlet =3.0.3 =py38h1f5f77c_0
     - gst-plugins-base =1.24.7 =h0ee1d58_0
     - gstreamer =1.24.7 =h3271b85_0
-    - gtk3 =3.24.43 =h82a860e_4
+    - gtk3 =3.24.43 =h70b172e_5
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =22.0.0 =py38h50d1736_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =10.4.0 =h86b413f_0
+    - harfbuzz =11.0.0 =h86b413f_0
     - hicolor-icon-theme =0.17 =h694c41f_2
     - hpack =4.0.0 =pyh9f0ad1d_0
     - htmlmin =0.1.12 =pyhca7485f_2
@@ -214,8 +214,8 @@ requirements:
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
     - libevent =2.1.12 =ha90c15b_1
-    - libexpat =2.6.4 =h240833e_0
-    - libffi =3.4.6 =h281671d_0
+    - libexpat =2.7.0 =h240833e_0
+    - libffi =3.4.6 =h281671d_1
     - libgd =2.3.3 =h8555400_11
     - libgfortran =5.0.0 =14_2_0_h51e75f0_1
     - libgfortran5 =14.2.0 =h51e75f0_1
@@ -304,7 +304,7 @@ requirements:
     - orc =2.0.2 =h22b2039_0
     - packaging =24.2 =pyhd8ed1ab_2
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
-    - pango =1.56.3 =hf94f63b_0
+    - pango =1.56.3 =hae8941d_1
     - paramiko =3.5.0 =pyhd8ed1ab_0
     - parsel =1.9.1 =pyhd8ed1ab_2
     - parso =0.8.4 =pyhd8ed1ab_0

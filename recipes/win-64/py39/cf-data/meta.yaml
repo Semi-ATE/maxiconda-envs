@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.4 =py39h4b0a98a_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_1
 
-    # 391 secondary packages :
+    # 392 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _py-xgboost-mutex =2.0 =cpu_0
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -156,7 +156,7 @@ requirements:
     - gts =0.7.6 =h6b5321d_4
     - h11 =0.14.0 =pyhd8ed1ab_1
     - h2 =4.2.0 =pyhd8ed1ab_0
-    - harfbuzz =10.4.0 =h9e37d49_0
+    - harfbuzz =11.0.0 =h9e37d49_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - htmlmin =0.1.12 =pyhca7485f_2
     - httpcore =1.0.7 =pyh29332c3_1
@@ -210,8 +210,8 @@ requirements:
     - libcurl =8.12.1 =h88aaa65_0
     - libdeflate =1.23 =h9062f6e_0
     - libevent =2.1.12 =h3671451_1
-    - libexpat =2.6.4 =he0c23c2_0
-    - libffi =3.4.6 =h537db12_0
+    - libexpat =2.7.0 =he0c23c2_0
+    - libffi =3.4.6 =h537db12_1
     - libgcc =14.2.0 =h1383e82_2
     - libgd =2.3.3 =h7208af6_11
     - libglib =2.84.0 =h7025463_0
@@ -268,7 +268,7 @@ requirements:
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.10 =py39ha51f57c_2
-    - narwhals =1.32.0 =pyhd8ed1ab_0
+    - narwhals =1.33.0 =pyhd8ed1ab_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2.1 =pyhd8ed1ab_0
     - nltk =3.9.1 =pyhd8ed1ab_1
@@ -283,7 +283,7 @@ requirements:
     - orc =2.1.1 =h35764e3_1
     - packaging =24.2 =pyhd8ed1ab_2
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
-    - pango =1.56.3 =h286b592_0
+    - pango =1.56.3 =h0c53d3b_1
     - paramiko =3.5.1 =pyhd8ed1ab_0
     - parsel =1.10.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_1
@@ -310,11 +310,11 @@ requirements:
     - pyarrow =19.0.1 =py39hcbf5309_0
     - pyarrow-core =19.0.1 =py39h7a8928a_0_cpu
     - pyasn1 =0.6.1 =pyhd8ed1ab_2
-    - pyasn1-modules =0.4.1 =pyhd8ed1ab_1
+    - pyasn1-modules =0.4.2 =pyhd8ed1ab_0
     - pybind11-abi =4 =hd8ed1ab_3
     - pycparser =2.22 =pyh29332c3_1
-    - pydantic =2.10.6 =pyh3cfb1c2_0
-    - pydantic-core =2.27.2 =py39h92a245a_0
+    - pydantic =2.11.1 =pyh3cfb1c2_0
+    - pydantic-core =2.33.0 =py39ha6b3726_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.19.1 =pyhd8ed1ab_0
@@ -343,9 +343,9 @@ requirements:
     - pyzmq =26.3.0 =py39h03e5c00_0
     - qhull =2020.2 =hc790b64_5
     - qt-main =5.15.15 =h9151539_2
-    - qt6-main =6.8.3 =h1259614_0
+    - qt6-main =6.8.3 =h72a539a_1
     - querystring_parser =1.2.4 =pyhd8ed1ab_2
-    - queuelib =1.7.0 =pyhd8ed1ab_2
+    - queuelib =1.8.0 =pyhd8ed1ab_0
     - re2 =2024.07.02 =haf4117d_3
     - regex =2024.11.6 =py39ha55e580_0
     - requests =2.32.3 =pyhd8ed1ab_1
@@ -393,6 +393,7 @@ requirements:
     - typer-slim =0.15.2 =pyh29332c3_0
     - typer-slim-standard =0.15.2 =h801b22e_0
     - typing-extensions =4.13.0 =h9fa5a19_1
+    - typing-inspection =0.4.0 =pyhd8ed1ab_0
     - typing_extensions =4.13.0 =pyh29332c3_1
     - tzdata =2025b =h78e105d_0
     - ucrt =10.0.22621.0 =h57928b3_1

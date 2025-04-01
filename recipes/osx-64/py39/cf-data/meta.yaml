@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.14.4 =py39hff9a475_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_1
 
-    # 429 secondary packages :
+    # 430 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - adwaita-icon-theme =48.0 =unix_0
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -143,7 +143,7 @@ requirements:
     - freetype =2.13.3 =h40dfd5c_0
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.5.0 =py39hd18e689_1
-    - fsspec =2025.3.1 =pyhd8ed1ab_0
+    - fsspec =2025.3.2 =pyhd8ed1ab_0
     - fst-pso =1.8.1 =pyhd8ed1ab_0
     - funcy =2.0 =pyhd8ed1ab_1
     - future =1.0.0 =pyhd8ed1ab_2
@@ -167,12 +167,12 @@ requirements:
     - greenlet =3.1.1 =py39hdf37715_1
     - gst-plugins-base =1.24.7 =h0ee1d58_0
     - gstreamer =1.24.7 =h3271b85_0
-    - gtk3 =3.24.43 =h82a860e_4
+    - gtk3 =3.24.43 =h70b172e_5
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =23.0.0 =py39h6e9494a_1
     - h11 =0.14.0 =pyhd8ed1ab_1
     - h2 =4.2.0 =pyhd8ed1ab_0
-    - harfbuzz =10.4.0 =h86b413f_0
+    - harfbuzz =11.0.0 =h86b413f_0
     - hicolor-icon-theme =0.17 =h694c41f_2
     - hpack =4.1.0 =pyhd8ed1ab_0
     - htmlmin =0.1.12 =pyhca7485f_2
@@ -230,8 +230,8 @@ requirements:
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
     - libevent =2.1.12 =ha90c15b_1
-    - libexpat =2.6.4 =h240833e_0
-    - libffi =3.4.6 =h281671d_0
+    - libexpat =2.7.0 =h240833e_0
+    - libffi =3.4.6 =h281671d_1
     - libgd =2.3.3 =h8555400_11
     - libgfortran =5.0.0 =14_2_0_h51e75f0_1
     - libgfortran5 =14.2.0 =h51e75f0_1
@@ -305,7 +305,7 @@ requirements:
     - murmurhash =1.0.10 =py39ha92e968_2
     - mysql-common =9.0.1 =hd00b0ec_5
     - mysql-libs =9.0.1 =h062309a_5
-    - narwhals =1.32.0 =pyhd8ed1ab_0
+    - narwhals =1.33.0 =pyhd8ed1ab_0
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2.1 =pyhd8ed1ab_0
@@ -326,7 +326,7 @@ requirements:
     - orc =2.1.1 =h82caab2_1
     - packaging =24.2 =pyhd8ed1ab_2
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
-    - pango =1.56.3 =hf94f63b_0
+    - pango =1.56.3 =hae8941d_1
     - paramiko =3.5.1 =pyhd8ed1ab_0
     - parsel =1.10.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_1
@@ -356,13 +356,13 @@ requirements:
     - pyarrow =19.0.1 =py39h6e9494a_0
     - pyarrow-core =19.0.1 =py39h6e815d7_0_cpu
     - pyasn1 =0.6.1 =pyhd8ed1ab_2
-    - pyasn1-modules =0.4.1 =pyhd8ed1ab_1
+    - pyasn1-modules =0.4.2 =pyhd8ed1ab_0
     - pybind11 =2.13.6 =pyh1ec8472_2
     - pybind11-abi =4 =hd8ed1ab_3
     - pybind11-global =2.13.6 =pyh415d2e4_2
     - pycparser =2.22 =pyh29332c3_1
-    - pydantic =2.10.6 =pyh3cfb1c2_0
-    - pydantic-core =2.27.2 =py39hd8827cb_0
+    - pydantic =2.11.1 =pyh3cfb1c2_0
+    - pydantic-core =2.33.0 =py39h0cc59c6_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
     - pygments =2.19.1 =pyhd8ed1ab_0
@@ -391,7 +391,7 @@ requirements:
     - qhull =2020.2 =h3c5361c_5
     - qt-main =5.15.15 =h30a8c49_2
     - querystring_parser =1.2.4 =pyhd8ed1ab_2
-    - queuelib =1.7.0 =pyhd8ed1ab_2
+    - queuelib =1.8.0 =pyhd8ed1ab_0
     - re2 =2024.07.02 =hf8a452e_3
     - readline =8.2 =h7cca4af_2
     - regex =2024.11.6 =py39h80efdc8_0
@@ -441,6 +441,7 @@ requirements:
     - typer-slim =0.15.2 =pyh29332c3_0
     - typer-slim-standard =0.15.2 =h801b22e_0
     - typing-extensions =4.13.0 =h9fa5a19_1
+    - typing-inspection =0.4.0 =pyhd8ed1ab_0
     - typing_extensions =4.13.0 =pyh29332c3_1
     - tzdata =2025b =h78e105d_0
     - ujson =5.10.0 =py39h7c0e7c0_1
