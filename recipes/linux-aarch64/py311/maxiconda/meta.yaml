@@ -25,7 +25,7 @@ requirements:
     - python =3.11.11 =h1683364_2_cpython
 
     # 38 primary packages :
-    - aiohttp =3.11.14 =py311h58d527c_0
+    - aiohttp =3.11.15 =py311h58d527c_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.13.3 =pyha770c72_0
     - bitarray =3.1.1 =py311ha879c10_0
@@ -230,7 +230,7 @@ requirements:
     - libopus =1.3.1 =hf897c2e_1
     - libpciaccess =0.18 =h31becfc_0
     - libpng =1.6.47 =hec79eb8_0
-    - libpq =17.4 =hf590da8_0
+    - libpq =17.4 =hf590da8_1
     - libsanitizer =14.2.0 =hff26f3d_2
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.20 =h68df207_0
@@ -315,7 +315,7 @@ requirements:
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
-    - python_abi =3.11 =5_cp311
+    - python_abi =3.11 =6_cp311
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyzmq =26.3.0 =py311h826da9f_0
     - qhull =2020.2 =h70be974_5
@@ -339,7 +339,7 @@ requirements:
     - r-class =7.3_23 =r44hdd76399_0
     - r-cli =3.6.4 =r44h21d2c02_1
     - r-clipr =0.8.0 =r44hc72bb7e_3
-    - r-clock =0.7.1 =r44h6170684_0
+    - r-clock =0.7.3 =r44h21d2c02_0
     - r-cluster =2.1.8.1 =r44h6e524ba_0
     - r-codetools =0.2_20 =r44hc72bb7e_1
     - r-colorspace =2.1_1 =r44hc1cf72c_0
@@ -487,7 +487,7 @@ requirements:
     - r-tinytex =0.56 =r44hc72bb7e_0
     - r-triebeard =0.4.1 =r44h6170684_2
     - r-ttr =0.24.4 =r44hc1cf72c_1
-    - r-tzdb =0.4.0 =r44h6170684_2
+    - r-tzdb =0.5.0 =r44h21d2c02_0
     - r-urltools =1.7.3 =r44h6170684_5
     - r-utf8 =1.2.4 =r44hc1cf72c_1
     - r-uuid =1.2_1 =r44hc1cf72c_0

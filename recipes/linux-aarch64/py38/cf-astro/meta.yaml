@@ -28,7 +28,7 @@ requirements:
     - pyqt =5.15.9 =py38h3dfd979_5
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
 
-    # 163 secondary packages :
+    # 162 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.13 =h86ecc28_0
     - asttokens =3.0.0 =pyhd8ed1ab_0
@@ -60,7 +60,7 @@ requirements:
     - graphite2 =1.3.13 =h2f0025b_1003
     - gst-plugins-base =1.24.7 =h570c1df_0
     - gstreamer =1.24.7 =h37d20eb_0
-    - harfbuzz =10.4.0 =hb5e3f52_0
+    - harfbuzz =11.0.0 =hb5e3f52_0
     - icu =75.1 =hf9b3779_0
     - importlib-metadata =8.5.0 =pyha770c72_0
     - ipykernel =6.29.5 =pyh3099207_0
@@ -75,7 +75,7 @@ requirements:
     - libasprintf =0.23.1 =h5e0f5ae_0
     - libasprintf-devel =0.23.1 =h5e0f5ae_0
     - libcap =2.75 =h51d75a7_0
-    - libclang-cpp19.1 =19.1.7 =default_he324ac1_2
+    - libclang-cpp20.1 =20.1.1 =default_he324ac1_0
     - libclang13 =20.1.1 =default_h4390ef5_0
     - libcups =2.3.3 =h405e4a8_4
     - libdrm =2.4.124 =h86ecc28_0
@@ -98,7 +98,6 @@ requirements:
     - libgpg-error =1.51 =h05609ea_1
     - libiconv =1.18 =hc99b53d_1
     - libjpeg-turbo =3.0.0 =h31becfc_1
-    - libllvm19 =19.1.7 =h2edbd07_1
     - libllvm20 =20.1.1 =h2edbd07_0
     - liblzma =5.6.4 =h86ecc28_0
     - liblzma-devel =5.6.4 =h86ecc28_0
@@ -108,7 +107,7 @@ requirements:
     - libopus =1.3.1 =hf897c2e_1
     - libpciaccess =0.18 =h31becfc_0
     - libpng =1.6.47 =hec79eb8_0
-    - libpq =17.4 =hf590da8_0
+    - libpq =17.4 =hf590da8_1
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
     - libsqlite =3.49.1 =h5eb1b54_2
@@ -152,10 +151,10 @@ requirements:
     - pygments =2.18.0 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py38hb83fbf6_5
     - python-dateutil =2.9.0 =pyhd8ed1ab_0
-    - python_abi =3.8 =5_cp38
+    - python_abi =3.8 =6_cp38
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.2.0 =py38h857d6e0_0
-    - qt-main =5.15.15 =hcc483f7_2
+    - qt-main =5.15.15 =h372b06a_3
     - readline =8.2 =h8382b9d_2
     - setuptools =75.3.0 =pyhd8ed1ab_0
     - sip =6.8.3 =py38hed0da46_0

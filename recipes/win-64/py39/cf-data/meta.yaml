@@ -49,7 +49,7 @@ requirements:
     - _openmp_mutex =4.5 =2_gnu
     - _py-xgboost-mutex =2.0 =cpu_0
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
-    - aiohttp =3.11.14 =py39hf73967f_0
+    - aiohttp =3.11.15 =py39hf73967f_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alembic =1.15.2 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
@@ -321,7 +321,7 @@ requirements:
     - pyldavis =3.4.1 =pyhd8ed1ab_1
     - pynacl =1.5.0 =py39h63afc94_4
     - pynndescent =0.5.13 =pyhd8ed1ab_1
-    - pyod =2.0.2 =pyhd8ed1ab_0
+    - pyod =2.0.4 =pyhd8ed1ab_0
     - pyopenssl =25.0.0 =pyhd8ed1ab_0
     - pyparsing =3.2.3 =pyhd8ed1ab_1
     - pyqt5-sip =12.12.2 =py39h99910a6_5
@@ -333,7 +333,7 @@ requirements:
     - python-graphviz =0.20.3 =pyh91182bf_2
     - python-multipart =0.0.20 =pyhff2d567_0
     - python-tzdata =2025.2 =pyhd8ed1ab_0
-    - python_abi =3.9 =5_cp39
+    - python_abi =3.9 =6_cp39
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyu2f =0.1.5 =pyhd8ed1ab_1
     - pywavelets =1.6.0 =py39h4b0a98a_0
@@ -368,7 +368,7 @@ requirements:
     - snappy =1.2.1 =h500f7fa_1
     - sniffio =1.3.1 =pyhd8ed1ab_1
     - soupsieve =2.5 =pyhd8ed1ab_1
-    - spacy =3.8.2 =py39h8f1c5a3_0
+    - spacy =3.8.5 =py39h8f1c5a3_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
     - spacy-loggers =1.0.5 =pyhd8ed1ab_0
     - sqlparse =0.5.3 =pyhd8ed1ab_0
