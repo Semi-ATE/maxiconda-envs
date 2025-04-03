@@ -32,7 +32,7 @@ requirements:
     - pandas =2.2.3 =py39h88a5ddd_1
     - pymol-open-source =3.1.0 =py39h22c8b19_0
     - pyqt =5.15.9 =py39h3dce684_5
-    - rdkit =2024.09.6 =py39h7ce694c_0
+    - rdkit =2025.03.1 =py39h7ce694c_0
     - scipy =1.13.1 =py39h038d4f4_0
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
 
@@ -108,15 +108,15 @@ requirements:
     - libcblas =3.9.0 =31_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =20.1.1 =default_hf2b7afa_0
-    - libcurl =8.12.1 =h5dec5d8_0
-    - libcxx =20.1.1 =hf95d169_0
+    - libcurl =8.13.0 =h5dec5d8_0
+    - libcxx =20.1.2 =hf95d169_0
     - libdeflate =1.23 =he65b83e_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
     - libexpat =2.7.0 =h240833e_0
     - libffi =3.4.6 =h281671d_1
-    - libgfortran =5.0.0 =14_2_0_h51e75f0_1
-    - libgfortran5 =14.2.0 =h51e75f0_1
+    - libgfortran =5.0.0 =14_2_0_h51e75f0_2
+    - libgfortran5 =14.2.0 =h51e75f0_2
     - libglib =2.84.0 =h5c976ab_0
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.23.1 =h27064b9_0
@@ -124,7 +124,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =31_h236ab99_openblas
     - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm20 =20.1.1 =hc29ff6c_0
+    - libllvm20 =20.1.2 =hc29ff6c_0
     - liblzma =5.6.4 =hd471939_0
     - libnetcdf =4.9.2 =nompi_hf3c7182_116
     - libnghttp2 =1.64.0 =hc7306c3_0
@@ -134,7 +134,7 @@ requirements:
     - libopus =1.3.1 =hc929b4f_1
     - libpng =1.6.47 =h3c4a55f_0
     - libpq =17.4 =h9c5cfc2_1
-    - librdkit =2024.09.6 =h616af64_0
+    - librdkit =2025.03.1 =h616af64_0
     - libsodium =1.0.20 =hfdf4475_0
     - libsqlite =3.49.1 =hdb6dae5_2
     - libssh2 =1.11.1 =h3dc7d44_0
@@ -195,7 +195,7 @@ requirements:
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.3.0 =py39hf094b8e_0
     - qhull =2020.2 =h3c5361c_5
-    - qt-main =5.15.15 =h30a8c49_2
+    - qt-main =5.15.15 =h30a8c49_3
     - readline =8.2 =h7cca4af_2
     - reportlab =4.3.1 =py39h80efdc8_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0

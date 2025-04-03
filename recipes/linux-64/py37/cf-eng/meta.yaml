@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.2 =pyhca7485f_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
-    # 170 secondary packages :
+    # 169 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.13 =hb9d3cd8_0
@@ -68,7 +68,7 @@ requirements:
     - graphite2 =1.3.13 =h59595ed_1003
     - gst-plugins-base =1.24.7 =h0a52356_0
     - gstreamer =1.24.7 =hf3bb09a_0
-    - harfbuzz =10.4.0 =h76408a6_0
+    - harfbuzz =11.0.0 =h76408a6_0
     - icu =75.1 =he02047a_0
     - importlib-metadata =4.11.4 =py37h89c1867_0
     - importlib_metadata =4.11.4 =hd8ed1ab_0
@@ -86,7 +86,7 @@ requirements:
     - libblas =3.9.0 =31_h59b9bed_openblas
     - libcap =2.75 =h39aace5_0
     - libcblas =3.9.0 =31_he106b2a_openblas
-    - libclang-cpp19.1 =19.1.7 =default_hb5137d0_2
+    - libclang-cpp20.1 =20.1.1 =default_hb5137d0_0
     - libclang13 =20.1.1 =default_h9c6a7e4_0
     - libcups =2.3.3 =h4637d8d_4
     - libdrm =2.4.124 =hb9d3cd8_0
@@ -112,8 +112,7 @@ requirements:
     - libiconv =1.18 =h4ce23a2_1
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =31_h7ac8fdf_openblas
-    - libllvm19 =19.1.7 =ha7bfdaf_1
-    - libllvm20 =20.1.1 =ha7bfdaf_0
+    - libllvm20 =20.1.2 =ha7bfdaf_0
     - liblzma =5.6.4 =hb9d3cd8_0
     - liblzma-devel =5.6.4 =hb9d3cd8_0
     - libnsl =2.0.1 =hd590300_0
@@ -169,7 +168,7 @@ requirements:
     - pytz =2024.2 =pyhd8ed1ab_0
     - pyvisa =1.12.0 =py37h89c1867_0
     - pyzmq =24.0.1 =py37h0c0c2a8_0
-    - qt-main =5.15.15 =hc3cb62f_2
+    - qt-main =5.15.15 =h993ce98_3
     - readline =8.2 =h8c095d6_2
     - setuptools =59.8.0 =py37h89c1867_1
     - sip =6.7.2 =py37hd23a5d3_0

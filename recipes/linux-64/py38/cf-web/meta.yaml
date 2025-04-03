@@ -83,7 +83,7 @@ requirements:
     - gst-plugins-base =1.24.7 =h0a52356_0
     - gstreamer =1.24.7 =hf3bb09a_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =10.4.0 =h76408a6_0
+    - harfbuzz =11.0.0 =h76408a6_0
     - hpack =4.0.0 =pyh9f0ad1d_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
     - hyperlink =21.0.0 =pyhd3deb0d_0
@@ -102,9 +102,9 @@ requirements:
     - ld_impl_linux-64 =2.43 =h712a8e2_4
     - libasprintf =0.23.1 =h8e693c7_0
     - libasprintf-devel =0.23.1 =h8e693c7_0
-    - libcap =2.71 =h39aace5_0
-    - libclang-cpp19.1 =19.1.7 =default_hb5137d0_2
-    - libclang13 =19.1.7 =default_h9c6a7e4_2
+    - libcap =2.75 =h39aace5_0
+    - libclang-cpp20.1 =20.1.1 =default_hb5137d0_0
+    - libclang13 =20.1.1 =default_h9c6a7e4_0
     - libcups =2.3.3 =h4637d8d_4
     - libdrm =2.4.124 =hb9d3cd8_0
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -126,7 +126,7 @@ requirements:
     - libgpg-error =1.51 =hbd13f7d_1
     - libiconv =1.18 =h4ce23a2_1
     - libjpeg-turbo =3.0.0 =hd590300_1
-    - libllvm19 =19.1.7 =ha7bfdaf_1
+    - libllvm20 =20.1.2 =ha7bfdaf_0
     - liblzma =5.6.4 =hb9d3cd8_0
     - liblzma-devel =5.6.4 =hb9d3cd8_0
     - libnsl =2.0.1 =hd590300_0
@@ -141,7 +141,7 @@ requirements:
     - libsqlite =3.49.1 =hee588c1_2
     - libstdcxx =14.2.0 =h8f9b012_2
     - libstdcxx-ng =14.2.0 =h4852527_2
-    - libsystemd0 =257.3 =h3dc2cb9_0
+    - libsystemd0 =257.4 =h4e0b6ca_1
     - libuuid =2.38.1 =h0b41bf4_0
     - libvorbis =1.3.7 =h9c3ff4c_0
     - libxcb =1.17.0 =h8a09558_0
@@ -153,8 +153,8 @@ requirements:
     - markupsafe =2.1.5 =py38h01eb140_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mpg123 =1.32.9 =hc50e24c_0
-    - mysql-common =9.0.1 =h266115a_4
-    - mysql-libs =9.0.1 =he0572af_4
+    - mysql-common =9.0.1 =h266115a_5
+    - mysql-libs =9.0.1 =he0572af_5
     - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - nspr =4.36 =h5888daf_0
@@ -175,7 +175,7 @@ requirements:
     - psutil =6.0.0 =py38hfb59056_0
     - pthread-stubs =0.4 =hb9d3cd8_1002
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pulseaudio-client =17.0 =hb77b528_0
+    - pulseaudio-client =17.0 =hac146a9_1
     - pure_eval =0.2.3 =pyhd8ed1ab_0
     - pyasn1 =0.6.1 =pyhd8ed1ab_1
     - pyasn1-modules =0.4.1 =pyhd8ed1ab_0
@@ -188,7 +188,7 @@ requirements:
     - python_abi =3.8 =6_cp38
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.2.0 =py38h6c80b9a_0
-    - qt-main =5.15.15 =hc3cb62f_2
+    - qt-main =5.15.15 =h993ce98_3
     - readline =8.2 =h8c095d6_2
     - service-identity =24.2.0 =pyha770c72_0
     - service_identity =24.2.0 =hd8ed1ab_1
@@ -233,8 +233,8 @@ requirements:
     - zeromq =4.3.5 =h75354e8_4
     - zipp =3.21.0 =pyhd8ed1ab_0
     - zope.interface =7.0.3 =py38h3c027d7_0
-    - zstandard =0.23.0 =py38h62bed22_0
-    - zstd =1.5.6 =ha6fb4c9_0
+    - zstandard =0.19.0 =py38h0a891b7_0
+    - zstd =1.5.7 =hb8e6e7a_2
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

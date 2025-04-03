@@ -32,7 +32,7 @@ requirements:
     - pandas =2.2.3 =py39h2366fc2_2
     - pymol-open-source =3.1.0 =py39haf04113_0
     - pyqt =5.15.9 =py39hb77abff_5
-    - rdkit =2024.09.6 =py39h52b897c_0
+    - rdkit =2025.03.1 =py39h52b897c_0
     - scipy =1.13.1 =py39h1a10956_0
     - spyder-kernels =3.0.3 =win_pyh7428d3b_0
 
@@ -110,7 +110,7 @@ requirements:
     - libbrotlienc =1.1.0 =h2466b09_2
     - libcblas =3.9.0 =31_h5e41251_mkl
     - libclang13 =20.1.1 =default_ha5278ca_0
-    - libcurl =8.12.1 =h88aaa65_0
+    - libcurl =8.13.0 =h88aaa65_0
     - libdeflate =1.23 =h9062f6e_0
     - libexpat =2.7.0 =he0c23c2_0
     - libffi =3.4.6 =h537db12_1
@@ -128,7 +128,7 @@ requirements:
     - libogg =1.3.5 =h2466b09_0
     - libpng =1.6.47 =had7236b_0
     - libpq =17.4 =h9087029_1
-    - librdkit =2024.09.6 =h66803c0_0
+    - librdkit =2025.03.1 =h66803c0_0
     - libsodium =1.0.20 =hc70643c_0
     - libsqlite =3.49.1 =h67fdade_2
     - libssh2 =1.11.1 =he619c9f_0
@@ -184,7 +184,7 @@ requirements:
     - pywin32 =307 =py39ha51f57c_3
     - pyzmq =26.3.0 =py39h03e5c00_0
     - qhull =2020.2 =hc790b64_5
-    - qt-main =5.15.15 =h9151539_2
+    - qt-main =5.15.15 =h9151539_3
     - qt6-main =6.8.3 =h72a539a_1
     - reportlab =4.3.1 =py39ha55e580_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0

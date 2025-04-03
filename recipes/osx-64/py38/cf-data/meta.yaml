@@ -208,8 +208,8 @@ requirements:
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =20.1.1 =default_hf2b7afa_0
     - libcrc32c =1.1.2 =he49afe7_0
-    - libcurl =8.12.1 =h5dec5d8_0
-    - libcxx =20.1.1 =hf95d169_0
+    - libcurl =8.13.0 =h5dec5d8_0
+    - libcxx =20.1.2 =hf95d169_0
     - libdeflate =1.23 =he65b83e_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -217,8 +217,8 @@ requirements:
     - libexpat =2.7.0 =h240833e_0
     - libffi =3.4.6 =h281671d_1
     - libgd =2.3.3 =h8555400_11
-    - libgfortran =5.0.0 =14_2_0_h51e75f0_1
-    - libgfortran5 =14.2.0 =h51e75f0_1
+    - libgfortran =5.0.0 =14_2_0_h51e75f0_2
+    - libgfortran5 =14.2.0 =h51e75f0_2
     - libglib =2.84.0 =h5c976ab_0
     - libgoogle-cloud =2.28.0 =h721cda5_0
     - libgoogle-cloud-storage =2.28.0 =h9e84e37_0
@@ -233,7 +233,7 @@ requirements:
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm16 =16.0.6 =hbedff68_3
     - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm20 =20.1.1 =hc29ff6c_0
+    - libllvm20 =20.1.2 =hc29ff6c_0
     - liblzma =5.6.4 =hd471939_0
     - liblzma-devel =5.6.4 =hd471939_0
     - libnghttp2 =1.64.0 =hc7306c3_0
@@ -360,7 +360,7 @@ requirements:
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =5.4.1 =py38hef030d1_4
     - pyzmq =26.2.0 =py38hd99e78f_0
-    - qt-main =5.15.15 =h30a8c49_2
+    - qt-main =5.15.15 =h30a8c49_3
     - querystring_parser =1.2.4 =pyhd8ed1ab_1
     - queuelib =1.7.0 =pyhd8ed1ab_1
     - re2 =2023.09.01 =hb168e87_2

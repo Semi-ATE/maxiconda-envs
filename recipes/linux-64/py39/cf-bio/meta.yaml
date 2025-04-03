@@ -32,11 +32,11 @@ requirements:
     - pandas =2.2.3 =py39h3b40f6f_2
     - pymol-open-source =3.1.0 =py39he07333a_0
     - pyqt =5.15.9 =py39h52134e7_5
-    - rdkit =2024.09.6 =py39h2709aa1_0
+    - rdkit =2025.03.1 =py39h2709aa1_0
     - scipy =1.13.1 =py39haf93ffa_0
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
 
-    # 259 secondary packages :
+    # 257 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.13 =hb9d3cd8_0
@@ -91,7 +91,7 @@ requirements:
     - gst-plugins-base =1.24.7 =h0a52356_0
     - gstreamer =1.24.7 =hf3bb09a_0
     - h5py =3.13.0 =nompi_py39h30a5a8d_100
-    - harfbuzz =10.4.0 =h76408a6_0
+    - harfbuzz =11.0.0 =h76408a6_0
     - hdf4 =4.2.15 =h2a13503_7
     - hdf5 =1.14.3 =nompi_h2d575fe_109
     - icu =75.1 =he02047a_0
@@ -122,11 +122,10 @@ requirements:
     - libbrotlienc =1.1.0 =hb9d3cd8_2
     - libcap =2.75 =h39aace5_0
     - libcblas =3.9.0 =31_he106b2a_openblas
-    - libclang-cpp19.1 =19.1.7 =default_hb5137d0_2
     - libclang-cpp20.1 =20.1.1 =default_hb5137d0_0
     - libclang13 =20.1.1 =default_h9c6a7e4_0
     - libcups =2.3.3 =h4637d8d_4
-    - libcurl =8.12.1 =h332b0f4_0
+    - libcurl =8.13.0 =h332b0f4_0
     - libdeflate =1.23 =h4ddbbb0_0
     - libdrm =2.4.124 =hb9d3cd8_0
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -154,8 +153,7 @@ requirements:
     - libiconv =1.18 =h4ce23a2_1
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =31_h7ac8fdf_openblas
-    - libllvm19 =19.1.7 =ha7bfdaf_1
-    - libllvm20 =20.1.1 =ha7bfdaf_0
+    - libllvm20 =20.1.2 =ha7bfdaf_0
     - liblzma =5.6.4 =hb9d3cd8_0
     - libnetcdf =4.9.2 =nompi_h00e09a9_116
     - libnghttp2 =1.64.0 =h161d5f1_0
@@ -168,7 +166,7 @@ requirements:
     - libpciaccess =0.18 =hd590300_0
     - libpng =1.6.47 =h943b412_0
     - libpq =17.4 =h27ae623_1
-    - librdkit =2024.09.6 =h84b0b3c_0
+    - librdkit =2025.03.1 =h84b0b3c_0
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.20 =h4ab18f5_0
     - libsqlite =3.49.1 =hee588c1_2
@@ -239,8 +237,8 @@ requirements:
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.3.0 =py39h4e4fb57_0
     - qhull =2020.2 =h434a139_5
-    - qt-main =5.15.15 =hc3cb62f_2
-    - qt6-main =6.8.3 =h588cce1_0
+    - qt-main =5.15.15 =h993ce98_3
+    - qt6-main =6.8.3 =h6441bc3_1
     - readline =8.2 =h8c095d6_2
     - reportlab =4.3.1 =py39h8cd3c5a_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0

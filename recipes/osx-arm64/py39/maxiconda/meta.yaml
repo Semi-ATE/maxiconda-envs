@@ -25,7 +25,7 @@ requirements:
     - python =3.9.21 =h5f1b60f_1_cpython
 
     # 37 primary packages :
-    - aiohttp =3.11.15 =py39hefdd603_0
+    - aiohttp =3.11.16 =py39hefdd603_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.13.3 =pyha770c72_0
     - cython =3.0.12 =py39h1d5d4fa_0
@@ -110,7 +110,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.3.0 =py39h85b62ae_2
     - cpython =3.9.21 =py39hd8ed1ab_1
-    - curl =8.12.1 =h73640d1_0
+    - curl =8.13.0 =h73640d1_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =h60b93bd_7
     - debugpy =1.8.13 =py39h941272d_0
@@ -131,7 +131,7 @@ requirements:
     - freetype =2.13.3 =h1d14073_0
     - fribidi =1.0.10 =h27ca646_0
     - frozenlist =1.5.0 =py39hefdd603_1
-    - gfortran_impl_osx-arm64 =13.3.0 =h0045e9c_1
+    - gfortran_impl_osx-arm64 =13.3.0 =h63c397c_2
     - gfortran_osx-arm64 =13.3.0 =h3c33bd0_1
     - glib =2.84.0 =heee381b_0
     - glib-tools =2.84.0 =h1dc7a0c_0
@@ -159,7 +159,7 @@ requirements:
     - isl =0.26 =imath32_h347afa1_101
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.19.2 =pyhd8ed1ab_1
-    - json5 =0.10.0 =pyhd8ed1ab_1
+    - json5 =0.11.0 =pyhd8ed1ab_0
     - jsonpointer =3.0.0 =py39h2804cbe_1
     - jsonschema =4.23.0 =pyhd8ed1ab_1
     - jsonschema-specifications =2024.10.1 =pyhd8ed1ab_1
@@ -187,18 +187,18 @@ requirements:
     - libclang-cpp17 =17.0.6 =default_hf90f093_8
     - libclang-cpp20.1 =20.1.1 =default_hf90f093_0
     - libclang13 =20.1.1 =default_h81d93ff_0
-    - libcurl =8.12.1 =h73640d1_0
-    - libcxx =20.1.1 =ha82da77_0
-    - libcxx-devel =20.1.1 =h6dc3340_0
+    - libcurl =8.13.0 =h73640d1_0
+    - libcxx =20.1.2 =ha82da77_0
+    - libcxx-devel =20.1.2 =h6dc3340_0
     - libdeflate =1.23 =hec38601_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libev =4.33 =h93a5062_2
     - libexpat =2.7.0 =h286801f_0
     - libffi =3.4.6 =h1da3d7d_1
     - libgettextpo =0.23.1 =h493aca8_0
-    - libgfortran =5.0.0 =14_2_0_h6c33f7e_1
-    - libgfortran-devel_osx-arm64 =13.3.0 =h5020ebb_1
-    - libgfortran5 =14.2.0 =h6c33f7e_1
+    - libgfortran =5.0.0 =14_2_0_h6c33f7e_2
+    - libgfortran-devel_osx-arm64 =13.3.0 =h5020ebb_2
+    - libgfortran5 =14.2.0 =h6c33f7e_2
     - libglib =2.84.0 =hdff4504_0
     - libiconv =1.18 =hfe07756_1
     - libintl =0.23.1 =h493aca8_0
@@ -296,7 +296,7 @@ requirements:
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.3.0 =py39h80d5f2a_0
     - qhull =2020.2 =h420ef59_5
-    - qt-main =5.15.15 =h67564f6_2
+    - qt-main =5.15.15 =h67564f6_3
     - qtpy =2.4.3 =pyhd8ed1ab_0
     - r-askpass =1.2.1 =r44h0d9a900_0
     - r-assertthat =0.2.1 =r44hc72bb7e_5
@@ -379,7 +379,7 @@ requirements:
     - r-knitr =1.50 =r44hc72bb7e_0
     - r-labeling =0.4.3 =r44hc72bb7e_1
     - r-later =1.4.1 =r44h31118f2_0
-    - r-lattice =0.22_6 =r44h07cda29_1
+    - r-lattice =0.22_7 =r44h570997c_0
     - r-lava =1.8.1 =r44hc72bb7e_0
     - r-lazyeval =0.2.2 =r44h07cda29_5
     - r-lifecycle =1.0.4 =r44hc72bb7e_1
@@ -391,7 +391,7 @@ requirements:
     - r-mass =7.3_64 =r44h570997c_0
     - r-matrix =1.7_3 =r44hf6a007b_0
     - r-memoise =2.0.1 =r44hc72bb7e_3
-    - r-mgcv =1.9_1 =r44h83b88f1_1
+    - r-mgcv =1.9_2 =r44he66de11_0
     - r-mime =0.13 =r44h570997c_0
     - r-modelmetrics =1.2.2.2 =r44h173a3d2_4
     - r-modelr =0.1.11 =r44hc72bb7e_2
