@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.10.16 =h57b00e1_1_cpython
+    - python =3.10.16 =hee626be_2_cpython
   run:
-    - python =3.10.16 =h57b00e1_1_cpython
+    - python =3.10.16 =hee626be_2_cpython
 
     # 9 primary packages :
     - cython =3.0.12 =py310hc86cfe9_0
@@ -75,7 +75,7 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_1
     - contourpy =1.3.1 =py310hf54e67a_0
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
-    - cpython =3.10.16 =py310hd8ed1ab_1
+    - cpython =3.10.16 =py310hd8ed1ab_2
     - cryptography =44.0.2 =py310h42c23b7_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =hf6b2984_7
@@ -158,8 +158,8 @@ requirements:
     - libcap =2.75 =h51d75a7_0
     - libcblas =3.9.0 =31_hab92f65_openblas
     - libclang-cpp19.1 =19.1.7 =default_he324ac1_2
-    - libclang-cpp20.1 =20.1.1 =default_he324ac1_0
-    - libclang13 =20.1.1 =default_h4390ef5_0
+    - libclang-cpp20.1 =20.1.2 =default_he324ac1_0
+    - libclang13 =20.1.2 =default_h4390ef5_0
     - libcups =2.3.3 =h405e4a8_4
     - libdeflate =1.23 =h5e3c512_0
     - libdrm =2.4.124 =h86ecc28_0

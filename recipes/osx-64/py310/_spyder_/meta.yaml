@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.10.16 =h5acdff8_1_cpython
+    - python =3.10.16 =h65d3e95_2_cpython
   run:
-    - python =3.10.16 =h5acdff8_1_cpython
+    - python =3.10.16 =h65d3e95_2_cpython
 
     # 9 primary packages :
     - cython =3.0.12 =py310h60cd68d_0
@@ -73,7 +73,7 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_1
     - contourpy =1.3.1 =py310hf166250_0
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
-    - cpython =3.10.16 =py310hd8ed1ab_1
+    - cpython =3.10.16 =py310hd8ed1ab_2
     - cryptography =44.0.2 =py310h8cffaee_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =hf9bab2b_7
@@ -134,7 +134,7 @@ requirements:
     - libbrotlienc =1.1.0 =h00291cd_2
     - libcblas =3.9.0 =31_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =20.1.1 =default_hf2b7afa_0
+    - libclang13 =20.1.2 =default_hf2b7afa_0
     - libcxx =20.1.2 =hf95d169_0
     - libdeflate =1.23 =he65b83e_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
@@ -166,7 +166,7 @@ requirements:
     - libxcb =1.17.0 =hf1f96e2_0
     - libxml2 =2.13.7 =hebb159f_0
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =20.1.1 =ha54dae1_1
+    - llvm-openmp =20.1.2 =ha54dae1_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_1
     - markupsafe =3.0.2 =py310h8e2f543_1
     - matplotlib-base =3.10.1 =py310h1671ce3_0
