@@ -146,8 +146,8 @@ requirements:
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm15 =15.0.7 =hadd5161_1
     - libltdl =2.4.3a =h5888daf_0
-    - liblzma =5.6.4 =hb9d3cd8_0
-    - liblzma-devel =5.6.4 =hb9d3cd8_0
+    - liblzma =5.8.1 =hb9d3cd8_0
+    - liblzma-devel =5.8.1 =hb9d3cd8_0
     - libnetcdf =4.8.1 =nompi_h261ec11_106
     - libnghttp2 =1.58.0 =h47da74e_0
     - libnsl =2.0.1 =hd590300_0
@@ -259,9 +259,9 @@ requirements:
     - xorg-renderproto =0.11.1 =hb9d3cd8_1003
     - xorg-xextproto =7.3.0 =hb9d3cd8_1004
     - xorg-xproto =7.0.31 =hb9d3cd8_1008
-    - xz =5.6.4 =hbcc6ac9_0
-    - xz-gpl-tools =5.6.4 =hbcc6ac9_0
-    - xz-tools =5.6.4 =hb9d3cd8_0
+    - xz =5.8.1 =hbcc6ac9_0
+    - xz-gpl-tools =5.8.1 =hbcc6ac9_0
+    - xz-tools =5.8.1 =hb9d3cd8_0
     - zeromq =4.3.5 =h59595ed_1
     - zipp =3.15.0 =pyhd8ed1ab_0
     - zlib =1.2.13 =h4ab18f5_6

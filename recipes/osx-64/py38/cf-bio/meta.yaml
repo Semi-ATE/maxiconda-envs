@@ -131,8 +131,8 @@ requirements:
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm20 =20.1.2 =hc29ff6c_0
-    - liblzma =5.6.4 =hd471939_0
-    - liblzma-devel =5.6.4 =hd471939_0
+    - liblzma =5.8.1 =hd471939_0
+    - liblzma-devel =5.8.1 =hd471939_0
     - libnetcdf =4.9.2 =nompi_hf3c7182_116
     - libnghttp2 =1.64.0 =hc7306c3_0
     - libogg =1.3.5 =hfdf4475_0
@@ -148,7 +148,7 @@ requirements:
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp-base =1.5.0 =h6cf52b4_0
     - libxcb =1.17.0 =hf1f96e2_0
-    - libxml2 =2.13.7 =hebb159f_0
+    - libxml2 =2.13.7 =h93c44a6_1
     - libzip =1.11.2 =h31df5bb_0
     - libzlib =1.3.1 =hd23fc13_2
     - llvm-openmp =20.1.2 =ha54dae1_0
@@ -236,9 +236,9 @@ requirements:
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
     - xorg-libxau =1.0.12 =h6e16a3a_0
     - xorg-libxdmcp =1.1.5 =h00291cd_0
-    - xz =5.6.4 =h357f2ed_0
-    - xz-gpl-tools =5.6.4 =h357f2ed_0
-    - xz-tools =5.6.4 =hd471939_0
+    - xz =5.8.1 =h357f2ed_0
+    - xz-gpl-tools =5.8.1 =h357f2ed_0
+    - xz-tools =5.8.1 =hd471939_0
     - zeromq =4.3.5 =hde137ed_4
     - zipp =3.21.0 =pyhd8ed1ab_0
     - zlib =1.3.1 =hd23fc13_2

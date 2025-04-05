@@ -89,7 +89,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h6a3b0d2_0
-    - cctools_osx-arm64 =1010.6 =h729f01a_4
+    - cctools_osx-arm64 =1010.6 =h729f01a_5
     - certifi =2025.1.31 =pyhd8ed1ab_0
     - cffi =1.17.1 =py311h3a79f62_0
     - charset-normalizer =3.4.1 =pyhd8ed1ab_0
@@ -125,12 +125,12 @@ requirements:
     - fontconfig =2.15.0 =h1383a14_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.56.0 =py311h4921393_0
+    - fonttools =4.57.0 =py311h4921393_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.13.3 =h1d14073_0
     - fribidi =1.0.10 =h27ca646_0
     - frozenlist =1.5.0 =py311h4921393_1
-    - gfortran_impl_osx-arm64 =13.3.0 =h63c397c_2
+    - gfortran_impl_osx-arm64 =13.3.0 =h63c397c_102
     - gfortran_osx-arm64 =13.3.0 =h3c33bd0_1
     - glib =2.84.0 =heee381b_0
     - glib-tools =2.84.0 =h1dc7a0c_0
@@ -175,7 +175,7 @@ requirements:
     - kiwisolver =1.4.7 =py311h2c37856_0
     - krb5 =1.21.3 =h237132a_0
     - lcms2 =2.17 =h7eeda09_0
-    - ld64_osx-arm64 =951.9 =hcfee506_4
+    - ld64_osx-arm64 =951.9 =hcfee506_5
     - lerc =4.0.0 =h9a09cb3_0
     - libasprintf =0.23.1 =h493aca8_0
     - libblas =3.9.0 =31_h10e41b3_openblas
@@ -196,7 +196,7 @@ requirements:
     - libffi =3.4.6 =h1da3d7d_1
     - libgettextpo =0.23.1 =h493aca8_0
     - libgfortran =5.0.0 =14_2_0_h6c33f7e_2
-    - libgfortran-devel_osx-arm64 =13.3.0 =h5020ebb_2
+    - libgfortran-devel_osx-arm64 =13.3.0 =h5020ebb_102
     - libgfortran5 =14.2.0 =h6c33f7e_2
     - libglib =2.84.0 =hdff4504_0
     - libiconv =1.18 =hfe07756_1
@@ -206,7 +206,7 @@ requirements:
     - liblapack =3.9.0 =31_hc9a63f6_openblas
     - libllvm17 =17.0.6 =hc4b4ae8_3
     - libllvm20 =20.1.2 =hc4b4ae8_0
-    - liblzma =5.6.4 =h39f12f2_0
+    - liblzma =5.8.1 =h39f12f2_0
     - libnghttp2 =1.64.0 =h6d7220d_0
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h99b78c6_0
@@ -222,7 +222,7 @@ requirements:
     - libvorbis =1.3.7 =h9f76cd9_0
     - libwebp-base =1.5.0 =h2471fea_0
     - libxcb =1.17.0 =hdb1d25a_0
-    - libxml2 =2.13.7 =h178c5d8_0
+    - libxml2 =2.13.7 =h52572c6_1
     - libzlib =1.3.1 =h8359307_2
     - llvm-openmp =20.1.2 =hdb05f8b_0
     - llvm-tools =20.1.2 =hd2aecb6_0
@@ -388,7 +388,7 @@ requirements:
     - r-mass =7.3_64 =r44h570997c_0
     - r-matrix =1.7_3 =r44hf6a007b_0
     - r-memoise =2.0.1 =r44hc72bb7e_3
-    - r-mgcv =1.9_2 =r44he66de11_0
+    - r-mgcv =1.9_3 =r44he66de11_0
     - r-mime =0.13 =r44h570997c_0
     - r-modelmetrics =1.2.2.2 =r44h173a3d2_4
     - r-modelr =0.1.11 =r44hc72bb7e_2
@@ -474,7 +474,7 @@ requirements:
     - r-xts =0.14.1 =r44h96f7ad7_0
     - r-yaml =2.3.10 =r44h07cda29_0
     - r-zoo =1.8_13 =r44h570997c_0
-    - rapidfuzz =3.12.2 =py311h155a34a_0
+    - rapidfuzz =3.13.0 =py311h155a34a_0
     - readline =8.2 =h1d1bf99_2
     - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
@@ -485,7 +485,7 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-aarch64-apple-darwin =1.86.0 =hf6ec828_0
     - send2trash =1.8.3 =pyh31c8845_1
-    - setuptools =75.8.2 =pyhff2d567_0
+    - setuptools =78.1.0 =pyhff2d567_0
     - sigtool =0.1.3 =h44b9a77_0
     - sip =6.8.6 =py311h155a34a_2
     - six =1.17.0 =pyhd8ed1ab_0

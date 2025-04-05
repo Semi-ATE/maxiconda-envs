@@ -116,15 +116,15 @@ requirements:
     - fontconfig =2.15.0 =h765892d_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.56.0 =py311h5082efb_0
+    - fonttools =4.57.0 =py311h5082efb_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.13.3 =h0b5ce68_0
     - fribidi =1.0.10 =h8d14728_0
     - frozenlist =1.5.0 =py311h5082efb_1
     - gcc_impl_win-64 =14.2.0 =h7f48517_2
     - gfortran_impl_win-64 =14.2.0 =h35fe5b7_2
-    - glib =2.84.0 =h3d4babf_0
-    - glib-tools =2.84.0 =h4394cf3_0
+    - glib =2.84.1 =h3d4babf_0
+    - glib-tools =2.84.1 =h4394cf3_0
     - graphite2 =1.3.13 =h63175ca_1003
     - greenlet =3.1.1 =py311hda3d55a_1
     - gsl =2.7 =hdfb1a43_0
@@ -181,7 +181,7 @@ requirements:
     - libgcc-devel_win-64 =14.2.0 =h7c23ffb_102
     - libgfortran =14.2.0 =h719f0c7_2
     - libgfortran5 =14.2.0 =hf020157_2
-    - libglib =2.84.0 =h7025463_0
+    - libglib =2.84.1 =h7025463_0
     - libgomp =14.2.0 =h1383e82_2
     - libhwloc =2.11.2 =default_ha69328c_1001
     - libiconv =1.18 =h135ad9c_1
@@ -189,7 +189,7 @@ requirements:
     - libintl-devel =0.22.5 =h5728263_3
     - libjpeg-turbo =3.0.0 =hcfcfb64_1
     - liblapack =3.9.0 =31_h1aa476e_mkl
-    - liblzma =5.6.4 =h2466b09_0
+    - liblzma =5.8.1 =h2466b09_0
     - libnghttp2 =1.64.0 =he0c23c2_0
     - libogg =1.3.5 =h2466b09_0
     - libpng =1.6.47 =had7236b_0
@@ -204,7 +204,7 @@ requirements:
     - libwebp-base =1.5.0 =h3b0e114_0
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_9
     - libxcb =1.17.0 =h0e4246c_0
-    - libxml2 =2.13.7 =he286e8c_0
+    - libxml2 =2.13.7 =h442d1da_1
     - libxslt =1.1.39 =h3df6e99_0
     - libzlib =1.3.1 =h2466b09_2
     - llvmlite =0.44.0 =py311h7deaa30_1
@@ -364,7 +364,7 @@ requirements:
     - r-mass =7.3_64 =r44h11b023d_0
     - r-matrix =1.7_3 =r44h412cb52_0
     - r-memoise =2.0.1 =r44hc72bb7e_3
-    - r-mgcv =1.9_2 =r44h412cb52_0
+    - r-mgcv =1.9_3 =r44h412cb52_0
     - r-mime =0.13 =r44h11b023d_0
     - r-modelmetrics =1.2.2.2 =r44h8ae3a7c_4
     - r-modelr =0.1.11 =r44hc72bb7e_2
@@ -450,7 +450,7 @@ requirements:
     - r-xts =0.14.1 =r44h11b023d_0
     - r-yaml =2.3.10 =r44h11b023d_0
     - r-zoo =1.8_13 =r44h11b023d_0
-    - rapidfuzz =3.12.2 =py311hda3d55a_0
+    - rapidfuzz =3.13.0 =py311hda3d55a_0
     - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
@@ -460,7 +460,7 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-pc-windows-msvc =1.86.0 =h17fc481_0
     - send2trash =1.8.3 =pyh5737063_1
-    - setuptools =75.8.2 =pyhff2d567_0
+    - setuptools =78.1.0 =pyhff2d567_0
     - sip =6.7.12 =py311h12c1d0e_0
     - six =1.17.0 =pyhd8ed1ab_0
     - sniffio =1.3.1 =pyhd8ed1ab_1

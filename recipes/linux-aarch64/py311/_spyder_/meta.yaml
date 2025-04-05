@@ -35,7 +35,7 @@ requirements:
     - spyder =6.0.5 =hd8ed1ab_0
     - sympy =1.13.3 =pyh2585a3b_105
 
-    # 355 secondary packages :
+    # 353 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.11.16 =py311h58d527c_0
@@ -100,22 +100,22 @@ requirements:
     - fontconfig =2.15.0 =h8dda3cd_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.56.0 =py311h58d527c_0
+    - fonttools =4.57.0 =py311h58d527c_0
     - freetype =2.13.3 =he93130f_0
     - frozenlist =1.5.0 =py311h58d527c_1
     - fzf =0.61.0 =h56f8b8a_0
     - gettext =0.23.1 =h5ad3122_0
     - gettext-tools =0.23.1 =h5ad3122_0
     - giflib =5.2.2 =h31becfc_0
-    - glib =2.84.0 =h09e00fb_0
-    - glib-tools =2.84.0 =h78ca943_0
+    - glib =2.84.1 =h09e00fb_0
+    - glib-tools =2.84.1 =h78ca943_0
     - gmp =6.3.0 =h0a1ffab_2
     - gmpy2 =2.1.5 =py311h8dd2ae4_3
     - graphite2 =1.3.13 =h2f0025b_1003
     - gst-plugins-base =1.24.7 =h570c1df_0
     - gstreamer =1.24.7 =h37d20eb_0
     - h2 =4.2.0 =pyhd8ed1ab_0
-    - harfbuzz =10.4.0 =hb5e3f52_0
+    - harfbuzz =11.0.0 =hb5e3f52_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =75.1 =hf9b3779_0
@@ -156,7 +156,6 @@ requirements:
     - libbrotlienc =1.1.0 =h86ecc28_2
     - libcap =2.75 =h51d75a7_0
     - libcblas =3.9.0 =31_hab92f65_openblas
-    - libclang-cpp19.1 =19.1.7 =default_he324ac1_2
     - libclang-cpp20.1 =20.1.2 =default_he324ac1_0
     - libclang13 =20.1.2 =default_h4390ef5_0
     - libcups =2.3.3 =h405e4a8_4
@@ -176,7 +175,7 @@ requirements:
     - libgfortran =14.2.0 =he9431aa_2
     - libgfortran5 =14.2.0 =hb6113d0_2
     - libgl =1.7.0 =hd24410f_2
-    - libglib =2.84.0 =hc486b8e_0
+    - libglib =2.84.1 =hc486b8e_0
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
     - libgomp =14.2.0 =he277a41_2
@@ -184,9 +183,8 @@ requirements:
     - libiconv =1.18 =hc99b53d_1
     - libjpeg-turbo =3.0.0 =h31becfc_1
     - liblapack =3.9.0 =31_h411afd4_openblas
-    - libllvm19 =19.1.7 =h2edbd07_1
     - libllvm20 =20.1.2 =h2edbd07_0
-    - liblzma =5.6.4 =h86ecc28_0
+    - liblzma =5.8.1 =h86ecc28_0
     - libnsl =2.0.1 =h31becfc_0
     - libntlm =1.4 =hf897c2e_1002
     - libogg =1.3.5 =h0b9eccb_0
@@ -211,7 +209,7 @@ requirements:
     - libxcb =1.17.0 =h262b8f6_0
     - libxcrypt =4.4.36 =h31becfc_1
     - libxkbcommon =1.8.1 =h2ef6bd0_0
-    - libxml2 =2.13.7 =h2e0c361_0
+    - libxml2 =2.13.7 =he060846_1
     - libxslt =1.1.39 =h1cc9640_0
     - libzlib =1.3.1 =h86ecc28_2
     - lz4-c =1.10.0 =h5ad3122_1
@@ -282,7 +280,7 @@ requirements:
     - pyopenssl =25.0.0 =pyhd8ed1ab_0
     - pyparsing =3.2.3 =pyhd8ed1ab_1
     - pyqt5-sip =12.12.2 =py311h8715677_5
-    - pyside6 =6.8.3 =py311habb2604_0
+    - pyside6 =6.9.0 =py311habb2604_0
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
     - python-fastjsonschema =2.21.1 =pyhd8ed1ab_0
@@ -303,9 +301,9 @@ requirements:
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h70be974_5
     - qstylizer =0.2.4 =pyhff2d567_0
-    - qt-main =5.15.15 =hcc483f7_2
-    - qt-webengine =5.15.15 =h3fbf748_2
-    - qt6-main =6.8.3 =ha0a94ed_0
+    - qt-main =5.15.15 =h372b06a_3
+    - qt-webengine =5.15.15 =h868942c_3
+    - qt6-main =6.9.0 =ha483c8b_0
     - qtawesome =1.4.0 =pyh9208f05_1
     - qtconsole =5.6.1 =pyhd8ed1ab_1
     - qtconsole-base =5.6.1 =pyha770c72_1
@@ -319,7 +317,7 @@ requirements:
     - rpds-py =0.24.0 =py311h4346fff_0
     - rtree =1.4.0 =pyh11ca60a_1
     - secretstorage =3.3.3 =py311hfecb2dc_3
-    - setuptools =75.8.2 =pyhff2d567_0
+    - setuptools =78.1.0 =pyhff2d567_0
     - sip =6.8.6 =py311h2e0833b_2
     - six =1.17.0 =pyhd8ed1ab_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0

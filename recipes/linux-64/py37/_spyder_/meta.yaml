@@ -93,8 +93,8 @@ requirements:
     - gettext =0.23.1 =h5888daf_0
     - gettext-tools =0.23.1 =h5888daf_0
     - giflib =5.2.2 =hd590300_0
-    - glib =2.84.0 =h07242d1_0
-    - glib-tools =2.84.0 =h4833e2c_0
+    - glib =2.84.1 =h07242d1_0
+    - glib-tools =2.84.1 =h4833e2c_0
     - gmp =6.3.0 =hac33072_2
     - gmpy2 =2.1.2 =py37h025e8b9_0
     - graphite2 =1.3.13 =h59595ed_1003
@@ -163,15 +163,15 @@ requirements:
     - libgfortran =14.2.0 =h69a702a_2
     - libgfortran-ng =14.2.0 =h69a702a_2
     - libgfortran5 =14.2.0 =hf1ad2bd_2
-    - libglib =2.84.0 =h2ff4ddf_0
+    - libglib =2.84.1 =h2ff4ddf_0
     - libgomp =14.2.0 =h767d61c_2
     - libgpg-error =1.51 =hbd13f7d_1
     - libiconv =1.18 =h4ce23a2_1
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm15 =15.0.7 =hadd5161_1
     - libltdl =2.4.3a =h5888daf_0
-    - liblzma =5.6.4 =hb9d3cd8_0
-    - liblzma-devel =5.6.4 =hb9d3cd8_0
+    - liblzma =5.8.1 =hb9d3cd8_0
+    - liblzma-devel =5.8.1 =hb9d3cd8_0
     - libnsl =2.0.1 =hd590300_0
     - libogg =1.3.5 =h4ab18f5_0
     - libopenblas =0.3.25 =pthreads_h413a1c8_0
@@ -340,9 +340,9 @@ requirements:
     - xorg-renderproto =0.11.1 =hb9d3cd8_1003
     - xorg-xextproto =7.3.0 =hb9d3cd8_1004
     - xorg-xproto =7.0.31 =hb9d3cd8_1008
-    - xz =5.6.4 =hbcc6ac9_0
-    - xz-gpl-tools =5.6.4 =hbcc6ac9_0
-    - xz-tools =5.6.4 =hb9d3cd8_0
+    - xz =5.8.1 =hbcc6ac9_0
+    - xz-gpl-tools =5.8.1 =hbcc6ac9_0
+    - xz-tools =5.8.1 =hb9d3cd8_0
     - yaml =0.2.5 =h7f98852_2
     - yapf =0.33.0 =pyhd8ed1ab_1
     - zeromq =4.3.5 =h59595ed_1
