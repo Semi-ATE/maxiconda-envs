@@ -139,8 +139,8 @@ requirements:
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libexpat =2.7.0 =h240833e_0
     - libffi =3.4.6 =h281671d_1
-    - libgfortran =5.0.0 =14_2_0_h51e75f0_2
-    - libgfortran5 =14.2.0 =h51e75f0_2
+    - libgfortran =14.2.0 =14_2_0_hef36b68_104
+    - libgfortran5 =14.2.0 =h58528f3_104
     - libglib =2.84.0 =h5c976ab_0
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.23.1 =h27064b9_0
@@ -178,7 +178,7 @@ requirements:
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
     - mpmath =1.3.0 =pyhd8ed1ab_1
-    - multidict =6.2.0 =py311h1cc1194_0
+    - multidict =6.3.2 =py311h1cc1194_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =1.0.0 =pyha770c72_1
     - mysql-common =9.0.1 =hd00b0ec_5
@@ -224,7 +224,7 @@ requirements:
     - pygithub =2.6.1 =pyhd8ed1ab_0
     - pygments =2.19.1 =pyhd8ed1ab_0
     - pyjwt =2.10.1 =pyhd8ed1ab_0
-    - pylint =3.3.5 =pyh29332c3_0
+    - pylint =3.3.6 =pyh29332c3_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.5.0 =py311h3336109_4
@@ -252,7 +252,7 @@ requirements:
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py311ha3cf9ac_2
-    - pyzmq =26.3.0 =py311hb21797c_0
+    - pyzmq =26.4.0 =py311hb21797c_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h3c5361c_5
     - qstylizer =0.2.4 =pyhff2d567_0
@@ -299,8 +299,8 @@ requirements:
     - tornado =6.4.2 =py311h4d7f069_0
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - types-python-dateutil =2.9.0.20241206 =pyhd8ed1ab_0
-    - typing-extensions =4.13.0 =h9fa5a19_1
-    - typing_extensions =4.13.0 =pyh29332c3_1
+    - typing-extensions =4.13.1 =hf5ce1d7_0
+    - typing_extensions =4.13.1 =pyh29332c3_0
     - tzdata =2025b =h78e105d_0
     - ujson =5.10.0 =py311hd89902b_1
     - unicodedata2 =16.0.0 =py311h4d7f069_0

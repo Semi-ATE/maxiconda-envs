@@ -115,8 +115,8 @@ requirements:
     - libev =4.33 =h93a5062_2
     - libexpat =2.7.0 =h286801f_0
     - libffi =3.4.6 =h1da3d7d_1
-    - libgfortran =5.0.0 =14_2_0_h6c33f7e_2
-    - libgfortran5 =14.2.0 =h6c33f7e_2
+    - libgfortran =14.2.0 =14_2_0_heb5dd2a_104
+    - libgfortran5 =14.2.0 =h2c44a93_104
     - libglib =2.84.0 =hdff4504_0
     - libiconv =1.18 =hfe07756_1
     - libintl =0.23.1 =h493aca8_0
@@ -193,7 +193,7 @@ requirements:
     - pytng =0.3.3 =py39h18a1b42_1
     - pytz =2024.1 =pyhd8ed1ab_0
     - pyxdg =0.28 =pyhd8ed1ab_0
-    - pyzmq =26.3.0 =py39h80d5f2a_0
+    - pyzmq =26.4.0 =py39h80d5f2a_0
     - qhull =2020.2 =h420ef59_5
     - qt-main =5.15.15 =h67564f6_3
     - readline =8.2 =h1d1bf99_2
@@ -217,8 +217,8 @@ requirements:
     - tornado =6.4.2 =py39hf3bc14e_0
     - tqdm =4.67.1 =pyhd8ed1ab_1
     - traitlets =5.14.3 =pyhd8ed1ab_1
-    - typing-extensions =4.13.0 =h9fa5a19_1
-    - typing_extensions =4.13.0 =pyh29332c3_1
+    - typing-extensions =4.13.1 =hf5ce1d7_0
+    - typing_extensions =4.13.1 =pyh29332c3_0
     - tzdata =2025b =h78e105d_0
     - unicodedata2 =16.0.0 =py39hf3bc14e_0
     - wcwidth =0.2.13 =pyhd8ed1ab_1

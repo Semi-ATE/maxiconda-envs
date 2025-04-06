@@ -233,8 +233,8 @@ requirements:
     - libexpat =2.7.0 =h240833e_0
     - libffi =3.4.6 =h281671d_1
     - libgd =2.3.3 =h8555400_11
-    - libgfortran =5.0.0 =14_2_0_h51e75f0_2
-    - libgfortran5 =14.2.0 =h51e75f0_2
+    - libgfortran =14.2.0 =14_2_0_hef36b68_104
+    - libgfortran5 =14.2.0 =h58528f3_104
     - libglib =2.84.0 =h5c976ab_0
     - libgoogle-cloud =2.36.0 =h777fda5_1
     - libgoogle-cloud-storage =2.36.0 =h3397294_1
@@ -299,7 +299,7 @@ requirements:
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
     - mpmath =1.3.0 =pyhd8ed1ab_1
-    - multidict =6.2.0 =py39h781ac47_0
+    - multidict =6.3.2 =py39h781ac47_0
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.10 =py39ha92e968_2
@@ -387,7 +387,7 @@ requirements:
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py39hd18e689_2
-    - pyzmq =26.3.0 =py39hf094b8e_0
+    - pyzmq =26.4.0 =py39hf094b8e_0
     - qhull =2020.2 =h3c5361c_5
     - qt-main =5.15.15 =h30a8c49_3
     - querystring_parser =1.2.4 =pyhd8ed1ab_2
@@ -440,9 +440,9 @@ requirements:
     - typer =0.15.2 =pyhff008b6_0
     - typer-slim =0.15.2 =pyh29332c3_0
     - typer-slim-standard =0.15.2 =h801b22e_0
-    - typing-extensions =4.13.0 =h9fa5a19_1
+    - typing-extensions =4.13.1 =hf5ce1d7_0
     - typing-inspection =0.4.0 =pyhd8ed1ab_0
-    - typing_extensions =4.13.0 =pyh29332c3_1
+    - typing_extensions =4.13.1 =pyh29332c3_0
     - tzdata =2025b =h78e105d_0
     - ujson =5.10.0 =py39h7c0e7c0_1
     - umap-learn =0.5.7 =py39h6e9494a_1

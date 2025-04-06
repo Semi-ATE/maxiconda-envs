@@ -90,7 +90,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h950ec3b_0
-    - cctools_osx-64 =1010.6 =hfe8da7e_5
+    - cctools_osx-64 =1010.6 =hfe8da7e_6
     - certifi =2025.1.31 =pyhd8ed1ab_0
     - cffi =1.17.1 =py311h137bacd_0
     - charset-normalizer =3.4.1 =pyhd8ed1ab_0
@@ -131,7 +131,7 @@ requirements:
     - freetype =2.13.3 =h40dfd5c_0
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.5.0 =py311ha3cf9ac_1
-    - gfortran_impl_osx-64 =13.3.0 =h355c40b_102
+    - gfortran_impl_osx-64 =13.3.0 =hbf5bf67_104
     - gfortran_osx-64 =13.3.0 =h3223c34_1
     - glib =2.84.0 =h915cd9b_0
     - glib-tools =2.84.0 =hf8faeaf_0
@@ -176,7 +176,7 @@ requirements:
     - kiwisolver =1.4.7 =py311hf2f7c97_0
     - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.17 =h72f5680_0
-    - ld64_osx-64 =951.9 =hc68d7ca_5
+    - ld64_osx-64 =951.9 =hc68d7ca_6
     - lerc =4.0.0 =hb486fe8_0
     - libasprintf =0.23.1 =h27064b9_0
     - libblas =3.9.0 =31_h7f60823_openblas
@@ -196,9 +196,9 @@ requirements:
     - libexpat =2.7.0 =h240833e_0
     - libffi =3.4.6 =h281671d_1
     - libgettextpo =0.23.1 =h27064b9_0
-    - libgfortran =5.0.0 =14_2_0_h51e75f0_2
-    - libgfortran-devel_osx-64 =13.3.0 =h297be85_102
-    - libgfortran5 =14.2.0 =h51e75f0_2
+    - libgfortran =14.2.0 =14_2_0_hef36b68_104
+    - libgfortran-devel_osx-64 =13.3.0 =h297be85_104
+    - libgfortran5 =14.2.0 =h58528f3_104
     - libglib =2.84.0 =h5c976ab_0
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.23.1 =h27064b9_0
@@ -237,7 +237,7 @@ requirements:
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
     - mpmath =1.3.0 =pyhd8ed1ab_1
-    - multidict =6.2.0 =py311h1cc1194_0
+    - multidict =6.3.2 =py311h1cc1194_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mysql-common =9.0.1 =hd00b0ec_5
     - mysql-libs =9.0.1 =h062309a_5
@@ -292,7 +292,7 @@ requirements:
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.11 =6_cp311
     - pytz =2024.1 =pyhd8ed1ab_0
-    - pyzmq =26.3.0 =py311hb21797c_0
+    - pyzmq =26.4.0 =py311hb21797c_0
     - qhull =2020.2 =h3c5361c_5
     - qt-main =5.15.15 =h30a8c49_3
     - qtpy =2.4.3 =pyhd8ed1ab_0
@@ -400,7 +400,7 @@ requirements:
     - r-openssl =2.3.2 =r44he2fe99f_0
     - r-parallelly =1.43.0 =r44h79f565e_0
     - r-pbdzmq =0.3_13 =r44h5556b20_0
-    - r-pillar =1.10.1 =r44hc72bb7e_0
+    - r-pillar =1.10.2 =r44hc72bb7e_0
     - r-pkgconfig =2.0.3 =r44hc72bb7e_4
     - r-plyr =1.8.9 =r44h25d921d_1
     - r-prettyunits =1.2.0 =r44hc72bb7e_1
@@ -506,9 +506,9 @@ requirements:
     - tornado =6.4.2 =py311h4d7f069_0
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - types-python-dateutil =2.9.0.20241206 =pyhd8ed1ab_0
-    - typing-extensions =4.13.0 =h9fa5a19_1
+    - typing-extensions =4.13.1 =hf5ce1d7_0
     - typing-inspection =0.4.0 =pyhd8ed1ab_0
-    - typing_extensions =4.13.0 =pyh29332c3_1
+    - typing_extensions =4.13.1 =pyh29332c3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
     - tzdata =2025b =h78e105d_0
     - unicodedata2 =16.0.0 =py311h4d7f069_0
