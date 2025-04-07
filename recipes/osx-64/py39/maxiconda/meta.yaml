@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.1.1 =py39h80efdc8_0
     - cython =3.0.12 =py39hfdee7b9_0
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.130.4 =pyha770c72_0
+    - hypothesis =6.130.9 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.9.4 =py39h6e9494a_0
@@ -132,7 +132,7 @@ requirements:
     - freetype =2.13.3 =h40dfd5c_0
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.5.0 =py39hd18e689_1
-    - gfortran_impl_osx-64 =13.3.0 =hbf5bf67_104
+    - gfortran_impl_osx-64 =13.3.0 =hbf5bf67_105
     - gfortran_osx-64 =13.3.0 =h3223c34_1
     - glib =2.84.0 =h915cd9b_0
     - glib-tools =2.84.0 =hf8faeaf_0
@@ -197,9 +197,9 @@ requirements:
     - libexpat =2.7.0 =h240833e_0
     - libffi =3.4.6 =h281671d_1
     - libgettextpo =0.23.1 =h27064b9_0
-    - libgfortran =14.2.0 =14_2_0_hef36b68_104
-    - libgfortran-devel_osx-64 =13.3.0 =h297be85_104
-    - libgfortran5 =14.2.0 =h58528f3_104
+    - libgfortran =14.2.0 =hef36b68_105
+    - libgfortran-devel_osx-64 =13.3.0 =h297be85_105
+    - libgfortran5 =14.2.0 =h58528f3_105
     - libglib =2.84.0 =h5c976ab_0
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.23.1 =h27064b9_0
