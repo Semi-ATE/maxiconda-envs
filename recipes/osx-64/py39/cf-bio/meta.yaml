@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.21 =h7fafba3_1_cpython
+    - python =3.9.21 =h55ef250_2_cpython
   run:
-    - python =3.9.21 =h7fafba3_1_cpython
+    - python =3.9.21 =h55ef250_2_cpython
 
     # 10 primary packages :
     - biopython =1.85 =py39h80efdc8_1

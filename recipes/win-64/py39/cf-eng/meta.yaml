@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.21 =h37870fc_1_cpython
+    - python =3.9.21 =hfdde91d_2_cpython
   run:
-    - python =3.9.21 =h37870fc_1_cpython
+    - python =3.9.21 =hfdde91d_2_cpython
 
     # 8 primary packages :
     - numpy =2.0.2 =py39h60232e0_1
@@ -41,7 +41,7 @@ requirements:
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.2 =pyhd8ed1ab_1
-    - cpython =3.9.21 =py39hd8ed1ab_1
+    - cpython =3.9.21 =py39hd8ed1ab_2
     - debugpy =1.8.13 =py39ha51f57c_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1

@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.21 =hb97c71e_1_cpython
+    - python =3.9.21 =h59a44ae_2_cpython
   run:
-    - python =3.9.21 =hb97c71e_1_cpython
+    - python =3.9.21 =h59a44ae_2_cpython
 
     # 9 primary packages :
     - cython =3.0.12 =py39h41befb8_0
@@ -32,7 +32,7 @@ requirements:
     - pyqt =5.15.9 =py39hc7e6f3c_5
     - pyqtwebengine =5.15.9 =py39h886b22c_5
     - scipy =1.13.1 =py39hb921187_0
-    - spyder =6.0.5 =hd8ed1ab_0
+    - spyder =6.0.5 =hd8ed1ab_1
     - sympy =1.13.3 =pyh2585a3b_105
 
     # 355 secondary packages :
@@ -75,7 +75,7 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_1
     - contourpy =1.3.0 =py39hbd2ca3f_2
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
-    - cpython =3.9.21 =py39hd8ed1ab_1
+    - cpython =3.9.21 =py39hd8ed1ab_2
     - cryptography =44.0.2 =py39h11f9b69_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =hf6b2984_7
@@ -332,7 +332,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
-    - spyder-base =6.0.5 =linux_pyh62a8a7d_0
+    - spyder-base =6.0.5 =linux_pyh62a8a7d_1
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.3 =pyhb6d5dde_0

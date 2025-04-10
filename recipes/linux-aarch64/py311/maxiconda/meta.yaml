@@ -31,17 +31,17 @@ requirements:
     - bitarray =3.1.1 =py311ha879c10_0
     - cython =3.0.12 =py311hc8540bd_0
     - grayskull =2.8.0 =pyhd8ed1ab_0
-    - hypothesis =6.130.11 =pyha770c72_0
+    - hypothesis =6.130.12 =pyha770c72_0
     - ipython =9.1.0 =pyhfb0248b_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.1 =py311hfecb2dc_0
-    - numba =0.61.0 =py311h26ae67a_1
-    - numpy =2.1.3 =py311he9aa9f1_0
+    - numba =0.61.2 =py311h26ae67a_0
+    - numpy =2.2.4 =py311h6c2b7b4_0
     - openpyxl =3.1.5 =py311he5b9528_1
     - paho-mqtt =2.1.0 =pyhd8ed1ab_0
     - pandas =2.2.3 =py311h848c333_2
     - psutil =7.0.0 =py311ha879c10_0
-    - pydantic =2.11.2 =pyh3cfb1c2_0
+    - pydantic =2.11.3 =pyh3cfb1c2_0
     - pyqt =5.15.9 =py311hc287a7b_5
     - pyserial =3.5 =pyhd8ed1ab_1
     - pytest =8.3.5 =pyhd8ed1ab_0
@@ -168,7 +168,7 @@ requirements:
     - jupyter_events =0.12.0 =pyh29332c3_0
     - jupyter_server =2.15.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_1
-    - jupyterlab =4.3.6 =pyhd8ed1ab_0
+    - jupyterlab =4.4.0 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_1
     - kernel-headers_linux-aarch64 =4.18.0 =h05a177a_18
@@ -270,7 +270,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =ha32ae93_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - notebook =7.3.3 =pyhd8ed1ab_0
+    - notebook =7.4.0 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.36 =h5ad3122_0
     - nss =3.110 =h7e26b49_0
@@ -371,7 +371,7 @@ requirements:
     - r-future.apply =1.11.3 =r44hc72bb7e_0
     - r-gargle =1.5.2 =r44h785f33e_1
     - r-generics =0.1.3 =r44hc72bb7e_3
-    - r-ggplot2 =3.5.1 =r44hc72bb7e_1
+    - r-ggplot2 =3.5.2 =r44hc72bb7e_0
     - r-gistr =0.9.0 =r44hc72bb7e_3
     - r-glmnet =4.1_8 =r44h80bb91a_1
     - r-globals =0.16.3 =r44hc72bb7e_1

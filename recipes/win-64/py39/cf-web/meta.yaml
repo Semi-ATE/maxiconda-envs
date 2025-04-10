@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.21 =h37870fc_1_cpython
+    - python =3.9.21 =hfdde91d_2_cpython
   run:
-    - python =3.9.21 =h37870fc_1_cpython
+    - python =3.9.21 =hfdde91d_2_cpython
 
     # 9 primary packages :
     - beautifulsoup4 =4.13.3 =pyha770c72_0
@@ -53,7 +53,7 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.2 =pyhd8ed1ab_1
     - constantly =15.1.0 =py_0
-    - cpython =3.9.21 =py39hd8ed1ab_1
+    - cpython =3.9.21 =py39hd8ed1ab_2
     - cryptography =44.0.2 =py39hae46aff_0
     - debugpy =1.8.13 =py39ha51f57c_0
     - decorator =5.2.1 =pyhd8ed1ab_0
