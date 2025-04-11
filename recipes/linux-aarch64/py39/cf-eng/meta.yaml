@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.21 =h59a44ae_2_cpython
+    - python =3.9.22 =h59a44ae_0_cpython
   run:
-    - python =3.9.21 =h59a44ae_2_cpython
+    - python =3.9.22 =h59a44ae_0_cpython
 
     # 8 primary packages :
     - numpy =2.0.2 =py39h4a34e27_1
@@ -46,7 +46,7 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =hf6b2984_7
     - dbus =1.13.6 =h12b9eeb_3
-    - debugpy =1.8.13 =py39h7dbf29c_0
+    - debugpy =1.8.14 =py39h7dbf29c_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
     - exceptiongroup =1.2.2 =pyhd8ed1ab_1
@@ -181,7 +181,7 @@ requirements:
     - tomli =2.2.1 =pyhd8ed1ab_1
     - tornado =6.4.2 =py39h3e3acee_0
     - traitlets =5.14.3 =pyhd8ed1ab_1
-    - typing_extensions =4.13.1 =pyh29332c3_0
+    - typing_extensions =4.13.2 =pyh29332c3_0
     - tzdata =2025b =h78e105d_0
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1

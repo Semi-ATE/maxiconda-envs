@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.21 =h55ef250_2_cpython
+    - python =3.9.22 =h55ef250_0_cpython
   run:
-    - python =3.9.21 =h55ef250_2_cpython
+    - python =3.9.22 =h55ef250_0_cpython
 
     # 9 primary packages :
     - cython =3.0.12 =py39hfdee7b9_0
@@ -73,11 +73,11 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_1
     - contourpy =1.3.0 =py39h0d3c867_2
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
-    - cpython =3.9.21 =py39hd8ed1ab_2
+    - cpython =3.9.22 =py39hd8ed1ab_0
     - cryptography =44.0.2 =py39hce2744d_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =hf9bab2b_7
-    - debugpy =1.8.13 =py39hdf37715_0
+    - debugpy =1.8.14 =py39hdf37715_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.2.18 =pyhd8ed1ab_0
@@ -154,7 +154,7 @@ requirements:
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =hfdf4475_0
     - libopenblas =0.3.29 =openmp_hbf64a52_0
-    - libopus =1.4 =he3325bb_0
+    - libopus =1.5.2 =he3325bb_0
     - libpng =1.6.47 =h3c4a55f_0
     - libpq =17.4 =h9c5cfc2_1
     - libsodium =1.0.20 =hfdf4475_0
@@ -299,12 +299,12 @@ requirements:
     - tornado =6.4.2 =py39h80efdc8_0
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - types-python-dateutil =2.9.0.20241206 =pyhd8ed1ab_0
-    - typing-extensions =4.13.1 =hf5ce1d7_0
-    - typing_extensions =4.13.1 =pyh29332c3_0
+    - typing-extensions =4.13.2 =h0e9735f_0
+    - typing_extensions =4.13.2 =pyh29332c3_0
     - tzdata =2025b =h78e105d_0
     - ujson =5.10.0 =py39h7c0e7c0_1
     - unicodedata2 =16.0.0 =py39h80efdc8_0
-    - urllib3 =2.3.0 =pyhd8ed1ab_0
+    - urllib3 =2.4.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py39h80efdc8_0
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - webencodings =0.5.1 =pyhd8ed1ab_3

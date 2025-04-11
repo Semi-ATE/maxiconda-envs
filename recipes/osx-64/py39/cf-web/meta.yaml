@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.21 =h55ef250_2_cpython
+    - python =3.9.22 =h55ef250_0_cpython
   run:
-    - python =3.9.21 =h55ef250_2_cpython
+    - python =3.9.22 =h55ef250_0_cpython
 
     # 9 primary packages :
     - beautifulsoup4 =4.13.3 =pyha770c72_0
@@ -55,7 +55,7 @@ requirements:
     - constantly =15.1.0 =py_0
     - cryptography =44.0.2 =py39hce2744d_0
     - cyrus-sasl =2.1.27 =hf9bab2b_7
-    - debugpy =1.8.13 =py39hdf37715_0
+    - debugpy =1.8.14 =py39hdf37715_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - exceptiongroup =1.2.2 =pyhd8ed1ab_1
     - executing =2.1.0 =pyhd8ed1ab_1
@@ -93,7 +93,7 @@ requirements:
     - liblzma =5.8.1 =hd471939_0
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =hfdf4475_0
-    - libopus =1.4 =he3325bb_0
+    - libopus =1.5.2 =he3325bb_0
     - libpng =1.6.47 =h3c4a55f_0
     - libpq =17.4 =h9c5cfc2_1
     - libsodium =1.0.20 =hfdf4475_0
@@ -149,10 +149,10 @@ requirements:
     - tomli =2.2.1 =pyhd8ed1ab_1
     - tornado =6.4.2 =py39h80efdc8_0
     - traitlets =5.14.3 =pyhd8ed1ab_1
-    - typing-extensions =4.13.1 =hf5ce1d7_0
-    - typing_extensions =4.13.1 =pyh29332c3_0
+    - typing-extensions =4.13.2 =h0e9735f_0
+    - typing_extensions =4.13.2 =pyh29332c3_0
     - tzdata =2025b =h78e105d_0
-    - urllib3 =2.3.0 =pyhd8ed1ab_0
+    - urllib3 =2.4.0 =pyhd8ed1ab_0
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_1

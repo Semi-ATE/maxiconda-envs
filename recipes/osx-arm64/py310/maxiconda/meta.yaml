@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.10.16 =h2ecfa3e_3_cpython
+    - python =3.10.17 =h6cefb37_0_cpython
   run:
-    - python =3.10.16 =h2ecfa3e_3_cpython
+    - python =3.10.17 =h6cefb37_0_cpython
 
     # 37 primary packages :
     - aiohttp =3.11.16 =py310hc74094e_0
@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.13.3 =pyha770c72_0
     - cython =3.0.12 =py310h119c902_0
     - grayskull =2.8.0 =pyhd8ed1ab_0
-    - hypothesis =6.130.12 =pyha770c72_0
+    - hypothesis =6.131.0 =pyha770c72_0
     - ipython =8.35.0 =pyh907856f_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.1 =py310hb6292c7_0
@@ -109,11 +109,11 @@ requirements:
     - compiler-rt_osx-arm64 =20.1.2 =h7969c41_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.3.1 =py310h7f4e7e6_0
-    - cpython =3.10.16 =py310hd8ed1ab_3
+    - cpython =3.10.17 =py310hd8ed1ab_0
     - curl =8.13.0 =h73640d1_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =h60b93bd_7
-    - debugpy =1.8.13 =py310h853098b_0
+    - debugpy =1.8.14 =py310h853098b_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
@@ -211,7 +211,7 @@ requirements:
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h99b78c6_0
     - libopenblas =0.3.29 =openmp_hf332438_0
-    - libopus =1.4 =h48c0fde_0
+    - libopus =1.5.2 =h48c0fde_0
     - libpng =1.6.47 =h3783ad8_0
     - libpq =17.4 =h6896619_1
     - libsodium =1.0.20 =h99b78c6_0
@@ -342,7 +342,7 @@ requirements:
     - r-foreign =0.8_90 =r44h570997c_0
     - r-formatr =1.14 =r44hc72bb7e_2
     - r-fs =1.6.5 =r44h799df56_0
-    - r-future =1.34.0 =r44h785f33e_0
+    - r-future =1.40.0 =r44h785f33e_0
     - r-future.apply =1.11.3 =r44hc72bb7e_0
     - r-gargle =1.5.2 =r44h785f33e_1
     - r-generics =0.1.3 =r44hc72bb7e_3
@@ -416,7 +416,7 @@ requirements:
     - r-purrr =1.0.4 =r44h570997c_0
     - r-quantmod =0.4.27 =r44hc72bb7e_0
     - r-r6 =2.6.1 =r44hc72bb7e_0
-    - r-ragg =1.3.3 =r44h6144d90_0
+    - r-ragg =1.4.0 =r44h47286ac_0
     - r-randomforest =4.7_1.2 =r44hf8db2fc_0
     - r-rappdirs =0.3.3 =r44h07cda29_3
     - r-rbokeh =0.5.2 =r44hc72bb7e_4
@@ -474,7 +474,7 @@ requirements:
     - r-xtable =1.8_4 =r44hc72bb7e_6
     - r-xts =0.14.1 =r44h96f7ad7_0
     - r-yaml =2.3.10 =r44h07cda29_0
-    - r-zoo =1.8_13 =r44h570997c_0
+    - r-zoo =1.8_14 =r44h570997c_0
     - rapidfuzz =3.13.0 =py310h853098b_0
     - readline =8.2 =h1d1bf99_2
     - referencing =0.36.2 =pyh29332c3_0
@@ -506,14 +506,14 @@ requirements:
     - tornado =6.4.2 =py310h078409c_0
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - types-python-dateutil =2.9.0.20241206 =pyhd8ed1ab_0
-    - typing-extensions =4.13.1 =hf5ce1d7_0
+    - typing-extensions =4.13.2 =h0e9735f_0
     - typing-inspection =0.4.0 =pyhd8ed1ab_0
-    - typing_extensions =4.13.1 =pyh29332c3_0
+    - typing_extensions =4.13.2 =pyh29332c3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
     - tzdata =2025b =h78e105d_0
     - unicodedata2 =16.0.0 =py310h078409c_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
-    - urllib3 =2.3.0 =pyhd8ed1ab_0
+    - urllib3 =2.4.0 =pyhd8ed1ab_0
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - webcolors =24.11.1 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
