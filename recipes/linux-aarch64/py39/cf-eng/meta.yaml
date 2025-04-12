@@ -28,7 +28,7 @@ requirements:
     - numpy =2.0.2 =py39h4a34e27_1
     - openpyxl =3.1.5 =py39h017ddd6_1
     - pandas =2.2.3 =py39h53ba5a5_2
-    - pyqt =5.15.9 =py39hc7e6f3c_5
+    - pyqt =5.15.10 =py39hfe314c4_1
     - pyserial =3.5 =pyhd8ed1ab_1
     - pyusb =1.3.1 =pyhd8ed1ab_0
     - pyvisa-py =0.7.2 =pyhd8ed1ab_1
@@ -116,7 +116,7 @@ requirements:
     - libntlm =1.4 =hf897c2e_1002
     - libogg =1.3.5 =h0b9eccb_0
     - libopenblas =0.3.29 =pthreads_h9d3fd7e_0
-    - libopus =1.4 =h86ecc28_0
+    - libopus =1.5.2 =h86ecc28_0
     - libpciaccess =0.18 =h31becfc_0
     - libpng =1.6.47 =hec79eb8_0
     - libpq =17.4 =hf590da8_1
@@ -162,7 +162,7 @@ requirements:
     - pulseaudio-client =17.0 =h2f84921_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pygments =2.19.1 =pyhd8ed1ab_0
-    - pyqt5-sip =12.12.2 =py39h387a81e_5
+    - pyqt5-sip =12.13.0 =py39h7dbf29c_1
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python_abi =3.9 =6_cp39
