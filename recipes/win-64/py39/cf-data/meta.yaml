@@ -30,7 +30,7 @@ requirements:
     - lightgbm =4.6.0 =cpu_py_1
     - matplotlib =3.9.4 =py39hcbf5309_0
     - numpy =1.26.4 =py39hddb5d58_0
-    - pandas =2.2.3 =py39h2366fc2_2
+    - pandas =2.2.3 =py39h2366fc2_3
     - plotly =6.0.1 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =3.0.4 =py39hcbf5309_0
@@ -277,9 +277,9 @@ requirements:
     - opencl-headers =2024.10.24 =he0c23c2_0
     - openjpeg =2.5.3 =h4d64b90_0
     - openssl =3.5.0 =ha4e3fda_0
-    - opentelemetry-api =1.31.1 =pyhd8ed1ab_0
-    - opentelemetry-sdk =1.31.1 =pyhd8ed1ab_0
-    - opentelemetry-semantic-conventions =0.52b1 =pyh3cfb1c2_0
+    - opentelemetry-api =1.32.0 =pyhd8ed1ab_0
+    - opentelemetry-sdk =1.32.0 =pyhd8ed1ab_0
+    - opentelemetry-semantic-conventions =0.53b0 =pyh3cfb1c2_0
     - orc =2.1.1 =h35764e3_1
     - packaging =24.2 =pyhd8ed1ab_2
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
@@ -334,7 +334,7 @@ requirements:
     - python-multipart =0.0.20 =pyhff2d567_0
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python_abi =3.9 =6_cp39
-    - pytz =2024.1 =pyhd8ed1ab_0
+    - pytz =2025.2 =pyhd8ed1ab_0
     - pyu2f =0.1.5 =pyhd8ed1ab_1
     - pywavelets =1.6.0 =py39h4b0a98a_0
     - pywin32 =307 =py39ha51f57c_3

@@ -27,7 +27,7 @@ requirements:
     # 8 primary packages :
     - numpy =2.0.2 =py39h9cb892a_1
     - openpyxl =3.1.5 =py39h79730dd_1
-    - pandas =2.2.3 =py39h3b40f6f_2
+    - pandas =2.2.3 =py39h3b40f6f_3
     - pyqt =5.15.10 =py39h07a623c_1
     - pyserial =3.5 =pyhd8ed1ab_1
     - pyusb =1.3.1 =pyhd8ed1ab_0
@@ -107,7 +107,7 @@ requirements:
     - libglvnd =1.7.0 =ha4b6fd6_2
     - libglx =1.7.0 =ha4b6fd6_2
     - libgomp =14.2.0 =h767d61c_2
-    - libgpg-error =1.51 =hbd13f7d_1
+    - libgpg-error =1.53 =hbd13f7d_0
     - libiconv =1.18 =h4ce23a2_1
     - libjpeg-turbo =3.0.0 =hd590300_1
     - liblapack =3.9.0 =31_h7ac8fdf_openblas
@@ -167,7 +167,7 @@ requirements:
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python_abi =3.9 =6_cp39
-    - pytz =2024.1 =pyhd8ed1ab_0
+    - pytz =2025.2 =pyhd8ed1ab_0
     - pyvisa =1.14.1 =pyhd8ed1ab_1
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.4.0 =py39h4e4fb57_0

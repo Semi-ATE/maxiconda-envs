@@ -38,7 +38,7 @@ requirements:
     - numpy =2.0.2 =py39h3ba1154_1
     - openpyxl =3.1.5 =py39h5f73de6_1
     - paho-mqtt =2.1.0 =pyhd8ed1ab_0
-    - pandas =2.2.3 =py39hc5ad87a_1
+    - pandas =2.2.3 =py39hbc50386_3
     - psutil =7.0.0 =py39hf3bc14e_0
     - pydantic =2.11.3 =pyh3cfb1c2_0
     - pyqt =5.15.10 =py39h4e308d9_1
@@ -292,7 +292,7 @@ requirements:
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.9 =6_cp39
-    - pytz =2024.1 =pyhd8ed1ab_0
+    - pytz =2025.2 =pyhd8ed1ab_0
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.4.0 =py39h80d5f2a_0
     - qhull =2020.2 =h420ef59_5
@@ -343,7 +343,7 @@ requirements:
     - r-foreach =1.5.2 =r44hc72bb7e_3
     - r-foreign =0.8_90 =r44h570997c_0
     - r-formatr =1.14 =r44hc72bb7e_2
-    - r-fs =1.6.5 =r44h799df56_0
+    - r-fs =1.6.6 =r44h31118f2_0
     - r-future =1.40.0 =r44h785f33e_0
     - r-future.apply =1.11.3 =r44hc72bb7e_0
     - r-gargle =1.5.2 =r44h785f33e_1
@@ -414,7 +414,7 @@ requirements:
     - r-promises =1.3.2 =r44h31118f2_0
     - r-proxy =0.4_27 =r44h07cda29_3
     - r-pryr =0.1.6 =r44hd76f289_2
-    - r-ps =1.8.1 =r44h96f7ad7_0
+    - r-ps =1.9.1 =r44h570997c_0
     - r-purrr =1.0.4 =r44h570997c_0
     - r-quantmod =0.4.27 =r44hc72bb7e_0
     - r-r6 =2.6.1 =r44hc72bb7e_0

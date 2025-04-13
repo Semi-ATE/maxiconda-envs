@@ -28,7 +28,7 @@ requirements:
     - biopython =1.85 =py39h060674a_1
     - matplotlib =3.9.4 =py39ha65689a_0
     - numpy =2.0.2 =py39h4a34e27_1
-    - pandas =2.2.3 =py39h53ba5a5_2
+    - pandas =2.2.3 =py39h53ba5a5_3
     - pyqt =5.15.10 =py39hfe314c4_1
     - rdkit =2025.03.1 =py39ha502427_0
     - scipy =1.13.1 =py39hb921187_0
@@ -127,7 +127,7 @@ requirements:
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
     - libgomp =14.2.0 =he277a41_2
-    - libgpg-error =1.51 =h05609ea_1
+    - libgpg-error =1.53 =h05609ea_0
     - libiconv =1.18 =hc99b53d_1
     - libjpeg-turbo =3.0.0 =h31becfc_1
     - liblapack =3.9.0 =31_h411afd4_openblas
@@ -197,7 +197,7 @@ requirements:
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python_abi =3.9 =6_cp39
-    - pytz =2024.1 =pyhd8ed1ab_0
+    - pytz =2025.2 =pyhd8ed1ab_0
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.4.0 =py39he601760_0
     - qhull =2020.2 =h70be974_5

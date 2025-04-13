@@ -28,7 +28,7 @@ requirements:
     - cython =3.0.12 =py310hc86cfe9_0
     - matplotlib =3.10.1 =py310hbbe02a8_0
     - numpy =2.2.4 =py310h6e5608f_0
-    - pandas =2.2.3 =py310hce852f7_2
+    - pandas =2.2.3 =py310hce852f7_3
     - pyqt =5.15.10 =py310h3844e59_1
     - pyqtwebengine =5.15.10 =py310he346795_1
     - scipy =1.15.2 =py310hf37559f_0
@@ -180,7 +180,7 @@ requirements:
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
     - libgomp =14.2.0 =he277a41_2
-    - libgpg-error =1.51 =h05609ea_1
+    - libgpg-error =1.53 =h05609ea_0
     - libiconv =1.18 =hc99b53d_1
     - libjpeg-turbo =3.0.0 =h31becfc_1
     - liblapack =3.9.0 =31_h411afd4_openblas
@@ -294,7 +294,7 @@ requirements:
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python_abi =3.10 =6_cp310
     - pytoolconfig =1.2.5 =pyhd8ed1ab_1
-    - pytz =2024.1 =pyhd8ed1ab_0
+    - pytz =2025.2 =pyhd8ed1ab_0
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py310heeae437_2
