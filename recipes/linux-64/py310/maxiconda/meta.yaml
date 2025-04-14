@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.13.3 =pyha770c72_0
     - bitarray =3.1.1 =py310ha75aee5_0
     - cython =3.0.12 =py310had8cdd9_0
-    - grayskull =2.8.0 =pyhd8ed1ab_0
+    - grayskull =2.9.0 =pyhd8ed1ab_0
     - hypothesis =6.131.0 =pyha770c72_0
     - ipython =8.35.0 =pyh907856f_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
@@ -298,7 +298,7 @@ requirements:
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
     - prometheus_client =0.21.1 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.50 =pyha770c72_0
-    - propcache =0.2.1 =py310h89163eb_1
+    - propcache =0.3.1 =py310h89163eb_0
     - pthread-stubs =0.4 =hb9d3cd8_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pulseaudio-client =17.0 =hac146a9_1
@@ -426,7 +426,7 @@ requirements:
     - r-numderiv =2016.8_1.1 =r44hc72bb7e_6
     - r-openssl =2.3.2 =r44he8289e2_0
     - r-parallelly =1.43.0 =r44h2b5f3a1_0
-    - r-pbdzmq =0.3_13 =r44h549f438_0
+    - r-pbdzmq =0.3_14 =r44h549f438_0
     - r-pillar =1.10.2 =r44hc72bb7e_0
     - r-pkgconfig =2.0.3 =r44hc72bb7e_4
     - r-plyr =1.8.9 =r44ha18555a_1
