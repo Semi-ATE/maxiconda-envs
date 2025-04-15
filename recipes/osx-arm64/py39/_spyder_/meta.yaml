@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.22 =hdec7a8b_0_cpython
+    - python =3.9.22 =hdec7a8b_1_cpython
   run:
-    - python =3.9.22 =hdec7a8b_0_cpython
+    - python =3.9.22 =hdec7a8b_1_cpython
 
     # 9 primary packages :
     - cython =3.0.12 =py39h1d5d4fa_0
@@ -35,7 +35,7 @@ requirements:
     - spyder =6.0.5 =hd8ed1ab_1
     - sympy =1.13.3 =pyh2585a3b_105
 
-    # 285 secondary packages :
+    # 286 secondary packages :
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.11.16 =py39hefdd603_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
@@ -73,7 +73,7 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_1
     - contourpy =1.3.0 =py39h85b62ae_2
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
-    - cpython =3.9.22 =py39hd8ed1ab_0
+    - cpython =3.9.22 =py39hd8ed1ab_1
     - cryptography =44.0.2 =py39h558b0be_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =h60b93bd_7
@@ -139,6 +139,7 @@ requirements:
     - libcxx =20.1.2 =ha82da77_0
     - libdeflate =1.23 =hec38601_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
+    - libexpat =2.7.0 =h286801f_0
     - libffi =3.4.6 =h1da3d7d_1
     - libgfortran =14.2.0 =heb5dd2a_105
     - libgfortran5 =14.2.0 =h2c44a93_105

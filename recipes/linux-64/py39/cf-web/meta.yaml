@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.22 =h85ef794_0_cpython
+    - python =3.9.22 =h85ef794_1_cpython
   run:
-    - python =3.9.22 =h85ef794_0_cpython
+    - python =3.9.22 =h85ef794_1_cpython
 
     # 9 primary packages :
     - beautifulsoup4 =4.13.3 =pyha770c72_0
@@ -38,7 +38,7 @@ requirements:
     # 193 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
-    - alsa-lib =1.2.13 =hb9d3cd8_0
+    - alsa-lib =1.2.14 =hb9d3cd8_0
     - appdirs =1.4.4 =pyhd8ed1ab_1
     - asgiref =3.8.1 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1

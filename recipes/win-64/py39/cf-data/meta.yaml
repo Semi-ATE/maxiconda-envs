@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.22 =hfdde91d_0_cpython
+    - python =3.9.22 =hfdde91d_1_cpython
   run:
-    - python =3.9.22 =hfdde91d_0_cpython
+    - python =3.9.22 =hfdde91d_1_cpython
 
     # 19 primary packages :
     - beautifulsoup4 =4.13.3 =pyha770c72_0
@@ -99,7 +99,7 @@ requirements:
     - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - contourpy =1.3.0 =py39h2b77a98_2
-    - cpython =3.9.22 =py39hd8ed1ab_0
+    - cpython =3.9.22 =py39hd8ed1ab_1
     - cryptography =44.0.2 =py39hae46aff_0
     - cssselect =1.2.0 =pyhd8ed1ab_1
     - cufflinks-py =0.17.3 =pyhff2d567_1
@@ -374,7 +374,7 @@ requirements:
     - sqlparse =0.5.3 =pyhd8ed1ab_0
     - srsly =2.5.1 =py39ha51f57c_1
     - stack_data =0.6.3 =pyhd8ed1ab_1
-    - starlette =0.46.1 =pyha770c72_0
+    - starlette =0.46.2 =pyh81abbef_0
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_0
     - tbb =2021.13.0 =h62715c5_1
     - textblob =0.15.3 =py_0
@@ -401,8 +401,8 @@ requirements:
     - umap-learn =0.5.7 =py39hcbf5309_1
     - unicodedata2 =16.0.0 =py39ha55e580_0
     - urllib3 =2.4.0 =pyhd8ed1ab_0
-    - uvicorn =0.34.0 =pyh5737063_0
-    - uvicorn-standard =0.34.0 =h5737063_0
+    - uvicorn =0.34.1 =pyh5737063_0
+    - uvicorn-standard =0.34.1 =h5737063_0
     - vc =14.3 =h2b53caa_26
     - vc14_runtime =14.42.34438 =hfd919c2_26
     - visions =0.7.1 =pyhd8ed1ab_0

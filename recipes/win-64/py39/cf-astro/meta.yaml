@@ -20,22 +20,22 @@ build:
 
 requirements:
   build:
-    - python =3.9.22 =hfdde91d_0_cpython
+    - python =3.9.22 =hfdde91d_1_cpython
   run:
-    - python =3.9.22 =hfdde91d_0_cpython
+    - python =3.9.22 =hfdde91d_1_cpython
 
     # 2 primary packages :
     - pyqt =5.15.10 =py39he15501f_1
     - spyder-kernels =3.0.3 =win_pyh7428d3b_0
 
-    # 77 secondary packages :
+    # 78 secondary packages :
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - bzip2 =1.0.8 =h2466b09_7
     - ca-certificates =2025.1.31 =h56e8100_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.2 =pyhd8ed1ab_1
-    - cpython =3.9.22 =py39hd8ed1ab_0
+    - cpython =3.9.22 =py39hd8ed1ab_1
     - debugpy =1.8.14 =py39ha51f57c_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - exceptiongroup =1.2.2 =pyhd8ed1ab_1
@@ -53,6 +53,7 @@ requirements:
     - jupyter_core =5.7.2 =pyh5737063_1
     - krb5 =1.21.3 =hdf4eb48_0
     - libclang13 =20.1.2 =default_ha5278ca_0
+    - libexpat =2.7.0 =he0c23c2_0
     - libffi =3.4.6 =h537db12_1
     - libglib =2.84.1 =h7025463_0
     - libiconv =1.18 =h135ad9c_1

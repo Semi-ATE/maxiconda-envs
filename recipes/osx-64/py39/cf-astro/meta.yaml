@@ -20,15 +20,15 @@ build:
 
 requirements:
   build:
-    - python =3.9.22 =h55ef250_0_cpython
+    - python =3.9.22 =h55ef250_1_cpython
   run:
-    - python =3.9.22 =h55ef250_0_cpython
+    - python =3.9.22 =h55ef250_1_cpython
 
     # 2 primary packages :
     - pyqt =5.15.10 =py39h39ab9d1_1
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
 
-    # 92 secondary packages :
+    # 93 secondary packages :
     - appnope =0.1.4 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - bzip2 =1.0.8 =hfdf4475_7
@@ -56,6 +56,7 @@ requirements:
     - libclang13 =20.1.2 =default_hf2b7afa_0
     - libcxx =20.1.2 =hf95d169_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
+    - libexpat =2.7.0 =h240833e_0
     - libffi =3.4.6 =h281671d_1
     - libglib =2.84.0 =h5c976ab_0
     - libiconv =1.18 =h4b5e92a_1

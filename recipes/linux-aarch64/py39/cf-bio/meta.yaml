@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.22 =h59a44ae_0_cpython
+    - python =3.9.22 =h59a44ae_1_cpython
   run:
-    - python =3.9.22 =h59a44ae_0_cpython
+    - python =3.9.22 =h59a44ae_1_cpython
 
     # 8 primary packages :
     - biopython =1.85 =py39h060674a_1
@@ -36,7 +36,7 @@ requirements:
 
     # 214 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
-    - alsa-lib =1.2.13 =h86ecc28_0
+    - alsa-lib =1.2.14 =h86ecc28_0
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - attr =2.5.1 =h4e544f5_1
     - brotli =1.1.0 =h86ecc28_2

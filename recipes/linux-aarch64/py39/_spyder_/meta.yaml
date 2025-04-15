@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.9.22 =h59a44ae_0_cpython
+    - python =3.9.22 =h59a44ae_1_cpython
   run:
-    - python =3.9.22 =h59a44ae_0_cpython
+    - python =3.9.22 =h59a44ae_1_cpython
 
     # 9 primary packages :
     - cython =3.0.12 =py39h41befb8_0
@@ -41,7 +41,7 @@ requirements:
     - aiohttp =3.11.16 =py39hbebea31_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alabaster =0.7.16 =pyhd8ed1ab_0
-    - alsa-lib =1.2.13 =h86ecc28_0
+    - alsa-lib =1.2.14 =h86ecc28_0
     - arrow =1.3.0 =pyhd8ed1ab_1
     - astroid =3.3.9 =py39h4420490_0
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -75,7 +75,7 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_1
     - contourpy =1.3.0 =py39hbd2ca3f_2
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
-    - cpython =3.9.22 =py39hd8ed1ab_0
+    - cpython =3.9.22 =py39hd8ed1ab_1
     - cryptography =44.0.2 =py39h11f9b69_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =hf6b2984_7
