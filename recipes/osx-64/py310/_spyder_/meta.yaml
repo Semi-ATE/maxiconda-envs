@@ -53,7 +53,7 @@ requirements:
     - babel =2.17.0 =pyhd8ed1ab_0
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhd8ed1ab_1
-    - beautifulsoup4 =4.13.3 =pyha770c72_0
+    - beautifulsoup4 =4.13.4 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =25.1.0 =pyha5154f8_0
     - bleach =6.2.0 =pyh29332c3_4
@@ -82,7 +82,7 @@ requirements:
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.2.18 =pyhd8ed1ab_0
     - diff-match-patch =20241021 =pyhd8ed1ab_1
-    - dill =0.3.9 =pyhd8ed1ab_1
+    - dill =0.4.0 =pyhd8ed1ab_0
     - docstring-to-markdown =0.16 =pyh29332c3_1
     - docutils =0.21.2 =pyhd8ed1ab_1
     - exceptiongroup =1.2.2 =pyhd8ed1ab_1
@@ -135,7 +135,7 @@ requirements:
     - libcblas =3.9.0 =31_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =20.1.2 =default_hf2b7afa_0
-    - libcxx =20.1.2 =hf95d169_0
+    - libcxx =20.1.3 =hf95d169_0
     - libdeflate =1.23 =he65b83e_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libexpat =2.7.0 =h240833e_0
@@ -149,7 +149,7 @@ requirements:
     - libjpeg-turbo =3.0.0 =h0dc2134_1
     - liblapack =3.9.0 =31_h236ab99_openblas
     - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm20 =20.1.2 =hc29ff6c_0
+    - libllvm20 =20.1.3 =h29c3a6c_0
     - liblzma =5.8.1 =hd471939_0
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =hfdf4475_0

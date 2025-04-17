@@ -25,7 +25,7 @@ requirements:
     - python =3.9.22 =h55ef250_1_cpython
 
     # 20 primary packages :
-    - beautifulsoup4 =4.13.3 =pyha770c72_0
+    - beautifulsoup4 =4.13.4 =pyha770c72_0
     - bokeh =3.4.2 =pyhd8ed1ab_0
     - lightgbm =4.6.0 =cpu_py_1
     - matplotlib =3.9.4 =py39h6e9494a_0
@@ -115,7 +115,7 @@ requirements:
     - cymem =2.0.11 =py39hdf37715_0
     - cyrus-sasl =2.1.27 =hf9bab2b_7
     - cython-blis =1.0.1 =py39hf92a157_0
-    - databricks-sdk =0.49.0 =pyhd8ed1ab_0
+    - databricks-sdk =0.50.0 =pyhd8ed1ab_0
     - datefinder =0.7.3 =pyhd8ed1ab_1
     - debugpy =1.8.14 =py39hdf37715_0
     - decorator =5.2.1 =pyhd8ed1ab_0
@@ -225,7 +225,7 @@ requirements:
     - libclang13 =20.1.2 =default_hf2b7afa_0
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.13.0 =h5dec5d8_0
-    - libcxx =20.1.2 =hf95d169_0
+    - libcxx =20.1.3 =hf95d169_0
     - libdeflate =1.23 =he65b83e_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -248,7 +248,7 @@ requirements:
     - liblightgbm =4.6.0 =cpu_h458a52c_1
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm20 =20.1.2 =hc29ff6c_0
+    - libllvm20 =20.1.3 =h29c3a6c_0
     - liblzma =5.8.1 =hd471939_0
     - libnghttp2 =1.64.0 =hc7306c3_0
     - libntlm =1.8 =h6e16a3a_0
@@ -319,9 +319,9 @@ requirements:
     - openjpeg =2.5.3 =h7fd6d84_0
     - openldap =2.6.9 =hd8a590d_0
     - openssl =3.5.0 =hc426f3f_0
-    - opentelemetry-api =1.32.0 =pyhd8ed1ab_0
-    - opentelemetry-sdk =1.32.0 =pyhd8ed1ab_0
-    - opentelemetry-semantic-conventions =0.53b0 =pyh3cfb1c2_0
+    - opentelemetry-api =1.32.1 =pyhd8ed1ab_0
+    - opentelemetry-sdk =1.32.1 =pyhd8ed1ab_0
+    - opentelemetry-semantic-conventions =0.53b1 =pyh3cfb1c2_0
     - optree =0.15.0 =py39ha3ffea8_0
     - orc =2.1.1 =h82caab2_1
     - packaging =24.2 =pyhd8ed1ab_2
@@ -400,7 +400,7 @@ requirements:
     - retrying =1.3.4 =pyhd8ed1ab_0
     - rich =14.0.0 =pyh29332c3_0
     - rich-toolkit =0.11.3 =pyh29332c3_0
-    - rsa =4.9 =pyhd8ed1ab_1
+    - rsa =4.9.1 =pyhd8ed1ab_0
     - seaborn-base =0.13.2 =pyhd8ed1ab_3
     - service-identity =24.2.0 =pyha770c72_1
     - service_identity =24.2.0 =hd8ed1ab_1

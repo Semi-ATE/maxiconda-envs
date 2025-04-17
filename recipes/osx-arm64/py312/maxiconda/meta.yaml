@@ -27,7 +27,7 @@ requirements:
     # 37 primary packages :
     - aiohttp =3.11.16 =py312h998013c_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
-    - beautifulsoup4 =4.13.3 =pyha770c72_0
+    - beautifulsoup4 =4.13.4 =pyha770c72_0
     - cython =3.0.12 =py312h02233ea_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
     - hypothesis =6.131.0 =pyha770c72_0
@@ -187,8 +187,8 @@ requirements:
     - libclang-cpp20.1 =20.1.2 =default_hf90f093_0
     - libclang13 =20.1.2 =default_h81d93ff_0
     - libcurl =8.13.0 =h73640d1_0
-    - libcxx =20.1.2 =ha82da77_0
-    - libcxx-devel =20.1.2 =h6dc3340_0
+    - libcxx =20.1.3 =ha82da77_0
+    - libcxx-devel =20.1.3 =h6dc3340_0
     - libdeflate =1.23 =hec38601_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libev =4.33 =h93a5062_2
@@ -348,7 +348,7 @@ requirements:
     - r-ggplot2 =3.5.2 =r44hc72bb7e_0
     - r-gistr =0.9.0 =r44hc72bb7e_3
     - r-glmnet =4.1_8 =r44ha0027a1_1
-    - r-globals =0.16.3 =r44hc72bb7e_1
+    - r-globals =0.17.0 =r44hc72bb7e_0
     - r-glue =1.8.0 =r44h0d9a900_0
     - r-googledrive =2.1.1 =r44hc72bb7e_2
     - r-googlesheets4 =1.1.1 =r44h785f33e_2
