@@ -62,19 +62,19 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =25.3.0 =pyh71513ae_0
     - automat =25.4.16 =pyhd8ed1ab_0
-    - aws-c-auth =0.8.7 =he59c91b_1
-    - aws-c-cal =0.8.7 =h91d212f_1
-    - aws-c-common =0.12.1 =h6e16a3a_0
-    - aws-c-compression =0.3.1 =h9988e47_3
-    - aws-c-event-stream =0.5.4 =h8941ec8_3
-    - aws-c-http =0.9.5 =h10cf2d7_0
-    - aws-c-io =0.17.0 =h61e5591_8
-    - aws-c-mqtt =0.12.2 =h26cd796_3
-    - aws-c-s3 =0.7.13 =h0a7a62b_3
-    - aws-c-sdkutils =0.2.3 =h9988e47_3
-    - aws-checksums =0.2.3 =h9988e47_3
-    - aws-crt-cpp =0.31.1 =h8ec4a44_1
-    - aws-sdk-cpp =1.11.510 =h6101e66_4
+    - aws-c-auth =0.9.0 =h2653064_2
+    - aws-c-cal =0.8.9 =h5d1f64b_0
+    - aws-c-common =0.12.2 =h6e16a3a_0
+    - aws-c-compression =0.3.1 =h6021610_4
+    - aws-c-event-stream =0.5.4 =h4749c10_5
+    - aws-c-http =0.9.5 =hb8f039b_2
+    - aws-c-io =0.18.0 =hff93165_1
+    - aws-c-mqtt =0.12.3 =h9dfa1c6_2
+    - aws-c-s3 =0.7.15 =hfa3ac40_1
+    - aws-c-sdkutils =0.2.3 =h6021610_4
+    - aws-checksums =0.2.5 =h6021610_1
+    - aws-crt-cpp =0.32.4 =h1a3af0f_0
+    - aws-sdk-cpp =1.11.510 =h62eccf9_5
     - azure-core-cpp =1.14.0 =h9a36307_0
     - azure-identity-cpp =1.10.0 =ha4e2ba9_0
     - azure-storage-blobs-cpp =12.13.0 =h3d2f5f1_1
@@ -211,10 +211,10 @@ requirements:
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hb486fe8_0
     - libabseil =20250127.1 =cxx17_h0e468a2_0
-    - libarrow =19.0.1 =hf1fce67_7_cpu
-    - libarrow-acero =19.0.1 =hdc53af8_7_cpu
-    - libarrow-dataset =19.0.1 =hdc53af8_7_cpu
-    - libarrow-substrait =19.0.1 =ha37b807_7_cpu
+    - libarrow =19.0.1 =h4f912f0_8_cpu
+    - libarrow-acero =19.0.1 =hdc53af8_8_cpu
+    - libarrow-dataset =19.0.1 =hdc53af8_8_cpu
+    - libarrow-substrait =19.0.1 =ha37b807_8_cpu
     - libblas =3.9.0 =20_osx64_mkl
     - libboost =1.86.0 =hf0da243_3
     - libbrotlicommon =1.1.0 =h00291cd_2
@@ -256,7 +256,7 @@ requirements:
     - libopentelemetry-cpp =1.20.0 =h30c661f_0
     - libopentelemetry-cpp-headers =1.20.0 =h694c41f_0
     - libopus =1.5.2 =he3325bb_0
-    - libparquet =19.0.1 =h283e888_7_cpu
+    - libparquet =19.0.1 =h283e888_8_cpu
     - libpng =1.6.47 =h3c4a55f_0
     - libpq =17.4 =h9c5cfc2_1
     - libprotobuf =5.29.3 =h1c7185b_0
@@ -283,7 +283,7 @@ requirements:
     - lz4-c =1.10.0 =h240833e_1
     - mako =1.3.10 =pyhd8ed1ab_0
     - marisa-trie =1.2.1 =py39hdf37715_0
-    - markdown =3.6 =pyhd8ed1ab_0
+    - markdown =3.8 =pyhd8ed1ab_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_1
     - markupsafe =3.0.2 =py39hd18e689_1
     - matplotlib-base =3.9.4 =py39hda06d36_0
@@ -299,7 +299,7 @@ requirements:
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
     - mpmath =1.3.0 =pyhd8ed1ab_1
-    - multidict =6.3.2 =py39h781ac47_0
+    - multidict =6.4.3 =py39h781ac47_0
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.10 =py39ha92e968_2
@@ -469,7 +469,7 @@ requirements:
     - xorg-libxdmcp =1.1.5 =h00291cd_0
     - xyzservices =2025.1.0 =pyhd8ed1ab_0
     - yaml =0.2.5 =h0d85af4_2
-    - yarl =1.18.3 =py39hd18e689_1
+    - yarl =1.20.0 =py39hd18e689_0
     - yellowbrick =1.5 =pyhd8ed1ab_1
     - zeromq =4.3.5 =h7130eaa_7
     - zipp =3.21.0 =pyhd8ed1ab_1
