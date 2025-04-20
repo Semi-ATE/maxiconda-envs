@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.32 =py38h2019614_0
     - twisted =24.7.0 =py38h2019614_0
 
-    # 199 secondary packages :
+    # 200 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.14 =hb9d3cd8_0
@@ -80,8 +80,8 @@ requirements:
     - glib-tools =2.84.1 =h4833e2c_0
     - graphite2 =1.3.13 =h59595ed_1003
     - greenlet =3.0.3 =py38h17151c0_0
-    - gst-plugins-base =1.24.7 =h0a52356_0
-    - gstreamer =1.24.7 =hf3bb09a_0
+    - gst-plugins-base =1.24.11 =h651a532_0
+    - gstreamer =1.24.11 =hc37bda9_0
     - h2 =4.1.0 =pyhd8ed1ab_0
     - harfbuzz =11.1.0 =h3beb420_0
     - hpack =4.0.0 =pyh9f0ad1d_0
@@ -161,7 +161,7 @@ requirements:
     - nss =3.110 =h159eef7_0
     - openldap =2.6.9 =he970967_0
     - openssl =3.5.0 =h7b32b05_0
-    - packaging =24.2 =pyhd8ed1ab_2
+    - packaging =25.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pcre2 =10.44 =hba22ea6_2
     - pexpect =4.9.0 =pyhd8ed1ab_0
@@ -225,6 +225,7 @@ requirements:
     - xorg-libxext =1.3.6 =hb9d3cd8_0
     - xorg-libxfixes =6.0.1 =hb9d3cd8_0
     - xorg-libxrender =0.9.12 =hb9d3cd8_0
+    - xorg-libxshmfence =1.3.3 =hb9d3cd8_0
     - xorg-libxxf86vm =1.1.6 =hb9d3cd8_0
     - xz =5.8.1 =hbcc6ac9_0
     - xz-gpl-tools =5.8.1 =hbcc6ac9_0

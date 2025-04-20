@@ -97,8 +97,8 @@ requirements:
     - glib-tools =2.84.0 =h1dc7a0c_0
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.1.5 =py310h805dbd7_3
-    - gst-plugins-base =1.24.7 =hb49d354_0
-    - gstreamer =1.24.7 =hc3f5269_0
+    - gst-plugins-base =1.24.11 =h3c5c1d0_0
+    - gstreamer =1.24.11 =hfe24232_0
     - h2 =4.2.0 =pyhd8ed1ab_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
@@ -197,7 +197,7 @@ requirements:
     - openjpeg =2.5.3 =h8a3d83b_0
     - openldap =2.6.9 =hbe55e7a_0
     - openssl =3.5.0 =h81ee809_0
-    - packaging =24.2 =pyhd8ed1ab_2
+    - packaging =25.0 =pyhd8ed1ab_0
     - pandoc =3.6.4 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_1
@@ -271,7 +271,7 @@ requirements:
     - rpds-py =0.24.0 =py310h31b3829_0
     - rtree =1.4.0 =pyh11ca60a_1
     - setuptools =78.1.0 =pyhff2d567_0
-    - sip =6.8.6 =py310h853098b_2
+    - sip =6.9.1 =py310h853098b_0
     - six =1.17.0 =pyhd8ed1ab_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1

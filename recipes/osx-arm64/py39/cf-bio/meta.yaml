@@ -79,8 +79,8 @@ requirements:
     - greenlet =3.2.0 =py39h941272d_0
     - griddataformats =1.0.2 =pyhd8ed1ab_1
     - gsd =3.4.2 =py39hf3bc14e_0
-    - gst-plugins-base =1.24.7 =hb49d354_0
-    - gstreamer =1.24.7 =hc3f5269_0
+    - gst-plugins-base =1.24.11 =h3c5c1d0_0
+    - gstreamer =1.24.11 =hfe24232_0
     - h5py =3.13.0 =nompi_py39h9feac5e_100
     - hdf4 =4.2.15 =h2ee6834_7
     - hdf5 =1.14.3 =nompi_ha698983_109
@@ -165,7 +165,7 @@ requirements:
     - openjpeg =2.5.3 =h8a3d83b_0
     - openldap =2.6.9 =hbe55e7a_0
     - openssl =3.5.0 =h81ee809_0
-    - packaging =24.2 =pyhd8ed1ab_2
+    - packaging =25.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_1
     - patsy =1.0.1 =pyhd8ed1ab_1
     - pcre2 =10.44 =h297a79d_2
@@ -203,7 +203,7 @@ requirements:
     - seaborn =0.13.2 =hd8ed1ab_3
     - seaborn-base =0.13.2 =pyhd8ed1ab_3
     - setuptools =78.1.0 =pyhff2d567_0
-    - sip =6.8.6 =py39h941272d_2
+    - sip =6.9.1 =py39h941272d_0
     - six =1.17.0 =pyhd8ed1ab_0
     - snappy =1.2.1 =h98b9ce2_1
     - sqlalchemy =2.0.40 =py39hf3bc14e_0
