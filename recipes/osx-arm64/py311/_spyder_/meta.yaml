@@ -27,7 +27,7 @@ requirements:
     # 9 primary packages :
     - cython =3.0.12 =py311h71112e5_0
     - matplotlib =3.10.1 =py311ha1ab1f8_0
-    - numpy =2.2.4 =py311h762c074_0
+    - numpy =2.2.5 =py311h762c074_0
     - pandas =2.2.3 =py311hca32420_3
     - pyqt =5.15.10 =py311h2146069_1
     - pyqtwebengine =5.15.10 =py311h888a3b4_1
@@ -270,7 +270,7 @@ requirements:
     - rope =1.13.0 =pyhd8ed1ab_1
     - rpds-py =0.24.0 =py311hc9d6b66_0
     - rtree =1.4.0 =pyh11ca60a_1
-    - setuptools =78.1.0 =pyhff2d567_0
+    - setuptools =78.1.1 =pyhff2d567_0
     - sip =6.9.1 =py311h155a34a_0
     - six =1.17.0 =pyhd8ed1ab_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
