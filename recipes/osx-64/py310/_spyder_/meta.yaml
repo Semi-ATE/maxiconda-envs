@@ -37,7 +37,7 @@ requirements:
 
     # 285 secondary packages :
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
-    - aiohttp =3.11.16 =py310h8e2f543_0
+    - aiohttp =3.11.18 =py310h8e2f543_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - applaunchservices =0.3.0 =pyh534df25_4
@@ -62,7 +62,7 @@ requirements:
     - brotli-bin =1.1.0 =h00291cd_2
     - brotli-python =1.1.0 =py310h53e7c6a_2
     - bzip2 =1.0.8 =hfdf4475_7
-    - ca-certificates =2025.1.31 =h8857fd0_0
+    - ca-certificates =2025.1.31 =hbd8a1cb_1
     - certifi =2025.1.31 =pyhd8ed1ab_0
     - cffi =1.17.1 =py310hfce808e_0
     - chardet =5.2.0 =pyhd8ed1ab_3
@@ -127,7 +127,7 @@ requirements:
     - kiwisolver =1.4.7 =py310hfa8da69_0
     - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.17 =h72f5680_0
-    - lerc =4.0.0 =hb486fe8_0
+    - lerc =4.0.0 =hcca01a6_1
     - libblas =3.9.0 =31_h7f60823_openblas
     - libbrotlicommon =1.1.0 =h00291cd_2
     - libbrotlidec =1.1.0 =h00291cd_2
@@ -136,7 +136,7 @@ requirements:
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =20.1.3 =default_h9644bed_0
     - libcxx =20.1.3 =hf95d169_0
-    - libdeflate =1.23 =he65b83e_0
+    - libdeflate =1.23 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libexpat =2.7.0 =h240833e_0
     - libffi =3.4.6 =h281671d_1
@@ -146,7 +146,7 @@ requirements:
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.23.1 =h27064b9_0
     - libintl-devel =0.23.1 =h27064b9_0
-    - libjpeg-turbo =3.0.0 =h0dc2134_1
+    - libjpeg-turbo =3.1.0 =h6e16a3a_0
     - liblapack =3.9.0 =31_h236ab99_openblas
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm20 =20.1.3 =h29c3a6c_0
@@ -247,7 +247,7 @@ requirements:
     - python-slugify =8.0.4 =pyhd8ed1ab_1
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python.app =1.4 =py310h837254d_4
-    - python_abi =3.10 =6_cp310
+    - python_abi =3.10 =7_cp310
     - pytoolconfig =1.2.5 =pyhd8ed1ab_1
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyuca =1.2 =pyhd8ed1ab_2
@@ -270,7 +270,7 @@ requirements:
     - rope =1.13.0 =pyhd8ed1ab_1
     - rpds-py =0.24.0 =py310h40a894c_0
     - rtree =1.4.0 =pyh11ca60a_1
-    - setuptools =78.1.1 =pyhff2d567_0
+    - setuptools =79.0.0 =pyhff2d567_0
     - sip =6.8.6 =py310h6954a95_2
     - six =1.17.0 =pyhd8ed1ab_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0

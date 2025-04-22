@@ -41,7 +41,7 @@ requirements:
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - attr =2.5.1 =h166bdaf_1
     - bzip2 =1.0.8 =h4bc722e_7
-    - ca-certificates =2025.1.31 =hbcca054_0
+    - ca-certificates =2025.1.31 =hbd8a1cb_1
     - cairo =1.18.4 =h3394656_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_1
@@ -109,7 +109,7 @@ requirements:
     - libgomp =14.2.0 =h767d61c_2
     - libgpg-error =1.54 =hbd13f7d_0
     - libiconv =1.18 =h4ce23a2_1
-    - libjpeg-turbo =3.0.0 =hd590300_1
+    - libjpeg-turbo =3.1.0 =hb9d3cd8_0
     - liblapack =3.9.0 =31_h7ac8fdf_openblas
     - libllvm20 =20.1.3 =he9d0ab4_0
     - liblzma =5.8.1 =hb9d3cd8_0
@@ -166,14 +166,14 @@ requirements:
     - pyqt5-sip =12.13.0 =py39hf88036b_1
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
     - python-tzdata =2025.2 =pyhd8ed1ab_0
-    - python_abi =3.9 =6_cp39
+    - python_abi =3.9 =7_cp39
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyvisa =1.14.1 =pyhd8ed1ab_1
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.4.0 =py39h4e4fb57_0
     - qt-main =5.15.15 =h993ce98_3
     - readline =8.2 =h8c095d6_2
-    - setuptools =78.1.1 =pyhff2d567_0
+    - setuptools =79.0.0 =pyhff2d567_0
     - sip =6.8.6 =py39hf88036b_2
     - six =1.17.0 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1

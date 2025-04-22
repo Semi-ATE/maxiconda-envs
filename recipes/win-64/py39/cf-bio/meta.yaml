@@ -43,7 +43,7 @@ requirements:
     - brotli =1.1.0 =h2466b09_2
     - brotli-bin =1.1.0 =h2466b09_2
     - bzip2 =1.0.8 =h2466b09_7
-    - ca-certificates =2025.1.31 =h56e8100_0
+    - ca-certificates =2025.1.31 =h4c7d964_1
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h5782bbf_0
@@ -100,7 +100,7 @@ requirements:
     - kiwisolver =1.4.7 =py39h2b77a98_0
     - krb5 =1.21.3 =hdf4eb48_0
     - lcms2 =2.17 =hbcf6048_0
-    - lerc =4.0.0 =h63175ca_0
+    - lerc =4.0.0 =h6470a55_1
     - libaec =1.1.3 =h63175ca_0
     - libblas =3.9.0 =31_h641d27c_mkl
     - libboost =1.86.0 =hb0986bb_3
@@ -111,7 +111,7 @@ requirements:
     - libcblas =3.9.0 =31_h5e41251_mkl
     - libclang13 =20.1.3 =default_h6e92b77_0
     - libcurl =8.13.0 =h88aaa65_0
-    - libdeflate =1.23 =h9062f6e_0
+    - libdeflate =1.23 =h76ddb4d_0
     - libexpat =2.7.0 =he0c23c2_0
     - libffi =3.4.6 =h537db12_1
     - libgcc =14.2.0 =h1383e82_2
@@ -121,7 +121,7 @@ requirements:
     - libiconv =1.18 =h135ad9c_1
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
-    - libjpeg-turbo =3.0.0 =hcfcfb64_1
+    - libjpeg-turbo =3.1.0 =h2466b09_0
     - liblapack =3.9.0 =31_h1aa476e_mkl
     - liblzma =5.8.1 =h2466b09_0
     - libnetcdf =4.9.2 =nompi_h008f77d_116
@@ -178,7 +178,7 @@ requirements:
     - pyside6 =6.9.0 =py39h5cc861e_0
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
     - python-tzdata =2025.2 =pyhd8ed1ab_0
-    - python_abi =3.9 =6_cp39
+    - python_abi =3.9 =7_cp39
     - pytng =0.3.3 =py39h648f146_1
     - pytz =2025.2 =pyhd8ed1ab_0
     - pywin32 =307 =py39ha51f57c_3
@@ -191,7 +191,7 @@ requirements:
     - scikit-learn =1.6.1 =py39hdd013cc_0
     - seaborn =0.13.2 =hd8ed1ab_3
     - seaborn-base =0.13.2 =pyhd8ed1ab_3
-    - setuptools =78.1.1 =pyhff2d567_0
+    - setuptools =79.0.0 =pyhff2d567_0
     - sip =6.8.6 =py39ha51f57c_2
     - six =1.17.0 =pyhd8ed1ab_0
     - snappy =1.2.1 =h500f7fa_1

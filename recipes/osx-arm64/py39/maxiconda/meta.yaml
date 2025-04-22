@@ -25,7 +25,7 @@ requirements:
     - python =3.9.22 =hdec7a8b_1_cpython
 
     # 37 primary packages :
-    - aiohttp =3.11.16 =py39hefdd603_0
+    - aiohttp =3.11.18 =py39hefdd603_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.13.4 =pyha770c72_0
     - cython =3.0.12 =py39h1d5d4fa_0
@@ -86,7 +86,7 @@ requirements:
     - bwidget =1.10.1 =hce30654_0
     - bzip2 =1.0.8 =h99b78c6_7
     - c-ares =1.34.5 =h5505292_0
-    - ca-certificates =2025.1.31 =hf0a4a13_0
+    - ca-certificates =2025.1.31 =hbd8a1cb_1
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h6a3b0d2_0
@@ -177,7 +177,7 @@ requirements:
     - krb5 =1.21.3 =h237132a_0
     - lcms2 =2.17 =h7eeda09_0
     - ld64_osx-arm64 =951.9 =hcfee506_6
-    - lerc =4.0.0 =h9a09cb3_0
+    - lerc =4.0.0 =hd64df32_1
     - libasprintf =0.23.1 =h493aca8_0
     - libblas =3.9.0 =31_h10e41b3_openblas
     - libbrotlicommon =1.1.0 =hd74edd7_2
@@ -190,7 +190,7 @@ requirements:
     - libcurl =8.13.0 =h73640d1_0
     - libcxx =20.1.3 =ha82da77_0
     - libcxx-devel =20.1.3 =h6dc3340_0
-    - libdeflate =1.23 =hec38601_0
+    - libdeflate =1.23 =h5773f1b_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libev =4.33 =h93a5062_2
     - libexpat =2.7.0 =h286801f_0
@@ -203,7 +203,7 @@ requirements:
     - libiconv =1.18 =hfe07756_1
     - libintl =0.23.1 =h493aca8_0
     - libintl-devel =0.23.1 =h493aca8_0
-    - libjpeg-turbo =3.0.0 =hb547adb_1
+    - libjpeg-turbo =3.1.0 =h5505292_0
     - liblapack =3.9.0 =31_hc9a63f6_openblas
     - libllvm14 =14.0.6 =hd1a9a77_4
     - libllvm17 =17.0.6 =hc4b4ae8_3
@@ -291,7 +291,7 @@ requirements:
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
-    - python_abi =3.9 =6_cp39
+    - python_abi =3.9 =7_cp39
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.4.0 =py39h80d5f2a_0
@@ -488,7 +488,7 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-aarch64-apple-darwin =1.86.0 =hf6ec828_0
     - send2trash =1.8.3 =pyh31c8845_1
-    - setuptools =78.1.1 =pyhff2d567_0
+    - setuptools =79.0.0 =pyhff2d567_0
     - sigtool =0.1.3 =h44b9a77_0
     - sip =6.9.1 =py39h941272d_0
     - six =1.17.0 =pyhd8ed1ab_0
