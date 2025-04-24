@@ -32,10 +32,10 @@ requirements:
     - pyqt =5.15.10 =py311h2146069_1
     - pyqtwebengine =5.15.10 =py311h888a3b4_1
     - scipy =1.15.2 =py311h0675101_0
-    - spyder =6.0.5 =hd8ed1ab_1
+    - spyder =6.0.5 =hd8ed1ab_3
     - sympy =1.13.3 =pyh2585a3b_105
 
-    # 285 secondary packages :
+    # 287 secondary packages :
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.11.18 =py311h4921393_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
@@ -88,7 +88,7 @@ requirements:
     - executing =2.1.0 =pyhd8ed1ab_1
     - flake8 =7.1.2 =pyhd8ed1ab_0
     - fonttools =4.57.0 =py311h4921393_0
-    - freetype =2.13.3 =h1d14073_0
+    - freetype =2.13.3 =hce30654_1
     - frozenlist =1.5.0 =py311h4921393_1
     - fzf =0.61.1 =h8842463_0
     - giflib =5.2.2 =h93a5062_0
@@ -118,7 +118,7 @@ requirements:
     - jellyfish =1.1.3 =py311h3ff9189_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - jsonschema =4.23.0 =pyhd8ed1ab_1
-    - jsonschema-specifications =2024.10.1 =pyhd8ed1ab_1
+    - jsonschema-specifications =2025.4.1 =pyh29332c3_0
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.7.2 =pyh31011fe_1
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
@@ -139,6 +139,8 @@ requirements:
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libexpat =2.7.0 =h286801f_0
     - libffi =3.4.6 =h1da3d7d_1
+    - libfreetype =2.13.3 =hce30654_1
+    - libfreetype6 =2.13.3 =h1d14073_1
     - libgfortran =14.2.0 =heb5dd2a_105
     - libgfortran5 =14.2.0 =h2c44a93_105
     - libglib =2.84.0 =hdff4504_0
@@ -159,7 +161,7 @@ requirements:
     - libsodium =1.0.20 =h99b78c6_0
     - libspatialindex =2.1.0 =h57eeb1c_0
     - libsqlite =3.49.1 =h3f77e49_2
-    - libtiff =4.7.0 =h551f018_3
+    - libtiff =4.7.0 =h551f018_4
     - libvorbis =1.3.7 =h9f76cd9_0
     - libwebp =1.5.0 =h1618228_0
     - libwebp-base =1.5.0 =h2471fea_0
@@ -271,7 +273,7 @@ requirements:
     - rpds-py =0.24.0 =py311hc9d6b66_0
     - rtree =1.4.0 =pyh11ca60a_1
     - setuptools =79.0.0 =pyhff2d567_0
-    - sip =6.9.1 =py311h155a34a_0
+    - sip =6.10.0 =py311h155a34a_0
     - six =1.17.0 =pyhd8ed1ab_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
@@ -283,7 +285,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
-    - spyder-base =6.0.5 =osx_pyh1a5313d_1
+    - spyder-base =6.0.5 =osx_pyh1a5313d_3
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.3 =pyhb6d5dde_0

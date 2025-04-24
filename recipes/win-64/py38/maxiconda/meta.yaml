@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 432 secondary packages :
+    # 434 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
     - aiosignal =1.3.1 =pyhd8ed1ab_0
@@ -109,7 +109,7 @@ requirements:
     - executing =2.1.0 =pyhd8ed1ab_0
     - fonttools =4.53.1 =py38h4cb3324_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
-    - freetype =2.13.3 =h0b5ce68_0
+    - freetype =2.13.3 =h57928b3_1
     - frozenlist =1.4.1 =py38h91455d4_0
     - glib =2.84.1 =h3d4babf_0
     - glib-tools =2.84.1 =h4394cf3_0
@@ -159,6 +159,8 @@ requirements:
     - libclang13 =20.1.3 =default_h6e92b77_0
     - libdeflate =1.23 =h76ddb4d_0
     - libffi =3.4.6 =h537db12_1
+    - libfreetype =2.13.3 =h57928b3_1
+    - libfreetype6 =2.13.3 =h0b5ce68_1
     - libglib =2.84.1 =h7025463_0
     - libhwloc =2.11.2 =default_hc8275d1_1000
     - libiconv =1.18 =h135ad9c_1
@@ -172,7 +174,7 @@ requirements:
     - libpng =1.6.47 =had7236b_0
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.49.1 =h67fdade_2
-    - libtiff =4.7.0 =h797046b_3
+    - libtiff =4.7.0 =h797046b_4
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp-base =1.5.0 =h3b0e114_0
     - libxcb =1.16 =h013a479_1

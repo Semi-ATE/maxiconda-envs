@@ -32,10 +32,10 @@ requirements:
     - pyqt =5.15.10 =py311hc765f6a_1
     - pyqtwebengine =5.15.10 =py311hee9461d_1
     - scipy =1.15.2 =py311h0c91ca8_0
-    - spyder =6.0.5 =hd8ed1ab_1
+    - spyder =6.0.5 =hd8ed1ab_3
     - sympy =1.13.3 =pyh2585a3b_105
 
-    # 285 secondary packages :
+    # 287 secondary packages :
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.11.18 =py311ha3cf9ac_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
@@ -88,7 +88,7 @@ requirements:
     - executing =2.1.0 =pyhd8ed1ab_1
     - flake8 =7.1.2 =pyhd8ed1ab_0
     - fonttools =4.57.0 =py311ha3cf9ac_0
-    - freetype =2.13.3 =h40dfd5c_0
+    - freetype =2.13.3 =h694c41f_1
     - frozenlist =1.5.0 =py311ha3cf9ac_1
     - fzf =0.61.1 =he954eb5_0
     - giflib =5.2.2 =h10d778d_0
@@ -118,7 +118,7 @@ requirements:
     - jellyfish =1.1.3 =py311h3b9c2be_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - jsonschema =4.23.0 =pyhd8ed1ab_1
-    - jsonschema-specifications =2024.10.1 =pyhd8ed1ab_1
+    - jsonschema-specifications =2025.4.1 =pyh29332c3_0
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.7.2 =pyh31011fe_1
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
@@ -139,6 +139,8 @@ requirements:
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libexpat =2.7.0 =h240833e_0
     - libffi =3.4.6 =h281671d_1
+    - libfreetype =2.13.3 =h694c41f_1
+    - libfreetype6 =2.13.3 =h40dfd5c_1
     - libgfortran =14.2.0 =hef36b68_105
     - libgfortran5 =14.2.0 =h58528f3_105
     - libglib =2.84.0 =h5c976ab_0
@@ -159,7 +161,7 @@ requirements:
     - libsodium =1.0.20 =hfdf4475_0
     - libspatialindex =2.1.0 =h501a4e1_0
     - libsqlite =3.49.1 =hdb6dae5_2
-    - libtiff =4.7.0 =hb77a491_3
+    - libtiff =4.7.0 =hb77a491_4
     - libvorbis =1.3.7 =h046ec9c_0
     - libwebp =1.5.0 =h2bf92d2_0
     - libwebp-base =1.5.0 =h6cf52b4_0
@@ -283,7 +285,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
-    - spyder-base =6.0.5 =osx_pyh1a5313d_1
+    - spyder-base =6.0.5 =osx_pyh1a5313d_3
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.3 =pyhb6d5dde_0

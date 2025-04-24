@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.13.4 =pyha770c72_0
     - cython =3.0.12 =py312h02233ea_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.131.6 =pyha770c72_0
+    - hypothesis =6.131.7 =pyha770c72_0
     - ipython =9.1.0 =pyhfb0248b_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.1 =py312h1f38498_0
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.3 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 463 secondary packages :
+    # 465 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
@@ -127,7 +127,7 @@ requirements:
     - fonts-conda-forge =1 =0
     - fonttools =4.57.0 =py312h998013c_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
-    - freetype =2.13.3 =h1d14073_0
+    - freetype =2.13.3 =hce30654_1
     - fribidi =1.0.10 =h27ca646_0
     - frozenlist =1.5.0 =py312h998013c_1
     - gfortran_impl_osx-arm64 =13.3.0 =h16b3750_105
@@ -137,7 +137,7 @@ requirements:
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.1.5 =py312h524cf62_3
     - graphite2 =1.3.13 =hebf3989_1003
-    - greenlet =3.2.0 =py312hd8f9ff3_0
+    - greenlet =3.2.1 =py312hd8f9ff3_0
     - gsl =2.7 =h6e638da_0
     - gst-plugins-base =1.24.11 =h3c5c1d0_0
     - gstreamer =1.24.11 =hfe24232_0
@@ -161,7 +161,7 @@ requirements:
     - json5 =0.12.0 =pyhd8ed1ab_0
     - jsonpointer =3.0.0 =py312h81bd7bf_1
     - jsonschema =4.23.0 =pyhd8ed1ab_1
-    - jsonschema-specifications =2024.10.1 =pyhd8ed1ab_1
+    - jsonschema-specifications =2025.4.1 =pyh29332c3_0
     - jsonschema-with-format-nongpl =4.23.0 =hd8ed1ab_1
     - jupyter-lsp =2.2.5 =pyhd8ed1ab_1
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
@@ -194,6 +194,8 @@ requirements:
     - libev =4.33 =h93a5062_2
     - libexpat =2.7.0 =h286801f_0
     - libffi =3.4.6 =h1da3d7d_1
+    - libfreetype =2.13.3 =hce30654_1
+    - libfreetype6 =2.13.3 =h1d14073_1
     - libgettextpo =0.23.1 =h493aca8_0
     - libgfortran =14.2.0 =heb5dd2a_105
     - libgfortran-devel_osx-arm64 =13.3.0 =h5020ebb_105
@@ -217,7 +219,7 @@ requirements:
     - libsodium =1.0.20 =h99b78c6_0
     - libsqlite =3.49.1 =h3f77e49_2
     - libssh2 =1.11.1 =h9cc3647_0
-    - libtiff =4.7.0 =h551f018_3
+    - libtiff =4.7.0 =h551f018_4
     - libuv =1.50.0 =h5505292_0
     - libvorbis =1.3.7 =h9f76cd9_0
     - libwebp-base =1.5.0 =h2471fea_0
@@ -245,7 +247,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h5e97a16_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - notebook =7.4.0 =pyhd8ed1ab_0
+    - notebook =7.4.1 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.36 =h5833ebf_0
     - nss =3.110 =ha3c76ea_0
@@ -310,7 +312,7 @@ requirements:
     - r-caret =6.0_94 =r44h07cda29_2
     - r-cellranger =1.1.0 =r44hc72bb7e_1007
     - r-class =7.3_23 =r44h570997c_0
-    - r-cli =3.6.4 =r44h31118f2_1
+    - r-cli =3.6.5 =r44h31118f2_0
     - r-clipr =0.8.0 =r44hc72bb7e_3
     - r-clock =0.7.3 =r44h31118f2_0
     - r-cluster =2.1.8.1 =r44he0ea626_0
@@ -487,7 +489,7 @@ requirements:
     - send2trash =1.8.3 =pyh31c8845_1
     - setuptools =79.0.0 =pyhff2d567_0
     - sigtool =0.1.3 =h44b9a77_0
-    - sip =6.9.1 =py312hd8f9ff3_0
+    - sip =6.10.0 =py312hd8f9ff3_0
     - six =1.17.0 =pyhd8ed1ab_0
     - sniffio =1.3.1 =pyhd8ed1ab_1
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1

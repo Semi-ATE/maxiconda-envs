@@ -32,10 +32,10 @@ requirements:
     - pyqt =5.15.10 =py312hf7189c5_1
     - pyqtwebengine =5.15.10 =py312ha2f1471_1
     - scipy =1.15.2 =py312hb5459e8_0
-    - spyder =6.0.5 =hd8ed1ab_2
+    - spyder =6.0.5 =hd8ed1ab_3
     - sympy =1.13.3 =pyh2585a3b_105
 
-    # 354 secondary packages :
+    # 355 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.11.18 =py312hcc812fe_0
@@ -91,7 +91,6 @@ requirements:
     - exceptiongroup =1.2.2 =pyhd8ed1ab_1
     - executing =2.1.0 =pyhd8ed1ab_1
     - expat =2.7.0 =h5ad3122_0
-    - fcitx-qt5 =1.2.7 =h4f2ce49_2
     - flake8 =7.1.2 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -101,7 +100,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.57.0 =py312hcc812fe_0
-    - freetype =2.13.3 =he93130f_0
+    - freetype =2.13.3 =h8af1aa0_1
     - frozenlist =1.5.0 =py312hcc812fe_1
     - fzf =0.61.1 =h56f8b8a_0
     - gettext =0.23.1 =h5ad3122_0
@@ -136,7 +135,7 @@ requirements:
     - jellyfish =1.1.3 =py312h8cbf658_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - jsonschema =4.23.0 =pyhd8ed1ab_1
-    - jsonschema-specifications =2024.10.1 =pyhd8ed1ab_1
+    - jsonschema-specifications =2025.4.1 =pyh29332c3_0
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.7.2 =pyh31011fe_1
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
@@ -167,6 +166,8 @@ requirements:
     - libexpat =2.7.0 =h5ad3122_0
     - libffi =3.4.6 =he21f813_1
     - libflac =1.4.3 =h2f0025b_0
+    - libfreetype =2.13.3 =h8af1aa0_1
+    - libfreetype6 =2.13.3 =he93130f_1
     - libgcc =14.2.0 =he277a41_2
     - libgcc-ng =14.2.0 =he9431aa_2
     - libgcrypt-lib =1.11.0 =h86ecc28_2
@@ -201,7 +202,7 @@ requirements:
     - libstdcxx =14.2.0 =h3f4de04_2
     - libstdcxx-ng =14.2.0 =hf1166c9_2
     - libsystemd0 =257.4 =h2bb824b_1
-    - libtiff =4.7.0 =h88f7998_3
+    - libtiff =4.7.0 =h88f7998_4
     - libuuid =2.38.1 =hb4cce97_0
     - libvorbis =1.3.7 =h01db608_0
     - libwebp =1.5.0 =hea90d86_0
@@ -318,7 +319,7 @@ requirements:
     - rtree =1.4.0 =pyh11ca60a_1
     - secretstorage =3.3.3 =py312h8025657_3
     - setuptools =79.0.0 =pyhff2d567_0
-    - sip =6.9.1 =py312h3178705_0
+    - sip =6.10.0 =py312h3178705_0
     - six =1.17.0 =pyhd8ed1ab_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
@@ -330,7 +331,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
-    - spyder-base =6.0.5 =linux_pyh62a8a7d_2
+    - spyder-base =6.0.5 =linux_pyh62a8a7d_3
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.3 =pyhb6d5dde_0

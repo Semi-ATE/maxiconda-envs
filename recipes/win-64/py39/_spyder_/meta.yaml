@@ -33,10 +33,10 @@ requirements:
     - pyqt =5.15.10 =py39he15501f_1
     - pyqtwebengine =5.15.10 =py39h5f1a536_1
     - scipy =1.13.1 =py39h1a10956_0
-    - spyder =6.0.5 =hd8ed1ab_1
+    - spyder =6.0.5 =hd8ed1ab_3
     - sympy =1.13.3 =pyh04b8f61_5
 
-    # 282 secondary packages :
+    # 284 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.11.18 =py39hf73967f_0
@@ -97,7 +97,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.57.0 =py39hf73967f_0
-    - freetype =2.13.3 =h0b5ce68_0
+    - freetype =2.13.3 =h57928b3_1
     - frozenlist =1.5.0 =py39hf73967f_1
     - fzf =0.61.1 =h86e1c39_0
     - glib =2.84.1 =h3d4babf_0
@@ -128,7 +128,7 @@ requirements:
     - jellyfish =1.1.3 =py39h92a245a_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - jsonschema =4.23.0 =pyhd8ed1ab_1
-    - jsonschema-specifications =2024.10.1 =pyhd8ed1ab_1
+    - jsonschema-specifications =2025.4.1 =pyh29332c3_0
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.7.2 =pyh5737063_1
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
@@ -146,6 +146,8 @@ requirements:
     - libdeflate =1.23 =h76ddb4d_0
     - libexpat =2.7.0 =he0c23c2_0
     - libffi =3.4.6 =h537db12_1
+    - libfreetype =2.13.3 =h57928b3_1
+    - libfreetype6 =2.13.3 =h0b5ce68_1
     - libgcc =14.2.0 =h1383e82_2
     - libglib =2.84.1 =h7025463_0
     - libgomp =14.2.0 =h1383e82_2
@@ -161,7 +163,7 @@ requirements:
     - libsodium =1.0.20 =hc70643c_0
     - libspatialindex =2.1.0 =h518811d_0
     - libsqlite =3.49.1 =h67fdade_2
-    - libtiff =4.7.0 =h797046b_3
+    - libtiff =4.7.0 =h797046b_4
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp =1.5.0 =h3b0e114_0
     - libwebp-base =1.5.0 =h3b0e114_0
@@ -276,7 +278,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
-    - spyder-base =6.0.5 =py39hcbf5309_1
+    - spyder-base =6.0.5 =py39hcbf5309_3
     - spyder-kernels =3.0.3 =win_pyh7428d3b_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.3 =pyhb6d5dde_0

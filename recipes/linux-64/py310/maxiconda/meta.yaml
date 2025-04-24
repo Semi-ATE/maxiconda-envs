@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.3.1 =py310ha75aee5_0
     - cython =3.0.12 =py310had8cdd9_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.131.6 =pyha770c72_0
+    - hypothesis =6.131.7 =pyha770c72_0
     - ipython =8.35.0 =pyh907856f_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.1 =py310hff52083_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.3 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 513 secondary packages :
+    # 515 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -126,7 +126,7 @@ requirements:
     - fonts-conda-forge =1 =0
     - fonttools =4.57.0 =py310h89163eb_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
-    - freetype =2.13.3 =h48d6fc4_0
+    - freetype =2.13.3 =ha770c72_1
     - fribidi =1.0.10 =h36c2ea0_0
     - frozenlist =1.5.0 =py310h89163eb_1
     - gcc_impl_linux-64 =14.2.0 =hdb7739f_2
@@ -138,7 +138,7 @@ requirements:
     - gmp =6.3.0 =hac33072_2
     - gmpy2 =2.1.5 =py310he8512ff_3
     - graphite2 =1.3.13 =h59595ed_1003
-    - greenlet =3.2.0 =py310hf71b8c6_0
+    - greenlet =3.2.1 =py310hf71b8c6_0
     - gsl =2.7 =he838d99_0
     - gst-plugins-base =1.24.11 =h651a532_0
     - gstreamer =1.24.11 =hc37bda9_0
@@ -161,7 +161,7 @@ requirements:
     - json5 =0.12.0 =pyhd8ed1ab_0
     - jsonpointer =3.0.0 =py310hff52083_1
     - jsonschema =4.23.0 =pyhd8ed1ab_1
-    - jsonschema-specifications =2024.10.1 =pyhd8ed1ab_1
+    - jsonschema-specifications =2025.4.1 =pyh29332c3_0
     - jsonschema-with-format-nongpl =4.23.0 =hd8ed1ab_1
     - jupyter-lsp =2.2.5 =pyhd8ed1ab_1
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
@@ -201,6 +201,8 @@ requirements:
     - libexpat =2.7.0 =h5888daf_0
     - libffi =3.4.6 =h2dba641_1
     - libflac =1.4.3 =h59595ed_0
+    - libfreetype =2.13.3 =ha770c72_1
+    - libfreetype6 =2.13.3 =h48d6fc4_1
     - libgcc =14.2.0 =h767d61c_2
     - libgcc-devel_linux-64 =14.2.0 =h9c4974d_102
     - libgcc-ng =14.2.0 =h69a702a_2
@@ -240,7 +242,7 @@ requirements:
     - libstdcxx-devel_linux-64 =14.2.0 =h9c4974d_102
     - libstdcxx-ng =14.2.0 =h4852527_2
     - libsystemd0 =257.4 =h4e0b6ca_1
-    - libtiff =4.7.0 =hd9ff511_3
+    - libtiff =4.7.0 =hd9ff511_4
     - libuuid =2.38.1 =h0b41bf4_0
     - libuv =1.50.0 =hb9d3cd8_0
     - libvorbis =1.3.7 =h9c3ff4c_0
@@ -271,7 +273,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - notebook =7.4.0 =pyhd8ed1ab_0
+    - notebook =7.4.1 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.36 =h5888daf_0
     - nss =3.110 =h159eef7_0
@@ -338,7 +340,7 @@ requirements:
     - r-caret =6.0_94 =r44hdb488b9_2
     - r-cellranger =1.1.0 =r44hc72bb7e_1007
     - r-class =7.3_23 =r44h2b5f3a1_0
-    - r-cli =3.6.4 =r44h93ab643_1
+    - r-cli =3.6.5 =r44h93ab643_0
     - r-clipr =0.8.0 =r44hc72bb7e_3
     - r-clock =0.7.3 =r44h93ab643_0
     - r-cluster =2.1.8.1 =r44hb67ce94_0

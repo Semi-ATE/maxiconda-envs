@@ -28,7 +28,7 @@ requirements:
     - pyqt =5.15.10 =py39hfe314c4_1
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
 
-    # 159 secondary packages :
+    # 161 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.14 =h86ecc28_0
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -52,7 +52,7 @@ requirements:
     - fontconfig =2.15.0 =h8dda3cd_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - freetype =2.13.3 =he93130f_0
+    - freetype =2.13.3 =h8af1aa0_1
     - gettext =0.23.1 =h5ad3122_0
     - gettext-tools =0.23.1 =h5ad3122_0
     - glib =2.84.1 =h09e00fb_0
@@ -85,6 +85,8 @@ requirements:
     - libexpat =2.7.0 =h5ad3122_0
     - libffi =3.4.6 =he21f813_1
     - libflac =1.4.3 =h2f0025b_0
+    - libfreetype =2.13.3 =h8af1aa0_1
+    - libfreetype6 =2.13.3 =he93130f_1
     - libgcc =14.2.0 =he277a41_2
     - libgcc-ng =14.2.0 =he9431aa_2
     - libgcrypt-lib =1.11.0 =h86ecc28_2
@@ -155,7 +157,7 @@ requirements:
     - qt-main =5.15.15 =h372b06a_3
     - readline =8.2 =h8382b9d_2
     - setuptools =79.0.0 =pyhff2d567_0
-    - sip =6.9.1 =py39hb25661d_0
+    - sip =6.10.0 =py39hb25661d_0
     - six =1.17.0 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - tk =8.6.13 =h194ca79_0

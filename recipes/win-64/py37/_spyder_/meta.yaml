@@ -36,7 +36,7 @@ requirements:
     - spyder =5.3.3 =py37h03978a9_0
     - sympy =1.10.1 =py37h03978a9_1
 
-    # 244 secondary packages :
+    # 246 secondary packages :
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - arrow =1.2.3 =pyhd8ed1ab_0
     - astroid =2.12.11 =py37h03978a9_0
@@ -76,7 +76,7 @@ requirements:
     - entrypoints =0.4 =pyhd8ed1ab_0
     - flake8 =4.0.1 =pyhd8ed1ab_2
     - fonttools =4.38.0 =py37h51bd9d9_0
-    - freetype =2.13.3 =h0b5ce68_0
+    - freetype =2.13.3 =h57928b3_1
     - gettext =0.22.5 =h5728263_3
     - gettext-tools =0.22.5 =h5a7288d_3
     - glib =2.84.1 =h3d4babf_0
@@ -122,6 +122,8 @@ requirements:
     - libclang13 =15.0.7 =default_hf64faad_5
     - libdeflate =1.14 =hcfcfb64_0
     - libffi =3.4.6 =h537db12_1
+    - libfreetype =2.13.3 =h57928b3_1
+    - libfreetype6 =2.13.3 =h0b5ce68_1
     - libgettextpo =0.22.5 =h5728263_3
     - libgettextpo-devel =0.22.5 =h5728263_3
     - libglib =2.84.1 =h7025463_0

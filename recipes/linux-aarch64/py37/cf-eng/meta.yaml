@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.2 =pyhca7485f_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
-    # 169 secondary packages :
+    # 171 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.14 =h86ecc28_0
     - attr =2.5.1 =h4e544f5_1
@@ -59,7 +59,7 @@ requirements:
     - fontconfig =2.15.0 =h8dda3cd_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - freetype =2.13.3 =he93130f_0
+    - freetype =2.13.3 =h8af1aa0_1
     - gettext =0.23.1 =h5ad3122_0
     - gettext-tools =0.23.1 =h5ad3122_0
     - glib =2.84.1 =h09e00fb_0
@@ -95,6 +95,8 @@ requirements:
     - libexpat =2.7.0 =h5ad3122_0
     - libffi =3.4.6 =he21f813_1
     - libflac =1.4.3 =h2f0025b_0
+    - libfreetype =2.13.3 =h8af1aa0_1
+    - libfreetype6 =2.13.3 =he93130f_1
     - libgcc =14.2.0 =he277a41_2
     - libgcc-ng =14.2.0 =he9431aa_2
     - libgcrypt-lib =1.11.0 =h86ecc28_2

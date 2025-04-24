@@ -35,7 +35,7 @@ requirements:
     - spyder =5.3.3 =py37hd9ded2f_0
     - sympy =1.10.1 =py37hfd236b0_1
 
-    # 311 secondary packages :
+    # 313 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - alsa-lib =1.2.8 =h4e544f5_0
@@ -88,7 +88,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.38.0 =py37h795501a_0
-    - freetype =2.13.3 =he93130f_0
+    - freetype =2.13.3 =h8af1aa0_1
     - gettext =0.23.1 =h5ad3122_0
     - gettext-tools =0.23.1 =h5ad3122_0
     - giflib =5.2.2 =h31becfc_0
@@ -151,6 +151,8 @@ requirements:
     - libexpat =2.7.0 =h5ad3122_0
     - libffi =3.4.6 =he21f813_1
     - libflac =1.4.3 =h2f0025b_0
+    - libfreetype =2.13.3 =h8af1aa0_1
+    - libfreetype6 =2.13.3 =he93130f_1
     - libgcc =14.2.0 =he277a41_2
     - libgcc-ng =14.2.0 =he9431aa_2
     - libgcrypt =1.11.0 =h8af1aa0_2
