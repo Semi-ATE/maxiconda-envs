@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.3.1 =py39h060674a_0
     - cython =3.0.12 =py39h41befb8_0
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.131.8 =pyha770c72_0
+    - hypothesis =6.131.9 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.9.4 =py39ha65689a_0
@@ -142,11 +142,11 @@ requirements:
     - gst-plugins-base =1.24.11 =h83ffb7f_0
     - gstreamer =1.24.11 =h17c303d_0
     - gxx_impl_linux-aarch64 =14.2.0 =h1262d8f_2
-    - h11 =0.14.0 =pyhd8ed1ab_1
+    - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.2.0 =pyhd8ed1ab_0
     - harfbuzz =11.1.0 =h405b6a2_0
     - hpack =4.1.0 =pyhd8ed1ab_0
-    - httpcore =1.0.7 =pyh29332c3_1
+    - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =75.1 =hf9b3779_0
@@ -217,7 +217,7 @@ requirements:
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
     - libgomp =14.2.0 =he277a41_2
-    - libgpg-error =1.54 =h05609ea_0
+    - libgpg-error =1.55 =h5ad3122_0
     - libiconv =1.18 =hc99b53d_1
     - libjpeg-turbo =3.1.0 =h86ecc28_0
     - liblapack =3.9.0 =31_h411afd4_openblas
@@ -238,7 +238,7 @@ requirements:
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.20 =h68df207_0
     - libsqlite =3.49.1 =h5eb1b54_2
-    - libssh2 =1.11.1 =ha41c0db_0
+    - libssh2 =1.11.1 =h18c354c_0
     - libstdcxx =14.2.0 =h3f4de04_2
     - libstdcxx-devel_linux-aarch64 =14.2.0 =h46490cb_102
     - libstdcxx-ng =14.2.0 =hf1166c9_2

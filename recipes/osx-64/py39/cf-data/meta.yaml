@@ -57,19 +57,19 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =25.3.0 =pyh71513ae_0
     - automat =25.4.16 =pyhd8ed1ab_0
-    - aws-c-auth =0.9.0 =h2653064_2
-    - aws-c-cal =0.8.9 =h5d1f64b_0
+    - aws-c-auth =0.9.0 =h22c4921_3
+    - aws-c-cal =0.9.0 =h5d1f64b_0
     - aws-c-common =0.12.2 =h6e16a3a_0
     - aws-c-compression =0.3.1 =h6021610_4
-    - aws-c-event-stream =0.5.4 =h4749c10_5
-    - aws-c-http =0.9.5 =hb8f039b_2
-    - aws-c-io =0.18.0 =hff93165_1
-    - aws-c-mqtt =0.12.3 =h9dfa1c6_2
-    - aws-c-s3 =0.7.15 =hfa3ac40_1
+    - aws-c-event-stream =0.5.4 =h21619eb_7
+    - aws-c-http =0.9.7 =h15ee064_1
+    - aws-c-io =0.18.1 =h8259661_2
+    - aws-c-mqtt =0.12.3 =h152f7e4_3
+    - aws-c-s3 =0.7.15 =h74c288d_2
     - aws-c-sdkutils =0.2.3 =h6021610_4
-    - aws-checksums =0.2.5 =h6021610_1
-    - aws-crt-cpp =0.32.4 =h1a3af0f_0
-    - aws-sdk-cpp =1.11.510 =h62eccf9_5
+    - aws-checksums =0.2.7 =h6021610_0
+    - aws-crt-cpp =0.32.4 =h5c72e20_1
+    - aws-sdk-cpp =1.11.510 =h62eccf9_6
     - azure-core-cpp =1.14.0 =h9a36307_0
     - azure-identity-cpp =1.10.0 =ha4e2ba9_0
     - azure-storage-blobs-cpp =12.13.0 =h3d2f5f1_1
@@ -247,7 +247,7 @@ requirements:
     - librsvg =2.58.4 =h21a6cfa_3
     - libsodium =1.0.20 =hfdf4475_0
     - libsqlite =3.49.1 =hdb6dae5_2
-    - libssh2 =1.11.1 =h3dc7d44_0
+    - libssh2 =1.11.1 =hed3591d_0
     - libthrift =0.21.0 =h75589b3_0
     - libtiff =4.7.0 =hb77a491_4
     - libtorch =2.6.0 =cpu_mkl_hef2e83f_104
@@ -435,7 +435,7 @@ requirements:
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xorg-libxau =1.0.12 =h6e16a3a_0
     - xorg-libxdmcp =1.1.5 =h00291cd_0
-    - xyzservices =2025.1.0 =pyhd8ed1ab_0
+    - xyzservices =2025.4.0 =pyhd8ed1ab_0
     - yaml =0.2.5 =h0d85af4_2
     - yellowbrick =1.5 =pyhd8ed1ab_1
     - zeromq =4.3.5 =h7130eaa_7

@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.3.1 =py310ha8f682b_0
     - cython =3.0.12 =py310h6bd2d47_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.131.8 =pyha770c72_0
+    - hypothesis =6.131.9 =pyha770c72_0
     - ipython =8.35.0 =pyh9ab4c32_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.1 =py310h5588dad_0
@@ -132,11 +132,11 @@ requirements:
     - gst-plugins-base =1.24.11 =h3fe0a9e_0
     - gstreamer =1.24.11 =h233a61a_0
     - gxx_impl_win-64 =14.2.0 =hb5e3787_2
-    - h11 =0.14.0 =pyhd8ed1ab_1
+    - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.2.0 =pyhd8ed1ab_0
     - harfbuzz =11.1.0 =h8796e6f_0
     - hpack =4.1.0 =pyhd8ed1ab_0
-    - httpcore =1.0.7 =pyh29332c3_1
+    - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =75.1 =he0c23c2_0
@@ -197,7 +197,7 @@ requirements:
     - libpng =1.6.47 =had7236b_0
     - libsodium =1.0.20 =hc70643c_0
     - libsqlite =3.49.1 =h67fdade_2
-    - libssh2 =1.11.1 =he619c9f_0
+    - libssh2 =1.11.1 =h9aa295b_0
     - libstdcxx =14.2.0 =h904f734_2
     - libstdcxx-devel_win-64 =14.2.0 =h7c23ffb_102
     - libtiff =4.7.0 =h797046b_4
