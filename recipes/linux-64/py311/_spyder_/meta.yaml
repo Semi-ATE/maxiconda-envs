@@ -33,7 +33,7 @@ requirements:
     - pyqtwebengine =5.15.10 =py311h3e58f26_1
     - scipy =1.15.2 =py311h8f841c2_0
     - spyder =6.0.5 =hd8ed1ab_3
-    - sympy =1.13.3 =pyh2585a3b_105
+    - sympy =1.14.0 =pyh2585a3b_105
 
     # 356 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
@@ -250,7 +250,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_1
     - pathspec =0.12.1 =pyhd8ed1ab_1
-    - pcre2 =10.44 =hba22ea6_2
+    - pcre2 =10.44 =hc749103_2
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.1.0 =py311h1322bbf_0
