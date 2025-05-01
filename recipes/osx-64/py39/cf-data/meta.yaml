@@ -192,10 +192,10 @@ requirements:
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
     - libabseil =20250127.1 =cxx17_h0e468a2_0
-    - libarrow =19.0.1 =h4f912f0_8_cpu
-    - libarrow-acero =19.0.1 =hdc53af8_8_cpu
-    - libarrow-dataset =19.0.1 =hdc53af8_8_cpu
-    - libarrow-substrait =19.0.1 =ha37b807_8_cpu
+    - libarrow =20.0.0 =h4f912f0_0_cpu
+    - libarrow-acero =20.0.0 =hdc53af8_0_cpu
+    - libarrow-dataset =20.0.0 =hdc53af8_0_cpu
+    - libarrow-substrait =20.0.0 =ha37b807_0_cpu
     - libblas =3.9.0 =20_osx64_mkl
     - libboost =1.86.0 =hf0da243_3
     - libbrotlicommon =1.1.0 =h00291cd_2
@@ -206,7 +206,7 @@ requirements:
     - libclang13 =20.1.3 =default_h9644bed_0
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.13.0 =h5dec5d8_0
-    - libcxx =20.1.3 =hf95d169_0
+    - libcxx =20.1.4 =hf95d169_0
     - libdeflate =1.23 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -231,7 +231,7 @@ requirements:
     - liblightgbm =4.6.0 =cpu_h458a52c_1
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm20 =20.1.3 =h29c3a6c_0
+    - libllvm20 =20.1.4 =h29c3a6c_0
     - liblzma =5.8.1 =hd471939_0
     - libnghttp2 =1.64.0 =hc7306c3_0
     - libntlm =1.8 =h6e16a3a_0
@@ -239,7 +239,7 @@ requirements:
     - libopentelemetry-cpp =1.20.0 =h30c661f_0
     - libopentelemetry-cpp-headers =1.20.0 =h694c41f_0
     - libopus =1.5.2 =he3325bb_0
-    - libparquet =19.0.1 =h283e888_8_cpu
+    - libparquet =20.0.0 =h283e888_0_cpu
     - libpng =1.6.47 =h3c4a55f_0
     - libpq =17.4 =h9c5cfc2_1
     - libprotobuf =5.29.3 =h1c7185b_1
@@ -315,7 +315,7 @@ requirements:
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.1.0 =py39h1fda9f2_0
     - pip =25.1 =pyh8b19718_0
-    - pixman =0.44.2 =h1fd1274_0
+    - pixman =0.46.0 =h1fd1274_0
     - platformdirs =4.3.7 =pyh29332c3_0
     - ply =3.11 =pyhd8ed1ab_3
     - preshed =3.0.9 =py39ha92e968_2
@@ -330,8 +330,8 @@ requirements:
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - py-xgboost =2.1.4 =cpu_pyhf5c67e3_2
-    - pyarrow =19.0.1 =py39h6e9494a_0
-    - pyarrow-core =19.0.1 =py39h6e815d7_0_cpu
+    - pyarrow =20.0.0 =py39h6e9494a_0
+    - pyarrow-core =20.0.0 =py39h6e815d7_0_cpu
     - pyasn1 =0.6.1 =pyhd8ed1ab_2
     - pyasn1-modules =0.4.2 =pyhd8ed1ab_0
     - pybind11 =2.13.6 =pyh1ec8472_2
@@ -346,7 +346,7 @@ requirements:
     - pyldavis =3.4.1 =pyhd8ed1ab_1
     - pynacl =1.5.0 =py39h06d86d0_4
     - pynndescent =0.5.13 =pyhd8ed1ab_1
-    - pyod =2.0.4 =pyhd8ed1ab_0
+    - pyod =2.0.5 =pyhd8ed1ab_0
     - pyopenssl =25.0.0 =pyhd8ed1ab_0
     - pyparsing =3.2.3 =pyhd8ed1ab_1
     - pyqt5-sip =12.13.0 =py39hbe19bdc_1
