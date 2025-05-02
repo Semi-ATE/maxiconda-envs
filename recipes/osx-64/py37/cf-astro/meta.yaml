@@ -40,8 +40,8 @@ requirements:
     - debugpy =1.6.3 =py37hf6dfe07_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - glib =2.84.0 =h915cd9b_0
-    - glib-tools =2.84.0 =hf8faeaf_0
+    - glib =2.84.1 =h489497d_1
+    - glib-tools =2.84.1 =hf8faeaf_1
     - gst-plugins-base =1.24.11 =h09840cc_0
     - gstreamer =1.24.11 =h7d1b200_0
     - icu =75.1 =h120a0e1_0
@@ -52,11 +52,11 @@ requirements:
     - jupyter_core =4.11.1 =py37hf985489_0
     - krb5 =1.21.3 =h37d8d59_0
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =20.1.3 =default_h9644bed_0
+    - libclang13 =20.1.4 =default_h9644bed_0
     - libcxx =20.1.4 =hf95d169_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libffi =3.4.6 =h281671d_1
-    - libglib =2.84.0 =h5c976ab_0
+    - libglib =2.84.1 =h3139dbc_1
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.23.1 =h27064b9_0
     - libintl-devel =0.23.1 =h27064b9_0
@@ -86,7 +86,7 @@ requirements:
     - openssl =3.5.0 =hc426f3f_0
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pcre2 =10.44 =hf733adb_2
+    - pcre2 =10.45 =hf733adb_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pip =24.0 =pyhd8ed1ab_0

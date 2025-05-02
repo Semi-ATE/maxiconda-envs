@@ -93,8 +93,8 @@ requirements:
     - frozenlist =1.4.1 =py38hae2e43d_0
     - fzf =0.61.1 =he954eb5_0
     - giflib =5.2.2 =h10d778d_0
-    - glib =2.84.0 =h915cd9b_0
-    - glib-tools =2.84.0 =hf8faeaf_0
+    - glib =2.84.1 =h489497d_1
+    - glib-tools =2.84.1 =hf8faeaf_1
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.1.5 =py38hdb2c785_1
     - gst-plugins-base =1.24.11 =h09840cc_0
@@ -136,7 +136,7 @@ requirements:
     - libbrotlienc =1.1.0 =h00291cd_2
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =20.1.3 =default_h9644bed_0
+    - libclang13 =20.1.4 =default_h9644bed_0
     - libcxx =20.1.4 =hf95d169_0
     - libdeflate =1.23 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
@@ -145,7 +145,7 @@ requirements:
     - libfreetype6 =2.13.3 =h40dfd5c_1
     - libgfortran =14.2.0 =hef36b68_105
     - libgfortran5 =14.2.0 =h58528f3_105
-    - libglib =2.84.0 =h5c976ab_0
+    - libglib =2.84.1 =h3139dbc_1
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.23.1 =h27064b9_0
     - libintl-devel =0.23.1 =h27064b9_0
@@ -171,7 +171,7 @@ requirements:
     - libxcb =1.17.0 =hf1f96e2_0
     - libxml2 =2.13.7 =h93c44a6_1
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =20.1.3 =ha54dae1_0
+    - llvm-openmp =20.1.4 =ha54dae1_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py38hae2e43d_0
     - matplotlib-base =3.7.3 =py38hcd1b199_0
@@ -206,7 +206,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
-    - pcre2 =10.44 =hf733adb_2
+    - pcre2 =10.45 =hf733adb_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pillow =10.4.0 =py38hf802781_0

@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0.2 =py38ha5227f9_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qtawesome =1.3.1 =pyh9208f05_0
-    - r-base =4.4.3 =h86ec23d_0
+    - r-base =4.4.3 =h6b516d9_1
     - r-essentials =4.4 =r44hd8ed1ab_2005
     - regex =2024.7.24 =py38ha5227f9_0
     - requests =2.32.3 =pyhd8ed1ab_0
@@ -134,8 +134,8 @@ requirements:
     - gettext =0.23.1 =h5ad3122_0
     - gettext-tools =0.23.1 =h5ad3122_0
     - gfortran_impl_linux-aarch64 =14.2.0 =hf71498c_2
-    - glib =2.84.1 =h09e00fb_0
-    - glib-tools =2.84.1 =h78ca943_0
+    - glib =2.84.1 =h5702d23_1
+    - glib-tools =2.84.1 =h78ca943_1
     - gmp =6.3.0 =h0a1ffab_2
     - gmpy2 =2.1.5 =py38h55fd771_1
     - graphite2 =1.3.13 =h2f0025b_1003
@@ -191,8 +191,8 @@ requirements:
     - libbrotlienc =1.1.0 =h86ecc28_2
     - libcap =2.75 =h51d75a7_0
     - libcblas =3.9.0 =20_linuxaarch64_openblas
-    - libclang-cpp20.1 =20.1.3 =default_h7d4303a_0
-    - libclang13 =20.1.3 =default_h9e36cb9_0
+    - libclang-cpp20.1 =20.1.4 =default_h7d4303a_0
+    - libclang13 =20.1.4 =default_h9e36cb9_0
     - libcups =2.3.3 =h405e4a8_4
     - libcurl =8.13.0 =h6702fde_0
     - libdeflate =1.23 =he377734_0
@@ -216,7 +216,7 @@ requirements:
     - libgfortran-ng =14.2.0 =he9431aa_2
     - libgfortran5 =14.2.0 =hb6113d0_2
     - libgl =1.7.0 =hd24410f_2
-    - libglib =2.84.1 =hc486b8e_0
+    - libglib =2.84.1 =hc022ef1_1
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
     - libgomp =14.2.0 =he277a41_2
@@ -289,7 +289,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.3 =h1e6a6fd_1
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pcre2 =10.44 =hf4ec17f_2
+    - pcre2 =10.45 =hf4ec17f_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pillow =10.4.0 =py38h092b5d1_0
@@ -481,7 +481,7 @@ requirements:
     - r-survival =3.8_3 =r44hdd76399_0
     - r-sys =3.4.3 =r44hdd76399_0
     - r-systemfonts =1.2.1 =r44haae91bf_0
-    - r-textshaping =1.0.0 =r44he7a0295_0
+    - r-textshaping =1.0.1 =r44h8f250d8_0
     - r-tibble =3.2.1 =r44hc1cf72c_3
     - r-tidyr =1.3.1 =r44h6170684_1
     - r-tidyselect =1.2.1 =r44hc72bb7e_1
@@ -493,7 +493,7 @@ requirements:
     - r-ttr =0.24.4 =r44hc1cf72c_1
     - r-tzdb =0.5.0 =r44h21d2c02_0
     - r-urltools =1.7.3 =r44h6170684_5
-    - r-utf8 =1.2.4 =r44hc1cf72c_1
+    - r-utf8 =1.2.5 =r44hdd76399_0
     - r-uuid =1.2_1 =r44hc1cf72c_0
     - r-vctrs =0.6.5 =r44h6170684_1
     - r-viridislite =0.4.2 =r44hc72bb7e_2

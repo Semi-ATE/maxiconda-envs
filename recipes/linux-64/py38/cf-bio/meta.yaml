@@ -82,8 +82,8 @@ requirements:
     - gettext =0.23.1 =h5888daf_0
     - gettext-tools =0.23.1 =h5888daf_0
     - glew =2.1.0 =h9c3ff4c_2
-    - glib =2.84.1 =h07242d1_0
-    - glib-tools =2.84.1 =h4833e2c_0
+    - glib =2.84.1 =h6287aef_1
+    - glib-tools =2.84.1 =h4833e2c_1
     - glm =1.0.1 =hdd259ec_0
     - graphite2 =1.3.13 =h59595ed_1003
     - greenlet =3.0.3 =py38h17151c0_0
@@ -128,7 +128,7 @@ requirements:
     - libcap =2.75 =h39aace5_0
     - libcblas =3.9.0 =20_linux64_openblas
     - libclang-cpp19.1 =19.1.7 =default_hb5137d0_2
-    - libclang13 =20.1.3 =default_he06ed0a_0
+    - libclang13 =20.1.4 =default_he06ed0a_0
     - libcups =2.3.3 =h4637d8d_4
     - libcurl =8.13.0 =h332b0f4_0
     - libdeflate =1.23 =h86f0d12_0
@@ -151,7 +151,7 @@ requirements:
     - libgfortran-ng =14.2.0 =h69a702a_2
     - libgfortran5 =14.2.0 =hf1ad2bd_2
     - libgl =1.7.0 =ha4b6fd6_2
-    - libglib =2.84.1 =h2ff4ddf_0
+    - libglib =2.84.1 =h3618099_1
     - libglu =9.0.3 =h03adeef_0
     - libglvnd =1.7.0 =ha4b6fd6_2
     - libglx =1.7.0 =ha4b6fd6_2
@@ -214,7 +214,7 @@ requirements:
     - parso =0.8.4 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0
     - pbr =6.1.0 =pyhd8ed1ab_0
-    - pcre2 =10.44 =hc749103_2
+    - pcre2 =10.45 =hc749103_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pillow =10.4.0 =py38h2bc05a7_0
