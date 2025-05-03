@@ -65,7 +65,7 @@ requirements:
     - certifi =2025.1.31 =pyhd8ed1ab_0
     - cffi =1.17.1 =py311h137bacd_0
     - chardet =5.2.0 =pyhd8ed1ab_3
-    - charset-normalizer =3.4.1 =pyhd8ed1ab_0
+    - charset-normalizer =3.4.2 =pyhd8ed1ab_0
     - click =8.1.8 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -90,7 +90,7 @@ requirements:
     - fonttools =4.57.0 =py311ha3cf9ac_0
     - freetype =2.13.3 =h694c41f_1
     - frozenlist =1.5.0 =py311ha3cf9ac_1
-    - fzf =0.61.1 =he954eb5_0
+    - fzf =0.61.3 =he954eb5_0
     - giflib =5.2.2 =h10d778d_0
     - glib =2.84.1 =h489497d_1
     - glib-tools =2.84.1 =hf8faeaf_1
@@ -110,7 +110,7 @@ requirements:
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.29.5 =pyh57ce528_0
     - ipython =8.36.0 =pyh907856f_0
-    - isort =6.0.1 =pyhd8ed1ab_0
+    - isort =6.0.1 =pyhd8ed1ab_1
     - jaraco.classes =3.4.0 =pyhd8ed1ab_2
     - jaraco.context =6.0.1 =pyhd8ed1ab_0
     - jaraco.functools =4.1.0 =pyhd8ed1ab_0
@@ -145,8 +145,8 @@ requirements:
     - libgfortran5 =14.2.0 =h58528f3_105
     - libglib =2.84.1 =h3139dbc_1
     - libiconv =1.18 =h4b5e92a_1
-    - libintl =0.23.1 =h27064b9_0
-    - libintl-devel =0.23.1 =h27064b9_0
+    - libintl =0.24.1 =h27064b9_0
+    - libintl-devel =0.24.1 =h27064b9_0
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
     - liblapack =3.9.0 =31_h236ab99_openblas
     - libllvm17 =17.0.6 =hbedff68_1
@@ -197,7 +197,7 @@ requirements:
     - numpydoc =1.8.0 =pyhd8ed1ab_1
     - openjpeg =2.5.3 =h7fd6d84_0
     - openldap =2.6.9 =hd8a590d_0
-    - openssl =3.5.0 =hc426f3f_0
+    - openssl =3.5.0 =hc426f3f_1
     - packaging =25.0 =pyh29332c3_1
     - pandoc =3.6.4 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0

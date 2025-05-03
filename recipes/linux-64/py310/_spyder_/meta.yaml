@@ -69,7 +69,7 @@ requirements:
     - certifi =2025.1.31 =pyhd8ed1ab_0
     - cffi =1.17.1 =py310h8deb56e_0
     - chardet =5.2.0 =pyhd8ed1ab_3
-    - charset-normalizer =3.4.1 =pyhd8ed1ab_0
+    - charset-normalizer =3.4.2 =pyhd8ed1ab_0
     - click =8.1.8 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -104,9 +104,9 @@ requirements:
     - fonttools =4.57.0 =py310h89163eb_0
     - freetype =2.13.3 =ha770c72_1
     - frozenlist =1.5.0 =py310h89163eb_1
-    - fzf =0.61.1 =h59e48b9_0
-    - gettext =0.23.1 =h5888daf_0
-    - gettext-tools =0.23.1 =h5888daf_0
+    - fzf =0.61.3 =h59e48b9_0
+    - gettext =0.24.1 =h5888daf_0
+    - gettext-tools =0.24.1 =h5888daf_0
     - giflib =5.2.2 =hd590300_0
     - glib =2.84.1 =h07242d1_0
     - glib-tools =2.84.1 =h4833e2c_0
@@ -128,7 +128,7 @@ requirements:
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.29.5 =pyh3099207_0
     - ipython =8.36.0 =pyh907856f_0
-    - isort =6.0.1 =pyhd8ed1ab_0
+    - isort =6.0.1 =pyhd8ed1ab_1
     - jaraco.classes =3.4.0 =pyhd8ed1ab_2
     - jaraco.context =6.0.1 =pyhd8ed1ab_0
     - jaraco.functools =4.1.0 =pyhd8ed1ab_0
@@ -149,8 +149,8 @@ requirements:
     - lcms2 =2.17 =h717163a_0
     - ld_impl_linux-64 =2.43 =h712a8e2_4
     - lerc =4.0.0 =h0aef613_1
-    - libasprintf =0.23.1 =h8e693c7_0
-    - libasprintf-devel =0.23.1 =h8e693c7_0
+    - libasprintf =0.24.1 =h8e693c7_0
+    - libasprintf-devel =0.24.1 =h8e693c7_0
     - libblas =3.9.0 =31_h59b9bed_openblas
     - libbrotlicommon =1.1.0 =hb9d3cd8_2
     - libbrotlidec =1.1.0 =hb9d3cd8_2
@@ -173,8 +173,8 @@ requirements:
     - libgcc =14.2.0 =h767d61c_2
     - libgcc-ng =14.2.0 =h69a702a_2
     - libgcrypt-lib =1.11.0 =hb9d3cd8_2
-    - libgettextpo =0.23.1 =h5888daf_0
-    - libgettextpo-devel =0.23.1 =h5888daf_0
+    - libgettextpo =0.24.1 =h5888daf_0
+    - libgettextpo-devel =0.24.1 =h5888daf_0
     - libgfortran =14.2.0 =h69a702a_2
     - libgfortran5 =14.2.0 =hf1ad2bd_2
     - libgl =1.7.0 =ha4b6fd6_2
@@ -211,7 +211,7 @@ requirements:
     - libwebp-base =1.5.0 =h851e524_0
     - libxcb =1.17.0 =h8a09558_0
     - libxcrypt =4.4.36 =hd590300_1
-    - libxkbcommon =1.9.0 =h65c71a3_0
+    - libxkbcommon =1.9.1 =h65c71a3_0
     - libxml2 =2.13.7 =h4bc477f_1
     - libxslt =1.1.39 =h76b75d6_0
     - libzlib =1.3.1 =hb9d3cd8_2
@@ -245,7 +245,7 @@ requirements:
     - numpydoc =1.8.0 =pyhd8ed1ab_1
     - openjpeg =2.5.3 =h5fbd93e_0
     - openldap =2.6.9 =he970967_0
-    - openssl =3.5.0 =h7b32b05_0
+    - openssl =3.5.0 =h7b32b05_1
     - packaging =25.0 =pyh29332c3_1
     - pandoc =3.6.4 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0

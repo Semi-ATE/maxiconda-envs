@@ -49,7 +49,7 @@ requirements:
     - ca-certificates =2025.4.26 =hbd8a1cb_0
     - certifi =2025.1.31 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h7f933ea_0
-    - charset-normalizer =3.4.1 =pyhd8ed1ab_0
+    - charset-normalizer =3.4.2 =pyhd8ed1ab_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_1
     - constantly =15.1.0 =py_0
@@ -86,8 +86,8 @@ requirements:
     - libffi =3.4.6 =h1da3d7d_1
     - libglib =2.84.1 =hbec27ea_1
     - libiconv =1.18 =hfe07756_1
-    - libintl =0.23.1 =h493aca8_0
-    - libintl-devel =0.23.1 =h493aca8_0
+    - libintl =0.24.1 =h493aca8_0
+    - libintl-devel =0.24.1 =h493aca8_0
     - libjpeg-turbo =3.1.0 =h5505292_0
     - libllvm17 =17.0.6 =hc4b4ae8_3
     - libllvm20 =20.1.4 =h598bca7_0
@@ -111,7 +111,7 @@ requirements:
     - nspr =4.36 =h5833ebf_0
     - nss =3.110 =ha3c76ea_0
     - openldap =2.6.9 =hbe55e7a_0
-    - openssl =3.5.0 =h81ee809_0
+    - openssl =3.5.0 =h81ee809_1
     - packaging =25.0 =pyh29332c3_1
     - parso =0.8.4 =pyhd8ed1ab_1
     - pcre2 =10.45 =ha881caa_0

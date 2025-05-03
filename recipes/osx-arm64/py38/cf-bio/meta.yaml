@@ -127,8 +127,8 @@ requirements:
     - libgfortran5 =14.2.0 =h2c44a93_105
     - libglib =2.84.1 =hbec27ea_1
     - libiconv =1.18 =hfe07756_1
-    - libintl =0.23.1 =h493aca8_0
-    - libintl-devel =0.23.1 =h493aca8_0
+    - libintl =0.24.1 =h493aca8_0
+    - libintl-devel =0.24.1 =h493aca8_0
     - libjpeg-turbo =3.1.0 =h5505292_0
     - liblapack =3.9.0 =20_osxarm64_openblas
     - libllvm17 =17.0.6 =hc4b4ae8_3
@@ -171,7 +171,7 @@ requirements:
     - nspr =4.36 =h5833ebf_0
     - nss =3.110 =ha3c76ea_0
     - openjpeg =2.5.3 =h8a3d83b_0
-    - openssl =3.5.0 =h81ee809_0
+    - openssl =3.5.0 =h81ee809_1
     - packaging =25.0 =pyh29332c3_1
     - parso =0.8.4 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0

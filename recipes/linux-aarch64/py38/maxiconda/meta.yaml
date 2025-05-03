@@ -131,8 +131,8 @@ requirements:
     - fribidi =1.0.10 =hb9de7d4_0
     - frozenlist =1.4.1 =py38h9579f32_0
     - gcc_impl_linux-aarch64 =14.2.0 =h39ab8d2_2
-    - gettext =0.23.1 =h5ad3122_0
-    - gettext-tools =0.23.1 =h5ad3122_0
+    - gettext =0.24.1 =h5ad3122_0
+    - gettext-tools =0.24.1 =h5ad3122_0
     - gfortran_impl_linux-aarch64 =14.2.0 =hf71498c_2
     - glib =2.84.1 =h5702d23_1
     - glib-tools =2.84.1 =h78ca943_1
@@ -183,8 +183,8 @@ requirements:
     - lcms2 =2.17 =hc88f144_0
     - ld_impl_linux-aarch64 =2.43 =h80caac9_4
     - lerc =4.0.0 =hfdc4d58_1
-    - libasprintf =0.23.1 =h5e0f5ae_0
-    - libasprintf-devel =0.23.1 =h5e0f5ae_0
+    - libasprintf =0.24.1 =h5e0f5ae_0
+    - libasprintf-devel =0.24.1 =h5e0f5ae_0
     - libblas =3.9.0 =20_linuxaarch64_openblas
     - libbrotlicommon =1.1.0 =h86ecc28_2
     - libbrotlidec =1.1.0 =h86ecc28_2
@@ -210,8 +210,8 @@ requirements:
     - libgcc-devel_linux-aarch64 =14.2.0 =h46490cb_102
     - libgcc-ng =14.2.0 =he9431aa_2
     - libgcrypt-lib =1.11.0 =h86ecc28_2
-    - libgettextpo =0.23.1 =h5ad3122_0
-    - libgettextpo-devel =0.23.1 =h5ad3122_0
+    - libgettextpo =0.24.1 =h5ad3122_0
+    - libgettextpo-devel =0.24.1 =h5ad3122_0
     - libgfortran =14.2.0 =he9431aa_2
     - libgfortran-ng =14.2.0 =he9431aa_2
     - libgfortran5 =14.2.0 =hb6113d0_2
@@ -253,7 +253,7 @@ requirements:
     - libwebp-base =1.5.0 =h0886dbf_0
     - libxcb =1.17.0 =h262b8f6_0
     - libxcrypt =4.4.36 =h31becfc_1
-    - libxkbcommon =1.9.0 =hbab7b08_0
+    - libxkbcommon =1.9.1 =hbab7b08_0
     - libxml2 =2.13.7 =he060846_1
     - libzlib =1.3.1 =h86ecc28_2
     - llvmlite =0.41.1 =py38h95a9722_0
@@ -282,7 +282,7 @@ requirements:
     - nss =3.110 =h7e26b49_0
     - openjpeg =2.5.3 =h3f56577_0
     - openldap =2.6.9 =h30c48ee_0
-    - openssl =3.5.0 =hd08dc88_0
+    - openssl =3.5.0 =hd08dc88_1
     - overrides =7.7.0 =pyhd8ed1ab_0
     - packaging =25.0 =pyh29332c3_1
     - pandoc =3.6.4 =h8af1aa0_0
@@ -480,7 +480,7 @@ requirements:
     - r-stringr =1.5.1 =r44h785f33e_1
     - r-survival =3.8_3 =r44hdd76399_0
     - r-sys =3.4.3 =r44hdd76399_0
-    - r-systemfonts =1.2.1 =r44haae91bf_0
+    - r-systemfonts =1.2.3 =r44haae91bf_0
     - r-textshaping =1.0.1 =r44h8f250d8_0
     - r-tibble =3.2.1 =r44hc1cf72c_3
     - r-tidyr =1.3.1 =r44h6170684_1

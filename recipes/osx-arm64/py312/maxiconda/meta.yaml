@@ -92,20 +92,20 @@ requirements:
     - cctools_osx-arm64 =1010.6 =h729f01a_6
     - certifi =2025.1.31 =pyhd8ed1ab_0
     - cffi =1.17.1 =py312h0fad829_0
-    - charset-normalizer =3.4.1 =pyhd8ed1ab_0
-    - clang =20.1.3 =default_hcdeef69_0
-    - clang-20 =20.1.3 =default_h03658f6_0
-    - clang_impl_osx-arm64 =20.1.3 =h90cea14_24
-    - clang_osx-arm64 =20.1.3 =h07b0088_24
-    - clangxx =20.1.3 =default_haca757a_0
-    - clangxx_impl_osx-arm64 =20.1.3 =hd54f55a_24
-    - clangxx_osx-arm64 =20.1.3 =h07b0088_24
+    - charset-normalizer =3.4.2 =pyhd8ed1ab_0
+    - clang =20.1.4 =default_hcdeef69_0
+    - clang-20 =20.1.4 =default_h03658f6_0
+    - clang_impl_osx-arm64 =20.1.4 =h817e305_24
+    - clang_osx-arm64 =20.1.4 =h07b0088_24
+    - clangxx =20.1.4 =default_haca757a_0
+    - clangxx_impl_osx-arm64 =20.1.4 =h1be1cb4_24
+    - clangxx_osx-arm64 =20.1.4 =h07b0088_24
     - click =8.1.8 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.2 =pyhd8ed1ab_1
-    - compiler-rt =20.1.3 =hd2aecb6_0
-    - compiler-rt_osx-arm64 =20.1.3 =h7969c41_0
+    - compiler-rt =20.1.4 =hd2aecb6_0
+    - compiler-rt_osx-arm64 =20.1.4 =h7969c41_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.3.2 =py312hb23fbb9_0
     - cpython =3.12.10 =py312hd8ed1ab_0
@@ -177,15 +177,15 @@ requirements:
     - lcms2 =2.17 =h7eeda09_0
     - ld64_osx-arm64 =951.9 =hcfee506_6
     - lerc =4.0.0 =hd64df32_1
-    - libasprintf =0.23.1 =h493aca8_0
+    - libasprintf =0.24.1 =h493aca8_0
     - libblas =3.9.0 =31_h10e41b3_openblas
     - libbrotlicommon =1.1.0 =hd74edd7_2
     - libbrotlidec =1.1.0 =hd74edd7_2
     - libbrotlienc =1.1.0 =hd74edd7_2
     - libcblas =3.9.0 =31_hb3479ef_openblas
     - libclang-cpp17 =17.0.6 =default_hf90f093_8
-    - libclang-cpp20.1 =20.1.3 =default_h03658f6_0
-    - libclang13 =20.1.3 =default_hee4fbb3_0
+    - libclang-cpp20.1 =20.1.4 =default_h03658f6_0
+    - libclang13 =20.1.4 =default_hee4fbb3_0
     - libcurl =8.13.0 =h73640d1_0
     - libcxx =20.1.4 =ha82da77_0
     - libcxx-devel =20.1.4 =h6dc3340_0
@@ -196,18 +196,18 @@ requirements:
     - libffi =3.4.6 =h1da3d7d_1
     - libfreetype =2.13.3 =hce30654_1
     - libfreetype6 =2.13.3 =h1d14073_1
-    - libgettextpo =0.23.1 =h493aca8_0
+    - libgettextpo =0.24.1 =h493aca8_0
     - libgfortran =5.0.0 =14_2_0_h6c33f7e_103
     - libgfortran-devel_osx-arm64 =13.3.0 =h5020ebb_105
     - libgfortran5 =14.2.0 =h6c33f7e_103
     - libglib =2.84.1 =hbec27ea_1
     - libiconv =1.18 =hfe07756_1
-    - libintl =0.23.1 =h493aca8_0
-    - libintl-devel =0.23.1 =h493aca8_0
+    - libintl =0.24.1 =h493aca8_0
+    - libintl-devel =0.24.1 =h493aca8_0
     - libjpeg-turbo =3.1.0 =h5505292_0
     - liblapack =3.9.0 =31_hc9a63f6_openblas
     - libllvm17 =17.0.6 =hc4b4ae8_3
-    - libllvm20 =20.1.3 =h598bca7_0
+    - libllvm20 =20.1.4 =h598bca7_0
     - liblzma =5.8.1 =h39f12f2_0
     - libnghttp2 =1.64.0 =h6d7220d_0
     - libntlm =1.8 =h5505292_0
@@ -227,8 +227,8 @@ requirements:
     - libxml2 =2.13.7 =h52572c6_1
     - libzlib =1.3.1 =h8359307_2
     - llvm-openmp =20.1.4 =hdb05f8b_0
-    - llvm-tools =20.1.3 =hd2aecb6_0
-    - llvm-tools-20 =20.1.3 =h87a4c7e_0
+    - llvm-tools =20.1.4 =hd2aecb6_0
+    - llvm-tools-20 =20.1.4 =h87a4c7e_0
     - llvmlite =0.44.0 =py312h728bc31_1
     - make =4.4.1 =hc9fafa5_2
     - markupsafe =3.0.2 =py312h998013c_1
@@ -253,7 +253,7 @@ requirements:
     - nss =3.110 =ha3c76ea_0
     - openjpeg =2.5.3 =h8a3d83b_0
     - openldap =2.6.9 =hbe55e7a_0
-    - openssl =3.5.0 =h81ee809_0
+    - openssl =3.5.0 =h81ee809_1
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =25.0 =pyh29332c3_1
     - pandoc =3.6.4 =hce30654_0
@@ -451,7 +451,7 @@ requirements:
     - r-stringr =1.5.1 =r44h785f33e_1
     - r-survival =3.8_3 =r44h570997c_0
     - r-sys =3.4.3 =r44h0d9a900_0
-    - r-systemfonts =1.2.1 =r44haaa8834_0
+    - r-systemfonts =1.2.3 =r44haaa8834_0
     - r-textshaping =1.0.1 =r44h0784d17_0
     - r-tibble =3.2.1 =r44h07cda29_3
     - r-tidyr =1.3.1 =r44hd76f289_1

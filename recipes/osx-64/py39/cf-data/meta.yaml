@@ -89,7 +89,7 @@ requirements:
     - catboost =1.2.7 =cpu_py39hf992546_1
     - certifi =2025.1.31 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h8ddeee6_0
-    - charset-normalizer =3.4.1 =pyhd8ed1ab_0
+    - charset-normalizer =3.4.2 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyhd8ed1ab_1
     - click =8.1.8 =pyh707e725_0
     - cloudpathlib =0.21.0 =pyhd8ed1ab_1
@@ -224,8 +224,8 @@ requirements:
     - libgrpc =1.71.0 =h7d722e6_1
     - libhwloc =2.11.2 =default_h4cdd727_1001
     - libiconv =1.18 =h4b5e92a_1
-    - libintl =0.23.1 =h27064b9_0
-    - libintl-devel =0.23.1 =h27064b9_0
+    - libintl =0.24.1 =h27064b9_0
+    - libintl-devel =0.24.1 =h27064b9_0
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
     - liblapack =3.9.0 =20_osx64_mkl
     - liblightgbm =4.6.0 =cpu_h458a52c_1
@@ -299,7 +299,7 @@ requirements:
     - opencl-headers =2024.10.24 =h240833e_0
     - openjpeg =2.5.3 =h7fd6d84_0
     - openldap =2.6.9 =hd8a590d_0
-    - openssl =3.5.0 =hc426f3f_0
+    - openssl =3.5.0 =hc426f3f_1
     - optree =0.15.0 =py39ha3ffea8_0
     - orc =2.1.1 =h82caab2_1
     - packaging =25.0 =pyh29332c3_1
