@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =3.0.4 =py39h6e9494a_0
     - pyqt =5.15.10 =py39h39ab9d1_1
-    - pytorch =2.6.0 =cpu_mkl_py39_h549242d_104
+    - pytorch =2.7.0 =cpu_mkl_py39_h549242d_100
     - scikit-learn =1.6.1 =py39he8fe7b2_0
     - scipy =1.13.1 =py39h038d4f4_0
     - scrapy =2.12.0 =py39h6e9494a_1
@@ -103,7 +103,7 @@ requirements:
     - constantly =15.1.0 =py_0
     - contourpy =1.3.0 =py39h0d3c867_2
     - cpython =3.9.22 =py39hd8ed1ab_1
-    - cryptography =44.0.2 =py39hce2744d_0
+    - cryptography =44.0.3 =py39hce2744d_0
     - cssselect =1.2.0 =pyhd8ed1ab_1
     - cufflinks-py =0.17.3 =pyhff2d567_1
     - cycler =0.12.1 =pyhd8ed1ab_1
@@ -250,7 +250,7 @@ requirements:
     - libssh2 =1.11.1 =hed3591d_0
     - libthrift =0.21.0 =h75589b3_0
     - libtiff =4.7.0 =hb77a491_4
-    - libtorch =2.6.0 =cpu_mkl_hef2e83f_104
+    - libtorch =2.7.0 =cpu_mkl_hef2e83f_100
     - libutf8proc =2.10.0 =h777c5d8_0
     - libuv =1.50.0 =h4cb831e_0
     - libvorbis =1.3.7 =h046ec9c_0
@@ -314,7 +314,7 @@ requirements:
     - phik =0.12.4 =py39ha3ffea8_0
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.1.0 =py39h1fda9f2_0
-    - pip =25.1 =pyh8b19718_0
+    - pip =25.1.1 =pyh8b19718_0
     - pixman =0.46.0 =h1fd1274_0
     - platformdirs =4.3.7 =pyh29332c3_0
     - ply =3.11 =pyhd8ed1ab_3
