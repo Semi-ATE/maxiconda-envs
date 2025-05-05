@@ -38,7 +38,7 @@ requirements:
     - pytorch =2.7.0 =cpu_mkl_py39_h549242d_100
     - scikit-learn =1.6.1 =py39he8fe7b2_0
     - scipy =1.13.1 =py39h038d4f4_0
-    - scrapy =2.12.0 =py39h6e9494a_1
+    - scrapy =2.12.0 =pyhd8ed1ab_2
     - seaborn =0.13.2 =hd8ed1ab_3
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
     - sqlalchemy =2.0.40 =py39h80efdc8_0
@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.14.4 =py39hff9a475_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
 
-    # 397 secondary packages :
+    # 398 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - adwaita-icon-theme =48.0 =unix_0
     - alembic =1.15.2 =pyhd8ed1ab_0
@@ -57,18 +57,18 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =25.3.0 =pyh71513ae_0
     - automat =25.4.16 =pyhd8ed1ab_0
-    - aws-c-auth =0.9.0 =h22c4921_3
+    - aws-c-auth =0.9.0 =h3ee6584_4
     - aws-c-cal =0.9.0 =h5d1f64b_0
     - aws-c-common =0.12.2 =h6e16a3a_0
     - aws-c-compression =0.3.1 =h6021610_4
     - aws-c-event-stream =0.5.4 =h21619eb_7
-    - aws-c-http =0.9.7 =h15ee064_1
+    - aws-c-http =0.10.0 =h15ee064_0
     - aws-c-io =0.18.1 =h8259661_2
-    - aws-c-mqtt =0.12.3 =h152f7e4_3
-    - aws-c-s3 =0.7.15 =h74c288d_2
+    - aws-c-mqtt =0.12.3 =h2bb06d9_4
+    - aws-c-s3 =0.7.16 =h59ec5b4_1
     - aws-c-sdkutils =0.2.3 =h6021610_4
     - aws-checksums =0.2.7 =h6021610_0
-    - aws-crt-cpp =0.32.4 =h5c72e20_1
+    - aws-crt-cpp =0.32.4 =h197e87f_2
     - aws-sdk-cpp =1.11.510 =h62eccf9_6
     - azure-core-cpp =1.14.0 =h9a36307_0
     - azure-identity-cpp =1.10.0 =ha4e2ba9_0
@@ -179,7 +179,7 @@ requirements:
     - jedi =0.19.2 =pyhd8ed1ab_1
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - jmespath =1.0.1 =pyhd8ed1ab_1
-    - joblib =1.4.2 =pyhd8ed1ab_1
+    - joblib =1.5.0 =pyhd8ed1ab_0
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.7.2 =pyh31011fe_1
     - jupyterlab_widgets =3.0.14 =pyhd8ed1ab_0
@@ -358,6 +358,7 @@ requirements:
     - python_abi =3.9 =7_cp39
     - pytz =2025.2 =pyhd8ed1ab_0
     - pywavelets =1.6.0 =py39hb943cd9_0
+    - pywin32 =307 =py39h6e9494a_3
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py39hd18e689_2

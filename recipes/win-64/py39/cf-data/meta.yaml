@@ -37,7 +37,7 @@ requirements:
     - pyqt =5.15.10 =py39he15501f_1
     - scikit-learn =1.6.1 =py39hdd013cc_0
     - scipy =1.13.1 =py39h1a10956_0
-    - scrapy =2.12.0 =py39hcbf5309_1
+    - scrapy =2.12.0 =pyhd8ed1ab_2
     - seaborn =0.13.2 =hd8ed1ab_3
     - spyder-kernels =3.0.3 =win_pyh7428d3b_0
     - sqlalchemy =2.0.40 =py39ha55e580_0
@@ -54,18 +54,18 @@ requirements:
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - attrs =25.3.0 =pyh71513ae_0
     - automat =25.4.16 =pyhd8ed1ab_0
-    - aws-c-auth =0.9.0 =hb62f5ad_3
+    - aws-c-auth =0.9.0 =h3b843a2_4
     - aws-c-cal =0.9.0 =hd30f992_0
     - aws-c-common =0.12.2 =h2466b09_0
     - aws-c-compression =0.3.1 =hd30f992_4
     - aws-c-event-stream =0.5.4 =h12f1610_7
-    - aws-c-http =0.9.7 =h74fe21f_1
+    - aws-c-http =0.10.0 =h74fe21f_0
     - aws-c-io =0.18.1 =hfd8e7f4_2
-    - aws-c-mqtt =0.12.3 =hf06dccb_3
-    - aws-c-s3 =0.7.15 =h950d92f_2
+    - aws-c-mqtt =0.12.3 =hd3945f4_4
+    - aws-c-s3 =0.7.16 =hf4a4381_1
     - aws-c-sdkutils =0.2.3 =hd30f992_4
     - aws-checksums =0.2.7 =hd30f992_0
-    - aws-crt-cpp =0.32.4 =h30d2d3b_1
+    - aws-crt-cpp =0.32.4 =hf35b9f3_2
     - aws-sdk-cpp =1.11.510 =h1c8c2b7_6
     - bcrypt =4.3.0 =py39h92a245a_0
     - blinker =1.9.0 =pyhff2d567_0
@@ -163,7 +163,7 @@ requirements:
     - jedi =0.19.2 =pyhd8ed1ab_1
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - jmespath =1.0.1 =pyhd8ed1ab_1
-    - joblib =1.4.2 =pyhd8ed1ab_1
+    - joblib =1.5.0 =pyhd8ed1ab_0
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.7.2 =pyh5737063_1
     - jupyterlab_widgets =3.0.14 =pyhd8ed1ab_0
