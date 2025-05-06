@@ -90,10 +90,10 @@ requirements:
     - gsd =3.4.2 =py39h8cd3c5a_0
     - gst-plugins-base =1.24.11 =h651a532_0
     - gstreamer =1.24.11 =hc37bda9_0
-    - h5py =3.12.1 =nompi_py39h394ba53_103
+    - h5py =3.13.0 =nompi_py39h90d4b68_101
     - harfbuzz =11.1.0 =h3beb420_0
     - hdf4 =4.2.15 =h2a13503_7
-    - hdf5 =1.14.4 =nompi_h2d575fe_105
+    - hdf5 =1.14.6 =nompi_h2d575fe_101
     - icu =75.1 =he02047a_0
     - importlib-metadata =8.6.1 =pyha770c72_0
     - importlib-resources =6.5.2 =pyhd8ed1ab_0
@@ -157,7 +157,7 @@ requirements:
     - liblapack =3.9.0 =31_h7ac8fdf_openblas
     - libllvm20 =20.1.4 =he9d0ab4_0
     - liblzma =5.8.1 =hb9d3cd8_0
-    - libnetcdf =4.9.2 =nompi_h5ddbaa4_116
+    - libnetcdf =4.9.2 =nompi_h0134ee8_117
     - libnghttp2 =1.64.0 =h161d5f1_0
     - libnsl =2.0.1 =hd590300_0
     - libntlm =1.8 =hb9d3cd8_0
@@ -200,10 +200,10 @@ requirements:
     - mysql-libs =9.0.1 =he0572af_6
     - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - netcdf4 =1.7.2 =nompi_py39h1defa26_101
+    - netcdf4 =1.7.2 =nompi_py39h295be61_102
     - networkx =3.2.1 =pyhd8ed1ab_0
     - nspr =4.36 =h5888daf_0
-    - nss =3.110 =h159eef7_0
+    - nss =3.111 =h159eef7_0
     - openjpeg =2.5.3 =h5fbd93e_0
     - openldap =2.6.9 =he970967_0
     - openssl =3.5.0 =h7b32b05_1
