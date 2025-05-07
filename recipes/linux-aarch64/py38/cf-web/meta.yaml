@@ -128,8 +128,8 @@ requirements:
     - libiconv =1.18 =hc99b53d_1
     - libjpeg-turbo =3.1.0 =h86ecc28_0
     - libllvm20 =20.1.4 =h07bd352_0
-    - liblzma =5.8.1 =h86ecc28_0
-    - liblzma-devel =5.8.1 =h86ecc28_0
+    - liblzma =5.8.1 =h86ecc28_1
+    - liblzma-devel =5.8.1 =h86ecc28_1
     - libnsl =2.0.1 =h31becfc_0
     - libntlm =1.4 =hf897c2e_1002
     - libogg =1.3.5 =h86ecc28_1
@@ -196,7 +196,7 @@ requirements:
     - setuptools =75.3.0 =pyhd8ed1ab_0
     - sip =6.8.3 =py38hed0da46_0
     - six =1.16.0 =pyh6c4a22f_0
-    - soupsieve =2.5 =pyhd8ed1ab_1
+    - soupsieve =2.6 =pyhd8ed1ab_0
     - sqlparse =0.5.1 =pyhd8ed1ab_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - tk =8.6.13 =h194ca79_0
@@ -228,9 +228,9 @@ requirements:
     - xorg-libxrender =0.9.12 =h86ecc28_0
     - xorg-libxshmfence =1.3.3 =h86ecc28_0
     - xorg-libxxf86vm =1.1.6 =h86ecc28_0
-    - xz =5.8.1 =h2dbfc1b_0
-    - xz-gpl-tools =5.8.1 =h2dbfc1b_0
-    - xz-tools =5.8.1 =h86ecc28_0
+    - xz =5.8.1 =h2dbfc1b_1
+    - xz-gpl-tools =5.8.1 =h2dbfc1b_1
+    - xz-tools =5.8.1 =h86ecc28_1
     - yaml =0.2.5 =hf897c2e_2
     - zeromq =4.3.5 =h28faeed_4
     - zipp =3.21.0 =pyhd8ed1ab_0

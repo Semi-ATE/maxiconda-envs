@@ -162,8 +162,8 @@ requirements:
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm19 =19.1.7 =ha7bfdaf_1
     - libllvm20 =20.1.4 =he9d0ab4_0
-    - liblzma =5.8.1 =hb9d3cd8_0
-    - liblzma-devel =5.8.1 =hb9d3cd8_0
+    - liblzma =5.8.1 =hb9d3cd8_1
+    - liblzma-devel =5.8.1 =hb9d3cd8_1
     - libnetcdf =4.9.2 =nompi_h00e09a9_116
     - libnghttp2 =1.64.0 =h161d5f1_0
     - libnsl =2.0.1 =hd590300_0
@@ -293,9 +293,9 @@ requirements:
     - xorg-libxshmfence =1.3.3 =hb9d3cd8_0
     - xorg-libxxf86vm =1.1.6 =hb9d3cd8_0
     - xorg-xf86vidmodeproto =2.3.1 =hb9d3cd8_1005
-    - xz =5.8.1 =hbcc6ac9_0
-    - xz-gpl-tools =5.8.1 =hbcc6ac9_0
-    - xz-tools =5.8.1 =hb9d3cd8_0
+    - xz =5.8.1 =hbcc6ac9_1
+    - xz-gpl-tools =5.8.1 =hbcc6ac9_1
+    - xz-tools =5.8.1 =hb9d3cd8_1
     - zeromq =4.3.5 =h75354e8_4
     - zipp =3.21.0 =pyhd8ed1ab_0
     - zlib =1.3.1 =hb9d3cd8_2
