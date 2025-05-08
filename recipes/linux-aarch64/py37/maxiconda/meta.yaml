@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
     - sqlalchemy =1.4.42 =py37heeccf27_0
-    - sqlite =3.49.1 =h578a6b9_2
+    - sqlite =3.49.2 =h578a6b9_0
     - sympy =1.10.1 =py37hfd236b0_1
     - tqdm =4.67.1 =pyhd8ed1ab_0
     - transitions =0.9.2 =pyhd8ed1ab_0
@@ -118,10 +118,10 @@ requirements:
     - freetype =2.13.3 =h8af1aa0_1
     - fribidi =1.0.10 =hb9de7d4_0
     - frozenlist =1.3.1 =py37h795501a_0
-    - gcc_impl_linux-aarch64 =14.2.0 =h39ab8d2_2
+    - gcc_impl_linux-aarch64 =15.1.0 =hed31cfe_2
     - gettext =0.24.1 =h5ad3122_0
     - gettext-tools =0.24.1 =h5ad3122_0
-    - gfortran_impl_linux-aarch64 =14.2.0 =hf71498c_2
+    - gfortran_impl_linux-aarch64 =15.1.0 =h1fb5afe_2
     - git =2.42.0 =pl5321h0d979e1_0
     - glib =2.78.1 =hd84c7bf_0
     - glib-tools =2.78.1 =hd84c7bf_0
@@ -133,7 +133,7 @@ requirements:
     - gst-plugins-base =1.22.0 =h8a62080_2
     - gstreamer =1.22.0 =h1f26242_2
     - gstreamer-orc =0.4.41 =hd9811ac_0
-    - gxx_impl_linux-aarch64 =14.2.0 =h1262d8f_2
+    - gxx_impl_linux-aarch64 =15.1.0 =h2c3c454_2
     - harfbuzz =6.0.0 =hbcb8a4f_0
     - icu =70.1 =ha18d298_0
     - idna =3.10 =pyhd8ed1ab_0
@@ -182,20 +182,20 @@ requirements:
     - libflac =1.4.3 =h2f0025b_0
     - libfreetype =2.13.3 =h8af1aa0_1
     - libfreetype6 =2.13.3 =he93130f_1
-    - libgcc =14.2.0 =he277a41_2
-    - libgcc-devel_linux-aarch64 =14.2.0 =h46490cb_102
-    - libgcc-ng =14.2.0 =he9431aa_2
+    - libgcc =15.1.0 =he277a41_2
+    - libgcc-devel_linux-aarch64 =15.1.0 =hd0aa34e_102
+    - libgcc-ng =15.1.0 =he9431aa_2
     - libgcrypt =1.11.0 =h8af1aa0_2
     - libgcrypt-devel =1.11.0 =h86ecc28_2
     - libgcrypt-lib =1.11.0 =h86ecc28_2
     - libgcrypt-tools =1.11.0 =h86ecc28_2
     - libgettextpo =0.24.1 =h5ad3122_0
     - libgettextpo-devel =0.24.1 =h5ad3122_0
-    - libgfortran =14.2.0 =he9431aa_2
-    - libgfortran-ng =14.2.0 =he9431aa_2
-    - libgfortran5 =14.2.0 =hb6113d0_2
+    - libgfortran =15.1.0 =he9431aa_2
+    - libgfortran-ng =15.1.0 =he9431aa_2
+    - libgfortran5 =15.1.0 =hbc25352_2
     - libglib =2.78.1 =h0464669_0
-    - libgomp =14.2.0 =he277a41_2
+    - libgomp =15.1.0 =he277a41_2
     - libgpg-error =1.55 =h5ad3122_0
     - libiconv =1.18 =hc99b53d_1
     - liblapack =3.9.0 =20_linuxaarch64_openblas
@@ -211,14 +211,14 @@ requirements:
     - libopus =1.5.2 =h86ecc28_0
     - libpng =1.6.47 =hec79eb8_0
     - libpq =15.3 =hf616e62_1
-    - libsanitizer =14.2.0 =hff26f3d_2
+    - libsanitizer =15.1.0 =hfec4e15_2
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
-    - libsqlite =3.49.1 =h5eb1b54_2
+    - libsqlite =3.49.2 =h5eb1b54_0
     - libssh2 =1.11.0 =h492db2e_0
-    - libstdcxx =14.2.0 =h3f4de04_2
-    - libstdcxx-devel_linux-aarch64 =14.2.0 =h46490cb_102
-    - libstdcxx-ng =14.2.0 =hf1166c9_2
+    - libstdcxx =15.1.0 =h3f4de04_2
+    - libstdcxx-devel_linux-aarch64 =15.1.0 =hd0aa34e_102
+    - libstdcxx-ng =15.1.0 =hf1166c9_2
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.4.0 =hfcd36d1_5
     - libtool =2.5.4 =h5ad3122_0
