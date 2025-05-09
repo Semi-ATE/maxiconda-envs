@@ -37,7 +37,7 @@ requirements:
     - pyqt =5.15.10 =py39he15501f_1
     - scikit-learn =1.6.1 =py39hdd013cc_0
     - scipy =1.13.1 =py39h1a10956_0
-    - scrapy =2.12.0 =pyhd8ed1ab_2
+    - scrapy =2.13.0 =pyhd8ed1ab_0
     - seaborn =0.13.2 =hd8ed1ab_3
     - spyder-kernels =3.0.3 =win_pyh7428d3b_0
     - sqlalchemy =2.0.40 =py39ha55e580_0
@@ -62,10 +62,10 @@ requirements:
     - aws-c-http =0.10.0 =h49b9655_1
     - aws-c-io =0.19.0 =h5eb4f99_1
     - aws-c-mqtt =0.13.0 =he46af00_1
-    - aws-c-s3 =0.7.16 =hb2502d2_2
+    - aws-c-s3 =0.7.17 =hb2502d2_0
     - aws-c-sdkutils =0.2.3 =hd30f992_4
     - aws-checksums =0.2.7 =hd30f992_0
-    - aws-crt-cpp =0.32.5 =hedd7e4f_0
+    - aws-crt-cpp =0.32.5 =h9ef7da3_1
     - aws-sdk-cpp =1.11.510 =h3f4ff8e_7
     - bcrypt =4.3.0 =py39h92a245a_0
     - blinker =1.9.0 =pyhff2d567_0
@@ -248,7 +248,7 @@ requirements:
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.10 =py39ha51f57c_2
-    - narwhals =1.38.0 =pyhe01879c_0
+    - narwhals =1.38.1 =pyhe01879c_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2.1 =pyhd8ed1ab_0
     - nltk =3.9.1 =pyhd8ed1ab_1
@@ -272,7 +272,7 @@ requirements:
     - pillow =11.2.1 =py39h73ef694_0
     - pip =25.1.1 =pyh8b19718_0
     - pixman =0.46.0 =had0cd8c_0
-    - platformdirs =4.3.7 =pyh29332c3_0
+    - platformdirs =4.3.8 =pyhe01879c_0
     - ply =3.11 =pyhd8ed1ab_3
     - preshed =3.0.9 =py39ha51f57c_2
     - prometheus_client =0.21.1 =pyhd8ed1ab_0

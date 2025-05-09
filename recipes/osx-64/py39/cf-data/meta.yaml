@@ -38,7 +38,7 @@ requirements:
     - pytorch =2.7.0 =cpu_mkl_py39_h549242d_100
     - scikit-learn =1.6.1 =py39he8fe7b2_0
     - scipy =1.13.1 =py39h038d4f4_0
-    - scrapy =2.12.0 =pyhd8ed1ab_2
+    - scrapy =2.13.0 =pyhd8ed1ab_0
     - seaborn =0.13.2 =hd8ed1ab_3
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
     - sqlalchemy =2.0.40 =py39h80efdc8_0
@@ -57,19 +57,19 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =25.3.0 =pyh71513ae_0
     - automat =25.4.16 =pyhd8ed1ab_0
-    - aws-c-auth =0.9.0 =h3ee6584_4
+    - aws-c-auth =0.9.0 =h5719ab4_5
     - aws-c-cal =0.9.0 =h5d1f64b_0
     - aws-c-common =0.12.2 =h6e16a3a_0
     - aws-c-compression =0.3.1 =h6021610_4
-    - aws-c-event-stream =0.5.4 =h21619eb_7
-    - aws-c-http =0.10.0 =h15ee064_0
-    - aws-c-io =0.18.1 =h8259661_2
-    - aws-c-mqtt =0.12.3 =h2bb06d9_4
-    - aws-c-s3 =0.7.16 =h59ec5b4_1
+    - aws-c-event-stream =0.5.4 =ha86263b_8
+    - aws-c-http =0.10.0 =h85251f3_1
+    - aws-c-io =0.19.0 =h08206e7_1
+    - aws-c-mqtt =0.13.0 =hd6b51b3_1
+    - aws-c-s3 =0.7.17 =hd733da4_0
     - aws-c-sdkutils =0.2.3 =h6021610_4
     - aws-checksums =0.2.7 =h6021610_0
-    - aws-crt-cpp =0.32.4 =h197e87f_2
-    - aws-sdk-cpp =1.11.510 =h62eccf9_6
+    - aws-crt-cpp =0.32.5 =h71766b3_1
+    - aws-sdk-cpp =1.11.510 =h35f2fc2_7
     - azure-core-cpp =1.14.0 =h9a36307_0
     - azure-identity-cpp =1.10.0 =ha4e2ba9_0
     - azure-storage-blobs-cpp =12.13.0 =h3d2f5f1_1
@@ -192,10 +192,10 @@ requirements:
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
     - libabseil =20250127.1 =cxx17_h0e468a2_0
-    - libarrow =20.0.0 =hba02541_1_cpu
-    - libarrow-acero =20.0.0 =hdc53af8_1_cpu
-    - libarrow-dataset =20.0.0 =hdc53af8_1_cpu
-    - libarrow-substrait =20.0.0 =ha37b807_1_cpu
+    - libarrow =20.0.0 =he825168_2_cpu
+    - libarrow-acero =20.0.0 =hdc53af8_2_cpu
+    - libarrow-dataset =20.0.0 =hdc53af8_2_cpu
+    - libarrow-substrait =20.0.0 =ha37b807_2_cpu
     - libblas =3.9.0 =20_osx64_mkl
     - libboost =1.86.0 =hf0da243_3
     - libbrotlicommon =1.1.0 =h00291cd_2
@@ -239,9 +239,9 @@ requirements:
     - libopentelemetry-cpp =1.20.0 =h30c661f_0
     - libopentelemetry-cpp-headers =1.20.0 =h694c41f_0
     - libopus =1.5.2 =he3325bb_0
-    - libparquet =20.0.0 =h283e888_1_cpu
+    - libparquet =20.0.0 =h283e888_2_cpu
     - libpng =1.6.47 =h3c4a55f_0
-    - libpq =17.4 =h9c5cfc2_1
+    - libpq =17.5 =h9c5cfc2_0
     - libprotobuf =5.29.3 =h1c7185b_1
     - libre2-11 =2024.07.02 =h08ce7b7_3
     - librsvg =2.58.4 =h21a6cfa_3
@@ -285,7 +285,7 @@ requirements:
     - murmurhash =1.0.10 =py39ha92e968_2
     - mysql-common =9.0.1 =hd00b0ec_6
     - mysql-libs =9.0.1 =h062309a_6
-    - narwhals =1.38.0 =pyhe01879c_0
+    - narwhals =1.38.1 =pyhe01879c_0
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2.1 =pyhd8ed1ab_0
@@ -316,7 +316,7 @@ requirements:
     - pillow =11.2.1 =py39h1fda9f2_0
     - pip =25.1.1 =pyh8b19718_0
     - pixman =0.46.0 =h1fd1274_0
-    - platformdirs =4.3.7 =pyh29332c3_0
+    - platformdirs =4.3.8 =pyhe01879c_0
     - ply =3.11 =pyhd8ed1ab_3
     - preshed =3.0.9 =py39ha92e968_2
     - prometheus-cpp =1.3.0 =h7802330_0

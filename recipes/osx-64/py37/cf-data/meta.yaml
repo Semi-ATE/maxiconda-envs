@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.13.2 =py37h4de8ad1_0
     - xgboost =2.0.3 =cpu_pyhb8f9a19_4
 
-    # 310 secondary packages :
+    # 308 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_0
     - amqp =5.2.0 =pyhd8ed1ab_1
@@ -62,7 +62,6 @@ requirements:
     - billiard =3.6.4.0 =py37h994c40b_2
     - blinker =1.6.3 =pyhd8ed1ab_0
     - boruta_py =0.3 =py_0
-    - bottleneck =1.3.5 =py37h4de8ad1_0
     - brotli =1.1.0 =h00291cd_2
     - brotli-bin =1.1.0 =h00291cd_2
     - brotli-python =1.0.9 =py37h0582d14_7
@@ -86,7 +85,6 @@ requirements:
     - colorlover =0.3.0 =py_0
     - comm =0.2.2 =pyhd8ed1ab_0
     - configparser =7.1.0 =pyhd8ed1ab_0
-    - confuse =2.0.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - cryptography =38.0.2 =py37hbf3704f_1
     - cssselect =1.2.0 =pyhd8ed1ab_0
@@ -94,7 +92,7 @@ requirements:
     - cycler =0.11.0 =pyhd8ed1ab_0
     - cymem =2.0.7 =py37hac51a3e_0
     - cython-blis =0.7.8 =py37h4de8ad1_0
-    - databricks-cli =0.17.7 =pyhd8ed1ab_0
+    - databricks-cli =0.17.8 =pyhd8ed1ab_0
     - debugpy =1.6.3 =py37hf6dfe07_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - docker-py =7.0.0 =pyhd8ed1ab_0
@@ -218,7 +216,6 @@ requirements:
     - markupsafe =2.1.1 =py37h69ee0a8_1
     - matplotlib-base =3.5.3 =py37h3748cd6_2
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
-    - missingno =0.5.2 =pyhd8ed1ab_0
     - mkl =2022.2.1 =h44ed08c_16952
     - mlflow =1.26.1 =py37h712bc25_0
     - mlxtend =0.23.4 =pyhd8ed1ab_0
@@ -240,7 +237,7 @@ requirements:
     - openjpeg =2.5.0 =h5d0d7b0_1
     - openssl =3.1.8 =hc426f3f_0
     - packaging =23.2 =pyhd8ed1ab_0
-    - pandas-profiling =3.0.0 =pyhd8ed1ab_0
+    - pandas-profiling =3.6.3 =pyhd8ed1ab_0
     - pango =1.50.14 =hbd9bf65_0
     - paramiko =3.5.0 =pyhd8ed1ab_0
     - parsel =1.9.1 =pyhd8ed1ab_1
@@ -250,7 +247,7 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - phik =0.12.2 =py37h91ec133_0
     - pickleshare =0.7.5 =py_1003
-    - pillow =9.2.0 =py37ha6ba2b9_2
+    - pillow =9.2.0 =py37h1eb1bbc_0
     - pip =24.0 =pyhd8ed1ab_0
     - pixman =0.46.0 =h1fd1274_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
@@ -297,7 +294,7 @@ requirements:
     - queuelib =1.7.0 =pyhd8ed1ab_0
     - readline =8.2 =h7cca4af_2
     - regex =2022.9.13 =py37h8052db5_0
-    - requests =2.32.2 =pyhd8ed1ab_0
+    - requests =2.28.2 =pyhd8ed1ab_1
     - requests-file =2.1.0 =pyhd8ed1ab_0
     - retrying =1.3.3 =pyhd8ed1ab_3
     - scikit-plot =0.3.7 =py_1
@@ -325,16 +322,17 @@ requirements:
     - tldextract =5.1.0 =pyhd8ed1ab_0
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.2 =py37h994c40b_0
-    - tqdm =4.67.1 =pyhd8ed1ab_0
+    - tqdm =4.64.1 =pyhd8ed1ab_0
     - traitlets =5.9.0 =pyhd8ed1ab_0
     - twisted =22.8.0 =py37h8052db5_0
+    - typeguard =2.13.3 =pyhd8ed1ab_0
     - typing-extensions =4.7.1 =hd8ed1ab_0
     - typing_extensions =4.7.1 =pyha770c72_0
     - umap-learn =0.5.3 =py37hf985489_0
     - unicodedata2 =14.0.0 =py37h69ee0a8_1
-    - urllib3 =2.2.1 =pyhd8ed1ab_0
+    - urllib3 =1.26.19 =pyhd8ed1ab_0
     - vine =5.1.0 =pyhd8ed1ab_0
-    - visions =0.7.1 =pyhd8ed1ab_0
+    - visions =0.7.5 =pyhd8ed1ab_0
     - w3lib =2.2.1 =pyhd8ed1ab_0
     - wasabi =0.10.1 =pyhd8ed1ab_1
     - wcwidth =0.2.10 =pyhd8ed1ab_0
