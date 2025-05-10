@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =3.1.0 =py311h3c013cf_0
-    - matplotlib =3.10.1 =py311h6eed73b_0
+    - matplotlib =3.10.3 =py311h6eed73b_0
     - numpy =2.2.5 =py311h27c81cd_0
     - pandas =2.2.3 =py311hcf53e2f_3
     - pyqt =5.15.10 =py311hc765f6a_1
@@ -171,7 +171,7 @@ requirements:
     - llvm-openmp =20.1.4 =ha54dae1_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_1
     - markupsafe =3.0.2 =py311ha3cf9ac_1
-    - matplotlib-base =3.10.1 =py311h19a4563_0
+    - matplotlib-base =3.10.3 =py311h19a4563_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
