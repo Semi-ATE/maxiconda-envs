@@ -33,8 +33,8 @@ requirements:
     - pandas =2.2.3 =py39hb7d32d6_3
     - plotly =6.0.1 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
-    - pydot =3.0.4 =py39h6e9494a_0
-    - pyqt =5.15.10 =py39h39ab9d1_1
+    - pydot =4.0.0 =py39h6e9494a_0
+    - pyqt =5.15.11 =py39h39ab9d1_0
     - pytorch =2.7.0 =cpu_mkl_py39_h549242d_100
     - scikit-learn =1.6.1 =py39he8fe7b2_0
     - scipy =1.13.1 =py39h038d4f4_0
@@ -129,7 +129,7 @@ requirements:
     - fontconfig =2.15.0 =h37eeddb_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.57.0 =py39hd18e689_0
+    - fonttools =4.58.0 =py39hd18e689_0
     - freetype =2.13.3 =h694c41f_1
     - fribidi =1.0.10 =hbcb3906_0
     - fsspec =2025.3.2 =pyhd8ed1ab_0
@@ -192,10 +192,10 @@ requirements:
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
     - libabseil =20250127.1 =cxx17_h0e468a2_0
-    - libarrow =20.0.0 =he825168_2_cpu
-    - libarrow-acero =20.0.0 =hdc53af8_2_cpu
-    - libarrow-dataset =20.0.0 =hdc53af8_2_cpu
-    - libarrow-substrait =20.0.0 =ha37b807_2_cpu
+    - libarrow =20.0.0 =he825168_3_cpu
+    - libarrow-acero =20.0.0 =hdc53af8_3_cpu
+    - libarrow-dataset =20.0.0 =hdc53af8_3_cpu
+    - libarrow-substrait =20.0.0 =ha37b807_3_cpu
     - libblas =3.9.0 =20_osx64_mkl
     - libboost =1.86.0 =hf0da243_3
     - libbrotlicommon =1.1.0 =h00291cd_2
@@ -239,7 +239,7 @@ requirements:
     - libopentelemetry-cpp =1.20.0 =h30c661f_0
     - libopentelemetry-cpp-headers =1.20.0 =h694c41f_0
     - libopus =1.5.2 =he3325bb_0
-    - libparquet =20.0.0 =h283e888_2_cpu
+    - libparquet =20.0.0 =h283e888_3_cpu
     - libpng =1.6.47 =h3c4a55f_0
     - libpq =17.5 =h9c5cfc2_0
     - libprotobuf =5.29.3 =h1c7185b_1
@@ -349,7 +349,7 @@ requirements:
     - pyod =2.0.5 =pyhd8ed1ab_0
     - pyopenssl =25.0.0 =pyhd8ed1ab_0
     - pyparsing =3.2.3 =pyhd8ed1ab_1
-    - pyqt5-sip =12.13.0 =py39hbe19bdc_1
+    - pyqt5-sip =12.17.0 =py39hbe19bdc_0
     - pysocks =1.7.1 =pyha55dd90_7
     - python-cufflinks =0.17.3 =pyhd8ed1ab_1
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
@@ -381,7 +381,7 @@ requirements:
     - shap =0.47.2 =cpu_py39h8465976_0
     - shellingham =1.5.4 =pyhd8ed1ab_1
     - simpful =2.12.0 =pyhd8ed1ab_2
-    - sip =6.8.6 =py39hdf37715_2
+    - sip =6.10.0 =py39hdf37715_0
     - six =1.17.0 =pyhd8ed1ab_0
     - sleef =3.8 =hfe0d17b_0
     - slicer =0.0.8 =pyhd8ed1ab_0

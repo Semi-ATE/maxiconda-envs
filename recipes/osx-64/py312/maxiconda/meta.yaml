@@ -28,7 +28,7 @@ requirements:
     - aiohttp =3.11.18 =py312h3520af0_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.13.4 =pyha770c72_0
-    - bitarray =3.3.1 =py312h01d7ebd_0
+    - bitarray =3.4.0 =py312h01d7ebd_0
     - cython =3.1.0 =py312hdfbeeba_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
     - hypothesis =6.131.15 =pyha770c72_0
@@ -42,7 +42,7 @@ requirements:
     - pandas =2.2.3 =py312hec45ffd_3
     - psutil =7.0.0 =py312h01d7ebd_0
     - pydantic =2.11.4 =pyh3cfb1c2_0
-    - pyqt =5.15.10 =py312h5e38ec9_1
+    - pyqt =5.15.11 =py312h5e38ec9_0
     - pyserial =3.5 =pyhd8ed1ab_1
     - pytest =8.3.5 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py312h3520af0_2
@@ -126,7 +126,7 @@ requirements:
     - fontconfig =2.15.0 =h37eeddb_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.57.0 =py312h3520af0_0
+    - fonttools =4.58.0 =py312h3520af0_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.13.3 =h694c41f_1
     - fribidi =1.0.10 =hbcb3906_0
@@ -285,7 +285,7 @@ requirements:
     - pyobjc-core =11.0 =py312h2365019_0
     - pyobjc-framework-cocoa =11.0 =py312h2365019_0
     - pyparsing =3.2.3 =pyhd8ed1ab_1
-    - pyqt5-sip =12.13.0 =py312h4ba5759_1
+    - pyqt5-sip =12.17.0 =py312h4ba5759_0
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
     - python-fastjsonschema =2.21.1 =pyhd8ed1ab_0
@@ -347,7 +347,7 @@ requirements:
     - r-future =1.49.0 =r44h785f33e_0
     - r-future.apply =1.11.3 =r44hc72bb7e_0
     - r-gargle =1.5.2 =r44h785f33e_1
-    - r-generics =0.1.3 =r44hc72bb7e_3
+    - r-generics =0.1.4 =r44hc72bb7e_0
     - r-ggplot2 =3.5.2 =r44hc72bb7e_0
     - r-gistr =0.9.0 =r44hc72bb7e_3
     - r-glmnet =4.1_8 =r44hc1e73ce_1
@@ -490,7 +490,7 @@ requirements:
     - send2trash =1.8.3 =pyh31c8845_1
     - setuptools =80.1.0 =pyhff2d567_0
     - sigtool =0.1.3 =h88f4db0_0
-    - sip =6.8.6 =py312haafddd8_2
+    - sip =6.10.0 =py312haafddd8_0
     - six =1.17.0 =pyhd8ed1ab_0
     - sniffio =1.3.1 =pyhd8ed1ab_1
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1

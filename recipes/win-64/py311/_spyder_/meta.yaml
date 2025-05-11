@@ -30,8 +30,8 @@ requirements:
     - menuinst =2.2.0 =py311hda3d55a_0
     - numpy =2.2.5 =py311h5e411d1_0
     - pandas =2.2.3 =py311hcf9f919_3
-    - pyqt =5.15.10 =py311h2d05f59_1
-    - pyqtwebengine =5.15.10 =py311hd90e686_1
+    - pyqt =5.15.11 =py311h2d05f59_0
+    - pyqtwebengine =5.15.11 =py311hd90e686_0
     - scipy =1.15.2 =py311h99d06ae_0
     - spyder =6.0.5 =hd8ed1ab_3
     - sympy =1.14.0 =pyh04b8f61_5
@@ -95,7 +95,7 @@ requirements:
     - fontconfig =2.15.0 =h765892d_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.57.0 =py311h5082efb_0
+    - fonttools =4.58.0 =py311h5082efb_0
     - freetype =2.13.3 =h57928b3_1
     - frozenlist =1.6.0 =py311hc121033_0
     - fzf =0.62.0 =h86e1c39_0
@@ -227,7 +227,7 @@ requirements:
     - pynacl =1.5.0 =py311h984d3dc_4
     - pyopenssl =25.0.0 =pyhd8ed1ab_0
     - pyparsing =3.2.3 =pyhd8ed1ab_1
-    - pyqt5-sip =12.13.0 =py311hda3d55a_1
+    - pyqt5-sip =12.17.0 =py311hda3d55a_0
     - pyside6 =6.9.0 =py311h9f82be6_0
     - pysocks =1.7.1 =pyh09c184e_7
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
@@ -265,7 +265,7 @@ requirements:
     - rpds-py =0.24.0 =py311ha250665_0
     - rtree =1.4.0 =pyh11ca60a_1
     - setuptools =80.1.0 =pyhff2d567_0
-    - sip =6.8.6 =py311hda3d55a_2
+    - sip =6.10.0 =py311hda3d55a_0
     - six =1.17.0 =pyhd8ed1ab_0
     - snowballstemmer =2.2.0 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1

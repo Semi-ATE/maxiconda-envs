@@ -25,10 +25,10 @@ requirements:
     - python =3.9.22 =h59a44ae_1_cpython
 
     # 2 primary packages :
-    - pyqt =5.15.10 =py39hfe314c4_1
+    - pyqt =5.15.11 =py39h7749830_0
     - spyder-kernels =3.0.3 =unix_pyh707e725_0
 
-    # 161 secondary packages :
+    # 163 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.14 =h86ecc28_0
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -105,6 +105,7 @@ requirements:
     - libnsl =2.0.1 =h31becfc_0
     - libntlm =1.4 =hf897c2e_1002
     - libogg =1.3.5 =h86ecc28_1
+    - libopengl =1.7.0 =hd24410f_2
     - libopus =1.5.2 =h86ecc28_0
     - libpciaccess =0.18 =h31becfc_0
     - libpng =1.6.47 =hec79eb8_0
@@ -149,7 +150,7 @@ requirements:
     - pulseaudio-client =17.0 =h2f84921_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pygments =2.19.1 =pyhd8ed1ab_0
-    - pyqt5-sip =12.13.0 =py39h7dbf29c_1
+    - pyqt5-sip =12.17.0 =py39h7dbf29c_0
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
     - python_abi =3.9 =7_cp39
     - pyxdg =0.28 =pyhd8ed1ab_0
@@ -180,6 +181,7 @@ requirements:
     - xorg-libsm =1.2.6 =h0808dbd_0
     - xorg-libx11 =1.8.12 =hca56bd8_0
     - xorg-libxau =1.0.12 =h86ecc28_0
+    - xorg-libxcomposite =0.4.6 =h86ecc28_2
     - xorg-libxdamage =1.1.6 =h86ecc28_0
     - xorg-libxdmcp =1.1.5 =h57736b2_0
     - xorg-libxext =1.3.6 =h57736b2_0
