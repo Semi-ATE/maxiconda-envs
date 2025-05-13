@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.2 =pyhca7485f_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
-    # 171 secondary packages :
+    # 169 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.14 =h86ecc28_0
     - attr =2.5.1 =h4e544f5_1
@@ -67,7 +67,7 @@ requirements:
     - graphite2 =1.3.13 =h2f0025b_1003
     - gst-plugins-base =1.24.11 =h83ffb7f_0
     - gstreamer =1.24.11 =h17c303d_0
-    - harfbuzz =11.1.0 =h405b6a2_0
+    - harfbuzz =11.2.1 =h405b6a2_0
     - icu =75.1 =hf9b3779_0
     - importlib-metadata =4.11.4 =py37hd9ded2f_0
     - importlib_metadata =4.11.4 =hd8ed1ab_0
@@ -99,7 +99,7 @@ requirements:
     - libfreetype6 =2.13.3 =he93130f_1
     - libgcc =15.1.0 =he277a41_2
     - libgcc-ng =15.1.0 =he9431aa_2
-    - libgcrypt-lib =1.11.0 =h86ecc28_2
+    - libgcrypt-lib =1.11.1 =h86ecc28_0
     - libgettextpo =0.24.1 =h5ad3122_0
     - libgettextpo-devel =0.24.1 =h5ad3122_0
     - libgfortran =15.1.0 =he9431aa_2
@@ -141,8 +141,6 @@ requirements:
     - lz4-c =1.10.0 =h5ad3122_1
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mpg123 =1.32.9 =h65af167_0
-    - mysql-common =9.0.1 =h3f5c77f_6
-    - mysql-libs =9.0.1 =h11569fd_6
     - ncurses =6.5 =ha32ae93_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - nspr =4.36 =h5ad3122_0
@@ -169,7 +167,7 @@ requirements:
     - pytz =2024.2 =pyhd8ed1ab_0
     - pyvisa =1.12.0 =py37hd9ded2f_0
     - pyzmq =24.0.1 =py37h7cb28e0_0
-    - qt-main =5.15.15 =h372b06a_3
+    - qt-main =5.15.15 =hf34aa0b_4
     - readline =8.2 =h8382b9d_2
     - setuptools =59.8.0 =py37hfd236b0_1
     - sip =6.7.2 =py37hea06613_0

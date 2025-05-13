@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.32 =py38h3237794_0
     - twisted =24.7.0 =py38h3237794_0
 
-    # 132 secondary packages :
+    # 130 secondary packages :
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.4 =pyhd8ed1ab_0
     - asgiref =3.8.1 =pyhd8ed1ab_0
@@ -105,8 +105,6 @@ requirements:
     - libzlib =1.3.1 =h8359307_2
     - markupsafe =2.1.5 =py38h336bac9_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
-    - mysql-common =9.0.1 =hd7719f6_6
-    - mysql-libs =9.0.1 =ha8be5b7_6
     - ncurses =6.5 =h5e97a16_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - nspr =4.36 =h5833ebf_0
@@ -137,7 +135,7 @@ requirements:
     - python_abi =3.8 =7_cp38
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.2.0 =py38h7e0d939_0
-    - qt-main =5.15.15 =h67564f6_3
+    - qt-main =5.15.15 =h67564f6_4
     - readline =8.2 =h1d1bf99_2
     - service-identity =24.2.0 =pyha770c72_0
     - service_identity =24.2.0 =hd8ed1ab_1

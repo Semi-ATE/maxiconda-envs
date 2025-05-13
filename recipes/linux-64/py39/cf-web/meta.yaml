@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.40 =py39h8cd3c5a_0
     - twisted =24.11.0 =py39h8cd3c5a_0
 
-    # 198 secondary packages :
+    # 196 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.14 =hb9d3cd8_0
@@ -82,7 +82,7 @@ requirements:
     - gst-plugins-base =1.24.11 =h651a532_0
     - gstreamer =1.24.11 =hc37bda9_0
     - h2 =4.2.0 =pyhd8ed1ab_0
-    - harfbuzz =11.1.0 =h3beb420_0
+    - harfbuzz =11.2.1 =h3beb420_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - hyperlink =21.0.0 =pyh29332c3_1
@@ -116,7 +116,7 @@ requirements:
     - libfreetype6 =2.13.3 =h48d6fc4_1
     - libgcc =15.1.0 =h767d61c_2
     - libgcc-ng =15.1.0 =h69a702a_2
-    - libgcrypt-lib =1.11.0 =hb9d3cd8_2
+    - libgcrypt-lib =1.11.1 =hb9d3cd8_0
     - libgettextpo =0.24.1 =h5888daf_0
     - libgettextpo-devel =0.24.1 =h5888daf_0
     - libgl =1.7.0 =ha4b6fd6_2
@@ -154,8 +154,6 @@ requirements:
     - markupsafe =3.0.2 =py39h9399b63_1
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mpg123 =1.32.9 =hc50e24c_0
-    - mysql-common =9.0.1 =h266115a_6
-    - mysql-libs =9.0.1 =he0572af_6
     - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.36 =h5888daf_0
@@ -188,7 +186,7 @@ requirements:
     - python_abi =3.9 =7_cp39
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.4.0 =py39h4e4fb57_0
-    - qt-main =5.15.15 =h993ce98_3
+    - qt-main =5.15.15 =hea1682b_4
     - readline =8.2 =h8c095d6_2
     - service-identity =24.2.0 =pyha770c72_1
     - service_identity =24.2.0 =hd8ed1ab_1

@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.2 =pyhca7485f_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
-    # 103 secondary packages :
+    # 101 secondary packages :
     - appnope =0.1.4 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_4
@@ -93,8 +93,6 @@ requirements:
     - libzlib =1.3.1 =hd23fc13_2
     - llvm-openmp =20.1.4 =ha54dae1_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
-    - mysql-common =9.0.1 =hd00b0ec_6
-    - mysql-libs =9.0.1 =h062309a_6
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - nspr =4.36 =h97d8b74_0
@@ -118,7 +116,7 @@ requirements:
     - pytz =2024.2 =pyhd8ed1ab_0
     - pyvisa =1.12.0 =py37hf985489_0
     - pyzmq =24.0.1 =py37haa7bc41_0
-    - qt-main =5.15.15 =h30a8c49_3
+    - qt-main =5.15.15 =h30a8c49_4
     - readline =8.2 =h7cca4af_2
     - setuptools =59.8.0 =py37hf985489_1
     - sip =6.7.2 =py37hac51a3e_0

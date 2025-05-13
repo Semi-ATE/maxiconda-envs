@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.14.4 =py39hff9a475_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
 
-    # 398 secondary packages :
+    # 396 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - adwaita-icon-theme =48.0 =unix_0
     - alembic =1.15.2 =pyhd8ed1ab_0
@@ -156,7 +156,7 @@ requirements:
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =23.0.0 =py39h6e9494a_1
     - h2 =4.2.0 =pyhd8ed1ab_0
-    - harfbuzz =11.1.0 =hdfbcdba_0
+    - harfbuzz =11.2.1 =hdfbcdba_0
     - hicolor-icon-theme =0.17 =h694c41f_2
     - hpack =4.1.0 =pyhd8ed1ab_0
     - htmlmin =0.1.12 =pyhca7485f_2
@@ -207,7 +207,7 @@ requirements:
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.13.0 =h5dec5d8_0
     - libcxx =20.1.4 =hf95d169_1
-    - libdeflate =1.23 =hcc1b750_0
+    - libdeflate =1.24 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
     - libevent =2.1.12 =ha90c15b_1
@@ -249,7 +249,7 @@ requirements:
     - libsqlite =3.49.2 =hdb6dae5_0
     - libssh2 =1.11.1 =hed3591d_0
     - libthrift =0.21.0 =h75589b3_0
-    - libtiff =4.7.0 =hb77a491_4
+    - libtiff =4.7.0 =h1167cee_5
     - libtorch =2.7.0 =cpu_mkl_hef2e83f_100
     - libutf8proc =2.10.0 =h777c5d8_0
     - libuv =1.50.0 =h4cb831e_0
@@ -283,9 +283,7 @@ requirements:
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.10 =py39ha92e968_2
-    - mysql-common =9.0.1 =hd00b0ec_6
-    - mysql-libs =9.0.1 =h062309a_6
-    - narwhals =1.38.2 =pyhe01879c_0
+    - narwhals =1.39.0 =pyhe01879c_0
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2.1 =pyhd8ed1ab_0
@@ -364,7 +362,7 @@ requirements:
     - pyyaml =6.0.2 =py39hd18e689_2
     - pyzmq =26.4.0 =py39hf094b8e_0
     - qhull =2020.2 =h3c5361c_5
-    - qt-main =5.15.15 =h30a8c49_3
+    - qt-main =5.15.15 =h30a8c49_4
     - querystring_parser =1.2.4 =pyhd8ed1ab_2
     - queuelib =1.8.0 =pyhd8ed1ab_0
     - re2 =2024.07.02 =hf8a452e_3
