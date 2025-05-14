@@ -25,7 +25,7 @@ requirements:
     - python =3.11.12 =hc22306f_0_cpython
 
     # 9 primary packages :
-    - cython =3.1.0 =py311h71112e5_0
+    - cython =3.1.0 =py311h71112e5_1
     - matplotlib =3.10.3 =py311ha1ab1f8_0
     - numpy =2.2.5 =py311h762c074_0
     - pandas =2.2.3 =py311hca32420_3
@@ -284,7 +284,7 @@ requirements:
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
     - spyder-base =6.0.5 =osx_pyh1a5313d_3
-    - spyder-kernels =3.0.3 =unix_pyh707e725_0
+    - spyder-kernels =3.0.4 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.3 =pyhb6d5dde_0
     - tabulate =0.9.0 =pyhd8ed1ab_2
