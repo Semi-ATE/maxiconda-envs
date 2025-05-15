@@ -33,10 +33,10 @@ requirements:
     - pyqt =5.15.11 =py39he15501f_0
     - pyqtwebengine =5.15.11 =py39h5f1a536_0
     - scipy =1.13.1 =py39h1a10956_0
-    - spyder =6.0.5 =hd8ed1ab_3
+    - spyder =6.0.6 =hd8ed1ab_0
     - sympy =1.14.0 =pyh04b8f61_5
 
-    # 284 secondary packages :
+    # 285 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.11.18 =py39hf73967f_0
@@ -53,6 +53,7 @@ requirements:
     - babel =2.17.0 =pyhd8ed1ab_0
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhd8ed1ab_1
+    - bcrypt =4.3.0 =py39h92a245a_0
     - beautifulsoup4 =4.13.4 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =25.1.0 =pyha5154f8_0
@@ -278,7 +279,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
-    - spyder-base =6.0.5 =py39hcbf5309_3
+    - spyder-base =6.0.6 =py39hcbf5309_0
     - spyder-kernels =3.0.4 =win_pyh7428d3b_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.3 =pyhb6d5dde_0

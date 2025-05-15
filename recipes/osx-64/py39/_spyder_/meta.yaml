@@ -32,10 +32,10 @@ requirements:
     - pyqt =5.15.11 =py39h39ab9d1_0
     - pyqtwebengine =5.15.11 =py39hae0c01f_0
     - scipy =1.13.1 =py39h038d4f4_0
-    - spyder =6.0.5 =hd8ed1ab_3
+    - spyder =6.0.6 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 286 secondary packages :
+    # 287 secondary packages :
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.11.18 =py39hd18e689_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
@@ -53,6 +53,7 @@ requirements:
     - babel =2.17.0 =pyhd8ed1ab_0
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhd8ed1ab_1
+    - bcrypt =4.3.0 =py39hd8827cb_0
     - beautifulsoup4 =4.13.4 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =25.1.0 =pyha5154f8_0
@@ -136,7 +137,7 @@ requirements:
     - libcblas =3.9.0 =31_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =20.1.4 =default_h9644bed_0
-    - libcxx =20.1.4 =hf95d169_1
+    - libcxx =20.1.5 =hf95d169_0
     - libdeflate =1.24 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libexpat =2.7.0 =h240833e_0
@@ -284,7 +285,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
-    - spyder-base =6.0.5 =osx_pyh1a5313d_3
+    - spyder-base =6.0.6 =osx_pyh1a5313d_0
     - spyder-kernels =3.0.4 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.3 =pyhb6d5dde_0
