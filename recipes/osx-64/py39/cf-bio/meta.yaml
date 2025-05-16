@@ -107,7 +107,7 @@ requirements:
     - libbrotlienc =1.1.0 =h00291cd_2
     - libcblas =3.9.0 =31_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =20.1.4 =default_h9644bed_0
+    - libclang13 =20.1.5 =default_h9644bed_0
     - libcurl =8.13.0 =h5dec5d8_0
     - libcxx =20.1.5 =hf95d169_0
     - libdeflate =1.24 =hcc1b750_0
@@ -126,7 +126,7 @@ requirements:
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
     - liblapack =3.9.0 =31_h236ab99_openblas
     - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm20 =20.1.4 =h29c3a6c_0
+    - libllvm20 =20.1.5 =h29c3a6c_0
     - liblzma =5.8.1 =hd471939_1
     - libnetcdf =4.9.2 =nompi_hf3c7182_116
     - libnghttp2 =1.64.0 =hc7306c3_0
@@ -197,7 +197,7 @@ requirements:
     - qhull =2020.2 =h3c5361c_5
     - qt-main =5.15.15 =h30a8c49_4
     - readline =8.2 =h7cca4af_2
-    - reportlab =4.4.0 =py39h80efdc8_0
+    - reportlab =4.4.1 =py39h80efdc8_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
     - scikit-learn =1.6.1 =py39he8fe7b2_0
     - seaborn =0.13.2 =hd8ed1ab_3
@@ -206,7 +206,7 @@ requirements:
     - sip =6.10.0 =py39hdf37715_0
     - six =1.17.0 =pyhd8ed1ab_0
     - snappy =1.2.1 =haf3c120_1
-    - sqlalchemy =2.0.40 =py39h80efdc8_0
+    - sqlalchemy =2.0.41 =py39h80efdc8_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - statsmodels =0.14.4 =py39hff9a475_0
     - threadpoolctl =3.6.0 =pyhecae5ae_0

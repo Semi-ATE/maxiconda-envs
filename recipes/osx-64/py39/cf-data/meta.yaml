@@ -31,7 +31,7 @@ requirements:
     - matplotlib =3.9.4 =py39h6e9494a_0
     - numpy =1.26.4 =py39h28c39a1_0
     - pandas =2.2.3 =py39hb7d32d6_3
-    - plotly =6.0.1 =pyhd8ed1ab_0
+    - plotly =6.1.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =4.0.0 =py39h6e9494a_0
     - pyqt =5.15.11 =py39h39ab9d1_0
@@ -41,7 +41,7 @@ requirements:
     - scrapy =2.13.0 =pyhd8ed1ab_0
     - seaborn =0.13.2 =hd8ed1ab_3
     - spyder-kernels =3.0.4 =unix_pyh707e725_0
-    - sqlalchemy =2.0.40 =py39h80efdc8_0
+    - sqlalchemy =2.0.41 =py39h80efdc8_0
     - sqlite =3.49.2 =h2e4c9dc_0
     - statsmodels =0.14.4 =py39hff9a475_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
@@ -92,7 +92,7 @@ requirements:
     - charset-normalizer =3.4.2 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyhd8ed1ab_1
     - click =8.1.8 =pyh707e725_0
-    - cloudpathlib =0.21.0 =pyhd8ed1ab_1
+    - cloudpathlib =0.21.1 =pyhd8ed1ab_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - colorlover =0.3.0 =py_0
@@ -104,7 +104,7 @@ requirements:
     - contourpy =1.3.0 =py39h0d3c867_2
     - cpython =3.9.22 =py39hd8ed1ab_1
     - cryptography =44.0.3 =py39hce2744d_0
-    - cssselect =1.2.0 =pyhd8ed1ab_1
+    - cssselect =1.3.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =pyhff2d567_1
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cymem =2.0.11 =py39hdf37715_0
@@ -203,7 +203,7 @@ requirements:
     - libbrotlienc =1.1.0 =h00291cd_2
     - libcblas =3.9.0 =20_osx64_mkl
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =20.1.4 =default_h9644bed_0
+    - libclang13 =20.1.5 =default_h9644bed_0
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.13.0 =h5dec5d8_0
     - libcxx =20.1.5 =hf95d169_0
@@ -231,7 +231,7 @@ requirements:
     - liblightgbm =4.6.0 =cpu_h458a52c_1
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm20 =20.1.4 =h29c3a6c_0
+    - libllvm20 =20.1.5 =h29c3a6c_0
     - liblzma =5.8.1 =hd471939_1
     - libnghttp2 =1.64.0 =hc7306c3_0
     - libntlm =1.8 =h6e16a3a_0
@@ -283,7 +283,7 @@ requirements:
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - murmurhash =1.0.10 =py39ha92e968_2
-    - narwhals =1.39.0 =pyhe01879c_0
+    - narwhals =1.39.1 =pyhe01879c_0
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2.1 =pyhd8ed1ab_0

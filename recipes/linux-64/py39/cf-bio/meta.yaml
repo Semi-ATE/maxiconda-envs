@@ -122,8 +122,8 @@ requirements:
     - libbrotlienc =1.1.0 =hb9d3cd8_2
     - libcap =2.75 =h39aace5_0
     - libcblas =3.9.0 =31_he106b2a_openblas
-    - libclang-cpp20.1 =20.1.4 =default_h1df26ce_0
-    - libclang13 =20.1.4 =default_he06ed0a_0
+    - libclang-cpp20.1 =20.1.5 =default_h1df26ce_0
+    - libclang13 =20.1.5 =default_he06ed0a_0
     - libcups =2.3.3 =h4637d8d_4
     - libcurl =8.13.0 =h332b0f4_0
     - libdeflate =1.24 =h86f0d12_0
@@ -155,7 +155,7 @@ requirements:
     - libiconv =1.18 =h4ce23a2_1
     - libjpeg-turbo =3.1.0 =hb9d3cd8_0
     - liblapack =3.9.0 =31_h7ac8fdf_openblas
-    - libllvm20 =20.1.4 =he9d0ab4_0
+    - libllvm20 =20.1.5 =he9d0ab4_0
     - liblzma =5.8.1 =hb9d3cd8_1
     - libnetcdf =4.9.2 =nompi_h0134ee8_117
     - libnghttp2 =1.64.0 =h161d5f1_0
@@ -240,7 +240,7 @@ requirements:
     - qt-main =5.15.15 =hea1682b_4
     - qt6-main =6.9.0 =h8d00660_2
     - readline =8.2 =h8c095d6_2
-    - reportlab =4.4.0 =py39h8cd3c5a_0
+    - reportlab =4.4.1 =py39h8cd3c5a_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
     - scikit-learn =1.6.1 =py39h4b7350c_0
     - seaborn =0.13.2 =hd8ed1ab_3
@@ -249,7 +249,7 @@ requirements:
     - sip =6.10.0 =py39hf88036b_0
     - six =1.17.0 =pyhd8ed1ab_0
     - snappy =1.2.1 =h8bd8927_1
-    - sqlalchemy =2.0.40 =py39h8cd3c5a_0
+    - sqlalchemy =2.0.41 =py39h8cd3c5a_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - statsmodels =0.14.4 =py39hf3d9206_0
     - threadpoolctl =3.6.0 =pyhecae5ae_0
