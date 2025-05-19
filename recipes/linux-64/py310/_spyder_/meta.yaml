@@ -27,7 +27,7 @@ requirements:
     # 9 primary packages :
     - cython =3.1.0 =py310had8cdd9_1
     - matplotlib =3.10.3 =py310hff52083_0
-    - numpy =2.2.5 =py310hefbff90_0
+    - numpy =2.2.6 =py310hefbff90_0
     - pandas =2.2.3 =py310h5eaa309_3
     - pyqt =5.15.11 =py310hf392a12_0
     - pyqtwebengine =5.15.11 =py310had9264b_0
@@ -78,7 +78,7 @@ requirements:
     - contourpy =1.3.2 =py310h3788b33_0
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
     - cpython =3.10.17 =py310hd8ed1ab_0
-    - cryptography =44.0.3 =py310h6c63255_0
+    - cryptography =45.0.2 =py310h6c63255_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =h54b06d7_7
     - dbus =1.13.6 =h5008d03_3
@@ -246,7 +246,7 @@ requirements:
     - openldap =2.6.9 =he970967_0
     - openssl =3.5.0 =h7b32b05_1
     - packaging =25.0 =pyh29332c3_1
-    - pandoc =3.7 =ha770c72_0
+    - pandoc =3.7.0.1 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_1
     - pathspec =0.12.1 =pyhd8ed1ab_1
@@ -279,7 +279,7 @@ requirements:
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.5.0 =py310ha75aee5_4
-    - pyopenssl =25.0.0 =pyhd8ed1ab_0
+    - pyopenssl =25.1.0 =pyhd8ed1ab_0
     - pyparsing =3.2.3 =pyhd8ed1ab_1
     - pyqt5-sip =12.17.0 =py310hf71b8c6_0
     - pyside6 =6.9.0 =py310hfd10a26_0
