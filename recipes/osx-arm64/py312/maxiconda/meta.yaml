@@ -28,7 +28,7 @@ requirements:
     - aiohttp =3.11.18 =py312h998013c_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.13.4 =pyha770c72_0
-    - cython =3.1.0 =py312h02233ea_1
+    - cython =3.1.1 =py312h02233ea_1
     - grayskull =2.9.1 =pyhd8ed1ab_0
     - hypothesis =6.131.18 =pyha770c72_0
     - ipython =9.2.0 =pyhfb0248b_0
@@ -93,11 +93,11 @@ requirements:
     - certifi =2025.4.26 =pyhd8ed1ab_0
     - cffi =1.17.1 =py312h0fad829_0
     - charset-normalizer =3.4.2 =pyhd8ed1ab_0
-    - clang =20.1.5 =default_hcdeef69_0
-    - clang-20 =20.1.5 =default_h03658f6_0
+    - clang =20.1.5 =default_hcdeef69_1
+    - clang-20 =20.1.5 =default_h03658f6_1
     - clang_impl_osx-arm64 =20.1.5 =h198f50a_24
     - clang_osx-arm64 =20.1.5 =h07b0088_24
-    - clangxx =20.1.5 =default_haca757a_0
+    - clangxx =20.1.5 =default_haca757a_1
     - clangxx_impl_osx-arm64 =20.1.5 =ha6cee9d_24
     - clangxx_osx-arm64 =20.1.5 =h07b0088_24
     - click =8.2.0 =pyh707e725_0
@@ -184,8 +184,8 @@ requirements:
     - libbrotlienc =1.1.0 =hd74edd7_2
     - libcblas =3.9.0 =31_hb3479ef_openblas
     - libclang-cpp17 =17.0.6 =default_hf90f093_8
-    - libclang-cpp20.1 =20.1.5 =default_h03658f6_0
-    - libclang13 =20.1.5 =default_hee4fbb3_0
+    - libclang-cpp20.1 =20.1.5 =default_h03658f6_1
+    - libclang13 =20.1.5 =default_hee4fbb3_1
     - libcurl =8.13.0 =h73640d1_0
     - libcxx =20.1.5 =ha82da77_0
     - libcxx-devel =20.1.5 =h6dc3340_0

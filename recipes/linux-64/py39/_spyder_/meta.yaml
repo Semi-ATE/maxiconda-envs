@@ -25,7 +25,7 @@ requirements:
     - python =3.9.22 =h85ef794_1_cpython
 
     # 9 primary packages :
-    - cython =3.1.0 =py39hbce0bbb_1
+    - cython =3.1.1 =py39hbce0bbb_1
     - matplotlib =3.9.4 =py39hf3d152e_0
     - numpy =2.0.2 =py39h9cb892a_1
     - pandas =2.2.3 =py39h3b40f6f_3
@@ -159,8 +159,8 @@ requirements:
     - libbrotlienc =1.1.0 =hb9d3cd8_2
     - libcap =2.75 =h39aace5_0
     - libcblas =3.9.0 =31_he106b2a_openblas
-    - libclang-cpp20.1 =20.1.5 =default_h1df26ce_0
-    - libclang13 =20.1.5 =default_he06ed0a_0
+    - libclang-cpp20.1 =20.1.5 =default_h1df26ce_1
+    - libclang13 =20.1.5 =default_he06ed0a_1
     - libcups =2.3.3 =h4637d8d_4
     - libdeflate =1.24 =h86f0d12_0
     - libdrm =2.4.124 =hb9d3cd8_0
