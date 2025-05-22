@@ -55,7 +55,7 @@ requirements:
     - rust =1.87.0 =hf8d6059_0
     - scipy =1.10.1 =py38h1aea9ed_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
-    - spyder-kernels =3.0.4 =win_pyh7428d3b_0
+    - spyder-kernels =3.0.5 =win_pyh7428d3b_0
     - sqlalchemy =2.0.32 =py38h4cb3324_0
     - sqlite =3.49.2 =h2466b09_0
     - sympy =1.13.3 =pyh04b8f61_4
@@ -111,8 +111,8 @@ requirements:
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.13.3 =h57928b3_1
     - frozenlist =1.4.1 =py38h91455d4_0
-    - glib =2.84.1 =he8f994d_1
-    - glib-tools =2.84.1 =h4394cf3_1
+    - glib =2.84.2 =he8f994d_0
+    - glib-tools =2.84.2 =h4394cf3_0
     - greenlet =3.0.3 =py38hd3f51b4_0
     - gst-plugins-base =1.24.11 =h3fe0a9e_0
     - gstreamer =1.24.11 =h233a61a_0
@@ -161,7 +161,7 @@ requirements:
     - libffi =3.4.6 =h537db12_1
     - libfreetype =2.13.3 =h57928b3_1
     - libfreetype6 =2.13.3 =h0b5ce68_1
-    - libglib =2.84.1 =hbc94333_1
+    - libglib =2.84.2 =hbc94333_0
     - libhwloc =2.11.2 =default_hc8275d1_1000
     - libiconv =1.18 =h135ad9c_1
     - libintl =0.22.5 =h5728263_3

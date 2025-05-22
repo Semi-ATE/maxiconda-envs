@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.4.0 =py311he736701_0
     - cython =3.1.1 =py311h34f20a9_1
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.131.20 =pyha770c72_0
+    - hypothesis =6.131.21 =pyha770c72_0
     - ipython =9.2.0 =pyhca29cf9_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.3 =py311h1ea47a8_0
@@ -93,7 +93,7 @@ requirements:
     - certifi =2025.4.26 =pyhd8ed1ab_0
     - cffi =1.17.1 =py311he736701_0
     - charset-normalizer =3.4.2 =pyhd8ed1ab_0
-    - click =8.2.0 =pyh7428d3b_0
+    - click =8.2.1 =pyh7428d3b_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.2 =pyhd8ed1ab_1
@@ -123,8 +123,8 @@ requirements:
     - frozenlist =1.6.0 =py311hc121033_0
     - gcc_impl_win-64 =15.1.0 =hb5bc704_2
     - gfortran_impl_win-64 =15.1.0 =h792c6fe_2
-    - glib =2.84.1 =he8f994d_1
-    - glib-tools =2.84.1 =h4394cf3_1
+    - glib =2.84.2 =he8f994d_0
+    - glib-tools =2.84.2 =h4394cf3_0
     - graphite2 =1.3.13 =h63175ca_1003
     - greenlet =3.2.2 =py311hda3d55a_0
     - gsl =2.7 =hdfb1a43_0
@@ -183,7 +183,7 @@ requirements:
     - libgcc-devel_win-64 =15.1.0 =hec057c1_102
     - libgfortran =15.1.0 =h719f0c7_2
     - libgfortran5 =15.1.0 =h997fb6f_2
-    - libglib =2.84.1 =hbc94333_1
+    - libglib =2.84.2 =hbc94333_0
     - libgomp =15.1.0 =h1383e82_2
     - libhwloc =2.11.2 =default_ha69328c_1001
     - libiconv =1.18 =h135ad9c_1
@@ -402,7 +402,7 @@ requirements:
     - r-rcppeigen =0.3.4.0.2 =r44h3dc9324_0
     - r-readr =2.1.5 =r44h8ae3a7c_1
     - r-readxl =1.4.5 =r44h9f0104f_0
-    - r-recipes =1.3.0 =r44hc72bb7e_0
+    - r-recipes =1.3.1 =r44hc72bb7e_0
     - r-recommended =4.4 =r44hd8ed1ab_1007
     - r-rematch =2.0.0 =r44hc72bb7e_1
     - r-rematch2 =2.1.2 =r44hc72bb7e_4
@@ -456,13 +456,13 @@ requirements:
     - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.25.0 =py311hc4022dc_0
+    - rpds-py =0.25.1 =py311hc4022dc_0
     - ruamel.yaml =0.18.10 =py311he736701_0
     - ruamel.yaml.clib =0.2.8 =py311he736701_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-pc-windows-msvc =1.87.0 =h17fc481_0
     - send2trash =1.8.3 =pyh5737063_1
-    - setuptools =80.1.0 =pyhff2d567_0
+    - setuptools =80.8.0 =pyhff2d567_0
     - sip =6.10.0 =py311hda3d55a_0
     - six =1.17.0 =pyhd8ed1ab_0
     - sniffio =1.3.1 =pyhd8ed1ab_1
@@ -482,7 +482,7 @@ requirements:
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - types-python-dateutil =2.9.0.20250516 =pyhd8ed1ab_0
     - typing-extensions =4.13.2 =h0e9735f_0
-    - typing-inspection =0.4.0 =pyhd8ed1ab_0
+    - typing-inspection =0.4.1 =pyhd8ed1ab_0
     - typing_extensions =4.13.2 =pyh29332c3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
     - tzdata =2025b =h78e105d_0

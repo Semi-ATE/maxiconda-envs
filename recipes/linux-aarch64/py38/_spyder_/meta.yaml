@@ -35,7 +35,7 @@ requirements:
     - spyder =6.0.4 =hd8ed1ab_1
     - sympy =1.13.3 =pyh2585a3b_104
 
-    # 353 secondary packages :
+    # 352 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
     - aiohttp =3.10.5 =py38ha5227f9_0
@@ -79,7 +79,7 @@ requirements:
     - cryptography =43.0.0 =py38ha9ee602_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cyrus-sasl =2.1.27 =hf6b2984_7
-    - dbus =1.13.6 =h12b9eeb_3
+    - dbus =1.16.2 =heda779d_0
     - debugpy =1.8.5 =py38h8529334_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
@@ -90,7 +90,6 @@ requirements:
     - docutils =0.20.1 =py38h2063c64_3
     - entrypoints =0.4 =pyhd8ed1ab_0
     - executing =2.1.0 =pyhd8ed1ab_0
-    - expat =2.7.0 =h5ad3122_0
     - fcitx-qt5 =1.2.7 =h4f2ce49_2
     - flake8 =7.1.1 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -107,8 +106,8 @@ requirements:
     - gettext =0.24.1 =h5ad3122_0
     - gettext-tools =0.24.1 =h5ad3122_0
     - giflib =5.2.2 =h31becfc_0
-    - glib =2.84.1 =h5702d23_1
-    - glib-tools =2.84.1 =h78ca943_1
+    - glib =2.84.2 =h5702d23_0
+    - glib-tools =2.84.2 =h78ca943_0
     - gmp =6.3.0 =h0a1ffab_2
     - gmpy2 =2.1.5 =py38h55fd771_1
     - graphite2 =1.3.13 =h2f0025b_1003
@@ -180,7 +179,7 @@ requirements:
     - libgfortran-ng =15.1.0 =he9431aa_2
     - libgfortran5 =15.1.0 =hbc25352_2
     - libgl =1.7.0 =hd24410f_2
-    - libglib =2.84.1 =hc022ef1_1
+    - libglib =2.84.2 =hc022ef1_0
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
     - libgomp =15.1.0 =he277a41_2
@@ -330,7 +329,7 @@ requirements:
     - sphinxcontrib-qthelp =1.0.3 =py_0
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_2
     - spyder-base =6.0.4 =linux_pyh62a8a7d_1
-    - spyder-kernels =3.0.4 =unix_pyh707e725_0
+    - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - superqt =0.6.7 =pyh9208f05_0
     - tabulate =0.9.0 =pyhd8ed1ab_1

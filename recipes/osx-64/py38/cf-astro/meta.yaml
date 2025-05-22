@@ -26,7 +26,7 @@ requirements:
 
     # 2 primary packages :
     - pyqt =5.15.9 =py38he1c912d_5
-    - spyder-kernels =3.0.4 =unix_pyh707e725_0
+    - spyder-kernels =3.0.5 =unix_pyh707e725_0
 
     # 94 secondary packages :
     - appnope =0.1.4 =pyhd8ed1ab_0
@@ -40,8 +40,8 @@ requirements:
     - debugpy =1.8.5 =py38h8949568_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - executing =2.1.0 =pyhd8ed1ab_0
-    - glib =2.84.1 =h489497d_1
-    - glib-tools =2.84.1 =hf8faeaf_1
+    - glib =2.84.2 =h489497d_0
+    - glib-tools =2.84.2 =hf8faeaf_0
     - gst-plugins-base =1.24.11 =h09840cc_0
     - gstreamer =1.24.11 =h7d1b200_0
     - icu =75.1 =h120a0e1_0
@@ -57,7 +57,7 @@ requirements:
     - libcxx =20.1.5 =hf95d169_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libffi =3.4.6 =h281671d_1
-    - libglib =2.84.1 =h3139dbc_1
+    - libglib =2.84.2 =h3139dbc_0
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.24.1 =h27064b9_0
     - libintl-devel =0.24.1 =h27064b9_0

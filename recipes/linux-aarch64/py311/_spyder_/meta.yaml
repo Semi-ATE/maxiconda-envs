@@ -35,7 +35,7 @@ requirements:
     - spyder =6.0.6 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 354 secondary packages :
+    # 353 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.11.18 =py311h58d527c_0
@@ -69,7 +69,7 @@ requirements:
     - cffi =1.17.1 =py311h14e8bb7_0
     - chardet =5.2.0 =pyhd8ed1ab_3
     - charset-normalizer =3.4.2 =pyhd8ed1ab_0
-    - click =8.2.0 =pyh707e725_0
+    - click =8.2.1 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.2 =pyhd8ed1ab_1
@@ -79,7 +79,7 @@ requirements:
     - cryptography =45.0.2 =py311h4047cc9_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =hf6b2984_7
-    - dbus =1.13.6 =h12b9eeb_3
+    - dbus =1.16.2 =heda779d_0
     - debugpy =1.8.14 =py311h89d996e_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
@@ -91,7 +91,6 @@ requirements:
     - double-conversion =3.3.1 =h5ad3122_0
     - exceptiongroup =1.3.0 =pyhd8ed1ab_0
     - executing =2.2.0 =pyhd8ed1ab_0
-    - expat =2.7.0 =h5ad3122_0
     - flake8 =7.1.2 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -107,8 +106,8 @@ requirements:
     - gettext =0.24.1 =h5ad3122_0
     - gettext-tools =0.24.1 =h5ad3122_0
     - giflib =5.2.2 =h31becfc_0
-    - glib =2.84.1 =h5702d23_1
-    - glib-tools =2.84.1 =h78ca943_1
+    - glib =2.84.2 =h5702d23_0
+    - glib-tools =2.84.2 =h78ca943_0
     - gmp =6.3.0 =h0a1ffab_2
     - gmpy2 =2.2.1 =py311h8dd2ae4_0
     - graphite2 =1.3.13 =h2f0025b_1003
@@ -177,7 +176,7 @@ requirements:
     - libgfortran =15.1.0 =he9431aa_2
     - libgfortran5 =15.1.0 =hbc25352_2
     - libgl =1.7.0 =hd24410f_2
-    - libglib =2.84.1 =hc022ef1_1
+    - libglib =2.84.2 =hc022ef1_0
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
     - libgomp =15.1.0 =he277a41_2
@@ -314,10 +313,10 @@ requirements:
     - rich =14.0.0 =pyh29332c3_0
     - roman-numerals-py =3.1.0 =pyhd8ed1ab_0
     - rope =1.13.0 =pyhd8ed1ab_1
-    - rpds-py =0.25.0 =py311h38c8ada_0
+    - rpds-py =0.25.1 =py311h38c8ada_0
     - rtree =1.4.0 =pyh11ca60a_1
     - secretstorage =3.3.3 =py311hfecb2dc_3
-    - setuptools =80.1.0 =pyhff2d567_0
+    - setuptools =80.8.0 =pyhff2d567_0
     - sip =6.11.0 =py311h2e0833b_0
     - six =1.17.0 =pyhd8ed1ab_0
     - snowballstemmer =3.0.1 =pyhd8ed1ab_0
@@ -331,7 +330,7 @@ requirements:
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
     - spyder-base =6.0.6 =linux_pyh62a8a7d_0
-    - spyder-kernels =3.0.4 =unix_pyh707e725_0
+    - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.3 =pyhb6d5dde_0
     - tabulate =0.9.0 =pyhd8ed1ab_2

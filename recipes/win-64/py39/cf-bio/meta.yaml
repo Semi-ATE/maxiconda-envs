@@ -34,7 +34,7 @@ requirements:
     - pyqt =5.15.11 =py39he15501f_0
     - rdkit =2025.03.2 =py39h52b897c_0
     - scipy =1.13.1 =py39h1a10956_0
-    - spyder-kernels =3.0.4 =win_pyh7428d3b_0
+    - spyder-kernels =3.0.5 =win_pyh7428d3b_0
 
     # 190 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
@@ -73,8 +73,8 @@ requirements:
     - freetype =2.13.3 =h57928b3_1
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - glew =2.1.0 =h39d44d4_2
-    - glib =2.84.1 =he8f994d_1
-    - glib-tools =2.84.1 =h4394cf3_1
+    - glib =2.84.2 =he8f994d_0
+    - glib-tools =2.84.2 =h4394cf3_0
     - glm =1.0.1 =hb611fcd_0
     - graphite2 =1.3.13 =h63175ca_1003
     - greenlet =3.2.2 =py39ha51f57c_0
@@ -117,7 +117,7 @@ requirements:
     - libfreetype =2.13.3 =h57928b3_1
     - libfreetype6 =2.13.3 =h0b5ce68_1
     - libgcc =15.1.0 =h1383e82_2
-    - libglib =2.84.1 =hbc94333_1
+    - libglib =2.84.2 =hbc94333_0
     - libgomp =15.1.0 =h1383e82_2
     - libhwloc =2.11.2 =default_ha69328c_1001
     - libiconv =1.18 =h135ad9c_1
@@ -193,7 +193,7 @@ requirements:
     - scikit-learn =1.6.1 =py39hdd013cc_0
     - seaborn =0.13.2 =hd8ed1ab_3
     - seaborn-base =0.13.2 =pyhd8ed1ab_3
-    - setuptools =80.1.0 =pyhff2d567_0
+    - setuptools =80.8.0 =pyhff2d567_0
     - sip =6.10.0 =py39ha51f57c_0
     - six =1.17.0 =pyhd8ed1ab_0
     - snappy =1.2.1 =h500f7fa_1

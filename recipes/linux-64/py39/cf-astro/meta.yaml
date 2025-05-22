@@ -26,9 +26,9 @@ requirements:
 
     # 2 primary packages :
     - pyqt =5.15.11 =py39h08c78a2_0
-    - spyder-kernels =3.0.4 =unix_pyh707e725_0
+    - spyder-kernels =3.0.5 =unix_pyh707e725_0
 
-    # 162 secondary packages :
+    # 161 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.14 =hb9d3cd8_0
@@ -40,12 +40,11 @@ requirements:
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =h54b06d7_7
-    - dbus =1.13.6 =h5008d03_3
+    - dbus =1.16.2 =h3c4dab8_0
     - debugpy =1.8.14 =py39hf88036b_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - exceptiongroup =1.3.0 =pyhd8ed1ab_0
     - executing =2.2.0 =pyhd8ed1ab_0
-    - expat =2.7.0 =h5888daf_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -56,8 +55,8 @@ requirements:
     - freetype =2.13.3 =ha770c72_1
     - gettext =0.24.1 =h5888daf_0
     - gettext-tools =0.24.1 =h5888daf_0
-    - glib =2.84.1 =h6287aef_1
-    - glib-tools =2.84.1 =h4833e2c_1
+    - glib =2.84.2 =h6287aef_0
+    - glib-tools =2.84.2 =h4833e2c_0
     - graphite2 =1.3.13 =h59595ed_1003
     - gst-plugins-base =1.24.11 =h651a532_0
     - gstreamer =1.24.11 =hc37bda9_0
@@ -94,7 +93,7 @@ requirements:
     - libgettextpo =0.24.1 =h5888daf_0
     - libgettextpo-devel =0.24.1 =h5888daf_0
     - libgl =1.7.0 =ha4b6fd6_2
-    - libglib =2.84.1 =h3618099_1
+    - libglib =2.84.2 =h3618099_0
     - libglvnd =1.7.0 =ha4b6fd6_2
     - libglx =1.7.0 =ha4b6fd6_2
     - libgomp =15.1.0 =h767d61c_2
@@ -156,7 +155,7 @@ requirements:
     - pyzmq =26.4.0 =py39h4e4fb57_0
     - qt-main =5.15.15 =hea1682b_4
     - readline =8.2 =h8c095d6_2
-    - setuptools =80.1.0 =pyhff2d567_0
+    - setuptools =80.8.0 =pyhff2d567_0
     - sip =6.10.0 =py39hf88036b_0
     - six =1.17.0 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1

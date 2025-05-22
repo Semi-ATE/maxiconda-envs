@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.4.0 =py310ha75aee5_0
     - cython =3.1.1 =py310had8cdd9_1
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.131.20 =pyha770c72_0
+    - hypothesis =6.131.21 =pyha770c72_0
     - ipython =8.36.0 =pyh907856f_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.3 =py310hff52083_0
@@ -55,7 +55,7 @@ requirements:
     - rust =1.87.0 =h1a8d7c4_0
     - scipy =1.15.2 =py310h1d65ade_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
-    - spyder-kernels =3.0.4 =unix_pyh707e725_0
+    - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.41 =py310ha75aee5_0
     - sqlite =3.49.2 =h9eae976_0
     - sympy =1.14.0 =pyh2585a3b_105
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.3 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 513 secondary packages :
+    # 512 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -98,7 +98,7 @@ requirements:
     - certifi =2025.4.26 =pyhd8ed1ab_0
     - cffi =1.17.1 =py310h8deb56e_0
     - charset-normalizer =3.4.2 =pyhd8ed1ab_0
-    - click =8.2.0 =pyh707e725_0
+    - click =8.2.1 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.2 =pyhd8ed1ab_1
@@ -108,7 +108,7 @@ requirements:
     - curl =8.13.0 =h332b0f4_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =h54b06d7_7
-    - dbus =1.13.6 =h5008d03_3
+    - dbus =1.16.2 =h3c4dab8_0
     - debugpy =1.8.14 =py310hf71b8c6_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
@@ -116,7 +116,6 @@ requirements:
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
     - exceptiongroup =1.3.0 =pyhd8ed1ab_0
     - executing =2.2.0 =pyhd8ed1ab_0
-    - expat =2.7.0 =h5888daf_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -133,8 +132,8 @@ requirements:
     - gettext =0.24.1 =h5888daf_0
     - gettext-tools =0.24.1 =h5888daf_0
     - gfortran_impl_linux-64 =15.1.0 =h3b9cdf2_2
-    - glib =2.84.1 =h6287aef_1
-    - glib-tools =2.84.1 =h4833e2c_1
+    - glib =2.84.2 =h6287aef_0
+    - glib-tools =2.84.2 =h4833e2c_0
     - gmp =6.3.0 =hac33072_2
     - gmpy2 =2.2.1 =py310he8512ff_0
     - graphite2 =1.3.13 =h59595ed_1003
@@ -213,7 +212,7 @@ requirements:
     - libgfortran-ng =15.1.0 =h69a702a_2
     - libgfortran5 =15.1.0 =hcea5267_2
     - libgl =1.7.0 =ha4b6fd6_2
-    - libglib =2.84.1 =h3618099_1
+    - libglib =2.84.2 =h3618099_0
     - libglvnd =1.7.0 =ha4b6fd6_2
     - libglx =1.7.0 =ha4b6fd6_2
     - libgomp =15.1.0 =h767d61c_2
@@ -452,7 +451,7 @@ requirements:
     - r-rcppeigen =0.3.4.0.2 =r44hb79369c_0
     - r-readr =2.1.5 =r44h0d4f4ea_1
     - r-readxl =1.4.5 =r44h328fee5_0
-    - r-recipes =1.3.0 =r44hc72bb7e_0
+    - r-recipes =1.3.1 =r44hc72bb7e_0
     - r-recommended =4.4 =r44hd8ed1ab_1007
     - r-rematch =2.0.0 =r44hc72bb7e_1
     - r-rematch2 =2.1.2 =r44hc72bb7e_4
@@ -507,14 +506,14 @@ requirements:
     - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.25.0 =py310hbcd0ec0_0
+    - rpds-py =0.25.1 =py310hbcd0ec0_0
     - ruamel.yaml =0.18.10 =py310ha75aee5_0
     - ruamel.yaml.clib =0.2.8 =py310ha75aee5_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-unknown-linux-gnu =1.87.0 =h2c6d0dc_0
     - sed =4.9 =h6688a6e_0
     - send2trash =1.8.3 =pyh0d859eb_1
-    - setuptools =80.1.0 =pyhff2d567_0
+    - setuptools =80.8.0 =pyhff2d567_0
     - sip =6.10.0 =py310hf71b8c6_0
     - six =1.17.0 =pyhd8ed1ab_0
     - sniffio =1.3.1 =pyhd8ed1ab_1
@@ -534,7 +533,7 @@ requirements:
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - types-python-dateutil =2.9.0.20250516 =pyhd8ed1ab_0
     - typing-extensions =4.13.2 =h0e9735f_0
-    - typing-inspection =0.4.0 =pyhd8ed1ab_0
+    - typing-inspection =0.4.1 =pyhd8ed1ab_0
     - typing_extensions =4.13.2 =pyh29332c3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
     - tzdata =2025b =h78e105d_0

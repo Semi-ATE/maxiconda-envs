@@ -34,7 +34,7 @@ requirements:
     - pyqt =5.15.9 =py38h951d1d4_5
     - rdkit =2024.03.5 =py38h206a295_3
     - scipy =1.10.1 =py38h038e806_3
-    - spyder-kernels =3.0.4 =unix_pyh707e725_0
+    - spyder-kernels =3.0.5 =unix_pyh707e725_0
 
     # 209 secondary packages :
     - appnope =0.1.4 =pyhd8ed1ab_0
@@ -75,8 +75,8 @@ requirements:
     - freetype =2.13.3 =hce30654_1
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - glew =2.1.0 =h9f76cd9_2
-    - glib =2.84.1 =h85e5b2e_1
-    - glib-tools =2.84.1 =h1dc7a0c_1
+    - glib =2.84.2 =h85e5b2e_0
+    - glib-tools =2.84.2 =h1dc7a0c_0
     - glm =1.0.1 =h6597b73_0
     - greenlet =3.0.3 =py38hb9fa5a8_0
     - griddataformats =1.0.1 =pyhd8ed1ab_0
@@ -125,7 +125,7 @@ requirements:
     - libfreetype6 =2.13.3 =h1d14073_1
     - libgfortran =14.2.0 =heb5dd2a_105
     - libgfortran5 =14.2.0 =h2c44a93_105
-    - libglib =2.84.1 =hbec27ea_1
+    - libglib =2.84.2 =hbec27ea_0
     - libiconv =1.18 =hfe07756_1
     - libintl =0.24.1 =h493aca8_0
     - libintl-devel =0.24.1 =h493aca8_0

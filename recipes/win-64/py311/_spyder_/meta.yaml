@@ -68,7 +68,7 @@ requirements:
     - cffi =1.17.1 =py311he736701_0
     - chardet =5.2.0 =pyhd8ed1ab_3
     - charset-normalizer =3.4.2 =pyhd8ed1ab_0
-    - click =8.2.0 =pyh7428d3b_0
+    - click =8.2.1 =pyh7428d3b_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.2 =pyhd8ed1ab_1
@@ -100,8 +100,8 @@ requirements:
     - freetype =2.13.3 =h57928b3_1
     - frozenlist =1.6.0 =py311hc121033_0
     - fzf =0.62.0 =h86e1c39_0
-    - glib =2.84.1 =he8f994d_1
-    - glib-tools =2.84.1 =h4394cf3_1
+    - glib =2.84.2 =he8f994d_0
+    - glib-tools =2.84.2 =h4394cf3_0
     - graphite2 =1.3.13 =h63175ca_1003
     - gst-plugins-base =1.24.11 =h3fe0a9e_0
     - gstreamer =1.24.11 =h233a61a_0
@@ -148,7 +148,7 @@ requirements:
     - libfreetype =2.13.3 =h57928b3_1
     - libfreetype6 =2.13.3 =h0b5ce68_1
     - libgcc =15.1.0 =h1383e82_2
-    - libglib =2.84.1 =hbc94333_1
+    - libglib =2.84.2 =hbc94333_0
     - libgomp =15.1.0 =h1383e82_2
     - libhwloc =2.11.2 =default_ha69328c_1001
     - libiconv =1.18 =h135ad9c_1
@@ -263,9 +263,9 @@ requirements:
     - rich =14.0.0 =pyh29332c3_0
     - roman-numerals-py =3.1.0 =pyhd8ed1ab_0
     - rope =1.13.0 =pyhd8ed1ab_1
-    - rpds-py =0.25.0 =py311hc4022dc_0
+    - rpds-py =0.25.1 =py311hc4022dc_0
     - rtree =1.4.0 =pyh11ca60a_1
-    - setuptools =80.1.0 =pyhff2d567_0
+    - setuptools =80.8.0 =pyhff2d567_0
     - sip =6.10.0 =py311hda3d55a_0
     - six =1.17.0 =pyhd8ed1ab_0
     - snowballstemmer =3.0.1 =pyhd8ed1ab_0
@@ -279,7 +279,7 @@ requirements:
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
     - spyder-base =6.0.6 =py311h1ea47a8_0
-    - spyder-kernels =3.0.4 =win_pyh7428d3b_0
+    - spyder-kernels =3.0.5 =win_pyh7428d3b_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.3 =pyhb6d5dde_0
     - tabulate =0.9.0 =pyhd8ed1ab_2

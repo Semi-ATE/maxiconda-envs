@@ -40,7 +40,7 @@ requirements:
     - scipy =1.13.1 =py39h038d4f4_0
     - scrapy =2.13.0 =pyhd8ed1ab_0
     - seaborn =0.13.2 =hd8ed1ab_3
-    - spyder-kernels =3.0.4 =unix_pyh707e725_0
+    - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.41 =py39h80efdc8_0
     - sqlite =3.49.2 =h2e4c9dc_0
     - statsmodels =0.14.4 =py39hff9a475_0
@@ -132,7 +132,7 @@ requirements:
     - fonttools =4.58.0 =py39hd18e689_0
     - freetype =2.13.3 =h694c41f_1
     - fribidi =1.0.10 =hbcb3906_0
-    - fsspec =2025.3.2 =pyhd8ed1ab_0
+    - fsspec =2025.5.0 =pyhd8ed1ab_0
     - fst-pso =1.8.1 =pyhd8ed1ab_0
     - funcy =2.0 =pyhd8ed1ab_1
     - future =1.0.0 =pyhd8ed1ab_2
@@ -142,8 +142,8 @@ requirements:
     - gflags =2.2.2 =hac325c4_1005
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.44 =pyhff2d567_0
-    - glib =2.84.1 =h489497d_1
-    - glib-tools =2.84.1 =hf8faeaf_1
+    - glib =2.84.2 =h489497d_0
+    - glib-tools =2.84.2 =hf8faeaf_0
     - glog =0.7.1 =h2790a97_0
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.2.1 =py39h127c8af_0
@@ -218,7 +218,7 @@ requirements:
     - libgd =2.3.3 =h8555400_11
     - libgfortran =14.2.0 =hef36b68_105
     - libgfortran5 =14.2.0 =h58528f3_105
-    - libglib =2.84.1 =h3139dbc_1
+    - libglib =2.84.2 =h3139dbc_0
     - libgoogle-cloud =2.36.0 =h777fda5_1
     - libgoogle-cloud-storage =2.36.0 =h3397294_1
     - libgrpc =1.71.0 =h7d722e6_1
@@ -413,7 +413,7 @@ requirements:
     - typer-slim =0.15.4 =pyhe01879c_0
     - typer-slim-standard =0.15.4 =haa4fddc_0
     - typing-extensions =4.13.2 =h0e9735f_0
-    - typing-inspection =0.4.0 =pyhd8ed1ab_0
+    - typing-inspection =0.4.1 =pyhd8ed1ab_0
     - typing_extensions =4.13.2 =pyh29332c3_0
     - tzdata =2025b =h78e105d_0
     - ujson =5.10.0 =py39h7c0e7c0_1

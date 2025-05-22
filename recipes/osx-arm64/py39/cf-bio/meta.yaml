@@ -34,7 +34,7 @@ requirements:
     - pyqt =5.15.11 =py39h4e308d9_0
     - rdkit =2025.03.2 =py39hbed8da4_0
     - scipy =1.13.1 =py39h3d5391c_0
-    - spyder-kernels =3.0.4 =unix_pyh707e725_0
+    - spyder-kernels =3.0.5 =unix_pyh707e725_0
 
     # 195 secondary packages :
     - appnope =0.1.4 =pyhd8ed1ab_1
@@ -73,8 +73,8 @@ requirements:
     - freetype =2.13.3 =hce30654_1
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - glew =2.1.0 =h9f76cd9_2
-    - glib =2.84.1 =h85e5b2e_1
-    - glib-tools =2.84.1 =h1dc7a0c_1
+    - glib =2.84.2 =h85e5b2e_0
+    - glib-tools =2.84.2 =h1dc7a0c_0
     - glm =1.0.1 =h6597b73_0
     - greenlet =3.2.2 =py39h941272d_0
     - griddataformats =1.0.2 =pyhd8ed1ab_1
@@ -119,7 +119,7 @@ requirements:
     - libfreetype6 =2.13.3 =h1d14073_1
     - libgfortran =14.2.0 =heb5dd2a_105
     - libgfortran5 =14.2.0 =h2c44a93_105
-    - libglib =2.84.1 =hbec27ea_1
+    - libglib =2.84.2 =hbec27ea_0
     - libiconv =1.18 =hfe07756_1
     - libintl =0.24.1 =h493aca8_0
     - libintl-devel =0.24.1 =h493aca8_0
@@ -202,7 +202,7 @@ requirements:
     - scikit-learn =1.6.1 =py39h451895d_0
     - seaborn =0.13.2 =hd8ed1ab_3
     - seaborn-base =0.13.2 =pyhd8ed1ab_3
-    - setuptools =80.1.0 =pyhff2d567_0
+    - setuptools =80.8.0 =pyhff2d567_0
     - sip =6.11.0 =py39h941272d_0
     - six =1.17.0 =pyhd8ed1ab_0
     - snappy =1.2.1 =h98b9ce2_1

@@ -26,7 +26,7 @@ requirements:
 
     # 2 primary packages :
     - pyqt =5.15.11 =py39he15501f_0
-    - spyder-kernels =3.0.4 =win_pyh7428d3b_0
+    - spyder-kernels =3.0.5 =win_pyh7428d3b_0
 
     # 78 secondary packages :
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -40,8 +40,8 @@ requirements:
     - decorator =5.2.1 =pyhd8ed1ab_0
     - exceptiongroup =1.3.0 =pyhd8ed1ab_0
     - executing =2.2.0 =pyhd8ed1ab_0
-    - glib =2.84.1 =he8f994d_1
-    - glib-tools =2.84.1 =h4394cf3_1
+    - glib =2.84.2 =he8f994d_0
+    - glib-tools =2.84.2 =h4394cf3_0
     - gst-plugins-base =1.24.11 =h3fe0a9e_0
     - gstreamer =1.24.11 =h233a61a_0
     - icu =75.1 =he0c23c2_0
@@ -55,7 +55,7 @@ requirements:
     - libclang13 =20.1.5 =default_h6e92b77_1
     - libexpat =2.7.0 =he0c23c2_0
     - libffi =3.4.6 =h537db12_1
-    - libglib =2.84.1 =hbc94333_1
+    - libglib =2.84.2 =hbc94333_0
     - libiconv =1.18 =h135ad9c_1
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
@@ -87,7 +87,7 @@ requirements:
     - pywin32 =307 =py39ha51f57c_3
     - pyzmq =26.4.0 =py39h03e5c00_0
     - qt-main =5.15.15 =h9151539_4
-    - setuptools =80.1.0 =pyhff2d567_0
+    - setuptools =80.8.0 =pyhff2d567_0
     - sip =6.10.0 =py39ha51f57c_0
     - six =1.17.0 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
