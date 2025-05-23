@@ -49,7 +49,7 @@ requirements:
     # 396 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - adwaita-icon-theme =48.0 =unix_0
-    - alembic =1.15.2 =pyhd8ed1ab_0
+    - alembic =1.16.1 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
     - appdirs =1.4.4 =pyhd8ed1ab_1
     - appnope =0.1.4 =pyhd8ed1ab_1
@@ -166,7 +166,7 @@ requirements:
     - idna =3.10 =pyhd8ed1ab_1
     - imagehash =4.3.2 =pyhd8ed1ab_0
     - imbalanced-learn =0.12.4 =pyhd8ed1ab_0
-    - importlib-metadata =8.6.1 =pyha770c72_0
+    - importlib-metadata =8.7.0 =pyhe01879c_1
     - importlib-resources =6.5.2 =pyhd8ed1ab_0
     - importlib_resources =6.5.2 =pyhd8ed1ab_0
     - incremental =24.7.2 =pyhd8ed1ab_1
@@ -332,8 +332,8 @@ requirements:
     - pyarrow-core =20.0.0 =py39h6e815d7_0_cpu
     - pyasn1 =0.6.1 =pyhd8ed1ab_2
     - pyasn1-modules =0.4.2 =pyhd8ed1ab_0
-    - pybind11 =2.13.6 =pyh1ec8472_2
-    - pybind11-global =2.13.6 =pyh415d2e4_2
+    - pybind11 =2.13.6 =pyhc790b64_3
+    - pybind11-global =2.13.6 =pyh217bc35_3
     - pycparser =2.22 =pyh29332c3_1
     - pydantic =2.11.4 =pyh3cfb1c2_0
     - pydantic-core =2.33.2 =py39hce6d397_0
