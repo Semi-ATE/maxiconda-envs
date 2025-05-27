@@ -170,7 +170,7 @@ requirements:
     - jsonschema-with-format-nongpl =4.23.0 =hd8ed1ab_1
     - jupyter-lsp =2.2.5 =pyhd8ed1ab_0
     - jupyter_client =8.6.3 =pyhd8ed1ab_0
-    - jupyter_core =5.7.2 =pyh31011fe_1
+    - jupyter_core =5.8.0 =pyh31011fe_0
     - jupyter_events =0.10.0 =pyhd8ed1ab_0
     - jupyter_server =2.7.0 =pyhd8ed1ab_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_0
@@ -227,7 +227,7 @@ requirements:
     - libsqlite =3.49.2 =h3f77e49_0
     - libssh2 =1.11.1 =h1590b86_0
     - libtiff =4.7.0 =h2f21f7c_5
-    - libuv =1.50.0 =h5505292_0
+    - libuv =1.51.0 =h5505292_0
     - libvorbis =1.3.7 =h9f76cd9_0
     - libwebp-base =1.5.0 =h2471fea_0
     - libxcb =1.17.0 =hdb1d25a_0
@@ -328,7 +328,7 @@ requirements:
     - r-crayon =1.5.3 =r44hc72bb7e_1
     - r-crul =1.5.0 =r44h785f33e_0
     - r-curl =6.2.2 =r44h95ef94e_0
-    - r-data.table =1.17.2 =r44h28c71e1_0
+    - r-data.table =1.17.4 =r44h28c71e1_0
     - r-dbi =1.2.3 =r44hc72bb7e_1
     - r-dbplyr =2.5.0 =r44hc72bb7e_1
     - r-diagram =1.6.5 =r44ha770c72_3
@@ -390,7 +390,7 @@ requirements:
     - r-lobstr =1.1.2 =r44hd76f289_4
     - r-lubridate =1.9.4 =r44h570997c_0
     - r-magrittr =2.0.3 =r44h07cda29_3
-    - r-maps =3.4.2.1 =r44h570997c_0
+    - r-maps =3.4.3 =r44h570997c_0
     - r-mass =7.3_64 =r44h570997c_0
     - r-matrix =1.7_3 =r44hf6a007b_0
     - r-memoise =2.0.1 =r44hc72bb7e_3
@@ -448,7 +448,7 @@ requirements:
     - r-shape =1.4.6.1 =r44ha770c72_1
     - r-shiny =1.10.0 =r44h785f33e_0
     - r-sourcetools =0.1.7_1 =r44hd76f289_2
-    - r-sparsevctrs =0.3.3 =r44h570997c_0
+    - r-sparsevctrs =0.3.4 =r44h570997c_0
     - r-spatial =7.3_18 =r44h570997c_0
     - r-squarem =2021.1 =r44hc72bb7e_3
     - r-stringi =1.8.7 =r44h4f22b37_0

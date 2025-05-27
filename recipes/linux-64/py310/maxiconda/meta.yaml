@@ -25,13 +25,13 @@ requirements:
     - python =3.10.17 =hd6af730_0_cpython
 
     # 38 primary packages :
-    - aiohttp =3.11.18 =py310h89163eb_0
+    - aiohttp =3.12.1 =py310h89163eb_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.13.4 =pyha770c72_0
     - bitarray =3.4.2 =py310ha75aee5_0
     - cython =3.1.1 =py310had8cdd9_1
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.131.27 =pyha770c72_0
+    - hypothesis =6.131.28 =pyha770c72_0
     - ipython =8.36.0 =pyh907856f_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.3 =py310hff52083_0
@@ -159,16 +159,16 @@ requirements:
     - jedi =0.19.2 =pyhd8ed1ab_1
     - json5 =0.12.0 =pyhd8ed1ab_0
     - jsonpointer =3.0.0 =py310hff52083_1
-    - jsonschema =4.23.0 =pyhd8ed1ab_1
+    - jsonschema =4.24.0 =pyhd8ed1ab_0
     - jsonschema-specifications =2025.4.1 =pyh29332c3_0
-    - jsonschema-with-format-nongpl =4.23.0 =hd8ed1ab_1
+    - jsonschema-with-format-nongpl =4.24.0 =hd8ed1ab_0
     - jupyter-lsp =2.2.5 =pyhd8ed1ab_1
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
-    - jupyter_core =5.7.2 =pyh31011fe_1
+    - jupyter_core =5.8.0 =pyh31011fe_0
     - jupyter_events =0.12.0 =pyh29332c3_0
     - jupyter_server =2.16.0 =pyhe01879c_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_1
-    - jupyterlab =4.4.2 =pyhd8ed1ab_0
+    - jupyterlab =4.4.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_1
     - kernel-headers_linux-64 =3.10.0 =he073ed8_18
@@ -243,7 +243,7 @@ requirements:
     - libsystemd0 =257.4 =h4e0b6ca_1
     - libtiff =4.7.0 =hf01ce69_5
     - libuuid =2.38.1 =h0b41bf4_0
-    - libuv =1.50.0 =hb9d3cd8_0
+    - libuv =1.51.0 =hb9d3cd8_0
     - libvorbis =1.3.7 =h9c3ff4c_0
     - libwebp-base =1.5.0 =h851e524_0
     - libxcb =1.17.0 =h8a09558_0
@@ -270,7 +270,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - notebook =7.4.2 =pyhd8ed1ab_0
+    - notebook =7.4.3 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.36 =h5888daf_0
     - nss =3.111 =h159eef7_0
@@ -349,7 +349,7 @@ requirements:
     - r-crayon =1.5.3 =r44hc72bb7e_1
     - r-crul =1.5.0 =r44h785f33e_0
     - r-curl =6.2.2 =r44h2700575_0
-    - r-data.table =1.17.2 =r44he23165d_0
+    - r-data.table =1.17.4 =r44he23165d_0
     - r-dbi =1.2.3 =r44hc72bb7e_1
     - r-dbplyr =2.5.0 =r44hc72bb7e_1
     - r-diagram =1.6.5 =r44ha770c72_3
@@ -411,7 +411,7 @@ requirements:
     - r-lobstr =1.1.2 =r44ha18555a_4
     - r-lubridate =1.9.4 =r44h2b5f3a1_0
     - r-magrittr =2.0.3 =r44hb1dbf0f_3
-    - r-maps =3.4.2.1 =r44h2b5f3a1_0
+    - r-maps =3.4.3 =r44h2b5f3a1_0
     - r-mass =7.3_64 =r44h2b5f3a1_0
     - r-matrix =1.7_3 =r44h2ae2be5_0
     - r-memoise =2.0.1 =r44hc72bb7e_3
@@ -469,7 +469,7 @@ requirements:
     - r-shape =1.4.6.1 =r44ha770c72_1
     - r-shiny =1.10.0 =r44h785f33e_0
     - r-sourcetools =0.1.7_1 =r44ha18555a_2
-    - r-sparsevctrs =0.3.3 =r44h2b5f3a1_0
+    - r-sparsevctrs =0.3.4 =r44h2b5f3a1_0
     - r-spatial =7.3_18 =r44h2b5f3a1_0
     - r-squarem =2021.1 =r44hc72bb7e_3
     - r-stringi =1.8.7 =r44h3c328a7_0
@@ -507,7 +507,7 @@ requirements:
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rpds-py =0.25.1 =py310hbcd0ec0_0
-    - ruamel.yaml =0.18.10 =py310ha75aee5_0
+    - ruamel.yaml =0.18.11 =py310ha75aee5_0
     - ruamel.yaml.clib =0.2.8 =py310ha75aee5_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-unknown-linux-gnu =1.87.0 =h2c6d0dc_0
@@ -574,7 +574,7 @@ requirements:
     - yaml =0.2.5 =h7f98852_2
     - yarl =1.20.0 =py310h89163eb_0
     - zeromq =4.3.5 =h3b0a872_7
-    - zipp =3.21.0 =pyhd8ed1ab_1
+    - zipp =3.22.0 =pyhd8ed1ab_0
     - zstandard =0.23.0 =py310ha75aee5_2
     - zstd =1.5.7 =hb8e6e7a_2
 

@@ -38,7 +38,7 @@ requirements:
     # 353 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
-    - aiohttp =3.11.18 =py311h58d527c_0
+    - aiohttp =3.12.1 =py311h58d527c_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - alsa-lib =1.2.14 =h86ecc28_0
@@ -134,10 +134,10 @@ requirements:
     - jeepney =0.9.0 =pyhd8ed1ab_0
     - jellyfish =1.1.3 =py311h0ca61a2_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
-    - jsonschema =4.23.0 =pyhd8ed1ab_1
+    - jsonschema =4.24.0 =pyhd8ed1ab_0
     - jsonschema-specifications =2025.4.1 =pyh29332c3_0
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
-    - jupyter_core =5.7.2 =pyh31011fe_1
+    - jupyter_core =5.8.0 =pyh31011fe_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - keyring =25.6.0 =pyha804496_0
     - keyutils =1.6.1 =h4e544f5_0
@@ -386,7 +386,7 @@ requirements:
     - yapf =0.43.0 =pyhd8ed1ab_1
     - yarl =1.20.0 =py311h58d527c_0
     - zeromq =4.3.5 =h5efb499_7
-    - zipp =3.21.0 =pyhd8ed1ab_1
+    - zipp =3.22.0 =pyhd8ed1ab_0
     - zstandard =0.23.0 =py311ha879c10_2
     - zstd =1.5.7 =hbcf94c1_2
 
