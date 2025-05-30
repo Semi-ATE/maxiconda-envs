@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.32 =py38h2019614_0
-    - sqlite =3.49.2 =h9eae976_0
+    - sqlite =3.50.0 =h9eae976_0
     - sympy =1.13.3 =pyh2585a3b_104
     - tqdm =4.67.1 =pyhd8ed1ab_0
     - transitions =0.9.2 =pyhd8ed1ab_0
@@ -191,8 +191,8 @@ requirements:
     - libbrotlienc =1.1.0 =hb9d3cd8_2
     - libcap =2.75 =h39aace5_0
     - libcblas =3.9.0 =20_linux64_openblas
-    - libclang-cpp20.1 =20.1.5 =default_h1df26ce_1
-    - libclang13 =20.1.5 =default_he06ed0a_1
+    - libclang-cpp20.1 =20.1.6 =default_h1df26ce_0
+    - libclang13 =20.1.6 =default_he06ed0a_0
     - libcups =2.3.3 =h4637d8d_4
     - libcurl =8.14.0 =h332b0f4_0
     - libdeflate =1.24 =h86f0d12_0
@@ -225,7 +225,7 @@ requirements:
     - libjpeg-turbo =3.1.0 =hb9d3cd8_0
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm14 =14.0.6 =hcd5def8_4
-    - libllvm20 =20.1.5 =he9d0ab4_0
+    - libllvm20 =20.1.6 =he9d0ab4_0
     - liblzma =5.8.1 =hb9d3cd8_1
     - liblzma-devel =5.8.1 =hb9d3cd8_1
     - libnghttp2 =1.64.0 =h161d5f1_0
@@ -240,7 +240,7 @@ requirements:
     - libsanitizer =15.1.0 =h97b714f_2
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
-    - libsqlite =3.49.2 =hee588c1_0
+    - libsqlite =3.50.0 =hee588c1_0
     - libssh2 =1.11.1 =hcf80075_0
     - libstdcxx =15.1.0 =h8f9b012_2
     - libstdcxx-devel_linux-64 =15.1.0 =h4c094af_102

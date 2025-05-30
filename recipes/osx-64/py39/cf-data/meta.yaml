@@ -42,7 +42,7 @@ requirements:
     - seaborn =0.13.2 =hd8ed1ab_3
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.41 =py39h80efdc8_0
-    - sqlite =3.49.2 =h2e4c9dc_0
+    - sqlite =3.50.0 =h2e4c9dc_0
     - statsmodels =0.14.4 =py39hff9a475_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
 
@@ -203,10 +203,10 @@ requirements:
     - libbrotlienc =1.1.0 =h00291cd_2
     - libcblas =3.9.0 =20_osx64_mkl
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =20.1.5 =default_h9644bed_1
+    - libclang13 =20.1.6 =default_h9644bed_0
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.14.0 =h5dec5d8_0
-    - libcxx =20.1.5 =hf95d169_0
+    - libcxx =20.1.6 =hf95d169_0
     - libdeflate =1.24 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -231,7 +231,7 @@ requirements:
     - liblightgbm =4.6.0 =cpu_h458a52c_1
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm20 =20.1.5 =h29c3a6c_0
+    - libllvm20 =20.1.6 =h29c3a6c_0
     - liblzma =5.8.1 =hd471939_1
     - libnghttp2 =1.64.0 =hc7306c3_0
     - libntlm =1.8 =h6e16a3a_0
@@ -246,7 +246,7 @@ requirements:
     - libre2-11 =2024.07.02 =h08ce7b7_3
     - librsvg =2.58.4 =h21a6cfa_3
     - libsodium =1.0.20 =hfdf4475_0
-    - libsqlite =3.49.2 =hdb6dae5_0
+    - libsqlite =3.50.0 =hdb6dae5_0
     - libssh2 =1.11.1 =hed3591d_0
     - libthrift =0.21.0 =h75589b3_0
     - libtiff =4.7.0 =h1167cee_5
