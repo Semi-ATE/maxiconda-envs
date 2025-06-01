@@ -27,7 +27,7 @@ requirements:
     # 20 primary packages :
     - beautifulsoup4 =4.13.4 =pyha770c72_0
     - bokeh =3.4.2 =pyhd8ed1ab_0
-    - lightgbm =4.6.0 =cpu_py_1
+    - lightgbm =4.6.0 =cpu_py_2
     - matplotlib =3.9.4 =py39h6e9494a_0
     - numpy =1.26.4 =py39h28c39a1_0
     - pandas =2.2.3 =py39hb7d32d6_3
@@ -228,7 +228,7 @@ requirements:
     - libintl-devel =0.24.1 =h27064b9_0
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
     - liblapack =3.9.0 =20_osx64_mkl
-    - liblightgbm =4.6.0 =cpu_h458a52c_1
+    - liblightgbm =4.6.0 =cpu_h458a52c_2
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm20 =20.1.6 =h29c3a6c_0

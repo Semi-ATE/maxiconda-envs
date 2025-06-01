@@ -36,7 +36,7 @@ requirements:
     - scipy =1.7.3 =py37hf2a6cf1_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
-    # 229 secondary packages :
+    # 231 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.8 =h166bdaf_0
@@ -139,7 +139,8 @@ requirements:
     - libgfortran-ng =15.1.0 =h69a702a_2
     - libgfortran5 =15.1.0 =hcea5267_2
     - libglib =2.80.2 =hf974151_0
-    - libglu =9.0.0 =he1b5a44_1001
+    - libglu =9.0.3 =h5888daf_1
+    - libglvnd =1.7.0 =ha4b6fd6_2
     - libgomp =15.1.0 =h767d61c_2
     - libgpg-error =1.55 =h3f2d84a_0
     - libiconv =1.18 =h4ce23a2_1
@@ -153,6 +154,7 @@ requirements:
     - libnsl =2.0.1 =hd590300_0
     - libogg =1.3.5 =hd0c01bc_1
     - libopenblas =0.3.25 =pthreads_h413a1c8_0
+    - libopengl =1.7.0 =ha4b6fd6_2
     - libopus =1.5.2 =hd0c01bc_0
     - libpng =1.6.43 =h2797004_0
     - libpq =15.3 =hbcd7760_1
