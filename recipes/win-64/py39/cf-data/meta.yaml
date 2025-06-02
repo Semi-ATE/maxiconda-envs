@@ -176,10 +176,10 @@ requirements:
     - lcms2 =2.17 =hbcf6048_0
     - lerc =4.0.0 =h6470a55_1
     - libabseil =20250127.1 =cxx17_h4eb7d71_0
-    - libarrow =20.0.0 =haf9c06d_4_cpu
-    - libarrow-acero =20.0.0 =h7d8d6a5_4_cpu
-    - libarrow-dataset =20.0.0 =h7d8d6a5_4_cpu
-    - libarrow-substrait =20.0.0 =hb76e781_4_cpu
+    - libarrow =20.0.0 =haf9c06d_5_cpu
+    - libarrow-acero =20.0.0 =h7d8d6a5_5_cpu
+    - libarrow-dataset =20.0.0 =h7d8d6a5_5_cpu
+    - libarrow-substrait =20.0.0 =hb76e781_5_cpu
     - libblas =3.9.0 =31_h641d27c_mkl
     - libboost =1.86.0 =hb0986bb_3
     - libbrotlicommon =1.1.0 =h2466b09_2
@@ -211,7 +211,7 @@ requirements:
     - liblightgbm =4.6.0 =cpu_hfb536c0_2
     - liblzma =5.8.1 =h2466b09_1
     - libogg =1.3.5 =h2466b09_1
-    - libparquet =20.0.0 =ha850022_4_cpu
+    - libparquet =20.0.0 =ha850022_5_cpu
     - libpng =1.6.47 =h7a4582a_0
     - libprotobuf =5.29.3 =he9d8c4a_1
     - libre2-11 =2024.07.02 =hd248061_3
@@ -329,7 +329,7 @@ requirements:
     - seaborn-base =0.13.2 =pyhd8ed1ab_3
     - service-identity =24.2.0 =pyha770c72_1
     - service_identity =24.2.0 =hd8ed1ab_1
-    - setuptools =80.8.0 =pyhff2d567_0
+    - setuptools =80.9.0 =pyhff2d567_0
     - shap =0.47.2 =cpu_py39he0d386f_0
     - shellingham =1.5.4 =pyhd8ed1ab_1
     - simpful =2.12.0 =pyhd8ed1ab_2
