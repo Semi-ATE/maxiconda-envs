@@ -60,7 +60,7 @@ requirements:
     - aws-c-compression =0.3.1 =h5d0e663_5
     - aws-c-event-stream =0.5.4 =hf27a43c_10
     - aws-c-http =0.10.1 =hcc73f11_3
-    - aws-c-io =0.19.1 =hca30057_1
+    - aws-c-io =0.19.1 =hca30057_2
     - aws-c-mqtt =0.13.0 =h78aaacf_4
     - aws-c-s3 =0.8.0 =hd6228ca_1
     - aws-c-sdkutils =0.2.4 =h5d0e663_0
@@ -275,7 +275,7 @@ requirements:
     - platformdirs =4.3.8 =pyhe01879c_0
     - ply =3.11 =pyhd8ed1ab_3
     - preshed =3.0.9 =py39ha51f57c_2
-    - prometheus_client =0.22.0 =pyhd8ed1ab_0
+    - prometheus_client =0.22.1 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.23.2 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.51 =pyha770c72_0
     - protego =0.4.0 =pyhd8ed1ab_0
