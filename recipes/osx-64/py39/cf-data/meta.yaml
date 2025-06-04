@@ -64,12 +64,12 @@ requirements:
     - aws-c-event-stream =0.5.4 =h0098a4f_10
     - aws-c-http =0.10.1 =hd3df5df_3
     - aws-c-io =0.19.1 =h3f65a6a_2
-    - aws-c-mqtt =0.13.0 =h8feeaa6_4
+    - aws-c-mqtt =0.13.1 =h8feeaa6_0
     - aws-c-s3 =0.8.0 =h979a125_1
     - aws-c-sdkutils =0.2.4 =hdea44ad_0
     - aws-checksums =0.2.7 =hdea44ad_1
-    - aws-crt-cpp =0.32.6 =h4eada78_3
-    - aws-sdk-cpp =1.11.510 =hd03c47d_9
+    - aws-crt-cpp =0.32.8 =h2ed5de5_1
+    - aws-sdk-cpp =1.11.510 =h894e209_10
     - azure-core-cpp =1.14.0 =h9a36307_0
     - azure-identity-cpp =1.10.0 =ha4e2ba9_0
     - azure-storage-blobs-cpp =12.13.0 =h3d2f5f1_1
@@ -192,10 +192,10 @@ requirements:
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
     - libabseil =20250127.1 =cxx17_h0e468a2_0
-    - libarrow =20.0.0 =h8968376_5_cpu
-    - libarrow-acero =20.0.0 =hdc53af8_5_cpu
-    - libarrow-dataset =20.0.0 =hdc53af8_5_cpu
-    - libarrow-substrait =20.0.0 =ha37b807_5_cpu
+    - libarrow =20.0.0 =hd0d6b81_6_cpu
+    - libarrow-acero =20.0.0 =hdc53af8_6_cpu
+    - libarrow-dataset =20.0.0 =hdc53af8_6_cpu
+    - libarrow-substrait =20.0.0 =ha37b807_6_cpu
     - libblas =3.9.0 =20_osx64_mkl
     - libboost =1.86.0 =hf0da243_3
     - libbrotlicommon =1.1.0 =h00291cd_2
@@ -239,7 +239,7 @@ requirements:
     - libopentelemetry-cpp =1.21.0 =h30c661f_0
     - libopentelemetry-cpp-headers =1.21.0 =h694c41f_0
     - libopus =1.5.2 =he3325bb_0
-    - libparquet =20.0.0 =h283e888_5_cpu
+    - libparquet =20.0.0 =h283e888_6_cpu
     - libpng =1.6.47 =h3c4a55f_0
     - libpq =17.5 =h9c5cfc2_0
     - libprotobuf =5.29.3 =h1c7185b_1
@@ -412,9 +412,9 @@ requirements:
     - typer =0.16.0 =pyh167b9f4_0
     - typer-slim =0.16.0 =pyhe01879c_0
     - typer-slim-standard =0.16.0 =hf964461_0
-    - typing-extensions =4.13.2 =h0e9735f_0
+    - typing-extensions =4.14.0 =h32cad80_0
     - typing-inspection =0.4.1 =pyhd8ed1ab_0
-    - typing_extensions =4.13.2 =pyh29332c3_0
+    - typing_extensions =4.14.0 =pyhe01879c_0
     - tzdata =2025b =h78e105d_0
     - ujson =5.10.0 =py39h7c0e7c0_1
     - umap-learn =0.5.7 =py39h6e9494a_1
