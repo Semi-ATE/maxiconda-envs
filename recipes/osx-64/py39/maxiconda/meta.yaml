@@ -20,18 +20,18 @@ build:
 
 requirements:
   build:
-    - python =3.9.22 =h55ef250_1_cpython
+    - python =3.9.23 =h8a7f3fd_0_cpython
   run:
-    - python =3.9.22 =h55ef250_1_cpython
+    - python =3.9.23 =h8a7f3fd_0_cpython
 
     # 38 primary packages :
-    - aiohttp =3.12.7 =py39hd18e689_0
+    - aiohttp =3.12.8 =py39hd18e689_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.13.4 =pyha770c72_0
     - bitarray =3.4.2 =py39h80efdc8_0
     - cython =3.1.1 =py39hfdee7b9_1
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.134.0 =pyha770c72_0
+    - hypothesis =6.135.0 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.9.4 =py39h6e9494a_0
@@ -71,7 +71,7 @@ requirements:
     - annotated-types =0.7.0 =pyhd8ed1ab_1
     - anyio =4.9.0 =pyh29332c3_0
     - appnope =0.1.4 =pyhd8ed1ab_1
-    - argon2-cffi =23.1.0 =pyhd8ed1ab_1
+    - argon2-cffi =25.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py39h06d86d0_5
     - arrow =1.3.0 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -110,8 +110,8 @@ requirements:
     - compiler-rt_osx-64 =20.1.6 =hc6f8467_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.3.0 =py39h0d3c867_2
-    - cpython =3.9.22 =py39hd8ed1ab_1
-    - curl =8.14.0 =h5dec5d8_0
+    - cpython =3.9.23 =py39hd8ed1ab_0
+    - curl =8.14.1 =h5dec5d8_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =hf9bab2b_7
     - debugpy =1.8.14 =py39hdf37715_0
@@ -188,7 +188,7 @@ requirements:
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang-cpp20.1 =20.1.6 =default_hf9570e0_0
     - libclang13 =20.1.6 =default_h9644bed_0
-    - libcurl =8.14.0 =h5dec5d8_0
+    - libcurl =8.14.1 =h5dec5d8_0
     - libcxx =20.1.6 =hf95d169_0
     - libcxx-devel =20.1.6 =h7c275be_0
     - libdeflate =1.24 =hcc1b750_0

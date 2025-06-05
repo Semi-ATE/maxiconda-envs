@@ -20,18 +20,18 @@ build:
 
 requirements:
   build:
-    - python =3.12.10 =h3f84c4b_0_cpython
+    - python =3.12.11 =h3f84c4b_0_cpython
   run:
-    - python =3.12.10 =h3f84c4b_0_cpython
+    - python =3.12.11 =h3f84c4b_0_cpython
 
     # 38 primary packages :
-    - aiohttp =3.12.7 =py312h31fea79_0
+    - aiohttp =3.12.8 =py312h31fea79_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.13.4 =pyha770c72_0
     - bitarray =3.4.2 =py312h4389bb4_0
     - cython =3.1.1 =py312h890cc4b_1
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.134.0 =pyha770c72_0
+    - hypothesis =6.135.0 =pyha770c72_0
     - ipython =9.3.0 =pyh6be1c34_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.3 =py312h2e8e312_0
@@ -71,7 +71,7 @@ requirements:
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
     - anyio =4.9.0 =pyh29332c3_0
-    - argon2-cffi =23.1.0 =pyhd8ed1ab_1
+    - argon2-cffi =25.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =21.2.0 =py312h4389bb4_5
     - arrow =1.3.0 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -99,8 +99,8 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_1
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.3.2 =py312hd5eb7cc_0
-    - cpython =3.12.10 =py312hd8ed1ab_0
-    - curl =8.14.0 =h88aaa65_0
+    - cpython =3.12.11 =py312hd8ed1ab_0
+    - curl =8.14.1 =h88aaa65_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - debugpy =1.8.14 =py312h275cf98_0
     - decorator =5.2.1 =pyhd8ed1ab_0
@@ -173,7 +173,7 @@ requirements:
     - libbrotlienc =1.1.0 =h2466b09_2
     - libcblas =3.9.0 =31_h5e41251_mkl
     - libclang13 =20.1.6 =default_h6e92b77_0
-    - libcurl =8.14.0 =h88aaa65_0
+    - libcurl =8.14.1 =h88aaa65_0
     - libdeflate =1.24 =h76ddb4d_0
     - libexpat =2.7.0 =he0c23c2_0
     - libffi =3.4.6 =h537db12_1
@@ -257,7 +257,7 @@ requirements:
     - pygments =2.19.1 =pyhd8ed1ab_0
     - pyparsing =3.2.3 =pyhd8ed1ab_1
     - pyqt5-sip =12.17.0 =py312h275cf98_0
-    - pyside6 =6.9.0 =py312h520aab8_0
+    - pyside6 =6.9.1 =py312h0ba07f7_0
     - pysocks =1.7.1 =pyh09c184e_7
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
     - python-fastjsonschema =2.21.1 =pyhd8ed1ab_0
@@ -271,7 +271,7 @@ requirements:
     - pyzmq =26.4.0 =py312hd7027bb_0
     - qhull =2020.2 =hc790b64_5
     - qt-main =5.15.15 =h9151539_4
-    - qt6-main =6.9.0 =h02ddd7d_3
+    - qt6-main =6.9.1 =h02ddd7d_0
     - qtpy =2.4.3 =pyhd8ed1ab_0
     - r-askpass =1.2.1 =r44h11b023d_0
     - r-assertthat =0.2.1 =r44hc72bb7e_5

@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.12.10 =h9ccd52b_0_cpython
+    - python =3.12.11 =h9ccd52b_0_cpython
   run:
-    - python =3.12.10 =h9ccd52b_0_cpython
+    - python =3.12.11 =h9ccd52b_0_cpython
 
     # 9 primary packages :
     - cython =3.1.1 =py312hdfbeeba_1
@@ -37,7 +37,7 @@ requirements:
 
     # 286 secondary packages :
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
-    - aiohttp =3.12.7 =py312h3520af0_0
+    - aiohttp =3.12.8 =py312h3520af0_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - applaunchservices =0.3.0 =pyh534df25_4
@@ -73,7 +73,7 @@ requirements:
     - comm =0.2.2 =pyhd8ed1ab_1
     - contourpy =1.3.2 =py312hc47a885_0
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
-    - cpython =3.12.10 =py312hd8ed1ab_0
+    - cpython =3.12.11 =py312hd8ed1ab_0
     - cryptography =45.0.3 =py312h0995e51_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =hf9bab2b_7
