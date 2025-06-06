@@ -39,7 +39,7 @@ requirements:
     - numpy =2.2.6 =py311h5e411d1_0
     - openpyxl =3.1.5 =py311ha68e1ae_1
     - paho-mqtt =2.1.0 =pyhd8ed1ab_0
-    - pandas =2.2.3 =py311hcf9f919_3
+    - pandas =2.3.0 =py311hcf9f919_0
     - psutil =7.0.0 =py311he736701_0
     - pydantic =2.11.4 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py311h2d05f59_0
@@ -126,7 +126,7 @@ requirements:
     - glib =2.84.2 =he8f994d_0
     - glib-tools =2.84.2 =h4394cf3_0
     - graphite2 =1.3.13 =h63175ca_1003
-    - greenlet =3.2.2 =py311hda3d55a_0
+    - greenlet =3.2.3 =py311hda3d55a_0
     - gsl =2.7 =hdfb1a43_0
     - gst-plugins-base =1.24.11 =h3fe0a9e_0
     - gstreamer =1.24.11 =h233a61a_0
@@ -272,7 +272,7 @@ requirements:
     - qhull =2020.2 =hc790b64_5
     - qt-main =5.15.15 =h9151539_4
     - qt6-main =6.9.1 =h02ddd7d_0
-    - qtpy =2.4.3 =pyhd8ed1ab_0
+    - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r44h11b023d_0
     - r-assertthat =0.2.1 =r44hc72bb7e_5
     - r-backports =1.5.0 =r44h11b023d_1
@@ -319,7 +319,7 @@ requirements:
     - r-foreign =0.8_90 =r44h11b023d_0
     - r-formatr =1.14 =r44hc72bb7e_2
     - r-fs =1.6.6 =r44hd9cd2f5_0
-    - r-future =1.49.0 =r44h785f33e_0
+    - r-future =1.58.0 =r44h785f33e_0
     - r-future.apply =1.11.3 =r44hc72bb7e_0
     - r-gargle =1.5.2 =r44h785f33e_1
     - r-generics =0.1.4 =r44hc72bb7e_0
