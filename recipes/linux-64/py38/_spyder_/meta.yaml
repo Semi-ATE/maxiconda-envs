@@ -60,8 +60,8 @@ requirements:
     - binaryornot =0.4.4 =py_1
     - black =24.8.0 =py38h578d9bd_0
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.1.0 =hb9d3cd8_2
-    - brotli-bin =1.1.0 =hb9d3cd8_2
+    - brotli =1.1.0 =hb9d3cd8_3
+    - brotli-bin =1.1.0 =hb9d3cd8_3
     - brotli-python =1.0.9 =py38hfa26641_8
     - bzip2 =1.0.8 =h4bc722e_7
     - ca-certificates =2025.4.26 =hbd8a1cb_0
@@ -153,9 +153,9 @@ requirements:
     - libasprintf =0.24.1 =h8e693c7_0
     - libasprintf-devel =0.24.1 =h8e693c7_0
     - libblas =3.9.0 =20_linux64_openblas
-    - libbrotlicommon =1.1.0 =hb9d3cd8_2
-    - libbrotlidec =1.1.0 =hb9d3cd8_2
-    - libbrotlienc =1.1.0 =hb9d3cd8_2
+    - libbrotlicommon =1.1.0 =hb9d3cd8_3
+    - libbrotlidec =1.1.0 =hb9d3cd8_3
+    - libbrotlienc =1.1.0 =hb9d3cd8_3
     - libcap =2.75 =h39aace5_0
     - libcblas =3.9.0 =20_linux64_openblas
     - libclang-cpp20.1 =20.1.6 =default_h1df26ce_0
@@ -189,8 +189,8 @@ requirements:
     - libjpeg-turbo =3.1.0 =hb9d3cd8_0
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm20 =20.1.6 =he9d0ab4_0
-    - liblzma =5.8.1 =hb9d3cd8_1
-    - liblzma-devel =5.8.1 =hb9d3cd8_1
+    - liblzma =5.8.1 =hb9d3cd8_2
+    - liblzma-devel =5.8.1 =hb9d3cd8_2
     - libnsl =2.0.1 =hd590300_0
     - libntlm =1.8 =hb9d3cd8_0
     - libogg =1.3.5 =hd0c01bc_1
@@ -202,7 +202,7 @@ requirements:
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
     - libspatialindex =2.0.0 =he02047a_0
-    - libsqlite =3.50.0 =hee588c1_0
+    - libsqlite =3.50.1 =hee588c1_0
     - libstdcxx =15.1.0 =h8f9b012_2
     - libstdcxx-ng =15.1.0 =h4852527_2
     - libsystemd0 =257.6 =h4e0b6ca_0
@@ -379,9 +379,9 @@ requirements:
     - xorg-libxshmfence =1.3.3 =hb9d3cd8_0
     - xorg-libxtst =1.2.5 =hb9d3cd8_3
     - xorg-libxxf86vm =1.1.6 =hb9d3cd8_0
-    - xz =5.8.1 =hbcc6ac9_1
-    - xz-gpl-tools =5.8.1 =hbcc6ac9_1
-    - xz-tools =5.8.1 =hb9d3cd8_1
+    - xz =5.8.1 =hbcc6ac9_2
+    - xz-gpl-tools =5.8.1 =hbcc6ac9_2
+    - xz-tools =5.8.1 =hb9d3cd8_2
     - yaml =0.2.5 =h7f98852_2
     - yapf =0.40.1 =pyhd8ed1ab_0
     - yarl =1.9.4 =py38h01eb140_0

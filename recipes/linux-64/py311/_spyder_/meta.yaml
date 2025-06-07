@@ -29,8 +29,8 @@ requirements:
     - matplotlib =3.10.3 =py311h38be061_0
     - numpy =2.2.6 =py311h5d046bc_0
     - pandas =2.3.0 =py311h7db5c69_0
-    - pyqt =5.15.11 =py311he22028a_0
-    - pyqtwebengine =5.15.11 =py311h5dacb8b_0
+    - pyqt =5.15.11 =py311he22028a_1
+    - pyqtwebengine =5.15.11 =py311h5dacb8b_1
     - scipy =1.15.2 =py311h8f841c2_0
     - spyder =6.0.7 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
@@ -54,15 +54,15 @@ requirements:
     - babel =2.17.0 =pyhd8ed1ab_0
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhd8ed1ab_1
-    - bcrypt =4.3.0 =py311h9e33e62_0
+    - bcrypt =4.3.0 =py311hdae7d1d_1
     - beautifulsoup4 =4.13.4 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =25.1.0 =pyh866005b_0
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.1.0 =hb9d3cd8_2
-    - brotli-bin =1.1.0 =hb9d3cd8_2
-    - brotli-python =1.1.0 =py311hfdbb021_2
+    - brotli =1.1.0 =hb9d3cd8_3
+    - brotli-bin =1.1.0 =hb9d3cd8_3
+    - brotli-python =1.1.0 =py311hfdbb021_3
     - bzip2 =1.0.8 =h4bc722e_7
     - ca-certificates =2025.4.26 =hbd8a1cb_0
     - cairo =1.18.4 =h3394656_0
@@ -100,7 +100,7 @@ requirements:
     - fontconfig =2.15.0 =h7e30c49_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.58.1 =py311h2dc5d0c_0
+    - fonttools =4.58.2 =py311h2dc5d0c_0
     - freetype =2.13.3 =ha770c72_1
     - frozenlist =1.6.0 =py311h62d540b_0
     - fzf =0.62.0 =h59e48b9_0
@@ -151,9 +151,9 @@ requirements:
     - libasprintf =0.24.1 =h8e693c7_0
     - libasprintf-devel =0.24.1 =h8e693c7_0
     - libblas =3.9.0 =31_h59b9bed_openblas
-    - libbrotlicommon =1.1.0 =hb9d3cd8_2
-    - libbrotlidec =1.1.0 =hb9d3cd8_2
-    - libbrotlienc =1.1.0 =hb9d3cd8_2
+    - libbrotlicommon =1.1.0 =hb9d3cd8_3
+    - libbrotlidec =1.1.0 =hb9d3cd8_3
+    - libbrotlienc =1.1.0 =hb9d3cd8_3
     - libcap =2.75 =h39aace5_0
     - libcblas =3.9.0 =31_he106b2a_openblas
     - libclang-cpp20.1 =20.1.6 =default_h1df26ce_0
@@ -186,7 +186,7 @@ requirements:
     - libjpeg-turbo =3.1.0 =hb9d3cd8_0
     - liblapack =3.9.0 =31_h7ac8fdf_openblas
     - libllvm20 =20.1.6 =he9d0ab4_0
-    - liblzma =5.8.1 =hb9d3cd8_1
+    - liblzma =5.8.1 =hb9d3cd8_2
     - libnsl =2.0.1 =hd590300_0
     - libntlm =1.8 =hb9d3cd8_0
     - libogg =1.3.5 =hd0c01bc_1
@@ -199,7 +199,7 @@ requirements:
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.20 =h4ab18f5_0
     - libspatialindex =2.1.0 =he57a185_0
-    - libsqlite =3.50.0 =hee588c1_0
+    - libsqlite =3.50.1 =hee588c1_0
     - libstdcxx =15.1.0 =h8f9b012_2
     - libstdcxx-ng =15.1.0 =h4852527_2
     - libsystemd0 =257.6 =h4e0b6ca_0
@@ -279,7 +279,7 @@ requirements:
     - pynacl =1.5.0 =py311h9ecbd09_4
     - pyopenssl =25.1.0 =pyhd8ed1ab_0
     - pyparsing =3.2.3 =pyhd8ed1ab_1
-    - pyqt5-sip =12.17.0 =py311hfdbb021_0
+    - pyqt5-sip =12.17.0 =py311hfdbb021_1
     - pyside6 =6.9.1 =py311h846acb3_0
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhff2d567_1

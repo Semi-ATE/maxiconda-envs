@@ -25,7 +25,7 @@ requirements:
     - python =3.9.23 =hc30ae73_0_cpython
 
     # 2 primary packages :
-    - pyqt =5.15.11 =py39h08c78a2_0
+    - pyqt =5.15.11 =py39h08c78a2_1
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
 
     # 161 secondary packages :
@@ -101,7 +101,7 @@ requirements:
     - libiconv =1.18 =h4ce23a2_1
     - libjpeg-turbo =3.1.0 =hb9d3cd8_0
     - libllvm20 =20.1.6 =he9d0ab4_0
-    - liblzma =5.8.1 =hb9d3cd8_1
+    - liblzma =5.8.1 =hb9d3cd8_2
     - libnsl =2.0.1 =hd590300_0
     - libntlm =1.8 =hb9d3cd8_0
     - libogg =1.3.5 =hd0c01bc_1
@@ -112,7 +112,7 @@ requirements:
     - libpq =17.5 =h27ae623_0
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.20 =h4ab18f5_0
-    - libsqlite =3.50.0 =hee588c1_0
+    - libsqlite =3.50.1 =hee588c1_0
     - libstdcxx =15.1.0 =h8f9b012_2
     - libstdcxx-ng =15.1.0 =h4852527_2
     - libsystemd0 =257.6 =h4e0b6ca_0
@@ -148,7 +148,7 @@ requirements:
     - pulseaudio-client =17.0 =hac146a9_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pygments =2.19.1 =pyhd8ed1ab_0
-    - pyqt5-sip =12.17.0 =py39hf88036b_0
+    - pyqt5-sip =12.17.0 =py39hf88036b_1
     - python-dateutil =2.9.0.post0 =pyhff2d567_1
     - python_abi =3.9 =7_cp39
     - pyxdg =0.28 =pyhd8ed1ab_0
