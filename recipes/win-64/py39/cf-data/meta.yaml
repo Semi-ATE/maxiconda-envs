@@ -62,10 +62,10 @@ requirements:
     - aws-c-http =0.10.1 =h633db33_4
     - aws-c-io =0.19.1 =hddf4d6c_3
     - aws-c-mqtt =0.13.1 =h78aaacf_0
-    - aws-c-s3 =0.8.0 =h049b6dd_2
+    - aws-c-s3 =0.8.1 =h049b6dd_0
     - aws-c-sdkutils =0.2.4 =h5d0e663_0
     - aws-checksums =0.2.7 =h5d0e663_1
-    - aws-crt-cpp =0.32.8 =ha91b654_2
+    - aws-crt-cpp =0.32.8 =h6a7516d_3
     - aws-sdk-cpp =1.11.510 =h7deb975_10
     - bcrypt =4.3.0 =py39h95bb58a_1
     - blinker =1.9.0 =pyhff2d567_0
@@ -402,7 +402,7 @@ requirements:
     - yaml =0.2.5 =h8ffe710_2
     - yellowbrick =1.5 =pyhd8ed1ab_1
     - zeromq =4.3.5 =ha9f60a1_7
-    - zipp =3.22.0 =pyhd8ed1ab_0
+    - zipp =3.23.0 =pyhd8ed1ab_0
     - zope.interface =7.2 =py39ha55e580_0
     - zstandard =0.23.0 =py39ha55e580_2
     - zstd =1.5.7 =hbeecb71_2
