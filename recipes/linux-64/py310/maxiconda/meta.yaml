@@ -29,13 +29,13 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.13.4 =pyha770c72_0
     - bitarray =3.4.2 =py310ha75aee5_0
-    - cython =3.1.1 =py310had8cdd9_1
+    - cython =3.1.2 =py310had8cdd9_1
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.135.2 =pyha770c72_0
+    - hypothesis =6.135.4 =pyha770c72_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.3 =py310hff52083_0
-    - numba =0.61.2 =py310h699fe88_0
+    - numba =0.61.2 =py310h8648a56_1
     - numpy =2.2.6 =py310hefbff90_0
     - openpyxl =3.1.5 =py310h0999ad4_1
     - paho-mqtt =2.1.0 =pyhd8ed1ab_0
@@ -51,7 +51,7 @@ requirements:
     - r-base =4.4.3 =h85845a0_2
     - r-essentials =4.4 =r44hd8ed1ab_2005
     - regex =2024.11.6 =py310ha75aee5_0
-    - requests =2.32.3 =pyhd8ed1ab_1
+    - requests =2.32.4 =pyhd8ed1ab_0
     - rust =1.87.0 =h1a8d7c4_0
     - scipy =1.15.2 =py310h1d65ade_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
@@ -507,7 +507,7 @@ requirements:
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rpds-py =0.25.1 =py310hbcd0ec0_0
-    - ruamel.yaml =0.18.13 =py310ha75aee5_0
+    - ruamel.yaml =0.18.14 =py310ha75aee5_0
     - ruamel.yaml.clib =0.2.8 =py310ha75aee5_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-unknown-linux-gnu =1.87.0 =h2c6d0dc_0

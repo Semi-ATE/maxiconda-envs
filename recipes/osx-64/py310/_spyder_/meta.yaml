@@ -25,7 +25,7 @@ requirements:
     - python =3.10.18 =h93e8a92_0_cpython
 
     # 9 primary packages :
-    - cython =3.1.1 =py310h60cd68d_1
+    - cython =3.1.2 =py310h60cd68d_1
     - matplotlib =3.10.3 =py310h2ec42d9_0
     - numpy =2.2.6 =py310h07c5b4d_0
     - pandas =2.3.0 =py310h96a9d13_0
@@ -266,7 +266,7 @@ requirements:
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - readline =8.2 =h7cca4af_2
     - referencing =0.36.2 =pyh29332c3_0
-    - requests =2.32.3 =pyhd8ed1ab_1
+    - requests =2.32.4 =pyhd8ed1ab_0
     - rich =14.0.0 =pyh29332c3_0
     - rope =1.13.0 =pyhd8ed1ab_1
     - rpds-py =0.25.1 =py310h4c9a074_0
