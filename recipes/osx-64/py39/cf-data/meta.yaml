@@ -57,18 +57,18 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =25.3.0 =pyh71513ae_0
     - automat =25.4.16 =pyhd8ed1ab_0
-    - aws-c-auth =0.9.0 =hce4ecd8_12
+    - aws-c-auth =0.9.0 =h8bb4dfe_13
     - aws-c-cal =0.9.2 =h80a239a_0
     - aws-c-common =0.12.3 =h6e16a3a_0
     - aws-c-compression =0.3.1 =hdea44ad_5
     - aws-c-event-stream =0.5.4 =h0098a4f_10
-    - aws-c-http =0.10.1 =h6610978_4
+    - aws-c-http =0.10.2 =h6610978_0
     - aws-c-io =0.19.1 =h550966a_3
-    - aws-c-mqtt =0.13.1 =h8feeaa6_0
-    - aws-c-s3 =0.8.1 =h7782dc6_0
+    - aws-c-mqtt =0.13.1 =h4e1f666_1
+    - aws-c-s3 =0.8.1 =he6c7ef3_1
     - aws-c-sdkutils =0.2.4 =hdea44ad_0
     - aws-checksums =0.2.7 =hdea44ad_1
-    - aws-crt-cpp =0.32.8 =hc478f6a_3
+    - aws-crt-cpp =0.32.8 =h48a8e8d_4
     - aws-sdk-cpp =1.11.510 =h894e209_10
     - azure-core-cpp =1.14.0 =h9a36307_0
     - azure-identity-cpp =1.10.0 =ha4e2ba9_0
@@ -103,7 +103,7 @@ requirements:
     - constantly =15.1.0 =py_0
     - contourpy =1.3.0 =py39h0d3c867_2
     - cpython =3.9.23 =py39hd8ed1ab_0
-    - cryptography =45.0.3 =py39hce2744d_0
+    - cryptography =45.0.4 =py39hce2744d_0
     - cssselect =1.3.0 =pyhd8ed1ab_0
     - cufflinks-py =0.17.3 =pyhff2d567_1
     - cycler =0.12.1 =pyhd8ed1ab_1
@@ -313,7 +313,7 @@ requirements:
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.2.1 =py39h1fda9f2_0
     - pip =25.1.1 =pyh8b19718_0
-    - pixman =0.46.0 =h1fd1274_0
+    - pixman =0.46.2 =h1fd1274_0
     - platformdirs =4.3.8 =pyhe01879c_0
     - ply =3.11 =pyhd8ed1ab_3
     - preshed =3.0.9 =py39ha92e968_2

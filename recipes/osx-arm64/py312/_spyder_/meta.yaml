@@ -25,7 +25,7 @@ requirements:
     - python =3.12.11 =hc22306f_0_cpython
 
     # 9 primary packages :
-    - cython =3.1.1 =py312h02233ea_1
+    - cython =3.1.2 =py312h02233ea_1
     - matplotlib =3.10.3 =py312h1f38498_0
     - numpy =2.3.0 =py312h113b91d_0
     - pandas =2.3.0 =py312hcb1e3ce_0
@@ -74,7 +74,7 @@ requirements:
     - contourpy =1.3.2 =py312hb23fbb9_0
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
     - cpython =3.12.11 =py312hd8ed1ab_0
-    - cryptography =45.0.3 =py312hf9bd80e_0
+    - cryptography =45.0.4 =py312hf9bd80e_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.27 =h60b93bd_7
     - debugpy =1.8.14 =py312hd8f9ff3_0
@@ -317,7 +317,7 @@ requirements:
     - xorg-libxdmcp =1.1.5 =hd74edd7_0
     - yaml =0.2.5 =h3422bc3_2
     - yapf =0.43.0 =pyhd8ed1ab_1
-    - yarl =1.20.0 =py312h998013c_0
+    - yarl =1.20.1 =py312h998013c_0
     - zeromq =4.3.5 =hc1bb282_7
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zstandard =0.23.0 =py312hea69d52_2
