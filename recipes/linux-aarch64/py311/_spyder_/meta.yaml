@@ -25,7 +25,7 @@ requirements:
     - python =3.11.13 =h1683364_0_cpython
 
     # 9 primary packages :
-    - cython =3.1.2 =py311hc8540bd_1
+    - cython =3.1.2 =py311hc8540bd_2
     - matplotlib =3.10.3 =py311hfecb2dc_0
     - numpy =2.3.0 =py311h295a533_0
     - pandas =2.3.0 =py311h848c333_0
@@ -38,7 +38,7 @@ requirements:
     # 353 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
-    - aiohttp =3.12.8 =py311h58d527c_0
+    - aiohttp =3.12.12 =py311h58d527c_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - alsa-lib =1.2.14 =h86ecc28_0

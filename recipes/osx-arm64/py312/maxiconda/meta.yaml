@@ -25,12 +25,12 @@ requirements:
     - python =3.12.11 =hc22306f_0_cpython
 
     # 37 primary packages :
-    - aiohttp =3.12.8 =py312h998013c_0
+    - aiohttp =3.12.12 =py312h998013c_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.13.4 =pyha770c72_0
-    - cython =3.1.2 =py312h02233ea_1
+    - cython =3.1.2 =py312h02233ea_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.135.6 =pyha770c72_0
+    - hypothesis =6.135.7 =pyha770c72_0
     - ipython =9.3.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.3 =py312h1f38498_0

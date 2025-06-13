@@ -25,7 +25,7 @@ requirements:
     - python =3.9.23 =h7139b31_0_cpython
 
     # 9 primary packages :
-    - cython =3.1.2 =py39h1d5d4fa_1
+    - cython =3.1.2 =py39h1d5d4fa_2
     - matplotlib =3.9.4 =py39hdf13c20_0
     - numpy =2.0.2 =py39h3ba1154_1
     - pandas =2.3.0 =py39hbc50386_0
@@ -37,7 +37,7 @@ requirements:
 
     # 287 secondary packages :
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
-    - aiohttp =3.12.8 =py39hefdd603_0
+    - aiohttp =3.12.12 =py39hefdd603_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alabaster =0.7.16 =pyhd8ed1ab_0
     - applaunchservices =0.3.0 =pyh534df25_4
