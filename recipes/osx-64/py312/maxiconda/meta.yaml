@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.4.2 =py312h01d7ebd_0
     - cython =3.1.2 =py312hdfbeeba_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.135.7 =pyha770c72_0
+    - hypothesis =6.135.9 =pyha770c72_0
     - ipython =9.3.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.3 =py312hb401068_0
@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =2.1.0 =pyhd8ed1ab_0
     - pandas =2.3.0 =py312hec45ffd_0
     - psutil =7.0.0 =py312h01d7ebd_0
-    - pydantic =2.11.4 =pyh3cfb1c2_0
+    - pydantic =2.11.6 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py312h5e38ec9_1
     - pyserial =3.5 =pyhd8ed1ab_1
     - pytest =8.4.0 =pyhd8ed1ab_0
@@ -126,7 +126,7 @@ requirements:
     - fontconfig =2.15.0 =h37eeddb_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.58.2 =py312h3520af0_0
+    - fonttools =4.58.4 =py312h3520af0_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.13.3 =h694c41f_1
     - fribidi =1.0.10 =hbcb3906_0
@@ -188,8 +188,8 @@ requirements:
     - libclang-cpp20.1 =20.1.6 =default_hf9570e0_0
     - libclang13 =20.1.6 =default_h9644bed_0
     - libcurl =8.14.1 =h5dec5d8_0
-    - libcxx =20.1.6 =hf95d169_0
-    - libcxx-devel =20.1.6 =h7c275be_0
+    - libcxx =20.1.7 =hf95d169_0
+    - libcxx-devel =20.1.7 =h7c275be_0
     - libdeflate =1.24 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2

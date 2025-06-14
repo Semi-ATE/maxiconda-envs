@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.4.2 =py310ha8f682b_0
     - cython =3.1.2 =py310h6bd2d47_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.135.7 =pyha770c72_0
+    - hypothesis =6.135.9 =pyha770c72_0
     - ipython =8.37.0 =pyha7b4d00_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.3 =py310h5588dad_0
@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =2.1.0 =pyhd8ed1ab_0
     - pandas =2.3.0 =py310hb4db72f_0
     - psutil =7.0.0 =py310ha8f682b_0
-    - pydantic =2.11.4 =pyh3cfb1c2_0
+    - pydantic =2.11.6 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py310h936fe8c_1
     - pyserial =3.5 =pyhd8ed1ab_1
     - pytest =8.4.0 =pyhd8ed1ab_0
@@ -79,7 +79,7 @@ requirements:
     - async-timeout =5.0.1 =pyhd8ed1ab_1
     - attrs =25.3.0 =pyh71513ae_0
     - babel =2.17.0 =pyhd8ed1ab_0
-    - binutils_impl_win-64 =2.43 =h095e170_4
+    - binutils_impl_win-64 =2.43 =h095e170_5
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
     - brotli =1.1.0 =h2466b09_3
@@ -117,7 +117,7 @@ requirements:
     - fontconfig =2.15.0 =h765892d_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.58.2 =py310h38315fa_0
+    - fonttools =4.58.4 =py310h38315fa_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.13.3 =h57928b3_1
     - fribidi =1.0.10 =h8d14728_0
@@ -165,7 +165,7 @@ requirements:
     - kiwisolver =1.4.7 =py310hc19bc0b_0
     - krb5 =1.21.3 =hdf4eb48_0
     - lcms2 =2.17 =hbcf6048_0
-    - ld_impl_win-64 =2.43 =hae1bf67_4
+    - ld_impl_win-64 =2.43 =hae1bf67_5
     - lerc =4.0.0 =h6470a55_1
     - libblas =3.9.0 =31_h641d27c_mkl
     - libbrotlicommon =1.1.0 =h2466b09_3

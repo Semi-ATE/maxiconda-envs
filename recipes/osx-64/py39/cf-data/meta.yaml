@@ -57,18 +57,18 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =25.3.0 =pyh71513ae_0
     - automat =25.4.16 =pyhd8ed1ab_0
-    - aws-c-auth =0.9.0 =h8bb4dfe_13
+    - aws-c-auth =0.9.0 =h774f1f9_14
     - aws-c-cal =0.9.2 =h80a239a_0
     - aws-c-common =0.12.3 =h6e16a3a_0
     - aws-c-compression =0.3.1 =hdea44ad_5
-    - aws-c-event-stream =0.5.4 =h0098a4f_10
-    - aws-c-http =0.10.2 =h6610978_0
-    - aws-c-io =0.19.1 =h550966a_3
-    - aws-c-mqtt =0.13.1 =h4e1f666_1
-    - aws-c-s3 =0.8.1 =he6c7ef3_1
+    - aws-c-event-stream =0.5.4 =he50a907_11
+    - aws-c-http =0.10.2 =h44a2987_1
+    - aws-c-io =0.20.0 =h550966a_0
+    - aws-c-mqtt =0.13.1 =h08eec13_2
+    - aws-c-s3 =0.8.1 =h98ee2e4_2
     - aws-c-sdkutils =0.2.4 =hdea44ad_0
     - aws-checksums =0.2.7 =hdea44ad_1
-    - aws-crt-cpp =0.32.8 =h48a8e8d_4
+    - aws-crt-cpp =0.32.8 =hc4daedd_5
     - aws-sdk-cpp =1.11.510 =h894e209_10
     - azure-core-cpp =1.14.0 =h9a36307_0
     - azure-identity-cpp =1.10.0 =ha4e2ba9_0
@@ -129,7 +129,7 @@ requirements:
     - fontconfig =2.15.0 =h37eeddb_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.58.2 =py39hd18e689_0
+    - fonttools =4.58.4 =py39hd18e689_0
     - freetype =2.13.3 =h694c41f_1
     - fribidi =1.0.10 =hbcb3906_0
     - fsspec =2025.5.1 =pyhd8ed1ab_0
@@ -206,7 +206,7 @@ requirements:
     - libclang13 =20.1.6 =default_h9644bed_0
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.14.1 =h5dec5d8_0
-    - libcxx =20.1.6 =hf95d169_0
+    - libcxx =20.1.7 =hf95d169_0
     - libdeflate =1.24 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -231,7 +231,7 @@ requirements:
     - liblightgbm =4.6.0 =cpu_h458a52c_2
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm20 =20.1.6 =h29c3a6c_0
+    - libllvm20 =20.1.7 =h29c3a6c_0
     - liblzma =5.8.1 =hd471939_2
     - libnghttp2 =1.64.0 =hc7306c3_0
     - libntlm =1.8 =h6e16a3a_0
@@ -294,7 +294,7 @@ requirements:
     - numba =0.60.0 =py39h90d9702_0
     - numexpr =2.10.2 =py39h9f64e28_0
     - oauthlib =3.2.2 =pyhd8ed1ab_1
-    - opencl-headers =2024.10.24 =h240833e_0
+    - opencl-headers =2025.06.13 =h240833e_0
     - openjpeg =2.5.3 =h7fd6d84_0
     - openldap =2.6.10 =hd8a590d_0
     - openssl =3.5.0 =hc426f3f_1
@@ -335,7 +335,7 @@ requirements:
     - pybind11 =2.13.6 =pyhc790b64_3
     - pybind11-global =2.13.6 =pyh217bc35_3
     - pycparser =2.22 =pyh29332c3_1
-    - pydantic =2.11.4 =pyh3cfb1c2_0
+    - pydantic =2.11.6 =pyh3cfb1c2_0
     - pydantic-core =2.33.2 =py39hce6d397_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
@@ -376,7 +376,7 @@ requirements:
     - service-identity =24.2.0 =pyha770c72_1
     - service_identity =24.2.0 =hd8ed1ab_1
     - setuptools =75.8.2 =pyhff2d567_0
-    - shap =0.47.2 =cpu_py39h8465976_0
+    - shap =0.48.0 =cpu_py39h7623293_0
     - shellingham =1.5.4 =pyhd8ed1ab_1
     - simpful =2.12.0 =pyhd8ed1ab_2
     - sip =6.10.0 =py39hdf37715_0
