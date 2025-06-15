@@ -38,7 +38,7 @@ requirements:
     # 353 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
-    - aiohttp =3.12.12 =py312hcc812fe_0
+    - aiohttp =3.12.13 =py312hcc812fe_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - alsa-lib =1.2.14 =h86ecc28_0
@@ -155,11 +155,11 @@ requirements:
     - libbrotlienc =1.1.0 =h86ecc28_3
     - libcap =2.75 =h51d75a7_0
     - libcblas =3.9.0 =31_hab92f65_openblas
-    - libclang-cpp20.1 =20.1.6 =default_h7d4303a_0
-    - libclang13 =20.1.6 =default_h9e36cb9_0
-    - libcups =2.3.3 =h405e4a8_4
+    - libclang-cpp20.1 =20.1.7 =default_h7d4303a_0
+    - libclang13 =20.1.7 =default_h9e36cb9_0
+    - libcups =2.3.3 =h5cdc715_5
     - libdeflate =1.24 =he377734_0
-    - libdrm =2.4.124 =h86ecc28_0
+    - libdrm =2.4.125 =h86ecc28_0
     - libedit =3.1.20250104 =pl5321h976ea20_0
     - libegl =1.7.0 =hd24410f_2
     - libevent =2.1.12 =h4ba1bb4_1
@@ -192,7 +192,7 @@ requirements:
     - libopenblas =0.3.29 =pthreads_h9d3fd7e_0
     - libopengl =1.7.0 =hd24410f_2
     - libopus =1.5.2 =h86ecc28_0
-    - libpciaccess =0.18 =h31becfc_0
+    - libpciaccess =0.18 =h86ecc28_0
     - libpng =1.6.47 =hec79eb8_0
     - libpq =17.5 =hf590da8_0
     - libsndfile =1.2.2 =h79657aa_1
@@ -227,7 +227,7 @@ requirements:
     - mpg123 =1.32.9 =h65af167_0
     - mpmath =1.3.0 =pyhd8ed1ab_1
     - multidict =6.4.4 =py312hcc812fe_0
-    - munkres =1.1.4 =pyh9f0ad1d_0
+    - munkres =1.1.4 =pyhd8ed1ab_1
     - mypy_extensions =1.1.0 =pyha770c72_0
     - nbclient =0.10.2 =pyhd8ed1ab_0
     - nbconvert =7.16.6 =hb482800_0
@@ -296,7 +296,7 @@ requirements:
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py312hcc812fe_2
-    - pyzmq =26.4.0 =py312h2427ae1_0
+    - pyzmq =27.0.0 =py312h2427ae1_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h70be974_5
     - qstylizer =0.2.4 =pyhff2d567_0

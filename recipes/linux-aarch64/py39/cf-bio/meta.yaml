@@ -102,11 +102,11 @@ requirements:
     - libbrotlienc =1.1.0 =h86ecc28_3
     - libcap =2.75 =h51d75a7_0
     - libcblas =3.9.0 =31_hab92f65_openblas
-    - libclang-cpp20.1 =20.1.6 =default_h7d4303a_0
-    - libclang13 =20.1.6 =default_h9e36cb9_0
-    - libcups =2.3.3 =h405e4a8_4
+    - libclang-cpp20.1 =20.1.7 =default_h7d4303a_0
+    - libclang13 =20.1.7 =default_h9e36cb9_0
+    - libcups =2.3.3 =h5cdc715_5
     - libdeflate =1.24 =he377734_0
-    - libdrm =2.4.124 =h86ecc28_0
+    - libdrm =2.4.125 =h86ecc28_0
     - libedit =3.1.20250104 =pl5321h976ea20_0
     - libegl =1.7.0 =hd24410f_2
     - libevent =2.1.12 =h4ba1bb4_1
@@ -140,7 +140,7 @@ requirements:
     - libopenblas =0.3.29 =pthreads_h9d3fd7e_0
     - libopengl =1.7.0 =hd24410f_2
     - libopus =1.5.2 =h86ecc28_0
-    - libpciaccess =0.18 =h31becfc_0
+    - libpciaccess =0.18 =h86ecc28_0
     - libpng =1.6.47 =hec79eb8_0
     - libpq =17.5 =hf590da8_0
     - librdkit =2025.03.3 =h568aa26_0
@@ -164,7 +164,7 @@ requirements:
     - matplotlib-base =3.9.4 =py39hd333c8e_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mpg123 =1.32.9 =h65af167_0
-    - munkres =1.1.4 =pyh9f0ad1d_0
+    - munkres =1.1.4 =pyhd8ed1ab_1
     - ncurses =6.5 =ha32ae93_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.36 =h5ad3122_0
@@ -198,7 +198,7 @@ requirements:
     - python_abi =3.9 =7_cp39
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyxdg =0.28 =pyhd8ed1ab_0
-    - pyzmq =26.4.0 =py39he601760_0
+    - pyzmq =27.0.0 =py39he601760_0
     - qhull =2020.2 =h70be974_5
     - qt-main =5.15.15 =hf34aa0b_4
     - qt6-main =6.9.1 =h13135bf_0

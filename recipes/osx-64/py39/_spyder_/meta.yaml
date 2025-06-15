@@ -37,7 +37,7 @@ requirements:
 
     # 287 secondary packages :
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
-    - aiohttp =3.12.12 =py39hd18e689_0
+    - aiohttp =3.12.13 =py39hd18e689_0
     - aiosignal =1.3.2 =pyhd8ed1ab_0
     - alabaster =0.7.16 =pyhd8ed1ab_0
     - applaunchservices =0.3.0 =pyh534df25_4
@@ -136,7 +136,7 @@ requirements:
     - libbrotlienc =1.1.0 =h6e16a3a_3
     - libcblas =3.9.0 =31_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =20.1.6 =default_h9644bed_0
+    - libclang13 =20.1.7 =default_h9644bed_0
     - libcxx =20.1.7 =hf95d169_0
     - libdeflate =1.24 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
@@ -171,7 +171,7 @@ requirements:
     - libxcb =1.17.0 =hf1f96e2_0
     - libxml2 =2.13.8 =h93c44a6_0
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =20.1.6 =ha54dae1_0
+    - llvm-openmp =20.1.7 =ha54dae1_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_1
     - markupsafe =3.0.2 =py39hd18e689_1
     - matplotlib-base =3.9.4 =py39hda06d36_0
@@ -184,7 +184,7 @@ requirements:
     - mpfr =4.2.1 =haed47dc_3
     - mpmath =1.3.0 =pyhd8ed1ab_1
     - multidict =6.4.4 =py39h781ac47_0
-    - munkres =1.1.4 =pyh9f0ad1d_0
+    - munkres =1.1.4 =pyhd8ed1ab_1
     - mypy_extensions =1.1.0 =pyha770c72_0
     - nbclient =0.10.2 =pyhd8ed1ab_0
     - nbconvert =7.16.6 =hb482800_0
@@ -255,7 +255,7 @@ requirements:
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py39hd18e689_2
-    - pyzmq =26.4.0 =py39hf094b8e_0
+    - pyzmq =27.0.0 =py39hf094b8e_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h3c5361c_5
     - qstylizer =0.2.4 =pyhff2d567_0

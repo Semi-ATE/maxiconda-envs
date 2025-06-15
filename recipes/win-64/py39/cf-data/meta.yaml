@@ -134,7 +134,7 @@ requirements:
     - glib =2.84.2 =he8f994d_0
     - glib-tools =2.84.2 =h4394cf3_0
     - graphite2 =1.3.13 =h63175ca_1003
-    - graphviz =12.2.1 =hf40819d_1
+    - graphviz =13.0.0 =hbf28d17_0
     - greenlet =3.2.3 =py39ha51f57c_0
     - gst-plugins-base =1.24.11 =h3fe0a9e_0
     - gstreamer =1.24.11 =h233a61a_0
@@ -186,7 +186,7 @@ requirements:
     - libbrotlidec =1.1.0 =h2466b09_3
     - libbrotlienc =1.1.0 =h2466b09_3
     - libcblas =3.9.0 =31_h5e41251_mkl
-    - libclang13 =20.1.6 =default_h6e92b77_0
+    - libclang13 =20.1.7 =default_h6e92b77_0
     - libcrc32c =1.1.2 =h0e60522_0
     - libcurl =8.14.1 =h88aaa65_0
     - libdeflate =1.24 =h76ddb4d_0
@@ -246,7 +246,7 @@ requirements:
     - mlflow =1.27.0 =py39h54a35c1_0
     - mlxtend =0.23.4 =pyhd8ed1ab_0
     - multimethod =1.4 =py_0
-    - munkres =1.1.4 =pyh9f0ad1d_0
+    - munkres =1.1.4 =pyhd8ed1ab_1
     - murmurhash =1.0.10 =py39ha51f57c_2
     - narwhals =1.42.1 =pyhe01879c_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
@@ -289,7 +289,7 @@ requirements:
     - pyasn1 =0.6.1 =pyhd8ed1ab_2
     - pyasn1-modules =0.4.2 =pyhd8ed1ab_0
     - pycparser =2.22 =pyh29332c3_1
-    - pydantic =2.11.6 =pyh3cfb1c2_0
+    - pydantic =2.11.7 =pyh3cfb1c2_0
     - pydantic-core =2.33.2 =py39h95bb58a_0
     - pydispatcher =2.0.5 =py_1
     - pyfume =0.2.25 =pyhd8ed1ab_0
@@ -314,7 +314,7 @@ requirements:
     - pywin32 =307 =py39ha51f57c_3
     - pywin32-on-windows =0.1.0 =pyh07e9846_2
     - pyyaml =6.0.2 =py39hf73967f_2
-    - pyzmq =26.4.0 =py39h03e5c00_0
+    - pyzmq =27.0.0 =py39h03e5c00_0
     - qhull =2020.2 =hc790b64_5
     - qt-main =5.15.15 =h9151539_4
     - qt6-main =6.9.1 =h02ddd7d_0

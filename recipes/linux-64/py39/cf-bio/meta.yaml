@@ -121,12 +121,12 @@ requirements:
     - libbrotlienc =1.1.0 =hb9d3cd8_3
     - libcap =2.75 =h39aace5_0
     - libcblas =3.9.0 =31_he106b2a_openblas
-    - libclang-cpp20.1 =20.1.6 =default_h1df26ce_0
-    - libclang13 =20.1.6 =default_he06ed0a_0
-    - libcups =2.3.3 =h4637d8d_4
+    - libclang-cpp20.1 =20.1.7 =default_h1df26ce_0
+    - libclang13 =20.1.7 =default_he06ed0a_0
+    - libcups =2.3.3 =hb8b1518_5
     - libcurl =8.14.1 =h332b0f4_0
     - libdeflate =1.24 =h86f0d12_0
-    - libdrm =2.4.124 =hb9d3cd8_0
+    - libdrm =2.4.125 =hb9d3cd8_0
     - libedit =3.1.20250104 =pl5321h7949ede_0
     - libegl =1.7.0 =ha4b6fd6_2
     - libev =4.33 =hd590300_2
@@ -164,7 +164,7 @@ requirements:
     - libopenblas =0.3.29 =pthreads_h94d23a6_0
     - libopengl =1.7.0 =ha4b6fd6_2
     - libopus =1.5.2 =hd0c01bc_0
-    - libpciaccess =0.18 =hd590300_0
+    - libpciaccess =0.18 =hb9d3cd8_0
     - libpng =1.6.47 =h943b412_0
     - libpq =17.5 =h27ae623_0
     - librdkit =2025.03.3 =h84b0b3c_0
@@ -194,7 +194,7 @@ requirements:
     - mpg123 =1.32.9 =hc50e24c_0
     - mrcfile =1.5.4 =pyhd8ed1ab_0
     - msgpack-python =1.1.1 =py39h74842e3_0
-    - munkres =1.1.4 =pyh9f0ad1d_0
+    - munkres =1.1.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - netcdf4 =1.7.2 =nompi_py39h295be61_102
@@ -234,7 +234,7 @@ requirements:
     - pytng =0.3.3 =py39h406d69b_1
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyxdg =0.28 =pyhd8ed1ab_0
-    - pyzmq =26.4.0 =py39h4e4fb57_0
+    - pyzmq =27.0.0 =py39h4e4fb57_0
     - qhull =2020.2 =h434a139_5
     - qt-main =5.15.15 =hea1682b_4
     - qt6-main =6.9.1 =h0384650_0
