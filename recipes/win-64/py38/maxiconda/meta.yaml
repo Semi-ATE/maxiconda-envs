@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 434 secondary packages :
+    # 451 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
     - aiosignal =1.3.1 =pyhd8ed1ab_0
@@ -86,9 +86,10 @@ requirements:
     - brotli-bin =1.1.0 =h2466b09_3
     - brotli-python =1.0.9 =py38hd3f51b4_8
     - bzip2 =1.0.8 =h2466b09_7
-    - ca-certificates =2025.4.26 =h4c7d964_0
+    - ca-certificates =2025.6.15 =h4c7d964_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
+    - cairo =1.18.4 =h5782bbf_0
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38h4cb3324_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
@@ -107,17 +108,27 @@ requirements:
     - et_xmlfile =2.0.0 =pyhd8ed1ab_0
     - exceptiongroup =1.2.2 =pyhd8ed1ab_0
     - executing =2.1.0 =pyhd8ed1ab_0
+    - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
+    - font-ttf-inconsolata =3.000 =h77eed37_0
+    - font-ttf-source-code-pro =2.038 =h77eed37_0
+    - font-ttf-ubuntu =0.83 =h77eed37_3
+    - fontconfig =2.15.0 =h765892d_1
+    - fonts-conda-ecosystem =1 =0
+    - fonts-conda-forge =1 =0
     - fonttools =4.53.1 =py38h4cb3324_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.13.3 =h57928b3_1
+    - fribidi =1.0.10 =h8d14728_0
     - frozenlist =1.4.1 =py38h91455d4_0
     - glib =2.84.2 =he8f994d_0
     - glib-tools =2.84.2 =h4394cf3_0
+    - graphite2 =1.3.13 =h63175ca_1003
     - greenlet =3.0.3 =py38hd3f51b4_0
     - gst-plugins-base =1.24.11 =h3fe0a9e_0
     - gstreamer =1.24.11 =h233a61a_0
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =pyhd8ed1ab_0
+    - harfbuzz =11.2.1 =h8796e6f_0
     - hpack =4.0.0 =pyh9f0ad1d_0
     - httpcore =1.0.7 =pyh29332c3_1
     - httpx =0.27.2 =pyhd8ed1ab_0
@@ -158,6 +169,7 @@ requirements:
     - libcblas =3.9.0 =31_h5e41251_mkl
     - libclang13 =20.1.7 =default_h6e92b77_0
     - libdeflate =1.24 =h76ddb4d_0
+    - libexpat =2.7.0 =he0c23c2_0
     - libffi =3.4.6 =h537db12_1
     - libfreetype =2.13.3 =h57928b3_1
     - libfreetype6 =2.13.3 =h0b5ce68_1
@@ -238,6 +250,7 @@ requirements:
     - pickleshare =0.7.5 =py_1003
     - pillow =10.4.0 =py38h8d10685_0
     - pip =24.3.1 =pyh8b19718_0
+    - pixman =0.46.2 =had0cd8c_0
     - pkginfo =1.12.0 =pyhd8ed1ab_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - platformdirs =4.3.6 =pyhd8ed1ab_0
@@ -291,6 +304,7 @@ requirements:
     - r-codetools =0.2_19 =r41hc72bb7e_0
     - r-colorspace =2.1_0 =r41h6d2157b_1
     - r-commonmark =1.9.1 =r41h6d2157b_0
+    - r-conflicted =1.2.0 =r41h785f33e_0
     - r-cpp11 =0.5.2 =r41hc72bb7e_0
     - r-crayon =1.5.2 =r41hc72bb7e_1
     - r-crul =1.4.0 =r41h785f33e_0
@@ -388,6 +402,7 @@ requirements:
     - r-purrr =1.0.2 =r41h6d2157b_0
     - r-quantmod =0.4.22 =r41hc72bb7e_0
     - r-r6 =2.5.1 =r41hc72bb7e_1
+    - r-ragg =1.3.2 =r41he767bbc_0
     - r-randomforest =4.7_1.1 =r41he816bda_2
     - r-rappdirs =0.3.3 =r41h6d2157b_2
     - r-rbokeh =0.5.2 =r41hc72bb7e_2
@@ -419,10 +434,12 @@ requirements:
     - r-stringr =1.5.0 =r41h785f33e_0
     - r-survival =3.7_0 =r41h245b76f_0
     - r-sys =3.4.2 =r41h6d2157b_1
+    - r-systemfonts =1.1.0 =r41h754b566_0
+    - r-textshaping =0.4.0 =r41hdd868d5_0
     - r-tibble =3.2.1 =r41h6d2157b_2
     - r-tidyr =1.3.1 =r41ha856d6a_0
     - r-tidyselect =1.2.0 =r41h6addd8b_1
-    - r-tidyverse =1.3.2 =r41hc72bb7e_1
+    - r-tidyverse =2.0.0 =r41h785f33e_0
     - r-timechange =0.3.0 =r41ha856d6a_0
     - r-timedate =4022.108 =r41hc72bb7e_0
     - r-tinytex =0.45 =r41hc72bb7e_0
