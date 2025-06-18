@@ -48,7 +48,7 @@ requirements:
     # 360 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _py-xgboost-mutex =2.0 =cpu_0
-    - alembic =1.16.1 =pyhd8ed1ab_0
+    - alembic =1.16.2 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
     - appdirs =1.4.4 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -330,7 +330,7 @@ requirements:
     - service-identity =24.2.0 =pyha770c72_1
     - service_identity =24.2.0 =hd8ed1ab_1
     - setuptools =80.9.0 =pyhff2d567_0
-    - shap =0.48.0 =cpu_py39h5dd6019_0
+    - shap =0.48.0 =cpu_py39h5dd6019_1
     - shellingham =1.5.4 =pyhd8ed1ab_1
     - simpful =2.12.0 =pyhd8ed1ab_2
     - sip =6.10.0 =py39ha51f57c_0
