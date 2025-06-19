@@ -76,7 +76,7 @@ requirements:
     - cpython =3.11.13 =py311hd8ed1ab_0
     - cryptography =45.0.4 =py311h336e25c_0
     - cycler =0.12.1 =pyhd8ed1ab_1
-    - cyrus-sasl =2.1.27 =hf9bab2b_7
+    - cyrus-sasl =2.1.28 =h610c526_0
     - debugpy =1.8.14 =py311hc356e98_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
@@ -181,7 +181,7 @@ requirements:
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
     - mpmath =1.3.0 =pyhd8ed1ab_1
-    - multidict =6.4.4 =py311h1cc1194_0
+    - multidict =6.5.0 =py311h1cc1194_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - mypy_extensions =1.1.0 =pyha770c72_0
     - nbclient =0.10.2 =pyhd8ed1ab_0
@@ -229,10 +229,10 @@ requirements:
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.5.0 =py311h3336109_4
-    - pyobjc-core =11.0 =py311hfbc4093_0
-    - pyobjc-framework-cocoa =11.0 =py311hfbc4093_0
-    - pyobjc-framework-coreservices =11.0 =py311h4d7f069_0
-    - pyobjc-framework-fsevents =11.0 =py311h6eed73b_0
+    - pyobjc-core =11.1 =py311h2f44256_0
+    - pyobjc-framework-cocoa =11.1 =py311hfbc4093_0
+    - pyobjc-framework-coreservices =11.1 =py311h4d7f069_0
+    - pyobjc-framework-fsevents =11.1 =py311h6eed73b_0
     - pyopenssl =25.1.0 =pyhd8ed1ab_0
     - pyparsing =3.2.3 =pyhd8ed1ab_1
     - pyqt5-sip =12.17.0 =py311h74e74b8_1
@@ -287,7 +287,7 @@ requirements:
     - spyder-base =6.0.7 =osx_pyh1a5313d_0
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
-    - superqt =0.7.3 =pyhb6d5dde_0
+    - superqt =0.7.5 =pyhb6d5dde_0
     - tabulate =0.9.0 =pyhd8ed1ab_2
     - text-unidecode =1.3 =pyhd8ed1ab_2
     - textdistance =4.6.3 =pyhd8ed1ab_1
@@ -305,7 +305,7 @@ requirements:
     - tzdata =2025b =h78e105d_0
     - ujson =5.10.0 =py311hd89902b_1
     - unicodedata2 =16.0.0 =py311h4d7f069_0
-    - urllib3 =2.4.0 =pyhd8ed1ab_0
+    - urllib3 =2.5.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py311h4d7f069_0
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - webencodings =0.5.1 =pyhd8ed1ab_3

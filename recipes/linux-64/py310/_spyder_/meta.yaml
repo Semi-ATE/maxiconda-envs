@@ -80,7 +80,7 @@ requirements:
     - cpython =3.10.18 =py310hd8ed1ab_0
     - cryptography =45.0.4 =py310h6c63255_0
     - cycler =0.12.1 =pyhd8ed1ab_1
-    - cyrus-sasl =2.1.27 =h54b06d7_7
+    - cyrus-sasl =2.1.28 =hd9c7081_0
     - dbus =1.16.2 =h3c4dab8_0
     - debugpy =1.8.14 =py310hf71b8c6_0
     - decorator =5.2.1 =pyhd8ed1ab_0
@@ -188,7 +188,7 @@ requirements:
     - liblapack =3.9.0 =31_h7ac8fdf_openblas
     - libllvm20 =20.1.7 =he9d0ab4_0
     - liblzma =5.8.1 =hb9d3cd8_2
-    - libnsl =2.0.1 =hd590300_0
+    - libnsl =2.0.1 =hb9d3cd8_1
     - libntlm =1.8 =hb9d3cd8_0
     - libogg =1.3.5 =hd0c01bc_1
     - libopenblas =0.3.29 =pthreads_h94d23a6_0
@@ -228,7 +228,7 @@ requirements:
     - mpfr =4.2.1 =h90cbb55_3
     - mpg123 =1.32.9 =hc50e24c_0
     - mpmath =1.3.0 =pyhd8ed1ab_1
-    - multidict =6.4.4 =py310h89163eb_0
+    - multidict =6.5.0 =py310h89163eb_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - mypy_extensions =1.1.0 =pyha770c72_0
     - nbclient =0.10.2 =pyhd8ed1ab_0
@@ -333,7 +333,7 @@ requirements:
     - spyder-base =6.0.7 =linux_pyh62a8a7d_0
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
-    - superqt =0.7.3 =pyhb6d5dde_0
+    - superqt =0.7.5 =pyhb6d5dde_0
     - tabulate =0.9.0 =pyhd8ed1ab_2
     - text-unidecode =1.3 =pyhd8ed1ab_2
     - textdistance =4.6.3 =pyhd8ed1ab_1
@@ -351,7 +351,7 @@ requirements:
     - tzdata =2025b =h78e105d_0
     - ujson =5.10.0 =py310hf71b8c6_1
     - unicodedata2 =16.0.0 =py310ha75aee5_0
-    - urllib3 =2.4.0 =pyhd8ed1ab_0
+    - urllib3 =2.5.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py310hff52083_0
     - wayland =1.23.1 =h3e06ad9_1
     - wcwidth =0.2.13 =pyhd8ed1ab_1

@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =1.4.42 =py37h540881e_0
     - twisted =22.8.0 =py37h540881e_0
 
-    # 187 secondary packages :
+    # 188 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.14 =hb9d3cd8_0
@@ -58,7 +58,7 @@ requirements:
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - constantly =15.1.0 =py_0
     - cryptography =38.0.2 =py37h5994e8b_1
-    - cyrus-sasl =2.1.27 =h54b06d7_7
+    - cyrus-sasl =2.1.28 =hd9c7081_0
     - dbus =1.16.2 =h3c4dab8_0
     - debugpy =1.6.3 =py37hd23a5d3_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -125,7 +125,7 @@ requirements:
     - libllvm20 =20.1.7 =he9d0ab4_0
     - liblzma =5.8.1 =hb9d3cd8_2
     - liblzma-devel =5.8.1 =hb9d3cd8_2
-    - libnsl =2.0.1 =hd590300_0
+    - libnsl =2.0.1 =hb9d3cd8_1
     - libntlm =1.8 =hb9d3cd8_0
     - libogg =1.3.5 =hd0c01bc_1
     - libopus =1.5.2 =hd0c01bc_0
@@ -141,6 +141,7 @@ requirements:
     - libuuid =2.38.1 =h0b41bf4_0
     - libvorbis =1.3.7 =h9c3ff4c_0
     - libxcb =1.17.0 =h8a09558_0
+    - libxcrypt =4.4.36 =hd590300_1
     - libxkbcommon =1.10.0 =h65c71a3_0
     - libxml2 =2.13.8 =h4bc477f_0
     - libzlib =1.3.1 =hb9d3cd8_2

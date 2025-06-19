@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.4.2 =py310ha766c32_0
     - cython =3.1.2 =py310hc86cfe9_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.135.10 =pyha770c72_0
+    - hypothesis =6.135.11 =pyha770c72_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.3 =py310hbbe02a8_0
@@ -44,7 +44,7 @@ requirements:
     - pydantic =2.11.7 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py310h27ebcef_1
     - pyserial =3.5 =pyhd8ed1ab_1
-    - pytest =8.4.0 =pyhd8ed1ab_0
+    - pytest =8.4.1 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py310heeae437_2
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.0 =pyh9208f05_1
@@ -87,7 +87,7 @@ requirements:
     - brotli =1.1.0 =h86ecc28_3
     - brotli-bin =1.1.0 =h86ecc28_3
     - brotli-python =1.1.0 =py310he30c3ed_3
-    - bwidget =1.10.1 =h8af1aa0_0
+    - bwidget =1.10.1 =h8af1aa0_1
     - bzip2 =1.0.8 =h68df207_7
     - c-ares =1.34.5 =h86ecc28_0
     - ca-certificates =2025.6.15 =hbd8a1cb_0
@@ -106,7 +106,7 @@ requirements:
     - cpython =3.10.18 =py310hd8ed1ab_0
     - curl =8.14.1 =h6702fde_0
     - cycler =0.12.1 =pyhd8ed1ab_1
-    - cyrus-sasl =2.1.27 =hf6b2984_7
+    - cyrus-sasl =2.1.28 =h6c5dea3_0
     - dbus =1.16.2 =heda779d_0
     - debugpy =1.8.14 =py310he30c3ed_0
     - decorator =5.2.1 =pyhd8ed1ab_0
@@ -222,7 +222,7 @@ requirements:
     - libllvm20 =20.1.7 =h07bd352_0
     - liblzma =5.8.1 =h86ecc28_2
     - libnghttp2 =1.64.0 =hc8609a4_0
-    - libnsl =2.0.1 =h31becfc_0
+    - libnsl =2.0.1 =h86ecc28_1
     - libntlm =1.4 =hf897c2e_1002
     - libogg =1.3.5 =h86ecc28_1
     - libopenblas =0.3.29 =pthreads_h9d3fd7e_0
@@ -262,7 +262,7 @@ requirements:
     - mpfr =4.2.1 =h2305555_3
     - mpg123 =1.32.9 =h65af167_0
     - mpmath =1.3.0 =pyhd8ed1ab_1
-    - multidict =6.4.4 =py310heeae437_0
+    - multidict =6.5.0 =py310heeae437_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.10.2 =pyhd8ed1ab_0
     - nbconvert-core =7.16.6 =pyh29332c3_0
@@ -357,7 +357,7 @@ requirements:
     - r-dtplyr =1.3.1 =r44hc72bb7e_2
     - r-e1071 =1.7_16 =r44h21d2c02_0
     - r-ellipsis =0.3.2 =r44hc1cf72c_3
-    - r-evaluate =1.0.3 =r44hc72bb7e_0
+    - r-evaluate =1.0.4 =r44hc72bb7e_0
     - r-fansi =1.0.6 =r44hc1cf72c_1
     - r-farver =2.1.2 =r44h6170684_1
     - r-fastmap =1.2.0 =r44h6170684_1
@@ -524,7 +524,7 @@ requirements:
     - terminado =0.18.1 =pyh0d859eb_0
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_h5688188_102
-    - tktable =2.10 =h52f7bd3_6
+    - tktable =2.10 =h89546af_7
     - toml =0.10.2 =pyhd8ed1ab_1
     - tomli =2.2.1 =pyhd8ed1ab_1
     - tomli-w =1.2.0 =pyhd8ed1ab_0
@@ -538,7 +538,7 @@ requirements:
     - tzdata =2025b =h78e105d_0
     - unicodedata2 =16.0.0 =py310ha766c32_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
-    - urllib3 =2.4.0 =pyhd8ed1ab_0
+    - urllib3 =2.5.0 =pyhd8ed1ab_0
     - wayland =1.23.1 =h698ed42_1
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - webcolors =24.11.1 =pyhd8ed1ab_0

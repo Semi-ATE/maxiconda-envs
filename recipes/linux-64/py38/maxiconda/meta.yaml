@@ -90,7 +90,7 @@ requirements:
     - brotli =1.1.0 =hb9d3cd8_3
     - brotli-bin =1.1.0 =hb9d3cd8_3
     - brotli-python =1.0.9 =py38hfa26641_8
-    - bwidget =1.10.1 =ha770c72_0
+    - bwidget =1.10.1 =ha770c72_1
     - bzip2 =1.0.8 =h4bc722e_7
     - c-ares =1.34.5 =hb9d3cd8_0
     - ca-certificates =2025.6.15 =hbd8a1cb_0
@@ -109,7 +109,7 @@ requirements:
     - cpython =3.8.20 =py38hd8ed1ab_2
     - curl =8.14.1 =h332b0f4_0
     - cycler =0.12.1 =pyhd8ed1ab_0
-    - cyrus-sasl =2.1.27 =h54b06d7_7
+    - cyrus-sasl =2.1.28 =hd9c7081_0
     - dbus =1.16.2 =h3c4dab8_0
     - debugpy =1.8.5 =py38h6d02427_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -229,7 +229,7 @@ requirements:
     - liblzma =5.8.1 =hb9d3cd8_2
     - liblzma-devel =5.8.1 =hb9d3cd8_2
     - libnghttp2 =1.64.0 =h161d5f1_0
-    - libnsl =2.0.1 =hd590300_0
+    - libnsl =2.0.1 =hb9d3cd8_1
     - libntlm =1.8 =hb9d3cd8_0
     - libogg =1.3.5 =hd0c01bc_1
     - libopenblas =0.3.25 =pthreads_h413a1c8_0
@@ -360,7 +360,7 @@ requirements:
     - r-dtplyr =1.3.1 =r44hc72bb7e_2
     - r-e1071 =1.7_16 =r44h93ab643_0
     - r-ellipsis =0.3.2 =r44hb1dbf0f_3
-    - r-evaluate =1.0.3 =r44hc72bb7e_0
+    - r-evaluate =1.0.4 =r44hc72bb7e_0
     - r-fansi =1.0.6 =r44hb1dbf0f_1
     - r-farver =2.1.2 =r44ha18555a_1
     - r-fastmap =1.2.0 =r44ha18555a_1
@@ -528,7 +528,7 @@ requirements:
     - terminado =0.18.1 =pyh0d859eb_0
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_hd72426e_102
-    - tktable =2.10 =h8bc8fbc_6
+    - tktable =2.10 =h8d826fa_7
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.2 =pyhd8ed1ab_0
     - tomli-w =1.0.0 =pyhd8ed1ab_0
