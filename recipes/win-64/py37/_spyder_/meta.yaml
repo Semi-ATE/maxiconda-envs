@@ -113,11 +113,11 @@ requirements:
     - lerc =4.0.0 =h6470a55_1
     - libasprintf =0.22.5 =h5728263_3
     - libasprintf-devel =0.22.5 =h5728263_3
-    - libblas =3.9.0 =31_h641d27c_mkl
+    - libblas =3.9.0 =32_h641d27c_mkl
     - libbrotlicommon =1.1.0 =h2466b09_3
     - libbrotlidec =1.1.0 =h2466b09_3
     - libbrotlienc =1.1.0 =h2466b09_3
-    - libcblas =3.9.0 =31_h5e41251_mkl
+    - libcblas =3.9.0 =32_h5e41251_mkl
     - libclang =15.0.7 =default_h3a3e6c3_5
     - libclang13 =15.0.7 =default_hf64faad_5
     - libdeflate =1.14 =hcfcfb64_0
@@ -131,14 +131,14 @@ requirements:
     - libiconv =1.18 =h135ad9c_1
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
-    - liblapack =3.9.0 =31_h1aa476e_mkl
+    - liblapack =3.9.0 =32_h1aa476e_mkl
     - liblzma =5.8.1 =h2466b09_2
     - liblzma-devel =5.8.1 =h2466b09_2
     - libogg =1.3.5 =h2466b09_1
     - libpng =1.6.49 =h7a4582a_0
     - libsodium =1.0.18 =h8d14728_1
     - libspatialindex =1.9.3 =h5a68840_5
-    - libsqlite =3.50.1 =h67fdade_0
+    - libsqlite =3.50.1 =h053a19d_4
     - libtiff =4.4.0 =hc4f729c_5
     - libvorbis =1.3.7 =h0e60522_0
     - libwebp =1.5.0 =h3b0e114_0
@@ -245,7 +245,7 @@ requirements:
     - sphinxcontrib-qthelp =1.0.3 =py_0
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_2
     - spyder-kernels =2.3.3 =py37h03978a9_0
-    - sqlite =3.50.1 =h2466b09_0
+    - sqlite =3.50.1 =hfd05255_4
     - tbb =2021.13.0 =h62715c5_1
     - text-unidecode =1.3 =pyhd8ed1ab_1
     - textdistance =4.6.3 =pyhd8ed1ab_0
