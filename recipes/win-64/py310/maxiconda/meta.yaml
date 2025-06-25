@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.5 =win_pyh7428d3b_0
     - sqlalchemy =2.0.41 =py310ha8f682b_0
-    - sqlite =3.50.1 =hfd05255_4
+    - sqlite =3.50.1 =hdb435a2_6
     - sympy =1.14.0 =pyh04b8f61_5
     - tqdm =4.67.1 =pyhd8ed1ab_1
     - transitions =0.9.2 =pyhd8ed1ab_1
@@ -122,8 +122,8 @@ requirements:
     - freetype =2.13.3 =h57928b3_1
     - fribidi =1.0.10 =h8d14728_0
     - frozenlist =1.6.0 =py310hd8edbac_0
-    - gcc_impl_win-64 =15.1.0 =hb5bc704_2
-    - gfortran_impl_win-64 =15.1.0 =h792c6fe_2
+    - gcc_impl_win-64 =15.1.0 =hb5bc704_3
+    - gfortran_impl_win-64 =15.1.0 =h792c6fe_3
     - glib =2.84.2 =he8f994d_0
     - glib-tools =2.84.2 =h4394cf3_0
     - graphite2 =1.3.14 =he0c23c2_0
@@ -131,7 +131,7 @@ requirements:
     - gsl =2.7 =hdfb1a43_0
     - gst-plugins-base =1.24.11 =h3fe0a9e_0
     - gstreamer =1.24.11 =h233a61a_0
-    - gxx_impl_win-64 =15.1.0 =h91e354b_2
+    - gxx_impl_win-64 =15.1.0 =h91e354b_3
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.2.0 =pyhd8ed1ab_0
     - harfbuzz =11.2.1 =h8796e6f_0
@@ -179,12 +179,12 @@ requirements:
     - libffi =3.4.6 =h537db12_1
     - libfreetype =2.13.3 =h57928b3_1
     - libfreetype6 =2.13.3 =h0b5ce68_1
-    - libgcc =15.1.0 =h1383e82_2
-    - libgcc-devel_win-64 =15.1.0 =hec057c1_102
-    - libgfortran =15.1.0 =h719f0c7_2
-    - libgfortran5 =15.1.0 =h997fb6f_2
+    - libgcc =15.1.0 =h1383e82_3
+    - libgcc-devel_win-64 =15.1.0 =hec057c1_103
+    - libgfortran =15.1.0 =h719f0c7_3
+    - libgfortran5 =15.1.0 =h997fb6f_3
     - libglib =2.84.2 =hbc94333_0
-    - libgomp =15.1.0 =h1383e82_2
+    - libgomp =15.1.0 =h1383e82_3
     - libhwloc =2.11.2 =default_ha69328c_1001
     - libiconv =1.18 =h135ad9c_1
     - libintl =0.22.5 =h5728263_3
@@ -196,10 +196,10 @@ requirements:
     - libogg =1.3.5 =h2466b09_1
     - libpng =1.6.49 =h7a4582a_0
     - libsodium =1.0.20 =hc70643c_0
-    - libsqlite =3.50.1 =h053a19d_4
+    - libsqlite =3.50.1 =hf5d6505_6
     - libssh2 =1.11.1 =h9aa295b_0
-    - libstdcxx =15.1.0 =h904f734_2
-    - libstdcxx-devel_win-64 =15.1.0 =hec057c1_102
+    - libstdcxx =15.1.0 =h904f734_3
+    - libstdcxx-devel_win-64 =15.1.0 =hec057c1_103
     - libtiff =4.7.0 =h05922d8_5
     - libuv =1.51.0 =h2466b09_0
     - libvorbis =1.3.7 =h0e60522_0
@@ -418,7 +418,7 @@ requirements:
     - r-scales =1.4.0 =r44hc72bb7e_0
     - r-selectr =0.4_2 =r44hc72bb7e_4
     - r-shape =1.4.6.1 =r44ha770c72_1
-    - r-shiny =1.10.0 =r44h785f33e_0
+    - r-shiny =1.11.0 =r44h785f33e_0
     - r-sourcetools =0.1.7_1 =r44h8ae3a7c_2
     - r-sparsevctrs =0.3.4 =r44h11b023d_0
     - r-spatial =7.3_18 =r44h11b023d_0

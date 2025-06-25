@@ -41,7 +41,7 @@ requirements:
     - seaborn =0.13.2 =hd8ed1ab_3
     - spyder-kernels =3.0.5 =win_pyh7428d3b_0
     - sqlalchemy =2.0.41 =py39ha55e580_0
-    - sqlite =3.50.1 =hfd05255_4
+    - sqlite =3.50.1 =hdb435a2_6
     - statsmodels =0.14.4 =py39h4b0a98a_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
 
@@ -128,7 +128,7 @@ requirements:
     - future =1.0.0 =pyhd8ed1ab_2
     - fuzzytm =2.0.5 =pyhd8ed1ab_0
     - gensim =4.3.3 =py39h0a2e257_0
-    - getopt-win32 =0.1 =h6a83c73_2
+    - getopt-win32 =0.1 =h6a83c73_3
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.44 =pyhff2d567_0
     - glib =2.84.2 =he8f994d_0
@@ -195,10 +195,10 @@ requirements:
     - libffi =3.4.6 =h537db12_1
     - libfreetype =2.13.3 =h57928b3_1
     - libfreetype6 =2.13.3 =h0b5ce68_1
-    - libgcc =15.1.0 =h1383e82_2
+    - libgcc =15.1.0 =h1383e82_3
     - libgd =2.3.3 =h7208af6_11
     - libglib =2.84.2 =hbc94333_0
-    - libgomp =15.1.0 =h1383e82_2
+    - libgomp =15.1.0 =h1383e82_3
     - libgoogle-cloud =2.36.0 =hf249c01_1
     - libgoogle-cloud-storage =2.36.0 =he5eb982_1
     - libgrpc =1.71.0 =h8c3449c_1
@@ -216,7 +216,7 @@ requirements:
     - libprotobuf =5.29.3 =he9d8c4a_1
     - libre2-11 =2024.07.02 =hd248061_3
     - libsodium =1.0.20 =hc70643c_0
-    - libsqlite =3.50.1 =h053a19d_4
+    - libsqlite =3.50.1 =hf5d6505_6
     - libssh2 =1.11.1 =h9aa295b_0
     - libthrift =0.21.0 =hbe90ef8_0
     - libtiff =4.7.0 =h05922d8_5
@@ -248,7 +248,7 @@ requirements:
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - murmurhash =1.0.10 =py39ha51f57c_2
-    - narwhals =1.43.1 =pyhe01879c_0
+    - narwhals =1.44.0 =pyhe01879c_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2.1 =pyhd8ed1ab_0
     - nltk =3.9.1 =pyhd8ed1ab_1
@@ -278,7 +278,7 @@ requirements:
     - prometheus_client =0.22.1 =pyhd8ed1ab_0
     - prometheus_flask_exporter =0.23.2 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.51 =pyha770c72_0
-    - protego =0.4.0 =pyhd8ed1ab_0
+    - protego =0.5.0 =pyhd8ed1ab_0
     - protobuf =5.29.3 =py39ha51f57c_0
     - psutil =7.0.0 =py39ha55e580_0
     - pthread-stubs =0.4 =h0e40799_1002
@@ -324,7 +324,7 @@ requirements:
     - regex =2024.11.6 =py39ha55e580_0
     - requests =2.32.4 =pyhd8ed1ab_0
     - requests-file =2.1.0 =pyhd8ed1ab_1
-    - retrying =1.3.5 =pyhd8ed1ab_0
+    - retrying =1.4.0 =pyhd8ed1ab_0
     - rich =14.0.0 =pyh29332c3_0
     - seaborn-base =0.13.2 =pyhd8ed1ab_3
     - service-identity =24.2.0 =pyha770c72_1
