@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.4.2 =py39h060674a_0
     - cython =3.1.2 =py39h41befb8_2
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.135.15 =pyha770c72_0
+    - hypothesis =6.135.16 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.9.4 =py39ha65689a_0
@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.41 =py39h3e3acee_0
-    - sqlite =3.50.1 =hdc1ea95_6
+    - sqlite =3.50.1 =hdc1ea95_7
     - sympy =1.14.0 =pyh2585a3b_105
     - tqdm =4.67.1 =pyhd8ed1ab_1
     - transitions =0.9.2 =pyhd8ed1ab_1
@@ -236,12 +236,12 @@ requirements:
     - libsanitizer =15.1.0 =hfec4e15_3
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.20 =h68df207_0
-    - libsqlite =3.50.1 =h4970e9a_6
+    - libsqlite =3.50.1 =h4970e9a_7
     - libssh2 =1.11.1 =h18c354c_0
     - libstdcxx =15.1.0 =h3f4de04_3
     - libstdcxx-devel_linux-aarch64 =15.1.0 =hd0aa34e_103
     - libstdcxx-ng =15.1.0 =hf1166c9_3
-    - libsystemd0 =257.6 =h2bb824b_0
+    - libsystemd0 =257.7 =h2bb824b_0
     - libtiff =4.7.0 =h7c15681_5
     - libuuid =2.38.1 =hb4cce97_0
     - libuv =1.51.0 =h86ecc28_0
@@ -321,7 +321,7 @@ requirements:
     - pyzmq =27.0.0 =py39he601760_0
     - qhull =2020.2 =h70be974_5
     - qt-main =5.15.15 =hf34aa0b_4
-    - qt6-main =6.9.1 =h13135bf_0
+    - qt6-main =6.9.1 =h13135bf_1
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r44hdd76399_0
     - r-assertthat =0.2.1 =r44hc72bb7e_5
