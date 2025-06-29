@@ -42,7 +42,7 @@ requirements:
     - seaborn =0.13.2 =hd8ed1ab_3
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.41 =py39h80efdc8_0
-    - sqlite =3.50.1 =h72acdea_7
+    - sqlite =3.50.2 =h22fafd5_0
     - statsmodels =0.14.4 =py39hff9a475_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
 
@@ -65,11 +65,11 @@ requirements:
     - aws-c-http =0.10.2 =ha1444c5_2
     - aws-c-io =0.20.1 =h550966a_0
     - aws-c-mqtt =0.13.1 =h90c2deb_3
-    - aws-c-s3 =0.8.1 =hb3f0f26_3
+    - aws-c-s3 =0.8.3 =hb3f0f26_0
     - aws-c-sdkutils =0.2.4 =hdea44ad_0
     - aws-checksums =0.2.7 =hdea44ad_1
-    - aws-crt-cpp =0.32.8 =h47a58cb_6
-    - aws-sdk-cpp =1.11.510 =h894e209_10
+    - aws-crt-cpp =0.32.10 =h1b1c4c6_1
+    - aws-sdk-cpp =1.11.510 =hf939bc4_12
     - azure-core-cpp =1.14.0 =h9a36307_0
     - azure-identity-cpp =1.10.0 =ha4e2ba9_0
     - azure-storage-blobs-cpp =12.13.0 =h3d2f5f1_1
@@ -192,10 +192,10 @@ requirements:
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
     - libabseil =20250127.1 =cxx17_h0e468a2_0
-    - libarrow =20.0.0 =hd0d6b81_7_cpu
-    - libarrow-acero =20.0.0 =hdc53af8_7_cpu
-    - libarrow-dataset =20.0.0 =hdc53af8_7_cpu
-    - libarrow-substrait =20.0.0 =ha37b807_7_cpu
+    - libarrow =20.0.0 =h7601d43_8_cpu
+    - libarrow-acero =20.0.0 =hdc53af8_8_cpu
+    - libarrow-dataset =20.0.0 =hdc53af8_8_cpu
+    - libarrow-substrait =20.0.0 =ha37b807_8_cpu
     - libblas =3.9.0 =20_osx64_mkl
     - libboost =1.86.0 =hf0da243_3
     - libbrotlicommon =1.1.0 =h6e16a3a_3
@@ -239,14 +239,14 @@ requirements:
     - libopentelemetry-cpp =1.21.0 =h30c661f_0
     - libopentelemetry-cpp-headers =1.21.0 =h694c41f_0
     - libopus =1.5.2 =he3325bb_0
-    - libparquet =20.0.0 =h283e888_7_cpu
+    - libparquet =20.0.0 =h283e888_8_cpu
     - libpng =1.6.49 =h3c4a55f_0
     - libpq =17.5 =h9c5cfc2_0
     - libprotobuf =5.29.3 =h1c7185b_1
     - libre2-11 =2025.06.26 =hfc00f1c_0
     - librsvg =2.58.4 =h21a6cfa_3
     - libsodium =1.0.20 =hfdf4475_0
-    - libsqlite =3.50.1 =h7cec44d_7
+    - libsqlite =3.50.2 =he7d56d0_0
     - libssh2 =1.11.1 =hed3591d_0
     - libthrift =0.21.0 =h75589b3_0
     - libtiff =4.7.0 =h1167cee_5
@@ -350,7 +350,7 @@ requirements:
     - pyqt5-sip =12.17.0 =py39hbe19bdc_1
     - pysocks =1.7.1 =pyha55dd90_7
     - python-cufflinks =0.17.3 =pyhd8ed1ab_1
-    - python-dateutil =2.9.0.post0 =pyhff2d567_1
+    - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-graphviz =0.21 =pyhbacfb6d_0
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python_abi =3.9 =7_cp39
