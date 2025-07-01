@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.4.2 =py311h4d7f069_0
     - cython =3.1.2 =py311h3c013cf_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.135.16 =pyha770c72_0
+    - hypothesis =6.135.20 =pyha770c72_0
     - ipython =9.3.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.3 =py311h6eed73b_0
@@ -239,14 +239,14 @@ requirements:
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
     - mpmath =1.3.0 =pyhd8ed1ab_1
-    - multidict =6.6.0 =py311h1cc1194_0
+    - multidict =6.6.3 =py311h1cc1194_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.10.2 =pyhd8ed1ab_0
     - nbconvert-core =7.16.6 =pyh29332c3_0
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - notebook =7.4.3 =pyhd8ed1ab_0
+    - notebook =7.4.4 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.36 =h97d8b74_0
     - nss =3.113 =h32a8879_0
@@ -257,7 +257,7 @@ requirements:
     - packaging =25.0 =pyh29332c3_1
     - pandoc =3.7.0.2 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.56.3 =hae8941d_1
+    - pango =1.56.4 =h6ef8af8_0
     - parso =0.8.4 =pyhd8ed1ab_1
     - pcre2 =10.45 =hf733adb_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
