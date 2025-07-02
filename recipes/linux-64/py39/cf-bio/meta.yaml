@@ -32,7 +32,7 @@ requirements:
     - pandas =2.3.0 =py39h3b40f6f_0
     - pymol-open-source =3.1.0 =py39h7de68ce_0
     - pyqt =5.15.11 =py39h08c78a2_1
-    - rdkit =2025.03.3 =py39h2709aa1_0
+    - rdkit =2025.03.4 =py39h1cb62a3_0
     - scipy =1.13.1 =py39haf93ffa_0
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
 
@@ -167,7 +167,7 @@ requirements:
     - libpciaccess =0.18 =hb9d3cd8_0
     - libpng =1.6.49 =h943b412_0
     - libpq =17.5 =h27ae623_0
-    - librdkit =2025.03.3 =h84b0b3c_0
+    - librdkit =2025.03.4 =h84b0b3c_0
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.20 =h4ab18f5_0
     - libsqlite =3.50.2 =h6cd9bfd_0
@@ -203,7 +203,7 @@ requirements:
     - nss =3.113 =h159eef7_0
     - openjpeg =2.5.3 =h5fbd93e_0
     - openldap =2.6.10 =he970967_0
-    - openssl =3.5.0 =h7b32b05_1
+    - openssl =3.5.1 =h7b32b05_0
     - packaging =25.0 =pyh29332c3_1
     - parso =0.8.4 =pyhd8ed1ab_1
     - patsy =1.0.1 =pyhd8ed1ab_1
@@ -250,7 +250,7 @@ requirements:
     - snappy =1.2.1 =h8bd8927_1
     - sqlalchemy =2.0.41 =py39h8cd3c5a_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
-    - statsmodels =0.14.4 =py39h7c0b2d6_1
+    - statsmodels =0.14.4 =py39h7c0b2d6_2
     - threadpoolctl =3.6.0 =pyhecae5ae_0
     - tidynamics =1.1.2 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_hd72426e_102

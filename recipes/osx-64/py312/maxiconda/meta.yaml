@@ -131,8 +131,8 @@ requirements:
     - freetype =2.13.3 =h694c41f_1
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.5.0 =py312h3520af0_1
-    - gfortran_impl_osx-64 =13.4.0 =h8d0df8b_0
-    - gfortran_osx-64 =13.4.0 =h3223c34_0
+    - gfortran_impl_osx-64 =13.3.0 =hbf5bf67_105
+    - gfortran_osx-64 =13.3.0 =h3223c34_1
     - glib =2.84.2 =h489497d_0
     - glib-tools =2.84.2 =hf8faeaf_0
     - gmp =6.3.0 =hf036a51_2
@@ -199,7 +199,7 @@ requirements:
     - libfreetype6 =2.13.3 =h40dfd5c_1
     - libgettextpo =0.24.1 =h27064b9_0
     - libgfortran =5.0.0 =14_2_0_h51e75f0_103
-    - libgfortran-devel_osx-64 =13.4.0 =hbfa0f67_0
+    - libgfortran-devel_osx-64 =13.3.0 =h297be85_105
     - libgfortran5 =14.2.0 =h51e75f0_103
     - libglib =2.84.2 =h3139dbc_0
     - libiconv =1.18 =h4b5e92a_1
@@ -252,7 +252,7 @@ requirements:
     - nss =3.113 =h32a8879_0
     - openjpeg =2.5.3 =h7fd6d84_0
     - openldap =2.6.10 =hd8a590d_0
-    - openssl =3.5.0 =hc426f3f_1
+    - openssl =3.5.1 =hc426f3f_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =25.0 =pyh29332c3_1
     - pandoc =3.7.0.2 =h694c41f_0

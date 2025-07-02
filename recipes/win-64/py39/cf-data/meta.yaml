@@ -42,7 +42,7 @@ requirements:
     - spyder-kernels =3.0.5 =win_pyh7428d3b_0
     - sqlalchemy =2.0.41 =py39ha55e580_0
     - sqlite =3.50.2 =hdb435a2_0
-    - statsmodels =0.14.4 =py39h9e4d2f2_1
+    - statsmodels =0.14.4 =py39h9e4d2f2_2
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
 
     # 360 secondary packages :
@@ -134,7 +134,7 @@ requirements:
     - glib =2.84.2 =he8f994d_0
     - glib-tools =2.84.2 =h4394cf3_0
     - graphite2 =1.3.14 =he0c23c2_0
-    - graphviz =13.0.1 =ha5e8f4b_0
+    - graphviz =13.1.0 =ha5e8f4b_0
     - greenlet =3.2.3 =py39ha51f57c_0
     - gst-plugins-base =1.24.11 =h3fe0a9e_0
     - gstreamer =1.24.11 =h233a61a_0
@@ -248,7 +248,7 @@ requirements:
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - murmurhash =1.0.10 =py39ha51f57c_2
-    - narwhals =1.44.0 =pyhe01879c_0
+    - narwhals =1.45.0 =pyhe01879c_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2.1 =pyhd8ed1ab_0
     - nltk =3.9.1 =pyhd8ed1ab_1
@@ -257,7 +257,7 @@ requirements:
     - oauthlib =3.3.1 =pyhd8ed1ab_0
     - opencl-headers =2025.06.13 =he0c23c2_0
     - openjpeg =2.5.3 =h4d64b90_0
-    - openssl =3.5.0 =ha4e3fda_1
+    - openssl =3.5.1 =h725018a_0
     - orc =2.1.2 =h35764e3_0
     - packaging =25.0 =pyh29332c3_1
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
