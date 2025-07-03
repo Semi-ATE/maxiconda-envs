@@ -75,7 +75,7 @@ requirements:
     - contourpy =1.3.0 =py39h0d3c867_2
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
     - cpython =3.9.23 =py39hd8ed1ab_0
-    - cryptography =45.0.4 =py39hce2744d_0
+    - cryptography =45.0.5 =py39hce2744d_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =h610c526_0
     - debugpy =1.8.14 =py39hdf37715_0
@@ -148,8 +148,8 @@ requirements:
     - libgfortran5 =14.2.0 =h51e75f0_103
     - libglib =2.84.2 =h3139dbc_0
     - libiconv =1.18 =h4b5e92a_1
-    - libintl =0.24.1 =h27064b9_0
-    - libintl-devel =0.24.1 =h27064b9_0
+    - libintl =0.24.2 =h27064b9_0
+    - libintl-devel =0.24.2 =h27064b9_0
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
     - liblapack =3.9.0 =32_h236ab99_openblas
     - libllvm17 =17.0.6 =hbedff68_1
@@ -207,7 +207,7 @@ requirements:
     - pcre2 =10.45 =hf733adb_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.2.1 =py39h1fda9f2_0
+    - pillow =11.3.0 =py39h1fda9f2_0
     - pip =25.1.1 =pyh8b19718_0
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_2
     - platformdirs =4.3.8 =pyhe01879c_0
@@ -270,7 +270,7 @@ requirements:
     - requests =2.32.4 =pyhd8ed1ab_0
     - rich =14.0.0 =pyh29332c3_0
     - rope =1.13.0 =pyhd8ed1ab_1
-    - rpds-py =0.25.1 =py39hce6d397_0
+    - rpds-py =0.26.0 =py39hce6d397_0
     - rtree =1.4.0 =pyh11ca60a_1
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.10.0 =py39hdf37715_0

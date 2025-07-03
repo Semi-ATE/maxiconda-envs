@@ -31,8 +31,8 @@ requirements:
     - bitarray =3.4.2 =py311h9ecbd09_0
     - cython =3.1.2 =py311ha3e34f5_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.135.20 =pyha770c72_0
-    - ipython =9.3.0 =pyhfa0c392_0
+    - hypothesis =6.135.22 =pyha770c72_0
+    - ipython =9.4.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.3 =py311h38be061_0
     - numba =0.61.2 =py311h9806782_1
@@ -60,7 +60,7 @@ requirements:
     - sqlite =3.50.2 =hb7a22d2_0
     - sympy =1.14.0 =pyh2585a3b_105
     - tqdm =4.67.1 =pyhd8ed1ab_1
-    - transitions =0.9.2 =pyhd8ed1ab_1
+    - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
@@ -173,7 +173,7 @@ requirements:
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_1
     - kernel-headers_linux-64 =3.10.0 =he073ed8_18
     - keyutils =1.6.1 =h166bdaf_0
-    - kiwisolver =1.4.7 =py311hd18a35c_0
+    - kiwisolver =1.4.8 =py311hd18a35c_1
     - krb5 =1.21.3 =h659f571_0
     - lame =3.100 =h166bdaf_1003
     - lcms2 =2.17 =h717163a_0
@@ -286,7 +286,7 @@ requirements:
     - pcre2 =10.45 =hc749103_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.2.1 =py311h1322bbf_0
+    - pillow =11.3.0 =py311h1322bbf_0
     - pip =25.1.1 =pyh8b19718_0
     - pixman =0.46.2 =h29eaf8c_0
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
@@ -505,7 +505,7 @@ requirements:
     - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
-    - rpds-py =0.25.1 =py311hdae7d1d_0
+    - rpds-py =0.26.0 =py311hdae7d1d_0
     - ruamel.yaml =0.18.14 =py311h9ecbd09_0
     - ruamel.yaml.clib =0.2.8 =py311h9ecbd09_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1

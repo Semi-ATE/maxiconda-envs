@@ -121,8 +121,8 @@ requirements:
     - libgfortran5 =14.2.0 =h6c33f7e_103
     - libglib =2.84.2 =hbec27ea_0
     - libiconv =1.18 =hfe07756_1
-    - libintl =0.24.1 =h493aca8_0
-    - libintl-devel =0.24.1 =h493aca8_0
+    - libintl =0.24.2 =h493aca8_0
+    - libintl-devel =0.24.2 =h493aca8_0
     - libjpeg-turbo =3.1.0 =h5505292_0
     - liblapack =3.9.0 =32_hc9a63f6_openblas
     - libllvm17 =17.0.6 =hc4b4ae8_3
@@ -171,7 +171,7 @@ requirements:
     - pcre2 =10.45 =ha881caa_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.2.1 =py39hfea3036_0
+    - pillow =11.3.0 =py39hfea3036_0
     - pip =25.1.1 =pyh8b19718_0
     - pixman =0.46.2 =h2f9eb0b_0
     - platformdirs =4.3.8 =pyhe01879c_0
