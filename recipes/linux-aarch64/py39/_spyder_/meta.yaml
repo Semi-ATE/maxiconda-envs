@@ -100,12 +100,12 @@ requirements:
     - fontconfig =2.15.0 =h8dda3cd_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.58.4 =py39hbebea31_0
+    - fonttools =4.58.5 =py39hbebea31_0
     - freetype =2.13.3 =h8af1aa0_1
     - frozenlist =1.6.0 =py39h2b08ca1_0
     - fzf =0.63.0 =h56f8b8a_0
-    - gettext =0.24.1 =h5ad3122_0
-    - gettext-tools =0.24.1 =h5ad3122_0
+    - gettext =0.25.1 =h5ad3122_0
+    - gettext-tools =0.25.1 =h5ad3122_0
     - giflib =5.2.2 =h31becfc_0
     - glib =2.84.2 =h5702d23_0
     - glib-tools =2.84.2 =h78ca943_0
@@ -149,8 +149,8 @@ requirements:
     - lcms2 =2.17 =hc88f144_0
     - ld_impl_linux-aarch64 =2.43 =h5e2c951_5
     - lerc =4.0.0 =hfdc4d58_1
-    - libasprintf =0.24.1 =h5e0f5ae_0
-    - libasprintf-devel =0.24.1 =h5e0f5ae_0
+    - libasprintf =0.25.1 =h5e0f5ae_0
+    - libasprintf-devel =0.25.1 =h5e0f5ae_0
     - libblas =3.9.0 =32_h1a9f1db_openblas
     - libbrotlicommon =1.1.0 =h86ecc28_3
     - libbrotlidec =1.1.0 =h86ecc28_3
@@ -173,8 +173,8 @@ requirements:
     - libgcc =15.1.0 =he277a41_3
     - libgcc-ng =15.1.0 =he9431aa_3
     - libgcrypt-lib =1.11.1 =h86ecc28_0
-    - libgettextpo =0.24.1 =h5ad3122_0
-    - libgettextpo-devel =0.24.1 =h5ad3122_0
+    - libgettextpo =0.25.1 =h5ad3122_0
+    - libgettextpo-devel =0.25.1 =h5ad3122_0
     - libgfortran =15.1.0 =he9431aa_3
     - libgfortran-ng =15.1.0 =he9431aa_3
     - libgfortran5 =15.1.0 =hbc25352_3
@@ -196,7 +196,7 @@ requirements:
     - libopengl =1.7.0 =hd24410f_2
     - libopus =1.5.2 =h86ecc28_0
     - libpciaccess =0.18 =h86ecc28_0
-    - libpng =1.6.49 =hec79eb8_0
+    - libpng =1.6.50 =hec79eb8_0
     - libpq =17.5 =hf590da8_0
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.20 =h68df207_0

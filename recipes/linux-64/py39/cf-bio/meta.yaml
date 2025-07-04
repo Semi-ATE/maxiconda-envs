@@ -74,11 +74,11 @@ requirements:
     - fontconfig =2.15.0 =h7e30c49_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.58.4 =py39h9399b63_0
+    - fonttools =4.58.5 =py39h9399b63_0
     - freetype =2.13.3 =ha770c72_1
     - freetype-py =2.3.0 =pyhd8ed1ab_0
-    - gettext =0.24.1 =h5888daf_0
-    - gettext-tools =0.24.1 =h5888daf_0
+    - gettext =0.25.1 =h5888daf_0
+    - gettext-tools =0.25.1 =h5888daf_0
     - glew =2.1.0 =h9c3ff4c_2
     - glib =2.84.2 =h6287aef_0
     - glib-tools =2.84.2 =h4833e2c_0
@@ -111,8 +111,8 @@ requirements:
     - ld_impl_linux-64 =2.43 =h1423503_5
     - lerc =4.0.0 =h0aef613_1
     - libaec =1.1.4 =h3f801dc_0
-    - libasprintf =0.24.1 =h8e693c7_0
-    - libasprintf-devel =0.24.1 =h8e693c7_0
+    - libasprintf =0.25.1 =h8e693c7_0
+    - libasprintf-devel =0.25.1 =h8e693c7_0
     - libblas =3.9.0 =32_h59b9bed_openblas
     - libboost =1.86.0 =h6c02f8c_3
     - libboost-python =1.86.0 =py39hf59e57a_3
@@ -139,8 +139,8 @@ requirements:
     - libgcc =15.1.0 =h767d61c_3
     - libgcc-ng =15.1.0 =h69a702a_3
     - libgcrypt-lib =1.11.1 =hb9d3cd8_0
-    - libgettextpo =0.24.1 =h5888daf_0
-    - libgettextpo-devel =0.24.1 =h5888daf_0
+    - libgettextpo =0.25.1 =h5888daf_0
+    - libgettextpo-devel =0.25.1 =h5888daf_0
     - libgfortran =15.1.0 =h69a702a_3
     - libgfortran-ng =15.1.0 =h69a702a_3
     - libgfortran5 =15.1.0 =hcea5267_3
@@ -165,7 +165,7 @@ requirements:
     - libopengl =1.7.0 =ha4b6fd6_2
     - libopus =1.5.2 =hd0c01bc_0
     - libpciaccess =0.18 =hb9d3cd8_0
-    - libpng =1.6.49 =h943b412_0
+    - libpng =1.6.50 =h943b412_0
     - libpq =17.5 =h27ae623_0
     - librdkit =2025.03.4 =h84b0b3c_0
     - libsndfile =1.2.2 =hc60ed4a_1

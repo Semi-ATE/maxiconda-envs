@@ -131,8 +131,8 @@ requirements:
     - fribidi =1.0.10 =h36c2ea0_0
     - frozenlist =1.4.1 =py38h01eb140_0
     - gcc_impl_linux-64 =15.1.0 =h4393ad2_3
-    - gettext =0.24.1 =h5888daf_0
-    - gettext-tools =0.24.1 =h5888daf_0
+    - gettext =0.25.1 =h5888daf_0
+    - gettext-tools =0.25.1 =h5888daf_0
     - gfortran_impl_linux-64 =15.1.0 =h3b9cdf2_3
     - glib =2.84.2 =h6287aef_0
     - glib-tools =2.84.2 =h4833e2c_0
@@ -183,8 +183,8 @@ requirements:
     - lcms2 =2.17 =h717163a_0
     - ld_impl_linux-64 =2.43 =h712a8e2_5
     - lerc =4.0.0 =h0aef613_1
-    - libasprintf =0.24.1 =h8e693c7_0
-    - libasprintf-devel =0.24.1 =h8e693c7_0
+    - libasprintf =0.25.1 =h8e693c7_0
+    - libasprintf-devel =0.25.1 =h8e693c7_0
     - libblas =3.9.0 =20_linux64_openblas
     - libbrotlicommon =1.1.0 =hb9d3cd8_3
     - libbrotlidec =1.1.0 =hb9d3cd8_3
@@ -210,8 +210,8 @@ requirements:
     - libgcc-devel_linux-64 =15.1.0 =h4c094af_103
     - libgcc-ng =15.1.0 =h69a702a_3
     - libgcrypt-lib =1.11.1 =hb9d3cd8_0
-    - libgettextpo =0.24.1 =h5888daf_0
-    - libgettextpo-devel =0.24.1 =h5888daf_0
+    - libgettextpo =0.25.1 =h5888daf_0
+    - libgettextpo-devel =0.25.1 =h5888daf_0
     - libgfortran =15.1.0 =h69a702a_3
     - libgfortran-ng =15.1.0 =h69a702a_3
     - libgfortran5 =15.1.0 =hcea5267_3
@@ -235,7 +235,7 @@ requirements:
     - libopenblas =0.3.25 =pthreads_h413a1c8_0
     - libopus =1.5.2 =hd0c01bc_0
     - libpciaccess =0.18 =hb9d3cd8_0
-    - libpng =1.6.49 =h943b412_0
+    - libpng =1.6.50 =h943b412_0
     - libpq =17.5 =h27ae623_0
     - libsanitizer =15.1.0 =h97b714f_3
     - libsndfile =1.2.2 =hc60ed4a_1
@@ -449,7 +449,7 @@ requirements:
     - r-rappdirs =0.3.3 =r44hb1dbf0f_3
     - r-rbokeh =0.5.2 =r44hc72bb7e_4
     - r-rcolorbrewer =1.1_3 =r44h785f33e_3
-    - r-rcpp =1.0.14 =r44h93ab643_0
+    - r-rcpp =1.1.0 =r44h93ab643_0
     - r-rcppeigen =0.3.4.0.2 =r44hb79369c_0
     - r-readr =2.1.5 =r44h0d4f4ea_1
     - r-readxl =1.4.5 =r44h328fee5_0
@@ -469,7 +469,7 @@ requirements:
     - r-scales =1.4.0 =r44hc72bb7e_0
     - r-selectr =0.4_2 =r44hc72bb7e_4
     - r-shape =1.4.6.1 =r44ha770c72_1
-    - r-shiny =1.11.0 =r44h785f33e_0
+    - r-shiny =1.11.1 =r44h785f33e_0
     - r-sourcetools =0.1.7_1 =r44ha18555a_2
     - r-sparsevctrs =0.3.4 =r44h2b5f3a1_0
     - r-spatial =7.3_18 =r44h2b5f3a1_0
