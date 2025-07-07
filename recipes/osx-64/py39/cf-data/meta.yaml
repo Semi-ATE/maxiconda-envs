@@ -109,7 +109,7 @@ requirements:
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cymem =2.0.11 =py39hdf37715_0
     - cyrus-sasl =2.1.28 =h610c526_0
-    - cython-blis =1.0.1 =py39hf92a157_0
+    - cython-blis =1.3.0 =py39h86e9f7f_0
     - databricks-cli =0.17.7 =pyhd8ed1ab_0
     - datefinder =0.7.3 =pyhd8ed1ab_1
     - debugpy =1.8.14 =py39hdf37715_0
@@ -388,7 +388,7 @@ requirements:
     - smmap =5.0.2 =pyhd8ed1ab_0
     - snappy =1.2.1 =haf3c120_1
     - soupsieve =2.7 =pyhd8ed1ab_0
-    - spacy =3.8.6 =py39h5c7665c_0
+    - spacy =3.8.7 =py39h68bc16f_0
     - spacy-legacy =3.0.12 =pyhd8ed1ab_0
     - spacy-loggers =1.0.5 =pyhd8ed1ab_0
     - sqlparse =0.5.3 =pyhd8ed1ab_0
@@ -399,7 +399,7 @@ requirements:
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_1
     - tbb =2021.13.0 =hb890de9_1
     - textblob =0.15.3 =py_0
-    - thinc =8.3.2 =py39h5c7665c_1
+    - thinc =8.3.6 =py39h68bc16f_0
     - threadpoolctl =3.6.0 =pyhecae5ae_0
     - tk =8.6.13 =hf689a15_2
     - tldextract =5.3.0 =pyhd8ed1ab_0
