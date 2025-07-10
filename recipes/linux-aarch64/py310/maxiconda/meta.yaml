@@ -39,7 +39,7 @@ requirements:
     - numpy =2.2.6 =py310h6e5608f_0
     - openpyxl =3.1.5 =py310hbb13f8e_1
     - paho-mqtt =2.1.0 =pyhd8ed1ab_0
-    - pandas =2.3.0 =py310hce852f7_0
+    - pandas =2.3.1 =py310hc97b22d_0
     - psutil =7.0.0 =py310ha766c32_0
     - pydantic =2.11.7 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py310h27ebcef_1
@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.41 =py310h78583b1_0
-    - sqlite =3.50.2 =h1b15455_0
+    - sqlite =3.50.2 =hc2e562b_2
     - sympy =1.14.0 =pyh2585a3b_105
     - tqdm =4.67.1 =pyhd8ed1ab_1
     - transitions =0.9.3 =pyhe01879c_0
@@ -81,7 +81,7 @@ requirements:
     - attr =2.5.1 =h4e544f5_1
     - attrs =25.3.0 =pyh71513ae_0
     - babel =2.17.0 =pyhd8ed1ab_0
-    - binutils_impl_linux-aarch64 =2.44 =h4c662bb_0
+    - binutils_impl_linux-aarch64 =2.44 =h4c662bb_1
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
     - brotli =1.1.0 =h86ecc28_3
@@ -90,7 +90,7 @@ requirements:
     - bwidget =1.10.1 =h8af1aa0_1
     - bzip2 =1.0.8 =h68df207_7
     - c-ares =1.34.5 =h86ecc28_0
-    - ca-certificates =2025.6.15 =hbd8a1cb_0
+    - ca-certificates =2025.7.9 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h83712da_0
@@ -176,7 +176,7 @@ requirements:
     - krb5 =1.21.3 =h50a48e9_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.17 =hc88f144_0
-    - ld_impl_linux-aarch64 =2.44 =h5e2c951_0
+    - ld_impl_linux-aarch64 =2.44 =h5e2c951_1
     - lerc =4.0.0 =hfdc4d58_1
     - libasprintf =0.25.1 =h5e0f5ae_0
     - libasprintf-devel =0.25.1 =h5e0f5ae_0
@@ -234,7 +234,7 @@ requirements:
     - libsanitizer =15.1.0 =hfec4e15_3
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.20 =h68df207_0
-    - libsqlite =3.50.2 =he2a92bd_0
+    - libsqlite =3.50.2 =hdbb6186_2
     - libssh2 =1.11.1 =h18c354c_0
     - libstdcxx =15.1.0 =h3f4de04_3
     - libstdcxx-devel_linux-aarch64 =15.1.0 =hd0aa34e_103
