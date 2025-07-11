@@ -37,7 +37,7 @@ requirements:
 
     # 285 secondary packages :
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
-    - aiohttp =3.12.13 =py310h8e2f543_0
+    - aiohttp =3.12.14 =py310h929a2ac_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - applaunchservices =0.3.0 =pyh534df25_4
@@ -64,7 +64,7 @@ requirements:
     - brotli-python =1.1.0 =py310h6954a95_3
     - bzip2 =1.0.8 =hfdf4475_7
     - ca-certificates =2025.7.9 =hbd8a1cb_0
-    - certifi =2025.6.15 =pyhd8ed1ab_0
+    - certifi =2025.7.9 =pyhd8ed1ab_0
     - cffi =1.17.1 =py310hfce808e_0
     - chardet =5.2.0 =pyhd8ed1ab_3
     - charset-normalizer =3.4.2 =pyhd8ed1ab_0
@@ -91,7 +91,7 @@ requirements:
     - flake8 =7.1.2 =pyhd8ed1ab_0
     - fonttools =4.58.5 =py310h8e2f543_0
     - freetype =2.13.3 =h694c41f_1
-    - frozenlist =1.6.0 =py310hb8884e8_0
+    - frozenlist =1.7.0 =py310hd4b8e4a_0
     - fzf =0.64.0 =h880ea11_0
     - giflib =5.2.2 =h10d778d_0
     - glib =2.84.2 =h489497d_0
@@ -152,7 +152,7 @@ requirements:
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
     - liblapack =3.9.0 =32_h236ab99_openblas
     - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm20 =20.1.7 =h29c3a6c_0
+    - libllvm20 =20.1.8 =h9b4ebcc_0
     - liblzma =5.8.1 =hd471939_2
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =he3325bb_1
@@ -165,8 +165,8 @@ requirements:
     - libsqlite =3.50.2 =h39a8b3b_2
     - libtiff =4.7.0 =h1167cee_5
     - libvorbis =1.3.7 =h046ec9c_0
-    - libwebp =1.5.0 =h2bf92d2_0
-    - libwebp-base =1.5.0 =h6cf52b4_0
+    - libwebp =1.6.0 =h5442d53_0
+    - libwebp-base =1.6.0 =hb807250_0
     - libxcb =1.17.0 =hf1f96e2_0
     - libxml2 =2.13.8 =h93c44a6_0
     - libzlib =1.3.1 =hd23fc13_2

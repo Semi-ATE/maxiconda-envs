@@ -39,7 +39,7 @@ requirements:
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
-    - aiohttp =3.12.13 =py310h89163eb_0
+    - aiohttp =3.12.14 =py310h3406613_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - alsa-lib =1.2.14 =hb9d3cd8_0
@@ -67,7 +67,7 @@ requirements:
     - bzip2 =1.0.8 =h4bc722e_7
     - ca-certificates =2025.7.9 =hbd8a1cb_0
     - cairo =1.18.4 =h3394656_0
-    - certifi =2025.6.15 =pyhd8ed1ab_0
+    - certifi =2025.7.9 =pyhd8ed1ab_0
     - cffi =1.17.1 =py310h8deb56e_0
     - chardet =5.2.0 =pyhd8ed1ab_3
     - charset-normalizer =3.4.2 =pyhd8ed1ab_0
@@ -103,7 +103,7 @@ requirements:
     - fonts-conda-forge =1 =0
     - fonttools =4.58.5 =py310h89163eb_0
     - freetype =2.13.3 =ha770c72_1
-    - frozenlist =1.6.0 =py310h0a1d07c_0
+    - frozenlist =1.7.0 =py310h9548a50_0
     - fzf =0.64.0 =hf1419bc_0
     - gettext =0.25.1 =h5888daf_0
     - gettext-tools =0.25.1 =h5888daf_0
@@ -186,7 +186,7 @@ requirements:
     - libiconv =1.18 =h4ce23a2_1
     - libjpeg-turbo =3.1.0 =hb9d3cd8_0
     - liblapack =3.9.0 =32_h7ac8fdf_openblas
-    - libllvm20 =20.1.7 =he9d0ab4_0
+    - libllvm20 =20.1.8 =hecd9e04_0
     - liblzma =5.8.1 =hb9d3cd8_2
     - libnsl =2.0.1 =hb9d3cd8_1
     - libntlm =1.8 =hb9d3cd8_0
@@ -207,8 +207,8 @@ requirements:
     - libtiff =4.7.0 =hf01ce69_5
     - libuuid =2.38.1 =h0b41bf4_0
     - libvorbis =1.3.7 =h9c3ff4c_0
-    - libwebp =1.5.0 =hae8dbeb_0
-    - libwebp-base =1.5.0 =h851e524_0
+    - libwebp =1.6.0 =h9635ea4_0
+    - libwebp-base =1.6.0 =hd42ef1d_0
     - libxcb =1.17.0 =h8a09558_0
     - libxcrypt =4.4.36 =hd590300_1
     - libxkbcommon =1.10.0 =h65c71a3_0

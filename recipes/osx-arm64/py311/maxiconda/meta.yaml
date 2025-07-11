@@ -25,7 +25,7 @@ requirements:
     - python =3.11.13 =hc22306f_0_cpython
 
     # 37 primary packages :
-    - aiohttp =3.12.13 =py311h4921393_0
+    - aiohttp =3.12.14 =py311h2fe624c_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.13.4 =pyha770c72_0
     - cython =3.1.2 =py311h71112e5_2
@@ -90,7 +90,7 @@ requirements:
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h6a3b0d2_0
     - cctools_osx-arm64 =1010.6 =h729f01a_6
-    - certifi =2025.6.15 =pyhd8ed1ab_0
+    - certifi =2025.7.9 =pyhd8ed1ab_0
     - cffi =1.17.1 =py311h3a79f62_0
     - charset-normalizer =3.4.2 =pyhd8ed1ab_0
     - clang =20.1.7 =default_hcdeef69_0
@@ -129,7 +129,7 @@ requirements:
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.13.3 =hce30654_1
     - fribidi =1.0.10 =h27ca646_0
-    - frozenlist =1.6.0 =py311h87ddb2a_0
+    - frozenlist =1.7.0 =py311h8740443_0
     - gfortran_impl_osx-arm64 =13.4.0 =h64b5c3f_0
     - gfortran_osx-arm64 =13.4.0 =h3c33bd0_0
     - glib =2.84.2 =h85e5b2e_0
@@ -222,7 +222,7 @@ requirements:
     - libtiff =4.7.0 =h2f21f7c_5
     - libuv =1.51.0 =h5505292_0
     - libvorbis =1.3.7 =h9f76cd9_0
-    - libwebp-base =1.5.0 =h2471fea_0
+    - libwebp-base =1.6.0 =h07db88b_0
     - libxcb =1.17.0 =hdb1d25a_0
     - libxml2 =2.13.8 =h52572c6_0
     - libzlib =1.3.1 =h8359307_2
