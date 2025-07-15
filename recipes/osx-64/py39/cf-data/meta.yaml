@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =4.0.1 =py39h6e9494a_0
     - pyqt =5.15.11 =py39h39ab9d1_1
-    - pytorch =2.7.1 =cpu_mkl_py39_h95ab171_102
+    - pytorch =2.7.1 =cpu_mkl_py39_h4a3e2fc_103
     - scikit-learn =1.6.1 =py39he8fe7b2_0
     - scipy =1.13.1 =py39h038d4f4_0
     - scrapy =2.13.3 =pyhd8ed1ab_0
@@ -68,13 +68,13 @@ requirements:
     - aws-c-s3 =0.8.3 =hee7c3f6_1
     - aws-c-sdkutils =0.2.4 =h7a4e982_1
     - aws-checksums =0.2.7 =h7a4e982_2
-    - aws-crt-cpp =0.32.10 =hdb1ac85_3
-    - aws-sdk-cpp =1.11.510 =h406418f_14
-    - azure-core-cpp =1.14.0 =h9a36307_0
-    - azure-identity-cpp =1.10.0 =ha4e2ba9_0
-    - azure-storage-blobs-cpp =12.13.0 =h3d2f5f1_1
-    - azure-storage-common-cpp =12.8.0 =h1ccc5ac_1
-    - azure-storage-files-datalake-cpp =12.12.0 =h86941f0_1
+    - aws-crt-cpp =0.33.0 =hdb1ac85_0
+    - aws-sdk-cpp =1.11.510 =h371caed_15
+    - azure-core-cpp =1.15.0 =hd2c3db3_0
+    - azure-identity-cpp =1.11.0 =h2e8ae71_1
+    - azure-storage-blobs-cpp =12.13.0 =h055081b_2
+    - azure-storage-common-cpp =12.10.0 =h8e5512c_1
+    - azure-storage-files-datalake-cpp =12.12.0 =h7cf7dec_2
     - bcrypt =4.3.0 =py39hce6d397_1
     - blinker =1.9.0 =pyhff2d567_0
     - bottleneck =1.5.0 =py39h86e9f7f_0
@@ -83,11 +83,11 @@ requirements:
     - brotli-python =1.1.0 =py39hdf37715_3
     - bzip2 =1.0.8 =hfdf4475_7
     - c-ares =1.34.5 =hf13058a_0
-    - ca-certificates =2025.7.9 =hbd8a1cb_0
+    - ca-certificates =2025.7.14 =hbd8a1cb_0
     - cairo =1.18.4 =h950ec3b_0
     - catalogue =2.0.10 =py39h6e9494a_1
     - catboost =1.2.7 =cpu_py39hf992546_1
-    - certifi =2025.7.9 =pyhd8ed1ab_0
+    - certifi =2025.7.14 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h8ddeee6_0
     - charset-normalizer =3.4.2 =pyhd8ed1ab_0
     - chart-studio =1.1.0 =pyhd8ed1ab_1
@@ -191,11 +191,11 @@ requirements:
     - language-data =1.3.0 =pyhff2d567_0
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
-    - libabseil =20250127.1 =cxx17_h0e468a2_0
-    - libarrow =20.0.0 =h7601d43_8_cpu
-    - libarrow-acero =20.0.0 =hdc53af8_8_cpu
-    - libarrow-dataset =20.0.0 =hdc53af8_8_cpu
-    - libarrow-substrait =20.0.0 =ha37b807_8_cpu
+    - libabseil =20250512.1 =cxx17_hfc00f1c_0
+    - libarrow =20.0.0 =h41d3369_14_cpu
+    - libarrow-acero =20.0.0 =h31a34a0_14_cpu
+    - libarrow-dataset =20.0.0 =h31a34a0_14_cpu
+    - libarrow-substrait =20.0.0 =h80f2954_14_cpu
     - libblas =3.9.0 =20_osx64_mkl
     - libboost =1.86.0 =hf0da243_3
     - libbrotlicommon =1.1.0 =h6e16a3a_3
@@ -219,9 +219,9 @@ requirements:
     - libgfortran =15.1.0 =h5f6db21_0
     - libgfortran5 =15.1.0 =hfa3c126_0
     - libglib =2.84.2 =h3139dbc_0
-    - libgoogle-cloud =2.36.0 =h777fda5_1
-    - libgoogle-cloud-storage =2.36.0 =h3397294_1
-    - libgrpc =1.71.0 =h7d722e6_1
+    - libgoogle-cloud =2.39.0 =hed66dea_0
+    - libgoogle-cloud-storage =2.39.0 =h8ac052b_0
+    - libgrpc =1.73.1 =haa69d62_0
     - libhwloc =2.11.2 =default_h4cdd727_1001
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.25.1 =h27064b9_0
@@ -236,21 +236,21 @@ requirements:
     - libnghttp2 =1.64.0 =hc7306c3_0
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =he3325bb_1
-    - libopentelemetry-cpp =1.21.0 =h30c661f_0
-    - libopentelemetry-cpp-headers =1.21.0 =h694c41f_0
+    - libopentelemetry-cpp =1.21.0 =h7d3f41d_1
+    - libopentelemetry-cpp-headers =1.21.0 =h694c41f_1
     - libopus =1.5.2 =he3325bb_0
-    - libparquet =20.0.0 =h283e888_8_cpu
+    - libparquet =20.0.0 =h3c2c8ef_14_cpu
     - libpng =1.6.50 =h3c4a55f_0
     - libpq =17.5 =h9c5cfc2_0
-    - libprotobuf =5.29.3 =h1c7185b_1
-    - libre2-11 =2025.06.26 =hfc00f1c_0
+    - libprotobuf =6.31.1 =h6e993e7_1
+    - libre2-11 =2025.06.26 =hb42f79c_1
     - librsvg =2.58.4 =h21a6cfa_3
     - libsodium =1.0.20 =hfdf4475_0
     - libsqlite =3.50.2 =h39a8b3b_2
     - libssh2 =1.11.1 =hed3591d_0
-    - libthrift =0.21.0 =h75589b3_0
+    - libthrift =0.22.0 =h9d53f72_0
     - libtiff =4.7.0 =h1167cee_5
-    - libtorch =2.7.1 =cpu_mkl_hd678582_102
+    - libtorch =2.7.1 =cpu_mkl_h4ab023d_103
     - libutf8proc =2.10.0 =h5b79583_0
     - libuv =1.51.0 =h4cb831e_0
     - libvorbis =1.3.7 =h046ec9c_0
@@ -283,7 +283,7 @@ requirements:
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - murmurhash =1.0.10 =py39ha92e968_2
-    - narwhals =1.46.0 =pyhe01879c_0
+    - narwhals =1.47.0 =pyhe01879c_0
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2.1 =pyhd8ed1ab_0
@@ -299,7 +299,7 @@ requirements:
     - openldap =2.6.10 =hd8a590d_0
     - openssl =3.5.1 =hc426f3f_0
     - optree =0.16.0 =py39ha3ffea8_0
-    - orc =2.1.2 =h82caab2_0
+    - orc =2.1.3 =h26585c8_0
     - packaging =25.0 =pyh29332c3_1
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h6ef8af8_0
@@ -322,7 +322,7 @@ requirements:
     - prometheus_flask_exporter =0.23.2 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.51 =pyha770c72_0
     - protego =0.5.0 =pyhd8ed1ab_0
-    - protobuf =5.29.3 =py39hfc12742_0
+    - protobuf =6.31.1 =py39hd3b17bb_0
     - psutil =7.0.0 =py39h80efdc8_0
     - pthread-stubs =0.4 =h00291cd_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
@@ -365,7 +365,7 @@ requirements:
     - qt-main =5.15.15 =h30a8c49_4
     - querystring_parser =1.2.4 =pyhd8ed1ab_2
     - queuelib =1.8.0 =pyhd8ed1ab_0
-    - re2 =2025.06.26 =ha5e900a_0
+    - re2 =2025.06.26 =hc7df517_1
     - readline =8.2 =h7cca4af_2
     - regex =2024.11.6 =py39h80efdc8_0
     - requests =2.32.4 =pyhd8ed1ab_0
