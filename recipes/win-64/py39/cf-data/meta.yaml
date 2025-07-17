@@ -62,10 +62,10 @@ requirements:
     - aws-c-http =0.10.2 =h909f643_3
     - aws-c-io =0.21.0 =h20b9e97_1
     - aws-c-mqtt =0.13.1 =h8a47558_4
-    - aws-c-s3 =0.8.3 =hcc9d52c_1
+    - aws-c-s3 =0.8.4 =hcc9d52c_0
     - aws-c-sdkutils =0.2.4 =ha8a2810_1
     - aws-checksums =0.2.7 =ha8a2810_2
-    - aws-crt-cpp =0.33.0 =h16ee0b7_0
+    - aws-crt-cpp =0.33.0 =he8f3b73_1
     - aws-sdk-cpp =1.11.510 =h03107f7_15
     - bcrypt =4.3.0 =py39h95bb58a_1
     - blinker =1.9.0 =pyhff2d567_0
@@ -202,7 +202,7 @@ requirements:
     - libgoogle-cloud =2.39.0 =h19ee442_0
     - libgoogle-cloud-storage =2.39.0 =he04ea4c_0
     - libgrpc =1.73.1 =h04afb49_0
-    - libhwloc =2.11.2 =default_ha69328c_1001
+    - libhwloc =2.11.2 =default_h88281d1_1002
     - libiconv =1.18 =h135ad9c_1
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3

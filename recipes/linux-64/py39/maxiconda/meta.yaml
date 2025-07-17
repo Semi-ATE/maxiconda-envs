@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.4.3 =py39h8cd3c5a_0
     - cython =3.1.2 =py39hbce0bbb_2
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.135.31 =pyha770c72_0
+    - hypothesis =6.135.32 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.9.4 =py39hf3d152e_0
@@ -172,7 +172,7 @@ requirements:
     - jupyterlab =4.4.4 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_1
-    - kernel-headers_linux-64 =3.10.0 =he073ed8_18
+    - kernel-headers_linux-64 =5.14.0 =he073ed8_2
     - keyutils =1.6.1 =h166bdaf_0
     - kiwisolver =1.4.7 =py39h74842e3_0
     - krb5 =1.21.3 =h659f571_0
@@ -523,7 +523,7 @@ requirements:
     - soupsieve =2.7 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.11.1 =pyhd8ed1ab_0
-    - sysroot_linux-64 =2.17 =h0157908_18
+    - sysroot_linux-64 =2.34 =h087de78_2
     - terminado =0.18.1 =pyh0d859eb_0
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_hd72426e_102

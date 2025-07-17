@@ -65,10 +65,10 @@ requirements:
     - aws-c-http =0.10.2 =h5393f03_3
     - aws-c-io =0.21.0 =h46f635e_1
     - aws-c-mqtt =0.13.1 =h14d32e2_4
-    - aws-c-s3 =0.8.3 =hee7c3f6_1
+    - aws-c-s3 =0.8.4 =hee7c3f6_0
     - aws-c-sdkutils =0.2.4 =h7a4e982_1
     - aws-checksums =0.2.7 =h7a4e982_2
-    - aws-crt-cpp =0.33.0 =hdb1ac85_0
+    - aws-crt-cpp =0.33.0 =hbca48a1_1
     - aws-sdk-cpp =1.11.510 =h371caed_15
     - azure-core-cpp =1.15.0 =hd2c3db3_0
     - azure-identity-cpp =1.11.0 =h2e8ae71_1
@@ -222,7 +222,7 @@ requirements:
     - libgoogle-cloud =2.39.0 =hed66dea_0
     - libgoogle-cloud-storage =2.39.0 =h8ac052b_0
     - libgrpc =1.73.1 =haa69d62_0
-    - libhwloc =2.11.2 =default_h4cdd727_1001
+    - libhwloc =2.11.2 =default_h8c32e24_1002
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.25.1 =h27064b9_0
     - libintl-devel =0.25.1 =h27064b9_0
