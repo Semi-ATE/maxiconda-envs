@@ -129,7 +129,7 @@ requirements:
     - fontconfig =2.15.0 =h37eeddb_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.58.5 =py39hd18e689_0
+    - fonttools =4.59.0 =py39h2753485_0
     - freetype =2.13.3 =h694c41f_1
     - fribidi =1.0.10 =hbcb3906_0
     - fsspec =2025.7.0 =pyhd8ed1ab_0
@@ -211,7 +211,7 @@ requirements:
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
     - libevent =2.1.12 =ha90c15b_1
-    - libexpat =2.7.0 =h240833e_0
+    - libexpat =2.7.1 =h21dd04a_0
     - libffi =3.4.6 =h281671d_1
     - libfreetype =2.13.3 =h694c41f_1
     - libfreetype6 =2.13.3 =h40dfd5c_1
@@ -309,7 +309,7 @@ requirements:
     - patsy =1.0.1 =pyhd8ed1ab_1
     - pcre2 =10.45 =hf733adb_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
-    - phik =0.12.4 =py39he47ab52_0
+    - phik =0.12.5 =py39h6403425_0
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py39h1fda9f2_0
     - pip =25.1.1 =pyh8b19718_0
@@ -332,8 +332,8 @@ requirements:
     - pyarrow-core =20.0.0 =py39h6e815d7_0_cpu
     - pyasn1 =0.6.1 =pyhd8ed1ab_2
     - pyasn1-modules =0.4.2 =pyhd8ed1ab_0
-    - pybind11 =3.0.0 =pyh49e36cd_0
-    - pybind11-global =3.0.0 =pyh571d8c1_0
+    - pybind11 =3.0.0 =pyh9380348_1
+    - pybind11-global =3.0.0 =pyhf748d72_1
     - pycparser =2.22 =pyh29332c3_1
     - pydantic =2.11.7 =pyh3cfb1c2_0
     - pydantic-core =2.33.2 =py39hce6d397_0
