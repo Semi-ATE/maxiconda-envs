@@ -32,10 +32,10 @@ requirements:
     - pyqt =5.15.11 =py39h7749830_0
     - pyqtwebengine =5.15.11 =py39hdd764cf_0
     - scipy =1.13.1 =py39hb921187_0
-    - spyder =6.0.7 =hd8ed1ab_1
+    - spyder =6.0.7 =hd8ed1ab_2
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 354 secondary packages :
+    # 353 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.12.14 =py39h246000a_0
@@ -81,7 +81,7 @@ requirements:
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =h6c5dea3_0
     - dbus =1.16.2 =heda779d_0
-    - debugpy =1.8.14 =py39h7dbf29c_0
+    - debugpy =1.8.15 =py39h32b2888_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.2.18 =pyhd8ed1ab_0
@@ -136,7 +136,7 @@ requirements:
     - jeepney =0.9.0 =pyhd8ed1ab_0
     - jellyfish =1.1.3 =py39h9386928_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
-    - jsonschema =4.24.0 =pyhd8ed1ab_0
+    - jsonschema =4.24.1 =pyhe01879c_0
     - jsonschema-specifications =2025.4.1 =pyh29332c3_0
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.8.1 =pyh31011fe_0
@@ -201,7 +201,7 @@ requirements:
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.20 =h68df207_0
     - libspatialindex =2.1.0 =hd7870d2_0
-    - libsqlite =3.50.2 =hdbb6186_2
+    - libsqlite =3.50.3 =h022381a_0
     - libstdcxx =15.1.0 =h3f4de04_3
     - libstdcxx-ng =15.1.0 =hf1166c9_3
     - libsystemd0 =257.7 =h2bb824b_0
@@ -239,8 +239,8 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =ha32ae93_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - nspr =4.36 =h5ad3122_0
-    - nss =3.113 =h7e26b49_0
+    - nspr =4.37 =h3ad9384_0
+    - nss =3.114 =h85c1b32_0
     - numpydoc =1.9.0 =pyhe01879c_1
     - openjpeg =2.5.3 =h3f56577_0
     - openldap =2.6.10 =h30c48ee_0
@@ -256,7 +256,6 @@ requirements:
     - pillow =11.3.0 =py39h301a0e3_0
     - pip =25.1.1 =pyh8b19718_0
     - pixman =0.46.2 =h86a87f0_0
-    - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_2
     - platformdirs =4.3.8 =pyhe01879c_0
     - pluggy =1.6.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_3
@@ -293,7 +292,7 @@ requirements:
     - python-lsp-server-base =1.12.2 =pyhd8ed1ab_0
     - python-slugify =8.0.4 =pyhd8ed1ab_1
     - python-tzdata =2025.2 =pyhd8ed1ab_0
-    - python_abi =3.9 =7_cp39
+    - python_abi =3.9 =8_cp39
     - pytoolconfig =1.2.5 =pyhd8ed1ab_1
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyuca =1.2 =pyhd8ed1ab_2
@@ -331,7 +330,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
-    - spyder-base =6.0.7 =linux_pyh62a8a7d_1
+    - spyder-base =6.0.7 =linux_pyh62a8a7d_2
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.5 =pyhb6d5dde_0

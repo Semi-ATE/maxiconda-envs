@@ -32,10 +32,10 @@ requirements:
     - pyqt =5.15.11 =py39h4e308d9_1
     - pyqtwebengine =5.15.11 =py39h8dd0140_1
     - scipy =1.13.1 =py39h3d5391c_0
-    - spyder =6.0.7 =hd8ed1ab_1
+    - spyder =6.0.7 =hd8ed1ab_2
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 286 secondary packages :
+    # 285 secondary packages :
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.12.14 =py39hb270ea8_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -78,7 +78,7 @@ requirements:
     - cryptography =45.0.5 =py39h558b0be_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =ha1cbb27_0
-    - debugpy =1.8.14 =py39h941272d_0
+    - debugpy =1.8.15 =py39hd866990_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.2.18 =pyhd8ed1ab_0
@@ -120,7 +120,7 @@ requirements:
     - jedi =0.19.2 =pyhd8ed1ab_1
     - jellyfish =1.1.3 =py39hc40b5db_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
-    - jsonschema =4.24.0 =pyhd8ed1ab_0
+    - jsonschema =4.24.1 =pyhe01879c_0
     - jsonschema-specifications =2025.4.1 =pyh29332c3_0
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.8.1 =pyh31011fe_0
@@ -137,7 +137,7 @@ requirements:
     - libcblas =3.9.0 =32_hb3479ef_openblas
     - libclang-cpp17 =17.0.6 =default_hf90f093_8
     - libclang13 =20.1.8 =default_h91d7d2a_0
-    - libcxx =20.1.8 =ha82da77_0
+    - libcxx =20.1.8 =hf598326_1
     - libdeflate =1.24 =h5773f1b_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libexpat =2.7.1 =hec049ff_0
@@ -163,7 +163,7 @@ requirements:
     - libpq =17.5 =h6896619_0
     - libsodium =1.0.20 =h99b78c6_0
     - libspatialindex =2.1.0 =h57eeb1c_0
-    - libsqlite =3.50.2 =hf8de324_2
+    - libsqlite =3.50.3 =hf8de324_0
     - libtiff =4.7.0 =h2f21f7c_5
     - libvorbis =1.3.7 =h9f76cd9_0
     - libwebp =1.6.0 =hc0253d1_0
@@ -193,8 +193,8 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h5e97a16_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - nspr =4.36 =h5833ebf_0
-    - nss =3.113 =ha3c76ea_0
+    - nspr =4.37 =h31e89c2_0
+    - nss =3.114 =h5efccd4_0
     - numpydoc =1.9.0 =pyhe01879c_1
     - openjpeg =2.5.3 =h8a3d83b_0
     - openldap =2.6.10 =hbe55e7a_0
@@ -209,7 +209,6 @@ requirements:
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py39hfea3036_0
     - pip =25.1.1 =pyh8b19718_0
-    - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_2
     - platformdirs =4.3.8 =pyhe01879c_0
     - pluggy =1.6.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_3
@@ -249,7 +248,7 @@ requirements:
     - python-slugify =8.0.4 =pyhd8ed1ab_1
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python.app =1.4 =py39hecb0726_4
-    - python_abi =3.9 =7_cp39
+    - python_abi =3.9 =8_cp39
     - pytoolconfig =1.2.5 =pyhd8ed1ab_1
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyuca =1.2 =pyhd8ed1ab_2
@@ -285,7 +284,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
-    - spyder-base =6.0.7 =osx_pyh1a5313d_1
+    - spyder-base =6.0.7 =osx_pyh1a5313d_2
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.5 =pyhb6d5dde_0

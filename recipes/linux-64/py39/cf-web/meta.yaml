@@ -60,7 +60,7 @@ requirements:
     - cryptography =45.0.5 =py39h7170ec2_0
     - cyrus-sasl =2.1.28 =hd9c7081_0
     - dbus =1.16.2 =h3c4dab8_0
-    - debugpy =1.8.14 =py39hf88036b_0
+    - debugpy =1.8.15 =py39haef64b4_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - exceptiongroup =1.3.0 =pyhd8ed1ab_0
     - executing =2.2.0 =pyhd8ed1ab_0
@@ -138,7 +138,7 @@ requirements:
     - libpq =17.5 =h27ae623_0
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.20 =h4ab18f5_0
-    - libsqlite =3.50.2 =hee844dc_2
+    - libsqlite =3.50.3 =hee844dc_0
     - libstdcxx =15.1.0 =h8f9b012_3
     - libstdcxx-ng =15.1.0 =h4852527_3
     - libsystemd0 =257.7 =h4e0b6ca_0
@@ -155,8 +155,8 @@ requirements:
     - mpg123 =1.32.9 =hc50e24c_0
     - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - nspr =4.36 =h5888daf_0
-    - nss =3.113 =h159eef7_0
+    - nspr =4.37 =h29cc59b_0
+    - nss =3.114 =hc3c8bcf_0
     - openldap =2.6.10 =he970967_0
     - openssl =3.5.1 =h7b32b05_0
     - packaging =25.0 =pyh29332c3_1
@@ -182,7 +182,7 @@ requirements:
     - pyqt5-sip =12.17.0 =py39hf88036b_1
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
-    - python_abi =3.9 =7_cp39
+    - python_abi =3.9 =8_cp39
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.0.0 =py39h4e4fb57_0
     - qt-main =5.15.15 =hea1682b_4

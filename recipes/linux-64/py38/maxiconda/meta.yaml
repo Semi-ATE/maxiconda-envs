@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.32 =py38h2019614_0
-    - sqlite =3.50.2 =heff268d_2
+    - sqlite =3.50.3 =heff268d_0
     - sympy =1.13.3 =pyh2585a3b_104
     - tqdm =4.67.1 =pyhd8ed1ab_0
     - transitions =0.9.2 =pyhd8ed1ab_0
@@ -240,7 +240,7 @@ requirements:
     - libsanitizer =15.1.0 =h97b714f_3
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
-    - libsqlite =3.50.2 =hee844dc_2
+    - libsqlite =3.50.3 =hee844dc_0
     - libssh2 =1.11.1 =hcf80075_0
     - libstdcxx =15.1.0 =h8f9b012_3
     - libstdcxx-devel_linux-64 =15.1.0 =h4c094af_103
@@ -276,8 +276,8 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - notebook =7.2.2 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_0
-    - nspr =4.36 =h5888daf_0
-    - nss =3.113 =h159eef7_0
+    - nspr =4.37 =h29cc59b_0
+    - nss =3.114 =hc3c8bcf_0
     - openjpeg =2.5.3 =h5fbd93e_0
     - openldap =2.6.10 =he970967_0
     - openssl =3.5.1 =h7b32b05_0
@@ -318,7 +318,7 @@ requirements:
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2024.2 =pyhd8ed1ab_0
     - python-utils =3.9.0 =pyhff2d567_0
-    - python_abi =3.8 =7_cp38
+    - python_abi =3.8 =8_cp38
     - pytz =2024.2 =pyhd8ed1ab_0
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.2.0 =py38h6c80b9a_0

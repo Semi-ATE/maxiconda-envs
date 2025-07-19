@@ -42,7 +42,7 @@ requirements:
     - seaborn =0.13.0 =hd8ed1ab_0
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.32 =py38hc718529_0
-    - sqlite =3.50.2 =h64b5abc_2
+    - sqlite =3.50.3 =h64b5abc_0
     - statsmodels =0.14.1 =py38h7092abf_0
     - xgboost =2.1.1 =cpu_pyhb8f9a19_2
 
@@ -174,7 +174,7 @@ requirements:
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =20.1.8 =default_ha0cc96f_0
-    - libcxx =20.1.8 =hf95d169_0
+    - libcxx =20.1.8 =h3d58e20_1
     - libdeflate =1.24 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libexpat =2.7.1 =h21dd04a_0
@@ -206,7 +206,7 @@ requirements:
     - libprotobuf =4.25.3 =hd4aba4c_1
     - librsvg =2.58.4 =h21a6cfa_3
     - libsodium =1.0.18 =hbcb3906_1
-    - libsqlite =3.50.2 =h39a8b3b_2
+    - libsqlite =3.50.3 =h39a8b3b_0
     - libtiff =4.7.0 =h1167cee_5
     - libtorch =2.4.0 =cpu_mkl_h5745a14_101
     - libuv =1.51.0 =h4cb831e_0
@@ -238,8 +238,8 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - networkx =3.1 =pyhd8ed1ab_0
     - nltk =3.9.1 =pyhd8ed1ab_0
-    - nspr =4.36 =h97d8b74_0
-    - nss =3.113 =h32a8879_0
+    - nspr =4.37 =hbd2c7f0_0
+    - nss =3.114 =h630f822_0
     - numba =0.58.1 =py38h730cc54_0
     - numexpr =2.8.4 =py38h78e6021_1
     - oauthlib =3.2.2 =pyhd8ed1ab_0
@@ -297,7 +297,7 @@ requirements:
     - python-cufflinks =0.17.3 =py_0
     - python-dateutil =2.9.0 =pyhd8ed1ab_0
     - python-tzdata =2024.2 =pyhd8ed1ab_0
-    - python_abi =3.8 =7_cp38
+    - python_abi =3.8 =8_cp38
     - pytz =2024.2 =pyhd8ed1ab_0
     - pywavelets =1.4.1 =py38h49861b3_1
     - pywin32-on-windows =0.1.0 =pyh1179c8e_3

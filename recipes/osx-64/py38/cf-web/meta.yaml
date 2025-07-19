@@ -81,7 +81,7 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =20.1.8 =default_ha0cc96f_0
-    - libcxx =20.1.8 =hf95d169_0
+    - libcxx =20.1.8 =h3d58e20_1
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libffi =3.4.6 =h281671d_1
     - libglib =2.84.2 =h3139dbc_0
@@ -99,7 +99,7 @@ requirements:
     - libpng =1.6.50 =h3c4a55f_0
     - libpq =17.5 =h9c5cfc2_0
     - libsodium =1.0.18 =hbcb3906_1
-    - libsqlite =3.50.2 =h39a8b3b_2
+    - libsqlite =3.50.3 =h39a8b3b_0
     - libvorbis =1.3.7 =h046ec9c_0
     - libxml2 =2.13.8 =h93c44a6_0
     - libzlib =1.3.1 =hd23fc13_2
@@ -107,8 +107,8 @@ requirements:
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
-    - nspr =4.36 =h97d8b74_0
-    - nss =3.113 =h32a8879_0
+    - nspr =4.37 =hbd2c7f0_0
+    - nss =3.114 =h630f822_0
     - openldap =2.6.10 =hd8a590d_0
     - openssl =3.5.1 =hc426f3f_0
     - packaging =25.0 =pyh29332c3_1
@@ -132,7 +132,7 @@ requirements:
     - pyqt5-sip =12.12.2 =py38h45c2d83_5
     - pysocks =1.7.1 =pyha2e5f31_6
     - python-dateutil =2.9.0 =pyhd8ed1ab_0
-    - python_abi =3.8 =7_cp38
+    - python_abi =3.8 =8_cp38
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.2.0 =py38hd99e78f_0
     - qt-main =5.15.15 =h30a8c49_4

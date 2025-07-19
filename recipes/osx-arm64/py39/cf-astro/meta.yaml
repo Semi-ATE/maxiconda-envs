@@ -36,7 +36,7 @@ requirements:
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =ha1cbb27_0
-    - debugpy =1.8.14 =py39h941272d_0
+    - debugpy =1.8.15 =py39hd866990_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - exceptiongroup =1.3.0 =pyhd8ed1ab_0
     - executing =2.2.0 =pyhd8ed1ab_0
@@ -54,7 +54,7 @@ requirements:
     - krb5 =1.21.3 =h237132a_0
     - libclang-cpp17 =17.0.6 =default_hf90f093_8
     - libclang13 =20.1.8 =default_h91d7d2a_0
-    - libcxx =20.1.8 =ha82da77_0
+    - libcxx =20.1.8 =hf598326_1
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libexpat =2.7.1 =hec049ff_0
     - libffi =3.4.6 =h1da3d7d_1
@@ -72,15 +72,15 @@ requirements:
     - libpng =1.6.50 =h3783ad8_0
     - libpq =17.5 =h6896619_0
     - libsodium =1.0.20 =h99b78c6_0
-    - libsqlite =3.50.2 =hf8de324_2
+    - libsqlite =3.50.3 =hf8de324_0
     - libvorbis =1.3.7 =h9f76cd9_0
     - libxml2 =2.13.8 =h52572c6_0
     - libzlib =1.3.1 =h8359307_2
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - ncurses =6.5 =h5e97a16_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - nspr =4.36 =h5833ebf_0
-    - nss =3.113 =ha3c76ea_0
+    - nspr =4.37 =h31e89c2_0
+    - nss =3.114 =h5efccd4_0
     - openldap =2.6.10 =hbe55e7a_0
     - openssl =3.5.1 =h81ee809_0
     - packaging =25.0 =pyh29332c3_1
@@ -98,7 +98,7 @@ requirements:
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyqt5-sip =12.17.0 =py39h941272d_1
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
-    - python_abi =3.9 =7_cp39
+    - python_abi =3.9 =8_cp39
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.0.0 =py39h80d5f2a_0
     - qt-main =5.15.15 =h67564f6_4

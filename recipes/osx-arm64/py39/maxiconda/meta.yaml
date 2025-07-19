@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.13.4 =pyha770c72_0
     - cython =3.1.2 =py39h1d5d4fa_2
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.135.32 =pyha770c72_0
+    - hypothesis =6.135.33 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.9.4 =py39hdf13c20_0
@@ -56,14 +56,14 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.41 =py39hf3bc14e_0
-    - sqlite =3.50.2 =hb5dd463_2
+    - sqlite =3.50.3 =h6e44f1d_0
     - sympy =1.14.0 =pyh2585a3b_105
     - tqdm =4.67.1 =pyhd8ed1ab_1
     - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 467 secondary packages :
+    # 466 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -90,7 +90,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h6a3b0d2_0
-    - cctools_osx-arm64 =1010.6 =h729f01a_6
+    - cctools_osx-arm64 =1021.4 =h356c9db_0
     - certifi =2025.7.14 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h7f933ea_0
     - charset-normalizer =3.4.2 =pyhd8ed1ab_0
@@ -113,7 +113,7 @@ requirements:
     - curl =8.14.1 =h73640d1_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =ha1cbb27_0
-    - debugpy =1.8.14 =py39h941272d_0
+    - debugpy =1.8.15 =py39hd866990_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
@@ -161,9 +161,9 @@ requirements:
     - jedi =0.19.2 =pyhd8ed1ab_1
     - json5 =0.12.0 =pyhd8ed1ab_0
     - jsonpointer =3.0.0 =py39h2804cbe_1
-    - jsonschema =4.24.0 =pyhd8ed1ab_0
+    - jsonschema =4.24.1 =pyhe01879c_0
     - jsonschema-specifications =2025.4.1 =pyh29332c3_0
-    - jsonschema-with-format-nongpl =4.24.0 =hd8ed1ab_0
+    - jsonschema-with-format-nongpl =4.24.1 =he01879c_0
     - jupyter-lsp =2.2.5 =pyhe01879c_2
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.8.1 =pyh31011fe_0
@@ -176,7 +176,7 @@ requirements:
     - kiwisolver =1.4.7 =py39h157d57c_0
     - krb5 =1.21.3 =h237132a_0
     - lcms2 =2.17 =h7eeda09_0
-    - ld64_osx-arm64 =951.9 =hcfee506_6
+    - ld64_osx-arm64 =954.16 =hc3387fa_0
     - lerc =4.0.0 =hd64df32_1
     - libasprintf =0.25.1 =h493aca8_0
     - libblas =3.9.0 =32_h10e41b3_openblas
@@ -188,8 +188,8 @@ requirements:
     - libclang-cpp20.1 =20.1.8 =default_h649e436_0
     - libclang13 =20.1.8 =default_h91d7d2a_0
     - libcurl =8.14.1 =h73640d1_0
-    - libcxx =20.1.8 =ha82da77_0
-    - libcxx-devel =20.1.8 =h6dc3340_0
+    - libcxx =20.1.8 =hf598326_1
+    - libcxx-devel =20.1.8 =h6dc3340_1
     - libdeflate =1.24 =h5773f1b_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libev =4.33 =h93a5062_2
@@ -219,7 +219,7 @@ requirements:
     - libpng =1.6.50 =h3783ad8_0
     - libpq =17.5 =h6896619_0
     - libsodium =1.0.20 =h99b78c6_0
-    - libsqlite =3.50.2 =h4237e3c_2
+    - libsqlite =3.50.3 =hf8de324_0
     - libssh2 =1.11.1 =h1590b86_0
     - libtiff =4.7.0 =h2f21f7c_5
     - libuv =1.51.0 =h5505292_0
@@ -249,8 +249,8 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - notebook =7.4.4 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
-    - nspr =4.36 =h5833ebf_0
-    - nss =3.113 =ha3c76ea_0
+    - nspr =4.37 =h31e89c2_0
+    - nss =3.114 =h5efccd4_0
     - openjpeg =2.5.3 =h8a3d83b_0
     - openldap =2.6.10 =hbe55e7a_0
     - openssl =3.5.1 =h81ee809_0
@@ -267,7 +267,6 @@ requirements:
     - pip =25.1.1 =pyh8b19718_0
     - pixman =0.46.2 =h2f9eb0b_0
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
-    - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_2
     - platformdirs =4.3.8 =pyhe01879c_0
     - pluggy =1.6.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_3
@@ -291,7 +290,7 @@ requirements:
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
-    - python_abi =3.9 =7_cp39
+    - python_abi =3.9 =8_cp39
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.0.0 =py39h80d5f2a_0
