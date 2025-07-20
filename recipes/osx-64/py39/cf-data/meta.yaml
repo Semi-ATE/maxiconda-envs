@@ -68,8 +68,8 @@ requirements:
     - aws-c-s3 =0.8.5 =ha5703d3_1
     - aws-c-sdkutils =0.2.4 =h7a4e982_1
     - aws-checksums =0.2.7 =h7a4e982_2
-    - aws-crt-cpp =0.33.0 =h56913c2_2
-    - aws-sdk-cpp =1.11.606 =h371caed_0
+    - aws-crt-cpp =0.33.1 =h56913c2_0
+    - aws-sdk-cpp =1.11.606 =hfeb1e55_1
     - azure-core-cpp =1.15.0 =hd2c3db3_0
     - azure-identity-cpp =1.11.0 =h2e8ae71_1
     - azure-storage-blobs-cpp =12.13.0 =h055081b_2
@@ -192,10 +192,10 @@ requirements:
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
     - libabseil =20250512.1 =cxx17_hfc00f1c_0
-    - libarrow =20.0.0 =h04b48ed_15_cpu
-    - libarrow-acero =20.0.0 =h31a34a0_15_cpu
-    - libarrow-dataset =20.0.0 =h31a34a0_15_cpu
-    - libarrow-substrait =20.0.0 =h80f2954_15_cpu
+    - libarrow =20.0.0 =h992aa58_16_cpu
+    - libarrow-acero =20.0.0 =h31a34a0_16_cpu
+    - libarrow-dataset =20.0.0 =h31a34a0_16_cpu
+    - libarrow-substrait =20.0.0 =h80f2954_16_cpu
     - libblas =3.9.0 =20_osx64_mkl
     - libboost =1.86.0 =hf0da243_3
     - libbrotlicommon =1.1.0 =h6e16a3a_3
@@ -239,11 +239,11 @@ requirements:
     - libopentelemetry-cpp =1.21.0 =h7d3f41d_1
     - libopentelemetry-cpp-headers =1.21.0 =h694c41f_1
     - libopus =1.5.2 =he3325bb_0
-    - libparquet =20.0.0 =h3c2c8ef_15_cpu
+    - libparquet =20.0.0 =h3c2c8ef_16_cpu
     - libpng =1.6.50 =h3c4a55f_0
     - libpq =17.5 =h9c5cfc2_0
     - libprotobuf =6.31.1 =h6e993e7_1
-    - libre2-11 =2025.06.26 =hb42f79c_1
+    - libre2-11 =2025.07.17 =h358c03a_0
     - librsvg =2.58.4 =h21a6cfa_3
     - libsodium =1.0.20 =hfdf4475_0
     - libsqlite =3.50.3 =h39a8b3b_0
@@ -365,12 +365,12 @@ requirements:
     - qt-main =5.15.15 =h30a8c49_4
     - querystring_parser =1.2.4 =pyhd8ed1ab_2
     - queuelib =1.8.0 =pyhd8ed1ab_0
-    - re2 =2025.06.26 =hc7df517_1
+    - re2 =2025.07.17 =h2a5b38c_0
     - readline =8.2 =h7cca4af_2
     - regex =2024.11.6 =py39h80efdc8_0
     - requests =2.32.4 =pyhd8ed1ab_0
     - requests-file =2.1.0 =pyhd8ed1ab_1
-    - retrying =1.4.0 =pyhd8ed1ab_0
+    - retrying =1.4.1 =pyhe01879c_0
     - rich =14.0.0 =pyh29332c3_0
     - seaborn-base =0.13.2 =pyhd8ed1ab_3
     - service-identity =24.2.0 =pyha770c72_1

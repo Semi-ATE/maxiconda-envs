@@ -65,8 +65,8 @@ requirements:
     - aws-c-s3 =0.8.5 =hf8e827a_1
     - aws-c-sdkutils =0.2.4 =ha8a2810_1
     - aws-checksums =0.2.7 =ha8a2810_2
-    - aws-crt-cpp =0.33.0 =h5fc8399_2
-    - aws-sdk-cpp =1.11.606 =h03107f7_0
+    - aws-crt-cpp =0.33.1 =h5fc8399_0
+    - aws-sdk-cpp =1.11.606 =h14334ec_1
     - bcrypt =4.3.0 =py39h95bb58a_1
     - blinker =1.9.0 =pyhff2d567_0
     - bottleneck =1.5.0 =py39h4b0a98a_0
@@ -176,10 +176,10 @@ requirements:
     - lcms2 =2.17 =hbcf6048_0
     - lerc =4.0.0 =h6470a55_1
     - libabseil =20250512.1 =cxx17_habfad5f_0
-    - libarrow =20.0.0 =hab9491b_15_cpu
-    - libarrow-acero =20.0.0 =h7d8d6a5_15_cpu
-    - libarrow-dataset =20.0.0 =h7d8d6a5_15_cpu
-    - libarrow-substrait =20.0.0 =hf865cc0_15_cpu
+    - libarrow =20.0.0 =h7840753_16_cpu
+    - libarrow-acero =20.0.0 =h7d8d6a5_16_cpu
+    - libarrow-dataset =20.0.0 =h7d8d6a5_16_cpu
+    - libarrow-substrait =20.0.0 =hf865cc0_16_cpu
     - libblas =3.9.0 =32_h641d27c_mkl
     - libboost =1.86.0 =hb0986bb_3
     - libbrotlicommon =1.1.0 =h2466b09_3
@@ -211,10 +211,10 @@ requirements:
     - liblightgbm =4.6.0 =cpu_hfb536c0_2
     - liblzma =5.8.1 =h2466b09_2
     - libogg =1.3.5 =h2466b09_1
-    - libparquet =20.0.0 =h24c48c9_15_cpu
+    - libparquet =20.0.0 =h24c48c9_16_cpu
     - libpng =1.6.50 =h95bef1e_0
     - libprotobuf =6.31.1 =hdcda5b4_1
-    - libre2-11 =2025.06.26 =h0eb2380_1
+    - libre2-11 =2025.07.17 =h0eb2380_0
     - libsodium =1.0.20 =hc70643c_0
     - libsqlite =3.50.3 =hf5d6505_0
     - libssh2 =1.11.1 =h9aa295b_0
@@ -320,11 +320,11 @@ requirements:
     - qt6-main =6.9.1 =h02ddd7d_1
     - querystring_parser =1.2.4 =pyhd8ed1ab_2
     - queuelib =1.8.0 =pyhd8ed1ab_0
-    - re2 =2025.06.26 =h3dd2b4f_1
+    - re2 =2025.07.17 =h3dd2b4f_0
     - regex =2024.11.6 =py39ha55e580_0
     - requests =2.32.4 =pyhd8ed1ab_0
     - requests-file =2.1.0 =pyhd8ed1ab_1
-    - retrying =1.4.0 =pyhd8ed1ab_0
+    - retrying =1.4.1 =pyhe01879c_0
     - rich =14.0.0 =pyh29332c3_0
     - seaborn-base =0.13.2 =pyhd8ed1ab_3
     - service-identity =24.2.0 =pyha770c72_1

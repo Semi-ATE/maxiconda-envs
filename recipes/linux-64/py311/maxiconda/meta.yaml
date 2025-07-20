@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.4.3 =py311h9ecbd09_0
     - cython =3.1.2 =py311ha3e34f5_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.135.33 =pyha770c72_0
+    - hypothesis =6.136.0 =pyha770c72_0
     - ipython =9.4.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.3 =py311h38be061_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 508 secondary packages :
+    # 510 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -158,10 +158,10 @@ requirements:
     - jedi =0.19.2 =pyhd8ed1ab_1
     - json5 =0.12.0 =pyhd8ed1ab_0
     - jsonpointer =3.0.0 =py311h38be061_1
-    - jsonschema =4.24.1 =pyhe01879c_0
+    - jsonschema =4.25.0 =pyhe01879c_0
     - jsonschema-specifications =2025.4.1 =pyh29332c3_0
-    - jsonschema-with-format-nongpl =4.24.1 =he01879c_0
-    - jupyter-lsp =2.2.5 =pyhe01879c_2
+    - jsonschema-with-format-nongpl =4.25.0 =he01879c_0
+    - jupyter-lsp =2.2.6 =pyhe01879c_0
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.8.1 =pyh31011fe_0
     - jupyter_events =0.12.0 =pyh29332c3_0
@@ -175,6 +175,7 @@ requirements:
     - kiwisolver =1.4.8 =py311hd18a35c_1
     - krb5 =1.21.3 =h659f571_0
     - lame =3.100 =h166bdaf_1003
+    - lark =1.2.2 =pyhd8ed1ab_1
     - lcms2 =2.17 =h717163a_0
     - ld_impl_linux-64 =2.44 =h1423503_1
     - lerc =4.0.0 =h0aef613_1
@@ -503,6 +504,7 @@ requirements:
     - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
+    - rfc3987-syntax =1.1.0 =pyhe01879c_1
     - rpds-py =0.26.0 =py311hdae7d1d_0
     - ruamel.yaml =0.18.14 =py311h9ecbd09_0
     - ruamel.yaml.clib =0.2.8 =py311h9ecbd09_1
