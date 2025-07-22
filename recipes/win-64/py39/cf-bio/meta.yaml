@@ -83,7 +83,7 @@ requirements:
     - gst-plugins-base =1.24.11 =h3fe0a9e_0
     - gstreamer =1.24.11 =h233a61a_0
     - h5py =3.14.0 =nompi_py39ha907541_100
-    - harfbuzz =11.2.1 =h8796e6f_0
+    - harfbuzz =11.3.2 =h8796e6f_0
     - hdf4 =4.2.15 =h5557f11_7
     - hdf5 =1.14.6 =nompi_he30205f_102
     - icu =75.1 =he0c23c2_0
@@ -164,7 +164,7 @@ requirements:
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py39hbad85af_0
     - pip =25.1.1 =pyh8b19718_0
-    - pixman =0.46.2 =had0cd8c_0
+    - pixman =0.46.4 =hc614b68_0
     - platformdirs =4.3.8 =pyhe01879c_0
     - ply =3.11 =pyhd8ed1ab_3
     - pmw =2.0.1 =py39hcbf5309_1008
@@ -196,7 +196,7 @@ requirements:
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.10.0 =py39ha51f57c_0
     - six =1.17.0 =pyhd8ed1ab_0
-    - snappy =1.2.1 =h500f7fa_1
+    - snappy =1.2.2 =h7fa0ca8_0
     - sqlalchemy =2.0.41 =py39ha55e580_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - statsmodels =0.14.5 =py39h9e4d2f2_0
@@ -214,9 +214,9 @@ requirements:
     - tzdata =2025b =h78e105d_0
     - ucrt =10.0.22621.0 =h57928b3_1
     - unicodedata2 =16.0.0 =py39ha55e580_0
-    - vc =14.3 =h41ae7f8_28
-    - vc14_runtime =14.44.35208 =h818238b_28
-    - vs2015_runtime =14.44.35208 =h38c0c73_28
+    - vc =14.3 =h2b53caa_30
+    - vc14_runtime =14.44.35208 =h818238b_30
+    - vs2015_runtime =14.44.35208 =h38c0c73_30
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
     - xorg-libx11 =1.8.12 =hf48077a_0
