@@ -57,18 +57,18 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =25.3.0 =pyh71513ae_0
     - automat =25.4.16 =pyhd8ed1ab_0
-    - aws-c-auth =0.9.0 =ha0d9f7d_17
+    - aws-c-auth =0.9.0 =hc3faa58_18
     - aws-c-cal =0.9.2 =h6f29d6d_1
     - aws-c-common =0.12.4 =h1c43f85_0
     - aws-c-compression =0.3.1 =h7a4e982_6
-    - aws-c-event-stream =0.5.5 =hbfc319a_2
-    - aws-c-http =0.10.3 =h1b9187e_1
-    - aws-c-io =0.21.1 =h46f635e_0
-    - aws-c-mqtt =0.13.3 =h5e336b2_1
-    - aws-c-s3 =0.8.5 =ha5703d3_1
+    - aws-c-event-stream =0.5.5 =hf5ae603_3
+    - aws-c-http =0.10.3 =hb3df2dd_2
+    - aws-c-io =0.21.2 =h46f635e_0
+    - aws-c-mqtt =0.13.3 =h31de6ef_2
+    - aws-c-s3 =0.8.6 =h5dfca3c_1
     - aws-c-sdkutils =0.2.4 =h7a4e982_1
     - aws-checksums =0.2.7 =h7a4e982_2
-    - aws-crt-cpp =0.33.1 =h56913c2_0
+    - aws-crt-cpp =0.33.1 =h3206396_1
     - aws-sdk-cpp =1.11.606 =hfeb1e55_1
     - azure-core-cpp =1.15.0 =hd2c3db3_0
     - azure-identity-cpp =1.11.0 =h2e8ae71_1
@@ -380,7 +380,7 @@ requirements:
     - shellingham =1.5.4 =pyhd8ed1ab_1
     - simpful =2.12.0 =pyhd8ed1ab_2
     - sip =6.10.0 =py39hdf37715_0
-    - six =1.17.0 =pyhd8ed1ab_0
+    - six =1.17.0 =pyhe01879c_1
     - sleef =3.8 =hfe0d17b_0
     - slicer =0.0.8 =pyhd8ed1ab_0
     - smart-open =7.3.0.post1 =h87fe6b5_0

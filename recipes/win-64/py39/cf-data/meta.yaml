@@ -54,18 +54,18 @@ requirements:
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - attrs =25.3.0 =pyh71513ae_0
     - automat =25.4.16 =pyhd8ed1ab_0
-    - aws-c-auth =0.9.0 =h0ad07e9_17
+    - aws-c-auth =0.9.0 =h64f4eea_18
     - aws-c-cal =0.9.2 =hef2a5b8_1
     - aws-c-common =0.12.4 =hfd05255_0
     - aws-c-compression =0.3.1 =ha8a2810_6
-    - aws-c-event-stream =0.5.5 =he09f692_2
-    - aws-c-http =0.10.3 =he26df1e_1
-    - aws-c-io =0.21.1 =h20b9e97_0
-    - aws-c-mqtt =0.13.3 =hc296f95_1
-    - aws-c-s3 =0.8.5 =hf8e827a_1
+    - aws-c-event-stream =0.5.5 =hccb7587_3
+    - aws-c-http =0.10.3 =h04b3cea_2
+    - aws-c-io =0.21.2 =h20b9e97_0
+    - aws-c-mqtt =0.13.3 =h0355893_2
+    - aws-c-s3 =0.8.6 =h801217a_1
     - aws-c-sdkutils =0.2.4 =ha8a2810_1
     - aws-checksums =0.2.7 =ha8a2810_2
-    - aws-crt-cpp =0.33.1 =h5fc8399_0
+    - aws-crt-cpp =0.33.1 =hdf5c83b_1
     - aws-sdk-cpp =1.11.606 =h14334ec_1
     - bcrypt =4.3.0 =py39h95bb58a_1
     - blinker =1.9.0 =pyhff2d567_0
@@ -334,7 +334,7 @@ requirements:
     - shellingham =1.5.4 =pyhd8ed1ab_1
     - simpful =2.12.0 =pyhd8ed1ab_2
     - sip =6.10.0 =py39ha51f57c_0
-    - six =1.17.0 =pyhd8ed1ab_0
+    - six =1.17.0 =pyhe01879c_1
     - slicer =0.0.8 =pyhd8ed1ab_0
     - smart-open =7.3.0.post1 =h87fe6b5_0
     - smart_open =7.3.0.post1 =pyhe01879c_0
