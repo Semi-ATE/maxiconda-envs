@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.32 =py38hc718529_0
-    - sqlite =3.50.3 =h64b5abc_0
+    - sqlite =3.50.3 =h8d07200_1
     - sympy =1.13.3 =pyh2585a3b_104
     - tqdm =4.67.1 =pyhd8ed1ab_0
     - transitions =0.9.2 =pyhd8ed1ab_0
@@ -135,8 +135,8 @@ requirements:
     - freetype =2.13.3 =h694c41f_1
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.4.1 =py38hae2e43d_0
-    - gfortran_impl_osx-64 =13.3.0 =hbf5bf67_105
-    - gfortran_osx-64 =13.3.0 =h3223c34_1
+    - gfortran_impl_osx-64 =13.4.0 =h8d0df8b_0
+    - gfortran_osx-64 =13.4.0 =h3223c34_0
     - glib =2.84.2 =h489497d_0
     - glib-tools =2.84.2 =hf8faeaf_0
     - gmp =6.3.0 =hf036a51_2
@@ -204,7 +204,7 @@ requirements:
     - libfreetype6 =2.13.3 =h40dfd5c_1
     - libgettextpo =0.25.1 =h27064b9_0
     - libgfortran =5.0.0 =14_2_0_h51e75f0_103
-    - libgfortran-devel_osx-64 =13.3.0 =h297be85_105
+    - libgfortran-devel_osx-64 =13.4.0 =hbfa0f67_0
     - libgfortran5 =14.2.0 =h51e75f0_103
     - libglib =2.84.2 =h3139dbc_0
     - libiconv =1.18 =h4b5e92a_1
@@ -225,7 +225,7 @@ requirements:
     - libpng =1.6.50 =h3c4a55f_0
     - libpq =17.5 =h9c5cfc2_0
     - libsodium =1.0.18 =hbcb3906_1
-    - libsqlite =3.50.3 =h39a8b3b_0
+    - libsqlite =3.50.3 =h875aaf5_1
     - libssh2 =1.11.1 =hed3591d_0
     - libtiff =4.7.0 =h1167cee_5
     - libuv =1.51.0 =h4cb831e_0
