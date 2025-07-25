@@ -27,7 +27,7 @@ requirements:
     # 9 primary packages :
     - cython =3.1.2 =py312hdfbeeba_2
     - matplotlib =3.10.3 =py312hb401068_0
-    - numpy =2.3.1 =py312hda18a35_1
+    - numpy =2.3.2 =py312hda18a35_0
     - pandas =2.3.1 =py312hbf2c5ff_0
     - pyqt =5.15.11 =py312h5e38ec9_1
     - pyqtwebengine =5.15.11 =py312ha31b258_1
@@ -146,8 +146,8 @@ requirements:
     - libgfortran5 =14.2.0 =h51e75f0_103
     - libglib =2.84.2 =h3139dbc_0
     - libiconv =1.18 =h4b5e92a_1
-    - libintl =0.25.1 =h27064b9_0
-    - libintl-devel =0.25.1 =h27064b9_0
+    - libintl =0.25.1 =h3184127_1
+    - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
     - liblapack =3.9.0 =32_h236ab99_openblas
     - libllvm17 =17.0.6 =hbedff68_1

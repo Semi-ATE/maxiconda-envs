@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.14.5 =py39hbbd48fb_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
 
-    # 396 secondary packages :
+    # 397 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - adwaita-icon-theme =48.1 =unix_0
     - alembic =1.16.4 =pyhd8ed1ab_0
@@ -57,18 +57,18 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =25.3.0 =pyh71513ae_0
     - automat =25.4.16 =pyhd8ed1ab_0
-    - aws-c-auth =0.9.0 =hc3faa58_18
+    - aws-c-auth =0.9.0 =h9972aa3_19
     - aws-c-cal =0.9.2 =h6f29d6d_1
     - aws-c-common =0.12.4 =h1c43f85_0
     - aws-c-compression =0.3.1 =h7a4e982_6
     - aws-c-event-stream =0.5.5 =hf5ae603_3
-    - aws-c-http =0.10.3 =hb3df2dd_2
+    - aws-c-http =0.10.4 =hb3df2dd_0
     - aws-c-io =0.21.2 =h46f635e_0
-    - aws-c-mqtt =0.13.3 =h31de6ef_2
-    - aws-c-s3 =0.8.6 =h5dfca3c_1
+    - aws-c-mqtt =0.13.3 =h6fbeeec_3
+    - aws-c-s3 =0.8.6 =he7aa9d9_2
     - aws-c-sdkutils =0.2.4 =h7a4e982_1
     - aws-checksums =0.2.7 =h7a4e982_2
-    - aws-crt-cpp =0.33.1 =h3206396_1
+    - aws-crt-cpp =0.33.1 =h89f0b4a_2
     - aws-sdk-cpp =1.11.606 =hfeb1e55_1
     - azure-core-cpp =1.16.0 =h58be783_0
     - azure-identity-cpp =1.12.0 =hc0a8a32_0
@@ -192,10 +192,11 @@ requirements:
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
     - libabseil =20250512.1 =cxx17_hfc00f1c_0
-    - libarrow =20.0.0 =h83ee1bc_17_cpu
-    - libarrow-acero =20.0.0 =h31a34a0_17_cpu
-    - libarrow-dataset =20.0.0 =h31a34a0_17_cpu
-    - libarrow-substrait =20.0.0 =h80f2954_17_cpu
+    - libarrow =21.0.0 =hf94a74d_0_cpu
+    - libarrow-acero =21.0.0 =hdc277a7_0_cpu
+    - libarrow-compute =21.0.0 =h9f8a0d8_0_cpu
+    - libarrow-dataset =21.0.0 =hdc277a7_0_cpu
+    - libarrow-substrait =21.0.0 =h80f2954_0_cpu
     - libblas =3.9.0 =20_osx64_mkl
     - libboost =1.88.0 =hf0da243_0
     - libbrotlicommon =1.1.0 =h6e16a3a_3
@@ -224,8 +225,8 @@ requirements:
     - libgrpc =1.73.1 =haa69d62_0
     - libhwloc =2.11.2 =default_h8c32e24_1002
     - libiconv =1.18 =h4b5e92a_1
-    - libintl =0.25.1 =h27064b9_0
-    - libintl-devel =0.25.1 =h27064b9_0
+    - libintl =0.25.1 =h3184127_1
+    - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
     - liblapack =3.9.0 =20_osx64_mkl
     - liblightgbm =4.6.0 =cpu_hdc23789_3
@@ -239,7 +240,7 @@ requirements:
     - libopentelemetry-cpp =1.21.0 =h7d3f41d_1
     - libopentelemetry-cpp-headers =1.21.0 =h694c41f_1
     - libopus =1.5.2 =he3325bb_0
-    - libparquet =20.0.0 =h3c2c8ef_17_cpu
+    - libparquet =21.0.0 =hbebc5f6_0_cpu
     - libpng =1.6.50 =h3c4a55f_0
     - libpq =17.5 =h9c5cfc2_0
     - libprotobuf =6.31.1 =h6e993e7_1
@@ -328,8 +329,8 @@ requirements:
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - py-xgboost =2.1.4 =cpu_pyhf5c67e3_2
-    - pyarrow =20.0.0 =py39h6e9494a_0
-    - pyarrow-core =20.0.0 =py39h6e815d7_0_cpu
+    - pyarrow =21.0.0 =py39h6e9494a_0
+    - pyarrow-core =21.0.0 =py39h0f88efd_0_cpu
     - pyasn1 =0.6.1 =pyhd8ed1ab_2
     - pyasn1-modules =0.4.2 =pyhd8ed1ab_0
     - pybind11 =3.0.0 =pyh9380348_1
