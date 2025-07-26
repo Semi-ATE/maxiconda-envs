@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.4.3 =py310ha75aee5_0
     - cython =3.1.2 =py310had8cdd9_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.136.3 =pyha770c72_0
+    - hypothesis =6.136.4 =pyha770c72_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.3 =py310hff52083_0
@@ -101,7 +101,7 @@ requirements:
     - click =8.2.1 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
-    - comm =0.2.2 =pyhd8ed1ab_1
+    - comm =0.2.3 =pyhe01879c_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.3.2 =py310h3788b33_0
     - cpython =3.10.18 =py310hd8ed1ab_0
@@ -226,7 +226,7 @@ requirements:
     - libnsl =2.0.1 =hb9d3cd8_1
     - libntlm =1.8 =hb9d3cd8_0
     - libogg =1.3.5 =hd0c01bc_1
-    - libopenblas =0.3.30 =pthreads_h94d23a6_0
+    - libopenblas =0.3.30 =pthreads_h94d23a6_1
     - libopengl =1.7.0 =ha4b6fd6_2
     - libopus =1.5.2 =hd0c01bc_0
     - libpciaccess =0.18 =hb9d3cd8_0
@@ -319,7 +319,7 @@ requirements:
     - pyzmq =27.0.0 =py310h71f11fc_0
     - qhull =2020.2 =h434a139_5
     - qt-main =5.15.15 =hea1682b_4
-    - qt6-main =6.9.1 =h0384650_1
+    - qt6-main =6.9.1 =h6ac528c_2
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r44h2b5f3a1_0
     - r-assertthat =0.2.1 =r44hc72bb7e_5
@@ -347,7 +347,7 @@ requirements:
     - r-cpp11 =0.5.2 =r44h785f33e_1
     - r-crayon =1.5.3 =r44hc72bb7e_1
     - r-crul =1.6.0 =r44hc72bb7e_0
-    - r-curl =6.2.2 =r44h2700575_0
+    - r-curl =6.4.0 =r44h2700575_0
     - r-data.table =1.17.6 =r44he23165d_0
     - r-dbi =1.2.3 =r44hc72bb7e_1
     - r-dbplyr =2.5.0 =r44hc72bb7e_1
@@ -423,7 +423,7 @@ requirements:
     - r-nnet =7.3_20 =r44h2b5f3a1_0
     - r-numderiv =2016.8_1.1 =r44hc72bb7e_6
     - r-openssl =2.3.3 =r44he8289e2_0
-    - r-parallelly =1.45.0 =r44h2b5f3a1_0
+    - r-parallelly =1.45.1 =r44h54b55ab_0
     - r-pbdzmq =0.3_14 =r44h549f438_0
     - r-pillar =1.11.0 =r44hc72bb7e_0
     - r-pkgconfig =2.0.3 =r44hc72bb7e_4
@@ -571,7 +571,7 @@ requirements:
     - xorg-libxt =1.3.1 =hb9d3cd8_0
     - xorg-libxtst =1.2.5 =hb9d3cd8_3
     - xorg-libxxf86vm =1.1.6 =hb9d3cd8_0
-    - yaml =0.2.5 =h7f98852_2
+    - yaml =0.2.5 =h280c20c_3
     - yarl =1.20.1 =py310h89163eb_0
     - zeromq =4.3.5 =h3b0a872_7
     - zipp =3.23.0 =pyhd8ed1ab_0

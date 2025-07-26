@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.13.4 =pyha770c72_0
     - cython =3.1.2 =py39h1d5d4fa_2
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.136.3 =pyha770c72_0
+    - hypothesis =6.136.4 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.9.4 =py39hdf13c20_0
@@ -104,7 +104,7 @@ requirements:
     - click =8.1.8 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
-    - comm =0.2.2 =pyhd8ed1ab_1
+    - comm =0.2.3 =pyhe01879c_0
     - compiler-rt =20.1.8 =hc7d33da_0
     - compiler-rt_osx-arm64 =20.1.8 =ha9683b2_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
@@ -324,7 +324,7 @@ requirements:
     - r-cpp11 =0.5.2 =r44h785f33e_1
     - r-crayon =1.5.3 =r44hc72bb7e_1
     - r-crul =1.6.0 =r44hc72bb7e_0
-    - r-curl =6.2.2 =r44h95ef94e_0
+    - r-curl =6.4.0 =r44h95ef94e_0
     - r-data.table =1.17.6 =r44h28c71e1_0
     - r-dbi =1.2.3 =r44hc72bb7e_1
     - r-dbplyr =2.5.0 =r44hc72bb7e_1
@@ -400,7 +400,7 @@ requirements:
     - r-nnet =7.3_20 =r44h570997c_0
     - r-numderiv =2016.8_1.1 =r44hc72bb7e_6
     - r-openssl =2.3.3 =r44h3814a5a_0
-    - r-parallelly =1.45.0 =r44h570997c_0
+    - r-parallelly =1.45.1 =r44hb470c6c_0
     - r-pbdzmq =0.3_14 =r44hba536c4_0
     - r-pillar =1.11.0 =r44hc72bb7e_0
     - r-pkgconfig =2.0.3 =r44hc72bb7e_4
@@ -525,7 +525,7 @@ requirements:
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xorg-libxau =1.0.12 =h5505292_0
     - xorg-libxdmcp =1.1.5 =hd74edd7_0
-    - yaml =0.2.5 =h3422bc3_2
+    - yaml =0.2.5 =h925e9cb_3
     - yarl =1.20.1 =py39hefdd603_0
     - zeromq =4.3.5 =hc1bb282_7
     - zipp =3.23.0 =pyhd8ed1ab_0

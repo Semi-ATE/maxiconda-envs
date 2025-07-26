@@ -53,7 +53,7 @@ requirements:
     - chardet =5.2.0 =pyhd8ed1ab_3
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
-    - comm =0.2.2 =pyhd8ed1ab_1
+    - comm =0.2.3 =pyhe01879c_0
     - contourpy =1.3.0 =py39h0d3c867_2
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =h610c526_0
@@ -83,7 +83,7 @@ requirements:
     - gstreamer =1.24.11 =h7d1b200_0
     - h5py =3.14.0 =nompi_py39h5227128_100
     - hdf4 =4.2.15 =h8138101_7
-    - hdf5 =1.14.6 =nompi_hc8237f9_102
+    - hdf5 =1.14.6 =nompi_hc8237f9_103
     - icu =75.1 =h120a0e1_0
     - importlib-metadata =8.7.0 =pyhe01879c_1
     - importlib-resources =6.5.2 =pyhd8ed1ab_0
@@ -117,8 +117,8 @@ requirements:
     - libffi =3.4.6 =h281671d_1
     - libfreetype =2.13.3 =h694c41f_1
     - libfreetype6 =2.13.3 =h40dfd5c_1
-    - libgfortran =5.0.0 =14_2_0_h51e75f0_103
-    - libgfortran5 =14.2.0 =h51e75f0_103
+    - libgfortran =15.1.0 =h5f6db21_0
+    - libgfortran5 =15.1.0 =hfa3c126_0
     - libglib =2.84.2 =h3139dbc_0
     - libiconv =1.18 =h4b5e92a_1
     - libintl =0.25.1 =h3184127_1
@@ -132,7 +132,7 @@ requirements:
     - libnghttp2 =1.64.0 =hc7306c3_0
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =he3325bb_1
-    - libopenblas =0.3.30 =openmp_hbf64a52_0
+    - libopenblas =0.3.30 =openmp_h83c2472_1
     - libopus =1.5.2 =he3325bb_0
     - libpng =1.6.50 =h3c4a55f_0
     - libpq =17.5 =h9c5cfc2_0
