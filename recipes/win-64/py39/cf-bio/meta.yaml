@@ -36,7 +36,7 @@ requirements:
     - scipy =1.13.1 =py39h1a10956_0
     - spyder-kernels =3.0.5 =win_pyh7428d3b_0
 
-    # 190 secondary packages :
+    # 191 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - blosc =1.21.6 =hfd34d9b_1
@@ -91,7 +91,7 @@ requirements:
     - importlib-resources =6.5.2 =pyhd8ed1ab_0
     - importlib_resources =6.5.2 =pyhd8ed1ab_0
     - intel-openmp =2024.2.1 =h57928b3_1083
-    - ipykernel =6.29.5 =pyh4bbf305_0
+    - ipykernel =6.30.0 =pyh3521513_0
     - ipython =8.18.1 =pyh7428d3b_3
     - jedi =0.19.2 =pyhd8ed1ab_1
     - joblib =1.5.1 =pyhd8ed1ab_0
@@ -214,9 +214,10 @@ requirements:
     - tzdata =2025b =h78e105d_0
     - ucrt =10.0.22621.0 =h57928b3_1
     - unicodedata2 =16.0.0 =py39ha55e580_0
-    - vc =14.3 =h2b53caa_30
-    - vc14_runtime =14.44.35208 =h818238b_30
-    - vs2015_runtime =14.44.35208 =h38c0c73_30
+    - vc =14.3 =h41ae7f8_31
+    - vc14_runtime =14.44.35208 =h818238b_31
+    - vcomp14 =14.44.35208 =h818238b_31
+    - vs2015_runtime =14.44.35208 =h38c0c73_31
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
     - xorg-libx11 =1.8.12 =hf48077a_0

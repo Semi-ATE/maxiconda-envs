@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.41 =py39ha55e580_0
     - twisted =25.5.0 =py39ha55e580_0
 
-    # 114 secondary packages :
+    # 115 secondary packages :
     - appdirs =1.4.4 =pyhd8ed1ab_1
     - asgiref =3.9.1 =pyhd8ed1ab_0
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -72,7 +72,7 @@ requirements:
     - idna =3.10 =pyhd8ed1ab_1
     - importlib-metadata =8.7.0 =pyhe01879c_1
     - incremental =24.7.2 =pyhd8ed1ab_1
-    - ipykernel =6.29.5 =pyh4bbf305_0
+    - ipykernel =6.30.0 =pyh3521513_0
     - ipython =8.18.1 =pyh7428d3b_3
     - jedi =0.19.2 =pyhd8ed1ab_1
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
@@ -138,9 +138,10 @@ requirements:
     - tzdata =2025b =h78e105d_0
     - ucrt =10.0.22621.0 =h57928b3_1
     - urllib3 =2.5.0 =pyhd8ed1ab_0
-    - vc =14.3 =h2b53caa_30
-    - vc14_runtime =14.44.35208 =h818238b_30
-    - vs2015_runtime =14.44.35208 =h38c0c73_30
+    - vc =14.3 =h41ae7f8_31
+    - vc14_runtime =14.44.35208 =h818238b_31
+    - vcomp14 =14.44.35208 =h818238b_31
+    - vs2015_runtime =14.44.35208 =h38c0c73_31
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
     - win_inet_pton =1.1.0 =pyh7428d3b_8

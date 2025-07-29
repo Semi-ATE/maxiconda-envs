@@ -36,7 +36,7 @@ requirements:
     - spyder =6.0.7 =hd8ed1ab_2
     - sympy =1.14.0 =pyh04b8f61_5
 
-    # 283 secondary packages :
+    # 284 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.12.14 =py39h5769e4c_0
@@ -119,7 +119,7 @@ requirements:
     - inflection =0.5.1 =pyhd8ed1ab_1
     - intel-openmp =2024.2.1 =h57928b3_1083
     - intervaltree =3.1.0 =pyhd8ed1ab_1
-    - ipykernel =6.29.5 =pyh4bbf305_0
+    - ipykernel =6.30.0 =pyh3521513_0
     - ipython =8.18.1 =pyh7428d3b_3
     - isort =6.0.1 =pyhd8ed1ab_1
     - jaraco.classes =3.4.0 =pyhd8ed1ab_2
@@ -301,9 +301,10 @@ requirements:
     - ujson =5.10.0 =py39ha51f57c_1
     - unicodedata2 =16.0.0 =py39ha55e580_0
     - urllib3 =2.5.0 =pyhd8ed1ab_0
-    - vc =14.3 =h2b53caa_30
-    - vc14_runtime =14.44.35208 =h818238b_30
-    - vs2015_runtime =14.44.35208 =h38c0c73_30
+    - vc =14.3 =h41ae7f8_31
+    - vc14_runtime =14.44.35208 =h818238b_31
+    - vcomp14 =14.44.35208 =h818238b_31
+    - vs2015_runtime =14.44.35208 =h38c0c73_31
     - watchdog =6.0.0 =py39hcbf5309_0
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - webencodings =0.5.1 =pyhd8ed1ab_3

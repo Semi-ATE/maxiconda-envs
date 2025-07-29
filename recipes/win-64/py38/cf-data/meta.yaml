@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.1 =py38he7056a7_0
     - xgboost =2.1.1 =cpu_pyhb8f9a19_2
 
-    # 310 secondary packages :
+    # 311 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.14.0 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_0
@@ -320,10 +320,11 @@ requirements:
     - umap-learn =0.5.6 =py38haa244fe_1
     - unicodedata2 =15.1.0 =py38h91455d4_0
     - urllib3 =2.2.3 =pyhd8ed1ab_0
-    - vc =14.3 =h2b53caa_30
-    - vc14_runtime =14.44.35208 =h818238b_30
+    - vc =14.3 =h41ae7f8_31
+    - vc14_runtime =14.44.35208 =h818238b_31
+    - vcomp14 =14.44.35208 =h818238b_31
     - visions =0.7.1 =pyhd8ed1ab_0
-    - vs2015_runtime =14.44.35208 =h38c0c73_30
+    - vs2015_runtime =14.44.35208 =h38c0c73_31
     - w3lib =2.2.1 =pyhd8ed1ab_0
     - waitress =3.0.0 =pyhd8ed1ab_0
     - wasabi =0.10.1 =pyhd8ed1ab_1
