@@ -41,7 +41,7 @@ requirements:
     - scrapy =2.13.3 =pyhd8ed1ab_0
     - seaborn =0.13.2 =hd8ed1ab_3
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
-    - sqlalchemy =2.0.41 =py39h80efdc8_0
+    - sqlalchemy =2.0.42 =py39hb1cfd32_0
     - sqlite =3.50.3 =h8d07200_1
     - statsmodels =0.14.5 =py39hbbd48fb_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
@@ -50,7 +50,7 @@ requirements:
     - _py-xgboost-mutex =2.0 =cpu_0
     - adwaita-icon-theme =48.1 =unix_0
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
-    - aiohttp =3.12.14 =py39h2753485_0
+    - aiohttp =3.12.15 =py39h2753485_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alembic =1.16.4 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
@@ -173,7 +173,7 @@ requirements:
     - gunicorn =23.0.0 =py39h6e9494a_1
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.2.0 =pyhd8ed1ab_0
-    - harfbuzz =11.3.2 =hb258ee5_0
+    - harfbuzz =11.3.3 =hb258ee5_0
     - hicolor-icon-theme =0.17 =h694c41f_2
     - hpack =4.1.0 =pyhd8ed1ab_0
     - htmlmin =0.1.12 =pyhca7485f_2
@@ -190,7 +190,7 @@ requirements:
     - importlib-resources =6.5.2 =pyhd8ed1ab_0
     - importlib_resources =6.5.2 =pyhd8ed1ab_0
     - incremental =24.7.2 =pyhd8ed1ab_1
-    - ipykernel =6.29.5 =pyh57ce528_0
+    - ipykernel =6.30.0 =pyh92f572d_0
     - ipython =8.18.1 =pyh707e725_3
     - ipywidgets =8.1.7 =pyhd8ed1ab_0
     - itemadapter =0.12.0 =pyhd8ed1ab_0
@@ -306,7 +306,7 @@ requirements:
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - murmurhash =1.0.10 =py39ha92e968_2
-    - narwhals =2.0.0 =pyhe01879c_0
+    - narwhals =2.0.1 =pyhe01879c_0
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2.1 =pyhd8ed1ab_0
@@ -400,7 +400,7 @@ requirements:
     - requests-file =2.1.0 =pyhd8ed1ab_1
     - retrying =1.4.1 =pyhe01879c_0
     - rich =14.1.0 =pyhe01879c_0
-    - rich-toolkit =0.14.8 =pyhe01879c_0
+    - rich-toolkit =0.14.9 =pyhe01879c_0
     - rsa =4.9.1 =pyhd8ed1ab_0
     - seaborn-base =0.13.2 =pyhd8ed1ab_3
     - service-identity =24.2.0 =pyha770c72_1
@@ -433,7 +433,7 @@ requirements:
     - tk =8.6.13 =hf689a15_2
     - tldextract =5.3.0 =pyhd8ed1ab_0
     - toml =0.10.2 =pyhd8ed1ab_1
-    - tomli =2.2.1 =pyhd8ed1ab_1
+    - tomli =2.2.1 =pyhe01879c_2
     - tornado =6.5.1 =py39h80efdc8_0
     - tqdm =4.67.1 =pyhd8ed1ab_1
     - traitlets =5.14.3 =pyhd8ed1ab_1
