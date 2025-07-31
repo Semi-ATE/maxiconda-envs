@@ -35,7 +35,7 @@ requirements:
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =4.0.1 =py39h6e9494a_0
     - pyqt =5.15.11 =py39h39ab9d1_1
-    - pytorch =2.7.1 =cpu_mkl_py39_h4a3e2fc_103
+    - pytorch =2.7.1 =cpu_mkl_py39_h4a3e2fc_104
     - scikit-learn =1.6.1 =py39he8fe7b2_0
     - scipy =1.13.1 =py39h038d4f4_0
     - scrapy =2.13.3 =pyhd8ed1ab_0
@@ -260,7 +260,7 @@ requirements:
     - libopentelemetry-cpp-headers =1.21.0 =h694c41f_1
     - libopus =1.5.2 =he3325bb_0
     - libparquet =20.0.0 =hbebc5f6_18_cpu
-    - libpng =1.6.50 =h3c4a55f_0
+    - libpng =1.6.50 =h84aeda2_1
     - libpq =17.5 =h9c5cfc2_0
     - libprotobuf =6.31.1 =h6e993e7_1
     - libre2-11 =2025.07.22 =h358c03a_0
@@ -270,10 +270,10 @@ requirements:
     - libssh2 =1.11.1 =hed3591d_0
     - libthrift =0.22.0 =h687e942_1
     - libtiff =4.7.0 =h1167cee_5
-    - libtorch =2.7.1 =cpu_mkl_h4ab023d_103
+    - libtorch =2.7.1 =cpu_mkl_h4ab023d_104
     - libutf8proc =2.10.0 =h5b79583_0
     - libuv =1.51.0 =h4cb831e_0
-    - libvorbis =1.3.7 =h046ec9c_0
+    - libvorbis =1.3.7 =ha059160_2
     - libwebp-base =1.6.0 =hb807250_0
     - libxcb =1.17.0 =hf1f96e2_0
     - libxgboost =2.1.4 =cpu_h250267a_2
@@ -320,9 +320,9 @@ requirements:
     - openjpeg =2.5.3 =h7fd6d84_0
     - openldap =2.6.10 =hd8a590d_0
     - openssl =3.5.1 =hc426f3f_0
-    - opentelemetry-api =1.35.0 =pyhd8ed1ab_0
-    - opentelemetry-sdk =1.35.0 =pyhd8ed1ab_0
-    - opentelemetry-semantic-conventions =0.56b0 =pyh3cfb1c2_0
+    - opentelemetry-api =1.36.0 =pyhd8ed1ab_0
+    - opentelemetry-sdk =1.36.0 =pyhd8ed1ab_0
+    - opentelemetry-semantic-conventions =0.57b0 =pyh3cfb1c2_0
     - optree =0.17.0 =py39h10b7adc_0
     - orc =2.1.3 =h26585c8_0
     - packaging =25.0 =pyh29332c3_1
@@ -371,7 +371,7 @@ requirements:
     - pynndescent =0.5.13 =pyhd8ed1ab_1
     - pyod =2.0.5 =pyhd8ed1ab_0
     - pyopenssl =25.1.0 =pyhd8ed1ab_0
-    - pyparsing =3.2.3 =pyhd8ed1ab_1
+    - pyparsing =3.2.3 =pyhe01879c_2
     - pyqt5-sip =12.17.0 =py39hbe19bdc_1
     - pysocks =1.7.1 =pyha55dd90_7
     - python-cufflinks =0.17.3 =pyhd8ed1ab_1
@@ -395,7 +395,7 @@ requirements:
     - queuelib =1.8.0 =pyhd8ed1ab_0
     - re2 =2025.07.22 =h2a5b38c_0
     - readline =8.2 =h7cca4af_2
-    - regex =2024.11.6 =py39h80efdc8_0
+    - regex =2025.7.33 =py39hb1cfd32_0
     - requests =2.32.4 =pyhd8ed1ab_0
     - requests-file =2.1.0 =pyhd8ed1ab_1
     - retrying =1.4.1 =pyhe01879c_0

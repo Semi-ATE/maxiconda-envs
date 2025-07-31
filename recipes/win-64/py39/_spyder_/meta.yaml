@@ -36,7 +36,7 @@ requirements:
     - spyder =6.0.7 =hd8ed1ab_2
     - sympy =1.14.0 =pyh04b8f61_5
 
-    # 284 secondary packages :
+    # 283 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.12.15 =py39h5769e4c_0
@@ -149,9 +149,9 @@ requirements:
     - libffi =3.4.6 =h537db12_1
     - libfreetype =2.13.3 =h57928b3_1
     - libfreetype6 =2.13.3 =h0b5ce68_1
-    - libgcc =15.1.0 =h1383e82_3
+    - libgcc =15.1.0 =h1383e82_4
     - libglib =2.84.2 =hbc94333_0
-    - libgomp =15.1.0 =h1383e82_3
+    - libgomp =15.1.0 =h1383e82_4
     - libhwloc =2.11.2 =default_h88281d1_1002
     - libiconv =1.18 =h135ad9c_1
     - libintl =0.22.5 =h5728263_3
@@ -160,12 +160,12 @@ requirements:
     - liblapack =3.9.0 =32_h1aa476e_mkl
     - liblzma =5.8.1 =h2466b09_2
     - libogg =1.3.5 =h2466b09_1
-    - libpng =1.6.50 =h95bef1e_0
+    - libpng =1.6.50 =h7351971_1
     - libsodium =1.0.20 =hc70643c_0
     - libspatialindex =2.1.0 =h518811d_0
     - libsqlite =3.50.3 =hf5d6505_1
     - libtiff =4.7.0 =h05922d8_5
-    - libvorbis =1.3.7 =h0e60522_0
+    - libvorbis =1.3.7 =h5112557_2
     - libwebp =1.6.0 =h4d5522a_0
     - libwebp-base =1.6.0 =h4d5522a_0
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_9
@@ -228,7 +228,7 @@ requirements:
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.5.0 =py39h63afc94_4
     - pyopenssl =25.1.0 =pyhd8ed1ab_0
-    - pyparsing =3.2.3 =pyhd8ed1ab_1
+    - pyparsing =3.2.3 =pyhe01879c_2
     - pyqt5-sip =12.17.0 =py39ha51f57c_1
     - pyside6 =6.9.1 =py39h5f4aa1c_0
     - pysocks =1.7.1 =pyh09c184e_7
@@ -304,7 +304,6 @@ requirements:
     - vc =14.3 =h41ae7f8_31
     - vc14_runtime =14.44.35208 =h818238b_31
     - vcomp14 =14.44.35208 =h818238b_31
-    - vs2015_runtime =14.44.35208 =h38c0c73_31
     - watchdog =6.0.0 =py39hcbf5309_0
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - webencodings =0.5.1 =pyhd8ed1ab_3

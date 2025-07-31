@@ -50,7 +50,7 @@ requirements:
     - qtawesome =1.4.0 =pyh9208f05_1
     - r-base =4.4.3 =h46d4a84_2
     - r-essentials =4.4 =r44hd8ed1ab_2005
-    - regex =2024.11.6 =py310hbb8c376_0
+    - regex =2025.7.33 =py310h1b7cace_0
     - requests =2.32.4 =pyhd8ed1ab_0
     - rust =1.88.0 =h34a2095_0
     - scipy =1.15.2 =py310hef62574_0
@@ -215,14 +215,14 @@ requirements:
     - libogg =1.3.5 =he3325bb_1
     - libopenblas =0.3.30 =openmp_hbf64a52_0
     - libopus =1.5.2 =he3325bb_0
-    - libpng =1.6.50 =h3c4a55f_0
+    - libpng =1.6.50 =h84aeda2_1
     - libpq =17.5 =h9c5cfc2_0
     - libsodium =1.0.20 =hfdf4475_0
     - libsqlite =3.50.3 =h875aaf5_1
     - libssh2 =1.11.1 =hed3591d_0
     - libtiff =4.7.0 =h1167cee_5
     - libuv =1.51.0 =h4cb831e_0
-    - libvorbis =1.3.7 =h046ec9c_0
+    - libvorbis =1.3.7 =ha059160_2
     - libwebp-base =1.6.0 =hb807250_0
     - libxcb =1.17.0 =hf1f96e2_0
     - libxml2 =2.13.8 =h93c44a6_0
@@ -281,7 +281,7 @@ requirements:
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyobjc-core =11.1 =py310h89b807b_0
     - pyobjc-framework-cocoa =11.1 =py310hae5a141_0
-    - pyparsing =3.2.3 =pyhd8ed1ab_1
+    - pyparsing =3.2.3 =pyhe01879c_2
     - pyqt5-sip =12.17.0 =py310hd6d74de_1
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
@@ -459,10 +459,10 @@ requirements:
     - r-timechange =0.3.0 =r44h25d921d_1
     - r-timedate =4041.110 =r44hc72bb7e_0
     - r-tinytex =0.57 =r44hc72bb7e_0
-    - r-triebeard =0.4.1 =r44h25d921d_2
+    - r-triebeard =0.4.1 =r44h813e631_3
     - r-ttr =0.24.4 =r44h6b9d099_1
     - r-tzdb =0.5.0 =r44h2711daa_0
-    - r-urltools =1.7.3 =r44h25d921d_5
+    - r-urltools =1.7.3.1 =r44h813e631_0
     - r-utf8 =1.2.6 =r44h79f565e_0
     - r-uuid =1.2_1 =r44h6b9d099_0
     - r-vctrs =0.6.5 =r44h25d921d_1
