@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =3.1.2 =py310hc86cfe9_2
-    - matplotlib =3.10.3 =py310hbbe02a8_0
+    - matplotlib =3.10.5 =py310hbbe02a8_0
     - numpy =2.2.6 =py310h6e5608f_0
     - pandas =2.3.1 =py310hc97b22d_0
     - pyqt =5.15.11 =py310h27ebcef_1
@@ -199,7 +199,7 @@ requirements:
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.20 =h68df207_0
     - libspatialindex =2.1.0 =hd7870d2_0
-    - libsqlite =3.50.3 =h022381a_1
+    - libsqlite =3.50.4 =h022381a_0
     - libstdcxx =15.1.0 =h3f4de04_4
     - libstdcxx-ng =15.1.0 =hf1166c9_4
     - libsystemd0 =257.7 =h2bb824b_0
@@ -217,7 +217,7 @@ requirements:
     - lz4-c =1.10.0 =h5ad3122_1
     - markdown-it-py =3.0.0 =pyhd8ed1ab_1
     - markupsafe =3.0.2 =py310h66848f9_1
-    - matplotlib-base =3.10.3 =py310h2cc5e2d_0
+    - matplotlib-base =3.10.5 =py310hc06f52e_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
@@ -252,7 +252,7 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py310h34c99de_0
-    - pip =25.1.1 =pyh8b19718_0
+    - pip =25.2 =pyh8b19718_0
     - pixman =0.46.4 =h3945e86_0
     - platformdirs =4.3.8 =pyhe01879c_0
     - pluggy =1.6.0 =pyhd8ed1ab_0
@@ -269,7 +269,7 @@ requirements:
     - pycparser =2.22 =pyh29332c3_1
     - pydocstyle =6.3.0 =pyhd8ed1ab_1
     - pyflakes =3.2.0 =pyhd8ed1ab_1
-    - pygithub =2.6.1 =pyhd8ed1ab_0
+    - pygithub =2.7.0 =pyhd8ed1ab_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyjwt =2.10.1 =pyhd8ed1ab_0
     - pylint =3.3.7 =pyhe01879c_0

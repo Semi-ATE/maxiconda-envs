@@ -36,7 +36,7 @@ requirements:
     - scipy =1.7.3 =py37hb6553fb_0
     - spyder-kernels =2.4.3 =win_pyhd8ed1ab_0
 
-    # 170 secondary packages :
+    # 171 secondary packages :
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_4
     - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
@@ -46,7 +46,7 @@ requirements:
     - brotli-bin =1.1.0 =h2466b09_3
     - bzip2 =1.0.8 =h2466b09_7
     - ca-certificates =2025.7.14 =h4c7d964_0
-    - cairo =1.16.0 =hd694305_1014
+    - cairo =1.16.0 =h0ac17fb_1012
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cftime =1.6.2 =py37h0b711f8_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
@@ -56,21 +56,20 @@ requirements:
     - debugpy =1.6.3 =py37hf2a7229_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - expat =2.7.1 =hac47afa_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.14.2 =hbde0cde_0
+    - fontconfig =2.15.0 =h765892d_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.38.0 =py37h51bd9d9_0
-    - freetype =2.12.1 =hdaf720e_2
+    - freetype =2.13.3 =h57928b3_1
     - gettext =0.22.5 =h5728263_3
     - gettext-tools =0.22.5 =h5a7288d_3
     - glew =2.1.0 =h39d44d4_2
-    - glib =2.80.2 =h0df6a38_0
-    - glib-tools =2.80.2 =h2f9d560_0
+    - glib =2.84.2 =he8f994d_0
+    - glib-tools =2.84.2 =h4394cf3_0
     - glm =1.0.1 =hb611fcd_0
     - greenlet =1.1.3 =py37hf2a7229_0
     - griddataformats =0.7.0 =pyhd8ed1ab_0
@@ -107,9 +106,11 @@ requirements:
     - libdeflate =1.14 =hcfcfb64_0
     - libexpat =2.7.1 =hac47afa_0
     - libffi =3.4.6 =h537db12_1
+    - libfreetype =2.13.3 =h57928b3_1
+    - libfreetype6 =2.13.3 =h0b5ce68_1
     - libgettextpo =0.22.5 =h5728263_3
     - libgettextpo-devel =0.22.5 =h5728263_3
-    - libglib =2.80.2 =h0df6a38_0
+    - libglib =2.84.2 =hbc94333_0
     - libhwloc =2.11.2 =default_hc8275d1_1000
     - libiconv =1.18 =h135ad9c_1
     - libintl =0.22.5 =h5728263_3
@@ -119,17 +120,17 @@ requirements:
     - liblzma-devel =5.8.1 =h2466b09_2
     - libnetcdf =4.8.1 =nompi_h8c042bf_106
     - libogg =1.3.5 =h2466b09_1
-    - libpng =1.6.43 =h19919ed_0
+    - libpng =1.6.50 =h7351971_1
     - libsodium =1.0.18 =h8d14728_1
-    - libsqlite =3.50.3 =hf5d6505_1
-    - libssh2 =1.11.0 =h7dfc565_0
+    - libsqlite =3.50.4 =hf5d6505_0
+    - libssh2 =1.11.1 =h9aa295b_0
     - libtiff =4.4.0 =hc4f729c_5
     - libvorbis =1.3.7 =h5112557_2
     - libwebp-base =1.6.0 =h4d5522a_0
     - libxcb =1.13 =hcd874cb_1004
-    - libxml2 =2.12.7 =h283a6d9_1
-    - libzip =1.10.1 =h1d365fa_3
-    - libzlib =1.2.13 =h2466b09_6
+    - libxml2 =2.13.8 =h442d1da_0
+    - libzip =1.11.2 =h3135430_0
+    - libzlib =1.3.1 =h2466b09_2
     - m2w64-gcc-libgfortran =5.3.0 =6
     - m2w64-gcc-libs =5.3.0 =7
     - m2w64-gcc-libs-core =5.3.0 =7
@@ -151,7 +152,7 @@ requirements:
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0
-    - pcre2 =10.43 =h17e33f8_0
+    - pcre2 =10.45 =h99c9b8b_0
     - pickleshare =0.7.5 =py_1003
     - pillow =9.2.0 =py37h42a8222_2
     - pip =24.0 =pyhd8ed1ab_0
@@ -180,7 +181,7 @@ requirements:
     - sip =6.7.2 =py37h7f67f24_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.42 =py37h51bd9d9_0
-    - sqlite =3.50.3 =hdb435a2_1
+    - sqlite =3.50.4 =hdb435a2_0
     - statsmodels =0.13.2 =py37h3a130e4_0
     - tbb =2021.13.0 =h62715c5_1
     - threadpoolctl =3.1.0 =pyh8a188c0_0
@@ -205,8 +206,8 @@ requirements:
     - xz-tools =5.8.1 =h2466b09_2
     - zeromq =4.3.4 =h0e60522_1
     - zipp =3.15.0 =pyhd8ed1ab_0
-    - zlib =1.2.13 =h2466b09_6
-    - zstd =1.5.6 =h0ea2cb4_0
+    - zlib =1.3.1 =h2466b09_2
+    - zstd =1.5.7 =hbeecb71_2
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

@@ -34,7 +34,7 @@ requirements:
     - hypothesis =6.136.6 =pyha770c72_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
-    - matplotlib =3.10.3 =py310h2ec42d9_0
+    - matplotlib =3.10.5 =py310h2ec42d9_0
     - numba =0.61.2 =py310hf491a08_1
     - numpy =2.2.6 =py310h07c5b4d_0
     - openpyxl =3.1.5 =py310hf85ade9_0
@@ -50,14 +50,14 @@ requirements:
     - qtawesome =1.4.0 =pyh9208f05_1
     - r-base =4.4.3 =h46d4a84_2
     - r-essentials =4.4 =r44hd8ed1ab_2005
-    - regex =2025.7.33 =py310h1b7cace_0
+    - regex =2025.7.34 =py310h1b7cace_0
     - requests =2.32.4 =pyhd8ed1ab_0
     - rust =1.88.0 =h34a2095_0
     - scipy =1.15.2 =py310hef62574_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.42 =py310h1b7cace_0
-    - sqlite =3.50.3 =h8d07200_1
+    - sqlite =3.50.4 =h64b5abc_0
     - sympy =1.14.0 =pyh2585a3b_105
     - tqdm =4.67.1 =pyhd8ed1ab_1
     - transitions =0.9.3 =pyhe01879c_0
@@ -72,7 +72,7 @@ requirements:
     - anyio =4.9.0 =pyh29332c3_0
     - appnope =0.1.4 =pyhd8ed1ab_1
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
-    - argon2-cffi-bindings =21.2.0 =py310h837254d_5
+    - argon2-cffi-bindings =25.1.0 =py310h1b7cace_0
     - arrow =1.3.0 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - async-lru =2.0.5 =pyh29332c3_0
@@ -218,22 +218,22 @@ requirements:
     - libpng =1.6.50 =h84aeda2_1
     - libpq =17.5 =h9c5cfc2_0
     - libsodium =1.0.20 =hfdf4475_0
-    - libsqlite =3.50.3 =h875aaf5_1
+    - libsqlite =3.50.4 =h39a8b3b_0
     - libssh2 =1.11.1 =hed3591d_0
     - libtiff =4.7.0 =h1167cee_5
-    - libuv =1.51.0 =h4cb831e_0
+    - libuv =1.51.0 =h58003a5_1
     - libvorbis =1.3.7 =ha059160_2
     - libwebp-base =1.6.0 =hb807250_0
     - libxcb =1.17.0 =hf1f96e2_0
     - libxml2 =2.13.8 =h93c44a6_0
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =20.1.8 =hf4e0ed4_0
+    - llvm-openmp =20.1.8 =hf4e0ed4_1
     - llvm-tools =20.1.8 =hc040464_0
     - llvm-tools-20 =20.1.8 =h0167baa_0
     - llvmlite =0.44.0 =py310hb13c577_1
     - make =4.4.1 =h00291cd_2
     - markupsafe =3.0.2 =py310h8e2f543_1
-    - matplotlib-base =3.10.3 =py310h1671ce3_0
+    - matplotlib-base =3.10.5 =py310h5aa969b_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mistune =3.1.3 =pyh29332c3_0
     - mpc =1.3.1 =h9d8efa1_1
@@ -263,7 +263,7 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py310hbf7783a_0
-    - pip =25.1.1 =pyh8b19718_0
+    - pip =25.2 =pyh8b19718_0
     - pixman =0.46.4 =h6f2c7e4_0
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
     - platformdirs =4.3.8 =pyhe01879c_0
@@ -404,7 +404,7 @@ requirements:
     - r-pkgconfig =2.0.3 =r44hc72bb7e_4
     - r-plyr =1.8.9 =r44h813e631_2
     - r-prettyunits =1.2.0 =r44hc72bb7e_1
-    - r-proc =1.18.5 =r44h25d921d_1
+    - r-proc =1.19.0.1 =r44h813e631_0
     - r-processx =3.8.6 =r44h79f565e_0
     - r-prodlim =2025.04.28 =r44h2711daa_0
     - r-progress =1.2.3 =r44hc72bb7e_1
