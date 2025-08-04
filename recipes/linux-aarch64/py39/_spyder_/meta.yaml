@@ -64,9 +64,9 @@ requirements:
     - brotli-bin =1.1.0 =h86ecc28_3
     - brotli-python =1.1.0 =py39h7dbf29c_3
     - bzip2 =1.0.8 =h68df207_7
-    - ca-certificates =2025.7.14 =hbd8a1cb_0
+    - ca-certificates =2025.8.3 =hbd8a1cb_0
     - cairo =1.18.4 =h83712da_0
-    - certifi =2025.7.14 =pyhd8ed1ab_0
+    - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39hecfc5ed_0
     - chardet =5.2.0 =pyhd8ed1ab_3
     - charset-normalizer =3.4.2 =pyhd8ed1ab_0
@@ -103,7 +103,7 @@ requirements:
     - fonttools =4.59.0 =py39h246000a_0
     - freetype =2.13.3 =h8af1aa0_1
     - frozenlist =1.7.0 =py39h5064d8f_0
-    - fzf =0.65.0 =hf0f2a06_0
+    - fzf =0.65.1 =hf0f2a06_0
     - gettext =0.25.1 =h5ad3122_0
     - gettext-tools =0.25.1 =h5ad3122_0
     - giflib =5.2.2 =h31becfc_0
@@ -111,7 +111,7 @@ requirements:
     - glib-tools =2.84.2 =h78ca943_0
     - gmp =6.3.0 =h0a1ffab_2
     - gmpy2 =2.2.1 =py39h7dc50c5_0
-    - graphite2 =1.3.14 =h5ad3122_0
+    - graphite2 =1.3.14 =hfae3067_1
     - gst-plugins-base =1.24.11 =h83ffb7f_0
     - gstreamer =1.24.11 =h17c303d_0
     - h2 =4.2.0 =pyhd8ed1ab_0
@@ -298,7 +298,7 @@ requirements:
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py39hbebea31_2
-    - pyzmq =27.0.0 =py39he601760_0
+    - pyzmq =27.0.1 =py39hf5a39f7_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h70be974_5
     - qstylizer =0.2.4 =pyhff2d567_0
