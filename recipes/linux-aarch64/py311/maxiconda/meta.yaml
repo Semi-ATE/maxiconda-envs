@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.6.0 =py311h19352d5_0
     - cython =3.1.2 =py311hc8540bd_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.136.7 =pyha770c72_0
+    - hypothesis =6.136.8 =pyha770c72_0
     - ipython =9.4.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.5 =py311hfecb2dc_0
@@ -71,7 +71,7 @@ requirements:
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alsa-lib =1.2.14 =h86ecc28_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
-    - anyio =4.9.0 =pyh29332c3_0
+    - anyio =4.10.0 =pyhe01879c_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =25.1.0 =py311h19352d5_0
     - arrow =1.3.0 =pyhd8ed1ab_1
@@ -130,8 +130,8 @@ requirements:
     - gettext =0.25.1 =h5ad3122_0
     - gettext-tools =0.25.1 =h5ad3122_0
     - gfortran_impl_linux-aarch64 =15.1.0 =h1fb5afe_4
-    - glib =2.84.2 =h5702d23_0
-    - glib-tools =2.84.2 =h78ca943_0
+    - glib =2.84.3 =h701fa2e_0
+    - glib-tools =2.84.3 =hc87f4d4_0
     - gmp =6.3.0 =h0a1ffab_2
     - gmpy2 =2.2.1 =py311h8dd2ae4_0
     - graphite2 =1.3.14 =hfae3067_1
@@ -151,7 +151,7 @@ requirements:
     - idna =3.10 =pyhd8ed1ab_1
     - importlib-metadata =8.7.0 =pyhe01879c_1
     - iniconfig =2.0.0 =pyhd8ed1ab_1
-    - ipykernel =6.30.0 =pyh82676e8_0
+    - ipykernel =6.30.1 =pyh82676e8_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.19.2 =pyhd8ed1ab_1
@@ -211,7 +211,7 @@ requirements:
     - libgfortran-ng =15.1.0 =he9431aa_4
     - libgfortran5 =15.1.0 =hbc25352_4
     - libgl =1.7.0 =hd24410f_2
-    - libglib =2.84.2 =hc022ef1_0
+    - libglib =2.84.3 =h75d4a95_0
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
     - libgomp =15.1.0 =he277a41_4
@@ -248,7 +248,7 @@ requirements:
     - libxcb =1.17.0 =h262b8f6_0
     - libxcrypt =4.4.36 =h31becfc_1
     - libxkbcommon =1.10.0 =hbab7b08_0
-    - libxml2 =2.13.8 =he060846_0
+    - libxml2 =2.13.8 =he58860d_1
     - libxslt =1.1.43 =h4552c8e_0
     - libzlib =1.3.1 =h86ecc28_2
     - llvmlite =0.44.0 =py311hbc3773b_1
@@ -273,7 +273,7 @@ requirements:
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.37 =h3ad9384_0
     - nss =3.114 =h85c1b32_0
-    - openjpeg =2.5.3 =h3f56577_0
+    - openjpeg =2.5.3 =h5da879a_1
     - openldap =2.6.10 =h30c48ee_0
     - openssl =3.5.1 =hd08dc88_0
     - overrides =7.7.0 =pyhd8ed1ab_1
@@ -379,7 +379,7 @@ requirements:
     - r-gower =1.0.1 =r44hc1cf72c_2
     - r-gtable =0.3.6 =r44hc72bb7e_0
     - r-hardhat =1.4.1 =r44hc72bb7e_0
-    - r-haven =2.5.4 =r44h6170684_1
+    - r-haven =2.5.5 =r44hb62f08c_0
     - r-hexbin =1.28.5 =r44h6e524ba_0
     - r-highr =0.11 =r44hc72bb7e_1
     - r-hms =1.1.3 =r44hc72bb7e_2
@@ -399,7 +399,7 @@ requirements:
     - r-kernsmooth =2.23_26 =r44h65a6711_0
     - r-knitr =1.50 =r44hc72bb7e_0
     - r-labeling =0.4.3 =r44hc72bb7e_1
-    - r-later =1.4.2 =r44h21d2c02_0
+    - r-later =1.4.2 =r44h08b74da_1
     - r-lattice =0.22_7 =r44hdd76399_0
     - r-lava =1.8.1 =r44hc72bb7e_0
     - r-lazyeval =0.2.2 =r44hc1cf72c_5

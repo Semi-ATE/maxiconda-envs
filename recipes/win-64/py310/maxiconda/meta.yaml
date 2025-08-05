@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.6.0 =py310h29418f3_0
     - cython =3.1.2 =py310h6bd2d47_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.136.7 =pyha770c72_0
+    - hypothesis =6.136.9 =pyha770c72_0
     - ipython =8.37.0 =pyha7b4d00_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.5 =py310h5588dad_0
@@ -70,7 +70,7 @@ requirements:
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
-    - anyio =4.9.0 =pyh29332c3_0
+    - anyio =4.10.0 =pyhe01879c_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =25.1.0 =py310h29418f3_0
     - arrow =1.3.0 =pyhd8ed1ab_1
@@ -124,8 +124,8 @@ requirements:
     - frozenlist =1.7.0 =py310had1666a_0
     - gcc_impl_win-64 =15.1.0 =hb5bc704_4
     - gfortran_impl_win-64 =15.1.0 =h792c6fe_4
-    - glib =2.84.2 =he8f994d_0
-    - glib-tools =2.84.2 =h4394cf3_0
+    - glib =2.84.3 =h36503ca_0
+    - glib-tools =2.84.3 =he647baa_0
     - graphite2 =1.3.14 =hac47afa_1
     - greenlet =3.2.3 =py310h9e98ed7_0
     - gsl =2.7 =hdfb1a43_0
@@ -144,7 +144,7 @@ requirements:
     - importlib-metadata =8.7.0 =pyhe01879c_1
     - iniconfig =2.0.0 =pyhd8ed1ab_1
     - intel-openmp =2024.2.1 =h57928b3_1083
-    - ipykernel =6.30.0 =pyh3521513_0
+    - ipykernel =6.30.1 =pyh3521513_0
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.19.2 =pyhd8ed1ab_1
     - json5 =0.12.0 =pyhd8ed1ab_0
@@ -183,7 +183,7 @@ requirements:
     - libgcc-devel_win-64 =15.1.0 =hec057c1_104
     - libgfortran =15.1.0 =h719f0c7_4
     - libgfortran5 =15.1.0 =h997fb6f_4
-    - libglib =2.84.2 =hbc94333_0
+    - libglib =2.84.3 =h1c1036b_0
     - libgomp =15.1.0 =h1383e82_4
     - libhwloc =2.11.2 =default_h88281d1_1002
     - libiconv =1.18 =h135ad9c_1
@@ -206,7 +206,7 @@ requirements:
     - libwebp-base =1.6.0 =h4d5522a_0
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_9
     - libxcb =1.17.0 =h0e4246c_0
-    - libxml2 =2.13.8 =h442d1da_0
+    - libxml2 =2.13.8 =h741aa76_1
     - libxslt =1.1.43 =h25c3957_0
     - libzlib =1.3.1 =h2466b09_2
     - llvmlite =0.44.0 =py310h0288bfe_1
@@ -229,7 +229,7 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - notebook =7.4.4 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
-    - openjpeg =2.5.3 =h4d64b90_0
+    - openjpeg =2.5.3 =h24db6dd_1
     - openssl =3.5.1 =h725018a_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =25.0 =pyh29332c3_1
@@ -332,7 +332,7 @@ requirements:
     - r-gower =1.0.1 =r44h11b023d_2
     - r-gtable =0.3.6 =r44hc72bb7e_0
     - r-hardhat =1.4.1 =r44hc72bb7e_0
-    - r-haven =2.5.4 =r44h8ae3a7c_1
+    - r-haven =2.5.5 =r44h68b42e3_0
     - r-hexbin =1.28.5 =r44hb0f4521_0
     - r-highr =0.11 =r44hc72bb7e_1
     - r-hms =1.1.3 =r44hc72bb7e_2
@@ -352,7 +352,7 @@ requirements:
     - r-kernsmooth =2.23_26 =r44h22763d4_0
     - r-knitr =1.50 =r44hc72bb7e_0
     - r-labeling =0.4.3 =r44hc72bb7e_1
-    - r-later =1.4.2 =r44h8ae3a7c_0
+    - r-later =1.4.2 =r44hd8a2815_1
     - r-lattice =0.22_7 =r44h11b023d_0
     - r-lava =1.8.1 =r44hc72bb7e_0
     - r-lazyeval =0.2.2 =r44h11b023d_5

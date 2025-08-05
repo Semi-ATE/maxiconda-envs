@@ -53,7 +53,7 @@ requirements:
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alembic =1.16.4 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
-    - anyio =4.9.0 =pyh29332c3_0
+    - anyio =4.10.0 =pyhe01879c_0
     - appdirs =1.4.4 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - async-timeout =5.0.1 =pyhd8ed1ab_1
@@ -143,8 +143,8 @@ requirements:
     - getopt-win32 =0.1 =h6a83c73_3
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.45 =pyhff2d567_0
-    - glib =2.84.2 =he8f994d_0
-    - glib-tools =2.84.2 =h4394cf3_0
+    - glib =2.84.3 =h36503ca_0
+    - glib-tools =2.84.3 =he647baa_0
     - google-auth =2.40.3 =pyhd8ed1ab_0
     - graphene =3.4.3 =pyhd8ed1ab_1
     - graphite2 =1.3.14 =hac47afa_1
@@ -174,7 +174,7 @@ requirements:
     - importlib_resources =6.5.2 =pyhd8ed1ab_0
     - incremental =24.7.2 =pyhd8ed1ab_1
     - intel-openmp =2024.2.1 =h57928b3_1083
-    - ipykernel =6.30.0 =pyh3521513_0
+    - ipykernel =6.30.1 =pyh3521513_0
     - ipython =8.18.1 =pyh7428d3b_3
     - ipywidgets =8.1.7 =pyhd8ed1ab_0
     - itemadapter =0.12.0 =pyhd8ed1ab_0
@@ -196,10 +196,10 @@ requirements:
     - lcms2 =2.17 =hbcf6048_0
     - lerc =4.0.0 =h6470a55_1
     - libabseil =20250512.1 =cxx17_habfad5f_0
-    - libarrow =20.0.0 =h7840753_18_cpu
-    - libarrow-acero =20.0.0 =h7d8d6a5_18_cpu
-    - libarrow-dataset =20.0.0 =h7d8d6a5_18_cpu
-    - libarrow-substrait =20.0.0 =hf865cc0_18_cpu
+    - libarrow =20.0.0 =hfd742ed_19_cpu
+    - libarrow-acero =20.0.0 =h7d8d6a5_19_cpu
+    - libarrow-dataset =20.0.0 =h7d8d6a5_19_cpu
+    - libarrow-substrait =20.0.0 =hf865cc0_19_cpu
     - libblas =3.9.0 =32_h641d27c_mkl
     - libboost =1.88.0 =hb0986bb_0
     - libbrotlicommon =1.1.0 =h2466b09_3
@@ -217,7 +217,7 @@ requirements:
     - libfreetype6 =2.13.3 =h0b5ce68_1
     - libgcc =15.1.0 =h1383e82_4
     - libgd =2.3.3 =h7208af6_11
-    - libglib =2.84.2 =hbc94333_0
+    - libglib =2.84.3 =h1c1036b_0
     - libgomp =15.1.0 =h1383e82_4
     - libgoogle-cloud =2.39.0 =h19ee442_0
     - libgoogle-cloud-storage =2.39.0 =he04ea4c_0
@@ -231,7 +231,7 @@ requirements:
     - liblightgbm =4.6.0 =cpu_h5d2ca61_3
     - liblzma =5.8.1 =h2466b09_2
     - libogg =1.3.5 =h2466b09_1
-    - libparquet =20.0.0 =h24c48c9_18_cpu
+    - libparquet =20.0.0 =h24c48c9_19_cpu
     - libpng =1.6.50 =h7351971_1
     - libprotobuf =6.31.1 =hdcda5b4_1
     - libre2-11 =2025.07.22 =h0eb2380_0
@@ -246,7 +246,7 @@ requirements:
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_9
     - libxcb =1.17.0 =h0e4246c_0
     - libxgboost =2.1.4 =cpu_h0649c51_2
-    - libxml2 =2.13.8 =h442d1da_0
+    - libxml2 =2.13.8 =h741aa76_1
     - libxslt =1.1.43 =h25c3957_0
     - libzlib =1.3.1 =h2466b09_2
     - llvmlite =0.43.0 =py39he94c479_1
@@ -278,12 +278,12 @@ requirements:
     - numba =0.60.0 =py39h5dcb127_0
     - numexpr =2.10.2 =mkl_py39h633a001_0
     - opencl-headers =2025.06.13 =he0c23c2_0
-    - openjpeg =2.5.3 =h4d64b90_0
+    - openjpeg =2.5.3 =h24db6dd_1
     - openssl =3.5.1 =h725018a_0
     - opentelemetry-api =1.36.0 =pyhd8ed1ab_0
     - opentelemetry-sdk =1.36.0 =pyhd8ed1ab_0
     - opentelemetry-semantic-conventions =0.57b0 =pyh3cfb1c2_0
-    - orc =2.1.3 =h121adfa_0
+    - orc =2.2.0 =h0018cbe_0
     - packaging =25.0 =pyh29332c3_1
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h03d888a_0
