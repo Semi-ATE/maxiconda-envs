@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.6.0 =py312h4c3975b_0
     - cython =3.1.2 =py312h2614dfc_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.136.8 =pyha770c72_0
+    - hypothesis =6.137.1 =pyha770c72_0
     - ipython =9.4.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.5 =py312h7900ff3_0
@@ -181,12 +181,12 @@ requirements:
     - lerc =4.0.0 =h0aef613_1
     - libasprintf =0.25.1 =h3f43e3d_1
     - libasprintf-devel =0.25.1 =h3f43e3d_1
-    - libblas =3.9.0 =32_h59b9bed_openblas
+    - libblas =3.9.0 =33_h59b9bed_openblas
     - libbrotlicommon =1.1.0 =hb9d3cd8_3
     - libbrotlidec =1.1.0 =hb9d3cd8_3
     - libbrotlienc =1.1.0 =hb9d3cd8_3
     - libcap =2.75 =h39aace5_0
-    - libcblas =3.9.0 =32_he106b2a_openblas
+    - libcblas =3.9.0 =33_he106b2a_openblas
     - libclang-cpp20.1 =20.1.8 =default_hddf928d_0
     - libclang13 =20.1.8 =default_ha444ac7_0
     - libcups =2.3.3 =hb8b1518_5
@@ -219,7 +219,7 @@ requirements:
     - libgpg-error =1.55 =h3f2d84a_0
     - libiconv =1.18 =h4ce23a2_1
     - libjpeg-turbo =3.1.0 =hb9d3cd8_0
-    - liblapack =3.9.0 =32_h7ac8fdf_openblas
+    - liblapack =3.9.0 =33_h7ac8fdf_openblas
     - libllvm20 =20.1.8 =hecd9e04_0
     - liblzma =5.8.1 =hb9d3cd8_2
     - libnghttp2 =1.64.0 =h161d5f1_0
@@ -270,7 +270,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - notebook =7.4.4 =pyhd8ed1ab_0
+    - notebook =7.4.5 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.37 =h29cc59b_0
     - nss =3.114 =hc3c8bcf_0
@@ -474,7 +474,7 @@ requirements:
     - r-stringr =1.5.1 =r44h785f33e_1
     - r-survival =3.8_3 =r44h2b5f3a1_0
     - r-sys =3.4.3 =r44h2b5f3a1_0
-    - r-systemfonts =1.2.3 =r44h5c043a3_0
+    - r-systemfonts =1.2.3 =r44h74f4acd_0
     - r-textshaping =1.0.1 =r44h16f7c1a_0
     - r-tibble =3.3.0 =r44h2b5f3a1_0
     - r-tidyr =1.3.1 =r44h0d4f4ea_1
