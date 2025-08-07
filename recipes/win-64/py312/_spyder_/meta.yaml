@@ -68,16 +68,16 @@ requirements:
     - cffi =1.17.1 =py312h4389bb4_0
     - chardet =5.2.0 =pyhd8ed1ab_3
     - charset-normalizer =3.4.2 =pyhd8ed1ab_0
-    - click =8.2.2 =pyh7428d3b_0
+    - click =8.2.1 =pyh7428d3b_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
     - contourpy =1.3.3 =py312hf90b1b7_1
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
     - cpython =3.12.11 =py312hd8ed1ab_0
-    - cryptography =45.0.5 =py312h84d000f_0
+    - cryptography =45.0.6 =py312h84d000f_0
     - cycler =0.12.1 =pyhd8ed1ab_1
-    - debugpy =1.8.15 =py312ha1a9051_0
+    - debugpy =1.8.16 =py312ha1a9051_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.2.18 =pyhd8ed1ab_0
@@ -150,7 +150,7 @@ requirements:
     - libgcc =15.1.0 =h1383e82_4
     - libglib =2.84.3 =h1c1036b_0
     - libgomp =15.1.0 =h1383e82_4
-    - libhwloc =2.11.2 =default_h88281d1_1002
+    - libhwloc =2.12.1 =default_h88281d1_1000
     - libiconv =1.18 =h135ad9c_1
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
@@ -192,7 +192,7 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - numpydoc =1.9.0 =pyhe01879c_1
     - openjpeg =2.5.3 =h24db6dd_1
-    - openssl =3.5.1 =h725018a_0
+    - openssl =3.5.2 =h725018a_0
     - packaging =25.0 =pyh29332c3_1
     - pandoc =3.7.0.2 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -281,7 +281,7 @@ requirements:
     - spyder-kernels =3.0.5 =win_pyh7428d3b_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.5 =pyhb6d5dde_0
-    - tbb =2021.13.0 =h62715c5_1
+    - tbb =2021.13.0 =h18a62a1_2
     - text-unidecode =1.3 =pyhd8ed1ab_2
     - textdistance =4.6.3 =pyhd8ed1ab_1
     - three-merge =0.1.1 =pyhd8ed1ab_1
