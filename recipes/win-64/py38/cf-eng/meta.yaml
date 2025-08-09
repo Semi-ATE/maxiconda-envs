@@ -53,15 +53,14 @@ requirements:
     - gstreamer =1.24.11 =h233a61a_0
     - icu =75.1 =he0c23c2_0
     - importlib-metadata =8.5.0 =pyha770c72_0
-    - intel-openmp =2024.2.1 =h57928b3_1083
     - ipykernel =6.29.5 =pyh4bbf305_0
     - ipython =8.12.2 =pyh08f2357_0
     - jedi =0.19.1 =pyhd8ed1ab_0
     - jupyter_client =8.6.3 =pyhd8ed1ab_0
     - jupyter_core =5.8.1 =pyh5737063_0
     - krb5 =1.21.3 =hdf4eb48_0
-    - libblas =3.9.0 =32_h641d27c_mkl
-    - libcblas =3.9.0 =32_h5e41251_mkl
+    - libblas =3.9.0 =34_h5709861_mkl
+    - libcblas =3.9.0 =34_h2a3cdd5_mkl
     - libclang13 =20.1.8 =default_hadf22e1_0
     - libffi =3.4.6 =h537db12_1
     - libglib =2.84.3 =h1c1036b_0
@@ -70,7 +69,7 @@ requirements:
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
     - libjpeg-turbo =3.1.0 =h2466b09_0
-    - liblapack =3.9.0 =32_h1aa476e_mkl
+    - liblapack =3.9.0 =34_hf9ab0e9_mkl
     - liblzma =5.8.1 =h2466b09_2
     - liblzma-devel =5.8.1 =h2466b09_2
     - libogg =1.3.5 =h2466b09_1
@@ -82,8 +81,9 @@ requirements:
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_9
     - libxml2 =2.13.8 =h741aa76_1
     - libzlib =1.3.1 =h2466b09_2
+    - llvm-openmp =20.1.8 =hfa2b4ca_1
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
-    - mkl =2024.2.2 =h66d3029_15
+    - mkl =2024.2.2 =h57928b3_16
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - openssl =3.5.2 =h725018a_0
     - packaging =25.0 =pyh29332c3_1

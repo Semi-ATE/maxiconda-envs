@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.4 =r44hd8ed1ab_2005
     - regex =2025.7.34 =py312he06e257_0
     - requests =2.32.4 =pyhd8ed1ab_0
-    - rust =1.88.0 =hf8d6059_0
+    - rust =1.89.0 =hf8d6059_0
     - scipy =1.16.0 =py312h1416ca1_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =0.2.6 =py_1
@@ -142,7 +142,6 @@ requirements:
     - idna =3.10 =pyhd8ed1ab_1
     - importlib-metadata =8.7.0 =pyhe01879c_1
     - iniconfig =2.0.0 =pyhd8ed1ab_1
-    - intel-openmp =2024.2.1 =h57928b3_1083
     - ipykernel =6.30.1 =pyh3521513_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
     - isoduration =20.11.0 =pyhd8ed1ab_1
@@ -167,11 +166,11 @@ requirements:
     - lcms2 =2.17 =hbcf6048_0
     - ld_impl_win-64 =2.44 =hae1bf67_1
     - lerc =4.0.0 =h6470a55_1
-    - libblas =3.9.0 =32_h641d27c_mkl
+    - libblas =3.9.0 =34_h5709861_mkl
     - libbrotlicommon =1.1.0 =h2466b09_3
     - libbrotlidec =1.1.0 =h2466b09_3
     - libbrotlienc =1.1.0 =h2466b09_3
-    - libcblas =3.9.0 =32_h5e41251_mkl
+    - libcblas =3.9.0 =34_h2a3cdd5_mkl
     - libclang13 =20.1.8 =default_hadf22e1_0
     - libcurl =8.14.1 =h88aaa65_0
     - libdeflate =1.24 =h76ddb4d_0
@@ -190,7 +189,7 @@ requirements:
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
     - libjpeg-turbo =3.1.0 =h2466b09_0
-    - liblapack =3.9.0 =32_h1aa476e_mkl
+    - liblapack =3.9.0 =34_hf9ab0e9_mkl
     - liblzma =5.8.1 =h2466b09_2
     - libnghttp2 =1.64.0 =he0c23c2_0
     - libogg =1.3.5 =h2466b09_1
@@ -209,6 +208,7 @@ requirements:
     - libxml2 =2.13.8 =h741aa76_1
     - libxslt =1.1.43 =h25c3957_0
     - libzlib =1.3.1 =h2466b09_2
+    - llvm-openmp =20.1.8 =hfa2b4ca_1
     - llvmlite =0.44.0 =py312h1f7db74_1
     - m2w64-sysroot_win-64 =12.0.0.r4.gg4f2fc60ca =h7428d3b_9
     - markupsafe =3.0.2 =py312h31fea79_1
@@ -219,7 +219,7 @@ requirements:
     - mingw-w64-ucrt-x86_64-windows-default-manifest =6.4 =he206cdd_7
     - mingw-w64-ucrt-x86_64-winpthreads-git =12.0.0.r4.gg4f2fc60ca =h7428d3b_9
     - mistune =3.1.3 =pyh29332c3_0
-    - mkl =2024.2.2 =h66d3029_15
+    - mkl =2024.2.2 =h57928b3_16
     - mpmath =1.3.0 =pyhd8ed1ab_1
     - multidict =6.6.3 =py312h05f76fc_0
     - munkres =1.1.4 =pyhd8ed1ab_1
@@ -240,7 +240,7 @@ requirements:
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py312hfb502af_0
     - pip =25.2 =pyh8b19718_0
-    - pixman =0.46.4 =hc614b68_0
+    - pixman =0.46.4 =h5112557_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
     - platformdirs =4.3.8 =pyhe01879c_0
     - pluggy =1.6.0 =pyhd8ed1ab_0
@@ -460,7 +460,7 @@ requirements:
     - ruamel.yaml =0.18.14 =py312h4389bb4_0
     - ruamel.yaml.clib =0.2.8 =py312h4389bb4_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-x86_64-pc-windows-msvc =1.88.0 =h17fc481_0
+    - rust-std-x86_64-pc-windows-msvc =1.89.0 =h17fc481_0
     - send2trash =1.8.3 =pyh5737063_1
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.10.0 =py312h275cf98_0

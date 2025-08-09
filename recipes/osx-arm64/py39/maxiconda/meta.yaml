@@ -51,7 +51,7 @@ requirements:
     - r-essentials =4.4 =r44hd8ed1ab_2005
     - regex =2025.7.34 =py39he7485ab_0
     - requests =2.32.4 =pyhd8ed1ab_0
-    - rust =1.88.0 =h4ff7c5d_0
+    - rust =1.89.0 =h4ff7c5d_0
     - scipy =1.13.1 =py39h3d5391c_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
@@ -180,11 +180,11 @@ requirements:
     - ld64_osx-arm64 =954.16 =hc3387fa_1
     - lerc =4.0.0 =hd64df32_1
     - libasprintf =0.25.1 =h493aca8_0
-    - libblas =3.9.0 =33_h10e41b3_openblas
+    - libblas =3.9.0 =34_h10e41b3_openblas
     - libbrotlicommon =1.1.0 =h5505292_3
     - libbrotlidec =1.1.0 =h5505292_3
     - libbrotlienc =1.1.0 =h5505292_3
-    - libcblas =3.9.0 =33_hb3479ef_openblas
+    - libcblas =3.9.0 =34_hb3479ef_openblas
     - libclang-cpp17 =17.0.6 =default_hf90f093_8
     - libclang-cpp20.1 =20.1.8 =default_h649e436_0
     - libclang13 =20.1.8 =default_h91d7d2a_0
@@ -207,7 +207,7 @@ requirements:
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
     - libjpeg-turbo =3.1.0 =h5505292_0
-    - liblapack =3.9.0 =33_hc9a63f6_openblas
+    - liblapack =3.9.0 =34_hc9a63f6_openblas
     - libllvm14 =14.0.6 =hd1a9a77_4
     - libllvm17 =17.0.6 =hc4b4ae8_3
     - libllvm20 =20.1.8 =h846d351_0
@@ -266,7 +266,7 @@ requirements:
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py39hfea3036_0
     - pip =25.2 =pyh8b19718_0
-    - pixman =0.46.4 =h2c80e29_0
+    - pixman =0.46.4 =h81086ad_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
     - platformdirs =4.3.8 =pyhe01879c_0
     - pluggy =1.6.0 =pyhd8ed1ab_0
@@ -487,7 +487,7 @@ requirements:
     - ruamel.yaml =0.18.14 =py39hf3bc14e_0
     - ruamel.yaml.clib =0.2.8 =py39h57695bc_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-aarch64-apple-darwin =1.88.0 =hf6ec828_0
+    - rust-std-aarch64-apple-darwin =1.89.0 =hf6ec828_0
     - send2trash =1.8.3 =pyh31c8845_1
     - setuptools =80.9.0 =pyhff2d567_0
     - sigtool =0.1.3 =h44b9a77_0
