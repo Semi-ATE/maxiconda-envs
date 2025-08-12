@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.6.0 =py39h0f7a62b_0
     - cython =3.1.2 =py39h41befb8_2
     - grayskull =2.7.6 =pyhd8ed1ab_0
-    - hypothesis =6.137.1 =pyha770c72_0
+    - hypothesis =6.137.2 =pyha770c72_0
     - ipython =8.18.1 =pyh707e725_3
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.9.4 =py39ha65689a_0
@@ -172,7 +172,7 @@ requirements:
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_1
     - kernel-headers_linux-aarch64 =5.14.0 =h05a177a_2
-    - keyutils =1.6.1 =h4e544f5_0
+    - keyutils =1.6.3 =h86ecc28_0
     - kiwisolver =1.4.7 =py39h78c8b8d_0
     - krb5 =1.21.3 =h50a48e9_0
     - lame =3.100 =h4e544f5_1003
@@ -218,7 +218,7 @@ requirements:
     - libglx =1.7.0 =hd24410f_2
     - libgomp =15.1.0 =he277a41_4
     - libgpg-error =1.55 =h5ad3122_0
-    - libiconv =1.18 =hc99b53d_1
+    - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.0 =h86ecc28_0
     - liblapack =3.9.0 =34_h411afd4_openblas
     - libllvm14 =14.0.6 =h966f666_4
