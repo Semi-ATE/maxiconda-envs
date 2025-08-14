@@ -31,7 +31,7 @@ requirements:
     - matplotlib =3.9.4 =py39h6e9494a_0
     - numpy =1.26.4 =py39h28c39a1_0
     - pandas =2.3.1 =py39hb4b21fd_0
-    - plotly =6.2.0 =pyhd8ed1ab_0
+    - plotly =6.3.0 =pyhd8ed1ab_0
     - pycaret =2.2.3 =pyhd3deb0d_0
     - pydot =4.0.1 =py39h6e9494a_0
     - pyqt =5.15.11 =py39h39ab9d1_1
@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.14.5 =py39hbbd48fb_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
 
-    # 431 secondary packages :
+    # 432 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - adwaita-icon-theme =48.1 =unix_0
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -115,7 +115,7 @@ requirements:
     - cymem =2.0.11 =py39hdf37715_0
     - cyrus-sasl =2.1.28 =h610c526_0
     - cython-blis =1.3.0 =py39h86e9f7f_0
-    - databricks-sdk =0.62.0 =pyhd8ed1ab_0
+    - databricks-sdk =0.63.0 =pyhd8ed1ab_0
     - datefinder =0.7.3 =pyhd8ed1ab_1
     - debugpy =1.8.16 =py39h6581403_0
     - decorator =5.2.1 =pyhd8ed1ab_0
@@ -161,7 +161,7 @@ requirements:
     - gmpy2 =2.2.1 =py39h127c8af_0
     - google-auth =2.40.3 =pyhd8ed1ab_0
     - graphene =3.4.3 =pyhd8ed1ab_1
-    - graphite2 =1.3.14 =h21dd04a_1
+    - graphite2 =1.3.14 =h21dd04a_2
     - graphql-core =3.2.6 =pyh29332c3_0
     - graphql-relay =3.2.0 =pyhd8ed1ab_1
     - graphviz =13.1.2 =h42bfd48_0
@@ -190,6 +190,7 @@ requirements:
     - importlib-resources =6.5.2 =pyhd8ed1ab_0
     - importlib_resources =6.5.2 =pyhd8ed1ab_0
     - incremental =24.7.2 =pyhd8ed1ab_1
+    - invoke =2.2.0 =pyhd8ed1ab_1
     - ipykernel =6.30.1 =pyh92f572d_0
     - ipython =8.18.1 =pyh707e725_3
     - ipywidgets =8.1.7 =pyhd8ed1ab_0
@@ -328,7 +329,7 @@ requirements:
     - packaging =25.0 =pyh29332c3_1
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h6ef8af8_0
-    - paramiko =3.5.1 =pyhd8ed1ab_0
+    - paramiko =4.0.0 =pyhd8ed1ab_0
     - parsel =1.10.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_1
     - patsy =1.0.1 =pyhd8ed1ab_1

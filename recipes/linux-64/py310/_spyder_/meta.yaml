@@ -25,7 +25,7 @@ requirements:
     - python =3.10.18 =hd6af730_0_cpython
 
     # 9 primary packages :
-    - cython =3.1.2 =py310had8cdd9_2
+    - cython =3.1.3 =py310ha738802_2
     - matplotlib =3.10.5 =py310hff52083_0
     - numpy =2.2.6 =py310hefbff90_0
     - pandas =2.3.1 =py310h0158d43_0
@@ -112,7 +112,7 @@ requirements:
     - glib-tools =2.84.3 =hf516916_0
     - gmp =6.3.0 =hac33072_2
     - gmpy2 =2.2.1 =py310he8512ff_0
-    - graphite2 =1.3.14 =hecca717_1
+    - graphite2 =1.3.14 =hecca717_2
     - gst-plugins-base =1.24.11 =h651a532_0
     - gstreamer =1.24.11 =hc37bda9_0
     - h2 =4.2.0 =pyhd8ed1ab_0
@@ -314,7 +314,7 @@ requirements:
     - rich =14.1.0 =pyhe01879c_0
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.27.0 =py310hd8f68c5_0
-    - rtree =1.4.0 =pyh11ca60a_1
+    - rtree =1.4.1 =pyh11ca60a_0
     - secretstorage =3.3.3 =py310hff52083_3
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.10.0 =py310hf71b8c6_0
@@ -332,7 +332,7 @@ requirements:
     - spyder-base =6.0.7 =linux_pyh62a8a7d_2
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
-    - superqt =0.7.5 =pyhb6d5dde_0
+    - superqt =0.7.6 =pyhb6d5dde_0
     - text-unidecode =1.3 =pyhd8ed1ab_2
     - textdistance =4.6.3 =pyhd8ed1ab_1
     - three-merge =0.1.1 =pyhd8ed1ab_1
