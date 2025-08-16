@@ -140,7 +140,7 @@ requirements:
     - fontconfig =2.15.0 =h37eeddb_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.59.0 =py39h2753485_0
+    - fonttools =4.59.1 =py39h2753485_0
     - freetype =2.13.3 =h694c41f_1
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.7.0 =py39h262b9f6_0
@@ -262,7 +262,7 @@ requirements:
     - libopus =1.5.2 =he3325bb_0
     - libparquet =20.0.0 =hbebc5f6_19_cpu
     - libpng =1.6.50 =h84aeda2_1
-    - libpq =17.5 =h9c5cfc2_0
+    - libpq =17.6 =hec4e20e_0
     - libprotobuf =6.31.1 =h6e993e7_1
     - libre2-11 =2025.07.22 =h358c03a_0
     - librsvg =2.58.4 =h21a6cfa_3
@@ -307,14 +307,14 @@ requirements:
     - multimethod =1.4 =py_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - murmurhash =1.0.10 =py39ha92e968_2
-    - narwhals =2.1.1 =pyhe01879c_0
+    - narwhals =2.1.2 =pyhe01879c_0
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2.1 =pyhd8ed1ab_0
     - nlohmann_json =3.12.0 =h92383a6_0
     - nltk =3.9.1 =pyhd8ed1ab_1
     - nspr =4.37 =hbd2c7f0_0
-    - nss =3.114 =h630f822_0
+    - nss =3.115 =h630f822_0
     - numba =0.60.0 =py39h90d9702_0
     - numexpr =2.10.2 =py39h9f64e28_0
     - opencl-headers =2025.06.13 =h240833e_0

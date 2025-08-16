@@ -99,7 +99,7 @@ requirements:
     - fontconfig =2.15.0 =h8dda3cd_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.59.0 =py312ha4530ae_0
+    - fonttools =4.59.1 =py312ha4530ae_0
     - freetype =2.13.3 =h8af1aa0_1
     - frozenlist =1.7.0 =py312hb10c72c_0
     - fzf =0.65.1 =hf0f2a06_0
@@ -194,7 +194,7 @@ requirements:
     - libopus =1.5.2 =h86ecc28_0
     - libpciaccess =0.18 =h86ecc28_0
     - libpng =1.6.50 =h1abf092_1
-    - libpq =17.5 =hf590da8_0
+    - libpq =17.6 =hb4b1422_0
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.20 =h68df207_0
     - libspatialindex =2.1.0 =hd7870d2_0
@@ -237,7 +237,7 @@ requirements:
     - ncurses =6.5 =ha32ae93_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.37 =h3ad9384_0
-    - nss =3.114 =h85c1b32_0
+    - nss =3.115 =h85c1b32_0
     - numpydoc =1.9.0 =pyhe01879c_1
     - openjpeg =2.5.3 =h5da879a_1
     - openldap =2.6.10 =h30c48ee_0
@@ -281,7 +281,7 @@ requirements:
     - pyside6 =6.9.1 =py312h1bbf150_0
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
-    - python-fastjsonschema =2.21.1 =pyhd8ed1ab_0
+    - python-fastjsonschema =2.21.2 =pyhe01879c_0
     - python-gssapi =1.9.0 =py312h3400d75_1
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1

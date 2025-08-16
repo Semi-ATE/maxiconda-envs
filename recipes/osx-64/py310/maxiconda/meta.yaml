@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.6.0 =py310h1b7cace_0
     - cython =3.1.3 =py310h5563c87_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.138.0 =pyha770c72_0
+    - hypothesis =6.138.1 =pyha770c72_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.5 =py310h2ec42d9_0
@@ -127,7 +127,7 @@ requirements:
     - fontconfig =2.15.0 =h37eeddb_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.59.0 =py310h929a2ac_0
+    - fonttools =4.59.1 =py310h929a2ac_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.13.3 =h694c41f_1
     - fribidi =1.0.10 =hbcb3906_0
@@ -169,7 +169,7 @@ requirements:
     - jupyter_events =0.12.0 =pyh29332c3_0
     - jupyter_server =2.16.0 =pyhe01879c_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_1
-    - jupyterlab =4.4.5 =pyhd8ed1ab_0
+    - jupyterlab =4.4.6 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_1
     - kiwisolver =1.4.9 =py310hfcdb090_0
@@ -216,7 +216,7 @@ requirements:
     - libopenblas =0.3.30 =openmp_hbf64a52_0
     - libopus =1.5.2 =he3325bb_0
     - libpng =1.6.50 =h84aeda2_1
-    - libpq =17.5 =h9c5cfc2_0
+    - libpq =17.6 =hec4e20e_0
     - libsodium =1.0.20 =hfdf4475_0
     - libsqlite =3.50.4 =h39a8b3b_0
     - libssh2 =1.11.1 =hed3591d_0
@@ -249,7 +249,7 @@ requirements:
     - notebook =7.4.5 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.37 =hbd2c7f0_0
-    - nss =3.114 =h630f822_0
+    - nss =3.115 =h630f822_0
     - openjpeg =2.5.3 =h036ada5_1
     - openldap =2.6.10 =hd8a590d_0
     - openssl =3.5.2 =h6e31bce_0
@@ -285,7 +285,7 @@ requirements:
     - pyqt5-sip =12.17.0 =py310hd6d74de_1
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
-    - python-fastjsonschema =2.21.1 =pyhd8ed1ab_0
+    - python-fastjsonschema =2.21.2 =pyhe01879c_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
@@ -363,7 +363,7 @@ requirements:
     - r-htmltools =0.5.8.1 =r44h25d921d_1
     - r-htmlwidgets =1.6.4 =r44h785f33e_3
     - r-httpcode =0.3.0 =r44h694c41f_4
-    - r-httpuv =1.6.15 =r44h25d921d_1
+    - r-httpuv =1.6.16 =r44h05d1c42_0
     - r-httr =1.4.7 =r44hc72bb7e_1
     - r-ids =1.0.1 =r44hc72bb7e_4
     - r-ipred =0.9_15 =r44h6b9d099_1
