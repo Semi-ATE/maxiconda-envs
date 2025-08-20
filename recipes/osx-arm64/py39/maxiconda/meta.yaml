@@ -50,7 +50,7 @@ requirements:
     - r-base =4.4.3 =he27e5f0_2
     - r-essentials =4.4 =r44hd8ed1ab_2005
     - regex =2025.7.34 =py39he7485ab_0
-    - requests =2.32.4 =pyhd8ed1ab_0
+    - requests =2.32.5 =pyhd8ed1ab_0
     - rust =1.89.0 =h4ff7c5d_0
     - scipy =1.13.1 =py39h3d5391c_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
@@ -161,9 +161,9 @@ requirements:
     - jedi =0.19.2 =pyhd8ed1ab_1
     - json5 =0.12.1 =pyhd8ed1ab_0
     - jsonpointer =3.0.0 =py39h2804cbe_1
-    - jsonschema =4.25.0 =pyhe01879c_0
+    - jsonschema =4.25.1 =pyhe01879c_0
     - jsonschema-specifications =2025.4.1 =pyh29332c3_0
-    - jsonschema-with-format-nongpl =4.25.0 =he01879c_0
+    - jsonschema-with-format-nongpl =4.25.1 =he01879c_0
     - jupyter-lsp =2.2.6 =pyhe01879c_0
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.8.1 =pyh31011fe_0
@@ -471,7 +471,7 @@ requirements:
     - r-viridislite =0.4.2 =r44hc72bb7e_2
     - r-vroom =1.6.5 =r44hd76f289_1
     - r-withr =3.0.2 =r44hc72bb7e_0
-    - r-xfun =0.52 =r44h31118f2_0
+    - r-xfun =0.53 =r44h088c9a0_0
     - r-xml2 =1.3.8 =r44h1f9de2a_0
     - r-xtable =1.8_4 =r44hc72bb7e_6
     - r-xts =0.14.1 =r44h96f7ad7_0
@@ -484,7 +484,7 @@ requirements:
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
     - rpds-py =0.27.0 =py39hf64921a_0
-    - ruamel.yaml =0.18.14 =py39hf3bc14e_0
+    - ruamel.yaml =0.18.15 =py39he7485ab_0
     - ruamel.yaml.clib =0.2.8 =py39h57695bc_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-aarch64-apple-darwin =1.89.0 =hf6ec828_0
