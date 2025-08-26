@@ -27,7 +27,7 @@ requirements:
     # 38 primary packages :
     - aiohttp =3.12.15 =py312h8a5da7c_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
-    - beautifulsoup4 =4.13.4 =pyha770c72_0
+    - beautifulsoup4 =4.13.5 =pyha770c72_0
     - bitarray =3.6.1 =py312h4c3975b_0
     - cython =3.1.3 =py312h7c45ced_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
@@ -64,9 +64,10 @@ requirements:
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 510 secondary packages :
+    # 512 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
+    - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -310,12 +311,13 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
+    - python-gil =3.12.11 =hd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.12 =8_cp312
     - pytz =2025.2 =pyhd8ed1ab_0
-    - pyzmq =27.0.2 =py312hbd2df5a_1
+    - pyzmq =27.0.2 =py312hfb55c3c_2
     - qhull =2020.2 =h434a139_5
     - qt-main =5.15.15 =h3a7ef08_5
     - qt6-main =6.9.1 =h6ac528c_2

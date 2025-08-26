@@ -27,7 +27,7 @@ requirements:
     # 37 primary packages :
     - aiohttp =3.12.15 =py312h6daa0e5_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
-    - beautifulsoup4 =4.13.4 =pyha770c72_0
+    - beautifulsoup4 =4.13.5 =pyha770c72_0
     - cython =3.1.3 =py312haa408a8_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
     - hypothesis =6.138.3 =pyha770c72_0
@@ -63,7 +63,8 @@ requirements:
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 463 secondary packages :
+    # 465 secondary packages :
+    - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -226,7 +227,7 @@ requirements:
     - libxcb =1.17.0 =hdb1d25a_0
     - libxml2 =2.13.8 =h4a9ca0c_1
     - libzlib =1.3.1 =h8359307_2
-    - llvm-openmp =20.1.8 =hbb9b287_1
+    - llvm-openmp =20.1.8 =hbb9b287_2
     - llvm-tools =20.1.8 =hc7d33da_0
     - llvm-tools-20 =20.1.8 =hb8bff50_0
     - llvmlite =0.44.0 =py312h728bc31_1
@@ -285,12 +286,13 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
+    - python-gil =3.12.11 =hd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.12 =8_cp312
     - pytz =2025.2 =pyhd8ed1ab_0
-    - pyzmq =27.0.2 =py312hb770000_1
+    - pyzmq =27.0.2 =py312hd175295_2
     - qhull =2020.2 =h420ef59_5
     - qt-main =5.15.15 =hac936aa_5
     - qtpy =2.4.3 =pyhd8ed1ab_1

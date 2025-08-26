@@ -27,7 +27,7 @@ requirements:
     # 38 primary packages :
     - aiohttp =3.12.15 =py311h3f79411_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
-    - beautifulsoup4 =4.13.4 =pyha770c72_0
+    - beautifulsoup4 =4.13.5 =pyha770c72_0
     - bitarray =3.6.1 =py311h3485c13_0
     - cython =3.1.3 =py311hcaecfd5_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
@@ -208,7 +208,7 @@ requirements:
     - libxml2 =2.13.8 =h741aa76_1
     - libxslt =1.1.43 =h25c3957_0
     - libzlib =1.3.1 =h2466b09_2
-    - llvm-openmp =20.1.8 =hfa2b4ca_1
+    - llvm-openmp =20.1.8 =hfa2b4ca_2
     - llvmlite =0.44.0 =py311h7deaa30_1
     - m2w64-sysroot_win-64 =12.0.0.r4.gg4f2fc60ca =h7428d3b_9
     - markupsafe =3.0.2 =py311h5082efb_1
@@ -267,7 +267,7 @@ requirements:
     - pytz =2025.2 =pyhd8ed1ab_0
     - pywin32 =311 =py311hefeebc8_0
     - pywinpty =2.0.15 =py311hda3d55a_0
-    - pyzmq =27.0.2 =py311h025ec61_1
+    - pyzmq =27.0.2 =py311hb77b9c8_2
     - qhull =2020.2 =hc790b64_5
     - qt-main =5.15.15 =hb098fff_5
     - qt6-main =6.9.1 =h02ddd7d_2

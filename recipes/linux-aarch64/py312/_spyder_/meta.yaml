@@ -35,8 +35,9 @@ requirements:
     - spyder =6.0.7 =hd8ed1ab_2
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 351 secondary packages :
+    # 353 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
+    - _python_abi3_support =1.0 =hd8ed1ab_2
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.12.15 =py312ha4530ae_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -54,7 +55,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhd8ed1ab_1
     - bcrypt =4.3.0 =py312h1c19210_1
-    - beautifulsoup4 =4.13.4 =pyha770c72_0
+    - beautifulsoup4 =4.13.5 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =25.1.0 =pyh866005b_0
     - bleach =6.2.0 =pyh29332c3_4
@@ -282,6 +283,7 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
+    - python-gil =3.12.11 =hd8ed1ab_0
     - python-gssapi =1.9.0 =py312hb6ccdee_2
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
@@ -295,7 +297,7 @@ requirements:
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py312hcc812fe_2
-    - pyzmq =27.0.2 =py312hee5b4be_1
+    - pyzmq =27.0.2 =py312h4552c38_2
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h70be974_5
     - qstylizer =0.2.4 =pyhff2d567_0
@@ -321,7 +323,7 @@ requirements:
     - snowballstemmer =3.0.1 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
     - soupsieve =2.7 =pyhd8ed1ab_0
-    - sphinx =8.2.3 =pyhd8ed1ab_0
+    - sphinx =8.3.0 =pyhd8ed1ab_0
     - sphinxcontrib-applehelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-devhelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-htmlhelp =2.1.0 =pyhd8ed1ab_1
@@ -349,7 +351,7 @@ requirements:
     - ujson =5.11.0 =py312hf55c4e8_0
     - unicodedata2 =16.0.0 =py312hb2c0f52_0
     - urllib3 =2.5.0 =pyhd8ed1ab_0
-    - watchdog =6.0.0 =py312h8025657_0
+    - watchdog =6.0.0 =py312h8025657_1
     - wayland =1.24.0 =h698ed42_0
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - webencodings =0.5.1 =pyhd8ed1ab_3

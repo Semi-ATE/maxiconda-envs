@@ -53,7 +53,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhd8ed1ab_1
     - bcrypt =4.3.0 =py311hc4022dc_1
-    - beautifulsoup4 =4.13.4 =pyha770c72_0
+    - beautifulsoup4 =4.13.5 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =25.1.0 =pyh866005b_0
     - bleach =6.2.0 =pyh29332c3_4
@@ -170,7 +170,7 @@ requirements:
     - libxml2 =2.13.8 =h741aa76_1
     - libxslt =1.1.43 =h25c3957_0
     - libzlib =1.3.1 =h2466b09_2
-    - llvm-openmp =20.1.8 =hfa2b4ca_1
+    - llvm-openmp =20.1.8 =hfa2b4ca_2
     - markdown-it-py =4.0.0 =pyhd8ed1ab_0
     - markupsafe =3.0.2 =py311h5082efb_1
     - matplotlib-base =3.10.5 =py311h1675fdf_0
@@ -246,7 +246,7 @@ requirements:
     - pywin32 =311 =py311hefeebc8_0
     - pywin32-ctypes =0.2.3 =py311h1ea47a8_2
     - pyyaml =6.0.2 =py311h5082efb_2
-    - pyzmq =27.0.2 =py311h025ec61_1
+    - pyzmq =27.0.2 =py311hb77b9c8_2
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =hc790b64_5
     - qstylizer =0.2.4 =pyhff2d567_0
@@ -270,7 +270,7 @@ requirements:
     - snowballstemmer =3.0.1 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
     - soupsieve =2.7 =pyhd8ed1ab_0
-    - sphinx =8.2.3 =pyhd8ed1ab_0
+    - sphinx =8.3.0 =pyhd8ed1ab_0
     - sphinxcontrib-applehelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-devhelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-htmlhelp =2.1.0 =pyhd8ed1ab_1
@@ -303,7 +303,7 @@ requirements:
     - vc =14.3 =h41ae7f8_31
     - vc14_runtime =14.44.35208 =h818238b_31
     - vcomp14 =14.44.35208 =h818238b_31
-    - watchdog =6.0.0 =py311h1ea47a8_0
+    - watchdog =6.0.0 =py311h1ea47a8_1
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1

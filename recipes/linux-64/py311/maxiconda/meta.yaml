@@ -27,7 +27,7 @@ requirements:
     # 38 primary packages :
     - aiohttp =3.12.15 =py311h3778330_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
-    - beautifulsoup4 =4.13.4 =pyha770c72_0
+    - beautifulsoup4 =4.13.5 =pyha770c72_0
     - bitarray =3.6.1 =py311h49ec1c0_0
     - cython =3.1.3 =py311h91b4c63_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
@@ -315,7 +315,7 @@ requirements:
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.11 =8_cp311
     - pytz =2025.2 =pyhd8ed1ab_0
-    - pyzmq =27.0.2 =py311hca5115b_1
+    - pyzmq =27.0.2 =py311h2315fbb_2
     - qhull =2020.2 =h434a139_5
     - qt-main =5.15.15 =h3a7ef08_5
     - qt6-main =6.9.1 =h6ac528c_2

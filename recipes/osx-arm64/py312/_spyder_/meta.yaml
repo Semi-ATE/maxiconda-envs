@@ -35,7 +35,8 @@ requirements:
     - spyder =6.0.7 =hd8ed1ab_2
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 284 secondary packages :
+    # 286 secondary packages :
+    - _python_abi3_support =1.0 =hd8ed1ab_2
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.12.15 =py312h6daa0e5_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -53,7 +54,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhd8ed1ab_1
     - bcrypt =4.3.0 =py312hd3c0895_1
-    - beautifulsoup4 =4.13.4 =pyha770c72_0
+    - beautifulsoup4 =4.13.5 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =25.1.0 =pyh866005b_0
     - bleach =6.2.0 =pyh29332c3_4
@@ -169,7 +170,7 @@ requirements:
     - libxcb =1.17.0 =hdb1d25a_0
     - libxml2 =2.13.8 =h4a9ca0c_1
     - libzlib =1.3.1 =h8359307_2
-    - llvm-openmp =20.1.8 =hbb9b287_1
+    - llvm-openmp =20.1.8 =hbb9b287_2
     - markdown-it-py =4.0.0 =pyhd8ed1ab_0
     - markupsafe =3.0.2 =py312h998013c_1
     - matplotlib-base =3.10.5 =py312h05635fa_0
@@ -238,6 +239,7 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
+    - python-gil =3.12.11 =hd8ed1ab_0
     - python-gssapi =1.9.0 =py312h9d7026a_2
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
@@ -252,7 +254,7 @@ requirements:
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py312h998013c_2
-    - pyzmq =27.0.2 =py312hb770000_1
+    - pyzmq =27.0.2 =py312hd175295_2
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h420ef59_5
     - qstylizer =0.2.4 =pyhff2d567_0
@@ -276,7 +278,7 @@ requirements:
     - snowballstemmer =3.0.1 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
     - soupsieve =2.7 =pyhd8ed1ab_0
-    - sphinx =8.2.3 =pyhd8ed1ab_0
+    - sphinx =8.3.0 =pyhd8ed1ab_0
     - sphinxcontrib-applehelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-devhelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-htmlhelp =2.1.0 =pyhd8ed1ab_1
@@ -304,7 +306,7 @@ requirements:
     - ujson =5.11.0 =py312he360a15_0
     - unicodedata2 =16.0.0 =py312hea69d52_0
     - urllib3 =2.5.0 =pyhd8ed1ab_0
-    - watchdog =6.0.0 =py312hea69d52_0
+    - watchdog =6.0.0 =py312h163523d_1
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
