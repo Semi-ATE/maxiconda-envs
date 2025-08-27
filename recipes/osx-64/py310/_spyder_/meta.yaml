@@ -32,7 +32,7 @@ requirements:
     - pyqt =5.15.11 =py310h6e944e8_1
     - pyqtwebengine =5.15.11 =py310habaa6e9_1
     - scipy =1.15.2 =py310hef62574_0
-    - spyder =6.0.7 =hd8ed1ab_2
+    - spyder =6.0.8 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
     # 284 secondary packages :
@@ -143,8 +143,8 @@ requirements:
     - libffi =3.4.6 =h281671d_1
     - libfreetype =2.13.3 =h694c41f_1
     - libfreetype6 =2.13.3 =h40dfd5c_1
-    - libgfortran =15.1.0 =h5f6db21_0
-    - libgfortran5 =15.1.0 =hfa3c126_0
+    - libgfortran =15.1.0 =h5f6db21_1
+    - libgfortran5 =15.1.0 =hfa3c126_1
     - libglib =2.84.3 =h5fed8df_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
@@ -208,7 +208,7 @@ requirements:
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py310hbf7783a_0
     - pip =25.2 =pyh8b19718_0
-    - platformdirs =4.3.8 =pyhe01879c_0
+    - platformdirs =4.4.0 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.51 =pyha770c72_0
@@ -283,7 +283,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
-    - spyder-base =6.0.7 =osx_pyh1a5313d_2
+    - spyder-base =6.0.8 =osx_pyh1a5313d_0
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.6 =pyhb6d5dde_0
@@ -298,8 +298,8 @@ requirements:
     - tornado =6.5.2 =py310h1b7cace_0
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - types-python-dateutil =2.9.0.20250822 =pyhd8ed1ab_0
-    - typing-extensions =4.14.1 =h4440ef1_0
-    - typing_extensions =4.14.1 =pyhe01879c_0
+    - typing-extensions =4.15.0 =h396c80c_0
+    - typing_extensions =4.15.0 =pyhcf101f3_0
     - tzdata =2025b =h78e105d_0
     - ujson =5.11.0 =py310h31e056b_0
     - unicodedata2 =16.0.0 =py310hbb8c376_0

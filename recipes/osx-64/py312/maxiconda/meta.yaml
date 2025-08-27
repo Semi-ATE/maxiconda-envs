@@ -91,7 +91,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h950ec3b_0
-    - cctools_osx-64 =1021.4 =h9667cbc_1
+    - cctools_osx-64 =1024.3 =h9667cbc_0
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py312hf857d28_0
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
@@ -132,7 +132,7 @@ requirements:
     - freetype =2.13.3 =h694c41f_1
     - fribidi =1.0.10 =hbcb3906_0
     - frozenlist =1.7.0 =py312h18bfd43_0
-    - gfortran_impl_osx-64 =13.4.0 =h8d0df8b_0
+    - gfortran_impl_osx-64 =13.4.0 =h8d0df8b_1
     - gfortran_osx-64 =13.4.0 =h3223c34_0
     - glib =2.84.3 =h8efa5be_0
     - glib-tools =2.84.3 =h35d42e9_0
@@ -177,7 +177,7 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lark =1.2.2 =pyhd8ed1ab_1
     - lcms2 =2.17 =h72f5680_0
-    - ld64_osx-64 =954.16 =h19d01cd_1
+    - ld64_osx-64 =955.13 =h19d01cd_0
     - lerc =4.0.0 =hcca01a6_1
     - libasprintf =0.25.1 =h3184127_1
     - libblas =3.9.0 =34_h7f60823_openblas
@@ -200,7 +200,7 @@ requirements:
     - libfreetype6 =2.13.3 =h40dfd5c_1
     - libgettextpo =0.25.1 =h3184127_1
     - libgfortran =5.0.0 =14_2_0_h51e75f0_103
-    - libgfortran-devel_osx-64 =13.4.0 =hbfa0f67_0
+    - libgfortran-devel_osx-64 =13.4.0 =hbfa0f67_1
     - libgfortran5 =14.2.0 =h51e75f0_103
     - libglib =2.84.3 =h5fed8df_0
     - libiconv =1.18 =h57a12c2_2
@@ -267,7 +267,7 @@ requirements:
     - pip =25.2 =pyh8b19718_0
     - pixman =0.46.4 =ha059160_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
-    - platformdirs =4.3.8 =pyhe01879c_0
+    - platformdirs =4.4.0 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
@@ -508,9 +508,9 @@ requirements:
     - tornado =6.5.2 =py312h2f459f6_0
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - types-python-dateutil =2.9.0.20250822 =pyhd8ed1ab_0
-    - typing-extensions =4.14.1 =h4440ef1_0
+    - typing-extensions =4.15.0 =h396c80c_0
     - typing-inspection =0.4.1 =pyhd8ed1ab_0
-    - typing_extensions =4.14.1 =pyhe01879c_0
+    - typing_extensions =4.15.0 =pyhcf101f3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
     - tzdata =2025b =h78e105d_0
     - unicodedata2 =16.0.0 =py312h01d7ebd_0
