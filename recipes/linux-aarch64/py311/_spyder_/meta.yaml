@@ -27,7 +27,7 @@ requirements:
     # 9 primary packages :
     - cython =3.1.3 =py311h396fb50_2
     - matplotlib =3.10.5 =py311hfecb2dc_0
-    - numpy =2.3.2 =py311h85fa7bd_1
+    - numpy =2.3.2 =py311h669026d_2
     - pandas =2.3.2 =py311hffd966a_0
     - pyqt =5.15.11 =py311h70a6756_1
     - pyqtwebengine =5.15.11 =py311hffe1bd2_1
@@ -113,7 +113,7 @@ requirements:
     - graphite2 =1.3.14 =hfae3067_2
     - gst-plugins-base =1.24.11 =h83ffb7f_0
     - gstreamer =1.24.11 =h17c303d_0
-    - h2 =4.2.0 =pyhd8ed1ab_0
+    - h2 =4.3.0 =pyhcf101f3_0
     - harfbuzz =11.4.4 =he4899c9_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
