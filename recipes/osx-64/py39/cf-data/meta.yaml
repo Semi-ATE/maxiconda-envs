@@ -46,7 +46,8 @@ requirements:
     - statsmodels =0.14.5 =py39hbbd48fb_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
 
-    # 432 secondary packages :
+    # 433 secondary packages :
+    - _openmp_mutex =4.5 =4_kmp_llvm
     - _py-xgboost-mutex =2.0 =cpu_0
     - adwaita-icon-theme =48.1 =unix_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -295,7 +296,7 @@ requirements:
     - mdurl =0.1.2 =pyhd8ed1ab_1
     - miniful =0.0.6 =pyhd8ed1ab_1
     - missingno =0.5.2 =pyhd8ed1ab_0
-    - mkl =2023.2.0 =h54c2260_50500
+    - mkl =2023.2.0 =h694c41f_50501
     - mlflow =3.1.4 =h6e9494a_1
     - mlflow-skinny =3.1.4 =h6e9494a_1
     - mlflow-ui =3.1.4 =py39h6e9494a_1

@@ -31,8 +31,8 @@ requirements:
     - bitarray =3.6.1 =py312h4c3975b_0
     - cython =3.1.3 =py312h7c45ced_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.138.7 =pyha770c72_0
-    - ipython =9.4.0 =pyhfa0c392_0
+    - hypothesis =6.138.8 =pyha770c72_0
+    - ipython =9.5.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.5 =py312h7900ff3_0
     - numba =0.61.2 =py312h7bcfee6_1
@@ -173,7 +173,7 @@ requirements:
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_1
     - kernel-headers_linux-64 =5.14.0 =he073ed8_2
     - keyutils =1.6.3 =hb9d3cd8_0
-    - kiwisolver =1.4.9 =py312h0a2e395_0
+    - kiwisolver =1.4.9 =py312h0a2e395_1
     - krb5 =1.21.3 =h659f571_0
     - lame =3.100 =h166bdaf_1003
     - lark =1.2.2 =pyhd8ed1ab_1
@@ -259,7 +259,7 @@ requirements:
     - markupsafe =3.0.2 =py312h178313f_1
     - matplotlib-base =3.10.5 =py312he3d6523_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
-    - mistune =3.1.3 =pyh29332c3_0
+    - mistune =3.1.4 =pyhcf101f3_0
     - mpc =1.3.1 =h24ddda3_1
     - mpfr =4.2.1 =h90cbb55_3
     - mpg123 =1.32.9 =hc50e24c_0
@@ -329,7 +329,7 @@ requirements:
     - r-bit =4.6.0 =r44h2b5f3a1_0
     - r-bit64 =4.6.0_1 =r44h2b5f3a1_0
     - r-blob =1.2.4 =r44hc72bb7e_2
-    - r-boot =1.3_31 =r44hc72bb7e_0
+    - r-boot =1.3_32 =r44hc72bb7e_0
     - r-broom =1.0.9 =r44hc72bb7e_0
     - r-bslib =0.9.0 =r44hc72bb7e_0
     - r-cachem =1.1.0 =r44hb1dbf0f_1
@@ -538,7 +538,7 @@ requirements:
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
     - tzdata =2025b =h78e105d_0
-    - unicodedata2 =16.0.0 =py312h66e93f0_0
+    - unicodedata2 =16.0.0 =py312h4c3975b_1
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.5.0 =pyhd8ed1ab_0
     - wayland =1.24.0 =h3e06ad9_0

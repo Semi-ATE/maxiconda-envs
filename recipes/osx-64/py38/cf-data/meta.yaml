@@ -46,7 +46,8 @@ requirements:
     - statsmodels =0.14.1 =py38h7092abf_0
     - xgboost =2.1.1 =cpu_pyhb8f9a19_2
 
-    # 327 secondary packages :
+    # 328 secondary packages :
+    - _openmp_mutex =4.5 =4_kmp_llvm
     - _py-xgboost-mutex =2.0 =cpu_0
     - adwaita-icon-theme =48.1 =unix_1
     - alembic =1.14.0 =pyhd8ed1ab_0
@@ -225,7 +226,7 @@ requirements:
     - matplotlib-base =3.7.3 =py38hcd1b199_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - missingno =0.5.2 =pyhd8ed1ab_0
-    - mkl =2023.2.0 =h54c2260_50500
+    - mkl =2023.2.0 =h694c41f_50501
     - mlflow =1.26.1 =py38hf6bc2c6_0
     - mlxtend =0.23.4 =pyhd8ed1ab_0
     - mpc =1.3.1 =h9d8efa1_1
