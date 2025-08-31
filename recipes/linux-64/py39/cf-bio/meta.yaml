@@ -43,8 +43,8 @@ requirements:
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - attr =2.5.1 =h166bdaf_1
     - blosc =1.21.6 =he440d0b_1
-    - brotli =1.1.0 =hb9d3cd8_3
-    - brotli-bin =1.1.0 =hb9d3cd8_3
+    - brotli =1.1.0 =hb03c661_4
+    - brotli-bin =1.1.0 =hb03c661_4
     - bzip2 =1.0.8 =h4bc722e_7
     - c-ares =1.34.5 =hb9d3cd8_0
     - ca-certificates =2025.8.3 =hbd8a1cb_0
@@ -114,11 +114,11 @@ requirements:
     - libasprintf =0.25.1 =h3f43e3d_1
     - libasprintf-devel =0.25.1 =h3f43e3d_1
     - libblas =3.9.0 =34_h59b9bed_openblas
-    - libboost =1.86.0 =h6c02f8c_3
+    - libboost =1.86.0 =hed09d94_4
     - libboost-python =1.86.0 =py39hf59e57a_3
-    - libbrotlicommon =1.1.0 =hb9d3cd8_3
-    - libbrotlidec =1.1.0 =hb9d3cd8_3
-    - libbrotlienc =1.1.0 =hb9d3cd8_3
+    - libbrotlicommon =1.1.0 =hb03c661_4
+    - libbrotlidec =1.1.0 =hb03c661_4
+    - libbrotlienc =1.1.0 =hb03c661_4
     - libcap =2.75 =h39aace5_0
     - libcblas =3.9.0 =34_he106b2a_openblas
     - libclang-cpp20.1 =20.1.8 =default_hddf928d_0

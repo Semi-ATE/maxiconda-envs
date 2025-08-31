@@ -80,9 +80,9 @@ requirements:
     - babel =2.17.0 =pyhd8ed1ab_0
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.1.0 =h6e16a3a_3
-    - brotli-bin =1.1.0 =h6e16a3a_3
-    - brotli-python =1.1.0 =py311hc356e98_3
+    - brotli =1.1.0 =h1c43f85_4
+    - brotli-bin =1.1.0 =h1c43f85_4
+    - brotli-python =1.1.0 =py311h7b20566_4
     - bwidget =1.10.1 =h694c41f_1
     - bzip2 =1.0.8 =hfdf4475_7
     - c-ares =1.34.5 =hf13058a_0
@@ -108,7 +108,7 @@ requirements:
     - compiler-rt =20.1.8 =h6456c34_0
     - compiler-rt_osx-64 =20.1.8 =hf09ce48_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
-    - contourpy =1.3.3 =py311hd4d69bb_1
+    - contourpy =1.3.3 =py311hd4d69bb_2
     - cpython =3.11.13 =py311hd8ed1ab_0
     - curl =8.14.1 =h5dec5d8_0
     - cycler =0.12.1 =pyhd8ed1ab_1
@@ -180,9 +180,9 @@ requirements:
     - lerc =4.0.0 =hcca01a6_1
     - libasprintf =0.25.1 =h3184127_1
     - libblas =3.9.0 =34_h7f60823_openblas
-    - libbrotlicommon =1.1.0 =h6e16a3a_3
-    - libbrotlidec =1.1.0 =h6e16a3a_3
-    - libbrotlienc =1.1.0 =h6e16a3a_3
+    - libbrotlicommon =1.1.0 =h1c43f85_4
+    - libbrotlidec =1.1.0 =h1c43f85_4
+    - libbrotlienc =1.1.0 =h1c43f85_4
     - libcblas =3.9.0 =34_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang-cpp20.1 =20.1.8 =default_hd2a208e_0
@@ -435,7 +435,7 @@ requirements:
     - r-rmarkdown =2.29 =r44hc72bb7e_0
     - r-rpart =4.1.24 =r44h79f565e_0
     - r-rstudioapi =0.17.1 =r44hc72bb7e_0
-    - r-rvest =1.0.4 =r44hc72bb7e_1
+    - r-rvest =1.0.5 =r44hc72bb7e_0
     - r-sass =0.4.10 =r44h2711daa_0
     - r-scales =1.4.0 =r44hc72bb7e_0
     - r-selectr =0.4_2 =r44hc72bb7e_4
@@ -460,7 +460,7 @@ requirements:
     - r-tinytex =0.57 =r44hc72bb7e_0
     - r-triebeard =0.4.1 =r44h813e631_3
     - r-ttr =0.24.4 =r44h6b9d099_1
-    - r-tzdb =0.5.0 =r44h2711daa_0
+    - r-tzdb =0.5.0 =r44h813e631_1
     - r-urltools =1.7.3.1 =r44h813e631_0
     - r-utf8 =1.2.6 =r44h79f565e_0
     - r-uuid =1.2_1 =r44h6b9d099_0
@@ -474,7 +474,7 @@ requirements:
     - r-xts =0.14.1 =r44h362b90a_0
     - r-yaml =2.3.10 =r44h6b9d099_0
     - r-zoo =1.8_14 =r44h79f565e_0
-    - rapidfuzz =3.14.0 =py311h7b20566_0
+    - rapidfuzz =3.14.0 =py311h7b20566_1
     - readline =8.2 =h7cca4af_2
     - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1

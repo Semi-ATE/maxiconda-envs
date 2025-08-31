@@ -84,9 +84,9 @@ requirements:
     - bcrypt =4.3.0 =py39hce6d397_1
     - blinker =1.9.0 =pyhff2d567_0
     - bottleneck =1.5.0 =py39h86e9f7f_0
-    - brotli =1.1.0 =h6e16a3a_3
-    - brotli-bin =1.1.0 =h6e16a3a_3
-    - brotli-python =1.1.0 =py39hdf37715_3
+    - brotli =1.1.0 =h1c43f85_4
+    - brotli-bin =1.1.0 =h1c43f85_4
+    - brotli-python =1.0.9 =py39h7a8716b_8
     - bzip2 =1.0.8 =hfdf4475_7
     - c-ares =1.34.5 =hf13058a_0
     - ca-certificates =2025.8.3 =hbd8a1cb_0
@@ -219,10 +219,10 @@ requirements:
     - libarrow-dataset =20.0.0 =hdc277a7_19_cpu
     - libarrow-substrait =20.0.0 =h80f2954_19_cpu
     - libblas =3.9.0 =20_osx64_mkl
-    - libboost =1.88.0 =hf0da243_1
-    - libbrotlicommon =1.1.0 =h6e16a3a_3
-    - libbrotlidec =1.1.0 =h6e16a3a_3
-    - libbrotlienc =1.1.0 =h6e16a3a_3
+    - libboost =1.88.0 =hb2bbd1d_2
+    - libbrotlicommon =1.1.0 =h1c43f85_4
+    - libbrotlidec =1.1.0 =h1c43f85_4
+    - libbrotlienc =1.1.0 =h1c43f85_4
     - libcblas =3.9.0 =20_osx64_mkl
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =20.1.8 =default_ha0cc96f_0

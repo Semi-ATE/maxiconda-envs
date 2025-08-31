@@ -82,9 +82,9 @@ requirements:
     - binutils_impl_win-64 =2.44 =h095e170_1
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.1.0 =h2466b09_3
-    - brotli-bin =1.1.0 =h2466b09_3
-    - brotli-python =1.1.0 =py310h9e98ed7_3
+    - brotli =1.1.0 =hfd05255_4
+    - brotli-bin =1.1.0 =hfd05255_4
+    - brotli-python =1.1.0 =py310h73ae2b4_4
     - bwidget =1.10.1 =h57928b3_1
     - bzip2 =1.0.8 =h2466b09_7
     - ca-certificates =2025.8.3 =h4c7d964_0
@@ -167,9 +167,9 @@ requirements:
     - ld_impl_win-64 =2.44 =hae1bf67_1
     - lerc =4.0.0 =h6470a55_1
     - libblas =3.9.0 =34_h5709861_mkl
-    - libbrotlicommon =1.1.0 =h2466b09_3
-    - libbrotlidec =1.1.0 =h2466b09_3
-    - libbrotlienc =1.1.0 =h2466b09_3
+    - libbrotlicommon =1.1.0 =hfd05255_4
+    - libbrotlidec =1.1.0 =hfd05255_4
+    - libbrotlienc =1.1.0 =hfd05255_4
     - libcblas =3.9.0 =34_h2a3cdd5_mkl
     - libclang13 =20.1.8 =default_hadf22e1_0
     - libcurl =8.14.1 =h88aaa65_0
@@ -256,7 +256,7 @@ requirements:
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyparsing =3.2.3 =pyhe01879c_2
     - pyqt5-sip =12.17.0 =py310h9e98ed7_1
-    - pyside6 =6.9.1 =py310h2d19612_0
+    - pyside6 =6.9.2 =py310h2d19612_0
     - pysocks =1.7.1 =pyh09c184e_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
@@ -270,7 +270,7 @@ requirements:
     - pyzmq =27.0.2 =py310h535538e_2
     - qhull =2020.2 =hc790b64_5
     - qt-main =5.15.15 =hb098fff_5
-    - qt6-main =6.9.1 =h02ddd7d_2
+    - qt6-main =6.9.2 =h236c7cd_0
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r44h11b023d_0
     - r-assertthat =0.2.1 =r44hc72bb7e_5
@@ -412,7 +412,7 @@ requirements:
     - r-rmarkdown =2.29 =r44hc72bb7e_0
     - r-rpart =4.1.24 =r44h11b023d_0
     - r-rstudioapi =0.17.1 =r44hc72bb7e_0
-    - r-rvest =1.0.4 =r44hc72bb7e_1
+    - r-rvest =1.0.5 =r44hc72bb7e_0
     - r-sass =0.4.10 =r44h8ae3a7c_0
     - r-scales =1.4.0 =r44hc72bb7e_0
     - r-selectr =0.4_2 =r44hc72bb7e_4
@@ -437,7 +437,7 @@ requirements:
     - r-tinytex =0.57 =r44hc72bb7e_0
     - r-triebeard =0.4.1 =r44hd8a2815_3
     - r-ttr =0.24.4 =r44h11b023d_1
-    - r-tzdb =0.5.0 =r44h8ae3a7c_0
+    - r-tzdb =0.5.0 =r44hd8a2815_1
     - r-urltools =1.7.3.1 =r44hd8a2815_0
     - r-utf8 =1.2.6 =r44h11b023d_0
     - r-uuid =1.2_1 =r44h11b023d_0
@@ -451,7 +451,7 @@ requirements:
     - r-xts =0.14.1 =r44h11b023d_0
     - r-yaml =2.3.10 =r44h11b023d_0
     - r-zoo =1.8_14 =r44h11b023d_0
-    - rapidfuzz =3.14.0 =py310h73ae2b4_0
+    - rapidfuzz =3.14.0 =py310h73ae2b4_1
     - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0

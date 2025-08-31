@@ -42,8 +42,8 @@ requirements:
     - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
     - boost =1.78.0 =py37h2cdfcc5_0
     - boost-cpp =1.78.0 =h9f4b32c_4
-    - brotli =1.1.0 =h2466b09_3
-    - brotli-bin =1.1.0 =h2466b09_3
+    - brotli =1.1.0 =hfd05255_4
+    - brotli-bin =1.1.0 =hfd05255_4
     - bzip2 =1.0.8 =h2466b09_7
     - ca-certificates =2025.8.3 =h4c7d964_0
     - cairo =1.16.0 =hd694305_1014
@@ -96,9 +96,9 @@ requirements:
     - libasprintf =0.22.5 =h5728263_3
     - libasprintf-devel =0.22.5 =h5728263_3
     - libblas =3.9.0 =34_h5709861_mkl
-    - libbrotlicommon =1.1.0 =h2466b09_3
-    - libbrotlidec =1.1.0 =h2466b09_3
-    - libbrotlienc =1.1.0 =h2466b09_3
+    - libbrotlicommon =1.1.0 =hfd05255_4
+    - libbrotlidec =1.1.0 =hfd05255_4
+    - libbrotlienc =1.1.0 =hfd05255_4
     - libcblas =3.9.0 =34_h2a3cdd5_mkl
     - libclang =15.0.7 =default_h3a3e6c3_5
     - libclang13 =15.0.7 =default_hf64faad_5

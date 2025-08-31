@@ -80,9 +80,9 @@ requirements:
     - babel =2.17.0 =pyhd8ed1ab_0
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.1.0 =h5505292_3
-    - brotli-bin =1.1.0 =h5505292_3
-    - brotli-python =1.1.0 =py39h941272d_3
+    - brotli =1.1.0 =h6caf38d_4
+    - brotli-bin =1.1.0 =h6caf38d_4
+    - brotli-python =1.0.9 =py39h23fbdae_8
     - bwidget =1.10.1 =hce30654_1
     - bzip2 =1.0.8 =h99b78c6_7
     - c-ares =1.34.5 =h5505292_0
@@ -181,9 +181,9 @@ requirements:
     - lerc =4.0.0 =hd64df32_1
     - libasprintf =0.25.1 =h493aca8_0
     - libblas =3.9.0 =34_h10e41b3_openblas
-    - libbrotlicommon =1.1.0 =h5505292_3
-    - libbrotlidec =1.1.0 =h5505292_3
-    - libbrotlienc =1.1.0 =h5505292_3
+    - libbrotlicommon =1.1.0 =h6caf38d_4
+    - libbrotlidec =1.1.0 =h6caf38d_4
+    - libbrotlienc =1.1.0 =h6caf38d_4
     - libcblas =3.9.0 =34_hb3479ef_openblas
     - libclang-cpp17 =17.0.6 =default_hf90f093_8
     - libclang-cpp20.1 =20.1.8 =default_h649e436_0
@@ -438,7 +438,7 @@ requirements:
     - r-rmarkdown =2.29 =r44hc72bb7e_0
     - r-rpart =4.1.24 =r44h570997c_0
     - r-rstudioapi =0.17.1 =r44hc72bb7e_0
-    - r-rvest =1.0.4 =r44hc72bb7e_1
+    - r-rvest =1.0.5 =r44hc72bb7e_0
     - r-sass =0.4.10 =r44h31118f2_0
     - r-scales =1.4.0 =r44hc72bb7e_0
     - r-selectr =0.4_2 =r44hc72bb7e_4
@@ -463,7 +463,7 @@ requirements:
     - r-tinytex =0.57 =r44hc72bb7e_0
     - r-triebeard =0.4.1 =r44h088c9a0_3
     - r-ttr =0.24.4 =r44h07cda29_1
-    - r-tzdb =0.5.0 =r44h31118f2_0
+    - r-tzdb =0.5.0 =r44h088c9a0_1
     - r-urltools =1.7.3.1 =r44h088c9a0_0
     - r-utf8 =1.2.6 =r44h570997c_0
     - r-uuid =1.2_1 =r44h07cda29_0

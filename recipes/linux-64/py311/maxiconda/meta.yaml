@@ -53,7 +53,7 @@ requirements:
     - regex =2025.7.34 =py311h49ec1c0_0
     - requests =2.32.5 =pyhd8ed1ab_0
     - rust =1.89.0 =h53717f1_0
-    - scipy =1.16.1 =py311h33d6a90_0
+    - scipy =1.16.1 =py311h1e13796_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =0.2.6 =py_1
     - sqlalchemy =2.0.43 =py311h49ec1c0_0
@@ -84,9 +84,9 @@ requirements:
     - binutils_impl_linux-64 =2.44 =h4bf12b8_1
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.1.0 =hb9d3cd8_3
-    - brotli-bin =1.1.0 =hb9d3cd8_3
-    - brotli-python =1.1.0 =py311hfdbb021_3
+    - brotli =1.1.0 =hb03c661_4
+    - brotli-bin =1.1.0 =hb03c661_4
+    - brotli-python =1.1.0 =py311h1ddb823_4
     - bwidget =1.10.1 =ha770c72_1
     - bzip2 =1.0.8 =h4bc722e_7
     - c-ares =1.34.5 =hb9d3cd8_0
@@ -102,7 +102,7 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
-    - contourpy =1.3.3 =py311hdf67eae_1
+    - contourpy =1.3.3 =py311hdf67eae_2
     - cpython =3.11.13 =py311hd8ed1ab_0
     - curl =8.14.1 =h332b0f4_0
     - cycler =0.12.1 =pyhd8ed1ab_1
@@ -182,9 +182,9 @@ requirements:
     - libasprintf =0.25.1 =h3f43e3d_1
     - libasprintf-devel =0.25.1 =h3f43e3d_1
     - libblas =3.9.0 =34_h59b9bed_openblas
-    - libbrotlicommon =1.1.0 =hb9d3cd8_3
-    - libbrotlidec =1.1.0 =hb9d3cd8_3
-    - libbrotlienc =1.1.0 =hb9d3cd8_3
+    - libbrotlicommon =1.1.0 =hb03c661_4
+    - libbrotlidec =1.1.0 =hb03c661_4
+    - libbrotlienc =1.1.0 =hb03c661_4
     - libcap =2.75 =h39aace5_0
     - libcblas =3.9.0 =34_he106b2a_openblas
     - libclang-cpp20.1 =20.1.8 =default_hddf928d_0
@@ -306,7 +306,7 @@ requirements:
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyparsing =3.2.3 =pyhe01879c_2
     - pyqt5-sip =12.17.0 =py311hfdbb021_1
-    - pyside6 =6.9.1 =py311h846acb3_0
+    - pyside6 =6.9.2 =py311h72d58bf_0
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
@@ -318,7 +318,7 @@ requirements:
     - pyzmq =27.0.2 =py311h2315fbb_2
     - qhull =2020.2 =h434a139_5
     - qt-main =5.15.15 =h3a7ef08_5
-    - qt6-main =6.9.1 =h6ac528c_2
+    - qt6-main =6.9.2 =h3fc9a0a_0
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r44h2b5f3a1_0
     - r-assertthat =0.2.1 =r44hc72bb7e_5
@@ -460,7 +460,7 @@ requirements:
     - r-rmarkdown =2.29 =r44hc72bb7e_0
     - r-rpart =4.1.24 =r44h2b5f3a1_0
     - r-rstudioapi =0.17.1 =r44hc72bb7e_0
-    - r-rvest =1.0.4 =r44hc72bb7e_1
+    - r-rvest =1.0.5 =r44hc72bb7e_0
     - r-sass =0.4.10 =r44h93ab643_0
     - r-scales =1.4.0 =r44hc72bb7e_0
     - r-selectr =0.4_2 =r44hc72bb7e_4
@@ -485,7 +485,7 @@ requirements:
     - r-tinytex =0.57 =r44hc72bb7e_0
     - r-triebeard =0.4.1 =r44h3697838_3
     - r-ttr =0.24.4 =r44hdb488b9_1
-    - r-tzdb =0.5.0 =r44h93ab643_0
+    - r-tzdb =0.5.0 =r44h3697838_1
     - r-urltools =1.7.3.1 =r44h3697838_0
     - r-utf8 =1.2.6 =r44h2b5f3a1_0
     - r-uuid =1.2_1 =r44hdb488b9_0
@@ -499,7 +499,7 @@ requirements:
     - r-xts =0.14.1 =r44h2b5f3a1_0
     - r-yaml =2.3.10 =r44hdb488b9_0
     - r-zoo =1.8_14 =r44h2b5f3a1_0
-    - rapidfuzz =3.14.0 =py311h1ddb823_0
+    - rapidfuzz =3.14.0 =py311h1ddb823_1
     - readline =8.2 =h8c095d6_2
     - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
