@@ -53,8 +53,8 @@ requirements:
     - jupyter_core =5.8.1 =pyh31011fe_0
     - krb5 =1.21.3 =h237132a_0
     - libclang-cpp17 =17.0.6 =default_hf90f093_8
-    - libclang13 =20.1.8 =default_h91d7d2a_0
-    - libcxx =20.1.8 =hf598326_1
+    - libclang13 =21.1.0 =default_h91d7d2a_0
+    - libcxx =21.1.0 =hf598326_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libffi =3.4.6 =h1da3d7d_1
     - libglib =2.84.3 =h587fa63_0
@@ -63,7 +63,7 @@ requirements:
     - libintl-devel =0.25.1 =h493aca8_0
     - libjpeg-turbo =3.1.0 =h5505292_0
     - libllvm17 =17.0.6 =hc4b4ae8_3
-    - libllvm20 =20.1.8 =h846d351_0
+    - libllvm21 =21.1.0 =h846d351_0
     - liblzma =5.8.1 =h39f12f2_2
     - liblzma-devel =5.8.1 =h39f12f2_2
     - libntlm =1.8 =h5505292_0

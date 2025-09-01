@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.2 =pyhd8ed1ab_1
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
 
-    # 172 secondary packages :
+    # 173 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.14 =h86ecc28_0
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -84,7 +84,7 @@ requirements:
     - libcap =2.75 =h51d75a7_0
     - libcblas =3.9.0 =34_hab92f65_openblas
     - libclang-cpp20.1 =20.1.8 =default_hf07bfb7_0
-    - libclang13 =20.1.8 =default_h173080d_0
+    - libclang13 =21.1.0 =default_h173080d_0
     - libcups =2.3.3 =h5cdc715_5
     - libdrm =2.4.125 =h86ecc28_0
     - libedit =3.1.20250104 =pl5321h976ea20_0
@@ -112,6 +112,7 @@ requirements:
     - libjpeg-turbo =3.1.0 =h86ecc28_0
     - liblapack =3.9.0 =34_h411afd4_openblas
     - libllvm20 =20.1.8 =h2b567e5_0
+    - libllvm21 =21.1.0 =h2b567e5_0
     - liblzma =5.8.1 =h86ecc28_2
     - libnsl =2.0.1 =h86ecc28_1
     - libntlm =1.4 =hf897c2e_1002

@@ -35,7 +35,7 @@ requirements:
     - spyder =6.0.8 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 354 secondary packages :
+    # 355 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -104,7 +104,7 @@ requirements:
     - fonttools =4.59.1 =py39heb7d2ae_0
     - freetype =2.13.3 =ha770c72_1
     - frozenlist =1.7.0 =py39h53edacf_0
-    - fzf =0.65.1 =hf1419bc_0
+    - fzf =0.65.2 =h6138981_0
     - gettext =0.25.1 =h3f43e3d_1
     - gettext-tools =0.25.1 =h3f43e3d_1
     - giflib =5.2.2 =hd590300_0
@@ -159,7 +159,7 @@ requirements:
     - libcap =2.75 =h39aace5_0
     - libcblas =3.9.0 =34_he106b2a_openblas
     - libclang-cpp20.1 =20.1.8 =default_hddf928d_0
-    - libclang13 =20.1.8 =default_ha444ac7_0
+    - libclang13 =21.1.0 =default_ha444ac7_0
     - libcups =2.3.3 =hb8b1518_5
     - libdeflate =1.24 =h86f0d12_0
     - libdrm =2.4.125 =hb9d3cd8_0
@@ -189,6 +189,7 @@ requirements:
     - libjpeg-turbo =3.1.0 =hb9d3cd8_0
     - liblapack =3.9.0 =34_h7ac8fdf_openblas
     - libllvm20 =20.1.8 =hecd9e04_0
+    - libllvm21 =21.1.0 =hecd9e04_0
     - liblzma =5.8.1 =hb9d3cd8_2
     - libnsl =2.0.1 =hb9d3cd8_1
     - libntlm =1.8 =hb9d3cd8_0

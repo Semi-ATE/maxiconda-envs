@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.6.1 =py312h2f459f6_0
     - cython =3.1.3 =py312h09360c7_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.138.8 =pyha770c72_0
+    - hypothesis =6.138.10 =pyha770c72_0
     - ipython =9.5.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.5 =py312hb401068_0
@@ -91,23 +91,23 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h950ec3b_0
-    - cctools_osx-64 =1024.3 =h9667cbc_0
+    - cctools_osx-64 =1024.3 =hb0509f7_1
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py312hf857d28_0
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
-    - clang =20.1.8 =default_hb6a0502_0
-    - clang-20 =20.1.8 =default_hd2a208e_0
-    - clang_impl_osx-64 =20.1.8 =h1545fa4_25
-    - clang_osx-64 =20.1.8 =h7e5c614_25
-    - clangxx =20.1.8 =default_h4c96677_0
-    - clangxx_impl_osx-64 =20.1.8 =he906b44_25
-    - clangxx_osx-64 =20.1.8 =h7e5c614_25
+    - clang =21.1.0 =default_hb6a0502_0
+    - clang-21 =21.1.0 =default_hd2a208e_0
+    - clang_impl_osx-64 =21.1.0 =h911b69a_25
+    - clang_osx-64 =21.1.0 =h7e5c614_25
+    - clangxx =21.1.0 =default_h4c96677_0
+    - clangxx_impl_osx-64 =21.1.0 =haf6708d_25
+    - clangxx_osx-64 =21.1.0 =h7e5c614_25
     - click =8.2.1 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - compiler-rt =20.1.8 =h6456c34_0
-    - compiler-rt_osx-64 =20.1.8 =hf09ce48_0
+    - compiler-rt =21.1.0 =h6456c34_0
+    - compiler-rt_osx-64 =21.1.0 =hf09ce48_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py312hedd4973_2
     - cpython =3.12.11 =py312hd8ed1ab_0
@@ -177,7 +177,7 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lark =1.2.2 =pyhd8ed1ab_1
     - lcms2 =2.17 =h72f5680_0
-    - ld64_osx-64 =955.13 =h19d01cd_0
+    - ld64_osx-64 =955.13 =h2bd93d8_1
     - lerc =4.0.0 =hcca01a6_1
     - libasprintf =0.25.1 =h3184127_1
     - libblas =3.9.0 =34_h7f60823_openblas
@@ -186,11 +186,11 @@ requirements:
     - libbrotlienc =1.1.0 =h1c43f85_4
     - libcblas =3.9.0 =34_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang-cpp20.1 =20.1.8 =default_hd2a208e_0
-    - libclang13 =20.1.8 =default_ha0cc96f_0
+    - libclang-cpp21.1 =21.1.0 =default_hd2a208e_0
+    - libclang13 =21.1.0 =default_ha0cc96f_0
     - libcurl =8.14.1 =h5dec5d8_0
-    - libcxx =20.1.8 =h3d58e20_1
-    - libcxx-devel =20.1.8 =h7c275be_1
+    - libcxx =21.1.0 =h3d58e20_0
+    - libcxx-devel =21.1.0 =h7c275be_0
     - libdeflate =1.24 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -209,7 +209,7 @@ requirements:
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
     - liblapack =3.9.0 =34_h236ab99_openblas
     - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm20 =20.1.8 =h9b4ebcc_0
+    - libllvm21 =21.1.0 =h9b4ebcc_0
     - liblzma =5.8.1 =hd471939_2
     - libnghttp2 =1.64.0 =hc7306c3_0
     - libntlm =1.8 =h6e16a3a_0
@@ -228,9 +228,9 @@ requirements:
     - libxcb =1.17.0 =hf1f96e2_0
     - libxml2 =2.13.8 =he1bc88e_1
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =20.1.8 =hf4e0ed4_2
-    - llvm-tools =20.1.8 =hc040464_0
-    - llvm-tools-20 =20.1.8 =h0167baa_0
+    - llvm-openmp =21.1.0 =hf4e0ed4_0
+    - llvm-tools =21.1.0 =hc040464_0
+    - llvm-tools-21 =21.1.0 =h0167baa_0
     - llvmlite =0.44.0 =py312ha696282_2
     - make =4.4.1 =h00291cd_2
     - markupsafe =3.0.2 =py312h3520af0_1
@@ -388,7 +388,7 @@ requirements:
     - r-magrittr =2.0.3 =r44h6b9d099_3
     - r-maps =3.4.3 =r44h79f565e_0
     - r-mass =7.3_64 =r44h79f565e_0
-    - r-matrix =1.7_3 =r44h787b422_0
+    - r-matrix =1.7_4 =r44h48ae924_0
     - r-memoise =2.0.1 =r44hc72bb7e_3
     - r-mgcv =1.9_3 =r44h1794a52_0
     - r-mime =0.13 =r44h79f565e_0

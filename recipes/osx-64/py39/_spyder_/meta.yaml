@@ -92,7 +92,7 @@ requirements:
     - fonttools =4.59.1 =py39h2753485_0
     - freetype =2.13.3 =h694c41f_1
     - frozenlist =1.7.0 =py39h262b9f6_0
-    - fzf =0.65.1 =h880ea11_0
+    - fzf =0.65.2 =h1ecb644_0
     - giflib =5.2.2 =h10d778d_0
     - glib =2.84.3 =h8efa5be_0
     - glib-tools =2.84.3 =h35d42e9_0
@@ -136,8 +136,8 @@ requirements:
     - libbrotlienc =1.1.0 =h1c43f85_4
     - libcblas =3.9.0 =34_hff6cab4_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =20.1.8 =default_ha0cc96f_0
-    - libcxx =20.1.8 =h3d58e20_1
+    - libclang13 =21.1.0 =default_ha0cc96f_0
+    - libcxx =21.1.0 =h3d58e20_0
     - libdeflate =1.24 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libexpat =2.7.1 =h21dd04a_0
@@ -153,7 +153,7 @@ requirements:
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
     - liblapack =3.9.0 =34_h236ab99_openblas
     - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm20 =20.1.8 =h9b4ebcc_0
+    - libllvm21 =21.1.0 =h9b4ebcc_0
     - liblzma =5.8.1 =hd471939_2
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =he3325bb_1
@@ -171,7 +171,7 @@ requirements:
     - libxcb =1.17.0 =hf1f96e2_0
     - libxml2 =2.13.8 =he1bc88e_1
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =20.1.8 =hf4e0ed4_2
+    - llvm-openmp =21.1.0 =hf4e0ed4_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_1
     - markupsafe =3.0.2 =py39hd18e689_1
     - matplotlib-base =3.9.4 =py39hda06d36_0

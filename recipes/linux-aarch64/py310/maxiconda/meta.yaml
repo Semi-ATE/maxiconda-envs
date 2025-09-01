@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.6.1 =py310h5b55623_0
     - cython =3.1.3 =py310h2fea770_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.138.8 =pyha770c72_0
+    - hypothesis =6.138.10 =pyha770c72_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.5 =py310hbbe02a8_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 511 secondary packages :
+    # 512 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -187,7 +187,7 @@ requirements:
     - libcap =2.75 =h51d75a7_0
     - libcblas =3.9.0 =34_hab92f65_openblas
     - libclang-cpp20.1 =20.1.8 =default_hf07bfb7_0
-    - libclang13 =20.1.8 =default_h173080d_0
+    - libclang13 =21.1.0 =default_h173080d_0
     - libcups =2.3.3 =h5cdc715_5
     - libcurl =8.14.1 =h6702fde_0
     - libdeflate =1.24 =he377734_0
@@ -220,6 +220,7 @@ requirements:
     - libjpeg-turbo =3.1.0 =h86ecc28_0
     - liblapack =3.9.0 =34_h411afd4_openblas
     - libllvm20 =20.1.8 =h2b567e5_0
+    - libllvm21 =21.1.0 =h2b567e5_0
     - liblzma =5.8.1 =h86ecc28_2
     - libnghttp2 =1.64.0 =hc8609a4_0
     - libnsl =2.0.1 =h86ecc28_1
@@ -305,7 +306,7 @@ requirements:
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyparsing =3.2.3 =pyhe01879c_2
     - pyqt5-sip =12.17.0 =py310he30c3ed_1
-    - pyside6 =6.9.2 =py310hd557e7c_0
+    - pyside6 =6.9.2 =py310hd557e7c_1
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
@@ -411,7 +412,7 @@ requirements:
     - r-magrittr =2.0.3 =r44hc1cf72c_3
     - r-maps =3.4.3 =r44hdd76399_0
     - r-mass =7.3_64 =r44hdd76399_0
-    - r-matrix =1.7_3 =r44h309c413_0
+    - r-matrix =1.7_4 =r44h8b2cba9_0
     - r-memoise =2.0.1 =r44hc72bb7e_3
     - r-mgcv =1.9_3 =r44h309c413_0
     - r-mime =0.13 =r44hdd76399_0

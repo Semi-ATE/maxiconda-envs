@@ -99,7 +99,7 @@ requirements:
     - fonttools =4.59.2 =py311h3f79411_0
     - freetype =2.13.3 =h57928b3_1
     - frozenlist =1.7.0 =py311hdf60d3a_0
-    - fzf =0.65.1 =h2d4809e_0
+    - fzf =0.65.2 =hb13f615_0
     - glib =2.84.3 =h36503ca_0
     - glib-tools =2.84.3 =he647baa_0
     - graphite2 =1.3.14 =hac47afa_2
@@ -140,7 +140,7 @@ requirements:
     - libbrotlidec =1.1.0 =hfd05255_4
     - libbrotlienc =1.1.0 =hfd05255_4
     - libcblas =3.9.0 =34_h2a3cdd5_mkl
-    - libclang13 =20.1.8 =default_hadf22e1_0
+    - libclang13 =21.1.0 =default_hadf22e1_0
     - libdeflate =1.24 =h76ddb4d_0
     - libexpat =2.7.1 =hac47afa_0
     - libffi =3.4.6 =h537db12_1
@@ -170,7 +170,7 @@ requirements:
     - libxml2 =2.13.8 =h741aa76_1
     - libxslt =1.1.43 =h25c3957_0
     - libzlib =1.3.1 =h2466b09_2
-    - llvm-openmp =20.1.8 =hfa2b4ca_2
+    - llvm-openmp =21.1.0 =hfa2b4ca_0
     - markdown-it-py =4.0.0 =pyhd8ed1ab_0
     - markupsafe =3.0.2 =py311h5082efb_1
     - matplotlib-base =3.10.5 =py311h1675fdf_0
@@ -228,7 +228,7 @@ requirements:
     - pyopenssl =25.1.0 =pyhd8ed1ab_0
     - pyparsing =3.2.3 =pyhe01879c_2
     - pyqt5-sip =12.17.0 =py311hda3d55a_1
-    - pyside6 =6.9.2 =py311h5d1a980_0
+    - pyside6 =6.9.2 =py311h5d1a980_1
     - pysocks =1.7.1 =pyh09c184e_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
@@ -297,7 +297,7 @@ requirements:
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - tzdata =2025b =h78e105d_0
     - ucrt =10.0.26100.0 =h57928b3_0
-    - ujson =5.11.0 =py311h5dfdfe8_0
+    - ujson =5.11.0 =py311h5dfdfe8_1
     - unicodedata2 =16.0.0 =py311h3485c13_1
     - urllib3 =2.5.0 =pyhd8ed1ab_0
     - vc =14.3 =h41ae7f8_31

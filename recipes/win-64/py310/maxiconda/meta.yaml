@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.6.1 =py310h29418f3_0
     - cython =3.1.3 =py310ha62228f_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.138.8 =pyha770c72_0
+    - hypothesis =6.138.10 =pyha770c72_0
     - ipython =8.37.0 =pyha7b4d00_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.5 =py310h5588dad_0
@@ -171,7 +171,7 @@ requirements:
     - libbrotlidec =1.1.0 =hfd05255_4
     - libbrotlienc =1.1.0 =hfd05255_4
     - libcblas =3.9.0 =34_h2a3cdd5_mkl
-    - libclang13 =20.1.8 =default_hadf22e1_0
+    - libclang13 =21.1.0 =default_hadf22e1_0
     - libcurl =8.14.1 =h88aaa65_0
     - libdeflate =1.24 =h76ddb4d_0
     - libexpat =2.7.1 =hac47afa_0
@@ -208,7 +208,7 @@ requirements:
     - libxml2 =2.13.8 =h741aa76_1
     - libxslt =1.1.43 =h25c3957_0
     - libzlib =1.3.1 =h2466b09_2
-    - llvm-openmp =20.1.8 =hfa2b4ca_2
+    - llvm-openmp =21.1.0 =hfa2b4ca_0
     - llvmlite =0.44.0 =py310hab3ae16_2
     - m2w64-sysroot_win-64 =12.0.0.r4.gg4f2fc60ca =h7428d3b_9
     - markupsafe =3.0.2 =py310h38315fa_1
@@ -256,7 +256,7 @@ requirements:
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyparsing =3.2.3 =pyhe01879c_2
     - pyqt5-sip =12.17.0 =py310h9e98ed7_1
-    - pyside6 =6.9.2 =py310h2d19612_0
+    - pyside6 =6.9.2 =py310h2d19612_1
     - pysocks =1.7.1 =pyh09c184e_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
@@ -363,7 +363,7 @@ requirements:
     - r-magrittr =2.0.3 =r44h11b023d_3
     - r-maps =3.4.3 =r44h11b023d_0
     - r-mass =7.3_64 =r44h11b023d_0
-    - r-matrix =1.7_3 =r44h412cb52_0
+    - r-matrix =1.7_4 =r44h5ea86f4_0
     - r-memoise =2.0.1 =r44hc72bb7e_3
     - r-mgcv =1.9_3 =r44h412cb52_0
     - r-mime =0.13 =r44h11b023d_0

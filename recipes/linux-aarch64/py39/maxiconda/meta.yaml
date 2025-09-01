@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 514 secondary packages :
+    # 515 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -189,7 +189,7 @@ requirements:
     - libcap =2.75 =h51d75a7_0
     - libcblas =3.9.0 =34_hab92f65_openblas
     - libclang-cpp20.1 =20.1.8 =default_hf07bfb7_0
-    - libclang13 =20.1.8 =default_h173080d_0
+    - libclang13 =21.1.0 =default_h173080d_0
     - libcups =2.3.3 =h5cdc715_5
     - libcurl =8.14.1 =h6702fde_0
     - libdeflate =1.24 =he377734_0
@@ -223,6 +223,7 @@ requirements:
     - liblapack =3.9.0 =34_h411afd4_openblas
     - libllvm14 =14.0.6 =h966f666_4
     - libllvm20 =20.1.8 =h2b567e5_0
+    - libllvm21 =21.1.0 =h2b567e5_0
     - liblzma =5.8.1 =h86ecc28_2
     - libnghttp2 =1.64.0 =hc8609a4_0
     - libnsl =2.0.1 =h86ecc28_1
@@ -414,7 +415,7 @@ requirements:
     - r-magrittr =2.0.3 =r44hc1cf72c_3
     - r-maps =3.4.3 =r44hdd76399_0
     - r-mass =7.3_64 =r44hdd76399_0
-    - r-matrix =1.7_3 =r44h309c413_0
+    - r-matrix =1.7_4 =r44h8b2cba9_0
     - r-memoise =2.0.1 =r44hc72bb7e_3
     - r-mgcv =1.9_3 =r44h309c413_0
     - r-mime =0.13 =r44hdd76399_0
