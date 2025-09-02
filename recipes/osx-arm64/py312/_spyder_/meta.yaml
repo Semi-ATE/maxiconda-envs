@@ -75,10 +75,10 @@ requirements:
     - contourpy =1.3.3 =py312ha0dd364_2
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
     - cpython =3.12.11 =py312hd8ed1ab_0
-    - cryptography =45.0.6 =py312h6f41444_0
+    - cryptography =45.0.7 =py312h6f41444_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =ha1cbb27_0
-    - debugpy =1.8.16 =py312he360a15_0
+    - debugpy =1.8.16 =py312he360a15_1
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.2.18 =pyhd8ed1ab_0
@@ -87,7 +87,7 @@ requirements:
     - docstring-to-markdown =0.17 =pyhe01879c_0
     - docutils =0.21.2 =pyhd8ed1ab_1
     - exceptiongroup =1.3.0 =pyhd8ed1ab_0
-    - executing =2.2.0 =pyhd8ed1ab_0
+    - executing =2.2.1 =pyhd8ed1ab_0
     - flake8 =7.1.2 =pyhd8ed1ab_0
     - fonttools =4.59.2 =py312h6daa0e5_0
     - freetype =2.13.3 =hce30654_1
@@ -97,7 +97,7 @@ requirements:
     - glib =2.84.3 =hef37679_0
     - glib-tools =2.84.3 =h857b2e6_0
     - gmp =6.3.0 =h7bae524_2
-    - gmpy2 =2.2.1 =py312h524cf62_0
+    - gmpy2 =2.2.1 =py312h711ec26_1
     - gst-plugins-base =1.24.11 =h3c5c1d0_0
     - gstreamer =1.24.11 =hfe24232_0
     - h2 =4.3.0 =pyhcf101f3_0
@@ -136,7 +136,7 @@ requirements:
     - libcblas =3.9.0 =34_hb3479ef_openblas
     - libclang-cpp17 =17.0.6 =default_hf90f093_8
     - libclang13 =21.1.0 =default_h91d7d2a_0
-    - libcxx =21.1.0 =hf598326_0
+    - libcxx =21.1.0 =hf598326_1
     - libdeflate =1.24 =h5773f1b_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libexpat =2.7.1 =hec049ff_0
@@ -270,7 +270,7 @@ requirements:
     - rich =14.1.0 =pyhe01879c_0
     - roman-numerals-py =3.1.0 =pyhd8ed1ab_0
     - rope =1.14.0 =pyhd8ed1ab_0
-    - rpds-py =0.27.1 =py312h6f58b40_0
+    - rpds-py =0.27.1 =py312h6f58b40_1
     - rtree =1.4.1 =pyh11ca60a_0
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.12.0 =py312h6b01ec3_1
