@@ -34,7 +34,7 @@ requirements:
     - hypothesis =6.138.13 =pyha770c72_0
     - ipython =9.5.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
-    - matplotlib =3.10.5 =py311h38be061_0
+    - matplotlib =3.10.6 =py311h38be061_0
     - numba =0.61.2 =py311h9806782_1
     - numpy =2.2.6 =py311h5d046bc_0
     - openpyxl =3.1.5 =py311h50c5138_1
@@ -95,7 +95,7 @@ requirements:
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h3394656_0
     - certifi =2025.8.3 =pyhd8ed1ab_0
-    - cffi =1.17.1 =py311hf29c0ef_0
+    - cffi =1.17.1 =py311h5b438cf_1
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
     - click =8.2.1 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
@@ -223,7 +223,7 @@ requirements:
     - libllvm20 =20.1.8 =hecd9e04_0
     - libllvm21 =21.1.0 =hecd9e04_0
     - liblzma =5.8.1 =hb9d3cd8_2
-    - libnghttp2 =1.64.0 =h161d5f1_0
+    - libnghttp2 =1.67.0 =had1ee68_0
     - libnsl =2.0.1 =hb9d3cd8_1
     - libntlm =1.8 =hb9d3cd8_0
     - libogg =1.3.5 =hd0c01bc_1
@@ -257,7 +257,7 @@ requirements:
     - lz4-c =1.10.0 =h5888daf_1
     - make =4.4.1 =hb9d3cd8_2
     - markupsafe =3.0.2 =py311h2dc5d0c_1
-    - matplotlib-base =3.10.5 =py311h0f3be63_0
+    - matplotlib-base =3.10.6 =py311h0f3be63_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mistune =3.1.4 =pyhcf101f3_0
     - mpc =1.3.1 =h24ddda3_1
@@ -287,7 +287,7 @@ requirements:
     - pcre2 =10.45 =hc749103_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.3.0 =py311h1322bbf_0
+    - pillow =11.3.0 =py311h3df08e7_1
     - pip =25.2 =pyh8b19718_0
     - pixman =0.46.4 =h54a6638_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
@@ -441,7 +441,7 @@ requirements:
     - r-purrr =1.1.0 =r44h54b55ab_0
     - r-quantmod =0.4.28 =r44hc72bb7e_0
     - r-r6 =2.6.1 =r44hc72bb7e_0
-    - r-ragg =1.4.0 =r44hdcc764c_0
+    - r-ragg =1.5.0 =r44h9f1dc4d_0
     - r-randomforest =4.7_1.2 =r44hb67ce94_0
     - r-rappdirs =0.3.3 =r44hb1dbf0f_3
     - r-rbokeh =0.5.2 =r44hc72bb7e_4
@@ -476,7 +476,7 @@ requirements:
     - r-survival =3.8_3 =r44h2b5f3a1_0
     - r-sys =3.4.3 =r44h2b5f3a1_0
     - r-systemfonts =1.2.3 =r44h74f4acd_0
-    - r-textshaping =1.0.2 =r44h74f4acd_0
+    - r-textshaping =1.0.3 =r44h74f4acd_0
     - r-tibble =3.3.0 =r44h2b5f3a1_0
     - r-tidyr =1.3.1 =r44h0d4f4ea_1
     - r-tidyselect =1.2.1 =r44hc72bb7e_1
@@ -507,8 +507,8 @@ requirements:
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
     - rpds-py =0.27.1 =py311h902ca64_1
-    - ruamel.yaml =0.18.15 =py311h49ec1c0_0
-    - ruamel.yaml.clib =0.2.8 =py311h9ecbd09_1
+    - ruamel.yaml =0.18.15 =py311h49ec1c0_1
+    - ruamel.yaml.clib =0.2.12 =py311h49ec1c0_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-unknown-linux-gnu =1.89.0 =h2c6d0dc_0
     - sed =4.9 =h6688a6e_0
@@ -529,7 +529,7 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_1
     - tomli =2.2.1 =pyhe01879c_2
     - tomli-w =1.2.0 =pyhd8ed1ab_0
-    - tornado =6.5.2 =py311h49ec1c0_0
+    - tornado =6.5.2 =py311h49ec1c0_1
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - types-python-dateutil =2.9.0.20250822 =pyhd8ed1ab_0
     - typing-extensions =4.15.0 =h396c80c_0
@@ -574,7 +574,7 @@ requirements:
     - yarl =1.20.1 =py311h2dc5d0c_0
     - zeromq =4.3.5 =h3b0a872_7
     - zipp =3.23.0 =pyhd8ed1ab_0
-    - zstandard =0.23.0 =py311h49ec1c0_3
+    - zstandard =0.24.0 =py311h4854a17_1
     - zstd =1.5.7 =hb8e6e7a_2
 
 about:

@@ -34,7 +34,7 @@ requirements:
     - hypothesis =6.138.13 =pyha770c72_0
     - ipython =9.5.0 =pyh6be1c34_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
-    - matplotlib =3.10.5 =py311h1ea47a8_0
+    - matplotlib =3.10.6 =py311h1ea47a8_0
     - numba =0.61.2 =py311h7afb941_1
     - numpy =2.2.6 =py311h5e411d1_0
     - openpyxl =3.1.5 =py311ha68e1ae_1
@@ -91,7 +91,7 @@ requirements:
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h5782bbf_0
     - certifi =2025.8.3 =pyhd8ed1ab_0
-    - cffi =1.17.1 =py311he736701_0
+    - cffi =1.17.1 =py311h3485c13_1
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
     - click =8.2.1 =pyh7428d3b_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
@@ -191,7 +191,7 @@ requirements:
     - libjpeg-turbo =3.1.0 =h2466b09_0
     - liblapack =3.9.0 =34_hf9ab0e9_mkl
     - liblzma =5.8.1 =h2466b09_2
-    - libnghttp2 =1.64.0 =he0c23c2_0
+    - libnghttp2 =1.67.0 =hac47afa_0
     - libogg =1.3.5 =h2466b09_1
     - libpng =1.6.50 =h7351971_1
     - libsodium =1.0.20 =hc70643c_0
@@ -212,7 +212,7 @@ requirements:
     - llvmlite =0.44.0 =py311h7c248df_2
     - m2w64-sysroot_win-64 =12.0.0.r4.gg4f2fc60ca =h7428d3b_9
     - markupsafe =3.0.2 =py311h5082efb_1
-    - matplotlib-base =3.10.5 =py311h1675fdf_0
+    - matplotlib-base =3.10.6 =py311h1675fdf_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mingw-w64-ucrt-x86_64-crt-git =12.0.0.r4.gg4f2fc60ca =h7428d3b_9
     - mingw-w64-ucrt-x86_64-headers-git =12.0.0.r4.gg4f2fc60ca =h7428d3b_9
@@ -238,7 +238,7 @@ requirements:
     - parso =0.8.5 =pyhcf101f3_0
     - pcre2 =10.45 =h99c9b8b_0
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.3.0 =py311h0f9b5fc_0
+    - pillow =11.3.0 =py311h0f9b5fc_1
     - pip =25.2 =pyh8b19718_0
     - pixman =0.46.4 =h5112557_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
@@ -392,7 +392,7 @@ requirements:
     - r-purrr =1.1.0 =r44heceb674_0
     - r-quantmod =0.4.28 =r44hc72bb7e_0
     - r-r6 =2.6.1 =r44hc72bb7e_0
-    - r-ragg =1.4.0 =r44hefd013b_0
+    - r-ragg =1.5.0 =r44h8a73c72_0
     - r-randomforest =4.7_1.2 =r44hb0f4521_0
     - r-rappdirs =0.3.3 =r44h11b023d_3
     - r-rbokeh =0.5.2 =r44hc72bb7e_4
@@ -427,7 +427,7 @@ requirements:
     - r-survival =3.8_3 =r44heeb0ed9_0
     - r-sys =3.4.3 =r44h11b023d_0
     - r-systemfonts =1.2.3 =r44h295cb35_0
-    - r-textshaping =1.0.2 =r44h295cb35_0
+    - r-textshaping =1.0.3 =r44h295cb35_0
     - r-tibble =3.3.0 =r44h11b023d_0
     - r-tidyr =1.3.1 =r44h8ae3a7c_1
     - r-tidyselect =1.2.1 =r44hc72bb7e_1
@@ -457,8 +457,8 @@ requirements:
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
     - rpds-py =0.27.1 =py311hf51aa87_1
-    - ruamel.yaml =0.18.15 =py311h3485c13_0
-    - ruamel.yaml.clib =0.2.8 =py311he736701_1
+    - ruamel.yaml =0.18.15 =py311h3485c13_1
+    - ruamel.yaml.clib =0.2.12 =py311h3485c13_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-pc-windows-msvc =1.89.0 =h17fc481_0
     - send2trash =1.8.3 =pyh5737063_1
@@ -478,7 +478,7 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_1
     - tomli =2.2.1 =pyhe01879c_2
     - tomli-w =1.2.0 =pyhd8ed1ab_0
-    - tornado =6.5.2 =py311h3485c13_0
+    - tornado =6.5.2 =py311h3485c13_1
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - types-python-dateutil =2.9.0.20250822 =pyhd8ed1ab_0
     - typing-extensions =4.15.0 =h396c80c_0
@@ -507,7 +507,7 @@ requirements:
     - yarl =1.20.1 =py311h5082efb_0
     - zeromq =4.3.5 =ha9f60a1_7
     - zipp =3.23.0 =pyhd8ed1ab_0
-    - zstandard =0.23.0 =py311h3485c13_3
+    - zstandard =0.24.0 =py311h2d646e2_1
     - zstd =1.5.7 =hbeecb71_2
 
 about:

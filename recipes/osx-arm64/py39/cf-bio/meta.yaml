@@ -73,8 +73,8 @@ requirements:
     - freetype =2.13.3 =hce30654_1
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - glew =2.1.0 =h9f76cd9_2
-    - glib =2.84.3 =hef37679_0
-    - glib-tools =2.84.3 =h857b2e6_0
+    - glib =2.84.3 =hc204ad4_1
+    - glib-tools =2.84.3 =h857b2e6_1
     - glm =1.0.1 =h6597b73_0
     - greenlet =3.2.4 =py39h2769f79_0
     - griddataformats =1.0.2 =pyhd8ed1ab_1
@@ -119,7 +119,7 @@ requirements:
     - libfreetype6 =2.13.3 =h1d14073_1
     - libgfortran =15.1.0 =hfdf1602_1
     - libgfortran5 =15.1.0 =hb74de2c_1
-    - libglib =2.84.3 =h587fa63_0
+    - libglib =2.84.3 =h4c3e6bd_1
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -129,7 +129,7 @@ requirements:
     - libllvm21 =21.1.0 =h846d351_0
     - liblzma =5.8.1 =h39f12f2_2
     - libnetcdf =4.9.2 =nompi_h2d3d5cf_118
-    - libnghttp2 =1.64.0 =h6d7220d_0
+    - libnghttp2 =1.67.0 =hc438710_0
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
     - libopenblas =0.3.30 =openmp_h60d53f8_2
@@ -168,7 +168,7 @@ requirements:
     - packaging =25.0 =pyh29332c3_1
     - parso =0.8.4 =pyhd8ed1ab_1
     - patsy =1.0.1 =pyhd8ed1ab_1
-    - pcre2 =10.45 =ha881caa_0
+    - pcre2 =10.46 =h7125dd6_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py39hfea3036_0

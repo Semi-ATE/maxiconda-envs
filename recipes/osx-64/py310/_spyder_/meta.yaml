@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =3.1.3 =py310h5563c87_2
-    - matplotlib =3.10.5 =py310h2ec42d9_0
+    - matplotlib =3.10.6 =py310h2ec42d9_0
     - numpy =2.2.6 =py310h07c5b4d_0
     - pandas =2.3.2 =py310he8aef2f_0
     - pyqt =5.15.11 =py310h6e944e8_1
@@ -43,7 +43,7 @@ requirements:
     - applaunchservices =0.3.0 =pyh534df25_4
     - appnope =0.1.4 =pyhd8ed1ab_1
     - arrow =1.3.0 =pyhd8ed1ab_1
-    - astroid =3.3.11 =py310h2ec42d9_0
+    - astroid =3.3.11 =py310h2ec42d9_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - async-timeout =5.0.1 =pyhd8ed1ab_1
     - asyncssh =2.21.0 =pyhd8ed1ab_0
@@ -53,7 +53,7 @@ requirements:
     - babel =2.17.0 =pyhd8ed1ab_0
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhd8ed1ab_1
-    - bcrypt =4.3.0 =py310h4c9a074_1
+    - bcrypt =4.3.0 =py310h80fed0c_2
     - beautifulsoup4 =4.13.5 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =25.1.0 =pyha5154f8_0
@@ -65,7 +65,7 @@ requirements:
     - bzip2 =1.0.8 =hfdf4475_7
     - ca-certificates =2025.8.3 =hbd8a1cb_0
     - certifi =2025.8.3 =pyhd8ed1ab_0
-    - cffi =1.17.1 =py310hfce808e_0
+    - cffi =1.17.1 =py310h137ab04_1
     - chardet =5.2.0 =pyhd8ed1ab_3
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
     - click =8.2.1 =pyh707e725_0
@@ -75,7 +75,7 @@ requirements:
     - contourpy =1.3.2 =py310hf166250_0
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
     - cpython =3.10.18 =py310hd8ed1ab_0
-    - cryptography =45.0.7 =py310he6f1fc6_0
+    - cryptography =45.0.7 =py310he6f1fc6_1
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =h610c526_0
     - debugpy =1.8.16 =py310h31e056b_1
@@ -94,8 +94,8 @@ requirements:
     - frozenlist =1.7.0 =py310hd4b8e4a_0
     - fzf =0.65.2 =h1ecb644_0
     - giflib =5.2.2 =h10d778d_0
-    - glib =2.84.3 =h8efa5be_0
-    - glib-tools =2.84.3 =h35d42e9_0
+    - glib =2.84.3 =hd88a82a_1
+    - glib-tools =2.84.3 =h35d42e9_1
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.2.1 =py310h71a0b2e_1
     - gst-plugins-base =1.24.11 =h09840cc_0
@@ -145,7 +145,7 @@ requirements:
     - libfreetype6 =2.13.3 =h40dfd5c_1
     - libgfortran =15.1.0 =h5f6db21_1
     - libgfortran5 =15.1.0 =hfa3c126_1
-    - libglib =2.84.3 =h5fed8df_0
+    - libglib =2.84.3 =h47d5015_1
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
@@ -173,12 +173,12 @@ requirements:
     - llvm-openmp =21.1.0 =hf4e0ed4_0
     - markdown-it-py =4.0.0 =pyhd8ed1ab_0
     - markupsafe =3.0.2 =py310h8e2f543_1
-    - matplotlib-base =3.10.5 =py310h5aa969b_0
+    - matplotlib-base =3.10.6 =py310h5aa969b_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
     - mistune =3.1.4 =pyhcf101f3_0
-    - more-itertools =10.7.0 =pyhd8ed1ab_0
+    - more-itertools =10.8.0 =pyhd8ed1ab_0
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
     - mpmath =1.3.0 =pyhd8ed1ab_1
@@ -203,10 +203,10 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.5 =pyhcf101f3_0
     - pathspec =0.12.1 =pyhd8ed1ab_1
-    - pcre2 =10.45 =hf733adb_0
+    - pcre2 =10.46 =ha3e7e28_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.3.0 =py310hbf7783a_0
+    - pillow =11.3.0 =py310h807fcf7_1
     - pip =25.2 =pyh8b19718_0
     - platformdirs =4.4.0 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhd8ed1ab_0
@@ -222,15 +222,15 @@ requirements:
     - pycparser =2.22 =pyh29332c3_1
     - pydocstyle =6.3.0 =pyhd8ed1ab_1
     - pyflakes =3.2.0 =pyhd8ed1ab_1
-    - pygithub =2.7.0 =pyhd8ed1ab_0
+    - pygithub =2.8.0 =pyhd8ed1ab_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyjwt =2.10.1 =pyhd8ed1ab_0
     - pylint =3.3.8 =pyhe01879c_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.5.0 =py310h837254d_4
-    - pyobjc-core =11.1 =py310h89b807b_0
-    - pyobjc-framework-cocoa =11.1 =py310hae5a141_0
+    - pyobjc-core =11.1 =py310h89b807b_1
+    - pyobjc-framework-cocoa =11.1 =py310h06ed557_1
     - pyobjc-framework-coreservices =11.1 =py310hbb8c376_0
     - pyobjc-framework-fsevents =11.1 =py310h2ec42d9_0
     - pyopenssl =25.1.0 =pyhd8ed1ab_0
@@ -295,7 +295,7 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_1
     - tomli =2.2.1 =pyhe01879c_2
     - tomlkit =0.13.3 =pyha770c72_0
-    - tornado =6.5.2 =py310h1b7cace_0
+    - tornado =6.5.2 =py310h1b7cace_1
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - types-python-dateutil =2.9.0.20250822 =pyhd8ed1ab_0
     - typing-extensions =4.15.0 =h396c80c_0
@@ -309,7 +309,7 @@ requirements:
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
-    - wrapt =1.17.3 =py310h1b7cace_0
+    - wrapt =1.17.3 =py310h1b7cace_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xorg-libxau =1.0.12 =h6e16a3a_0
     - xorg-libxdmcp =1.1.5 =h00291cd_0
@@ -318,7 +318,7 @@ requirements:
     - yarl =1.20.1 =py310h8e2f543_0
     - zeromq =4.3.5 =h7130eaa_7
     - zipp =3.23.0 =pyhd8ed1ab_0
-    - zstandard =0.23.0 =py310h1b7cace_3
+    - zstandard =0.24.0 =py310ha7ac7c2_1
     - zstd =1.5.7 =h8210216_2
 
 about:

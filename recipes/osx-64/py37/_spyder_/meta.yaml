@@ -78,8 +78,8 @@ requirements:
     - gettext =0.25.1 =he52a196_1
     - gettext-tools =0.25.1 =h3184127_1
     - giflib =5.2.2 =h10d778d_0
-    - glib =2.84.3 =h8efa5be_0
-    - glib-tools =2.84.3 =h35d42e9_0
+    - glib =2.84.3 =hd88a82a_1
+    - glib-tools =2.84.3 =h35d42e9_1
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.1.2 =py37h60f582e_0
     - gst-plugins-base =1.22.9 =h3fb38fc_1
@@ -130,7 +130,7 @@ requirements:
     - libgettextpo-devel =0.25.1 =h3184127_1
     - libgfortran =15.1.0 =h5f6db21_1
     - libgfortran5 =15.1.0 =hfa3c126_1
-    - libglib =2.84.3 =h5fed8df_0
+    - libglib =2.84.3 =h47d5015_1
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
@@ -185,7 +185,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
-    - pcre2 =10.45 =hf733adb_0
+    - pcre2 =10.46 =ha3e7e28_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pillow =9.2.0 =py37ha6ba2b9_2

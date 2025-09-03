@@ -94,8 +94,8 @@ requirements:
     - frozenlist =1.7.0 =py39h2ffb7dc_0
     - fzf =0.65.2 =h708ec5c_0
     - giflib =5.2.2 =h93a5062_0
-    - glib =2.84.3 =hef37679_0
-    - glib-tools =2.84.3 =h857b2e6_0
+    - glib =2.84.3 =hc204ad4_1
+    - glib-tools =2.84.3 =h857b2e6_1
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.2.1 =py39h478d0be_0
     - gst-plugins-base =1.24.11 =h3c5c1d0_0
@@ -146,7 +146,7 @@ requirements:
     - libfreetype6 =2.13.3 =h1d14073_1
     - libgfortran =15.1.0 =hfdf1602_1
     - libgfortran5 =15.1.0 =hb74de2c_1
-    - libglib =2.84.3 =h587fa63_0
+    - libglib =2.84.3 =h4c3e6bd_1
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -204,7 +204,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_1
     - pathspec =0.12.1 =pyhd8ed1ab_1
-    - pcre2 =10.45 =ha881caa_0
+    - pcre2 =10.46 =h7125dd6_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py39hfea3036_0
@@ -223,7 +223,7 @@ requirements:
     - pycparser =2.22 =pyh29332c3_1
     - pydocstyle =6.3.0 =pyhd8ed1ab_1
     - pyflakes =3.2.0 =pyhd8ed1ab_1
-    - pygithub =2.7.0 =pyhd8ed1ab_0
+    - pygithub =2.8.0 =pyhd8ed1ab_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyjwt =2.10.1 =pyhd8ed1ab_0
     - pylint =3.3.8 =pyhe01879c_0
