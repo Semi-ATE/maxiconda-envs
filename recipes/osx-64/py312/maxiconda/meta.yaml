@@ -31,10 +31,10 @@ requirements:
     - bitarray =3.6.1 =py312h2f459f6_0
     - cython =3.1.3 =py312h09360c7_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.138.13 =pyha770c72_0
+    - hypothesis =6.138.14 =pyha770c72_0
     - ipython =9.5.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
-    - matplotlib =3.10.6 =py312hb401068_0
+    - matplotlib =3.10.6 =py312hb401068_1
     - numba =0.61.2 =py312h0fa4d01_1
     - numpy =2.2.6 =py312h6693b03_0
     - openpyxl =3.1.5 =py312h732d5f6_1
@@ -170,7 +170,7 @@ requirements:
     - jupyter_events =0.12.0 =pyh29332c3_0
     - jupyter_server =2.17.0 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_1
-    - jupyterlab =4.4.6 =pyhd8ed1ab_0
+    - jupyterlab =4.4.7 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_1
     - kiwisolver =1.4.9 =py312hef387a8_1
@@ -234,7 +234,7 @@ requirements:
     - llvmlite =0.44.0 =py312ha696282_2
     - make =4.4.1 =h00291cd_2
     - markupsafe =3.0.2 =py312h3520af0_1
-    - matplotlib-base =3.10.6 =py312hb83d5b5_0
+    - matplotlib-base =3.10.6 =py312h7894933_1
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mistune =3.1.4 =pyhcf101f3_0
     - mpc =1.3.1 =h9d8efa1_1
@@ -345,7 +345,7 @@ requirements:
     - r-fs =1.6.6 =r44h2711daa_0
     - r-future =1.67.0 =r44h785f33e_0
     - r-future.apply =1.20.0 =r44hc72bb7e_0
-    - r-gargle =1.5.2 =r44h785f33e_1
+    - r-gargle =1.6.0 =r44h785f33e_0
     - r-generics =0.1.4 =r44hc72bb7e_0
     - r-ggplot2 =3.5.2 =r44hc72bb7e_0
     - r-gistr =0.9.0 =r44hc72bb7e_3

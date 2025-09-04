@@ -31,10 +31,10 @@ requirements:
     - bitarray =3.6.1 =py311h3485c13_0
     - cython =3.1.3 =py311hcaecfd5_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.138.13 =pyha770c72_0
+    - hypothesis =6.138.14 =pyha770c72_0
     - ipython =9.5.0 =pyh6be1c34_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
-    - matplotlib =3.10.6 =py311h1ea47a8_0
+    - matplotlib =3.10.6 =py311h1ea47a8_1
     - numba =0.61.2 =py311h7afb941_1
     - numpy =2.2.6 =py311h5e411d1_0
     - openpyxl =3.1.5 =py311ha68e1ae_1
@@ -157,7 +157,7 @@ requirements:
     - jupyter_events =0.12.0 =pyh29332c3_0
     - jupyter_server =2.17.0 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_1
-    - jupyterlab =4.4.6 =pyhd8ed1ab_0
+    - jupyterlab =4.4.7 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_1
     - kiwisolver =1.4.9 =py311h275cad7_1
@@ -212,7 +212,7 @@ requirements:
     - llvmlite =0.44.0 =py311h7c248df_2
     - m2w64-sysroot_win-64 =12.0.0.r4.gg4f2fc60ca =h7428d3b_9
     - markupsafe =3.0.2 =py311h5082efb_1
-    - matplotlib-base =3.10.6 =py311h1675fdf_0
+    - matplotlib-base =3.10.6 =py311h1675fdf_1
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mingw-w64-ucrt-x86_64-crt-git =12.0.0.r4.gg4f2fc60ca =h7428d3b_9
     - mingw-w64-ucrt-x86_64-headers-git =12.0.0.r4.gg4f2fc60ca =h7428d3b_9
@@ -320,7 +320,7 @@ requirements:
     - r-fs =1.6.6 =r44hd9cd2f5_0
     - r-future =1.67.0 =r44h785f33e_0
     - r-future.apply =1.20.0 =r44hc72bb7e_0
-    - r-gargle =1.5.2 =r44h785f33e_1
+    - r-gargle =1.6.0 =r44h785f33e_0
     - r-generics =0.1.4 =r44hc72bb7e_0
     - r-ggplot2 =3.5.2 =r44hc72bb7e_0
     - r-gistr =0.9.0 =r44hc72bb7e_3
