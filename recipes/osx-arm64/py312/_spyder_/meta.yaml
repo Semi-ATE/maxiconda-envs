@@ -129,11 +129,11 @@ requirements:
     - krb5 =1.21.3 =h237132a_0
     - lcms2 =2.17 =h7eeda09_0
     - lerc =4.0.0 =hd64df32_1
-    - libblas =3.9.0 =34_h10e41b3_openblas
+    - libblas =3.9.0 =35_h10e41b3_openblas
     - libbrotlicommon =1.1.0 =h6caf38d_4
     - libbrotlidec =1.1.0 =h6caf38d_4
     - libbrotlienc =1.1.0 =h6caf38d_4
-    - libcblas =3.9.0 =34_hb3479ef_openblas
+    - libcblas =3.9.0 =35_hb3479ef_openblas
     - libclang-cpp17 =17.0.6 =default_hf90f093_8
     - libclang13 =21.1.0 =default_h91d7d2a_0
     - libcxx =21.1.0 =hf598326_1
@@ -150,7 +150,7 @@ requirements:
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
     - libjpeg-turbo =3.1.0 =h5505292_0
-    - liblapack =3.9.0 =34_hc9a63f6_openblas
+    - liblapack =3.9.0 =35_hc9a63f6_openblas
     - libllvm17 =17.0.6 =hc4b4ae8_3
     - libllvm21 =21.1.0 =h846d351_0
     - liblzma =5.8.1 =h39f12f2_2
@@ -240,7 +240,7 @@ requirements:
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
     - python-gil =3.12.11 =hd8ed1ab_0
-    - python-gssapi =1.9.0 =py312h9d7026a_2
+    - python-gssapi =1.10.0 =py312h9d7026a_0
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
     - python-lsp-server =1.12.2 =pyhff2d567_0
