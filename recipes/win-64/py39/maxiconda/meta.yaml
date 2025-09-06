@@ -122,8 +122,8 @@ requirements:
     - freetype =2.13.3 =h57928b3_1
     - fribidi =1.0.10 =h8d14728_0
     - frozenlist =1.7.0 =py39h6d15d50_0
-    - gcc_impl_win-64 =15.1.0 =hb5bc704_4
-    - gfortran_impl_win-64 =15.1.0 =h792c6fe_4
+    - gcc_impl_win-64 =15.1.0 =hb5bc704_5
+    - gfortran_impl_win-64 =15.1.0 =h792c6fe_5
     - glib =2.84.3 =h36503ca_0
     - glib-tools =2.84.3 =he647baa_0
     - graphite2 =1.3.14 =hac47afa_2
@@ -131,7 +131,7 @@ requirements:
     - gsl =2.7 =hdfb1a43_0
     - gst-plugins-base =1.24.11 =h3fe0a9e_0
     - gstreamer =1.24.11 =h233a61a_0
-    - gxx_impl_win-64 =15.1.0 =h91e354b_4
+    - gxx_impl_win-64 =15.1.0 =h91e354b_5
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.2.0 =pyhd8ed1ab_0
     - harfbuzz =11.4.5 =h5f2951f_0
@@ -180,12 +180,12 @@ requirements:
     - libffi =3.4.6 =h537db12_1
     - libfreetype =2.13.3 =h57928b3_1
     - libfreetype6 =2.13.3 =h0b5ce68_1
-    - libgcc =15.1.0 =h1383e82_4
-    - libgcc-devel_win-64 =15.1.0 =hec057c1_104
-    - libgfortran =15.1.0 =h719f0c7_4
-    - libgfortran5 =15.1.0 =h997fb6f_4
+    - libgcc =15.1.0 =h1383e82_5
+    - libgcc-devel_win-64 =15.1.0 =hec057c1_105
+    - libgfortran =15.1.0 =h719f0c7_5
+    - libgfortran5 =15.1.0 =h997fb6f_5
     - libglib =2.84.3 =h1c1036b_0
-    - libgomp =15.1.0 =h1383e82_4
+    - libgomp =15.1.0 =h1383e82_5
     - libhwloc =2.12.1 =default_h88281d1_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
@@ -199,8 +199,8 @@ requirements:
     - libsodium =1.0.20 =hc70643c_0
     - libsqlite =3.50.4 =hf5d6505_0
     - libssh2 =1.11.1 =h9aa295b_0
-    - libstdcxx =15.1.0 =h904f734_4
-    - libstdcxx-devel_win-64 =15.1.0 =hec057c1_104
+    - libstdcxx =15.1.0 =h904f734_5
+    - libstdcxx-devel_win-64 =15.1.0 =hec057c1_105
     - libtiff =4.7.0 =h550210a_6
     - libuv =1.51.0 =hfd05255_1
     - libvorbis =1.3.7 =h5112557_2
@@ -507,7 +507,7 @@ requirements:
     - xorg-libxdmcp =1.1.5 =h0e40799_0
     - yaml =0.2.5 =h6a83c73_3
     - yarl =1.20.1 =py39hf73967f_0
-    - zeromq =4.3.5 =ha9f60a1_7
+    - zeromq =4.3.5 =haa12f20_8
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zstandard =0.23.0 =py39h0802e32_3
     - zstd =1.5.7 =hbeecb71_2
