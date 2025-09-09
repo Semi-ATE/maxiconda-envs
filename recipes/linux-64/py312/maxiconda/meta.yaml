@@ -31,13 +31,13 @@ requirements:
     - bitarray =3.6.1 =py312h4c3975b_0
     - cython =3.1.3 =py312h7c45ced_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.138.14 =pyha770c72_0
+    - hypothesis =6.138.15 =pyha770c72_0
     - ipython =9.5.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.6 =py312h7900ff3_1
     - numba =0.61.2 =py312h7bcfee6_1
     - numpy =2.2.6 =py312h72c5963_0
-    - openpyxl =3.1.5 =py312h710cb58_1
+    - openpyxl =3.1.5 =py312h7f6eeab_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.2 =py312hf79963d_0
     - psutil =7.0.0 =py312h4c3975b_1
@@ -62,7 +62,7 @@ requirements:
     - tqdm =4.67.1 =pyhd8ed1ab_1
     - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
-    - xmltodict =0.15.0 =pyhcf101f3_1
+    - xmltodict =0.15.1 =pyhcf101f3_0
 
     # 513 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
@@ -160,7 +160,7 @@ requirements:
     - json5 =0.12.1 =pyhd8ed1ab_0
     - jsonpointer =3.0.0 =py312h7900ff3_2
     - jsonschema =4.25.1 =pyhe01879c_0
-    - jsonschema-specifications =2025.4.1 =pyh29332c3_0
+    - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jsonschema-with-format-nongpl =4.25.1 =he01879c_0
     - jupyter-lsp =2.3.0 =pyhcf101f3_0
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
@@ -244,7 +244,7 @@ requirements:
     - libstdcxx-ng =15.1.0 =h4852527_5
     - libsystemd0 =257.7 =h4e0b6ca_0
     - libtiff =4.7.0 =h8261f1e_6
-    - libuuid =2.38.1 =h0b41bf4_0
+    - libuuid =2.41.1 =he9a06e4_0
     - libuv =1.51.0 =hb03c661_1
     - libvorbis =1.3.7 =h54a6638_2
     - libwebp-base =1.6.0 =hd42ef1d_0
@@ -574,7 +574,7 @@ requirements:
     - xorg-libxxf86vm =1.1.6 =hb9d3cd8_0
     - yaml =0.2.5 =h280c20c_3
     - yarl =1.20.1 =py312h178313f_0
-    - zeromq =4.3.5 =h3989a48_8
+    - zeromq =4.3.5 =h387f397_9
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zstandard =0.24.0 =py312h3fa7853_1
     - zstd =1.5.7 =hb8e6e7a_2
