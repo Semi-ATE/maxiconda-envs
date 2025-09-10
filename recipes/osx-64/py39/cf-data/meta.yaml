@@ -87,7 +87,7 @@ requirements:
     - brotli =1.1.0 =h1c43f85_4
     - brotli-bin =1.1.0 =h1c43f85_4
     - brotli-python =1.0.9 =py39h7a8716b_8
-    - bzip2 =1.0.8 =hfdf4475_7
+    - bzip2 =1.0.8 =h500dc9f_8
     - c-ares =1.34.5 =hf13058a_0
     - ca-certificates =2025.8.3 =hbd8a1cb_0
     - cachetools =5.5.2 =pyhd8ed1ab_0
@@ -142,21 +142,21 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.59.1 =py39h2753485_0
-    - freetype =2.13.3 =h694c41f_1
-    - fribidi =1.0.10 =hbcb3906_0
+    - freetype =2.14.0 =h694c41f_1
+    - fribidi =1.0.16 =h8616949_0
     - frozenlist =1.7.0 =py39h262b9f6_0
     - fsspec =2025.7.0 =pyhd8ed1ab_0
     - fst-pso =1.8.1 =pyhd8ed1ab_0
     - funcy =2.0 =pyhd8ed1ab_1
     - future =1.0.0 =pyhd8ed1ab_2
     - fuzzytm =2.0.5 =pyhd8ed1ab_0
-    - gdk-pixbuf =2.42.12 =h5720e38_3
+    - gdk-pixbuf =2.44.0 =h07555a4_0
     - gensim =4.3.3 =py39h64cd7fd_0
     - gflags =2.2.2 =hac325c4_1005
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.45 =pyhff2d567_0
-    - glib =2.84.3 =hd88a82a_1
-    - glib-tools =2.84.3 =h35d42e9_1
+    - glib =2.86.0 =h7f22f8f_0
+    - glib-tools =2.86.0 =h8650975_0
     - glog =0.7.1 =h2790a97_0
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.2.1 =py39h127c8af_0
@@ -225,7 +225,7 @@ requirements:
     - libbrotlienc =1.1.0 =h1c43f85_4
     - libcblas =3.9.0 =20_osx64_mkl
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =21.1.0 =default_ha0cc96f_0
+    - libclang13 =21.1.0 =default_h7f9524c_1
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.14.1 =h5dec5d8_0
     - libcxx =21.1.0 =h3d58e20_1
@@ -235,12 +235,12 @@ requirements:
     - libevent =2.1.12 =ha90c15b_1
     - libexpat =2.7.1 =h21dd04a_0
     - libffi =3.4.6 =h281671d_1
-    - libfreetype =2.13.3 =h694c41f_1
-    - libfreetype6 =2.13.3 =h40dfd5c_1
+    - libfreetype =2.14.0 =h694c41f_1
+    - libfreetype6 =2.14.0 =h6912278_1
     - libgd =2.3.3 =h8555400_11
     - libgfortran =15.1.0 =h5f6db21_1
     - libgfortran5 =15.1.0 =hfa3c126_1
-    - libglib =2.84.3 =h47d5015_1
+    - libglib =2.86.0 =h7cafd41_0
     - libgoogle-cloud =2.39.0 =hed66dea_0
     - libgoogle-cloud-storage =2.39.0 =h8ac052b_0
     - libgrpc =1.73.1 =haa69d62_0
@@ -265,7 +265,7 @@ requirements:
     - libpng =1.6.50 =h84aeda2_1
     - libpq =17.6 =hec4e20e_1
     - libprotobuf =6.31.1 =h6e993e7_1
-    - libre2-11 =2025.07.22 =h358c03a_0
+    - libre2-11 =2025.08.12 =h554ac88_1
     - librsvg =2.58.4 =h21a6cfa_3
     - libsodium =1.0.20 =hfdf4475_0
     - libsqlite =3.50.4 =h39a8b3b_0
@@ -395,7 +395,7 @@ requirements:
     - qt-main =5.15.15 =h0f7c986_5
     - querystring_parser =1.2.4 =pyhd8ed1ab_2
     - queuelib =1.8.0 =pyhd8ed1ab_0
-    - re2 =2025.07.22 =h2a5b38c_0
+    - re2 =2025.08.12 =h7df6414_1
     - readline =8.2 =h7cca4af_2
     - regex =2025.7.34 =py39hb1cfd32_0
     - requests =2.32.5 =pyhd8ed1ab_0

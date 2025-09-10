@@ -47,7 +47,7 @@ requirements:
     - backports.zoneinfo =0.2.1 =py38hcafd530_8
     - bcrypt =4.2.0 =py38h2c15f49_0
     - brotli-python =1.1.0 =py38h940360d_1
-    - bzip2 =1.0.8 =hfdf4475_7
+    - bzip2 =1.0.8 =h500dc9f_8
     - ca-certificates =2025.8.3 =hbd8a1cb_0
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hc8bcfa4_0
@@ -60,8 +60,8 @@ requirements:
     - debugpy =1.8.5 =py38h8949568_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - executing =2.1.0 =pyhd8ed1ab_0
-    - glib =2.84.3 =hd88a82a_1
-    - glib-tools =2.84.3 =h35d42e9_1
+    - glib =2.86.0 =h7f22f8f_0
+    - glib-tools =2.86.0 =h8650975_0
     - greenlet =3.0.3 =py38h1f5f77c_0
     - gst-plugins-base =1.24.11 =h09840cc_0
     - gstreamer =1.24.11 =h7d1b200_0
@@ -80,11 +80,11 @@ requirements:
     - jupyter_core =5.8.1 =pyh31011fe_0
     - krb5 =1.21.3 =h37d8d59_0
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =21.1.0 =default_ha0cc96f_0
+    - libclang13 =21.1.0 =default_h7f9524c_1
     - libcxx =21.1.0 =h3d58e20_1
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libffi =3.4.6 =h281671d_1
-    - libglib =2.84.3 =h47d5015_1
+    - libglib =2.86.0 =h7cafd41_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1

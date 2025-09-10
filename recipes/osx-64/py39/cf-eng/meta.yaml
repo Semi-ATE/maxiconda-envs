@@ -37,7 +37,7 @@ requirements:
     # 103 secondary packages :
     - appnope =0.1.4 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
-    - bzip2 =1.0.8 =hfdf4475_7
+    - bzip2 =1.0.8 =h500dc9f_8
     - ca-certificates =2025.8.3 =hbd8a1cb_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - comm =0.2.3 =pyhe01879c_0
@@ -47,8 +47,8 @@ requirements:
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
     - exceptiongroup =1.3.0 =pyhd8ed1ab_0
     - executing =2.2.0 =pyhd8ed1ab_0
-    - glib =2.84.3 =hd88a82a_1
-    - glib-tools =2.84.3 =h35d42e9_1
+    - glib =2.86.0 =h7f22f8f_0
+    - glib-tools =2.86.0 =h8650975_0
     - gst-plugins-base =1.24.11 =h09840cc_0
     - gstreamer =1.24.11 =h7d1b200_0
     - icu =75.1 =h120a0e1_0
@@ -59,22 +59,22 @@ requirements:
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.8.1 =pyh31011fe_0
     - krb5 =1.21.3 =h37d8d59_0
-    - libblas =3.9.0 =35_h7f60823_openblas
-    - libcblas =3.9.0 =35_hff6cab4_openblas
+    - libblas =3.9.0 =35_he492b99_openblas
+    - libcblas =3.9.0 =35_h9b27e0a_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =21.1.0 =default_ha0cc96f_0
+    - libclang13 =21.1.0 =default_h7f9524c_1
     - libcxx =21.1.0 =h3d58e20_1
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libexpat =2.7.1 =h21dd04a_0
     - libffi =3.4.6 =h281671d_1
     - libgfortran =15.1.0 =h5f6db21_1
     - libgfortran5 =15.1.0 =hfa3c126_1
-    - libglib =2.84.3 =h47d5015_1
+    - libglib =2.86.0 =h7cafd41_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
-    - liblapack =3.9.0 =35_h236ab99_openblas
+    - liblapack =3.9.0 =35_h859234e_openblas
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm21 =21.1.0 =h9b4ebcc_0
     - liblzma =5.8.1 =hd471939_2

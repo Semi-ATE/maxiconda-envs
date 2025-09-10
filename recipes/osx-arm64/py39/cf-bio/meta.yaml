@@ -42,7 +42,7 @@ requirements:
     - blosc =1.21.6 =h7dd00d9_1
     - brotli =1.1.0 =h6caf38d_4
     - brotli-bin =1.1.0 =h6caf38d_4
-    - bzip2 =1.0.8 =h99b78c6_7
+    - bzip2 =1.0.8 =hd037594_8
     - c-ares =1.34.5 =h5505292_0
     - ca-certificates =2025.8.3 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_1
@@ -70,11 +70,11 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.59.1 =py39hb270ea8_0
-    - freetype =2.13.3 =hce30654_1
+    - freetype =2.14.0 =hce30654_1
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - glew =2.1.0 =h9f76cd9_2
-    - glib =2.84.3 =hc204ad4_1
-    - glib-tools =2.84.3 =h857b2e6_1
+    - glib =2.86.0 =h52a91e1_0
+    - glib-tools =2.86.0 =hb9d6e3a_0
     - glm =1.0.1 =h6597b73_0
     - greenlet =3.2.4 =py39h2769f79_0
     - griddataformats =1.0.2 =pyhd8ed1ab_1
@@ -99,15 +99,15 @@ requirements:
     - lcms2 =2.17 =h7eeda09_0
     - lerc =4.0.0 =hd64df32_1
     - libaec =1.1.4 =h51d1e36_0
-    - libblas =3.9.0 =35_h10e41b3_openblas
+    - libblas =3.9.0 =35_h51639a9_openblas
     - libboost =1.86.0 =hf493ff8_4
     - libboost-python =1.86.0 =py39h7d68603_3
     - libbrotlicommon =1.1.0 =h6caf38d_4
     - libbrotlidec =1.1.0 =h6caf38d_4
     - libbrotlienc =1.1.0 =h6caf38d_4
-    - libcblas =3.9.0 =35_hb3479ef_openblas
+    - libcblas =3.9.0 =35_hb0561ab_openblas
     - libclang-cpp17 =17.0.6 =default_hf90f093_8
-    - libclang13 =21.1.0 =default_h91d7d2a_0
+    - libclang13 =21.1.0 =default_h6e8f826_1
     - libcurl =8.14.1 =h73640d1_0
     - libcxx =21.1.0 =hf598326_1
     - libdeflate =1.24 =h5773f1b_0
@@ -115,16 +115,16 @@ requirements:
     - libev =4.33 =h93a5062_2
     - libexpat =2.7.1 =hec049ff_0
     - libffi =3.4.6 =h1da3d7d_1
-    - libfreetype =2.13.3 =hce30654_1
-    - libfreetype6 =2.13.3 =h1d14073_1
+    - libfreetype =2.14.0 =hce30654_1
+    - libfreetype6 =2.14.0 =h6da58f4_1
     - libgfortran =15.1.0 =hfdf1602_1
     - libgfortran5 =15.1.0 =hb74de2c_1
-    - libglib =2.84.3 =h4c3e6bd_1
+    - libglib =2.86.0 =h1bb475b_0
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
     - libjpeg-turbo =3.1.0 =h5505292_0
-    - liblapack =3.9.0 =35_hc9a63f6_openblas
+    - liblapack =3.9.0 =35_hd9741b5_openblas
     - libllvm17 =17.0.6 =hc4b4ae8_3
     - libllvm21 =21.1.0 =h846d351_0
     - liblzma =5.8.1 =h39f12f2_2

@@ -55,7 +55,7 @@ requirements:
     - brotli =1.1.0 =hfd05255_4
     - brotli-bin =1.1.0 =hfd05255_4
     - brotli-python =1.0.9 =py37hf2a7229_7
-    - bzip2 =1.0.8 =h2466b09_7
+    - bzip2 =1.0.8 =h0ad9c76_8
     - ca-certificates =2025.8.3 =h4c7d964_0
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.15.1 =py37ha95fbe2_1
@@ -79,8 +79,8 @@ requirements:
     - freetype =2.13.3 =h57928b3_1
     - gettext =0.22.5 =h5728263_3
     - gettext-tools =0.22.5 =h5a7288d_3
-    - glib =2.84.3 =ha3795fc_1
-    - glib-tools =2.84.3 =he647baa_1
+    - glib =2.86.0 =ha3795fc_0
+    - glib-tools =2.86.0 =he647baa_0
     - gst-plugins-base =1.22.9 =h001b923_1
     - gstreamer =1.22.9 =hb4038d2_1
     - icu =70.1 =h0e60522_0
@@ -125,7 +125,7 @@ requirements:
     - libfreetype6 =2.13.3 =h0b5ce68_1
     - libgettextpo =0.22.5 =h5728263_3
     - libgettextpo-devel =0.22.5 =h5728263_3
-    - libglib =2.84.3 =h5f26cbf_1
+    - libglib =2.86.0 =h5f26cbf_0
     - libhwloc =2.11.2 =default_hc8275d1_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3

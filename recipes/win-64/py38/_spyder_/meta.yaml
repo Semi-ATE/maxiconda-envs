@@ -56,7 +56,7 @@ requirements:
     - brotli =1.1.0 =hfd05255_4
     - brotli-bin =1.1.0 =hfd05255_4
     - brotli-python =1.0.9 =py38hd3f51b4_8
-    - bzip2 =1.0.8 =h2466b09_7
+    - bzip2 =1.0.8 =h0ad9c76_8
     - ca-certificates =2025.8.3 =h4c7d964_0
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38h4cb3324_0
@@ -83,8 +83,8 @@ requirements:
     - flake8 =7.1.1 =pyhd8ed1ab_0
     - fonttools =4.53.1 =py38h4cb3324_0
     - freetype =2.13.3 =h57928b3_1
-    - glib =2.84.3 =ha3795fc_1
-    - glib-tools =2.84.3 =he647baa_1
+    - glib =2.86.0 =ha3795fc_0
+    - glib-tools =2.86.0 =he647baa_0
     - gst-plugins-base =1.24.11 =h3fe0a9e_0
     - gstreamer =1.24.11 =h233a61a_0
     - h2 =4.1.0 =pyhd8ed1ab_0
@@ -123,12 +123,12 @@ requirements:
     - libbrotlidec =1.1.0 =hfd05255_4
     - libbrotlienc =1.1.0 =hfd05255_4
     - libcblas =3.9.0 =35_h2a3cdd5_mkl
-    - libclang13 =21.1.0 =default_hadf22e1_0
+    - libclang13 =21.1.0 =default_ha2db4b5_1
     - libdeflate =1.24 =h76ddb4d_0
     - libffi =3.4.6 =h537db12_1
     - libfreetype =2.13.3 =h57928b3_1
     - libfreetype6 =2.13.3 =h0b5ce68_1
-    - libglib =2.84.3 =h5f26cbf_1
+    - libglib =2.86.0 =h5f26cbf_0
     - libhwloc =2.11.2 =default_hc8275d1_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3

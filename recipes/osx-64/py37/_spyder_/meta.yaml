@@ -55,7 +55,7 @@ requirements:
     - brotli =1.1.0 =h1c43f85_4
     - brotli-bin =1.1.0 =h1c43f85_4
     - brotli-python =1.0.9 =py37h0582d14_7
-    - bzip2 =1.0.8 =hfdf4475_7
+    - bzip2 =1.0.8 =h500dc9f_8
     - ca-certificates =2025.8.3 =hbd8a1cb_0
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - chardet =5.0.0 =py37hf985489_0
@@ -74,12 +74,12 @@ requirements:
     - entrypoints =0.4 =pyhd8ed1ab_0
     - flake8 =4.0.1 =pyhd8ed1ab_2
     - fonttools =4.38.0 =py37h8052db5_0
-    - freetype =2.13.3 =h694c41f_1
+    - freetype =2.14.0 =h694c41f_1
     - gettext =0.25.1 =he52a196_1
     - gettext-tools =0.25.1 =h3184127_1
     - giflib =5.2.2 =h10d778d_0
-    - glib =2.84.3 =hd88a82a_1
-    - glib-tools =2.84.3 =h35d42e9_1
+    - glib =2.86.0 =h7f22f8f_0
+    - glib-tools =2.86.0 =h8650975_0
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.1.2 =py37h60f582e_0
     - gst-plugins-base =1.22.9 =h3fb38fc_1
@@ -124,13 +124,13 @@ requirements:
     - libdeflate =1.14 =hb7f2c08_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libffi =3.4.6 =h281671d_1
-    - libfreetype =2.13.3 =h694c41f_1
-    - libfreetype6 =2.13.3 =h40dfd5c_1
+    - libfreetype =2.14.0 =h694c41f_1
+    - libfreetype6 =2.14.0 =h6912278_1
     - libgettextpo =0.25.1 =h3184127_1
     - libgettextpo-devel =0.25.1 =h3184127_1
     - libgfortran =15.1.0 =h5f6db21_1
     - libgfortran5 =15.1.0 =hfa3c126_1
-    - libglib =2.84.3 =h47d5015_1
+    - libglib =2.86.0 =h7cafd41_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1

@@ -78,7 +78,7 @@ requirements:
     - brotli =1.1.0 =hfd05255_4
     - brotli-bin =1.1.0 =hfd05255_4
     - brotli-python =1.0.9 =py39h99910a6_8
-    - bzip2 =1.0.8 =h2466b09_7
+    - bzip2 =1.0.8 =h0ad9c76_8
     - c-ares =1.34.5 =h2466b09_0
     - ca-certificates =2025.8.3 =h4c7d964_0
     - cachetools =5.5.2 =pyhd8ed1ab_0
@@ -133,7 +133,7 @@ requirements:
     - fonts-conda-forge =1 =0
     - fonttools =4.59.1 =py39h5769e4c_0
     - freetype =2.13.3 =h57928b3_1
-    - fribidi =1.0.10 =h8d14728_0
+    - fribidi =1.0.16 =hfd05255_0
     - frozenlist =1.7.0 =py39h6d15d50_0
     - fst-pso =1.8.1 =pyhd8ed1ab_0
     - funcy =2.0 =pyhd8ed1ab_1
@@ -206,7 +206,7 @@ requirements:
     - libbrotlidec =1.1.0 =hfd05255_4
     - libbrotlienc =1.1.0 =hfd05255_4
     - libcblas =3.9.0 =35_h2a3cdd5_mkl
-    - libclang13 =21.1.0 =default_hadf22e1_0
+    - libclang13 =21.1.0 =default_ha2db4b5_1
     - libcrc32c =1.1.2 =h0e60522_0
     - libcurl =8.14.1 =h88aaa65_0
     - libdeflate =1.24 =h76ddb4d_0
@@ -234,7 +234,7 @@ requirements:
     - libparquet =20.0.0 =h24c48c9_19_cpu
     - libpng =1.6.50 =h7351971_1
     - libprotobuf =6.31.1 =hdcda5b4_1
-    - libre2-11 =2025.07.22 =h0eb2380_0
+    - libre2-11 =2025.08.12 =h0eb2380_1
     - libsodium =1.0.20 =hc70643c_0
     - libsqlite =3.50.4 =hf5d6505_0
     - libssh2 =1.11.1 =h9aa295b_0
@@ -349,7 +349,7 @@ requirements:
     - qt6-main =6.9.1 =h02ddd7d_2
     - querystring_parser =1.2.4 =pyhd8ed1ab_2
     - queuelib =1.8.0 =pyhd8ed1ab_0
-    - re2 =2025.07.22 =h3dd2b4f_0
+    - re2 =2025.08.12 =ha104f34_1
     - regex =2025.7.34 =py39h0802e32_0
     - requests =2.32.5 =pyhd8ed1ab_0
     - requests-file =2.1.0 =pyhd8ed1ab_1

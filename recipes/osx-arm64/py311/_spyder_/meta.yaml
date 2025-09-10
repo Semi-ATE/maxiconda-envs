@@ -61,7 +61,7 @@ requirements:
     - brotli =1.1.0 =h6caf38d_4
     - brotli-bin =1.1.0 =h6caf38d_4
     - brotli-python =1.1.0 =py311hf719da1_4
-    - bzip2 =1.0.8 =h99b78c6_7
+    - bzip2 =1.0.8 =hd037594_8
     - ca-certificates =2025.8.3 =hbd8a1cb_0
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py311h146a0b8_1
@@ -89,12 +89,12 @@ requirements:
     - executing =2.2.1 =pyhd8ed1ab_0
     - flake8 =7.1.2 =pyhd8ed1ab_0
     - fonttools =4.59.2 =py311h2fe624c_0
-    - freetype =2.13.3 =hce30654_1
+    - freetype =2.14.0 =hce30654_1
     - frozenlist =1.7.0 =py311h8740443_0
     - fzf =0.65.2 =h708ec5c_0
     - giflib =5.2.2 =h93a5062_0
-    - glib =2.84.3 =hc204ad4_1
-    - glib-tools =2.84.3 =h857b2e6_1
+    - glib =2.86.0 =h52a91e1_0
+    - glib-tools =2.86.0 =hb9d6e3a_0
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.2.1 =py311hb9fe3ed_1
     - gst-plugins-base =1.24.11 =h3c5c1d0_0
@@ -128,28 +128,28 @@ requirements:
     - krb5 =1.21.3 =h237132a_0
     - lcms2 =2.17 =h7eeda09_0
     - lerc =4.0.0 =hd64df32_1
-    - libblas =3.9.0 =35_h10e41b3_openblas
+    - libblas =3.9.0 =35_h51639a9_openblas
     - libbrotlicommon =1.1.0 =h6caf38d_4
     - libbrotlidec =1.1.0 =h6caf38d_4
     - libbrotlienc =1.1.0 =h6caf38d_4
-    - libcblas =3.9.0 =35_hb3479ef_openblas
+    - libcblas =3.9.0 =35_hb0561ab_openblas
     - libclang-cpp17 =17.0.6 =default_hf90f093_8
-    - libclang13 =21.1.0 =default_h91d7d2a_0
+    - libclang13 =21.1.0 =default_h6e8f826_1
     - libcxx =21.1.0 =hf598326_1
     - libdeflate =1.24 =h5773f1b_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libexpat =2.7.1 =hec049ff_0
     - libffi =3.4.6 =h1da3d7d_1
-    - libfreetype =2.13.3 =hce30654_1
-    - libfreetype6 =2.13.3 =h1d14073_1
+    - libfreetype =2.14.0 =hce30654_1
+    - libfreetype6 =2.14.0 =h6da58f4_1
     - libgfortran =15.1.0 =hfdf1602_1
     - libgfortran5 =15.1.0 =hb74de2c_1
-    - libglib =2.84.3 =h4c3e6bd_1
+    - libglib =2.86.0 =h1bb475b_0
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
     - libjpeg-turbo =3.1.0 =h5505292_0
-    - liblapack =3.9.0 =35_hc9a63f6_openblas
+    - liblapack =3.9.0 =35_hd9741b5_openblas
     - libllvm17 =17.0.6 =hc4b4ae8_3
     - libllvm21 =21.1.0 =h846d351_0
     - liblzma =5.8.1 =h39f12f2_2
@@ -252,7 +252,7 @@ requirements:
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py311h4921393_2
-    - pyzmq =27.0.2 =py311h13abfa4_3
+    - pyzmq =27.1.0 =py311h13abfa4_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h420ef59_5
     - qstylizer =0.2.4 =pyhff2d567_0
