@@ -132,7 +132,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.59.1 =py39h5769e4c_0
-    - freetype =2.13.3 =h57928b3_1
+    - freetype =2.14.0 =h57928b3_1
     - fribidi =1.0.16 =hfd05255_0
     - frozenlist =1.7.0 =py39h6d15d50_0
     - fst-pso =1.8.1 =pyhd8ed1ab_0
@@ -196,12 +196,12 @@ requirements:
     - lcms2 =2.17 =hbcf6048_0
     - lerc =4.0.0 =h6470a55_1
     - libabseil =20250512.1 =cxx17_habfad5f_0
-    - libarrow =20.0.0 =hfd742ed_19_cpu
-    - libarrow-acero =20.0.0 =h7d8d6a5_19_cpu
-    - libarrow-dataset =20.0.0 =h7d8d6a5_19_cpu
-    - libarrow-substrait =20.0.0 =hf865cc0_19_cpu
+    - libarrow =20.0.0 =he710ba6_20_cpu
+    - libarrow-acero =20.0.0 =h7d8d6a5_20_cpu
+    - libarrow-dataset =20.0.0 =h7d8d6a5_20_cpu
+    - libarrow-substrait =20.0.0 =hf865cc0_20_cpu
     - libblas =3.9.0 =35_h5709861_mkl
-    - libboost =1.88.0 =h9dfe17d_3
+    - libboost =1.88.0 =h9dfe17d_4
     - libbrotlicommon =1.1.0 =hfd05255_4
     - libbrotlidec =1.1.0 =hfd05255_4
     - libbrotlienc =1.1.0 =hfd05255_4
@@ -213,8 +213,8 @@ requirements:
     - libevent =2.1.12 =h3671451_1
     - libexpat =2.7.1 =hac47afa_0
     - libffi =3.4.6 =h537db12_1
-    - libfreetype =2.13.3 =h57928b3_1
-    - libfreetype6 =2.13.3 =h0b5ce68_1
+    - libfreetype =2.14.0 =h57928b3_1
+    - libfreetype6 =2.14.0 =hdbac1cb_1
     - libgcc =15.1.0 =h1383e82_5
     - libgd =2.3.3 =h7208af6_11
     - libglib =2.84.3 =h1c1036b_0
@@ -231,7 +231,7 @@ requirements:
     - liblightgbm =4.6.0 =cpu_h5d2ca61_3
     - liblzma =5.8.1 =h2466b09_2
     - libogg =1.3.5 =h2466b09_1
-    - libparquet =20.0.0 =h24c48c9_19_cpu
+    - libparquet =20.0.0 =h24c48c9_20_cpu
     - libpng =1.6.50 =h7351971_1
     - libprotobuf =6.31.1 =hdcda5b4_1
     - libre2-11 =2025.08.12 =h0eb2380_1

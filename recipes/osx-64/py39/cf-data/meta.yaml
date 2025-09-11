@@ -214,12 +214,12 @@ requirements:
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
     - libabseil =20250512.1 =cxx17_hfc00f1c_0
-    - libarrow =20.0.0 =h24c4451_19_cpu
-    - libarrow-acero =20.0.0 =hdc277a7_19_cpu
-    - libarrow-dataset =20.0.0 =hdc277a7_19_cpu
-    - libarrow-substrait =20.0.0 =h80f2954_19_cpu
+    - libarrow =20.0.0 =h95d91e2_20_cpu
+    - libarrow-acero =20.0.0 =h2db2d7d_20_cpu
+    - libarrow-dataset =20.0.0 =h2db2d7d_20_cpu
+    - libarrow-substrait =20.0.0 =h4653b8a_20_cpu
     - libblas =3.9.0 =20_osx64_mkl
-    - libboost =1.88.0 =hf9ddd82_3
+    - libboost =1.88.0 =hf9ddd82_4
     - libbrotlicommon =1.1.0 =h1c43f85_4
     - libbrotlidec =1.1.0 =h1c43f85_4
     - libbrotlienc =1.1.0 =h1c43f85_4
@@ -228,7 +228,7 @@ requirements:
     - libclang13 =21.1.0 =default_h7f9524c_1
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.14.1 =h5dec5d8_0
-    - libcxx =21.1.0 =h3d58e20_1
+    - libcxx =21.1.1 =h3d58e20_0
     - libdeflate =1.24 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -261,7 +261,7 @@ requirements:
     - libopentelemetry-cpp =1.21.0 =h7d3f41d_1
     - libopentelemetry-cpp-headers =1.21.0 =h694c41f_1
     - libopus =1.5.2 =he3325bb_0
-    - libparquet =20.0.0 =hbebc5f6_19_cpu
+    - libparquet =20.0.0 =ha67a804_20_cpu
     - libpng =1.6.50 =h84aeda2_1
     - libpq =17.6 =hec4e20e_1
     - libprotobuf =6.31.1 =h6e993e7_1

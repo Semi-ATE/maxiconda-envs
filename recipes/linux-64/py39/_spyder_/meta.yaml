@@ -102,7 +102,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.59.1 =py39heb7d2ae_0
-    - freetype =2.14.0 =ha770c72_0
+    - freetype =2.14.0 =ha770c72_1
     - frozenlist =1.7.0 =py39h53edacf_0
     - fzf =0.65.2 =h6138981_0
     - gettext =0.25.1 =h3f43e3d_1
@@ -152,12 +152,12 @@ requirements:
     - lerc =4.0.0 =h0aef613_1
     - libasprintf =0.25.1 =h3f43e3d_1
     - libasprintf-devel =0.25.1 =h3f43e3d_1
-    - libblas =3.9.0 =35_h59b9bed_openblas
+    - libblas =3.9.0 =35_h4a7cf45_openblas
     - libbrotlicommon =1.1.0 =hb03c661_4
     - libbrotlidec =1.1.0 =hb03c661_4
     - libbrotlienc =1.1.0 =hb03c661_4
     - libcap =2.76 =h0b2e76d_0
-    - libcblas =3.9.0 =35_he106b2a_openblas
+    - libcblas =3.9.0 =35_h0358290_openblas
     - libclang-cpp20.1 =20.1.8 =default_h99862b1_1
     - libclang13 =21.1.0 =default_h746c552_1
     - libcups =2.3.3 =hb8b1518_5
@@ -169,8 +169,8 @@ requirements:
     - libexpat =2.7.1 =hecca717_0
     - libffi =3.4.6 =h2dba641_1
     - libflac =1.4.3 =h59595ed_0
-    - libfreetype =2.14.0 =ha770c72_0
-    - libfreetype6 =2.14.0 =h73754d4_0
+    - libfreetype =2.14.0 =ha770c72_1
+    - libfreetype6 =2.14.0 =h73754d4_1
     - libgcc =15.1.0 =h767d61c_5
     - libgcc-ng =15.1.0 =h69a702a_5
     - libgcrypt-lib =1.11.1 =hb9d3cd8_0
@@ -187,7 +187,7 @@ requirements:
     - libgpg-error =1.55 =h3f2d84a_0
     - libiconv =1.18 =h3b78370_2
     - libjpeg-turbo =3.1.0 =hb9d3cd8_0
-    - liblapack =3.9.0 =35_h7ac8fdf_openblas
+    - liblapack =3.9.0 =35_h47877c9_openblas
     - libllvm20 =20.1.8 =hecd9e04_0
     - libllvm21 =21.1.0 =hecd9e04_0
     - liblzma =5.8.1 =hb9d3cd8_2
@@ -206,7 +206,7 @@ requirements:
     - libsqlite =3.50.4 =h0c1763c_0
     - libstdcxx =15.1.0 =h8f9b012_5
     - libstdcxx-ng =15.1.0 =h4852527_5
-    - libsystemd0 =257.7 =h996ca69_1
+    - libsystemd0 =257.9 =h996ca69_0
     - libtiff =4.7.0 =h8261f1e_6
     - libuuid =2.41.1 =he9a06e4_0
     - libvorbis =1.3.7 =h54a6638_2
