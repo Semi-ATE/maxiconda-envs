@@ -53,7 +53,7 @@ requirements:
     - regex =2025.7.34 =py312h4c3975b_1
     - requests =2.32.5 =pyhd8ed1ab_0
     - rust =1.89.0 =h53717f1_0
-    - scipy =1.16.1 =py312h7a1785b_1
+    - scipy =1.16.2 =py312h7a1785b_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =0.2.6 =py_1
     - sqlalchemy =2.0.43 =py312h4c3975b_0
@@ -275,7 +275,7 @@ requirements:
     - notebook =7.4.5 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.37 =h29cc59b_0
-    - nss =3.115 =hc3c8bcf_0
+    - nss =3.116 =h445c969_0
     - openjpeg =2.5.3 =h55fea9a_1
     - openldap =2.6.10 =he970967_0
     - openssl =3.5.2 =h26f9b46_0
@@ -394,7 +394,7 @@ requirements:
     - r-httr =1.4.7 =r44hc72bb7e_1
     - r-ids =1.0.1 =r44hc72bb7e_4
     - r-ipred =0.9_15 =r44h54b55ab_2
-    - r-irdisplay =1.1 =r44hd8ed1ab_3
+    - r-irdisplay =1.1 =r44hd8ed1ab_4
     - r-irkernel =1.3.2 =r44h785f33e_2
     - r-isoband =0.2.7 =r44h3697838_4
     - r-iterators =1.0.14 =r44hc72bb7e_4
@@ -411,7 +411,7 @@ requirements:
     - r-listenv =0.9.1 =r44hc72bb7e_2
     - r-lobstr =1.1.2 =r44h3697838_5
     - r-lubridate =1.9.4 =r44h54b55ab_1
-    - r-magrittr =2.0.3 =r44h54b55ab_4
+    - r-magrittr =2.0.4 =r44h54b55ab_0
     - r-maps =3.4.3 =r44h54b55ab_1
     - r-mass =7.3_65 =r44h54b55ab_0
     - r-matrix =1.7_4 =r44h0e4624f_1
@@ -426,7 +426,7 @@ requirements:
     - r-numderiv =2016.8_1.1 =r44hc72bb7e_7
     - r-openssl =2.3.3 =r44he8289e2_0
     - r-parallelly =1.45.1 =r44h54b55ab_1
-    - r-pbdzmq =0.3_14 =r44h549f438_0
+    - r-pbdzmq =0.3_14 =r44hded8526_1
     - r-pillar =1.11.0 =r44hc72bb7e_1
     - r-pkgconfig =2.0.3 =r44hc72bb7e_5
     - r-plyr =1.8.9 =r44h3697838_3
