@@ -196,10 +196,10 @@ requirements:
     - lcms2 =2.17 =hbcf6048_0
     - lerc =4.0.0 =h6470a55_1
     - libabseil =20250512.1 =cxx17_habfad5f_0
-    - libarrow =20.0.0 =he710ba6_20_cpu
-    - libarrow-acero =20.0.0 =h7d8d6a5_20_cpu
-    - libarrow-dataset =20.0.0 =h7d8d6a5_20_cpu
-    - libarrow-substrait =20.0.0 =hf865cc0_20_cpu
+    - libarrow =20.0.0 =h5c4da8b_21_cpu
+    - libarrow-acero =20.0.0 =h7d8d6a5_21_cpu
+    - libarrow-dataset =20.0.0 =h7d8d6a5_21_cpu
+    - libarrow-substrait =20.0.0 =hf865cc0_21_cpu
     - libblas =3.9.0 =35_h5709861_mkl
     - libboost =1.88.0 =h9dfe17d_5
     - libbrotlicommon =1.1.0 =hfd05255_4
@@ -231,7 +231,7 @@ requirements:
     - liblightgbm =4.6.0 =cpu_h5d2ca61_3
     - liblzma =5.8.1 =h2466b09_2
     - libogg =1.3.5 =h2466b09_1
-    - libparquet =20.0.0 =h24c48c9_20_cpu
+    - libparquet =20.0.0 =h24c48c9_21_cpu
     - libpng =1.6.50 =h7351971_1
     - libprotobuf =6.31.1 =hdcda5b4_1
     - libre2-11 =2025.08.12 =h0eb2380_1
@@ -240,7 +240,7 @@ requirements:
     - libssh2 =1.11.1 =h9aa295b_0
     - libthrift =0.22.0 =h23985f6_1
     - libtiff =4.7.0 =h550210a_6
-    - libutf8proc =2.10.0 =hff4702e_0
+    - libutf8proc =2.11.0 =h0b34c2f_0
     - libvorbis =1.3.7 =h5112557_2
     - libwebp-base =1.6.0 =h4d5522a_0
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_9

@@ -50,7 +50,7 @@ requirements:
     - qtawesome =1.4.0 =pyh9208f05_1
     - r-base =4.4.3 =h46d4a84_2
     - r-essentials =4.4 =r44hd8ed1ab_2005
-    - regex =2025.7.34 =py311h13e5629_1
+    - regex =2025.9.1 =py311hf197a57_0
     - requests =2.32.5 =pyhd8ed1ab_0
     - rust =1.89.0 =h34a2095_0
     - scipy =1.16.0 =py311hed73a19_0
@@ -61,8 +61,8 @@ requirements:
     - sympy =1.14.0 =pyh2585a3b_105
     - tqdm =4.67.1 =pyhd8ed1ab_1
     - transitions =0.9.3 =pyhe01879c_0
-    - xlsxwriter =3.2.5 =pyhd8ed1ab_0
-    - xmltodict =0.15.1 =pyhcf101f3_0
+    - xlsxwriter =3.2.6 =pyhd8ed1ab_0
+    - xmltodict =1.0.0 =pyhcf101f3_0
 
     # 464 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
@@ -281,7 +281,7 @@ requirements:
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyobjc-core =11.1 =py311h2f44256_1
     - pyobjc-framework-cocoa =11.1 =py311hbc8e8a3_1
-    - pyparsing =3.2.3 =pyhe01879c_2
+    - pyparsing =3.2.4 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py311h74e74b8_1
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
@@ -303,7 +303,7 @@ requirements:
     - r-bit64 =4.6.0_1 =r44h735ac91_1
     - r-blob =1.2.4 =r44hc72bb7e_3
     - r-boot =1.3_32 =r44hc72bb7e_1
-    - r-broom =1.0.9 =r44hc72bb7e_1
+    - r-broom =1.0.10 =r44hc72bb7e_0
     - r-bslib =0.9.0 =r44hc72bb7e_1
     - r-cachem =1.1.0 =r44h735ac91_2
     - r-callr =3.7.6 =r44hc72bb7e_2
@@ -367,7 +367,7 @@ requirements:
     - r-ids =1.0.1 =r44hc72bb7e_4
     - r-ipred =0.9_15 =r44h735ac91_2
     - r-irdisplay =1.1 =r44hd8ed1ab_4
-    - r-irkernel =1.3.2 =r44h785f33e_2
+    - r-irkernel =1.3.2 =r44h785f33e_3
     - r-isoband =0.2.7 =r44ha730edb_4
     - r-iterators =1.0.14 =r44hc72bb7e_4
     - r-jquerylib =0.1.4 =r44hc72bb7e_4
