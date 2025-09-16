@@ -72,7 +72,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.53.1 =py38h3237794_0
-    - freetype =2.14.0 =hce30654_1
+    - freetype =2.14.1 =hce30654_0
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - glew =2.1.0 =h9f76cd9_2
     - glib =2.86.0 =h52a91e1_0
@@ -121,8 +121,8 @@ requirements:
     - libev =4.33 =h93a5062_2
     - libexpat =2.7.1 =hec049ff_0
     - libffi =3.4.6 =h1da3d7d_1
-    - libfreetype =2.14.0 =hce30654_1
-    - libfreetype6 =2.14.0 =h6da58f4_1
+    - libfreetype =2.14.1 =hce30654_0
+    - libfreetype6 =2.14.1 =h6da58f4_0
     - libgfortran =15.1.0 =hfdf1602_1
     - libgfortran5 =15.1.0 =hb74de2c_1
     - libglib =2.86.0 =h1bb475b_0
@@ -141,7 +141,7 @@ requirements:
     - libopenblas =0.3.25 =openmp_h6c19121_0
     - libopus =1.5.2 =h48c0fde_0
     - libpng =1.6.50 =h280e0eb_1
-    - libpq =16.10 =h2096de1_1
+    - libpq =16.10 =hccc6603_2
     - librdkit =2024.03.5 =h54a62e4_3
     - libsodium =1.0.18 =h27ca646_1
     - libsqlite =3.50.4 =h4237e3c_0

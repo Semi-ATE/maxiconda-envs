@@ -127,7 +127,7 @@ requirements:
     - fonts-conda-forge =1 =0
     - fonttools =4.59.2 =py311h2fe624c_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
-    - freetype =2.14.0 =hce30654_1
+    - freetype =2.14.1 =hce30654_0
     - fribidi =1.0.16 =hc919400_0
     - frozenlist =1.7.0 =py311h8740443_0
     - gfortran_impl_osx-arm64 =13.4.0 =h64b5c3f_1
@@ -194,8 +194,8 @@ requirements:
     - libev =4.33 =h93a5062_2
     - libexpat =2.7.1 =hec049ff_0
     - libffi =3.4.6 =h1da3d7d_1
-    - libfreetype =2.14.0 =hce30654_1
-    - libfreetype6 =2.14.0 =h6da58f4_1
+    - libfreetype =2.14.1 =hce30654_0
+    - libfreetype6 =2.14.1 =h6da58f4_0
     - libgettextpo =0.25.1 =h493aca8_0
     - libgfortran =5.0.0 =14_2_0_h6c33f7e_103
     - libgfortran-devel_osx-arm64 =13.4.0 =ha240a38_1
@@ -215,7 +215,7 @@ requirements:
     - libopenblas =0.3.30 =openmp_hf332438_0
     - libopus =1.5.2 =h48c0fde_0
     - libpng =1.6.50 =h280e0eb_1
-    - libpq =17.6 =h6846fd6_1
+    - libpq =17.6 =h31f7a3a_2
     - libsodium =1.0.20 =h99b78c6_0
     - libsqlite =3.50.4 =h4237e3c_0
     - libssh2 =1.11.1 =h1590b86_0
@@ -526,7 +526,7 @@ requirements:
     - zeromq =4.3.5 =h888dc83_9
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zlib =1.3.1 =h8359307_2
-    - zstandard =0.24.0 =py311hcb74504_1
+    - zstandard =0.25.0 =py311h5bb9006_0
     - zstd =1.5.7 =h6491c7d_2
 
 about:

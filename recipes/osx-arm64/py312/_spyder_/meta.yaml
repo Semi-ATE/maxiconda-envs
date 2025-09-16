@@ -90,7 +90,7 @@ requirements:
     - executing =2.2.1 =pyhd8ed1ab_0
     - flake8 =7.1.2 =pyhd8ed1ab_0
     - fonttools =4.59.2 =py312h6daa0e5_0
-    - freetype =2.14.0 =hce30654_1
+    - freetype =2.14.1 =hce30654_0
     - frozenlist =1.7.0 =py312h512c567_0
     - fzf =0.65.2 =h708ec5c_0
     - giflib =5.2.2 =h93a5062_0
@@ -141,8 +141,8 @@ requirements:
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libexpat =2.7.1 =hec049ff_0
     - libffi =3.4.6 =h1da3d7d_1
-    - libfreetype =2.14.0 =hce30654_1
-    - libfreetype6 =2.14.0 =h6da58f4_1
+    - libfreetype =2.14.1 =hce30654_0
+    - libfreetype6 =2.14.1 =h6da58f4_0
     - libgfortran =15.1.0 =hfdf1602_1
     - libgfortran5 =15.1.0 =hb74de2c_1
     - libglib =2.86.0 =h1bb475b_0
@@ -159,7 +159,7 @@ requirements:
     - libopenblas =0.3.30 =openmp_h60d53f8_2
     - libopus =1.5.2 =h48c0fde_0
     - libpng =1.6.50 =h280e0eb_1
-    - libpq =17.6 =h6846fd6_1
+    - libpq =17.6 =h31f7a3a_2
     - libsodium =1.0.20 =h99b78c6_0
     - libspatialindex =2.1.0 =h57eeb1c_0
     - libsqlite =3.50.4 =h4237e3c_0
@@ -320,7 +320,7 @@ requirements:
     - yarl =1.20.1 =py312h998013c_0
     - zeromq =4.3.5 =h888dc83_9
     - zipp =3.23.0 =pyhd8ed1ab_0
-    - zstandard =0.24.0 =py312h26de6b3_1
+    - zstandard =0.25.0 =py312h37e1c23_0
     - zstd =1.5.7 =h6491c7d_2
 
 about:

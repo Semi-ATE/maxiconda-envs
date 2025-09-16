@@ -142,7 +142,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
     - fonttools =4.59.1 =py39h2753485_0
-    - freetype =2.14.0 =h694c41f_1
+    - freetype =2.14.1 =h694c41f_0
     - fribidi =1.0.16 =h8616949_0
     - frozenlist =1.7.0 =py39h262b9f6_0
     - fsspec =2025.7.0 =pyhd8ed1ab_0
@@ -235,8 +235,8 @@ requirements:
     - libevent =2.1.12 =ha90c15b_1
     - libexpat =2.7.1 =h21dd04a_0
     - libffi =3.4.6 =h281671d_1
-    - libfreetype =2.14.0 =h694c41f_1
-    - libfreetype6 =2.14.0 =h6912278_1
+    - libfreetype =2.14.1 =h694c41f_0
+    - libfreetype6 =2.14.1 =h6912278_0
     - libgd =2.3.3 =h8555400_11
     - libgfortran =15.1.0 =h5f6db21_1
     - libgfortran5 =15.1.0 =hfa3c126_1
@@ -263,7 +263,7 @@ requirements:
     - libopus =1.5.2 =he3325bb_0
     - libparquet =20.0.0 =ha67a804_21_cpu
     - libpng =1.6.50 =h84aeda2_1
-    - libpq =17.6 =hec4e20e_1
+    - libpq =17.6 =h5a4e477_2
     - libprotobuf =6.31.1 =h6e993e7_1
     - libre2-11 =2025.08.12 =h554ac88_1
     - librsvg =2.58.4 =h21a6cfa_3

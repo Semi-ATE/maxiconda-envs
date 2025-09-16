@@ -59,7 +59,7 @@ requirements:
     - fontconfig =2.15.0 =h7e30c49_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - freetype =2.14.0 =ha770c72_1
+    - freetype =2.14.1 =ha770c72_0
     - gettext =0.25.1 =h3f43e3d_1
     - gettext-tools =0.25.1 =h3f43e3d_1
     - glib =2.86.0 =he175458_0
@@ -95,8 +95,8 @@ requirements:
     - libexpat =2.7.1 =hecca717_0
     - libffi =3.4.6 =h2dba641_1
     - libflac =1.4.3 =h59595ed_0
-    - libfreetype =2.14.0 =ha770c72_1
-    - libfreetype6 =2.14.0 =h73754d4_1
+    - libfreetype =2.14.1 =ha770c72_0
+    - libfreetype6 =2.14.1 =h73754d4_0
     - libgcc =15.1.0 =h767d61c_5
     - libgcc-ng =15.1.0 =h69a702a_5
     - libgcrypt-lib =1.11.1 =hb9d3cd8_0
@@ -124,7 +124,7 @@ requirements:
     - libopus =1.5.2 =hd0c01bc_0
     - libpciaccess =0.18 =hb9d3cd8_0
     - libpng =1.6.50 =h421ea60_1
-    - libpq =17.6 =h3675c94_1
+    - libpq =17.6 =h3675c94_2
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.50.4 =h0c1763c_0
