@@ -62,7 +62,7 @@ requirements:
     - tqdm =4.67.1 =pyhd8ed1ab_1
     - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.6 =pyhd8ed1ab_0
-    - xmltodict =1.0.0 =pyhcf101f3_0
+    - xmltodict =1.0.1 =pyhcf101f3_0
 
     # 511 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
@@ -121,7 +121,7 @@ requirements:
     - fontconfig =2.15.0 =h8dda3cd_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.59.2 =py311h164a683_0
+    - fonttools =4.60.0 =py311h164a683_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.14.1 =h8af1aa0_0
     - fribidi =1.0.16 =he30d5cf_0
@@ -186,7 +186,7 @@ requirements:
     - libbrotlienc =1.1.0 =he30d5cf_4
     - libcap =2.76 =h5706e9e_0
     - libcblas =3.9.0 =35_hd72aa62_openblas
-    - libclang-cpp20.1 =20.1.8 =default_he95a3c9_1
+    - libclang-cpp20.1 =20.1.8 =default_he95a3c9_2
     - libclang13 =21.1.0 =default_h94a09a5_1
     - libcups =2.3.3 =h5cdc715_5
     - libcurl =8.14.1 =h6702fde_0
@@ -424,7 +424,7 @@ requirements:
     - r-openssl =2.3.3 =r44hdd99bf7_0
     - r-parallelly =1.45.1 =r44h0557e7b_1
     - r-pbdzmq =0.3_14 =r44he63f4dc_1
-    - r-pillar =1.11.0 =r44hc72bb7e_1
+    - r-pillar =1.11.1 =r44hc72bb7e_0
     - r-pkgconfig =2.0.3 =r44hc72bb7e_5
     - r-plyr =1.8.9 =r44h08b74da_3
     - r-prettyunits =1.2.0 =r44hc72bb7e_2
