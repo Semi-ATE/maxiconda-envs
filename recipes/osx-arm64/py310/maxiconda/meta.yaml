@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.13.5 =pyha770c72_0
     - cython =3.1.4 =py310h482110d_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.139.1 =pyha770c72_0
+    - hypothesis =6.139.2 =pyha770c72_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.6 =py310hb6292c7_1
@@ -39,7 +39,7 @@ requirements:
     - openpyxl =3.1.5 =py310h2772267_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.2 =py310h03dc5a2_0
-    - psutil =7.0.0 =py310h7bdd564_1
+    - psutil =7.1.0 =py310hfe3a0ae_0
     - pydantic =2.11.9 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py310h3e132ea_1
     - pyserial =3.5 =pyhd8ed1ab_1
@@ -61,7 +61,7 @@ requirements:
     - tqdm =4.67.1 =pyhd8ed1ab_1
     - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.6 =pyhd8ed1ab_0
-    - xmltodict =1.0.1 =pyhcf101f3_0
+    - xmltodict =1.0.2 =pyhcf101f3_0
 
     # 466 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
@@ -113,7 +113,7 @@ requirements:
     - curl =8.14.1 =h73640d1_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =ha1cbb27_0
-    - debugpy =1.8.16 =py310hf6ed2a0_1
+    - debugpy =1.8.17 =py310h7b404bc_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
@@ -261,7 +261,7 @@ requirements:
     - pcre2 =10.45 =ha881caa_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.3.0 =py310h45d6349_2
+    - pillow =11.3.0 =py310h5de80a5_3
     - pip =25.2 =pyh8b19718_0
     - pixman =0.46.4 =h81086ad_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0

@@ -63,19 +63,19 @@ requirements:
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =25.3.0 =pyh71513ae_0
     - automat =25.4.16 =pyhd8ed1ab_0
-    - aws-c-auth =0.9.0 =h9972aa3_19
+    - aws-c-auth =0.9.1 =h1bfba95_1
     - aws-c-cal =0.9.2 =h6f29d6d_1
     - aws-c-common =0.12.4 =h1c43f85_0
     - aws-c-compression =0.3.1 =h7a4e982_6
-    - aws-c-event-stream =0.5.5 =hf5ae603_3
-    - aws-c-http =0.10.4 =hb3df2dd_0
-    - aws-c-io =0.21.2 =h46f635e_1
-    - aws-c-mqtt =0.13.3 =h6fbeeec_3
-    - aws-c-s3 =0.8.6 =he7aa9d9_2
+    - aws-c-event-stream =0.5.6 =h7f8df8c_1
+    - aws-c-http =0.10.4 =hc8fb370_1
+    - aws-c-io =0.21.4 =h5c36c82_1
+    - aws-c-mqtt =0.13.3 =had57ba2_4
+    - aws-c-s3 =0.8.6 =hd8d94e3_3
     - aws-c-sdkutils =0.2.4 =h7a4e982_1
     - aws-checksums =0.2.7 =h7a4e982_2
-    - aws-crt-cpp =0.33.1 =h89f0b4a_2
-    - aws-sdk-cpp =1.11.606 =hfeb1e55_1
+    - aws-crt-cpp =0.34.1 =h27baf13_1
+    - aws-sdk-cpp =1.11.606 =h9ad8ff9_2
     - azure-core-cpp =1.16.0 =he2a98a9_1
     - azure-identity-cpp =1.12.0 =hc0a8a32_0
     - azure-storage-blobs-cpp =12.14.0 =hb076ce7_1
@@ -214,10 +214,10 @@ requirements:
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
     - libabseil =20250512.1 =cxx17_hfc00f1c_0
-    - libarrow =20.0.0 =h7a067bb_21_cpu
-    - libarrow-acero =20.0.0 =h2db2d7d_21_cpu
-    - libarrow-dataset =20.0.0 =h2db2d7d_21_cpu
-    - libarrow-substrait =20.0.0 =h4653b8a_21_cpu
+    - libarrow =20.0.0 =h4c6809e_22_cpu
+    - libarrow-acero =20.0.0 =h2db2d7d_22_cpu
+    - libarrow-dataset =20.0.0 =h2db2d7d_22_cpu
+    - libarrow-substrait =20.0.0 =h4653b8a_22_cpu
     - libblas =3.9.0 =20_osx64_mkl
     - libboost =1.88.0 =hf9ddd82_5
     - libbrotlicommon =1.1.0 =h1c43f85_4
@@ -261,7 +261,7 @@ requirements:
     - libopentelemetry-cpp =1.21.0 =h7d3f41d_1
     - libopentelemetry-cpp-headers =1.21.0 =h694c41f_1
     - libopus =1.5.2 =he3325bb_0
-    - libparquet =20.0.0 =ha67a804_21_cpu
+    - libparquet =20.0.0 =ha67a804_22_cpu
     - libpng =1.6.50 =h84aeda2_1
     - libpq =17.6 =h5a4e477_2
     - libprotobuf =6.31.1 =h6e993e7_1
@@ -312,7 +312,7 @@ requirements:
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2.1 =pyhd8ed1ab_0
-    - nlohmann_json =3.12.0 =h92383a6_0
+    - nlohmann_json =3.12.0 =h53ec75d_1
     - nltk =3.9.1 =pyhd8ed1ab_1
     - nspr =4.37 =hbd2c7f0_0
     - nss =3.116 =h2b2a826_0
