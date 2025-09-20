@@ -50,7 +50,7 @@ requirements:
     - qtawesome =1.4.0 =pyh9208f05_1
     - r-base =4.4.3 =h938603e_2
     - r-essentials =4.4 =r44hd8ed1ab_2005
-    - regex =2025.9.1 =py310h5b55623_0
+    - regex =2025.9.18 =py310h5b55623_0
     - requests =2.32.5 =pyhd8ed1ab_0
     - rust =1.89.0 =h6cf38e9_0
     - scipy =1.15.2 =py310hf37559f_0
@@ -97,7 +97,7 @@ requirements:
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py310h7899f73_1
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
-    - click =8.2.1 =pyh707e725_0
+    - click =8.3.0 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -241,7 +241,7 @@ requirements:
     - libstdcxx-devel_linux-aarch64 =15.1.0 =hd0aa34e_105
     - libstdcxx-ng =15.1.0 =hf1166c9_5
     - libsystemd0 =257.9 =hd926fa8_0
-    - libtiff =4.7.0 =h7a57436_6
+    - libtiff =4.7.1 =h7a57436_0
     - libuuid =2.41.1 =h3e4203c_0
     - libuv =1.51.0 =he30d5cf_1
     - libvorbis =1.3.7 =h7ac5ae9_2
@@ -294,7 +294,7 @@ requirements:
     - pluggy =1.6.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
-    - prometheus_client =0.22.1 =pyhd8ed1ab_0
+    - prometheus_client =0.23.1 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.3.1 =py310heeae437_0
     - pthread-stubs =0.4 =h86ecc28_1002
@@ -433,7 +433,7 @@ requirements:
     - r-processx =3.8.6 =r44h0557e7b_1
     - r-prodlim =2025.04.28 =r44h08b74da_1
     - r-progress =1.2.3 =r44hc72bb7e_2
-    - r-progressr =0.15.1 =r44hc72bb7e_1
+    - r-progressr =0.16.0 =r44hc72bb7e_0
     - r-promises =1.3.3 =r44h08b74da_1
     - r-proxy =0.4_27 =r44h0557e7b_4
     - r-pryr =0.1.6 =r44h08b74da_3
@@ -493,7 +493,7 @@ requirements:
     - r-uuid =1.2_1 =r44h0557e7b_1
     - r-vctrs =0.6.5 =r44h08b74da_2
     - r-viridislite =0.4.2 =r44hc72bb7e_3
-    - r-vroom =1.6.5 =r44h08b74da_2
+    - r-vroom =1.6.6 =r44h08b74da_0
     - r-withr =3.0.2 =r44hc72bb7e_1
     - r-xfun =0.53 =r44h08b74da_1
     - r-xml2 =1.4.0 =r44hd4a33e6_1
