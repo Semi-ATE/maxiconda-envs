@@ -128,7 +128,7 @@ requirements:
     - gstreamer =1.24.11 =h233a61a_0
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =11.5.0 =h5f2951f_0
+    - harfbuzz =11.5.1 =h5f2951f_0
     - hpack =4.0.0 =pyh9f0ad1d_0
     - httpcore =1.0.7 =pyh29332c3_1
     - httpx =0.27.2 =pyhd8ed1ab_0
@@ -240,7 +240,7 @@ requirements:
     - notebook =7.2.2 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_0
     - openjpeg =2.5.4 =h24db6dd_0
-    - openssl =3.5.3 =h725018a_0
+    - openssl =3.5.3 =h725018a_1
     - overrides =7.7.0 =pyhd8ed1ab_0
     - packaging =25.0 =pyh29332c3_1
     - pandoc =2.19.2 =h57928b3_2
