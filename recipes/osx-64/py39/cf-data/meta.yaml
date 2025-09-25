@@ -49,7 +49,7 @@ requirements:
     # 433 secondary packages :
     - _openmp_mutex =4.5 =4_kmp_llvm
     - _py-xgboost-mutex =2.0 =cpu_0
-    - adwaita-icon-theme =48.1 =unix_1
+    - adwaita-icon-theme =49.0 =unix_0
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.12.15 =py39h2753485_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -74,8 +74,8 @@ requirements:
     - aws-c-s3 =0.8.6 =h19e4261_5
     - aws-c-sdkutils =0.2.4 =h7a4e982_1
     - aws-checksums =0.2.7 =h7a4e982_2
-    - aws-crt-cpp =0.34.3 =h3f46267_1
-    - aws-sdk-cpp =1.11.606 =h08d6979_3
+    - aws-crt-cpp =0.34.4 =h3f46267_0
+    - aws-sdk-cpp =1.11.606 =hda6ec86_4
     - azure-core-cpp =1.16.0 =he2a98a9_1
     - azure-identity-cpp =1.12.0 =hc0a8a32_0
     - azure-storage-blobs-cpp =12.14.0 =hb076ce7_1
@@ -126,7 +126,7 @@ requirements:
     - docker-py =7.1.0 =pyhd8ed1ab_1
     - email-validator =2.2.0 =pyhd8ed1ab_1
     - email_validator =2.2.0 =hd8ed1ab_1
-    - epoxy =1.5.10 =h5eb16cf_1
+    - epoxy =1.5.10 =h8616949_2
     - exceptiongroup =1.3.0 =pyhd8ed1ab_0
     - executing =2.2.0 =pyhd8ed1ab_0
     - fastapi =0.116.1 =h26c32bb_1
@@ -150,7 +150,7 @@ requirements:
     - funcy =2.0 =pyhd8ed1ab_1
     - future =1.0.0 =pyhd8ed1ab_2
     - fuzzytm =2.0.5 =pyhd8ed1ab_0
-    - gdk-pixbuf =2.44.1 =h07555a4_0
+    - gdk-pixbuf =2.44.2 =h07555a4_0
     - gensim =4.3.3 =py39h64cd7fd_0
     - gflags =2.2.2 =hac325c4_1005
     - gitdb =4.0.12 =pyhd8ed1ab_0
@@ -214,10 +214,10 @@ requirements:
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
     - libabseil =20250512.1 =cxx17_hfc00f1c_0
-    - libarrow =20.0.0 =hfba69ed_23_cpu
-    - libarrow-acero =20.0.0 =h2db2d7d_23_cpu
-    - libarrow-dataset =20.0.0 =h2db2d7d_23_cpu
-    - libarrow-substrait =20.0.0 =h4653b8a_23_cpu
+    - libarrow =20.0.0 =h9434f2e_24_cpu
+    - libarrow-acero =20.0.0 =h2db2d7d_24_cpu
+    - libarrow-dataset =20.0.0 =h2db2d7d_24_cpu
+    - libarrow-substrait =20.0.0 =h4653b8a_24_cpu
     - libblas =3.9.0 =20_osx64_mkl
     - libboost =1.88.0 =hf9ddd82_5
     - libbrotlicommon =1.1.0 =h1c43f85_4
@@ -228,7 +228,7 @@ requirements:
     - libclang13 =21.1.0 =default_h7f9524c_1
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.14.1 =h5dec5d8_0
-    - libcxx =21.1.1 =h3d58e20_0
+    - libcxx =21.1.2 =h3d58e20_0
     - libdeflate =1.24 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -261,7 +261,7 @@ requirements:
     - libopentelemetry-cpp =1.21.0 =h7d3f41d_1
     - libopentelemetry-cpp-headers =1.21.0 =h694c41f_1
     - libopus =1.5.2 =he3325bb_0
-    - libparquet =20.0.0 =ha67a804_23_cpu
+    - libparquet =20.0.0 =ha67a804_24_cpu
     - libpng =1.6.50 =h84aeda2_1
     - libpq =17.6 =h5a4e477_2
     - libprotobuf =6.31.1 =h6e993e7_1

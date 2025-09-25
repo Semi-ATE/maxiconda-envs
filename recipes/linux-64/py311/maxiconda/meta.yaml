@@ -28,7 +28,7 @@ requirements:
     - aiohttp =3.12.15 =py311h3778330_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.13.5 =pyha770c72_0
-    - bitarray =3.6.1 =py311h49ec1c0_0
+    - bitarray =3.6.1 =py311h49ec1c0_1
     - cython =3.1.4 =py311h91b4c63_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
     - hypothesis =6.140.2 =pyha770c72_0
@@ -48,8 +48,8 @@ requirements:
     - pyyaml =6.0.2 =py311h2dc5d0c_2
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.0 =pyh9208f05_1
-    - r-base =4.4.3 =h85845a0_2
-    - r-essentials =4.4 =r44hd8ed1ab_2005
+    - r-base =4.5.1 =h14df4e6_3
+    - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2025.9.18 =py311h49ec1c0_0
     - requests =2.32.5 =pyhd8ed1ab_0
     - rust =1.90.0 =h53717f1_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.6 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 512 secondary packages :
+    # 513 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -95,7 +95,7 @@ requirements:
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h3394656_0
     - certifi =2025.8.3 =pyhd8ed1ab_0
-    - cffi =1.17.1 =py311h5b438cf_1
+    - cffi =2.0.0 =py311h5b438cf_0
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
     - click =8.3.0 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
@@ -131,8 +131,8 @@ requirements:
     - gettext =0.25.1 =h3f43e3d_1
     - gettext-tools =0.25.1 =h3f43e3d_1
     - gfortran_impl_linux-64 =15.1.0 =h3b9cdf2_5
-    - glib =2.84.3 =h89d24bf_0
-    - glib-tools =2.84.3 =hf516916_0
+    - glib =2.86.0 =he175458_0
+    - glib-tools =2.86.0 =hf516916_0
     - gmp =6.3.0 =hac33072_2
     - gmpy2 =2.2.1 =py311h92a432a_1
     - graphite2 =1.3.14 =hecca717_2
@@ -143,7 +143,7 @@ requirements:
     - gxx_impl_linux-64 =15.1.0 =h6a1bac1_5
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =11.4.5 =h15599e2_0
+    - harfbuzz =11.5.1 =h15599e2_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -188,6 +188,7 @@ requirements:
     - libcap =2.76 =h0b2e76d_0
     - libcblas =3.9.0 =36_h0358290_openblas
     - libclang-cpp20.1 =20.1.8 =default_h99862b1_3
+    - libclang-cpp21.1 =21.1.0 =default_h99862b1_1
     - libclang13 =21.1.0 =default_h746c552_1
     - libcups =2.3.3 =hb8b1518_5
     - libcurl =8.14.1 =h332b0f4_0
@@ -212,7 +213,7 @@ requirements:
     - libgfortran-ng =15.1.0 =h69a702a_5
     - libgfortran5 =15.1.0 =hcea5267_5
     - libgl =1.7.0 =ha4b6fd6_2
-    - libglib =2.84.3 =hf39c6af_0
+    - libglib =2.86.0 =h1fed272_0
     - libglvnd =1.7.0 =ha4b6fd6_2
     - libglx =1.7.0 =ha4b6fd6_2
     - libgomp =15.1.0 =h767d61c_5
@@ -284,7 +285,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =hadf4263_0
     - parso =0.8.5 =pyhcf101f3_0
-    - pcre2 =10.45 =hc749103_0
+    - pcre2 =10.46 =h1321c63_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py311h98278a2_3
@@ -300,7 +301,7 @@ requirements:
     - propcache =0.3.1 =py311h2dc5d0c_0
     - pthread-stubs =0.4 =hb9d3cd8_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
-    - pulseaudio-client =17.0 =hac146a9_1
+    - pulseaudio-client =17.0 =h9a8bead_2
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycparser =2.22 =pyh29332c3_1
     - pydantic-core =2.33.2 =py311hdae7d1d_0
@@ -319,188 +320,188 @@ requirements:
     - pyzmq =27.1.0 =py311h2315fbb_0
     - qhull =2020.2 =h434a139_5
     - qt-main =5.15.15 =h3a7ef08_5
-    - qt6-main =6.9.2 =h3fc9a0a_0
+    - qt6-main =6.9.2 =h5bd77bc_1
     - qtpy =2.4.3 =pyhd8ed1ab_1
-    - r-askpass =1.2.1 =r44h54b55ab_1
-    - r-assertthat =0.2.1 =r44hc72bb7e_6
-    - r-backports =1.5.0 =r44h54b55ab_2
-    - r-base64enc =0.1_3 =r44h54b55ab_1008
-    - r-bit =4.6.0 =r44h54b55ab_1
-    - r-bit64 =4.6.0_1 =r44h54b55ab_1
-    - r-blob =1.2.4 =r44hc72bb7e_3
-    - r-boot =1.3_32 =r44hc72bb7e_1
-    - r-broom =1.0.10 =r44hc72bb7e_0
-    - r-bslib =0.9.0 =r44hc72bb7e_1
-    - r-cachem =1.1.0 =r44h54b55ab_2
-    - r-callr =3.7.6 =r44hc72bb7e_2
-    - r-caret =6.0_94 =r44h54b55ab_3
-    - r-cellranger =1.1.0 =r44hc72bb7e_1008
-    - r-class =7.3_23 =r44h54b55ab_1
-    - r-cli =3.6.5 =r44h3697838_1
-    - r-clipr =0.8.0 =r44hc72bb7e_4
-    - r-clock =0.7.3 =r44h3697838_1
-    - r-cluster =2.1.8.1 =r44heaba542_1
-    - r-codetools =0.2_20 =r44hc72bb7e_2
-    - r-colorspace =2.1_2 =r44h54b55ab_0
-    - r-commonmark =2.0.0 =r44h54b55ab_1
-    - r-conflicted =1.2.0 =r44h785f33e_3
-    - r-cpp11 =0.5.2 =r44h785f33e_2
-    - r-crayon =1.5.3 =r44hc72bb7e_2
-    - r-crul =1.6.0 =r44hc72bb7e_1
-    - r-curl =7.0.0 =r44h10955f1_1
-    - r-data.table =1.17.8 =r44h1c8cec4_1
-    - r-dbi =1.2.3 =r44hc72bb7e_2
-    - r-dbplyr =2.5.1 =r44hc72bb7e_1
-    - r-diagram =1.6.5 =r44ha770c72_4
-    - r-digest =0.6.37 =r44h3697838_1
-    - r-dplyr =1.1.4 =r44h3697838_2
-    - r-dtplyr =1.3.2 =r44hc72bb7e_1
-    - r-e1071 =1.7_16 =r44h3697838_1
-    - r-ellipsis =0.3.2 =r44h54b55ab_4
-    - r-evaluate =1.0.5 =r44hc72bb7e_1
-    - r-fansi =1.0.6 =r44h54b55ab_2
-    - r-farver =2.1.2 =r44h3697838_2
-    - r-fastmap =1.2.0 =r44h3697838_2
-    - r-fontawesome =0.5.3 =r44hc72bb7e_1
-    - r-forcats =1.0.0 =r44hc72bb7e_3
-    - r-foreach =1.5.2 =r44hc72bb7e_4
-    - r-foreign =0.8_90 =r44h54b55ab_1
-    - r-formatr =1.14 =r44hc72bb7e_3
-    - r-fs =1.6.6 =r44h3697838_1
-    - r-future =1.67.0 =r44h785f33e_1
-    - r-future.apply =1.20.0 =r44hc72bb7e_1
-    - r-gargle =1.6.0 =r44h785f33e_1
-    - r-generics =0.1.4 =r44hc72bb7e_1
-    - r-ggplot2 =4.0.0 =r44h785f33e_0
-    - r-gistr =0.9.0 =r44hc72bb7e_4
-    - r-glmnet =4.1_10 =r44ha36cffa_1
-    - r-globals =0.18.0 =r44hc72bb7e_1
-    - r-glue =1.8.0 =r44h54b55ab_1
-    - r-googledrive =2.1.2 =r44hc72bb7e_1
-    - r-googlesheets4 =1.1.2 =r44h785f33e_1
-    - r-gower =1.0.1 =r44h54b55ab_3
-    - r-gtable =0.3.6 =r44hc72bb7e_1
-    - r-hardhat =1.4.2 =r44hc72bb7e_1
-    - r-haven =2.5.5 =r44h6d565e7_1
-    - r-hexbin =1.28.5 =r44heaba542_1
-    - r-highr =0.11 =r44hc72bb7e_2
-    - r-hms =1.1.3 =r44hc72bb7e_3
-    - r-htmltools =0.5.8.1 =r44h3697838_2
-    - r-htmlwidgets =1.6.4 =r44h785f33e_4
-    - r-httpcode =0.3.0 =r44ha770c72_5
-    - r-httpuv =1.6.16 =r44h6d565e7_1
-    - r-httr =1.4.7 =r44hc72bb7e_2
-    - r-ids =1.0.1 =r44hc72bb7e_5
-    - r-ipred =0.9_15 =r44h54b55ab_2
-    - r-irdisplay =1.1 =r44hd8ed1ab_4
-    - r-irkernel =1.3.2 =r44h785f33e_3
-    - r-isoband =0.2.7 =r44h3697838_4
-    - r-iterators =1.0.14 =r44hc72bb7e_4
-    - r-jquerylib =0.1.4 =r44hc72bb7e_4
-    - r-jsonlite =2.0.0 =r44h54b55ab_1
-    - r-kernsmooth =2.23_26 =r44ha0a88a1_1
-    - r-knitr =1.50 =r44hc72bb7e_1
-    - r-labeling =0.4.3 =r44hc72bb7e_2
-    - r-later =1.4.4 =r44h3697838_1
-    - r-lattice =0.22_7 =r44h54b55ab_1
-    - r-lava =1.8.1 =r44hc72bb7e_1
-    - r-lazyeval =0.2.2 =r44h54b55ab_6
-    - r-lifecycle =1.0.4 =r44hc72bb7e_2
-    - r-listenv =0.9.1 =r44hc72bb7e_2
-    - r-lobstr =1.1.2 =r44h3697838_5
-    - r-lubridate =1.9.4 =r44h54b55ab_1
-    - r-magrittr =2.0.4 =r44h54b55ab_0
-    - r-maps =3.4.3 =r44h54b55ab_1
-    - r-mass =7.3_65 =r44h54b55ab_0
-    - r-matrix =1.7_4 =r44h0e4624f_1
-    - r-memoise =2.0.1 =r44hc72bb7e_4
-    - r-mgcv =1.9_3 =r44h0e4624f_1
-    - r-mime =0.13 =r44h54b55ab_1
-    - r-modelmetrics =1.2.2.2 =r44h3697838_5
-    - r-modelr =0.1.11 =r44hc72bb7e_3
-    - r-munsell =0.5.1 =r44hc72bb7e_2
-    - r-nlme =3.1_168 =r44heaba542_1
-    - r-nnet =7.3_20 =r44h54b55ab_1
-    - r-numderiv =2016.8_1.1 =r44hc72bb7e_7
-    - r-openssl =2.3.3 =r44h50f7d53_1
-    - r-parallelly =1.45.1 =r44h54b55ab_1
-    - r-pbdzmq =0.3_14 =r44hded8526_1
-    - r-pillar =1.11.1 =r44hc72bb7e_0
-    - r-pkgconfig =2.0.3 =r44hc72bb7e_5
-    - r-plyr =1.8.9 =r44h3697838_3
-    - r-prettyunits =1.2.0 =r44hc72bb7e_2
-    - r-proc =1.19.0.1 =r44h3697838_1
-    - r-processx =3.8.6 =r44h54b55ab_1
-    - r-prodlim =2025.04.28 =r44h3697838_1
-    - r-progress =1.2.3 =r44hc72bb7e_2
-    - r-progressr =0.16.0 =r44hc72bb7e_0
-    - r-promises =1.3.3 =r44h3697838_1
-    - r-proxy =0.4_27 =r44h54b55ab_4
-    - r-pryr =0.1.6 =r44h3697838_3
-    - r-ps =1.9.1 =r44h54b55ab_1
-    - r-purrr =1.1.0 =r44h54b55ab_1
-    - r-quantmod =0.4.28 =r44hc72bb7e_1
-    - r-r6 =2.6.1 =r44hc72bb7e_1
-    - r-ragg =1.5.0 =r44h9f1dc4d_1
-    - r-randomforest =4.7_1.2 =r44heaba542_1
-    - r-rappdirs =0.3.3 =r44h54b55ab_4
-    - r-rbokeh =0.5.2 =r44hc72bb7e_5
-    - r-rcolorbrewer =1.1_3 =r44h785f33e_4
-    - r-rcpp =1.1.0 =r44h3697838_1
-    - r-rcppeigen =0.3.4.0.2 =r44h3704496_1
-    - r-readr =2.1.5 =r44h3697838_2
-    - r-readxl =1.4.5 =r44h10e25cc_1
-    - r-recipes =1.3.1 =r44hc72bb7e_1
-    - r-recommended =4.4 =r44hd8ed1ab_1008
-    - r-rematch =2.0.0 =r44hc72bb7e_2
-    - r-rematch2 =2.1.2 =r44hc72bb7e_5
-    - r-repr =1.1.7 =r44h785f33e_2
-    - r-reprex =2.1.1 =r44hc72bb7e_2
-    - r-reshape2 =1.4.4 =r44h3697838_6
-    - r-rlang =1.1.6 =r44h3697838_1
-    - r-rmarkdown =2.29 =r44hc72bb7e_1
-    - r-rpart =4.1.24 =r44h54b55ab_1
-    - r-rstudioapi =0.17.1 =r44hc72bb7e_1
-    - r-rvest =1.0.5 =r44hc72bb7e_1
-    - r-s7 =0.2.0 =r44h54b55ab_1
-    - r-sass =0.4.10 =r44h3697838_1
-    - r-scales =1.4.0 =r44hc72bb7e_1
-    - r-selectr =0.4_2 =r44hc72bb7e_5
-    - r-shape =1.4.6.1 =r44ha770c72_2
-    - r-shiny =1.11.1 =r44h785f33e_1
-    - r-sourcetools =0.1.7_1 =r44h3697838_3
-    - r-sparsevctrs =0.3.4 =r44h54b55ab_1
-    - r-spatial =7.3_18 =r44h54b55ab_1
-    - r-squarem =2021.1 =r44hc72bb7e_4
-    - r-stringi =1.8.7 =r44h2dae267_1
-    - r-stringr =1.5.2 =r44h785f33e_1
-    - r-survival =3.8_3 =r44h54b55ab_1
-    - r-sys =3.4.3 =r44h54b55ab_1
-    - r-systemfonts =1.2.3 =r44h74f4acd_1
-    - r-textshaping =1.0.3 =r44h74f4acd_1
-    - r-tibble =3.3.0 =r44h54b55ab_1
-    - r-tidyr =1.3.1 =r44h3697838_2
-    - r-tidyselect =1.2.1 =r44hc72bb7e_2
-    - r-tidyverse =2.0.0 =r44h785f33e_3
-    - r-timechange =0.3.0 =r44h3697838_2
-    - r-timedate =4041.110 =r44hc72bb7e_1
-    - r-tinytex =0.57 =r44hc72bb7e_1
-    - r-triebeard =0.4.1 =r44h3697838_4
-    - r-ttr =0.24.4 =r44h54b55ab_2
-    - r-tzdb =0.5.0 =r44h3697838_2
-    - r-urltools =1.7.3.1 =r44h3697838_1
-    - r-utf8 =1.2.6 =r44h54b55ab_1
-    - r-uuid =1.2_1 =r44h54b55ab_1
-    - r-vctrs =0.6.5 =r44h3697838_2
-    - r-viridislite =0.4.2 =r44hc72bb7e_3
-    - r-vroom =1.6.6 =r44h3697838_0
-    - r-withr =3.0.2 =r44hc72bb7e_1
-    - r-xfun =0.53 =r44h3697838_1
-    - r-xml2 =1.4.0 =r44hc6fd541_1
-    - r-xtable =1.8_4 =r44hc72bb7e_7
-    - r-xts =0.14.1 =r44h54b55ab_1
-    - r-yaml =2.3.10 =r44h54b55ab_1
-    - r-zoo =1.8_14 =r44h54b55ab_1
+    - r-askpass =1.2.1 =r45h54b55ab_1
+    - r-assertthat =0.2.1 =r45hc72bb7e_6
+    - r-backports =1.5.0 =r45h54b55ab_2
+    - r-base64enc =0.1_3 =r45h54b55ab_1008
+    - r-bit =4.6.0 =r45h54b55ab_1
+    - r-bit64 =4.6.0_1 =r45h54b55ab_1
+    - r-blob =1.2.4 =r45hc72bb7e_3
+    - r-boot =1.3_32 =r45hc72bb7e_1
+    - r-broom =1.0.10 =r45hc72bb7e_0
+    - r-bslib =0.9.0 =r45hc72bb7e_1
+    - r-cachem =1.1.0 =r45h54b55ab_2
+    - r-callr =3.7.6 =r45hc72bb7e_2
+    - r-caret =6.0_94 =r45h54b55ab_3
+    - r-cellranger =1.1.0 =r45hc72bb7e_1008
+    - r-class =7.3_23 =r45h54b55ab_1
+    - r-cli =3.6.5 =r45h3697838_1
+    - r-clipr =0.8.0 =r45hc72bb7e_4
+    - r-clock =0.7.3 =r45h3697838_1
+    - r-cluster =2.1.8.1 =r45heaba542_1
+    - r-codetools =0.2_20 =r45hc72bb7e_2
+    - r-colorspace =2.1_2 =r45h54b55ab_0
+    - r-commonmark =2.0.0 =r45h54b55ab_1
+    - r-conflicted =1.2.0 =r45h785f33e_3
+    - r-cpp11 =0.5.2 =r45h785f33e_2
+    - r-crayon =1.5.3 =r45hc72bb7e_2
+    - r-crul =1.6.0 =r45hc72bb7e_1
+    - r-curl =7.0.0 =r45h10955f1_1
+    - r-data.table =1.17.8 =r45h1c8cec4_1
+    - r-dbi =1.2.3 =r45hc72bb7e_2
+    - r-dbplyr =2.5.1 =r45hc72bb7e_1
+    - r-diagram =1.6.5 =r45ha770c72_4
+    - r-digest =0.6.37 =r45h3697838_1
+    - r-dplyr =1.1.4 =r45h3697838_2
+    - r-dtplyr =1.3.2 =r45hc72bb7e_1
+    - r-e1071 =1.7_16 =r45h3697838_1
+    - r-ellipsis =0.3.2 =r45h54b55ab_4
+    - r-evaluate =1.0.5 =r45hc72bb7e_1
+    - r-fansi =1.0.6 =r45h54b55ab_2
+    - r-farver =2.1.2 =r45h3697838_2
+    - r-fastmap =1.2.0 =r45h3697838_2
+    - r-fontawesome =0.5.3 =r45hc72bb7e_1
+    - r-forcats =1.0.0 =r45hc72bb7e_3
+    - r-foreach =1.5.2 =r45hc72bb7e_4
+    - r-foreign =0.8_90 =r45h54b55ab_1
+    - r-formatr =1.14 =r45hc72bb7e_3
+    - r-fs =1.6.6 =r45h3697838_1
+    - r-future =1.67.0 =r45h785f33e_1
+    - r-future.apply =1.20.0 =r45hc72bb7e_1
+    - r-gargle =1.6.0 =r45h785f33e_1
+    - r-generics =0.1.4 =r45hc72bb7e_1
+    - r-ggplot2 =4.0.0 =r45h785f33e_0
+    - r-gistr =0.9.0 =r45hc72bb7e_4
+    - r-glmnet =4.1_10 =r45ha36cffa_1
+    - r-globals =0.18.0 =r45hc72bb7e_1
+    - r-glue =1.8.0 =r45h54b55ab_1
+    - r-googledrive =2.1.2 =r45hc72bb7e_1
+    - r-googlesheets4 =1.1.2 =r45h785f33e_1
+    - r-gower =1.0.1 =r45h54b55ab_3
+    - r-gtable =0.3.6 =r45hc72bb7e_1
+    - r-hardhat =1.4.2 =r45hc72bb7e_1
+    - r-haven =2.5.5 =r45h6d565e7_1
+    - r-hexbin =1.28.5 =r45heaba542_1
+    - r-highr =0.11 =r45hc72bb7e_2
+    - r-hms =1.1.3 =r45hc72bb7e_3
+    - r-htmltools =0.5.8.1 =r45h3697838_2
+    - r-htmlwidgets =1.6.4 =r45h785f33e_4
+    - r-httpcode =0.3.0 =r45ha770c72_5
+    - r-httpuv =1.6.16 =r45h6d565e7_1
+    - r-httr =1.4.7 =r45hc72bb7e_2
+    - r-ids =1.0.1 =r45hc72bb7e_5
+    - r-ipred =0.9_15 =r45h54b55ab_2
+    - r-irdisplay =1.1 =r45hd8ed1ab_4
+    - r-irkernel =1.3.2 =r45h785f33e_3
+    - r-isoband =0.2.7 =r45h3697838_4
+    - r-iterators =1.0.14 =r45hc72bb7e_4
+    - r-jquerylib =0.1.4 =r45hc72bb7e_4
+    - r-jsonlite =2.0.0 =r45h54b55ab_1
+    - r-kernsmooth =2.23_26 =r45ha0a88a1_1
+    - r-knitr =1.50 =r45hc72bb7e_1
+    - r-labeling =0.4.3 =r45hc72bb7e_2
+    - r-later =1.4.4 =r45h3697838_1
+    - r-lattice =0.22_7 =r45h54b55ab_1
+    - r-lava =1.8.1 =r45hc72bb7e_1
+    - r-lazyeval =0.2.2 =r45h54b55ab_6
+    - r-lifecycle =1.0.4 =r45hc72bb7e_2
+    - r-listenv =0.9.1 =r45hc72bb7e_2
+    - r-lobstr =1.1.2 =r45h3697838_5
+    - r-lubridate =1.9.4 =r45h54b55ab_1
+    - r-magrittr =2.0.4 =r45h54b55ab_0
+    - r-maps =3.4.3 =r45h54b55ab_1
+    - r-mass =7.3_65 =r45h54b55ab_0
+    - r-matrix =1.7_4 =r45h0e4624f_1
+    - r-memoise =2.0.1 =r45hc72bb7e_4
+    - r-mgcv =1.9_3 =r45h0e4624f_1
+    - r-mime =0.13 =r45h54b55ab_1
+    - r-modelmetrics =1.2.2.2 =r45h3697838_5
+    - r-modelr =0.1.11 =r45hc72bb7e_3
+    - r-munsell =0.5.1 =r45hc72bb7e_2
+    - r-nlme =3.1_168 =r45heaba542_1
+    - r-nnet =7.3_20 =r45h54b55ab_1
+    - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
+    - r-openssl =2.3.3 =r45h50f7d53_1
+    - r-parallelly =1.45.1 =r45h54b55ab_1
+    - r-pbdzmq =0.3_14 =r45hded8526_1
+    - r-pillar =1.11.1 =r45hc72bb7e_0
+    - r-pkgconfig =2.0.3 =r45hc72bb7e_5
+    - r-plyr =1.8.9 =r45h3697838_3
+    - r-prettyunits =1.2.0 =r45hc72bb7e_2
+    - r-proc =1.19.0.1 =r45h3697838_1
+    - r-processx =3.8.6 =r45h54b55ab_1
+    - r-prodlim =2025.04.28 =r45h3697838_1
+    - r-progress =1.2.3 =r45hc72bb7e_2
+    - r-progressr =0.16.0 =r45hc72bb7e_0
+    - r-promises =1.3.3 =r45h3697838_1
+    - r-proxy =0.4_27 =r45h54b55ab_4
+    - r-pryr =0.1.6 =r45h3697838_3
+    - r-ps =1.9.1 =r45h54b55ab_1
+    - r-purrr =1.1.0 =r45h54b55ab_1
+    - r-quantmod =0.4.28 =r45hc72bb7e_1
+    - r-r6 =2.6.1 =r45hc72bb7e_1
+    - r-ragg =1.5.0 =r45h9f1dc4d_1
+    - r-randomforest =4.7_1.2 =r45heaba542_1
+    - r-rappdirs =0.3.3 =r45h54b55ab_4
+    - r-rbokeh =0.5.2 =r45hc72bb7e_5
+    - r-rcolorbrewer =1.1_3 =r45h785f33e_4
+    - r-rcpp =1.1.0 =r45h3697838_1
+    - r-rcppeigen =0.3.4.0.2 =r45h3704496_1
+    - r-readr =2.1.5 =r45h3697838_2
+    - r-readxl =1.4.5 =r45h10e25cc_1
+    - r-recipes =1.3.1 =r45hc72bb7e_1
+    - r-recommended =4.5 =r45hd8ed1ab_1008
+    - r-rematch =2.0.0 =r45hc72bb7e_2
+    - r-rematch2 =2.1.2 =r45hc72bb7e_5
+    - r-repr =1.1.7 =r45h785f33e_2
+    - r-reprex =2.1.1 =r45hc72bb7e_2
+    - r-reshape2 =1.4.4 =r45h3697838_6
+    - r-rlang =1.1.6 =r45h3697838_1
+    - r-rmarkdown =2.29 =r45hc72bb7e_1
+    - r-rpart =4.1.24 =r45h54b55ab_1
+    - r-rstudioapi =0.17.1 =r45hc72bb7e_1
+    - r-rvest =1.0.5 =r45hc72bb7e_1
+    - r-s7 =0.2.0 =r45h54b55ab_1
+    - r-sass =0.4.10 =r45h3697838_1
+    - r-scales =1.4.0 =r45hc72bb7e_1
+    - r-selectr =0.4_2 =r45hc72bb7e_5
+    - r-shape =1.4.6.1 =r45ha770c72_2
+    - r-shiny =1.11.1 =r45h785f33e_1
+    - r-sourcetools =0.1.7_1 =r45h3697838_3
+    - r-sparsevctrs =0.3.4 =r45h54b55ab_1
+    - r-spatial =7.3_18 =r45h54b55ab_1
+    - r-squarem =2021.1 =r45hc72bb7e_4
+    - r-stringi =1.8.7 =r45h2dae267_1
+    - r-stringr =1.5.2 =r45h785f33e_1
+    - r-survival =3.8_3 =r45h54b55ab_1
+    - r-sys =3.4.3 =r45h54b55ab_1
+    - r-systemfonts =1.2.3 =r45h74f4acd_1
+    - r-textshaping =1.0.3 =r45h74f4acd_1
+    - r-tibble =3.3.0 =r45h54b55ab_1
+    - r-tidyr =1.3.1 =r45h3697838_2
+    - r-tidyselect =1.2.1 =r45hc72bb7e_2
+    - r-tidyverse =2.0.0 =r45h785f33e_3
+    - r-timechange =0.3.0 =r45h3697838_2
+    - r-timedate =4041.110 =r45hc72bb7e_1
+    - r-tinytex =0.57 =r45hc72bb7e_1
+    - r-triebeard =0.4.1 =r45h3697838_4
+    - r-ttr =0.24.4 =r45h54b55ab_2
+    - r-tzdb =0.5.0 =r45h3697838_2
+    - r-urltools =1.7.3.1 =r45h3697838_1
+    - r-utf8 =1.2.6 =r45h54b55ab_1
+    - r-uuid =1.2_1 =r45h54b55ab_1
+    - r-vctrs =0.6.5 =r45h3697838_2
+    - r-viridislite =0.4.2 =r45hc72bb7e_3
+    - r-vroom =1.6.6 =r45h3697838_0
+    - r-withr =3.0.2 =r45hc72bb7e_1
+    - r-xfun =0.53 =r45h3697838_1
+    - r-xml2 =1.4.0 =r45hc6fd541_1
+    - r-xtable =1.8_4 =r45hc72bb7e_7
+    - r-xts =0.14.1 =r45h54b55ab_1
+    - r-yaml =2.3.10 =r45h54b55ab_1
+    - r-zoo =1.8_14 =r45h54b55ab_1
     - rapidfuzz =3.14.1 =py311h1ddb823_0
     - readline =8.2 =h8c095d6_2
     - referencing =0.36.2 =pyh29332c3_0

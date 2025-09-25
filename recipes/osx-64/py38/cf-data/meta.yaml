@@ -49,7 +49,7 @@ requirements:
     # 328 secondary packages :
     - _openmp_mutex =4.5 =4_kmp_llvm
     - _py-xgboost-mutex =2.0 =cpu_0
-    - adwaita-icon-theme =48.1 =unix_1
+    - adwaita-icon-theme =49.0 =unix_0
     - alembic =1.14.0 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -97,7 +97,7 @@ requirements:
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - docker-py =7.1.0 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - epoxy =1.5.10 =h5eb16cf_1
+    - epoxy =1.5.10 =h8616949_2
     - executing =2.1.0 =pyhd8ed1ab_0
     - filelock =3.16.1 =pyhd8ed1ab_0
     - flask =3.0.3 =pyhd8ed1ab_0
@@ -114,7 +114,7 @@ requirements:
     - fsspec =2024.10.0 =pyhff2d567_0
     - funcy =2.0 =pyhd8ed1ab_0
     - future =1.0.0 =pyhd8ed1ab_0
-    - gdk-pixbuf =2.44.1 =h07555a4_0
+    - gdk-pixbuf =2.44.2 =h07555a4_0
     - gensim =3.8.3 =py38ha048514_4
     - gitdb =4.0.11 =pyhd8ed1ab_0
     - gitpython =3.1.43 =pyhd8ed1ab_0
@@ -175,7 +175,7 @@ requirements:
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =21.1.0 =default_h7f9524c_1
-    - libcxx =21.1.1 =h3d58e20_0
+    - libcxx =21.1.2 =h3d58e20_0
     - libdeflate =1.24 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libexpat =2.7.1 =h21dd04a_0
