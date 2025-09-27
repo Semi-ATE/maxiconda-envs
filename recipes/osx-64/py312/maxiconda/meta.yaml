@@ -35,8 +35,8 @@ requirements:
     - ipython =9.5.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.6 =py312hb401068_1
-    - numba =0.61.2 =py312hae945ca_2
-    - numpy =2.2.6 =py312h6693b03_0
+    - numba =0.62.0 =py312hae945ca_0
+    - numpy =2.3.3 =py312ha3982b3_0
     - openpyxl =3.1.5 =py312hc14bf67_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.2 =py312hbf2c5ff_0
@@ -45,7 +45,7 @@ requirements:
     - pyqt =5.15.11 =py312h5e38ec9_1
     - pyserial =3.5 =pyhd8ed1ab_1
     - pytest =8.4.2 =pyhd8ed1ab_0
-    - pyyaml =6.0.2 =py312h3520af0_2
+    - pyyaml =6.0.3 =py312hacf3034_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.0 =pyh9208f05_1
     - r-base =4.5.1 =h9bcb074_3
@@ -170,7 +170,7 @@ requirements:
     - jupyter_events =0.12.0 =pyh29332c3_0
     - jupyter_server =2.17.0 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_1
-    - jupyterlab =4.4.8 =pyhd8ed1ab_0
+    - jupyterlab =4.4.9 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_1
     - kiwisolver =1.4.9 =py312hef387a8_1
@@ -231,7 +231,7 @@ requirements:
     - llvm-openmp =21.1.0 =hf4e0ed4_0
     - llvm-tools =21.1.0 =hc040464_0
     - llvm-tools-21 =21.1.0 =h0167baa_0
-    - llvmlite =0.44.0 =py312ha696282_2
+    - llvmlite =0.45.0 =py312h331d821_1
     - make =4.4.1 =h00291cd_2
     - markupsafe =3.0.2 =py312h3520af0_1
     - matplotlib-base =3.10.6 =py312h7894933_1
@@ -247,7 +247,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - notebook =7.4.5 =pyhd8ed1ab_0
+    - notebook =7.4.6 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.37 =hbd2c7f0_0
     - nss =3.116 =h2b2a826_0
