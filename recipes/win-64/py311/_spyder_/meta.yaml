@@ -36,7 +36,7 @@ requirements:
     - spyder =6.0.8 =hd8ed1ab_0
     - sympy =1.14.0 =pyh04b8f61_5
 
-    # 283 secondary packages :
+    # 284 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.12.15 =py311h3f79411_0
@@ -149,7 +149,7 @@ requirements:
     - libgcc =15.1.0 =h1383e82_5
     - libglib =2.86.0 =h5f26cbf_0
     - libgomp =15.1.0 =h1383e82_5
-    - libhwloc =2.12.1 =default_h88281d1_1000
+    - libhwloc =2.12.1 =default_h64bd3f2_1002
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
@@ -168,8 +168,9 @@ requirements:
     - libwebp-base =1.6.0 =h4d5522a_0
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_9
     - libxcb =1.17.0 =h0e4246c_0
-    - libxml2 =2.13.8 =h741aa76_1
-    - libxslt =1.1.43 =h25c3957_0
+    - libxml2 =2.15.0 =ha29bfb0_1
+    - libxml2-16 =2.15.0 =h06f855e_1
+    - libxslt =1.1.43 =h0fbe4c1_1
     - libzlib =1.3.1 =h2466b09_2
     - llvm-openmp =20.1.8 =hfa2b4ca_2
     - markdown-it-py =4.0.0 =pyhd8ed1ab_0
@@ -229,7 +230,7 @@ requirements:
     - pyopenssl =25.1.0 =pyhd8ed1ab_0
     - pyparsing =3.2.5 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py311hda3d55a_1
-    - pyside6 =6.9.2 =py311h5d1a980_1
+    - pyside6 =6.9.2 =py311hf70c7b4_2
     - pysocks =1.7.1 =pyh09c184e_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
