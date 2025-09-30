@@ -46,7 +46,7 @@ requirements:
     - astroid =3.3.11 =py310h5588dad_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - async-timeout =5.0.1 =pyhd8ed1ab_1
-    - asyncssh =2.21.0 =pyhd8ed1ab_0
+    - asyncssh =2.21.1 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_1
     - attrs =25.3.0 =pyh71513ae_0
     - autopep8 =2.0.4 =pyhd8ed1ab_0
@@ -54,7 +54,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhd8ed1ab_1
     - bcrypt =5.0.0 =py310h034784e_0
-    - beautifulsoup4 =4.13.5 =pyha770c72_0
+    - beautifulsoup4 =4.14.2 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =25.1.0 =pyha5154f8_0
     - bleach =6.2.0 =pyh29332c3_4
@@ -97,7 +97,7 @@ requirements:
     - fontconfig =2.15.0 =h765892d_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.60.0 =py310hdb0e946_0
+    - fonttools =4.60.1 =py310hdb0e946_0
     - freetype =2.14.1 =h57928b3_0
     - frozenlist =1.7.0 =py310had1666a_0
     - fzf =0.65.2 =hb13f615_0
@@ -197,7 +197,7 @@ requirements:
     - openjpeg =2.5.4 =h24db6dd_0
     - openssl =3.5.3 =h725018a_1
     - packaging =25.0 =pyh29332c3_1
-    - pandoc =3.8 =h57928b3_0
+    - pandoc =3.8.1 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.5 =pyhcf101f3_0
     - pathspec =0.12.1 =pyhd8ed1ab_1

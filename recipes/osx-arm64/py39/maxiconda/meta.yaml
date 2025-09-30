@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 469 secondary packages :
+    # 470 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -177,7 +177,7 @@ requirements:
     - krb5 =1.21.3 =h237132a_0
     - lark =1.2.2 =pyhd8ed1ab_1
     - lcms2 =2.17 =h7eeda09_0
-    - ld64_osx-arm64 =955.13 =h9502ec1_1
+    - ld64_osx-arm64 =955.13 =h6922315_3
     - lerc =4.0.0 =hd64df32_1
     - libasprintf =0.25.1 =h493aca8_0
     - libblas =3.9.0 =36_h51639a9_openblas
@@ -210,6 +210,7 @@ requirements:
     - liblapack =3.9.0 =36_hd9741b5_openblas
     - libllvm14 =14.0.6 =hd1a9a77_4
     - libllvm17 =17.0.6 =hc4b4ae8_3
+    - libllvm19 =19.1.7 =hc4b4ae8_1
     - libllvm21 =21.1.0 =h846d351_0
     - liblzma =5.8.1 =h39f12f2_2
     - libnghttp2 =1.67.0 =hc438710_0
@@ -257,7 +258,7 @@ requirements:
     - openssl =3.5.3 =h5503f6c_1
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =25.0 =pyh29332c3_1
-    - pandoc =3.8 =hce30654_0
+    - pandoc =3.8.1 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h875632e_0
     - parso =0.8.4 =pyhd8ed1ab_1
@@ -435,7 +436,7 @@ requirements:
     - r-reprex =2.1.1 =r45hc72bb7e_2
     - r-reshape2 =1.4.4 =r45hc1cd577_6
     - r-rlang =1.1.6 =r45hc1cd577_1
-    - r-rmarkdown =2.29 =r45hc72bb7e_1
+    - r-rmarkdown =2.30 =r45hc72bb7e_0
     - r-rpart =4.1.24 =r45h6168396_1
     - r-rstudioapi =0.17.1 =r45hc72bb7e_1
     - r-rvest =1.0.5 =r45hc72bb7e_1

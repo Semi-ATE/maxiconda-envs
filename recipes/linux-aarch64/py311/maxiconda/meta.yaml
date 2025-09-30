@@ -27,15 +27,15 @@ requirements:
     # 38 primary packages :
     - aiohttp =3.12.15 =py311h164a683_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
-    - beautifulsoup4 =4.13.5 =pyha770c72_0
+    - beautifulsoup4 =4.14.2 =pyha770c72_0
     - bitarray =3.6.1 =py311h19352d5_1
     - cython =3.1.4 =py311h396fb50_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
     - hypothesis =6.140.2 =pyha770c72_0
-    - ipython =9.5.0 =pyhfa0c392_0
+    - ipython =9.6.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.6 =py311hfecb2dc_1
-    - numba =0.62.0 =py311h9a275e2_0
+    - numba =0.62.1 =py311h9a275e2_0
     - numpy =2.3.3 =py311h669026d_0
     - openpyxl =3.1.5 =py311h2ae4cd7_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -121,7 +121,7 @@ requirements:
     - fontconfig =2.15.0 =h8dda3cd_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =0
-    - fonttools =4.60.0 =py311h164a683_0
+    - fonttools =4.60.1 =py311h164a683_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.14.1 =h8af1aa0_0
     - fribidi =1.0.16 =he30d5cf_0
@@ -271,7 +271,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =ha32ae93_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - notebook =7.4.6 =pyhd8ed1ab_0
+    - notebook =7.4.7 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.37 =h3ad9384_0
     - nss =3.116 =h544fa81_0
@@ -280,7 +280,7 @@ requirements:
     - openssl =3.5.3 =h8e36d6e_1
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =25.0 =pyh29332c3_1
-    - pandoc =3.8 =h8af1aa0_0
+    - pandoc =3.8.1 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =he55ef5b_0
     - parso =0.8.5 =pyhcf101f3_0
@@ -458,7 +458,7 @@ requirements:
     - r-reprex =2.1.1 =r45hc72bb7e_2
     - r-reshape2 =1.4.4 =r45h08b74da_6
     - r-rlang =1.1.6 =r45h08b74da_1
-    - r-rmarkdown =2.29 =r45hc72bb7e_1
+    - r-rmarkdown =2.30 =r45hc72bb7e_0
     - r-rpart =4.1.24 =r45h0557e7b_1
     - r-rstudioapi =0.17.1 =r45hc72bb7e_1
     - r-rvest =1.0.5 =r45hc72bb7e_1
