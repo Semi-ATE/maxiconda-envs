@@ -34,7 +34,7 @@ requirements:
     - pyqt =5.15.11 =py39he15501f_1
     - rdkit =2025.03.5 =py39hfb65f61_0
     - scipy =1.13.1 =py39h1a10956_0
-    - spyder-kernels =3.0.5 =win_pyh7428d3b_0
+    - spyder-kernels =3.1.0 =win_pyh7428d3b_0
 
     # 191 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
@@ -142,7 +142,7 @@ requirements:
     - libxslt =1.1.43 =h25c3957_0
     - libzip =1.11.2 =h3135430_0
     - libzlib =1.3.1 =h2466b09_2
-    - llvm-openmp =21.1.2 =hfa2b4ca_1
+    - llvm-openmp =21.1.2 =hfa2b4ca_2
     - lz4-c =1.10.0 =h2466b09_1
     - matplotlib-base =3.9.4 =py39h5376392_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
@@ -156,7 +156,7 @@ requirements:
     - netcdf4 =1.7.2 =nompi_py39h38b60f6_102
     - networkx =3.2.1 =pyhd8ed1ab_0
     - openjpeg =2.5.4 =h24db6dd_0
-    - openssl =3.5.3 =h725018a_1
+    - openssl =3.5.4 =h725018a_0
     - packaging =25.0 =pyh29332c3_1
     - parso =0.8.4 =pyhd8ed1ab_1
     - patsy =1.0.1 =pyhd8ed1ab_1
@@ -223,7 +223,7 @@ requirements:
     - xorg-libx11 =1.8.12 =hf48077a_0
     - xorg-libxau =1.0.12 =h0e40799_0
     - xorg-libxdmcp =1.1.5 =h0e40799_0
-    - xorg-libxfixes =6.0.1 =h0e40799_0
+    - xorg-libxfixes =6.0.2 =hba3369d_0
     - zeromq =4.3.5 =h5bddc39_9
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zlib =1.3.1 =h2466b09_2

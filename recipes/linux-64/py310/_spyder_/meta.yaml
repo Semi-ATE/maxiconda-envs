@@ -28,7 +28,7 @@ requirements:
     - cython =3.1.4 =py310h01363c9_2
     - matplotlib =3.10.6 =py310hff52083_1
     - numpy =2.2.6 =py310hefbff90_0
-    - pandas =2.3.3 =py310h0158d43_0
+    - pandas =2.3.3 =py310h0158d43_1
     - pyqt =5.15.11 =py310hf392a12_1
     - pyqtwebengine =5.15.11 =py310had9264b_1
     - scipy =1.15.2 =py310h1d65ade_0
@@ -128,7 +128,7 @@ requirements:
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.30.1 =pyh82676e8_0
     - ipython =8.37.0 =pyh8f84b5b_0
-    - isort =6.0.1 =pyhd8ed1ab_1
+    - isort =6.1.0 =pyhd8ed1ab_0
     - jaraco.classes =3.4.0 =pyhd8ed1ab_2
     - jaraco.context =6.0.1 =pyhd8ed1ab_0
     - jaraco.functools =4.3.0 =pyhd8ed1ab_0
@@ -245,7 +245,7 @@ requirements:
     - numpydoc =1.9.0 =pyhe01879c_1
     - openjpeg =2.5.4 =h55fea9a_0
     - openldap =2.6.10 =he970967_0
-    - openssl =3.5.3 =h26f9b46_1
+    - openssl =3.5.4 =h26f9b46_0
     - packaging =25.0 =pyh29332c3_1
     - pandoc =3.8.1 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -376,7 +376,7 @@ requirements:
     - xorg-libxdamage =1.1.6 =hb9d3cd8_0
     - xorg-libxdmcp =1.1.5 =hb9d3cd8_0
     - xorg-libxext =1.3.6 =hb9d3cd8_0
-    - xorg-libxfixes =6.0.1 =hb9d3cd8_0
+    - xorg-libxfixes =6.0.2 =hb03c661_0
     - xorg-libxi =1.8.2 =hb9d3cd8_0
     - xorg-libxrandr =1.5.4 =hb9d3cd8_0
     - xorg-libxrender =0.9.12 =hb9d3cd8_0

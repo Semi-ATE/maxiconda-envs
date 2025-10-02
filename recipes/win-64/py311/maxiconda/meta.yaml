@@ -55,7 +55,7 @@ requirements:
     - rust =1.90.0 =hf8d6059_0
     - scipy =1.16.2 =py311h9a1c30b_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
-    - spyder-kernels =0.2.6 =py_1
+    - spyder-kernels =3.1.0 =win_pyh7428d3b_0
     - sqlalchemy =2.0.43 =py311h3485c13_0
     - sqlite =3.50.4 =hdb435a2_0
     - sympy =1.14.0 =pyh04b8f61_5
@@ -209,7 +209,7 @@ requirements:
     - libxml2 =2.13.8 =h741aa76_1
     - libxslt =1.1.43 =h25c3957_0
     - libzlib =1.3.1 =h2466b09_2
-    - llvm-openmp =21.1.2 =hfa2b4ca_1
+    - llvm-openmp =21.1.2 =hfa2b4ca_2
     - llvmlite =0.45.0 =py311h4f568be_1
     - m2w64-sysroot_win-64 =12.0.0.r4.gg4f2fc60ca =h7428d3b_9
     - markupsafe =3.0.3 =py311h3f79411_0
@@ -231,7 +231,7 @@ requirements:
     - notebook =7.4.7 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - openjpeg =2.5.4 =h24db6dd_0
-    - openssl =3.5.3 =h725018a_1
+    - openssl =3.5.4 =h725018a_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =25.0 =pyh29332c3_1
     - pandoc =3.8.1 =h57928b3_0
@@ -428,7 +428,7 @@ requirements:
     - r-stringr =1.5.2 =r45h785f33e_1
     - r-survival =3.8_3 =r45h2a2a84f_1
     - r-sys =3.4.3 =r45heceb674_1
-    - r-systemfonts =1.2.3 =r45h295cb35_1
+    - r-systemfonts =1.3.1 =r45h295cb35_0
     - r-textshaping =1.0.3 =r45h295cb35_1
     - r-tibble =3.3.0 =r45heceb674_1
     - r-tidyr =1.3.1 =r45hd8a2815_2
@@ -484,7 +484,7 @@ requirements:
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - types-python-dateutil =2.9.0.20250822 =pyhd8ed1ab_0
     - typing-extensions =4.15.0 =h396c80c_0
-    - typing-inspection =0.4.1 =pyhd8ed1ab_0
+    - typing-inspection =0.4.2 =pyhd8ed1ab_0
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
     - tzdata =2025b =h78e105d_0

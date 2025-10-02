@@ -39,7 +39,7 @@ requirements:
     - numpy =2.3.3 =py311h2e04523_0
     - openpyxl =3.1.5 =py311h534898f_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
-    - pandas =2.3.3 =py311hed34c8f_0
+    - pandas =2.3.3 =py311hed34c8f_1
     - psutil =7.1.0 =py311h49ec1c0_0
     - pydantic =2.11.9 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py311he22028a_1
@@ -55,7 +55,7 @@ requirements:
     - rust =1.90.0 =h53717f1_0
     - scipy =1.16.2 =py311h1e13796_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
-    - spyder-kernels =0.2.6 =py_1
+    - spyder-kernels =3.1.0 =unix_pyh707e725_0
     - sqlalchemy =2.0.43 =py311h49ec1c0_0
     - sqlite =3.50.4 =hbc0de68_0
     - sympy =1.14.0 =pyh2585a3b_105
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.6 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 513 secondary packages :
+    # 515 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -278,7 +278,7 @@ requirements:
     - nss =3.116 =h445c969_0
     - openjpeg =2.5.4 =h55fea9a_0
     - openldap =2.6.10 =he970967_0
-    - openssl =3.5.3 =h26f9b46_1
+    - openssl =3.5.4 =h26f9b46_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =25.0 =pyh29332c3_1
     - pandoc =3.8.1 =ha770c72_0
@@ -317,6 +317,7 @@ requirements:
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.11 =8_cp311
     - pytz =2025.2 =pyhd8ed1ab_0
+    - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.1.0 =py311h2315fbb_0
     - qhull =2020.2 =h434a139_5
     - qt-main =5.15.15 =h3a7ef08_5
@@ -477,7 +478,7 @@ requirements:
     - r-stringr =1.5.2 =r45h785f33e_1
     - r-survival =3.8_3 =r45h54b55ab_1
     - r-sys =3.4.3 =r45h54b55ab_1
-    - r-systemfonts =1.2.3 =r45h74f4acd_1
+    - r-systemfonts =1.3.1 =r45h74f4acd_0
     - r-textshaping =1.0.3 =r45h74f4acd_1
     - r-tibble =3.3.0 =r45h54b55ab_1
     - r-tidyr =1.3.1 =r45h3697838_2
@@ -535,7 +536,7 @@ requirements:
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - types-python-dateutil =2.9.0.20250822 =pyhd8ed1ab_0
     - typing-extensions =4.15.0 =h396c80c_0
-    - typing-inspection =0.4.1 =pyhd8ed1ab_0
+    - typing-inspection =0.4.2 =pyhd8ed1ab_0
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
     - tzdata =2025b =h78e105d_0
@@ -548,6 +549,7 @@ requirements:
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - websocket-client =1.8.0 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
+    - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xcb-util =0.4.1 =h4f16b4b_2
     - xcb-util-cursor =0.1.5 =hb9d3cd8_0
     - xcb-util-image =0.4.0 =hb711507_2
@@ -564,7 +566,7 @@ requirements:
     - xorg-libxdamage =1.1.6 =hb9d3cd8_0
     - xorg-libxdmcp =1.1.5 =hb9d3cd8_0
     - xorg-libxext =1.3.6 =hb9d3cd8_0
-    - xorg-libxfixes =6.0.1 =hb9d3cd8_0
+    - xorg-libxfixes =6.0.2 =hb03c661_0
     - xorg-libxi =1.8.2 =hb9d3cd8_0
     - xorg-libxrandr =1.5.4 =hb9d3cd8_0
     - xorg-libxrender =0.9.12 =hb9d3cd8_0
