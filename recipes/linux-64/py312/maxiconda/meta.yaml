@@ -144,7 +144,7 @@ requirements:
     - gxx_impl_linux-64 =15.1.0 =h6a1bac1_5
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =12.0.0 =h15599e2_0
+    - harfbuzz =12.1.0 =h15599e2_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -188,7 +188,7 @@ requirements:
     - libbrotlienc =1.1.0 =hb03c661_4
     - libcap =2.76 =h0b2e76d_0
     - libcblas =3.9.0 =36_h0358290_openblas
-    - libclang-cpp20.1 =20.1.8 =default_h99862b1_3
+    - libclang-cpp20.1 =20.1.8 =default_h99862b1_4
     - libclang-cpp21.1 =21.1.0 =default_h99862b1_1
     - libclang13 =21.1.0 =default_h746c552_1
     - libcups =2.3.3 =hb8b1518_5
@@ -255,7 +255,7 @@ requirements:
     - libxml2 =2.13.8 =h04c0eec_1
     - libxslt =1.1.43 =h7a3aeb2_0
     - libzlib =1.3.1 =hb9d3cd8_2
-    - llvmlite =0.45.0 =py312h7424e68_1
+    - llvmlite =0.45.1 =py312h7424e68_0
     - lz4-c =1.10.0 =h5888daf_1
     - make =4.4.1 =hb9d3cd8_2
     - markupsafe =3.0.3 =py312h8a5da7c_0
@@ -519,7 +519,7 @@ requirements:
     - sed =4.9 =h6688a6e_0
     - send2trash =1.8.3 =pyh0d859eb_1
     - setuptools =80.9.0 =pyhff2d567_0
-    - sip =6.10.0 =py312h2ec8cdc_0
+    - sip =6.10.0 =py312h1289d80_1
     - six =1.17.0 =pyhe01879c_1
     - sniffio =1.3.1 =pyhd8ed1ab_1
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1

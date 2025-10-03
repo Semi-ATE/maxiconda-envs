@@ -227,10 +227,10 @@ requirements:
     - libxcb =1.17.0 =hf1f96e2_0
     - libxml2 =2.13.8 =he1bc88e_1
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =21.1.2 =h472b3d1_2
+    - llvm-openmp =21.1.2 =h472b3d1_3
     - llvm-tools =21.1.0 =hc040464_0
     - llvm-tools-21 =21.1.0 =h0167baa_0
-    - llvmlite =0.45.0 =py311hb26b958_1
+    - llvmlite =0.45.1 =py311hb26b958_0
     - make =4.4.1 =h00291cd_2
     - markupsafe =3.0.3 =py311he13f9b5_0
     - matplotlib-base =3.10.6 =py311h48d7e91_1
@@ -490,7 +490,7 @@ requirements:
     - send2trash =1.8.3 =pyh31c8845_1
     - setuptools =80.9.0 =pyhff2d567_0
     - sigtool =0.1.3 =h88f4db0_0
-    - sip =6.10.0 =py311hc356e98_0
+    - sip =6.10.0 =py311h11ccb26_1
     - six =1.17.0 =pyhe01879c_1
     - sniffio =1.3.1 =pyhd8ed1ab_1
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
