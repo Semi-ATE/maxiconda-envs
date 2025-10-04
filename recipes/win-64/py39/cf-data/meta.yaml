@@ -196,10 +196,10 @@ requirements:
     - lcms2 =2.17 =hbcf6048_0
     - lerc =4.0.0 =h6470a55_1
     - libabseil =20250512.1 =cxx17_habfad5f_0
-    - libarrow =20.0.0 =hc60ab67_24_cpu
-    - libarrow-acero =20.0.0 =h7d8d6a5_24_cpu
-    - libarrow-dataset =20.0.0 =h7d8d6a5_24_cpu
-    - libarrow-substrait =20.0.0 =hf865cc0_24_cpu
+    - libarrow =20.0.0 =h3c55073_25_cpu
+    - libarrow-acero =20.0.0 =h7d8d6a5_25_cpu
+    - libarrow-dataset =20.0.0 =h7d8d6a5_25_cpu
+    - libarrow-substrait =20.0.0 =hf865cc0_25_cpu
     - libblas =3.9.0 =35_h5709861_mkl
     - libboost =1.88.0 =h9dfe17d_5
     - libbrotlicommon =1.1.0 =hfd05255_4
@@ -231,7 +231,7 @@ requirements:
     - liblightgbm =4.6.0 =cpu_h5d2ca61_3
     - liblzma =5.8.1 =h2466b09_2
     - libogg =1.3.5 =h2466b09_1
-    - libparquet =20.0.0 =h24c48c9_24_cpu
+    - libparquet =20.0.0 =h24c48c9_25_cpu
     - libpng =1.6.50 =h7351971_1
     - libprotobuf =6.31.1 =hdcda5b4_1
     - libre2-11 =2025.08.12 =h0eb2380_1
@@ -284,7 +284,7 @@ requirements:
     - opentelemetry-api =1.36.0 =pyhd8ed1ab_0
     - opentelemetry-sdk =1.36.0 =pyhd8ed1ab_0
     - opentelemetry-semantic-conventions =0.57b0 =pyh3cfb1c2_0
-    - orc =2.2.0 =h0018cbe_0
+    - orc =2.2.1 =h7414dfc_0
     - packaging =25.0 =pyh29332c3_1
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h03d888a_0

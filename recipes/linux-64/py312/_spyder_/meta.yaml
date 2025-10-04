@@ -29,8 +29,8 @@ requirements:
     - matplotlib =3.10.6 =py312h7900ff3_1
     - numpy =2.3.3 =py312h33ff503_0
     - pandas =2.3.3 =py312hf79963d_1
-    - pyqt =5.15.11 =py312hcec5e1c_0
-    - pyqtwebengine =5.15.11 =py312hf44941f_0
+    - pyqt =5.15.11 =py312h82c0db2_2
+    - pyqtwebengine =5.15.11 =py312hf963f02_2
     - scipy =1.16.2 =py312h7a1785b_0
     - spyder =6.1.0 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
@@ -244,7 +244,7 @@ requirements:
     - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.37 =h29cc59b_0
-    - nss =3.116 =h445c969_0
+    - nss =3.117 =h445c969_0
     - numpydoc =1.9.0 =pyhe01879c_1
     - openjpeg =2.5.4 =h55fea9a_0
     - openldap =2.6.10 =he970967_0
@@ -284,13 +284,13 @@ requirements:
     - pynacl =1.6.0 =py312h4c3975b_0
     - pyopenssl =25.1.0 =pyhd8ed1ab_0
     - pyparsing =3.2.5 =pyhcf101f3_0
-    - pyqt5-sip =12.17.0 =py312h2ec8cdc_0
+    - pyqt5-sip =12.17.0 =py312h1289d80_2
     - pyside6 =6.9.2 =py312h5654102_1
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
     - python-gil =3.12.11 =hd8ed1ab_0
-    - python-gssapi =1.10.0 =py312h7cea900_0
+    - python-gssapi =1.10.1 =py312h7cea900_0
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
     - python-lsp-ruff =2.3.0 =pyhcf101f3_0
@@ -323,7 +323,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.27.1 =py312h868fb18_1
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.13.2 =ha3a3aed_0
+    - ruff =0.13.3 =ha3a3aed_0
     - secretstorage =3.4.0 =py312h7900ff3_0
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.10.0 =py312h1289d80_1

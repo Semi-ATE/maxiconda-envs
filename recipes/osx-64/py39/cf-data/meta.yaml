@@ -214,10 +214,10 @@ requirements:
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
     - libabseil =20250512.1 =cxx17_hfc00f1c_0
-    - libarrow =20.0.0 =h9434f2e_24_cpu
-    - libarrow-acero =20.0.0 =h2db2d7d_24_cpu
-    - libarrow-dataset =20.0.0 =h2db2d7d_24_cpu
-    - libarrow-substrait =20.0.0 =h4653b8a_24_cpu
+    - libarrow =20.0.0 =h07aa1da_25_cpu
+    - libarrow-acero =20.0.0 =h2db2d7d_25_cpu
+    - libarrow-dataset =20.0.0 =h2db2d7d_25_cpu
+    - libarrow-substrait =20.0.0 =h4653b8a_25_cpu
     - libblas =3.9.0 =20_osx64_mkl
     - libboost =1.88.0 =hf9ddd82_5
     - libbrotlicommon =1.1.0 =h1c43f85_4
@@ -261,7 +261,7 @@ requirements:
     - libopentelemetry-cpp =1.21.0 =h7d3f41d_1
     - libopentelemetry-cpp-headers =1.21.0 =h694c41f_1
     - libopus =1.5.2 =he3325bb_0
-    - libparquet =20.0.0 =ha67a804_24_cpu
+    - libparquet =20.0.0 =ha67a804_25_cpu
     - libpng =1.6.50 =h84aeda2_1
     - libpq =17.6 =h5a4e477_2
     - libprotobuf =6.31.1 =h6e993e7_1
@@ -315,7 +315,7 @@ requirements:
     - nlohmann_json =3.12.0 =h53ec75d_1
     - nltk =3.9.1 =pyhd8ed1ab_1
     - nspr =4.37 =hbd2c7f0_0
-    - nss =3.116 =h2b2a826_0
+    - nss =3.117 =h2b2a826_0
     - numba =0.60.0 =py39h90d9702_0
     - numexpr =2.10.2 =py39h9f64e28_0
     - opencl-headers =2025.06.13 =h240833e_0
@@ -326,7 +326,7 @@ requirements:
     - opentelemetry-sdk =1.36.0 =pyhd8ed1ab_0
     - opentelemetry-semantic-conventions =0.57b0 =pyh3cfb1c2_0
     - optree =0.17.0 =py39h10b7adc_0
-    - orc =2.2.0 =hd73430f_0
+    - orc =2.2.1 =hd1b02dc_0
     - packaging =25.0 =pyh29332c3_1
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h6ef8af8_0

@@ -30,8 +30,8 @@ requirements:
     - menuinst =2.3.1 =py312hbb81ca0_1
     - numpy =2.3.3 =py312ha72d056_0
     - pandas =2.3.3 =py312hc128f0a_1
-    - pyqt =5.15.11 =py312he11f4ca_1
-    - pyqtwebengine =5.15.11 =py312h5f40ce4_1
+    - pyqt =5.15.11 =py312h7eb3e20_2
+    - pyqtwebengine =5.15.11 =py312hffa3973_2
     - scipy =1.16.2 =py312h33376e8_0
     - spyder =6.1.0 =hd8ed1ab_0
     - sympy =1.14.0 =pyh04b8f61_5
@@ -233,13 +233,13 @@ requirements:
     - pynacl =1.6.0 =py312he06e257_0
     - pyopenssl =25.1.0 =pyhd8ed1ab_0
     - pyparsing =3.2.5 =pyhcf101f3_0
-    - pyqt5-sip =12.17.0 =py312h275cf98_1
+    - pyqt5-sip =12.17.0 =py312hbb81ca0_2
     - pyside6 =6.9.3 =py312h0c8bdd4_1
     - pysocks =1.7.1 =pyh09c184e_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
     - python-gil =3.12.11 =hd8ed1ab_0
-    - python-gssapi =1.10.0 =py312hd572b79_0
+    - python-gssapi =1.10.1 =py312hd572b79_0
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
     - python-lsp-ruff =2.3.0 =pyhcf101f3_0
@@ -272,7 +272,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.27.1 =py312hdabe01f_1
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.13.2 =h3e3edff_0
+    - ruff =0.13.3 =h3e3edff_0
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.10.0 =py312hbb81ca0_1
     - six =1.17.0 =pyhe01879c_1
