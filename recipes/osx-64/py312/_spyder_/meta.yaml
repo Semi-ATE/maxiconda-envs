@@ -63,9 +63,9 @@ requirements:
     - brotli-bin =1.1.0 =h1c43f85_4
     - brotli-python =1.1.0 =py312h462f358_4
     - bzip2 =1.0.8 =h500dc9f_8
-    - ca-certificates =2025.8.3 =hbd8a1cb_0
+    - ca-certificates =2025.10.5 =hbd8a1cb_0
     - cattrs =25.2.0 =pyhd8ed1ab_0
-    - certifi =2025.8.3 =pyhd8ed1ab_0
+    - certifi =2025.10.5 =pyhd8ed1ab_0
     - cffi =2.0.0 =py312hf9bc6d9_0
     - chardet =5.2.0 =pyhd8ed1ab_3
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
@@ -145,8 +145,8 @@ requirements:
     - libffi =3.4.6 =h281671d_1
     - libfreetype =2.14.1 =h694c41f_0
     - libfreetype6 =2.14.1 =h6912278_0
-    - libgfortran =15.1.0 =h5f6db21_1
-    - libgfortran5 =15.1.0 =hfa3c126_1
+    - libgfortran =15.2.0 =h306097a_1
+    - libgfortran5 =15.2.0 =h336fb69_1
     - libglib =2.86.0 =h7cafd41_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
@@ -228,7 +228,7 @@ requirements:
     - pygithub =2.8.1 =pyhd8ed1ab_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyjwt =2.10.1 =pyhd8ed1ab_0
-    - pylint =3.3.8 =pyhe01879c_0
+    - pylint =3.3.9 =pyhcf101f3_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.6.0 =py312h80b0991_0

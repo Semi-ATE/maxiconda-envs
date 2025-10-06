@@ -62,10 +62,10 @@ requirements:
     - brotli-bin =1.1.0 =hfd05255_4
     - brotli-python =1.1.0 =py311h3e6a449_4
     - bzip2 =1.0.8 =h0ad9c76_8
-    - ca-certificates =2025.8.3 =h4c7d964_0
+    - ca-certificates =2025.10.5 =h4c7d964_0
     - cairo =1.18.4 =h5782bbf_0
     - cattrs =25.2.0 =pyhd8ed1ab_0
-    - certifi =2025.8.3 =pyhd8ed1ab_0
+    - certifi =2025.10.5 =pyhd8ed1ab_0
     - cffi =2.0.0 =py311h3485c13_0
     - chardet =5.2.0 =pyhd8ed1ab_3
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
@@ -148,9 +148,9 @@ requirements:
     - libffi =3.4.6 =h537db12_1
     - libfreetype =2.14.1 =h57928b3_0
     - libfreetype6 =2.14.1 =hdbac1cb_0
-    - libgcc =15.1.0 =h1383e82_5
+    - libgcc =15.2.0 =h1383e82_5
     - libglib =2.86.0 =h5f26cbf_0
-    - libgomp =15.1.0 =h1383e82_5
+    - libgomp =15.2.0 =h1383e82_5
     - libhwloc =2.12.1 =default_h64bd3f2_1002
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
@@ -226,7 +226,7 @@ requirements:
     - pygithub =2.8.1 =pyhd8ed1ab_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyjwt =2.10.1 =pyhd8ed1ab_0
-    - pylint =3.3.8 =pyhe01879c_0
+    - pylint =3.3.9 =pyhcf101f3_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.6.0 =py311h3485c13_0
