@@ -39,7 +39,7 @@ requirements:
     - _openmp_mutex =4.5 =2_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
-    - aiohttp =3.12.15 =py312ha4530ae_0
+    - aiohttp =3.13.0 =py312h16151e5_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - alsa-lib =1.2.14 =h86ecc28_0
@@ -172,18 +172,18 @@ requirements:
     - libflac =1.4.3 =h2f0025b_0
     - libfreetype =2.14.1 =h8af1aa0_0
     - libfreetype6 =2.14.1 =hdae7a39_0
-    - libgcc =15.2.0 =he277a41_5
-    - libgcc-ng =15.2.0 =he9431aa_5
+    - libgcc =15.2.0 =he277a41_6
+    - libgcc-ng =15.2.0 =he9431aa_6
     - libgcrypt-lib =1.11.1 =h86ecc28_0
     - libgettextpo =0.25.1 =h5ad3122_0
     - libgettextpo-devel =0.25.1 =h5ad3122_0
-    - libgfortran =15.2.0 =he9431aa_5
-    - libgfortran5 =15.2.0 =h87db57e_5
+    - libgfortran =15.2.0 =he9431aa_6
+    - libgfortran5 =15.2.0 =h87db57e_6
     - libgl =1.7.0 =hd24410f_2
     - libglib =2.86.0 =h7cdfd2c_0
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
-    - libgomp =15.2.0 =he277a41_5
+    - libgomp =15.2.0 =he277a41_6
     - libgpg-error =1.55 =h5ad3122_0
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.0 =h86ecc28_0
@@ -204,8 +204,8 @@ requirements:
     - libsodium =1.0.20 =h68df207_0
     - libspatialindex =2.1.0 =hd7870d2_0
     - libsqlite =3.50.4 =h022381a_0
-    - libstdcxx =15.2.0 =h3f4de04_5
-    - libstdcxx-ng =15.2.0 =hf1166c9_5
+    - libstdcxx =15.2.0 =h3f4de04_6
+    - libstdcxx-ng =15.2.0 =hf1166c9_6
     - libsystemd0 =257.9 =hd926fa8_0
     - libtiff =4.7.1 =h7a57436_0
     - libuuid =2.41.2 =h3e4203c_0
@@ -322,10 +322,10 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.27.1 =py312h75d7d99_1
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.13.3 =h46ed904_0
+    - ruff =0.14.0 =h46ed904_0
     - secretstorage =3.4.0 =py312h8025657_0
     - setuptools =80.9.0 =pyhff2d567_0
-    - sip =6.12.0 =py312hfcd9f9b_1
+    - sip =6.13.0 =py312hfcd9f9b_0
     - six =1.17.0 =pyhe01879c_1
     - snowballstemmer =3.0.1 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1

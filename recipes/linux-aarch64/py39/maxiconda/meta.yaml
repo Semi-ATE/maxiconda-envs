@@ -127,10 +127,10 @@ requirements:
     - freetype =2.14.1 =h8af1aa0_0
     - fribidi =1.0.16 =he30d5cf_0
     - frozenlist =1.7.0 =py39h5064d8f_0
-    - gcc_impl_linux-aarch64 =15.2.0 =h679d96a_5
+    - gcc_impl_linux-aarch64 =15.2.0 =h679d96a_6
     - gettext =0.25.1 =h5ad3122_0
     - gettext-tools =0.25.1 =h5ad3122_0
-    - gfortran_impl_linux-aarch64 =15.2.0 =hcb832a5_5
+    - gfortran_impl_linux-aarch64 =15.2.0 =hcb832a5_6
     - glib =2.84.3 =h701fa2e_0
     - glib-tools =2.84.3 =hc87f4d4_0
     - gmp =6.3.0 =h0a1ffab_2
@@ -140,7 +140,7 @@ requirements:
     - gsl =2.7 =h294027d_0
     - gst-plugins-base =1.24.11 =h83ffb7f_0
     - gstreamer =1.24.11 =h17c303d_0
-    - gxx_impl_linux-aarch64 =15.2.0 =h0902481_5
+    - gxx_impl_linux-aarch64 =15.2.0 =h0902481_6
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.2.0 =pyhd8ed1ab_0
     - harfbuzz =11.4.5 =he4899c9_0
@@ -203,20 +203,20 @@ requirements:
     - libflac =1.4.3 =h2f0025b_0
     - libfreetype =2.14.1 =h8af1aa0_0
     - libfreetype6 =2.14.1 =hdae7a39_0
-    - libgcc =15.2.0 =he277a41_5
-    - libgcc-devel_linux-aarch64 =15.2.0 =h1ed5458_105
-    - libgcc-ng =15.2.0 =he9431aa_5
+    - libgcc =15.2.0 =he277a41_6
+    - libgcc-devel_linux-aarch64 =15.2.0 =h1ed5458_106
+    - libgcc-ng =15.2.0 =he9431aa_6
     - libgcrypt-lib =1.11.1 =h86ecc28_0
     - libgettextpo =0.25.1 =h5ad3122_0
     - libgettextpo-devel =0.25.1 =h5ad3122_0
-    - libgfortran =15.2.0 =he9431aa_5
-    - libgfortran-ng =15.2.0 =he9431aa_5
-    - libgfortran5 =15.2.0 =h87db57e_5
+    - libgfortran =15.2.0 =he9431aa_6
+    - libgfortran-ng =15.2.0 =he9431aa_6
+    - libgfortran5 =15.2.0 =h87db57e_6
     - libgl =1.7.0 =hd24410f_2
     - libglib =2.84.3 =h75d4a95_0
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
-    - libgomp =15.2.0 =he277a41_5
+    - libgomp =15.2.0 =he277a41_6
     - libgpg-error =1.55 =h5ad3122_0
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.0 =h86ecc28_0
@@ -235,14 +235,14 @@ requirements:
     - libpciaccess =0.18 =h86ecc28_0
     - libpng =1.6.50 =h1abf092_1
     - libpq =17.6 =hb4b1422_2
-    - libsanitizer =15.2.0 =h8b511b7_5
+    - libsanitizer =15.2.0 =h8b511b7_6
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.20 =h68df207_0
     - libsqlite =3.50.4 =h022381a_0
     - libssh2 =1.11.1 =h18c354c_0
-    - libstdcxx =15.2.0 =h3f4de04_5
-    - libstdcxx-devel_linux-aarch64 =15.2.0 =h1ed5458_105
-    - libstdcxx-ng =15.2.0 =hf1166c9_5
+    - libstdcxx =15.2.0 =h3f4de04_6
+    - libstdcxx-devel_linux-aarch64 =15.2.0 =h1ed5458_106
+    - libstdcxx-ng =15.2.0 =hf1166c9_6
     - libsystemd0 =257.9 =hd926fa8_0
     - libtiff =4.7.1 =h7a57436_0
     - libuuid =2.41.2 =h3e4203c_0
