@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py312h86abcb1_1
     - psutil =7.1.0 =py312h80b0991_0
-    - pydantic =2.11.10 =pyh3cfb1c2_0
+    - pydantic =2.12.0 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py312hd9d23cd_2
     - pyserial =3.5 =pyhd8ed1ab_1
     - pytest =8.4.2 =pyhd8ed1ab_0
@@ -267,7 +267,7 @@ requirements:
     - pip =25.2 =pyh8b19718_0
     - pixman =0.46.4 =ha059160_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
-    - platformdirs =4.4.0 =pyhcf101f3_0
+    - platformdirs =4.5.0 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
@@ -278,7 +278,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycparser =2.22 =pyh29332c3_1
-    - pydantic-core =2.33.2 =py312haba3716_0
+    - pydantic-core =2.41.1 =py312h8a6388b_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyobjc-core =11.1 =py312h3f2cce9_1
     - pyobjc-framework-cocoa =11.1 =py312h1cc0658_1
@@ -509,7 +509,7 @@ requirements:
     - tomli-w =1.2.0 =pyhd8ed1ab_0
     - tornado =6.5.2 =py312h2f459f6_1
     - traitlets =5.14.3 =pyhd8ed1ab_1
-    - types-python-dateutil =2.9.0.20250822 =pyhd8ed1ab_0
+    - types-python-dateutil =2.9.0.20251008 =pyhd8ed1ab_0
     - typing-extensions =4.15.0 =h396c80c_0
     - typing-inspection =0.4.2 =pyhd8ed1ab_0
     - typing_extensions =4.15.0 =pyhcf101f3_0
@@ -521,7 +521,7 @@ requirements:
     - wcwidth =0.2.14 =pyhd8ed1ab_0
     - webcolors =24.11.1 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
-    - websocket-client =1.8.0 =pyhd8ed1ab_1
+    - websocket-client =1.9.0 =pyhd8ed1ab_0
     - wheel =0.45.1 =pyhd8ed1ab_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xorg-libxau =1.0.12 =h6e16a3a_0

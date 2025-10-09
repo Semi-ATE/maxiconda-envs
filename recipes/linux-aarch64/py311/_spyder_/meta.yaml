@@ -171,18 +171,18 @@ requirements:
     - libflac =1.4.3 =h2f0025b_0
     - libfreetype =2.14.1 =h8af1aa0_0
     - libfreetype6 =2.14.1 =hdae7a39_0
-    - libgcc =15.2.0 =he277a41_6
-    - libgcc-ng =15.2.0 =he9431aa_6
+    - libgcc =15.2.0 =he277a41_7
+    - libgcc-ng =15.2.0 =he9431aa_7
     - libgcrypt-lib =1.11.1 =h86ecc28_0
     - libgettextpo =0.25.1 =h5ad3122_0
     - libgettextpo-devel =0.25.1 =h5ad3122_0
-    - libgfortran =15.2.0 =he9431aa_6
-    - libgfortran5 =15.2.0 =h87db57e_6
+    - libgfortran =15.2.0 =he9431aa_7
+    - libgfortran5 =15.2.0 =h87db57e_7
     - libgl =1.7.0 =hd24410f_2
     - libglib =2.86.0 =h7cdfd2c_0
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
-    - libgomp =15.2.0 =he277a41_6
+    - libgomp =15.2.0 =he277a41_7
     - libgpg-error =1.55 =h5ad3122_0
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.0 =h86ecc28_0
@@ -203,8 +203,8 @@ requirements:
     - libsodium =1.0.20 =h68df207_0
     - libspatialindex =2.1.0 =hd7870d2_0
     - libsqlite =3.50.4 =h022381a_0
-    - libstdcxx =15.2.0 =h3f4de04_6
-    - libstdcxx-ng =15.2.0 =hf1166c9_6
+    - libstdcxx =15.2.0 =h3f4de04_7
+    - libstdcxx-ng =15.2.0 =hf1166c9_7
     - libsystemd0 =257.9 =hd926fa8_0
     - libtiff =4.7.1 =h7a57436_0
     - libuuid =2.41.2 =h3e4203c_0
@@ -258,7 +258,7 @@ requirements:
     - pillow =11.3.0 =py311h3bd873a_3
     - pip =25.2 =pyh8b19718_0
     - pixman =0.46.4 =h7ac5ae9_1
-    - platformdirs =4.4.0 =pyhcf101f3_0
+    - platformdirs =4.5.0 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.52 =pyha770c72_0
@@ -349,7 +349,7 @@ requirements:
     - tomlkit =0.13.3 =pyha770c72_0
     - tornado =6.5.2 =py311hb9158a3_1
     - traitlets =5.14.3 =pyhd8ed1ab_1
-    - types-python-dateutil =2.9.0.20250822 =pyhd8ed1ab_0
+    - types-python-dateutil =2.9.0.20251008 =pyhd8ed1ab_0
     - typing-extensions =4.15.0 =h396c80c_0
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - tzdata =2025b =h78e105d_0
