@@ -121,8 +121,8 @@ requirements:
     - freetype =2.14.1 =h57928b3_0
     - fribidi =1.0.16 =hfd05255_0
     - frozenlist =1.7.0 =py311hdf60d3a_0
-    - gcc_impl_win-64 =15.2.0 =h90e0b34_6
-    - gfortran_impl_win-64 =15.2.0 =hd3d1e43_6
+    - gcc_impl_win-64 =15.2.0 =h90e0b34_7
+    - gfortran_impl_win-64 =15.2.0 =hd3d1e43_7
     - glib =2.86.0 =ha3795fc_0
     - glib-tools =2.86.0 =he647baa_0
     - graphite2 =1.3.14 =hac47afa_2
@@ -130,7 +130,7 @@ requirements:
     - gsl =2.7 =hdfb1a43_0
     - gst-plugins-base =1.24.11 =h3fe0a9e_0
     - gstreamer =1.24.11 =h233a61a_0
-    - gxx_impl_win-64 =15.2.0 =h4517dcd_6
+    - gxx_impl_win-64 =15.2.0 =h4517dcd_7
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.3.0 =pyhcf101f3_0
     - harfbuzz =12.1.0 =h5f2951f_0
@@ -178,12 +178,12 @@ requirements:
     - libffi =3.4.6 =h537db12_1
     - libfreetype =2.14.1 =h57928b3_0
     - libfreetype6 =2.14.1 =hdbac1cb_0
-    - libgcc =15.2.0 =h1383e82_6
-    - libgcc-devel_win-64 =15.2.0 =h40631e7_106
-    - libgfortran =15.2.0 =h719f0c7_6
-    - libgfortran5 =15.2.0 =hf2bee02_6
+    - libgcc =15.2.0 =h1383e82_7
+    - libgcc-devel_win-64 =15.2.0 =h40631e7_107
+    - libgfortran =15.2.0 =h719f0c7_7
+    - libgfortran5 =15.2.0 =hf2bee02_7
     - libglib =2.86.0 =h5f26cbf_0
-    - libgomp =15.2.0 =h1383e82_6
+    - libgomp =15.2.0 =h1383e82_7
     - libhwloc =2.12.1 =default_h64bd3f2_1002
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
@@ -197,12 +197,12 @@ requirements:
     - libsodium =1.0.20 =hc70643c_0
     - libsqlite =3.50.4 =hf5d6505_0
     - libssh2 =1.11.1 =h9aa295b_0
-    - libstdcxx =15.2.0 =h904f734_6
-    - libstdcxx-devel_win-64 =15.2.0 =h40631e7_106
+    - libstdcxx =15.2.0 =h904f734_7
+    - libstdcxx-devel_win-64 =15.2.0 =h40631e7_107
     - libtiff =4.7.1 =h550210a_0
     - libuv =1.51.0 =hfd05255_1
     - libvorbis =1.3.7 =h5112557_2
-    - libvulkan-loader =1.4.328.0 =h477610d_0
+    - libvulkan-loader =1.4.328.1 =h477610d_0
     - libwebp-base =1.6.0 =h4d5522a_0
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_10
     - libxcb =1.17.0 =h0e4246c_0
@@ -480,7 +480,7 @@ requirements:
     - tk =8.6.13 =h2c6b04d_2
     - tktable =2.10 =h7e9e0db_7
     - toml =0.10.2 =pyhd8ed1ab_1
-    - tomli =2.2.1 =pyhe01879c_2
+    - tomli =2.3.0 =pyhcf101f3_0
     - tomli-w =1.2.0 =pyhd8ed1ab_0
     - tornado =6.5.2 =py311h3485c13_1
     - traitlets =5.14.3 =pyhd8ed1ab_1
