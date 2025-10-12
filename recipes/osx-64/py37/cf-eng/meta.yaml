@@ -60,11 +60,11 @@ requirements:
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =4.11.1 =py37hf985489_0
     - krb5 =1.21.3 =h37d8d59_0
-    - libblas =3.9.0 =36_he492b99_openblas
-    - libcblas =3.9.0 =36_h9b27e0a_openblas
+    - libblas =3.9.0 =37_he492b99_openblas
+    - libcblas =3.9.0 =37_h9b27e0a_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =21.1.0 =default_h7f9524c_1
-    - libcxx =21.1.2 =h3d58e20_0
+    - libcxx =21.1.3 =h3d58e20_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libffi =3.4.6 =h281671d_1
     - libgfortran =15.2.0 =h306097a_1
@@ -74,7 +74,7 @@ requirements:
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
-    - liblapack =3.9.0 =36_h859234e_openblas
+    - liblapack =3.9.0 =37_h859234e_openblas
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm21 =21.1.0 =h9b4ebcc_0
     - liblzma =5.8.1 =hd471939_2
