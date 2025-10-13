@@ -143,21 +143,21 @@ requirements:
     - getopt-win32 =0.1 =h6a83c73_3
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.45 =pyhff2d567_0
-    - glib =2.84.3 =h36503ca_0
-    - glib-tools =2.84.3 =he647baa_0
+    - glib =2.84.0 =h3d4babf_0
+    - glib-tools =2.84.0 =h4394cf3_0
     - google-auth =2.40.3 =pyhd8ed1ab_0
     - graphene =3.4.3 =pyhd8ed1ab_1
     - graphite2 =1.3.14 =hac47afa_2
     - graphql-core =3.2.6 =pyh29332c3_0
     - graphql-relay =3.2.0 =pyhd8ed1ab_1
-    - graphviz =13.1.2 =ha5e8f4b_0
+    - graphviz =12.2.1 =hf40819d_1
     - greenlet =3.2.4 =py39hdb6649d_0
-    - gst-plugins-base =1.24.11 =h3fe0a9e_0
-    - gstreamer =1.24.11 =h233a61a_0
+    - gst-plugins-base =1.24.7 =hb0a98b8_0
+    - gstreamer =1.24.7 =h5006eae_0
     - gts =0.7.6 =h6b5321d_4
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.2.0 =pyhd8ed1ab_0
-    - harfbuzz =11.4.5 =h5f2951f_0
+    - harfbuzz =11.0.0 =h9e37d49_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - htmlmin =0.1.12 =pyhca7485f_2
     - httpcore =1.0.9 =pyh29332c3_0
@@ -212,12 +212,12 @@ requirements:
     - libdeflate =1.24 =h76ddb4d_0
     - libevent =2.1.12 =h3671451_1
     - libexpat =2.7.1 =hac47afa_0
-    - libffi =3.4.6 =h537db12_1
+    - libffi =3.5.2 =h52bdfb6_0
     - libfreetype =2.14.1 =h57928b3_0
     - libfreetype6 =2.14.1 =hdbac1cb_0
     - libgcc =15.2.0 =h1383e82_7
     - libgd =2.3.3 =h7208af6_11
-    - libglib =2.84.3 =h1c1036b_0
+    - libglib =2.84.0 =h7025463_0
     - libgomp =15.2.0 =h1383e82_7
     - libgoogle-cloud =2.39.0 =h19ee442_0
     - libgoogle-cloud-storage =2.39.0 =he04ea4c_0
@@ -249,7 +249,7 @@ requirements:
     - libxml2 =2.13.8 =h741aa76_1
     - libxslt =1.1.43 =h25c3957_0
     - libzlib =1.3.1 =h2466b09_2
-    - llvm-openmp =21.1.2 =hfa2b4ca_3
+    - llvm-openmp =21.1.3 =hfa2b4ca_0
     - llvmlite =0.43.0 =py39he94c479_1
     - lxml =6.0.0 =py39hfee6a47_0
     - lz4-c =1.10.0 =h2466b09_1
@@ -287,12 +287,12 @@ requirements:
     - orc =2.2.1 =h7414dfc_0
     - packaging =25.0 =pyh29332c3_1
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
-    - pango =1.56.4 =h03d888a_0
+    - pango =1.56.3 =h0c53d3b_1
     - paramiko =4.0.0 =pyhd8ed1ab_0
     - parsel =1.10.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_1
     - patsy =1.0.1 =pyhd8ed1ab_1
-    - pcre2 =10.45 =h99c9b8b_0
+    - pcre2 =10.44 =h99c9b8b_2
     - phik =0.12.5 =py39hd0e0239_0
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py39hbad85af_0
@@ -328,7 +328,7 @@ requirements:
     - pyopenssl =25.1.0 =pyhd8ed1ab_0
     - pyparsing =3.2.3 =pyhe01879c_2
     - pyqt5-sip =12.17.0 =py39ha51f57c_1
-    - pyside6 =6.9.1 =py39h5f4aa1c_0
+    - pyside6 =6.9.0 =py39h5cc861e_0
     - pysocks =1.7.1 =pyh09c184e_7
     - python-cufflinks =0.17.3 =pyhd8ed1ab_1
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
@@ -345,8 +345,8 @@ requirements:
     - pyyaml =6.0.2 =py39hf73967f_2
     - pyzmq =27.0.2 =py39h248659b_0
     - qhull =2020.2 =hc790b64_5
-    - qt-main =5.15.15 =hb098fff_5
-    - qt6-main =6.9.1 =h02ddd7d_2
+    - qt-main =5.15.15 =h9151539_3
+    - qt6-main =6.9.0 =h83cda92_0
     - querystring_parser =1.2.4 =pyhd8ed1ab_2
     - queuelib =1.8.0 =pyhd8ed1ab_0
     - re2 =2025.08.12 =ha104f34_1

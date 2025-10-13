@@ -35,7 +35,7 @@ requirements:
     - spyder =6.0.4 =hd8ed1ab_1
     - sympy =1.13.3 =pyh2585a3b_104
 
-    # 289 secondary packages :
+    # 291 secondary packages :
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
     - aiohttp =3.10.5 =py38hc718529_0
     - aiosignal =1.3.1 =pyhd8ed1ab_0
@@ -91,10 +91,10 @@ requirements:
     - fonttools =4.53.1 =py38hc718529_0
     - freetype =2.14.1 =h694c41f_0
     - frozenlist =1.4.1 =py38hae2e43d_0
-    - fzf =0.65.2 =h1ecb644_0
+    - fzf =0.66.0 =h1ecb644_0
     - giflib =5.2.2 =h10d778d_0
-    - glib =2.86.0 =h7f22f8f_0
-    - glib-tools =2.86.0 =h8650975_0
+    - glib =2.84.0 =h915cd9b_0
+    - glib-tools =2.84.0 =hf8faeaf_0
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.1.5 =py38hdb2c785_1
     - gst-plugins-base =1.24.11 =h09840cc_0
@@ -140,12 +140,12 @@ requirements:
     - libcxx =21.1.3 =h3d58e20_0
     - libdeflate =1.24 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
-    - libffi =3.4.6 =h281671d_1
+    - libffi =3.5.2 =h750e83c_0
     - libfreetype =2.14.1 =h694c41f_0
     - libfreetype6 =2.14.1 =h6912278_0
     - libgfortran =15.2.0 =h306097a_1
     - libgfortran5 =15.2.0 =h336fb69_1
-    - libglib =2.86.0 =h7cafd41_0
+    - libglib =2.84.0 =h5c976ab_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
@@ -171,7 +171,7 @@ requirements:
     - libxcb =1.17.0 =hf1f96e2_0
     - libxml2 =2.13.8 =he1bc88e_1
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =21.1.2 =h472b3d1_3
+    - llvm-openmp =21.1.3 =h472b3d1_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
     - markupsafe =2.1.5 =py38hae2e43d_0
     - matplotlib-base =3.7.3 =py38hcd1b199_0
@@ -186,6 +186,8 @@ requirements:
     - multidict =6.0.5 =py38hef030d1_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =1.0.0 =pyha770c72_0
+    - mysql-common =9.0.1 =hd00b0ec_6
+    - mysql-libs =9.0.1 =h062309a_6
     - nbclient =0.10.2 =pyhd8ed1ab_0
     - nbconvert =7.16.4 =hd8ed1ab_2
     - nbconvert-core =7.16.4 =pyhff2d567_2
@@ -204,7 +206,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
-    - pcre2 =10.46 =ha3e7e28_0
+    - pcre2 =10.44 =hf733adb_2
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pillow =10.4.0 =py38hf802781_0
@@ -259,7 +261,7 @@ requirements:
     - pyzmq =26.2.0 =py38hd99e78f_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qstylizer =0.2.3 =pyhd8ed1ab_0
-    - qt-main =5.15.15 =h0f7c986_5
+    - qt-main =5.15.15 =h30a8c49_3
     - qt-webengine =5.15.15 =h46887bd_1
     - qtawesome =1.3.1 =pyh9208f05_0
     - qtconsole =5.6.1 =pyhd8ed1ab_0

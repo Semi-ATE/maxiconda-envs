@@ -35,7 +35,7 @@ requirements:
     - spyder =6.0.4 =hd8ed1ab_1
     - sympy =1.13.3 =pyh2585a3b_104
 
-    # 354 secondary packages :
+    # 356 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
@@ -80,7 +80,7 @@ requirements:
     - cryptography =43.0.0 =py38hf793753_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cyrus-sasl =2.1.28 =hd9c7081_0
-    - dbus =1.16.2 =h3c4dab8_0
+    - dbus =1.13.6 =h5008d03_3
     - debugpy =1.8.5 =py38h6d02427_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
@@ -91,6 +91,7 @@ requirements:
     - docutils =0.20.1 =py38h578d9bd_3
     - entrypoints =0.4 =pyhd8ed1ab_0
     - executing =2.1.0 =pyhd8ed1ab_0
+    - expat =2.7.1 =hecca717_0
     - fcitx-qt5 =1.2.7 =h748e8b9_2
     - flake8 =7.1.1 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -103,19 +104,19 @@ requirements:
     - fonttools =4.53.1 =py38h2019614_0
     - freetype =2.14.1 =ha770c72_0
     - frozenlist =1.4.1 =py38h01eb140_0
-    - fzf =0.65.2 =h6138981_0
+    - fzf =0.66.0 =h6138981_0
     - gettext =0.25.1 =h3f43e3d_1
     - gettext-tools =0.25.1 =h3f43e3d_1
     - giflib =5.2.2 =hd590300_0
-    - glib =2.86.0 =he175458_0
-    - glib-tools =2.86.0 =hf516916_0
+    - glib =2.84.0 =h07242d1_0
+    - glib-tools =2.84.0 =h4833e2c_0
     - gmp =6.3.0 =hac33072_2
     - gmpy2 =2.1.5 =py38h6a1700d_1
     - graphite2 =1.3.14 =hecca717_2
-    - gst-plugins-base =1.24.11 =h651a532_0
-    - gstreamer =1.24.11 =hc37bda9_0
+    - gst-plugins-base =1.24.7 =h0a52356_0
+    - gstreamer =1.24.7 =hf3bb09a_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =11.5.1 =h15599e2_0
+    - harfbuzz =11.0.0 =h76408a6_0
     - hpack =4.0.0 =pyh9f0ad1d_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =75.1 =he02047a_0
@@ -167,7 +168,7 @@ requirements:
     - libegl =1.7.0 =ha4b6fd6_2
     - libevent =2.1.12 =hf998b51_1
     - libexpat =2.7.1 =hecca717_0
-    - libffi =3.4.6 =h2dba641_1
+    - libffi =3.5.2 =h9ec8514_0
     - libflac =1.4.3 =h59595ed_0
     - libfreetype =2.14.1 =ha770c72_0
     - libfreetype6 =2.14.1 =h73754d4_0
@@ -180,7 +181,7 @@ requirements:
     - libgfortran-ng =15.2.0 =h69a702a_7
     - libgfortran5 =15.2.0 =hcd61629_7
     - libgl =1.7.0 =ha4b6fd6_2
-    - libglib =2.86.0 =h1fed272_0
+    - libglib =2.84.0 =h2ff4ddf_0
     - libglvnd =1.7.0 =ha4b6fd6_2
     - libglx =1.7.0 =ha4b6fd6_2
     - libgomp =15.2.0 =h767d61c_7
@@ -233,6 +234,8 @@ requirements:
     - multidict =6.0.5 =py38h01eb140_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =1.0.0 =pyha770c72_0
+    - mysql-common =9.0.1 =h266115a_6
+    - mysql-libs =9.0.1 =he0572af_6
     - nbclient =0.10.2 =pyhd8ed1ab_0
     - nbconvert =7.16.4 =hd8ed1ab_2
     - nbconvert-core =7.16.4 =pyhff2d567_2
@@ -251,7 +254,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
-    - pcre2 =10.46 =h1321c63_0
+    - pcre2 =10.44 =hc749103_2
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pillow =10.4.0 =py38h2bc05a7_0
@@ -267,7 +270,7 @@ requirements:
     - psutil =6.0.0 =py38hfb59056_0
     - pthread-stubs =0.4 =hb9d3cd8_1002
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pulseaudio-client =17.0 =h9a8bead_2
+    - pulseaudio-client =17.0 =hac146a9_1
     - pure_eval =0.2.3 =pyhd8ed1ab_0
     - pycodestyle =2.12.1 =pyhd8ed1ab_0
     - pyconify =0.1.6 =pyhd8ed1ab_0
@@ -303,7 +306,7 @@ requirements:
     - pyzmq =26.2.0 =py38h6c80b9a_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qstylizer =0.2.3 =pyhd8ed1ab_0
-    - qt-main =5.15.15 =h3a7ef08_5
+    - qt-main =5.15.15 =h993ce98_3
     - qt-webengine =5.15.15 =h2da670d_3
     - qtawesome =1.3.1 =pyh9208f05_0
     - qtconsole =5.6.1 =pyhd8ed1ab_0
@@ -377,7 +380,6 @@ requirements:
     - xorg-libxi =1.8.2 =hb9d3cd8_0
     - xorg-libxrandr =1.5.4 =hb9d3cd8_0
     - xorg-libxrender =0.9.12 =hb9d3cd8_0
-    - xorg-libxshmfence =1.3.3 =hb9d3cd8_0
     - xorg-libxtst =1.2.5 =hb9d3cd8_3
     - xorg-libxxf86vm =1.1.6 =hb9d3cd8_0
     - xz =5.8.1 =hbcc6ac9_2

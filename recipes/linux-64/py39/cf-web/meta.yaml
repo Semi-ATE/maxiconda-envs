@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.43 =py39hd399759_0
     - twisted =25.5.0 =py39h8cd3c5a_0
 
-    # 196 secondary packages :
+    # 198 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.14 =hb9d3cd8_0
@@ -59,11 +59,12 @@ requirements:
     - constantly =15.1.0 =py_0
     - cryptography =45.0.6 =py39hb2f7f84_0
     - cyrus-sasl =2.1.28 =hd9c7081_0
-    - dbus =1.16.2 =h3c4dab8_0
+    - dbus =1.13.6 =h5008d03_3
     - debugpy =1.8.16 =py39haef64b4_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - exceptiongroup =1.3.0 =pyhd8ed1ab_0
     - executing =2.2.0 =pyhd8ed1ab_0
+    - expat =2.7.1 =hecca717_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -74,14 +75,14 @@ requirements:
     - freetype =2.14.1 =ha770c72_0
     - gettext =0.25.1 =h3f43e3d_1
     - gettext-tools =0.25.1 =h3f43e3d_1
-    - glib =2.86.0 =he175458_0
-    - glib-tools =2.86.0 =hf516916_0
+    - glib =2.84.0 =h07242d1_0
+    - glib-tools =2.84.0 =h4833e2c_0
     - graphite2 =1.3.14 =hecca717_2
     - greenlet =3.2.4 =py39h818bca1_0
-    - gst-plugins-base =1.24.11 =h651a532_0
-    - gstreamer =1.24.11 =hc37bda9_0
+    - gst-plugins-base =1.24.7 =h0a52356_0
+    - gstreamer =1.24.7 =hf3bb09a_0
     - h2 =4.2.0 =pyhd8ed1ab_0
-    - harfbuzz =12.1.0 =h15599e2_0
+    - harfbuzz =11.0.0 =h76408a6_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - hyperlink =21.0.0 =pyh29332c3_1
@@ -109,7 +110,7 @@ requirements:
     - libegl =1.7.0 =ha4b6fd6_2
     - libevent =2.1.12 =hf998b51_1
     - libexpat =2.7.1 =hecca717_0
-    - libffi =3.4.6 =h2dba641_1
+    - libffi =3.5.2 =h9ec8514_0
     - libflac =1.4.3 =h59595ed_0
     - libfreetype =2.14.1 =ha770c72_0
     - libfreetype6 =2.14.1 =h73754d4_0
@@ -119,7 +120,7 @@ requirements:
     - libgettextpo =0.25.1 =h3f43e3d_1
     - libgettextpo-devel =0.25.1 =h3f43e3d_1
     - libgl =1.7.0 =ha4b6fd6_2
-    - libglib =2.86.0 =h1fed272_0
+    - libglib =2.84.0 =h2ff4ddf_0
     - libglvnd =1.7.0 =ha4b6fd6_2
     - libglx =1.7.0 =ha4b6fd6_2
     - libgomp =15.2.0 =h767d61c_7
@@ -154,6 +155,8 @@ requirements:
     - markupsafe =3.0.2 =py39h9399b63_1
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mpg123 =1.32.9 =hc50e24c_0
+    - mysql-common =9.0.1 =h266115a_6
+    - mysql-libs =9.0.1 =he0572af_6
     - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.37 =h29cc59b_0
@@ -162,7 +165,7 @@ requirements:
     - openssl =3.5.4 =h26f9b46_0
     - packaging =25.0 =pyh29332c3_1
     - parso =0.8.4 =pyhd8ed1ab_1
-    - pcre2 =10.46 =h1321c63_0
+    - pcre2 =10.44 =hc749103_2
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pip =25.2 =pyh8b19718_0
@@ -173,7 +176,7 @@ requirements:
     - psutil =7.0.0 =py39h8cd3c5a_0
     - pthread-stubs =0.4 =hb9d3cd8_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
-    - pulseaudio-client =17.0 =h9a8bead_2
+    - pulseaudio-client =17.0 =hac146a9_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pyasn1 =0.6.1 =pyhd8ed1ab_2
     - pyasn1-modules =0.4.2 =pyhd8ed1ab_0
@@ -186,7 +189,7 @@ requirements:
     - python_abi =3.9 =8_cp39
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.0.2 =py39haa5fa38_0
-    - qt-main =5.15.15 =h3a7ef08_5
+    - qt-main =5.15.15 =h993ce98_3
     - readline =8.2 =h8c095d6_2
     - service-identity =24.2.0 =pyha770c72_1
     - service_identity =24.2.0 =hd8ed1ab_1
@@ -224,7 +227,6 @@ requirements:
     - xorg-libxext =1.3.6 =hb9d3cd8_0
     - xorg-libxfixes =6.0.2 =hb03c661_0
     - xorg-libxrender =0.9.12 =hb9d3cd8_0
-    - xorg-libxshmfence =1.3.3 =hb9d3cd8_0
     - xorg-libxxf86vm =1.1.6 =hb9d3cd8_0
     - yaml =0.2.5 =h280c20c_3
     - zeromq =4.3.5 =h387f397_9

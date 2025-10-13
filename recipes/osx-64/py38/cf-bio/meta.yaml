@@ -75,8 +75,8 @@ requirements:
     - freetype =2.14.1 =h694c41f_0
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - glew =2.1.0 =h046ec9c_2
-    - glib =2.86.0 =h7f22f8f_0
-    - glib-tools =2.86.0 =h8650975_0
+    - glib =2.84.0 =h915cd9b_0
+    - glib-tools =2.84.0 =hf8faeaf_0
     - glm =1.0.1 =h2ef5d4a_0
     - greenlet =3.0.3 =py38h1f5f77c_0
     - griddataformats =1.0.1 =pyhd8ed1ab_0
@@ -120,12 +120,12 @@ requirements:
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
     - libexpat =2.7.1 =h21dd04a_0
-    - libffi =3.4.6 =h281671d_1
+    - libffi =3.5.2 =h750e83c_0
     - libfreetype =2.14.1 =h694c41f_0
     - libfreetype6 =2.14.1 =h6912278_0
     - libgfortran =15.2.0 =h306097a_1
     - libgfortran5 =15.2.0 =h336fb69_1
-    - libglib =2.86.0 =h7cafd41_0
+    - libglib =2.84.0 =h5c976ab_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
@@ -153,7 +153,7 @@ requirements:
     - libxml2 =2.13.8 =he1bc88e_1
     - libzip =1.11.2 =h31df5bb_0
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =21.1.2 =h472b3d1_3
+    - llvm-openmp =21.1.3 =h472b3d1_0
     - lz4-c =1.10.0 =h240833e_1
     - matplotlib-base =3.7.3 =py38hcd1b199_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
@@ -176,7 +176,7 @@ requirements:
     - parso =0.8.4 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0
     - pbr =6.1.0 =pyhd8ed1ab_0
-    - pcre2 =10.46 =ha3e7e28_0
+    - pcre2 =10.44 =hf733adb_2
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pillow =10.4.0 =py38hf802781_0
