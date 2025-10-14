@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.11.13 =h3f84c4b_0_cpython
+    - python =3.11.14 =h30ce641_1_cpython
   run:
-    - python =3.11.13 =h3f84c4b_0_cpython
+    - python =3.11.14 =h30ce641_1_cpython
 
     # 38 primary packages :
     - aiohttp =3.13.0 =py311he1a1d09_0
@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py311h11fd7f3_1
     - psutil =7.1.0 =py311h3485c13_0
-    - pydantic =2.12.0 =pyh3cfb1c2_0
+    - pydantic =2.12.1 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py311h7c55f98_2
     - pyserial =3.5 =pyhd8ed1ab_1
     - pytest =8.4.2 =pyhd8ed1ab_0
@@ -107,7 +107,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h3fd045d_2
     - cpp-expected =1.3.1 =h477610d_0
-    - cpython =3.11.13 =py311hd8ed1ab_0
+    - cpython =3.11.14 =py311hd8ed1ab_1
     - curl =8.14.1 =h88aaa65_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - debugpy =1.8.17 =py311h5dfdfe8_0
@@ -189,7 +189,7 @@ requirements:
     - libbrotlidec =1.1.0 =hfd05255_4
     - libbrotlienc =1.1.0 =hfd05255_4
     - libcblas =3.9.0 =35_h2a3cdd5_mkl
-    - libclang13 =21.1.2 =default_ha2db4b5_3
+    - libclang13 =21.1.3 =default_ha2db4b5_0
     - libcurl =8.14.1 =h88aaa65_0
     - libdeflate =1.24 =h76ddb4d_0
     - libexpat =2.7.1 =hac47afa_0
@@ -285,7 +285,7 @@ requirements:
     - pybind11-abi =4 =hd8ed1ab_3
     - pycosat =0.6.6 =py311h3485c13_3
     - pycparser =2.22 =pyh29332c3_1
-    - pydantic-core =2.41.1 =py311hf51aa87_0
+    - pydantic-core =2.41.3 =py311hf51aa87_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pygraphviz =1.14 =py311hb614d00_2
     - pyparsing =3.2.5 =pyhcf101f3_0
@@ -303,7 +303,7 @@ requirements:
     - pywinpty =2.0.15 =py311hda3d55a_1
     - pyzmq =27.1.0 =py311hb77b9c8_0
     - qhull =2020.2 =hc790b64_5
-    - qt-main =5.15.15 =hb098fff_5
+    - qt-main =5.15.15 =hb098fff_6
     - qt6-main =6.9.3 =ha0de62e_0
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r45heceb674_1
@@ -487,7 +487,7 @@ requirements:
     - r-yaml =2.3.10 =r45heceb674_1
     - r-zoo =1.8_14 =r45heceb674_1
     - rapidfuzz =3.14.1 =py311h3e6a449_0
-    - referencing =0.36.2 =pyh29332c3_0
+    - referencing =0.37.0 =pyhcf101f3_0
     - reproc =14.2.5.post0 =h2466b09_0
     - reproc-cpp =14.2.5.post0 =he0c23c2_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1

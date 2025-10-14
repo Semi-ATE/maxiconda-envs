@@ -97,8 +97,8 @@ requirements:
     - libasprintf =0.25.1 =h3f43e3d_1
     - libasprintf-devel =0.25.1 =h3f43e3d_1
     - libcap =2.76 =h0b2e76d_0
-    - libclang-cpp20.1 =20.1.8 =default_h99862b1_4
-    - libclang13 =21.1.0 =default_h746c552_1
+    - libclang-cpp21.1 =21.1.3 =default_h99862b1_0
+    - libclang13 =21.1.3 =default_h746c552_0
     - libcups =2.3.3 =hb8b1518_5
     - libdrm =2.4.125 =hb03c661_1
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -122,8 +122,7 @@ requirements:
     - libgpg-error =1.55 =h3f2d84a_0
     - libiconv =1.18 =h3b78370_2
     - libjpeg-turbo =3.1.0 =hb9d3cd8_0
-    - libllvm20 =20.1.8 =hecd9e04_0
-    - libllvm21 =21.1.0 =hecd9e04_0
+    - libllvm21 =21.1.3 =hf7376ad_0
     - liblzma =5.8.1 =hb9d3cd8_2
     - liblzma-devel =5.8.1 =hb9d3cd8_2
     - libnsl =2.0.1 =hb9d3cd8_1
@@ -132,7 +131,7 @@ requirements:
     - libopus =1.5.2 =hd0c01bc_0
     - libpciaccess =0.18 =hb9d3cd8_0
     - libpng =1.6.50 =h421ea60_1
-    - libpq =17.6 =h3675c94_2
+    - libpq =18.0 =h3675c94_0
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.50.4 =h0c1763c_0
@@ -143,8 +142,9 @@ requirements:
     - libvorbis =1.3.7 =h54a6638_2
     - libxcb =1.17.0 =h8a09558_0
     - libxcrypt =4.4.36 =hd590300_1
-    - libxkbcommon =1.11.0 =he8b52b9_0
-    - libxml2 =2.13.8 =h04c0eec_1
+    - libxkbcommon =1.12.0 =hca5e8e5_0
+    - libxml2 =2.15.0 =h26afc86_1
+    - libxml2-16 =2.15.0 =ha9997c6_1
     - libzlib =1.3.1 =hb9d3cd8_2
     - lz4-c =1.10.0 =h5888daf_1
     - markupsafe =2.1.1 =py37h540881e_1
@@ -180,7 +180,7 @@ requirements:
     - python_abi =3.7 =4_cp37m
     - pytz =2024.2 =pyhd8ed1ab_0
     - pyzmq =24.0.1 =py37h0c0c2a8_0
-    - qt-main =5.15.15 =h3a7ef08_5
+    - qt-main =5.15.15 =h3c3fd16_6
     - readline =8.2 =h8c095d6_2
     - service-identity =21.1.0 =pyhd8ed1ab_0
     - service_identity =21.1.0 =hd8ed1ab_0

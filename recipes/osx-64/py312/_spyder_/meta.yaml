@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.12.11 =h9ccd52b_0_cpython
+    - python =3.12.12 =h3999593_0_cpython
   run:
-    - python =3.12.11 =h9ccd52b_0_cpython
+    - python =3.12.12 =h3999593_0_cpython
 
     # 9 primary packages :
     - cython =3.1.4 =py312hfbda96f_2
@@ -35,7 +35,7 @@ requirements:
     - spyder =6.1.0 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 291 secondary packages :
+    # 292 secondary packages :
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.13.0 =py312h1f380a0_0
@@ -75,7 +75,7 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - contourpy =1.3.3 =py312hedd4973_2
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
-    - cpython =3.12.11 =py312hd8ed1ab_0
+    - cpython =3.12.12 =py312hd8ed1ab_0
     - cryptography =46.0.2 =py312hb922d34_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =h610c526_0
@@ -136,8 +136,8 @@ requirements:
     - libbrotlidec =1.1.0 =h1c43f85_4
     - libbrotlienc =1.1.0 =h1c43f85_4
     - libcblas =3.9.0 =37_h9b27e0a_openblas
-    - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =21.1.0 =default_h7f9524c_1
+    - libclang-cpp18.1 =18.1.8 =default_hc369343_15
+    - libclang13 =21.1.3 =default_h7f9524c_0
     - libcxx =21.1.3 =h3d58e20_0
     - libdeflate =1.24 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
@@ -153,15 +153,15 @@ requirements:
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
     - liblapack =3.9.0 =37_h859234e_openblas
-    - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm21 =21.1.0 =h9b4ebcc_0
+    - libllvm18 =18.1.8 =default_hc369343_10
+    - libllvm21 =21.1.3 =h56e7563_0
     - liblzma =5.8.1 =hd471939_2
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =he3325bb_1
     - libopenblas =0.3.30 =openmp_h83c2472_2
     - libopus =1.5.2 =he3325bb_0
     - libpng =1.6.50 =h84aeda2_1
-    - libpq =17.6 =h5a4e477_2
+    - libpq =18.0 =h5a4e477_0
     - libsodium =1.0.20 =hfdf4475_0
     - libspatialindex =2.1.0 =h501a4e1_0
     - libsqlite =3.50.4 =h39a8b3b_0
@@ -170,7 +170,8 @@ requirements:
     - libwebp =1.6.0 =h5442d53_0
     - libwebp-base =1.6.0 =hb807250_0
     - libxcb =1.17.0 =hf1f96e2_0
-    - libxml2 =2.13.8 =he1bc88e_1
+    - libxml2 =2.15.0 =h7b7ecba_1
+    - libxml2-16 =2.15.0 =ha1d9b0f_1
     - libzlib =1.3.1 =hd23fc13_2
     - llvm-openmp =21.1.3 =h472b3d1_0
     - lsprotocol =2025.0.0 =pyhe01879c_0
@@ -242,7 +243,7 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
-    - python-gil =3.12.11 =hd8ed1ab_0
+    - python-gil =3.12.12 =hd8ed1ab_0
     - python-gssapi =1.10.1 =py312h65dc614_0
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
@@ -262,14 +263,14 @@ requirements:
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h3c5361c_5
     - qstylizer =0.2.4 =pyhff2d567_0
-    - qt-main =5.15.15 =h0f7c986_5
+    - qt-main =5.15.15 =hf9f191d_6
     - qt-webengine =5.15.15 =h46887bd_1
     - qtawesome =1.4.0 =pyh9208f05_1
     - qtconsole =5.7.0 =pyhd8ed1ab_0
     - qtconsole-base =5.7.0 =pyha770c72_0
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - readline =8.2 =h7cca4af_2
-    - referencing =0.36.2 =pyh29332c3_0
+    - referencing =0.37.0 =pyhcf101f3_0
     - requests =2.32.5 =pyhd8ed1ab_0
     - rich =14.2.0 =pyhcf101f3_0
     - roman-numerals-py =3.1.0 =pyhd8ed1ab_0

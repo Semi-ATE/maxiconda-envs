@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.12.11 =h9ccd52b_0_cpython
+    - python =3.12.12 =h3999593_0_cpython
   run:
-    - python =3.12.11 =h9ccd52b_0_cpython
+    - python =3.12.12 =h3999593_0_cpython
 
     # 38 primary packages :
     - aiohttp =3.13.0 =py312h1f380a0_0
@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py312h86abcb1_1
     - psutil =7.1.0 =py312h80b0991_0
-    - pydantic =2.12.0 =pyh3cfb1c2_0
+    - pydantic =2.12.1 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py312hd9d23cd_2
     - pyserial =3.5 =pyhd8ed1ab_1
     - pytest =8.4.2 =pyhd8ed1ab_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 510 secondary packages :
+    # 513 secondary packages :
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
     - adwaita-icon-theme =49.0 =unix_0
@@ -95,23 +95,24 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h950ec3b_0
-    - cctools_osx-64 =1024.3 =hb0509f7_1
+    - cctools_osx-64 =1024.3 =llvm21_1_h81d60ea_5
     - certifi =2025.10.5 =pyhd8ed1ab_0
     - cffi =2.0.0 =py312hf9bc6d9_0
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
-    - clang =21.1.0 =default_h1323312_1
-    - clang-21 =21.1.0 =default_hc369343_1
-    - clang_impl_osx-64 =21.1.0 =h911b69a_25
-    - clang_osx-64 =21.1.0 =h7e5c614_25
-    - clangxx =21.1.0 =default_h1c12a56_1
-    - clangxx_impl_osx-64 =21.1.0 =haf6708d_25
-    - clangxx_osx-64 =21.1.0 =h7e5c614_25
+    - clang =21.1.3 =default_h1323312_0
+    - clang-21 =21.1.3 =default_h9f74b92_0
+    - clang_impl_osx-64 =21.1.3 =h084dc57_25
+    - clang_osx-64 =21.1.3 =h7e5c614_25
+    - clangxx =21.1.3 =default_h1c12a56_0
+    - clangxx_impl_osx-64 =21.1.3 =h2770c5a_25
+    - clangxx_osx-64 =21.1.3 =h7e5c614_25
     - click =8.3.0 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - compiler-rt =21.1.0 =he914875_1
-    - compiler-rt_osx-64 =21.1.0 =h138dee1_1
+    - compiler-rt =21.1.3 =h694c41f_0
+    - compiler-rt21 =21.1.3 =he914875_0
+    - compiler-rt21_osx-64 =21.1.3 =he0f92a2_0
     - conda =25.9.1 =py312hb401068_0
     - conda-libmamba-solver =25.4.0 =pyhd8ed1ab_0
     - conda-package-handling =2.4.0 =pyh7900ff3_2
@@ -120,7 +121,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py312hedd4973_2
     - cpp-expected =1.3.1 =h0ba0a54_0
-    - cpython =3.12.11 =py312hd8ed1ab_0
+    - cpython =3.12.12 =py312hd8ed1ab_0
     - curl =8.14.1 =h5dec5d8_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =h610c526_0
@@ -199,18 +200,19 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lark =1.3.0 =pyhd8ed1ab_0
     - lcms2 =2.17 =h72f5680_0
-    - ld64_osx-64 =955.13 =h2bd93d8_1
+    - ld64 =955.13 =h2eed689_5
+    - ld64_osx-64 =955.13 =llvm21_1_h2cc85ee_5
     - lerc =4.0.0 =hcca01a6_1
-    - libarchive =3.8.1 =gpl_h9912a37_100
+    - libarchive =3.8.1 =gpl_h889603c_101
     - libasprintf =0.25.1 =h3184127_1
     - libblas =3.9.0 =37_he492b99_openblas
     - libbrotlicommon =1.1.0 =h1c43f85_4
     - libbrotlidec =1.1.0 =h1c43f85_4
     - libbrotlienc =1.1.0 =h1c43f85_4
     - libcblas =3.9.0 =37_h9b27e0a_openblas
-    - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang-cpp21.1 =21.1.0 =default_hc369343_1
-    - libclang13 =21.1.0 =default_h7f9524c_1
+    - libclang-cpp18.1 =18.1.8 =default_hc369343_15
+    - libclang-cpp21.1 =21.1.3 =default_hc369343_0
+    - libclang13 =21.1.3 =default_h7f9524c_0
     - libcurl =8.14.1 =h5dec5d8_0
     - libcxx =21.1.3 =h3d58e20_0
     - libcxx-devel =21.1.3 =h7c275be_0
@@ -232,8 +234,8 @@ requirements:
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
     - liblapack =3.9.0 =37_h859234e_openblas
-    - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm21 =21.1.0 =h9b4ebcc_0
+    - libllvm18 =18.1.8 =default_hc369343_10
+    - libllvm21 =21.1.3 =h56e7563_0
     - liblzma =5.8.1 =hd471939_2
     - libmamba =2.3.2 =h87c5c07_2
     - libmambapy =2.3.2 =py312hfee2915_2
@@ -243,8 +245,8 @@ requirements:
     - libopenblas =0.3.30 =openmp_h83c2472_2
     - libopus =1.5.2 =he3325bb_0
     - libpng =1.6.50 =h84aeda2_1
-    - libpq =17.6 =h5a4e477_2
-    - librsvg =2.58.4 =h21a6cfa_3
+    - libpq =18.0 =h5a4e477_0
+    - librsvg =2.60.0 =h2da6fc3_0
     - libsodium =1.0.20 =hfdf4475_0
     - libsolv =0.7.35 =h6fd32b5_0
     - libsqlite =3.50.4 =h39a8b3b_0
@@ -254,11 +256,12 @@ requirements:
     - libvorbis =1.3.7 =ha059160_2
     - libwebp-base =1.6.0 =hb807250_0
     - libxcb =1.17.0 =hf1f96e2_0
-    - libxml2 =2.13.8 =he1bc88e_1
+    - libxml2 =2.15.0 =h7b7ecba_1
+    - libxml2-16 =2.15.0 =ha1d9b0f_1
     - libzlib =1.3.1 =hd23fc13_2
     - llvm-openmp =21.1.3 =h472b3d1_0
-    - llvm-tools =21.1.0 =hc040464_0
-    - llvm-tools-21 =21.1.0 =h0167baa_0
+    - llvm-tools =21.1.3 =hb0207f0_0
+    - llvm-tools-21 =21.1.3 =h879f4bc_0
     - llvmlite =0.45.1 =py312h331d821_0
     - lz4-c =1.10.0 =h240833e_1
     - lzo =2.10 =h4132b18_1002
@@ -313,7 +316,7 @@ requirements:
     - pybind11-abi =4 =hd8ed1ab_3
     - pycosat =0.6.6 =py312h2f459f6_3
     - pycparser =2.22 =pyh29332c3_1
-    - pydantic-core =2.41.1 =py312h8a6388b_0
+    - pydantic-core =2.41.3 =py312h8a6388b_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pygraphviz =1.14 =py312h8a3153c_2
     - pyobjc-core =11.1 =py312h3f2cce9_1
@@ -323,7 +326,7 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
-    - python-gil =3.12.11 =hd8ed1ab_0
+    - python-gil =3.12.12 =hd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
@@ -332,7 +335,7 @@ requirements:
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.1.0 =py312hb7d603e_0
     - qhull =2020.2 =h3c5361c_5
-    - qt-main =5.15.15 =h0f7c986_5
+    - qt-main =5.15.15 =hf9f191d_6
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r45h735ac91_1
     - r-assertthat =0.2.1 =r45hc72bb7e_6
@@ -509,14 +512,14 @@ requirements:
     - r-vroom =1.6.6 =r45ha730edb_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.53 =r45ha730edb_1
-    - r-xml2 =1.4.0 =r45h8704ce6_1
+    - r-xml2 =1.4.0 =r45hf8ceb01_2
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h735ac91_1
     - r-yaml =2.3.10 =r45h735ac91_1
     - r-zoo =1.8_14 =r45h735ac91_1
     - rapidfuzz =3.14.1 =py312h69bf00f_0
     - readline =8.2 =h7cca4af_2
-    - referencing =0.36.2 =pyh29332c3_0
+    - referencing =0.37.0 =pyhcf101f3_0
     - reproc =14.2.5.post0 =h6e16a3a_0
     - reproc-cpp =14.2.5.post0 =h240833e_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1

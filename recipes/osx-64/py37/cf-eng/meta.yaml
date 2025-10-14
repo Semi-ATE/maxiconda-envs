@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.2 =pyhca7485f_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
-    # 101 secondary packages :
+    # 102 secondary packages :
     - appnope =0.1.4 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_4
@@ -62,8 +62,8 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - libblas =3.9.0 =37_he492b99_openblas
     - libcblas =3.9.0 =37_h9b27e0a_openblas
-    - libclang-cpp17 =17.0.6 =default_h3571c67_8
-    - libclang13 =21.1.0 =default_h7f9524c_1
+    - libclang-cpp18.1 =18.1.8 =default_hc369343_15
+    - libclang13 =21.1.3 =default_h7f9524c_0
     - libcxx =21.1.3 =h3d58e20_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libffi =3.4.6 =h281671d_1
@@ -75,8 +75,8 @@ requirements:
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
     - liblapack =3.9.0 =37_h859234e_openblas
-    - libllvm17 =17.0.6 =hbedff68_1
-    - libllvm21 =21.1.0 =h9b4ebcc_0
+    - libllvm18 =18.1.8 =default_hc369343_10
+    - libllvm21 =21.1.3 =h56e7563_0
     - liblzma =5.8.1 =hd471939_2
     - liblzma-devel =5.8.1 =hd471939_2
     - libntlm =1.8 =h6e16a3a_0
@@ -84,12 +84,13 @@ requirements:
     - libopenblas =0.3.30 =openmp_h83c2472_2
     - libopus =1.5.2 =he3325bb_0
     - libpng =1.6.50 =h84aeda2_1
-    - libpq =17.6 =h5a4e477_2
+    - libpq =18.0 =h5a4e477_0
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.50.4 =h39a8b3b_0
     - libusb =1.0.29 =h2287256_0
     - libvorbis =1.3.7 =ha059160_2
-    - libxml2 =2.13.8 =he1bc88e_1
+    - libxml2 =2.15.0 =h7b7ecba_1
+    - libxml2-16 =2.15.0 =ha1d9b0f_1
     - libzlib =1.3.1 =hd23fc13_2
     - llvm-openmp =21.1.3 =h472b3d1_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
@@ -116,7 +117,7 @@ requirements:
     - pytz =2024.2 =pyhd8ed1ab_0
     - pyvisa =1.12.0 =py37hf985489_0
     - pyzmq =24.0.1 =py37haa7bc41_0
-    - qt-main =5.15.15 =h0f7c986_5
+    - qt-main =5.15.15 =hf9f191d_6
     - readline =8.2 =h7cca4af_2
     - setuptools =59.8.0 =py37hf985489_1
     - sip =6.7.2 =py37hac51a3e_0

@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.11.13 =h1683364_0_cpython
+    - python =3.11.14 =hcfbf8c2_1_cpython
   run:
-    - python =3.11.13 =h1683364_0_cpython
+    - python =3.11.14 =hcfbf8c2_1_cpython
 
     # 9 primary packages :
     - cython =3.1.4 =py311h396fb50_2
@@ -76,7 +76,7 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - contourpy =1.3.3 =py311hfca10b7_2
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
-    - cpython =3.11.13 =py311hd8ed1ab_0
+    - cpython =3.11.14 =py311hd8ed1ab_1
     - cryptography =46.0.2 =py311h2822d24_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =h6c5dea3_0
@@ -313,7 +313,7 @@ requirements:
     - qtconsole-base =5.7.0 =pyha770c72_0
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - readline =8.2 =h8382b9d_2
-    - referencing =0.36.2 =pyh29332c3_0
+    - referencing =0.37.0 =pyhcf101f3_0
     - requests =2.32.5 =pyhd8ed1ab_0
     - rich =14.2.0 =pyhcf101f3_0
     - roman-numerals-py =3.1.0 =pyhd8ed1ab_0
