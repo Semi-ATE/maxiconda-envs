@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.7.2 =py310h29418f3_0
     - cython =3.1.4 =py310h4295968_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.140.3 =pyha770c72_0
+    - hypothesis =6.140.4 =pyha770c72_0
     - ipython =8.37.0 =pyha7b4d00_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.6 =py310h5588dad_1
@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py310hed136d8_1
     - psutil =7.1.0 =py310h29418f3_0
-    - pydantic =2.12.1 =pyh3cfb1c2_0
+    - pydantic =2.12.2 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py310hdf200a9_2
     - pyserial =3.5 =pyhd8ed1ab_1
     - pytest =8.4.2 =pyhd8ed1ab_0
@@ -93,7 +93,7 @@ requirements:
     - cairo =1.18.4 =h5782bbf_0
     - certifi =2025.10.5 =pyhd8ed1ab_0
     - cffi =2.0.0 =py310h29418f3_0
-    - charset-normalizer =3.4.3 =pyhd8ed1ab_0
+    - charset-normalizer =3.4.4 =pyhd8ed1ab_0
     - click =8.3.0 =pyh7428d3b_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -255,7 +255,7 @@ requirements:
     - pthread-stubs =0.4 =h0e40799_1002
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycparser =2.22 =pyh29332c3_1
-    - pydantic-core =2.41.3 =py310h034784e_0
+    - pydantic-core =2.41.4 =py310h034784e_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyparsing =3.2.5 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py310h73ae2b4_2
@@ -494,10 +494,10 @@ requirements:
     - unicodedata2 =16.0.0 =py310h29418f3_1
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.5.0 =pyhd8ed1ab_0
-    - vc =14.3 =h41ae7f8_31
-    - vc14_runtime =14.44.35208 =h818238b_31
-    - vcomp14 =14.44.35208 =h818238b_31
-    - vs2015_runtime =14.44.35208 =h38c0c73_31
+    - vc =14.3 =h2b53caa_32
+    - vc14_runtime =14.44.35208 =h818238b_32
+    - vcomp14 =14.44.35208 =h818238b_32
+    - vs2015_runtime =14.44.35208 =h38c0c73_32
     - wcwidth =0.2.14 =pyhd8ed1ab_0
     - webcolors =24.11.1 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
