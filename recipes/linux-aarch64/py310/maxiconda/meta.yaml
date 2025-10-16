@@ -31,17 +31,17 @@ requirements:
     - bitarray =3.7.2 =py310h5b55623_0
     - cython =3.1.4 =py310h3d58a14_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.140.4 =pyha770c72_0
+    - hypothesis =6.141.1 =pyha770c72_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
-    - matplotlib =3.10.6 =py310hbbe02a8_1
+    - matplotlib =3.10.7 =py310hbbe02a8_0
     - numba =0.62.1 =py310ha4dd877_0
     - numpy =2.2.6 =py310h6e5608f_0
     - openpyxl =3.1.5 =py310h1bb6155_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py310hc97b22d_1
     - psutil =7.1.0 =py310h5b55623_0
-    - pydantic =2.12.1 =pyh3cfb1c2_0
+    - pydantic =2.12.2 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py310h5ffa702_2
     - pyserial =3.5 =pyhd8ed1ab_1
     - pytest =8.4.2 =pyhd8ed1ab_0
@@ -257,7 +257,7 @@ requirements:
     - lz4-c =1.10.0 =h5ad3122_1
     - make =4.4.1 =h2a6d0cb_2
     - markupsafe =3.0.3 =py310h3b5aacf_0
-    - matplotlib-base =3.10.6 =py310hc06f52e_1
+    - matplotlib-base =3.10.7 =py310hc06f52e_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mistune =3.1.4 =pyhcf101f3_0
     - mpc =1.3.1 =h783934e_1
@@ -303,7 +303,7 @@ requirements:
     - pulseaudio-client =17.0 =h77cf2aa_2
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycparser =2.22 =pyh29332c3_1
-    - pydantic-core =2.41.3 =py310h598bb90_0
+    - pydantic-core =2.41.4 =py310h598bb90_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyparsing =3.2.5 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py310h57cea71_2
@@ -434,7 +434,7 @@ requirements:
     - r-processx =3.8.6 =r45h0557e7b_1
     - r-prodlim =2025.04.28 =r45h08b74da_1
     - r-progress =1.2.3 =r45hc72bb7e_2
-    - r-progressr =0.16.0 =r45hc72bb7e_0
+    - r-progressr =0.17.0 =r45hc72bb7e_0
     - r-promises =1.3.3 =r45h08b74da_1
     - r-proxy =0.4_27 =r45h0557e7b_4
     - r-pryr =0.1.6 =r45h08b74da_3
@@ -510,7 +510,7 @@ requirements:
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
     - rpds-py =0.27.1 =py310haddc216_1
     - ruamel.yaml =0.18.15 =py310h5b55623_1
-    - ruamel.yaml.clib =0.2.12 =py310h5b55623_1
+    - ruamel.yaml.clib =0.2.14 =py310h5b55623_0
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-aarch64-unknown-linux-gnu =1.90.0 =hbe8e118_0
     - sed =4.9 =hd4cd8d4_0

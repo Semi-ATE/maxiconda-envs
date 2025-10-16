@@ -31,10 +31,10 @@ requirements:
     - bitarray =3.7.2 =py310hd2d5e8d_0
     - cython =3.1.4 =py310h229d7d5_2
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.140.4 =pyha770c72_0
+    - hypothesis =6.141.1 =pyha770c72_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
-    - matplotlib =3.10.6 =py310h2ec42d9_1
+    - matplotlib =3.10.7 =py310h2ec42d9_0
     - numba =0.62.1 =py310hefbf91e_0
     - numpy =2.2.6 =py310h07c5b4d_0
     - openpyxl =3.1.5 =py310h20ca25a_2
@@ -236,7 +236,7 @@ requirements:
     - llvmlite =0.45.1 =py310hd43b3a3_0
     - make =4.4.1 =h00291cd_2
     - markupsafe =3.0.3 =py310hd951482_0
-    - matplotlib-base =3.10.6 =py310h2102b89_1
+    - matplotlib-base =3.10.7 =py310h2102b89_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mistune =3.1.4 =pyhcf101f3_0
     - mpc =1.3.1 =h9d8efa1_1
@@ -411,7 +411,7 @@ requirements:
     - r-processx =3.8.6 =r45h735ac91_1
     - r-prodlim =2025.04.28 =r45ha730edb_1
     - r-progress =1.2.3 =r45hc72bb7e_2
-    - r-progressr =0.16.0 =r45hc72bb7e_0
+    - r-progressr =0.17.0 =r45hc72bb7e_0
     - r-promises =1.3.3 =r45ha730edb_1
     - r-proxy =0.4_27 =r45h735ac91_4
     - r-pryr =0.1.6 =r45ha730edb_3
@@ -487,7 +487,7 @@ requirements:
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
     - rpds-py =0.27.1 =py310h80fed0c_1
     - ruamel.yaml =0.18.15 =py310hd2d5e8d_1
-    - ruamel.yaml.clib =0.2.12 =py310h1b7cace_1
+    - ruamel.yaml.clib =0.2.14 =py310hd2d5e8d_0
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-apple-darwin =1.90.0 =h38e4360_0
     - send2trash =1.8.3 =pyh31c8845_1

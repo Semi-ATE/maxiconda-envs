@@ -31,17 +31,17 @@ requirements:
     - bitarray =3.7.2 =py312hcd1a082_0
     - cython =3.1.4 =py312hfce37a5_2
     - grayskull =2.9.1 =pyhcf101f3_1
-    - hypothesis =6.140.4 =pyha770c72_0
+    - hypothesis =6.141.1 =pyha770c72_0
     - ipython =9.6.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
-    - matplotlib =3.10.6 =py312h8025657_1
+    - matplotlib =3.10.7 =py312h8025657_0
     - numba =0.62.1 =py312hfe6e22b_0
     - numpy =2.3.3 =py312h6615c27_0
     - openpyxl =3.1.5 =py312h6c49482_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py312hdc0efb6_1
     - psutil =7.1.0 =py312hcd1a082_0
-    - pydantic =2.12.1 =pyh3cfb1c2_0
+    - pydantic =2.12.2 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py312hc13527c_2
     - pyserial =3.5 =pyhd8ed1ab_1
     - pytest =8.4.2 =pyhd8ed1ab_0
@@ -292,7 +292,7 @@ requirements:
     - lzo =2.10 =h80f16a2_1002
     - make =4.4.1 =h2a6d0cb_2
     - markupsafe =3.0.3 =py312hd077ced_0
-    - matplotlib-base =3.10.6 =py312h9d0c5ba_1
+    - matplotlib-base =3.10.7 =py312h9d0c5ba_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - menuinst =2.4.0 =py312h996f985_0
     - mistune =3.1.4 =pyhcf101f3_0
@@ -343,7 +343,7 @@ requirements:
     - pybind11-abi =4 =hd8ed1ab_3
     - pycosat =0.6.6 =py312hcd1a082_3
     - pycparser =2.22 =pyh29332c3_1
-    - pydantic-core =2.41.3 =py312h5eb8f6c_0
+    - pydantic-core =2.41.4 =py312h5eb8f6c_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pygraphviz =1.14 =py312hdab6b20_2
     - pyparsing =3.2.5 =pyhcf101f3_0
@@ -476,7 +476,7 @@ requirements:
     - r-processx =3.8.6 =r45h0557e7b_1
     - r-prodlim =2025.04.28 =r45h08b74da_1
     - r-progress =1.2.3 =r45hc72bb7e_2
-    - r-progressr =0.16.0 =r45hc72bb7e_0
+    - r-progressr =0.17.0 =r45hc72bb7e_0
     - r-promises =1.3.3 =r45h08b74da_1
     - r-proxy =0.4_27 =r45h0557e7b_4
     - r-pryr =0.1.6 =r45h08b74da_3
@@ -554,7 +554,7 @@ requirements:
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
     - rpds-py =0.27.1 =py312h75d7d99_1
     - ruamel.yaml =0.18.15 =py312hcd1a082_1
-    - ruamel.yaml.clib =0.2.12 =py312hcd1a082_1
+    - ruamel.yaml.clib =0.2.14 =py312hcd1a082_0
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-aarch64-unknown-linux-gnu =1.90.0 =hbe8e118_0
     - sed =4.9 =hd4cd8d4_0
