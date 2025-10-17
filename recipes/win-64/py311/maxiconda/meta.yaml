@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.7.2 =py311h3485c13_0
     - cython =3.1.4 =py311hcaecfd5_2
     - grayskull =2.9.1 =pyhcf101f3_1
-    - hypothesis =6.141.1 =pyha770c72_0
+    - hypothesis =6.142.1 =pyha770c72_0
     - ipython =9.6.0 =pyh6be1c34_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.7 =py311h1ea47a8_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 491 secondary packages :
+    # 490 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -107,7 +107,6 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h3fd045d_2
     - cpp-expected =1.3.1 =h477610d_0
-    - cpython =3.11.14 =py311hd8ed1ab_1
     - curl =8.14.1 =h88aaa65_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - debugpy =1.8.17 =py311h5dfdfe8_0
@@ -170,7 +169,7 @@ requirements:
     - jsonschema-with-format-nongpl =4.25.1 =he01879c_0
     - jupyter-lsp =2.3.0 =pyhcf101f3_0
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
-    - jupyter_core =5.8.1 =pyh5737063_0
+    - jupyter_core =5.9.1 =pyh6dadd2b_0
     - jupyter_events =0.12.0 =pyh29332c3_0
     - jupyter_server =2.17.0 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_1
@@ -183,7 +182,7 @@ requirements:
     - lcms2 =2.17 =hbcf6048_0
     - ld_impl_win-64 =2.44 =hae1bf67_2
     - lerc =4.0.0 =h6470a55_1
-    - libarchive =3.8.1 =gpl_h26aea39_101
+    - libarchive =3.8.2 =gpl_h26aea39_100
     - libblas =3.9.0 =35_h5709861_mkl
     - libbrotlicommon =1.1.0 =hfd05255_4
     - libbrotlidec =1.1.0 =hfd05255_4

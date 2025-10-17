@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.14.2 =pyha770c72_0
     - cython =3.1.4 =py312hd9aa7d2_2
     - grayskull =2.9.1 =pyhcf101f3_1
-    - hypothesis =6.141.1 =pyha770c72_0
+    - hypothesis =6.142.1 =pyha770c72_0
     - ipython =9.6.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.7 =py312h1f38498_0
@@ -188,7 +188,7 @@ requirements:
     - jsonschema-with-format-nongpl =4.25.1 =he01879c_0
     - jupyter-lsp =2.3.0 =pyhcf101f3_0
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
-    - jupyter_core =5.8.1 =pyh31011fe_0
+    - jupyter_core =5.9.1 =pyhc90fa1f_0
     - jupyter_events =0.12.0 =pyh29332c3_0
     - jupyter_server =2.17.0 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_1
@@ -202,7 +202,7 @@ requirements:
     - ld64 =955.13 =h5d6df6c_5
     - ld64_osx-arm64 =955.13 =llvm21_1_hde6573c_5
     - lerc =4.0.0 =hd64df32_1
-    - libarchive =3.8.1 =gpl_h46575ef_101
+    - libarchive =3.8.2 =gpl_h46575ef_100
     - libasprintf =0.25.1 =h493aca8_0
     - libblas =3.9.0 =37_h51639a9_openblas
     - libbrotlicommon =1.1.0 =h6caf38d_4
@@ -241,7 +241,7 @@ requirements:
     - libnghttp2 =1.67.0 =hc438710_0
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
-    - libopenblas =0.3.30 =openmp_h60d53f8_2
+    - libopenblas =0.3.30 =openmp_ha158390_2
     - libopus =1.5.2 =h48c0fde_0
     - libpng =1.6.50 =h280e0eb_1
     - libpq =18.0 =h31f7a3a_0
