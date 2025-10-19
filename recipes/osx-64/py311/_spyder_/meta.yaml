@@ -35,14 +35,14 @@ requirements:
     - spyder =6.1.0 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 290 secondary packages :
+    # 289 secondary packages :
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.13.0 =py311hdaf2c26_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - applaunchservices =0.3.0 =pyh534df25_4
     - appnope =0.1.4 =pyhd8ed1ab_1
-    - arrow =1.3.0 =pyhd8ed1ab_1
+    - arrow =1.4.0 =pyhcf101f3_0
     - astroid =3.3.11 =py311h6eed73b_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - asyncssh =2.21.1 =pyhd8ed1ab_0
@@ -189,9 +189,9 @@ requirements:
     - munkres =1.1.4 =pyhd8ed1ab_1
     - mypy_extensions =1.1.0 =pyha770c72_0
     - nbclient =0.10.2 =pyhd8ed1ab_0
-    - nbconvert =7.16.6 =hb482800_0
-    - nbconvert-core =7.16.6 =pyh29332c3_0
-    - nbconvert-pandoc =7.16.6 =hed9df3c_0
+    - nbconvert =7.16.6 =hc388f54_1
+    - nbconvert-core =7.16.6 =pyhcf101f3_1
+    - nbconvert-pandoc =7.16.6 =h7d6f222_1
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
@@ -290,7 +290,7 @@ requirements:
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
     - spyder-base =6.1.0 =osx_pyh1a5313d_0
-    - spyder-kernels =3.1.0 =unix_pyh707e725_0
+    - spyder-kernels =3.1.1 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.6 =pyhb6d5dde_0
     - text-unidecode =1.3 =pyhd8ed1ab_2
@@ -303,7 +303,6 @@ requirements:
     - tomlkit =0.13.3 =pyha770c72_0
     - tornado =6.5.2 =py311h13e5629_1
     - traitlets =5.14.3 =pyhd8ed1ab_1
-    - types-python-dateutil =2.9.0.20251008 =pyhd8ed1ab_0
     - typing-extensions =4.15.0 =h396c80c_0
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - tzdata =2025b =h78e105d_0

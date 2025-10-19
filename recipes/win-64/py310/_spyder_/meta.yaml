@@ -36,13 +36,13 @@ requirements:
     - spyder =6.1.0 =hd8ed1ab_0
     - sympy =1.14.0 =pyh04b8f61_5
 
-    # 288 secondary packages :
+    # 287 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.13.0 =py310h70ea87e_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
-    - arrow =1.3.0 =pyhd8ed1ab_1
+    - arrow =1.4.0 =pyhcf101f3_0
     - astroid =3.3.11 =py310h5588dad_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - async-timeout =5.0.1 =pyhd8ed1ab_1
@@ -190,9 +190,9 @@ requirements:
     - munkres =1.1.4 =pyhd8ed1ab_1
     - mypy_extensions =1.1.0 =pyha770c72_0
     - nbclient =0.10.2 =pyhd8ed1ab_0
-    - nbconvert =7.16.6 =hb482800_0
-    - nbconvert-core =7.16.6 =pyh29332c3_0
-    - nbconvert-pandoc =7.16.6 =hed9df3c_0
+    - nbconvert =7.16.6 =hc388f54_1
+    - nbconvert-core =7.16.6 =pyhcf101f3_1
+    - nbconvert-pandoc =7.16.6 =h7d6f222_1
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - numpydoc =1.9.0 =pyhe01879c_1
@@ -284,7 +284,7 @@ requirements:
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
     - spyder-base =6.1.0 =py310h5588dad_0
-    - spyder-kernels =3.1.0 =win_pyh7428d3b_0
+    - spyder-kernels =3.1.1 =win_pyh7428d3b_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.6 =pyhb6d5dde_0
     - tbb =2021.13.0 =h18a62a1_3
@@ -298,7 +298,6 @@ requirements:
     - tomlkit =0.13.3 =pyha770c72_0
     - tornado =6.5.2 =py310h29418f3_1
     - traitlets =5.14.3 =pyhd8ed1ab_1
-    - types-python-dateutil =2.9.0.20251008 =pyhd8ed1ab_0
     - typing-extensions =4.15.0 =h396c80c_0
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - tzdata =2025b =h78e105d_0

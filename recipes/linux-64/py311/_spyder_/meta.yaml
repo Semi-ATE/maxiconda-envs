@@ -35,7 +35,7 @@ requirements:
     - spyder =6.1.0 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 359 secondary packages :
+    # 358 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -43,7 +43,7 @@ requirements:
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - alsa-lib =1.2.14 =hb9d3cd8_0
-    - arrow =1.3.0 =pyhd8ed1ab_1
+    - arrow =1.4.0 =pyhcf101f3_0
     - astroid =3.3.11 =py311h38be061_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - asyncssh =2.21.1 =pyhd8ed1ab_0
@@ -116,7 +116,7 @@ requirements:
     - gst-plugins-base =1.24.11 =h651a532_0
     - gstreamer =1.24.11 =hc37bda9_0
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =12.1.0 =h15599e2_0
+    - harfbuzz =11.5.1 =h15599e2_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =75.1 =he02047a_0
@@ -236,9 +236,9 @@ requirements:
     - munkres =1.1.4 =pyhd8ed1ab_1
     - mypy_extensions =1.1.0 =pyha770c72_0
     - nbclient =0.10.2 =pyhd8ed1ab_0
-    - nbconvert =7.16.6 =hb482800_0
-    - nbconvert-core =7.16.6 =pyh29332c3_0
-    - nbconvert-pandoc =7.16.6 =hed9df3c_0
+    - nbconvert =7.16.6 =hc388f54_1
+    - nbconvert-core =7.16.6 =pyhcf101f3_1
+    - nbconvert-pandoc =7.16.6 =h7d6f222_1
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
@@ -307,7 +307,7 @@ requirements:
     - qhull =2020.2 =h434a139_5
     - qstylizer =0.2.4 =pyhff2d567_0
     - qt-main =5.15.15 =h3a7ef08_5
-    - qt-webengine =5.15.15 =h0071231_2
+    - qt-webengine =5.15.15 =h2da670d_3
     - qt6-main =6.9.2 =h5bd77bc_1
     - qtawesome =1.4.0 =pyh9208f05_1
     - qtconsole =5.7.0 =pyhd8ed1ab_0
@@ -337,7 +337,7 @@ requirements:
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
     - spyder-base =6.1.0 =linux_pyh62a8a7d_0
-    - spyder-kernels =3.1.0 =unix_pyh707e725_0
+    - spyder-kernels =3.1.1 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.6 =pyhb6d5dde_0
     - text-unidecode =1.3 =pyhd8ed1ab_2
@@ -350,7 +350,6 @@ requirements:
     - tomlkit =0.13.3 =pyha770c72_0
     - tornado =6.5.2 =py311h49ec1c0_1
     - traitlets =5.14.3 =pyhd8ed1ab_1
-    - types-python-dateutil =2.9.0.20251008 =pyhd8ed1ab_0
     - typing-extensions =4.15.0 =h396c80c_0
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - tzdata =2025b =h78e105d_0
