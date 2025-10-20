@@ -25,7 +25,7 @@ requirements:
     - python =3.12.12 =hcfbf8c2_0_cpython
 
     # 9 primary packages :
-    - cython =3.1.4 =py312hfce37a5_2
+    - cython =3.1.5 =py312hfce37a5_0
     - matplotlib =3.10.7 =py312h8025657_0
     - numpy =2.3.3 =py312h6615c27_0
     - pandas =2.3.3 =py312hdc0efb6_1
@@ -264,7 +264,7 @@ requirements:
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.3.1 =py312hcc812fe_0
-    - psutil =7.1.0 =py312hcd1a082_0
+    - psutil =7.1.1 =py312hcd1a082_0
     - pthread-stubs =0.4 =h86ecc28_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pulseaudio-client =17.0 =h77cf2aa_2
