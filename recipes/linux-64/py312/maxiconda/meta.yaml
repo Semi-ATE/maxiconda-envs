@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.7.2 =py312h4c3975b_0
     - cython =3.1.5 =py312h7c45ced_0
     - grayskull =2.9.1 =pyhcf101f3_1
-    - hypothesis =6.142.1 =pyha770c72_0
+    - hypothesis =6.142.2 =pyha770c72_0
     - ipython =9.6.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.7 =py312h7900ff3_0
@@ -117,7 +117,7 @@ requirements:
     - contourpy =1.3.3 =py312hd9148b4_2
     - cpp-expected =1.3.1 =h171cf75_0
     - cpython =3.12.12 =py312hd8ed1ab_0
-    - curl =8.14.1 =h332b0f4_0
+    - curl =8.16.0 =h4e3cde8_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =hd9c7081_0
     - dbus =1.16.2 =h3c4dab8_0
@@ -176,7 +176,7 @@ requirements:
     - idna =3.11 =pyhd8ed1ab_0
     - importlib-metadata =8.7.0 =pyhe01879c_1
     - iniconfig =2.3.0 =pyhd8ed1ab_0
-    - ipykernel =6.30.1 =pyh82676e8_0
+    - ipykernel =6.31.0 =pyha191276_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.19.2 =pyhd8ed1ab_1
@@ -216,7 +216,7 @@ requirements:
     - libclang-cpp21.1 =21.1.3 =default_h99862b1_0
     - libclang13 =21.1.3 =default_h746c552_0
     - libcups =2.3.3 =hb8b1518_5
-    - libcurl =8.14.1 =h332b0f4_0
+    - libcurl =8.16.0 =h4e3cde8_0
     - libdeflate =1.24 =h86f0d12_0
     - libdrm =2.4.125 =hb03c661_1
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -283,7 +283,7 @@ requirements:
     - libwebp-base =1.6.0 =hd42ef1d_0
     - libxcb =1.17.0 =h8a09558_0
     - libxcrypt =4.4.36 =hd590300_1
-    - libxkbcommon =1.12.1 =hca5e8e5_0
+    - libxkbcommon =1.12.2 =hca5e8e5_0
     - libxml2 =2.15.0 =h26afc86_1
     - libxml2-16 =2.15.0 =ha9997c6_1
     - libxslt =1.1.43 =h711ed8c_1
@@ -319,7 +319,7 @@ requirements:
     - openssl =3.5.4 =h26f9b46_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =25.0 =pyh29332c3_1
-    - pandoc =3.8.2 =ha770c72_0
+    - pandoc =3.8.2.1 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =hadf4263_0
     - parso =0.8.5 =pyhcf101f3_0
