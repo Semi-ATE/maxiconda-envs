@@ -36,7 +36,7 @@ requirements:
     - scipy =1.13.1 =py39h3d5391c_0
     - spyder-kernels =3.1.1 =unix_pyh707e725_0
 
-    # 197 secondary packages :
+    # 195 secondary packages :
     - appnope =0.1.4 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - blosc =1.21.6 =h7dd00d9_1
@@ -73,8 +73,8 @@ requirements:
     - freetype =2.14.1 =hce30654_0
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - glew =2.1.0 =h9f76cd9_2
-    - glib =2.84.0 =heee381b_0
-    - glib-tools =2.84.0 =h1dc7a0c_0
+    - glib =2.86.0 =hc66c15f_1
+    - glib-tools =2.86.0 =hb9d6e3a_1
     - glm =1.0.1 =h6597b73_0
     - greenlet =3.2.4 =py39h2769f79_0
     - griddataformats =1.0.2 =pyhd8ed1ab_1
@@ -119,7 +119,7 @@ requirements:
     - libfreetype6 =2.14.1 =h6da58f4_0
     - libgfortran =15.2.0 =hfcf01ff_1
     - libgfortran5 =15.2.0 =h742603c_1
-    - libglib =2.84.0 =hdff4504_0
+    - libglib =2.86.0 =he69a767_1
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -156,8 +156,6 @@ requirements:
     - mrcfile =1.5.4 =pyhd8ed1ab_0
     - msgpack-python =1.1.1 =py39he2d979d_0
     - munkres =1.1.4 =pyhd8ed1ab_1
-    - mysql-common =9.0.1 =hd7719f6_6
-    - mysql-libs =9.0.1 =ha8be5b7_6
     - ncurses =6.5 =h5e97a16_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - netcdf4 =1.7.2 =nompi_py39h2fe579b_102
@@ -170,7 +168,7 @@ requirements:
     - packaging =25.0 =pyh29332c3_1
     - parso =0.8.4 =pyhd8ed1ab_1
     - patsy =1.0.1 =pyhd8ed1ab_1
-    - pcre2 =10.44 =ha881caa_2
+    - pcre2 =10.46 =h7125dd6_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py39hfea3036_0
@@ -197,7 +195,7 @@ requirements:
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.0.2 =py39h6c7bd39_0
     - qhull =2020.2 =h420ef59_5
-    - qt-main =5.15.15 =h67564f6_3
+    - qt-main =5.15.15 =hac936aa_5
     - readline =8.2 =h1d1bf99_2
     - reportlab =4.4.1 =py39hf3bc14e_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0

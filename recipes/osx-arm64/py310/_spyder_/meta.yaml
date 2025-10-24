@@ -25,7 +25,7 @@ requirements:
     - python =3.10.19 =hcd7f573_2_cpython
 
     # 9 primary packages :
-    - cython =3.1.5 =py310h482110d_0
+    - cython =3.1.6 =py310hf41fa49_0
     - matplotlib =3.10.7 =py310hb6292c7_0
     - numpy =2.2.6 =py310h4d83441_0
     - pandas =2.3.3 =py310h25f4b65_1
@@ -66,7 +66,7 @@ requirements:
     - ca-certificates =2025.10.5 =hbd8a1cb_0
     - cattrs =25.3.0 =pyhd8ed1ab_0
     - certifi =2025.10.5 =pyhd8ed1ab_0
-    - cffi =2.0.0 =py310h55fa279_0
+    - cffi =2.0.0 =py310hf5b66c1_1
     - chardet =5.2.0 =pyhd8ed1ab_3
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
     - click =8.3.0 =pyh707e725_0
@@ -95,8 +95,8 @@ requirements:
     - frozenlist =1.7.0 =py310ha18c8e3_0
     - fzf =0.66.0 =h708ec5c_0
     - giflib =5.2.2 =h93a5062_0
-    - glib =2.86.0 =h52a91e1_0
-    - glib-tools =2.86.0 =hb9d6e3a_0
+    - glib =2.86.0 =hc66c15f_1
+    - glib-tools =2.86.0 =hb9d6e3a_1
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.2.1 =py310h8086d47_1
     - gst-plugins-base =1.24.11 =h3c5c1d0_0
@@ -137,17 +137,17 @@ requirements:
     - libbrotlienc =1.1.0 =h6caf38d_4
     - libcblas =3.9.0 =37_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_h73dfc95_15
-    - libclang13 =21.1.3 =default_h6e8f826_0
+    - libclang13 =21.1.4 =default_h6e8f826_0
     - libcxx =21.1.4 =hf598326_0
     - libdeflate =1.24 =h5773f1b_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libexpat =2.7.1 =hec049ff_0
-    - libffi =3.4.6 =h1da3d7d_1
+    - libffi =3.5.2 =he5f378a_0
     - libfreetype =2.14.1 =hce30654_0
     - libfreetype6 =2.14.1 =h6da58f4_0
     - libgfortran =15.2.0 =hfcf01ff_1
     - libgfortran5 =15.2.0 =h742603c_1
-    - libglib =2.86.0 =h1bb475b_0
+    - libglib =2.86.0 =he69a767_1
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -178,7 +178,7 @@ requirements:
     - markdown-it-py =4.0.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py310hf4fd40f_0
     - matplotlib-base =3.10.7 =py310h0181960_0
-    - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
+    - matplotlib-inline =0.2.1 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
     - mistune =3.1.4 =pyhcf101f3_0
@@ -233,8 +233,8 @@ requirements:
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.6.0 =py310hfe3a0ae_0
-    - pyobjc-core =12.0 =py310h4f0a512_0
-    - pyobjc-framework-cocoa =12.0 =py310h9947ce4_0
+    - pyobjc-core =12.0 =py310h9d23ab5_1
+    - pyobjc-framework-cocoa =12.0 =py310h8579ff5_1
     - pyobjc-framework-coreservices =12.0 =py310hfe3a0ae_0
     - pyobjc-framework-fsevents =12.0 =py310hbe9552e_0
     - pyopenssl =25.3.0 =pyhd8ed1ab_0
@@ -275,9 +275,9 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.28.0 =py310hf3301a5_1
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.14.1 =h492a034_0
+    - ruff =0.14.2 =h492a034_0
     - setuptools =80.9.0 =pyhff2d567_0
-    - sip =6.13.1 =py310hc7786af_0
+    - sip =6.14.0 =py310hc7786af_0
     - six =1.17.0 =pyhe01879c_1
     - snowballstemmer =3.0.1 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
