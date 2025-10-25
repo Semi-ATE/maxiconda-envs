@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 561 secondary packages :
+    # 562 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - adwaita-icon-theme =49.0 =unix_0
@@ -85,7 +85,7 @@ requirements:
     - attr =2.5.1 =h4e544f5_1
     - attrs =25.4.0 =pyh71513ae_0
     - babel =2.17.0 =pyhd8ed1ab_0
-    - binutils_impl_linux-aarch64 =2.44 =ha36da51_3
+    - binutils_impl_linux-aarch64 =2.44 =ha36da51_4
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
     - boltons =25.0.0 =pyhd8ed1ab_0
@@ -159,7 +159,7 @@ requirements:
     - gsl =2.7 =h294027d_0
     - gst-plugins-base =1.24.11 =h83ffb7f_0
     - gstreamer =1.24.11 =h17c303d_0
-    - gtk3 =3.24.43 =hd0cad38_4
+    - gtk3 =3.24.43 =h4cd1324_6
     - gts =0.7.6 =he293c15_4
     - gxx_impl_linux-aarch64 =15.2.0 =h0902481_7
     - h11 =0.16.0 =pyhd8ed1ab_0
@@ -200,7 +200,7 @@ requirements:
     - lame =3.100 =h4e544f5_1003
     - lark =1.3.0 =pyhd8ed1ab_0
     - lcms2 =2.17 =hc88f144_0
-    - ld_impl_linux-aarch64 =2.44 =hd32f0e1_3
+    - ld_impl_linux-aarch64 =2.44 =hd32f0e1_4
     - lerc =4.0.0 =hfdc4d58_1
     - libarchive =3.8.2 =gpl_hd746d8a_100
     - libasprintf =0.25.1 =h5e0f5ae_0
@@ -293,7 +293,7 @@ requirements:
     - markupsafe =3.0.3 =py311h2dad8b0_0
     - matplotlib-base =3.10.7 =py311hb9c6b48_0
     - matplotlib-inline =0.2.1 =pyhd8ed1ab_0
-    - menuinst =2.4.0 =py311hec3470c_1
+    - menuinst =2.4.1 =py311hec3470c_0
     - mistune =3.1.4 =pyhcf101f3_0
     - mpc =1.3.1 =h783934e_1
     - mpfr =4.2.1 =h2305555_3
@@ -360,7 +360,7 @@ requirements:
     - pyzmq =27.1.0 =py311h5e4e491_0
     - qhull =2020.2 =h70be974_5
     - qt-main =5.15.15 =h2f19be9_6
-    - qt6-main =6.9.3 =h224e339_0
+    - qt6-main =6.9.3 =h224e339_1
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r45h0557e7b_1
     - r-assertthat =0.2.1 =r45hc72bb7e_6
@@ -464,6 +464,7 @@ requirements:
     - r-nnet =7.3_20 =r45h0557e7b_1
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
     - r-openssl =2.3.4 =r45h254ea06_0
+    - r-otel =0.2.0 =r45hc72bb7e_1
     - r-parallelly =1.45.1 =r45h0557e7b_1
     - r-pbdzmq =0.3_14 =r45he63f4dc_1
     - r-pillar =1.11.1 =r45hc72bb7e_0
@@ -475,7 +476,7 @@ requirements:
     - r-prodlim =2025.04.28 =r45h08b74da_1
     - r-progress =1.2.3 =r45hc72bb7e_2
     - r-progressr =0.17.0 =r45hc72bb7e_0
-    - r-promises =1.3.3 =r45h08b74da_1
+    - r-promises =1.4.0 =r45h08b74da_0
     - r-proxy =0.4_27 =r45h0557e7b_4
     - r-pryr =0.1.6 =r45h08b74da_3
     - r-ps =1.9.1 =r45h0557e7b_1
@@ -566,7 +567,7 @@ requirements:
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
     - soupsieve =2.8 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
-    - stdlib-list =0.11.1 =pyhd8ed1ab_0
+    - stdlib-list =0.12.0 =pyhd8ed1ab_0
     - sysroot_linux-aarch64 =2.34 =h96c1060_2
     - terminado =0.18.1 =pyh0d859eb_0
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
@@ -621,7 +622,7 @@ requirements:
     - xorg-xorgproto =2024.1 =h86ecc28_1
     - yaml =0.2.5 =h80f16a2_3
     - yaml-cpp =0.8.0 =h5ad3122_0
-    - yarl =1.20.1 =py311h58d527c_0
+    - yarl =1.22.0 =py311h164a683_0
     - zeromq =4.3.5 =hefbcea8_9
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zstandard =0.25.0 =py311h51cfe5d_0
