@@ -59,9 +59,9 @@ requirements:
     - black =25.1.0 =pyha5154f8_0
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.1.0 =h1c43f85_4
-    - brotli-bin =1.1.0 =h1c43f85_4
-    - brotli-python =1.1.0 =py310h79c4529_4
+    - brotli =1.2.0 =hb27157a_0
+    - brotli-bin =1.2.0 =h5c1846c_0
+    - brotli-python =1.2.0 =py310h67da81d_0
     - bzip2 =1.0.8 =h500dc9f_8
     - ca-certificates =2025.10.5 =hbd8a1cb_0
     - cattrs =25.3.0 =pyhd8ed1ab_0
@@ -132,9 +132,9 @@ requirements:
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
     - libblas =3.9.0 =37_he492b99_openblas
-    - libbrotlicommon =1.1.0 =h1c43f85_4
-    - libbrotlidec =1.1.0 =h1c43f85_4
-    - libbrotlienc =1.1.0 =h1c43f85_4
+    - libbrotlicommon =1.2.0 =h105ed1c_0
+    - libbrotlidec =1.2.0 =h660c9da_0
+    - libbrotlienc =1.2.0 =h2338291_0
     - libcblas =3.9.0 =37_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_15
     - libclang13 =21.1.4 =default_h7f9524c_0

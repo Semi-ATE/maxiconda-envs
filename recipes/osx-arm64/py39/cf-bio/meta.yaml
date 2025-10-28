@@ -40,8 +40,8 @@ requirements:
     - appnope =0.1.4 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - blosc =1.21.6 =h7dd00d9_1
-    - brotli =1.1.0 =h6caf38d_4
-    - brotli-bin =1.1.0 =h6caf38d_4
+    - brotli =1.2.0 =hca488c2_0
+    - brotli-bin =1.2.0 =hce9b42c_0
     - bzip2 =1.0.8 =hd037594_8
     - c-ares =1.34.5 =h5505292_0
     - ca-certificates =2025.10.5 =hbd8a1cb_0
@@ -102,9 +102,9 @@ requirements:
     - libblas =3.9.0 =37_h51639a9_openblas
     - libboost =1.86.0 =hf493ff8_4
     - libboost-python =1.86.0 =py39h7d68603_3
-    - libbrotlicommon =1.1.0 =h6caf38d_4
-    - libbrotlidec =1.1.0 =h6caf38d_4
-    - libbrotlienc =1.1.0 =h6caf38d_4
+    - libbrotlicommon =1.2.0 =h87ba0bc_0
+    - libbrotlidec =1.2.0 =h95a88de_0
+    - libbrotlienc =1.2.0 =hb1b9735_0
     - libcblas =3.9.0 =37_hb0561ab_openblas
     - libclang-cpp17 =17.0.6 =default_hf90f093_8
     - libclang13 =21.1.0 =default_h6e8f826_1

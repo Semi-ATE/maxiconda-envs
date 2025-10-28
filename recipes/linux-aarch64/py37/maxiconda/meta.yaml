@@ -82,8 +82,8 @@ requirements:
     - backports.zoneinfo =0.2.1 =py37h795501a_5
     - binutils_impl_linux-aarch64 =2.44 =ha36da51_4
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.1.0 =he30d5cf_4
-    - brotli-bin =1.1.0 =he30d5cf_4
+    - brotli =1.2.0 =hec30622_0
+    - brotli-bin =1.2.0 =hf3d421d_0
     - brotli-python =1.0.9 =py37hb20f0a7_7
     - bwidget =1.10.1 =h8af1aa0_1
     - bzip2 =1.0.8 =h4777abc_8
@@ -163,9 +163,9 @@ requirements:
     - libasprintf =0.25.1 =h5e0f5ae_0
     - libasprintf-devel =0.25.1 =h5e0f5ae_0
     - libblas =3.9.0 =20_linuxaarch64_openblas
-    - libbrotlicommon =1.1.0 =he30d5cf_4
-    - libbrotlidec =1.1.0 =he30d5cf_4
-    - libbrotlienc =1.1.0 =he30d5cf_4
+    - libbrotlicommon =1.2.0 =hd4db518_0
+    - libbrotlidec =1.2.0 =hb159aeb_0
+    - libbrotlienc =1.2.0 =ha5a240b_0
     - libcap =2.67 =h8246067_0
     - libcblas =3.9.0 =20_linuxaarch64_openblas
     - libclang =15.0.7 =default_hb368394_5

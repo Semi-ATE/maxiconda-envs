@@ -40,8 +40,8 @@ requirements:
     - _openmp_mutex =4.5 =2_gnu
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - blosc =1.21.6 =hfd34d9b_1
-    - brotli =1.1.0 =hfd05255_4
-    - brotli-bin =1.1.0 =hfd05255_4
+    - brotli =1.2.0 =h17ff524_0
+    - brotli-bin =1.2.0 =h6910e44_0
     - bzip2 =1.0.8 =h0ad9c76_8
     - ca-certificates =2025.10.5 =h4c7d964_0
     - cached-property =1.5.2 =hd8ed1ab_1
@@ -104,9 +104,9 @@ requirements:
     - libblas =3.9.0 =35_h5709861_mkl
     - libboost =1.86.0 =h9dfe17d_4
     - libboost-python =1.86.0 =py39h8f1c5a3_3
-    - libbrotlicommon =1.1.0 =hfd05255_4
-    - libbrotlidec =1.1.0 =hfd05255_4
-    - libbrotlienc =1.1.0 =hfd05255_4
+    - libbrotlicommon =1.2.0 =hc82b238_0
+    - libbrotlidec =1.2.0 =h431afc6_0
+    - libbrotlienc =1.2.0 =ha521d6b_0
     - libcblas =3.9.0 =35_h2a3cdd5_mkl
     - libclang13 =21.1.4 =default_ha2db4b5_0
     - libcurl =8.16.0 =h43ecb02_0

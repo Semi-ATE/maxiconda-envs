@@ -82,8 +82,8 @@ requirements:
     - binutils_impl_win-64 =2.44 =h1226360_4
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.1.0 =hfd05255_4
-    - brotli-bin =1.1.0 =hfd05255_4
+    - brotli =1.2.0 =h17ff524_0
+    - brotli-bin =1.2.0 =h6910e44_0
     - brotli-python =1.0.9 =py39h99910a6_8
     - bwidget =1.10.1 =h57928b3_1
     - bzip2 =1.0.8 =h0ad9c76_8
@@ -169,9 +169,9 @@ requirements:
     - ld_impl_win-64 =2.44 =h13c207b_4
     - lerc =4.0.0 =h6470a55_1
     - libblas =3.9.0 =35_h5709861_mkl
-    - libbrotlicommon =1.1.0 =hfd05255_4
-    - libbrotlidec =1.1.0 =hfd05255_4
-    - libbrotlienc =1.1.0 =hfd05255_4
+    - libbrotlicommon =1.2.0 =hc82b238_0
+    - libbrotlidec =1.2.0 =h431afc6_0
+    - libbrotlienc =1.2.0 =ha521d6b_0
     - libcblas =3.9.0 =35_h2a3cdd5_mkl
     - libclang13 =21.1.4 =default_ha2db4b5_0
     - libcurl =8.16.0 =h43ecb02_0
