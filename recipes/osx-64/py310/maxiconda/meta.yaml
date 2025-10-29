@@ -40,7 +40,7 @@ requirements:
     - openpyxl =3.1.5 =py310h20ca25a_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py310h39ce848_1
-    - psutil =7.1.1 =py310hd2d5e8d_0
+    - psutil =7.1.2 =py310h3aa7efa_0
     - pydantic =2.12.3 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py310h6c6f83e_2
     - pyserial =3.5 =pyhd8ed1ab_1
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 469 secondary packages :
+    # 470 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -91,7 +91,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h950ec3b_0
-    - cctools_osx-64 =1024.3 =llvm21_1_h81d60ea_5
+    - cctools_osx-64 =1024.3 =llvm21_1_h81d60ea_7
     - certifi =2025.10.5 =pyhd8ed1ab_0
     - cffi =2.0.0 =py310h062c7ae_1
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
@@ -177,15 +177,15 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.17 =h72f5680_0
-    - ld64 =955.13 =h2eed689_5
-    - ld64_osx-64 =955.13 =llvm21_1_h2cc85ee_5
+    - ld64 =955.13 =h2eed689_7
+    - ld64_osx-64 =955.13 =llvm21_1_h2cc85ee_7
     - lerc =4.0.0 =hcca01a6_1
     - libasprintf =0.25.1 =h3184127_1
-    - libblas =3.9.0 =37_he492b99_openblas
+    - libblas =3.9.0 =38_he492b99_openblas
     - libbrotlicommon =1.2.0 =h105ed1c_0
     - libbrotlidec =1.2.0 =h660c9da_0
     - libbrotlienc =1.2.0 =h2338291_0
-    - libcblas =3.9.0 =37_h9b27e0a_openblas
+    - libcblas =3.9.0 =38_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_15
     - libclang-cpp21.1 =21.1.4 =default_hc369343_0
     - libclang13 =21.1.4 =default_h7f9524c_0
@@ -208,7 +208,7 @@ requirements:
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
-    - liblapack =3.9.0 =37_h859234e_openblas
+    - liblapack =3.9.0 =38_h859234e_openblas
     - libllvm18 =18.1.8 =default_hc369343_10
     - libllvm21 =21.1.4 =h56e7563_0
     - liblzma =5.8.1 =hd471939_2
@@ -265,7 +265,7 @@ requirements:
     - pcre2 =10.46 =ha3e7e28_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.3.0 =py310h566a92c_3
+    - pillow =12.0.0 =py310hedd9cf5_0
     - pip =25.2 =pyh8b19718_0
     - pixman =0.46.4 =ha059160_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
@@ -311,7 +311,7 @@ requirements:
     - r-bslib =0.9.0 =r45hc72bb7e_1
     - r-cachem =1.1.0 =r45h735ac91_2
     - r-callr =3.7.6 =r45hc72bb7e_2
-    - r-caret =6.0_94 =r45h735ac91_3
+    - r-caret =7.0_1 =r45h735ac91_0
     - r-cellranger =1.1.0 =r45hc72bb7e_1008
     - r-class =7.3_23 =r45h735ac91_1
     - r-cli =3.6.5 =r45ha730edb_1
@@ -475,7 +475,7 @@ requirements:
     - r-vroom =1.6.6 =r45ha730edb_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.53 =r45ha730edb_1
-    - r-xml2 =1.4.0 =r45hf8ceb01_2
+    - r-xml2 =1.4.1 =r45hf8ceb01_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h735ac91_1
     - r-yaml =2.3.10 =r45h735ac91_1
@@ -532,6 +532,7 @@ requirements:
     - zeromq =4.3.5 =h6c33b1e_9
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zlib =1.3.1 =hd23fc13_2
+    - zlib-ng =2.2.5 =he7f0fdc_0
     - zstandard =0.25.0 =py310h3aa7efa_0
     - zstd =1.5.7 =h8210216_2
 

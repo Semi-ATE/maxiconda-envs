@@ -40,7 +40,7 @@ requirements:
     - openpyxl =3.1.5 =py311h4d8bf61_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py311h11fd7f3_1
-    - psutil =7.1.1 =py311h3485c13_0
+    - psutil =7.1.2 =py311hf893f09_0
     - pydantic =2.12.3 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py311h7c55f98_2
     - pyserial =3.5 =pyhd8ed1ab_1
@@ -53,7 +53,7 @@ requirements:
     - regex =2025.10.23 =py311h3485c13_0
     - requests =2.32.5 =pyhd8ed1ab_0
     - rust =1.90.0 =hf8d6059_0
-    - scipy =1.16.2 =py311h9a1c30b_0
+    - scipy =1.16.3 =py311h9a1c30b_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.1 =win_pyh7428d3b_0
     - sqlalchemy =2.0.44 =py311h3485c13_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 490 secondary packages :
+    # 491 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -183,11 +183,11 @@ requirements:
     - ld_impl_win-64 =2.44 =h13c207b_4
     - lerc =4.0.0 =h6470a55_1
     - libarchive =3.8.2 =gpl_h26aea39_100
-    - libblas =3.9.0 =35_h5709861_mkl
+    - libblas =3.9.0 =38_hf2e6a31_mkl
     - libbrotlicommon =1.2.0 =hc82b238_0
     - libbrotlidec =1.2.0 =h431afc6_0
     - libbrotlienc =1.2.0 =ha521d6b_0
-    - libcblas =3.9.0 =35_h2a3cdd5_mkl
+    - libcblas =3.9.0 =38_h2a3cdd5_mkl
     - libclang13 =21.1.4 =default_ha2db4b5_0
     - libcurl =8.16.0 =h43ecb02_0
     - libdeflate =1.24 =h76ddb4d_0
@@ -207,7 +207,7 @@ requirements:
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
     - libjpeg-turbo =3.1.0 =h2466b09_0
-    - liblapack =3.9.0 =35_hf9ab0e9_mkl
+    - liblapack =3.9.0 =38_hf9ab0e9_mkl
     - liblzma =5.8.1 =h2466b09_2
     - libmamba =2.3.3 =h5fbfb43_1
     - libmambapy =2.3.3 =py311hd21cfaa_1
@@ -246,7 +246,7 @@ requirements:
     - mingw-w64-ucrt-x86_64-windows-default-manifest =6.4 =he206cdd_7
     - mingw-w64-ucrt-x86_64-winpthreads-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
     - mistune =3.1.4 =pyhcf101f3_0
-    - mkl =2024.2.2 =h57928b3_16
+    - mkl =2025.3.0 =hac47afa_454
     - mpmath =1.3.0 =pyhd8ed1ab_1
     - multidict =6.6.3 =py311h3f79411_0
     - munkres =1.1.4 =pyhd8ed1ab_1
@@ -268,7 +268,7 @@ requirements:
     - parso =0.8.5 =pyhcf101f3_0
     - pcre2 =10.46 =h3402e2f_0
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.3.0 =py311h26a3c52_3
+    - pillow =12.0.0 =py311hf7ee305_0
     - pip =25.2 =pyh8b19718_0
     - pixman =0.46.4 =h5112557_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
@@ -317,7 +317,7 @@ requirements:
     - r-bslib =0.9.0 =r45hc72bb7e_1
     - r-cachem =1.1.0 =r45heceb674_2
     - r-callr =3.7.6 =r45hc72bb7e_2
-    - r-caret =6.0_94 =r45heceb674_3
+    - r-caret =7.0_1 =r45heceb674_0
     - r-cellranger =1.1.0 =r45hc72bb7e_1008
     - r-class =7.3_23 =r45heceb674_1
     - r-cli =3.6.5 =r45hd8a2815_1
@@ -481,7 +481,7 @@ requirements:
     - r-vroom =1.6.6 =r45hd8a2815_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.53 =r45hd8a2815_1
-    - r-xml2 =1.4.0 =r45h1e5fb1b_2
+    - r-xml2 =1.4.1 =r45h1e5fb1b_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45heceb674_1
     - r-yaml =2.3.10 =r45heceb674_1
@@ -509,7 +509,7 @@ requirements:
     - soupsieve =2.8 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
-    - tbb =2021.13.0 =h18a62a1_3
+    - tbb =2022.2.0 =h18a62a1_1
     - terminado =0.18.1 =pyh5737063_0
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =h2c6b04d_2
@@ -553,6 +553,7 @@ requirements:
     - yarl =1.22.0 =py311h3f79411_0
     - zeromq =4.3.5 =h5bddc39_9
     - zipp =3.23.0 =pyhd8ed1ab_0
+    - zlib-ng =2.2.5 =h1608b31_0
     - zstandard =0.25.0 =py311hf893f09_0
     - zstd =1.5.7 =hbeecb71_2
 

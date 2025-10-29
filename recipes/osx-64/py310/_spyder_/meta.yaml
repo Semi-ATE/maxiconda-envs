@@ -35,7 +35,7 @@ requirements:
     - spyder =6.1.0 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 289 secondary packages :
+    # 290 secondary packages :
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.13.1 =py310h256dd32_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -131,11 +131,11 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
-    - libblas =3.9.0 =37_he492b99_openblas
+    - libblas =3.9.0 =38_he492b99_openblas
     - libbrotlicommon =1.2.0 =h105ed1c_0
     - libbrotlidec =1.2.0 =h660c9da_0
     - libbrotlienc =1.2.0 =h2338291_0
-    - libcblas =3.9.0 =37_h9b27e0a_openblas
+    - libcblas =3.9.0 =38_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_15
     - libclang13 =21.1.4 =default_h7f9524c_0
     - libcxx =21.1.4 =h3d58e20_0
@@ -152,7 +152,7 @@ requirements:
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
-    - liblapack =3.9.0 =37_h859234e_openblas
+    - liblapack =3.9.0 =38_h859234e_openblas
     - libllvm18 =18.1.8 =default_hc369343_10
     - libllvm21 =21.1.4 =h56e7563_0
     - liblzma =5.8.1 =hd471939_2
@@ -210,14 +210,14 @@ requirements:
     - pcre2 =10.46 =ha3e7e28_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.3.0 =py310h566a92c_3
+    - pillow =12.0.0 =py310hedd9cf5_0
     - pip =25.2 =pyh8b19718_0
     - platformdirs =4.5.0 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.3.1 =py310h8e2f543_0
-    - psutil =7.1.1 =py310hd2d5e8d_0
+    - psutil =7.1.2 =py310h3aa7efa_0
     - pthread-stubs =0.4 =h00291cd_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
@@ -323,6 +323,7 @@ requirements:
     - yarl =1.22.0 =py310hd951482_0
     - zeromq =4.3.5 =h6c33b1e_9
     - zipp =3.23.0 =pyhd8ed1ab_0
+    - zlib-ng =2.2.5 =he7f0fdc_0
     - zstandard =0.25.0 =py310h3aa7efa_0
     - zstd =1.5.7 =h8210216_2
 

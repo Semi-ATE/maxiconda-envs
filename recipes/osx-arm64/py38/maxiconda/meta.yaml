@@ -92,7 +92,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h6a3b0d2_0
-    - cctools_osx-arm64 =1024.3 =llvm21_1_haddd2d4_5
+    - cctools_osx-arm64 =1024.3 =llvm21_1_haddd2d4_7
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38h858044d_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
@@ -181,8 +181,8 @@ requirements:
     - kiwisolver =1.4.5 =py38h9afee92_1
     - krb5 =1.21.3 =h237132a_0
     - lcms2 =2.17 =h7eeda09_0
-    - ld64 =955.13 =h5d6df6c_5
-    - ld64_osx-arm64 =955.13 =llvm21_1_hde6573c_5
+    - ld64 =955.13 =h5d6df6c_7
+    - ld64_osx-arm64 =955.13 =llvm21_1_hde6573c_7
     - lerc =4.0.0 =hd64df32_1
     - libasprintf =0.25.1 =h493aca8_0
     - libblas =3.9.0 =20_osxarm64_openblas
@@ -316,7 +316,7 @@ requirements:
     - r-bslib =0.9.0 =r45hc72bb7e_1
     - r-cachem =1.1.0 =r45h6168396_2
     - r-callr =3.7.6 =r45hc72bb7e_2
-    - r-caret =6.0_94 =r45h6168396_3
+    - r-caret =7.0_1 =r45h6168396_0
     - r-cellranger =1.1.0 =r45hc72bb7e_1008
     - r-class =7.3_23 =r45h6168396_1
     - r-cli =3.6.5 =r45hc1cd577_1
@@ -480,7 +480,7 @@ requirements:
     - r-vroom =1.6.6 =r45hc1cd577_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.53 =r45hc1cd577_1
-    - r-xml2 =1.4.0 =r45h7a605a7_2
+    - r-xml2 =1.4.1 =r45h7a605a7_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h6168396_1
     - r-yaml =2.3.10 =r45h6168396_1

@@ -91,7 +91,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h950ec3b_0
-    - cctools_osx-64 =1024.3 =llvm21_1_h81d60ea_5
+    - cctools_osx-64 =1024.3 =llvm21_1_h81d60ea_7
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h8ddeee6_0
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
@@ -179,15 +179,15 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lark =1.2.2 =pyhd8ed1ab_1
     - lcms2 =2.17 =h72f5680_0
-    - ld64 =955.13 =h2eed689_5
-    - ld64_osx-64 =955.13 =llvm21_1_h2cc85ee_5
+    - ld64 =955.13 =h2eed689_7
+    - ld64_osx-64 =955.13 =llvm21_1_h2cc85ee_7
     - lerc =4.0.0 =hcca01a6_1
     - libasprintf =0.25.1 =h3184127_1
-    - libblas =3.9.0 =37_he492b99_openblas
+    - libblas =3.9.0 =38_he492b99_openblas
     - libbrotlicommon =1.2.0 =h105ed1c_0
     - libbrotlidec =1.2.0 =h660c9da_0
     - libbrotlienc =1.2.0 =h2338291_0
-    - libcblas =3.9.0 =37_h9b27e0a_openblas
+    - libcblas =3.9.0 =38_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_15
     - libclang-cpp21.1 =21.1.4 =default_hc369343_0
     - libclang13 =21.1.4 =default_h7f9524c_0
@@ -210,7 +210,7 @@ requirements:
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.0 =h6e16a3a_0
-    - liblapack =3.9.0 =37_h859234e_openblas
+    - liblapack =3.9.0 =38_h859234e_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm18 =18.1.8 =default_hc369343_10
     - libllvm21 =21.1.4 =h56e7563_0
@@ -314,7 +314,7 @@ requirements:
     - r-bslib =0.9.0 =r45hc72bb7e_1
     - r-cachem =1.1.0 =r45h735ac91_2
     - r-callr =3.7.6 =r45hc72bb7e_2
-    - r-caret =6.0_94 =r45h735ac91_3
+    - r-caret =7.0_1 =r45h735ac91_0
     - r-cellranger =1.1.0 =r45hc72bb7e_1008
     - r-class =7.3_23 =r45h735ac91_1
     - r-cli =3.6.5 =r45ha730edb_1
@@ -478,7 +478,7 @@ requirements:
     - r-vroom =1.6.6 =r45ha730edb_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.53 =r45ha730edb_1
-    - r-xml2 =1.4.0 =r45hf8ceb01_2
+    - r-xml2 =1.4.1 =r45hf8ceb01_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h735ac91_1
     - r-yaml =2.3.10 =r45h735ac91_1

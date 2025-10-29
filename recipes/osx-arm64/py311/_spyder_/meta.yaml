@@ -31,11 +31,11 @@ requirements:
     - pandas =2.3.3 =py311hdb8e4fa_1
     - pyqt =5.15.11 =py311ha87f45f_2
     - pyqtwebengine =5.15.11 =py311h7e362d0_2
-    - scipy =1.16.2 =py311h2734c94_0
+    - scipy =1.16.3 =py311h2734c94_0
     - spyder =6.1.0 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 289 secondary packages :
+    # 290 secondary packages :
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.13.1 =py311h511ffe1_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -130,11 +130,11 @@ requirements:
     - krb5 =1.21.3 =h237132a_0
     - lcms2 =2.17 =h7eeda09_0
     - lerc =4.0.0 =hd64df32_1
-    - libblas =3.9.0 =37_h51639a9_openblas
+    - libblas =3.9.0 =38_h51639a9_openblas
     - libbrotlicommon =1.2.0 =h87ba0bc_0
     - libbrotlidec =1.2.0 =h95a88de_0
     - libbrotlienc =1.2.0 =hb1b9735_0
-    - libcblas =3.9.0 =37_hb0561ab_openblas
+    - libcblas =3.9.0 =38_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_h73dfc95_15
     - libclang13 =21.1.4 =default_h6e8f826_0
     - libcxx =21.1.4 =hf598326_0
@@ -151,7 +151,7 @@ requirements:
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
     - libjpeg-turbo =3.1.0 =h5505292_0
-    - liblapack =3.9.0 =37_hd9741b5_openblas
+    - liblapack =3.9.0 =38_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h3f38c9c_10
     - libllvm21 =21.1.4 =h8e0c9ce_0
     - liblzma =5.8.1 =h39f12f2_2
@@ -209,14 +209,14 @@ requirements:
     - pcre2 =10.46 =h7125dd6_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.3.0 =py311h1f9957d_3
+    - pillow =12.0.0 =py311h890502c_0
     - pip =25.2 =pyh8b19718_0
     - platformdirs =4.5.0 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhd8ed1ab_0
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.3.1 =py311h4921393_0
-    - psutil =7.1.1 =py311h9408147_0
+    - psutil =7.1.2 =py311h5bb9006_0
     - pthread-stubs =0.4 =hd74edd7_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
@@ -323,6 +323,7 @@ requirements:
     - yarl =1.22.0 =py311ha9b3269_0
     - zeromq =4.3.5 =h888dc83_9
     - zipp =3.23.0 =pyhd8ed1ab_0
+    - zlib-ng =2.2.5 =hf787086_0
     - zstandard =0.25.0 =py311h5bb9006_0
     - zstd =1.5.7 =h6491c7d_2
 

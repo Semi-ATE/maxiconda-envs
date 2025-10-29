@@ -36,7 +36,7 @@ requirements:
     - spyder =6.1.0 =hd8ed1ab_0
     - sympy =1.14.0 =pyh04b8f61_5
 
-    # 287 secondary packages :
+    # 288 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.13.1 =py310h70ea87e_0
@@ -137,11 +137,11 @@ requirements:
     - krb5 =1.21.3 =hdf4eb48_0
     - lcms2 =2.17 =hbcf6048_0
     - lerc =4.0.0 =h6470a55_1
-    - libblas =3.9.0 =35_h5709861_mkl
+    - libblas =3.9.0 =38_hf2e6a31_mkl
     - libbrotlicommon =1.2.0 =hc82b238_0
     - libbrotlidec =1.2.0 =h431afc6_0
     - libbrotlienc =1.2.0 =ha521d6b_0
-    - libcblas =3.9.0 =35_h2a3cdd5_mkl
+    - libcblas =3.9.0 =38_h2a3cdd5_mkl
     - libclang13 =21.1.4 =default_ha2db4b5_0
     - libdeflate =1.24 =h76ddb4d_0
     - libexpat =2.7.1 =hac47afa_0
@@ -156,7 +156,7 @@ requirements:
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
     - libjpeg-turbo =3.1.0 =h2466b09_0
-    - liblapack =3.9.0 =35_hf9ab0e9_mkl
+    - liblapack =3.9.0 =38_hf9ab0e9_mkl
     - liblzma =5.8.1 =h2466b09_2
     - libogg =1.3.5 =h2466b09_1
     - libpng =1.6.50 =h7351971_1
@@ -183,7 +183,7 @@ requirements:
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
     - mistune =3.1.4 =pyhcf101f3_0
-    - mkl =2024.2.2 =h57928b3_16
+    - mkl =2025.3.0 =hac47afa_454
     - more-itertools =10.8.0 =pyhd8ed1ab_0
     - mpmath =1.3.0 =pyhd8ed1ab_1
     - multidict =6.6.3 =py310hdb0e946_0
@@ -206,7 +206,7 @@ requirements:
     - pcre2 =10.46 =h3402e2f_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.3.0 =py310hb3a2f59_3
+    - pillow =12.0.0 =py310hfb50504_0
     - pip =25.2 =pyh8b19718_0
     - pixman =0.46.4 =h5112557_1
     - platformdirs =4.5.0 =pyhcf101f3_0
@@ -214,7 +214,7 @@ requirements:
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.3.1 =py310h38315fa_0
-    - psutil =7.1.1 =py310h29418f3_0
+    - psutil =7.1.2 =py310h1637853_0
     - pthread-stubs =0.4 =h0e40799_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
@@ -287,7 +287,7 @@ requirements:
     - spyder-kernels =3.1.1 =win_pyh7428d3b_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.6 =pyhb6d5dde_0
-    - tbb =2021.13.0 =h18a62a1_3
+    - tbb =2022.2.0 =h18a62a1_1
     - text-unidecode =1.3 =pyhd8ed1ab_2
     - textdistance =4.6.3 =pyhd8ed1ab_1
     - three-merge =0.1.1 =pyhd8ed1ab_1
@@ -322,6 +322,7 @@ requirements:
     - yarl =1.22.0 =py310hdb0e946_0
     - zeromq =4.3.5 =h5bddc39_9
     - zipp =3.23.0 =pyhd8ed1ab_0
+    - zlib-ng =2.2.5 =h1608b31_0
     - zstandard =0.25.0 =py310h1637853_0
     - zstd =1.5.7 =hbeecb71_2
 

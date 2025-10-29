@@ -31,11 +31,11 @@ requirements:
     - pandas =2.3.3 =py311hffd966a_1
     - pyqt =5.15.11 =py311h4808784_2
     - pyqtwebengine =5.15.11 =py311h4e4990a_2
-    - scipy =1.16.2 =py311h33b5a33_0
+    - scipy =1.16.3 =py311h33b5a33_0
     - spyder =6.1.0 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 357 secondary packages :
+    # 358 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.13.1 =py311h2c2d8e3_0
@@ -151,12 +151,12 @@ requirements:
     - lerc =4.0.0 =hfdc4d58_1
     - libasprintf =0.25.1 =h5e0f5ae_0
     - libasprintf-devel =0.25.1 =h5e0f5ae_0
-    - libblas =3.9.0 =37_haddc8a3_openblas
+    - libblas =3.9.0 =38_haddc8a3_openblas
     - libbrotlicommon =1.2.0 =hd4db518_0
     - libbrotlidec =1.2.0 =hb159aeb_0
     - libbrotlienc =1.2.0 =ha5a240b_0
     - libcap =2.76 =h5706e9e_0
-    - libcblas =3.9.0 =37_hd72aa62_openblas
+    - libcblas =3.9.0 =38_hd72aa62_openblas
     - libclang-cpp20.1 =20.1.8 =default_he95a3c9_4
     - libclang-cpp21.1 =21.1.0 =default_he95a3c9_1
     - libclang13 =21.1.0 =default_h94a09a5_1
@@ -186,7 +186,7 @@ requirements:
     - libgpg-error =1.55 =h5ad3122_0
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.0 =h86ecc28_0
-    - liblapack =3.9.0 =37_h88aeb00_openblas
+    - liblapack =3.9.0 =38_h88aeb00_openblas
     - libllvm20 =20.1.8 =h2b567e5_0
     - libllvm21 =21.1.0 =h2b567e5_0
     - liblzma =5.8.1 =h86ecc28_2
@@ -255,7 +255,7 @@ requirements:
     - pcre2 =10.46 =h15761aa_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.3.0 =py311h3bd873a_3
+    - pillow =12.0.0 =py311h9a6517a_0
     - pip =25.2 =pyh8b19718_0
     - pixman =0.46.4 =h7ac5ae9_1
     - platformdirs =4.5.0 =pyhcf101f3_0
@@ -263,7 +263,7 @@ requirements:
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.3.1 =py311h58d527c_0
-    - psutil =7.1.1 =py311h19352d5_0
+    - psutil =7.1.2 =py311h51cfe5d_0
     - pthread-stubs =0.4 =h86ecc28_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pulseaudio-client =17.0 =h77cf2aa_2
@@ -391,6 +391,7 @@ requirements:
     - yarl =1.22.0 =py311h164a683_0
     - zeromq =4.3.5 =hefbcea8_9
     - zipp =3.23.0 =pyhd8ed1ab_0
+    - zlib-ng =2.2.5 =h92288e7_0
     - zstandard =0.25.0 =py311h51cfe5d_0
     - zstd =1.5.7 =hbcf94c1_2
 

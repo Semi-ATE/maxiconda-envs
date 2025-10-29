@@ -40,7 +40,7 @@ requirements:
     - openpyxl =3.1.5 =py312h6c49482_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py312hdc0efb6_1
-    - psutil =7.1.1 =py312hcd1a082_0
+    - psutil =7.1.2 =py312hd41f8a7_0
     - pydantic =2.12.3 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py312hc13527c_2
     - pyserial =3.5 =pyhd8ed1ab_1
@@ -53,7 +53,7 @@ requirements:
     - regex =2025.10.23 =py312hcd1a082_0
     - requests =2.32.5 =pyhd8ed1ab_0
     - rust =1.90.0 =h6cf38e9_0
-    - scipy =1.16.2 =py312h410a068_0
+    - scipy =1.16.3 =py312h410a068_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.1 =unix_pyh707e725_0
     - sqlalchemy =2.0.44 =py312hefbd42c_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 564 secondary packages :
+    # 565 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
@@ -206,12 +206,12 @@ requirements:
     - libarchive =3.8.2 =gpl_hd746d8a_100
     - libasprintf =0.25.1 =h5e0f5ae_0
     - libasprintf-devel =0.25.1 =h5e0f5ae_0
-    - libblas =3.9.0 =37_haddc8a3_openblas
+    - libblas =3.9.0 =38_haddc8a3_openblas
     - libbrotlicommon =1.2.0 =hd4db518_0
     - libbrotlidec =1.2.0 =hb159aeb_0
     - libbrotlienc =1.2.0 =ha5a240b_0
     - libcap =2.76 =h5706e9e_0
-    - libcblas =3.9.0 =37_hd72aa62_openblas
+    - libcblas =3.9.0 =38_hd72aa62_openblas
     - libclang-cpp21.1 =21.1.4 =default_he95a3c9_0
     - libclang13 =21.1.4 =default_h94a09a5_0
     - libcups =2.3.3 =h5cdc715_5
@@ -248,7 +248,7 @@ requirements:
     - libgpg-error =1.55 =h5ad3122_0
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.0 =h86ecc28_0
-    - liblapack =3.9.0 =37_h88aeb00_openblas
+    - liblapack =3.9.0 =38_h88aeb00_openblas
     - libllvm21 =21.1.4 =hfd2ba90_0
     - liblzma =5.8.1 =h86ecc28_2
     - libmamba =2.3.3 =hdcf0ffa_2
@@ -325,7 +325,7 @@ requirements:
     - pcre2 =10.46 =h15761aa_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =11.3.0 =py312h6e23c8a_3
+    - pillow =12.0.0 =py312h659b9f1_0
     - pip =25.2 =pyh8b19718_0
     - pixman =0.46.4 =h7ac5ae9_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
@@ -376,7 +376,7 @@ requirements:
     - r-bslib =0.9.0 =r45hc72bb7e_1
     - r-cachem =1.1.0 =r45h0557e7b_2
     - r-callr =3.7.6 =r45hc72bb7e_2
-    - r-caret =6.0_94 =r45h0557e7b_3
+    - r-caret =7.0_1 =r45h0557e7b_0
     - r-cellranger =1.1.0 =r45hc72bb7e_1008
     - r-class =7.3_23 =r45h0557e7b_1
     - r-cli =3.6.5 =r45h08b74da_1
@@ -540,7 +540,7 @@ requirements:
     - r-vroom =1.6.6 =r45h08b74da_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.53 =r45h08b74da_1
-    - r-xml2 =1.4.0 =r45h15e677e_2
+    - r-xml2 =1.4.1 =r45h15e677e_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h0557e7b_1
     - r-yaml =2.3.10 =r45h0557e7b_1
@@ -627,6 +627,7 @@ requirements:
     - yarl =1.22.0 =py312ha4530ae_0
     - zeromq =4.3.5 =hefbcea8_9
     - zipp =3.23.0 =pyhd8ed1ab_0
+    - zlib-ng =2.2.5 =h92288e7_0
     - zstandard =0.25.0 =py312hd41f8a7_0
     - zstd =1.5.7 =hbcf94c1_2
 

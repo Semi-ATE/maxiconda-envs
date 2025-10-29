@@ -182,12 +182,12 @@ requirements:
     - lerc =4.0.0 =hfdc4d58_1
     - libasprintf =0.25.1 =h5e0f5ae_0
     - libasprintf-devel =0.25.1 =h5e0f5ae_0
-    - libblas =3.9.0 =37_haddc8a3_openblas
+    - libblas =3.9.0 =38_haddc8a3_openblas
     - libbrotlicommon =1.2.0 =hd4db518_0
     - libbrotlidec =1.2.0 =hb159aeb_0
     - libbrotlienc =1.2.0 =ha5a240b_0
     - libcap =2.76 =h5706e9e_0
-    - libcblas =3.9.0 =37_hd72aa62_openblas
+    - libcblas =3.9.0 =38_hd72aa62_openblas
     - libclang-cpp20.1 =20.1.8 =default_he95a3c9_4
     - libclang13 =21.1.0 =default_h94a09a5_1
     - libcups =2.3.3 =h5cdc715_5
@@ -220,7 +220,7 @@ requirements:
     - libgpg-error =1.55 =h5ad3122_0
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.0 =h86ecc28_0
-    - liblapack =3.9.0 =37_h88aeb00_openblas
+    - liblapack =3.9.0 =38_h88aeb00_openblas
     - libllvm14 =14.0.6 =h966f666_4
     - libllvm20 =20.1.8 =h2b567e5_0
     - libllvm21 =21.1.0 =h2b567e5_0
@@ -336,7 +336,7 @@ requirements:
     - r-bslib =0.9.0 =r45hc72bb7e_1
     - r-cachem =1.1.0 =r45h0557e7b_2
     - r-callr =3.7.6 =r45hc72bb7e_2
-    - r-caret =6.0_94 =r45h0557e7b_3
+    - r-caret =7.0_1 =r45h0557e7b_0
     - r-cellranger =1.1.0 =r45hc72bb7e_1008
     - r-class =7.3_23 =r45h0557e7b_1
     - r-cli =3.6.5 =r45h08b74da_1
