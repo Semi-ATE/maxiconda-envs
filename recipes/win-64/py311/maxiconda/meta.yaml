@@ -25,7 +25,7 @@ requirements:
     - python =3.11.14 =h0159041_2_cpython
 
     # 38 primary packages :
-    - aiohttp =3.13.1 =py311he1a1d09_0
+    - aiohttp =3.13.2 =py311h582051c_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.14.2 =pyha770c72_0
     - bitarray =3.7.2 =py311h3485c13_0
@@ -40,7 +40,7 @@ requirements:
     - openpyxl =3.1.5 =py311h4d8bf61_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py311h11fd7f3_1
-    - psutil =7.1.2 =py311hf893f09_0
+    - psutil =7.1.2 =py311hf893f09_1
     - pydantic =2.12.3 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py311h7c55f98_2
     - pyserial =3.5 =pyhd8ed1ab_1
@@ -387,7 +387,7 @@ requirements:
     - r-labeling =0.4.3 =r45hc72bb7e_2
     - r-later =1.4.4 =r45hd8a2815_1
     - r-lattice =0.22_7 =r45heceb674_1
-    - r-lava =1.8.1 =r45hc72bb7e_1
+    - r-lava =1.8.2 =r45hc72bb7e_0
     - r-lazyeval =0.2.2 =r45heceb674_6
     - r-lifecycle =1.0.4 =r45hc72bb7e_2
     - r-listenv =0.9.1 =r45hc72bb7e_2
@@ -480,7 +480,7 @@ requirements:
     - r-viridislite =0.4.2 =r45hc72bb7e_3
     - r-vroom =1.6.6 =r45hd8a2815_0
     - r-withr =3.0.2 =r45hc72bb7e_1
-    - r-xfun =0.53 =r45hd8a2815_1
+    - r-xfun =0.54 =r45hd8a2815_0
     - r-xml2 =1.4.1 =r45h1e5fb1b_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45heceb674_1
@@ -509,7 +509,7 @@ requirements:
     - soupsieve =2.8 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
-    - tbb =2022.2.0 =h18a62a1_1
+    - tbb =2022.3.0 =hd094cb3_0
     - terminado =0.18.1 =pyh5737063_0
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =h2c6b04d_2
@@ -553,7 +553,7 @@ requirements:
     - yarl =1.22.0 =py311h3f79411_0
     - zeromq =4.3.5 =h5bddc39_9
     - zipp =3.23.0 =pyhd8ed1ab_0
-    - zlib-ng =2.2.5 =h1608b31_0
+    - zlib-ng =2.2.5 =h32d8bfd_0
     - zstandard =0.25.0 =py311hf893f09_0
     - zstd =1.5.7 =hbeecb71_2
 

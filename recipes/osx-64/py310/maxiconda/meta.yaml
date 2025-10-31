@@ -25,7 +25,7 @@ requirements:
     - python =3.10.19 =h988dfef_2_cpython
 
     # 38 primary packages :
-    - aiohttp =3.13.1 =py310h256dd32_0
+    - aiohttp =3.13.2 =py310h1eacb63_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.14.2 =pyha770c72_0
     - bitarray =3.7.2 =py310hd2d5e8d_0
@@ -40,7 +40,7 @@ requirements:
     - openpyxl =3.1.5 =py310h20ca25a_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py310h39ce848_1
-    - psutil =7.1.2 =py310h3aa7efa_0
+    - psutil =7.1.2 =py310h3aa7efa_1
     - pydantic =2.12.3 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py310h6c6f83e_2
     - pyserial =3.5 =pyhd8ed1ab_1
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 470 secondary packages :
+    # 471 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -91,7 +91,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h950ec3b_0
-    - cctools_osx-64 =1024.3 =llvm21_1_h81d60ea_7
+    - cctools_osx-64 =1024.3 =llvm21_1_h81d60ea_8
     - certifi =2025.10.5 =pyhd8ed1ab_0
     - cffi =2.0.0 =py310h062c7ae_1
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
@@ -177,8 +177,8 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.17 =h72f5680_0
-    - ld64 =955.13 =h2eed689_7
-    - ld64_osx-64 =955.13 =llvm21_1_h2cc85ee_7
+    - ld64 =955.13 =h2eed689_8
+    - ld64_osx-64 =955.13 =llvm21_1_h2cc85ee_8
     - lerc =4.0.0 =hcca01a6_1
     - libasprintf =0.25.1 =h3184127_1
     - libblas =3.9.0 =38_he492b99_openblas
@@ -190,8 +190,9 @@ requirements:
     - libclang-cpp21.1 =21.1.4 =default_hc369343_0
     - libclang13 =21.1.4 =default_h7f9524c_0
     - libcurl =8.16.0 =h7dd4100_0
-    - libcxx =21.1.4 =h3d58e20_0
-    - libcxx-devel =21.1.4 =h7c275be_0
+    - libcxx =21.1.4 =h3d58e20_2
+    - libcxx-devel =21.1.4 =h7c275be_2
+    - libcxx-headers =21.1.4 =h707e725_2
     - libdeflate =1.24 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -215,7 +216,7 @@ requirements:
     - libnghttp2 =1.67.0 =h3338091_0
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =he3325bb_1
-    - libopenblas =0.3.30 =openmp_h6006d49_2
+    - libopenblas =0.3.30 =openmp_h6006d49_3
     - libopus =1.5.2 =he3325bb_0
     - libpng =1.6.50 =h84aeda2_1
     - libpq =18.0 =h5a4e477_0
@@ -381,7 +382,7 @@ requirements:
     - r-labeling =0.4.3 =r45hc72bb7e_2
     - r-later =1.4.4 =r45ha730edb_1
     - r-lattice =0.22_7 =r45h735ac91_1
-    - r-lava =1.8.1 =r45hc72bb7e_1
+    - r-lava =1.8.2 =r45hc72bb7e_0
     - r-lazyeval =0.2.2 =r45h735ac91_6
     - r-lifecycle =1.0.4 =r45hc72bb7e_2
     - r-listenv =0.9.1 =r45hc72bb7e_2
@@ -474,7 +475,7 @@ requirements:
     - r-viridislite =0.4.2 =r45hc72bb7e_3
     - r-vroom =1.6.6 =r45ha730edb_0
     - r-withr =3.0.2 =r45hc72bb7e_1
-    - r-xfun =0.53 =r45ha730edb_1
+    - r-xfun =0.54 =r45ha730edb_0
     - r-xml2 =1.4.1 =r45hf8ceb01_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h735ac91_1
@@ -532,7 +533,7 @@ requirements:
     - zeromq =4.3.5 =h6c33b1e_9
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zlib =1.3.1 =hd23fc13_2
-    - zlib-ng =2.2.5 =he7f0fdc_0
+    - zlib-ng =2.2.5 =h55e386d_0
     - zstandard =0.25.0 =py310h3aa7efa_0
     - zstd =1.5.7 =h8210216_2
 

@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 480 secondary packages :
+    # 481 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
     - aiosignal =1.3.1 =pyhd8ed1ab_0
@@ -93,7 +93,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h950ec3b_0
-    - cctools_osx-64 =1024.3 =llvm21_1_h81d60ea_7
+    - cctools_osx-64 =1024.3 =llvm21_1_h81d60ea_8
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hc8bcfa4_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
@@ -182,8 +182,8 @@ requirements:
     - kiwisolver =1.4.5 =py38h15a1a5b_1
     - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.17 =h72f5680_0
-    - ld64 =955.13 =h2eed689_7
-    - ld64_osx-64 =955.13 =llvm21_1_h2cc85ee_7
+    - ld64 =955.13 =h2eed689_8
+    - ld64_osx-64 =955.13 =llvm21_1_h2cc85ee_8
     - lerc =4.0.0 =hcca01a6_1
     - libasprintf =0.25.1 =h3184127_1
     - libblas =3.9.0 =20_osx64_openblas
@@ -195,8 +195,9 @@ requirements:
     - libclang-cpp21.1 =21.1.4 =default_hc369343_0
     - libclang13 =21.1.4 =default_h7f9524c_0
     - libcurl =8.16.0 =h7dd4100_0
-    - libcxx =21.1.4 =h3d58e20_0
-    - libcxx-devel =21.1.4 =h7c275be_0
+    - libcxx =21.1.4 =h3d58e20_2
+    - libcxx-devel =21.1.4 =h7c275be_2
+    - libcxx-headers =21.1.4 =h707e725_2
     - libdeflate =1.24 =hcc1b750_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -389,7 +390,7 @@ requirements:
     - r-labeling =0.4.3 =r45hc72bb7e_2
     - r-later =1.4.4 =r45ha730edb_1
     - r-lattice =0.22_7 =r45h735ac91_1
-    - r-lava =1.8.1 =r45hc72bb7e_1
+    - r-lava =1.8.2 =r45hc72bb7e_0
     - r-lazyeval =0.2.2 =r45h735ac91_6
     - r-lifecycle =1.0.4 =r45hc72bb7e_2
     - r-listenv =0.9.1 =r45hc72bb7e_2
@@ -482,7 +483,7 @@ requirements:
     - r-viridislite =0.4.2 =r45hc72bb7e_3
     - r-vroom =1.6.6 =r45ha730edb_0
     - r-withr =3.0.2 =r45hc72bb7e_1
-    - r-xfun =0.53 =r45ha730edb_1
+    - r-xfun =0.54 =r45ha730edb_0
     - r-xml2 =1.4.1 =r45hf8ceb01_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h735ac91_1

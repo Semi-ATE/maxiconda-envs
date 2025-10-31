@@ -59,9 +59,9 @@ requirements:
     - binaryornot =0.4.4 =py_1
     - black =24.8.0 =py38he3eb160_0
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.2.0 =hec30622_0
-    - brotli-bin =1.2.0 =hf3d421d_0
-    - brotli-python =1.0.9 =py38h5f8a8d0_8
+    - brotli =1.1.0 =h31becfc_1
+    - brotli-bin =1.1.0 =h31becfc_1
+    - brotli-python =1.1.0 =py38hb83fbf6_1
     - bzip2 =1.0.8 =h4777abc_8
     - ca-certificates =2025.10.5 =hbd8a1cb_0
     - cairo =1.18.4 =h83712da_0
@@ -114,7 +114,7 @@ requirements:
     - gst-plugins-base =1.24.11 =h83ffb7f_0
     - gstreamer =1.24.11 =h17c303d_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =11.5.1 =he4899c9_0
+    - harfbuzz =12.1.0 =he4899c9_0
     - hpack =4.0.0 =pyh9f0ad1d_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =75.1 =hf9b3779_0
@@ -152,9 +152,9 @@ requirements:
     - libasprintf =0.25.1 =h5e0f5ae_0
     - libasprintf-devel =0.25.1 =h5e0f5ae_0
     - libblas =3.9.0 =20_linuxaarch64_openblas
-    - libbrotlicommon =1.2.0 =hd4db518_0
-    - libbrotlidec =1.2.0 =hb159aeb_0
-    - libbrotlienc =1.2.0 =ha5a240b_0
+    - libbrotlicommon =1.1.0 =h31becfc_1
+    - libbrotlidec =1.1.0 =h31becfc_1
+    - libbrotlienc =1.1.0 =h31becfc_1
     - libcap =2.76 =h5706e9e_0
     - libcblas =3.9.0 =20_linuxaarch64_openblas
     - libclang-cpp20.1 =20.1.8 =default_he95a3c9_4
@@ -214,7 +214,7 @@ requirements:
     - libxcb =1.17.0 =h262b8f6_0
     - libxcrypt =4.4.36 =h31becfc_1
     - libxkbcommon =1.11.0 =h95ca766_0
-    - libxml2 =2.13.8 =he58860d_1
+    - libxml2 =2.13.9 =he58860d_0
     - libzlib =1.3.1 =h86ecc28_2
     - lz4-c =1.10.0 =h5ad3122_1
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
@@ -303,7 +303,7 @@ requirements:
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qstylizer =0.2.3 =pyhd8ed1ab_0
     - qt-main =5.15.15 =hbe73643_5
-    - qt-webengine =5.15.15 =h868942c_3
+    - qt-webengine =5.15.15 =h3fbf748_2
     - qtawesome =1.3.1 =pyh9208f05_0
     - qtconsole =5.6.1 =pyhd8ed1ab_0
     - qtconsole-base =5.6.1 =pyha770c72_0

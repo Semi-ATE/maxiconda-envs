@@ -39,7 +39,7 @@ requirements:
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
-    - aiohttp =3.13.1 =py310h258c6eb_0
+    - aiohttp =3.13.2 =py310h5541b7b_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - alsa-lib =1.2.14 =hb9d3cd8_0
@@ -86,7 +86,7 @@ requirements:
     - debugpy =1.8.17 =py310h25320af_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
-    - deprecated =1.2.18 =pyhd8ed1ab_0
+    - deprecated =1.3.1 =pyhd8ed1ab_0
     - diff-match-patch =20241021 =pyhd8ed1ab_1
     - dill =0.4.0 =pyhd8ed1ab_0
     - docstring-to-markdown =0.17 =pyhe01879c_0
@@ -117,7 +117,7 @@ requirements:
     - gst-plugins-base =1.24.11 =h651a532_0
     - gstreamer =1.24.11 =hc37bda9_0
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =11.5.1 =h15599e2_0
+    - harfbuzz =12.1.0 =h15599e2_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =75.1 =he02047a_0
@@ -195,7 +195,7 @@ requirements:
     - libnsl =2.0.1 =hb9d3cd8_1
     - libntlm =1.8 =hb9d3cd8_0
     - libogg =1.3.5 =hd0c01bc_1
-    - libopenblas =0.3.30 =pthreads_h94d23a6_2
+    - libopenblas =0.3.30 =pthreads_h94d23a6_3
     - libopengl =1.7.0 =ha4b6fd6_2
     - libopus =1.5.2 =hd0c01bc_0
     - libpciaccess =0.18 =hb9d3cd8_0
@@ -216,7 +216,7 @@ requirements:
     - libxcb =1.17.0 =h8a09558_0
     - libxcrypt =4.4.36 =hd590300_1
     - libxkbcommon =1.11.0 =he8b52b9_0
-    - libxml2 =2.13.8 =h04c0eec_1
+    - libxml2 =2.13.9 =h04c0eec_0
     - libxslt =1.1.43 =h7a3aeb2_0
     - libzlib =1.3.1 =hb9d3cd8_2
     - lsprotocol =2025.0.0 =pyhe01879c_0
@@ -265,7 +265,7 @@ requirements:
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.3.1 =py310h89163eb_0
-    - psutil =7.1.2 =py310h139afa4_0
+    - psutil =7.1.2 =py310h139afa4_1
     - pthread-stubs =0.4 =hb9d3cd8_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pulseaudio-client =17.0 =h9a8bead_2
@@ -308,7 +308,7 @@ requirements:
     - qhull =2020.2 =h434a139_5
     - qstylizer =0.2.4 =pyhff2d567_0
     - qt-main =5.15.15 =h3a7ef08_5
-    - qt-webengine =5.15.15 =h2da670d_3
+    - qt-webengine =5.15.15 =h0071231_2
     - qt6-main =6.9.2 =h5bd77bc_1
     - qtawesome =1.4.0 =pyh9208f05_1
     - qtconsole =5.7.0 =pyhd8ed1ab_0
