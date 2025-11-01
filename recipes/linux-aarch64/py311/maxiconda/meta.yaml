@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.7.2 =py311h19352d5_0
     - cython =3.1.6 =py311hdc11669_0
     - grayskull =2.9.1 =pyhcf101f3_1
-    - hypothesis =6.142.4 =pyha770c72_0
+    - hypothesis =6.142.5 =pyha770c72_0
     - ipython =9.6.0 =pyhfa0c392_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.7 =py311hfecb2dc_0
@@ -149,8 +149,8 @@ requirements:
     - gfortran_impl_linux-aarch64 =15.2.0 =hcb832a5_7
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.45 =pyhff2d567_0
-    - glib =2.86.0 =h8d23fb4_1
-    - glib-tools =2.86.0 =hc87f4d4_1
+    - glib =2.86.1 =h8d23fb4_1
+    - glib-tools =2.86.1 =hc87f4d4_1
     - gmp =6.3.0 =h0a1ffab_2
     - gmpy2 =2.2.1 =py311hc14af3f_1
     - graphite2 =1.3.14 =hfae3067_2
@@ -239,7 +239,7 @@ requirements:
     - libgfortran5 =15.2.0 =h87db57e_7
     - libgl =1.7.0 =hd24410f_2
     - libgl-devel =1.7.0 =hd24410f_2
-    - libglib =2.86.0 =he84ff74_1
+    - libglib =2.86.1 =he84ff74_1
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
     - libglx-devel =1.7.0 =hd24410f_2
@@ -543,7 +543,7 @@ requirements:
     - r-xts =0.14.1 =r45h0557e7b_1
     - r-yaml =2.3.10 =r45h0557e7b_1
     - r-zoo =1.8_14 =r45h0557e7b_1
-    - rapidfuzz =3.14.1 =py311h2cb90db_0
+    - rapidfuzz =3.14.2 =py311h2cb90db_0
     - readline =8.2 =h8382b9d_2
     - referencing =0.37.0 =pyhcf101f3_0
     - reproc =14.2.5.post0 =h86ecc28_0
@@ -589,7 +589,7 @@ requirements:
     - urllib3 =2.5.0 =pyhd8ed1ab_0
     - wayland =1.24.0 =h4f8a99f_1
     - wcwidth =0.2.14 =pyhd8ed1ab_0
-    - webcolors =24.11.1 =pyhd8ed1ab_0
+    - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - websocket-client =1.9.0 =pyhd8ed1ab_0
     - wheel =0.45.1 =pyhd8ed1ab_1
