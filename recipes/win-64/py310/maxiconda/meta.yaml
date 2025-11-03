@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.7.2 =py310h29418f3_0
     - cython =3.1.6 =py310h23e71ea_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.143.0 =pyha770c72_0
+    - hypothesis =6.144.0 =pyha770c72_0
     - ipython =8.37.0 =pyha7b4d00_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.7 =py310h5588dad_0
@@ -40,7 +40,7 @@ requirements:
     - openpyxl =3.1.5 =py310h5fa2519_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py310hed136d8_1
-    - psutil =7.1.2 =py310h1637853_1
+    - psutil =7.1.3 =py310h1637853_0
     - pydantic =2.12.3 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py310hdf200a9_2
     - pyserial =3.5 =pyhd8ed1ab_1
@@ -187,7 +187,7 @@ requirements:
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
-    - libjpeg-turbo =3.1.0 =h2466b09_0
+    - libjpeg-turbo =3.1.2 =hfd05255_0
     - liblapack =3.9.0 =38_hf9ab0e9_mkl
     - liblzma =5.8.1 =h2466b09_2
     - libnghttp2 =1.67.0 =hac47afa_0
@@ -359,7 +359,7 @@ requirements:
     - r-lava =1.8.2 =r45hc72bb7e_0
     - r-lazyeval =0.2.2 =r45heceb674_6
     - r-lifecycle =1.0.4 =r45hc72bb7e_2
-    - r-listenv =0.9.1 =r45hc72bb7e_2
+    - r-listenv =0.10.0 =r45hc72bb7e_0
     - r-lobstr =1.1.2 =r45hd8a2815_5
     - r-lubridate =1.9.4 =r45heceb674_1
     - r-magrittr =2.0.4 =r45heceb674_0

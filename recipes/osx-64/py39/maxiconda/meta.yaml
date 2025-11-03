@@ -91,7 +91,7 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h950ec3b_0
-    - cctools_osx-64 =1024.3 =llvm21_1_h81d60ea_8
+    - cctools_osx-64 =1024.3 =llvm21_1_h81d60ea_9
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h8ddeee6_0
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
@@ -179,8 +179,8 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lark =1.2.2 =pyhd8ed1ab_1
     - lcms2 =2.17 =h72f5680_0
-    - ld64 =955.13 =h2eed689_8
-    - ld64_osx-64 =955.13 =llvm21_1_h2cc85ee_8
+    - ld64 =955.13 =h2eed689_9
+    - ld64_osx-64 =955.13 =llvm21_1_h2cc85ee_9
     - lerc =4.0.0 =hcca01a6_1
     - libasprintf =0.25.1 =h3184127_1
     - libblas =3.9.0 =38_he492b99_openblas
@@ -210,7 +210,7 @@ requirements:
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
-    - libjpeg-turbo =3.1.0 =h6e16a3a_0
+    - libjpeg-turbo =3.1.2 =h8616949_0
     - liblapack =3.9.0 =38_h859234e_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm18 =18.1.8 =default_hc369343_10
@@ -388,7 +388,7 @@ requirements:
     - r-lava =1.8.2 =r45hc72bb7e_0
     - r-lazyeval =0.2.2 =r45h735ac91_6
     - r-lifecycle =1.0.4 =r45hc72bb7e_2
-    - r-listenv =0.9.1 =r45hc72bb7e_2
+    - r-listenv =0.10.0 =r45hc72bb7e_0
     - r-lobstr =1.1.2 =r45ha730edb_5
     - r-lubridate =1.9.4 =r45h735ac91_1
     - r-magrittr =2.0.4 =r45h735ac91_0
