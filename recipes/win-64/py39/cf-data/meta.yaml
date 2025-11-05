@@ -41,7 +41,7 @@ requirements:
     - seaborn =0.13.2 =hd8ed1ab_3
     - spyder-kernels =3.1.1 =win_pyh7428d3b_0
     - sqlalchemy =2.0.43 =py39h0802e32_0
-    - sqlite =3.50.4 =hdb435a2_0
+    - sqlite =3.51.0 =hdb435a2_0
     - statsmodels =0.14.5 =py39h9e4d2f2_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
 
@@ -59,18 +59,18 @@ requirements:
     - async-timeout =5.0.1 =pyhd8ed1ab_1
     - attrs =25.3.0 =pyh71513ae_0
     - automat =25.4.16 =pyhd8ed1ab_0
-    - aws-c-auth =0.9.1 =h5a8d611_4
-    - aws-c-cal =0.9.5 =ha82e055_1
+    - aws-c-auth =0.9.1 =h179d6b4_5
+    - aws-c-cal =0.9.8 =ha82e055_0
     - aws-c-common =0.12.5 =hfd05255_0
     - aws-c-compression =0.3.1 =h83e01e5_7
     - aws-c-event-stream =0.5.6 =hd31a2bc_4
-    - aws-c-http =0.10.6 =h8afdd0f_1
-    - aws-c-io =0.23.2 =h55c3168_1
-    - aws-c-mqtt =0.13.3 =h7b93d92_7
-    - aws-c-s3 =0.8.6 =hf640d41_6
+    - aws-c-http =0.10.7 =h4b68edd_1
+    - aws-c-io =0.23.2 =h460b297_2
+    - aws-c-mqtt =0.13.3 =hfde8714_8
+    - aws-c-s3 =0.8.6 =haf2eb35_7
     - aws-c-sdkutils =0.2.4 =h83e01e5_2
     - aws-checksums =0.2.7 =h83e01e5_3
-    - aws-crt-cpp =0.35.0 =h73e0584_1
+    - aws-crt-cpp =0.35.0 =hd7c148e_2
     - aws-sdk-cpp =1.11.606 =h2b076a5_5
     - bcrypt =4.3.0 =py39h95bb58a_1
     - blinker =1.9.0 =pyhff2d567_0
@@ -236,7 +236,7 @@ requirements:
     - libprotobuf =6.31.1 =hdcda5b4_2
     - libre2-11 =2025.08.12 =h0eb2380_1
     - libsodium =1.0.20 =hc70643c_0
-    - libsqlite =3.50.4 =hf5d6505_0
+    - libsqlite =3.51.0 =hf5d6505_0
     - libssh2 =1.11.1 =h9aa295b_0
     - libthrift =0.22.0 =h23985f6_1
     - libtiff =4.7.1 =h8f73337_1
