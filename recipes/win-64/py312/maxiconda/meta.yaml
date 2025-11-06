@@ -29,10 +29,10 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.14.2 =pyha770c72_0
     - bitarray =3.7.2 =py312he06e257_0
-    - cython =3.1.6 =py312hd245ac3_0
-    - grayskull =2.9.1 =pyhcf101f3_1
-    - hypothesis =6.145.1 =pyha770c72_0
-    - ipython =9.6.0 =pyh6be1c34_0
+    - cython =3.2.0 =py312hd245ac3_0
+    - grayskull =2.9.2 =pyhcf101f3_0
+    - hypothesis =6.146.0 =pyha770c72_0
+    - ipython =9.7.0 =pyhe2676ad_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.7 =py312h2e8e312_0
     - numba =0.62.1 =py312h9a042f1_0
@@ -41,14 +41,14 @@ requirements:
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py312hc128f0a_1
     - psutil =7.1.3 =py312he5662c2_0
-    - pydantic =2.12.3 =pyh3cfb1c2_0
+    - pydantic =2.12.4 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py312h7eb3e20_2
     - pyserial =3.5 =pyhd8ed1ab_1
-    - pytest =8.4.2 =pyhd8ed1ab_0
+    - pytest =8.4.2 =pyhcf101f3_1
     - pyyaml =6.0.3 =py312h05f76fc_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.0 =pyh9208f05_1
-    - r-base =4.5.2 =h4076d79_0
+    - r-base =4.5.2 =hd292d57_1
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2025.11.3 =py312he06e257_0
     - requests =2.32.5 =pyhd8ed1ab_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 494 secondary packages :
+    # 493 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
@@ -109,7 +109,7 @@ requirements:
     - contourpy =1.3.3 =py312hf90b1b7_2
     - cpp-expected =1.3.1 =h477610d_0
     - cpython =3.12.12 =py312hd8ed1ab_1
-    - curl =8.16.0 =h43ecb02_0
+    - curl =8.17.0 =h43ecb02_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - debugpy =1.8.17 =py312ha1a9051_0
     - decorator =5.2.1 =pyhd8ed1ab_0
@@ -126,7 +126,7 @@ requirements:
     - font-ttf-ubuntu =0.83 =h77eed37_3
     - fontconfig =2.15.0 =h765892d_1
     - fonts-conda-ecosystem =1 =0
-    - fonts-conda-forge =1 =0
+    - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.60.1 =py312h05f76fc_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.14.1 =h57928b3_0
@@ -150,7 +150,7 @@ requirements:
     - gxx_impl_win-64 =15.2.0 =h4517dcd_7
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =12.1.0 =h5f2951f_0
+    - harfbuzz =12.2.0 =h5f2951f_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -190,9 +190,9 @@ requirements:
     - libbrotlidec =1.2.0 =h431afc6_0
     - libbrotlienc =1.2.0 =ha521d6b_0
     - libcblas =3.9.0 =38_h2a3cdd5_mkl
-    - libclang13 =21.1.4 =default_ha2db4b5_0
-    - libcurl =8.16.0 =h43ecb02_0
-    - libdeflate =1.24 =h76ddb4d_0
+    - libclang13 =21.1.5 =default_ha2db4b5_0
+    - libcurl =8.17.0 =h43ecb02_0
+    - libdeflate =1.25 =h51727cc_0
     - libexpat =2.7.1 =hac47afa_0
     - libffi =3.5.2 =h52bdfb6_0
     - libfreetype =2.14.1 =h57928b3_0
@@ -222,7 +222,7 @@ requirements:
     - libssh2 =1.11.1 =h9aa295b_0
     - libstdcxx =15.2.0 =h904f734_7
     - libstdcxx-devel_win-64 =15.2.0 =h40631e7_107
-    - libtiff =4.7.1 =h550210a_0
+    - libtiff =4.7.1 =h8f73337_1
     - libuv =1.51.0 =hfd05255_1
     - libvorbis =1.3.7 =h5112557_2
     - libvulkan-loader =1.4.328.1 =h477610d_0
@@ -233,7 +233,7 @@ requirements:
     - libxml2-16 =2.15.1 =h06f855e_0
     - libxslt =1.1.43 =h0fbe4c1_1
     - libzlib =1.3.1 =h2466b09_2
-    - llvm-openmp =21.1.4 =hfa2b4ca_0
+    - llvm-openmp =21.1.5 =hfa2b4ca_0
     - llvmlite =0.45.1 =py312hdb9728c_0
     - lz4-c =1.10.0 =h2466b09_1
     - lzo =2.10 =h6a83c73_1002
@@ -269,7 +269,6 @@ requirements:
     - pango =1.56.4 =h03d888a_0
     - parso =0.8.5 =pyhcf101f3_0
     - pcre2 =10.46 =h3402e2f_0
-    - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =12.0.0 =py312h036897e_0
     - pip =25.2 =pyh8b19718_0
     - pixman =0.46.4 =h5112557_1
@@ -286,7 +285,7 @@ requirements:
     - pybind11-abi =4 =hd8ed1ab_3
     - pycosat =0.6.6 =py312he06e257_3
     - pycparser =2.22 =pyh29332c3_1
-    - pydantic-core =2.41.4 =py312hdabe01f_0
+    - pydantic-core =2.41.5 =py312hdabe01f_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pygraphviz =1.14 =py312h7f62ece_2
     - pyparsing =3.2.5 =pyhcf101f3_0

@@ -25,7 +25,7 @@ requirements:
     - python =3.10.19 =h28be5d3_2_cpython
 
     # 9 primary packages :
-    - cython =3.1.6 =py310h0d97cfb_0
+    - cython =3.2.0 =py310h0d97cfb_0
     - matplotlib =3.10.7 =py310hbbe02a8_0
     - numpy =2.2.6 =py310h6e5608f_0
     - pandas =2.3.3 =py310hc97b22d_1
@@ -100,7 +100,7 @@ requirements:
     - font-ttf-ubuntu =0.83 =h77eed37_3
     - fontconfig =2.15.0 =h8dda3cd_1
     - fonts-conda-ecosystem =1 =0
-    - fonts-conda-forge =1 =0
+    - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.60.1 =py310h2d8da20_0
     - freetype =2.14.1 =h8af1aa0_0
     - frozenlist =1.7.0 =py310h6b021dd_0
@@ -116,7 +116,7 @@ requirements:
     - gst-plugins-base =1.24.11 =h83ffb7f_0
     - gstreamer =1.24.11 =h17c303d_0
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =12.1.0 =he4899c9_0
+    - harfbuzz =12.2.0 =he4899c9_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =75.1 =hf9b3779_0
@@ -242,7 +242,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =ha32ae93_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - nspr =4.37 =h3ad9384_0
+    - nspr =4.38 =h3ad9384_0
     - nss =3.117 =h544fa81_0
     - numpydoc =1.9.0 =pyhe01879c_1
     - openjpeg =2.5.4 =h5da879a_0

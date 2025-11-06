@@ -101,7 +101,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.3.0 =py39h2b77a98_2
     - cpython =3.9.23 =py39hd8ed1ab_0
-    - curl =8.16.0 =h43ecb02_0
+    - curl =8.17.0 =h43ecb02_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - debugpy =1.8.16 =py39h1f3cc84_0
     - decorator =5.2.1 =pyhd8ed1ab_0
@@ -116,7 +116,7 @@ requirements:
     - font-ttf-ubuntu =0.83 =h77eed37_3
     - fontconfig =2.15.0 =h765892d_1
     - fonts-conda-ecosystem =1 =0
-    - fonts-conda-forge =1 =0
+    - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.59.1 =py39h5769e4c_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.14.1 =h57928b3_0
@@ -173,8 +173,8 @@ requirements:
     - libbrotlidec =1.2.0 =h431afc6_0
     - libbrotlienc =1.2.0 =ha521d6b_0
     - libcblas =3.9.0 =38_h2a3cdd5_mkl
-    - libclang13 =21.1.4 =default_ha2db4b5_0
-    - libcurl =8.16.0 =h43ecb02_0
+    - libclang13 =21.1.5 =default_ha2db4b5_0
+    - libcurl =8.17.0 =h43ecb02_0
     - libdeflate =1.24 =h76ddb4d_0
     - libexpat =2.7.1 =hac47afa_0
     - libffi =3.4.6 =h537db12_1
@@ -210,7 +210,7 @@ requirements:
     - libxml2 =2.13.9 =h741aa76_0
     - libxslt =1.1.43 =h25c3957_0
     - libzlib =1.3.1 =h2466b09_2
-    - llvm-openmp =21.1.4 =hfa2b4ca_0
+    - llvm-openmp =21.1.5 =hfa2b4ca_0
     - llvmlite =0.43.0 =py39he94c479_1
     - m2-conda-epoch =20250515 =0_x86_64
     - m2w64-sysroot_win-64 =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10

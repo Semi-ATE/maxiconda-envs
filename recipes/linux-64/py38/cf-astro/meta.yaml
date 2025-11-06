@@ -51,7 +51,7 @@ requirements:
     - font-ttf-ubuntu =0.83 =h77eed37_3
     - fontconfig =2.15.0 =h7e30c49_1
     - fonts-conda-ecosystem =1 =0
-    - fonts-conda-forge =1 =0
+    - fonts-conda-forge =1 =hc364b38_1
     - freetype =2.14.1 =ha770c72_0
     - gettext =0.25.1 =h3f43e3d_1
     - gettext-tools =0.25.1 =h3f43e3d_1
@@ -60,7 +60,7 @@ requirements:
     - graphite2 =1.3.14 =hecca717_2
     - gst-plugins-base =1.24.11 =h651a532_0
     - gstreamer =1.24.11 =hc37bda9_0
-    - harfbuzz =12.1.0 =h15599e2_0
+    - harfbuzz =12.2.0 =h15599e2_0
     - icu =75.1 =he02047a_0
     - importlib-metadata =8.5.0 =pyha770c72_0
     - ipykernel =6.29.5 =pyh3099207_0
@@ -75,8 +75,8 @@ requirements:
     - libasprintf =0.25.1 =h3f43e3d_1
     - libasprintf-devel =0.25.1 =h3f43e3d_1
     - libcap =2.76 =h0b2e76d_0
-    - libclang-cpp21.1 =21.1.4 =default_h99862b1_0
-    - libclang13 =21.1.4 =default_h746c552_0
+    - libclang-cpp21.1 =21.1.5 =default_h99862b1_0
+    - libclang13 =21.1.5 =default_h746c552_0
     - libcups =2.3.3 =hb8b1518_5
     - libdrm =2.4.125 =hb03c661_1
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -120,7 +120,7 @@ requirements:
     - libvorbis =1.3.7 =h54a6638_2
     - libxcb =1.17.0 =h8a09558_0
     - libxcrypt =4.4.36 =hd590300_1
-    - libxkbcommon =1.12.3 =hca5e8e5_0
+    - libxkbcommon =1.13.0 =hca5e8e5_0
     - libxml2 =2.15.1 =h26afc86_0
     - libxml2-16 =2.15.1 =ha9997c6_0
     - libzlib =1.3.1 =hb9d3cd8_2
@@ -129,7 +129,7 @@ requirements:
     - mpg123 =1.32.9 =hc50e24c_0
     - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
-    - nspr =4.37 =h29cc59b_0
+    - nspr =4.38 =h29cc59b_0
     - nss =3.117 =h445c969_0
     - openldap =2.6.10 =he970967_0
     - openssl =3.5.4 =h26f9b46_0

@@ -59,9 +59,9 @@ requirements:
     - binaryornot =0.4.4 =py_1
     - black =24.8.0 =py38he3eb160_0
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.2.0 =hec30622_0
-    - brotli-bin =1.2.0 =hf3d421d_0
-    - brotli-python =1.0.9 =py38h5f8a8d0_8
+    - brotli =1.1.0 =h31becfc_1
+    - brotli-bin =1.1.0 =h31becfc_1
+    - brotli-python =1.1.0 =py38hb83fbf6_1
     - bzip2 =1.0.8 =h4777abc_8
     - ca-certificates =2025.10.5 =hbd8a1cb_0
     - cairo =1.18.4 =h83712da_0
@@ -98,7 +98,7 @@ requirements:
     - font-ttf-ubuntu =0.83 =h77eed37_3
     - fontconfig =2.15.0 =h8dda3cd_1
     - fonts-conda-ecosystem =1 =0
-    - fonts-conda-forge =1 =0
+    - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.53.1 =py38ha5227f9_0
     - freetype =2.14.1 =h8af1aa0_0
     - frozenlist =1.4.1 =py38h9579f32_0
@@ -114,7 +114,7 @@ requirements:
     - gst-plugins-base =1.24.11 =h83ffb7f_0
     - gstreamer =1.24.11 =h17c303d_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =12.1.0 =he4899c9_0
+    - harfbuzz =12.2.0 =he4899c9_0
     - hpack =4.0.0 =pyh9f0ad1d_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =75.1 =hf9b3779_0
@@ -152,9 +152,9 @@ requirements:
     - libasprintf =0.25.1 =h5e0f5ae_0
     - libasprintf-devel =0.25.1 =h5e0f5ae_0
     - libblas =3.9.0 =20_linuxaarch64_openblas
-    - libbrotlicommon =1.2.0 =hd4db518_0
-    - libbrotlidec =1.2.0 =hb159aeb_0
-    - libbrotlienc =1.2.0 =ha5a240b_0
+    - libbrotlicommon =1.1.0 =h31becfc_1
+    - libbrotlidec =1.1.0 =h31becfc_1
+    - libbrotlienc =1.1.0 =h31becfc_1
     - libcap =2.76 =h5706e9e_0
     - libcblas =3.9.0 =20_linuxaarch64_openblas
     - libclang-cpp20.1 =20.1.8 =default_he95a3c9_4
@@ -239,7 +239,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_0
     - ncurses =6.5 =ha32ae93_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
-    - nspr =4.37 =h3ad9384_0
+    - nspr =4.38 =h3ad9384_0
     - nss =3.117 =h544fa81_0
     - numpydoc =1.7.0 =pyhd8ed1ab_3
     - openjpeg =2.5.4 =h5da879a_0

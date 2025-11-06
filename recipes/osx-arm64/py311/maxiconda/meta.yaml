@@ -28,10 +28,10 @@ requirements:
     - aiohttp =3.13.2 =py311hee9e2a2_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.14.2 =pyha770c72_0
-    - cython =3.1.6 =py311hac7d6c3_0
-    - grayskull =2.9.1 =pyhcf101f3_1
-    - hypothesis =6.145.1 =pyha770c72_0
-    - ipython =9.6.0 =pyhfa0c392_0
+    - cython =3.2.0 =py311hac7d6c3_0
+    - grayskull =2.9.2 =pyhcf101f3_0
+    - hypothesis =6.146.0 =pyha770c72_0
+    - ipython =9.7.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.7 =py311ha1ab1f8_0
     - numba =0.62.1 =py311h922685c_0
@@ -40,14 +40,14 @@ requirements:
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py311hdb8e4fa_1
     - psutil =7.1.3 =py311h5bb9006_0
-    - pydantic =2.12.3 =pyh3cfb1c2_0
+    - pydantic =2.12.4 =pyh3cfb1c2_0
     - pyqt =5.15.11 =py311ha87f45f_2
     - pyserial =3.5 =pyhd8ed1ab_1
-    - pytest =8.4.2 =pyhd8ed1ab_0
+    - pytest =8.4.2 =pyhcf101f3_1
     - pyyaml =6.0.3 =py311ha9b3269_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.0 =pyh9208f05_1
-    - r-base =4.5.2 =hb7b3c91_0
+    - r-base =4.5.2 =h04a9237_1
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2025.11.3 =py311h9408147_0
     - requests =2.32.5 =pyhd8ed1ab_0
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 513 secondary packages :
+    # 512 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - adwaita-icon-theme =49.0 =unix_0
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -97,20 +97,20 @@ requirements:
     - certifi =2025.10.5 =pyhd8ed1ab_0
     - cffi =2.0.0 =py311hd10dc20_1
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
-    - clang =21.1.4 =default_hf9bcbb7_0
-    - clang-21 =21.1.4 =default_h489deba_0
-    - clang_impl_osx-arm64 =21.1.4 =h721c3f7_25
-    - clang_osx-arm64 =21.1.4 =h07b0088_25
-    - clangxx =21.1.4 =default_h36137df_0
-    - clangxx_impl_osx-arm64 =21.1.4 =hde34478_25
-    - clangxx_osx-arm64 =21.1.4 =h07b0088_25
+    - clang =21.1.5 =default_hf9bcbb7_0
+    - clang-21 =21.1.5 =default_h489deba_0
+    - clang_impl_osx-arm64 =21.1.5 =h088ae74_25
+    - clang_osx-arm64 =21.1.5 =h07b0088_25
+    - clangxx =21.1.5 =default_h36137df_0
+    - clangxx_impl_osx-arm64 =21.1.5 =h25e7f35_25
+    - clangxx_osx-arm64 =21.1.5 =h07b0088_25
     - click =8.3.0 =pyh707e725_0
     - cloudpickle =3.1.2 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - compiler-rt =21.1.4 =hce30654_0
-    - compiler-rt21 =21.1.4 =h855ad52_0
-    - compiler-rt21_osx-arm64 =21.1.4 =h2514db7_0
+    - compiler-rt =21.1.5 =hce30654_0
+    - compiler-rt21 =21.1.5 =h855ad52_0
+    - compiler-rt21_osx-arm64 =21.1.5 =h2514db7_0
     - conda =25.9.1 =py311h267d04e_0
     - conda-libmamba-solver =25.4.0 =pyhd8ed1ab_0
     - conda-package-handling =2.4.0 =pyh7900ff3_2
@@ -120,7 +120,7 @@ requirements:
     - contourpy =1.3.3 =py311h57a9ea7_2
     - cpp-expected =1.3.1 =h4f10f1e_0
     - cpython =3.11.14 =py311hd8ed1ab_2
-    - curl =8.16.0 =hdece5d2_0
+    - curl =8.17.0 =hdece5d2_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =ha1cbb27_0
     - debugpy =1.8.17 =py311hc58e375_0
@@ -138,7 +138,7 @@ requirements:
     - font-ttf-ubuntu =0.83 =h77eed37_3
     - fontconfig =2.15.0 =h1383a14_1
     - fonts-conda-ecosystem =1 =0
-    - fonts-conda-forge =1 =0
+    - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.60.1 =py311ha9b3269_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.14.1 =hce30654_0
@@ -164,7 +164,7 @@ requirements:
     - gts =0.7.6 =he42f4ea_4
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =12.1.0 =haf38c7b_0
+    - harfbuzz =12.2.0 =haf38c7b_0
     - hicolor-icon-theme =0.17 =hce30654_2
     - hpack =4.1.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
@@ -209,13 +209,13 @@ requirements:
     - libbrotlienc =1.2.0 =hb1b9735_0
     - libcblas =3.9.0 =38_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_h73dfc95_15
-    - libclang-cpp21.1 =21.1.4 =default_h73dfc95_0
-    - libclang13 =21.1.4 =default_h6e8f826_0
-    - libcurl =8.16.0 =hdece5d2_0
+    - libclang-cpp21.1 =21.1.5 =default_h73dfc95_0
+    - libclang13 =21.1.5 =default_h6e8f826_0
+    - libcurl =8.17.0 =hdece5d2_0
     - libcxx =21.1.5 =hf598326_0
     - libcxx-devel =21.1.5 =h6dc3340_0
     - libcxx-headers =21.1.5 =h707e725_0
-    - libdeflate =1.24 =h5773f1b_0
+    - libdeflate =1.25 =hc11a715_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libev =4.33 =h93a5062_2
     - libexpat =2.7.1 =hec049ff_0
@@ -234,7 +234,7 @@ requirements:
     - libjpeg-turbo =3.1.2 =hc919400_0
     - liblapack =3.9.0 =38_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h3f38c9c_10
-    - libllvm21 =21.1.4 =h8e0c9ce_0
+    - libllvm21 =21.1.5 =h8e0c9ce_0
     - liblzma =5.8.1 =h39f12f2_2
     - libmamba =2.3.3 =h1370271_2
     - libmambapy =2.3.3 =py311h72cf7df_2
@@ -250,7 +250,7 @@ requirements:
     - libsolv =0.7.35 =h5f525b2_0
     - libsqlite =3.51.0 =h8adb53f_0
     - libssh2 =1.11.1 =h1590b86_0
-    - libtiff =4.7.1 =h7dc4979_0
+    - libtiff =4.7.1 =h4030677_1
     - libuv =1.51.0 =h6caf38d_1
     - libvorbis =1.3.7 =h81086ad_2
     - libwebp-base =1.6.0 =h07db88b_0
@@ -258,9 +258,9 @@ requirements:
     - libxml2 =2.15.1 =h9329255_0
     - libxml2-16 =2.15.1 =h0ff4647_0
     - libzlib =1.3.1 =h8359307_2
-    - llvm-openmp =21.1.4 =h4a912ad_0
-    - llvm-tools =21.1.4 =h855ad52_0
-    - llvm-tools-21 =21.1.4 =h91fd4e7_0
+    - llvm-openmp =21.1.5 =h4a912ad_0
+    - llvm-tools =21.1.5 =h855ad52_0
+    - llvm-tools-21 =21.1.5 =h91fd4e7_0
     - llvmlite =0.45.1 =py311h27de090_0
     - lz4-c =1.10.0 =h286801f_1
     - lzo =2.10 =h925e9cb_1002
@@ -284,7 +284,7 @@ requirements:
     - nlohmann_json-abi =3.12.0 =h0f90c79_1
     - notebook =7.4.7 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
-    - nspr =4.37 =h31e89c2_0
+    - nspr =4.38 =heaf21c2_0
     - nss =3.117 =h1c710a3_0
     - openjpeg =2.5.4 =hbfb3c88_0
     - openldap =2.6.10 =hbe55e7a_0
@@ -297,7 +297,6 @@ requirements:
     - parso =0.8.5 =pyhcf101f3_0
     - pcre2 =10.46 =h7125dd6_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
-    - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =12.0.0 =py311h890502c_0
     - pip =25.2 =pyh8b19718_0
     - pixman =0.46.4 =h81086ad_1
@@ -315,7 +314,7 @@ requirements:
     - pybind11-abi =11 =hc364b38_1
     - pycosat =0.6.6 =py311h3696347_3
     - pycparser =2.22 =pyh29332c3_1
-    - pydantic-core =2.41.4 =py311h71babbd_0
+    - pydantic-core =2.41.5 =py311h71babbd_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pygraphviz =1.14 =py311hcada031_2
     - pyobjc-core =12.0 =py311hce6e4fa_1

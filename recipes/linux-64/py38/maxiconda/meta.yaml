@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0.2 =py38h2019614_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qtawesome =1.3.1 =pyh9208f05_0
-    - r-base =4.5.2 =h14df4e6_0
+    - r-base =4.5.2 =hc038350_1
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2024.7.24 =py38h2019614_0
     - requests =2.32.3 =pyhd8ed1ab_0
@@ -107,7 +107,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h7f3f72f_1
     - cpython =3.8.20 =py38hd8ed1ab_2
-    - curl =8.16.0 =h4e3cde8_0
+    - curl =8.17.0 =h4e3cde8_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cyrus-sasl =2.1.28 =hd9c7081_0
     - dbus =1.16.2 =h3c4dab8_0
@@ -124,7 +124,7 @@ requirements:
     - font-ttf-ubuntu =0.83 =h77eed37_3
     - fontconfig =2.15.0 =h7e30c49_1
     - fonts-conda-ecosystem =1 =0
-    - fonts-conda-forge =1 =0
+    - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.53.1 =py38h2019614_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.14.1 =ha770c72_0
@@ -146,7 +146,7 @@ requirements:
     - gxx_impl_linux-64 =15.2.0 =h54ccb8d_7
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =12.1.0 =h15599e2_0
+    - harfbuzz =12.2.0 =h15599e2_0
     - hpack =4.0.0 =pyh9f0ad1d_0
     - httpcore =1.0.7 =pyh29332c3_1
     - httpx =0.27.2 =pyhd8ed1ab_0
@@ -191,11 +191,11 @@ requirements:
     - libbrotlienc =1.2.0 =h02bd7ab_0
     - libcap =2.76 =h0b2e76d_0
     - libcblas =3.9.0 =20_linux64_openblas
-    - libclang-cpp21.1 =21.1.4 =default_h99862b1_0
-    - libclang13 =21.1.4 =default_h746c552_0
+    - libclang-cpp21.1 =21.1.5 =default_h99862b1_0
+    - libclang13 =21.1.5 =default_h746c552_0
     - libcups =2.3.3 =hb8b1518_5
-    - libcurl =8.16.0 =h4e3cde8_0
-    - libdeflate =1.24 =h86f0d12_0
+    - libcurl =8.17.0 =h4e3cde8_0
+    - libdeflate =1.25 =h17f619e_0
     - libdrm =2.4.125 =hb03c661_1
     - libedit =3.1.20250104 =pl5321h7949ede_0
     - libegl =1.7.0 =ha4b6fd6_2
@@ -246,14 +246,14 @@ requirements:
     - libstdcxx-devel_linux-64 =15.2.0 =h73f6952_107
     - libstdcxx-ng =15.2.0 =h4852527_7
     - libsystemd0 =257.9 =h996ca69_0
-    - libtiff =4.7.1 =h8261f1e_0
+    - libtiff =4.7.1 =h9d88235_1
     - libuuid =2.41.2 =he9a06e4_0
     - libuv =1.51.0 =hb03c661_1
     - libvorbis =1.3.7 =h54a6638_2
     - libwebp-base =1.6.0 =hd42ef1d_0
     - libxcb =1.17.0 =h8a09558_0
     - libxcrypt =4.4.36 =hd590300_1
-    - libxkbcommon =1.12.3 =hca5e8e5_0
+    - libxkbcommon =1.13.0 =hca5e8e5_0
     - libxml2 =2.15.1 =h26afc86_0
     - libxml2-16 =2.15.1 =ha9997c6_0
     - libzlib =1.3.1 =hb9d3cd8_2
@@ -277,7 +277,7 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - notebook =7.2.2 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_0
-    - nspr =4.37 =h29cc59b_0
+    - nspr =4.38 =h29cc59b_0
     - nss =3.117 =h445c969_0
     - openjpeg =2.5.4 =h55fea9a_0
     - openldap =2.6.10 =he970967_0

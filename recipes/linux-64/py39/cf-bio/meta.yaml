@@ -74,7 +74,7 @@ requirements:
     - font-ttf-ubuntu =0.83 =h77eed37_3
     - fontconfig =2.15.0 =h7e30c49_1
     - fonts-conda-ecosystem =1 =0
-    - fonts-conda-forge =1 =0
+    - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.59.1 =py39heb7d2ae_0
     - freetype =2.14.1 =ha770c72_0
     - freetype-py =2.3.0 =pyhd8ed1ab_0
@@ -125,7 +125,7 @@ requirements:
     - libclang-cpp20.1 =20.1.8 =default_h99862b1_4
     - libclang13 =21.1.0 =default_h746c552_1
     - libcups =2.3.3 =hb8b1518_5
-    - libcurl =8.16.0 =h4e3cde8_0
+    - libcurl =8.17.0 =h4e3cde8_0
     - libdeflate =1.25 =h17f619e_0
     - libdrm =2.4.125 =hb03c661_1
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -203,7 +203,7 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - netcdf4 =1.7.2 =nompi_py39h295be61_102
     - networkx =3.2.1 =pyhd8ed1ab_0
-    - nspr =4.37 =h29cc59b_0
+    - nspr =4.38 =h29cc59b_0
     - nss =3.117 =h445c969_0
     - openjpeg =2.5.4 =h55fea9a_0
     - openldap =2.6.10 =he970967_0
