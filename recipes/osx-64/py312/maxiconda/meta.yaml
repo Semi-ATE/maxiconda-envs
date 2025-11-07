@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.7.2 =py312h80b0991_0
     - cython =3.2.0 =py312h33b39b6_0
     - grayskull =2.9.2 =pyhcf101f3_0
-    - hypothesis =6.146.0 =pyha770c72_0
+    - hypothesis =6.147.0 =pyha770c72_0
     - ipython =9.7.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.7 =py312hb401068_0
@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2025.11.3 =py312h80b0991_0
     - requests =2.32.5 =pyhd8ed1ab_0
-    - rust =1.90.0 =h34a2095_0
+    - rust =1.91.0 =h34a2095_0
     - scipy =1.16.3 =py312he2acf2f_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.1 =unix_pyh707e725_0
@@ -319,7 +319,7 @@ requirements:
     - pydantic-core =2.41.5 =py312h8a6388b_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pygraphviz =1.14 =py312h8a3153c_2
-    - pyobjc-core =12.0 =py312h4a480f0_1
+    - pyobjc-core =12.0 =py312h4a480f0_2
     - pyobjc-framework-cocoa =12.0 =py312h1993040_1
     - pyparsing =3.2.5 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py312hbaf6d96_2
@@ -450,8 +450,8 @@ requirements:
     - r-processx =3.8.6 =r45h735ac91_1
     - r-prodlim =2025.04.28 =r45ha730edb_1
     - r-progress =1.2.3 =r45hc72bb7e_2
-    - r-progressr =0.17.0 =r45hc72bb7e_0
-    - r-promises =1.5.0 =r45ha730edb_0
+    - r-progressr =0.18.0 =r45hc72bb7e_0
+    - r-promises =1.5.0 =r45hc72bb7e_1
     - r-proxy =0.4_27 =r45h735ac91_4
     - r-pryr =0.1.6 =r45ha730edb_3
     - r-ps =1.9.1 =r45h735ac91_1
@@ -530,7 +530,7 @@ requirements:
     - ruamel.yaml =0.18.16 =py312h80b0991_0
     - ruamel.yaml.clib =0.2.14 =py312h80b0991_0
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-x86_64-apple-darwin =1.90.0 =h38e4360_0
+    - rust-std-x86_64-apple-darwin =1.91.0 =h38e4360_0
     - send2trash =1.8.3 =pyh31c8845_1
     - setuptools =80.9.0 =pyhff2d567_0
     - sigtool =0.1.3 =h88f4db0_0

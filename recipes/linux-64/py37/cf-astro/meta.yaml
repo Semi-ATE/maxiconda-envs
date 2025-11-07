@@ -28,7 +28,7 @@ requirements:
     - pyqt =5.15.7 =py37hf30b843_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
-    # 156 secondary packages :
+    # 153 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - alsa-lib =1.2.14 =hb9d3cd8_0
@@ -74,8 +74,8 @@ requirements:
     - libasprintf =0.25.1 =h3f43e3d_1
     - libasprintf-devel =0.25.1 =h3f43e3d_1
     - libcap =2.76 =h0b2e76d_0
-    - libclang-cpp21.1 =21.1.5 =default_h99862b1_0
-    - libclang13 =21.1.5 =default_h746c552_0
+    - libclang-cpp21.1 =21.1.5 =default_h99862b1_1
+    - libclang13 =21.1.5 =default_h746c552_1
     - libcups =2.3.3 =hb8b1518_5
     - libdrm =2.4.125 =hb03c661_1
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -88,7 +88,6 @@ requirements:
     - libfreetype6 =2.14.1 =h73754d4_0
     - libgcc =15.2.0 =h767d61c_7
     - libgcc-ng =15.2.0 =h69a702a_7
-    - libgcrypt-lib =1.11.1 =hb9d3cd8_0
     - libgettextpo =0.25.1 =h3f43e3d_1
     - libgettextpo-devel =0.25.1 =h3f43e3d_1
     - libgl =1.7.0 =ha4b6fd6_2
@@ -96,7 +95,6 @@ requirements:
     - libglvnd =1.7.0 =ha4b6fd6_2
     - libglx =1.7.0 =ha4b6fd6_2
     - libgomp =15.2.0 =h767d61c_7
-    - libgpg-error =1.55 =h3f2d84a_0
     - libiconv =1.18 =h3b78370_2
     - libjpeg-turbo =3.1.2 =hb03c661_0
     - libllvm21 =21.1.5 =hf7376ad_0
@@ -114,7 +112,7 @@ requirements:
     - libsqlite =3.51.0 =hee844dc_0
     - libstdcxx =15.2.0 =h8f9b012_7
     - libstdcxx-ng =15.2.0 =h4852527_7
-    - libsystemd0 =257.9 =h996ca69_0
+    - libsystemd0 =258.1 =h07e904d_1
     - libuuid =2.41.2 =he9a06e4_0
     - libvorbis =1.3.7 =h54a6638_2
     - libxcb =1.17.0 =h8a09558_0
@@ -123,7 +121,6 @@ requirements:
     - libxml2 =2.15.1 =h26afc86_0
     - libxml2-16 =2.15.1 =ha9997c6_0
     - libzlib =1.3.1 =hb9d3cd8_2
-    - lz4-c =1.10.0 =h5888daf_1
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mpg123 =1.32.9 =hc50e24c_0
     - ncurses =6.5 =h2d0b736_3

@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.7.2 =py311h3485c13_0
     - cython =3.2.0 =py311h9990397_0
     - grayskull =2.9.2 =pyhcf101f3_0
-    - hypothesis =6.146.0 =pyha770c72_0
+    - hypothesis =6.147.0 =pyha770c72_0
     - ipython =9.7.0 =pyhe2676ad_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.7 =py311h1ea47a8_0
@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2025.11.3 =py311h3485c13_0
     - requests =2.32.5 =pyhd8ed1ab_0
-    - rust =1.90.0 =hf8d6059_0
+    - rust =1.91.0 =hf8d6059_0
     - scipy =1.16.3 =py311h9a1c30b_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.1 =win_pyh7428d3b_0
@@ -417,8 +417,8 @@ requirements:
     - r-processx =3.8.6 =r45heceb674_1
     - r-prodlim =2025.04.28 =r45hd8a2815_1
     - r-progress =1.2.3 =r45hc72bb7e_2
-    - r-progressr =0.17.0 =r45hc72bb7e_0
-    - r-promises =1.5.0 =r45hd8a2815_0
+    - r-progressr =0.18.0 =r45hc72bb7e_0
+    - r-promises =1.5.0 =r45hc72bb7e_1
     - r-proxy =0.4_27 =r45heceb674_4
     - r-pryr =0.1.6 =r45hd8a2815_3
     - r-ps =1.9.1 =r45heceb674_1
@@ -496,7 +496,7 @@ requirements:
     - ruamel.yaml =0.18.16 =py311h3485c13_0
     - ruamel.yaml.clib =0.2.14 =py311h3485c13_0
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-x86_64-pc-windows-msvc =1.90.0 =h17fc481_0
+    - rust-std-x86_64-pc-windows-msvc =1.91.0 =h17fc481_0
     - send2trash =1.8.3 =pyh5737063_1
     - setuptools =80.9.0 =pyhff2d567_0
     - simdjson =4.0.7 =h49e36cd_0

@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.7.2 =py311h19352d5_0
     - cython =3.2.0 =py311hdc11669_0
     - grayskull =2.9.2 =pyhcf101f3_0
-    - hypothesis =6.146.0 =pyha770c72_0
+    - hypothesis =6.147.0 =pyha770c72_0
     - ipython =9.7.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.7 =py311hfecb2dc_0
@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2025.11.3 =py311h19352d5_0
     - requests =2.32.5 =pyhd8ed1ab_0
-    - rust =1.90.0 =h6cf38e9_0
+    - rust =1.91.0 =h6cf38e9_0
     - scipy =1.16.3 =py311h33b5a33_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.1 =unix_pyh707e725_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 562 secondary packages :
+    # 560 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - adwaita-icon-theme =49.0 =unix_0
@@ -211,8 +211,8 @@ requirements:
     - libbrotlienc =1.2.0 =ha5a240b_0
     - libcap =2.76 =h5706e9e_0
     - libcblas =3.9.0 =38_hd72aa62_openblas
-    - libclang-cpp21.1 =21.1.5 =default_he95a3c9_0
-    - libclang13 =21.1.5 =default_h94a09a5_0
+    - libclang-cpp21.1 =21.1.5 =default_he95a3c9_1
+    - libclang13 =21.1.5 =default_h94a09a5_1
     - libcups =2.3.3 =h5cdc715_5
     - libcurl =8.17.0 =h7bfdcfb_0
     - libdeflate =1.25 =h1af38f5_0
@@ -230,7 +230,6 @@ requirements:
     - libgcc =15.2.0 =he277a41_7
     - libgcc-devel_linux-aarch64 =15.2.0 =h1ed5458_107
     - libgcc-ng =15.2.0 =he9431aa_7
-    - libgcrypt-lib =1.11.1 =h86ecc28_0
     - libgd =2.3.3 =hc8d7b1d_11
     - libgettextpo =0.25.1 =h5ad3122_0
     - libgettextpo-devel =0.25.1 =h5ad3122_0
@@ -244,7 +243,6 @@ requirements:
     - libglx =1.7.0 =hd24410f_2
     - libglx-devel =1.7.0 =hd24410f_2
     - libgomp =15.2.0 =he277a41_7
-    - libgpg-error =1.55 =h5ad3122_0
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.2 =he30d5cf_0
     - liblapack =3.9.0 =38_h88aeb00_openblas
@@ -272,7 +270,7 @@ requirements:
     - libstdcxx =15.2.0 =h3f4de04_7
     - libstdcxx-devel_linux-aarch64 =15.2.0 =h1ed5458_107
     - libstdcxx-ng =15.2.0 =hf1166c9_7
-    - libsystemd0 =257.9 =hd926fa8_0
+    - libsystemd0 =258.1 =h70fd917_1
     - libtiff =4.7.1 =hdb009f0_1
     - libuuid =2.41.2 =h3e4203c_0
     - libuv =1.51.0 =he30d5cf_1
@@ -474,8 +472,8 @@ requirements:
     - r-processx =3.8.6 =r45h0557e7b_1
     - r-prodlim =2025.04.28 =r45h08b74da_1
     - r-progress =1.2.3 =r45hc72bb7e_2
-    - r-progressr =0.17.0 =r45hc72bb7e_0
-    - r-promises =1.5.0 =r45h08b74da_0
+    - r-progressr =0.18.0 =r45hc72bb7e_0
+    - r-promises =1.5.0 =r45hc72bb7e_1
     - r-proxy =0.4_27 =r45h0557e7b_4
     - r-pryr =0.1.6 =r45h08b74da_3
     - r-ps =1.9.1 =r45h0557e7b_1
@@ -554,7 +552,7 @@ requirements:
     - ruamel.yaml =0.18.16 =py311h19352d5_0
     - ruamel.yaml.clib =0.2.14 =py311h19352d5_0
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-aarch64-unknown-linux-gnu =1.90.0 =hbe8e118_0
+    - rust-std-aarch64-unknown-linux-gnu =1.91.0 =hbe8e118_0
     - sed =4.9 =hd4cd8d4_0
     - send2trash =1.8.3 =pyh0d859eb_1
     - setuptools =80.9.0 =pyhff2d567_0
