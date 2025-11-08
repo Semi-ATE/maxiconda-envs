@@ -53,7 +53,7 @@ requirements:
     - babel =2.17.0 =pyhd8ed1ab_0
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhd8ed1ab_1
-    - bcrypt =5.0.0 =py312h6ef9ec0_0
+    - bcrypt =5.0.0 =py312h6ef9ec0_1
     - beautifulsoup4 =4.14.2 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =25.1.0 =pyh866005b_0
@@ -73,7 +73,7 @@ requirements:
     - cloudpickle =3.1.2 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - contourpy =1.3.3 =py312ha0dd364_2
+    - contourpy =1.3.3 =py312h84eede6_3
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
     - cpython =3.12.12 =py312hd8ed1ab_1
     - cryptography =46.0.3 =py312h05a80bc_0
@@ -127,7 +127,7 @@ requirements:
     - jupyter_core =5.9.1 =pyhc90fa1f_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - keyring =25.6.0 =pyh534df25_0
-    - kiwisolver =1.4.9 =py312hdc12c9d_1
+    - kiwisolver =1.4.9 =py312hd8c8125_2
     - krb5 =1.21.3 =h237132a_0
     - lcms2 =2.17 =h7eeda09_0
     - lerc =4.0.0 =hd64df32_1
@@ -234,7 +234,7 @@ requirements:
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.6.0 =py312h4409184_0
     - pyobjc-core =12.0 =py312h19bbe71_2
-    - pyobjc-framework-cocoa =12.0 =py312h1de3e18_1
+    - pyobjc-framework-cocoa =12.0 =py312h1de3e18_2
     - pyobjc-framework-coreservices =12.0 =py312h4409184_0
     - pyobjc-framework-fsevents =12.0 =py312h81bd7bf_0
     - pyopenssl =25.3.0 =pyhd8ed1ab_0
@@ -277,9 +277,9 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.28.0 =py312h6ef9ec0_1
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.14.3 =h382de68_1
+    - ruff =0.14.4 =h382de68_0
     - setuptools =80.9.0 =pyhff2d567_0
-    - sip =6.14.0 =py312h455b684_0
+    - sip =6.14.0 =py312h455b684_1
     - six =1.17.0 =pyhe01879c_1
     - snowballstemmer =3.0.1 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
@@ -303,7 +303,7 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_1
     - tomli =2.3.0 =pyhcf101f3_0
     - tomlkit =0.13.3 =pyha770c72_0
-    - tornado =6.5.2 =py312h163523d_1
+    - tornado =6.5.2 =py312h4409184_2
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - typing-extensions =4.15.0 =h396c80c_0
     - typing_extensions =4.15.0 =pyhcf101f3_0
@@ -326,7 +326,7 @@ requirements:
     - zeromq =4.3.5 =h888dc83_9
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zlib-ng =2.2.5 =h3470cca_0
-    - zstandard =0.25.0 =py312h37e1c23_0
+    - zstandard =0.25.0 =py312h37e1c23_1
     - zstd =1.5.7 =h6491c7d_2
 
 about:

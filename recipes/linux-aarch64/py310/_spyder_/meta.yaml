@@ -54,7 +54,7 @@ requirements:
     - babel =2.17.0 =pyhd8ed1ab_0
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhd8ed1ab_1
-    - bcrypt =5.0.0 =py310h598bb90_0
+    - bcrypt =5.0.0 =py310h598bb90_1
     - beautifulsoup4 =4.14.2 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =25.1.0 =pyha5154f8_0
@@ -144,7 +144,7 @@ requirements:
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - keyring =25.6.0 =pyha804496_0
     - keyutils =1.6.3 =h86ecc28_0
-    - kiwisolver =1.4.9 =py310h65c7496_1
+    - kiwisolver =1.4.9 =py310h65c7496_2
     - krb5 =1.21.3 =h50a48e9_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.17 =hc88f144_0
@@ -204,7 +204,7 @@ requirements:
     - libsqlite =3.51.0 =h022381a_0
     - libstdcxx =15.2.0 =h3f4de04_7
     - libstdcxx-ng =15.2.0 =hf1166c9_7
-    - libsystemd0 =258.1 =h70fd917_1
+    - libsystemd0 =258.2 =h70fd917_0
     - libtiff =4.7.1 =hdb009f0_1
     - libuuid =2.41.2 =h3e4203c_0
     - libvorbis =1.3.7 =h7ac5ae9_2
@@ -317,10 +317,10 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.28.0 =py310haddc216_1
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.14.3 =h9564552_1
+    - ruff =0.14.4 =h9564552_0
     - secretstorage =3.4.0 =py310hbbe02a8_0
     - setuptools =80.9.0 =pyhff2d567_0
-    - sip =6.14.0 =py310hbe5e9e6_0
+    - sip =6.14.0 =py310hbe5e9e6_1
     - six =1.17.0 =pyhe01879c_1
     - snowballstemmer =3.0.1 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
@@ -344,7 +344,7 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_1
     - tomli =2.3.0 =pyhcf101f3_0
     - tomlkit =0.13.3 =pyha770c72_0
-    - tornado =6.5.2 =py310ha7967c6_1
+    - tornado =6.5.2 =py310ha7967c6_2
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - typing-extensions =4.15.0 =h396c80c_0
     - typing_extensions =4.15.0 =pyhcf101f3_0
@@ -389,7 +389,7 @@ requirements:
     - zeromq =4.3.5 =hefbcea8_9
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zlib-ng =2.2.5 =h92288e7_0
-    - zstandard =0.25.0 =py310hef25091_0
+    - zstandard =0.25.0 =py310hef25091_1
     - zstd =1.5.7 =hbcf94c1_2
 
 about:

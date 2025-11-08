@@ -50,7 +50,7 @@ requirements:
     - qtawesome =1.4.0 =pyh9208f05_1
     - r-base =4.5.2 =hc038350_1
     - r-essentials =4.5 =r45hd8ed1ab_2006
-    - regex =2025.11.3 =py312h4c3975b_0
+    - regex =2025.11.3 =py312h4c3975b_1
     - requests =2.32.5 =pyhd8ed1ab_0
     - rust =1.91.0 =h53717f1_0
     - scipy =1.16.3 =py312h7a1785b_0
@@ -77,7 +77,7 @@ requirements:
     - anyio =4.11.0 =pyhcf101f3_0
     - archspec =0.2.5 =pyhd8ed1ab_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
-    - argon2-cffi-bindings =25.1.0 =py312h4c3975b_1
+    - argon2-cffi-bindings =25.1.0 =py312h4c3975b_2
     - arrow =1.4.0 =pyhcf101f3_0
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - async-lru =2.0.5 =pyh29332c3_0
@@ -114,7 +114,7 @@ requirements:
     - conda-package-streaming =0.12.0 =pyhd8ed1ab_0
     - conda-recipe-manager =0.5.0 =pyhd8ed1ab_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
-    - contourpy =1.3.3 =py312hd9148b4_2
+    - contourpy =1.3.3 =py312hd9148b4_3
     - cpp-expected =1.3.1 =h171cf75_0
     - cpython =3.12.12 =py312hd8ed1ab_1
     - curl =8.17.0 =h4e3cde8_0
@@ -197,7 +197,7 @@ requirements:
     - jupyterlab_server =2.28.0 =pyhcf101f3_0
     - kernel-headers_linux-64 =5.14.0 =he073ed8_2
     - keyutils =1.6.3 =hb9d3cd8_0
-    - kiwisolver =1.4.9 =py312h0a2e395_1
+    - kiwisolver =1.4.9 =py312h0a2e395_2
     - krb5 =1.21.3 =h659f571_0
     - lame =3.100 =h166bdaf_1003
     - lark =1.3.1 =pyhd8ed1ab_0
@@ -272,7 +272,7 @@ requirements:
     - libstdcxx =15.2.0 =h8f9b012_7
     - libstdcxx-devel_linux-64 =15.2.0 =h73f6952_107
     - libstdcxx-ng =15.2.0 =h4852527_7
-    - libsystemd0 =258.1 =h07e904d_1
+    - libsystemd0 =258.2 =h07e904d_0
     - libtiff =4.7.1 =h9d88235_1
     - libuuid =2.41.2 =he9a06e4_0
     - libuv =1.51.0 =hb03c661_1
@@ -455,7 +455,7 @@ requirements:
     - r-mass =7.3_65 =r45h54b55ab_0
     - r-matrix =1.7_4 =r45h0e4624f_1
     - r-memoise =2.0.1 =r45hc72bb7e_4
-    - r-mgcv =1.9_3 =r45h0e4624f_1
+    - r-mgcv =1.9_4 =r45h0e4624f_0
     - r-mime =0.13 =r45h54b55ab_1
     - r-modelmetrics =1.2.2.2 =r45h3697838_5
     - r-modelr =0.1.11 =r45hc72bb7e_3
@@ -543,7 +543,7 @@ requirements:
     - r-xts =0.14.1 =r45h54b55ab_1
     - r-yaml =2.3.10 =r45h54b55ab_1
     - r-zoo =1.8_14 =r45h54b55ab_1
-    - rapidfuzz =3.14.3 =py312h1289d80_0
+    - rapidfuzz =3.14.3 =py312h1289d80_1
     - readline =8.2 =h8c095d6_2
     - referencing =0.37.0 =pyhcf101f3_0
     - reproc =14.2.5.post0 =hb9d3cd8_0
@@ -576,7 +576,7 @@ requirements:
     - toml =0.10.2 =pyhd8ed1ab_1
     - tomli =2.3.0 =pyhcf101f3_0
     - tomli-w =1.2.0 =pyhd8ed1ab_0
-    - tornado =6.5.2 =py312h4c3975b_1
+    - tornado =6.5.2 =py312h4c3975b_2
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - truststore =0.10.3 =pyhe01879c_0
     - typing-extensions =4.15.0 =h396c80c_0
@@ -626,7 +626,7 @@ requirements:
     - zeromq =4.3.5 =h387f397_9
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zlib-ng =2.2.5 =hde8ca8f_0
-    - zstandard =0.25.0 =py312h5253ce2_0
+    - zstandard =0.25.0 =py312h5253ce2_1
     - zstd =1.5.7 =hb8e6e7a_2
 
 about:
