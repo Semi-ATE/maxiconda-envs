@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2025.11.3 =py311h3485c13_1
     - requests =2.32.5 =pyhd8ed1ab_0
-    - rust =1.91.0 =hf8d6059_0
+    - rust =1.91.1 =hf8d6059_0
     - scipy =1.16.3 =py311h9a1c30b_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.1 =win_pyh7428d3b_0
@@ -136,8 +136,8 @@ requirements:
     - gfortran_impl_win-64 =15.2.0 =hd3d1e43_7
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.45 =pyhff2d567_0
-    - glib =2.86.1 =hde84fb4_1
-    - glib-tools =2.86.1 =he647baa_1
+    - glib =2.86.1 =hde84fb4_2
+    - glib-tools =2.86.1 =he647baa_2
     - graphite2 =1.3.14 =hac47afa_2
     - graphviz =13.1.2 =ha5e8f4b_0
     - greenlet =3.2.4 =py311h3e6a449_1
@@ -200,7 +200,7 @@ requirements:
     - libgd =2.3.3 =h7208af6_11
     - libgfortran =15.2.0 =h719f0c7_7
     - libgfortran5 =15.2.0 =hf2bee02_7
-    - libglib =2.86.1 =hd9c3897_1
+    - libglib =2.86.1 =hd9c3897_2
     - libgomp =15.2.0 =h1383e82_7
     - libhwloc =2.12.1 =default_h64bd3f2_1002
     - libiconv =1.18 =hc1393d2_2
@@ -268,7 +268,7 @@ requirements:
     - parso =0.8.5 =pyhcf101f3_0
     - pcre2 =10.46 =h3402e2f_0
     - pillow =12.0.0 =py311hf7ee305_0
-    - pip =25.2 =pyh8b19718_0
+    - pip =25.3 =pyh8b19718_0
     - pixman =0.46.4 =h5112557_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
     - platformdirs =4.5.0 =pyhcf101f3_0
@@ -496,7 +496,7 @@ requirements:
     - ruamel.yaml =0.18.16 =py311h3485c13_0
     - ruamel.yaml.clib =0.2.14 =py311h3485c13_0
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-x86_64-pc-windows-msvc =1.91.0 =h17fc481_0
+    - rust-std-x86_64-pc-windows-msvc =1.91.1 =h17fc481_0
     - send2trash =1.8.3 =pyh5737063_1
     - setuptools =80.9.0 =pyhff2d567_0
     - simdjson =4.0.7 =h49e36cd_0
