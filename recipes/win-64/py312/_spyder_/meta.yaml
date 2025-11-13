@@ -25,7 +25,7 @@ requirements:
     - python =3.12.12 =h0159041_1_cpython
 
     # 10 primary packages :
-    - cython =3.2.0 =py312hd245ac3_0
+    - cython =3.2.1 =py312hd245ac3_0
     - matplotlib =3.10.7 =py312h2e8e312_0
     - menuinst =2.4.1 =py312hbb81ca0_0
     - numpy =2.3.4 =py312ha72d056_0
@@ -63,10 +63,10 @@ requirements:
     - brotli-bin =1.2.0 =h6910e44_0
     - brotli-python =1.2.0 =py312h9d5906e_0
     - bzip2 =1.0.8 =h0ad9c76_8
-    - ca-certificates =2025.10.5 =h4c7d964_0
+    - ca-certificates =2025.11.12 =h4c7d964_0
     - cairo =1.18.4 =h5782bbf_0
     - cattrs =25.3.0 =pyhd8ed1ab_0
-    - certifi =2025.10.5 =pyhd8ed1ab_0
+    - certifi =2025.11.12 =pyhd8ed1ab_0
     - cffi =2.0.0 =py312he06e257_1
     - chardet =5.2.0 =pyhd8ed1ab_3
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
@@ -270,7 +270,7 @@ requirements:
     - rich =14.2.0 =pyhcf101f3_0
     - roman-numerals-py =3.1.0 =pyhd8ed1ab_0
     - rope =1.14.0 =pyhd8ed1ab_0
-    - rpds-py =0.28.0 =py312hdabe01f_1
+    - rpds-py =0.28.0 =py312hdabe01f_2
     - rtree =1.4.1 =pyh11ca60a_0
     - ruff =0.14.4 =h15e3a1f_0
     - setuptools =80.9.0 =pyhff2d567_0
@@ -318,8 +318,8 @@ requirements:
     - wheel =0.45.1 =pyhd8ed1ab_1
     - win_inet_pton =1.1.0 =pyh7428d3b_8
     - wrapt =1.17.3 =py312he06e257_1
-    - xorg-libxau =1.0.12 =h0e40799_0
-    - xorg-libxdmcp =1.1.5 =h0e40799_0
+    - xorg-libxau =1.0.12 =hba3369d_1
+    - xorg-libxdmcp =1.1.5 =hba3369d_1
     - yaml =0.2.5 =h6a83c73_3
     - yapf =0.43.0 =pyhd8ed1ab_1
     - yarl =1.22.0 =py312h05f76fc_0

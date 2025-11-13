@@ -25,7 +25,7 @@ requirements:
     - python =3.10.19 =hcd7f573_2_cpython
 
     # 9 primary packages :
-    - cython =3.2.0 =py310hf41fa49_0
+    - cython =3.2.1 =py310hf41fa49_0
     - matplotlib =3.10.7 =py310hb6292c7_0
     - numpy =2.2.6 =py310h4d83441_0
     - pandas =2.3.3 =py310h25f4b65_1
@@ -63,9 +63,9 @@ requirements:
     - brotli-bin =1.2.0 =hce9b42c_0
     - brotli-python =1.2.0 =py310haaa1140_0
     - bzip2 =1.0.8 =hd037594_8
-    - ca-certificates =2025.10.5 =hbd8a1cb_0
+    - ca-certificates =2025.11.12 =hbd8a1cb_0
     - cattrs =25.3.0 =pyhd8ed1ab_0
-    - certifi =2025.10.5 =pyhd8ed1ab_0
+    - certifi =2025.11.12 =pyhd8ed1ab_0
     - cffi =2.0.0 =py310hf5b66c1_1
     - chardet =5.2.0 =pyhd8ed1ab_3
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
@@ -98,7 +98,7 @@ requirements:
     - glib =2.86.1 =hc66c15f_2
     - glib-tools =2.86.1 =hb9d6e3a_2
     - gmp =6.3.0 =h7bae524_2
-    - gmpy2 =2.2.1 =py310h8086d47_1
+    - gmpy2 =2.2.1 =py310h1b1a8f9_2
     - gst-plugins-base =1.24.11 =h3c5c1d0_0
     - gstreamer =1.24.11 =hfe24232_0
     - h2 =4.3.0 =pyhcf101f3_0
@@ -273,7 +273,7 @@ requirements:
     - requests =2.32.5 =pyhd8ed1ab_0
     - rich =14.2.0 =pyhcf101f3_0
     - rope =1.14.0 =pyhd8ed1ab_0
-    - rpds-py =0.28.0 =py310hf3301a5_1
+    - rpds-py =0.28.0 =py310hf3301a5_2
     - rtree =1.4.1 =pyh11ca60a_0
     - ruff =0.14.4 =h382de68_0
     - setuptools =80.9.0 =pyhff2d567_0
@@ -316,8 +316,8 @@ requirements:
     - wheel =0.45.1 =pyhd8ed1ab_1
     - wrapt =1.17.3 =py310h7bdd564_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
-    - xorg-libxau =1.0.12 =h5505292_0
-    - xorg-libxdmcp =1.1.5 =hd74edd7_0
+    - xorg-libxau =1.0.12 =hc919400_1
+    - xorg-libxdmcp =1.1.5 =hc919400_1
     - yaml =0.2.5 =h925e9cb_3
     - yapf =0.43.0 =pyhd8ed1ab_1
     - yarl =1.22.0 =py310hf4fd40f_0

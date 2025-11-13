@@ -93,7 +93,7 @@ requirements:
     - bwidget =1.10.1 =ha770c72_1
     - bzip2 =1.0.8 =hda65f42_8
     - c-ares =1.34.5 =hb9d3cd8_0
-    - ca-certificates =2025.10.5 =hbd8a1cb_0
+    - ca-certificates =2025.11.12 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h3394656_0
@@ -189,7 +189,7 @@ requirements:
     - libbrotlicommon =1.2.0 =h09219d5_0
     - libbrotlidec =1.2.0 =hd53d788_0
     - libbrotlienc =1.2.0 =h02bd7ab_0
-    - libcap =2.76 =h0b2e76d_0
+    - libcap =2.77 =h3ff7636_0
     - libcblas =3.9.0 =20_linux64_openblas
     - libclang-cpp21.1 =21.1.5 =default_h99862b1_1
     - libclang13 =21.1.5 =default_h746c552_1
@@ -243,7 +243,7 @@ requirements:
     - libstdcxx =15.2.0 =h8f9b012_7
     - libstdcxx-devel_linux-64 =15.2.0 =h73f6952_107
     - libstdcxx-ng =15.2.0 =h4852527_7
-    - libsystemd0 =258.2 =h07e904d_0
+    - libsystemd0 =258.2 =h6569c3e_1
     - libtiff =4.7.1 =h9d88235_1
     - libuuid =2.41.2 =he9a06e4_0
     - libuv =1.51.0 =hb03c661_1
@@ -458,7 +458,7 @@ requirements:
     - r-rematch2 =2.1.2 =r45hc72bb7e_5
     - r-repr =1.1.7 =r45h785f33e_2
     - r-reprex =2.1.1 =r45hc72bb7e_2
-    - r-reshape2 =1.4.4 =r45h3697838_6
+    - r-reshape2 =1.4.5 =r45h3697838_0
     - r-rlang =1.1.6 =r45h3697838_1
     - r-rmarkdown =2.30 =r45hc72bb7e_0
     - r-rpart =4.1.24 =r45h54b55ab_1
@@ -557,9 +557,9 @@ requirements:
     - xorg-libice =1.1.2 =hb9d3cd8_0
     - xorg-libsm =1.2.6 =he73a12e_0
     - xorg-libx11 =1.8.12 =h4f16b4b_0
-    - xorg-libxau =1.0.12 =hb9d3cd8_0
+    - xorg-libxau =1.0.12 =hb03c661_1
     - xorg-libxdamage =1.1.6 =hb9d3cd8_0
-    - xorg-libxdmcp =1.1.5 =hb9d3cd8_0
+    - xorg-libxdmcp =1.1.5 =hb03c661_1
     - xorg-libxext =1.3.6 =hb9d3cd8_0
     - xorg-libxfixes =6.0.2 =hb03c661_0
     - xorg-libxrender =0.9.12 =hb9d3cd8_0

@@ -29,7 +29,7 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.14.2 =pyha770c72_0
     - bitarray =3.7.2 =py312h80b0991_0
-    - cython =3.2.0 =py312h33b39b6_0
+    - cython =3.2.1 =py312h33b39b6_0
     - grayskull =2.9.2 =pyhcf101f3_0
     - hypothesis =6.147.0 =pyha770c72_0
     - ipython =9.7.0 =pyh53cf698_0
@@ -91,12 +91,12 @@ requirements:
     - bwidget =1.10.1 =h694c41f_1
     - bzip2 =1.0.8 =h500dc9f_8
     - c-ares =1.34.5 =hf13058a_0
-    - ca-certificates =2025.10.5 =hbd8a1cb_0
+    - ca-certificates =2025.11.12 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h950ec3b_0
     - cctools_osx-64 =1024.3 =llvm21_1_h81d60ea_9
-    - certifi =2025.10.5 =pyhd8ed1ab_0
+    - certifi =2025.11.12 =pyhd8ed1ab_0
     - cffi =2.0.0 =py312he90777b_1
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
     - clang =21.1.4 =default_h1323312_0
@@ -155,7 +155,7 @@ requirements:
     - glib =2.86.1 =hfa0362f_2
     - glib-tools =2.86.1 =h8650975_2
     - gmp =6.3.0 =hf036a51_2
-    - gmpy2 =2.2.1 =py312he31a90d_1
+    - gmpy2 =2.2.1 =py312hf13fb29_2
     - graphite2 =1.3.14 =h21dd04a_2
     - graphviz =13.1.2 =h42bfd48_0
     - greenlet =3.2.4 =py312h462f358_1
@@ -316,7 +316,7 @@ requirements:
     - pybind11-abi =4 =hd8ed1ab_3
     - pycosat =0.6.6 =py312h2f459f6_3
     - pycparser =2.22 =pyh29332c3_1
-    - pydantic-core =2.41.5 =py312h8a6388b_0
+    - pydantic-core =2.41.5 =py312h8a6388b_1
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pygraphviz =1.14 =py312h8a3153c_2
     - pyobjc-core =12.0 =py312h4a480f0_2
@@ -368,7 +368,7 @@ requirements:
     - r-dbi =1.2.3 =r45hc72bb7e_2
     - r-dbplyr =2.5.1 =r45hc72bb7e_1
     - r-diagram =1.6.5 =r45ha770c72_4
-    - r-digest =0.6.37 =r45ha730edb_1
+    - r-digest =0.6.38 =r45ha730edb_0
     - r-dplyr =1.1.4 =r45ha730edb_2
     - r-dtplyr =1.3.2 =r45hc72bb7e_1
     - r-e1071 =1.7_16 =r45ha730edb_1
@@ -473,7 +473,7 @@ requirements:
     - r-rematch2 =2.1.2 =r45hc72bb7e_5
     - r-repr =1.1.7 =r45h785f33e_2
     - r-reprex =2.1.1 =r45hc72bb7e_2
-    - r-reshape2 =1.4.4 =r45ha730edb_6
+    - r-reshape2 =1.4.5 =r45ha730edb_0
     - r-rlang =1.1.6 =r45ha730edb_1
     - r-rmarkdown =2.30 =r45hc72bb7e_0
     - r-rpart =4.1.24 =r45h735ac91_1
@@ -526,7 +526,7 @@ requirements:
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
-    - rpds-py =0.28.0 =py312h8a6388b_1
+    - rpds-py =0.28.0 =py312h8a6388b_2
     - ruamel.yaml =0.18.16 =py312h80b0991_0
     - ruamel.yaml.clib =0.2.14 =py312h80b0991_0
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
@@ -538,7 +538,7 @@ requirements:
     - sip =6.10.0 =py312h69bf00f_1
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.2 =pyhd8ed1ab_0
-    - sniffio =1.3.1 =pyhd8ed1ab_1
+    - sniffio =1.3.1 =pyhd8ed1ab_2
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
     - soupsieve =2.8 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
@@ -568,8 +568,8 @@ requirements:
     - websocket-client =1.9.0 =pyhd8ed1ab_0
     - wheel =0.45.1 =pyhd8ed1ab_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
-    - xorg-libxau =1.0.12 =h6e16a3a_0
-    - xorg-libxdmcp =1.1.5 =h00291cd_0
+    - xorg-libxau =1.0.12 =h8616949_1
+    - xorg-libxdmcp =1.1.5 =h8616949_1
     - yaml =0.2.5 =h4132b18_3
     - yaml-cpp =0.8.0 =h92383a6_0
     - yarl =1.22.0 =py312hacf3034_0

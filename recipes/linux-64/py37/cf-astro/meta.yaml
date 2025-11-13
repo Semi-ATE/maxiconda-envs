@@ -37,7 +37,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_4
     - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =hda65f42_8
-    - ca-certificates =2025.10.5 =hbd8a1cb_0
+    - ca-certificates =2025.11.12 =hbd8a1cb_0
     - cairo =1.18.4 =h3394656_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - cyrus-sasl =2.1.28 =hd9c7081_0
@@ -73,7 +73,7 @@ requirements:
     - ld_impl_linux-64 =2.44 =h1aa0949_5
     - libasprintf =0.25.1 =h3f43e3d_1
     - libasprintf-devel =0.25.1 =h3f43e3d_1
-    - libcap =2.76 =h0b2e76d_0
+    - libcap =2.77 =h3ff7636_0
     - libclang-cpp21.1 =21.1.5 =default_h99862b1_1
     - libclang13 =21.1.5 =default_h746c552_1
     - libcups =2.3.3 =hb8b1518_5
@@ -112,7 +112,7 @@ requirements:
     - libsqlite =3.51.0 =hee844dc_0
     - libstdcxx =15.2.0 =h8f9b012_7
     - libstdcxx-ng =15.2.0 =h4852527_7
-    - libsystemd0 =258.2 =h07e904d_0
+    - libsystemd0 =258.2 =h6569c3e_1
     - libuuid =2.41.2 =he9a06e4_0
     - libvorbis =1.3.7 =h54a6638_2
     - libxcb =1.17.0 =h8a09558_0
@@ -169,9 +169,9 @@ requirements:
     - xorg-libice =1.1.2 =hb9d3cd8_0
     - xorg-libsm =1.2.6 =he73a12e_0
     - xorg-libx11 =1.8.12 =h4f16b4b_0
-    - xorg-libxau =1.0.12 =hb9d3cd8_0
+    - xorg-libxau =1.0.12 =hb03c661_1
     - xorg-libxdamage =1.1.6 =hb9d3cd8_0
-    - xorg-libxdmcp =1.1.5 =hb9d3cd8_0
+    - xorg-libxdmcp =1.1.5 =hb03c661_1
     - xorg-libxext =1.3.6 =hb9d3cd8_0
     - xorg-libxfixes =6.0.2 =hb03c661_0
     - xorg-libxrender =0.9.12 =hb9d3cd8_0
