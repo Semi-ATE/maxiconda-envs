@@ -26,7 +26,7 @@ requirements:
 
     # 10 primary packages :
     - cython =3.2.1 =py312hd245ac3_0
-    - matplotlib =3.10.7 =py312h2e8e312_0
+    - matplotlib =3.10.8 =py312h2e8e312_0
     - menuinst =2.4.1 =py312hbb81ca0_0
     - numpy =2.3.4 =py312ha72d056_0
     - pandas =2.3.3 =py312hc128f0a_1
@@ -179,7 +179,7 @@ requirements:
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.0.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py312h05f76fc_0
-    - matplotlib-base =3.10.7 =py312h0ebf65c_0
+    - matplotlib-base =3.10.8 =py312h0ebf65c_0
     - matplotlib-inline =0.2.1 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
@@ -272,7 +272,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.28.0 =py312hdabe01f_2
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.14.4 =h15e3a1f_0
+    - ruff =0.14.5 =h15e3a1f_0
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.10.0 =py312hbb81ca0_1
     - six =1.17.0 =pyhe01879c_1
@@ -295,8 +295,8 @@ requirements:
     - textdistance =4.6.3 =pyhd8ed1ab_1
     - three-merge =0.1.1 =pyhd8ed1ab_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
-    - tk =8.6.13 =h2c6b04d_2
-    - toml =0.10.2 =pyhd8ed1ab_1
+    - tk =8.6.13 =h2c6b04d_3
+    - toml =0.10.2 =pyhd8ed1ab_2
     - tomli =2.3.0 =pyhcf101f3_0
     - tomlkit =0.13.3 =pyha770c72_0
     - tornado =6.5.2 =py312he06e257_2
@@ -306,12 +306,12 @@ requirements:
     - tzdata =2025b =h78e105d_0
     - ucrt =10.0.26100.0 =h57928b3_0
     - ujson =5.11.0 =py312ha1a9051_1
-    - unicodedata2 =17.0.0 =py312he06e257_0
+    - unicodedata2 =17.0.0 =py312he06e257_1
     - urllib3 =2.5.0 =pyhd8ed1ab_0
     - vc =14.3 =h2b53caa_32
     - vc14_runtime =14.44.35208 =h818238b_32
     - vcomp14 =14.44.35208 =h818238b_32
-    - watchdog =6.0.0 =py312h2e8e312_1
+    - watchdog =6.0.0 =py312h2e8e312_2
     - wcwidth =0.2.14 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
