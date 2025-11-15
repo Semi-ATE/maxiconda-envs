@@ -216,7 +216,7 @@ requirements:
     - libnghttp2 =1.67.0 =h3338091_0
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =he3325bb_1
-    - libopenblas =0.3.30 =openmp_h6006d49_3
+    - libopenblas =0.3.30 =openmp_h6006d49_4
     - libopus =1.5.2 =he3325bb_0
     - libpng =1.6.50 =h84aeda2_1
     - libpq =18.0 =h5a4e477_0
@@ -231,7 +231,7 @@ requirements:
     - libxml2 =2.15.1 =h7b7ecba_0
     - libxml2-16 =2.15.1 =ha1d9b0f_0
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =21.1.5 =h472b3d1_0
+    - llvm-openmp =21.1.5 =h472b3d1_2
     - llvm-tools =21.1.4 =hb0207f0_0
     - llvm-tools-21 =21.1.4 =h879f4bc_0
     - llvmlite =0.45.1 =py310hd43b3a3_0
@@ -283,8 +283,8 @@ requirements:
     - pycparser =2.22 =pyh29332c3_1
     - pydantic-core =2.41.5 =py310h64024f4_1
     - pygments =2.19.2 =pyhd8ed1ab_0
-    - pyobjc-core =12.0 =py310hccc919d_2
-    - pyobjc-framework-cocoa =12.0 =py310hb0d6316_2
+    - pyobjc-core =12.1 =py310hccc919d_0
+    - pyobjc-framework-cocoa =12.1 =py310hb0d6316_0
     - pyparsing =3.2.5 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py310h40a7462_2
     - pysocks =1.7.1 =pyha55dd90_7
@@ -350,7 +350,7 @@ requirements:
     - r-future.apply =1.20.0 =r45hc72bb7e_1
     - r-gargle =1.6.0 =r45h785f33e_1
     - r-generics =0.1.4 =r45hc72bb7e_1
-    - r-ggplot2 =4.0.0 =r45h785f33e_0
+    - r-ggplot2 =4.0.1 =r45h785f33e_0
     - r-gistr =0.9.0 =r45hc72bb7e_4
     - r-glmnet =4.1_10 =r45h85c6d18_1
     - r-globals =0.18.0 =r45hc72bb7e_1
@@ -386,7 +386,7 @@ requirements:
     - r-lazyeval =0.2.2 =r45h735ac91_6
     - r-lifecycle =1.0.4 =r45hc72bb7e_2
     - r-listenv =0.10.0 =r45hc72bb7e_0
-    - r-lobstr =1.1.2 =r45ha730edb_5
+    - r-lobstr =1.1.3 =r45ha730edb_0
     - r-lubridate =1.9.4 =r45h735ac91_1
     - r-magrittr =2.0.4 =r45h735ac91_0
     - r-maps =3.4.3 =r45h735ac91_1
@@ -428,7 +428,7 @@ requirements:
     - r-rcolorbrewer =1.1_3 =r45h785f33e_4
     - r-rcpp =1.1.0 =r45ha730edb_1
     - r-rcppeigen =0.3.4.0.2 =r45hefbd7a6_1
-    - r-readr =2.1.5 =r45ha730edb_2
+    - r-readr =2.1.6 =r45ha730edb_0
     - r-readxl =1.4.5 =r45h9d0ed1e_1
     - r-recipes =1.3.1 =r45hc72bb7e_1
     - r-recommended =4.5 =r45hd8ed1ab_1008
@@ -442,7 +442,7 @@ requirements:
     - r-rpart =4.1.24 =r45h735ac91_1
     - r-rstudioapi =0.17.1 =r45hc72bb7e_1
     - r-rvest =1.0.5 =r45hc72bb7e_1
-    - r-s7 =0.2.0 =r45h735ac91_1
+    - r-s7 =0.2.1 =r45h735ac91_0
     - r-sass =0.4.10 =r45ha730edb_1
     - r-scales =1.4.0 =r45hc72bb7e_1
     - r-selectr =0.4_2 =r45hc72bb7e_5
