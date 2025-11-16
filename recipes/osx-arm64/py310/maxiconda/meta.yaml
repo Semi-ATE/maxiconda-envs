@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.14.2 =pyha770c72_0
     - cython =3.2.1 =py310hf41fa49_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.147.0 =pyha770c72_0
+    - hypothesis =6.148.0 =pyha770c72_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.8 =py310hb6292c7_0
@@ -101,7 +101,7 @@ requirements:
     - clangxx =21.1.5 =default_h36137df_1
     - clangxx_impl_osx-arm64 =21.1.5 =h25e7f35_25
     - clangxx_osx-arm64 =21.1.5 =h07b0088_25
-    - click =8.3.0 =pyh707e725_0
+    - click =8.3.1 =pyh707e725_0
     - cloudpickle =3.1.2 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -180,11 +180,11 @@ requirements:
     - ld64_osx-arm64 =955.13 =llvm21_1_hde6573c_9
     - lerc =4.0.0 =hd64df32_1
     - libasprintf =0.25.1 =h493aca8_0
-    - libblas =3.9.0 =38_h51639a9_openblas
+    - libblas =3.9.0 =39_h51639a9_openblas
     - libbrotlicommon =1.2.0 =h87ba0bc_0
     - libbrotlidec =1.2.0 =h95a88de_0
     - libbrotlienc =1.2.0 =hb1b9735_0
-    - libcblas =3.9.0 =38_hb0561ab_openblas
+    - libcblas =3.9.0 =39_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_h73dfc95_15
     - libclang-cpp21.1 =21.1.5 =default_h73dfc95_1
     - libclang13 =21.1.5 =default_h6e8f826_1
@@ -208,7 +208,7 @@ requirements:
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
     - libjpeg-turbo =3.1.2 =hc919400_0
-    - liblapack =3.9.0 =38_hd9741b5_openblas
+    - liblapack =3.9.0 =39_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h3f38c9c_10
     - libllvm21 =21.1.5 =h8e0c9ce_0
     - liblzma =5.8.1 =h39f12f2_2

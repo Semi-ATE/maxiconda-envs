@@ -31,7 +31,7 @@ requirements:
     - pandas =2.3.3 =py312h86abcb1_1
     - pyqt =5.15.11 =py312hd9d23cd_2
     - pyqtwebengine =5.15.11 =py312h4194c27_2
-    - scipy =1.16.3 =py312he2acf2f_0
+    - scipy =1.16.3 =py312he2acf2f_1
     - spyder =6.1.0 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
@@ -69,7 +69,7 @@ requirements:
     - cffi =2.0.0 =py312he90777b_1
     - chardet =5.2.0 =pyhd8ed1ab_3
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
-    - click =8.3.0 =pyh707e725_0
+    - click =8.3.1 =pyh707e725_0
     - cloudpickle =3.1.2 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -131,11 +131,11 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
-    - libblas =3.9.0 =38_he492b99_openblas
+    - libblas =3.9.0 =39_he492b99_openblas
     - libbrotlicommon =1.2.0 =h105ed1c_0
     - libbrotlidec =1.2.0 =h660c9da_0
     - libbrotlienc =1.2.0 =h2338291_0
-    - libcblas =3.9.0 =38_h9b27e0a_openblas
+    - libcblas =3.9.0 =39_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_15
     - libclang13 =21.1.5 =default_h7f9524c_1
     - libcxx =21.1.5 =h3d58e20_0
@@ -152,7 +152,7 @@ requirements:
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.2 =h8616949_0
-    - liblapack =3.9.0 =38_h859234e_openblas
+    - liblapack =3.9.0 =39_h859234e_openblas
     - libllvm18 =18.1.8 =default_hc369343_10
     - libllvm21 =21.1.5 =h56e7563_0
     - liblzma =5.8.1 =hd471939_2

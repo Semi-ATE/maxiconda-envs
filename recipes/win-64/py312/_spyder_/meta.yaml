@@ -32,7 +32,7 @@ requirements:
     - pandas =2.3.3 =py312hc128f0a_1
     - pyqt =5.15.11 =py312h7eb3e20_2
     - pyqtwebengine =5.15.11 =py312hffa3973_2
-    - scipy =1.16.3 =py312h33376e8_0
+    - scipy =1.16.3 =py312hd0164fe_1
     - spyder =6.1.0 =hd8ed1ab_0
     - sympy =1.14.0 =pyh04b8f61_5
 
@@ -70,7 +70,7 @@ requirements:
     - cffi =2.0.0 =py312he06e257_1
     - chardet =5.2.0 =pyhd8ed1ab_3
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
-    - click =8.3.0 =pyh7428d3b_0
+    - click =8.3.1 =pyh7428d3b_0
     - cloudpickle =3.1.2 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -138,11 +138,11 @@ requirements:
     - krb5 =1.21.3 =hdf4eb48_0
     - lcms2 =2.17 =hbcf6048_0
     - lerc =4.0.0 =h6470a55_1
-    - libblas =3.9.0 =38_hf2e6a31_mkl
+    - libblas =3.9.0 =39_hf2e6a31_mkl
     - libbrotlicommon =1.2.0 =hc82b238_0
     - libbrotlidec =1.2.0 =h431afc6_0
     - libbrotlienc =1.2.0 =ha521d6b_0
-    - libcblas =3.9.0 =38_h2a3cdd5_mkl
+    - libcblas =3.9.0 =39_h2a3cdd5_mkl
     - libclang13 =21.1.5 =default_ha2db4b5_0
     - libdeflate =1.25 =h51727cc_0
     - libexpat =2.7.1 =hac47afa_0
@@ -157,7 +157,7 @@ requirements:
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
     - libjpeg-turbo =3.1.2 =hfd05255_0
-    - liblapack =3.9.0 =38_hf9ab0e9_mkl
+    - liblapack =3.9.0 =39_hf9ab0e9_mkl
     - liblzma =5.8.1 =h2466b09_2
     - libogg =1.3.5 =h2466b09_1
     - libpng =1.6.50 =h7351971_1
