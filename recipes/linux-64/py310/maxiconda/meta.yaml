@@ -28,10 +28,10 @@ requirements:
     - aiohttp =3.13.2 =py310h5541b7b_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.14.2 =pyha770c72_0
-    - bitarray =3.7.2 =py310h7c4b9e2_0
+    - bitarray =3.8.0 =py310h7c4b9e2_0
     - cython =3.2.1 =py310ha58568a_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.148.0 =pyha770c72_0
+    - hypothesis =6.148.1 =pyha770c72_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.8 =py310hff52083_0
@@ -170,7 +170,7 @@ requirements:
     - jupyterlab =4.4.10 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.0 =pyhcf101f3_0
-    - kernel-headers_linux-64 =5.14.0 =he073ed8_2
+    - kernel-headers_linux-64 =6.12.0 =he073ed8_2
     - keyutils =1.6.3 =hb9d3cd8_0
     - kiwisolver =1.4.9 =py310haaf941d_2
     - krb5 =1.21.3 =h659f571_0
@@ -507,7 +507,7 @@ requirements:
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
-    - rpds-py =0.28.0 =py310hd8f68c5_2
+    - rpds-py =0.29.0 =py310hd8f68c5_0
     - ruamel.yaml =0.18.16 =py310h7c4b9e2_0
     - ruamel.yaml.clib =0.2.14 =py310h7c4b9e2_0
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
@@ -522,7 +522,7 @@ requirements:
     - soupsieve =2.8 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
-    - sysroot_linux-64 =2.34 =h087de78_2
+    - sysroot_linux-64 =2.39 =hc4b9eeb_2
     - terminado =0.18.1 =pyh0d859eb_0
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_ha0e22de_103
