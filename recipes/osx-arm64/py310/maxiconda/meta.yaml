@@ -73,7 +73,7 @@ requirements:
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =25.1.0 =py310hfe3a0ae_2
     - arrow =1.4.0 =pyhcf101f3_0
-    - asttokens =3.0.0 =pyhd8ed1ab_1
+    - asttokens =3.0.1 =pyhd8ed1ab_0
     - async-lru =2.0.5 =pyh29332c3_0
     - async-timeout =5.0.1 =pyhd8ed1ab_1
     - attrs =25.4.0 =pyh71513ae_0
@@ -180,11 +180,11 @@ requirements:
     - ld64_osx-arm64 =955.13 =llvm21_1_hde6573c_9
     - lerc =4.0.0 =hd64df32_1
     - libasprintf =0.25.1 =h493aca8_0
-    - libblas =3.9.0 =39_h51639a9_openblas
+    - libblas =3.11.0 =0_h51639a9_openblas
     - libbrotlicommon =1.2.0 =h87ba0bc_0
     - libbrotlidec =1.2.0 =h95a88de_0
     - libbrotlienc =1.2.0 =hb1b9735_0
-    - libcblas =3.9.0 =39_hb0561ab_openblas
+    - libcblas =3.11.0 =0_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_h73dfc95_15
     - libclang-cpp21.1 =21.1.5 =default_h73dfc95_1
     - libclang13 =21.1.5 =default_h6e8f826_1
@@ -208,7 +208,7 @@ requirements:
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
     - libjpeg-turbo =3.1.2 =hc919400_0
-    - liblapack =3.9.0 =39_hd9741b5_openblas
+    - liblapack =3.11.0 =0_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h3f38c9c_10
     - libllvm21 =21.1.5 =h8e0c9ce_0
     - liblzma =5.8.1 =h39f12f2_2
@@ -345,7 +345,7 @@ requirements:
     - r-foreign =0.8_90 =r45h6168396_1
     - r-formatr =1.14 =r45hc72bb7e_3
     - r-fs =1.6.6 =r45hc1cd577_1
-    - r-future =1.67.0 =r45h785f33e_1
+    - r-future =1.68.0 =r45h785f33e_0
     - r-future.apply =1.20.0 =r45hc72bb7e_1
     - r-gargle =1.6.0 =r45h785f33e_1
     - r-generics =0.1.4 =r45hc72bb7e_1
@@ -475,7 +475,7 @@ requirements:
     - r-vroom =1.6.6 =r45hc1cd577_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.54 =r45hc1cd577_0
-    - r-xml2 =1.4.1 =r45h7a605a7_0
+    - r-xml2 =1.5.0 =r45h7a605a7_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h6168396_1
     - r-yaml =2.3.10 =r45h6168396_1

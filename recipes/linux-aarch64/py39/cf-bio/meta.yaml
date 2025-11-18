@@ -95,14 +95,14 @@ requirements:
     - lerc =4.0.0 =hfdc4d58_1
     - libasprintf =0.25.1 =h5e0f5ae_0
     - libasprintf-devel =0.25.1 =h5e0f5ae_0
-    - libblas =3.9.0 =39_haddc8a3_openblas
+    - libblas =3.11.0 =0_haddc8a3_openblas
     - libboost =1.86.0 =h6339299_4
     - libboost-python =1.86.0 =py39hd246915_3
     - libbrotlicommon =1.2.0 =hd4db518_0
     - libbrotlidec =1.2.0 =hb159aeb_0
     - libbrotlienc =1.2.0 =ha5a240b_0
     - libcap =2.77 =h68e9139_0
-    - libcblas =3.9.0 =39_hd72aa62_openblas
+    - libcblas =3.11.0 =0_hd72aa62_openblas
     - libclang-cpp20.1 =20.1.8 =default_he95a3c9_4
     - libclang13 =21.1.0 =default_h94a09a5_1
     - libcups =2.3.3 =h5cdc715_5
@@ -130,7 +130,7 @@ requirements:
     - libgomp =15.2.0 =he277a41_7
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.2 =he30d5cf_0
-    - liblapack =3.9.0 =39_h88aeb00_openblas
+    - liblapack =3.11.0 =0_h88aeb00_openblas
     - libllvm20 =20.1.8 =h2b567e5_0
     - libllvm21 =21.1.0 =h2b567e5_0
     - liblzma =5.8.1 =h86ecc28_2
@@ -225,7 +225,7 @@ requirements:
     - wheel =0.45.1 =pyhd8ed1ab_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xcb-util =0.4.1 =hca56bd8_2
-    - xcb-util-cursor =0.1.5 =h86ecc28_0
+    - xcb-util-cursor =0.1.6 =he30d5cf_0
     - xcb-util-image =0.4.0 =h5c728e9_2
     - xcb-util-keysyms =0.4.1 =h5c728e9_0
     - xcb-util-renderutil =0.3.10 =h5c728e9_0

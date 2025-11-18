@@ -36,7 +36,7 @@ requirements:
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.8 =py311h1ea47a8_0
     - numba =0.62.1 =py311hffedbe7_0
-    - numpy =2.3.4 =py311h80b3fa1_0
+    - numpy =2.3.5 =py311h80b3fa1_0
     - openpyxl =3.1.5 =py311h4d8bf61_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py311h11fd7f3_1
@@ -75,7 +75,7 @@ requirements:
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =25.1.0 =py311h3485c13_2
     - arrow =1.4.0 =pyhcf101f3_0
-    - asttokens =3.0.0 =pyhd8ed1ab_1
+    - asttokens =3.0.1 =pyhd8ed1ab_0
     - async-lru =2.0.5 =pyh29332c3_0
     - attrs =25.4.0 =pyh71513ae_0
     - babel =2.17.0 =pyhd8ed1ab_0
@@ -183,11 +183,11 @@ requirements:
     - ld_impl_win-64 =2.45 =h13c207b_0
     - lerc =4.0.0 =h6470a55_1
     - libarchive =3.8.2 =gpl_h26aea39_100
-    - libblas =3.9.0 =39_hf2e6a31_mkl
+    - libblas =3.11.0 =0_hf2e6a31_mkl
     - libbrotlicommon =1.2.0 =hc82b238_0
     - libbrotlidec =1.2.0 =h431afc6_0
     - libbrotlienc =1.2.0 =ha521d6b_0
-    - libcblas =3.9.0 =39_h2a3cdd5_mkl
+    - libcblas =3.11.0 =0_h2a3cdd5_mkl
     - libclang13 =21.1.5 =default_ha2db4b5_0
     - libcurl =8.17.0 =h43ecb02_0
     - libdeflate =1.25 =h51727cc_0
@@ -207,7 +207,7 @@ requirements:
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
     - libjpeg-turbo =3.1.2 =hfd05255_0
-    - liblapack =3.9.0 =39_hf9ab0e9_mkl
+    - liblapack =3.11.0 =0_hf9ab0e9_mkl
     - liblzma =5.8.1 =h2466b09_2
     - libmamba =2.3.3 =h5fbfb43_1
     - libmambapy =2.3.3 =py311hd21cfaa_1
@@ -350,7 +350,7 @@ requirements:
     - r-foreign =0.8_90 =r45heceb674_1
     - r-formatr =1.14 =r45hc72bb7e_3
     - r-fs =1.6.6 =r45he95c60c_1
-    - r-future =1.67.0 =r45h785f33e_1
+    - r-future =1.68.0 =r45h785f33e_0
     - r-future.apply =1.20.0 =r45hc72bb7e_1
     - r-gargle =1.6.0 =r45h785f33e_1
     - r-generics =0.1.4 =r45hc72bb7e_1
@@ -480,7 +480,7 @@ requirements:
     - r-vroom =1.6.6 =r45hd8a2815_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.54 =r45hd8a2815_0
-    - r-xml2 =1.4.1 =r45h1e5fb1b_0
+    - r-xml2 =1.5.0 =r45h1e5fb1b_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45heceb674_1
     - r-yaml =2.3.10 =r45heceb674_1

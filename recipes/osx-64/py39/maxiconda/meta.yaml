@@ -183,11 +183,11 @@ requirements:
     - ld64_osx-64 =955.13 =llvm21_1_h2cc85ee_9
     - lerc =4.0.0 =hcca01a6_1
     - libasprintf =0.25.1 =h3184127_1
-    - libblas =3.9.0 =39_he492b99_openblas
+    - libblas =3.11.0 =0_he492b99_openblas
     - libbrotlicommon =1.2.0 =h105ed1c_0
     - libbrotlidec =1.2.0 =h660c9da_0
     - libbrotlienc =1.2.0 =h2338291_0
-    - libcblas =3.9.0 =39_h9b27e0a_openblas
+    - libcblas =3.11.0 =0_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_15
     - libclang-cpp21.1 =21.1.4 =default_hc369343_0
     - libclang13 =21.1.4 =default_h7f9524c_0
@@ -211,7 +211,7 @@ requirements:
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.2 =h8616949_0
-    - liblapack =3.9.0 =39_h859234e_openblas
+    - liblapack =3.11.0 =0_h859234e_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm18 =18.1.8 =default_hc369343_10
     - libllvm21 =21.1.4 =h56e7563_0
@@ -349,7 +349,7 @@ requirements:
     - r-foreign =0.8_90 =r45h735ac91_1
     - r-formatr =1.14 =r45hc72bb7e_3
     - r-fs =1.6.6 =r45ha730edb_1
-    - r-future =1.67.0 =r45h785f33e_1
+    - r-future =1.68.0 =r45h785f33e_0
     - r-future.apply =1.20.0 =r45hc72bb7e_1
     - r-gargle =1.6.0 =r45h785f33e_1
     - r-generics =0.1.4 =r45hc72bb7e_1
@@ -479,7 +479,7 @@ requirements:
     - r-vroom =1.6.6 =r45ha730edb_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.54 =r45ha730edb_0
-    - r-xml2 =1.4.1 =r45hf8ceb01_0
+    - r-xml2 =1.5.0 =r45hf8ceb01_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h735ac91_1
     - r-yaml =2.3.10 =r45h735ac91_1

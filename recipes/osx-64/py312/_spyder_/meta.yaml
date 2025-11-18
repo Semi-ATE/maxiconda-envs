@@ -27,7 +27,7 @@ requirements:
     # 9 primary packages :
     - cython =3.2.1 =py312h33b39b6_0
     - matplotlib =3.10.8 =py312hb401068_0
-    - numpy =2.3.4 =py312ha3982b3_0
+    - numpy =2.3.5 =py312ha3982b3_0
     - pandas =2.3.3 =py312h86abcb1_1
     - pyqt =5.15.11 =py312hd9d23cd_2
     - pyqtwebengine =5.15.11 =py312h4194c27_2
@@ -45,7 +45,7 @@ requirements:
     - appnope =0.1.4 =pyhd8ed1ab_1
     - arrow =1.4.0 =pyhcf101f3_0
     - astroid =3.3.11 =py312hb401068_1
-    - asttokens =3.0.0 =pyhd8ed1ab_1
+    - asttokens =3.0.1 =pyhd8ed1ab_0
     - asyncssh =2.21.1 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_1
     - attrs =25.4.0 =pyh71513ae_0
@@ -131,11 +131,11 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
-    - libblas =3.9.0 =39_he492b99_openblas
+    - libblas =3.11.0 =0_he492b99_openblas
     - libbrotlicommon =1.2.0 =h105ed1c_0
     - libbrotlidec =1.2.0 =h660c9da_0
     - libbrotlienc =1.2.0 =h2338291_0
-    - libcblas =3.9.0 =39_h9b27e0a_openblas
+    - libcblas =3.11.0 =0_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_15
     - libclang13 =21.1.5 =default_h7f9524c_1
     - libcxx =21.1.5 =h3d58e20_0
@@ -152,7 +152,7 @@ requirements:
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.2 =h8616949_0
-    - liblapack =3.9.0 =39_h859234e_openblas
+    - liblapack =3.11.0 =0_h859234e_openblas
     - libllvm18 =18.1.8 =default_hc369343_10
     - libllvm21 =21.1.5 =h56e7563_0
     - liblzma =5.8.1 =hd471939_2
