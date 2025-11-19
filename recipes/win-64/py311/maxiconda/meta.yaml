@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py311h3485c13_0
     - cython =3.2.1 =py311h9990397_0
     - grayskull =2.9.2 =pyhcf101f3_0
-    - hypothesis =6.148.1 =pyha770c72_0
+    - hypothesis =6.148.2 =pyha770c72_0
     - ipython =9.7.0 =pyhe2676ad_0
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - matplotlib =3.10.8 =py311h1ea47a8_0
@@ -183,11 +183,11 @@ requirements:
     - ld_impl_win-64 =2.45 =h13c207b_0
     - lerc =4.0.0 =h6470a55_1
     - libarchive =3.8.2 =gpl_h26aea39_100
-    - libblas =3.11.0 =0_hf2e6a31_mkl
+    - libblas =3.11.0 =1_hf2e6a31_mkl
     - libbrotlicommon =1.2.0 =hc82b238_0
     - libbrotlidec =1.2.0 =h431afc6_0
     - libbrotlienc =1.2.0 =ha521d6b_0
-    - libcblas =3.11.0 =0_h2a3cdd5_mkl
+    - libcblas =3.11.0 =1_h2a3cdd5_mkl
     - libclang13 =21.1.5 =default_ha2db4b5_0
     - libcurl =8.17.0 =h43ecb02_0
     - libdeflate =1.25 =h51727cc_0
@@ -207,7 +207,7 @@ requirements:
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
     - libjpeg-turbo =3.1.2 =hfd05255_0
-    - liblapack =3.11.0 =0_hf9ab0e9_mkl
+    - liblapack =3.11.0 =1_hf9ab0e9_mkl
     - liblzma =5.8.1 =h2466b09_2
     - libmamba =2.3.3 =h5fbfb43_1
     - libmambapy =2.3.3 =py311hd21cfaa_1

@@ -130,14 +130,14 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
-    - libblas =3.11.0 =0_he492b99_openblas
+    - libblas =3.11.0 =1_he492b99_openblas
     - libbrotlicommon =1.2.0 =h105ed1c_0
     - libbrotlidec =1.2.0 =h660c9da_0
     - libbrotlienc =1.2.0 =h2338291_0
-    - libcblas =3.11.0 =0_h9b27e0a_openblas
+    - libcblas =3.11.0 =1_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_15
     - libclang13 =21.1.5 =default_h7f9524c_1
-    - libcxx =21.1.5 =h3d58e20_0
+    - libcxx =21.1.6 =h3d58e20_0
     - libdeflate =1.25 =h517ebb2_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libexpat =2.7.1 =h21dd04a_0
@@ -151,7 +151,7 @@ requirements:
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.2 =h8616949_0
-    - liblapack =3.11.0 =0_h859234e_openblas
+    - liblapack =3.11.0 =1_h859234e_openblas
     - libllvm18 =18.1.8 =default_hc369343_10
     - libllvm21 =21.1.5 =h56e7563_0
     - liblzma =5.8.1 =hd471939_2
@@ -195,7 +195,7 @@ requirements:
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.38 =hee0b3f1_0
-    - nss =3.117 =h2b2a826_0
+    - nss =3.118 =h2b2a826_0
     - numpydoc =1.9.0 =pyhe01879c_1
     - openjpeg =2.5.4 =h87e8dc5_0
     - openldap =2.6.10 =hd8a590d_0
