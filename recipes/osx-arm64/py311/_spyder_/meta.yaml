@@ -56,8 +56,8 @@ requirements:
     - beautifulsoup4 =4.14.2 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
     - black =25.1.0 =pyh866005b_0
-    - bleach =6.2.0 =pyh29332c3_4
-    - bleach-with-css =6.2.0 =h82add2a_4
+    - bleach =6.3.0 =pyhcf101f3_0
+    - bleach-with-css =6.3.0 =h5f6438b_0
     - brotli =1.2.0 =hca488c2_0
     - brotli-bin =1.2.0 =hce9b42c_0
     - brotli-python =1.2.0 =py311h69b7e7c_0
@@ -136,11 +136,11 @@ requirements:
     - libbrotlienc =1.2.0 =hb1b9735_0
     - libcblas =3.11.0 =1_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_h73dfc95_15
-    - libclang13 =21.1.5 =default_h6e8f826_1
+    - libclang13 =21.1.6 =default_h6e8f826_0
     - libcxx =21.1.6 =hf598326_0
     - libdeflate =1.25 =hc11a715_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
-    - libexpat =2.7.1 =hec049ff_0
+    - libexpat =2.7.3 =haf25636_0
     - libffi =3.5.2 =he5f378a_0
     - libfreetype =2.14.1 =hce30654_0
     - libfreetype6 =2.14.1 =h6da58f4_0
@@ -153,14 +153,14 @@ requirements:
     - libjpeg-turbo =3.1.2 =hc919400_0
     - liblapack =3.11.0 =1_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h3f38c9c_10
-    - libllvm21 =21.1.5 =h8e0c9ce_0
+    - libllvm21 =21.1.6 =h8e0c9ce_0
     - liblzma =5.8.1 =h39f12f2_2
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
     - libopenblas =0.3.30 =openmp_ha158390_3
     - libopus =1.5.2 =h48c0fde_0
     - libpng =1.6.50 =h280e0eb_1
-    - libpq =18.0 =h31f7a3a_0
+    - libpq =18.1 =h944245b_1
     - libsodium =1.0.20 =h99b78c6_0
     - libspatialindex =2.1.0 =h57eeb1c_0
     - libsqlite =3.51.0 =h8adb53f_0
@@ -172,7 +172,7 @@ requirements:
     - libxml2 =2.15.1 =h9329255_0
     - libxml2-16 =2.15.1 =h0ff4647_0
     - libzlib =1.3.1 =h8359307_2
-    - llvm-openmp =21.1.5 =h4a912ad_2
+    - llvm-openmp =21.1.6 =h4a912ad_0
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.0.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py311ha9b3269_0
@@ -246,8 +246,8 @@ requirements:
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
     - python-lsp-ruff =2.3.0 =pyhcf101f3_0
-    - python-lsp-server =1.13.1 =pyh332efcf_0
-    - python-lsp-server-base =1.13.1 =pyhd8ed1ab_0
+    - python-lsp-server =1.13.2 =pyh332efcf_0
+    - python-lsp-server-base =1.13.2 =pyhd8ed1ab_0
     - python-slugify =8.0.4 =pyhd8ed1ab_1
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python.app =1.4 =py311h2969435_5
@@ -290,13 +290,13 @@ requirements:
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
     - spyder-base =6.1.0 =osx_pyh1a5313d_0
-    - spyder-kernels =3.1.1 =unix_pyh707e725_0
+    - spyder-kernels =3.1.2 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.6 =pyhb6d5dde_0
     - text-unidecode =1.3 =pyhd8ed1ab_2
     - textdistance =4.6.3 =pyhd8ed1ab_1
     - three-merge =0.1.1 =pyhd8ed1ab_1
-    - tinycss2 =1.4.0 =pyhd8ed1ab_0
+    - tinycss2 =1.5.0 =pyhcf101f3_0
     - tk =8.6.13 =h892fb3f_3
     - toml =0.10.2 =pyhd8ed1ab_2
     - tomli =2.3.0 =pyhcf101f3_0
