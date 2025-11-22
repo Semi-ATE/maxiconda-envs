@@ -149,7 +149,7 @@ requirements:
     - krb5 =1.21.3 =h659f571_0
     - lame =3.100 =h166bdaf_1003
     - lcms2 =2.17 =h717163a_0
-    - ld_impl_linux-64 =2.45 =h1aa0949_0
+    - ld_impl_linux-64 =2.45 =bootstrap_ha15bf96_3
     - lerc =4.0.0 =h0aef613_1
     - libasprintf =0.25.1 =h3f43e3d_1
     - libasprintf-devel =0.25.1 =h3f43e3d_1
@@ -197,7 +197,7 @@ requirements:
     - libopengl =1.7.0 =ha4b6fd6_2
     - libopus =1.5.2 =hd0c01bc_0
     - libpciaccess =0.18 =hb9d3cd8_0
-    - libpng =1.6.50 =h421ea60_1
+    - libpng =1.6.51 =h421ea60_0
     - libpq =17.7 =h5c52fec_1
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.20 =h4ab18f5_0
@@ -318,7 +318,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.29.0 =py310hd8f68c5_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.14.5 =h813ae00_0
+    - ruff =0.14.6 =h813ae00_0
     - secretstorage =3.4.1 =py310hff52083_0
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.10.0 =py310hea6c23e_1

@@ -47,7 +47,7 @@ requirements:
     - pyyaml =6.0.3 =py311ha9b3269_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.0 =pyh9208f05_1
-    - r-base =4.5.2 =h04a9237_1
+    - r-base =4.5.2 =hb2e0d2d_2
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2025.11.3 =py311h9408147_1
     - requests =2.32.5 =pyhd8ed1ab_0
@@ -150,8 +150,8 @@ requirements:
     - gfortran_osx-arm64 =14.3.0 =h3c33bd0_0
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.45 =pyhff2d567_0
-    - glib =2.86.2 =hc66c15f_0
-    - glib-tools =2.86.2 =hb9d6e3a_0
+    - glib =2.86.2 =h7ee6e74_1
+    - glib-tools =2.86.2 =hb9d6e3a_1
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.2.1 =py311hd340a2e_2
     - graphite2 =1.3.14 =hec049ff_2
@@ -228,7 +228,7 @@ requirements:
     - libgfortran =15.2.0 =hfcf01ff_1
     - libgfortran-devel_osx-arm64 =14.3.0 =hc965647_1
     - libgfortran5 =15.2.0 =h742603c_1
-    - libglib =2.86.2 =he69a767_0
+    - libglib =2.86.2 =hfe11c1f_1
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -237,14 +237,14 @@ requirements:
     - libllvm18 =18.1.8 =default_h3f38c9c_10
     - libllvm21 =21.1.6 =h8e0c9ce_0
     - liblzma =5.8.1 =h39f12f2_2
-    - libmamba =2.3.3 =h1370271_2
-    - libmambapy =2.3.3 =py311h72cf7df_2
+    - libmamba =2.4.0 =h7516003_0
+    - libmambapy =2.4.0 =py311h1e8a914_0
     - libnghttp2 =1.67.0 =hc438710_0
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
     - libopenblas =0.3.30 =openmp_ha158390_3
     - libopus =1.5.2 =h48c0fde_0
-    - libpng =1.6.50 =h280e0eb_1
+    - libpng =1.6.51 =hfab5511_0
     - libpq =18.1 =h944245b_1
     - librsvg =2.60.0 =h5c55ec3_0
     - libsodium =1.0.20 =h99b78c6_0
@@ -296,7 +296,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h875632e_0
     - parso =0.8.5 =pyhcf101f3_0
-    - pcre2 =10.46 =h7125dd6_0
+    - pcre2 =10.47 =h30297fc_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pillow =12.0.0 =py311h890502c_0
     - pip =25.3 =pyh8b19718_0
@@ -480,7 +480,7 @@ requirements:
     - r-s7 =0.2.1 =r45h6168396_0
     - r-sass =0.4.10 =r45hc1cd577_1
     - r-scales =1.4.0 =r45hc72bb7e_1
-    - r-selectr =0.4_2 =r45hc72bb7e_5
+    - r-selectr =0.5_0 =r45hc72bb7e_0
     - r-shape =1.4.6.1 =r45ha770c72_2
     - r-shiny =1.11.1 =r45h785f33e_1
     - r-sourcetools =0.1.7_1 =r45hc1cd577_3
@@ -532,7 +532,7 @@ requirements:
     - send2trash =1.8.3 =pyh31c8845_1
     - setuptools =80.9.0 =pyhff2d567_0
     - sigtool =0.1.3 =h44b9a77_0
-    - simdjson =4.0.7 =ha7d2532_0
+    - simdjson =4.2.2 =ha7d2532_0
     - sip =6.14.0 =py311h251fd82_1
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.2 =pyhd8ed1ab_0

@@ -85,7 +85,7 @@ requirements:
     - attr =2.5.1 =h4e544f5_1
     - attrs =25.4.0 =pyh71513ae_0
     - babel =2.17.0 =pyhd8ed1ab_0
-    - binutils_impl_linux-aarch64 =2.45 =ha36da51_0
+    - binutils_impl_linux-aarch64 =2.45 =default_1234567_3
     - bleach =6.3.0 =pyhcf101f3_0
     - bleach-with-css =6.3.0 =h5f6438b_0
     - boltons =25.0.0 =pyhd8ed1ab_0
@@ -201,7 +201,7 @@ requirements:
     - lame =3.100 =h4e544f5_1003
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.17 =hc88f144_0
-    - ld_impl_linux-aarch64 =2.45 =hd32f0e1_0
+    - ld_impl_linux-aarch64 =2.45 =default_1234567_3
     - lerc =4.0.0 =hfdc4d58_1
     - libarchive =3.8.2 =gpl_hd746d8a_100
     - libasprintf =0.25.1 =h5e0f5ae_0
@@ -249,8 +249,8 @@ requirements:
     - liblapack =3.11.0 =1_h88aeb00_openblas
     - libllvm21 =21.1.6 =hfd2ba90_0
     - liblzma =5.8.1 =h86ecc28_2
-    - libmamba =2.3.3 =hdcf0ffa_2
-    - libmambapy =2.3.3 =py311h53fca1a_2
+    - libmamba =2.4.0 =h493998d_0
+    - libmambapy =2.4.0 =py311hadaf935_0
     - libnghttp2 =1.67.0 =ha888d0e_0
     - libnsl =2.0.1 =h86ecc28_1
     - libntlm =1.4 =hf897c2e_1002
@@ -259,7 +259,7 @@ requirements:
     - libopengl =1.7.0 =hd24410f_2
     - libopus =1.5.2 =h86ecc28_0
     - libpciaccess =0.18 =h86ecc28_0
-    - libpng =1.6.50 =h1abf092_1
+    - libpng =1.6.51 =h1abf092_0
     - libpq =18.1 =haf03d9f_1
     - librsvg =2.60.0 =h8171147_0
     - libsanitizer =15.2.0 =h8b511b7_7
@@ -505,7 +505,7 @@ requirements:
     - r-s7 =0.2.1 =r45hf488e41_0
     - r-sass =0.4.10 =r45h08b74da_1
     - r-scales =1.4.0 =r45hc72bb7e_1
-    - r-selectr =0.4_2 =r45hc72bb7e_5
+    - r-selectr =0.5_0 =r45hc72bb7e_0
     - r-shape =1.4.6.1 =r45ha770c72_2
     - r-shiny =1.11.1 =r45h785f33e_1
     - r-sourcetools =0.1.7_1 =r45h08b74da_3
@@ -557,7 +557,7 @@ requirements:
     - sed =4.9 =hd4cd8d4_0
     - send2trash =1.8.3 =pyh0d859eb_1
     - setuptools =80.9.0 =pyhff2d567_0
-    - simdjson =4.0.7 =hfefdfc9_0
+    - simdjson =4.2.2 =hfefdfc9_0
     - sip =6.14.0 =py311h0cfd530_1
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.2 =pyhd8ed1ab_0

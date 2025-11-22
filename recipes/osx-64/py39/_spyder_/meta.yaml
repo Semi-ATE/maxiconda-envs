@@ -94,8 +94,8 @@ requirements:
     - frozenlist =1.7.0 =py39h262b9f6_0
     - fzf =0.67.0 =h1ecb644_0
     - giflib =5.2.2 =h10d778d_0
-    - glib =2.86.2 =hfa0362f_0
-    - glib-tools =2.86.2 =h8650975_0
+    - glib =2.86.2 =h182e902_1
+    - glib-tools =2.86.2 =h8650975_1
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.2.1 =py39h127c8af_0
     - gst-plugins-base =1.24.11 =h09840cc_0
@@ -146,7 +146,7 @@ requirements:
     - libfreetype6 =2.14.1 =h6912278_0
     - libgfortran =15.2.0 =h306097a_1
     - libgfortran5 =15.2.0 =h336fb69_1
-    - libglib =2.86.2 =h6ca3a76_0
+    - libglib =2.86.2 =hf241ffe_1
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
@@ -159,7 +159,7 @@ requirements:
     - libogg =1.3.5 =he3325bb_1
     - libopenblas =0.3.30 =openmp_h6006d49_4
     - libopus =1.5.2 =he3325bb_0
-    - libpng =1.6.50 =h84aeda2_1
+    - libpng =1.6.51 =h380d223_0
     - libpq =18.1 =h1e038c5_1
     - libsodium =1.0.20 =hfdf4475_0
     - libspatialindex =2.1.0 =h501a4e1_0
@@ -205,7 +205,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_1
     - pathspec =0.12.1 =pyhd8ed1ab_1
-    - pcre2 =10.46 =ha3e7e28_0
+    - pcre2 =10.47 =h13923f0_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py39h1fda9f2_0

@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0.2 =py38ha5227f9_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_0
     - qtawesome =1.3.1 =pyh9208f05_0
-    - r-base =4.5.2 =h72cabac_1
+    - r-base =4.5.2 =h09f36ba_2
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2024.7.24 =py38ha5227f9_0
     - requests =2.32.3 =pyhd8ed1ab_0
@@ -84,7 +84,7 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_4
     - backports.zoneinfo =0.2.1 =py38h9579f32_8
-    - binutils_impl_linux-aarch64 =2.45 =ha36da51_0
+    - binutils_impl_linux-aarch64 =2.45 =default_1234567_3
     - bleach =6.1.0 =pyhd8ed1ab_0
     - brotli =1.2.0 =hec30622_0
     - brotli-bin =1.2.0 =hf3d421d_0
@@ -133,8 +133,8 @@ requirements:
     - gettext =0.25.1 =h5ad3122_0
     - gettext-tools =0.25.1 =h5ad3122_0
     - gfortran_impl_linux-aarch64 =15.2.0 =hcb832a5_7
-    - glib =2.86.2 =h8d23fb4_0
-    - glib-tools =2.86.2 =hc87f4d4_0
+    - glib =2.86.2 =hc66a092_1
+    - glib-tools =2.86.2 =hc87f4d4_1
     - gmp =6.3.0 =h0a1ffab_2
     - gmpy2 =2.1.5 =py38h55fd771_1
     - graphite2 =1.3.14 =hfae3067_2
@@ -180,7 +180,7 @@ requirements:
     - krb5 =1.21.3 =h50a48e9_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.17 =hc88f144_0
-    - ld_impl_linux-aarch64 =2.45 =hd32f0e1_0
+    - ld_impl_linux-aarch64 =2.45 =default_1234567_3
     - lerc =4.0.0 =hfdc4d58_1
     - libasprintf =0.25.1 =h5e0f5ae_0
     - libasprintf-devel =0.25.1 =h5e0f5ae_0
@@ -214,7 +214,7 @@ requirements:
     - libgfortran-ng =15.2.0 =he9431aa_7
     - libgfortran5 =15.2.0 =h87db57e_7
     - libgl =1.7.0 =hd24410f_2
-    - libglib =2.86.2 =he84ff74_0
+    - libglib =2.86.2 =hf53f6bf_1
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
     - libgomp =15.2.0 =he277a41_7
@@ -232,7 +232,7 @@ requirements:
     - libopenblas =0.3.25 =pthreads_h5a5ec62_0
     - libopus =1.5.2 =h86ecc28_0
     - libpciaccess =0.18 =h86ecc28_0
-    - libpng =1.6.50 =h1abf092_1
+    - libpng =1.6.51 =h1abf092_0
     - libpq =18.1 =haf03d9f_1
     - libsanitizer =15.2.0 =h8b511b7_7
     - libsndfile =1.2.2 =h79657aa_1
@@ -284,7 +284,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =he55ef5b_0
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pcre2 =10.46 =h15761aa_0
+    - pcre2 =10.47 =hf841c20_0
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pillow =10.4.0 =py38h092b5d1_0
@@ -466,7 +466,7 @@ requirements:
     - r-s7 =0.2.1 =r45hf488e41_0
     - r-sass =0.4.10 =r45h08b74da_1
     - r-scales =1.4.0 =r45hc72bb7e_1
-    - r-selectr =0.4_2 =r45hc72bb7e_5
+    - r-selectr =0.5_0 =r45hc72bb7e_0
     - r-shape =1.4.6.1 =r45ha770c72_2
     - r-shiny =1.11.1 =r45h785f33e_1
     - r-sourcetools =0.1.7_1 =r45h08b74da_3
