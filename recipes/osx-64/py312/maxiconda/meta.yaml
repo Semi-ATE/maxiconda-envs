@@ -206,11 +206,11 @@ requirements:
     - lerc =4.0.0 =hcca01a6_1
     - libarchive =3.8.2 =gpl_h889603c_100
     - libasprintf =0.25.1 =h3184127_1
-    - libblas =3.11.0 =1_he492b99_openblas
+    - libblas =3.11.0 =2_he492b99_openblas
     - libbrotlicommon =1.2.0 =h105ed1c_0
     - libbrotlidec =1.2.0 =h660c9da_0
     - libbrotlienc =1.2.0 =h2338291_0
-    - libcblas =3.11.0 =1_h9b27e0a_openblas
+    - libcblas =3.11.0 =2_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_15
     - libclang-cpp21.1 =21.1.6 =default_hc369343_0
     - libclang13 =21.1.6 =default_h7f9524c_0
@@ -235,7 +235,7 @@ requirements:
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.2 =h8616949_0
-    - liblapack =3.11.0 =1_h859234e_openblas
+    - liblapack =3.11.0 =2_h859234e_openblas
     - libllvm18 =18.1.8 =default_hc369343_10
     - libllvm21 =21.1.6 =h56e7563_0
     - liblzma =5.8.1 =hd471939_2
