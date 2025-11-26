@@ -81,10 +81,10 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_4
     - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py37h540881e_5
-    - binutils_impl_linux-64 =2.45 =bootstrap_h59bd682_3
+    - binutils_impl_linux-64 =2.45 =default_hfdba357_104
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.2.0 =h41a2e66_0
-    - brotli-bin =1.2.0 =hf2c8021_0
+    - brotli =1.2.0 =hed03a55_1
+    - brotli-bin =1.2.0 =hb03c661_1
     - brotli-python =1.0.9 =py37hd23a5d3_7
     - bwidget =1.10.1 =ha770c72_1
     - bzip2 =1.0.8 =hda65f42_8
@@ -119,10 +119,10 @@ requirements:
     - freetype =2.14.1 =ha770c72_0
     - fribidi =1.0.16 =hb03c661_0
     - frozenlist =1.3.1 =py37h540881e_0
-    - gcc_impl_linux-64 =15.2.0 =hcacfade_7
+    - gcc_impl_linux-64 =15.2.0 =h065a4ff_12
     - gettext =0.25.1 =h3f43e3d_1
     - gettext-tools =0.25.1 =h3f43e3d_1
-    - gfortran_impl_linux-64 =15.2.0 =h1b0a18f_7
+    - gfortran_impl_linux-64 =15.2.0 =h281d09f_12
     - git =2.42.0 =pl5321h86e50cf_0
     - glib =2.78.1 =hfc55251_0
     - glib-tools =2.78.1 =hfc55251_0
@@ -134,7 +134,7 @@ requirements:
     - gst-plugins-base =1.22.0 =h4243ec0_2
     - gstreamer =1.22.0 =h25f0c4b_2
     - gstreamer-orc =0.4.41 =h17648ed_0
-    - gxx_impl_linux-64 =15.2.0 =h54ccb8d_7
+    - gxx_impl_linux-64 =15.2.0 =hda75c37_12
     - harfbuzz =6.0.0 =h8e241bc_0
     - icu =70.1 =h27087fc_0
     - idna =3.10 =pyhd8ed1ab_0
@@ -153,20 +153,20 @@ requirements:
     - jupyter_core =4.11.1 =py37h89c1867_0
     - jupyter_server =1.23.4 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
-    - kernel-headers_linux-64 =6.12.0 =he073ed8_2
+    - kernel-headers_linux-64 =6.12.0 =he073ed8_3
     - keyutils =1.6.3 =hb9d3cd8_0
     - kiwisolver =1.4.4 =py37h7cecad7_0
     - krb5 =1.20.1 =h81ceb04_0
     - lame =3.100 =h166bdaf_1003
     - lcms2 =2.14 =h6ed2654_0
-    - ld_impl_linux-64 =2.45 =bootstrap_ha15bf96_3
+    - ld_impl_linux-64 =2.45 =default_hbd61a6d_104
     - lerc =4.0.0 =h0aef613_1
     - libasprintf =0.25.1 =h3f43e3d_1
     - libasprintf-devel =0.25.1 =h3f43e3d_1
     - libblas =3.9.0 =20_linux64_openblas
-    - libbrotlicommon =1.2.0 =h09219d5_0
-    - libbrotlidec =1.2.0 =hd53d788_0
-    - libbrotlienc =1.2.0 =h02bd7ab_0
+    - libbrotlicommon =1.2.0 =hb03c661_1
+    - libbrotlidec =1.2.0 =hb03c661_1
+    - libbrotlienc =1.2.0 =hb03c661_1
     - libcap =2.67 =he9d0100_0
     - libcblas =3.9.0 =20_linux64_openblas
     - libclang =15.0.7 =default_h127d8a8_5
@@ -183,20 +183,20 @@ requirements:
     - libflac =1.4.3 =h59595ed_0
     - libfreetype =2.14.1 =ha770c72_0
     - libfreetype6 =2.14.1 =h73754d4_0
-    - libgcc =15.2.0 =h767d61c_7
-    - libgcc-devel_linux-64 =15.2.0 =h73f6952_107
-    - libgcc-ng =15.2.0 =h69a702a_7
+    - libgcc =15.2.0 =he0feb66_12
+    - libgcc-devel_linux-64 =15.2.0 =hcc6f6b0_112
+    - libgcc-ng =15.2.0 =h69a702a_12
     - libgcrypt =1.11.1 =ha770c72_0
     - libgcrypt-devel =1.11.1 =hb9d3cd8_0
     - libgcrypt-lib =1.11.1 =hb9d3cd8_0
     - libgcrypt-tools =1.11.1 =hb9d3cd8_0
     - libgettextpo =0.25.1 =h3f43e3d_1
     - libgettextpo-devel =0.25.1 =h3f43e3d_1
-    - libgfortran =15.2.0 =h69a702a_7
-    - libgfortran-ng =15.2.0 =h69a702a_7
-    - libgfortran5 =15.2.0 =hcd61629_7
+    - libgfortran =15.2.0 =h69a702a_12
+    - libgfortran-ng =15.2.0 =h69a702a_12
+    - libgfortran5 =15.2.0 =h68bc16d_12
     - libglib =2.78.1 =hebfc3b9_0
-    - libgomp =15.2.0 =h767d61c_7
+    - libgomp =15.2.0 =he0feb66_12
     - libgpg-error =1.55 =h3f2d84a_0
     - libiconv =1.18 =h3b78370_2
     - liblapack =3.9.0 =20_linux64_openblas
@@ -212,14 +212,14 @@ requirements:
     - libopus =1.5.2 =hd0c01bc_0
     - libpng =1.6.51 =h421ea60_0
     - libpq =15.3 =hbcd7760_1
-    - libsanitizer =15.2.0 =hb13aed2_7
+    - libsanitizer =15.2.0 =h90f66d4_12
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.51.0 =h0c1763c_0
     - libssh2 =1.11.0 =h0841786_0
-    - libstdcxx =15.2.0 =h8f9b012_7
-    - libstdcxx-devel_linux-64 =15.2.0 =h73f6952_107
-    - libstdcxx-ng =15.2.0 =h4852527_7
+    - libstdcxx =15.2.0 =h934c35e_12
+    - libstdcxx-devel_linux-64 =15.2.0 =hd446a21_112
+    - libstdcxx-ng =15.2.0 =hdf11a46_12
     - libsystemd0 =253 =h8c4010b_1
     - libtiff =4.4.0 =h82bc61c_5
     - libtool =2.5.4 =h5888daf_0
@@ -485,7 +485,7 @@ requirements:
     - sortedcontainers =2.4.0 =pyhd8ed1ab_0
     - soupsieve =2.3.2.post1 =pyhd8ed1ab_0
     - stdlib-list =0.11.0 =pyhd8ed1ab_0
-    - sysroot_linux-64 =2.39 =hc4b9eeb_2
+    - sysroot_linux-64 =2.39 =hc4b9eeb_3
     - terminado =0.17.1 =pyh41d4057_0
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_hd72426e_102

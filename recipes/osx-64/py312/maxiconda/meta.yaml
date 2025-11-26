@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 515 secondary packages :
+    # 517 secondary packages :
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
     - adwaita-icon-theme =49.0 =unix_0
@@ -85,9 +85,9 @@ requirements:
     - bleach =6.3.0 =pyhcf101f3_0
     - bleach-with-css =6.3.0 =h5f6438b_0
     - boltons =25.0.0 =pyhd8ed1ab_0
-    - brotli =1.2.0 =hb27157a_0
-    - brotli-bin =1.2.0 =h5c1846c_0
-    - brotli-python =1.2.0 =py312hbe43a26_0
+    - brotli =1.2.0 =hf139dec_1
+    - brotli-bin =1.2.0 =h8616949_1
+    - brotli-python =1.2.0 =py312h4b46afd_1
     - bwidget =1.10.1 =h694c41f_1
     - bzip2 =1.0.8 =h500dc9f_8
     - c-ares =1.34.5 =hf13058a_0
@@ -113,8 +113,8 @@ requirements:
     - compiler-rt =21.1.6 =h694c41f_0
     - compiler-rt21 =21.1.6 =he914875_0
     - compiler-rt21_osx-64 =21.1.6 =he0f92a2_0
-    - conda =25.9.1 =py312hb401068_0
-    - conda-libmamba-solver =25.4.0 =pyhd8ed1ab_0
+    - conda =25.11.0 =py312hb401068_0
+    - conda-libmamba-solver =25.11.0 =pyhd8ed1ab_0
     - conda-package-handling =2.4.0 =pyh7900ff3_2
     - conda-package-streaming =0.12.0 =pyhd8ed1ab_0
     - conda-recipe-manager =0.5.0 =pyhd8ed1ab_0
@@ -207,9 +207,9 @@ requirements:
     - libarchive =3.8.2 =gpl_h889603c_100
     - libasprintf =0.25.1 =h3184127_1
     - libblas =3.11.0 =2_he492b99_openblas
-    - libbrotlicommon =1.2.0 =h105ed1c_0
-    - libbrotlidec =1.2.0 =h660c9da_0
-    - libbrotlienc =1.2.0 =h2338291_0
+    - libbrotlicommon =1.2.0 =h8616949_1
+    - libbrotlidec =1.2.0 =h8616949_1
+    - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.11.0 =2_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_15
     - libclang-cpp21.1 =21.1.6 =default_hc369343_0
@@ -225,11 +225,12 @@ requirements:
     - libffi =3.5.2 =h750e83c_0
     - libfreetype =2.14.1 =h694c41f_0
     - libfreetype6 =2.14.1 =h6912278_0
+    - libgcc =15.2.0 =h08519bb_12
     - libgd =2.3.3 =h8555400_11
     - libgettextpo =0.25.1 =h3184127_1
-    - libgfortran =15.2.0 =h306097a_1
+    - libgfortran =15.2.0 =h7e5c614_12
     - libgfortran-devel_osx-64 =14.3.0 =h660b60f_1
-    - libgfortran5 =15.2.0 =h336fb69_1
+    - libgfortran5 =15.2.0 =hd16e46c_12
     - libglib =2.86.2 =hf241ffe_1
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
@@ -276,6 +277,7 @@ requirements:
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
     - mpmath =1.3.0 =pyhd8ed1ab_1
+    - msgpack-python =1.1.2 =py312hd099df3_1
     - multidict =6.6.3 =py312h6f3313d_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.10.2 =pyhd8ed1ab_0
@@ -283,7 +285,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - networkx =3.5 =pyhe01879c_0
+    - networkx =3.6 =pyhcf101f3_0
     - nlohmann_json-abi =3.12.0 =h0f90c79_1
     - notebook =7.5.0 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
@@ -300,7 +302,7 @@ requirements:
     - parso =0.8.5 =pyhcf101f3_0
     - pcre2 =10.47 =h13923f0_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
-    - pillow =12.0.0 =py312h6000a1f_0
+    - pillow =12.0.0 =py312h4148a4b_1
     - pip =25.3 =pyh8b19718_0
     - pixman =0.46.4 =ha059160_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0

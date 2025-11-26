@@ -59,8 +59,8 @@ requirements:
     - black =25.1.0 =pyha5154f8_0
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.2.0 =h17ff524_0
-    - brotli-bin =1.2.0 =h6910e44_0
+    - brotli =1.2.0 =h2d644bc_1
+    - brotli-bin =1.2.0 =hfd05255_1
     - brotli-python =1.0.9 =py39h99910a6_8
     - bzip2 =1.0.8 =h0ad9c76_8
     - ca-certificates =2025.11.12 =h4c7d964_0
@@ -138,9 +138,9 @@ requirements:
     - lcms2 =2.17 =hbcf6048_0
     - lerc =4.0.0 =h6470a55_1
     - libblas =3.11.0 =2_hf2e6a31_mkl
-    - libbrotlicommon =1.2.0 =hc82b238_0
-    - libbrotlidec =1.2.0 =h431afc6_0
-    - libbrotlienc =1.2.0 =ha521d6b_0
+    - libbrotlicommon =1.2.0 =hfd05255_1
+    - libbrotlidec =1.2.0 =hfd05255_1
+    - libbrotlienc =1.2.0 =hfd05255_1
     - libcblas =3.11.0 =2_h2a3cdd5_mkl
     - libclang13 =21.1.6 =default_ha2db4b5_0
     - libdeflate =1.25 =h51727cc_0
@@ -148,9 +148,9 @@ requirements:
     - libffi =3.4.6 =h537db12_1
     - libfreetype =2.14.1 =h57928b3_0
     - libfreetype6 =2.14.1 =hdbac1cb_0
-    - libgcc =15.2.0 =h1383e82_7
+    - libgcc =15.2.0 =h8ee18e1_12
     - libglib =2.84.3 =h1c1036b_0
-    - libgomp =15.2.0 =h1383e82_7
+    - libgomp =15.2.0 =h8ee18e1_12
     - libhwloc =2.12.1 =default_h88281d1_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3

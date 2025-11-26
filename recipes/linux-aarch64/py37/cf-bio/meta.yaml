@@ -43,8 +43,8 @@ requirements:
     - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
     - boost =1.74.0 =py37hcdfda8f_5
     - boost-cpp =1.74.0 =ha1c1135_8
-    - brotli =1.2.0 =hec30622_0
-    - brotli-bin =1.2.0 =hf3d421d_0
+    - brotli =1.2.0 =hd651790_1
+    - brotli-bin =1.2.0 =he30d5cf_1
     - bzip2 =1.0.8 =h4777abc_8
     - ca-certificates =2025.11.12 =hbd8a1cb_0
     - cairo =1.16.0 =hd19fb6e_1014
@@ -90,14 +90,14 @@ requirements:
     - krb5 =1.20.1 =h113d92e_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.14 =h5246980_0
-    - ld_impl_linux-aarch64 =2.45 =bootstrap_h5389653_3
+    - ld_impl_linux-aarch64 =2.45 =bootstrap_h5389653_4
     - lerc =4.0.0 =hfdc4d58_1
     - libasprintf =0.25.1 =h5e0f5ae_0
     - libasprintf-devel =0.25.1 =h5e0f5ae_0
     - libblas =3.9.0 =20_linuxaarch64_openblas
-    - libbrotlicommon =1.2.0 =hd4db518_0
-    - libbrotlidec =1.2.0 =hb159aeb_0
-    - libbrotlienc =1.2.0 =ha5a240b_0
+    - libbrotlicommon =1.2.0 =he30d5cf_1
+    - libbrotlidec =1.2.0 =he30d5cf_1
+    - libbrotlienc =1.2.0 =he30d5cf_1
     - libcap =2.67 =h8246067_0
     - libcblas =3.9.0 =20_linuxaarch64_openblas
     - libclang =15.0.7 =default_hb368394_5
@@ -110,19 +110,19 @@ requirements:
     - libexpat =2.7.3 =hfae3067_0
     - libffi =3.4.6 =he21f813_1
     - libflac =1.4.3 =h2f0025b_0
-    - libgcc =15.2.0 =he277a41_7
-    - libgcc-ng =15.2.0 =he9431aa_7
+    - libgcc =15.2.0 =h8acb6b2_12
+    - libgcc-ng =15.2.0 =he9431aa_12
     - libgcrypt =1.11.1 =h8af1aa0_0
     - libgcrypt-devel =1.11.1 =h86ecc28_0
     - libgcrypt-lib =1.11.1 =h86ecc28_0
     - libgcrypt-tools =1.11.1 =h86ecc28_0
     - libgettextpo =0.25.1 =h5ad3122_0
     - libgettextpo-devel =0.25.1 =h5ad3122_0
-    - libgfortran =15.2.0 =he9431aa_7
-    - libgfortran-ng =15.2.0 =he9431aa_7
-    - libgfortran5 =15.2.0 =h87db57e_7
+    - libgfortran =15.2.0 =he9431aa_12
+    - libgfortran-ng =15.2.0 =he9431aa_12
+    - libgfortran5 =15.2.0 =h1b7bec0_12
     - libglib =2.80.2 =h34bac0b_0
-    - libgomp =15.2.0 =he277a41_7
+    - libgomp =15.2.0 =h8acb6b2_12
     - libgpg-error =1.55 =h5ad3122_0
     - libiconv =1.18 =h90929bb_2
     - liblapack =3.9.0 =20_linuxaarch64_openblas
@@ -139,8 +139,8 @@ requirements:
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
     - libsqlite =3.46.0 =hf51ef55_0
-    - libstdcxx =15.2.0 =h3f4de04_7
-    - libstdcxx-ng =15.2.0 =hf1166c9_7
+    - libstdcxx =15.2.0 =hef695bb_12
+    - libstdcxx-ng =15.2.0 =hdbbeba8_12
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.4.0 =hfcd36d1_5
     - libtool =2.5.4 =h5ad3122_0

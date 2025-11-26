@@ -40,8 +40,8 @@ requirements:
     - _openmp_mutex =4.5 =2_gnu
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - blosc =1.21.6 =hfd34d9b_1
-    - brotli =1.2.0 =h17ff524_0
-    - brotli-bin =1.2.0 =h6910e44_0
+    - brotli =1.2.0 =h2d644bc_1
+    - brotli-bin =1.2.0 =hfd05255_1
     - bzip2 =1.0.8 =h0ad9c76_8
     - ca-certificates =2025.11.12 =h4c7d964_0
     - cached-property =1.5.2 =hd8ed1ab_1
@@ -104,9 +104,9 @@ requirements:
     - libblas =3.11.0 =2_hf2e6a31_mkl
     - libboost =1.86.0 =h9dfe17d_4
     - libboost-python =1.86.0 =py39h8f1c5a3_3
-    - libbrotlicommon =1.2.0 =hc82b238_0
-    - libbrotlidec =1.2.0 =h431afc6_0
-    - libbrotlienc =1.2.0 =ha521d6b_0
+    - libbrotlicommon =1.2.0 =hfd05255_1
+    - libbrotlidec =1.2.0 =hfd05255_1
+    - libbrotlienc =1.2.0 =hfd05255_1
     - libcblas =3.11.0 =2_h2a3cdd5_mkl
     - libclang13 =21.1.6 =default_ha2db4b5_0
     - libcurl =8.17.0 =h43ecb02_0
@@ -115,9 +115,9 @@ requirements:
     - libffi =3.5.2 =h52bdfb6_0
     - libfreetype =2.14.1 =h57928b3_0
     - libfreetype6 =2.14.1 =hdbac1cb_0
-    - libgcc =15.2.0 =h1383e82_7
+    - libgcc =15.2.0 =h8ee18e1_12
     - libglib =2.84.0 =h7025463_0
-    - libgomp =15.2.0 =h1383e82_7
+    - libgomp =15.2.0 =h8ee18e1_12
     - libhwloc =2.12.1 =default_h88281d1_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3

@@ -36,13 +36,13 @@ requirements:
     - scipy =1.10.1 =py38h9cf86d3_3
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
 
-    # 209 secondary packages :
+    # 210 secondary packages :
     - appnope =0.1.4 =pyhd8ed1ab_0
     - asttokens =3.0.0 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - blosc =1.21.6 =hd145fbb_1
-    - brotli =1.2.0 =hb27157a_0
-    - brotli-bin =1.2.0 =h5c1846c_0
+    - brotli =1.2.0 =hf139dec_1
+    - brotli-bin =1.2.0 =h8616949_1
     - brotli-python =1.0.9 =py38h4cd09af_8
     - bzip2 =1.0.8 =h500dc9f_8
     - c-ares =1.34.5 =hf13058a_0
@@ -108,9 +108,9 @@ requirements:
     - libblas =3.9.0 =20_osx64_openblas
     - libboost =1.84.0 =hf0da243_7
     - libboost-python =1.84.0 =py38ha02b945_5
-    - libbrotlicommon =1.2.0 =h105ed1c_0
-    - libbrotlidec =1.2.0 =h660c9da_0
-    - libbrotlienc =1.2.0 =h2338291_0
+    - libbrotlicommon =1.2.0 =h8616949_1
+    - libbrotlidec =1.2.0 =h8616949_1
+    - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =21.1.0 =default_h7f9524c_1
@@ -123,8 +123,9 @@ requirements:
     - libffi =3.5.2 =h750e83c_0
     - libfreetype =2.14.1 =h694c41f_0
     - libfreetype6 =2.14.1 =h6912278_0
-    - libgfortran =15.2.0 =h306097a_1
-    - libgfortran5 =15.2.0 =h336fb69_1
+    - libgcc =15.2.0 =h08519bb_12
+    - libgfortran =15.2.0 =h7e5c614_12
+    - libgfortran5 =15.2.0 =hd16e46c_12
     - libglib =2.86.2 =hf241ffe_1
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1

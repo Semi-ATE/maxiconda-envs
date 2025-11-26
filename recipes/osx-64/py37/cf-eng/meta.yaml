@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.2 =pyhca7485f_0
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
 
-    # 102 secondary packages :
+    # 103 secondary packages :
     - appnope =0.1.4 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_4
@@ -67,8 +67,9 @@ requirements:
     - libcxx =21.1.6 =h3d58e20_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libffi =3.4.6 =h281671d_1
-    - libgfortran =15.2.0 =h306097a_1
-    - libgfortran5 =15.2.0 =h336fb69_1
+    - libgcc =15.2.0 =h08519bb_12
+    - libgfortran =15.2.0 =h7e5c614_12
+    - libgfortran5 =15.2.0 =hd16e46c_12
     - libglib =2.86.0 =h7cafd41_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1

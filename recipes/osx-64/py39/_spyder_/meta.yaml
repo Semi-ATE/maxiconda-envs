@@ -35,7 +35,7 @@ requirements:
     - spyder =6.0.8 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 286 secondary packages :
+    # 287 secondary packages :
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.12.15 =py39h2753485_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -59,8 +59,8 @@ requirements:
     - black =25.1.0 =pyha5154f8_0
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.2.0 =hb27157a_0
-    - brotli-bin =1.2.0 =h5c1846c_0
+    - brotli =1.2.0 =hf139dec_1
+    - brotli-bin =1.2.0 =h8616949_1
     - brotli-python =1.0.9 =py39h7a8716b_8
     - bzip2 =1.0.8 =h500dc9f_8
     - ca-certificates =2025.11.12 =hbd8a1cb_0
@@ -131,9 +131,9 @@ requirements:
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
     - libblas =3.11.0 =2_he492b99_openblas
-    - libbrotlicommon =1.2.0 =h105ed1c_0
-    - libbrotlidec =1.2.0 =h660c9da_0
-    - libbrotlienc =1.2.0 =h2338291_0
+    - libbrotlicommon =1.2.0 =h8616949_1
+    - libbrotlidec =1.2.0 =h8616949_1
+    - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.11.0 =2_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_15
     - libclang13 =21.1.6 =default_h7f9524c_0
@@ -144,8 +144,9 @@ requirements:
     - libffi =3.5.2 =h750e83c_0
     - libfreetype =2.14.1 =h694c41f_0
     - libfreetype6 =2.14.1 =h6912278_0
-    - libgfortran =15.2.0 =h306097a_1
-    - libgfortran5 =15.2.0 =h336fb69_1
+    - libgcc =15.2.0 =h08519bb_12
+    - libgfortran =15.2.0 =h7e5c614_12
+    - libgfortran5 =15.2.0 =hd16e46c_12
     - libglib =2.86.2 =hf241ffe_1
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1

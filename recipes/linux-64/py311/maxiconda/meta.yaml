@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 562 secondary packages :
+    # 563 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -86,13 +86,13 @@ requirements:
     - attr =2.5.2 =h39aace5_0
     - attrs =25.4.0 =pyh71513ae_0
     - babel =2.17.0 =pyhd8ed1ab_0
-    - binutils_impl_linux-64 =2.45 =bootstrap_h59bd682_3
+    - binutils_impl_linux-64 =2.45 =default_hfdba357_104
     - bleach =6.3.0 =pyhcf101f3_0
     - bleach-with-css =6.3.0 =h5f6438b_0
     - boltons =25.0.0 =pyhd8ed1ab_0
-    - brotli =1.2.0 =h41a2e66_0
-    - brotli-bin =1.2.0 =hf2c8021_0
-    - brotli-python =1.2.0 =py311h7c6b74e_0
+    - brotli =1.2.0 =hed03a55_1
+    - brotli-bin =1.2.0 =hb03c661_1
+    - brotli-python =1.2.0 =py311h66f275b_1
     - bwidget =1.10.1 =ha770c72_1
     - bzip2 =1.0.8 =hda65f42_8
     - c-ares =1.34.5 =hb9d3cd8_0
@@ -107,8 +107,8 @@ requirements:
     - cloudpickle =3.1.2 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - conda =25.9.1 =py311h38be061_0
-    - conda-libmamba-solver =25.4.0 =pyhd8ed1ab_0
+    - conda =25.11.0 =py311h38be061_0
+    - conda-libmamba-solver =25.11.0 =pyhd8ed1ab_0
     - conda-package-handling =2.4.0 =pyh7900ff3_2
     - conda-package-streaming =0.12.0 =pyhd8ed1ab_0
     - conda-recipe-manager =0.5.0 =pyhd8ed1ab_0
@@ -143,11 +143,11 @@ requirements:
     - fribidi =1.0.16 =hb03c661_0
     - frozendict =2.4.7 =py311h49ec1c0_0
     - frozenlist =1.7.0 =py311h52bc045_0
-    - gcc_impl_linux-64 =15.2.0 =hcacfade_7
+    - gcc_impl_linux-64 =15.2.0 =h065a4ff_12
     - gdk-pixbuf =2.44.4 =h2b0a6b4_0
     - gettext =0.25.1 =h3f43e3d_1
     - gettext-tools =0.25.1 =h3f43e3d_1
-    - gfortran_impl_linux-64 =15.2.0 =h1b0a18f_7
+    - gfortran_impl_linux-64 =15.2.0 =h281d09f_12
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.45 =pyhff2d567_0
     - glib =2.86.2 =hbcf1ec1_0
@@ -162,7 +162,7 @@ requirements:
     - gstreamer =1.24.11 =hc37bda9_0
     - gtk3 =3.24.43 =h993cebd_6
     - gts =0.7.6 =h977cf35_4
-    - gxx_impl_linux-64 =15.2.0 =h54ccb8d_7
+    - gxx_impl_linux-64 =15.2.0 =hda75c37_12
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.3.0 =pyhcf101f3_0
     - harfbuzz =12.2.0 =h15599e2_0
@@ -195,22 +195,22 @@ requirements:
     - jupyterlab =4.5.0 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.0 =pyhcf101f3_0
-    - kernel-headers_linux-64 =6.12.0 =he073ed8_2
+    - kernel-headers_linux-64 =6.12.0 =he073ed8_3
     - keyutils =1.6.3 =hb9d3cd8_0
     - kiwisolver =1.4.9 =py311h724c32c_2
     - krb5 =1.21.3 =h659f571_0
     - lame =3.100 =h166bdaf_1003
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.17 =h717163a_0
-    - ld_impl_linux-64 =2.45 =bootstrap_ha15bf96_3
+    - ld_impl_linux-64 =2.45 =default_hbd61a6d_104
     - lerc =4.0.0 =h0aef613_1
     - libarchive =3.8.2 =gpl_h7be2006_100
     - libasprintf =0.25.1 =h3f43e3d_1
     - libasprintf-devel =0.25.1 =h3f43e3d_1
     - libblas =3.11.0 =2_h4a7cf45_openblas
-    - libbrotlicommon =1.2.0 =h09219d5_0
-    - libbrotlidec =1.2.0 =hd53d788_0
-    - libbrotlienc =1.2.0 =h02bd7ab_0
+    - libbrotlicommon =1.2.0 =hb03c661_1
+    - libbrotlidec =1.2.0 =hb03c661_1
+    - libbrotlienc =1.2.0 =hb03c661_1
     - libcap =2.77 =h3ff7636_0
     - libcblas =3.11.0 =2_h0358290_openblas
     - libclang-cpp21.1 =21.1.6 =default_h99862b1_0
@@ -229,22 +229,22 @@ requirements:
     - libflac =1.4.3 =h59595ed_0
     - libfreetype =2.14.1 =ha770c72_0
     - libfreetype6 =2.14.1 =h73754d4_0
-    - libgcc =15.2.0 =h767d61c_7
-    - libgcc-devel_linux-64 =15.2.0 =h73f6952_107
-    - libgcc-ng =15.2.0 =h69a702a_7
+    - libgcc =15.2.0 =he0feb66_12
+    - libgcc-devel_linux-64 =15.2.0 =hcc6f6b0_112
+    - libgcc-ng =15.2.0 =h69a702a_12
     - libgd =2.3.3 =h6f5c62b_11
     - libgettextpo =0.25.1 =h3f43e3d_1
     - libgettextpo-devel =0.25.1 =h3f43e3d_1
-    - libgfortran =15.2.0 =h69a702a_7
-    - libgfortran-ng =15.2.0 =h69a702a_7
-    - libgfortran5 =15.2.0 =hcd61629_7
+    - libgfortran =15.2.0 =h69a702a_12
+    - libgfortran-ng =15.2.0 =h69a702a_12
+    - libgfortran5 =15.2.0 =h68bc16d_12
     - libgl =1.7.0 =ha4b6fd6_2
     - libgl-devel =1.7.0 =ha4b6fd6_2
     - libglib =2.86.2 =h32235b2_0
     - libglvnd =1.7.0 =ha4b6fd6_2
     - libglx =1.7.0 =ha4b6fd6_2
     - libglx-devel =1.7.0 =ha4b6fd6_2
-    - libgomp =15.2.0 =h767d61c_7
+    - libgomp =15.2.0 =he0feb66_12
     - libiconv =1.18 =h3b78370_2
     - libjpeg-turbo =3.1.2 =hb03c661_0
     - liblapack =3.11.0 =2_h47877c9_openblas
@@ -263,15 +263,15 @@ requirements:
     - libpng =1.6.51 =h421ea60_0
     - libpq =18.1 =h5c52fec_1
     - librsvg =2.60.0 =h61e6d4b_0
-    - libsanitizer =15.2.0 =hb13aed2_7
+    - libsanitizer =15.2.0 =h90f66d4_12
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.20 =h4ab18f5_0
     - libsolv =0.7.35 =h9463b59_0
     - libsqlite =3.51.0 =hee844dc_0
     - libssh2 =1.11.1 =hcf80075_0
-    - libstdcxx =15.2.0 =h8f9b012_7
-    - libstdcxx-devel_linux-64 =15.2.0 =h73f6952_107
-    - libstdcxx-ng =15.2.0 =h4852527_7
+    - libstdcxx =15.2.0 =h934c35e_12
+    - libstdcxx-devel_linux-64 =15.2.0 =hd446a21_112
+    - libstdcxx-ng =15.2.0 =hdf11a46_12
     - libsystemd0 =258.2 =h6569c3e_1
     - libtiff =4.7.1 =h9d88235_1
     - libuuid =2.41.2 =he9a06e4_0
@@ -299,6 +299,7 @@ requirements:
     - mpfr =4.2.1 =h90cbb55_3
     - mpg123 =1.32.9 =hc50e24c_0
     - mpmath =1.3.0 =pyhd8ed1ab_1
+    - msgpack-python =1.1.2 =py311hdf67eae_1
     - multidict =6.6.3 =py311h2dc5d0c_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.10.2 =pyhd8ed1ab_0
@@ -306,7 +307,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h2d0b736_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - networkx =3.5 =pyhe01879c_0
+    - networkx =3.6 =pyhcf101f3_0
     - nlohmann_json-abi =3.12.0 =h0f90c79_1
     - notebook =7.5.0 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
@@ -323,7 +324,7 @@ requirements:
     - parso =0.8.5 =pyhcf101f3_0
     - pcre2 =10.46 =h1321c63_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
-    - pillow =12.0.0 =py311h07c5bb8_0
+    - pillow =12.0.0 =py311h267f063_1
     - pip =25.3 =pyh8b19718_0
     - pixman =0.46.4 =h54a6638_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
@@ -567,7 +568,7 @@ requirements:
     - soupsieve =2.8 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
-    - sysroot_linux-64 =2.39 =hc4b9eeb_2
+    - sysroot_linux-64 =2.39 =hc4b9eeb_3
     - terminado =0.18.1 =pyh0d859eb_0
     - tinycss2 =1.5.0 =pyhcf101f3_0
     - tk =8.6.13 =noxft_ha0e22de_103

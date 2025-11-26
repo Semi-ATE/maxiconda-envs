@@ -46,13 +46,12 @@ requirements:
     - statsmodels =0.13.2 =py37h4de8ad1_0
     - xgboost =2.0.3 =cpu_pyhb8f9a19_4
 
-    # 308 secondary packages :
+    # 284 secondary packages :
     - _py-xgboost-mutex =2.0 =cpu_0
     - alembic =1.13.1 =pyhd8ed1ab_0
     - amqp =5.2.0 =pyhd8ed1ab_1
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - appnope =0.1.4 =pyhd8ed1ab_0
-    - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =24.2.0 =pyh71513ae_0
     - automat =24.8.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -62,14 +61,13 @@ requirements:
     - billiard =3.6.4.0 =py37h994c40b_2
     - blinker =1.6.3 =pyhd8ed1ab_0
     - boruta_py =0.3 =py_0
-    - brotli =1.2.0 =hb27157a_0
-    - brotli-bin =1.2.0 =h5c1846c_0
+    - brotli =1.2.0 =hf139dec_1
+    - brotli-bin =1.2.0 =h8616949_1
     - brotli-python =1.0.9 =py37h0582d14_7
     - bzip2 =1.0.8 =h500dc9f_8
     - ca-certificates =2025.11.12 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
-    - cairo =1.16.0 =h904041c_1014
     - catalogue =1.0.0 =py37hf985489_3
     - celery =5.2.7 =pyhd8ed1ab_0
     - certifi =2024.8.30 =pyhd8ed1ab_0
@@ -97,39 +95,24 @@ requirements:
     - decorator =5.1.1 =pyhd8ed1ab_0
     - docker-py =7.0.0 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - expat =2.7.3 =heffb93a_0
     - filelock =3.16.1 =pyhd8ed1ab_0
     - flask =2.2.5 =pyhd8ed1ab_0
-    - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
-    - font-ttf-inconsolata =3.000 =h77eed37_0
-    - font-ttf-source-code-pro =2.038 =h77eed37_0
-    - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.14.2 =h5bb23bf_0
-    - fonts-conda-ecosystem =1 =0
-    - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.38.0 =py37h8052db5_0
     - freetype =2.12.1 =h60636b9_2
-    - fribidi =1.0.16 =h8616949_0
     - funcy =2.0 =pyhd8ed1ab_0
     - future =0.18.2 =py37hf985489_5
-    - gdk-pixbuf =2.42.8 =h3648f77_1
     - gensim =3.8.3 =py37hd8d24ac_4
     - gettext =0.25.1 =he52a196_1
     - gettext-tools =0.25.1 =h3184127_1
-    - giflib =5.2.2 =h10d778d_0
     - gitdb =4.0.11 =pyhd8ed1ab_0
     - gitpython =3.1.43 =pyhd8ed1ab_0
     - glib =2.80.2 =h0f68cf7_0
     - glib-tools =2.80.2 =hc27840c_0
-    - graphite2 =1.3.14 =h21dd04a_2
-    - graphviz =7.0.5 =hc51f7b9_0
+    - graphviz =2.42.3 =h98dfb87_0
     - greenlet =1.1.3 =py37hac51a3e_0
     - gst-plugins-base =1.22.9 =h3fb38fc_1
     - gstreamer =1.22.9 =hf63bbb8_1
-    - gtk2 =2.24.33 =h7c1209e_2
-    - gts =0.7.6 =h53e17e3_4
     - gunicorn =20.1.0 =py37hf985489_2
-    - harfbuzz =6.0.0 =h08f8713_0
     - htmlmin =0.1.12 =pyhca7485f_2
     - hyperlink =21.0.0 =pyhd3deb0d_0
     - icu =70.1 =h96cf925_0
@@ -164,22 +147,21 @@ requirements:
     - libasprintf =0.25.1 =h3184127_1
     - libasprintf-devel =0.25.1 =h3184127_1
     - libblas =3.9.0 =20_osx64_openblas
-    - libbrotlicommon =1.2.0 =h105ed1c_0
-    - libbrotlidec =1.2.0 =h660c9da_0
-    - libbrotlienc =1.2.0 =h2338291_0
+    - libbrotlicommon =1.2.0 =h8616949_1
+    - libbrotlidec =1.2.0 =h8616949_1
+    - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang =13.0.1 =default_h2cdd939_10
     - libcxx =21.1.6 =h3d58e20_0
     - libcxx-devel =16.0.6 =h8f8a49f_2
     - libdeflate =1.14 =hb7f2c08_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
-    - libexpat =2.7.3 =heffb93a_0
     - libffi =3.4.6 =h281671d_1
-    - libgd =2.3.3 =h1e214de_3
+    - libgcc =15.2.0 =h08519bb_12
     - libgettextpo =0.25.1 =h3184127_1
     - libgettextpo-devel =0.25.1 =h3184127_1
-    - libgfortran =15.2.0 =h306097a_1
-    - libgfortran5 =15.2.0 =h336fb69_1
+    - libgfortran =15.2.0 =h7e5c614_12
+    - libgfortran5 =15.2.0 =hd16e46c_12
     - libglib =2.80.2 =h0f68cf7_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
@@ -187,7 +169,6 @@ requirements:
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm11 =11.1.0 =h8fb7429_5
     - libllvm13 =13.0.1 =h64f94b2_2
-    - libltdl =2.4.3a =h240833e_0
     - liblzma =5.8.1 =hd471939_2
     - liblzma-devel =5.8.1 =hd471939_2
     - libogg =1.3.5 =he3325bb_1
@@ -196,14 +177,11 @@ requirements:
     - libpng =1.6.43 =h92b6c6a_0
     - libpq =15.3 =h9dc22bb_1
     - libprotobuf =3.21.8 =hbc0c0cd_0
-    - librsvg =2.54.4 =h3d48ba6_0
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.46.0 =h1b8f9f3_0
     - libtiff =4.4.0 =h6268bbc_5
-    - libtool =2.5.4 =h240833e_0
     - libvorbis =1.3.7 =ha059160_2
-    - libwebp =1.2.4 =hfa4350a_0
-    - libwebp-base =1.2.4 =h775f41a_0
+    - libwebp-base =1.6.0 =hb807250_0
     - libxcb =1.13 =h0d85af4_1004
     - libxgboost =2.0.3 =cpu_h7ae7b8f_4
     - libxml2 =2.10.3 =h201ad9d_4
@@ -238,7 +216,6 @@ requirements:
     - openssl =3.1.8 =hc426f3f_0
     - packaging =23.2 =pyhd8ed1ab_0
     - pandas-profiling =3.6.3 =pyhd8ed1ab_0
-    - pango =1.50.14 =hbd9bf65_0
     - paramiko =3.5.0 =pyhd8ed1ab_0
     - parsel =1.9.1 =pyhd8ed1ab_1
     - parso =0.8.4 =pyhd8ed1ab_0
@@ -249,7 +226,6 @@ requirements:
     - pickleshare =0.7.5 =py_1003
     - pillow =9.2.0 =py37ha6ba2b9_2
     - pip =24.0 =pyhd8ed1ab_0
-    - pixman =0.46.4 =ha059160_1
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - plac =0.9.6 =py_1
     - ply =3.11 =pyhd8ed1ab_2

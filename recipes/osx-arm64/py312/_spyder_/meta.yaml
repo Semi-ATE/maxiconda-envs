@@ -32,10 +32,10 @@ requirements:
     - pyqt =5.15.11 =py312h6612b97_2
     - pyqtwebengine =5.15.11 =py312h1a0e663_2
     - scipy =1.16.3 =py312ha6bbf71_1
-    - spyder =6.1.0 =hd8ed1ab_0
+    - spyder =6.1.1 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 292 secondary packages :
+    # 293 secondary packages :
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.13.2 =py312he52fbff_0
@@ -59,9 +59,9 @@ requirements:
     - black =25.1.0 =pyh866005b_0
     - bleach =6.3.0 =pyhcf101f3_0
     - bleach-with-css =6.3.0 =h5f6438b_0
-    - brotli =1.2.0 =hca488c2_0
-    - brotli-bin =1.2.0 =hce9b42c_0
-    - brotli-python =1.2.0 =py312hcae0c51_0
+    - brotli =1.2.0 =h7d5ae5b_1
+    - brotli-bin =1.2.0 =hc919400_1
+    - brotli-python =1.2.0 =py312h0dfefe5_1
     - bzip2 =1.0.8 =hd037594_8
     - ca-certificates =2025.11.12 =hbd8a1cb_0
     - cattrs =25.3.0 =pyhd8ed1ab_0
@@ -119,7 +119,7 @@ requirements:
     - jaraco.context =6.0.1 =pyhd8ed1ab_0
     - jaraco.functools =4.3.0 =pyhd8ed1ab_0
     - jedi =0.19.2 =pyhd8ed1ab_1
-    - jellyfish =1.1.3 =py312hcd83bfe_0
+    - jellyfish =1.2.1 =py312h7a0e18e_1
     - jinja2 =3.1.6 =pyhd8ed1ab_0
     - jsonschema =4.25.1 =pyhe01879c_0
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
@@ -132,9 +132,9 @@ requirements:
     - lcms2 =2.17 =h7eeda09_0
     - lerc =4.0.0 =hd64df32_1
     - libblas =3.11.0 =2_h51639a9_openblas
-    - libbrotlicommon =1.2.0 =h87ba0bc_0
-    - libbrotlidec =1.2.0 =h95a88de_0
-    - libbrotlienc =1.2.0 =hb1b9735_0
+    - libbrotlicommon =1.2.0 =hc919400_1
+    - libbrotlidec =1.2.0 =hc919400_1
+    - libbrotlienc =1.2.0 =hc919400_1
     - libcblas =3.11.0 =2_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_h73dfc95_15
     - libclang13 =21.1.6 =default_h6e8f826_0
@@ -145,8 +145,9 @@ requirements:
     - libffi =3.5.2 =he5f378a_0
     - libfreetype =2.14.1 =hce30654_0
     - libfreetype6 =2.14.1 =h6da58f4_0
-    - libgfortran =15.2.0 =hfcf01ff_1
-    - libgfortran5 =15.2.0 =h742603c_1
+    - libgcc =15.2.0 =hcbb3090_12
+    - libgfortran =15.2.0 =h07b0088_12
+    - libgfortran5 =15.2.0 =hdae7583_12
     - libglib =2.86.2 =hfe11c1f_1
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
@@ -210,7 +211,7 @@ requirements:
     - pcre2 =10.47 =h30297fc_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =12.0.0 =py312h16e1670_0
+    - pillow =12.0.0 =py312h261a3e5_1
     - pip =25.3 =pyh8b19718_0
     - platformdirs =4.5.0 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhd8ed1ab_0
@@ -232,7 +233,7 @@ requirements:
     - pylint =3.3.9 =pyhcf101f3_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
-    - pynacl =1.6.0 =py312h4409184_0
+    - pynacl =1.6.1 =py312h4409184_0
     - pyobjc-core =12.0 =py312h19bbe71_2
     - pyobjc-framework-cocoa =12.0 =py312h1de3e18_2
     - pyobjc-framework-coreservices =12.0 =py312h4409184_0
@@ -291,7 +292,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
-    - spyder-base =6.1.0 =osx_pyh1a5313d_0
+    - spyder-base =6.1.1 =osx_pyh1a5313d_0
     - spyder-kernels =3.1.2 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.6 =pyhb6d5dde_0

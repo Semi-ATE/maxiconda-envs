@@ -39,8 +39,8 @@ requirements:
     - alsa-lib =1.2.14 =h86ecc28_0
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - attr =2.5.1 =h4e544f5_1
-    - brotli =1.2.0 =hec30622_0
-    - brotli-bin =1.2.0 =hf3d421d_0
+    - brotli =1.2.0 =hd651790_1
+    - brotli-bin =1.2.0 =he30d5cf_1
     - bzip2 =1.0.8 =h4777abc_8
     - ca-certificates =2025.11.12 =hbd8a1cb_0
     - cairo =1.18.4 =h83712da_0
@@ -91,16 +91,16 @@ requirements:
     - krb5 =1.21.3 =h50a48e9_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.17 =hc88f144_0
-    - ld_impl_linux-aarch64 =2.45 =default_1234567_3
+    - ld_impl_linux-aarch64 =2.45 =default_h1979696_104
     - lerc =4.0.0 =hfdc4d58_1
     - libasprintf =0.25.1 =h5e0f5ae_0
     - libasprintf-devel =0.25.1 =h5e0f5ae_0
     - libblas =3.11.0 =2_haddc8a3_openblas
     - libboost =1.86.0 =h6339299_4
     - libboost-python =1.86.0 =py39hd246915_3
-    - libbrotlicommon =1.2.0 =hd4db518_0
-    - libbrotlidec =1.2.0 =hb159aeb_0
-    - libbrotlienc =1.2.0 =ha5a240b_0
+    - libbrotlicommon =1.2.0 =he30d5cf_1
+    - libbrotlidec =1.2.0 =he30d5cf_1
+    - libbrotlienc =1.2.0 =he30d5cf_1
     - libcap =2.77 =h68e9139_0
     - libcblas =3.11.0 =2_hd72aa62_openblas
     - libclang-cpp20.1 =20.1.8 =default_he95a3c9_4
@@ -116,18 +116,18 @@ requirements:
     - libflac =1.4.3 =h2f0025b_0
     - libfreetype =2.14.1 =h8af1aa0_0
     - libfreetype6 =2.14.1 =hdae7a39_0
-    - libgcc =15.2.0 =he277a41_7
-    - libgcc-ng =15.2.0 =he9431aa_7
+    - libgcc =15.2.0 =h8acb6b2_12
+    - libgcc-ng =15.2.0 =he9431aa_12
     - libgettextpo =0.25.1 =h5ad3122_0
     - libgettextpo-devel =0.25.1 =h5ad3122_0
-    - libgfortran =15.2.0 =he9431aa_7
-    - libgfortran-ng =15.2.0 =he9431aa_7
-    - libgfortran5 =15.2.0 =h87db57e_7
+    - libgfortran =15.2.0 =he9431aa_12
+    - libgfortran-ng =15.2.0 =he9431aa_12
+    - libgfortran5 =15.2.0 =h1b7bec0_12
     - libgl =1.7.0 =hd24410f_2
     - libglib =2.84.0 =hc486b8e_0
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
-    - libgomp =15.2.0 =he277a41_7
+    - libgomp =15.2.0 =h8acb6b2_12
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.2 =he30d5cf_0
     - liblapack =3.11.0 =2_h88aeb00_openblas
@@ -147,8 +147,8 @@ requirements:
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.20 =h68df207_0
     - libsqlite =3.51.0 =h022381a_0
-    - libstdcxx =15.2.0 =h3f4de04_7
-    - libstdcxx-ng =15.2.0 =hf1166c9_7
+    - libstdcxx =15.2.0 =hef695bb_12
+    - libstdcxx-ng =15.2.0 =hdbbeba8_12
     - libsystemd0 =258.2 =h8c5a66d_1
     - libtiff =4.7.1 =hdb009f0_1
     - libuuid =2.41.2 =h3e4203c_0
