@@ -36,7 +36,8 @@ requirements:
     - scipy =1.13.1 =py39h3d5391c_0
     - spyder-kernels =3.1.2 =unix_pyh707e725_0
 
-    # 196 secondary packages :
+    # 197 secondary packages :
+    - _openmp_mutex =4.5 =7_kmp_llvm
     - appnope =0.1.4 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - blosc =1.21.6 =h7dd00d9_1
@@ -117,9 +118,9 @@ requirements:
     - libffi =3.5.2 =he5f378a_0
     - libfreetype =2.14.1 =hce30654_0
     - libfreetype6 =2.14.1 =h6da58f4_0
-    - libgcc =15.2.0 =hcbb3090_12
-    - libgfortran =15.2.0 =h07b0088_12
-    - libgfortran5 =15.2.0 =hdae7583_12
+    - libgcc =15.2.0 =hcbb3090_13
+    - libgfortran =15.2.0 =h07b0088_13
+    - libgfortran5 =15.2.0 =hdae7583_13
     - libglib =2.86.2 =hfe11c1f_1
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0

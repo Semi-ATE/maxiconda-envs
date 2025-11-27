@@ -63,7 +63,8 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 480 secondary packages :
+    # 481 secondary packages :
+    - _openmp_mutex =4.5 =7_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
     - aiosignal =1.3.1 =pyhd8ed1ab_0
@@ -204,11 +205,11 @@ requirements:
     - libffi =3.5.2 =he5f378a_0
     - libfreetype =2.14.1 =hce30654_0
     - libfreetype6 =2.14.1 =h6da58f4_0
-    - libgcc =15.2.0 =hcbb3090_12
+    - libgcc =15.2.0 =hcbb3090_13
     - libgettextpo =0.25.1 =h493aca8_0
-    - libgfortran =15.2.0 =h07b0088_12
+    - libgfortran =15.2.0 =h07b0088_13
     - libgfortran-devel_osx-arm64 =14.3.0 =hc965647_1
-    - libgfortran5 =15.2.0 =hdae7583_12
+    - libgfortran5 =15.2.0 =hdae7583_13
     - libglib =2.86.2 =hfe11c1f_1
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0

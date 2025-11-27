@@ -35,7 +35,8 @@ requirements:
     - spyder =5.3.3 =py37hf985489_0
     - sympy =1.10.1 =py37hf985489_1
 
-    # 251 secondary packages :
+    # 252 secondary packages :
+    - _openmp_mutex =4.5 =7_kmp_llvm
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - applaunchservices =0.3.0 =pyhd8ed1ab_2
     - appnope =0.1.4 =pyhd8ed1ab_0
@@ -126,11 +127,11 @@ requirements:
     - libffi =3.4.6 =h281671d_1
     - libfreetype =2.14.1 =h694c41f_0
     - libfreetype6 =2.14.1 =h6912278_0
-    - libgcc =15.2.0 =h08519bb_12
+    - libgcc =15.2.0 =h08519bb_13
     - libgettextpo =0.25.1 =h3184127_1
     - libgettextpo-devel =0.25.1 =h3184127_1
-    - libgfortran =15.2.0 =h7e5c614_12
-    - libgfortran5 =15.2.0 =hd16e46c_12
+    - libgfortran =15.2.0 =h7e5c614_13
+    - libgfortran5 =15.2.0 =hd16e46c_13
     - libglib =2.86.0 =h7cafd41_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
