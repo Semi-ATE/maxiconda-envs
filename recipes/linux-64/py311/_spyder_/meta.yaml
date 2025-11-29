@@ -101,7 +101,7 @@ requirements:
     - fontconfig =2.15.0 =h7e30c49_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
-    - fonttools =4.60.1 =py311h3778330_0
+    - fonttools =4.61.0 =py311h3778330_0
     - freetype =2.14.1 =ha770c72_0
     - frozenlist =1.7.0 =py311h52bc045_0
     - fzf =0.67.0 =h6138981_0
@@ -201,7 +201,7 @@ requirements:
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.20 =h4ab18f5_0
     - libspatialindex =2.1.0 =he57a185_0
-    - libsqlite =3.51.0 =hee844dc_0
+    - libsqlite =3.51.1 =h0c1763c_0
     - libstdcxx =15.2.0 =h934c35e_14
     - libstdcxx-ng =15.2.0 =hdf11a46_14
     - libsystemd0 =258.2 =h6569c3e_1
@@ -253,7 +253,7 @@ requirements:
     - pcre2 =10.46 =h1321c63_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =12.0.0 =py311h267f063_1
+    - pillow =12.0.0 =py311hf88fc01_2
     - pip =25.3 =pyh8b19718_0
     - pixman =0.46.4 =h54a6638_1
     - platformdirs =4.5.0 =pyhcf101f3_0
@@ -318,7 +318,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.29.0 =py311h902ca64_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.14.6 =h813ae00_0
+    - ruff =0.14.7 =h813ae00_0
     - secretstorage =3.4.1 =py311h38be061_0
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.10.0 =py311h1ddb823_1
@@ -389,7 +389,7 @@ requirements:
     - yarl =1.22.0 =py311h3778330_0
     - zeromq =4.3.5 =h387f397_9
     - zipp =3.23.0 =pyhd8ed1ab_0
-    - zlib-ng =2.2.5 =hde8ca8f_1
+    - zlib-ng =2.3.1 =hde8ca8f_0
     - zstandard =0.25.0 =py311haee01d2_1
     - zstd =1.5.7 =hb8e6e7a_2
 

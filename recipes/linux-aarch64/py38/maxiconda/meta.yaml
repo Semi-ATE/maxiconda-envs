@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.32 =py38h34c6dc0_0
-    - sqlite =3.51.0 =he8854b5_0
+    - sqlite =3.51.1 =he8854b5_0
     - sympy =1.13.3 =pyh2585a3b_104
     - tqdm =4.67.1 =pyhd8ed1ab_0
     - transitions =0.9.2 =pyhd8ed1ab_0
@@ -233,11 +233,11 @@ requirements:
     - libopus =1.5.2 =h86ecc28_0
     - libpciaccess =0.18 =h86ecc28_0
     - libpng =1.6.51 =h1abf092_0
-    - libpq =18.1 =haf03d9f_1
+    - libpq =18.1 =haf03d9f_2
     - libsanitizer =15.2.0 =he19c465_14
     - libsndfile =1.2.2 =h79657aa_1
     - libsodium =1.0.18 =hb9de7d4_1
-    - libsqlite =3.51.0 =h022381a_0
+    - libsqlite =3.51.1 =h022381a_0
     - libssh2 =1.11.1 =h18c354c_0
     - libstdcxx =15.2.0 =hef695bb_14
     - libstdcxx-devel_linux-aarch64 =15.2.0 =ha7b1723_114
@@ -494,13 +494,13 @@ requirements:
     - r-uuid =1.2_1 =r45h0557e7b_1
     - r-vctrs =0.6.5 =r45h08b74da_2
     - r-viridislite =0.4.2 =r45hc72bb7e_3
-    - r-vroom =1.6.6 =r45h08b74da_0
+    - r-vroom =1.6.7 =r45h08b74da_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.54 =r45h08b74da_0
     - r-xml2 =1.5.0 =r45h15e677e_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h0557e7b_1
-    - r-yaml =2.3.10 =r45h0557e7b_1
+    - r-yaml =2.3.11 =r45h0557e7b_0
     - r-zoo =1.8_14 =r45h0557e7b_1
     - rapidfuzz =3.9.6 =py38h8529334_0
     - readline =8.2 =h8382b9d_2

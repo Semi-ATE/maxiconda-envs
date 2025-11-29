@@ -57,14 +57,14 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.32 =py38hc718529_0
-    - sqlite =3.51.0 =hca40e9d_0
+    - sqlite =3.51.1 =h9e4bfbb_0
     - sympy =1.13.3 =pyh2585a3b_104
     - tqdm =4.67.1 =pyhd8ed1ab_0
     - transitions =0.9.2 =pyhd8ed1ab_0
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 483 secondary packages :
+    # 485 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
@@ -94,17 +94,18 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h950ec3b_0
-    - cctools_osx-64 =1024.3 =llvm21_1_h81d60ea_9
+    - cctools_impl_osx-64 =1030.6.3 =llvm21_1_h81d60ea_1
+    - cctools_osx-64 =1030.6.3 =llvm21_1_h8f0d4bb_1
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hc8bcfa4_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
     - clang =21.1.6 =default_h1323312_0
     - clang-21 =21.1.6 =default_h9f74b92_0
-    - clang_impl_osx-64 =21.1.6 =h117f370_25
-    - clang_osx-64 =21.1.6 =h7e5c614_25
+    - clang_impl_osx-64 =21.1.6 =h117f370_26
+    - clang_osx-64 =21.1.6 =h7e5c614_26
     - clangxx =21.1.6 =default_h1c12a56_0
-    - clangxx_impl_osx-64 =21.1.6 =heb9ada7_25
-    - clangxx_osx-64 =21.1.6 =h7e5c614_25
+    - clangxx_impl_osx-64 =21.1.6 =heb9ada7_26
+    - clangxx_osx-64 =21.1.6 =h7e5c614_26
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.1.0 =pyhd8ed1ab_1
     - colorama =0.4.6 =pyhd8ed1ab_0
@@ -183,8 +184,8 @@ requirements:
     - kiwisolver =1.4.5 =py38h15a1a5b_1
     - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.17 =h72f5680_0
-    - ld64 =955.13 =h2eed689_9
-    - ld64_osx-64 =955.13 =llvm21_1_h2cc85ee_9
+    - ld64 =956.6 =llvm21_1_h2eed689_1
+    - ld64_osx-64 =956.6 =llvm21_1_h2cc85ee_1
     - lerc =4.0.0 =hcca01a6_1
     - libasprintf =0.25.1 =h3184127_1
     - libblas =3.9.0 =20_osx64_openblas
@@ -218,7 +219,7 @@ requirements:
     - libjpeg-turbo =3.1.2 =h8616949_0
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
-    - libllvm18 =18.1.8 =default_hc369343_10
+    - libllvm18 =18.1.8 =default_hc369343_11
     - libllvm21 =21.1.6 =h56e7563_0
     - liblzma =5.8.1 =hd471939_2
     - liblzma-devel =5.8.1 =hd471939_2
@@ -228,9 +229,9 @@ requirements:
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.5.2 =he3325bb_0
     - libpng =1.6.51 =h380d223_0
-    - libpq =18.1 =h1e038c5_1
+    - libpq =18.1 =h1e038c5_2
     - libsodium =1.0.18 =hbcb3906_1
-    - libsqlite =3.51.0 =h86bffb9_0
+    - libsqlite =3.51.1 =h6cc646a_0
     - libssh2 =1.11.1 =hed3591d_0
     - libtiff =4.7.1 =ha0a348c_1
     - libuv =1.51.0 =h58003a5_1
@@ -483,13 +484,13 @@ requirements:
     - r-uuid =1.2_1 =r45h735ac91_1
     - r-vctrs =0.6.5 =r45ha730edb_2
     - r-viridislite =0.4.2 =r45hc72bb7e_3
-    - r-vroom =1.6.6 =r45ha730edb_0
+    - r-vroom =1.6.7 =r45ha730edb_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.54 =r45ha730edb_0
     - r-xml2 =1.5.0 =r45hf8ceb01_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h735ac91_1
-    - r-yaml =2.3.10 =r45h735ac91_1
+    - r-yaml =2.3.11 =r45h735ac91_0
     - r-zoo =1.8_14 =r45h735ac91_1
     - rapidfuzz =3.9.6 =py38h8949568_0
     - readline =8.2 =h7cca4af_2
@@ -501,6 +502,7 @@ requirements:
     - ruamel.yaml.clib =0.2.8 =py38hae2e43d_0
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_0
     - rust-std-x86_64-apple-darwin =1.91.1 =h38e4360_0
+    - sdkroot_env_osx-64 =14.5 =hbf94ba6_3
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.3 =pyh31c8845_0
     - setuptools =75.3.0 =pyhd8ed1ab_0
@@ -512,7 +514,7 @@ requirements:
     - soupsieve =2.6 =pyhd8ed1ab_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
     - stdlib-list =0.11.0 =pyhd8ed1ab_0
-    - tapi =1300.6.5 =h390ca13_0
+    - tapi =1600.0.11.8 =h8d8e812_0
     - terminado =0.18.1 =pyh31c8845_0
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =hf689a15_3

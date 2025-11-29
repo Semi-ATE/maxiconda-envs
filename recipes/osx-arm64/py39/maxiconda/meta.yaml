@@ -56,14 +56,14 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.2 =unix_pyh707e725_0
     - sqlalchemy =2.0.43 =py39he7485ab_0
-    - sqlite =3.51.0 =h81ab1b7_0
+    - sqlite =3.51.1 =he8f07e4_0
     - sympy =1.14.0 =pyh2585a3b_105
     - tqdm =4.67.1 =pyhd8ed1ab_1
     - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 476 secondary packages :
+    # 478 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -91,17 +91,18 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h6a3b0d2_0
-    - cctools_osx-arm64 =1024.3 =llvm21_1_haddd2d4_9
+    - cctools_impl_osx-arm64 =1030.6.3 =llvm21_1_haddd2d4_1
+    - cctools_osx-arm64 =1030.6.3 =llvm21_1_h6d92914_1
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h7f933ea_0
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
     - clang =21.1.6 =default_hf9bcbb7_0
     - clang-21 =21.1.6 =default_h489deba_0
-    - clang_impl_osx-arm64 =21.1.6 =hdbf2fcc_25
-    - clang_osx-arm64 =21.1.6 =h07b0088_25
+    - clang_impl_osx-arm64 =21.1.6 =hdbf2fcc_26
+    - clang_osx-arm64 =21.1.6 =h07b0088_26
     - clangxx =21.1.6 =default_h36137df_0
-    - clangxx_impl_osx-arm64 =21.1.6 =h7e475f0_25
-    - clangxx_osx-arm64 =21.1.6 =h07b0088_25
+    - clangxx_impl_osx-arm64 =21.1.6 =h7e475f0_26
+    - clangxx_osx-arm64 =21.1.6 =h07b0088_26
     - click =8.1.8 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -179,8 +180,8 @@ requirements:
     - krb5 =1.21.3 =h237132a_0
     - lark =1.2.2 =pyhd8ed1ab_1
     - lcms2 =2.17 =h7eeda09_0
-    - ld64 =955.13 =h5d6df6c_9
-    - ld64_osx-arm64 =955.13 =llvm21_1_hde6573c_9
+    - ld64 =956.6 =llvm21_1_h5d6df6c_1
+    - ld64_osx-arm64 =956.6 =llvm21_1_hde6573c_1
     - lerc =4.0.0 =hd64df32_1
     - libasprintf =0.25.1 =h493aca8_0
     - libblas =3.11.0 =2_h51639a9_openblas
@@ -214,7 +215,7 @@ requirements:
     - libjpeg-turbo =3.1.2 =hc919400_0
     - liblapack =3.11.0 =2_hd9741b5_openblas
     - libllvm14 =14.0.6 =hd1a9a77_4
-    - libllvm18 =18.1.8 =default_h3f38c9c_10
+    - libllvm18 =18.1.8 =default_h3f38c9c_11
     - libllvm21 =21.1.6 =h8e0c9ce_0
     - liblzma =5.8.1 =h39f12f2_2
     - libnghttp2 =1.67.0 =hc438710_0
@@ -223,9 +224,9 @@ requirements:
     - libopenblas =0.3.30 =openmp_ha158390_3
     - libopus =1.5.2 =h48c0fde_0
     - libpng =1.6.51 =hfab5511_0
-    - libpq =18.1 =h944245b_1
+    - libpq =18.1 =h944245b_2
     - libsodium =1.0.20 =h99b78c6_0
-    - libsqlite =3.51.0 =h8adb53f_0
+    - libsqlite =3.51.1 =h9a5124b_0
     - libssh2 =1.11.1 =h1590b86_0
     - libtiff =4.7.1 =h4030677_1
     - libuv =1.51.0 =h6caf38d_1
@@ -477,13 +478,13 @@ requirements:
     - r-uuid =1.2_1 =r45h6168396_1
     - r-vctrs =0.6.5 =r45hc1cd577_2
     - r-viridislite =0.4.2 =r45hc72bb7e_3
-    - r-vroom =1.6.6 =r45hc1cd577_0
+    - r-vroom =1.6.7 =r45hc1cd577_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.54 =r45hc1cd577_0
     - r-xml2 =1.5.0 =r45h7a605a7_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h6168396_1
-    - r-yaml =2.3.10 =r45h6168396_1
+    - r-yaml =2.3.11 =r45h6168396_0
     - r-zoo =1.8_14 =r45h6168396_1
     - rapidfuzz =3.13.0 =py39h941272d_0
     - readline =8.2 =h1d1bf99_2
@@ -496,6 +497,7 @@ requirements:
     - ruamel.yaml.clib =0.2.8 =py39h57695bc_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-aarch64-apple-darwin =1.91.1 =hf6ec828_0
+    - sdkroot_env_osx-arm64 =14.5 =hfa17104_3
     - send2trash =1.8.3 =pyh31c8845_1
     - setuptools =80.9.0 =pyhff2d567_0
     - sigtool =0.1.3 =h44b9a77_0
@@ -506,7 +508,7 @@ requirements:
     - soupsieve =2.7 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.11.1 =pyhd8ed1ab_0
-    - tapi =1300.6.5 =h03f4b80_0
+    - tapi =1600.0.11.8 =h997e182_0
     - terminado =0.18.1 =pyh31c8845_0
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =h892fb3f_3
