@@ -62,7 +62,7 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - libblas =3.11.0 =2_he492b99_openblas
     - libcblas =3.11.0 =2_h9b27e0a_openblas
-    - libclang-cpp18.1 =18.1.8 =default_hc369343_15
+    - libclang-cpp18.1 =18.1.8 =default_hc369343_16
     - libclang13 =21.1.6 =default_h7f9524c_0
     - libcxx =21.1.6 =h3d58e20_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
@@ -140,7 +140,7 @@ requirements:
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - zeromq =4.3.5 =h6c33b1e_9
     - zipp =3.23.0 =pyhd8ed1ab_0
-    - zstd =1.5.7 =h8210216_2
+    - zstd =1.5.7 =h281d3d1_4
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

@@ -32,7 +32,7 @@ requirements:
     - pyqt =5.15.11 =py310h6c6f83e_2
     - pyqtwebengine =5.15.11 =py310h25763a6_2
     - scipy =1.15.2 =py310hef62574_0
-    - spyder =6.1.1 =hd8ed1ab_0
+    - spyder =6.1.1 =hd8ed1ab_1
     - sympy =1.14.0 =pyh2585a3b_105
 
     # 292 secondary packages :
@@ -137,7 +137,7 @@ requirements:
     - libbrotlidec =1.2.0 =h8616949_1
     - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.11.0 =2_h9b27e0a_openblas
-    - libclang-cpp18.1 =18.1.8 =default_hc369343_15
+    - libclang-cpp18.1 =18.1.8 =default_hc369343_16
     - libclang13 =21.1.6 =default_h7f9524c_0
     - libcxx =21.1.6 =h3d58e20_0
     - libdeflate =1.25 =h517ebb2_0
@@ -235,10 +235,10 @@ requirements:
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.6.1 =py310hd2d5e8d_0
-    - pyobjc-core =12.0 =py310hccc919d_2
-    - pyobjc-framework-cocoa =12.0 =py310hb0d6316_2
-    - pyobjc-framework-coreservices =12.0 =py310hd2d5e8d_0
-    - pyobjc-framework-fsevents =12.0 =py310h2ec42d9_0
+    - pyobjc-core =12.1 =py310hccc919d_0
+    - pyobjc-framework-cocoa =12.1 =py310hb0d6316_0
+    - pyobjc-framework-coreservices =12.1 =py310hd2d5e8d_2
+    - pyobjc-framework-fsevents =12.1 =py310h2ec42d9_2
     - pyopenssl =25.3.0 =pyhd8ed1ab_0
     - pyparsing =3.2.5 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py310h40a7462_2
@@ -291,7 +291,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
-    - spyder-base =6.1.1 =osx_pyh1a5313d_0
+    - spyder-base =6.1.1 =osx_pyh1a5313d_1
     - spyder-kernels =3.1.2 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.6 =pyhb6d5dde_0
@@ -324,10 +324,10 @@ requirements:
     - yapf =0.43.0 =pyhd8ed1ab_1
     - yarl =1.22.0 =py310hd951482_0
     - zeromq =4.3.5 =h6c33b1e_9
-    - zipp =3.23.0 =pyhd8ed1ab_0
+    - zipp =3.23.0 =pyhcf101f3_1
     - zlib-ng =2.3.1 =h55e386d_0
     - zstandard =0.25.0 =py310h3aa7efa_1
-    - zstd =1.5.7 =h8210216_2
+    - zstd =1.5.7 =h281d3d1_4
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
