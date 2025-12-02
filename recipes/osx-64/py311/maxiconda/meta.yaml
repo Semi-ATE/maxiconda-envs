@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py311hf197a57_0
     - cython =3.2.2 =py311hb8ba39f_0
     - grayskull =2.9.2 =pyhcf101f3_0
-    - hypothesis =6.148.3 =pyha770c72_0
+    - hypothesis =6.148.5 =pyha770c72_0
     - ipython =9.7.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py311h6eed73b_0
@@ -39,7 +39,7 @@ requirements:
     - numpy =2.3.5 =py311hf157cb9_0
     - openpyxl =3.1.5 =py311hc62c1b8_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
-    - pandas =2.3.3 =py311hca9a5ca_1
+    - pandas =2.3.3 =py311hca9a5ca_2
     - psutil =7.1.3 =py311h62e9434_0
     - pydantic =2.12.5 =pyhcf101f3_1
     - pyqt =5.15.11 =py311he03e2d5_2
@@ -102,11 +102,11 @@ requirements:
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
     - clang =21.1.6 =default_h1323312_0
     - clang-21 =21.1.6 =default_h9f74b92_0
-    - clang_impl_osx-64 =21.1.6 =h117f370_26
-    - clang_osx-64 =21.1.6 =h7e5c614_26
+    - clang_impl_osx-64 =21.1.6 =h117f370_27
+    - clang_osx-64 =21.1.6 =h7e5c614_27
     - clangxx =21.1.6 =default_h1c12a56_0
-    - clangxx_impl_osx-64 =21.1.6 =heb9ada7_26
-    - clangxx_osx-64 =21.1.6 =h7e5c614_26
+    - clangxx_impl_osx-64 =21.1.6 =heb9ada7_27
+    - clangxx_osx-64 =21.1.6 =h7e5c614_27
     - click =8.3.1 =pyh8f84b5b_1
     - cloudpickle =3.1.2 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -297,7 +297,7 @@ requirements:
     - openssl =3.6.0 =h230baf5_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =25.0 =pyh29332c3_1
-    - pandoc =3.8.2.1 =h694c41f_0
+    - pandoc =3.8.3 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h6ef8af8_0
     - parso =0.8.5 =pyhcf101f3_0
@@ -534,7 +534,7 @@ requirements:
     - ruamel.yaml.clib =0.2.14 =py311hf197a57_0
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-apple-darwin =1.91.1 =h38e4360_0
-    - sdkroot_env_osx-64 =14.5 =hbf94ba6_3
+    - sdkroot_env_osx-64 =14.5 =hbf94ba6_4
     - send2trash =1.8.3 =pyh31c8845_1
     - setuptools =80.9.0 =pyhff2d567_0
     - sigtool =0.1.3 =h88f4db0_0
@@ -549,7 +549,7 @@ requirements:
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
     - tapi =1600.0.11.8 =h8d8e812_0
     - terminado =0.18.1 =pyh31c8845_0
-    - tinycss2 =1.5.0 =pyhcf101f3_0
+    - tinycss2 =1.5.1 =pyhcf101f3_0
     - tk =8.6.13 =hf689a15_3
     - tktable =2.10 =h2c093e9_7
     - toml =0.10.2 =pyhcf101f3_3
@@ -580,9 +580,9 @@ requirements:
     - zeromq =4.3.5 =h6c33b1e_9
     - zipp =3.23.0 =pyhcf101f3_1
     - zlib =1.3.1 =hd23fc13_2
-    - zlib-ng =2.3.1 =h55e386d_0
+    - zlib-ng =2.3.1 =h53ec75d_1
     - zstandard =0.25.0 =py311h62e9434_1
-    - zstd =1.5.7 =h281d3d1_4
+    - zstd =1.5.7 =h281d3d1_5
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

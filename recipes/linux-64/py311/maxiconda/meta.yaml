@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py311h49ec1c0_0
     - cython =3.2.2 =py311h0daaf2c_0
     - grayskull =2.9.2 =pyhcf101f3_0
-    - hypothesis =6.148.3 =pyha770c72_0
+    - hypothesis =6.148.5 =pyha770c72_0
     - ipython =9.7.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py311h38be061_0
@@ -318,7 +318,7 @@ requirements:
     - openssl =3.6.0 =h26f9b46_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =25.0 =pyh29332c3_1
-    - pandoc =3.8.2.1 =ha770c72_0
+    - pandoc =3.8.3 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =hadf4263_0
     - parso =0.8.5 =pyhcf101f3_0
@@ -570,7 +570,7 @@ requirements:
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
     - sysroot_linux-64 =2.39 =hc4b9eeb_3
     - terminado =0.18.1 =pyh0d859eb_0
-    - tinycss2 =1.5.0 =pyhcf101f3_0
+    - tinycss2 =1.5.1 =pyhcf101f3_0
     - tk =8.6.13 =noxft_ha0e22de_103
     - tktable =2.10 =h8d826fa_7
     - toml =0.10.2 =pyhcf101f3_3
@@ -627,7 +627,7 @@ requirements:
     - zipp =3.23.0 =pyhcf101f3_1
     - zlib-ng =2.3.1 =hde8ca8f_0
     - zstandard =0.25.0 =py311haee01d2_1
-    - zstd =1.5.7 =h3691f8a_4
+    - zstd =1.5.7 =h3691f8a_5
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

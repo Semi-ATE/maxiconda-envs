@@ -60,9 +60,9 @@ requirements:
     - binaryornot =0.4.4 =py_1
     - black =24.8.0 =py38h578d9bd_0
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.1.0 =hd590300_1
-    - brotli-bin =1.1.0 =hd590300_1
-    - brotli-python =1.1.0 =py38h17151c0_1
+    - brotli =1.2.0 =hed03a55_1
+    - brotli-bin =1.2.0 =hb03c661_1
+    - brotli-python =1.0.9 =py38hfa26641_8
     - bzip2 =1.0.8 =hda65f42_8
     - ca-certificates =2025.11.12 =hbd8a1cb_0
     - cairo =1.18.4 =h3394656_0
@@ -153,9 +153,9 @@ requirements:
     - libasprintf =0.25.1 =h3f43e3d_1
     - libasprintf-devel =0.25.1 =h3f43e3d_1
     - libblas =3.9.0 =20_linux64_openblas
-    - libbrotlicommon =1.1.0 =hd590300_1
-    - libbrotlidec =1.1.0 =hd590300_1
-    - libbrotlienc =1.1.0 =hd590300_1
+    - libbrotlicommon =1.2.0 =hb03c661_1
+    - libbrotlidec =1.2.0 =hb03c661_1
+    - libbrotlienc =1.2.0 =hb03c661_1
     - libcap =2.77 =h3ff7636_0
     - libcblas =3.9.0 =20_linux64_openblas
     - libclang-cpp20.1 =20.1.8 =default_h99862b1_5
@@ -244,7 +244,7 @@ requirements:
     - openldap =2.6.10 =he970967_0
     - openssl =3.6.0 =h26f9b46_0
     - packaging =25.0 =pyh29332c3_1
-    - pandoc =3.8.2.1 =ha770c72_0
+    - pandoc =3.8.3 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
@@ -386,7 +386,7 @@ requirements:
     - zeromq =4.3.5 =h75354e8_4
     - zipp =3.21.0 =pyhd8ed1ab_0
     - zstandard =0.19.0 =py38h0a891b7_0
-    - zstd =1.5.7 =h3691f8a_4
+    - zstd =1.5.7 =h3691f8a_5
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

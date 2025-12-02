@@ -243,7 +243,7 @@ requirements:
     - openldap =2.6.10 =h30c48ee_0
     - openssl =3.6.0 =h8e36d6e_0
     - packaging =25.0 =pyh29332c3_1
-    - pandoc =3.8.2.1 =h8af1aa0_0
+    - pandoc =3.8.3 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
@@ -385,7 +385,7 @@ requirements:
     - zeromq =4.3.5 =h28faeed_4
     - zipp =3.21.0 =pyhd8ed1ab_0
     - zstandard =0.19.0 =py38hdacc76a_0
-    - zstd =1.5.7 =hefd9da6_4
+    - zstd =1.5.7 =hefd9da6_5
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
