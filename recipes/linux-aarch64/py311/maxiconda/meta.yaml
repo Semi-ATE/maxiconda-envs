@@ -247,7 +247,7 @@ requirements:
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.2 =he30d5cf_0
     - liblapack =3.11.0 =2_h88aeb00_openblas
-    - libllvm21 =21.1.6 =hfd2ba90_0
+    - libllvm21 =21.1.7 =hfd2ba90_0
     - liblzma =5.8.1 =h86ecc28_2
     - libmamba =2.4.0 =h493998d_1
     - libmambapy =2.4.0 =py311h74b3dde_1
@@ -624,7 +624,7 @@ requirements:
     - yarl =1.22.0 =py311h164a683_0
     - zeromq =4.3.5 =hefbcea8_9
     - zipp =3.23.0 =pyhcf101f3_1
-    - zlib-ng =2.3.1 =h7ac5ae9_1
+    - zlib-ng =2.3.2 =h7ac5ae9_0
     - zstandard =0.25.0 =py311h51cfe5d_1
     - zstd =1.5.7 =hefd9da6_5
 
