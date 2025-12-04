@@ -52,7 +52,7 @@ requirements:
     - jupyter_core =4.11.1 =py37hf985489_0
     - krb5 =1.21.3 =h37d8d59_0
     - libclang-cpp18.1 =18.1.8 =default_hc369343_16
-    - libclang13 =21.1.6 =default_h7f9524c_0
+    - libclang13 =21.1.7 =default_h7f9524c_0
     - libcxx =21.1.7 =h3d58e20_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libffi =3.4.6 =h281671d_1
@@ -115,7 +115,7 @@ requirements:
     - xz-gpl-tools =5.8.1 =h357f2ed_2
     - xz-tools =5.8.1 =hd471939_2
     - zeromq =4.3.5 =hde137ed_4
-    - zstd =1.5.7 =h281d3d1_5
+    - zstd =1.5.7 =h3eecb57_6
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

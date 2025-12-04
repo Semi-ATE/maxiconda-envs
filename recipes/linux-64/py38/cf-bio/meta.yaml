@@ -180,7 +180,7 @@ requirements:
     - libstdcxx-ng =15.2.0 =hdf11a46_14
     - libsystemd0 =258.2 =h6569c3e_1
     - libtiff =4.7.1 =h9d88235_1
-    - libuuid =2.41.2 =he9a06e4_0
+    - libuuid =2.41.2 =h5347b49_1
     - libvorbis =1.3.7 =h54a6638_2
     - libwebp-base =1.6.0 =hd42ef1d_0
     - libxcb =1.17.0 =h8a09558_0
@@ -298,7 +298,7 @@ requirements:
     - zipp =3.21.0 =pyhd8ed1ab_0
     - zlib =1.3.1 =hb9d3cd8_2
     - zstandard =0.19.0 =py38h0a891b7_0
-    - zstd =1.5.7 =h3691f8a_5
+    - zstd =1.5.7 =hb78ec9c_6
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

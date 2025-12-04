@@ -32,10 +32,10 @@ requirements:
     - cython =3.2.2 =py311h0daaf2c_0
     - grayskull =2.9.2 =pyhcf101f3_0
     - hypothesis =6.148.5 =pyha770c72_0
-    - ipython =9.7.0 =pyh53cf698_0
+    - ipython =9.8.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py311h38be061_0
-    - numba =0.62.1 =py311h6220fa4_0
+    - numba =0.62.1 =py311hcdb8226_1
     - numpy =2.3.5 =py311h2e04523_0
     - openpyxl =3.1.5 =py311h534898f_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -213,8 +213,8 @@ requirements:
     - libbrotlienc =1.2.0 =hb03c661_1
     - libcap =2.77 =h3ff7636_0
     - libcblas =3.11.0 =3_h0358290_openblas
-    - libclang-cpp21.1 =21.1.6 =default_h99862b1_0
-    - libclang13 =21.1.6 =default_h746c552_0
+    - libclang-cpp21.1 =21.1.7 =default_h99862b1_0
+    - libclang13 =21.1.7 =default_h746c552_0
     - libcups =2.3.3 =hb8b1518_5
     - libcurl =8.17.0 =h4e3cde8_0
     - libdeflate =1.25 =h17f619e_0
@@ -274,14 +274,14 @@ requirements:
     - libstdcxx-ng =15.2.0 =hdf11a46_14
     - libsystemd0 =258.2 =h6569c3e_1
     - libtiff =4.7.1 =h9d88235_1
-    - libuuid =2.41.2 =he9a06e4_0
+    - libuuid =2.41.2 =h5347b49_1
     - libuv =1.51.0 =hb03c661_1
     - libvorbis =1.3.7 =h54a6638_2
     - libvulkan-loader =1.4.328.1 =h5279c79_0
     - libwebp-base =1.6.0 =hd42ef1d_0
     - libxcb =1.17.0 =h8a09558_0
     - libxcrypt =4.4.36 =hd590300_1
-    - libxkbcommon =1.13.0 =hca5e8e5_0
+    - libxkbcommon =1.13.1 =hca5e8e5_0
     - libxml2 =2.15.1 =h26afc86_0
     - libxml2-16 =2.15.1 =ha9997c6_0
     - libxslt =1.1.43 =h711ed8c_1
@@ -509,7 +509,7 @@ requirements:
     - r-scales =1.4.0 =r45hc72bb7e_1
     - r-selectr =0.5_0 =r45hc72bb7e_0
     - r-shape =1.4.6.1 =r45ha770c72_2
-    - r-shiny =1.11.1 =r45h785f33e_1
+    - r-shiny =1.12.0 =r45h785f33e_0
     - r-sourcetools =0.1.7_1 =r45h3697838_3
     - r-sparsevctrs =0.3.4 =r45h54b55ab_1
     - r-spatial =7.3_18 =r45h54b55ab_1
@@ -627,7 +627,7 @@ requirements:
     - zipp =3.23.0 =pyhcf101f3_1
     - zlib-ng =2.3.2 =h54a6638_0
     - zstandard =0.25.0 =py311haee01d2_1
-    - zstd =1.5.7 =h3691f8a_5
+    - zstd =1.5.7 =hb78ec9c_6
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

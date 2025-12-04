@@ -79,7 +79,7 @@ requirements:
     - contourpy =1.3.2 =py310h3788b33_0
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
     - cpython =3.10.19 =py310hd8ed1ab_2
-    - cryptography =46.0.3 =py310hed992bd_0
+    - cryptography =46.0.3 =py310hb288b08_1
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hd9c7081_0
     - dbus =1.16.2 =h24cb091_1
@@ -117,7 +117,7 @@ requirements:
     - gst-plugins-base =1.24.11 =h651a532_0
     - gstreamer =1.24.11 =hc37bda9_0
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =12.2.0 =h15599e2_0
+    - harfbuzz =11.5.1 =h15599e2_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =75.1 =he02047a_0
@@ -207,7 +207,7 @@ requirements:
     - libstdcxx-ng =15.2.0 =hdf11a46_14
     - libsystemd0 =258.2 =h6569c3e_1
     - libtiff =4.7.1 =h9d88235_1
-    - libuuid =2.41.2 =he9a06e4_0
+    - libuuid =2.41.2 =h5347b49_1
     - libvorbis =1.3.7 =h54a6638_2
     - libwebp =1.6.0 =h9635ea4_0
     - libwebp-base =1.6.0 =hd42ef1d_0
@@ -305,7 +305,7 @@ requirements:
     - qhull =2020.2 =h434a139_5
     - qstylizer =0.2.4 =pyhff2d567_0
     - qt-main =5.15.15 =h3a7ef08_5
-    - qt-webengine =5.15.15 =h0071231_2
+    - qt-webengine =5.15.15 =h2da670d_3
     - qt6-main =6.9.2 =h5bd77bc_1
     - qtawesome =1.4.0 =pyh9208f05_1
     - qtconsole =5.7.0 =pyhd8ed1ab_0
@@ -391,7 +391,7 @@ requirements:
     - zipp =3.23.0 =pyhcf101f3_1
     - zlib-ng =2.3.2 =h54a6638_0
     - zstandard =0.25.0 =py310h139afa4_1
-    - zstd =1.5.7 =h3691f8a_5
+    - zstd =1.5.7 =hb78ec9c_6
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

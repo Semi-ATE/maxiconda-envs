@@ -206,7 +206,7 @@ requirements:
     - libbrotlidec =1.2.0 =hfd05255_1
     - libbrotlienc =1.2.0 =hfd05255_1
     - libcblas =3.9.0 =35_h2a3cdd5_mkl
-    - libclang13 =21.1.6 =default_ha2db4b5_0
+    - libclang13 =21.1.7 =default_ha2db4b5_0
     - libcrc32c =1.1.2 =h0e60522_0
     - libcurl =8.17.0 =h43ecb02_0
     - libdeflate =1.25 =h51727cc_0
@@ -441,7 +441,7 @@ requirements:
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zope.interface =7.2 =py39ha55e580_0
     - zstandard =0.23.0 =py39h0802e32_3
-    - zstd =1.5.7 =h1b5488d_5
+    - zstd =1.5.7 =h534d264_6
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

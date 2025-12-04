@@ -61,7 +61,7 @@ requirements:
     - krb5 =1.21.3 =hdf4eb48_0
     - libblas =3.11.0 =3_hf2e6a31_mkl
     - libcblas =3.11.0 =3_h2a3cdd5_mkl
-    - libclang13 =21.1.6 =default_ha2db4b5_0
+    - libclang13 =21.1.7 =default_ha2db4b5_0
     - libexpat =2.7.3 =hac47afa_0
     - libffi =3.5.2 =h52bdfb6_0
     - libglib =2.86.2 =h0c9aed9_1
@@ -127,7 +127,7 @@ requirements:
     - wheel =0.45.1 =pyhd8ed1ab_1
     - zeromq =4.3.5 =h5bddc39_9
     - zipp =3.23.0 =pyhd8ed1ab_0
-    - zstd =1.5.7 =h1b5488d_5
+    - zstd =1.5.7 =h534d264_6
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

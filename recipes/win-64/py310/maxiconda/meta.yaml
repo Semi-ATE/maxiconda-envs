@@ -35,7 +35,7 @@ requirements:
     - ipython =8.37.0 =pyha7b4d00_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py310h5588dad_0
-    - numba =0.62.1 =py310h86ba7b5_0
+    - numba =0.62.1 =py310h64a1e16_1
     - numpy =2.2.6 =py310h4987827_0
     - openpyxl =3.1.5 =py310h5fa2519_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -171,7 +171,7 @@ requirements:
     - libbrotlidec =1.2.0 =hfd05255_1
     - libbrotlienc =1.2.0 =hfd05255_1
     - libcblas =3.11.0 =3_h2a3cdd5_mkl
-    - libclang13 =21.1.6 =default_ha2db4b5_0
+    - libclang13 =21.1.7 =default_ha2db4b5_0
     - libcurl =8.17.0 =h43ecb02_0
     - libdeflate =1.25 =h51727cc_0
     - libexpat =2.7.3 =hac47afa_0
@@ -422,7 +422,7 @@ requirements:
     - r-scales =1.4.0 =r45hc72bb7e_1
     - r-selectr =0.5_0 =r45hc72bb7e_0
     - r-shape =1.4.6.1 =r45ha770c72_2
-    - r-shiny =1.11.1 =r45h785f33e_1
+    - r-shiny =1.12.0 =r45h785f33e_0
     - r-sourcetools =0.1.7_1 =r45hd8a2815_3
     - r-sparsevctrs =0.3.4 =r45heceb674_1
     - r-spatial =7.3_18 =r45heceb674_1
@@ -513,7 +513,7 @@ requirements:
     - zipp =3.23.0 =pyhcf101f3_1
     - zlib-ng =2.3.2 =h5112557_0
     - zstandard =0.25.0 =py310h1637853_1
-    - zstd =1.5.7 =h1b5488d_5
+    - zstd =1.5.7 =h534d264_6
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
