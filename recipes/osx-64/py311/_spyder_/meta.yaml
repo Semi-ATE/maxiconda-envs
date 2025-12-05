@@ -48,7 +48,7 @@ requirements:
     - asttokens =3.0.1 =pyhd8ed1ab_0
     - asyncssh =2.21.1 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_1
-    - attrs =25.4.0 =pyh71513ae_0
+    - attrs =25.4.0 =pyhcf101f3_1
     - autopep8 =2.0.4 =pyhd8ed1ab_0
     - babel =2.17.0 =pyhd8ed1ab_0
     - backports =1.0 =pyhd8ed1ab_5
@@ -131,13 +131,13 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
-    - libblas =3.11.0 =3_he492b99_openblas
+    - libblas =3.11.0 =4_he492b99_openblas
     - libbrotlicommon =1.2.0 =h8616949_1
     - libbrotlidec =1.2.0 =h8616949_1
     - libbrotlienc =1.2.0 =h8616949_1
-    - libcblas =3.11.0 =3_h9b27e0a_openblas
+    - libcblas =3.11.0 =4_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_16
-    - libclang13 =21.1.7 =default_h7f9524c_0
+    - libclang13 =21.1.7 =default_h7f9524c_1
     - libcxx =21.1.7 =h3d58e20_0
     - libdeflate =1.25 =h517ebb2_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
@@ -145,15 +145,15 @@ requirements:
     - libffi =3.5.2 =h750e83c_0
     - libfreetype =2.14.1 =h694c41f_0
     - libfreetype6 =2.14.1 =h6912278_0
-    - libgcc =15.2.0 =h08519bb_14
-    - libgfortran =15.2.0 =h7e5c614_14
-    - libgfortran5 =15.2.0 =hd16e46c_14
+    - libgcc =15.2.0 =h08519bb_15
+    - libgfortran =15.2.0 =h7e5c614_15
+    - libgfortran5 =15.2.0 =hd16e46c_15
     - libglib =2.86.2 =hf241ffe_1
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.2 =h8616949_0
-    - liblapack =3.11.0 =3_h859234e_openblas
+    - liblapack =3.11.0 =4_h859234e_openblas
     - libllvm18 =18.1.8 =default_hc369343_11
     - libllvm21 =21.1.7 =h56e7563_0
     - liblzma =5.8.1 =hd471939_2
@@ -214,7 +214,7 @@ requirements:
     - pillow =12.0.0 =py311h56465c8_2
     - pip =25.3 =pyh8b19718_0
     - platformdirs =4.5.0 =pyhcf101f3_0
-    - pluggy =1.6.0 =pyhd8ed1ab_0
+    - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.3.1 =py311ha3cf9ac_0
@@ -277,14 +277,14 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py311hd2a4513_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.14.7 =hd9f4cfa_0
+    - ruff =0.14.8 =hd9f4cfa_0
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.10.0 =py311h11ccb26_1
     - six =1.17.0 =pyhe01879c_1
     - snowballstemmer =3.0.1 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
     - soupsieve =2.8 =pyhd8ed1ab_0
-    - sphinx =9.0.1 =pyhd8ed1ab_0
+    - sphinx =9.0.4 =pyhd8ed1ab_0
     - sphinxcontrib-applehelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-devhelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-htmlhelp =2.1.0 =pyhd8ed1ab_1

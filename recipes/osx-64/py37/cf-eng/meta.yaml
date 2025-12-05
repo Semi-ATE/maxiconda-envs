@@ -61,22 +61,22 @@ requirements:
     - jupyter_client =7.4.9 =pyhd8ed1ab_0
     - jupyter_core =4.11.1 =py37hf985489_0
     - krb5 =1.21.3 =h37d8d59_0
-    - libblas =3.11.0 =3_he492b99_openblas
-    - libcblas =3.11.0 =3_h9b27e0a_openblas
+    - libblas =3.11.0 =4_he492b99_openblas
+    - libcblas =3.11.0 =4_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_16
-    - libclang13 =21.1.7 =default_h7f9524c_0
+    - libclang13 =21.1.7 =default_h7f9524c_1
     - libcxx =21.1.7 =h3d58e20_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libffi =3.4.6 =h281671d_1
-    - libgcc =15.2.0 =h08519bb_14
-    - libgfortran =15.2.0 =h7e5c614_14
-    - libgfortran5 =15.2.0 =hd16e46c_14
+    - libgcc =15.2.0 =h08519bb_15
+    - libgfortran =15.2.0 =h7e5c614_15
+    - libgfortran5 =15.2.0 =hd16e46c_15
     - libglib =2.86.0 =h7cafd41_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.2 =h8616949_0
-    - liblapack =3.11.0 =3_h859234e_openblas
+    - liblapack =3.11.0 =4_h859234e_openblas
     - libllvm18 =18.1.8 =default_hc369343_11
     - libllvm21 =21.1.7 =h56e7563_0
     - liblzma =5.8.1 =hd471939_2

@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - cython =3.2.2 =py312h6868a3c_0
     - grayskull =2.9.2 =pyhcf101f3_0
-    - hypothesis =6.148.5 =pyha770c72_0
+    - hypothesis =6.148.6 =pyha770c72_0
     - ipython =9.8.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py312h1f38498_0
@@ -80,7 +80,7 @@ requirements:
     - asttokens =3.0.1 =pyhd8ed1ab_0
     - async-lru =2.0.5 =pyh29332c3_0
     - atk-1.0 =2.38.0 =hd03087b_2
-    - attrs =25.4.0 =pyh71513ae_0
+    - attrs =25.4.0 =pyhcf101f3_1
     - babel =2.17.0 =pyhd8ed1ab_0
     - bleach =6.3.0 =pyhcf101f3_0
     - bleach-with-css =6.3.0 =h5f6438b_0
@@ -100,11 +100,11 @@ requirements:
     - certifi =2025.11.12 =pyhd8ed1ab_0
     - cffi =2.0.0 =py312h1b4d9a2_1
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
-    - clang =21.1.7 =default_hf9bcbb7_0
-    - clang-21 =21.1.7 =default_h489deba_0
+    - clang =21.1.7 =default_hf9bcbb7_1
+    - clang-21 =21.1.7 =default_h489deba_1
     - clang_impl_osx-arm64 =21.1.7 =hf07ed8f_27
     - clang_osx-arm64 =21.1.7 =h07b0088_27
-    - clangxx =21.1.7 =default_h36137df_0
+    - clangxx =21.1.7 =default_h36137df_1
     - clangxx_impl_osx-arm64 =21.1.7 =h13236d4_27
     - clangxx_osx-arm64 =21.1.7 =h07b0088_27
     - click =8.3.1 =pyh8f84b5b_1
@@ -159,7 +159,7 @@ requirements:
     - gmpy2 =2.2.1 =py312hee6aa52_2
     - graphite2 =1.3.14 =hec049ff_2
     - graphviz =13.1.2 =hcd33d8b_0
-    - greenlet =3.2.4 =py312h6b01ec3_1
+    - greenlet =3.3.0 =py312h455b684_0
     - gsl =2.7 =h6e638da_0
     - gst-plugins-base =1.24.11 =h3c5c1d0_0
     - gstreamer =1.24.11 =hfe24232_0
@@ -207,14 +207,14 @@ requirements:
     - lerc =4.0.0 =hd64df32_1
     - libarchive =3.8.2 =gpl_h46575ef_100
     - libasprintf =0.25.1 =h493aca8_0
-    - libblas =3.11.0 =3_h51639a9_openblas
+    - libblas =3.11.0 =4_h51639a9_openblas
     - libbrotlicommon =1.2.0 =hc919400_1
     - libbrotlidec =1.2.0 =hc919400_1
     - libbrotlienc =1.2.0 =hc919400_1
-    - libcblas =3.11.0 =3_hb0561ab_openblas
+    - libcblas =3.11.0 =4_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_h73dfc95_16
-    - libclang-cpp21.1 =21.1.7 =default_h73dfc95_0
-    - libclang13 =21.1.7 =default_h6e8f826_0
+    - libclang-cpp21.1 =21.1.7 =default_h73dfc95_1
+    - libclang13 =21.1.7 =default_h6e8f826_1
     - libcurl =8.17.0 =hdece5d2_0
     - libcxx =21.1.7 =hf598326_0
     - libcxx-devel =21.1.7 =h6dc3340_0
@@ -226,18 +226,18 @@ requirements:
     - libffi =3.5.2 =he5f378a_0
     - libfreetype =2.14.1 =hce30654_0
     - libfreetype6 =2.14.1 =h6da58f4_0
-    - libgcc =15.2.0 =hcbb3090_14
+    - libgcc =15.2.0 =hcbb3090_15
     - libgd =2.3.3 =hb2c3a21_11
     - libgettextpo =0.25.1 =h493aca8_0
-    - libgfortran =15.2.0 =h07b0088_14
+    - libgfortran =15.2.0 =h07b0088_15
     - libgfortran-devel_osx-arm64 =14.3.0 =hc965647_1
-    - libgfortran5 =15.2.0 =hdae7583_14
+    - libgfortran5 =15.2.0 =hdae7583_15
     - libglib =2.86.2 =hfe11c1f_1
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
     - libjpeg-turbo =3.1.2 =hc919400_0
-    - liblapack =3.11.0 =3_hd9741b5_openblas
+    - liblapack =3.11.0 =4_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h3f38c9c_11
     - libllvm21 =21.1.7 =h8e0c9ce_0
     - liblzma =5.8.1 =h39f12f2_2
@@ -349,7 +349,7 @@ requirements:
     - r-bit64 =4.6.0_1 =r45h6168396_1
     - r-blob =1.2.4 =r45hc72bb7e_3
     - r-boot =1.3_32 =r45hc72bb7e_1
-    - r-broom =1.0.10 =r45hc72bb7e_0
+    - r-broom =1.0.11 =r45hc72bb7e_0
     - r-bslib =0.9.0 =r45hc72bb7e_1
     - r-cachem =1.1.0 =r45h6168396_2
     - r-callr =3.7.6 =r45hc72bb7e_2
@@ -405,7 +405,7 @@ requirements:
     - r-hexbin =1.28.5 =r45hd097873_1
     - r-highr =0.11 =r45hc72bb7e_2
     - r-hms =1.1.4 =r45hc72bb7e_0
-    - r-htmltools =0.5.8.1 =r45hc1cd577_2
+    - r-htmltools =0.5.9 =r45hc1cd577_0
     - r-htmlwidgets =1.6.4 =r45h785f33e_4
     - r-httpcode =0.3.0 =r45hf450f58_5
     - r-httpuv =1.6.16 =r45h82072fd_1

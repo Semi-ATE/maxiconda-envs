@@ -131,13 +131,13 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.17 =h72f5680_0
     - lerc =4.0.0 =hcca01a6_1
-    - libblas =3.11.0 =3_he492b99_openblas
+    - libblas =3.11.0 =4_he492b99_openblas
     - libbrotlicommon =1.2.0 =h8616949_1
     - libbrotlidec =1.2.0 =h8616949_1
     - libbrotlienc =1.2.0 =h8616949_1
-    - libcblas =3.11.0 =3_h9b27e0a_openblas
+    - libcblas =3.11.0 =4_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_16
-    - libclang13 =21.1.7 =default_h7f9524c_0
+    - libclang13 =21.1.7 =default_h7f9524c_1
     - libcxx =21.1.7 =h3d58e20_0
     - libdeflate =1.25 =h517ebb2_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
@@ -145,15 +145,15 @@ requirements:
     - libffi =3.5.2 =h750e83c_0
     - libfreetype =2.14.1 =h694c41f_0
     - libfreetype6 =2.14.1 =h6912278_0
-    - libgcc =15.2.0 =h08519bb_14
-    - libgfortran =15.2.0 =h7e5c614_14
-    - libgfortran5 =15.2.0 =hd16e46c_14
+    - libgcc =15.2.0 =h08519bb_15
+    - libgfortran =15.2.0 =h7e5c614_15
+    - libgfortran5 =15.2.0 =hd16e46c_15
     - libglib =2.86.2 =hf241ffe_1
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.2 =h8616949_0
-    - liblapack =3.11.0 =3_h859234e_openblas
+    - liblapack =3.11.0 =4_h859234e_openblas
     - libllvm18 =18.1.8 =default_hc369343_11
     - libllvm21 =21.1.7 =h56e7563_0
     - liblzma =5.8.1 =hd471939_2

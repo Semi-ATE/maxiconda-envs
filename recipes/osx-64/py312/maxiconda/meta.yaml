@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py312h80b0991_0
     - cython =3.2.2 =py312h33b39b6_0
     - grayskull =2.9.2 =pyhcf101f3_0
-    - hypothesis =6.148.5 =pyha770c72_0
+    - hypothesis =6.148.6 =pyha770c72_0
     - ipython =9.8.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py312hb401068_0
@@ -81,7 +81,7 @@ requirements:
     - asttokens =3.0.1 =pyhd8ed1ab_0
     - async-lru =2.0.5 =pyh29332c3_0
     - atk-1.0 =2.38.0 =h4bec284_2
-    - attrs =25.4.0 =pyh71513ae_0
+    - attrs =25.4.0 =pyhcf101f3_1
     - babel =2.17.0 =pyhd8ed1ab_0
     - bleach =6.3.0 =pyhcf101f3_0
     - bleach-with-css =6.3.0 =h5f6438b_0
@@ -101,11 +101,11 @@ requirements:
     - certifi =2025.11.12 =pyhd8ed1ab_0
     - cffi =2.0.0 =py312he90777b_1
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
-    - clang =21.1.7 =default_h1323312_0
-    - clang-21 =21.1.7 =default_h9f74b92_0
+    - clang =21.1.7 =default_h1323312_1
+    - clang-21 =21.1.7 =default_h9f74b92_1
     - clang_impl_osx-64 =21.1.7 =h850ca3a_27
     - clang_osx-64 =21.1.7 =h7e5c614_27
-    - clangxx =21.1.7 =default_h1c12a56_0
+    - clangxx =21.1.7 =default_h1c12a56_1
     - clangxx_impl_osx-64 =21.1.7 =hd9a3690_27
     - clangxx_osx-64 =21.1.7 =h7e5c614_27
     - click =8.3.1 =pyh8f84b5b_1
@@ -160,7 +160,7 @@ requirements:
     - gmpy2 =2.2.1 =py312hf13fb29_2
     - graphite2 =1.3.14 =h21dd04a_2
     - graphviz =13.1.2 =h42bfd48_0
-    - greenlet =3.2.4 =py312h462f358_1
+    - greenlet =3.3.0 =py312h69bf00f_0
     - gsl =2.7 =h93259b0_0
     - gst-plugins-base =1.24.11 =h09840cc_0
     - gstreamer =1.24.11 =h7d1b200_0
@@ -208,14 +208,14 @@ requirements:
     - lerc =4.0.0 =hcca01a6_1
     - libarchive =3.8.2 =gpl_h889603c_100
     - libasprintf =0.25.1 =h3184127_1
-    - libblas =3.11.0 =3_he492b99_openblas
+    - libblas =3.11.0 =4_he492b99_openblas
     - libbrotlicommon =1.2.0 =h8616949_1
     - libbrotlidec =1.2.0 =h8616949_1
     - libbrotlienc =1.2.0 =h8616949_1
-    - libcblas =3.11.0 =3_h9b27e0a_openblas
+    - libcblas =3.11.0 =4_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_16
-    - libclang-cpp21.1 =21.1.7 =default_hc369343_0
-    - libclang13 =21.1.7 =default_h7f9524c_0
+    - libclang-cpp21.1 =21.1.7 =default_hc369343_1
+    - libclang13 =21.1.7 =default_h7f9524c_1
     - libcurl =8.17.0 =h7dd4100_0
     - libcxx =21.1.7 =h3d58e20_0
     - libcxx-devel =21.1.7 =h7c275be_0
@@ -227,18 +227,18 @@ requirements:
     - libffi =3.5.2 =h750e83c_0
     - libfreetype =2.14.1 =h694c41f_0
     - libfreetype6 =2.14.1 =h6912278_0
-    - libgcc =15.2.0 =h08519bb_14
+    - libgcc =15.2.0 =h08519bb_15
     - libgd =2.3.3 =h8555400_11
     - libgettextpo =0.25.1 =h3184127_1
-    - libgfortran =15.2.0 =h7e5c614_14
+    - libgfortran =15.2.0 =h7e5c614_15
     - libgfortran-devel_osx-64 =14.3.0 =h660b60f_1
-    - libgfortran5 =15.2.0 =hd16e46c_14
+    - libgfortran5 =15.2.0 =hd16e46c_15
     - libglib =2.86.2 =hf241ffe_1
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.2 =h8616949_0
-    - liblapack =3.11.0 =3_h859234e_openblas
+    - liblapack =3.11.0 =4_h859234e_openblas
     - libllvm18 =18.1.8 =default_hc369343_11
     - libllvm21 =21.1.7 =h56e7563_0
     - liblzma =5.8.1 =hd471939_2
@@ -309,7 +309,7 @@ requirements:
     - pixman =0.46.4 =ha059160_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
     - platformdirs =4.5.0 =pyhcf101f3_0
-    - pluggy =1.6.0 =pyhd8ed1ab_0
+    - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
     - prometheus_client =0.23.1 =pyhd8ed1ab_0
@@ -350,7 +350,7 @@ requirements:
     - r-bit64 =4.6.0_1 =r45h735ac91_1
     - r-blob =1.2.4 =r45hc72bb7e_3
     - r-boot =1.3_32 =r45hc72bb7e_1
-    - r-broom =1.0.10 =r45hc72bb7e_0
+    - r-broom =1.0.11 =r45hc72bb7e_0
     - r-bslib =0.9.0 =r45hc72bb7e_1
     - r-cachem =1.1.0 =r45h735ac91_2
     - r-callr =3.7.6 =r45hc72bb7e_2
@@ -406,7 +406,7 @@ requirements:
     - r-hexbin =1.28.5 =r45h5573f66_1
     - r-highr =0.11 =r45hc72bb7e_2
     - r-hms =1.1.4 =r45hc72bb7e_0
-    - r-htmltools =0.5.8.1 =r45ha730edb_2
+    - r-htmltools =0.5.9 =r45ha730edb_0
     - r-htmlwidgets =1.6.4 =r45h785f33e_4
     - r-httpcode =0.3.0 =r45h694c41f_5
     - r-httpuv =1.6.16 =r45hbf875fd_1

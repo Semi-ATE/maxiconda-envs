@@ -47,7 +47,7 @@ requirements:
     - asttokens =3.0.1 =pyhd8ed1ab_0
     - asyncssh =2.21.1 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_1
-    - attrs =25.4.0 =pyh71513ae_0
+    - attrs =25.4.0 =pyhcf101f3_1
     - autopep8 =2.0.4 =pyhd8ed1ab_0
     - babel =2.17.0 =pyhd8ed1ab_0
     - backports =1.0 =pyhd8ed1ab_5
@@ -136,26 +136,26 @@ requirements:
     - krb5 =1.21.3 =hdf4eb48_0
     - lcms2 =2.17 =hbcf6048_0
     - lerc =4.0.0 =h6470a55_1
-    - libblas =3.11.0 =3_hf2e6a31_mkl
+    - libblas =3.11.0 =4_hf2e6a31_mkl
     - libbrotlicommon =1.2.0 =hfd05255_1
     - libbrotlidec =1.2.0 =hfd05255_1
     - libbrotlienc =1.2.0 =hfd05255_1
-    - libcblas =3.11.0 =3_h2a3cdd5_mkl
-    - libclang13 =21.1.7 =default_ha2db4b5_0
+    - libcblas =3.11.0 =4_h2a3cdd5_mkl
+    - libclang13 =21.1.7 =default_ha2db4b5_1
     - libdeflate =1.25 =h51727cc_0
     - libexpat =2.7.3 =hac47afa_0
     - libffi =3.5.2 =h52bdfb6_0
     - libfreetype =2.14.1 =h57928b3_0
     - libfreetype6 =2.14.1 =hdbac1cb_0
-    - libgcc =15.2.0 =h8ee18e1_14
+    - libgcc =15.2.0 =h8ee18e1_15
     - libglib =2.86.2 =hd9c3897_0
-    - libgomp =15.2.0 =h8ee18e1_14
+    - libgomp =15.2.0 =h8ee18e1_15
     - libhwloc =2.12.1 =default_h64bd3f2_1002
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
     - libjpeg-turbo =3.1.2 =hfd05255_0
-    - liblapack =3.11.0 =3_hf9ab0e9_mkl
+    - liblapack =3.11.0 =4_hf9ab0e9_mkl
     - liblzma =5.8.1 =h2466b09_2
     - libogg =1.3.5 =h2466b09_1
     - libpng =1.6.51 =h7351971_0
@@ -269,14 +269,14 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py311hf51aa87_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.14.7 =h15e3a1f_0
+    - ruff =0.14.8 =h15e3a1f_0
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.10.0 =py311h3e6a449_1
     - six =1.17.0 =pyhe01879c_1
     - snowballstemmer =3.0.1 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
     - soupsieve =2.8 =pyhd8ed1ab_0
-    - sphinx =9.0.1 =pyhd8ed1ab_0
+    - sphinx =9.0.4 =pyhd8ed1ab_0
     - sphinxcontrib-applehelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-devhelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-htmlhelp =2.1.0 =pyhd8ed1ab_1
