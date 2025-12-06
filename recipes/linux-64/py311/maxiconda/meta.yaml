@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py311h49ec1c0_0
     - cython =3.2.2 =py311h0daaf2c_0
     - grayskull =2.9.2 =pyhcf101f3_0
-    - hypothesis =6.148.6 =pyha770c72_0
+    - hypothesis =6.148.7 =pyha770c72_0
     - ipython =9.8.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py311h38be061_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 563 secondary packages :
+    # 564 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - _r-mutex =1.0.1 =anacondar_1
@@ -86,6 +86,7 @@ requirements:
     - attr =2.5.2 =h39aace5_0
     - attrs =25.4.0 =pyhcf101f3_1
     - babel =2.17.0 =pyhd8ed1ab_0
+    - backports.zstd =1.1.0 =py311h6b1f9c4_1
     - binutils_impl_linux-64 =2.45 =default_hfdba357_104
     - bleach =6.3.0 =pyhcf101f3_0
     - bleach-with-css =6.3.0 =h5f6438b_0
@@ -120,7 +121,7 @@ requirements:
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hd9c7081_0
     - dbus =1.16.2 =h24cb091_1
-    - debugpy =1.8.17 =py311hc665b79_0
+    - debugpy =1.8.17 =py311hc665b79_1
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - distro =1.9.0 =pyhd8ed1ab_1
@@ -260,7 +261,7 @@ requirements:
     - libopengl =1.7.0 =ha4b6fd6_2
     - libopus =1.5.2 =hd0c01bc_0
     - libpciaccess =0.18 =hb9d3cd8_0
-    - libpng =1.6.51 =h421ea60_0
+    - libpng =1.6.53 =h421ea60_0
     - libpq =18.1 =h5c52fec_2
     - librsvg =2.60.0 =h61e6d4b_0
     - libsanitizer =15.2.0 =h90f66d4_15
@@ -328,8 +329,8 @@ requirements:
     - pip =25.3 =pyh8b19718_0
     - pixman =0.46.4 =h54a6638_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
-    - platformdirs =4.5.0 =pyhcf101f3_0
-    - pluggy =1.6.0 =pyhd8ed1ab_0
+    - platformdirs =4.5.1 =pyhcf101f3_0
+    - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
     - prometheus_client =0.23.1 =pyhd8ed1ab_0
@@ -586,7 +587,7 @@ requirements:
     - tzdata =2025b =h78e105d_0
     - unicodedata2 =17.0.0 =py311h49ec1c0_1
     - uri-template =1.3.0 =pyhd8ed1ab_1
-    - urllib3 =2.5.0 =pyhd8ed1ab_0
+    - urllib3 =2.6.0 =pyhd8ed1ab_0
     - wayland =1.24.0 =hd6090a7_1
     - wcwidth =0.2.14 =pyhd8ed1ab_0
     - webcolors =25.10.0 =pyhd8ed1ab_0

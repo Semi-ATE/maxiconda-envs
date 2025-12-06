@@ -55,6 +55,7 @@ requirements:
     - babel =2.17.0 =pyhd8ed1ab_0
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhd8ed1ab_1
+    - backports.zstd =1.1.0 =py310h69bd2ac_1
     - bcrypt =5.0.0 =py310hd8f68c5_1
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
@@ -83,7 +84,7 @@ requirements:
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hd9c7081_0
     - dbus =1.16.2 =h24cb091_1
-    - debugpy =1.8.17 =py310h25320af_0
+    - debugpy =1.8.17 =py310h25320af_1
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.3.1 =pyhd8ed1ab_0
@@ -197,7 +198,7 @@ requirements:
     - libopengl =1.7.0 =ha4b6fd6_2
     - libopus =1.5.2 =hd0c01bc_0
     - libpciaccess =0.18 =hb9d3cd8_0
-    - libpng =1.6.51 =h421ea60_0
+    - libpng =1.6.53 =h421ea60_0
     - libpq =17.7 =h5c52fec_1
     - libsndfile =1.2.2 =hc60ed4a_1
     - libsodium =1.0.20 =h4ab18f5_0
@@ -257,8 +258,8 @@ requirements:
     - pillow =12.0.0 =py310h5a73078_2
     - pip =25.3 =pyh8b19718_0
     - pixman =0.46.4 =h54a6638_1
-    - platformdirs =4.5.0 =pyhcf101f3_0
-    - pluggy =1.6.0 =pyhd8ed1ab_0
+    - platformdirs =4.5.1 =pyhcf101f3_0
+    - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.3.1 =py310h89163eb_0
@@ -352,7 +353,7 @@ requirements:
     - tzdata =2025b =h78e105d_0
     - ujson =5.11.0 =py310h25320af_1
     - unicodedata2 =17.0.0 =py310h7c4b9e2_1
-    - urllib3 =2.5.0 =pyhd8ed1ab_0
+    - urllib3 =2.6.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py310hff52083_2
     - wayland =1.24.0 =hd6090a7_1
     - wcwidth =0.2.14 =pyhd8ed1ab_0
@@ -390,7 +391,6 @@ requirements:
     - zeromq =4.3.5 =h387f397_9
     - zipp =3.23.0 =pyhcf101f3_1
     - zlib-ng =2.3.2 =h54a6638_0
-    - zstandard =0.25.0 =py310h139afa4_1
     - zstd =1.5.7 =hb78ec9c_6
 
 about:
