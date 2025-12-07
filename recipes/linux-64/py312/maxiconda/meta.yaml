@@ -44,7 +44,7 @@ requirements:
     - pydantic =2.12.5 =pyhcf101f3_1
     - pyqt =5.15.11 =py312h82c0db2_2
     - pyserial =3.5 =pyhd8ed1ab_1
-    - pytest =9.0.1 =pyhcf101f3_0
+    - pytest =9.0.2 =pyhcf101f3_0
     - pyyaml =6.0.3 =py312h8a5da7c_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.0 =pyh9208f05_1
@@ -87,7 +87,7 @@ requirements:
     - attr =2.5.2 =h39aace5_0
     - attrs =25.4.0 =pyhcf101f3_1
     - babel =2.17.0 =pyhd8ed1ab_0
-    - backports.zstd =1.1.0 =py312h90b7ffd_1
+    - backports.zstd =1.2.0 =py312h90b7ffd_0
     - binutils_impl_linux-64 =2.45 =default_hfdba357_104
     - bleach =6.3.0 =pyhcf101f3_0
     - bleach-with-css =6.3.0 =h5f6438b_0
@@ -184,7 +184,7 @@ requirements:
     - jedi =0.19.2 =pyhd8ed1ab_1
     - json5 =0.12.1 =pyhd8ed1ab_0
     - jsonpatch =1.33 =pyhd8ed1ab_1
-    - jsonpointer =3.0.0 =py312h7900ff3_2
+    - jsonpointer =3.0.0 =pyhcf101f3_3
     - jsonschema =4.25.1 =pyhe01879c_0
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jsonschema-with-format-nongpl =4.25.1 =he01879c_0
