@@ -35,7 +35,7 @@ requirements:
     - spyder =6.0.8 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 351 secondary packages :
+    # 345 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.12.15 =py39h246000a_0
@@ -104,8 +104,6 @@ requirements:
     - freetype =2.14.1 =h8af1aa0_0
     - frozenlist =1.7.0 =py39h5064d8f_0
     - fzf =0.67.0 =h8cf5bc4_0
-    - gettext =0.25.1 =h5ad3122_0
-    - gettext-tools =0.25.1 =h5ad3122_0
     - giflib =5.2.2 =h31becfc_0
     - glib =2.84.3 =h701fa2e_0
     - glib-tools =2.84.3 =hc87f4d4_0
@@ -149,8 +147,6 @@ requirements:
     - lcms2 =2.17 =hc88f144_0
     - ld_impl_linux-aarch64 =2.45 =default_h1979696_104
     - lerc =4.0.0 =hfdc4d58_1
-    - libasprintf =0.25.1 =h5e0f5ae_0
-    - libasprintf-devel =0.25.1 =h5e0f5ae_0
     - libblas =3.11.0 =4_haddc8a3_openblas
     - libbrotlicommon =1.2.0 =he30d5cf_1
     - libbrotlidec =1.2.0 =he30d5cf_1
@@ -167,13 +163,11 @@ requirements:
     - libevent =2.1.12 =h4ba1bb4_1
     - libexpat =2.7.3 =hfae3067_0
     - libffi =3.4.6 =he21f813_1
-    - libflac =1.4.3 =h2f0025b_0
+    - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.1 =h8af1aa0_0
     - libfreetype6 =2.14.1 =hdae7a39_0
     - libgcc =15.2.0 =h8acb6b2_15
     - libgcc-ng =15.2.0 =he9431aa_15
-    - libgettextpo =0.25.1 =h5ad3122_0
-    - libgettextpo-devel =0.25.1 =h5ad3122_0
     - libgfortran =15.2.0 =he9431aa_15
     - libgfortran-ng =15.2.0 =he9431aa_15
     - libgfortran5 =15.2.0 =h1b7bec0_15
@@ -197,7 +191,7 @@ requirements:
     - libpciaccess =0.18 =h86ecc28_0
     - libpng =1.6.53 =h1abf092_0
     - libpq =17.7 =haf03d9f_1
-    - libsndfile =1.2.2 =h79657aa_1
+    - libsndfile =1.2.2 =h30591a0_2
     - libsodium =1.0.20 =h68df207_0
     - libspatialindex =2.1.0 =hd7870d2_0
     - libsqlite =3.51.1 =h022381a_0

@@ -91,7 +91,7 @@ requirements:
     - brotli-python =1.2.0 =py311h7e844b6_1
     - bwidget =1.10.1 =h694c41f_1
     - bzip2 =1.0.8 =h500dc9f_8
-    - c-ares =1.34.5 =hf13058a_0
+    - c-ares =1.34.6 =hb5e19a0_0
     - ca-certificates =2025.11.12 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
@@ -154,8 +154,8 @@ requirements:
     - gfortran_osx-64 =14.3.0 =h3223c34_0
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.45 =pyhff2d567_0
-    - glib =2.86.2 =h182e902_1
-    - glib-tools =2.86.2 =h8650975_1
+    - glib =2.86.3 =h182e902_0
+    - glib-tools =2.86.3 =h8650975_0
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.2.1 =py311hffe584b_2
     - graphite2 =1.3.14 =h21dd04a_2
@@ -233,7 +233,7 @@ requirements:
     - libgfortran =15.2.0 =h7e5c614_15
     - libgfortran-devel_osx-64 =14.3.0 =h660b60f_1
     - libgfortran5 =15.2.0 =hd16e46c_15
-    - libglib =2.86.2 =hf241ffe_1
+    - libglib =2.86.3 =hf241ffe_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
@@ -287,7 +287,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - networkx =3.6 =pyhcf101f3_0
+    - networkx =3.6.1 =pyhcf101f3_0
     - nlohmann_json-abi =3.12.0 =h0f90c79_1
     - notebook =7.5.0 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
@@ -566,7 +566,7 @@ requirements:
     - tzdata =2025b =h78e105d_0
     - unicodedata2 =17.0.0 =py311hf197a57_1
     - uri-template =1.3.0 =pyhd8ed1ab_1
-    - urllib3 =2.6.0 =pyhd8ed1ab_0
+    - urllib3 =2.6.1 =pyhd8ed1ab_0
     - wcwidth =0.2.14 =pyhd8ed1ab_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3

@@ -36,7 +36,7 @@ requirements:
     - spyder =6.1.1 =hd8ed1ab_2
     - sympy =1.14.0 =pyh04b8f61_5
 
-    # 291 secondary packages :
+    # 292 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -57,7 +57,7 @@ requirements:
     - bcrypt =5.0.0 =py312hdabe01f_1
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
-    - black =25.1.0 =pyh866005b_0
+    - black =25.12.0 =pyh866005b_0
     - bleach =6.3.0 =pyhcf101f3_0
     - bleach-with-css =6.3.0 =h5f6438b_0
     - brotli =1.2.0 =h2d644bc_1
@@ -249,6 +249,7 @@ requirements:
     - python-slugify =8.0.4 =pyhd8ed1ab_1
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python_abi =3.12 =8_cp312
+    - pytokens =0.3.0 =pyhcf101f3_0
     - pytoolconfig =1.2.5 =pyhd8ed1ab_1
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyuca =1.2 =pyhd8ed1ab_2
@@ -308,10 +309,10 @@ requirements:
     - ucrt =10.0.26100.0 =h57928b3_0
     - ujson =5.11.0 =py312ha1a9051_1
     - unicodedata2 =17.0.0 =py312he06e257_1
-    - urllib3 =2.6.0 =pyhd8ed1ab_0
-    - vc =14.3 =h2b53caa_32
-    - vc14_runtime =14.44.35208 =h818238b_32
-    - vcomp14 =14.44.35208 =h818238b_32
+    - urllib3 =2.6.1 =pyhd8ed1ab_0
+    - vc =14.3 =h2b53caa_33
+    - vc14_runtime =14.44.35208 =h818238b_33
+    - vcomp14 =14.44.35208 =h818238b_33
     - watchdog =6.0.0 =py312h2e8e312_2
     - wcwidth =0.2.14 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3

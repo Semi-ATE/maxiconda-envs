@@ -35,7 +35,7 @@ requirements:
     - spyder =6.1.1 =hd8ed1ab_2
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 292 secondary packages :
+    # 293 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.13.2 =py310h682ed8b_0
@@ -58,7 +58,7 @@ requirements:
     - bcrypt =5.0.0 =py310hf3301a5_1
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
-    - black =25.1.0 =pyha5154f8_0
+    - black =25.12.0 =pyha5154f8_0
     - bleach =6.3.0 =pyhcf101f3_0
     - bleach-with-css =6.3.0 =h5f6438b_0
     - brotli =1.2.0 =h7d5ae5b_1
@@ -97,8 +97,8 @@ requirements:
     - frozenlist =1.7.0 =py310ha18c8e3_0
     - fzf =0.67.0 =h708ec5c_0
     - giflib =5.2.2 =h93a5062_0
-    - glib =2.86.2 =h7ee6e74_1
-    - glib-tools =2.86.2 =hb9d6e3a_1
+    - glib =2.86.3 =h7ee6e74_0
+    - glib-tools =2.86.3 =hb9d6e3a_0
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.2.1 =py310h1b1a8f9_2
     - gst-plugins-base =1.24.11 =h3c5c1d0_0
@@ -150,7 +150,7 @@ requirements:
     - libgcc =15.2.0 =hcbb3090_15
     - libgfortran =15.2.0 =h07b0088_15
     - libgfortran5 =15.2.0 =hdae7583_15
-    - libglib =2.86.2 =hfe11c1f_1
+    - libglib =2.86.3 =hfe11c1f_0
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -256,6 +256,7 @@ requirements:
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python.app =1.4 =py310h1231ce0_5
     - python_abi =3.10 =8_cp310
+    - pytokens =0.3.0 =pyhcf101f3_0
     - pytoolconfig =1.2.5 =pyhd8ed1ab_1
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyuca =1.2 =pyhd8ed1ab_2
@@ -311,7 +312,7 @@ requirements:
     - tzdata =2025b =h78e105d_0
     - ujson =5.11.0 =py310hf6ed2a0_1
     - unicodedata2 =17.0.0 =py310hfe3a0ae_1
-    - urllib3 =2.6.0 =pyhd8ed1ab_0
+    - urllib3 =2.6.1 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py310hfe3a0ae_2
     - wcwidth =0.2.14 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3

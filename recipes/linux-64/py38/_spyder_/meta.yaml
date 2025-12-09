@@ -35,7 +35,7 @@ requirements:
     - spyder =6.0.4 =hd8ed1ab_1
     - sympy =1.13.3 =pyh2585a3b_104
 
-    # 351 secondary packages :
+    # 345 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
@@ -104,11 +104,9 @@ requirements:
     - freetype =2.14.1 =ha770c72_0
     - frozenlist =1.4.1 =py38h01eb140_0
     - fzf =0.67.0 =h6138981_0
-    - gettext =0.25.1 =h3f43e3d_1
-    - gettext-tools =0.25.1 =h3f43e3d_1
     - giflib =5.2.2 =hd590300_0
-    - glib =2.86.2 =h5192d8d_1
-    - glib-tools =2.86.2 =hf516916_1
+    - glib =2.86.3 =h5192d8d_0
+    - glib-tools =2.86.3 =hf516916_0
     - gmp =6.3.0 =hac33072_2
     - gmpy2 =2.1.5 =py38h6a1700d_1
     - graphite2 =1.3.14 =hecca717_2
@@ -150,8 +148,6 @@ requirements:
     - lcms2 =2.17 =h717163a_0
     - ld_impl_linux-64 =2.45 =default_hbd61a6d_104
     - lerc =4.0.0 =h0aef613_1
-    - libasprintf =0.25.1 =h3f43e3d_1
-    - libasprintf-devel =0.25.1 =h3f43e3d_1
     - libblas =3.9.0 =20_linux64_openblas
     - libbrotlicommon =1.2.0 =hb03c661_1
     - libbrotlidec =1.2.0 =hb03c661_1
@@ -168,18 +164,16 @@ requirements:
     - libevent =2.1.12 =hf998b51_1
     - libexpat =2.7.3 =hecca717_0
     - libffi =3.5.2 =h9ec8514_0
-    - libflac =1.4.3 =h59595ed_0
+    - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.1 =ha770c72_0
     - libfreetype6 =2.14.1 =h73754d4_0
     - libgcc =15.2.0 =he0feb66_15
     - libgcc-ng =15.2.0 =h69a702a_15
-    - libgettextpo =0.25.1 =h3f43e3d_1
-    - libgettextpo-devel =0.25.1 =h3f43e3d_1
     - libgfortran =15.2.0 =h69a702a_15
     - libgfortran-ng =15.2.0 =h69a702a_15
     - libgfortran5 =15.2.0 =h68bc16d_15
     - libgl =1.7.0 =ha4b6fd6_2
-    - libglib =2.86.2 =h6548e54_1
+    - libglib =2.86.3 =h6548e54_0
     - libglvnd =1.7.0 =ha4b6fd6_2
     - libglx =1.7.0 =ha4b6fd6_2
     - libgomp =15.2.0 =he0feb66_15
@@ -198,7 +192,7 @@ requirements:
     - libpciaccess =0.18 =hb9d3cd8_0
     - libpng =1.6.53 =h421ea60_0
     - libpq =17.7 =h5c52fec_1
-    - libsndfile =1.2.2 =hc60ed4a_1
+    - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.18 =h36c2ea0_1
     - libspatialindex =2.0.0 =he02047a_0
     - libsqlite =3.51.1 =h0c1763c_0
