@@ -114,7 +114,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.3.0 =py39h0d3c867_2
     - cpython =3.9.23 =py39hd8ed1ab_0
-    - curl =8.17.0 =h7dd4100_0
+    - curl =8.17.0 =h7dd4100_1
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =h610c526_0
     - debugpy =1.8.16 =py39h6581403_0
@@ -193,7 +193,7 @@ requirements:
     - libclang-cpp18.1 =18.1.8 =default_hc369343_16
     - libclang-cpp21.1 =21.1.7 =default_hc369343_1
     - libclang13 =21.1.7 =default_h7f9524c_1
-    - libcurl =8.17.0 =h7dd4100_0
+    - libcurl =8.17.0 =h7dd4100_1
     - libcxx =21.1.7 =h3d58e20_0
     - libcxx-devel =21.1.7 =h7c275be_0
     - libcxx-headers =21.1.7 =h707e725_0
@@ -485,7 +485,7 @@ requirements:
     - r-xml2 =1.5.0 =r45hf8ceb01_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h735ac91_1
-    - r-yaml =2.3.11 =r45h735ac91_0
+    - r-yaml =2.3.12 =r45h735ac91_0
     - r-zoo =1.8_14 =r45h735ac91_1
     - rapidfuzz =3.13.0 =py39hdf37715_0
     - readline =8.2 =h7cca4af_2
