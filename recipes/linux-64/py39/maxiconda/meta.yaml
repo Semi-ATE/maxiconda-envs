@@ -170,7 +170,7 @@ requirements:
     - jupyterlab =4.4.6 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_1
-    - kernel-headers_linux-64 =6.12.0 =he073ed8_3
+    - kernel-headers_linux-64 =6.12.0 =he073ed8_4
     - keyutils =1.6.3 =hb9d3cd8_0
     - kiwisolver =1.4.7 =py39h74842e3_0
     - krb5 =1.21.3 =h659f571_0
@@ -236,7 +236,7 @@ requirements:
     - libstdcxx =15.2.0 =h934c35e_16
     - libstdcxx-devel_linux-64 =15.2.0 =hd446a21_116
     - libstdcxx-ng =15.2.0 =hdf11a46_16
-    - libsystemd0 =258.2 =h6569c3e_1
+    - libsystemd0 =258.3 =h6569c3e_0
     - libtiff =4.7.1 =h8261f1e_0
     - libuuid =2.41.2 =h5347b49_1
     - libuv =1.51.0 =hb03c661_1
@@ -419,7 +419,7 @@ requirements:
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
     - r-openssl =2.3.4 =r45h50f7d53_0
     - r-otel =0.2.0 =r45hc72bb7e_1
-    - r-parallelly =1.45.1 =r45h54b55ab_1
+    - r-parallelly =1.46.0 =r45h54b55ab_0
     - r-pbdzmq =0.3_14 =r45hded8526_1
     - r-pillar =1.11.1 =r45hc72bb7e_0
     - r-pkgconfig =2.0.3 =r45hc72bb7e_5
@@ -518,7 +518,7 @@ requirements:
     - soupsieve =2.7 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.11.1 =pyhd8ed1ab_0
-    - sysroot_linux-64 =2.39 =hc4b9eeb_3
+    - sysroot_linux-64 =2.39 =hc4b9eeb_4
     - terminado =0.18.1 =pyh0d859eb_0
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_ha0e22de_103
@@ -533,7 +533,7 @@ requirements:
     - typing-inspection =0.4.1 =pyhd8ed1ab_0
     - typing_extensions =4.14.1 =pyhe01879c_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
-    - tzdata =2025b =h78e105d_0
+    - tzdata =2025b =h8577fbf_1
     - unicodedata2 =16.0.0 =py39h8cd3c5a_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.5.0 =pyhd8ed1ab_0
