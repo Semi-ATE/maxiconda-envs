@@ -25,7 +25,7 @@ requirements:
     - python =3.10.19 =hc20f281_2_cpython
 
     # 10 primary packages :
-    - cython =3.2.2 =py310h23e71ea_0
+    - cython =3.2.3 =py310h23e71ea_0
     - matplotlib =3.10.8 =py310h5588dad_0
     - menuinst =2.4.1 =py310h73ae2b4_0
     - numpy =2.2.6 =py310h4987827_0
@@ -98,7 +98,7 @@ requirements:
     - fontconfig =2.15.0 =h765892d_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
-    - fonttools =4.61.0 =py310hdb0e946_0
+    - fonttools =4.61.1 =py310hdb0e946_0
     - freetype =2.14.1 =h57928b3_0
     - frozenlist =1.7.0 =py310had1666a_0
     - fzf =0.67.0 =hb13f615_0
