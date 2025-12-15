@@ -128,7 +128,7 @@ requirements:
     - curl =8.17.0 =h7dd4100_1
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h610c526_0
-    - debugpy =1.8.17 =py312hbfd3414_1
+    - debugpy =1.8.18 =py312hbfd3414_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - distro =1.9.0 =pyhd8ed1ab_1
@@ -275,7 +275,7 @@ requirements:
     - markupsafe =3.0.3 =py312hacf3034_0
     - matplotlib-base =3.10.8 =py312h7894933_0
     - matplotlib-inline =0.2.1 =pyhd8ed1ab_0
-    - menuinst =2.4.1 =py312hb401068_0
+    - menuinst =2.4.2 =py312hb401068_0
     - mistune =3.1.4 =pyhcf101f3_0
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
@@ -334,7 +334,7 @@ requirements:
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
     - python-gil =3.12.12 =hd8ed1ab_1
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
-    - python-tzdata =2025.2 =pyhd8ed1ab_0
+    - python-tzdata =2025.3 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.12 =8_cp312
     - pytz =2025.2 =pyhd8ed1ab_0
@@ -400,7 +400,7 @@ requirements:
     - r-glue =1.8.0 =r45h735ac91_1
     - r-googledrive =2.1.2 =r45hc72bb7e_1
     - r-googlesheets4 =1.1.2 =r45h785f33e_1
-    - r-gower =1.0.1 =r45h735ac91_3
+    - r-gower =1.0.2 =r45h735ac91_0
     - r-gtable =0.3.6 =r45hc72bb7e_1
     - r-hardhat =1.4.2 =r45hc72bb7e_1
     - r-haven =2.5.5 =r45hbf875fd_1
@@ -541,7 +541,7 @@ requirements:
     - send2trash =1.8.3 =pyh31c8845_1
     - setuptools =80.9.0 =pyhff2d567_0
     - sigtool =0.1.3 =h88f4db0_0
-    - simdjson =4.2.2 =hcb651aa_0
+    - simdjson =4.2.3 =hcb651aa_0
     - sip =6.10.0 =py312h69bf00f_1
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.2 =pyhd8ed1ab_0
@@ -565,10 +565,10 @@ requirements:
     - typing-inspection =0.4.2 =pyhd8ed1ab_1
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
-    - tzdata =2025b =h8577fbf_1
+    - tzdata =2025c =h8577fbf_0
     - unicodedata2 =17.0.0 =py312h80b0991_1
     - uri-template =1.3.0 =pyhd8ed1ab_1
-    - urllib3 =2.6.1 =pyhd8ed1ab_0
+    - urllib3 =2.6.2 =pyhd8ed1ab_0
     - wcwidth =0.2.14 =pyhd8ed1ab_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3

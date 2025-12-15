@@ -81,7 +81,7 @@ requirements:
     - cryptography =46.0.3 =py310h58759cc_1
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =ha1cbb27_0
-    - debugpy =1.8.17 =py310h7b404bc_1
+    - debugpy =1.8.18 =py310h7b404bc_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.3.1 =pyhd8ed1ab_0
@@ -253,7 +253,7 @@ requirements:
     - python-lsp-server =1.13.2 =pyh332efcf_0
     - python-lsp-server-base =1.13.2 =pyhd8ed1ab_0
     - python-slugify =8.0.4 =pyhd8ed1ab_1
-    - python-tzdata =2025.2 =pyhd8ed1ab_0
+    - python-tzdata =2025.3 =pyhd8ed1ab_0
     - python.app =1.4 =py310h1231ce0_5
     - python_abi =3.10 =8_cp310
     - pytokens =0.3.0 =pyhcf101f3_0
@@ -279,7 +279,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py310hf3301a5_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.14.8 =h382de68_0
+    - ruff =0.14.9 =h382de68_0
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.15.0 =py310hc7786af_0
     - six =1.17.0 =pyhe01879c_1
@@ -309,10 +309,10 @@ requirements:
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - typing-extensions =4.15.0 =h396c80c_0
     - typing_extensions =4.15.0 =pyhcf101f3_0
-    - tzdata =2025b =h8577fbf_1
+    - tzdata =2025c =h8577fbf_0
     - ujson =5.11.0 =py310hf6ed2a0_1
     - unicodedata2 =17.0.0 =py310hfe3a0ae_1
-    - urllib3 =2.6.1 =pyhd8ed1ab_0
+    - urllib3 =2.6.2 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py310hfe3a0ae_2
     - wcwidth =0.2.14 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3

@@ -112,7 +112,7 @@ requirements:
     - cpython =3.12.12 =py312hd8ed1ab_1
     - curl =8.17.0 =h43ecb02_1
     - cycler =0.12.1 =pyhcf101f3_2
-    - debugpy =1.8.17 =py312ha1a9051_1
+    - debugpy =1.8.18 =py312ha1a9051_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - distro =1.9.0 =pyhd8ed1ab_1
@@ -244,7 +244,7 @@ requirements:
     - markupsafe =3.0.3 =py312h05f76fc_0
     - matplotlib-base =3.10.8 =py312h0ebf65c_0
     - matplotlib-inline =0.2.1 =pyhd8ed1ab_0
-    - menuinst =2.4.1 =py312hbb81ca0_0
+    - menuinst =2.4.2 =py312hbb81ca0_0
     - mingw-w64-ucrt-x86_64-crt-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
     - mingw-w64-ucrt-x86_64-headers-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
     - mingw-w64-ucrt-x86_64-windows-default-manifest =6.4 =he206cdd_7
@@ -293,13 +293,13 @@ requirements:
     - pygraphviz =1.14 =py312h7f62ece_2
     - pyparsing =3.2.5 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py312hbb81ca0_2
-    - pyside6 =6.9.3 =py312h0c8bdd4_1
+    - pyside6 =6.9.3 =py312h0c8bdd4_2
     - pysocks =1.7.1 =pyh09c184e_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
     - python-gil =3.12.12 =hd8ed1ab_1
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
-    - python-tzdata =2025.2 =pyhd8ed1ab_0
+    - python-tzdata =2025.3 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.12 =8_cp312
     - pytz =2025.2 =pyhd8ed1ab_0
@@ -367,7 +367,7 @@ requirements:
     - r-glue =1.8.0 =r45heceb674_1
     - r-googledrive =2.1.2 =r45hc72bb7e_1
     - r-googlesheets4 =1.1.2 =r45h785f33e_1
-    - r-gower =1.0.1 =r45heceb674_3
+    - r-gower =1.0.2 =r45heceb674_0
     - r-gtable =0.3.6 =r45hc72bb7e_1
     - r-hardhat =1.4.2 =r45hc72bb7e_1
     - r-haven =2.5.5 =r45h68b42e3_1
@@ -505,7 +505,7 @@ requirements:
     - rust-std-x86_64-pc-windows-msvc =1.91.1 =h17fc481_0
     - send2trash =1.8.3 =pyh5737063_1
     - setuptools =80.9.0 =pyhff2d567_0
-    - simdjson =4.2.2 =h49e36cd_0
+    - simdjson =4.2.3 =h49e36cd_0
     - sip =6.10.0 =py312hbb81ca0_1
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.2 =pyhd8ed1ab_0
@@ -529,11 +529,11 @@ requirements:
     - typing-inspection =0.4.2 =pyhd8ed1ab_1
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
-    - tzdata =2025b =h8577fbf_1
+    - tzdata =2025c =h8577fbf_0
     - ucrt =10.0.26100.0 =h57928b3_0
     - unicodedata2 =17.0.0 =py312he06e257_1
     - uri-template =1.3.0 =pyhd8ed1ab_1
-    - urllib3 =2.6.1 =pyhd8ed1ab_0
+    - urllib3 =2.6.2 =pyhd8ed1ab_0
     - vc =14.3 =h2b53caa_33
     - vc14_runtime =14.44.35208 =h818238b_33
     - vcomp14 =14.44.35208 =h818238b_33
