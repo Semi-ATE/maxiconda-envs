@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2025.7.34 =py39h0f7a62b_0
     - requests =2.32.5 =pyhd8ed1ab_0
-    - rust =1.91.1 =h6cf38e9_0
+    - rust =1.92.0 =h6cf38e9_0
     - scipy =1.13.1 =py39hb921187_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.2 =unix_pyh707e725_0
@@ -178,12 +178,12 @@ requirements:
     - lcms2 =2.17 =hc88f144_0
     - ld_impl_linux-aarch64 =2.45 =default_h1979696_104
     - lerc =4.0.0 =hfdc4d58_1
-    - libblas =3.11.0 =4_haddc8a3_openblas
+    - libblas =3.11.0 =5_haddc8a3_openblas
     - libbrotlicommon =1.2.0 =he30d5cf_1
     - libbrotlidec =1.2.0 =he30d5cf_1
     - libbrotlienc =1.2.0 =he30d5cf_1
     - libcap =2.77 =h68e9139_0
-    - libcblas =3.11.0 =4_hd72aa62_openblas
+    - libcblas =3.11.0 =5_hd72aa62_openblas
     - libclang-cpp20.1 =20.1.8 =default_he95a3c9_5
     - libclang13 =21.1.0 =default_h94a09a5_1
     - libcups =2.3.3 =h5cdc715_5
@@ -212,7 +212,7 @@ requirements:
     - libgomp =15.2.0 =h8acb6b2_16
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.2 =he30d5cf_0
-    - liblapack =3.11.0 =4_h88aeb00_openblas
+    - liblapack =3.11.0 =5_h88aeb00_openblas
     - libllvm14 =14.0.6 =h966f666_4
     - libllvm20 =20.1.8 =h2b567e5_0
     - libllvm21 =21.1.0 =h2b567e5_0
@@ -495,9 +495,9 @@ requirements:
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h0557e7b_1
     - r-yaml =2.3.12 =r45h0557e7b_0
-    - r-zoo =1.8_14 =r45h0557e7b_1
+    - r-zoo =1.8_15 =r45h0557e7b_0
     - rapidfuzz =3.13.0 =py39h7dbf29c_0
-    - readline =8.2 =h8382b9d_2
+    - readline =8.3 =hb682ff5_0
     - referencing =0.36.2 =pyh29332c3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
@@ -506,7 +506,7 @@ requirements:
     - ruamel.yaml =0.18.15 =py39h0f7a62b_0
     - ruamel.yaml.clib =0.2.8 =py39h060674a_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-aarch64-unknown-linux-gnu =1.91.1 =hbe8e118_0
+    - rust-std-aarch64-unknown-linux-gnu =1.92.0 =hbe8e118_0
     - sed =4.9 =hd4cd8d4_0
     - send2trash =1.8.3 =pyh0d859eb_1
     - setuptools =80.9.0 =pyhff2d567_0

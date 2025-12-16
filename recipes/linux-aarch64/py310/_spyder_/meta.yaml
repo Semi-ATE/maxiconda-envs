@@ -83,7 +83,7 @@ requirements:
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h6c5dea3_0
     - dbus =1.16.2 =h70963c4_1
-    - debugpy =1.8.18 =py310heccc163_0
+    - debugpy =1.8.19 =py310h3a5450c_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.3.1 =pyhd8ed1ab_0
@@ -149,12 +149,12 @@ requirements:
     - lcms2 =2.17 =hc88f144_0
     - ld_impl_linux-aarch64 =2.45 =default_h1979696_104
     - lerc =4.0.0 =hfdc4d58_1
-    - libblas =3.11.0 =4_haddc8a3_openblas
+    - libblas =3.11.0 =5_haddc8a3_openblas
     - libbrotlicommon =1.2.0 =he30d5cf_1
     - libbrotlidec =1.2.0 =he30d5cf_1
     - libbrotlienc =1.2.0 =he30d5cf_1
     - libcap =2.77 =h68e9139_0
-    - libcblas =3.11.0 =4_hd72aa62_openblas
+    - libcblas =3.11.0 =5_hd72aa62_openblas
     - libclang-cpp20.1 =20.1.8 =default_he95a3c9_5
     - libclang-cpp21.1 =21.1.0 =default_he95a3c9_1
     - libclang13 =21.1.0 =default_h94a09a5_1
@@ -180,7 +180,7 @@ requirements:
     - libgomp =15.2.0 =h8acb6b2_16
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.2 =he30d5cf_0
-    - liblapack =3.11.0 =4_h88aeb00_openblas
+    - liblapack =3.11.0 =5_h88aeb00_openblas
     - libllvm20 =20.1.8 =h2b567e5_0
     - libllvm21 =21.1.0 =h2b567e5_0
     - liblzma =5.8.1 =h86ecc28_2
@@ -306,14 +306,14 @@ requirements:
     - qtconsole =5.7.0 =pyhd8ed1ab_0
     - qtconsole-base =5.7.0 =pyha770c72_0
     - qtpy =2.4.3 =pyhd8ed1ab_1
-    - readline =8.2 =h8382b9d_2
+    - readline =8.3 =hb682ff5_0
     - referencing =0.37.0 =pyhcf101f3_0
     - requests =2.32.5 =pyhd8ed1ab_0
     - rich =14.2.0 =pyhcf101f3_0
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py310haddc216_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.14.9 =h9564552_0
+    - ruff =0.14.9 =hc0dabaa_1
     - secretstorage =3.4.1 =py310hbbe02a8_0
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.15.0 =py310hbe5e9e6_0
@@ -340,7 +340,7 @@ requirements:
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.3.0 =pyhcf101f3_0
     - tomlkit =0.13.3 =pyha770c72_0
-    - tornado =6.5.3 =py310ha7967c6_0
+    - tornado =6.5.4 =py310he491f25_0
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - typing-extensions =4.15.0 =h396c80c_0
     - typing_extensions =4.15.0 =pyhcf101f3_0

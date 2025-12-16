@@ -100,13 +100,13 @@ requirements:
     - lcms2 =2.17 =h7eeda09_0
     - lerc =4.0.0 =hd64df32_1
     - libaec =1.1.4 =h51d1e36_0
-    - libblas =3.11.0 =4_h51639a9_openblas
+    - libblas =3.11.0 =5_h51639a9_openblas
     - libboost =1.86.0 =hf493ff8_4
     - libboost-python =1.86.0 =py39h7d68603_3
     - libbrotlicommon =1.2.0 =hc919400_1
     - libbrotlidec =1.2.0 =hc919400_1
     - libbrotlienc =1.2.0 =hc919400_1
-    - libcblas =3.11.0 =4_hb0561ab_openblas
+    - libcblas =3.11.0 =5_hb0561ab_openblas
     - libclang-cpp17 =17.0.6 =default_hf90f093_8
     - libclang13 =21.1.0 =default_h6e8f826_1
     - libcurl =8.17.0 =hdece5d2_1
@@ -126,7 +126,7 @@ requirements:
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
     - libjpeg-turbo =3.1.2 =hc919400_0
-    - liblapack =3.11.0 =4_hd9741b5_openblas
+    - liblapack =3.11.0 =5_hd9741b5_openblas
     - libllvm17 =17.0.6 =hc4b4ae8_3
     - libllvm21 =21.1.0 =h846d351_0
     - liblzma =5.8.1 =h39f12f2_2
@@ -198,7 +198,7 @@ requirements:
     - pyzmq =27.0.2 =py39h6c7bd39_0
     - qhull =2020.2 =h420ef59_5
     - qt-main =5.15.15 =hac936aa_5
-    - readline =8.2 =h1d1bf99_2
+    - readline =8.3 =h46df422_0
     - reportlab =4.4.1 =py39hf3bc14e_0
     - rlpycairo =0.2.0 =pyhd8ed1ab_0
     - scikit-learn =1.6.1 =py39h451895d_0
