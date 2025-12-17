@@ -194,9 +194,9 @@ requirements:
     - libclang-cpp21.1 =21.1.7 =default_hc369343_1
     - libclang13 =21.1.7 =default_h7f9524c_1
     - libcurl =8.17.0 =h7dd4100_1
-    - libcxx =21.1.7 =h3d58e20_0
-    - libcxx-devel =21.1.7 =h7c275be_0
-    - libcxx-headers =21.1.7 =h707e725_0
+    - libcxx =21.1.8 =h3d58e20_0
+    - libcxx-devel =21.1.8 =h7c275be_0
+    - libcxx-headers =21.1.8 =h707e725_0
     - libdeflate =1.25 =h517ebb2_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -223,7 +223,7 @@ requirements:
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =he3325bb_1
     - libopenblas =0.3.30 =openmp_h6006d49_4
-    - libopus =1.5.2 =he3325bb_0
+    - libopus =1.6 =h34defe6_0
     - libpng =1.6.53 =h380d223_0
     - libpq =18.1 =h1e038c5_2
     - libsodium =1.0.20 =hfdf4475_0
@@ -481,7 +481,7 @@ requirements:
     - r-viridislite =0.4.2 =r45hc72bb7e_3
     - r-vroom =1.6.7 =r45ha730edb_0
     - r-withr =3.0.2 =r45hc72bb7e_1
-    - r-xfun =0.54 =r45ha730edb_0
+    - r-xfun =0.55 =r45ha730edb_0
     - r-xml2 =1.5.0 =r45hf8ceb01_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h735ac91_1
