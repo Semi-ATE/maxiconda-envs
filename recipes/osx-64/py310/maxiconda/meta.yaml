@@ -192,7 +192,7 @@ requirements:
     - libcblas =3.11.0 =5_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_16
     - libclang-cpp21.1 =21.1.7 =default_hc369343_1
-    - libclang13 =21.1.7 =default_h7f9524c_1
+    - libclang13 =21.1.7 =default_h7f9524c_2
     - libcurl =8.17.0 =h7dd4100_1
     - libcxx =21.1.8 =h3d58e20_0
     - libcxx-devel =21.1.8 =h7c275be_0
@@ -236,7 +236,7 @@ requirements:
     - libxml2 =2.15.1 =h7b7ecba_0
     - libxml2-16 =2.15.1 =ha1d9b0f_0
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =21.1.7 =h472b3d1_0
+    - llvm-openmp =21.1.8 =h472b3d1_0
     - llvm-tools =21.1.7 =hb0207f0_0
     - llvm-tools-21 =21.1.7 =h879f4bc_0
     - llvmlite =0.46.0 =py310hd43b3a3_0
@@ -450,7 +450,7 @@ requirements:
     - r-s7 =0.2.1 =r45h735ac91_0
     - r-sass =0.4.10 =r45ha730edb_1
     - r-scales =1.4.0 =r45hc72bb7e_1
-    - r-selectr =0.5_0 =r45hc72bb7e_0
+    - r-selectr =0.5_1 =r45hc72bb7e_0
     - r-shape =1.4.6.1 =r45ha770c72_2
     - r-shiny =1.12.1 =r45h785f33e_0
     - r-sourcetools =0.1.7_1 =r45ha730edb_3
@@ -493,7 +493,7 @@ requirements:
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
     - rpds-py =0.30.0 =py310h64024f4_0
-    - ruamel.yaml =0.18.16 =py310hd2d5e8d_0
+    - ruamel.yaml =0.18.17 =py310hd2d5e8d_0
     - ruamel.yaml.clib =0.2.14 =py310hd2d5e8d_0
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-apple-darwin =1.92.0 =h38e4360_0

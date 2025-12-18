@@ -185,8 +185,8 @@ requirements:
     - libbrotlienc =1.2.0 =hb03c661_1
     - libcap =2.77 =h3ff7636_0
     - libcblas =3.11.0 =5_h0358290_openblas
-    - libclang-cpp21.1 =21.1.7 =default_h99862b1_1
-    - libclang13 =21.1.7 =default_h746c552_1
+    - libclang-cpp21.1 =21.1.7 =default_h99862b1_2
+    - libclang13 =21.1.7 =default_h746c552_2
     - libcups =2.3.3 =hb8b1518_5
     - libcurl =8.17.0 =h4e3cde8_1
     - libdeflate =1.25 =h17f619e_0
@@ -214,7 +214,7 @@ requirements:
     - libiconv =1.18 =h3b78370_2
     - libjpeg-turbo =3.1.2 =hb03c661_0
     - liblapack =3.11.0 =5_h47877c9_openblas
-    - libllvm21 =21.1.7 =hf7376ad_0
+    - libllvm21 =21.1.8 =hf7376ad_0
     - liblzma =5.8.1 =hb9d3cd8_2
     - libnghttp2 =1.67.0 =had1ee68_0
     - libnsl =2.0.1 =hb9d3cd8_1
@@ -461,7 +461,7 @@ requirements:
     - r-s7 =0.2.1 =r45h54b55ab_0
     - r-sass =0.4.10 =r45h3697838_1
     - r-scales =1.4.0 =r45hc72bb7e_1
-    - r-selectr =0.5_0 =r45hc72bb7e_0
+    - r-selectr =0.5_1 =r45hc72bb7e_0
     - r-shape =1.4.6.1 =r45ha770c72_2
     - r-shiny =1.12.1 =r45h785f33e_0
     - r-sourcetools =0.1.7_1 =r45h3697838_3

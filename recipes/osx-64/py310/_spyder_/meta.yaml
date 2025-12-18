@@ -32,7 +32,7 @@ requirements:
     - pyqt =5.15.11 =py310h6c6f83e_2
     - pyqtwebengine =5.15.11 =py310h25763a6_2
     - scipy =1.15.2 =py310hef62574_0
-    - spyder =6.1.1 =hd8ed1ab_2
+    - spyder =6.1.2 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
     # 293 secondary packages :
@@ -44,7 +44,7 @@ requirements:
     - applaunchservices =0.3.0 =pyh534df25_4
     - appnope =0.1.4 =pyhd8ed1ab_1
     - arrow =1.4.0 =pyhcf101f3_0
-    - astroid =3.3.11 =py310h2ec42d9_1
+    - astroid =4.0.2 =py310h2ec42d9_0
     - asttokens =3.0.1 =pyhd8ed1ab_0
     - async-timeout =5.0.1 =pyhd8ed1ab_1
     - asyncssh =2.21.1 =pyhd8ed1ab_0
@@ -116,7 +116,7 @@ requirements:
     - ipykernel =6.31.0 =pyh5552912_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
-    - isort =6.1.0 =pyhd8ed1ab_0
+    - isort =7.0.0 =pyhd8ed1ab_0
     - jaraco.classes =3.4.0 =pyhd8ed1ab_2
     - jaraco.context =6.0.1 =pyhd8ed1ab_0
     - jaraco.functools =4.3.0 =pyhd8ed1ab_0
@@ -139,7 +139,7 @@ requirements:
     - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.11.0 =5_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_16
-    - libclang13 =21.1.7 =default_h7f9524c_1
+    - libclang13 =21.1.7 =default_h7f9524c_2
     - libcxx =21.1.8 =h3d58e20_0
     - libdeflate =1.25 =h517ebb2_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
@@ -176,7 +176,7 @@ requirements:
     - libxml2 =2.15.1 =h7b7ecba_0
     - libxml2-16 =2.15.1 =ha1d9b0f_0
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =21.1.7 =h472b3d1_0
+    - llvm-openmp =21.1.8 =h472b3d1_0
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.0.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py310hd951482_0
@@ -232,7 +232,7 @@ requirements:
     - pygithub =2.8.1 =pyhd8ed1ab_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyjwt =2.10.1 =pyhd8ed1ab_0
-    - pylint =3.3.9 =pyhcf101f3_0
+    - pylint =4.0.4 =pyhcf101f3_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.6.1 =py310hd2d5e8d_0
@@ -250,8 +250,8 @@ requirements:
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
     - python-lsp-ruff =2.3.0 =pyhcf101f3_0
-    - python-lsp-server =1.13.2 =pyh332efcf_0
-    - python-lsp-server-base =1.13.2 =pyhd8ed1ab_0
+    - python-lsp-server =1.14.0 =pyh332efcf_0
+    - python-lsp-server-base =1.14.0 =pyhd8ed1ab_0
     - python-slugify =8.0.4 =pyhd8ed1ab_1
     - python-tzdata =2025.3 =pyhd8ed1ab_0
     - python.app =1.4 =py310h1b7cace_5
@@ -293,7 +293,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
-    - spyder-base =6.1.1 =osx_pyh1a5313d_2
+    - spyder-base =6.1.2 =osx_pyh1a5313d_0
     - spyder-kernels =3.1.2 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.6 =pyhb6d5dde_0
