@@ -35,7 +35,7 @@ requirements:
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py312h1f38498_0
     - numba =0.63.1 =py312h5d8d915_0
-    - numpy =2.3.5 =py312h85ea64e_0
+    - numpy =2.3.5 =py312he281c53_0
     - openpyxl =3.1.5 =py312h4fb2c50_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py312h5978115_2
@@ -56,7 +56,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.2 =unix_pyh707e725_0
     - sqlalchemy =2.0.45 =py312h4409184_0
-    - sqlite =3.51.1 =he8f07e4_0
+    - sqlite =3.51.1 =h85ec8f2_1
     - sympy =1.14.0 =pyh2585a3b_105
     - tqdm =4.67.1 =pyhd8ed1ab_1
     - transitions =0.9.3 =pyhe01879c_0
@@ -254,7 +254,7 @@ requirements:
     - librsvg =2.60.0 =h5c55ec3_0
     - libsodium =1.0.20 =h99b78c6_0
     - libsolv =0.7.35 =h5f525b2_0
-    - libsqlite =3.51.1 =h9a5124b_0
+    - libsqlite =3.51.1 =h1b79a29_1
     - libssh2 =1.11.1 =h1590b86_0
     - libtiff =4.7.1 =h4030677_1
     - libuv =1.51.0 =h6caf38d_1
@@ -420,7 +420,7 @@ requirements:
     - r-jquerylib =0.1.4 =r45hc72bb7e_4
     - r-jsonlite =2.0.0 =r45h6168396_1
     - r-kernsmooth =2.23_26 =r45hc8a44f4_1
-    - r-knitr =1.50 =r45hc72bb7e_1
+    - r-knitr =1.51 =r45hc72bb7e_0
     - r-labeling =0.4.3 =r45hc72bb7e_2
     - r-later =1.4.4 =r45hc1cd577_1
     - r-lattice =0.22_7 =r45h6168396_1
