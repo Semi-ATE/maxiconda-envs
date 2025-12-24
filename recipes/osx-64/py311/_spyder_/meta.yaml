@@ -25,7 +25,7 @@ requirements:
     - python =3.11.14 =h74c2667_2_cpython
 
     # 9 primary packages :
-    - cython =3.2.3 =py311hb8ba39f_0
+    - cython =3.2.3 =py311hac81038_1
     - matplotlib =3.10.8 =py311h6eed73b_0
     - numpy =2.4.0 =py311h3402b43_0
     - pandas =2.3.3 =py311hca9a5ca_2
@@ -183,7 +183,7 @@ requirements:
     - matplotlib-inline =0.2.1 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
-    - mistune =3.1.4 =pyhcf101f3_0
+    - mistune =3.2.0 =pyhcf101f3_0
     - more-itertools =10.8.0 =pyhcf101f3_1
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
@@ -191,7 +191,7 @@ requirements:
     - multidict =6.7.0 =py311h24ee9f8_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - mypy_extensions =1.1.0 =pyha770c72_0
-    - nbclient =0.10.2 =pyhd8ed1ab_0
+    - nbclient =0.10.4 =pyhd8ed1ab_0
     - nbconvert =7.16.6 =hc388f54_1
     - nbconvert-core =7.16.6 =pyhcf101f3_1
     - nbconvert-pandoc =7.16.6 =h7d6f222_1
@@ -240,7 +240,7 @@ requirements:
     - pyobjc-framework-coreservices =12.1 =py311hf197a57_2
     - pyobjc-framework-fsevents =12.1 =py311h6eed73b_2
     - pyopenssl =25.3.0 =pyhd8ed1ab_0
-    - pyparsing =3.3.0 =pyhcf101f3_0
+    - pyparsing =3.3.1 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py311hf0b9b45_2
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2

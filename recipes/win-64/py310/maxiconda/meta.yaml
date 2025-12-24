@@ -29,9 +29,9 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - bitarray =3.8.0 =py310h29418f3_0
-    - cython =3.2.3 =py310h23e71ea_0
+    - cython =3.2.3 =py310h23e71ea_1
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.148.7 =pyha770c72_0
+    - hypothesis =6.148.8 =pyha770c72_0
     - ipython =8.37.0 =pyha7b4d00_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py310h5588dad_0
@@ -80,7 +80,7 @@ requirements:
     - attrs =25.4.0 =pyhcf101f3_1
     - babel =2.17.0 =pyhd8ed1ab_0
     - backports.zstd =1.2.0 =py310h458dff3_0
-    - binutils_impl_win-64 =2.45 =default_ha84baeb_104
+    - binutils_impl_win-64 =2.45 =default_ha84baeb_105
     - bleach =6.3.0 =pyhcf101f3_0
     - bleach-with-css =6.3.0 =h5f6438b_0
     - brotli =1.2.0 =h2d644bc_1
@@ -165,7 +165,7 @@ requirements:
     - krb5 =1.21.3 =hdf4eb48_0
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.17 =hbcf6048_0
-    - ld_impl_win-64 =2.45 =default_hfd38196_104
+    - ld_impl_win-64 =2.45 =default_hfd38196_105
     - lerc =4.0.0 =h6470a55_1
     - libblas =3.11.0 =5_hf2e6a31_mkl
     - libbrotlicommon =1.2.0 =hfd05255_1
@@ -222,12 +222,12 @@ requirements:
     - mingw-w64-ucrt-x86_64-headers-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
     - mingw-w64-ucrt-x86_64-windows-default-manifest =6.4 =he206cdd_7
     - mingw-w64-ucrt-x86_64-winpthreads-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
-    - mistune =3.1.4 =pyhcf101f3_0
+    - mistune =3.2.0 =pyhcf101f3_0
     - mkl =2025.3.0 =hac47afa_454
     - mpmath =1.3.0 =pyhd8ed1ab_1
     - multidict =6.7.0 =py310hdb0e946_0
     - munkres =1.1.4 =pyhd8ed1ab_1
-    - nbclient =0.10.2 =pyhd8ed1ab_0
+    - nbclient =0.10.4 =pyhd8ed1ab_0
     - nbconvert-core =7.16.6 =pyhcf101f3_1
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
@@ -258,7 +258,7 @@ requirements:
     - pycparser =2.22 =pyh29332c3_1
     - pydantic-core =2.41.5 =py310h034784e_1
     - pygments =2.19.2 =pyhd8ed1ab_0
-    - pyparsing =3.3.0 =pyhcf101f3_0
+    - pyparsing =3.3.1 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py310h73ae2b4_2
     - pyside6 =6.10.1 =py310h96c60bd_0
     - pysocks =1.7.1 =pyh09c184e_7
@@ -349,7 +349,7 @@ requirements:
     - r-ipred =0.9_15 =r45heceb674_2
     - r-irdisplay =1.1 =r45hd8ed1ab_4
     - r-irkernel =1.3.2 =r45h785f33e_3
-    - r-isoband =0.2.7 =r45hd8a2815_4
+    - r-isoband =0.3.0 =r45hd8a2815_0
     - r-iterators =1.0.14 =r45hc72bb7e_4
     - r-jquerylib =0.1.4 =r45hc72bb7e_4
     - r-jsonlite =2.0.0 =r45heceb674_1
@@ -452,7 +452,7 @@ requirements:
     - r-vroom =1.6.7 =r45hd8a2815_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.55 =r45hd8a2815_0
-    - r-xml2 =1.5.0 =r45h1e5fb1b_0
+    - r-xml2 =1.5.1 =r45h1e5fb1b_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45heceb674_1
     - r-yaml =2.3.12 =r45heceb674_0
@@ -477,7 +477,7 @@ requirements:
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
     - tbb =2022.3.0 =hd094cb3_1
-    - terminado =0.18.1 =pyh5737063_0
+    - terminado =0.18.1 =pyh6dadd2b_1
     - tinycss2 =1.5.1 =pyhcf101f3_0
     - tk =8.6.13 =h2c6b04d_3
     - tktable =2.10 =h7e9e0db_7
