@@ -40,7 +40,7 @@ requirements:
     - openpyxl =3.1.5 =py312h6c49482_2
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py312hdc0efb6_1
-    - psutil =7.2.0 =py312hd41f8a7_0
+    - psutil =7.2.1 =py312hd41f8a7_0
     - pydantic =2.12.5 =pyhcf101f3_1
     - pyqt =5.15.11 =py312hc13527c_2
     - pyserial =3.5 =pyhd8ed1ab_1
@@ -86,7 +86,7 @@ requirements:
     - attr =2.5.1 =h4e544f5_1
     - attrs =25.4.0 =pyhcf101f3_1
     - babel =2.17.0 =pyhd8ed1ab_0
-    - backports.zstd =1.2.0 =py312h3d8e7d4_0
+    - backports.zstd =1.3.0 =py312h3d8e7d4_0
     - binutils_impl_linux-aarch64 =2.45 =default_h5f4c503_105
     - bleach =6.3.0 =pyhcf101f3_0
     - bleach-with-css =6.3.0 =h5f6438b_0
@@ -473,7 +473,7 @@ requirements:
     - r-progress =1.2.3 =r45hc72bb7e_2
     - r-progressr =0.18.0 =r45hc72bb7e_0
     - r-promises =1.5.0 =r45hc72bb7e_1
-    - r-proxy =0.4_28 =r45h0557e7b_0
+    - r-proxy =0.4_29 =r45h0557e7b_0
     - r-pryr =0.1.6 =r45h08b74da_3
     - r-ps =1.9.1 =r45h0557e7b_1
     - r-purrr =1.2.0 =r45h0557e7b_0
@@ -579,7 +579,7 @@ requirements:
     - typing-inspection =0.4.2 =pyhd8ed1ab_1
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
-    - tzdata =2025c =h8577fbf_0
+    - tzdata =2025c =hc9c84f9_1
     - unicodedata2 =17.0.0 =py312hcd1a082_1
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.6.2 =pyhd8ed1ab_0

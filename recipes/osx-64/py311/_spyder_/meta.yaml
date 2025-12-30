@@ -53,7 +53,7 @@ requirements:
     - babel =2.17.0 =pyhd8ed1ab_0
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhd8ed1ab_1
-    - backports.zstd =1.2.0 =py311hd694d0d_0
+    - backports.zstd =1.3.0 =py311hdc67420_0
     - bcrypt =5.0.0 =py311hd2a4513_1
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - binaryornot =0.4.4 =pyhd8ed1ab_2
@@ -219,7 +219,7 @@ requirements:
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.3.1 =py311ha3cf9ac_0
-    - psutil =7.2.0 =py311ha332486_0
+    - psutil =7.2.1 =py311ha332486_0
     - pthread-stubs =0.4 =h00291cd_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
@@ -309,7 +309,7 @@ requirements:
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - typing-extensions =4.15.0 =h396c80c_0
     - typing_extensions =4.15.0 =pyhcf101f3_0
-    - tzdata =2025c =h8577fbf_0
+    - tzdata =2025c =hc9c84f9_1
     - ujson =5.11.0 =py311hc651eee_1
     - unicodedata2 =17.0.0 =py311hf197a57_1
     - urllib3 =2.6.2 =pyhd8ed1ab_0
