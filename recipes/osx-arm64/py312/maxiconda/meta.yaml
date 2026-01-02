@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - cython =3.2.3 =py312hedd66cf_1
     - grayskull =2.9.2 =pyhcf101f3_0
-    - hypothesis =6.148.8 =pyha770c72_0
+    - hypothesis =6.148.9 =pyha770c72_0
     - ipython =9.8.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py312h1f38498_0
@@ -42,7 +42,7 @@ requirements:
     - psutil =7.2.1 =py312hb3ab3e3_0
     - pydantic =2.12.5 =pyhcf101f3_1
     - pyqt =5.15.11 =py312h6612b97_2
-    - pyserial =3.5 =pyhd8ed1ab_1
+    - pyserial =3.5 =pyhcf101f3_2
     - pytest =9.0.2 =pyhcf101f3_0
     - pyyaml =6.0.3 =py312h5748b74_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
@@ -215,7 +215,7 @@ requirements:
     - libcblas =3.11.0 =5_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_h73dfc95_16
     - libclang-cpp21.1 =21.1.7 =default_h73dfc95_1
-    - libclang13 =21.1.7 =default_h13b06bd_2
+    - libclang13 =21.1.7 =default_h13b06bd_3
     - libcurl =8.17.0 =hdece5d2_1
     - libcxx =21.1.8 =hf598326_0
     - libcxx-devel =21.1.8 =h6dc3340_0
