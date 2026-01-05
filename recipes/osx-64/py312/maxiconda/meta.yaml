@@ -25,13 +25,13 @@ requirements:
     - python =3.12.12 =h74c2667_1_cpython
 
     # 38 primary packages :
-    - aiohttp =3.13.2 =py312h352d07c_0
+    - aiohttp =3.13.3 =py312h80cd6c1_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - bitarray =3.8.0 =py312h80b0991_0
     - cython =3.2.3 =py312h84c01df_1
     - grayskull =2.9.2 =pyhcf101f3_0
-    - hypothesis =6.148.9 =pyha770c72_0
+    - hypothesis =6.148.11 =pyha770c72_0
     - ipython =9.8.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py312hb401068_0
@@ -93,13 +93,13 @@ requirements:
     - bwidget =1.10.1 =h694c41f_1
     - bzip2 =1.0.8 =h500dc9f_8
     - c-ares =1.34.6 =hb5e19a0_0
-    - ca-certificates =2025.11.12 =hbd8a1cb_0
+    - ca-certificates =2026.1.4 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h950ec3b_0
     - cctools_impl_osx-64 =1030.6.3 =llvm21_1_h81d60ea_1
     - cctools_osx-64 =1030.6.3 =llvm21_1_h8f0d4bb_1
-    - certifi =2025.11.12 =pyhd8ed1ab_0
+    - certifi =2026.1.4 =pyhd8ed1ab_0
     - cffi =2.0.0 =py312he90777b_1
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
     - clang =21.1.7 =default_h1323312_1

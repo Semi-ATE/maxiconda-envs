@@ -25,13 +25,13 @@ requirements:
     - python =3.11.14 =h91f4b29_2_cpython
 
     # 38 primary packages :
-    - aiohttp =3.13.2 =py311h1726fb8_0
+    - aiohttp =3.13.3 =py311hf076524_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - bitarray =3.8.0 =py311h19352d5_0
     - cython =3.2.3 =py311hdc11669_1
     - grayskull =2.9.2 =pyhcf101f3_0
-    - hypothesis =6.148.9 =pyha770c72_0
+    - hypothesis =6.148.11 =pyha770c72_0
     - ipython =9.8.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py311hfecb2dc_0
@@ -94,11 +94,11 @@ requirements:
     - bwidget =1.10.1 =h8af1aa0_1
     - bzip2 =1.0.8 =h4777abc_8
     - c-ares =1.34.6 =he30d5cf_0
-    - ca-certificates =2025.11.12 =hbd8a1cb_0
+    - ca-certificates =2026.1.4 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h83712da_0
-    - certifi =2025.11.12 =pyhd8ed1ab_0
+    - certifi =2026.1.4 =pyhd8ed1ab_0
     - cffi =2.0.0 =py311h460c349_1
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
     - click =8.3.1 =pyh8f84b5b_1
@@ -528,7 +528,7 @@ requirements:
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
     - rpds-py =0.30.0 =py311hc91c717_0
-    - ruamel.yaml =0.19.0 =pyhcf101f3_0
+    - ruamel.yaml =0.19.1 =pyhcf101f3_0
     - ruamel.yaml.clib =0.2.15 =py311h51cfe5d_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - ruamel_yaml =0.15.80 =py311hcd402e7_1009
