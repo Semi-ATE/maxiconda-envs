@@ -25,7 +25,7 @@ requirements:
     - python =3.11.14 =h74c2667_2_cpython
 
     # 9 primary packages :
-    - cython =3.2.3 =py311hac81038_1
+    - cython =3.2.4 =py311hac81038_0
     - matplotlib =3.10.8 =py311h6eed73b_0
     - numpy =2.4.0 =py311h3402b43_0
     - pandas =2.3.3 =py311hca9a5ca_2
@@ -113,7 +113,7 @@ requirements:
     - inflection =0.5.1 =pyhd8ed1ab_1
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.31.0 =pyh5552912_0
-    - ipython =9.8.0 =pyh53cf698_0
+    - ipython =9.9.0 =pyh53cf698_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
     - isort =7.0.0 =pyhd8ed1ab_0
     - jaraco.classes =3.4.0 =pyhcf101f3_3

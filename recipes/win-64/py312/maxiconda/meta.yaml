@@ -29,10 +29,10 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - bitarray =3.8.0 =py312he06e257_0
-    - cython =3.2.3 =py312hd245ac3_1
+    - cython =3.2.4 =py312hd245ac3_0
     - grayskull =2.9.2 =pyhcf101f3_0
-    - hypothesis =6.148.11 =pyha770c72_0
-    - ipython =9.8.0 =pyhe2676ad_0
+    - hypothesis =6.149.0 =pyha770c72_0
+    - ipython =9.9.0 =pyhe2676ad_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py312h2e8e312_0
     - numba =0.63.1 =py312h560f1c9_0
@@ -186,7 +186,7 @@ requirements:
     - lcms2 =2.17 =hbcf6048_0
     - ld_impl_win-64 =2.45 =default_hfd38196_105
     - lerc =4.0.0 =h6470a55_1
-    - libarchive =3.8.2 =gpl_h26aea39_100
+    - libarchive =3.8.5 =gpl_he24518a_100
     - libblas =3.11.0 =5_hf2e6a31_mkl
     - libbrotlicommon =1.2.0 =hfd05255_1
     - libbrotlidec =1.2.0 =hfd05255_1
@@ -250,7 +250,7 @@ requirements:
     - mingw-w64-ucrt-x86_64-windows-default-manifest =6.4 =he206cdd_7
     - mingw-w64-ucrt-x86_64-winpthreads-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
     - mistune =3.2.0 =pyhcf101f3_0
-    - mkl =2025.3.0 =hac47afa_454
+    - mkl =2025.3.0 =hac47afa_455
     - mpmath =1.3.0 =pyhd8ed1ab_1
     - msgpack-python =1.1.2 =py312hf90b1b7_1
     - multidict =6.7.0 =py312h05f76fc_0
