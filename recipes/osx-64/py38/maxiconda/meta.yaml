@@ -99,13 +99,12 @@ requirements:
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hc8bcfa4_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
-    - clang =21.1.7 =default_h1323312_1
-    - clang-21 =21.1.7 =default_h9f74b92_1
-    - clang_impl_osx-64 =21.1.7 =h850ca3a_28
-    - clang_osx-64 =21.1.7 =h7e5c614_28
-    - clangxx =21.1.7 =default_h1c12a56_1
-    - clangxx_impl_osx-64 =21.1.7 =hd9a3690_28
-    - clangxx_osx-64 =21.1.7 =h7e5c614_28
+    - clang =21.1.7 =default_cfg_h93fe8ef_3
+    - clang-21 =21.1.7 =default_h447f92f_3
+    - clang_impl_osx-64 =21.1.7 =default_cfg_he9bf3b8_3
+    - clang_osx-64 =21.1.7 =h6468ab6_28
+    - clangxx_impl_osx-64 =21.1.7 =default_cfg_he9bf3b8_3
+    - clangxx_osx-64 =21.1.7 =h6468ab6_28
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.1.0 =pyhd8ed1ab_1
     - colorama =0.4.6 =pyhd8ed1ab_0
@@ -113,6 +112,7 @@ requirements:
     - compiler-rt =21.1.7 =h694c41f_0
     - compiler-rt21 =21.1.7 =he914875_0
     - compiler-rt21_osx-64 =21.1.7 =he0f92a2_0
+    - compiler-rt_osx-64 =21.1.7 =h694c41f_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h15a1a5b_1
     - cpython =3.8.20 =py38hd8ed1ab_2
@@ -194,7 +194,7 @@ requirements:
     - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_16
-    - libclang-cpp21.1 =21.1.7 =default_hc369343_1
+    - libclang-cpp21.1 =21.1.7 =default_hd70426c_3
     - libclang13 =21.1.7 =default_h5e75a71_3
     - libcurl =8.17.0 =h7dd4100_1
     - libcxx =21.1.8 =h3d58e20_0
@@ -503,7 +503,7 @@ requirements:
     - ruamel.yaml.clib =0.2.8 =py38hae2e43d_0
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_0
     - rust-std-x86_64-apple-darwin =1.92.0 =h38e4360_0
-    - sdkroot_env_osx-64 =14.5 =hbf94ba6_4
+    - sdkroot_env_osx-64 =26.0 =hda3c137_5
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.3 =pyh31c8845_0
     - setuptools =75.3.0 =pyhd8ed1ab_0

@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py310h5b55623_0
     - cython =3.2.4 =py310h0d97cfb_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.149.0 =pyha770c72_0
+    - hypothesis =6.150.0 =pyha770c72_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py310hbbe02a8_0
@@ -71,7 +71,7 @@ requirements:
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alsa-lib =1.2.15.1 =he30d5cf_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
-    - anyio =4.12.0 =pyhcf101f3_0
+    - anyio =4.12.1 =pyhcf101f3_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =25.1.0 =py310h5b55623_2
     - arrow =1.4.0 =pyhcf101f3_0
@@ -140,7 +140,7 @@ requirements:
     - gst-plugins-base =1.24.11 =h83ffb7f_0
     - gstreamer =1.24.11 =h17c303d_0
     - gxx_impl_linux-aarch64 =15.2.0 =h03e2352_16
-    - h11 =0.16.0 =pyhd8ed1ab_0
+    - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.3.0 =pyhcf101f3_0
     - harfbuzz =12.2.0 =he4899c9_0
     - hpack =4.1.0 =pyhd8ed1ab_0
