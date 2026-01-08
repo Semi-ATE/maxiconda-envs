@@ -118,7 +118,7 @@ requirements:
     - contourpy =1.3.3 =py312hd9148b4_3
     - cpp-expected =1.3.1 =h171cf75_0
     - cpython =3.12.12 =py312hd8ed1ab_1
-    - curl =8.17.0 =h4e3cde8_1
+    - curl =8.18.0 =h4e3cde8_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hd9c7081_0
     - dbus =1.16.2 =h24cb091_1
@@ -211,10 +211,10 @@ requirements:
     - libbrotlienc =1.2.0 =hb03c661_1
     - libcap =2.77 =h3ff7636_0
     - libcblas =3.11.0 =5_h0358290_openblas
-    - libclang-cpp21.1 =21.1.7 =default_h99862b1_3
-    - libclang13 =21.1.7 =default_h746c552_3
+    - libclang-cpp21.1 =21.1.8 =default_h99862b1_0
+    - libclang13 =21.1.8 =default_h746c552_0
     - libcups =2.3.3 =hb8b1518_5
-    - libcurl =8.17.0 =h4e3cde8_1
+    - libcurl =8.18.0 =h4e3cde8_0
     - libdeflate =1.25 =h17f619e_0
     - libdrm =2.4.125 =hb03c661_1
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -246,8 +246,8 @@ requirements:
     - liblapack =3.11.0 =5_h47877c9_openblas
     - libllvm21 =21.1.8 =hf7376ad_0
     - liblzma =5.8.1 =hb9d3cd8_2
-    - libmamba =2.4.0 =hed7d790_1
-    - libmambapy =2.4.0 =py312h17091a9_1
+    - libmamba =2.4.0 =h4ec3fe3_2
+    - libmambapy =2.4.0 =py312h2ce4dd5_2
     - libnghttp2 =1.67.0 =had1ee68_0
     - libnsl =2.0.1 =hb9d3cd8_1
     - libntlm =1.8 =hb9d3cd8_0
@@ -583,7 +583,7 @@ requirements:
     - tzdata =2025c =hc9c84f9_1
     - unicodedata2 =17.0.0 =py312h4c3975b_1
     - uri-template =1.3.0 =pyhd8ed1ab_1
-    - urllib3 =2.6.2 =pyhd8ed1ab_0
+    - urllib3 =2.6.3 =pyhd8ed1ab_0
     - wayland =1.24.0 =hd6090a7_1
     - wcwidth =0.2.14 =pyhd8ed1ab_0
     - webcolors =25.10.0 =pyhd8ed1ab_0

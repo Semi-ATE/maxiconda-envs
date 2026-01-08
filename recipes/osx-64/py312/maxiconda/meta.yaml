@@ -97,25 +97,26 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h950ec3b_0
-    - cctools_impl_osx-64 =1030.6.3 =llvm21_1_h81d60ea_1
-    - cctools_osx-64 =1030.6.3 =llvm21_1_h8f0d4bb_1
+    - cctools =1030.6.3 =llvm21_1_he201b2c_3
+    - cctools_impl_osx-64 =1030.6.3 =llvm21_1_h81d60ea_3
+    - cctools_osx-64 =1030.6.3 =llvm21_1_h8f0d4bb_3
     - certifi =2026.1.4 =pyhd8ed1ab_0
     - cffi =2.0.0 =py312he90777b_1
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
-    - clang =21.1.7 =default_cfg_h93fe8ef_3
-    - clang-21 =21.1.7 =default_h447f92f_3
-    - clang_impl_osx-64 =21.1.7 =default_cfg_he9bf3b8_3
-    - clang_osx-64 =21.1.7 =h6468ab6_28
-    - clangxx_impl_osx-64 =21.1.7 =default_cfg_he9bf3b8_3
-    - clangxx_osx-64 =21.1.7 =h6468ab6_28
+    - clang =21.1.8 =default_cfg_h93fe8ef_1
+    - clang-21 =21.1.8 =default_h447f92f_1
+    - clang_impl_osx-64 =21.1.8 =default_he9bf3b8_1
+    - clang_osx-64 =21.1.8 =h64238a7_29
+    - clangxx_impl_osx-64 =21.1.8 =default_he9bf3b8_1
+    - clangxx_osx-64 =21.1.8 =h64238a7_29
     - click =8.3.1 =pyh8f84b5b_1
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - compiler-rt =21.1.7 =h694c41f_0
-    - compiler-rt21 =21.1.7 =he914875_0
-    - compiler-rt21_osx-64 =21.1.7 =he0f92a2_0
-    - compiler-rt_osx-64 =21.1.7 =h694c41f_0
+    - compiler-rt =21.1.8 =h694c41f_0
+    - compiler-rt21 =21.1.8 =he914875_0
+    - compiler-rt21_osx-64 =21.1.8 =he0f92a2_0
+    - compiler-rt_osx-64 =21.1.8 =h694c41f_0
     - conda =25.11.1 =py312hb401068_0
     - conda-libmamba-solver =25.11.0 =pyhd8ed1ab_0
     - conda-package-handling =2.4.0 =pyh7900ff3_2
@@ -125,7 +126,7 @@ requirements:
     - contourpy =1.3.3 =py312hd099df3_3
     - cpp-expected =1.3.1 =h0ba0a54_0
     - cpython =3.12.12 =py312hd8ed1ab_1
-    - curl =8.17.0 =h7dd4100_1
+    - curl =8.18.0 =h9348e2b_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h610c526_0
     - debugpy =1.8.19 =py312h6c02384_0
@@ -204,8 +205,8 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.17 =h72f5680_0
-    - ld64 =956.6 =llvm21_1_h2eed689_1
-    - ld64_osx-64 =956.6 =llvm21_1_h2cc85ee_1
+    - ld64 =956.6 =llvm21_1_h2eed689_3
+    - ld64_osx-64 =956.6 =llvm21_1_h2cc85ee_3
     - lerc =4.0.0 =hcca01a6_1
     - libarchive =3.8.5 =gpl_h264331f_100
     - libasprintf =0.25.1 =h3184127_1
@@ -215,9 +216,9 @@ requirements:
     - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.11.0 =5_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_16
-    - libclang-cpp21.1 =21.1.7 =default_hd70426c_3
-    - libclang13 =21.1.7 =default_h5e75a71_3
-    - libcurl =8.17.0 =h7dd4100_1
+    - libclang-cpp21.1 =21.1.8 =default_hd70426c_1
+    - libclang13 =21.1.8 =default_h5e75a71_1
+    - libcurl =8.18.0 =h9348e2b_0
     - libcxx =21.1.8 =h3d58e20_0
     - libcxx-devel =21.1.8 =h7c275be_0
     - libcxx-headers =21.1.8 =h707e725_0
@@ -241,10 +242,10 @@ requirements:
     - libjpeg-turbo =3.1.2 =h8616949_0
     - liblapack =3.11.0 =5_h859234e_openblas
     - libllvm18 =18.1.8 =default_hc369343_11
-    - libllvm21 =21.1.7 =h56e7563_0
+    - libllvm21 =21.1.8 =h56e7563_0
     - liblzma =5.8.1 =hd471939_2
-    - libmamba =2.4.0 =h3ba590b_1
-    - libmambapy =2.4.0 =py312h5710069_1
+    - libmamba =2.4.0 =h506ddd0_2
+    - libmambapy =2.4.0 =py312h2d64e5d_2
     - libnghttp2 =1.67.0 =h3338091_0
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =he3325bb_1
@@ -267,8 +268,8 @@ requirements:
     - libxml2-16 =2.15.1 =ha1d9b0f_0
     - libzlib =1.3.1 =hd23fc13_2
     - llvm-openmp =21.1.8 =h472b3d1_0
-    - llvm-tools =21.1.7 =hb0207f0_0
-    - llvm-tools-21 =21.1.7 =h879f4bc_0
+    - llvm-tools =21.1.8 =hb0207f0_0
+    - llvm-tools-21 =21.1.8 =h879f4bc_0
     - llvmlite =0.46.0 =py312h331d821_0
     - lz4-c =1.10.0 =h240833e_1
     - lzo =2.10 =h4132b18_1002
@@ -541,7 +542,6 @@ requirements:
     - sdkroot_env_osx-64 =26.0 =hda3c137_5
     - send2trash =2.0.0 =pyh5552912_0
     - setuptools =80.9.0 =pyhff2d567_0
-    - sigtool =0.1.3 =hc0f2934_0
     - sigtool-codesign =0.1.3 =hc0f2934_0
     - simdjson =4.2.4 =hcb651aa_0
     - sip =6.10.0 =py312h69bf00f_1
@@ -570,7 +570,7 @@ requirements:
     - tzdata =2025c =hc9c84f9_1
     - unicodedata2 =17.0.0 =py312h80b0991_1
     - uri-template =1.3.0 =pyhd8ed1ab_1
-    - urllib3 =2.6.2 =pyhd8ed1ab_0
+    - urllib3 =2.6.3 =pyhd8ed1ab_0
     - wcwidth =0.2.14 =pyhd8ed1ab_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
