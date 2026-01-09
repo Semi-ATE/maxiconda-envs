@@ -61,10 +61,10 @@ requirements:
     - krb5 =1.21.3 =hdf4eb48_0
     - libblas =3.11.0 =5_hf2e6a31_mkl
     - libcblas =3.11.0 =5_h2a3cdd5_mkl
-    - libclang13 =21.1.8 =default_ha2db4b5_0
+    - libclang13 =21.1.8 =default_ha2db4b5_1
     - libffi =3.5.2 =h52bdfb6_0
     - libglib =2.86.3 =h0c9aed9_0
-    - libhwloc =2.12.1 =default_h4379cf1_1003
+    - libhwloc =2.12.2 =default_h4379cf1_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
@@ -112,7 +112,7 @@ requirements:
     - sip =6.7.12 =py38hd3f51b4_0
     - six =1.16.0 =pyh6c4a22f_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
-    - tbb =2022.3.0 =hd094cb3_1
+    - tbb =2022.3.0 =h3155e25_2
     - tk =8.6.13 =h2c6b04d_3
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.2 =pyhd8ed1ab_0

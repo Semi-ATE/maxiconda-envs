@@ -149,9 +149,9 @@ requirements:
     - jedi =0.19.2 =pyhd8ed1ab_1
     - json5 =0.13.0 =pyhd8ed1ab_0
     - jsonpointer =3.0.0 =pyhcf101f3_3
-    - jsonschema =4.25.1 =pyhe01879c_0
+    - jsonschema =4.26.0 =pyhcf101f3_0
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
-    - jsonschema-with-format-nongpl =4.25.1 =he01879c_0
+    - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_0
     - jupyter-lsp =2.3.0 =pyhcf101f3_0
     - jupyter_client =8.7.0 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyh6dadd2b_0
@@ -172,7 +172,7 @@ requirements:
     - libbrotlidec =1.2.0 =hfd05255_1
     - libbrotlienc =1.2.0 =hfd05255_1
     - libcblas =3.11.0 =5_h2a3cdd5_mkl
-    - libclang13 =21.1.8 =default_ha2db4b5_0
+    - libclang13 =21.1.8 =default_ha2db4b5_1
     - libcurl =8.18.0 =h43ecb02_0
     - libdeflate =1.25 =h51727cc_0
     - libexpat =2.7.3 =hac47afa_0
@@ -185,7 +185,7 @@ requirements:
     - libgfortran5 =15.2.0 =h44d81a7_16
     - libglib =2.86.3 =h0c9aed9_0
     - libgomp =15.2.0 =h8ee18e1_16
-    - libhwloc =2.12.1 =default_h4379cf1_1003
+    - libhwloc =2.12.2 =default_h4379cf1_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
@@ -356,11 +356,11 @@ requirements:
     - r-kernsmooth =2.23_26 =r45ha84b8e4_1
     - r-knitr =1.51 =r45hc72bb7e_0
     - r-labeling =0.4.3 =r45hc72bb7e_2
-    - r-later =1.4.4 =r45hd8a2815_1
+    - r-later =1.4.5 =r45hd8a2815_0
     - r-lattice =0.22_7 =r45heceb674_1
     - r-lava =1.8.2 =r45hc72bb7e_0
     - r-lazyeval =0.2.2 =r45heceb674_6
-    - r-lifecycle =1.0.4 =r45hc72bb7e_2
+    - r-lifecycle =1.0.5 =r45hc72bb7e_0
     - r-listenv =0.10.0 =r45hc72bb7e_0
     - r-lobstr =1.1.3 =r45hd8a2815_0
     - r-lubridate =1.9.4 =r45heceb674_1
@@ -379,7 +379,7 @@ requirements:
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
     - r-openssl =2.3.4 =r45haf339c7_0
     - r-otel =0.2.0 =r45hc72bb7e_1
-    - r-parallelly =1.46.0 =r45heceb674_0
+    - r-parallelly =1.46.1 =r45heceb674_0
     - r-pbdzmq =0.3_14 =r45h27c3720_1
     - r-pillar =1.11.1 =r45hc72bb7e_0
     - r-pkgconfig =2.0.3 =r45hc72bb7e_5
@@ -476,7 +476,7 @@ requirements:
     - soupsieve =2.8.1 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
-    - tbb =2022.3.0 =hd094cb3_1
+    - tbb =2022.3.0 =h3155e25_2
     - terminado =0.18.1 =pyh6dadd2b_1
     - tinycss2 =1.5.1 =pyhcf101f3_0
     - tk =8.6.13 =h2c6b04d_3

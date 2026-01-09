@@ -129,7 +129,7 @@ requirements:
     - jedi =0.19.2 =pyhd8ed1ab_1
     - jellyfish =1.2.1 =py312hb0142fd_1
     - jinja2 =3.1.6 =pyhcf101f3_1
-    - jsonschema =4.25.1 =pyhe01879c_0
+    - jsonschema =4.26.0 =pyhcf101f3_0
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jupyter_client =8.7.0 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyh6dadd2b_0
@@ -144,7 +144,7 @@ requirements:
     - libbrotlidec =1.2.0 =hfd05255_1
     - libbrotlienc =1.2.0 =hfd05255_1
     - libcblas =3.11.0 =5_h2a3cdd5_mkl
-    - libclang13 =21.1.8 =default_ha2db4b5_0
+    - libclang13 =21.1.8 =default_ha2db4b5_1
     - libdeflate =1.25 =h51727cc_0
     - libexpat =2.7.3 =hac47afa_0
     - libffi =3.5.2 =h52bdfb6_0
@@ -153,7 +153,7 @@ requirements:
     - libgcc =15.2.0 =h8ee18e1_16
     - libglib =2.86.3 =h0c9aed9_0
     - libgomp =15.2.0 =h8ee18e1_16
-    - libhwloc =2.12.1 =default_h4379cf1_1003
+    - libhwloc =2.12.2 =default_h4379cf1_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
@@ -204,7 +204,7 @@ requirements:
     - pandoc =3.8.3 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.5 =pyhcf101f3_0
-    - pathspec =1.0.1 =pyhd8ed1ab_0
+    - pathspec =1.0.2 =pyhd8ed1ab_0
     - pcre2 =10.47 =hd2b5f0e_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
@@ -292,7 +292,7 @@ requirements:
     - spyder-kernels =3.1.2 =win_pyh7428d3b_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.6 =pyhb6d5dde_0
-    - tbb =2022.3.0 =hd094cb3_1
+    - tbb =2022.3.0 =h3155e25_2
     - text-unidecode =1.3 =pyhd8ed1ab_2
     - textdistance =4.6.3 =pyhd8ed1ab_1
     - three-merge =0.1.1 =pyhd8ed1ab_1

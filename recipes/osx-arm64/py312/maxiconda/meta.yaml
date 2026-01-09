@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 523 secondary packages :
+    # 525 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
@@ -136,7 +136,7 @@ requirements:
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
     - exceptiongroup =1.3.1 =pyhd8ed1ab_0
     - executing =2.2.1 =pyhd8ed1ab_0
-    - fmt =12.0.0 =h669d743_0
+    - fmt =12.1.0 =h403dcb5_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -188,9 +188,9 @@ requirements:
     - json5 =0.13.0 =pyhd8ed1ab_0
     - jsonpatch =1.33 =pyhd8ed1ab_1
     - jsonpointer =3.0.0 =pyhcf101f3_3
-    - jsonschema =4.25.1 =pyhe01879c_0
+    - jsonschema =4.26.0 =pyhcf101f3_0
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
-    - jsonschema-with-format-nongpl =4.25.1 =he01879c_0
+    - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_0
     - jupyter-lsp =2.3.0 =pyhcf101f3_0
     - jupyter_client =8.7.0 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyhc90fa1f_0
@@ -243,8 +243,9 @@ requirements:
     - libllvm18 =18.1.8 =default_h3f38c9c_11
     - libllvm21 =21.1.8 =h8e0c9ce_0
     - liblzma =5.8.1 =h39f12f2_2
-    - libmamba =2.4.0 =h204cf41_2
-    - libmambapy =2.4.0 =py312hbe193d8_2
+    - libmamba =2.5.0 =h7950639_0
+    - libmamba-spdlog =2.5.0 =h85b9800_0
+    - libmambapy =2.5.0 =py312h55725b6_0
     - libnghttp2 =1.67.0 =hc438710_0
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
@@ -424,11 +425,11 @@ requirements:
     - r-kernsmooth =2.23_26 =r45hc8a44f4_1
     - r-knitr =1.51 =r45hc72bb7e_0
     - r-labeling =0.4.3 =r45hc72bb7e_2
-    - r-later =1.4.4 =r45hc1cd577_1
+    - r-later =1.4.5 =r45h1380947_0
     - r-lattice =0.22_7 =r45h6168396_1
     - r-lava =1.8.2 =r45hc72bb7e_0
     - r-lazyeval =0.2.2 =r45h6168396_6
-    - r-lifecycle =1.0.4 =r45hc72bb7e_2
+    - r-lifecycle =1.0.5 =r45hc72bb7e_0
     - r-listenv =0.10.0 =r45hc72bb7e_0
     - r-lobstr =1.1.3 =r45hc1cd577_0
     - r-lubridate =1.9.4 =r45h6168396_1
@@ -447,7 +448,7 @@ requirements:
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
     - r-openssl =2.3.4 =r45h7a56cc5_0
     - r-otel =0.2.0 =r45hc72bb7e_1
-    - r-parallelly =1.46.0 =r45h6168396_0
+    - r-parallelly =1.46.1 =r45hbe92478_0
     - r-pbdzmq =0.3_14 =r45h350048c_1
     - r-pillar =1.11.1 =r45hc72bb7e_0
     - r-pkgconfig =2.0.3 =r45hc72bb7e_5
@@ -549,6 +550,7 @@ requirements:
     - sniffio =1.3.1 =pyhd8ed1ab_2
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
     - soupsieve =2.8.1 =pyhd8ed1ab_0
+    - spdlog =1.17.0 =ha0f8610_1
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
     - tapi =1600.0.11.8 =h997e182_0
