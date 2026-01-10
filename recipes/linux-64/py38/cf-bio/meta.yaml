@@ -39,7 +39,7 @@ requirements:
     # 256 secondary packages :
     - _libgcc_mutex =0.1 =conda_forge
     - _openmp_mutex =4.5 =2_gnu
-    - alsa-lib =1.2.15.1 =hb03c661_0
+    - alsa-lib =1.2.15.2 =hb03c661_0
     - asttokens =3.0.0 =pyhd8ed1ab_0
     - attr =2.5.2 =h39aace5_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -122,7 +122,7 @@ requirements:
     - libbrotlienc =1.2.0 =hb03c661_1
     - libcap =2.77 =h3ff7636_0
     - libcblas =3.9.0 =20_linux64_openblas
-    - libclang-cpp19.1 =19.1.7 =default_h99862b1_6
+    - libclang-cpp19.1 =19.1.7 =default_h99862b1_7
     - libclang13 =21.1.0 =default_h746c552_1
     - libcups =2.3.3 =hb8b1518_5
     - libcurl =8.18.0 =h4e3cde8_0

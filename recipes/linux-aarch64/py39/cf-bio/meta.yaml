@@ -36,7 +36,7 @@ requirements:
 
     # 208 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
-    - alsa-lib =1.2.15.1 =he30d5cf_0
+    - alsa-lib =1.2.15.2 =he30d5cf_0
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - attr =2.5.1 =h4e544f5_1
     - brotli =1.2.0 =hd651790_1
@@ -99,7 +99,7 @@ requirements:
     - libbrotlienc =1.2.0 =he30d5cf_1
     - libcap =2.77 =h68e9139_0
     - libcblas =3.11.0 =5_hd72aa62_openblas
-    - libclang-cpp20.1 =20.1.8 =default_he95a3c9_6
+    - libclang-cpp20.1 =20.1.8 =default_he95a3c9_7
     - libclang13 =21.1.0 =default_h94a09a5_1
     - libcups =2.3.3 =h5cdc715_5
     - libdeflate =1.25 =h1af38f5_0
