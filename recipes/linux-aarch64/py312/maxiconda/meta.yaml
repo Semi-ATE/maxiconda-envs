@@ -71,7 +71,7 @@ requirements:
     - adwaita-icon-theme =49.0 =unix_0
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
-    - alsa-lib =1.2.15.2 =he30d5cf_0
+    - alsa-lib =1.2.15.3 =he30d5cf_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
     - anyio =4.12.1 =pyhcf101f3_0
     - archspec =0.2.5 =pyhd8ed1ab_0
@@ -254,9 +254,9 @@ requirements:
     - libogg =1.3.5 =h86ecc28_1
     - libopenblas =0.3.30 =pthreads_h9d3fd7e_4
     - libopengl =1.7.0 =hd24410f_2
-    - libopus =1.6 =he026bf2_0
+    - libopus =1.6 =h80f16a2_1
     - libpciaccess =0.18 =h86ecc28_0
-    - libpng =1.6.53 =h1abf092_0
+    - libpng =1.6.54 =h1abf092_0
     - libpq =18.1 =haf03d9f_2
     - librsvg =2.60.0 =h8171147_0
     - libsanitizer =15.2.0 =he19c465_16
@@ -328,7 +328,7 @@ requirements:
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
-    - prometheus_client =0.23.1 =pyhd8ed1ab_0
+    - prometheus_client =0.24.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.3.1 =py312hcc812fe_0
     - pthread-stubs =0.4 =h86ecc28_1002

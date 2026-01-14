@@ -42,7 +42,7 @@ requirements:
     - aiohttp =3.13.3 =py312he7e3343_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
-    - alsa-lib =1.2.15.2 =he30d5cf_0
+    - alsa-lib =1.2.15.3 =he30d5cf_0
     - arrow =1.4.0 =pyhcf101f3_0
     - astroid =4.0.3 =py312h996f985_0
     - asttokens =3.0.1 =pyhd8ed1ab_0
@@ -130,7 +130,7 @@ requirements:
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
     - isort =7.0.0 =pyhd8ed1ab_0
     - jaraco.classes =3.4.0 =pyhcf101f3_3
-    - jaraco.context =6.0.2 =pyhcf101f3_1
+    - jaraco.context =6.1.0 =pyhcf101f3_0
     - jaraco.functools =4.4.0 =pyhcf101f3_1
     - jedi =0.19.2 =pyhd8ed1ab_1
     - jeepney =0.9.0 =pyhd8ed1ab_0
@@ -189,9 +189,9 @@ requirements:
     - libogg =1.3.5 =h86ecc28_1
     - libopenblas =0.3.30 =pthreads_h9d3fd7e_4
     - libopengl =1.7.0 =hd24410f_2
-    - libopus =1.6 =he026bf2_0
+    - libopus =1.6 =h80f16a2_1
     - libpciaccess =0.18 =h86ecc28_0
-    - libpng =1.6.53 =h1abf092_0
+    - libpng =1.6.54 =h1abf092_0
     - libpq =17.7 =haf03d9f_1
     - libsndfile =1.2.2 =h30591a0_2
     - libsodium =1.0.20 =h68df207_0
