@@ -49,7 +49,7 @@ requirements:
     - qtawesome =1.4.0 =pyh9208f05_1
     - r-base =4.5.2 =hb2e0d2d_3
     - r-essentials =4.5 =r45hd8ed1ab_2006
-    - regex =2026.1.14 =py310h72544b6_0
+    - regex =2026.1.15 =py310h72544b6_0
     - requests =2.32.5 =pyhcf101f3_1
     - rust =1.92.0 =h4ff7c5d_0
     - scipy =1.15.2 =py310h32ab4ed_0
@@ -112,7 +112,7 @@ requirements:
     - compiler-rt21 =21.1.8 =h855ad52_0
     - compiler-rt21_osx-arm64 =21.1.8 =h2514db7_0
     - compiler-rt_osx-arm64 =21.1.8 =hce30654_0
-    - conda-souschef =2.2.3 =pyhd8ed1ab_0
+    - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.2 =py310h7f4e7e6_0
     - cpython =3.10.19 =py310hd8ed1ab_2
     - curl =8.18.0 =he38603e_0
@@ -173,7 +173,7 @@ requirements:
     - jupyter_core =5.9.1 =pyhc90fa1f_0
     - jupyter_events =0.12.0 =pyh29332c3_0
     - jupyter_server =2.17.0 =pyhcf101f3_0
-    - jupyter_server_terminals =0.5.3 =pyhd8ed1ab_1
+    - jupyter_server_terminals =0.5.4 =pyhcf101f3_0
     - jupyterlab =4.5.2 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.0 =pyhcf101f3_0
@@ -221,7 +221,7 @@ requirements:
     - libnghttp2 =1.67.0 =hc438710_0
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
-    - libopenblas =0.3.30 =openmp_ha158390_3
+    - libopenblas =0.3.30 =openmp_ha158390_4
     - libopus =1.6.1 =h1a92334_0
     - libpng =1.6.54 =h132b30e_0
     - libpq =18.1 =h944245b_2
