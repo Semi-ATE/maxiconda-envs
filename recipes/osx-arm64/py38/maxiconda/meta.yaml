@@ -221,8 +221,8 @@ requirements:
     - libllvm14 =14.0.6 =hd1a9a77_4
     - libllvm18 =18.1.8 =default_h3f38c9c_11
     - libllvm21 =21.1.8 =h8e0c9ce_0
-    - liblzma =5.8.1 =h39f12f2_2
-    - liblzma-devel =5.8.1 =h39f12f2_2
+    - liblzma =5.8.2 =h8088a28_0
+    - liblzma-devel =5.8.2 =h8088a28_0
     - libnghttp2 =1.67.0 =hc438710_0
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
@@ -356,7 +356,7 @@ requirements:
     - r-foreign =0.8_90 =r45h6168396_1
     - r-formatr =1.14 =r45hc72bb7e_3
     - r-fs =1.6.6 =r45hc1cd577_1
-    - r-future =1.68.0 =r45h785f33e_0
+    - r-future =1.69.0 =r45h785f33e_0
     - r-future.apply =1.20.1 =r45hc72bb7e_0
     - r-gargle =1.6.0 =r45h785f33e_1
     - r-generics =0.1.4 =r45hc72bb7e_1
@@ -433,7 +433,7 @@ requirements:
     - r-r6 =2.6.1 =r45hc72bb7e_1
     - r-ragg =1.5.0 =r45hf65f6a8_1
     - r-randomforest =4.7_1.2 =r45hd097873_1
-    - r-rappdirs =0.3.3 =r45h6168396_4
+    - r-rappdirs =0.3.4 =r45hbe92478_0
     - r-rbokeh =0.5.2 =r45hc72bb7e_5
     - r-rcolorbrewer =1.1_3 =r45h785f33e_4
     - r-rcpp =1.1.1 =r45h1380947_0
@@ -486,7 +486,7 @@ requirements:
     - r-vroom =1.6.7 =r45hc1cd577_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.55 =r45hc1cd577_0
-    - r-xml2 =1.5.1 =r45h7a605a7_0
+    - r-xml2 =1.5.2 =r45h46c16c0_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h6168396_1
     - r-yaml =2.3.12 =r45h6168396_0
@@ -539,9 +539,9 @@ requirements:
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
     - xorg-libxau =1.0.12 =hc919400_1
     - xorg-libxdmcp =1.1.5 =hc919400_1
-    - xz =5.8.1 =h9a6d368_2
-    - xz-gpl-tools =5.8.1 =h9a6d368_2
-    - xz-tools =5.8.1 =h39f12f2_2
+    - xz =5.8.2 =hd0f0c4f_0
+    - xz-gpl-tools =5.8.2 =hd0f0c4f_0
+    - xz-tools =5.8.2 =h8088a28_0
     - yaml =0.2.5 =h925e9cb_3
     - yarl =1.9.4 =py38h336bac9_0
     - zeromq =4.3.5 =hcc0f68c_4
