@@ -31,7 +31,7 @@ requirements:
     - pandas =2.3.3 =py312h86abcb1_2
     - pyqt =5.15.11 =py312hd9d23cd_2
     - pyqtwebengine =5.15.11 =py312h4194c27_2
-    - scipy =1.17.0 =py312ha20b133_0
+    - scipy =1.17.0 =py312ha20b133_1
     - spyder =6.1.2 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
@@ -86,7 +86,7 @@ requirements:
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.3.1 =pyhd8ed1ab_0
     - diff-match-patch =20241021 =pyhd8ed1ab_1
-    - dill =0.4.0 =pyhcf101f3_1
+    - dill =0.4.1 =pyhcf101f3_0
     - docstring-to-markdown =0.17 =pyhe01879c_0
     - docutils =0.22.4 =pyhd8ed1ab_0
     - exceptiongroup =1.3.1 =pyhd8ed1ab_0
@@ -138,7 +138,7 @@ requirements:
     - libbrotlidec =1.2.0 =h8616949_1
     - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.11.0 =5_h9b27e0a_openblas
-    - libclang-cpp18.1 =18.1.8 =default_hc369343_16
+    - libclang-cpp18.1 =18.1.8 =default_hc369343_17
     - libclang13 =21.1.8 =default_h5e75a71_1
     - libcxx =21.1.8 =h3d58e20_0
     - libdeflate =1.25 =h517ebb2_0

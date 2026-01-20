@@ -92,9 +92,9 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h950ec3b_0
-    - cctools =1030.6.3 =llvm21_1_he201b2c_3
-    - cctools_impl_osx-64 =1030.6.3 =llvm21_1_h81d60ea_3
-    - cctools_osx-64 =1030.6.3 =llvm21_1_h8f0d4bb_3
+    - cctools =1030.6.3 =llvm21_1_he201b2c_4
+    - cctools_impl_osx-64 =1030.6.3 =llvm21_1_h38679aa_4
+    - cctools_osx-64 =1030.6.3 =llvm21_1_h8f0d4bb_4
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h8ddeee6_0
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
@@ -182,8 +182,8 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lark =1.2.2 =pyhd8ed1ab_1
     - lcms2 =2.18 =h90db99b_0
-    - ld64 =956.6 =llvm21_1_h2eed689_3
-    - ld64_osx-64 =956.6 =llvm21_1_h2cc85ee_3
+    - ld64 =956.6 =llvm21_1_h2eed689_4
+    - ld64_osx-64 =956.6 =llvm21_1_h41cbea9_4
     - lerc =4.0.0 =hcca01a6_1
     - libasprintf =0.25.1 =h3184127_1
     - libblas =3.11.0 =5_he492b99_openblas
@@ -191,7 +191,7 @@ requirements:
     - libbrotlidec =1.2.0 =h8616949_1
     - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.11.0 =5_h9b27e0a_openblas
-    - libclang-cpp18.1 =18.1.8 =default_hc369343_16
+    - libclang-cpp18.1 =18.1.8 =default_hc369343_17
     - libclang-cpp21.1 =21.1.8 =default_hd70426c_1
     - libclang13 =21.1.8 =default_h5e75a71_1
     - libcurl =8.18.0 =h9348e2b_0
@@ -483,7 +483,7 @@ requirements:
     - r-viridislite =0.4.2 =r45hc72bb7e_3
     - r-vroom =1.6.7 =r45ha730edb_0
     - r-withr =3.0.2 =r45hc72bb7e_1
-    - r-xfun =0.55 =r45ha730edb_0
+    - r-xfun =0.56 =r45hed9a748_0
     - r-xml2 =1.5.2 =r45h2546f75_0
     - r-xtable =1.8_4 =r45hc72bb7e_7
     - r-xts =0.14.1 =r45h735ac91_1
