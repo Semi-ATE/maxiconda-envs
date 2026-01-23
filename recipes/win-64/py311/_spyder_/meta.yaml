@@ -29,7 +29,7 @@ requirements:
     - matplotlib =3.10.8 =py311h1ea47a8_0
     - menuinst =2.4.2 =py311h3e6a449_0
     - numpy =2.4.1 =py311h80b3fa1_0
-    - pandas =2.3.3 =py311h11fd7f3_2
+    - pandas =3.0.0 =py311h0610301_0
     - pyqt =5.15.11 =py311h7c55f98_2
     - pyqtwebengine =5.15.11 =py311h8dad79e_2
     - scipy =1.17.0 =py311h9c22a71_1
@@ -198,7 +198,7 @@ requirements:
     - numpydoc =1.10.0 =pyhcf101f3_0
     - openjpeg =2.5.4 =h24db6dd_0
     - openssl =3.6.0 =h725018a_0
-    - packaging =25.0 =pyh29332c3_1
+    - packaging =26.0 =pyhcf101f3_0
     - pandoc =3.8.3 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.5 =pyhcf101f3_0
@@ -314,7 +314,7 @@ requirements:
     - wcwidth =0.2.14 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
-    - wheel =0.45.1 =pyhd8ed1ab_1
+    - wheel =0.46.2 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =pyh7428d3b_8
     - wrapt =2.0.1 =py311h3485c13_1
     - xorg-libxau =1.0.12 =hba3369d_1

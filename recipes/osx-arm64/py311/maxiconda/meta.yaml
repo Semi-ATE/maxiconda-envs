@@ -36,9 +36,9 @@ requirements:
     - matplotlib =3.10.8 =py311ha1ab1f8_0
     - numba =0.63.1 =py311had9367a_0
     - numpy =2.3.5 =py311had1e860_1
-    - openpyxl =3.1.5 =py311h73bcc54_2
+    - openpyxl =3.1.5 =py311h33e2021_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
-    - pandas =2.3.3 =py311hdb8e4fa_2
+    - pandas =3.0.0 =py311h4a068b9_0
     - psutil =7.2.1 =py311he363849_0
     - pydantic =2.12.5 =pyhcf101f3_1
     - pyqt =5.15.11 =py311ha87f45f_2
@@ -55,7 +55,7 @@ requirements:
     - scipy =1.17.0 =py311he9931d0_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.2 =unix_pyh707e725_0
-    - sqlalchemy =2.0.45 =py311h9408147_0
+    - sqlalchemy =2.0.46 =py311he363849_1
     - sqlite =3.51.2 =h85ec8f2_0
     - sympy =1.14.0 =pyh2585a3b_105
     - tqdm =4.67.1 =pyhd8ed1ab_1
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.2 =pyhcf101f3_0
 
-    # 502 secondary packages :
+    # 503 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - adwaita-icon-theme =49.0 =unix_0
@@ -109,10 +109,10 @@ requirements:
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - compiler-rt =21.1.8 =hce30654_0
-    - compiler-rt21 =21.1.8 =h855ad52_0
-    - compiler-rt21_osx-arm64 =21.1.8 =h2514db7_0
-    - compiler-rt_osx-arm64 =21.1.8 =hce30654_0
+    - compiler-rt =21.1.8 =hce30654_1
+    - compiler-rt21 =21.1.8 =h855ad52_1
+    - compiler-rt21_osx-arm64 =21.1.8 =h2514db7_1
+    - compiler-rt_osx-arm64 =21.1.8 =hce30654_1
     - conda =22.9.0 =py311h267d04e_2
     - conda-package-handling =2.4.0 =pyh7900ff3_2
     - conda-package-streaming =0.12.0 =pyhd8ed1ab_0
@@ -208,6 +208,7 @@ requirements:
     - libclang-cpp18.1 =18.1.8 =default_h73dfc95_17
     - libclang-cpp21.1 =21.1.8 =default_hf3020a7_1
     - libclang13 =21.1.8 =default_h13b06bd_1
+    - libcompiler-rt =21.1.8 =h855ad52_1
     - libcurl =8.18.0 =he38603e_0
     - libcxx =21.1.8 =hf598326_0
     - libcxx-devel =21.1.8 =h6dc3340_0
@@ -282,7 +283,7 @@ requirements:
     - openldap =2.6.10 =hbe55e7a_0
     - openssl =3.6.0 =h5503f6c_0
     - overrides =7.7.0 =pyhd8ed1ab_1
-    - packaging =25.0 =pyh29332c3_1
+    - packaging =26.0 =pyhcf101f3_0
     - pandoc =3.8.3 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h875632e_0
@@ -554,7 +555,7 @@ requirements:
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - websocket-client =1.9.0 =pyhd8ed1ab_0
-    - wheel =0.45.1 =pyhd8ed1ab_1
+    - wheel =0.46.2 =pyhd8ed1ab_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xorg-libxau =1.0.12 =hc919400_1
     - xorg-libxdmcp =1.1.5 =hc919400_1

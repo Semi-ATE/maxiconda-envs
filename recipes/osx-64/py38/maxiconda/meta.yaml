@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 487 secondary packages :
+    # 488 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
@@ -110,10 +110,10 @@ requirements:
     - cloudpickle =3.1.0 =pyhd8ed1ab_1
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_0
-    - compiler-rt =21.1.8 =h694c41f_0
-    - compiler-rt21 =21.1.8 =he914875_0
-    - compiler-rt21_osx-64 =21.1.8 =he0f92a2_0
-    - compiler-rt_osx-64 =21.1.8 =h694c41f_0
+    - compiler-rt =21.1.8 =h694c41f_1
+    - compiler-rt21 =21.1.8 =he914875_1
+    - compiler-rt21_osx-64 =21.1.8 =he0f92a2_1
+    - compiler-rt_osx-64 =21.1.8 =h694c41f_1
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h15a1a5b_1
     - cpython =3.8.20 =py38hd8ed1ab_2
@@ -197,6 +197,7 @@ requirements:
     - libclang-cpp18.1 =18.1.8 =default_hc369343_17
     - libclang-cpp21.1 =21.1.8 =default_hd70426c_1
     - libclang13 =21.1.8 =default_h5e75a71_1
+    - libcompiler-rt =21.1.8 =he914875_1
     - libcurl =8.18.0 =h9348e2b_0
     - libcxx =21.1.8 =h3d58e20_0
     - libcxx-devel =21.1.8 =h7c275be_0
@@ -270,7 +271,7 @@ requirements:
     - openldap =2.6.10 =hd8a590d_0
     - openssl =3.6.0 =h230baf5_0
     - overrides =7.7.0 =pyhd8ed1ab_0
-    - packaging =25.0 =pyh29332c3_1
+    - packaging =26.0 =pyhcf101f3_0
     - pandoc =3.8.3 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h6ef8af8_0

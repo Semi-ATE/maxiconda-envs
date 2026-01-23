@@ -37,7 +37,7 @@ requirements:
     - matplotlib =3.10.8 =py310h5588dad_0
     - numba =0.63.1 =py310h04bad52_0
     - numpy =2.2.6 =py310h4987827_0
-    - openpyxl =3.1.5 =py310h5fa2519_2
+    - openpyxl =3.1.5 =py310h5fa2519_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py310hed136d8_2
     - psutil =7.2.1 =py310h1637853_0
@@ -56,7 +56,7 @@ requirements:
     - scipy =1.15.2 =py310h15c175c_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.2 =win_pyh7428d3b_0
-    - sqlalchemy =2.0.45 =py310h29418f3_0
+    - sqlalchemy =2.0.46 =py310h1637853_1
     - sqlite =3.51.2 =hdb435a2_0
     - sympy =1.14.0 =pyh04b8f61_5
     - tqdm =4.67.1 =pyhd8ed1ab_1
@@ -236,7 +236,7 @@ requirements:
     - openjpeg =2.5.4 =h24db6dd_0
     - openssl =3.6.0 =h725018a_0
     - overrides =7.7.0 =pyhd8ed1ab_1
-    - packaging =25.0 =pyh29332c3_1
+    - packaging =26.0 =pyhcf101f3_0
     - pandoc =3.8.3 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.5 =pyhcf101f3_0
@@ -503,7 +503,7 @@ requirements:
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - websocket-client =1.9.0 =pyhd8ed1ab_0
-    - wheel =0.45.1 =pyhd8ed1ab_1
+    - wheel =0.46.2 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =pyh7428d3b_8
     - winpty =0.4.3 =4
     - xorg-libxau =1.0.12 =hba3369d_1
