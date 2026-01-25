@@ -30,8 +30,8 @@ requirements:
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - bitarray =3.8.0 =py311h19352d5_1
     - cython =3.2.4 =py311hdc11669_0
-    - grayskull =3.0.2 =pyhcf101f3_0
-    - hypothesis =6.150.2 =pyha770c72_0
+    - grayskull =3.1.0 =pyhcf101f3_0
+    - hypothesis =6.150.3 =pyha770c72_0
     - ipython =9.9.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py311hfecb2dc_0
@@ -148,7 +148,7 @@ requirements:
     - gmpy2 =2.2.1 =py311hc14af3f_2
     - graphite2 =1.3.14 =hfae3067_2
     - graphviz =14.1.1 =h45e821f_0
-    - greenlet =3.3.0 =py311h2cb90db_0
+    - greenlet =3.3.1 =py311h2cb90db_0
     - gsl =2.7 =h294027d_0
     - gst-plugins-base =1.24.11 =h83ffb7f_0
     - gstreamer =1.24.11 =h17c303d_0
@@ -510,8 +510,8 @@ requirements:
     - r-tzdb =0.5.0 =r45h08b74da_2
     - r-urltools =1.7.3.1 =r45h08b74da_1
     - r-utf8 =1.2.6 =r45h0557e7b_1
-    - r-uuid =1.2_1 =r45h0557e7b_1
-    - r-vctrs =0.6.5 =r45h08b74da_2
+    - r-uuid =1.2_2 =r45h0557e7b_0
+    - r-vctrs =0.7.1 =r45h08b74da_0
     - r-viridislite =0.4.2 =r45hc72bb7e_3
     - r-vroom =1.6.7 =r45h08b74da_0
     - r-withr =3.0.2 =r45hc72bb7e_1
