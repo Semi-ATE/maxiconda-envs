@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.10.19 =hcd7f573_2_cpython
+    - python =3.10.19 =hcd7f573_3_cpython
   run:
-    - python =3.10.19 =hcd7f573_2_cpython
+    - python =3.10.19 =hcd7f573_3_cpython
 
     # 37 primary packages :
     - aiohttp =3.13.3 =py310hd5e7861_0
@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - cython =3.2.4 =py310h9a762d2_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.150.3 =pyha770c72_0
+    - hypothesis =6.151.2 =pyha770c72_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py310hb6292c7_0
@@ -114,7 +114,7 @@ requirements:
     - compiler-rt_osx-arm64 =21.1.8 =hce30654_1
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.2 =py310h7f4e7e6_0
-    - cpython =3.10.19 =py310hd8ed1ab_2
+    - cpython =3.10.19 =py310hd8ed1ab_3
     - curl =8.18.0 =he38603e_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =ha1cbb27_0
@@ -202,7 +202,7 @@ requirements:
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libev =4.33 =h93a5062_2
     - libexpat =2.7.3 =haf25636_0
-    - libffi =3.5.2 =he5f378a_0
+    - libffi =3.5.2 =hcf2aa1b_0
     - libfreetype =2.14.1 =hce30654_0
     - libfreetype6 =2.14.1 =h6da58f4_0
     - libgcc =15.2.0 =hcbb3090_16
@@ -257,7 +257,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h5e97a16_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - notebook =7.5.2 =pyhcf101f3_0
+    - notebook =7.5.3 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.38 =heaf21c2_0
     - nss =3.118 =h1c710a3_0
@@ -316,7 +316,7 @@ requirements:
     - r-blob =1.3.0 =r45hc72bb7e_0
     - r-boot =1.3_32 =r45hc72bb7e_1
     - r-broom =1.0.11 =r45hc72bb7e_0
-    - r-bslib =0.9.0 =r45hc72bb7e_1
+    - r-bslib =0.10.0 =r45hc72bb7e_0
     - r-cachem =1.1.0 =r45h6168396_2
     - r-callr =3.7.6 =r45hc72bb7e_2
     - r-caret =7.0_1 =r45h6168396_0
@@ -513,7 +513,7 @@ requirements:
     - tapi =1600.0.11.8 =h997e182_0
     - terminado =0.18.1 =pyhc90fa1f_1
     - tinycss2 =1.5.1 =pyhcf101f3_0
-    - tk =8.6.13 =h892fb3f_3
+    - tk =8.6.13 =h010d191_3
     - tktable =2.10 =h3c7de25_7
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.0 =pyhcf101f3_0
@@ -528,7 +528,7 @@ requirements:
     - unicodedata2 =17.0.0 =py310hfe3a0ae_1
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.6.3 =pyhd8ed1ab_0
-    - wcwidth =0.2.14 =pyhd8ed1ab_0
+    - wcwidth =0.4.0 =pyhd8ed1ab_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - websocket-client =1.9.0 =pyhd8ed1ab_0

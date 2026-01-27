@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.12.12 =h0159041_1_cpython
+    - python =3.12.12 =h0159041_2_cpython
   run:
-    - python =3.12.12 =h0159041_1_cpython
+    - python =3.12.12 =h0159041_2_cpython
 
     # 10 primary packages :
     - cython =3.2.4 =py312hd245ac3_0
@@ -77,7 +77,7 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - contourpy =1.3.3 =py312h78d62e6_4
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
-    - cpython =3.12.12 =py312hd8ed1ab_1
+    - cpython =3.12.12 =py312hd8ed1ab_2
     - cryptography =46.0.3 =py312h232196e_1
     - cycler =0.12.1 =pyhcf101f3_2
     - debugpy =1.8.19 =py312ha1a9051_0
@@ -147,7 +147,7 @@ requirements:
     - libclang13 =21.1.8 =default_ha2db4b5_2
     - libdeflate =1.25 =h51727cc_0
     - libexpat =2.7.3 =hac47afa_0
-    - libffi =3.5.2 =h52bdfb6_0
+    - libffi =3.5.2 =h3d046cb_0
     - libfreetype =2.14.1 =h57928b3_0
     - libfreetype6 =2.14.1 =hdbac1cb_0
     - libgcc =15.2.0 =h8ee18e1_16
@@ -239,7 +239,7 @@ requirements:
     - pysocks =1.7.1 =pyh09c184e_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
-    - python-gil =3.12.12 =hd8ed1ab_1
+    - python-gil =3.12.12 =hd8ed1ab_2
     - python-gssapi =1.10.1 =py312hd572b79_1
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
@@ -274,7 +274,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py312hdabe01f_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.14.13 =h37e10c4_0
+    - ruff =0.14.14 =h37e10c4_0
     - setuptools =80.10.1 =pyh332efcf_0
     - sip =6.10.0 =py312hbb81ca0_1
     - six =1.17.0 =pyhe01879c_1
@@ -297,7 +297,7 @@ requirements:
     - textdistance =4.6.3 =pyhd8ed1ab_1
     - three-merge =0.1.1 =pyhd8ed1ab_1
     - tinycss2 =1.5.1 =pyhcf101f3_0
-    - tk =8.6.13 =h2c6b04d_3
+    - tk =8.6.13 =h6ed50ae_3
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.0 =pyhcf101f3_0
     - tomlkit =0.14.0 =pyha770c72_0
@@ -314,7 +314,7 @@ requirements:
     - vc14_runtime =14.44.35208 =h818238b_34
     - vcomp14 =14.44.35208 =h818238b_34
     - watchdog =6.0.0 =py312h2e8e312_2
-    - wcwidth =0.2.14 =pyhd8ed1ab_0
+    - wcwidth =0.4.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.46.3 =pyhd8ed1ab_0

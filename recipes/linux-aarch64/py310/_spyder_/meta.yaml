@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.10.19 =h28be5d3_2_cpython
+    - python =3.10.19 =h28be5d3_3_cpython
   run:
-    - python =3.10.19 =h28be5d3_2_cpython
+    - python =3.10.19 =h28be5d3_3_cpython
 
     # 9 primary packages :
     - cython =3.2.4 =py310h0d97cfb_0
@@ -78,7 +78,7 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - contourpy =1.3.2 =py310hf54e67a_0
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
-    - cpython =3.10.19 =py310hd8ed1ab_2
+    - cpython =3.10.19 =py310hd8ed1ab_3
     - cryptography =46.0.3 =py310h868a156_1
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h6c5dea3_0
@@ -164,7 +164,7 @@ requirements:
     - libegl =1.7.0 =hd24410f_2
     - libevent =2.1.12 =h4ba1bb4_1
     - libexpat =2.7.3 =hfae3067_0
-    - libffi =3.5.2 =hd65408f_0
+    - libffi =3.5.2 =h376a255_0
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.1 =h8af1aa0_0
     - libfreetype6 =2.14.1 =hdae7a39_0
@@ -313,7 +313,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py310haddc216_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.14.13 =hc0dabaa_0
+    - ruff =0.14.14 =hc0dabaa_0
     - secretstorage =3.4.1 =py310hbbe02a8_0
     - setuptools =80.10.1 =pyh332efcf_0
     - sip =6.15.0 =py310hbe5e9e6_0
@@ -336,7 +336,7 @@ requirements:
     - textdistance =4.6.3 =pyhd8ed1ab_1
     - three-merge =0.1.1 =pyhd8ed1ab_1
     - tinycss2 =1.5.1 =pyhcf101f3_0
-    - tk =8.6.13 =noxft_h561c983_103
+    - tk =8.6.13 =noxft_h0dc03b3_103
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.0 =pyhcf101f3_0
     - tomlkit =0.14.0 =pyha770c72_0
@@ -350,7 +350,7 @@ requirements:
     - urllib3 =2.6.3 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py310hbbe02a8_2
     - wayland =1.24.0 =h4f8a99f_1
-    - wcwidth =0.2.14 =pyhd8ed1ab_0
+    - wcwidth =0.4.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.46.3 =pyhd8ed1ab_0
@@ -371,14 +371,14 @@ requirements:
     - xorg-libxcursor =1.2.3 =h86ecc28_0
     - xorg-libxdamage =1.1.6 =h86ecc28_0
     - xorg-libxdmcp =1.1.5 =he30d5cf_1
-    - xorg-libxext =1.3.6 =h57736b2_0
+    - xorg-libxext =1.3.7 =he30d5cf_0
     - xorg-libxfixes =6.0.2 =he30d5cf_0
     - xorg-libxi =1.8.2 =h57736b2_0
-    - xorg-libxrandr =1.5.4 =h86ecc28_0
+    - xorg-libxrandr =1.5.5 =he30d5cf_0
     - xorg-libxrender =0.9.12 =h86ecc28_0
     - xorg-libxshmfence =1.3.3 =h86ecc28_0
     - xorg-libxtst =1.2.5 =h57736b2_3
-    - xorg-libxxf86vm =1.1.6 =h86ecc28_0
+    - xorg-libxxf86vm =1.1.7 =he30d5cf_0
     - yaml =0.2.5 =h80f16a2_3
     - yapf =0.43.0 =pyhd8ed1ab_1
     - yarl =1.22.0 =py310h2d8da20_0

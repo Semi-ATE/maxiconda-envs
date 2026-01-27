@@ -35,7 +35,7 @@ requirements:
     - spyder =5.3.3 =py37hd9ded2f_0
     - sympy =1.10.1 =py37hfd236b0_1
 
-    # 300 secondary packages :
+    # 313 secondary packages :
     - _openmp_mutex =4.5 =2_gnu
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - alsa-lib =1.2.8 =h4e544f5_0
@@ -58,6 +58,7 @@ requirements:
     - brotli-python =1.0.9 =py37hb20f0a7_7
     - bzip2 =1.0.8 =h4777abc_8
     - ca-certificates =2026.1.4 =hbd8a1cb_0
+    - cairo =1.16.0 =hd19fb6e_1012
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.15.1 =py37h828e148_1
     - chardet =5.0.0 =py37hd9ded2f_0
@@ -95,9 +96,11 @@ requirements:
     - glib-tools =2.86.0 =hc87f4d4_0
     - gmp =6.3.0 =h0a1ffab_2
     - gmpy2 =2.1.2 =py37hbac9a9b_0
-    - gst-plugins-base =1.21.3 =h8a62080_1
-    - gstreamer =1.21.3 =h1f26242_1
+    - graphite2 =1.3.14 =hfae3067_2
+    - gst-plugins-base =1.22.0 =h8a62080_2
+    - gstreamer =1.22.0 =h1f26242_2
     - gstreamer-orc =0.4.42 =h70b131a_0
+    - harfbuzz =6.0.0 =hbcb8a4f_0
     - icu =70.1 =ha18d298_0
     - idna =3.10 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
@@ -233,6 +236,7 @@ requirements:
     - pickleshare =0.7.5 =py_1003
     - pillow =9.2.0 =py37h5e1b7c7_2
     - pip =24.0 =pyhd8ed1ab_0
+    - pixman =0.46.4 =h7ac5ae9_1
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - platformdirs =4.0.0 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py37hd9ded2f_3
@@ -270,8 +274,8 @@ requirements:
     - pyzmq =24.0.1 =py37h7cb28e0_0
     - qdarkstyle =3.0.3 =pyhd8ed1ab_0
     - qstylizer =0.2.3 =pyhd8ed1ab_0
-    - qt-main =5.15.6 =h9e5b47b_5
-    - qt-webengine =5.15.4 =h2c62f47_3
+    - qt-main =5.15.8 =h75fb342_6
+    - qt-webengine =5.15.8 =h106d629_0
     - qtawesome =1.3.1 =pyh9208f05_0
     - qtconsole =5.3.2 =pyhd8ed1ab_0
     - qtconsole-base =5.3.2 =pyha770c72_0
@@ -301,7 +305,7 @@ requirements:
     - textdistance =4.6.3 =pyhd8ed1ab_0
     - three-merge =0.1.1 =pyh9f0ad1d_0
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
-    - tk =8.6.13 =noxft_h561c983_103
+    - tk =8.6.13 =noxft_h5688188_102
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.2 =pyhd8ed1ab_0
     - tomlkit =0.12.5 =pyha770c72_0
@@ -326,8 +330,17 @@ requirements:
     - xcb-util-renderutil =0.3.9 =h4e544f5_0
     - xcb-util-wm =0.4.1 =h4e544f5_0
     - xkeyboard-config =2.38 =hb4cce97_0
+    - xorg-kbproto =1.0.7 =h57736b2_1003
+    - xorg-libice =1.1.2 =h86ecc28_0
+    - xorg-libsm =1.2.6 =h0808dbd_0
+    - xorg-libx11 =1.8.4 =h2a766a3_0
     - xorg-libxau =1.0.12 =he30d5cf_1
     - xorg-libxdmcp =1.1.5 =he30d5cf_1
+    - xorg-libxext =1.3.4 =h2a766a3_2
+    - xorg-libxrender =0.9.10 =h3557bc0_1003
+    - xorg-renderproto =0.11.1 =h57736b2_1003
+    - xorg-xextproto =7.3.0 =h57736b2_1004
+    - xorg-xproto =7.0.31 =h57736b2_1008
     - xz =5.8.2 =hd704e39_0
     - xz-gpl-tools =5.8.2 =hd704e39_0
     - xz-tools =5.8.2 =he30d5cf_0
