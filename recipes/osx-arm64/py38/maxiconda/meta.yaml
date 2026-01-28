@@ -102,9 +102,9 @@ requirements:
     - clang =21.1.8 =default_cfg_hb78b91e_2
     - clang-21 =21.1.8 =default_hb52604d_2
     - clang_impl_osx-arm64 =21.1.8 =default_h17d1ed9_2
-    - clang_osx-arm64 =21.1.8 =h15b5089_30
+    - clang_osx-arm64 =21.1.8 =h15b5089_31
     - clangxx_impl_osx-arm64 =21.1.8 =default_h17d1ed9_2
-    - clangxx_osx-arm64 =21.1.8 =h15b5089_30
+    - clangxx_osx-arm64 =21.1.8 =h15b5089_31
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.1.0 =pyhd8ed1ab_1
     - colorama =0.4.6 =pyhd8ed1ab_0
@@ -268,7 +268,7 @@ requirements:
     - nss =3.118 =h1c710a3_0
     - openjpeg =2.5.4 =hbfb3c88_0
     - openldap =2.6.10 =hbe55e7a_0
-    - openssl =3.6.0 =h5503f6c_0
+    - openssl =3.6.1 =hd24854e_1
     - overrides =7.7.0 =pyhd8ed1ab_0
     - packaging =26.0 =pyhcf101f3_0
     - pandoc =3.8.3 =hce30654_0
@@ -484,7 +484,7 @@ requirements:
     - r-uuid =1.2_2 =r45hbe92478_0
     - r-vctrs =0.7.1 =r45h1380947_0
     - r-viridislite =0.4.2 =r45hc72bb7e_3
-    - r-vroom =1.6.7 =r45hc1cd577_0
+    - r-vroom =1.7.0 =r45h1380947_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.56 =r45h1380947_0
     - r-xml2 =1.5.2 =r45h46c16c0_0
