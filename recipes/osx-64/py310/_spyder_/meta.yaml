@@ -78,7 +78,7 @@ requirements:
     - contourpy =1.3.2 =py310hf166250_0
     - cookiecutter =2.6.0 =pyhd8ed1ab_1
     - cpython =3.10.19 =py310hd8ed1ab_3
-    - cryptography =46.0.3 =py310h45ec8ab_1
+    - cryptography =46.0.4 =py310hb6188ef_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h610c526_0
     - debugpy =1.8.19 =py310haa24e46_0
@@ -193,9 +193,9 @@ requirements:
     - munkres =1.1.4 =pyhd8ed1ab_1
     - mypy_extensions =1.1.0 =pyha770c72_0
     - nbclient =0.10.4 =pyhd8ed1ab_0
-    - nbconvert =7.16.6 =hc388f54_1
-    - nbconvert-core =7.16.6 =pyhcf101f3_1
-    - nbconvert-pandoc =7.16.6 =h7d6f222_1
+    - nbconvert =7.17.0 =h14065e2_0
+    - nbconvert-core =7.17.0 =pyhcf101f3_0
+    - nbconvert-pandoc =7.17.0 =hc3985f0_0
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
@@ -209,7 +209,7 @@ requirements:
     - pandoc =3.8.3 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.5 =pyhcf101f3_0
-    - pathspec =1.0.3 =pyhd8ed1ab_0
+    - pathspec =1.0.4 =pyhd8ed1ab_0
     - pcre2 =10.47 =h13923f0_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
@@ -220,7 +220,7 @@ requirements:
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.3.1 =py310h8e2f543_0
-    - psutil =7.2.1 =py310h8bcfd8d_0
+    - psutil =7.2.2 =py310h8bcfd8d_0
     - pthread-stubs =0.4 =h00291cd_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1

@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - cython =3.2.4 =py311h8ccca7f_0
     - grayskull =3.1.0 =pyhcf101f3_0
-    - hypothesis =6.151.2 =pyha770c72_0
+    - hypothesis =6.151.4 =pyha770c72_0
     - ipython =9.9.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py311ha1ab1f8_0
@@ -39,7 +39,7 @@ requirements:
     - openpyxl =3.1.5 =py311h33e2021_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =3.0.0 =py311h4a068b9_0
-    - psutil =7.2.1 =py311he363849_0
+    - psutil =7.2.2 =py311he363849_0
     - pydantic =2.12.5 =pyhcf101f3_1
     - pyqt =5.15.11 =py311ha87f45f_2
     - pyserial =3.5 =pyhcf101f3_2
@@ -120,7 +120,7 @@ requirements:
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h7d85929_4
     - cpython =3.11.14 =py311hd8ed1ab_3
-    - cryptography =46.0.3 =py311h50dcd70_1
+    - cryptography =46.0.4 =py311hfdedaa2_0
     - curl =8.18.0 =he38603e_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =ha1cbb27_0
@@ -270,7 +270,7 @@ requirements:
     - multidict =6.7.0 =py311h97ccca8_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.10.4 =pyhd8ed1ab_0
-    - nbconvert-core =7.16.6 =pyhcf101f3_1
+    - nbconvert-core =7.17.0 =pyhcf101f3_0
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h5e97a16_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
@@ -370,12 +370,12 @@ requirements:
     - r-fontawesome =0.5.3 =r45hc72bb7e_1
     - r-forcats =1.0.1 =r45hc72bb7e_0
     - r-foreach =1.5.2 =r45hc72bb7e_4
-    - r-foreign =0.8_90 =r45h6168396_1
+    - r-foreign =0.8_91 =r45hbe92478_0
     - r-formatr =1.14 =r45hc72bb7e_3
     - r-fs =1.6.6 =r45hc1cd577_1
     - r-future =1.69.0 =r45h785f33e_0
     - r-future.apply =1.20.1 =r45hc72bb7e_0
-    - r-gargle =1.6.0 =r45h785f33e_1
+    - r-gargle =1.6.1 =r45h785f33e_0
     - r-generics =0.1.4 =r45hc72bb7e_1
     - r-ggplot2 =4.0.1 =r45h785f33e_0
     - r-gistr =0.9.0 =r45hc72bb7e_4
@@ -476,7 +476,7 @@ requirements:
     - r-shape =1.4.6.1 =r45ha770c72_2
     - r-shiny =1.12.1 =r45h785f33e_0
     - r-sourcetools =0.1.7_1 =r45hc1cd577_3
-    - r-sparsevctrs =0.3.5 =r45h6168396_0
+    - r-sparsevctrs =0.3.6 =r45hbe92478_0
     - r-spatial =7.3_18 =r45h6168396_1
     - r-squarem =2021.1 =r45hc72bb7e_4
     - r-stringi =1.8.7 =r45he9eb878_1
@@ -490,7 +490,7 @@ requirements:
     - r-tidyselect =1.2.1 =r45hc72bb7e_2
     - r-tidyverse =2.0.0 =r45h785f33e_3
     - r-timechange =0.3.0 =r45hc1cd577_2
-    - r-timedate =4051.111 =r45hc72bb7e_0
+    - r-timedate =4052.112 =r45hc72bb7e_0
     - r-tinytex =0.58 =r45hc72bb7e_0
     - r-triebeard =0.4.1 =r45hc1cd577_4
     - r-ttr =0.24.4 =r45h6168396_2
