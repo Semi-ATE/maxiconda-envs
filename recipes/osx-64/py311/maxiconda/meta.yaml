@@ -125,7 +125,7 @@ requirements:
     - curl =8.18.0 =h9348e2b_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h610c526_0
-    - debugpy =1.8.19 =py311hd4eb7a1_0
+    - debugpy =1.8.20 =py311hc63dfec_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - epoxy =1.5.10 =h8616949_2
@@ -211,9 +211,9 @@ requirements:
     - libclang13 =21.1.8 =default_h5e75a71_2
     - libcompiler-rt =21.1.8 =he914875_1
     - libcurl =8.18.0 =h9348e2b_0
-    - libcxx =21.1.8 =h3d58e20_0
-    - libcxx-devel =21.1.8 =h7c275be_0
-    - libcxx-headers =21.1.8 =h707e725_0
+    - libcxx =21.1.8 =h3d58e20_1
+    - libcxx-devel =21.1.8 =h7c275be_1
+    - libcxx-headers =21.1.8 =h707e725_1
     - libdeflate =1.25 =h517ebb2_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -336,7 +336,7 @@ requirements:
     - r-bit64 =4.6.0_1 =r45h735ac91_1
     - r-blob =1.3.0 =r45hc72bb7e_0
     - r-boot =1.3_32 =r45hc72bb7e_1
-    - r-broom =1.0.11 =r45hc72bb7e_0
+    - r-broom =1.0.12 =r45hc72bb7e_0
     - r-bslib =0.10.0 =r45hc72bb7e_0
     - r-cachem =1.1.0 =r45h735ac91_2
     - r-callr =3.7.6 =r45hc72bb7e_2
@@ -490,7 +490,7 @@ requirements:
     - r-tidyr =1.3.2 =r45hed9a748_0
     - r-tidyselect =1.2.1 =r45hc72bb7e_2
     - r-tidyverse =2.0.0 =r45h785f33e_3
-    - r-timechange =0.3.0 =r45ha730edb_2
+    - r-timechange =0.4.0 =r45hed9a748_0
     - r-timedate =4052.112 =r45hc72bb7e_0
     - r-tinytex =0.58 =r45hc72bb7e_0
     - r-triebeard =0.4.1 =r45ha730edb_4
@@ -552,7 +552,7 @@ requirements:
     - unicodedata2 =17.0.0 =py311hf197a57_1
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.6.3 =pyhd8ed1ab_0
-    - wcwidth =0.5.0 =pyhd8ed1ab_0
+    - wcwidth =0.5.2 =pyhd8ed1ab_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - websocket-client =1.9.0 =pyhd8ed1ab_0
