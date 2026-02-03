@@ -32,7 +32,7 @@ requirements:
     - cython =3.2.4 =py312h84c01df_0
     - grayskull =3.1.0 =pyhcf101f3_0
     - hypothesis =6.151.4 =pyha770c72_0
-    - ipython =9.9.0 =pyh53cf698_0
+    - ipython =9.10.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py312hb401068_0
     - numba =0.63.1 =py312hc2d28fe_0
@@ -117,7 +117,7 @@ requirements:
     - compiler-rt21 =21.1.8 =he914875_1
     - compiler-rt21_osx-64 =21.1.8 =he0f92a2_1
     - compiler-rt_osx-64 =21.1.8 =h694c41f_1
-    - conda =25.11.1 =py312hb401068_0
+    - conda =26.1.0 =py312hb401068_0
     - conda-libmamba-solver =25.11.0 =pyhd8ed1ab_0
     - conda-package-handling =2.4.0 =pyh7900ff3_2
     - conda-package-streaming =0.12.0 =pyhd8ed1ab_0
@@ -162,7 +162,7 @@ requirements:
     - gmpy2 =2.2.1 =py312hf13fb29_2
     - graphite2 =1.3.14 =h21dd04a_2
     - graphviz =14.1.2 =h44fc223_0
-    - greenlet =3.3.1 =py312h11f4fa3_0
+    - greenlet =3.3.1 =py312h29de90a_1
     - gsl =2.7 =h93259b0_0
     - gst-plugins-base =1.24.11 =h09840cc_0
     - gstreamer =1.24.11 =h7d1b200_0
@@ -350,7 +350,7 @@ requirements:
     - r-askpass =1.2.1 =r45h735ac91_1
     - r-assertthat =0.2.1 =r45hc72bb7e_6
     - r-backports =1.5.0 =r45h735ac91_2
-    - r-base64enc =0.1_3 =r45h735ac91_1008
+    - r-base64enc =0.1_6 =r45hdab4d57_0
     - r-bit =4.6.0 =r45h735ac91_1
     - r-bit64 =4.6.0_1 =r45h735ac91_1
     - r-blob =1.3.0 =r45hc72bb7e_0
@@ -400,7 +400,7 @@ requirements:
     - r-ggplot2 =4.0.1 =r45h785f33e_0
     - r-gistr =0.9.0 =r45hc72bb7e_4
     - r-glmnet =4.1_10 =r45h85c6d18_1
-    - r-globals =0.18.0 =r45hc72bb7e_1
+    - r-globals =0.19.0 =r45hc72bb7e_0
     - r-glue =1.8.0 =r45h735ac91_1
     - r-googledrive =2.1.2 =r45hc72bb7e_1
     - r-googlesheets4 =1.1.2 =r45h785f33e_1

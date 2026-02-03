@@ -27,7 +27,7 @@ requirements:
     # 9 primary packages :
     - cython =3.2.4 =py312h68e6be4_0
     - matplotlib =3.10.8 =py312h7900ff3_0
-    - numpy =2.4.1 =py312h33ff503_0
+    - numpy =2.4.2 =py312h33ff503_0
     - pandas =3.0.0 =py312h8ecdadd_0
     - pyqt =5.15.11 =py312h82c0db2_2
     - pyqtwebengine =5.15.11 =py312hf963f02_2
@@ -127,7 +127,7 @@ requirements:
     - inflection =0.5.1 =pyhd8ed1ab_1
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.31.0 =pyha191276_0
-    - ipython =9.9.0 =pyh53cf698_0
+    - ipython =9.10.0 =pyh53cf698_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
     - isort =7.0.0 =pyhd8ed1ab_0
     - jaraco.classes =3.4.0 =pyhcf101f3_3
@@ -202,7 +202,7 @@ requirements:
     - libtiff =4.7.1 =h9d88235_1
     - libuuid =2.41.3 =h5347b49_0
     - libvorbis =1.3.7 =h54a6638_2
-    - libvulkan-loader =1.4.328.1 =h5279c79_0
+    - libvulkan-loader =1.4.341.0 =h5279c79_0
     - libwebp =1.6.0 =h9635ea4_0
     - libwebp-base =1.6.0 =hd42ef1d_0
     - libxcb =1.17.0 =h8a09558_0
@@ -370,7 +370,7 @@ requirements:
     - xorg-libsm =1.2.6 =he73a12e_0
     - xorg-libx11 =1.8.12 =h4f16b4b_0
     - xorg-libxau =1.0.12 =hb03c661_1
-    - xorg-libxcomposite =0.4.6 =hb9d3cd8_2
+    - xorg-libxcomposite =0.4.7 =hb03c661_0
     - xorg-libxcursor =1.2.3 =hb9d3cd8_0
     - xorg-libxdamage =1.1.6 =hb9d3cd8_0
     - xorg-libxdmcp =1.1.5 =hb03c661_1

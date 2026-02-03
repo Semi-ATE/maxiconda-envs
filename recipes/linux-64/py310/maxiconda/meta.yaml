@@ -136,7 +136,7 @@ requirements:
     - gmp =6.3.0 =hac33072_2
     - gmpy2 =2.2.1 =py310h63ebcad_2
     - graphite2 =1.3.14 =hecca717_2
-    - greenlet =3.3.1 =py310hea6c23e_0
+    - greenlet =3.3.1 =py310h25320af_1
     - gsl =2.7 =he838d99_0
     - gst-plugins-base =1.24.11 =h651a532_0
     - gstreamer =1.24.11 =hc37bda9_0
@@ -239,7 +239,7 @@ requirements:
     - libuuid =2.41.3 =h5347b49_0
     - libuv =1.51.0 =hb03c661_1
     - libvorbis =1.3.7 =h54a6638_2
-    - libvulkan-loader =1.4.328.1 =h5279c79_0
+    - libvulkan-loader =1.4.341.0 =h5279c79_0
     - libwebp-base =1.6.0 =hd42ef1d_0
     - libxcb =1.17.0 =h8a09558_0
     - libxcrypt =4.4.36 =hd590300_1
@@ -319,7 +319,7 @@ requirements:
     - r-askpass =1.2.1 =r45h54b55ab_1
     - r-assertthat =0.2.1 =r45hc72bb7e_6
     - r-backports =1.5.0 =r45h54b55ab_2
-    - r-base64enc =0.1_3 =r45h54b55ab_1008
+    - r-base64enc =0.1_6 =r45h54b55ab_0
     - r-bit =4.6.0 =r45h54b55ab_1
     - r-bit64 =4.6.0_1 =r45h54b55ab_1
     - r-blob =1.3.0 =r45hc72bb7e_0
@@ -369,7 +369,7 @@ requirements:
     - r-ggplot2 =4.0.1 =r45h785f33e_0
     - r-gistr =0.9.0 =r45hc72bb7e_4
     - r-glmnet =4.1_10 =r45ha36cffa_1
-    - r-globals =0.18.0 =r45hc72bb7e_1
+    - r-globals =0.19.0 =r45hc72bb7e_0
     - r-glue =1.8.0 =r45h54b55ab_1
     - r-googledrive =2.1.2 =r45hc72bb7e_1
     - r-googlesheets4 =1.1.2 =r45h785f33e_1
@@ -554,7 +554,7 @@ requirements:
     - xorg-libsm =1.2.6 =he73a12e_0
     - xorg-libx11 =1.8.12 =h4f16b4b_0
     - xorg-libxau =1.0.12 =hb03c661_1
-    - xorg-libxcomposite =0.4.6 =hb9d3cd8_2
+    - xorg-libxcomposite =0.4.7 =hb03c661_0
     - xorg-libxcursor =1.2.3 =hb9d3cd8_0
     - xorg-libxdamage =1.1.6 =hb9d3cd8_0
     - xorg-libxdmcp =1.1.5 =hb03c661_1
