@@ -51,7 +51,7 @@ requirements:
     - attr =2.5.1 =h4e544f5_1
     - attrs =25.4.0 =pyhcf101f3_1
     - autopep8 =2.0.4 =pyhd8ed1ab_0
-    - babel =2.17.0 =pyhd8ed1ab_0
+    - babel =2.18.0 =pyhcf101f3_0
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhcf101f3_2
     - backports.zstd =1.3.0 =py310hfa1aa29_0
@@ -147,7 +147,7 @@ requirements:
     - krb5 =1.21.3 =h50a48e9_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.18 =h9d5b58d_0
-    - ld_impl_linux-aarch64 =2.45 =default_h1979696_105
+    - ld_impl_linux-aarch64 =2.45.1 =default_h1979696_101
     - lerc =4.0.0 =hfdc4d58_1
     - libblas =3.11.0 =5_haddc8a3_openblas
     - libbrotlicommon =1.2.0 =he30d5cf_1
@@ -155,8 +155,8 @@ requirements:
     - libbrotlienc =1.2.0 =he30d5cf_1
     - libcap =2.77 =h68e9139_0
     - libcblas =3.11.0 =5_hd72aa62_openblas
-    - libclang-cpp21.1 =21.1.8 =default_he95a3c9_2
-    - libclang13 =21.1.8 =default_h94a09a5_2
+    - libclang-cpp21.1 =21.1.8 =default_he95a3c9_3
+    - libclang13 =21.1.8 =default_h94a09a5_3
     - libcups =2.3.3 =h5cdc715_5
     - libdeflate =1.25 =h1af38f5_0
     - libdrm =2.4.125 =he30d5cf_1
@@ -168,15 +168,15 @@ requirements:
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.1 =h8af1aa0_0
     - libfreetype6 =2.14.1 =hdae7a39_0
-    - libgcc =15.2.0 =h8acb6b2_16
-    - libgcc-ng =15.2.0 =he9431aa_16
-    - libgfortran =15.2.0 =he9431aa_16
-    - libgfortran5 =15.2.0 =h1b7bec0_16
+    - libgcc =15.2.0 =h8acb6b2_17
+    - libgcc-ng =15.2.0 =he9431aa_17
+    - libgfortran =15.2.0 =he9431aa_17
+    - libgfortran5 =15.2.0 =h1b7bec0_17
     - libgl =1.7.0 =hd24410f_2
     - libglib =2.86.3 =hf53f6bf_0
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
-    - libgomp =15.2.0 =h8acb6b2_16
+    - libgomp =15.2.0 =h8acb6b2_17
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.2 =he30d5cf_0
     - liblapack =3.11.0 =5_h88aeb00_openblas
@@ -195,8 +195,8 @@ requirements:
     - libsodium =1.0.20 =h68df207_0
     - libspatialindex =2.1.0 =hd7870d2_0
     - libsqlite =3.51.2 =h022381a_0
-    - libstdcxx =15.2.0 =hef695bb_16
-    - libstdcxx-ng =15.2.0 =hdbbeba8_16
+    - libstdcxx =15.2.0 =hef695bb_17
+    - libstdcxx-ng =15.2.0 =hdbbeba8_17
     - libsystemd0 =258.3 =h8c5a66d_0
     - libtiff =4.7.1 =hdb009f0_1
     - libuuid =2.41.3 =h1022ec0_0
@@ -241,7 +241,7 @@ requirements:
     - openldap =2.6.10 =h30c48ee_0
     - openssl =3.6.1 =h546c87b_1
     - packaging =26.0 =pyhcf101f3_0
-    - pandoc =3.8.3 =h8af1aa0_0
+    - pandoc =3.9 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.5 =pyhcf101f3_0
     - pathspec =1.0.4 =pyhd8ed1ab_0
@@ -249,7 +249,7 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =12.1.0 =py310hd8fe58f_0
-    - pip =26.0 =pyh8b19718_0
+    - pip =26.0.1 =pyh8b19718_0
     - pixman =0.46.4 =h7ac5ae9_1
     - platformdirs =4.5.1 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
@@ -294,7 +294,7 @@ requirements:
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
-    - pyyaml =6.0.3 =py310h2d8da20_0
+    - pyyaml =6.0.3 =py310h2d8da20_1
     - pyzmq =27.1.0 =py310h5df05d2_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h70be974_5
@@ -384,7 +384,7 @@ requirements:
     - yarl =1.22.0 =py310h2d8da20_0
     - zeromq =4.3.5 =hefbcea8_9
     - zipp =3.23.0 =pyhcf101f3_1
-    - zlib-ng =2.3.2 =ha7cb516_1
+    - zlib-ng =2.3.3 =ha7cb516_1
     - zstd =1.5.7 =h85ac4a6_6
 
 about:

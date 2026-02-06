@@ -101,7 +101,7 @@ requirements:
     - krb5 =1.20.1 =h113d92e_0
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.15 =h3e0bdec_1
-    - ld_impl_linux-aarch64 =2.45 =bootstrap_h5389653_5
+    - ld_impl_linux-aarch64 =2.45.1 =bootstrap_h5389653_1
     - lerc =4.0.0 =hfdc4d58_1
     - libasprintf =0.25.1 =h5e0f5ae_0
     - libasprintf-devel =0.25.1 =h5e0f5ae_0
@@ -121,19 +121,19 @@ requirements:
     - libexpat =2.7.3 =hfae3067_0
     - libffi =3.5.2 =h376a255_0
     - libflac =1.5.0 =he9c94f4_1
-    - libgcc =15.2.0 =h8acb6b2_16
-    - libgcc-ng =15.2.0 =he9431aa_16
+    - libgcc =15.2.0 =h8acb6b2_17
+    - libgcc-ng =15.2.0 =he9431aa_17
     - libgcrypt =1.11.1 =h8af1aa0_0
     - libgcrypt-devel =1.11.1 =h86ecc28_0
     - libgcrypt-lib =1.11.1 =h86ecc28_0
     - libgcrypt-tools =1.11.1 =h86ecc28_0
     - libgettextpo =0.25.1 =h5ad3122_0
     - libgettextpo-devel =0.25.1 =h5ad3122_0
-    - libgfortran =15.2.0 =he9431aa_16
-    - libgfortran-ng =15.2.0 =he9431aa_16
-    - libgfortran5 =15.2.0 =h1b7bec0_16
+    - libgfortran =15.2.0 =he9431aa_17
+    - libgfortran-ng =15.2.0 =he9431aa_17
+    - libgfortran5 =15.2.0 =h1b7bec0_17
     - libglib =2.80.2 =h34bac0b_0
-    - libgomp =15.2.0 =h8acb6b2_16
+    - libgomp =15.2.0 =h8acb6b2_17
     - libgpg-error =1.58 =h7ac5ae9_0
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =2.1.5.1 =h31becfc_1
@@ -151,8 +151,8 @@ requirements:
     - libsndfile =1.2.2 =h30591a0_2
     - libsodium =1.0.18 =hb9de7d4_1
     - libsqlite =3.46.0 =hf51ef55_0
-    - libstdcxx =15.2.0 =hef695bb_16
-    - libstdcxx-ng =15.2.0 =hdbbeba8_16
+    - libstdcxx =15.2.0 =hef695bb_17
+    - libstdcxx-ng =15.2.0 =hdbbeba8_17
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.5.1 =h360e80f_1
     - libtool =2.5.4 =h5ad3122_0

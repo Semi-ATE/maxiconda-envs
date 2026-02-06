@@ -51,7 +51,7 @@ requirements:
     - atomicwrites =1.4.1 =pyhd8ed1ab_1
     - attrs =25.4.0 =pyhcf101f3_1
     - autopep8 =2.0.4 =pyhd8ed1ab_0
-    - babel =2.17.0 =pyhd8ed1ab_0
+    - babel =2.18.0 =pyhcf101f3_0
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhcf101f3_2
     - backports.zstd =1.3.0 =py312h44dc372_0
@@ -140,16 +140,16 @@ requirements:
     - libcblas =3.11.0 =5_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_h73dfc95_17
     - libclang13 =21.1.8 =default_h13b06bd_2
-    - libcxx =21.1.8 =hf598326_1
+    - libcxx =21.1.8 =h55c6f16_2
     - libdeflate =1.25 =hc11a715_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libexpat =2.7.3 =haf25636_0
     - libffi =3.5.2 =hcf2aa1b_0
     - libfreetype =2.14.1 =hce30654_0
     - libfreetype6 =2.14.1 =h6da58f4_0
-    - libgcc =15.2.0 =hcbb3090_16
-    - libgfortran =15.2.0 =h07b0088_16
-    - libgfortran5 =15.2.0 =hdae7583_16
+    - libgcc =15.2.0 =hcbb3090_17
+    - libgfortran =15.2.0 =h07b0088_17
+    - libgfortran5 =15.2.0 =hdae7583_17
     - libglib =2.86.3 =hfe11c1f_0
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
@@ -206,7 +206,7 @@ requirements:
     - openldap =2.6.10 =hbe55e7a_0
     - openssl =3.6.1 =hd24854e_1
     - packaging =26.0 =pyhcf101f3_0
-    - pandoc =3.8.3 =hce30654_0
+    - pandoc =3.9 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.5 =pyhcf101f3_0
     - pathspec =1.0.4 =pyhd8ed1ab_0
@@ -214,7 +214,7 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =12.1.0 =py312h4e908a4_0
-    - pip =26.0 =pyh8b19718_0
+    - pip =26.0.1 =pyh8b19718_0
     - platformdirs =4.5.1 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
@@ -262,7 +262,7 @@ requirements:
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
-    - pyyaml =6.0.3 =py312h5748b74_0
+    - pyyaml =6.0.3 =py312h04c11ed_1
     - pyzmq =27.1.0 =py312hd65ceae_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h420ef59_5
@@ -329,7 +329,7 @@ requirements:
     - yarl =1.22.0 =py312h5748b74_0
     - zeromq =4.3.5 =h888dc83_9
     - zipp =3.23.0 =pyhcf101f3_1
-    - zlib-ng =2.3.2 =hed4e4f5_1
+    - zlib-ng =2.3.3 =hed4e4f5_1
     - zstd =1.5.7 =hbf9d68e_6
 
 about:

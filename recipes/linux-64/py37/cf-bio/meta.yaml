@@ -104,7 +104,7 @@ requirements:
     - krb5 =1.20.1 =h81ceb04_0
     - lame =3.100 =h166bdaf_1003
     - lcms2 =2.14 =h6ed2654_0
-    - ld_impl_linux-64 =2.45 =bootstrap_ha15bf96_5
+    - ld_impl_linux-64 =2.45.1 =bootstrap_ha15bf96_1
     - lerc =4.0.0 =h0aef613_1
     - libaec =1.1.5 =h088129d_0
     - libasprintf =0.25.1 =h3f43e3d_1
@@ -127,21 +127,21 @@ requirements:
     - libexpat =2.7.3 =hecca717_0
     - libffi =3.4.6 =h2dba641_1
     - libflac =1.5.0 =he200343_1
-    - libgcc =15.2.0 =he0feb66_16
-    - libgcc-ng =15.2.0 =h69a702a_16
+    - libgcc =15.2.0 =he0feb66_17
+    - libgcc-ng =15.2.0 =h69a702a_17
     - libgcrypt =1.11.1 =ha770c72_0
     - libgcrypt-devel =1.11.1 =hb9d3cd8_0
     - libgcrypt-lib =1.11.1 =hb9d3cd8_0
     - libgcrypt-tools =1.11.1 =hb9d3cd8_0
     - libgettextpo =0.25.1 =h3f43e3d_1
     - libgettextpo-devel =0.25.1 =h3f43e3d_1
-    - libgfortran =15.2.0 =h69a702a_16
-    - libgfortran-ng =15.2.0 =h69a702a_16
-    - libgfortran5 =15.2.0 =h68bc16d_16
+    - libgfortran =15.2.0 =h69a702a_17
+    - libgfortran-ng =15.2.0 =h69a702a_17
+    - libgfortran5 =15.2.0 =h68bc16d_17
     - libglib =2.80.2 =hf974151_0
     - libglu =9.0.3 =h5888daf_1
     - libglvnd =1.7.0 =ha4b6fd6_2
-    - libgomp =15.2.0 =he0feb66_16
+    - libgomp =15.2.0 =he0feb66_17
     - libgpg-error =1.58 =h54a6638_0
     - libiconv =1.18 =h3b78370_2
     - liblapack =3.9.0 =20_linux64_openblas
@@ -162,8 +162,8 @@ requirements:
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.46.0 =hde9e2c9_0
     - libssh2 =1.11.0 =h0841786_0
-    - libstdcxx =15.2.0 =h934c35e_16
-    - libstdcxx-ng =15.2.0 =hdf11a46_16
+    - libstdcxx =15.2.0 =h934c35e_17
+    - libstdcxx-ng =15.2.0 =hdf11a46_17
     - libsystemd0 =253 =h8c4010b_1
     - libtiff =4.4.0 =h82bc61c_5
     - libtool =2.5.4 =h5888daf_0

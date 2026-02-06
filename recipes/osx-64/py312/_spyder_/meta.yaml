@@ -51,7 +51,7 @@ requirements:
     - atomicwrites =1.4.1 =pyhd8ed1ab_1
     - attrs =25.4.0 =pyhcf101f3_1
     - autopep8 =2.0.4 =pyhd8ed1ab_0
-    - babel =2.17.0 =pyhd8ed1ab_0
+    - babel =2.18.0 =pyhcf101f3_0
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhcf101f3_2
     - backports.zstd =1.3.0 =py312h6917036_0
@@ -139,17 +139,17 @@ requirements:
     - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.11.0 =5_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_17
-    - libclang13 =21.1.8 =default_h5e75a71_2
-    - libcxx =21.1.8 =h3d58e20_1
+    - libclang13 =21.1.8 =default_h5e75a71_3
+    - libcxx =21.1.8 =h4fb565c_2
     - libdeflate =1.25 =h517ebb2_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libexpat =2.7.3 =heffb93a_0
     - libffi =3.5.2 =hd1f9c09_0
     - libfreetype =2.14.1 =h694c41f_0
     - libfreetype6 =2.14.1 =h6912278_0
-    - libgcc =15.2.0 =h08519bb_15
-    - libgfortran =15.2.0 =h7e5c614_15
-    - libgfortran5 =15.2.0 =hd16e46c_15
+    - libgcc =15.2.0 =h08519bb_17
+    - libgfortran =15.2.0 =h7e5c614_17
+    - libgfortran5 =15.2.0 =hd16e46c_17
     - libglib =2.86.3 =hf241ffe_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
@@ -206,7 +206,7 @@ requirements:
     - openldap =2.6.10 =hd8a590d_0
     - openssl =3.6.1 =hb6871ef_1
     - packaging =26.0 =pyhcf101f3_0
-    - pandoc =3.8.3 =h694c41f_0
+    - pandoc =3.9 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.5 =pyhcf101f3_0
     - pathspec =1.0.4 =pyhd8ed1ab_0
@@ -214,7 +214,7 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =12.1.0 =py312h4985050_0
-    - pip =26.0 =pyh8b19718_0
+    - pip =26.0.1 =pyh8b19718_0
     - platformdirs =4.5.1 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
@@ -262,7 +262,7 @@ requirements:
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
-    - pyyaml =6.0.3 =py312hacf3034_0
+    - pyyaml =6.0.3 =py312h51361c1_1
     - pyzmq =27.1.0 =py312hb7d603e_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h3c5361c_5

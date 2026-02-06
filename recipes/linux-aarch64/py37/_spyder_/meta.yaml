@@ -131,7 +131,7 @@ requirements:
     - lame =3.100 =h4e544f5_1003
     - lazy-object-proxy =1.7.1 =py37h795501a_1
     - lcms2 =2.14 =h5246980_0
-    - ld_impl_linux-aarch64 =2.45 =default_h1979696_105
+    - ld_impl_linux-aarch64 =2.45.1 =default_h1979696_101
     - lerc =4.0.0 =hfdc4d58_1
     - libasprintf =0.25.1 =h5e0f5ae_0
     - libasprintf-devel =0.25.1 =h5e0f5ae_0
@@ -153,19 +153,19 @@ requirements:
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.1 =h8af1aa0_0
     - libfreetype6 =2.14.1 =hdae7a39_0
-    - libgcc =15.2.0 =h8acb6b2_16
-    - libgcc-ng =15.2.0 =he9431aa_16
+    - libgcc =15.2.0 =h8acb6b2_17
+    - libgcc-ng =15.2.0 =he9431aa_17
     - libgcrypt =1.11.1 =h8af1aa0_0
     - libgcrypt-devel =1.11.1 =h86ecc28_0
     - libgcrypt-lib =1.11.1 =h86ecc28_0
     - libgcrypt-tools =1.11.1 =h86ecc28_0
     - libgettextpo =0.25.1 =h5ad3122_0
     - libgettextpo-devel =0.25.1 =h5ad3122_0
-    - libgfortran =15.2.0 =he9431aa_16
-    - libgfortran-ng =15.2.0 =he9431aa_16
-    - libgfortran5 =15.2.0 =h1b7bec0_16
+    - libgfortran =15.2.0 =he9431aa_17
+    - libgfortran-ng =15.2.0 =he9431aa_17
+    - libgfortran5 =15.2.0 =h1b7bec0_17
     - libglib =2.86.0 =h7cdfd2c_0
-    - libgomp =15.2.0 =h8acb6b2_16
+    - libgomp =15.2.0 =h8acb6b2_17
     - libgpg-error =1.58 =h7ac5ae9_0
     - libiconv =1.18 =h90929bb_2
     - liblapack =3.9.0 =20_linuxaarch64_openblas
@@ -183,8 +183,8 @@ requirements:
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =1.9.3 =h0a1ffab_5
     - libsqlite =3.51.2 =h022381a_0
-    - libstdcxx =15.2.0 =hef695bb_16
-    - libstdcxx-ng =15.2.0 =hdbbeba8_16
+    - libstdcxx =15.2.0 =hef695bb_17
+    - libstdcxx-ng =15.2.0 =hdbbeba8_17
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.4.0 =hfcd36d1_5
     - libtool =2.5.4 =h5ad3122_0
@@ -227,7 +227,7 @@ requirements:
     - openjpeg =2.5.0 =h9b6de37_1
     - openssl =3.1.8 =hd08dc88_0
     - packaging =23.2 =pyhd8ed1ab_0
-    - pandoc =3.8.3 =h8af1aa0_0
+    - pandoc =3.9 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0

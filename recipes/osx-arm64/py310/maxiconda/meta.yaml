@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - cython =3.2.4 =py310h9a762d2_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.151.4 =pyha770c72_0
+    - hypothesis =6.151.5 =pyha770c72_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py310hb6292c7_0
@@ -44,7 +44,7 @@ requirements:
     - pyqt =5.15.11 =py310hc3ce690_2
     - pyserial =3.5 =pyhcf101f3_2
     - pytest =9.0.2 =pyhcf101f3_0
-    - pyyaml =6.0.3 =py310hf4fd40f_0
+    - pyyaml =6.0.3 =py310hb46c203_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.1 =pyh9208f05_0
     - r-base =4.5.2 =hb2e0d2d_3
@@ -78,7 +78,7 @@ requirements:
     - async-lru =2.1.0 =pyhcf101f3_0
     - async-timeout =5.0.1 =pyhcf101f3_2
     - attrs =25.4.0 =pyhcf101f3_1
-    - babel =2.17.0 =pyhd8ed1ab_0
+    - babel =2.18.0 =pyhcf101f3_0
     - backports.zstd =1.3.0 =py310h2d60bed_0
     - bleach =6.3.0 =pyhcf101f3_0
     - bleach-with-css =6.3.0 =h5f6438b_0
@@ -195,9 +195,9 @@ requirements:
     - libclang13 =21.1.8 =default_h13b06bd_2
     - libcompiler-rt =21.1.8 =h855ad52_1
     - libcurl =8.18.0 =he38603e_0
-    - libcxx =21.1.8 =hf598326_1
-    - libcxx-devel =21.1.8 =h6dc3340_1
-    - libcxx-headers =21.1.8 =h707e725_1
+    - libcxx =21.1.8 =h55c6f16_2
+    - libcxx-devel =21.1.8 =h6dc3340_2
+    - libcxx-headers =21.1.8 =h707e725_2
     - libdeflate =1.25 =hc11a715_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libev =4.33 =h93a5062_2
@@ -205,11 +205,11 @@ requirements:
     - libffi =3.5.2 =hcf2aa1b_0
     - libfreetype =2.14.1 =hce30654_0
     - libfreetype6 =2.14.1 =h6da58f4_0
-    - libgcc =15.2.0 =hcbb3090_16
+    - libgcc =15.2.0 =hcbb3090_17
     - libgettextpo =0.25.1 =h493aca8_0
-    - libgfortran =15.2.0 =h07b0088_16
+    - libgfortran =15.2.0 =h07b0088_17
     - libgfortran-devel_osx-arm64 =14.3.0 =hc965647_1
-    - libgfortran5 =15.2.0 =hdae7583_16
+    - libgfortran5 =15.2.0 =hdae7583_17
     - libglib =2.86.3 =hfe11c1f_0
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
@@ -266,7 +266,7 @@ requirements:
     - openssl =3.6.1 =hd24854e_1
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.0 =pyhcf101f3_0
-    - pandoc =3.8.3 =hce30654_0
+    - pandoc =3.9 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h875632e_0
     - parso =0.8.5 =pyhcf101f3_0
@@ -274,7 +274,7 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =12.1.0 =py310hc037f36_0
-    - pip =26.0 =pyh8b19718_0
+    - pip =26.0.1 =pyh8b19718_0
     - pixman =0.46.4 =h81086ad_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
     - platformdirs =4.5.1 =pyhcf101f3_0
@@ -325,7 +325,7 @@ requirements:
     - r-cli =3.6.5 =r45hc1cd577_1
     - r-clipr =0.8.0 =r45hc72bb7e_4
     - r-clock =0.7.4 =r45h1380947_0
-    - r-cluster =2.1.8.1 =r45hd097873_1
+    - r-cluster =2.1.8.2 =r45hae7ecd7_0
     - r-codetools =0.2_20 =r45hc72bb7e_2
     - r-colorspace =2.1_2 =r45h6168396_0
     - r-commonmark =2.0.0 =r45h6168396_1
@@ -394,7 +394,7 @@ requirements:
     - r-lifecycle =1.0.5 =r45hc72bb7e_0
     - r-listenv =0.10.0 =r45hc72bb7e_0
     - r-lobstr =1.1.3 =r45hc1cd577_0
-    - r-lubridate =1.9.4 =r45h6168396_1
+    - r-lubridate =1.9.5 =r45hbe92478_0
     - r-magrittr =2.0.4 =r45h6168396_0
     - r-maps =3.4.3 =r45h6168396_1
     - r-mass =7.3_65 =r45h6168396_0
@@ -479,7 +479,7 @@ requirements:
     - r-utf8 =1.2.6 =r45h6168396_1
     - r-uuid =1.2_2 =r45hbe92478_0
     - r-vctrs =0.7.1 =r45h1380947_0
-    - r-viridislite =0.4.2 =r45hc72bb7e_3
+    - r-viridislite =0.4.3 =r45hc72bb7e_0
     - r-vroom =1.7.0 =r45h1380947_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.56 =r45h1380947_0
@@ -541,7 +541,7 @@ requirements:
     - zeromq =4.3.5 =h888dc83_9
     - zipp =3.23.0 =pyhcf101f3_1
     - zlib =1.3.1 =h8359307_2
-    - zlib-ng =2.3.2 =hed4e4f5_1
+    - zlib-ng =2.3.3 =hed4e4f5_1
     - zstd =1.5.7 =hbf9d68e_6
 
 about:

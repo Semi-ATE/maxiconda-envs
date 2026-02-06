@@ -120,18 +120,18 @@ requirements:
     - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang =13.0.1 =default_h0340054_11
-    - libcxx =21.1.8 =h3d58e20_1
+    - libcxx =21.1.8 =h4fb565c_2
     - libcxx-devel =16.0.6 =h8f8a49f_2
     - libdeflate =1.14 =hb7f2c08_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libffi =3.4.6 =h281671d_1
     - libfreetype =2.14.1 =h694c41f_0
     - libfreetype6 =2.14.1 =h6912278_0
-    - libgcc =15.2.0 =h08519bb_15
+    - libgcc =15.2.0 =h08519bb_17
     - libgettextpo =0.25.1 =h3184127_1
     - libgettextpo-devel =0.25.1 =h3184127_1
-    - libgfortran =15.2.0 =h7e5c614_15
-    - libgfortran5 =15.2.0 =hd16e46c_15
+    - libgfortran =15.2.0 =h7e5c614_17
+    - libgfortran5 =15.2.0 =hd16e46c_17
     - libglib =2.86.0 =h7cafd41_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
@@ -183,7 +183,7 @@ requirements:
     - openjpeg =2.5.0 =h5d0d7b0_1
     - openssl =3.1.8 =hc426f3f_0
     - packaging =23.2 =pyhd8ed1ab_0
-    - pandoc =3.8.3 =h694c41f_0
+    - pandoc =3.9 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
