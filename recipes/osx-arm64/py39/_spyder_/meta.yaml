@@ -35,7 +35,7 @@ requirements:
     - spyder =6.0.8 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 288 secondary packages :
+    # 301 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.12.15 =py39hb270ea8_0
@@ -65,6 +65,7 @@ requirements:
     - brotli-python =1.0.9 =py39h23fbdae_8
     - bzip2 =1.0.8 =hd037594_8
     - ca-certificates =2026.1.4 =hbd8a1cb_0
+    - cairo =1.18.4 =he0f2337_1
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h7f933ea_0
     - chardet =5.2.0 =pyhd8ed1ab_3
@@ -90,8 +91,16 @@ requirements:
     - exceptiongroup =1.3.0 =pyhd8ed1ab_0
     - executing =2.2.0 =pyhd8ed1ab_0
     - flake8 =7.1.2 =pyhd8ed1ab_0
+    - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
+    - font-ttf-inconsolata =3.000 =h77eed37_0
+    - font-ttf-source-code-pro =2.038 =h77eed37_0
+    - font-ttf-ubuntu =0.83 =h77eed37_3
+    - fontconfig =2.15.0 =h1383a14_1
+    - fonts-conda-ecosystem =1 =0
+    - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.59.1 =py39hb270ea8_0
     - freetype =2.14.1 =hce30654_0
+    - fribidi =1.0.16 =hc919400_0
     - frozenlist =1.7.0 =py39h2ffb7dc_0
     - fzf =0.67.0 =h75b854d_1
     - giflib =5.2.2 =h93a5062_0
@@ -99,12 +108,14 @@ requirements:
     - glib-tools =2.86.3 =hb9d6e3a_0
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.2.1 =py39h478d0be_0
-    - gst-plugins-base =1.24.11 =h3c5c1d0_0
-    - gstreamer =1.24.11 =hfe24232_0
+    - graphite2 =1.3.14 =hec049ff_2
+    - gst-plugins-base =1.26.10 =hd17a83a_0
+    - gstreamer =1.26.10 =h30d696d_0
     - h2 =4.2.0 =pyhd8ed1ab_0
+    - harfbuzz =12.3.2 =h3103d1b_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
-    - icu =75.1 =hfee45f7_0
+    - icu =78.2 =h38cb7af_0
     - idna =3.10 =pyhd8ed1ab_1
     - imagesize =1.4.1 =pyhd8ed1ab_0
     - importlib-metadata =8.7.0 =pyhe01879c_1
@@ -161,18 +172,18 @@ requirements:
     - libogg =1.3.5 =h48c0fde_1
     - libopenblas =0.3.30 =openmp_ha158390_4
     - libopus =1.6.1 =h1a92334_0
-    - libpng =1.6.54 =h132b30e_0
-    - libpq =18.1 =h944245b_2
+    - libpng =1.6.55 =h132b30e_0
+    - libpq =18.1 =h6caddbb_3
     - libsodium =1.0.20 =h99b78c6_0
     - libspatialindex =2.1.0 =h57eeb1c_0
-    - libsqlite =3.51.2 =h1b79a29_0
+    - libsqlite =3.51.2 =h1ae2325_0
     - libtiff =4.7.1 =h4030677_1
     - libvorbis =1.3.7 =h81086ad_2
     - libwebp =1.6.0 =hc0253d1_0
     - libwebp-base =1.6.0 =h07db88b_0
     - libxcb =1.17.0 =hdb1d25a_0
-    - libxml2 =2.15.1 =h9329255_0
-    - libxml2-16 =2.15.1 =h0ff4647_0
+    - libxml2 =2.15.1 =h8d039ee_1
+    - libxml2-16 =2.15.1 =h5ef1a60_1
     - libzlib =1.3.1 =h8359307_2
     - llvm-openmp =21.1.8 =h4a912ad_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_1
@@ -205,6 +216,7 @@ requirements:
     - packaging =26.0 =pyhcf101f3_0
     - pandoc =3.9 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
+    - pango =1.56.4 =h875632e_0
     - parso =0.8.4 =pyhd8ed1ab_1
     - pathspec =0.12.1 =pyhd8ed1ab_1
     - pcre2 =10.47 =h30297fc_0
@@ -212,6 +224,7 @@ requirements:
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py39hfea3036_0
     - pip =25.2 =pyh8b19718_0
+    - pixman =0.46.4 =h81086ad_1
     - platformdirs =4.3.8 =pyhe01879c_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
@@ -261,7 +274,7 @@ requirements:
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h420ef59_5
     - qstylizer =0.2.4 =pyhff2d567_0
-    - qt-main =5.15.15 =h9b65787_6
+    - qt-main =5.15.15 =h4427410_7
     - qt-webengine =5.15.15 =h5422c0a_1
     - qtawesome =1.4.0 =pyh9208f05_1
     - qtconsole =5.6.1 =pyhd8ed1ab_2

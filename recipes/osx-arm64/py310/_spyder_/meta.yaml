@@ -35,7 +35,7 @@ requirements:
     - spyder =6.1.2 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 293 secondary packages :
+    # 306 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.13.3 =py310hd5e7861_0
@@ -66,6 +66,7 @@ requirements:
     - brotli-python =1.2.0 =py310h6123dab_1
     - bzip2 =1.0.8 =hd037594_8
     - ca-certificates =2026.1.4 =hbd8a1cb_0
+    - cairo =1.18.4 =he0f2337_1
     - cattrs =25.3.0 =pyhd8ed1ab_0
     - certifi =2026.1.4 =pyhd8ed1ab_0
     - cffi =2.0.0 =py310hf5b66c1_1
@@ -92,8 +93,16 @@ requirements:
     - exceptiongroup =1.3.1 =pyhd8ed1ab_0
     - executing =2.2.1 =pyhd8ed1ab_0
     - flake8 =7.1.2 =pyhd8ed1ab_0
+    - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
+    - font-ttf-inconsolata =3.000 =h77eed37_0
+    - font-ttf-source-code-pro =2.038 =h77eed37_0
+    - font-ttf-ubuntu =0.83 =h77eed37_3
+    - fontconfig =2.15.0 =h1383a14_1
+    - fonts-conda-ecosystem =1 =0
+    - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.61.1 =py310hf4fd40f_0
     - freetype =2.14.1 =hce30654_0
+    - fribidi =1.0.16 =hc919400_0
     - frozenlist =1.7.0 =py310ha18c8e3_0
     - fzf =0.67.0 =h75b854d_1
     - giflib =5.2.2 =h93a5062_0
@@ -101,12 +110,14 @@ requirements:
     - glib-tools =2.86.3 =hb9d6e3a_0
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.2.1 =py310h1b1a8f9_2
-    - gst-plugins-base =1.24.11 =h3c5c1d0_0
-    - gstreamer =1.24.11 =hfe24232_0
+    - graphite2 =1.3.14 =hec049ff_2
+    - gst-plugins-base =1.26.10 =hd17a83a_0
+    - gstreamer =1.26.10 =h30d696d_0
     - h2 =4.3.0 =pyhcf101f3_0
+    - harfbuzz =12.3.2 =h3103d1b_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
-    - icu =75.1 =hfee45f7_0
+    - icu =78.2 =h38cb7af_0
     - idna =3.11 =pyhd8ed1ab_0
     - imagesize =1.4.1 =pyhd8ed1ab_0
     - importlib-metadata =8.7.0 =pyhe01879c_1
@@ -163,18 +174,18 @@ requirements:
     - libogg =1.3.5 =h48c0fde_1
     - libopenblas =0.3.30 =openmp_ha158390_4
     - libopus =1.6.1 =h1a92334_0
-    - libpng =1.6.54 =h132b30e_0
-    - libpq =18.1 =h944245b_2
+    - libpng =1.6.55 =h132b30e_0
+    - libpq =18.1 =h6caddbb_3
     - libsodium =1.0.20 =h99b78c6_0
     - libspatialindex =2.1.0 =h57eeb1c_0
-    - libsqlite =3.51.2 =h1b79a29_0
+    - libsqlite =3.51.2 =h1ae2325_0
     - libtiff =4.7.1 =h4030677_1
     - libvorbis =1.3.7 =h81086ad_2
     - libwebp =1.6.0 =hc0253d1_0
     - libwebp-base =1.6.0 =h07db88b_0
     - libxcb =1.17.0 =hdb1d25a_0
-    - libxml2 =2.15.1 =h9329255_0
-    - libxml2-16 =2.15.1 =h0ff4647_0
+    - libxml2 =2.15.1 =h8d039ee_1
+    - libxml2-16 =2.15.1 =h5ef1a60_1
     - libzlib =1.3.1 =h8359307_2
     - llvm-openmp =21.1.8 =h4a912ad_0
     - lsprotocol =2025.0.0 =pyhe01879c_0
@@ -208,6 +219,7 @@ requirements:
     - packaging =26.0 =pyhcf101f3_0
     - pandoc =3.9 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
+    - pango =1.56.4 =h875632e_0
     - parso =0.8.6 =pyhcf101f3_0
     - pathspec =1.0.4 =pyhd8ed1ab_0
     - pcre2 =10.47 =h30297fc_0
@@ -215,6 +227,7 @@ requirements:
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =12.1.0 =py310hc037f36_0
     - pip =26.0.1 =pyh8b19718_0
+    - pixman =0.46.4 =h81086ad_1
     - platformdirs =4.5.1 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
@@ -266,11 +279,11 @@ requirements:
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h420ef59_5
     - qstylizer =0.2.4 =pyhff2d567_0
-    - qt-main =5.15.15 =h9b65787_6
+    - qt-main =5.15.15 =h4427410_7
     - qt-webengine =5.15.15 =h5422c0a_1
     - qtawesome =1.4.1 =pyh9208f05_0
-    - qtconsole =5.7.0 =pyhd8ed1ab_0
-    - qtconsole-base =5.7.0 =pyha770c72_0
+    - qtconsole =5.7.1 =pyhd8ed1ab_0
+    - qtconsole-base =5.7.1 =pyha770c72_0
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - readline =8.3 =h46df422_0
     - referencing =0.37.0 =pyhcf101f3_0
@@ -294,7 +307,7 @@ requirements:
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =1.1.10 =pyhd8ed1ab_1
     - spyder-base =6.1.2 =osx_pyh1a5313d_0
-    - spyder-kernels =3.1.2 =unix_pyh707e725_0
+    - spyder-kernels =3.1.3 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.7.8 =pyh9208f05_0
     - text-unidecode =1.3 =pyhd8ed1ab_2
