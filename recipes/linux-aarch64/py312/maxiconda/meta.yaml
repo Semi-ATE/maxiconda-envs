@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py312hcd1a082_1
     - cython =3.2.4 =py312he940de5_0
     - grayskull =3.1.0 =pyhcf101f3_0
-    - hypothesis =6.151.5 =pyha770c72_0
+    - hypothesis =6.151.6 =pyha770c72_0
     - ipython =9.10.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py312h8025657_0
@@ -191,7 +191,7 @@ requirements:
     - jupyter_events =0.12.0 =pyh29332c3_0
     - jupyter_server =2.17.0 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.4 =pyhcf101f3_0
-    - jupyterlab =4.5.3 =pyhd8ed1ab_0
+    - jupyterlab =4.5.4 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.0 =pyhcf101f3_0
     - kernel-headers_linux-aarch64 =6.12.0 =h05a177a_5
@@ -320,7 +320,7 @@ requirements:
     - parso =0.8.6 =pyhcf101f3_0
     - pcre2 =10.47 =hf841c20_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
-    - pillow =12.1.0 =py312h3b21937_0
+    - pillow =12.1.1 =py312h3b21937_0
     - pip =26.0.1 =pyh8b19718_0
     - pixman =0.46.4 =h7ac5ae9_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
@@ -601,7 +601,7 @@ requirements:
     - xkeyboard-config =2.46 =he30d5cf_0
     - xorg-libice =1.1.2 =h86ecc28_0
     - xorg-libsm =1.2.6 =h0808dbd_0
-    - xorg-libx11 =1.8.12 =hca56bd8_0
+    - xorg-libx11 =1.8.13 =h63a1b12_0
     - xorg-libxau =1.0.12 =he30d5cf_1
     - xorg-libxcomposite =0.4.7 =he30d5cf_0
     - xorg-libxcursor =1.2.3 =h86ecc28_0
