@@ -35,9 +35,8 @@ requirements:
     - spyder =6.0.8 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 346 secondary packages :
-    - _libgcc_mutex =0.1 =conda_forge
-    - _openmp_mutex =4.5 =2_gnu
+    # 345 secondary packages :
+    - _openmp_mutex =4.5 =20_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.12.15 =py39heb7d2ae_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -61,9 +60,9 @@ requirements:
     - black =25.1.0 =pyha5154f8_0
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.2.0 =hed03a55_1
-    - brotli-bin =1.2.0 =hb03c661_1
-    - brotli-python =1.0.9 =py39h5a03fae_8
+    - brotli =1.1.0 =hb9d3cd8_3
+    - brotli-bin =1.1.0 =hb9d3cd8_3
+    - brotli-python =1.1.0 =py39hf88036b_3
     - bzip2 =1.0.8 =hda65f42_8
     - ca-certificates =2026.1.4 =hbd8a1cb_0
     - cairo =1.18.4 =h3394656_0
@@ -149,9 +148,9 @@ requirements:
     - ld_impl_linux-64 =2.45.1 =default_hbd61a6d_101
     - lerc =4.0.0 =h0aef613_1
     - libblas =3.11.0 =5_h4a7cf45_openblas
-    - libbrotlicommon =1.2.0 =hb03c661_1
-    - libbrotlidec =1.2.0 =hb03c661_1
-    - libbrotlienc =1.2.0 =hb03c661_1
+    - libbrotlicommon =1.1.0 =hb9d3cd8_3
+    - libbrotlidec =1.1.0 =hb9d3cd8_3
+    - libbrotlienc =1.1.0 =hb9d3cd8_3
     - libcap =2.77 =h3ff7636_0
     - libcblas =3.11.0 =5_h0358290_openblas
     - libclang-cpp20.1 =20.1.8 =default_h99862b1_8

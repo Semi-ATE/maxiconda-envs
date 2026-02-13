@@ -35,9 +35,8 @@ requirements:
     - sqlalchemy =1.4.42 =py37h540881e_0
     - twisted =22.8.0 =py37h540881e_0
 
-    # 180 secondary packages :
-    - _libgcc_mutex =0.1 =conda_forge
-    - _openmp_mutex =4.5 =2_gnu
+    # 179 secondary packages :
+    - _openmp_mutex =4.5 =20_gnu
     - alsa-lib =1.2.15.3 =hb03c661_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - asgiref =3.7.2 =pyhd8ed1ab_0

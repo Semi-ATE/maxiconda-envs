@@ -65,7 +65,7 @@ requirements:
     - xmltodict =1.0.2 =pyhcf101f3_0
 
     # 561 secondary packages :
-    - _openmp_mutex =4.5 =2_gnu
+    - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
     - adwaita-icon-theme =49.0 =unix_0
@@ -149,8 +149,8 @@ requirements:
     - gfortran_impl_linux-aarch64 =15.2.0 =h2d9b6d1_17
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.46 =pyhd8ed1ab_0
-    - glib =2.86.3 =hc66a092_0
-    - glib-tools =2.86.3 =hc87f4d4_0
+    - glib =2.86.3 =hc66a092_1
+    - glib-tools =2.86.3 =hc87f4d4_1
     - gmp =6.3.0 =h0a1ffab_2
     - gmpy2 =2.2.1 =py312h35d709e_2
     - graphite2 =1.3.14 =hfae3067_2
@@ -188,7 +188,7 @@ requirements:
     - jupyter-lsp =2.3.0 =pyhcf101f3_0
     - jupyter_client =8.8.0 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyhc90fa1f_0
-    - jupyter_events =0.12.0 =pyh29332c3_0
+    - jupyter_events =0.12.0 =pyhe01879c_0
     - jupyter_server =2.17.0 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.4 =pyhcf101f3_0
     - jupyterlab =4.5.4 =pyhd8ed1ab_0
@@ -235,7 +235,7 @@ requirements:
     - libgfortran5 =15.2.0 =h1b7bec0_17
     - libgl =1.7.0 =hd24410f_2
     - libgl-devel =1.7.0 =hd24410f_2
-    - libglib =2.86.3 =hf53f6bf_0
+    - libglib =2.86.3 =hf53f6bf_1
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
     - libglx-devel =1.7.0 =hd24410f_2
@@ -392,7 +392,7 @@ requirements:
     - r-diagram =1.6.5 =r45ha770c72_4
     - r-digest =0.6.39 =r45h08b74da_0
     - r-dplyr =1.2.0 =r45h08b74da_0
-    - r-dtplyr =1.3.2 =r45hc72bb7e_1
+    - r-dtplyr =1.3.3 =r45hc72bb7e_0
     - r-e1071 =1.7_17 =r45h08b74da_0
     - r-ellipsis =0.3.2 =r45h0557e7b_4
     - r-evaluate =1.0.5 =r45hc72bb7e_1
@@ -554,7 +554,7 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-aarch64-unknown-linux-gnu =1.93.0 =hbe8e118_0
     - sed =4.9 =hd4cd8d4_0
-    - send2trash =2.1.0 =pyha191276_0
+    - send2trash =2.1.0 =pyha191276_1
     - setuptools =82.0.0 =pyh332efcf_0
     - simdjson =4.2.4 =hfefdfc9_0
     - sip =6.15.0 =py312hfcd9f9b_0
@@ -582,7 +582,7 @@ requirements:
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
     - tzdata =2025c =hc9c84f9_1
-    - unicodedata2 =17.0.0 =py312hcd1a082_1
+    - unicodedata2 =17.0.1 =py312hcd1a082_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.6.3 =pyhd8ed1ab_0
     - wayland =1.24.0 =h4f8a99f_1

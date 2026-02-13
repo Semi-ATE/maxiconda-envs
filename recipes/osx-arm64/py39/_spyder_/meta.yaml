@@ -104,8 +104,8 @@ requirements:
     - frozenlist =1.7.0 =py39h2ffb7dc_0
     - fzf =0.67.0 =h75b854d_1
     - giflib =5.2.2 =h93a5062_0
-    - glib =2.86.3 =h7ee6e74_0
-    - glib-tools =2.86.3 =hb9d6e3a_0
+    - glib =2.86.3 =h903c028_1
+    - glib-tools =2.86.3 =h60c1bae_1
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.2.1 =py39h478d0be_0
     - graphite2 =1.3.14 =hec049ff_2
@@ -159,7 +159,7 @@ requirements:
     - libgcc =15.2.0 =hcbb3090_17
     - libgfortran =15.2.0 =h07b0088_17
     - libgfortran5 =15.2.0 =hdae7583_17
-    - libglib =2.86.3 =hfe11c1f_0
+    - libglib =2.86.3 =he378b5c_1
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -173,7 +173,7 @@ requirements:
     - libopenblas =0.3.30 =openmp_ha158390_4
     - libopus =1.6.1 =h1a92334_0
     - libpng =1.6.55 =h132b30e_0
-    - libpq =18.1 =h6caddbb_3
+    - libpq =18.2 =h6caddbb_0
     - libsodium =1.0.20 =h99b78c6_0
     - libspatialindex =2.1.0 =h57eeb1c_0
     - libsqlite =3.51.2 =h1ae2325_0
