@@ -28,7 +28,7 @@ requirements:
     - cython =3.2.4 =py311h8ccca7f_0
     - matplotlib =3.10.8 =py311ha1ab1f8_0
     - numpy =2.4.2 =py311had1e860_1
-    - pandas =3.0.0 =py311h4a068b9_0
+    - pandas =3.0.1 =py311h4a068b9_0
     - pyqt =5.15.11 =py311ha87f45f_2
     - pyqtwebengine =5.15.11 =py311h7e362d0_2
     - scipy =1.17.0 =py311he9931d0_1
@@ -96,7 +96,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.15.0 =h2b252f5_2
+    - fontconfig =2.17.1 =h2b252f5_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.61.1 =py311ha9b3269_0
@@ -157,9 +157,9 @@ requirements:
     - libffi =3.5.2 =hcf2aa1b_0
     - libfreetype =2.14.1 =hce30654_0
     - libfreetype6 =2.14.1 =h6da58f4_0
-    - libgcc =15.2.0 =hcbb3090_17
-    - libgfortran =15.2.0 =h07b0088_17
-    - libgfortran5 =15.2.0 =hdae7583_17
+    - libgcc =15.2.0 =hcbb3090_18
+    - libgfortran =15.2.0 =h07b0088_18
+    - libgfortran5 =15.2.0 =hdae7583_18
     - libglib =2.86.4 =he378b5c_0
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0

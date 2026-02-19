@@ -39,7 +39,7 @@ requirements:
     - numpy =2.3.5 =py312hb34da66_1
     - openpyxl =3.1.5 =py312h35dbd26_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
-    - pandas =3.0.0 =py312hc7bc305_0
+    - pandas =3.0.1 =py312h8e27051_0
     - psutil =7.2.2 =py312hf7082af_0
     - pydantic =2.12.5 =pyhcf101f3_1
     - pyqt =5.15.11 =py312hd9d23cd_2
@@ -142,7 +142,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.15.0 =h7a4440b_2
+    - fontconfig =2.17.1 =h7a4440b_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.61.1 =py312hacf3034_0
@@ -230,12 +230,12 @@ requirements:
     - libffi =3.5.2 =hd1f9c09_0
     - libfreetype =2.14.1 =h694c41f_0
     - libfreetype6 =2.14.1 =h6912278_0
-    - libgcc =15.2.0 =h08519bb_17
+    - libgcc =15.2.0 =h08519bb_18
     - libgd =2.3.3 =h8555400_11
     - libgettextpo =0.25.1 =h3184127_1
-    - libgfortran =15.2.0 =h7e5c614_17
+    - libgfortran =15.2.0 =h7e5c614_18
     - libgfortran-devel_osx-64 =14.3.0 =h660b60f_1
-    - libgfortran5 =15.2.0 =hd16e46c_17
+    - libgfortran5 =15.2.0 =hd16e46c_18
     - libglib =2.86.4 =hec30fc1_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
@@ -541,7 +541,7 @@ requirements:
     - ruamel.yaml.clib =0.2.15 =py312hf7082af_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-apple-darwin =1.93.1 =h38e4360_0
-    - sdkroot_env_osx-64 =26.0 =h62b880e_6
+    - sdkroot_env_osx-64 =26.0 =h62b880e_7
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =82.0.0 =pyh332efcf_0
     - sigtool-codesign =0.1.3 =hc0f2934_0

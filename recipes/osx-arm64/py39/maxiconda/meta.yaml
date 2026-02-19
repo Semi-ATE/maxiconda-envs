@@ -127,7 +127,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.15.0 =h2b252f5_2
+    - fontconfig =2.17.1 =h2b252f5_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.59.1 =py39hb270ea8_0
@@ -205,11 +205,11 @@ requirements:
     - libffi =3.5.2 =hcf2aa1b_0
     - libfreetype =2.14.1 =hce30654_0
     - libfreetype6 =2.14.1 =h6da58f4_0
-    - libgcc =15.2.0 =hcbb3090_17
+    - libgcc =15.2.0 =hcbb3090_18
     - libgettextpo =0.25.1 =h493aca8_0
-    - libgfortran =15.2.0 =h07b0088_17
+    - libgfortran =15.2.0 =h07b0088_18
     - libgfortran-devel_osx-arm64 =14.3.0 =hc965647_1
-    - libgfortran5 =15.2.0 =hdae7583_17
+    - libgfortran5 =15.2.0 =hdae7583_18
     - libglib =2.86.4 =he378b5c_0
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
@@ -500,7 +500,7 @@ requirements:
     - ruamel.yaml.clib =0.2.8 =py39h57695bc_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-aarch64-apple-darwin =1.93.1 =hf6ec828_0
-    - sdkroot_env_osx-arm64 =26.0 =ha3f98da_6
+    - sdkroot_env_osx-arm64 =26.0 =ha3f98da_7
     - send2trash =1.8.3 =pyh31c8845_1
     - setuptools =80.9.0 =pyhff2d567_0
     - sigtool-codesign =0.1.3 =h98dc951_0

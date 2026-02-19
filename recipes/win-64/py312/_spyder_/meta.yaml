@@ -29,7 +29,7 @@ requirements:
     - matplotlib =3.10.8 =py312h2e8e312_0
     - menuinst =2.4.2 =py312hbb81ca0_0
     - numpy =2.4.2 =py312ha72d056_1
-    - pandas =3.0.0 =py312h95189c4_0
+    - pandas =3.0.1 =py312h95189c4_0
     - pyqt =5.15.11 =py312h7eb3e20_2
     - pyqtwebengine =5.15.11 =py312hffa3973_2
     - scipy =1.17.0 =py312h9b3c559_1
@@ -96,7 +96,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.15.0 =hd47e2ca_2
+    - fontconfig =2.17.1 =hd47e2ca_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.61.1 =py312h05f76fc_0
@@ -151,9 +151,9 @@ requirements:
     - libffi =3.5.2 =h3d046cb_0
     - libfreetype =2.14.1 =h57928b3_0
     - libfreetype6 =2.14.1 =hdbac1cb_0
-    - libgcc =15.2.0 =h8ee18e1_17
+    - libgcc =15.2.0 =h8ee18e1_18
     - libglib =2.86.4 =h0c9aed9_0
-    - libgomp =15.2.0 =h8ee18e1_17
+    - libgomp =15.2.0 =h8ee18e1_18
     - libhwloc =2.12.2 =default_h4379cf1_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
