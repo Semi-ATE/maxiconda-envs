@@ -101,7 +101,7 @@ requirements:
     - freetype =2.14.1 =h57928b3_0
     - fribidi =1.0.16 =hfd05255_0
     - frozenlist =1.7.0 =py311hdf60d3a_0
-    - fzf =0.67.0 =hd02998f_1
+    - fzf =0.68.0 =hd02998f_0
     - glib =2.86.4 =h19e2e61_0
     - glib-tools =2.86.4 =he647baa_0
     - graphite2 =1.3.14 =hac47afa_2
@@ -121,7 +121,7 @@ requirements:
     - ipykernel =6.31.0 =pyh6dadd2b_0
     - ipython =9.10.0 =pyhe2676ad_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
-    - isort =7.0.0 =pyhd8ed1ab_0
+    - isort =8.0.0 =pyhd8ed1ab_0
     - jaraco.classes =3.4.0 =pyhcf101f3_3
     - jaraco.context =6.1.0 =pyhcf101f3_0
     - jaraco.functools =4.4.0 =pyhcf101f3_1
@@ -187,7 +187,7 @@ requirements:
     - mkl =2025.3.0 =hac47afa_455
     - more-itertools =10.8.0 =pyhcf101f3_1
     - mpmath =1.3.0 =pyhd8ed1ab_1
-    - multidict =6.7.0 =py311h3f79411_0
+    - multidict =6.7.1 =py311h3f79411_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - mypy_extensions =1.1.0 =pyha770c72_0
     - nbclient =0.10.4 =pyhd8ed1ab_0
@@ -228,7 +228,7 @@ requirements:
     - pygithub =2.8.1 =pyhd8ed1ab_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyjwt =2.11.0 =pyhd8ed1ab_0
-    - pylint =4.0.4 =pyhcf101f3_0
+    - pylint =4.0.5 =pyhcf101f3_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.6.2 =py311h3485c13_0
@@ -248,14 +248,14 @@ requirements:
     - python-slugify =8.0.4 =pyhd8ed1ab_1
     - python-tzdata =2025.3 =pyhd8ed1ab_0
     - python_abi =3.11 =8_cp311
-    - pytokens =0.4.1 =py311hf893f09_0
+    - pytokens =0.4.1 =py311hf893f09_1
     - pytoolconfig =1.2.5 =pyhd8ed1ab_1
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyuca =1.2 =pyhd8ed1ab_2
     - pywin32 =311 =py311hefeebc8_1
     - pywin32-ctypes =0.2.3 =py311h1ea47a8_3
     - pyyaml =6.0.3 =py311h3f79411_1
-    - pyzmq =27.1.0 =py311hb77b9c8_0
+    - pyzmq =27.1.0 =py311hff25285_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =hc790b64_5
     - qstylizer =0.2.4 =pyhff2d567_0
@@ -268,12 +268,12 @@ requirements:
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - referencing =0.37.0 =pyhcf101f3_0
     - requests =2.32.5 =pyhcf101f3_1
-    - rich =14.3.2 =pyhcf101f3_0
+    - rich =14.3.3 =pyhcf101f3_0
     - roman-numerals =4.1.0 =pyhd8ed1ab_0
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py311hf51aa87_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.15.1 =h213852a_0
+    - ruff =0.15.2 =h213852a_0
     - setuptools =82.0.0 =pyh332efcf_0
     - sip =6.10.0 =py311h3e6a449_1
     - six =1.17.0 =pyhe01879c_1

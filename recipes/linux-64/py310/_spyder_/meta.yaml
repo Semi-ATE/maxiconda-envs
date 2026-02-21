@@ -106,7 +106,7 @@ requirements:
     - freetype =2.14.1 =ha770c72_0
     - fribidi =1.0.16 =hb03c661_0
     - frozenlist =1.7.0 =py310h9548a50_0
-    - fzf =0.67.0 =ha8f183a_1
+    - fzf =0.68.0 =ha8f183a_0
     - giflib =5.2.2 =hd590300_0
     - glib =2.86.4 =h5192d8d_0
     - glib-tools =2.86.4 =hf516916_0
@@ -129,7 +129,7 @@ requirements:
     - ipykernel =6.31.0 =pyha191276_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
-    - isort =7.0.0 =pyhd8ed1ab_0
+    - isort =8.0.0 =pyhd8ed1ab_0
     - jaraco.classes =3.4.0 =pyhcf101f3_3
     - jaraco.context =6.1.0 =pyhcf101f3_0
     - jaraco.functools =4.4.0 =pyhcf101f3_1
@@ -225,7 +225,7 @@ requirements:
     - mpfr =4.2.1 =h90cbb55_3
     - mpg123 =1.32.9 =hc50e24c_0
     - mpmath =1.3.0 =pyhd8ed1ab_1
-    - multidict =6.7.0 =py310h3406613_0
+    - multidict =6.7.1 =py310h3406613_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - mypy_extensions =1.1.0 =pyha770c72_0
     - nbclient =0.10.4 =pyhd8ed1ab_0
@@ -271,7 +271,7 @@ requirements:
     - pygithub =2.8.1 =pyhd8ed1ab_0
     - pygments =2.19.2 =pyhd8ed1ab_0
     - pyjwt =2.11.0 =pyhd8ed1ab_0
-    - pylint =4.0.4 =pyhcf101f3_0
+    - pylint =4.0.5 =pyhcf101f3_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.6.2 =py310h7c4b9e2_0
@@ -291,13 +291,13 @@ requirements:
     - python-slugify =8.0.4 =pyhd8ed1ab_1
     - python-tzdata =2025.3 =pyhd8ed1ab_0
     - python_abi =3.10 =8_cp310
-    - pytokens =0.4.1 =py310h139afa4_0
+    - pytokens =0.4.1 =py310h139afa4_1
     - pytoolconfig =1.2.5 =pyhd8ed1ab_1
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.3 =py310h3406613_1
-    - pyzmq =27.1.0 =py310h4f33d48_0
+    - pyzmq =27.1.0 =py310hc4bea81_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h434a139_5
     - qstylizer =0.2.4 =pyhff2d567_0
@@ -311,11 +311,11 @@ requirements:
     - readline =8.3 =h853b02a_0
     - referencing =0.37.0 =pyhcf101f3_0
     - requests =2.32.5 =pyhcf101f3_1
-    - rich =14.3.2 =pyhcf101f3_0
+    - rich =14.3.3 =pyhcf101f3_0
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py310hd8f68c5_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.15.1 =h40fa522_0
+    - ruff =0.15.2 =h40fa522_0
     - secretstorage =3.4.1 =py310hff52083_0
     - setuptools =82.0.0 =pyh332efcf_0
     - sip =6.10.0 =py310hea6c23e_1

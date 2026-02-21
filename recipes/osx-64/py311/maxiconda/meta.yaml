@@ -50,7 +50,7 @@ requirements:
     - qtawesome =1.4.1 =pyh9208f05_0
     - r-base =4.5.2 =h07b34e9_3
     - r-essentials =4.5 =r45hd8ed1ab_2006
-    - regex =2026.1.15 =py311hc71d4c3_0
+    - regex =2026.2.19 =py311h0a33410_0
     - requests =2.32.5 =pyhcf101f3_1
     - rust =1.93.1 =h34a2095_0
     - scipy =1.17.0 =py311h553d447_1
@@ -77,7 +77,7 @@ requirements:
     - argon2-cffi-bindings =25.1.0 =py311hf197a57_2
     - arrow =1.4.0 =pyhcf101f3_0
     - asttokens =3.0.1 =pyhd8ed1ab_0
-    - async-lru =2.1.0 =pyhcf101f3_0
+    - async-lru =2.2.0 =pyhcf101f3_0
     - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =25.4.0 =pyhcf101f3_1
     - babel =2.18.0 =pyhcf101f3_0
@@ -268,7 +268,7 @@ requirements:
     - mpc =1.3.1 =h9d8efa1_1
     - mpfr =4.2.1 =haed47dc_3
     - mpmath =1.3.0 =pyhd8ed1ab_1
-    - multidict =6.7.0 =py311h24ee9f8_0
+    - multidict =6.7.1 =py311h42ed68f_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.10.4 =pyhd8ed1ab_0
     - nbconvert-core =7.17.0 =pyhcf101f3_0
@@ -324,7 +324,7 @@ requirements:
     - python_abi =3.11 =8_cp311
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyxdg =0.28 =pyhd8ed1ab_0
-    - pyzmq =27.1.0 =py311h0ab6910_0
+    - pyzmq =27.1.0 =py311hddb5263_1
     - qhull =2020.2 =h3c5361c_5
     - qt-main =5.15.15 =hf9f191d_6
     - qtpy =2.4.3 =pyhd8ed1ab_1
@@ -375,7 +375,7 @@ requirements:
     - r-formatr =1.14 =r45hc72bb7e_3
     - r-fs =1.6.6 =r45ha730edb_1
     - r-future =1.69.0 =r45h785f33e_0
-    - r-future.apply =1.20.1 =r45hc72bb7e_0
+    - r-future.apply =1.20.2 =r45hc72bb7e_0
     - r-gargle =1.6.1 =r45h785f33e_0
     - r-generics =0.1.4 =r45hc72bb7e_1
     - r-ggplot2 =4.0.2 =r45h785f33e_0
@@ -456,7 +456,7 @@ requirements:
     - r-rcolorbrewer =1.1_3 =r45h785f33e_4
     - r-rcpp =1.1.1 =r45hed9a748_0
     - r-rcppeigen =0.3.4.0.2 =r45hefbd7a6_1
-    - r-readr =2.1.6 =r45ha730edb_0
+    - r-readr =2.2.0 =r45h384437d_0
     - r-readxl =1.4.5 =r45h9d0ed1e_1
     - r-recipes =1.3.1 =r45hc72bb7e_1
     - r-recommended =4.5 =r45hd8ed1ab_1008
@@ -475,7 +475,7 @@ requirements:
     - r-scales =1.4.0 =r45hc72bb7e_1
     - r-selectr =0.5_1 =r45hc72bb7e_0
     - r-shape =1.4.6.1 =r45ha770c72_2
-    - r-shiny =1.12.1 =r45h785f33e_0
+    - r-shiny =1.13.0 =r45h785f33e_0
     - r-sourcetools =0.1.7_1 =r45ha730edb_3
     - r-sparsevctrs =0.3.6 =r45hdab4d57_0
     - r-spatial =7.3_18 =r45h735ac91_1
