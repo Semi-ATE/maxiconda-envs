@@ -31,7 +31,7 @@ requirements:
     - pandas =3.0.1 =py312hae6be28_0
     - pyqt =5.15.11 =py312h6612b97_2
     - pyqtwebengine =5.15.11 =py312h1a0e663_2
-    - scipy =1.17.0 =py312h0f234b1_1
+    - scipy =1.17.1 =py312h0f234b1_0
     - spyder =6.1.3 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
@@ -106,8 +106,8 @@ requirements:
     - frozenlist =1.7.0 =py312h512c567_0
     - fzf =0.68.0 =h75b854d_0
     - giflib =5.2.2 =h93a5062_0
-    - glib =2.86.4 =h903c028_0
-    - glib-tools =2.86.4 =h60c1bae_0
+    - glib =2.86.4 =h903c028_1
+    - glib-tools =2.86.4 =h60c1bae_1
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.2.1 =py312hee6aa52_2
     - graphite2 =1.3.14 =hec049ff_2
@@ -161,7 +161,7 @@ requirements:
     - libgcc =15.2.0 =hcbb3090_18
     - libgfortran =15.2.0 =h07b0088_18
     - libgfortran5 =15.2.0 =hdae7583_18
-    - libglib =2.86.4 =he378b5c_0
+    - libglib =2.86.4 =he378b5c_1
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -199,7 +199,7 @@ requirements:
     - more-itertools =10.8.0 =pyhcf101f3_1
     - mpc =1.3.1 =h8f1351a_1
     - mpfr =4.2.1 =hb693164_3
-    - mpmath =1.3.0 =pyhd8ed1ab_1
+    - mpmath =1.4.0 =pyhd8ed1ab_0
     - multidict =6.7.1 =py312h43af8aa_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - mypy_extensions =1.1.0 =pyha770c72_0

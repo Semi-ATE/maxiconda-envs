@@ -53,7 +53,7 @@ requirements:
     - regex =2026.2.19 =py312hcd1a082_0
     - requests =2.32.5 =pyhcf101f3_1
     - rust =1.93.1 =h6cf38e9_0
-    - scipy =1.17.0 =py312he5b0e10_1
+    - scipy =1.17.1 =py312he5b0e10_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.3 =unix_pyh707e725_0
     - sqlalchemy =2.0.46 =py312h2fc9c67_1
@@ -149,8 +149,8 @@ requirements:
     - gfortran_impl_linux-aarch64 =15.2.0 =h2d9b6d1_18
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.46 =pyhd8ed1ab_0
-    - glib =2.86.4 =hc66a092_0
-    - glib-tools =2.86.4 =hc87f4d4_0
+    - glib =2.86.4 =hc66a092_1
+    - glib-tools =2.86.4 =hc87f4d4_1
     - gmp =6.3.0 =h0a1ffab_2
     - gmpy2 =2.2.1 =py312h35d709e_2
     - graphite2 =1.3.14 =hfae3067_2
@@ -191,7 +191,7 @@ requirements:
     - jupyter_events =0.12.0 =pyhe01879c_0
     - jupyter_server =2.17.0 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.4 =pyhcf101f3_0
-    - jupyterlab =4.5.4 =pyhd8ed1ab_0
+    - jupyterlab =4.5.5 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.0 =pyhcf101f3_0
     - kernel-headers_linux-aarch64 =6.12.0 =h05a177a_5
@@ -235,7 +235,7 @@ requirements:
     - libgfortran5 =15.2.0 =h1b7bec0_18
     - libgl =1.7.0 =hd24410f_2
     - libgl-devel =1.7.0 =hd24410f_2
-    - libglib =2.86.4 =hf53f6bf_0
+    - libglib =2.86.4 =hf53f6bf_1
     - libglvnd =1.7.0 =hd24410f_2
     - libglx =1.7.0 =hd24410f_2
     - libglx-devel =1.7.0 =hd24410f_2
@@ -294,7 +294,7 @@ requirements:
     - mpc =1.3.1 =h783934e_1
     - mpfr =4.2.1 =h2305555_3
     - mpg123 =1.32.9 =h65af167_0
-    - mpmath =1.3.0 =pyhd8ed1ab_1
+    - mpmath =1.4.0 =pyhd8ed1ab_0
     - msgpack-python =1.1.2 =py312h4f740d2_1
     - multidict =6.7.1 =py312ha4530ae_0
     - munkres =1.1.4 =pyhd8ed1ab_1
@@ -536,7 +536,7 @@ requirements:
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.56 =r45h08b74da_0
     - r-xml2 =1.5.2 =r45h15e677e_0
-    - r-xtable =1.8_4 =r45hc72bb7e_7
+    - r-xtable =1.8_8 =r45hc72bb7e_0
     - r-xts =0.14.1 =r45h0557e7b_1
     - r-yaml =2.3.12 =r45h0557e7b_0
     - r-zoo =1.8_15 =r45h0557e7b_0
