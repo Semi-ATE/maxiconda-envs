@@ -47,7 +47,7 @@ requirements:
     - pyyaml =6.0.3 =py311hc290fe0_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.1 =pyh9208f05_0
-    - r-base =4.5.2 =hb2e0d2d_3
+    - r-base =4.5.2 =haf89817_4
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.2.19 =py311hc949640_0
     - requests =2.32.5 =pyhcf101f3_1
@@ -56,7 +56,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.3 =unix_pyh707e725_0
     - sqlalchemy =2.0.47 =py311he363849_0
-    - sqlite =3.51.2 =h85ec8f2_0
+    - sqlite =3.51.2 =h77b7338_0
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.67.3 =pyh8f84b5b_0
     - transitions =0.9.3 =pyhe01879c_0
@@ -89,14 +89,14 @@ requirements:
     - bwidget =1.10.1 =hce30654_1
     - bzip2 =1.0.8 =hd037594_9
     - c-ares =1.34.6 =hc919400_0
-    - ca-certificates =2026.1.4 =hbd8a1cb_0
+    - ca-certificates =2026.2.25 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
-    - cairo =1.18.4 =h6a3b0d2_0
+    - cairo =1.18.4 =he0f2337_1
     - cctools =1030.6.3 =llvm21_1_h8e84c17_4
     - cctools_impl_osx-arm64 =1030.6.3 =llvm21_1_h7a537a9_4
-    - cctools_osx-arm64 =1030.6.3 =llvm21_1_h6d92914_4
-    - certifi =2026.1.4 =pyhd8ed1ab_0
+    - cctools_osx-arm64 =1030.6.3 =llvm21_1_h8e84c17_4
+    - certifi =2026.2.25 =pyhd8ed1ab_0
     - cffi =2.0.0 =py311hd10dc20_1
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
     - clang =21.1.8 =default_cfg_hb78b91e_3
@@ -156,19 +156,19 @@ requirements:
     - graphviz =14.1.2 =hec8c438_0
     - greenlet =3.3.2 =py311h8948835_0
     - gsl =2.7 =h6e638da_0
-    - gst-plugins-base =1.24.11 =h3c5c1d0_0
-    - gstreamer =1.24.11 =hfe24232_0
-    - gtk3 =3.24.43 =h5febe37_6
+    - gst-plugins-base =1.26.10 =hd17a83a_0
+    - gstreamer =1.26.10 =h30d696d_0
+    - gtk3 =3.24.43 =hc0f3e19_7
     - gts =0.7.6 =he42f4ea_4
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =12.2.0 =haf38c7b_0
+    - harfbuzz =12.3.2 =h3103d1b_0
     - hicolor-icon-theme =0.17 =hce30654_3
     - hpack =4.1.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
-    - icu =75.1 =hfee45f7_0
+    - icu =78.2 =h38cb7af_0
     - idna =3.11 =pyhd8ed1ab_0
     - importlib-metadata =8.7.0 =pyhe01879c_1
     - importlib_resources =6.5.2 =pyhd8ed1ab_0
@@ -210,9 +210,9 @@ requirements:
     - libclang13 =21.1.8 =default_h13b06bd_3
     - libcompiler-rt =21.1.8 =h855ad52_1
     - libcurl =8.18.0 =he38603e_0
-    - libcxx =21.1.8 =h55c6f16_2
-    - libcxx-devel =21.1.8 =h6dc3340_2
-    - libcxx-headers =21.1.8 =h707e725_2
+    - libcxx =22.1.0 =h55c6f16_1
+    - libcxx-devel =21.1.8 =h6dc3340_3
+    - libcxx-headers =21.1.8 =h707e725_3
     - libdeflate =1.25 =hc11a715_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libev =4.33 =h93a5062_2
@@ -221,7 +221,7 @@ requirements:
     - libfreetype =2.14.1 =hce30654_0
     - libfreetype6 =2.14.1 =h6da58f4_0
     - libgcc =15.2.0 =hcbb3090_18
-    - libgd =2.3.3 =hb2c3a21_11
+    - libgd =2.3.3 =h05bcc79_12
     - libgettextpo =0.25.1 =h493aca8_0
     - libgfortran =15.2.0 =h07b0088_18
     - libgfortran-devel_osx-arm64 =14.3.0 =hc965647_1
@@ -241,21 +241,21 @@ requirements:
     - libopenblas =0.3.30 =openmp_ha158390_4
     - libopus =1.6.1 =h1a92334_0
     - libpng =1.6.55 =h132b30e_0
-    - libpq =18.1 =h944245b_2
+    - libpq =18.2 =h6caddbb_0
     - librsvg =2.60.0 =h9001022_1
     - libsigtool =0.1.3 =h98dc951_0
     - libsodium =1.0.20 =h99b78c6_0
-    - libsqlite =3.51.2 =h1b79a29_0
+    - libsqlite =3.51.2 =h1ae2325_0
     - libssh2 =1.11.1 =h1590b86_0
     - libtiff =4.7.1 =h4030677_1
     - libuv =1.51.0 =h6caf38d_1
     - libvorbis =1.3.7 =h81086ad_2
     - libwebp-base =1.6.0 =h07db88b_0
     - libxcb =1.17.0 =hdb1d25a_0
-    - libxml2 =2.15.1 =h9329255_0
-    - libxml2-16 =2.15.1 =h0ff4647_0
+    - libxml2 =2.15.1 =h8d039ee_1
+    - libxml2-16 =2.15.1 =h5ef1a60_1
     - libzlib =1.3.1 =h8359307_2
-    - llvm-openmp =21.1.8 =h4a912ad_0
+    - llvm-openmp =22.1.0 =hc7d1edf_0
     - llvm-tools =21.1.8 =h855ad52_0
     - llvm-tools-21 =21.1.8 =h91fd4e7_0
     - llvmlite =0.46.0 =py311h27de090_0
@@ -325,7 +325,7 @@ requirements:
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.1.0 =py311h745ac33_2
     - qhull =2020.2 =h420ef59_5
-    - qt-main =5.15.15 =h9b65787_6
+    - qt-main =5.15.15 =h4427410_7
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r45h6168396_1
     - r-assertthat =0.2.1 =r45hc72bb7e_6
@@ -355,7 +355,7 @@ requirements:
     - r-crul =1.6.0 =r45hc72bb7e_1
     - r-curl =7.0.0 =r45hbc3244a_1
     - r-data.table =1.17.8 =r45hbd14437_1
-    - r-dbi =1.2.3 =r45hc72bb7e_2
+    - r-dbi =1.3.0 =r45hc72bb7e_0
     - r-dbplyr =2.5.2 =r45hc72bb7e_0
     - r-diagram =1.6.5 =r45ha770c72_4
     - r-digest =0.6.39 =r45hc1cd577_0
@@ -407,7 +407,7 @@ requirements:
     - r-kernsmooth =2.23_26 =r45hc8a44f4_1
     - r-knitr =1.51 =r45hc72bb7e_0
     - r-labeling =0.4.3 =r45hc72bb7e_2
-    - r-later =1.4.6 =r45h1380947_0
+    - r-later =1.4.7 =r45h1380947_0
     - r-lattice =0.22_9 =r45hbe92478_0
     - r-lava =1.8.2 =r45hc72bb7e_0
     - r-lazyeval =0.2.2 =r45h6168396_6
@@ -479,7 +479,7 @@ requirements:
     - r-sparsevctrs =0.3.6 =r45hbe92478_0
     - r-spatial =7.3_18 =r45h6168396_1
     - r-squarem =2021.1 =r45hc72bb7e_4
-    - r-stringi =1.8.7 =r45he9eb878_1
+    - r-stringi =1.8.7 =r45h76ca873_2
     - r-stringr =1.6.0 =r45h785f33e_0
     - r-survival =3.8_6 =r45hbe92478_0
     - r-sys =3.4.3 =r45h6168396_1

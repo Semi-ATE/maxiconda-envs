@@ -45,7 +45,7 @@ requirements:
     - arrow =1.4.0 =pyhcf101f3_0
     - astroid =4.0.4 =py311hec3470c_0
     - asttokens =3.0.1 =pyhd8ed1ab_0
-    - asyncssh =2.21.1 =pyhd8ed1ab_0
+    - asyncssh =2.22.0 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_1
     - attr =2.5.1 =h4e544f5_1
     - attrs =25.4.0 =pyhcf101f3_1
@@ -64,10 +64,10 @@ requirements:
     - brotli-bin =1.2.0 =he30d5cf_1
     - brotli-python =1.2.0 =py311h14a79a7_1
     - bzip2 =1.0.8 =h4777abc_9
-    - ca-certificates =2026.1.4 =hbd8a1cb_0
+    - ca-certificates =2026.2.25 =hbd8a1cb_0
     - cairo =1.18.4 =h0b6afd8_1
     - cattrs =26.1.0 =pyhcf101f3_1
-    - certifi =2026.1.4 =pyhd8ed1ab_0
+    - certifi =2026.2.25 =pyhd8ed1ab_0
     - cffi =2.0.0 =py311h460c349_1
     - chardet =5.2.0 =pyhd8ed1ab_3
     - charset-normalizer =3.4.4 =pyhd8ed1ab_0
@@ -364,7 +364,7 @@ requirements:
     - xcb-util-keysyms =0.4.1 =h5c728e9_0
     - xcb-util-renderutil =0.3.10 =h5c728e9_0
     - xcb-util-wm =0.4.2 =h5c728e9_0
-    - xkeyboard-config =2.46 =he30d5cf_0
+    - xkeyboard-config =2.47 =he30d5cf_0
     - xorg-libice =1.1.2 =h86ecc28_0
     - xorg-libsm =1.2.6 =h0808dbd_0
     - xorg-libx11 =1.8.13 =h63a1b12_0

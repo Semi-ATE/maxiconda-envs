@@ -41,7 +41,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_4
     - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =h500dc9f_9
-    - ca-certificates =2026.1.4 =hbd8a1cb_0
+    - ca-certificates =2026.2.25 =hbd8a1cb_0
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - cyrus-sasl =2.1.28 =h610c526_0
     - debugpy =1.6.3 =py37hf6dfe07_0
@@ -65,7 +65,7 @@ requirements:
     - libcblas =3.11.0 =5_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_hc369343_17
     - libclang13 =21.1.8 =default_h5e75a71_3
-    - libcxx =21.1.8 =h4fb565c_2
+    - libcxx =22.1.0 =h19cb2f5_1
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libffi =3.4.6 =h281671d_1
     - libgcc =15.2.0 =h08519bb_18
@@ -94,7 +94,7 @@ requirements:
     - libxml2 =2.15.1 =h7b7ecba_0
     - libxml2-16 =2.15.1 =ha1d9b0f_0
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =21.1.8 =h472b3d1_0
+    - llvm-openmp =22.1.0 =h0d3cbff_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0

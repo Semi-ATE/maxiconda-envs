@@ -57,7 +57,7 @@ requirements:
     - brotli-bin =1.2.0 =h8616949_1
     - brotli-python =1.0.9 =py37h0582d14_7
     - bzip2 =1.0.8 =h500dc9f_9
-    - ca-certificates =2026.1.4 =hbd8a1cb_0
+    - ca-certificates =2026.2.25 =hbd8a1cb_0
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - chardet =5.0.0 =py37hf985489_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
@@ -120,7 +120,7 @@ requirements:
     - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang =13.0.1 =default_h0340054_11
-    - libcxx =21.1.8 =h4fb565c_2
+    - libcxx =22.1.0 =h19cb2f5_1
     - libcxx-devel =16.0.6 =h8f8a49f_2
     - libdeflate =1.14 =hb7f2c08_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
@@ -154,7 +154,7 @@ requirements:
     - libwebp-base =1.2.4 =h775f41a_0
     - libxcb =1.13 =h0d85af4_1004
     - libzlib =1.3.1 =hd23fc13_2
-    - llvm-openmp =21.1.8 =h472b3d1_0
+    - llvm-openmp =22.1.0 =h0d3cbff_0
     - markdown-it-py =2.2.0 =pyhd8ed1ab_0
     - markupsafe =2.1.1 =py37h69ee0a8_1
     - matplotlib-base =3.5.3 =py37h3748cd6_2
