@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 538 secondary packages :
+    # 539 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - adwaita-icon-theme =49.0 =unix_0
@@ -202,7 +202,7 @@ requirements:
     - libcap =2.77 =h68e9139_0
     - libcblas =3.11.0 =5_hd72aa62_openblas
     - libclang-cpp21.1 =21.1.8 =default_he95a3c9_3
-    - libclang13 =21.1.8 =default_h94a09a5_3
+    - libclang13 =22.1.0 =default_h94a09a5_0
     - libcups =2.3.3 =h5cdc715_5
     - libcurl =8.18.0 =h7bfdcfb_0
     - libdeflate =1.25 =h1af38f5_0
@@ -235,6 +235,7 @@ requirements:
     - libjpeg-turbo =3.1.2 =he30d5cf_0
     - liblapack =3.11.0 =5_h88aeb00_openblas
     - libllvm21 =21.1.8 =hfd2ba90_0
+    - libllvm22 =22.1.0 =hfd2ba90_0
     - liblzma =5.8.2 =he30d5cf_0
     - libnghttp2 =1.67.0 =ha888d0e_0
     - libnsl =2.0.1 =h86ecc28_1
@@ -441,7 +442,7 @@ requirements:
     - r-nlme =3.1_168 =r45h6df9e4a_1
     - r-nnet =7.3_20 =r45h0557e7b_1
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
-    - r-openssl =2.3.4 =r45h254ea06_0
+    - r-openssl =2.3.5 =r45h37c386a_0
     - r-otel =0.2.0 =r45hc72bb7e_1
     - r-parallelly =1.46.1 =r45h0557e7b_0
     - r-pbdzmq =0.3_14 =r45he63f4dc_1

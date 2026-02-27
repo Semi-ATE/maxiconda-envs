@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 503 secondary packages :
+    # 504 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
@@ -187,7 +187,7 @@ requirements:
     - libcap =2.77 =h3ff7636_0
     - libcblas =3.9.0 =20_linux64_openblas
     - libclang-cpp21.1 =21.1.8 =default_h99862b1_3
-    - libclang13 =21.1.8 =default_h746c552_3
+    - libclang13 =22.1.0 =default_h746c552_0
     - libcups =2.3.3 =hb8b1518_5
     - libcurl =8.18.0 =h4e3cde8_0
     - libdeflate =1.25 =h17f619e_0
@@ -217,6 +217,7 @@ requirements:
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm14 =14.0.6 =hcd5def8_4
     - libllvm21 =21.1.8 =hf7376ad_0
+    - libllvm22 =22.1.0 =hf7376ad_0
     - liblzma =5.8.2 =hb03c661_0
     - liblzma-devel =5.8.2 =hb03c661_0
     - libnghttp2 =1.67.0 =had1ee68_0
@@ -416,7 +417,7 @@ requirements:
     - r-nlme =3.1_168 =r45heaba542_1
     - r-nnet =7.3_20 =r45h54b55ab_1
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
-    - r-openssl =2.3.4 =r45h50f7d53_0
+    - r-openssl =2.3.5 =r45h68c19f5_0
     - r-otel =0.2.0 =r45hc72bb7e_1
     - r-parallelly =1.46.1 =r45h54b55ab_0
     - r-pbdzmq =0.3_14 =r45hded8526_1

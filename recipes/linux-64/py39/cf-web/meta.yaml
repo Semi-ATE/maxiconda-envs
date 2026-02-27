@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.43 =py39hd399759_0
     - twisted =25.5.0 =py39h8cd3c5a_0
 
-    # 187 secondary packages :
+    # 188 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - alsa-lib =1.2.15.3 =hb03c661_0
     - appdirs =1.4.4 =pyhd8ed1ab_1
@@ -97,7 +97,7 @@ requirements:
     - ld_impl_linux-64 =2.45.1 =default_hbd61a6d_101
     - libcap =2.77 =h3ff7636_0
     - libclang-cpp21.1 =21.1.8 =default_h99862b1_3
-    - libclang13 =21.1.8 =default_h746c552_3
+    - libclang13 =22.1.0 =default_h746c552_0
     - libcups =2.3.3 =hb8b1518_5
     - libdrm =2.4.125 =hb03c661_1
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -118,6 +118,7 @@ requirements:
     - libiconv =1.18 =h3b78370_2
     - libjpeg-turbo =3.1.2 =hb03c661_0
     - libllvm21 =21.1.8 =hf7376ad_0
+    - libllvm22 =22.1.0 =hf7376ad_0
     - liblzma =5.8.2 =hb03c661_0
     - libnsl =2.0.1 =hb9d3cd8_1
     - libntlm =1.8 =hb9d3cd8_0

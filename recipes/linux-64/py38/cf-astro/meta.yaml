@@ -28,7 +28,7 @@ requirements:
     - pyqt =5.15.9 =py38hffdaa6c_5
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
 
-    # 155 secondary packages :
+    # 156 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - alsa-lib =1.2.15.3 =hb03c661_0
     - asttokens =3.0.0 =pyhd8ed1ab_0
@@ -71,7 +71,7 @@ requirements:
     - ld_impl_linux-64 =2.45.1 =default_hbd61a6d_101
     - libcap =2.77 =h3ff7636_0
     - libclang-cpp21.1 =21.1.8 =default_h99862b1_3
-    - libclang13 =21.1.8 =default_h746c552_3
+    - libclang13 =22.1.0 =default_h746c552_0
     - libcups =2.3.3 =hb8b1518_5
     - libdrm =2.4.125 =hb03c661_1
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -92,6 +92,7 @@ requirements:
     - libiconv =1.18 =h3b78370_2
     - libjpeg-turbo =3.1.2 =hb03c661_0
     - libllvm21 =21.1.8 =hf7376ad_0
+    - libllvm22 =22.1.0 =hf7376ad_0
     - liblzma =5.8.2 =hb03c661_0
     - liblzma-devel =5.8.2 =hb03c661_0
     - libnsl =2.0.1 =hb9d3cd8_1
