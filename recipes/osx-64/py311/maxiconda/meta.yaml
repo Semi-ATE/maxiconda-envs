@@ -35,8 +35,8 @@ requirements:
     - ipython =9.10.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py311h6eed73b_0
-    - numba =0.63.1 =py311hfe9595b_0
-    - numpy =2.3.5 =py311h3402b43_1
+    - numba =0.64.0 =py311h7fce02c_0
+    - numpy =2.4.2 =py311h3402b43_1
     - openpyxl =3.1.5 =py311ha4806d7_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =3.0.1 =py311h2a74ac8_0
@@ -261,7 +261,7 @@ requirements:
     - llvm-tools-22 =22.1.0 =hc181bea_0
     - llvmlite =0.46.0 =py311hb26b958_0
     - make =4.4.1 =h00291cd_2
-    - markupsafe =3.0.3 =py311he13f9b5_0
+    - markupsafe =3.0.3 =py311ha8ae342_1
     - matplotlib-base =3.10.8 =py311h48d7e91_0
     - matplotlib-inline =0.2.1 =pyhd8ed1ab_0
     - mistune =3.2.0 =pyhcf101f3_0
