@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 539 secondary packages :
+    # 538 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - adwaita-icon-theme =49.0 =unix_0
@@ -83,7 +83,7 @@ requirements:
     - atk-1.0 =2.38.0 =hedc4a1f_2
     - attr =2.5.1 =h4e544f5_1
     - attrs =25.4.0 =pyhcf101f3_1
-    - babel =2.18.0 =pyhcf101f3_0
+    - babel =2.18.0 =pyhcf101f3_1
     - backports.zstd =1.3.0 =py311h6ce31b0_0
     - binutils_impl_linux-aarch64 =2.45.1 =default_h5f4c503_101
     - bleach =6.3.0 =pyhcf101f3_1
@@ -186,7 +186,7 @@ requirements:
     - jupyterlab =4.5.5 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.0 =pyhcf101f3_0
-    - kernel-headers_linux-aarch64 =6.12.0 =h05a177a_5
+    - kernel-headers_linux-aarch64 =6.12.0 =h05a177a_6
     - keyutils =1.6.3 =h86ecc28_0
     - kiwisolver =1.4.9 =py311h229e7f7_2
     - krb5 =1.21.3 =h50a48e9_0
@@ -334,7 +334,6 @@ requirements:
     - python-tzdata =2025.3 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.11 =8_cp311
-    - pytz =2025.2 =pyhd8ed1ab_0
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.1.0 =py311h8ebcfc2_2
     - qhull =2020.2 =h70be974_5
@@ -545,7 +544,7 @@ requirements:
     - soupsieve =2.8.3 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
-    - sysroot_linux-aarch64 =2.39 =h934ec21_5
+    - sysroot_linux-aarch64 =2.39 =h934ec21_6
     - terminado =0.18.1 =pyhc90fa1f_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_h0dc03b3_103

@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 498 secondary packages :
+    # 497 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
@@ -79,7 +79,7 @@ requirements:
     - asttokens =3.0.1 =pyhd8ed1ab_0
     - async-lru =2.2.0 =pyhcf101f3_0
     - attrs =25.4.0 =pyhcf101f3_1
-    - babel =2.18.0 =pyhcf101f3_0
+    - babel =2.18.0 =pyhcf101f3_1
     - backports.zstd =1.3.0 =py312h06d0912_0
     - binutils_impl_win-64 =2.45.1 =default_ha84baeb_101
     - bleach =6.3.0 =pyhcf101f3_1
@@ -303,7 +303,6 @@ requirements:
     - python-tzdata =2025.3 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.12 =8_cp312
-    - pytz =2025.2 =pyhd8ed1ab_0
     - pywin32 =311 =py312h829343e_1
     - pywinpty =2.0.15 =py312h275cf98_1
     - pyzmq =27.1.0 =py312h343a6d4_2
