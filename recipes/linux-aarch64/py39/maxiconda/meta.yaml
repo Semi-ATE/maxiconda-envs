@@ -124,7 +124,7 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.59.1 =py39h246000a_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
-    - freetype =2.14.1 =h8af1aa0_0
+    - freetype =2.14.2 =h8af1aa0_0
     - fribidi =1.0.16 =he30d5cf_0
     - frozenlist =1.7.0 =py39h5064d8f_0
     - gcc_impl_linux-aarch64 =15.2.0 =hcedddb3_18
@@ -197,8 +197,8 @@ requirements:
     - libexpat =2.7.4 =hfae3067_0
     - libffi =3.4.6 =he21f813_1
     - libflac =1.5.0 =he9c94f4_1
-    - libfreetype =2.14.1 =h8af1aa0_0
-    - libfreetype6 =2.14.1 =hdae7a39_0
+    - libfreetype =2.14.2 =h8af1aa0_0
+    - libfreetype6 =2.14.2 =hdae7a39_0
     - libgcc =15.2.0 =h8acb6b2_18
     - libgcc-devel_linux-aarch64 =15.2.0 =h55c397f_118
     - libgcc-ng =15.2.0 =he9431aa_18
@@ -235,7 +235,7 @@ requirements:
     - libstdcxx =15.2.0 =hef695bb_18
     - libstdcxx-devel_linux-aarch64 =15.2.0 =ha7b1723_118
     - libstdcxx-ng =15.2.0 =hdbbeba8_18
-    - libsystemd0 =259.2 =h8c5a66d_0
+    - libsystemd0 =259.3 =h8c5a66d_0
     - libtiff =4.7.1 =h7a57436_0
     - libuuid =2.41.3 =h1022ec0_0
     - libuv =1.51.0 =he30d5cf_1
@@ -395,7 +395,7 @@ requirements:
     - r-kernsmooth =2.23_26 =r45hf17a18f_1
     - r-knitr =1.51 =r45hc72bb7e_0
     - r-labeling =0.4.3 =r45hc72bb7e_2
-    - r-later =1.4.7 =r45h08b74da_0
+    - r-later =1.4.8 =r45h08b74da_0
     - r-lattice =0.22_9 =r45h0557e7b_0
     - r-lava =1.8.2 =r45hc72bb7e_0
     - r-lazyeval =0.2.2 =r45h0557e7b_6

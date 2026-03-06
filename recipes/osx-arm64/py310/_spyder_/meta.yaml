@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.10.19 =hcd7f573_3_cpython
+    - python =3.10.20 =h1b19095_0_cpython
   run:
-    - python =3.10.19 =hcd7f573_3_cpython
+    - python =3.10.20 =h1b19095_0_cpython
 
     # 9 primary packages :
     - cython =3.2.4 =py310h9a762d2_0
@@ -78,7 +78,7 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - contourpy =1.3.2 =py310h7f4e7e6_0
     - cookiecutter =2.7.1 =pyhcf101f3_0
-    - cpython =3.10.19 =py310hd8ed1ab_3
+    - cpython =3.10.20 =py310hd8ed1ab_0
     - cryptography =46.0.5 =py310h12cab78_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =ha1cbb27_0
@@ -101,7 +101,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.61.1 =py310hf4fd40f_0
-    - freetype =2.14.1 =hce30654_0
+    - freetype =2.14.2 =hce30654_0
     - fribidi =1.0.16 =hc919400_0
     - frozenlist =1.7.0 =py310ha18c8e3_0
     - fzf =0.70.0 =h75b854d_0
@@ -156,8 +156,8 @@ requirements:
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libexpat =2.7.4 =hf6b4638_0
     - libffi =3.5.2 =hcf2aa1b_0
-    - libfreetype =2.14.1 =hce30654_0
-    - libfreetype6 =2.14.1 =h6da58f4_0
+    - libfreetype =2.14.2 =hce30654_0
+    - libfreetype6 =2.14.2 =hdfa99f5_0
     - libgcc =15.2.0 =hcbb3090_18
     - libgfortran =15.2.0 =h07b0088_18
     - libgfortran5 =15.2.0 =hdae7583_18
@@ -184,8 +184,8 @@ requirements:
     - libwebp =1.6.0 =hc0253d1_0
     - libwebp-base =1.6.0 =h07db88b_0
     - libxcb =1.17.0 =hdb1d25a_0
-    - libxml2 =2.15.1 =h8d039ee_1
-    - libxml2-16 =2.15.1 =h5ef1a60_1
+    - libxml2 =2.15.2 =h8d039ee_0
+    - libxml2-16 =2.15.2 =h5ef1a60_0
     - libzlib =1.3.1 =h8359307_2
     - llvm-openmp =22.1.0 =hc7d1edf_0
     - lsprotocol =2025.0.0 =pyhe01879c_0
@@ -309,7 +309,7 @@ requirements:
     - spyder-base =6.1.3 =osx_pyh1a5313d_0
     - spyder-kernels =3.1.3 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
-    - superqt =0.7.8 =pyh9208f05_0
+    - superqt =0.8.0 =pyh9208f05_0
     - text-unidecode =1.3 =pyhd8ed1ab_2
     - textdistance =4.6.3 =pyhd8ed1ab_1
     - three-merge =0.1.1 =pyhd8ed1ab_1

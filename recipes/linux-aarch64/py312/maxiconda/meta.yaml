@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.12.12 =h91f4b29_2_cpython
+    - python =3.12.13 =h91f4b29_0_cpython
   run:
-    - python =3.12.12 =h91f4b29_2_cpython
+    - python =3.12.13 =h91f4b29_0_cpython
 
     # 38 primary packages :
     - aiohttp =3.13.3 =py312he7e3343_0
@@ -116,7 +116,7 @@ requirements:
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py312hf18b547_4
     - cpp-expected =1.3.1 =hdc560ac_0
-    - cpython =3.12.12 =py312hd8ed1ab_2
+    - cpython =3.12.13 =py312hd8ed1ab_0
     - curl =8.18.0 =h7bfdcfb_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h6c5dea3_0
@@ -140,7 +140,7 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.61.1 =py312ha4530ae_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
-    - freetype =2.14.1 =h8af1aa0_0
+    - freetype =2.14.2 =h8af1aa0_0
     - fribidi =1.0.16 =he30d5cf_0
     - frozendict =2.4.7 =py312hcd1a082_0
     - frozenlist =1.7.0 =py312hb10c72c_0
@@ -159,7 +159,7 @@ requirements:
     - gsl =2.7 =h294027d_0
     - gst-plugins-base =1.26.10 =hae777ca_0
     - gstreamer =1.26.10 =hc24f651_0
-    - gtk3 =3.24.43 =h75d4e7a_7
+    - gtk3 =3.24.51 =h75d4e7a_0
     - gts =0.7.6 =he293c15_4
     - gxx_impl_linux-aarch64 =15.2.0 =h03e2352_18
     - h11 =0.16.0 =pyhcf101f3_1
@@ -224,8 +224,8 @@ requirements:
     - libexpat =2.7.4 =hfae3067_0
     - libffi =3.5.2 =h376a255_0
     - libflac =1.5.0 =he9c94f4_1
-    - libfreetype =2.14.1 =h8af1aa0_0
-    - libfreetype6 =2.14.1 =hdae7a39_0
+    - libfreetype =2.14.2 =h8af1aa0_0
+    - libfreetype6 =2.14.2 =hdae7a39_0
     - libgcc =15.2.0 =h8acb6b2_18
     - libgcc-devel_linux-aarch64 =15.2.0 =h55c397f_118
     - libgcc-ng =15.2.0 =he9431aa_18
@@ -269,7 +269,7 @@ requirements:
     - libstdcxx =15.2.0 =hef695bb_18
     - libstdcxx-devel_linux-aarch64 =15.2.0 =ha7b1723_118
     - libstdcxx-ng =15.2.0 =hdbbeba8_18
-    - libsystemd0 =259.2 =h8c5a66d_0
+    - libsystemd0 =259.3 =h8c5a66d_0
     - libtiff =4.7.1 =hdb009f0_1
     - libuuid =2.41.3 =h1022ec0_0
     - libuv =1.51.0 =he30d5cf_1
@@ -279,8 +279,8 @@ requirements:
     - libxcb =1.17.0 =h262b8f6_0
     - libxcrypt =4.4.36 =h31becfc_1
     - libxkbcommon =1.13.1 =h3c6a4c8_0
-    - libxml2 =2.15.1 =h825857f_1
-    - libxml2-16 =2.15.1 =h79dcc73_1
+    - libxml2 =2.15.2 =h825857f_0
+    - libxml2-16 =2.15.2 =h79dcc73_0
     - libxslt =1.1.43 =h6700d25_1
     - libzlib =1.3.1 =h86ecc28_2
     - llvmlite =0.46.0 =py312h7e1a490_0
@@ -348,7 +348,7 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
-    - python-gil =3.12.12 =hd8ed1ab_2
+    - python-gil =3.12.13 =hd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2025.3 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
@@ -439,7 +439,7 @@ requirements:
     - r-kernsmooth =2.23_26 =r45hf17a18f_1
     - r-knitr =1.51 =r45hc72bb7e_0
     - r-labeling =0.4.3 =r45hc72bb7e_2
-    - r-later =1.4.7 =r45h08b74da_0
+    - r-later =1.4.8 =r45h08b74da_0
     - r-lattice =0.22_9 =r45h0557e7b_0
     - r-lava =1.8.2 =r45hc72bb7e_0
     - r-lazyeval =0.2.2 =r45h0557e7b_6
