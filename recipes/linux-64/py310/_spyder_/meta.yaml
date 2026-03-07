@@ -71,7 +71,7 @@ requirements:
     - certifi =2026.2.25 =pyhd8ed1ab_0
     - cffi =2.0.0 =py310he7384ee_1
     - chardet =5.2.0 =pyhd8ed1ab_3
-    - charset-normalizer =3.4.4 =pyhd8ed1ab_0
+    - charset-normalizer =3.4.5 =pyhd8ed1ab_0
     - click =8.3.1 =pyh8f84b5b_1
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -196,7 +196,7 @@ requirements:
     - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.20 =h4ab18f5_0
     - libspatialindex =2.1.0 =he57a185_0
-    - libsqlite =3.51.2 =hf4e2dac_0
+    - libsqlite =3.52.0 =hf4e2dac_0
     - libstdcxx =15.2.0 =h934c35e_18
     - libstdcxx-ng =15.2.0 =hdf11a46_18
     - libsystemd0 =259.3 =h6569c3e_0
@@ -316,7 +316,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py310hd8f68c5_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.15.4 =h40fa522_2
+    - ruff =0.15.5 =h40fa522_0
     - secretstorage =3.4.1 =py310hff52083_0
     - setuptools =82.0.0 =pyh332efcf_0
     - sip =6.10.0 =py310hea6c23e_1
@@ -357,7 +357,7 @@ requirements:
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.46.3 =pyhd8ed1ab_0
-    - wrapt =2.1.1 =py310h7c4b9e2_0
+    - wrapt =2.1.2 =py310h7c4b9e2_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xcb-util =0.4.1 =h4f16b4b_2
     - xcb-util-cursor =0.1.6 =hb03c661_0

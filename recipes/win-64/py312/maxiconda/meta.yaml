@@ -32,7 +32,7 @@ requirements:
     - cython =3.2.4 =py312hd245ac3_0
     - grayskull =3.1.0 =pyhcf101f3_0
     - hypothesis =6.151.9 =pyha770c72_0
-    - ipython =9.10.0 =pyhe2676ad_0
+    - ipython =9.11.0 =pyhccfa634_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py312h2e8e312_0
     - numba =0.64.0 =py312h560f1c9_0
@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.3 =win_pyh7428d3b_0
     - sqlalchemy =2.0.48 =py312he5662c2_0
-    - sqlite =3.51.2 =hdb435a2_0
+    - sqlite =3.52.0 =hdb435a2_0
     - sympy =1.14.0 =pyh04b8f61_6
     - tqdm =4.67.3 =pyha7b4d00_0
     - transitions =0.9.3 =pyhe01879c_0
@@ -96,7 +96,7 @@ requirements:
     - cairo =1.18.4 =h477c42c_1
     - certifi =2026.2.25 =pyhd8ed1ab_0
     - cffi =2.0.0 =py312he06e257_1
-    - charset-normalizer =3.4.4 =pyhd8ed1ab_0
+    - charset-normalizer =3.4.5 =pyhd8ed1ab_0
     - click =8.3.1 =pyha7b4d00_1
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -221,7 +221,7 @@ requirements:
     - libpng =1.6.55 =h7351971_0
     - libsodium =1.0.20 =hc70643c_0
     - libsolv =0.7.35 =h8883371_0
-    - libsqlite =3.51.2 =hf5d6505_0
+    - libsqlite =3.52.0 =hf5d6505_0
     - libssh2 =1.11.1 =h9aa295b_0
     - libstdcxx =15.2.0 =hae5796f_18
     - libstdcxx-devel_win-64 =15.2.0 =h0a72980_118
@@ -372,7 +372,7 @@ requirements:
     - r-hardhat =1.4.2 =r45hc72bb7e_1
     - r-haven =2.5.5 =r45h68b42e3_1
     - r-hexbin =1.28.5 =r45h814e693_1
-    - r-highr =0.11 =r45hc72bb7e_2
+    - r-highr =0.12 =r45hc72bb7e_0
     - r-hms =1.1.4 =r45hc72bb7e_0
     - r-htmltools =0.5.9 =r45hd8a2815_0
     - r-htmlwidgets =1.6.4 =r45h785f33e_4
@@ -431,7 +431,7 @@ requirements:
     - r-purrr =1.2.1 =r45heceb674_0
     - r-quantmod =0.4.28 =r45hc72bb7e_1
     - r-r6 =2.6.1 =r45hc72bb7e_1
-    - r-ragg =1.5.0 =r45h8a73c72_1
+    - r-ragg =1.5.1 =r45h8a73c72_0
     - r-randomforest =4.7_1.2 =r45h814e693_1
     - r-rappdirs =0.3.4 =r45heceb674_0
     - r-rbokeh =0.5.2 =r45hc72bb7e_5
@@ -466,8 +466,8 @@ requirements:
     - r-stringr =1.6.0 =r45h785f33e_0
     - r-survival =3.8_6 =r45h2a2a84f_0
     - r-sys =3.4.3 =r45heceb674_1
-    - r-systemfonts =1.3.1 =r45h295cb35_0
-    - r-textshaping =1.0.4 =r45h295cb35_0
+    - r-systemfonts =1.3.2 =r45h295cb35_0
+    - r-textshaping =1.0.5 =r45h295cb35_0
     - r-tibble =3.3.1 =r45heceb674_0
     - r-tidyr =1.3.2 =r45hd8a2815_0
     - r-tidyselect =1.2.1 =r45hc72bb7e_2
