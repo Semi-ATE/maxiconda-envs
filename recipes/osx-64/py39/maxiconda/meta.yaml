@@ -149,7 +149,7 @@ requirements:
     - gstreamer =1.26.10 =h10686fb_0
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.2.0 =pyhd8ed1ab_0
-    - harfbuzz =12.3.2 =h8b84c26_0
+    - harfbuzz =13.1.0 =hf0bc557_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -196,9 +196,9 @@ requirements:
     - libclang13 =22.1.0 =default_h2429e1b_0
     - libcompiler-rt =22.1.0 =h1637cdf_0
     - libcurl =8.18.0 =h9348e2b_0
-    - libcxx =22.1.0 =h19cb2f5_1
-    - libcxx-devel =22.1.0 =h7c275be_1
-    - libcxx-headers =22.1.0 =h707e725_1
+    - libcxx =22.1.1 =h19cb2f5_0
+    - libcxx-devel =22.1.1 =h7c275be_0
+    - libcxx-headers =22.1.1 =h707e725_0
     - libdeflate =1.25 =h517ebb2_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -420,7 +420,7 @@ requirements:
     - r-prettyunits =1.2.0 =r45hc72bb7e_2
     - r-proc =1.19.0.1 =r45ha730edb_1
     - r-processx =3.8.6 =r45h735ac91_1
-    - r-prodlim =2025.04.28 =r45ha730edb_1
+    - r-prodlim =2026.03.11 =r45h384437d_0
     - r-progress =1.2.3 =r45hc72bb7e_2
     - r-progressr =0.18.0 =r45hc72bb7e_0
     - r-promises =1.5.0 =r45hc72bb7e_1
