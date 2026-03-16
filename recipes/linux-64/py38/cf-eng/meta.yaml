@@ -34,11 +34,11 @@ requirements:
     - pyvisa-py =0.7.2 =pyhca7485f_0
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
 
-    # 168 secondary packages :
+    # 169 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - alsa-lib =1.2.15.3 =hb03c661_0
     - asttokens =3.0.0 =pyhd8ed1ab_0
-    - attr =2.5.2 =h39aace5_0
+    - attr =2.5.2 =hb03c661_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - bzip2 =1.0.8 =hda65f42_9
     - ca-certificates =2026.2.25 =hbd8a1cb_0
@@ -76,6 +76,7 @@ requirements:
     - krb5 =1.21.3 =h659f571_0
     - lame =3.100 =h166bdaf_1003
     - ld_impl_linux-64 =2.45.1 =default_hbd61a6d_101
+    - libattr =2.5.2 =hb03c661_1
     - libblas =3.11.0 =5_h4a7cf45_openblas
     - libcap =2.77 =h3ff7636_0
     - libcblas =3.11.0 =5_h0358290_openblas

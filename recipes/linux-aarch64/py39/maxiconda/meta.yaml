@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 508 secondary packages :
+    # 509 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -78,7 +78,7 @@ requirements:
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - async-lru =2.0.5 =pyh29332c3_0
     - async-timeout =5.0.1 =pyhd8ed1ab_1
-    - attr =2.5.1 =h4e544f5_1
+    - attr =2.5.2 =he30d5cf_1
     - attrs =25.3.0 =pyh71513ae_0
     - babel =2.17.0 =pyhd8ed1ab_0
     - binutils_impl_linux-aarch64 =2.45.1 =default_h5f4c503_101
@@ -178,6 +178,7 @@ requirements:
     - lcms2 =2.18 =h9d5b58d_0
     - ld_impl_linux-aarch64 =2.45.1 =default_h1979696_101
     - lerc =4.1.0 =h52b7260_0
+    - libattr =2.5.2 =he30d5cf_1
     - libblas =3.11.0 =5_haddc8a3_openblas
     - libbrotlicommon =1.2.0 =he30d5cf_1
     - libbrotlidec =1.2.0 =he30d5cf_1
@@ -361,14 +362,14 @@ requirements:
     - r-foreign =0.8_91 =r45h0557e7b_0
     - r-formatr =1.14 =r45hc72bb7e_3
     - r-fs =1.6.6 =r45h08b74da_1
-    - r-future =1.69.0 =r45h785f33e_0
+    - r-future =1.70.0 =r45hc72bb7e_0
     - r-future.apply =1.20.2 =r45hc72bb7e_0
     - r-gargle =1.6.1 =r45h785f33e_0
     - r-generics =0.1.4 =r45hc72bb7e_1
     - r-ggplot2 =4.0.2 =r45h785f33e_0
     - r-gistr =0.9.0 =r45hc72bb7e_4
     - r-glmnet =4.1_10 =r45h7a52f72_1
-    - r-globals =0.19.0 =r45hc72bb7e_0
+    - r-globals =0.19.1 =r45hc72bb7e_0
     - r-glue =1.8.0 =r45h0557e7b_1
     - r-googledrive =2.1.2 =r45hc72bb7e_1
     - r-googlesheets4 =1.1.2 =r45h785f33e_1
