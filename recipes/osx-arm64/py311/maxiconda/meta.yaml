@@ -98,7 +98,7 @@ requirements:
     - cctools_osx-arm64 =1030.6.3 =llvm22_1_hbe26303_4
     - certifi =2026.2.25 =pyhd8ed1ab_0
     - cffi =2.0.0 =py311hd10dc20_1
-    - charset-normalizer =3.4.5 =pyhd8ed1ab_0
+    - charset-normalizer =3.4.6 =pyhd8ed1ab_0
     - clang =22.1.0 =default_cfg_hb78b91e_0
     - clang-22 =22.1.0 =default_hb52604d_0
     - clang_impl_osx-arm64 =22.1.0 =default_h17d1ed9_0
@@ -232,7 +232,7 @@ requirements:
     - libintl-devel =0.25.1 =h493aca8_0
     - libjpeg-turbo =3.1.2 =hc919400_0
     - liblapack =3.11.0 =5_hd9741b5_openblas
-    - libllvm18 =18.1.8 =default_h3f38c9c_11
+    - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm22 =22.1.0 =h89af1be_0
     - liblzma =5.8.2 =h8088a28_0
     - libnghttp2 =1.67.0 =hc438710_0
@@ -266,7 +266,7 @@ requirements:
     - mistune =3.2.0 =pyhcf101f3_0
     - mpc =1.3.1 =h8f1351a_1
     - mpfr =4.2.2 =h6bc93b0_0
-    - mpmath =1.4.0 =pyhd8ed1ab_0
+    - mpmath =1.4.1 =pyhd8ed1ab_0
     - multidict =6.7.1 =py311ha275503_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.10.4 =pyhd8ed1ab_0
@@ -477,7 +477,7 @@ requirements:
     - r-sourcetools =0.1.7_1 =r45hc1cd577_3
     - r-sparsevctrs =0.3.6 =r45hbe92478_0
     - r-spatial =7.3_18 =r45h6168396_1
-    - r-squarem =2021.1 =r45hc72bb7e_4
+    - r-squarem =2026.1 =r45hc72bb7e_0
     - r-stringi =1.8.7 =r45h76ca873_2
     - r-stringr =1.6.0 =r45h785f33e_0
     - r-survival =3.8_6 =r45hbe92478_0
