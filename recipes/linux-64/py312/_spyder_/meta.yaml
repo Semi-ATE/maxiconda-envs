@@ -27,7 +27,7 @@ requirements:
     # 9 primary packages :
     - cython =3.2.4 =py312h68e6be4_0
     - matplotlib =3.10.8 =py312h7900ff3_0
-    - numpy =2.4.2 =py312h33ff503_1
+    - numpy =2.4.3 =py312h33ff503_0
     - pandas =3.0.1 =py312h8ecdadd_0
     - pyqt =5.15.11 =py312h82c0db2_2
     - pyqtwebengine =5.15.11 =py312hf963f02_2
@@ -119,7 +119,7 @@ requirements:
     - harfbuzz =13.1.1 =h6083320_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
-    - icu =78.2 =h33c6efd_0
+    - icu =78.3 =h33c6efd_0
     - idna =3.11 =pyhd8ed1ab_0
     - imagesize =2.0.0 =pyhd8ed1ab_0
     - importlib-metadata =8.7.0 =pyhe01879c_1
@@ -244,7 +244,7 @@ requirements:
     - openldap =2.6.10 =he970967_0
     - openssl =3.6.1 =h35e630c_1
     - packaging =26.0 =pyhcf101f3_0
-    - pandoc =3.9 =ha770c72_0
+    - pandoc =3.9.0.1 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =hadf4263_0
     - parso =0.8.6 =pyhcf101f3_0

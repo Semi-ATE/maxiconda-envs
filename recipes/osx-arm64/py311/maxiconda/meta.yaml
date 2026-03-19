@@ -35,7 +35,7 @@ requirements:
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py311ha1ab1f8_0
     - numba =0.64.0 =py311h7b83a5e_0
-    - numpy =2.4.2 =py311had1e860_1
+    - numpy =2.4.3 =py311h49b76aa_0
     - openpyxl =3.1.5 =py311h33e2021_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =3.0.1 =py311h4a068b9_0
@@ -168,7 +168,7 @@ requirements:
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
-    - icu =78.2 =hef89b57_0
+    - icu =78.3 =hef89b57_0
     - idna =3.11 =pyhd8ed1ab_0
     - importlib-metadata =8.7.0 =pyhe01879c_1
     - importlib_resources =6.5.2 =pyhd8ed1ab_0
@@ -235,14 +235,14 @@ requirements:
     - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm22 =22.1.0 =h89af1be_0
     - liblzma =5.8.2 =h8088a28_0
-    - libnghttp2 =1.67.0 =hc438710_0
+    - libnghttp2 =1.68.1 =h8f3e76b_0
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
     - libopenblas =0.3.30 =openmp_ha158390_4
     - libopus =1.6.1 =h1a92334_0
     - libpng =1.6.55 =h132b30e_0
     - libpq =18.2 =h6caddbb_0
-    - librsvg =2.62.0 =he8aa2a2_0
+    - librsvg =2.62.1 =he8aa2a2_0
     - libsigtool =0.1.3 =h98dc951_0
     - libsodium =1.0.20 =h99b78c6_0
     - libsqlite =3.52.0 =h1ae2325_0
@@ -284,7 +284,7 @@ requirements:
     - openssl =3.6.1 =hd24854e_1
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.0 =pyhcf101f3_0
-    - pandoc =3.9 =hce30654_0
+    - pandoc =3.9.0.1 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h875632e_0
     - parso =0.8.6 =pyhcf101f3_0
@@ -393,7 +393,7 @@ requirements:
     - r-htmltools =0.5.9 =r45hc1cd577_0
     - r-htmlwidgets =1.6.4 =r45h785f33e_4
     - r-httpcode =0.3.0 =r45hf450f58_5
-    - r-httpuv =1.6.16 =r45h82072fd_1
+    - r-httpuv =1.6.17 =r45h1b96ac6_0
     - r-httr =1.4.8 =r45hc72bb7e_0
     - r-ids =1.0.1 =r45hc72bb7e_5
     - r-ipred =0.9_15 =r45hd097873_2

@@ -28,7 +28,7 @@ requirements:
     - cython =3.2.4 =py311h9990397_0
     - matplotlib =3.10.8 =py311h1ea47a8_0
     - menuinst =2.4.2 =py311h3e6a449_0
-    - numpy =2.4.2 =py311h80b3fa1_1
+    - numpy =2.4.3 =py311h65cb7f3_0
     - pandas =3.0.1 =py311h0610301_0
     - pyqt =5.15.11 =py311h7c55f98_2
     - pyqtwebengine =5.15.11 =py311h8dad79e_2
@@ -111,7 +111,7 @@ requirements:
     - harfbuzz =13.1.1 =h5a1b470_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
-    - icu =78.2 =h637d24d_0
+    - icu =78.3 =h637d24d_0
     - idna =3.11 =pyhd8ed1ab_0
     - imagesize =2.0.0 =pyhd8ed1ab_0
     - importlib-metadata =8.7.0 =pyhe01879c_1
@@ -200,7 +200,7 @@ requirements:
     - openjpeg =2.5.4 =h0e57b4f_0
     - openssl =3.6.1 =hf411b9b_1
     - packaging =26.0 =pyhcf101f3_0
-    - pandoc =3.9 =h57928b3_0
+    - pandoc =3.9.0.1 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h03d888a_0
     - parso =0.8.6 =pyhcf101f3_0
