@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.2 =pyhd8ed1ab_1
     - spyder-kernels =3.1.3 =win_pyh7428d3b_0
 
-    # 108 secondary packages :
+    # 109 secondary packages :
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - bzip2 =1.0.8 =h0ad9c76_9
     - ca-certificates =2026.2.25 =h4c7d964_0
@@ -61,7 +61,7 @@ requirements:
     - graphite2 =1.3.14 =hac47afa_2
     - gst-plugins-base =1.26.10 =hf40947b_0
     - gstreamer =1.26.10 =h54009fa_0
-    - harfbuzz =13.1.1 =h5a1b470_0
+    - harfbuzz =13.2.0 =h5a1b470_0
     - icu =78.3 =h637d24d_0
     - importlib-metadata =8.7.0 =pyhe01879c_1
     - ipykernel =6.30.1 =pyh3521513_0
@@ -69,7 +69,7 @@ requirements:
     - jedi =0.19.2 =pyhd8ed1ab_1
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.8.1 =pyh5737063_0
-    - krb5 =1.21.3 =hdf4eb48_0
+    - krb5 =1.22.2 =h0ea6238_0
     - libblas =3.11.0 =5_hf2e6a31_mkl
     - libcblas =3.11.0 =5_h2a3cdd5_mkl
     - libclang13 =22.1.0 =default_ha2db4b5_0
@@ -87,7 +87,7 @@ requirements:
     - liblzma =5.8.2 =hfd05255_0
     - libogg =1.3.5 =h2466b09_1
     - libpng =1.6.55 =h7351971_0
-    - libsodium =1.0.20 =hc70643c_0
+    - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.52.0 =hf5d6505_0
     - libusb =1.0.29 =h1839187_0
     - libvorbis =1.3.7 =h5112557_2
@@ -120,8 +120,8 @@ requirements:
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyvisa =1.14.1 =pyhd8ed1ab_1
     - pywin32 =311 =py39h5fb4b08_0
-    - pyzmq =27.0.2 =py39h248659b_0
-    - qt-main =5.15.15 =he584256_7
+    - pyzmq =26.2.0 =py39h03e5c00_1
+    - qt-main =5.15.15 =hc95f6a6_8
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.10.0 =py39ha51f57c_0
     - six =1.17.0 =pyhe01879c_1
@@ -138,9 +138,10 @@ requirements:
     - vc =14.3 =h41ae7f8_34
     - vc14_runtime =14.44.35208 =h818238b_34
     - vcomp14 =14.44.35208 =h818238b_34
+    - vs2015_runtime =14.44.35208 =h38c0c73_34
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
-    - zeromq =4.3.5 =h5bddc39_9
+    - zeromq =4.3.5 =he0c23c2_3
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zstd =1.5.7 =h534d264_6
 

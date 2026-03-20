@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0.3 =py312ha4530ae_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.1 =pyh9208f05_0
-    - r-base =4.5.2 =hd96fa14_4
+    - r-base =4.5.3 =h68a4b35_1
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.2.28 =py312hcd1a082_0
     - requests =2.32.5 =pyhcf101f3_1
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 562 secondary packages :
+    # 561 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
@@ -79,12 +79,12 @@ requirements:
     - argon2-cffi-bindings =25.1.0 =py312hcd1a082_2
     - arrow =1.4.0 =pyhcf101f3_0
     - asttokens =3.0.1 =pyhd8ed1ab_0
-    - async-lru =2.2.0 =pyhcf101f3_0
+    - async-lru =2.3.0 =pyhcf101f3_0
     - at-spi2-atk =2.38.0 =h1f2db35_3
     - at-spi2-core =2.40.3 =h1f2db35_0
     - atk-1.0 =2.38.0 =hedc4a1f_2
     - attr =2.5.2 =he30d5cf_1
-    - attrs =25.4.0 =pyhcf101f3_1
+    - attrs =26.1.0 =pyhcf101f3_0
     - babel =2.18.0 =pyhcf101f3_1
     - backports.zstd =1.3.0 =py312h3d8e7d4_0
     - binutils_impl_linux-aarch64 =2.45.1 =default_h5f4c503_101
@@ -117,9 +117,9 @@ requirements:
     - contourpy =1.3.3 =py312hf18b547_4
     - cpp-expected =1.3.1 =hdc560ac_0
     - cpython =3.12.13 =py312hd8ed1ab_0
-    - curl =8.18.0 =h7bfdcfb_0
+    - curl =8.19.0 =hc57f145_0
     - cycler =0.12.1 =pyhcf101f3_2
-    - cyrus-sasl =2.1.28 =h6c5dea3_0
+    - cyrus-sasl =2.1.28 =h6598af7_1
     - dbus =1.16.2 =h70963c4_1
     - debugpy =1.8.20 =py312hf55c4e8_0
     - decorator =5.2.1 =pyhd8ed1ab_0
@@ -164,7 +164,7 @@ requirements:
     - gxx_impl_linux-aarch64 =15.2.0 =h03e2352_18
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =13.1.1 =h1134a53_0
+    - harfbuzz =13.2.0 =h1134a53_0
     - hicolor-icon-theme =0.17 =h8af1aa0_3
     - hpack =4.1.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
@@ -172,7 +172,7 @@ requirements:
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =78.3 =hcab7f73_0
     - idna =3.11 =pyhd8ed1ab_0
-    - importlib-metadata =8.7.0 =pyhe01879c_1
+    - importlib-metadata =8.8.0 =pyhcf101f3_0
     - importlib_resources =6.5.2 =pyhd8ed1ab_0
     - iniconfig =2.3.0 =pyhd8ed1ab_0
     - ipykernel =6.31.0 =pyha191276_0
@@ -197,7 +197,7 @@ requirements:
     - kernel-headers_linux-aarch64 =6.12.0 =h05a177a_6
     - keyutils =1.6.3 =h86ecc28_0
     - kiwisolver =1.5.0 =py312h1683e8e_0
-    - krb5 =1.21.3 =h50a48e9_0
+    - krb5 =1.22.2 =hfd895c2_0
     - lame =3.100 =h4e544f5_1003
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.18 =h9d5b58d_0
@@ -211,10 +211,10 @@ requirements:
     - libbrotlienc =1.2.0 =he30d5cf_1
     - libcap =2.77 =h68e9139_0
     - libcblas =3.11.0 =5_hd72aa62_openblas
-    - libclang-cpp21.1 =21.1.8 =default_he95a3c9_3
+    - libclang-cpp22.1 =22.1.0 =default_he95a3c9_0
     - libclang13 =22.1.0 =default_h94a09a5_0
-    - libcups =2.3.3 =h5cdc715_5
-    - libcurl =8.18.0 =h7bfdcfb_0
+    - libcups =2.3.3 =h4f2b762_6
+    - libcurl =8.19.0 =hc57f145_0
     - libdeflate =1.25 =h1af38f5_0
     - libdrm =2.4.125 =he30d5cf_1
     - libedit =3.1.20250104 =pl5321h976ea20_0
@@ -244,7 +244,6 @@ requirements:
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.2 =he30d5cf_0
     - liblapack =3.11.0 =5_h88aeb00_openblas
-    - libllvm21 =21.1.8 =hfd2ba90_0
     - libllvm22 =22.1.1 =hfd2ba90_0
     - liblzma =5.8.2 =he30d5cf_0
     - libmamba =2.5.0 =hc712cdd_0
@@ -259,11 +258,11 @@ requirements:
     - libopus =1.6.1 =h80f16a2_0
     - libpciaccess =0.18 =h86ecc28_0
     - libpng =1.6.55 =h1abf092_0
-    - libpq =18.2 =hf8816c8_0
+    - libpq =18.3 =h7d4fc67_0
     - librsvg =2.62.1 =hf685517_0
     - libsanitizer =15.2.0 =he19c465_18
     - libsndfile =1.2.2 =h30591a0_2
-    - libsodium =1.0.20 =h68df207_0
+    - libsodium =1.0.21 =h80f16a2_3
     - libsolv =0.7.36 =hdda61c4_0
     - libsqlite =3.52.0 =h10b116e_0
     - libssh2 =1.11.1 =h18c354c_0
@@ -312,11 +311,11 @@ requirements:
     - nspr =4.38 =h3ad9384_0
     - nss =3.118 =h544fa81_0
     - openjpeg =2.5.4 =h5da879a_0
-    - openldap =2.6.10 =h30c48ee_0
+    - openldap =2.6.10 =h2fb54aa_1
     - openssl =3.6.1 =h546c87b_1
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.0 =pyhcf101f3_0
-    - pandoc =3.9.0.1 =h8af1aa0_0
+    - pandoc =3.9.0.2 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =he55ef5b_0
     - parso =0.8.6 =pyhcf101f3_0
@@ -357,8 +356,8 @@ requirements:
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.1.0 =py312hdf0a211_2
     - qhull =2020.2 =h70be974_5
-    - qt-main =5.15.15 =h912a755_7
-    - qt6-main =6.10.2 =h5343e53_4
+    - qt-main =5.15.15 =ha9b3be2_8
+    - qt6-main =6.10.2 =pl5321h598db47_6
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r45h0557e7b_1
     - r-assertthat =0.2.1 =r45hc72bb7e_6
@@ -405,7 +404,7 @@ requirements:
     - r-foreach =1.5.2 =r45hc72bb7e_4
     - r-foreign =0.8_91 =r45h0557e7b_0
     - r-formatr =1.14 =r45hc72bb7e_3
-    - r-fs =1.6.6 =r45h08b74da_1
+    - r-fs =1.6.7 =r45h08b74da_0
     - r-future =1.70.0 =r45hc72bb7e_0
     - r-future.apply =1.20.2 =r45hc72bb7e_0
     - r-gargle =1.6.1 =r45h785f33e_0
@@ -586,7 +585,7 @@ requirements:
     - unicodedata2 =17.0.1 =py312hcd1a082_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.6.3 =pyhd8ed1ab_0
-    - wayland =1.24.0 =h4f8a99f_1
+    - wayland =1.25.0 =h4f8a99f_0
     - wcwidth =0.6.0 =pyhd8ed1ab_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
@@ -622,7 +621,7 @@ requirements:
     - yaml =0.2.5 =h80f16a2_3
     - yaml-cpp =0.8.0 =h5ad3122_0
     - yarl =1.23.0 =py312ha4530ae_0
-    - zeromq =4.3.5 =hefbcea8_9
+    - zeromq =4.3.5 =hc0523f8_10
     - zipp =3.23.0 =pyhcf101f3_1
     - zlib-ng =2.3.3 =ha7cb516_1
     - zstandard =0.25.0 =py312hd41f8a7_1

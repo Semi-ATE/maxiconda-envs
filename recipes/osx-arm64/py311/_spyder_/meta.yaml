@@ -48,7 +48,7 @@ requirements:
     - asttokens =3.0.1 =pyhd8ed1ab_0
     - asyncssh =2.22.0 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_1
-    - attrs =25.4.0 =pyhcf101f3_1
+    - attrs =26.1.0 =pyhcf101f3_0
     - autopep8 =2.0.4 =pyhd8ed1ab_0
     - babel =2.18.0 =pyhcf101f3_1
     - backports =1.0 =pyhd8ed1ab_5
@@ -80,7 +80,7 @@ requirements:
     - cpython =3.11.15 =py311hd8ed1ab_0
     - cryptography =46.0.5 =py311hfdedaa2_0
     - cycler =0.12.1 =pyhcf101f3_2
-    - cyrus-sasl =2.1.28 =ha1cbb27_0
+    - cyrus-sasl =2.1.28 =hb961e35_1
     - debugpy =1.8.20 =py311h8948835_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
@@ -113,13 +113,13 @@ requirements:
     - gst-plugins-base =1.26.10 =hd17a83a_0
     - gstreamer =1.26.10 =h30d696d_0
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =13.1.1 =h3103d1b_0
+    - harfbuzz =13.2.0 =h3103d1b_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =78.3 =hef89b57_0
     - idna =3.11 =pyhd8ed1ab_0
     - imagesize =2.0.0 =pyhd8ed1ab_0
-    - importlib-metadata =8.7.0 =pyhe01879c_1
+    - importlib-metadata =8.8.0 =pyhcf101f3_0
     - importlib_resources =6.5.2 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyhd8ed1ab_1
     - intervaltree =3.1.0 =pyhd8ed1ab_1
@@ -140,7 +140,7 @@ requirements:
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - keyring =25.7.0 =pyh534df25_0
     - kiwisolver =1.5.0 =py311h7d85929_0
-    - krb5 =1.21.3 =h237132a_0
+    - krb5 =1.22.2 =h385eeb1_0
     - lcms2 =2.18 =hdfa7624_0
     - lerc =4.1.0 =h1eee2c3_0
     - libblas =3.11.0 =5_h51639a9_openblas
@@ -174,8 +174,8 @@ requirements:
     - libopenblas =0.3.30 =openmp_ha158390_4
     - libopus =1.6.1 =h1a92334_0
     - libpng =1.6.55 =h132b30e_0
-    - libpq =18.2 =h6caddbb_0
-    - libsodium =1.0.20 =h99b78c6_0
+    - libpq =18.3 =hd341ff2_0
+    - libsodium =1.0.21 =h1a92334_3
     - libspatialindex =2.1.0 =h57eeb1c_0
     - libsqlite =3.52.0 =h1ae2325_0
     - libtiff =4.7.1 =h4030677_1
@@ -213,10 +213,10 @@ requirements:
     - nss =3.118 =h1c710a3_0
     - numpydoc =1.10.0 =pyhcf101f3_0
     - openjpeg =2.5.4 =hd9e9057_0
-    - openldap =2.6.10 =hbe55e7a_0
+    - openldap =2.6.10 =hf7f56bc_1
     - openssl =3.6.1 =hd24854e_1
     - packaging =26.0 =pyhcf101f3_0
-    - pandoc =3.9.0.1 =hce30654_0
+    - pandoc =3.9.0.2 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h875632e_0
     - parso =0.8.6 =pyhcf101f3_0
@@ -247,7 +247,7 @@ requirements:
     - pylint =4.0.5 =pyhcf101f3_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
-    - pynacl =1.6.2 =py311hc949640_0
+    - pynacl =1.6.2 =py311h38a6bc0_1
     - pyobjc-core =12.1 =py311hce6e4fa_0
     - pyobjc-framework-cocoa =12.1 =py311h9049b8e_0
     - pyobjc-framework-coreservices =12.1 =py311h9408147_2
@@ -258,7 +258,7 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
-    - python-gssapi =1.11.1 =py311hc149fac_0
+    - python-gssapi =1.11.1 =py311hd4857b4_1
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
     - python-lsp-ruff =2.3.0 =pyhcf101f3_0
@@ -277,7 +277,7 @@ requirements:
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h420ef59_5
     - qstylizer =0.2.4 =pyhff2d567_0
-    - qt-main =5.15.15 =h4427410_7
+    - qt-main =5.15.15 =he8aa932_8
     - qt-webengine =5.15.15 =h5422c0a_1
     - qtawesome =1.4.1 =pyh9208f05_0
     - qtconsole =5.7.1 =pyhd8ed1ab_0
@@ -291,7 +291,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py311h71babbd_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.15.5 =h279115b_0
+    - ruff =0.15.7 =h279115b_0
     - setuptools =82.0.1 =pyh332efcf_0
     - sip =6.15.2 =py311h8325047_0
     - six =1.17.0 =pyhe01879c_1
@@ -337,7 +337,7 @@ requirements:
     - yaml =0.2.5 =h925e9cb_3
     - yapf =0.43.0 =pyhd8ed1ab_1
     - yarl =1.23.0 =py311hc290fe0_0
-    - zeromq =4.3.5 =h888dc83_9
+    - zeromq =4.3.5 =h4818236_10
     - zipp =3.23.0 =pyhcf101f3_1
     - zlib-ng =2.3.3 =hed4e4f5_1
     - zstd =1.5.7 =hbf9d68e_6

@@ -36,7 +36,7 @@ requirements:
     - cairo =1.18.4 =he0f2337_1
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - comm =0.2.3 =pyhe01879c_0
-    - cyrus-sasl =2.1.28 =ha1cbb27_0
+    - cyrus-sasl =2.1.28 =hb961e35_1
     - debugpy =1.8.16 =py39hd866990_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - exceptiongroup =1.3.0 =pyhd8ed1ab_0
@@ -54,7 +54,7 @@ requirements:
     - graphite2 =1.3.14 =hec049ff_2
     - gst-plugins-base =1.26.10 =hd17a83a_0
     - gstreamer =1.26.10 =h30d696d_0
-    - harfbuzz =13.1.1 =h3103d1b_0
+    - harfbuzz =13.2.0 =h3103d1b_0
     - icu =78.3 =hef89b57_0
     - importlib-metadata =8.7.0 =pyhe01879c_1
     - ipykernel =6.30.1 =pyh92f572d_0
@@ -62,7 +62,7 @@ requirements:
     - jedi =0.19.2 =pyhd8ed1ab_1
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.8.1 =pyh31011fe_0
-    - krb5 =1.21.3 =h237132a_0
+    - krb5 =1.22.2 =h385eeb1_0
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang13 =22.1.0 =default_h13b06bd_0
     - libcxx =22.1.1 =h55c6f16_0
@@ -83,8 +83,8 @@ requirements:
     - libogg =1.3.5 =h48c0fde_1
     - libopus =1.6.1 =h1a92334_0
     - libpng =1.6.55 =h132b30e_0
-    - libpq =18.2 =h6caddbb_0
-    - libsodium =1.0.20 =h99b78c6_0
+    - libpq =18.3 =hd341ff2_0
+    - libsodium =1.0.18 =h27ca646_1
     - libsqlite =3.52.0 =h1ae2325_0
     - libvorbis =1.3.7 =h81086ad_2
     - libxml2 =2.15.2 =h8d039ee_0
@@ -95,7 +95,7 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.38 =heaf21c2_0
     - nss =3.118 =h1c710a3_0
-    - openldap =2.6.10 =hbe55e7a_0
+    - openldap =2.6.10 =hf7f56bc_1
     - openssl =3.6.1 =hd24854e_1
     - packaging =26.0 =pyhcf101f3_0
     - pango =1.56.4 =h875632e_0
@@ -116,8 +116,8 @@ requirements:
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python_abi =3.9 =8_cp39
     - pyxdg =0.28 =pyhd8ed1ab_0
-    - pyzmq =27.0.2 =py39h6c7bd39_0
-    - qt-main =5.15.15 =h4427410_7
+    - pyzmq =26.2.0 =py39h6f9cb01_1
+    - qt-main =5.15.15 =he8aa932_8
     - readline =8.3 =h46df422_0
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.12.0 =py39h941272d_0
@@ -133,7 +133,7 @@ requirements:
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
-    - zeromq =4.3.5 =h888dc83_9
+    - zeromq =4.3.5 =hebf3989_1
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zstd =1.5.7 =hbf9d68e_6
 

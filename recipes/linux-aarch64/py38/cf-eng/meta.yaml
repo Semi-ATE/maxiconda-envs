@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.2 =pyhca7485f_0
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
 
-    # 169 secondary packages :
+    # 168 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - alsa-lib =1.2.15.3 =he30d5cf_0
     - asttokens =3.0.0 =pyhd8ed1ab_0
@@ -45,7 +45,7 @@ requirements:
     - cairo =1.18.4 =h0b6afd8_1
     - cloudpickle =3.1.0 =pyhd8ed1ab_1
     - comm =0.2.2 =pyhd8ed1ab_0
-    - cyrus-sasl =2.1.28 =h6c5dea3_0
+    - cyrus-sasl =2.1.28 =h6598af7_1
     - dbus =1.16.2 =h70963c4_1
     - debugpy =1.8.5 =py38h8529334_0
     - decorator =5.1.1 =pyhd8ed1ab_0
@@ -64,7 +64,7 @@ requirements:
     - graphite2 =1.3.14 =hfae3067_2
     - gst-plugins-base =1.26.10 =hae777ca_0
     - gstreamer =1.26.10 =hc24f651_0
-    - harfbuzz =13.1.1 =h1134a53_0
+    - harfbuzz =13.2.0 =h1134a53_0
     - icu =78.3 =hcab7f73_0
     - importlib-metadata =8.5.0 =pyha770c72_0
     - ipykernel =6.29.5 =pyh3099207_0
@@ -73,16 +73,16 @@ requirements:
     - jupyter_client =8.6.3 =pyhd8ed1ab_0
     - jupyter_core =5.8.1 =pyh31011fe_0
     - keyutils =1.6.3 =h86ecc28_0
-    - krb5 =1.21.3 =h50a48e9_0
+    - krb5 =1.22.2 =hfd895c2_0
     - lame =3.100 =h4e544f5_1003
     - ld_impl_linux-aarch64 =2.45.1 =default_h1979696_101
     - libattr =2.5.2 =he30d5cf_1
     - libblas =3.11.0 =5_haddc8a3_openblas
     - libcap =2.77 =h68e9139_0
     - libcblas =3.11.0 =5_hd72aa62_openblas
-    - libclang-cpp21.1 =21.1.8 =default_he95a3c9_3
+    - libclang-cpp22.1 =22.1.0 =default_he95a3c9_0
     - libclang13 =22.1.0 =default_h94a09a5_0
-    - libcups =2.3.3 =h5cdc715_5
+    - libcups =2.3.3 =h4f2b762_6
     - libdrm =2.4.125 =he30d5cf_1
     - libedit =3.1.20250104 =pl5321h976ea20_0
     - libegl =1.7.0 =hd24410f_2
@@ -104,7 +104,6 @@ requirements:
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.2 =he30d5cf_0
     - liblapack =3.11.0 =5_h88aeb00_openblas
-    - libllvm21 =21.1.8 =hfd2ba90_0
     - libllvm22 =22.1.1 =hfd2ba90_0
     - liblzma =5.8.2 =he30d5cf_0
     - liblzma-devel =5.8.2 =he30d5cf_0
@@ -115,7 +114,7 @@ requirements:
     - libopus =1.6.1 =h80f16a2_0
     - libpciaccess =0.18 =h86ecc28_0
     - libpng =1.6.55 =h1abf092_0
-    - libpq =18.2 =hf8816c8_0
+    - libpq =18.3 =h7d4fc67_0
     - libsndfile =1.2.2 =h30591a0_2
     - libsodium =1.0.18 =hb9de7d4_1
     - libsqlite =3.52.0 =h10b116e_0
@@ -138,7 +137,7 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - nspr =4.38 =h3ad9384_0
     - nss =3.118 =h544fa81_0
-    - openldap =2.6.10 =h30c48ee_0
+    - openldap =2.6.10 =h2fb54aa_1
     - openssl =3.6.1 =h546c87b_1
     - packaging =26.0 =pyhcf101f3_0
     - pango =1.56.4 =he55ef5b_0
@@ -166,7 +165,7 @@ requirements:
     - pyvisa =1.14.1 =pyhd8ed1ab_0
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.2.0 =py38h857d6e0_0
-    - qt-main =5.15.15 =h912a755_7
+    - qt-main =5.15.15 =ha9b3be2_8
     - readline =8.3 =hb682ff5_0
     - setuptools =75.3.0 =pyhd8ed1ab_0
     - sip =6.8.3 =py38hed0da46_0
@@ -201,7 +200,7 @@ requirements:
     - xz =5.8.2 =hd704e39_0
     - xz-gpl-tools =5.8.2 =hd704e39_0
     - xz-tools =5.8.2 =he30d5cf_0
-    - zeromq =4.3.5 =h28faeed_4
+    - zeromq =4.3.5 =h2f0025b_1
     - zipp =3.21.0 =pyhd8ed1ab_0
     - zstd =1.5.7 =h85ac4a6_6
 
