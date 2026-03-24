@@ -101,7 +101,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.62.0 =py310h399bfa0_0
-    - freetype =2.14.2 =h694c41f_0
+    - freetype =2.14.3 =h694c41f_0
     - fribidi =1.0.16 =h8616949_0
     - frozenlist =1.7.0 =py310hd4b8e4a_0
     - fzf =0.70.0 =h990441c_0
@@ -114,7 +114,7 @@ requirements:
     - gst-plugins-base =1.26.10 =h36f82e0_0
     - gstreamer =1.26.10 =h10686fb_0
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =13.2.0 =hf0bc557_0
+    - harfbuzz =13.2.1 =hf0bc557_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =78.3 =h25d91c4_0
@@ -156,8 +156,8 @@ requirements:
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libexpat =2.7.4 =h991f03e_0
     - libffi =3.5.2 =hd1f9c09_0
-    - libfreetype =2.14.2 =h694c41f_0
-    - libfreetype6 =2.14.2 =h58fbd8d_0
+    - libfreetype =2.14.3 =h694c41f_0
+    - libfreetype6 =2.14.3 =h58fbd8d_0
     - libgcc =15.2.0 =h08519bb_18
     - libgfortran =15.2.0 =h7e5c614_18
     - libgfortran5 =15.2.0 =hd16e46c_18
@@ -219,7 +219,7 @@ requirements:
     - packaging =26.0 =pyhcf101f3_0
     - pandoc =3.9.0.2 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.56.4 =h6ef8af8_0
+    - pango =1.56.4 =hf280016_1
     - parso =0.8.6 =pyhcf101f3_0
     - pathspec =1.0.4 =pyhd8ed1ab_0
     - pcre2 =10.47 =h13923f0_0

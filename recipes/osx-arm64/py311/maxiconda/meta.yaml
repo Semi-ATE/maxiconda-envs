@@ -140,7 +140,7 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.62.0 =py311hc290fe0_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
-    - freetype =2.14.2 =hce30654_0
+    - freetype =2.14.3 =hce30654_0
     - fribidi =1.0.16 =hc919400_0
     - frozenlist =1.7.0 =py311h8740443_0
     - gdk-pixbuf =2.44.5 =h4e57454_1
@@ -158,11 +158,11 @@ requirements:
     - gsl =2.7 =h6e638da_0
     - gst-plugins-base =1.26.10 =hd17a83a_0
     - gstreamer =1.26.10 =h30d696d_0
-    - gtk3 =3.24.51 =hc0f3e19_0
+    - gtk3 =3.24.52 =hc0f3e19_0
     - gts =0.7.6 =he42f4ea_4
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =13.2.0 =h3103d1b_0
+    - harfbuzz =13.2.1 =h3103d1b_0
     - hicolor-icon-theme =0.17 =hce30654_3
     - hpack =4.1.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
@@ -179,7 +179,7 @@ requirements:
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.19.2 =pyhd8ed1ab_1
     - json5 =0.13.0 =pyhd8ed1ab_0
-    - jsonpointer =3.0.0 =pyhcf101f3_3
+    - jsonpointer =3.1.0 =pyhcf101f3_0
     - jsonschema =4.26.0 =pyhcf101f3_0
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_0
@@ -218,8 +218,8 @@ requirements:
     - libev =4.33 =h93a5062_2
     - libexpat =2.7.4 =hf6b4638_0
     - libffi =3.5.2 =hcf2aa1b_0
-    - libfreetype =2.14.2 =hce30654_0
-    - libfreetype6 =2.14.2 =hdfa99f5_0
+    - libfreetype =2.14.3 =hce30654_0
+    - libfreetype6 =2.14.3 =hdfa99f5_0
     - libgcc =15.2.0 =hcbb3090_18
     - libgd =2.3.3 =h05bcc79_12
     - libgettextpo =0.25.1 =h493aca8_0
@@ -286,7 +286,7 @@ requirements:
     - packaging =26.0 =pyhcf101f3_0
     - pandoc =3.9.0.2 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.56.4 =h875632e_0
+    - pango =1.56.4 =hf80efc4_1
     - parso =0.8.6 =pyhcf101f3_0
     - pcre2 =10.47 =h30297fc_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
@@ -447,7 +447,7 @@ requirements:
     - r-purrr =1.2.1 =r45hbe92478_0
     - r-quantmod =0.4.28 =r45hc72bb7e_1
     - r-r6 =2.6.1 =r45hc72bb7e_1
-    - r-ragg =1.5.1 =r45hdc8ef2b_0
+    - r-ragg =1.5.2 =r45hdc8ef2b_0
     - r-randomforest =4.7_1.2 =r45hd097873_1
     - r-rappdirs =0.3.4 =r45hbe92478_0
     - r-rbokeh =0.5.2 =r45hc72bb7e_5

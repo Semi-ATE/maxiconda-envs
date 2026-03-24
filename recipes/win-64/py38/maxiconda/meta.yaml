@@ -117,7 +117,7 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.53.1 =py38h4cb3324_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
-    - freetype =2.14.2 =h57928b3_0
+    - freetype =2.14.3 =h57928b3_0
     - fribidi =1.0.16 =hfd05255_0
     - frozenlist =1.4.1 =py38h91455d4_0
     - glib =2.86.4 =h19e2e61_1
@@ -128,7 +128,7 @@ requirements:
     - gstreamer =1.26.10 =h54009fa_0
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =13.2.0 =h5a1b470_0
+    - harfbuzz =13.2.1 =h5a1b470_0
     - hpack =4.0.0 =pyh9f0ad1d_0
     - httpcore =1.0.7 =pyh29332c3_1
     - httpx =0.27.2 =pyhd8ed1ab_0
@@ -170,8 +170,8 @@ requirements:
     - libdeflate =1.25 =h51727cc_0
     - libexpat =2.7.4 =hac47afa_0
     - libffi =3.5.2 =h3d046cb_0
-    - libfreetype =2.14.2 =h57928b3_0
-    - libfreetype6 =2.14.2 =hdbac1cb_0
+    - libfreetype =2.14.3 =h57928b3_0
+    - libfreetype6 =2.14.3 =hdbac1cb_0
     - libglib =2.86.4 =h0c9aed9_1
     - libhwloc =2.11.2 =default_hc8275d1_1000
     - libiconv =1.18 =hc1393d2_2
@@ -245,7 +245,7 @@ requirements:
     - packaging =26.0 =pyhcf101f3_0
     - pandoc =2.19.2 =h57928b3_2
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.56.4 =h03d888a_0
+    - pango =1.56.4 =h13911b6_1
     - parso =0.8.4 =pyhd8ed1ab_0
     - pcre2 =10.47 =hd2b5f0e_0
     - pickleshare =0.7.5 =py_1003

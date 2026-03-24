@@ -126,7 +126,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.59.1 =py39h5769e4c_0
-    - freetype =2.14.2 =h57928b3_0
+    - freetype =2.14.3 =h57928b3_0
     - fribidi =1.0.16 =hfd05255_0
     - fst-pso =1.8.1 =pyhd8ed1ab_0
     - funcy =2.0 =pyhd8ed1ab_1
@@ -145,7 +145,7 @@ requirements:
     - gstreamer =1.26.10 =h54009fa_0
     - gts =0.7.6 =h6b5321d_4
     - h2 =4.2.0 =pyhd8ed1ab_0
-    - harfbuzz =13.2.0 =h5a1b470_0
+    - harfbuzz =13.2.1 =h5a1b470_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - htmlmin =0.1.12 =pyhca7485f_2
     - hyperframe =6.1.0 =pyhd8ed1ab_0
@@ -199,8 +199,8 @@ requirements:
     - libevent =2.1.12 =h3671451_1
     - libexpat =2.7.4 =hac47afa_0
     - libffi =3.5.2 =h3d046cb_0
-    - libfreetype =2.14.2 =h57928b3_0
-    - libfreetype6 =2.14.2 =hdbac1cb_0
+    - libfreetype =2.14.3 =h57928b3_0
+    - libfreetype6 =2.14.3 =hdbac1cb_0
     - libgcc =15.2.0 =h8ee18e1_18
     - libgd =2.3.3 =h4974f7c_12
     - libglib =2.86.4 =h0c9aed9_1
@@ -269,7 +269,7 @@ requirements:
     - orc =2.2.2 =hbd3206f_0
     - packaging =26.0 =pyhcf101f3_0
     - pandas-profiling =3.0.0 =pyhd8ed1ab_0
-    - pango =1.56.4 =h03d888a_0
+    - pango =1.56.4 =h13911b6_1
     - paramiko =4.0.0 =pyhd8ed1ab_0
     - parsel =1.10.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_1

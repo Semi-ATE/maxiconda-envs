@@ -70,7 +70,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.59.1 =py39h5769e4c_0
-    - freetype =2.14.2 =h57928b3_0
+    - freetype =2.14.3 =h57928b3_0
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - fribidi =1.0.16 =hfd05255_0
     - glew =2.1.0 =h39d44d4_2
@@ -84,7 +84,7 @@ requirements:
     - gst-plugins-base =1.26.10 =hf40947b_0
     - gstreamer =1.26.10 =h54009fa_0
     - h5py =3.14.0 =nompi_py39ha907541_100
-    - harfbuzz =13.2.0 =h5a1b470_0
+    - harfbuzz =13.2.1 =h5a1b470_0
     - hdf4 =4.2.15 =h5557f11_7
     - hdf5 =1.14.6 =nompi_hae35d4c_106
     - icu =78.3 =h637d24d_0
@@ -114,8 +114,8 @@ requirements:
     - libdeflate =1.25 =h51727cc_0
     - libexpat =2.7.4 =hac47afa_0
     - libffi =3.5.2 =h3d046cb_0
-    - libfreetype =2.14.2 =h57928b3_0
-    - libfreetype6 =2.14.2 =hdbac1cb_0
+    - libfreetype =2.14.3 =h57928b3_0
+    - libfreetype6 =2.14.3 =hdbac1cb_0
     - libgcc =15.2.0 =h8ee18e1_18
     - libglib =2.86.4 =h0c9aed9_1
     - libgomp =15.2.0 =h8ee18e1_18
@@ -160,7 +160,7 @@ requirements:
     - openjpeg =2.5.4 =h0e57b4f_0
     - openssl =3.6.1 =hf411b9b_1
     - packaging =26.0 =pyhcf101f3_0
-    - pango =1.56.4 =h03d888a_0
+    - pango =1.56.4 =h13911b6_1
     - parso =0.8.4 =pyhd8ed1ab_1
     - patsy =1.0.1 =pyhd8ed1ab_1
     - pcre2 =10.47 =hd2b5f0e_0
