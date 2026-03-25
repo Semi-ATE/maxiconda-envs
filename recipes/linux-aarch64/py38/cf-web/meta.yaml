@@ -35,13 +35,12 @@ requirements:
     - sqlalchemy =2.0.32 =py38h34c6dc0_0
     - twisted =24.7.0 =py38h34c6dc0_0
 
-    # 192 secondary packages :
+    # 190 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - alsa-lib =1.2.15.3 =he30d5cf_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
     - asgiref =3.8.1 =pyhd8ed1ab_0
     - asttokens =3.0.0 =pyhd8ed1ab_0
-    - attr =2.5.2 =he30d5cf_1
     - attrs =24.2.0 =pyh71513ae_0
     - automat =24.8.1 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -96,8 +95,7 @@ requirements:
     - krb5 =1.22.2 =hfd895c2_0
     - lame =3.100 =h4e544f5_1003
     - ld_impl_linux-aarch64 =2.45.1 =default_h1979696_102
-    - libattr =2.5.2 =he30d5cf_1
-    - libcap =2.77 =h68e9139_0
+    - libcap =2.77 =hf9559e3_1
     - libclang-cpp22.1 =22.1.0 =default_he95a3c9_0
     - libclang13 =22.1.0 =default_h94a09a5_0
     - libcups =2.3.3 =h4f2b762_6

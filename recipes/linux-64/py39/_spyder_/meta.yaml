@@ -35,7 +35,7 @@ requirements:
     - spyder =6.0.8 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 346 secondary packages :
+    # 344 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.12.15 =py39heb7d2ae_0
@@ -48,7 +48,6 @@ requirements:
     - async-timeout =5.0.1 =pyhd8ed1ab_1
     - asyncssh =2.21.0 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_1
-    - attr =2.5.2 =hb03c661_1
     - attrs =25.3.0 =pyh71513ae_0
     - autopep8 =2.0.4 =pyhd8ed1ab_0
     - babel =2.17.0 =pyhd8ed1ab_0
@@ -147,12 +146,11 @@ requirements:
     - lcms2 =2.18 =h0c24ade_0
     - ld_impl_linux-64 =2.45.1 =default_hbd61a6d_102
     - lerc =4.1.0 =hdb68285_0
-    - libattr =2.5.2 =hb03c661_1
     - libblas =3.11.0 =5_h4a7cf45_openblas
     - libbrotlicommon =1.2.0 =hb03c661_1
     - libbrotlidec =1.2.0 =hb03c661_1
     - libbrotlienc =1.2.0 =hb03c661_1
-    - libcap =2.77 =h3ff7636_0
+    - libcap =2.77 =hd0affe5_1
     - libcblas =3.11.0 =5_h0358290_openblas
     - libclang-cpp20.1 =20.1.8 =default_h99862b1_14
     - libclang13 =21.1.0 =default_h746c552_1

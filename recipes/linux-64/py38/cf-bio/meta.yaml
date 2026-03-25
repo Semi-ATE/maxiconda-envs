@@ -36,11 +36,10 @@ requirements:
     - scipy =1.10.1 =py38h59b608b_3
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
 
-    # 256 secondary packages :
+    # 254 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - alsa-lib =1.2.15.3 =hb03c661_0
     - asttokens =3.0.0 =pyhd8ed1ab_0
-    - attr =2.5.2 =hb03c661_1
     - backcall =0.2.0 =pyh9f0ad1d_0
     - blosc =1.21.6 =he440d0b_1
     - brotli =1.2.0 =hed03a55_1
@@ -113,14 +112,13 @@ requirements:
     - ld_impl_linux-64 =2.45.1 =default_hbd61a6d_102
     - lerc =4.1.0 =hdb68285_0
     - libaec =1.1.5 =h088129d_0
-    - libattr =2.5.2 =hb03c661_1
     - libblas =3.9.0 =20_linux64_openblas
     - libboost =1.84.0 =h6c02f8c_7
     - libboost-python =1.84.0 =py38haa4b4a7_5
     - libbrotlicommon =1.2.0 =hb03c661_1
     - libbrotlidec =1.2.0 =hb03c661_1
     - libbrotlienc =1.2.0 =hb03c661_1
-    - libcap =2.77 =h3ff7636_0
+    - libcap =2.77 =hd0affe5_1
     - libcblas =3.9.0 =20_linux64_openblas
     - libclang-cpp19.1 =19.1.7 =default_h99862b1_8
     - libclang13 =21.1.0 =default_h746c552_1

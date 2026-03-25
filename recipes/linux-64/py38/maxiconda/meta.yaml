@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 504 secondary packages :
+    # 502 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
@@ -78,7 +78,6 @@ requirements:
     - asttokens =3.0.0 =pyhd8ed1ab_0
     - async-lru =2.0.4 =pyhd8ed1ab_0
     - async-timeout =4.0.3 =pyhd8ed1ab_0
-    - attr =2.5.2 =hb03c661_1
     - attrs =24.2.0 =pyh71513ae_0
     - babel =2.16.0 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -180,12 +179,11 @@ requirements:
     - lcms2 =2.18 =h0c24ade_0
     - ld_impl_linux-64 =2.45.1 =default_hbd61a6d_102
     - lerc =4.1.0 =hdb68285_0
-    - libattr =2.5.2 =hb03c661_1
     - libblas =3.9.0 =20_linux64_openblas
     - libbrotlicommon =1.2.0 =hb03c661_1
     - libbrotlidec =1.2.0 =hb03c661_1
     - libbrotlienc =1.2.0 =hb03c661_1
-    - libcap =2.77 =h3ff7636_0
+    - libcap =2.77 =hd0affe5_1
     - libcblas =3.9.0 =20_linux64_openblas
     - libclang-cpp22.1 =22.1.0 =default_h99862b1_0
     - libclang13 =22.1.0 =default_h746c552_0
