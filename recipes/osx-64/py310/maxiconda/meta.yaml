@@ -51,11 +51,11 @@ requirements:
     - r-base =4.5.3 =h6422bf8_1
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.2.28 =py310h5cd8a12_0
-    - requests =2.32.5 =pyhcf101f3_1
+    - requests =2.33.0 =pyhcf101f3_0
     - rust =1.94.0 =h5655b98_0
     - scipy =1.15.2 =py310hef62574_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
-    - spyder-kernels =3.1.3 =unix_pyh707e725_0
+    - spyder-kernels =3.1.4 =unix_pyh707e725_0
     - sqlalchemy =2.0.48 =py310h5afac17_0
     - sqlite =3.52.0 =hd4d344e_0
     - sympy =1.14.0 =pyh2585a3b_106
@@ -196,9 +196,9 @@ requirements:
     - libclang13 =22.1.0 =default_h2429e1b_0
     - libcompiler-rt =22.1.0 =h1637cdf_0
     - libcurl =8.19.0 =h8f0b9e4_0
-    - libcxx =22.1.1 =h19cb2f5_0
-    - libcxx-devel =22.1.1 =h7c275be_0
-    - libcxx-headers =22.1.1 =h707e725_0
+    - libcxx =22.1.2 =h19cb2f5_0
+    - libcxx-devel =22.1.2 =h7c275be_0
+    - libcxx-headers =22.1.2 =h707e725_0
     - libdeflate =1.25 =h517ebb2_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -248,7 +248,7 @@ requirements:
     - matplotlib-base =3.10.8 =py310h2102b89_0
     - matplotlib-inline =0.2.1 =pyhd8ed1ab_0
     - mistune =3.2.0 =pyhcf101f3_0
-    - mpc =1.3.1 =h9d8efa1_1
+    - mpc =1.4.0 =h31caf2d_0
     - mpfr =4.2.2 =h31caf2d_0
     - mpmath =1.4.1 =pyhd8ed1ab_0
     - multidict =6.7.1 =py310hf174c55_0
