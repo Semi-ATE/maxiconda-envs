@@ -25,7 +25,7 @@ requirements:
     - python =3.12.13 =h91f4b29_0_cpython
 
     # 38 primary packages :
-    - aiohttp =3.13.3 =py312he7e3343_0
+    - aiohttp =3.13.4 =py312he7e3343_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - bitarray =3.8.0 =py312hcd1a082_1
@@ -50,7 +50,7 @@ requirements:
     - qtawesome =1.4.1 =pyh9208f05_0
     - r-base =4.5.3 =h68a4b35_1
     - r-essentials =4.5 =r45hd8ed1ab_2006
-    - regex =2026.2.28 =py312hcd1a082_0
+    - regex =2026.3.32 =py312hcd1a082_0
     - requests =2.33.0 =pyhcf101f3_0
     - rust =1.94.0 =h6cf38e9_0
     - scipy =1.17.1 =py312he5b0e10_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 559 secondary packages :
+    # 561 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
@@ -209,6 +209,7 @@ requirements:
     - libbrotlienc =1.2.0 =he30d5cf_1
     - libcap =2.77 =hf9559e3_1
     - libcblas =3.11.0 =6_hd72aa62_openblas
+    - libclang-cpp21.1 =21.1.8 =default_he95a3c9_3
     - libclang-cpp22.1 =22.1.0 =default_he95a3c9_0
     - libclang13 =22.1.0 =default_h94a09a5_0
     - libcups =2.3.3 =h4f2b762_6
@@ -220,7 +221,7 @@ requirements:
     - libegl-devel =1.7.0 =hd24410f_2
     - libev =4.33 =h31becfc_2
     - libevent =2.1.12 =h4ba1bb4_1
-    - libexpat =2.7.4 =hfae3067_0
+    - libexpat =2.7.5 =hfae3067_0
     - libffi =3.5.2 =h376a255_0
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.3 =h8af1aa0_0
@@ -242,6 +243,7 @@ requirements:
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.2 =he30d5cf_0
     - liblapack =3.11.0 =6_h88aeb00_openblas
+    - libllvm21 =21.1.8 =hfd2ba90_0
     - libllvm22 =22.1.2 =hfd2ba90_0
     - liblzma =5.8.2 =he30d5cf_0
     - libmamba =2.5.0 =hc712cdd_0
@@ -342,7 +344,7 @@ requirements:
     - pygraphviz =1.14 =py312h9c35e9e_3
     - pyparsing =3.3.2 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py312h1ab2c47_2
-    - pyside6 =6.10.2 =py312hfc1e6cc_1
+    - pyside6 =6.11.0 =py312hfc1e6cc_0
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
@@ -355,7 +357,7 @@ requirements:
     - pyzmq =27.1.0 =py312hdf0a211_2
     - qhull =2020.2 =h70be974_5
     - qt-main =5.15.15 =ha9b3be2_8
-    - qt6-main =6.10.2 =pl5321h598db47_6
+    - qt6-main =6.11.0 =pl5321h598db47_2
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r45h0557e7b_1
     - r-assertthat =0.2.1 =r45hc72bb7e_6
@@ -505,7 +507,7 @@ requirements:
     - r-selectr =0.5_1 =r45hc72bb7e_0
     - r-shape =1.4.6.1 =r45ha770c72_2
     - r-shiny =1.13.0 =r45h785f33e_0
-    - r-sourcetools =0.1.7_1 =r45h08b74da_3
+    - r-sourcetools =0.1.7_2 =r45h08b74da_0
     - r-sparsevctrs =0.3.6 =r45h0557e7b_0
     - r-spatial =7.3_18 =r45h0557e7b_1
     - r-squarem =2026.1 =r45hc72bb7e_0

@@ -35,10 +35,10 @@ requirements:
     - spyder =6.1.3 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
-    # 350 secondary packages :
+    # 352 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
-    - aiohttp =3.13.3 =py311h55b9665_0
+    - aiohttp =3.13.4 =py311h55b9665_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - alsa-lib =1.2.15.3 =hb03c661_0
@@ -154,6 +154,7 @@ requirements:
     - libbrotlienc =1.2.0 =hb03c661_1
     - libcap =2.77 =hd0affe5_1
     - libcblas =3.11.0 =6_h0358290_openblas
+    - libclang-cpp21.1 =21.1.8 =default_h99862b1_3
     - libclang-cpp22.1 =22.1.0 =default_h99862b1_0
     - libclang13 =22.1.0 =default_h746c552_0
     - libcups =2.3.3 =h7a8fb5f_6
@@ -162,7 +163,7 @@ requirements:
     - libedit =3.1.20250104 =pl5321h7949ede_0
     - libegl =1.7.0 =ha4b6fd6_2
     - libevent =2.1.12 =hf998b51_1
-    - libexpat =2.7.4 =hecca717_0
+    - libexpat =2.7.5 =hecca717_0
     - libffi =3.5.2 =h3435931_0
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_0
@@ -179,6 +180,7 @@ requirements:
     - libiconv =1.18 =h3b78370_2
     - libjpeg-turbo =3.1.2 =hb03c661_0
     - liblapack =3.11.0 =6_h47877c9_openblas
+    - libllvm21 =21.1.8 =hf7376ad_0
     - libllvm22 =22.1.2 =hf7376ad_0
     - liblzma =5.8.2 =hb03c661_0
     - libnsl =2.0.1 =hb9d3cd8_1
@@ -276,7 +278,7 @@ requirements:
     - pyopenssl =26.0.0 =pyhcf101f3_0
     - pyparsing =3.3.2 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py311h1ddb823_2
-    - pyside6 =6.10.2 =py311hf27b23e_1
+    - pyside6 =6.11.0 =py311hf27b23e_0
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
@@ -300,7 +302,7 @@ requirements:
     - qstylizer =0.2.4 =pyhff2d567_0
     - qt-main =5.15.15 =h0c412b5_8
     - qt-webengine =5.15.15 =h5dcc908_4
-    - qt6-main =6.10.2 =pl5321h16c4a6b_6
+    - qt6-main =6.11.0 =pl5321h16c4a6b_2
     - qtawesome =1.4.1 =pyh9208f05_0
     - qtconsole =5.7.2 =pyhd8ed1ab_0
     - qtconsole-base =5.7.2 =pyha770c72_0
