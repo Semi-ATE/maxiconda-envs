@@ -25,7 +25,7 @@ requirements:
     - python =3.11.15 =h91f4b29_0_cpython
 
     # 38 primary packages :
-    - aiohttp =3.13.4 =py311hf076524_0
+    - aiohttp =3.13.5 =py311hf076524_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - bitarray =3.8.0 =py311h19352d5_1
@@ -137,7 +137,7 @@ requirements:
     - fribidi =1.0.16 =he30d5cf_0
     - frozenlist =1.7.0 =py311h91c1192_0
     - gcc_impl_linux-aarch64 =15.2.0 =hcedddb3_18
-    - gdk-pixbuf =2.44.5 =h90308e0_1
+    - gdk-pixbuf =2.44.6 =h90308e0_0
     - gfortran_impl_linux-aarch64 =15.2.0 =h2d9b6d1_18
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.46 =pyhd8ed1ab_0
@@ -453,11 +453,11 @@ requirements:
     - r-processx =3.8.6 =r45h0557e7b_1
     - r-prodlim =2026.03.11 =r45h08b74da_0
     - r-progress =1.2.3 =r45hc72bb7e_2
-    - r-progressr =0.18.0 =r45hc72bb7e_0
+    - r-progressr =0.19.0 =r45hc72bb7e_0
     - r-promises =1.5.0 =r45hc72bb7e_1
     - r-proxy =0.4_29 =r45h0557e7b_0
     - r-pryr =0.1.6 =r45h08b74da_3
-    - r-ps =1.9.1 =r45h0557e7b_1
+    - r-ps =1.9.2 =r45h0557e7b_0
     - r-purrr =1.2.1 =r45h0557e7b_0
     - r-quantmod =0.4.28 =r45hc72bb7e_1
     - r-r6 =2.6.1 =r45hc72bb7e_1
@@ -513,7 +513,7 @@ requirements:
     - r-uuid =1.2_2 =r45h0557e7b_0
     - r-vctrs =0.7.2 =r45h08b74da_0
     - r-viridislite =0.4.3 =r45hc72bb7e_0
-    - r-vroom =1.7.0 =r45h08b74da_0
+    - r-vroom =1.7.1 =r45h08b74da_0
     - r-withr =3.0.2 =r45hc72bb7e_1
     - r-xfun =0.57 =r45hd601667_0
     - r-xml2 =1.5.2 =r45h15e677e_0
