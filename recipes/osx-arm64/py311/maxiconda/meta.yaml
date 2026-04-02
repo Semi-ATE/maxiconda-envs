@@ -34,7 +34,7 @@ requirements:
     - ipython =9.10.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py311ha1ab1f8_0
-    - numba =0.64.0 =py311h7b83a5e_0
+    - numba =0.65.0 =py311h7b83a5e_0
     - numpy =2.4.3 =py311h49b76aa_0
     - openpyxl =3.1.5 =py311h33e2021_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -258,7 +258,7 @@ requirements:
     - llvm-openmp =22.1.2 =hc7d1edf_0
     - llvm-tools =22.1.0 =hd34ed20_0
     - llvm-tools-22 =22.1.0 =hb545844_0
-    - llvmlite =0.46.0 =py311h27de090_0
+    - llvmlite =0.47.0 =py311h5d75059_0
     - make =4.4.1 =hc9fafa5_2
     - markupsafe =3.0.3 =py311hc290fe0_1
     - matplotlib-base =3.10.8 =py311h29553df_0
@@ -290,7 +290,7 @@ requirements:
     - parso =0.8.6 =pyhcf101f3_0
     - pcre2 =10.47 =h30297fc_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
-    - pillow =12.1.1 =py311hd37aea2_0
+    - pillow =12.2.0 =py311hd37aea2_0
     - pip =26.0.1 =pyh8b19718_0
     - pixman =0.46.4 =h81086ad_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
@@ -436,7 +436,7 @@ requirements:
     - r-plyr =1.8.9 =r45hc1cd577_3
     - r-prettyunits =1.2.0 =r45hc72bb7e_2
     - r-proc =1.19.0.1 =r45hc1cd577_1
-    - r-processx =3.8.6 =r45h6168396_1
+    - r-processx =3.8.7 =r45hbe92478_0
     - r-prodlim =2026.03.11 =r45h1380947_0
     - r-progress =1.2.3 =r45hc72bb7e_2
     - r-progressr =0.19.0 =r45hc72bb7e_0
