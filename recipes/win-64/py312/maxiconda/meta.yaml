@@ -44,7 +44,7 @@ requirements:
     - pydantic =2.12.5 =pyhcf101f3_1
     - pyqt =5.15.11 =py312h7eb3e20_2
     - pyserial =3.5 =pyhcf101f3_2
-    - pytest =9.0.2 =pyhcf101f3_0
+    - pytest =9.0.3 =pyhc364b38_0
     - pyyaml =6.0.3 =py312h05f76fc_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.1 =pyh9208f05_0
@@ -97,12 +97,12 @@ requirements:
     - certifi =2026.2.25 =pyhd8ed1ab_0
     - cffi =2.0.0 =py312he06e257_1
     - charset-normalizer =3.4.7 =pyhd8ed1ab_0
-    - click =8.3.1 =pyha7b4d00_1
+    - click =8.3.2 =pyh6dadd2b_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
     - conda =26.3.1 =py312h2e8e312_0
-    - conda-libmamba-solver =25.11.0 =pyhd8ed1ab_1
+    - conda-libmamba-solver =26.3.0 =pyhd8ed1ab_0
     - conda-package-handling =2.4.0 =pyh7900ff3_2
     - conda-package-streaming =0.12.0 =pyhd8ed1ab_0
     - conda-recipe-manager =0.5.0 =pyhd8ed1ab_0
@@ -151,7 +151,7 @@ requirements:
     - gxx_impl_win-64 =15.2.0 =h22fd5bf_18
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =13.2.1 =h5a1b470_0
+    - harfbuzz =14.1.0 =h5a1b470_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -265,7 +265,7 @@ requirements:
     - notebook =7.5.5 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - openjpeg =2.5.4 =h0e57b4f_0
-    - openssl =3.6.1 =hf411b9b_1
+    - openssl =3.6.2 =hf411b9b_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.0 =pyhcf101f3_0
     - pandoc =3.9.0.2 =h57928b3_0
@@ -491,7 +491,7 @@ requirements:
     - r-xts =0.14.2 =r45heceb674_0
     - r-yaml =2.3.12 =r45heceb674_0
     - r-zoo =1.8_15 =r45heceb674_0
-    - rapidfuzz =3.14.3 =py312hbb81ca0_1
+    - rapidfuzz =3.14.5 =py312hbb81ca0_0
     - referencing =0.37.0 =pyhcf101f3_0
     - reproc =14.2.5.post0 =h2466b09_0
     - reproc-cpp =14.2.5.post0 =he0c23c2_0
@@ -508,7 +508,7 @@ requirements:
     - simdjson =4.2.4 =h49e36cd_0
     - sip =6.10.0 =py312hbb81ca0_1
     - six =1.17.0 =pyhe01879c_1
-    - smmap =5.0.2 =pyhd8ed1ab_0
+    - smmap =5.0.3 =pyhd8ed1ab_0
     - sniffio =1.3.1 =pyhd8ed1ab_2
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
     - soupsieve =2.8.3 =pyhd8ed1ab_0

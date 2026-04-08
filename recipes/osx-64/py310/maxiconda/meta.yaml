@@ -44,7 +44,7 @@ requirements:
     - pydantic =2.12.5 =pyhcf101f3_1
     - pyqt =5.15.11 =py310h6c6f83e_2
     - pyserial =3.5 =pyhcf101f3_2
-    - pytest =9.0.2 =pyhcf101f3_0
+    - pytest =9.0.3 =pyhc364b38_0
     - pyyaml =6.0.3 =py310hec06124_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.1 =pyh9208f05_0
@@ -105,7 +105,7 @@ requirements:
     - clang_osx-64 =22.1.0 =hdc753ca_31
     - clangxx_impl_osx-64 =22.1.0 =default_he9bf3b8_0
     - clangxx_osx-64 =22.1.0 =hdc753ca_31
-    - click =8.3.1 =pyh8f84b5b_1
+    - click =8.3.2 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -150,7 +150,7 @@ requirements:
     - gstreamer =1.26.10 =h10686fb_0
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =13.2.1 =hf0bc557_0
+    - harfbuzz =14.1.0 =hf0bc557_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -196,9 +196,9 @@ requirements:
     - libclang13 =22.1.0 =default_h2429e1b_0
     - libcompiler-rt =22.1.0 =h1637cdf_0
     - libcurl =8.19.0 =h8f0b9e4_0
-    - libcxx =22.1.2 =h19cb2f5_0
-    - libcxx-devel =22.1.2 =h7c275be_0
-    - libcxx-headers =22.1.2 =h707e725_0
+    - libcxx =22.1.3 =h19cb2f5_0
+    - libcxx-devel =22.1.3 =h7c275be_0
+    - libcxx-headers =22.1.3 =h707e725_0
     - libdeflate =1.25 =h517ebb2_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -264,7 +264,7 @@ requirements:
     - nss =3.118 =h2b2a826_0
     - openjpeg =2.5.4 =h52bb76a_0
     - openldap =2.6.10 =h2f5043c_1
-    - openssl =3.6.1 =hb6871ef_1
+    - openssl =3.6.2 =hc881268_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.0 =pyhcf101f3_0
     - pandoc =3.9.0.2 =h694c41f_0
@@ -489,7 +489,7 @@ requirements:
     - r-xts =0.14.2 =r45h8eed41d_0
     - r-yaml =2.3.12 =r45h735ac91_0
     - r-zoo =1.8_15 =r45h735ac91_0
-    - rapidfuzz =3.14.3 =py310ha75780e_1
+    - rapidfuzz =3.14.5 =py310hf92f864_0
     - readline =8.3 =h68b038d_0
     - referencing =0.37.0 =pyhcf101f3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1

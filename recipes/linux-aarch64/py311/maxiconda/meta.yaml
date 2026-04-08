@@ -44,7 +44,7 @@ requirements:
     - pydantic =2.12.5 =pyhcf101f3_1
     - pyqt =5.15.11 =py311h4808784_2
     - pyserial =3.5 =pyhcf101f3_2
-    - pytest =9.0.2 =pyhcf101f3_0
+    - pytest =9.0.3 =pyhc364b38_0
     - pyyaml =6.0.3 =py311h164a683_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.1 =pyh9208f05_0
@@ -100,7 +100,7 @@ requirements:
     - certifi =2026.2.25 =pyhd8ed1ab_0
     - cffi =2.0.0 =py311h460c349_1
     - charset-normalizer =3.4.7 =pyhd8ed1ab_0
-    - click =8.3.1 =pyh8f84b5b_1
+    - click =8.3.2 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -156,7 +156,7 @@ requirements:
     - gxx_impl_linux-aarch64 =15.2.0 =h03e2352_18
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =13.2.1 =h1134a53_0
+    - harfbuzz =14.1.0 =h1134a53_0
     - hicolor-icon-theme =0.17 =h8af1aa0_3
     - hpack =4.1.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
@@ -294,7 +294,7 @@ requirements:
     - nss =3.118 =h544fa81_0
     - openjpeg =2.5.4 =h5da879a_0
     - openldap =2.6.10 =h2fb54aa_1
-    - openssl =3.6.1 =h546c87b_1
+    - openssl =3.6.2 =h546c87b_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.0 =pyhcf101f3_0
     - pandoc =3.9.0.2 =h8af1aa0_0
@@ -521,7 +521,7 @@ requirements:
     - r-xts =0.14.2 =r45h0557e7b_0
     - r-yaml =2.3.12 =r45h0557e7b_0
     - r-zoo =1.8_15 =r45h0557e7b_0
-    - rapidfuzz =3.14.3 =py311h2cb90db_1
+    - rapidfuzz =3.14.5 =py311h2cb90db_0
     - readline =8.3 =hb682ff5_0
     - referencing =0.37.0 =pyhcf101f3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
@@ -538,7 +538,7 @@ requirements:
     - setuptools =82.0.1 =pyh332efcf_0
     - sip =6.15.3 =py311h0cfd530_0
     - six =1.17.0 =pyhe01879c_1
-    - smmap =5.0.2 =pyhd8ed1ab_0
+    - smmap =5.0.3 =pyhd8ed1ab_0
     - sniffio =1.3.1 =pyhd8ed1ab_2
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
     - soupsieve =2.8.3 =pyhd8ed1ab_0
