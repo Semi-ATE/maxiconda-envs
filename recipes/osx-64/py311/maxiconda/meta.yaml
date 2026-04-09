@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py311hc71d4c3_1
     - cython =3.2.4 =py311hac81038_0
     - grayskull =3.1.0 =pyhcf101f3_0
-    - hypothesis =6.151.11 =pyha770c72_0
+    - hypothesis =6.151.12 =pyha770c72_0
     - ipython =9.10.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py311h6eed73b_0
@@ -44,7 +44,7 @@ requirements:
     - pydantic =2.12.5 =pyhcf101f3_1
     - pyqt =5.15.11 =py311he03e2d5_2
     - pyserial =3.5 =pyhcf101f3_2
-    - pytest =9.0.3 =pyhc364b38_0
+    - pytest =9.0.3 =pyhc364b38_1
     - pyyaml =6.0.3 =py311h53ebfaf_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.1 =pyh9208f05_0
@@ -121,7 +121,7 @@ requirements:
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h9d13916_4
     - cpython =3.11.15 =py311hd8ed1ab_0
-    - cryptography =46.0.5 =py311h7b58bf4_0
+    - cryptography =46.0.7 =py311h60893eb_0
     - curl =8.19.0 =h8f0b9e4_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h7cc0300_1
@@ -155,7 +155,7 @@ requirements:
     - gmpy2 =2.3.0 =py311hee6c895_1
     - graphite2 =1.3.14 =h21dd04a_2
     - graphviz =14.1.2 =h44fc223_0
-    - greenlet =3.3.2 =py311hc3ea09e_0
+    - greenlet =3.4.0 =py311hc3ea09e_0
     - gsl =2.7 =h93259b0_0
     - gst-plugins-base =1.26.10 =h36f82e0_0
     - gstreamer =1.26.10 =h10686fb_0
@@ -241,7 +241,7 @@ requirements:
     - libogg =1.3.5 =he3325bb_1
     - libopenblas =0.3.32 =openmp_h9e49c7b_0
     - libopus =1.6.1 =hc6ced15_0
-    - libpng =1.6.56 =he930e7c_0
+    - libpng =1.6.57 =he930e7c_0
     - libpq =18.3 =h94170d9_0
     - librsvg =2.62.1 =h7321050_0
     - libsigtool =0.1.3 =hc0f2934_0
@@ -271,7 +271,7 @@ requirements:
     - multidict =6.7.1 =py311h42ed68f_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.10.4 =pyhd8ed1ab_0
-    - nbconvert-core =7.17.0 =pyhcf101f3_0
+    - nbconvert-core =7.17.1 =pyhcf101f3_0
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =h0622a9a_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
@@ -532,7 +532,7 @@ requirements:
     - soupsieve =2.8.3 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
-    - tapi =1600.0.11.8 =h8d8e812_1
+    - tapi =1600.0.11.8 =h8d8e812_2
     - terminado =0.18.1 =pyhc90fa1f_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =h7142dee_3

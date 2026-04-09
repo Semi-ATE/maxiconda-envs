@@ -77,7 +77,7 @@ requirements:
     - contourpy =1.3.2 =py310hf54e67a_0
     - cookiecutter =2.7.1 =pyhcf101f3_0
     - cpython =3.10.20 =py310hd8ed1ab_0
-    - cryptography =46.0.5 =py310h868a156_0
+    - cryptography =46.0.7 =py310h868a156_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h6598af7_1
     - dbus =1.16.2 =h70963c4_1
@@ -181,7 +181,7 @@ requirements:
     - libjpeg-turbo =3.1.2 =he30d5cf_0
     - liblapack =3.11.0 =6_h88aeb00_openblas
     - libllvm21 =21.1.8 =hfd2ba90_0
-    - libllvm22 =22.1.2 =hfd2ba90_0
+    - libllvm22 =22.1.3 =hfd2ba90_0
     - liblzma =5.8.2 =he30d5cf_0
     - libnsl =2.0.1 =h86ecc28_1
     - libntlm =1.4 =hf897c2e_1002
@@ -190,7 +190,7 @@ requirements:
     - libopengl =1.7.0 =hd24410f_2
     - libopus =1.6.1 =h80f16a2_0
     - libpciaccess =0.18 =h86ecc28_0
-    - libpng =1.6.56 =h1abf092_0
+    - libpng =1.6.57 =h1abf092_0
     - libpq =18.3 =h7d4fc67_0
     - libsndfile =1.2.2 =h30591a0_2
     - libsodium =1.0.21 =h80f16a2_3
@@ -229,9 +229,9 @@ requirements:
     - munkres =1.1.4 =pyhd8ed1ab_1
     - mypy_extensions =1.1.0 =pyha770c72_0
     - nbclient =0.10.4 =pyhd8ed1ab_0
-    - nbconvert =7.17.0 =h14065e2_0
-    - nbconvert-core =7.17.0 =pyhcf101f3_0
-    - nbconvert-pandoc =7.17.0 =hc3985f0_0
+    - nbconvert =7.17.1 =hb502eef_0
+    - nbconvert-core =7.17.1 =pyhcf101f3_0
+    - nbconvert-pandoc =7.17.1 =h08b4883_0
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.5 =ha32ae93_3
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
