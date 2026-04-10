@@ -194,7 +194,7 @@ requirements:
     - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.21 =h280c20c_3
     - libspatialindex =2.1.0 =he57a185_0
-    - libsqlite =3.52.0 =hf4e2dac_0
+    - libsqlite =3.53.0 =hf4e2dac_0
     - libstdcxx =15.2.0 =h934c35e_18
     - libstdcxx-ng =15.2.0 =hdf11a46_18
     - libsystemd0 =260.1 =h6569c3e_0
@@ -219,7 +219,7 @@ requirements:
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
     - mistune =3.2.0 =pyhcf101f3_0
-    - more-itertools =11.0.1 =pyhcf101f3_0
+    - more-itertools =11.0.2 =pyhcf101f3_0
     - mpc =1.4.0 =he0a73b1_0
     - mpfr =4.2.2 =he0a73b1_0
     - mpg123 =1.32.9 =hc50e24c_0
@@ -238,7 +238,7 @@ requirements:
     - nss =3.118 =h445c969_0
     - numpydoc =1.10.0 =pyhcf101f3_0
     - openjpeg =2.5.4 =h55fea9a_0
-    - openldap =2.6.10 =hbde042b_1
+    - openldap =2.6.13 =hbde042b_0
     - openssl =3.6.2 =h35e630c_0
     - packaging =26.0 =pyhcf101f3_0
     - pandoc =3.9.0.2 =ha770c72_0
@@ -252,7 +252,7 @@ requirements:
     - pillow =12.2.0 =py311hf88fc01_0
     - pip =26.0.1 =pyh8b19718_0
     - pixman =0.46.4 =h54a6638_1
-    - platformdirs =4.9.4 =pyhcf101f3_0
+    - platformdirs =4.9.6 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.52 =pyha770c72_0
@@ -314,7 +314,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py311h902ca64_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.15.9 =h7805a7d_0
+    - ruff =0.15.10 =h7805a7d_0
     - secretstorage =3.4.1 =py311h38be061_0
     - setuptools =82.0.1 =pyh332efcf_0
     - sip =6.10.0 =py311h1ddb823_1

@@ -59,9 +59,9 @@ requirements:
     - black =25.1.0 =pyha5154f8_0
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.1.0 =h86ecc28_3
-    - brotli-bin =1.1.0 =h86ecc28_3
-    - brotli-python =1.1.0 =py39h7dbf29c_3
+    - brotli =1.2.0 =hd651790_1
+    - brotli-bin =1.2.0 =he30d5cf_1
+    - brotli-python =1.0.9 =py39h3d8bfb9_8
     - bzip2 =1.0.8 =h4777abc_9
     - ca-certificates =2026.2.25 =hbd8a1cb_0
     - cairo =1.18.4 =h83712da_0
@@ -148,9 +148,9 @@ requirements:
     - ld_impl_linux-aarch64 =2.45.1 =default_h1979696_102
     - lerc =4.1.0 =h52b7260_0
     - libblas =3.11.0 =6_haddc8a3_openblas
-    - libbrotlicommon =1.1.0 =h86ecc28_3
-    - libbrotlidec =1.1.0 =h86ecc28_3
-    - libbrotlienc =1.1.0 =h86ecc28_3
+    - libbrotlicommon =1.2.0 =he30d5cf_1
+    - libbrotlidec =1.2.0 =he30d5cf_1
+    - libbrotlienc =1.2.0 =he30d5cf_1
     - libcap =2.77 =hf9559e3_1
     - libcblas =3.11.0 =6_hd72aa62_openblas
     - libclang-cpp20.1 =20.1.8 =default_he95a3c9_14
@@ -194,7 +194,7 @@ requirements:
     - libsndfile =1.2.2 =h30591a0_2
     - libsodium =1.0.20 =h68df207_0
     - libspatialindex =2.1.0 =hd7870d2_0
-    - libsqlite =3.52.0 =h022381a_0
+    - libsqlite =3.53.0 =h022381a_0
     - libstdcxx =15.2.0 =hef695bb_18
     - libstdcxx-ng =15.2.0 =hdbbeba8_18
     - libsystemd0 =260.1 =h8c5a66d_0

@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.4 =unix_pyh707e725_0
     - sqlalchemy =2.0.49 =py311haee01d2_0
-    - sqlite =3.52.0 =h04a0ce9_0
+    - sqlite =3.53.0 =h04a0ce9_0
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.67.3 =pyh8f84b5b_0
     - transitions =0.9.3 =pyhe01879c_0
@@ -251,7 +251,7 @@ requirements:
     - libsanitizer =15.2.0 =h90f66d4_18
     - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.21 =h280c20c_3
-    - libsqlite =3.52.0 =hf4e2dac_0
+    - libsqlite =3.53.0 =hf4e2dac_0
     - libssh2 =1.11.1 =hcf80075_0
     - libstdcxx =15.2.0 =h934c35e_18
     - libstdcxx-devel_linux-64 =15.2.0 =hd446a21_118
@@ -293,7 +293,7 @@ requirements:
     - nspr =4.38 =h29cc59b_0
     - nss =3.118 =h445c969_0
     - openjpeg =2.5.4 =h55fea9a_0
-    - openldap =2.6.10 =hbde042b_1
+    - openldap =2.6.13 =hbde042b_0
     - openssl =3.6.2 =h35e630c_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.0 =pyhcf101f3_0
@@ -307,11 +307,11 @@ requirements:
     - pip =26.0.1 =pyh8b19718_0
     - pixman =0.46.4 =h54a6638_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
-    - platformdirs =4.9.4 =pyhcf101f3_0
+    - platformdirs =4.9.6 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
-    - prometheus_client =0.24.1 =pyhd8ed1ab_0
+    - prometheus_client =0.25.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.3.1 =py311h2dc5d0c_0
     - pthread-stubs =0.4 =hb9d3cd8_1002
@@ -355,7 +355,7 @@ requirements:
     - r-caret =7.0_1 =r45h54b55ab_0
     - r-cellranger =1.1.0 =r45hc72bb7e_1008
     - r-class =7.3_23 =r45h54b55ab_1
-    - r-cli =3.6.5 =r45h3697838_1
+    - r-cli =3.6.6 =r45h3697838_0
     - r-clipr =0.8.0 =r45hc72bb7e_4
     - r-clock =0.7.4 =r45h3697838_0
     - r-cluster =2.1.8.2 =r45heaba542_0

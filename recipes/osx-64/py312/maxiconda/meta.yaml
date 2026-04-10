@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.4 =unix_pyh707e725_0
     - sqlalchemy =2.0.49 =py312hba6025d_0
-    - sqlite =3.52.0 =hd4d344e_0
+    - sqlite =3.53.0 =h6775aab_0
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.67.3 =pyh8f84b5b_0
     - transitions =0.9.3 =pyhe01879c_0
@@ -259,7 +259,7 @@ requirements:
     - libsigtool =0.1.3 =hc0f2934_0
     - libsodium =1.0.21 =hc6ced15_3
     - libsolv =0.7.36 =hf97c9bc_0
-    - libsqlite =3.52.0 =h77d7759_0
+    - libsqlite =3.53.0 =h8f8c405_0
     - libssh2 =1.11.1 =hed3591d_0
     - libtiff =4.7.1 =ha0a348c_1
     - libuv =1.51.0 =h58003a5_1
@@ -269,7 +269,7 @@ requirements:
     - libxml2 =2.15.2 =hd552753_0
     - libxml2-16 =2.15.2 =h7a90416_0
     - libzlib =1.3.2 =hbb4bfdb_2
-    - llvm-openmp =22.1.2 =h0d3cbff_0
+    - llvm-openmp =22.1.3 =h0d3cbff_0
     - llvm-tools =22.1.0 =h1637cdf_0
     - llvm-tools-22 =22.1.0 =hc181bea_0
     - llvmlite =0.47.0 =py312ha5a82fe_0
@@ -299,7 +299,7 @@ requirements:
     - nspr =4.38 =hee0b3f1_0
     - nss =3.118 =h2b2a826_0
     - openjpeg =2.5.4 =h52bb76a_0
-    - openldap =2.6.10 =h2f5043c_1
+    - openldap =2.6.13 =h2f5043c_0
     - openssl =3.6.2 =hc881268_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.0 =pyhcf101f3_0
@@ -313,11 +313,11 @@ requirements:
     - pip =26.0.1 =pyh8b19718_0
     - pixman =0.46.4 =ha059160_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
-    - platformdirs =4.9.4 =pyhcf101f3_0
+    - platformdirs =4.9.6 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
-    - prometheus_client =0.24.1 =pyhd8ed1ab_0
+    - prometheus_client =0.25.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.3.1 =py312h3520af0_0
     - pthread-stubs =0.4 =h00291cd_1002
@@ -361,7 +361,7 @@ requirements:
     - r-caret =7.0_1 =r45h735ac91_0
     - r-cellranger =1.1.0 =r45hc72bb7e_1008
     - r-class =7.3_23 =r45h735ac91_1
-    - r-cli =3.6.5 =r45ha730edb_1
+    - r-cli =3.6.6 =r45h384437d_0
     - r-clipr =0.8.0 =r45hc72bb7e_4
     - r-clock =0.7.4 =r45hed9a748_0
     - r-cluster =2.1.8.2 =r45h200e2f6_0
