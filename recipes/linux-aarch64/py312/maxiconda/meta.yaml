@@ -47,7 +47,7 @@ requirements:
     - pytest =9.0.3 =pyhc364b38_1
     - pyyaml =6.0.3 =py312ha4530ae_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
-    - qtawesome =1.4.1 =pyh9208f05_0
+    - qtawesome =1.4.2 =pyh9208f05_0
     - r-base =4.5.3 =h68a4b35_1
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.4.4 =py312hcd1a082_0
@@ -107,7 +107,7 @@ requirements:
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - conda =26.3.1 =py312h996f985_1
+    - conda =26.3.2 =py312h996f985_0
     - conda-libmamba-solver =26.3.0 =pyhd8ed1ab_0
     - conda-package-handling =2.4.0 =pyh7900ff3_2
     - conda-package-streaming =0.12.0 =pyhd8ed1ab_0
@@ -210,8 +210,8 @@ requirements:
     - libcap =2.77 =hf9559e3_1
     - libcblas =3.11.0 =6_hd72aa62_openblas
     - libclang-cpp21.1 =21.1.8 =default_he95a3c9_3
-    - libclang-cpp22.1 =22.1.0 =default_he95a3c9_0
-    - libclang13 =22.1.0 =default_h94a09a5_0
+    - libclang-cpp22.1 =22.1.3 =default_he95a3c9_0
+    - libclang13 =22.1.3 =default_h94a09a5_0
     - libcups =2.3.3 =h4f2b762_6
     - libcurl =8.19.0 =hc57f145_0
     - libdeflate =1.25 =h1af38f5_0
@@ -245,7 +245,7 @@ requirements:
     - liblapack =3.11.0 =6_h88aeb00_openblas
     - libllvm21 =21.1.8 =hfd2ba90_0
     - libllvm22 =22.1.3 =hfd2ba90_0
-    - liblzma =5.8.2 =he30d5cf_0
+    - liblzma =5.8.3 =he30d5cf_0
     - libmamba =2.5.0 =hc712cdd_0
     - libmamba-spdlog =2.5.0 =h3ad78e7_0
     - libmambapy =2.5.0 =py312h7b87406_0
@@ -477,7 +477,7 @@ requirements:
     - r-proxy =0.4_29 =r45h0557e7b_0
     - r-pryr =0.1.6 =r45h08b74da_3
     - r-ps =1.9.2 =r45h0557e7b_0
-    - r-purrr =1.2.1 =r45h0557e7b_0
+    - r-purrr =1.2.2 =r45h0557e7b_0
     - r-quantmod =0.4.28 =r45hc72bb7e_1
     - r-r6 =2.6.1 =r45hc72bb7e_1
     - r-ragg =1.5.2 =r45hb2002b3_0
