@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py311hc71d4c3_1
     - cython =3.2.4 =py311hac81038_0
     - grayskull =3.1.0 =pyhcf101f3_0
-    - hypothesis =6.151.12 =pyha770c72_0
+    - hypothesis =6.151.14 =pyha770c72_0
     - ipython =9.10.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py311h6eed73b_0
@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =3.0.2 =py311h2a74ac8_0
     - psutil =7.2.2 =py311ha332486_0
-    - pydantic =2.12.5 =pyhcf101f3_1
+    - pydantic =2.13.0 =pyhcf101f3_0
     - pyqt =5.15.11 =py311he03e2d5_2
     - pyserial =3.5 =pyhcf101f3_2
     - pytest =9.0.3 =pyhc364b38_1
@@ -100,11 +100,11 @@ requirements:
     - certifi =2026.2.25 =pyhd8ed1ab_0
     - cffi =2.0.0 =py311h26bcf6e_1
     - charset-normalizer =3.4.7 =pyhd8ed1ab_0
-    - clang =22.1.3 =default_cfg_h93fe8ef_0
-    - clang-22 =22.1.3 =default_h3b8fe2e_0
-    - clang_impl_osx-64 =22.1.3 =default_he9bf3b8_0
+    - clang =22.1.3 =default_cfg_h93fe8ef_1
+    - clang-22 =22.1.3 =default_h3b8fe2e_1
+    - clang_impl_osx-64 =22.1.3 =default_he9bf3b8_1
     - clang_osx-64 =22.1.3 =hf1bb309_31
-    - clangxx_impl_osx-64 =22.1.3 =default_he9bf3b8_0
+    - clangxx_impl_osx-64 =22.1.3 =default_he9bf3b8_1
     - clangxx_osx-64 =22.1.3 =hf1bb309_31
     - click =8.3.2 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
@@ -172,7 +172,7 @@ requirements:
     - icu =78.3 =h25d91c4_0
     - idna =3.11 =pyhd8ed1ab_0
     - importlib-metadata =8.8.0 =pyhcf101f3_0
-    - importlib_resources =7.0.0 =pyhd8ed1ab_0
+    - importlib_resources =7.1.0 =pyhd8ed1ab_0
     - iniconfig =2.3.0 =pyhd8ed1ab_0
     - ipykernel =6.31.0 =pyh5552912_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
@@ -207,8 +207,8 @@ requirements:
     - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.11.0 =6_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
-    - libclang-cpp22.1 =22.1.3 =default_h9399c5b_0
-    - libclang13 =22.1.3 =default_h2429e1b_0
+    - libclang-cpp22.1 =22.1.3 =default_h9399c5b_1
+    - libclang13 =22.1.3 =default_h2429e1b_1
     - libcompiler-rt =22.1.3 =h1637cdf_0
     - libcurl =8.19.0 =h8f0b9e4_0
     - libcxx =22.1.3 =h19cb2f5_0
@@ -259,7 +259,7 @@ requirements:
     - llvm-openmp =22.1.3 =h0d3cbff_0
     - llvm-tools =22.1.3 =h1637cdf_0
     - llvm-tools-22 =22.1.3 =hc181bea_0
-    - llvmlite =0.47.0 =py311h2a7c09c_0
+    - llvmlite =0.47.0 =py311h2a7c09c_1
     - make =4.4.1 =h00291cd_2
     - markupsafe =3.0.3 =py311ha8ae342_1
     - matplotlib-base =3.10.8 =py311h48d7e91_0
@@ -307,7 +307,7 @@ requirements:
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycosat =0.6.6 =py311h13e5629_3
     - pycparser =2.22 =pyh29332c3_1
-    - pydantic-core =2.41.5 =py311hd2a4513_1
+    - pydantic-core =2.46.0 =py311h3a14e8f_0
     - pygments =2.20.0 =pyhd8ed1ab_0
     - pygraphviz =1.14 =py311h3d8d06d_3
     - pyobjc-core =12.1 =py311h0e44a47_0
