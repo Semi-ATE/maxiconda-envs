@@ -31,11 +31,11 @@ requirements:
     - bitarray =3.8.0 =py312h1a1c95f_1
     - cython =3.2.4 =py312h84c01df_0
     - grayskull =3.1.0 =pyhcf101f3_0
-    - hypothesis =6.151.14 =pyha770c72_0
+    - hypothesis =6.152.1 =pyha770c72_0
     - ipython =9.12.0 =pyhecfbec7_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.8 =py312hb401068_0
-    - numba =0.65.0 =py312h704f9c4_0
+    - numba =0.65.0 =py312h704f9c4_1
     - numpy =2.4.3 =py312h746d82c_0
     - openpyxl =3.1.5 =py312h35dbd26_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -302,7 +302,7 @@ requirements:
     - openldap =2.6.13 =h2f5043c_0
     - openssl =3.6.2 =hc881268_0
     - overrides =7.7.0 =pyhd8ed1ab_1
-    - packaging =26.0 =pyhcf101f3_0
+    - packaging =26.1 =pyhc364b38_0
     - pandoc =3.9.0.2 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =hf280016_1
@@ -585,7 +585,7 @@ requirements:
     - yaml-cpp =0.8.0 =h92383a6_0
     - yarl =1.23.0 =py312heb39f77_0
     - zeromq =4.3.5 =h27d9b8f_10
-    - zipp =3.23.0 =pyhcf101f3_1
+    - zipp =3.23.1 =pyhcf101f3_0
     - zlib =1.3.2 =hbb4bfdb_2
     - zlib-ng =2.3.3 =h8bce59a_1
     - zstandard =0.25.0 =py312h01f6755_1
