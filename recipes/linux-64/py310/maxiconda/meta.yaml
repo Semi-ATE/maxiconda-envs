@@ -90,11 +90,11 @@ requirements:
     - bwidget =1.10.1 =ha770c72_1
     - bzip2 =1.0.8 =hda65f42_9
     - c-ares =1.34.6 =hb03c661_0
-    - ca-certificates =2026.2.25 =hbd8a1cb_0
+    - ca-certificates =2026.4.22 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =he90730b_1
-    - certifi =2026.2.25 =pyhd8ed1ab_0
+    - certifi =2026.4.22 =pyhd8ed1ab_0
     - cffi =2.0.0 =py310he7384ee_1
     - charset-normalizer =3.4.7 =pyhd8ed1ab_0
     - click =8.3.2 =pyhc90fa1f_0
@@ -162,7 +162,7 @@ requirements:
     - jupyter-lsp =2.3.1 =pyhcf101f3_0
     - jupyter_client =8.8.0 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyhc90fa1f_0
-    - jupyter_events =0.12.0 =pyhe01879c_0
+    - jupyter_events =0.12.1 =pyhcf101f3_0
     - jupyter_server =2.17.0 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.4 =pyhcf101f3_0
     - jupyterlab =4.5.6 =pyhd8ed1ab_0
@@ -367,7 +367,7 @@ requirements:
     - r-future.apply =1.20.2 =r45hc72bb7e_0
     - r-gargle =1.6.1 =r45h785f33e_0
     - r-generics =0.1.4 =r45hc72bb7e_1
-    - r-ggplot2 =4.0.2 =r45h785f33e_0
+    - r-ggplot2 =4.0.3 =r45h785f33e_0
     - r-gistr =0.9.0 =r45hc72bb7e_4
     - r-glmnet =4.1_10 =r45ha36cffa_1
     - r-globals =0.19.1 =r45hc72bb7e_0
@@ -427,7 +427,7 @@ requirements:
     - r-plyr =1.8.9 =r45h3697838_3
     - r-prettyunits =1.2.0 =r45hc72bb7e_2
     - r-proc =1.19.0.1 =r45h3697838_1
-    - r-processx =3.8.7 =r45h54b55ab_0
+    - r-processx =3.9.0 =r45h54b55ab_0
     - r-prodlim =2026.03.11 =r45h3697838_0
     - r-progress =1.2.3 =r45hc72bb7e_2
     - r-progressr =0.19.0 =r45hc72bb7e_0
@@ -459,7 +459,7 @@ requirements:
     - r-rpart =4.1.27 =r45h54b55ab_0
     - r-rstudioapi =0.18.0 =r45hc72bb7e_0
     - r-rvest =1.0.5 =r45hc72bb7e_1
-    - r-s7 =0.2.1 =r45h54b55ab_0
+    - r-s7 =0.2.2 =r45h54b55ab_0
     - r-sass =0.4.10 =r45h3697838_1
     - r-scales =1.4.0 =r45hc72bb7e_1
     - r-selectr =0.5_1 =r45hc72bb7e_0
@@ -509,7 +509,7 @@ requirements:
     - ruamel.yaml.clib =0.2.15 =py310h139afa4_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-unknown-linux-gnu =1.94.0 =h2c6d0dc_0
-    - sed =4.9 =h6688a6e_0
+    - sed =4.10 =h19d0853_0
     - send2trash =2.1.0 =pyha191276_1
     - setuptools =82.0.1 =pyh332efcf_0
     - sip =6.10.0 =py310hea6c23e_1
@@ -542,7 +542,7 @@ requirements:
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - websocket-client =1.9.0 =pyhd8ed1ab_0
-    - wheel =0.46.3 =pyhd8ed1ab_0
+    - wheel =0.47.0 =pyhd8ed1ab_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xcb-util =0.4.1 =h4f16b4b_2
     - xcb-util-cursor =0.1.6 =hb03c661_0
