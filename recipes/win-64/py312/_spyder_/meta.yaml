@@ -26,7 +26,7 @@ requirements:
 
     # 10 primary packages :
     - cython =3.2.4 =py312hd245ac3_0
-    - matplotlib =3.10.8 =py312h2e8e312_0
+    - matplotlib =3.10.9 =py312h2e8e312_0
     - menuinst =2.4.2 =py312hbb81ca0_0
     - numpy =2.4.3 =py312ha3f287d_0
     - pandas =3.0.2 =py312h95189c4_0
@@ -68,7 +68,7 @@ requirements:
     - cattrs =26.1.0 =pyhcf101f3_1
     - certifi =2026.4.22 =pyhd8ed1ab_0
     - cffi =2.0.0 =py312he06e257_1
-    - chardet =5.2.0 =pyhd8ed1ab_3
+    - chardet =7.4.3 =pyhcf101f3_0
     - charset-normalizer =3.4.7 =pyhd8ed1ab_0
     - click =8.3.2 =pyh6dadd2b_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
@@ -120,7 +120,7 @@ requirements:
     - inflection =0.5.1 =pyhd8ed1ab_1
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.31.0 =pyh6dadd2b_0
-    - ipython =9.12.0 =pyhccfa634_0
+    - ipython =9.13.0 =pyhe2676ad_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
     - isort =8.0.1 =pyhd8ed1ab_0
     - jaraco.classes =3.4.0 =pyhcf101f3_3
@@ -180,7 +180,7 @@ requirements:
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.0.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py312h05f76fc_1
-    - matplotlib-base =3.10.8 =py312h0ebf65c_0
+    - matplotlib-base =3.10.9 =py312h0ebf65c_0
     - matplotlib-inline =0.2.1 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
@@ -249,7 +249,7 @@ requirements:
     - python-lsp-server =1.14.0 =pyh332efcf_0
     - python-lsp-server-base =1.14.0 =pyhd8ed1ab_0
     - python-slugify =8.0.4 =pyhd8ed1ab_1
-    - python-tzdata =2026.1 =pyhd8ed1ab_0
+    - python-tzdata =2026.2 =pyhd8ed1ab_0
     - python_abi =3.12 =8_cp312
     - pytokens =0.4.1 =py312he5662c2_1
     - pytoolconfig =1.2.5 =pyhd8ed1ab_1
@@ -269,7 +269,7 @@ requirements:
     - qtconsole-base =5.7.2 =pyha770c72_0
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - referencing =0.37.0 =pyhcf101f3_0
-    - requests =2.33.1 =pyhcf101f3_0
+    - requests =2.33.1 =pyhcf101f3_1
     - rich =15.0.0 =pyhcf101f3_0
     - roman-numerals =4.1.0 =pyhd8ed1ab_0
     - rope =1.14.0 =pyhd8ed1ab_0

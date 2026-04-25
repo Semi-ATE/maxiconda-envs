@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =3.2.4 =py310h0d97cfb_0
-    - matplotlib =3.10.8 =py310hbbe02a8_0
+    - matplotlib =3.10.9 =py310hbbe02a8_0
     - numpy =2.2.6 =py310h6e5608f_0
     - pandas =2.3.3 =py310hc97b22d_2
     - pyqt =5.15.11 =py310h5ffa702_2
@@ -68,7 +68,7 @@ requirements:
     - cattrs =26.1.0 =pyhcf101f3_1
     - certifi =2026.4.22 =pyhd8ed1ab_0
     - cffi =2.0.0 =py310h0826a50_1
-    - chardet =5.2.0 =pyhd8ed1ab_3
+    - chardet =7.4.3 =pyhcf101f3_0
     - charset-normalizer =3.4.7 =pyhd8ed1ab_0
     - click =8.3.2 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
@@ -216,7 +216,7 @@ requirements:
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.0.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py310h3b5aacf_1
-    - matplotlib-base =3.10.8 =py310hc06f52e_0
+    - matplotlib-base =3.10.9 =py310hc06f52e_0
     - matplotlib-inline =0.2.1 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
@@ -290,7 +290,7 @@ requirements:
     - python-lsp-server =1.14.0 =pyh332efcf_0
     - python-lsp-server-base =1.14.0 =pyhd8ed1ab_0
     - python-slugify =8.0.4 =pyhd8ed1ab_1
-    - python-tzdata =2026.1 =pyhd8ed1ab_0
+    - python-tzdata =2026.2 =pyhd8ed1ab_0
     - python_abi =3.10 =8_cp310
     - pytokens =0.4.1 =py310hef25091_1
     - pytoolconfig =1.2.5 =pyhd8ed1ab_1
@@ -311,7 +311,7 @@ requirements:
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - readline =8.3 =hb682ff5_0
     - referencing =0.37.0 =pyhcf101f3_0
-    - requests =2.33.1 =pyhcf101f3_0
+    - requests =2.33.1 =pyhcf101f3_1
     - rich =15.0.0 =pyhcf101f3_0
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py310haddc216_0

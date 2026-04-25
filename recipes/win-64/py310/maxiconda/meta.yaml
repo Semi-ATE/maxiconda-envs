@@ -31,11 +31,11 @@ requirements:
     - bitarray =3.8.0 =py310h29418f3_1
     - cython =3.2.4 =py310h23e71ea_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.152.1 =pyha770c72_0
+    - hypothesis =6.152.2 =pyha770c72_0
     - ipython =8.37.0 =pyha7b4d00_0
     - jinja2 =3.1.6 =pyhcf101f3_1
-    - matplotlib =3.10.8 =py310h5588dad_0
-    - numba =0.65.0 =py310h04bad52_1
+    - matplotlib =3.10.9 =py310h5588dad_0
+    - numba =0.65.1 =py310h04bad52_0
     - numpy =2.2.6 =py310h4987827_0
     - openpyxl =3.1.5 =py310h5fa2519_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -51,7 +51,7 @@ requirements:
     - r-base =4.5.3 =h9c56521_1
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.4.4 =py310h29418f3_0
-    - requests =2.33.1 =pyhcf101f3_0
+    - requests =2.33.1 =pyhcf101f3_1
     - rust =1.94.0 =hf8d6059_0
     - scipy =1.15.2 =py310h15c175c_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
@@ -216,7 +216,7 @@ requirements:
     - m2-conda-epoch =20250515 =0_x86_64
     - m2w64-sysroot_win-64 =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
     - markupsafe =3.0.3 =py310hdb0e946_1
-    - matplotlib-base =3.10.8 =py310h0bdd906_0
+    - matplotlib-base =3.10.9 =py310h0bdd906_0
     - matplotlib-inline =0.2.1 =pyhd8ed1ab_0
     - mingw-w64-ucrt-x86_64-crt-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
     - mingw-w64-ucrt-x86_64-headers-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
@@ -267,7 +267,7 @@ requirements:
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
-    - python-tzdata =2026.1 =pyhd8ed1ab_0
+    - python-tzdata =2026.2 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.10 =8_cp310
     - pytz =2026.1.post1 =pyhcf101f3_0

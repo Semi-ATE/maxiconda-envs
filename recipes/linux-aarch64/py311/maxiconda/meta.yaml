@@ -31,11 +31,11 @@ requirements:
     - bitarray =3.8.0 =py311h19352d5_1
     - cython =3.2.4 =py311hdc11669_0
     - grayskull =3.1.0 =pyhcf101f3_0
-    - hypothesis =6.152.1 =pyha770c72_0
-    - ipython =9.10.1 =pyh53cf698_0
+    - hypothesis =6.152.2 =pyha770c72_0
+    - ipython =9.13.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
-    - matplotlib =3.10.8 =py311hfecb2dc_0
-    - numba =0.65.0 =py311h1f64d6b_1
+    - matplotlib =3.10.9 =py311hfecb2dc_0
+    - numba =0.65.1 =py311h1f64d6b_0
     - numpy =2.4.3 =py311h669026d_0
     - openpyxl =3.1.5 =py311h2ae4cd7_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -51,7 +51,7 @@ requirements:
     - r-base =4.5.3 =h68a4b35_1
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.4.4 =py311h19352d5_0
-    - requests =2.33.1 =pyhcf101f3_0
+    - requests =2.33.1 =pyhcf101f3_1
     - rust =1.94.0 =h6cf38e9_0
     - scipy =1.17.1 =py311h399493a_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
@@ -271,7 +271,7 @@ requirements:
     - llvmlite =0.47.0 =py311h33fc238_1
     - make =4.4.1 =h2a6d0cb_2
     - markupsafe =3.0.3 =py311h2dad8b0_1
-    - matplotlib-base =3.10.8 =py311hb9c6b48_0
+    - matplotlib-base =3.10.9 =py311hb9c6b48_0
     - matplotlib-inline =0.2.1 =pyhd8ed1ab_0
     - mistune =3.2.0 =pyhcf101f3_0
     - mpc =1.4.0 =he6dc3fb_0
@@ -329,7 +329,7 @@ requirements:
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
-    - python-tzdata =2026.1 =pyhd8ed1ab_0
+    - python-tzdata =2026.2 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.11 =8_cp311
     - pyxdg =0.28 =pyhd8ed1ab_0
