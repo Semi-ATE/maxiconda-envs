@@ -312,7 +312,7 @@ requirements:
     - openldap =2.6.13 =h2fb54aa_0
     - openssl =3.6.2 =h546c87b_0
     - overrides =7.7.0 =pyhd8ed1ab_1
-    - packaging =26.1 =pyhc364b38_0
+    - packaging =26.2 =pyhc364b38_0
     - pandoc =3.9.0.2 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h8547ced_1
@@ -383,7 +383,7 @@ requirements:
     - r-cpp11 =0.5.4 =r45h785f33e_0
     - r-crayon =1.5.3 =r45hc72bb7e_2
     - r-crul =1.6.0 =r45hc72bb7e_1
-    - r-curl =7.0.0 =r45hd8a8d9c_1
+    - r-curl =7.1.0 =r45hd8a8d9c_0
     - r-data.table =1.17.8 =r45hf793dc1_1
     - r-dbi =1.3.0 =r45hc72bb7e_0
     - r-dbplyr =2.5.2 =r45hc72bb7e_0
@@ -402,7 +402,7 @@ requirements:
     - r-foreach =1.5.2 =r45hc72bb7e_4
     - r-foreign =0.8_91 =r45h0557e7b_0
     - r-formatr =1.14 =r45hc72bb7e_3
-    - r-fs =1.6.7 =r45h08b74da_0
+    - r-fs =2.1.0 =r45hd601667_0
     - r-future =1.70.0 =r45hc72bb7e_0
     - r-future.apply =1.20.2 =r45hc72bb7e_0
     - r-gargle =1.6.1 =r45h785f33e_0
@@ -474,7 +474,7 @@ requirements:
     - r-promises =1.5.0 =r45hc72bb7e_1
     - r-proxy =0.4_29 =r45h0557e7b_0
     - r-pryr =0.1.6 =r45h08b74da_3
-    - r-ps =1.9.2 =r45h0557e7b_0
+    - r-ps =1.9.3 =r45h0557e7b_0
     - r-purrr =1.2.2 =r45h0557e7b_0
     - r-quantmod =0.4.28 =r45hc72bb7e_1
     - r-r6 =2.6.1 =r45hc72bb7e_1
@@ -576,7 +576,7 @@ requirements:
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - truststore =0.10.4 =pyhcf101f3_0
     - typing-extensions =4.15.0 =h396c80c_0
-    - typing-inspection =0.4.2 =pyhd8ed1ab_1
+    - typing-inspection =0.4.2 =pyhcf101f3_2
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
     - tzdata =2025c =hc9c84f9_1
