@@ -116,7 +116,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h9afee92_1
     - cpython =3.8.20 =py38hd8ed1ab_2
-    - curl =8.19.0 =hd5a2499_0
+    - curl =8.20.0 =hd5a2499_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cyrus-sasl =2.1.28 =hb961e35_1
     - debugpy =1.8.5 =py38h11842c7_0
@@ -140,8 +140,8 @@ requirements:
     - frozenlist =1.4.1 =py38h336bac9_0
     - gfortran_impl_osx-arm64 =14.3.0 =h6d03799_1
     - gfortran_osx-arm64 =14.3.0 =h3c33bd0_0
-    - glib =2.86.4 =h903c028_1
-    - glib-tools =2.86.4 =h60c1bae_1
+    - glib =2.88.0 =h5ab93a3_0
+    - glib-tools =2.88.0 =h188cdc8_0
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.1.5 =py38he1ac458_1
     - graphite2 =1.3.14 =hec049ff_2
@@ -197,7 +197,7 @@ requirements:
     - libclang-cpp22.1 =22.1.4 =default_hf3020a7_0
     - libclang13 =22.1.4 =default_h13b06bd_0
     - libcompiler-rt =22.1.4 =hd34ed20_0
-    - libcurl =8.19.0 =hd5a2499_0
+    - libcurl =8.20.0 =hd5a2499_0
     - libcxx =22.1.4 =h55c6f16_0
     - libcxx-devel =22.1.4 =h6dc3340_0
     - libcxx-headers =22.1.4 =h707e725_0
@@ -213,7 +213,7 @@ requirements:
     - libgfortran =15.2.0 =h07b0088_18
     - libgfortran-devel_osx-arm64 =14.3.0 =hc965647_1
     - libgfortran5 =15.2.0 =hdae7583_18
-    - libglib =2.86.4 =he378b5c_1
+    - libglib =2.88.0 =hc04fd66_0
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0

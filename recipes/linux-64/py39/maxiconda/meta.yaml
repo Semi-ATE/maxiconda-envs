@@ -83,9 +83,9 @@ requirements:
     - binutils_impl_linux-64 =2.45.1 =default_hfdba357_102
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.2.0 =hed03a55_1
-    - brotli-bin =1.2.0 =hb03c661_1
-    - brotli-python =1.0.9 =py39h5a03fae_8
+    - brotli =1.1.0 =hb9d3cd8_3
+    - brotli-bin =1.1.0 =hb9d3cd8_3
+    - brotli-python =1.1.0 =py39hf88036b_3
     - bwidget =1.10.1 =ha770c72_1
     - bzip2 =1.0.8 =hda65f42_9
     - c-ares =1.34.6 =hb03c661_0
@@ -178,16 +178,16 @@ requirements:
     - ld_impl_linux-64 =2.45.1 =default_hbd61a6d_102
     - lerc =4.1.0 =hdb68285_0
     - libblas =3.11.0 =6_h4a7cf45_openblas
-    - libbrotlicommon =1.2.0 =hb03c661_1
-    - libbrotlidec =1.2.0 =hb03c661_1
-    - libbrotlienc =1.2.0 =hb03c661_1
+    - libbrotlicommon =1.1.0 =hb9d3cd8_3
+    - libbrotlidec =1.1.0 =hb9d3cd8_3
+    - libbrotlienc =1.1.0 =hb9d3cd8_3
     - libcap =2.77 =hd0affe5_1
     - libcblas =3.11.0 =6_h0358290_openblas
     - libclang-cpp20.1 =20.1.8 =default_h99862b1_15
     - libclang13 =21.1.0 =default_h746c552_1
     - libcups =2.3.3 =hb8b1518_5
     - libcurl =8.18.0 =h4e3cde8_0
-    - libdeflate =1.24 =h86f0d12_0
+    - libdeflate =1.25 =h17f619e_0
     - libdrm =2.4.125 =hb03c661_1
     - libedit =3.1.20250104 =pl5321h7949ede_0
     - libegl =1.7.0 =ha4b6fd6_2
@@ -235,7 +235,7 @@ requirements:
     - libstdcxx-devel_linux-64 =15.2.0 =hd446a21_118
     - libstdcxx-ng =15.2.0 =hdf11a46_18
     - libsystemd0 =260.1 =h6569c3e_0
-    - libtiff =4.7.1 =h8261f1e_0
+    - libtiff =4.7.1 =h9d88235_1
     - libuuid =2.42 =h5347b49_0
     - libuv =1.51.0 =hb03c661_1
     - libvorbis =1.3.7 =h54a6638_2

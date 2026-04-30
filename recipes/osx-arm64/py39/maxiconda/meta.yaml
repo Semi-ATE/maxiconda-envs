@@ -81,9 +81,9 @@ requirements:
     - babel =2.17.0 =pyhd8ed1ab_0
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.2.0 =h7d5ae5b_1
-    - brotli-bin =1.2.0 =hc919400_1
-    - brotli-python =1.0.9 =py39h23fbdae_8
+    - brotli =1.1.0 =h5505292_3
+    - brotli-bin =1.1.0 =h5505292_3
+    - brotli-python =1.1.0 =py39h941272d_3
     - bwidget =1.10.1 =hce30654_1
     - bzip2 =1.0.8 =hd037594_9
     - c-ares =1.34.6 =hc919400_0
@@ -114,7 +114,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_1
     - contourpy =1.3.0 =py39h85b62ae_2
     - cpython =3.9.23 =py39hd8ed1ab_0
-    - curl =8.19.0 =hd5a2499_0
+    - curl =8.20.0 =hd5a2499_0
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =hb961e35_1
     - debugpy =1.8.16 =py39hd866990_0
@@ -137,8 +137,8 @@ requirements:
     - frozenlist =1.7.0 =py39h2ffb7dc_0
     - gfortran_impl_osx-arm64 =14.3.0 =h6d03799_1
     - gfortran_osx-arm64 =14.3.0 =h3c33bd0_0
-    - glib =2.86.4 =h903c028_1
-    - glib-tools =2.86.4 =h60c1bae_1
+    - glib =2.88.0 =h5ab93a3_0
+    - glib-tools =2.88.0 =h188cdc8_0
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.2.1 =py39h478d0be_0
     - graphite2 =1.3.14 =hec049ff_2
@@ -186,15 +186,15 @@ requirements:
     - lerc =4.1.0 =h1eee2c3_0
     - libasprintf =0.25.1 =h493aca8_0
     - libblas =3.11.0 =6_h51639a9_openblas
-    - libbrotlicommon =1.2.0 =hc919400_1
-    - libbrotlidec =1.2.0 =hc919400_1
-    - libbrotlienc =1.2.0 =hc919400_1
+    - libbrotlicommon =1.1.0 =h5505292_3
+    - libbrotlidec =1.1.0 =h5505292_3
+    - libbrotlienc =1.1.0 =h5505292_3
     - libcblas =3.11.0 =6_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp22.1 =22.1.4 =default_hf3020a7_0
     - libclang13 =22.1.4 =default_h13b06bd_0
     - libcompiler-rt =22.1.4 =hd34ed20_0
-    - libcurl =8.19.0 =hd5a2499_0
+    - libcurl =8.20.0 =hd5a2499_0
     - libcxx =22.1.4 =h55c6f16_0
     - libcxx-devel =22.1.4 =h6dc3340_0
     - libcxx-headers =22.1.4 =h707e725_0
@@ -210,7 +210,7 @@ requirements:
     - libgfortran =15.2.0 =h07b0088_18
     - libgfortran-devel_osx-arm64 =14.3.0 =hc965647_1
     - libgfortran5 =15.2.0 =hdae7583_18
-    - libglib =2.86.4 =he378b5c_1
+    - libglib =2.88.0 =hc04fd66_0
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0

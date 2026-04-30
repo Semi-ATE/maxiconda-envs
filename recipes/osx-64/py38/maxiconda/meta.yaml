@@ -100,11 +100,11 @@ requirements:
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hc8bcfa4_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
-    - clang =22.1.4 =default_cfg_h93fe8ef_0
+    - clang =22.1.4 =default_nocfg_ha939c3f_0
     - clang-22 =22.1.4 =default_h3b8fe2e_0
-    - clang_impl_osx-64 =22.1.4 =default_he9bf3b8_0
+    - clang_impl_osx-64 =22.1.4 =default_hb18168d_0
     - clang_osx-64 =22.1.4 =h4e561bf_31
-    - clangxx_impl_osx-64 =22.1.4 =default_he9bf3b8_0
+    - clangxx_impl_osx-64 =22.1.4 =default_hb18168d_0
     - clangxx_osx-64 =22.1.4 =h4e561bf_31
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.1.0 =pyhd8ed1ab_1
@@ -117,7 +117,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h15a1a5b_1
     - cpython =3.8.20 =py38hd8ed1ab_2
-    - curl =8.19.0 =h8f0b9e4_0
+    - curl =8.20.0 =h8f0b9e4_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cyrus-sasl =2.1.28 =h7cc0300_1
     - debugpy =1.8.5 =py38h8949568_0
@@ -141,8 +141,8 @@ requirements:
     - frozenlist =1.4.1 =py38hae2e43d_0
     - gfortran_impl_osx-64 =14.3.0 =h94fe04d_1
     - gfortran_osx-64 =14.3.0 =h3223c34_0
-    - glib =2.86.4 =hdc7079d_1
-    - glib-tools =2.86.4 =h8501676_1
+    - glib =2.88.0 =hf35a506_0
+    - glib-tools =2.88.0 =h2ddd286_0
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.1.5 =py38hdb2c785_1
     - graphite2 =1.3.14 =h21dd04a_2
@@ -198,7 +198,7 @@ requirements:
     - libclang-cpp22.1 =22.1.4 =default_h9399c5b_0
     - libclang13 =22.1.4 =default_h2429e1b_0
     - libcompiler-rt =22.1.4 =h1637cdf_0
-    - libcurl =8.19.0 =h8f0b9e4_0
+    - libcurl =8.20.0 =h8f0b9e4_0
     - libcxx =22.1.4 =h19cb2f5_0
     - libcxx-devel =22.1.4 =h7c275be_0
     - libcxx-headers =22.1.4 =h707e725_0
@@ -214,7 +214,7 @@ requirements:
     - libgfortran =15.2.0 =h7e5c614_18
     - libgfortran-devel_osx-64 =14.3.0 =h660b60f_1
     - libgfortran5 =15.2.0 =hd16e46c_18
-    - libglib =2.86.4 =hec30fc1_1
+    - libglib =2.88.0 =h7065de2_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1

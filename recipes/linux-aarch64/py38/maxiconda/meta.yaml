@@ -85,9 +85,9 @@ requirements:
     - backports.zoneinfo =0.2.1 =py38h9579f32_8
     - binutils_impl_linux-aarch64 =2.45.1 =default_h5f4c503_102
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.2.0 =hd651790_1
-    - brotli-bin =1.2.0 =he30d5cf_1
-    - brotli-python =1.0.9 =py38h5f8a8d0_8
+    - brotli =1.1.0 =h31becfc_1
+    - brotli-bin =1.1.0 =h31becfc_1
+    - brotli-python =1.1.0 =py38hb83fbf6_1
     - bwidget =1.10.1 =h8af1aa0_1
     - bzip2 =1.0.8 =h4777abc_9
     - c-ares =1.34.6 =he30d5cf_0
@@ -105,7 +105,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38hb4b5b6f_1
     - cpython =3.8.20 =py38hd8ed1ab_2
-    - curl =8.19.0 =hc57f145_0
+    - curl =8.20.0 =hc57f145_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cyrus-sasl =2.1.28 =h6598af7_1
     - dbus =1.16.2 =h70963c4_1
@@ -180,15 +180,15 @@ requirements:
     - ld_impl_linux-aarch64 =2.45.1 =default_h1979696_102
     - lerc =4.1.0 =h52b7260_0
     - libblas =3.9.0 =20_linuxaarch64_openblas
-    - libbrotlicommon =1.2.0 =he30d5cf_1
-    - libbrotlidec =1.2.0 =he30d5cf_1
-    - libbrotlienc =1.2.0 =he30d5cf_1
+    - libbrotlicommon =1.1.0 =h31becfc_1
+    - libbrotlidec =1.1.0 =h31becfc_1
+    - libbrotlienc =1.1.0 =h31becfc_1
     - libcap =2.77 =hf9559e3_1
     - libcblas =3.9.0 =20_linuxaarch64_openblas
     - libclang-cpp22.1 =22.1.4 =default_he95a3c9_0
     - libclang13 =22.1.4 =default_h94a09a5_0
     - libcups =2.3.3 =h4f2b762_6
-    - libcurl =8.19.0 =hc57f145_0
+    - libcurl =8.20.0 =hc57f145_0
     - libdeflate =1.25 =h1af38f5_0
     - libdrm =2.4.125 =he30d5cf_1
     - libedit =3.1.20250104 =pl5321h976ea20_0

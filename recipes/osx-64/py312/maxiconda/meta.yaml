@@ -64,11 +64,10 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 525 secondary packages :
+    # 515 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
-    - adwaita-icon-theme =49.0 =unix_0
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
@@ -80,7 +79,6 @@ requirements:
     - arrow =1.4.0 =pyhcf101f3_0
     - asttokens =3.0.1 =pyhd8ed1ab_0
     - async-lru =2.3.0 =pyhcf101f3_0
-    - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =26.1.0 =pyhcf101f3_0
     - babel =2.18.0 =pyhcf101f3_1
     - backports.zstd =1.3.0 =py312h6917036_0
@@ -103,13 +101,13 @@ requirements:
     - certifi =2026.4.22 =pyhd8ed1ab_0
     - cffi =2.0.0 =py312he90777b_1
     - charset-normalizer =3.4.7 =pyhd8ed1ab_0
-    - clang =22.1.4 =default_cfg_h93fe8ef_0
+    - clang =22.1.4 =default_nocfg_ha939c3f_0
     - clang-22 =22.1.4 =default_h3b8fe2e_0
-    - clang_impl_osx-64 =22.1.4 =default_he9bf3b8_0
+    - clang_impl_osx-64 =22.1.4 =default_hb18168d_0
     - clang_osx-64 =22.1.4 =h4e561bf_31
-    - clangxx_impl_osx-64 =22.1.4 =default_he9bf3b8_0
+    - clangxx_impl_osx-64 =22.1.4 =default_hb18168d_0
     - clangxx_osx-64 =22.1.4 =h4e561bf_31
-    - click =8.3.3 =pyhc90fa1f_0
+    - click =8.2.1 =pyh707e725_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -117,24 +115,24 @@ requirements:
     - compiler-rt22 =22.1.4 =h1637cdf_0
     - compiler-rt22_osx-64 =22.1.4 =hcf80936_0
     - compiler-rt_osx-64 =22.1.4 =h694c41f_0
-    - conda =26.3.2 =py312hb401068_0
+    - conda =26.3.2 =py312hb401068_1
     - conda-libmamba-solver =26.4.0 =pyhd8ed1ab_0
     - conda-package-handling =2.4.0 =pyh7900ff3_2
     - conda-package-streaming =0.12.0 =pyhd8ed1ab_0
-    - conda-recipe-manager =0.5.0 =pyhd8ed1ab_0
+    - conda-recipe-manager =0.10.2 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py312hb0c38da_4
     - cpp-expected =1.3.1 =h0ba0a54_0
     - cpython =3.12.13 =py312hd8ed1ab_0
-    - curl =8.19.0 =h8f0b9e4_0
+    - curl =8.20.0 =h8f0b9e4_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h7cc0300_1
     - debugpy =1.8.20 =py312h29de90a_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - distro =1.9.0 =pyhd8ed1ab_1
-    - epoxy =1.5.10 =h8616949_2
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
+    - evalidate =2.0.5 =pyhe01879c_0
     - exceptiongroup =1.3.1 =pyhd8ed1ab_0
     - executing =2.2.1 =pyhd8ed1ab_0
     - fmt =12.1.0 =hda137b5_0
@@ -151,27 +149,22 @@ requirements:
     - fribidi =1.0.16 =h8616949_0
     - frozendict =2.4.7 =py312h80b0991_0
     - frozenlist =1.7.0 =py312h18bfd43_0
-    - gdk-pixbuf =2.44.6 =hae309b2_0
     - gfortran_impl_osx-64 =14.3.0 =h94fe04d_1
     - gfortran_osx-64 =14.3.0 =h3223c34_0
     - gitdb =4.0.12 =pyhd8ed1ab_0
-    - gitpython =3.1.48 =pyhd8ed1ab_0
-    - glib =2.86.4 =hdc7079d_1
-    - glib-tools =2.86.4 =h8501676_1
+    - gitpython =3.1.49 =pyhd8ed1ab_0
+    - glib =2.88.0 =hf35a506_0
+    - glib-tools =2.88.0 =h2ddd286_0
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.3.0 =py312he58dab6_1
     - graphite2 =1.3.14 =h21dd04a_2
-    - graphviz =14.1.2 =h44fc223_0
     - greenlet =3.5.0 =py312h4075484_0
     - gsl =2.7 =h93259b0_0
     - gst-plugins-base =1.26.11 =h79212b8_0
     - gstreamer =1.26.11 =h5bdcca5_0
-    - gtk3 =3.24.52 =hf2d442a_0
-    - gts =0.7.6 =h53e17e3_4
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.3.0 =pyhcf101f3_0
     - harfbuzz =14.2.0 =hf0bc557_0
-    - hicolor-icon-theme =0.17 =h694c41f_3
     - hpack =4.1.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -198,7 +191,7 @@ requirements:
     - jupyter_events =0.12.1 =pyhcf101f3_0
     - jupyter_server =2.17.0 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.4 =pyhcf101f3_0
-    - jupyterlab =4.5.6 =pyhd8ed1ab_0
+    - jupyterlab =4.5.7 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.0 =pyhcf101f3_0
     - kiwisolver =1.5.0 =py312hb1dc2e7_0
@@ -219,7 +212,7 @@ requirements:
     - libclang-cpp22.1 =22.1.4 =default_h9399c5b_0
     - libclang13 =22.1.4 =default_h2429e1b_0
     - libcompiler-rt =22.1.4 =h1637cdf_0
-    - libcurl =8.19.0 =h8f0b9e4_0
+    - libcurl =8.20.0 =h8f0b9e4_0
     - libcxx =22.1.4 =h19cb2f5_0
     - libcxx-devel =22.1.4 =h7c275be_0
     - libcxx-headers =22.1.4 =h707e725_0
@@ -231,12 +224,11 @@ requirements:
     - libfreetype =2.14.3 =h694c41f_0
     - libfreetype6 =2.14.3 =h58fbd8d_0
     - libgcc =15.2.0 =h08519bb_18
-    - libgd =2.3.3 =hb2c11ec_12
     - libgettextpo =0.25.1 =h3184127_1
     - libgfortran =15.2.0 =h7e5c614_18
     - libgfortran-devel_osx-64 =14.3.0 =h660b60f_1
     - libgfortran5 =15.2.0 =hd16e46c_18
-    - libglib =2.86.4 =hec30fc1_1
+    - libglib =2.88.0 =h7065de2_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
@@ -245,9 +237,10 @@ requirements:
     - libllvm18 =18.1.8 =default_h9399c5b_12
     - libllvm22 =22.1.4 =hab754da_0
     - liblzma =5.8.3 =hbb4bfdb_0
-    - libmamba =2.5.0 =h7fe6c55_0
-    - libmamba-spdlog =2.5.0 =hb923e0c_0
-    - libmambapy =2.5.0 =py312h0852a77_0
+    - libmamba =2.6.0 =hf71f5bf_0
+    - libmamba-spdlog =2.6.0 =h70c7cb4_0
+    - libmambapy =2.6.0 =py312h4b7737d_0
+    - libmsgpack-c =6.1.0 =h06076ce_6
     - libnghttp2 =1.68.1 =h70048d4_0
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =he3325bb_1
@@ -255,7 +248,6 @@ requirements:
     - libopus =1.6.1 =hc6ced15_0
     - libpng =1.6.58 =he930e7c_0
     - libpq =18.3 =h94170d9_0
-    - librsvg =2.62.1 =h7321050_0
     - libsigtool =0.1.3 =hc0f2934_0
     - libsodium =1.0.21 =hc6ced15_3
     - libsolv =0.7.37 =hf97c9bc_0
@@ -292,7 +284,6 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.6 =hcc0dc9a_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - networkx =3.6.1 =pyhcf101f3_0
     - nlohmann_json-abi =3.12.0 =h0f90c79_1
     - notebook =7.5.5 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
@@ -328,7 +319,6 @@ requirements:
     - pycparser =2.22 =pyh29332c3_1
     - pydantic-core =2.46.3 =py312hc1db7ba_0
     - pygments =2.20.0 =pyhd8ed1ab_0
-    - pygraphviz =1.14 =py312h9f547f1_3
     - pyobjc-core =12.1 =py312h4a480f0_0
     - pyobjc-framework-cocoa =12.1 =py312h1993040_0
     - pyparsing =3.3.2 =pyhcf101f3_0
@@ -544,7 +534,7 @@ requirements:
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =82.0.1 =pyh332efcf_0
     - sigtool-codesign =0.1.3 =hc0f2934_0
-    - simdjson =4.2.4 =hcb651aa_0
+    - simdjson =4.6.3 =hc1436ee_0
     - sip =6.10.0 =py312h69bf00f_1
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.3 =pyhd8ed1ab_0

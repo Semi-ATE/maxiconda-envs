@@ -32,25 +32,20 @@ requirements:
     - pyqt =5.15.9 =py38he1c912d_5
     - pyqtwebengine =5.15.9 =py38hf9b569d_5
     - scipy =1.10.1 =py38h9cf86d3_3
-    - spyder =6.0.4 =hd8ed1ab_1
+    - spyder =5.4.5 =py38h50d1736_0
     - sympy =1.13.3 =pyh2585a3b_104
 
-    # 306 secondary packages :
+    # 286 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
-    - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
-    - aiohttp =3.10.5 =py38hc718529_0
-    - aiosignal =1.3.1 =pyhd8ed1ab_0
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - applaunchservices =0.3.0 =pyh534df25_3
     - appnope =0.1.4 =pyhd8ed1ab_0
     - arrow =1.3.0 =pyhd8ed1ab_0
-    - astroid =3.2.4 =py38h50d1736_0
+    - astroid =2.15.8 =py38h50d1736_0
     - asttokens =3.0.0 =pyhd8ed1ab_0
-    - async-timeout =4.0.3 =pyhd8ed1ab_0
-    - asyncssh =2.19.0 =pyhd8ed1ab_0
     - atomicwrites =1.4.1 =pyhd8ed1ab_0
     - attrs =24.2.0 =pyh71513ae_0
-    - autopep8 =2.0.4 =pyhd8ed1ab_0
+    - autopep8 =2.0.2 =pyhd8ed1ab_0
     - babel =2.16.0 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_4
@@ -76,20 +71,18 @@ requirements:
     - contourpy =1.1.1 =py38h15a1a5b_1
     - cookiecutter =2.6.0 =pyhca7485f_0
     - cpython =3.8.20 =py38hd8ed1ab_2
-    - cryptography =43.0.0 =py38h09e535d_0
     - cycler =0.12.1 =pyhd8ed1ab_0
-    - cyrus-sasl =2.1.28 =h610c526_0
+    - cyrus-sasl =2.1.28 =h7cc0300_1
     - debugpy =1.8.5 =py38h8949568_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
-    - deprecated =1.2.15 =pyhff2d567_0
     - diff-match-patch =20241021 =pyhd8ed1ab_0
     - dill =0.3.9 =pyhd8ed1ab_0
     - docstring-to-markdown =0.15 =pyhd8ed1ab_0
     - docutils =0.20.1 =py38h50d1736_3
     - entrypoints =0.4 =pyhd8ed1ab_0
     - executing =2.1.0 =pyhd8ed1ab_0
-    - flake8 =7.1.1 =pyhd8ed1ab_0
+    - flake8 =5.0.4 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -100,11 +93,9 @@ requirements:
     - fonttools =4.53.1 =py38hc718529_0
     - freetype =2.14.3 =h694c41f_0
     - fribidi =1.0.16 =h8616949_0
-    - frozenlist =1.4.1 =py38hae2e43d_0
-    - fzf =0.72.0 =h990441c_0
     - giflib =5.2.2 =h10d778d_0
-    - glib =2.86.4 =hdc7079d_1
-    - glib-tools =2.86.4 =h8501676_1
+    - glib =2.88.0 =hf35a506_0
+    - glib-tools =2.88.0 =h2ddd286_0
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.1.5 =py38hdb2c785_1
     - graphite2 =1.3.14 =h21dd04a_2
@@ -119,17 +110,17 @@ requirements:
     - imagesize =1.4.1 =pyhd8ed1ab_0
     - importlib-metadata =8.5.0 =pyha770c72_0
     - importlib-resources =6.4.5 =pyhd8ed1ab_0
-    - importlib_metadata =8.5.0 =hd8ed1ab_1
     - importlib_resources =6.4.5 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyh9f0ad1d_0
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.29.5 =pyh57ce528_0
     - ipython =8.12.2 =pyhd1c38e8_0
+    - ipython_genutils =0.2.0 =pyhd8ed1ab_1
     - isort =5.13.2 =pyhd8ed1ab_0
     - jaraco.classes =3.4.0 =pyhd8ed1ab_1
     - jaraco.context =5.3.0 =pyhd8ed1ab_1
     - jaraco.functools =4.0.0 =pyhd8ed1ab_0
-    - jedi =0.19.1 =pyhd8ed1ab_0
+    - jedi =0.18.2 =pyhd8ed1ab_0
     - jellyfish =1.1.0 =py38h2c15f49_0
     - jinja2 =3.1.4 =pyhd8ed1ab_0
     - jsonschema =4.23.0 =pyhd8ed1ab_0
@@ -139,7 +130,8 @@ requirements:
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - keyring =25.5.0 =pyh534df25_0
     - kiwisolver =1.4.5 =py38h15a1a5b_1
-    - krb5 =1.21.3 =h37d8d59_0
+    - krb5 =1.22.2 =h207b36a_0
+    - lazy-object-proxy =1.10.0 =py38hae2e43d_0
     - lcms2 =2.19 =h5ea7634_0
     - lerc =4.1.0 =h35c7297_0
     - libblas =3.9.0 =20_osx64_openblas
@@ -159,7 +151,7 @@ requirements:
     - libgcc =15.2.0 =h08519bb_18
     - libgfortran =15.2.0 =h7e5c614_18
     - libgfortran5 =15.2.0 =hd16e46c_18
-    - libglib =2.86.4 =hec30fc1_1
+    - libglib =2.88.0 =h7065de2_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
@@ -174,7 +166,7 @@ requirements:
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.6.1 =hc6ced15_0
     - libpng =1.6.58 =he930e7c_0
-    - libpq =18.2 =hb73b81d_0
+    - libpq =18.3 =h94170d9_0
     - libsodium =1.0.18 =hbcb3906_1
     - libspatialindex =2.0.0 =hf036a51_0
     - libsqlite =3.53.0 =h8f8c405_0
@@ -198,7 +190,6 @@ requirements:
     - mpc =1.4.0 =h31caf2d_0
     - mpfr =4.2.2 =h31caf2d_0
     - mpmath =1.3.0 =pyhd8ed1ab_0
-    - multidict =6.0.5 =py38hef030d1_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =1.0.0 =pyha770c72_0
     - nbclient =0.10.4 =pyhd8ed1ab_0
@@ -212,7 +203,7 @@ requirements:
     - nss =3.118 =h2b2a826_0
     - numpydoc =1.7.0 =pyhd8ed1ab_3
     - openjpeg =2.5.4 =h52bb76a_0
-    - openldap =2.6.10 =hd8a590d_0
+    - openldap =2.6.13 =h2f5043c_0
     - openssl =3.6.2 =hc881268_0
     - packaging =26.2 =pyhc364b38_0
     - pandoc =3.9.0.2 =h694c41f_0
@@ -237,50 +228,42 @@ requirements:
     - pthread-stubs =0.4 =h00291cd_1002
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pure_eval =0.2.3 =pyhd8ed1ab_0
-    - pycodestyle =2.12.1 =pyhd8ed1ab_0
-    - pyconify =0.1.6 =pyhd8ed1ab_0
+    - pycodestyle =2.9.1 =pyhd8ed1ab_0
     - pycparser =2.22 =pyhd8ed1ab_0
     - pydocstyle =6.3.0 =pyhd8ed1ab_0
-    - pyflakes =3.2.0 =pyhd8ed1ab_0
-    - pygithub =2.9.1 =pyhd8ed1ab_0
+    - pyflakes =2.5.0 =pyhd8ed1ab_0
     - pygments =2.18.0 =pyhd8ed1ab_0
-    - pyjwt =2.9.0 =pyhd8ed1ab_1
-    - pylint =3.2.7 =pyhd8ed1ab_0
+    - pylint =2.17.7 =pyhd8ed1ab_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_0
     - pyls-spyder =0.4.0 =pyhd8ed1ab_0
-    - pynacl =1.5.0 =py38hcafd530_3
     - pyobjc-core =10.3.1 =py38h39ae85e_0
     - pyobjc-framework-cocoa =10.3.1 =py38h39ae85e_0
     - pyobjc-framework-coreservices =10.3.1 =py38hc718529_0
     - pyobjc-framework-fsevents =10.3.1 =py38h50d1736_0
-    - pyopenssl =24.2.1 =pyhd8ed1ab_2
     - pyparsing =3.1.4 =pyhd8ed1ab_0
     - pyqt5-sip =12.12.2 =py38h45c2d83_5
     - pysocks =1.7.1 =pyha2e5f31_6
     - python-dateutil =2.9.0 =pyhd8ed1ab_0
     - python-fastjsonschema =2.20.0 =pyhd8ed1ab_0
-    - python-gssapi =1.8.3 =py38hc534d55_0
     - python-lsp-black =2.0.0 =pyhd8ed1ab_0
     - python-lsp-jsonrpc =1.1.2 =pyhd8ed1ab_0
-    - python-lsp-server =1.12.0 =pyhd8ed1ab_0
-    - python-lsp-server-base =1.12.0 =pyhd8ed1ab_0
+    - python-lsp-server =1.7.4 =pyhd8ed1ab_0
+    - python-lsp-server-base =1.7.4 =pyhd8ed1ab_0
     - python-slugify =8.0.4 =pyhd8ed1ab_0
     - python-tzdata =2024.2 =pyhd8ed1ab_0
     - python.app =1.4 =py38hcafd530_3
     - python_abi =3.8 =8_cp38
     - pytoolconfig =1.2.5 =pyhd8ed1ab_0
     - pytz =2024.2 =pyhd8ed1ab_0
-    - pyuca =1.2 =py_1
-    - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.2 =py38hc718529_0
     - pyzmq =26.2.0 =py38hd99e78f_0
-    - qdarkstyle =3.2.3 =pyhd8ed1ab_0
+    - qdarkstyle =3.1 =pyhd8ed1ab_0
     - qstylizer =0.2.3 =pyhd8ed1ab_0
-    - qt-main =5.15.15 =h7c652a0_7
+    - qt-main =5.15.15 =h650d4b3_8
     - qt-webengine =5.15.15 =h46887bd_1
     - qtawesome =1.3.1 =pyh9208f05_0
-    - qtconsole =5.6.1 =pyhd8ed1ab_0
-    - qtconsole-base =5.6.1 =pyha770c72_0
+    - qtconsole =5.4.4 =pyhd8ed1ab_0
+    - qtconsole-base =5.4.4 =pyha770c72_0
     - qtpy =2.4.2 =pyhdecd6ff_0
     - readline =8.3 =h68b038d_0
     - referencing =0.35.1 =pyhd8ed1ab_0
@@ -302,10 +285,8 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_0
     - sphinxcontrib-qthelp =1.0.3 =py_0
     - sphinxcontrib-serializinghtml =1.1.5 =pyhd8ed1ab_2
-    - spyder-base =6.0.4 =osx_pyh1a5313d_1
-    - spyder-kernels =3.0.5 =unix_pyh707e725_0
+    - spyder-kernels =2.4.4 =unix_pyh707e725_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
-    - superqt =0.6.7 =pyh9208f05_0
     - tabulate =0.9.0 =pyhd8ed1ab_1
     - text-unidecode =1.3 =pyhd8ed1ab_1
     - textdistance =4.6.3 =pyhd8ed1ab_0
@@ -337,8 +318,7 @@ requirements:
     - xz-tools =5.8.3 =hbb4bfdb_0
     - yaml =0.2.5 =h4132b18_3
     - yapf =0.40.1 =pyhd8ed1ab_0
-    - yarl =1.9.4 =py38hae2e43d_0
-    - zeromq =4.3.5 =hde137ed_4
+    - zeromq =4.3.5 =h93d8f39_0
     - zipp =3.21.0 =pyhd8ed1ab_0
     - zstandard =0.19.0 =py38hef030d1_0
     - zstd =1.5.7 =h3eecb57_6
