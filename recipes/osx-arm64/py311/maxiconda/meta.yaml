@@ -51,7 +51,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.4.4 =py311hc949640_0
     - requests =2.33.1 =pyhcf101f3_1
-    - rust =1.94.0 =h4ff7c5d_1
+    - rust =1.95.0 =h4ff7c5d_1
     - scipy =1.17.1 =py311he9931d0_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.4 =unix_pyh707e725_0
@@ -265,7 +265,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.6 =h1d4f5a5_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - notebook =7.5.5 =pyhcf101f3_0
+    - notebook =7.5.6 =pyhcf101f3_1
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.38 =heaf21c2_0
     - nss =3.118 =h1c710a3_0
@@ -507,7 +507,7 @@ requirements:
     - ruamel.yaml.clib =0.2.15 =py311he363849_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - ruamel_yaml =0.15.80 =py311heffc1b2_1009
-    - rust-std-aarch64-apple-darwin =1.94.0 =hf6ec828_1
+    - rust-std-aarch64-apple-darwin =1.95.0 =hf6ec828_1
     - sdkroot_env_osx-arm64 =26.0 =ha3f98da_7
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =82.0.1 =pyh332efcf_0

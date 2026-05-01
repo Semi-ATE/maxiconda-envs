@@ -51,7 +51,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2025.7.34 =py39he7485ab_0
     - requests =2.32.5 =pyhd8ed1ab_0
-    - rust =1.94.0 =h4ff7c5d_1
+    - rust =1.95.0 =h4ff7c5d_1
     - scipy =1.13.1 =py39h3d5391c_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.4 =unix_pyh707e725_0
@@ -81,9 +81,9 @@ requirements:
     - babel =2.17.0 =pyhd8ed1ab_0
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.1.0 =h5505292_3
-    - brotli-bin =1.1.0 =h5505292_3
-    - brotli-python =1.1.0 =py39h941272d_3
+    - brotli =1.2.0 =h7d5ae5b_1
+    - brotli-bin =1.2.0 =hc919400_1
+    - brotli-python =1.0.9 =py39h23fbdae_8
     - bwidget =1.10.1 =hce30654_1
     - bzip2 =1.0.8 =hd037594_9
     - c-ares =1.34.6 =hc919400_0
@@ -186,9 +186,9 @@ requirements:
     - lerc =4.1.0 =h1eee2c3_0
     - libasprintf =0.25.1 =h493aca8_0
     - libblas =3.11.0 =6_h51639a9_openblas
-    - libbrotlicommon =1.1.0 =h5505292_3
-    - libbrotlidec =1.1.0 =h5505292_3
-    - libbrotlienc =1.1.0 =h5505292_3
+    - libbrotlicommon =1.2.0 =hc919400_1
+    - libbrotlidec =1.2.0 =hc919400_1
+    - libbrotlienc =1.2.0 =hc919400_1
     - libcblas =3.11.0 =6_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp22.1 =22.1.4 =default_hf3020a7_0
@@ -499,7 +499,7 @@ requirements:
     - ruamel.yaml =0.18.15 =py39he7485ab_0
     - ruamel.yaml.clib =0.2.8 =py39h57695bc_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-aarch64-apple-darwin =1.94.0 =hf6ec828_1
+    - rust-std-aarch64-apple-darwin =1.95.0 =hf6ec828_1
     - sdkroot_env_osx-arm64 =26.0 =ha3f98da_7
     - send2trash =1.8.3 =pyh31c8845_1
     - setuptools =80.9.0 =pyhff2d567_0
