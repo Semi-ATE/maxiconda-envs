@@ -51,13 +51,13 @@ requirements:
     - babel =2.18.0 =pyhcf101f3_1
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhcf101f3_2
-    - backports.zstd =1.3.0 =py311h6b1f9c4_0
+    - backports.zstd =1.4.0 =py311h6b1f9c4_0
     - bcrypt =5.0.0 =py311h902ca64_1
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - binaryornot =0.6.0 =pyhcf101f3_0
     - black =26.3.1 =pyh866005b_0
-    - bleach =6.3.0 =pyhcf101f3_1
-    - bleach-with-css =6.3.0 =hbca2aae_1
+    - bleach =6.3.0 =pyhcf101f3_0
+    - bleach-with-css =6.3.0 =h5f6438b_0
     - brotli =1.2.0 =hed03a55_1
     - brotli-bin =1.2.0 =hb03c661_1
     - brotli-python =1.2.0 =py311h66f275b_1
@@ -105,8 +105,8 @@ requirements:
     - frozenlist =1.7.0 =py311h52bc045_0
     - fzf =0.72.0 =ha8f183a_0
     - giflib =5.2.2 =hd590300_0
-    - glib =2.88.0 =h86b9974_0
-    - glib-tools =2.88.0 =h524fc61_0
+    - glib =2.88.1 =h5110415_0
+    - glib-tools =2.88.1 =h040f060_0
     - gmp =6.3.0 =hac33072_2
     - gmpy2 =2.3.0 =py311h92a432a_1
     - graphite2 =1.3.14 =hecca717_2
@@ -162,7 +162,7 @@ requirements:
     - libegl =1.7.0 =ha4b6fd6_2
     - libegl-devel =1.7.0 =ha4b6fd6_2
     - libevent =2.1.12 =hf998b51_1
-    - libexpat =2.7.5 =hecca717_0
+    - libexpat =2.8.0 =hecca717_0
     - libffi =3.5.2 =h3435931_0
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_0
@@ -173,7 +173,7 @@ requirements:
     - libgfortran5 =15.2.0 =h68bc16d_18
     - libgl =1.7.0 =ha4b6fd6_2
     - libgl-devel =1.7.0 =ha4b6fd6_2
-    - libglib =2.88.0 =h6705ce6_0
+    - libglib =2.88.1 =h6705ce6_0
     - libglvnd =1.7.0 =ha4b6fd6_2
     - libglx =1.7.0 =ha4b6fd6_2
     - libglx-devel =1.7.0 =ha4b6fd6_2
@@ -219,7 +219,7 @@ requirements:
     - matplotlib-inline =0.2.1 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
-    - mistune =3.2.0 =pyhcf101f3_0
+    - mistune =3.2.1 =pyhcf101f3_0
     - more-itertools =11.0.2 =pyhcf101f3_0
     - mpc =1.4.0 =he0a73b1_0
     - mpfr =4.2.2 =he0a73b1_0
@@ -337,7 +337,7 @@ requirements:
     - text-unidecode =1.3 =pyhd8ed1ab_2
     - textdistance =4.6.3 =pyhd8ed1ab_1
     - three-merge =0.1.1 =pyhd8ed1ab_1
-    - tinycss2 =1.4.0 =pyhd8ed1ab_0
+    - tinycss2 =1.5.1 =pyhcf101f3_0
     - tk =8.6.13 =noxft_h366c992_103
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.1 =pyhcf101f3_0

@@ -52,7 +52,7 @@ requirements:
     - babel =2.18.0 =pyhcf101f3_1
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhcf101f3_2
-    - backports.zstd =1.3.0 =py310h458dff3_0
+    - backports.zstd =1.4.0 =py310h458dff3_0
     - bcrypt =5.0.0 =py310h034784e_1
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - binaryornot =0.6.0 =pyhcf101f3_0
@@ -102,8 +102,8 @@ requirements:
     - fribidi =1.0.16 =hfd05255_0
     - frozenlist =1.7.0 =py310had1666a_0
     - fzf =0.72.0 =hd02998f_0
-    - glib =2.88.0 =ha70b585_0
-    - glib-tools =2.88.0 =h137db31_0
+    - glib =2.88.1 =hbe1a651_0
+    - glib-tools =2.88.1 =hb6190e3_0
     - graphite2 =1.3.14 =hac47afa_2
     - gst-plugins-base =1.26.11 =h88486b4_0
     - gstreamer =1.26.11 =hae9036a_0
@@ -145,12 +145,12 @@ requirements:
     - libcblas =3.11.0 =6_h2a3cdd5_mkl
     - libclang13 =22.1.4 =default_ha2db4b5_0
     - libdeflate =1.25 =h51727cc_0
-    - libexpat =2.7.5 =hac47afa_0
+    - libexpat =2.8.0 =hac47afa_0
     - libffi =3.5.2 =h3d046cb_0
     - libfreetype =2.14.3 =h57928b3_0
     - libfreetype6 =2.14.3 =hdbac1cb_0
     - libgcc =15.2.0 =h8ee18e1_18
-    - libglib =2.88.0 =h822be2e_0
+    - libglib =2.88.1 =h822be2e_0
     - libgomp =15.2.0 =h8ee18e1_18
     - libhwloc =2.12.2 =default_h4379cf1_1000
     - libiconv =1.18 =hc1393d2_2
@@ -183,7 +183,7 @@ requirements:
     - matplotlib-inline =0.2.1 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
-    - mistune =3.2.0 =pyhcf101f3_0
+    - mistune =3.2.1 =pyhcf101f3_0
     - mkl =2025.3.1 =hac47afa_12
     - more-itertools =11.0.2 =pyhcf101f3_0
     - mpmath =1.4.1 =pyhd8ed1ab_0
