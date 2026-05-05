@@ -105,8 +105,8 @@ requirements:
     - frozenlist =1.7.0 =py312h18bfd43_0
     - fzf =0.72.0 =h990441c_0
     - giflib =5.2.2 =h10d778d_0
-    - glib =2.88.1 =h077f1d4_0
-    - glib-tools =2.88.1 =h264c857_0
+    - glib =2.88.1 =h0215afa_1
+    - glib-tools =2.88.1 =h6f0a764_1
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.3.0 =py312he58dab6_1
     - graphite2 =1.3.14 =h21dd04a_2
@@ -160,7 +160,7 @@ requirements:
     - libgcc =15.2.0 =h08519bb_18
     - libgfortran =15.2.0 =h7e5c614_18
     - libgfortran5 =15.2.0 =hd16e46c_18
-    - libglib =2.88.1 =h7065de2_0
+    - libglib =2.88.1 =hf28f236_1
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
@@ -225,7 +225,7 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =12.2.0 =py312he84af14_0
-    - pip =26.0.1 =pyh8b19718_0
+    - pip =26.1.1 =pyh8b19718_0
     - pixman =0.46.4 =ha059160_1
     - platformdirs =4.9.6 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1

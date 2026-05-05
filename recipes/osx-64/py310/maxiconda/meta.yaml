@@ -139,8 +139,8 @@ requirements:
     - frozenlist =1.7.0 =py310hd4b8e4a_0
     - gfortran_impl_osx-64 =14.3.0 =h94fe04d_1
     - gfortran_osx-64 =14.3.0 =h3223c34_0
-    - glib =2.88.1 =h077f1d4_0
-    - glib-tools =2.88.1 =h264c857_0
+    - glib =2.88.1 =h0215afa_1
+    - glib-tools =2.88.1 =h6f0a764_1
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.3.0 =py310h3c5f367_1
     - graphite2 =1.3.14 =h21dd04a_2
@@ -173,7 +173,7 @@ requirements:
     - jupyter_client =8.8.0 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyhc90fa1f_0
     - jupyter_events =0.12.1 =pyhcf101f3_0
-    - jupyter_server =2.17.0 =pyhcf101f3_0
+    - jupyter_server =2.18.0 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.4 =pyhcf101f3_0
     - jupyterlab =4.5.7 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
@@ -211,7 +211,7 @@ requirements:
     - libgfortran =15.2.0 =h7e5c614_18
     - libgfortran-devel_osx-64 =14.3.0 =h660b60f_1
     - libgfortran5 =15.2.0 =hd16e46c_18
-    - libglib =2.88.1 =h7065de2_0
+    - libglib =2.88.1 =hf28f236_1
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
@@ -275,7 +275,7 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =12.2.0 =py310h0c0a54c_0
-    - pip =26.0.1 =pyh8b19718_0
+    - pip =26.1.1 =pyh8b19718_0
     - pixman =0.46.4 =ha059160_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
     - platformdirs =4.9.6 =pyhcf101f3_0
@@ -302,7 +302,7 @@ requirements:
     - python-tzdata =2026.2 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.10 =8_cp310
-    - pytz =2026.1.post1 =pyhcf101f3_0
+    - pytz =2026.2 =pyhcf101f3_0
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.1.0 =py310h0743c2a_2
     - qhull =2020.2 =h3c5361c_5
