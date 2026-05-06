@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.4 =win_pyh7428d3b_0
     - sqlalchemy =2.0.49 =py312he5662c2_0
-    - sqlite =3.53.0 =hdb435a2_0
+    - sqlite =3.53.1 =hdb435a2_0
     - sympy =1.14.0 =pyh04b8f61_6
     - tqdm =4.67.3 =pyha7b4d00_0
     - transitions =0.9.3 =pyhe01879c_0
@@ -173,7 +173,7 @@ requirements:
     - jupyter_client =8.8.0 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyh6dadd2b_0
     - jupyter_events =0.12.1 =pyhcf101f3_0
-    - jupyter_server =2.18.0 =pyhcf101f3_0
+    - jupyter_server =2.18.1 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.4 =pyhcf101f3_0
     - jupyterlab =4.5.7 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
@@ -203,7 +203,7 @@ requirements:
     - libgfortran5 =15.2.0 =h44d81a7_18
     - libglib =2.88.1 =h7ce1215_1
     - libgomp =15.2.0 =h8ee18e1_18
-    - libhwloc =2.13.0 =default_h049141e_1000
+    - libhwloc =2.12.2 =default_h4379cf1_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
@@ -219,7 +219,7 @@ requirements:
     - libpng =1.6.58 =h7351971_0
     - libsodium =1.0.21 =h6a83c73_3
     - libsolv =0.7.37 =h8883371_0
-    - libsqlite =3.53.0 =hf5d6505_0
+    - libsqlite =3.53.1 =hf5d6505_0
     - libssh2 =1.11.1 =h9aa295b_0
     - libstdcxx =15.2.0 =hae5796f_18
     - libstdcxx-devel_win-64 =15.2.0 =h0a72980_118
@@ -512,7 +512,7 @@ requirements:
     - spdlog =1.17.0 =h9f585f1_1
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
-    - tbb =2023.0.0 =h3155e25_0
+    - tbb =2023.0.0 =ha3553a1_1
     - terminado =0.18.1 =pyh6dadd2b_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =h6ed50ae_3
