@@ -183,7 +183,7 @@ requirements:
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py38h9afee92_1
     - krb5 =1.22.2 =h385eeb1_0
-    - lcms2 =2.19 =hdfa7624_0
+    - lcms2 =2.19.1 =hdfa7624_0
     - ld64 =956.6 =llvm22_1_h5b97f1b_4
     - ld64_osx-arm64 =956.6 =llvm22_1_h692d5aa_4
     - lerc =4.1.0 =h1eee2c3_0
@@ -198,9 +198,9 @@ requirements:
     - libclang13 =22.1.4 =default_h13b06bd_0
     - libcompiler-rt =22.1.4 =hd34ed20_0
     - libcurl =8.20.0 =hd5a2499_0
-    - libcxx =22.1.4 =h55c6f16_0
-    - libcxx-devel =22.1.4 =h6dc3340_0
-    - libcxx-headers =22.1.4 =h707e725_0
+    - libcxx =22.1.5 =h55c6f16_0
+    - libcxx-devel =22.1.5 =h6dc3340_0
+    - libcxx-headers =22.1.5 =h707e725_0
     - libdeflate =1.25 =hc11a715_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libev =4.33 =h93a5062_2
@@ -334,7 +334,7 @@ requirements:
     - r-colorspace =2.1_2 =r45h6168396_0
     - r-commonmark =2.0.0 =r45h6168396_1
     - r-conflicted =1.2.0 =r45h785f33e_3
-    - r-cpp11 =0.5.4 =r45h785f33e_0
+    - r-cpp11 =0.5.5 =r45h785f33e_0
     - r-crayon =1.5.3 =r45hc72bb7e_2
     - r-crul =1.6.0 =r45hc72bb7e_1
     - r-curl =7.1.0 =r45h090641b_0
@@ -363,7 +363,7 @@ requirements:
     - r-generics =0.1.4 =r45hc72bb7e_1
     - r-ggplot2 =4.0.3 =r45h785f33e_0
     - r-gistr =0.9.0 =r45hc72bb7e_4
-    - r-glmnet =4.1_10 =r45hbf3f414_1
+    - r-glmnet =5.0 =r45h87f5d4e_0
     - r-globals =0.19.1 =r45hc72bb7e_0
     - r-glue =1.8.1 =r45hbe92478_0
     - r-googledrive =2.1.2 =r45hc72bb7e_1

@@ -57,8 +57,8 @@ requirements:
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - binaryornot =0.6.0 =pyhcf101f3_0
     - black =26.3.1 =pyh866005b_0
-    - bleach =6.3.0 =pyhcf101f3_0
-    - bleach-with-css =6.3.0 =h5f6438b_0
+    - bleach =6.3.0 =pyhcf101f3_1
+    - bleach-with-css =6.3.0 =hbca2aae_1
     - brotli =1.2.0 =h7d5ae5b_1
     - brotli-bin =1.2.0 =hc919400_1
     - brotli-python =1.2.0 =py311hdc60ec4_1
@@ -140,7 +140,7 @@ requirements:
     - keyring =25.7.0 =pyh534df25_0
     - kiwisolver =1.5.0 =py311h7d85929_0
     - krb5 =1.22.2 =h385eeb1_0
-    - lcms2 =2.19 =hdfa7624_0
+    - lcms2 =2.19.1 =hdfa7624_0
     - lerc =4.1.0 =h1eee2c3_0
     - libblas =3.11.0 =6_h51639a9_openblas
     - libbrotlicommon =1.2.0 =hc919400_1
@@ -149,7 +149,7 @@ requirements:
     - libcblas =3.11.0 =6_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang13 =22.1.4 =default_h13b06bd_0
-    - libcxx =22.1.4 =h55c6f16_0
+    - libcxx =22.1.5 =h55c6f16_0
     - libdeflate =1.25 =hc11a715_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libexpat =2.8.0 =hf6b4638_0
@@ -166,7 +166,7 @@ requirements:
     - libjpeg-turbo =3.1.4.1 =h84a0fba_0
     - liblapack =3.11.0 =6_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h8e162e0_12
-    - libllvm22 =22.1.4 =h89af1be_0
+    - libllvm22 =22.1.5 =h89af1be_0
     - liblzma =5.8.3 =h8088a28_0
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
@@ -187,7 +187,7 @@ requirements:
     - libzlib =1.3.2 =h8088a28_2
     - llvm-openmp =22.1.4 =hc7d1edf_0
     - lsprotocol =2025.0.0 =pyhe01879c_0
-    - markdown-it-py =4.0.0 =pyhd8ed1ab_0
+    - markdown-it-py =4.1.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py311hc290fe0_1
     - matplotlib-base =3.10.9 =py311h68bafec_0
     - matplotlib-inline =0.2.1 =pyhd8ed1ab_0
@@ -290,7 +290,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py311h71babbd_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.15.11 =hc5c3a1d_0
+    - ruff =0.15.11 =hbd3f8a3_1
     - setuptools =82.0.1 =pyh332efcf_0
     - sip =6.15.3 =py311h8325047_0
     - six =1.17.0 =pyhe01879c_1
@@ -311,13 +311,13 @@ requirements:
     - text-unidecode =1.3 =pyhd8ed1ab_2
     - textdistance =4.6.3 =pyhd8ed1ab_1
     - three-merge =0.1.1 =pyhd8ed1ab_1
-    - tinycss2 =1.5.1 =pyhcf101f3_0
+    - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =h010d191_3
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.1 =pyhcf101f3_0
     - tomlkit =0.14.0 =pyha770c72_0
     - tornado =6.5.5 =py311hc949640_0
-    - traitlets =5.14.3 =pyhd8ed1ab_1
+    - traitlets =5.15.0 =pyhcf101f3_0
     - typing-extensions =4.15.0 =h396c80c_0
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - tzdata =2025c =hc9c84f9_1
