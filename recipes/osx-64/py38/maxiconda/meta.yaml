@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 488 secondary packages :
+    # 489 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
@@ -84,9 +84,9 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_4
     - backports.zoneinfo =0.2.1 =py38hcafd530_8
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.2.0 =hf139dec_1
-    - brotli-bin =1.2.0 =h8616949_1
-    - brotli-python =1.0.9 =py38h4cd09af_8
+    - brotli =1.1.0 =h0dc2134_1
+    - brotli-bin =1.1.0 =h0dc2134_1
+    - brotli-python =1.1.0 =py38h940360d_1
     - bwidget =1.10.1 =h694c41f_1
     - bzip2 =1.0.8 =h500dc9f_9
     - c-ares =1.34.6 =hb5e19a0_0
@@ -100,11 +100,12 @@ requirements:
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hc8bcfa4_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
-    - clang =22.1.4 =default_nocfg_ha939c3f_0
-    - clang-22 =22.1.4 =default_h3b8fe2e_0
-    - clang_impl_osx-64 =22.1.4 =default_hb18168d_0
+    - clang =22.1.4 =default_nocfg_ha939c3f_1
+    - clang-22 =22.1.4 =default_h3b8fe2e_1
+    - clang-scan-deps =22.1.4 =default_h9399c5b_1
+    - clang_impl_osx-64 =22.1.4 =default_hb18168d_1
     - clang_osx-64 =22.1.4 =h4e561bf_31
-    - clangxx_impl_osx-64 =22.1.4 =default_hb18168d_0
+    - clangxx_impl_osx-64 =22.1.4 =default_hb18168d_1
     - clangxx_osx-64 =22.1.4 =h4e561bf_31
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.1.0 =pyhd8ed1ab_1
@@ -190,18 +191,18 @@ requirements:
     - lerc =4.1.0 =h35c7297_0
     - libasprintf =0.25.1 =h3184127_1
     - libblas =3.9.0 =20_osx64_openblas
-    - libbrotlicommon =1.2.0 =h8616949_1
-    - libbrotlidec =1.2.0 =h8616949_1
-    - libbrotlienc =1.2.0 =h8616949_1
+    - libbrotlicommon =1.1.0 =h0dc2134_1
+    - libbrotlidec =1.1.0 =h0dc2134_1
+    - libbrotlienc =1.1.0 =h0dc2134_1
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
-    - libclang-cpp22.1 =22.1.4 =default_h9399c5b_0
-    - libclang13 =22.1.4 =default_h2429e1b_0
+    - libclang-cpp22.1 =22.1.4 =default_h9399c5b_1
+    - libclang13 =22.1.4 =default_h2429e1b_1
     - libcompiler-rt =22.1.4 =h1637cdf_0
     - libcurl =8.20.0 =h8f0b9e4_0
-    - libcxx =22.1.5 =h19cb2f5_0
-    - libcxx-devel =22.1.5 =h7c275be_0
-    - libcxx-headers =22.1.5 =h707e725_0
+    - libcxx =22.1.5 =h19cb2f5_1
+    - libcxx-devel =22.1.5 =h7c275be_1
+    - libcxx-headers =22.1.5 =h707e725_1
     - libdeflate =1.25 =h517ebb2_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2

@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 481 secondary packages :
+    # 482 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -97,11 +97,12 @@ requirements:
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h7f933ea_0
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
-    - clang =22.1.4 =default_cfg_hb78b91e_0
-    - clang-22 =22.1.4 =default_hb52604d_0
-    - clang_impl_osx-arm64 =22.1.4 =default_h17d1ed9_0
+    - clang =22.1.4 =default_cfg_hb78b91e_1
+    - clang-22 =22.1.4 =default_hb52604d_1
+    - clang-scan-deps =22.1.4 =default_hf3020a7_1
+    - clang_impl_osx-arm64 =22.1.4 =default_h17d1ed9_1
     - clang_osx-arm64 =22.1.4 =h2e9ca5f_31
-    - clangxx_impl_osx-arm64 =22.1.4 =default_h17d1ed9_0
+    - clangxx_impl_osx-arm64 =22.1.4 =default_h17d1ed9_1
     - clangxx_osx-arm64 =22.1.4 =h2e9ca5f_31
     - click =8.1.8 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
@@ -191,13 +192,13 @@ requirements:
     - libbrotlienc =1.2.0 =hc919400_1
     - libcblas =3.11.0 =6_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
-    - libclang-cpp22.1 =22.1.4 =default_hf3020a7_0
-    - libclang13 =22.1.4 =default_h13b06bd_0
+    - libclang-cpp22.1 =22.1.4 =default_hf3020a7_1
+    - libclang13 =22.1.4 =default_h13b06bd_1
     - libcompiler-rt =22.1.4 =hd34ed20_0
     - libcurl =8.20.0 =hd5a2499_0
-    - libcxx =22.1.5 =h55c6f16_0
-    - libcxx-devel =22.1.5 =h6dc3340_0
-    - libcxx-headers =22.1.5 =h707e725_0
+    - libcxx =22.1.5 =h55c6f16_1
+    - libcxx-devel =22.1.5 =h6dc3340_1
+    - libcxx-headers =22.1.5 =h707e725_1
     - libdeflate =1.25 =hc11a715_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libev =4.33 =h93a5062_2
