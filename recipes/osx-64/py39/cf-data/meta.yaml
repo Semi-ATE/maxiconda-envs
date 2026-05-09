@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.14.5 =py39hbbd48fb_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
 
-    # 343 secondary packages :
+    # 347 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _py-xgboost-mutex =2.0 =cpu_0
     - adwaita-icon-theme =49.0 =unix_0
@@ -92,7 +92,7 @@ requirements:
     - cymem =2.0.11 =py39hdf37715_0
     - cyrus-sasl =2.1.28 =h610c526_0
     - cython-blis =1.3.0 =py39h86e9f7f_0
-    - databricks-cli =0.17.8 =pyhd8ed1ab_0
+    - databricks-cli =0.17.7 =pyhd8ed1ab_0
     - datefinder =0.7.3 =pyhd8ed1ab_1
     - debugpy =1.8.16 =py39h6581403_0
     - decorator =5.2.1 =pyhd8ed1ab_0
@@ -135,9 +135,12 @@ requirements:
     - gtk3 =3.24.43 =h5e629aa_6
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =23.0.0 =py39h6e9494a_1
+    - h2 =4.2.0 =pyhd8ed1ab_0
     - harfbuzz =12.2.0 =hc5d3ef4_0
     - hicolor-icon-theme =0.17 =h694c41f_3
+    - hpack =4.1.0 =pyhd8ed1ab_0
     - htmlmin =0.1.12 =pyhca7485f_2
+    - hyperframe =6.1.0 =pyhd8ed1ab_0
     - hyperlink =21.0.0 =pyh29332c3_1
     - icu =75.1 =h120a0e1_0
     - idna =3.11 =pyhf9edf01_1
@@ -185,10 +188,10 @@ requirements:
     - libffi =3.5.2 =hd1f9c09_0
     - libfreetype =2.14.3 =h694c41f_0
     - libfreetype6 =2.14.3 =h58fbd8d_0
-    - libgcc =15.2.0 =h08519bb_18
+    - libgcc =15.2.0 =h08519bb_19
     - libgd =2.3.3 =h8555400_11
-    - libgfortran =15.2.0 =h7e5c614_18
-    - libgfortran5 =15.2.0 =hd16e46c_18
+    - libgfortran =15.2.0 =h7e5c614_19
+    - libgfortran5 =15.2.0 =hd16e46c_19
     - libglib =2.88.1 =hf28f236_1
     - libhwloc =2.12.1 =default_h8c32e24_1000
     - libiconv =1.18 =h57a12c2_2
@@ -368,7 +371,7 @@ requirements:
     - ujson =5.10.0 =py39h7c0e7c0_1
     - umap-learn =0.5.9.post2 =py39h6e9494a_0
     - unicodedata2 =16.0.0 =py39h80efdc8_0
-    - urllib3 =1.26.19 =pyhd8ed1ab_0
+    - urllib3 =2.5.0 =pyhd8ed1ab_0
     - visions =0.7.1 =pyhd8ed1ab_0
     - w3lib =2.3.1 =pyhd8ed1ab_0
     - wasabi =1.1.3 =pyhd8ed1ab_1
@@ -389,6 +392,7 @@ requirements:
     - zeromq =4.3.5 =h6c33b1e_9
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zope.interface =7.2 =py39h80efdc8_0
+    - zstandard =0.23.0 =py39hb1cfd32_3
     - zstd =1.5.7 =h3eecb57_6
 
 about:
