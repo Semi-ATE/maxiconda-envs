@@ -31,11 +31,11 @@ requirements:
     - bitarray =3.8.0 =py312h1a1c95f_1
     - cython =3.2.4 =py312h84c01df_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.152.4 =pyha770c72_0
+    - hypothesis =6.152.5 =pyha770c72_0
     - ipython =9.13.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py312hb401068_0
-    - numba =0.65.1 =py312h704f9c4_0
+    - numba =0.65.1 =py312h704f9c4_1
     - numpy =2.4.3 =py312h746d82c_0
     - openpyxl =3.1.5 =py312h35dbd26_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -262,7 +262,7 @@ requirements:
     - libxml2 =2.15.3 =h953d39d_0
     - libxml2-16 =2.15.3 =h7a90416_0
     - libzlib =1.3.2 =hbb4bfdb_2
-    - llvm-openmp =22.1.4 =h0d3cbff_0
+    - llvm-openmp =22.1.5 =h0d3cbff_1
     - llvm-tools =22.1.4 =h1637cdf_0
     - llvm-tools-22 =22.1.4 =hc181bea_0
     - llvmlite =0.47.0 =py312ha5a82fe_1

@@ -31,11 +31,11 @@ requirements:
     - bitarray =3.8.0 =py312h4c3975b_1
     - cython =3.2.4 =py312h68e6be4_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.152.4 =pyha770c72_0
+    - hypothesis =6.152.5 =pyha770c72_0
     - ipython =9.13.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py312h7900ff3_0
-    - numba =0.65.1 =py312hd1dde6f_0
+    - numba =0.65.1 =py312hd1dde6f_1
     - numpy =2.4.3 =py312h33ff503_0
     - openpyxl =3.1.5 =py312h7f6eeab_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -232,7 +232,7 @@ requirements:
     - libiconv =1.18 =h3b78370_2
     - libjpeg-turbo =3.1.4.1 =hb03c661_0
     - liblapack =3.11.0 =6_h47877c9_openblas
-    - libllvm22 =22.1.5 =hf7376ad_0
+    - libllvm22 =22.1.5 =hf7376ad_1
     - liblzma =5.8.3 =hb03c661_0
     - libmamba =2.6.0 =hd28c85e_0
     - libmamba-spdlog =2.6.0 =hf859cbd_0
