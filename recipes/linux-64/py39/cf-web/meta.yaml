@@ -70,8 +70,8 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fribidi =1.0.16 =hb03c661_0
-    - glib =2.88.1 =h435ced3_1
-    - glib-tools =2.88.1 =hcfc306f_1
+    - glib =2.88.1 =hd810c12_2
+    - glib-tools =2.88.1 =hee1de02_2
     - graphite2 =1.3.14 =hecca717_2
     - greenlet =3.2.4 =py39h818bca1_0
     - gst-plugins-base =1.26.11 =h6d08254_0
@@ -96,7 +96,7 @@ requirements:
     - ld_impl_linux-64 =2.45.1 =default_hbd61a6d_102
     - libcap =2.77 =hd0affe5_1
     - libclang-cpp21.1 =21.1.8 =default_h99862b1_4
-    - libclang13 =22.1.4 =default_h746c552_1
+    - libclang13 =22.1.5 =default_h746c552_1
     - libcups =2.3.3 =hb8b1518_5
     - libdrm =2.4.125 =hb03c661_1
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -110,7 +110,7 @@ requirements:
     - libgcc =15.2.0 =he0feb66_19
     - libgcc-ng =15.2.0 =h69a702a_19
     - libgl =1.7.0 =ha4b6fd6_2
-    - libglib =2.88.1 =h0d30a3d_1
+    - libglib =2.88.1 =h0d30a3d_2
     - libglvnd =1.7.0 =ha4b6fd6_2
     - libglx =1.7.0 =ha4b6fd6_2
     - libgomp =15.2.0 =he0feb66_19
