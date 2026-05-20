@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - cython =3.2.4 =py310h9a762d2_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.152.6 =pyha770c72_0
+    - hypothesis =6.152.9 =pyha770c72_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py310hb6292c7_0
@@ -50,7 +50,7 @@ requirements:
     - r-base =4.5.3 =h35b0bb1_1
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.5.9 =py310h72544b6_0
-    - requests =2.34.0 =pyhcf101f3_0
+    - requests =2.34.2 =pyhcf101f3_0
     - rust =1.95.0 =h4ff7c5d_1
     - scipy =1.15.2 =py310h32ab4ed_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
@@ -105,7 +105,7 @@ requirements:
     - clang_osx-arm64 =22.1.5 =h1bea106_31
     - clangxx_impl_osx-arm64 =22.1.5 =default_h17d1ed9_1
     - clangxx_osx-arm64 =22.1.5 =h1bea106_31
-    - click =8.3.3 =pyhc90fa1f_0
+    - click =8.4.0 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -120,7 +120,7 @@ requirements:
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hb961e35_1
     - debugpy =1.8.20 =py310h19b6747_0
-    - decorator =5.2.1 =pyhd8ed1ab_0
+    - decorator =5.3.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
     - exceptiongroup =1.3.1 =pyhd8ed1ab_0
@@ -132,7 +132,7 @@ requirements:
     - fontconfig =2.17.1 =h2b252f5_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
-    - fonttools =4.62.1 =py310hb46c203_0
+    - fonttools =4.63.0 =py310hb46c203_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.14.3 =hce30654_0
     - fribidi =1.0.16 =hc919400_0
@@ -226,9 +226,9 @@ requirements:
     - libopenblas =0.3.33 =openmp_he657e61_0
     - libopus =1.6.1 =h1a92334_0
     - libpng =1.6.58 =h132b30e_0
-    - libpq =18.3 =hd341ff2_0
+    - libpq =18.4 =ha770aab_0
     - libsigtool =0.1.3 =h98dc951_0
-    - libsodium =1.0.21 =h1a92334_3
+    - libsodium =1.0.22 =h1a92334_1
     - libsqlite =3.53.1 =h1b79a29_0
     - libssh2 =1.11.1 =h1590b86_0
     - libtiff =4.7.1 =h4030677_1
@@ -313,11 +313,11 @@ requirements:
     - r-backports =1.5.1 =r45hbe92478_0
     - r-base64enc =0.1_6 =r45hbe92478_0
     - r-bit =4.6.0 =r45h6168396_1
-    - r-bit64 =4.8.0 =r45hbe92478_0
+    - r-bit64 =4.8.2 =r45hbe92478_0
     - r-blob =1.3.0 =r45hc72bb7e_0
     - r-boot =1.3_32 =r45hc72bb7e_1
-    - r-broom =1.0.12 =r45hc72bb7e_0
-    - r-bslib =0.10.0 =r45hc72bb7e_0
+    - r-broom =1.0.13 =r45hc72bb7e_0
+    - r-bslib =0.11.0 =r45hc72bb7e_0
     - r-cachem =1.1.0 =r45h6168396_2
     - r-callr =3.7.6 =r45hc72bb7e_2
     - r-caret =7.0_1 =r45h6168396_0
@@ -390,7 +390,7 @@ requirements:
     - r-labeling =0.4.3 =r45hc72bb7e_2
     - r-later =1.4.8 =r45h1380947_0
     - r-lattice =0.22_9 =r45hbe92478_0
-    - r-lava =1.9.0 =r45hc72bb7e_0
+    - r-lava =1.9.1 =r45hc72bb7e_0
     - r-lazyeval =0.2.3 =r45h4b407c4_0
     - r-lifecycle =1.0.5 =r45hc72bb7e_0
     - r-listenv =0.10.1 =r45hc72bb7e_0
@@ -409,7 +409,7 @@ requirements:
     - r-nlme =3.1_169 =r45hf56971a_0
     - r-nnet =7.3_20 =r45h6168396_1
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
-    - r-openssl =2.4.0 =r45h3dca6d3_0
+    - r-openssl =2.4.1 =r45h3dca6d3_0
     - r-otel =0.2.0 =r45hc72bb7e_1
     - r-parallelly =1.47.0 =r45hbe92478_0
     - r-pbdzmq =0.3_14 =r45h350048c_1
@@ -437,7 +437,7 @@ requirements:
     - r-rcpp =1.1.1_1.1 =r45h1380947_0
     - r-rcppeigen =0.3.4.0.2 =r45hd057375_1
     - r-readr =2.2.0 =r45h1380947_0
-    - r-readxl =1.4.5 =r45hf730888_1
+    - r-readxl =1.5.0 =r45h9c25da5_0
     - r-recipes =1.3.2 =r45hc72bb7e_0
     - r-recommended =4.5 =r45hd8ed1ab_1008
     - r-rematch =2.0.0 =r45hc72bb7e_2
@@ -539,8 +539,8 @@ requirements:
     - xorg-libxdmcp =1.1.5 =hc919400_1
     - yaml =0.2.5 =h925e9cb_3
     - yarl =1.23.0 =py310hb46c203_0
-    - zeromq =4.3.5 =h4818236_10
-    - zipp =3.23.1 =pyhcf101f3_0
+    - zeromq =4.3.5 =h10816f8_11
+    - zipp =4.1.0 =pyhcf101f3_0
     - zlib =1.3.2 =h8088a28_2
     - zlib-ng =2.3.3 =hed4e4f5_1
     - zstd =1.5.7 =hbf9d68e_6

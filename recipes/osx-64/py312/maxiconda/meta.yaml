@@ -31,12 +31,12 @@ requirements:
     - bitarray =3.8.0 =py312h1a1c95f_1
     - cython =3.2.4 =py312h84c01df_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.152.6 =pyha770c72_0
+    - hypothesis =6.152.9 =pyha770c72_0
     - ipython =9.13.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py312hb401068_0
     - numba =0.65.1 =py312h704f9c4_1
-    - numpy =2.4.3 =py312h746d82c_0
+    - numpy =2.4.5 =py312h746d82c_0
     - openpyxl =3.1.5 =py312h35dbd26_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =3.0.3 =py312h8e27051_0
@@ -51,7 +51,7 @@ requirements:
     - r-base =4.5.3 =h6422bf8_1
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.5.9 =py312h933eb07_0
-    - requests =2.34.0 =pyhcf101f3_0
+    - requests =2.34.2 =pyhcf101f3_0
     - rust =1.95.0 =h5655b98_1
     - scipy =1.17.1 =py312h6309490_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 516 secondary packages :
+    # 527 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
@@ -116,11 +116,16 @@ requirements:
     - compiler-rt22 =22.1.5 =h1637cdf_1
     - compiler-rt22_osx-64 =22.1.5 =hcf80936_1
     - compiler-rt_osx-64 =22.1.5 =h694c41f_1
-    - conda =26.3.2 =py312hb401068_1
-    - conda-libmamba-solver =26.4.1 =pyhd8ed1ab_0
+    - conda =26.5.0 =py312hb401068_1
+    - conda-index =0.11.0 =pyhd8ed1ab_0
+    - conda-libmamba-solver =26.4.2 =pyhd8ed1ab_0
+    - conda-lockfiles =0.2.0 =pyhd8ed1ab_0
     - conda-package-handling =2.4.0 =pyh7900ff3_2
     - conda-package-streaming =0.12.0 =pyhd8ed1ab_0
+    - conda-pypi =0.9.0 =py312hb401068_3
+    - conda-rattler-solver =0.1.0 =pyhcf101f3_0
     - conda-recipe-manager =0.10.3 =pyhd8ed1ab_0
+    - conda-self =0.2.0 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py312hb0c38da_4
     - cpp-expected =1.3.1 =h0ba0a54_0
@@ -129,13 +134,14 @@ requirements:
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h7cc0300_1
     - debugpy =1.8.20 =py312h29de90a_0
-    - decorator =5.2.1 =pyhd8ed1ab_0
+    - decorator =5.3.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - distro =1.9.0 =pyhd8ed1ab_1
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
     - evalidate =2.0.5 =pyhe01879c_0
     - exceptiongroup =1.3.1 =pyhd8ed1ab_0
     - executing =2.2.1 =pyhd8ed1ab_0
+    - filelock =3.29.0 =pyhd8ed1ab_0
     - fmt =12.1.0 =hda137b5_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -144,7 +150,7 @@ requirements:
     - fontconfig =2.17.1 =h7a4440b_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
-    - fonttools =4.62.1 =py312heb39f77_0
+    - fonttools =4.63.0 =py312heb39f77_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.14.3 =h694c41f_0
     - fribidi =1.0.16 =h8616949_0
@@ -238,9 +244,9 @@ requirements:
     - libllvm18 =18.1.8 =default_h9399c5b_12
     - libllvm22 =22.1.5 =hab754da_1
     - liblzma =5.8.3 =hbb4bfdb_0
-    - libmamba =2.6.0 =hf71f5bf_0
-    - libmamba-spdlog =2.6.0 =h70c7cb4_0
-    - libmambapy =2.6.0 =py312h4b7737d_0
+    - libmamba =2.6.2 =hf71f5bf_0
+    - libmamba-spdlog =2.6.2 =h76472eb_0
+    - libmambapy =2.6.2 =py312h91a5d5b_0
     - libmsgpack-c =6.1.0 =h06076ce_6
     - libnghttp2 =1.68.1 =h70048d4_0
     - libntlm =1.8 =h6e16a3a_0
@@ -248,9 +254,9 @@ requirements:
     - libopenblas =0.3.33 =openmp_h9e49c7b_0
     - libopus =1.6.1 =hc6ced15_0
     - libpng =1.6.58 =he930e7c_0
-    - libpq =18.3 =h94170d9_0
+    - libpq =18.4 =h5935a4f_0
     - libsigtool =0.1.3 =hc0f2934_0
-    - libsodium =1.0.21 =hc6ced15_3
+    - libsodium =1.0.22 =ha3d0635_1
     - libsolv =0.7.37 =hf97c9bc_0
     - libsqlite =3.53.1 =h8f8c405_0
     - libssh2 =1.11.1 =hed3591d_0
@@ -315,6 +321,7 @@ requirements:
     - pthread-stubs =0.4 =h00291cd_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
+    - py-rattler =0.23.2 =py310h21b85f7_1
     - pybind11-abi =11 =hc364b38_1
     - pycosat =0.6.6 =py312h2f459f6_3
     - pycparser =2.22 =pyh29332c3_1
@@ -323,11 +330,14 @@ requirements:
     - pyobjc-core =12.1 =py312h4a480f0_0
     - pyobjc-framework-cocoa =12.1 =py312h1993040_0
     - pyparsing =3.3.2 =pyhcf101f3_0
+    - pyproject_hooks =1.2.0 =pyhd8ed1ab_1
     - pyqt5-sip =12.17.0 =py312hbaf6d96_2
     - pysocks =1.7.1 =pyha55dd90_7
+    - python-build =1.5.0 =pyhc364b38_0
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
     - python-gil =3.12.13 =hd8ed1ab_0
+    - python-installer =1.0.1 =pyh332efcf_0
     - python-json-logger =3.2.1 =pyh332efcf_0
     - python-tzdata =2026.2 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
@@ -342,11 +352,11 @@ requirements:
     - r-backports =1.5.1 =r45h8eed41d_0
     - r-base64enc =0.1_6 =r45hdab4d57_0
     - r-bit =4.6.0 =r45h735ac91_1
-    - r-bit64 =4.8.0 =r45h8eed41d_0
+    - r-bit64 =4.8.2 =r45h8eed41d_0
     - r-blob =1.3.0 =r45hc72bb7e_0
     - r-boot =1.3_32 =r45hc72bb7e_1
-    - r-broom =1.0.12 =r45hc72bb7e_0
-    - r-bslib =0.10.0 =r45hc72bb7e_0
+    - r-broom =1.0.13 =r45hc72bb7e_0
+    - r-bslib =0.11.0 =r45hc72bb7e_0
     - r-cachem =1.1.0 =r45h735ac91_2
     - r-callr =3.7.6 =r45hc72bb7e_2
     - r-caret =7.0_1 =r45h735ac91_0
@@ -419,7 +429,7 @@ requirements:
     - r-labeling =0.4.3 =r45hc72bb7e_2
     - r-later =1.4.8 =r45h384437d_0
     - r-lattice =0.22_9 =r45hdab4d57_0
-    - r-lava =1.9.0 =r45hc72bb7e_0
+    - r-lava =1.9.1 =r45hc72bb7e_0
     - r-lazyeval =0.2.3 =r45h8eed41d_0
     - r-lifecycle =1.0.5 =r45hc72bb7e_0
     - r-listenv =0.10.1 =r45hc72bb7e_0
@@ -438,7 +448,7 @@ requirements:
     - r-nlme =3.1_169 =r45hf07a639_0
     - r-nnet =7.3_20 =r45h735ac91_1
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
-    - r-openssl =2.4.0 =r45h7679fe8_0
+    - r-openssl =2.4.1 =r45h7679fe8_0
     - r-otel =0.2.0 =r45hc72bb7e_1
     - r-parallelly =1.47.0 =r45h8eed41d_0
     - r-pbdzmq =0.3_14 =r45he515710_1
@@ -466,7 +476,7 @@ requirements:
     - r-rcpp =1.1.1_1.1 =r45h384437d_0
     - r-rcppeigen =0.3.4.0.2 =r45hefbd7a6_1
     - r-readr =2.2.0 =r45h384437d_0
-    - r-readxl =1.4.5 =r45h9d0ed1e_1
+    - r-readxl =1.5.0 =r45ha1f8127_0
     - r-recipes =1.3.2 =r45hc72bb7e_0
     - r-recommended =4.5 =r45hd8ed1ab_1008
     - r-rematch =2.0.0 =r45hc72bb7e_2
@@ -521,8 +531,8 @@ requirements:
     - rapidfuzz =3.14.5 =py312h959a22e_0
     - readline =8.3 =h68b038d_0
     - referencing =0.37.0 =pyhcf101f3_0
-    - reproc =14.2.7.post0 =ha1e9b39_0
-    - reproc-cpp =14.2.7.post0 =hcc62823_0
+    - reproc =14.2.7.post0 =ha1e9b39_1
+    - reproc-cpp =14.2.7.post0 =hcc62823_1
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
@@ -561,6 +571,7 @@ requirements:
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
     - tzdata =2025c =hc9c84f9_1
+    - unearth =0.18.2 =pyhd8ed1ab_0
     - unicodedata2 =17.0.1 =py312h1a1c95f_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.7.0 =pyhd8ed1ab_0
@@ -575,8 +586,8 @@ requirements:
     - yaml =0.2.5 =h4132b18_3
     - yaml-cpp =0.8.0 =h92383a6_0
     - yarl =1.23.0 =py312heb39f77_0
-    - zeromq =4.3.5 =h27d9b8f_10
-    - zipp =3.23.1 =pyhcf101f3_0
+    - zeromq =4.3.5 =h84953be_11
+    - zipp =4.1.0 =pyhcf101f3_0
     - zlib =1.3.2 =hbb4bfdb_2
     - zlib-ng =2.3.3 =h8bce59a_1
     - zstandard =0.25.0 =py312h01f6755_1

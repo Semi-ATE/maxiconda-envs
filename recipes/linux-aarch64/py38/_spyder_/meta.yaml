@@ -149,7 +149,7 @@ requirements:
     - libclang13 =22.1.5 =default_h3185f35_1
     - libcups =2.3.3 =h4f2b762_6
     - libdeflate =1.25 =h1af38f5_0
-    - libdrm =2.4.125 =he30d5cf_1
+    - libdrm =2.4.127 =he30d5cf_0
     - libedit =3.1.20250104 =pl5321h976ea20_0
     - libegl =1.7.0 =hd24410f_2
     - libevent =2.1.12 =h4ba1bb4_1
@@ -179,9 +179,9 @@ requirements:
     - libogg =1.3.5 =h86ecc28_1
     - libopenblas =0.3.25 =pthreads_h5a5ec62_0
     - libopus =1.6.1 =h80f16a2_0
-    - libpciaccess =0.18 =h86ecc28_0
+    - libpciaccess =0.19 =he30d5cf_0
     - libpng =1.6.58 =h1abf092_0
-    - libpq =18.3 =h7d4fc67_0
+    - libpq =18.4 =hccacd55_0
     - libsndfile =1.2.2 =h30591a0_2
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =2.0.0 =h0a1ffab_0
@@ -190,7 +190,7 @@ requirements:
     - libstdcxx-ng =15.2.0 =hdbbeba8_19
     - libsystemd0 =260.1 =h8c5a66d_0
     - libtiff =4.7.1 =hdb009f0_1
-    - libuuid =2.42 =h1022ec0_0
+    - libuuid =2.42.1 =h1022ec0_0
     - libvorbis =1.3.7 =h7ac5ae9_2
     - libwebp =1.6.0 =h05a2d3e_0
     - libwebp-base =1.6.0 =ha2e29f5_0
@@ -348,7 +348,7 @@ requirements:
     - xorg-libxdmcp =1.1.5 =he30d5cf_1
     - xorg-libxext =1.3.7 =he30d5cf_0
     - xorg-libxfixes =6.0.2 =he30d5cf_0
-    - xorg-libxi =1.8.2 =h57736b2_0
+    - xorg-libxi =1.8.3 =he30d5cf_0
     - xorg-libxrandr =1.5.5 =he30d5cf_0
     - xorg-libxrender =0.9.12 =h86ecc28_0
     - xorg-libxshmfence =1.3.3 =h86ecc28_0
