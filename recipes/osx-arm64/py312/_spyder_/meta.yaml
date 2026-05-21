@@ -38,7 +38,7 @@ requirements:
     # 306 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_2
-    - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
+    - aiohappyeyeballs =2.6.2 =pyhd8ed1ab_0
     - aiohttp =3.13.5 =py312h9f8c436_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
@@ -64,10 +64,10 @@ requirements:
     - brotli-bin =1.2.0 =hc919400_1
     - brotli-python =1.2.0 =py312h0dfefe5_1
     - bzip2 =1.0.8 =hd037594_9
-    - ca-certificates =2026.4.22 =hbd8a1cb_0
+    - ca-certificates =2026.5.20 =hbd8a1cb_0
     - cairo =1.18.4 =he0f2337_1
     - cattrs =26.1.0 =pyhcf101f3_1
-    - certifi =2026.4.22 =pyhd8ed1ab_0
+    - certifi =2026.5.20 =pyhd8ed1ab_0
     - cffi =2.0.0 =py312h1b4d9a2_1
     - chardet =7.4.3 =pyhcf101f3_0
     - charset-normalizer =3.4.7 =pyhd8ed1ab_0
@@ -117,7 +117,7 @@ requirements:
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =78.3 =hef89b57_0
-    - idna =3.13 =pyhcf101f3_0
+    - idna =3.15 =pyhcf101f3_0
     - imagesize =2.0.0 =pyhd8ed1ab_0
     - importlib-metadata =8.8.0 =pyhcf101f3_0
     - importlib_resources =7.1.0 =pyhd8ed1ab_0
@@ -150,10 +150,10 @@ requirements:
     - libcblas =3.11.0 =7_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang13 =22.1.5 =default_h6dd9417_1
-    - libcxx =22.1.5 =h55c6f16_1
+    - libcxx =22.1.6 =h55c6f16_0
     - libdeflate =1.25 =hc11a715_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
-    - libexpat =2.8.0 =hf6b4638_0
+    - libexpat =2.8.1 =hf6b4638_0
     - libffi =3.5.2 =hcf2aa1b_0
     - libfreetype =2.14.3 =hce30654_0
     - libfreetype6 =2.14.3 =hdfa99f5_0
@@ -167,7 +167,7 @@ requirements:
     - libjpeg-turbo =3.1.4.1 =h84a0fba_0
     - liblapack =3.11.0 =7_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h8e162e0_12
-    - libllvm22 =22.1.5 =h89af1be_1
+    - libllvm22 =22.1.6 =h89af1be_0
     - liblzma =5.8.3 =h8088a28_0
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
@@ -238,7 +238,7 @@ requirements:
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycodestyle =2.12.1 =pyhd8ed1ab_1
     - pyconify =0.2.1 =pyhd8ed1ab_0
-    - pycparser =2.22 =pyh29332c3_1
+    - pycparser =3.0 =pyhcf101f3_0
     - pydocstyle =6.3.0 =pyhd8ed1ab_1
     - pyflakes =3.2.0 =pyhd8ed1ab_1
     - pygithub =2.9.1 =pyhd8ed1ab_0
@@ -337,7 +337,7 @@ requirements:
     - xorg-libxdmcp =1.1.5 =hc919400_1
     - yaml =0.2.5 =h925e9cb_3
     - yapf =0.43.0 =pyhd8ed1ab_1
-    - yarl =1.23.0 =py312h04c11ed_0
+    - yarl =1.24.2 =py312h04c11ed_0
     - zeromq =4.3.5 =h10816f8_11
     - zipp =4.1.0 =pyhcf101f3_0
     - zlib-ng =2.3.3 =hed4e4f5_1

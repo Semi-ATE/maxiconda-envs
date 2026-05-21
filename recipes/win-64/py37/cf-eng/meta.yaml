@@ -39,7 +39,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_4
     - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
     - bzip2 =1.0.8 =h0ad9c76_9
-    - ca-certificates =2026.4.22 =h4c7d964_0
+    - ca-certificates =2026.5.20 =h4c7d964_0
     - cairo =1.18.4 =h477c42c_1
     - cloudpickle =2.2.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_0
@@ -73,7 +73,7 @@ requirements:
     - libblas =3.11.0 =7_h8455456_mkl
     - libcblas =3.11.0 =7_h2a3cdd5_mkl
     - libclang13 =22.1.5 =default_ha2db4b5_0
-    - libexpat =2.8.0 =hac47afa_0
+    - libexpat =2.8.1 =hac47afa_0
     - libffi =3.5.2 =h3d046cb_0
     - libfreetype =2.14.3 =h57928b3_0
     - libfreetype6 =2.14.3 =hdbac1cb_0
@@ -97,9 +97,9 @@ requirements:
     - libzlib =1.3.2 =hfd05255_2
     - llvm-openmp =22.1.5 =h4fa8253_1
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
-    - mkl =2026.0.0 =hac47afa_907
+    - mkl =2026.0.0 =hac47afa_908
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
-    - onemkl-license =2026.0.0 =h57928b3_907
+    - onemkl-license =2026.0.0 =h57928b3_908
     - openssl =3.6.2 =hf411b9b_0
     - packaging =23.2 =pyhd8ed1ab_0
     - pango =1.56.4 =h13911b6_1
@@ -130,10 +130,10 @@ requirements:
     - traitlets =5.9.0 =pyhd8ed1ab_0
     - typing_extensions =4.7.1 =pyha770c72_0
     - ucrt =10.0.26100.0 =h57928b3_0
-    - vc =14.5 =h1b7c187_36
-    - vc14_runtime =14.51.36231 =h1b9f54f_36
-    - vcomp14 =14.51.36231 =h1b9f54f_36
-    - vs2015_runtime =14.51.36231 =h84cd919_36
+    - vc =14.5 =h1b7c187_37
+    - vc14_runtime =14.51.36231 =h1b9f54f_37
+    - vcomp14 =14.51.36231 =h1b9f54f_37
+    - vs2015_runtime =14.51.36231 =h84cd919_37
     - wcwidth =0.2.10 =pyhd8ed1ab_0
     - wheel =0.42.0 =pyhd8ed1ab_0
     - zeromq =4.3.4 =h0e60522_1
