@@ -55,9 +55,9 @@ requirements:
     - bcrypt =5.0.0 =py311h902ca64_1
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - binaryornot =0.6.0 =pyhcf101f3_0
-    - black =26.3.1 =pyh866005b_0
-    - bleach =6.3.0 =pyhcf101f3_1
-    - bleach-with-css =6.3.0 =hbca2aae_1
+    - black =26.5.1 =pyh866005b_0
+    - bleach =6.3.0 =pyhcf101f3_0
+    - bleach-with-css =6.3.0 =h5f6438b_0
     - brotli =1.2.0 =hed03a55_1
     - brotli-bin =1.2.0 =hb03c661_1
     - brotli-python =1.2.0 =py311h66f275b_1
@@ -96,7 +96,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.17.1 =h27c8c51_0
+    - fontconfig =2.18.0 =h27c8c51_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py311h3778330_0
@@ -220,7 +220,7 @@ requirements:
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
     - mistune =3.2.1 =pyhcf101f3_0
-    - more-itertools =11.0.2 =pyhcf101f3_0
+    - more-itertools =11.1.0 =pyhcf101f3_0
     - mpc =1.4.0 =he0a73b1_0
     - mpfr =4.2.2 =he0a73b1_0
     - mpg123 =1.32.9 =hc50e24c_0
@@ -296,7 +296,7 @@ requirements:
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.3 =py311h3778330_1
-    - pyzmq =27.1.0 =py311h57d2397_2
+    - pyzmq =27.1.0 =py311hca8cfc1_3
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h434a139_5
     - qstylizer =0.2.4 =pyhff2d567_0
@@ -337,7 +337,7 @@ requirements:
     - text-unidecode =1.3 =pyhd8ed1ab_2
     - textdistance =4.6.3 =pyhd8ed1ab_1
     - three-merge =0.1.1 =pyhd8ed1ab_1
-    - tinycss2 =1.4.0 =pyhd8ed1ab_0
+    - tinycss2 =1.5.1 =pyhcf101f3_0
     - tk =8.6.13 =noxft_h366c992_103
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.1 =pyhcf101f3_0
@@ -347,7 +347,7 @@ requirements:
     - typing-extensions =4.15.0 =h396c80c_0
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - tzdata =2025c =hc9c84f9_1
-    - ujson =5.12.1 =py311hc665b79_0
+    - ujson =5.12.1 =py311hc665b79_1
     - unicodedata2 =17.0.1 =py311h49ec1c0_0
     - urllib3 =2.7.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py311hf8ae3fa_3
@@ -356,7 +356,7 @@ requirements:
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.47.0 =pyhd8ed1ab_0
-    - wrapt =2.2.0 =py311h49ec1c0_0
+    - wrapt =2.2.1 =py311h49ec1c0_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xcb-util =0.4.1 =h4f16b4b_2
     - xcb-util-cursor =0.1.6 =hb03c661_0
