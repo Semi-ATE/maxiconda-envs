@@ -82,9 +82,9 @@ requirements:
     - babel =2.17.0 =pyhd8ed1ab_0
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.2.0 =hf139dec_1
-    - brotli-bin =1.2.0 =h8616949_1
-    - brotli-python =1.0.9 =py39h7a8716b_8
+    - brotli =1.1.0 =h6e16a3a_3
+    - brotli-bin =1.1.0 =h6e16a3a_3
+    - brotli-python =1.1.0 =py39hdf37715_3
     - bwidget =1.10.1 =h694c41f_1
     - bzip2 =1.0.8 =h500dc9f_9
     - c-ares =1.34.6 =hb5e19a0_0
@@ -188,9 +188,9 @@ requirements:
     - lerc =4.1.0 =h35c7297_0
     - libasprintf =0.25.1 =h3184127_1
     - libblas =3.11.0 =7_he492b99_openblas
-    - libbrotlicommon =1.2.0 =h8616949_1
-    - libbrotlidec =1.2.0 =h8616949_1
-    - libbrotlienc =1.2.0 =h8616949_1
+    - libbrotlicommon =1.1.0 =h6e16a3a_3
+    - libbrotlidec =1.1.0 =h6e16a3a_3
+    - libbrotlienc =1.1.0 =h6e16a3a_3
     - libcblas =3.11.0 =7_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
     - libclang-cpp22.1 =22.1.5 =default_h9399c5b_1
@@ -326,7 +326,7 @@ requirements:
     - r-cellranger =1.1.0 =r45hc72bb7e_1008
     - r-class =7.3_23 =r45h735ac91_1
     - r-cli =3.6.6 =r45h384437d_0
-    - r-clipr =0.8.0 =r45hc72bb7e_4
+    - r-clipr =0.8.1 =r45hc72bb7e_0
     - r-clock =0.7.4 =r45hed9a748_0
     - r-cluster =2.1.8.2 =r45h200e2f6_0
     - r-codetools =0.2_20 =r45hc72bb7e_2
