@@ -84,9 +84,9 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_4
     - backports.zoneinfo =0.2.1 =py38hcafd530_8
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.1.0 =h0dc2134_1
-    - brotli-bin =1.1.0 =h0dc2134_1
-    - brotli-python =1.1.0 =py38h940360d_1
+    - brotli =1.2.0 =hf139dec_1
+    - brotli-bin =1.2.0 =h8616949_1
+    - brotli-python =1.0.9 =py38h4cd09af_8
     - bwidget =1.10.1 =h694c41f_1
     - bzip2 =1.0.8 =h500dc9f_9
     - c-ares =1.34.6 =hb5e19a0_0
@@ -100,21 +100,21 @@ requirements:
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hc8bcfa4_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
-    - clang =22.1.5 =default_nocfg_ha939c3f_1
-    - clang-22 =22.1.5 =default_h3b8fe2e_1
-    - clang-scan-deps =22.1.5 =default_h9399c5b_1
-    - clang_impl_osx-64 =22.1.5 =default_hb18168d_1
-    - clang_osx-64 =22.1.5 =h0037788_31
-    - clangxx_impl_osx-64 =22.1.5 =default_hb18168d_1
-    - clangxx_osx-64 =22.1.5 =h0037788_31
+    - clang =22.1.6 =default_cfg_h93fe8ef_1
+    - clang-22 =22.1.6 =default_h3b8fe2e_1
+    - clang-scan-deps =22.1.6 =default_h9399c5b_1
+    - clang_impl_osx-64 =22.1.6 =default_he9bf3b8_1
+    - clang_osx-64 =22.1.6 =hb508bca_31
+    - clangxx_impl_osx-64 =22.1.6 =default_he9bf3b8_1
+    - clangxx_osx-64 =22.1.6 =hb508bca_31
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.1.0 =pyhd8ed1ab_1
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_0
-    - compiler-rt =22.1.5 =h694c41f_1
-    - compiler-rt22 =22.1.5 =h1637cdf_1
-    - compiler-rt22_osx-64 =22.1.5 =hcf80936_1
-    - compiler-rt_osx-64 =22.1.5 =h694c41f_1
+    - compiler-rt =22.1.6 =h694c41f_0
+    - compiler-rt22 =22.1.6 =h1637cdf_0
+    - compiler-rt22_osx-64 =22.1.6 =hcf80936_0
+    - compiler-rt_osx-64 =22.1.6 =h694c41f_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h15a1a5b_1
     - cpython =3.8.20 =py38hd8ed1ab_2
@@ -191,14 +191,14 @@ requirements:
     - lerc =4.1.0 =h35c7297_0
     - libasprintf =0.25.1 =h3184127_1
     - libblas =3.9.0 =20_osx64_openblas
-    - libbrotlicommon =1.1.0 =h0dc2134_1
-    - libbrotlidec =1.1.0 =h0dc2134_1
-    - libbrotlienc =1.1.0 =h0dc2134_1
+    - libbrotlicommon =1.2.0 =h8616949_1
+    - libbrotlidec =1.2.0 =h8616949_1
+    - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
-    - libclang-cpp22.1 =22.1.5 =default_h9399c5b_1
-    - libclang13 =22.1.5 =default_h2429e1b_1
-    - libcompiler-rt =22.1.5 =h1637cdf_1
+    - libclang-cpp22.1 =22.1.6 =default_h9399c5b_1
+    - libclang13 =22.1.6 =default_h2429e1b_1
+    - libcompiler-rt =22.1.6 =h1637cdf_0
     - libcurl =8.20.0 =h8f0b9e4_0
     - libcxx =22.1.6 =h19cb2f5_0
     - libcxx-devel =22.1.6 =h7c275be_0
@@ -223,7 +223,7 @@ requirements:
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm18 =18.1.8 =default_h9399c5b_12
-    - libllvm22 =22.1.5 =hab754da_1
+    - libllvm22 =22.1.6 =hab754da_0
     - liblzma =5.8.3 =hbb4bfdb_0
     - liblzma-devel =5.8.3 =hbb4bfdb_0
     - libnghttp2 =1.68.1 =h70048d4_0
@@ -246,8 +246,8 @@ requirements:
     - libxml2-16 =2.15.3 =h7a90416_0
     - libzlib =1.3.2 =hbb4bfdb_2
     - llvm-openmp =22.1.6 =h0d3cbff_0
-    - llvm-tools =22.1.5 =h1637cdf_1
-    - llvm-tools-22 =22.1.5 =hc181bea_1
+    - llvm-tools =22.1.6 =h1637cdf_0
+    - llvm-tools-22 =22.1.6 =hc181bea_0
     - llvmlite =0.41.1 =py38h6008ce5_0
     - make =4.4.1 =h00291cd_2
     - markupsafe =2.1.5 =py38hae2e43d_0
