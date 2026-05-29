@@ -99,7 +99,7 @@ requirements:
     - fonttools =4.63.0 =py311h3f79411_0
     - freetype =2.14.3 =h57928b3_0
     - fribidi =1.0.16 =hfd05255_0
-    - frozenlist =1.7.0 =py311hdf60d3a_0
+    - frozenlist =1.8.0 =py311hdf60d3a_0
     - fzf =0.73.1 =hd02998f_0
     - glib =2.88.1 =h355229b_2
     - glib-tools =2.88.1 =h81d4522_2
@@ -111,7 +111,7 @@ requirements:
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =78.3 =h637d24d_0
-    - idna =3.15 =pyhcf101f3_0
+    - idna =3.17 =pyhcf101f3_0
     - imagesize =2.0.0 =pyhd8ed1ab_0
     - importlib-metadata =9.0.0 =pyhcf101f3_0
     - importlib_resources =7.1.0 =pyhd8ed1ab_0
@@ -211,7 +211,7 @@ requirements:
     - pillow =12.2.0 =py311h17b8079_0
     - pip =26.1.1 =pyh8b19718_0
     - pixman =0.46.4 =h5112557_1
-    - platformdirs =4.9.6 =pyhcf101f3_0
+    - platformdirs =4.10.0 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.52 =pyha770c72_0
@@ -270,7 +270,7 @@ requirements:
     - rich =15.0.0 =pyhcf101f3_0
     - roman-numerals =4.1.0 =pyhd8ed1ab_0
     - rope =1.14.0 =pyhd8ed1ab_0
-    - rpds-py =0.30.0 =py311hf51aa87_0
+    - rpds-py =2026.5.1 =py311h7337c20_0
     - rtree =1.4.1 =pyh11ca60a_0
     - ruff =0.15.14 =hd7ccaa8_0
     - setuptools =82.0.1 =pyh332efcf_0
@@ -308,9 +308,9 @@ requirements:
     - ujson =5.12.1 =py311h5dfdfe8_1
     - unicodedata2 =17.0.1 =py311h3485c13_0
     - urllib3 =2.7.0 =pyhd8ed1ab_0
-    - vc =14.5 =h1b7c187_37
-    - vc14_runtime =14.51.36231 =h1b9f54f_37
-    - vcomp14 =14.51.36231 =h1b9f54f_37
+    - vc =14.5 =h1b7c187_38
+    - vc14_runtime =14.51.36231 =h1b9f54f_38
+    - vcomp14 =14.51.36231 =h1b9f54f_38
     - watchdog =6.0.0 =py311h86c7a16_3
     - wcwidth =0.7.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3

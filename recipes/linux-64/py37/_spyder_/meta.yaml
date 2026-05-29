@@ -153,10 +153,10 @@ requirements:
     - libfreetype6 =2.14.3 =h73754d4_0
     - libgcc =15.2.0 =he0feb66_19
     - libgcc-ng =15.2.0 =h69a702a_19
-    - libgcrypt =1.12.1 =ha770c72_0
-    - libgcrypt-devel =1.12.1 =hb03c661_0
-    - libgcrypt-lib =1.12.1 =hb03c661_0
-    - libgcrypt-tools =1.12.1 =hb03c661_0
+    - libgcrypt =1.12.2 =ha770c72_0
+    - libgcrypt-devel =1.12.2 =hb03c661_0
+    - libgcrypt-lib =1.12.2 =hb03c661_0
+    - libgcrypt-tools =1.12.2 =hb03c661_0
     - libgettextpo =0.25.1 =h3f43e3d_1
     - libgettextpo-devel =0.25.1 =h3f43e3d_1
     - libgfortran =15.2.0 =h69a702a_19
@@ -320,11 +320,11 @@ requirements:
     - wheel =0.42.0 =pyhd8ed1ab_0
     - wrapt =1.14.1 =py37h540881e_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
-    - xcb-util =0.4.0 =h166bdaf_0
+    - xcb-util =0.4.0 =h516909a_0
     - xcb-util-image =0.4.0 =h166bdaf_0
-    - xcb-util-keysyms =0.4.0 =h166bdaf_0
+    - xcb-util-keysyms =0.4.0 =h516909a_0
     - xcb-util-renderutil =0.3.9 =h166bdaf_0
-    - xcb-util-wm =0.4.1 =h516909a_0
+    - xcb-util-wm =0.4.1 =h166bdaf_0
     - xkeyboard-config =2.38 =h0b41bf4_0
     - xorg-libxau =1.0.12 =hb03c661_1
     - xorg-libxdmcp =1.1.5 =hb03c661_1
