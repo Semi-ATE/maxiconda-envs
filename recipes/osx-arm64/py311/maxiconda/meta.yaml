@@ -30,8 +30,8 @@ requirements:
     - beautifulsoup4 =4.14.3 =pyha770c72_0
     - cython =3.2.5 =py311h8ccca7f_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.153.6 =pyha770c72_0
-    - ipython =9.13.0 =pyh53cf698_0
+    - hypothesis =6.155.0 =pyha770c72_0
+    - ipython =9.14.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py311ha1ab1f8_0
     - numba =0.65.1 =py311h7b83a5e_1
@@ -51,7 +51,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.5.9 =py311hc949640_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.95.0 =h4ff7c5d_1
+    - rust =1.96.0 =h4ff7c5d_0
     - scipy =1.17.1 =py311h9a58382_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.4 =unix_pyh707e725_0
@@ -291,7 +291,7 @@ requirements:
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
     - prometheus_client =0.25.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.52 =pyha770c72_0
-    - propcache =0.3.1 =py311h4921393_0
+    - propcache =0.5.2 =py311hc290fe0_0
     - pthread-stubs =0.4 =hd74edd7_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
@@ -508,7 +508,7 @@ requirements:
     - ruamel.yaml.clib =0.2.15 =py311he363849_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - ruamel_yaml =0.15.80 =py311heffc1b2_1009
-    - rust-std-aarch64-apple-darwin =1.95.0 =hf6ec828_1
+    - rust-std-aarch64-apple-darwin =1.96.0 =hf6ec828_0
     - sdkroot_env_osx-arm64 =26.0 =ha3f98da_7
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =82.0.1 =pyh332efcf_0

@@ -31,8 +31,8 @@ requirements:
     - bitarray =3.8.0 =py311h19352d5_1
     - cython =3.2.5 =py311hdc11669_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.153.6 =pyha770c72_0
-    - ipython =9.13.0 =pyh53cf698_0
+    - hypothesis =6.155.0 =pyha770c72_0
+    - ipython =9.14.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py311hfecb2dc_0
     - numba =0.65.1 =py311h1f64d6b_1
@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.5.9 =py311h19352d5_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.95.0 =h6cf38e9_1
+    - rust =1.96.0 =h6cf38e9_0
     - scipy =1.17.1 =py311had2d2e4_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.4 =unix_pyh707e725_0
@@ -189,7 +189,7 @@ requirements:
     - libbrotlicommon =1.2.0 =he30d5cf_1
     - libbrotlidec =1.2.0 =he30d5cf_1
     - libbrotlienc =1.2.0 =he30d5cf_1
-    - libcap =2.77 =hf9559e3_1
+    - libcap =2.78 =hf9559e3_0
     - libcblas =3.11.0 =8_hd72aa62_openblas
     - libclang-cpp22.1 =22.1.6 =default_h2a92e99_1
     - libclang13 =22.1.6 =default_h3185f35_1
@@ -243,7 +243,7 @@ requirements:
     - libstdcxx =15.2.0 =hef695bb_19
     - libstdcxx-devel_linux-aarch64 =15.2.0 =ha7b1723_119
     - libstdcxx-ng =15.2.0 =hdbbeba8_19
-    - libsystemd0 =260.2 =h8c5a66d_0
+    - libsystemd0 =260.2 =hb290c7d_1
     - libtiff =4.7.1 =hdb009f0_1
     - libuuid =2.42.1 =h1022ec0_0
     - libuv =1.52.1 =h80f16a2_0
@@ -299,7 +299,7 @@ requirements:
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
     - prometheus_client =0.25.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.52 =pyha770c72_0
-    - propcache =0.3.1 =py311h58d527c_0
+    - propcache =0.5.2 =py311h164a683_0
     - pthread-stubs =0.4 =h86ecc28_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pulseaudio-client =17.0 =hcf98165_3
@@ -517,7 +517,7 @@ requirements:
     - ruamel.yaml.clib =0.2.15 =py311h51cfe5d_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - ruamel_yaml =0.15.80 =py311hcd402e7_1009
-    - rust-std-aarch64-unknown-linux-gnu =1.95.0 =hbe8e118_1
+    - rust-std-aarch64-unknown-linux-gnu =1.96.0 =hbe8e118_0
     - sed =4.10 =he1c5539_0
     - send2trash =2.1.0 =pyha191276_1
     - setuptools =82.0.1 =pyh332efcf_0

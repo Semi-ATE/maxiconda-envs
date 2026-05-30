@@ -31,8 +31,8 @@ requirements:
     - bitarray =3.8.0 =py311hc71d4c3_1
     - cython =3.2.5 =py311h3007246_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.153.6 =pyha770c72_0
-    - ipython =9.13.0 =pyh53cf698_0
+    - hypothesis =6.155.0 =pyha770c72_0
+    - ipython =9.14.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py311h6eed73b_0
     - numba =0.65.1 =py311h7fce02c_1
@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.5.9 =py311h0a33410_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.95.0 =h5655b98_1
+    - rust =1.96.0 =h5655b98_0
     - scipy =1.17.1 =py311h556693a_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.4 =unix_pyh707e725_0
@@ -292,7 +292,7 @@ requirements:
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
     - prometheus_client =0.25.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.52 =pyha770c72_0
-    - propcache =0.3.1 =py311ha3cf9ac_0
+    - propcache =0.5.2 =py311ha8ae342_0
     - pthread-stubs =0.4 =h00291cd_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
@@ -509,7 +509,7 @@ requirements:
     - ruamel.yaml.clib =0.2.15 =py311ha332486_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - ruamel_yaml =0.15.80 =py311h2725bcf_1009
-    - rust-std-x86_64-apple-darwin =1.95.0 =h38e4360_1
+    - rust-std-x86_64-apple-darwin =1.96.0 =h38e4360_0
     - sdkroot_env_osx-64 =26.0 =h62b880e_7
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =82.0.1 =pyh332efcf_0
