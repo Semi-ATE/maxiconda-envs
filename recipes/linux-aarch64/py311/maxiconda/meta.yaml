@@ -69,7 +69,7 @@ requirements:
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.2 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
-    - alsa-lib =1.2.15.3 =he30d5cf_0
+    - alsa-lib =1.2.16 =he30d5cf_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
     - anyio =4.13.0 =pyhcf101f3_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
@@ -112,7 +112,7 @@ requirements:
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h6598af7_1
     - dbus =1.16.2 =h70963c4_1
-    - debugpy =1.8.20 =py311h8e4e6a5_0
+    - debugpy =1.8.21 =py311h8e4e6a5_0
     - decorator =5.3.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - double-conversion =3.4.0 =hfae3067_0
@@ -124,7 +124,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.18.0 =hba86a56_0
+    - fontconfig =2.18.1 =hba86a56_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py311h164a683_0
@@ -140,7 +140,7 @@ requirements:
     - glib-tools =2.88.1 =h7439e1d_2
     - gmp =6.3.0 =h0a1ffab_2
     - gmpy2 =2.3.0 =py311hc14af3f_1
-    - graphite2 =1.3.14 =hfae3067_2
+    - graphite2 =1.3.15 =hfae3067_0
     - greenlet =3.5.1 =py311h8e4e6a5_0
     - gsl =2.7 =h294027d_0
     - gst-plugins-base =1.26.11 =hd6b5e5b_0
@@ -148,7 +148,7 @@ requirements:
     - gxx_impl_linux-aarch64 =15.2.0 =h03e2352_19
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =14.2.0 =h1134a53_0
+    - harfbuzz =14.2.1 =h1134a53_0
     - hpack =4.1.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -223,7 +223,7 @@ requirements:
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.4.1 =he30d5cf_0
     - liblapack =3.11.0 =8_h88aeb00_openblas
-    - libllvm22 =22.1.6 =hfd2ba90_0
+    - libllvm22 =22.1.7 =hfd2ba90_0
     - liblzma =5.8.3 =he30d5cf_0
     - libnghttp2 =1.68.1 =hd3077d7_0
     - libnsl =2.0.1 =h86ecc28_1
