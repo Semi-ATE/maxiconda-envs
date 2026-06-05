@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.4 =win_pyh7428d3b_0
     - sqlalchemy =2.0.50 =py312he5662c2_0
-    - sqlite =3.53.1 =hdb435a2_0
+    - sqlite =3.53.2 =hdb435a2_0
     - sympy =1.14.0 =pyh04b8f61_6
     - tqdm =4.67.3 =pyha7b4d00_0
     - transitions =0.9.3 =pyhe01879c_0
@@ -181,7 +181,7 @@ requirements:
     - jupyter_events =0.12.1 =pyhcf101f3_0
     - jupyter_server =2.19.0 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.4 =pyhcf101f3_0
-    - jupyterlab =4.5.7 =pyhd8ed1ab_0
+    - jupyterlab =4.5.8 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.0 =pyhcf101f3_0
     - kiwisolver =1.5.0 =py312h78d62e6_0
@@ -216,16 +216,16 @@ requirements:
     - libjpeg-turbo =3.1.4.1 =hfd05255_0
     - liblapack =3.11.0 =8_hf9ab0e9_mkl
     - liblzma =5.8.3 =hfd05255_0
-    - libmamba =2.7.0 =h06825f5_0
-    - libmamba-spdlog =2.7.0 =h6f94ab5_0
-    - libmambapy =2.7.0 =py312hd33866b_0
+    - libmamba =2.8.0 =h06825f5_0
+    - libmamba-spdlog =2.8.0 =hbfe15b8_0
+    - libmambapy =2.8.0 =py312hfbe3f2c_0
     - libmsgpack-c =6.1.0 =h5112557_6
     - libnghttp2 =1.68.1 =hac47afa_0
     - libogg =1.3.5 =h2466b09_1
     - libpng =1.6.58 =h7351971_0
     - libsodium =1.0.22 =h6a83c73_1
     - libsolv =0.7.39 =h8883371_0
-    - libsqlite =3.53.1 =hf5d6505_0
+    - libsqlite =3.53.2 =hf5d6505_0
     - libssh2 =1.11.1 =h9aa295b_0
     - libstdcxx =15.2.0 =hae5796f_19
     - libstdcxx-devel_win-64 =15.2.0 =h0a72980_119
@@ -265,14 +265,14 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nlohmann_json-abi =3.12.0 =h0f90c79_1
-    - notebook =7.5.6 =pyhcf101f3_1
+    - notebook =7.5.7 =pyhcf101f3_1
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - onemkl-license =2026.0.0 =h57928b3_908
     - openjpeg =2.5.4 =h0e57b4f_0
     - openssl =3.6.2 =hf411b9b_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.2 =pyhc364b38_0
-    - pandoc =3.9.0.2 =h57928b3_0
+    - pandoc =3.10 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h13911b6_1
     - parso =0.8.7 =pyhcf101f3_0

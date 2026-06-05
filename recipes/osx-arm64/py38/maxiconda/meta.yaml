@@ -56,7 +56,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.32 =py38h3237794_0
-    - sqlite =3.53.1 =h85ec8f2_0
+    - sqlite =3.53.2 =h77b7338_0
     - sympy =1.13.3 =pyh2585a3b_104
     - tqdm =4.67.1 =pyhd8ed1ab_0
     - transitions =0.9.2 =pyhd8ed1ab_0
@@ -83,9 +83,9 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_4
     - backports.zoneinfo =0.2.1 =py38hb192615_8
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.1.0 =hb547adb_1
-    - brotli-bin =1.1.0 =hb547adb_1
-    - brotli-python =1.1.0 =py38he333c0f_1
+    - brotli =1.2.0 =h7d5ae5b_1
+    - brotli-bin =1.2.0 =hc919400_1
+    - brotli-python =1.0.9 =py38h2b1e499_8
     - bwidget =1.10.1 =hce30654_1
     - bzip2 =1.0.8 =hd037594_9
     - c-ares =1.34.6 =hc919400_0
@@ -99,21 +99,21 @@ requirements:
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38h858044d_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
-    - clang =22.1.6 =default_cfg_hb78b91e_1
-    - clang-22 =22.1.6 =default_hd632d02_1
-    - clang-scan-deps =22.1.6 =default_h8e162e0_1
-    - clang_impl_osx-arm64 =22.1.6 =default_h17d1ed9_1
-    - clang_osx-arm64 =22.1.6 =h14169a3_31
-    - clangxx_impl_osx-arm64 =22.1.6 =default_h17d1ed9_1
-    - clangxx_osx-arm64 =22.1.6 =h14169a3_31
+    - clang =22.1.7 =default_cfg_hb78b91e_1
+    - clang-22 =22.1.7 =default_hd632d02_1
+    - clang-scan-deps =22.1.7 =default_h8e162e0_1
+    - clang_impl_osx-arm64 =22.1.7 =default_h17d1ed9_1
+    - clang_osx-arm64 =22.1.7 =hf119d2b_32
+    - clangxx_impl_osx-arm64 =22.1.7 =default_h17d1ed9_1
+    - clangxx_osx-arm64 =22.1.7 =hf119d2b_32
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.1.0 =pyhd8ed1ab_1
     - colorama =0.4.6 =pyhd8ed1ab_0
     - comm =0.2.2 =pyhd8ed1ab_0
-    - compiler-rt =22.1.6 =hce30654_0
-    - compiler-rt22 =22.1.6 =hd34ed20_0
-    - compiler-rt22_osx-arm64 =22.1.6 =h7e67a1e_0
-    - compiler-rt_osx-arm64 =22.1.6 =hce30654_0
+    - compiler-rt =22.1.7 =hce30654_0
+    - compiler-rt22 =22.1.7 =hd34ed20_0
+    - compiler-rt22_osx-arm64 =22.1.7 =h7e67a1e_0
+    - compiler-rt_osx-arm64 =22.1.7 =hce30654_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h9afee92_1
     - cpython =3.8.20 =py38hd8ed1ab_2
@@ -190,14 +190,14 @@ requirements:
     - lerc =4.1.0 =h1eee2c3_0
     - libasprintf =0.25.1 =h493aca8_0
     - libblas =3.9.0 =20_osxarm64_openblas
-    - libbrotlicommon =1.1.0 =hb547adb_1
-    - libbrotlidec =1.1.0 =hb547adb_1
-    - libbrotlienc =1.1.0 =hb547adb_1
+    - libbrotlicommon =1.2.0 =hc919400_1
+    - libbrotlidec =1.2.0 =hc919400_1
+    - libbrotlienc =1.2.0 =hc919400_1
     - libcblas =3.9.0 =20_osxarm64_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
-    - libclang-cpp22.1 =22.1.6 =default_h8e162e0_1
-    - libclang13 =22.1.6 =default_h6dd9417_1
-    - libcompiler-rt =22.1.6 =hd34ed20_0
+    - libclang-cpp22.1 =22.1.7 =default_h8e162e0_1
+    - libclang13 =22.1.7 =default_h6dd9417_1
+    - libcompiler-rt =22.1.7 =hd34ed20_0
     - libcurl =8.20.0 =hd5a2499_0
     - libcxx =22.1.7 =h55c6f16_0
     - libcxx-devel =22.1.7 =h6dc3340_0
@@ -222,7 +222,7 @@ requirements:
     - liblapack =3.9.0 =20_osxarm64_openblas
     - libllvm14 =14.0.6 =hd1a9a77_4
     - libllvm18 =18.1.8 =default_h8e162e0_12
-    - libllvm22 =22.1.6 =h89af1be_0
+    - libllvm22 =22.1.7 =h89af1be_0
     - liblzma =5.8.3 =h8088a28_0
     - liblzma-devel =5.8.3 =h8088a28_0
     - libnghttp2 =1.68.1 =h8f3e76b_0
@@ -234,7 +234,7 @@ requirements:
     - libpq =18.4 =ha770aab_0
     - libsigtool =0.1.3 =h98dc951_0
     - libsodium =1.0.18 =h27ca646_1
-    - libsqlite =3.53.1 =h1b79a29_0
+    - libsqlite =3.53.2 =h1ae2325_0
     - libssh2 =1.11.1 =h1590b86_0
     - libtiff =4.7.1 =h4030677_1
     - libuv =1.52.1 =h1a92334_0
@@ -245,8 +245,8 @@ requirements:
     - libxml2-16 =2.15.3 =h5ef1a60_0
     - libzlib =1.3.2 =h8088a28_2
     - llvm-openmp =22.1.7 =hc7d1edf_0
-    - llvm-tools =22.1.6 =hd34ed20_0
-    - llvm-tools-22 =22.1.6 =hb545844_0
+    - llvm-tools =22.1.7 =hd34ed20_0
+    - llvm-tools-22 =22.1.7 =hb545844_0
     - llvmlite =0.41.1 =py38hbed3d3f_0
     - make =4.4.1 =hc9fafa5_2
     - markupsafe =2.1.5 =py38h336bac9_0
@@ -272,7 +272,7 @@ requirements:
     - openssl =3.6.2 =hd24854e_0
     - overrides =7.7.0 =pyhd8ed1ab_0
     - packaging =26.2 =pyhc364b38_0
-    - pandoc =3.9.0.2 =hce30654_0
+    - pandoc =3.10 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =hf80efc4_1
     - parso =0.8.4 =pyhd8ed1ab_0

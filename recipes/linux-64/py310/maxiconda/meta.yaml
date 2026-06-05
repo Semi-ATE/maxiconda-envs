@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.4 =unix_pyh707e725_0
     - sqlalchemy =2.0.50 =py310h139afa4_0
-    - sqlite =3.53.1 =hbc0de68_0
+    - sqlite =3.53.2 =hbc0de68_0
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.67.3 =pyh8f84b5b_0
     - transitions =0.9.3 =pyhe01879c_0
@@ -165,7 +165,7 @@ requirements:
     - jupyter_events =0.12.1 =pyhcf101f3_0
     - jupyter_server =2.19.0 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.4 =pyhcf101f3_0
-    - jupyterlab =4.5.7 =pyhd8ed1ab_0
+    - jupyterlab =4.5.8 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.0 =pyhcf101f3_0
     - kernel-headers_linux-64 =6.12.0 =he073ed8_6
@@ -230,7 +230,7 @@ requirements:
     - libsanitizer =15.2.0 =h90f66d4_19
     - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.22 =h280c20c_1
-    - libsqlite =3.53.1 =h0c1763c_0
+    - libsqlite =3.53.2 =h0c1763c_0
     - libssh2 =1.11.1 =hcf80075_0
     - libstdcxx =15.2.0 =h934c35e_19
     - libstdcxx-devel_linux-64 =15.2.0 =hd446a21_119
@@ -266,7 +266,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.6 =hdb14827_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - notebook =7.5.6 =pyhcf101f3_1
+    - notebook =7.5.7 =pyhcf101f3_1
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.38 =h29cc59b_0
     - nss =3.118 =h445c969_0
@@ -275,7 +275,7 @@ requirements:
     - openssl =3.6.2 =h35e630c_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.2 =pyhc364b38_0
-    - pandoc =3.9.0.2 =ha770c72_0
+    - pandoc =3.10 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =hda50119_1
     - parso =0.8.7 =pyhcf101f3_0
@@ -315,7 +315,7 @@ requirements:
     - pyzmq =27.1.0 =py310ha71cbf4_3
     - qhull =2020.2 =h434a139_5
     - qt-main =5.15.15 =h0c412b5_8
-    - qt6-main =6.11.1 =pl5321h16c4a6b_0
+    - qt6-main =6.11.1 =pl5321h16c4a6b_1
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r45h54b55ab_1
     - r-assertthat =0.2.1 =r45hc72bb7e_6
