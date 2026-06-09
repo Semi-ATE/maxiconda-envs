@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 397 secondary packages :
+    # 398 secondary packages :
     - _r-mutex =1.0.1 =anacondar_1
     - aiosignal =1.3.1 =pyhd8ed1ab_0
     - anyio =3.7.1 =pyhd8ed1ab_0
@@ -97,7 +97,7 @@ requirements:
     - et_xmlfile =1.1.0 =pyhd8ed1ab_0
     - exceptiongroup =1.2.2 =pyhd8ed1ab_0
     - fonttools =4.38.0 =py37h51bd9d9_0
-    - freetype =2.14.3 =h57928b3_0
+    - freetype =2.14.3 =h57928b3_1
     - frozenlist =1.3.1 =py37hcc03f2d_0
     - gettext =0.22.5 =h5728263_3
     - gettext-tools =0.22.5 =h5a7288d_3
@@ -138,8 +138,8 @@ requirements:
     - libclang13 =15.0.7 =default_hf64faad_5
     - libdeflate =1.25 =h51727cc_0
     - libffi =3.5.2 =h3d046cb_0
-    - libfreetype =2.14.3 =h57928b3_0
-    - libfreetype6 =2.14.3 =hdbac1cb_0
+    - libfreetype =2.14.3 =h57928b3_1
+    - libfreetype6 =2.14.3 =hdbac1cb_1
     - libgettextpo =0.22.5 =h5728263_3
     - libgettextpo-devel =0.22.5 =h5728263_3
     - libglib =2.88.1 =h7ce1215_2
@@ -461,6 +461,7 @@ requirements:
     - yarl =1.7.2 =py37hcc03f2d_2
     - zeromq =4.3.4 =h0e60522_1
     - zipp =3.15.0 =pyhd8ed1ab_0
+    - zlib =1.3.2 =hfd05255_2
     - zstd =1.5.7 =h534d264_6
 
 about:

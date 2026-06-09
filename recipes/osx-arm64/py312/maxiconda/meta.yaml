@@ -25,7 +25,7 @@ requirements:
     - python =3.12.13 =h8561d8f_0_cpython
 
     # 37 primary packages :
-    - aiohttp =3.13.5 =py312h9f8c436_0
+    - aiohttp =3.14.1 =py312h9f8c436_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - cython =3.2.5 =py312hedd66cf_0
@@ -151,9 +151,9 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py312h04c11ed_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
-    - freetype =2.14.3 =hce30654_0
+    - freetype =2.14.3 =hce30654_1
     - fribidi =1.0.16 =hc919400_0
-    - frozendict =2.4.7 =py312h4409184_0
+    - frozendict =2.4.7 =pyhcf101f3_1
     - frozenlist =1.8.0 =py312ha0ce254_0
     - gfortran_impl_osx-arm64 =14.3.0 =h6d03799_1
     - gfortran_osx-arm64 =14.3.0 =h3c33bd0_0
@@ -227,8 +227,8 @@ requirements:
     - libev =4.33 =h93a5062_2
     - libexpat =2.8.1 =hf6b4638_0
     - libffi =3.5.2 =hcf2aa1b_0
-    - libfreetype =2.14.3 =hce30654_0
-    - libfreetype6 =2.14.3 =hdfa99f5_0
+    - libfreetype =2.14.3 =hce30654_1
+    - libfreetype6 =2.14.3 =hdfa99f5_1
     - libgcc =15.2.0 =hcbb3090_19
     - libgettextpo =0.25.1 =h493aca8_0
     - libgfortran =15.2.0 =h07b0088_19
@@ -243,9 +243,9 @@ requirements:
     - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm22 =22.1.7 =h89af1be_0
     - liblzma =5.8.3 =h8088a28_0
-    - libmamba =2.8.0 =h7950639_0
-    - libmamba-spdlog =2.8.0 =h848b29c_0
-    - libmambapy =2.8.0 =py312h97cafc2_0
+    - libmamba =2.8.1 =h7950639_0
+    - libmamba-spdlog =2.8.1 =hb995d7d_0
+    - libmambapy =2.8.1 =py312h68b3e2c_0
     - libmsgpack-c =6.1.0 =h784d473_6
     - libnghttp2 =1.68.1 =h8f3e76b_0
     - libntlm =1.8 =h5505292_0
@@ -277,7 +277,7 @@ requirements:
     - markupsafe =3.0.3 =py312h04c11ed_1
     - matplotlib-base =3.10.9 =py312hf3defc7_0
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
-    - menuinst =2.4.2 =py312h81bd7bf_0
+    - menuinst =2.5.0 =py312h81bd7bf_0
     - mistune =3.2.1 =pyhcf101f3_0
     - mpc =1.4.0 =h169892a_0
     - mpfr =4.2.2 =h6bc93b0_0
@@ -574,7 +574,7 @@ requirements:
     - unicodedata2 =17.0.1 =py312h2bbb03f_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.7.0 =pyhd8ed1ab_0
-    - wcwidth =0.8.0 =pyhd8ed1ab_0
+    - wcwidth =0.8.1 =pyhd8ed1ab_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - websocket-client =1.9.0 =pyhd8ed1ab_0

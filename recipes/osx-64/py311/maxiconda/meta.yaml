@@ -25,7 +25,7 @@ requirements:
     - python =3.11.15 =ha9537fe_0_cpython
 
     # 38 primary packages :
-    - aiohttp =3.13.5 =py311ha95a472_0
+    - aiohttp =3.14.1 =py311ha95a472_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - bitarray =3.8.0 =py311hc71d4c3_1
@@ -140,7 +140,7 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py311ha8ae342_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
-    - freetype =2.14.3 =h694c41f_0
+    - freetype =2.14.3 =h694c41f_1
     - fribidi =1.0.16 =h8616949_0
     - frozenlist =1.8.0 =py311ha09d3ca_0
     - gfortran_impl_osx-64 =14.3.0 =h94fe04d_1
@@ -213,8 +213,8 @@ requirements:
     - libev =4.33 =h10d778d_2
     - libexpat =2.8.1 =hcc62823_0
     - libffi =3.5.2 =hd1f9c09_0
-    - libfreetype =2.14.3 =h694c41f_0
-    - libfreetype6 =2.14.3 =h58fbd8d_0
+    - libfreetype =2.14.3 =h694c41f_1
+    - libfreetype6 =2.14.3 =h58fbd8d_1
     - libgcc =15.2.0 =h08519bb_19
     - libgettextpo =0.25.1 =h3184127_1
     - libgfortran =15.2.0 =h7e5c614_19
@@ -541,7 +541,7 @@ requirements:
     - unicodedata2 =17.0.1 =py311hc71d4c3_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.7.0 =pyhd8ed1ab_0
-    - wcwidth =0.8.0 =pyhd8ed1ab_0
+    - wcwidth =0.8.1 =pyhd8ed1ab_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - websocket-client =1.9.0 =pyhd8ed1ab_0

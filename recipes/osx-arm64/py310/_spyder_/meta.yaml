@@ -38,7 +38,7 @@ requirements:
     # 305 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - aiohappyeyeballs =2.6.2 =pyhd8ed1ab_0
-    - aiohttp =3.13.5 =py310hd5e7861_0
+    - aiohttp =3.14.1 =py310hd5e7861_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - applaunchservices =0.3.0 =pyh534df25_4
@@ -100,7 +100,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py310hb46c203_0
-    - freetype =2.14.3 =hce30654_0
+    - freetype =2.14.3 =hce30654_1
     - fribidi =1.0.16 =hc919400_0
     - frozenlist =1.8.0 =py310hb0559e5_0
     - fzf =0.73.1 =h75b854d_0
@@ -155,8 +155,8 @@ requirements:
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libexpat =2.8.1 =hf6b4638_0
     - libffi =3.5.2 =hcf2aa1b_0
-    - libfreetype =2.14.3 =hce30654_0
-    - libfreetype6 =2.14.3 =hdfa99f5_0
+    - libfreetype =2.14.3 =hce30654_1
+    - libfreetype6 =2.14.3 =hdfa99f5_1
     - libgcc =15.2.0 =hcbb3090_19
     - libgfortran =15.2.0 =h07b0088_19
     - libgfortran5 =15.2.0 =hdae7583_19
@@ -326,7 +326,7 @@ requirements:
     - unicodedata2 =17.0.1 =py310h72544b6_0
     - urllib3 =2.7.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py310haea493c_3
-    - wcwidth =0.8.0 =pyhd8ed1ab_0
+    - wcwidth =0.8.1 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.47.0 =pyhd8ed1ab_0

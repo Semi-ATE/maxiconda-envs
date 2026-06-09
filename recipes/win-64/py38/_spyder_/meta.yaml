@@ -36,7 +36,7 @@ requirements:
     - spyder =5.4.5 =py38haa244fe_0
     - sympy =1.13.3 =pyh04b8f61_4
 
-    # 274 secondary packages :
+    # 275 secondary packages :
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - arrow =1.3.0 =pyhd8ed1ab_0
     - astroid =2.15.8 =py38haa244fe_0
@@ -90,7 +90,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.53.1 =py38h4cb3324_0
-    - freetype =2.14.3 =h57928b3_0
+    - freetype =2.14.3 =h57928b3_1
     - fribidi =1.0.16 =hfd05255_0
     - glib =2.88.1 =h355229b_2
     - glib-tools =2.88.1 =h81d4522_2
@@ -139,8 +139,8 @@ requirements:
     - libdeflate =1.25 =h51727cc_0
     - libexpat =2.8.1 =hac47afa_0
     - libffi =3.5.2 =h3d046cb_0
-    - libfreetype =2.14.3 =h57928b3_0
-    - libfreetype6 =2.14.3 =hdbac1cb_0
+    - libfreetype =2.14.3 =h57928b3_1
+    - libfreetype6 =2.14.3 =hdbac1cb_1
     - libglib =2.88.1 =h7ce1215_2
     - libhwloc =2.11.2 =default_hc8275d1_1000
     - libiconv =1.18 =hc1393d2_2
@@ -309,6 +309,7 @@ requirements:
     - yapf =0.40.1 =pyhd8ed1ab_0
     - zeromq =4.3.5 =he0c23c2_3
     - zipp =3.21.0 =pyhd8ed1ab_0
+    - zlib =1.3.2 =hfd05255_2
     - zstandard =0.19.0 =py38h91455d4_0
     - zstd =1.5.7 =h534d264_6
 

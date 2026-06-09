@@ -25,7 +25,7 @@ requirements:
     - python =3.12.13 =h0159041_0_cpython
 
     # 38 primary packages :
-    - aiohttp =3.13.5 =py312h6b91d65_0
+    - aiohttp =3.14.1 =py312h6b91d65_0
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - bitarray =3.8.0 =py312he06e257_1
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 499 secondary packages :
+    # 500 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
@@ -137,9 +137,9 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py312h05f76fc_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
-    - freetype =2.14.3 =h57928b3_0
+    - freetype =2.14.3 =h57928b3_1
     - fribidi =1.0.16 =hfd05255_0
-    - frozendict =2.4.7 =py312he06e257_0
+    - frozendict =2.4.7 =pyhcf101f3_1
     - frozenlist =1.8.0 =py312hfdf67e6_0
     - gcc_impl_win-64 =15.2.0 =h062b9a2_19
     - gfortran_impl_win-64 =15.2.0 =h0e079bb_19
@@ -201,8 +201,8 @@ requirements:
     - libdeflate =1.25 =h51727cc_0
     - libexpat =2.8.1 =hac47afa_0
     - libffi =3.5.2 =h3d046cb_0
-    - libfreetype =2.14.3 =h57928b3_0
-    - libfreetype6 =2.14.3 =hdbac1cb_0
+    - libfreetype =2.14.3 =h57928b3_1
+    - libfreetype6 =2.14.3 =hdbac1cb_1
     - libgcc =15.2.0 =h8ee18e1_19
     - libgcc-devel_win-64 =15.2.0 =hbb59886_119
     - libgfortran =15.2.0 =h719f0c7_19
@@ -216,9 +216,9 @@ requirements:
     - libjpeg-turbo =3.1.4.1 =hfd05255_0
     - liblapack =3.11.0 =8_hf9ab0e9_mkl
     - liblzma =5.8.3 =hfd05255_0
-    - libmamba =2.8.0 =h06825f5_0
-    - libmamba-spdlog =2.8.0 =hbfe15b8_0
-    - libmambapy =2.8.0 =py312hfbe3f2c_0
+    - libmamba =2.8.1 =h06825f5_0
+    - libmamba-spdlog =2.8.1 =h7dcf005_0
+    - libmambapy =2.8.1 =py312hae44906_0
     - libmsgpack-c =6.1.0 =h5112557_6
     - libnghttp2 =1.68.1 =hac47afa_0
     - libogg =1.3.5 =h2466b09_1
@@ -249,7 +249,7 @@ requirements:
     - markupsafe =3.0.3 =py312h05f76fc_1
     - matplotlib-base =3.10.9 =py312h0ebf65c_0
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
-    - menuinst =2.4.2 =py312hbb81ca0_0
+    - menuinst =2.5.0 =py312hbb81ca0_0
     - mingw-w64-ucrt-x86_64-crt-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
     - mingw-w64-ucrt-x86_64-headers-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
     - mingw-w64-ucrt-x86_64-windows-default-manifest =6.4 =he206cdd_7
@@ -547,7 +547,7 @@ requirements:
     - vc14_runtime =14.51.36231 =h1b9f54f_38
     - vcomp14 =14.51.36231 =h1b9f54f_38
     - vs2015_runtime =14.51.36231 =h84cd919_38
-    - wcwidth =0.8.0 =pyhd8ed1ab_0
+    - wcwidth =0.8.1 =pyhd8ed1ab_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - websocket-client =1.9.0 =pyhd8ed1ab_0
@@ -561,6 +561,7 @@ requirements:
     - yarl =1.24.2 =py312h05f76fc_0
     - zeromq =4.3.5 =h3a581c9_11
     - zipp =4.1.0 =pyhcf101f3_0
+    - zlib =1.3.2 =hfd05255_2
     - zlib-ng =2.3.3 =h0261ad2_1
     - zstandard =0.25.0 =py312he5662c2_1
     - zstd =1.5.7 =h534d264_6

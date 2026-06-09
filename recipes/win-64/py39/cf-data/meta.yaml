@@ -45,7 +45,7 @@ requirements:
     - statsmodels =0.14.5 =py39h9e4d2f2_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
 
-    # 395 secondary packages :
+    # 396 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _py-xgboost-mutex =2.0 =cpu_0
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -132,7 +132,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.59.1 =py39h5769e4c_0
-    - freetype =2.14.3 =h57928b3_0
+    - freetype =2.14.3 =h57928b3_1
     - fribidi =1.0.16 =hfd05255_0
     - frozenlist =1.7.0 =py39h6d15d50_0
     - fst-pso =1.8.1 =pyhd8ed1ab_0
@@ -213,8 +213,8 @@ requirements:
     - libevent =2.1.12 =h3671451_1
     - libexpat =2.8.1 =hac47afa_0
     - libffi =3.4.6 =h537db12_1
-    - libfreetype =2.14.3 =h57928b3_0
-    - libfreetype6 =2.14.3 =hdbac1cb_0
+    - libfreetype =2.14.3 =h57928b3_1
+    - libfreetype6 =2.14.3 =hdbac1cb_1
     - libgcc =15.2.0 =h8ee18e1_19
     - libgd =2.3.3 =h7208af6_11
     - libglib =2.84.3 =h1c1036b_0
@@ -438,6 +438,7 @@ requirements:
     - yellowbrick =1.5 =pyhd8ed1ab_1
     - zeromq =4.3.5 =h5bddc39_9
     - zipp =3.23.0 =pyhd8ed1ab_0
+    - zlib =1.3.2 =hfd05255_2
     - zope.interface =7.2 =py39ha55e580_0
     - zstandard =0.23.0 =py39h0802e32_3
     - zstd =1.5.7 =h534d264_6

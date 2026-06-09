@@ -38,7 +38,7 @@ requirements:
     # 353 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - aiohappyeyeballs =2.6.2 =pyhd8ed1ab_0
-    - aiohttp =3.13.5 =py311hf076524_0
+    - aiohttp =3.14.1 =py311hf076524_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - alsa-lib =1.2.16 =he30d5cf_0
@@ -100,7 +100,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py311h164a683_0
-    - freetype =2.14.3 =h8af1aa0_0
+    - freetype =2.14.3 =h8af1aa0_1
     - fribidi =1.0.16 =he30d5cf_0
     - frozenlist =1.8.0 =py311h91c1192_0
     - fzf =0.73.1 =h652cbe9_0
@@ -165,8 +165,8 @@ requirements:
     - libexpat =2.8.1 =hfae3067_0
     - libffi =3.5.2 =h376a255_0
     - libflac =1.5.0 =he9c94f4_1
-    - libfreetype =2.14.3 =h8af1aa0_0
-    - libfreetype6 =2.14.3 =hdae7a39_0
+    - libfreetype =2.14.3 =h8af1aa0_1
+    - libfreetype6 =2.14.3 =hdae7a39_1
     - libgcc =15.2.0 =h8acb6b2_19
     - libgcc-ng =15.2.0 =he9431aa_19
     - libgfortran =15.2.0 =he9431aa_19
@@ -352,7 +352,7 @@ requirements:
     - urllib3 =2.7.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py311hee276e8_3
     - wayland =1.25.0 =h4f8a99f_0
-    - wcwidth =0.8.0 =pyhd8ed1ab_0
+    - wcwidth =0.8.1 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.47.0 =pyhd8ed1ab_0

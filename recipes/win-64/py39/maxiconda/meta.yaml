@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 452 secondary packages :
+    # 453 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -119,7 +119,7 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.59.1 =py39h5769e4c_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
-    - freetype =2.14.3 =h57928b3_0
+    - freetype =2.14.3 =h57928b3_1
     - fribidi =1.0.16 =hfd05255_0
     - frozenlist =1.7.0 =py39h6d15d50_0
     - gcc_impl_win-64 =15.2.0 =h062b9a2_19
@@ -178,8 +178,8 @@ requirements:
     - libdeflate =1.25 =h51727cc_0
     - libexpat =2.8.1 =hac47afa_0
     - libffi =3.5.2 =h3d046cb_0
-    - libfreetype =2.14.3 =h57928b3_0
-    - libfreetype6 =2.14.3 =hdbac1cb_0
+    - libfreetype =2.14.3 =h57928b3_1
+    - libfreetype6 =2.14.3 =hdbac1cb_1
     - libgcc =15.2.0 =h8ee18e1_19
     - libgcc-devel_win-64 =15.2.0 =hbb59886_119
     - libgfortran =15.2.0 =h719f0c7_19
@@ -515,6 +515,7 @@ requirements:
     - yarl =1.20.1 =py39hf73967f_0
     - zeromq =4.3.5 =h5bddc39_9
     - zipp =3.23.0 =pyhd8ed1ab_0
+    - zlib =1.3.2 =hfd05255_2
     - zstandard =0.23.0 =py39h0802e32_3
     - zstd =1.5.7 =h534d264_6
 
