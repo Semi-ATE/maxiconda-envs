@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0.3 =py312h51361c1_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.2 =pyh9208f05_0
-    - r-base =4.5.3 =h6422bf8_1
+    - r-base =4.5.3 =h6422bf8_2
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.5.9 =py312h933eb07_0
     - requests =2.34.2 =pyhcf101f3_0
@@ -59,12 +59,12 @@ requirements:
     - sqlalchemy =2.0.50 =py312hba6025d_0
     - sqlite =3.53.2 =h6775aab_0
     - sympy =1.14.0 =pyh2585a3b_106
-    - tqdm =4.68.2 =pyh8f84b5b_0
+    - tqdm =4.68.2 =pyh8f84b5b_1
     - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 527 secondary packages :
+    # 525 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
@@ -101,12 +101,12 @@ requirements:
     - certifi =2026.5.20 =pyhd8ed1ab_0
     - cffi =2.0.0 =py312he90777b_1
     - charset-normalizer =3.4.7 =pyhd8ed1ab_0
-    - clang =22.1.7 =default_cfg_h93fe8ef_1
+    - clang =22.1.7 =default_nocfg_ha939c3f_1
     - clang-22 =22.1.7 =default_h3b8fe2e_1
     - clang-scan-deps =22.1.7 =default_h9399c5b_1
-    - clang_impl_osx-64 =22.1.7 =default_he9bf3b8_1
+    - clang_impl_osx-64 =22.1.7 =default_hb18168d_1
     - clang_osx-64 =22.1.7 =hb0d1528_32
-    - clangxx_impl_osx-64 =22.1.7 =default_he9bf3b8_1
+    - clangxx_impl_osx-64 =22.1.7 =default_hb18168d_1
     - clangxx_osx-64 =22.1.7 =hb0d1528_32
     - click =8.2.1 =pyh707e725_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
@@ -141,7 +141,7 @@ requirements:
     - evalidate =2.0.5 =pyhe01879c_0
     - exceptiongroup =1.3.1 =pyhd8ed1ab_0
     - executing =2.2.1 =pyhd8ed1ab_0
-    - filelock =3.29.1 =pyhd8ed1ab_0
+    - filelock =3.29.3 =pyhd8ed1ab_0
     - fmt =12.1.0 =hda137b5_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -156,8 +156,8 @@ requirements:
     - fribidi =1.0.16 =h8616949_0
     - frozendict =2.4.7 =pyhcf101f3_1
     - frozenlist =1.8.0 =py312h90c63f8_0
-    - gfortran_impl_osx-64 =14.3.0 =h94fe04d_1
-    - gfortran_osx-64 =14.3.0 =h3223c34_0
+    - gcc_impl_osx-64 =15.2.0 =hd882092_19
+    - gfortran_impl_osx-64 =15.2.0 =h3603427_19
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.50 =pyhd8ed1ab_0
     - glib =2.88.1 =h8a3448b_2
@@ -183,7 +183,6 @@ requirements:
     - iniconfig =2.3.0 =pyhd8ed1ab_0
     - ipykernel =6.31.0 =pyh5552912_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
-    - isl =0.26 =imath32_h2e86a7b_101
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.19.2 =pyhd8ed1ab_1
     - json5 =0.14.0 =pyhd8ed1ab_0
@@ -231,9 +230,9 @@ requirements:
     - libfreetype =2.14.3 =h694c41f_1
     - libfreetype6 =2.14.3 =h58fbd8d_1
     - libgcc =15.2.0 =h08519bb_19
+    - libgcc-devel_osx-64 =15.2.0 =h49bd711_119
     - libgettextpo =0.25.1 =h3184127_1
     - libgfortran =15.2.0 =h7e5c614_19
-    - libgfortran-devel_osx-64 =14.3.0 =h660b60f_1
     - libgfortran5 =15.2.0 =hd16e46c_19
     - libglib =2.88.1 =hf28f236_2
     - libiconv =1.18 =h57a12c2_2
@@ -298,7 +297,7 @@ requirements:
     - nss =3.118 =h2b2a826_0
     - openjpeg =2.5.4 =h52bb76a_0
     - openldap =2.6.13 =h2f5043c_0
-    - openssl =3.6.2 =hc881268_0
+    - openssl =3.6.3 =hc881268_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.2 =pyhc364b38_0
     - pandoc =3.10 =h694c41f_0
@@ -588,7 +587,6 @@ requirements:
     - yarl =1.24.2 =py312heb39f77_0
     - zeromq =4.3.5 =h84953be_11
     - zipp =4.1.0 =pyhcf101f3_0
-    - zlib =1.3.2 =hbb4bfdb_2
     - zlib-ng =2.3.3 =h8bce59a_1
     - zstandard =0.25.0 =py312h01f6755_1
     - zstd =1.5.7 =h3eecb57_6
