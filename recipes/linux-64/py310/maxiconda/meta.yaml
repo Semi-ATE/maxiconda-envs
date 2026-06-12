@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.10.20 =h3c07f61_0_cpython
+    - python =3.10.20 =h267e890_1_cpython
   run:
-    - python =3.10.20 =h3c07f61_0_cpython
+    - python =3.10.20 =h267e890_1_cpython
 
     # 38 primary packages :
     - aiohttp =3.14.1 =py310h31b6992_0
@@ -104,7 +104,7 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.2 =py310h3788b33_0
-    - cpython =3.10.20 =py310hd8ed1ab_0
+    - cpython =3.10.20 =py310hd8ed1ab_1
     - curl =8.20.0 =hcf29cc6_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hac629b4_1
@@ -197,7 +197,7 @@ requirements:
     - libegl-devel =1.7.0 =ha4b6fd6_3
     - libev =4.33 =hd590300_2
     - libevent =2.1.12 =hf998b51_1
-    - libexpat =2.8.1 =hecca717_0
+    - libexpat =2.8.1 =hecca717_1
     - libffi =3.5.2 =h3435931_0
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_0

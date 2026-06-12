@@ -111,7 +111,7 @@ requirements:
     - conda-package-handling =2.5.0 =pyhcf101f3_0
     - conda-package-streaming =0.12.0 =pyhd8ed1ab_0
     - conda-pypi =0.10.0 =py312h8025657_0
-    - conda-rattler-solver =0.1.0 =pyhcf101f3_0
+    - conda-rattler-solver =0.1.1 =pyhcf101f3_0
     - conda-recipe-manager =0.10.3 =pyhd8ed1ab_0
     - conda-self =0.2.0 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
@@ -144,7 +144,7 @@ requirements:
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.14.3 =h8af1aa0_1
     - fribidi =1.0.16 =he30d5cf_0
-    - frozendict =2.4.7 =pyhcf101f3_1
+    - frozendict =2.4.7 =pyh851646a_2
     - frozenlist =1.8.0 =py312hb10c72c_0
     - gcc_impl_linux-aarch64 =15.2.0 =h3530432_19
     - gcc_linux-aarch64 =15.2.0 =h0bf4bd8_26
@@ -220,7 +220,7 @@ requirements:
     - libegl-devel =1.7.0 =hd24410f_3
     - libev =4.33 =h31becfc_2
     - libevent =2.1.12 =h4ba1bb4_1
-    - libexpat =2.8.1 =hfae3067_0
+    - libexpat =2.8.1 =hfae3067_1
     - libffi =3.5.2 =h376a255_0
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.3 =h8af1aa0_1
@@ -331,7 +331,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pulseaudio-client =17.0 =hcf98165_3
     - pure_eval =0.2.3 =pyhd8ed1ab_1
-    - py-rattler =0.23.2 =py310h45743d3_1
+    - py-rattler =0.25.0 =py310h45743d3_1
     - pybind11-abi =11 =hc364b38_1
     - pycosat =0.6.6 =py312hcd1a082_3
     - pycparser =3.0 =pyhcf101f3_0

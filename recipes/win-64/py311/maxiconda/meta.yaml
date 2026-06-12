@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.11.15 =h0159041_0_cpython
+    - python =3.11.15 =h0159041_1_cpython
   run:
-    - python =3.11.15 =h0159041_0_cpython
+    - python =3.11.15 =h0159041_1_cpython
 
     # 38 primary packages :
     - aiohttp =3.14.1 =py311ha56572f_0
@@ -183,7 +183,7 @@ requirements:
     - libclang13 =22.1.7 =default_ha2db4b5_1
     - libcurl =8.20.0 =h8206538_0
     - libdeflate =1.25 =h51727cc_0
-    - libexpat =2.8.1 =hac47afa_0
+    - libexpat =2.8.1 =hac47afa_1
     - libffi =3.5.2 =h3d046cb_0
     - libfreetype =2.14.3 =h57928b3_1
     - libfreetype6 =2.14.3 =hdbac1cb_1

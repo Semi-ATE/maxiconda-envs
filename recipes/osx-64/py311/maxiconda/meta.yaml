@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.11.15 =ha9537fe_0_cpython
+    - python =3.11.15 =ha9537fe_1_cpython
   run:
-    - python =3.11.15 =ha9537fe_0_cpython
+    - python =3.11.15 =ha9537fe_1_cpython
 
     # 38 primary packages :
     - aiohttp =3.14.1 =py311ha95a472_0
@@ -119,7 +119,7 @@ requirements:
     - conda-recipe-manager =0.10.3 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h9d13916_4
-    - cpython =3.11.15 =py311hd8ed1ab_0
+    - cpython =3.11.15 =py311hd8ed1ab_1
     - cryptography =48.0.1 =py311h60893eb_0
     - curl =8.20.0 =h8f0b9e4_0
     - cycler =0.12.1 =pyhcf101f3_2
@@ -210,7 +210,7 @@ requirements:
     - libdeflate =1.25 =h517ebb2_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
-    - libexpat =2.8.1 =hcc62823_0
+    - libexpat =2.8.1 =hcc62823_1
     - libffi =3.5.2 =hd1f9c09_0
     - libfreetype =2.14.3 =h694c41f_1
     - libfreetype6 =2.14.3 =h58fbd8d_1

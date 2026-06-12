@@ -108,7 +108,7 @@ requirements:
     - conda-package-handling =2.5.0 =pyhcf101f3_0
     - conda-package-streaming =0.12.0 =pyhd8ed1ab_0
     - conda-pypi =0.10.0 =py312h2e8e312_0
-    - conda-rattler-solver =0.1.0 =pyhcf101f3_0
+    - conda-rattler-solver =0.1.1 =pyhcf101f3_0
     - conda-recipe-manager =0.10.3 =pyhd8ed1ab_0
     - conda-self =0.2.0 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
@@ -139,7 +139,7 @@ requirements:
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.14.3 =h57928b3_1
     - fribidi =1.0.16 =hfd05255_0
-    - frozendict =2.4.7 =pyhcf101f3_1
+    - frozendict =2.4.7 =pyh851646a_2
     - frozenlist =1.8.0 =py312hfdf67e6_0
     - gcc_impl_win-64 =15.2.0 =h062b9a2_19
     - gfortran_impl_win-64 =15.2.0 =h0e079bb_19
@@ -199,7 +199,7 @@ requirements:
     - libclang13 =22.1.7 =default_ha2db4b5_1
     - libcurl =8.20.0 =h8206538_0
     - libdeflate =1.25 =h51727cc_0
-    - libexpat =2.8.1 =hac47afa_0
+    - libexpat =2.8.1 =hac47afa_1
     - libffi =3.5.2 =h3d046cb_0
     - libfreetype =2.14.3 =h57928b3_1
     - libfreetype6 =2.14.3 =hdbac1cb_1
@@ -290,7 +290,7 @@ requirements:
     - propcache =0.5.2 =py312h05f76fc_0
     - pthread-stubs =0.4 =h0e40799_1002
     - pure_eval =0.2.3 =pyhd8ed1ab_1
-    - py-rattler =0.23.2 =py310hb39080a_1
+    - py-rattler =0.25.0 =py310hb39080a_1
     - pybind11-abi =11 =hc364b38_1
     - pycosat =0.6.6 =py312he06e257_3
     - pycparser =3.0 =pyhcf101f3_0
