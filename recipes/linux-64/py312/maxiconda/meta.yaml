@@ -104,13 +104,13 @@ requirements:
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - conda =26.5.2 =py312h7900ff3_0
+    - conda =26.5.2 =py312h7900ff3_1
     - conda-index =0.11.0 =pyhd8ed1ab_0
     - conda-libmamba-solver =26.4.2 =pyhd8ed1ab_0
     - conda-lockfiles =0.2.0 =pyhd8ed1ab_0
     - conda-package-handling =2.5.0 =pyhcf101f3_0
-    - conda-package-streaming =0.12.0 =pyhd8ed1ab_0
-    - conda-pypi =0.10.0 =py312h7900ff3_0
+    - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
+    - conda-pypi =0.10.1 =py312h7900ff3_0
     - conda-rattler-solver =0.1.1 =pyhcf101f3_0
     - conda-recipe-manager =0.10.3 =pyhd8ed1ab_0
     - conda-self =0.2.0 =pyhd8ed1ab_0
@@ -147,7 +147,7 @@ requirements:
     - frozendict =2.4.7 =pyh851646a_2
     - frozenlist =1.8.0 =py312h447239a_0
     - gcc_impl_linux-64 =15.2.0 =he0086c7_19
-    - gcc_linux-64 =15.2.0 =h7be306e_26
+    - gcc_linux-64 =15.2.0 =h7be306e_27
     - gfortran_impl_linux-64 =15.2.0 =h281d09f_19
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.50 =pyhd8ed1ab_0
@@ -161,7 +161,7 @@ requirements:
     - gst-plugins-base =1.26.11 =h6d08254_0
     - gstreamer =1.26.11 =h29cf534_0
     - gxx_impl_linux-64 =15.2.0 =hda75c37_19
-    - gxx_linux-64 =15.2.0 =h92113df_26
+    - gxx_linux-64 =15.2.0 =hcb00b6d_27
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.3.0 =pyhcf101f3_0
     - harfbuzz =14.2.1 =h6083320_0
@@ -497,7 +497,7 @@ requirements:
     - r-rlang =1.2.0 =r45h3697838_0
     - r-rmarkdown =2.31 =r45hc72bb7e_0
     - r-rpart =4.1.27 =r45h54b55ab_0
-    - r-rstudioapi =0.18.0 =r45hc72bb7e_0
+    - r-rstudioapi =0.19.0 =r45hc72bb7e_0
     - r-rvest =1.0.5 =r45hc72bb7e_1
     - r-s7 =0.2.2 =r45h54b55ab_0
     - r-sass =0.4.10 =r45h3697838_1
