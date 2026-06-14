@@ -104,7 +104,7 @@ requirements:
     - conda-recipe-manager =0.10.3 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h275cad7_4
-    - cryptography =48.0.1 =py311h2098ed6_0
+    - cryptography =49.0.0 =py311h2098ed6_0
     - curl =8.20.0 =h8206538_0
     - cycler =0.12.1 =pyhcf101f3_2
     - debugpy =1.8.21 =py311h5dfdfe8_0
@@ -269,7 +269,7 @@ requirements:
     - pycparser =3.0 =pyhcf101f3_0
     - pydantic-core =2.46.4 =py311hf51aa87_0
     - pygments =2.20.0 =pyhd8ed1ab_0
-    - pyopenssl =26.2.0 =pyhcf101f3_0
+    - pyopenssl =26.3.0 =pyhcf101f3_0
     - pyparsing =3.3.2 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py311h3e6a449_2
     - pyside6 =6.11.1 =py311he824864_1
@@ -280,7 +280,7 @@ requirements:
     - python-tzdata =2026.2 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
     - python_abi =3.11 =8_cp311
-    - pywin32 =311 =py311hefeebc8_2
+    - pywin32 =312 =py311hefeebc8_0
     - pywinpty =2.0.15 =py311hda3d55a_1
     - pyzmq =27.1.0 =py311h7a22eb7_3
     - qhull =2020.2 =hc790b64_5
@@ -509,10 +509,10 @@ requirements:
     - unicodedata2 =17.0.1 =py311h3485c13_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.7.0 =pyhd8ed1ab_0
-    - vc =14.5 =h1b7c187_38
-    - vc14_runtime =14.51.36231 =h1b9f54f_38
-    - vcomp14 =14.51.36231 =h1b9f54f_38
-    - vs2015_runtime =14.51.36231 =h84cd919_38
+    - vc =14.5 =h1b7c187_39
+    - vc14_runtime =14.51.36231 =h1b9f54f_39
+    - vcomp14 =14.51.36231 =h1b9f54f_39
+    - vs2015_runtime =14.51.36231 =h84cd919_39
     - wcwidth =0.8.1 =pyhd8ed1ab_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
