@@ -80,7 +80,7 @@ requirements:
     - async-timeout =5.0.1 =pyhcf101f3_2
     - attrs =26.1.0 =pyhcf101f3_0
     - babel =2.18.0 =pyhcf101f3_1
-    - backports.zstd =1.5.0 =py310h69bd2ac_0
+    - backports.zstd =1.6.0 =py310h69bd2ac_0
     - binutils_impl_linux-64 =2.45.1 =default_hfdba357_102
     - binutils_linux-64 =2.45.1 =default_h4852527_102
     - bleach =6.4.0 =pyhcf101f3_0
@@ -494,8 +494,8 @@ requirements:
     - r-viridislite =0.4.3 =r45hc72bb7e_0
     - r-vroom =1.7.1 =r45h3697838_0
     - r-withr =3.0.2 =r45hc72bb7e_1
-    - r-xfun =0.57 =r45h3697838_0
-    - r-xml2 =1.5.2 =r45he78afff_0
+    - r-xfun =0.58 =r45h3697838_0
+    - r-xml2 =1.5.2 =r45he78afff_1
     - r-xtable =1.8_8 =r45hc72bb7e_0
     - r-xts =0.14.2 =r45h54b55ab_0
     - r-yaml =2.3.12 =r45h54b55ab_0
@@ -552,7 +552,7 @@ requirements:
     - xcb-util-keysyms =0.4.1 =hb711507_0
     - xcb-util-renderutil =0.3.10 =hb711507_0
     - xcb-util-wm =0.4.2 =hb711507_0
-    - xkeyboard-config =2.47 =hb03c661_0
+    - xkeyboard-config =2.47 =h280c20c_1
     - xorg-libice =1.1.2 =hb9d3cd8_0
     - xorg-libsm =1.2.6 =he73a12e_0
     - xorg-libx11 =1.8.13 =he1eb515_0
