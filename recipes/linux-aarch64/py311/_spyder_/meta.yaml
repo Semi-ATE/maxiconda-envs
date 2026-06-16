@@ -41,7 +41,7 @@ requirements:
     - aiohttp =3.14.1 =py311hf076524_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
-    - alsa-lib =1.2.16 =he30d5cf_1
+    - alsa-lib =1.2.16.1 =he30d5cf_0
     - arrow =1.4.0 =pyhcf101f3_0
     - astroid =4.0.4 =py311hec3470c_0
     - asttokens =3.0.1 =pyhd8ed1ab_0
@@ -194,7 +194,7 @@ requirements:
     - libpq =18.4 =hccacd55_0
     - libsndfile =1.2.2 =h30591a0_2
     - libsodium =1.0.22 =h80f16a2_1
-    - libspatialindex =2.1.0 =hd7870d2_0
+    - libspatialindex =2.1.0 =h7ac5ae9_1
     - libsqlite =3.53.2 =h10b116e_0
     - libstdcxx =15.2.0 =hef695bb_19
     - libstdcxx-ng =15.2.0 =hdbbeba8_19
@@ -347,7 +347,7 @@ requirements:
     - typing-extensions =4.15.0 =h396c80c_0
     - typing_extensions =4.15.0 =pyhcf101f3_0
     - tzdata =2025c =hc9c84f9_1
-    - ujson =5.12.1 =py311h8e4e6a5_1
+    - ujson =5.13.0 =py311h8e4e6a5_0
     - unicodedata2 =17.0.1 =py311h19352d5_0
     - urllib3 =2.7.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py311hee276e8_3

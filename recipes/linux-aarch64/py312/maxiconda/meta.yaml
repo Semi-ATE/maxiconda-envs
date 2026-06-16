@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0.3 =py312ha4530ae_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.2 =pyh9208f05_0
-    - r-base =4.5.3 =h269e6ae_2
+    - r-base =4.5.3 =h269e6ae_3
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.5.9 =py312hcd1a082_0
     - requests =2.34.2 =pyhcf101f3_0
@@ -56,7 +56,7 @@ requirements:
     - scipy =1.17.1 =py312ha7f05e0_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.4 =unix_pyh707e725_0
-    - sqlalchemy =2.0.50 =py312h2fc9c67_0
+    - sqlalchemy =2.0.51 =py312h2fc9c67_0
     - sqlite =3.53.2 =hf1c7be2_0
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.68.2 =pyh8f84b5b_1
@@ -70,7 +70,7 @@ requirements:
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.2 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
-    - alsa-lib =1.2.16 =he30d5cf_1
+    - alsa-lib =1.2.16.1 =he30d5cf_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
     - anyio =4.13.0 =pyhcf101f3_0
     - archspec =0.2.5 =pyhd8ed1ab_0
@@ -110,9 +110,9 @@ requirements:
     - conda-lockfiles =0.2.0 =pyhd8ed1ab_0
     - conda-package-handling =2.5.0 =pyhcf101f3_0
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
-    - conda-pypi =0.10.1 =py312h8025657_0
+    - conda-pypi =0.10.1 =py312h3262aca_1
     - conda-rattler-solver =0.1.1 =pyhcf101f3_0
-    - conda-recipe-manager =0.10.3 =pyhd8ed1ab_0
+    - conda-recipe-manager =0.10.4 =pyhd8ed1ab_0
     - conda-self =0.2.0 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py312hf18b547_4

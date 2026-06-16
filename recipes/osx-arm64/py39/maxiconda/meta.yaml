@@ -47,7 +47,7 @@ requirements:
     - pyyaml =6.0.2 =py39hefdd603_2
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.0 =pyh9208f05_1
-    - r-base =4.5.3 =h35b0bb1_1
+    - r-base =4.5.3 =h35b0bb1_3
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2025.7.34 =py39he7485ab_0
     - requests =2.32.5 =pyhd8ed1ab_0
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 482 secondary packages :
+    # 480 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -136,8 +136,8 @@ requirements:
     - freetype =2.14.3 =hce30654_1
     - fribidi =1.0.16 =hc919400_0
     - frozenlist =1.7.0 =py39h2ffb7dc_0
-    - gfortran_impl_osx-arm64 =14.3.0 =h6d03799_1
-    - gfortran_osx-arm64 =14.3.0 =h3c33bd0_0
+    - gcc_impl_osx-arm64 =15.2.0 =he0e5a81_19
+    - gfortran_impl_osx-arm64 =15.2.0 =hfeb3900_19
     - glib =2.88.1 =h92d5a4f_2
     - glib-tools =2.88.1 =h37541a8_2
     - gmp =6.3.0 =h7bae524_2
@@ -161,7 +161,6 @@ requirements:
     - importlib_resources =6.5.2 =pyhd8ed1ab_0
     - iniconfig =2.0.0 =pyhd8ed1ab_1
     - ipykernel =6.30.1 =pyh92f572d_0
-    - isl =0.26 =imath32_h347afa1_101
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.19.2 =pyhd8ed1ab_1
     - json5 =0.12.1 =pyhd8ed1ab_0
@@ -207,9 +206,9 @@ requirements:
     - libfreetype =2.14.3 =hce30654_1
     - libfreetype6 =2.14.3 =hdfa99f5_1
     - libgcc =15.2.0 =hcbb3090_19
+    - libgcc-devel_osx-arm64 =15.2.0 =hee53e68_119
     - libgettextpo =0.25.1 =h493aca8_0
     - libgfortran =15.2.0 =h07b0088_19
-    - libgfortran-devel_osx-arm64 =14.3.0 =hc965647_1
     - libgfortran5 =15.2.0 =hdae7583_19
     - libglib =2.88.1 =ha08bb59_2
     - libiconv =1.18 =h23cfdf5_2
@@ -543,7 +542,6 @@ requirements:
     - yarl =1.20.1 =py39hefdd603_0
     - zeromq =4.3.5 =hebf3989_1
     - zipp =3.23.0 =pyhd8ed1ab_0
-    - zlib =1.3.2 =h8088a28_2
     - zstandard =0.23.0 =py39he7485ab_3
     - zstd =1.5.7 =hbf9d68e_6
 

@@ -47,7 +47,7 @@ requirements:
     - pyyaml =6.0.3 =py311hc290fe0_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.2 =pyh9208f05_0
-    - r-base =4.5.3 =h35b0bb1_1
+    - r-base =4.5.3 =h35b0bb1_3
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.5.9 =py311hc949640_0
     - requests =2.34.2 =pyhcf101f3_0
@@ -55,7 +55,7 @@ requirements:
     - scipy =1.17.1 =py311h9a58382_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.4 =unix_pyh707e725_0
-    - sqlalchemy =2.0.50 =py311he363849_0
+    - sqlalchemy =2.0.51 =py311he363849_0
     - sqlite =3.53.2 =h77b7338_0
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.68.2 =pyh8f84b5b_1
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 492 secondary packages :
+    # 490 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.2 =pyhd8ed1ab_0
@@ -115,7 +115,7 @@ requirements:
     - conda =22.9.0 =py311h267d04e_2
     - conda-package-handling =2.5.0 =pyhcf101f3_0
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
-    - conda-recipe-manager =0.10.3 =pyhd8ed1ab_0
+    - conda-recipe-manager =0.10.4 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h7d85929_4
     - cpython =3.11.15 =py311hd8ed1ab_1
@@ -142,8 +142,8 @@ requirements:
     - freetype =2.14.3 =hce30654_1
     - fribidi =1.0.16 =hc919400_0
     - frozenlist =1.8.0 =py311hf75086c_0
-    - gfortran_impl_osx-arm64 =14.3.0 =h6d03799_1
-    - gfortran_osx-arm64 =14.3.0 =h3c33bd0_0
+    - gcc_impl_osx-arm64 =15.2.0 =he0e5a81_19
+    - gfortran_impl_osx-arm64 =15.2.0 =hfeb3900_19
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.50 =pyhd8ed1ab_0
     - glib =2.88.1 =h92d5a4f_2
@@ -169,7 +169,6 @@ requirements:
     - iniconfig =2.3.0 =pyhd8ed1ab_0
     - ipykernel =6.31.0 =pyh5552912_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
-    - isl =0.26 =imath32_h347afa1_101
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.19.2 =pyhd8ed1ab_1
     - json5 =0.14.0 =pyhd8ed1ab_0
@@ -215,9 +214,9 @@ requirements:
     - libfreetype =2.14.3 =hce30654_1
     - libfreetype6 =2.14.3 =hdfa99f5_1
     - libgcc =15.2.0 =hcbb3090_19
+    - libgcc-devel_osx-arm64 =15.2.0 =hee53e68_119
     - libgettextpo =0.25.1 =h493aca8_0
     - libgfortran =15.2.0 =h07b0088_19
-    - libgfortran-devel_osx-arm64 =14.3.0 =hc965647_1
     - libgfortran5 =15.2.0 =hdae7583_19
     - libglib =2.88.1 =ha08bb59_2
     - libiconv =1.18 =h23cfdf5_2
@@ -552,7 +551,6 @@ requirements:
     - yarl =1.24.2 =py311hc290fe0_0
     - zeromq =4.3.5 =h10816f8_11
     - zipp =4.1.0 =pyhcf101f3_0
-    - zlib =1.3.2 =h8088a28_2
     - zlib-ng =2.3.3 =hed4e4f5_1
     - zstandard =0.25.0 =py311h5bb9006_1
     - zstd =1.5.7 =hbf9d68e_6
