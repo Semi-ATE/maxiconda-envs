@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =3.2.5 =py311h3007246_0
-    - matplotlib =3.10.9 =py311h6eed73b_0
+    - matplotlib =3.11.0 =py311h6eed73b_0
     - numpy =2.4.6 =py311h2c4eb96_0
     - pandas =3.0.3 =py311h2a74ac8_0
     - pyqt =5.15.11 =py311he03e2d5_2
@@ -35,7 +35,7 @@ requirements:
     - spyder =6.1.4 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
-    # 304 secondary packages :
+    # 305 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - aiohappyeyeballs =2.6.2 =pyhd8ed1ab_0
     - aiohttp =3.14.1 =py311ha95a472_0
@@ -116,7 +116,7 @@ requirements:
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =78.3 =h25d91c4_0
-    - idna =3.17 =pyhcf101f3_0
+    - idna =3.18 =pyhcf101f3_0
     - imagesize =2.0.0 =pyhd8ed1ab_0
     - importlib-metadata =9.0.0 =pyhcf101f3_0
     - importlib_resources =7.1.0 =pyhd8ed1ab_0
@@ -174,6 +174,7 @@ requirements:
     - libopus =1.6.1 =hc6ced15_0
     - libpng =1.6.58 =he930e7c_0
     - libpq =18.4 =h5935a4f_0
+    - libraqm =0.10.5 =hcf81f31_0
     - libsodium =1.0.22 =ha3d0635_1
     - libspatialindex =2.1.0 =h2fb4741_1
     - libsqlite =3.53.2 =h8f8c405_0
@@ -189,7 +190,7 @@ requirements:
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.2.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py311ha8ae342_1
-    - matplotlib-base =3.10.9 =py311hc159c88_0
+    - matplotlib-base =3.11.0 =py311ha63f832_0
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
