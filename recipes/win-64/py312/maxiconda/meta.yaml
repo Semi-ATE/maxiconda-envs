@@ -44,7 +44,7 @@ requirements:
     - pydantic =2.13.4 =pyhcf101f3_0
     - pyqt =5.15.11 =py312h7eb3e20_2
     - pyserial =3.5 =pyhcf101f3_2
-    - pytest =9.1.0 =pyhc364b38_0
+    - pytest =9.1.0 =pyhc364b38_1
     - pyyaml =6.0.3 =py312h05f76fc_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.2 =pyh9208f05_0
@@ -59,7 +59,7 @@ requirements:
     - sqlalchemy =2.0.51 =py312he5662c2_0
     - sqlite =3.53.2 =hdb435a2_0
     - sympy =1.14.0 =pyh04b8f61_6
-    - tqdm =4.68.2 =pyha7b4d00_1
+    - tqdm =4.68.3 =pyha7b4d00_0
     - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
@@ -90,18 +90,18 @@ requirements:
     - brotli-python =1.2.0 =py312hc6d9e41_1
     - bwidget =1.10.1 =h57928b3_1
     - bzip2 =1.0.8 =h0ad9c76_9
-    - ca-certificates =2026.5.20 =h4c7d964_0
+    - ca-certificates =2026.6.17 =h4c7d964_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h477c42c_1
-    - certifi =2026.5.20 =pyhd8ed1ab_0
+    - certifi =2026.6.17 =pyhd8ed1ab_0
     - cffi =2.0.0 =py312he06e257_1
     - charset-normalizer =3.4.7 =pyhd8ed1ab_0
     - click =8.2.1 =pyh7428d3b_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - conda =26.5.2 =py312h2e8e312_1
+    - conda =26.5.3 =py312h2e8e312_0
     - conda-index =0.11.0 =pyhd8ed1ab_0
     - conda-libmamba-solver =26.4.2 =pyhd8ed1ab_0
     - conda-lockfiles =0.2.0 =pyhd8ed1ab_0
@@ -179,9 +179,9 @@ requirements:
     - jupyter_client =8.9.1 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyh6dadd2b_0
     - jupyter_events =0.12.1 =pyhcf101f3_0
-    - jupyter_server =2.19.0 =pyhcf101f3_0
+    - jupyter_server =2.20.0 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.4 =pyhcf101f3_0
-    - jupyterlab =4.5.8 =pyhd8ed1ab_0
+    - jupyterlab =4.5.9 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.0 =pyhcf101f3_0
     - kiwisolver =1.5.0 =py312h78d62e6_0
@@ -241,7 +241,7 @@ requirements:
     - libxml2-16 =2.15.3 =h3cfd58e_0
     - libxslt =1.1.43 =h0fbe4c1_1
     - libzlib =1.3.2 =hfd05255_2
-    - llvm-openmp =22.1.7 =h4fa8253_0
+    - llvm-openmp =22.1.8 =h4fa8253_0
     - llvmlite =0.47.0 =py312hdb9728c_1
     - lz4-c =1.10.0 =h2466b09_1
     - lzo =2.10 =h6a83c73_1002

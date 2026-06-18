@@ -44,7 +44,7 @@ requirements:
     - pydantic =2.13.4 =pyhcf101f3_0
     - pyqt =5.15.11 =py311he03e2d5_2
     - pyserial =3.5 =pyhcf101f3_2
-    - pytest =9.1.0 =pyhc364b38_0
+    - pytest =9.1.0 =pyhc364b38_1
     - pyyaml =6.0.3 =py311h53ebfaf_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.2 =pyh9208f05_0
@@ -59,12 +59,12 @@ requirements:
     - sqlalchemy =2.0.51 =py311h15eb09d_0
     - sqlite =3.53.2 =h6775aab_0
     - sympy =1.14.0 =pyh2585a3b_106
-    - tqdm =4.68.2 =pyh8f84b5b_1
+    - tqdm =4.68.3 =pyh8f84b5b_0
     - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 491 secondary packages :
+    # 489 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.2 =pyhd8ed1ab_0
@@ -88,17 +88,15 @@ requirements:
     - bwidget =1.10.1 =h694c41f_1
     - bzip2 =1.0.8 =h500dc9f_9
     - c-ares =1.34.6 =hb5e19a0_0
-    - ca-certificates =2026.5.20 =hbd8a1cb_0
+    - ca-certificates =2026.6.17 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_1
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.4 =h7656bdc_1
-    - cctools =1030.6.3 =llvm22_1_h0a1bb1c_4
     - cctools_impl_osx-64 =1030.6.3 =llvm22_1_h8fe25a2_4
     - cctools_osx-64 =1030.6.3 =llvm22_1_h0a1bb1c_4
-    - certifi =2026.5.20 =pyhd8ed1ab_0
+    - certifi =2026.6.17 =pyhd8ed1ab_0
     - cffi =2.0.0 =py311h26bcf6e_1
     - charset-normalizer =3.4.7 =pyhd8ed1ab_0
-    - clang =22.1.7 =default_nocfg_ha939c3f_1
     - clang-22 =22.1.7 =default_h3b8fe2e_1
     - clang-scan-deps =22.1.7 =default_h9399c5b_1
     - clang_impl_osx-64 =22.1.7 =default_hb18168d_1
@@ -143,8 +141,7 @@ requirements:
     - freetype =2.14.3 =h694c41f_1
     - fribidi =1.0.16 =h8616949_0
     - frozenlist =1.8.0 =py311ha09d3ca_0
-    - gcc_impl_osx-64 =15.2.0 =hd882092_19
-    - gfortran_impl_osx-64 =15.2.0 =h3603427_19
+    - gfortran_impl_osx-64 =15.1.0 =h38112e1_0
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.50 =pyhd8ed1ab_0
     - glib =2.88.1 =h8a3448b_2
@@ -170,6 +167,7 @@ requirements:
     - iniconfig =2.3.0 =pyhd8ed1ab_0
     - ipykernel =6.31.0 =pyh5552912_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
+    - isl =0.26 =imath32_h2e86a7b_101
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.19.2 =pyhd8ed1ab_1
     - json5 =0.14.0 =pyhd8ed1ab_0
@@ -181,16 +179,15 @@ requirements:
     - jupyter_client =8.9.1 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyhc90fa1f_0
     - jupyter_events =0.12.1 =pyhcf101f3_0
-    - jupyter_server =2.19.0 =pyhcf101f3_0
+    - jupyter_server =2.20.0 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.4 =pyhcf101f3_0
-    - jupyterlab =4.5.8 =pyhd8ed1ab_0
+    - jupyterlab =4.5.9 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.0 =pyhcf101f3_0
     - kiwisolver =1.5.0 =py311h2886188_0
     - krb5 =1.22.2 =h207b36a_0
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.19.1 =h5ea7634_1
-    - ld64 =956.6 =llvm22_1_hc399b6d_4
     - ld64_osx-64 =956.6 =llvm22_1_h163eae7_4
     - lerc =4.1.0 =h35c7297_0
     - libasprintf =0.25.1 =h3184127_1
@@ -204,9 +201,9 @@ requirements:
     - libclang13 =22.1.7 =default_h2429e1b_1
     - libcompiler-rt =22.1.7 =h1637cdf_0
     - libcurl =8.20.0 =h8f0b9e4_0
-    - libcxx =22.1.7 =h19cb2f5_0
-    - libcxx-devel =22.1.7 =h7c275be_0
-    - libcxx-headers =22.1.7 =h707e725_0
+    - libcxx =22.1.8 =h19cb2f5_0
+    - libcxx-devel =22.1.8 =h7c275be_0
+    - libcxx-headers =22.1.8 =h707e725_0
     - libdeflate =1.25 =h517ebb2_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libev =4.33 =h10d778d_2
@@ -215,9 +212,9 @@ requirements:
     - libfreetype =2.14.3 =h694c41f_1
     - libfreetype6 =2.14.3 =h58fbd8d_1
     - libgcc =15.2.0 =h08519bb_19
-    - libgcc-devel_osx-64 =15.2.0 =h49bd711_119
     - libgettextpo =0.25.1 =h3184127_1
     - libgfortran =15.2.0 =h7e5c614_19
+    - libgfortran-devel_osx-64 =15.1.0 =h5f6db21_1
     - libgfortran5 =15.2.0 =hd16e46c_19
     - libglib =2.88.1 =hf28f236_2
     - libiconv =1.18 =h57a12c2_2
@@ -226,7 +223,7 @@ requirements:
     - libjpeg-turbo =3.1.4.1 =ha1e9b39_0
     - liblapack =3.11.0 =8_h859234e_openblas
     - libllvm18 =18.1.8 =default_h9399c5b_12
-    - libllvm22 =22.1.7 =hab754da_0
+    - libllvm22 =22.1.8 =hab754da_0
     - liblzma =5.8.3 =hbb4bfdb_0
     - libnghttp2 =1.68.1 =h70048d4_0
     - libntlm =1.8 =h6e16a3a_0
@@ -248,9 +245,9 @@ requirements:
     - libxml2 =2.15.3 =h953d39d_0
     - libxml2-16 =2.15.3 =h7a90416_0
     - libzlib =1.3.2 =hbb4bfdb_2
-    - llvm-openmp =22.1.7 =h0d3cbff_0
-    - llvm-tools =22.1.7 =h1637cdf_0
-    - llvm-tools-22 =22.1.7 =hc181bea_0
+    - llvm-openmp =22.1.8 =h0d3cbff_0
+    - llvm-tools =22.1.8 =h1637cdf_0
+    - llvm-tools-22 =22.1.8 =hc181bea_0
     - llvmlite =0.47.0 =py311h2a7c09c_1
     - make =4.4.1 =h00291cd_2
     - markupsafe =3.0.3 =py311ha8ae342_1
@@ -553,6 +550,7 @@ requirements:
     - yarl =1.24.2 =py311ha8ae342_0
     - zeromq =4.3.5 =h84953be_11
     - zipp =4.1.0 =pyhcf101f3_0
+    - zlib =1.3.2 =hbb4bfdb_2
     - zlib-ng =2.3.3 =h8bce59a_1
     - zstandard =0.25.0 =py311h62e9434_1
     - zstd =1.5.7 =h3eecb57_6
