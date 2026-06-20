@@ -31,7 +31,7 @@ requirements:
     - pandas =3.0.3 =py312h6510ced_0
     - pyqt =5.15.11 =py312h6612b97_2
     - pyqtwebengine =5.15.11 =py312h1a0e663_2
-    - scipy =1.17.1 =py312h4519d97_1
+    - scipy =1.18.0 =py312h4519d97_0
     - spyder =6.1.4 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
@@ -140,7 +140,7 @@ requirements:
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - keyring =25.7.0 =pyh534df25_0
     - kiwisolver =1.5.0 =py312h3093aea_0
-    - krb5 =1.22.2 =h385eeb1_0
+    - krb5 =1.22.2 =hfd3d5f3_1
     - lcms2 =2.19.1 =hdfa7624_1
     - lerc =4.1.0 =h1eee2c3_0
     - libblas =3.11.0 =8_h51639a9_openblas
@@ -149,7 +149,7 @@ requirements:
     - libbrotlienc =1.2.0 =hc919400_1
     - libcblas =3.11.0 =8_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
-    - libclang13 =22.1.8 =default_h6dd9417_1
+    - libclang13 =22.1.8 =default_h6dd9417_2
     - libcxx =22.1.8 =h55c6f16_0
     - libdeflate =1.25 =hc11a715_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
@@ -293,7 +293,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =2026.5.1 =py312h8b1d842_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.15.17 =h80928e0_0
+    - ruff =0.15.18 =h80928e0_0
     - setuptools =82.0.1 =pyh332efcf_0
     - sip =6.15.3 =py312h6d95f44_0
     - six =1.17.0 =pyhe01879c_1

@@ -143,7 +143,7 @@ requirements:
     - keyring =25.7.0 =pyha804496_0
     - keyutils =1.6.3 =h86ecc28_0
     - kiwisolver =1.5.0 =py310h65c7496_0
-    - krb5 =1.22.2 =hfd895c2_0
+    - krb5 =1.22.2 =h2fb54aa_1
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.19.1 =h9d5b58d_1
     - ld_impl_linux-aarch64 =2.45.1 =default_h1979696_102
@@ -154,8 +154,8 @@ requirements:
     - libbrotlienc =1.2.0 =he30d5cf_1
     - libcap =2.78 =hf9559e3_0
     - libcblas =3.11.0 =8_hd72aa62_openblas
-    - libclang-cpp22.1 =22.1.8 =default_h2a92e99_1
-    - libclang13 =22.1.8 =default_h3185f35_1
+    - libclang-cpp22.1 =22.1.8 =default_h2a92e99_2
+    - libclang13 =22.1.8 =default_h3185f35_2
     - libcups =2.3.3 =h4f2b762_6
     - libdeflate =1.25 =h1af38f5_0
     - libdrm =2.4.127 =he30d5cf_0
@@ -316,7 +316,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py310haddc216_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.15.17 =h88be79b_0
+    - ruff =0.15.18 =h88be79b_0
     - secretstorage =3.5.0 =py310hbbe02a8_0
     - setuptools =82.0.1 =pyh332efcf_0
     - sip =6.15.3 =py310hbe5e9e6_0

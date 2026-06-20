@@ -99,12 +99,12 @@ requirements:
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38h858044d_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
-    - clang =22.1.8 =default_nocfg_h5570df8_1
-    - clang-22 =22.1.8 =default_hd632d02_1
-    - clang-scan-deps =22.1.8 =default_h8e162e0_1
-    - clang_impl_osx-arm64 =22.1.8 =default_hf7205c7_1
+    - clang =22.1.8 =default_cfg_hb78b91e_2
+    - clang-22 =22.1.8 =default_hd632d02_2
+    - clang-scan-deps =22.1.8 =default_h8e162e0_2
+    - clang_impl_osx-arm64 =22.1.8 =default_h17d1ed9_2
     - clang_osx-arm64 =22.1.8 =hc95f77d_32
-    - clangxx_impl_osx-arm64 =22.1.8 =default_hf7205c7_1
+    - clangxx_impl_osx-arm64 =22.1.8 =default_h17d1ed9_2
     - clangxx_osx-arm64 =22.1.8 =hc95f77d_32
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.1.0 =pyhd8ed1ab_1
@@ -182,7 +182,7 @@ requirements:
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_1
     - jupyterlab_server =2.27.3 =pyhd8ed1ab_0
     - kiwisolver =1.4.5 =py38h9afee92_1
-    - krb5 =1.22.2 =h385eeb1_0
+    - krb5 =1.22.2 =hfd3d5f3_1
     - lcms2 =2.19.1 =hdfa7624_1
     - ld64 =956.6 =llvm22_1_h5b97f1b_4
     - ld64_osx-arm64 =956.6 =llvm22_1_h692d5aa_4
@@ -194,8 +194,8 @@ requirements:
     - libbrotlienc =1.2.0 =hc919400_1
     - libcblas =3.9.0 =20_osxarm64_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
-    - libclang-cpp22.1 =22.1.8 =default_h8e162e0_1
-    - libclang13 =22.1.8 =default_h6dd9417_1
+    - libclang-cpp22.1 =22.1.8 =default_h8e162e0_2
+    - libclang13 =22.1.8 =default_h6dd9417_2
     - libcompiler-rt =22.1.8 =hd34ed20_1
     - libcurl =8.20.0 =hd5a2499_0
     - libcxx =22.1.8 =h55c6f16_0
@@ -485,7 +485,7 @@ requirements:
     - r-vctrs =0.7.3 =r45h1380947_0
     - r-viridislite =0.4.3 =r45hc72bb7e_0
     - r-vroom =1.7.1 =r45h1380947_0
-    - r-withr =3.0.2 =r45hc72bb7e_1
+    - r-withr =3.0.3 =r45hc72bb7e_0
     - r-xfun =0.58 =r45h45a6d21_0
     - r-xml2 =1.5.2 =r45habafc95_1
     - r-xtable =1.8_8 =r45hc72bb7e_0

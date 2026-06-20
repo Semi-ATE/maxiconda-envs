@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py310h5b55623_1
     - cython =3.2.5 =py310h0d97cfb_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.155.5 =pyha770c72_0
+    - hypothesis =6.155.6 =pyha770c72_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py310hbbe02a8_0
@@ -44,7 +44,7 @@ requirements:
     - pydantic =2.13.4 =pyhcf101f3_0
     - pyqt =5.15.11 =py310h5ffa702_2
     - pyserial =3.5 =pyhcf101f3_2
-    - pytest =9.1.0 =pyhc364b38_1
+    - pytest =9.1.1 =pyhc364b38_1
     - pyyaml =6.0.3 =py310h2d8da20_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.2 =pyh9208f05_0
@@ -174,7 +174,7 @@ requirements:
     - kernel-headers_linux-aarch64 =6.12.0 =h05a177a_6
     - keyutils =1.6.3 =h86ecc28_0
     - kiwisolver =1.5.0 =py310h65c7496_0
-    - krb5 =1.22.2 =hfd895c2_0
+    - krb5 =1.22.2 =h2fb54aa_1
     - lame =3.100 =h4e544f5_1003
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.19.1 =h9d5b58d_1
@@ -186,8 +186,8 @@ requirements:
     - libbrotlienc =1.2.0 =he30d5cf_1
     - libcap =2.78 =hf9559e3_0
     - libcblas =3.11.0 =8_hd72aa62_openblas
-    - libclang-cpp22.1 =22.1.8 =default_h2a92e99_1
-    - libclang13 =22.1.8 =default_h3185f35_1
+    - libclang-cpp22.1 =22.1.8 =default_h2a92e99_2
+    - libclang13 =22.1.8 =default_h3185f35_2
     - libcups =2.3.3 =h4f2b762_6
     - libcurl =8.20.0 =hc57f145_0
     - libdeflate =1.25 =h1af38f5_0
@@ -493,7 +493,7 @@ requirements:
     - r-vctrs =0.7.3 =r45h08b74da_0
     - r-viridislite =0.4.3 =r45hc72bb7e_0
     - r-vroom =1.7.1 =r45h08b74da_0
-    - r-withr =3.0.2 =r45hc72bb7e_1
+    - r-withr =3.0.3 =r45hc72bb7e_0
     - r-xfun =0.58 =r45hd601667_0
     - r-xml2 =1.5.2 =r45h15e677e_1
     - r-xtable =1.8_8 =r45hc72bb7e_0
