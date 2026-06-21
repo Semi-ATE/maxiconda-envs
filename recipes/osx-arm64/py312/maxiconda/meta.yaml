@@ -100,12 +100,12 @@ requirements:
     - certifi =2026.6.17 =pyhd8ed1ab_0
     - cffi =2.0.0 =py312h1b4d9a2_1
     - charset-normalizer =3.4.7 =pyhd8ed1ab_0
-    - clang =22.1.8 =default_nocfg_h5570df8_2
+    - clang =22.1.8 =default_cfg_hb78b91e_2
     - clang-22 =22.1.8 =default_hd632d02_2
     - clang-scan-deps =22.1.8 =default_h8e162e0_2
-    - clang_impl_osx-arm64 =22.1.8 =default_hf7205c7_2
+    - clang_impl_osx-arm64 =22.1.8 =default_h17d1ed9_2
     - clang_osx-arm64 =22.1.8 =hc95f77d_32
-    - clangxx_impl_osx-arm64 =22.1.8 =default_hf7205c7_2
+    - clangxx_impl_osx-arm64 =22.1.8 =default_h17d1ed9_2
     - clangxx_osx-arm64 =22.1.8 =hc95f77d_32
     - click =8.2.1 =pyh707e725_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
@@ -183,7 +183,7 @@ requirements:
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.19.2 =pyhd8ed1ab_1
-    - json5 =0.14.0 =pyhd8ed1ab_0
+    - json5 =0.15.0 =pyhd8ed1ab_0
     - jsonpatch =1.33 =pyhd8ed1ab_1
     - jsonpointer =3.1.1 =pyhcf101f3_0
     - jsonschema =4.26.0 =pyhcf101f3_0
