@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py312hcd1a082_1
     - cython =3.2.5 =py312he940de5_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.155.6 =pyha770c72_0
+    - hypothesis =6.155.7 =pyha770c72_0
     - ipython =9.14.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.0 =py312h8025657_0
@@ -287,13 +287,13 @@ requirements:
     - markupsafe =3.0.3 =py312hd077ced_1
     - matplotlib-base =3.11.0 =py312h982a919_0
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
-    - menuinst =2.5.0 =py312h996f985_0
+    - menuinst =2.5.0 =py312h3262aca_1
     - mistune =3.2.1 =pyhcf101f3_0
     - mpc =1.4.0 =he6dc3fb_0
     - mpfr =4.2.2 =h3faef18_0
     - mpg123 =1.32.9 =h65af167_0
     - mpmath =1.4.1 =pyhd8ed1ab_0
-    - msgpack-python =1.2.0 =py312h4f740d2_0
+    - msgpack-python =1.2.1 =py312h4f740d2_0
     - multidict =6.7.1 =py312ha4530ae_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.11.0 =pyhd8ed1ab_0
@@ -505,7 +505,7 @@ requirements:
     - r-scales =1.4.0 =r45hc72bb7e_1
     - r-selectr =0.5_1 =r45hc72bb7e_0
     - r-shape =1.4.6.1 =r45ha770c72_2
-    - r-shiny =1.13.0 =r45h785f33e_0
+    - r-shiny =1.14.0 =r45h785f33e_0
     - r-sourcetools =0.1.7_2 =r45h08b74da_0
     - r-sparsevctrs =0.3.6 =r45h0557e7b_0
     - r-spatial =7.3_18 =r45h0557e7b_1
@@ -598,7 +598,7 @@ requirements:
     - xcb-util-keysyms =0.4.1 =h5c728e9_0
     - xcb-util-renderutil =0.3.10 =h5c728e9_0
     - xcb-util-wm =0.4.2 =h5c728e9_0
-    - xkeyboard-config =2.47 =h80f16a2_1
+    - xkeyboard-config =2.48 =h80f16a2_0
     - xorg-libice =1.1.2 =h86ecc28_0
     - xorg-libsm =1.2.6 =h0808dbd_0
     - xorg-libx11 =1.8.13 =h63a1b12_0
