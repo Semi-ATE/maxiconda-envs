@@ -44,7 +44,7 @@ requirements:
     - pydantic =2.13.4 =pyhcf101f3_0
     - pyqt =5.15.11 =py312h7eb3e20_2
     - pyserial =3.5 =pyhcf101f3_2
-    - pytest =9.1.1 =pyhc364b38_1
+    - pytest =9.1.1 =pyhc364b38_2
     - pyyaml =6.0.3 =py312h05f76fc_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.2 =pyh9208f05_0
@@ -255,7 +255,7 @@ requirements:
     - mingw-w64-ucrt-x86_64-headers-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
     - mingw-w64-ucrt-x86_64-windows-default-manifest =6.4 =he206cdd_7
     - mingw-w64-ucrt-x86_64-winpthreads-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
-    - mistune =3.2.1 =pyhcf101f3_0
+    - mistune =3.3.1 =pyhcf101f3_0
     - mkl =2026.0.0 =hac47afa_908
     - mpmath =1.4.1 =pyhd8ed1ab_0
     - msgpack-python =1.2.1 =py312hf90b1b7_0
@@ -403,7 +403,7 @@ requirements:
     - r-lava =1.9.1 =r45hc72bb7e_0
     - r-lazyeval =0.2.3 =r45heceb674_0
     - r-lifecycle =1.0.5 =r45hc72bb7e_0
-    - r-listenv =0.10.1 =r45hc72bb7e_0
+    - r-listenv =1.0.0 =r45hc72bb7e_0
     - r-lobstr =1.2.1 =r45hd8a2815_0
     - r-lubridate =1.9.5 =r45heceb674_0
     - r-magrittr =2.0.5 =r45heceb674_0
@@ -494,7 +494,7 @@ requirements:
     - r-vroom =1.7.1 =r45hd8a2815_0
     - r-withr =3.0.3 =r45hc72bb7e_0
     - r-xfun =0.58 =r45hd8a2815_0
-    - r-xml2 =1.5.2 =r45h1e5fb1b_1
+    - r-xml2 =1.6.0 =r45h1e5fb1b_0
     - r-xtable =1.8_8 =r45hc72bb7e_0
     - r-xts =0.14.2 =r45heceb674_0
     - r-yaml =2.3.12 =r45heceb674_0

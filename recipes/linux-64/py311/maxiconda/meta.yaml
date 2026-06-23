@@ -44,7 +44,7 @@ requirements:
     - pydantic =2.13.4 =pyhcf101f3_0
     - pyqt =5.15.11 =py311h0580839_2
     - pyserial =3.5 =pyhcf101f3_2
-    - pytest =9.1.1 =pyhc364b38_1
+    - pytest =9.1.1 =pyhc364b38_2
     - pyyaml =6.0.3 =py311h3778330_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.2 =pyh9208f05_0
@@ -246,7 +246,7 @@ requirements:
     - libstdcxx =15.2.0 =h934c35e_19
     - libstdcxx-devel_linux-64 =15.2.0 =hd446a21_119
     - libstdcxx-ng =15.2.0 =hdf11a46_19
-    - libsystemd0 =260.2 =h6f4a2f1_1
+    - libsystemd0 =261 =h6f4a2f1_0
     - libtiff =4.7.1 =h9d88235_1
     - libuuid =2.42.2 =h5347b49_0
     - libuv =1.52.1 =h280c20c_0
@@ -265,7 +265,7 @@ requirements:
     - markupsafe =3.0.3 =py311h3778330_1
     - matplotlib-base =3.11.0 =py311hd013d2e_0
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
-    - mistune =3.2.1 =pyhcf101f3_0
+    - mistune =3.3.1 =pyhcf101f3_0
     - mpc =1.4.0 =he0a73b1_0
     - mpfr =4.2.2 =he0a73b1_0
     - mpg123 =1.32.9 =hc50e24c_0
@@ -413,7 +413,7 @@ requirements:
     - r-lava =1.9.1 =r45hc72bb7e_0
     - r-lazyeval =0.2.3 =r45h54b55ab_0
     - r-lifecycle =1.0.5 =r45hc72bb7e_0
-    - r-listenv =0.10.1 =r45hc72bb7e_0
+    - r-listenv =1.0.0 =r45hc72bb7e_0
     - r-lobstr =1.2.1 =r45h3697838_0
     - r-lubridate =1.9.5 =r45h54b55ab_0
     - r-magrittr =2.0.5 =r45h54b55ab_0
@@ -504,7 +504,7 @@ requirements:
     - r-vroom =1.7.1 =r45h3697838_0
     - r-withr =3.0.3 =r45hc72bb7e_0
     - r-xfun =0.58 =r45h3697838_0
-    - r-xml2 =1.5.2 =r45he78afff_1
+    - r-xml2 =1.6.0 =r45he78afff_0
     - r-xtable =1.8_8 =r45hc72bb7e_0
     - r-xts =0.14.2 =r45h54b55ab_0
     - r-yaml =2.3.12 =r45h54b55ab_0
