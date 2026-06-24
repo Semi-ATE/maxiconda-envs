@@ -55,7 +55,7 @@ requirements:
     - rust =1.96.0 =hf8d6059_0
     - scipy =1.18.0 =py312h9b3c559_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
-    - spyder-kernels =3.1.4 =win_pyh7428d3b_0
+    - spyder-kernels =3.1.5 =win_pyh7428d3b_0
     - sqlalchemy =2.0.51 =py312he5662c2_0
     - sqlite =3.53.2 =hdb435a2_0
     - sympy =1.14.0 =pyh04b8f61_6
@@ -102,7 +102,7 @@ requirements:
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
     - conda =26.5.3 =py312h2e8e312_0
-    - conda-index =0.11.0 =pyhd8ed1ab_0
+    - conda-index =0.12.1 =pyhd8ed1ab_0
     - conda-libmamba-solver =26.4.2 =pyhd8ed1ab_0
     - conda-lockfiles =0.2.0 =pyhd8ed1ab_0
     - conda-package-handling =2.5.0 =pyhcf101f3_0
@@ -167,7 +167,7 @@ requirements:
     - ipykernel =6.31.0 =pyh6dadd2b_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
     - isoduration =20.11.0 =pyhd8ed1ab_1
-    - jedi =0.19.2 =pyhd8ed1ab_1
+    - jedi =0.20.0 =pyhcf101f3_0
     - json5 =0.15.0 =pyhd8ed1ab_0
     - jsonpatch =1.33 =pyhd8ed1ab_1
     - jsonpointer =3.1.1 =pyhcf101f3_0
@@ -255,7 +255,7 @@ requirements:
     - mingw-w64-ucrt-x86_64-headers-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
     - mingw-w64-ucrt-x86_64-windows-default-manifest =6.4 =he206cdd_7
     - mingw-w64-ucrt-x86_64-winpthreads-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
-    - mistune =3.3.1 =pyhcf101f3_0
+    - mistune =3.3.2 =pyhcf101f3_0
     - mkl =2026.0.0 =hac47afa_908
     - mpmath =1.4.1 =pyhd8ed1ab_0
     - msgpack-python =1.2.1 =py312hf90b1b7_0
@@ -482,7 +482,7 @@ requirements:
     - r-tidyverse =2.0.0 =r45h785f33e_3
     - r-timechange =0.4.0 =r45hd8a2815_0
     - r-timedate =4052.112 =r45hc72bb7e_0
-    - r-tinytex =0.59 =r45hc72bb7e_0
+    - r-tinytex =0.60 =r45hc72bb7e_0
     - r-triebeard =0.4.1 =r45hd8a2815_4
     - r-ttr =0.24.4 =r45heceb674_2
     - r-tzdb =0.5.0 =r45hd8a2815_2
@@ -493,7 +493,7 @@ requirements:
     - r-viridislite =0.4.3 =r45hc72bb7e_0
     - r-vroom =1.7.1 =r45hd8a2815_0
     - r-withr =3.0.3 =r45hc72bb7e_0
-    - r-xfun =0.58 =r45hd8a2815_0
+    - r-xfun =0.59 =r45heceb674_0
     - r-xml2 =1.6.0 =r45h1e5fb1b_0
     - r-xtable =1.8_8 =r45hc72bb7e_0
     - r-xts =0.14.2 =r45heceb674_0

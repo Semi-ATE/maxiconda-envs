@@ -55,7 +55,7 @@ requirements:
     - rust =1.96.0 =h5655b98_0
     - scipy =1.15.2 =py310hef62574_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
-    - spyder-kernels =3.1.4 =unix_pyh707e725_0
+    - spyder-kernels =3.1.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.51 =py310h5afac17_0
     - sqlite =3.53.2 =h6775aab_0
     - sympy =1.14.0 =pyh2585a3b_106
@@ -162,7 +162,7 @@ requirements:
     - iniconfig =2.3.0 =pyhd8ed1ab_0
     - ipykernel =6.31.0 =pyh5552912_0
     - isoduration =20.11.0 =pyhd8ed1ab_1
-    - jedi =0.19.2 =pyhd8ed1ab_1
+    - jedi =0.20.0 =pyhcf101f3_0
     - json5 =0.15.0 =pyhd8ed1ab_0
     - jsonpointer =3.1.1 =pyhcf101f3_0
     - jsonschema =4.26.0 =pyhcf101f3_0
@@ -247,7 +247,7 @@ requirements:
     - markupsafe =3.0.3 =py310h399bfa0_1
     - matplotlib-base =3.10.9 =py310hcb54904_0
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
-    - mistune =3.3.1 =pyhcf101f3_0
+    - mistune =3.3.2 =pyhcf101f3_0
     - mpc =1.4.0 =h31caf2d_0
     - mpfr =4.2.2 =h31caf2d_0
     - mpmath =1.4.1 =pyhd8ed1ab_0
@@ -291,8 +291,8 @@ requirements:
     - pycparser =3.0 =pyhcf101f3_0
     - pydantic-core =2.46.4 =py310h0aa92f5_0
     - pygments =2.20.0 =pyhd8ed1ab_0
-    - pyobjc-core =12.1 =py310hccc919d_0
-    - pyobjc-framework-cocoa =12.1 =py310hb0d6316_0
+    - pyobjc-core =12.2.1 =py310h71a84a6_0
+    - pyobjc-framework-cocoa =12.2 =py310h32e8c93_0
     - pyparsing =3.3.2 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py310h40a7462_2
     - pysocks =1.7.1 =pyha55dd90_7
@@ -472,7 +472,7 @@ requirements:
     - r-tidyverse =2.0.0 =r45h785f33e_3
     - r-timechange =0.4.0 =r45hed9a748_0
     - r-timedate =4052.112 =r45hc72bb7e_0
-    - r-tinytex =0.59 =r45hc72bb7e_0
+    - r-tinytex =0.60 =r45hc72bb7e_0
     - r-triebeard =0.4.1 =r45ha730edb_4
     - r-ttr =0.24.4 =r45h735ac91_2
     - r-tzdb =0.5.0 =r45ha730edb_2
@@ -483,7 +483,7 @@ requirements:
     - r-viridislite =0.4.3 =r45hc72bb7e_0
     - r-vroom =1.7.1 =r45h384437d_0
     - r-withr =3.0.3 =r45hc72bb7e_0
-    - r-xfun =0.58 =r45h384437d_0
+    - r-xfun =0.59 =r45h8eed41d_0
     - r-xml2 =1.6.0 =r45h3ffc57a_0
     - r-xtable =1.8_8 =r45hc72bb7e_0
     - r-xts =0.14.2 =r45h8eed41d_0
