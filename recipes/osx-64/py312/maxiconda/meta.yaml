@@ -29,7 +29,7 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - bitarray =3.8.0 =py312h1a1c95f_1
-    - cython =3.2.5 =py312h7305618_0
+    - cython =3.2.6 =py312h7305618_1
     - grayskull =3.1.1 =pyhc364b38_0
     - hypothesis =6.155.7 =pyha770c72_0
     - ipython =9.14.1 =pyh53cf698_0
@@ -130,7 +130,7 @@ requirements:
     - contourpy =1.3.3 =py312hb0c38da_4
     - cpp-expected =1.3.1 =h0ba0a54_0
     - cpython =3.12.13 =py312hd8ed1ab_0
-    - curl =8.20.0 =h8f0b9e4_0
+    - curl =8.21.0 =h8f0b9e4_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h7cc0300_1
     - debugpy =1.8.21 =py312h4075484_0
@@ -172,7 +172,7 @@ requirements:
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.3.0 =pyhcf101f3_0
     - harfbuzz =14.2.1 =hf0bc557_0
-    - hpack =4.1.0 =pyhd8ed1ab_0
+    - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
@@ -207,7 +207,7 @@ requirements:
     - ld64 =956.6 =llvm22_1_hc399b6d_4
     - ld64_osx-64 =956.6 =llvm22_1_h163eae7_4
     - lerc =4.1.0 =h35c7297_0
-    - libarchive =3.8.7 =gpl_h2bf6321_101
+    - libarchive =3.8.8 =gpl_h2bf6321_100
     - libasprintf =0.25.1 =h3184127_1
     - libblas =3.11.0 =8_he492b99_openblas
     - libbrotlicommon =1.2.0 =h8616949_1
@@ -218,7 +218,7 @@ requirements:
     - libclang-cpp22.1 =22.1.8 =default_h9399c5b_2
     - libclang13 =22.1.8 =default_h2429e1b_2
     - libcompiler-rt =22.1.8 =h1637cdf_1
-    - libcurl =8.20.0 =h8f0b9e4_0
+    - libcurl =8.21.0 =h8f0b9e4_0
     - libcxx =22.1.8 =h19cb2f5_0
     - libcxx-devel =22.1.8 =h7c275be_0
     - libcxx-headers =22.1.8 =h707e725_0
@@ -328,7 +328,7 @@ requirements:
     - pydantic-core =2.46.4 =py312hc1db7ba_0
     - pygments =2.20.0 =pyhd8ed1ab_0
     - pyobjc-core =12.2.1 =py312h9fd379b_0
-    - pyobjc-framework-cocoa =12.2 =py312h78829b9_0
+    - pyobjc-framework-cocoa =12.2.1 =py312h78829b9_0
     - pyparsing =3.3.2 =pyhcf101f3_0
     - pyproject_hooks =1.2.0 =pyhd8ed1ab_1
     - pyqt5-sip =12.17.0 =py312hbaf6d96_2

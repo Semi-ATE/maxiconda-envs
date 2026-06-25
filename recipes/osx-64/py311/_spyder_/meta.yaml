@@ -25,7 +25,7 @@ requirements:
     - python =3.11.15 =ha9537fe_1_cpython
 
     # 9 primary packages :
-    - cython =3.2.5 =py311h3007246_0
+    - cython =3.2.6 =py311h3007246_1
     - matplotlib =3.11.0 =py311h6eed73b_0
     - numpy =2.4.6 =py311h2c4eb96_0
     - pandas =3.0.3 =py311h2a74ac8_0
@@ -113,7 +113,7 @@ requirements:
     - gstreamer =1.26.11 =h5bdcca5_0
     - h2 =4.3.0 =pyhcf101f3_0
     - harfbuzz =14.2.1 =hf0bc557_0
-    - hpack =4.1.0 =pyhd8ed1ab_0
+    - hpack =4.2.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =78.3 =h25d91c4_0
     - idna =3.18 =pyhcf101f3_0
@@ -291,7 +291,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =2026.5.1 =py311hcd3406c_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.15.18 =h1ddadc8_0
+    - ruff =0.15.19 =h1ddadc8_0
     - setuptools =82.0.1 =pyh332efcf_0
     - sip =6.10.0 =py311h11ccb26_1
     - six =1.17.0 =pyhe01879c_1
