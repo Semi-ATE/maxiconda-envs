@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.51 =py312h2fc9c67_0
-    - sqlite =3.53.2 =hf1c7be2_0
+    - sqlite =3.53.2 =hf1c7be2_1
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.68.3 =pyh8f84b5b_0
     - transitions =0.9.3 =pyhe01879c_0
@@ -72,7 +72,7 @@ requirements:
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alsa-lib =1.2.16.1 =he30d5cf_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
-    - anyio =4.14.0 =pyhcf101f3_0
+    - anyio =4.14.1 =pyhcf101f3_0
     - archspec =0.2.5 =pyhd8ed1ab_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =25.1.0 =py312hcd1a082_2
@@ -209,8 +209,8 @@ requirements:
     - libbrotlienc =1.2.0 =he30d5cf_1
     - libcap =2.78 =hf9559e3_0
     - libcblas =3.11.0 =8_hd72aa62_openblas
-    - libclang-cpp22.1 =22.1.8 =default_h2a92e99_2
-    - libclang13 =22.1.8 =default_h3185f35_2
+    - libclang-cpp22.1 =22.1.8 =default_h0cc847a_3
+    - libclang13 =22.1.8 =default_hd92691d_3
     - libcups =2.3.3 =h4f2b762_6
     - libcurl =8.21.0 =hc57f145_0
     - libdeflate =1.25 =h1af38f5_0
@@ -261,7 +261,7 @@ requirements:
     - libsndfile =1.2.2 =h30591a0_2
     - libsodium =1.0.22 =h80f16a2_1
     - libsolv =0.7.39 =hdda61c4_0
-    - libsqlite =3.53.2 =h10b116e_0
+    - libsqlite =3.53.2 =h10b116e_1
     - libssh2 =1.11.1 =h18c354c_0
     - libstdcxx =15.2.0 =hef695bb_19
     - libstdcxx-devel_linux-aarch64 =15.2.0 =ha7b1723_119
@@ -287,7 +287,7 @@ requirements:
     - markupsafe =3.0.3 =py312hd077ced_1
     - matplotlib-base =3.11.0 =py312h982a919_0
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
-    - menuinst =2.5.0 =py312h3262aca_1
+    - menuinst =2.5.1 =py312h3262aca_0
     - mistune =3.3.2 =pyhcf101f3_0
     - mpc =1.4.0 =he6dc3fb_0
     - mpfr =4.2.2 =h3faef18_0

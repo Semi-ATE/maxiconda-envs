@@ -162,7 +162,7 @@ requirements:
     - libpq =15.3 =hbcd7760_1
     - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.18 =h36c2ea0_1
-    - libsqlite =3.53.2 =h0c1763c_0
+    - libsqlite =3.53.2 =h0c1763c_1
     - libssh2 =1.11.0 =h0841786_0
     - libstdcxx =15.2.0 =h934c35e_19
     - libstdcxx-ng =15.2.0 =hdf11a46_19
@@ -232,7 +232,7 @@ requirements:
     - sip =6.7.2 =py37hd23a5d3_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.42 =py37h540881e_0
-    - sqlite =3.53.2 =hbc0de68_0
+    - sqlite =3.53.2 =hbc0de68_1
     - statsmodels =0.13.2 =py37hda87dfa_0
     - threadpoolctl =3.1.0 =pyh8a188c0_0
     - tk =8.6.13 =noxft_hd72426e_102
@@ -246,9 +246,9 @@ requirements:
     - wcwidth =0.2.10 =pyhd8ed1ab_0
     - wheel =0.42.0 =pyhd8ed1ab_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
-    - xcb-util =0.4.0 =h166bdaf_0
+    - xcb-util =0.4.0 =h516909a_0
     - xcb-util-image =0.4.0 =h166bdaf_0
-    - xcb-util-keysyms =0.4.0 =h166bdaf_0
+    - xcb-util-keysyms =0.4.0 =h516909a_0
     - xcb-util-renderutil =0.3.9 =h166bdaf_0
     - xcb-util-wm =0.4.1 =h516909a_0
     - xkeyboard-config =2.38 =h0b41bf4_0

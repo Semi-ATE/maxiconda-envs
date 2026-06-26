@@ -28,7 +28,7 @@ requirements:
     - pyqt =5.15.9 =py38h951d1d4_5
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
 
-    # 111 secondary packages :
+    # 112 secondary packages :
     - appnope =0.1.4 =pyhd8ed1ab_0
     - asttokens =3.0.0 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
@@ -64,7 +64,8 @@ requirements:
     - jupyter_core =5.8.1 =pyh31011fe_0
     - krb5 =1.22.2 =hfd3d5f3_1
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
-    - libclang13 =22.1.8 =default_h6dd9417_2
+    - libclang-cpp22.1 =22.1.8 =default_hdca5a3d_3
+    - libclang13 =22.1.8 =default_h3bfd001_3
     - libcxx =22.1.8 =h55c6f16_0
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
     - libexpat =2.8.1 =hf6b4638_1
@@ -86,7 +87,7 @@ requirements:
     - libpng =1.6.58 =h132b30e_0
     - libpq =18.4 =ha770aab_0
     - libsodium =1.0.18 =h27ca646_1
-    - libsqlite =3.53.2 =h1ae2325_0
+    - libsqlite =3.53.2 =h1ae2325_1
     - libvorbis =1.3.7 =h81086ad_2
     - libxml2 =2.15.3 =h5654f7c_0
     - libxml2-16 =2.15.3 =h5ef1a60_0

@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =1.4.42 =py37h540881e_0
     - twisted =22.8.0 =py37h540881e_0
 
-    # 179 secondary packages :
+    # 180 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - alsa-lib =1.2.16.1 =hb03c661_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -92,7 +92,8 @@ requirements:
     - ld_impl_linux-64 =2.45.1 =default_hbd61a6d_102
     - libcap =2.78 =hd0affe5_0
     - libclang-cpp21.1 =21.1.8 =default_h99862b1_4
-    - libclang13 =22.1.8 =default_h746c552_2
+    - libclang-cpp22.1 =22.1.8 =default_h6c227bf_3
+    - libclang13 =22.1.8 =default_h9692865_3
     - libcups =2.3.3 =hb8b1518_5
     - libdrm =2.4.127 =hb03c661_0
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -125,7 +126,7 @@ requirements:
     - libpq =18.1 =h5c52fec_2
     - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.18 =h36c2ea0_1
-    - libsqlite =3.53.2 =h0c1763c_0
+    - libsqlite =3.53.2 =h0c1763c_1
     - libstdcxx =15.2.0 =h934c35e_19
     - libstdcxx-ng =15.2.0 =hdf11a46_19
     - libsystemd0 =261 =h6f4a2f1_0
@@ -178,7 +179,7 @@ requirements:
     - sip =6.7.2 =py37hd23a5d3_0
     - six =1.16.0 =pyh6c4a22f_0
     - soupsieve =2.3.2.post1 =pyhd8ed1ab_0
-    - sqlite =3.53.2 =hbc0de68_0
+    - sqlite =3.53.2 =hbc0de68_1
     - sqlparse =0.4.4 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_h366c992_103
     - toml =0.10.2 =pyhd8ed1ab_0
