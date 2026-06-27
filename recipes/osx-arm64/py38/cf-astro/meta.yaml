@@ -49,8 +49,8 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fribidi =1.0.16 =hc919400_0
-    - glib =2.88.1 =h92d5a4f_2
-    - glib-tools =2.88.1 =h37541a8_2
+    - glib =2.88.2 =h2792883_0
+    - glib-tools =2.88.2 =h246a70f_0
     - graphite2 =1.3.15 =hf6b4638_0
     - gst-plugins-base =1.26.11 =hda1d4dc_0
     - gstreamer =1.26.11 =h087694b_0
@@ -72,7 +72,7 @@ requirements:
     - libffi =3.5.2 =hcf2aa1b_0
     - libfreetype =2.14.3 =hce30654_1
     - libfreetype6 =2.14.3 =hdfa99f5_1
-    - libglib =2.88.1 =ha08bb59_2
+    - libglib =2.88.2 =ha08bb59_0
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -87,7 +87,7 @@ requirements:
     - libpng =1.6.58 =h132b30e_0
     - libpq =18.4 =ha770aab_0
     - libsodium =1.0.18 =h27ca646_1
-    - libsqlite =3.53.2 =h1ae2325_1
+    - libsqlite =3.53.3 =h1b79a29_0
     - libvorbis =1.3.7 =h81086ad_2
     - libxml2 =2.15.3 =h5654f7c_0
     - libxml2-16 =2.15.3 =h5ef1a60_0

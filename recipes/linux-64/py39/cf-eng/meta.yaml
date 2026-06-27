@@ -58,8 +58,8 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fribidi =1.0.16 =hb03c661_0
-    - glib =2.88.1 =hd810c12_2
-    - glib-tools =2.88.1 =hee1de02_2
+    - glib =2.88.2 =hbe0478d_0
+    - glib-tools =2.88.2 =h8094192_0
     - graphite2 =1.3.15 =hecca717_0
     - gst-plugins-base =1.26.11 =h6d08254_0
     - gstreamer =1.26.11 =h29cf534_0
@@ -96,7 +96,7 @@ requirements:
     - libgfortran =15.2.0 =h69a702a_19
     - libgfortran5 =15.2.0 =h68bc16d_19
     - libgl =1.7.0 =ha4b6fd6_3
-    - libglib =2.88.1 =h0d30a3d_2
+    - libglib =2.88.2 =h0d30a3d_0
     - libglvnd =1.7.0 =ha4b6fd6_3
     - libglx =1.7.0 =ha4b6fd6_3
     - libgomp =15.2.0 =he0feb66_19
@@ -117,11 +117,11 @@ requirements:
     - libpq =18.2 =hb80d175_0
     - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.20 =h4ab18f5_0
-    - libsqlite =3.53.2 =hf4e2dac_1
+    - libsqlite =3.53.3 =h0c1763c_0
     - libstdcxx =15.2.0 =h934c35e_19
     - libstdcxx-ng =15.2.0 =hdf11a46_19
-    - libsystemd0 =261 =h6f4a2f1_0
-    - libudev1 =261 =h6f4a2f1_0
+    - libsystemd0 =261.1 =h6f4a2f1_0
+    - libudev1 =261.1 =h6f4a2f1_0
     - libusb =1.0.29 =h73b1eb8_0
     - libuuid =2.42.2 =h5347b49_0
     - libvorbis =1.3.7 =h54a6638_2

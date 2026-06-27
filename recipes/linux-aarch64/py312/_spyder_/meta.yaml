@@ -32,7 +32,7 @@ requirements:
     - pyqt =5.15.11 =py312hc13527c_2
     - pyqtwebengine =5.15.11 =py312hcff0a4d_2
     - scipy =1.18.0 =py312ha7f05e0_0
-    - spyder =6.1.4 =hd8ed1ab_1
+    - spyder =6.1.5 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
     # 356 secondary packages :
@@ -106,8 +106,8 @@ requirements:
     - frozenlist =1.8.0 =py312hb10c72c_0
     - fzf =0.73.1 =h652cbe9_0
     - giflib =5.2.2 =h31becfc_0
-    - glib =2.88.1 =h72f18f7_2
-    - glib-tools =2.88.1 =h7439e1d_2
+    - glib =2.88.2 =hdf12349_0
+    - glib-tools =2.88.2 =h7aeb4f4_0
     - gmp =6.3.0 =h0a1ffab_2
     - gmpy2 =2.3.0 =py312h35d709e_1
     - graphite2 =1.3.15 =hfae3067_0
@@ -125,7 +125,7 @@ requirements:
     - inflection =0.5.1 =pyhd8ed1ab_1
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.31.0 =pyha191276_0
-    - ipython =9.14.1 =pyh53cf698_0
+    - ipython =9.15.0 =pyh53cf698_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
     - isort =8.0.1 =pyhd8ed1ab_0
     - jaraco.classes =3.4.0 =pyhcf101f3_3
@@ -174,7 +174,7 @@ requirements:
     - libgfortran5 =15.2.0 =h1b7bec0_19
     - libgl =1.7.0 =hd24410f_3
     - libgl-devel =1.7.0 =hd24410f_3
-    - libglib =2.88.1 =h96a7f82_2
+    - libglib =2.88.2 =h96a7f82_0
     - libglvnd =1.7.0 =hd24410f_3
     - libglx =1.7.0 =hd24410f_3
     - libglx-devel =1.7.0 =hd24410f_3
@@ -197,10 +197,10 @@ requirements:
     - libsndfile =1.2.2 =h30591a0_2
     - libsodium =1.0.22 =h80f16a2_1
     - libspatialindex =2.1.0 =h7ac5ae9_1
-    - libsqlite =3.53.2 =h10b116e_1
+    - libsqlite =3.53.3 =h10b116e_0
     - libstdcxx =15.2.0 =hef695bb_19
     - libstdcxx-ng =15.2.0 =hdbbeba8_19
-    - libsystemd0 =261 =hb290c7d_0
+    - libsystemd0 =261.1 =hb290c7d_0
     - libtiff =4.7.1 =hdb009f0_1
     - libuuid =2.42.2 =h1022ec0_0
     - libvorbis =1.3.7 =h7ac5ae9_2
@@ -333,7 +333,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =2.0.0 =pyhd8ed1ab_0
-    - spyder-base =6.1.4 =linux_pyha804496_1
+    - spyder-base =6.1.5 =linux_pyha804496_0
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.8.0 =pyh9208f05_0

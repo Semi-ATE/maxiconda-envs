@@ -32,7 +32,7 @@ requirements:
     - cython =3.2.6 =py312h68e6be4_1
     - grayskull =3.1.1 =pyhc364b38_0
     - hypothesis =6.155.7 =pyha770c72_0
-    - ipython =9.14.1 =pyh53cf698_0
+    - ipython =9.15.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.0 =py312h7900ff3_0
     - numba =0.65.1 =py312hd1dde6f_1
@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.51 =py312h5253ce2_0
-    - sqlite =3.53.2 =h04a0ce9_1
+    - sqlite =3.53.3 =hbc0de68_0
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.68.3 =pyh8f84b5b_0
     - transitions =0.9.3 =pyhe01879c_0
@@ -151,12 +151,12 @@ requirements:
     - gfortran_impl_linux-64 =15.2.0 =h281d09f_19
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.50 =pyhd8ed1ab_0
-    - glib =2.88.1 =hd810c12_2
-    - glib-tools =2.88.1 =hee1de02_2
+    - glib =2.88.2 =hbe0478d_0
+    - glib-tools =2.88.2 =h8094192_0
     - gmp =6.3.0 =hac33072_2
     - gmpy2 =2.3.0 =py312hcaba1f9_1
     - graphite2 =1.3.15 =hecca717_0
-    - greenlet =3.5.2 =py312h8285ef7_0
+    - greenlet =3.5.3 =py312h8285ef7_0
     - gsl =2.7 =he838d99_0
     - gst-plugins-base =1.26.11 =h6d08254_0
     - gstreamer =1.26.11 =h29cf534_0
@@ -232,7 +232,7 @@ requirements:
     - libgfortran5 =15.2.0 =h68bc16d_19
     - libgl =1.7.0 =ha4b6fd6_3
     - libgl-devel =1.7.0 =ha4b6fd6_3
-    - libglib =2.88.1 =h0d30a3d_2
+    - libglib =2.88.2 =h0d30a3d_0
     - libglvnd =1.7.0 =ha4b6fd6_3
     - libglx =1.7.0 =ha4b6fd6_3
     - libglx-devel =1.7.0 =ha4b6fd6_3
@@ -261,12 +261,12 @@ requirements:
     - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.22 =h280c20c_1
     - libsolv =0.7.39 =h9463b59_0
-    - libsqlite =3.53.2 =hf4e2dac_1
+    - libsqlite =3.53.3 =h0c1763c_0
     - libssh2 =1.11.1 =hcf80075_0
     - libstdcxx =15.2.0 =h934c35e_19
     - libstdcxx-devel_linux-64 =15.2.0 =hd446a21_119
     - libstdcxx-ng =15.2.0 =hdf11a46_19
-    - libsystemd0 =261 =h6f4a2f1_0
+    - libsystemd0 =261.1 =h6f4a2f1_0
     - libtiff =4.7.1 =h9d88235_1
     - libuuid =2.42.2 =h5347b49_0
     - libuv =1.52.1 =h280c20c_0
@@ -293,7 +293,7 @@ requirements:
     - mpfr =4.2.2 =he0a73b1_0
     - mpg123 =1.32.9 =hc50e24c_0
     - mpmath =1.4.1 =pyhd8ed1ab_0
-    - msgpack-python =1.2.1 =py312hd9148b4_0
+    - msgpack-python =1.2.1 =py312h0a2e395_1
     - multidict =6.7.1 =py312h8a5da7c_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.11.0 =pyhd8ed1ab_0

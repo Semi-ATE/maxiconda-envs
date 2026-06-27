@@ -32,7 +32,7 @@ requirements:
     - pyqt =5.15.11 =py310hc3ce690_2
     - pyqtwebengine =5.15.11 =py310h2dd9a34_2
     - scipy =1.15.2 =py310h32ab4ed_0
-    - spyder =6.1.4 =hd8ed1ab_1
+    - spyder =6.1.5 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
     # 306 secondary packages :
@@ -105,8 +105,8 @@ requirements:
     - frozenlist =1.8.0 =py310hb0559e5_0
     - fzf =0.73.1 =h75b854d_0
     - giflib =5.2.2 =h93a5062_0
-    - glib =2.88.1 =h92d5a4f_2
-    - glib-tools =2.88.1 =h37541a8_2
+    - glib =2.88.2 =h2792883_0
+    - glib-tools =2.88.2 =h246a70f_0
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.3.0 =py310h6ac7f53_1
     - graphite2 =1.3.15 =hf6b4638_0
@@ -161,7 +161,7 @@ requirements:
     - libgcc =15.2.0 =hcbb3090_19
     - libgfortran =15.2.0 =h07b0088_19
     - libgfortran5 =15.2.0 =hdae7583_19
-    - libglib =2.88.1 =ha08bb59_2
+    - libglib =2.88.2 =ha08bb59_0
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -178,7 +178,7 @@ requirements:
     - libpq =18.4 =ha770aab_0
     - libsodium =1.0.22 =h1a92334_1
     - libspatialindex =2.1.0 =h784d473_1
-    - libsqlite =3.53.2 =h1ae2325_1
+    - libsqlite =3.53.3 =h1b79a29_0
     - libtiff =4.7.1 =h4030677_1
     - libvorbis =1.3.7 =h81086ad_2
     - libwebp =1.6.0 =hc0253d1_0
@@ -306,7 +306,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =2.0.0 =pyhd8ed1ab_0
-    - spyder-base =6.1.4 =osx_pyh534df25_1
+    - spyder-base =6.1.5 =osx_pyh534df25_0
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.8.0 =pyh9208f05_0

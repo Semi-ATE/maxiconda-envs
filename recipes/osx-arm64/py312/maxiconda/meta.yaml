@@ -31,7 +31,7 @@ requirements:
     - cython =3.2.6 =py312h72d008e_1
     - grayskull =3.1.1 =pyhc364b38_0
     - hypothesis =6.155.7 =pyha770c72_0
-    - ipython =9.14.1 =pyh53cf698_0
+    - ipython =9.15.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.0 =py312h1f38498_0
     - numba =0.65.1 =py312h2d3d6e9_1
@@ -56,7 +56,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.51 =py312hb3ab3e3_0
-    - sqlite =3.53.2 =h77b7338_1
+    - sqlite =3.53.3 =h85ec8f2_0
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.68.3 =pyh8f84b5b_0
     - transitions =0.9.3 =pyhe01879c_0
@@ -159,12 +159,12 @@ requirements:
     - gfortran_impl_osx-arm64 =15.2.0 =hfeb3900_19
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.50 =pyhd8ed1ab_0
-    - glib =2.88.1 =h92d5a4f_2
-    - glib-tools =2.88.1 =h37541a8_2
+    - glib =2.88.2 =h2792883_0
+    - glib-tools =2.88.2 =h246a70f_0
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.3.0 =py312he1ee7cc_1
     - graphite2 =1.3.15 =hf6b4638_0
-    - greenlet =3.5.2 =py312h6510ced_0
+    - greenlet =3.5.3 =py312h6510ced_0
     - gsl =2.7 =h6e638da_0
     - gst-plugins-base =1.26.11 =hda1d4dc_0
     - gstreamer =1.26.11 =h087694b_0
@@ -233,7 +233,7 @@ requirements:
     - libgettextpo =0.25.1 =h493aca8_0
     - libgfortran =15.2.0 =h07b0088_19
     - libgfortran5 =15.2.0 =hdae7583_19
-    - libglib =2.88.1 =ha08bb59_2
+    - libglib =2.88.2 =ha08bb59_0
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -257,7 +257,7 @@ requirements:
     - libsigtool =0.1.3 =h98dc951_0
     - libsodium =1.0.22 =h1a92334_1
     - libsolv =0.7.39 =h7d962ec_0
-    - libsqlite =3.53.2 =h1ae2325_1
+    - libsqlite =3.53.3 =h1b79a29_0
     - libssh2 =1.11.1 =h1590b86_0
     - libtiff =4.7.1 =h4030677_1
     - libuv =1.52.1 =h1a92334_0
@@ -282,7 +282,7 @@ requirements:
     - mpc =1.4.0 =h169892a_0
     - mpfr =4.2.2 =h6bc93b0_0
     - mpmath =1.4.1 =pyhd8ed1ab_0
-    - msgpack-python =1.2.1 =py312h766f71e_0
+    - msgpack-python =1.2.1 =py312h3093aea_1
     - multidict =6.7.1 =py312h43af8aa_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.11.0 =pyhd8ed1ab_0
