@@ -25,7 +25,7 @@ requirements:
     - python =3.10.20 =hc20f281_1_cpython
 
     # 10 primary packages :
-    - cython =3.2.6 =py310h23e71ea_1
+    - cython =3.2.7 =py310h23e71ea_0
     - matplotlib =3.10.9 =py310h5588dad_0
     - menuinst =2.5.1 =py310h699e580_0
     - numpy =2.2.6 =py310h4987827_0
@@ -314,7 +314,7 @@ requirements:
     - vc14_runtime =14.51.36231 =h1b9f54f_39
     - vcomp14 =14.51.36231 =h1b9f54f_39
     - watchdog =6.0.0 =py310hf5f1dfe_3
-    - wcwidth =0.8.1 =pyhd8ed1ab_0
+    - wcwidth =0.8.2 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.47.0 =pyhd8ed1ab_0

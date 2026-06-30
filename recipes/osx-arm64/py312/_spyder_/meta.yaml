@@ -25,7 +25,7 @@ requirements:
     - python =3.12.13 =h8561d8f_0_cpython
 
     # 9 primary packages :
-    - cython =3.2.6 =py312h72d008e_1
+    - cython =3.2.7 =py312h72d008e_0
     - matplotlib =3.11.0 =py312h1f38498_0
     - numpy =2.5.0 =py312ha003a3f_0
     - pandas =3.0.3 =py312h6510ced_0
@@ -329,7 +329,7 @@ requirements:
     - unicodedata2 =17.0.1 =py312h2bbb03f_0
     - urllib3 =2.7.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py312hb3ab3e3_3
-    - wcwidth =0.8.1 =pyhd8ed1ab_0
+    - wcwidth =0.8.2 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.47.0 =pyhd8ed1ab_0
