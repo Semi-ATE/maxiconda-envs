@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.43 =py39hd7e5afa_0
     - twisted =25.5.0 =py39h3e3acee_0
 
-    # 188 secondary packages :
+    # 191 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - alsa-lib =1.2.16.1 =he30d5cf_0
     - appdirs =1.4.4 =pyhd8ed1ab_1
@@ -69,6 +69,7 @@ requirements:
     - fontconfig =2.18.1 =hba86a56_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
+    - freetype =2.14.3 =h8af1aa0_1
     - fribidi =1.0.16 =he30d5cf_0
     - glib =2.88.2 =hdf12349_0
     - glib-tools =2.88.2 =h7aeb4f4_0
@@ -77,7 +78,7 @@ requirements:
     - gst-plugins-base =1.26.11 =hd6b5e5b_0
     - gstreamer =1.26.11 =hf552038_0
     - h2 =4.2.0 =pyhd8ed1ab_0
-    - harfbuzz =14.2.1 =h1134a53_0
+    - harfbuzz =14.2.1 =h8af1aa0_1
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - hyperlink =21.0.0 =pyh29332c3_1
@@ -115,6 +116,8 @@ requirements:
     - libglvnd =1.7.0 =hd24410f_3
     - libglx =1.7.0 =hd24410f_3
     - libgomp =15.2.0 =h8acb6b2_19
+    - libharfbuzz =14.2.1 =h3a99ef3_1
+    - libharfbuzz-devel =14.2.1 =h3a99ef3_1
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.4.1 =he30d5cf_0
     - libllvm21 =21.1.8 =hfd2ba90_0

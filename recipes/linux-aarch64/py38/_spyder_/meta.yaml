@@ -35,7 +35,7 @@ requirements:
     - spyder =5.4.5 =py38he3eb160_0
     - sympy =1.13.3 =pyh2585a3b_104
 
-    # 327 secondary packages :
+    # 329 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - alsa-lib =1.2.16.1 =he30d5cf_0
@@ -103,7 +103,7 @@ requirements:
     - gst-plugins-base =1.26.11 =hd6b5e5b_0
     - gstreamer =1.26.11 =hf552038_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =14.2.1 =h1134a53_0
+    - harfbuzz =14.2.1 =h8af1aa0_1
     - hpack =4.0.0 =pyh9f0ad1d_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =78.3 =hcab7f73_0
@@ -168,6 +168,8 @@ requirements:
     - libglvnd =1.7.0 =hd24410f_3
     - libglx =1.7.0 =hd24410f_3
     - libgomp =15.2.0 =h8acb6b2_19
+    - libharfbuzz =14.2.1 =h3a99ef3_1
+    - libharfbuzz-devel =14.2.1 =h3a99ef3_1
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.4.1 =he30d5cf_0
     - liblapack =3.9.0 =20_linuxaarch64_openblas

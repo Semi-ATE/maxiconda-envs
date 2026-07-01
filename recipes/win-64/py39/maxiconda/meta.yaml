@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 453 secondary packages :
+    # 455 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -134,7 +134,7 @@ requirements:
     - gxx_impl_win-64 =15.2.0 =h22fd5bf_19
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.2.0 =pyhd8ed1ab_0
-    - harfbuzz =14.2.1 =h5a1b470_0
+    - harfbuzz =14.2.1 =h57928b3_1
     - hpack =4.1.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -186,6 +186,8 @@ requirements:
     - libgfortran5 =15.2.0 =h44d81a7_19
     - libglib =2.88.2 =h7ce1215_0
     - libgomp =15.2.0 =h8ee18e1_19
+    - libharfbuzz =14.2.1 =h03b5201_1
+    - libharfbuzz-devel =14.2.1 =h03b5201_1
     - libhwloc =2.12.1 =default_h88281d1_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
@@ -360,7 +362,7 @@ requirements:
     - r-labeling =0.4.3 =r45hc72bb7e_2
     - r-later =1.4.8 =r45hd8a2815_0
     - r-lattice =0.22_9 =r45heceb674_0
-    - r-lava =1.9.1 =r45hc72bb7e_0
+    - r-lava =1.9.2 =r45hc72bb7e_0
     - r-lazyeval =0.2.3 =r45heceb674_0
     - r-lifecycle =1.0.5 =r45hc72bb7e_0
     - r-listenv =1.0.0 =r45hc72bb7e_0

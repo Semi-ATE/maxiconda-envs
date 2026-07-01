@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 485 secondary packages :
+    # 487 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
@@ -117,7 +117,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h9afee92_1
     - cpython =3.8.20 =py38hd8ed1ab_2
-    - curl =8.21.0 =hd5a2499_0
+    - curl =8.21.0 =hd5a2499_1
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cyrus-sasl =2.1.28 =hb961e35_1
     - debugpy =1.8.5 =py38h11842c7_0
@@ -152,7 +152,7 @@ requirements:
     - gstreamer =1.26.11 =h087694b_0
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =14.2.1 =h3103d1b_0
+    - harfbuzz =14.2.1 =hce30654_1
     - hpack =4.0.0 =pyh9f0ad1d_0
     - httpcore =1.0.7 =pyh29332c3_1
     - httpx =0.27.2 =pyhd8ed1ab_0
@@ -197,7 +197,7 @@ requirements:
     - libclang-cpp22.1 =22.1.8 =default_hdca5a3d_3
     - libclang13 =22.1.8 =default_h3bfd001_3
     - libcompiler-rt =22.1.8 =hd34ed20_1
-    - libcurl =8.21.0 =hd5a2499_0
+    - libcurl =8.21.0 =hd5a2499_1
     - libcxx =22.1.8 =h55c6f16_0
     - libcxx-devel =22.1.8 =h6dc3340_0
     - libcxx-headers =22.1.8 =h707e725_0
@@ -214,6 +214,8 @@ requirements:
     - libgfortran =15.2.0 =h07b0088_19
     - libgfortran5 =15.2.0 =hdae7583_19
     - libglib =2.88.2 =ha08bb59_0
+    - libharfbuzz =14.2.1 =h5a65909_1
+    - libharfbuzz-devel =14.2.1 =h5a65909_1
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -393,7 +395,7 @@ requirements:
     - r-labeling =0.4.3 =r45hc72bb7e_2
     - r-later =1.4.8 =r45h1380947_0
     - r-lattice =0.22_9 =r45hbe92478_0
-    - r-lava =1.9.1 =r45hc72bb7e_0
+    - r-lava =1.9.2 =r45hc72bb7e_0
     - r-lazyeval =0.2.3 =r45h4b407c4_0
     - r-lifecycle =1.0.5 =r45hc72bb7e_0
     - r-listenv =1.0.0 =r45hc72bb7e_0

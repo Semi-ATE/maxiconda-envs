@@ -25,7 +25,7 @@ requirements:
     - python =3.10.20 =hc20f281_1_cpython
 
     # 10 primary packages :
-    - cython =3.2.7 =py310h23e71ea_0
+    - cython =3.2.8 =py310h23e71ea_0
     - matplotlib =3.10.9 =py310h5588dad_0
     - menuinst =2.5.1 =py310h699e580_0
     - numpy =2.2.6 =py310h4987827_0
@@ -36,7 +36,7 @@ requirements:
     - spyder =6.1.5 =hd8ed1ab_0
     - sympy =1.14.0 =pyh04b8f61_6
 
-    # 293 secondary packages :
+    # 295 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - aiohappyeyeballs =2.6.2 =pyhd8ed1ab_0
     - aiohttp =3.14.1 =py310h3602819_0
@@ -108,7 +108,7 @@ requirements:
     - gst-plugins-base =1.26.11 =h88486b4_0
     - gstreamer =1.26.11 =hae9036a_0
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =14.2.1 =h5a1b470_0
+    - harfbuzz =14.2.1 =h57928b3_1
     - hpack =4.2.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =78.3 =h637d24d_0
@@ -152,6 +152,8 @@ requirements:
     - libgcc =15.2.0 =h8ee18e1_19
     - libglib =2.88.2 =h7ce1215_0
     - libgomp =15.2.0 =h8ee18e1_19
+    - libharfbuzz =14.2.1 =h03b5201_1
+    - libharfbuzz-devel =14.2.1 =h03b5201_1
     - libhwloc =2.13.0 =default_h049141e_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3

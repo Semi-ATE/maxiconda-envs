@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 505 secondary packages :
+    # 507 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
@@ -106,7 +106,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38hb4b5b6f_1
     - cpython =3.8.20 =py38hd8ed1ab_2
-    - curl =8.21.0 =hc57f145_0
+    - curl =8.21.0 =hc57f145_1
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cyrus-sasl =2.1.28 =h6598af7_1
     - dbus =1.16.2 =h70963c4_1
@@ -145,7 +145,7 @@ requirements:
     - gxx_linux-aarch64 =15.2.0 =h7e4acf5_27
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =14.2.1 =h1134a53_0
+    - harfbuzz =14.2.1 =h8af1aa0_1
     - hpack =4.0.0 =pyh9f0ad1d_0
     - httpcore =1.0.7 =pyh29332c3_1
     - httpx =0.27.2 =pyhd8ed1ab_0
@@ -191,7 +191,7 @@ requirements:
     - libclang-cpp22.1 =22.1.8 =default_h0cc847a_3
     - libclang13 =22.1.8 =default_hd92691d_3
     - libcups =2.3.3 =h4f2b762_6
-    - libcurl =8.21.0 =hc57f145_0
+    - libcurl =8.21.0 =hc57f145_1
     - libdeflate =1.25 =h1af38f5_0
     - libdrm =2.4.127 =he30d5cf_0
     - libedit =3.1.20250104 =pl5321h976ea20_0
@@ -214,6 +214,8 @@ requirements:
     - libglvnd =1.7.0 =hd24410f_3
     - libglx =1.7.0 =hd24410f_3
     - libgomp =15.2.0 =h8acb6b2_19
+    - libharfbuzz =14.2.1 =h3a99ef3_1
+    - libharfbuzz-devel =14.2.1 =h3a99ef3_1
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.4.1 =he30d5cf_0
     - liblapack =3.9.0 =20_linuxaarch64_openblas
@@ -399,7 +401,7 @@ requirements:
     - r-labeling =0.4.3 =r45hc72bb7e_2
     - r-later =1.4.8 =r45h08b74da_0
     - r-lattice =0.22_9 =r45h0557e7b_0
-    - r-lava =1.9.1 =r45hc72bb7e_0
+    - r-lava =1.9.2 =r45hc72bb7e_0
     - r-lazyeval =0.2.3 =r45hf488e41_0
     - r-lifecycle =1.0.5 =r45hc72bb7e_0
     - r-listenv =1.0.0 =r45hc72bb7e_0

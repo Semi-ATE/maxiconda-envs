@@ -25,8 +25,8 @@ requirements:
     - python =3.12.13 =hd63d673_0_cpython
 
     # 9 primary packages :
-    - cython =3.2.7 =py312h68e6be4_0
-    - matplotlib =3.11.0 =py312h7900ff3_0
+    - cython =3.2.8 =py312h68e6be4_0
+    - matplotlib =3.11.0 =py312h7900ff3_1
     - numpy =2.5.0 =py312h33ff503_0
     - pandas =3.0.3 =py312h8ecdadd_0
     - pyqt =5.15.11 =py312h82c0db2_2
@@ -35,7 +35,7 @@ requirements:
     - spyder =6.1.5 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
-    # 356 secondary packages :
+    # 358 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - aiohappyeyeballs =2.6.2 =pyhd8ed1ab_0
@@ -114,7 +114,7 @@ requirements:
     - gst-plugins-base =1.26.11 =h6d08254_0
     - gstreamer =1.26.11 =h29cf534_0
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =14.2.1 =h6083320_0
+    - harfbuzz =14.2.1 =ha770c72_1
     - hpack =4.2.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =78.3 =h33c6efd_0
@@ -179,6 +179,8 @@ requirements:
     - libglx =1.7.0 =ha4b6fd6_3
     - libglx-devel =1.7.0 =ha4b6fd6_3
     - libgomp =15.2.0 =he0feb66_19
+    - libharfbuzz =14.2.1 =h17a8019_1
+    - libharfbuzz-devel =14.2.1 =h17a8019_1
     - libiconv =1.18 =h3b78370_2
     - libjpeg-turbo =3.1.4.1 =hb03c661_0
     - liblapack =3.11.0 =8_h47877c9_openblas
@@ -193,7 +195,7 @@ requirements:
     - libpciaccess =0.19 =hb03c661_0
     - libpng =1.6.58 =h421ea60_0
     - libpq =18.4 =hd5a49e9_1
-    - libraqm =0.10.5 =h75b3fb1_0
+    - libraqm =0.10.5 =h6406941_1
     - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.22 =h280c20c_1
     - libspatialindex =2.1.0 =h54a6638_1
@@ -217,7 +219,7 @@ requirements:
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.2.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py312h8a5da7c_1
-    - matplotlib-base =3.11.0 =py312h1c5ec97_0
+    - matplotlib-base =3.11.0 =py312hc1765e9_1
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
@@ -316,7 +318,7 @@ requirements:
     - rich =15.0.0 =pyhcf101f3_0
     - roman-numerals =4.1.0 =pyhd8ed1ab_0
     - rope =1.14.0 =pyhd8ed1ab_0
-    - rpds-py =2026.5.1 =py312h192e038_0
+    - rpds-py =2026.6.3 =py312h192e038_0
     - rtree =1.4.1 =pyh11ca60a_0
     - ruff =0.15.20 =h6a952e8_0
     - secretstorage =3.5.0 =py312h7900ff3_0

@@ -36,7 +36,7 @@ requirements:
     - scipy =1.10.1 =py38h1aea9ed_3
     - spyder-kernels =3.0.5 =win_pyh7428d3b_0
 
-    # 207 secondary packages :
+    # 209 secondary packages :
     - asttokens =3.0.0 =pyhd8ed1ab_0
     - backcall =0.2.0 =pyh9f0ad1d_0
     - blosc =1.21.6 =hfd34d9b_1
@@ -86,7 +86,7 @@ requirements:
     - gstreamer =1.26.11 =hae9036a_0
     - h2 =4.1.0 =pyhd8ed1ab_0
     - h5py =3.11.0 =nompi_py38hd93224d_102
-    - harfbuzz =14.2.1 =h5a1b470_0
+    - harfbuzz =14.2.1 =h57928b3_1
     - hdf4 =4.2.15 =h5557f11_7
     - hdf5 =1.14.3 =nompi_hb2c4d47_109
     - hpack =4.0.0 =pyh9f0ad1d_0
@@ -115,13 +115,15 @@ requirements:
     - libbrotlienc =1.2.0 =hfd05255_1
     - libcblas =3.9.0 =35_h2a3cdd5_mkl
     - libclang13 =22.1.8 =default_ha2db4b5_2
-    - libcurl =8.21.0 =h8206538_0
+    - libcurl =8.21.0 =h8206538_1
     - libdeflate =1.25 =h51727cc_0
     - libexpat =2.8.1 =hac47afa_1
     - libffi =3.5.2 =h3d046cb_0
     - libfreetype =2.14.3 =h57928b3_1
     - libfreetype6 =2.14.3 =hdbac1cb_1
     - libglib =2.88.2 =h7ce1215_0
+    - libharfbuzz =14.2.1 =h03b5201_1
+    - libharfbuzz-devel =14.2.1 =h03b5201_1
     - libhwloc =2.11.2 =default_hc8275d1_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3

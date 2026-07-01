@@ -29,12 +29,12 @@ requirements:
     - aiomqtt =0.1.3 =pyh6c4a22f_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - bitarray =3.8.0 =py312hcd1a082_1
-    - cython =3.2.7 =py312hbda70bc_0
+    - cython =3.2.8 =py312hbda70bc_0
     - grayskull =3.1.1 =pyhc364b38_0
     - hypothesis =6.155.7 =pyha770c72_0
     - ipython =9.15.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
-    - matplotlib =3.11.0 =py312h8025657_0
+    - matplotlib =3.11.0 =py312h8025657_1
     - numba =0.65.1 =py312heba07a5_1
     - numpy =2.4.6 =py312hce9e0af_0
     - openpyxl =3.1.5 =py312h6c49482_3
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 560 secondary packages :
+    # 562 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
@@ -104,7 +104,7 @@ requirements:
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - conda =26.5.3 =py312h996f985_0
+    - conda =26.5.3 =py312h6d8504a_1
     - conda-index =0.12.1 =pyhd8ed1ab_0
     - conda-libmamba-solver =26.4.2 =pyhd8ed1ab_0
     - conda-lockfiles =0.2.0 =pyhd8ed1ab_0
@@ -118,7 +118,7 @@ requirements:
     - contourpy =1.3.3 =py312hf18b547_4
     - cpp-expected =1.3.1 =hdc560ac_0
     - cpython =3.12.13 =py312hd8ed1ab_0
-    - curl =8.21.0 =hc57f145_0
+    - curl =8.21.0 =hc57f145_1
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h6598af7_1
     - dbus =1.16.2 =h70963c4_1
@@ -164,7 +164,7 @@ requirements:
     - gxx_linux-aarch64 =15.2.0 =h7e4acf5_27
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =14.2.1 =h1134a53_0
+    - harfbuzz =14.2.1 =h8af1aa0_1
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -212,7 +212,7 @@ requirements:
     - libclang-cpp22.1 =22.1.8 =default_h0cc847a_3
     - libclang13 =22.1.8 =default_hd92691d_3
     - libcups =2.3.3 =h4f2b762_6
-    - libcurl =8.21.0 =hc57f145_0
+    - libcurl =8.21.0 =hc57f145_1
     - libdeflate =1.25 =h1af38f5_0
     - libdrm =2.4.127 =he30d5cf_0
     - libedit =3.1.20250104 =pl5321h976ea20_0
@@ -237,6 +237,8 @@ requirements:
     - libglx =1.7.0 =hd24410f_3
     - libglx-devel =1.7.0 =hd24410f_3
     - libgomp =15.2.0 =h8acb6b2_19
+    - libharfbuzz =14.2.1 =h3a99ef3_1
+    - libharfbuzz-devel =14.2.1 =h3a99ef3_1
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.1.4.1 =he30d5cf_0
     - liblapack =3.11.0 =8_h88aeb00_openblas
@@ -256,7 +258,7 @@ requirements:
     - libpciaccess =0.19 =he30d5cf_0
     - libpng =1.6.58 =h1abf092_0
     - libpq =18.4 =hccacd55_1
-    - libraqm =0.10.5 =h50d7eb4_0
+    - libraqm =0.10.5 =hd2f8911_1
     - libsanitizer =15.2.0 =he19c465_19
     - libsndfile =1.2.2 =h30591a0_2
     - libsodium =1.0.22 =h80f16a2_1
@@ -285,7 +287,7 @@ requirements:
     - lzo =2.10 =h80f16a2_1002
     - make =4.4.1 =h2a6d0cb_2
     - markupsafe =3.0.3 =py312hd077ced_1
-    - matplotlib-base =3.11.0 =py312h982a919_0
+    - matplotlib-base =3.11.0 =py312h7ee55d7_1
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - menuinst =2.5.1 =py312h3262aca_0
     - mistune =3.3.2 =pyhcf101f3_0
@@ -440,7 +442,7 @@ requirements:
     - r-labeling =0.4.3 =r45hc72bb7e_2
     - r-later =1.4.8 =r45h08b74da_0
     - r-lattice =0.22_9 =r45h0557e7b_0
-    - r-lava =1.9.1 =r45hc72bb7e_0
+    - r-lava =1.9.2 =r45hc72bb7e_0
     - r-lazyeval =0.2.3 =r45hf488e41_0
     - r-lifecycle =1.0.5 =r45hc72bb7e_0
     - r-listenv =1.0.0 =r45hc72bb7e_0
@@ -547,7 +549,7 @@ requirements:
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
-    - rpds-py =2026.5.1 =py312h00f41f5_0
+    - rpds-py =2026.6.3 =py312h00f41f5_0
     - ruamel.yaml =0.18.17 =py312hd41f8a7_2
     - ruamel.yaml.clib =0.2.15 =py312hd41f8a7_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1

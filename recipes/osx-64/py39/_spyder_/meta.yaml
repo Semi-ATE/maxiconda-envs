@@ -35,7 +35,7 @@ requirements:
     - spyder =6.0.8 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_105
 
-    # 302 secondary packages :
+    # 304 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.12.15 =py39h2753485_0
@@ -112,7 +112,7 @@ requirements:
     - gst-plugins-base =1.26.11 =h79212b8_0
     - gstreamer =1.26.11 =h5bdcca5_0
     - h2 =4.2.0 =pyhd8ed1ab_0
-    - harfbuzz =14.2.1 =hf0bc557_0
+    - harfbuzz =14.2.1 =h694c41f_1
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =78.3 =h25d91c4_0
@@ -161,6 +161,8 @@ requirements:
     - libgfortran =15.2.0 =h7e5c614_19
     - libgfortran5 =15.2.0 =hd16e46c_19
     - libglib =2.88.2 =hf28f236_0
+    - libharfbuzz =14.2.1 =h97ceea7_1
+    - libharfbuzz-devel =14.2.1 =h97ceea7_1
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1

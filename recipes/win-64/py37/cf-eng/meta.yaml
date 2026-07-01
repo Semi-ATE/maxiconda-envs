@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.2 =pyhca7485f_0
     - spyder-kernels =2.4.3 =win_pyhd8ed1ab_0
 
-    # 104 secondary packages :
+    # 108 secondary packages :
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_4
     - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
@@ -54,13 +54,14 @@ requirements:
     - fontconfig =2.18.1 =hd47e2ca_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
+    - freetype =2.14.3 =h57928b3_1
     - fribidi =1.0.16 =hfd05255_0
     - glib =2.88.2 =h395db07_0
     - glib-tools =2.88.2 =h74ecf4c_0
     - graphite2 =1.3.15 =hac47afa_0
     - gst-plugins-base =1.26.11 =h88486b4_0
     - gstreamer =1.26.11 =hae9036a_0
-    - harfbuzz =14.2.1 =h5a1b470_0
+    - harfbuzz =14.2.1 =h57928b3_1
     - icu =78.3 =h637d24d_0
     - importlib-metadata =4.11.4 =py37h03978a9_0
     - importlib_metadata =4.11.4 =hd8ed1ab_0
@@ -78,6 +79,8 @@ requirements:
     - libfreetype =2.14.3 =h57928b3_1
     - libfreetype6 =2.14.3 =hdbac1cb_1
     - libglib =2.88.2 =h7ce1215_0
+    - libharfbuzz =14.2.1 =h03b5201_1
+    - libharfbuzz-devel =14.2.1 =h03b5201_1
     - libhwloc =2.13.0 =default_h049141e_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
@@ -138,6 +141,7 @@ requirements:
     - wheel =0.42.0 =pyhd8ed1ab_0
     - zeromq =4.3.4 =h0e60522_1
     - zipp =3.15.0 =pyhd8ed1ab_0
+    - zlib =1.3.2 =hfd05255_2
     - zstd =1.5.7 =h534d264_6
 
 about:
