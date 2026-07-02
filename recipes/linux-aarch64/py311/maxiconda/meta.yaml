@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 527 secondary packages :
+    # 528 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.2 =pyhd8ed1ab_0
@@ -109,7 +109,7 @@ requirements:
     - contourpy =1.3.3 =py311h04741b4_4
     - cpython =3.11.15 =py311hd8ed1ab_1
     - cryptography =49.0.0 =py311h53955a0_0
-    - curl =8.21.0 =hc57f145_1
+    - curl =8.21.0 =h7c59cd8_2
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h6598af7_1
     - dbus =1.16.2 =h70963c4_1
@@ -197,7 +197,7 @@ requirements:
     - libclang-cpp22.1 =22.1.8 =default_h0cc847a_3
     - libclang13 =22.1.8 =default_hd92691d_3
     - libcups =2.3.3 =h4f2b762_6
-    - libcurl =8.21.0 =hc57f145_1
+    - libcurl =8.21.0 =h7c59cd8_2
     - libdeflate =1.25 =h1af38f5_0
     - libdrm =2.4.127 =he30d5cf_0
     - libedit =3.1.20250104 =pl5321h976ea20_0
@@ -239,6 +239,7 @@ requirements:
     - libpciaccess =0.19 =he30d5cf_0
     - libpng =1.6.58 =h1abf092_0
     - libpq =18.4 =hccacd55_1
+    - libpsl =0.22.0 =h504d594_0
     - libraqm =0.10.5 =hd2f8911_1
     - libsanitizer =15.2.0 =he19c465_19
     - libsndfile =1.2.2 =h30591a0_2
@@ -294,7 +295,7 @@ requirements:
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =hf841c20_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
-    - pillow =12.2.0 =py311h8e17b9e_0
+    - pillow =12.3.0 =py311h8e17b9e_0
     - pip =26.1.2 =pyh8b19718_0
     - pixman =0.46.4 =h7ac5ae9_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0

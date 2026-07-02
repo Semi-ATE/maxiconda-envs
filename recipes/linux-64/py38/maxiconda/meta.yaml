@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 507 secondary packages :
+    # 508 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
@@ -106,7 +106,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h7f3f72f_1
     - cpython =3.8.20 =py38hd8ed1ab_2
-    - curl =8.21.0 =hcf29cc6_1
+    - curl =8.21.0 =hae6b9f4_2
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cyrus-sasl =2.1.28 =hac629b4_1
     - dbus =1.16.2 =h24cb091_1
@@ -191,7 +191,7 @@ requirements:
     - libclang-cpp22.1 =22.1.8 =default_h6c227bf_3
     - libclang13 =22.1.8 =default_h9692865_3
     - libcups =2.3.3 =h7a8fb5f_6
-    - libcurl =8.21.0 =hcf29cc6_1
+    - libcurl =8.21.0 =hae6b9f4_2
     - libdeflate =1.25 =h17f619e_0
     - libdrm =2.4.127 =hb03c661_0
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -232,6 +232,7 @@ requirements:
     - libpciaccess =0.19 =hb03c661_0
     - libpng =1.6.58 =h421ea60_0
     - libpq =18.4 =hd5a49e9_1
+    - libpsl =0.22.0 =hd9031aa_0
     - libsanitizer =15.2.0 =h90f66d4_19
     - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.18 =h36c2ea0_1

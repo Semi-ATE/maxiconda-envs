@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 528 secondary packages :
+    # 529 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
@@ -116,9 +116,9 @@ requirements:
     - compiler-rt22 =22.1.8 =h1637cdf_1
     - compiler-rt22_osx-64 =22.1.8 =hcf80936_1
     - compiler-rt_osx-64 =22.1.8 =h694c41f_1
-    - conda =26.5.3 =py312hc2fe966_1
+    - conda =26.5.3 =py312hc2fe966_2
     - conda-index =0.12.1 =pyhd8ed1ab_0
-    - conda-libmamba-solver =26.4.2 =pyhd8ed1ab_0
+    - conda-libmamba-solver =26.6.0 =pyhcf101f3_0
     - conda-lockfiles =0.2.0 =pyhd8ed1ab_0
     - conda-package-handling =2.5.0 =pyhcf101f3_0
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
@@ -130,7 +130,7 @@ requirements:
     - contourpy =1.3.3 =py312hb0c38da_4
     - cpp-expected =1.3.1 =h0ba0a54_0
     - cpython =3.12.13 =py312hd8ed1ab_0
-    - curl =8.21.0 =h8f0b9e4_1
+    - curl =8.21.0 =h06afde3_2
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h7cc0300_1
     - debugpy =1.8.21 =py312h4075484_0
@@ -218,7 +218,7 @@ requirements:
     - libclang-cpp22.1 =22.1.8 =default_h5a1b869_3
     - libclang13 =22.1.8 =default_h9a620b7_3
     - libcompiler-rt =22.1.8 =h1637cdf_1
-    - libcurl =8.21.0 =h8f0b9e4_1
+    - libcurl =8.21.0 =h06afde3_2
     - libcxx =22.1.8 =h19cb2f5_0
     - libcxx-devel =22.1.8 =h7c275be_0
     - libcxx-headers =22.1.8 =h707e725_0
@@ -256,6 +256,7 @@ requirements:
     - libopus =1.6.1 =hc6ced15_0
     - libpng =1.6.58 =he930e7c_0
     - libpq =18.4 =h8b30867_1
+    - libpsl =0.22.0 =h87879e4_0
     - libraqm =0.10.5 =h1888d0e_1
     - libsigtool =0.1.3 =hc0f2934_0
     - libsodium =1.0.22 =ha3d0635_1
@@ -309,7 +310,7 @@ requirements:
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =h13923f0_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
-    - pillow =12.2.0 =py312he84af14_0
+    - pillow =12.3.0 =py312he84af14_0
     - pip =26.1.2 =pyh8b19718_0
     - pixman =0.46.4 =ha059160_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0

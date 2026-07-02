@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 454 secondary packages :
+    # 455 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.2 =pyhd8ed1ab_0
@@ -101,7 +101,7 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.2 =py310hc19bc0b_0
-    - curl =8.21.0 =h8206538_1
+    - curl =8.21.0 =h51a1c48_2
     - cycler =0.12.1 =pyhcf101f3_2
     - debugpy =1.8.21 =py310h699e580_0
     - decorator =5.3.1 =pyhd8ed1ab_0
@@ -173,7 +173,7 @@ requirements:
     - libbrotlienc =1.2.0 =hfd05255_1
     - libcblas =3.11.0 =8_h2a3cdd5_mkl
     - libclang13 =22.1.8 =default_hf735972_3
-    - libcurl =8.21.0 =h8206538_1
+    - libcurl =8.21.0 =h51a1c48_2
     - libdeflate =1.25 =h51727cc_0
     - libexpat =2.8.1 =hac47afa_1
     - libffi =3.5.2 =h3d046cb_0
@@ -197,6 +197,7 @@ requirements:
     - libnghttp2 =1.68.1 =hac47afa_0
     - libogg =1.3.5 =h2466b09_1
     - libpng =1.6.58 =h7351971_0
+    - libpsl =0.22.0 =hc1744f7_0
     - libsodium =1.0.22 =h6a83c73_1
     - libsqlite =3.53.3 =hf5d6505_0
     - libssh2 =1.11.1 =h9aa295b_0
@@ -246,7 +247,7 @@ requirements:
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =hd2b5f0e_0
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =12.2.0 =py310h712baa7_0
+    - pillow =12.3.0 =py310h712baa7_0
     - pip =26.1.2 =pyh8b19718_0
     - pixman =0.46.4 =h5112557_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0

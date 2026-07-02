@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 482 secondary packages :
+    # 483 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
@@ -116,7 +116,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_1
     - contourpy =1.3.0 =py39h0d3c867_2
     - cpython =3.9.23 =py39hd8ed1ab_0
-    - curl =8.21.0 =h8f0b9e4_1
+    - curl =8.21.0 =h06afde3_2
     - cycler =0.12.1 =pyhd8ed1ab_1
     - cyrus-sasl =2.1.28 =h7cc0300_1
     - debugpy =1.8.16 =py39h6581403_0
@@ -195,7 +195,7 @@ requirements:
     - libclang-cpp22.1 =22.1.8 =default_h5a1b869_3
     - libclang13 =22.1.8 =default_h9a620b7_3
     - libcompiler-rt =22.1.8 =h1637cdf_1
-    - libcurl =8.21.0 =h8f0b9e4_1
+    - libcurl =8.21.0 =h06afde3_2
     - libcxx =22.1.8 =h19cb2f5_0
     - libcxx-devel =22.1.8 =h7c275be_0
     - libcxx-headers =22.1.8 =h707e725_0
@@ -230,6 +230,7 @@ requirements:
     - libopus =1.6.1 =hc6ced15_0
     - libpng =1.6.58 =he930e7c_0
     - libpq =18.4 =h8b30867_1
+    - libpsl =0.22.0 =h87879e4_0
     - libsigtool =0.1.3 =hc0f2934_0
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.53.3 =h8f8c405_0

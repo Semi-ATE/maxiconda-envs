@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 562 secondary packages :
+    # 563 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_2
     - _r-mutex =1.0.1 =anacondar_1
@@ -104,9 +104,9 @@ requirements:
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - conda =26.5.3 =py312h20c3967_1
+    - conda =26.5.3 =py312h20c3967_2
     - conda-index =0.12.1 =pyhd8ed1ab_0
-    - conda-libmamba-solver =26.4.2 =pyhd8ed1ab_0
+    - conda-libmamba-solver =26.6.0 =pyhcf101f3_0
     - conda-lockfiles =0.2.0 =pyhd8ed1ab_0
     - conda-package-handling =2.5.0 =pyhcf101f3_0
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
@@ -118,7 +118,7 @@ requirements:
     - contourpy =1.3.3 =py312h0a2e395_4
     - cpp-expected =1.3.1 =h171cf75_0
     - cpython =3.12.13 =py312hd8ed1ab_0
-    - curl =8.21.0 =hcf29cc6_1
+    - curl =8.21.0 =hae6b9f4_2
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hac629b4_1
     - dbus =1.16.2 =h24cb091_1
@@ -212,7 +212,7 @@ requirements:
     - libclang-cpp22.1 =22.1.8 =default_h6c227bf_3
     - libclang13 =22.1.8 =default_h9692865_3
     - libcups =2.3.3 =h7a8fb5f_6
-    - libcurl =8.21.0 =hcf29cc6_1
+    - libcurl =8.21.0 =hae6b9f4_2
     - libdeflate =1.25 =h17f619e_0
     - libdrm =2.4.127 =hb03c661_0
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -258,6 +258,7 @@ requirements:
     - libpciaccess =0.19 =hb03c661_0
     - libpng =1.6.58 =h421ea60_0
     - libpq =18.4 =hd5a49e9_1
+    - libpsl =0.22.0 =hd9031aa_0
     - libraqm =0.10.5 =h6406941_1
     - libsanitizer =15.2.0 =h90f66d4_19
     - libsndfile =1.2.2 =hc7d488a_2
@@ -319,7 +320,7 @@ requirements:
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =haa7fec5_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
-    - pillow =12.2.0 =py312h50c33e8_0
+    - pillow =12.3.0 =py312h50c33e8_0
     - pip =26.1.2 =pyh8b19718_0
     - pixman =0.46.4 =h54a6638_1
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
