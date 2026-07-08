@@ -59,7 +59,7 @@ requirements:
     - sqlalchemy =2.0.51 =py312hba6025d_0
     - sqlite =3.53.3 =h6775aab_0
     - sympy =1.14.0 =pyh2585a3b_106
-    - tqdm =4.68.3 =pyh8f84b5b_0
+    - tqdm =4.68.4 =pyh8f84b5b_0
     - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
@@ -99,7 +99,7 @@ requirements:
     - cctools_impl_osx-64 =1030.6.3 =llvm22_1_h8fe25a2_4
     - cctools_osx-64 =1030.6.3 =llvm22_1_h0a1bb1c_4
     - certifi =2026.6.17 =pyhd8ed1ab_0
-    - cffi =2.0.0 =py312he90777b_1
+    - cffi =2.1.0 =py312h78829b9_0
     - charset-normalizer =3.4.8 =pyhd8ed1ab_0
     - clang =22.1.8 =default_cfg_hc564e75_3
     - clang-22 =22.1.8 =default_h9a620b7_3
@@ -119,7 +119,7 @@ requirements:
     - conda =26.5.3 =py312hc2fe966_2
     - conda-index =0.12.1 =pyhd8ed1ab_0
     - conda-libmamba-solver =26.6.0 =pyhcf101f3_0
-    - conda-lockfiles =0.2.0 =pyhd8ed1ab_0
+    - conda-lockfiles =0.2.1 =pyhd8ed1ab_0
     - conda-package-handling =2.5.0 =pyhcf101f3_0
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
     - conda-pypi =0.11.0 =py312hc2fe966_0
@@ -141,7 +141,7 @@ requirements:
     - evalidate =2.0.5 =pyhe01879c_0
     - exceptiongroup =1.3.1 =pyhd8ed1ab_0
     - executing =2.2.1 =pyhd8ed1ab_0
-    - filelock =3.29.5 =pyhd8ed1ab_0
+    - filelock =3.29.6 =pyhd8ed1ab_0
     - fmt =12.1.0 =hda137b5_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -377,7 +377,7 @@ requirements:
     - r-crayon =1.5.3 =r45hc72bb7e_2
     - r-crul =1.6.0 =r45hc72bb7e_1
     - r-curl =7.1.0 =r45h2ef87c2_0
-    - r-data.table =1.17.8 =r45h4055d09_1
+    - r-data.table =1.18.4 =r45h37ac33b_0
     - r-dbi =1.3.0 =r45hc72bb7e_0
     - r-dbplyr =2.6.0 =r45hc72bb7e_0
     - r-diagram =1.6.5 =r45ha770c72_4
