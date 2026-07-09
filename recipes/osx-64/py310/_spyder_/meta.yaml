@@ -35,7 +35,7 @@ requirements:
     - spyder =6.1.5 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
-    # 308 secondary packages :
+    # 293 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiohttp =3.14.1 =py310h106fdd6_0
@@ -65,12 +65,11 @@ requirements:
     - brotli-python =1.2.0 =py310hab27952_1
     - bzip2 =1.0.8 =h500dc9f_9
     - ca-certificates =2026.6.17 =hbd8a1cb_0
-    - cairo =1.18.4 =h7656bdc_1
     - cattrs =26.1.0 =pyhcf101f3_1
     - certifi =2026.6.17 =pyhd8ed1ab_0
-    - cffi =2.1.0 =py310h32e8c93_0
+    - cffi =1.17.1 =py310hfce808e_0
     - chardet =7.4.3 =pyhcf101f3_0
-    - charset-normalizer =3.4.8 =pyhd8ed1ab_0
+    - charset-normalizer =3.4.9 =pyhd8ed1ab_0
     - click =8.4.2 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -78,9 +77,9 @@ requirements:
     - contourpy =1.3.2 =py310hf166250_0
     - cookiecutter =2.7.1 =pyhcf101f3_0
     - cpython =3.10.20 =py310hd8ed1ab_1
-    - cryptography =49.0.0 =py310h84da9b3_0
+    - cryptography =47.0.0 =py310h84da9b3_0
     - cycler =0.12.1 =pyhcf101f3_2
-    - cyrus-sasl =2.1.28 =h7cc0300_1
+    - cyrus-sasl =2.1.28 =h610c526_0
     - debugpy =1.8.21 =py310h3f55cb5_0
     - decorator =5.3.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
@@ -92,31 +91,21 @@ requirements:
     - exceptiongroup =1.3.1 =pyhd8ed1ab_0
     - executing =2.2.1 =pyhd8ed1ab_0
     - flake8 =7.1.2 =pyhd8ed1ab_0
-    - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
-    - font-ttf-inconsolata =3.000 =h77eed37_0
-    - font-ttf-source-code-pro =2.038 =h77eed37_0
-    - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.18.1 =h7a4440b_0
-    - fonts-conda-ecosystem =1 =0
-    - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py310h399bfa0_0
     - freetype =2.14.3 =h694c41f_1
-    - fribidi =1.0.16 =h8616949_0
     - frozenlist =1.8.0 =py310hef20fdf_0
     - fzf =0.74.0 =h990441c_0
     - giflib =5.2.2 =h10d778d_0
-    - glib =2.88.2 =h4740e6f_0
-    - glib-tools =2.88.2 =h04fd18e_0
+    - glib =2.84.0 =h915cd9b_0
+    - glib-tools =2.84.0 =hf8faeaf_0
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.3.0 =py310h3c5f367_1
-    - graphite2 =1.3.15 =hcc62823_0
-    - gst-plugins-base =1.26.11 =h79212b8_0
-    - gstreamer =1.26.11 =h5bdcca5_0
+    - gst-plugins-base =1.24.11 =h09840cc_0
+    - gstreamer =1.24.11 =h7d1b200_0
     - h2 =4.3.0 =pyhcf101f3_0
-    - harfbuzz =14.2.1 =h694c41f_1
     - hpack =4.2.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
-    - icu =78.3 =h25d91c4_0
+    - icu =75.1 =h120a0e1_0
     - idna =3.18 =pyhcf101f3_0
     - imagesize =2.0.0 =pyhd8ed1ab_0
     - importlib-metadata =9.0.0 =pyhcf101f3_0
@@ -140,7 +129,7 @@ requirements:
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - keyring =25.7.0 =pyh534df25_0
     - kiwisolver =1.5.0 =py310h323244c_0
-    - krb5 =1.22.2 =h3ddfcb2_1
+    - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.19.1 =h5ea7634_1
     - lerc =4.1.0 =h35c7297_0
     - libblas =3.11.0 =8_he492b99_openblas
@@ -148,46 +137,42 @@ requirements:
     - libbrotlidec =1.2.0 =h8616949_1
     - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.11.0 =8_h9b27e0a_openblas
-    - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
-    - libclang-cpp22.1 =22.1.8 =default_h5a1b869_3
-    - libclang13 =22.1.8 =default_h9a620b7_3
+    - libclang-cpp17 =17.0.6 =default_h3571c67_8
+    - libclang13 =21.1.0 =default_h7f9524c_1
     - libcxx =22.1.8 =h19cb2f5_0
     - libdeflate =1.25 =h517ebb2_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libexpat =2.8.1 =hcc62823_1
-    - libffi =3.5.2 =hd1f9c09_0
+    - libffi =3.7.0 =h8c408c4_0
     - libfreetype =2.14.3 =h694c41f_1
     - libfreetype6 =2.14.3 =h58fbd8d_1
     - libgcc =15.2.0 =h08519bb_19
     - libgfortran =15.2.0 =h7e5c614_19
     - libgfortran5 =15.2.0 =hd16e46c_19
-    - libglib =2.88.2 =hf28f236_0
-    - libharfbuzz =14.2.1 =h97ceea7_1
-    - libharfbuzz-devel =14.2.1 =h97ceea7_1
+    - libglib =2.84.0 =h5c976ab_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.4.1 =ha1e9b39_0
     - liblapack =3.11.0 =8_h859234e_openblas
-    - libllvm18 =18.1.8 =default_h9399c5b_12
-    - libllvm22 =22.1.8 =hab754da_1
+    - libllvm17 =17.0.6 =hbedff68_1
+    - libllvm21 =21.1.0 =h9b4ebcc_0
     - liblzma =5.8.3 =hbb4bfdb_0
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =he3325bb_1
     - libopenblas =0.3.33 =openmp_h9e49c7b_0
     - libopus =1.6.1 =hc6ced15_0
     - libpng =1.6.58 =he930e7c_0
-    - libpq =18.4 =h8b30867_1
-    - libsodium =1.0.22 =ha3d0635_1
+    - libpq =17.7 =h1e038c5_1
+    - libsodium =1.0.20 =hfdf4475_0
     - libspatialindex =2.1.0 =h2fb4741_1
-    - libsqlite =3.53.3 =h8f8c405_0
+    - libsqlite =3.53.3 =h77d7759_0
     - libtiff =4.7.2 =h95d6d7f_0
     - libvorbis =1.3.7 =ha059160_2
     - libwebp =1.6.0 =h5442d53_0
     - libwebp-base =1.6.0 =hb807250_0
     - libxcb =1.17.0 =hf1f96e2_0
-    - libxml2 =2.15.3 =h953d39d_0
-    - libxml2-16 =2.15.3 =h7a90416_0
+    - libxml2 =2.13.9 =he1bc88e_0
     - libzlib =1.3.2 =hbb4bfdb_2
     - llvm-openmp =22.1.8 =h0d3cbff_0
     - lsprotocol =2025.0.0 =pyhe01879c_0
@@ -205,6 +190,8 @@ requirements:
     - multidict =6.7.1 =py310hf174c55_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - mypy_extensions =1.1.0 =pyha770c72_0
+    - mysql-common =9.0.1 =hd00b0ec_6
+    - mysql-libs =9.0.1 =h062309a_6
     - nbclient =0.11.0 =pyhd8ed1ab_0
     - nbconvert =7.17.1 =hb502eef_0
     - nbconvert-core =7.17.1 =pyhcf101f3_0
@@ -216,20 +203,18 @@ requirements:
     - nss =3.118 =h2b2a826_0
     - numpydoc =1.10.0 =pyhcf101f3_0
     - openjpeg =2.5.4 =h52bb76a_0
-    - openldap =2.6.13 =h2f5043c_0
+    - openldap =2.6.10 =hd8a590d_0
     - openssl =3.6.3 =hc881268_0
     - packaging =26.2 =pyhc364b38_0
     - pandoc =3.10 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.56.4 =hf280016_1
     - parso =0.8.7 =pyhcf101f3_0
     - pathspec =1.1.1 =pyhd8ed1ab_0
-    - pcre2 =10.47 =h13923f0_0
+    - pcre2 =10.44 =hf733adb_2
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =12.3.0 =py310h0c0a54c_0
     - pip =26.1.2 =pyh8b19718_0
-    - pixman =0.46.4 =ha059160_1
     - platformdirs =4.10.0 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
@@ -250,18 +235,18 @@ requirements:
     - pylint =4.0.6 =pyhcf101f3_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
-    - pynacl =1.6.2 =py310hfef2a46_2
-    - pyobjc-core =12.1 =py310hccc919d_0
-    - pyobjc-framework-cocoa =12.1 =py310hb0d6316_0
-    - pyobjc-framework-coreservices =12.1 =py310hd2d5e8d_2
-    - pyobjc-framework-fsevents =12.1 =py310h2ec42d9_2
-    - pyopenssl =26.3.0 =pyhcf101f3_0
+    - pynacl =1.6.2 =py310hf70ac88_0
+    - pyobjc-core =11.0 =py310hae5a141_0
+    - pyobjc-framework-cocoa =11.0 =py310hae5a141_0
+    - pyobjc-framework-coreservices =11.0 =py310hbb8c376_0
+    - pyobjc-framework-fsevents =11.0 =py310h2ec42d9_0
+    - pyopenssl =26.2.0 =pyhcf101f3_0
     - pyparsing =3.3.2 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py310h40a7462_2
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
-    - python-gssapi =1.11.1 =py310ha204f83_1
+    - python-gssapi =1.11.1 =py310heb4f67e_0
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
     - python-lsp-ruff =2.3.1 =pyhcf101f3_0
@@ -281,7 +266,7 @@ requirements:
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h3c5361c_5
     - qstylizer =0.2.4 =pyhff2d567_0
-    - qt-main =5.15.15 =h650d4b3_8
+    - qt-main =5.15.15 =h30a8c49_3
     - qt-webengine =5.15.15 =h46887bd_1
     - qtawesome =1.4.2 =pyh9208f05_0
     - qtconsole =5.7.2 =pyhd8ed1ab_0
@@ -340,7 +325,7 @@ requirements:
     - yaml =0.2.5 =h4132b18_3
     - yapf =0.43.0 =pyhd8ed1ab_1
     - yarl =1.24.2 =py310h399bfa0_0
-    - zeromq =4.3.5 =h84953be_11
+    - zeromq =4.3.5 =h6c33b1e_9
     - zipp =4.1.0 =pyhcf101f3_0
     - zlib-ng =2.3.3 =h8bce59a_1
     - zstd =1.5.7 =h3eecb57_6

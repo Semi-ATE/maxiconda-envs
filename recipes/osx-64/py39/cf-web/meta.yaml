@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.43 =py39hb1cfd32_0
     - twisted =25.5.0 =py39h80efdc8_0
 
-    # 145 secondary packages :
+    # 127 secondary packages :
     - appdirs =1.4.4 =pyhd8ed1ab_1
     - appnope =0.1.4 =pyhd8ed1ab_1
     - asgiref =3.9.1 =pyhd8ed1ab_0
@@ -47,7 +47,6 @@ requirements:
     - brotli-python =1.1.0 =py39hdf37715_3
     - bzip2 =1.0.8 =h500dc9f_9
     - ca-certificates =2026.6.17 =hbd8a1cb_0
-    - cairo =1.18.4 =h7656bdc_1
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h8ddeee6_0
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
@@ -55,32 +54,21 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - constantly =15.1.0 =py_0
     - cryptography =45.0.6 =py39hf5bc105_0
-    - cyrus-sasl =2.1.28 =h7cc0300_1
+    - cyrus-sasl =2.1.28 =h610c526_0
     - debugpy =1.8.16 =py39h6581403_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - exceptiongroup =1.3.0 =pyhd8ed1ab_0
     - executing =2.2.0 =pyhd8ed1ab_0
-    - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
-    - font-ttf-inconsolata =3.000 =h77eed37_0
-    - font-ttf-source-code-pro =2.038 =h77eed37_0
-    - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.18.1 =h7a4440b_0
-    - fonts-conda-ecosystem =1 =0
-    - fonts-conda-forge =1 =hc364b38_1
-    - freetype =2.14.3 =h694c41f_1
-    - fribidi =1.0.16 =h8616949_0
-    - glib =2.88.2 =h4740e6f_0
-    - glib-tools =2.88.2 =h04fd18e_0
-    - graphite2 =1.3.15 =hcc62823_0
+    - glib =2.84.0 =h915cd9b_0
+    - glib-tools =2.84.0 =hf8faeaf_0
     - greenlet =3.2.4 =py39hdd9c553_0
-    - gst-plugins-base =1.26.11 =h79212b8_0
-    - gstreamer =1.26.11 =h5bdcca5_0
+    - gst-plugins-base =1.24.11 =h09840cc_0
+    - gstreamer =1.24.11 =h7d1b200_0
     - h2 =4.2.0 =pyhd8ed1ab_0
-    - harfbuzz =14.2.1 =h694c41f_1
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - hyperlink =21.0.0 =pyh29332c3_1
-    - icu =78.3 =h25d91c4_0
+    - icu =75.1 =h120a0e1_0
     - idna =3.11 =pyhf9edf01_1
     - importlib-metadata =8.7.0 =pyhe01879c_1
     - incremental =24.7.2 =pyhd8ed1ab_1
@@ -89,53 +77,47 @@ requirements:
     - jedi =0.19.2 =pyhd8ed1ab_1
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.8.1 =pyh31011fe_0
-    - krb5 =1.22.2 =h3ddfcb2_1
-    - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
-    - libclang-cpp22.1 =22.1.8 =default_h5a1b869_3
-    - libclang13 =22.1.8 =default_h9a620b7_3
+    - krb5 =1.21.3 =h37d8d59_0
+    - libclang-cpp17 =17.0.6 =default_h3571c67_8
+    - libclang13 =21.1.0 =default_h7f9524c_1
     - libcxx =22.1.8 =h19cb2f5_0
     - libedit =3.1.20250104 =pl5321ha958ccf_0
     - libexpat =2.8.1 =hcc62823_1
-    - libffi =3.5.2 =hd1f9c09_0
-    - libfreetype =2.14.3 =h694c41f_1
-    - libfreetype6 =2.14.3 =h58fbd8d_1
-    - libglib =2.88.2 =hf28f236_0
-    - libharfbuzz =14.2.1 =h97ceea7_1
-    - libharfbuzz-devel =14.2.1 =h97ceea7_1
+    - libffi =3.7.0 =h8c408c4_0
+    - libglib =2.84.0 =h5c976ab_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.1.4.1 =ha1e9b39_0
-    - libllvm18 =18.1.8 =default_h9399c5b_12
-    - libllvm22 =22.1.8 =hab754da_1
+    - libllvm17 =17.0.6 =hbedff68_1
+    - libllvm21 =21.1.0 =h9b4ebcc_0
     - liblzma =5.8.3 =hbb4bfdb_0
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =he3325bb_1
     - libopus =1.6.1 =hc6ced15_0
     - libpng =1.6.58 =he930e7c_0
-    - libpq =18.4 =h8b30867_1
-    - libsodium =1.0.18 =hbcb3906_1
-    - libsqlite =3.53.3 =h8f8c405_0
+    - libpq =17.7 =h1e038c5_1
+    - libsodium =1.0.20 =hfdf4475_0
+    - libsqlite =3.53.3 =h77d7759_0
     - libvorbis =1.3.7 =ha059160_2
-    - libxml2 =2.15.3 =h953d39d_0
-    - libxml2-16 =2.15.3 =h7a90416_0
+    - libxml2 =2.13.9 =he1bc88e_0
     - libzlib =1.3.2 =hbb4bfdb_2
     - markupsafe =3.0.2 =py39hd18e689_1
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
+    - mysql-common =9.0.1 =hd00b0ec_6
+    - mysql-libs =9.0.1 =h062309a_6
     - ncurses =6.6 =hcc0dc9a_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.38 =hee0b3f1_0
     - nss =3.118 =h2b2a826_0
-    - openldap =2.6.13 =h2f5043c_0
+    - openldap =2.6.10 =hd8a590d_0
     - openssl =3.6.3 =hc881268_0
     - packaging =26.2 =pyhc364b38_0
-    - pango =1.56.4 =hf280016_1
     - parso =0.8.4 =pyhd8ed1ab_1
-    - pcre2 =10.47 =h13923f0_0
+    - pcre2 =10.44 =hf733adb_2
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pip =25.2 =pyh8b19718_0
-    - pixman =0.46.4 =ha059160_1
     - platformdirs =4.3.8 =pyhe01879c_0
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.51 =pyha770c72_0
@@ -152,8 +134,8 @@ requirements:
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python_abi =3.9 =8_cp39
     - pyxdg =0.28 =pyhd8ed1ab_0
-    - pyzmq =26.2.0 =py39ha6bd863_0
-    - qt-main =5.15.15 =h650d4b3_8
+    - pyzmq =27.0.2 =py39h7cc8fb6_0
+    - qt-main =5.15.15 =h30a8c49_3
     - readline =8.3 =h68b038d_0
     - service-identity =24.2.0 =pyha770c72_1
     - service_identity =24.2.0 =hd8ed1ab_1
@@ -176,7 +158,7 @@ requirements:
     - wheel =0.45.1 =pyhd8ed1ab_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - yaml =0.2.5 =h4132b18_3
-    - zeromq =4.3.5 =h93d8f39_0
+    - zeromq =4.3.5 =h6c33b1e_9
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zope.interface =7.2 =py39h80efdc8_0
     - zstandard =0.23.0 =py39hb1cfd32_3

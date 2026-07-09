@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py311hc71d4c3_1
     - cython =3.2.8 =py311h3007246_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.155.7 =pyha770c72_0
+    - hypothesis =6.156.3 =py311h3a14e8f_0
     - ipython =9.15.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.0 =py311h6eed73b_1
@@ -64,9 +64,10 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 494 secondary packages :
+    # 505 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
+    - adwaita-icon-theme =49.0 =unix_0
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
@@ -77,6 +78,7 @@ requirements:
     - arrow =1.4.0 =pyhcf101f3_0
     - asttokens =3.0.1 =pyhd8ed1ab_0
     - async-lru =2.3.0 =pyhcf101f3_0
+    - atk-1.0 =2.38.0 =h4bec284_2
     - attrs =26.1.0 =pyhcf101f3_0
     - babel =2.18.0 =pyhcf101f3_1
     - backports.zstd =1.6.0 =py311h1fd9c89_0
@@ -97,7 +99,7 @@ requirements:
     - cctools_osx-64 =1030.6.3 =llvm22_1_h0a1bb1c_4
     - certifi =2026.6.17 =pyhd8ed1ab_0
     - cffi =2.1.0 =py311hc34a7ac_0
-    - charset-normalizer =3.4.8 =pyhd8ed1ab_0
+    - charset-normalizer =3.4.9 =pyhd8ed1ab_0
     - clang =22.1.8 =default_cfg_hc564e75_3
     - clang-22 =22.1.8 =default_h9a620b7_3
     - clang-scan-deps =22.1.8 =default_hb9cff66_3
@@ -105,7 +107,7 @@ requirements:
     - clang_osx-64 =22.1.8 =h97b245c_32
     - clangxx_impl_osx-64 =22.1.8 =default_h7e3b1ed_3
     - clangxx_osx-64 =22.1.8 =h97b245c_32
-    - click =8.2.1 =pyh707e725_0
+    - click =8.4.2 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -116,7 +118,7 @@ requirements:
     - conda =22.9.0 =py311h6eed73b_2
     - conda-package-handling =2.5.0 =pyhcf101f3_0
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
-    - conda-recipe-manager =0.10.4 =pyhd8ed1ab_0
+    - conda-recipe-manager =0.5.0 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h9d13916_4
     - cpython =3.11.15 =py311hd8ed1ab_1
@@ -127,8 +129,8 @@ requirements:
     - debugpy =1.8.21 =py311hc3ea09e_0
     - decorator =5.3.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
+    - epoxy =1.5.10 =h8616949_2
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
-    - evalidate =2.0.5 =pyhe01879c_0
     - exceptiongroup =1.3.1 =pyhd8ed1ab_0
     - executing =2.2.1 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -144,6 +146,7 @@ requirements:
     - fribidi =1.0.16 =h8616949_0
     - frozenlist =1.8.0 =py311ha09d3ca_0
     - gcc_impl_osx-64 =15.2.0 =hd882092_19
+    - gdk-pixbuf =2.44.7 =hae309b2_0
     - gfortran_impl_osx-64 =15.2.0 =h3603427_19
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.50 =pyhd8ed1ab_0
@@ -152,13 +155,17 @@ requirements:
     - gmp =6.3.0 =hf036a51_2
     - gmpy2 =2.3.0 =py311hee6c895_1
     - graphite2 =1.3.15 =hcc62823_0
+    - graphviz =14.1.2 =h44fc223_0
     - greenlet =3.5.3 =py311hc3ea09e_0
     - gsl =2.7 =h93259b0_0
     - gst-plugins-base =1.26.11 =h79212b8_0
     - gstreamer =1.26.11 =h5bdcca5_0
+    - gtk3 =3.24.52 =hf2d442a_0
+    - gts =0.7.6 =h53e17e3_4
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.3.0 =pyhcf101f3_0
     - harfbuzz =14.2.1 =h694c41f_1
+    - hicolor-icon-theme =0.17 =h694c41f_3
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -216,6 +223,7 @@ requirements:
     - libfreetype6 =2.14.3 =h58fbd8d_1
     - libgcc =15.2.0 =h08519bb_19
     - libgcc-devel_osx-64 =15.2.0 =h49bd711_119
+    - libgd =2.3.3 =hb2c11ec_12
     - libgettextpo =0.25.1 =h3184127_1
     - libgfortran =15.2.0 =h7e5c614_19
     - libgfortran5 =15.2.0 =hd16e46c_19
@@ -239,6 +247,7 @@ requirements:
     - libpq =18.4 =h8b30867_1
     - libpsl =0.22.0 =h87879e4_0
     - libraqm =0.10.5 =h1888d0e_1
+    - librsvg =2.62.3 =h7321050_0
     - libsigtool =0.1.3 =hc0f2934_0
     - libsodium =1.0.22 =ha3d0635_1
     - libsqlite =3.53.3 =h8f8c405_0
@@ -270,6 +279,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.6 =hcc0dc9a_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
+    - networkx =3.6.1 =pyhcf101f3_0
     - notebook =7.6.0 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.38 =hee0b3f1_0
@@ -303,6 +313,7 @@ requirements:
     - pycparser =3.0 =pyhcf101f3_0
     - pydantic-core =2.46.4 =py311h3a14e8f_0
     - pygments =2.20.0 =pyhd8ed1ab_0
+    - pygraphviz =1.14 =py311h3d8d06d_3
     - pyobjc-core =12.2.1 =py311h364d5e4_0
     - pyobjc-framework-cocoa =12.2.1 =py311hc34a7ac_0
     - pyopenssl =26.3.0 =pyhcf101f3_0

@@ -35,7 +35,7 @@ requirements:
     - sqlalchemy =2.0.43 =py39h0802e32_0
     - twisted =25.5.0 =py39ha55e580_0
 
-    # 136 secondary packages :
+    # 116 secondary packages :
     - appdirs =1.4.4 =pyhd8ed1ab_1
     - asgiref =3.9.1 =pyhd8ed1ab_0
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -46,7 +46,6 @@ requirements:
     - brotli-python =1.1.0 =py39ha51f57c_3
     - bzip2 =1.0.8 =h0ad9c76_9
     - ca-certificates =2026.6.17 =h4c7d964_0
-    - cairo =1.18.4 =h477c42c_1
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39ha55e580_0
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
@@ -60,27 +59,16 @@ requirements:
     - decorator =5.2.1 =pyhd8ed1ab_0
     - exceptiongroup =1.3.0 =pyhd8ed1ab_0
     - executing =2.2.0 =pyhd8ed1ab_0
-    - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
-    - font-ttf-inconsolata =3.000 =h77eed37_0
-    - font-ttf-source-code-pro =2.038 =h77eed37_0
-    - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.18.1 =hd47e2ca_0
-    - fonts-conda-ecosystem =1 =0
-    - fonts-conda-forge =1 =hc364b38_1
-    - freetype =2.14.3 =h57928b3_1
-    - fribidi =1.0.16 =hfd05255_0
-    - glib =2.88.2 =h395db07_0
-    - glib-tools =2.88.2 =h74ecf4c_0
-    - graphite2 =1.3.15 =hac47afa_0
+    - glib =2.84.0 =h3d4babf_0
+    - glib-tools =2.84.0 =h4394cf3_0
     - greenlet =3.2.4 =py39hdb6649d_0
-    - gst-plugins-base =1.26.11 =h88486b4_0
-    - gstreamer =1.26.11 =hae9036a_0
+    - gst-plugins-base =1.24.7 =hb0a98b8_0
+    - gstreamer =1.24.7 =h5006eae_0
     - h2 =4.2.0 =pyhd8ed1ab_0
-    - harfbuzz =14.2.1 =h57928b3_1
     - hpack =4.1.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - hyperlink =21.0.0 =pyh29332c3_1
-    - icu =78.3 =h637d24d_0
+    - icu =75.1 =he0c23c2_0
     - idna =3.11 =pyhf9edf01_1
     - importlib-metadata =8.7.0 =pyhe01879c_1
     - incremental =24.7.2 =pyhd8ed1ab_1
@@ -89,15 +77,11 @@ requirements:
     - jedi =0.19.2 =pyhd8ed1ab_1
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.8.1 =pyh5737063_0
-    - krb5 =1.22.2 =h719d79b_1
+    - krb5 =1.21.3 =hdf4eb48_0
     - libclang13 =22.1.8 =default_hf735972_3
     - libexpat =2.8.1 =hac47afa_1
-    - libffi =3.5.2 =h3d046cb_0
-    - libfreetype =2.14.3 =h57928b3_1
-    - libfreetype6 =2.14.3 =hdbac1cb_1
-    - libglib =2.88.2 =h7ce1215_0
-    - libharfbuzz =14.2.1 =h03b5201_1
-    - libharfbuzz-devel =14.2.1 =h03b5201_1
+    - libffi =3.7.0 =h3d046cb_0
+    - libglib =2.84.0 =h7025463_0
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
@@ -105,23 +89,21 @@ requirements:
     - liblzma =5.8.3 =hfd05255_0
     - libogg =1.3.5 =h2466b09_1
     - libpng =1.6.58 =h7351971_0
-    - libsodium =1.0.18 =h8d14728_1
+    - libsodium =1.0.20 =hc70643c_0
     - libsqlite =3.53.3 =hf5d6505_0
     - libvorbis =1.3.7 =h5112557_2
-    - libxml2 =2.15.3 =h8ef44ab_0
-    - libxml2-16 =2.15.3 =h3cfd58e_0
+    - libxml2 =2.15.1 =ha29bfb0_0
+    - libxml2-16 =2.15.1 =h06f855e_0
     - libzlib =1.3.2 =hfd05255_2
     - markupsafe =3.0.2 =py39hf73967f_1
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - openssl =3.6.3 =hf411b9b_0
     - packaging =26.2 =pyhc364b38_0
-    - pango =1.56.4 =h13911b6_1
     - parso =0.8.4 =pyhd8ed1ab_1
-    - pcre2 =10.47 =hd2b5f0e_0
+    - pcre2 =10.44 =h99c9b8b_2
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pip =25.2 =pyh8b19718_0
-    - pixman =0.46.4 =h5112557_1
     - platformdirs =4.3.8 =pyhe01879c_0
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.51 =pyha770c72_0
@@ -137,8 +119,8 @@ requirements:
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python_abi =3.9 =8_cp39
     - pywin32 =311 =py39h5fb4b08_0
-    - pyzmq =26.2.0 =py39h03e5c00_1
-    - qt-main =5.15.15 =hc95f6a6_8
+    - pyzmq =27.0.2 =py39h248659b_0
+    - qt-main =5.15.15 =h9151539_3
     - service-identity =24.2.0 =pyha770c72_1
     - service_identity =24.2.0 =hd8ed1ab_1
     - setuptools =80.9.0 =pyhff2d567_0
@@ -161,14 +143,12 @@ requirements:
     - vc =14.5 =h1b7c187_39
     - vc14_runtime =14.51.36231 =h1b9f54f_39
     - vcomp14 =14.51.36231 =h1b9f54f_39
-    - vs2015_runtime =14.51.36231 =h84cd919_39
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
     - win_inet_pton =1.1.0 =pyh7428d3b_8
     - yaml =0.2.5 =h6a83c73_3
-    - zeromq =4.3.5 =he0c23c2_3
+    - zeromq =4.3.5 =h5bddc39_9
     - zipp =3.23.0 =pyhd8ed1ab_0
-    - zlib =1.3.2 =hfd05255_2
     - zope.interface =7.2 =py39ha55e580_0
     - zstandard =0.23.0 =py39h0802e32_3
     - zstd =1.5.7 =h534d264_6

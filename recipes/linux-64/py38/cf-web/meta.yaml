@@ -59,10 +59,11 @@ requirements:
     - constantly =15.1.0 =py_0
     - cryptography =43.0.0 =py38hf793753_0
     - cyrus-sasl =2.1.28 =hd9c7081_0
-    - dbus =1.16.2 =h24cb091_1
+    - dbus =1.13.6 =h5008d03_3
     - debugpy =1.8.5 =py38h6d02427_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - executing =2.1.0 =pyhd8ed1ab_0
+    - expat =2.8.1 =hecca717_1
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -71,14 +72,14 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - freetype =2.14.3 =ha770c72_0
-    - glib =2.88.2 =hbe0478d_0
-    - glib-tools =2.88.2 =h8094192_0
+    - glib =2.84.0 =h07242d1_0
+    - glib-tools =2.84.0 =h4833e2c_0
     - graphite2 =1.3.15 =hecca717_0
     - greenlet =3.0.3 =py38h17151c0_0
-    - gst-plugins-base =1.24.11 =h651a532_0
-    - gstreamer =1.24.11 =hc37bda9_0
+    - gst-plugins-base =1.24.7 =h0a52356_0
+    - gstreamer =1.24.7 =hf3bb09a_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =12.2.0 =h15599e2_0
+    - harfbuzz =11.0.0 =h76408a6_0
     - hpack =4.0.0 =pyh9f0ad1d_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
     - hyperlink =21.0.0 =pyhd3deb0d_0
@@ -104,14 +105,14 @@ requirements:
     - libegl =1.7.0 =ha4b6fd6_3
     - libevent =2.1.12 =hf998b51_1
     - libexpat =2.8.1 =hecca717_1
-    - libffi =3.5.2 =h3435931_0
+    - libffi =3.7.0 =h3435931_0
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_0
     - libfreetype6 =2.14.3 =h73754d4_0
     - libgcc =15.2.0 =he0feb66_19
     - libgcc-ng =15.2.0 =h69a702a_19
     - libgl =1.7.0 =ha4b6fd6_3
-    - libglib =2.88.2 =h0d30a3d_0
+    - libglib =2.84.0 =h2ff4ddf_0
     - libglvnd =1.7.0 =ha4b6fd6_3
     - libglx =1.7.0 =ha4b6fd6_3
     - libgomp =15.2.0 =he0feb66_19
@@ -153,7 +154,7 @@ requirements:
     - openssl =3.6.3 =h35e630c_0
     - packaging =26.2 =pyhc364b38_0
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pcre2 =10.47 =haa7fec5_0
+    - pcre2 =10.44 =hc749103_2
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pip =24.3.1 =pyh8b19718_0
@@ -165,7 +166,7 @@ requirements:
     - psutil =6.0.0 =py38hfb59056_0
     - pthread-stubs =0.4 =hb9d3cd8_1002
     - ptyprocess =0.7.0 =pyhd3deb0d_0
-    - pulseaudio-client =17.0 =h9a6aba3_3
+    - pulseaudio-client =17.0 =hac146a9_1
     - pure_eval =0.2.3 =pyhd8ed1ab_0
     - pyasn1 =0.6.1 =pyhd8ed1ab_1
     - pyasn1-modules =0.4.1 =pyhd8ed1ab_0
@@ -215,7 +216,6 @@ requirements:
     - xorg-libxext =1.3.7 =hb03c661_0
     - xorg-libxfixes =6.0.2 =hb03c661_0
     - xorg-libxrender =0.9.12 =hb9d3cd8_0
-    - xorg-libxshmfence =1.3.3 =hb9d3cd8_0
     - xorg-libxxf86vm =1.1.7 =hb03c661_0
     - xz =5.8.3 =ha02ee65_0
     - xz-gpl-tools =5.8.3 =ha02ee65_0
