@@ -153,7 +153,7 @@ requirements:
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
-    - libjpeg-turbo =3.1.4.1 =ha1e9b39_0
+    - libjpeg-turbo =3.2.0 =ha1e9b39_0
     - liblapack =3.11.0 =8_h859234e_openblas
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm21 =21.1.0 =h9b4ebcc_0
@@ -235,7 +235,7 @@ requirements:
     - pylint =4.0.6 =pyhcf101f3_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
-    - pynacl =1.6.2 =py310hf70ac88_0
+    - pynacl =1.5.0 =py310hd2d5e8d_5
     - pyobjc-core =11.0 =py310hae5a141_0
     - pyobjc-framework-cocoa =11.0 =py310hae5a141_0
     - pyobjc-framework-coreservices =11.0 =py310hbb8c376_0
@@ -253,7 +253,7 @@ requirements:
     - python-lsp-server =1.14.0 =pyh332efcf_0
     - python-lsp-server-base =1.14.0 =pyhd8ed1ab_0
     - python-slugify =8.0.4 =pyhd8ed1ab_1
-    - python-tzdata =2026.2 =pyhd8ed1ab_0
+    - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python.app =1.4 =py310h1b7cace_5
     - python_abi =3.10 =8_cp310
     - pytokens =0.4.1 =py310h5afac17_2
@@ -279,7 +279,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py310h64024f4_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.15.20 =h1ddadc8_0
+    - ruff =0.15.21 =h1ddadc8_0
     - setuptools =83.0.0 =pyh332efcf_0
     - sip =6.10.0 =py310ha75780e_1
     - six =1.17.0 =pyhe01879c_1

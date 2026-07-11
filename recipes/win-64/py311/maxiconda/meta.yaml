@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py311h3485c13_1
     - cython =3.2.8 =py311h9990397_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.156.3 =py311hf51aa87_0
+    - hypothesis =6.156.5 =py311hf51aa87_0
     - ipython =9.15.0 =pyhe2676ad_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.0 =py311h1ea47a8_1
@@ -50,9 +50,9 @@ requirements:
     - qtawesome =1.4.2 =pyh9208f05_0
     - r-base =4.5.3 =h91b09f7_3
     - r-essentials =4.5 =r45hd8ed1ab_2006
-    - regex =2026.6.28 =py311h3485c13_0
+    - regex =2026.7.10 =py311h3485c13_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.96.1 =hf8d6059_1
+    - rust =1.97.0 =hf8d6059_0
     - scipy =1.17.1 =py311h9c22a71_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =win_pyh7428d3b_0
@@ -202,7 +202,7 @@ requirements:
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
-    - libjpeg-turbo =3.1.4.1 =hfd05255_0
+    - libjpeg-turbo =3.2.0 =hfd05255_0
     - liblapack =3.11.0 =8_hf9ab0e9_mkl
     - liblzma =5.8.3 =hfd05255_0
     - libnghttp2 =1.68.1 =hac47afa_0
@@ -239,7 +239,7 @@ requirements:
     - mingw-w64-ucrt-x86_64-windows-default-manifest =6.4 =he206cdd_7
     - mingw-w64-ucrt-x86_64-winpthreads-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
     - mistune =3.3.3 =pyhcf101f3_0
-    - mkl =2026.0.0 =hac47afa_908
+    - mkl =2026.1.0 =hac47afa_233
     - mpmath =1.4.1 =pyhd8ed1ab_0
     - multidict =6.7.1 =py311h3f79411_0
     - munkres =1.1.4 =pyhd8ed1ab_1
@@ -250,7 +250,7 @@ requirements:
     - networkx =3.6.1 =pyhcf101f3_0
     - notebook =7.6.0 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
-    - onemkl-license =2026.0.0 =h57928b3_908
+    - onemkl-license =2026.1.0 =h57928b3_233
     - openjpeg =2.5.4 =h0e57b4f_0
     - openssl =3.6.3 =hf411b9b_0
     - overrides =7.7.0 =pyhd8ed1ab_1
@@ -286,7 +286,7 @@ requirements:
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
     - python-json-logger =4.1.0 =pyhd8ed1ab_0
-    - python-tzdata =2026.2 =pyhd8ed1ab_0
+    - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python-utils =4.0.0 =pyh332efcf_0
     - python_abi =3.11 =8_cp311
     - pywin32 =312 =py311hefeebc8_0
@@ -487,7 +487,7 @@ requirements:
     - ruamel.yaml.clib =0.2.15 =py311hf893f09_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - ruamel_yaml =0.15.80 =py311ha68e1ae_1009
-    - rust-std-x86_64-pc-windows-msvc =1.96.1 =h17fc481_1
+    - rust-std-x86_64-pc-windows-msvc =1.97.0 =h17fc481_0
     - send2trash =2.1.0 =pyh6dadd2b_1
     - setuptools =83.0.0 =pyh332efcf_0
     - sip =6.10.0 =py311h3e6a449_1

@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py312h1a1c95f_1
     - cython =3.2.8 =py312h7305618_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.156.3 =py312hc1db7ba_0
+    - hypothesis =6.156.5 =py312hc1db7ba_0
     - ipython =9.15.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.0 =py312hb401068_1
@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.6.28 =py312h933eb07_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.96.1 =h5655b98_1
+    - rust =1.97.0 =h5655b98_0
     - scipy =1.18.0 =py312h6309490_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
@@ -248,7 +248,7 @@ requirements:
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
-    - libjpeg-turbo =3.1.4.1 =ha1e9b39_0
+    - libjpeg-turbo =3.2.0 =ha1e9b39_0
     - liblapack =3.11.0 =8_h859234e_openblas
     - libllvm18 =18.1.8 =default_h9399c5b_12
     - libllvm22 =22.1.8 =hab754da_1
@@ -353,7 +353,7 @@ requirements:
     - python-gil =3.12.13 =hd8ed1ab_0
     - python-installer =1.0.1 =pyh332efcf_0
     - python-json-logger =4.1.0 =pyhd8ed1ab_0
-    - python-tzdata =2026.2 =pyhd8ed1ab_0
+    - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python-utils =4.0.0 =pyh332efcf_0
     - python_abi =3.12 =8_cp312
     - pyxdg =0.28 =pyhd8ed1ab_0
@@ -554,7 +554,7 @@ requirements:
     - ruamel.yaml =0.18.17 =py312hf7082af_2
     - ruamel.yaml.clib =0.2.15 =py312hf7082af_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-x86_64-apple-darwin =1.96.1 =h38e4360_1
+    - rust-std-x86_64-apple-darwin =1.97.0 =h38e4360_0
     - sdkroot_env_osx-64 =26.0 =h62b880e_7
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =83.0.0 =pyh332efcf_0

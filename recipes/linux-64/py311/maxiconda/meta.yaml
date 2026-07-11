@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py311h49ec1c0_1
     - cython =3.2.8 =py311h0daaf2c_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.156.3 =py311h902ca64_0
+    - hypothesis =6.156.5 =py311h902ca64_0
     - ipython =9.15.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.0 =py311h38be061_1
@@ -50,9 +50,9 @@ requirements:
     - qtawesome =1.4.2 =pyh9208f05_0
     - r-base =4.5.3 =h502d0c9_3
     - r-essentials =4.5 =r45hd8ed1ab_2006
-    - regex =2026.6.28 =py311h49ec1c0_0
+    - regex =2026.7.10 =py311h49ec1c0_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.96.1 =h53717f1_1
+    - rust =1.97.0 =h53717f1_0
     - scipy =1.17.1 =py311hbe70eeb_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
@@ -225,7 +225,7 @@ requirements:
     - libharfbuzz =14.2.1 =h17a8019_1
     - libharfbuzz-devel =14.2.1 =h17a8019_1
     - libiconv =1.18 =h3b78370_2
-    - libjpeg-turbo =3.1.4.1 =hb03c661_0
+    - libjpeg-turbo =3.2.0 =hb03c661_0
     - liblapack =3.11.0 =8_h47877c9_openblas
     - libllvm22 =22.1.8 =hf7376ad_1
     - liblzma =5.8.3 =hb03c661_0
@@ -322,7 +322,7 @@ requirements:
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
     - python-json-logger =4.1.0 =pyhd8ed1ab_0
-    - python-tzdata =2026.2 =pyhd8ed1ab_0
+    - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python-utils =4.0.0 =pyh332efcf_0
     - python_abi =3.11 =8_cp311
     - pyxdg =0.28 =pyhd8ed1ab_0
@@ -523,7 +523,7 @@ requirements:
     - ruamel.yaml.clib =0.2.15 =py311haee01d2_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - ruamel_yaml =0.15.80 =py311h459d7ec_1009
-    - rust-std-x86_64-unknown-linux-gnu =1.96.1 =h2c6d0dc_1
+    - rust-std-x86_64-unknown-linux-gnu =1.97.0 =h2c6d0dc_0
     - sed =4.10 =h19d0853_0
     - send2trash =2.1.0 =pyha191276_1
     - setuptools =83.0.0 =pyh332efcf_0
