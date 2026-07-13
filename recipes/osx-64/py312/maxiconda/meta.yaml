@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py312h1a1c95f_1
     - cython =3.2.8 =py312h7305618_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.156.5 =py312hc1db7ba_0
+    - hypothesis =6.156.6 =py312hc1db7ba_0
     - ipython =9.15.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.0 =py312hb401068_1
@@ -50,7 +50,7 @@ requirements:
     - qtawesome =1.4.2 =pyh9208f05_0
     - r-base =4.5.3 =h6422bf8_3
     - r-essentials =4.5 =r45hd8ed1ab_2006
-    - regex =2026.6.28 =py312h933eb07_0
+    - regex =2026.7.10 =py312h933eb07_0
     - requests =2.34.2 =pyhcf101f3_0
     - rust =1.97.0 =h5655b98_0
     - scipy =1.18.0 =py312h6309490_0
@@ -72,7 +72,7 @@ requirements:
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
-    - anyio =4.14.1 =pyhcf101f3_0
+    - anyio =4.14.2 =pyhcf101f3_0
     - appnope =0.1.4 =pyhd8ed1ab_1
     - archspec =0.2.5 =pyhd8ed1ab_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
@@ -162,7 +162,7 @@ requirements:
     - gdk-pixbuf =2.44.7 =hae309b2_0
     - gfortran_impl_osx-64 =15.2.0 =h3603427_19
     - gitdb =4.0.12 =pyhd8ed1ab_0
-    - gitpython =3.1.50 =pyhd8ed1ab_0
+    - gitpython =3.1.51 =pyhd8ed1ab_0
     - glib =2.88.2 =h4740e6f_0
     - glib-tools =2.88.2 =h04fd18e_0
     - gmp =6.3.0 =hf036a51_2
@@ -197,7 +197,7 @@ requirements:
     - jsonschema =4.26.0 =pyhcf101f3_0
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_0
-    - jupyter-builder =1.0.2 =pyhcf101f3_0
+    - jupyter-builder =1.1.0 =pyhcf101f3_0
     - jupyter-lsp =2.3.1 =pyhcf101f3_0
     - jupyter_client =8.9.1 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyhc90fa1f_0

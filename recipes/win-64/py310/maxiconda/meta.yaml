@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py310h29418f3_1
     - cython =3.2.8 =py310h23e71ea_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.156.5 =py310h034784e_0
+    - hypothesis =6.156.6 =py310h034784e_0
     - ipython =8.37.0 =pyha7b4d00_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py310h5588dad_0
@@ -70,7 +70,7 @@ requirements:
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
-    - anyio =4.14.1 =pyhcf101f3_0
+    - anyio =4.14.2 =pyhcf101f3_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =25.1.0 =py310h29418f3_2
     - arrow =1.4.0 =pyhcf101f3_0
@@ -151,7 +151,7 @@ requirements:
     - jsonschema =4.26.0 =pyhcf101f3_0
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_0
-    - jupyter-builder =1.0.2 =pyhcf101f3_0
+    - jupyter-builder =1.1.0 =pyhcf101f3_0
     - jupyter-lsp =2.3.1 =pyhcf101f3_0
     - jupyter_client =8.9.1 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyh6dadd2b_0

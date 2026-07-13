@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py312h4c3975b_1
     - cython =3.2.8 =py312h68e6be4_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.156.5 =py312h868fb18_0
+    - hypothesis =6.156.6 =py312h868fb18_0
     - ipython =9.15.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.0 =py312h7900ff3_1
@@ -72,7 +72,7 @@ requirements:
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alsa-lib =1.2.16.1 =hb03c661_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
-    - anyio =4.14.1 =pyhcf101f3_0
+    - anyio =4.14.2 =pyhcf101f3_0
     - archspec =0.2.5 =pyhd8ed1ab_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =25.1.0 =py312h4c3975b_2
@@ -150,7 +150,7 @@ requirements:
     - gcc_linux-64 =15.2.0 =h7be306e_27
     - gfortran_impl_linux-64 =15.2.0 =h281d09f_19
     - gitdb =4.0.12 =pyhd8ed1ab_0
-    - gitpython =3.1.50 =pyhd8ed1ab_0
+    - gitpython =3.1.51 =pyhd8ed1ab_0
     - glib =2.88.2 =hbe0478d_0
     - glib-tools =2.88.2 =h8094192_0
     - gmp =6.3.0 =hac33072_2
@@ -183,7 +183,7 @@ requirements:
     - jsonschema =4.26.0 =pyhcf101f3_0
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_0
-    - jupyter-builder =1.0.2 =pyhcf101f3_0
+    - jupyter-builder =1.1.0 =pyhcf101f3_0
     - jupyter-lsp =2.3.1 =pyhcf101f3_0
     - jupyter_client =8.9.1 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyhc90fa1f_0
