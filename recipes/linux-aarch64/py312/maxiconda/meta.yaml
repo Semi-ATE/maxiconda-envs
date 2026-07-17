@@ -35,7 +35,7 @@ requirements:
     - ipython =9.15.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.0 =py312h8025657_1
-    - numba =0.65.1 =py312heba07a5_1
+    - numba =0.66.0 =py312h8e8f6e9_0
     - numpy =2.4.6 =py312hce9e0af_0
     - openpyxl =3.1.5 =py312h6c49482_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.7.10 =py312hcd1a082_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.97.0 =h6cf38e9_0
+    - rust =1.97.0 =h6cf38e9_1
     - scipy =1.18.0 =py312ha7f05e0_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
@@ -66,7 +66,7 @@ requirements:
 
     # 563 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
-    - _python_abi3_support =1.0 =hd8ed1ab_2
+    - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -82,8 +82,8 @@ requirements:
     - attrs =26.1.0 =pyhcf101f3_0
     - babel =2.18.0 =pyhcf101f3_1
     - backports.zstd =1.6.0 =py312ha46dd1d_0
-    - binutils_impl_linux-aarch64 =2.45.1 =default_h5f4c503_102
-    - binutils_linux-aarch64 =2.45.1 =default_hf1166c9_102
+    - binutils_impl_linux-aarch64 =2.46.1 =default_h5f4c503_102
+    - binutils_linux-aarch64 =2.46.1 =default_hf1166c9_102
     - bleach =6.4.0 =pyhcf101f3_0
     - bleach-with-css =6.4.0 =hac0b51c_0
     - boltons =26.0.0 =pyhd8ed1ab_0
@@ -106,11 +106,11 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - conda =26.5.3 =py312h6d8504a_2
     - conda-index =0.12.1 =pyhd8ed1ab_0
-    - conda-libmamba-solver =26.6.0 =pyhcf101f3_0
+    - conda-libmamba-solver =26.7.0 =pyhcf101f3_0
     - conda-lockfiles =0.2.1 =pyhd8ed1ab_0
     - conda-package-handling =2.5.0 =pyhcf101f3_0
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
-    - conda-pypi =0.11.0 =py312h3262aca_0
+    - conda-pypi =0.11.0 =py312h3262aca_1
     - conda-rattler-solver =0.1.1 =pyhcf101f3_0
     - conda-recipe-manager =0.10.5 =pyhd8ed1ab_0
     - conda-self =0.2.0 =pyhd8ed1ab_0
@@ -131,7 +131,7 @@ requirements:
     - evalidate =2.0.5 =pyhe01879c_0
     - exceptiongroup =1.3.1 =pyhd8ed1ab_0
     - executing =2.2.1 =pyhd8ed1ab_0
-    - filelock =3.29.7 =pyhd8ed1ab_0
+    - filelock =3.30.1 =pyhd8ed1ab_0
     - fmt =12.1.0 =h20c602a_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -150,7 +150,7 @@ requirements:
     - gcc_linux-aarch64 =15.2.0 =h0bf4bd8_27
     - gfortran_impl_linux-aarch64 =15.2.0 =h2d9b6d1_19
     - gitdb =4.0.12 =pyhd8ed1ab_0
-    - gitpython =3.1.51 =pyhd8ed1ab_0
+    - gitpython =3.1.52 =pyhd8ed1ab_0
     - glib =2.88.2 =hdf12349_0
     - glib-tools =2.88.2 =h7aeb4f4_0
     - gmp =6.3.0 =h0a1ffab_2
@@ -200,7 +200,7 @@ requirements:
     - lame =3.100 =h4e544f5_1003
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.19.1 =h9d5b58d_1
-    - ld_impl_linux-aarch64 =2.45.1 =default_h1979696_102
+    - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_102
     - lerc =4.1.0 =h52b7260_0
     - libarchive =3.8.8 =gpl_hbe7d12b_100
     - libblas =3.11.0 =8_haddc8a3_openblas
@@ -283,7 +283,7 @@ requirements:
     - libxml2-16 =2.15.3 =h79dcc73_0
     - libxslt =1.1.43 =h6700d25_1
     - libzlib =1.3.2 =hdc9db2a_2
-    - llvmlite =0.47.0 =py312h7e1a490_1
+    - llvmlite =0.48.0 =py312hf73d013_1
     - lz4-c =1.10.0 =h5ad3122_1
     - lzo =2.10 =h80f16a2_1002
     - make =4.4.1 =h2a6d0cb_2
@@ -451,7 +451,7 @@ requirements:
     - r-lubridate =1.9.5 =r45h0557e7b_0
     - r-magrittr =2.0.5 =r45h0557e7b_0
     - r-maps =3.4.3 =r45h0557e7b_1
-    - r-mass =7.3_65 =r45h0557e7b_0
+    - r-mass =7.3_66 =r45hf488e41_0
     - r-matrix =1.7_5 =r45h9301183_0
     - r-memoise =2.0.1 =r45hc72bb7e_4
     - r-mgcv =1.9_4 =r45h8b2cba9_0
@@ -554,7 +554,7 @@ requirements:
     - ruamel.yaml =0.18.17 =py312hd41f8a7_2
     - ruamel.yaml.clib =0.2.15 =py312hd41f8a7_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-aarch64-unknown-linux-gnu =1.97.0 =hbe8e118_0
+    - rust-std-aarch64-unknown-linux-gnu =1.97.0 =hbe8e118_1
     - sed =4.10 =he1c5539_0
     - send2trash =2.1.0 =pyha191276_1
     - setuptools =83.0.0 =pyh332efcf_0
@@ -571,7 +571,7 @@ requirements:
     - sysroot_linux-aarch64 =2.39 =h934ec21_6
     - terminado =0.18.1 =pyhc90fa1f_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
-    - tk =8.6.13 =noxft_h0dc03b3_103
+    - tk =8.6.13 =noxft_h5cf4473_3
     - tktable =2.10 =h5f05d98_8
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.1 =pyhcf101f3_0
@@ -583,12 +583,12 @@ requirements:
     - typing-inspection =0.4.2 =pyhcf101f3_2
     - typing_extensions =4.16.0 =pyhcf101f3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
-    - tzdata =2025c =hc9c84f9_1
+    - tzdata =2026c =h151e31d_0
     - unearth =0.18.2 =pyhd8ed1ab_0
     - unicodedata2 =17.0.1 =py312hcd1a082_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.7.0 =pyhd8ed1ab_0
-    - wayland =1.25.0 =h4f8a99f_0
+    - wayland =1.26.0 =h4f8a99f_0
     - wcwidth =0.8.2 =pyhd8ed1ab_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3

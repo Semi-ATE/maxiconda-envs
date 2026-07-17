@@ -146,7 +146,7 @@ requirements:
     - krb5 =1.22.2 =h2fb54aa_1
     - lame =3.100 =h4e544f5_1003
     - lcms2 =2.19.1 =h9d5b58d_1
-    - ld_impl_linux-aarch64 =2.45.1 =default_h1979696_102
+    - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_102
     - lerc =4.1.0 =h52b7260_0
     - libblas =3.11.0 =8_haddc8a3_openblas
     - libbrotlicommon =1.2.0 =he30d5cf_1
@@ -318,7 +318,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py310haddc216_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.15.21 =hd82de44_1
+    - ruff =0.15.22 =hd82de44_0
     - secretstorage =3.5.0 =py310hbbe02a8_0
     - setuptools =83.0.0 =pyh332efcf_0
     - sip =6.15.3 =py310hbe5e9e6_0
@@ -341,7 +341,7 @@ requirements:
     - textdistance =4.6.3 =pyhd8ed1ab_1
     - three-merge =0.1.1 =pyhd8ed1ab_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
-    - tk =8.6.13 =noxft_h0dc03b3_103
+    - tk =8.6.13 =noxft_h5cf4473_3
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.1 =pyhcf101f3_0
     - tomlkit =0.15.0 =pyha770c72_0
@@ -349,12 +349,12 @@ requirements:
     - traitlets =5.15.1 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
     - typing_extensions =4.16.0 =pyhcf101f3_0
-    - tzdata =2025c =hc9c84f9_1
+    - tzdata =2026c =h151e31d_0
     - ujson =5.13.0 =py310heccc163_0
     - unicodedata2 =17.0.1 =py310h5b55623_0
     - urllib3 =2.7.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py310h2f441de_3
-    - wayland =1.25.0 =h4f8a99f_0
+    - wayland =1.26.0 =h4f8a99f_0
     - wcwidth =0.8.2 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
