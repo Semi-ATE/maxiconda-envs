@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.7.10 =py312h933eb07_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.97.0 =h5655b98_1
+    - rust =1.97.1 =h5655b98_0
     - scipy =1.18.0 =py312h6309490_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
@@ -143,7 +143,7 @@ requirements:
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
     - exceptiongroup =1.3.1 =pyhd8ed1ab_0
     - executing =2.2.1 =pyhd8ed1ab_0
-    - filelock =3.30.1 =pyhd8ed1ab_0
+    - filelock =3.30.2 =pyhd8ed1ab_0
     - fmt =12.1.0 =hda137b5_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -290,7 +290,7 @@ requirements:
     - markupsafe =3.0.3 =py312heb39f77_1
     - matplotlib-base =3.11.0 =py312ha85c1d5_1
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
-    - menuinst =2.5.1 =py312hc2fe966_0
+    - menuinst =2.5.2 =py312hc2fe966_0
     - mistune =3.3.3 =pyhcf101f3_0
     - mpc =1.4.0 =h31caf2d_0
     - mpfr =4.2.2 =h31caf2d_0
@@ -322,7 +322,7 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pillow =12.3.0 =py312he84af14_0
     - pip =26.1.2 =pyh8b19718_0
-    - pixman =0.46.4 =ha059160_1
+    - pixman =0.46.4 =h2fb4741_2
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
     - platformdirs =4.10.0 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
@@ -381,7 +381,7 @@ requirements:
     - r-clock =0.7.4 =r45hed9a748_0
     - r-cluster =2.1.8.2 =r45h200e2f6_0
     - r-codetools =0.2_20 =r45hc72bb7e_2
-    - r-colorspace =2.1_2 =r45h735ac91_0
+    - r-colorspace =2.1_3 =r45h8eed41d_0
     - r-commonmark =2.0.0 =r45h735ac91_1
     - r-conflicted =1.2.0 =r45h785f33e_3
     - r-cpp11 =0.5.5 =r45h785f33e_0
@@ -459,7 +459,7 @@ requirements:
     - r-modelmetrics =1.2.2.2 =r45he949a0c_5
     - r-modelr =0.1.11 =r45hc72bb7e_3
     - r-munsell =0.5.1 =r45hc72bb7e_2
-    - r-nlme =3.1_169 =r45hf07a639_0
+    - r-nlme =3.1_170 =r45hf07a639_0
     - r-nnet =7.3_20 =r45h735ac91_1
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
     - r-openssl =2.4.2 =r45h7679fe8_0
@@ -554,7 +554,7 @@ requirements:
     - ruamel.yaml =0.18.17 =py312hf7082af_2
     - ruamel.yaml.clib =0.2.15 =py312hf7082af_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-x86_64-apple-darwin =1.97.0 =h38e4360_1
+    - rust-std-x86_64-apple-darwin =1.97.1 =h38e4360_0
     - sdkroot_env_osx-64 =26.0 =h62b880e_7
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =83.0.0 =pyh332efcf_0
