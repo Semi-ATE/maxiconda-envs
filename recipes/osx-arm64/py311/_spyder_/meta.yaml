@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =3.2.8 =py311hf7a0982_0
-    - matplotlib =3.11.0 =py311ha1ab1f8_1
+    - matplotlib =3.11.1 =py311ha1ab1f8_0
     - numpy =2.4.6 =py311hbd1492f_0
     - pandas =3.0.3 =py311h8948835_0
     - pyqt =5.15.11 =py311ha87f45f_2
@@ -193,7 +193,7 @@ requirements:
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.2.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py311hc290fe0_1
-    - matplotlib-base =3.11.0 =py311h00527d9_1
+    - matplotlib-base =3.11.1 =py311h00527d9_0
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
@@ -339,7 +339,7 @@ requirements:
     - xorg-libxdmcp =1.1.5 =hc919400_1
     - yaml =0.2.5 =h925e9cb_3
     - yapf =0.43.0 =pyhd8ed1ab_1
-    - yarl =1.24.2 =py311hc290fe0_0
+    - yarl =1.24.5 =py311hc290fe0_0
     - zeromq =4.3.5 =h10816f8_11
     - zipp =4.1.0 =pyhcf101f3_0
     - zlib-ng =2.3.3 =hed4e4f5_1

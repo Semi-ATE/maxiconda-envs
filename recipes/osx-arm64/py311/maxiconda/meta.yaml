@@ -30,10 +30,10 @@ requirements:
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - cython =3.2.8 =py311hf7a0982_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.156.6 =py311hf7c400d_0
+    - hypothesis =6.157.1 =py311hf7c400d_0
     - ipython =9.15.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
-    - matplotlib =3.11.0 =py311ha1ab1f8_1
+    - matplotlib =3.11.1 =py311ha1ab1f8_0
     - numba =0.66.0 =py311h9d9bb2a_0
     - numpy =2.4.6 =py311hbd1492f_0
     - openpyxl =3.1.5 =py311h33e2021_3
@@ -148,7 +148,7 @@ requirements:
     - gdk-pixbuf =2.44.7 =h4e57454_0
     - gfortran_impl_osx-arm64 =15.2.0 =hfeb3900_19
     - gitdb =4.0.12 =pyhd8ed1ab_0
-    - gitpython =3.1.52 =pyhd8ed1ab_0
+    - gitpython =3.1.53 =pyhd8ed1ab_0
     - glib =2.88.2 =h2792883_0
     - glib-tools =2.88.2 =h246a70f_0
     - gmp =6.3.0 =h7bae524_2
@@ -265,7 +265,7 @@ requirements:
     - llvmlite =0.48.0 =py311h68bb4d2_1
     - make =4.4.1 =hc9fafa5_2
     - markupsafe =3.0.3 =py311hc290fe0_1
-    - matplotlib-base =3.11.0 =py311h00527d9_1
+    - matplotlib-base =3.11.1 =py311h00527d9_0
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - mistune =3.3.3 =pyhcf101f3_0
     - mpc =1.4.0 =h169892a_0
@@ -376,7 +376,7 @@ requirements:
     - r-foreign =0.8_91 =r45hbe92478_0
     - r-formatr =1.14 =r45hc72bb7e_3
     - r-fs =2.1.0 =r45h45a6d21_0
-    - r-future =1.70.0 =r45hc72bb7e_0
+    - r-future =1.75.0 =r45hc72bb7e_0
     - r-future.apply =1.20.2 =r45hc72bb7e_0
     - r-gargle =1.6.1 =r45h785f33e_0
     - r-generics =0.1.4 =r45hc72bb7e_1
@@ -563,7 +563,7 @@ requirements:
     - xorg-libxau =1.0.12 =hc919400_1
     - xorg-libxdmcp =1.1.5 =hc919400_1
     - yaml =0.2.5 =h925e9cb_3
-    - yarl =1.24.2 =py311hc290fe0_0
+    - yarl =1.24.5 =py311hc290fe0_0
     - zeromq =4.3.5 =h10816f8_11
     - zipp =4.1.0 =pyhcf101f3_0
     - zlib-ng =2.3.3 =hed4e4f5_1

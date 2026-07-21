@@ -31,10 +31,10 @@ requirements:
     - bitarray =3.8.0 =py312he06e257_1
     - cython =3.2.8 =py312hd245ac3_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.156.6 =py312hdabe01f_0
+    - hypothesis =6.157.1 =py312hdabe01f_0
     - ipython =9.15.0 =pyhe2676ad_0
     - jinja2 =3.1.6 =pyhcf101f3_1
-    - matplotlib =3.11.0 =py312h2e8e312_1
+    - matplotlib =3.11.1 =py312h2e8e312_0
     - numba =0.66.0 =py312hb70d996_0
     - numpy =2.4.6 =py312ha3f287d_0
     - openpyxl =3.1.5 =py312h83acffa_3
@@ -125,7 +125,7 @@ requirements:
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
     - exceptiongroup =1.3.1 =pyhd8ed1ab_0
     - executing =2.2.1 =pyhd8ed1ab_0
-    - filelock =3.31.0 =pyhd8ed1ab_0
+    - filelock =3.31.1 =pyhd8ed1ab_0
     - fmt =12.1.0 =h7f4e812_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -144,7 +144,7 @@ requirements:
     - getopt-win32 =0.1 =h6a83c73_3
     - gfortran_impl_win-64 =15.2.0 =h0e079bb_19
     - gitdb =4.0.12 =pyhd8ed1ab_0
-    - gitpython =3.1.52 =pyhd8ed1ab_0
+    - gitpython =3.1.53 =pyhd8ed1ab_0
     - glib =2.88.2 =h395db07_0
     - glib-tools =2.88.2 =h74ecf4c_0
     - graphite2 =1.3.15 =hac47afa_0
@@ -254,7 +254,7 @@ requirements:
     - m2-conda-epoch =20250515 =0_x86_64
     - m2w64-sysroot_win-64 =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
     - markupsafe =3.0.3 =py312h05f76fc_1
-    - matplotlib-base =3.11.0 =py312hcbcab24_1
+    - matplotlib-base =3.11.1 =py312hcbcab24_0
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - menuinst =2.5.2 =py312ha1a9051_0
     - mingw-w64-ucrt-x86_64-crt-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
@@ -372,7 +372,7 @@ requirements:
     - r-foreign =0.8_91 =r45heceb674_0
     - r-formatr =1.14 =r45hc72bb7e_3
     - r-fs =2.1.0 =r45h225bc52_0
-    - r-future =1.70.0 =r45hc72bb7e_0
+    - r-future =1.75.0 =r45hc72bb7e_0
     - r-future.apply =1.20.2 =r45hc72bb7e_0
     - r-gargle =1.6.1 =r45h785f33e_0
     - r-generics =0.1.4 =r45hc72bb7e_1
@@ -573,7 +573,7 @@ requirements:
     - xorg-libxt =1.3.1 =h0e40799_0
     - yaml =0.2.5 =h6a83c73_3
     - yaml-cpp =0.8.0 =he0c23c2_0
-    - yarl =1.24.2 =py312h05f76fc_0
+    - yarl =1.24.5 =py312h05f76fc_0
     - zeromq =4.3.5 =h3a581c9_11
     - zipp =4.1.0 =pyhcf101f3_0
     - zlib =1.3.2 =hfd05255_2
