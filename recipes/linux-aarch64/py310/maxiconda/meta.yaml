@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py310h5b55623_1
     - cython =3.2.8 =py310h25a5a22_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.158.0 =py310h598bb90_0
+    - hypothesis =6.158.1 =py310h598bb90_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py310hbbe02a8_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 515 secondary packages :
+    # 514 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
@@ -91,14 +91,13 @@ requirements:
     - bwidget =1.10.1 =h8af1aa0_1
     - bzip2 =1.0.8 =h4777abc_9
     - c-ares =1.34.8 =he30d5cf_0
-    - ca-certificates =2026.6.17 =hbd8a1cb_0
+    - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_2
     - cached_property =1.5.2 =pyha770c72_2
     - cairo =1.18.4 =h0b6afd8_1
-    - certifi =2026.6.17 =pyhd8ed1ab_0
+    - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.0 =py310h0826a50_0
     - charset-normalizer =3.4.9 =pyhd8ed1ab_0
-    - click =8.4.2 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -120,7 +119,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.18.1 =hba86a56_0
+    - fontconfig =2.18.2 =hba86a56_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py310h2d8da20_0
@@ -259,7 +258,7 @@ requirements:
     - markupsafe =3.0.3 =py310h3b5aacf_1
     - matplotlib-base =3.10.9 =py310hc06f52e_0
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
-    - mistune =3.3.3 =pyhcf101f3_0
+    - mistune =3.3.4 =pyhcf101f3_0
     - mpc =1.4.0 =he6dc3fb_0
     - mpfr =4.2.2 =h3faef18_0
     - mpg123 =1.32.9 =h65af167_0
@@ -271,7 +270,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.6 =hf8d1292_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - notebook =7.6.0 =pyhcf101f3_0
+    - notebook =7.6.1 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.38 =h3ad9384_0
     - nss =3.118 =h544fa81_0

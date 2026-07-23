@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py310h29418f3_1
     - cython =3.2.8 =py310h23e71ea_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.158.0 =py310h034784e_0
+    - hypothesis =6.158.1 =py310h034784e_0
     - ipython =8.37.0 =pyha7b4d00_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py310h5588dad_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 455 secondary packages :
+    # 454 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
@@ -88,14 +88,13 @@ requirements:
     - brotli-python =1.2.0 =py310hfff998d_1
     - bwidget =1.10.1 =h57928b3_1
     - bzip2 =1.0.8 =h0ad9c76_9
-    - ca-certificates =2026.6.17 =h4c7d964_0
+    - ca-certificates =2026.7.22 =h4c7d964_0
     - cached-property =1.5.2 =hd8ed1ab_2
     - cached_property =1.5.2 =pyha770c72_2
     - cairo =1.18.4 =h477c42c_1
-    - certifi =2026.6.17 =pyhd8ed1ab_0
+    - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.0 =py310h29418f3_0
     - charset-normalizer =3.4.9 =pyhd8ed1ab_0
-    - click =8.4.2 =pyh6dadd2b_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -114,7 +113,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.18.1 =hd47e2ca_0
+    - fontconfig =2.18.2 =hd47e2ca_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py310hdb0e946_0
@@ -225,7 +224,7 @@ requirements:
     - mingw-w64-ucrt-x86_64-headers-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
     - mingw-w64-ucrt-x86_64-windows-default-manifest =6.4 =he206cdd_7
     - mingw-w64-ucrt-x86_64-winpthreads-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
-    - mistune =3.3.3 =pyhcf101f3_0
+    - mistune =3.3.4 =pyhcf101f3_0
     - mkl =2026.1.0 =hac47afa_233
     - mpmath =1.4.1 =pyhd8ed1ab_0
     - multidict =6.7.1 =py310hdb0e946_0
@@ -234,7 +233,7 @@ requirements:
     - nbconvert-core =7.17.1 =pyhcf101f3_0
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - notebook =7.6.0 =pyhcf101f3_0
+    - notebook =7.6.1 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - onemkl-license =2026.1.0 =h57928b3_233
     - openjpeg =2.5.4 =h0e57b4f_0

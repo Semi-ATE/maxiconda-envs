@@ -59,11 +59,11 @@ requirements:
     - black =25.1.0 =pyha5154f8_0
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.1.0 =h86ecc28_3
-    - brotli-bin =1.1.0 =h86ecc28_3
-    - brotli-python =1.1.0 =py39h7dbf29c_3
+    - brotli =1.2.0 =hd651790_1
+    - brotli-bin =1.2.0 =he30d5cf_1
+    - brotli-python =1.0.9 =py39h3d8bfb9_8
     - bzip2 =1.0.8 =h4777abc_9
-    - ca-certificates =2026.6.17 =hbd8a1cb_0
+    - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cairo =1.18.4 =h83712da_0
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39hecfc5ed_0
@@ -97,14 +97,14 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.18.1 =hba86a56_0
+    - fontconfig =2.18.2 =hba86a56_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.59.1 =py39h246000a_0
     - freetype =2.14.3 =h8af1aa0_1
     - frozenlist =1.7.0 =py39h5064d8f_0
     - fzf =0.74.1 =h652cbe9_0
-    - giflib =5.2.2 =h31becfc_0
+    - giflib =5.2.2 =h5dd31e5_1
     - glib =2.84.0 =h09e00fb_0
     - glib-tools =2.84.0 =h78ca943_0
     - gmp =6.3.0 =h0a1ffab_2
@@ -148,9 +148,9 @@ requirements:
     - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_102
     - lerc =4.1.0 =h52b7260_0
     - libblas =3.11.0 =8_haddc8a3_openblas
-    - libbrotlicommon =1.1.0 =h86ecc28_3
-    - libbrotlidec =1.1.0 =h86ecc28_3
-    - libbrotlienc =1.1.0 =h86ecc28_3
+    - libbrotlicommon =1.2.0 =he30d5cf_1
+    - libbrotlidec =1.2.0 =he30d5cf_1
+    - libbrotlienc =1.2.0 =he30d5cf_1
     - libcap =2.78 =hf9559e3_0
     - libcblas =3.11.0 =8_hd72aa62_openblas
     - libclang-cpp20.1 =20.1.8 =default_he95a3c9_16

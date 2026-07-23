@@ -57,7 +57,7 @@ requirements:
     - brotli-bin =1.2.0 =hb03c661_1
     - brotli-python =1.0.9 =py37hd23a5d3_7
     - bzip2 =1.0.8 =hda65f42_9
-    - ca-certificates =2026.6.17 =hbd8a1cb_0
+    - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cairo =1.16.0 =ha61ee94_1012
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.15.1 =py37h43b0acd_1
@@ -84,14 +84,14 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.18.1 =h27c8c51_0
+    - fontconfig =2.18.2 =h27c8c51_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.38.0 =py37h540881e_0
     - freetype =2.14.3 =ha770c72_0
     - gettext =0.25.1 =h3f43e3d_1
     - gettext-tools =0.25.1 =h3f43e3d_1
-    - giflib =5.2.2 =hd590300_0
+    - giflib =5.2.2 =ha257d8a_1
     - glib =2.86.0 =he175458_0
     - glib-tools =2.86.0 =hf516916_0
     - gmp =6.3.0 =hac33072_2
@@ -328,7 +328,7 @@ requirements:
     - xcb-util-image =0.4.0 =h166bdaf_0
     - xcb-util-keysyms =0.4.0 =h166bdaf_0
     - xcb-util-renderutil =0.3.9 =h166bdaf_0
-    - xcb-util-wm =0.4.1 =h516909a_0
+    - xcb-util-wm =0.4.1 =h166bdaf_0
     - xkeyboard-config =2.38 =h0b41bf4_0
     - xorg-kbproto =1.0.7 =hb9d3cd8_1003
     - xorg-libice =1.1.2 =hb9d3cd8_0

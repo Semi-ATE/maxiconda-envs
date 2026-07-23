@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py310hf70ac88_1
     - cython =3.2.8 =py310h3ca103c_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.158.0 =py310h0aa92f5_0
+    - hypothesis =6.158.1 =py310h0aa92f5_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py310h2ec42d9_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 481 secondary packages :
+    # 480 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
@@ -89,14 +89,14 @@ requirements:
     - bwidget =1.10.1 =h694c41f_1
     - bzip2 =1.0.8 =h500dc9f_9
     - c-ares =1.34.8 =ha1e9b39_0
-    - ca-certificates =2026.6.17 =hbd8a1cb_0
+    - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_2
     - cached_property =1.5.2 =pyha770c72_2
     - cairo =1.18.4 =h7656bdc_1
     - cctools =1030.6.3 =llvm22_1_h0a1bb1c_4
     - cctools_impl_osx-64 =1030.6.3 =llvm22_1_h8fe25a2_4
     - cctools_osx-64 =1030.6.3 =llvm22_1_h0a1bb1c_4
-    - certifi =2026.6.17 =pyhd8ed1ab_0
+    - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.0 =py310h32e8c93_0
     - charset-normalizer =3.4.9 =pyhd8ed1ab_0
     - clang =22.1.8 =default_cfg_hc564e75_3
@@ -106,7 +106,6 @@ requirements:
     - clang_osx-64 =22.1.8 =h97b245c_33
     - clangxx_impl_osx-64 =22.1.8 =default_h7e3b1ed_3
     - clangxx_osx-64 =22.1.8 =h97b245c_33
-    - click =8.4.2 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -250,7 +249,7 @@ requirements:
     - markupsafe =3.0.3 =py310h399bfa0_1
     - matplotlib-base =3.10.9 =py310hcb54904_0
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
-    - mistune =3.3.3 =pyhcf101f3_0
+    - mistune =3.3.4 =pyhcf101f3_0
     - mpc =1.4.0 =h31caf2d_0
     - mpfr =4.2.2 =h31caf2d_0
     - mpmath =1.4.1 =pyhd8ed1ab_0
@@ -261,7 +260,7 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.6 =hcc0dc9a_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - notebook =7.6.0 =pyhcf101f3_0
+    - notebook =7.6.1 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.38 =hee0b3f1_0
     - nss =3.118 =h2b2a826_0
