@@ -39,7 +39,7 @@ requirements:
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
-    - aiohttp =3.14.2 =py312h5d8c7f2_0
+    - aiohttp =3.14.3 =py312h5d8c7f2_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - alsa-lib =1.2.16.1 =hb03c661_0
@@ -113,11 +113,11 @@ requirements:
     - graphite2 =1.3.15 =hecca717_0
     - gst-plugins-base =1.26.11 =h6d08254_0
     - gstreamer =1.26.11 =h29cf534_0
-    - h2 =4.3.0 =pyhcf101f3_0
+    - h2 =4.4.0 =pyhcf101f3_0
     - harfbuzz =14.2.1 =ha770c72_1
     - hpack =4.2.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
-    - icu =78.3 =h33c6efd_1
+    - icu =78.3 =h54a6638_2
     - idna =3.18 =pyhcf101f3_0
     - imagesize =2.0.0 =pyhd8ed1ab_0
     - importlib-metadata =9.0.0 =pyhcf101f3_0
@@ -168,17 +168,17 @@ requirements:
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_0
     - libfreetype6 =2.14.3 =h73754d4_0
-    - libgcc =15.2.0 =he0feb66_19
-    - libgcc-ng =15.2.0 =h69a702a_19
-    - libgfortran =15.2.0 =h69a702a_19
-    - libgfortran5 =15.2.0 =h68bc16d_19
+    - libgcc =15.2.0 =he0feb66_20
+    - libgcc-ng =15.2.0 =h69a702a_20
+    - libgfortran =15.2.0 =h69a702a_20
+    - libgfortran5 =15.2.0 =h68bc16d_20
     - libgl =1.7.0 =ha4b6fd6_3
     - libgl-devel =1.7.0 =ha4b6fd6_3
     - libglib =2.88.2 =h0d30a3d_0
     - libglvnd =1.7.0 =ha4b6fd6_3
     - libglx =1.7.0 =ha4b6fd6_3
     - libglx-devel =1.7.0 =ha4b6fd6_3
-    - libgomp =15.2.0 =he0feb66_19
+    - libgomp =15.2.0 =he0feb66_20
     - libharfbuzz =14.2.1 =h17a8019_1
     - libharfbuzz-devel =14.2.1 =h17a8019_1
     - libiconv =1.18 =h3b78370_2
@@ -200,13 +200,13 @@ requirements:
     - libsodium =1.0.22 =h280c20c_1
     - libspatialindex =2.1.0 =h54a6638_1
     - libsqlite =3.53.3 =h0c1763c_0
-    - libstdcxx =15.2.0 =h934c35e_19
-    - libstdcxx-ng =15.2.0 =hdf11a46_19
+    - libstdcxx =15.2.0 =h934c35e_20
+    - libstdcxx-ng =15.2.0 =hdf11a46_20
     - libsystemd0 =261.1 =h6f4a2f1_0
     - libtiff =4.7.2 =h9d88235_0
     - libuuid =2.42.2 =h5347b49_0
     - libvorbis =1.3.7 =h54a6638_2
-    - libvulkan-loader =1.4.341.0 =h5279c79_0
+    - libvulkan-loader =1.4.350.1 =h5279c79_0
     - libwebp =1.6.0 =h9635ea4_0
     - libwebp-base =1.6.0 =hd42ef1d_0
     - libxcb =1.17.0 =h8a09558_0
@@ -320,7 +320,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =2026.6.3 =py312h192e038_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.15.22 =h462bb3b_0
+    - ruff =0.16.0 =h462bb3b_0
     - secretstorage =3.5.0 =py312h7900ff3_0
     - setuptools =83.0.0 =pyh332efcf_0
     - sip =6.10.0 =py312h1289d80_1

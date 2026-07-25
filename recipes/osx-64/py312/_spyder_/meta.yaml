@@ -39,7 +39,7 @@ requirements:
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
-    - aiohttp =3.14.2 =py312h0b1c2f0_0
+    - aiohttp =3.14.3 =py312h0b1c2f0_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - applaunchservices =0.3.0 =pyh534df25_4
@@ -112,11 +112,11 @@ requirements:
     - graphite2 =1.3.15 =hcc62823_0
     - gst-plugins-base =1.26.11 =h79212b8_0
     - gstreamer =1.26.11 =h5bdcca5_0
-    - h2 =4.3.0 =pyhcf101f3_0
+    - h2 =4.4.0 =pyhcf101f3_0
     - harfbuzz =14.2.1 =h694c41f_1
     - hpack =4.2.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
-    - icu =78.3 =h25d91c4_1
+    - icu =78.3 =h4350ee2_2
     - idna =3.18 =pyhcf101f3_0
     - imagesize =2.0.0 =pyhd8ed1ab_0
     - importlib-metadata =9.0.0 =pyhcf101f3_0
@@ -158,9 +158,9 @@ requirements:
     - libffi =3.5.2 =hd1f9c09_0
     - libfreetype =2.14.3 =h694c41f_1
     - libfreetype6 =2.14.3 =h58fbd8d_1
-    - libgcc =15.2.0 =h08519bb_19
-    - libgfortran =15.2.0 =h7e5c614_19
-    - libgfortran5 =15.2.0 =hd16e46c_19
+    - libgcc =15.2.0 =h08519bb_20
+    - libgfortran =15.2.0 =h7e5c614_20
+    - libgfortran5 =15.2.0 =hd16e46c_20
     - libglib =2.88.2 =hf28f236_0
     - libharfbuzz =14.2.1 =h97ceea7_1
     - libharfbuzz-devel =14.2.1 =h97ceea7_1
@@ -296,7 +296,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =2026.6.3 =py312hb77ea7e_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.15.22 =hcca44e8_0
+    - ruff =0.16.0 =hcca44e8_0
     - setuptools =83.0.0 =pyh332efcf_0
     - sip =6.10.0 =py312h69bf00f_1
     - six =1.17.0 =pyhe01879c_1

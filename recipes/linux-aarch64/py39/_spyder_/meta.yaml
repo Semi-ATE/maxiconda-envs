@@ -59,9 +59,9 @@ requirements:
     - black =25.1.0 =pyha5154f8_0
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.2.0 =hd651790_1
-    - brotli-bin =1.2.0 =he30d5cf_1
-    - brotli-python =1.0.9 =py39h3d8bfb9_8
+    - brotli =1.1.0 =h86ecc28_3
+    - brotli-bin =1.1.0 =h86ecc28_3
+    - brotli-python =1.1.0 =py39h7dbf29c_3
     - bzip2 =1.0.8 =h4777abc_9
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cairo =1.18.4 =h83712da_0
@@ -148,9 +148,9 @@ requirements:
     - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_102
     - lerc =4.1.0 =h52b7260_0
     - libblas =3.11.0 =8_haddc8a3_openblas
-    - libbrotlicommon =1.2.0 =he30d5cf_1
-    - libbrotlidec =1.2.0 =he30d5cf_1
-    - libbrotlienc =1.2.0 =he30d5cf_1
+    - libbrotlicommon =1.1.0 =h86ecc28_3
+    - libbrotlidec =1.1.0 =h86ecc28_3
+    - libbrotlienc =1.1.0 =h86ecc28_3
     - libcap =2.78 =hf9559e3_0
     - libcblas =3.11.0 =8_hd72aa62_openblas
     - libclang-cpp20.1 =20.1.8 =default_he95a3c9_16
@@ -166,16 +166,16 @@ requirements:
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.3 =h8af1aa0_1
     - libfreetype6 =2.14.3 =hdae7a39_1
-    - libgcc =15.2.0 =h8acb6b2_19
-    - libgcc-ng =15.2.0 =he9431aa_19
-    - libgfortran =15.2.0 =he9431aa_19
-    - libgfortran-ng =15.2.0 =he9431aa_19
-    - libgfortran5 =15.2.0 =h1b7bec0_19
+    - libgcc =15.2.0 =h8acb6b2_20
+    - libgcc-ng =15.2.0 =he9431aa_20
+    - libgfortran =15.2.0 =he9431aa_20
+    - libgfortran-ng =15.2.0 =he9431aa_20
+    - libgfortran5 =15.2.0 =h1b7bec0_20
     - libgl =1.7.0 =hd24410f_3
     - libglib =2.84.0 =hc486b8e_0
     - libglvnd =1.7.0 =hd24410f_3
     - libglx =1.7.0 =hd24410f_3
-    - libgomp =15.2.0 =h8acb6b2_19
+    - libgomp =15.2.0 =h8acb6b2_20
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.2.0 =he30d5cf_0
     - liblapack =3.11.0 =8_h88aeb00_openblas
@@ -195,8 +195,8 @@ requirements:
     - libsodium =1.0.20 =h68df207_0
     - libspatialindex =2.1.0 =h7ac5ae9_1
     - libsqlite =3.53.3 =h022381a_0
-    - libstdcxx =15.2.0 =hef695bb_19
-    - libstdcxx-ng =15.2.0 =hdbbeba8_19
+    - libstdcxx =15.2.0 =hef695bb_20
+    - libstdcxx-ng =15.2.0 =hdbbeba8_20
     - libsystemd0 =261.1 =hb290c7d_0
     - libtiff =4.7.2 =hdb009f0_0
     - libuuid =2.42.2 =h1022ec0_0

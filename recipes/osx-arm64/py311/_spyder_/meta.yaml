@@ -38,7 +38,7 @@ requirements:
     # 308 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
-    - aiohttp =3.14.2 =py311h6771f6e_0
+    - aiohttp =3.14.3 =py311h6771f6e_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - applaunchservices =0.3.0 =pyh534df25_4
@@ -111,11 +111,11 @@ requirements:
     - graphite2 =1.3.15 =hf6b4638_0
     - gst-plugins-base =1.26.11 =hda1d4dc_0
     - gstreamer =1.26.11 =h087694b_0
-    - h2 =4.3.0 =pyhcf101f3_0
+    - h2 =4.4.0 =pyhcf101f3_0
     - harfbuzz =14.2.1 =hce30654_1
     - hpack =4.2.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
-    - icu =78.3 =hef89b57_1
+    - icu =78.3 =hc7cc350_2
     - idna =3.18 =pyhcf101f3_0
     - imagesize =2.0.0 =pyhd8ed1ab_0
     - importlib-metadata =9.0.0 =pyhcf101f3_0
@@ -157,9 +157,9 @@ requirements:
     - libffi =3.5.2 =hcf2aa1b_0
     - libfreetype =2.14.3 =hce30654_1
     - libfreetype6 =2.14.3 =hdfa99f5_1
-    - libgcc =15.2.0 =hcbb3090_19
-    - libgfortran =15.2.0 =h07b0088_19
-    - libgfortran5 =15.2.0 =hdae7583_19
+    - libgcc =15.2.0 =hcbb3090_20
+    - libgfortran =15.2.0 =h07b0088_20
+    - libgfortran5 =15.2.0 =hdae7583_20
     - libglib =2.88.2 =ha08bb59_0
     - libharfbuzz =14.2.1 =h5a65909_1
     - libharfbuzz-devel =14.2.1 =h5a65909_1
@@ -294,7 +294,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =2026.6.3 =py311haff49d3_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.15.22 =h828de30_0
+    - ruff =0.16.0 =h828de30_0
     - setuptools =83.0.0 =pyh332efcf_0
     - sip =6.15.3 =py311h8325047_0
     - six =1.17.0 =pyhe01879c_1

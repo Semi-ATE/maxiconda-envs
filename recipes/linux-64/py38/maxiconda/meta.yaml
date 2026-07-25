@@ -129,9 +129,9 @@ requirements:
     - freetype =2.14.3 =ha770c72_0
     - fribidi =1.0.16 =hb03c661_0
     - frozenlist =1.4.1 =py38h01eb140_0
-    - gcc_impl_linux-64 =15.2.0 =he0086c7_19
+    - gcc_impl_linux-64 =15.2.0 =h8ddf172_20
     - gcc_linux-64 =15.2.0 =h7be306e_27
-    - gfortran_impl_linux-64 =15.2.0 =h281d09f_19
+    - gfortran_impl_linux-64 =15.2.0 =hb7147c0_20
     - glib =2.88.2 =hbe0478d_0
     - glib-tools =2.88.2 =h8094192_0
     - gmp =6.3.0 =hac33072_2
@@ -141,7 +141,7 @@ requirements:
     - gsl =2.7 =he838d99_0
     - gst-plugins-base =1.26.11 =h6d08254_0
     - gstreamer =1.26.11 =h29cf534_0
-    - gxx_impl_linux-64 =15.2.0 =hda75c37_19
+    - gxx_impl_linux-64 =15.2.0 =he8f701c_20
     - gxx_linux-64 =15.2.0 =hcb00b6d_27
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =pyhd8ed1ab_0
@@ -150,7 +150,7 @@ requirements:
     - httpcore =1.0.7 =pyh29332c3_1
     - httpx =0.27.2 =pyhd8ed1ab_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
-    - icu =78.3 =h33c6efd_1
+    - icu =78.3 =h54a6638_2
     - idna =3.10 =pyhd8ed1ab_0
     - importlib-metadata =8.5.0 =pyha770c72_0
     - importlib-resources =6.4.5 =pyhd8ed1ab_0
@@ -203,17 +203,17 @@ requirements:
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_0
     - libfreetype6 =2.14.3 =h73754d4_0
-    - libgcc =15.2.0 =he0feb66_19
-    - libgcc-devel_linux-64 =15.2.0 =hcc6f6b0_119
-    - libgcc-ng =15.2.0 =h69a702a_19
-    - libgfortran =15.2.0 =h69a702a_19
-    - libgfortran-ng =15.2.0 =h69a702a_19
-    - libgfortran5 =15.2.0 =h68bc16d_19
+    - libgcc =15.2.0 =he0feb66_20
+    - libgcc-devel_linux-64 =15.2.0 =hcc6f6b0_120
+    - libgcc-ng =15.2.0 =h69a702a_20
+    - libgfortran =15.2.0 =h69a702a_20
+    - libgfortran-ng =15.2.0 =h69a702a_20
+    - libgfortran5 =15.2.0 =h68bc16d_20
     - libgl =1.7.0 =ha4b6fd6_3
     - libglib =2.88.2 =h0d30a3d_0
     - libglvnd =1.7.0 =ha4b6fd6_3
     - libglx =1.7.0 =ha4b6fd6_3
-    - libgomp =15.2.0 =he0feb66_19
+    - libgomp =15.2.0 =he0feb66_20
     - libharfbuzz =14.2.1 =h17a8019_1
     - libharfbuzz-devel =14.2.1 =h17a8019_1
     - libiconv =1.18 =h3b78370_2
@@ -233,14 +233,14 @@ requirements:
     - libpng =1.6.58 =h421ea60_0
     - libpq =18.4 =hd5a49e9_1
     - libpsl =0.22.0 =h49b2146_1
-    - libsanitizer =15.2.0 =h90f66d4_19
+    - libsanitizer =15.2.0 =h984fb3e_20
     - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.53.3 =h0c1763c_0
     - libssh2 =1.11.1 =hcf80075_0
-    - libstdcxx =15.2.0 =h934c35e_19
-    - libstdcxx-devel_linux-64 =15.2.0 =hd446a21_119
-    - libstdcxx-ng =15.2.0 =hdf11a46_19
+    - libstdcxx =15.2.0 =h934c35e_20
+    - libstdcxx-devel_linux-64 =15.2.0 =hd446a21_120
+    - libstdcxx-ng =15.2.0 =hdf11a46_20
     - libsystemd0 =261.1 =h6f4a2f1_0
     - libtiff =4.7.2 =h9d88235_0
     - libuuid =2.42.2 =h5347b49_0

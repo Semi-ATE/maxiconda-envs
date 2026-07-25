@@ -25,7 +25,7 @@ requirements:
     - python =3.12.13 =hd63d673_0_cpython
 
     # 38 primary packages :
-    - aiohttp =3.14.2 =py312h5d8c7f2_0
+    - aiohttp =3.14.3 =py312h5d8c7f2_0
     - aiomqtt =2.5.1 =pyhcf101f3_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - bitarray =3.8.0 =py312h4c3975b_1
@@ -71,7 +71,7 @@ requirements:
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alsa-lib =1.2.16.1 =hb03c661_0
-    - annotated-types =0.7.0 =pyhd8ed1ab_1
+    - annotated-types =0.8.0 =pyhd8ed1ab_0
     - anyio =4.14.2 =pyhcf101f3_0
     - archspec =0.2.5 =pyhd8ed1ab_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
@@ -146,9 +146,9 @@ requirements:
     - fribidi =1.0.16 =hb03c661_0
     - frozendict =2.4.7 =pyh851646a_2
     - frozenlist =1.8.0 =py312h447239a_0
-    - gcc_impl_linux-64 =15.2.0 =he0086c7_19
+    - gcc_impl_linux-64 =15.2.0 =h8ddf172_20
     - gcc_linux-64 =15.2.0 =h7be306e_27
-    - gfortran_impl_linux-64 =15.2.0 =h281d09f_19
+    - gfortran_impl_linux-64 =15.2.0 =hb7147c0_20
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.54 =pyhd8ed1ab_0
     - glib =2.88.2 =hbe0478d_0
@@ -156,20 +156,20 @@ requirements:
     - gmp =6.3.0 =hac33072_2
     - gmpy2 =2.3.0 =py312hcaba1f9_1
     - graphite2 =1.3.15 =hecca717_0
-    - greenlet =3.5.3 =py312h8285ef7_0
+    - greenlet =3.5.4 =py312h8285ef7_0
     - gsl =2.7 =he838d99_0
     - gst-plugins-base =1.26.11 =h6d08254_0
     - gstreamer =1.26.11 =h29cf534_0
-    - gxx_impl_linux-64 =15.2.0 =hda75c37_19
+    - gxx_impl_linux-64 =15.2.0 =he8f701c_20
     - gxx_linux-64 =15.2.0 =hcb00b6d_27
     - h11 =0.16.0 =pyhcf101f3_1
-    - h2 =4.3.0 =pyhcf101f3_0
+    - h2 =4.4.0 =pyhcf101f3_0
     - harfbuzz =14.2.1 =ha770c72_1
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
-    - icu =78.3 =h33c6efd_1
+    - icu =78.3 =h54a6638_2
     - idna =3.18 =pyhcf101f3_0
     - importlib-metadata =9.0.0 =pyhcf101f3_0
     - iniconfig =2.3.0 =pyhd8ed1ab_0
@@ -225,18 +225,18 @@ requirements:
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_0
     - libfreetype6 =2.14.3 =h73754d4_0
-    - libgcc =15.2.0 =he0feb66_19
-    - libgcc-devel_linux-64 =15.2.0 =hcc6f6b0_119
-    - libgcc-ng =15.2.0 =h69a702a_19
-    - libgfortran =15.2.0 =h69a702a_19
-    - libgfortran5 =15.2.0 =h68bc16d_19
+    - libgcc =15.2.0 =he0feb66_20
+    - libgcc-devel_linux-64 =15.2.0 =hcc6f6b0_120
+    - libgcc-ng =15.2.0 =h69a702a_20
+    - libgfortran =15.2.0 =h69a702a_20
+    - libgfortran5 =15.2.0 =h68bc16d_20
     - libgl =1.7.0 =ha4b6fd6_3
     - libgl-devel =1.7.0 =ha4b6fd6_3
     - libglib =2.88.2 =h0d30a3d_0
     - libglvnd =1.7.0 =ha4b6fd6_3
     - libglx =1.7.0 =ha4b6fd6_3
     - libglx-devel =1.7.0 =ha4b6fd6_3
-    - libgomp =15.2.0 =he0feb66_19
+    - libgomp =15.2.0 =he0feb66_20
     - libharfbuzz =14.2.1 =h17a8019_1
     - libharfbuzz-devel =14.2.1 =h17a8019_1
     - libiconv =1.18 =h3b78370_2
@@ -260,21 +260,21 @@ requirements:
     - libpq =18.4 =hd5a49e9_1
     - libpsl =0.22.0 =h49b2146_1
     - libraqm =0.10.5 =h6406941_1
-    - libsanitizer =15.2.0 =h90f66d4_19
+    - libsanitizer =15.2.0 =h984fb3e_20
     - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.22 =h280c20c_1
     - libsolv =0.7.39 =h9463b59_0
     - libsqlite =3.53.3 =h0c1763c_0
     - libssh2 =1.11.1 =hcf80075_0
-    - libstdcxx =15.2.0 =h934c35e_19
-    - libstdcxx-devel_linux-64 =15.2.0 =hd446a21_119
-    - libstdcxx-ng =15.2.0 =hdf11a46_19
+    - libstdcxx =15.2.0 =h934c35e_20
+    - libstdcxx-devel_linux-64 =15.2.0 =hd446a21_120
+    - libstdcxx-ng =15.2.0 =hdf11a46_20
     - libsystemd0 =261.1 =h6f4a2f1_0
     - libtiff =4.7.2 =h9d88235_0
     - libuuid =2.42.2 =h5347b49_0
     - libuv =1.52.1 =h280c20c_0
     - libvorbis =1.3.7 =h54a6638_2
-    - libvulkan-loader =1.4.341.0 =h5279c79_0
+    - libvulkan-loader =1.4.350.1 =h5279c79_0
     - libwebp-base =1.6.0 =hd42ef1d_0
     - libxcb =1.17.0 =h8a09558_0
     - libxcrypt =4.4.36 =hd590300_1

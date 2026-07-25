@@ -39,7 +39,7 @@ requirements:
     # 295 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
-    - aiohttp =3.14.2 =py311ha56572f_0
+    - aiohttp =3.14.3 =py311ha56572f_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - arrow =1.4.0 =pyhcf101f3_0
@@ -106,11 +106,11 @@ requirements:
     - graphite2 =1.3.15 =hac47afa_0
     - gst-plugins-base =1.26.11 =h88486b4_0
     - gstreamer =1.26.11 =hae9036a_0
-    - h2 =4.3.0 =pyhcf101f3_0
+    - h2 =4.4.0 =pyhcf101f3_0
     - harfbuzz =14.2.1 =h57928b3_1
     - hpack =4.2.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
-    - icu =78.3 =h637d24d_1
+    - icu =78.3 =h5112557_2
     - idna =3.18 =pyhcf101f3_0
     - imagesize =2.0.0 =pyhd8ed1ab_0
     - importlib-metadata =9.0.0 =pyhcf101f3_0
@@ -148,9 +148,9 @@ requirements:
     - libffi =3.5.2 =h3d046cb_0
     - libfreetype =2.14.3 =h57928b3_1
     - libfreetype6 =2.14.3 =hdbac1cb_1
-    - libgcc =15.2.0 =h8ee18e1_19
+    - libgcc =15.2.0 =h8ee18e1_20
     - libglib =2.88.2 =h7ce1215_0
-    - libgomp =15.2.0 =h8ee18e1_19
+    - libgomp =15.2.0 =h8ee18e1_20
     - libharfbuzz =14.2.1 =h03b5201_1
     - libharfbuzz-devel =14.2.1 =h03b5201_1
     - libhwloc =2.13.0 =default_h049141e_1000
@@ -168,7 +168,7 @@ requirements:
     - libsqlite =3.53.3 =hf5d6505_0
     - libtiff =4.7.2 =h8f73337_0
     - libvorbis =1.3.7 =h5112557_2
-    - libvulkan-loader =1.4.341.0 =h477610d_0
+    - libvulkan-loader =1.4.350.1 =h477610d_0
     - libwebp =1.6.0 =h4d5522a_0
     - libwebp-base =1.6.0 =h4d5522a_0
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_10
@@ -275,7 +275,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =2026.6.3 =py311h7337c20_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.15.22 =h6b72154_0
+    - ruff =0.16.0 =h6b72154_0
     - setuptools =83.0.0 =pyh332efcf_0
     - sip =6.10.0 =py311h3e6a449_1
     - six =1.17.0 =pyhe01879c_1

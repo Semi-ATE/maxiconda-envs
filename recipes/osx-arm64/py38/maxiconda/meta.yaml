@@ -139,8 +139,8 @@ requirements:
     - freetype =2.14.3 =hce30654_1
     - fribidi =1.0.16 =hc919400_0
     - frozenlist =1.4.1 =py38h336bac9_0
-    - gcc_impl_osx-arm64 =15.2.0 =he0e5a81_19
-    - gfortran_impl_osx-arm64 =15.2.0 =hfeb3900_19
+    - gcc_impl_osx-arm64 =15.2.0 =h480f980_20
+    - gfortran_impl_osx-arm64 =15.2.0 =hfeb3900_20
     - glib =2.88.2 =h2792883_0
     - glib-tools =2.88.2 =h246a70f_0
     - gmp =6.3.0 =h7bae524_2
@@ -157,7 +157,7 @@ requirements:
     - httpcore =1.0.7 =pyh29332c3_1
     - httpx =0.27.2 =pyhd8ed1ab_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
-    - icu =78.3 =hef89b57_1
+    - icu =78.3 =hc7cc350_2
     - idna =3.10 =pyhd8ed1ab_0
     - importlib-metadata =8.5.0 =pyha770c72_0
     - importlib-resources =6.4.5 =pyhd8ed1ab_0
@@ -208,11 +208,11 @@ requirements:
     - libffi =3.5.2 =hcf2aa1b_0
     - libfreetype =2.14.3 =hce30654_1
     - libfreetype6 =2.14.3 =hdfa99f5_1
-    - libgcc =15.2.0 =hcbb3090_19
-    - libgcc-devel_osx-arm64 =15.2.0 =hee53e68_119
+    - libgcc =15.2.0 =hcbb3090_20
+    - libgcc-devel_osx-arm64 =15.2.0 =hee53e68_120
     - libgettextpo =0.25.1 =h493aca8_0
-    - libgfortran =15.2.0 =h07b0088_19
-    - libgfortran5 =15.2.0 =hdae7583_19
+    - libgfortran =15.2.0 =h07b0088_20
+    - libgfortran5 =15.2.0 =hdae7583_20
     - libglib =2.88.2 =ha08bb59_0
     - libharfbuzz =14.2.1 =h5a65909_1
     - libharfbuzz-devel =14.2.1 =h5a65909_1
