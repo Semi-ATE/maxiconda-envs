@@ -29,9 +29,9 @@ requirements:
     - aiomqtt =2.5.1 =pyhcf101f3_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - bitarray =3.8.0 =py310h29418f3_1
-    - cython =3.2.8 =py310h23e71ea_0
+    - cython =3.2.9 =py310h23e71ea_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.158.1 =py310h034784e_0
+    - hypothesis =6.161.5 =py310h034784e_0
     - ipython =8.37.0 =pyha7b4d00_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py310h5588dad_0
@@ -57,9 +57,9 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =win_pyh7428d3b_0
     - sqlalchemy =2.0.51 =py310h1637853_0
-    - sqlite =3.53.3 =hdb435a2_0
+    - sqlite =3.53.4 =hdb435a2_0
     - sympy =1.14.0 =pyh04b8f61_6
-    - tqdm =4.69.0 =pyha7b4d00_0
+    - tqdm =4.69.1 =pyha7b4d00_0
     - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
@@ -198,7 +198,7 @@ requirements:
     - libpng =1.6.58 =h7351971_0
     - libpsl =0.22.0 =h25e0afd_1
     - libsodium =1.0.22 =h6a83c73_1
-    - libsqlite =3.53.3 =hf5d6505_0
+    - libsqlite =3.53.4 =hf5d6505_0
     - libssh2 =1.11.1 =h9aa295b_0
     - libstdcxx =15.2.0 =hae5796f_20
     - libstdcxx-devel_win-64 =15.2.0 =h0a72980_120
@@ -240,7 +240,7 @@ requirements:
     - openssl =3.6.3 =hf411b9b_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.2 =pyhc364b38_0
-    - pandoc =3.10 =h57928b3_0
+    - pandoc =3.10.1 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h13911b6_1
     - parso =0.8.7 =pyhcf101f3_0
@@ -254,7 +254,7 @@ requirements:
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
-    - prometheus_client =0.25.0 =pyhd8ed1ab_0
+    - prometheus_client =0.26.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.5.2 =py310hdb0e946_0
     - pthread-stubs =0.4 =h0e40799_1002
@@ -272,7 +272,7 @@ requirements:
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python-utils =4.0.0 =pyh332efcf_0
     - python_abi =3.10 =8_cp310
-    - pytz =2026.2 =pyhcf101f3_0
+    - pytz =2026.3 =pyhcf101f3_0
     - pywin32 =312 =py310h282bd7d_0
     - pywinpty =2.0.15 =py310h9e98ed7_1
     - pyzmq =27.1.0 =py310h824d4bc_3

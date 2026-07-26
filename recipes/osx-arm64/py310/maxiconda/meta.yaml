@@ -28,9 +28,9 @@ requirements:
     - aiohttp =3.14.3 =py310hd5e7861_0
     - aiomqtt =2.5.1 =pyhcf101f3_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
-    - cython =3.2.8 =py310hc1ea49d_0
+    - cython =3.2.9 =py310hc1ea49d_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.158.1 =py310h9365ca8_0
+    - hypothesis =6.161.5 =py310h9365ca8_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py310hb6292c7_0
@@ -56,9 +56,9 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.51 =py310haea493c_0
-    - sqlite =3.53.3 =h85ec8f2_0
+    - sqlite =3.53.4 =h77b7338_0
     - sympy =1.14.0 =pyh2585a3b_106
-    - tqdm =4.69.0 =pyh8f84b5b_0
+    - tqdm =4.69.1 =pyh8f84b5b_0
     - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
@@ -230,7 +230,7 @@ requirements:
     - libpsl =0.22.0 =h92480b3_1
     - libsigtool =0.1.3 =h98dc951_0
     - libsodium =1.0.22 =h1a92334_1
-    - libsqlite =3.53.3 =h1b79a29_0
+    - libsqlite =3.53.4 =h1ae2325_0
     - libssh2 =1.11.1 =h1590b86_0
     - libtiff =4.7.2 =h282da08_0
     - libuv =1.52.1 =h1a92334_0
@@ -268,7 +268,7 @@ requirements:
     - openssl =3.6.3 =hd24854e_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.2 =pyhc364b38_0
-    - pandoc =3.10 =hce30654_0
+    - pandoc =3.10.1 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =hf80efc4_1
     - parso =0.8.7 =pyhcf101f3_0
@@ -283,7 +283,7 @@ requirements:
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
-    - prometheus_client =0.25.0 =pyhd8ed1ab_0
+    - prometheus_client =0.26.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.5.2 =py310hb46c203_0
     - pthread-stubs =0.4 =hd74edd7_1002
@@ -303,7 +303,7 @@ requirements:
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python-utils =4.0.0 =pyh332efcf_0
     - python_abi =3.10 =8_cp310
-    - pytz =2026.2 =pyhcf101f3_0
+    - pytz =2026.3 =pyhcf101f3_0
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.1.0 =py310hf396ece_3
     - qhull =2020.2 =h420ef59_5

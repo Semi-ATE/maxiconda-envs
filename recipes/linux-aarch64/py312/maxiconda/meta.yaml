@@ -29,9 +29,9 @@ requirements:
     - aiomqtt =2.5.1 =pyhcf101f3_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - bitarray =3.8.0 =py312hcd1a082_1
-    - cython =3.2.8 =py312hbda70bc_0
+    - cython =3.2.9 =py312hbda70bc_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.158.1 =py312h5eb8f6c_0
+    - hypothesis =6.161.5 =py312h5eb8f6c_0
     - ipython =9.15.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py312h8025657_0
@@ -57,9 +57,9 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
     - sqlalchemy =2.0.51 =py312h2fc9c67_0
-    - sqlite =3.53.3 =hf1c7be2_0
+    - sqlite =3.53.4 =he8854b5_0
     - sympy =1.14.0 =pyh2585a3b_106
-    - tqdm =4.69.0 =pyh8f84b5b_0
+    - tqdm =4.69.1 =pyh8f84b5b_0
     - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
@@ -150,7 +150,7 @@ requirements:
     - gcc_linux-aarch64 =15.2.0 =h0bf4bd8_27
     - gfortran_impl_linux-aarch64 =15.2.0 =h9890de2_20
     - gitdb =4.0.12 =pyhd8ed1ab_0
-    - gitpython =3.1.54 =pyhd8ed1ab_0
+    - gitpython =3.1.56 =pyhd8ed1ab_0
     - glib =2.88.2 =hdf12349_0
     - glib-tools =2.88.2 =h7aeb4f4_0
     - gmp =6.3.0 =h0a1ffab_2
@@ -264,7 +264,7 @@ requirements:
     - libsndfile =1.2.2 =h30591a0_2
     - libsodium =1.0.22 =h80f16a2_1
     - libsolv =0.7.39 =hdda61c4_0
-    - libsqlite =3.53.3 =h10b116e_0
+    - libsqlite =3.53.4 =h022381a_0
     - libssh2 =1.11.1 =h18c354c_0
     - libstdcxx =15.2.0 =hef695bb_20
     - libstdcxx-devel_linux-aarch64 =15.2.0 =ha7b1723_120
@@ -314,7 +314,7 @@ requirements:
     - openssl =3.6.3 =h546c87b_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.2 =pyhc364b38_0
-    - pandoc =3.10 =h8af1aa0_0
+    - pandoc =3.10.1 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =h8547ced_1
     - parso =0.8.7 =pyhcf101f3_0
@@ -328,7 +328,7 @@ requirements:
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
-    - prometheus_client =0.25.0 =pyhd8ed1ab_0
+    - prometheus_client =0.26.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.52 =pyha770c72_0
     - propcache =0.5.2 =py312ha4530ae_0
     - pthread-stubs =0.4 =h86ecc28_1002
