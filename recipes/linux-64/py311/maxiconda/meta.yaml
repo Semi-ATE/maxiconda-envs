@@ -31,10 +31,10 @@ requirements:
     - bitarray =3.8.0 =py311h49ec1c0_1
     - cython =3.2.9 =py311h0daaf2c_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.161.5 =py311h902ca64_0
+    - hypothesis =6.161.7 =py311h902ca64_0
     - ipython =9.15.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
-    - matplotlib =3.11.1 =py311h38be061_0
+    - matplotlib =3.11.1 =py311h968eb38_1
     - numba =0.66.0 =py311hcdb8226_0
     - numpy =2.4.6 =py311h2e04523_0
     - openpyxl =3.1.5 =py311h534898f_3
@@ -59,7 +59,7 @@ requirements:
     - sqlalchemy =2.0.51 =py311haee01d2_0
     - sqlite =3.53.4 =h04a0ce9_0
     - sympy =1.14.0 =pyh2585a3b_106
-    - tqdm =4.69.1 =pyh8f84b5b_0
+    - tqdm =4.70.0 =pyh8f84b5b_0
     - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
@@ -134,7 +134,7 @@ requirements:
     - fribidi =1.0.16 =hb03c661_0
     - frozenlist =1.8.0 =py311h52bc045_0
     - gcc_impl_linux-64 =15.2.0 =h8ddf172_20
-    - gcc_linux-64 =15.2.0 =h7be306e_27
+    - gcc_linux-64 =15.2.0 =h7be306e_28
     - gfortran_impl_linux-64 =15.2.0 =hb7147c0_20
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.57 =pyhd8ed1ab_0
@@ -148,7 +148,7 @@ requirements:
     - gst-plugins-base =1.26.11 =h6d08254_0
     - gstreamer =1.26.11 =h29cf534_0
     - gxx_impl_linux-64 =15.2.0 =he8f701c_20
-    - gxx_linux-64 =15.2.0 =hcb00b6d_27
+    - gxx_linux-64 =15.2.0 =h71fc77c_28
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.0 =pyhcf101f3_0
     - harfbuzz =14.2.1 =ha770c72_1
@@ -240,7 +240,7 @@ requirements:
     - libpng =1.6.58 =h421ea60_0
     - libpq =18.4 =hd5a49e9_1
     - libpsl =0.22.0 =h49b2146_1
-    - libraqm =0.10.5 =h6406941_1
+    - libraqm =0.11.0 =h6406941_0
     - libsanitizer =15.2.0 =h984fb3e_20
     - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.22 =h280c20c_1
@@ -266,7 +266,7 @@ requirements:
     - llvmlite =0.48.0 =py311h9d99eea_1
     - make =4.4.1 =hb9d3cd8_2
     - markupsafe =3.0.3 =py311h3778330_1
-    - matplotlib-base =3.11.1 =py311h0a88c4d_0
+    - matplotlib-base =3.11.1 =py311h0a88c4d_1
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - mistune =3.3.4 =pyhcf101f3_0
     - mpc =1.4.0 =he0a73b1_0
@@ -291,7 +291,7 @@ requirements:
     - packaging =26.2 =pyhc364b38_0
     - pandoc =3.10.1 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.56.4 =hda50119_1
+    - pango =1.58.0 =hda50119_0
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =haa7fec5_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
@@ -304,7 +304,7 @@ requirements:
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.52 =pyha770c72_0
+    - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py311h3778330_0
     - pthread-stubs =0.4 =hb9d3cd8_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
@@ -320,7 +320,7 @@ requirements:
     - pyside6 =6.11.1 =py311hf27b23e_1
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
-    - python-fastjsonschema =2.21.2 =pyhe01879c_0
+    - python-fastjsonschema =2.22.0 =pyhcf101f3_0
     - python-json-logger =4.1.0 =pyhd8ed1ab_0
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python-utils =4.0.0 =pyh332efcf_0

@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =3.2.9 =py311h0daaf2c_0
-    - matplotlib =3.11.1 =py311h38be061_0
+    - matplotlib =3.11.1 =py311h968eb38_1
     - numpy =2.4.6 =py311h2e04523_0
     - pandas =3.0.3 =py311h8032f78_0
     - pyqt =5.15.11 =py311h0580839_2
@@ -194,7 +194,7 @@ requirements:
     - libpciaccess =0.19 =hb03c661_0
     - libpng =1.6.58 =h421ea60_0
     - libpq =18.4 =hd5a49e9_1
-    - libraqm =0.10.5 =h6406941_1
+    - libraqm =0.11.0 =h6406941_0
     - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.22 =h280c20c_1
     - libspatialindex =2.1.0 =h54a6638_1
@@ -218,7 +218,7 @@ requirements:
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.2.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py311h3778330_1
-    - matplotlib-base =3.11.1 =py311h0a88c4d_0
+    - matplotlib-base =3.11.1 =py311h0a88c4d_1
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
@@ -259,7 +259,7 @@ requirements:
     - platformdirs =4.11.0 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
-    - prompt-toolkit =3.0.52 =pyha770c72_0
+    - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py311h3778330_0
     - psutil =7.2.2 =py311haee01d2_0
     - pthread-stubs =0.4 =hb9d3cd8_1002
@@ -284,7 +284,7 @@ requirements:
     - pyside6 =6.11.1 =py311hf27b23e_1
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
-    - python-fastjsonschema =2.21.2 =pyhe01879c_0
+    - python-fastjsonschema =2.22.0 =pyhcf101f3_0
     - python-gssapi =1.11.1 =py311hbadf5db_1
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1

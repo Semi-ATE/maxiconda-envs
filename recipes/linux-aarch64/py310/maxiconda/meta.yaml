@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py310h5b55623_1
     - cython =3.2.9 =py310h25a5a22_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.161.5 =py310h598bb90_0
+    - hypothesis =6.161.7 =py310h598bb90_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py310hbbe02a8_0
@@ -59,7 +59,7 @@ requirements:
     - sqlalchemy =2.0.51 =py310h3cefe83_0
     - sqlite =3.53.4 =he8854b5_0
     - sympy =1.14.0 =pyh2585a3b_106
-    - tqdm =4.69.1 =pyh8f84b5b_0
+    - tqdm =4.70.0 =pyh8f84b5b_0
     - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
@@ -128,7 +128,7 @@ requirements:
     - fribidi =1.0.16 =he30d5cf_0
     - frozenlist =1.8.0 =py310h6b021dd_0
     - gcc_impl_linux-aarch64 =15.2.0 =h1b30f02_20
-    - gcc_linux-aarch64 =15.2.0 =h0bf4bd8_27
+    - gcc_linux-aarch64 =15.2.0 =h0bf4bd8_28
     - gfortran_impl_linux-aarch64 =15.2.0 =h9890de2_20
     - glib =2.88.2 =hdf12349_0
     - glib-tools =2.88.2 =h7aeb4f4_0
@@ -140,7 +140,7 @@ requirements:
     - gst-plugins-base =1.26.11 =hd6b5e5b_0
     - gstreamer =1.26.11 =hf552038_0
     - gxx_impl_linux-aarch64 =15.2.0 =h4ddc44f_20
-    - gxx_linux-aarch64 =15.2.0 =h7e4acf5_27
+    - gxx_linux-aarch64 =15.2.0 =h9a17b81_28
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.0 =pyhcf101f3_0
     - harfbuzz =14.2.1 =h8af1aa0_1
@@ -281,7 +281,7 @@ requirements:
     - packaging =26.2 =pyhc364b38_0
     - pandoc =3.10.1 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.56.4 =h8547ced_1
+    - pango =1.58.0 =h8547ced_0
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =hf841c20_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
@@ -295,7 +295,7 @@ requirements:
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.52 =pyha770c72_0
+    - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py310h2d8da20_0
     - pthread-stubs =0.4 =h86ecc28_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
@@ -309,7 +309,7 @@ requirements:
     - pyside6 =6.11.1 =py310hc3d9c87_1
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
-    - python-fastjsonschema =2.21.2 =pyhe01879c_0
+    - python-fastjsonschema =2.22.0 =pyhcf101f3_0
     - python-json-logger =4.1.0 =pyhd8ed1ab_0
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python-utils =4.0.0 =pyh332efcf_0

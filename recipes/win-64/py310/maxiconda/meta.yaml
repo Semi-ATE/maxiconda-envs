@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py310h29418f3_1
     - cython =3.2.9 =py310h23e71ea_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.161.5 =py310h034784e_0
+    - hypothesis =6.161.7 =py310h034784e_0
     - ipython =8.37.0 =pyha7b4d00_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py310h5588dad_0
@@ -59,7 +59,7 @@ requirements:
     - sqlalchemy =2.0.51 =py310h1637853_0
     - sqlite =3.53.4 =hdb435a2_0
     - sympy =1.14.0 =pyh04b8f61_6
-    - tqdm =4.69.1 =pyha7b4d00_0
+    - tqdm =4.70.0 =pyha7b4d00_0
     - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
@@ -242,7 +242,7 @@ requirements:
     - packaging =26.2 =pyhc364b38_0
     - pandoc =3.10.1 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.56.4 =h13911b6_1
+    - pango =1.58.0 =h13911b6_0
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =hd2b5f0e_0
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
@@ -255,7 +255,7 @@ requirements:
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.52 =pyha770c72_0
+    - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py310hdb0e946_0
     - pthread-stubs =0.4 =h0e40799_1002
     - pure_eval =0.2.3 =pyhd8ed1ab_1
@@ -267,7 +267,7 @@ requirements:
     - pyside6 =6.11.1 =py310h059d4f2_1
     - pysocks =1.7.1 =pyh09c184e_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
-    - python-fastjsonschema =2.21.2 =pyhe01879c_0
+    - python-fastjsonschema =2.22.0 =pyhcf101f3_0
     - python-json-logger =4.1.0 =pyhd8ed1ab_0
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python-utils =4.0.0 =pyh332efcf_0

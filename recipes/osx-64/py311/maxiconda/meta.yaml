@@ -31,10 +31,10 @@ requirements:
     - bitarray =3.8.0 =py311hc71d4c3_1
     - cython =3.2.9 =py311h3007246_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.161.5 =py311h3a14e8f_0
+    - hypothesis =6.161.7 =py311h3a14e8f_0
     - ipython =9.15.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
-    - matplotlib =3.11.1 =py311h6eed73b_0
+    - matplotlib =3.11.1 =py311h9895961_1
     - numba =0.66.0 =py311h7dd8c3b_0
     - numpy =2.4.6 =py311h2c4eb96_0
     - openpyxl =3.1.5 =py311ha4806d7_3
@@ -59,7 +59,7 @@ requirements:
     - sqlalchemy =2.0.51 =py311h15eb09d_0
     - sqlite =3.53.4 =hd4d344e_0
     - sympy =1.14.0 =pyh2585a3b_106
-    - tqdm =4.69.1 =pyh8f84b5b_0
+    - tqdm =4.70.0 =pyh8f84b5b_0
     - transitions =0.9.3 =pyhe01879c_0
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
@@ -238,7 +238,7 @@ requirements:
     - libpng =1.6.58 =he930e7c_0
     - libpq =18.4 =h8b30867_1
     - libpsl =0.22.0 =ha9fe4b0_1
-    - libraqm =0.10.5 =h1888d0e_1
+    - libraqm =0.11.0 =h1888d0e_0
     - libsigtool =0.1.3 =hc0f2934_0
     - libsodium =1.0.22 =ha3d0635_1
     - libsqlite =3.53.4 =h77d7759_0
@@ -257,7 +257,7 @@ requirements:
     - llvmlite =0.48.0 =py311hbe43510_1
     - make =4.4.1 =h00291cd_2
     - markupsafe =3.0.3 =py311ha8ae342_1
-    - matplotlib-base =3.11.1 =py311h2778e7f_0
+    - matplotlib-base =3.11.1 =py311h2778e7f_1
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - mistune =3.3.4 =pyhcf101f3_0
     - mpc =1.4.0 =h31caf2d_0
@@ -281,7 +281,7 @@ requirements:
     - packaging =26.2 =pyhc364b38_0
     - pandoc =3.10.1 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.56.4 =hf280016_1
+    - pango =1.58.0 =hf280016_0
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =h13923f0_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
@@ -294,7 +294,7 @@ requirements:
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.5.0 =pyhd8ed1ab_1
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
-    - prompt-toolkit =3.0.52 =pyha770c72_0
+    - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py311ha8ae342_0
     - pthread-stubs =0.4 =h00291cd_1002
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
@@ -310,7 +310,7 @@ requirements:
     - pyqt5-sip =12.17.0 =py311hf0b9b45_2
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
-    - python-fastjsonschema =2.21.2 =pyhe01879c_0
+    - python-fastjsonschema =2.22.0 =pyhcf101f3_0
     - python-json-logger =4.1.0 =pyhd8ed1ab_0
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python-utils =4.0.0 =pyh332efcf_0
