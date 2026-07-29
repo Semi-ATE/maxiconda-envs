@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py310h29418f3_1
     - cython =3.2.9 =py310h23e71ea_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.161.7 =py310h034784e_0
+    - hypothesis =6.161.8 =py310h034784e_0
     - ipython =8.37.0 =pyha7b4d00_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py310h5588dad_0
@@ -121,8 +121,8 @@ requirements:
     - freetype =2.14.3 =h57928b3_1
     - fribidi =1.0.16 =hfd05255_0
     - frozenlist =1.8.0 =py310had1666a_0
-    - gcc_impl_win-64 =15.2.0 =hf3019ae_20
-    - gfortran_impl_win-64 =15.2.0 =h6dc9fce_20
+    - gcc_impl_win-64 =16.1.0 =h560e381_0
+    - gfortran_impl_win-64 =16.1.0 =he32c876_0
     - glib =2.88.2 =h395db07_0
     - glib-tools =2.88.2 =h74ecf4c_0
     - graphite2 =1.3.15 =hac47afa_0
@@ -130,7 +130,7 @@ requirements:
     - gsl =2.7 =hdfb1a43_0
     - gst-plugins-base =1.26.11 =h88486b4_0
     - gstreamer =1.26.11 =hae9036a_0
-    - gxx_impl_win-64 =15.2.0 =hc467949_20
+    - gxx_impl_win-64 =16.1.0 =he3d2c83_0
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.0 =pyhcf101f3_0
     - harfbuzz =14.2.1 =h57928b3_1
@@ -178,12 +178,12 @@ requirements:
     - libffi =3.5.2 =h3d046cb_0
     - libfreetype =2.14.3 =h57928b3_1
     - libfreetype6 =2.14.3 =hdbac1cb_1
-    - libgcc =15.2.0 =h8ee18e1_20
-    - libgcc-devel_win-64 =15.2.0 =hbb59886_120
-    - libgfortran =15.2.0 =h719f0c7_20
-    - libgfortran5 =15.2.0 =h44d81a7_20
+    - libgcc =16.1.0 =h110b43a_0
+    - libgcc-devel_win-64 =16.1.0 =hecf7705_100
+    - libgfortran =16.1.0 =h719f0c7_0
+    - libgfortran5 =16.1.0 =h94075d5_0
     - libglib =2.88.2 =h7ce1215_0
-    - libgomp =15.2.0 =h8ee18e1_20
+    - libgomp =16.1.0 =h8ee18e1_0
     - libharfbuzz =14.2.1 =h03b5201_1
     - libharfbuzz-devel =14.2.1 =h03b5201_1
     - libhwloc =2.13.0 =default_h049141e_1000
@@ -200,8 +200,8 @@ requirements:
     - libsodium =1.0.22 =h6a83c73_1
     - libsqlite =3.53.4 =hf5d6505_0
     - libssh2 =1.11.1 =h9aa295b_0
-    - libstdcxx =15.2.0 =hae5796f_20
-    - libstdcxx-devel_win-64 =15.2.0 =h0a72980_120
+    - libstdcxx =16.1.0 =hae5796f_0
+    - libstdcxx-devel_win-64 =16.1.0 =hc76ffd0_100
     - libtiff =4.7.2 =h8f73337_0
     - libuv =1.52.1 =h6a83c73_0
     - libvorbis =1.3.7 =h5112557_2
@@ -212,7 +212,7 @@ requirements:
     - libxml2 =2.15.3 =h8ef44ab_0
     - libxml2-16 =2.15.3 =h3cfd58e_0
     - libxslt =1.1.43 =h0fbe4c1_1
-    - libzlib =1.3.2 =hfd05255_2
+    - libzlib =1.3.2 =hfd05255_3
     - llvm-openmp =22.1.8 =h4fa8253_0
     - llvmlite =0.48.0 =py310hb6f59f5_1
     - m2-conda-epoch =20250515 =0_x86_64
@@ -267,7 +267,7 @@ requirements:
     - pyside6 =6.11.1 =py310h059d4f2_1
     - pysocks =1.7.1 =pyh09c184e_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
-    - python-fastjsonschema =2.22.0 =pyhcf101f3_0
+    - python-fastjsonschema =2.22.1 =pyhcf101f3_0
     - python-json-logger =4.1.0 =pyhd8ed1ab_0
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python-utils =4.0.0 =pyh332efcf_0
@@ -341,7 +341,7 @@ requirements:
     - r-gtable =0.3.6 =r45hc72bb7e_1
     - r-hardhat =1.4.3 =r45hc72bb7e_0
     - r-haven =2.5.5 =r45h68b42e3_1
-    - r-hexbin =1.28.5 =r45h814e693_1
+    - r-hexbin =1.28.6 =r45h814e693_0
     - r-highr =0.12 =r45hc72bb7e_0
     - r-hms =1.1.4 =r45hc72bb7e_0
     - r-htmltools =0.5.9 =r45hd8a2815_0
@@ -516,7 +516,7 @@ requirements:
     - yarl =1.24.5 =py310hdb0e946_0
     - zeromq =4.3.5 =h3a581c9_11
     - zipp =4.1.0 =pyhcf101f3_0
-    - zlib =1.3.2 =hfd05255_2
+    - zlib =1.3.2 =hfd05255_3
     - zlib-ng =2.3.3 =h0261ad2_1
     - zstd =1.5.7 =h534d264_6
 

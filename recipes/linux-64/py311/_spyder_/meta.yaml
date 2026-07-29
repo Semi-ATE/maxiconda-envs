@@ -26,9 +26,9 @@ requirements:
 
     # 9 primary packages :
     - cython =3.2.9 =py311h0daaf2c_0
-    - matplotlib =3.11.1 =py311h968eb38_1
+    - matplotlib =3.11.1 =py311h968eb38_2
     - numpy =2.4.6 =py311h2e04523_0
-    - pandas =3.0.3 =py311h8032f78_0
+    - pandas =3.0.5 =py311h8032f78_1
     - pyqt =5.15.11 =py311h0580839_2
     - pyqtwebengine =5.15.11 =py311h1694d00_2
     - scipy =1.17.1 =py311hbe70eeb_1
@@ -167,17 +167,17 @@ requirements:
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_0
     - libfreetype6 =2.14.3 =h73754d4_0
-    - libgcc =15.2.0 =he0feb66_20
-    - libgcc-ng =15.2.0 =h69a702a_20
-    - libgfortran =15.2.0 =h69a702a_20
-    - libgfortran5 =15.2.0 =h68bc16d_20
+    - libgcc =16.1.0 =ha9f2e26_0
+    - libgcc-ng =16.1.0 =h69a702a_0
+    - libgfortran =16.1.0 =h69a702a_0
+    - libgfortran5 =16.1.0 =h79bb938_0
     - libgl =1.7.0 =ha4b6fd6_3
     - libgl-devel =1.7.0 =ha4b6fd6_3
     - libglib =2.88.2 =h0d30a3d_0
     - libglvnd =1.7.0 =ha4b6fd6_3
     - libglx =1.7.0 =ha4b6fd6_3
     - libglx-devel =1.7.0 =ha4b6fd6_3
-    - libgomp =15.2.0 =he0feb66_20
+    - libgomp =16.1.0 =he0feb66_0
     - libharfbuzz =14.2.1 =h17a8019_1
     - libharfbuzz-devel =14.2.1 =h17a8019_1
     - libiconv =1.18 =h3b78370_2
@@ -199,8 +199,8 @@ requirements:
     - libsodium =1.0.22 =h280c20c_1
     - libspatialindex =2.1.0 =h54a6638_1
     - libsqlite =3.53.4 =hf4e2dac_0
-    - libstdcxx =15.2.0 =h934c35e_20
-    - libstdcxx-ng =15.2.0 =hdf11a46_20
+    - libstdcxx =16.1.0 =h934c35e_0
+    - libstdcxx-ng =16.1.0 =hdf11a46_0
     - libsystemd0 =261.1 =h6f4a2f1_0
     - libtiff =4.7.2 =h9d88235_0
     - libuuid =2.42.2 =h5347b49_0
@@ -218,7 +218,7 @@ requirements:
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.2.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py311h3778330_1
-    - matplotlib-base =3.11.1 =py311h0a88c4d_1
+    - matplotlib-base =3.11.1 =py311he401cf6_2
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
@@ -284,7 +284,7 @@ requirements:
     - pyside6 =6.11.1 =py311hf27b23e_1
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
-    - python-fastjsonschema =2.22.0 =pyhcf101f3_0
+    - python-fastjsonschema =2.22.1 =pyhcf101f3_0
     - python-gssapi =1.11.1 =py311hbadf5db_1
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1

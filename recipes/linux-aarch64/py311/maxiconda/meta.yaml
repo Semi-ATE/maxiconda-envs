@@ -31,15 +31,15 @@ requirements:
     - bitarray =3.8.0 =py311h19352d5_1
     - cython =3.2.9 =py311hd9fb77f_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.161.7 =py311hddf1d3d_0
+    - hypothesis =6.161.8 =py311hddf1d3d_0
     - ipython =9.15.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
-    - matplotlib =3.11.1 =py311h6d534f4_1
+    - matplotlib =3.11.1 =py311h6d534f4_2
     - numba =0.66.0 =py311ha0b4c8d_0
     - numpy =2.4.6 =py311hecca567_0
     - openpyxl =3.1.5 =py311h2ae4cd7_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
-    - pandas =3.0.5 =py311h8e4e6a5_0
+    - pandas =3.0.5 =py311h8e4e6a5_1
     - psutil =7.2.2 =py311h51cfe5d_0
     - pydantic =2.13.4 =pyhcf101f3_0
     - pyqt =5.15.11 =py311h4808784_2
@@ -210,18 +210,18 @@ requirements:
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.3 =h8af1aa0_1
     - libfreetype6 =2.14.3 =hdae7a39_1
-    - libgcc =15.2.0 =h8acb6b2_20
+    - libgcc =16.1.0 =h205dda4_0
     - libgcc-devel_linux-aarch64 =15.2.0 =h55c397f_120
-    - libgcc-ng =15.2.0 =he9431aa_20
-    - libgfortran =15.2.0 =he9431aa_20
-    - libgfortran5 =15.2.0 =h1b7bec0_20
+    - libgcc-ng =16.1.0 =he9431aa_0
+    - libgfortran =16.1.0 =he9431aa_0
+    - libgfortran5 =16.1.0 =h47adacf_0
     - libgl =1.7.0 =hd24410f_3
     - libgl-devel =1.7.0 =hd24410f_3
     - libglib =2.88.2 =h96a7f82_0
     - libglvnd =1.7.0 =hd24410f_3
     - libglx =1.7.0 =hd24410f_3
     - libglx-devel =1.7.0 =hd24410f_3
-    - libgomp =15.2.0 =h8acb6b2_20
+    - libgomp =16.1.0 =h8acb6b2_0
     - libharfbuzz =14.2.1 =h3a99ef3_1
     - libharfbuzz-devel =14.2.1 =h3a99ef3_1
     - libiconv =1.18 =h90929bb_2
@@ -246,9 +246,9 @@ requirements:
     - libsodium =1.0.22 =h80f16a2_1
     - libsqlite =3.53.4 =h022381a_0
     - libssh2 =1.11.1 =h18c354c_0
-    - libstdcxx =15.2.0 =hef695bb_20
+    - libstdcxx =16.1.0 =hef695bb_0
     - libstdcxx-devel_linux-aarch64 =15.2.0 =ha7b1723_120
-    - libstdcxx-ng =15.2.0 =hdbbeba8_20
+    - libstdcxx-ng =16.1.0 =hdbbeba8_0
     - libsystemd0 =261.1 =hb290c7d_0
     - libtiff =4.7.2 =hdb009f0_0
     - libuuid =2.42.2 =h1022ec0_0
@@ -262,11 +262,11 @@ requirements:
     - libxml2 =2.15.3 =h869d058_0
     - libxml2-16 =2.15.3 =h79dcc73_0
     - libxslt =1.1.43 =h6700d25_1
-    - libzlib =1.3.2 =hdc9db2a_2
+    - libzlib =1.3.2 =hdc9db2a_3
     - llvmlite =0.48.0 =py311h0e6234f_1
     - make =4.4.1 =h2a6d0cb_2
     - markupsafe =3.0.3 =py311h2dad8b0_1
-    - matplotlib-base =3.11.1 =py311hbf72afc_1
+    - matplotlib-base =3.11.1 =py311h0ee92aa_2
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - mistune =3.3.4 =pyhcf101f3_0
     - mpc =1.4.0 =he6dc3fb_0
@@ -320,7 +320,7 @@ requirements:
     - pyside6 =6.11.1 =py311hb02cd75_1
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
-    - python-fastjsonschema =2.22.0 =pyhcf101f3_0
+    - python-fastjsonschema =2.22.1 =pyhcf101f3_0
     - python-json-logger =4.1.0 =pyhd8ed1ab_0
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python-utils =4.0.0 =pyh332efcf_0
@@ -392,7 +392,7 @@ requirements:
     - r-gtable =0.3.6 =r45hc72bb7e_1
     - r-hardhat =1.4.3 =r45hc72bb7e_0
     - r-haven =2.5.5 =r45hb62f08c_1
-    - r-hexbin =1.28.5 =r45h6df9e4a_1
+    - r-hexbin =1.28.6 =r45h6df9e4a_0
     - r-highr =0.12 =r45hc72bb7e_0
     - r-hms =1.1.4 =r45hc72bb7e_0
     - r-htmltools =0.5.9 =r45h08b74da_0

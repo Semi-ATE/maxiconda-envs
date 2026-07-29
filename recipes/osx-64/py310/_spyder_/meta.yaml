@@ -146,9 +146,9 @@ requirements:
     - libffi =3.7.0 =h8c408c4_0
     - libfreetype =2.14.3 =h694c41f_1
     - libfreetype6 =2.14.3 =h58fbd8d_1
-    - libgcc =15.2.0 =h08519bb_20
-    - libgfortran =15.2.0 =h7e5c614_20
-    - libgfortran5 =15.2.0 =hd16e46c_20
+    - libgcc =16.1.0 =h13771c8_0
+    - libgfortran =16.1.0 =h7e5c614_0
+    - libgfortran5 =16.1.0 =h70d9f54_0
     - libglib =2.84.0 =h5c976ab_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
@@ -173,7 +173,7 @@ requirements:
     - libwebp-base =1.6.0 =hb807250_0
     - libxcb =1.17.0 =hf1f96e2_0
     - libxml2 =2.13.9 =he1bc88e_0
-    - libzlib =1.3.2 =hbb4bfdb_2
+    - libzlib =1.3.2 =hbb4bfdb_3
     - llvm-openmp =22.1.8 =h0d3cbff_0
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.2.0 =pyhd8ed1ab_0
@@ -245,7 +245,7 @@ requirements:
     - pyqt5-sip =12.17.0 =py310h40a7462_2
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
-    - python-fastjsonschema =2.22.0 =pyhcf101f3_0
+    - python-fastjsonschema =2.22.1 =pyhcf101f3_0
     - python-gssapi =1.11.1 =py310heb4f67e_0
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1

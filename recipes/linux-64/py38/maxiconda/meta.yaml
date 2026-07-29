@@ -203,17 +203,17 @@ requirements:
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_0
     - libfreetype6 =2.14.3 =h73754d4_0
-    - libgcc =15.2.0 =he0feb66_20
+    - libgcc =16.1.0 =ha9f2e26_0
     - libgcc-devel_linux-64 =15.2.0 =hcc6f6b0_120
-    - libgcc-ng =15.2.0 =h69a702a_20
-    - libgfortran =15.2.0 =h69a702a_20
-    - libgfortran-ng =15.2.0 =h69a702a_20
-    - libgfortran5 =15.2.0 =h68bc16d_20
+    - libgcc-ng =16.1.0 =h69a702a_0
+    - libgfortran =16.1.0 =h69a702a_0
+    - libgfortran-ng =16.1.0 =h69a702a_0
+    - libgfortran5 =16.1.0 =h79bb938_0
     - libgl =1.7.0 =ha4b6fd6_3
     - libglib =2.88.2 =h0d30a3d_0
     - libglvnd =1.7.0 =ha4b6fd6_3
     - libglx =1.7.0 =ha4b6fd6_3
-    - libgomp =15.2.0 =he0feb66_20
+    - libgomp =16.1.0 =he0feb66_0
     - libharfbuzz =14.2.1 =h17a8019_1
     - libharfbuzz-devel =14.2.1 =h17a8019_1
     - libiconv =1.18 =h3b78370_2
@@ -238,9 +238,9 @@ requirements:
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.53.4 =hf4e2dac_0
     - libssh2 =1.11.1 =hcf80075_0
-    - libstdcxx =15.2.0 =h934c35e_20
+    - libstdcxx =16.1.0 =h934c35e_0
     - libstdcxx-devel_linux-64 =15.2.0 =hd446a21_120
-    - libstdcxx-ng =15.2.0 =hdf11a46_20
+    - libstdcxx-ng =16.1.0 =hdf11a46_0
     - libsystemd0 =261.1 =h6f4a2f1_0
     - libtiff =4.7.2 =h9d88235_0
     - libuuid =2.42.2 =h5347b49_0
@@ -381,7 +381,7 @@ requirements:
     - r-gtable =0.3.6 =r45hc72bb7e_1
     - r-hardhat =1.4.3 =r45hc72bb7e_0
     - r-haven =2.5.5 =r45h6d565e7_1
-    - r-hexbin =1.28.5 =r45heaba542_1
+    - r-hexbin =1.28.6 =r45heaba542_0
     - r-highr =0.12 =r45hc72bb7e_0
     - r-hms =1.1.4 =r45hc72bb7e_0
     - r-htmltools =0.5.9 =r45h3697838_0
