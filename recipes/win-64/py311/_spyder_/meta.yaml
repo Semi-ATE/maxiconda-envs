@@ -33,7 +33,7 @@ requirements:
     - pyqt =5.15.11 =py311h7c55f98_2
     - pyqtwebengine =5.15.11 =py311h8dad79e_2
     - scipy =1.17.1 =py311h9c22a71_1
-    - spyder =6.1.5 =hd8ed1ab_0
+    - spyder =6.1.6 =hd8ed1ab_0
     - sympy =1.14.0 =pyh04b8f61_6
 
     # 295 secondary packages :
@@ -124,7 +124,7 @@ requirements:
     - jaraco.classes =3.4.0 =pyhcf101f3_3
     - jaraco.context =6.1.2 =pyhcf101f3_0
     - jaraco.functools =4.6.0 =pyhcf101f3_0
-    - jedi =0.19.2 =pyhd8ed1ab_1
+    - jedi =0.20.0 =pyhcf101f3_0
     - jellyfish =1.2.1 =py311h18438d6_1
     - jinja2 =3.1.6 =pyhcf101f3_1
     - jsonschema =4.26.0 =pyhcf101f3_0
@@ -168,7 +168,7 @@ requirements:
     - libsqlite =3.53.4 =hf5d6505_0
     - libtiff =4.7.2 =h8f73337_0
     - libvorbis =1.3.7 =h5112557_2
-    - libvulkan-loader =1.4.350.1 =h477610d_0
+    - libvulkan-loader =1.4.357.0 =h477610d_0
     - libwebp =1.6.0 =h4d5522a_0
     - libwebp-base =1.6.0 =h4d5522a_0
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_10
@@ -246,8 +246,8 @@ requirements:
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
     - python-lsp-ruff =2.3.1 =pyhcf101f3_0
-    - python-lsp-server =1.14.0 =pyh332efcf_0
-    - python-lsp-server-base =1.14.0 =pyhd8ed1ab_0
+    - python-lsp-server =1.15.0 =pyh332efcf_0
+    - python-lsp-server-base =1.15.0 =pyhd8ed1ab_0
     - python-slugify =8.0.4 =pyhd8ed1ab_1
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python_abi =3.11 =8_cp311
@@ -289,7 +289,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =2.0.0 =pyhd8ed1ab_0
-    - spyder-base =6.1.5 =py311h1ea47a8_0
+    - spyder-base =6.1.6 =py311h1ea47a8_0
     - spyder-kernels =3.1.5 =win_pyh7428d3b_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.8.2 =pyh9208f05_0
@@ -312,9 +312,9 @@ requirements:
     - ujson =5.13.0 =py311h5dfdfe8_0
     - unicodedata2 =17.0.1 =py311h3485c13_0
     - urllib3 =2.7.0 =pyhd8ed1ab_0
-    - vc =14.5 =h1b7c187_39
-    - vc14_runtime =14.51.36231 =h1b9f54f_39
-    - vcomp14 =14.51.36231 =h1b9f54f_39
+    - vc =14.5 =ha367084_41
+    - vc14_runtime =14.51.36247 =habf1de7_41
+    - vcomp14 =14.51.36247 =habf1de7_41
     - watchdog =6.0.0 =py311h86c7a16_3
     - wcwidth =0.8.2 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3

@@ -32,7 +32,7 @@ requirements:
     - pyqt =5.15.11 =py311ha87f45f_2
     - pyqtwebengine =5.15.11 =py311h7e362d0_2
     - scipy =1.17.1 =py311h9a58382_1
-    - spyder =6.1.5 =hd8ed1ab_0
+    - spyder =6.1.6 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
     # 306 secondary packages :
@@ -128,7 +128,7 @@ requirements:
     - jaraco.classes =3.4.0 =pyhcf101f3_3
     - jaraco.context =6.1.2 =pyhcf101f3_0
     - jaraco.functools =4.6.0 =pyhcf101f3_0
-    - jedi =0.19.2 =pyhd8ed1ab_1
+    - jedi =0.20.0 =pyhcf101f3_0
     - jellyfish =1.2.1 =py311h0f0954d_1
     - jinja2 =3.1.6 =pyhcf101f3_1
     - jsonschema =4.26.0 =pyhcf101f3_0
@@ -263,8 +263,8 @@ requirements:
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
     - python-lsp-ruff =2.3.1 =pyhcf101f3_0
-    - python-lsp-server =1.14.0 =pyh332efcf_0
-    - python-lsp-server-base =1.14.0 =pyhd8ed1ab_0
+    - python-lsp-server =1.15.0 =pyh332efcf_0
+    - python-lsp-server-base =1.15.0 =pyhd8ed1ab_0
     - python-slugify =8.0.4 =pyhd8ed1ab_1
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python.app =1.4 =py311h2969435_5
@@ -306,7 +306,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =2.0.0 =pyhd8ed1ab_0
-    - spyder-base =6.1.5 =osx_pyh534df25_0
+    - spyder-base =6.1.6 =osx_pyh534df25_0
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.8.2 =pyh9208f05_0
