@@ -30,11 +30,11 @@ requirements:
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - cython =3.2.9 =py312h72d008e_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.161.8 =py312hb9d4441_0
+    - hypothesis =6.164.0 =py312hb9d4441_0
     - ipython =9.15.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py312hf2eba6f_2
-    - numba =0.66.0 =py312h85f139b_0
+    - numba =0.66.0 =py312h996432a_1
     - numpy =2.4.6 =py312ha003a3f_0
     - openpyxl =3.1.5 =py312h2a925e6_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -129,7 +129,7 @@ requirements:
     - contourpy =1.3.3 =py312h3093aea_4
     - cpp-expected =1.3.1 =h4f10f1e_0
     - cpython =3.12.13 =py312hd8ed1ab_0
-    - curl =8.21.0 =h1359186_2
+    - curl =8.21.0 =h1359186_3
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hb961e35_1
     - debugpy =1.8.21 =py312h6510ced_0
@@ -140,7 +140,7 @@ requirements:
     - evalidate =2.0.5 =pyhe01879c_0
     - exceptiongroup =1.3.1 =pyhd8ed1ab_0
     - executing =2.2.1 =pyhd8ed1ab_0
-    - filelock =3.32.0 =pyhd8ed1ab_0
+    - filelock =3.32.2 =pyhd8ed1ab_0
     - fmt =12.1.0 =h403dcb5_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -155,12 +155,12 @@ requirements:
     - fribidi =1.0.16 =hc919400_0
     - frozendict =2.4.7 =pyh851646a_2
     - frozenlist =1.8.0 =py312ha0ce254_0
-    - gcc_impl_osx-arm64 =16.1.0 =h2d6a911_0
-    - gfortran_impl_osx-arm64 =16.1.0 =h68f779f_0
+    - gcc_impl_osx-arm64 =16.1.0 =h2d6a911_1
+    - gfortran_impl_osx-arm64 =16.1.0 =h68f779f_1
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.57 =pyhd8ed1ab_0
-    - glib =2.88.2 =h2792883_0
-    - glib-tools =2.88.2 =h246a70f_0
+    - glib =2.88.3 =hf4c8184_0
+    - glib-tools =2.88.3 =h5f197ff_0
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.3.0 =py312he1ee7cc_1
     - graphite2 =1.3.15 =hf6b4638_0
@@ -217,7 +217,7 @@ requirements:
     - libclang-cpp22.1 =22.1.8 =default_hdca5a3d_3
     - libclang13 =22.1.8 =default_h3bfd001_3
     - libcompiler-rt =22.1.8 =hd34ed20_1
-    - libcurl =8.21.0 =h1359186_2
+    - libcurl =8.21.0 =h1359186_3
     - libcxx =22.1.8 =h55c6f16_0
     - libcxx-devel =22.1.8 =h6dc3340_0
     - libcxx-headers =22.1.8 =h707e725_0
@@ -228,12 +228,12 @@ requirements:
     - libffi =3.5.2 =hcf2aa1b_0
     - libfreetype =2.14.3 =hce30654_1
     - libfreetype6 =2.14.3 =hdfa99f5_1
-    - libgcc =16.1.0 =h3cf6597_0
-    - libgcc-devel_osx-arm64 =16.1.0 =h2713bec_100
+    - libgcc =16.1.0 =h3cf6597_1
+    - libgcc-devel_osx-arm64 =16.1.0 =h2713bec_101
     - libgettextpo =0.25.1 =h493aca8_0
-    - libgfortran =16.1.0 =h07b0088_0
-    - libgfortran5 =16.1.0 =h32cdfcc_0
-    - libglib =2.88.2 =ha08bb59_0
+    - libgfortran =16.1.0 =h07b0088_1
+    - libgfortran5 =16.1.0 =h32cdfcc_1
+    - libglib =2.88.3 =ha08bb59_0
     - libharfbuzz =14.2.1 =h5a65909_1
     - libharfbuzz-devel =14.2.1 =h5a65909_1
     - libiconv =1.18 =h23cfdf5_2
@@ -255,7 +255,7 @@ requirements:
     - libopus =1.6.1 =h1a92334_0
     - libpng =1.6.58 =h132b30e_0
     - libpq =18.4 =h08b03b9_1
-    - libpsl =0.22.0 =h7a62e17_2
+    - libpsl =0.22.0 =h7a62e17_3
     - libraqm =0.11.0 =h45af499_0
     - libsigtool =0.1.3 =h98dc951_0
     - libsodium =1.0.22 =h1a92334_1
@@ -310,7 +310,7 @@ requirements:
     - pcre2 =10.47 =h30297fc_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pillow =12.3.0 =py312h4e908a4_0
-    - pip =26.1.2 =pyh8b19718_0
+    - pip =26.2 =pyh8b19718_0
     - pixman =0.46.4 =h784d473_2
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
     - platformdirs =4.11.0 =pyhcf101f3_0
@@ -547,7 +547,7 @@ requirements:
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =83.0.0 =pyh332efcf_0
     - sigtool-codesign =0.1.3 =h98dc951_0
-    - simdjson =4.6.4 =h4ddebb9_0
+    - simdjson =4.6.5 =h4ddebb9_0
     - sip =6.15.3 =py312h6d95f44_0
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.3 =pyhcf101f3_1

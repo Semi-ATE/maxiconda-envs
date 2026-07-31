@@ -154,19 +154,19 @@ requirements:
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_0
     - libfreetype6 =2.14.3 =h73754d4_0
-    - libgcc =16.1.0 =ha9f2e26_0
-    - libgcc-ng =16.1.0 =h69a702a_0
+    - libgcc =16.1.0 =ha9f2e26_1
+    - libgcc-ng =16.1.0 =h69a702a_1
     - libgcrypt =1.12.2 =ha770c72_0
     - libgcrypt-devel =1.12.2 =hb03c661_0
     - libgcrypt-lib =1.12.2 =hb03c661_0
     - libgcrypt-tools =1.12.2 =hb03c661_0
     - libgettextpo =0.25.1 =h3f43e3d_1
     - libgettextpo-devel =0.25.1 =h3f43e3d_1
-    - libgfortran =16.1.0 =h69a702a_0
-    - libgfortran-ng =16.1.0 =h69a702a_0
-    - libgfortran5 =16.1.0 =h79bb938_0
+    - libgfortran =16.1.0 =h69a702a_1
+    - libgfortran-ng =16.1.0 =h69a702a_1
+    - libgfortran5 =16.1.0 =h79bb938_1
     - libglib =2.86.0 =h1fed272_0
-    - libgomp =16.1.0 =he0feb66_0
+    - libgomp =16.1.0 =he0feb66_1
     - libgpg-error =1.61 =h54a6638_0
     - libiconv =1.18 =h3b78370_2
     - liblapack =3.9.0 =20_linux64_openblas
@@ -184,8 +184,8 @@ requirements:
     - libsodium =1.0.18 =h36c2ea0_1
     - libspatialindex =1.9.3 =h54a6638_6
     - libsqlite =3.53.4 =h0c1763c_0
-    - libstdcxx =16.1.0 =h934c35e_0
-    - libstdcxx-ng =16.1.0 =hdf11a46_0
+    - libstdcxx =16.1.0 =h934c35e_1
+    - libstdcxx-ng =16.1.0 =hdf11a46_1
     - libsystemd0 =253 =h8c4010b_1
     - libtiff =4.4.0 =h82bc61c_5
     - libtool =2.5.4 =h5888daf_0
@@ -324,7 +324,7 @@ requirements:
     - wheel =0.42.0 =pyhd8ed1ab_0
     - wrapt =1.14.1 =py37h540881e_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
-    - xcb-util =0.4.0 =h516909a_0
+    - xcb-util =0.4.0 =h166bdaf_0
     - xcb-util-image =0.4.0 =h166bdaf_0
     - xcb-util-keysyms =0.4.0 =h166bdaf_0
     - xcb-util-renderutil =0.3.9 =h166bdaf_0

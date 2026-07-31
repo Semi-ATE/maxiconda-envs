@@ -106,7 +106,7 @@ requirements:
     - conda-souschef =2.2.3 =pyhd8ed1ab_0
     - contourpy =1.1.1 =py38h7f3f72f_1
     - cpython =3.8.20 =py38hd8ed1ab_2
-    - curl =8.21.0 =hae6b9f4_2
+    - curl =8.21.0 =hae6b9f4_3
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cyrus-sasl =2.1.28 =hac629b4_1
     - dbus =1.16.2 =h24cb091_1
@@ -129,11 +129,11 @@ requirements:
     - freetype =2.14.3 =ha770c72_0
     - fribidi =1.0.16 =hb03c661_0
     - frozenlist =1.4.1 =py38h01eb140_0
-    - gcc_impl_linux-64 =15.2.0 =h8ddf172_20
-    - gcc_linux-64 =15.2.0 =h7be306e_28
-    - gfortran_impl_linux-64 =15.2.0 =hb7147c0_20
-    - glib =2.88.2 =hbe0478d_0
-    - glib-tools =2.88.2 =h8094192_0
+    - gcc_impl_linux-64 =16.1.0 =h5fcb69b_1
+    - gcc_linux-64 =16.1.0 =h5fd2508_0
+    - gfortran_impl_linux-64 =16.1.0 =h08e1a1a_1
+    - glib =2.88.3 =h84d461a_0
+    - glib-tools =2.88.3 =h95f0039_0
     - gmp =6.3.0 =hac33072_2
     - gmpy2 =2.1.5 =py38h6a1700d_1
     - graphite2 =1.3.15 =hecca717_0
@@ -141,8 +141,8 @@ requirements:
     - gsl =2.7 =he838d99_0
     - gst-plugins-base =1.26.11 =h6d08254_0
     - gstreamer =1.26.11 =h29cf534_0
-    - gxx_impl_linux-64 =15.2.0 =he8f701c_20
-    - gxx_linux-64 =15.2.0 =h71fc77c_28
+    - gxx_impl_linux-64 =16.1.0 =he33a5f8_1
+    - gxx_linux-64 =16.1.0 =h5525346_0
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =pyhd8ed1ab_0
     - harfbuzz =14.2.1 =ha770c72_1
@@ -191,7 +191,7 @@ requirements:
     - libclang-cpp22.1 =22.1.8 =default_h6c227bf_3
     - libclang13 =22.1.8 =default_h9692865_3
     - libcups =2.3.3 =h7a8fb5f_6
-    - libcurl =8.21.0 =hae6b9f4_2
+    - libcurl =8.21.0 =hae6b9f4_3
     - libdeflate =1.25 =h17f619e_0
     - libdrm =2.4.127 =hb03c661_0
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -203,17 +203,17 @@ requirements:
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_0
     - libfreetype6 =2.14.3 =h73754d4_0
-    - libgcc =16.1.0 =ha9f2e26_0
-    - libgcc-devel_linux-64 =15.2.0 =hcc6f6b0_120
-    - libgcc-ng =16.1.0 =h69a702a_0
-    - libgfortran =16.1.0 =h69a702a_0
-    - libgfortran-ng =16.1.0 =h69a702a_0
-    - libgfortran5 =16.1.0 =h79bb938_0
+    - libgcc =16.1.0 =ha9f2e26_1
+    - libgcc-devel_linux-64 =16.1.0 =h59071f9_101
+    - libgcc-ng =16.1.0 =h69a702a_1
+    - libgfortran =16.1.0 =h69a702a_1
+    - libgfortran-ng =16.1.0 =h69a702a_1
+    - libgfortran5 =16.1.0 =h79bb938_1
     - libgl =1.7.0 =ha4b6fd6_3
-    - libglib =2.88.2 =h0d30a3d_0
+    - libglib =2.88.3 =h0d30a3d_0
     - libglvnd =1.7.0 =ha4b6fd6_3
     - libglx =1.7.0 =ha4b6fd6_3
-    - libgomp =16.1.0 =he0feb66_0
+    - libgomp =16.1.0 =he0feb66_1
     - libharfbuzz =14.2.1 =h17a8019_1
     - libharfbuzz-devel =14.2.1 =h17a8019_1
     - libiconv =1.18 =h3b78370_2
@@ -232,15 +232,15 @@ requirements:
     - libpciaccess =0.19 =hb03c661_0
     - libpng =1.6.58 =h421ea60_0
     - libpq =18.4 =hd5a49e9_1
-    - libpsl =0.22.0 =hf670292_2
-    - libsanitizer =15.2.0 =h984fb3e_20
+    - libpsl =0.22.0 =hf670292_3
+    - libsanitizer =16.1.0 =hf2715c6_1
     - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.53.4 =hf4e2dac_0
     - libssh2 =1.11.1 =hcf80075_0
-    - libstdcxx =16.1.0 =h934c35e_0
-    - libstdcxx-devel_linux-64 =15.2.0 =hd446a21_120
-    - libstdcxx-ng =16.1.0 =hdf11a46_0
+    - libstdcxx =16.1.0 =h934c35e_1
+    - libstdcxx-devel_linux-64 =16.1.0 =h41cdd0d_101
+    - libstdcxx-ng =16.1.0 =hdf11a46_1
     - libsystemd0 =261.1 =h6f4a2f1_0
     - libtiff =4.7.2 =h9d88235_0
     - libuuid =2.42.2 =h5347b49_0
