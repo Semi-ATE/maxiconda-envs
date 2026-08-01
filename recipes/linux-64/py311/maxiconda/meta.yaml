@@ -32,7 +32,7 @@ requirements:
     - cython =3.2.9 =py311h0daaf2c_0
     - grayskull =3.1.1 =pyhc364b38_0
     - hypothesis =6.164.0 =py311h902ca64_0
-    - ipython =9.15.0 =pyh53cf698_0
+    - ipython =9.16.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py311h968eb38_2
     - numba =0.66.0 =py311h54c4f82_1
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 528 secondary packages :
+    # 527 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
@@ -109,12 +109,11 @@ requirements:
     - contourpy =1.3.3 =py311h724c32c_4
     - cpython =3.11.15 =py311hd8ed1ab_1
     - cryptography =49.0.0 =py311h2005dd1_0
-    - curl =8.21.0 =hae6b9f4_3
+    - curl =8.21.0 =heca4667_4
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hac629b4_1
     - dbus =1.16.2 =h24cb091_1
     - debugpy =1.8.21 =py311hc665b79_0
-    - decorator =5.3.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - double-conversion =3.4.0 =hecca717_0
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
@@ -169,7 +168,7 @@ requirements:
     - jsonschema =4.26.0 =pyhcf101f3_0
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_0
-    - jupyter-builder =1.1.1 =pyhcf101f3_0
+    - jupyter-builder =1.2.0 =pyhcf101f3_0
     - jupyter-lsp =2.3.1 =pyhcf101f3_0
     - jupyter_client =8.9.1 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyhc90fa1f_0
@@ -197,7 +196,7 @@ requirements:
     - libclang-cpp22.1 =22.1.8 =default_h6c227bf_3
     - libclang13 =22.1.8 =default_h9692865_3
     - libcups =2.3.3 =h7a8fb5f_6
-    - libcurl =8.21.0 =hae6b9f4_3
+    - libcurl =8.21.0 =heca4667_4
     - libdeflate =1.25 =h17f619e_0
     - libdrm =2.4.127 =hb03c661_0
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -239,7 +238,7 @@ requirements:
     - libpciaccess =0.19 =hb03c661_0
     - libpng =1.6.58 =h421ea60_0
     - libpq =18.4 =hd5a49e9_1
-    - libpsl =0.22.0 =hf670292_3
+    - libpsl =0.23.0 =hf670292_0
     - libraqm =0.11.0 =h6406941_0
     - libsanitizer =16.1.0 =hf2715c6_1
     - libsndfile =1.2.2 =hc7d488a_2
@@ -349,7 +348,7 @@ requirements:
     - r-cli =3.6.6 =r45h3697838_0
     - r-clipr =0.8.1 =r45hc72bb7e_0
     - r-clock =0.7.4 =r45h3697838_0
-    - r-cluster =2.1.8.2 =r45heaba542_0
+    - r-cluster =2.1.8.3 =r45heaba542_0
     - r-codetools =0.2_20 =r45hc72bb7e_2
     - r-colorspace =2.1_3 =r45h54b55ab_0
     - r-commonmark =2.0.0 =r45h54b55ab_1
@@ -545,7 +544,7 @@ requirements:
     - tomli-w =1.2.0 =pyhd8ed1ab_0
     - toolz =1.1.0 =pyhd8ed1ab_1
     - tornado =6.5.7 =py311h49ec1c0_0
-    - traitlets =5.15.1 =pyhcf101f3_0
+    - traitlets =5.16.0 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
     - typing-inspection =0.4.2 =pyhcf101f3_2
     - typing_extensions =4.16.0 =pyhcf101f3_0

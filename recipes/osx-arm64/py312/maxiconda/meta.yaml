@@ -31,7 +31,7 @@ requirements:
     - cython =3.2.9 =py312h72d008e_0
     - grayskull =3.1.1 =pyhc364b38_0
     - hypothesis =6.164.0 =py312hb9d4441_0
-    - ipython =9.15.0 =pyh53cf698_0
+    - ipython =9.16.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py312hf2eba6f_2
     - numba =0.66.0 =py312h996432a_1
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 529 secondary packages :
+    # 528 secondary packages :
     - _openmp_mutex =4.5 =7_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
@@ -129,11 +129,10 @@ requirements:
     - contourpy =1.3.3 =py312h3093aea_4
     - cpp-expected =1.3.1 =h4f10f1e_0
     - cpython =3.12.13 =py312hd8ed1ab_0
-    - curl =8.21.0 =h1359186_3
+    - curl =8.21.0 =hf618e03_4
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hb961e35_1
     - debugpy =1.8.21 =py312h6510ced_0
-    - decorator =5.3.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - distro =1.9.0 =pyhd8ed1ab_1
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
@@ -189,7 +188,7 @@ requirements:
     - jsonschema =4.26.0 =pyhcf101f3_0
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_0
-    - jupyter-builder =1.1.1 =pyhcf101f3_0
+    - jupyter-builder =1.2.0 =pyhcf101f3_0
     - jupyter-lsp =2.3.1 =pyhcf101f3_0
     - jupyter_client =8.9.1 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyhc90fa1f_0
@@ -217,7 +216,7 @@ requirements:
     - libclang-cpp22.1 =22.1.8 =default_hdca5a3d_3
     - libclang13 =22.1.8 =default_h3bfd001_3
     - libcompiler-rt =22.1.8 =hd34ed20_1
-    - libcurl =8.21.0 =h1359186_3
+    - libcurl =8.21.0 =hf618e03_4
     - libcxx =22.1.8 =h55c6f16_0
     - libcxx-devel =22.1.8 =h6dc3340_0
     - libcxx-headers =22.1.8 =h707e725_0
@@ -255,7 +254,7 @@ requirements:
     - libopus =1.6.1 =h1a92334_0
     - libpng =1.6.58 =h132b30e_0
     - libpq =18.4 =h08b03b9_1
-    - libpsl =0.22.0 =h7a62e17_3
+    - libpsl =0.23.0 =h7a62e17_0
     - libraqm =0.11.0 =h45af499_0
     - libsigtool =0.1.3 =h98dc951_0
     - libsodium =1.0.22 =h1a92334_1
@@ -367,7 +366,7 @@ requirements:
     - r-cli =3.6.6 =r45h1380947_0
     - r-clipr =0.8.1 =r45hc72bb7e_0
     - r-clock =0.7.4 =r45h1380947_0
-    - r-cluster =2.1.8.2 =r45hae7ecd7_0
+    - r-cluster =2.1.8.3 =r45hae7ecd7_0
     - r-codetools =0.2_20 =r45hc72bb7e_2
     - r-colorspace =2.1_3 =r45hbe92478_0
     - r-commonmark =2.0.0 =r45h6168396_1
@@ -547,7 +546,7 @@ requirements:
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =83.0.0 =pyh332efcf_0
     - sigtool-codesign =0.1.3 =h98dc951_0
-    - simdjson =4.6.5 =h4ddebb9_0
+    - simdjson =4.6.6 =h4ddebb9_0
     - sip =6.15.3 =py312h6d95f44_0
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.3 =pyhcf101f3_1
@@ -566,7 +565,7 @@ requirements:
     - tomli =2.4.1 =pyhcf101f3_0
     - tomli-w =1.2.0 =pyhd8ed1ab_0
     - tornado =6.5.7 =py312h2bbb03f_0
-    - traitlets =5.15.1 =pyhcf101f3_0
+    - traitlets =5.16.0 =pyhcf101f3_0
     - truststore =0.10.4 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
     - typing-inspection =0.4.2 =pyhcf101f3_2

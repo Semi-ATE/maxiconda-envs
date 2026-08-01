@@ -104,7 +104,7 @@ requirements:
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.2 =py310hf54e67a_0
     - cpython =3.10.20 =py310hd8ed1ab_1
-    - curl =8.21.0 =h7c59cd8_3
+    - curl =8.21.0 =h23397ac_4
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h6598af7_1
     - dbus =1.16.2 =h70963c4_1
@@ -160,7 +160,7 @@ requirements:
     - jsonschema =4.26.0 =pyhcf101f3_0
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_0
-    - jupyter-builder =1.1.1 =pyhcf101f3_0
+    - jupyter-builder =1.2.0 =pyhcf101f3_0
     - jupyter-lsp =2.3.1 =pyhcf101f3_0
     - jupyter_client =8.9.1 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyhc90fa1f_0
@@ -188,7 +188,7 @@ requirements:
     - libclang-cpp22.1 =22.1.8 =default_h0cc847a_3
     - libclang13 =22.1.8 =default_hd92691d_3
     - libcups =2.3.3 =h4f2b762_6
-    - libcurl =8.21.0 =h7c59cd8_3
+    - libcurl =8.21.0 =h23397ac_4
     - libdeflate =1.25 =h1af38f5_0
     - libdrm =2.4.127 =he30d5cf_0
     - libedit =3.1.20250104 =pl5321h976ea20_0
@@ -230,7 +230,7 @@ requirements:
     - libpciaccess =0.19 =he30d5cf_0
     - libpng =1.6.58 =h1abf092_0
     - libpq =18.4 =hccacd55_1
-    - libpsl =0.22.0 =h36cc0f4_3
+    - libpsl =0.23.0 =h36cc0f4_0
     - libsanitizer =16.1.0 =h2510bd8_1
     - libsndfile =1.2.2 =h30591a0_2
     - libsodium =1.0.22 =h80f16a2_1
@@ -339,7 +339,7 @@ requirements:
     - r-cli =3.6.6 =r45h08b74da_0
     - r-clipr =0.8.1 =r45hc72bb7e_0
     - r-clock =0.7.4 =r45h08b74da_0
-    - r-cluster =2.1.8.2 =r45h6df9e4a_0
+    - r-cluster =2.1.8.3 =r45h6df9e4a_0
     - r-codetools =0.2_20 =r45hc72bb7e_2
     - r-colorspace =2.1_3 =r45h0557e7b_0
     - r-commonmark =2.0.0 =r45h0557e7b_1
@@ -532,7 +532,7 @@ requirements:
     - tomli =2.4.1 =pyhcf101f3_0
     - tomli-w =1.2.0 =pyhd8ed1ab_0
     - tornado =6.5.7 =py310ha7967c6_0
-    - traitlets =5.15.1 =pyhcf101f3_0
+    - traitlets =5.16.0 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
     - typing-inspection =0.4.2 =pyhcf101f3_2
     - typing_extensions =4.16.0 =pyhcf101f3_0
