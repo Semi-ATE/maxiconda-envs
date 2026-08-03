@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.8.0 =py312h4c3975b_1
     - cython =3.2.9 =py312h68e6be4_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.164.0 =py312h868fb18_0
+    - hypothesis =6.165.0 =py312h868fb18_0
     - ipython =9.16.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py312h6a12a82_2
@@ -141,7 +141,7 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py312h8a5da7c_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
-    - freetype =2.14.3 =ha770c72_0
+    - freetype =2.14.3 =ha770c72_1
     - fribidi =1.0.16 =hb03c661_0
     - frozendict =2.4.7 =pyh851646a_2
     - frozenlist =1.8.0 =py312h447239a_0
@@ -222,8 +222,8 @@ requirements:
     - libexpat =2.8.1 =hecca717_1
     - libffi =3.5.2 =h3435931_0
     - libflac =1.5.0 =he200343_1
-    - libfreetype =2.14.3 =ha770c72_0
-    - libfreetype6 =2.14.3 =h73754d4_0
+    - libfreetype =2.14.3 =ha770c72_1
+    - libfreetype6 =2.14.3 =h73754d4_1
     - libgcc =16.1.0 =ha9f2e26_1
     - libgcc-devel_linux-64 =16.1.0 =h59071f9_101
     - libgcc-ng =16.1.0 =h69a702a_1
