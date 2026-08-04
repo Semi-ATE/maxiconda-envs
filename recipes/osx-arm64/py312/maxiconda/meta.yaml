@@ -31,7 +31,7 @@ requirements:
     - cython =3.2.9 =py312h72d008e_0
     - grayskull =3.1.1 =pyhc364b38_0
     - hypothesis =6.165.0 =py312hb9d4441_0
-    - ipython =9.16.0 =pyh53cf698_0
+    - ipython =9.16.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py312hf2eba6f_2
     - numba =0.66.0 =py312h996432a_1
@@ -115,7 +115,7 @@ requirements:
     - compiler-rt22 =22.1.8 =hd34ed20_1
     - compiler-rt22_osx-arm64 =22.1.8 =h7e67a1e_1
     - compiler-rt_osx-arm64 =22.1.8 =hce30654_1
-    - conda =26.5.3 =py312hc28c600_2
+    - conda =26.7.0 =py312hc28c600_0
     - conda-index =0.12.1 =pyhd8ed1ab_0
     - conda-libmamba-solver =26.7.0 =pyhcf101f3_0
     - conda-lockfiles =0.2.1 =pyhd8ed1ab_0
@@ -168,8 +168,8 @@ requirements:
     - gst-plugins-base =1.26.11 =hda1d4dc_0
     - gstreamer =1.26.11 =h087694b_0
     - h11 =0.16.0 =pyhcf101f3_1
-    - h2 =4.4.0 =pyhcf101f3_0
-    - harfbuzz =14.2.1 =hce30654_1
+    - h2 =4.4.1 =pyhcf101f3_0
+    - harfbuzz =14.3.0 =hce30654_0
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -233,8 +233,8 @@ requirements:
     - libgfortran =16.1.0 =h07b0088_1
     - libgfortran5 =16.1.0 =h32cdfcc_1
     - libglib =2.88.3 =ha08bb59_0
-    - libharfbuzz =14.2.1 =h5a65909_1
-    - libharfbuzz-devel =14.2.1 =h5a65909_1
+    - libharfbuzz =14.3.0 =h5a65909_0
+    - libharfbuzz-devel =14.3.0 =h5a65909_0
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -565,7 +565,7 @@ requirements:
     - tomli =2.4.1 =pyhcf101f3_0
     - tomli-w =1.2.0 =pyhd8ed1ab_0
     - tornado =6.5.7 =py312h2bbb03f_0
-    - traitlets =5.16.0 =pyhcf101f3_0
+    - traitlets =5.16.1 =pyhcf101f3_0
     - truststore =0.10.4 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
     - typing-inspection =0.4.2 =pyhcf101f3_2

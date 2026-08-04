@@ -28,11 +28,11 @@ requirements:
     - aiohttp =3.14.3 =py312he7e3343_0
     - aiomqtt =2.5.1 =pyhcf101f3_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
-    - bitarray =3.8.0 =py312hcd1a082_1
+    - bitarray =3.10.0 =py312h2fc9c67_0
     - cython =3.2.9 =py312hbda70bc_0
     - grayskull =3.1.1 =pyhc364b38_0
     - hypothesis =6.165.0 =py312h5eb8f6c_0
-    - ipython =9.16.0 =pyh53cf698_0
+    - ipython =9.16.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py312h2f630db_2
     - numba =0.66.0 =py312h10407ca_1
@@ -104,7 +104,7 @@ requirements:
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - conda =26.5.3 =py312h6d8504a_2
+    - conda =26.7.0 =py312h6d8504a_0
     - conda-index =0.12.1 =pyhd8ed1ab_0
     - conda-libmamba-solver =26.7.0 =pyhcf101f3_0
     - conda-lockfiles =0.2.1 =pyhd8ed1ab_0
@@ -162,8 +162,8 @@ requirements:
     - gxx_impl_linux-aarch64 =16.1.0 =hd5c6868_1
     - gxx_linux-aarch64 =16.1.0 =h4223dcb_0
     - h11 =0.16.0 =pyhcf101f3_1
-    - h2 =4.4.0 =pyhcf101f3_0
-    - harfbuzz =14.2.1 =h8af1aa0_1
+    - h2 =4.4.1 =pyhcf101f3_0
+    - harfbuzz =14.3.0 =h8af1aa0_0
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -236,8 +236,8 @@ requirements:
     - libglx =1.7.0 =hd24410f_3
     - libglx-devel =1.7.0 =hd24410f_3
     - libgomp =16.1.0 =h8acb6b2_1
-    - libharfbuzz =14.2.1 =h3a99ef3_1
-    - libharfbuzz-devel =14.2.1 =h3a99ef3_1
+    - libharfbuzz =14.3.0 =h3a99ef3_0
+    - libharfbuzz-devel =14.3.0 =h3a99ef3_0
     - libiconv =1.18 =h90929bb_2
     - libjpeg-turbo =3.2.0 =he30d5cf_0
     - liblapack =3.11.0 =8_h88aeb00_openblas
@@ -576,7 +576,7 @@ requirements:
     - tomli =2.4.1 =pyhcf101f3_0
     - tomli-w =1.2.0 =pyhd8ed1ab_0
     - tornado =6.5.7 =py312hefbd42c_0
-    - traitlets =5.16.0 =pyhcf101f3_0
+    - traitlets =5.16.1 =pyhcf101f3_0
     - truststore =0.10.4 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
     - typing-inspection =0.4.2 =pyhcf101f3_2

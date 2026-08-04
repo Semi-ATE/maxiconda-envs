@@ -28,11 +28,11 @@ requirements:
     - aiohttp =3.14.3 =py311ha95a472_0
     - aiomqtt =2.5.1 =pyhcf101f3_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
-    - bitarray =3.8.0 =py311hc71d4c3_1
+    - bitarray =3.10.0 =py311h15eb09d_0
     - cython =3.2.9 =py311h3007246_0
     - grayskull =3.1.1 =pyhc364b38_0
     - hypothesis =6.165.0 =py311h3a14e8f_0
-    - ipython =9.16.0 =pyh53cf698_0
+    - ipython =9.16.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py311h9895961_2
     - numba =0.66.0 =py311h9c9cfdf_1
@@ -156,8 +156,8 @@ requirements:
     - gst-plugins-base =1.26.11 =h79212b8_0
     - gstreamer =1.26.11 =h5bdcca5_0
     - h11 =0.16.0 =pyhcf101f3_1
-    - h2 =4.4.0 =pyhcf101f3_0
-    - harfbuzz =14.2.1 =h694c41f_1
+    - h2 =4.4.1 =pyhcf101f3_0
+    - harfbuzz =14.3.0 =h694c41f_0
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -219,8 +219,8 @@ requirements:
     - libgfortran =16.1.0 =h7e5c614_1
     - libgfortran5 =16.1.0 =h70d9f54_1
     - libglib =2.88.3 =hf28f236_0
-    - libharfbuzz =14.2.1 =h97ceea7_1
-    - libharfbuzz-devel =14.2.1 =h97ceea7_1
+    - libharfbuzz =14.3.0 =h97ceea7_0
+    - libharfbuzz-devel =14.3.0 =h97ceea7_0
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
@@ -534,7 +534,7 @@ requirements:
     - tomli-w =1.2.0 =pyhd8ed1ab_0
     - toolz =1.1.0 =pyhd8ed1ab_1
     - tornado =6.5.7 =py311h0a33410_0
-    - traitlets =5.16.0 =pyhcf101f3_0
+    - traitlets =5.16.1 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
     - typing-inspection =0.4.2 =pyhcf101f3_2
     - typing_extensions =4.16.0 =pyhcf101f3_0

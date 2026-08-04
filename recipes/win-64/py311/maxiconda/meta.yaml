@@ -28,11 +28,11 @@ requirements:
     - aiohttp =3.14.3 =py311ha56572f_0
     - aiomqtt =2.5.1 =pyhcf101f3_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
-    - bitarray =3.8.0 =py311h3485c13_1
+    - bitarray =3.10.0 =py311hf893f09_0
     - cython =3.2.9 =py311h9990397_0
     - grayskull =3.1.1 =pyhc364b38_0
     - hypothesis =6.165.0 =py311hf51aa87_0
-    - ipython =9.16.0 =pyhe2676ad_0
+    - ipython =9.16.1 =pyhe2676ad_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py311hce7227b_2
     - numba =0.66.0 =py311hb7ce351_1
@@ -139,8 +139,8 @@ requirements:
     - gstreamer =1.26.11 =hae9036a_0
     - gxx_impl_win-64 =16.1.0 =he3d2c83_1
     - h11 =0.16.0 =pyhcf101f3_1
-    - h2 =4.4.0 =pyhcf101f3_0
-    - harfbuzz =14.2.1 =h57928b3_1
+    - h2 =4.4.1 =pyhcf101f3_0
+    - harfbuzz =14.3.0 =h57928b3_0
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -192,8 +192,8 @@ requirements:
     - libgfortran5 =16.1.0 =h94075d5_1
     - libglib =2.88.3 =h7ce1215_0
     - libgomp =16.1.0 =h8ee18e1_1
-    - libharfbuzz =14.2.1 =h03b5201_1
-    - libharfbuzz-devel =14.2.1 =h03b5201_1
+    - libharfbuzz =14.3.0 =h03b5201_0
+    - libharfbuzz-devel =14.3.0 =h03b5201_0
     - libhwloc =2.13.0 =default_h049141e_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
@@ -284,7 +284,7 @@ requirements:
     - python-utils =4.0.0 =pyh332efcf_0
     - python_abi =3.11 =8_cp311
     - pywin32 =312 =py311hefeebc8_0
-    - pywinpty =2.0.15 =py311hda3d55a_1
+    - pywinpty =3.0.5 =py311hda3d55a_0
     - pyzmq =27.1.0 =py311h7a22eb7_3
     - qhull =2020.2 =hc790b64_5
     - qt-main =5.15.15 =hc95f6a6_8
@@ -502,7 +502,7 @@ requirements:
     - tomli-w =1.2.0 =pyhd8ed1ab_0
     - toolz =1.1.0 =pyhd8ed1ab_1
     - tornado =6.5.7 =py311h3485c13_0
-    - traitlets =5.16.0 =pyhcf101f3_0
+    - traitlets =5.16.1 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
     - typing-inspection =0.4.2 =pyhcf101f3_2
     - typing_extensions =4.16.0 =pyhcf101f3_0
