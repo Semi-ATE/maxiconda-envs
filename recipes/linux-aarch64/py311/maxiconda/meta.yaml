@@ -95,7 +95,7 @@ requirements:
     - cached_property =1.5.2 =pyha770c72_2
     - cairo =1.18.4 =h0b6afd8_1
     - certifi =2026.7.22 =pyhd8ed1ab_0
-    - cffi =2.1.0 =py311h460c349_0
+    - cffi =2.1.1 =py311h460c349_0
     - charset-normalizer =3.4.9 =pyhd8ed1ab_0
     - click =8.2.1 =pyh707e725_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
@@ -256,14 +256,14 @@ requirements:
     - libvulkan-loader =1.4.357.0 =h8b8848b_0
     - libwebp-base =1.6.0 =ha2e29f5_0
     - libxcb =1.17.0 =h262b8f6_0
-    - libxcrypt =4.4.36 =h31becfc_1
+    - libxcrypt =4.4.38 =h80f16a2_0
     - libxkbcommon =1.13.2 =h3c6a4c8_0
     - libxml2 =2.15.3 =h869d058_0
     - libxml2-16 =2.15.3 =h79dcc73_0
     - libxslt =1.1.43 =h6700d25_1
     - libzlib =1.3.2 =hdc9db2a_3
     - llvmlite =0.48.0 =py311h0e6234f_1
-    - make =4.4.1 =h2a6d0cb_2
+    - make =4.4.1 =he30d5cf_3
     - markupsafe =3.0.3 =py311h2dad8b0_1
     - matplotlib-base =3.11.1 =py311h0ee92aa_2
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
@@ -287,7 +287,7 @@ requirements:
     - openldap =2.6.13 =h2fb54aa_0
     - openssl =3.6.3 =h546c87b_0
     - overrides =7.7.0 =pyhd8ed1ab_1
-    - packaging =26.2 =pyhc364b38_0
+    - packaging =26.3 =pyhc364b38_0
     - pandoc =3.10.1 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.58.0 =h8547ced_0
@@ -339,7 +339,7 @@ requirements:
     - r-blob =1.3.0 =r45hc72bb7e_0
     - r-boot =1.3_32 =r45hc72bb7e_1
     - r-broom =1.0.13 =r45hc72bb7e_0
-    - r-bslib =0.11.0 =r45hc72bb7e_0
+    - r-bslib =0.12.0 =r45hc72bb7e_0
     - r-cachem =1.1.0 =r45h0557e7b_2
     - r-callr =3.7.6 =r45hc72bb7e_2
     - r-caret =7.0_1 =r45h0557e7b_0
