@@ -31,11 +31,11 @@ requirements:
     - bitarray =3.10.0 =py312hba6025d_0
     - cython =3.2.9 =py312h7305618_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.165.0 =py312hc1db7ba_0
+    - hypothesis =6.165.1 =py312hc1db7ba_0
     - ipython =9.16.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py312had31f23_2
-    - numba =0.66.0 =py312h1025f05_1
+    - numba =0.66.0 =py312ha26acea_1
     - numpy =2.4.6 =py312h746d82c_0
     - openpyxl =3.1.5 =py312h35dbd26_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -89,7 +89,7 @@ requirements:
     - brotli-bin =1.2.0 =h8616949_1
     - brotli-python =1.2.0 =py312h4b46afd_1
     - bwidget =1.10.1 =h694c41f_1
-    - bzip2 =1.0.8 =h500dc9f_9
+    - bzip2 =1.0.8 =h374f1ed_10
     - c-ares =1.34.8 =ha1e9b39_0
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_2
@@ -128,7 +128,7 @@ requirements:
     - conda-self =0.2.1 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py312hb0c38da_4
-    - cpp-expected =1.3.1 =h0ba0a54_0
+    - cpp-expected =1.3.1 =hebe015c_1
     - cpython =3.12.13 =py312hd8ed1ab_0
     - curl =8.21.0 =h7dba2e6_4
     - cycler =0.12.1 =pyhcf101f3_2
@@ -141,7 +141,7 @@ requirements:
     - exceptiongroup =1.3.1 =pyhd8ed1ab_0
     - executing =2.2.1 =pyhd8ed1ab_0
     - filelock =3.32.2 =pyhd8ed1ab_0
-    - fmt =12.1.0 =hda137b5_0
+    - fmt =12.1.0 =he6aba6a_1
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
@@ -152,13 +152,13 @@ requirements:
     - fonttools =4.63.0 =py312heb39f77_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.14.3 =h694c41f_1
-    - fribidi =1.0.16 =h8616949_0
+    - fribidi =1.0.16 =ha1e9b39_1
     - frozendict =2.4.7 =pyh851646a_2
     - frozenlist =1.8.0 =py312h90c63f8_0
     - gcc_impl_osx-64 =16.1.0 =h0c54a16_1
     - gfortran_impl_osx-64 =16.1.0 =hf2a1d47_1
     - gitdb =4.0.12 =pyhd8ed1ab_0
-    - gitpython =3.1.57 =pyhd8ed1ab_0
+    - gitpython =3.1.58 =pyhd8ed1ab_0
     - glib =2.88.3 =h3950e99_0
     - glib-tools =2.88.3 =h943dd1b_0
     - gmp =6.3.0 =hf036a51_2
@@ -221,9 +221,9 @@ requirements:
     - libcxx =22.1.8 =h19cb2f5_0
     - libcxx-devel =22.1.8 =h7c275be_0
     - libcxx-headers =22.1.8 =h707e725_0
-    - libdeflate =1.25 =h517ebb2_0
+    - libdeflate =1.25 =h7ad9622_1
     - libedit =3.1.20250104 =pl5321ha958ccf_0
-    - libev =4.33 =h10d778d_2
+    - libev =4.33 =ha3d0635_3
     - libexpat =2.8.1 =hcc62823_1
     - libffi =3.5.2 =hd1f9c09_0
     - libfreetype =2.14.3 =h694c41f_1
@@ -239,7 +239,7 @@ requirements:
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
-    - libjpeg-turbo =3.2.0 =ha1e9b39_0
+    - libjpeg-turbo =3.2.0 =ha1e9b39_1
     - liblapack =3.11.0 =8_h859234e_openblas
     - libllvm18 =18.1.8 =default_h9399c5b_12
     - libllvm22 =22.1.8 =hab754da_1
@@ -263,9 +263,9 @@ requirements:
     - libsqlite =3.53.4 =h77d7759_0
     - libssh2 =1.11.1 =hed3591d_0
     - libtiff =4.7.2 =h95d6d7f_0
-    - libuv =1.52.1 =ha3d0635_0
+    - libuv =1.52.1 =ha3d0635_1
     - libvorbis =1.3.7 =ha059160_2
-    - libwebp-base =1.6.0 =hb807250_0
+    - libwebp-base =1.6.0 =hb276fe9_1
     - libxcb =1.17.0 =hf1f96e2_0
     - libxml2 =2.15.3 =h953d39d_0
     - libxml2-16 =2.15.3 =h7a90416_0
@@ -293,14 +293,14 @@ requirements:
     - nbformat =5.10.4 =pyhd8ed1ab_1
     - ncurses =6.6 =hcc0dc9a_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - nlohmann_json-abi =3.12.0 =h0f90c79_1
+    - nlohmann_json-abi =3.12.0 =h0f90c79_2
     - notebook =7.6.1 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.38 =hee0b3f1_0
     - nss =3.118 =h2b2a826_0
     - openjpeg =2.5.4 =h52bb76a_0
     - openldap =2.6.13 =h2f5043c_0
-    - openssl =3.6.3 =hc881268_0
+    - openssl =3.6.3 =hc881268_1
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.10.1 =h694c41f_0
@@ -310,7 +310,7 @@ requirements:
     - pcre2 =10.47 =h13923f0_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pillow =12.3.0 =py312he84af14_0
-    - pip =26.2 =pyh8b19718_0
+    - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h2fb4741_2
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
     - platformdirs =4.11.0 =pyhcf101f3_0
@@ -501,7 +501,7 @@ requirements:
     - r-sparsevctrs =0.3.6 =r45hdab4d57_0
     - r-spatial =7.3_18 =r45h735ac91_1
     - r-squarem =2026.1 =r45hc72bb7e_0
-    - r-stringi =1.8.7 =r45h64d3038_2
+    - r-stringi =1.8.9 =r45h64d3038_0
     - r-stringr =1.6.0 =r45h785f33e_0
     - r-survival =3.8_9 =r45h8eed41d_0
     - r-sys =3.4.3 =r45h735ac91_1
@@ -533,8 +533,8 @@ requirements:
     - rapidfuzz =3.14.5 =py312h959a22e_0
     - readline =8.3 =h68b038d_0
     - referencing =0.37.0 =pyhcf101f3_0
-    - reproc =14.2.7.post0 =ha1e9b39_1
-    - reproc-cpp =14.2.7.post0 =hcc62823_1
+    - reproc =14.2.7.post0 =h2fb4741_2
+    - reproc-cpp =14.2.7.post0 =h3e77c00_2
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
@@ -554,10 +554,10 @@ requirements:
     - sniffio =1.3.1 =pyhd8ed1ab_2
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
     - soupsieve =2.9.1 =pyhd8ed1ab_0
-    - spdlog =1.17.0 =h30f01e4_1
+    - spdlog =1.17.0 =hff65b85_2
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
-    - tapi =1600.0.11.8 =h8d8e812_2
+    - tapi =1600.0.11.8 =h44950e2_3
     - terminado =0.18.1 =pyhc90fa1f_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =hb794df6_3
@@ -586,7 +586,7 @@ requirements:
     - xorg-libxau =1.0.12 =h8616949_1
     - xorg-libxdmcp =1.1.5 =h8616949_1
     - yaml =0.2.5 =h4132b18_3
-    - yaml-cpp =0.8.0 =h92383a6_0
+    - yaml-cpp =0.8.0 =h2fb4741_1
     - yarl =1.24.5 =py312heb39f77_0
     - zeromq =4.3.5 =h84953be_11
     - zipp =4.1.0 =pyhcf101f3_0

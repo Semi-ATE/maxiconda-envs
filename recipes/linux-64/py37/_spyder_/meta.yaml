@@ -56,7 +56,7 @@ requirements:
     - brotli =1.2.0 =hed03a55_1
     - brotli-bin =1.2.0 =hb03c661_1
     - brotli-python =1.0.9 =py37hd23a5d3_7
-    - bzip2 =1.0.8 =hda65f42_9
+    - bzip2 =1.0.8 =hda65f42_10
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cairo =1.16.0 =ha61ee94_1012
     - certifi =2024.8.30 =pyhd8ed1ab_0
@@ -146,7 +146,7 @@ requirements:
     - libclang13 =15.0.7 =default_h5d6823c_5
     - libcups =2.3.3 =h36d4200_3
     - libdb =6.2.32 =h9c3ff4c_0
-    - libdeflate =1.25 =h17f619e_0
+    - libdeflate =1.25 =hd45a770_1
     - libedit =3.1.20250104 =pl5321h7949ede_0
     - libevent =2.1.10 =h28343ad_4
     - libexpat =2.8.1 =hecca717_1
@@ -326,7 +326,7 @@ requirements:
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
     - xcb-util =0.4.0 =h166bdaf_0
     - xcb-util-image =0.4.0 =h166bdaf_0
-    - xcb-util-keysyms =0.4.0 =h166bdaf_0
+    - xcb-util-keysyms =0.4.0 =h516909a_0
     - xcb-util-renderutil =0.3.9 =h166bdaf_0
     - xcb-util-wm =0.4.1 =h166bdaf_0
     - xkeyboard-config =2.38 =h0b41bf4_0

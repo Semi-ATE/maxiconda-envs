@@ -90,7 +90,7 @@ requirements:
     - brotli-bin =1.2.0 =hb03c661_1
     - brotli-python =1.0.9 =py38hfa26641_8
     - bwidget =1.10.1 =ha770c72_1
-    - bzip2 =1.0.8 =hda65f42_9
+    - bzip2 =1.0.8 =hda65f42_10
     - c-ares =1.34.8 =hb03c661_0
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_2
@@ -127,7 +127,7 @@ requirements:
     - fonttools =4.53.1 =py38h2019614_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.14.3 =ha770c72_1
-    - fribidi =1.0.16 =hb03c661_0
+    - fribidi =1.0.16 =hb03c661_1
     - frozenlist =1.4.1 =py38h01eb140_0
     - gcc_impl_linux-64 =16.1.0 =h5fcb69b_1
     - gcc_linux-64 =16.1.0 =h5fd2508_0
@@ -192,11 +192,11 @@ requirements:
     - libclang13 =22.1.8 =default_h9692865_3
     - libcups =2.3.3 =h7a8fb5f_6
     - libcurl =8.21.0 =heca4667_4
-    - libdeflate =1.25 =h17f619e_0
+    - libdeflate =1.25 =hd45a770_1
     - libdrm =2.4.127 =hb03c661_0
     - libedit =3.1.20250104 =pl5321h7949ede_0
     - libegl =1.7.0 =ha4b6fd6_3
-    - libev =4.33 =hd590300_2
+    - libev =4.33 =h280c20c_3
     - libevent =2.1.12 =hf998b51_1
     - libexpat =2.8.1 =hecca717_1
     - libffi =3.5.2 =h3435931_0
@@ -217,7 +217,7 @@ requirements:
     - libharfbuzz =14.3.0 =h17a8019_0
     - libharfbuzz-devel =14.3.0 =h17a8019_0
     - libiconv =1.18 =h3b78370_2
-    - libjpeg-turbo =3.2.0 =hb03c661_0
+    - libjpeg-turbo =3.2.0 =hb03c661_1
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm14 =14.0.6 =hcd5def8_4
     - libllvm22 =22.1.8 =hf7376ad_1
@@ -229,7 +229,7 @@ requirements:
     - libogg =1.3.5 =hd0c01bc_1
     - libopenblas =0.3.25 =pthreads_h413a1c8_0
     - libopus =1.6.1 =h280c20c_0
-    - libpciaccess =0.19 =hb03c661_0
+    - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.58 =h421ea60_0
     - libpq =18.4 =hd5a49e9_1
     - libpsl =0.23.0 =hf670292_0
@@ -244,9 +244,9 @@ requirements:
     - libsystemd0 =261.1 =h6f4a2f1_0
     - libtiff =4.7.2 =h9d88235_0
     - libuuid =2.42.2 =h5347b49_0
-    - libuv =1.52.1 =h280c20c_0
+    - libuv =1.52.1 =h280c20c_1
     - libvorbis =1.3.7 =h54a6638_2
-    - libwebp-base =1.6.0 =hd42ef1d_0
+    - libwebp-base =1.6.0 =hd42ef1d_1
     - libxcb =1.17.0 =h8a09558_0
     - libxcrypt =4.4.38 =h280c20c_0
     - libxkbcommon =1.13.2 =hca5e8e5_0
@@ -276,7 +276,7 @@ requirements:
     - nss =3.118 =h445c969_0
     - openjpeg =2.5.4 =h55fea9a_0
     - openldap =2.6.13 =hbde042b_0
-    - openssl =3.6.3 =h35e630c_0
+    - openssl =3.6.3 =h35e630c_1
     - overrides =7.7.0 =pyhd8ed1ab_0
     - packaging =26.2 =pyhc364b38_0
     - pandoc =3.10.1 =ha770c72_0
@@ -472,7 +472,7 @@ requirements:
     - r-sparsevctrs =0.3.6 =r45h54b55ab_0
     - r-spatial =7.3_18 =r45h54b55ab_1
     - r-squarem =2026.1 =r45hc72bb7e_0
-    - r-stringi =1.8.7 =r45h3d52c89_2
+    - r-stringi =1.8.9 =r45h3d52c89_0
     - r-stringr =1.6.0 =r45h785f33e_0
     - r-survival =3.8_9 =r45h54b55ab_0
     - r-sys =3.4.3 =r45h54b55ab_1

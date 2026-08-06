@@ -46,7 +46,7 @@ requirements:
     - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
     - bcrypt =3.2.2 =py37h994c40b_0
     - brotli-python =1.0.9 =py37h0582d14_7
-    - bzip2 =1.0.8 =h500dc9f_9
+    - bzip2 =1.0.8 =h374f1ed_10
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.15.1 =py37h7346b73_1
@@ -84,7 +84,7 @@ requirements:
     - libiconv =1.18 =h57a12c2_2
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
-    - libjpeg-turbo =3.2.0 =ha1e9b39_0
+    - libjpeg-turbo =3.2.0 =ha1e9b39_1
     - libllvm18 =18.1.8 =default_h9399c5b_12
     - libllvm22 =22.1.8 =hab754da_1
     - liblzma =5.8.3 =hbb4bfdb_0
@@ -107,7 +107,7 @@ requirements:
     - nspr =4.38 =hee0b3f1_0
     - nss =3.118 =h2b2a826_0
     - openldap =2.6.10 =hd8a590d_0
-    - openssl =3.6.3 =hc881268_0
+    - openssl =3.6.3 =hc881268_1
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pcre2 =10.46 =ha3e7e28_0

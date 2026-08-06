@@ -62,7 +62,7 @@ requirements:
     - brotli =1.2.0 =h2d644bc_1
     - brotli-bin =1.2.0 =hfd05255_1
     - brotli-python =1.0.9 =py37hf2a7229_7
-    - bzip2 =1.0.8 =h0ad9c76_9
+    - bzip2 =1.0.8 =h0ad9c76_10
     - ca-certificates =2026.7.22 =h4c7d964_0
     - cached-property =1.5.2 =hd8ed1ab_2
     - cached_property =1.5.2 =pyha770c72_1
@@ -106,7 +106,7 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.38.0 =py37h51bd9d9_0
     - freetype =2.12.1 =hdaf720e_2
-    - fribidi =1.0.16 =hfd05255_0
+    - fribidi =1.0.16 =hfd05255_1
     - funcy =2.0 =pyhd8ed1ab_0
     - future =0.18.2 =py37h03978a9_5
     - gensim =3.8.3 =py37hf2a7229_4
@@ -166,7 +166,7 @@ requirements:
     - libcblas =3.9.0 =35_h2a3cdd5_mkl
     - libclang =15.0.7 =default_h3a3e6c3_5
     - libclang13 =15.0.7 =default_hf64faad_5
-    - libdeflate =1.25 =h51727cc_0
+    - libdeflate =1.25 =h1a1d4e4_1
     - libexpat =2.8.1 =hac47afa_1
     - libffi =3.7.0 =h3d046cb_0
     - libgd =2.3.3 =h891f43f_3
@@ -189,7 +189,7 @@ requirements:
     - libtiff =4.4.0 =hc4f729c_5
     - libvorbis =1.3.7 =h5112557_2
     - libwebp =1.6.0 =h4d5522a_0
-    - libwebp-base =1.6.0 =h4d5522a_0
+    - libwebp-base =1.6.0 =h4d5522a_1
     - libxcb =1.13 =hcd874cb_1004
     - libxgboost =2.0.3 =cpu_hb3f76d0_4
     - libxml2 =2.12.7 =h283a6d9_1
@@ -222,7 +222,7 @@ requirements:
     - oauthlib =3.2.2 =pyhd8ed1ab_0
     - opencl-headers =2025.06.13 =h826ebb9_0
     - openjpeg =2.5.0 =hc9384bd_1
-    - openssl =3.6.3 =hf411b9b_0
+    - openssl =3.6.3 =hf411b9b_1
     - packaging =23.2 =pyhd8ed1ab_0
     - pandas-profiling =3.6.3 =pyhd8ed1ab_0
     - pango =1.50.14 =hdffb7b3_0

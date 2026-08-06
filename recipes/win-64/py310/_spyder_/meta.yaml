@@ -62,7 +62,7 @@ requirements:
     - brotli =1.2.0 =h2d644bc_1
     - brotli-bin =1.2.0 =hfd05255_1
     - brotli-python =1.2.0 =py310hfff998d_1
-    - bzip2 =1.0.8 =h0ad9c76_9
+    - bzip2 =1.0.8 =h0ad9c76_10
     - ca-certificates =2026.7.22 =h4c7d964_0
     - cairo =1.18.4 =h477c42c_1
     - cattrs =26.1.0 =pyhcf101f3_1
@@ -99,7 +99,7 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py310hdb0e946_0
     - freetype =2.14.3 =h57928b3_1
-    - fribidi =1.0.16 =hfd05255_0
+    - fribidi =1.0.16 =hfd05255_1
     - frozenlist =1.8.0 =py310had1666a_0
     - fzf =0.74.2 =hd02998f_0
     - glib =2.88.3 =h3750008_0
@@ -144,7 +144,7 @@ requirements:
     - libbrotlienc =1.2.0 =hfd05255_1
     - libcblas =3.11.0 =8_h2a3cdd5_mkl
     - libclang13 =22.1.8 =default_hf735972_3
-    - libdeflate =1.25 =h51727cc_0
+    - libdeflate =1.25 =h1a1d4e4_1
     - libexpat =2.8.1 =hac47afa_1
     - libffi =3.5.2 =h3d046cb_0
     - libfreetype =2.14.3 =h57928b3_1
@@ -158,7 +158,7 @@ requirements:
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
-    - libjpeg-turbo =3.2.0 =hfd05255_0
+    - libjpeg-turbo =3.2.0 =hfd05255_1
     - liblapack =3.11.0 =8_hf9ab0e9_mkl
     - liblzma =5.8.3 =hfd05255_0
     - libogg =1.3.5 =h2466b09_1
@@ -170,7 +170,7 @@ requirements:
     - libvorbis =1.3.7 =h5112557_2
     - libvulkan-loader =1.4.357.0 =h477610d_0
     - libwebp =1.6.0 =h4d5522a_0
-    - libwebp-base =1.6.0 =h4d5522a_0
+    - libwebp-base =1.6.0 =h4d5522a_1
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_10
     - libxcb =1.17.0 =h0e4246c_0
     - libxml2 =2.15.3 =h8ef44ab_0
@@ -201,7 +201,7 @@ requirements:
     - numpydoc =1.10.0 =pyhcf101f3_0
     - onemkl-license =2026.1.0 =h57928b3_233
     - openjpeg =2.5.4 =h0e57b4f_0
-    - openssl =3.6.3 =hf411b9b_0
+    - openssl =3.6.3 =hf411b9b_1
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.10.1 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
@@ -212,7 +212,7 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =12.3.0 =py310h712baa7_0
-    - pip =26.2 =pyh8b19718_0
+    - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h5112557_2
     - platformdirs =4.11.0 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1

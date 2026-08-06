@@ -46,7 +46,7 @@ requirements:
     - boost-cpp =1.78.0 =h31500c2_2
     - brotli =1.2.0 =hf139dec_1
     - brotli-bin =1.2.0 =h8616949_1
-    - bzip2 =1.0.8 =h500dc9f_9
+    - bzip2 =1.0.8 =h374f1ed_10
     - c-ares =1.34.8 =ha1e9b39_0
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cairo =1.16.0 =h56d7d38_1012
@@ -106,9 +106,9 @@ requirements:
     - libcurl =8.1.2 =hbee3ae8_0
     - libcxx =22.1.8 =h19cb2f5_0
     - libcxx-devel =16.0.6 =h8f8a49f_2
-    - libdeflate =1.25 =h517ebb2_0
+    - libdeflate =1.25 =h7ad9622_1
     - libedit =3.1.20250104 =pl5321ha958ccf_0
-    - libev =4.33 =h10d778d_2
+    - libev =4.33 =ha3d0635_3
     - libexpat =2.8.1 =hcc62823_1
     - libffi =3.4.6 =h281671d_1
     - libfreetype =2.14.3 =h694c41f_1
@@ -138,7 +138,7 @@ requirements:
     - libssh2 =1.11.0 =hd019ec5_0
     - libtiff =4.4.0 =h6268bbc_5
     - libvorbis =1.3.7 =ha059160_2
-    - libwebp-base =1.6.0 =hb807250_0
+    - libwebp-base =1.6.0 =hb276fe9_1
     - libxcb =1.13 =h0d85af4_1004
     - libxml2 =2.10.3 =h201ad9d_4
     - libzip =1.10.1 =hc158999_3

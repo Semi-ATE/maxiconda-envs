@@ -38,7 +38,7 @@ requirements:
     - _openmp_mutex =4.5 =20_gnu
     - alsa-lib =1.2.16.1 =hb03c661_0
     - asttokens =3.0.0 =pyhd8ed1ab_1
-    - bzip2 =1.0.8 =hda65f42_9
+    - bzip2 =1.0.8 =hda65f42_10
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cairo =1.18.4 =h3394656_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
@@ -101,7 +101,7 @@ requirements:
     - libglx =1.7.0 =ha4b6fd6_3
     - libgomp =16.1.0 =he0feb66_1
     - libiconv =1.18 =h3b78370_2
-    - libjpeg-turbo =3.2.0 =hb03c661_0
+    - libjpeg-turbo =3.2.0 =hb03c661_1
     - liblapack =3.11.0 =8_h47877c9_openblas
     - libllvm20 =20.1.8 =hecd9e04_0
     - libllvm21 =21.1.0 =hecd9e04_0
@@ -112,7 +112,7 @@ requirements:
     - libopenblas =0.3.33 =pthreads_h94d23a6_0
     - libopengl =1.7.0 =ha4b6fd6_3
     - libopus =1.6.1 =h280c20c_0
-    - libpciaccess =0.19 =hb03c661_0
+    - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.58 =h421ea60_0
     - libpq =17.7 =h5c52fec_1
     - libsndfile =1.2.2 =hc7d488a_2
@@ -139,7 +139,7 @@ requirements:
     - nspr =4.38 =h29cc59b_0
     - nss =3.118 =h445c969_0
     - openldap =2.6.10 =he970967_0
-    - openssl =3.6.3 =h35e630c_0
+    - openssl =3.6.3 =h35e630c_1
     - packaging =26.3 =pyhc364b38_0
     - parso =0.8.4 =pyhd8ed1ab_1
     - pcre2 =10.44 =hc749103_2
