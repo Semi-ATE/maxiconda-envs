@@ -100,12 +100,12 @@ requirements:
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hc8bcfa4_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
-    - clang =22.1.8 =default_cfg_hc564e75_3
-    - clang-22 =22.1.8 =default_h9a620b7_3
-    - clang-scan-deps =22.1.8 =default_hb9cff66_3
-    - clang_impl_osx-64 =22.1.8 =default_h0f45732_3
+    - clang =22.1.8 =default_cfg_h4c2176b_4
+    - clang-22 =22.1.8 =default_h4894ec9_4
+    - clang-scan-deps =22.1.8 =default_hf44d2de_4
+    - clang_impl_osx-64 =22.1.8 =default_hf44d2de_4
     - clang_osx-64 =22.1.8 =h97b245c_34
-    - clangxx_impl_osx-64 =22.1.8 =default_h7e3b1ed_3
+    - clangxx_impl_osx-64 =22.1.8 =default_h38dfeb4_4
     - clangxx_osx-64 =22.1.8 =h97b245c_34
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.1.0 =pyhd8ed1ab_1
@@ -195,8 +195,8 @@ requirements:
     - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
-    - libclang-cpp22.1 =22.1.8 =default_h5a1b869_3
-    - libclang13 =22.1.8 =default_h9a620b7_3
+    - libclang-cpp22.1 =22.1.8 =default_hf44d2de_4
+    - libclang13 =22.1.8 =default_h4894ec9_4
     - libcompiler-rt =22.1.8 =h1637cdf_1
     - libcurl =8.21.0 =h7dba2e6_4
     - libcxx =22.1.8 =h19cb2f5_0

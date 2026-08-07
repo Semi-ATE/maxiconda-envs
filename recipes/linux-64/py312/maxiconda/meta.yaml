@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.10.0 =py312h5253ce2_0
     - cython =3.2.9 =py312h68e6be4_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.165.1 =py312h868fb18_0
+    - hypothesis =6.165.2 =py312h868fb18_0
     - ipython =9.16.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py312h6a12a82_2
@@ -206,14 +206,14 @@ requirements:
     - libbrotlicommon =1.2.0 =hb03c661_1
     - libbrotlidec =1.2.0 =hb03c661_1
     - libbrotlienc =1.2.0 =hb03c661_1
-    - libcap =2.78 =hd0affe5_0
+    - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =8_h0358290_openblas
-    - libclang-cpp22.1 =22.1.8 =default_h6c227bf_3
-    - libclang13 =22.1.8 =default_h9692865_3
+    - libclang-cpp22.1 =22.1.8 =default_h08c5240_4
+    - libclang13 =22.1.8 =default_h114c9b5_4
     - libcups =2.3.3 =h7a8fb5f_6
     - libcurl =8.21.0 =heca4667_4
     - libdeflate =1.25 =hd45a770_1
-    - libdrm =2.4.127 =hb03c661_0
+    - libdrm =2.4.127 =hb03c661_1
     - libedit =3.1.20250104 =pl5321h7949ede_0
     - libegl =1.7.0 =ha4b6fd6_3
     - libegl-devel =1.7.0 =ha4b6fd6_3
@@ -289,7 +289,7 @@ requirements:
     - markupsafe =3.0.3 =py312h8a5da7c_1
     - matplotlib-base =3.11.1 =py312h4c94fcb_2
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
-    - menuinst =2.5.2 =py312h20c3967_0
+    - menuinst =2.5.2 =py312h20c3967_1
     - mistune =3.3.4 =pyhcf101f3_0
     - mpc =1.4.0 =he0a73b1_0
     - mpfr =4.2.2 =he0a73b1_0
