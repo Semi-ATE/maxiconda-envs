@@ -109,7 +109,7 @@ requirements:
     - glib-tools =2.88.3 =h5f197ff_0
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.3.0 =py312he1ee7cc_1
-    - graphite2 =1.3.15 =hf6b4638_0
+    - graphite2 =1.3.15 =h784d473_1
     - gst-plugins-base =1.26.11 =hda1d4dc_0
     - gstreamer =1.26.11 =h087694b_0
     - h2 =4.4.1 =pyhcf101f3_0
@@ -142,11 +142,11 @@ requirements:
     - krb5 =1.22.2 =hfd3d5f3_1
     - lcms2 =2.19.1 =hdfa7624_1
     - lerc =4.2.0 =h1eee2c3_0
-    - libblas =3.11.0 =8_h51639a9_openblas
+    - libblas =3.11.0 =9_h51639a9_openblas
     - libbrotlicommon =1.2.0 =hc919400_1
     - libbrotlidec =1.2.0 =hc919400_1
     - libbrotlienc =1.2.0 =hc919400_1
-    - libcblas =3.11.0 =8_hb0561ab_openblas
+    - libcblas =3.11.0 =9_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp22.1 =22.1.8 =default_hc257da1_4
     - libclang13 =22.1.8 =default_h131685f_4
@@ -166,13 +166,13 @@ requirements:
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
     - libjpeg-turbo =3.2.0 =h84a0fba_1
-    - liblapack =3.11.0 =8_hd9741b5_openblas
+    - liblapack =3.11.0 =9_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm22 =22.1.8 =h89af1be_1
     - liblzma =5.8.3 =h8088a28_0
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
-    - libopenblas =0.3.33 =openmp_he657e61_0
+    - libopenblas =0.3.34 =openmp_he657e61_0
     - libopus =1.6.1 =h1a92334_0
     - libpng =1.6.58 =h132b30e_0
     - libpq =18.4 =h08b03b9_1
@@ -208,7 +208,7 @@ requirements:
     - nbconvert =7.17.1 =hb502eef_0
     - nbconvert-core =7.17.1 =pyhcf101f3_0
     - nbconvert-pandoc =7.17.1 =h08b4883_0
-    - nbformat =5.10.4 =pyhd8ed1ab_1
+    - nbformat =5.11.0 =pyhd8ed1ab_0
     - ncurses =6.6 =h1d4f5a5_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.38 =heaf21c2_0
@@ -220,7 +220,7 @@ requirements:
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.10.1 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.58.0 =hf80efc4_0
+    - pango =1.58.2 =hf80efc4_0
     - parso =0.8.7 =pyhcf101f3_0
     - pathspec =1.1.1 =pyhd8ed1ab_0
     - pcre2 =10.47 =h30297fc_0
@@ -228,14 +228,14 @@ requirements:
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =12.3.0 =py312h4e908a4_0
     - pip =26.2.1 =pyh8b19718_0
-    - pixman =0.46.4 =h784d473_2
+    - pixman =0.46.4 =h784d473_3
     - platformdirs =4.11.0 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py312h04c11ed_0
     - psutil =7.2.2 =py312hb3ab3e3_0
-    - pthread-stubs =0.4 =hd74edd7_1002
+    - pthread-stubs =0.4 =h84a0fba_1003
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycodestyle =2.12.1 =pyhd8ed1ab_1

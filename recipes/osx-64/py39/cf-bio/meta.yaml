@@ -44,7 +44,7 @@ requirements:
     - brotli =1.2.0 =hf139dec_1
     - brotli-bin =1.2.0 =h8616949_1
     - bzip2 =1.0.8 =h374f1ed_10
-    - c-ares =1.34.8 =ha1e9b39_0
+    - c-ares =1.34.8 =ha3d0635_1
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_2
     - cached_property =1.5.2 =pyha770c72_2
@@ -100,13 +100,13 @@ requirements:
     - lcms2 =2.19.1 =h5ea7634_1
     - lerc =4.2.0 =h35c7297_0
     - libaec =1.1.5 =he7c3a48_0
-    - libblas =3.11.0 =8_he492b99_openblas
+    - libblas =3.11.0 =9_he492b99_openblas
     - libboost =1.86.0 =hb2bbd1d_4
     - libboost-python =1.86.0 =py39h5c7665c_3
     - libbrotlicommon =1.2.0 =h8616949_1
     - libbrotlidec =1.2.0 =h8616949_1
     - libbrotlienc =1.2.0 =h8616949_1
-    - libcblas =3.11.0 =8_h9b27e0a_openblas
+    - libcblas =3.11.0 =9_h9b27e0a_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =21.1.0 =default_h7f9524c_1
     - libcurl =8.18.0 =h9348e2b_0
@@ -126,7 +126,7 @@ requirements:
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.2.0 =ha1e9b39_1
-    - liblapack =3.11.0 =8_h859234e_openblas
+    - liblapack =3.11.0 =9_h859234e_openblas
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm21 =21.1.0 =h9b4ebcc_0
     - liblzma =5.8.3 =hbb4bfdb_0
@@ -134,7 +134,7 @@ requirements:
     - libnghttp2 =1.68.1 =h70048d4_0
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =he3325bb_1
-    - libopenblas =0.3.33 =openmp_h9e49c7b_0
+    - libopenblas =0.3.34 =openmp_h9e49c7b_0
     - libopus =1.6.1 =hc6ced15_0
     - libpng =1.6.58 =he930e7c_0
     - libpq =17.7 =h1e038c5_1
@@ -177,13 +177,13 @@ requirements:
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py39h1fda9f2_0
     - pip =25.2 =pyh8b19718_0
-    - pixman =0.46.4 =h2fb4741_2
+    - pixman =0.46.4 =h2fb4741_3
     - platformdirs =4.3.8 =pyhe01879c_0
     - ply =3.11 =pyhd8ed1ab_3
     - pmw =2.0.1 =py39h6e9494a_1008
     - prompt-toolkit =3.0.51 =pyha770c72_0
     - psutil =7.0.0 =py39h80efdc8_0
-    - pthread-stubs =0.4 =h00291cd_1002
+    - pthread-stubs =0.4 =ha1e9b39_1003
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycairo =1.28.0 =py39h134cde0_0

@@ -60,7 +60,7 @@ requirements:
     - freetype =2.14.3 =ha770c72_1
     - glib =2.86.0 =he175458_0
     - glib-tools =2.86.0 =hf516916_0
-    - graphite2 =1.3.15 =hecca717_0
+    - graphite2 =1.3.15 =h54a6638_1
     - gst-plugins-base =1.24.11 =h651a532_0
     - gstreamer =1.24.11 =hc37bda9_0
     - harfbuzz =12.1.0 =h15599e2_0
@@ -76,9 +76,9 @@ requirements:
     - krb5 =1.21.3 =h659f571_0
     - lame =3.100 =h166bdaf_1003
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_102
-    - libblas =3.11.0 =8_h4a7cf45_openblas
+    - libblas =3.11.0 =9_h4a7cf45_openblas
     - libcap =2.78 =h084b8d7_1
-    - libcblas =3.11.0 =8_h0358290_openblas
+    - libcblas =3.11.0 =9_h0358290_openblas
     - libclang-cpp21.1 =21.1.8 =default_h99862b1_4
     - libclang-cpp22.1 =22.1.8 =default_h08c5240_4
     - libclang13 =22.1.8 =default_h114c9b5_4
@@ -103,7 +103,7 @@ requirements:
     - libgomp =16.1.0 =he0feb66_1
     - libiconv =1.18 =h3b78370_2
     - libjpeg-turbo =3.2.0 =hb03c661_1
-    - liblapack =3.11.0 =8_h47877c9_openblas
+    - liblapack =3.11.0 =9_h47877c9_openblas
     - libllvm21 =21.1.8 =hf7376ad_0
     - libllvm22 =22.1.8 =hf7376ad_1
     - liblzma =5.8.3 =hb03c661_0
@@ -111,7 +111,7 @@ requirements:
     - libnsl =2.0.1 =hb9d3cd8_1
     - libntlm =1.8 =hb9d3cd8_0
     - libogg =1.3.5 =hd0c01bc_1
-    - libopenblas =0.3.33 =pthreads_h94d23a6_0
+    - libopenblas =0.3.34 =pthreads_h94d23a6_0
     - libopus =1.6.1 =h280c20c_0
     - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.58 =h421ea60_0
@@ -146,11 +146,11 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pip =24.0 =pyhd8ed1ab_0
-    - pixman =0.46.4 =h54a6638_2
+    - pixman =0.46.4 =h54a6638_3
     - ply =3.11 =pyhd8ed1ab_2
     - prompt-toolkit =3.0.48 =pyha770c72_0
     - psutil =5.9.3 =py37h540881e_0
-    - pthread-stubs =0.4 =hb9d3cd8_1002
+    - pthread-stubs =0.4 =hb03c661_1003
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pulseaudio-client =17.0 =h9a8bead_2
     - pygments =2.17.2 =pyhd8ed1ab_0

@@ -89,7 +89,7 @@ requirements:
     - brotli-python =1.2.0 =py312h0dfefe5_1
     - bwidget =1.10.1 =hce30654_1
     - bzip2 =1.0.8 =h4e30115_10
-    - c-ares =1.34.8 =h84a0fba_0
+    - c-ares =1.34.8 =h1a92334_1
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_2
     - cached_property =1.5.2 =pyha770c72_2
@@ -162,7 +162,7 @@ requirements:
     - glib-tools =2.88.3 =h5f197ff_0
     - gmp =6.3.0 =h7bae524_2
     - gmpy2 =2.3.0 =py312he1ee7cc_1
-    - graphite2 =1.3.15 =hf6b4638_0
+    - graphite2 =1.3.15 =h784d473_1
     - greenlet =3.5.4 =py312h6510ced_0
     - gsl =2.7 =h6e638da_0
     - gst-plugins-base =1.26.11 =hda1d4dc_0
@@ -207,11 +207,11 @@ requirements:
     - lerc =4.2.0 =h1eee2c3_0
     - libarchive =3.8.9 =gpl_h6fbacd7_100
     - libasprintf =0.25.1 =h493aca8_0
-    - libblas =3.11.0 =8_h51639a9_openblas
+    - libblas =3.11.0 =9_h51639a9_openblas
     - libbrotlicommon =1.2.0 =hc919400_1
     - libbrotlidec =1.2.0 =hc919400_1
     - libbrotlienc =1.2.0 =hc919400_1
-    - libcblas =3.11.0 =8_hb0561ab_openblas
+    - libcblas =3.11.0 =9_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp22.1 =22.1.8 =default_hc257da1_4
     - libclang13 =22.1.8 =default_h131685f_4
@@ -239,24 +239,24 @@ requirements:
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
     - libjpeg-turbo =3.2.0 =h84a0fba_1
-    - liblapack =3.11.0 =8_hd9741b5_openblas
+    - liblapack =3.11.0 =9_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm22 =22.1.8 =h89af1be_1
     - liblzma =5.8.3 =h8088a28_0
-    - libmamba =2.8.1 =h7950639_0
-    - libmamba-spdlog =2.8.1 =hb995d7d_0
-    - libmambapy =2.8.1 =py312h68b3e2c_0
+    - libmamba =2.9.0 =py314hf3ae1d6_0
+    - libmamba-spdlog =2.9.0 =heb3ad76_0
+    - libmambapy =2.9.0 =py312ha20c16a_0
     - libmsgpack-c =6.1.0 =h784d473_6
     - libnghttp2 =1.68.1 =h8f3e76b_0
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
-    - libopenblas =0.3.33 =openmp_he657e61_0
+    - libopenblas =0.3.34 =openmp_he657e61_0
     - libopus =1.6.1 =h1a92334_0
     - libpng =1.6.58 =h132b30e_0
     - libpq =18.4 =h08b03b9_1
     - libpsl =0.23.0 =h7a62e17_0
     - libraqm =0.11.0 =h45af499_0
-    - libsigtool =0.1.3 =h98dc951_0
+    - libsigtool =0.1.3 =h98dc951_1
     - libsodium =1.0.22 =h1a92334_1
     - libsolv =0.7.39 =h7d962ec_0
     - libsqlite =3.53.4 =h1ae2325_0
@@ -289,7 +289,7 @@ requirements:
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.11.0 =pyhd8ed1ab_0
     - nbconvert-core =7.17.1 =pyhcf101f3_0
-    - nbformat =5.10.4 =pyhd8ed1ab_1
+    - nbformat =5.11.0 =pyhd8ed1ab_0
     - ncurses =6.6 =h1d4f5a5_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nlohmann_json-abi =3.12.0 =h0f90c79_2
@@ -304,13 +304,13 @@ requirements:
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.10.1 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.58.0 =hf80efc4_0
+    - pango =1.58.2 =hf80efc4_0
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =h30297fc_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pillow =12.3.0 =py312h4e908a4_0
     - pip =26.2.1 =pyh8b19718_0
-    - pixman =0.46.4 =h784d473_2
+    - pixman =0.46.4 =h784d473_3
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
     - platformdirs =4.11.0 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
@@ -319,7 +319,7 @@ requirements:
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py312h04c11ed_0
-    - pthread-stubs =0.4 =hd74edd7_1002
+    - pthread-stubs =0.4 =h84a0fba_1003
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - py-rattler =0.25.0 =py310hbaa5893_2
@@ -545,7 +545,7 @@ requirements:
     - sdkroot_env_osx-arm64 =26.0 =ha3f98da_7
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =83.0.0 =pyh332efcf_0
-    - sigtool-codesign =0.1.3 =h98dc951_0
+    - sigtool-codesign =0.1.3 =h98dc951_1
     - simdjson =4.6.6 =h4ddebb9_0
     - sip =6.16.0 =py312h6d95f44_0
     - six =1.17.0 =pyhe01879c_1

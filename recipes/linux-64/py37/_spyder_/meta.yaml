@@ -96,7 +96,7 @@ requirements:
     - glib-tools =2.86.0 =hf516916_0
     - gmp =6.3.0 =hac33072_2
     - gmpy2 =2.1.2 =py37h025e8b9_0
-    - graphite2 =1.3.15 =hecca717_0
+    - graphite2 =1.3.15 =h54a6638_1
     - gst-plugins-base =1.22.0 =h4243ec0_2
     - gstreamer =1.22.0 =h25f0c4b_2
     - gstreamer-orc =0.4.42 =h82d0256_0
@@ -237,14 +237,14 @@ requirements:
     - pickleshare =0.7.5 =py_1003
     - pillow =9.2.0 =py37h850a105_2
     - pip =24.0 =pyhd8ed1ab_0
-    - pixman =0.46.4 =h54a6638_2
+    - pixman =0.46.4 =h54a6638_3
     - pkgutil-resolve-name =1.3.10 =pyhd8ed1ab_1
     - platformdirs =4.0.0 =pyhd8ed1ab_0
     - pluggy =1.0.0 =py37h89c1867_3
     - ply =3.11 =pyhd8ed1ab_2
     - prompt-toolkit =3.0.48 =pyha770c72_0
     - psutil =5.9.3 =py37h540881e_0
-    - pthread-stubs =0.4 =hb9d3cd8_1002
+    - pthread-stubs =0.4 =hb03c661_1003
     - ptyprocess =0.7.0 =pyhd3deb0d_0
     - pulseaudio =16.1 =hcb278e6_3
     - pulseaudio-client =16.1 =h5195f5e_3
@@ -328,7 +328,7 @@ requirements:
     - xcb-util-image =0.4.0 =h166bdaf_0
     - xcb-util-keysyms =0.4.0 =h166bdaf_0
     - xcb-util-renderutil =0.3.9 =h166bdaf_0
-    - xcb-util-wm =0.4.1 =h166bdaf_0
+    - xcb-util-wm =0.4.1 =h516909a_0
     - xkeyboard-config =2.38 =h0b41bf4_0
     - xorg-kbproto =1.0.7 =hb9d3cd8_1003
     - xorg-libice =1.1.2 =hb9d3cd8_0
