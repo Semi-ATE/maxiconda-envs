@@ -69,7 +69,7 @@ requirements:
     - cattrs =26.1.0 =pyhcf101f3_1
     - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.1 =py312h652e2b1_0
-    - chardet =7.4.3 =pyhcf101f3_0
+    - chardet =7.5.1 =pyhcf101f3_0
     - charset-normalizer =3.4.9 =pyhd8ed1ab_0
     - click =8.4.2 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
@@ -148,8 +148,8 @@ requirements:
     - libbrotlienc =1.2.0 =hc919400_1
     - libcblas =3.11.0 =9_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
-    - libclang-cpp22.1 =22.1.8 =default_hc257da1_4
-    - libclang13 =22.1.8 =default_h131685f_4
+    - libclang-cpp22.1 =22.1.8 =default_hc257da1_5
+    - libclang13 =22.1.8 =default_h32ef180_5
     - libcxx =22.1.8 =h55c6f16_0
     - libdeflate =1.25 =he7e0567_1
     - libedit =3.1.20250104 =pl5321hafb1f1b_0
@@ -211,7 +211,7 @@ requirements:
     - nbformat =5.11.0 =pyhd8ed1ab_0
     - ncurses =6.6 =h1d4f5a5_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - nspr =4.38 =heaf21c2_0
+    - nspr =4.40 =hdcbdcf5_0
     - nss =3.118 =h1c710a3_0
     - numpydoc =1.10.0 =pyhcf101f3_0
     - openjpeg =2.5.4 =hd9e9057_0
@@ -229,7 +229,7 @@ requirements:
     - pillow =12.3.0 =py312h4e908a4_0
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h784d473_3
-    - platformdirs =4.11.0 =pyhcf101f3_0
+    - platformdirs =4.11.1 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
@@ -294,13 +294,13 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =2026.6.3 =py312h8b1d842_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.16.1 =h828de30_0
+    - ruff =0.16.2 =h828de30_0
     - setuptools =83.0.0 =pyh332efcf_0
     - sip =6.16.0 =py312h6d95f44_0
     - six =1.17.0 =pyhe01879c_1
     - snowballstemmer =3.1.1 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
-    - soupsieve =2.9.1 =pyhd8ed1ab_0
+    - soupsieve =2.9.2 =pyhd8ed1ab_0
     - sphinx =9.1.0 =pyhd8ed1ab_0
     - sphinxcontrib-applehelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-devhelp =2.0.0 =pyhd8ed1ab_1
