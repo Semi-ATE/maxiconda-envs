@@ -157,7 +157,7 @@ requirements:
     - liblapack =3.11.0 =9_hd9741b5_openblas
     - libllvm17 =17.0.6 =hc4b4ae8_3
     - libllvm21 =21.1.0 =h846d351_0
-    - liblzma =5.8.3 =h8088a28_0
+    - liblzma =5.8.3 =h8088a28_1
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
     - libopenblas =0.3.34 =openmp_he657e61_0
@@ -196,8 +196,8 @@ requirements:
     - nbconvert =7.17.1 =hb502eef_0
     - nbconvert-core =7.17.1 =pyhcf101f3_0
     - nbconvert-pandoc =7.17.1 =h08b4883_0
-    - nbformat =5.11.0 =pyhd8ed1ab_0
-    - ncurses =6.6 =h1d4f5a5_0
+    - nbformat =5.11.0 =pyhcf101f3_1
+    - ncurses =6.6 =he64c551_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.40 =hdcbdcf5_0
     - nss =3.118 =h1c710a3_0
@@ -215,7 +215,7 @@ requirements:
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =12.3.0 =py310hc037f36_0
     - pip =26.2.1 =pyh8b19718_0
-    - platformdirs =4.11.1 =pyhcf101f3_0
+    - platformdirs =4.11.2 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
@@ -232,7 +232,7 @@ requirements:
     - pygithub =2.9.1 =pyhd8ed1ab_0
     - pygments =2.20.0 =pyhd8ed1ab_0
     - pyjwt =2.13.0 =pyhcf101f3_0
-    - pylint =4.0.6 =pyhcf101f3_0
+    - pylint =4.0.7 =pyhcf101f3_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.5.0 =py310hfe3a0ae_5
@@ -320,8 +320,8 @@ requirements:
     - wheel =0.47.0 =pyhd8ed1ab_0
     - wrapt =2.3.0 =py310h72544b6_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
-    - xorg-libxau =1.0.12 =hc919400_1
-    - xorg-libxdmcp =1.1.5 =hc919400_1
+    - xorg-libxau =1.0.12 =h84a0fba_2
+    - xorg-libxdmcp =1.1.5 =h84a0fba_2
     - yaml =0.2.5 =h925e9cb_3
     - yapf =0.43.0 =pyhd8ed1ab_1
     - yarl =1.24.5 =py310hb46c203_0

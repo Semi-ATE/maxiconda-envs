@@ -27,7 +27,7 @@ requirements:
     # 9 primary packages :
     - cython =3.2.9 =py312h72d008e_0
     - matplotlib =3.11.1 =py312hf2eba6f_2
-    - numpy =2.5.1 =py312ha003a3f_0
+    - numpy =2.5.2 =py312ha003a3f_0
     - pandas =3.0.5 =py312h6510ced_1
     - pyqt =5.15.11 =py312h6612b97_2
     - pyqtwebengine =5.15.11 =py312h1a0e663_2
@@ -96,7 +96,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.18.2 =h2b252f5_0
+    - fontconfig =2.18.3 =h2b252f5_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py312h04c11ed_0
@@ -169,7 +169,7 @@ requirements:
     - liblapack =3.11.0 =9_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm22 =22.1.8 =h89af1be_1
-    - liblzma =5.8.3 =h8088a28_0
+    - liblzma =5.8.3 =h8088a28_1
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
     - libopenblas =0.3.34 =openmp_he657e61_0
@@ -208,8 +208,8 @@ requirements:
     - nbconvert =7.17.1 =hb502eef_0
     - nbconvert-core =7.17.1 =pyhcf101f3_0
     - nbconvert-pandoc =7.17.1 =h08b4883_0
-    - nbformat =5.11.0 =pyhd8ed1ab_0
-    - ncurses =6.6 =h1d4f5a5_0
+    - nbformat =5.11.0 =pyhcf101f3_1
+    - ncurses =6.6 =he64c551_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.40 =hdcbdcf5_0
     - nss =3.118 =h1c710a3_0
@@ -229,7 +229,7 @@ requirements:
     - pillow =12.3.0 =py312h4e908a4_0
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h784d473_3
-    - platformdirs =4.11.1 =pyhcf101f3_0
+    - platformdirs =4.11.2 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
@@ -246,7 +246,7 @@ requirements:
     - pygithub =2.9.1 =pyhd8ed1ab_0
     - pygments =2.20.0 =pyhd8ed1ab_0
     - pyjwt =2.13.0 =pyhcf101f3_0
-    - pylint =4.0.6 =pyhcf101f3_0
+    - pylint =4.0.7 =pyhcf101f3_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.6.2 =py312h8fd69cb_3
@@ -320,7 +320,7 @@ requirements:
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.1 =pyhcf101f3_0
     - tomlkit =0.15.1 =pyhcf101f3_0
-    - tornado =6.5.7 =py312h2bbb03f_0
+    - tornado =6.5.8 =py312h2bbb03f_0
     - traitlets =5.16.1 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
     - typing_extensions =4.16.0 =pyhcf101f3_0
@@ -335,8 +335,8 @@ requirements:
     - wheel =0.47.0 =pyhd8ed1ab_0
     - wrapt =2.3.0 =py312h2bbb03f_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
-    - xorg-libxau =1.0.12 =hc919400_1
-    - xorg-libxdmcp =1.1.5 =hc919400_1
+    - xorg-libxau =1.0.12 =h84a0fba_2
+    - xorg-libxdmcp =1.1.5 =h84a0fba_2
     - yaml =0.2.5 =h925e9cb_3
     - yapf =0.43.0 =pyhd8ed1ab_1
     - yarl =1.24.5 =py312h04c11ed_0

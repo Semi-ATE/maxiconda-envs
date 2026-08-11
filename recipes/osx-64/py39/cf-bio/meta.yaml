@@ -129,7 +129,7 @@ requirements:
     - liblapack =3.11.0 =9_h859234e_openblas
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm21 =21.1.0 =h9b4ebcc_0
-    - liblzma =5.8.3 =hbb4bfdb_0
+    - liblzma =5.8.3 =hbb4bfdb_1
     - libnetcdf =4.9.2 =nompi_h6054f6d_118
     - libnghttp2 =1.68.1 =h70048d4_0
     - libntlm =1.8 =h6e16a3a_0
@@ -160,7 +160,7 @@ requirements:
     - munkres =1.1.4 =pyhd8ed1ab_1
     - mysql-common =9.0.1 =hd00b0ec_6
     - mysql-libs =9.0.1 =h062309a_6
-    - ncurses =6.6 =hcc0dc9a_0
+    - ncurses =6.6 =hcc0dc9a_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - netcdf4 =1.7.2 =nompi_py39hb1e2e84_102
     - networkx =3.2.1 =pyhd8ed1ab_0
@@ -229,8 +229,8 @@ requirements:
     - wheel =0.45.1 =pyhd8ed1ab_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xorg-libx11 =1.8.13 =hb12da3d_0
-    - xorg-libxau =1.0.12 =h8616949_1
-    - xorg-libxdmcp =1.1.5 =h8616949_1
+    - xorg-libxau =1.0.12 =ha1e9b39_2
+    - xorg-libxdmcp =1.1.5 =ha1e9b39_2
     - xorg-libxfixes =6.0.2 =h8616949_0
     - zeromq =4.3.5 =h6c33b1e_9
     - zipp =3.23.0 =pyhd8ed1ab_0

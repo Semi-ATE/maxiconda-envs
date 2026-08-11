@@ -69,7 +69,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.18.2 =h2b252f5_0
+    - fontconfig =2.18.3 =h2b252f5_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.53.1 =py38h3237794_0
@@ -135,8 +135,8 @@ requirements:
     - liblapack =3.9.0 =20_osxarm64_openblas
     - libllvm17 =17.0.6 =hc4b4ae8_3
     - libllvm21 =21.1.0 =h846d351_0
-    - liblzma =5.8.3 =h8088a28_0
-    - liblzma-devel =5.8.3 =h8088a28_0
+    - liblzma =5.8.3 =h8088a28_1
+    - liblzma-devel =5.8.3 =h8088a28_1
     - libnetcdf =4.9.2 =nompi_h610d594_116
     - libnghttp2 =1.68.1 =h8f3e76b_0
     - libogg =1.3.5 =h48c0fde_1
@@ -166,7 +166,7 @@ requirements:
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mysql-common =9.0.1 =hd7719f6_6
     - mysql-libs =9.0.1 =ha8be5b7_6
-    - ncurses =6.6 =h1d4f5a5_0
+    - ncurses =6.6 =he64c551_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - netcdf4 =1.7.1 =nompi_py38h6bf5763_101
     - networkx =3.1 =pyhd8ed1ab_0
@@ -238,11 +238,11 @@ requirements:
     - wcwidth =0.2.13 =pyhd8ed1ab_0
     - wheel =0.45.1 =pyhd8ed1ab_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
-    - xorg-libxau =1.0.12 =hc919400_1
-    - xorg-libxdmcp =1.1.5 =hc919400_1
-    - xz =5.8.3 =hd0f0c4f_0
-    - xz-gpl-tools =5.8.3 =hd0f0c4f_0
-    - xz-tools =5.8.3 =h8088a28_0
+    - xorg-libxau =1.0.12 =h84a0fba_2
+    - xorg-libxdmcp =1.1.5 =h84a0fba_2
+    - xz =5.8.3 =hd0f0c4f_1
+    - xz-gpl-tools =5.8.3 =hd0f0c4f_1
+    - xz-tools =5.8.3 =h8088a28_1
     - zeromq =4.3.5 =hcc0f68c_4
     - zipp =3.21.0 =pyhd8ed1ab_0
     - zlib =1.3.2 =h8088a28_3
