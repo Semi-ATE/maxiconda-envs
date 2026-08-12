@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.10.1 =py310h139afa4_0
     - cython =3.2.9 =py310ha58568a_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.165.1 =py310hd8f68c5_0
+    - hypothesis =6.165.3 =py310hd8f68c5_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py310hff52083_0
@@ -52,11 +52,11 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.7.19 =py310h7c4b9e2_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.97.1 =h53717f1_0
+    - rust =1.97.1 =h53717f1_1
     - scipy =1.15.2 =py310h1d65ade_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
-    - sqlalchemy =2.0.51 =py310h139afa4_0
+    - sqlalchemy =2.0.51 =py310h139afa4_1
     - sqlite =3.53.4 =h04a0ce9_0
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.70.0 =pyh8f84b5b_0
@@ -96,7 +96,7 @@ requirements:
     - cached_property =1.5.2 =pyha770c72_2
     - cairo =1.18.4 =he90730b_1
     - certifi =2026.7.22 =pyhd8ed1ab_0
-    - cffi =2.1.1 =py310he7384ee_0
+    - cffi =1.17.1 =py310h8deb56e_0
     - charset-normalizer =3.4.9 =pyhd8ed1ab_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -130,8 +130,8 @@ requirements:
     - gcc_impl_linux-64 =16.1.0 =h5fcb69b_1
     - gcc_linux-64 =16.1.0 =h5fd2508_0
     - gfortran_impl_linux-64 =16.1.0 =h08e1a1a_1
-    - glib =2.88.3 =h84d461a_0
-    - glib-tools =2.88.3 =h95f0039_0
+    - glib =2.88.3 =h042de97_1
+    - glib-tools =2.88.3 =h4916ab3_1
     - gmp =6.3.0 =hac33072_2
     - gmpy2 =2.3.0 =py310h63ebcad_1
     - graphite2 =1.3.15 =h54a6638_1
@@ -197,7 +197,7 @@ requirements:
     - libev =4.33 =h280c20c_3
     - libevent =2.1.12 =hf998b51_1
     - libexpat =2.8.1 =hecca717_1
-    - libffi =3.5.2 =h3435931_0
+    - libffi =3.7.0 =h3435931_0
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_1
     - libfreetype6 =2.14.3 =h73754d4_1
@@ -208,7 +208,7 @@ requirements:
     - libgfortran5 =16.1.0 =h79bb938_1
     - libgl =1.7.0 =ha4b6fd6_3
     - libgl-devel =1.7.0 =ha4b6fd6_3
-    - libglib =2.88.3 =h0d30a3d_0
+    - libglib =2.88.3 =h45c3219_1
     - libglvnd =1.7.0 =ha4b6fd6_3
     - libglx =1.7.0 =ha4b6fd6_3
     - libglx-devel =1.7.0 =ha4b6fd6_3
@@ -230,7 +230,7 @@ requirements:
     - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.58 =h421ea60_0
     - libpq =18.4 =hd5a49e9_1
-    - libpsl =0.23.0 =hf670292_0
+    - libpsl =0.23.1 =hf670292_0
     - libsanitizer =16.1.0 =hf2715c6_1
     - libsndfile =1.2.2 =hc7d488a_2
     - libsodium =1.0.22 =h280c20c_1
@@ -239,7 +239,7 @@ requirements:
     - libstdcxx =16.1.0 =h934c35e_1
     - libstdcxx-devel_linux-64 =16.1.0 =h41cdd0d_101
     - libstdcxx-ng =16.1.0 =hdf11a46_1
-    - libsystemd0 =261.1 =h6f4a2f1_0
+    - libsystemd0 =261.2 =h6f4a2f1_0
     - libtiff =4.7.2 =h9d88235_0
     - libuuid =2.42.2 =h5347b49_0
     - libuv =1.52.1 =h280c20c_1
@@ -270,7 +270,7 @@ requirements:
     - nbformat =5.11.0 =pyhcf101f3_1
     - ncurses =6.6 =hdb14827_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - notebook =7.6.1 =pyhcf101f3_0
+    - notebook =7.6.2 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.40 =h29cc59b_0
     - nss =3.118 =h445c969_0
@@ -412,7 +412,7 @@ requirements:
     - r-magrittr =2.0.5 =r45h54b55ab_0
     - r-maps =3.4.3 =r45h54b55ab_1
     - r-mass =7.3_66 =r45h54b55ab_0
-    - r-matrix =1.7_5 =r45h0e4624f_0
+    - r-matrix =1.7_6 =r45h0e4624f_0
     - r-memoise =2.0.1 =r45hc72bb7e_4
     - r-mgcv =1.9_4 =r45h0e4624f_0
     - r-mime =0.13 =r45h54b55ab_1
@@ -512,7 +512,7 @@ requirements:
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
     - ruamel.yaml.clib =0.2.15 =py310h139afa4_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-x86_64-unknown-linux-gnu =1.97.1 =h2c6d0dc_0
+    - rust-std-x86_64-unknown-linux-gnu =1.97.1 =h2c6d0dc_1
     - sed =4.10 =h19d0853_0
     - send2trash =2.1.0 =pyha191276_1
     - setuptools =84.0.0 =pyh332efcf_0
@@ -541,7 +541,7 @@ requirements:
     - unicodedata2 =17.0.1 =py310h7c4b9e2_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.7.0 =pyhd8ed1ab_0
-    - wayland =1.26.0 =hd6090a7_0
+    - wayland =1.26.0 =h1964d1d_1
     - wcwidth =0.8.2 =pyhd8ed1ab_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
@@ -555,7 +555,7 @@ requirements:
     - xcb-util-renderutil =0.3.10 =hb711507_0
     - xcb-util-wm =0.4.2 =hb711507_0
     - xkeyboard-config =2.48 =h280c20c_0
-    - xorg-libice =1.1.2 =hb9d3cd8_0
+    - xorg-libice =1.1.2 =h280c20c_0
     - xorg-libsm =1.2.6 =he73a12e_0
     - xorg-libx11 =1.8.13 =he1eb515_0
     - xorg-libxau =1.0.12 =hb03c661_2

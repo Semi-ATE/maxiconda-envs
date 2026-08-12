@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2025.7.34 =py39hd399759_0
     - requests =2.32.5 =pyhd8ed1ab_0
-    - rust =1.97.1 =h53717f1_0
+    - rust =1.97.1 =h53717f1_1
     - scipy =1.13.1 =py39haf93ffa_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
@@ -83,9 +83,9 @@ requirements:
     - binutils_impl_linux-64 =2.46.1 =default_hfdba357_102
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.1.0 =hb9d3cd8_3
-    - brotli-bin =1.1.0 =hb9d3cd8_3
-    - brotli-python =1.1.0 =py39hf88036b_3
+    - brotli =1.2.0 =hed03a55_1
+    - brotli-bin =1.2.0 =hb03c661_1
+    - brotli-python =1.0.9 =py39h5a03fae_8
     - bwidget =1.10.1 =ha770c72_1
     - bzip2 =1.0.8 =hda65f42_10
     - c-ares =1.34.8 =h280c20c_1
@@ -178,9 +178,9 @@ requirements:
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_102
     - lerc =4.2.0 =hdb68285_0
     - libblas =3.11.0 =9_h4a7cf45_openblas
-    - libbrotlicommon =1.1.0 =hb9d3cd8_3
-    - libbrotlidec =1.1.0 =hb9d3cd8_3
-    - libbrotlienc =1.1.0 =hb9d3cd8_3
+    - libbrotlicommon =1.2.0 =hb03c661_1
+    - libbrotlidec =1.2.0 =hb03c661_1
+    - libbrotlienc =1.2.0 =hb03c661_1
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =9_h0358290_openblas
     - libclang-cpp20.1 =20.1.8 =default_h99862b1_16
@@ -234,7 +234,7 @@ requirements:
     - libstdcxx =16.1.0 =h934c35e_1
     - libstdcxx-devel_linux-64 =16.1.0 =h41cdd0d_101
     - libstdcxx-ng =16.1.0 =hdf11a46_1
-    - libsystemd0 =261.1 =h6f4a2f1_0
+    - libsystemd0 =261.2 =h6f4a2f1_0
     - libtiff =4.7.2 =h9d88235_0
     - libuuid =2.42.2 =h5347b49_0
     - libuv =1.52.1 =h280c20c_1
@@ -405,7 +405,7 @@ requirements:
     - r-magrittr =2.0.5 =r45h54b55ab_0
     - r-maps =3.4.3 =r45h54b55ab_1
     - r-mass =7.3_66 =r45h54b55ab_0
-    - r-matrix =1.7_5 =r45h0e4624f_0
+    - r-matrix =1.7_6 =r45h0e4624f_0
     - r-memoise =2.0.1 =r45hc72bb7e_4
     - r-mgcv =1.9_4 =r45h0e4624f_0
     - r-mime =0.13 =r45h54b55ab_1
@@ -505,7 +505,7 @@ requirements:
     - ruamel.yaml =0.18.15 =py39hd399759_0
     - ruamel.yaml.clib =0.2.8 =py39h8cd3c5a_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-x86_64-unknown-linux-gnu =1.97.1 =h2c6d0dc_0
+    - rust-std-x86_64-unknown-linux-gnu =1.97.1 =h2c6d0dc_1
     - sed =4.10 =h19d0853_0
     - send2trash =1.8.3 =pyh0d859eb_1
     - setuptools =80.9.0 =pyhff2d567_0
@@ -549,7 +549,7 @@ requirements:
     - xcb-util-renderutil =0.3.10 =hb711507_0
     - xcb-util-wm =0.4.2 =hb711507_0
     - xkeyboard-config =2.48 =h280c20c_0
-    - xorg-libice =1.1.2 =hb9d3cd8_0
+    - xorg-libice =1.1.2 =h280c20c_0
     - xorg-libsm =1.2.6 =he73a12e_0
     - xorg-libx11 =1.8.13 =he1eb515_0
     - xorg-libxau =1.0.12 =hb03c661_2

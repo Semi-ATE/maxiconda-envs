@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2025.7.34 =py39h0f7a62b_0
     - requests =2.32.5 =pyhd8ed1ab_0
-    - rust =1.97.1 =h6cf38e9_0
+    - rust =1.97.1 =h6cf38e9_1
     - scipy =1.13.1 =py39hb921187_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
@@ -234,7 +234,7 @@ requirements:
     - libstdcxx =16.1.0 =hef695bb_1
     - libstdcxx-devel_linux-aarch64 =16.1.0 =h2445e1f_101
     - libstdcxx-ng =16.1.0 =hdbbeba8_1
-    - libsystemd0 =261.1 =hb290c7d_0
+    - libsystemd0 =261.2 =hb290c7d_0
     - libtiff =4.7.2 =hdb009f0_0
     - libuuid =2.42.2 =h1022ec0_0
     - libuv =1.52.1 =h80f16a2_1
@@ -405,7 +405,7 @@ requirements:
     - r-magrittr =2.0.5 =r45h0557e7b_0
     - r-maps =3.4.3 =r45h0557e7b_1
     - r-mass =7.3_66 =r45hf488e41_0
-    - r-matrix =1.7_5 =r45h9301183_0
+    - r-matrix =1.7_6 =r45h9301183_0
     - r-memoise =2.0.1 =r45hc72bb7e_4
     - r-mgcv =1.9_4 =r45h8b2cba9_0
     - r-mime =0.13 =r45h0557e7b_1
@@ -505,7 +505,7 @@ requirements:
     - ruamel.yaml =0.18.15 =py39h0f7a62b_0
     - ruamel.yaml.clib =0.2.8 =py39h060674a_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-aarch64-unknown-linux-gnu =1.97.1 =hbe8e118_0
+    - rust-std-aarch64-unknown-linux-gnu =1.97.1 =hbe8e118_1
     - sed =4.10 =he1c5539_0
     - send2trash =1.8.3 =pyh0d859eb_1
     - setuptools =80.9.0 =pyhff2d567_0
@@ -549,7 +549,7 @@ requirements:
     - xcb-util-renderutil =0.3.10 =h5c728e9_0
     - xcb-util-wm =0.4.2 =h5c728e9_0
     - xkeyboard-config =2.48 =h80f16a2_0
-    - xorg-libice =1.1.2 =h86ecc28_0
+    - xorg-libice =1.1.2 =h80f16a2_0
     - xorg-libsm =1.2.6 =h0808dbd_0
     - xorg-libx11 =1.8.13 =h63a1b12_0
     - xorg-libxau =1.0.12 =he30d5cf_2
