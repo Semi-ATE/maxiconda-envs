@@ -83,9 +83,9 @@ requirements:
     - binutils_impl_linux-aarch64 =2.46.1 =default_h5f4c503_102
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.2.0 =hd651790_1
-    - brotli-bin =1.2.0 =he30d5cf_1
-    - brotli-python =1.0.9 =py39h3d8bfb9_8
+    - brotli =1.1.0 =h86ecc28_3
+    - brotli-bin =1.1.0 =h86ecc28_3
+    - brotli-python =1.1.0 =py39h7dbf29c_3
     - bwidget =1.10.1 =h8af1aa0_1
     - bzip2 =1.0.8 =h4777abc_10
     - c-ares =1.34.8 =h80f16a2_1
@@ -172,15 +172,15 @@ requirements:
     - keyutils =1.6.3 =h86ecc28_0
     - kiwisolver =1.4.7 =py39h78c8b8d_0
     - krb5 =1.21.3 =h50a48e9_0
-    - lame =3.100 =h4e544f5_1003
+    - lame =4.0 =h7ce06ba_1
     - lark =1.2.2 =pyhd8ed1ab_1
     - lcms2 =2.19.1 =h9d5b58d_1
     - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_102
     - lerc =4.2.0 =h52b7260_0
     - libblas =3.11.0 =9_haddc8a3_openblas
-    - libbrotlicommon =1.2.0 =he30d5cf_1
-    - libbrotlidec =1.2.0 =he30d5cf_1
-    - libbrotlienc =1.2.0 =he30d5cf_1
+    - libbrotlicommon =1.1.0 =h86ecc28_3
+    - libbrotlidec =1.1.0 =h86ecc28_3
+    - libbrotlienc =1.1.0 =h86ecc28_3
     - libcap =2.78 =hfcc8634_1
     - libcblas =3.11.0 =9_hd72aa62_openblas
     - libclang-cpp20.1 =20.1.8 =default_he95a3c9_16
@@ -227,7 +227,7 @@ requirements:
     - libpng =1.6.58 =h1abf092_0
     - libpq =17.7 =haf03d9f_1
     - libsanitizer =16.1.0 =h2510bd8_1
-    - libsndfile =1.2.2 =h30591a0_2
+    - libsndfile =1.2.2 =h7354dbf_3
     - libsodium =1.0.20 =h68df207_0
     - libsqlite =3.53.4 =h022381a_0
     - libssh2 =1.11.1 =h18c354c_0
@@ -254,7 +254,7 @@ requirements:
     - mistune =3.1.3 =pyh29332c3_0
     - mpc =1.4.0 =he6dc3fb_0
     - mpfr =4.2.2 =h3faef18_0
-    - mpg123 =1.32.9 =h2b27223_0
+    - mpg123 =1.33.7 =h2b27223_0
     - mpmath =1.3.0 =pyhd8ed1ab_1
     - multidict =6.6.3 =py39hbebea31_0
     - munkres =1.1.4 =pyhd8ed1ab_1
@@ -550,7 +550,7 @@ requirements:
     - xcb-util-wm =0.4.2 =h5c728e9_0
     - xkeyboard-config =2.48 =h80f16a2_0
     - xorg-libice =1.1.2 =h80f16a2_0
-    - xorg-libsm =1.2.6 =h0808dbd_0
+    - xorg-libsm =1.2.6 =hf23e593_1
     - xorg-libx11 =1.8.13 =h63a1b12_0
     - xorg-libxau =1.0.12 =he30d5cf_2
     - xorg-libxcomposite =0.4.7 =he30d5cf_0

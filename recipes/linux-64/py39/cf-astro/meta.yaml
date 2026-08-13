@@ -58,7 +58,7 @@ requirements:
     - gst-plugins-base =1.26.11 =h6d08254_0
     - gstreamer =1.26.11 =h29cf534_0
     - harfbuzz =14.3.0 =ha770c72_0
-    - icu =78.3 =h54a6638_2
+    - icu =78.3 =py310h44b86e0_2
     - importlib-metadata =8.7.0 =pyhe01879c_1
     - ipykernel =6.30.1 =pyh82676e8_0
     - ipython =8.18.1 =pyh707e725_3
@@ -67,12 +67,12 @@ requirements:
     - jupyter_core =5.8.1 =pyh31011fe_0
     - keyutils =1.6.3 =hb9d3cd8_0
     - krb5 =1.21.3 =h659f571_0
-    - lame =3.100 =h166bdaf_1003
+    - lame =4.0 =h770b6ad_1
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_102
     - libcap =2.78 =h084b8d7_1
     - libclang-cpp21.1 =21.1.8 =default_h4f0048e_5
-    - libclang-cpp22.1 =22.1.8 =default_h08c5240_5
-    - libclang13 =22.1.8 =default_h982d582_5
+    - libclang-cpp22.1 =22.1.8 =default_h08c5240_6
+    - libclang13 =22.1.8 =default_hd70ba2e_6
     - libcups =2.3.3 =hb8b1518_5
     - libdrm =2.4.127 =hb03c661_1
     - libedit =3.1.20250104 =pl5321h7949ede_0
@@ -105,7 +105,7 @@ requirements:
     - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.58 =h421ea60_0
     - libpq =18.2 =hb80d175_0
-    - libsndfile =1.2.2 =hc7d488a_2
+    - libsndfile =1.2.2 =hbc6d301_3
     - libsodium =1.0.20 =h4ab18f5_0
     - libsqlite =3.53.4 =hf4e2dac_0
     - libstdcxx =16.1.0 =h934c35e_1
@@ -120,7 +120,7 @@ requirements:
     - libxml2-16 =2.15.3 =hca6bf5a_0
     - libzlib =1.3.2 =h25fd6f3_3
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
-    - mpg123 =1.32.9 =h8142553_0
+    - mpg123 =1.33.7 =h8142553_0
     - ncurses =6.6 =hdb14827_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.40 =h29cc59b_0
@@ -172,7 +172,7 @@ requirements:
     - xcb-util-wm =0.4.2 =hb711507_0
     - xkeyboard-config =2.48 =h280c20c_0
     - xorg-libice =1.1.2 =h280c20c_0
-    - xorg-libsm =1.2.6 =he73a12e_0
+    - xorg-libsm =1.2.6 =h0d788c3_1
     - xorg-libx11 =1.8.13 =he1eb515_0
     - xorg-libxau =1.0.12 =hb03c661_2
     - xorg-libxcomposite =0.4.7 =hb03c661_0

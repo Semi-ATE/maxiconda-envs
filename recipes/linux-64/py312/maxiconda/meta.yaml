@@ -56,7 +56,7 @@ requirements:
     - scipy =1.18.0 =py312h54fa4ab_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
-    - sqlalchemy =2.0.51 =py312h5253ce2_1
+    - sqlalchemy =2.0.52 =py312h5253ce2_0
     - sqlite =3.53.4 =h04a0ce9_0
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.70.0 =pyh8f84b5b_0
@@ -98,7 +98,7 @@ requirements:
     - cached_property =1.5.2 =pyha770c72_2
     - cairo =1.18.4 =he90730b_1
     - certifi =2026.7.22 =pyhd8ed1ab_0
-    - cffi =1.17.1 =py312h06ac9bb_0
+    - cffi =2.1.1 =py312h00755a8_1
     - charset-normalizer =3.4.9 =pyhd8ed1ab_0
     - click =8.2.1 =pyh707e725_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
@@ -168,7 +168,7 @@ requirements:
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
-    - icu =78.3 =h54a6638_2
+    - icu =78.3 =py310h44b86e0_2
     - idna =3.18 =pyhcf101f3_0
     - importlib-metadata =9.0.0 =pyhcf101f3_0
     - iniconfig =2.3.0 =pyhd8ed1ab_0
@@ -196,7 +196,7 @@ requirements:
     - keyutils =1.6.3 =hb9d3cd8_0
     - kiwisolver =1.5.0 =py312h0a2e395_0
     - krb5 =1.22.2 =hbde042b_1
-    - lame =3.100 =h166bdaf_1003
+    - lame =4.0 =h770b6ad_1
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.19.1 =h0c24ade_1
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_102
@@ -208,8 +208,8 @@ requirements:
     - libbrotlienc =1.2.0 =hb03c661_1
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =9_h0358290_openblas
-    - libclang-cpp22.1 =22.1.8 =default_h08c5240_5
-    - libclang13 =22.1.8 =default_h982d582_5
+    - libclang-cpp22.1 =22.1.8 =default_h08c5240_6
+    - libclang13 =22.1.8 =default_hd70ba2e_6
     - libcups =2.3.3 =h7a8fb5f_6
     - libcurl =8.21.0 =heca4667_4
     - libdeflate =1.25 =hd45a770_1
@@ -260,7 +260,7 @@ requirements:
     - libpsl =0.23.1 =hf670292_0
     - libraqm =0.11.0 =h6406941_0
     - libsanitizer =16.1.0 =hf2715c6_1
-    - libsndfile =1.2.2 =hc7d488a_2
+    - libsndfile =1.2.2 =hbc6d301_3
     - libsodium =1.0.22 =h280c20c_1
     - libsolv =0.7.39 =h9463b59_0
     - libsqlite =3.53.4 =hf4e2dac_0
@@ -293,7 +293,7 @@ requirements:
     - mistune =3.3.4 =pyhcf101f3_0
     - mpc =1.4.0 =he0a73b1_0
     - mpfr =4.2.2 =he0a73b1_0
-    - mpg123 =1.32.9 =h8142553_0
+    - mpg123 =1.33.7 =h8142553_0
     - mpmath =1.4.1 =pyhd8ed1ab_0
     - msgpack-python =1.2.1 =py312h0a2e395_1
     - multidict =6.7.1 =py312h8a5da7c_0
@@ -557,7 +557,7 @@ requirements:
     - sed =4.10 =h19d0853_0
     - send2trash =2.1.0 =pyha191276_1
     - setuptools =84.0.0 =pyh332efcf_0
-    - simdjson =4.6.6 =hb700be7_0
+    - simdjson =4.6.6 =h171cf75_1
     - sip =6.10.0 =py312h1289d80_1
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.3 =pyhcf101f3_1
@@ -602,7 +602,7 @@ requirements:
     - xcb-util-wm =0.4.2 =hb711507_0
     - xkeyboard-config =2.48 =h280c20c_0
     - xorg-libice =1.1.2 =h280c20c_0
-    - xorg-libsm =1.2.6 =he73a12e_0
+    - xorg-libsm =1.2.6 =h0d788c3_1
     - xorg-libx11 =1.8.13 =he1eb515_0
     - xorg-libxau =1.0.12 =hb03c661_2
     - xorg-libxcomposite =0.4.7 =hb03c661_0

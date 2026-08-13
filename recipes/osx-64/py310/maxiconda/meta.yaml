@@ -56,7 +56,7 @@ requirements:
     - scipy =1.15.2 =py310hef62574_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
-    - sqlalchemy =2.0.51 =py310h5afac17_1
+    - sqlalchemy =2.0.52 =py310h5afac17_0
     - sqlite =3.53.4 =hd4d344e_0
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.70.0 =pyh8f84b5b_0
@@ -97,14 +97,14 @@ requirements:
     - cctools_impl_osx-64 =1030.6.3 =llvm22_1_h8fe25a2_5
     - cctools_osx-64 =1030.6.3 =llvm22_1_h0a1bb1c_5
     - certifi =2026.7.22 =pyhd8ed1ab_0
-    - cffi =1.17.1 =py310hfce808e_0
+    - cffi =2.1.1 =py310hd98513a_1
     - charset-normalizer =3.4.9 =pyhd8ed1ab_0
-    - clang =22.1.8 =default_cfg_h399f3cc_5
-    - clang-22 =22.1.8 =default_h6cee77a_5
-    - clang-scan-deps =22.1.8 =default_hf44d2de_5
-    - clang_impl_osx-64 =22.1.8 =default_hf44d2de_5
+    - clang =22.1.8 =default_cfg_h83aaee2_6
+    - clang-22 =22.1.8 =default_h436299c_6
+    - clang-scan-deps =22.1.8 =default_hf44d2de_6
+    - clang_impl_osx-64 =22.1.8 =default_hf44d2de_6
     - clang_osx-64 =22.1.8 =h97b245c_34
-    - clangxx_impl_osx-64 =22.1.8 =default_h4c2ca29_5
+    - clangxx_impl_osx-64 =22.1.8 =default_h47be333_6
     - clangxx_osx-64 =22.1.8 =h97b245c_34
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -129,7 +129,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.18.1 =h7a4440b_0
+    - fontconfig =2.18.3 =h7a4440b_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py310h399bfa0_0
@@ -155,7 +155,7 @@ requirements:
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
-    - icu =78.3 =h4350ee2_2
+    - icu =78.3 =py313hbf1d544_2
     - idna =3.18 =pyhcf101f3_0
     - importlib-metadata =9.0.0 =pyhcf101f3_0
     - iniconfig =2.3.0 =pyhd8ed1ab_0
@@ -191,8 +191,8 @@ requirements:
     - libbrotlienc =1.2.0 =h8616949_1
     - libcblas =3.11.0 =9_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
-    - libclang-cpp22.1 =22.1.8 =default_hf44d2de_5
-    - libclang13 =22.1.8 =default_h6cee77a_5
+    - libclang-cpp22.1 =22.1.8 =default_hf44d2de_6
+    - libclang13 =22.1.8 =default_h436299c_6
     - libcompiler-rt =22.1.8 =h1637cdf_1
     - libcurl =8.21.0 =h7dba2e6_4
     - libcxx =22.1.8 =h19cb2f5_0
