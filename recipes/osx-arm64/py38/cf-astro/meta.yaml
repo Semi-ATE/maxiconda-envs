@@ -45,7 +45,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.18.3 =h2b252f5_0
+    - fontconfig =2.18.3 =h81aa574_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fribidi =1.0.16 =h84a0fba_1
@@ -66,11 +66,11 @@ requirements:
     - libclang-cpp22.1 =22.1.8 =default_hc257da1_6
     - libclang13 =22.1.8 =default_hed75349_6
     - libcxx =22.1.8 =h55c6f16_0
-    - libedit =3.1.20250104 =pl5321hafb1f1b_0
+    - libedit =3.1.20250104 =pl5321h26f1114_1
     - libexpat =2.8.1 =hf6b4638_1
     - libffi =3.7.0 =hcf2aa1b_0
-    - libfreetype =2.14.3 =hce30654_1
-    - libfreetype6 =2.14.3 =hdfa99f5_1
+    - libfreetype =2.14.3 =hce30654_2
+    - libfreetype6 =2.14.3 =h2ed5691_2
     - libglib =2.88.3 =ha531971_1
     - libharfbuzz =14.3.0 =h5a65909_0
     - libiconv =1.18 =h23cfdf5_2
@@ -84,8 +84,8 @@ requirements:
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
     - libopus =1.6.1 =h1a92334_0
-    - libpng =1.6.58 =h132b30e_0
-    - libpq =18.4 =h08b03b9_1
+    - libpng =1.6.58 =hf5e6511_1
+    - libpq =18.6 =h08b03b9_0
     - libsodium =1.0.18 =h27ca646_1
     - libsqlite =3.53.4 =h1ae2325_0
     - libvorbis =1.3.7 =h81086ad_2
@@ -140,7 +140,7 @@ requirements:
     - xz-tools =5.8.3 =h8088a28_1
     - zeromq =4.3.5 =hebf3989_1
     - zipp =3.21.0 =pyhd8ed1ab_0
-    - zstd =1.5.7 =hbf9d68e_6
+    - zstd =1.5.7 =hf451053_7
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

@@ -42,8 +42,8 @@ requirements:
     - backcall =0.2.0 =pyh9f0ad1d_0
     - boost =1.74.0 =py38h98a32fd_5
     - boost-cpp =1.74.0 =ha1c1135_8
-    - brotli =1.2.0 =hd651790_1
-    - brotli-bin =1.2.0 =he30d5cf_1
+    - brotli =1.2.0 =h52fc18c_3
+    - brotli-bin =1.2.0 =hdc3483e_3
     - brotli-python =1.0.9 =py38h5f8a8d0_8
     - bzip2 =1.0.8 =h4777abc_10
     - ca-certificates =2026.7.22 =hbd8a1cb_0
@@ -66,11 +66,11 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.18.3 =hba86a56_0
+    - fontconfig =2.18.3 =ha4b22b4_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.53.1 =py38ha5227f9_0
-    - freetype =2.14.3 =h8af1aa0_1
+    - freetype =2.14.3 =h8af1aa0_2
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - gettext =0.25.1 =h5ad3122_0
     - gettext-tools =0.25.1 =h5ad3122_0
@@ -107,9 +107,9 @@ requirements:
     - libasprintf-devel =0.25.1 =h5e0f5ae_0
     - libattr =2.5.2 =he30d5cf_1
     - libblas =3.9.0 =20_linuxaarch64_openblas
-    - libbrotlicommon =1.2.0 =he30d5cf_1
-    - libbrotlidec =1.2.0 =he30d5cf_1
-    - libbrotlienc =1.2.0 =he30d5cf_1
+    - libbrotlicommon =1.2.0 =h384ecca_3
+    - libbrotlidec =1.2.0 =h011f0d3_3
+    - libbrotlienc =1.2.0 =hb247b97_3
     - libcap =2.67 =h8246067_0
     - libcblas =3.9.0 =20_linuxaarch64_openblas
     - libclang =15.0.7 =default_hb368394_5
@@ -117,13 +117,13 @@ requirements:
     - libcups =2.3.3 =h4303303_3
     - libdb =6.2.32 =h01db608_0
     - libdeflate =1.25 =hfa851ae_1
-    - libedit =3.1.20250104 =pl5321h976ea20_0
+    - libedit =3.1.20250104 =pl5321hc48eb74_1
     - libevent =2.1.10 =h4f30969_4
     - libexpat =2.8.1 =hfae3067_1
     - libffi =3.7.0 =h376a255_0
     - libflac =1.5.0 =he9c94f4_1
-    - libfreetype =2.14.3 =h8af1aa0_1
-    - libfreetype6 =2.14.3 =hdae7a39_1
+    - libfreetype =2.14.3 =h8af1aa0_2
+    - libfreetype6 =2.14.3 =h9cc7050_2
     - libgcc =16.1.0 =h205dda4_1
     - libgcc-ng =16.1.0 =he9431aa_1
     - libgcrypt =1.12.2 =h8af1aa0_0
@@ -149,7 +149,7 @@ requirements:
     - libogg =1.3.5 =h86ecc28_1
     - libopenblas =0.3.25 =pthreads_h5a5ec62_0
     - libopus =1.6.1 =h80f16a2_0
-    - libpng =1.6.58 =h1abf092_0
+    - libpng =1.6.58 =hf9b7768_1
     - libpq =15.3 =hf616e62_1
     - libsndfile =1.2.2 =h7354dbf_3
     - libsodium =1.0.18 =hb9de7d4_1
@@ -258,7 +258,7 @@ requirements:
     - zeromq =4.3.5 =h2f0025b_1
     - zipp =3.21.0 =pyhd8ed1ab_0
     - zstandard =0.19.0 =py38hdacc76a_0
-    - zstd =1.5.7 =h85ac4a6_6
+    - zstd =1.5.7 =h9d15635_7
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

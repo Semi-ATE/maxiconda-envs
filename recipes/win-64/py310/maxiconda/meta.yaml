@@ -83,9 +83,9 @@ requirements:
     - binutils_impl_win-64 =2.46.1 =default_ha84baeb_102
     - bleach =6.4.0 =pyhcf101f3_0
     - bleach-with-css =6.4.0 =hac0b51c_0
-    - brotli =1.2.0 =h2d644bc_1
-    - brotli-bin =1.2.0 =hfd05255_1
-    - brotli-python =1.2.0 =py310hfff998d_1
+    - brotli =1.2.0 =hc8c2fe1_3
+    - brotli-bin =1.2.0 =hd477307_3
+    - brotli-python =1.2.0 =py310h967a849_3
     - bwidget =1.10.1 =h57928b3_1
     - bzip2 =1.0.8 =h0ad9c76_10
     - ca-certificates =2026.7.22 =h4c7d964_0
@@ -94,7 +94,7 @@ requirements:
     - cairo =1.18.4 =h477c42c_1
     - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.1 =py310h29418f3_1
-    - charset-normalizer =3.4.9 =pyhd8ed1ab_0
+    - charset-normalizer =3.5.0 =pyhd8ed1ab_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -113,12 +113,12 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.18.3 =hd47e2ca_0
+    - fontconfig =2.18.3 =hd47e2ca_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py310hdb0e946_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
-    - freetype =2.14.3 =h57928b3_1
+    - freetype =2.14.3 =h57928b3_2
     - fribidi =1.0.16 =hfd05255_1
     - frozenlist =1.8.0 =py310had1666a_0
     - gcc_impl_win-64 =16.1.0 =hf72cc1b_1
@@ -167,17 +167,17 @@ requirements:
     - ld_impl_win-64 =2.46.1 =default_hfd38196_102
     - lerc =4.2.0 =hd936e49_0
     - libblas =3.11.0 =9_h8455456_mkl
-    - libbrotlicommon =1.2.0 =hfd05255_1
-    - libbrotlidec =1.2.0 =hfd05255_1
-    - libbrotlienc =1.2.0 =hfd05255_1
+    - libbrotlicommon =1.2.0 =hf02afa3_3
+    - libbrotlidec =1.2.0 =h84f9c24_3
+    - libbrotlienc =1.2.0 =he2a975b_3
     - libcblas =3.11.0 =9_h2a3cdd5_mkl
     - libclang13 =22.1.8 =default_h2778606_6
     - libcurl =8.21.0 =hdb0ef4a_4
     - libdeflate =1.25 =h1a1d4e4_1
     - libexpat =2.8.1 =hac47afa_1
     - libffi =3.7.0 =h3d046cb_0
-    - libfreetype =2.14.3 =h57928b3_1
-    - libfreetype6 =2.14.3 =hdbac1cb_1
+    - libfreetype =2.14.3 =h57928b3_2
+    - libfreetype6 =2.14.3 =hdbac1cb_2
     - libgcc =16.1.0 =h110b43a_1
     - libgcc-devel_win-64 =16.1.0 =hecf7705_101
     - libgfortran =16.1.0 =h719f0c7_1
@@ -195,7 +195,7 @@ requirements:
     - liblzma =5.8.3 =hfd05255_1
     - libnghttp2 =1.68.1 =hac47afa_0
     - libogg =1.3.5 =h2466b09_1
-    - libpng =1.6.58 =h7351971_0
+    - libpng =1.6.58 =hdc8cecf_1
     - libpsl =0.23.1 =h9b16d47_0
     - libsodium =1.0.22 =h6a83c73_1
     - libsqlite =3.53.4 =hf5d6505_0
@@ -506,7 +506,7 @@ requirements:
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - websocket-client =1.9.0 =pyhd8ed1ab_0
-    - wheel =0.47.0 =pyhd8ed1ab_0
+    - wheel =0.48.0 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =pyh7428d3b_8
     - winpty =0.4.3 =4
     - xorg-libxau =1.0.12 =hba3369d_2
@@ -517,7 +517,7 @@ requirements:
     - zipp =4.1.0 =pyhcf101f3_0
     - zlib =1.3.2 =hfd05255_3
     - zlib-ng =2.3.3 =h0261ad2_1
-    - zstd =1.5.7 =h534d264_6
+    - zstd =1.5.7 =h534d264_7
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

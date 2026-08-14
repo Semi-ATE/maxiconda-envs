@@ -83,9 +83,9 @@ requirements:
     - backports.zstd =1.6.0 =py310h3e16e02_0
     - bleach =6.4.0 =pyhcf101f3_0
     - bleach-with-css =6.4.0 =hac0b51c_0
-    - brotli =1.2.0 =hf139dec_1
-    - brotli-bin =1.2.0 =h8616949_1
-    - brotli-python =1.2.0 =py310hab27952_1
+    - brotli =1.2.0 =ha9642f3_3
+    - brotli-bin =1.2.0 =h086410e_3
+    - brotli-python =1.2.0 =py310h6006261_3
     - bwidget =1.10.1 =h694c41f_1
     - bzip2 =1.0.8 =h374f1ed_10
     - c-ares =1.34.8 =ha3d0635_1
@@ -98,7 +98,7 @@ requirements:
     - cctools_osx-64 =1030.6.3 =llvm22_1_h0a1bb1c_5
     - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.1 =py310hd98513a_1
-    - charset-normalizer =3.4.9 =pyhd8ed1ab_0
+    - charset-normalizer =3.5.0 =pyhd8ed1ab_0
     - clang =22.1.8 =default_cfg_h83aaee2_6
     - clang-22 =22.1.8 =default_h436299c_6
     - clang-scan-deps =22.1.8 =default_hf44d2de_6
@@ -129,19 +129,19 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.18.3 =h7a4440b_0
+    - fontconfig =2.18.3 =h7f3b9c9_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py310h399bfa0_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
-    - freetype =2.14.3 =h694c41f_1
+    - freetype =2.14.3 =h694c41f_2
     - fribidi =1.0.16 =ha1e9b39_1
     - frozenlist =1.8.0 =py310hef20fdf_0
     - gcc_impl_osx-64 =16.1.0 =h0c54a16_1
     - gfortran_impl_osx-64 =16.1.0 =hf2a1d47_1
     - glib =2.88.3 =h42002cd_1
     - glib-tools =2.88.3 =h899c5e0_1
-    - gmp =6.3.0 =hf036a51_2
+    - gmp =6.3.0 =h65442b7_3
     - gmpy2 =2.3.0 =py310h3c5f367_1
     - graphite2 =1.3.15 =h2fb4741_1
     - greenlet =3.5.5 =py310h3f55cb5_0
@@ -186,9 +186,9 @@ requirements:
     - lerc =4.2.0 =h35c7297_0
     - libasprintf =0.25.1 =h3184127_1
     - libblas =3.11.0 =9_he492b99_openblas
-    - libbrotlicommon =1.2.0 =h8616949_1
-    - libbrotlidec =1.2.0 =h8616949_1
-    - libbrotlienc =1.2.0 =h8616949_1
+    - libbrotlicommon =1.2.0 =he0616a4_3
+    - libbrotlidec =1.2.0 =h4a2f56c_3
+    - libbrotlienc =1.2.0 =h3d41943_3
     - libcblas =3.11.0 =9_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
     - libclang-cpp22.1 =22.1.8 =default_hf44d2de_6
@@ -199,12 +199,12 @@ requirements:
     - libcxx-devel =22.1.8 =h7c275be_0
     - libcxx-headers =22.1.8 =h707e725_0
     - libdeflate =1.25 =h7ad9622_1
-    - libedit =3.1.20250104 =pl5321ha958ccf_0
+    - libedit =3.1.20250104 =pl5321hba2e2ab_1
     - libev =4.33 =ha3d0635_3
     - libexpat =2.8.1 =hcc62823_1
     - libffi =3.7.0 =h8c408c4_0
-    - libfreetype =2.14.3 =h694c41f_1
-    - libfreetype6 =2.14.3 =h58fbd8d_1
+    - libfreetype =2.14.3 =h694c41f_2
+    - libfreetype6 =2.14.3 =h8afe040_2
     - libgcc =16.1.0 =h13771c8_1
     - libgcc-devel_osx-64 =16.1.0 =h1408bef_101
     - libgettextpo =0.25.1 =h3184127_1
@@ -226,8 +226,8 @@ requirements:
     - libogg =1.3.5 =he3325bb_1
     - libopenblas =0.3.34 =openmp_h9e49c7b_0
     - libopus =1.6.1 =hc6ced15_0
-    - libpng =1.6.58 =he930e7c_0
-    - libpq =18.4 =h8b30867_1
+    - libpng =1.6.58 =h4382c61_1
+    - libpq =18.6 =h8b30867_0
     - libpsl =0.23.1 =h9bd203f_0
     - libsigtool =0.1.3 =h8c25ef7_1
     - libsodium =1.0.22 =ha3d0635_1
@@ -535,7 +535,7 @@ requirements:
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - websocket-client =1.9.0 =pyhd8ed1ab_0
-    - wheel =0.47.0 =pyhd8ed1ab_0
+    - wheel =0.48.0 =pyhd8ed1ab_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xorg-libxau =1.0.12 =ha1e9b39_2
     - xorg-libxdmcp =1.1.5 =ha1e9b39_2
@@ -544,7 +544,7 @@ requirements:
     - zeromq =4.3.5 =h84953be_11
     - zipp =4.1.0 =pyhcf101f3_0
     - zlib-ng =2.3.3 =h8bce59a_1
-    - zstd =1.5.7 =h3eecb57_6
+    - zstd =1.5.7 =hbc1a06c_7
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs

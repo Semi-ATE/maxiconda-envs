@@ -80,8 +80,8 @@ requirements:
     - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
     - backports.zoneinfo =0.2.1 =py37h994c40b_5
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.2.0 =hf139dec_1
-    - brotli-bin =1.2.0 =h8616949_1
+    - brotli =1.2.0 =ha9642f3_3
+    - brotli-bin =1.2.0 =h086410e_3
     - brotli-python =1.0.9 =py37h0582d14_7
     - bwidget =1.10.1 =h694c41f_1
     - bzip2 =1.0.8 =h374f1ed_10
@@ -114,11 +114,11 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_3
-    - fontconfig =2.18.3 =h7a4440b_0
+    - fontconfig =2.18.3 =h7f3b9c9_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.38.0 =py37h8052db5_0
-    - freetype =2.14.3 =h694c41f_1
+    - freetype =2.14.3 =h694c41f_2
     - fribidi =1.0.16 =ha1e9b39_1
     - frozenlist =1.3.1 =py37h74e8b7d_0
     - gettext =0.25.1 =he52a196_1
@@ -128,7 +128,7 @@ requirements:
     - git =2.42.0 =pl5321hbb4c4ee_0
     - glib =2.78.1 =hf4d7fad_0
     - glib-tools =2.78.1 =hf4d7fad_0
-    - gmp =6.3.0 =hf036a51_2
+    - gmp =6.3.0 =h65442b7_3
     - gmpy2 =2.1.2 =py37h60f582e_0
     - graphite2 =1.3.15 =h2fb4741_1
     - greenlet =1.1.3 =py37hac51a3e_0
@@ -161,9 +161,9 @@ requirements:
     - libasprintf =0.25.1 =h3184127_1
     - libasprintf-devel =0.25.1 =h3184127_1
     - libblas =3.9.0 =20_osx64_openblas
-    - libbrotlicommon =1.2.0 =h8616949_1
-    - libbrotlidec =1.2.0 =h8616949_1
-    - libbrotlienc =1.2.0 =h8616949_1
+    - libbrotlicommon =1.2.0 =he0616a4_3
+    - libbrotlidec =1.2.0 =h4a2f56c_3
+    - libbrotlienc =1.2.0 =h3d41943_3
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang =13.0.1 =default_h0340054_11
     - libclang-cpp16 =16.0.1 =default_hd25f202_0
@@ -171,12 +171,12 @@ requirements:
     - libcxx =22.1.8 =h19cb2f5_0
     - libcxx-devel =16.0.6 =h8f8a49f_2
     - libdeflate =1.25 =h7ad9622_1
-    - libedit =3.1.20250104 =pl5321ha958ccf_0
+    - libedit =3.1.20250104 =pl5321hba2e2ab_1
     - libev =4.33 =ha3d0635_3
     - libexpat =2.8.1 =hcc62823_1
     - libffi =3.4.6 =h281671d_1
-    - libfreetype =2.14.3 =h694c41f_1
-    - libfreetype6 =2.14.3 =h58fbd8d_1
+    - libfreetype =2.14.3 =h694c41f_2
+    - libfreetype6 =2.14.3 =h8afe040_2
     - libgcc =16.1.0 =h13771c8_1
     - libgettextpo =0.25.1 =h3184127_1
     - libgettextpo-devel =0.25.1 =h3184127_1
@@ -197,7 +197,7 @@ requirements:
     - libogg =1.3.5 =he3325bb_1
     - libopenblas =0.3.25 =openmp_hfef2a42_0
     - libopus =1.6.1 =hc6ced15_0
-    - libpng =1.6.58 =he930e7c_0
+    - libpng =1.6.58 =h4382c61_1
     - libpq =15.3 =h9dc22bb_1
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.53.4 =h77d7759_0
@@ -489,7 +489,7 @@ requirements:
     - zeromq =4.3.5 =h93d8f39_0
     - zipp =3.15.0 =pyhd8ed1ab_0
     - zlib =1.3.2 =hbb4bfdb_3
-    - zstd =1.5.7 =h3eecb57_6
+    - zstd =1.5.7 =hbc1a06c_7
 
 about:
   home: https://github.com/Semi-ATE/maxiconda-envs
