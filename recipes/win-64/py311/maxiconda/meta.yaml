@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.10.1 =py311hf893f09_0
     - cython =3.2.9 =py311h9990397_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.165.3 =py311hf51aa87_0
+    - hypothesis =6.165.7 =py311hf51aa87_0
     - ipython =9.16.1 =pyhe2676ad_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py311hce7227b_2
@@ -208,7 +208,7 @@ requirements:
     - libraqm =0.11.0 =h50d6d30_0
     - libsodium =1.0.22 =h6a83c73_1
     - libsqlite =3.53.4 =hf5d6505_0
-    - libssh2 =1.11.1 =h9aa295b_0
+    - libssh2 =1.11.1 =h734d217_1
     - libstdcxx =16.1.0 =hae5796f_1
     - libstdcxx-devel_win-64 =16.1.0 =hc76ffd0_101
     - libtiff =4.7.2 =h8f73337_0
@@ -249,7 +249,7 @@ requirements:
     - openssl =3.6.3 =hf411b9b_1
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.10.1 =h57928b3_0
+    - pandoc =3.10.2 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.58.2 =h13911b6_0
     - parso =0.8.7 =pyhcf101f3_0
@@ -258,10 +258,10 @@ requirements:
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h5112557_3
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
-    - platformdirs =4.11.2 =pyhcf101f3_0
+    - platformdirs =4.11.3 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
-    - progressbar2 =4.5.0 =pyhd8ed1ab_1
+    - progressbar2 =4.6.0 =pyhd8ed1ab_0
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py311h3f79411_0

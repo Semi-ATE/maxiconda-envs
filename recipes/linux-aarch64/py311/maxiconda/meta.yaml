@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.10.1 =py311had3b7ee_0
     - cython =3.2.9 =py311hd9fb77f_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.165.3 =py311hddf1d3d_0
+    - hypothesis =6.165.7 =py311h0cfed9b_0
     - ipython =9.16.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py311h6d534f4_2
@@ -179,7 +179,7 @@ requirements:
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.0 =pyhcf101f3_0
     - kernel-headers_linux-aarch64 =6.12.0 =h05a177a_6
-    - keyutils =1.6.3 =h86ecc28_0
+    - keyutils =1.6.3 =h5bc82ec_1
     - kiwisolver =1.5.0 =py311h229e7f7_0
     - krb5 =1.22.2 =h2fb54aa_1
     - lame =4.0 =h7ce06ba_1
@@ -198,7 +198,7 @@ requirements:
     - libcups =2.3.3 =h4f2b762_6
     - libcurl =8.21.0 =h23397ac_4
     - libdeflate =1.25 =hfa851ae_1
-    - libdrm =2.4.127 =he30d5cf_1
+    - libdrm =2.4.129 =h5bc82ec_0
     - libedit =3.1.20250104 =pl5321hc48eb74_1
     - libegl =1.7.0 =hd24410f_3
     - libegl-devel =1.7.0 =hd24410f_3
@@ -244,7 +244,7 @@ requirements:
     - libsndfile =1.2.2 =h7354dbf_3
     - libsodium =1.0.22 =h80f16a2_1
     - libsqlite =3.53.4 =h022381a_0
-    - libssh2 =1.11.1 =h18c354c_0
+    - libssh2 =1.11.1 =h7572e3e_1
     - libstdcxx =16.1.0 =hef695bb_1
     - libstdcxx-devel_linux-aarch64 =16.1.0 =h2445e1f_101
     - libstdcxx-ng =16.1.0 =hdbbeba8_1
@@ -288,7 +288,7 @@ requirements:
     - openssl =3.6.3 =h546c87b_1
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.10.1 =h8af1aa0_0
+    - pandoc =3.10.2 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.58.2 =h8547ced_0
     - parso =0.8.7 =pyhcf101f3_0
@@ -298,10 +298,10 @@ requirements:
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h7ac5ae9_3
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
-    - platformdirs =4.11.2 =pyhcf101f3_0
+    - platformdirs =4.11.3 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
-    - progressbar2 =4.5.0 =pyhd8ed1ab_1
+    - progressbar2 =4.6.0 =pyhd8ed1ab_0
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py311h164a683_0
@@ -589,7 +589,7 @@ requirements:
     - yarl =1.24.5 =py311h164a683_0
     - zeromq =4.3.5 =hec9560f_11
     - zipp =4.1.0 =pyhcf101f3_0
-    - zlib-ng =2.3.3 =ha7cb516_1
+    - zlib-ng =2.3.3 =h1024f78_1
     - zstandard =0.25.0 =py311h51cfe5d_1
     - zstd =1.5.7 =h9d15635_7
 
