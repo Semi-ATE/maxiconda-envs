@@ -200,12 +200,12 @@ requirements:
     - libarrow-acero =20.0.0 =h7d8d6a5_34_cpu
     - libarrow-dataset =20.0.0 =h7d8d6a5_34_cpu
     - libarrow-substrait =20.0.0 =hf865cc0_34_cpu
-    - libblas =3.11.0 =9_h0adab6e_openblas
+    - libblas =3.9.0 =35_h5709861_mkl
     - libboost =1.88.0 =h9dfe17d_7
     - libbrotlicommon =1.2.0 =hf02afa3_3
     - libbrotlidec =1.2.0 =h84f9c24_3
     - libbrotlienc =1.2.0 =he2a975b_3
-    - libcblas =3.11.0 =9_h2a8eebe_openblas
+    - libcblas =3.9.0 =35_h2a3cdd5_mkl
     - libclang13 =22.1.8 =default_ha2db4b5_2
     - libcrc32c =1.1.2 =h0e60522_0
     - libcurl =8.18.0 =h43ecb02_0
@@ -227,11 +227,10 @@ requirements:
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
     - libjpeg-turbo =3.2.0 =hfd05255_1
-    - liblapack =3.11.0 =9_hd232482_openblas
+    - liblapack =3.9.0 =35_hf9ab0e9_mkl
     - liblightgbm =4.6.0 =cpu_h5d2ca61_3
     - liblzma =5.8.3 =hfd05255_1
     - libogg =1.3.5 =h2466b09_1
-    - libopenblas =0.3.34 =pthreads_h877e47f_0
     - libparquet =20.0.0 =h7051d1f_34_cpu
     - libpng =1.6.58 =hdc8cecf_1
     - libprotobuf =6.31.1 =h2ec36af_5
@@ -250,6 +249,7 @@ requirements:
     - libxml2 =2.13.9 =h741aa76_0
     - libxslt =1.1.43 =h25c3957_0
     - libzlib =1.3.2 =hfd05255_3
+    - llvm-openmp =22.1.8 =h4fa8253_0
     - llvmlite =0.43.0 =py39he94c479_1
     - lxml =6.0.0 =py39hfee6a47_0
     - lz4-c =1.10.0 =h6a83c73_2
@@ -263,6 +263,7 @@ requirements:
     - mdurl =0.1.2 =pyhd8ed1ab_1
     - miniful =0.0.6 =pyhd8ed1ab_1
     - missingno =0.5.2 =pyhd8ed1ab_1
+    - mkl =2024.2.2 =h57928b3_16
     - mlflow =3.1.4 =hcbf5309_1
     - mlflow-skinny =3.1.4 =hcbf5309_1
     - mlflow-ui =3.1.4 =py39hcbf5309_1
@@ -275,9 +276,8 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - networkx =3.2.1 =pyhd8ed1ab_0
     - nltk =3.9.1 =pyhd8ed1ab_1
-    - nomkl =1.0 =h5ca1d4c_0
     - numba =0.60.0 =py39h5dcb127_0
-    - numexpr =2.10.2 =py39h545706d_100
+    - numexpr =2.10.2 =mkl_py39h633a001_0
     - opencl-headers =2025.06.13 =h826ebb9_0
     - openjpeg =2.5.4 =h0e57b4f_0
     - openssl =3.6.3 =hf411b9b_1
@@ -379,7 +379,7 @@ requirements:
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - starlette =0.47.2 =pyh82d4cca_0
     - tangled-up-in-unicode =0.2.0 =pyhd8ed1ab_1
-    - tbb =2022.3.0 =hd094cb3_1
+    - tbb =2021.13.0 =hd094cb3_4
     - textblob =0.15.3 =py_0
     - thinc =8.3.6 =py39h44eb426_0
     - threadpoolctl =3.6.0 =pyhecae5ae_0

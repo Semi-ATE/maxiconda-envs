@@ -98,8 +98,8 @@ requirements:
     - cached_property =1.5.2 =pyha770c72_2
     - cairo =1.18.4 =h0b6afd8_1
     - certifi =2026.7.22 =pyhd8ed1ab_0
-    - cffi =2.1.1 =py312h13f58d0_1
-    - charset-normalizer =3.5.0 =pyhd8ed1ab_0
+    - cffi =2.1.1 =py312h563f9cf_2
+    - charset-normalizer =3.5.1 =pyhd8ed1ab_0
     - click =8.2.1 =pyh707e725_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -195,7 +195,7 @@ requirements:
     - kernel-headers_linux-aarch64 =6.12.0 =h05a177a_6
     - keyutils =1.6.3 =h5bc82ec_1
     - kiwisolver =1.5.0 =py312h1683e8e_0
-    - krb5 =1.22.2 =h2fb54aa_1
+    - krb5 =1.22.2 =h095d8e5_2
     - lame =4.0 =h7ce06ba_1
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.19.1 =h9d5b58d_1
@@ -557,7 +557,7 @@ requirements:
     - sed =4.10 =he1c5539_0
     - send2trash =2.1.0 =pyha191276_1
     - setuptools =84.0.0 =pyh332efcf_0
-    - simdjson =4.6.6 =hdc560ac_1
+    - simdjson =4.6.7 =h45ce4d5_0
     - sip =6.16.0 =py312hfcd9f9b_0
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.3 =pyhcf101f3_1
@@ -579,7 +579,7 @@ requirements:
     - traitlets =5.16.1 =pyhcf101f3_0
     - truststore =0.10.4 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
-    - typing-inspection =0.4.3 =pyhcf101f3_0
+    - typing-inspection =0.4.4 =pyhcf101f3_0
     - typing_extensions =4.16.0 =pyhcf101f3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
     - tzdata =2026c =h151e31d_0
