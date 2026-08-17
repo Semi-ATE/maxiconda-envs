@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.10.1 =py311hf893f09_0
     - cython =3.2.9 =py311h9990397_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.165.7 =py311hf51aa87_0
+    - hypothesis =6.165.9 =py311hf51aa87_0
     - ipython =9.16.1 =pyhe2676ad_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py311hce7227b_2
@@ -78,7 +78,7 @@ requirements:
     - async-lru =2.3.0 =pyhcf101f3_0
     - attrs =26.1.0 =pyhcf101f3_0
     - babel =2.18.0 =pyhcf101f3_1
-    - backports.zstd =1.6.0 =py311h71c1bcc_0
+    - backports.zstd =1.7.0 =py311h71c1bcc_0
     - binutils_impl_win-64 =2.46.1 =default_ha84baeb_102
     - bleach =6.4.0 =pyhcf101f3_0
     - bleach-with-css =6.4.0 =hac0b51c_0
@@ -277,8 +277,8 @@ requirements:
     - pyside6 =6.11.1 =py311he824864_1
     - pysocks =1.7.1 =pyh09c184e_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
-    - python-fastjsonschema =2.22.1 =pyhcf101f3_0
-    - python-json-logger =4.1.0 =pyhd8ed1ab_0
+    - python-fastjsonschema =2.22.2 =pyhcf101f3_0
+    - python-json-logger =4.2.0 =pyhd8ed1ab_0
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python-utils =4.0.0 =pyh332efcf_0
     - python_abi =3.11 =8_cp311

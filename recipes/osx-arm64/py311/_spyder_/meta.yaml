@@ -52,7 +52,7 @@ requirements:
     - babel =2.18.0 =pyhcf101f3_1
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhcf101f3_2
-    - backports.zstd =1.6.0 =py311h36d4fbb_0
+    - backports.zstd =1.7.0 =py311hdee5a0d_0
     - bcrypt =5.0.0 =py311h71babbd_1
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - binaryornot =0.6.0 =pyhcf101f3_0
@@ -68,7 +68,7 @@ requirements:
     - cattrs =26.1.0 =pyhcf101f3_1
     - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.1 =py311h2e98d63_2
-    - chardet =7.5.1 =pyhcf101f3_0
+    - chardet =7.6.0 =pyhcf101f3_0
     - charset-normalizer =3.5.1 =pyhd8ed1ab_0
     - click =8.4.2 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
@@ -258,11 +258,11 @@ requirements:
     - pyqt5-sip =12.17.0 =py311h251fd82_2
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
-    - python-fastjsonschema =2.22.1 =pyhcf101f3_0
+    - python-fastjsonschema =2.22.2 =pyhcf101f3_0
     - python-gssapi =1.11.1 =py311hd4857b4_1
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
-    - python-lsp-ruff =2.3.1 =pyhcf101f3_0
+    - python-lsp-ruff =2.3.2 =pyhcf101f3_0
     - python-lsp-server =1.15.0 =pyh332efcf_0
     - python-lsp-server-base =1.15.0 =pyhd8ed1ab_0
     - python-slugify =8.0.4 =pyhd8ed1ab_1
@@ -292,7 +292,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =2026.6.3 =py311haff49d3_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.16.2 =h828de30_0
+    - ruff =0.16.3 =h20cfa0c_0
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.16.0 =py311h8325047_0
     - six =1.17.0 =pyhe01879c_1
