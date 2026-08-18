@@ -31,12 +31,12 @@ requirements:
     - bitarray =3.10.1 =py312he5662c2_0
     - cython =3.2.9 =py312hd245ac3_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.165.9 =py312hdabe01f_0
+    - hypothesis =6.165.10 =py312hdabe01f_0
     - ipython =9.16.1 =pyhe2676ad_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py312h8e0e4fc_2
-    - numba =0.66.0 =py312ha1a9051_1
-    - numpy =2.4.6 =py312ha3f287d_0
+    - numba =0.67.0 =py312ha1a9051_0
+    - numpy =2.5.2 =py312ha3f287d_0
     - openpyxl =3.1.5 =py312h83acffa_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =3.0.5 =py312h95189c4_1
@@ -154,7 +154,7 @@ requirements:
     - gxx_impl_win-64 =16.1.0 =he3d2c83_1
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
-    - harfbuzz =14.3.0 =h57928b3_0
+    - harfbuzz =14.3.1 =h57928b3_0
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -208,8 +208,8 @@ requirements:
     - libgfortran5 =16.1.0 =h94075d5_1
     - libglib =2.88.3 =he810d59_1
     - libgomp =16.1.0 =h8ee18e1_1
-    - libharfbuzz =14.3.0 =h03b5201_0
-    - libharfbuzz-devel =14.3.0 =h03b5201_0
+    - libharfbuzz =14.3.1 =h03b5201_0
+    - libharfbuzz-devel =14.3.1 =h03b5201_0
     - libhwloc =2.13.0 =default_h049141e_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
@@ -224,10 +224,10 @@ requirements:
     - libnghttp2 =1.68.1 =hac47afa_0
     - libogg =1.3.5 =h2466b09_1
     - libpng =1.6.58 =hdc8cecf_1
-    - libpsl =0.23.1 =h9b16d47_0
+    - libpsl =0.23.1 =h9b16d47_1
     - libraqm =0.11.0 =h50d6d30_0
     - libsodium =1.0.22 =h6a83c73_1
-    - libsolv =0.7.39 =h8883371_0
+    - libsolv =0.7.39 =h8883371_1
     - libsqlite =3.53.4 =hf5d6505_0
     - libssh2 =1.11.1 =h734d217_1
     - libstdcxx =16.1.0 =hae5796f_1
@@ -244,7 +244,7 @@ requirements:
     - libxslt =1.1.43 =h0fbe4c1_1
     - libzlib =1.3.2 =hfd05255_3
     - llvm-openmp =22.1.8 =h4fa8253_0
-    - llvmlite =0.48.0 =py312h1534abe_1
+    - llvmlite =0.49.0 =py312h1534abe_0
     - lz4-c =1.10.0 =h6a83c73_2
     - lzo =2.10 =h6a83c73_1002
     - m2-conda-epoch =20250515 =0_x86_64
@@ -297,7 +297,7 @@ requirements:
     - pycosat =0.6.6 =py312he06e257_4
     - pycparser =3.0 =pyhcf101f3_0
     - pydantic-core =2.46.4 =py312hdabe01f_0
-    - pygments =2.20.0 =pyhd8ed1ab_0
+    - pygments =2.21.0 =pyhcf101f3_0
     - pyparsing =3.3.2 =pyhcf101f3_0
     - pyproject_hooks =1.2.0 =pyhd8ed1ab_1
     - pyqt5-sip =12.17.0 =py312hbb81ca0_2

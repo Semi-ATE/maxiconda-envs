@@ -31,11 +31,11 @@ requirements:
     - bitarray =3.10.1 =py310h1637853_0
     - cython =3.2.9 =py310h23e71ea_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.165.9 =py310h034784e_0
+    - hypothesis =6.165.10 =py310h034784e_0
     - ipython =8.37.0 =pyha7b4d00_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py310h5588dad_0
-    - numba =0.66.0 =py310h699e580_1
+    - numba =0.67.0 =py310h699e580_0
     - numpy =2.2.6 =py310h4987827_0
     - openpyxl =3.1.5 =py310h5fa2519_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -133,7 +133,7 @@ requirements:
     - gxx_impl_win-64 =16.1.0 =he3d2c83_1
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
-    - harfbuzz =14.3.0 =h57928b3_0
+    - harfbuzz =14.3.1 =h57928b3_0
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -184,8 +184,8 @@ requirements:
     - libgfortran5 =16.1.0 =h94075d5_1
     - libglib =2.88.3 =he810d59_1
     - libgomp =16.1.0 =h8ee18e1_1
-    - libharfbuzz =14.3.0 =h03b5201_0
-    - libharfbuzz-devel =14.3.0 =h03b5201_0
+    - libharfbuzz =14.3.1 =h03b5201_0
+    - libharfbuzz-devel =14.3.1 =h03b5201_0
     - libhwloc =2.13.0 =default_h049141e_1000
     - libiconv =1.18 =hc1393d2_2
     - libintl =0.22.5 =h5728263_3
@@ -196,7 +196,7 @@ requirements:
     - libnghttp2 =1.68.1 =hac47afa_0
     - libogg =1.3.5 =h2466b09_1
     - libpng =1.6.58 =hdc8cecf_1
-    - libpsl =0.23.1 =h9b16d47_0
+    - libpsl =0.23.1 =h9b16d47_1
     - libsodium =1.0.22 =h6a83c73_1
     - libsqlite =3.53.4 =hf5d6505_0
     - libssh2 =1.11.1 =h734d217_1
@@ -214,7 +214,7 @@ requirements:
     - libxslt =1.1.43 =h0fbe4c1_1
     - libzlib =1.3.2 =hfd05255_3
     - llvm-openmp =22.1.8 =h4fa8253_0
-    - llvmlite =0.48.0 =py310hb6f59f5_1
+    - llvmlite =0.49.0 =py310hb6f59f5_0
     - m2-conda-epoch =20250515 =0_x86_64
     - m2w64-sysroot_win-64 =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
     - markupsafe =3.0.3 =py310hdb0e946_1
@@ -260,7 +260,7 @@ requirements:
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycparser =3.0 =pyhcf101f3_0
     - pydantic-core =2.46.4 =py310h034784e_0
-    - pygments =2.20.0 =pyhd8ed1ab_0
+    - pygments =2.21.0 =pyhcf101f3_0
     - pyparsing =3.3.2 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py310h73ae2b4_2
     - pyside6 =6.11.1 =py310h059d4f2_1

@@ -152,7 +152,7 @@ requirements:
     - gstreamer =1.26.11 =h087694b_0
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =14.3.0 =hce30654_0
+    - harfbuzz =14.3.1 =hce30654_0
     - hpack =4.0.0 =pyh9f0ad1d_0
     - httpcore =1.0.7 =pyh29332c3_1
     - httpx =0.27.2 =pyhd8ed1ab_0
@@ -214,8 +214,8 @@ requirements:
     - libgfortran =16.1.0 =h07b0088_1
     - libgfortran5 =16.1.0 =h32cdfcc_1
     - libglib =2.88.3 =ha531971_1
-    - libharfbuzz =14.3.0 =h5a65909_0
-    - libharfbuzz-devel =14.3.0 =h5a65909_0
+    - libharfbuzz =14.3.1 =hcda0f7c_0
+    - libharfbuzz-devel =14.3.1 =hcda0f7c_0
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -233,7 +233,7 @@ requirements:
     - libopus =1.6.1 =h1a92334_0
     - libpng =1.6.58 =hf5e6511_1
     - libpq =18.6 =h08b03b9_0
-    - libpsl =0.23.1 =h7a62e17_0
+    - libpsl =0.23.1 =hdb0c161_1
     - libsigtool =0.1.3 =h98dc951_1
     - libsodium =1.0.18 =h27ca646_1
     - libsqlite =3.53.4 =h1ae2325_0

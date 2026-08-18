@@ -145,7 +145,7 @@ requirements:
     - gxx_linux-64 =16.1.0 =h5525346_0
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =14.3.0 =ha770c72_0
+    - harfbuzz =14.3.1 =ha770c72_0
     - hpack =4.0.0 =pyh9f0ad1d_0
     - httpcore =1.0.7 =pyh29332c3_1
     - httpx =0.27.2 =pyhd8ed1ab_0
@@ -214,8 +214,8 @@ requirements:
     - libglvnd =1.7.0 =ha4b6fd6_3
     - libglx =1.7.0 =ha4b6fd6_3
     - libgomp =16.1.0 =he0feb66_1
-    - libharfbuzz =14.3.0 =h17a8019_0
-    - libharfbuzz-devel =14.3.0 =h17a8019_0
+    - libharfbuzz =14.3.1 =h23af247_0
+    - libharfbuzz-devel =14.3.1 =h23af247_0
     - libiconv =1.18 =h3b78370_2
     - libjpeg-turbo =3.2.0 =hb03c661_1
     - liblapack =3.9.0 =20_linux64_openblas
@@ -232,7 +232,7 @@ requirements:
     - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.58 =h922cc85_1
     - libpq =18.6 =h9d76c99_0
-    - libpsl =0.23.1 =hf670292_0
+    - libpsl =0.23.1 =hd9e3e90_1
     - libsanitizer =16.1.0 =hf2715c6_1
     - libsndfile =1.2.2 =hbc6d301_3
     - libsodium =1.0.18 =h36c2ea0_1

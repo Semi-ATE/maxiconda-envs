@@ -64,7 +64,7 @@ requirements:
     - graphite2 =1.3.15 =h54a6638_1
     - gst-plugins-base =1.26.11 =h6d08254_0
     - gstreamer =1.26.11 =h29cf534_0
-    - harfbuzz =14.3.0 =ha770c72_0
+    - harfbuzz =14.3.1 =ha770c72_0
     - icu =78.3 =py310h44b86e0_2
     - importlib-metadata =8.5.0 =pyha770c72_0
     - ipykernel =6.29.5 =pyh3099207_0
@@ -100,8 +100,8 @@ requirements:
     - libglvnd =1.7.0 =ha4b6fd6_3
     - libglx =1.7.0 =ha4b6fd6_3
     - libgomp =16.1.0 =he0feb66_1
-    - libharfbuzz =14.3.0 =h17a8019_0
-    - libharfbuzz-devel =14.3.0 =h17a8019_0
+    - libharfbuzz =14.3.1 =h23af247_0
+    - libharfbuzz-devel =14.3.1 =h23af247_0
     - libiconv =1.18 =h3b78370_2
     - libjpeg-turbo =3.2.0 =hb03c661_1
     - liblapack =3.11.0 =9_h47877c9_openblas

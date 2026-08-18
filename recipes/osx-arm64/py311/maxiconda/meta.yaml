@@ -30,11 +30,11 @@ requirements:
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - cython =3.2.9 =py311hf7a0982_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.165.9 =py311h5821c18_0
+    - hypothesis =6.165.10 =py311h5821c18_0
     - ipython =9.16.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py311ha01d089_2
-    - numba =0.66.0 =py311h6ad6fc7_1
+    - numba =0.67.0 =py311hf682900_0
     - numpy =2.4.6 =py311hbd1492f_0
     - openpyxl =3.1.5 =py311h33e2021_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -156,7 +156,7 @@ requirements:
     - gstreamer =1.26.11 =h087694b_0
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
-    - harfbuzz =14.3.0 =hce30654_0
+    - harfbuzz =14.3.1 =hce30654_0
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -218,8 +218,8 @@ requirements:
     - libgfortran =16.1.0 =h07b0088_1
     - libgfortran5 =16.1.0 =h32cdfcc_1
     - libglib =2.88.3 =ha531971_1
-    - libharfbuzz =14.3.0 =h5a65909_0
-    - libharfbuzz-devel =14.3.0 =h5a65909_0
+    - libharfbuzz =14.3.1 =hcda0f7c_0
+    - libharfbuzz-devel =14.3.1 =hcda0f7c_0
     - libiconv =1.18 =h23cfdf5_2
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -235,7 +235,7 @@ requirements:
     - libopus =1.6.1 =h1a92334_0
     - libpng =1.6.58 =hf5e6511_1
     - libpq =18.6 =h08b03b9_0
-    - libpsl =0.23.1 =h7a62e17_0
+    - libpsl =0.23.1 =hdb0c161_1
     - libraqm =0.11.0 =h45af499_0
     - libsigtool =0.1.3 =h98dc951_1
     - libsodium =1.0.22 =h1a92334_1
@@ -252,7 +252,7 @@ requirements:
     - llvm-openmp =22.1.8 =hc7d1edf_0
     - llvm-tools =22.1.8 =hd34ed20_1
     - llvm-tools-22 =22.1.8 =hb545844_1
-    - llvmlite =0.48.0 =py311h68bb4d2_1
+    - llvmlite =0.49.0 =py311h68bb4d2_0
     - make =4.4.1 =h84a0fba_3
     - markupsafe =3.0.3 =py311hc290fe0_1
     - matplotlib-base =3.11.1 =py311h3c3ad35_2
@@ -300,7 +300,7 @@ requirements:
     - pycosat =0.6.6 =py311hf19d84e_4
     - pycparser =3.0 =pyhcf101f3_0
     - pydantic-core =2.46.4 =py311hf7c400d_0
-    - pygments =2.20.0 =pyhd8ed1ab_0
+    - pygments =2.21.0 =pyhcf101f3_0
     - pyobjc-core =12.2.2 =py311hcd12bbf_0
     - pyobjc-framework-cocoa =12.2.2 =py311h01ff9c6_0
     - pyopenssl =26.4.0 =pyhcf101f3_0

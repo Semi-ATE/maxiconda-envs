@@ -31,11 +31,11 @@ requirements:
     - bitarray =3.10.1 =py310h139afa4_0
     - cython =3.2.9 =py310ha58568a_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.165.9 =py310hbfe5df0_0
+    - hypothesis =6.165.10 =py310hbfe5df0_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py310hff52083_0
-    - numba =0.66.0 =py310h25320af_1
+    - numba =0.67.0 =py310h2dc56eb_0
     - numpy =2.2.6 =py310hefbff90_0
     - openpyxl =3.1.5 =py310h05b0c27_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -143,7 +143,7 @@ requirements:
     - gxx_linux-64 =16.1.0 =h5525346_0
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
-    - harfbuzz =14.3.0 =ha770c72_0
+    - harfbuzz =14.3.1 =ha770c72_0
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -213,8 +213,8 @@ requirements:
     - libglx =1.7.0 =ha4b6fd6_3
     - libglx-devel =1.7.0 =ha4b6fd6_3
     - libgomp =16.1.0 =he0feb66_1
-    - libharfbuzz =14.3.0 =h17a8019_0
-    - libharfbuzz-devel =14.3.0 =h17a8019_0
+    - libharfbuzz =14.3.1 =h23af247_0
+    - libharfbuzz-devel =14.3.1 =h23af247_0
     - libiconv =1.18 =h3b78370_2
     - libjpeg-turbo =3.2.0 =hb03c661_1
     - liblapack =3.11.0 =9_h47877c9_openblas
@@ -230,7 +230,7 @@ requirements:
     - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.58 =h922cc85_1
     - libpq =18.6 =h9d76c99_0
-    - libpsl =0.23.1 =hf670292_0
+    - libpsl =0.23.1 =hd9e3e90_1
     - libsanitizer =16.1.0 =hf2715c6_1
     - libsndfile =1.2.2 =hbc6d301_3
     - libsodium =1.0.22 =h280c20c_1
@@ -253,7 +253,7 @@ requirements:
     - libxml2-16 =2.15.3 =hca6bf5a_0
     - libxslt =1.1.43 =h711ed8c_1
     - libzlib =1.3.2 =h25fd6f3_3
-    - llvmlite =0.48.0 =py310hfa4cad4_1
+    - llvmlite =0.49.0 =py310hfa4cad4_0
     - make =4.4.1 =hb03c661_3
     - markupsafe =3.0.3 =py310h3406613_1
     - matplotlib-base =3.10.9 =py310hfde16b3_0
@@ -303,7 +303,7 @@ requirements:
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycparser =3.0 =pyhcf101f3_0
     - pydantic-core =2.46.4 =py310hd8f68c5_0
-    - pygments =2.20.0 =pyhd8ed1ab_0
+    - pygments =2.21.0 =pyhcf101f3_0
     - pyparsing =3.3.2 =pyhcf101f3_0
     - pyqt5-sip =12.17.0 =py310hea6c23e_2
     - pyside6 =6.11.1 =py310hb9dbd67_1
@@ -319,7 +319,7 @@ requirements:
     - pyzmq =27.1.0 =py310ha71cbf4_3
     - qhull =2020.2 =h434a139_5
     - qt-main =5.15.15 =h0c412b5_8
-    - qt6-main =6.11.1 =pl5321h16c4a6b_1
+    - qt6-main =6.11.1 =pl5321h16c4a6b_2
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r45h54b55ab_1
     - r-assertthat =0.2.1 =r45hc72bb7e_6
