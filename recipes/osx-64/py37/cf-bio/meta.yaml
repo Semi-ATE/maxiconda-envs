@@ -119,7 +119,7 @@ requirements:
     - libgfortran =16.1.0 =h7e5c614_1
     - libgfortran5 =16.1.0 =h70d9f54_1
     - libglib =2.86.0 =h7cafd41_0
-    - libiconv =1.18 =h57a12c2_2
+    - libiconv =1.18 =h4ae439b_3
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - liblapack =3.9.0 =20_osx64_openblas
@@ -134,7 +134,7 @@ requirements:
     - libpng =1.6.58 =h4382c61_1
     - libpq =15.3 =h9dc22bb_1
     - libsodium =1.0.18 =hbcb3906_1
-    - libsqlite =3.53.4 =h77d7759_0
+    - libsqlite =3.53.4 =ha5db789_1
     - libssh2 =1.11.0 =hd019ec5_0
     - libtiff =4.4.0 =h6268bbc_5
     - libvorbis =1.3.7 =ha059160_2
@@ -184,7 +184,7 @@ requirements:
     - pytz =2024.2 =pyhd8ed1ab_0
     - pyzmq =24.0.1 =py37haa7bc41_0
     - qt-main =5.15.8 =h1d3b3f8_6
-    - readline =8.3 =h68b038d_0
+    - readline =8.3 =h000c2f7_1
     - reportlab =3.5.68 =py37h08983f2_1
     - scikit-learn =1.0.2 =py37h572704e_0
     - seaborn =0.12.2 =hd8ed1ab_0
@@ -193,7 +193,7 @@ requirements:
     - sip =6.7.2 =py37hac51a3e_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.42 =py37h8052db5_0
-    - sqlite =3.53.4 =hd4d344e_0
+    - sqlite =3.53.4 =hdea7a7b_1
     - statsmodels =0.13.2 =py37h4de8ad1_0
     - threadpoolctl =3.1.0 =pyh8a188c0_0
     - tk =8.6.13 =hb794df6_3

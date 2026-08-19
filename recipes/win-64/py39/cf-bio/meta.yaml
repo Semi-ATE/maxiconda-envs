@@ -119,7 +119,7 @@ requirements:
     - libglib =2.84.3 =h1c1036b_0
     - libgomp =16.1.0 =h8ee18e1_1
     - libhwloc =2.12.1 =default_h88281d1_1000
-    - libiconv =1.18 =hc1393d2_2
+    - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
     - libjpeg-turbo =3.2.0 =hfd05255_1
@@ -131,13 +131,13 @@ requirements:
     - libpq =17.7 =h7c87ebf_1
     - librdkit =2025.03.5 =h0cb3073_0
     - libsodium =1.0.20 =hc70643c_0
-    - libsqlite =3.53.4 =hf5d6505_0
+    - libsqlite =3.53.4 =hf5d6505_1
     - libssh2 =1.11.1 =h734d217_1
     - libtiff =4.7.2 =h8f73337_0
     - libvorbis =1.3.7 =h5112557_2
     - libwebp-base =1.6.0 =h4d5522a_1
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_10
-    - libxcb =1.17.0 =h0e4246c_0
+    - libxcb =1.17.0 =h874e120_1
     - libxml2 =2.13.9 =h741aa76_0
     - libxslt =1.1.43 =h25c3957_0
     - libzip =1.11.2 =h3135430_0
@@ -221,7 +221,7 @@ requirements:
     - vs2015_runtime =14.51.36247 =h633cb9f_41
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
-    - xorg-libx11 =1.8.13 =hfa52320_0
+    - xorg-libx11 =1.8.13 =hfa52320_1
     - xorg-libxau =1.0.12 =hba3369d_2
     - xorg-libxdmcp =1.1.5 =hba3369d_2
     - xorg-libxfixes =6.0.2 =hba3369d_0

@@ -145,7 +145,7 @@ requirements:
     - libglvnd =1.7.0 =ha4b6fd6_3
     - libgomp =16.1.0 =he0feb66_1
     - libgpg-error =1.61 =h54a6638_2
-    - libiconv =1.18 =h3b78370_2
+    - libiconv =1.18 =h0cb94f2_3
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm15 =15.0.7 =hadd5161_1
     - libltdl =2.4.3a =h5888daf_0
@@ -162,7 +162,7 @@ requirements:
     - libpq =15.3 =hbcd7760_1
     - libsndfile =1.2.2 =hbc6d301_3
     - libsodium =1.0.18 =h36c2ea0_1
-    - libsqlite =3.53.4 =h0c1763c_0
+    - libsqlite =3.53.4 =h0737f62_1
     - libssh2 =1.11.0 =h0841786_0
     - libstdcxx =16.1.0 =h934c35e_1
     - libstdcxx-ng =16.1.0 =hdf11a46_1
@@ -223,7 +223,7 @@ requirements:
     - pytz =2024.2 =pyhd8ed1ab_0
     - pyzmq =24.0.1 =py37h0c0c2a8_0
     - qt-main =5.15.8 =h5d23da1_6
-    - readline =8.3 =h853b02a_0
+    - readline =8.3 =hd6e31c0_1
     - reportlab =3.5.68 =py37h69800bb_1
     - scikit-learn =1.0.2 =py37hf9e9bfc_0
     - seaborn =0.12.2 =hd8ed1ab_0
@@ -232,7 +232,7 @@ requirements:
     - sip =6.7.2 =py37hd23a5d3_0
     - six =1.16.0 =pyh6c4a22f_0
     - sqlalchemy =1.4.42 =py37h540881e_0
-    - sqlite =3.53.4 =hbc0de68_0
+    - sqlite =3.53.4 =h6e79ffa_1
     - statsmodels =0.13.2 =py37hda87dfa_0
     - threadpoolctl =3.1.0 =pyh8a188c0_0
     - tk =8.6.13 =noxft_hd72426e_102
@@ -246,11 +246,11 @@ requirements:
     - wcwidth =0.2.10 =pyhd8ed1ab_0
     - wheel =0.42.0 =pyhd8ed1ab_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
-    - xcb-util =0.4.0 =h166bdaf_0
+    - xcb-util =0.4.0 =h516909a_0
     - xcb-util-image =0.4.0 =h166bdaf_0
     - xcb-util-keysyms =0.4.0 =h516909a_0
     - xcb-util-renderutil =0.3.9 =h166bdaf_0
-    - xcb-util-wm =0.4.1 =h516909a_0
+    - xcb-util-wm =0.4.1 =h166bdaf_0
     - xkeyboard-config =2.38 =h0b41bf4_0
     - xorg-kbproto =1.0.7 =hb9d3cd8_1003
     - xorg-libice =1.1.2 =h280c20c_0

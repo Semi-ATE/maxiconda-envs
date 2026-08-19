@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =win_pyh7428d3b_0
     - sqlalchemy =2.0.52 =py311hf893f09_0
-    - sqlite =3.53.4 =hdb435a2_0
+    - sqlite =3.53.4 =hdb435a2_1
     - sympy =1.14.0 =pyh04b8f61_6
     - tqdm =4.70.0 =pyha7b4d00_0
     - transitions =0.9.3 =pyhe01879c_0
@@ -146,7 +146,7 @@ requirements:
     - httpx =0.28.1 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =78.3 =h5112557_2
-    - idna =3.18 =pyhcf101f3_0
+    - idna =3.19 =pyhcf101f3_0
     - importlib-metadata =9.0.0 =pyhcf101f3_0
     - iniconfig =2.3.0 =pyhd8ed1ab_0
     - ipykernel =6.31.0 =pyh6dadd2b_0
@@ -195,7 +195,7 @@ requirements:
     - libharfbuzz =14.3.1 =h03b5201_0
     - libharfbuzz-devel =14.3.1 =h03b5201_0
     - libhwloc =2.13.0 =default_h049141e_1000
-    - libiconv =1.18 =hc1393d2_2
+    - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
     - libjpeg-turbo =3.2.0 =hfd05255_1
@@ -207,7 +207,7 @@ requirements:
     - libpsl =0.23.1 =h9b16d47_1
     - libraqm =0.11.0 =h50d6d30_0
     - libsodium =1.0.22 =h6a83c73_1
-    - libsqlite =3.53.4 =hf5d6505_0
+    - libsqlite =3.53.4 =hf5d6505_1
     - libssh2 =1.11.1 =h734d217_1
     - libstdcxx =16.1.0 =hae5796f_1
     - libstdcxx-devel_win-64 =16.1.0 =hc76ffd0_101
@@ -217,7 +217,7 @@ requirements:
     - libvulkan-loader =1.4.357.0 =h477610d_0
     - libwebp-base =1.6.0 =h4d5522a_1
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_10
-    - libxcb =1.17.0 =h0e4246c_0
+    - libxcb =1.17.0 =h874e120_1
     - libxml2 =2.15.3 =h8ef44ab_0
     - libxml2-16 =2.15.3 =h3cfd58e_0
     - libxslt =1.1.43 =h0fbe4c1_1
@@ -287,7 +287,7 @@ requirements:
     - pyzmq =27.1.0 =py311h7a22eb7_3
     - qhull =2020.2 =hc790b64_5
     - qt-main =5.15.15 =hc95f6a6_8
-    - qt6-main =6.11.1 =pl5321hfcac499_1
+    - qt6-main =6.11.1 =pl5321hfcac499_2
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r45heceb674_1
     - r-assertthat =0.2.1 =r45hc72bb7e_6
@@ -495,7 +495,7 @@ requirements:
     - terminado =0.18.1 =pyh6dadd2b_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =h967ab96_3
-    - tktable =2.10 =h2df95b8_8
+    - tktable =2.10 =h6a83c73_9
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.1 =pyhcf101f3_0
     - tomli-w =1.2.0 =pyhd8ed1ab_0

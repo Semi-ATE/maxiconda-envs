@@ -41,7 +41,7 @@ requirements:
     - seaborn =0.13.2 =hd8ed1ab_3
     - spyder-kernels =3.1.5 =win_pyh7428d3b_0
     - sqlalchemy =2.0.43 =py39h0802e32_0
-    - sqlite =3.53.4 =hdb435a2_0
+    - sqlite =3.53.4 =hdb435a2_1
     - statsmodels =0.14.5 =py39h9e4d2f2_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
 
@@ -223,7 +223,7 @@ requirements:
     - libgoogle-cloud-storage =2.39.0 =he04ea4c_0
     - libgrpc =1.73.1 =h317e13b_1
     - libhwloc =2.12.1 =default_h88281d1_1000
-    - libiconv =1.18 =hc1393d2_2
+    - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_3
     - libintl-devel =0.22.5 =h5728263_3
     - libjpeg-turbo =3.2.0 =hfd05255_1
@@ -237,7 +237,7 @@ requirements:
     - libprotobuf =6.31.1 =h2ec36af_5
     - libre2-11 =2025.11.05 =h0eb2380_0
     - libsodium =1.0.20 =hc70643c_0
-    - libsqlite =3.53.4 =hf5d6505_0
+    - libsqlite =3.53.4 =hf5d6505_1
     - libssh2 =1.11.1 =h734d217_1
     - libthrift =0.22.0 =h2e43b2f_2
     - libtiff =4.7.2 =h8f73337_0
@@ -245,7 +245,7 @@ requirements:
     - libvorbis =1.3.7 =h5112557_2
     - libwebp-base =1.6.0 =h4d5522a_1
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_10
-    - libxcb =1.17.0 =h0e4246c_0
+    - libxcb =1.17.0 =h874e120_1
     - libxgboost =2.1.4 =cpu_h0649c51_2
     - libxml2 =2.13.9 =h741aa76_0
     - libxslt =1.1.43 =h25c3957_0
@@ -427,7 +427,7 @@ requirements:
     - wrapt =1.17.3 =py39h0802e32_0
     - xorg-libice =1.1.2 =hd74fcf3_0
     - xorg-libsm =1.2.6 =hd74fcf3_1
-    - xorg-libx11 =1.8.13 =hfa52320_0
+    - xorg-libx11 =1.8.13 =hfa52320_1
     - xorg-libxau =1.0.12 =hba3369d_2
     - xorg-libxdmcp =1.1.5 =hba3369d_2
     - xorg-libxext =1.3.7 =hba3369d_0
