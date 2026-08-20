@@ -91,15 +91,15 @@ requirements:
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_2
     - libfreetype6 =2.14.3 =h5e6c136_2
-    - libgcc =16.1.0 =ha9f2e26_1
-    - libgcc-ng =16.1.0 =h69a702a_1
-    - libgfortran =16.1.0 =h69a702a_1
-    - libgfortran5 =16.1.0 =h79bb938_1
+    - libgcc =16.1.0 =ha9f2e26_2
+    - libgcc-ng =16.1.0 =h69a702a_2
+    - libgfortran =16.1.0 =h69a702a_2
+    - libgfortran5 =16.1.0 =h79bb938_2
     - libgl =1.7.0 =ha4b6fd6_3
     - libglib =2.88.3 =h45c3219_1
     - libglvnd =1.7.0 =ha4b6fd6_3
     - libglx =1.7.0 =ha4b6fd6_3
-    - libgomp =16.1.0 =he0feb66_1
+    - libgomp =16.1.0 =he0feb66_2
     - libharfbuzz =14.3.1 =h23af247_0
     - libharfbuzz-devel =14.3.1 =h23af247_0
     - libiconv =1.18 =h0cb94f2_3
@@ -119,8 +119,8 @@ requirements:
     - libsndfile =1.2.2 =hbc6d301_3
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.53.4 =h13e7031_1
-    - libstdcxx =16.1.0 =h934c35e_1
-    - libstdcxx-ng =16.1.0 =hdf11a46_1
+    - libstdcxx =16.1.0 =h934c35e_2
+    - libstdcxx-ng =16.1.0 =hdf11a46_2
     - libsystemd0 =261.2 =h6f4a2f1_0
     - libudev1 =261.2 =h6f4a2f1_0
     - libusb =1.0.29 =h73b1eb8_0
@@ -128,7 +128,7 @@ requirements:
     - libvorbis =1.3.7 =h54a6638_2
     - libxcb =1.17.0 =hb83e432_1
     - libxcrypt =4.4.38 =h280c20c_0
-    - libxkbcommon =1.13.2 =hca5e8e5_0
+    - libxkbcommon =1.13.2 =h51789e4_1
     - libxml2 =2.15.3 =h49c6c72_0
     - libxml2-16 =2.15.3 =hca6bf5a_0
     - libzlib =1.3.2 =h25fd6f3_3
@@ -193,9 +193,9 @@ requirements:
     - xorg-libxau =1.0.12 =hb03c661_2
     - xorg-libxdamage =1.1.6 =hb9d3cd8_0
     - xorg-libxdmcp =1.1.5 =hb03c661_2
-    - xorg-libxext =1.3.7 =hb03c661_0
+    - xorg-libxext =1.3.7 =h7cc23a3_1
     - xorg-libxfixes =6.0.2 =hb03c661_0
-    - xorg-libxrender =0.9.12 =hb9d3cd8_0
+    - xorg-libxrender =0.9.12 =hb03c661_1
     - xorg-libxshmfence =1.3.3 =hb9d3cd8_0
     - xorg-libxxf86vm =1.1.7 =hb03c661_0
     - xz =5.8.3 =ha02ee65_1

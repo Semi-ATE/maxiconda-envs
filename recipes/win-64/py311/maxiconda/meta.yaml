@@ -35,7 +35,7 @@ requirements:
     - ipython =9.16.1 =pyhe2676ad_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py311hce7227b_2
-    - numba =0.67.0 =py311h5dfdfe8_0
+    - numba =0.67.0 =py311h5dfdfe8_1
     - numpy =2.4.6 =py311h65cb7f3_0
     - openpyxl =3.1.5 =py311h4d8bf61_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.7.19 =py311h3485c13_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.97.1 =hf8d6059_1
+    - rust =1.97.1 =hf8d6059_2
     - scipy =1.17.1 =py311h9c22a71_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =win_pyh7428d3b_0
@@ -105,7 +105,7 @@ requirements:
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h275cad7_4
     - cryptography =50.0.0 =py311h2098ed6_0
-    - curl =8.21.0 =hdb0ef4a_4
+    - curl =8.21.0 =hdb0ef4a_5
     - cycler =0.12.1 =pyhcf101f3_2
     - debugpy =1.8.21 =py311h5dfdfe8_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
@@ -126,8 +126,8 @@ requirements:
     - freetype =2.14.3 =h57928b3_2
     - fribidi =1.0.16 =hfd05255_1
     - frozenlist =1.8.0 =py311hdf60d3a_0
-    - gcc_impl_win-64 =16.1.0 =hf72cc1b_1
-    - gfortran_impl_win-64 =16.1.0 =he32c876_1
+    - gcc_impl_win-64 =16.1.0 =h0942c35_2
+    - gfortran_impl_win-64 =16.1.0 =he32c876_2
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.59 =pyhcf101f3_0
     - glib =2.88.3 =h89924da_1
@@ -137,7 +137,7 @@ requirements:
     - gsl =2.7 =hdfb1a43_0
     - gst-plugins-base =1.26.11 =h88486b4_0
     - gstreamer =1.26.11 =hae9036a_0
-    - gxx_impl_win-64 =16.1.0 =he3d2c83_1
+    - gxx_impl_win-64 =16.1.0 =he3d2c83_2
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
     - harfbuzz =14.3.1 =h57928b3_0
@@ -180,18 +180,18 @@ requirements:
     - libbrotlienc =1.2.0 =he2a975b_3
     - libcblas =3.11.0 =9_h2a3cdd5_mkl
     - libclang13 =22.1.8 =default_h2778606_6
-    - libcurl =8.21.0 =hdb0ef4a_4
+    - libcurl =8.21.0 =hdb0ef4a_5
     - libdeflate =1.25 =h1a1d4e4_1
     - libexpat =2.8.1 =hac47afa_1
     - libffi =3.7.0 =h3d046cb_0
     - libfreetype =2.14.3 =h57928b3_2
     - libfreetype6 =2.14.3 =hdbac1cb_2
-    - libgcc =16.1.0 =h110b43a_1
-    - libgcc-devel_win-64 =16.1.0 =hecf7705_101
-    - libgfortran =16.1.0 =h719f0c7_1
-    - libgfortran5 =16.1.0 =h94075d5_1
+    - libgcc =16.1.0 =h110b43a_2
+    - libgcc-devel_win-64 =16.1.0 =hecf7705_102
+    - libgfortran =16.1.0 =h719f0c7_2
+    - libgfortran5 =16.1.0 =h94075d5_2
     - libglib =2.88.3 =he810d59_1
-    - libgomp =16.1.0 =h8ee18e1_1
+    - libgomp =16.1.0 =h8ee18e1_2
     - libharfbuzz =14.3.1 =h03b5201_0
     - libharfbuzz-devel =14.3.1 =h03b5201_0
     - libhwloc =2.13.0 =default_h049141e_1000
@@ -201,7 +201,7 @@ requirements:
     - libjpeg-turbo =3.2.0 =hfd05255_1
     - liblapack =3.11.0 =9_hf9ab0e9_mkl
     - liblzma =5.8.3 =hfd05255_1
-    - libnghttp2 =1.68.1 =hac47afa_0
+    - libnghttp2 =1.68.1 =hac47afa_1
     - libogg =1.3.5 =h2466b09_1
     - libpng =1.6.58 =hdc8cecf_1
     - libpsl =0.23.1 =h9b16d47_1
@@ -209,8 +209,8 @@ requirements:
     - libsodium =1.0.22 =h6a83c73_1
     - libsqlite =3.53.4 =hf5d6505_1
     - libssh2 =1.11.1 =h734d217_1
-    - libstdcxx =16.1.0 =hae5796f_1
-    - libstdcxx-devel_win-64 =16.1.0 =hc76ffd0_101
+    - libstdcxx =16.1.0 =hae5796f_2
+    - libstdcxx-devel_win-64 =16.1.0 =hc76ffd0_102
     - libtiff =4.7.2 =h8f73337_0
     - libuv =1.52.1 =h6a83c73_1
     - libvorbis =1.3.7 =h5112557_2
@@ -241,7 +241,7 @@ requirements:
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.11.0 =pyhd8ed1ab_0
     - nbconvert-core =7.17.1 =pyhcf101f3_0
-    - nbformat =5.11.0 =pyhcf101f3_1
+    - nbformat =5.11.1 =pyhcf101f3_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - notebook =7.6.2 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
@@ -388,7 +388,7 @@ requirements:
     - r-modelr =0.1.11 =r45hc72bb7e_3
     - r-munsell =0.5.1 =r45hc72bb7e_2
     - r-nlme =3.1_170 =r45h814e693_0
-    - r-nnet =7.3_20 =r45heceb674_1
+    - r-nnet =7.3_21 =r45ha31549c_0
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
     - r-openssl =2.4.2 =r45h2f70138_0
     - r-otel =0.2.0 =r45hc72bb7e_1
@@ -480,7 +480,7 @@ requirements:
     - ruamel.yaml.clib =0.2.15 =py311hf893f09_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - ruamel_yaml =0.15.80 =py311ha68e1ae_1009
-    - rust-std-x86_64-pc-windows-msvc =1.97.1 =h17fc481_1
+    - rust-std-x86_64-pc-windows-msvc =1.97.1 =h17fc481_2
     - send2trash =2.1.0 =pyh6dadd2b_1
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.10.0 =py311h3e6a449_1

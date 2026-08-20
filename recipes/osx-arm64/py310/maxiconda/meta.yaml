@@ -34,7 +34,7 @@ requirements:
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py310hb6292c7_0
-    - numba =0.67.0 =py310h7dc6e7f_0
+    - numba =0.67.0 =py310h7dc6e7f_1
     - numpy =2.2.6 =py310h4d83441_0
     - openpyxl =3.1.5 =py310hb1d31aa_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -51,7 +51,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.7.19 =py310h72544b6_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.97.1 =h4ff7c5d_1
+    - rust =1.97.1 =h4ff7c5d_2
     - scipy =1.15.2 =py310h32ab4ed_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.5 =unix_pyh707e725_0
@@ -87,7 +87,7 @@ requirements:
     - brotli-python =1.2.0 =py310h4d9ebb8_3
     - bwidget =1.10.1 =hce30654_1
     - bzip2 =1.0.8 =h4e30115_10
-    - c-ares =1.34.8 =h1a92334_1
+    - c-ares =1.34.8 =h74c22ad_2
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_2
     - cached_property =1.5.2 =pyha770c72_2
@@ -115,7 +115,7 @@ requirements:
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.2 =py310h7f4e7e6_0
     - cpython =3.10.20 =py310hd8ed1ab_1
-    - curl =8.21.0 =hf618e03_4
+    - curl =8.21.0 =h6651222_5
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hb961e35_1
     - debugpy =1.8.21 =py310h19b6747_0
@@ -136,8 +136,8 @@ requirements:
     - freetype =2.14.3 =hce30654_2
     - fribidi =1.0.16 =h84a0fba_1
     - frozenlist =1.8.0 =py310hb0559e5_0
-    - gcc_impl_osx-arm64 =16.1.0 =h2d6a911_1
-    - gfortran_impl_osx-arm64 =16.1.0 =h68f779f_1
+    - gcc_impl_osx-arm64 =16.1.0 =h2d6a911_2
+    - gfortran_impl_osx-arm64 =16.1.0 =h68f779f_2
     - glib =2.88.3 =h143ffc5_1
     - glib-tools =2.88.3 =hd03a632_1
     - gmp =6.3.0 =hf5e55b1_3
@@ -193,7 +193,7 @@ requirements:
     - libclang-cpp22.1 =22.1.8 =default_hc257da1_6
     - libclang13 =22.1.8 =default_hed75349_6
     - libcompiler-rt =22.1.8 =hd34ed20_1
-    - libcurl =8.21.0 =hf618e03_4
+    - libcurl =8.21.0 =h6651222_5
     - libcxx =22.1.8 =h55c6f16_0
     - libcxx-devel =22.1.8 =h6dc3340_0
     - libcxx-headers =22.1.8 =h707e725_0
@@ -204,11 +204,11 @@ requirements:
     - libffi =3.7.0 =hcf2aa1b_0
     - libfreetype =2.14.3 =hce30654_2
     - libfreetype6 =2.14.3 =h2ed5691_2
-    - libgcc =16.1.0 =h3cf6597_1
-    - libgcc-devel_osx-arm64 =16.1.0 =h2713bec_101
+    - libgcc =16.1.0 =h3cf6597_2
+    - libgcc-devel_osx-arm64 =16.1.0 =h2713bec_102
     - libgettextpo =0.25.1 =h493aca8_0
-    - libgfortran =16.1.0 =h07b0088_1
-    - libgfortran5 =16.1.0 =h32cdfcc_1
+    - libgfortran =16.1.0 =h07b0088_2
+    - libgfortran5 =16.1.0 =h32cdfcc_2
     - libglib =2.88.3 =ha531971_1
     - libharfbuzz =14.3.1 =hcda0f7c_0
     - libharfbuzz-devel =14.3.1 =hcda0f7c_0
@@ -220,7 +220,7 @@ requirements:
     - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm22 =22.1.8 =h89af1be_1
     - liblzma =5.8.3 =h8088a28_1
-    - libnghttp2 =1.68.1 =h8f3e76b_0
+    - libnghttp2 =1.68.1 =h435687b_1
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
     - libopenblas =0.3.34 =openmp_he657e61_0
@@ -256,7 +256,7 @@ requirements:
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.11.0 =pyhd8ed1ab_0
     - nbconvert-core =7.17.1 =pyhcf101f3_0
-    - nbformat =5.11.0 =pyhcf101f3_1
+    - nbformat =5.11.1 =pyhcf101f3_0
     - ncurses =6.6 =he64c551_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - notebook =7.6.2 =pyhcf101f3_0
@@ -408,7 +408,7 @@ requirements:
     - r-modelr =0.1.11 =r45hc72bb7e_3
     - r-munsell =0.5.1 =r45hc72bb7e_2
     - r-nlme =3.1_170 =r45hf56971a_0
-    - r-nnet =7.3_20 =r45h6168396_1
+    - r-nnet =7.3_21 =r45h864cdf1_0
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
     - r-openssl =2.4.2 =r45h3dca6d3_0
     - r-otel =0.2.0 =r45hc72bb7e_1
@@ -500,7 +500,7 @@ requirements:
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
     - ruamel.yaml.clib =0.2.15 =py310haea493c_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-aarch64-apple-darwin =1.97.1 =hf6ec828_1
+    - rust-std-aarch64-apple-darwin =1.97.1 =hf6ec828_2
     - sdkroot_env_osx-arm64 =26.0 =ha3f98da_7
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =84.0.0 =pyh332efcf_0
