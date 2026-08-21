@@ -148,8 +148,8 @@ requirements:
     - libbrotlienc =1.2.0 =h2ddc9cb_3
     - libcblas =3.11.0 =9_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
-    - libclang-cpp22.1 =22.1.8 =default_hc257da1_6
-    - libclang13 =22.1.8 =default_hed75349_6
+    - libclang-cpp22.1 =22.1.8 =default_hcfe1f5c_7
+    - libclang13 =22.1.8 =default_h8b20a8a_7
     - libcxx =22.1.8 =h55c6f16_0
     - libdeflate =1.25 =he7e0567_1
     - libedit =3.1.20250104 =pl5321h26f1114_1
@@ -173,10 +173,10 @@ requirements:
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
     - libopenblas =0.3.34 =openmp_he657e61_0
-    - libopus =1.6.1 =h1a92334_0
+    - libopus =1.6.1 =h74c22ad_1
     - libpng =1.6.58 =hf5e6511_1
     - libpq =18.6 =h08b03b9_0
-    - libsodium =1.0.22 =h1a92334_1
+    - libsodium =1.0.22 =h74c22ad_2
     - libspatialindex =2.1.0 =h784d473_1
     - libsqlite =3.53.4 =hca69786_1
     - libtiff =4.7.2 =h282da08_0
@@ -184,8 +184,8 @@ requirements:
     - libwebp =1.6.0 =he6839e2_1
     - libwebp-base =1.6.0 =h202fb40_1
     - libxcb =1.17.0 =hbffa61f_1
-    - libxml2 =2.15.3 =h5654f7c_0
-    - libxml2-16 =2.15.3 =h5ef1a60_0
+    - libxml2 =2.15.3 =h5654f7c_1
+    - libxml2-16 =2.15.3 =h5ef1a60_1
     - libzlib =1.3.2 =h8088a28_3
     - llvm-openmp =22.1.8 =hc7d1edf_0
     - lsprotocol =2025.0.0 =pyhe01879c_0
@@ -198,7 +198,7 @@ requirements:
     - mistune =3.3.4 =pyhcf101f3_0
     - more-itertools =11.1.0 =pyhcf101f3_0
     - mpc =1.4.0 =h169892a_0
-    - mpfr =4.2.2 =h6bc93b0_0
+    - mpfr =4.2.2 =h72846b0_1
     - mpmath =1.4.1 =pyhd8ed1ab_0
     - multidict =6.7.1 =py310h53a546b_0
     - munkres =1.1.4 =pyhd8ed1ab_1
@@ -242,7 +242,7 @@ requirements:
     - pycparser =3.0 =pyhcf101f3_0
     - pydocstyle =6.3.0 =pyhd8ed1ab_1
     - pyflakes =3.2.0 =pyhd8ed1ab_1
-    - pygithub =2.9.1 =pyhd8ed1ab_0
+    - pygithub =2.10.0 =pyhd8ed1ab_0
     - pygments =2.21.0 =pyhcf101f3_0
     - pyjwt =2.13.0 =pyhcf101f3_0
     - pylint =4.0.7 =pyhcf101f3_0
@@ -292,7 +292,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py310hf3301a5_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.16.3 =h20cfa0c_0
+    - ruff =0.16.4 =h20cfa0c_0
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.16.0 =py310h8616463_0
     - six =1.17.0 =pyhe01879c_1
@@ -335,7 +335,7 @@ requirements:
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xorg-libxau =1.0.12 =h84a0fba_2
     - xorg-libxdmcp =1.1.5 =h84a0fba_2
-    - yaml =0.2.5 =h925e9cb_3
+    - yaml =0.2.5 =h74c22ad_3
     - yapf =0.43.0 =pyhd8ed1ab_1
     - yarl =1.24.5 =py310hb46c203_0
     - zeromq =4.3.5 =h10816f8_11

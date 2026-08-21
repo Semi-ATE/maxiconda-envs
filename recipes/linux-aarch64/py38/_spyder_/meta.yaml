@@ -145,8 +145,8 @@ requirements:
     - libbrotlienc =1.2.0 =hb247b97_3
     - libcap =2.78 =hfcc8634_1
     - libcblas =3.9.0 =20_linuxaarch64_openblas
-    - libclang-cpp22.1 =22.1.8 =default_h9c9fc99_6
-    - libclang13 =22.1.8 =default_h1f00bc2_6
+    - libclang-cpp22.1 =22.1.8 =default_hc94976c_7
+    - libclang13 =22.1.8 =default_h049422e_7
     - libcups =2.3.3 =h4f2b762_6
     - libdeflate =1.25 =hfa851ae_1
     - libdrm =2.4.129 =h5bc82ec_0
@@ -180,7 +180,7 @@ requirements:
     - libntlm =1.4 =hf897c2e_1002
     - libogg =1.3.5 =h86ecc28_1
     - libopenblas =0.3.25 =pthreads_h5a5ec62_0
-    - libopus =1.6.1 =h80f16a2_0
+    - libopus =1.6.1 =h29ee22c_1
     - libpciaccess =0.19 =he30d5cf_1
     - libpng =1.6.58 =hf9b7768_1
     - libpq =18.6 =hd2a0605_0
@@ -199,8 +199,8 @@ requirements:
     - libxcb =1.17.0 =h3f04742_1
     - libxcrypt =4.4.38 =h80f16a2_0
     - libxkbcommon =1.13.2 =he51e330_1
-    - libxml2 =2.15.3 =h869d058_0
-    - libxml2-16 =2.15.3 =h79dcc73_0
+    - libxml2 =2.15.3 =h869d058_1
+    - libxml2-16 =2.15.3 =h79dcc73_1
     - libxslt =1.1.43 =h6700d25_1
     - libzlib =1.3.2 =hdc9db2a_3
     - markdown-it-py =3.0.0 =pyhd8ed1ab_0
@@ -212,7 +212,7 @@ requirements:
     - mistune =3.0.2 =pyhd8ed1ab_0
     - more-itertools =10.5.0 =pyhd8ed1ab_0
     - mpc =1.4.0 =he6dc3fb_0
-    - mpfr =4.2.2 =h3faef18_0
+    - mpfr =4.2.2 =h4b21e80_1
     - mpg123 =1.33.7 =h2b27223_0
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - munkres =1.1.4 =pyh9f0ad1d_0
@@ -349,9 +349,9 @@ requirements:
     - xorg-libxdamage =1.1.6 =h86ecc28_0
     - xorg-libxdmcp =1.1.5 =he30d5cf_2
     - xorg-libxext =1.3.7 =h5bc82ec_1
-    - xorg-libxfixes =6.0.2 =he30d5cf_0
-    - xorg-libxi =1.8.3 =he30d5cf_0
-    - xorg-libxrandr =1.5.5 =he30d5cf_0
+    - xorg-libxfixes =6.0.2 =h5bc82ec_1
+    - xorg-libxi =1.8.3 =h5bc82ec_1
+    - xorg-libxrandr =1.5.5 =h5bc82ec_1
     - xorg-libxrender =0.9.12 =he30d5cf_1
     - xorg-libxshmfence =1.3.3 =h86ecc28_0
     - xorg-libxtst =1.2.5 =h57736b2_3
@@ -359,7 +359,7 @@ requirements:
     - xz =5.8.3 =hd704e39_1
     - xz-gpl-tools =5.8.3 =hd704e39_1
     - xz-tools =5.8.3 =he30d5cf_1
-    - yaml =0.2.5 =h80f16a2_3
+    - yaml =0.2.5 =h29ee22c_3
     - yapf =0.40.1 =pyhd8ed1ab_0
     - zeromq =4.3.5 =h2f0025b_1
     - zipp =3.21.0 =pyhd8ed1ab_0

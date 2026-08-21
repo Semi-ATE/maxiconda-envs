@@ -79,8 +79,8 @@ requirements:
     - libblas =3.11.0 =9_haddc8a3_openblas
     - libcap =2.78 =hfcc8634_1
     - libcblas =3.11.0 =9_hd72aa62_openblas
-    - libclang-cpp22.1 =22.1.8 =default_h9c9fc99_6
-    - libclang13 =22.1.8 =default_h1f00bc2_6
+    - libclang-cpp22.1 =22.1.8 =default_hc94976c_7
+    - libclang13 =22.1.8 =default_h049422e_7
     - libcups =2.3.3 =h4f2b762_6
     - libdrm =2.4.129 =h5bc82ec_0
     - libedit =3.1.20250104 =pl5321hc48eb74_1
@@ -112,7 +112,7 @@ requirements:
     - libntlm =1.4 =hf897c2e_1002
     - libogg =1.3.5 =h86ecc28_1
     - libopenblas =0.3.34 =pthreads_h9d3fd7e_0
-    - libopus =1.6.1 =h80f16a2_0
+    - libopus =1.6.1 =h29ee22c_1
     - libpciaccess =0.19 =he30d5cf_1
     - libpng =1.6.58 =hf9b7768_1
     - libpq =18.6 =hd2a0605_0
@@ -129,8 +129,8 @@ requirements:
     - libxcb =1.17.0 =h3f04742_1
     - libxcrypt =4.4.38 =h80f16a2_0
     - libxkbcommon =1.13.2 =he51e330_1
-    - libxml2 =2.15.3 =h869d058_0
-    - libxml2-16 =2.15.3 =h79dcc73_0
+    - libxml2 =2.15.3 =h869d058_1
+    - libxml2-16 =2.15.3 =h79dcc73_1
     - libzlib =1.3.2 =hdc9db2a_3
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mpg123 =1.33.7 =h2b27223_0
@@ -194,7 +194,7 @@ requirements:
     - xorg-libxdamage =1.1.6 =h86ecc28_0
     - xorg-libxdmcp =1.1.5 =he30d5cf_2
     - xorg-libxext =1.3.7 =h5bc82ec_1
-    - xorg-libxfixes =6.0.2 =he30d5cf_0
+    - xorg-libxfixes =6.0.2 =h5bc82ec_1
     - xorg-libxrender =0.9.12 =he30d5cf_1
     - xorg-libxshmfence =1.3.3 =h86ecc28_0
     - xorg-libxxf86vm =1.1.7 =he30d5cf_0

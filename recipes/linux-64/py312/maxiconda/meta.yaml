@@ -75,7 +75,7 @@ requirements:
     - anyio =4.14.2 =pyhcf101f3_0
     - archspec =0.2.5 =pyhd8ed1ab_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
-    - argon2-cffi-bindings =25.1.0 =py312h4c3975b_2
+    - argon2-cffi-bindings =26.1.0 =py312h5cc1888_0
     - arrow =1.4.0 =pyhcf101f3_0
     - asttokens =3.0.2 =pyhd8ed1ab_0
     - async-lru =2.3.0 =pyhcf101f3_0
@@ -208,8 +208,8 @@ requirements:
     - libbrotlienc =1.2.0 =h018ffa1_3
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =9_h0358290_openblas
-    - libclang-cpp22.1 =22.1.8 =default_h08c5240_6
-    - libclang13 =22.1.8 =default_hd70ba2e_6
+    - libclang-cpp22.1 =22.1.8 =default_h12ff6da_7
+    - libclang13 =22.1.8 =default_h96bbd2b_7
     - libcups =2.3.3 =h7a8fb5f_6
     - libcurl =8.21.0 =ha042cf0_5
     - libdeflate =1.25 =hd45a770_1
@@ -253,7 +253,7 @@ requirements:
     - libogg =1.3.5 =hd0c01bc_1
     - libopenblas =0.3.34 =pthreads_h94d23a6_0
     - libopengl =1.7.0 =ha4b6fd6_3
-    - libopus =1.6.1 =h280c20c_0
+    - libopus =1.6.1 =hebe6cf0_1
     - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.58 =h922cc85_1
     - libpq =18.6 =h9d76c99_0
@@ -261,7 +261,7 @@ requirements:
     - libraqm =0.11.0 =h6406941_0
     - libsanitizer =16.1.0 =hf2715c6_2
     - libsndfile =1.2.2 =hbc6d301_3
-    - libsodium =1.0.22 =h280c20c_1
+    - libsodium =1.0.22 =hebe6cf0_2
     - libsolv =0.7.39 =h72ddc62_1
     - libsqlite =3.53.4 =h13e7031_1
     - libssh2 =1.11.1 =h6154650_1
@@ -273,13 +273,13 @@ requirements:
     - libuuid =2.42.2 =h5347b49_0
     - libuv =1.52.1 =h280c20c_1
     - libvorbis =1.3.7 =h54a6638_2
-    - libvulkan-loader =1.4.357.0 =h5279c79_0
+    - libvulkan-loader =1.4.357.0 =h0e34353_1
     - libwebp-base =1.6.0 =hd42ef1d_1
     - libxcb =1.17.0 =hb83e432_1
     - libxcrypt =4.4.38 =h280c20c_0
     - libxkbcommon =1.13.2 =h51789e4_1
-    - libxml2 =2.15.3 =h49c6c72_0
-    - libxml2-16 =2.15.3 =hca6bf5a_0
+    - libxml2 =2.15.3 =h49c6c72_1
+    - libxml2-16 =2.15.3 =hca6bf5a_1
     - libxslt =1.1.43 =h711ed8c_1
     - libzlib =1.3.2 =h25fd6f3_3
     - llvmlite =0.49.0 =py312ha7fb451_0
@@ -292,7 +292,7 @@ requirements:
     - menuinst =2.5.2 =py312h20c3967_1
     - mistune =3.3.4 =pyhcf101f3_0
     - mpc =1.4.0 =he0a73b1_0
-    - mpfr =4.2.2 =he0a73b1_0
+    - mpfr =4.2.2 =ha2cb11d_1
     - mpg123 =1.33.7 =h8142553_0
     - mpmath =1.4.1 =pyhd8ed1ab_0
     - msgpack-python =1.2.1 =py312h0a2e395_1
@@ -343,7 +343,7 @@ requirements:
     - pyparsing =3.3.2 =pyhcf101f3_0
     - pyproject_hooks =1.2.0 =pyhd8ed1ab_1
     - pyqt5-sip =12.17.0 =py312h1289d80_2
-    - pyside6 =6.11.1 =py312h50ac2ff_1
+    - pyside6 =6.11.2 =py312hf143aa3_0
     - pysocks =1.7.1 =pyha55dd90_7
     - python-build =1.5.0 =pyhc364b38_0
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
@@ -358,14 +358,14 @@ requirements:
     - pyzmq =27.1.0 =py312hda471dd_3
     - qhull =2020.2 =h434a139_5
     - qt-main =5.15.15 =h0c412b5_8
-    - qt6-main =6.11.1 =pl5321h16c4a6b_2
+    - qt6-main =6.11.2 =pl5321h9df5c37_0
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r45h54b55ab_1
     - r-assertthat =0.2.1 =r45hc72bb7e_6
     - r-backports =1.5.1 =r45h54b55ab_0
     - r-base64enc =0.1_6 =r45h54b55ab_0
     - r-bit =4.6.0 =r45h54b55ab_1
-    - r-bit64 =4.8.2 =r45h54b55ab_0
+    - r-bit64 =4.8.4 =r45hddc5280_0
     - r-blob =1.3.0 =r45hc72bb7e_0
     - r-boot =1.3_32 =r45hc72bb7e_1
     - r-broom =1.0.13 =r45hc72bb7e_0
@@ -441,8 +441,8 @@ requirements:
     - r-knitr =1.51 =r45hc72bb7e_0
     - r-labeling =0.4.3 =r45hc72bb7e_2
     - r-later =1.4.8 =r45h3697838_0
-    - r-lattice =0.22_9 =r45h54b55ab_0
-    - r-lava =1.9.2 =r45hc72bb7e_0
+    - r-lattice =0.23_1 =r45hddc5280_0
+    - r-lava =1.9.3 =r45hacb3a79_0
     - r-lazyeval =0.2.3 =r45h54b55ab_0
     - r-lifecycle =1.0.5 =r45hc72bb7e_0
     - r-listenv =1.0.0 =r45hc72bb7e_0
@@ -551,7 +551,7 @@ requirements:
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
     - rpds-py =2026.6.3 =py312h192e038_0
     - ruamel.yaml =0.18.17 =py312h5253ce2_2
-    - ruamel.yaml.clib =0.2.15 =py312h5253ce2_1
+    - ruamel.yaml.clib =0.2.15 =py312h1b36aeb_2
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-unknown-linux-gnu =1.97.1 =h2c6d0dc_2
     - sed =4.10 =h19d0853_0
@@ -610,22 +610,22 @@ requirements:
     - xorg-libxdamage =1.1.6 =hb9d3cd8_0
     - xorg-libxdmcp =1.1.5 =hb03c661_2
     - xorg-libxext =1.3.7 =h7cc23a3_1
-    - xorg-libxfixes =6.0.2 =hb03c661_0
-    - xorg-libxi =1.8.3 =hb03c661_0
-    - xorg-libxrandr =1.5.5 =hb03c661_0
+    - xorg-libxfixes =6.0.2 =h7cc23a3_1
+    - xorg-libxi =1.8.3 =h7cc23a3_1
+    - xorg-libxrandr =1.5.5 =h7cc23a3_1
     - xorg-libxrender =0.9.12 =hb03c661_1
     - xorg-libxshmfence =1.3.3 =hb9d3cd8_0
     - xorg-libxt =1.3.1 =h7cc23a3_1
     - xorg-libxtst =1.2.5 =hb9d3cd8_3
     - xorg-libxxf86vm =1.1.7 =hb03c661_0
     - xorg-xorgproto =2025.1 =h280c20c_1
-    - yaml =0.2.5 =h280c20c_3
+    - yaml =0.2.5 =hebe6cf0_3
     - yaml-cpp =0.8.0 =h54a6638_1
     - yarl =1.24.5 =py312h8a5da7c_0
     - zeromq =4.3.5 =h09e67af_11
     - zipp =4.1.0 =pyhcf101f3_0
     - zlib-ng =2.3.3 =hce19668_1
-    - zstandard =0.25.0 =py312h5253ce2_1
+    - zstandard =0.25.0 =py312h1b36aeb_2
     - zstd =1.5.7 =hb78ec9c_7
 
 about:

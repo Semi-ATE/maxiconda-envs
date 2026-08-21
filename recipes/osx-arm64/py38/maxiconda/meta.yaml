@@ -99,12 +99,12 @@ requirements:
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38h858044d_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
-    - clang =22.1.8 =default_cfg_hbc7c751_6
-    - clang-22 =22.1.8 =default_hed75349_6
-    - clang-scan-deps =22.1.8 =default_hc257da1_6
-    - clang_impl_osx-arm64 =22.1.8 =default_hc257da1_6
+    - clang =22.1.8 =default_cfg_h6a32ab0_7
+    - clang-22 =22.1.8 =default_h8b20a8a_7
+    - clang-scan-deps =22.1.8 =default_hcfe1f5c_7
+    - clang_impl_osx-arm64 =22.1.8 =default_hcfe1f5c_7
     - clang_osx-arm64 =22.1.8 =hc95f77d_34
-    - clangxx_impl_osx-arm64 =22.1.8 =default_h9cdd5ba_6
+    - clangxx_impl_osx-arm64 =22.1.8 =default_h6d30563_7
     - clangxx_osx-arm64 =22.1.8 =hc95f77d_34
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.1.0 =pyhd8ed1ab_1
@@ -194,8 +194,8 @@ requirements:
     - libbrotlienc =1.2.0 =h2ddc9cb_3
     - libcblas =3.9.0 =20_osxarm64_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
-    - libclang-cpp22.1 =22.1.8 =default_hc257da1_6
-    - libclang13 =22.1.8 =default_hed75349_6
+    - libclang-cpp22.1 =22.1.8 =default_hcfe1f5c_7
+    - libclang13 =22.1.8 =default_h8b20a8a_7
     - libcompiler-rt =22.1.8 =hd34ed20_1
     - libcurl =8.21.0 =h6651222_5
     - libcxx =22.1.8 =h55c6f16_0
@@ -230,7 +230,7 @@ requirements:
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
     - libopenblas =0.3.25 =openmp_h6c19121_0
-    - libopus =1.6.1 =h1a92334_0
+    - libopus =1.6.1 =h74c22ad_1
     - libpng =1.6.58 =hf5e6511_1
     - libpq =18.6 =h08b03b9_0
     - libpsl =0.23.1 =hdb0c161_1
@@ -243,8 +243,8 @@ requirements:
     - libvorbis =1.3.7 =h81086ad_2
     - libwebp-base =1.6.0 =h202fb40_1
     - libxcb =1.17.0 =hbffa61f_1
-    - libxml2 =2.15.3 =h5654f7c_0
-    - libxml2-16 =2.15.3 =h5ef1a60_0
+    - libxml2 =2.15.3 =h5654f7c_1
+    - libxml2-16 =2.15.3 =h5ef1a60_1
     - libzlib =1.3.2 =h8088a28_3
     - llvm-openmp =22.1.8 =hc7d1edf_0
     - llvm-tools =22.1.8 =hd34ed20_1
@@ -256,7 +256,7 @@ requirements:
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mistune =3.0.2 =pyhd8ed1ab_0
     - mpc =1.4.0 =h169892a_0
-    - mpfr =4.2.2 =h6bc93b0_0
+    - mpfr =4.2.2 =h72846b0_1
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - multidict =6.0.5 =py38hb991d35_0
     - munkres =1.1.4 =pyh9f0ad1d_0
@@ -319,7 +319,7 @@ requirements:
     - r-backports =1.5.1 =r45hbe92478_0
     - r-base64enc =0.1_6 =r45hbe92478_0
     - r-bit =4.6.0 =r45h6168396_1
-    - r-bit64 =4.8.2 =r45hbe92478_0
+    - r-bit64 =4.8.4 =r45h864cdf1_0
     - r-blob =1.3.0 =r45hc72bb7e_0
     - r-boot =1.3_32 =r45hc72bb7e_1
     - r-broom =1.0.13 =r45hc72bb7e_0
@@ -395,8 +395,8 @@ requirements:
     - r-knitr =1.51 =r45hc72bb7e_0
     - r-labeling =0.4.3 =r45hc72bb7e_2
     - r-later =1.4.8 =r45h1380947_0
-    - r-lattice =0.22_9 =r45hbe92478_0
-    - r-lava =1.9.2 =r45hc72bb7e_0
+    - r-lattice =0.23_1 =r45hb5b23e3_0
+    - r-lava =1.9.3 =r45hacb3a79_0
     - r-lazyeval =0.2.3 =r45h4b407c4_0
     - r-lifecycle =1.0.5 =r45hc72bb7e_0
     - r-listenv =1.0.0 =r45hc72bb7e_0
@@ -546,7 +546,7 @@ requirements:
     - xz =5.8.3 =hd0f0c4f_1
     - xz-gpl-tools =5.8.3 =hd0f0c4f_1
     - xz-tools =5.8.3 =h8088a28_1
-    - yaml =0.2.5 =h925e9cb_3
+    - yaml =0.2.5 =h74c22ad_3
     - yarl =1.9.4 =py38h336bac9_0
     - zeromq =4.3.5 =hebf3989_1
     - zipp =3.21.0 =pyhd8ed1ab_0

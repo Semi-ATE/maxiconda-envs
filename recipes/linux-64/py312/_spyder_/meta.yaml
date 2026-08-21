@@ -154,8 +154,8 @@ requirements:
     - libbrotlienc =1.2.0 =h018ffa1_3
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =9_h0358290_openblas
-    - libclang-cpp22.1 =22.1.8 =default_h08c5240_6
-    - libclang13 =22.1.8 =default_hd70ba2e_6
+    - libclang-cpp22.1 =22.1.8 =default_h12ff6da_7
+    - libclang13 =22.1.8 =default_h96bbd2b_7
     - libcups =2.3.3 =h7a8fb5f_6
     - libdeflate =1.25 =hd45a770_1
     - libdrm =2.4.129 =h7cc23a3_0
@@ -191,13 +191,13 @@ requirements:
     - libogg =1.3.5 =hd0c01bc_1
     - libopenblas =0.3.34 =pthreads_h94d23a6_0
     - libopengl =1.7.0 =ha4b6fd6_3
-    - libopus =1.6.1 =h280c20c_0
+    - libopus =1.6.1 =hebe6cf0_1
     - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.58 =h922cc85_1
     - libpq =18.6 =h9d76c99_0
     - libraqm =0.11.0 =h6406941_0
     - libsndfile =1.2.2 =hbc6d301_3
-    - libsodium =1.0.22 =h280c20c_1
+    - libsodium =1.0.22 =hebe6cf0_2
     - libspatialindex =2.1.0 =h54a6638_1
     - libsqlite =3.53.4 =h13e7031_1
     - libstdcxx =16.1.0 =h934c35e_2
@@ -206,14 +206,14 @@ requirements:
     - libtiff =4.7.2 =h9d88235_0
     - libuuid =2.42.2 =h5347b49_0
     - libvorbis =1.3.7 =h54a6638_2
-    - libvulkan-loader =1.4.357.0 =h5279c79_0
+    - libvulkan-loader =1.4.357.0 =h0e34353_1
     - libwebp =1.6.0 =hac12f0c_1
     - libwebp-base =1.6.0 =hd42ef1d_1
     - libxcb =1.17.0 =hb83e432_1
     - libxcrypt =4.4.38 =h280c20c_0
     - libxkbcommon =1.13.2 =h51789e4_1
-    - libxml2 =2.15.3 =h49c6c72_0
-    - libxml2-16 =2.15.3 =hca6bf5a_0
+    - libxml2 =2.15.3 =h49c6c72_1
+    - libxml2-16 =2.15.3 =hca6bf5a_1
     - libxslt =1.1.43 =h711ed8c_1
     - libzlib =1.3.2 =h25fd6f3_3
     - lsprotocol =2025.0.0 =pyhe01879c_0
@@ -226,7 +226,7 @@ requirements:
     - mistune =3.3.4 =pyhcf101f3_0
     - more-itertools =11.1.0 =pyhcf101f3_0
     - mpc =1.4.0 =he0a73b1_0
-    - mpfr =4.2.2 =he0a73b1_0
+    - mpfr =4.2.2 =ha2cb11d_1
     - mpg123 =1.33.7 =h8142553_0
     - mpmath =1.4.1 =pyhd8ed1ab_0
     - multidict =6.7.1 =py312h8a5da7c_0
@@ -272,7 +272,7 @@ requirements:
     - pycparser =3.0 =pyhcf101f3_0
     - pydocstyle =6.3.0 =pyhd8ed1ab_1
     - pyflakes =3.2.0 =pyhd8ed1ab_1
-    - pygithub =2.9.1 =pyhd8ed1ab_0
+    - pygithub =2.10.0 =pyhd8ed1ab_0
     - pygments =2.21.0 =pyhcf101f3_0
     - pyjwt =2.13.0 =pyhcf101f3_0
     - pylint =4.0.7 =pyhcf101f3_0
@@ -320,7 +320,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =2026.6.3 =py312h192e038_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.16.3 =hc991c3d_0
+    - ruff =0.16.4 =hc991c3d_0
     - secretstorage =3.5.0 =py312h7900ff3_0
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.10.0 =py312h1289d80_1
@@ -379,15 +379,15 @@ requirements:
     - xorg-libxdamage =1.1.6 =hb9d3cd8_0
     - xorg-libxdmcp =1.1.5 =hb03c661_2
     - xorg-libxext =1.3.7 =h7cc23a3_1
-    - xorg-libxfixes =6.0.2 =hb03c661_0
-    - xorg-libxi =1.8.3 =hb03c661_0
-    - xorg-libxrandr =1.5.5 =hb03c661_0
+    - xorg-libxfixes =6.0.2 =h7cc23a3_1
+    - xorg-libxi =1.8.3 =h7cc23a3_1
+    - xorg-libxrandr =1.5.5 =h7cc23a3_1
     - xorg-libxrender =0.9.12 =hb03c661_1
     - xorg-libxshmfence =1.3.3 =hb9d3cd8_0
     - xorg-libxtst =1.2.5 =hb9d3cd8_3
     - xorg-libxxf86vm =1.1.7 =hb03c661_0
     - xorg-xorgproto =2025.1 =h280c20c_1
-    - yaml =0.2.5 =h280c20c_3
+    - yaml =0.2.5 =hebe6cf0_3
     - yapf =0.43.0 =pyhd8ed1ab_1
     - yarl =1.24.5 =py312h8a5da7c_0
     - zeromq =4.3.5 =h09e67af_11
