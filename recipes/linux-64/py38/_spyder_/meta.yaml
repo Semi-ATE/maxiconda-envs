@@ -145,35 +145,35 @@ requirements:
     - libbrotlienc =1.2.0 =h018ffa1_3
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.9.0 =20_linux64_openblas
-    - libclang-cpp22.1 =22.1.8 =default_h12ff6da_7
-    - libclang13 =22.1.8 =default_h96bbd2b_7
+    - libclang-cpp22.1 =22.1.8 =default_h0acdd01_9
+    - libclang13 =22.1.8 =default_h5f7f9d4_9
     - libcups =2.3.3 =h7a8fb5f_6
     - libdeflate =1.25 =hd45a770_1
     - libdrm =2.4.129 =h7cc23a3_0
     - libedit =3.1.20250104 =pl5321h373387f_1
-    - libegl =1.7.0 =ha4b6fd6_3
+    - libegl =1.7.0 =ha4b6fd6_5
     - libevent =2.1.12 =hf998b51_1
     - libexpat =2.8.1 =hecca717_1
     - libffi =3.7.0 =h3435931_0
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_2
     - libfreetype6 =2.14.3 =h5e6c136_2
-    - libgcc =16.1.0 =ha9f2e26_2
-    - libgcc-ng =16.1.0 =h69a702a_2
-    - libgfortran =16.1.0 =h69a702a_2
-    - libgfortran-ng =16.1.0 =h69a702a_2
-    - libgfortran5 =16.1.0 =h79bb938_2
-    - libgl =1.7.0 =ha4b6fd6_3
+    - libgcc =16.1.0 =ha9f2e26_3
+    - libgcc-ng =16.1.0 =h69a702a_3
+    - libgfortran =16.1.0 =h69a702a_3
+    - libgfortran-ng =16.1.0 =h69a702a_3
+    - libgfortran5 =16.1.0 =h79bb938_3
+    - libgl =1.7.0 =ha4b6fd6_5
     - libglib =2.88.3 =h45c3219_1
-    - libglvnd =1.7.0 =ha4b6fd6_3
-    - libglx =1.7.0 =ha4b6fd6_3
-    - libgomp =16.1.0 =he0feb66_2
+    - libglvnd =1.7.0 =ha4b6fd6_5
+    - libglx =1.7.0 =ha4b6fd6_5
+    - libgomp =16.1.0 =he0feb66_3
     - libharfbuzz =14.3.1 =h23af247_0
     - libharfbuzz-devel =14.3.1 =h23af247_0
     - libiconv =1.18 =h0cb94f2_3
     - libjpeg-turbo =3.2.0 =hb03c661_1
     - liblapack =3.9.0 =20_linux64_openblas
-    - libllvm22 =22.1.8 =hf7376ad_1
+    - libllvm22 =22.1.8 =h474f4eb_2
     - liblzma =5.8.3 =hb03c661_1
     - liblzma-devel =5.8.3 =hb03c661_1
     - libnsl =2.0.1 =hb9d3cd8_1
@@ -188,8 +188,8 @@ requirements:
     - libsodium =1.0.18 =h36c2ea0_1
     - libspatialindex =2.0.0 =he02047a_0
     - libsqlite =3.53.4 =h13e7031_1
-    - libstdcxx =16.1.0 =h934c35e_2
-    - libstdcxx-ng =16.1.0 =hdf11a46_2
+    - libstdcxx =16.1.0 =h934c35e_3
+    - libstdcxx-ng =16.1.0 =hdf11a46_3
     - libsystemd0 =261.2 =h6f4a2f1_0
     - libtiff =4.7.2 =h9d88235_0
     - libuuid =2.42.2 =h5347b49_0
@@ -213,7 +213,7 @@ requirements:
     - more-itertools =10.5.0 =pyhd8ed1ab_0
     - mpc =1.4.0 =he0a73b1_0
     - mpfr =4.2.2 =ha2cb11d_1
-    - mpg123 =1.33.7 =h8142553_0
+    - mpg123 =1.33.7 =h877a99e_1
     - mpmath =1.3.0 =pyhd8ed1ab_0
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mypy_extensions =1.0.0 =pyha770c72_0
@@ -236,7 +236,7 @@ requirements:
     - pango =1.58.2 =hda50119_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
-    - pcre2 =10.47 =haa7fec5_0
+    - pcre2 =10.47 =h8b3dc9c_1
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pillow =10.4.0 =py38h2bc05a7_0
@@ -315,7 +315,7 @@ requirements:
     - textdistance =4.6.3 =pyhd8ed1ab_0
     - three-merge =0.1.1 =pyh9f0ad1d_0
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
-    - tk =8.6.13 =noxft_hd70dff1_3
+    - tk =8.6.13 =noxft_h1df4ec4_4
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.2 =pyhd8ed1ab_0
     - tomlkit =0.13.2 =pyha770c72_0

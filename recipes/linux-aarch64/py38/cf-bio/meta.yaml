@@ -124,19 +124,19 @@ requirements:
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.3 =h8af1aa0_2
     - libfreetype6 =2.14.3 =h9cc7050_2
-    - libgcc =16.1.0 =h205dda4_2
-    - libgcc-ng =16.1.0 =he9431aa_2
+    - libgcc =16.1.0 =h205dda4_3
+    - libgcc-ng =16.1.0 =he9431aa_3
     - libgcrypt =1.12.2 =h8af1aa0_2
     - libgcrypt-devel =1.12.2 =h5bc82ec_2
     - libgcrypt-lib =1.12.2 =h5bc82ec_2
     - libgcrypt-tools =1.12.2 =h5bc82ec_2
     - libgettextpo =0.25.1 =h5ad3122_0
     - libgettextpo-devel =0.25.1 =h5ad3122_0
-    - libgfortran =16.1.0 =he9431aa_2
-    - libgfortran-ng =16.1.0 =he9431aa_2
-    - libgfortran5 =16.1.0 =h47adacf_2
+    - libgfortran =16.1.0 =he9431aa_3
+    - libgfortran-ng =16.1.0 =he9431aa_3
+    - libgfortran5 =16.1.0 =h47adacf_3
     - libglib =2.88.3 =had1c41b_1
-    - libgomp =16.1.0 =h8acb6b2_2
+    - libgomp =16.1.0 =h8acb6b2_3
     - libgpg-error =1.61 =h7ac5ae9_2
     - libiconv =1.18 =h1ea5142_3
     - libjpeg-turbo =2.1.5.1 =h31becfc_1
@@ -154,8 +154,8 @@ requirements:
     - libsndfile =1.2.2 =h7354dbf_3
     - libsodium =1.0.18 =hb9de7d4_1
     - libsqlite =3.53.4 =hd26f1b6_1
-    - libstdcxx =16.1.0 =hef695bb_2
-    - libstdcxx-ng =16.1.0 =hdbbeba8_2
+    - libstdcxx =16.1.0 =hef695bb_3
+    - libstdcxx-ng =16.1.0 =hdbbeba8_3
     - libsystemd0 =253 =h74de264_1
     - libtiff =4.5.1 =h360e80f_1
     - libtool =2.5.4 =h5ad3122_0
@@ -170,7 +170,7 @@ requirements:
     - lz4-c =1.9.4 =hd600fc2_0
     - matplotlib-base =3.7.3 =py38h7709db9_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
-    - mpg123 =1.33.7 =h2b27223_0
+    - mpg123 =1.33.7 =h922aec4_1
     - munkres =1.1.4 =pyh9f0ad1d_0
     - mysql-common =8.0.33 =hb6794ad_6
     - mysql-libs =8.0.33 =hf629957_6
@@ -182,7 +182,7 @@ requirements:
     - openssl =3.1.8 =hd08dc88_0
     - packaging =26.2 =pyhc364b38_0
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pcre2 =10.47 =hf841c20_0
+    - pcre2 =10.47 =he574923_1
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pillow =9.5.0 =py38h4efd743_0

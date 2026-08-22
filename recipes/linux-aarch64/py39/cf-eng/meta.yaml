@@ -80,40 +80,40 @@ requirements:
     - libcap =2.78 =hfcc8634_1
     - libcblas =3.11.0 =9_hd72aa62_openblas
     - libclang-cpp21.1 =21.1.8 =default_hd3644b0_5
-    - libclang-cpp22.1 =22.1.8 =default_hc94976c_7
-    - libclang13 =22.1.8 =default_h049422e_7
+    - libclang-cpp22.1 =22.1.8 =default_h01b09c7_9
+    - libclang13 =22.1.8 =default_h2e26110_9
     - libcups =2.3.3 =h5cdc715_5
     - libdrm =2.4.129 =h5bc82ec_0
     - libedit =3.1.20250104 =pl5321hc48eb74_1
-    - libegl =1.7.0 =hd24410f_3
+    - libegl =1.7.0 =hd24410f_5
     - libevent =2.1.12 =h4ba1bb4_1
     - libexpat =2.8.1 =hfae3067_1
     - libffi =3.7.0 =h376a255_0
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.3 =h8af1aa0_2
     - libfreetype6 =2.14.3 =h9cc7050_2
-    - libgcc =16.1.0 =h205dda4_2
-    - libgcc-ng =16.1.0 =he9431aa_2
-    - libgfortran =16.1.0 =he9431aa_2
-    - libgfortran5 =16.1.0 =h47adacf_2
-    - libgl =1.7.0 =hd24410f_3
+    - libgcc =16.1.0 =h205dda4_3
+    - libgcc-ng =16.1.0 =he9431aa_3
+    - libgfortran =16.1.0 =he9431aa_3
+    - libgfortran5 =16.1.0 =h47adacf_3
+    - libgl =1.7.0 =hd24410f_5
     - libglib =2.88.3 =had1c41b_1
-    - libglvnd =1.7.0 =hd24410f_3
-    - libglx =1.7.0 =hd24410f_3
-    - libgomp =16.1.0 =h8acb6b2_2
+    - libglvnd =1.7.0 =hd24410f_5
+    - libglx =1.7.0 =hd24410f_5
+    - libgomp =16.1.0 =h8acb6b2_3
     - libharfbuzz =14.3.1 =h8f7ccb3_0
     - libharfbuzz-devel =14.3.1 =h8f7ccb3_0
     - libiconv =1.18 =h1ea5142_3
     - libjpeg-turbo =3.2.0 =he30d5cf_1
     - liblapack =3.11.0 =9_h88aeb00_openblas
     - libllvm21 =21.1.8 =hfd2ba90_0
-    - libllvm22 =22.1.8 =hfd2ba90_1
+    - libllvm22 =22.1.8 =h680871c_2
     - liblzma =5.8.3 =he30d5cf_1
     - libnsl =2.0.1 =h86ecc28_1
     - libntlm =1.4 =hf897c2e_1002
     - libogg =1.3.5 =h86ecc28_1
     - libopenblas =0.3.34 =pthreads_h9d3fd7e_0
-    - libopengl =1.7.0 =hd24410f_3
+    - libopengl =1.7.0 =hd24410f_5
     - libopus =1.6.1 =h29ee22c_1
     - libpciaccess =0.19 =he30d5cf_1
     - libpng =1.6.58 =hf9b7768_1
@@ -121,8 +121,8 @@ requirements:
     - libsndfile =1.2.2 =h7354dbf_3
     - libsodium =1.0.20 =h68df207_0
     - libsqlite =3.53.4 =h399dd60_1
-    - libstdcxx =16.1.0 =hef695bb_2
-    - libstdcxx-ng =16.1.0 =hdbbeba8_2
+    - libstdcxx =16.1.0 =hef695bb_3
+    - libstdcxx-ng =16.1.0 =hdbbeba8_3
     - libsystemd0 =261.2 =hb290c7d_0
     - libudev1 =261.2 =hb290c7d_0
     - libusb =1.0.29 =h06eaf92_0
@@ -135,7 +135,7 @@ requirements:
     - libxml2-16 =2.15.3 =h79dcc73_1
     - libzlib =1.3.2 =hdc9db2a_3
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
-    - mpg123 =1.33.7 =h2b27223_0
+    - mpg123 =1.33.7 =h922aec4_1
     - ncurses =6.6 =h2b6f883_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.40 =h3ad9384_0
@@ -145,7 +145,7 @@ requirements:
     - packaging =26.3 =pyhc364b38_0
     - pango =1.58.2 =h8547ced_0
     - parso =0.8.4 =pyhd8ed1ab_1
-    - pcre2 =10.47 =hf841c20_0
+    - pcre2 =10.47 =he574923_1
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pip =25.2 =pyh8b19718_0
@@ -173,7 +173,7 @@ requirements:
     - sip =6.12.0 =py39hb25661d_0
     - six =1.17.0 =pyhe01879c_1
     - stack_data =0.6.3 =pyhd8ed1ab_1
-    - tk =8.6.13 =noxft_h5cf4473_3
+    - tk =8.6.13 =noxft_hf03c496_4
     - toml =0.10.2 =pyhd8ed1ab_1
     - tomli =2.2.1 =pyhe01879c_2
     - tornado =6.5.2 =py39hd7e5afa_0

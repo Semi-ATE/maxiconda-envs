@@ -113,11 +113,11 @@ requirements:
     - libffi =3.4.6 =h281671d_1
     - libfreetype =2.14.3 =h694c41f_2
     - libfreetype6 =2.14.3 =h8afe040_2
-    - libgcc =16.1.0 =h13771c8_2
+    - libgcc =16.1.0 =h13771c8_3
     - libgettextpo =0.25.1 =h3184127_1
     - libgettextpo-devel =0.25.1 =h3184127_1
-    - libgfortran =16.1.0 =h7e5c614_2
-    - libgfortran5 =16.1.0 =h70d9f54_2
+    - libgfortran =16.1.0 =h7e5c614_3
+    - libgfortran5 =16.1.0 =h70d9f54_3
     - libglib =2.86.0 =h7cafd41_0
     - libiconv =1.18 =h4ae439b_3
     - libintl =0.25.1 =h3184127_1
@@ -143,7 +143,7 @@ requirements:
     - libxml2 =2.10.3 =h201ad9d_4
     - libzip =1.10.1 =hc158999_3
     - libzlib =1.3.2 =hbb4bfdb_3
-    - llvm-openmp =22.1.8 =h0d3cbff_0
+    - llvm-openmp =22.1.8 =h8e721bf_1
     - matplotlib-base =3.5.3 =py37h3748cd6_2
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mmtf-python =1.1.3 =pyhd8ed1ab_0
@@ -196,7 +196,7 @@ requirements:
     - sqlite =3.53.4 =hdea7a7b_1
     - statsmodels =0.13.2 =py37h4de8ad1_0
     - threadpoolctl =3.1.0 =pyh8a188c0_0
-    - tk =8.6.13 =hb794df6_3
+    - tk =8.6.13 =ha6c374e_4
     - toml =0.10.2 =pyhd8ed1ab_0
     - tornado =6.2 =py37h994c40b_0
     - tqdm =4.67.1 =pyhd8ed1ab_0

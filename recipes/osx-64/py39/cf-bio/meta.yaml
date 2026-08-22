@@ -118,9 +118,9 @@ requirements:
     - libffi =3.7.0 =h8c408c4_0
     - libfreetype =2.14.3 =h694c41f_2
     - libfreetype6 =2.14.3 =h8afe040_2
-    - libgcc =16.1.0 =h13771c8_2
-    - libgfortran =16.1.0 =h7e5c614_2
-    - libgfortran5 =16.1.0 =h70d9f54_2
+    - libgcc =16.1.0 =h13771c8_3
+    - libgfortran =16.1.0 =h7e5c614_3
+    - libgfortran5 =16.1.0 =h70d9f54_3
     - libglib =2.88.3 =hbc23256_1
     - libiconv =1.18 =h4ae439b_3
     - libintl =0.25.1 =h3184127_1
@@ -149,7 +149,7 @@ requirements:
     - libxml2 =2.13.9 =he1bc88e_0
     - libzip =1.11.2 =h31df5bb_0
     - libzlib =1.3.2 =hbb4bfdb_3
-    - llvm-openmp =22.1.8 =h0d3cbff_0
+    - llvm-openmp =22.1.8 =h8e721bf_1
     - lz4-c =1.10.0 =hc569e58_2
     - matplotlib-base =3.9.4 =py39hda06d36_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
@@ -170,7 +170,7 @@ requirements:
     - packaging =26.3 =pyhc364b38_0
     - parso =0.8.4 =pyhd8ed1ab_1
     - patsy =1.0.1 =pyhd8ed1ab_1
-    - pcre2 =10.47 =h13923f0_0
+    - pcre2 =10.47 =h31793e3_1
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py39h1fda9f2_0
@@ -213,7 +213,7 @@ requirements:
     - statsmodels =0.14.5 =py39hbbd48fb_0
     - threadpoolctl =3.6.0 =pyhecae5ae_0
     - tidynamics =1.1.2 =pyhd8ed1ab_0
-    - tk =8.6.13 =hb794df6_3
+    - tk =8.6.13 =ha6c374e_4
     - toml =0.10.2 =pyhd8ed1ab_1
     - tomli =2.2.1 =pyhe01879c_2
     - tornado =6.5.2 =py39hb1cfd32_0

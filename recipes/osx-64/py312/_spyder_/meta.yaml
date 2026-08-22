@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.12.13 =hd04fa83_1_cpython
+    - python =3.12.14 =hd04fa83_0_cpython
   run:
-    - python =3.12.13 =hd04fa83_1_cpython
+    - python =3.12.14 =hd04fa83_0_cpython
 
     # 9 primary packages :
     - cython =3.2.9 =py312h7305618_0
@@ -43,7 +43,7 @@ requirements:
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - applaunchservices =0.3.0 =pyh534df25_4
-    - appnope =0.1.4 =pyhd8ed1ab_1
+    - appnope =1.0.0 =pyhcf101f3_0
     - arrow =1.4.0 =pyhcf101f3_0
     - astroid =4.0.4 =py312hb401068_0
     - asttokens =3.0.2 =pyhd8ed1ab_0
@@ -77,7 +77,7 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - contourpy =1.3.3 =py312hb0c38da_4
     - cookiecutter =2.7.1 =pyhcf101f3_0
-    - cpython =3.12.13 =py312hd8ed1ab_1
+    - cpython =3.12.14 =py312hd8ed1ab_0
     - cryptography =50.0.0 =py312h1af399d_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h7cc0300_1
@@ -148,8 +148,8 @@ requirements:
     - libbrotlienc =1.2.0 =h3d41943_3
     - libcblas =3.11.0 =9_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
-    - libclang-cpp22.1 =22.1.8 =default_hd7b081a_7
-    - libclang13 =22.1.8 =default_hc659f0b_7
+    - libclang-cpp22.1 =22.1.8 =default_h6e863b9_9
+    - libclang13 =22.1.8 =default_h48a9e01_9
     - libcxx =22.1.8 =h19cb2f5_0
     - libdeflate =1.25 =h7ad9622_1
     - libedit =3.1.20250104 =pl5321hba2e2ab_1
@@ -157,9 +157,9 @@ requirements:
     - libffi =3.7.0 =h8c408c4_0
     - libfreetype =2.14.3 =h694c41f_2
     - libfreetype6 =2.14.3 =h8afe040_2
-    - libgcc =16.1.0 =h13771c8_2
-    - libgfortran =16.1.0 =h7e5c614_2
-    - libgfortran5 =16.1.0 =h70d9f54_2
+    - libgcc =16.1.0 =h13771c8_3
+    - libgfortran =16.1.0 =h7e5c614_3
+    - libgfortran5 =16.1.0 =h70d9f54_3
     - libglib =2.88.3 =hbc23256_1
     - libharfbuzz =14.3.1 =h2974713_0
     - libiconv =1.18 =h4ae439b_3
@@ -168,7 +168,7 @@ requirements:
     - libjpeg-turbo =3.2.0 =ha1e9b39_1
     - liblapack =3.11.0 =9_h859234e_openblas
     - libllvm18 =18.1.8 =default_h9399c5b_12
-    - libllvm22 =22.1.8 =hab754da_1
+    - libllvm22 =22.1.8 =hd11396f_2
     - liblzma =5.8.3 =hbb4bfdb_1
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =he3325bb_1
@@ -188,7 +188,7 @@ requirements:
     - libxml2 =2.15.3 =h953d39d_1
     - libxml2-16 =2.15.3 =h7a90416_1
     - libzlib =1.3.2 =hbb4bfdb_3
-    - llvm-openmp =22.1.8 =h0d3cbff_0
+    - llvm-openmp =22.1.8 =h8e721bf_1
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.2.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py312heb39f77_1
@@ -223,7 +223,7 @@ requirements:
     - pango =1.58.2 =hf280016_0
     - parso =0.8.7 =pyhcf101f3_0
     - pathspec =1.1.1 =pyhd8ed1ab_0
-    - pcre2 =10.47 =h13923f0_0
+    - pcre2 =10.47 =h31793e3_1
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =12.3.0 =py312he84af14_0
@@ -260,7 +260,7 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
-    - python-gil =3.12.13 =hd8ed1ab_1
+    - python-gil =3.12.14 =hd8ed1ab_0
     - python-gssapi =1.11.1 =py312h479078b_1
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
@@ -276,7 +276,7 @@ requirements:
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.3 =py312h51361c1_1
-    - pyzmq =27.1.0 =py312h2ac7433_3
+    - pyzmq =27.2.0 =py312h4f3d509_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h3c5361c_5
     - qstylizer =0.2.4 =pyhff2d567_0
@@ -292,7 +292,7 @@ requirements:
     - rich =15.0.0 =pyhcf101f3_0
     - roman-numerals =4.1.0 =pyhd8ed1ab_0
     - rope =1.14.0 =pyhd8ed1ab_0
-    - rpds-py =2026.6.3 =py312hb77ea7e_0
+    - rpds-py =2026.6.3 =py312h3b11fa5_0
     - rtree =1.4.1 =pyh11ca60a_0
     - ruff =0.16.4 =h62d35ec_0
     - setuptools =84.0.0 =pyh332efcf_0
@@ -316,7 +316,7 @@ requirements:
     - textdistance =4.6.3 =pyhd8ed1ab_1
     - three-merge =0.1.1 =pyhd8ed1ab_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
-    - tk =8.6.13 =hb794df6_3
+    - tk =8.6.13 =ha6c374e_4
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.1 =pyhcf101f3_0
     - tomlkit =0.15.1 =pyhcf101f3_0

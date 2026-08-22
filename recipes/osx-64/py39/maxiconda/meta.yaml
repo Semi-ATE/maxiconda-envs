@@ -85,7 +85,7 @@ requirements:
     - brotli =1.2.0 =ha9642f3_3
     - brotli-bin =1.2.0 =h086410e_3
     - brotli-python =1.0.9 =py39h7a8716b_8
-    - bwidget =1.10.1 =h694c41f_1
+    - bwidget =1.10.1 =h8822bef_2
     - bzip2 =1.0.8 =h374f1ed_10
     - c-ares =1.34.8 =had63097_2
     - ca-certificates =2026.7.22 =hbd8a1cb_0
@@ -98,21 +98,21 @@ requirements:
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h8ddeee6_0
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
-    - clang =22.1.8 =default_cfg_h3c7d1b8_7
-    - clang-22 =22.1.8 =default_hc659f0b_7
-    - clang-scan-deps =22.1.8 =default_hd7b081a_7
-    - clang_impl_osx-64 =22.1.8 =default_hd7b081a_7
+    - clang =22.1.8 =default_cfg_h7e9976a_9
+    - clang-22 =22.1.8 =default_h48a9e01_9
+    - clang-scan-deps =22.1.8 =default_h6e863b9_9
+    - clang_impl_osx-64 =22.1.8 =default_h6e863b9_9
     - clang_osx-64 =22.1.8 =h97b245c_34
-    - clangxx_impl_osx-64 =22.1.8 =default_hf95e366_7
+    - clangxx_impl_osx-64 =22.1.8 =default_h1a8f09d_9
     - clangxx_osx-64 =22.1.8 =h97b245c_34
     - click =8.1.8 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - compiler-rt =22.1.8 =h694c41f_1
-    - compiler-rt22 =22.1.8 =h1637cdf_1
-    - compiler-rt22_osx-64 =22.1.8 =hcf80936_1
-    - compiler-rt_osx-64 =22.1.8 =h694c41f_1
+    - compiler-rt =22.1.8 =h694c41f_2
+    - compiler-rt22 =22.1.8 =h8c1e6b9_2
+    - compiler-rt22_osx-64 =22.1.8 =h8d5f570_2
+    - compiler-rt_osx-64 =22.1.8 =h694c41f_2
     - conda-souschef =2.2.3 =pyhd8ed1ab_1
     - contourpy =1.3.0 =py39h0d3c867_2
     - cpython =3.9.23 =py39hd8ed1ab_0
@@ -137,8 +137,8 @@ requirements:
     - freetype =2.14.3 =h694c41f_2
     - fribidi =1.0.16 =ha1e9b39_1
     - frozenlist =1.7.0 =py39h262b9f6_0
-    - gcc_impl_osx-64 =16.1.0 =h0c54a16_2
-    - gfortran_impl_osx-64 =16.1.0 =hf2a1d47_2
+    - gcc_impl_osx-64 =16.1.0 =h0c54a16_3
+    - gfortran_impl_osx-64 =16.1.0 =hf2a1d47_3
     - glib =2.88.3 =h42002cd_1
     - glib-tools =2.88.3 =h899c5e0_1
     - gmp =6.3.0 =h65442b7_3
@@ -192,9 +192,9 @@ requirements:
     - libbrotlienc =1.2.0 =h3d41943_3
     - libcblas =3.11.0 =9_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
-    - libclang-cpp22.1 =22.1.8 =default_hd7b081a_7
-    - libclang13 =22.1.8 =default_hc659f0b_7
-    - libcompiler-rt =22.1.8 =h1637cdf_1
+    - libclang-cpp22.1 =22.1.8 =default_h6e863b9_9
+    - libclang13 =22.1.8 =default_h48a9e01_9
+    - libcompiler-rt =22.1.8 =h8c1e6b9_2
     - libcurl =8.21.0 =h5318221_5
     - libcxx =22.1.8 =h19cb2f5_0
     - libcxx-devel =22.1.8 =h7c275be_0
@@ -206,11 +206,11 @@ requirements:
     - libffi =3.7.0 =h8c408c4_0
     - libfreetype =2.14.3 =h694c41f_2
     - libfreetype6 =2.14.3 =h8afe040_2
-    - libgcc =16.1.0 =h13771c8_2
-    - libgcc-devel_osx-64 =16.1.0 =h1408bef_102
+    - libgcc =16.1.0 =h13771c8_3
+    - libgcc-devel_osx-64 =16.1.0 =h1408bef_103
     - libgettextpo =0.25.1 =h3184127_1
-    - libgfortran =16.1.0 =h7e5c614_2
-    - libgfortran5 =16.1.0 =h70d9f54_2
+    - libgfortran =16.1.0 =h7e5c614_3
+    - libgfortran5 =16.1.0 =h70d9f54_3
     - libglib =2.88.3 =hbc23256_1
     - libharfbuzz =14.3.1 =h2974713_0
     - libharfbuzz-devel =14.3.1 =h2974713_0
@@ -221,7 +221,7 @@ requirements:
     - liblapack =3.11.0 =9_h859234e_openblas
     - libllvm14 =14.0.6 =hc8e404f_4
     - libllvm18 =18.1.8 =default_h9399c5b_12
-    - libllvm22 =22.1.8 =hab754da_1
+    - libllvm22 =22.1.8 =hd11396f_2
     - liblzma =5.8.3 =hbb4bfdb_1
     - libnghttp2 =1.68.1 =h1e30255_1
     - libntlm =1.8 =h6e16a3a_0
@@ -243,9 +243,9 @@ requirements:
     - libxml2 =2.15.3 =h953d39d_1
     - libxml2-16 =2.15.3 =h7a90416_1
     - libzlib =1.3.2 =hbb4bfdb_3
-    - llvm-openmp =22.1.8 =h0d3cbff_0
-    - llvm-tools =22.1.8 =h1637cdf_1
-    - llvm-tools-22 =22.1.8 =hc181bea_1
+    - llvm-openmp =22.1.8 =h8e721bf_1
+    - llvm-tools =22.1.8 =h8c1e6b9_2
+    - llvm-tools-22 =22.1.8 =h36529c3_2
     - llvmlite =0.43.0 =py39h164c851_1
     - make =4.4.1 =ha1e9b39_3
     - markupsafe =3.0.2 =py39hd18e689_1
@@ -275,7 +275,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.58.2 =hf280016_0
     - parso =0.8.4 =pyhd8ed1ab_1
-    - pcre2 =10.47 =h13923f0_0
+    - pcre2 =10.47 =h31793e3_1
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py39h1fda9f2_0
@@ -518,8 +518,8 @@ requirements:
     - tapi =1600.0.11.8 =h44950e2_3
     - terminado =0.18.1 =pyh31c8845_0
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
-    - tk =8.6.13 =hb794df6_3
-    - tktable =2.10 =had63097_9
+    - tk =8.6.13 =ha6c374e_4
+    - tktable =2.10 =had63097_10
     - toml =0.10.2 =pyhd8ed1ab_1
     - tomli =2.2.1 =pyhe01879c_2
     - tomli-w =1.2.0 =pyhd8ed1ab_0

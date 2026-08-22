@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.11.15 =ha505bbe_2_cpython
+    - python =3.11.16 =ha505bbe_0_cpython
   run:
-    - python =3.11.15 =ha505bbe_2_cpython
+    - python =3.11.16 =ha505bbe_0_cpython
 
     # 38 primary packages :
     - aiohttp =3.14.3 =py311hf076524_0
@@ -87,7 +87,7 @@ requirements:
     - brotli =1.2.0 =h52fc18c_3
     - brotli-bin =1.2.0 =hdc3483e_3
     - brotli-python =1.2.0 =py311hf1a560e_3
-    - bwidget =1.10.1 =h8af1aa0_1
+    - bwidget =1.10.1 =h22914b5_2
     - bzip2 =1.0.8 =h4777abc_10
     - c-ares =1.34.8 =h29ee22c_2
     - ca-certificates =2026.7.22 =hbd8a1cb_0
@@ -107,7 +107,7 @@ requirements:
     - conda-recipe-manager =0.10.5 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h04741b4_4
-    - cpython =3.11.15 =py311hd8ed1ab_2
+    - cpython =3.11.16 =py311hd8ed1ab_0
     - cryptography =50.0.0 =py311h53955a0_0
     - curl =8.21.0 =h86273da_5
     - cycler =0.12.1 =pyhcf101f3_2
@@ -132,9 +132,9 @@ requirements:
     - freetype =2.14.3 =h8af1aa0_2
     - fribidi =1.0.16 =he30d5cf_1
     - frozenlist =1.8.0 =py311h91c1192_0
-    - gcc_impl_linux-aarch64 =16.1.0 =h998876f_2
+    - gcc_impl_linux-aarch64 =16.1.0 =h9d23c34_3
     - gcc_linux-aarch64 =16.1.0 =hed00b63_1
-    - gfortran_impl_linux-aarch64 =16.1.0 =h693a0ec_2
+    - gfortran_impl_linux-aarch64 =16.1.0 =h693a0ec_3
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.59 =pyhcf101f3_0
     - glib =2.88.3 =h20b6f21_1
@@ -146,7 +146,7 @@ requirements:
     - gsl =2.7 =h294027d_0
     - gst-plugins-base =1.26.11 =hd6b5e5b_0
     - gstreamer =1.26.11 =hf552038_0
-    - gxx_impl_linux-aarch64 =16.1.0 =hd5c6868_2
+    - gxx_impl_linux-aarch64 =16.1.0 =hd5c6868_3
     - gxx_linux-aarch64 =16.1.0 =hdc5d2df_1
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
@@ -193,15 +193,15 @@ requirements:
     - libbrotlienc =1.2.0 =hb247b97_3
     - libcap =2.78 =hfcc8634_1
     - libcblas =3.11.0 =9_hd72aa62_openblas
-    - libclang-cpp22.1 =22.1.8 =default_hc94976c_7
-    - libclang13 =22.1.8 =default_h049422e_7
+    - libclang-cpp22.1 =22.1.8 =default_h01b09c7_9
+    - libclang13 =22.1.8 =default_h2e26110_9
     - libcups =2.3.3 =h4f2b762_6
     - libcurl =8.21.0 =h86273da_5
     - libdeflate =1.25 =hfa851ae_1
     - libdrm =2.4.129 =h5bc82ec_0
     - libedit =3.1.20250104 =pl5321hc48eb74_1
-    - libegl =1.7.0 =hd24410f_3
-    - libegl-devel =1.7.0 =hd24410f_3
+    - libegl =1.7.0 =hd24410f_5
+    - libegl-devel =1.7.0 =hd24410f_5
     - libev =4.33 =h80f16a2_3
     - libevent =2.1.12 =h4ba1bb4_1
     - libexpat =2.8.1 =hfae3067_1
@@ -209,45 +209,45 @@ requirements:
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.3 =h8af1aa0_2
     - libfreetype6 =2.14.3 =h9cc7050_2
-    - libgcc =16.1.0 =h205dda4_2
-    - libgcc-devel_linux-aarch64 =16.1.0 =hd673532_102
-    - libgcc-ng =16.1.0 =he9431aa_2
-    - libgfortran =16.1.0 =he9431aa_2
-    - libgfortran5 =16.1.0 =h47adacf_2
-    - libgl =1.7.0 =hd24410f_3
-    - libgl-devel =1.7.0 =hd24410f_3
+    - libgcc =16.1.0 =h205dda4_3
+    - libgcc-devel_linux-aarch64 =16.1.0 =hd673532_103
+    - libgcc-ng =16.1.0 =he9431aa_3
+    - libgfortran =16.1.0 =he9431aa_3
+    - libgfortran5 =16.1.0 =h47adacf_3
+    - libgl =1.7.0 =hd24410f_5
+    - libgl-devel =1.7.0 =hd24410f_5
     - libglib =2.88.3 =had1c41b_1
-    - libglvnd =1.7.0 =hd24410f_3
-    - libglx =1.7.0 =hd24410f_3
-    - libglx-devel =1.7.0 =hd24410f_3
-    - libgomp =16.1.0 =h8acb6b2_2
+    - libglvnd =1.7.0 =hd24410f_5
+    - libglx =1.7.0 =hd24410f_5
+    - libglx-devel =1.7.0 =hd24410f_5
+    - libgomp =16.1.0 =h8acb6b2_3
     - libharfbuzz =14.3.1 =h8f7ccb3_0
     - libharfbuzz-devel =14.3.1 =h8f7ccb3_0
     - libiconv =1.18 =h1ea5142_3
     - libjpeg-turbo =3.2.0 =he30d5cf_1
     - liblapack =3.11.0 =9_h88aeb00_openblas
-    - libllvm22 =22.1.8 =hfd2ba90_1
+    - libllvm22 =22.1.8 =h680871c_2
     - liblzma =5.8.3 =he30d5cf_1
     - libnghttp2 =1.68.1 =ha4b982d_1
     - libnsl =2.0.1 =h86ecc28_1
     - libntlm =1.4 =hf897c2e_1002
     - libogg =1.3.5 =h86ecc28_1
     - libopenblas =0.3.34 =pthreads_h9d3fd7e_0
-    - libopengl =1.7.0 =hd24410f_3
+    - libopengl =1.7.0 =hd24410f_5
     - libopus =1.6.1 =h29ee22c_1
     - libpciaccess =0.19 =he30d5cf_1
     - libpng =1.6.58 =hf9b7768_1
     - libpq =18.6 =hd2a0605_0
     - libpsl =0.23.1 =hb8431ed_1
     - libraqm =0.11.0 =hd2f8911_0
-    - libsanitizer =16.1.0 =h2510bd8_2
+    - libsanitizer =16.1.0 =h2510bd8_3
     - libsndfile =1.2.2 =h7354dbf_3
     - libsodium =1.0.22 =h29ee22c_2
     - libsqlite =3.53.4 =h399dd60_1
     - libssh2 =1.11.1 =h7572e3e_1
-    - libstdcxx =16.1.0 =hef695bb_2
-    - libstdcxx-devel_linux-aarch64 =16.1.0 =h2445e1f_102
-    - libstdcxx-ng =16.1.0 =hdbbeba8_2
+    - libstdcxx =16.1.0 =hef695bb_3
+    - libstdcxx-devel_linux-aarch64 =16.1.0 =h2445e1f_103
+    - libstdcxx-ng =16.1.0 =hdbbeba8_3
     - libsystemd0 =261.2 =hb290c7d_0
     - libtiff =4.7.2 =hdb009f0_0
     - libuuid =2.42.2 =h1022ec0_0
@@ -270,7 +270,7 @@ requirements:
     - mistune =3.3.4 =pyhcf101f3_0
     - mpc =1.4.0 =he6dc3fb_0
     - mpfr =4.2.2 =h4b21e80_1
-    - mpg123 =1.33.7 =h2b27223_0
+    - mpg123 =1.33.7 =h922aec4_1
     - mpmath =1.4.1 =pyhd8ed1ab_0
     - multidict =6.7.1 =py311h164a683_0
     - munkres =1.1.4 =pyhd8ed1ab_1
@@ -292,7 +292,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.58.2 =h8547ced_0
     - parso =0.8.7 =pyhcf101f3_0
-    - pcre2 =10.47 =hf841c20_0
+    - pcre2 =10.47 =he574923_1
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pillow =12.3.0 =py311h8e17b9e_0
     - pip =26.2.1 =pyh8b19718_0
@@ -325,7 +325,7 @@ requirements:
     - python-utils =4.0.0 =pyh332efcf_0
     - python_abi =3.11 =8_cp311
     - pyxdg =0.28 =pyhd8ed1ab_0
-    - pyzmq =27.1.0 =py311hbdf0fda_3
+    - pyzmq =27.2.0 =py311he3e5287_0
     - qhull =2020.2 =h70be974_5
     - qt-main =5.15.15 =ha9b3be2_8
     - qt6-main =6.11.2 =pl5321h2856613_0
@@ -517,7 +517,7 @@ requirements:
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
-    - rpds-py =2026.6.3 =py311h3b69377_0
+    - rpds-py =2026.6.3 =py311h8c3699e_0
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
     - ruamel.yaml.clib =0.2.15 =py311h51cfe5d_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
@@ -537,8 +537,8 @@ requirements:
     - sysroot_linux-aarch64 =2.39 =h934ec21_6
     - terminado =0.18.1 =pyhc90fa1f_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
-    - tk =8.6.13 =noxft_h5cf4473_3
-    - tktable =2.10 =h9a8e9d3_9
+    - tk =8.6.13 =noxft_hf03c496_4
+    - tktable =2.10 =h9a8e9d3_10
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.1 =pyhcf101f3_0
     - tomli-w =1.2.0 =pyhd8ed1ab_0

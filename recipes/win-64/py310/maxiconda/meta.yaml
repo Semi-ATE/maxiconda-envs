@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.10.20 =hc20f281_1_cpython
+    - python =3.10.21 =hc20f281_0_cpython
   run:
-    - python =3.10.20 =hc20f281_1_cpython
+    - python =3.10.21 =hc20f281_0_cpython
 
     # 38 primary packages :
     - aiohttp =3.14.3 =py310h3602819_0
@@ -86,7 +86,7 @@ requirements:
     - brotli =1.2.0 =hc8c2fe1_3
     - brotli-bin =1.2.0 =hd477307_3
     - brotli-python =1.2.0 =py310h967a849_3
-    - bwidget =1.10.1 =h57928b3_1
+    - bwidget =1.10.1 =h11686cb_2
     - bzip2 =1.0.8 =h0ad9c76_10
     - ca-certificates =2026.7.22 =h4c7d964_0
     - cached-property =1.5.2 =hd8ed1ab_2
@@ -121,8 +121,8 @@ requirements:
     - freetype =2.14.3 =h57928b3_2
     - fribidi =1.0.16 =hfd05255_1
     - frozenlist =1.8.0 =py310had1666a_0
-    - gcc_impl_win-64 =16.1.0 =h0942c35_2
-    - gfortran_impl_win-64 =16.1.0 =he32c876_2
+    - gcc_impl_win-64 =16.1.0 =hf3f8c13_3
+    - gfortran_impl_win-64 =16.1.0 =he32c876_3
     - glib =2.88.3 =h89924da_1
     - glib-tools =2.88.3 =hf027272_1
     - graphite2 =1.3.15 =h5112557_1
@@ -130,7 +130,7 @@ requirements:
     - gsl =2.7 =hdfb1a43_0
     - gst-plugins-base =1.26.11 =h88486b4_0
     - gstreamer =1.26.11 =hae9036a_0
-    - gxx_impl_win-64 =16.1.0 =he3d2c83_2
+    - gxx_impl_win-64 =16.1.0 =he3d2c83_3
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
     - harfbuzz =14.3.1 =h57928b3_0
@@ -171,19 +171,19 @@ requirements:
     - libbrotlidec =1.2.0 =h84f9c24_3
     - libbrotlienc =1.2.0 =he2a975b_3
     - libcblas =3.11.0 =9_h2a3cdd5_mkl
-    - libclang13 =22.1.8 =default_h2778606_7
+    - libclang13 =22.1.8 =default_hacd6ee9_9
     - libcurl =8.21.0 =hdb0ef4a_5
     - libdeflate =1.25 =h1a1d4e4_1
     - libexpat =2.8.1 =hac47afa_1
     - libffi =3.7.0 =h3d046cb_0
     - libfreetype =2.14.3 =h57928b3_2
     - libfreetype6 =2.14.3 =hdbac1cb_2
-    - libgcc =16.1.0 =h110b43a_2
-    - libgcc-devel_win-64 =16.1.0 =hecf7705_102
-    - libgfortran =16.1.0 =h719f0c7_2
-    - libgfortran5 =16.1.0 =h94075d5_2
+    - libgcc =16.1.0 =h110b43a_3
+    - libgcc-devel_win-64 =16.1.0 =hecf7705_103
+    - libgfortran =16.1.0 =h719f0c7_3
+    - libgfortran5 =16.1.0 =h94075d5_3
     - libglib =2.88.3 =he810d59_1
-    - libgomp =16.1.0 =h8ee18e1_2
+    - libgomp =16.1.0 =h8ee18e1_3
     - libharfbuzz =14.3.1 =h03b5201_0
     - libharfbuzz-devel =14.3.1 =h03b5201_0
     - libhwloc =2.13.0 =default_h049141e_1000
@@ -200,8 +200,8 @@ requirements:
     - libsodium =1.0.22 =h6a83c73_2
     - libsqlite =3.53.4 =hf5d6505_1
     - libssh2 =1.11.1 =h734d217_1
-    - libstdcxx =16.1.0 =hae5796f_2
-    - libstdcxx-devel_win-64 =16.1.0 =hc76ffd0_102
+    - libstdcxx =16.1.0 =hae5796f_3
+    - libstdcxx-devel_win-64 =16.1.0 =hc76ffd0_103
     - libtiff =4.7.2 =h8f73337_0
     - libuv =1.52.1 =h6a83c73_1
     - libvorbis =1.3.7 =h5112557_2
@@ -213,7 +213,7 @@ requirements:
     - libxml2-16 =2.15.3 =h3cfd58e_1
     - libxslt =1.1.43 =h0fbe4c1_1
     - libzlib =1.3.2 =hfd05255_3
-    - llvm-openmp =22.1.8 =h4fa8253_0
+    - llvm-openmp =22.1.8 =h4fa8253_1
     - llvmlite =0.49.0 =py310hb6f59f5_0
     - m2-conda-epoch =20250515 =0_x86_64
     - m2w64-sysroot_win-64 =12.0.0.r4.gg4f2fc60ca =h42d2897_11
@@ -243,7 +243,7 @@ requirements:
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.58.2 =h13911b6_0
     - parso =0.8.7 =pyhcf101f3_0
-    - pcre2 =10.47 =hd2b5f0e_0
+    - pcre2 =10.47 =h8466c1e_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =12.3.0 =py310h712baa7_0
     - pip =26.2.1 =pyh8b19718_0
@@ -274,7 +274,7 @@ requirements:
     - pytz =2026.3.post1 =pyhcf101f3_0
     - pywin32 =312 =py310h282bd7d_0
     - pywinpty =3.0.5 =py310h9e98ed7_0
-    - pyzmq =27.1.0 =py310h824d4bc_3
+    - pyzmq =27.2.0 =py310h824d4bc_0
     - qhull =2020.2 =hc790b64_5
     - qt-main =5.15.15 =hc95f6a6_8
     - qt6-main =6.11.2 =pl5321hfcac499_0
@@ -482,8 +482,8 @@ requirements:
     - tbb =2023.0.0 =hd3d4ead_2
     - terminado =0.18.1 =pyh6dadd2b_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
-    - tk =8.6.13 =h967ab96_3
-    - tktable =2.10 =h6a83c73_9
+    - tk =8.6.13 =h967ab96_4
+    - tktable =2.10 =h6a83c73_10
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.1 =pyhcf101f3_0
     - tomli-w =1.2.0 =pyhd8ed1ab_0

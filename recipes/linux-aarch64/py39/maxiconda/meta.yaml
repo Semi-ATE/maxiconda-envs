@@ -83,10 +83,10 @@ requirements:
     - binutils_impl_linux-aarch64 =2.46.1 =default_h5f4c503_102
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.2.0 =h52fc18c_3
-    - brotli-bin =1.2.0 =hdc3483e_3
-    - brotli-python =1.0.9 =py39h3d8bfb9_8
-    - bwidget =1.10.1 =h8af1aa0_1
+    - brotli =1.1.0 =h86ecc28_3
+    - brotli-bin =1.1.0 =h86ecc28_3
+    - brotli-python =1.1.0 =py39h7dbf29c_3
+    - bwidget =1.10.1 =h22914b5_2
     - bzip2 =1.0.8 =h4777abc_10
     - c-ares =1.34.8 =h29ee22c_2
     - ca-certificates =2026.7.22 =hbd8a1cb_0
@@ -126,8 +126,8 @@ requirements:
     - freetype =2.14.3 =h8af1aa0_2
     - fribidi =1.0.16 =he30d5cf_1
     - frozenlist =1.7.0 =py39h5064d8f_0
-    - gcc_impl_linux-aarch64 =16.1.0 =h998876f_2
-    - gfortran_impl_linux-aarch64 =16.1.0 =h693a0ec_2
+    - gcc_impl_linux-aarch64 =16.1.0 =h9d23c34_3
+    - gfortran_impl_linux-aarch64 =16.1.0 =h693a0ec_3
     - glib =2.84.3 =h701fa2e_0
     - glib-tools =2.84.3 =hc87f4d4_0
     - gmp =6.3.0 =h4d6b352_3
@@ -137,7 +137,7 @@ requirements:
     - gsl =2.7 =h294027d_0
     - gst-plugins-base =1.24.11 =h83ffb7f_0
     - gstreamer =1.24.11 =h17c303d_0
-    - gxx_impl_linux-aarch64 =16.1.0 =hd5c6868_2
+    - gxx_impl_linux-aarch64 =16.1.0 =hd5c6868_3
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.2.0 =pyhd8ed1ab_0
     - harfbuzz =11.4.5 =he4899c9_0
@@ -178,9 +178,9 @@ requirements:
     - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_102
     - lerc =4.2.0 =h52b7260_0
     - libblas =3.11.0 =9_haddc8a3_openblas
-    - libbrotlicommon =1.2.0 =h384ecca_3
-    - libbrotlidec =1.2.0 =h011f0d3_3
-    - libbrotlienc =1.2.0 =hb247b97_3
+    - libbrotlicommon =1.1.0 =h86ecc28_3
+    - libbrotlidec =1.1.0 =h86ecc28_3
+    - libbrotlienc =1.1.0 =h86ecc28_3
     - libcap =2.78 =hfcc8634_1
     - libcblas =3.11.0 =9_hd72aa62_openblas
     - libclang-cpp20.1 =20.1.8 =default_he95a3c9_16
@@ -190,7 +190,7 @@ requirements:
     - libdeflate =1.25 =hfa851ae_1
     - libdrm =2.4.129 =h5bc82ec_0
     - libedit =3.1.20250104 =pl5321hc48eb74_1
-    - libegl =1.7.0 =hd24410f_3
+    - libegl =1.7.0 =hd24410f_5
     - libev =4.33 =h80f16a2_3
     - libevent =2.1.12 =h4ba1bb4_1
     - libexpat =2.8.1 =hfae3067_1
@@ -198,17 +198,17 @@ requirements:
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.3 =h8af1aa0_2
     - libfreetype6 =2.14.3 =h9cc7050_2
-    - libgcc =16.1.0 =h205dda4_2
-    - libgcc-devel_linux-aarch64 =16.1.0 =hd673532_102
-    - libgcc-ng =16.1.0 =he9431aa_2
-    - libgfortran =16.1.0 =he9431aa_2
-    - libgfortran-ng =16.1.0 =he9431aa_2
-    - libgfortran5 =16.1.0 =h47adacf_2
-    - libgl =1.7.0 =hd24410f_3
+    - libgcc =16.1.0 =h205dda4_3
+    - libgcc-devel_linux-aarch64 =16.1.0 =hd673532_103
+    - libgcc-ng =16.1.0 =he9431aa_3
+    - libgfortran =16.1.0 =he9431aa_3
+    - libgfortran-ng =16.1.0 =he9431aa_3
+    - libgfortran5 =16.1.0 =h47adacf_3
+    - libgl =1.7.0 =hd24410f_5
     - libglib =2.84.3 =h75d4a95_0
-    - libglvnd =1.7.0 =hd24410f_3
-    - libglx =1.7.0 =hd24410f_3
-    - libgomp =16.1.0 =h8acb6b2_2
+    - libglvnd =1.7.0 =hd24410f_5
+    - libglx =1.7.0 =hd24410f_5
+    - libgomp =16.1.0 =h8acb6b2_3
     - libiconv =1.18 =h1ea5142_3
     - libjpeg-turbo =3.2.0 =he30d5cf_1
     - liblapack =3.11.0 =9_h88aeb00_openblas
@@ -221,19 +221,19 @@ requirements:
     - libntlm =1.4 =hf897c2e_1002
     - libogg =1.3.5 =h86ecc28_1
     - libopenblas =0.3.34 =pthreads_h9d3fd7e_0
-    - libopengl =1.7.0 =hd24410f_3
+    - libopengl =1.7.0 =hd24410f_5
     - libopus =1.6.1 =h29ee22c_1
     - libpciaccess =0.19 =he30d5cf_1
     - libpng =1.6.58 =hf9b7768_1
     - libpq =17.7 =haf03d9f_1
-    - libsanitizer =16.1.0 =h2510bd8_2
+    - libsanitizer =16.1.0 =h2510bd8_3
     - libsndfile =1.2.2 =h7354dbf_3
     - libsodium =1.0.20 =h68df207_0
     - libsqlite =3.53.4 =hd26f1b6_1
     - libssh2 =1.11.1 =h7572e3e_1
-    - libstdcxx =16.1.0 =hef695bb_2
-    - libstdcxx-devel_linux-aarch64 =16.1.0 =h2445e1f_102
-    - libstdcxx-ng =16.1.0 =hdbbeba8_2
+    - libstdcxx =16.1.0 =hef695bb_3
+    - libstdcxx-devel_linux-aarch64 =16.1.0 =h2445e1f_103
+    - libstdcxx-ng =16.1.0 =hdbbeba8_3
     - libsystemd0 =261.2 =hb290c7d_0
     - libtiff =4.7.2 =hdb009f0_0
     - libuuid =2.42.2 =h1022ec0_0
@@ -254,7 +254,7 @@ requirements:
     - mistune =3.1.3 =pyh29332c3_0
     - mpc =1.4.0 =he6dc3fb_0
     - mpfr =4.2.2 =h4b21e80_1
-    - mpg123 =1.33.7 =h2b27223_0
+    - mpg123 =1.33.7 =h922aec4_1
     - mpmath =1.3.0 =pyhd8ed1ab_1
     - multidict =6.6.3 =py39hbebea31_0
     - munkres =1.1.4 =pyhd8ed1ab_1
@@ -519,8 +519,8 @@ requirements:
     - sysroot_linux-aarch64 =2.39 =h934ec21_6
     - terminado =0.18.1 =pyh0d859eb_0
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
-    - tk =8.6.13 =noxft_h5cf4473_3
-    - tktable =2.10 =h9a8e9d3_9
+    - tk =8.6.13 =noxft_hf03c496_4
+    - tktable =2.10 =h9a8e9d3_10
     - toml =0.10.2 =pyhd8ed1ab_1
     - tomli =2.2.1 =pyhe01879c_2
     - tomli-w =1.2.0 =pyhd8ed1ab_0

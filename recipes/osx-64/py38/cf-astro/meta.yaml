@@ -63,8 +63,8 @@ requirements:
     - jupyter_core =5.8.1 =pyh31011fe_0
     - krb5 =1.22.2 =h69064fd_2
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
-    - libclang-cpp22.1 =22.1.8 =default_hd7b081a_7
-    - libclang13 =22.1.8 =default_hc659f0b_7
+    - libclang-cpp22.1 =22.1.8 =default_h6e863b9_9
+    - libclang13 =22.1.8 =default_h48a9e01_9
     - libcxx =22.1.8 =h19cb2f5_0
     - libedit =3.1.20250104 =pl5321hba2e2ab_1
     - libexpat =2.8.1 =hcc62823_1
@@ -78,7 +78,7 @@ requirements:
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.2.0 =ha1e9b39_1
     - libllvm18 =18.1.8 =default_h9399c5b_12
-    - libllvm22 =22.1.8 =hab754da_1
+    - libllvm22 =22.1.8 =hd11396f_2
     - liblzma =5.8.3 =hbb4bfdb_1
     - liblzma-devel =5.8.3 =hbb4bfdb_1
     - libntlm =1.8 =h6e16a3a_0
@@ -102,7 +102,7 @@ requirements:
     - packaging =26.2 =pyhc364b38_0
     - pango =1.58.2 =hf280016_0
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pcre2 =10.47 =h13923f0_0
+    - pcre2 =10.47 =h31793e3_1
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pip =24.3.1 =pyh8b19718_0
@@ -126,7 +126,7 @@ requirements:
     - sip =6.7.12 =py38hb2f96d7_0
     - six =1.16.0 =pyh6c4a22f_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
-    - tk =8.6.13 =hb794df6_3
+    - tk =8.6.13 =ha6c374e_4
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.2 =pyhd8ed1ab_0
     - tornado =6.4.1 =py38hc718529_0

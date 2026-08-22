@@ -147,8 +147,8 @@ requirements:
     - libbrotlienc =1.2.0 =h2ddc9cb_3
     - libcblas =3.11.0 =9_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
-    - libclang-cpp22.1 =22.1.8 =default_hcfe1f5c_7
-    - libclang13 =22.1.8 =default_h8b20a8a_7
+    - libclang-cpp22.1 =22.1.8 =default_h79071a4_9
+    - libclang13 =22.1.8 =default_h54a73ef_9
     - libcxx =22.1.8 =h55c6f16_0
     - libdeflate =1.25 =he7e0567_1
     - libedit =3.1.20250104 =pl5321h26f1114_1
@@ -156,9 +156,9 @@ requirements:
     - libffi =3.7.0 =hcf2aa1b_0
     - libfreetype =2.14.3 =hce30654_2
     - libfreetype6 =2.14.3 =h2ed5691_2
-    - libgcc =16.1.0 =h3cf6597_2
-    - libgfortran =16.1.0 =h07b0088_2
-    - libgfortran5 =16.1.0 =h32cdfcc_2
+    - libgcc =16.1.0 =h3cf6597_3
+    - libgfortran =16.1.0 =h07b0088_3
+    - libgfortran5 =16.1.0 =h32cdfcc_3
     - libglib =2.88.3 =ha531971_1
     - libharfbuzz =14.3.1 =hcda0f7c_0
     - libiconv =1.18 =he4c29f2_3
@@ -167,7 +167,7 @@ requirements:
     - libjpeg-turbo =3.2.0 =h84a0fba_1
     - liblapack =3.11.0 =9_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h8e162e0_12
-    - libllvm22 =22.1.8 =h89af1be_1
+    - libllvm22 =22.1.8 =h759d1ac_2
     - liblzma =5.8.3 =h8088a28_1
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
@@ -186,7 +186,7 @@ requirements:
     - libxml2 =2.15.3 =h5654f7c_1
     - libxml2-16 =2.15.3 =h5ef1a60_1
     - libzlib =1.3.2 =h8088a28_3
-    - llvm-openmp =22.1.8 =hc7d1edf_0
+    - llvm-openmp =22.1.8 =hc225544_1
     - markdown-it-py =3.0.0 =pyhd8ed1ab_1
     - markupsafe =3.0.2 =py39hefdd603_1
     - matplotlib-base =3.9.4 =py39h7251d6c_0
@@ -220,7 +220,7 @@ requirements:
     - pango =1.58.2 =hf80efc4_0
     - parso =0.8.4 =pyhd8ed1ab_1
     - pathspec =0.12.1 =pyhd8ed1ab_1
-    - pcre2 =10.47 =h30297fc_0
+    - pcre2 =10.47 =he63d830_1
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =11.3.0 =py39hfea3036_0
@@ -309,7 +309,7 @@ requirements:
     - textdistance =4.6.3 =pyhd8ed1ab_1
     - three-merge =0.1.1 =pyhd8ed1ab_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
-    - tk =8.6.13 =hd3d0363_3
+    - tk =8.6.13 =hbeba79b_4
     - toml =0.10.2 =pyhd8ed1ab_1
     - tomli =2.2.1 =pyhe01879c_2
     - tomlkit =0.13.3 =pyha770c72_0

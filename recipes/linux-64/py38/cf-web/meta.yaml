@@ -101,20 +101,20 @@ requirements:
     - libcups =2.3.3 =hb8b1518_5
     - libdrm =2.4.129 =h7cc23a3_0
     - libedit =3.1.20250104 =pl5321h373387f_1
-    - libegl =1.7.0 =ha4b6fd6_3
+    - libegl =1.7.0 =ha4b6fd6_5
     - libevent =2.1.12 =hf998b51_1
     - libexpat =2.8.1 =hecca717_1
     - libffi =3.7.0 =h3435931_0
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_2
     - libfreetype6 =2.14.3 =h5e6c136_2
-    - libgcc =16.1.0 =ha9f2e26_2
-    - libgcc-ng =16.1.0 =h69a702a_2
-    - libgl =1.7.0 =ha4b6fd6_3
+    - libgcc =16.1.0 =ha9f2e26_3
+    - libgcc-ng =16.1.0 =h69a702a_3
+    - libgl =1.7.0 =ha4b6fd6_5
     - libglib =2.88.3 =h45c3219_1
-    - libglvnd =1.7.0 =ha4b6fd6_3
-    - libglx =1.7.0 =ha4b6fd6_3
-    - libgomp =16.1.0 =he0feb66_2
+    - libglvnd =1.7.0 =ha4b6fd6_5
+    - libglx =1.7.0 =ha4b6fd6_5
+    - libgomp =16.1.0 =he0feb66_3
     - libiconv =1.18 =h0cb94f2_3
     - libjpeg-turbo =3.2.0 =hb03c661_1
     - libllvm19 =19.1.7 =ha7bfdaf_1
@@ -130,8 +130,8 @@ requirements:
     - libsndfile =1.2.2 =hbc6d301_3
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.53.4 =h0737f62_1
-    - libstdcxx =16.1.0 =h934c35e_2
-    - libstdcxx-ng =16.1.0 =hdf11a46_2
+    - libstdcxx =16.1.0 =h934c35e_3
+    - libstdcxx-ng =16.1.0 =hdf11a46_3
     - libsystemd0 =261.2 =h6f4a2f1_0
     - libuuid =2.42.2 =h5347b49_0
     - libvorbis =1.3.7 =h54a6638_2
@@ -142,7 +142,7 @@ requirements:
     - libzlib =1.3.2 =h25fd6f3_3
     - markupsafe =2.1.5 =py38h01eb140_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
-    - mpg123 =1.33.7 =h8142553_0
+    - mpg123 =1.33.7 =h877a99e_1
     - mysql-common =9.0.1 =h266115a_4
     - mysql-libs =9.0.1 =he0572af_4
     - ncurses =6.6 =hdb14827_1
@@ -153,7 +153,7 @@ requirements:
     - openssl =3.6.3 =h35e630c_1
     - packaging =26.2 =pyhc364b38_0
     - parso =0.8.4 =pyhd8ed1ab_0
-    - pcre2 =10.47 =haa7fec5_0
+    - pcre2 =10.47 =h8b3dc9c_1
     - pexpect =4.9.0 =pyhd8ed1ab_0
     - pickleshare =0.7.5 =py_1003
     - pip =24.3.1 =pyh8b19718_0
@@ -188,7 +188,7 @@ requirements:
     - soupsieve =2.6 =pyhd8ed1ab_0
     - sqlparse =0.5.1 =pyhd8ed1ab_0
     - stack_data =0.6.2 =pyhd8ed1ab_0
-    - tk =8.6.13 =noxft_hd70dff1_3
+    - tk =8.6.13 =noxft_h1df4ec4_4
     - toml =0.10.2 =pyhd8ed1ab_0
     - tomli =2.0.2 =pyhd8ed1ab_0
     - tornado =6.4.1 =py38hfb59056_0
