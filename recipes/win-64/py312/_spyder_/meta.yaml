@@ -25,7 +25,7 @@ requirements:
     - python =3.12.14 =hb12b558_0_cpython
 
     # 10 primary packages :
-    - cython =3.2.9 =py312hd245ac3_0
+    - cython =3.3.0 =py312hd245ac3_0
     - matplotlib =3.11.1 =py312h8e0e4fc_2
     - menuinst =2.5.2 =py312ha1a9051_1
     - numpy =2.5.2 =py312ha3f287d_0
@@ -171,7 +171,7 @@ requirements:
     - libvulkan-loader =1.4.357.0 =h477610d_1
     - libwebp =1.6.0 =h4d5522a_1
     - libwebp-base =1.6.0 =h4d5522a_1
-    - libwinpthread =12.0.0.r4.gg4f2fc60ca =h11686cb_11
+    - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_10
     - libxcb =1.17.0 =h874e120_1
     - libxml2 =2.15.3 =h8ef44ab_1
     - libxml2-16 =2.15.3 =h3cfd58e_1
@@ -218,7 +218,7 @@ requirements:
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py312h05f76fc_0
-    - psutil =7.2.2 =py312he5662c2_0
+    - psutil =7.2.2 =py312he5662c2_1
     - pthread-stubs =0.4 =hba3369d_1003
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
@@ -254,7 +254,7 @@ requirements:
     - pytokens =0.4.1 =py312he5662c2_2
     - pytoolconfig =1.2.5 =pyhd8ed1ab_1
     - pyuca =1.2 =pyhd8ed1ab_2
-    - pywin32 =312 =py312h829343e_0
+    - pywin32 =312 =py312h95189c4_1
     - pywin32-ctypes =0.2.3 =py312h2e8e312_3
     - pyyaml =6.0.3 =py312h05f76fc_1
     - pyzmq =27.2.0 =py312h343a6d4_0

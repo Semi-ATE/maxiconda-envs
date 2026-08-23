@@ -29,7 +29,7 @@ requirements:
     - aiomqtt =2.5.1 =pyhcf101f3_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - bitarray =3.10.1 =py312h2fc9c67_0
-    - cython =3.2.9 =py312hbda70bc_0
+    - cython =3.3.0 =py312ha0e5879_0
     - grayskull =3.1.1 =pyhc364b38_0
     - hypothesis =6.165.10 =py312h0efae70_0
     - ipython =9.16.1 =pyh53cf698_0
@@ -40,7 +40,7 @@ requirements:
     - openpyxl =3.1.5 =py312h6c49482_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =3.0.5 =py312hf55c4e8_1
-    - psutil =7.2.2 =py312hd41f8a7_0
+    - psutil =7.2.2 =py312h898233f_1
     - pydantic =2.13.4 =pyhcf101f3_0
     - pyqt =5.15.11 =py312hc13527c_2
     - pyserial =3.5 =pyhcf101f3_2
@@ -90,7 +90,7 @@ requirements:
     - brotli =1.2.0 =h52fc18c_3
     - brotli-bin =1.2.0 =hdc3483e_3
     - brotli-python =1.2.0 =py312h41c1d46_3
-    - bwidget =1.10.1 =h22914b5_2
+    - bwidget =1.10.1 =h22914b5_3
     - bzip2 =1.0.8 =h4777abc_10
     - c-ares =1.34.8 =h29ee22c_2
     - ca-certificates =2026.7.22 =hbd8a1cb_0
@@ -615,7 +615,7 @@ requirements:
     - xorg-libxrender =0.9.12 =he30d5cf_1
     - xorg-libxshmfence =1.3.3 =h86ecc28_0
     - xorg-libxt =1.3.1 =h5bc82ec_1
-    - xorg-libxtst =1.2.5 =h57736b2_3
+    - xorg-libxtst =1.2.5 =h5bc82ec_4
     - xorg-libxxf86vm =1.1.7 =he30d5cf_0
     - xorg-xorgproto =2025.1 =h80f16a2_1
     - yaml =0.2.5 =h29ee22c_3

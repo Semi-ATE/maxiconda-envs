@@ -25,7 +25,7 @@ requirements:
     - python =3.11.16 =hd1323d7_0_cpython
 
     # 9 primary packages :
-    - cython =3.2.9 =py311hf7a0982_0
+    - cython =3.3.0 =py311h71a39cc_0
     - matplotlib =3.11.1 =py311ha01d089_2
     - numpy =2.4.6 =py311hbd1492f_0
     - pandas =3.0.5 =py311h8948835_1
@@ -233,7 +233,7 @@ requirements:
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py311hc290fe0_0
-    - psutil =7.2.2 =py311he363849_0
+    - psutil =7.2.2 =py311hd322c8c_1
     - pthread-stubs =0.4 =h84a0fba_1003
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
