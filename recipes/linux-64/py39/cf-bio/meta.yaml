@@ -130,17 +130,17 @@ requirements:
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_2
     - libfreetype6 =2.14.3 =h5e6c136_2
-    - libgcc =16.1.0 =ha9f2e26_3
-    - libgcc-ng =16.1.0 =h69a702a_3
-    - libgfortran =16.1.0 =h69a702a_3
-    - libgfortran-ng =16.1.0 =h69a702a_3
-    - libgfortran5 =16.1.0 =h79bb938_3
+    - libgcc =16.2.0 =ha9f2e26_4
+    - libgcc-ng =16.2.0 =h69a702a_4
+    - libgfortran =16.2.0 =h69a702a_4
+    - libgfortran-ng =16.2.0 =h69a702a_4
+    - libgfortran5 =16.2.0 =h6b99dfc_4
     - libgl =1.7.0 =ha4b6fd6_5
     - libglib =2.84.3 =hf39c6af_0
     - libglu =9.0.3 =h5888daf_1
     - libglvnd =1.7.0 =ha4b6fd6_5
     - libglx =1.7.0 =ha4b6fd6_5
-    - libgomp =16.1.0 =he0feb66_3
+    - libgomp =16.2.0 =he0feb66_4
     - libiconv =1.18 =h0cb94f2_3
     - libjpeg-turbo =3.2.0 =hb03c661_1
     - liblapack =3.11.0 =9_h47877c9_openblas
@@ -163,8 +163,8 @@ requirements:
     - libsodium =1.0.20 =h4ab18f5_0
     - libsqlite =3.53.4 =h0737f62_1
     - libssh2 =1.11.1 =h6154650_1
-    - libstdcxx =16.1.0 =h934c35e_3
-    - libstdcxx-ng =16.1.0 =hdf11a46_3
+    - libstdcxx =16.2.0 =h934c35e_4
+    - libstdcxx-ng =16.2.0 =hdf11a46_4
     - libsystemd0 =261.2 =h6f4a2f1_0
     - libtiff =4.7.2 =h9d88235_0
     - libuuid =2.42.2 =h5347b49_0
@@ -194,7 +194,7 @@ requirements:
     - nss =3.118 =h445c969_0
     - openjpeg =2.5.4 =h55fea9a_0
     - openldap =2.6.10 =he970967_0
-    - openssl =3.6.3 =h35e630c_1
+    - openssl =3.6.4 =h781a0a9_0
     - packaging =26.3 =pyhc364b38_0
     - parso =0.8.4 =pyhd8ed1ab_1
     - patsy =1.0.1 =pyhd8ed1ab_1

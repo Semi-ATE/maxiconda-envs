@@ -116,7 +116,7 @@ requirements:
     - libclang-cpp17 =17.0.6 =default_hf90f093_8
     - libclang13 =21.1.0 =default_h6e8f826_1
     - libcurl =8.18.0 =he38603e_0
-    - libcxx =22.1.8 =h55c6f16_0
+    - libcxx =23.1.0 =h55c6f16_0
     - libdeflate =1.25 =he7e0567_1
     - libedit =3.1.20250104 =pl5321h26f1114_1
     - libev =4.33 =h1a92334_3
@@ -124,9 +124,9 @@ requirements:
     - libffi =3.7.0 =hcf2aa1b_0
     - libfreetype =2.14.3 =hce30654_2
     - libfreetype6 =2.14.3 =h2ed5691_2
-    - libgcc =16.1.0 =h3cf6597_3
-    - libgfortran =16.1.0 =h07b0088_3
-    - libgfortran5 =16.1.0 =h32cdfcc_3
+    - libgcc =16.2.0 =h3cf6597_4
+    - libgfortran =16.2.0 =h07b0088_4
+    - libgfortran5 =16.2.0 =hdb7a957_4
     - libglib =2.88.3 =ha531971_1
     - libiconv =1.18 =he4c29f2_3
     - libintl =0.25.1 =h493aca8_0
@@ -173,7 +173,7 @@ requirements:
     - nspr =4.40 =hdcbdcf5_0
     - nss =3.118 =h1c710a3_0
     - openjpeg =2.5.4 =hd9e9057_0
-    - openssl =3.6.3 =hd24854e_1
+    - openssl =3.6.4 =h55eecbc_0
     - packaging =26.2 =pyhc364b38_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - patsy =0.5.6 =pyhd8ed1ab_0

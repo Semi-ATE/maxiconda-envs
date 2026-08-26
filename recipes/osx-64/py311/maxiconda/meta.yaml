@@ -89,8 +89,8 @@ requirements:
     - bzip2 =1.0.8 =h374f1ed_10
     - c-ares =1.34.8 =had63097_2
     - ca-certificates =2026.7.22 =hbd8a1cb_0
-    - cached-property =1.5.2 =hd8ed1ab_2
-    - cached_property =1.5.2 =pyha770c72_2
+    - cached-property =2.0.1 =pyhcf101f3_0
+    - cached_property =2.0.1 =pyhcf101f3_0
     - cairo =1.18.4 =h7656bdc_1
     - cctools =1030.6.3 =llvm22_1_h0a1bb1c_5
     - cctools_impl_osx-64 =1030.6.3 =llvm22_1_h8fe25a2_5
@@ -142,8 +142,8 @@ requirements:
     - freetype =2.14.3 =h694c41f_2
     - fribidi =1.0.16 =ha1e9b39_1
     - frozenlist =1.8.0 =py311ha09d3ca_0
-    - gcc_impl_osx-64 =16.1.0 =h0c54a16_3
-    - gfortran_impl_osx-64 =16.1.0 =hf2a1d47_3
+    - gcc_impl_osx-64 =16.2.0 =hd8ed746_4
+    - gfortran_impl_osx-64 =16.2.0 =h51020b9_4
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.59 =pyhcf101f3_0
     - glib =2.88.3 =h42002cd_1
@@ -203,7 +203,7 @@ requirements:
     - libclang13 =22.1.8 =default_h48a9e01_9
     - libcompiler-rt =22.1.8 =h8c1e6b9_2
     - libcurl =8.21.0 =h5318221_5
-    - libcxx =22.1.8 =h19cb2f5_0
+    - libcxx =23.1.0 =h19cb2f5_0
     - libcxx-devel =22.1.8 =h7c275be_0
     - libcxx-headers =22.1.8 =h707e725_0
     - libdeflate =1.25 =h7ad9622_1
@@ -213,11 +213,11 @@ requirements:
     - libffi =3.7.0 =h8c408c4_0
     - libfreetype =2.14.3 =h694c41f_2
     - libfreetype6 =2.14.3 =h8afe040_2
-    - libgcc =16.1.0 =h13771c8_3
-    - libgcc-devel_osx-64 =16.1.0 =h1408bef_103
+    - libgcc =16.2.0 =h13771c8_4
+    - libgcc-devel_osx-64 =16.2.0 =h94c7937_104
     - libgettextpo =0.25.1 =h3184127_1
-    - libgfortran =16.1.0 =h7e5c614_3
-    - libgfortran5 =16.1.0 =h70d9f54_3
+    - libgfortran =16.2.0 =h7e5c614_4
+    - libgfortran5 =16.2.0 =h2539e6c_4
     - libglib =2.88.3 =hbc23256_1
     - libharfbuzz =14.3.1 =h2974713_0
     - libharfbuzz-devel =14.3.1 =h2974713_0
@@ -253,13 +253,13 @@ requirements:
     - llvm-openmp =22.1.8 =h8e721bf_1
     - llvm-tools =22.1.8 =h8c1e6b9_2
     - llvm-tools-22 =22.1.8 =h36529c3_2
-    - llvmlite =0.49.0 =py311hbe43510_0
+    - llvmlite =0.49.0 =py311h2ac18a9_1
     - make =4.4.1 =ha1e9b39_3
     - markupsafe =3.0.3 =py311ha8ae342_1
     - matplotlib-base =3.11.1 =py311hc07f8e9_2
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - mistune =3.3.4 =pyhcf101f3_0
-    - mpc =1.4.0 =h31caf2d_0
+    - mpc =1.4.0 =ha50206a_1
     - mpfr =4.2.2 =ha50206a_1
     - mpmath =1.4.1 =pyhd8ed1ab_0
     - multidict =6.7.1 =py311h42ed68f_0
@@ -275,7 +275,7 @@ requirements:
     - nss =3.118 =h2b2a826_0
     - openjpeg =2.5.4 =h52bb76a_0
     - openldap =2.6.13 =h2f5043c_0
-    - openssl =3.6.3 =hc881268_1
+    - openssl =3.6.4 =h332eb6d_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.10.2 =h694c41f_0
@@ -345,7 +345,7 @@ requirements:
     - r-cpp11 =0.5.5 =r45h785f33e_0
     - r-crayon =1.5.3 =r45hc72bb7e_2
     - r-crul =1.6.0 =r45hc72bb7e_1
-    - r-curl =7.1.0 =r45h2ef87c2_0
+    - r-curl =8.0.0 =r45hd029b9b_0
     - r-data.table =1.18.4 =r45h37ac33b_0
     - r-dbi =1.3.0 =r45hc72bb7e_0
     - r-dbplyr =2.6.0 =r45hc72bb7e_0

@@ -209,7 +209,7 @@ requirements:
     - libclang13 =21.1.0 =default_h7f9524c_1
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.18.0 =h9348e2b_0
-    - libcxx =22.1.8 =h19cb2f5_0
+    - libcxx =23.1.0 =h19cb2f5_0
     - libdeflate =1.25 =h7ad9622_1
     - libedit =3.1.20250104 =pl5321hba2e2ab_1
     - libev =4.33 =ha3d0635_3
@@ -218,10 +218,10 @@ requirements:
     - libffi =3.7.0 =h8c408c4_0
     - libfreetype =2.14.3 =h694c41f_2
     - libfreetype6 =2.14.3 =h8afe040_2
-    - libgcc =16.1.0 =h13771c8_3
+    - libgcc =16.2.0 =h13771c8_4
     - libgd =2.3.3 =h8555400_11
-    - libgfortran =16.1.0 =h7e5c614_3
-    - libgfortran5 =16.1.0 =h70d9f54_3
+    - libgfortran =16.2.0 =h7e5c614_4
+    - libgfortran5 =16.2.0 =h2539e6c_4
     - libglib =2.88.3 =hbc23256_1
     - libgoogle-cloud =2.39.0 =hed66dea_0
     - libgoogle-cloud-storage =2.39.0 =h8ac052b_0
@@ -281,7 +281,7 @@ requirements:
     - mkl =2023.2.0 =h694c41f_50502
     - mlflow =1.27.0 =py39h8ac9d56_0
     - mlxtend =0.25.0 =pyhd8ed1ab_0
-    - mpc =1.4.0 =h31caf2d_0
+    - mpc =1.4.0 =ha50206a_1
     - mpfr =4.2.2 =ha50206a_1
     - mpmath =1.3.0 =pyhd8ed1ab_1
     - multimethod =1.4 =py_0
@@ -301,7 +301,7 @@ requirements:
     - opencl-headers =2025.06.13 =hcc62823_0
     - openjpeg =2.5.4 =h52bb76a_0
     - openldap =2.6.10 =hd8a590d_0
-    - openssl =3.6.3 =hc881268_1
+    - openssl =3.6.4 =h332eb6d_0
     - optree =0.17.0 =py39h10b7adc_0
     - orc =2.2.1 =hd1b02dc_0
     - packaging =26.3 =pyhc364b38_0

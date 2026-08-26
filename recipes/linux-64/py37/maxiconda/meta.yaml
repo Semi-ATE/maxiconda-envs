@@ -118,10 +118,10 @@ requirements:
     - freetype =2.14.3 =ha770c72_2
     - fribidi =1.0.16 =hb03c661_1
     - frozenlist =1.3.1 =py37h540881e_0
-    - gcc_impl_linux-64 =16.1.0 =hc9a5b7b_3
+    - gcc_impl_linux-64 =16.2.0 =h176d5d0_4
     - gettext =0.25.1 =h3f43e3d_1
     - gettext-tools =0.25.1 =h3f43e3d_1
-    - gfortran_impl_linux-64 =16.1.0 =h08e1a1a_3
+    - gfortran_impl_linux-64 =16.2.0 =hf930d89_4
     - git =2.42.0 =pl5321h86e50cf_0
     - glib =2.78.1 =hfc55251_0
     - glib-tools =2.78.1 =hfc55251_0
@@ -133,7 +133,7 @@ requirements:
     - gst-plugins-base =1.22.0 =h4243ec0_2
     - gstreamer =1.22.0 =h25f0c4b_2
     - gstreamer-orc =0.4.42 =h82d0256_0
-    - gxx_impl_linux-64 =16.1.0 =he33a5f8_3
+    - gxx_impl_linux-64 =16.2.0 =h0d273dc_4
     - harfbuzz =6.0.0 =h8e241bc_0
     - icu =70.1 =h27087fc_0
     - idna =3.10 =pyhd8ed1ab_0
@@ -183,20 +183,20 @@ requirements:
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_2
     - libfreetype6 =2.14.3 =h5e6c136_2
-    - libgcc =16.1.0 =ha9f2e26_3
-    - libgcc-devel_linux-64 =16.1.0 =h59071f9_103
-    - libgcc-ng =16.1.0 =h69a702a_3
+    - libgcc =16.2.0 =ha9f2e26_4
+    - libgcc-devel_linux-64 =16.2.0 =he3ce08f_104
+    - libgcc-ng =16.2.0 =h69a702a_4
     - libgcrypt =1.12.2 =ha770c72_2
     - libgcrypt-devel =1.12.2 =h7cc23a3_2
     - libgcrypt-lib =1.12.2 =h7cc23a3_2
     - libgcrypt-tools =1.12.2 =h7cc23a3_2
     - libgettextpo =0.25.1 =h3f43e3d_1
     - libgettextpo-devel =0.25.1 =h3f43e3d_1
-    - libgfortran =16.1.0 =h69a702a_3
-    - libgfortran-ng =16.1.0 =h69a702a_3
-    - libgfortran5 =16.1.0 =h79bb938_3
+    - libgfortran =16.2.0 =h69a702a_4
+    - libgfortran-ng =16.2.0 =h69a702a_4
+    - libgfortran5 =16.2.0 =h6b99dfc_4
     - libglib =2.78.1 =hebfc3b9_0
-    - libgomp =16.1.0 =he0feb66_3
+    - libgomp =16.2.0 =he0feb66_4
     - libgpg-error =1.61 =h54a6638_2
     - libiconv =1.18 =h0cb94f2_3
     - liblapack =3.9.0 =20_linux64_openblas
@@ -212,14 +212,14 @@ requirements:
     - libopus =1.6.1 =hebe6cf0_1
     - libpng =1.6.58 =h922cc85_1
     - libpq =15.3 =hbcd7760_1
-    - libsanitizer =16.1.0 =hf2715c6_3
+    - libsanitizer =16.2.0 =h3048135_4
     - libsndfile =1.2.2 =hbc6d301_3
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.53.4 =h0737f62_1
     - libssh2 =1.11.0 =h0841786_0
-    - libstdcxx =16.1.0 =h934c35e_3
-    - libstdcxx-devel_linux-64 =16.1.0 =h41cdd0d_103
-    - libstdcxx-ng =16.1.0 =hdf11a46_3
+    - libstdcxx =16.2.0 =h934c35e_4
+    - libstdcxx-devel_linux-64 =16.2.0 =h86e191b_104
+    - libstdcxx-ng =16.2.0 =hdf11a46_4
     - libsystemd0 =253 =h8c4010b_1
     - libtiff =4.4.0 =h82bc61c_5
     - libtool =2.5.4 =h5888daf_0
@@ -239,7 +239,7 @@ requirements:
     - matplotlib-base =3.5.3 =py37hf395dca_2
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - mistune =3.0.2 =pyhd8ed1ab_0
-    - mpc =1.4.0 =he0a73b1_0
+    - mpc =1.4.0 =ha2cb11d_1
     - mpfr =4.2.2 =ha2cb11d_1
     - mpg123 =1.33.7 =h877a99e_1
     - mpmath =1.3.0 =pyhd8ed1ab_0
@@ -508,7 +508,7 @@ requirements:
     - xcb-util-image =0.4.0 =h166bdaf_0
     - xcb-util-keysyms =0.4.0 =h516909a_0
     - xcb-util-renderutil =0.3.9 =h166bdaf_0
-    - xcb-util-wm =0.4.1 =h516909a_0
+    - xcb-util-wm =0.4.1 =h166bdaf_0
     - xkeyboard-config =2.38 =h0b41bf4_0
     - xorg-kbproto =1.0.7 =hb9d3cd8_1003
     - xorg-libice =1.0.10 =h7f98852_0

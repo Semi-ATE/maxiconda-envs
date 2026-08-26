@@ -158,16 +158,16 @@ requirements:
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.3 =h8af1aa0_2
     - libfreetype6 =2.14.3 =h9cc7050_2
-    - libgcc =16.1.0 =h205dda4_3
-    - libgcc-ng =16.1.0 =he9431aa_3
-    - libgfortran =16.1.0 =he9431aa_3
-    - libgfortran-ng =16.1.0 =he9431aa_3
-    - libgfortran5 =16.1.0 =h47adacf_3
+    - libgcc =16.2.0 =h205dda4_4
+    - libgcc-ng =16.2.0 =he9431aa_4
+    - libgfortran =16.2.0 =he9431aa_4
+    - libgfortran-ng =16.2.0 =he9431aa_4
+    - libgfortran5 =16.2.0 =hc864f27_4
     - libgl =1.7.0 =hd24410f_5
     - libglib =2.88.3 =had1c41b_1
     - libglvnd =1.7.0 =hd24410f_5
     - libglx =1.7.0 =hd24410f_5
-    - libgomp =16.1.0 =h8acb6b2_3
+    - libgomp =16.2.0 =h8acb6b2_4
     - libharfbuzz =14.3.1 =h8f7ccb3_0
     - libharfbuzz-devel =14.3.1 =h8f7ccb3_0
     - libiconv =1.18 =h1ea5142_3
@@ -188,8 +188,8 @@ requirements:
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =2.0.0 =h0a1ffab_0
     - libsqlite =3.53.4 =h399dd60_1
-    - libstdcxx =16.1.0 =hef695bb_3
-    - libstdcxx-ng =16.1.0 =hdbbeba8_3
+    - libstdcxx =16.2.0 =hef695bb_4
+    - libstdcxx-ng =16.2.0 =hdbbeba8_4
     - libsystemd0 =261.2 =hb290c7d_0
     - libtiff =4.7.2 =hdb009f0_0
     - libuuid =2.42.2 =h1022ec0_0
@@ -211,7 +211,7 @@ requirements:
     - mdurl =0.1.2 =pyhd8ed1ab_0
     - mistune =3.0.2 =pyhd8ed1ab_0
     - more-itertools =10.5.0 =pyhd8ed1ab_0
-    - mpc =1.4.0 =he6dc3fb_0
+    - mpc =1.4.0 =ha78d887_1
     - mpfr =4.2.2 =h4b21e80_1
     - mpg123 =1.33.7 =h922aec4_1
     - mpmath =1.3.0 =pyhd8ed1ab_0
@@ -229,7 +229,7 @@ requirements:
     - numpydoc =1.7.0 =pyhd8ed1ab_3
     - openjpeg =2.5.4 =h5da879a_0
     - openldap =2.6.13 =h2fb54aa_0
-    - openssl =3.6.3 =h546c87b_1
+    - openssl =3.6.4 =he6ad1d5_0
     - packaging =26.2 =pyhc364b38_0
     - pandoc =3.10.2 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0

@@ -149,16 +149,16 @@ requirements:
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
     - libclang-cpp22.1 =22.1.8 =default_h6e863b9_9
     - libclang13 =22.1.8 =default_h48a9e01_9
-    - libcxx =22.1.8 =h19cb2f5_0
+    - libcxx =23.1.0 =h19cb2f5_0
     - libdeflate =1.25 =h7ad9622_1
     - libedit =3.1.20250104 =pl5321hba2e2ab_1
     - libexpat =2.8.1 =hcc62823_1
     - libffi =3.7.0 =h8c408c4_0
     - libfreetype =2.14.3 =h694c41f_2
     - libfreetype6 =2.14.3 =h8afe040_2
-    - libgcc =16.1.0 =h13771c8_3
-    - libgfortran =16.1.0 =h7e5c614_3
-    - libgfortran5 =16.1.0 =h70d9f54_3
+    - libgcc =16.2.0 =h13771c8_4
+    - libgfortran =16.2.0 =h7e5c614_4
+    - libgfortran5 =16.2.0 =h2539e6c_4
     - libglib =2.88.3 =hbc23256_1
     - libharfbuzz =14.3.1 =h2974713_0
     - libiconv =1.18 =h4ae439b_3
@@ -195,7 +195,7 @@ requirements:
     - mdurl =0.1.2 =pyhd8ed1ab_1
     - mistune =3.1.3 =pyh29332c3_0
     - more-itertools =10.7.0 =pyhd8ed1ab_0
-    - mpc =1.4.0 =h31caf2d_0
+    - mpc =1.4.0 =ha50206a_1
     - mpfr =4.2.2 =ha50206a_1
     - mpmath =1.3.0 =pyhd8ed1ab_1
     - multidict =6.6.3 =py39h781ac47_0
@@ -213,7 +213,7 @@ requirements:
     - numpydoc =1.9.0 =pyhe01879c_1
     - openjpeg =2.5.4 =h52bb76a_0
     - openldap =2.6.10 =hd8a590d_0
-    - openssl =3.6.3 =hc881268_1
+    - openssl =3.6.4 =h332eb6d_0
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.10.2 =h694c41f_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0

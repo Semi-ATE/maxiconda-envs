@@ -92,15 +92,15 @@ requirements:
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.3 =h8af1aa0_2
     - libfreetype6 =2.14.3 =h9cc7050_2
-    - libgcc =16.1.0 =h205dda4_3
-    - libgcc-ng =16.1.0 =he9431aa_3
-    - libgfortran =16.1.0 =he9431aa_3
-    - libgfortran5 =16.1.0 =h47adacf_3
+    - libgcc =16.2.0 =h205dda4_4
+    - libgcc-ng =16.2.0 =he9431aa_4
+    - libgfortran =16.2.0 =he9431aa_4
+    - libgfortran5 =16.2.0 =hc864f27_4
     - libgl =1.7.0 =hd24410f_5
     - libglib =2.86.0 =h7cdfd2c_0
     - libglvnd =1.7.0 =hd24410f_5
     - libglx =1.7.0 =hd24410f_5
-    - libgomp =16.1.0 =h8acb6b2_3
+    - libgomp =16.2.0 =h8acb6b2_4
     - libiconv =1.18 =h1ea5142_3
     - libjpeg-turbo =3.2.0 =he30d5cf_1
     - liblapack =3.11.0 =9_h88aeb00_openblas
@@ -119,8 +119,8 @@ requirements:
     - libsndfile =1.2.2 =h7354dbf_3
     - libsodium =1.0.18 =hb9de7d4_1
     - libsqlite =3.53.4 =hd26f1b6_1
-    - libstdcxx =16.1.0 =hef695bb_3
-    - libstdcxx-ng =16.1.0 =hdbbeba8_3
+    - libstdcxx =16.2.0 =hef695bb_4
+    - libstdcxx-ng =16.2.0 =hdbbeba8_4
     - libsystemd0 =261.2 =hb290c7d_0
     - libudev1 =261.2 =hb290c7d_0
     - libusb =1.0.29 =h06eaf92_0
@@ -139,7 +139,7 @@ requirements:
     - nspr =4.40 =h3ad9384_0
     - nss =3.118 =h544fa81_0
     - openldap =2.6.10 =h30c48ee_0
-    - openssl =3.6.3 =h546c87b_1
+    - openssl =3.6.4 =he6ad1d5_0
     - packaging =23.2 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pcre2 =10.46 =h15761aa_0
