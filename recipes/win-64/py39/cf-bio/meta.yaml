@@ -34,7 +34,7 @@ requirements:
     - pyqt =5.15.11 =py39he15501f_1
     - rdkit =2025.03.5 =py39hfb65f61_0
     - scipy =1.13.1 =py39h1a10956_0
-    - spyder-kernels =3.1.5 =win_pyh7428d3b_0
+    - spyder-kernels =3.1.6 =win_pyh7428d3b_0
 
     # 192 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
@@ -133,7 +133,7 @@ requirements:
     - libsodium =1.0.20 =hc70643c_0
     - libsqlite =3.53.4 =hf5d6505_1
     - libssh2 =1.11.1 =h734d217_1
-    - libtiff =4.7.2 =h8f73337_0
+    - libtiff =4.7.2 =h8f73337_1
     - libvorbis =1.3.7 =h5112557_2
     - libwebp-base =1.6.0 =h4d5522a_1
     - libwinpthread =12.0.0.r4.gg4f2fc60ca =h57928b3_10
@@ -142,7 +142,7 @@ requirements:
     - libxslt =1.1.43 =h25c3957_0
     - libzip =1.11.2 =h3135430_0
     - libzlib =1.3.2 =hfd05255_3
-    - llvm-openmp =22.1.8 =h4fa8253_1
+    - llvm-openmp =23.1.0 =h49e36cd_0
     - lz4-c =1.10.0 =h6a83c73_2
     - matplotlib-base =3.9.4 =py39h5376392_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1

@@ -162,12 +162,12 @@ requirements:
     - libclang13 =22.1.8 =default_ha2db4b5_2
     - libdeflate =1.25 =h1a1d4e4_1
     - libexpat =2.8.1 =hac47afa_1
-    - libffi =3.7.0 =h3d046cb_0
+    - libffi =3.7.0 =h3d046cb_1
     - libfreetype =2.14.3 =h57928b3_2
     - libfreetype6 =2.14.3 =hdbac1cb_2
     - libgd =2.3.3 =h4974f7c_12
     - libglib =2.88.3 =he810d59_1
-    - libharfbuzz =14.3.1 =h03b5201_0
+    - libharfbuzz =14.4.0 =h03b5201_0
     - libhwloc =2.11.2 =default_hc8275d1_1000
     - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_3
@@ -182,7 +182,7 @@ requirements:
     - libprotobuf =4.25.3 =h47a098d_1
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.53.4 =hf5d6505_1
-    - libtiff =4.7.2 =h8f73337_0
+    - libtiff =4.7.2 =h8f73337_1
     - libvorbis =1.3.7 =h5112557_2
     - libwebp-base =1.6.0 =h4d5522a_1
     - libxcb =1.16 =h013a479_1
@@ -190,7 +190,7 @@ requirements:
     - libxml2 =2.13.9 =h741aa76_0
     - libxslt =1.1.43 =h25c3957_0
     - libzlib =1.3.2 =hfd05255_3
-    - llvm-openmp =22.1.8 =h4fa8253_1
+    - llvm-openmp =23.1.0 =h49e36cd_0
     - llvmlite =0.41.1 =py38h19421c1_0
     - lxml =5.3.0 =py38h04ef5ed_0
     - m2w64-gcc-libgfortran =5.3.0 =6
