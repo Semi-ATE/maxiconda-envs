@@ -32,7 +32,7 @@ requirements:
     - pyqt =5.15.11 =py310hc3ce690_2
     - pyqtwebengine =5.15.11 =py310h2dd9a34_2
     - scipy =1.15.2 =py310h32ab4ed_0
-    - spyder =6.1.6 =hd8ed1ab_0
+    - spyder =6.1.7 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
     # 306 secondary packages :
@@ -103,10 +103,10 @@ requirements:
     - freetype =2.14.3 =hce30654_2
     - fribidi =1.0.16 =h84a0fba_1
     - frozenlist =1.8.0 =py310hb0559e5_0
-    - fzf =0.74.3 =h75b854d_0
+    - fzf =0.74.3 =ha5a11a4_1
     - giflib =6.1.3 =h1a92334_1
-    - glib =2.88.3 =h143ffc5_1
-    - glib-tools =2.88.3 =hd03a632_1
+    - glib =2.88.3 =h780921a_2
+    - glib-tools =2.88.3 =h026c20a_2
     - gmp =6.3.0 =hf5e55b1_3
     - gmpy2 =2.3.1 =py310h6069902_0
     - graphite2 =1.3.15 =h784d473_1
@@ -160,7 +160,7 @@ requirements:
     - libgcc =16.2.0 =h3cf6597_4
     - libgfortran =16.2.0 =h07b0088_4
     - libgfortran5 =16.2.0 =hdb7a957_4
-    - libglib =2.88.3 =ha531971_1
+    - libglib =2.88.3 =h89cd0c0_2
     - libharfbuzz =14.4.0 =hcda0f7c_0
     - libiconv =1.18 =he4c29f2_3
     - libintl =0.25.1 =h493aca8_0
@@ -183,7 +183,7 @@ requirements:
     - libvorbis =1.3.7 =h81086ad_2
     - libwebp =1.6.0 =he6839e2_1
     - libwebp-base =1.6.0 =h202fb40_1
-    - libxcb =1.17.0 =hbffa61f_1
+    - libxcb =1.17.0 =hbffa61f_2
     - libxml2 =2.15.3 =h5654f7c_1
     - libxml2-16 =2.15.3 =h5ef1a60_1
     - libzlib =1.3.2 =h8088a28_3
@@ -228,7 +228,7 @@ requirements:
     - pillow =12.3.0 =py310hc037f36_0
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h784d473_3
-    - platformdirs =4.11.4 =pyhcf101f3_0
+    - platformdirs =4.11.5 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
@@ -292,7 +292,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py310hf3301a5_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.16.4 =h20cfa0c_0
+    - ruff =0.16.5 =h4e39fff_0
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.16.0 =py310h8616463_0
     - six =1.17.0 =pyhe01879c_1
@@ -306,7 +306,7 @@ requirements:
     - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =2.0.0 =pyhd8ed1ab_0
-    - spyder-base =6.1.6 =osx_pyh534df25_0
+    - spyder-base =6.1.7 =osx_pyh534df25_0
     - spyder-kernels =3.1.6 =unix_pyh707e725_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.8.2 =pyh9208f05_0

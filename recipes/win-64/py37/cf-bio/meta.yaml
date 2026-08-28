@@ -65,11 +65,11 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.38.0 =py37h51bd9d9_0
     - freetype =2.14.3 =h57928b3_2
-    - gettext =0.22.5 =h5728263_3
-    - gettext-tools =0.22.5 =h5a7288d_3
+    - gettext =0.22.5 =h5728263_4
+    - gettext-tools =0.22.5 =h528050c_4
     - glew =2.1.0 =h39d44d4_2
-    - glib =2.88.3 =h89924da_1
-    - glib-tools =2.88.3 =hf027272_1
+    - glib =2.88.3 =h2e94c43_2
+    - glib-tools =2.88.3 =hc97a88e_2
     - glm =1.0.1 =hb611fcd_0
     - greenlet =1.1.3 =py37hf2a7229_0
     - griddataformats =0.7.0 =pyhd8ed1ab_0
@@ -92,8 +92,8 @@ requirements:
     - lcms2 =2.14 =h90d422f_0
     - lerc =4.2.0 =hd936e49_0
     - libaec =1.1.5 =haf901d7_0
-    - libasprintf =0.22.5 =h5728263_3
-    - libasprintf-devel =0.22.5 =h5728263_3
+    - libasprintf =0.22.5 =h5728263_4
+    - libasprintf-devel =0.22.5 =h5728263_4
     - libblas =3.9.0 =35_h5709861_mkl
     - libbrotlicommon =1.2.0 =hf02afa3_3
     - libbrotlidec =1.2.0 =h84f9c24_3
@@ -107,13 +107,13 @@ requirements:
     - libffi =3.7.0 =h3d046cb_1
     - libfreetype =2.14.3 =h57928b3_2
     - libfreetype6 =2.14.3 =hdbac1cb_2
-    - libgettextpo =0.22.5 =h5728263_3
-    - libgettextpo-devel =0.22.5 =h5728263_3
-    - libglib =2.88.3 =he810d59_1
+    - libgettextpo =0.22.5 =h5728263_4
+    - libgettextpo-devel =0.22.5 =h5728263_4
+    - libglib =2.88.3 =he810d59_2
     - libhwloc =2.11.2 =default_hc8275d1_1000
     - libiconv =1.18 =hc1393d2_3
-    - libintl =0.22.5 =h5728263_3
-    - libintl-devel =0.22.5 =h5728263_3
+    - libintl =0.22.5 =h5728263_4
+    - libintl-devel =0.22.5 =h5728263_4
     - liblapack =3.9.0 =35_hf9ab0e9_mkl
     - liblzma =5.8.3 =hfd05255_1
     - liblzma-devel =5.8.3 =hfd05255_1

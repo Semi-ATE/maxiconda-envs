@@ -145,8 +145,8 @@ requirements:
     - gfortran_impl_osx-arm64 =16.2.0 =h9997696_4
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.60 =pyhcf101f3_0
-    - glib =2.88.3 =h143ffc5_1
-    - glib-tools =2.88.3 =hd03a632_1
+    - glib =2.88.3 =h780921a_2
+    - glib-tools =2.88.3 =h026c20a_2
     - gmp =6.3.0 =hf5e55b1_3
     - gmpy2 =2.3.1 =py311h10c933f_0
     - graphite2 =1.3.15 =h784d473_1
@@ -179,7 +179,7 @@ requirements:
     - jupyter_client =8.9.1 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyhc90fa1f_0
     - jupyter_events =0.12.1 =pyhcf101f3_0
-    - jupyter_server =2.20.0 =pyhcf101f3_0
+    - jupyter_server =2.21.0 =pyhcf101f3_0
     - jupyter_server_terminals =0.5.4 =pyhcf101f3_0
     - jupyterlab =4.6.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
@@ -217,7 +217,7 @@ requirements:
     - libgettextpo =0.25.1 =h493aca8_0
     - libgfortran =16.2.0 =h07b0088_4
     - libgfortran5 =16.2.0 =hdb7a957_4
-    - libglib =2.88.3 =ha531971_1
+    - libglib =2.88.3 =h89cd0c0_2
     - libharfbuzz =14.4.0 =hcda0f7c_0
     - libharfbuzz-devel =14.4.0 =hcda0f7c_0
     - libiconv =1.18 =he4c29f2_3
@@ -245,7 +245,7 @@ requirements:
     - libuv =1.52.1 =h1a92334_1
     - libvorbis =1.3.7 =h81086ad_2
     - libwebp-base =1.6.0 =h202fb40_1
-    - libxcb =1.17.0 =hbffa61f_1
+    - libxcb =1.17.0 =hbffa61f_2
     - libxml2 =2.15.3 =h5654f7c_1
     - libxml2-16 =2.15.3 =h5ef1a60_1
     - libzlib =1.3.2 =h8088a28_3
@@ -287,7 +287,7 @@ requirements:
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h784d473_3
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
-    - platformdirs =4.11.4 =pyhcf101f3_0
+    - platformdirs =4.11.5 =pyhcf101f3_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
@@ -427,7 +427,7 @@ requirements:
     - r-pkgconfig =2.0.3 =r45hc72bb7e_5
     - r-plyr =1.8.9 =r45hc1cd577_3
     - r-prettyunits =1.2.0 =r45hc72bb7e_2
-    - r-proc =1.19.0.1 =r45hc1cd577_1
+    - r-proc =1.19.1 =r45hc1ec562_0
     - r-processx =3.9.0 =r45hbe92478_0
     - r-prodlim =2026.03.11 =r45h1380947_0
     - r-progress =1.2.3 =r45hc72bb7e_2
@@ -555,7 +555,7 @@ requirements:
     - zeromq =4.3.5 =h10816f8_11
     - zipp =4.1.0 =pyhcf101f3_0
     - zlib-ng =2.3.3 =h31dac16_1
-    - zstandard =0.25.0 =py311hd322c8c_2
+    - zstandard =0.25.0 =py311hd322c8c_3
     - zstd =1.5.7 =hf451053_7
 
 about:

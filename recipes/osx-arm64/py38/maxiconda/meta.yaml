@@ -141,8 +141,8 @@ requirements:
     - frozenlist =1.4.1 =py38h336bac9_0
     - gcc_impl_osx-arm64 =16.2.0 =hff32234_4
     - gfortran_impl_osx-arm64 =16.2.0 =h9997696_4
-    - glib =2.88.3 =h143ffc5_1
-    - glib-tools =2.88.3 =hd03a632_1
+    - glib =2.88.3 =h780921a_2
+    - glib-tools =2.88.3 =h026c20a_2
     - gmp =6.3.0 =hf5e55b1_3
     - gmpy2 =2.1.5 =py38he1ac458_1
     - graphite2 =1.3.15 =h784d473_1
@@ -213,7 +213,7 @@ requirements:
     - libgettextpo =0.25.1 =h493aca8_0
     - libgfortran =16.2.0 =h07b0088_4
     - libgfortran5 =16.2.0 =hdb7a957_4
-    - libglib =2.88.3 =ha531971_1
+    - libglib =2.88.3 =h89cd0c0_2
     - libharfbuzz =14.4.0 =hcda0f7c_0
     - libharfbuzz-devel =14.4.0 =hcda0f7c_0
     - libiconv =1.18 =he4c29f2_3
@@ -242,7 +242,7 @@ requirements:
     - libuv =1.52.1 =h1a92334_1
     - libvorbis =1.3.7 =h81086ad_2
     - libwebp-base =1.6.0 =h202fb40_1
-    - libxcb =1.17.0 =hbffa61f_1
+    - libxcb =1.17.0 =hbffa61f_2
     - libxml2 =2.15.3 =h5654f7c_1
     - libxml2-16 =2.15.3 =h5ef1a60_1
     - libzlib =1.3.2 =h8088a28_3
@@ -423,7 +423,7 @@ requirements:
     - r-pkgconfig =2.0.3 =r45hc72bb7e_5
     - r-plyr =1.8.9 =r45hc1cd577_3
     - r-prettyunits =1.2.0 =r45hc72bb7e_2
-    - r-proc =1.19.0.1 =r45hc1cd577_1
+    - r-proc =1.19.1 =r45hc1ec562_0
     - r-processx =3.9.0 =r45hbe92478_0
     - r-prodlim =2026.03.11 =r45h1380947_0
     - r-progress =1.2.3 =r45hc72bb7e_2
