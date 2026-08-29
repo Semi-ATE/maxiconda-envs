@@ -32,7 +32,7 @@ requirements:
     - cython =3.3.0 =py312hd245ac3_0
     - grayskull =3.1.1 =pyhc364b38_0
     - hypothesis =6.165.10 =py312hdabe01f_0
-    - ipython =9.16.1 =pyhe2676ad_0
+    - ipython =9.17.0 =pyhe2676ad_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py312h8e0e4fc_2
     - numba =0.67.0 =py312ha1a9051_1
@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =3.0.5 =py312h95189c4_1
     - psutil =7.2.2 =py312he5662c2_1
-    - pydantic =2.13.4 =pyhcf101f3_0
+    - pydantic =2.13.5 =pyhcf101f3_0
     - pyqt =5.15.11 =py312h7eb3e20_2
     - pyserial =3.5 =pyhcf101f3_2
     - pytest =9.1.1 =pyhc364b38_2
@@ -93,7 +93,7 @@ requirements:
     - ca-certificates =2026.7.22 =h4c7d964_0
     - cached-property =2.0.1 =pyhcf101f3_0
     - cached_property =2.0.1 =pyhcf101f3_0
-    - cairo =1.18.4 =h477c42c_1
+    - cairo =1.18.4 =h477c42c_2
     - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.1 =py312he06e257_2
     - charset-normalizer =3.5.1 =pyhd8ed1ab_0
@@ -143,7 +143,7 @@ requirements:
     - gcc_impl_win-64 =16.2.0 =h6b76af2_4
     - gfortran_impl_win-64 =16.2.0 =h408695e_4
     - gitdb =4.0.12 =pyhd8ed1ab_0
-    - gitpython =3.1.60 =pyhcf101f3_0
+    - gitpython =3.1.61 =pyhcf101f3_0
     - glib =2.88.3 =h2e94c43_2
     - glib-tools =2.88.3 =hc97a88e_2
     - graphite2 =1.3.15 =h5112557_1
@@ -161,7 +161,7 @@ requirements:
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =78.3 =h5112557_2
     - idna =3.19 =pyhcf101f3_0
-    - importlib-metadata =9.0.0 =pyhcf101f3_0
+    - importlib-metadata =9.0.1 =pyhcf101f3_0
     - iniconfig =2.3.0 =pyhd8ed1ab_0
     - ipykernel =6.31.0 =pyh6dadd2b_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
@@ -174,7 +174,7 @@ requirements:
     - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_1
     - jupyter-builder =1.2.2 =pyhcf101f3_0
     - jupyter-lsp =2.3.1 =pyhcf101f3_0
-    - jupyter_client =8.9.1 =pyhcf101f3_0
+    - jupyter_client =8.10.0 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyh6dadd2b_0
     - jupyter_events =0.12.1 =pyhcf101f3_0
     - jupyter_server =2.21.0 =pyhcf101f3_0
@@ -182,7 +182,7 @@ requirements:
     - jupyterlab =4.6.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.0 =pyhcf101f3_0
-    - kiwisolver =1.5.0 =py312h78d62e6_0
+    - kiwisolver =1.5.1 =py312h78d62e6_0
     - krb5 =1.22.2 =h719d79b_2
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.19.1 =hf2c6c5f_1
@@ -291,18 +291,18 @@ requirements:
     - propcache =0.5.2 =py312h05f76fc_0
     - pthread-stubs =0.4 =hba3369d_1003
     - pure_eval =0.2.3 =pyhd8ed1ab_1
-    - py-rattler =0.25.0 =py310hb39080a_2
+    - py-rattler =0.25.0 =py310hb39080a_3
     - pybind11-abi =11 =hc364b38_1
     - pycosat =0.6.6 =py312he06e257_4
     - pycparser =3.0 =pyhcf101f3_0
-    - pydantic-core =2.46.4 =py312hdabe01f_0
+    - pydantic-core =2.46.5 =py312hdabe01f_1
     - pygments =2.21.0 =pyhcf101f3_0
     - pyparsing =3.3.2 =pyhcf101f3_0
     - pyproject_hooks =1.2.0 =pyhd8ed1ab_1
     - pyqt5-sip =12.17.0 =py312hbb81ca0_2
     - pyside6 =6.11.2 =py312ha7d0d2e_0
     - pysocks =1.7.1 =pyh09c184e_7
-    - python-build =1.5.0 =pyhc364b38_0
+    - python-build =1.6.0 =pyhc364b38_0
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
     - python-gil =3.12.14 =hd8ed1ab_0

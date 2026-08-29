@@ -64,7 +64,7 @@ requirements:
     - brotli-python =1.2.0 =py310h967a849_3
     - bzip2 =1.0.8 =h0ad9c76_10
     - ca-certificates =2026.7.22 =h4c7d964_0
-    - cairo =1.18.4 =h477c42c_1
+    - cairo =1.18.4 =h477c42c_2
     - cattrs =26.1.0 =pyhcf101f3_1
     - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.1 =py310h29418f3_2
@@ -113,7 +113,7 @@ requirements:
     - icu =78.3 =h5112557_2
     - idna =3.19 =pyhcf101f3_0
     - imagesize =2.0.1 =pyhd8ed1ab_0
-    - importlib-metadata =9.0.0 =pyhcf101f3_0
+    - importlib-metadata =9.0.1 =pyhcf101f3_0
     - importlib_resources =7.1.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyhd8ed1ab_1
     - intervaltree =3.1.0 =pyhd8ed1ab_1
@@ -129,11 +129,11 @@ requirements:
     - jinja2 =3.1.6 =pyhcf101f3_1
     - jsonschema =4.26.0 =pyhcf101f3_1
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
-    - jupyter_client =8.9.1 =pyhcf101f3_0
+    - jupyter_client =8.10.0 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyh6dadd2b_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - keyring =25.7.0 =pyh7428d3b_0
-    - kiwisolver =1.5.0 =py310h1e1005b_0
+    - kiwisolver =1.5.1 =py310h1e1005b_0
     - krb5 =1.22.2 =h719d79b_2
     - lcms2 =2.19.1 =hf2c6c5f_1
     - lerc =4.2.0 =hd936e49_0
@@ -318,7 +318,7 @@ requirements:
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =pyh7428d3b_8
-    - wrapt =2.3.0 =py310h29418f3_0
+    - wrapt =2.3.0 =py310h29418f3_1
     - xorg-libxau =1.0.12 =hba3369d_2
     - xorg-libxdmcp =1.1.5 =hba3369d_2
     - yaml =0.2.5 =h6a83c73_3
