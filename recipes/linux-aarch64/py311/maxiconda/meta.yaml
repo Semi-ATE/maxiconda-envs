@@ -108,7 +108,7 @@ requirements:
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h04741b4_4
     - cpython =3.11.16 =py311hd8ed1ab_0
-    - cryptography =50.0.0 =py311h53955a0_0
+    - cryptography =50.0.0 =py311h9aad538_0
     - curl =8.21.0 =h86273da_5
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h6598af7_1
@@ -193,9 +193,9 @@ requirements:
     - libbrotlienc =1.2.0 =hb247b97_3
     - libcap =2.78 =hfcc8634_1
     - libcblas =3.11.0 =9_hd72aa62_openblas
-    - libclang-cpp22.1 =22.1.8 =default_h01b09c7_9
-    - libclang-cpp23.1 =23.1.0 =default_h01b09c7_0
-    - libclang13 =23.1.0 =default_h8a521cf_0
+    - libclang-cpp22.1 =22.1.8 =default_h01b09c7_10
+    - libclang-cpp23.1 =23.1.0 =default_h01b09c7_1
+    - libclang13 =23.1.0 =default_h2e1c083_1
     - libcups =2.3.3 =h4f2b762_6
     - libcurl =8.21.0 =h86273da_5
     - libdeflate =1.25 =hfa851ae_1
@@ -234,7 +234,7 @@ requirements:
     - libnsl =2.0.1 =h86ecc28_1
     - libntlm =1.4 =hf897c2e_1002
     - libogg =1.3.5 =h86ecc28_1
-    - libopenblas =0.3.34 =pthreads_h9d3fd7e_0
+    - libopenblas =0.3.34 =pthreads_hdd72021_1
     - libopengl =1.7.0 =hd24410f_5
     - libopus =1.6.1 =h29ee22c_1
     - libpciaccess =0.19 =he30d5cf_1
@@ -264,7 +264,7 @@ requirements:
     - libxml2-16 =2.15.3 =h79dcc73_1
     - libxslt =1.1.43 =h6700d25_1
     - libzlib =1.3.2 =hdc9db2a_3
-    - llvmlite =0.49.0 =py311h895923a_1
+    - llvmlite =0.49.0 =py311h895923a_2
     - make =4.4.1 =he30d5cf_3
     - markupsafe =3.0.3 =py311h2dad8b0_1
     - matplotlib-base =3.11.1 =py311h0ee92aa_2

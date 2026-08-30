@@ -65,7 +65,7 @@ requirements:
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
     # 490 secondary packages :
-    - _openmp_mutex =4.5 =7_kmp_llvm
+    - _openmp_mutex =4.5 =8_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
     - aiosignal =1.3.1 =pyhd8ed1ab_0
@@ -100,12 +100,12 @@ requirements:
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hc8bcfa4_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
-    - clang =23.1.0 =default_cfg_h4a8eca5_0
-    - clang-23 =23.1.0 =default_h4b7e6e3_0
-    - clang-scan-deps =23.1.0 =default_h6e863b9_0
-    - clang_impl_osx-64 =23.1.0 =default_h6e863b9_0
+    - clang =23.1.0 =default_cfg_h3f426ad_1
+    - clang-23 =23.1.0 =default_h74d5376_1
+    - clang-scan-deps =23.1.0 =default_h6e863b9_1
+    - clang_impl_osx-64 =23.1.0 =default_h6e863b9_1
     - clang_osx-64 =23.1.0 =h4c94ee8_34
-    - clangxx_impl_osx-64 =23.1.0 =default_ha08d215_0
+    - clangxx_impl_osx-64 =23.1.0 =default_ha4cf869_1
     - clangxx_osx-64 =23.1.0 =h4c94ee8_34
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.1.0 =pyhd8ed1ab_1
@@ -195,8 +195,8 @@ requirements:
     - libbrotlienc =1.2.0 =h3d41943_3
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
-    - libclang-cpp23.1 =23.1.0 =default_h6e863b9_0
-    - libclang13 =23.1.0 =default_h4b7e6e3_0
+    - libclang-cpp23.1 =23.1.0 =default_h6e863b9_1
+    - libclang13 =23.1.0 =default_h74d5376_1
     - libcompiler-rt =23.1.0 =h8c1e6b9_0
     - libcurl =8.21.0 =h5318221_5
     - libcxx =23.1.0 =h19cb2f5_0

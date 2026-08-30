@@ -64,7 +64,7 @@ requirements:
     - xmltodict =1.0.4 =pyhcf101f3_0
 
     # 493 secondary packages :
-    - _openmp_mutex =4.5 =7_kmp_llvm
+    - _openmp_mutex =4.5 =8_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -97,12 +97,12 @@ requirements:
     - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.1 =py311h2e98d63_2
     - charset-normalizer =3.5.1 =pyhd8ed1ab_0
-    - clang =23.1.0 =default_cfg_h70c3855_0
-    - clang-23 =23.1.0 =default_h42eb49c_0
-    - clang-scan-deps =23.1.0 =default_h79071a4_0
-    - clang_impl_osx-arm64 =23.1.0 =default_h79071a4_0
+    - clang =23.1.0 =default_cfg_hdcedaa4_1
+    - clang-23 =23.1.0 =default_h8d85846_1
+    - clang-scan-deps =23.1.0 =default_h79071a4_1
+    - clang_impl_osx-arm64 =23.1.0 =default_h79071a4_1
     - clang_osx-arm64 =23.1.0 =hafa0770_34
-    - clangxx_impl_osx-arm64 =23.1.0 =default_h563b00b_0
+    - clangxx_impl_osx-arm64 =23.1.0 =default_h54c3132_1
     - clangxx_osx-arm64 =23.1.0 =hafa0770_34
     - click =8.2.1 =pyh707e725_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
@@ -119,7 +119,7 @@ requirements:
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h7d85929_4
     - cpython =3.11.16 =py311hd8ed1ab_0
-    - cryptography =50.0.0 =py311hbb43c59_0
+    - cryptography =50.0.0 =py311h37ee2f5_0
     - curl =8.21.0 =h6651222_5
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hb961e35_1
@@ -198,8 +198,8 @@ requirements:
     - libbrotlienc =1.2.0 =h2ddc9cb_3
     - libcblas =3.11.0 =9_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
-    - libclang-cpp23.1 =23.1.0 =default_h79071a4_0
-    - libclang13 =23.1.0 =default_h42eb49c_0
+    - libclang-cpp23.1 =23.1.0 =default_h79071a4_1
+    - libclang13 =23.1.0 =default_h8d85846_1
     - libcompiler-rt =23.1.0 =hdb3d66b_0
     - libcurl =8.21.0 =h6651222_5
     - libcxx =23.1.0 =h55c6f16_0
@@ -231,7 +231,7 @@ requirements:
     - libnghttp2 =1.68.1 =h435687b_1
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
-    - libopenblas =0.3.34 =openmp_he657e61_0
+    - libopenblas =0.3.34 =openmp_h4f80526_1
     - libopus =1.6.1 =h74c22ad_1
     - libpng =1.6.58 =hf5e6511_1
     - libpq =18.6 =h08b03b9_0
@@ -252,7 +252,7 @@ requirements:
     - llvm-openmp =23.1.0 =hdb3d66b_0
     - llvm-tools =23.1.0 =hdb3d66b_0
     - llvm-tools-23 =23.1.0 =h79441dc_0
-    - llvmlite =0.49.0 =py311h4a78e08_1
+    - llvmlite =0.49.0 =py311h4a78e08_2
     - make =4.4.1 =h84a0fba_3
     - markupsafe =3.0.3 =py311hc290fe0_1
     - matplotlib-base =3.11.1 =py311h3c3ad35_2

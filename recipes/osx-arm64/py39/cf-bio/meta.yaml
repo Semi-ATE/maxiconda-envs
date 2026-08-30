@@ -37,7 +37,7 @@ requirements:
     - spyder-kernels =3.1.6 =unix_pyh707e725_0
 
     # 197 secondary packages :
-    - _openmp_mutex =4.5 =7_kmp_llvm
+    - _openmp_mutex =4.5 =8_kmp_llvm
     - appnope =0.1.4 =pyhd8ed1ab_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - blosc =1.21.6 =h7dd00d9_1
@@ -134,7 +134,7 @@ requirements:
     - libnghttp2 =1.68.1 =h435687b_1
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
-    - libopenblas =0.3.34 =openmp_he657e61_0
+    - libopenblas =0.3.34 =openmp_h4f80526_1
     - libopus =1.6.1 =h74c22ad_1
     - libpng =1.6.58 =hf5e6511_1
     - libpq =17.7 =h944245b_1

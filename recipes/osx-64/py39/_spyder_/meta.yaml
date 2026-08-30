@@ -36,7 +36,7 @@ requirements:
     - sympy =1.14.0 =pyh2585a3b_105
 
     # 302 secondary packages :
-    - _openmp_mutex =4.5 =7_kmp_llvm
+    - _openmp_mutex =4.5 =8_kmp_llvm
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.12.15 =py39h2753485_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -147,8 +147,8 @@ requirements:
     - libbrotlienc =1.2.0 =h3d41943_3
     - libcblas =3.11.0 =9_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
-    - libclang-cpp23.1 =23.1.0 =default_h6e863b9_0
-    - libclang13 =23.1.0 =default_h4b7e6e3_0
+    - libclang-cpp23.1 =23.1.0 =default_h6e863b9_1
+    - libclang13 =23.1.0 =default_h74d5376_1
     - libcxx =23.1.0 =h19cb2f5_0
     - libdeflate =1.25 =h7ad9622_1
     - libedit =3.1.20250104 =pl5321hba2e2ab_1
