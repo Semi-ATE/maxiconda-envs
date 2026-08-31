@@ -177,12 +177,12 @@ requirements:
     - lcms2 =2.19.1 =h9d5b58d_1
     - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_102
     - lerc =4.2.0 =h52b7260_0
-    - libblas =3.11.0 =9_haddc8a3_openblas
+    - libblas =3.11.0 =10_haddc8a3_openblas
     - libbrotlicommon =1.1.0 =h86ecc28_3
     - libbrotlidec =1.1.0 =h86ecc28_3
     - libbrotlienc =1.1.0 =h86ecc28_3
     - libcap =2.78 =hfcc8634_1
-    - libcblas =3.11.0 =9_hd72aa62_openblas
+    - libcblas =3.11.0 =10_hd72aa62_openblas
     - libclang-cpp20.1 =20.1.8 =default_he95a3c9_16
     - libclang13 =21.1.0 =default_h94a09a5_1
     - libcups =2.3.3 =h5cdc715_5
@@ -211,7 +211,7 @@ requirements:
     - libgomp =16.2.0 =h8acb6b2_4
     - libiconv =1.18 =h1ea5142_3
     - libjpeg-turbo =3.2.0 =he30d5cf_1
-    - liblapack =3.11.0 =9_h88aeb00_openblas
+    - liblapack =3.11.0 =10_h88aeb00_openblas
     - libllvm14 =14.0.6 =h966f666_4
     - libllvm20 =20.1.8 =h2b567e5_0
     - libllvm21 =21.1.0 =h2b567e5_0

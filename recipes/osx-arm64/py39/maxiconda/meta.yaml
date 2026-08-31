@@ -185,11 +185,11 @@ requirements:
     - ld64_osx-arm64 =956.6 =llvm23_1_hc8058f9_6
     - lerc =4.2.0 =h1eee2c3_0
     - libasprintf =0.25.1 =h493aca8_0
-    - libblas =3.11.0 =9_h51639a9_openblas
+    - libblas =3.11.0 =10_h51639a9_openblas
     - libbrotlicommon =1.2.0 =h1dcdb26_3
     - libbrotlidec =1.2.0 =h5295a6a_3
     - libbrotlienc =1.2.0 =h2ddc9cb_3
-    - libcblas =3.11.0 =9_hb0561ab_openblas
+    - libcblas =3.11.0 =10_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp23.1 =23.1.0 =default_h79071a4_1
     - libclang13 =23.1.0 =default_h8d85846_1
@@ -217,7 +217,7 @@ requirements:
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
     - libjpeg-turbo =3.2.0 =h84a0fba_1
-    - liblapack =3.11.0 =9_hd9741b5_openblas
+    - liblapack =3.11.0 =10_hd9741b5_openblas
     - libllvm14 =14.0.6 =hd1a9a77_4
     - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm23 =23.1.0 =h759d1ac_0

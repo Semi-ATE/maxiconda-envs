@@ -31,12 +31,12 @@ requirements:
     - bitarray =3.10.1 =py312h2fc9c67_0
     - cython =3.3.0 =py312ha0e5879_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.165.10 =py312h0efae70_0
+    - hypothesis =6.167.0 =py312h0efae70_0
     - ipython =9.17.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py312h2f630db_2
     - numba =0.67.0 =py312ha0853ce_1
-    - numpy =2.5.2 =py312hce9e0af_0
+    - numpy =2.5.2 =py312hfb93532_1
     - openpyxl =3.1.5 =py312h6c49482_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =3.0.5 =py312hf55c4e8_1
@@ -75,7 +75,7 @@ requirements:
     - anyio =4.14.2 =pyhcf101f3_0
     - archspec =0.2.5 =pyhd8ed1ab_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
-    - argon2-cffi-bindings =26.1.0 =py312h3c7833f_0
+    - argon2-cffi-bindings =26.1.0 =py312h3c7833f_1
     - arrow =1.4.0 =pyhcf101f3_0
     - asttokens =3.0.2 =pyhd8ed1ab_0
     - async-lru =2.3.0 =pyhcf101f3_0
@@ -201,12 +201,12 @@ requirements:
     - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_102
     - lerc =4.2.0 =h52b7260_0
     - libarchive =3.8.9 =gpl_h1204ebd_101
-    - libblas =3.11.0 =9_haddc8a3_openblas
+    - libblas =3.11.0 =10_haddc8a3_openblas
     - libbrotlicommon =1.2.0 =h384ecca_3
     - libbrotlidec =1.2.0 =h011f0d3_3
     - libbrotlienc =1.2.0 =hb247b97_3
     - libcap =2.78 =hfcc8634_1
-    - libcblas =3.11.0 =9_hd72aa62_openblas
+    - libcblas =3.11.0 =10_hd72aa62_openblas
     - libclang-cpp22.1 =22.1.8 =default_h01b09c7_10
     - libclang-cpp23.1 =23.1.0 =default_h01b09c7_1
     - libclang13 =23.1.0 =default_h2e1c083_1
@@ -240,7 +240,7 @@ requirements:
     - libharfbuzz-devel =14.4.0 =h8f7ccb3_0
     - libiconv =1.18 =h1ea5142_3
     - libjpeg-turbo =3.2.0 =he30d5cf_1
-    - liblapack =3.11.0 =9_h88aeb00_openblas
+    - liblapack =3.11.0 =10_h88aeb00_openblas
     - libllvm22 =22.1.8 =h680871c_2
     - libllvm23 =23.1.0 =h680871c_0
     - liblzma =5.8.3 =he30d5cf_1

@@ -141,11 +141,11 @@ requirements:
     - krb5 =1.21.3 =h37d8d59_0
     - lcms2 =2.19.1 =h5ea7634_1
     - lerc =4.2.0 =h35c7297_0
-    - libblas =3.11.0 =9_he492b99_openblas
+    - libblas =3.11.0 =10_he492b99_openblas
     - libbrotlicommon =1.2.0 =he0616a4_3
     - libbrotlidec =1.2.0 =h4a2f56c_3
     - libbrotlienc =1.2.0 =h3d41943_3
-    - libcblas =3.11.0 =9_h9b27e0a_openblas
+    - libcblas =3.11.0 =10_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
     - libclang-cpp23.1 =23.1.0 =default_h6e863b9_1
     - libclang13 =23.1.0 =default_h74d5376_1
@@ -165,13 +165,13 @@ requirements:
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.2.0 =ha1e9b39_1
-    - liblapack =3.11.0 =9_h859234e_openblas
+    - liblapack =3.11.0 =10_h859234e_openblas
     - libllvm18 =18.1.8 =default_h9399c5b_12
     - libllvm23 =23.1.0 =hd11396f_0
     - liblzma =5.8.3 =hbb4bfdb_1
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =he3325bb_1
-    - libopenblas =0.3.34 =openmp_h9e49c7b_0
+    - libopenblas =0.3.34 =openmp_h9e49c7b_1
     - libopus =1.6.1 =had63097_1
     - libpng =1.6.58 =h4382c61_1
     - libpq =18.2 =hb73b81d_0

@@ -200,12 +200,12 @@ requirements:
     - libarrow-acero =20.0.0 =h7d8d6a5_34_cpu
     - libarrow-dataset =20.0.0 =h7d8d6a5_34_cpu
     - libarrow-substrait =20.0.0 =hf865cc0_34_cpu
-    - libblas =3.11.0 =9_h0adab6e_openblas
+    - libblas =3.11.0 =10_h0adab6e_openblas
     - libboost =1.88.0 =h9dfe17d_7
     - libbrotlicommon =1.2.0 =hf02afa3_3
     - libbrotlidec =1.2.0 =h84f9c24_3
     - libbrotlienc =1.2.0 =he2a975b_3
-    - libcblas =3.11.0 =9_h2a8eebe_openblas
+    - libcblas =3.11.0 =10_h2a8eebe_openblas
     - libclang13 =22.1.8 =default_ha2db4b5_2
     - libcrc32c =1.1.2 =h0e60522_0
     - libcurl =8.18.0 =h43ecb02_0
@@ -227,11 +227,11 @@ requirements:
     - libintl =0.22.5 =h5728263_4
     - libintl-devel =0.22.5 =h5728263_4
     - libjpeg-turbo =3.2.0 =hfd05255_1
-    - liblapack =3.11.0 =9_hd232482_openblas
+    - liblapack =3.11.0 =10_hd232482_openblas
     - liblightgbm =4.6.0 =cpu_h5d2ca61_3
     - liblzma =5.8.3 =hfd05255_1
     - libogg =1.3.5 =h2466b09_1
-    - libopenblas =0.3.34 =pthreads_h877e47f_0
+    - libopenblas =0.3.34 =pthreads_h877e47f_1
     - libparquet =20.0.0 =h7051d1f_34_cpu
     - libpng =1.6.58 =hdc8cecf_1
     - libprotobuf =6.31.1 =h2ec36af_5

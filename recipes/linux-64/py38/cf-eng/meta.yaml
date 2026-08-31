@@ -76,9 +76,9 @@ requirements:
     - krb5 =1.22.2 =hbc21106_2
     - lame =4.0 =h770b6ad_1
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_102
-    - libblas =3.11.0 =9_h4a7cf45_openblas
+    - libblas =3.11.0 =10_h4a7cf45_openblas
     - libcap =2.78 =h084b8d7_1
-    - libcblas =3.11.0 =9_h0358290_openblas
+    - libcblas =3.11.0 =10_h0358290_openblas
     - libclang-cpp22.1 =22.1.8 =default_h0acdd01_10
     - libclang-cpp23.1 =23.1.0 =default_h0acdd01_1
     - libclang13 =23.1.0 =default_h7855034_1
@@ -105,7 +105,7 @@ requirements:
     - libharfbuzz-devel =14.4.0 =h23af247_0
     - libiconv =1.18 =h0cb94f2_3
     - libjpeg-turbo =3.2.0 =hb03c661_1
-    - liblapack =3.11.0 =9_h47877c9_openblas
+    - liblapack =3.11.0 =10_h47877c9_openblas
     - libllvm22 =22.1.8 =h474f4eb_2
     - libllvm23 =23.1.0 =h474f4eb_0
     - liblzma =5.8.3 =hb03c661_1

@@ -76,7 +76,7 @@ requirements:
     - contourpy =1.3.3 =py311h724c32c_4
     - cookiecutter =2.7.1 =pyhcf101f3_0
     - cpython =3.11.16 =py311hd8ed1ab_0
-    - cryptography =50.0.0 =py311hd6621ae_0
+    - cryptography =50.0.0 =py311hd6621ae_1
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hac629b4_1
     - dbus =1.16.2 =h24cb091_1
@@ -147,12 +147,12 @@ requirements:
     - lcms2 =2.19.1 =h0c24ade_1
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_102
     - lerc =4.2.0 =hdb68285_0
-    - libblas =3.11.0 =9_h4a7cf45_openblas
+    - libblas =3.11.0 =10_h4a7cf45_openblas
     - libbrotlicommon =1.2.0 =h39a168f_3
     - libbrotlidec =1.2.0 =ha411449_3
     - libbrotlienc =1.2.0 =h018ffa1_3
     - libcap =2.78 =h084b8d7_1
-    - libcblas =3.11.0 =9_h0358290_openblas
+    - libcblas =3.11.0 =10_h0358290_openblas
     - libclang-cpp22.1 =22.1.8 =default_h0acdd01_10
     - libclang-cpp23.1 =23.1.0 =default_h0acdd01_1
     - libclang13 =23.1.0 =default_h7855034_1
@@ -183,7 +183,7 @@ requirements:
     - libharfbuzz-devel =14.4.0 =h23af247_0
     - libiconv =1.18 =h0cb94f2_3
     - libjpeg-turbo =3.2.0 =hb03c661_1
-    - liblapack =3.11.0 =9_h47877c9_openblas
+    - liblapack =3.11.0 =10_h47877c9_openblas
     - libllvm22 =22.1.8 =h474f4eb_2
     - libllvm23 =23.1.0 =h474f4eb_0
     - liblzma =5.8.3 =hb03c661_1

@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - cython =3.3.0 =py311h71a39cc_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.165.10 =py311h5821c18_0
+    - hypothesis =6.167.0 =py311h5821c18_0
     - ipython =9.17.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py311ha01d089_2
@@ -72,7 +72,7 @@ requirements:
     - anyio =4.14.2 =pyhcf101f3_0
     - appnope =1.0.0 =pyhcf101f3_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
-    - argon2-cffi-bindings =26.1.0 =py311h9f79745_0
+    - argon2-cffi-bindings =26.1.0 =py311h9f79745_1
     - arrow =1.4.0 =pyhcf101f3_0
     - asttokens =3.0.2 =pyhd8ed1ab_0
     - async-lru =2.3.0 =pyhcf101f3_0
@@ -119,7 +119,7 @@ requirements:
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h7d85929_4
     - cpython =3.11.16 =py311hd8ed1ab_0
-    - cryptography =50.0.0 =py311h37ee2f5_0
+    - cryptography =50.0.0 =py311h37ee2f5_1
     - curl =8.21.0 =h6651222_5
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hb961e35_1
@@ -192,11 +192,11 @@ requirements:
     - ld64_osx-arm64 =956.6 =llvm23_1_hc8058f9_6
     - lerc =4.2.0 =h1eee2c3_0
     - libasprintf =0.25.1 =h493aca8_0
-    - libblas =3.11.0 =9_h51639a9_openblas
+    - libblas =3.11.0 =10_h51639a9_openblas
     - libbrotlicommon =1.2.0 =h1dcdb26_3
     - libbrotlidec =1.2.0 =h5295a6a_3
     - libbrotlienc =1.2.0 =h2ddc9cb_3
-    - libcblas =3.11.0 =9_hb0561ab_openblas
+    - libcblas =3.11.0 =10_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp23.1 =23.1.0 =default_h79071a4_1
     - libclang13 =23.1.0 =default_h8d85846_1
@@ -224,7 +224,7 @@ requirements:
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
     - libjpeg-turbo =3.2.0 =h84a0fba_1
-    - liblapack =3.11.0 =9_hd9741b5_openblas
+    - liblapack =3.11.0 =10_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm23 =23.1.0 =h759d1ac_0
     - liblzma =5.8.3 =h8088a28_1

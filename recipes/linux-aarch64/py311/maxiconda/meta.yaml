@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.10.1 =py311had3b7ee_0
     - cython =3.3.0 =py311h1195345_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.165.10 =py311h0cfed9b_0
+    - hypothesis =6.167.0 =py311h0cfed9b_0
     - ipython =9.17.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py311h6d534f4_2
@@ -73,7 +73,7 @@ requirements:
     - annotated-types =0.8.0 =pyhd8ed1ab_0
     - anyio =4.14.2 =pyhcf101f3_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
-    - argon2-cffi-bindings =26.1.0 =py311h59b26c8_0
+    - argon2-cffi-bindings =26.1.0 =py311h59b26c8_1
     - arrow =1.4.0 =pyhcf101f3_0
     - asttokens =3.0.2 =pyhd8ed1ab_0
     - async-lru =2.3.0 =pyhcf101f3_0
@@ -108,7 +108,7 @@ requirements:
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h04741b4_4
     - cpython =3.11.16 =py311hd8ed1ab_0
-    - cryptography =50.0.0 =py311h9aad538_0
+    - cryptography =50.0.0 =py311h9aad538_1
     - curl =8.21.0 =h86273da_5
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h6598af7_1
@@ -187,12 +187,12 @@ requirements:
     - lcms2 =2.19.1 =h9d5b58d_1
     - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_102
     - lerc =4.2.0 =h52b7260_0
-    - libblas =3.11.0 =9_haddc8a3_openblas
+    - libblas =3.11.0 =10_haddc8a3_openblas
     - libbrotlicommon =1.2.0 =h384ecca_3
     - libbrotlidec =1.2.0 =h011f0d3_3
     - libbrotlienc =1.2.0 =hb247b97_3
     - libcap =2.78 =hfcc8634_1
-    - libcblas =3.11.0 =9_hd72aa62_openblas
+    - libcblas =3.11.0 =10_hd72aa62_openblas
     - libclang-cpp22.1 =22.1.8 =default_h01b09c7_10
     - libclang-cpp23.1 =23.1.0 =default_h01b09c7_1
     - libclang13 =23.1.0 =default_h2e1c083_1
@@ -226,7 +226,7 @@ requirements:
     - libharfbuzz-devel =14.4.0 =h8f7ccb3_0
     - libiconv =1.18 =h1ea5142_3
     - libjpeg-turbo =3.2.0 =he30d5cf_1
-    - liblapack =3.11.0 =9_h88aeb00_openblas
+    - liblapack =3.11.0 =10_h88aeb00_openblas
     - libllvm22 =22.1.8 =h680871c_2
     - libllvm23 =23.1.0 =h680871c_0
     - liblzma =5.8.3 =he30d5cf_1
