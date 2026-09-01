@@ -58,7 +58,7 @@ requirements:
     - brotli-python =1.0.9 =py38hfa26641_8
     - bzip2 =1.0.8 =hda65f42_10
     - ca-certificates =2026.7.22 =hbd8a1cb_0
-    - cairo =1.18.4 =h3c89d7e_2
+    - cairo =1.18.4 =h3c89d7e_3
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38heb5c249_0
     - chardet =5.2.0 =py38h578d9bd_1
@@ -73,7 +73,7 @@ requirements:
     - cryptography =43.0.0 =py38hf793753_0
     - cycler =0.12.1 =pyhd8ed1ab_0
     - cyrus-sasl =2.1.28 =hac629b4_1
-    - dbus =1.16.2 =h24cb091_1
+    - dbus =1.16.2 =he8c428d_2
     - debugpy =1.8.5 =py38h6d02427_0
     - decorator =5.1.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
@@ -136,7 +136,7 @@ requirements:
     - krb5 =1.22.2 =hbc21106_2
     - lame =4.0 =h770b6ad_1
     - lazy-object-proxy =1.10.0 =py38h01eb140_0
-    - lcms2 =2.19.1 =h0c24ade_1
+    - lcms2 =2.19.1 =h9073bf1_2
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_102
     - lerc =4.2.0 =hdb68285_0
     - libblas =3.9.0 =20_linux64_openblas
@@ -196,7 +196,7 @@ requirements:
     - libtiff =4.7.2 =hcc2c06a_1
     - libuuid =2.42.2 =h5347b49_0
     - libvorbis =1.3.7 =h54a6638_2
-    - libwebp =1.6.0 =hac12f0c_1
+    - libwebp =1.6.0 =hb3daedd_2
     - libwebp-base =1.6.0 =hd42ef1d_1
     - libxcb =1.17.0 =hb83e432_2
     - libxcrypt =4.4.38 =h280c20c_0
@@ -233,7 +233,7 @@ requirements:
     - openldap =2.6.13 =hbde042b_0
     - openssl =3.6.4 =h781a0a9_0
     - packaging =26.2 =pyhc364b38_0
-    - pandoc =3.10.2 =ha770c72_0
+    - pandoc =3.11 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.58.2 =hda50119_0
     - parso =0.8.4 =pyhd8ed1ab_0

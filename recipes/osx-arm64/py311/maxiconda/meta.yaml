@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - cython =3.3.0 =py311h71a39cc_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.167.0 =py311h5821c18_0
+    - hypothesis =6.167.1 =py311h5821c18_0
     - ipython =9.17.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py311ha01d089_2
@@ -39,7 +39,7 @@ requirements:
     - openpyxl =3.1.5 =py311h33e2021_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =3.0.5 =py311h8948835_1
-    - psutil =7.2.2 =py311hd322c8c_1
+    - psutil =7.2.2 =py311hd322c8c_2
     - pydantic =2.13.5 =pyhcf101f3_0
     - pyqt =5.15.11 =py311ha87f45f_2
     - pyserial =3.5 =pyhcf101f3_2
@@ -49,7 +49,7 @@ requirements:
     - qtawesome =1.4.2 =pyh9208f05_0
     - r-base =4.5.3 =h35b0bb1_3
     - r-essentials =4.5 =r45hd8ed1ab_2006
-    - regex =2026.7.19 =py311hc949640_0
+    - regex =2026.8.31 =py311h9f79745_0
     - requests =2.34.2 =pyhcf101f3_0
     - rust =1.98.0 =h4ff7c5d_0
     - scipy =1.17.1 =py311h9a58382_1
@@ -90,7 +90,7 @@ requirements:
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cached-property =2.0.1 =pyhcf101f3_0
     - cached_property =2.0.1 =pyhcf101f3_0
-    - cairo =1.18.4 =hdbf5564_2
+    - cairo =1.18.4 =h580cee5_3
     - cctools =1030.6.3 =llvm23_1_h54b4f4b_6
     - cctools_impl_osx-arm64 =1030.6.3 =llvm23_1_hf5e010b_6
     - cctools_osx-arm64 =1030.6.3 =llvm23_1_h54b4f4b_6
@@ -187,7 +187,7 @@ requirements:
     - kiwisolver =1.5.1 =py311h96e19ba_0
     - krb5 =1.22.2 =h34f8a20_2
     - lark =1.3.1 =pyhd8ed1ab_0
-    - lcms2 =2.19.1 =hdfa7624_1
+    - lcms2 =2.19.1 =hce41798_2
     - ld64 =956.6 =llvm23_1_hd841b0c_6
     - ld64_osx-arm64 =956.6 =llvm23_1_hc8058f9_6
     - lerc =4.2.0 =h1eee2c3_0
@@ -263,7 +263,7 @@ requirements:
     - mpmath =1.4.1 =pyhd8ed1ab_0
     - multidict =6.7.1 =py311ha275503_0
     - munkres =1.1.4 =pyhd8ed1ab_1
-    - nbclient =0.11.0 =pyhd8ed1ab_0
+    - nbclient =0.11.0 =pyhcf101f3_1
     - nbconvert-core =7.17.1 =pyhcf101f3_0
     - nbformat =5.11.1 =pyhcf101f3_0
     - ncurses =6.6 =he64c551_1
@@ -277,7 +277,7 @@ requirements:
     - openssl =3.6.4 =h55eecbc_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.10.2 =hce30654_0
+    - pandoc =3.11 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.58.2 =hf80efc4_0
     - parso =0.8.7 =pyhcf101f3_0
@@ -311,7 +311,7 @@ requirements:
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
     - python-json-logger =4.2.0 =pyhd8ed1ab_0
     - python-tzdata =2026.3 =pyhd8ed1ab_0
-    - python-utils =4.0.0 =pyh332efcf_0
+    - python-utils =4.0.1 =pyh332efcf_0
     - python_abi =3.11 =8_cp311
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.2.0 =py311h69afa4f_0
@@ -499,15 +499,15 @@ requirements:
     - r-xts =0.14.2 =r45hbe92478_0
     - r-yaml =2.3.12 =r45h6168396_0
     - r-zoo =1.8_15 =r45h6168396_0
-    - rapidfuzz =3.14.5 =py311h8325047_0
+    - rapidfuzz =3.14.6 =py311hf1c2fec_0
     - readline =8.3 =h8b90a29_1
     - referencing =0.37.0 =pyhcf101f3_0
     - rfc3339-validator =0.1.4 =pyhd8ed1ab_1
     - rfc3986-validator =0.1.1 =pyh9f0ad1d_0
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
-    - rpds-py =2026.6.3 =py311hcfb3d13_0
+    - rpds-py =2026.6.3 =py311hcfb3d13_1
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
-    - ruamel.yaml.clib =0.2.15 =py311hd322c8c_2
+    - ruamel.yaml.clib =0.2.15 =py311hd322c8c_3
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - ruamel_yaml =0.15.80 =py311heffc1b2_1009
     - rust-std-aarch64-apple-darwin =1.98.0 =hf6ec828_0
@@ -542,10 +542,10 @@ requirements:
     - unicodedata2 =17.0.1 =py311hc949640_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.7.0 =pyhd8ed1ab_0
-    - wcwidth =0.8.2 =pyhd8ed1ab_0
+    - wcwidth =0.8.3 =pyhcf101f3_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
-    - websocket-client =1.9.0 =pyhd8ed1ab_0
+    - websocket-client =1.9.2 =pyhd8ed1ab_0
     - wheel =0.48.0 =pyhd8ed1ab_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xorg-libxau =1.0.12 =h84a0fba_2

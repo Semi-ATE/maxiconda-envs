@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.10.1 =py310h3cefe83_0
     - cython =3.3.0 =py310h7728a07_0
     - grayskull =2.9.1 =pyhd8ed1ab_0
-    - hypothesis =6.167.0 =py310hc2f6a8f_0
+    - hypothesis =6.167.1 =py310hc2f6a8f_0
     - ipython =8.37.0 =pyh8f84b5b_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.10.9 =py310hbbe02a8_0
@@ -40,7 +40,7 @@ requirements:
     - openpyxl =3.1.5 =py310h1bb6155_3
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =2.3.3 =py310hc97b22d_2
-    - psutil =7.2.2 =py310hc1e03d5_1
+    - psutil =7.2.2 =py310hc1e03d5_2
     - pydantic =2.13.5 =pyhcf101f3_0
     - pyqt =5.15.11 =py310h5ffa702_2
     - pyserial =3.5 =pyhcf101f3_2
@@ -50,7 +50,7 @@ requirements:
     - qtawesome =1.4.2 =pyh9208f05_0
     - r-base =4.5.3 =h269e6ae_3
     - r-essentials =4.5 =r45hd8ed1ab_2006
-    - regex =2026.7.19 =py310h5b55623_0
+    - regex =2026.8.31 =py310h4b84b45_0
     - requests =2.34.2 =pyhcf101f3_0
     - rust =1.98.0 =h651fc87_0
     - scipy =1.15.2 =py310hf37559f_0
@@ -94,7 +94,7 @@ requirements:
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cached-property =2.0.1 =pyhcf101f3_0
     - cached_property =2.0.1 =pyhcf101f3_0
-    - cairo =1.18.4 =h1469d55_2
+    - cairo =1.18.4 =hca320e2_3
     - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.1 =py310hbdcee5f_2
     - charset-normalizer =3.5.1 =pyhd8ed1ab_0
@@ -107,7 +107,7 @@ requirements:
     - curl =8.21.0 =h86273da_5
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h6598af7_1
-    - dbus =1.16.2 =h70963c4_1
+    - dbus =1.16.2 =h71d469a_2
     - debugpy =1.8.21 =py310heccc163_0
     - decorator =5.3.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
@@ -176,7 +176,7 @@ requirements:
     - krb5 =1.22.2 =h095d8e5_2
     - lame =4.0 =h7ce06ba_1
     - lark =1.3.1 =pyhd8ed1ab_0
-    - lcms2 =2.19.1 =h9d5b58d_1
+    - lcms2 =2.19.1 =h137c43b_2
     - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_102
     - lerc =4.2.0 =h52b7260_0
     - libblas =3.11.0 =10_haddc8a3_openblas
@@ -267,7 +267,7 @@ requirements:
     - mpmath =1.4.1 =pyhd8ed1ab_0
     - multidict =6.7.1 =py310h2d8da20_0
     - munkres =1.1.4 =pyhd8ed1ab_1
-    - nbclient =0.11.0 =pyhd8ed1ab_0
+    - nbclient =0.11.0 =pyhcf101f3_1
     - nbconvert-core =7.17.1 =pyhcf101f3_0
     - nbformat =5.11.1 =pyhcf101f3_0
     - ncurses =6.6 =h2b6f883_1
@@ -281,7 +281,7 @@ requirements:
     - openssl =3.6.4 =he6ad1d5_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.10.2 =h8af1aa0_0
+    - pandoc =3.11 =h8af1aa0_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.58.2 =h8547ced_0
     - parso =0.8.7 =pyhcf101f3_0
@@ -314,7 +314,7 @@ requirements:
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
     - python-json-logger =4.2.0 =pyhd8ed1ab_0
     - python-tzdata =2026.3 =pyhd8ed1ab_0
-    - python-utils =4.0.0 =pyh332efcf_0
+    - python-utils =4.0.1 =pyh332efcf_0
     - python_abi =3.10 =8_cp310
     - pytz =2026.3.post1 =pyhcf101f3_0
     - pyxdg =0.28 =pyhd8ed1ab_0
@@ -544,10 +544,10 @@ requirements:
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.7.0 =pyhd8ed1ab_0
     - wayland =1.26.0 =h637a836_2
-    - wcwidth =0.8.2 =pyhd8ed1ab_0
+    - wcwidth =0.8.3 =pyhcf101f3_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
-    - websocket-client =1.9.0 =pyhd8ed1ab_0
+    - websocket-client =1.9.2 =pyhd8ed1ab_0
     - wheel =0.48.0 =pyhd8ed1ab_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xcb-util =0.4.1 =hca56bd8_2

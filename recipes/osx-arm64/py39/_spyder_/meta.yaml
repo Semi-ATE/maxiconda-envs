@@ -65,7 +65,7 @@ requirements:
     - brotli-python =1.0.9 =py39h23fbdae_8
     - bzip2 =1.0.8 =h4e30115_10
     - ca-certificates =2026.7.22 =hbd8a1cb_0
-    - cairo =1.18.4 =hdbf5564_2
+    - cairo =1.18.4 =h580cee5_3
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h7f933ea_0
     - chardet =5.2.0 =pyhd8ed1ab_3
@@ -139,7 +139,7 @@ requirements:
     - keyring =25.6.0 =pyh534df25_0
     - kiwisolver =1.4.7 =py39h157d57c_0
     - krb5 =1.21.3 =h237132a_0
-    - lcms2 =2.19.1 =hdfa7624_1
+    - lcms2 =2.19.1 =hce41798_2
     - lerc =4.2.0 =h1eee2c3_0
     - libblas =3.11.0 =10_h51639a9_openblas
     - libbrotlicommon =1.2.0 =h1dcdb26_3
@@ -180,7 +180,7 @@ requirements:
     - libsqlite =3.53.4 =hca69786_1
     - libtiff =4.7.2 =hf67920b_1
     - libvorbis =1.3.7 =h81086ad_2
-    - libwebp =1.6.0 =he6839e2_1
+    - libwebp =1.6.0 =h25fcef4_2
     - libwebp-base =1.6.0 =h202fb40_1
     - libxcb =1.17.0 =hbffa61f_2
     - libxml2 =2.15.3 =h5654f7c_1
@@ -215,7 +215,7 @@ requirements:
     - openldap =2.6.10 =hbe55e7a_0
     - openssl =3.6.4 =h55eecbc_0
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.10.2 =hce30654_0
+    - pandoc =3.11 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.58.2 =hf80efc4_0
     - parso =0.8.4 =pyhd8ed1ab_1

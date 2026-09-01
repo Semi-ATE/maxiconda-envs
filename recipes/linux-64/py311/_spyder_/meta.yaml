@@ -79,7 +79,7 @@ requirements:
     - cryptography =50.0.0 =py311hd6621ae_1
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hac629b4_1
-    - dbus =1.16.2 =h24cb091_1
+    - dbus =1.16.2 =he8c428d_2
     - debugpy =1.8.21 =py311hc665b79_0
     - decorator =5.3.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
@@ -144,7 +144,7 @@ requirements:
     - kiwisolver =1.5.1 =py311h4c6fd42_0
     - krb5 =1.22.2 =hbc21106_2
     - lame =4.0 =h770b6ad_1
-    - lcms2 =2.19.1 =h0c24ade_1
+    - lcms2 =2.19.1 =h9073bf1_2
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_102
     - lerc =4.2.0 =hdb68285_0
     - libblas =3.11.0 =10_h4a7cf45_openblas
@@ -208,7 +208,7 @@ requirements:
     - libuuid =2.42.2 =h5347b49_0
     - libvorbis =1.3.7 =h54a6638_2
     - libvulkan-loader =1.4.357.0 =h0e34353_2
-    - libwebp =1.6.0 =hac12f0c_1
+    - libwebp =1.6.0 =hb3daedd_2
     - libwebp-base =1.6.0 =hd42ef1d_1
     - libxcb =1.17.0 =hb83e432_2
     - libxcrypt =4.4.38 =h280c20c_0
@@ -233,7 +233,7 @@ requirements:
     - multidict =6.7.1 =py311h3778330_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - mypy_extensions =1.1.0 =pyha770c72_0
-    - nbclient =0.11.0 =pyhd8ed1ab_0
+    - nbclient =0.11.0 =pyhcf101f3_1
     - nbconvert =7.17.1 =hb502eef_0
     - nbconvert-core =7.17.1 =pyhcf101f3_0
     - nbconvert-pandoc =7.17.1 =h08b4883_0
@@ -247,7 +247,7 @@ requirements:
     - openldap =2.6.13 =hbde042b_0
     - openssl =3.6.4 =h781a0a9_0
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.10.2 =ha770c72_0
+    - pandoc =3.11 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =hda50119_1
     - parso =0.8.7 =pyhcf101f3_0
@@ -263,7 +263,7 @@ requirements:
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py311h3778330_0
-    - psutil =7.2.2 =py311h194be0f_1
+    - psutil =7.2.2 =py311h194be0f_2
     - pthread-stubs =0.4 =hb03c661_1003
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pulseaudio-client =17.0 =h9a6aba3_3
@@ -318,7 +318,7 @@ requirements:
     - rich =15.0.0 =pyhcf101f3_0
     - roman-numerals =4.1.0 =pyhd8ed1ab_0
     - rope =1.14.0 =pyhd8ed1ab_0
-    - rpds-py =2026.6.3 =py311ha6e1976_0
+    - rpds-py =2026.6.3 =py311ha6e1976_1
     - rtree =1.4.1 =pyh11ca60a_0
     - ruff =0.16.5 =hdfdb5ae_0
     - secretstorage =3.5.0 =py311h38be061_0
@@ -357,11 +357,11 @@ requirements:
     - urllib3 =2.7.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py311hf8ae3fa_3
     - wayland =1.26.0 =hc1c935e_2
-    - wcwidth =0.8.2 =pyhd8ed1ab_0
+    - wcwidth =0.8.3 =pyhcf101f3_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0
-    - wrapt =2.3.0 =py311h0d48ccd_1
+    - wrapt =2.4.0 =py311h194be0f_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xcb-util =0.4.1 =h4f16b4b_2
     - xcb-util-cursor =0.1.6 =hb03c661_0
