@@ -236,7 +236,7 @@ requirements:
     - notebook =7.4.5 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - onemkl-license =2025.3.1 =h57928b3_13
-    - openjpeg =2.5.4 =h0e57b4f_0
+    - openjpeg =2.5.4 =h0e57b4f_1
     - openssl =3.6.4 =hf411b9b_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
@@ -271,7 +271,7 @@ requirements:
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1
-    - python_abi =3.9 =8_cp39
+    - python_abi =3.9 =9_cp39
     - pytz =2025.2 =pyhd8ed1ab_0
     - pywin32 =311 =py39h5fb4b08_0
     - pywinpty =2.0.15 =py39ha51f57c_0
@@ -285,7 +285,7 @@ requirements:
     - r-backports =1.5.1 =r45heceb674_0
     - r-base64enc =0.1_6 =r45heceb674_0
     - r-bit =4.6.0 =r45heceb674_1
-    - r-bit64 =4.8.4 =r45ha31549c_0
+    - r-bit64 =4.8.6 =r45ha31549c_0
     - r-blob =1.3.0 =r45hc72bb7e_0
     - r-boot =1.3_32 =r45hc72bb7e_1
     - r-broom =1.0.13 =r45hc72bb7e_0
@@ -348,7 +348,7 @@ requirements:
     - r-htmlwidgets =1.6.4 =r45h785f33e_4
     - r-httpcode =0.3.0 =r45h57928b3_5
     - r-httpuv =1.6.17 =r45h68b42e3_0
-    - r-httr =1.4.8 =r45hc72bb7e_0
+    - r-httr =1.4.9 =r45hacb3a79_0
     - r-ids =1.0.1 =r45hc72bb7e_5
     - r-ipred =0.9_15 =r45heceb674_2
     - r-irdisplay =1.1 =r45hd8ed1ab_4
@@ -366,7 +366,7 @@ requirements:
     - r-lazyeval =0.2.3 =r45heceb674_0
     - r-lifecycle =1.0.5 =r45hc72bb7e_0
     - r-listenv =1.0.0 =r45hc72bb7e_0
-    - r-lobstr =1.2.1 =r45hd8a2815_0
+    - r-lobstr =1.2.2 =r45hfd789f3_0
     - r-lubridate =1.9.5 =r45heceb674_0
     - r-magrittr =2.0.5 =r45heceb674_0
     - r-maps =3.4.3 =r45heceb674_1

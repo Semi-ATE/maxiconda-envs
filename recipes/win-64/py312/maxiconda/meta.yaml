@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.12.14 =hb12b558_0_cpython
+    - python =3.12.14 =hb12b558_1_cpython
   run:
-    - python =3.12.14 =hb12b558_0_cpython
+    - python =3.12.14 =hb12b558_1_cpython
 
     # 38 primary packages :
     - aiohttp =3.14.3 =py312h6b91d65_0
@@ -32,7 +32,7 @@ requirements:
     - cython =3.3.0 =py312hd245ac3_0
     - grayskull =3.1.1 =pyhc364b38_0
     - hypothesis =6.167.1 =py312hdabe01f_0
-    - ipython =9.17.0 =pyhe2676ad_0
+    - ipython =9.17.1 =pyhe2676ad_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py312h8e0e4fc_2
     - numba =0.67.0 =py312ha1a9051_1
@@ -50,7 +50,7 @@ requirements:
     - qtawesome =1.4.2 =pyh9208f05_0
     - r-base =4.5.3 =h91b09f7_3
     - r-essentials =4.5 =r45hd8ed1ab_2006
-    - regex =2026.8.31 =py312he06e257_0
+    - regex =2026.9.3 =py312he06e257_0
     - requests =2.34.2 =pyhcf101f3_0
     - rust =1.98.0 =hf8d6059_0
     - scipy =1.18.0 =py312h9b3c559_0
@@ -97,7 +97,7 @@ requirements:
     - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.1 =py312he06e257_2
     - charset-normalizer =3.5.1 =pyhd8ed1ab_0
-    - click =8.2.1 =pyh7428d3b_0
+    - click =8.4.1 =pyh6dadd2b_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -109,12 +109,12 @@ requirements:
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
     - conda-pypi =0.11.0 =py312h209ec74_1
     - conda-rattler-solver =0.1.1 =pyhcf101f3_0
-    - conda-recipe-manager =0.10.5 =pyhd8ed1ab_0
+    - conda-recipe-manager =0.10.6 =pyhd8ed1ab_0
     - conda-self =0.2.1 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py312h78d62e6_4
     - cpp-expected =1.3.1 =h477610d_1
-    - cpython =3.12.14 =py312hd8ed1ab_0
+    - cpython =3.12.14 =py312hd8ed1ab_1
     - curl =8.21.0 =hdb0ef4a_5
     - cycler =0.12.1 =pyhcf101f3_2
     - debugpy =1.8.21 =py312ha1a9051_0
@@ -269,7 +269,7 @@ requirements:
     - nlohmann_json-abi =3.12.0 =h0f90c79_2
     - notebook =7.6.2 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
-    - openjpeg =2.5.4 =h0e57b4f_0
+    - openjpeg =2.5.4 =h0e57b4f_1
     - openssl =3.6.4 =hf411b9b_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
@@ -278,11 +278,11 @@ requirements:
     - pango =1.58.2 =h13911b6_0
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =h8466c1e_1
-    - pillow =12.3.0 =py312h31f0997_0
+    - pillow =12.3.0 =py312h31f0997_1
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h5112557_3
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
-    - platformdirs =4.11.5 =pyhcf101f3_0
+    - platformdirs =4.11.6 =pyh5ded981_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
@@ -305,12 +305,12 @@ requirements:
     - python-build =1.6.0 =pyhc364b38_0
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
-    - python-gil =3.12.14 =hd8ed1ab_0
+    - python-gil =3.12.14 =hd8ed1ab_1
     - python-installer =1.0.1 =pyh332efcf_0
     - python-json-logger =4.2.0 =pyhd8ed1ab_0
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python-utils =4.0.1 =pyh332efcf_0
-    - python_abi =3.12 =8_cp312
+    - python_abi =3.12 =9_cp312
     - pywin32 =312 =py312h95189c4_1
     - pywinpty =3.0.5 =py312h275cf98_0
     - pyzmq =27.2.0 =py312h343a6d4_0
@@ -323,7 +323,7 @@ requirements:
     - r-backports =1.5.1 =r45heceb674_0
     - r-base64enc =0.1_6 =r45heceb674_0
     - r-bit =4.6.0 =r45heceb674_1
-    - r-bit64 =4.8.4 =r45ha31549c_0
+    - r-bit64 =4.8.6 =r45ha31549c_0
     - r-blob =1.3.0 =r45hc72bb7e_0
     - r-boot =1.3_32 =r45hc72bb7e_1
     - r-broom =1.0.13 =r45hc72bb7e_0
@@ -386,7 +386,7 @@ requirements:
     - r-htmlwidgets =1.6.4 =r45h785f33e_4
     - r-httpcode =0.3.0 =r45h57928b3_5
     - r-httpuv =1.6.17 =r45h68b42e3_0
-    - r-httr =1.4.8 =r45hc72bb7e_0
+    - r-httr =1.4.9 =r45hacb3a79_0
     - r-ids =1.0.1 =r45hc72bb7e_5
     - r-ipred =0.9_15 =r45heceb674_2
     - r-irdisplay =1.1 =r45hd8ed1ab_4
@@ -404,7 +404,7 @@ requirements:
     - r-lazyeval =0.2.3 =r45heceb674_0
     - r-lifecycle =1.0.5 =r45hc72bb7e_0
     - r-listenv =1.0.0 =r45hc72bb7e_0
-    - r-lobstr =1.2.1 =r45hd8a2815_0
+    - r-lobstr =1.2.2 =r45hfd789f3_0
     - r-lubridate =1.9.5 =r45heceb674_0
     - r-magrittr =2.0.5 =r45heceb674_0
     - r-maps =3.4.3 =r45heceb674_1

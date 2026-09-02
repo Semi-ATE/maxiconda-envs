@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.12.14 =hd1323d7_0_cpython
+    - python =3.12.14 =hd1323d7_1_cpython
   run:
-    - python =3.12.14 =hd1323d7_0_cpython
+    - python =3.12.14 =hd1323d7_1_cpython
 
     # 37 primary packages :
     - aiohttp =3.14.3 =py312h9f8c436_0
@@ -31,7 +31,7 @@ requirements:
     - cython =3.3.0 =py312h12d0071_0
     - grayskull =3.1.1 =pyhc364b38_0
     - hypothesis =6.167.0 =py312he755ab7_0
-    - ipython =9.17.0 =pyh53cf698_0
+    - ipython =9.17.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.1 =py312hf2eba6f_2
     - numba =0.67.0 =py312h9052ff5_1
@@ -49,7 +49,7 @@ requirements:
     - qtawesome =1.4.2 =pyh9208f05_0
     - r-base =4.5.3 =h35b0bb1_3
     - r-essentials =4.5 =r45hd8ed1ab_2006
-    - regex =2026.8.31 =py312h580468c_0
+    - regex =2026.9.3 =py312h580468c_0
     - requests =2.34.2 =pyhcf101f3_0
     - rust =1.98.0 =h4ff7c5d_0
     - scipy =1.18.0 =py312h4519d97_0
@@ -107,7 +107,7 @@ requirements:
     - clang_osx-arm64 =23.1.0 =hafa0770_34
     - clangxx_impl_osx-arm64 =23.1.0 =default_h54c3132_1
     - clangxx_osx-arm64 =23.1.0 =hafa0770_34
-    - click =8.2.1 =pyh707e725_0
+    - click =8.4.1 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -123,12 +123,12 @@ requirements:
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
     - conda-pypi =0.11.0 =py312hc28c600_1
     - conda-rattler-solver =0.1.1 =pyhcf101f3_0
-    - conda-recipe-manager =0.10.5 =pyhd8ed1ab_0
+    - conda-recipe-manager =0.10.6 =pyhd8ed1ab_0
     - conda-self =0.2.1 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py312h3093aea_4
     - cpp-expected =1.3.1 =h3feff0a_1
-    - cpython =3.12.14 =py312hd8ed1ab_0
+    - cpython =3.12.14 =py312hd8ed1ab_1
     - curl =8.21.0 =h6651222_5
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hb961e35_1
@@ -242,9 +242,9 @@ requirements:
     - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm23 =23.1.0 =h759d1ac_0
     - liblzma =5.8.3 =h8088a28_1
-    - libmamba =2.9.0 =py314hf3ae1d6_0
-    - libmamba-spdlog =2.9.0 =heb3ad76_0
-    - libmambapy =2.9.0 =py312ha20c16a_0
+    - libmamba =2.9.0 =py314h12d839b_0
+    - libmamba-spdlog =2.9.0 =h7215443_0
+    - libmambapy =2.9.0 =py312h7725efa_0
     - libmsgpack-c =6.1.0 =h784d473_7
     - libnghttp2 =1.68.1 =h435687b_1
     - libntlm =1.8 =h5505292_0
@@ -296,7 +296,7 @@ requirements:
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.40 =hdcbdcf5_0
     - nss =3.118 =h1c710a3_0
-    - openjpeg =2.5.4 =hd9e9057_0
+    - openjpeg =2.5.4 =hd651e26_1
     - openldap =2.6.13 =hf7f56bc_0
     - openssl =3.6.4 =h55eecbc_0
     - overrides =7.7.0 =pyhd8ed1ab_1
@@ -307,11 +307,11 @@ requirements:
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =he63d830_1
     - pexpect =4.9.0 =pyhd8ed1ab_1
-    - pillow =12.3.0 =py312h4e908a4_0
+    - pillow =12.3.0 =py312hf9dc30a_1
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h784d473_3
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
-    - platformdirs =4.11.5 =pyhcf101f3_0
+    - platformdirs =4.11.6 =pyh5ded981_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
@@ -336,12 +336,12 @@ requirements:
     - python-build =1.6.0 =pyhc364b38_0
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
-    - python-gil =3.12.14 =hd8ed1ab_0
+    - python-gil =3.12.14 =hd8ed1ab_1
     - python-installer =1.0.1 =pyh332efcf_0
     - python-json-logger =4.2.0 =pyhd8ed1ab_0
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python-utils =4.0.1 =pyh332efcf_0
-    - python_abi =3.12 =8_cp312
+    - python_abi =3.12 =9_cp312
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.2.0 =py312hcedbef1_0
     - qhull =2020.2 =h420ef59_5
@@ -352,7 +352,7 @@ requirements:
     - r-backports =1.5.1 =r45hbe92478_0
     - r-base64enc =0.1_6 =r45hbe92478_0
     - r-bit =4.6.0 =r45h6168396_1
-    - r-bit64 =4.8.4 =r45h864cdf1_0
+    - r-bit64 =4.8.6 =r45h864cdf1_0
     - r-blob =1.3.0 =r45hc72bb7e_0
     - r-boot =1.3_32 =r45hc72bb7e_1
     - r-broom =1.0.13 =r45hc72bb7e_0
@@ -415,7 +415,7 @@ requirements:
     - r-htmlwidgets =1.6.4 =r45h785f33e_4
     - r-httpcode =0.3.0 =r45hf450f58_5
     - r-httpuv =1.6.17 =r45h1b96ac6_0
-    - r-httr =1.4.8 =r45hc72bb7e_0
+    - r-httr =1.4.9 =r45hacb3a79_0
     - r-ids =1.0.1 =r45hc72bb7e_5
     - r-ipred =0.9_15 =r45hd097873_2
     - r-irdisplay =1.1 =r45hd8ed1ab_4
@@ -433,7 +433,7 @@ requirements:
     - r-lazyeval =0.2.3 =r45h4b407c4_0
     - r-lifecycle =1.0.5 =r45hc72bb7e_0
     - r-listenv =1.0.0 =r45hc72bb7e_0
-    - r-lobstr =1.2.1 =r45h1380947_0
+    - r-lobstr =1.2.2 =r45hc1ec562_0
     - r-lubridate =1.9.5 =r45hbe92478_0
     - r-magrittr =2.0.5 =r45hbe92478_0
     - r-maps =3.4.3 =r45h6168396_1

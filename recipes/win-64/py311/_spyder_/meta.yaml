@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.11.16 =hb12b558_0_cpython
+    - python =3.11.16 =hb12b558_1_cpython
   run:
-    - python =3.11.16 =hb12b558_0_cpython
+    - python =3.11.16 =hb12b558_1_cpython
 
     # 10 primary packages :
     - cython =3.3.0 =py311h9990397_0
@@ -117,7 +117,7 @@ requirements:
     - inflection =0.5.1 =pyhd8ed1ab_1
     - intervaltree =3.1.0 =pyhd8ed1ab_1
     - ipykernel =6.31.0 =pyh6dadd2b_0
-    - ipython =9.17.0 =pyhe2676ad_0
+    - ipython =9.17.1 =pyhe2676ad_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
     - isort =9.0.1 =pyhd8ed1ab_0
     - jaraco.classes =3.4.0 =pyhcf101f3_3
@@ -197,7 +197,7 @@ requirements:
     - nbformat =5.11.1 =pyhcf101f3_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - numpydoc =1.10.0 =pyhcf101f3_0
-    - openjpeg =2.5.4 =h0e57b4f_0
+    - openjpeg =2.5.4 =h0e57b4f_1
     - openssl =3.6.4 =hf411b9b_0
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.11 =h57928b3_0
@@ -208,10 +208,10 @@ requirements:
     - pcre2 =10.47 =h8466c1e_1
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =12.3.0 =py311h17b8079_0
+    - pillow =12.3.0 =py311h17b8079_1
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h5112557_3
-    - platformdirs =4.11.5 =pyhcf101f3_0
+    - platformdirs =4.11.6 =pyh5ded981_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
@@ -247,7 +247,7 @@ requirements:
     - python-lsp-server-base =1.15.0 =pyhd8ed1ab_0
     - python-slugify =8.0.4 =pyhd8ed1ab_1
     - python-tzdata =2026.3 =pyhd8ed1ab_0
-    - python_abi =3.11 =8_cp311
+    - python_abi =3.11 =9_cp311
     - pytokens =0.4.1 =py311hf893f09_2
     - pytoolconfig =1.2.5 =pyhd8ed1ab_1
     - pyuca =1.2 =pyhd8ed1ab_2
@@ -269,7 +269,7 @@ requirements:
     - requests =2.34.2 =pyhcf101f3_0
     - rich =15.0.0 =pyhcf101f3_0
     - roman-numerals =4.1.0 =pyhd8ed1ab_0
-    - rope =1.14.0 =pyhd8ed1ab_0
+    - rope =1.14.0 =pyh5ded981_1
     - rpds-py =2026.6.3 =py311hf51aa87_1
     - rtree =1.4.1 =pyh11ca60a_0
     - ruff =0.16.5 =h6bcfbb0_0
