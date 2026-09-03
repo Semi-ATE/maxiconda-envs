@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.11.16 =h8ab3286_0_cpython
+    - python =3.11.16 =h5f976f7_2_cpython
   run:
-    - python =3.11.16 =h8ab3286_0_cpython
+    - python =3.11.16 =h5f976f7_2_cpython
 
     # 9 primary packages :
     - cython =3.3.0 =py311h781f220_0
@@ -35,7 +35,7 @@ requirements:
     - spyder =6.1.7 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
-    # 358 secondary packages :
+    # 359 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiohttp =3.14.3 =py311h55b9665_0
@@ -75,8 +75,8 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - contourpy =1.3.3 =py311h724c32c_4
     - cookiecutter =2.7.1 =pyhcf101f3_0
-    - cpython =3.11.16 =py311hd8ed1ab_1
-    - cryptography =50.0.0 =py311hd6621ae_1
+    - cpython =3.11.16 =py311hd8ed1ab_2
+    - cryptography =50.0.1 =py311hd6621ae_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hac629b4_1
     - dbus =1.16.2 =he8c428d_2
@@ -101,7 +101,7 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py311h3778330_0
     - freetype =2.14.3 =ha770c72_2
-    - fribidi =1.0.16 =hb03c661_1
+    - fribidi =1.0.16 =h7cc23a3_2
     - frozenlist =1.8.0 =py311h52bc045_0
     - fzf =0.74.3 =hfc2019e_1
     - giflib =6.1.3 =h280c20c_1
@@ -196,6 +196,7 @@ requirements:
     - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.58 =h922cc85_1
     - libpq =18.6 =h9d76c99_0
+    - libpython =3.11.16 =h0c77377_2_cpython
     - libraqm =0.11.0 =h6406941_0
     - libsndfile =1.2.2 =hbc6d301_3
     - libsodium =1.0.22 =hebe6cf0_2
@@ -205,7 +206,7 @@ requirements:
     - libstdcxx-ng =16.2.0 =hdf11a46_4
     - libsystemd0 =261.2 =h6f4a2f1_0
     - libtiff =4.7.2 =hcc2c06a_1
-    - libuuid =2.42.2 =h5347b49_0
+    - libuuid =2.42.3 =hcfc3c73_0
     - libvorbis =1.3.7 =h54a6638_2
     - libvulkan-loader =1.4.357.0 =h0e34353_2
     - libwebp =1.6.0 =hb3daedd_2
@@ -215,7 +216,7 @@ requirements:
     - libxkbcommon =1.13.2 =h51789e4_1
     - libxml2 =2.15.3 =h49c6c72_1
     - libxml2-16 =2.15.3 =hca6bf5a_1
-    - libxslt =1.1.43 =h711ed8c_1
+    - libxslt =1.1.45 =h8e12856_0
     - libzlib =1.3.2 =h25fd6f3_3
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.2.0 =pyhd8ed1ab_0
@@ -264,7 +265,7 @@ requirements:
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py311h3778330_0
     - psutil =7.2.2 =py311h194be0f_2
-    - pthread-stubs =0.4 =hb03c661_1003
+    - pthread-stubs =0.4 =h7cc23a3_1004
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pulseaudio-client =17.0 =h9a6aba3_3
     - pure_eval =0.2.3 =pyhd8ed1ab_1

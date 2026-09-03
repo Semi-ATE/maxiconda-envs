@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.11.16 =hd1323d7_1_cpython
+    - python =3.11.16 =hd05a0c4_2_cpython
   run:
-    - python =3.11.16 =hd1323d7_1_cpython
+    - python =3.11.16 =hd05a0c4_2_cpython
 
     # 37 primary packages :
     - aiohttp =3.14.3 =py311h6771f6e_0
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 493 secondary packages :
+    # 494 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
@@ -118,9 +118,9 @@ requirements:
     - conda-recipe-manager =0.10.6 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h7d85929_4
-    - cpython =3.11.16 =py311hd8ed1ab_1
-    - cryptography =50.0.0 =py311h37ee2f5_1
-    - curl =8.21.0 =h6651222_5
+    - cpython =3.11.16 =py311hd8ed1ab_2
+    - cryptography =50.0.1 =py311h37ee2f5_0
+    - curl =8.22.0 =h6651222_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hb961e35_1
     - debugpy =1.8.21 =py311h8948835_0
@@ -139,7 +139,7 @@ requirements:
     - fonttools =4.63.0 =py311hc290fe0_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.14.3 =hce30654_2
-    - fribidi =1.0.16 =h84a0fba_1
+    - fribidi =1.0.16 =hb001647_2
     - frozenlist =1.8.0 =py311hf75086c_0
     - gcc_impl_osx-arm64 =16.2.0 =hff32234_4
     - gfortran_impl_osx-arm64 =16.2.0 =h9997696_4
@@ -201,7 +201,7 @@ requirements:
     - libclang-cpp23.1 =23.1.0 =default_h79071a4_1
     - libclang13 =23.1.0 =default_h8d85846_1
     - libcompiler-rt =23.1.0 =hdb3d66b_0
-    - libcurl =8.21.0 =h6651222_5
+    - libcurl =8.22.0 =h6651222_0
     - libcxx =23.1.0 =h55c6f16_0
     - libcxx-devel =23.1.0 =h6dc3340_0
     - libcxx-headers =23.1.0 =h707e725_0
@@ -236,6 +236,7 @@ requirements:
     - libpng =1.6.58 =hf5e6511_1
     - libpq =18.6 =h08b03b9_0
     - libpsl =0.23.1 =hdb0c161_1
+    - libpython =3.11.16 =h4e5ec87_2_cpython
     - libraqm =0.11.0 =h45af499_0
     - libsigtool =0.1.3 =h98dc951_1
     - libsodium =1.0.22 =h74c22ad_2
@@ -294,7 +295,7 @@ requirements:
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py311hc290fe0_0
-    - pthread-stubs =0.4 =h84a0fba_1003
+    - pthread-stubs =0.4 =hb001647_1004
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycosat =0.6.6 =py311hf19d84e_4

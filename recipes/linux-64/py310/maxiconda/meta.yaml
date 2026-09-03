@@ -104,7 +104,7 @@ requirements:
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.2 =py310h3788b33_0
     - cpython =3.10.21 =py310hd8ed1ab_0
-    - curl =8.21.0 =ha042cf0_5
+    - curl =8.22.0 =ha042cf0_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hac629b4_1
     - dbus =1.16.2 =he8c428d_2
@@ -125,7 +125,7 @@ requirements:
     - fonttools =4.63.0 =py310h3406613_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.14.3 =ha770c72_2
-    - fribidi =1.0.16 =hb03c661_1
+    - fribidi =1.0.16 =h7cc23a3_2
     - frozenlist =1.8.0 =py310h9548a50_0
     - gcc_impl_linux-64 =16.2.0 =h176d5d0_4
     - gcc_linux-64 =16.2.0 =h0ab548f_1
@@ -189,7 +189,7 @@ requirements:
     - libclang-cpp23.1 =23.1.0 =default_h0acdd01_1
     - libclang13 =23.1.0 =default_h7855034_1
     - libcups =2.3.3 =h7a8fb5f_6
-    - libcurl =8.21.0 =ha042cf0_5
+    - libcurl =8.22.0 =ha042cf0_0
     - libdeflate =1.25 =hd45a770_1
     - libdrm =2.4.129 =h7cc23a3_0
     - libedit =3.1.20250104 =pl5321h373387f_1
@@ -243,7 +243,7 @@ requirements:
     - libstdcxx-ng =16.2.0 =hdf11a46_4
     - libsystemd0 =261.2 =h6f4a2f1_0
     - libtiff =4.7.2 =hcc2c06a_1
-    - libuuid =2.42.2 =h5347b49_0
+    - libuuid =2.42.3 =hcfc3c73_0
     - libuv =1.52.1 =h280c20c_1
     - libvorbis =1.3.7 =h54a6638_2
     - libvulkan-loader =1.4.357.0 =h0e34353_2
@@ -253,7 +253,7 @@ requirements:
     - libxkbcommon =1.13.2 =h51789e4_1
     - libxml2 =2.15.3 =h49c6c72_1
     - libxml2-16 =2.15.3 =hca6bf5a_1
-    - libxslt =1.1.43 =h711ed8c_1
+    - libxslt =1.1.45 =h8e12856_0
     - libzlib =1.3.2 =h25fd6f3_3
     - llvmlite =0.49.0 =py310h043a6fa_2
     - make =4.4.1 =hb03c661_3
@@ -299,7 +299,7 @@ requirements:
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py310h3406613_0
-    - pthread-stubs =0.4 =hb03c661_1003
+    - pthread-stubs =0.4 =h7cc23a3_1004
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pulseaudio-client =17.0 =h9a6aba3_3
     - pure_eval =0.2.3 =pyhd8ed1ab_1

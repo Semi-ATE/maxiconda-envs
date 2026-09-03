@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.11.16 =hd04fa83_0_cpython
+    - python =3.11.16 =h6907cb8_2_cpython
   run:
-    - python =3.11.16 =hd04fa83_0_cpython
+    - python =3.11.16 =h6907cb8_2_cpython
 
     # 9 primary packages :
     - cython =3.3.0 =py311h0517b2b_0
@@ -35,7 +35,7 @@ requirements:
     - spyder =6.1.7 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
-    # 306 secondary packages :
+    # 307 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiohttp =3.14.3 =py311ha95a472_0
@@ -76,8 +76,8 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - contourpy =1.3.3 =py311h9d13916_4
     - cookiecutter =2.7.1 =pyhcf101f3_0
-    - cpython =3.11.16 =py311hd8ed1ab_1
-    - cryptography =50.0.0 =py311hafb1ed9_1
+    - cpython =3.11.16 =py311hd8ed1ab_2
+    - cryptography =50.0.1 =py311hafb1ed9_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h7cc0300_1
     - debugpy =1.8.21 =py311hc3ea09e_0
@@ -100,7 +100,7 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py311ha8ae342_0
     - freetype =2.14.3 =h694c41f_2
-    - fribidi =1.0.16 =ha1e9b39_1
+    - fribidi =1.0.16 =hd115831_2
     - frozenlist =1.8.0 =py311ha09d3ca_0
     - fzf =0.74.3 =h1229ba9_1
     - giflib =6.1.3 =ha3d0635_1
@@ -175,6 +175,7 @@ requirements:
     - libopus =1.6.1 =had63097_1
     - libpng =1.6.58 =h4382c61_1
     - libpq =18.6 =h8b30867_0
+    - libpython =3.11.16 =h31af0e7_2_cpython
     - libraqm =0.11.0 =h1888d0e_0
     - libsodium =1.0.22 =had63097_2
     - libspatialindex =2.1.0 =h2fb4741_1
@@ -234,7 +235,7 @@ requirements:
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py311ha8ae342_0
     - psutil =7.2.2 =py311h72e27ae_2
-    - pthread-stubs =0.4 =ha1e9b39_1003
+    - pthread-stubs =0.4 =hd115831_1004
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycodestyle =2.12.1 =pyhd8ed1ab_1

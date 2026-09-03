@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.11.16 =hb12b558_1_cpython
+    - python =3.11.16 =hb12b558_2_cpython
   run:
-    - python =3.11.16 =hb12b558_1_cpython
+    - python =3.11.16 =hb12b558_2_cpython
 
     # 10 primary packages :
     - cython =3.3.0 =py311h9990397_0
@@ -36,7 +36,7 @@ requirements:
     - spyder =6.1.7 =hd8ed1ab_0
     - sympy =1.14.0 =pyh04b8f61_6
 
-    # 292 secondary packages :
+    # 293 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiohttp =3.14.3 =py311ha56572f_0
@@ -75,7 +75,7 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - contourpy =1.3.3 =py311h275cad7_4
     - cookiecutter =2.7.1 =pyhcf101f3_0
-    - cryptography =50.0.0 =py311h2098ed6_1
+    - cryptography =50.0.1 =py311h2098ed6_0
     - cycler =0.12.1 =pyhcf101f3_2
     - debugpy =1.8.21 =py311h5dfdfe8_0
     - decorator =5.3.1 =pyhd8ed1ab_0
@@ -98,7 +98,7 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py311h3f79411_0
     - freetype =2.14.3 =h57928b3_2
-    - fribidi =1.0.16 =hfd05255_1
+    - fribidi =1.0.16 =hfd05255_2
     - frozenlist =1.8.0 =py311hdf60d3a_0
     - fzf =0.74.3 =h11686cb_1
     - glib =2.88.3 =h2e94c43_2
@@ -160,6 +160,7 @@ requirements:
     - liblzma =5.8.3 =hfd05255_1
     - libogg =1.3.5 =h2466b09_1
     - libpng =1.6.58 =hdc8cecf_1
+    - libpython =3.11.16 =hcc31f7b_2_cpython
     - libraqm =0.11.0 =h50d6d30_0
     - libsodium =1.0.22 =h6a83c73_2
     - libspatialindex =2.1.0 =h2854ae6_1
@@ -173,7 +174,7 @@ requirements:
     - libxcb =1.17.0 =h874e120_2
     - libxml2 =2.15.3 =h8ef44ab_1
     - libxml2-16 =2.15.3 =h3cfd58e_1
-    - libxslt =1.1.43 =h0fbe4c1_1
+    - libxslt =1.1.45 =ha5384fd_0
     - libzlib =1.3.2 =hfd05255_3
     - llvm-openmp =23.1.0 =h49e36cd_0
     - lsprotocol =2025.0.0 =pyhe01879c_0
@@ -217,7 +218,7 @@ requirements:
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py311h3f79411_0
     - psutil =7.2.2 =py311hf893f09_2
-    - pthread-stubs =0.4 =hba3369d_1003
+    - pthread-stubs =0.4 =hfa92662_1004
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycodestyle =2.12.1 =pyhd8ed1ab_1
