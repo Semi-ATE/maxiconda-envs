@@ -83,8 +83,8 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_4
     - backports.zoneinfo =0.2.1 =py38hb192615_8
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.2.0 =hf00d406_3
-    - brotli-bin =1.2.0 =he4a93e4_3
+    - brotli =1.2.0 =hf00d406_4
+    - brotli-bin =1.2.0 =he4a93e4_4
     - brotli-python =1.0.9 =py38h2b1e499_8
     - bwidget =1.10.1 =h820172f_3
     - bzip2 =1.0.8 =h4e30115_10
@@ -152,7 +152,7 @@ requirements:
     - gstreamer =1.26.11 =h087694b_0
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =14.4.0 =hce30654_0
+    - harfbuzz =14.4.0 =hce30654_1
     - hpack =4.0.0 =pyh9f0ad1d_0
     - httpcore =1.0.7 =pyh29332c3_1
     - httpx =0.27.2 =pyhd8ed1ab_0
@@ -189,9 +189,9 @@ requirements:
     - lerc =4.2.0 =h1eee2c3_0
     - libasprintf =0.25.1 =h493aca8_0
     - libblas =3.9.0 =20_osxarm64_openblas
-    - libbrotlicommon =1.2.0 =h1dcdb26_3
-    - libbrotlidec =1.2.0 =h5295a6a_3
-    - libbrotlienc =1.2.0 =h2ddc9cb_3
+    - libbrotlicommon =1.2.0 =h1dcdb26_4
+    - libbrotlidec =1.2.0 =h5295a6a_4
+    - libbrotlienc =1.2.0 =h2ddc9cb_4
     - libcblas =3.9.0 =20_osxarm64_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp23.1 =23.1.0 =default_h79071a4_1
@@ -214,8 +214,8 @@ requirements:
     - libgfortran =16.2.0 =h07b0088_4
     - libgfortran5 =16.2.0 =hdb7a957_4
     - libglib =2.88.3 =h89cd0c0_2
-    - libharfbuzz =14.4.0 =hcda0f7c_0
-    - libharfbuzz-devel =14.4.0 =hcda0f7c_0
+    - libharfbuzz =14.4.0 =hcda0f7c_1
+    - libharfbuzz-devel =14.4.0 =hcda0f7c_1
     - libiconv =1.18 =he4c29f2_3
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -269,7 +269,7 @@ requirements:
     - notebook-shim =0.2.4 =pyhd8ed1ab_0
     - nspr =4.40 =hdcbdcf5_0
     - nss =3.118 =h1c710a3_0
-    - openjpeg =2.5.4 =hd651e26_1
+    - openjpeg =2.5.4 =h4d1e80c_2
     - openldap =2.6.13 =hf7f56bc_0
     - openssl =3.6.4 =h55eecbc_0
     - overrides =7.7.0 =pyhd8ed1ab_0
@@ -341,7 +341,7 @@ requirements:
     - r-crayon =1.5.3 =r45hc72bb7e_2
     - r-crul =1.6.0 =r45hc72bb7e_1
     - r-curl =8.0.0 =r45h9932a2b_0
-    - r-data.table =1.18.4 =r45h73351a1_0
+    - r-data.table =1.18.6.1 =r45hadbbe95_0
     - r-dbi =1.3.0 =r45hc72bb7e_0
     - r-dbplyr =2.6.0 =r45hc72bb7e_0
     - r-diagram =1.6.5 =r45ha770c72_4
@@ -452,7 +452,7 @@ requirements:
     - r-reprex =2.1.1 =r45hc72bb7e_2
     - r-reshape2 =1.4.5 =r45hc1cd577_0
     - r-rlang =1.3.0 =r45h1380947_0
-    - r-rmarkdown =2.31 =r45hc72bb7e_0
+    - r-rmarkdown =2.32 =r45hacb3a79_0
     - r-rpart =4.1.27 =r45hbe92478_0
     - r-rstudioapi =0.19.0 =r45hc72bb7e_0
     - r-rvest =1.0.5 =r45hc72bb7e_1
@@ -468,7 +468,7 @@ requirements:
     - r-squarem =2026.1 =r45hc72bb7e_0
     - r-stringi =1.8.9 =r45h6b882aa_0
     - r-stringr =1.6.0 =r45h785f33e_0
-    - r-survival =3.8_9 =r45hbe92478_0
+    - r-survival =3.8_11 =r45h864cdf1_0
     - r-sys =3.4.3 =r45h6168396_1
     - r-systemfonts =1.3.2 =r45hff64bdd_0
     - r-textshaping =1.0.5 =r45hff64bdd_0

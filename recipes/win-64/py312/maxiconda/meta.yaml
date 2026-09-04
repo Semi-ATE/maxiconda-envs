@@ -71,7 +71,7 @@ requirements:
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - annotated-types =0.8.0 =pyhd8ed1ab_0
-    - anyio =4.14.2 =pyhcf101f3_0
+    - anyio =4.15.0 =pyh5ded981_0
     - archspec =0.2.5 =pyhd8ed1ab_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =26.1.0 =py312he06e257_1
@@ -85,9 +85,9 @@ requirements:
     - bleach =6.4.0 =pyhcf101f3_0
     - bleach-with-css =6.4.0 =hac0b51c_0
     - boltons =26.1.0 =pyhd8ed1ab_0
-    - brotli =1.2.0 =hc8c2fe1_3
-    - brotli-bin =1.2.0 =hd477307_3
-    - brotli-python =1.2.0 =py312ha763cb9_3
+    - brotli =1.2.0 =hc8c2fe1_4
+    - brotli-bin =1.2.0 =hd477307_4
+    - brotli-python =1.2.0 =py312ha763cb9_4
     - bwidget =1.10.1 =h11686cb_3
     - bzip2 =1.0.8 =h0ad9c76_10
     - ca-certificates =2026.7.22 =h4c7d964_0
@@ -95,7 +95,7 @@ requirements:
     - cached_property =2.0.1 =pyhcf101f3_0
     - cairo =1.18.4 =h477c42c_3
     - certifi =2026.7.22 =pyhd8ed1ab_0
-    - cffi =2.1.1 =py312he06e257_2
+    - cffi =2.1.1 =py312he06e257_3
     - charset-normalizer =3.5.1 =pyhd8ed1ab_0
     - click =8.4.1 =pyh6dadd2b_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
@@ -105,11 +105,11 @@ requirements:
     - conda-index =0.12.1 =pyhd8ed1ab_0
     - conda-libmamba-solver =26.7.0 =pyhcf101f3_0
     - conda-lockfiles =0.2.1 =pyhd8ed1ab_0
-    - conda-package-handling =2.5.0 =pyhcf101f3_0
+    - conda-package-handling =2.6.0 =pyh5ded981_0
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
     - conda-pypi =0.11.0 =py312h209ec74_1
     - conda-rattler-solver =0.1.1 =pyhcf101f3_0
-    - conda-recipe-manager =0.10.6 =pyhd8ed1ab_0
+    - conda-recipe-manager =0.10.6 =pyhd8ed1ab_1
     - conda-self =0.2.1 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py312h78d62e6_4
@@ -154,7 +154,7 @@ requirements:
     - gxx_impl_win-64 =16.2.0 =hdbe55fc_4
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
-    - harfbuzz =14.4.0 =h57928b3_0
+    - harfbuzz =14.4.0 =h57928b3_1
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -190,9 +190,9 @@ requirements:
     - lerc =4.2.0 =hd936e49_0
     - libarchive =3.8.9 =gpl_h8fdc8af_101
     - libblas =3.11.0 =10_h8455456_mkl
-    - libbrotlicommon =1.2.0 =hf02afa3_3
-    - libbrotlidec =1.2.0 =h84f9c24_3
-    - libbrotlienc =1.2.0 =he2a975b_3
+    - libbrotlicommon =1.2.0 =hf02afa3_4
+    - libbrotlidec =1.2.0 =h84f9c24_4
+    - libbrotlienc =1.2.0 =he2a975b_4
     - libcblas =3.11.0 =10_h2a3cdd5_mkl
     - libclang13 =23.1.0 =default_hacd6ee9_1
     - libcurl =8.22.0 =hdb0ef4a_0
@@ -207,8 +207,8 @@ requirements:
     - libgfortran5 =16.2.0 =h7c9de5e_4
     - libglib =2.88.3 =he810d59_2
     - libgomp =16.2.0 =h8ee18e1_4
-    - libharfbuzz =14.4.0 =h03b5201_0
-    - libharfbuzz-devel =14.4.0 =h03b5201_0
+    - libharfbuzz =14.4.0 =h03b5201_1
+    - libharfbuzz-devel =14.4.0 =h03b5201_1
     - libhwloc =2.13.0 =default_h049141e_1000
     - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_4
@@ -270,7 +270,7 @@ requirements:
     - nlohmann_json-abi =3.12.0 =h0f90c79_2
     - notebook =7.6.2 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
-    - openjpeg =2.5.4 =h0e57b4f_1
+    - openjpeg =2.5.4 =h90fa87c_2
     - openssl =3.6.4 =hf411b9b_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
@@ -346,7 +346,7 @@ requirements:
     - r-crayon =1.5.3 =r45hc72bb7e_2
     - r-crul =1.6.0 =r45hc72bb7e_1
     - r-curl =8.0.0 =r45ha6d7758_0
-    - r-data.table =1.18.4 =r45hd74d807_0
+    - r-data.table =1.18.6.1 =r45h5c0a047_0
     - r-dbi =1.3.0 =r45hc72bb7e_0
     - r-dbplyr =2.6.0 =r45hc72bb7e_0
     - r-diagram =1.6.5 =r45ha770c72_4
@@ -457,7 +457,7 @@ requirements:
     - r-reprex =2.1.1 =r45hc72bb7e_2
     - r-reshape2 =1.4.5 =r45hd8a2815_0
     - r-rlang =1.3.0 =r45hd8a2815_0
-    - r-rmarkdown =2.31 =r45hc72bb7e_0
+    - r-rmarkdown =2.32 =r45hacb3a79_0
     - r-rpart =4.1.27 =r45heceb674_0
     - r-rstudioapi =0.19.0 =r45hc72bb7e_0
     - r-rvest =1.0.5 =r45hc72bb7e_1
@@ -473,7 +473,7 @@ requirements:
     - r-squarem =2026.1 =r45hc72bb7e_0
     - r-stringi =1.8.9 =r45hd8a2815_0
     - r-stringr =1.6.0 =r45h785f33e_0
-    - r-survival =3.8_9 =r45h2a2a84f_0
+    - r-survival =3.8_11 =r45ha31549c_0
     - r-sys =3.4.3 =r45heceb674_1
     - r-systemfonts =1.3.2 =r45h295cb35_0
     - r-textshaping =1.0.5 =r45h295cb35_0
@@ -509,12 +509,12 @@ requirements:
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
     - rpds-py =2026.6.3 =py312hdabe01f_1
     - ruamel.yaml =0.18.17 =py312he5662c2_2
-    - ruamel.yaml.clib =0.2.15 =py312he5662c2_3
+    - ruamel.yaml.clib =0.2.15 =py312he5662c2_4
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-pc-windows-msvc =1.98.0 =h17fc481_0
     - send2trash =2.1.0 =pyh6dadd2b_1
     - setuptools =84.0.0 =pyh332efcf_0
-    - simdjson =4.6.9 =h477610d_0
+    - simdjson =4.6.10 =h477610d_0
     - sip =6.10.0 =py312hbb81ca0_1
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.3 =pyhcf101f3_1

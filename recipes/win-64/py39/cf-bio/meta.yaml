@@ -40,8 +40,8 @@ requirements:
     - _openmp_mutex =4.5 =20_gnu
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - blosc =1.21.6 =hfd34d9b_1
-    - brotli =1.2.0 =hc8c2fe1_3
-    - brotli-bin =1.2.0 =hd477307_3
+    - brotli =1.2.0 =hc8c2fe1_4
+    - brotli-bin =1.2.0 =hd477307_4
     - bzip2 =1.0.8 =h0ad9c76_10
     - ca-certificates =2026.7.22 =h4c7d964_0
     - cached-property =1.5.2 =hd8ed1ab_2
@@ -104,9 +104,9 @@ requirements:
     - libblas =3.11.0 =6_hf2e6a31_mkl
     - libboost =1.86.0 =h9dfe17d_5
     - libboost-python =1.86.0 =py39h8f1c5a3_3
-    - libbrotlicommon =1.2.0 =hf02afa3_3
-    - libbrotlidec =1.2.0 =h84f9c24_3
-    - libbrotlienc =1.2.0 =he2a975b_3
+    - libbrotlicommon =1.2.0 =hf02afa3_4
+    - libbrotlidec =1.2.0 =h84f9c24_4
+    - libbrotlienc =1.2.0 =he2a975b_4
     - libcblas =3.11.0 =6_h2a3cdd5_mkl
     - libclang13 =22.1.8 =default_ha2db4b5_2
     - libcurl =8.18.0 =h43ecb02_0
@@ -156,7 +156,7 @@ requirements:
     - netcdf4 =1.7.2 =nompi_py39h38b60f6_102
     - networkx =3.2.1 =pyhd8ed1ab_0
     - onemkl-license =2025.3.1 =h57928b3_13
-    - openjpeg =2.5.4 =h0e57b4f_1
+    - openjpeg =2.5.4 =h90fa87c_2
     - openssl =3.6.4 =hf411b9b_0
     - packaging =26.3 =pyhc364b38_0
     - parso =0.8.4 =pyhd8ed1ab_1

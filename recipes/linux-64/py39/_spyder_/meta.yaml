@@ -59,9 +59,9 @@ requirements:
     - black =25.1.0 =pyha5154f8_0
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.1.0 =hb9d3cd8_3
-    - brotli-bin =1.1.0 =hb9d3cd8_3
-    - brotli-python =1.1.0 =py39hf88036b_3
+    - brotli =1.2.0 =h505cf86_4
+    - brotli-bin =1.2.0 =h9908984_4
+    - brotli-python =1.0.9 =py39h5a03fae_8
     - bzip2 =1.0.8 =hda65f42_10
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cairo =1.18.4 =h3394656_0
@@ -148,12 +148,12 @@ requirements:
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_102
     - lerc =4.2.0 =hdb68285_0
     - libblas =3.11.0 =10_h4a7cf45_openblas
-    - libbrotlicommon =1.1.0 =hb9d3cd8_3
-    - libbrotlidec =1.1.0 =hb9d3cd8_3
-    - libbrotlienc =1.1.0 =hb9d3cd8_3
+    - libbrotlicommon =1.2.0 =h39a168f_4
+    - libbrotlidec =1.2.0 =ha411449_4
+    - libbrotlienc =1.2.0 =h018ffa1_4
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =10_h0358290_openblas
-    - libclang-cpp20.1 =20.1.8 =default_h99862b1_16
+    - libclang-cpp20.1 =20.1.8 =default_hc302687_17
     - libclang13 =21.1.0 =default_h746c552_1
     - libcups =2.3.3 =hb8b1518_5
     - libdeflate =1.25 =hd45a770_1
@@ -236,7 +236,7 @@ requirements:
     - nspr =4.40 =h29cc59b_0
     - nss =3.118 =h445c969_0
     - numpydoc =1.9.0 =pyhe01879c_1
-    - openjpeg =2.5.4 =h55e1f5c_1
+    - openjpeg =2.5.4 =heb1ab33_2
     - openldap =2.6.10 =he970967_0
     - openssl =3.6.4 =h781a0a9_0
     - packaging =26.3 =pyhc364b38_0

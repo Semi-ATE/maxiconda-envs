@@ -59,15 +59,15 @@ requirements:
     - black =26.5.1 =pyh866005b_0
     - bleach =6.4.0 =pyhcf101f3_0
     - bleach-with-css =6.4.0 =hac0b51c_0
-    - brotli =1.2.0 =ha9642f3_3
-    - brotli-bin =1.2.0 =h086410e_3
-    - brotli-python =1.2.0 =py311hd084d1d_3
+    - brotli =1.2.0 =ha9642f3_4
+    - brotli-bin =1.2.0 =h086410e_4
+    - brotli-python =1.2.0 =py311hd084d1d_4
     - bzip2 =1.0.8 =h374f1ed_10
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cairo =1.18.4 =h5791faa_3
     - cattrs =26.1.0 =pyhcf101f3_1
     - certifi =2026.7.22 =pyhd8ed1ab_0
-    - cffi =2.1.1 =py311ha57a2f8_2
+    - cffi =2.1.1 =py311ha57a2f8_3
     - chardet =7.6.0 =py311h679fcff_1
     - charset-normalizer =3.5.1 =pyhd8ed1ab_0
     - click =8.4.2 =pyhc90fa1f_0
@@ -142,9 +142,9 @@ requirements:
     - lcms2 =2.19.1 =h4e6bd4b_2
     - lerc =4.2.0 =h35c7297_0
     - libblas =3.11.0 =10_he492b99_openblas
-    - libbrotlicommon =1.2.0 =he0616a4_3
-    - libbrotlidec =1.2.0 =h4a2f56c_3
-    - libbrotlienc =1.2.0 =h3d41943_3
+    - libbrotlicommon =1.2.0 =he0616a4_4
+    - libbrotlidec =1.2.0 =h4a2f56c_4
+    - libbrotlienc =1.2.0 =h3d41943_4
     - libcblas =3.11.0 =10_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
     - libclang-cpp23.1 =23.1.0 =default_h6e863b9_1
@@ -160,7 +160,7 @@ requirements:
     - libgfortran =16.2.0 =h7e5c614_4
     - libgfortran5 =16.2.0 =h2539e6c_4
     - libglib =2.88.3 =hf4b7cfa_2
-    - libharfbuzz =14.4.0 =h2974713_0
+    - libharfbuzz =14.4.0 =h2974713_1
     - libiconv =1.18 =h4ae439b_3
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
@@ -293,7 +293,7 @@ requirements:
     - rope =1.14.0 =pyh5ded981_1
     - rpds-py =2026.6.3 =py311he180d86_1
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.16.5 =h08e744f_0
+    - ruff =0.16.6 =haa00350_0
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.10.0 =py311h11ccb26_1
     - six =1.17.0 =pyhe01879c_1

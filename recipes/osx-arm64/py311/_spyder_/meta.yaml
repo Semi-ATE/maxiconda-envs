@@ -59,15 +59,15 @@ requirements:
     - black =26.5.1 =pyh866005b_0
     - bleach =6.4.0 =pyhcf101f3_0
     - bleach-with-css =6.4.0 =hac0b51c_0
-    - brotli =1.2.0 =hf00d406_3
-    - brotli-bin =1.2.0 =he4a93e4_3
-    - brotli-python =1.2.0 =py311h9fb86b2_3
+    - brotli =1.2.0 =hf00d406_4
+    - brotli-bin =1.2.0 =he4a93e4_4
+    - brotli-python =1.2.0 =py311h9fb86b2_4
     - bzip2 =1.0.8 =h4e30115_10
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cairo =1.18.4 =h580cee5_3
     - cattrs =26.1.0 =pyhcf101f3_1
     - certifi =2026.7.22 =pyhd8ed1ab_0
-    - cffi =2.1.1 =py311h2e98d63_2
+    - cffi =2.1.1 =py311h2e98d63_3
     - chardet =7.6.0 =py311h22f30de_1
     - charset-normalizer =3.5.1 =pyhd8ed1ab_0
     - click =8.4.2 =pyhc90fa1f_0
@@ -142,9 +142,9 @@ requirements:
     - lcms2 =2.19.1 =hce41798_2
     - lerc =4.2.0 =h1eee2c3_0
     - libblas =3.11.0 =10_h51639a9_openblas
-    - libbrotlicommon =1.2.0 =h1dcdb26_3
-    - libbrotlidec =1.2.0 =h5295a6a_3
-    - libbrotlienc =1.2.0 =h2ddc9cb_3
+    - libbrotlicommon =1.2.0 =h1dcdb26_4
+    - libbrotlidec =1.2.0 =h5295a6a_4
+    - libbrotlienc =1.2.0 =h2ddc9cb_4
     - libcblas =3.11.0 =10_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp23.1 =23.1.0 =default_h79071a4_1
@@ -160,7 +160,7 @@ requirements:
     - libgfortran =16.2.0 =h07b0088_4
     - libgfortran5 =16.2.0 =hdb7a957_4
     - libglib =2.88.3 =h89cd0c0_2
-    - libharfbuzz =14.4.0 =hcda0f7c_0
+    - libharfbuzz =14.4.0 =hcda0f7c_1
     - libiconv =1.18 =he4c29f2_3
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -214,7 +214,7 @@ requirements:
     - nspr =4.40 =hdcbdcf5_0
     - nss =3.118 =h1c710a3_0
     - numpydoc =1.10.0 =pyhcf101f3_0
-    - openjpeg =2.5.4 =hd651e26_1
+    - openjpeg =2.5.4 =h4d1e80c_2
     - openldap =2.6.13 =hf7f56bc_0
     - openssl =3.6.4 =h55eecbc_0
     - packaging =26.3 =pyhc364b38_0
@@ -293,7 +293,7 @@ requirements:
     - rope =1.14.0 =pyh5ded981_1
     - rpds-py =2026.6.3 =py311hcfb3d13_1
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.16.5 =h4e39fff_0
+    - ruff =0.16.6 =h7f187d3_0
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.16.0 =py311h8325047_0
     - six =1.17.0 =pyhe01879c_1

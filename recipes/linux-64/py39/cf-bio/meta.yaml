@@ -41,8 +41,8 @@ requirements:
     - alsa-lib =1.2.16.1 =h7cc23a3_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - blosc =1.21.6 =he440d0b_1
-    - brotli =1.2.0 =h505cf86_3
-    - brotli-bin =1.2.0 =h9908984_3
+    - brotli =1.2.0 =h505cf86_4
+    - brotli-bin =1.2.0 =h9908984_4
     - bzip2 =1.0.8 =hda65f42_10
     - c-ares =1.34.8 =hebe6cf0_2
     - ca-certificates =2026.7.22 =hbd8a1cb_0
@@ -110,12 +110,12 @@ requirements:
     - libblas =3.11.0 =10_h4a7cf45_openblas
     - libboost =1.86.0 =hed09d94_4
     - libboost-python =1.86.0 =py39hf59e57a_3
-    - libbrotlicommon =1.2.0 =h39a168f_3
-    - libbrotlidec =1.2.0 =ha411449_3
-    - libbrotlienc =1.2.0 =h018ffa1_3
+    - libbrotlicommon =1.2.0 =h39a168f_4
+    - libbrotlidec =1.2.0 =ha411449_4
+    - libbrotlienc =1.2.0 =h018ffa1_4
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =10_h0358290_openblas
-    - libclang-cpp20.1 =20.1.8 =default_h99862b1_16
+    - libclang-cpp20.1 =20.1.8 =default_hc302687_17
     - libclang13 =21.1.0 =default_h746c552_1
     - libcups =2.3.3 =hb8b1518_5
     - libcurl =8.18.0 =h4e3cde8_0
@@ -192,7 +192,7 @@ requirements:
     - networkx =3.2.1 =pyhd8ed1ab_0
     - nspr =4.40 =h29cc59b_0
     - nss =3.118 =h445c969_0
-    - openjpeg =2.5.4 =h55e1f5c_1
+    - openjpeg =2.5.4 =heb1ab33_2
     - openldap =2.6.10 =he970967_0
     - openssl =3.6.4 =h781a0a9_0
     - packaging =26.3 =pyhc364b38_0

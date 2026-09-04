@@ -82,8 +82,8 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_4
     - backports.zoneinfo =0.2.1 =py38h91455d4_8
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.2.0 =hc8c2fe1_3
-    - brotli-bin =1.2.0 =hd477307_3
+    - brotli =1.2.0 =hc8c2fe1_4
+    - brotli-bin =1.2.0 =hd477307_4
     - brotli-python =1.0.9 =py38hd3f51b4_8
     - bzip2 =1.0.8 =h0ad9c76_10
     - ca-certificates =2026.7.22 =h4c7d964_0
@@ -128,7 +128,7 @@ requirements:
     - gstreamer =1.26.11 =hae9036a_0
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =14.4.0 =h57928b3_0
+    - harfbuzz =14.4.0 =h57928b3_1
     - hpack =4.0.0 =pyh9f0ad1d_0
     - httpcore =1.0.7 =pyh29332c3_1
     - httpx =0.27.2 =pyhd8ed1ab_0
@@ -162,9 +162,9 @@ requirements:
     - lcms2 =2.19.1 =hf2c6c5f_2
     - lerc =4.2.0 =hd936e49_0
     - libblas =3.9.0 =35_h5709861_mkl
-    - libbrotlicommon =1.2.0 =hf02afa3_3
-    - libbrotlidec =1.2.0 =h84f9c24_3
-    - libbrotlienc =1.2.0 =he2a975b_3
+    - libbrotlicommon =1.2.0 =hf02afa3_4
+    - libbrotlidec =1.2.0 =h84f9c24_4
+    - libbrotlienc =1.2.0 =he2a975b_4
     - libcblas =3.9.0 =35_h2a3cdd5_mkl
     - libclang13 =23.1.0 =default_hacd6ee9_1
     - libdeflate =1.25 =h1a1d4e4_1
@@ -173,8 +173,8 @@ requirements:
     - libfreetype =2.14.3 =h57928b3_2
     - libfreetype6 =2.14.3 =hdbac1cb_2
     - libglib =2.88.3 =he810d59_2
-    - libharfbuzz =14.4.0 =h03b5201_0
-    - libharfbuzz-devel =14.4.0 =h03b5201_0
+    - libharfbuzz =14.4.0 =h03b5201_1
+    - libharfbuzz-devel =14.4.0 =h03b5201_1
     - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_4
     - libintl-devel =0.22.5 =h5728263_4
@@ -241,7 +241,7 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - notebook =7.2.2 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_0
-    - openjpeg =2.5.4 =h0e57b4f_1
+    - openjpeg =2.5.4 =h90fa87c_2
     - openssl =3.6.4 =hf411b9b_0
     - overrides =7.7.0 =pyhd8ed1ab_0
     - packaging =26.2 =pyhc364b38_0

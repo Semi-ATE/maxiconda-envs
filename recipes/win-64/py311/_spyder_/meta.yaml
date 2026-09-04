@@ -58,15 +58,15 @@ requirements:
     - black =26.5.1 =pyh866005b_0
     - bleach =6.3.0 =pyhcf101f3_0
     - bleach-with-css =6.3.0 =h5f6438b_0
-    - brotli =1.2.0 =hc8c2fe1_3
-    - brotli-bin =1.2.0 =hd477307_3
-    - brotli-python =1.2.0 =py311h7862a2f_3
+    - brotli =1.2.0 =hc8c2fe1_4
+    - brotli-bin =1.2.0 =hd477307_4
+    - brotli-python =1.2.0 =py311h7862a2f_4
     - bzip2 =1.0.8 =h0ad9c76_10
     - ca-certificates =2026.7.22 =h4c7d964_0
     - cairo =1.18.4 =h477c42c_3
     - cattrs =26.1.0 =pyhcf101f3_1
     - certifi =2026.7.22 =pyhd8ed1ab_0
-    - cffi =2.1.1 =py311h3485c13_2
+    - cffi =2.1.1 =py311h3485c13_3
     - chardet =7.6.0 =py311h5b24874_1
     - charset-normalizer =3.5.1 =pyhd8ed1ab_0
     - click =8.4.2 =pyh6dadd2b_0
@@ -137,9 +137,9 @@ requirements:
     - lcms2 =2.19.1 =hf2c6c5f_2
     - lerc =4.2.0 =hd936e49_0
     - libblas =3.11.0 =10_h8455456_mkl
-    - libbrotlicommon =1.2.0 =hf02afa3_3
-    - libbrotlidec =1.2.0 =h84f9c24_3
-    - libbrotlienc =1.2.0 =he2a975b_3
+    - libbrotlicommon =1.2.0 =hf02afa3_4
+    - libbrotlidec =1.2.0 =h84f9c24_4
+    - libbrotlienc =1.2.0 =he2a975b_4
     - libcblas =3.11.0 =10_h2a3cdd5_mkl
     - libclang13 =23.1.0 =default_hacd6ee9_1
     - libdeflate =1.25 =h1a1d4e4_1
@@ -150,7 +150,7 @@ requirements:
     - libgcc =16.2.0 =h110b43a_4
     - libglib =2.88.3 =he810d59_2
     - libgomp =16.2.0 =h8ee18e1_4
-    - libharfbuzz =14.4.0 =h03b5201_0
+    - libharfbuzz =14.4.0 =h03b5201_1
     - libhwloc =2.13.0 =default_h049141e_1000
     - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_4
@@ -198,7 +198,7 @@ requirements:
     - nbformat =5.11.1 =pyhcf101f3_0
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - numpydoc =1.10.0 =pyhcf101f3_0
-    - openjpeg =2.5.4 =h0e57b4f_1
+    - openjpeg =2.5.4 =h90fa87c_2
     - openssl =3.6.4 =hf411b9b_0
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.11 =h57928b3_0
@@ -273,7 +273,7 @@ requirements:
     - rope =1.14.0 =pyh5ded981_1
     - rpds-py =2026.6.3 =py311hf51aa87_1
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.16.5 =h6bcfbb0_0
+    - ruff =0.16.6 =hcc30601_0
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.10.0 =py311h3e6a449_1
     - six =1.17.0 =pyhe01879c_1

@@ -75,8 +75,8 @@ requirements:
     - bcrypt =4.3.0 =py39h95bb58a_1
     - blinker =1.9.0 =pyhff2d567_0
     - bottleneck =1.5.0 =py39h4b0a98a_0
-    - brotli =1.2.0 =hc8c2fe1_3
-    - brotli-bin =1.2.0 =hd477307_3
+    - brotli =1.2.0 =hc8c2fe1_4
+    - brotli-bin =1.2.0 =hd477307_4
     - brotli-python =1.0.9 =py39h99910a6_8
     - bzip2 =1.0.8 =h0ad9c76_10
     - c-ares =1.34.8 =h6a83c73_2
@@ -202,9 +202,9 @@ requirements:
     - libarrow-substrait =20.0.0 =hf865cc0_34_cpu
     - libblas =3.11.0 =10_h0adab6e_openblas
     - libboost =1.88.0 =h9dfe17d_7
-    - libbrotlicommon =1.2.0 =hf02afa3_3
-    - libbrotlidec =1.2.0 =h84f9c24_3
-    - libbrotlienc =1.2.0 =he2a975b_3
+    - libbrotlicommon =1.2.0 =hf02afa3_4
+    - libbrotlidec =1.2.0 =h84f9c24_4
+    - libbrotlienc =1.2.0 =he2a975b_4
     - libcblas =3.11.0 =10_h2a8eebe_openblas
     - libclang13 =22.1.8 =default_ha2db4b5_2
     - libcrc32c =1.1.2 =h0e60522_0
@@ -279,7 +279,7 @@ requirements:
     - numba =0.60.0 =py39h5dcb127_0
     - numexpr =2.10.2 =py39h545706d_100
     - opencl-headers =2025.06.13 =h826ebb9_0
-    - openjpeg =2.5.4 =h0e57b4f_1
+    - openjpeg =2.5.4 =h90fa87c_2
     - openssl =3.6.4 =hf411b9b_0
     - opentelemetry-api =1.36.0 =pyhd8ed1ab_0
     - opentelemetry-sdk =1.36.0 =pyhd8ed1ab_0

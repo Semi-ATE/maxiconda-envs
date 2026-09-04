@@ -60,8 +60,8 @@ requirements:
     - black =25.1.0 =pyha5154f8_0
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.2.0 =hf00d406_3
-    - brotli-bin =1.2.0 =he4a93e4_3
+    - brotli =1.2.0 =hf00d406_4
+    - brotli-bin =1.2.0 =he4a93e4_4
     - brotli-python =1.0.9 =py39h23fbdae_8
     - bzip2 =1.0.8 =h4e30115_10
     - ca-certificates =2026.7.22 =hbd8a1cb_0
@@ -142,9 +142,9 @@ requirements:
     - lcms2 =2.19.1 =hce41798_2
     - lerc =4.2.0 =h1eee2c3_0
     - libblas =3.11.0 =10_h51639a9_openblas
-    - libbrotlicommon =1.2.0 =h1dcdb26_3
-    - libbrotlidec =1.2.0 =h5295a6a_3
-    - libbrotlienc =1.2.0 =h2ddc9cb_3
+    - libbrotlicommon =1.2.0 =h1dcdb26_4
+    - libbrotlidec =1.2.0 =h5295a6a_4
+    - libbrotlienc =1.2.0 =h2ddc9cb_4
     - libcblas =3.11.0 =10_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp23.1 =23.1.0 =default_h79071a4_1
@@ -160,7 +160,7 @@ requirements:
     - libgfortran =16.2.0 =h07b0088_4
     - libgfortran5 =16.2.0 =hdb7a957_4
     - libglib =2.88.3 =h89cd0c0_2
-    - libharfbuzz =14.4.0 =hcda0f7c_0
+    - libharfbuzz =14.4.0 =hcda0f7c_1
     - libiconv =1.18 =he4c29f2_3
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
@@ -211,7 +211,7 @@ requirements:
     - nspr =4.40 =hdcbdcf5_0
     - nss =3.118 =h1c710a3_0
     - numpydoc =1.9.0 =pyhe01879c_1
-    - openjpeg =2.5.4 =hd651e26_1
+    - openjpeg =2.5.4 =h4d1e80c_2
     - openldap =2.6.10 =hbe55e7a_0
     - openssl =3.6.4 =h55eecbc_0
     - packaging =26.3 =pyhc364b38_0

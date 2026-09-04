@@ -64,14 +64,14 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 530 secondary packages :
+    # 529 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alsa-lib =1.2.16.1 =h5bc82ec_1
     - annotated-types =0.8.0 =pyhd8ed1ab_0
-    - anyio =4.14.2 =pyhcf101f3_0
+    - anyio =4.15.0 =pyh5ded981_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =26.1.0 =py311h59b26c8_1
     - arrow =1.4.0 =pyhcf101f3_0
@@ -84,9 +84,9 @@ requirements:
     - binutils_linux-aarch64 =2.46.1 =default_hf1166c9_102
     - bleach =6.4.0 =pyhcf101f3_0
     - bleach-with-css =6.4.0 =hac0b51c_0
-    - brotli =1.2.0 =h52fc18c_3
-    - brotli-bin =1.2.0 =hdc3483e_3
-    - brotli-python =1.2.0 =py311hf1a560e_3
+    - brotli =1.2.0 =h52fc18c_4
+    - brotli-bin =1.2.0 =hdc3483e_4
+    - brotli-python =1.2.0 =py311hf1a560e_4
     - bwidget =1.10.1 =h22914b5_3
     - bzip2 =1.0.8 =h4777abc_10
     - c-ares =1.34.8 =h29ee22c_2
@@ -95,16 +95,16 @@ requirements:
     - cached_property =2.0.1 =pyhcf101f3_0
     - cairo =1.18.4 =hca320e2_3
     - certifi =2026.7.22 =pyhd8ed1ab_0
-    - cffi =2.1.1 =py311hc2bebf7_2
+    - cffi =2.1.1 =py311hc2bebf7_3
     - charset-normalizer =3.5.1 =pyhd8ed1ab_0
     - click =8.4.1 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
     - conda =22.9.0 =py311hec3470c_2
-    - conda-package-handling =2.5.0 =pyhcf101f3_0
+    - conda-package-handling =2.6.0 =pyh5ded981_0
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
-    - conda-recipe-manager =0.10.6 =pyhd8ed1ab_0
+    - conda-recipe-manager =0.10.6 =pyhd8ed1ab_1
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h04741b4_4
     - cpython =3.11.16 =py311hd8ed1ab_2
@@ -150,7 +150,7 @@ requirements:
     - gxx_linux-aarch64 =16.2.0 =h6eb44ee_1
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
-    - harfbuzz =14.4.0 =h8af1aa0_0
+    - harfbuzz =14.4.0 =h8af1aa0_1
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -188,9 +188,9 @@ requirements:
     - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_102
     - lerc =4.2.0 =h52b7260_0
     - libblas =3.11.0 =10_haddc8a3_openblas
-    - libbrotlicommon =1.2.0 =h384ecca_3
-    - libbrotlidec =1.2.0 =h011f0d3_3
-    - libbrotlienc =1.2.0 =hb247b97_3
+    - libbrotlicommon =1.2.0 =h384ecca_4
+    - libbrotlidec =1.2.0 =h011f0d3_4
+    - libbrotlienc =1.2.0 =hb247b97_4
     - libcap =2.78 =hfcc8634_1
     - libcblas =3.11.0 =10_hd72aa62_openblas
     - libclang-cpp22.1 =22.1.8 =default_h01b09c7_10
@@ -222,8 +222,8 @@ requirements:
     - libglx =1.7.0 =hd24410f_5
     - libglx-devel =1.7.0 =hd24410f_5
     - libgomp =16.2.0 =h8acb6b2_4
-    - libharfbuzz =14.4.0 =h8f7ccb3_0
-    - libharfbuzz-devel =14.4.0 =h8f7ccb3_0
+    - libharfbuzz =14.4.0 =h8f7ccb3_1
+    - libharfbuzz-devel =14.4.0 =h8f7ccb3_1
     - libiconv =1.18 =h1ea5142_3
     - libjpeg-turbo =3.2.0 =he30d5cf_1
     - liblapack =3.11.0 =10_h88aeb00_openblas
@@ -286,7 +286,7 @@ requirements:
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.40 =h3ad9384_0
     - nss =3.118 =h544fa81_0
-    - openjpeg =2.5.4 =hd0f09ae_1
+    - openjpeg =2.5.4 =h504851f_2
     - openldap =2.6.13 =h2fb54aa_0
     - openssl =3.6.4 =he6ad1d5_0
     - overrides =7.7.0 =pyhd8ed1ab_1
@@ -360,7 +360,7 @@ requirements:
     - r-crayon =1.5.3 =r45hc72bb7e_2
     - r-crul =1.6.0 =r45hc72bb7e_1
     - r-curl =8.0.0 =r45h8bd0e92_0
-    - r-data.table =1.18.4 =r45hbf3bb9c_0
+    - r-data.table =1.18.6.1 =r45h8e6e20a_0
     - r-dbi =1.3.0 =r45hc72bb7e_0
     - r-dbplyr =2.6.0 =r45hc72bb7e_0
     - r-diagram =1.6.5 =r45ha770c72_4
@@ -471,7 +471,7 @@ requirements:
     - r-reprex =2.1.1 =r45hc72bb7e_2
     - r-reshape2 =1.4.5 =r45h08b74da_0
     - r-rlang =1.3.0 =r45h08b74da_0
-    - r-rmarkdown =2.31 =r45hc72bb7e_0
+    - r-rmarkdown =2.32 =r45hacb3a79_0
     - r-rpart =4.1.27 =r45h0557e7b_0
     - r-rstudioapi =0.19.0 =r45hc72bb7e_0
     - r-rvest =1.0.5 =r45hc72bb7e_1
@@ -487,7 +487,7 @@ requirements:
     - r-squarem =2026.1 =r45hc72bb7e_0
     - r-stringi =1.8.9 =r45h1ddd0e6_0
     - r-stringr =1.6.0 =r45h785f33e_0
-    - r-survival =3.8_9 =r45h0557e7b_0
+    - r-survival =3.8_11 =r45h3cbd8c2_0
     - r-sys =3.4.3 =r45h0557e7b_1
     - r-systemfonts =1.3.2 =r45h8cf6c7d_0
     - r-textshaping =1.0.5 =r45h8cf6c7d_0
@@ -587,13 +587,12 @@ requirements:
     - xorg-libxt =1.3.1 =h5bc82ec_1
     - xorg-libxtst =1.2.5 =h5bc82ec_4
     - xorg-libxxf86vm =1.1.7 =he30d5cf_0
-    - xorg-xorgproto =2025.1 =h80f16a2_1
+    - xorg-xorgproto =2025.1 =h29ee22c_2
     - yaml =0.2.5 =h29ee22c_3
     - yarl =1.24.5 =py311h164a683_0
     - zeromq =4.3.5 =hec9560f_11
     - zipp =4.1.0 =pyhcf101f3_0
     - zlib-ng =2.3.3 =h1024f78_1
-    - zstandard =0.25.0 =py311h0de9f98_3
     - zstd =1.5.7 =h9d15635_7
 
 about:

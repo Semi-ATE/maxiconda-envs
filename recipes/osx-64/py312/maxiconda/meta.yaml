@@ -71,7 +71,7 @@ requirements:
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - annotated-types =0.8.0 =pyhd8ed1ab_0
-    - anyio =4.14.2 =pyhcf101f3_0
+    - anyio =4.15.0 =pyh5ded981_0
     - appnope =1.0.0 =pyhcf101f3_0
     - archspec =0.2.5 =pyhd8ed1ab_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
@@ -85,9 +85,9 @@ requirements:
     - bleach =6.4.0 =pyhcf101f3_0
     - bleach-with-css =6.4.0 =hac0b51c_0
     - boltons =26.1.0 =pyhd8ed1ab_0
-    - brotli =1.2.0 =ha9642f3_3
-    - brotli-bin =1.2.0 =h086410e_3
-    - brotli-python =1.2.0 =py312h521c6ff_3
+    - brotli =1.2.0 =ha9642f3_4
+    - brotli-bin =1.2.0 =h086410e_4
+    - brotli-python =1.2.0 =py312h521c6ff_4
     - bwidget =1.10.1 =h8822bef_3
     - bzip2 =1.0.8 =h374f1ed_10
     - c-ares =1.34.8 =had63097_2
@@ -120,11 +120,11 @@ requirements:
     - conda-index =0.12.1 =pyhd8ed1ab_0
     - conda-libmamba-solver =26.7.0 =pyhcf101f3_0
     - conda-lockfiles =0.2.1 =pyhd8ed1ab_0
-    - conda-package-handling =2.5.0 =pyhcf101f3_0
+    - conda-package-handling =2.6.0 =pyh5ded981_0
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
     - conda-pypi =0.11.0 =py312hc2fe966_1
     - conda-rattler-solver =0.1.1 =pyhcf101f3_0
-    - conda-recipe-manager =0.10.6 =pyhd8ed1ab_0
+    - conda-recipe-manager =0.10.6 =pyhd8ed1ab_1
     - conda-self =0.2.1 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py312hb0c38da_4
@@ -170,7 +170,7 @@ requirements:
     - gstreamer =1.26.11 =h5bdcca5_0
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
-    - harfbuzz =14.4.0 =h694c41f_0
+    - harfbuzz =14.4.0 =h694c41f_1
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -208,9 +208,9 @@ requirements:
     - libarchive =3.8.9 =gpl_h381e297_101
     - libasprintf =0.25.1 =h3184127_1
     - libblas =3.11.0 =10_he492b99_openblas
-    - libbrotlicommon =1.2.0 =he0616a4_3
-    - libbrotlidec =1.2.0 =h4a2f56c_3
-    - libbrotlienc =1.2.0 =h3d41943_3
+    - libbrotlicommon =1.2.0 =he0616a4_4
+    - libbrotlidec =1.2.0 =h4a2f56c_4
+    - libbrotlienc =1.2.0 =h3d41943_4
     - libcblas =3.11.0 =10_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
     - libclang-cpp23.1 =23.1.0 =default_h6e863b9_1
@@ -233,8 +233,8 @@ requirements:
     - libgfortran =16.2.0 =h7e5c614_4
     - libgfortran5 =16.2.0 =h2539e6c_4
     - libglib =2.88.3 =hf4b7cfa_2
-    - libharfbuzz =14.4.0 =h2974713_0
-    - libharfbuzz-devel =14.4.0 =h2974713_0
+    - libharfbuzz =14.4.0 =h2974713_1
+    - libharfbuzz-devel =14.4.0 =h2974713_1
     - libiconv =1.18 =h4ae439b_3
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
@@ -376,7 +376,7 @@ requirements:
     - r-crayon =1.5.3 =r45hc72bb7e_2
     - r-crul =1.6.0 =r45hc72bb7e_1
     - r-curl =8.0.0 =r45hd029b9b_0
-    - r-data.table =1.18.4 =r45h37ac33b_0
+    - r-data.table =1.18.6.1 =r45haf3b83f_0
     - r-dbi =1.3.0 =r45hc72bb7e_0
     - r-dbplyr =2.6.0 =r45hc72bb7e_0
     - r-diagram =1.6.5 =r45ha770c72_4
@@ -487,7 +487,7 @@ requirements:
     - r-reprex =2.1.1 =r45hc72bb7e_2
     - r-reshape2 =1.4.5 =r45ha730edb_0
     - r-rlang =1.3.0 =r45h384437d_0
-    - r-rmarkdown =2.31 =r45hc72bb7e_0
+    - r-rmarkdown =2.32 =r45hacb3a79_0
     - r-rpart =4.1.27 =r45h8eed41d_0
     - r-rstudioapi =0.19.0 =r45hc72bb7e_0
     - r-rvest =1.0.5 =r45hc72bb7e_1
@@ -503,7 +503,7 @@ requirements:
     - r-squarem =2026.1 =r45hc72bb7e_0
     - r-stringi =1.8.9 =r45h64d3038_0
     - r-stringr =1.6.0 =r45h785f33e_0
-    - r-survival =3.8_9 =r45h8eed41d_0
+    - r-survival =3.8_11 =r45hf469658_0
     - r-sys =3.4.3 =r45h735ac91_1
     - r-systemfonts =1.3.2 =r45h50b51c1_0
     - r-textshaping =1.0.5 =r45h50b51c1_0
@@ -540,14 +540,14 @@ requirements:
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
     - rpds-py =2026.6.3 =py312h3b11fa5_1
     - ruamel.yaml =0.18.17 =py312hf7082af_2
-    - ruamel.yaml.clib =0.2.15 =py312hdc27ec5_3
+    - ruamel.yaml.clib =0.2.15 =py312hdc27ec5_4
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-apple-darwin =1.98.0 =h38e4360_0
     - sdkroot_env_osx-64 =26.0 =h62b880e_7
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =84.0.0 =pyh332efcf_0
     - sigtool-codesign =0.1.3 =h8c25ef7_1
-    - simdjson =4.6.9 =h66869c8_0
+    - simdjson =4.6.10 =h66869c8_0
     - sip =6.10.0 =py312h69bf00f_1
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.3 =pyhcf101f3_1
