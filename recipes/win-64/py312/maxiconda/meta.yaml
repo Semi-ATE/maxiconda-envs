@@ -28,7 +28,7 @@ requirements:
     - aiohttp =3.14.3 =py312h6b91d65_0
     - aiomqtt =2.5.1 =pyhcf101f3_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
-    - bitarray =3.11.0 =py312he5662c2_0
+    - bitarray =3.11.0 =py312he5662c2_1
     - cython =3.3.0 =py312hd245ac3_0
     - grayskull =3.1.1 =pyhc364b38_0
     - hypothesis =6.167.1 =py312hdabe01f_0
@@ -37,7 +37,7 @@ requirements:
     - matplotlib =3.11.1 =py312h8e0e4fc_2
     - numba =0.67.0 =py312ha1a9051_1
     - numpy =2.5.2 =py312ha3f287d_1
-    - openpyxl =3.1.5 =py312h83acffa_3
+    - openpyxl =3.1.5 =py312h83acffa_4
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =3.0.5 =py312h95189c4_1
     - psutil =7.2.2 =py312he5662c2_2
@@ -50,7 +50,7 @@ requirements:
     - qtawesome =1.4.2 =pyh9208f05_0
     - r-base =4.5.3 =h91b09f7_3
     - r-essentials =4.5 =r45hd8ed1ab_2006
-    - regex =2026.9.3 =py312he06e257_0
+    - regex =2026.9.3 =py312he06e257_1
     - requests =2.34.2 =pyhcf101f3_0
     - rust =1.98.0 =hf8d6059_0
     - scipy =1.18.0 =py312h9b3c559_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 502 secondary packages :
+    # 500 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
@@ -80,7 +80,7 @@ requirements:
     - async-lru =2.3.0 =pyhcf101f3_0
     - attrs =26.1.0 =pyhcf101f3_0
     - babel =2.18.0 =pyhcf101f3_1
-    - backports.zstd =1.7.0 =py312h06d0912_0
+    - backports.zstd =1.7.0 =py312h06d0912_1
     - binutils_impl_win-64 =2.46.1 =default_ha84baeb_102
     - bleach =6.4.0 =pyhcf101f3_0
     - bleach-with-css =6.4.0 =hac0b51c_0
@@ -101,8 +101,8 @@ requirements:
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - conda =26.7.1 =py312h209ec74_0
-    - conda-index =0.12.1 =pyhd8ed1ab_0
+    - conda =26.7.2 =py312h209ec74_0
+    - conda-index =0.13.0 =pyh5ded981_0
     - conda-libmamba-solver =26.7.0 =pyhcf101f3_0
     - conda-lockfiles =0.2.1 =pyhd8ed1ab_0
     - conda-package-handling =2.6.0 =pyh5ded981_0
@@ -125,7 +125,6 @@ requirements:
     - evalidate =2.0.5 =pyhe01879c_0
     - exceptiongroup =1.3.1 =pyhd8ed1ab_0
     - executing =2.2.1 =pyhd8ed1ab_0
-    - filelock =3.32.5 =pyhd8ed1ab_0
     - fmt =12.1.0 =h1ced75a_1
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -144,8 +143,8 @@ requirements:
     - gfortran_impl_win-64 =16.2.0 =h408695e_4
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.61 =pyhcf101f3_0
-    - glib =2.88.3 =h2e94c43_2
-    - glib-tools =2.88.3 =hc97a88e_2
+    - glib =2.88.3 =h964408e_3
+    - glib-tools =2.88.3 =h71a7f32_3
     - graphite2 =1.3.15 =h5112557_1
     - greenlet =3.5.5 =py312ha1a9051_0
     - gsl =2.7 =hdfb1a43_0
@@ -172,7 +171,7 @@ requirements:
     - jsonschema =4.26.0 =pyhcf101f3_1
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_1
-    - jupyter-builder =1.2.2 =pyhcf101f3_0
+    - jupyter-builder =1.2.3 =pyh5ded981_0
     - jupyter-lsp =2.3.1 =pyhcf101f3_0
     - jupyter_client =8.10.0 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyh6dadd2b_0
@@ -182,7 +181,7 @@ requirements:
     - jupyterlab =4.6.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.0 =pyhcf101f3_0
-    - kiwisolver =1.5.1 =py312h78d62e6_0
+    - kiwisolver =1.5.1 =py312h78d62e6_1
     - krb5 =1.22.2 =h719d79b_2
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.19.1 =hf2c6c5f_2
@@ -205,7 +204,7 @@ requirements:
     - libgcc-devel_win-64 =16.2.0 =h254a5e0_104
     - libgfortran =16.2.0 =h719f0c7_4
     - libgfortran5 =16.2.0 =h7c9de5e_4
-    - libglib =2.88.3 =he810d59_2
+    - libglib =2.88.3 =h261a839_3
     - libgomp =16.2.0 =h8ee18e1_4
     - libharfbuzz =14.4.0 =h03b5201_1
     - libharfbuzz-devel =14.4.0 =h03b5201_1
@@ -241,10 +240,10 @@ requirements:
     - libxcb =1.17.0 =h874e120_2
     - libxml2 =2.15.3 =h8ef44ab_1
     - libxml2-16 =2.15.3 =h3cfd58e_1
-    - libxslt =1.1.45 =ha5384fd_0
+    - libxslt =1.1.45 =ha5384fd_1
     - libzlib =1.3.2 =hfd05255_3
     - llvm-openmp =23.1.0 =h49e36cd_0
-    - llvmlite =0.49.0 =py312h1534abe_2
+    - llvmlite =0.49.0 =py312h1534abe_3
     - lz4-c =1.10.0 =h6a83c73_2
     - lzo =2.10 =h6a83c73_1003
     - m2-conda-epoch =20250515 =0_x86_64
@@ -260,7 +259,7 @@ requirements:
     - mistune =3.3.4 =pyhcf101f3_0
     - mkl =2026.1.0 =hac47afa_235
     - mpmath =1.4.1 =pyhd8ed1ab_0
-    - msgpack-python =1.2.2 =py312h78d62e6_1
+    - msgpack-python =1.2.2 =py312h78d62e6_2
     - multidict =6.7.1 =py312h05f76fc_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.11.0 =pyhcf101f3_1
@@ -276,7 +275,7 @@ requirements:
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.11 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.58.2 =h13911b6_0
+    - pango =1.58.2 =h13911b6_1
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =h8466c1e_1
     - pillow =12.3.0 =py312h31f0997_1
@@ -292,9 +291,9 @@ requirements:
     - propcache =0.5.2 =py312h05f76fc_0
     - pthread-stubs =0.4 =hfa92662_1004
     - pure_eval =0.2.3 =pyhd8ed1ab_1
-    - py-rattler =0.25.0 =py310hb39080a_3
+    - py-rattler =0.25.0 =py310hb39080a_5
     - pybind11-abi =11 =hc364b38_1
-    - pycosat =0.6.6 =py312he06e257_4
+    - pycosat =0.6.6 =py312he06e257_5
     - pycparser =3.0 =pyhcf101f3_0
     - pydantic-core =2.46.5 =py312hdabe01f_1
     - pygments =2.21.0 =pyhcf101f3_0
@@ -396,7 +395,7 @@ requirements:
     - r-iterators =1.0.14 =r45hc72bb7e_4
     - r-jquerylib =0.1.4 =r45hc72bb7e_4
     - r-jsonlite =2.0.0 =r45heceb674_1
-    - r-kernsmooth =2.23_26 =r45ha84b8e4_1
+    - r-kernsmooth =2.23_27 =r45h7b60e98_0
     - r-knitr =1.51 =r45hc72bb7e_0
     - r-labeling =0.4.3 =r45hc72bb7e_2
     - r-later =1.4.8 =r45hd8a2815_0
@@ -532,7 +531,7 @@ requirements:
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.1 =pyhcf101f3_0
     - tomli-w =1.2.0 =pyhd8ed1ab_0
-    - tornado =6.5.8 =py312he06e257_0
+    - tornado =6.5.8 =py312he06e257_1
     - traitlets =5.16.1 =pyhcf101f3_0
     - truststore =0.10.4 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
@@ -542,7 +541,7 @@ requirements:
     - tzdata =2026c =h151e31d_0
     - ucrt =10.0.26100.0 =h57928b3_0
     - unearth =0.18.3 =pyhd8ed1ab_0
-    - unicodedata2 =17.0.1 =py312he06e257_0
+    - unicodedata2 =17.0.1 =py312he06e257_1
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.7.0 =pyhd8ed1ab_0
     - vc =14.5 =ha367084_41
@@ -552,7 +551,7 @@ requirements:
     - wcwidth =0.8.3 =pyhcf101f3_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
-    - websocket-client =1.9.2 =pyhd8ed1ab_0
+    - websocket-client =1.9.2 =pyh5ded981_1
     - wheel =0.48.0 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =pyh7428d3b_8
     - winpty =0.4.3 =4
@@ -565,7 +564,6 @@ requirements:
     - zipp =4.1.0 =pyhcf101f3_0
     - zlib =1.3.2 =hfd05255_3
     - zlib-ng =2.3.3 =h0261ad2_1
-    - zstandard =0.25.0 =py312he5662c2_3
     - zstd =1.5.7 =h534d264_7
 
 about:

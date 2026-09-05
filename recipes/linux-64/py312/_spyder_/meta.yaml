@@ -52,8 +52,8 @@ requirements:
     - babel =2.18.0 =pyhcf101f3_1
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhcf101f3_2
-    - backports.zstd =1.7.0 =py312h3f22e6b_0
-    - bcrypt =5.0.0 =py312h868fb18_1
+    - backports.zstd =1.7.0 =py312h3f22e6b_1
+    - bcrypt =5.0.0 =py312hc767a74_2
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - binaryornot =0.6.0 =pyhcf101f3_0
     - black =26.5.1 =pyh866005b_0
@@ -106,8 +106,8 @@ requirements:
     - frozenlist =1.8.0 =py312h447239a_0
     - fzf =0.74.3 =hfc2019e_1
     - giflib =6.1.3 =h280c20c_1
-    - glib =2.88.3 =h52e820b_2
-    - glib-tools =2.88.3 =h67ed8a3_2
+    - glib =2.88.3 =h622dd2f_3
+    - glib-tools =2.88.3 =h0804268_3
     - gmp =6.3.0 =hfd2156b_3
     - gmpy2 =2.3.1 =py312h04c1168_0
     - graphite2 =1.3.15 =h54a6638_1
@@ -142,7 +142,7 @@ requirements:
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - keyring =25.7.0 =pyha804496_0
     - keyutils =1.6.3 =h7cc23a3_1
-    - kiwisolver =1.5.1 =py312h9be0db6_0
+    - kiwisolver =1.5.1 =py312h9be0db6_1
     - krb5 =1.22.2 =hbc21106_2
     - lame =4.0 =h770b6ad_1
     - lcms2 =2.19.1 =h9073bf1_2
@@ -175,7 +175,7 @@ requirements:
     - libgfortran5 =16.2.0 =h6b99dfc_4
     - libgl =1.7.0 =ha4b6fd6_5
     - libgl-devel =1.7.0 =ha4b6fd6_5
-    - libglib =2.88.3 =he503a2a_2
+    - libglib =2.88.3 =he503a2a_3
     - libglvnd =1.7.0 =ha4b6fd6_5
     - libglx =1.7.0 =ha4b6fd6_5
     - libglx-devel =1.7.0 =ha4b6fd6_5
@@ -196,7 +196,7 @@ requirements:
     - libopus =1.6.1 =hebe6cf0_1
     - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.58 =h922cc85_1
-    - libpq =18.6 =h9d76c99_0
+    - libpq =18.6 =h9d76c99_1
     - libpython =3.12.14 =h0c77377_3_cpython
     - libraqm =0.11.0 =h6406941_0
     - libsndfile =1.2.2 =hbc6d301_3
@@ -217,7 +217,7 @@ requirements:
     - libxkbcommon =1.13.2 =h51789e4_1
     - libxml2 =2.15.3 =h49c6c72_1
     - libxml2-16 =2.15.3 =hca6bf5a_1
-    - libxslt =1.1.45 =h8e12856_0
+    - libxslt =1.1.45 =h8e12856_1
     - libzlib =1.3.2 =h25fd6f3_3
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.2.0 =pyhd8ed1ab_0
@@ -350,21 +350,21 @@ requirements:
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.1 =pyhcf101f3_0
     - tomlkit =0.15.1 =pyhcf101f3_0
-    - tornado =6.5.8 =py312h4c3975b_0
+    - tornado =6.5.8 =py312h5cc1888_1
     - traitlets =5.16.1 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
     - typing_extensions =4.16.0 =pyhcf101f3_0
     - tzdata =2026c =h151e31d_0
-    - ujson =5.13.0 =py312h8285ef7_0
-    - unicodedata2 =17.0.1 =py312h4c3975b_0
+    - ujson =6.0.0 =py312h80505a6_0
+    - unicodedata2 =17.0.1 =py312h5cc1888_1
     - urllib3 =2.7.0 =pyhd8ed1ab_0
-    - watchdog =6.0.0 =py312h20c3967_3
+    - watchdog =6.0.0 =py312h20c3967_4
     - wayland =1.26.0 =hc1c935e_2
     - wcwidth =0.8.3 =pyhcf101f3_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0
-    - wrapt =2.4.0 =py312h1b36aeb_0
+    - wrapt =2.4.0 =py312h1b36aeb_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xcb-util =0.4.1 =h4f16b4b_2
     - xcb-util-cursor =0.1.6 =hb03c661_0

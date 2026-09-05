@@ -52,8 +52,8 @@ requirements:
     - babel =2.18.0 =pyhcf101f3_1
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhcf101f3_2
-    - backports.zstd =1.7.0 =py312h06d0912_0
-    - bcrypt =5.0.0 =py312hdabe01f_1
+    - backports.zstd =1.7.0 =py312h06d0912_1
+    - bcrypt =5.0.0 =py312hdabe01f_2
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - binaryornot =0.6.0 =pyhcf101f3_0
     - black =26.5.1 =pyh866005b_0
@@ -103,8 +103,8 @@ requirements:
     - fribidi =1.0.16 =hfd05255_2
     - frozenlist =1.8.0 =py312hfdf67e6_0
     - fzf =0.74.3 =h11686cb_1
-    - glib =2.88.3 =h2e94c43_2
-    - glib-tools =2.88.3 =hc97a88e_2
+    - glib =2.88.3 =h964408e_3
+    - glib-tools =2.88.3 =h71a7f32_3
     - graphite2 =1.3.15 =h5112557_1
     - gst-plugins-base =1.26.11 =h88486b4_0
     - gstreamer =1.26.11 =hae9036a_0
@@ -134,7 +134,7 @@ requirements:
     - jupyter_core =5.9.1 =pyh6dadd2b_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - keyring =25.7.0 =pyh7428d3b_0
-    - kiwisolver =1.5.1 =py312h78d62e6_0
+    - kiwisolver =1.5.1 =py312h78d62e6_1
     - krb5 =1.22.2 =h719d79b_2
     - lcms2 =2.19.1 =hf2c6c5f_2
     - lerc =4.2.0 =hd936e49_0
@@ -150,7 +150,7 @@ requirements:
     - libfreetype =2.14.3 =h57928b3_2
     - libfreetype6 =2.14.3 =hdbac1cb_2
     - libgcc =16.2.0 =h110b43a_4
-    - libglib =2.88.3 =he810d59_2
+    - libglib =2.88.3 =h261a839_3
     - libgomp =16.2.0 =h8ee18e1_4
     - libharfbuzz =14.4.0 =h03b5201_1
     - libhwloc =2.13.0 =default_h049141e_1000
@@ -176,7 +176,7 @@ requirements:
     - libxcb =1.17.0 =h874e120_2
     - libxml2 =2.15.3 =h8ef44ab_1
     - libxml2-16 =2.15.3 =h3cfd58e_1
-    - libxslt =1.1.45 =ha5384fd_0
+    - libxslt =1.1.45 =ha5384fd_1
     - libzlib =1.3.2 =hfd05255_3
     - llvm-openmp =23.1.0 =h49e36cd_0
     - lsprotocol =2025.0.0 =pyhe01879c_0
@@ -205,7 +205,7 @@ requirements:
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.11 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.58.2 =h13911b6_0
+    - pango =1.58.2 =h13911b6_1
     - parso =0.8.7 =pyhcf101f3_0
     - pathspec =1.1.1 =pyhd8ed1ab_0
     - pcre2 =10.47 =h8466c1e_1
@@ -256,7 +256,7 @@ requirements:
     - pytoolconfig =1.2.5 =pyhd8ed1ab_1
     - pyuca =1.2 =pyhd8ed1ab_2
     - pywin32 =312 =py312h95189c4_1
-    - pywin32-ctypes =0.2.3 =py312h2e8e312_3
+    - pywin32-ctypes =0.2.3 =py312h2e8e312_4
     - pyyaml =6.0.3 =py312h05f76fc_1
     - pyzmq =27.2.0 =py312h343a6d4_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
@@ -304,25 +304,25 @@ requirements:
     - tomli =2.4.1 =pyhcf101f3_0
     - tomli-w =1.2.0 =pyhd8ed1ab_0
     - tomlkit =0.15.1 =pyhcf101f3_0
-    - tornado =6.5.8 =py312he06e257_0
+    - tornado =6.5.8 =py312he06e257_1
     - traitlets =5.16.1 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
     - typing_extensions =4.16.0 =pyhcf101f3_0
     - tzdata =2026c =h151e31d_0
     - ucrt =10.0.26100.0 =h57928b3_0
-    - ujson =5.13.0 =py312ha1a9051_0
-    - unicodedata2 =17.0.1 =py312he06e257_0
+    - ujson =6.0.0 =py312ha1a9051_0
+    - unicodedata2 =17.0.1 =py312he06e257_1
     - urllib3 =2.7.0 =pyhd8ed1ab_0
     - vc =14.5 =ha367084_41
     - vc14_runtime =14.51.36247 =habf1de7_41
     - vcomp14 =14.51.36247 =habf1de7_41
-    - watchdog =6.0.0 =py312h209ec74_3
+    - watchdog =6.0.0 =py312h209ec74_4
     - wcwidth =0.8.3 =pyhcf101f3_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0
     - win_inet_pton =1.1.0 =pyh7428d3b_8
-    - wrapt =2.4.0 =py312he5662c2_0
+    - wrapt =2.4.0 =py312he5662c2_1
     - xorg-libxau =1.0.12 =hba3369d_2
     - xorg-libxdmcp =1.1.5 =hba3369d_2
     - yaml =0.2.5 =h6a83c73_3
