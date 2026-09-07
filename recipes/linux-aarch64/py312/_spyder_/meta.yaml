@@ -27,7 +27,7 @@ requirements:
     # 9 primary packages :
     - cython =3.3.0 =py312ha0e5879_0
     - matplotlib =3.11.1 =py312h2f630db_2
-    - numpy =2.5.2 =py312hfb93532_1
+    - numpy =2.5.3 =py312hfb93532_0
     - pandas =3.0.5 =py312hf55c4e8_1
     - pyqt =5.15.11 =py312hc13527c_2
     - pyqtwebengine =5.15.11 =py312hcff0a4d_2
@@ -324,7 +324,7 @@ requirements:
     - rpds-py =2026.6.3 =py312h67c44d3_2
     - rtree =1.4.1 =pyh11ca60a_0
     - ruff =0.16.6 =h482a1e1_0
-    - secretstorage =3.5.0 =py312h8025657_1
+    - secretstorage =3.5.0 =py312h8025657_2
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.16.0 =py312h241b232_1
     - six =1.17.0 =pyhe01879c_1
