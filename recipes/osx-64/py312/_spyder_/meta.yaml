@@ -35,7 +35,7 @@ requirements:
     - spyder =6.1.7 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
-    # 309 secondary packages :
+    # 308 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
@@ -66,12 +66,12 @@ requirements:
     - bzip2 =1.0.8 =h374f1ed_10
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cairo =1.18.4 =h5791faa_3
-    - cattrs =26.1.0 =pyhcf101f3_1
+    - cattrs =26.2.0 =pyh5ded981_0
     - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.1 =py312ha4ebf3d_3
     - chardet =7.6.0 =py312hbbaf924_1
     - charset-normalizer =3.5.1 =pyhd8ed1ab_0
-    - click =8.4.2 =pyhc90fa1f_0
+    - click =8.5.0 =pyh5ded981_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -89,7 +89,6 @@ requirements:
     - dill =0.4.1 =pyhcf101f3_0
     - docstring-to-markdown =0.17 =pyhe01879c_0
     - docutils =0.22.4 =pyhd8ed1ab_0
-    - exceptiongroup =1.3.1 =pyhd8ed1ab_0
     - executing =2.2.1 =pyhd8ed1ab_0
     - flake8 =7.1.2 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
