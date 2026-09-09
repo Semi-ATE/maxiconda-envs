@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.2 =r42hd8ed1ab_2004
     - regex =2022.9.13 =py37h8052db5_0
     - requests =2.32.2 =pyhd8ed1ab_0
-    - rust =1.98.0 =h5655b98_0
+    - rust =1.98.1 =h5655b98_2
     - scipy =1.7.3 =py37h4e3cf02_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =2.4.3 =unix_pyhd8ed1ab_0
@@ -168,7 +168,7 @@ requirements:
     - libclang =13.0.1 =default_h0340054_11
     - libclang-cpp16 =16.0.1 =default_hd25f202_0
     - libcurl =8.1.2 =hbee3ae8_0
-    - libcxx =23.1.0 =h19cb2f5_0
+    - libcxx =23.1.1 =h19cb2f5_0
     - libcxx-devel =16.0.6 =h8f8a49f_2
     - libdeflate =1.25 =h7ad9622_1
     - libedit =3.1.20250104 =pl5321hba2e2ab_1
@@ -450,7 +450,7 @@ requirements:
     - ruamel.yaml =0.17.21 =py37h69ee0a8_1
     - ruamel.yaml.clib =0.2.6 =py37h69ee0a8_1
     - ruamel.yaml.jinja2 =0.2.4 =py_1
-    - rust-std-x86_64-apple-darwin =1.98.0 =h38e4360_0
+    - rust-std-x86_64-apple-darwin =1.98.1 =h38e4360_2
     - send2trash =1.8.3 =pyh31c8845_0
     - setuptools =59.8.0 =py37hf985489_1
     - sigtool =0.1.3 =h88f4db0_0

@@ -80,7 +80,7 @@ requirements:
     - cryptography =50.0.0 =py310hf586677_1
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hb961e35_1
-    - debugpy =1.8.21 =py310h19b6747_0
+    - debugpy =1.8.21 =py310hf741c2f_1
     - decorator =5.3.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.3.1 =pyhd8ed1ab_1
@@ -149,7 +149,7 @@ requirements:
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp23.1 =23.1.0 =default_h79071a4_1
     - libclang13 =23.1.0 =default_h8d85846_1
-    - libcxx =23.1.0 =h55c6f16_0
+    - libcxx =23.1.1 =h55c6f16_0
     - libdeflate =1.25 =he7e0567_1
     - libedit =3.1.20250104 =pl5321h26f1114_1
     - libexpat =2.8.1 =hf6b4638_1
@@ -167,7 +167,7 @@ requirements:
     - libjpeg-turbo =3.2.0 =h84a0fba_1
     - liblapack =3.11.0 =10_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h8e162e0_12
-    - libllvm23 =23.1.0 =h759d1ac_0
+    - libllvm23 =23.1.1 =h759d1ac_0
     - liblzma =5.8.3 =h8088a28_1
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1

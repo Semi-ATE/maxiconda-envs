@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.8.31 =py310h212bed1_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.98.0 =hc89c8c8_0
+    - rust =1.98.1 =hc89c8c8_2
     - scipy =1.15.2 =py310h1d65ade_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =unix_pyh707e725_0
@@ -108,7 +108,7 @@ requirements:
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hac629b4_1
     - dbus =1.16.2 =he8c428d_2
-    - debugpy =1.8.21 =py310h25320af_0
+    - debugpy =1.8.21 =py310h2dc56eb_1
     - decorator =5.3.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - double-conversion =3.4.0 =hecca717_0
@@ -196,7 +196,7 @@ requirements:
     - libegl =1.7.0 =ha4b6fd6_5
     - libegl-devel =1.7.0 =ha4b6fd6_5
     - libev =4.33 =h280c20c_3
-    - libevent =2.1.12 =hf998b51_1
+    - libevent =2.1.12 =h5348a74_2
     - libexpat =2.8.1 =hecca717_1
     - libffi =3.7.0 =h81df57d_1
     - libflac =1.5.0 =he200343_1
@@ -220,7 +220,7 @@ requirements:
     - libjpeg-turbo =3.2.0 =hb03c661_1
     - liblapack =3.11.0 =10_h47877c9_openblas
     - libllvm22 =22.1.8 =h474f4eb_2
-    - libllvm23 =23.1.0 =h474f4eb_0
+    - libllvm23 =23.1.1 =h474f4eb_0
     - liblzma =5.8.3 =hb03c661_1
     - libnghttp2 =1.68.1 =h74cf4be_1
     - libnsl =2.0.1 =hb9d3cd8_1
@@ -514,7 +514,7 @@ requirements:
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
     - ruamel.yaml.clib =0.2.15 =py310h83e8816_3
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-x86_64-unknown-linux-gnu =1.98.0 =h2c6d0dc_0
+    - rust-std-x86_64-unknown-linux-gnu =1.98.1 =h2c6d0dc_2
     - sed =4.10 =h19d0853_0
     - send2trash =2.1.0 =pyha191276_1
     - setuptools =84.0.0 =pyh332efcf_0
@@ -574,7 +574,7 @@ requirements:
     - xorg-libxt =1.3.1 =h7cc23a3_1
     - xorg-libxtst =1.2.5 =h7cc23a3_4
     - xorg-libxxf86vm =1.1.7 =hb03c661_0
-    - xorg-xorgproto =2025.1 =hebe6cf0_2
+    - xorg-xorgproto =2025.1 =hebe6cf0_3
     - yaml =0.2.5 =hebe6cf0_3
     - yarl =1.24.5 =py310h3406613_0
     - zeromq =4.3.5 =h09e67af_11

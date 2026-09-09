@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.8.31 =py310h5d326ea_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.98.0 =h5655b98_0
+    - rust =1.98.1 =h5655b98_2
     - scipy =1.15.2 =py310hef62574_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =unix_pyh707e725_0
@@ -118,7 +118,7 @@ requirements:
     - curl =8.22.0 =h5318221_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h7cc0300_1
-    - debugpy =1.8.21 =py310h3f55cb5_0
+    - debugpy =1.8.21 =py310h6ce8094_1
     - decorator =5.3.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
@@ -194,9 +194,9 @@ requirements:
     - libclang13 =23.1.0 =default_h74d5376_1
     - libcompiler-rt =23.1.0 =h8c1e6b9_0
     - libcurl =8.22.0 =h5318221_0
-    - libcxx =23.1.0 =h19cb2f5_0
-    - libcxx-devel =23.1.0 =h7c275be_0
-    - libcxx-headers =23.1.0 =h707e725_0
+    - libcxx =23.1.1 =h19cb2f5_0
+    - libcxx-devel =23.1.1 =h7c275be_0
+    - libcxx-headers =23.1.1 =h707e725_0
     - libdeflate =1.25 =h7ad9622_1
     - libedit =3.1.20250104 =pl5321hba2e2ab_1
     - libev =4.33 =ha3d0635_3
@@ -500,7 +500,7 @@ requirements:
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
     - ruamel.yaml.clib =0.2.15 =py310hb5cd75e_3
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-x86_64-apple-darwin =1.98.0 =h38e4360_0
+    - rust-std-x86_64-apple-darwin =1.98.1 =h38e4360_2
     - sdkroot_env_osx-64 =26.0 =h62b880e_7
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =84.0.0 =pyh332efcf_0

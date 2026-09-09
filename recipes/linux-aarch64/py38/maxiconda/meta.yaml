@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2024.7.24 =py38ha5227f9_0
     - requests =2.32.3 =pyhd8ed1ab_0
-    - rust =1.98.0 =h651fc87_0
+    - rust =1.98.1 =h651fc87_2
     - scipy =1.10.1 =py38he3f4005_3
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
@@ -198,7 +198,7 @@ requirements:
     - libedit =3.1.20250104 =pl5321hc48eb74_1
     - libegl =1.7.0 =hd24410f_5
     - libev =4.33 =h80f16a2_3
-    - libevent =2.1.12 =h4ba1bb4_1
+    - libevent =2.1.12 =h5c01fa6_2
     - libexpat =2.8.1 =hfae3067_1
     - libffi =3.7.0 =hdaad0be_1
     - libflac =1.5.0 =he9c94f4_1
@@ -222,7 +222,7 @@ requirements:
     - liblapack =3.9.0 =20_linuxaarch64_openblas
     - libllvm14 =14.0.6 =h966f666_4
     - libllvm22 =22.1.8 =h680871c_2
-    - libllvm23 =23.1.0 =h680871c_0
+    - libllvm23 =23.1.1 =h680871c_0
     - liblzma =5.8.3 =he30d5cf_1
     - liblzma-devel =5.8.3 =he30d5cf_1
     - libnghttp2 =1.68.1 =ha4b982d_1
@@ -512,7 +512,7 @@ requirements:
     - ruamel.yaml =0.18.6 =py38h9579f32_0
     - ruamel.yaml.clib =0.2.8 =py38h9579f32_0
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_0
-    - rust-std-aarch64-unknown-linux-gnu =1.98.0 =hbe8e118_0
+    - rust-std-aarch64-unknown-linux-gnu =1.98.1 =hbe8e118_2
     - sed =4.10 =he1c5539_0
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.3 =pyh0d859eb_0

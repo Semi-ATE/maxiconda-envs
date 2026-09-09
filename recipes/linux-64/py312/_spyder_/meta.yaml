@@ -81,7 +81,7 @@ requirements:
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hac629b4_1
     - dbus =1.16.2 =he8c428d_2
-    - debugpy =1.8.21 =py312h8285ef7_0
+    - debugpy =1.8.21 =py312h80505a6_1
     - decorator =5.3.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.3.1 =pyhd8ed1ab_1
@@ -162,7 +162,7 @@ requirements:
     - libedit =3.1.20250104 =pl5321h373387f_1
     - libegl =1.7.0 =ha4b6fd6_5
     - libegl-devel =1.7.0 =ha4b6fd6_5
-    - libevent =2.1.12 =hf998b51_1
+    - libevent =2.1.12 =h5348a74_2
     - libexpat =2.8.1 =hecca717_1
     - libffi =3.7.0 =h81df57d_1
     - libflac =1.5.0 =he200343_1
@@ -185,7 +185,7 @@ requirements:
     - libjpeg-turbo =3.2.0 =hb03c661_1
     - liblapack =3.11.0 =10_h47877c9_openblas
     - libllvm22 =22.1.8 =h474f4eb_2
-    - libllvm23 =23.1.0 =h474f4eb_0
+    - libllvm23 =23.1.1 =h474f4eb_0
     - liblzma =5.8.3 =hb03c661_1
     - libnsl =2.0.1 =hb9d3cd8_1
     - libntlm =1.8 =hb9d3cd8_0
@@ -292,7 +292,7 @@ requirements:
     - python-gssapi =1.12.0 =py312h5b8417d_0
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
-    - python-lsp-ruff =2.3.3 =pyhcf101f3_0
+    - python-lsp-ruff =2.3.4 =pyh5ded981_0
     - python-lsp-server =1.15.0 =pyh332efcf_0
     - python-lsp-server-base =1.15.0 =pyhd8ed1ab_0
     - python-slugify =8.0.4 =pyhd8ed1ab_1
@@ -388,7 +388,7 @@ requirements:
     - xorg-libxshmfence =1.3.3 =hb9d3cd8_0
     - xorg-libxtst =1.2.5 =h7cc23a3_4
     - xorg-libxxf86vm =1.1.7 =hb03c661_0
-    - xorg-xorgproto =2025.1 =hebe6cf0_2
+    - xorg-xorgproto =2025.1 =hebe6cf0_3
     - yaml =0.2.5 =hebe6cf0_3
     - yapf =0.43.0 =pyhd8ed1ab_1
     - yarl =1.24.5 =py312h8a5da7c_0

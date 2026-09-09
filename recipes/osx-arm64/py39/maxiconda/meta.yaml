@@ -51,7 +51,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2025.7.34 =py39he7485ab_0
     - requests =2.32.5 =pyhd8ed1ab_0
-    - rust =1.98.0 =h4ff7c5d_0
+    - rust =1.98.1 =h4ff7c5d_2
     - scipy =1.13.1 =py39h3d5391c_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =unix_pyh707e725_0
@@ -195,9 +195,9 @@ requirements:
     - libclang13 =23.1.0 =default_h8d85846_1
     - libcompiler-rt =23.1.0 =hdb3d66b_0
     - libcurl =8.22.0 =h6651222_0
-    - libcxx =23.1.0 =h55c6f16_0
-    - libcxx-devel =23.1.0 =h6dc3340_0
-    - libcxx-headers =23.1.0 =h707e725_0
+    - libcxx =23.1.1 =h55c6f16_0
+    - libcxx-devel =23.1.1 =h6dc3340_0
+    - libcxx-headers =23.1.1 =h707e725_0
     - libdeflate =1.25 =he7e0567_1
     - libedit =3.1.20250104 =pl5321h26f1114_1
     - libev =4.33 =h1a92334_3
@@ -502,7 +502,7 @@ requirements:
     - ruamel.yaml =0.18.15 =py39he7485ab_0
     - ruamel.yaml.clib =0.2.8 =py39h57695bc_1
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-aarch64-apple-darwin =1.98.0 =hf6ec828_0
+    - rust-std-aarch64-apple-darwin =1.98.1 =hf6ec828_2
     - sdkroot_env_osx-arm64 =26.0 =ha3f98da_7
     - send2trash =1.8.3 =pyh31c8845_1
     - setuptools =80.9.0 =pyhff2d567_0
