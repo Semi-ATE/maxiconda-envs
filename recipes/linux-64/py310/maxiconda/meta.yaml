@@ -186,8 +186,8 @@ requirements:
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =10_h0358290_openblas
     - libclang-cpp22.1 =22.1.8 =default_h0acdd01_10
-    - libclang-cpp23.1 =23.1.0 =default_h0acdd01_1
-    - libclang13 =23.1.0 =default_h7855034_1
+    - libclang-cpp23.1 =23.1.1 =default_h0acdd01_0
+    - libclang13 =23.1.1 =default_h7037f76_0
     - libcups =2.3.3 =h7a8fb5f_6
     - libcurl =8.22.0 =ha042cf0_0
     - libdeflate =1.25 =hd45a770_1
@@ -241,7 +241,7 @@ requirements:
     - libstdcxx =16.2.0 =h934c35e_4
     - libstdcxx-devel_linux-64 =16.2.0 =h86e191b_104
     - libstdcxx-ng =16.2.0 =hdf11a46_4
-    - libsystemd0 =261.2 =h6f4a2f1_0
+    - libsystemd0 =261.2 =h26e0ef7_1
     - libtiff =4.7.2 =hcc2c06a_1
     - libuuid =2.42.3 =hcfc3c73_0
     - libuv =1.52.1 =h280c20c_1
@@ -401,7 +401,7 @@ requirements:
     - r-jquerylib =0.1.4 =r45hc72bb7e_4
     - r-jsonlite =2.0.0 =r45h54b55ab_1
     - r-kernsmooth =2.23_27 =r45hf1ecf5c_0
-    - r-knitr =1.51 =r45hc72bb7e_0
+    - r-knitr =1.52 =r45hacb3a79_0
     - r-labeling =0.4.3 =r45hc72bb7e_2
     - r-later =1.4.8 =r45h3697838_0
     - r-lattice =0.23_1 =r45hddc5280_0
@@ -560,7 +560,7 @@ requirements:
     - xorg-libice =1.1.2 =h280c20c_0
     - xorg-libsm =1.2.6 =h0d788c3_1
     - xorg-libx11 =1.8.13 =he1eb515_1
-    - xorg-libxau =1.0.12 =hb03c661_2
+    - xorg-libxau =1.0.12 =h7cc23a3_2
     - xorg-libxcomposite =0.4.7 =hb03c661_0
     - xorg-libxcursor =1.2.3 =hb9d3cd8_0
     - xorg-libxdamage =1.1.6 =hb9d3cd8_0

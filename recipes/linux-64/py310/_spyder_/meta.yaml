@@ -104,7 +104,7 @@ requirements:
     - fribidi =1.0.16 =h7cc23a3_2
     - frozenlist =1.8.0 =py310h9548a50_0
     - fzf =0.74.3 =hfc2019e_1
-    - giflib =6.1.3 =h280c20c_1
+    - giflib =6.1.3 =hebe6cf0_2
     - glib =2.88.3 =h622dd2f_3
     - glib-tools =2.88.3 =h0804268_3
     - gmp =6.3.0 =hfd2156b_3
@@ -154,8 +154,8 @@ requirements:
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =10_h0358290_openblas
     - libclang-cpp22.1 =22.1.8 =default_h0acdd01_10
-    - libclang-cpp23.1 =23.1.0 =default_h0acdd01_1
-    - libclang13 =23.1.0 =default_h7855034_1
+    - libclang-cpp23.1 =23.1.1 =default_h0acdd01_0
+    - libclang13 =23.1.1 =default_h7037f76_0
     - libcups =2.3.3 =h7a8fb5f_6
     - libdeflate =1.25 =hd45a770_1
     - libdrm =2.4.129 =h7cc23a3_0
@@ -202,7 +202,7 @@ requirements:
     - libsqlite =3.53.4 =h13e7031_1
     - libstdcxx =16.2.0 =h934c35e_4
     - libstdcxx-ng =16.2.0 =hdf11a46_4
-    - libsystemd0 =261.2 =h6f4a2f1_0
+    - libsystemd0 =261.2 =h26e0ef7_1
     - libtiff =4.7.2 =hcc2c06a_1
     - libuuid =2.42.3 =hcfc3c73_0
     - libvorbis =1.3.7 =h54a6638_2
@@ -372,7 +372,7 @@ requirements:
     - xorg-libice =1.1.2 =h280c20c_0
     - xorg-libsm =1.2.6 =h0d788c3_1
     - xorg-libx11 =1.8.13 =he1eb515_1
-    - xorg-libxau =1.0.12 =hb03c661_2
+    - xorg-libxau =1.0.12 =h7cc23a3_2
     - xorg-libxcomposite =0.4.7 =hb03c661_0
     - xorg-libxcursor =1.2.3 =hb9d3cd8_0
     - xorg-libxdamage =1.1.6 =hb9d3cd8_0

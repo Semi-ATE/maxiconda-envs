@@ -35,8 +35,9 @@ requirements:
     - spyder =6.1.7 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
-    # 306 secondary packages :
+    # 308 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
+    - _python_abi3_support =1.0 =hd8ed1ab_3
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiohttp =3.14.3 =py311ha95a472_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -102,7 +103,7 @@ requirements:
     - fribidi =1.0.16 =hd115831_2
     - frozenlist =1.8.0 =py311ha09d3ca_0
     - fzf =0.74.3 =h1229ba9_1
-    - giflib =6.1.3 =ha3d0635_1
+    - giflib =6.1.3 =had63097_2
     - glib =2.88.3 =h9b143ba_3
     - glib-tools =2.88.3 =hec94a46_3
     - gmp =6.3.0 =h65442b7_3
@@ -146,8 +147,8 @@ requirements:
     - libbrotlienc =1.2.0 =h3d41943_4
     - libcblas =3.11.0 =10_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
-    - libclang-cpp23.1 =23.1.0 =default_h6e863b9_1
-    - libclang13 =23.1.0 =default_h74d5376_1
+    - libclang-cpp23.1 =23.1.1 =default_h6e863b9_0
+    - libclang13 =23.1.1 =default_h657ec97_0
     - libcxx =23.1.1 =h19cb2f5_0
     - libdeflate =1.25 =h7ad9622_1
     - libedit =3.1.20250104 =pl5321hba2e2ab_1
@@ -187,7 +188,7 @@ requirements:
     - libxml2 =2.15.4 =hb56241c_0
     - libxml2-16 =2.15.4 =h8376fb4_0
     - libzlib =1.3.2 =hbb4bfdb_3
-    - llvm-openmp =23.1.0 =h8c1e6b9_0
+    - llvm-openmp =23.1.1 =h8c1e6b9_0
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.2.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py311ha8ae342_1
@@ -228,7 +229,7 @@ requirements:
     - pillow =12.3.0 =py311h3bf5400_2
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h2fb4741_3
-    - platformdirs =4.11.6 =pyh5ded981_0
+    - platformdirs =4.11.8 =pyh5ded981_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
@@ -248,7 +249,7 @@ requirements:
     - pylint =4.0.8 =pyhcf101f3_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
-    - pynacl =1.6.2 =py311h0fdcbea_4
+    - pynacl =1.6.2 =py311h7aaf89a_5
     - pyobjc-core =12.2.2 =py311he18d5c4_1
     - pyobjc-framework-cocoa =12.2.2 =py311ha57a2f8_1
     - pyobjc-framework-coreservices =12.2.2 =py311h5e2e7b6_1
@@ -259,13 +260,14 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
+    - python-gil =3.11.16 =hd8ed1ab_2
     - python-gssapi =1.12.0 =py311h76c90d4_0
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
     - python-lsp-ruff =2.3.4 =pyh5ded981_0
     - python-lsp-server =1.15.0 =pyh332efcf_0
     - python-lsp-server-base =1.15.0 =pyhd8ed1ab_0
-    - python-slugify =8.0.4 =pyhd8ed1ab_1
+    - python-slugify =9.0.0 =pyh5ded981_0
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python.app =1.4 =py311hc71d4c3_6
     - python_abi =3.11 =9_cp311
@@ -333,7 +335,7 @@ requirements:
     - wheel =0.48.0 =pyhd8ed1ab_0
     - wrapt =2.4.0 =py311h72e27ae_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
-    - xorg-libxau =1.0.12 =ha1e9b39_2
+    - xorg-libxau =1.0.12 =hd115831_2
     - xorg-libxdmcp =1.1.5 =ha1e9b39_2
     - yaml =0.2.5 =had63097_3
     - yapf =0.43.0 =pyhd8ed1ab_1
