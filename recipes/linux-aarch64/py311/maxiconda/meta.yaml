@@ -50,7 +50,7 @@ requirements:
     - qtawesome =1.4.2 =pyh9208f05_0
     - r-base =4.5.3 =h269e6ae_3
     - r-essentials =4.5 =r45hd8ed1ab_2006
-    - regex =2026.9.3 =py311h59b26c8_1
+    - regex =2026.9.10 =py311h5a00dd8_0
     - requests =2.34.2 =pyhcf101f3_0
     - rust =1.98.1 =h651fc87_2
     - scipy =1.17.1 =py311had2d2e4_1
@@ -138,7 +138,7 @@ requirements:
     - fontconfig =2.18.3 =ha4b22b4_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
-    - fonttools =4.63.0 =py311h164a683_0
+    - fonttools =4.65.0 =py311hdd94528_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.14.3 =h8af1aa0_2
     - fribidi =1.0.16 =h5bc82ec_2
@@ -149,8 +149,8 @@ requirements:
     - gfortran_impl_linux-aarch64 =16.2.0 =h339fd1e_4
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.62 =pyh5ded981_0
-    - glib =2.88.3 =h09573cd_3
-    - glib-tools =2.88.3 =h8912f12_3
+    - glib =2.88.3 =h1f5e97f_4
+    - glib-tools =2.88.3 =he116ec0_4
     - gmp =6.3.0 =h4d6b352_3
     - gmpy2 =2.3.1 =py311hd6c47e5_0
     - graphite2 =1.3.15 =h7ac5ae9_1
@@ -196,16 +196,16 @@ requirements:
     - krb5 =1.22.2 =h095d8e5_2
     - lame =4.0 =h7ce06ba_1
     - lark =1.3.1 =pyhd8ed1ab_0
-    - lcms2 =2.19.1 =h137c43b_2
+    - lcms2 =2.19.1 =h137c43b_3
     - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_102
     - lerc =4.2.0 =h52b7260_0
     - libarchive =3.8.9 =gpl_h1204ebd_101
-    - libblas =3.11.0 =10_haddc8a3_openblas
+    - libblas =3.11.0 =11_haddc8a3_openblas
     - libbrotlicommon =1.2.0 =h384ecca_4
     - libbrotlidec =1.2.0 =h011f0d3_4
     - libbrotlienc =1.2.0 =hb247b97_4
     - libcap =2.78 =hfcc8634_1
-    - libcblas =3.11.0 =10_hd72aa62_openblas
+    - libcblas =3.11.0 =11_hd72aa62_openblas
     - libclang-cpp22.1 =22.1.8 =default_h01b09c7_10
     - libclang-cpp23.1 =23.1.1 =default_h01b09c7_0
     - libclang13 =23.1.1 =default_h24fed5d_0
@@ -230,7 +230,7 @@ requirements:
     - libgfortran5 =16.2.0 =hc864f27_4
     - libgl =1.7.0 =hd24410f_5
     - libgl-devel =1.7.0 =hd24410f_5
-    - libglib =2.88.3 =hb514e8e_3
+    - libglib =2.88.3 =h3584fe5_4
     - libglvnd =1.7.0 =hd24410f_5
     - libglx =1.7.0 =hd24410f_5
     - libglx-devel =1.7.0 =hd24410f_5
@@ -239,13 +239,13 @@ requirements:
     - libharfbuzz-devel =14.4.0 =h8f7ccb3_1
     - libiconv =1.18 =h1ea5142_3
     - libjpeg-turbo =3.2.0 =he30d5cf_1
-    - liblapack =3.11.0 =10_h88aeb00_openblas
+    - liblapack =3.11.0 =11_h88aeb00_openblas
     - libllvm22 =22.1.8 =h680871c_2
     - libllvm23 =23.1.1 =h680871c_0
     - liblzma =5.8.3 =he30d5cf_1
-    - libmamba =2.9.0 =py314hfffb576_0
-    - libmamba-spdlog =2.9.0 =he31237c_0
-    - libmambapy =2.9.0 =py311h70c5283_0
+    - libmamba =2.9.0 =py311he2bbb06_1
+    - libmamba-spdlog =2.9.0 =hf00976d_1
+    - libmambapy =2.9.0 =py311h2b99d05_1
     - libmsgpack-c =6.1.0 =h7ac5ae9_7
     - libnghttp2 =1.68.1 =ha4b982d_1
     - libnsl =2.0.1 =h86ecc28_1
@@ -320,7 +320,7 @@ requirements:
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =he574923_1
     - pexpect =4.9.0 =pyhd8ed1ab_1
-    - pillow =12.3.0 =py311hc874288_2
+    - pillow =12.3.0 =py311hc874288_3
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h7ac5ae9_3
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
@@ -542,7 +542,7 @@ requirements:
     - r-xts =0.14.2 =r45h0557e7b_0
     - r-yaml =2.3.12 =r45h0557e7b_0
     - r-zoo =1.8_15 =r45h0557e7b_0
-    - rapidfuzz =3.14.6 =py311hd4220b8_0
+    - rapidfuzz =3.14.6 =py311hd4220b8_1
     - readline =8.3 =ha7194a6_1
     - referencing =0.37.0 =pyhcf101f3_0
     - reproc =14.2.8.post0 =hfb11796_0
@@ -572,11 +572,11 @@ requirements:
     - terminado =0.18.1 =pyhc90fa1f_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =noxft_hf03c496_4
-    - tktable =2.10 =h9a8e9d3_10
+    - tktable =2.10 =h9a8e9d3_11
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.1 =pyhcf101f3_0
     - tomli-w =1.2.0 =pyhd8ed1ab_0
-    - tornado =6.5.8 =py311h5a00dd8_1
+    - tornado =6.5.8 =py311h5a00dd8_2
     - traitlets =5.16.1 =pyhcf101f3_0
     - truststore =0.10.4 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
@@ -623,7 +623,7 @@ requirements:
     - yaml =0.2.5 =h29ee22c_3
     - yaml-cpp =0.8.0 =h7ac5ae9_1
     - yarl =1.24.5 =py311h164a683_0
-    - zeromq =4.3.5 =hec9560f_11
+    - zeromq =4.3.5 =h3469ab9_12
     - zipp =4.1.0 =pyhcf101f3_0
     - zlib-ng =2.3.3 =h1024f78_1
     - zstd =1.5.7 =h9d15635_7

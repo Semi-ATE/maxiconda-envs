@@ -144,15 +144,15 @@ requirements:
     - kiwisolver =1.4.7 =py39h74842e3_0
     - krb5 =1.21.3 =h659f571_0
     - lame =4.0 =h770b6ad_1
-    - lcms2 =2.19.1 =h9073bf1_2
+    - lcms2 =2.19.1 =h9073bf1_3
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_102
     - lerc =4.2.0 =hdb68285_0
-    - libblas =3.11.0 =10_h4a7cf45_openblas
+    - libblas =3.11.0 =11_h4a7cf45_openblas
     - libbrotlicommon =1.1.0 =hb9d3cd8_3
     - libbrotlidec =1.1.0 =hb9d3cd8_3
     - libbrotlienc =1.1.0 =hb9d3cd8_3
     - libcap =2.78 =h084b8d7_1
-    - libcblas =3.11.0 =10_h0358290_openblas
+    - libcblas =3.11.0 =11_h0358290_openblas
     - libclang-cpp20.1 =20.1.8 =default_hc302687_17
     - libclang13 =21.1.0 =default_h746c552_1
     - libcups =2.3.3 =hb8b1518_5
@@ -178,7 +178,7 @@ requirements:
     - libgomp =16.2.0 =he0feb66_4
     - libiconv =1.18 =h0cb94f2_3
     - libjpeg-turbo =3.2.0 =hb03c661_1
-    - liblapack =3.11.0 =10_h47877c9_openblas
+    - liblapack =3.11.0 =11_h47877c9_openblas
     - libllvm20 =20.1.8 =hecd9e04_0
     - libllvm21 =21.1.0 =hecd9e04_0
     - liblzma =5.8.3 =hb03c661_1

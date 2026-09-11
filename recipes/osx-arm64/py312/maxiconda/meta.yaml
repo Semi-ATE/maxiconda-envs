@@ -49,7 +49,7 @@ requirements:
     - qtawesome =1.4.2 =pyh9208f05_0
     - r-base =4.5.3 =h35b0bb1_3
     - r-essentials =4.5 =r45hd8ed1ab_2006
-    - regex =2026.9.3 =py312h580468c_1
+    - regex =2026.9.10 =py312ha053593_0
     - requests =2.34.2 =pyhcf101f3_0
     - rust =1.98.1 =h4ff7c5d_2
     - scipy =1.18.0 =py312h4519d97_0
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 524 secondary packages :
+    # 526 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
@@ -94,25 +94,27 @@ requirements:
     - cached-property =2.0.1 =pyhcf101f3_0
     - cached_property =2.0.1 =pyhcf101f3_0
     - cairo =1.18.4 =h580cee5_3
+    - cctools =1030.6.3 =llvm23_1_h54b4f4b_6
     - cctools_impl_osx-arm64 =1030.6.3 =llvm23_1_hf5e010b_6
     - cctools_osx-arm64 =1030.6.3 =llvm23_1_h54b4f4b_6
     - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.1 =py312hc892d8b_3
     - charset-normalizer =3.5.1 =pyhd8ed1ab_0
-    - clang-23 =23.1.0 =default_h8d85846_1
-    - clang-scan-deps =23.1.0 =default_h79071a4_1
-    - clang_impl_osx-arm64 =23.1.0 =default_h79071a4_1
-    - clang_osx-arm64 =23.1.0 =hafa0770_34
-    - clangxx_impl_osx-arm64 =23.1.0 =default_h54c3132_1
-    - clangxx_osx-arm64 =23.1.0 =hafa0770_34
+    - clang =23.1.1 =default_cfg_h5e3806e_0
+    - clang-23 =23.1.1 =default_hfbe3a31_0
+    - clang-scan-deps =23.1.1 =default_h79071a4_0
+    - clang_impl_osx-arm64 =23.1.1 =default_h79071a4_0
+    - clang_osx-arm64 =23.1.1 =h1ab324d_34
+    - clangxx_impl_osx-arm64 =23.1.1 =default_h0703b29_0
+    - clangxx_osx-arm64 =23.1.1 =h1ab324d_34
     - click =8.4.1 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - compiler-rt =23.1.0 =hce30654_0
-    - compiler-rt23 =23.1.0 =hdb3d66b_0
-    - compiler-rt23_osx-arm64 =23.1.0 =hb8825d9_0
-    - compiler-rt_osx-arm64 =23.1.0 =hce30654_0
+    - compiler-rt =23.1.1 =hce30654_0
+    - compiler-rt23 =23.1.1 =hdb3d66b_0
+    - compiler-rt23_osx-arm64 =23.1.1 =hb8825d9_0
+    - compiler-rt_osx-arm64 =23.1.1 =hce30654_0
     - conda =26.7.2 =py312hc28c600_1
     - conda-index =0.13.0 =pyh5ded981_0
     - conda-libmamba-solver =26.7.0 =pyhcf101f3_0
@@ -145,17 +147,18 @@ requirements:
     - fontconfig =2.18.3 =h81aa574_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
-    - fonttools =4.63.0 =py312h04c11ed_0
+    - fonttools =4.65.0 =py312hf4454c7_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.14.3 =hce30654_2
     - fribidi =1.0.16 =hb001647_2
     - frozendict =2.4.7 =pyh851646a_2
     - frozenlist =1.8.0 =py312ha0ce254_0
-    - gfortran_impl_osx-arm64 =15.1.0 =h8f8a10e_0
+    - gcc_impl_osx-arm64 =16.2.0 =hff32234_4
+    - gfortran_impl_osx-arm64 =16.2.0 =h9997696_4
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.62 =pyh5ded981_0
-    - glib =2.88.3 =he369a58_3
-    - glib-tools =2.88.3 =h0d72ea3_3
+    - glib =2.88.3 =hd5bf27b_4
+    - glib-tools =2.88.3 =hf080417_4
     - gmp =6.3.0 =hf5e55b1_3
     - gmpy2 =2.3.1 =py312h1af6244_0
     - graphite2 =1.3.15 =h784d473_1
@@ -176,7 +179,6 @@ requirements:
     - iniconfig =2.3.0 =pyhd8ed1ab_0
     - ipykernel =6.31.0 =pyh5552912_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
-    - isl =0.26 =imath32_h347afa1_101
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.20.0 =pyhcf101f3_0
     - json5 =0.15.0 =pyhd8ed1ab_0
@@ -197,20 +199,21 @@ requirements:
     - kiwisolver =1.5.1 =py312hee531d8_1
     - krb5 =1.22.2 =h34f8a20_2
     - lark =1.3.1 =pyhd8ed1ab_0
-    - lcms2 =2.19.1 =hce41798_2
+    - lcms2 =2.19.1 =hce41798_3
+    - ld64 =956.6 =llvm23_1_hd841b0c_6
     - ld64_osx-arm64 =956.6 =llvm23_1_hc8058f9_6
     - lerc =4.2.0 =h1eee2c3_0
     - libarchive =3.8.9 =gpl_h76147b0_101
     - libasprintf =0.25.1 =h493aca8_0
-    - libblas =3.11.0 =10_h51639a9_openblas
+    - libblas =3.11.0 =11_h51639a9_openblas
     - libbrotlicommon =1.2.0 =h1dcdb26_4
     - libbrotlidec =1.2.0 =h5295a6a_4
     - libbrotlienc =1.2.0 =h2ddc9cb_4
-    - libcblas =3.11.0 =10_hb0561ab_openblas
+    - libcblas =3.11.0 =11_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
-    - libclang-cpp23.1 =23.1.0 =default_h79071a4_1
-    - libclang13 =23.1.0 =default_h8d85846_1
-    - libcompiler-rt =23.1.0 =hdb3d66b_0
+    - libclang-cpp23.1 =23.1.1 =default_h79071a4_0
+    - libclang13 =23.1.1 =default_hfbe3a31_0
+    - libcompiler-rt =23.1.1 =hdb3d66b_0
     - libcurl =8.22.0 =h6651222_0
     - libcxx =23.1.1 =h55c6f16_0
     - libcxx-devel =23.1.1 =h6dc3340_0
@@ -223,29 +226,29 @@ requirements:
     - libfreetype =2.14.3 =hce30654_2
     - libfreetype6 =2.14.3 =h2ed5691_2
     - libgcc =16.2.0 =h3cf6597_4
+    - libgcc-devel_osx-arm64 =16.2.0 =ha15413b_104
     - libgettextpo =0.25.1 =h493aca8_0
     - libgfortran =16.2.0 =h07b0088_4
-    - libgfortran-devel_osx-arm64 =15.1.0 =hfdf1602_1
     - libgfortran5 =16.2.0 =hdb7a957_4
-    - libglib =2.88.3 =h81decf1_3
+    - libglib =2.88.3 =hccd281b_4
     - libharfbuzz =14.4.0 =hcda0f7c_1
     - libharfbuzz-devel =14.4.0 =hcda0f7c_1
     - libiconv =1.18 =he4c29f2_3
     - libintl =0.25.1 =h493aca8_0
     - libintl-devel =0.25.1 =h493aca8_0
     - libjpeg-turbo =3.2.0 =h84a0fba_1
-    - liblapack =3.11.0 =10_hd9741b5_openblas
+    - liblapack =3.11.0 =11_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm23 =23.1.1 =h759d1ac_0
     - liblzma =5.8.3 =h8088a28_1
-    - libmamba =2.9.0 =py314h12d839b_0
-    - libmamba-spdlog =2.9.0 =h7215443_0
-    - libmambapy =2.9.0 =py312h7725efa_0
+    - libmamba =2.9.0 =py312he1ba46a_1
+    - libmamba-spdlog =2.9.0 =hb1f74a9_1
+    - libmambapy =2.9.0 =py312hd2ad7c3_1
     - libmsgpack-c =6.1.0 =h784d473_7
     - libnghttp2 =1.68.1 =h435687b_1
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
-    - libopenblas =0.3.34 =openmp_h4f80526_1
+    - libopenblas =0.3.34 =openmp_h5e6e99c_1
     - libopus =1.6.1 =h74c22ad_1
     - libpng =1.6.58 =hf5e6511_1
     - libpq =18.6 =h08b03b9_1
@@ -304,7 +307,7 @@ requirements:
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =he63d830_1
     - pexpect =4.9.0 =pyhd8ed1ab_1
-    - pillow =12.3.0 =py312hf9dc30a_2
+    - pillow =12.3.0 =py312hf9dc30a_3
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h784d473_3
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
@@ -525,7 +528,7 @@ requirements:
     - r-xts =0.14.2 =r45hbe92478_0
     - r-yaml =2.3.12 =r45h6168396_0
     - r-zoo =1.8_15 =r45h6168396_0
-    - rapidfuzz =3.14.6 =py312h1535055_0
+    - rapidfuzz =3.14.6 =py312h1535055_1
     - readline =8.3 =h8b90a29_1
     - referencing =0.37.0 =pyhcf101f3_0
     - reproc =14.2.8.post0 =hdca3b7d_0
@@ -556,11 +559,11 @@ requirements:
     - terminado =0.18.1 =pyhc90fa1f_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =hbeba79b_4
-    - tktable =2.10 =h74c22ad_10
+    - tktable =2.10 =h74c22ad_11
     - toml =0.10.2 =pyhcf101f3_3
     - tomli =2.4.1 =pyhcf101f3_0
     - tomli-w =1.2.0 =pyhd8ed1ab_0
-    - tornado =6.5.8 =py312h580468c_1
+    - tornado =6.5.8 =py312h580468c_2
     - traitlets =5.16.1 =pyhcf101f3_0
     - truststore =0.10.4 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
@@ -583,9 +586,8 @@ requirements:
     - yaml =0.2.5 =h74c22ad_3
     - yaml-cpp =0.8.0 =h784d473_1
     - yarl =1.24.5 =py312h04c11ed_0
-    - zeromq =4.3.5 =h10816f8_11
+    - zeromq =4.3.5 =h6eb0046_12
     - zipp =4.1.0 =pyhcf101f3_0
-    - zlib =1.3.2 =h8088a28_3
     - zlib-ng =2.3.3 =h31dac16_1
     - zstd =1.5.7 =hf451053_7
 

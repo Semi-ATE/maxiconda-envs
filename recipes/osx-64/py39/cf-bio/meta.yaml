@@ -74,8 +74,8 @@ requirements:
     - freetype =2.14.3 =h694c41f_2
     - freetype-py =2.3.0 =pyhd8ed1ab_0
     - glew =2.1.0 =h046ec9c_2
-    - glib =2.88.3 =h9b143ba_3
-    - glib-tools =2.88.3 =hec94a46_3
+    - glib =2.88.3 =h57fb105_4
+    - glib-tools =2.88.3 =h69987c9_4
     - glm =1.0.3 =hc569e58_1
     - greenlet =3.2.4 =py39hdd9c553_0
     - griddataformats =1.0.2 =pyhd8ed1ab_1
@@ -97,16 +97,16 @@ requirements:
     - jupyter_core =5.8.1 =pyh31011fe_0
     - kiwisolver =1.4.7 =py39h0d8d0ca_0
     - krb5 =1.21.3 =h37d8d59_0
-    - lcms2 =2.19.1 =h4e6bd4b_2
+    - lcms2 =2.19.1 =h4e6bd4b_3
     - lerc =4.2.0 =h35c7297_0
     - libaec =1.1.5 =he7c3a48_0
-    - libblas =3.11.0 =10_he492b99_openblas
+    - libblas =3.11.0 =11_he492b99_openblas
     - libboost =1.86.0 =hb2bbd1d_4
     - libboost-python =1.86.0 =py39h5c7665c_3
     - libbrotlicommon =1.2.0 =he0616a4_4
     - libbrotlidec =1.2.0 =h4a2f56c_4
     - libbrotlienc =1.2.0 =h3d41943_4
-    - libcblas =3.11.0 =10_h9b27e0a_openblas
+    - libcblas =3.11.0 =11_h9b27e0a_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =21.1.0 =default_h7f9524c_1
     - libcurl =8.18.0 =h9348e2b_0
@@ -121,12 +121,12 @@ requirements:
     - libgcc =16.2.0 =h13771c8_4
     - libgfortran =16.2.0 =h7e5c614_4
     - libgfortran5 =16.2.0 =h2539e6c_4
-    - libglib =2.88.3 =hf4b7cfa_3
+    - libglib =2.88.3 =h7e55108_4
     - libiconv =1.18 =h4ae439b_3
     - libintl =0.25.1 =h3184127_1
     - libintl-devel =0.25.1 =h3184127_1
     - libjpeg-turbo =3.2.0 =ha1e9b39_1
-    - liblapack =3.11.0 =10_h859234e_openblas
+    - liblapack =3.11.0 =11_h859234e_openblas
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm21 =21.1.0 =h9b4ebcc_0
     - liblzma =5.8.3 =hbb4bfdb_1
@@ -134,7 +134,7 @@ requirements:
     - libnghttp2 =1.68.1 =h1e30255_1
     - libntlm =1.8 =h6e16a3a_0
     - libogg =1.3.5 =he3325bb_1
-    - libopenblas =0.3.34 =openmp_h9e49c7b_1
+    - libopenblas =0.3.34 =openmp_h5c7ac21_1
     - libopus =1.6.1 =had63097_1
     - libpng =1.6.58 =h4382c61_1
     - libpq =17.7 =h1e038c5_1
