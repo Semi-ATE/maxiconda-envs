@@ -31,7 +31,7 @@ requirements:
     - pandas =3.0.5 =py312h6510ced_1
     - pyqt =5.15.11 =py312h6612b97_2
     - pyqtwebengine =5.15.11 =py312h1a0e663_2
-    - scipy =1.18.0 =py312h4519d97_0
+    - scipy =1.18.1 =py312h84b0c4e_0
     - spyder =6.1.7 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
@@ -78,7 +78,7 @@ requirements:
     - contourpy =1.3.3 =py312h3093aea_4
     - cookiecutter =2.7.1 =pyhcf101f3_0
     - cpython =3.12.14 =py312hd8ed1ab_3
-    - cryptography =50.0.1 =py312hff2a239_0
+    - cryptography =50.0.1 =py311hc28ac56_1
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hb961e35_1
     - debugpy =1.8.21 =py312hffbc315_1
@@ -107,7 +107,7 @@ requirements:
     - glib =2.88.3 =hd5bf27b_4
     - glib-tools =2.88.3 =hf080417_4
     - gmp =6.3.0 =hf5e55b1_3
-    - gmpy2 =2.3.1 =py312h1af6244_0
+    - gmpy2 =2.3.1 =py312h1af6244_1
     - graphite2 =1.3.15 =h784d473_1
     - gst-plugins-base =1.26.11 =hda1d4dc_0
     - gstreamer =1.26.11 =h087694b_0
@@ -226,7 +226,7 @@ requirements:
     - pcre2 =10.47 =he63d830_1
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =12.3.0 =py312hf9dc30a_3
+    - pillow =12.3.0 =py312hf9dc30a_4
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h784d473_3
     - platformdirs =4.11.8 =pyh5ded981_0
@@ -237,7 +237,7 @@ requirements:
     - psutil =7.2.2 =py312hbd136b4_2
     - pthread-stubs =0.4 =hb001647_1004
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
-    - pure_eval =0.2.3 =pyhd8ed1ab_1
+    - pure_eval =0.2.4 =pyhd8ed1ab_0
     - pycodestyle =2.12.1 =pyhd8ed1ab_1
     - pyconify =0.2.1 =pyhd8ed1ab_0
     - pycparser =3.0 =pyhcf101f3_0
@@ -276,7 +276,7 @@ requirements:
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyyaml =6.0.3 =py312h04c11ed_1
-    - pyzmq =27.2.0 =py312hcedbef1_0
+    - pyzmq =27.2.0 =py312hcedbef1_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h420ef59_5
     - qstylizer =0.2.4 =pyhff2d567_0
@@ -294,7 +294,7 @@ requirements:
     - rope =1.14.0 =pyh5ded981_1
     - rpds-py =2026.6.3 =py312ha80e978_2
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.16.6 =h7f187d3_0
+    - ruff =0.16.7 =ha7a9cbd_0
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.16.1 =py312h3812f11_0
     - six =1.17.0 =pyhe01879c_1
@@ -333,7 +333,7 @@ requirements:
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0
-    - wrapt =2.4.0 =py312hbd136b4_1
+    - wrapt =2.4.0 =py312hbd136b4_2
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xorg-libxau =1.0.12 =hb001647_2
     - xorg-libxdmcp =1.1.5 =h84a0fba_2
