@@ -154,12 +154,12 @@ requirements:
     - fribidi =1.0.16 =hd115831_2
     - frozendict =2.4.7 =pyh851646a_2
     - frozenlist =1.8.0 =py311ha09d3ca_0
-    - gcc_impl_osx-64 =16.2.0 =hd8ed746_4
-    - gfortran_impl_osx-64 =16.2.0 =h51020b9_4
+    - gcc_impl_osx-64 =16.2.0 =hd8ed746_5
+    - gfortran_impl_osx-64 =16.2.0 =h51020b9_5
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.1.62 =pyh5ded981_0
-    - glib =2.88.3 =h57fb105_4
-    - glib-tools =2.88.3 =h69987c9_4
+    - glib =2.90.0 =h3c0ab5d_0
+    - glib-tools =2.90.0 =he718cb3_0
     - gmp =6.3.0 =h65442b7_3
     - gmpy2 =2.3.1 =py311h3f86e42_1
     - graphite2 =1.3.15 =h2fb4741_1
@@ -192,7 +192,7 @@ requirements:
     - jupyter_client =8.10.0 =pyhcf101f3_0
     - jupyter_core =5.9.1 =pyhc90fa1f_0
     - jupyter_events =0.12.1 =pyhcf101f3_0
-    - jupyter_server =2.21.0 =pyhcf101f3_0
+    - jupyter_server =2.21.1 =pyh5ded981_0
     - jupyter_server_terminals =0.5.4 =pyhcf101f3_0
     - jupyterlab =4.6.3 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
@@ -226,12 +226,12 @@ requirements:
     - libffi =3.7.0 =h6b3a05b_1
     - libfreetype =2.14.3 =h694c41f_2
     - libfreetype6 =2.14.3 =h8afe040_2
-    - libgcc =16.2.0 =h13771c8_4
-    - libgcc-devel_osx-64 =16.2.0 =h94c7937_104
+    - libgcc =16.2.0 =h13771c8_5
+    - libgcc-devel_osx-64 =16.2.0 =h94c7937_105
     - libgettextpo =0.25.1 =h3184127_1
-    - libgfortran =16.2.0 =h7e5c614_4
-    - libgfortran5 =16.2.0 =h2539e6c_4
-    - libglib =2.88.3 =h7e55108_4
+    - libgfortran =16.2.0 =h7e5c614_5
+    - libgfortran5 =16.2.0 =h2539e6c_5
+    - libglib =2.90.0 =h7e55108_0
     - libharfbuzz =14.4.0 =h2974713_1
     - libharfbuzz-devel =14.4.0 =h2974713_1
     - libiconv =1.18 =h4ae439b_3
@@ -362,7 +362,7 @@ requirements:
     - r-callr =3.7.6 =r45hc72bb7e_2
     - r-caret =7.0_1 =r45h735ac91_0
     - r-cellranger =1.1.0 =r45hc72bb7e_1008
-    - r-class =7.3_23 =r45h735ac91_1
+    - r-class =7.3_24 =r45h8eed41d_0
     - r-cli =3.6.6 =r45h384437d_0
     - r-clipr =0.8.1 =r45hc72bb7e_0
     - r-clock =0.7.4 =r45hed9a748_0
@@ -498,11 +498,11 @@ requirements:
     - r-shiny =1.14.0 =r45h785f33e_0
     - r-sourcetools =0.1.7_2 =r45h384437d_0
     - r-sparsevctrs =0.3.6 =r45hdab4d57_0
-    - r-spatial =7.3_18 =r45h735ac91_1
+    - r-spatial =7.3_19 =r45h8eed41d_0
     - r-squarem =2026.1 =r45hc72bb7e_0
     - r-stringi =1.8.9 =r45h64d3038_0
     - r-stringr =1.6.0 =r45h785f33e_0
-    - r-survival =3.8_11 =r45hf469658_0
+    - r-survival =3.8_12 =r45hf469658_0
     - r-sys =3.4.3 =r45h735ac91_1
     - r-systemfonts =1.3.2 =r45h50b51c1_0
     - r-textshaping =1.0.5 =r45h50b51c1_0
@@ -526,9 +526,9 @@ requirements:
     - r-xfun =0.60 =r45h8eed41d_0
     - r-xml2 =1.6.0 =r45h3ffc57a_0
     - r-xtable =1.8_8 =r45hc72bb7e_0
-    - r-xts =0.14.2 =r45h8eed41d_0
+    - r-xts =0.14.3 =r45hf469658_0
     - r-yaml =2.3.12 =r45h735ac91_0
-    - r-zoo =1.8_15 =r45h735ac91_0
+    - r-zoo =1.9_0 =r45h8eed41d_0
     - rapidfuzz =3.14.6 =py311h973f65f_3
     - readline =8.3 =h000c2f7_1
     - referencing =0.37.0 =pyhcf101f3_0
