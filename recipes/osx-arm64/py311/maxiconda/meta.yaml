@@ -33,13 +33,13 @@ requirements:
     - hypothesis =6.168.0 =py311hfcb3ee1_0
     - ipython =9.17.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
-    - matplotlib =3.11.1 =py311ha01d089_2
+    - matplotlib =3.11.2 =py311ha01d089_0
     - numba =0.67.0 =py311hf682900_1
     - numpy =2.4.6 =py311hbd1492f_0
     - openpyxl =3.1.5 =py311h4be922b_4
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =3.0.5 =py311h8948835_1
-    - psutil =7.2.2 =py311hd322c8c_2
+    - psutil =7.2.2 =py311hd322c8c_3
     - pydantic =2.13.5 =pyhcf101f3_0
     - pyqt =5.15.11 =py311ha87f45f_2
     - pyserial =3.5 =pyhcf101f3_2
@@ -276,7 +276,7 @@ requirements:
     - lzo =2.10 =h74c22ad_1003
     - make =4.4.1 =h84a0fba_3
     - markupsafe =3.0.3 =py311hc290fe0_1
-    - matplotlib-base =3.11.1 =py311h3c3ad35_2
+    - matplotlib-base =3.11.2 =py311h022e184_0
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - menuinst =2.5.2 =py311hf19aa8c_1
     - mistune =3.3.4 =pyhcf101f3_0
@@ -555,7 +555,7 @@ requirements:
     - spdlog =1.17.0 =h760df91_2
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
-    - tapi =1600.0.11.8 =hb561403_3
+    - tapi =1600.0.11.8 =hb561403_4
     - terminado =0.18.1 =pyhc90fa1f_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =hbeba79b_4
@@ -582,7 +582,7 @@ requirements:
     - wheel =0.48.0 =pyhd8ed1ab_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xorg-libxau =1.0.12 =hb001647_2
-    - xorg-libxdmcp =1.1.5 =h84a0fba_2
+    - xorg-libxdmcp =1.1.5 =hb001647_2
     - yaml =0.2.5 =h74c22ad_3
     - yaml-cpp =0.8.0 =h784d473_1
     - yarl =1.24.5 =py311hc290fe0_0

@@ -26,7 +26,7 @@ requirements:
 
     # 9 primary packages :
     - cython =3.3.0 =py312h9ddbb48_0
-    - matplotlib =3.11.1 =py312had31f23_2
+    - matplotlib =3.11.2 =py312had31f23_0
     - numpy =2.5.3 =py312h66ee8b4_0
     - pandas =3.0.5 =py312h8e27051_1
     - pyqt =5.15.11 =py312hd9d23cd_2
@@ -192,7 +192,7 @@ requirements:
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.2.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py312heb39f77_1
-    - matplotlib-base =3.11.1 =py312h0847896_2
+    - matplotlib-base =3.11.2 =py312had7407c_0
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
@@ -234,7 +234,7 @@ requirements:
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.2 =py312heb39f77_0
-    - psutil =7.2.2 =py312hdc27ec5_2
+    - psutil =7.2.2 =py312hdc27ec5_3
     - pthread-stubs =0.4 =hd115831_1004
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.4 =pyhd8ed1ab_0
@@ -336,7 +336,7 @@ requirements:
     - wrapt =2.4.0 =py312hdc27ec5_2
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xorg-libxau =1.0.12 =hd115831_2
-    - xorg-libxdmcp =1.1.5 =ha1e9b39_2
+    - xorg-libxdmcp =1.1.5 =hd115831_2
     - yaml =0.2.5 =had63097_3
     - yapf =0.43.0 =pyhd8ed1ab_1
     - yarl =1.24.5 =py312heb39f77_0
