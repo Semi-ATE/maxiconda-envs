@@ -74,7 +74,7 @@ requirements:
     - anyio =4.15.1 =pyh5ded981_1
     - archspec =0.2.5 =pyhd8ed1ab_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
-    - argon2-cffi-bindings =26.1.0 =py311h3485c13_1
+    - argon2-cffi-bindings =26.1.0 =py311h3485c13_2
     - arrow =1.4.0 =pyhcf101f3_0
     - asttokens =3.0.2 =pyhd8ed1ab_0
     - async-lru =2.3.0 =pyhcf101f3_0
@@ -101,7 +101,7 @@ requirements:
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - conda =26.7.2 =py311h86c7a16_1
+    - conda =26.7.2 =py311h86c7a16_2
     - conda-index =0.13.0 =pyh5ded981_0
     - conda-libmamba-solver =26.7.0 =pyhcf101f3_0
     - conda-lockfiles =0.2.1 =pyhd8ed1ab_0
@@ -117,7 +117,7 @@ requirements:
     - cpython =3.11.16 =py311hd8ed1ab_2
     - curl =8.22.0 =hdb0ef4a_0
     - cycler =0.12.1 =pyhcf101f3_2
-    - debugpy =1.8.21 =py311h5dfdfe8_2
+    - debugpy =1.8.22 =py311h5dfdfe8_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - distro =1.9.0 =pyhd8ed1ab_1
     - double-conversion =3.4.0 =hac47afa_0
@@ -311,7 +311,7 @@ requirements:
     - python_abi =3.11 =9_cp311
     - pywin32 =312 =py311h0610301_2
     - pywinpty =3.0.5 =py311hda3d55a_2
-    - pyzmq =27.2.0 =py311h7a22eb7_1
+    - pyzmq =27.2.0 =py311h7a22eb7_2
     - qhull =2020.2 =hc790b64_5
     - qt-main =5.15.15 =hc95f6a6_8
     - qt6-main =6.11.2 =pl5321hfcac499_0
