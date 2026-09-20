@@ -26,9 +26,9 @@ requirements:
 
     # 9 primary packages :
     - cython =3.3.0 =py311h781f220_0
-    - matplotlib =3.11.2 =py311h968eb38_0
+    - matplotlib =3.11.2 =py311h968eb38_1
     - numpy =2.4.6 =py311h2e04523_0
-    - pandas =3.0.5 =py311h8032f78_1
+    - pandas =3.0.6 =np2py311h1e9b377_0
     - pyqt =5.15.11 =py311h0580839_2
     - pyqtwebengine =5.15.11 =py311h1694d00_2
     - scipy =1.17.1 =py311hbe70eeb_1
@@ -221,7 +221,7 @@ requirements:
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.2.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py311h3778330_1
-    - matplotlib-base =3.11.2 =py311hfea5af0_0
+    - matplotlib-base =3.11.2 =py311hfea5af0_1
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
@@ -243,7 +243,7 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.40 =h29cc59b_0
     - nss =3.118 =h445c969_0
-    - numpydoc =1.10.0 =pyhcf101f3_0
+    - numpydoc =1.11.0 =pyh5ded981_0
     - openjpeg =2.5.4 =heb1ab33_2
     - openldap =2.6.13 =hbde042b_0
     - openssl =3.6.4 =h781a0a9_0
@@ -359,7 +359,7 @@ requirements:
     - urllib3 =2.8.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py311hf8ae3fa_4
     - wayland =1.26.0 =hc1c935e_2
-    - wcwidth =0.8.3 =pyhcf101f3_0
+    - wcwidth =0.8.4 =pyh5ded981_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0

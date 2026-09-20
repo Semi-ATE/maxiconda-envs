@@ -26,9 +26,9 @@ requirements:
 
     # 9 primary packages :
     - cython =3.3.0 =py311h0517b2b_0
-    - matplotlib =3.11.2 =py311h9895961_0
+    - matplotlib =3.11.2 =py311h9895961_1
     - numpy =2.4.6 =py311h2c4eb96_0
-    - pandas =3.0.5 =py311h2a74ac8_1
+    - pandas =3.0.6 =np2py311h503cbda_0
     - pyqt =5.15.11 =py311he03e2d5_2
     - pyqtwebengine =5.15.11 =py311h4819184_2
     - scipy =1.17.1 =py311h556693a_1
@@ -192,7 +192,7 @@ requirements:
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.2.0 =pyhd8ed1ab_0
     - markupsafe =3.0.3 =py311ha8ae342_1
-    - matplotlib-base =3.11.2 =py311h4f3de86_0
+    - matplotlib-base =3.11.2 =py311h4f3de86_1
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
     - mdurl =0.1.2 =pyhd8ed1ab_1
@@ -213,7 +213,7 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.40 =h8ea0cdc_0
     - nss =3.118 =h2b2a826_0
-    - numpydoc =1.10.0 =pyhcf101f3_0
+    - numpydoc =1.11.0 =pyh5ded981_0
     - openjpeg =2.5.4 =he4eae51_1
     - openldap =2.6.13 =h2f5043c_0
     - openssl =3.6.4 =h332eb6d_0
@@ -329,7 +329,7 @@ requirements:
     - unicodedata2 =17.0.1 =py311h5e2e7b6_1
     - urllib3 =2.8.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py311h72e27ae_4
-    - wcwidth =0.8.3 =pyhcf101f3_0
+    - wcwidth =0.8.4 =pyh5ded981_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0
