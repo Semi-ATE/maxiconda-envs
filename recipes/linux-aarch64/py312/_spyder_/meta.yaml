@@ -31,7 +31,7 @@ requirements:
     - pandas =3.0.6 =np2py312h45f7807_0
     - pyqt =5.15.11 =py312hc13527c_2
     - pyqtwebengine =5.15.11 =py312hcff0a4d_2
-    - scipy =1.18.1 =py312h3e7234c_0
+    - scipy =1.18.1 =py312h3e7234c_1
     - spyder =6.1.7 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
@@ -101,7 +101,7 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.65.0 =py312h363f31d_0
     - freetype =2.14.3 =h8af1aa0_2
-    - fribidi =1.0.16 =h5bc82ec_2
+    - fribidi =1.0.17 =h5bc82ec_0
     - frozenlist =1.8.0 =py312hb10c72c_0
     - fzf =0.74.4 =h22914b5_0
     - giflib =6.1.3 =h29ee22c_2
@@ -117,12 +117,12 @@ requirements:
     - hpack =4.2.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =78.3 =py311h3512406_2
-    - idna =3.19 =pyhcf101f3_0
+    - idna =3.20 =pyh5ded981_0
     - imagesize =2.0.1 =pyhd8ed1ab_0
     - importlib-metadata =9.0.1 =pyhcf101f3_0
     - importlib_resources =7.1.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyhd8ed1ab_1
-    - intervaltree =3.1.0 =pyhd8ed1ab_1
+    - intervaltree =3.2.1 =pyh5ded981_0
     - ipykernel =6.31.0 =pyha191276_0
     - ipython =9.17.1 =pyh53cf698_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
@@ -298,7 +298,7 @@ requirements:
     - python-slugify =9.0.0 =pyh5ded981_0
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python_abi =3.12 =9_cp312
-    - pytokens =0.4.1 =py312hd41f8a7_2
+    - pytokens =0.4.1 =py312h385a96e_3
     - pytoolconfig =1.3.1 =pyh5ded981_0
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
@@ -323,7 +323,7 @@ requirements:
     - rpds-py =2026.6.3 =py312h67c44d3_2
     - rtree =1.4.1 =pyh11ca60a_0
     - ruff =0.16.7 =h4445a34_0
-    - secretstorage =3.5.0 =py312h8025657_2
+    - secretstorage =3.5.0 =pyhc9edb4d_3
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.16.1 =py312h241b232_0
     - six =1.17.0 =pyhe01879c_1
@@ -363,7 +363,7 @@ requirements:
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0
-    - wrapt =2.4.0 =py312h898233f_2
+    - wrapt =2.4.1 =py312h898233f_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xcb-util =0.4.1 =hca56bd8_2
     - xcb-util-cursor =0.1.6 =he30d5cf_0

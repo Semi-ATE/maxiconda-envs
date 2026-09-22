@@ -100,7 +100,7 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.65.0 =py311hde9f260_0
     - freetype =2.14.3 =hce30654_2
-    - fribidi =1.0.16 =hb001647_2
+    - fribidi =1.0.17 =hb001647_0
     - frozenlist =1.8.0 =py311hf75086c_0
     - fzf =0.74.4 =ha5a11a4_0
     - giflib =6.1.3 =h74c22ad_2
@@ -115,12 +115,12 @@ requirements:
     - hpack =4.2.0 =pyhd8ed1ab_0
     - hyperframe =6.1.0 =pyhd8ed1ab_0
     - icu =78.3 =py310h579977c_2
-    - idna =3.19 =pyhcf101f3_0
+    - idna =3.20 =pyh5ded981_0
     - imagesize =2.0.1 =pyhd8ed1ab_0
     - importlib-metadata =9.0.1 =pyhcf101f3_0
     - importlib_resources =7.1.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyhd8ed1ab_1
-    - intervaltree =3.1.0 =pyhd8ed1ab_1
+    - intervaltree =3.2.1 =pyh5ded981_0
     - ipykernel =6.31.0 =pyh5552912_0
     - ipython =9.17.1 =pyh53cf698_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
@@ -271,7 +271,7 @@ requirements:
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python.app =1.4 =py311hf19d84e_6
     - python_abi =3.11 =9_cp311
-    - pytokens =0.4.1 =py311he363849_2
+    - pytokens =0.4.1 =py311hd4705fd_3
     - pytoolconfig =1.3.1 =pyh5ded981_0
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
@@ -333,7 +333,7 @@ requirements:
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0
-    - wrapt =2.4.0 =py311hd322c8c_2
+    - wrapt =2.4.1 =py311hd322c8c_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xorg-libxau =1.0.12 =hb001647_2
     - xorg-libxdmcp =1.1.5 =hb001647_2
