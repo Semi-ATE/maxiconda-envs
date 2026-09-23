@@ -92,7 +92,7 @@ requirements:
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cached-property =1.5.2 =hd8ed1ab_2
     - cached_property =1.5.2 =pyha770c72_1
-    - cairo =1.18.4 =h580cee5_3
+    - cairo =1.18.6 =h580cee5_0
     - cctools =1030.6.3 =llvm23_1_h54b4f4b_6
     - cctools_impl_osx-arm64 =1030.6.3 =llvm23_1_hf5e010b_6
     - cctools_osx-arm64 =1030.6.3 =llvm23_1_h54b4f4b_6
@@ -152,7 +152,7 @@ requirements:
     - gstreamer =1.26.11 =h087694b_0
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =pyhd8ed1ab_0
-    - harfbuzz =14.4.0 =hce30654_1
+    - harfbuzz =14.5.0 =hce30654_0
     - hpack =4.0.0 =pyh9f0ad1d_0
     - httpcore =1.0.7 =pyh29332c3_1
     - httpx =0.27.2 =pyhd8ed1ab_0
@@ -187,7 +187,7 @@ requirements:
     - ld64 =956.6 =llvm23_1_hd841b0c_6
     - ld64_osx-arm64 =956.6 =llvm23_1_hc8058f9_6
     - lerc =4.2.0 =h1eee2c3_0
-    - libasprintf =0.25.1 =h493aca8_0
+    - libasprintf =0.25.1 =hae62183_2
     - libblas =3.9.0 =20_osxarm64_openblas
     - libbrotlicommon =1.2.0 =h1dcdb26_4
     - libbrotlidec =1.2.0 =h5295a6a_4
@@ -204,21 +204,21 @@ requirements:
     - libdeflate =1.25 =he7e0567_1
     - libedit =3.1.20250104 =pl5321h26f1114_1
     - libev =4.33 =h1a92334_3
-    - libexpat =2.8.1 =hf6b4638_1
+    - libexpat =2.8.4 =h6111c0a_0
     - libffi =3.7.0 =h47dc5ef_1
     - libfreetype =2.14.3 =hce30654_2
     - libfreetype6 =2.14.3 =h2ed5691_2
     - libgcc =16.2.0 =h3cf6597_5
     - libgcc-devel_osx-arm64 =16.2.0 =ha15413b_105
-    - libgettextpo =0.25.1 =h493aca8_0
+    - libgettextpo =0.25.1 =hae62183_2
     - libgfortran =16.2.0 =h07b0088_5
     - libgfortran5 =16.2.0 =hdb7a957_5
     - libglib =2.90.0 =hccd281b_0
-    - libharfbuzz =14.4.0 =hcda0f7c_1
-    - libharfbuzz-devel =14.4.0 =hcda0f7c_1
+    - libharfbuzz =14.5.0 =hcda0f7c_0
+    - libharfbuzz-devel =14.5.0 =hcda0f7c_0
     - libiconv =1.18 =he4c29f2_3
-    - libintl =0.25.1 =h493aca8_0
-    - libintl-devel =0.25.1 =h493aca8_0
+    - libintl =0.25.1 =hae62183_2
+    - libintl-devel =0.25.1 =hae62183_2
     - libjpeg-turbo =3.2.0 =h84a0fba_1
     - liblapack =3.9.0 =20_osxarm64_openblas
     - libllvm14 =14.0.6 =hd1a9a77_4

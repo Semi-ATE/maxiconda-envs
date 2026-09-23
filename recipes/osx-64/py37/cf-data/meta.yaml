@@ -98,7 +98,7 @@ requirements:
     - decorator =5.1.1 =pyhd8ed1ab_0
     - docker-py =7.0.0 =pyhd8ed1ab_0
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - expat =2.8.1 =hcc62823_1
+    - expat =2.8.4 =h6e061ac_0
     - filelock =3.16.1 =pyhd8ed1ab_0
     - flask =2.2.5 =pyhd8ed1ab_0
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -115,8 +115,8 @@ requirements:
     - future =0.18.2 =py37hf985489_5
     - gdk-pixbuf =2.42.8 =h3648f77_1
     - gensim =3.8.3 =py37hd8d24ac_4
-    - gettext =0.25.1 =he52a196_1
-    - gettext-tools =0.25.1 =h3184127_1
+    - gettext =0.25.1 =h98e67c8_2
+    - gettext-tools =0.25.1 =h98e67c8_2
     - giflib =5.2.2 =h0f9f378_1
     - gitdb =4.0.11 =pyhd8ed1ab_0
     - gitpython =3.1.43 =pyhd8ed1ab_0
@@ -162,8 +162,8 @@ requirements:
     - krb5 =1.20.1 =h049b76e_0
     - lcms2 =2.14 =h90f4b2a_0
     - lerc =4.2.0 =h35c7297_0
-    - libasprintf =0.25.1 =h3184127_1
-    - libasprintf-devel =0.25.1 =h3184127_1
+    - libasprintf =0.25.1 =h98e67c8_2
+    - libasprintf-devel =0.25.1 =h98e67c8_2
     - libblas =3.9.0 =20_osx64_openblas
     - libbrotlicommon =1.2.0 =he0616a4_4
     - libbrotlidec =1.2.0 =h4a2f56c_4
@@ -174,18 +174,18 @@ requirements:
     - libcxx-devel =16.0.6 =h8f8a49f_2
     - libdeflate =1.25 =h7ad9622_1
     - libedit =3.1.20250104 =pl5321hba2e2ab_1
-    - libexpat =2.8.1 =hcc62823_1
+    - libexpat =2.8.4 =h6e061ac_0
     - libffi =3.4.6 =h281671d_1
     - libgcc =16.2.0 =h13771c8_5
     - libgd =2.3.3 =h1e214de_3
-    - libgettextpo =0.25.1 =h3184127_1
-    - libgettextpo-devel =0.25.1 =h3184127_1
+    - libgettextpo =0.25.1 =h98e67c8_2
+    - libgettextpo-devel =0.25.1 =h98e67c8_2
     - libgfortran =16.2.0 =h7e5c614_5
     - libgfortran5 =16.2.0 =h2539e6c_5
     - libglib =2.80.2 =h0f68cf7_0
     - libiconv =1.18 =h4ae439b_3
-    - libintl =0.25.1 =h3184127_1
-    - libintl-devel =0.25.1 =h3184127_1
+    - libintl =0.25.1 =h98e67c8_2
+    - libintl-devel =0.25.1 =h98e67c8_2
     - liblapack =3.9.0 =20_osx64_openblas
     - libllvm11 =11.1.0 =h8fb7429_5
     - libllvm13 =13.0.1 =h64f94b2_2

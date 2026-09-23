@@ -34,7 +34,7 @@ requirements:
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - bzip2 =1.0.8 =hda65f42_10
     - ca-certificates =2026.7.22 =hbd8a1cb_0
-    - cairo =1.18.4 =h3c89d7e_3
+    - cairo =1.18.6 =h3c89d7e_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - comm =0.2.3 =pyhe01879c_0
     - cyrus-sasl =2.1.28 =hd9c7081_0
@@ -57,7 +57,7 @@ requirements:
     - graphite2 =1.3.15 =h54a6638_1
     - gst-plugins-base =1.26.11 =h6d08254_0
     - gstreamer =1.26.11 =h29cf534_0
-    - harfbuzz =14.4.0 =ha770c72_1
+    - harfbuzz =14.5.0 =ha770c72_0
     - icu =78.3 =py310h44b86e0_2
     - importlib-metadata =8.7.0 =pyhe01879c_1
     - ipykernel =6.30.1 =pyh82676e8_0
@@ -78,7 +78,7 @@ requirements:
     - libedit =3.1.20250104 =pl5321h373387f_1
     - libegl =1.7.0 =ha4b6fd6_5
     - libevent =2.1.12 =h5348a74_2
-    - libexpat =2.8.1 =hecca717_1
+    - libexpat =2.8.4 =hd2095e1_0
     - libffi =3.7.0 =h81df57d_1
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_2
@@ -90,8 +90,8 @@ requirements:
     - libglvnd =1.7.0 =ha4b6fd6_5
     - libglx =1.7.0 =ha4b6fd6_5
     - libgomp =16.2.0 =he0feb66_5
-    - libharfbuzz =14.4.0 =h23af247_1
-    - libharfbuzz-devel =14.4.0 =h23af247_1
+    - libharfbuzz =14.5.0 =h23af247_0
+    - libharfbuzz-devel =14.5.0 =h23af247_0
     - libiconv =1.18 =h0cb94f2_3
     - libjpeg-turbo =3.2.0 =hb03c661_1
     - libllvm21 =21.1.8 =h474f4eb_1
@@ -110,8 +110,8 @@ requirements:
     - libsqlite =3.53.4 =h13e7031_1
     - libstdcxx =16.2.0 =h934c35e_5
     - libstdcxx-ng =16.2.0 =hdf11a46_5
-    - libsystemd0 =261.3 =h26e0ef7_0
-    - libuuid =2.42.3 =hcfc3c73_0
+    - libsystemd0 =261.3 =h26e0ef7_1
+    - libuuid =2.42.4 =hcfc3c73_0
     - libvorbis =1.3.7 =h54a6638_2
     - libxcb =1.17.0 =hb83e432_2
     - libxcrypt =4.4.38 =h280c20c_0

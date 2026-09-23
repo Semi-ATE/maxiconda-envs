@@ -49,7 +49,7 @@ requirements:
     # 329 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
     - _py-xgboost-mutex =2.0 =cpu_0
-    - adwaita-icon-theme =50.0 =unix_0
+    - adwaita-icon-theme =51.0 =unix_0
     - alembic =1.14.0 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_0
     - appdirs =1.4.4 =pyh9f0ad1d_0
@@ -178,7 +178,7 @@ requirements:
     - libcxx =23.1.1 =h19cb2f5_0
     - libdeflate =1.25 =h7ad9622_1
     - libedit =3.1.20250104 =pl5321hba2e2ab_1
-    - libexpat =2.8.1 =hcc62823_1
+    - libexpat =2.8.4 =h6e061ac_0
     - libffi =3.7.0 =h6b3a05b_1
     - libfreetype =2.14.3 =h694c41f_2
     - libfreetype6 =2.14.3 =h8afe040_2
@@ -189,8 +189,8 @@ requirements:
     - libglib =2.90.0 =h7e55108_0
     - libhwloc =2.12.1 =default_h8c32e24_1000
     - libiconv =1.18 =h4ae439b_3
-    - libintl =0.25.1 =h3184127_1
-    - libintl-devel =0.25.1 =h3184127_1
+    - libintl =0.25.1 =h98e67c8_2
+    - libintl-devel =0.25.1 =h98e67c8_2
     - libjpeg-turbo =3.2.0 =ha1e9b39_1
     - liblapack =3.9.0 =20_osx64_openblas
     - liblightgbm =4.5.0 =cpu_h84bc62d_3

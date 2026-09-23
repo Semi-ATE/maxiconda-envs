@@ -114,7 +114,7 @@ requirements:
     - libdeflate =1.25 =he7e0567_1
     - libedit =3.1.20250104 =pl5321h26f1114_1
     - libev =4.33 =h1a92334_3
-    - libexpat =2.8.1 =hf6b4638_1
+    - libexpat =2.8.4 =h6111c0a_0
     - libffi =3.7.0 =h47dc5ef_1
     - libfreetype =2.14.3 =hce30654_2
     - libfreetype6 =2.14.3 =h2ed5691_2
@@ -123,8 +123,8 @@ requirements:
     - libgfortran5 =16.2.0 =hdb7a957_5
     - libglib =2.90.0 =hccd281b_0
     - libiconv =1.18 =he4c29f2_3
-    - libintl =0.25.1 =h493aca8_0
-    - libintl-devel =0.25.1 =h493aca8_0
+    - libintl =0.25.1 =hae62183_2
+    - libintl-devel =0.25.1 =hae62183_2
     - libjpeg-turbo =3.2.0 =h84a0fba_1
     - liblapack =3.11.0 =11_hd9741b5_openblas
     - libllvm17 =17.0.6 =hc4b4ae8_3
@@ -207,7 +207,7 @@ requirements:
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.12.0 =py39h941272d_0
     - six =1.17.0 =pyhe01879c_1
-    - snappy =1.2.2 =hada39a4_1
+    - snappy =1.2.2 =h3951085_2
     - sqlalchemy =2.0.43 =py39he7485ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - statsmodels =0.14.5 =py39hbd04bc9_0

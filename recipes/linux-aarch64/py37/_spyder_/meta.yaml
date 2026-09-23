@@ -76,7 +76,7 @@ requirements:
     - dill =0.3.8 =pyhd8ed1ab_0
     - docutils =0.17.1 =py37hd9ded2f_2
     - entrypoints =0.4 =pyhd8ed1ab_0
-    - expat =2.8.1 =hfae3067_1
+    - expat =2.8.4 =h4154aff_0
     - fftw =3.3.11 =nompi_h66d8d02_100
     - flake8 =4.0.1 =pyhd8ed1ab_2
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
@@ -88,8 +88,8 @@ requirements:
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.38.0 =py37h795501a_0
     - freetype =2.14.3 =h8af1aa0_2
-    - gettext =0.25.1 =h5ad3122_0
-    - gettext-tools =0.25.1 =h5ad3122_0
+    - gettext =0.25.1 =hfb3de9a_2
+    - gettext-tools =0.25.1 =hfb3de9a_2
     - giflib =5.2.2 =h5dd31e5_1
     - glib =2.86.0 =h9414720_0
     - glib-tools =2.86.0 =hc87f4d4_0
@@ -130,8 +130,8 @@ requirements:
     - lcms2 =2.14 =h5246980_0
     - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_102
     - lerc =4.2.0 =h52b7260_0
-    - libasprintf =0.25.1 =h5e0f5ae_0
-    - libasprintf-devel =0.25.1 =h5e0f5ae_0
+    - libasprintf =0.25.1 =hfb3de9a_2
+    - libasprintf-devel =0.25.1 =hfb3de9a_2
     - libattr =2.5.2 =he30d5cf_1
     - libblas =3.9.0 =20_linuxaarch64_openblas
     - libbrotlicommon =1.2.0 =h384ecca_4
@@ -146,7 +146,7 @@ requirements:
     - libdeflate =1.25 =hfa851ae_1
     - libedit =3.1.20250104 =pl5321hc48eb74_1
     - libevent =2.1.10 =h4f30969_4
-    - libexpat =2.8.1 =hfae3067_1
+    - libexpat =2.8.4 =h4154aff_0
     - libffi =3.4.6 =he21f813_1
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.3 =h8af1aa0_2
@@ -157,8 +157,8 @@ requirements:
     - libgcrypt-devel =1.12.2 =h5bc82ec_2
     - libgcrypt-lib =1.12.2 =h5bc82ec_2
     - libgcrypt-tools =1.12.2 =h5bc82ec_2
-    - libgettextpo =0.25.1 =h5ad3122_0
-    - libgettextpo-devel =0.25.1 =h5ad3122_0
+    - libgettextpo =0.25.1 =hfb3de9a_2
+    - libgettextpo-devel =0.25.1 =hfb3de9a_2
     - libgfortran =16.2.0 =he9431aa_5
     - libgfortran-ng =16.2.0 =he9431aa_5
     - libgfortran5 =16.2.0 =hc864f27_5
@@ -187,7 +187,7 @@ requirements:
     - libtiff =4.4.0 =hfcd36d1_5
     - libtool =2.5.4 =h5ad3122_0
     - libudev1 =253 =hb4cce97_1
-    - libuuid =2.42.3 =hd6fdeab_0
+    - libuuid =2.42.4 =hd6fdeab_0
     - libvorbis =1.3.7 =h7ac5ae9_2
     - libwebp =1.2.4 =hef792ef_0
     - libwebp-base =1.2.4 =h4e544f5_0

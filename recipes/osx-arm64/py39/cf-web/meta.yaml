@@ -47,7 +47,7 @@ requirements:
     - brotli-python =1.1.0 =py39h941272d_3
     - bzip2 =1.0.8 =h4e30115_10
     - ca-certificates =2026.7.22 =hbd8a1cb_0
-    - cairo =1.18.4 =h580cee5_3
+    - cairo =1.18.6 =h580cee5_0
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h7f933ea_0
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
@@ -93,15 +93,15 @@ requirements:
     - libclang13 =23.1.1 =default_hfbe3a31_0
     - libcxx =23.1.1 =h55c6f16_0
     - libedit =3.1.20250104 =pl5321h26f1114_1
-    - libexpat =2.8.1 =hf6b4638_1
+    - libexpat =2.8.4 =h6111c0a_0
     - libffi =3.7.0 =h47dc5ef_1
     - libfreetype =2.14.3 =hce30654_2
     - libfreetype6 =2.14.3 =h2ed5691_2
     - libglib =2.90.0 =hccd281b_0
-    - libharfbuzz =14.4.0 =hcda0f7c_1
+    - libharfbuzz =14.5.0 =hcda0f7c_0
     - libiconv =1.18 =he4c29f2_3
-    - libintl =0.25.1 =h493aca8_0
-    - libintl-devel =0.25.1 =h493aca8_0
+    - libintl =0.25.1 =hae62183_2
+    - libintl-devel =0.25.1 =hae62183_2
     - libjpeg-turbo =3.2.0 =h84a0fba_1
     - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm23 =23.1.1 =h759d1ac_0

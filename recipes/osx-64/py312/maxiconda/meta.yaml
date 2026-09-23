@@ -94,7 +94,7 @@ requirements:
     - ca-certificates =2026.7.22 =hbd8a1cb_0
     - cached-property =2.0.1 =pyhcf101f3_0
     - cached_property =2.0.1 =pyhcf101f3_0
-    - cairo =1.18.4 =h5791faa_3
+    - cairo =1.18.6 =h5791faa_0
     - cctools =1030.6.3 =llvm23_1_h254e556_6
     - cctools_impl_osx-64 =1030.6.3 =llvm23_1_h3bd330e_6
     - cctools_osx-64 =1030.6.3 =llvm23_1_h254e556_6
@@ -125,7 +125,7 @@ requirements:
     - conda-pypi =0.12.0 =pyh5ded981_0
     - conda-rattler-solver =0.1.1 =pyhcf101f3_0
     - conda-recipe-manager =0.10.6 =pyhd8ed1ab_1
-    - conda-self =0.2.1 =pyhd8ed1ab_0
+    - conda-self =0.3.0 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.4.0 =py312hcba6f97_1
     - cpp-expected =1.3.1 =hebe015c_1
@@ -169,7 +169,7 @@ requirements:
     - gstreamer =1.26.11 =h5bdcca5_0
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
-    - harfbuzz =14.4.0 =h694c41f_1
+    - harfbuzz =14.5.0 =h694c41f_0
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -197,7 +197,7 @@ requirements:
     - jupyterlab =4.6.4 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.1 =pyh5ded981_0
-    - kiwisolver =1.5.1 =py312hcba6f97_1
+    - kiwisolver =1.5.1 =py312hcba6f97_3
     - krb5 =1.22.2 =h69064fd_2
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.19.1 =h4e6bd4b_3
@@ -205,7 +205,7 @@ requirements:
     - ld64_osx-64 =956.6 =llvm23_1_h484b24f_6
     - lerc =4.2.0 =h35c7297_0
     - libarchive =3.8.9 =gpl_h381e297_101
-    - libasprintf =0.25.1 =h3184127_1
+    - libasprintf =0.25.1 =h98e67c8_2
     - libblas =3.11.0 =11_he492b99_openblas
     - libbrotlicommon =1.2.0 =he0616a4_4
     - libbrotlidec =1.2.0 =h4a2f56c_4
@@ -222,21 +222,21 @@ requirements:
     - libdeflate =1.25 =h7ad9622_1
     - libedit =3.1.20250104 =pl5321hba2e2ab_1
     - libev =4.33 =ha3d0635_3
-    - libexpat =2.8.1 =hcc62823_1
+    - libexpat =2.8.4 =h6e061ac_0
     - libffi =3.7.0 =h6b3a05b_1
     - libfreetype =2.14.3 =h694c41f_2
     - libfreetype6 =2.14.3 =h8afe040_2
     - libgcc =16.2.0 =h13771c8_5
     - libgcc-devel_osx-64 =16.2.0 =h94c7937_105
-    - libgettextpo =0.25.1 =h3184127_1
+    - libgettextpo =0.25.1 =h98e67c8_2
     - libgfortran =16.2.0 =h7e5c614_5
     - libgfortran5 =16.2.0 =h2539e6c_5
     - libglib =2.90.0 =h7e55108_0
-    - libharfbuzz =14.4.0 =h2974713_1
-    - libharfbuzz-devel =14.4.0 =h2974713_1
+    - libharfbuzz =14.5.0 =h2974713_0
+    - libharfbuzz-devel =14.5.0 =h2974713_0
     - libiconv =1.18 =h4ae439b_3
-    - libintl =0.25.1 =h3184127_1
-    - libintl-devel =0.25.1 =h3184127_1
+    - libintl =0.25.1 =h98e67c8_2
+    - libintl-devel =0.25.1 =h98e67c8_2
     - libjpeg-turbo =3.2.0 =ha1e9b39_1
     - liblapack =3.11.0 =11_h859234e_openblas
     - libllvm18 =18.1.8 =default_h9399c5b_12
@@ -330,7 +330,7 @@ requirements:
     - pygments =2.21.0 =pyhcf101f3_0
     - pyobjc-core =12.2.2 =py312hfc9a296_1
     - pyobjc-framework-cocoa =12.2.2 =py312ha4ebf3d_1
-    - pyparsing =3.3.2 =pyhcf101f3_0
+    - pyparsing =3.3.3 =pyh5ded981_0
     - pyproject_hooks =1.2.0 =pyhd8ed1ab_1
     - pyqt5-sip =12.17.0 =py312hbaf6d96_2
     - pysocks =1.7.1 =pyha55dd90_7
