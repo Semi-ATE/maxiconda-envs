@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - cython =3.3.0 =py311h71a39cc_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.168.0 =py311hfcb3ee1_0
+    - hypothesis =6.168.1 =py311hfcb3ee1_0
     - ipython =9.17.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.2 =py311ha01d089_1
@@ -118,7 +118,7 @@ requirements:
     - conda =26.7.2 =py311h50b1a05_2
     - conda-index =0.13.0 =pyh5ded981_0
     - conda-libmamba-solver =26.7.0 =pyhcf101f3_0
-    - conda-lockfiles =0.2.1 =pyhd8ed1ab_0
+    - conda-lockfiles =0.2.2 =pyhd8ed1ab_0
     - conda-package-handling =2.6.0 =pyh5ded981_0
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
     - conda-pypi =0.12.0 =pyh5ded981_0
@@ -215,9 +215,9 @@ requirements:
     - libclang13 =23.1.1 =default_hfbe3a31_0
     - libcompiler-rt =23.1.1 =hdb3d66b_0
     - libcurl =8.22.0 =h6651222_0
-    - libcxx =23.1.1 =h55c6f16_0
-    - libcxx-devel =23.1.1 =h6dc3340_0
-    - libcxx-headers =23.1.1 =h707e725_0
+    - libcxx =23.1.2 =h55c6f16_0
+    - libcxx-devel =23.1.2 =h6dc3340_0
+    - libcxx-headers =23.1.2 =h707e725_0
     - libdeflate =1.25 =he7e0567_1
     - libedit =3.1.20250104 =pl5321h26f1114_1
     - libev =4.33 =h1a92334_3
@@ -268,10 +268,10 @@ requirements:
     - libxml2 =2.15.4 =h550178d_0
     - libxml2-16 =2.15.4 =heb56d2d_0
     - libzlib =1.3.2 =h8088a28_3
-    - llvm-openmp =23.1.1 =hdb3d66b_0
+    - llvm-openmp =23.1.2 =hdb3d66b_0
     - llvm-tools =23.1.1 =hdb3d66b_0
     - llvm-tools-23 =23.1.1 =h79441dc_0
-    - llvmlite =0.49.0 =py311h4a78e08_3
+    - llvmlite =0.49.0 =py311h4a78e08_4
     - lz4-c =1.10.0 =hdca3b7d_2
     - lzo =2.10 =h74c22ad_1003
     - make =4.4.1 =h84a0fba_3
@@ -311,7 +311,7 @@ requirements:
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h784d473_3
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
-    - platformdirs =4.11.11 =pyh5ded981_0
+    - platformdirs =4.11.12 =pyh5ded981_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
@@ -333,13 +333,13 @@ requirements:
     - pyproject_hooks =1.2.0 =pyhd8ed1ab_1
     - pyqt5-sip =12.17.0 =py311h251fd82_2
     - pysocks =1.7.1 =pyha55dd90_7
-    - python-build =1.6.0 =pyhc364b38_0
+    - python-build =1.6.1 =pyhc364b38_0
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
     - python-gil =3.11.16 =hd8ed1ab_2
     - python-installer =1.0.1 =pyh332efcf_0
     - python-json-logger =4.2.0 =pyhd8ed1ab_0
-    - python-tzdata =2026.3 =pyhd8ed1ab_0
+    - python-tzdata =2026.4 =pyh5ded981_0
     - python-utils =4.0.1 =pyh332efcf_0
     - python_abi =3.11 =9_cp311
     - pyxdg =0.28 =pyhd8ed1ab_0
@@ -575,7 +575,7 @@ requirements:
     - unicodedata2 =18.0.0 =py311h5edb25e_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.8.0 =pyhd8ed1ab_0
-    - wcwidth =0.8.4 =pyh5ded981_0
+    - wcwidth =0.8.5 =pyh5ded981_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - websocket-client =1.9.2 =pyh5ded981_1
