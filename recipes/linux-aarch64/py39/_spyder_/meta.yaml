@@ -166,16 +166,16 @@ requirements:
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.3 =h8af1aa0_2
     - libfreetype6 =2.14.3 =h9cc7050_2
-    - libgcc =16.2.0 =h205dda4_5
-    - libgcc-ng =16.2.0 =he9431aa_5
-    - libgfortran =16.2.0 =he9431aa_5
-    - libgfortran-ng =16.2.0 =he9431aa_5
-    - libgfortran5 =16.2.0 =hc864f27_5
+    - libgcc =16.2.0 =h205dda4_7
+    - libgcc-ng =16.2.0 =he9431aa_7
+    - libgfortran =16.2.0 =he9431aa_7
+    - libgfortran-ng =16.2.0 =he9431aa_7
+    - libgfortran5 =16.2.0 =hc864f27_7
     - libgl =1.7.0 =hd24410f_5
     - libglib =2.84.0 =hc486b8e_0
     - libglvnd =1.7.0 =hd24410f_5
     - libglx =1.7.0 =hd24410f_5
-    - libgomp =16.2.0 =h8acb6b2_5
+    - libgomp =16.2.0 =h8acb6b2_7
     - libiconv =1.18 =h1ea5142_3
     - libjpeg-turbo =3.2.0 =he30d5cf_1
     - liblapack =3.11.0 =11_h88aeb00_openblas
@@ -195,8 +195,8 @@ requirements:
     - libsodium =1.0.20 =h68df207_0
     - libspatialindex =2.1.0 =h4125222_2
     - libsqlite =3.53.4 =hd26f1b6_1
-    - libstdcxx =16.2.0 =hef695bb_5
-    - libstdcxx-ng =16.2.0 =hdbbeba8_5
+    - libstdcxx =16.2.0 =hef695bb_7
+    - libstdcxx-ng =16.2.0 =hdbbeba8_7
     - libsystemd0 =262 =hd1ea486_0
     - libtiff =4.7.2 =h45f9f85_1
     - libuuid =2.42.4 =hd6fdeab_0

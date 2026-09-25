@@ -147,8 +147,8 @@ requirements:
     - libbrotlienc =1.2.0 =h3d41943_4
     - libcblas =3.11.0 =11_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
-    - libclang-cpp23.1 =23.1.1 =default_h6e863b9_0
-    - libclang13 =23.1.1 =default_h657ec97_0
+    - libclang-cpp23.1 =23.1.2 =default_h6e863b9_0
+    - libclang13 =23.1.2 =default_h3065a3b_0
     - libcxx =23.1.2 =h19cb2f5_0
     - libdeflate =1.25 =h7ad9622_1
     - libedit =3.1.20250104 =pl5321hba2e2ab_1
@@ -156,9 +156,9 @@ requirements:
     - libffi =3.7.0 =h6b3a05b_1
     - libfreetype =2.14.3 =h694c41f_2
     - libfreetype6 =2.14.3 =h8afe040_2
-    - libgcc =16.2.0 =h13771c8_5
-    - libgfortran =16.2.0 =h7e5c614_5
-    - libgfortran5 =16.2.0 =h2539e6c_5
+    - libgcc =16.2.0 =h13771c8_6
+    - libgfortran =16.2.0 =h7e5c614_6
+    - libgfortran5 =16.2.0 =h2539e6c_6
     - libglib =2.90.0 =h7e55108_0
     - libharfbuzz =14.5.0 =h2974713_0
     - libiconv =1.18 =h4ae439b_3
@@ -291,7 +291,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py310h64024f4_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.16.8 =haa00350_0
+    - ruff =0.16.9 =haa00350_0
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.10.0 =py310ha75780e_1
     - six =1.17.0 =pyhe01879c_1

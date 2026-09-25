@@ -36,7 +36,7 @@ requirements:
     - scipy =1.10.1 =py38h59b608b_3
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
 
-    # 254 secondary packages :
+    # 253 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - alsa-lib =1.2.16.1 =h7cc23a3_1
     - asttokens =3.0.0 =pyhd8ed1ab_0
@@ -90,7 +90,7 @@ requirements:
     - h5py =3.11.0 =nompi_py38h55b5aab_102
     - harfbuzz =12.2.0 =h15599e2_0
     - hdf4 =4.2.15 =h2a13503_7
-    - hdf5 =1.14.3 =nompi_h2d575fe_109
+    - hdf5 =1.14.3 =nompi_hdf9ad27_105
     - hpack =4.0.0 =pyh9f0ad1d_0
     - hyperframe =6.0.1 =pyhd8ed1ab_0
     - icu =75.1 =he02047a_0
@@ -135,17 +135,16 @@ requirements:
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_2
     - libfreetype6 =2.14.3 =h5e6c136_2
-    - libgcc =16.2.0 =ha9f2e26_5
-    - libgcc-ng =16.2.0 =h69a702a_5
-    - libgfortran =16.2.0 =h69a702a_5
-    - libgfortran-ng =16.2.0 =h69a702a_5
-    - libgfortran5 =16.2.0 =h6b99dfc_5
+    - libgcc =16.2.0 =ha9f2e26_6
+    - libgcc-ng =16.2.0 =h69a702a_6
+    - libgfortran-ng =9.3.0 =hdf63c60_16
+    - libgfortran5 =16.2.0 =h6b99dfc_7
     - libgl =1.7.0 =ha4b6fd6_5
     - libglib =2.90.0 =h569388d_0
     - libglu =9.0.3 =h5888daf_1
     - libglvnd =1.7.0 =ha4b6fd6_5
     - libglx =1.7.0 =ha4b6fd6_5
-    - libgomp =16.2.0 =he0feb66_5
+    - libgomp =16.2.0 =he0feb66_6
     - libiconv =1.18 =h0cb94f2_3
     - libjpeg-turbo =3.2.0 =hb03c661_1
     - liblapack =3.9.0 =20_linux64_openblas
@@ -168,8 +167,8 @@ requirements:
     - libsodium =1.0.18 =h36c2ea0_1
     - libsqlite =3.53.4 =h0737f62_1
     - libssh2 =1.11.1 =h6154650_1
-    - libstdcxx =16.2.0 =h934c35e_5
-    - libstdcxx-ng =16.2.0 =hdf11a46_5
+    - libstdcxx =16.2.0 =h934c35e_6
+    - libstdcxx-ng =16.2.0 =hdf11a46_6
     - libsystemd0 =262 =h26e0ef7_0
     - libtiff =4.7.2 =hcc2c06a_1
     - libuuid =2.42.4 =hcfc3c73_0

@@ -126,8 +126,8 @@ requirements:
     - freetype =2.14.3 =h8af1aa0_2
     - fribidi =1.0.17 =h5bc82ec_0
     - frozenlist =1.7.0 =py39h5064d8f_0
-    - gcc_impl_linux-aarch64 =16.2.0 =hcf4b594_5
-    - gfortran_impl_linux-aarch64 =16.2.0 =h339fd1e_5
+    - gcc_impl_linux-aarch64 =16.2.0 =h5425ead_7
+    - gfortran_impl_linux-aarch64 =16.2.0 =h339fd1e_7
     - glib =2.84.3 =h701fa2e_0
     - glib-tools =2.84.3 =hc87f4d4_0
     - gmp =6.3.0 =h4d6b352_3
@@ -137,7 +137,7 @@ requirements:
     - gsl =2.7 =h294027d_0
     - gst-plugins-base =1.24.11 =h83ffb7f_0
     - gstreamer =1.24.11 =h17c303d_0
-    - gxx_impl_linux-aarch64 =16.2.0 =h1e3c31f_5
+    - gxx_impl_linux-aarch64 =16.2.0 =h1e3c31f_7
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.2.0 =pyhd8ed1ab_0
     - harfbuzz =11.4.5 =he4899c9_0
@@ -198,17 +198,17 @@ requirements:
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.3 =h8af1aa0_2
     - libfreetype6 =2.14.3 =h9cc7050_2
-    - libgcc =16.2.0 =h205dda4_5
-    - libgcc-devel_linux-aarch64 =16.2.0 =hc0c2482_105
-    - libgcc-ng =16.2.0 =he9431aa_5
-    - libgfortran =16.2.0 =he9431aa_5
-    - libgfortran-ng =16.2.0 =he9431aa_5
-    - libgfortran5 =16.2.0 =hc864f27_5
+    - libgcc =16.2.0 =h205dda4_7
+    - libgcc-devel_linux-aarch64 =16.2.0 =hc0c2482_107
+    - libgcc-ng =16.2.0 =he9431aa_7
+    - libgfortran =16.2.0 =he9431aa_7
+    - libgfortran-ng =16.2.0 =he9431aa_7
+    - libgfortran5 =16.2.0 =hc864f27_7
     - libgl =1.7.0 =hd24410f_5
     - libglib =2.84.3 =h75d4a95_0
     - libglvnd =1.7.0 =hd24410f_5
     - libglx =1.7.0 =hd24410f_5
-    - libgomp =16.2.0 =h8acb6b2_5
+    - libgomp =16.2.0 =h8acb6b2_7
     - libiconv =1.18 =h1ea5142_3
     - libjpeg-turbo =3.2.0 =he30d5cf_1
     - liblapack =3.11.0 =11_h88aeb00_openblas
@@ -226,14 +226,14 @@ requirements:
     - libpciaccess =0.19 =he30d5cf_1
     - libpng =1.6.58 =hf9b7768_1
     - libpq =17.7 =haf03d9f_1
-    - libsanitizer =16.2.0 =h73cac2c_5
+    - libsanitizer =16.2.0 =h73cac2c_7
     - libsndfile =1.2.2 =h7354dbf_3
     - libsodium =1.0.20 =h68df207_0
     - libsqlite =3.53.4 =hd26f1b6_1
     - libssh2 =1.11.1 =h7572e3e_1
-    - libstdcxx =16.2.0 =hef695bb_5
-    - libstdcxx-devel_linux-aarch64 =16.2.0 =h082e5f6_105
-    - libstdcxx-ng =16.2.0 =hdbbeba8_5
+    - libstdcxx =16.2.0 =hef695bb_7
+    - libstdcxx-devel_linux-aarch64 =16.2.0 =h082e5f6_107
+    - libstdcxx-ng =16.2.0 =hdbbeba8_7
     - libsystemd0 =262 =hd1ea486_0
     - libtiff =4.7.2 =h45f9f85_1
     - libuuid =2.42.4 =hd6fdeab_0
@@ -360,7 +360,7 @@ requirements:
     - r-foreign =0.8_91 =r45h0557e7b_0
     - r-formatr =1.14 =r45hc72bb7e_3
     - r-fs =2.1.0 =r45hd601667_0
-    - r-future =1.75.0 =r45hc72bb7e_0
+    - r-future =1.76.0 =r45hacb3a79_0
     - r-future.apply =1.20.2 =r45hc72bb7e_0
     - r-gargle =1.6.1 =r45h785f33e_0
     - r-generics =0.1.4 =r45hc72bb7e_1

@@ -137,8 +137,8 @@ requirements:
     - freetype =2.14.3 =h694c41f_2
     - fribidi =1.0.17 =hd115831_0
     - frozenlist =1.7.0 =py39h262b9f6_0
-    - gcc_impl_osx-64 =16.2.0 =hd8ed746_5
-    - gfortran_impl_osx-64 =16.2.0 =h51020b9_5
+    - gcc_impl_osx-64 =16.2.0 =hd8ed746_6
+    - gfortran_impl_osx-64 =16.2.0 =h51020b9_6
     - glib =2.90.0 =h3c0ab5d_0
     - glib-tools =2.90.0 =he718cb3_0
     - gmp =6.3.0 =h65442b7_3
@@ -206,11 +206,11 @@ requirements:
     - libffi =3.7.0 =h6b3a05b_1
     - libfreetype =2.14.3 =h694c41f_2
     - libfreetype6 =2.14.3 =h8afe040_2
-    - libgcc =16.2.0 =h13771c8_5
-    - libgcc-devel_osx-64 =16.2.0 =h94c7937_105
+    - libgcc =16.2.0 =h13771c8_6
+    - libgcc-devel_osx-64 =16.2.0 =h94c7937_106
     - libgettextpo =0.25.1 =h98e67c8_2
-    - libgfortran =16.2.0 =h7e5c614_5
-    - libgfortran5 =16.2.0 =h2539e6c_5
+    - libgfortran =16.2.0 =h7e5c614_6
+    - libgfortran5 =16.2.0 =h2539e6c_6
     - libglib =2.90.0 =h7e55108_0
     - libharfbuzz =14.5.0 =h2974713_0
     - libharfbuzz-devel =14.5.0 =h2974713_0
@@ -358,7 +358,7 @@ requirements:
     - r-foreign =0.8_91 =r45hdab4d57_0
     - r-formatr =1.14 =r45hc72bb7e_3
     - r-fs =2.1.0 =r45h384437d_0
-    - r-future =1.75.0 =r45hc72bb7e_0
+    - r-future =1.76.0 =r45hacb3a79_0
     - r-future.apply =1.20.2 =r45hc72bb7e_0
     - r-gargle =1.6.1 =r45h785f33e_0
     - r-generics =0.1.4 =r45hc72bb7e_1

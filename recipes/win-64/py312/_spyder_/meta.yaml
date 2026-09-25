@@ -96,7 +96,7 @@ requirements:
     - fontconfig =2.18.3 =hd47e2ca_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
-    - fonttools =4.65.0 =py312h05f76fc_0
+    - fonttools =4.66.0 =py312h05f76fc_0
     - freetype =2.14.3 =h57928b3_2
     - fribidi =1.0.17 =hfd05255_0
     - frozenlist =1.8.0 =py312hfdf67e6_0
@@ -141,7 +141,7 @@ requirements:
     - libbrotlidec =1.2.0 =h84f9c24_4
     - libbrotlienc =1.2.0 =he2a975b_4
     - libcblas =3.11.0 =11_h2a3cdd5_mkl
-    - libclang13 =23.1.1 =default_hacd6ee9_0
+    - libclang13 =23.1.2 =default_hacd6ee9_0
     - libdeflate =1.25 =h1a1d4e4_1
     - libexpat =2.8.4 =hac47afa_0
     - libffi =3.7.0 =h3d046cb_1
@@ -224,7 +224,7 @@ requirements:
     - pyflakes =3.2.0 =pyhd8ed1ab_1
     - pygithub =2.10.0 =pyhd8ed1ab_0
     - pygments =2.21.0 =pyhcf101f3_0
-    - pyjwt =2.14.0 =pyh5ded981_0
+    - pyjwt =2.15.0 =pyh5ded981_0
     - pylint =4.0.9 =pyh5ded981_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
@@ -270,13 +270,13 @@ requirements:
     - rope =1.14.0 =pyh5ded981_1
     - rpds-py =2026.6.3 =py312hdabe01f_2
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.16.8 =hcc30601_0
+    - ruff =0.16.9 =hcc30601_0
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.10.0 =py312hbb81ca0_1
     - six =1.17.0 =pyhe01879c_1
     - snowballstemmer =3.1.1 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
-    - soupsieve =2.9.2 =pyhd8ed1ab_0
+    - soupsieve =2.10 =pyhd8ed1ab_0
     - sphinx =9.1.0 =pyhd8ed1ab_0
     - sphinxcontrib-applehelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-devhelp =2.0.0 =pyhd8ed1ab_1
@@ -311,7 +311,7 @@ requirements:
     - vc14_runtime =14.51.36247 =habf1de7_41
     - vcomp14 =14.51.36247 =habf1de7_41
     - watchdog =6.0.0 =py312h209ec74_4
-    - wcwidth =0.8.5 =pyh5ded981_0
+    - wcwidth =0.9.1 =pyh5ded981_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0

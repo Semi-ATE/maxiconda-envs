@@ -35,7 +35,7 @@ requirements:
     - spyder =5.4.5 =py38h578d9bd_0
     - sympy =1.13.3 =pyh2585a3b_104
 
-    # 331 secondary packages :
+    # 330 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - alsa-lib =1.2.16.1 =h7cc23a3_1
@@ -146,8 +146,8 @@ requirements:
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.9.0 =20_linux64_openblas
     - libclang-cpp22.1 =22.1.8 =default_h0acdd01_10
-    - libclang-cpp23.1 =23.1.1 =default_h0acdd01_0
-    - libclang13 =23.1.1 =default_h7037f76_0
+    - libclang-cpp23.1 =23.1.2 =default_h0acdd01_0
+    - libclang13 =23.1.2 =default_hfab3205_0
     - libcups =2.3.3 =h7a8fb5f_6
     - libdeflate =1.25 =hd45a770_1
     - libdrm =2.4.129 =h7cc23a3_0
@@ -159,16 +159,15 @@ requirements:
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_2
     - libfreetype6 =2.14.3 =h5e6c136_2
-    - libgcc =16.2.0 =ha9f2e26_5
-    - libgcc-ng =16.2.0 =h69a702a_5
-    - libgfortran =16.2.0 =h69a702a_5
-    - libgfortran-ng =16.2.0 =h69a702a_5
-    - libgfortran5 =16.2.0 =h6b99dfc_5
+    - libgcc =16.2.0 =ha9f2e26_6
+    - libgcc-ng =16.2.0 =h69a702a_6
+    - libgfortran-ng =9.3.0 =hdf63c60_16
+    - libgfortran5 =16.2.0 =h6b99dfc_7
     - libgl =1.7.0 =ha4b6fd6_5
     - libglib =2.90.0 =h569388d_0
     - libglvnd =1.7.0 =ha4b6fd6_5
     - libglx =1.7.0 =ha4b6fd6_5
-    - libgomp =16.2.0 =he0feb66_5
+    - libgomp =16.2.0 =he0feb66_6
     - libharfbuzz =14.5.0 =h23af247_0
     - libharfbuzz-devel =14.5.0 =h23af247_0
     - libiconv =1.18 =h0cb94f2_3
@@ -190,8 +189,8 @@ requirements:
     - libsodium =1.0.18 =h36c2ea0_1
     - libspatialindex =2.0.0 =he02047a_0
     - libsqlite =3.53.4 =h13e7031_1
-    - libstdcxx =16.2.0 =h934c35e_5
-    - libstdcxx-ng =16.2.0 =hdf11a46_5
+    - libstdcxx =16.2.0 =h934c35e_6
+    - libstdcxx-ng =16.2.0 =hdf11a46_6
     - libsystemd0 =262 =h26e0ef7_0
     - libtiff =4.7.2 =hcc2c06a_1
     - libuuid =2.42.4 =hcfc3c73_0

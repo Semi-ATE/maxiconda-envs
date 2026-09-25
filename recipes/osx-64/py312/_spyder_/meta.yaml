@@ -98,7 +98,7 @@ requirements:
     - fontconfig =2.18.3 =h7f3b9c9_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
-    - fonttools =4.65.0 =py312hbb2d1fb_0
+    - fonttools =4.66.0 =py312hbb2d1fb_0
     - freetype =2.14.3 =h694c41f_2
     - fribidi =1.0.17 =hd115831_0
     - frozenlist =1.8.0 =py312h90c63f8_0
@@ -147,8 +147,8 @@ requirements:
     - libbrotlienc =1.2.0 =h3d41943_4
     - libcblas =3.11.0 =11_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
-    - libclang-cpp23.1 =23.1.1 =default_h6e863b9_0
-    - libclang13 =23.1.1 =default_h657ec97_0
+    - libclang-cpp23.1 =23.1.2 =default_h6e863b9_0
+    - libclang13 =23.1.2 =default_h3065a3b_0
     - libcxx =23.1.2 =h19cb2f5_0
     - libdeflate =1.25 =h7ad9622_1
     - libedit =3.1.20250104 =pl5321hba2e2ab_1
@@ -156,9 +156,9 @@ requirements:
     - libffi =3.7.0 =h6b3a05b_1
     - libfreetype =2.14.3 =h694c41f_2
     - libfreetype6 =2.14.3 =h8afe040_2
-    - libgcc =16.2.0 =h13771c8_5
-    - libgfortran =16.2.0 =h7e5c614_5
-    - libgfortran5 =16.2.0 =h2539e6c_5
+    - libgcc =16.2.0 =h13771c8_6
+    - libgfortran =16.2.0 =h7e5c614_6
+    - libgfortran5 =16.2.0 =h2539e6c_6
     - libglib =2.90.0 =h7e55108_0
     - libharfbuzz =14.5.0 =h2974713_0
     - libiconv =1.18 =h4ae439b_3
@@ -245,7 +245,7 @@ requirements:
     - pyflakes =3.2.0 =pyhd8ed1ab_1
     - pygithub =2.10.0 =pyhd8ed1ab_0
     - pygments =2.21.0 =pyhcf101f3_0
-    - pyjwt =2.14.0 =pyh5ded981_0
+    - pyjwt =2.15.0 =pyh5ded981_0
     - pylint =4.0.9 =pyh5ded981_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
@@ -294,13 +294,13 @@ requirements:
     - rope =1.14.0 =pyh5ded981_1
     - rpds-py =2026.6.3 =py312h3b11fa5_2
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.16.8 =haa00350_0
+    - ruff =0.16.9 =haa00350_0
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.10.0 =py312h69bf00f_1
     - six =1.17.0 =pyhe01879c_1
     - snowballstemmer =3.1.1 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
-    - soupsieve =2.9.2 =pyhd8ed1ab_0
+    - soupsieve =2.10 =pyhd8ed1ab_0
     - sphinx =9.1.0 =pyhd8ed1ab_0
     - sphinxcontrib-applehelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-devhelp =2.0.0 =pyhd8ed1ab_1
@@ -329,7 +329,7 @@ requirements:
     - unicodedata2 =18.0.0 =py312h6ea13a3_0
     - urllib3 =2.8.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py312hdc27ec5_4
-    - wcwidth =0.8.5 =pyh5ded981_0
+    - wcwidth =0.9.1 =pyh5ded981_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0

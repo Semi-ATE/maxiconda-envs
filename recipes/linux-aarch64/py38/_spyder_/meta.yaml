@@ -146,8 +146,8 @@ requirements:
     - libcap =2.78 =hfcc8634_1
     - libcblas =3.9.0 =20_linuxaarch64_openblas
     - libclang-cpp22.1 =22.1.8 =default_h01b09c7_10
-    - libclang-cpp23.1 =23.1.1 =default_h01b09c7_0
-    - libclang13 =23.1.1 =default_h24fed5d_0
+    - libclang-cpp23.1 =23.1.2 =default_h01b09c7_0
+    - libclang13 =23.1.2 =default_h473506b_0
     - libcups =2.3.3 =h4f2b762_6
     - libdeflate =1.25 =hfa851ae_1
     - libdrm =2.4.129 =h5bc82ec_0
@@ -159,16 +159,16 @@ requirements:
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.3 =h8af1aa0_2
     - libfreetype6 =2.14.3 =h9cc7050_2
-    - libgcc =16.2.0 =h205dda4_5
-    - libgcc-ng =16.2.0 =he9431aa_5
-    - libgfortran =16.2.0 =he9431aa_5
-    - libgfortran-ng =16.2.0 =he9431aa_5
-    - libgfortran5 =16.2.0 =hc864f27_5
+    - libgcc =16.2.0 =h205dda4_7
+    - libgcc-ng =16.2.0 =he9431aa_7
+    - libgfortran =16.2.0 =he9431aa_7
+    - libgfortran-ng =16.2.0 =he9431aa_7
+    - libgfortran5 =16.2.0 =hc864f27_7
     - libgl =1.7.0 =hd24410f_5
     - libglib =2.90.0 =h3584fe5_0
     - libglvnd =1.7.0 =hd24410f_5
     - libglx =1.7.0 =hd24410f_5
-    - libgomp =16.2.0 =h8acb6b2_5
+    - libgomp =16.2.0 =h8acb6b2_7
     - libharfbuzz =14.5.0 =h8f7ccb3_0
     - libharfbuzz-devel =14.5.0 =h8f7ccb3_0
     - libiconv =1.18 =h1ea5142_3
@@ -190,8 +190,8 @@ requirements:
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =2.0.0 =h0a1ffab_0
     - libsqlite =3.53.4 =h399dd60_1
-    - libstdcxx =16.2.0 =hef695bb_5
-    - libstdcxx-ng =16.2.0 =hdbbeba8_5
+    - libstdcxx =16.2.0 =hef695bb_7
+    - libstdcxx-ng =16.2.0 =hdbbeba8_7
     - libsystemd0 =262 =hd1ea486_0
     - libtiff =4.7.2 =h45f9f85_1
     - libuuid =2.42.4 =hd6fdeab_0

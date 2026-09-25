@@ -154,8 +154,8 @@ requirements:
     - libcap =2.78 =hfcc8634_1
     - libcblas =3.11.0 =11_hd72aa62_openblas
     - libclang-cpp22.1 =22.1.8 =default_h01b09c7_10
-    - libclang-cpp23.1 =23.1.1 =default_h01b09c7_0
-    - libclang13 =23.1.1 =default_h24fed5d_0
+    - libclang-cpp23.1 =23.1.2 =default_h01b09c7_0
+    - libclang13 =23.1.2 =default_h473506b_0
     - libcups =2.3.3 =h4f2b762_6
     - libdeflate =1.25 =hfa851ae_1
     - libdrm =2.4.129 =h5bc82ec_0
@@ -168,17 +168,17 @@ requirements:
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.3 =h8af1aa0_2
     - libfreetype6 =2.14.3 =h9cc7050_2
-    - libgcc =16.2.0 =h205dda4_5
-    - libgcc-ng =16.2.0 =he9431aa_5
-    - libgfortran =16.2.0 =he9431aa_5
-    - libgfortran5 =16.2.0 =hc864f27_5
+    - libgcc =16.2.0 =h205dda4_7
+    - libgcc-ng =16.2.0 =he9431aa_7
+    - libgfortran =16.2.0 =he9431aa_7
+    - libgfortran5 =16.2.0 =hc864f27_7
     - libgl =1.7.0 =hd24410f_5
     - libgl-devel =1.7.0 =hd24410f_5
     - libglib =2.90.0 =h3584fe5_0
     - libglvnd =1.7.0 =hd24410f_5
     - libglx =1.7.0 =hd24410f_5
     - libglx-devel =1.7.0 =hd24410f_5
-    - libgomp =16.2.0 =h8acb6b2_5
+    - libgomp =16.2.0 =h8acb6b2_7
     - libharfbuzz =14.4.0 =h8f7ccb3_1
     - libharfbuzz-devel =14.4.0 =h8f7ccb3_1
     - libiconv =1.18 =h1ea5142_3
@@ -200,8 +200,8 @@ requirements:
     - libsodium =1.0.22 =h29ee22c_3
     - libspatialindex =2.1.0 =h4125222_2
     - libsqlite =3.53.4 =h399dd60_1
-    - libstdcxx =16.2.0 =hef695bb_5
-    - libstdcxx-ng =16.2.0 =hdbbeba8_5
+    - libstdcxx =16.2.0 =hef695bb_7
+    - libstdcxx-ng =16.2.0 =hdbbeba8_7
     - libsystemd0 =262 =hd1ea486_0
     - libtiff =4.7.2 =h45f9f85_1
     - libuuid =2.42.4 =hd6fdeab_0
@@ -319,7 +319,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py310haddc216_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.16.8 =h4445a34_0
+    - ruff =0.16.9 =h4445a34_0
     - secretstorage =3.5.0 =py310hbbe02a8_1
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.16.0 =py310hbe5e9e6_0
