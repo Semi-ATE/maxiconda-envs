@@ -83,9 +83,9 @@ requirements:
     - binutils_impl_linux-64 =2.46.1 =default_hfdba357_102
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.1.0 =hb9d3cd8_3
-    - brotli-bin =1.1.0 =hb9d3cd8_3
-    - brotli-python =1.1.0 =py39hf88036b_3
+    - brotli =1.2.0 =h505cf86_4
+    - brotli-bin =1.2.0 =h9908984_4
+    - brotli-python =1.0.9 =py39h5a03fae_8
     - bwidget =1.10.1 =hfc2019e_3
     - bzip2 =1.0.8 =hda65f42_10
     - c-ares =1.34.8 =hebe6cf0_2
@@ -126,7 +126,7 @@ requirements:
     - freetype =2.14.3 =ha770c72_2
     - fribidi =1.0.17 =h7cc23a3_0
     - frozenlist =1.7.0 =py39h53edacf_0
-    - gcc_impl_linux-64 =16.2.0 =hc7abebd_6
+    - gcc_impl_linux-64 =16.2.0 =h9891192_7
     - gfortran_impl_linux-64 =16.2.0 =hf930d89_7
     - glib =2.84.3 =h89d24bf_0
     - glib-tools =2.84.3 =hf516916_0
@@ -137,7 +137,7 @@ requirements:
     - gsl =2.7 =he838d99_0
     - gst-plugins-base =1.24.11 =h651a532_0
     - gstreamer =1.24.11 =hc37bda9_0
-    - gxx_impl_linux-64 =16.2.0 =h0d273dc_6
+    - gxx_impl_linux-64 =16.2.0 =h0d273dc_7
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.2.0 =pyhd8ed1ab_0
     - harfbuzz =11.4.5 =h15599e2_0
@@ -178,9 +178,9 @@ requirements:
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_102
     - lerc =4.2.0 =hdb68285_0
     - libblas =3.11.0 =11_h4a7cf45_openblas
-    - libbrotlicommon =1.1.0 =hb9d3cd8_3
-    - libbrotlidec =1.1.0 =hb9d3cd8_3
-    - libbrotlienc =1.1.0 =hb9d3cd8_3
+    - libbrotlicommon =1.2.0 =h39a168f_4
+    - libbrotlidec =1.2.0 =ha411449_4
+    - libbrotlienc =1.2.0 =h018ffa1_4
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =11_h0358290_openblas
     - libclang-cpp20.1 =20.1.8 =default_hc302687_17
@@ -193,22 +193,22 @@ requirements:
     - libegl =1.7.0 =ha4b6fd6_5
     - libev =4.33 =h280c20c_3
     - libevent =2.1.12 =h5348a74_2
-    - libexpat =2.8.4 =hd2095e1_0
+    - libexpat =2.8.5 =hd2095e1_0
     - libffi =3.4.6 =h2dba641_1
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_2
     - libfreetype6 =2.14.3 =h5e6c136_2
-    - libgcc =16.2.0 =ha9f2e26_6
-    - libgcc-devel_linux-64 =16.2.0 =he3ce08f_106
-    - libgcc-ng =16.2.0 =h69a702a_6
-    - libgfortran =16.2.0 =h69a702a_6
-    - libgfortran-ng =16.2.0 =h69a702a_6
-    - libgfortran5 =16.2.0 =h6b99dfc_6
+    - libgcc =16.2.0 =ha9f2e26_7
+    - libgcc-devel_linux-64 =16.2.0 =he3ce08f_107
+    - libgcc-ng =16.2.0 =h69a702a_7
+    - libgfortran =16.2.0 =h69a702a_7
+    - libgfortran-ng =16.2.0 =h69a702a_7
+    - libgfortran5 =16.2.0 =h6b99dfc_7
     - libgl =1.7.0 =ha4b6fd6_5
     - libglib =2.84.3 =hf39c6af_0
     - libglvnd =1.7.0 =ha4b6fd6_5
     - libglx =1.7.0 =ha4b6fd6_5
-    - libgomp =16.2.0 =he0feb66_6
+    - libgomp =16.2.0 =he0feb66_7
     - libiconv =1.18 =h0cb94f2_3
     - libjpeg-turbo =3.2.0 =hb03c661_1
     - liblapack =3.11.0 =11_h47877c9_openblas
@@ -226,14 +226,14 @@ requirements:
     - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.58 =h922cc85_1
     - libpq =17.7 =h5c52fec_1
-    - libsanitizer =16.2.0 =h3048135_6
+    - libsanitizer =16.2.0 =h3048135_7
     - libsndfile =1.2.2 =hbc6d301_3
     - libsodium =1.0.20 =h4ab18f5_0
     - libsqlite =3.53.4 =h0737f62_1
     - libssh2 =1.11.1 =h6154650_1
-    - libstdcxx =16.2.0 =h934c35e_6
-    - libstdcxx-devel_linux-64 =16.2.0 =h86e191b_106
-    - libstdcxx-ng =16.2.0 =hdf11a46_6
+    - libstdcxx =16.2.0 =h934c35e_7
+    - libstdcxx-devel_linux-64 =16.2.0 =h86e191b_107
+    - libstdcxx-ng =16.2.0 =hdf11a46_7
     - libsystemd0 =262 =h26e0ef7_0
     - libtiff =4.7.2 =hcc2c06a_1
     - libuuid =2.42.4 =hcfc3c73_0

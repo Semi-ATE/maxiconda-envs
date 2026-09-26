@@ -152,13 +152,13 @@ requirements:
     - libcxx =23.1.2 =h19cb2f5_0
     - libdeflate =1.25 =h7ad9622_1
     - libedit =3.1.20250104 =pl5321hba2e2ab_1
-    - libexpat =2.8.4 =h6e061ac_0
+    - libexpat =2.8.5 =h6e061ac_0
     - libffi =3.7.0 =h6b3a05b_1
     - libfreetype =2.14.3 =h694c41f_2
     - libfreetype6 =2.14.3 =h8afe040_2
-    - libgcc =16.2.0 =h13771c8_6
-    - libgfortran =16.2.0 =h7e5c614_6
-    - libgfortran5 =16.2.0 =h2539e6c_6
+    - libgcc =16.2.0 =h13771c8_7
+    - libgfortran =16.2.0 =h7e5c614_7
+    - libgfortran5 =16.2.0 =h2539e6c_7
     - libglib =2.90.0 =h7e55108_0
     - libharfbuzz =14.5.0 =h2974713_0
     - libiconv =1.18 =h4ae439b_3
@@ -229,7 +229,7 @@ requirements:
     - pillow =12.3.0 =py311h3bf5400_4
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h2fb4741_3
-    - platformdirs =4.11.12 =pyh5ded981_0
+    - platformdirs =4.11.14 =pyh5ded981_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
@@ -329,7 +329,7 @@ requirements:
     - unicodedata2 =18.0.0 =py311h5e2e7b6_0
     - urllib3 =2.8.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py311h72e27ae_4
-    - wcwidth =0.9.1 =pyh5ded981_0
+    - wcwidth =0.9.1 =py311h9e0dfa3_1
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0

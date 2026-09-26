@@ -35,7 +35,7 @@ requirements:
     - spyder =6.1.7 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
-    # 358 secondary packages :
+    # 359 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiohttp =3.14.3 =py310h31b6992_0
@@ -163,27 +163,28 @@ requirements:
     - libegl =1.7.0 =ha4b6fd6_5
     - libegl-devel =1.7.0 =ha4b6fd6_5
     - libevent =2.1.12 =h5348a74_2
-    - libexpat =2.8.4 =hd2095e1_0
+    - libexpat =2.8.5 =hd2095e1_0
     - libffi =3.7.0 =h81df57d_1
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_2
     - libfreetype6 =2.14.3 =h5e6c136_2
-    - libgcc =16.2.0 =ha9f2e26_6
-    - libgcc-ng =16.2.0 =h69a702a_6
-    - libgfortran =16.2.0 =h69a702a_6
-    - libgfortran5 =16.2.0 =h6b99dfc_6
+    - libgcc =16.2.0 =ha9f2e26_7
+    - libgcc-ng =16.2.0 =h69a702a_7
+    - libgfortran =16.2.0 =h69a702a_7
+    - libgfortran5 =16.2.0 =h6b99dfc_7
     - libgl =1.7.0 =ha4b6fd6_5
     - libgl-devel =1.7.0 =ha4b6fd6_5
     - libglib =2.90.0 =h569388d_0
     - libglvnd =1.7.0 =ha4b6fd6_5
     - libglx =1.7.0 =ha4b6fd6_5
     - libglx-devel =1.7.0 =ha4b6fd6_5
-    - libgomp =16.2.0 =he0feb66_6
+    - libgomp =16.2.0 =he0feb66_7
     - libharfbuzz =14.4.0 =h23af247_1
     - libharfbuzz-devel =14.4.0 =h23af247_1
     - libiconv =1.18 =h0cb94f2_3
     - libjpeg-turbo =3.2.0 =hb03c661_1
     - liblapack =3.11.0 =11_h47877c9_openblas
+    - libllvm21 =21.1.8 =h474f4eb_1
     - libllvm22 =22.1.8 =h474f4eb_3
     - libllvm23 =23.1.2 =h474f4eb_0
     - liblzma =5.8.3 =hb03c661_1
@@ -195,13 +196,13 @@ requirements:
     - libopus =1.6.1 =hebe6cf0_1
     - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.58 =h922cc85_1
-    - libpq =18.6 =h9d76c99_1
+    - libpq =18.6 =h3883810_2
     - libsndfile =1.2.2 =hbc6d301_3
     - libsodium =1.0.22 =hebe6cf0_3
     - libspatialindex =2.1.0 =hee9eb32_2
     - libsqlite =3.53.4 =h13e7031_1
-    - libstdcxx =16.2.0 =h934c35e_6
-    - libstdcxx-ng =16.2.0 =hdf11a46_6
+    - libstdcxx =16.2.0 =h934c35e_7
+    - libstdcxx-ng =16.2.0 =hdf11a46_7
     - libsystemd0 =262 =h26e0ef7_0
     - libtiff =4.7.2 =hcc2c06a_1
     - libuuid =2.42.4 =hcfc3c73_0

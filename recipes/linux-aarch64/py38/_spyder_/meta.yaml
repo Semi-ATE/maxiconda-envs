@@ -35,7 +35,7 @@ requirements:
     - spyder =5.4.5 =py38he3eb160_0
     - sympy =1.13.3 =pyh2585a3b_104
 
-    # 331 secondary packages :
+    # 332 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - alabaster =0.7.13 =pyhd8ed1ab_0
     - alsa-lib =1.2.16.1 =h5bc82ec_1
@@ -154,7 +154,7 @@ requirements:
     - libedit =3.1.20250104 =pl5321hc48eb74_1
     - libegl =1.7.0 =hd24410f_5
     - libevent =2.1.12 =h5c01fa6_2
-    - libexpat =2.8.4 =h4154aff_0
+    - libexpat =2.8.5 =h4154aff_0
     - libffi =3.7.0 =hdaad0be_1
     - libflac =1.5.0 =he9c94f4_1
     - libfreetype =2.14.3 =h8af1aa0_2
@@ -174,6 +174,7 @@ requirements:
     - libiconv =1.18 =h1ea5142_3
     - libjpeg-turbo =3.2.0 =he30d5cf_1
     - liblapack =3.9.0 =20_linuxaarch64_openblas
+    - libllvm21 =21.1.8 =h680871c_1
     - libllvm22 =22.1.8 =h680871c_3
     - libllvm23 =23.1.2 =h680871c_0
     - liblzma =5.8.3 =he30d5cf_1
@@ -185,7 +186,7 @@ requirements:
     - libopus =1.6.1 =h29ee22c_1
     - libpciaccess =0.19 =he30d5cf_1
     - libpng =1.6.58 =hf9b7768_1
-    - libpq =18.6 =hd2a0605_1
+    - libpq =18.6 =h4d8aa50_2
     - libsndfile =1.2.2 =h7354dbf_3
     - libsodium =1.0.18 =hb9de7d4_1
     - libspatialindex =2.0.0 =h0a1ffab_0

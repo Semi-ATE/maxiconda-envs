@@ -56,7 +56,7 @@ requirements:
     - scipy =1.18.1 =py312h106c528_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =unix_pyh707e725_0
-    - sqlalchemy =2.0.54 =py312h1b36aeb_1
+    - sqlalchemy =2.1.1 =py312h1b36aeb_0
     - sqlite =3.53.4 =h9ffa6c4_1
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.70.1 =pyhfa0c392_0
@@ -110,8 +110,8 @@ requirements:
     - conda-lockfiles =0.2.2 =pyhd8ed1ab_0
     - conda-package-handling =2.6.0 =pyh5ded981_0
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
-    - conda-pypi =0.12.0 =pyh5ded981_0
-    - conda-rattler-solver =0.1.1 =pyhcf101f3_0
+    - conda-pypi =0.12.0 =pyh5ded981_1
+    - conda-rattler-solver =0.2.0 =pyh5ded981_0
     - conda-recipe-manager =0.10.6 =pyhd8ed1ab_1
     - conda-self =0.3.0 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
@@ -144,7 +144,7 @@ requirements:
     - fribidi =1.0.17 =h7cc23a3_0
     - frozendict =2.4.7 =pyh851646a_2
     - frozenlist =1.8.0 =py312h447239a_0
-    - gcc_impl_linux-64 =16.2.0 =hc7abebd_6
+    - gcc_impl_linux-64 =16.2.0 =h9891192_7
     - gcc_linux-64 =16.2.0 =h0ab548f_2
     - gfortran_impl_linux-64 =16.2.0 =hf930d89_7
     - gitdb =4.0.12 =pyhd8ed1ab_0
@@ -154,11 +154,10 @@ requirements:
     - gmp =6.3.0 =hfd2156b_3
     - gmpy2 =2.3.1 =py312h04c1168_1
     - graphite2 =1.3.15 =h54a6638_1
-    - greenlet =3.5.6 =py312h80505a6_0
     - gsl =2.7 =he838d99_0
     - gst-plugins-base =1.26.11 =h6d08254_0
     - gstreamer =1.26.11 =h29cf534_0
-    - gxx_impl_linux-64 =16.2.0 =h0d273dc_6
+    - gxx_impl_linux-64 =16.2.0 =h0d273dc_7
     - gxx_linux-64 =16.2.0 =h23aca61_2
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
@@ -218,28 +217,29 @@ requirements:
     - libegl-devel =1.7.0 =ha4b6fd6_5
     - libev =4.33 =h280c20c_3
     - libevent =2.1.12 =h5348a74_2
-    - libexpat =2.8.4 =hd2095e1_0
+    - libexpat =2.8.5 =hd2095e1_0
     - libffi =3.7.0 =h81df57d_1
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_2
     - libfreetype6 =2.14.3 =h5e6c136_2
-    - libgcc =16.2.0 =ha9f2e26_6
-    - libgcc-devel_linux-64 =16.2.0 =he3ce08f_106
-    - libgcc-ng =16.2.0 =h69a702a_6
-    - libgfortran =16.2.0 =h69a702a_6
-    - libgfortran5 =16.2.0 =h6b99dfc_6
+    - libgcc =16.2.0 =ha9f2e26_7
+    - libgcc-devel_linux-64 =16.2.0 =he3ce08f_107
+    - libgcc-ng =16.2.0 =h69a702a_7
+    - libgfortran =16.2.0 =h69a702a_7
+    - libgfortran5 =16.2.0 =h6b99dfc_7
     - libgl =1.7.0 =ha4b6fd6_5
     - libgl-devel =1.7.0 =ha4b6fd6_5
     - libglib =2.90.0 =h569388d_0
     - libglvnd =1.7.0 =ha4b6fd6_5
     - libglx =1.7.0 =ha4b6fd6_5
     - libglx-devel =1.7.0 =ha4b6fd6_5
-    - libgomp =16.2.0 =he0feb66_6
+    - libgomp =16.2.0 =he0feb66_7
     - libharfbuzz =14.5.0 =h23af247_0
     - libharfbuzz-devel =14.5.0 =h23af247_0
     - libiconv =1.18 =h0cb94f2_3
     - libjpeg-turbo =3.2.0 =hb03c661_1
     - liblapack =3.11.0 =11_h47877c9_openblas
+    - libllvm21 =21.1.8 =h474f4eb_1
     - libllvm22 =22.1.8 =h474f4eb_3
     - libllvm23 =23.1.2 =h474f4eb_0
     - liblzma =5.8.3 =hb03c661_1
@@ -256,19 +256,19 @@ requirements:
     - libopus =1.6.1 =hebe6cf0_1
     - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.58 =h922cc85_1
-    - libpq =18.6 =h9d76c99_1
+    - libpq =18.6 =h3883810_2
     - libpsl =0.23.1 =hd9e3e90_1
     - libpython =3.12.14 =h0c77377_3_cpython
     - libraqm =0.11.0 =h6406941_0
-    - libsanitizer =16.2.0 =h3048135_6
+    - libsanitizer =16.2.0 =h3048135_7
     - libsndfile =1.2.2 =hbc6d301_3
     - libsodium =1.0.22 =hebe6cf0_3
     - libsolv =0.7.40 =h72ddc62_0
     - libsqlite =3.53.4 =h13e7031_1
     - libssh2 =1.11.1 =h6154650_1
-    - libstdcxx =16.2.0 =h934c35e_6
-    - libstdcxx-devel_linux-64 =16.2.0 =h86e191b_106
-    - libstdcxx-ng =16.2.0 =hdf11a46_6
+    - libstdcxx =16.2.0 =h934c35e_7
+    - libstdcxx-devel_linux-64 =16.2.0 =h86e191b_107
+    - libstdcxx-ng =16.2.0 =hdf11a46_7
     - libsystemd0 =262 =h26e0ef7_0
     - libtiff =4.7.2 =hcc2c06a_1
     - libuuid =2.42.4 =hcfc3c73_0
@@ -283,7 +283,7 @@ requirements:
     - libxml2-16 =2.15.4 =hf3af7cc_0
     - libxslt =1.1.45 =h8e12856_1
     - libzlib =1.3.2 =h25fd6f3_3
-    - llvmlite =0.49.0 =py312hb491018_4
+    - llvmlite =0.49.0 =py312hb491018_5
     - lz4-c =1.10.0 =hee9eb32_2
     - lzo =2.10 =hebe6cf0_1003
     - make =4.4.1 =hb03c661_3
@@ -324,7 +324,7 @@ requirements:
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h54a6638_3
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
-    - platformdirs =4.11.12 =pyh5ded981_0
+    - platformdirs =4.11.14 =pyh5ded981_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
@@ -335,7 +335,7 @@ requirements:
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pulseaudio-client =17.0 =h9a6aba3_3
     - pure_eval =0.2.4 =pyhd8ed1ab_0
-    - py-rattler =0.25.0 =py310hefeb9ab_5
+    - py-rattler =0.26.0 =py311hc91d8b8_0
     - pybind11-abi =11 =hc364b38_1
     - pycosat =0.6.6 =py312h5cc1888_5
     - pycparser =3.0 =pyhcf101f3_0
@@ -589,7 +589,7 @@ requirements:
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.8.0 =pyhd8ed1ab_0
     - wayland =1.26.0 =hc1c935e_2
-    - wcwidth =0.9.1 =pyh5ded981_0
+    - wcwidth =0.9.1 =py311h34ddc6a_1
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - websocket-client =1.9.2 =pyh5ded981_1

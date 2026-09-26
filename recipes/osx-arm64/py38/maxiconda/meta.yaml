@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 488 secondary packages :
+    # 489 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
@@ -204,7 +204,7 @@ requirements:
     - libdeflate =1.25 =he7e0567_1
     - libedit =3.1.20250104 =pl5321h26f1114_1
     - libev =4.33 =h1a92334_3
-    - libexpat =2.8.4 =h6111c0a_0
+    - libexpat =2.8.5 =h6111c0a_0
     - libffi =3.7.0 =h47dc5ef_1
     - libfreetype =2.14.3 =hce30654_2
     - libfreetype6 =2.14.3 =h2ed5691_2
@@ -223,6 +223,7 @@ requirements:
     - liblapack =3.9.0 =20_osxarm64_openblas
     - libllvm14 =14.0.6 =hd1a9a77_4
     - libllvm18 =18.1.8 =default_h8e162e0_12
+    - libllvm21 =21.1.8 =h759d1ac_1
     - libllvm23 =23.1.1 =h759d1ac_0
     - liblzma =5.8.3 =h8088a28_1
     - liblzma-devel =5.8.3 =h8088a28_1
@@ -232,7 +233,7 @@ requirements:
     - libopenblas =0.3.25 =openmp_h6c19121_0
     - libopus =1.6.1 =h74c22ad_1
     - libpng =1.6.58 =hf5e6511_1
-    - libpq =18.6 =h08b03b9_1
+    - libpq =18.6 =h0a198e3_2
     - libpsl =0.23.1 =hdb0c161_1
     - libsigtool =0.1.3 =h98dc951_1
     - libsodium =1.0.18 =h27ca646_1
