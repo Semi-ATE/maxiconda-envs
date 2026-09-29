@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.11.0 =py312he5662c2_1
     - cython =3.3.0 =py312hd245ac3_0
     - grayskull =3.1.1 =pyhc364b38_0
-    - hypothesis =6.168.2 =py311h66afae6_0
+    - hypothesis =6.168.3 =py311h66afae6_0
     - ipython =9.17.1 =pyhe2676ad_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.2 =py312h8e0e4fc_1
@@ -134,7 +134,7 @@ requirements:
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.66.0 =py312h05f76fc_0
-    - fqdn =1.5.1 =pyhd8ed1ab_1
+    - fqdn =1.6.0 =pyh5ded981_0
     - freetype =2.14.3 =h57928b3_2
     - fribidi =1.0.17 =hfd05255_0
     - frozendict =2.4.7 =pyh851646a_2
@@ -207,7 +207,7 @@ requirements:
     - libgomp =16.2.0 =h8ee18e1_7
     - libharfbuzz =14.5.0 =h03b5201_0
     - libharfbuzz-devel =14.5.0 =h03b5201_0
-    - libhwloc =2.13.0 =default_h049141e_1000
+    - libhwloc =2.15.0 =default_hae90fe0_1001
     - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_4
     - libintl-devel =0.22.5 =h5728263_4
@@ -280,7 +280,7 @@ requirements:
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h5112557_3
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
-    - platformdirs =4.12.0 =pyh5ded981_0
+    - platformdirs =4.12.1 =pyh5ded981_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
@@ -520,7 +520,7 @@ requirements:
     - spdlog =1.17.0 =hd227c35_2
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
-    - tbb =2023.1.0 =hdcfe883_0
+    - tbb =2023.1.0 =h272cf33_2
     - terminado =0.18.1 =pyh6dadd2b_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =h967ab96_4
