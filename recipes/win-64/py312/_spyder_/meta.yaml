@@ -27,7 +27,7 @@ requirements:
     # 10 primary packages :
     - cython =3.3.0 =py312hd245ac3_0
     - matplotlib =3.11.2 =py312h8e0e4fc_1
-    - menuinst =2.5.2 =py312ha1a9051_2
+    - menuinst =2.5.2 =py312ha1a9051_3
     - numpy =2.5.3 =py312ha3f287d_0
     - pandas =3.0.6 =np2py312hea30aaf_0
     - pyqt =5.15.11 =py312h7eb3e20_2
@@ -96,7 +96,7 @@ requirements:
     - fontconfig =2.18.3 =hd47e2ca_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
-    - fonttools =4.66.0 =py312h05f76fc_0
+    - fonttools =4.66.1 =py312h05f76fc_0
     - freetype =2.14.3 =h57928b3_2
     - fribidi =1.0.17 =hfd05255_0
     - frozenlist =1.8.0 =py312hfdf67e6_0
@@ -225,7 +225,7 @@ requirements:
     - pygithub =2.10.0 =pyhd8ed1ab_0
     - pygments =2.21.0 =pyhcf101f3_0
     - pyjwt =2.15.1 =pyh5ded981_0
-    - pylint =4.0.9 =pyh5ded981_0
+    - pylint =4.0.10 =pyh5ded981_0
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.6.2 =py311he66da3d_5
