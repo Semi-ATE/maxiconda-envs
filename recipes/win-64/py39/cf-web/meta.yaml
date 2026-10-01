@@ -35,7 +35,8 @@ requirements:
     - sqlalchemy =2.0.43 =py39h0802e32_0
     - twisted =25.5.0 =py39ha55e580_0
 
-    # 133 secondary packages :
+    # 135 secondary packages :
+    - _python_abi3_support =1.0 =hd8ed1ab_3
     - appdirs =1.4.4 =pyhd8ed1ab_1
     - asgiref =3.9.1 =pyhd8ed1ab_0
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -49,7 +50,7 @@ requirements:
     - cairo =1.18.6 =h477c42c_0
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39ha55e580_0
-    - charset-normalizer =3.4.3 =pyhd8ed1ab_0
+    - charset-normalizer =3.5.2 =h308a848_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -101,7 +102,7 @@ requirements:
     - libjpeg-turbo =3.2.0 =hfd05255_1
     - liblzma =5.8.3 =hfd05255_1
     - libogg =1.3.5 =h2466b09_1
-    - libpng =1.6.58 =hdc8cecf_1
+    - libpng =1.6.59 =hdc8cecf_0
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.53.4 =hf5d6505_1
     - libvorbis =1.3.7 =h5112557_2
@@ -133,6 +134,7 @@ requirements:
     - pyqt5-sip =12.17.0 =py39ha51f57c_1
     - pysocks =1.7.1 =pyh09c184e_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
+    - python-gil =3.9.23 =hd8ed1ab_0
     - python_abi =3.9 =9_cp39
     - pywin32 =311 =py39h5fb4b08_0
     - pyzmq =26.2.0 =py39h03e5c00_1

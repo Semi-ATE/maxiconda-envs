@@ -64,8 +64,9 @@ requirements:
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 507 secondary packages :
+    # 509 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
+    - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -83,9 +84,9 @@ requirements:
     - binutils_impl_linux-64 =2.46.1 =default_hfdba357_102
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.2.0 =h505cf86_4
-    - brotli-bin =1.2.0 =h9908984_4
-    - brotli-python =1.0.9 =py39h5a03fae_8
+    - brotli =1.1.0 =hb9d3cd8_3
+    - brotli-bin =1.1.0 =hb9d3cd8_3
+    - brotli-python =1.1.0 =py39hf88036b_3
     - bwidget =1.10.1 =hfc2019e_3
     - bzip2 =1.0.8 =hda65f42_10
     - c-ares =1.34.8 =hebe6cf0_2
@@ -95,7 +96,7 @@ requirements:
     - cairo =1.18.4 =h3394656_0
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h15c3d72_0
-    - charset-normalizer =3.4.3 =pyhd8ed1ab_0
+    - charset-normalizer =3.5.2 =h1114479_0
     - click =8.1.8 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -178,9 +179,9 @@ requirements:
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_102
     - lerc =4.2.0 =hdb68285_0
     - libblas =3.11.0 =11_h4a7cf45_openblas
-    - libbrotlicommon =1.2.0 =h39a168f_4
-    - libbrotlidec =1.2.0 =ha411449_4
-    - libbrotlienc =1.2.0 =h018ffa1_4
+    - libbrotlicommon =1.1.0 =hb9d3cd8_3
+    - libbrotlidec =1.1.0 =hb9d3cd8_3
+    - libbrotlienc =1.1.0 =hb9d3cd8_3
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =11_h0358290_openblas
     - libclang-cpp20.1 =20.1.8 =default_hc302687_17
@@ -224,7 +225,7 @@ requirements:
     - libopengl =1.7.0 =ha4b6fd6_5
     - libopus =1.6.1 =hebe6cf0_1
     - libpciaccess =0.19 =hb03c661_1
-    - libpng =1.6.58 =h922cc85_1
+    - libpng =1.6.59 =h922cc85_0
     - libpq =17.7 =h5c52fec_1
     - libsanitizer =16.2.0 =h3048135_7
     - libsndfile =1.2.2 =hbc6d301_3
@@ -234,7 +235,7 @@ requirements:
     - libstdcxx =16.2.0 =h934c35e_7
     - libstdcxx-devel_linux-64 =16.2.0 =h86e191b_107
     - libstdcxx-ng =16.2.0 =hdf11a46_7
-    - libsystemd0 =262 =h26e0ef7_1
+    - libsystemd0 =262 =h26e0ef7_2
     - libtiff =4.7.2 =hcc2c06a_1
     - libuuid =2.42.4 =hcfc3c73_0
     - libuv =1.52.1 =h280c20c_1
@@ -272,7 +273,7 @@ requirements:
     - openssl =3.6.4 =h781a0a9_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.11 =ha770c72_0
+    - pandoc =3.12 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =hadf4263_0
     - parso =0.8.4 =pyhd8ed1ab_1
@@ -303,6 +304,7 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
+    - python-gil =3.9.23 =hd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1

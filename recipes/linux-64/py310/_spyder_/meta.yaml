@@ -35,8 +35,9 @@ requirements:
     - spyder =6.1.7 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
-    # 359 secondary packages :
+    # 361 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
+    - _python_abi3_support =1.0 =hd8ed1ab_3
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiohttp =3.14.3 =py310h31b6992_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -68,7 +69,7 @@ requirements:
     - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.1 =py310hd4ea0ea_2
     - chardet =7.6.0 =py310h5521db5_1
-    - charset-normalizer =3.5.1 =pyhd8ed1ab_0
+    - charset-normalizer =3.5.2 =h1114479_0
     - click =8.4.2 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -195,7 +196,7 @@ requirements:
     - libopengl =1.7.0 =ha4b6fd6_5
     - libopus =1.6.1 =hebe6cf0_1
     - libpciaccess =0.19 =hb03c661_1
-    - libpng =1.6.58 =h922cc85_1
+    - libpng =1.6.59 =h922cc85_0
     - libpq =18.6 =h3883810_2
     - libsndfile =1.2.2 =hbc6d301_3
     - libsodium =1.0.22 =hebe6cf0_3
@@ -203,7 +204,7 @@ requirements:
     - libsqlite =3.53.4 =h13e7031_1
     - libstdcxx =16.2.0 =h934c35e_7
     - libstdcxx-ng =16.2.0 =hdf11a46_7
-    - libsystemd0 =262 =h26e0ef7_1
+    - libsystemd0 =262 =h26e0ef7_2
     - libtiff =4.7.2 =hcc2c06a_1
     - libuuid =2.42.4 =hcfc3c73_0
     - libvorbis =1.3.7 =h54a6638_2
@@ -247,7 +248,7 @@ requirements:
     - openldap =2.6.13 =hbde042b_0
     - openssl =3.6.4 =h781a0a9_0
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.11 =ha770c72_0
+    - pandoc =3.12 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.56.4 =hda50119_1
     - parso =0.8.7 =pyhcf101f3_0
@@ -266,7 +267,7 @@ requirements:
     - psutil =7.2.2 =py310h83e8816_2
     - pthread-stubs =0.4 =h7cc23a3_1004
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
-    - pulseaudio-client =17.0 =h9a6aba3_3
+    - pulseaudio-client =17.0 =hb10c1b2_4
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycodestyle =2.12.1 =pyhd8ed1ab_1
     - pyconify =0.2.1 =pyhd8ed1ab_0
@@ -287,6 +288,7 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
+    - python-gil =3.10.21 =hd8ed1ab_0
     - python-gssapi =1.12.0 =py310hfbfbb1b_0
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1

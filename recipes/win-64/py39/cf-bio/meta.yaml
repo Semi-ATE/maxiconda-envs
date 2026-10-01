@@ -36,8 +36,9 @@ requirements:
     - scipy =1.13.1 =py39h1a10956_0
     - spyder-kernels =3.1.6 =win_pyh7428d3b_0
 
-    # 192 secondary packages :
+    # 194 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
+    - _python_abi3_support =1.0 =hd8ed1ab_3
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - blosc =1.21.6 =hfd34d9b_1
     - brotli =1.2.0 =hc8c2fe1_4
@@ -49,7 +50,7 @@ requirements:
     - cairo =1.18.4 =h5782bbf_0
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cftime =1.6.4 =py39h4b0a98a_1
-    - charset-normalizer =3.4.3 =pyhd8ed1ab_0
+    - charset-normalizer =3.5.2 =h308a848_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -127,7 +128,7 @@ requirements:
     - liblzma =5.8.3 =hfd05255_1
     - libnetcdf =4.9.2 =nompi_ha45073a_118
     - libogg =1.3.5 =h2466b09_1
-    - libpng =1.6.58 =hdc8cecf_1
+    - libpng =1.6.59 =hdc8cecf_0
     - libpq =17.7 =h7c87ebf_1
     - librdkit =2025.03.5 =h0cb3073_0
     - libsodium =1.0.20 =hc70643c_0
@@ -180,6 +181,7 @@ requirements:
     - pyqt5-sip =12.17.0 =py39ha51f57c_1
     - pyside6 =6.9.1 =py39h5f4aa1c_0
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
+    - python-gil =3.9.23 =hd8ed1ab_0
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python_abi =3.9 =9_cp39
     - pytng =0.3.3 =py39h648f146_1

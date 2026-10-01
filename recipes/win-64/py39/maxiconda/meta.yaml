@@ -64,8 +64,9 @@ requirements:
     - xlsxwriter =3.2.5 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_1
 
-    # 455 secondary packages :
+    # 457 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
+    - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -93,7 +94,7 @@ requirements:
     - cairo =1.18.6 =h477c42c_0
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39ha55e580_0
-    - charset-normalizer =3.4.3 =pyhd8ed1ab_0
+    - charset-normalizer =3.5.2 =h308a848_0
     - click =8.1.8 =pyh7428d3b_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -197,7 +198,7 @@ requirements:
     - liblzma =5.8.3 =hfd05255_1
     - libnghttp2 =1.68.1 =hac47afa_1
     - libogg =1.3.5 =h2466b09_1
-    - libpng =1.6.58 =hdc8cecf_1
+    - libpng =1.6.59 =hdc8cecf_0
     - libsodium =1.0.20 =hc70643c_0
     - libsqlite =3.53.4 =hf5d6505_1
     - libssh2 =1.11.1 =h734d217_1
@@ -240,7 +241,7 @@ requirements:
     - openssl =3.6.4 =hf411b9b_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.11 =h57928b3_0
+    - pandoc =3.12 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.58.2 =h13911b6_1
     - parso =0.8.4 =pyhd8ed1ab_1
@@ -268,6 +269,7 @@ requirements:
     - pysocks =1.7.1 =pyh09c184e_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.21.2 =pyhe01879c_0
+    - python-gil =3.9.23 =hd8ed1ab_0
     - python-json-logger =2.0.7 =pyhd8ed1ab_0
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python-utils =3.9.1 =pyhff2d567_1

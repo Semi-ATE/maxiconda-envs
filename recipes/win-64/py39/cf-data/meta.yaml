@@ -45,9 +45,10 @@ requirements:
     - statsmodels =0.14.5 =py39h9e4d2f2_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
 
-    # 397 secondary packages :
+    # 399 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _py-xgboost-mutex =2.0 =cpu_0
+    - _python_abi3_support =1.0 =hd8ed1ab_3
     - aiohappyeyeballs =2.6.1 =pyhd8ed1ab_0
     - aiohttp =3.12.15 =py39h5769e4c_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -87,7 +88,7 @@ requirements:
     - catboost =1.2.7 =py39h7090721_1
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39ha55e580_0
-    - charset-normalizer =3.4.3 =pyhd8ed1ab_0
+    - charset-normalizer =3.5.2 =h308a848_0
     - chart-studio =1.1.0 =pyhd8ed1ab_1
     - click =8.1.8 =pyh7428d3b_0
     - cloudpathlib =0.21.1 =pyhd8ed1ab_0
@@ -233,7 +234,7 @@ requirements:
     - libogg =1.3.5 =h2466b09_1
     - libopenblas =0.3.34 =pthreads_h952cde7_2
     - libparquet =20.0.0 =h7051d1f_34_cpu
-    - libpng =1.6.58 =hdc8cecf_1
+    - libpng =1.6.59 =hdc8cecf_0
     - libprotobuf =6.31.1 =h2ec36af_5
     - libre2-11 =2025.11.05 =h0eb2380_0
     - libsodium =1.0.20 =hc70643c_0
@@ -333,6 +334,7 @@ requirements:
     - python-cufflinks =0.17.3 =pyhd8ed1ab_1
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-dotenv =1.1.1 =pyhe01879c_0
+    - python-gil =3.9.23 =hd8ed1ab_0
     - python-graphviz =0.21 =pyhbacfb6d_0
     - python-multipart =0.0.20 =pyhff2d567_0
     - python-tzdata =2025.2 =pyhd8ed1ab_0

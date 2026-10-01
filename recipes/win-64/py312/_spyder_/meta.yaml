@@ -68,7 +68,7 @@ requirements:
     - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.1 =py312he06e257_3
     - chardet =7.6.0 =py312h6fa65f5_1
-    - charset-normalizer =3.5.1 =pyhd8ed1ab_0
+    - charset-normalizer =3.5.2 =h308a848_0
     - click =8.5.0 =pyh5ded981_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -76,7 +76,7 @@ requirements:
     - contourpy =1.4.0 =py312h78d62e6_1
     - cookiecutter =2.7.1 =pyhcf101f3_0
     - cpython =3.12.14 =py312hd8ed1ab_3
-    - cryptography =50.0.1 =py311h67a9792_1
+    - cryptography =50.0.2 =py311h67a9792_0
     - cycler =0.12.1 =pyhcf101f3_2
     - debugpy =1.8.22 =py312ha1a9051_0
     - decorator =5.3.1 =pyhd8ed1ab_0
@@ -157,7 +157,7 @@ requirements:
     - liblapack =3.11.0 =11_hf9ab0e9_mkl
     - liblzma =5.8.3 =hfd05255_1
     - libogg =1.3.5 =h2466b09_1
-    - libpng =1.6.58 =hdc8cecf_1
+    - libpng =1.6.59 =hdc8cecf_0
     - libpython =3.12.14 =hcc31f7b_3_cpython
     - libraqm =0.11.0 =h50d6d30_0
     - libsodium =1.0.22 =h6a83c73_3
@@ -198,7 +198,7 @@ requirements:
     - openjpeg =2.5.4 =h90fa87c_2
     - openssl =3.6.4 =hf411b9b_0
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.11 =h57928b3_0
+    - pandoc =3.12 =h57928b3_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.58.2 =h13911b6_1
     - parso =0.8.7 =pyhcf101f3_0
@@ -209,7 +209,7 @@ requirements:
     - pillow =12.3.0 =py312h7bb5964_4
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h5112557_3
-    - platformdirs =4.12.1 =pyh5ded981_0
+    - platformdirs =4.12.2 =pyh5ded981_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0

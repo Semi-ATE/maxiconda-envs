@@ -64,8 +64,9 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 517 secondary packages :
+    # 519 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
+    - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
@@ -97,7 +98,7 @@ requirements:
     - cairo =1.18.6 =h3c89d7e_0
     - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.1 =py310hd4ea0ea_2
-    - charset-normalizer =3.5.1 =pyhd8ed1ab_0
+    - charset-normalizer =3.5.2 =h1114479_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -231,7 +232,7 @@ requirements:
     - libopengl =1.7.0 =ha4b6fd6_5
     - libopus =1.6.1 =hebe6cf0_1
     - libpciaccess =0.19 =hb03c661_1
-    - libpng =1.6.58 =h922cc85_1
+    - libpng =1.6.59 =h922cc85_0
     - libpq =18.6 =h3883810_2
     - libpsl =0.23.1 =hd9e3e90_1
     - libsanitizer =16.2.0 =h3048135_7
@@ -242,7 +243,7 @@ requirements:
     - libstdcxx =16.2.0 =h934c35e_7
     - libstdcxx-devel_linux-64 =16.2.0 =h86e191b_107
     - libstdcxx-ng =16.2.0 =hdf11a46_7
-    - libsystemd0 =262 =h26e0ef7_1
+    - libsystemd0 =262 =h26e0ef7_2
     - libtiff =4.7.2 =hcc2c06a_1
     - libuuid =2.42.4 =hcfc3c73_0
     - libuv =1.52.1 =h280c20c_1
@@ -282,7 +283,7 @@ requirements:
     - openssl =3.6.4 =h781a0a9_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.11 =ha770c72_0
+    - pandoc =3.12 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.58.2 =h7bb47b9_1
     - parso =0.8.7 =pyhcf101f3_0
@@ -302,7 +303,7 @@ requirements:
     - propcache =0.5.2 =py310h3406613_0
     - pthread-stubs =0.4 =h7cc23a3_1004
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
-    - pulseaudio-client =17.0 =h9a6aba3_3
+    - pulseaudio-client =17.0 =hb10c1b2_4
     - pure_eval =0.2.3 =pyhd8ed1ab_1
     - pycparser =3.0 =pyhcf101f3_0
     - pydantic-core =2.46.5 =py310hbfe5df0_1
@@ -313,6 +314,7 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
+    - python-gil =3.10.21 =hd8ed1ab_0
     - python-json-logger =4.2.0 =pyhd8ed1ab_0
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python-utils =4.0.1 =pyh332efcf_0

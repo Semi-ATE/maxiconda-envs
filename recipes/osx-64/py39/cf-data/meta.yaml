@@ -46,9 +46,10 @@ requirements:
     - statsmodels =0.14.5 =py39hbbd48fb_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
 
-    # 400 secondary packages :
+    # 402 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
     - _py-xgboost-mutex =2.0 =cpu_0
+    - _python_abi3_support =1.0 =hd8ed1ab_3
     - adwaita-icon-theme =51.0 =unix_0
     - alembic =1.16.4 =pyhd8ed1ab_0
     - annotated-types =0.7.0 =pyhd8ed1ab_1
@@ -90,7 +91,7 @@ requirements:
     - catboost =1.2.7 =cpu_py39hf992546_1
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h8ddeee6_0
-    - charset-normalizer =3.4.3 =pyhd8ed1ab_0
+    - charset-normalizer =3.5.2 =hd77389f_0
     - chart-studio =1.1.0 =pyhd8ed1ab_1
     - click =8.1.8 =pyh707e725_0
     - cloudpathlib =0.21.1 =pyhd8ed1ab_0
@@ -244,7 +245,7 @@ requirements:
     - libopentelemetry-cpp-headers =1.21.0 =h694c41f_1
     - libopus =1.6.1 =had63097_1
     - libparquet =21.0.0 =ha67a804_8_cpu
-    - libpng =1.6.58 =h4382c61_1
+    - libpng =1.6.59 =h4382c61_0
     - libpq =18.1 =h1e038c5_2
     - libprotobuf =6.31.1 =h774df25_5
     - libre2-11 =2025.11.05 =h554ac88_0
@@ -355,6 +356,7 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-cufflinks =0.17.3 =pyhd8ed1ab_1
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
+    - python-gil =3.9.23 =hd8ed1ab_0
     - python-graphviz =0.21 =pyhbacfb6d_0
     - python-tzdata =2025.2 =pyhd8ed1ab_0
     - python_abi =3.9 =9_cp39
