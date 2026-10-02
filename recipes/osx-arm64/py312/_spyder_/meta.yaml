@@ -160,14 +160,13 @@ requirements:
     - libgfortran =16.2.0 =h07b0088_7
     - libgfortran5 =16.2.0 =hdb7a957_7
     - libglib =2.90.0 =hccd281b_0
-    - libharfbuzz =14.5.0 =hcda0f7c_0
+    - libharfbuzz =14.5.1 =hcda0f7c_0
     - libiconv =1.18 =he4c29f2_3
     - libintl =0.25.1 =hae62183_2
     - libintl-devel =0.25.1 =hae62183_2
     - libjpeg-turbo =3.2.0 =h84a0fba_1
     - liblapack =3.11.0 =11_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h8e162e0_12
-    - libllvm21 =21.1.8 =h759d1ac_1
     - libllvm23 =23.1.2 =h759d1ac_0
     - liblzma =5.8.3 =h8088a28_1
     - libntlm =1.8 =h5505292_0
@@ -175,7 +174,7 @@ requirements:
     - libopenblas =0.3.34 =openmp_h5e6e99c_1
     - libopus =1.6.1 =h74c22ad_1
     - libpng =1.6.59 =hf5e6511_0
-    - libpq =18.6 =h0a198e3_2
+    - libpq =18.6 =h0a198e3_3
     - libpython =3.12.14 =h4e5ec87_3_cpython
     - libraqm =0.11.0 =h45af499_0
     - libsodium =1.0.22 =h74c22ad_3
@@ -220,7 +219,7 @@ requirements:
     - openssl =3.6.4 =h55eecbc_0
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.12 =hce30654_0
-    - pandocfilters =1.5.0 =pyhd8ed1ab_0
+    - pandocfilters =1.5.1 =pyh5ded981_0
     - pango =1.58.2 =hf9b25ef_1
     - parso =0.8.7 =pyhcf101f3_0
     - pathspec =1.1.1 =pyhd8ed1ab_0
@@ -259,6 +258,7 @@ requirements:
     - pyparsing =3.3.3 =pyh5ded981_0
     - pyqt5-sip =12.17.0 =py312h455b684_2
     - pysocks =1.7.1 =pyha55dd90_7
+    - python-abi3 =3.12 =he1d15d4_3
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
     - python-gil =3.12.14 =hd8ed1ab_3
@@ -330,7 +330,7 @@ requirements:
     - unicodedata2 =18.0.0 =py312ha053593_0
     - urllib3 =2.8.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py312h7ac3c4f_4
-    - wcwidth =0.9.1 =py311hb4dbc6a_1
+    - wcwidth =0.9.1 =py311h1f16292_2
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0

@@ -36,7 +36,7 @@ requirements:
     - spyder =6.1.7 =hd8ed1ab_0
     - sympy =1.14.0 =pyh04b8f61_6
 
-    # 288 secondary packages :
+    # 289 secondary packages :
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiohttp =3.14.3 =py311ha56572f_0
@@ -148,7 +148,7 @@ requirements:
     - libfreetype =2.14.3 =h57928b3_2
     - libfreetype6 =2.14.3 =hdbac1cb_2
     - libglib =2.90.0 =ha564072_0
-    - libharfbuzz =14.5.0 =h03b5201_0
+    - libharfbuzz =14.5.1 =h03b5201_0
     - libhwloc =2.15.0 =default_hae90fe0_1001
     - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_4
@@ -199,7 +199,7 @@ requirements:
     - openssl =3.6.4 =hf411b9b_0
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.12 =h57928b3_0
-    - pandocfilters =1.5.0 =pyhd8ed1ab_0
+    - pandocfilters =1.5.1 =pyh5ded981_0
     - pango =1.58.2 =h13911b6_1
     - parso =0.8.7 =pyhcf101f3_0
     - pathspec =1.1.1 =pyhd8ed1ab_0
@@ -234,6 +234,7 @@ requirements:
     - pyqt5-sip =12.17.0 =py311h3e6a449_2
     - pyside6 =6.11.2 =py311h700d311_1
     - pysocks =1.7.1 =pyh09c184e_7
+    - python-abi3 =3.11 =hac436b5_3
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
     - python-gil =3.11.16 =hd8ed1ab_2
@@ -311,7 +312,7 @@ requirements:
     - vc14_runtime =14.51.36247 =habf1de7_41
     - vcomp14 =14.51.36247 =habf1de7_41
     - watchdog =6.0.0 =py311h86c7a16_4
-    - wcwidth =0.9.1 =py311h98f8659_1
+    - wcwidth =0.9.1 =py311hdbcae8a_2
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0

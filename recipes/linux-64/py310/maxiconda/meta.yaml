@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 519 secondary packages :
+    # 518 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
@@ -144,7 +144,7 @@ requirements:
     - gxx_linux-64 =16.2.0 =h23aca61_2
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
-    - harfbuzz =14.5.0 =ha770c72_0
+    - harfbuzz =14.5.1 =ha770c72_0
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -215,12 +215,11 @@ requirements:
     - libglx =1.7.0 =ha4b6fd6_5
     - libglx-devel =1.7.0 =ha4b6fd6_5
     - libgomp =16.2.0 =he0feb66_7
-    - libharfbuzz =14.5.0 =h23af247_0
-    - libharfbuzz-devel =14.5.0 =h23af247_0
+    - libharfbuzz =14.5.1 =h23af247_0
+    - libharfbuzz-devel =14.5.1 =h23af247_0
     - libiconv =1.18 =h0cb94f2_3
     - libjpeg-turbo =3.2.0 =hb03c661_1
     - liblapack =3.11.0 =11_h47877c9_openblas
-    - libllvm21 =21.1.8 =h474f4eb_1
     - libllvm22 =22.1.8 =h474f4eb_3
     - libllvm23 =23.1.2 =h474f4eb_0
     - liblzma =5.8.3 =hb03c661_1
@@ -233,7 +232,7 @@ requirements:
     - libopus =1.6.1 =hebe6cf0_1
     - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.59 =h922cc85_0
-    - libpq =18.6 =h3883810_2
+    - libpq =18.6 =h3883810_3
     - libpsl =0.23.1 =hd9e3e90_1
     - libsanitizer =16.2.0 =h3048135_7
     - libsndfile =1.2.2 =hbc6d301_3
@@ -501,7 +500,7 @@ requirements:
     - r-viridislite =0.4.3 =r45hc72bb7e_0
     - r-vroom =1.7.1 =r45h3697838_0
     - r-withr =3.0.3 =r45hc72bb7e_0
-    - r-xfun =0.60 =r45h54b55ab_0
+    - r-xfun =0.61 =r45hddc5280_1
     - r-xml2 =1.6.0 =r45he78afff_0
     - r-xtable =1.8_8 =r45hc72bb7e_0
     - r-xts =0.14.3 =r45hddc5280_0

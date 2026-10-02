@@ -35,7 +35,7 @@ requirements:
     - ipython =9.17.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.2 =py312had31f23_1
-    - numba =0.68.0 =py312h3369ccd_0
+    - numba =0.68.0 =py312h3369ccd_1
     - numpy =2.5.3 =py312h66ee8b4_0
     - openpyxl =3.1.5 =py312h8e016a9_4
     - paho-mqtt =2.1.0 =pyhe01879c_1
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 525 secondary packages :
+    # 526 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
@@ -73,7 +73,7 @@ requirements:
     - annotated-types =0.8.0 =pyhd8ed1ab_0
     - anyio =4.15.1 =pyh5ded981_1
     - appnope =1.0.0 =pyhcf101f3_0
-    - archspec =0.2.5 =pyhd8ed1ab_0
+    - archspec =0.2.6 =pyhd8ed1ab_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
     - argon2-cffi-bindings =26.1.0 =py312h6ea13a3_2
     - arrow =1.4.0 =pyhcf101f3_0
@@ -168,7 +168,7 @@ requirements:
     - gstreamer =1.26.11 =h5bdcca5_0
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
-    - harfbuzz =14.5.0 =h694c41f_0
+    - harfbuzz =14.5.1 =h694c41f_0
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -231,8 +231,8 @@ requirements:
     - libgfortran =16.2.0 =h7e5c614_7
     - libgfortran5 =16.2.0 =h2539e6c_7
     - libglib =2.90.0 =h7e55108_0
-    - libharfbuzz =14.5.0 =h2974713_0
-    - libharfbuzz-devel =14.5.0 =h2974713_0
+    - libharfbuzz =14.5.1 =h2974713_0
+    - libharfbuzz-devel =14.5.1 =h2974713_0
     - libiconv =1.18 =h4ae439b_3
     - libintl =0.25.1 =h98e67c8_2
     - libintl-devel =0.25.1 =h98e67c8_2
@@ -251,7 +251,7 @@ requirements:
     - libopenblas =0.3.34 =openmp_h5c7ac21_1
     - libopus =1.6.1 =had63097_1
     - libpng =1.6.59 =h4382c61_0
-    - libpq =18.6 =h8b30867_1
+    - libpq =18.6 =h58a6bad_3
     - libpsl =0.23.1 =h7ff43d8_1
     - libpython =3.12.14 =h31af0e7_3_cpython
     - libraqm =0.11.0 =h1888d0e_0
@@ -302,7 +302,7 @@ requirements:
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.12 =h694c41f_0
-    - pandocfilters =1.5.0 =pyhd8ed1ab_0
+    - pandocfilters =1.5.1 =pyh5ded981_0
     - pango =1.58.2 =hc5a6962_1
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =h31793e3_1
@@ -323,7 +323,7 @@ requirements:
     - pure_eval =0.2.4 =pyhd8ed1ab_0
     - py-rattler =0.26.0 =py311h2a8a194_0
     - pybind11-abi =11 =hc364b38_1
-    - pycosat =0.6.6 =py312h6ea13a3_5
+    - pycosat =0.6.6 =py312h6ea13a3_6
     - pycparser =3.0 =pyhcf101f3_0
     - pydantic-core =2.46.5 =py312h3b11fa5_2
     - pygments =2.21.0 =pyhcf101f3_0
@@ -333,6 +333,7 @@ requirements:
     - pyproject_hooks =1.2.0 =pyhd8ed1ab_1
     - pyqt5-sip =12.17.0 =py312hbaf6d96_2
     - pysocks =1.7.1 =pyha55dd90_7
+    - python-abi3 =3.12 =he1d15d4_3
     - python-build =1.6.1 =pyhc364b38_0
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
@@ -522,7 +523,7 @@ requirements:
     - r-viridislite =0.4.3 =r45hc72bb7e_0
     - r-vroom =1.7.1 =r45h384437d_0
     - r-withr =3.0.3 =r45hc72bb7e_0
-    - r-xfun =0.60 =r45h8eed41d_0
+    - r-xfun =0.61 =r45hf469658_1
     - r-xml2 =1.6.0 =r45h3ffc57a_0
     - r-xtable =1.8_8 =r45hc72bb7e_0
     - r-xts =0.14.3 =r45hf469658_0
@@ -575,7 +576,7 @@ requirements:
     - unicodedata2 =18.0.0 =py312h6ea13a3_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.8.0 =pyhd8ed1ab_0
-    - wcwidth =0.9.1 =py311h9e0dfa3_1
+    - wcwidth =0.9.1 =py311h3050431_2
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - websocket-client =1.9.2 =pyh5ded981_1

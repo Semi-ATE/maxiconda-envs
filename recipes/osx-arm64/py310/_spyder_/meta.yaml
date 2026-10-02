@@ -35,7 +35,7 @@ requirements:
     - spyder =6.1.7 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
-    # 307 secondary packages :
+    # 306 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiohttp =3.14.3 =py310hd5e7861_0
@@ -160,14 +160,13 @@ requirements:
     - libgfortran =16.2.0 =h07b0088_7
     - libgfortran5 =16.2.0 =hdb7a957_7
     - libglib =2.90.0 =hccd281b_0
-    - libharfbuzz =14.5.0 =hcda0f7c_0
+    - libharfbuzz =14.5.1 =hcda0f7c_0
     - libiconv =1.18 =he4c29f2_3
     - libintl =0.25.1 =hae62183_2
     - libintl-devel =0.25.1 =hae62183_2
     - libjpeg-turbo =3.2.0 =h84a0fba_1
     - liblapack =3.11.0 =11_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h8e162e0_12
-    - libllvm21 =21.1.8 =h759d1ac_1
     - libllvm23 =23.1.2 =h759d1ac_0
     - liblzma =5.8.3 =h8088a28_1
     - libntlm =1.8 =h5505292_0
@@ -175,7 +174,7 @@ requirements:
     - libopenblas =0.3.34 =openmp_h5e6e99c_1
     - libopus =1.6.1 =h74c22ad_1
     - libpng =1.6.59 =hf5e6511_0
-    - libpq =18.6 =h0a198e3_2
+    - libpq =18.6 =h0a198e3_3
     - libsodium =1.0.22 =h74c22ad_3
     - libspatialindex =2.1.0 =hdca3b7d_2
     - libsqlite =3.53.4 =hca69786_1

@@ -184,7 +184,6 @@ requirements:
     - libiconv =1.18 =h1ea5142_3
     - libjpeg-turbo =3.2.0 =he30d5cf_1
     - liblapack =3.11.0 =11_h88aeb00_openblas
-    - libllvm21 =21.1.8 =h680871c_1
     - libllvm22 =22.1.8 =h680871c_3
     - libllvm23 =23.1.2 =h680871c_0
     - liblzma =5.8.3 =he30d5cf_1
@@ -196,7 +195,7 @@ requirements:
     - libopus =1.6.1 =h29ee22c_1
     - libpciaccess =0.19 =he30d5cf_1
     - libpng =1.6.59 =hf9b7768_0
-    - libpq =18.6 =h4d8aa50_2
+    - libpq =18.6 =h4d8aa50_3
     - libpython =3.11.16 =hc3dd739_2_cpython
     - libraqm =0.11.0 =hd2f8911_0
     - libsndfile =1.2.2 =h7354dbf_3
@@ -250,7 +249,7 @@ requirements:
     - openssl =3.6.4 =he6ad1d5_0
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.12 =h8af1aa0_0
-    - pandocfilters =1.5.0 =pyhd8ed1ab_0
+    - pandocfilters =1.5.1 =pyh5ded981_0
     - pango =1.56.4 =h8547ced_1
     - parso =0.8.7 =pyhcf101f3_0
     - pathspec =1.1.1 =pyhd8ed1ab_0
@@ -287,6 +286,7 @@ requirements:
     - pyqt5-sip =12.17.0 =py311h2cb90db_2
     - pyside6 =6.11.1 =py311hb02cd75_1
     - pysocks =1.7.1 =pyha55dd90_7
+    - python-abi3 =3.11 =ha8785bc_3
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
     - python-gil =3.11.16 =hd8ed1ab_2
@@ -360,7 +360,7 @@ requirements:
     - urllib3 =2.8.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py311hee276e8_4
     - wayland =1.26.0 =h637a836_2
-    - wcwidth =0.9.1 =py311h05e94ee_1
+    - wcwidth =0.9.1 =py311h7113396_2
     - webencodings =0.5.1 =pyhd8ed1ab_3
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0
