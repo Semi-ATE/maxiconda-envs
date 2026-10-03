@@ -56,7 +56,7 @@ requirements:
     - scipy =1.17.1 =py311h9c22a71_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =win_pyh7428d3b_0
-    - sqlalchemy =2.1.1 =py311hf893f09_0
+    - sqlalchemy =2.1.2 =py311hf893f09_0
     - sqlite =3.53.4 =hdb435a2_1
     - sympy =1.14.0 =pyh04b8f61_6
     - tqdm =4.70.1 =pyh6be1c34_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 496 secondary packages :
+    # 497 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
@@ -101,8 +101,9 @@ requirements:
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - conda =26.7.3 =py311h86c7a16_0
+    - conda =26.9.1 =py311h86c7a16_0
     - conda-index =0.13.0 =pyh5ded981_0
+    - conda-launchers =24.7.1 =74da2fe_gcc_5
     - conda-libmamba-solver =26.7.0 =pyhcf101f3_0
     - conda-lockfiles =0.2.2 =pyhd8ed1ab_0
     - conda-package-handling =2.6.0 =pyh5ded981_0
@@ -286,7 +287,7 @@ requirements:
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.53 =pyha770c72_0
-    - propcache =0.5.2 =py311h3f79411_0
+    - propcache =0.5.4 =py311h3f79411_0
     - pure_eval =0.2.4 =pyhd8ed1ab_0
     - py-rattler =0.26.0 =py311h66afae6_0
     - pybind11-abi =11 =hc364b38_1
