@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.10.21 =hc20f281_0_cpython
+    - python =3.10.22 =hc20f281_0_cpython
   run:
-    - python =3.10.21 =hc20f281_0_cpython
+    - python =3.10.22 =hc20f281_0_cpython
 
     # 38 primary packages :
     - aiohttp =3.14.3 =py310h3602819_0
@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =win_pyh7428d3b_0
     - sqlalchemy =2.0.52 =py310h1637853_0
-    - sqlite =3.53.4 =hdb435a2_102
+    - sqlite =3.53.4 =hdb435a2_103
     - sympy =1.14.0 =pyh04b8f61_6
     - tqdm =4.70.0 =pyha7b4d00_0
     - transitions =0.9.3 =pyhe01879c_0
@@ -100,7 +100,7 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.2 =py310hc19bc0b_0
-    - cpython =3.10.21 =py310hd8ed1ab_0
+    - cpython =3.10.22 =py310hd8ed1ab_0
     - curl =8.22.0 =hdb0ef4a_0
     - cycler =0.12.1 =pyhcf101f3_2
     - debugpy =1.8.21 =py310h699e580_1
@@ -134,7 +134,7 @@ requirements:
     - gxx_impl_win-64 =16.2.0 =hdbe55fc_7
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
-    - harfbuzz =14.5.1 =h57928b3_0
+    - harfbuzz =14.6.0 =h57928b3_1
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -185,8 +185,8 @@ requirements:
     - libgfortran5 =16.2.0 =h7c9de5e_7
     - libglib =2.90.0 =ha564072_0
     - libgomp =16.2.0 =h8ee18e1_7
-    - libharfbuzz =14.5.1 =h03b5201_0
-    - libharfbuzz-devel =14.5.1 =h03b5201_0
+    - libharfbuzz =14.6.0 =h03b5201_1
+    - libharfbuzz-devel =14.6.0 =h03b5201_1
     - libhwloc =2.15.0 =default_hae90fe0_1001
     - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_4
@@ -199,7 +199,7 @@ requirements:
     - libpng =1.6.59 =hdc8cecf_0
     - libpsl =0.23.1 =h9b16d47_1
     - libsodium =1.0.22 =h6a83c73_3
-    - libsqlite =3.53.4 =hf5d6505_102
+    - libsqlite =3.53.4 =hf5d6505_103
     - libssh2 =1.11.1 =h734d217_1
     - libstdcxx =16.2.0 =hae5796f_7
     - libstdcxx-devel_win-64 =16.2.0 =h230208c_107
@@ -268,7 +268,7 @@ requirements:
     - pysocks =1.7.1 =pyh09c184e_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
-    - python-gil =3.10.21 =hd8ed1ab_0
+    - python-gil =3.10.22 =hd8ed1ab_0
     - python-json-logger =4.2.0 =pyhd8ed1ab_0
     - python-tzdata =2026.3 =pyhd8ed1ab_0
     - python-utils =4.0.1 =pyh332efcf_0

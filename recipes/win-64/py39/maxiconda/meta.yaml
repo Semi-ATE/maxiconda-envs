@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =win_pyh7428d3b_0
     - sqlalchemy =2.0.43 =py39h0802e32_0
-    - sqlite =3.53.4 =hdb435a2_102
+    - sqlite =3.53.4 =hdb435a2_103
     - sympy =1.14.0 =pyh04b8f61_5
     - tqdm =4.67.1 =pyhd8ed1ab_1
     - transitions =0.9.3 =pyhe01879c_0
@@ -135,7 +135,7 @@ requirements:
     - gxx_impl_win-64 =16.2.0 =hdbe55fc_7
     - h11 =0.16.0 =pyhd8ed1ab_0
     - h2 =4.2.0 =pyhd8ed1ab_0
-    - harfbuzz =14.5.1 =h57928b3_0
+    - harfbuzz =14.6.0 =h57928b3_1
     - hpack =4.1.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -187,8 +187,8 @@ requirements:
     - libgfortran5 =16.2.0 =h7c9de5e_7
     - libglib =2.90.0 =ha564072_0
     - libgomp =16.2.0 =h8ee18e1_7
-    - libharfbuzz =14.5.1 =h03b5201_0
-    - libharfbuzz-devel =14.5.1 =h03b5201_0
+    - libharfbuzz =14.6.0 =h03b5201_1
+    - libharfbuzz-devel =14.6.0 =h03b5201_1
     - libhwloc =2.12.1 =default_h88281d1_1000
     - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_4
@@ -200,7 +200,7 @@ requirements:
     - libogg =1.3.5 =h2466b09_1
     - libpng =1.6.59 =hdc8cecf_0
     - libsodium =1.0.20 =hc70643c_0
-    - libsqlite =3.53.4 =hf5d6505_102
+    - libsqlite =3.53.4 =hf5d6505_103
     - libssh2 =1.11.1 =h734d217_1
     - libstdcxx =16.2.0 =hae5796f_7
     - libstdcxx-devel_win-64 =16.2.0 =h230208c_107

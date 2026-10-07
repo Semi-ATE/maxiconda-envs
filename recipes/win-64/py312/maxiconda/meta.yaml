@@ -20,12 +20,12 @@ build:
 
 requirements:
   build:
-    - python =3.12.14 =hb12b558_3_cpython
+    - python =3.12.15 =hb12b558_1_cpython
   run:
-    - python =3.12.14 =hb12b558_3_cpython
+    - python =3.12.15 =hb12b558_1_cpython
 
     # 38 primary packages :
-    - aiohttp =3.14.3 =py312h6b91d65_0
+    - aiohttp =3.14.4 =py312h6fa65f5_0
     - aiomqtt =2.5.1 =pyhcf101f3_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - bitarray =3.11.0 =py312he5662c2_1
@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =win_pyh7428d3b_0
     - sqlalchemy =2.1.3 =py312he5662c2_0
-    - sqlite =3.53.4 =hdb435a2_102
+    - sqlite =3.53.4 =hdb435a2_103
     - sympy =1.14.0 =pyh04b8f61_6
     - tqdm =4.70.1 =pyh6be1c34_0
     - transitions =0.9.3 =pyhe01879c_0
@@ -115,7 +115,7 @@ requirements:
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.4.0 =py312h78d62e6_1
     - cpp-expected =1.3.1 =h477610d_1
-    - cpython =3.12.14 =py312hd8ed1ab_3
+    - cpython =3.12.15 =py312hd8ed1ab_1
     - curl =8.22.0 =hdb0ef4a_0
     - cycler =0.12.1 =pyhcf101f3_2
     - debugpy =1.8.22 =py312ha1a9051_0
@@ -153,7 +153,7 @@ requirements:
     - gxx_impl_win-64 =16.2.0 =hdbe55fc_7
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
-    - harfbuzz =14.5.1 =h57928b3_0
+    - harfbuzz =14.6.0 =h57928b3_1
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -206,8 +206,8 @@ requirements:
     - libgfortran5 =16.2.0 =h7c9de5e_7
     - libglib =2.90.0 =ha564072_0
     - libgomp =16.2.0 =h8ee18e1_7
-    - libharfbuzz =14.5.1 =h03b5201_0
-    - libharfbuzz-devel =14.5.1 =h03b5201_0
+    - libharfbuzz =14.6.0 =h03b5201_1
+    - libharfbuzz-devel =14.6.0 =h03b5201_1
     - libhwloc =2.15.0 =default_hae90fe0_1001
     - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_4
@@ -223,11 +223,11 @@ requirements:
     - libogg =1.3.5 =h2466b09_1
     - libpng =1.6.59 =hdc8cecf_0
     - libpsl =0.23.1 =h9b16d47_1
-    - libpython =3.12.14 =hcc31f7b_3_cpython
+    - libpython =3.12.15 =hcc31f7b_1_cpython
     - libraqm =0.11.0 =h50d6d30_0
     - libsodium =1.0.22 =h6a83c73_3
     - libsolv =0.7.40 =h8883371_0
-    - libsqlite =3.53.4 =hf5d6505_102
+    - libsqlite =3.53.4 =hf5d6505_103
     - libssh2 =1.11.1 =h734d217_1
     - libstdcxx =16.2.0 =hae5796f_7
     - libstdcxx-devel_win-64 =16.2.0 =h230208c_107
@@ -304,7 +304,7 @@ requirements:
     - python-build =1.6.1 =pyhc364b38_0
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
-    - python-gil =3.12.14 =hd8ed1ab_3
+    - python-gil =3.12.15 =hd8ed1ab_1
     - python-installer =1.0.1 =pyh332efcf_0
     - python-json-logger =4.2.0 =pyhd8ed1ab_0
     - python-tzdata =2026.5 =pyh5ded981_0
@@ -556,7 +556,7 @@ requirements:
     - winpty =0.4.3 =h57928b3_5
     - yaml =0.2.5 =h6a83c73_3
     - yaml-cpp =0.8.0 =h5112557_1
-    - yarl =1.24.5 =py312h05f76fc_0
+    - yarl =1.25.1 =py312h05f76fc_0
     - zeromq =4.3.5 =h3a581c9_12
     - zipp =4.1.1 =pyh5ded981_0
     - zlib =1.3.2 =hfd05255_3

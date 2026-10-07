@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.10.21 =h267e890_0_cpython
+    - python =3.10.22 =h267e890_0_cpython
   run:
-    - python =3.10.21 =h267e890_0_cpython
+    - python =3.10.22 =h267e890_0_cpython
 
     # 9 primary packages :
     - cython =3.3.0 =py310h4ddbdcc_0
@@ -76,7 +76,7 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - contourpy =1.3.2 =py310h3788b33_0
     - cookiecutter =2.7.1 =pyhcf101f3_0
-    - cpython =3.10.21 =py310hd8ed1ab_0
+    - cpython =3.10.22 =py310hd8ed1ab_0
     - cryptography =50.0.0 =py310h20b05aa_1
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hac629b4_1
@@ -160,7 +160,7 @@ requirements:
     - libcups =2.3.3 =h7a8fb5f_6
     - libdeflate =1.25 =hd45a770_1
     - libdrm =2.4.129 =h7cc23a3_0
-    - libedit =3.1.20250104 =pl5321h373387f_1
+    - libedit =3.1.20260512 =pl5321h373387f_0
     - libegl =1.7.0 =ha4b6fd6_5
     - libegl-devel =1.7.0 =ha4b6fd6_5
     - libevent =2.1.12 =h5348a74_2
@@ -287,7 +287,7 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
-    - python-gil =3.10.21 =hd8ed1ab_0
+    - python-gil =3.10.22 =hd8ed1ab_0
     - python-gssapi =1.12.0 =py310hfbfbb1b_0
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1

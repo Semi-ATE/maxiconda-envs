@@ -20,12 +20,12 @@ build:
 
 requirements:
   build:
-    - python =3.11.16 =hd05a0c4_2_cpython
+    - python =3.11.17 =hd05a0c4_1_cpython
   run:
-    - python =3.11.16 =hd05a0c4_2_cpython
+    - python =3.11.17 =hd05a0c4_1_cpython
 
     # 37 primary packages :
-    - aiohttp =3.14.3 =py311h6771f6e_0
+    - aiohttp =3.14.4 =py311h19107a3_0
     - aiomqtt =2.5.1 =pyhcf101f3_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - cython =3.3.0 =py311h71a39cc_0
@@ -100,21 +100,21 @@ requirements:
     - certifi =2026.7.22 =pyhd8ed1ab_0
     - cffi =2.1.1 =py311h2e98d63_3
     - charset-normalizer =3.5.1 =pyhd8ed1ab_0
-    - clang =23.1.1 =default_cfg_h5e3806e_0
-    - clang-23 =23.1.1 =default_hfbe3a31_0
-    - clang-scan-deps =23.1.1 =default_h79071a4_0
-    - clang_impl_osx-arm64 =23.1.1 =default_h79071a4_0
-    - clang_osx-arm64 =23.1.1 =h1ab324d_34
-    - clangxx_impl_osx-arm64 =23.1.1 =default_h0703b29_0
-    - clangxx_osx-arm64 =23.1.1 =h1ab324d_34
+    - clang =23.1.2 =default_cfg_h870b8d9_0
+    - clang-23 =23.1.2 =default_h8f9c3af_0
+    - clang-scan-deps =23.1.2 =default_h79071a4_0
+    - clang_impl_osx-arm64 =23.1.2 =default_h79071a4_0
+    - clang_osx-arm64 =23.1.2 =hcc2d159_34
+    - clangxx_impl_osx-arm64 =23.1.2 =default_hdadafb6_0
+    - clangxx_osx-arm64 =23.1.2 =hcc2d159_34
     - click =8.4.1 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - compiler-rt =23.1.1 =hce30654_0
-    - compiler-rt23 =23.1.1 =hdb3d66b_0
-    - compiler-rt23_osx-arm64 =23.1.1 =hb8825d9_0
-    - compiler-rt_osx-arm64 =23.1.1 =hce30654_0
+    - compiler-rt =23.1.2 =hce30654_0
+    - compiler-rt23 =23.1.2 =hdb3d66b_0
+    - compiler-rt23_osx-arm64 =23.1.2 =hb8825d9_0
+    - compiler-rt_osx-arm64 =23.1.2 =hce30654_0
     - conda =26.9.1 =py311h50b1a05_0
     - conda-index =0.13.0 =pyh5ded981_0
     - conda-libmamba-solver =26.7.0 =pyhcf101f3_0
@@ -128,7 +128,7 @@ requirements:
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
     - contourpy =1.3.3 =py311h7d85929_4
     - cpp-expected =1.3.1 =h3feff0a_1
-    - cpython =3.11.16 =py311hd8ed1ab_2
+    - cpython =3.11.17 =py311hd8ed1ab_1
     - curl =8.22.0 =h6651222_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hb961e35_1
@@ -167,7 +167,7 @@ requirements:
     - gstreamer =1.26.11 =h087694b_0
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
-    - harfbuzz =14.5.1 =hce30654_0
+    - harfbuzz =14.6.0 =hce30654_1
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -210,15 +210,15 @@ requirements:
     - libbrotlienc =1.2.0 =h2ddc9cb_4
     - libcblas =3.11.0 =11_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
-    - libclang-cpp23.1 =23.1.1 =default_h79071a4_0
-    - libclang13 =23.1.1 =default_hfbe3a31_0
-    - libcompiler-rt =23.1.1 =hdb3d66b_0
+    - libclang-cpp23.1 =23.1.2 =default_h79071a4_0
+    - libclang13 =23.1.2 =default_h8f9c3af_0
+    - libcompiler-rt =23.1.2 =hdb3d66b_0
     - libcurl =8.22.0 =h6651222_0
-    - libcxx =23.1.2 =h55c6f16_0
-    - libcxx-devel =23.1.2 =h6dc3340_0
-    - libcxx-headers =23.1.2 =h707e725_0
+    - libcxx =23.1.3 =h55c6f16_0
+    - libcxx-devel =23.1.3 =h6dc3340_0
+    - libcxx-headers =23.1.3 =h707e725_0
     - libdeflate =1.25 =he7e0567_1
-    - libedit =3.1.20250104 =pl5321h26f1114_1
+    - libedit =3.1.20260512 =pl5321h26f1114_0
     - libev =4.33 =h1a92334_3
     - libexpat =2.8.5 =h6111c0a_0
     - libffi =3.7.0 =h47dc5ef_1
@@ -230,15 +230,15 @@ requirements:
     - libgfortran =16.2.0 =h07b0088_7
     - libgfortran5 =16.2.0 =hdb7a957_7
     - libglib =2.90.0 =hccd281b_0
-    - libharfbuzz =14.5.1 =hcda0f7c_0
-    - libharfbuzz-devel =14.5.1 =hcda0f7c_0
+    - libharfbuzz =14.6.0 =hcda0f7c_1
+    - libharfbuzz-devel =14.6.0 =hcda0f7c_1
     - libiconv =1.18 =he4c29f2_3
     - libintl =0.25.1 =hae62183_2
     - libintl-devel =0.25.1 =hae62183_2
     - libjpeg-turbo =3.2.0 =h84a0fba_1
     - liblapack =3.11.0 =11_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h8e162e0_12
-    - libllvm23 =23.1.1 =h759d1ac_0
+    - libllvm23 =23.1.2 =h759d1ac_0
     - liblzma =5.8.3 =h8088a28_1
     - libmamba =2.9.0 =py311h39d259c_1
     - libmamba-spdlog =2.9.0 =h5900e61_1
@@ -252,7 +252,7 @@ requirements:
     - libpng =1.6.59 =hf5e6511_0
     - libpq =18.6 =h0a198e3_3
     - libpsl =0.23.1 =hdb0c161_1
-    - libpython =3.11.16 =h4e5ec87_2_cpython
+    - libpython =3.11.17 =h4e5ec87_1_cpython
     - libraqm =0.11.0 =h45af499_0
     - libsigtool =0.1.3 =h98dc951_1
     - libsodium =1.0.22 =h74c22ad_3
@@ -268,8 +268,8 @@ requirements:
     - libxml2-16 =2.15.4 =heb56d2d_0
     - libzlib =1.3.2 =h8088a28_3
     - llvm-openmp =23.1.2 =hdb3d66b_0
-    - llvm-tools =23.1.1 =hdb3d66b_0
-    - llvm-tools-23 =23.1.1 =h79441dc_0
+    - llvm-tools =23.1.2 =hdb3d66b_0
+    - llvm-tools-23 =23.1.2 =h79441dc_0
     - llvmlite =0.50.0 =py311h4a78e08_0
     - lz4-c =1.10.0 =hdca3b7d_2
     - lzo =2.10 =h74c22ad_1003
@@ -336,7 +336,7 @@ requirements:
     - python-build =1.6.1 =pyhc364b38_0
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
-    - python-gil =3.11.16 =hd8ed1ab_2
+    - python-gil =3.11.17 =hd8ed1ab_1
     - python-installer =1.0.1 =pyh332efcf_0
     - python-json-logger =4.2.0 =pyhd8ed1ab_0
     - python-tzdata =2026.5 =pyh5ded981_0
@@ -546,7 +546,7 @@ requirements:
     - setuptools =84.0.0 =pyh332efcf_0
     - sigtool-codesign =0.1.3 =h98dc951_1
     - simdjson =4.6.11 =hfbe1efa_0
-    - sip =6.16.1 =py311hcf9e9d8_0
+    - sip =6.17.0 =py311hcf9e9d8_0
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.3 =pyhcf101f3_1
     - sniffio =1.3.1 =pyhd8ed1ab_2
@@ -585,7 +585,7 @@ requirements:
     - xorg-libxdmcp =1.1.5 =hb001647_2
     - yaml =0.2.5 =h74c22ad_3
     - yaml-cpp =0.8.0 =h784d473_1
-    - yarl =1.24.5 =py311hc290fe0_0
+    - yarl =1.25.1 =py311hde9f260_0
     - zeromq =4.3.5 =h6eb0046_12
     - zipp =4.1.1 =pyh5ded981_0
     - zlib-ng =2.3.3 =h31dac16_1

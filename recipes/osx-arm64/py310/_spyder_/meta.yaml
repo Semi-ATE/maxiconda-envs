@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.10.21 =hac0b6dc_0_cpython
+    - python =3.10.22 =hac0b6dc_0_cpython
   run:
-    - python =3.10.21 =hac0b6dc_0_cpython
+    - python =3.10.22 =hac0b6dc_0_cpython
 
     # 9 primary packages :
     - cython =3.3.0 =py310h445f1ff_0
@@ -76,7 +76,7 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - contourpy =1.3.2 =py310h7f4e7e6_0
     - cookiecutter =2.7.1 =pyhcf101f3_0
-    - cpython =3.10.21 =py310hd8ed1ab_0
+    - cpython =3.10.22 =py310hd8ed1ab_0
     - cryptography =50.0.0 =py310hf586677_1
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hb961e35_1
@@ -149,9 +149,9 @@ requirements:
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp23.1 =23.1.2 =default_h79071a4_0
     - libclang13 =23.1.2 =default_h8f9c3af_0
-    - libcxx =23.1.2 =h55c6f16_0
+    - libcxx =23.1.3 =h55c6f16_0
     - libdeflate =1.25 =he7e0567_1
-    - libedit =3.1.20250104 =pl5321h26f1114_1
+    - libedit =3.1.20260512 =pl5321h26f1114_0
     - libexpat =2.8.5 =h6111c0a_0
     - libffi =3.7.0 =h47dc5ef_1
     - libfreetype =2.14.3 =hce30654_2
@@ -160,14 +160,14 @@ requirements:
     - libgfortran =16.2.0 =h07b0088_7
     - libgfortran5 =16.2.0 =hdb7a957_7
     - libglib =2.90.0 =hccd281b_0
-    - libharfbuzz =14.5.1 =hcda0f7c_0
+    - libharfbuzz =14.6.0 =hcda0f7c_1
     - libiconv =1.18 =he4c29f2_3
     - libintl =0.25.1 =hae62183_2
     - libintl-devel =0.25.1 =hae62183_2
     - libjpeg-turbo =3.2.0 =h84a0fba_1
     - liblapack =3.11.0 =11_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h8e162e0_12
-    - libllvm23 =23.1.2 =h759d1ac_0
+    - libllvm23 =23.1.3 =h759d1ac_0
     - liblzma =5.8.3 =h8088a28_1
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1

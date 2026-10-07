@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.10.21 =hc20f281_0_cpython
+    - python =3.10.22 =hc20f281_0_cpython
   run:
-    - python =3.10.21 =hc20f281_0_cpython
+    - python =3.10.22 =hc20f281_0_cpython
 
     # 10 primary packages :
     - cython =3.3.0 =py310h23e71ea_0
@@ -76,7 +76,7 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - contourpy =1.3.2 =py310hc19bc0b_0
     - cookiecutter =2.7.1 =pyhcf101f3_0
-    - cpython =3.10.21 =py310hd8ed1ab_0
+    - cpython =3.10.22 =py310hd8ed1ab_0
     - cryptography =50.0.0 =py310hff68572_1
     - cycler =0.12.1 =pyhcf101f3_2
     - debugpy =1.8.21 =py310h699e580_1
@@ -152,7 +152,7 @@ requirements:
     - libgcc =16.2.0 =h110b43a_7
     - libglib =2.90.0 =ha564072_0
     - libgomp =16.2.0 =h8ee18e1_7
-    - libharfbuzz =14.5.1 =h03b5201_0
+    - libharfbuzz =14.6.0 =h03b5201_1
     - libhwloc =2.15.0 =default_hae90fe0_1001
     - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_4
@@ -164,7 +164,7 @@ requirements:
     - libpng =1.6.59 =hdc8cecf_0
     - libsodium =1.0.22 =h6a83c73_3
     - libspatialindex =2.1.0 =h2854ae6_2
-    - libsqlite =3.53.4 =hf5d6505_102
+    - libsqlite =3.53.4 =hf5d6505_103
     - libtiff =4.7.2 =h8f73337_1
     - libvorbis =1.3.7 =h5112557_2
     - libvulkan-loader =1.4.357.0 =h477610d_2
@@ -240,7 +240,7 @@ requirements:
     - pysocks =1.7.1 =pyh09c184e_7
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
-    - python-gil =3.10.21 =hd8ed1ab_0
+    - python-gil =3.10.22 =hd8ed1ab_0
     - python-gssapi =1.12.0 =py310h4b3e4df_0
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1

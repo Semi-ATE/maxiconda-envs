@@ -20,9 +20,9 @@ build:
 
 requirements:
   build:
-    - python =3.11.16 =hd05a0c4_2_cpython
+    - python =3.11.17 =hd05a0c4_1_cpython
   run:
-    - python =3.11.16 =hd05a0c4_2_cpython
+    - python =3.11.17 =hd05a0c4_1_cpython
 
     # 9 primary packages :
     - cython =3.3.0 =py311h71a39cc_0
@@ -39,7 +39,7 @@ requirements:
     - _openmp_mutex =4.5 =8_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
-    - aiohttp =3.14.3 =py311h6771f6e_0
+    - aiohttp =3.14.4 =py311h19107a3_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - alabaster =1.0.0 =pyhd8ed1ab_1
     - applaunchservices =0.3.0 =pyh534df25_4
@@ -77,7 +77,7 @@ requirements:
     - comm =0.2.3 =pyhe01879c_0
     - contourpy =1.3.3 =py311h7d85929_4
     - cookiecutter =2.7.1 =pyhcf101f3_0
-    - cpython =3.11.16 =py311hd8ed1ab_2
+    - cpython =3.11.17 =py311hd8ed1ab_1
     - cryptography =50.0.2 =py311hc28ac56_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hb961e35_1
@@ -149,9 +149,9 @@ requirements:
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp23.1 =23.1.2 =default_h79071a4_0
     - libclang13 =23.1.2 =default_h8f9c3af_0
-    - libcxx =23.1.2 =h55c6f16_0
+    - libcxx =23.1.3 =h55c6f16_0
     - libdeflate =1.25 =he7e0567_1
-    - libedit =3.1.20250104 =pl5321h26f1114_1
+    - libedit =3.1.20260512 =pl5321h26f1114_0
     - libexpat =2.8.5 =h6111c0a_0
     - libffi =3.7.0 =h47dc5ef_1
     - libfreetype =2.14.3 =hce30654_2
@@ -160,14 +160,14 @@ requirements:
     - libgfortran =16.2.0 =h07b0088_7
     - libgfortran5 =16.2.0 =hdb7a957_7
     - libglib =2.90.0 =hccd281b_0
-    - libharfbuzz =14.5.1 =hcda0f7c_0
+    - libharfbuzz =14.6.0 =hcda0f7c_1
     - libiconv =1.18 =he4c29f2_3
     - libintl =0.25.1 =hae62183_2
     - libintl-devel =0.25.1 =hae62183_2
     - libjpeg-turbo =3.2.0 =h84a0fba_1
     - liblapack =3.11.0 =11_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h8e162e0_12
-    - libllvm23 =23.1.2 =h759d1ac_0
+    - libllvm23 =23.1.3 =h759d1ac_0
     - liblzma =5.8.3 =h8088a28_1
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
@@ -175,7 +175,7 @@ requirements:
     - libopus =1.6.1 =h74c22ad_1
     - libpng =1.6.59 =hf5e6511_0
     - libpq =18.6 =h0a198e3_3
-    - libpython =3.11.16 =h4e5ec87_2_cpython
+    - libpython =3.11.17 =h4e5ec87_1_cpython
     - libraqm =0.11.0 =h45af499_0
     - libsodium =1.0.22 =h74c22ad_3
     - libspatialindex =2.1.0 =hdca3b7d_2
@@ -261,7 +261,7 @@ requirements:
     - python-abi3 =3.11 =ha8785bc_3
     - python-dateutil =2.9.0.post0 =pyhe01879c_2
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
-    - python-gil =3.11.16 =hd8ed1ab_2
+    - python-gil =3.11.17 =hd8ed1ab_1
     - python-gssapi =1.12.0 =py311h7fec543_0
     - python-lsp-black =2.0.0 =pyhff2d567_1
     - python-lsp-jsonrpc =1.1.2 =pyhff2d567_1
@@ -297,7 +297,7 @@ requirements:
     - rtree =1.4.1 =pyh11ca60a_0
     - ruff =0.16.10 =hc57303c_0
     - setuptools =84.0.0 =pyh332efcf_0
-    - sip =6.16.1 =py311hcf9e9d8_0
+    - sip =6.17.0 =py311hcf9e9d8_0
     - six =1.17.0 =pyhe01879c_1
     - snowballstemmer =3.1.1 =pyhd8ed1ab_0
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
@@ -340,7 +340,7 @@ requirements:
     - xorg-libxdmcp =1.1.5 =hb001647_2
     - yaml =0.2.5 =h74c22ad_3
     - yapf =0.43.0 =pyhd8ed1ab_1
-    - yarl =1.24.5 =py311hc290fe0_0
+    - yarl =1.25.1 =py311hde9f260_0
     - zeromq =4.3.5 =h6eb0046_12
     - zipp =4.1.1 =pyh5ded981_0
     - zlib-ng =2.3.3 =h31dac16_1
