@@ -56,7 +56,7 @@ requirements:
     - scipy =1.18.1 =py312h3e7234c_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =unix_pyh707e725_0
-    - sqlalchemy =2.1.3 =py312h898233f_0
+    - sqlalchemy =2.1.4 =py312h898233f_0
     - sqlite =3.53.4 =h363059a_102
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.70.1 =pyhfa0c392_0
@@ -174,7 +174,7 @@ requirements:
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.20.0 =pyhcf101f3_0
-    - json5 =0.15.0 =pyhd8ed1ab_0
+    - json5 =0.16.0 =pyhd8ed1ab_0
     - jsonpointer =3.2.0 =pyh5ded981_0
     - jsonschema =4.26.0 =pyhcf101f3_1
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
@@ -278,8 +278,8 @@ requirements:
     - libxcb =1.17.0 =h3f04742_2
     - libxcrypt =4.4.38 =h80f16a2_0
     - libxkbcommon =1.13.2 =he51e330_1
-    - libxml2 =2.15.4 =h92b9305_0
-    - libxml2-16 =2.15.4 =h2e5089f_0
+    - libxml2 =2.15.4 =h92b9305_1
+    - libxml2-16 =2.15.4 =h2e5089f_1
     - libxslt =1.1.45 =h22b76d0_1
     - libzlib =1.3.2 =hdc9db2a_3
     - llvmlite =0.50.0 =py312hdce7143_0
@@ -313,7 +313,7 @@ requirements:
     - openssl =3.6.5 =he6ad1d5_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.12 =h8af1aa0_0
+    - pandoc =3.12.1 =h8af1aa0_0
     - pandocfilters =1.5.1 =pyh5ded981_0
     - pango =1.58.2 =h03cb6a0_1
     - parso =0.8.7 =pyhcf101f3_0
@@ -337,7 +337,7 @@ requirements:
     - py-rattler =0.26.0 =py311h40f29f8_0
     - pybind11-abi =11 =hc364b38_1
     - pycosat =0.6.6 =py312h84d9e0c_6
-    - pycparser =3.0 =pyhcf101f3_0
+    - pycparser =3.1 =pyh5ded981_0
     - pydantic-core =2.46.5 =py312h67c44d3_2
     - pygments =2.21.0 =pyhcf101f3_0
     - pyparsing =3.3.3 =pyh5ded981_0

@@ -252,8 +252,8 @@ requirements:
     - libxcb =1.17.0 =hb83e432_2
     - libxcrypt =4.4.38 =h280c20c_0
     - libxkbcommon =1.13.2 =h51789e4_1
-    - libxml2 =2.15.4 =h7df9aa5_0
-    - libxml2-16 =2.15.4 =hf3af7cc_0
+    - libxml2 =2.15.4 =h7df9aa5_1
+    - libxml2-16 =2.15.4 =hf3af7cc_1
     - libxslt =1.1.45 =h8e12856_1
     - libzlib =1.3.2 =h25fd6f3_3
     - llvmlite =0.49.0 =py310h043a6fa_2
@@ -282,7 +282,7 @@ requirements:
     - openssl =3.6.5 =h781a0a9_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.12 =ha770c72_0
+    - pandoc =3.12.1 =ha770c72_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.58.2 =h7bb47b9_1
     - parso =0.8.7 =pyhcf101f3_0
