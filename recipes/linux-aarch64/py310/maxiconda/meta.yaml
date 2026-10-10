@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =unix_pyh707e725_0
     - sqlalchemy =2.0.52 =py310h3cefe83_0
-    - sqlite =3.53.4 =h363059a_102
+    - sqlite =3.54.0 =h6ce2f9a_1
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.70.0 =pyh8f84b5b_0
     - transitions =0.9.3 =pyhe01879c_0
@@ -81,8 +81,8 @@ requirements:
     - attrs =26.1.0 =pyhcf101f3_0
     - babel =2.18.0 =pyhcf101f3_1
     - backports.zstd =1.7.0 =py310h5585d39_0
-    - binutils_impl_linux-aarch64 =2.46.1 =default_h5f4c503_102
-    - binutils_linux-aarch64 =2.46.1 =default_hf1166c9_102
+    - binutils_impl_linux-aarch64 =2.46.1 =default_h5f4c503_103
+    - binutils_linux-aarch64 =2.46.1 =default_hf1166c9_103
     - bleach =6.4.0 =pyhcf101f3_0
     - bleach-with-css =6.4.0 =hac0b51c_0
     - brotli =1.2.0 =h52fc18c_3
@@ -177,7 +177,7 @@ requirements:
     - lame =4.0 =h7ce06ba_1
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.19.1 =h137c43b_3
-    - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_102
+    - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_103
     - lerc =4.2.0 =h52b7260_0
     - libblas =3.11.0 =11_haddc8a3_openblas
     - libbrotlicommon =1.2.0 =h384ecca_3
@@ -236,7 +236,7 @@ requirements:
     - libsanitizer =16.2.0 =h73cac2c_7
     - libsndfile =1.2.2 =h7354dbf_3
     - libsodium =1.0.22 =h29ee22c_3
-    - libsqlite =3.53.4 =hd26f1b6_102
+    - libsqlite =3.54.0 =h399dd60_1
     - libssh2 =1.11.1 =h7572e3e_1
     - libstdcxx =16.2.0 =hef695bb_7
     - libstdcxx-devel_linux-aarch64 =16.2.0 =h082e5f6_107
