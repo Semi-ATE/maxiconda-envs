@@ -25,12 +25,12 @@ requirements:
     - python =3.11.17 =hd05a0c4_1_cpython
 
     # 37 primary packages :
-    - aiohttp =3.14.4 =py311h19107a3_0
+    - aiohttp =3.14.5 =py311h19107a3_0
     - aiomqtt =2.5.1 =pyhcf101f3_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - cython =3.3.0 =py311h71a39cc_0
     - grayskull =3.2.0 =pyhc364b38_0
-    - hypothesis =6.168.5 =py311hfcb3ee1_0
+    - hypothesis =6.169.0 =py311hfcb3ee1_0
     - ipython =9.17.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.2 =py311ha01d089_1
@@ -40,7 +40,7 @@ requirements:
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =3.0.6 =np2py311h0e7d951_0
     - psutil =7.2.2 =py311hd322c8c_3
-    - pydantic =2.14.0 =pyh5ded981_0
+    - pydantic =2.14.1 =pyh5ded981_0
     - pyqt =5.15.11 =py311ha87f45f_2
     - pyserial =3.5 =pyhcf101f3_2
     - pytest =9.1.1 =pyhc364b38_2
@@ -51,7 +51,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.9.29 =py311h5edb25e_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.98.1 =h4ff7c5d_2
+    - rust =1.99.0 =haf00ee1_0
     - scipy =1.17.1 =py311h9a58382_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =unix_pyh707e725_0
@@ -310,7 +310,7 @@ requirements:
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h784d473_3
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
-    - platformdirs =4.12.4 =pyh5ded981_0
+    - platformdirs =4.13.0 =pyh5ded981_0
     - pluggy =1.6.0 =pyhf9edf01_1
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
@@ -324,7 +324,7 @@ requirements:
     - pybind11-abi =11 =hc364b38_1
     - pycosat =0.6.6 =py311h5edb25e_6
     - pycparser =3.11 =pyh5ded981_0
-    - pydantic-core =2.50.0 =py311hcfb3d13_0
+    - pydantic-core =2.50.1 =py311hcfb3d13_0
     - pygments =2.21.0 =pyhcf101f3_0
     - pyobjc-core =12.2.2 =py311hcd12bbf_1
     - pyobjc-framework-cocoa =12.2.2 =py311h01ff9c6_1
@@ -340,7 +340,7 @@ requirements:
     - python-installer =1.0.1 =pyh332efcf_0
     - python-json-logger =4.2.0 =pyhd8ed1ab_0
     - python-tzdata =2026.5 =pyh5ded981_0
-    - python-utils =4.1.0 =pyhe730653_0
+    - python-utils =4.1.1 =pyhe730653_0
     - python_abi =3.11 =9_cp311
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.2.0 =py311h0a890f6_2
@@ -540,18 +540,18 @@ requirements:
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
     - ruamel.yaml.clib =0.2.15 =py311hd322c8c_5
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-aarch64-apple-darwin =1.98.1 =hf6ec828_2
+    - rust-std-aarch64-apple-darwin =1.99.0 =h451e77e_0
     - sdkroot_env_osx-arm64 =26.0 =ha3f98da_7
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =84.0.0 =pyh332efcf_0
     - sigtool-codesign =0.1.3 =h98dc951_1
     - simdjson =4.6.11 =hfbe1efa_0
-    - sip =6.17.0 =py311hcf9e9d8_0
+    - sip =6.17.1 =py311hcf9e9d8_0
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.3 =pyhcf101f3_1
     - sniffio =1.3.1 =pyhd8ed1ab_2
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
-    - soupsieve =3.0 =pyhd8ed1ab_0
+    - soupsieve =3.0.1 =pyhd8ed1ab_0
     - spdlog =1.17.0 =h760df91_2
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
