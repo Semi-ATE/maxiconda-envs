@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.12.1 =py312h898233f_0
     - cython =3.3.0 =py312ha0e5879_0
     - grayskull =3.2.0 =pyhc364b38_0
-    - hypothesis =6.169.0 =py311h8ca180e_0
+    - hypothesis =6.169.1 =py311h8ca180e_0
     - ipython =9.17.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.2 =py312h2f630db_1
@@ -104,7 +104,7 @@ requirements:
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - conda =26.9.2 =py312h25ea1a8_0
+    - conda =26.9.3 =py312h25ea1a8_0
     - conda-index =0.13.0 =pyh5ded981_0
     - conda-libmamba-solver =26.7.0 =pyhcf101f3_0
     - conda-lockfiles =0.2.2 =pyhd8ed1ab_0
@@ -118,7 +118,7 @@ requirements:
     - contourpy =1.4.0 =py312he33898b_1
     - cpp-expected =1.3.1 =hdc560ac_1
     - cpython =3.12.15 =py312hd8ed1ab_2
-    - curl =8.22.0 =h86273da_0
+    - curl =8.23.0 =h86273da_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h6598af7_1
     - dbus =1.16.2 =h71d469a_2
@@ -138,7 +138,7 @@ requirements:
     - fontconfig =2.18.3 =ha4b22b4_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
-    - fonttools =4.66.1 =py312h363f31d_0
+    - fonttools =4.67.0 =py312h363f31d_0
     - fqdn =1.6.0 =pyh5ded981_0
     - freetype =2.14.3 =h8af1aa0_2
     - fribidi =1.0.17 =h5bc82ec_0
@@ -148,7 +148,7 @@ requirements:
     - gcc_linux-aarch64 =16.2.0 =h25cc031_2
     - gfortran_impl_linux-aarch64 =16.2.0 =h339fd1e_7
     - gitdb =4.0.12 =pyhd8ed1ab_0
-    - gitpython =3.2.0 =pyh5ded981_0
+    - gitpython =3.2.1 =pyh5ded981_0
     - glib =2.90.1 =h3b7e126_0
     - glib-tools =2.90.1 =hd8364ca_0
     - gmp =6.3.0 =h4d6b352_3
@@ -209,7 +209,7 @@ requirements:
     - libclang-cpp23.1 =23.1.3 =default_h01b09c7_1
     - libclang13 =23.1.3 =default_h429a9a3_1
     - libcups =2.3.3 =h4f2b762_6
-    - libcurl =8.22.0 =h86273da_0
+    - libcurl =8.23.0 =h86273da_0
     - libdeflate =1.25 =hfa851ae_1
     - libdrm =2.4.129 =h5bc82ec_0
     - libedit =3.1.20260512 =pl5321hc48eb74_0
@@ -315,7 +315,7 @@ requirements:
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.12.1 =h8af1aa0_0
     - pandocfilters =1.5.1 =pyh5ded981_0
-    - pango =1.58.2 =h03cb6a0_1
+    - pango =1.58.2 =h03cb6a0_2
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =he574923_1
     - pexpect =4.9.0 =pyhd8ed1ab_1

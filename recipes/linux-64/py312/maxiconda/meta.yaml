@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.12.1 =py312h1b36aeb_0
     - cython =3.3.0 =py312h03570ca_0
     - grayskull =3.2.0 =pyhc364b38_0
-    - hypothesis =6.169.0 =py311hf77984d_0
+    - hypothesis =6.169.1 =py311hf77984d_0
     - ipython =9.17.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.2 =py312h6a12a82_1
@@ -104,7 +104,7 @@ requirements:
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - conda =26.9.2 =py312h20c3967_0
+    - conda =26.9.3 =py312h20c3967_0
     - conda-index =0.13.0 =pyh5ded981_0
     - conda-libmamba-solver =26.7.0 =pyhcf101f3_0
     - conda-lockfiles =0.2.2 =pyhd8ed1ab_0
@@ -118,7 +118,7 @@ requirements:
     - contourpy =1.4.0 =py312h9be0db6_1
     - cpp-expected =1.3.1 =h171cf75_1
     - cpython =3.12.15 =py312hd8ed1ab_2
-    - curl =8.22.0 =ha042cf0_0
+    - curl =8.23.0 =ha042cf0_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hac629b4_1
     - dbus =1.16.2 =he8c428d_2
@@ -138,7 +138,7 @@ requirements:
     - fontconfig =2.18.3 =h4db4eae_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
-    - fonttools =4.66.1 =py312hfd18d64_0
+    - fonttools =4.67.0 =py312hfd18d64_0
     - fqdn =1.6.0 =pyh5ded981_0
     - freetype =2.14.3 =ha770c72_2
     - fribidi =1.0.17 =h7cc23a3_0
@@ -148,7 +148,7 @@ requirements:
     - gcc_linux-64 =16.2.0 =h0ab548f_2
     - gfortran_impl_linux-64 =16.2.0 =hf930d89_7
     - gitdb =4.0.12 =pyhd8ed1ab_0
-    - gitpython =3.2.0 =pyh5ded981_0
+    - gitpython =3.2.1 =pyh5ded981_0
     - glib =2.90.0 =h5e3c387_0
     - glib-tools =2.90.0 =h3d503d9_0
     - gmp =6.3.0 =hfd2156b_3
@@ -209,7 +209,7 @@ requirements:
     - libclang-cpp23.1 =23.1.3 =default_h0acdd01_1
     - libclang13 =23.1.3 =default_hf5bde5f_1
     - libcups =2.3.3 =h7a8fb5f_6
-    - libcurl =8.22.0 =ha042cf0_0
+    - libcurl =8.23.0 =ha042cf0_0
     - libdeflate =1.25 =hd45a770_1
     - libdrm =2.4.129 =h7cc23a3_0
     - libedit =3.1.20260512 =pl5321h373387f_0
@@ -315,7 +315,7 @@ requirements:
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.12.1 =ha770c72_0
     - pandocfilters =1.5.1 =pyh5ded981_0
-    - pango =1.58.2 =h7bb47b9_1
+    - pango =1.58.2 =h7bb47b9_2
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =h8b3dc9c_1
     - pexpect =4.9.0 =pyhd8ed1ab_1

@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.12.1 =py312hdc27ec5_0
     - cython =3.3.0 =py312h9ddbb48_0
     - grayskull =3.2.0 =pyhc364b38_0
-    - hypothesis =6.169.0 =py311h2a8a194_0
+    - hypothesis =6.169.1 =py311h2a8a194_0
     - ipython =9.17.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.2 =py312had31f23_1
@@ -116,7 +116,7 @@ requirements:
     - compiler-rt23 =23.1.3 =h8c1e6b9_0
     - compiler-rt23_osx-64 =23.1.3 =h8d5f570_0
     - compiler-rt_osx-64 =23.1.3 =h694c41f_0
-    - conda =26.9.2 =py312hc2fe966_0
+    - conda =26.9.3 =py312hc2fe966_0
     - conda-index =0.13.0 =pyh5ded981_0
     - conda-libmamba-solver =26.7.0 =pyhcf101f3_0
     - conda-lockfiles =0.2.2 =pyhd8ed1ab_0
@@ -130,7 +130,7 @@ requirements:
     - contourpy =1.4.0 =py312hcba6f97_1
     - cpp-expected =1.3.1 =hebe015c_1
     - cpython =3.12.15 =py312hd8ed1ab_2
-    - curl =8.22.0 =h5318221_0
+    - curl =8.23.0 =h5318221_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h7cc0300_1
     - debugpy =1.8.22 =py312haab1465_0
@@ -148,7 +148,7 @@ requirements:
     - fontconfig =2.18.3 =h7f3b9c9_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
-    - fonttools =4.66.1 =py312hbb2d1fb_0
+    - fonttools =4.67.0 =py312hbb2d1fb_0
     - fqdn =1.6.0 =pyh5ded981_0
     - freetype =2.14.3 =h694c41f_2
     - fribidi =1.0.17 =hd115831_0
@@ -157,7 +157,7 @@ requirements:
     - gcc_impl_osx-64 =16.2.0 =hd8ed746_7
     - gfortran_impl_osx-64 =16.2.0 =h51020b9_7
     - gitdb =4.0.12 =pyhd8ed1ab_0
-    - gitpython =3.2.0 =pyh5ded981_0
+    - gitpython =3.2.1 =pyh5ded981_0
     - glib =2.90.1 =hb8a80a9_0
     - glib-tools =2.90.1 =h2cf9c05_0
     - gmp =6.3.0 =h65442b7_3
@@ -214,7 +214,7 @@ requirements:
     - libclang-cpp23.1 =23.1.3 =default_h6e863b9_1
     - libclang13 =23.1.3 =default_h3732b42_1
     - libcompiler-rt =23.1.3 =h8c1e6b9_0
-    - libcurl =8.22.0 =h5318221_0
+    - libcurl =8.23.0 =h5318221_0
     - libcxx =23.1.3 =h19cb2f5_0
     - libcxx-devel =23.1.3 =h7c275be_0
     - libcxx-headers =23.1.3 =h707e725_0
@@ -303,7 +303,7 @@ requirements:
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.12.1 =h694c41f_0
     - pandocfilters =1.5.1 =pyh5ded981_0
-    - pango =1.58.2 =hc5a6962_1
+    - pango =1.58.2 =hc5a6962_2
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =h31793e3_1
     - pexpect =4.9.0 =pyhd8ed1ab_1
