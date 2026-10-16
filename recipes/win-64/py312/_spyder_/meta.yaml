@@ -36,7 +36,7 @@ requirements:
     - spyder =6.1.7 =hd8ed1ab_0
     - sympy =1.14.0 =pyh04b8f61_6
 
-    # 289 secondary packages :
+    # 292 secondary packages :
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiohttp =3.14.5 =py312h6fa65f5_0
@@ -149,6 +149,7 @@ requirements:
     - libfreetype6 =2.14.3 =hdbac1cb_2
     - libglib =2.90.1 =ha564072_0
     - libharfbuzz =14.6.0 =h03b5201_2
+    - libharfbuzz-devel =14.6.0 =h03b5201_2
     - libhwloc =2.15.0 =default_hae90fe0_1001
     - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_4
@@ -157,6 +158,8 @@ requirements:
     - liblapack =3.11.0 =11_hf9ab0e9_mkl
     - liblzma =5.8.3 =hfd05255_1
     - libogg =1.3.5 =h2466b09_1
+    - libpango =1.58.2 =h02b4fad_3
+    - libpango-devel =1.58.2 =h7637d1b_3
     - libpng =1.6.59 =hdc8cecf_0
     - libpython =3.12.15 =hfb4101e_2_cpython
     - libraqm =0.11.0 =h50d6d30_0
@@ -183,7 +186,7 @@ requirements:
     - mdurl =0.1.2 =pyhd8ed1ab_1
     - mistune =3.3.4 =pyhcf101f3_0
     - mkl =2026.1.0 =hac47afa_235
-    - more-itertools =11.2.0 =pyh5ded981_0
+    - more-itertools =11.2.1 =pyh5ded981_0
     - mpmath =1.4.1 =pyhd8ed1ab_0
     - multidict =6.7.1 =py312h05f76fc_0
     - munkres =1.1.4 =pyhd8ed1ab_1
@@ -200,7 +203,7 @@ requirements:
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.12.1 =h57928b3_0
     - pandocfilters =1.5.1 =pyh5ded981_0
-    - pango =1.58.2 =h13911b6_2
+    - pango =1.58.2 =h4350c2a_3
     - parso =0.8.7 =pyhcf101f3_0
     - pathspec =1.1.1 =pyhd8ed1ab_0
     - pcre2 =10.47 =h8466c1e_1
@@ -210,7 +213,7 @@ requirements:
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h5112557_3
     - platformdirs =4.13.0 =pyh5ded981_0
-    - pluggy =1.6.0 =pyhf9edf01_1
+    - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.4 =py312h05f76fc_0
@@ -259,7 +262,7 @@ requirements:
     - qstylizer =0.2.4 =pyhff2d567_0
     - qt-main =5.15.15 =hc95f6a6_8
     - qt-webengine =5.15.15 =h087ee03_1
-    - qt6-main =6.11.2 =pl5321hfcac499_0
+    - qt6-main =6.11.2 =pl5321hfcac499_1
     - qtawesome =1.4.2 =pyh9208f05_0
     - qtconsole =5.7.2 =pyhd8ed1ab_0
     - qtconsole-base =5.7.2 =pyha770c72_0
@@ -271,7 +274,7 @@ requirements:
     - rope =1.15.0 =pyh5ded981_0
     - rpds-py =2026.9.1 =py312hdabe01f_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.17.0 =h18a1a76_0
+    - ruff =0.17.1 =h18a1a76_0
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.10.0 =py312hbb81ca0_1
     - six =1.17.0 =pyhe01879c_1

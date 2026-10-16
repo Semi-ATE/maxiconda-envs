@@ -28,10 +28,10 @@ requirements:
     - aiohttp =3.14.5 =py311h5b24874_0
     - aiomqtt =2.5.1 =pyhcf101f3_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
-    - bitarray =3.12.1 =py311hf893f09_0
+    - bitarray =3.12.2 =py311hf893f09_0
     - cython =3.3.0 =py311h9990397_0
     - grayskull =3.2.0 =pyhc364b38_0
-    - hypothesis =6.169.1 =py311h66afae6_0
+    - hypothesis =6.170.0 =py311h66afae6_0
     - ipython =9.17.1 =pyhe2676ad_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.2 =py311hce7227b_1
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 497 secondary packages :
+    # 499 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
@@ -215,12 +215,14 @@ requirements:
     - libjpeg-turbo =3.2.0 =hfd05255_1
     - liblapack =3.11.0 =11_hf9ab0e9_mkl
     - liblzma =5.8.3 =hfd05255_1
-    - libmamba =2.9.0 =py311h5893078_1
-    - libmamba-spdlog =2.9.0 =h8faee1a_1
-    - libmambapy =2.9.0 =py311h024d1a5_1
+    - libmamba =2.9.0 =py311h5893078_2
+    - libmamba-spdlog =2.9.0 =hee104de_2
+    - libmambapy =2.9.0 =py311hf302883_2
     - libmsgpack-c =6.1.0 =h5112557_7
     - libnghttp2 =1.68.1 =hac47afa_1
     - libogg =1.3.5 =h2466b09_1
+    - libpango =1.58.2 =h02b4fad_3
+    - libpango-devel =1.58.2 =h7637d1b_3
     - libpng =1.6.59 =hdc8cecf_0
     - libpsl =0.23.1 =h9b16d47_1
     - libpython =3.11.17 =hfb4101e_2_cpython
@@ -274,7 +276,7 @@ requirements:
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.12.1 =h57928b3_0
     - pandocfilters =1.5.1 =pyh5ded981_0
-    - pango =1.58.2 =h13911b6_2
+    - pango =1.58.2 =h4350c2a_3
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =h8466c1e_1
     - pillow =12.3.0 =py311h36f029a_4
@@ -282,7 +284,7 @@ requirements:
     - pixman =0.46.4 =h5112557_3
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
     - platformdirs =4.13.0 =pyh5ded981_0
-    - pluggy =1.6.0 =pyhf9edf01_1
+    - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
@@ -311,11 +313,11 @@ requirements:
     - python-utils =4.1.2 =pyhe730653_0
     - python_abi =3.11 =9_cp311
     - pywin32 =312 =py311h0610301_2
-    - pywinpty =3.0.5 =py311hda3d55a_2
+    - pywinpty =3.1.0 =py311hda3d55a_0
     - pyzmq =27.2.0 =py311h7a22eb7_2
     - qhull =2020.2 =hc790b64_5
     - qt-main =5.15.15 =hc95f6a6_8
-    - qt6-main =6.11.2 =pl5321hfcac499_0
+    - qt6-main =6.11.2 =pl5321hfcac499_1
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r45heceb674_1
     - r-assertthat =0.2.1 =r45hc72bb7e_6
@@ -512,7 +514,7 @@ requirements:
     - rust-std-x86_64-pc-windows-msvc =1.99.0 =h5a2a77e_0
     - send2trash =2.1.0 =pyh6dadd2b_1
     - setuptools =84.0.0 =pyh332efcf_0
-    - simdjson =4.6.11 =h477610d_0
+    - simdjson =5.0.5 =h477610d_0
     - sip =6.10.0 =py311h3e6a449_1
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.3 =pyhcf101f3_1

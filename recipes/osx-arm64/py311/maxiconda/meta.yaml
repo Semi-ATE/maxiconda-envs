@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - cython =3.3.0 =py311h71a39cc_0
     - grayskull =3.2.0 =pyhc364b38_0
-    - hypothesis =6.169.1 =py311hfcb3ee1_0
+    - hypothesis =6.170.0 =py311hfcb3ee1_0
     - ipython =9.17.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.2 =py311ha01d089_1
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 526 secondary packages :
+    # 528 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
@@ -240,15 +240,17 @@ requirements:
     - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm23 =23.1.3 =h759d1ac_0
     - liblzma =5.8.3 =h8088a28_1
-    - libmamba =2.9.0 =py311h39d259c_1
-    - libmamba-spdlog =2.9.0 =h5900e61_1
-    - libmambapy =2.9.0 =py311h01962e9_1
+    - libmamba =2.9.0 =py311h39d259c_2
+    - libmamba-spdlog =2.9.0 =h7101a8e_2
+    - libmambapy =2.9.0 =py311hc2abeef_2
     - libmsgpack-c =6.1.0 =h784d473_7
     - libnghttp2 =1.68.1 =h435687b_1
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
     - libopenblas =0.3.34 =openmp_h5e6e99c_1
     - libopus =1.6.1 =h74c22ad_1
+    - libpango =1.58.2 =hc2ac4f2_3
+    - libpango-devel =1.58.2 =haa2d88b_3
     - libpng =1.6.59 =hf5e6511_0
     - libpq =18.6 =h0a198e3_3
     - libpsl =0.23.1 =hdb0c161_1
@@ -273,7 +275,7 @@ requirements:
     - llvmlite =0.50.0 =py311h4a78e08_0
     - lz4-c =1.10.0 =hdca3b7d_2
     - lzo =2.10 =h74c22ad_1003
-    - make =4.4.1 =h84a0fba_3
+    - make =4.4.1 =h63fc045_4
     - markupsafe =3.0.4 =py311h19107a3_1
     - matplotlib-base =3.11.2 =py311h022e184_1
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
@@ -302,7 +304,7 @@ requirements:
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.12.1 =hce30654_0
     - pandocfilters =1.5.1 =pyh5ded981_0
-    - pango =1.58.2 =hf9b25ef_2
+    - pango =1.58.2 =hc6efcc1_3
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =he63d830_1
     - pexpect =4.9.0 =pyhd8ed1ab_1
@@ -311,7 +313,7 @@ requirements:
     - pixman =0.46.4 =h784d473_3
     - pkginfo =1.12.1.2 =pyhd8ed1ab_0
     - platformdirs =4.13.0 =pyh5ded981_0
-    - pluggy =1.6.0 =pyhf9edf01_1
+    - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
@@ -545,7 +547,7 @@ requirements:
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =84.0.0 =pyh332efcf_0
     - sigtool-codesign =0.1.3 =h98dc951_1
-    - simdjson =4.6.11 =hfbe1efa_0
+    - simdjson =5.0.5 =hfbe1efa_0
     - sip =6.17.1 =py311hcf9e9d8_0
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.3 =pyhcf101f3_1

@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.2 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =unix_pyh707e725_0
 
-    # 169 secondary packages :
+    # 171 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - alsa-lib =1.2.16.1 =h7cc23a3_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
@@ -115,6 +115,8 @@ requirements:
     - libopenblas =0.3.34 =pthreads_hf13c14d_2
     - libopengl =1.7.0 =ha4b6fd6_5
     - libopus =1.6.1 =hebe6cf0_1
+    - libpango =1.58.2 =hce4e988_3
+    - libpango-devel =1.58.2 =h317d9d0_3
     - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.59 =h922cc85_0
     - libpq =18.2 =hb80d175_0
@@ -143,7 +145,7 @@ requirements:
     - openldap =2.6.10 =he970967_0
     - openssl =3.6.5 =h781a0a9_0
     - packaging =26.3 =pyhc364b38_0
-    - pango =1.58.2 =h7bb47b9_2
+    - pango =1.58.2 =h2f58602_3
     - parso =0.8.4 =pyhd8ed1ab_1
     - pcre2 =10.47 =h8b3dc9c_1
     - pexpect =4.9.0 =pyhd8ed1ab_1

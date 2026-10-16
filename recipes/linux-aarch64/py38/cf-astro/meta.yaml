@@ -28,7 +28,7 @@ requirements:
     - pyqt =5.15.9 =py38h3dfd979_5
     - spyder-kernels =3.0.5 =unix_pyh707e725_0
 
-    # 159 secondary packages :
+    # 161 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - alsa-lib =1.2.16.1 =h5bc82ec_1
     - asttokens =3.0.0 =pyhd8ed1ab_0
@@ -102,6 +102,8 @@ requirements:
     - libntlm =1.4 =hf897c2e_1002
     - libogg =1.3.5 =h86ecc28_1
     - libopus =1.6.1 =h29ee22c_1
+    - libpango =1.58.2 =h1a0baab_3
+    - libpango-devel =1.58.2 =h12dfbc4_3
     - libpciaccess =0.19 =he30d5cf_1
     - libpng =1.6.59 =hf9b7768_0
     - libpq =18.6 =h4d8aa50_3
@@ -128,7 +130,7 @@ requirements:
     - openldap =2.6.13 =h2fb54aa_0
     - openssl =3.6.5 =he6ad1d5_0
     - packaging =26.2 =pyhc364b38_0
-    - pango =1.58.2 =h03cb6a0_2
+    - pango =1.58.2 =ha8baf52_3
     - parso =0.8.4 =pyhd8ed1ab_0
     - pcre2 =10.47 =he574923_1
     - pexpect =4.9.0 =pyhd8ed1ab_0

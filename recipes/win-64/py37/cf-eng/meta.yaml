@@ -34,7 +34,7 @@ requirements:
     - pyvisa-py =0.7.2 =pyhca7485f_0
     - spyder-kernels =2.4.3 =win_pyhd8ed1ab_0
 
-    # 103 secondary packages :
+    # 108 secondary packages :
     - backcall =0.2.0 =pyh9f0ad1d_0
     - backports =1.0 =pyhd8ed1ab_4
     - backports.functools_lru_cache =2.0.0 =pyhd8ed1ab_0
@@ -54,6 +54,7 @@ requirements:
     - fontconfig =2.18.3 =hd47e2ca_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
+    - freetype =2.14.3 =h57928b3_2
     - fribidi =1.0.17 =hfd05255_0
     - glib =2.90.1 =h6e26cc4_0
     - glib-tools =2.90.1 =h026f061_0
@@ -78,6 +79,7 @@ requirements:
     - libfreetype6 =2.14.3 =hdbac1cb_2
     - libglib =2.90.1 =ha564072_0
     - libharfbuzz =14.6.0 =h03b5201_2
+    - libharfbuzz-devel =14.6.0 =h03b5201_2
     - libhwloc =2.15.0 =default_hae90fe0_1001
     - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_4
@@ -86,6 +88,8 @@ requirements:
     - liblapack =3.11.0 =11_hf9ab0e9_mkl
     - liblzma =5.8.3 =hfd05255_1
     - libogg =1.3.5 =h2466b09_1
+    - libpango =1.58.2 =h02b4fad_3
+    - libpango-devel =1.58.2 =h7637d1b_3
     - libpng =1.6.59 =hdc8cecf_0
     - libsodium =1.0.18 =h8d14728_1
     - libsqlite =3.54.0 =hf5d6505_101
@@ -101,7 +105,7 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
     - openssl =3.6.5 =hf411b9b_0
     - packaging =23.2 =pyhd8ed1ab_0
-    - pango =1.58.2 =h13911b6_2
+    - pango =1.58.2 =h4350c2a_3
     - parso =0.8.4 =pyhd8ed1ab_0
     - pcre2 =10.47 =h8466c1e_1
     - pickleshare =0.7.5 =py_1003
@@ -137,6 +141,7 @@ requirements:
     - wheel =0.42.0 =pyhd8ed1ab_0
     - zeromq =4.3.4 =h0e60522_1
     - zipp =3.15.0 =pyhd8ed1ab_0
+    - zlib =1.3.2 =hfd05255_3
     - zstd =1.5.7 =h534d264_7
 
 about:

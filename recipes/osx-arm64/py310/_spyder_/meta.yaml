@@ -35,7 +35,7 @@ requirements:
     - spyder =6.1.7 =hd8ed1ab_0
     - sympy =1.14.0 =pyh2585a3b_106
 
-    # 306 secondary packages :
+    # 309 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiohttp =3.14.3 =py310hd5e7861_0
@@ -161,6 +161,7 @@ requirements:
     - libgfortran5 =16.2.0 =hdb7a957_7
     - libglib =2.90.0 =hccd281b_0
     - libharfbuzz =14.6.0 =hcda0f7c_2
+    - libharfbuzz-devel =14.6.0 =hcda0f7c_2
     - libiconv =1.18 =he4c29f2_3
     - libintl =0.25.1 =hae62183_2
     - libintl-devel =0.25.1 =hae62183_2
@@ -173,6 +174,8 @@ requirements:
     - libogg =1.3.5 =h48c0fde_1
     - libopenblas =0.3.34 =openmp_h5e6e99c_1
     - libopus =1.6.1 =h74c22ad_1
+    - libpango =1.58.2 =hc2ac4f2_3
+    - libpango-devel =1.58.2 =haa2d88b_3
     - libpng =1.6.59 =hf5e6511_0
     - libpq =18.6 =h0a198e3_3
     - libsodium =1.0.22 =h74c22ad_3
@@ -218,7 +221,7 @@ requirements:
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.12.1 =hce30654_0
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
-    - pango =1.58.2 =hf9b25ef_2
+    - pango =1.58.2 =hc6efcc1_3
     - parso =0.8.7 =pyhcf101f3_0
     - pathspec =1.1.1 =pyhd8ed1ab_0
     - pcre2 =10.47 =he63d830_1
@@ -291,7 +294,7 @@ requirements:
     - rope =1.14.0 =pyhd8ed1ab_0
     - rpds-py =0.30.0 =py310hf3301a5_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.17.0 =hc2d82ec_0
+    - ruff =0.17.1 =hc2d82ec_0
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.16.0 =py310h8616463_0
     - six =1.17.0 =pyhe01879c_1
