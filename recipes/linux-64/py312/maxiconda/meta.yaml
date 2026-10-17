@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.12.2 =py312h1b36aeb_0
     - cython =3.3.0 =py312h03570ca_0
     - grayskull =3.2.0 =pyhc364b38_0
-    - hypothesis =6.170.0 =py311hf77984d_0
+    - hypothesis =6.170.1 =py311hf77984d_0
     - ipython =9.17.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.2 =py312h6a12a82_1
@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0.3 =py312h8a5da7c_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.2 =pyh9208f05_0
-    - r-base =4.5.3 =h502d0c9_3
+    - r-base =4.5.3 =h502d0c9_4
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.9.29 =py312h5cc1888_0
     - requests =2.34.2 =pyhcf101f3_0
@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =unix_pyh707e725_0
     - sqlalchemy =2.1.4 =py312h1b36aeb_0
-    - sqlite =3.54.0 =h9ffa6c4_1
+    - sqlite =3.54.1 =h9ffa6c4_0
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.70.1 =pyhfa0c392_0
     - transitions =0.9.3 =pyhe01879c_0
@@ -265,7 +265,7 @@ requirements:
     - libsndfile =1.2.2 =hbc6d301_3
     - libsodium =1.0.22 =hebe6cf0_3
     - libsolv =0.7.40 =h72ddc62_0
-    - libsqlite =3.54.0 =h13e7031_1
+    - libsqlite =3.54.1 =h13e7031_0
     - libssh2 =1.11.1 =h6154650_1
     - libstdcxx =16.2.0 =h934c35e_7
     - libstdcxx-devel_linux-64 =16.2.0 =h86e191b_107
@@ -324,8 +324,8 @@ requirements:
     - pillow =12.3.0 =py312h38079b3_4
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h54a6638_3
-    - pkginfo =1.12.1.2 =pyhd8ed1ab_0
-    - platformdirs =4.13.0 =pyh5ded981_0
+    - pkginfo =1.13.1 =pyhd8ed1ab_0
+    - platformdirs =4.13.3 =pyh5ded981_0
     - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
@@ -409,8 +409,8 @@ requirements:
     - r-foreign =0.8_91 =r45h54b55ab_0
     - r-formatr =1.14 =r45hc72bb7e_3
     - r-fs =2.1.0 =r45h3697838_0
-    - r-future =1.76.0 =r45hacb3a79_0
-    - r-future.apply =1.20.2 =r45hc72bb7e_0
+    - r-future =1.80.0 =r45hacb3a79_0
+    - r-future.apply =1.21.0 =r45hacb3a79_0
     - r-gargle =1.6.1 =r45h785f33e_0
     - r-generics =0.1.4 =r45hc72bb7e_1
     - r-ggplot2 =4.0.3 =r45h785f33e_0

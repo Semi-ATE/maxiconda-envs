@@ -48,7 +48,7 @@ requirements:
     - pyyaml =6.0.3 =py310h2d8da20_1
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.2 =pyh9208f05_0
-    - r-base =4.5.3 =h269e6ae_3
+    - r-base =4.5.3 =h269e6ae_4
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.8.31 =py310h4b84b45_0
     - requests =2.34.2 =pyhcf101f3_0
@@ -57,7 +57,7 @@ requirements:
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =unix_pyh707e725_0
     - sqlalchemy =2.0.52 =py310h3cefe83_0
-    - sqlite =3.54.0 =h6ce2f9a_1
+    - sqlite =3.54.1 =h6ce2f9a_0
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.70.0 =pyh8f84b5b_0
     - transitions =0.9.3 =pyhe01879c_0
@@ -238,7 +238,7 @@ requirements:
     - libsanitizer =16.2.0 =h73cac2c_7
     - libsndfile =1.2.2 =h7354dbf_3
     - libsodium =1.0.22 =h29ee22c_3
-    - libsqlite =3.54.0 =h399dd60_1
+    - libsqlite =3.54.1 =h399dd60_0
     - libssh2 =1.11.1 =h7572e3e_1
     - libstdcxx =16.2.0 =hef695bb_7
     - libstdcxx-devel_linux-aarch64 =16.2.0 =h082e5f6_107
@@ -371,8 +371,8 @@ requirements:
     - r-foreign =0.8_91 =r45h0557e7b_0
     - r-formatr =1.14 =r45hc72bb7e_3
     - r-fs =2.1.0 =r45hd601667_0
-    - r-future =1.76.0 =r45hacb3a79_0
-    - r-future.apply =1.20.2 =r45hc72bb7e_0
+    - r-future =1.80.0 =r45hacb3a79_0
+    - r-future.apply =1.21.0 =r45hacb3a79_0
     - r-gargle =1.6.1 =r45h785f33e_0
     - r-generics =0.1.4 =r45hc72bb7e_1
     - r-ggplot2 =4.0.3 =r45h785f33e_0
