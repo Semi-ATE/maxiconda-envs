@@ -56,7 +56,7 @@ requirements:
     - scipy =1.17.1 =py311hbe70eeb_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =unix_pyh707e725_0
-    - sqlalchemy =2.1.4 =py311h194be0f_0
+    - sqlalchemy =2.1.5 =py311h194be0f_0
     - sqlite =3.54.1 =h9ffa6c4_0
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.70.1 =pyhfa0c392_0
@@ -270,7 +270,7 @@ requirements:
     - libstdcxx =16.2.0 =h934c35e_7
     - libstdcxx-devel_linux-64 =16.2.0 =h86e191b_107
     - libstdcxx-ng =16.2.0 =hdf11a46_7
-    - libsystemd0 =262 =h26e0ef7_2
+    - libsystemd0 =262.1 =h26e0ef7_0
     - libtiff =4.7.2 =hcc2c06a_1
     - libuuid =2.42.4 =hcfc3c73_0
     - libuv =1.52.1 =h280c20c_1
@@ -324,7 +324,7 @@ requirements:
     - pillow =12.3.0 =py311hf303fd3_4
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h54a6638_3
-    - pkginfo =1.13.1 =pyhd8ed1ab_0
+    - pkginfo =1.13.3 =pyhd8ed1ab_0
     - platformdirs =4.13.3 =pyh5ded981_0
     - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
@@ -492,7 +492,7 @@ requirements:
     - r-rcpp =1.1.2 =r45h3697838_0
     - r-rcppeigen =0.3.4.0.2 =r45h3704496_1
     - r-readr =2.2.0 =r45h3697838_0
-    - r-readxl =1.5.0.1 =r45h305bd6a_0
+    - r-readxl =1.6.0 =r45h305bd6a_0
     - r-recipes =1.4.0 =r45hacb3a79_0
     - r-recommended =4.5 =r45hd8ed1ab_1008
     - r-rematch =2.0.0 =r45hc72bb7e_2
@@ -619,7 +619,7 @@ requirements:
     - xorg-libxrender =0.9.12 =hb03c661_1
     - xorg-libxshmfence =1.3.3 =hb9d3cd8_0
     - xorg-libxt =1.3.1 =h7cc23a3_1
-    - xorg-libxtst =1.2.5 =h7cc23a3_4
+    - xorg-libxtst =1.2.6 =h7cc23a3_0
     - xorg-libxxf86vm =1.1.7 =hb03c661_0
     - xorg-xorgproto =2025.1 =hebe6cf0_3
     - yaml =0.2.5 =hebe6cf0_3
