@@ -28,10 +28,10 @@ requirements:
     - aiohttp =3.14.5 =py311h5b24874_0
     - aiomqtt =2.5.1 =pyhcf101f3_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
-    - bitarray =3.12.2 =py311hf893f09_0
+    - bitarray =3.12.3 =py311hf893f09_0
     - cython =3.3.0 =py311h9990397_0
     - grayskull =3.2.0 =pyhc364b38_0
-    - hypothesis =6.170.1 =py311h66afae6_0
+    - hypothesis =6.170.4 =py311h66afae6_0
     - ipython =9.17.1 =pyhe2676ad_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.2 =py311hce7227b_1
@@ -94,7 +94,7 @@ requirements:
     - cached-property =2.0.1 =pyhcf101f3_0
     - cached_property =2.0.1 =pyhcf101f3_0
     - cairo =1.18.6 =h477c42c_0
-    - certifi =2026.7.22 =pyhd8ed1ab_0
+    - certifi =2026.10.18 =pyhd8ed1ab_1
     - cffi =2.1.1 =py311h3485c13_3
     - charset-normalizer =3.5.2 =h308a848_0
     - click =8.4.1 =pyh6dadd2b_0
@@ -167,7 +167,7 @@ requirements:
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.20.1 =pyh5ded981_0
     - json5 =0.17.3 =pyhd8ed1ab_0
-    - jsonpointer =3.2.1 =pyh5ded981_0
+    - jsonpointer =3.4 =pyh5ded981_0
     - jsonschema =4.26.0 =pyhcf101f3_1
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_1
@@ -257,11 +257,11 @@ requirements:
     - mingw-w64-ucrt-x86_64-headers-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
     - mingw-w64-ucrt-x86_64-windows-default-manifest =6.4 =he206cdd_7
     - mingw-w64-ucrt-x86_64-winpthreads-git =12.0.0.r4.gg4f2fc60ca =hd8ed1ab_10
-    - mistune =3.3.4 =pyhcf101f3_0
+    - mistune =3.4.0 =pyh5ded981_0
     - mkl =2026.1.0 =hac47afa_235
     - mpmath =1.4.1 =pyhd8ed1ab_0
     - msgpack-python =1.2.3 =py311h275cad7_0
-    - multidict =6.7.1 =py311h3f79411_0
+    - multidict =6.9.1 =py311h3f79411_0
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.11.0 =pyhcf101f3_1
     - nbconvert-core =7.17.2 =pyh5ded981_0
@@ -279,11 +279,11 @@ requirements:
     - pango =1.58.2 =h4350c2a_3
     - parso =0.8.7 =pyhcf101f3_0
     - pcre2 =10.47 =h8466c1e_1
-    - pillow =12.3.0 =py311h36f029a_4
+    - pillow =13.0.0 =py311h36f029a_0
     - pip =26.2.1 =pyh8b19718_0
     - pixman =0.46.4 =h5112557_3
     - pkginfo =1.13.3 =pyhd8ed1ab_0
-    - platformdirs =4.13.4 =pyh5ded981_0
+    - platformdirs =4.13.5 =pyh5ded981_0
     - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
@@ -310,7 +310,7 @@ requirements:
     - python-installer =1.1.0 =pyhe730653_0
     - python-json-logger =4.2.0 =pyhd8ed1ab_0
     - python-tzdata =2026.5 =pyh5ded981_0
-    - python-utils =4.1.2 =pyhe730653_0
+    - python-utils =4.1.3 =pyhe730653_0
     - python_abi =3.11 =9_cp311
     - pywin32 =312 =py311h0610301_2
     - pywinpty =3.1.0 =py311hda3d55a_0
@@ -513,7 +513,7 @@ requirements:
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-pc-windows-msvc =1.99.0 =h5a2a77e_0
     - send2trash =2.1.0 =pyh6dadd2b_1
-    - setuptools =84.0.0 =pyh332efcf_0
+    - setuptools =84.1.0 =pyhe730653_0
     - simdjson =5.0.5 =h477610d_0
     - sip =6.10.0 =py311h3e6a449_1
     - six =1.17.0 =pyhe01879c_1
