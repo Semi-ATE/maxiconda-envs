@@ -185,7 +185,7 @@ requirements:
     - libjpeg-turbo =3.2.0 =he30d5cf_1
     - liblapack =3.11.0 =11_h88aeb00_openblas
     - libllvm22 =22.1.8 =h680871c_3
-    - libllvm23 =23.1.3 =h680871c_0
+    - libllvm23 =23.1.4 =h680871c_1
     - liblzma =5.8.3 =he30d5cf_1
     - libnsl =2.0.1 =h86ecc28_1
     - libntlm =1.4 =hf897c2e_1002
@@ -325,7 +325,7 @@ requirements:
     - rtree =1.4.1 =pyh11ca60a_0
     - ruff =0.17.1 =h328a733_0
     - secretstorage =3.5.0 =pyhc9edb4d_3
-    - setuptools =84.2.0 =pyhe730653_0
+    - setuptools =84.2.1 =pyhe730653_0
     - sip =6.17.1 =py311h4a2b0a4_0
     - six =1.17.0 =pyhe01879c_1
     - snowballstemmer =3.1.1 =pyhd8ed1ab_0
@@ -335,7 +335,7 @@ requirements:
     - sphinxcontrib-applehelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-devhelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-htmlhelp =2.1.0 =pyhd8ed1ab_1
-    - sphinxcontrib-jsmath =1.0.1 =pyhd8ed1ab_1
+    - sphinxcontrib-jsmath =2.0.0 =pyh5ded981_0
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =2.0.0 =pyhd8ed1ab_0
     - spyder-base =6.1.7 =linux_pyha804496_0
@@ -361,7 +361,7 @@ requirements:
     - watchdog =6.0.0 =py311hee276e8_4
     - wayland =1.26.0 =h637a836_2
     - wcwidth =0.9.3 =py311h7113396_0
-    - webencodings =0.5.1 =pyhd8ed1ab_3
+    - webencodings =0.6.1 =pyh5ded981_0
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0
     - wrapt =2.5.1 =py311h0de9f98_0
@@ -394,7 +394,7 @@ requirements:
     - yapf =0.43.0 =pyhd8ed1ab_1
     - yarl =1.25.1 =py311hdd94528_0
     - zeromq =4.3.5 =h3469ab9_12
-    - zipp =4.1.1 =pyh5ded981_0
+    - zipp =4.1.2 =pyh5ded981_0
     - zlib-ng =2.3.3 =h1024f78_1
     - zstd =1.5.7 =h9d15635_7
 
