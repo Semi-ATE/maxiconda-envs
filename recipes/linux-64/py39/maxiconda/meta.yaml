@@ -84,9 +84,9 @@ requirements:
     - binutils_impl_linux-64 =2.46.1 =default_hfdba357_103
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.2.0 =h505cf86_4
-    - brotli-bin =1.2.0 =h9908984_4
-    - brotli-python =1.0.9 =py39h5a03fae_8
+    - brotli =1.1.0 =hb9d3cd8_3
+    - brotli-bin =1.1.0 =hb9d3cd8_3
+    - brotli-python =1.1.0 =py39hf88036b_3
     - bwidget =1.10.1 =hfc2019e_3
     - bzip2 =1.0.8 =hda65f42_10
     - c-ares =1.34.9 =hebe6cf0_0
@@ -179,9 +179,9 @@ requirements:
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_103
     - lerc =4.2.0 =hdb68285_0
     - libblas =3.11.0 =11_h4a7cf45_openblas
-    - libbrotlicommon =1.2.0 =h39a168f_4
-    - libbrotlidec =1.2.0 =ha411449_4
-    - libbrotlienc =1.2.0 =h018ffa1_4
+    - libbrotlicommon =1.1.0 =hb9d3cd8_3
+    - libbrotlidec =1.1.0 =hb9d3cd8_3
+    - libbrotlienc =1.1.0 =hb9d3cd8_3
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =11_h0358290_openblas
     - libclang-cpp20.1 =20.1.8 =default_hc302687_17
@@ -550,7 +550,7 @@ requirements:
     - xcb-util-keysyms =0.4.1 =hb711507_0
     - xcb-util-renderutil =0.3.10 =hb711507_0
     - xcb-util-wm =0.4.2 =hb711507_0
-    - xkeyboard-config =2.48 =h280c20c_0
+    - xkeyboard-config =2.48 =hebe6cf0_1
     - xorg-libice =1.1.2 =h280c20c_0
     - xorg-libsm =1.2.6 =h0d788c3_1
     - xorg-libx11 =1.8.14 =hb83e432_0
@@ -564,7 +564,7 @@ requirements:
     - xorg-libxi =1.8.4 =h7cc23a3_0
     - xorg-libxrandr =1.5.5 =h7cc23a3_1
     - xorg-libxrender =0.9.13 =h7cc23a3_0
-    - xorg-libxshmfence =1.3.3 =hb9d3cd8_0
+    - xorg-libxshmfence =1.3.3 =h7cc23a3_0
     - xorg-libxt =1.3.1 =h7cc23a3_1
     - xorg-libxtst =1.2.6 =h7cc23a3_0
     - xorg-libxxf86vm =1.1.7 =hb03c661_0
