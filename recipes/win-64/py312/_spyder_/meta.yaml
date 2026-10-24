@@ -33,7 +33,7 @@ requirements:
     - pyqt =5.15.11 =py312h7eb3e20_2
     - pyqtwebengine =5.15.11 =py312hffa3973_2
     - scipy =1.18.1 =py312h8847828_1
-    - spyder =6.1.7 =hd8ed1ab_0
+    - spyder =6.1.8 =hd8ed1ab_1
     - sympy =1.14.0 =pyh04b8f61_6
 
     # 292 secondary packages :
@@ -62,10 +62,10 @@ requirements:
     - brotli-bin =1.2.1 =hd477307_0
     - brotli-python =1.2.1 =py312ha763cb9_0
     - bzip2 =1.0.8 =h0ad9c76_10
-    - ca-certificates =2026.10.19 =h4c7d964_0
+    - ca-certificates =2026.10.23 =h4c7d964_0
     - cairo =1.18.6 =h477c42c_0
     - cattrs =26.2.1 =pyh5ded981_0
-    - certifi =2026.10.19 =pyhd8ed1ab_0
+    - certifi =2026.10.23 =pyhd8ed1ab_0
     - cffi =2.1.1 =py312he06e257_3
     - chardet =7.6.0 =py312h6fa65f5_1
     - charset-normalizer =3.5.2 =h308a848_0
@@ -112,7 +112,7 @@ requirements:
     - icu =78.3 =h5112557_2
     - idna =3.20 =pyh5ded981_0
     - imagesize =2.0.1 =pyhd8ed1ab_0
-    - importlib-metadata =9.0.1 =pyhcf101f3_0
+    - importlib-metadata =10.0.0 =pyh5ded981_0
     - importlib_resources =7.1.0 =pyhd8ed1ab_0
     - inflection =0.5.1 =pyhd8ed1ab_1
     - intervaltree =3.2.1 =pyh5ded981_0
@@ -148,8 +148,8 @@ requirements:
     - libfreetype =2.14.3 =h57928b3_2
     - libfreetype6 =2.14.3 =hdbac1cb_2
     - libglib =2.90.1 =ha564072_0
-    - libharfbuzz =14.6.0 =h03b5201_2
-    - libharfbuzz-devel =14.6.0 =h03b5201_2
+    - libharfbuzz =15.0.0 =h03b5201_0
+    - libharfbuzz-devel =15.0.0 =h03b5201_0
     - libhwloc =2.15.0 =default_hae90fe0_1001
     - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_4
@@ -274,7 +274,7 @@ requirements:
     - rope =1.15.0 =pyh5ded981_0
     - rpds-py =2026.9.1 =py312hdabe01f_0
     - rtree =1.4.1 =pyh11ca60a_0
-    - ruff =0.17.2 =h18a1a76_0
+    - ruff =0.16.10 =h808fad9_0
     - setuptools =84.2.1 =pyhe730653_0
     - sip =6.10.0 =py312hbb81ca0_1
     - six =1.17.0 =pyhe01879c_1
@@ -288,7 +288,7 @@ requirements:
     - sphinxcontrib-jsmath =2.0.0 =pyh5ded981_0
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =2.0.0 =pyhd8ed1ab_0
-    - spyder-base =6.1.7 =py312h2e8e312_0
+    - spyder-base =6.1.8 =py312h2e8e312_1
     - spyder-kernels =3.1.6 =win_pyh7428d3b_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.8.2 =pyh9208f05_0
@@ -306,7 +306,7 @@ requirements:
     - traitlets =5.16.1 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
     - typing_extensions =4.16.0 =pyhcf101f3_0
-    - tzdata =2026c =h151e31d_0
+    - tzdata =2026e =h5d301ff_0
     - ucrt =10.0.26100.0 =h57928b3_0
     - ujson =6.0.0 =py312ha1a9051_0
     - unicodedata2 =18.0.0 =py312he06e257_0

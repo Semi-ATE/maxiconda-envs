@@ -58,7 +58,7 @@ requirements:
     - brotli-bin =1.2.1 =h086410e_0
     - brotli-python =1.0.9 =py38h4cd09af_8
     - bzip2 =1.0.8 =h374f1ed_10
-    - ca-certificates =2026.10.19 =hbd8a1cb_0
+    - ca-certificates =2026.10.23 =hbd8a1cb_0
     - cairo =1.18.6 =h5791faa_0
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38hc8bcfa4_0
@@ -141,7 +141,7 @@ requirements:
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
     - libclang-cpp23.1 =23.1.4 =default_hae96fce_0
     - libclang13 =23.1.4 =default_h6445c37_0
-    - libcxx =23.1.4 =h19cb2f5_0
+    - libcxx =23.1.4 =h19cb2f5_2
     - libdeflate =1.25 =h7ad9622_1
     - libedit =3.1.20260512 =pl5321hba2e2ab_0
     - libexpat =2.8.5 =h6e061ac_0
@@ -152,8 +152,8 @@ requirements:
     - libgfortran =16.2.0 =h7e5c614_7
     - libgfortran5 =16.2.0 =h2539e6c_7
     - libglib =2.90.1 =h7e55108_0
-    - libharfbuzz =14.6.0 =h2974713_2
-    - libharfbuzz-devel =14.6.0 =h2974713_2
+    - libharfbuzz =15.0.0 =h2974713_0
+    - libharfbuzz-devel =15.0.0 =h2974713_0
     - libiconv =1.18 =h4ae439b_3
     - libintl =0.25.1 =h98e67c8_2
     - libintl-devel =0.25.1 =h98e67c8_2

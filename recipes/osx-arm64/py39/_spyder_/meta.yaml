@@ -64,7 +64,7 @@ requirements:
     - brotli-bin =1.2.1 =he4a93e4_0
     - brotli-python =1.0.9 =py39h23fbdae_8
     - bzip2 =1.0.8 =h4e30115_10
-    - ca-certificates =2026.10.19 =hbd8a1cb_0
+    - ca-certificates =2026.10.23 =hbd8a1cb_0
     - cairo =1.18.6 =h580cee5_0
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h7f933ea_0
@@ -149,7 +149,7 @@ requirements:
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp23.1 =23.1.4 =default_h8bbc02d_0
     - libclang13 =23.1.4 =default_h63627a2_0
-    - libcxx =23.1.4 =h55c6f16_0
+    - libcxx =23.1.4 =h55c6f16_2
     - libdeflate =1.25 =he7e0567_1
     - libedit =3.1.20260512 =pl5321h26f1114_0
     - libexpat =2.8.5 =h6111c0a_0
@@ -160,8 +160,8 @@ requirements:
     - libgfortran =16.2.0 =h07b0088_7
     - libgfortran5 =16.2.0 =hdb7a957_7
     - libglib =2.90.0 =hccd281b_0
-    - libharfbuzz =14.6.0 =hcda0f7c_2
-    - libharfbuzz-devel =14.6.0 =hcda0f7c_2
+    - libharfbuzz =15.0.0 =hcda0f7c_0
+    - libharfbuzz-devel =15.0.0 =hcda0f7c_0
     - libiconv =1.18 =he4c29f2_3
     - libintl =0.25.1 =hae62183_2
     - libintl-devel =0.25.1 =hae62183_2
@@ -321,7 +321,7 @@ requirements:
     - types-python-dateutil =2.9.0.20250809 =pyhd8ed1ab_0
     - typing-extensions =4.14.1 =h4440ef1_0
     - typing_extensions =4.14.1 =pyhe01879c_0
-    - tzdata =2026c =h151e31d_0
+    - tzdata =2026e =h5d301ff_0
     - ujson =5.10.0 =py39hfa9831e_1
     - unicodedata2 =16.0.0 =py39hf3bc14e_0
     - urllib3 =2.5.0 =pyhd8ed1ab_0

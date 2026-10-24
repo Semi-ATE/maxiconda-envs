@@ -31,7 +31,7 @@ requirements:
     # 102 secondary packages :
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - bzip2 =1.0.8 =h0ad9c76_10
-    - ca-certificates =2026.10.19 =h4c7d964_0
+    - ca-certificates =2026.10.23 =h4c7d964_0
     - cairo =1.18.6 =h477c42c_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -69,8 +69,8 @@ requirements:
     - libfreetype =2.14.3 =h57928b3_2
     - libfreetype6 =2.14.3 =hdbac1cb_2
     - libglib =2.90.1 =ha564072_0
-    - libharfbuzz =14.6.0 =h03b5201_2
-    - libharfbuzz-devel =14.6.0 =h03b5201_2
+    - libharfbuzz =15.0.0 =h03b5201_0
+    - libharfbuzz-devel =15.0.0 =h03b5201_0
     - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_4
     - libintl-devel =0.22.5 =h5728263_4
@@ -119,7 +119,7 @@ requirements:
     - tornado =6.5.2 =py39h0802e32_0
     - traitlets =5.14.3 =pyhd8ed1ab_1
     - typing_extensions =4.14.1 =pyhe01879c_0
-    - tzdata =2026c =h151e31d_0
+    - tzdata =2026e =h5d301ff_0
     - ucrt =10.0.26100.0 =h57928b3_0
     - vc =14.5 =ha367084_41
     - vc14_runtime =14.51.36247 =habf1de7_41

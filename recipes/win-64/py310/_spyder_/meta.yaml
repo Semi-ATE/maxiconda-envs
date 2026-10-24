@@ -63,7 +63,7 @@ requirements:
     - brotli-bin =1.2.1 =hd477307_0
     - brotli-python =1.0.9 =py310h00ffb61_8
     - bzip2 =1.0.8 =h0ad9c76_10
-    - ca-certificates =2026.10.19 =h4c7d964_0
+    - ca-certificates =2026.10.23 =h4c7d964_0
     - cairo =1.18.6 =h477c42c_0
     - cattrs =26.1.0 =pyhcf101f3_1
     - certifi =2026.10.19 =pyhd8ed1ab_0
@@ -152,8 +152,8 @@ requirements:
     - libgcc =16.2.0 =h110b43a_7
     - libglib =2.90.1 =ha564072_0
     - libgomp =16.2.0 =h8ee18e1_7
-    - libharfbuzz =14.6.0 =h03b5201_2
-    - libharfbuzz-devel =14.6.0 =h03b5201_2
+    - libharfbuzz =15.0.0 =h03b5201_0
+    - libharfbuzz-devel =15.0.0 =h03b5201_0
     - libhwloc =2.15.0 =default_hae90fe0_1001
     - libiconv =1.18 =hc1393d2_3
     - libintl =0.22.5 =h5728263_4
@@ -309,7 +309,7 @@ requirements:
     - traitlets =5.16.1 =pyhcf101f3_0
     - typing-extensions =4.16.0 =h69aa097_0
     - typing_extensions =4.16.0 =pyhcf101f3_0
-    - tzdata =2026c =h151e31d_0
+    - tzdata =2026e =h5d301ff_0
     - ucrt =10.0.26100.0 =h57928b3_0
     - ujson =5.13.0 =py310h699e580_0
     - unicodedata2 =17.0.1 =py310h29418f3_0
