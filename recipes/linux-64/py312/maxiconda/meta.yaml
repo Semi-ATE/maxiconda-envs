@@ -31,7 +31,7 @@ requirements:
     - bitarray =3.12.3 =py312h1b36aeb_0
     - cython =3.3.0 =py312h03570ca_1
     - grayskull =3.2.0 =pyhc364b38_0
-    - hypothesis =6.170.5 =py311hf77984d_0
+    - hypothesis =6.170.10 =py311hf77984d_0
     - ipython =9.17.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.2 =py312h6a12a82_1
@@ -52,8 +52,8 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.9.29 =py312h5cc1888_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.99.0 =h846490e_0
-    - scipy =1.18.1 =py312h106c528_1
+    - rust =1.99.1 =h5387ef0_0
+    - scipy =1.18.1 =py312h106c528_2
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =unix_pyh707e725_0
     - sqlalchemy =2.1.6 =py312h1b36aeb_0
@@ -242,9 +242,9 @@ requirements:
     - libllvm22 =22.1.8 =h474f4eb_3
     - libllvm23 =23.1.4 =h474f4eb_1
     - liblzma =5.8.3 =hb03c661_1
-    - libmamba =2.9.0 =py312he3a525c_3
-    - libmamba-spdlog =2.9.0 =h1d9068b_3
-    - libmambapy =2.9.0 =py312h8da4627_3
+    - libmamba =2.10.0 =py312he3a525c_1
+    - libmamba-spdlog =2.10.0 =hcf4239b_1
+    - libmambapy =2.10.0 =py312h70899e4_1
     - libmsgpack-c =6.1.0 =h54a6638_7
     - libnghttp2 =1.68.1 =h74cf4be_1
     - libnsl =2.0.1 =hb9d3cd8_1
@@ -331,7 +331,7 @@ requirements:
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.53 =pyha770c72_0
-    - propcache =0.5.4 =py312hfd18d64_1
+    - propcache =0.5.4 =py312hfd18d64_2
     - pthread-stubs =0.4 =h7cc23a3_1004
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pulseaudio-client =17.0 =hb10c1b2_4
@@ -556,7 +556,7 @@ requirements:
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
     - ruamel.yaml.clib =0.2.15 =py312h1b36aeb_5
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-x86_64-unknown-linux-gnu =1.99.0 =h480d76f_0
+    - rust-std-x86_64-unknown-linux-gnu =1.99.1 =h480d76f_0
     - sed =4.10 =h19d0853_0
     - send2trash =2.1.0 =pyha191276_1
     - setuptools =84.2.1 =pyhe730653_0

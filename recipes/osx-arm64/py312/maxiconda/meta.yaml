@@ -30,7 +30,7 @@ requirements:
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - cython =3.3.0 =py312h12d0071_1
     - grayskull =3.2.0 =pyhc364b38_0
-    - hypothesis =6.170.5 =py311hfcb3ee1_0
+    - hypothesis =6.170.10 =py311h1e0e963_0
     - ipython =9.17.1 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.2 =py312hf2eba6f_1
@@ -51,8 +51,8 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.9.29 =py312ha053593_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.99.0 =haf00ee1_0
-    - scipy =1.18.1 =py312h84b0c4e_1
+    - rust =1.99.1 =h2d846b0_0
+    - scipy =1.18.1 =py312h84b0c4e_2
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.6 =unix_pyh707e725_0
     - sqlalchemy =2.1.6 =py312h4de8a2e_0
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 526 secondary packages :
+    # 527 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
@@ -165,6 +165,7 @@ requirements:
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
     - harfbuzz =15.0.0 =hce30654_0
+    - howardhinnant_date =3.0.5 =h4ddebb9_0
     - hpack =4.2.0 =pyhd8ed1ab_0
     - httpcore =1.0.9 =pyh29332c3_0
     - httpx =0.28.1 =pyhd8ed1ab_0
@@ -237,9 +238,9 @@ requirements:
     - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm23 =23.1.4 =h759d1ac_1
     - liblzma =5.8.3 =h8088a28_1
-    - libmamba =2.9.0 =py312he1ba46a_3
-    - libmamba-spdlog =2.9.0 =hc0821dc_3
-    - libmambapy =2.9.0 =py312h94ed3bd_3
+    - libmamba =2.10.0 =py312h4a70940_1
+    - libmamba-spdlog =2.10.0 =h6ff39b0_1
+    - libmambapy =2.10.0 =py312h854dccb_1
     - libmsgpack-c =6.1.0 =h784d473_7
     - libnghttp2 =1.68.1 =h435687b_1
     - libntlm =1.8 =h5505292_0
@@ -315,7 +316,7 @@ requirements:
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.53 =pyha770c72_0
-    - propcache =0.5.4 =py312hf4454c7_1
+    - propcache =0.5.4 =py312hf4454c7_2
     - pthread-stubs =0.4 =hb001647_1004
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.4 =pyhd8ed1ab_0
@@ -539,7 +540,7 @@ requirements:
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
     - ruamel.yaml.clib =0.2.15 =py312hbd136b4_5
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-aarch64-apple-darwin =1.99.0 =h451e77e_0
+    - rust-std-aarch64-apple-darwin =1.99.1 =h451e77e_0
     - sdkroot_env_osx-arm64 =26.0 =ha3f98da_7
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =84.2.1 =pyhe730653_0
