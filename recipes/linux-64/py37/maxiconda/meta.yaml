@@ -105,7 +105,7 @@ requirements:
     - entrypoints =0.4 =pyhd8ed1ab_0
     - et_xmlfile =1.1.0 =pyhd8ed1ab_0
     - exceptiongroup =1.2.2 =pyhd8ed1ab_0
-    - expat =2.8.5 =hd2095e1_0
+    - expat =2.9.0 =hd2095e1_0
     - fftw =3.3.11 =nompi_h3b011a4_100
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
@@ -178,7 +178,7 @@ requirements:
     - libedit =3.1.20260512 =pl5321h373387f_0
     - libev =4.33 =h280c20c_3
     - libevent =2.1.10 =h28343ad_4
-    - libexpat =2.8.5 =hd2095e1_0
+    - libexpat =2.9.0 =hd2095e1_0
     - libffi =3.4.6 =h2dba641_1
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_2
@@ -197,7 +197,7 @@ requirements:
     - libgfortran5 =16.2.0 =h6b99dfc_7
     - libglib =2.78.1 =hebfc3b9_0
     - libgomp =16.2.0 =he0feb66_7
-    - libgpg-error =1.61 =h54a6638_2
+    - libgpg-error =1.61 =hee9eb32_2
     - libiconv =1.18 =h0cb94f2_3
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm11 =11.1.0 =he0ac6c6_5
@@ -504,9 +504,9 @@ requirements:
     - websocket-client =1.6.1 =pyhd8ed1ab_0
     - wheel =0.42.0 =pyhd8ed1ab_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
-    - xcb-util =0.4.0 =h516909a_0
+    - xcb-util =0.4.0 =h166bdaf_0
     - xcb-util-image =0.4.0 =h166bdaf_0
-    - xcb-util-keysyms =0.4.0 =h516909a_0
+    - xcb-util-keysyms =0.4.0 =h166bdaf_0
     - xcb-util-renderutil =0.3.9 =h166bdaf_0
     - xcb-util-wm =0.4.1 =h516909a_0
     - xkeyboard-config =2.38 =h0b41bf4_0
