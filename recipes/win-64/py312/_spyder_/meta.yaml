@@ -52,7 +52,7 @@ requirements:
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhcf101f3_2
     - backports.zstd =1.8.0 =py312h301c71d_1
-    - bcrypt =5.0.0 =py312hdabe01f_2
+    - bcrypt =5.0.0 =py312hdabe01f_3
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - binaryornot =0.6.0 =pyhcf101f3_0
     - black =26.10.1 =pyh5ded981_0
@@ -179,7 +179,7 @@ requirements:
     - llvm-openmp =23.1.4 =h49e36cd_0
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.2.0 =pyhd8ed1ab_0
-    - markupsafe =3.0.4 =py312h6fa65f5_1
+    - markupsafe =3.0.4 =py312h6fa65f5_3
     - matplotlib-base =3.11.2 =py312hf9659c1_1
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
@@ -201,7 +201,7 @@ requirements:
     - openjpeg =2.5.4 =h90fa87c_2
     - openssl =3.6.5 =hf411b9b_0
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.12.1 =h57928b3_0
+    - pandoc =3.13 =h57928b3_0
     - pandocfilters =1.5.1 =pyh5ded981_0
     - pango =1.58.2 =h4350c2a_3
     - parso =0.8.7 =pyhcf101f3_0
@@ -212,7 +212,7 @@ requirements:
     - pillow =13.0.0 =py312h7bb5964_0
     - pip =26.2.2 =pyh8b19718_0
     - pixman =0.46.4 =h5112557_3
-    - platformdirs =4.13.5 =pyh5ded981_0
+    - platformdirs =4.13.6 =pyh5ded981_0
     - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
