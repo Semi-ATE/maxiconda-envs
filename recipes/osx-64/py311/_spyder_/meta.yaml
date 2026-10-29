@@ -98,7 +98,7 @@ requirements:
     - fontconfig =2.18.3 =h7f3b9c9_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
-    - fonttools =4.67.0 =py311hb660652_1
+    - fonttools =4.68.0 =py311hb660652_0
     - freetype =2.14.3 =h694c41f_2
     - fribidi =1.0.17 =hd115831_0
     - frozenlist =1.8.0 =py311h2c7f43e_1
@@ -165,7 +165,7 @@ requirements:
     - libiconv =1.18 =h4ae439b_3
     - libintl =0.25.1 =h98e67c8_2
     - libintl-devel =0.25.1 =h98e67c8_2
-    - libjpeg-turbo =3.2.0 =ha1e9b39_1
+    - libjpeg-turbo =3.2.1 =hd115831_0
     - liblapack =3.11.0 =11_h859234e_openblas
     - libllvm18 =18.1.8 =default_h9399c5b_12
     - libllvm23 =23.1.4 =hd11396f_1
@@ -232,7 +232,7 @@ requirements:
     - pillow =13.0.0 =py311h3bf5400_0
     - pip =26.2.2 =pyh8b19718_0
     - pixman =0.46.4 =h2fb4741_3
-    - platformdirs =4.13.6 =pyh5ded981_0
+    - platformdirs =4.14.0 =pyh5ded981_0
     - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
@@ -272,14 +272,14 @@ requirements:
     - python-lsp-server =1.15.0 =pyh332efcf_0
     - python-lsp-server-base =1.15.0 =pyhd8ed1ab_0
     - python-slugify =9.1.3 =pyh5ded981_0
-    - python-tzdata =2026.5 =pyh5ded981_0
+    - python-tzdata =2026.6 =pyh5ded981_0
     - python.app =1.4 =py311hc71d4c3_6
     - python_abi =3.11 =9_cp311
     - pytokens =0.4.1 =py311h72e27ae_3
     - pytoolconfig =1.3.1 =pyh5ded981_0
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
-    - pyyaml =6.0.3 =py311h53ebfaf_1
+    - pyyaml =6.0.3 =py311hb660652_2
     - pyzmq =27.2.0 =py311h8e918ba_2
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h3c5361c_5
