@@ -141,7 +141,7 @@ requirements:
     - fonttools =4.68.0 =py312hfd18d64_0
     - fqdn =1.6.0 =pyh5ded981_0
     - freetype =2.14.3 =ha770c72_2
-    - fribidi =1.0.17 =h7cc23a3_0
+    - fribidi =1.0.18 =h7cc23a3_0
     - frozendict =2.4.7 =pyh851646a_2
     - frozenlist =1.8.0 =py312hd8b35f9_1
     - gcc_impl_linux-64 =16.2.0 =h9891192_7
@@ -186,7 +186,7 @@ requirements:
     - jupyter_events =0.12.1 =pyhcf101f3_0
     - jupyter_server =2.21.1 =pyh5ded981_0
     - jupyter_server_terminals =0.5.4 =pyhcf101f3_0
-    - jupyterlab =4.6.4 =pyhd8ed1ab_0
+    - jupyterlab =4.6.5 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.1 =pyh5ded981_0
     - kernel-headers_linux-64 =6.12.0 =he073ed8_6
@@ -206,8 +206,8 @@ requirements:
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =11_h0358290_openblas
     - libclang-cpp22.1 =22.1.8 =default_h0acdd01_11
-    - libclang-cpp23.1 =23.1.4 =default_h0acdd01_0
-    - libclang13 =23.1.4 =default_he646a05_0
+    - libclang-cpp23.1 =23.1.4 =default_h0acdd01_1
+    - libclang13 =23.1.4 =default_h6e6c352_1
     - libcups =2.3.3 =h7a8fb5f_6
     - libcurl =8.23.0 =ha042cf0_0
     - libdeflate =1.25 =hd45a770_1
@@ -324,7 +324,7 @@ requirements:
     - pillow =13.0.0 =py312h38079b3_0
     - pip =26.2.2 =pyh8b19718_0
     - pixman =0.46.4 =h54a6638_3
-    - pkginfo =1.13.3 =pyhd8ed1ab_0
+    - pkginfo =2.0 =pyh5ded981_0
     - platformdirs =4.14.0 =pyh5ded981_0
     - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
@@ -419,7 +419,7 @@ requirements:
     - r-globals =0.20.0 =r45hacb3a79_0
     - r-glue =1.8.1 =r45h54b55ab_0
     - r-googledrive =2.1.2 =r45hc72bb7e_1
-    - r-googlesheets4 =1.1.2 =r45h785f33e_1
+    - r-googlesheets4 =1.1.3 =r45h9cad52b_0
     - r-gower =1.0.2 =r45h54b55ab_0
     - r-gtable =0.3.6 =r45hc72bb7e_1
     - r-hardhat =1.4.3 =r45hc72bb7e_0
@@ -560,7 +560,7 @@ requirements:
     - sed =4.10 =h19d0853_0
     - send2trash =2.1.0 =pyha191276_1
     - setuptools =84.2.1 =pyhe730653_0
-    - simdjson =5.0.7 =h4dbf13b_0
+    - simdjson =5.0.6 =h4dbf13b_0
     - sip =6.10.0 =py312h1289d80_1
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.3 =pyhcf101f3_1

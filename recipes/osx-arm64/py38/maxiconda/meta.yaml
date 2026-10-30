@@ -93,18 +93,18 @@ requirements:
     - cached-property =1.5.2 =hd8ed1ab_2
     - cached_property =1.5.2 =pyha770c72_1
     - cairo =1.18.6 =h580cee5_0
-    - cctools =1030.6.3 =llvm23_1_h54b4f4b_6
-    - cctools_impl_osx-arm64 =1030.6.3 =llvm23_1_hf5e010b_6
-    - cctools_osx-arm64 =1030.6.3 =llvm23_1_h54b4f4b_6
+    - cctools =1030.6.3 =llvm23_1_h54b4f4b_7
+    - cctools_impl_osx-arm64 =1030.6.3 =llvm23_1_hf5e010b_7
+    - cctools_osx-arm64 =1030.6.3 =llvm23_1_h54b4f4b_7
     - certifi =2024.8.30 =pyhd8ed1ab_0
     - cffi =1.17.0 =py38h858044d_0
     - charset-normalizer =3.4.0 =pyhd8ed1ab_0
-    - clang =23.1.4 =default_cfg_h7f2c8bb_0
-    - clang-23 =23.1.4 =default_h63627a2_0
-    - clang-scan-deps =23.1.4 =default_h8bbc02d_0
-    - clang_impl_osx-arm64 =23.1.4 =default_h8bbc02d_0
+    - clang =23.1.4 =default_cfg_h10b8b15_1
+    - clang-23 =23.1.4 =default_hde1afa0_1
+    - clang-scan-deps =23.1.4 =default_h8bbc02d_1
+    - clang_impl_osx-arm64 =23.1.4 =default_h8bbc02d_1
     - clang_osx-arm64 =23.1.4 =h2adb7b3_35
-    - clangxx_impl_osx-arm64 =23.1.4 =default_h7028af0_0
+    - clangxx_impl_osx-arm64 =23.1.4 =default_h8b65321_1
     - clangxx_osx-arm64 =23.1.4 =h2adb7b3_35
     - click =8.1.7 =unix_pyh707e725_0
     - cloudpickle =3.1.0 =pyhd8ed1ab_1
@@ -137,7 +137,7 @@ requirements:
     - fonttools =4.53.1 =py38h3237794_0
     - fqdn =1.5.1 =pyhd8ed1ab_0
     - freetype =2.14.3 =hce30654_2
-    - fribidi =1.0.17 =hb001647_0
+    - fribidi =1.0.18 =hb001647_0
     - frozenlist =1.4.1 =py38h336bac9_0
     - gcc_impl_osx-arm64 =16.2.0 =hff32234_7
     - gfortran_impl_osx-arm64 =16.2.0 =h9997696_7
@@ -184,8 +184,8 @@ requirements:
     - kiwisolver =1.4.5 =py38h9afee92_1
     - krb5 =1.22.2 =h34f8a20_2
     - lcms2 =2.19.1 =hce41798_3
-    - ld64 =956.6 =llvm23_1_hd841b0c_6
-    - ld64_osx-arm64 =956.6 =llvm23_1_hc8058f9_6
+    - ld64 =956.6 =llvm23_1_hd841b0c_7
+    - ld64_osx-arm64 =956.6 =llvm23_1_hc8058f9_7
     - lerc =4.2.0 =h1eee2c3_0
     - libasprintf =0.25.1 =hae62183_2
     - libblas =3.9.0 =20_osxarm64_openblas
@@ -194,8 +194,8 @@ requirements:
     - libbrotlienc =1.2.1 =h2ddc9cb_0
     - libcblas =3.9.0 =20_osxarm64_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
-    - libclang-cpp23.1 =23.1.4 =default_h8bbc02d_0
-    - libclang13 =23.1.4 =default_h63627a2_0
+    - libclang-cpp23.1 =23.1.4 =default_h8bbc02d_1
+    - libclang13 =23.1.4 =default_hde1afa0_1
     - libcompiler-rt =23.1.4 =hdb3d66b_0
     - libcurl =8.23.0 =h6651222_0
     - libcxx =23.1.4 =h55c6f16_2
@@ -372,7 +372,7 @@ requirements:
     - r-globals =0.20.0 =r45hacb3a79_0
     - r-glue =1.8.1 =r45hbe92478_0
     - r-googledrive =2.1.2 =r45hc72bb7e_1
-    - r-googlesheets4 =1.1.2 =r45h785f33e_1
+    - r-googlesheets4 =1.1.3 =r45h9cad52b_0
     - r-gower =1.0.2 =r45h6168396_0
     - r-gtable =0.3.6 =r45hc72bb7e_1
     - r-hardhat =1.4.3 =r45hc72bb7e_0

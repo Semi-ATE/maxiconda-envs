@@ -84,9 +84,9 @@ requirements:
     - binutils_impl_linux-64 =2.46.1 =default_hfdba357_103
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.2.1 =h505cf86_0
-    - brotli-bin =1.2.1 =h9908984_0
-    - brotli-python =1.0.9 =py39h5a03fae_8
+    - brotli =1.1.0 =hb9d3cd8_3
+    - brotli-bin =1.1.0 =hb9d3cd8_3
+    - brotli-python =1.1.0 =py39hf88036b_3
     - bwidget =1.10.1 =hfc2019e_3
     - bzip2 =1.0.8 =hda65f42_10
     - c-ares =1.34.9 =hebe6cf0_0
@@ -125,7 +125,7 @@ requirements:
     - fonttools =4.59.1 =py39heb7d2ae_0
     - fqdn =1.5.1 =pyhd8ed1ab_1
     - freetype =2.14.3 =ha770c72_2
-    - fribidi =1.0.17 =h7cc23a3_0
+    - fribidi =1.0.18 =h7cc23a3_0
     - frozenlist =1.7.0 =py39h53edacf_0
     - gcc_impl_linux-64 =16.2.0 =h9891192_7
     - gfortran_impl_linux-64 =16.2.0 =hf930d89_7
@@ -179,9 +179,9 @@ requirements:
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_103
     - lerc =4.2.0 =hdb68285_0
     - libblas =3.11.0 =11_h4a7cf45_openblas
-    - libbrotlicommon =1.2.1 =h39a168f_0
-    - libbrotlidec =1.2.1 =ha411449_0
-    - libbrotlienc =1.2.1 =h018ffa1_0
+    - libbrotlicommon =1.1.0 =hb9d3cd8_3
+    - libbrotlidec =1.1.0 =hb9d3cd8_3
+    - libbrotlienc =1.1.0 =hb9d3cd8_3
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =11_h0358290_openblas
     - libclang-cpp20.1 =20.1.8 =default_hc302687_17
@@ -372,7 +372,7 @@ requirements:
     - r-globals =0.20.0 =r45hacb3a79_0
     - r-glue =1.8.1 =r45h54b55ab_0
     - r-googledrive =2.1.2 =r45hc72bb7e_1
-    - r-googlesheets4 =1.1.2 =r45h785f33e_1
+    - r-googlesheets4 =1.1.3 =r45h9cad52b_0
     - r-gower =1.0.2 =r45h54b55ab_0
     - r-gtable =0.3.6 =r45hc72bb7e_1
     - r-hardhat =1.4.3 =r45hc72bb7e_0
