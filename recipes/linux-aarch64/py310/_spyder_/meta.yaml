@@ -52,15 +52,16 @@ requirements:
     - babel =2.18.0 =pyhcf101f3_1
     - backports =1.0 =pyhd8ed1ab_5
     - backports.tarfile =1.2.0 =pyhcf101f3_2
+    - backports.zstd =1.7.0 =py310h5585d39_0
     - bcrypt =5.0.0 =py310h598bb90_1
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - binaryornot =0.6.0 =pyhcf101f3_0
     - black =26.5.1 =pyha5154f8_0
     - bleach =6.4.0 =pyhcf101f3_0
     - bleach-with-css =6.4.0 =hac0b51c_0
-    - brotli =1.2.1 =h52fc18c_0
-    - brotli-bin =1.2.1 =hdc3483e_0
-    - brotli-python =1.0.9 =py310h130cc07_8
+    - brotli =1.2.0 =h52fc18c_3
+    - brotli-bin =1.2.0 =hdc3483e_3
+    - brotli-python =1.2.0 =py310hac1f945_3
     - bzip2 =1.0.8 =h4777abc_10
     - ca-certificates =2026.10.23 =hbd8a1cb_0
     - cairo =1.18.6 =hca320e2_0
@@ -146,11 +147,11 @@ requirements:
     - lame =4.0 =h7ce06ba_1
     - lcms2 =2.19.1 =h137c43b_3
     - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_103
-    - lerc =4.2.0 =h52b7260_0
+    - lerc =4.3.0 =h0e9b339_0
     - libblas =3.11.0 =11_haddc8a3_openblas
-    - libbrotlicommon =1.2.1 =h384ecca_0
-    - libbrotlidec =1.2.1 =h011f0d3_0
-    - libbrotlienc =1.2.1 =hb247b97_0
+    - libbrotlicommon =1.2.0 =h384ecca_3
+    - libbrotlidec =1.2.0 =h011f0d3_3
+    - libbrotlienc =1.2.0 =hb247b97_3
     - libcap =2.78 =hfcc8634_1
     - libcblas =3.11.0 =11_hd72aa62_openblas
     - libclang-cpp22.1 =22.1.8 =default_h01b09c7_11
@@ -355,7 +356,7 @@ requirements:
     - tzdata =2026e =h5d301ff_0
     - ujson =5.13.0 =py310heccc163_0
     - unicodedata2 =17.0.1 =py310h5b55623_0
-    - urllib3 =2.5.0 =pyhd8ed1ab_0
+    - urllib3 =2.7.0 =pyhd8ed1ab_0
     - watchdog =6.0.0 =py310h2f441de_3
     - wayland =1.26.0 =h637a836_2
     - wcwidth =0.8.3 =pyhcf101f3_0
@@ -394,7 +395,6 @@ requirements:
     - zeromq =4.3.5 =h3469ab9_12
     - zipp =4.1.0 =pyhcf101f3_0
     - zlib-ng =2.3.3 =h1024f78_1
-    - zstandard =0.25.0 =py310hc1e03d5_3
     - zstd =1.5.7 =h9d15635_7
 
 about:

@@ -30,8 +30,8 @@ requirements:
     - beautifulsoup4 =4.15.0 =pyha770c72_0
     - cython =3.3.0 =py311h2f381f4_1
     - grayskull =3.2.0 =pyhc364b38_0
-    - hypothesis =6.170.13 =py311h1e0e963_0
-    - ipython =9.17.1 =pyh53cf698_0
+    - hypothesis =6.170.14 =py311h1e0e963_0
+    - ipython =9.18.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.2 =py311ha01d089_1
     - numba =0.68.0 =py311hf682900_1
@@ -40,7 +40,7 @@ requirements:
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =3.1.0 =np2py311h6ed7ffe_0
     - psutil =7.2.2 =py311hd322c8c_3
-    - pydantic =2.14.1 =pyh5ded981_0
+    - pydantic =2.14.2 =pyh5ded981_0
     - pyqt =5.15.11 =py311ha87f45f_2
     - pyserial =3.5 =pyhcf101f3_2
     - pytest =9.2.0 =pyhc364b38_1
@@ -151,7 +151,7 @@ requirements:
     - fqdn =1.6.0 =pyh5ded981_0
     - freetype =2.14.3 =hce30654_2
     - fribidi =1.0.18 =hb001647_0
-    - frozendict =2.4.7 =pyh851646a_2
+    - frozendict =2.5.0 =pyhb5810a6_0
     - frozenlist =1.8.0 =py311hb67ba01_1
     - gcc_impl_osx-arm64 =16.2.0 =hff32234_7
     - gfortran_impl_osx-arm64 =16.2.0 =h9997696_7
@@ -202,7 +202,7 @@ requirements:
     - lcms2 =2.19.1 =hce41798_3
     - ld64 =956.6 =llvm23_1_hd841b0c_7
     - ld64_osx-arm64 =956.6 =llvm23_1_hc8058f9_7
-    - lerc =4.2.0 =h1eee2c3_0
+    - lerc =4.3.0 =h0699d0c_0
     - libarchive =3.8.9 =gpl_h76147b0_101
     - libasprintf =0.25.1 =hae62183_2
     - libblas =3.11.0 =11_h51639a9_openblas
@@ -294,7 +294,7 @@ requirements:
     - ncurses =6.6 =he64c551_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nlohmann_json-abi =3.12.0 =h0f90c79_2
-    - notebook =7.6.3 =pyh5ded981_0
+    - notebook =7.6.4 =pyh5ded981_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.40 =hdcbdcf5_0
     - nss =3.118 =h1c710a3_0
@@ -327,10 +327,10 @@ requirements:
     - pybind11-abi =11 =hc364b38_1
     - pycosat =0.6.6 =py311h5edb25e_6
     - pycparser =3.12 =pyh5ded981_1
-    - pydantic-core =2.50.1 =py311hcfb3d13_1
+    - pydantic-core =2.50.2 =py311h4d15b91_0
     - pygments =2.21.0 =pyhcf101f3_0
-    - pyobjc-core =12.2.2 =py311hcd12bbf_1
-    - pyobjc-framework-cocoa =12.2.2 =py311h01ff9c6_1
+    - pyobjc-core =13.0 =py311h335ec86_0
+    - pyobjc-framework-cocoa =13.0 =py311h42bef1c_0
     - pyparsing =3.3.3 =pyh5ded981_0
     - pyproject_hooks =1.3.3 =pyhd8ed1ab_0
     - pyqt5-sip =12.17.0 =py311h251fd82_2

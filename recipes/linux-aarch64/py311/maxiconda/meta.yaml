@@ -31,8 +31,8 @@ requirements:
     - bitarray =3.12.3 =py311h0de9f98_0
     - cython =3.3.0 =py311hc2a7dd6_1
     - grayskull =3.2.0 =pyhc364b38_0
-    - hypothesis =6.170.13 =py311h8ca180e_0
-    - ipython =9.17.1 =pyh53cf698_0
+    - hypothesis =6.170.14 =py311h8ca180e_0
+    - ipython =9.18.0 =pyh53cf698_0
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.2 =py311h6d534f4_1
     - numba =0.68.0 =py311h12bcb24_1
@@ -41,7 +41,7 @@ requirements:
     - paho-mqtt =2.1.0 =pyhe01879c_1
     - pandas =3.1.0 =np2py311h2f4a80d_0
     - psutil =7.2.2 =py311h0de9f98_3
-    - pydantic =2.14.1 =pyh5ded981_0
+    - pydantic =2.14.2 =pyh5ded981_0
     - pyqt =5.15.11 =py311h4808784_2
     - pyserial =3.5 =pyhcf101f3_2
     - pytest =9.2.0 =pyhc364b38_1
@@ -142,7 +142,7 @@ requirements:
     - fqdn =1.6.0 =pyh5ded981_0
     - freetype =2.14.3 =h8af1aa0_2
     - fribidi =1.0.18 =h5bc82ec_0
-    - frozendict =2.4.7 =pyh851646a_2
+    - frozendict =2.5.0 =pyhb5810a6_0
     - frozenlist =1.8.0 =py311h7be965f_1
     - gcc_impl_linux-aarch64 =16.2.0 =h5425ead_7
     - gcc_linux-aarch64 =16.2.0 =h25cc031_2
@@ -197,7 +197,7 @@ requirements:
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.19.1 =h137c43b_3
     - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_103
-    - lerc =4.2.0 =h52b7260_0
+    - lerc =4.3.0 =h0e9b339_0
     - libarchive =3.8.9 =gpl_h1204ebd_101
     - libblas =3.11.0 =11_haddc8a3_openblas
     - libbrotlicommon =1.2.1 =h384ecca_0
@@ -306,7 +306,7 @@ requirements:
     - ncurses =6.6 =h2b6f883_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nlohmann_json-abi =3.12.0 =h0f90c79_2
-    - notebook =7.6.3 =pyh5ded981_0
+    - notebook =7.6.4 =pyh5ded981_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
     - nspr =4.40 =h3ad9384_0
     - nss =3.118 =h544fa81_0
@@ -340,7 +340,7 @@ requirements:
     - pybind11-abi =11 =hc364b38_1
     - pycosat =0.6.6 =py311h5a00dd8_6
     - pycparser =3.12 =pyh5ded981_1
-    - pydantic-core =2.50.1 =py311h8c3699e_1
+    - pydantic-core =2.50.2 =py311h8c3699e_0
     - pygments =2.21.0 =pyhcf101f3_0
     - pyparsing =3.3.3 =pyh5ded981_0
     - pyproject_hooks =1.3.3 =pyhd8ed1ab_0

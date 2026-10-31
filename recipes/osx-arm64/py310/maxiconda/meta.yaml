@@ -79,12 +79,11 @@ requirements:
     - async-timeout =5.0.1 =pyhcf101f3_2
     - attrs =26.1.0 =pyhcf101f3_0
     - babel =2.18.0 =pyhcf101f3_1
-    - backports.zstd =1.7.0 =py310h94e62c7_0
     - bleach =6.4.0 =pyhcf101f3_0
     - bleach-with-css =6.4.0 =hac0b51c_0
-    - brotli =1.2.0 =hf00d406_3
-    - brotli-bin =1.2.0 =he4a93e4_3
-    - brotli-python =1.2.0 =py310h4d9ebb8_3
+    - brotli =1.2.1 =hf00d406_0
+    - brotli-bin =1.2.1 =he4a93e4_0
+    - brotli-python =1.0.9 =py310h0f1eb42_8
     - bwidget =1.10.1 =h820172f_3
     - bzip2 =1.0.8 =h4e30115_10
     - c-ares =1.34.9 =h74c22ad_0
@@ -182,12 +181,12 @@ requirements:
     - lcms2 =2.19.1 =hce41798_3
     - ld64 =956.6 =llvm23_1_hd841b0c_7
     - ld64_osx-arm64 =956.6 =llvm23_1_hc8058f9_7
-    - lerc =4.2.0 =h1eee2c3_0
+    - lerc =4.3.0 =h0699d0c_0
     - libasprintf =0.25.1 =hae62183_2
     - libblas =3.11.0 =11_h51639a9_openblas
-    - libbrotlicommon =1.2.0 =h1dcdb26_3
-    - libbrotlidec =1.2.0 =h5295a6a_3
-    - libbrotlienc =1.2.0 =h2ddc9cb_3
+    - libbrotlicommon =1.2.1 =h1dcdb26_0
+    - libbrotlidec =1.2.1 =h5295a6a_0
+    - libbrotlienc =1.2.1 =h2ddc9cb_0
     - libcblas =3.11.0 =11_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp23.1 =23.1.4 =default_h8bbc02d_1
@@ -531,7 +530,7 @@ requirements:
     - tzdata =2026e =h5d301ff_0
     - unicodedata2 =17.0.1 =py310h72544b6_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
-    - urllib3 =2.7.0 =pyhd8ed1ab_0
+    - urllib3 =2.5.0 =pyhd8ed1ab_0
     - wcwidth =0.8.3 =pyhcf101f3_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
@@ -545,6 +544,7 @@ requirements:
     - zeromq =4.3.5 =h6eb0046_12
     - zipp =4.1.0 =pyhcf101f3_0
     - zlib-ng =2.3.3 =h31dac16_1
+    - zstandard =0.25.0 =py310hbbcf1ca_3
     - zstd =1.5.7 =hf451053_7
 
 about:
