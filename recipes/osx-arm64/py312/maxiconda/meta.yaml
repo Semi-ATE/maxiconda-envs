@@ -203,7 +203,7 @@ requirements:
     - ld64 =956.6 =llvm23_1_hd841b0c_7
     - ld64_osx-arm64 =956.6 =llvm23_1_hc8058f9_7
     - lerc =4.3.0 =h0699d0c_0
-    - libarchive =3.8.9 =gpl_h76147b0_101
+    - libarchive =3.8.11 =gpl_h76147b0_100
     - libasprintf =0.25.1 =hae62183_2
     - libblas =3.11.0 =11_h51639a9_openblas
     - libbrotlicommon =1.2.1 =h1dcdb26_0
@@ -296,7 +296,7 @@ requirements:
     - nlohmann_json-abi =3.12.0 =h0f90c79_2
     - notebook =7.6.4 =pyh5ded981_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
-    - nspr =4.40 =hdcbdcf5_0
+    - nspr =4.40 =hfdc29e8_0
     - nss =3.118 =h1c710a3_0
     - openjpeg =2.5.4 =h4d1e80c_2
     - openldap =2.6.13 =hf7f56bc_0
@@ -313,7 +313,7 @@ requirements:
     - pip =26.2.2 =pyh8b19718_0
     - pixman =0.46.4 =h784d473_3
     - pkginfo =2.0 =pyh5ded981_0
-    - platformdirs =4.14.0 =pyh5ded981_0
+    - platformdirs =4.14.2 =pyh5ded981_0
     - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
@@ -453,7 +453,7 @@ requirements:
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
     - r-openssl =2.4.2 =r45h3dca6d3_0
     - r-otel =0.2.0 =r45hc72bb7e_1
-    - r-parallelly =1.48.0 =r45hbe92478_0
+    - r-parallelly =1.50.0 =r45hb5b23e3_0
     - r-pbdzmq =0.3_14 =r45h350048c_1
     - r-pillar =1.11.1 =r45hc72bb7e_0
     - r-pkgconfig =2.0.3 =r45hc72bb7e_5

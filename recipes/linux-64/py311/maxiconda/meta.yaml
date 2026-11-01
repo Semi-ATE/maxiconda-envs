@@ -198,7 +198,7 @@ requirements:
     - lcms2 =2.19.1 =h9073bf1_3
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_103
     - lerc =4.3.0 =he78707d_0
-    - libarchive =3.8.9 =gpl_h3152399_101
+    - libarchive =3.8.11 =gpl_h3152399_100
     - libblas =3.11.0 =11_h4a7cf45_openblas
     - libbrotlicommon =1.2.1 =h39a168f_0
     - libbrotlidec =1.2.1 =ha411449_0
@@ -308,7 +308,7 @@ requirements:
     - nlohmann_json-abi =3.12.0 =h0f90c79_2
     - notebook =7.6.4 =pyh5ded981_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
-    - nspr =4.40 =h29cc59b_0
+    - nspr =4.40 =h76ac25a_0
     - nss =3.118 =h445c969_0
     - openjpeg =2.5.4 =heb1ab33_2
     - openldap =2.6.13 =hbde042b_0
@@ -325,7 +325,7 @@ requirements:
     - pip =26.2.2 =pyh8b19718_0
     - pixman =0.46.4 =h54a6638_3
     - pkginfo =2.0 =pyh5ded981_0
-    - platformdirs =4.14.0 =pyh5ded981_0
+    - platformdirs =4.14.2 =pyh5ded981_0
     - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
@@ -345,7 +345,7 @@ requirements:
     - pyparsing =3.3.3 =pyh5ded981_0
     - pyproject_hooks =1.3.3 =pyhd8ed1ab_0
     - pyqt5-sip =12.17.0 =py311h1ddb823_2
-    - pyside6 =6.11.2 =py311h242c0d0_1
+    - pyside6 =6.11.3 =py311h242c0d0_0
     - pysocks =1.7.1 =pyha55dd90_7
     - python-abi3 =3.11 =ha8785bc_3
     - python-build =1.6.1 =pyhc364b38_0
@@ -361,7 +361,7 @@ requirements:
     - pyzmq =27.2.0 =py311hcbe55da_2
     - qhull =2020.2 =h434a139_5
     - qt-main =5.15.15 =h0c412b5_8
-    - qt6-main =6.11.2 =pl5321hcf69127_1
+    - qt6-main =6.11.3 =pl5321hcf69127_0
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r45h54b55ab_1
     - r-assertthat =0.2.1 =r45hc72bb7e_6
@@ -466,7 +466,7 @@ requirements:
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
     - r-openssl =2.4.2 =r45h68c19f5_0
     - r-otel =0.2.0 =r45hc72bb7e_1
-    - r-parallelly =1.48.0 =r45h54b55ab_0
+    - r-parallelly =1.50.0 =r45hddc5280_0
     - r-pbdzmq =0.3_14 =r45hded8526_1
     - r-pillar =1.11.1 =r45hc72bb7e_0
     - r-pkgconfig =2.0.3 =r45hc72bb7e_5
