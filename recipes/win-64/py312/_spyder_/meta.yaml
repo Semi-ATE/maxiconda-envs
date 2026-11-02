@@ -78,7 +78,7 @@ requirements:
     - cpython =3.12.16 =py312hd8ed1ab_0
     - cryptography =50.0.2 =py311h67a9792_0
     - cycler =0.12.1 =pyhcf101f3_2
-    - debugpy =1.8.22 =py312ha1a9051_0
+    - debugpy =1.8.22 =py312ha1a9051_1
     - decorator =5.3.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =3.0.1 =pyhc364b38_0
@@ -134,7 +134,7 @@ requirements:
     - keyring =25.7.0 =pyh7428d3b_0
     - kiwisolver =1.5.1 =py312h78d62e6_3
     - krb5 =1.22.2 =h719d79b_2
-    - lcms2 =2.19.1 =hf2c6c5f_3
+    - lcms2 =2.20 =hf2c6c5f_0
     - lerc =4.3.0 =hd936e49_0
     - libblas =3.11.0 =11_h8455456_mkl
     - libbrotlicommon =1.2.1 =hf02afa3_0
@@ -238,7 +238,7 @@ requirements:
     - pyside6 =6.11.3 =py312hdb84042_0
     - pysocks =1.7.1 =pyh09c184e_7
     - python-abi3 =3.12 =hd2c606e_3
-    - python-dateutil =3.0.0 =pyh5ded981_0
+    - python-dateutil =4.0.0 =pyh5ded981_0
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
     - python-gil =3.12.16 =hd8ed1ab_0
     - python-gssapi =1.12.0 =py312hcf70c7a_1
@@ -314,7 +314,7 @@ requirements:
     - vc =14.5 =ha367084_42
     - vc14_runtime =14.51.36247 =habf1de7_42
     - vcomp14 =14.51.36247 =habf1de7_42
-    - watchdog =6.0.0 =py312h209ec74_4
+    - watchdog =7.0.0 =py312h209ec74_0
     - wcwidth =0.9.4 =py311hdbcae8a_0
     - webencodings =0.6.1 =pyh5ded981_0
     - whatthepatch =1.0.7 =pyhd8ed1ab_1

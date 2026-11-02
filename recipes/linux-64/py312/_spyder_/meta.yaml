@@ -81,7 +81,7 @@ requirements:
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hac629b4_1
     - dbus =1.16.2 =he8c428d_2
-    - debugpy =1.8.22 =py312h80505a6_0
+    - debugpy =1.8.22 =py312h80505a6_1
     - decorator =5.3.1 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =3.0.1 =pyhc364b38_0
@@ -144,7 +144,7 @@ requirements:
     - kiwisolver =1.5.1 =py312h9be0db6_3
     - krb5 =1.22.2 =hbc21106_2
     - lame =4.0 =h770b6ad_1
-    - lcms2 =2.19.1 =h9073bf1_3
+    - lcms2 =2.20 =h9073bf1_0
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_103
     - lerc =4.3.0 =he78707d_0
     - libblas =3.11.0 =11_h4a7cf45_openblas
@@ -289,7 +289,7 @@ requirements:
     - pyside6 =6.11.3 =py312hf520645_0
     - pysocks =1.7.1 =pyha55dd90_7
     - python-abi3 =3.12 =he1d15d4_3
-    - python-dateutil =3.0.0 =pyh5ded981_0
+    - python-dateutil =4.0.0 =pyh5ded981_0
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
     - python-gil =3.12.16 =hd8ed1ab_0
     - python-gssapi =1.12.0 =py312h5b8417d_1
@@ -360,7 +360,7 @@ requirements:
     - ujson =6.0.0 =py312h80505a6_0
     - unicodedata2 =18.0.0 =py312h5cc1888_0
     - urllib3 =2.8.0 =pyhd8ed1ab_0
-    - watchdog =6.0.0 =py312h20c3967_4
+    - watchdog =7.0.0 =py312h20c3967_0
     - wayland =1.26.0 =hc1c935e_2
     - wcwidth =0.9.4 =py311hd139983_0
     - webencodings =0.6.1 =pyh5ded981_0

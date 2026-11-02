@@ -70,7 +70,7 @@ requirements:
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiosignal =1.4.0 =pyhd8ed1ab_0
     - annotated-types =0.8.0 =pyhd8ed1ab_0
-    - anyio =4.15.1 =pyh5ded981_1
+    - anyio =4.16.0 =pyh5ded981_1
     - appnope =1.0.0 =pyhcf101f3_0
     - archspec =0.2.6 =pyhd8ed1ab_0
     - argon2-cffi =25.1.0 =pyhd8ed1ab_0
@@ -132,7 +132,7 @@ requirements:
     - curl =8.23.0 =h6651222_0
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =hb961e35_1
-    - debugpy =1.8.22 =py312hdef455b_0
+    - debugpy =1.8.22 =py312hdef455b_1
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - distro =1.9.0 =pyhd8ed1ab_1
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
@@ -199,7 +199,7 @@ requirements:
     - kiwisolver =1.5.1 =py312h67ba313_3
     - krb5 =1.22.2 =h34f8a20_2
     - lark =1.3.1 =pyhd8ed1ab_0
-    - lcms2 =2.19.1 =hce41798_3
+    - lcms2 =2.20 =hce41798_0
     - ld64 =956.6 =llvm23_1_hd841b0c_7
     - ld64_osx-arm64 =956.6 =llvm23_1_hc8058f9_7
     - lerc =4.3.0 =h0699d0c_0
@@ -241,9 +241,9 @@ requirements:
     - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm23 =23.1.4 =h759d1ac_1
     - liblzma =5.8.3 =h8088a28_1
-    - libmamba =2.10.0 =py312h4a70940_1
-    - libmamba-spdlog =2.10.0 =h6ff39b0_1
-    - libmambapy =2.10.0 =py312h854dccb_1
+    - libmamba =2.10.0 =py312hf89d580_3
+    - libmamba-spdlog =2.10.0 =h9337b73_3
+    - libmambapy =2.10.0 =py312h81a48fa_3
     - libmsgpack-c =6.1.0 =h784d473_7
     - libnghttp2 =1.70.0 =h344cdd5_0
     - libntlm =1.8 =h5505292_0
@@ -337,7 +337,7 @@ requirements:
     - pysocks =1.7.1 =pyha55dd90_7
     - python-abi3 =3.12 =he1d15d4_3
     - python-build =1.6.1 =pyhc364b38_0
-    - python-dateutil =3.0.0 =pyh5ded981_0
+    - python-dateutil =4.0.0 =pyh5ded981_0
     - python-fastjsonschema =2.22.2 =pyhcf101f3_0
     - python-gil =3.12.16 =hd8ed1ab_0
     - python-installer =1.1.0 =pyhe730653_0
@@ -548,7 +548,7 @@ requirements:
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =84.2.1 =pyhe730653_0
     - sigtool-codesign =0.1.3 =h98dc951_1
-    - simdjson =5.0.6 =he80e296_0
+    - simdjson =5.1.1 =he80e296_0
     - sip =6.17.2 =py312h3812f11_0
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.3 =pyhcf101f3_1
