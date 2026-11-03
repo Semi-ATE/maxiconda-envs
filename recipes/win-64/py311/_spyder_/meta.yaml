@@ -25,7 +25,7 @@ requirements:
     - python =3.11.18 =hb12b558_0_cpython
 
     # 10 primary packages :
-    - cython =3.3.0 =py311h69d62d3_1
+    - cython =3.3.1 =py311h69d62d3_0
     - matplotlib =3.11.2 =py311hce7227b_1
     - menuinst =2.5.2 =py311h5dfdfe8_3
     - numpy =2.4.6 =py311h65cb7f3_0
@@ -65,7 +65,7 @@ requirements:
     - ca-certificates =2026.10.23 =h4c7d964_0
     - cairo =1.18.6 =h477c42c_0
     - cattrs =26.2.1 =pyh5ded981_0
-    - certifi =2026.10.23 =pyhd8ed1ab_0
+    - certifi =2026.10.23 =pyhd8ed1ab_2
     - cffi =2.1.1 =py311h3485c13_3
     - chardet =7.6.0 =py311h5b24874_1
     - charset-normalizer =3.5.2 =h308a848_0
@@ -117,7 +117,7 @@ requirements:
     - inflection =0.5.1 =pyhd8ed1ab_1
     - intervaltree =3.2.1 =pyh5ded981_0
     - ipykernel =6.31.0 =pyh6dadd2b_0
-    - ipython =9.18.0 =pyhe2676ad_0
+    - ipython =9.18.1 =pyhe2676ad_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
     - isort =9.0.2 =pyhd8ed1ab_0
     - jaraco.classes =3.4.0 =pyhcf101f3_3
@@ -210,9 +210,9 @@ requirements:
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
     - pillow =13.0.0 =py311h36f029a_0
-    - pip =26.2.2 =pyh8b19718_0
+    - pip =26.2.2 =pyh8b19718_2
     - pixman =0.46.4 =h5112557_3
-    - platformdirs =4.14.2 =pyh5ded981_0
+    - platformdirs =4.14.3 =pyh5ded981_0
     - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
@@ -239,7 +239,7 @@ requirements:
     - pysocks =1.7.1 =pyh09c184e_7
     - python-abi3 =3.11 =hac436b5_3
     - python-dateutil =4.0.0 =pyh5ded981_0
-    - python-fastjsonschema =2.22.2 =pyhcf101f3_0
+    - python-fastjsonschema =2.22.3 =pyh5ded981_0
     - python-gil =3.11.18 =hd8ed1ab_0
     - python-gssapi =1.12.0 =py311h260fd55_1
     - python-lsp-black =2.0.0 =pyhff2d567_1
@@ -255,7 +255,7 @@ requirements:
     - pyuca =1.2 =pyhd8ed1ab_2
     - pywin32 =312 =py311h0610301_2
     - pywin32-ctypes =0.2.3 =py311h1ea47a8_4
-    - pyyaml =6.0.3 =py311h3f79411_2
+    - pyyaml =6.0.3 =py311hcafbeb1_3
     - pyzmq =27.2.0 =py311h7a22eb7_2
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =hc790b64_5
@@ -289,7 +289,7 @@ requirements:
     - sphinxcontrib-qthelp =2.0.0 =pyhd8ed1ab_1
     - sphinxcontrib-serializinghtml =2.0.0 =pyhd8ed1ab_0
     - spyder-base =6.1.8 =py311h1ea47a8_1
-    - spyder-kernels =3.1.6 =win_pyh7428d3b_0
+    - spyder-kernels =3.1.7 =win_pyh7428d3b_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - superqt =0.9.0 =pyh9208f05_0
     - tbb =2023.1.0 =h272cf33_2
