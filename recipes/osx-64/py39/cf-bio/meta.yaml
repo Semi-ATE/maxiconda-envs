@@ -102,13 +102,13 @@ requirements:
     - lcms2 =2.20 =h4e6bd4b_0
     - lerc =4.3.0 =h64318d8_0
     - libaec =1.1.7 =h306069d_0
-    - libblas =3.11.0 =11_he492b99_openblas
+    - libblas =3.11.0 =12_he492b99_openblas
     - libboost =1.86.0 =hb2bbd1d_4
     - libboost-python =1.86.0 =py39h5c7665c_3
     - libbrotlicommon =1.2.1 =he0616a4_0
     - libbrotlidec =1.2.1 =h4a2f56c_0
     - libbrotlienc =1.2.1 =h3d41943_0
-    - libcblas =3.11.0 =11_h9b27e0a_openblas
+    - libcblas =3.11.0 =12_h9b27e0a_openblas
     - libclang-cpp17 =17.0.6 =default_h3571c67_8
     - libclang13 =21.1.0 =default_h7f9524c_1
     - libcurl =8.18.0 =h9348e2b_0
@@ -128,7 +128,7 @@ requirements:
     - libintl =0.25.1 =h98e67c8_2
     - libintl-devel =0.25.1 =h98e67c8_2
     - libjpeg-turbo =3.2.1 =hd115831_0
-    - liblapack =3.11.0 =11_h859234e_openblas
+    - liblapack =3.11.0 =12_h859234e_openblas
     - libllvm17 =17.0.6 =hbedff68_1
     - libllvm21 =21.1.0 =h9b4ebcc_0
     - liblzma =5.8.3 =hbb4bfdb_1
@@ -151,7 +151,7 @@ requirements:
     - libxml2 =2.13.9 =he1bc88e_0
     - libzip =1.12.1 =h99362d9_0
     - libzlib =1.3.2 =hbb4bfdb_3
-    - llvm-openmp =23.1.4 =h8c1e6b9_0
+    - llvm-openmp =23.1.5 =h8c1e6b9_0
     - lz4-c =1.10.0 =hc569e58_2
     - matplotlib-base =3.9.4 =py39hda06d36_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1

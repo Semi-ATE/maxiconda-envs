@@ -65,7 +65,7 @@ requirements:
     - ca-certificates =2026.10.23 =hbd8a1cb_0
     - cairo =1.18.6 =hca320e2_0
     - cattrs =26.1.0 =pyhcf101f3_1
-    - certifi =2026.10.19 =pyhd8ed1ab_0
+    - certifi =2026.10.23 =pyhd8ed1ab_3
     - cffi =2.1.1 =py310hbdcee5f_2
     - chardet =7.6.0 =py310h30e17ad_1
     - charset-normalizer =3.5.1 =pyhd8ed1ab_0
@@ -147,12 +147,12 @@ requirements:
     - lcms2 =2.20 =h137c43b_0
     - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_103
     - lerc =4.3.0 =h0e9b339_0
-    - libblas =3.11.0 =11_haddc8a3_openblas
+    - libblas =3.11.0 =12_haddc8a3_openblas
     - libbrotlicommon =1.2.1 =h384ecca_0
     - libbrotlidec =1.2.1 =h011f0d3_0
     - libbrotlienc =1.2.1 =hb247b97_0
     - libcap =2.78 =hfcc8634_1
-    - libcblas =3.11.0 =11_hd72aa62_openblas
+    - libcblas =3.11.0 =12_hd72aa62_openblas
     - libclang-cpp22.1 =22.1.8 =default_h01b09c7_11
     - libclang-cpp23.1 =23.1.4 =default_h01b09c7_1
     - libclang13 =23.1.4 =default_h807fe02_1
@@ -183,9 +183,9 @@ requirements:
     - libharfbuzz-devel =15.0.0 =h8f7ccb3_0
     - libiconv =1.18 =h1ea5142_3
     - libjpeg-turbo =3.2.1 =h5bc82ec_0
-    - liblapack =3.11.0 =11_h88aeb00_openblas
+    - liblapack =3.11.0 =12_h88aeb00_openblas
     - libllvm22 =22.1.8 =h680871c_3
-    - libllvm23 =23.1.4 =h680871c_1
+    - libllvm23 =23.1.5 =h680871c_0
     - liblzma =5.8.3 =he30d5cf_1
     - libnsl =2.0.1 =h86ecc28_1
     - libntlm =1.4 =hf897c2e_1002

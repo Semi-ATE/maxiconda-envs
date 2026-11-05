@@ -141,15 +141,15 @@ requirements:
     - krb5 =1.21.3 =h237132a_0
     - lcms2 =2.20 =hce41798_0
     - lerc =4.3.0 =h0699d0c_0
-    - libblas =3.11.0 =11_h51639a9_openblas
+    - libblas =3.11.0 =12_h51639a9_openblas
     - libbrotlicommon =1.2.1 =h1dcdb26_0
     - libbrotlidec =1.2.1 =h5295a6a_0
     - libbrotlienc =1.2.1 =h2ddc9cb_0
-    - libcblas =3.11.0 =11_hb0561ab_openblas
+    - libcblas =3.11.0 =12_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp23.1 =23.1.4 =default_h8bbc02d_1
     - libclang13 =23.1.4 =default_hde1afa0_1
-    - libcxx =23.1.4 =h55c6f16_2
+    - libcxx =23.1.5 =h55c6f16_0
     - libdeflate =1.25 =he7e0567_1
     - libedit =3.1.20260512 =pl5321h26f1114_0
     - libexpat =2.9.0 =h6111c0a_0
@@ -166,9 +166,9 @@ requirements:
     - libintl =0.25.1 =hae62183_2
     - libintl-devel =0.25.1 =hae62183_2
     - libjpeg-turbo =3.2.1 =hb001647_0
-    - liblapack =3.11.0 =11_hd9741b5_openblas
+    - liblapack =3.11.0 =12_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h8e162e0_12
-    - libllvm23 =23.1.4 =h759d1ac_1
+    - libllvm23 =23.1.5 =h759d1ac_0
     - liblzma =5.8.3 =h8088a28_1
     - libntlm =1.8 =h5505292_0
     - libogg =1.3.5 =h48c0fde_1
@@ -189,7 +189,7 @@ requirements:
     - libxml2 =2.15.4 =h550178d_1
     - libxml2-16 =2.15.4 =heb56d2d_1
     - libzlib =1.3.2 =h8088a28_3
-    - llvm-openmp =23.1.4 =hdb3d66b_0
+    - llvm-openmp =23.1.5 =hdb3d66b_0
     - markdown-it-py =3.0.0 =pyhd8ed1ab_1
     - markupsafe =3.0.2 =py39hefdd603_1
     - matplotlib-base =3.9.4 =py39h7251d6c_0

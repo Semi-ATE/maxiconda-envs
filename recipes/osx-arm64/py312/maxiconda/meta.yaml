@@ -38,7 +38,7 @@ requirements:
     - numpy =2.5.4 =py312hff34920_0
     - openpyxl =3.1.5 =py312h027802a_4
     - paho-mqtt =2.1.0 =pyhe01879c_1
-    - pandas =3.1.0 =np2py312ha2f16c6_0
+    - pandas =3.1.1 =np2py312ha2f16c6_0
     - psutil =7.2.2 =py312hbd136b4_3
     - pydantic =2.14.2 =pyh5ded981_0
     - pyqt =5.15.11 =py312h6612b97_2
@@ -55,7 +55,7 @@ requirements:
     - scipy =1.18.1 =py312h84b0c4e_2
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.7 =unix_pyh707e725_0
-    - sqlalchemy =2.1.6 =py312h4de8a2e_0
+    - sqlalchemy =2.1.8 =py312h4de8a2e_0
     - sqlite =3.54.1 =ha9f7ffe_0
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.70.1 =pyhfa0c392_0
@@ -97,7 +97,7 @@ requirements:
     - cctools =1030.6.3 =llvm23_1_h54b4f4b_7
     - cctools_impl_osx-arm64 =1030.6.3 =llvm23_1_hf5e010b_7
     - cctools_osx-arm64 =1030.6.3 =llvm23_1_h54b4f4b_7
-    - certifi =2026.10.23 =pyhd8ed1ab_2
+    - certifi =2026.10.23 =pyhd8ed1ab_3
     - cffi =2.1.1 =py312hc892d8b_3
     - charset-normalizer =3.5.1 =pyhd8ed1ab_0
     - clang =23.1.4 =default_cfg_h10b8b15_1
@@ -122,7 +122,7 @@ requirements:
     - conda-package-handling =2.6.0 =pyh5ded981_0
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
     - conda-pypi =0.13.0 =pyh5ded981_1
-    - conda-rattler-solver =26.10.1 =pyh5ded981_0
+    - conda-rattler-solver =26.10.2 =pyh5ded981_0
     - conda-recipe-manager =0.10.6 =pyhd8ed1ab_1
     - conda-self =0.3.0 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
@@ -184,7 +184,7 @@ requirements:
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.20.1 =pyh5ded981_0
     - json5 =0.17.3 =pyhd8ed1ab_0
-    - jsonpointer =3.7 =pyh5ded981_0
+    - jsonpointer =3.8 =pyh5ded981_0
     - jsonschema =4.26.0 =pyhcf101f3_1
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_1
@@ -207,19 +207,19 @@ requirements:
     - lerc =4.3.0 =h0699d0c_0
     - libarchive =3.8.11 =gpl_h76147b0_100
     - libasprintf =0.25.1 =hae62183_2
-    - libblas =3.11.0 =11_h51639a9_openblas
+    - libblas =3.11.0 =12_h51639a9_openblas
     - libbrotlicommon =1.2.1 =h1dcdb26_0
     - libbrotlidec =1.2.1 =h5295a6a_0
     - libbrotlienc =1.2.1 =h2ddc9cb_0
-    - libcblas =3.11.0 =11_hb0561ab_openblas
+    - libcblas =3.11.0 =12_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp23.1 =23.1.4 =default_h8bbc02d_1
     - libclang13 =23.1.4 =default_hde1afa0_1
     - libcompiler-rt =23.1.4 =hdb3d66b_0
     - libcurl =8.23.0 =h6651222_0
-    - libcxx =23.1.4 =h55c6f16_2
-    - libcxx-devel =23.1.4 =h6dc3340_2
-    - libcxx-headers =23.1.4 =h707e725_2
+    - libcxx =23.1.5 =h55c6f16_0
+    - libcxx-devel =23.1.5 =h6dc3340_0
+    - libcxx-headers =23.1.5 =h707e725_0
     - libdeflate =1.25 =he7e0567_1
     - libedit =3.1.20260512 =pl5321h26f1114_0
     - libev =4.33 =h1a92334_3
@@ -239,7 +239,7 @@ requirements:
     - libintl =0.25.1 =hae62183_2
     - libintl-devel =0.25.1 =hae62183_2
     - libjpeg-turbo =3.2.1 =hb001647_0
-    - liblapack =3.11.0 =11_hd9741b5_openblas
+    - liblapack =3.11.0 =12_hd9741b5_openblas
     - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm23 =23.1.4 =h759d1ac_1
     - liblzma =5.8.3 =h8088a28_1
@@ -272,17 +272,17 @@ requirements:
     - libxml2 =2.15.4 =h550178d_1
     - libxml2-16 =2.15.4 =heb56d2d_1
     - libzlib =1.3.2 =h8088a28_3
-    - llvm-openmp =23.1.4 =hdb3d66b_0
+    - llvm-openmp =23.1.5 =hdb3d66b_0
     - llvm-tools =23.1.4 =hdb3d66b_1
     - llvm-tools-23 =23.1.4 =h79441dc_1
     - llvmlite =0.50.0 =py312ha6a25cf_0
     - lz4-c =1.10.0 =hdca3b7d_2
     - lzo =2.10 =h74c22ad_1003
     - make =4.4.1 =h63fc045_4
-    - markupsafe =3.0.4 =py312h05c94ff_3
+    - markupsafe =3.0.4 =py312h05c94ff_4
     - matplotlib-base =3.11.2 =py312h11997a8_1
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
-    - menuinst =2.5.2 =pyhba3e0a1_3
+    - menuinst =2.5.2 =pyhba3e0a1_4
     - mistune =3.4.0 =pyh5ded981_0
     - mpc =1.4.0 =h071a35a_1
     - mpfr =4.2.2 =h72846b0_1
@@ -315,13 +315,13 @@ requirements:
     - pip =26.2.2 =pyh8b19718_2
     - pixman =0.46.4 =h784d473_3
     - pkginfo =2.0 =pyh5ded981_0
-    - platformdirs =4.14.3 =pyh5ded981_0
+    - platformdirs =4.14.5 =pyh5ded981_0
     - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
     - progressbar2 =4.6.0 =pyhd8ed1ab_0
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.53 =pyha770c72_0
-    - propcache =0.5.4 =py312hf4454c7_2
+    - propcache =0.5.4 =py312hf4454c7_3
     - pthread-stubs =0.4 =hb001647_1004
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.4 =pyhd8ed1ab_0
@@ -348,7 +348,7 @@ requirements:
     - python-utils =4.1.4 =pyhe730653_0
     - python_abi =3.12 =9_cp312
     - pyxdg =0.28 =pyhd8ed1ab_0
-    - pyzmq =27.2.0 =py312hdfb5542_2
+    - pyzmq =27.3.0 =py312h6ba1a2d_0
     - qhull =2020.2 =h420ef59_5
     - qt-main =5.15.15 =he8aa932_8
     - qtpy =2.4.3 =pyhd8ed1ab_1
@@ -556,7 +556,7 @@ requirements:
     - smmap =5.0.3 =pyhcf101f3_1
     - sniffio =1.3.1 =pyhd8ed1ab_2
     - sortedcontainers =2.4.0 =pyhd8ed1ab_1
-    - soupsieve =3.0.4 =pyhd8ed1ab_0
+    - soupsieve =4.0 =pyhd8ed1ab_0
     - spdlog =1.17.0 =h760df91_2
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
@@ -572,7 +572,7 @@ requirements:
     - traitlets =5.16.1 =pyhcf101f3_0
     - truststore =0.10.5 =pyh5ded981_0
     - typing-extensions =4.16.0 =h69aa097_0
-    - typing-inspection =0.4.4 =pyhcf101f3_0
+    - typing-inspection =0.4.5 =pyh5ded981_0
     - typing_extensions =4.16.0 =pyhcf101f3_0
     - typing_utils =0.1.0 =pyhd8ed1ab_1
     - tzdata =2026e =h5d301ff_0

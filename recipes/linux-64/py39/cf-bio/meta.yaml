@@ -109,14 +109,14 @@ requirements:
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_103
     - lerc =4.3.0 =he78707d_0
     - libaec =1.1.7 =h659bb9a_0
-    - libblas =3.11.0 =11_h4a7cf45_openblas
+    - libblas =3.11.0 =12_h4a7cf45_openblas
     - libboost =1.86.0 =hed09d94_4
     - libboost-python =1.86.0 =py39hf59e57a_3
     - libbrotlicommon =1.2.1 =h39a168f_0
     - libbrotlidec =1.2.1 =ha411449_0
     - libbrotlienc =1.2.1 =h018ffa1_0
     - libcap =2.78 =h084b8d7_1
-    - libcblas =3.11.0 =11_h0358290_openblas
+    - libcblas =3.11.0 =12_h0358290_openblas
     - libclang-cpp20.1 =20.1.8 =default_hc302687_17
     - libclang13 =21.1.0 =default_h746c552_1
     - libcups =2.3.3 =hb8b1518_5
@@ -145,7 +145,7 @@ requirements:
     - libgomp =16.2.0 =he0feb66_7
     - libiconv =1.18 =h0cb94f2_3
     - libjpeg-turbo =3.2.1 =h7cc23a3_0
-    - liblapack =3.11.0 =11_h47877c9_openblas
+    - liblapack =3.11.0 =12_h47877c9_openblas
     - libllvm20 =20.1.8 =hecd9e04_0
     - libllvm21 =21.1.0 =hecd9e04_0
     - liblzma =5.8.3 =hb03c661_1
