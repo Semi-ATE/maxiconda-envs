@@ -46,7 +46,7 @@ requirements:
     - statsmodels =0.14.5 =py39hbbd48fb_0
     - xgboost =2.1.4 =cpu_pyhc1a9e11_2
 
-    # 402 secondary packages :
+    # 398 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
     - _py-xgboost-mutex =2.0 =cpu_0
     - _python_abi3_support =1.0 =hd8ed1ab_3
@@ -112,7 +112,7 @@ requirements:
     - cymem =2.0.11 =py39hdf37715_0
     - cyrus-sasl =2.1.28 =h610c526_0
     - cython-blis =1.3.0 =py39h86e9f7f_0
-    - databricks-cli =0.17.7 =pyhd8ed1ab_0
+    - databricks-cli =0.17.8 =pyhd8ed1ab_0
     - datefinder =0.7.3 =pyhd8ed1ab_1
     - debugpy =1.8.16 =py39h6581403_0
     - decorator =5.2.1 =pyhd8ed1ab_0
@@ -157,12 +157,9 @@ requirements:
     - gtk3 =3.24.43 =h5e629aa_6
     - gts =0.7.6 =h53e17e3_4
     - gunicorn =23.0.0 =py39h6e9494a_1
-    - h2 =4.2.0 =pyhd8ed1ab_0
     - harfbuzz =12.2.0 =hc5d3ef4_0
     - hicolor-icon-theme =0.17 =h9b258c2_3
-    - hpack =4.1.0 =pyhd8ed1ab_0
     - htmlmin =0.1.12 =pyhca7485f_2
-    - hyperframe =6.1.0 =pyhd8ed1ab_0
     - hyperlink =21.0.0 =pyh29332c3_1
     - icu =75.1 =h120a0e1_0
     - idna =3.11 =pyhf9edf01_1
@@ -211,7 +208,7 @@ requirements:
     - libcrc32c =1.1.2 =he49afe7_0
     - libcurl =8.18.0 =h9348e2b_0
     - libcxx =23.1.5 =h19cb2f5_0
-    - libdeflate =1.25 =h7ad9622_1
+    - libdeflate =1.26 =hb7db194_0
     - libedit =3.1.20260512 =pl5321hba2e2ab_0
     - libev =4.33 =ha3d0635_3
     - libevent =2.1.12 =hf6fecaa_2
@@ -254,7 +251,7 @@ requirements:
     - libsqlite =3.53.4 =ha5db789_102
     - libssh2 =1.11.1 =hd53bb72_1
     - libthrift =0.22.0 =h1211f35_3
-    - libtiff =4.7.2 =h01c3a8c_1
+    - libtiff =4.7.2 =h293186d_2
     - libtorch =2.7.1 =cpu_mkl_h4ab023d_104
     - libutf8proc =2.11.3 =hc282952_0
     - libuv =1.52.1 =ha3d0635_1
@@ -425,7 +422,7 @@ requirements:
     - ujson =5.10.0 =py39h7c0e7c0_1
     - umap-learn =0.5.9.post2 =py39h6e9494a_0
     - unicodedata2 =16.0.0 =py39h80efdc8_0
-    - urllib3 =2.5.0 =pyhd8ed1ab_0
+    - urllib3 =1.26.19 =pyhd8ed1ab_0
     - visions =0.7.1 =pyhd8ed1ab_0
     - w3lib =2.3.1 =pyhd8ed1ab_0
     - wasabi =1.1.3 =pyhd8ed1ab_1
@@ -447,7 +444,6 @@ requirements:
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zlib =1.3.2 =hbb4bfdb_3
     - zope.interface =7.2 =py39h80efdc8_0
-    - zstandard =0.23.0 =py39hb1cfd32_3
     - zstd =1.5.7 =hbc1a06c_7
 
 about:
