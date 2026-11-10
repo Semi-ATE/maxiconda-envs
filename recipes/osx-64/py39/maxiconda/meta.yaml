@@ -140,8 +140,8 @@ requirements:
     - frozenlist =1.7.0 =py39h262b9f6_0
     - gcc_impl_osx-64 =16.2.0 =hd8ed746_7
     - gfortran_impl_osx-64 =16.2.0 =h51020b9_7
-    - glib =2.90.1 =hb8a80a9_0
-    - glib-tools =2.90.1 =h2cf9c05_0
+    - glib =2.90.1 =h2f36a68_1
+    - glib-tools =2.90.1 =h0fefcc2_1
     - gmp =6.3.0 =h65442b7_3
     - gmpy2 =2.2.1 =py39h127c8af_0
     - graphite2 =1.3.15 =h2fb4741_1
@@ -212,7 +212,7 @@ requirements:
     - libgettextpo =0.25.1 =h98e67c8_2
     - libgfortran =16.2.0 =h7e5c614_7
     - libgfortran5 =16.2.0 =h2539e6c_7
-    - libglib =2.90.1 =h7e55108_0
+    - libglib =2.90.1 =h0c90e38_1
     - libharfbuzz =15.0.0 =h2974713_0
     - libharfbuzz-devel =15.0.0 =h2974713_0
     - libiconv =1.18 =h4ae439b_3
@@ -232,7 +232,7 @@ requirements:
     - libpango =1.58.2 =hb06761d_3
     - libpango-devel =1.58.2 =h432f75e_3
     - libpng =1.6.59 =h4382c61_0
-    - libpq =18.6 =h58a6bad_3
+    - libpq =18.6 =h58a6bad_4
     - libpsl =0.23.1 =h7ff43d8_1
     - libsigtool =0.1.3 =h8c25ef7_1
     - libsodium =1.0.18 =hbcb3906_1
@@ -242,7 +242,7 @@ requirements:
     - libuv =1.52.1 =ha3d0635_1
     - libvorbis =1.3.7 =ha059160_2
     - libwebp-base =1.6.0 =hb276fe9_1
-    - libxcb =1.17.0 =h2478c6c_1
+    - libxcb =1.17.0 =h2478c6c_3
     - libxml2 =2.15.4 =hb56241c_1
     - libxml2-16 =2.15.4 =h8376fb4_1
     - libzlib =1.3.2 =hbb4bfdb_3
