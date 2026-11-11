@@ -51,7 +51,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.11.9 =py312ha053593_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.99.1 =h2d846b0_0
+    - rust =1.99.1 =hc99db57_1
     - scipy =1.18.1 =py312h84b0c4e_2
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.7 =unix_pyh707e725_0
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 531 secondary packages :
+    # 532 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
@@ -104,9 +104,9 @@ requirements:
     - clang-23 =23.1.4 =default_hde1afa0_1
     - clang-scan-deps =23.1.4 =default_h8bbc02d_1
     - clang_impl_osx-arm64 =23.1.4 =default_h8bbc02d_1
-    - clang_osx-arm64 =23.1.4 =h2adb7b3_35
+    - clang_osx-arm64 =23.1.4 =h2adb7b3_36
     - clangxx_impl_osx-arm64 =23.1.4 =default_h8b65321_1
-    - clangxx_osx-arm64 =23.1.4 =h2adb7b3_35
+    - clangxx_osx-arm64 =23.1.4 =h2adb7b3_36
     - click =8.4.1 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -115,12 +115,13 @@ requirements:
     - compiler-rt23 =23.1.4 =hdb3d66b_0
     - compiler-rt23_osx-arm64 =23.1.4 =hb8825d9_0
     - compiler-rt_osx-arm64 =23.1.4 =hce30654_0
-    - conda =26.9.4 =py312h90648fe_1
+    - conda =26.10.0 =py312h90648fe_1
     - conda-index =0.13.0 =pyh5ded981_0
     - conda-libmamba-solver =26.10.1 =pyh5ded981_0
     - conda-lockfiles =0.2.2 =pyhd8ed1ab_0
     - conda-package-handling =2.6.0 =pyh5ded981_0
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
+    - conda-pycosat-solver =26.10.0 =pyh5ded981_0
     - conda-pypi =0.13.0 =pyh5ded981_1
     - conda-rattler-solver =26.10.2 =pyh5ded981_0
     - conda-recipe-manager =0.10.6 =pyhd8ed1ab_1
@@ -143,7 +144,7 @@ requirements:
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
-    - font-ttf-ubuntu =0.83 =h77eed37_3
+    - font-ttf-ubuntu =0.83 =h77eed37_4
     - fontconfig =2.18.3 =h81aa574_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
@@ -184,7 +185,7 @@ requirements:
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.20.1 =pyh5ded981_0
     - json5 =0.17.3 =pyhd8ed1ab_0
-    - jsonpointer =3.10 =pyh5ded981_0
+    - jsonpointer =3.11 =pyh5ded981_0
     - jsonschema =4.26.0 =pyhcf101f3_1
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_1
@@ -545,7 +546,7 @@ requirements:
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
     - ruamel.yaml.clib =0.2.15 =py312hbd136b4_5
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-aarch64-apple-darwin =1.99.1 =h451e77e_0
+    - rust-std-aarch64-apple-darwin =1.99.1 =h4899003_1
     - sdkroot_env_osx-arm64 =26.0 =ha3f98da_7
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =84.2.1 =pyhe730653_0

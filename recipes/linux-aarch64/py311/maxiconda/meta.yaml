@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.11.9 =py311h5a00dd8_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.99.1 =h9371fc6_0
+    - rust =1.99.1 =hfa1fd44_1
     - scipy =1.17.1 =py311had2d2e4_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.7 =unix_pyh707e725_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 565 secondary packages :
+    # 566 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
@@ -104,12 +104,13 @@ requirements:
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - conda =26.9.4 =py311he98b269_1
+    - conda =26.10.0 =py311he98b269_1
     - conda-index =0.13.0 =pyh5ded981_0
     - conda-libmamba-solver =26.10.1 =pyh5ded981_0
     - conda-lockfiles =0.2.2 =pyhd8ed1ab_0
     - conda-package-handling =2.6.0 =pyh5ded981_0
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
+    - conda-pycosat-solver =26.10.0 =pyh5ded981_0
     - conda-pypi =0.13.0 =pyh5ded981_1
     - conda-rattler-solver =26.10.2 =pyh5ded981_0
     - conda-recipe-manager =0.10.6 =pyhd8ed1ab_1
@@ -134,7 +135,7 @@ requirements:
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
-    - font-ttf-ubuntu =0.83 =h77eed37_3
+    - font-ttf-ubuntu =0.83 =h77eed37_4
     - fontconfig =2.18.3 =ha4b22b4_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
@@ -177,7 +178,7 @@ requirements:
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.20.1 =pyh5ded981_0
     - json5 =0.17.3 =pyhd8ed1ab_0
-    - jsonpointer =3.10 =pyh5ded981_0
+    - jsonpointer =3.11 =pyh5ded981_0
     - jsonschema =4.26.0 =pyhcf101f3_1
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_1
@@ -208,8 +209,8 @@ requirements:
     - libcap =2.78 =hfcc8634_1
     - libcblas =3.11.0 =12_hd72aa62_openblas
     - libclang-cpp22.1 =22.1.8 =default_h01b09c7_11
-    - libclang-cpp23.1 =23.1.4 =default_h01b09c7_1
-    - libclang13 =23.1.4 =default_h807fe02_1
+    - libclang-cpp23.1 =23.1.5 =default_h01b09c7_0
+    - libclang13 =23.1.5 =default_h8d1ab40_0
     - libcups =2.3.3 =h4f2b762_6
     - libcurl =8.23.0 =h86273da_0
     - libdeflate =1.26 =h25425e3_0
@@ -557,7 +558,7 @@ requirements:
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
     - ruamel.yaml.clib =0.2.15 =py311h0de9f98_5
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-aarch64-unknown-linux-gnu =1.99.1 =hb0489cc_0
+    - rust-std-aarch64-unknown-linux-gnu =1.99.1 =hb0489cc_1
     - sed =4.10 =he1c5539_0
     - send2trash =2.1.0 =pyha191276_1
     - setuptools =84.2.1 =pyhe730653_0

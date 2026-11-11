@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.11.9 =py312h6ea13a3_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.99.1 =hef57cd2_0
+    - rust =1.99.1 =h2b8025e_1
     - scipy =1.18.1 =py312h81fa79e_2
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.7 =unix_pyh707e725_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 531 secondary packages :
+    # 530 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
@@ -95,19 +95,17 @@ requirements:
     - cached-property =2.0.1 =pyhcf101f3_0
     - cached_property =2.0.1 =pyhcf101f3_0
     - cairo =1.18.6 =h5791faa_0
-    - cctools =1030.6.3 =llvm23_1_h254e556_7
     - cctools_impl_osx-64 =1030.6.3 =llvm23_1_h3bd330e_7
     - cctools_osx-64 =1030.6.3 =llvm23_1_h254e556_7
     - certifi =2026.10.23 =pyhd8ed1ab_3
     - cffi =2.1.1 =py312ha4ebf3d_3
     - charset-normalizer =3.5.2 =hd77389f_0
-    - clang =23.1.4 =default_cfg_h72d5512_1
     - clang-23 =23.1.4 =default_h4ef152c_1
     - clang-scan-deps =23.1.4 =default_hae96fce_1
     - clang_impl_osx-64 =23.1.4 =default_hae96fce_1
-    - clang_osx-64 =23.1.4 =hcd2a5eb_35
+    - clang_osx-64 =23.1.4 =hcd2a5eb_36
     - clangxx_impl_osx-64 =23.1.4 =default_hd505f51_1
-    - clangxx_osx-64 =23.1.4 =hcd2a5eb_35
+    - clangxx_osx-64 =23.1.4 =hcd2a5eb_36
     - click =8.4.1 =pyhc90fa1f_0
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -116,12 +114,13 @@ requirements:
     - compiler-rt23 =23.1.4 =h8c1e6b9_0
     - compiler-rt23_osx-64 =23.1.4 =h8d5f570_0
     - compiler-rt_osx-64 =23.1.4 =h694c41f_0
-    - conda =26.9.4 =py312h2f7fbfc_1
+    - conda =26.10.0 =py312h2f7fbfc_1
     - conda-index =0.13.0 =pyh5ded981_0
     - conda-libmamba-solver =26.10.1 =pyh5ded981_0
     - conda-lockfiles =0.2.2 =pyhd8ed1ab_0
     - conda-package-handling =2.6.0 =pyh5ded981_0
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
+    - conda-pycosat-solver =26.10.0 =pyh5ded981_0
     - conda-pypi =0.13.0 =pyh5ded981_1
     - conda-rattler-solver =26.10.2 =pyh5ded981_0
     - conda-recipe-manager =0.10.6 =pyhd8ed1ab_1
@@ -144,7 +143,7 @@ requirements:
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
-    - font-ttf-ubuntu =0.83 =h77eed37_3
+    - font-ttf-ubuntu =0.83 =h77eed37_4
     - fontconfig =2.18.3 =h7f3b9c9_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
@@ -154,8 +153,7 @@ requirements:
     - fribidi =1.0.18 =hd115831_0
     - frozendict =2.5.0 =pyhb5810a6_0
     - frozenlist =1.8.0 =py312h83c7783_1
-    - gcc_impl_osx-64 =16.2.0 =hd8ed746_7
-    - gfortran_impl_osx-64 =16.2.0 =h51020b9_7
+    - gfortran_impl_osx-64 =15.1.0 =h38112e1_0
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.2.1 =pyh5ded981_0
     - glib =2.90.1 =h2f36a68_1
@@ -182,10 +180,11 @@ requirements:
     - iniconfig =2.3.1 =pyhd8ed1ab_0
     - ipykernel =6.31.0 =pyh5552912_0
     - ipython_pygments_lexers =1.1.1 =pyhd8ed1ab_0
+    - isl =0.26 =imath32_h2e86a7b_101
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.20.1 =pyh5ded981_0
     - json5 =0.17.3 =pyhd8ed1ab_0
-    - jsonpointer =3.10 =pyh5ded981_0
+    - jsonpointer =3.11 =pyh5ded981_0
     - jsonschema =4.26.0 =pyhcf101f3_1
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_1
@@ -203,7 +202,6 @@ requirements:
     - krb5 =1.22.2 =h69064fd_2
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.20 =h4e6bd4b_0
-    - ld64 =956.6 =llvm23_1_h0b736ef_7
     - ld64_osx-64 =956.6 =llvm23_1_h484b24f_7
     - lerc =4.3.0 =h64318d8_0
     - libarchive =3.8.11 =gpl_h381e297_100
@@ -229,9 +227,9 @@ requirements:
     - libfreetype =2.14.3 =h694c41f_2
     - libfreetype6 =2.14.3 =h8afe040_2
     - libgcc =16.2.0 =h13771c8_7
-    - libgcc-devel_osx-64 =16.2.0 =h94c7937_107
     - libgettextpo =0.25.1 =h98e67c8_2
     - libgfortran =16.2.0 =h7e5c614_7
+    - libgfortran-devel_osx-64 =15.1.0 =h5f6db21_1
     - libgfortran5 =16.2.0 =h2539e6c_7
     - libglib =2.90.1 =h0c90e38_1
     - libharfbuzz =15.0.0 =h2974713_0
@@ -242,7 +240,7 @@ requirements:
     - libjpeg-turbo =3.2.1 =hd115831_0
     - liblapack =3.11.0 =12_h859234e_openblas
     - libllvm18 =18.1.8 =default_h9399c5b_12
-    - libllvm23 =23.1.4 =hd11396f_1
+    - libllvm23 =23.1.5 =hd11396f_0
     - liblzma =5.8.3 =hbb4bfdb_1
     - libmamba =2.10.0 =py312h050b6f0_3
     - libmamba-spdlog =2.10.0 =hfa81247_3
@@ -274,8 +272,8 @@ requirements:
     - libxml2-16 =2.15.4 =h8376fb4_1
     - libzlib =1.3.2 =hbb4bfdb_3
     - llvm-openmp =23.1.5 =h8c1e6b9_0
-    - llvm-tools =23.1.4 =h8c1e6b9_1
-    - llvm-tools-23 =23.1.4 =h36529c3_1
+    - llvm-tools =23.1.5 =h8c1e6b9_0
+    - llvm-tools-23 =23.1.5 =h36529c3_0
     - llvmlite =0.50.0 =py312hfe0b5f7_0
     - lz4-c =1.10.0 =hc569e58_2
     - lzo =2.10 =had63097_1003
@@ -546,7 +544,7 @@ requirements:
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
     - ruamel.yaml.clib =0.2.15 =py312hdc27ec5_5
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-x86_64-apple-darwin =1.99.1 =hd192811_0
+    - rust-std-x86_64-apple-darwin =1.99.1 =h9cb622b_1
     - sdkroot_env_osx-64 =26.0 =h62b880e_7
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =84.2.1 =pyhe730653_0
@@ -594,6 +592,7 @@ requirements:
     - yarl =1.25.1 =py312hbb2d1fb_0
     - zeromq =4.3.5 =h5dbc3f3_12
     - zipp =4.1.2 =pyh5ded981_0
+    - zlib =1.3.2 =hbb4bfdb_3
     - zlib-ng =2.3.3 =h646e873_1
     - zstd =1.5.7 =hbc1a06c_7
 

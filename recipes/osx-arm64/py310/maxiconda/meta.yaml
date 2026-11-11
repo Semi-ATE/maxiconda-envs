@@ -51,7 +51,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.8.31 =py310ha554fa8_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.99.1 =h2d846b0_0
+    - rust =1.99.1 =hc99db57_1
     - scipy =1.15.2 =py310h32ab4ed_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.7 =unix_pyh707e725_0
@@ -101,9 +101,9 @@ requirements:
     - clang-23 =23.1.4 =default_hde1afa0_1
     - clang-scan-deps =23.1.4 =default_h8bbc02d_1
     - clang_impl_osx-arm64 =23.1.4 =default_h8bbc02d_1
-    - clang_osx-arm64 =23.1.4 =h2adb7b3_35
+    - clang_osx-arm64 =23.1.4 =h2adb7b3_36
     - clangxx_impl_osx-arm64 =23.1.4 =default_h8b65321_1
-    - clangxx_osx-arm64 =23.1.4 =h2adb7b3_35
+    - clangxx_osx-arm64 =23.1.4 =h2adb7b3_36
     - cloudpickle =3.1.2 =pyhcf101f3_1
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
@@ -126,7 +126,7 @@ requirements:
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
-    - font-ttf-ubuntu =0.83 =h77eed37_3
+    - font-ttf-ubuntu =0.83 =h77eed37_4
     - fontconfig =2.18.3 =h81aa574_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
@@ -501,7 +501,7 @@ requirements:
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
     - ruamel.yaml.clib =0.2.15 =py310hbbcf1ca_3
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-aarch64-apple-darwin =1.99.1 =h451e77e_0
+    - rust-std-aarch64-apple-darwin =1.99.1 =h4899003_1
     - sdkroot_env_osx-arm64 =26.0 =ha3f98da_7
     - send2trash =2.1.0 =pyh5552912_1
     - setuptools =84.0.0 =pyh332efcf_0

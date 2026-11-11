@@ -52,7 +52,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.8.31 =py310h212bed1_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.99.1 =h5387ef0_0
+    - rust =1.99.1 =h6344a40_1
     - scipy =1.15.2 =py310h1d65ade_0
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.7 =unix_pyh707e725_0
@@ -119,7 +119,7 @@ requirements:
     - font-ttf-dejavu-sans-mono =2.37 =hab24e00_0
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
-    - font-ttf-ubuntu =0.83 =h77eed37_3
+    - font-ttf-ubuntu =0.83 =h77eed37_4
     - fontconfig =2.18.3 =h4db4eae_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
@@ -187,8 +187,8 @@ requirements:
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =12_h0358290_openblas
     - libclang-cpp22.1 =22.1.8 =default_h0acdd01_11
-    - libclang-cpp23.1 =23.1.4 =default_h0acdd01_1
-    - libclang13 =23.1.4 =default_h6e6c352_1
+    - libclang-cpp23.1 =23.1.5 =default_h0acdd01_0
+    - libclang13 =23.1.5 =default_h782a7a8_0
     - libcups =2.3.3 =h7a8fb5f_6
     - libcurl =8.23.0 =ha042cf0_0
     - libdeflate =1.26 =h351257e_0
@@ -517,7 +517,7 @@ requirements:
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
     - ruamel.yaml.clib =0.2.15 =py310h83e8816_3
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-x86_64-unknown-linux-gnu =1.99.1 =h480d76f_0
+    - rust-std-x86_64-unknown-linux-gnu =1.99.1 =h480d76f_1
     - sed =4.10 =h19d0853_0
     - send2trash =2.1.0 =pyha191276_1
     - setuptools =84.0.0 =pyh332efcf_0
