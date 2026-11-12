@@ -185,7 +185,7 @@ requirements:
     - isoduration =20.11.0 =pyhd8ed1ab_1
     - jedi =0.20.1 =pyh5ded981_0
     - json5 =0.17.3 =pyhd8ed1ab_0
-    - jsonpointer =3.11 =pyh5ded981_0
+    - jsonpointer =3.12 =pyh5ded981_0
     - jsonschema =4.26.0 =pyhcf101f3_1
     - jsonschema-specifications =2025.9.1 =pyhcf101f3_0
     - jsonschema-with-format-nongpl =4.26.0 =hcf101f3_1
@@ -206,7 +206,7 @@ requirements:
     - ld64 =956.6 =llvm23_1_hd841b0c_7
     - ld64_osx-arm64 =956.6 =llvm23_1_hc8058f9_7
     - lerc =4.3.0 =h0699d0c_0
-    - libarchive =3.8.11 =gpl_h76147b0_100
+    - libarchive =3.8.11 =gpl_h54b43b9_101
     - libasprintf =0.25.1 =hae62183_2
     - libblas =3.11.0 =12_h51639a9_openblas
     - libbrotlicommon =1.2.1 =h1dcdb26_0
@@ -256,7 +256,7 @@ requirements:
     - libpango =1.58.2 =hc2ac4f2_3
     - libpango-devel =1.58.2 =haa2d88b_3
     - libpng =1.6.59 =hf5e6511_0
-    - libpq =18.6 =h0a198e3_4
+    - libpq =18.6 =h0a198e3_5
     - libpsl =0.23.1 =hdb0c161_1
     - libpython =3.12.16 =h0677fcb_0_cpython
     - libraqm =0.11.0 =h45af499_0
@@ -277,7 +277,7 @@ requirements:
     - llvm-tools =23.1.4 =hdb3d66b_1
     - llvm-tools-23 =23.1.4 =h79441dc_1
     - llvmlite =0.50.0 =py312ha6a25cf_0
-    - lz4-c =1.10.0 =hdca3b7d_2
+    - lz4-c =1.11.1 =ha89b795_0
     - lzo =2.10 =h74c22ad_1003
     - make =4.4.1 =h63fc045_4
     - markupsafe =3.0.4 =py312h05c94ff_4
@@ -552,7 +552,7 @@ requirements:
     - setuptools =84.2.1 =pyhe730653_0
     - sigtool-codesign =0.1.3 =h98dc951_1
     - simdjson =5.1.1 =he80e296_0
-    - sip =6.17.2 =py312h3812f11_0
+    - sip =6.17.3 =py312h3812f11_0
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.3 =pyhcf101f3_1
     - sniffio =1.3.1 =pyhd8ed1ab_2
