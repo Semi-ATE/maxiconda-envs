@@ -40,7 +40,7 @@ requirements:
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - asttokens =3.0.0 =pyhd8ed1ab_1
-    - blosc =1.21.7 =h12952c6_1
+    - blosc =1.21.7 =h8d774de_2
     - brotli =1.2.1 =hc8c2fe1_0
     - brotli-bin =1.2.1 =hd477307_0
     - bzip2 =1.0.8 =h0ad9c76_10
@@ -144,7 +144,7 @@ requirements:
     - libzip =1.12.1 =h0ac0a2c_0
     - libzlib =1.3.2 =hfd05255_3
     - llvm-openmp =23.1.5 =h49e36cd_0
-    - lz4-c =1.10.0 =h6a83c73_2
+    - lz4-c =1.11.1 =h6a83c73_0
     - matplotlib-base =3.9.4 =py39h5376392_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mda-xdrlib =0.2.0 =pyhd8ed1ab_1
@@ -199,7 +199,7 @@ requirements:
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.10.0 =py39ha51f57c_0
     - six =1.17.0 =pyhe01879c_1
-    - snappy =1.3.1 =h7fa0ca8_0
+    - snappy =1.3.1 =h89e5941_1
     - sqlalchemy =2.0.43 =py39h0802e32_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - statsmodels =0.14.5 =py39h9e4d2f2_0
