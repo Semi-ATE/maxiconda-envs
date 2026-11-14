@@ -51,7 +51,7 @@ requirements:
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.11.9 =py311h5edb25e_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.99.1 =hc99db57_1
+    - rust =1.100.0 =hfca65a3_0
     - scipy =1.17.1 =py311h9a58382_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.7 =unix_pyh707e725_0
@@ -63,7 +63,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 532 secondary packages :
+    # 530 secondary packages :
     - _openmp_mutex =4.5 =8_kmp_llvm
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
@@ -86,7 +86,6 @@ requirements:
     - boltons =26.2.0 =pyhd8ed1ab_0
     - brotli =1.2.1 =hf00d406_0
     - brotli-bin =1.2.1 =he4a93e4_0
-    - brotli-python =1.2.1 =py311h9fb86b2_0
     - bwidget =1.10.1 =h820172f_3
     - bzip2 =1.0.8 =h4e30115_10
     - c-ares =1.34.9 =h74c22ad_0
@@ -123,7 +122,7 @@ requirements:
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
     - conda-pycosat-solver =26.10.0 =pyh5ded981_0
     - conda-pypi =0.13.0 =pyh5ded981_1
-    - conda-rattler-solver =26.10.2 =pyh5ded981_0
+    - conda-rattler-solver =26.11.0 =pyh5ded981_0
     - conda-recipe-manager =0.10.6 =pyhd8ed1ab_1
     - conda-self =0.3.0 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
@@ -218,9 +217,9 @@ requirements:
     - libclang13 =23.1.4 =default_hde1afa0_1
     - libcompiler-rt =23.1.4 =hdb3d66b_0
     - libcurl =8.23.0 =h6651222_0
-    - libcxx =23.1.5 =h55c6f16_0
-    - libcxx-devel =23.1.5 =h6dc3340_0
-    - libcxx-headers =23.1.5 =h707e725_0
+    - libcxx =23.1.5 =hc645fd0_2
+    - libcxx-devel =23.1.5 =h6dc3340_2
+    - libcxx-headers =23.1.5 =h707e725_2
     - libdeflate =1.26 =h72bfca4_0
     - libedit =3.1.20260512 =pl5321h26f1114_0
     - libev =4.33 =h1a92334_3
@@ -337,7 +336,6 @@ requirements:
     - pyparsing =3.3.3 =pyh5ded981_0
     - pyproject_hooks =1.3.3 =pyhd8ed1ab_0
     - pyqt5-sip =12.17.0 =py311h251fd82_2
-    - pysocks =1.7.1 =pyha55dd90_7
     - python-abi3 =3.11 =ha8785bc_3
     - python-build =1.6.1 =pyhc364b38_0
     - python-dateutil =4.0.0 =pyh5ded981_0
@@ -346,7 +344,7 @@ requirements:
     - python-installer =1.1.0 =pyhe730653_0
     - python-json-logger =4.2.0 =pyhd8ed1ab_0
     - python-tzdata =2026.6 =pyh5ded981_0
-    - python-utils =4.2.1 =pyhe730653_0
+    - python-utils =4.2.2 =pyhe730653_0
     - python_abi =3.11 =9_cp311
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.3.0 =py311h988a133_0
@@ -546,7 +544,7 @@ requirements:
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
     - ruamel.yaml.clib =0.2.15 =py311hd322c8c_5
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-aarch64-apple-darwin =1.99.1 =h4899003_1
+    - rust-std-aarch64-apple-darwin =1.100.0 =h4899003_0
     - sdkroot_env_osx-arm64 =26.0 =ha3f98da_7
     - send2trash =2.2.0 =pyhd24e8f7_0
     - setuptools =84.2.1 =pyhe730653_0
@@ -580,7 +578,7 @@ requirements:
     - unearth =0.19.0 =pyhd8ed1ab_0
     - unicodedata2 =18.0.0 =py311h5edb25e_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
-    - urllib3 =2.8.0 =pyhd8ed1ab_0
+    - urllib3 =2.8.0 =pyh5ded981_1
     - wcwidth =0.9.4 =py311h8794d7f_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.6.1 =pyh5ded981_0

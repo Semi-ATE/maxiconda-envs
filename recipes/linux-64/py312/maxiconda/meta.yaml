@@ -48,11 +48,11 @@ requirements:
     - pyyaml =6.0.3 =py312h7575043_3
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qtawesome =1.4.2 =pyh9208f05_0
-    - r-base =4.5.3 =hd767689_5
+    - r-base =4.5.3 =hd9d65d3_6
     - r-essentials =4.5 =r45hd8ed1ab_2006
     - regex =2026.11.9 =py312h5cc1888_0
     - requests =2.34.2 =pyhcf101f3_0
-    - rust =1.99.1 =h6344a40_1
+    - rust =1.100.0 =h4b5dc2e_0
     - scipy =1.18.1 =py312h106c528_2
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.7 =unix_pyh707e725_0
@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 566 secondary packages :
+    # 564 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
@@ -89,7 +89,6 @@ requirements:
     - boltons =26.2.0 =pyhd8ed1ab_0
     - brotli =1.2.1 =h505cf86_0
     - brotli-bin =1.2.1 =h9908984_0
-    - brotli-python =1.2.1 =py312he9c40d5_0
     - bwidget =1.10.1 =hfc2019e_3
     - bzip2 =1.0.8 =hda65f42_10
     - c-ares =1.34.9 =hebe6cf0_0
@@ -112,7 +111,7 @@ requirements:
     - conda-package-streaming =0.13.0 =pyhd8ed1ab_0
     - conda-pycosat-solver =26.10.0 =pyh5ded981_0
     - conda-pypi =0.13.0 =pyh5ded981_1
-    - conda-rattler-solver =26.10.2 =pyh5ded981_0
+    - conda-rattler-solver =26.11.0 =pyh5ded981_0
     - conda-recipe-manager =0.10.6 =pyhd8ed1ab_1
     - conda-self =0.3.0 =pyhd8ed1ab_0
     - conda-souschef =3.0.1 =pyhd8ed1ab_0
@@ -150,8 +149,8 @@ requirements:
     - gfortran_impl_linux-64 =16.2.0 =hf930d89_7
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.2.1 =pyh5ded981_0
-    - glib =2.90.1 =h8360e1e_1
-    - glib-tools =2.90.1 =h5f1ffbb_1
+    - glib =2.90.1 =h5da5b1f_3
+    - glib-tools =2.90.1 =h876c321_3
     - gmp =6.3.0 =hfd2156b_3
     - gmpy2 =2.3.2 =py312h04c1168_0
     - graphite2 =1.3.15 =h54a6638_1
@@ -232,7 +231,7 @@ requirements:
     - libgfortran5 =16.2.0 =h6b99dfc_7
     - libgl =1.7.0 =ha4b6fd6_5
     - libgl-devel =1.7.0 =ha4b6fd6_5
-    - libglib =2.90.1 =h569388d_1
+    - libglib =2.90.1 =hb382ddc_3
     - libglvnd =1.7.0 =ha4b6fd6_5
     - libglx =1.7.0 =ha4b6fd6_5
     - libglx-devel =1.7.0 =ha4b6fd6_5
@@ -321,7 +320,7 @@ requirements:
     - pandocfilters =1.5.1 =pyh5ded981_0
     - pango =1.58.2 =h2f58602_3
     - parso =0.8.7 =pyhcf101f3_0
-    - pcre2 =10.47 =h8b3dc9c_1
+    - pcre2 =10.49 =h8b3dc9c_0
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pillow =13.0.0 =py312h38079b3_0
     - pip =26.2.2 =pyh8b19718_2
@@ -348,7 +347,6 @@ requirements:
     - pyproject_hooks =1.3.3 =pyhd8ed1ab_0
     - pyqt5-sip =12.17.0 =py312h1289d80_2
     - pyside6 =6.11.3 =py312hf520645_0
-    - pysocks =1.7.1 =pyha55dd90_7
     - python-abi3 =3.12 =he1d15d4_3
     - python-build =1.6.1 =pyhc364b38_0
     - python-dateutil =4.0.0 =pyh5ded981_0
@@ -357,13 +355,13 @@ requirements:
     - python-installer =1.1.0 =pyhe730653_0
     - python-json-logger =4.2.0 =pyhd8ed1ab_0
     - python-tzdata =2026.6 =pyh5ded981_0
-    - python-utils =4.2.1 =pyhe730653_0
+    - python-utils =4.2.2 =pyhe730653_0
     - python_abi =3.12 =9_cp312
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =27.3.0 =py312h8a5ba0d_0
     - qhull =2020.2 =haf43d43_6
     - qt-main =5.15.15 =h0c412b5_8
-    - qt6-main =6.11.3 =pl5321hcf69127_0
+    - qt6-main =6.11.3 =pl5321hb5a8836_1
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r45h54b55ab_1
     - r-assertthat =0.2.1 =r45hc72bb7e_6
@@ -558,7 +556,7 @@ requirements:
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
     - ruamel.yaml.clib =0.2.15 =py312h1b36aeb_5
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
-    - rust-std-x86_64-unknown-linux-gnu =1.99.1 =h480d76f_1
+    - rust-std-x86_64-unknown-linux-gnu =1.100.0 =h480d76f_0
     - sed =4.10 =h19d0853_0
     - send2trash =2.2.0 =pyh4a3486f_0
     - setuptools =84.2.1 =pyhe730653_0
@@ -591,7 +589,7 @@ requirements:
     - unearth =0.19.0 =pyhd8ed1ab_0
     - unicodedata2 =18.0.0 =py312h5cc1888_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
-    - urllib3 =2.8.0 =pyhd8ed1ab_0
+    - urllib3 =2.8.0 =pyh5ded981_1
     - wayland =1.26.0 =hc1c935e_2
     - wcwidth =0.9.4 =py311hd139983_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
