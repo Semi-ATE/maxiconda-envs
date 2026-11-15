@@ -97,21 +97,21 @@ requirements:
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h7f933ea_0
     - charset-normalizer =3.4.3 =pyhd8ed1ab_0
-    - clang =23.1.4 =default_cfg_h10b8b15_1
-    - clang-23 =23.1.4 =default_hde1afa0_1
-    - clang-scan-deps =23.1.4 =default_h8bbc02d_1
-    - clang_impl_osx-arm64 =23.1.4 =default_h8bbc02d_1
-    - clang_osx-arm64 =23.1.4 =h2adb7b3_36
-    - clangxx_impl_osx-arm64 =23.1.4 =default_h8b65321_1
-    - clangxx_osx-arm64 =23.1.4 =h2adb7b3_36
+    - clang =23.1.5 =default_cfg_hb04f594_0
+    - clang-23 =23.1.5 =default_hf8b46ca_0
+    - clang-scan-deps =23.1.5 =default_h8bbc02d_0
+    - clang_impl_osx-arm64 =23.1.5 =default_h8bbc02d_0
+    - clang_osx-arm64 =23.1.5 =h625b1b7_36
+    - clangxx_impl_osx-arm64 =23.1.5 =default_h6f19a3d_0
+    - clangxx_osx-arm64 =23.1.5 =h625b1b7_36
     - click =8.1.8 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
     - comm =0.2.3 =pyhe01879c_0
-    - compiler-rt =23.1.4 =hce30654_0
-    - compiler-rt23 =23.1.4 =hdb3d66b_0
-    - compiler-rt23_osx-arm64 =23.1.4 =hb8825d9_0
-    - compiler-rt_osx-arm64 =23.1.4 =hce30654_0
+    - compiler-rt =23.1.5 =hce30654_0
+    - compiler-rt23 =23.1.5 =hdb3d66b_0
+    - compiler-rt23_osx-arm64 =23.1.5 =hb8825d9_0
+    - compiler-rt_osx-arm64 =23.1.5 =hce30654_0
     - conda-souschef =2.2.3 =pyhd8ed1ab_1
     - contourpy =1.3.0 =py39h85b62ae_2
     - cpython =3.9.23 =py39hd8ed1ab_0
@@ -191,9 +191,9 @@ requirements:
     - libbrotlienc =1.2.1 =h2ddc9cb_0
     - libcblas =3.11.0 =12_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
-    - libclang-cpp23.1 =23.1.4 =default_h8bbc02d_1
-    - libclang13 =23.1.4 =default_hde1afa0_1
-    - libcompiler-rt =23.1.4 =hdb3d66b_0
+    - libclang-cpp23.1 =23.1.5 =default_h8bbc02d_0
+    - libclang13 =23.1.5 =default_hf8b46ca_0
+    - libcompiler-rt =23.1.5 =hdb3d66b_0
     - libcurl =8.23.0 =h6651222_0
     - libcxx =23.1.5 =hc645fd0_2
     - libcxx-devel =23.1.5 =h6dc3340_2
@@ -220,7 +220,7 @@ requirements:
     - liblapack =3.11.0 =12_hd9741b5_openblas
     - libllvm14 =14.0.6 =hd1a9a77_4
     - libllvm18 =18.1.8 =default_h8e162e0_12
-    - libllvm23 =23.1.4 =h759d1ac_1
+    - libllvm23 =23.1.5 =h759d1ac_0
     - liblzma =5.8.3 =h8088a28_1
     - libnghttp2 =1.71.0 =h29223de_0
     - libntlm =1.8 =h5505292_0
@@ -245,15 +245,15 @@ requirements:
     - libxml2-16 =2.15.4 =heb56d2d_1
     - libzlib =1.3.2 =h8088a28_3
     - llvm-openmp =23.1.5 =hdb3d66b_0
-    - llvm-tools =23.1.4 =hdb3d66b_1
-    - llvm-tools-23 =23.1.4 =h79441dc_1
+    - llvm-tools =23.1.5 =hdb3d66b_0
+    - llvm-tools-23 =23.1.5 =h79441dc_0
     - llvmlite =0.43.0 =py39h05480be_1
     - make =4.4.1 =h63fc045_4
     - markupsafe =3.0.2 =py39hefdd603_1
     - matplotlib-base =3.9.4 =py39h7251d6c_0
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_1
     - mistune =3.1.3 =pyh29332c3_0
-    - mpc =1.4.0 =h071a35a_1
+    - mpc =1.4.1 =h071a35a_0
     - mpfr =4.2.2 =h72846b0_1
     - mpmath =1.3.0 =pyhd8ed1ab_1
     - multidict =6.6.3 =py39hafbbd28_0
@@ -363,7 +363,7 @@ requirements:
     - r-future.apply =1.21.0 =r45hacb3a79_0
     - r-gargle =1.7.0 =r45h9cad52b_0
     - r-generics =0.1.4 =r45hc72bb7e_1
-    - r-ggplot2 =4.0.3 =r45h785f33e_0
+    - r-ggplot2 =4.0.4 =r45h9cad52b_0
     - r-gistr =0.9.0 =r45hc72bb7e_4
     - r-glmnet =5.0 =r45h87f5d4e_0
     - r-globals =0.20.0 =r45hacb3a79_0

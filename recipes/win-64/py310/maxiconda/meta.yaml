@@ -114,7 +114,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_4
-    - fontconfig =2.18.3 =hd47e2ca_1
+    - fontconfig =2.18.3 =hd47e2ca_2
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py310hdb0e946_0
@@ -333,7 +333,7 @@ requirements:
     - r-future.apply =1.21.0 =r45hacb3a79_0
     - r-gargle =1.7.0 =r45h9cad52b_0
     - r-generics =0.1.4 =r45hc72bb7e_1
-    - r-ggplot2 =4.0.3 =r45h785f33e_0
+    - r-ggplot2 =4.0.4 =r45h9cad52b_0
     - r-gistr =0.9.0 =r45hc72bb7e_4
     - r-glmnet =5.0 =r45hf64fc22_0
     - r-globals =0.20.0 =r45hacb3a79_0
@@ -483,7 +483,7 @@ requirements:
     - soupsieve =2.9.2 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
-    - tbb =2023.1.0 =h272cf33_2
+    - tbb =2023.1.0 =h272cf33_3
     - terminado =0.18.1 =pyh6dadd2b_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =h967ab96_4
@@ -502,10 +502,10 @@ requirements:
     - unicodedata2 =17.0.1 =py310h29418f3_0
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.5.0 =pyhd8ed1ab_0
-    - vc =14.5 =hda273ae_43
-    - vc14_runtime =14.51.36247 =h072b54c_43
-    - vcomp14 =14.51.36247 =h1c3f1cb_43
-    - vs2015_runtime =14.51.36247 =hda273ae_43
+    - vc =14.5 =hda273ae_44
+    - vc14_runtime =14.51.36247 =hb06f545_44
+    - vcomp14 =14.51.36247 =h1c3f1cb_44
+    - vs2015_runtime =14.51.36247 =hda273ae_44
     - wcwidth =0.8.3 =pyhcf101f3_0
     - webcolors =25.10.0 =pyhd8ed1ab_0
     - webencodings =0.5.1 =pyhd8ed1ab_3
