@@ -36,7 +36,7 @@ requirements:
     - jinja2 =3.1.6 =pyhcf101f3_1
     - matplotlib =3.11.2 =py312h8e0e4fc_1
     - numba =0.68.1 =py312ha1a9051_0
-    - numpy =2.5.4 =py312ha3f287d_0
+    - numpy =2.5.5 =py312ha3f287d_0
     - openpyxl =3.1.5 =py312h83acffa_4
     - paho-mqtt =2.2.0 =pyh5ded981_0
     - pandas =3.1.1 =np2py312hea30aaf_0
@@ -50,13 +50,13 @@ requirements:
     - qtawesome =1.4.2 =pyh9208f05_0
     - r-base =4.5.3 =h8f9d46f_6
     - r-essentials =4.5 =r45hd8ed1ab_2006
-    - regex =2026.11.9 =py312he06e257_0
+    - regex =2026.11.15 =py312he06e257_0
     - requests =2.34.2 =pyhcf101f3_0
     - rust =1.100.0 =h9f373b0_0
     - scipy =1.18.1 =py312h8847828_2
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.7 =win_pyh7428d3b_0
-    - sqlalchemy =2.1.8 =py312he5662c2_0
+    - sqlalchemy =2.1.8 =py312he5662c2_1
     - sqlite =3.54.1 =hdb435a2_101
     - sympy =1.14.0 =pyh04b8f61_6
     - tqdm =4.70.1 =pyh6be1c34_0
@@ -525,7 +525,7 @@ requirements:
     - spdlog =1.17.0 =hd227c35_2
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
-    - tbb =2023.1.0 =h272cf33_3
+    - tbb =2023.1.0 =h272cf33_4
     - terminado =0.18.1 =pyh6dadd2b_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =h967ab96_4
