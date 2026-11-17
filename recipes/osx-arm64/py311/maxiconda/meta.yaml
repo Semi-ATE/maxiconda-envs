@@ -28,7 +28,7 @@ requirements:
     - aiohttp =3.14.5 =py311h6b5b731_1
     - aiomqtt =2.5.1 =pyhcf101f3_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
-    - cython =3.3.1 =py311h2f381f4_0
+    - cython =3.3.1 =py311h2f381f4_1
     - grayskull =3.2.0 =pyhc364b38_0
     - hypothesis =6.170.15 =py311h1e0e963_0
     - ipython =9.18.1 =pyh53cf698_0
@@ -39,7 +39,7 @@ requirements:
     - openpyxl =3.1.5 =py311h4be922b_4
     - paho-mqtt =2.2.0 =pyh5ded981_0
     - pandas =3.1.1 =np2py311h6ed7ffe_0
-    - psutil =7.2.2 =py311hd322c8c_3
+    - psutil =7.2.2 =py311h440b913_4
     - pydantic =2.14.3 =pyh5ded981_0
     - pyqt =5.15.11 =py311ha87f45f_2
     - pyserial =3.5 =pyhcf101f3_2
@@ -80,12 +80,12 @@ requirements:
     - async-lru =2.4.0 =pyh5ded981_0
     - attrs =26.1.0 =pyhcf101f3_0
     - babel =2.18.0 =pyhcf101f3_1
-    - backports.zstd =1.8.0 =py311h92cd9ba_1
+    - backports.zstd =1.8.0 =py311h92cd9ba_2
     - bleach =6.4.0 =pyhcf101f3_0
     - bleach-with-css =6.4.0 =hac0b51c_0
     - boltons =26.2.0 =pyhd8ed1ab_0
-    - brotli =1.2.1 =hf00d406_0
-    - brotli-bin =1.2.1 =he4a93e4_0
+    - brotli =1.2.1 =hf00d406_1
+    - brotli-bin =1.2.1 =he4a93e4_1
     - bwidget =1.10.1 =h820172f_3
     - bzip2 =1.0.8 =h4e30115_10
     - c-ares =1.34.9 =h74c22ad_0
@@ -97,7 +97,7 @@ requirements:
     - cctools_impl_osx-arm64 =1030.6.3 =llvm23_1_hf5e010b_7
     - cctools_osx-arm64 =1030.6.3 =llvm23_1_h54b4f4b_7
     - certifi =2026.10.23 =pyhd8ed1ab_3
-    - cffi =2.1.1 =py311h2e98d63_3
+    - cffi =2.1.1 =py311h2e98d63_4
     - charset-normalizer =3.5.1 =pyhd8ed1ab_0
     - clang =23.1.5 =default_cfg_hb04f594_0
     - clang-23 =23.1.5 =default_hf8b46ca_0
@@ -198,7 +198,7 @@ requirements:
     - jupyterlab =4.6.6 =pyhd8ed1ab_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - jupyterlab_server =2.28.1 =pyh5ded981_0
-    - kiwisolver =1.5.1 =py311h2f25576_3
+    - kiwisolver =1.5.1 =py311h0053de4_4
     - krb5 =1.22.2 =h34f8a20_2
     - lark =1.3.1 =pyhd8ed1ab_0
     - lcms2 =2.20 =hce41798_0
@@ -208,9 +208,9 @@ requirements:
     - libarchive =3.8.11 =gpl_h54b43b9_101
     - libasprintf =0.25.1 =hae62183_2
     - libblas =3.11.0 =12_h51639a9_openblas
-    - libbrotlicommon =1.2.1 =h1dcdb26_0
-    - libbrotlidec =1.2.1 =h5295a6a_0
-    - libbrotlienc =1.2.1 =h2ddc9cb_0
+    - libbrotlicommon =1.2.1 =h1dcdb26_1
+    - libbrotlidec =1.2.1 =h5295a6a_1
+    - libbrotlienc =1.2.1 =h2ddc9cb_1
     - libcblas =3.11.0 =12_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp23.1 =23.1.5 =default_h8bbc02d_0
@@ -248,7 +248,7 @@ requirements:
     - libmambapy =2.10.0 =py311hf8a3391_3
     - libmsgpack-c =6.1.0 =h784d473_7
     - libnghttp2 =1.71.0 =h29223de_0
-    - libntlm =1.8 =h5505292_0
+    - libntlm =1.8 =h602ebc4_2
     - libogg =1.3.5 =h48c0fde_1
     - libopenblas =0.3.34 =openmp_h5e6e99c_1
     - libopus =1.6.1 =h74c22ad_1
@@ -275,11 +275,11 @@ requirements:
     - llvm-openmp =23.1.5 =hdb3d66b_0
     - llvm-tools =23.1.5 =hdb3d66b_0
     - llvm-tools-23 =23.1.5 =h79441dc_0
-    - llvmlite =0.50.0 =py311h4a78e08_0
+    - llvmlite =0.50.0 =py311h846252b_1
     - lz4-c =1.11.1 =ha89b795_0
     - lzo =2.10 =h74c22ad_1003
     - make =4.4.1 =h63fc045_4
-    - markupsafe =3.0.4 =py311h6b5b731_4
+    - markupsafe =3.0.4 =py311h6b5b731_5
     - matplotlib-base =3.11.2 =py311h022e184_1
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - menuinst =2.5.2 =pyhba3e0a1_4
@@ -305,7 +305,7 @@ requirements:
     - openssl =3.6.5 =h55eecbc_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.14 =hce30654_0
+    - pandoc =3.14 =hce30654_1
     - pandocfilters =1.5.1 =pyh5ded981_0
     - pango =1.58.2 =hc6efcc1_3
     - parso =0.8.7 =pyhcf101f3_0
@@ -329,9 +329,9 @@ requirements:
     - pybind11-abi =11 =hc364b38_1
     - pycosat =0.6.6 =py311h5edb25e_6
     - pycparser =3.12 =pyh5ded981_1
-    - pydantic-core =2.50.4 =py311h4d15b91_0
+    - pydantic-core =2.50.4 =py311h4d15b91_1
     - pygments =2.21.0 =pyhcf101f3_0
-    - pyobjc-core =13.0 =py311h335ec86_0
+    - pyobjc-core =13.0 =py311h335ec86_1
     - pyobjc-framework-cocoa =13.0 =py311h42bef1c_0
     - pyparsing =3.3.3 =pyh5ded981_0
     - pyproject_hooks =1.3.3 =pyhd8ed1ab_0
@@ -507,7 +507,7 @@ requirements:
     - r-stringr =1.6.0 =r45h785f33e_0
     - r-survival =3.8_12 =r45hb5b23e3_0
     - r-sys =3.4.3 =r45h6168396_1
-    - r-systemfonts =1.3.2 =r45hff64bdd_0
+    - r-systemfonts =1.3.3 =r45hd7b48ab_0
     - r-textshaping =1.0.5 =r45hff64bdd_0
     - r-tibble =3.3.1 =r45hbe92478_0
     - r-tidyr =1.3.2 =r45h1380947_0
@@ -532,7 +532,7 @@ requirements:
     - r-xts =0.14.3 =r45hb5b23e3_0
     - r-yaml =2.3.12 =r45h6168396_0
     - r-zoo =1.9_0 =r45hbe92478_0
-    - rapidfuzz =3.14.6 =py311hdc554d9_3
+    - rapidfuzz =3.14.6 =py311hc588c55_4
     - readline =8.3 =h8b90a29_1
     - referencing =0.37.0 =pyhcf101f3_0
     - reproc =14.2.8.post0 =hdca3b7d_0
@@ -542,7 +542,7 @@ requirements:
     - rfc3987-syntax =1.1.0 =pyhe01879c_1
     - rpds-py =2026.9.1 =py311hcfb3d13_0
     - ruamel.yaml =0.19.1 =pyhcf101f3_0
-    - ruamel.yaml.clib =0.2.15 =py311hd322c8c_5
+    - ruamel.yaml.clib =0.2.15 =py311h440b913_6
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-aarch64-apple-darwin =1.100.0 =h4899003_0
     - sdkroot_env_osx-arm64 =26.0 =ha3f98da_7
@@ -576,7 +576,7 @@ requirements:
     - typing_utils =0.1.0 =pyhd8ed1ab_1
     - tzdata =2026e =h5d301ff_0
     - unearth =0.19.0 =pyhd8ed1ab_0
-    - unicodedata2 =18.0.0 =py311h5edb25e_0
+    - unicodedata2 =18.0.0 =py311h5edb25e_1
     - uri-template =1.3.0 =pyhd8ed1ab_1
     - urllib3 =2.8.0 =pyh5ded981_1
     - wcwidth =0.9.4 =py311h8794d7f_0

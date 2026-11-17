@@ -42,8 +42,8 @@ requirements:
     - alsa-lib =1.2.16.1 =h7cc23a3_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
     - blosc =1.21.7 =ha7ee91d_2
-    - brotli =1.2.1 =h505cf86_0
-    - brotli-bin =1.2.1 =h9908984_0
+    - brotli =1.2.1 =h505cf86_1
+    - brotli-bin =1.2.1 =h9908984_1
     - bzip2 =1.0.8 =hda65f42_10
     - c-ares =1.34.9 =hebe6cf0_0
     - ca-certificates =2026.10.23 =hbd8a1cb_0
@@ -112,12 +112,12 @@ requirements:
     - libblas =3.11.0 =12_h4a7cf45_openblas
     - libboost =1.86.0 =hed09d94_4
     - libboost-python =1.86.0 =py39hf59e57a_3
-    - libbrotlicommon =1.2.1 =h39a168f_0
-    - libbrotlidec =1.2.1 =ha411449_0
-    - libbrotlienc =1.2.1 =h018ffa1_0
+    - libbrotlicommon =1.2.1 =h39a168f_1
+    - libbrotlidec =1.2.1 =ha411449_1
+    - libbrotlienc =1.2.1 =h018ffa1_1
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =12_h0358290_openblas
-    - libclang-cpp20.1 =20.1.8 =default_hc302687_17
+    - libclang-cpp20.1 =20.1.8 =default_hc302687_18
     - libclang13 =21.1.0 =default_h746c552_1
     - libcups =2.3.3 =hb8b1518_5
     - libcurl =8.18.0 =h4e3cde8_0
@@ -152,7 +152,7 @@ requirements:
     - libnetcdf =4.9.2 =nompi_h21f7587_118
     - libnghttp2 =1.71.0 =hc5e5977_0
     - libnsl =2.0.1 =hb9d3cd8_1
-    - libntlm =1.8 =hb9d3cd8_0
+    - libntlm =1.8 =hebe6cf0_2
     - libogg =1.3.5 =hd0c01bc_1
     - libopenblas =0.3.34 =pthreads_hf13c14d_2
     - libopengl =1.7.0 =ha4b6fd6_5

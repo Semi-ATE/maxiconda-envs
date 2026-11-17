@@ -59,8 +59,8 @@ requirements:
     - black =26.5.1 =pyha5154f8_0
     - bleach =6.3.0 =pyhcf101f3_0
     - bleach-with-css =6.3.0 =h5f6438b_0
-    - brotli =1.2.1 =hc8c2fe1_0
-    - brotli-bin =1.2.1 =hd477307_0
+    - brotli =1.2.1 =hc8c2fe1_1
+    - brotli-bin =1.2.1 =hd477307_1
     - brotli-python =1.0.9 =py310h00ffb61_8
     - bzip2 =1.0.8 =h0ad9c76_10
     - ca-certificates =2026.10.23 =h4c7d964_0
@@ -139,9 +139,9 @@ requirements:
     - lcms2 =2.20 =hf2c6c5f_0
     - lerc =4.3.0 =hd936e49_0
     - libblas =3.11.0 =12_h8455456_mkl
-    - libbrotlicommon =1.2.1 =hf02afa3_0
-    - libbrotlidec =1.2.1 =h84f9c24_0
-    - libbrotlienc =1.2.1 =he2a975b_0
+    - libbrotlicommon =1.2.1 =hf02afa3_1
+    - libbrotlidec =1.2.1 =h84f9c24_1
+    - libbrotlienc =1.2.1 =he2a975b_1
     - libcblas =3.11.0 =12_h2a3cdd5_mkl
     - libclang13 =23.1.5 =default_hacd6ee9_0
     - libdeflate =1.26 =h1a1d4e4_0
@@ -204,7 +204,7 @@ requirements:
     - openjpeg =2.5.4 =h90fa87c_2
     - openssl =3.6.5 =hf411b9b_0
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.14 =h57928b3_0
+    - pandoc =3.14 =h57928b3_1
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.58.2 =h4350c2a_3
     - parso =0.8.7 =pyhcf101f3_0

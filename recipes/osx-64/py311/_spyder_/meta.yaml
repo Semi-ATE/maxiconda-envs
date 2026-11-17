@@ -25,7 +25,7 @@ requirements:
     - python =3.11.18 =h6907cb8_0_cpython
 
     # 9 primary packages :
-    - cython =3.3.1 =py311hc840923_0
+    - cython =3.3.1 =py311hc840923_1
     - matplotlib =3.11.2 =py311h9895961_1
     - numpy =2.4.6 =py311h2c4eb96_0
     - pandas =3.1.1 =np2py311h7838f8e_0
@@ -59,14 +59,14 @@ requirements:
     - black =26.10.1 =pyh5ded981_0
     - bleach =6.4.0 =pyhcf101f3_0
     - bleach-with-css =6.4.0 =hac0b51c_0
-    - brotli =1.2.1 =ha9642f3_0
-    - brotli-bin =1.2.1 =h086410e_0
+    - brotli =1.2.1 =ha9642f3_1
+    - brotli-bin =1.2.1 =h086410e_1
     - bzip2 =1.0.8 =h374f1ed_10
     - ca-certificates =2026.10.23 =hbd8a1cb_0
     - cairo =1.18.6 =h5791faa_0
     - cattrs =26.2.1 =pyh5ded981_0
     - certifi =2026.10.23 =pyhd8ed1ab_3
-    - cffi =2.1.1 =py311ha57a2f8_3
+    - cffi =2.1.1 =py311ha57a2f8_4
     - chardet =7.7.0 =py311hf44b27f_2
     - charset-normalizer =3.5.2 =hd77389f_0
     - click =8.5.1 =pyh5ded981_0
@@ -132,14 +132,14 @@ requirements:
     - jupyter_core =5.9.1 =pyhc90fa1f_0
     - jupyterlab_pygments =0.3.0 =pyhd8ed1ab_2
     - keyring =25.7.0 =pyh534df25_0
-    - kiwisolver =1.5.1 =py311h34f30e4_3
+    - kiwisolver =1.5.1 =py311h37d6307_4
     - krb5 =1.22.2 =h69064fd_2
     - lcms2 =2.20 =h4e6bd4b_0
     - lerc =4.3.0 =h64318d8_0
     - libblas =3.11.0 =12_he492b99_openblas
-    - libbrotlicommon =1.2.1 =he0616a4_0
-    - libbrotlidec =1.2.1 =h4a2f56c_0
-    - libbrotlienc =1.2.1 =h3d41943_0
+    - libbrotlicommon =1.2.1 =he0616a4_1
+    - libbrotlidec =1.2.1 =h4a2f56c_1
+    - libbrotlienc =1.2.1 =h3d41943_1
     - libcblas =3.11.0 =12_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
     - libclang-cpp23.1 =23.1.5 =default_hae96fce_0
@@ -165,7 +165,7 @@ requirements:
     - libllvm18 =18.1.8 =default_h9399c5b_12
     - libllvm23 =23.1.5 =hd11396f_0
     - liblzma =5.8.3 =hbb4bfdb_1
-    - libntlm =1.8 =h6e16a3a_0
+    - libntlm =1.8 =h9ec13f6_2
     - libogg =1.3.5 =he3325bb_1
     - libopenblas =0.3.34 =openmp_h5c7ac21_1
     - libopus =1.6.1 =had63097_1
@@ -189,7 +189,7 @@ requirements:
     - llvm-openmp =23.1.5 =h8c1e6b9_0
     - lsprotocol =2025.0.0 =pyhe01879c_0
     - markdown-it-py =4.3.0 =pyhd8ed1ab_0
-    - markupsafe =3.0.4 =py311hf44b27f_4
+    - markupsafe =3.0.4 =py311hf44b27f_5
     - matplotlib-base =3.11.2 =py311h4f3de86_1
     - matplotlib-inline =0.2.2 =pyhd8ed1ab_0
     - mccabe =0.7.0 =pyhd8ed1ab_1
@@ -216,7 +216,7 @@ requirements:
     - openldap =2.6.13 =h2f5043c_0
     - openssl =3.6.5 =h332eb6d_0
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.14 =h694c41f_0
+    - pandoc =3.14 =h694c41f_1
     - pandocfilters =1.5.1 =pyh5ded981_0
     - pango =1.58.2 =h207e965_3
     - parso =0.8.7 =pyhcf101f3_0
@@ -224,7 +224,7 @@ requirements:
     - pcre2 =10.47 =h31793e3_1
     - pexpect =4.9.0 =pyhd8ed1ab_1
     - pickleshare =0.7.5 =pyhd8ed1ab_1004
-    - pillow =13.0.0 =py311h3bf5400_0
+    - pillow =13.0.0 =py311hd34d374_1
     - pip =26.2.2 =pyh8b19718_2
     - pixman =0.46.4 =h2fb4741_3
     - platformdirs =4.14.5 =pyh5ded981_0
@@ -232,7 +232,7 @@ requirements:
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.4 =py311hb660652_3
-    - psutil =7.2.2 =py311h72e27ae_3
+    - psutil =7.2.2 =py311hb970d6d_4
     - pthread-stubs =0.4 =hd115831_1004
     - ptyprocess =0.7.0 =pyhd8ed1ab_1
     - pure_eval =0.2.4 =pyhd8ed1ab_0
@@ -248,7 +248,7 @@ requirements:
     - pylint-venv =3.0.4 =pyhd8ed1ab_1
     - pyls-spyder =0.4.0 =pyhd8ed1ab_1
     - pynacl =1.6.2 =py311h7aaf89a_5
-    - pyobjc-core =13.0 =py311hda4bc49_0
+    - pyobjc-core =13.0 =py311hda4bc49_1
     - pyobjc-framework-cocoa =13.0 =py311h7134b65_0
     - pyobjc-framework-coreservices =13.0 =py311hb970d6d_0
     - pyobjc-framework-fsevents =13.0 =py311hd1447d2_0
@@ -323,8 +323,8 @@ requirements:
     - typing-extensions =4.16.0 =h69aa097_0
     - typing_extensions =4.16.0 =pyhcf101f3_0
     - tzdata =2026e =h5d301ff_0
-    - ujson =6.1.0 =py311h8c575ab_0
-    - unicodedata2 =18.0.0 =py311h5e2e7b6_0
+    - ujson =6.1.0 =py311h8c575ab_1
+    - unicodedata2 =18.0.0 =py311h5e2e7b6_1
     - urllib3 =2.8.0 =pyh5ded981_1
     - watchdog =7.1.0 =py311hb970d6d_0
     - wcwidth =0.9.4 =py311h888ea4b_0

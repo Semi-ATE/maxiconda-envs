@@ -59,8 +59,8 @@ requirements:
     - black =26.5.1 =pyha5154f8_0
     - bleach =6.4.0 =pyhcf101f3_0
     - bleach-with-css =6.4.0 =hac0b51c_0
-    - brotli =1.2.1 =hf00d406_0
-    - brotli-bin =1.2.1 =he4a93e4_0
+    - brotli =1.2.1 =hf00d406_1
+    - brotli-bin =1.2.1 =he4a93e4_1
     - brotli-python =1.0.9 =py310h0f1eb42_8
     - bzip2 =1.0.8 =h4e30115_10
     - ca-certificates =2026.10.23 =hbd8a1cb_0
@@ -142,9 +142,9 @@ requirements:
     - lcms2 =2.20 =hce41798_0
     - lerc =4.3.0 =h0699d0c_0
     - libblas =3.11.0 =12_h51639a9_openblas
-    - libbrotlicommon =1.2.1 =h1dcdb26_0
-    - libbrotlidec =1.2.1 =h5295a6a_0
-    - libbrotlienc =1.2.1 =h2ddc9cb_0
+    - libbrotlicommon =1.2.1 =h1dcdb26_1
+    - libbrotlidec =1.2.1 =h5295a6a_1
+    - libbrotlienc =1.2.1 =h2ddc9cb_1
     - libcblas =3.11.0 =12_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
     - libclang-cpp23.1 =23.1.5 =default_h8bbc02d_0
@@ -170,7 +170,7 @@ requirements:
     - libllvm18 =18.1.8 =default_h8e162e0_12
     - libllvm23 =23.1.5 =h759d1ac_0
     - liblzma =5.8.3 =h8088a28_1
-    - libntlm =1.8 =h5505292_0
+    - libntlm =1.8 =h602ebc4_2
     - libogg =1.3.5 =h48c0fde_1
     - libopenblas =0.3.34 =openmp_h5e6e99c_1
     - libopus =1.6.1 =h74c22ad_1
@@ -219,7 +219,7 @@ requirements:
     - openldap =2.6.13 =hf7f56bc_0
     - openssl =3.6.5 =h55eecbc_0
     - packaging =26.3 =pyhc364b38_0
-    - pandoc =3.14 =hce30654_0
+    - pandoc =3.14 =hce30654_1
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - pango =1.58.2 =hc6efcc1_3
     - parso =0.8.7 =pyhcf101f3_0

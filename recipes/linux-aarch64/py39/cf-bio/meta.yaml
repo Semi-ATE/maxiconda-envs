@@ -38,8 +38,8 @@ requirements:
     - _openmp_mutex =4.5 =20_gnu
     - alsa-lib =1.2.16.1 =h5bc82ec_1
     - asttokens =3.0.0 =pyhd8ed1ab_1
-    - brotli =1.2.1 =h52fc18c_0
-    - brotli-bin =1.2.1 =hdc3483e_0
+    - brotli =1.2.1 =h52fc18c_1
+    - brotli-bin =1.2.1 =hdc3483e_1
     - bzip2 =1.0.8 =h4777abc_10
     - ca-certificates =2026.10.23 =hbd8a1cb_0
     - cairo =1.18.4 =h83712da_0
@@ -92,12 +92,12 @@ requirements:
     - libblas =3.11.0 =12_haddc8a3_openblas
     - libboost =1.86.0 =h6339299_4
     - libboost-python =1.86.0 =py39hd246915_3
-    - libbrotlicommon =1.2.1 =h384ecca_0
-    - libbrotlidec =1.2.1 =h011f0d3_0
-    - libbrotlienc =1.2.1 =hb247b97_0
+    - libbrotlicommon =1.2.1 =h384ecca_1
+    - libbrotlidec =1.2.1 =h011f0d3_1
+    - libbrotlienc =1.2.1 =hb247b97_1
     - libcap =2.78 =hfcc8634_1
     - libcblas =3.11.0 =12_hd72aa62_openblas
-    - libclang-cpp20.1 =20.1.8 =default_he337567_17
+    - libclang-cpp20.1 =20.1.8 =default_he224ccd_18
     - libclang13 =21.1.0 =default_h94a09a5_1
     - libcups =2.3.3 =h5cdc715_5
     - libdeflate =1.26 =h25425e3_0
@@ -127,7 +127,7 @@ requirements:
     - libllvm21 =21.1.0 =h2b567e5_0
     - liblzma =5.8.3 =he30d5cf_1
     - libnsl =2.0.1 =h86ecc28_1
-    - libntlm =1.4 =hf897c2e_1002
+    - libntlm =1.8 =h29ee22c_2
     - libogg =1.3.5 =h86ecc28_1
     - libopenblas =0.3.34 =pthreads_h4148b7d_2
     - libopengl =1.7.0 =hd24410f_5

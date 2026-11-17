@@ -53,8 +53,8 @@ requirements:
     - binaryornot =0.4.4 =py_1
     - black =22.10.0 =py37hf985489_1
     - bleach =6.1.0 =pyhd8ed1ab_0
-    - brotli =1.2.1 =ha9642f3_0
-    - brotli-bin =1.2.1 =h086410e_0
+    - brotli =1.2.1 =ha9642f3_1
+    - brotli-bin =1.2.1 =h086410e_1
     - brotli-python =1.0.9 =py37h0582d14_7
     - bzip2 =1.0.8 =h374f1ed_10
     - ca-certificates =2026.10.23 =hbd8a1cb_0
@@ -115,9 +115,9 @@ requirements:
     - libasprintf =0.25.1 =h98e67c8_2
     - libasprintf-devel =0.25.1 =h98e67c8_2
     - libblas =3.9.0 =20_osx64_openblas
-    - libbrotlicommon =1.2.1 =he0616a4_0
-    - libbrotlidec =1.2.1 =h4a2f56c_0
-    - libbrotlienc =1.2.1 =h3d41943_0
+    - libbrotlicommon =1.2.1 =he0616a4_1
+    - libbrotlidec =1.2.1 =h4a2f56c_1
+    - libbrotlienc =1.2.1 =h3d41943_1
     - libcblas =3.9.0 =20_osx64_openblas
     - libclang =13.0.1 =default_h0340054_11
     - libcxx =23.1.5 =h88b51c2_2
@@ -183,7 +183,7 @@ requirements:
     - openjpeg =2.5.0 =h5d0d7b0_1
     - openssl =3.1.8 =hc426f3f_0
     - packaging =23.2 =pyhd8ed1ab_0
-    - pandoc =3.14 =h694c41f_0
+    - pandoc =3.14 =h694c41f_1
     - pandocfilters =1.5.0 =pyhd8ed1ab_0
     - parso =0.8.4 =pyhd8ed1ab_0
     - pathspec =0.12.1 =pyhd8ed1ab_0
