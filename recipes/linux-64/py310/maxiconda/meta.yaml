@@ -120,7 +120,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_4
-    - fontconfig =2.18.3 =h4db4eae_2
+    - fontconfig =2.18.3 =h4db4eae_3
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py310h3406613_0
@@ -129,7 +129,7 @@ requirements:
     - fribidi =1.0.18 =h7cc23a3_0
     - frozenlist =1.8.0 =py310h9548a50_0
     - gcc_impl_linux-64 =16.2.0 =h9891192_7
-    - gcc_linux-64 =16.2.0 =h0ab548f_3
+    - gcc_linux-64 =16.2.0 =h0ab548f_4
     - gfortran_impl_linux-64 =16.2.0 =hf930d89_7
     - glib =2.90.1 =h25ed769_2
     - glib-tools =2.90.1 =hafe2f62_2
@@ -141,7 +141,7 @@ requirements:
     - gst-plugins-base =1.26.11 =h6d08254_0
     - gstreamer =1.26.11 =h29cf534_0
     - gxx_impl_linux-64 =16.2.0 =h0d273dc_7
-    - gxx_linux-64 =16.2.0 =h3ab4d0c_3
+    - gxx_linux-64 =16.2.0 =h223162a_4
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
     - harfbuzz =15.0.0 =ha770c72_0
@@ -427,7 +427,7 @@ requirements:
     - r-nlme =3.1_170 =r45heaba542_0
     - r-nnet =7.3_21 =r45hddc5280_0
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
-    - r-openssl =2.5.0 =r45haecc533_0
+    - r-openssl =2.6.0 =r45haecc533_0
     - r-otel =0.2.0 =r45hc72bb7e_1
     - r-parallelly =1.50.0 =r45hddc5280_0
     - r-pbdzmq =0.3_14 =r45hded8526_1
@@ -518,7 +518,7 @@ requirements:
     - ruamel.yaml.clib =0.2.15 =py310h83e8816_3
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-unknown-linux-gnu =1.100.0 =h480d76f_0
-    - sed =4.10 =h19d0853_0
+    - sed =4.10 =h529d415_1
     - send2trash =2.1.0 =pyha191276_1
     - setuptools =84.0.0 =pyh332efcf_0
     - sip =6.10.0 =py310hea6c23e_1
@@ -553,7 +553,7 @@ requirements:
     - websocket-client =1.9.2 =pyhd8ed1ab_0
     - wheel =0.48.0 =pyhd8ed1ab_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
-    - xcb-util =0.4.1 =h4f16b4b_2
+    - xcb-util =0.4.1 =hb83e432_3
     - xcb-util-cursor =0.1.6 =hb03c661_0
     - xcb-util-image =0.4.0 =hb711507_2
     - xcb-util-keysyms =0.4.1 =hb711507_0

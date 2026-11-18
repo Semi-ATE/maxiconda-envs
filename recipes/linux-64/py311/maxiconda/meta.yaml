@@ -37,7 +37,7 @@ requirements:
     - matplotlib =3.11.2 =py311h968eb38_1
     - numba =0.68.1 =py311hdfc3925_0
     - numpy =2.4.6 =py311h2e04523_0
-    - openpyxl =3.1.5 =py311he9e6514_4
+    - openpyxl =3.1.5 =py311he9e6514_5
     - paho-mqtt =2.2.0 =pyh5ded981_0
     - pandas =3.1.1 =np2py311h1e9b377_0
     - psutil =7.2.2 =py311h194be0f_4
@@ -56,7 +56,7 @@ requirements:
     - scipy =1.17.1 =py311hbe70eeb_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.7 =unix_pyh707e725_0
-    - sqlalchemy =2.1.8 =py311h194be0f_1
+    - sqlalchemy =2.1.9 =py311h194be0f_0
     - sqlite =3.54.1 =h9ffa6c4_0
     - sympy =1.14.0 =pyh2585a3b_106
     - tqdm =4.70.1 =pyhfa0c392_0
@@ -135,7 +135,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_4
-    - fontconfig =2.18.3 =h4db4eae_2
+    - fontconfig =2.18.3 =h4db4eae_3
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.68.0 =py311h92159aa_0
@@ -145,7 +145,7 @@ requirements:
     - frozendict =2.5.0 =pyhb5810a6_0
     - frozenlist =1.8.0 =py311h8485e21_1
     - gcc_impl_linux-64 =16.2.0 =h9891192_7
-    - gcc_linux-64 =16.2.0 =h0ab548f_3
+    - gcc_linux-64 =16.2.0 =h0ab548f_4
     - gfortran_impl_linux-64 =16.2.0 =hf930d89_7
     - gitdb =4.0.12 =pyhd8ed1ab_0
     - gitpython =3.2.1 =pyh5ded981_0
@@ -158,7 +158,7 @@ requirements:
     - gst-plugins-base =1.26.11 =h6d08254_0
     - gstreamer =1.26.11 =h29cf534_0
     - gxx_impl_linux-64 =16.2.0 =h0d273dc_7
-    - gxx_linux-64 =16.2.0 =h3ab4d0c_3
+    - gxx_linux-64 =16.2.0 =h223162a_4
     - h11 =0.16.0 =pyhcf101f3_1
     - h2 =4.4.1 =pyhcf101f3_0
     - harfbuzz =15.0.0 =ha770c72_0
@@ -298,7 +298,7 @@ requirements:
     - mpfr =4.2.2 =ha2cb11d_1
     - mpg123 =1.33.7 =h877a99e_1
     - mpmath =1.4.1 =pyhd8ed1ab_0
-    - msgpack-python =1.2.4 =py311h4c6fd42_0
+    - msgpack-python =1.2.4 =py311h4c6fd42_1
     - multidict =7.2.1 =py311h92159aa_1
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.11.0 =pyhcf101f3_1
@@ -329,7 +329,7 @@ requirements:
     - platformdirs =4.14.5 =pyh5ded981_0
     - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
-    - progressbar2 =4.7.0 =pyhd8ed1ab_0
+    - progressbar2 =4.7.1 =pyhd8ed1ab_0
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.4 =py311h92159aa_3
@@ -464,7 +464,7 @@ requirements:
     - r-nlme =3.1_170 =r45heaba542_0
     - r-nnet =7.3_21 =r45hddc5280_0
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
-    - r-openssl =2.5.0 =r45haecc533_0
+    - r-openssl =2.6.0 =r45haecc533_0
     - r-otel =0.2.0 =r45hc72bb7e_1
     - r-parallelly =1.50.0 =r45hddc5280_0
     - r-pbdzmq =0.3_14 =r45hded8526_1
@@ -557,7 +557,7 @@ requirements:
     - ruamel.yaml.clib =0.2.15 =py311h194be0f_6
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_1
     - rust-std-x86_64-unknown-linux-gnu =1.100.0 =h480d76f_0
-    - sed =4.10 =h19d0853_0
+    - sed =4.10 =h529d415_1
     - send2trash =2.2.0 =pyh4a3486f_0
     - setuptools =84.2.1 =pyhe730653_0
     - simdjson =5.1.1 =h4dbf13b_0
@@ -597,7 +597,7 @@ requirements:
     - websocket-client =1.9.2 =pyh5ded981_1
     - wheel =0.48.0 =pyhd8ed1ab_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
-    - xcb-util =0.4.1 =h4f16b4b_2
+    - xcb-util =0.4.1 =hb83e432_3
     - xcb-util-cursor =0.1.6 =hb03c661_0
     - xcb-util-image =0.4.0 =hb711507_2
     - xcb-util-keysyms =0.4.1 =hb711507_0

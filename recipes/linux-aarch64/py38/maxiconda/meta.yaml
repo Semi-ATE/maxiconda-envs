@@ -121,7 +121,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_4
-    - fontconfig =2.18.3 =ha4b22b4_2
+    - fontconfig =2.18.3 =ha4b22b4_3
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.53.1 =py38ha5227f9_0
@@ -130,7 +130,7 @@ requirements:
     - fribidi =1.0.18 =h5bc82ec_0
     - frozenlist =1.4.1 =py38h9579f32_0
     - gcc_impl_linux-aarch64 =16.2.0 =h5425ead_7
-    - gcc_linux-aarch64 =16.2.0 =h25cc031_3
+    - gcc_linux-aarch64 =16.2.0 =h25cc031_4
     - gfortran_impl_linux-aarch64 =16.2.0 =h339fd1e_7
     - glib =2.90.1 =hb71349b_3
     - glib-tools =2.90.1 =he5c7a66_3
@@ -142,7 +142,7 @@ requirements:
     - gst-plugins-base =1.26.11 =hd6b5e5b_0
     - gstreamer =1.26.11 =hf552038_0
     - gxx_impl_linux-aarch64 =16.2.0 =h1e3c31f_7
-    - gxx_linux-aarch64 =16.2.0 =hcff3312_3
+    - gxx_linux-aarch64 =16.2.0 =hf0d1358_4
     - h11 =0.14.0 =pyhd8ed1ab_0
     - h2 =4.1.0 =pyhd8ed1ab_0
     - harfbuzz =15.0.0 =h8af1aa0_0
@@ -425,7 +425,7 @@ requirements:
     - r-nlme =3.1_170 =r45ha85219e_0
     - r-nnet =7.3_21 =r45h3cbd8c2_0
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
-    - r-openssl =2.5.0 =r45h423a7a1_0
+    - r-openssl =2.6.0 =r45h423a7a1_0
     - r-otel =0.2.0 =r45hc72bb7e_1
     - r-parallelly =1.50.0 =r45hc4d5023_0
     - r-pbdzmq =0.3_14 =r45he63f4dc_1
@@ -515,7 +515,7 @@ requirements:
     - ruamel.yaml.clib =0.2.8 =py38h9579f32_0
     - ruamel.yaml.jinja2 =0.2.7 =pyhd8ed1ab_0
     - rust-std-aarch64-unknown-linux-gnu =1.100.0 =hb0489cc_0
-    - sed =4.10 =he1c5539_0
+    - sed =4.10 =hf8326b1_1
     - semver =3.0.2 =pyhd8ed1ab_0
     - send2trash =1.8.3 =pyh0d859eb_0
     - setuptools =75.3.0 =pyhd8ed1ab_0
@@ -550,7 +550,7 @@ requirements:
     - websocket-client =1.8.0 =pyhd8ed1ab_0
     - wheel =0.45.1 =pyhd8ed1ab_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_0
-    - xcb-util =0.4.1 =hca56bd8_2
+    - xcb-util =0.4.1 =h3f04742_3
     - xcb-util-image =0.4.0 =h5c728e9_2
     - xcb-util-keysyms =0.4.1 =h5c728e9_0
     - xcb-util-renderutil =0.3.10 =h5c728e9_0

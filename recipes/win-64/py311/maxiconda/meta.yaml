@@ -37,7 +37,7 @@ requirements:
     - matplotlib =3.11.2 =py311hce7227b_1
     - numba =0.68.1 =py311h5dfdfe8_0
     - numpy =2.4.6 =py311h65cb7f3_0
-    - openpyxl =3.1.5 =py311h4d8bf61_4
+    - openpyxl =3.1.5 =py311h4d8bf61_5
     - paho-mqtt =2.2.0 =pyh5ded981_0
     - pandas =3.1.1 =np2py311hd01f973_0
     - psutil =7.2.2 =py311hf893f09_4
@@ -56,7 +56,7 @@ requirements:
     - scipy =1.17.1 =py311h9c22a71_1
     - semi-ate-stdf =0.1.28 =pyhd8ed1ab_1
     - spyder-kernels =3.1.7 =win_pyh7428d3b_0
-    - sqlalchemy =2.1.8 =py311hf893f09_1
+    - sqlalchemy =2.1.9 =py311hf893f09_0
     - sqlite =3.54.1 =hdb435a2_101
     - sympy =1.14.0 =pyh04b8f61_6
     - tqdm =4.70.1 =pyh6be1c34_0
@@ -131,7 +131,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_4
-    - fontconfig =2.18.3 =hd47e2ca_2
+    - fontconfig =2.18.3 =hbf4c354_3
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.68.0 =py311h3f79411_0
@@ -232,7 +232,7 @@ requirements:
     - libsodium =1.0.22 =h6a83c73_3
     - libsolv =0.7.41 =h8883371_0
     - libsqlite =3.54.1 =hf5d6505_101
-    - libssh2 =1.11.1 =h734d217_1
+    - libssh2 =1.11.1 =h734d217_2
     - libstdcxx =16.2.0 =hae5796f_7
     - libstdcxx-devel_win-64 =16.2.0 =h230208c_107
     - libtiff =4.7.2 =hef6d50c_2
@@ -262,7 +262,7 @@ requirements:
     - mistune =3.4.0 =pyh5ded981_0
     - mkl =2026.1.0 =hac47afa_235
     - mpmath =1.4.1 =pyhd8ed1ab_0
-    - msgpack-python =1.2.4 =py311h275cad7_0
+    - msgpack-python =1.2.4 =py311h275cad7_1
     - multidict =7.2.1 =py311h3f79411_1
     - munkres =1.1.4 =pyhd8ed1ab_1
     - nbclient =0.11.0 =pyhcf101f3_1
@@ -288,7 +288,7 @@ requirements:
     - platformdirs =4.14.5 =pyh5ded981_0
     - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
-    - progressbar2 =4.7.0 =pyhd8ed1ab_0
+    - progressbar2 =4.7.1 =pyhd8ed1ab_0
     - prometheus_client =0.26.0 =pyhd8ed1ab_0
     - prompt-toolkit =3.0.53 =pyha770c72_0
     - propcache =0.5.4 =py311h3f79411_3
@@ -314,7 +314,7 @@ requirements:
     - python-utils =4.2.2 =pyhe730653_0
     - python_abi =3.11 =9_cp311
     - pywin32 =312 =py311h0610301_2
-    - pywinpty =3.1.2 =py311hda3d55a_0
+    - pywinpty =3.1.2 =py311hda3d55a_1
     - pyzmq =27.3.0 =py311h7a22eb7_0
     - qhull =2020.2 =h47c9fd8_6
     - qt-main =5.15.15 =hc95f6a6_8
@@ -421,7 +421,7 @@ requirements:
     - r-nlme =3.1_170 =r45h814e693_0
     - r-nnet =7.3_21 =r45ha31549c_0
     - r-numderiv =2016.8_1.1 =r45hc72bb7e_7
-    - r-openssl =2.5.0 =r45hca72519_0
+    - r-openssl =2.6.0 =r45hca72519_0
     - r-otel =0.2.0 =r45hc72bb7e_1
     - r-parallelly =1.50.0 =r45ha31549c_0
     - r-pbdzmq =0.3_14 =r45h27c3720_1
