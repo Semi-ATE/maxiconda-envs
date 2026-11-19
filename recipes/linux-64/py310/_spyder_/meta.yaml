@@ -186,10 +186,10 @@ requirements:
     - libjpeg-turbo =3.2.1 =h7cc23a3_0
     - liblapack =3.11.0 =12_h47877c9_openblas
     - libllvm22 =22.1.8 =h474f4eb_3
-    - libllvm23 =23.1.5 =h474f4eb_0
+    - libllvm23 =23.1.6 =h474f4eb_0
     - liblzma =5.8.3 =hb03c661_1
     - libnsl =2.0.1 =hb9d3cd8_1
-    - libntlm =1.8 =hebe6cf0_2
+    - libntlm =1.8 =hebe6cf0_3
     - libogg =1.3.5 =hd0c01bc_1
     - libopenblas =0.3.34 =pthreads_hf13c14d_2
     - libopengl =1.7.0 =ha4b6fd6_5
@@ -368,7 +368,7 @@ requirements:
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xcb-util =0.4.1 =hb83e432_3
     - xcb-util-cursor =0.1.6 =hb03c661_0
-    - xcb-util-image =0.4.0 =hb711507_2
+    - xcb-util-image =0.4.0 =hb83e432_3
     - xcb-util-keysyms =0.4.1 =hb711507_0
     - xcb-util-renderutil =0.3.10 =hb711507_0
     - xcb-util-wm =0.4.2 =hb711507_0
