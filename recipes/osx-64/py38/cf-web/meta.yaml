@@ -91,8 +91,8 @@ requirements:
     - jupyter_core =5.8.1 =pyh31011fe_0
     - krb5 =1.22.2 =h69064fd_2
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
-    - libclang-cpp23.1 =23.1.5 =default_hae96fce_0
-    - libclang13 =23.1.5 =default_hd4d7be2_0
+    - libclang-cpp23.1 =23.1.6 =default_hae96fce_0
+    - libclang13 =23.1.6 =default_hfb2a9c5_0
     - libcxx =23.1.6 =h88b51c2_0
     - libedit =3.1.20260512 =pl5321hba2e2ab_0
     - libexpat =2.9.0 =h6e061ac_0
@@ -116,7 +116,7 @@ requirements:
     - libpango =1.58.2 =hb06761d_3
     - libpango-devel =1.58.2 =h432f75e_3
     - libpng =1.6.59 =h4382c61_0
-    - libpq =18.7 =h58a6bad_0
+    - libpq =18.7 =h58a6bad_1
     - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.54.1 =h59ff3a2_0
     - libvorbis =1.3.7 =ha059160_2
@@ -127,9 +127,9 @@ requirements:
     - matplotlib-inline =0.1.7 =pyhd8ed1ab_0
     - ncurses =6.6 =hcc0dc9a_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
-    - nspr =4.40 =h71d1bf3_0
+    - nspr =4.41 =h71d1bf3_0
     - nss =3.118 =h2b2a826_0
-    - openldap =2.6.13 =h2f5043c_0
+    - openldap =2.7.2 =h1c1fbb2_0
     - openssl =3.6.5 =h332eb6d_0
     - packaging =26.2 =pyhc364b38_0
     - pango =1.58.2 =h207e965_3

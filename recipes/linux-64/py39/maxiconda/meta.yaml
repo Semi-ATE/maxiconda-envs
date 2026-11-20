@@ -119,7 +119,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_4
-    - fontconfig =2.18.3 =h4db4eae_3
+    - fontconfig =2.18.4 =h4db4eae_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.59.1 =py39heb7d2ae_0
@@ -266,7 +266,7 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - notebook =7.4.5 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
-    - nspr =4.40 =h76ac25a_0
+    - nspr =4.41 =h76ac25a_0
     - nss =3.118 =h445c969_0
     - openjpeg =2.5.4 =heb1ab33_2
     - openldap =2.6.10 =he970967_0
@@ -426,7 +426,7 @@ requirements:
     - r-plyr =1.8.9 =r45h3697838_3
     - r-prettyunits =1.2.0 =r45hc72bb7e_2
     - r-proc =1.19.1 =r45hfa9885e_0
-    - r-processx =3.9.0 =r45h54b55ab_0
+    - r-processx =3.10.0 =r45hddc5280_0
     - r-prodlim =2026.03.11 =r45h3697838_0
     - r-progress =1.2.3 =r45hc72bb7e_2
     - r-progressr =1.1.0 =r45hacb3a79_0
@@ -458,7 +458,7 @@ requirements:
     - r-rpart =4.1.27 =r45h54b55ab_0
     - r-rstudioapi =0.19.0 =r45hc72bb7e_0
     - r-rvest =1.0.5 =r45hc72bb7e_1
-    - r-s7 =0.2.2 =r45h54b55ab_0
+    - r-s7 =1.0.0 =r45hddc5280_0
     - r-sass =0.4.10 =r45h3697838_1
     - r-scales =1.4.0 =r45hc72bb7e_1
     - r-selectr =0.6_0 =r45hc72bb7e_0
@@ -545,10 +545,10 @@ requirements:
     - wheel =0.45.1 =pyhd8ed1ab_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xcb-util =0.4.1 =hb83e432_3
-    - xcb-util-cursor =0.1.6 =hb03c661_0
+    - xcb-util-cursor =0.1.6 =h7cc23a3_1
     - xcb-util-image =0.4.0 =hb83e432_3
     - xcb-util-keysyms =0.4.1 =hb711507_0
-    - xcb-util-renderutil =0.3.10 =hb711507_0
+    - xcb-util-renderutil =0.3.10 =hb83e432_1
     - xcb-util-wm =0.4.2 =hb711507_0
     - xkeyboard-config =2.48 =hebe6cf0_1
     - xorg-libice =1.1.2 =h280c20c_0

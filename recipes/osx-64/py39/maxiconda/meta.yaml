@@ -232,7 +232,7 @@ requirements:
     - libpango =1.58.2 =hb06761d_3
     - libpango-devel =1.58.2 =h432f75e_3
     - libpng =1.6.59 =h4382c61_0
-    - libpq =18.7 =h58a6bad_0
+    - libpq =18.7 =h58a6bad_1
     - libpsl =0.23.1 =h7ff43d8_1
     - libsigtool =0.1.3 =h8c25ef7_1
     - libsodium =1.0.18 =hbcb3906_1
@@ -267,10 +267,10 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - notebook =7.4.5 =pyhd8ed1ab_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
-    - nspr =4.40 =h71d1bf3_0
+    - nspr =4.41 =h71d1bf3_0
     - nss =3.118 =h2b2a826_0
     - openjpeg =2.5.4 =he4eae51_1
-    - openldap =2.6.13 =h2f5043c_0
+    - openldap =2.7.2 =h1c1fbb2_0
     - openssl =3.6.5 =h332eb6d_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
@@ -426,7 +426,7 @@ requirements:
     - r-plyr =1.8.9 =r45ha730edb_3
     - r-prettyunits =1.2.0 =r45hc72bb7e_2
     - r-proc =1.19.1 =r45hbd51730_0
-    - r-processx =3.9.0 =r45h8eed41d_0
+    - r-processx =3.10.0 =r45hf469658_0
     - r-prodlim =2026.03.11 =r45h384437d_0
     - r-progress =1.2.3 =r45hc72bb7e_2
     - r-progressr =1.1.0 =r45hacb3a79_0
@@ -458,7 +458,7 @@ requirements:
     - r-rpart =4.1.27 =r45h8eed41d_0
     - r-rstudioapi =0.19.0 =r45hc72bb7e_0
     - r-rvest =1.0.5 =r45hc72bb7e_1
-    - r-s7 =0.2.2 =r45h8eed41d_0
+    - r-s7 =1.0.0 =r45hf469658_0
     - r-sass =0.4.10 =r45ha730edb_1
     - r-scales =1.4.0 =r45hc72bb7e_1
     - r-selectr =0.6_0 =r45hc72bb7e_0

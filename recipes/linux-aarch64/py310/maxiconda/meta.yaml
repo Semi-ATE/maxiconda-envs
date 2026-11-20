@@ -119,7 +119,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_4
-    - fontconfig =2.18.3 =ha4b22b4_3
+    - fontconfig =2.18.4 =ha4b22b4_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.63.0 =py310h2d8da20_0
@@ -186,8 +186,8 @@ requirements:
     - libcap =2.78 =hfcc8634_1
     - libcblas =3.11.0 =12_hd72aa62_openblas
     - libclang-cpp22.1 =22.1.8 =default_h01b09c7_11
-    - libclang-cpp23.1 =23.1.5 =default_h01b09c7_0
-    - libclang13 =23.1.5 =default_h8d1ab40_0
+    - libclang-cpp23.1 =23.1.6 =default_h01b09c7_0
+    - libclang13 =23.1.6 =default_h8b50b4e_0
     - libcups =2.3.3 =h4f2b762_6
     - libcurl =8.23.0 =h86273da_0
     - libdeflate =1.26 =h25425e3_0
@@ -233,7 +233,7 @@ requirements:
     - libpango-devel =1.58.2 =h12dfbc4_3
     - libpciaccess =0.19 =he30d5cf_1
     - libpng =1.6.59 =hf9b7768_0
-    - libpq =18.7 =h4d8aa50_0
+    - libpq =18.7 =h4d8aa50_1
     - libpsl =0.23.1 =hb8431ed_1
     - libsanitizer =16.2.0 =h73cac2c_7
     - libsndfile =1.2.2 =h7354dbf_3
@@ -275,10 +275,10 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - notebook =7.6.2 =pyhcf101f3_0
     - notebook-shim =0.2.4 =pyhd8ed1ab_1
-    - nspr =4.40 =habf7c3c_0
+    - nspr =4.41 =habf7c3c_0
     - nss =3.118 =h544fa81_0
     - openjpeg =2.5.4 =h504851f_2
-    - openldap =2.6.13 =h2fb54aa_0
+    - openldap =2.7.2 =h095d8e5_0
     - openssl =3.6.5 =he6ad1d5_0
     - overrides =7.7.0 =pyhd8ed1ab_1
     - packaging =26.3 =pyhc364b38_0
@@ -434,7 +434,7 @@ requirements:
     - r-plyr =1.8.9 =r45h08b74da_3
     - r-prettyunits =1.2.0 =r45hc72bb7e_2
     - r-proc =1.19.1 =r45h778f551_0
-    - r-processx =3.9.0 =r45h0557e7b_0
+    - r-processx =3.10.0 =r45hc4d5023_0
     - r-prodlim =2026.03.11 =r45h08b74da_0
     - r-progress =1.2.3 =r45hc72bb7e_2
     - r-progressr =1.1.0 =r45hacb3a79_0
@@ -466,7 +466,7 @@ requirements:
     - r-rpart =4.1.27 =r45h0557e7b_0
     - r-rstudioapi =0.19.0 =r45hc72bb7e_0
     - r-rvest =1.0.5 =r45hc72bb7e_1
-    - r-s7 =0.2.2 =r45hf488e41_0
+    - r-s7 =1.0.0 =r45hc4d5023_0
     - r-sass =0.4.10 =r45h08b74da_1
     - r-scales =1.4.0 =r45hc72bb7e_1
     - r-selectr =0.6_0 =r45hc72bb7e_0
@@ -552,10 +552,10 @@ requirements:
     - wheel =0.48.0 =pyhd8ed1ab_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xcb-util =0.4.1 =h3f04742_3
-    - xcb-util-cursor =0.1.6 =he30d5cf_0
+    - xcb-util-cursor =0.1.6 =h5bc82ec_1
     - xcb-util-image =0.4.0 =h3f04742_3
     - xcb-util-keysyms =0.4.1 =h5c728e9_0
-    - xcb-util-renderutil =0.3.10 =h5c728e9_0
+    - xcb-util-renderutil =0.3.10 =h3f04742_1
     - xcb-util-wm =0.4.2 =h5c728e9_0
     - xkeyboard-config =2.48 =h8c2e508_1
     - xorg-libice =1.1.2 =h80f16a2_0

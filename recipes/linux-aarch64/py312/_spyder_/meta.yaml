@@ -31,11 +31,11 @@ requirements:
     - pandas =3.1.1 =np2py312h45f7807_0
     - pyqt =5.15.11 =py312hc13527c_2
     - pyqtwebengine =5.15.11 =py312hcff0a4d_2
-    - scipy =1.18.1 =py312hfb93532_3
+    - scipy =1.18.1 =py312hfb93532_4
     - spyder =6.1.8 =hd8ed1ab_1
     - sympy =1.14.0 =pyh2585a3b_106
 
-    # 357 secondary packages :
+    # 356 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
@@ -94,7 +94,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_4
-    - fontconfig =2.18.3 =ha4b22b4_3
+    - fontconfig =2.18.4 =ha4b22b4_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.68.0 =py312h363f31d_0
@@ -149,8 +149,8 @@ requirements:
     - libcap =2.78 =hfcc8634_1
     - libcblas =3.11.0 =12_hd72aa62_openblas
     - libclang-cpp22.1 =22.1.8 =default_h01b09c7_11
-    - libclang-cpp23.1 =23.1.5 =default_h01b09c7_0
-    - libclang13 =23.1.5 =default_h8d1ab40_0
+    - libclang-cpp23.1 =23.1.6 =default_h01b09c7_0
+    - libclang13 =23.1.6 =default_h8b50b4e_0
     - libcups =2.3.3 =h4f2b762_6
     - libdeflate =1.26 =h25425e3_0
     - libdrm =2.4.129 =h5bc82ec_0
@@ -192,7 +192,7 @@ requirements:
     - libpango-devel =1.58.2 =h12dfbc4_3
     - libpciaccess =0.19 =he30d5cf_1
     - libpng =1.6.59 =hf9b7768_0
-    - libpq =18.7 =h4d8aa50_0
+    - libpq =18.7 =h4d8aa50_1
     - libpython =3.12.16 =h3cfa5a6_0_cpython
     - libraqm =0.11.0 =hd2f8911_0
     - libsndfile =1.2.2 =h7354dbf_3
@@ -237,11 +237,11 @@ requirements:
     - nbformat =5.11.1 =pyhcf101f3_0
     - ncurses =6.6 =h2b6f883_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - nspr =4.40 =habf7c3c_0
+    - nspr =4.41 =habf7c3c_0
     - nss =3.118 =h544fa81_0
     - numpydoc =1.11.0 =pyh5ded981_1
     - openjpeg =2.5.4 =h504851f_2
-    - openldap =2.6.13 =h2fb54aa_0
+    - openldap =2.7.2 =h095d8e5_0
     - openssl =3.6.5 =he6ad1d5_0
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.14 =h8af1aa0_1
@@ -255,7 +255,6 @@ requirements:
     - pillow =13.0.0 =py312h7f6b78e_1
     - pip =26.2.2 =pyh8b19718_2
     - pixman =0.46.4 =h7ac5ae9_3
-    - pkgconf =3.0.11 =pkg_config_hd4f8cd5_0
     - platformdirs =4.14.7 =pyh5ded981_0
     - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
@@ -363,10 +362,10 @@ requirements:
     - wrapt =2.5.2 =py312h898233f_0
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xcb-util =0.4.1 =h3f04742_3
-    - xcb-util-cursor =0.1.6 =he30d5cf_0
+    - xcb-util-cursor =0.1.6 =h5bc82ec_1
     - xcb-util-image =0.4.0 =h3f04742_3
     - xcb-util-keysyms =0.4.1 =h5c728e9_0
-    - xcb-util-renderutil =0.3.10 =h5c728e9_0
+    - xcb-util-renderutil =0.3.10 =h3f04742_1
     - xcb-util-wm =0.4.2 =h5c728e9_0
     - xkeyboard-config =2.48 =h8c2e508_1
     - xorg-libice =1.1.2 =h80f16a2_0

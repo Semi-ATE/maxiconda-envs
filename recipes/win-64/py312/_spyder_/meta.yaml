@@ -32,11 +32,11 @@ requirements:
     - pandas =3.1.1 =np2py312hea30aaf_0
     - pyqt =5.15.11 =py312h7eb3e20_2
     - pyqtwebengine =5.15.11 =py312hffa3973_2
-    - scipy =1.18.1 =py312hbeecc1a_3
+    - scipy =1.18.1 =py312hbeecc1a_4
     - spyder =6.1.8 =hd8ed1ab_1
     - sympy =1.14.0 =pyh04b8f61_6
 
-    # 286 secondary packages :
+    # 285 secondary packages :
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - aiohappyeyeballs =2.7.1 =pyhd8ed1ab_0
     - aiohttp =3.14.5 =py312h6fa65f5_1
@@ -91,7 +91,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_4
-    - fontconfig =2.18.3 =hbf4c354_3
+    - fontconfig =2.18.4 =hbf4c354_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.68.0 =py312h05f76fc_0
@@ -136,7 +136,7 @@ requirements:
     - libbrotlidec =1.2.1 =h84f9c24_1
     - libbrotlienc =1.2.1 =he2a975b_1
     - libcblas =3.11.0 =12_h2a3cdd5_mkl
-    - libclang13 =23.1.5 =default_hacd6ee9_0
+    - libclang13 =23.1.6 =default_h9959247_0
     - libdeflate =1.26 =h1a1d4e4_0
     - libexpat =2.9.0 =hac47afa_0
     - libffi =3.7.0 =h3d046cb_1
@@ -207,7 +207,6 @@ requirements:
     - pillow =13.0.0 =py312h7bb5964_1
     - pip =26.2.2 =pyh8b19718_2
     - pixman =0.46.4 =h5112557_3
-    - pkgconf =3.0.11 =pkg_config_hb996661_0
     - platformdirs =4.14.7 =pyh5ded981_0
     - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3

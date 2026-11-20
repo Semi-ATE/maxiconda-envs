@@ -71,7 +71,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_4
-    - fontconfig =2.18.3 =h4db4eae_3
+    - fontconfig =2.18.4 =h4db4eae_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - fonttools =4.59.1 =py39heb7d2ae_0
@@ -192,7 +192,7 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - netcdf4 =1.7.2 =nompi_py39h295be61_102
     - networkx =3.2.1 =pyhd8ed1ab_0
-    - nspr =4.40 =h76ac25a_0
+    - nspr =4.41 =h76ac25a_0
     - nss =3.118 =h445c969_0
     - openjpeg =2.5.4 =heb1ab33_2
     - openldap =2.6.10 =he970967_0
@@ -262,10 +262,10 @@ requirements:
     - wheel =0.45.1 =pyhd8ed1ab_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xcb-util =0.4.1 =hb83e432_3
-    - xcb-util-cursor =0.1.6 =hb03c661_0
+    - xcb-util-cursor =0.1.6 =h7cc23a3_1
     - xcb-util-image =0.4.0 =hb83e432_3
     - xcb-util-keysyms =0.4.1 =hb711507_0
-    - xcb-util-renderutil =0.3.10 =hb711507_0
+    - xcb-util-renderutil =0.3.10 =hb83e432_1
     - xcb-util-wm =0.4.2 =hb711507_0
     - xkeyboard-config =2.48 =hebe6cf0_1
     - xorg-libice =1.1.2 =h280c20c_0

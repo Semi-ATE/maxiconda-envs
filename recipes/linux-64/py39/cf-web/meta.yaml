@@ -68,7 +68,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_4
-    - fontconfig =2.18.3 =h4db4eae_3
+    - fontconfig =2.18.4 =h4db4eae_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - freetype =2.14.3 =ha770c72_2
@@ -99,8 +99,8 @@ requirements:
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_103
     - libcap =2.78 =h084b8d7_1
     - libclang-cpp21.1 =21.1.8 =default_h6209e06_7
-    - libclang-cpp23.1 =23.1.5 =default_h0acdd01_0
-    - libclang13 =23.1.5 =default_h782a7a8_0
+    - libclang-cpp23.1 =23.1.6 =default_h0acdd01_0
+    - libclang13 =23.1.6 =default_hfbdf21f_0
     - libcups =2.3.3 =hb8b1518_5
     - libdrm =2.4.129 =h7cc23a3_0
     - libedit =3.1.20260512 =pl5321h373387f_0
@@ -154,7 +154,7 @@ requirements:
     - mpg123 =1.33.7 =h877a99e_1
     - ncurses =6.6 =hdb14827_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - nspr =4.40 =h76ac25a_0
+    - nspr =4.41 =h76ac25a_0
     - nss =3.118 =h445c969_0
     - openldap =2.6.10 =he970967_0
     - openssl =3.6.5 =h781a0a9_0
@@ -211,7 +211,7 @@ requirements:
     - xcb-util =0.4.1 =hb83e432_3
     - xcb-util-image =0.4.0 =hb83e432_3
     - xcb-util-keysyms =0.4.1 =hb711507_0
-    - xcb-util-renderutil =0.3.10 =hb711507_0
+    - xcb-util-renderutil =0.3.10 =hb83e432_1
     - xcb-util-wm =0.4.2 =hb711507_0
     - xkeyboard-config =2.48 =hebe6cf0_1
     - xorg-libice =1.1.2 =h280c20c_0

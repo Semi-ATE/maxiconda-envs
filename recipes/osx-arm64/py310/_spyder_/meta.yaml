@@ -147,8 +147,8 @@ requirements:
     - libbrotlienc =1.2.1 =h2ddc9cb_1
     - libcblas =3.11.0 =12_hb0561ab_openblas
     - libclang-cpp18.1 =18.1.8 =default_hf3020a7_18
-    - libclang-cpp23.1 =23.1.5 =default_h8bbc02d_0
-    - libclang13 =23.1.5 =default_hf8b46ca_0
+    - libclang-cpp23.1 =23.1.6 =default_h8bbc02d_0
+    - libclang13 =23.1.6 =default_h0ef62b6_0
     - libcxx =23.1.6 =hc645fd0_0
     - libdeflate =1.26 =h72bfca4_0
     - libedit =3.1.20260512 =pl5321h26f1114_0
@@ -177,7 +177,7 @@ requirements:
     - libpango =1.58.2 =hc2ac4f2_3
     - libpango-devel =1.58.2 =haa2d88b_3
     - libpng =1.6.59 =hf5e6511_0
-    - libpq =18.7 =h0a198e3_0
+    - libpq =18.7 =h0a198e3_1
     - libsodium =1.0.22 =h74c22ad_3
     - libspatialindex =2.1.0 =hdca3b7d_2
     - libsqlite =3.54.1 =hca69786_0
@@ -212,11 +212,11 @@ requirements:
     - nbformat =5.11.1 =pyhcf101f3_0
     - ncurses =6.6 =he64c551_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
-    - nspr =4.40 =hfdc29e8_0
+    - nspr =4.41 =hfdc29e8_0
     - nss =3.118 =h1c710a3_0
     - numpydoc =1.10.0 =pyhcf101f3_0
     - openjpeg =2.5.4 =h4d1e80c_2
-    - openldap =2.6.13 =hf7f56bc_0
+    - openldap =2.7.2 =hdd0405a_0
     - openssl =3.6.5 =h55eecbc_0
     - packaging =26.3 =pyhc364b38_0
     - pandoc =3.14 =hce30654_1

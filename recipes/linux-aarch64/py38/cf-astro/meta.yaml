@@ -47,7 +47,7 @@ requirements:
     - font-ttf-inconsolata =3.000 =h77eed37_0
     - font-ttf-source-code-pro =2.038 =h77eed37_0
     - font-ttf-ubuntu =0.83 =h77eed37_4
-    - fontconfig =2.18.3 =ha4b22b4_3
+    - fontconfig =2.18.4 =ha4b22b4_0
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
     - freetype =2.14.3 =h8af1aa0_2
@@ -71,8 +71,8 @@ requirements:
     - ld_impl_linux-aarch64 =2.46.1 =default_h1979696_103
     - libcap =2.78 =hfcc8634_1
     - libclang-cpp22.1 =22.1.8 =default_h01b09c7_11
-    - libclang-cpp23.1 =23.1.5 =default_h01b09c7_0
-    - libclang13 =23.1.5 =default_h8d1ab40_0
+    - libclang-cpp23.1 =23.1.6 =default_h01b09c7_0
+    - libclang13 =23.1.6 =default_h8b50b4e_0
     - libcups =2.3.3 =h4f2b762_6
     - libdrm =2.4.129 =h5bc82ec_0
     - libedit =3.1.20260512 =pl5321hc48eb74_0
@@ -106,7 +106,7 @@ requirements:
     - libpango-devel =1.58.2 =h12dfbc4_3
     - libpciaccess =0.19 =he30d5cf_1
     - libpng =1.6.59 =hf9b7768_0
-    - libpq =18.7 =h4d8aa50_0
+    - libpq =18.7 =h4d8aa50_1
     - libsndfile =1.2.2 =h7354dbf_3
     - libsodium =1.0.18 =hb9de7d4_1
     - libsqlite =3.54.1 =h399dd60_0
@@ -125,9 +125,9 @@ requirements:
     - mpg123 =1.33.7 =h922aec4_1
     - ncurses =6.6 =h2b6f883_1
     - nest-asyncio =1.6.0 =pyhd8ed1ab_0
-    - nspr =4.40 =habf7c3c_0
+    - nspr =4.41 =habf7c3c_0
     - nss =3.118 =h544fa81_0
-    - openldap =2.6.13 =h2fb54aa_0
+    - openldap =2.7.2 =h095d8e5_0
     - openssl =3.6.5 =he6ad1d5_0
     - packaging =26.2 =pyhc364b38_0
     - pango =1.58.2 =ha8baf52_3
@@ -170,7 +170,7 @@ requirements:
     - xcb-util =0.4.1 =h3f04742_3
     - xcb-util-image =0.4.0 =h3f04742_3
     - xcb-util-keysyms =0.4.1 =h5c728e9_0
-    - xcb-util-renderutil =0.3.10 =h5c728e9_0
+    - xcb-util-renderutil =0.3.10 =h3f04742_1
     - xcb-util-wm =0.4.2 =h5c728e9_0
     - xkeyboard-config =2.48 =h8c2e508_1
     - xorg-libice =1.1.2 =h80f16a2_0
