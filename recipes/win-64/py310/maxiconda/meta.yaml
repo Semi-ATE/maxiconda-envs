@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.9 =pyhd8ed1ab_0
     - xmltodict =1.0.4 =pyhcf101f3_0
 
-    # 458 secondary packages :
+    # 459 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _python_abi3_support =1.0 =hd8ed1ab_3
     - _r-mutex =1.0.1 =anacondar_1
@@ -280,7 +280,7 @@ requirements:
     - pywinpty =3.0.5 =py310h9e98ed7_0
     - pyzmq =27.2.0 =py310h824d4bc_0
     - qhull =2020.2 =h47c9fd8_6
-    - qt-main =5.15.15 =hc95f6a6_8
+    - qt-main =5.15.15 =h019df52_9
     - qt6-main =6.11.2 =pl5321hfcac499_1
     - qtpy =2.4.3 =pyhd8ed1ab_1
     - r-askpass =1.2.1 =r45heceb674_1
@@ -426,7 +426,7 @@ requirements:
     - r-rstudioapi =0.19.0 =r45hc72bb7e_0
     - r-rvest =1.0.5 =r45hc72bb7e_1
     - r-s7 =1.0.0 =r45h6a76d18_0
-    - r-sass =0.4.10 =r45hd8a2815_1
+    - r-sass =0.5.0 =r45hfd789f3_0
     - r-scales =1.4.0 =r45hc72bb7e_1
     - r-selectr =0.6_0 =r45hc72bb7e_0
     - r-shape =1.4.6.1 =r45ha770c72_2
@@ -483,7 +483,8 @@ requirements:
     - soupsieve =2.9.2 =pyhd8ed1ab_0
     - stack_data =0.6.3 =pyhd8ed1ab_1
     - stdlib-list =0.12.0 =pyhd8ed1ab_0
-    - tbb =2023.1.0 =h272cf33_4
+    - tbb =2023.2.0 =hdd624b6_0
+    - tcm =1.6.0 =hdd624b6_0
     - terminado =0.18.1 =pyh6dadd2b_1
     - tinycss2 =1.4.0 =pyhd8ed1ab_0
     - tk =8.6.13 =h967ab96_4

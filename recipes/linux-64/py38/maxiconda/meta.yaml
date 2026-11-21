@@ -64,7 +64,7 @@ requirements:
     - xlsxwriter =3.2.0 =pyhd8ed1ab_0
     - xmltodict =0.14.2 =pyhd8ed1ab_0
 
-    # 512 secondary packages :
+    # 510 secondary packages :
     - _openmp_mutex =4.5 =20_gnu
     - _r-mutex =1.0.1 =anacondar_1
     - aiohappyeyeballs =2.4.3 =pyhd8ed1ab_0
@@ -188,10 +188,9 @@ requirements:
     - libbrotlienc =1.2.1 =h018ffa1_1
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.9.0 =20_linux64_openblas
-    - libclang-cpp22.1 =22.1.8 =default_h0acdd01_11
     - libclang-cpp23.1 =23.1.6 =default_h0acdd01_0
     - libclang13 =23.1.6 =default_hfbdf21f_0
-    - libcups =2.3.3 =h7a8fb5f_6
+    - libcups =2.4.20 =h78cb948_0
     - libcurl =8.23.0 =ha042cf0_0
     - libdeflate =1.26 =h351257e_0
     - libdrm =2.4.129 =h7cc23a3_0
@@ -221,7 +220,6 @@ requirements:
     - libjpeg-turbo =3.2.1 =h7cc23a3_0
     - liblapack =3.9.0 =20_linux64_openblas
     - libllvm14 =14.0.6 =hcd5def8_4
-    - libllvm22 =22.1.8 =h474f4eb_3
     - libllvm23 =23.1.6 =h474f4eb_0
     - liblzma =5.8.3 =hb03c661_1
     - liblzma-devel =5.8.3 =hb03c661_1
@@ -235,7 +233,7 @@ requirements:
     - libpango-devel =1.58.2 =h317d9d0_3
     - libpciaccess =0.19 =hb03c661_1
     - libpng =1.6.59 =h922cc85_0
-    - libpq =18.7 =h3883810_1
+    - libpq =19.0 =h3883810_0
     - libpsl =0.23.1 =hd9e3e90_1
     - libsanitizer =16.2.0 =h3048135_7
     - libsndfile =1.2.2 =hbc6d301_3
@@ -322,7 +320,7 @@ requirements:
     - pytz =2024.2 =pyhd8ed1ab_0
     - pyxdg =0.28 =pyhd8ed1ab_0
     - pyzmq =26.2.0 =py38h6c80b9a_0
-    - qt-main =5.15.15 =h0c412b5_8
+    - qt-main =5.15.15 =h02fe268_9
     - qtpy =2.4.2 =pyhdecd6ff_0
     - r-askpass =1.2.1 =r45h54b55ab_1
     - r-assertthat =0.2.1 =r45hc72bb7e_6
@@ -467,7 +465,7 @@ requirements:
     - r-rstudioapi =0.19.0 =r45hc72bb7e_0
     - r-rvest =1.0.5 =r45hc72bb7e_1
     - r-s7 =1.0.0 =r45hddc5280_0
-    - r-sass =0.4.10 =r45h3697838_1
+    - r-sass =0.5.0 =r45hfa9885e_0
     - r-scales =1.4.0 =r45hc72bb7e_1
     - r-selectr =0.6_0 =r45hc72bb7e_0
     - r-shape =1.4.6.1 =r45ha770c72_2
