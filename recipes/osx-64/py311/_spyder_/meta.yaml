@@ -62,10 +62,10 @@ requirements:
     - brotli =1.2.1 =ha9642f3_1
     - brotli-bin =1.2.1 =h086410e_1
     - bzip2 =1.0.8 =h374f1ed_10
-    - ca-certificates =2026.10.23 =hbd8a1cb_0
+    - ca-certificates =2026.11.20 =hbd8a1cb_0
     - cairo =1.18.6 =h5791faa_0
     - cattrs =26.2.1 =pyh5ded981_0
-    - certifi =2026.10.23 =pyhd8ed1ab_3
+    - certifi =2026.11.20 =pyhd8ed1ab_0
     - cffi =2.1.1 =py311ha57a2f8_4
     - chardet =7.7.0 =py311hf44b27f_2
     - charset-normalizer =3.5.2 =hd77389f_0
@@ -80,7 +80,7 @@ requirements:
     - cycler =0.12.1 =pyhcf101f3_2
     - cyrus-sasl =2.1.28 =h7cc0300_1
     - debugpy =1.8.22 =py311h973f65f_1
-    - decorator =5.3.1 =pyhd8ed1ab_0
+    - decorator =5.3.2 =pyhd8ed1ab_0
     - defusedxml =0.7.1 =pyhd8ed1ab_0
     - deprecated =1.3.1 =pyhd8ed1ab_1
     - diff-match-patch =20241021 =pyhd8ed1ab_1
@@ -105,7 +105,7 @@ requirements:
     - glib =2.90.1 =h2f36a68_1
     - glib-tools =2.90.1 =h0fefcc2_1
     - gmp =6.3.0 =h65442b7_3
-    - gmpy2 =2.3.2 =py311h94913b4_1
+    - gmpy2 =2.3.2 =py311h94913b4_2
     - graphite2 =1.3.15 =h2fb4741_1
     - gst-plugins-base =1.26.11 =h79212b8_0
     - gstreamer =1.26.11 =h5bdcca5_0
@@ -273,7 +273,7 @@ requirements:
     - pytoolconfig =1.3.1 =pyh5ded981_0
     - pyuca =1.2 =pyhd8ed1ab_2
     - pyxdg =0.28 =pyhd8ed1ab_0
-    - pyyaml =6.0.3 =py311h3ad8869_3
+    - pyyaml =6.0.3 =py311hf44b27f_4
     - pyzmq =27.3.0 =py311h5f3a111_0
     - qdarkstyle =3.2.3 =pyhd8ed1ab_1
     - qhull =2020.2 =h15054a0_6
@@ -326,8 +326,8 @@ requirements:
     - ujson =6.1.0 =py311h8c575ab_1
     - unicodedata2 =18.0.0 =py311h5e2e7b6_1
     - urllib3 =2.8.0 =pyh5ded981_1
-    - watchdog =7.1.0 =py311hb970d6d_0
-    - wcwidth =0.9.4 =py311h888ea4b_0
+    - watchdog =7.1.0 =py311hb970d6d_1
+    - wcwidth =0.9.4 =py311h888ea4b_1
     - webencodings =0.6.1 =pyh5ded981_0
     - whatthepatch =1.0.7 =pyhd8ed1ab_1
     - wheel =0.48.0 =pyhd8ed1ab_0
