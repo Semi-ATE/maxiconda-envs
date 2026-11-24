@@ -84,9 +84,9 @@ requirements:
     - binutils_impl_linux-64 =2.46.1 =default_hfdba357_103
     - bleach =6.2.0 =pyh29332c3_4
     - bleach-with-css =6.2.0 =h82add2a_4
-    - brotli =1.1.0 =hb9d3cd8_3
-    - brotli-bin =1.1.0 =hb9d3cd8_3
-    - brotli-python =1.1.0 =py39hf88036b_3
+    - brotli =1.2.1 =h505cf86_1
+    - brotli-bin =1.2.1 =h9908984_1
+    - brotli-python =1.0.9 =py39h5a03fae_8
     - bwidget =1.10.1 =hfc2019e_3
     - bzip2 =1.0.8 =hda65f42_10
     - c-ares =1.34.9 =hebe6cf0_0
@@ -96,7 +96,7 @@ requirements:
     - cairo =1.18.4 =h3394656_0
     - certifi =2025.8.3 =pyhd8ed1ab_0
     - cffi =1.17.1 =py39h15c3d72_0
-    - charset-normalizer =3.5.2 =h1114479_0
+    - charset-normalizer =3.5.3 =h1114479_0
     - click =8.1.8 =pyh707e725_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - colorama =0.4.6 =pyhd8ed1ab_1
@@ -179,9 +179,9 @@ requirements:
     - ld_impl_linux-64 =2.46.1 =default_hbd61a6d_103
     - lerc =4.3.0 =he78707d_0
     - libblas =3.11.0 =12_h4a7cf45_openblas
-    - libbrotlicommon =1.1.0 =hb9d3cd8_3
-    - libbrotlidec =1.1.0 =hb9d3cd8_3
-    - libbrotlienc =1.1.0 =hb9d3cd8_3
+    - libbrotlicommon =1.2.1 =h39a168f_1
+    - libbrotlidec =1.2.1 =ha411449_1
+    - libbrotlienc =1.2.1 =h018ffa1_1
     - libcap =2.78 =h084b8d7_1
     - libcblas =3.11.0 =12_h0358290_openblas
     - libclang-cpp20.1 =20.1.8 =default_hc302687_18
@@ -568,7 +568,7 @@ requirements:
     - xorg-libxt =1.3.1 =h7cc23a3_1
     - xorg-libxtst =1.2.6 =h7cc23a3_0
     - xorg-libxxf86vm =1.1.7 =h7cc23a3_1
-    - yaml =0.2.5 =hebe6cf0_3
+    - yaml =0.2.6 =hebe6cf0_0
     - yarl =1.20.1 =py39h9399b63_0
     - zeromq =4.3.5 =h387f397_9
     - zipp =3.23.0 =pyhd8ed1ab_0
