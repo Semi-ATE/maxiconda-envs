@@ -241,9 +241,9 @@ requirements:
     - liblapack =3.11.0 =12_h47877c9_openblas
     - libllvm23 =23.1.6 =h474f4eb_0
     - liblzma =5.8.3 =hb03c661_1
-    - libmamba =2.10.0 =py312h815f808_3
-    - libmamba-spdlog =2.10.0 =hd064cc6_3
-    - libmambapy =2.10.0 =py312hf3dd510_3
+    - libmamba =2.10.0 =py312he90606f_4
+    - libmamba-spdlog =2.10.0 =hf7e0cfc_4
+    - libmambapy =2.10.0 =py312hd79d5ce_4
     - libmsgpack-c =6.1.0 =h54a6638_7
     - libnghttp2 =1.71.0 =hc5e5977_0
     - libnsl =2.0.1 =hb9d3cd8_1
@@ -312,7 +312,7 @@ requirements:
     - openldap =2.7.2 =hbc21106_0
     - openssl =3.6.5 =h781a0a9_0
     - overrides =7.7.0 =pyhd8ed1ab_1
-    - packaging =26.3 =pyhc364b38_0
+    - packaging =26.4 =pyhc364b38_0
     - pandoc =3.14 =ha770c72_1
     - pandocfilters =1.5.1 =pyh5ded981_0
     - pango =1.58.2 =h2f58602_3
@@ -557,7 +557,7 @@ requirements:
     - sed =4.10 =h529d415_1
     - send2trash =2.2.0 =pyh4a3486f_0
     - setuptools =84.2.1 =pyhe730653_0
-    - simdjson =5.1.1 =h4dbf13b_0
+    - simdjson =5.3.0 =h4dbf13b_0
     - sip =6.10.0 =py312h1289d80_1
     - six =1.17.0 =pyhe01879c_1
     - smmap =5.0.3 =pyhcf101f3_1
@@ -619,7 +619,7 @@ requirements:
     - xorg-libxtst =1.2.6 =h7cc23a3_0
     - xorg-libxxf86vm =1.1.7 =h7cc23a3_1
     - xorg-xorgproto =2025.1 =hebe6cf0_3
-    - yaml =0.2.6 =hebe6cf0_0
+    - yaml =0.2.7 =hebe6cf0_0
     - yaml-cpp =0.8.0 =h54a6638_1
     - yarl =1.25.1 =py312hfd18d64_1
     - zeromq =4.3.5 =h901266b_12

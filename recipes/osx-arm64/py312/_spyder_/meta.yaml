@@ -96,7 +96,7 @@ requirements:
     - fontconfig =2.18.3 =h81aa574_1
     - fonts-conda-ecosystem =1 =0
     - fonts-conda-forge =1 =hc364b38_1
-    - fonttools =4.68.0 =py312h05c94ff_1
+    - fonttools =4.68.0 =py312h05c94ff_2
     - freetype =2.14.3 =hce30654_2
     - fribidi =1.0.18 =hb001647_0
     - frozenlist =1.8.0 =py312h9c9cfc3_1
@@ -215,7 +215,7 @@ requirements:
     - openjpeg =2.5.4 =h4d1e80c_2
     - openldap =2.7.2 =hdd0405a_0
     - openssl =3.6.5 =h55eecbc_0
-    - packaging =26.3 =pyhc364b38_0
+    - packaging =26.4 =pyhc364b38_0
     - pandoc =3.14 =hce30654_1
     - pandocfilters =1.5.1 =pyh5ded981_0
     - pango =1.58.2 =hc6efcc1_3
@@ -335,7 +335,7 @@ requirements:
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
     - xorg-libxau =1.0.12 =hb001647_2
     - xorg-libxdmcp =1.1.5 =hb001647_2
-    - yaml =0.2.6 =h602ebc4_0
+    - yaml =0.2.7 =h4c53d1a_0
     - yapf =0.43.0 =pyhd8ed1ab_1
     - yarl =1.25.1 =py312hf4454c7_1
     - zeromq =4.3.5 =h6eb0046_12
