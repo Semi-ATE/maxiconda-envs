@@ -28,7 +28,7 @@ requirements:
     - aiohttp =3.14.5 =py311h6b5b731_1
     - aiomqtt =2.5.1 =pyhcf101f3_0
     - beautifulsoup4 =4.15.0 =pyha770c72_0
-    - cython =3.3.1 =py311h2f381f4_1
+    - cython =3.3.2 =py311hb3be322_0
     - grayskull =3.2.0 =pyhc364b38_0
     - hypothesis =6.170.17 =py311h1e0e963_0
     - ipython =9.19.1 =pyh53cf698_0
@@ -49,7 +49,7 @@ requirements:
     - qtawesome =1.4.2 =pyh9208f05_0
     - r-base =4.5.3 =h53b2b52_5
     - r-essentials =4.5 =r45hd8ed1ab_2006
-    - regex =2026.11.23 =py311h3f1b5d2_0
+    - regex =2026.11.24 =py311h2349eac_0
     - requests =2.34.2 =pyhcf101f3_0
     - rust =1.100.0 =hfca65a3_0
     - scipy =1.17.1 =py311h9a58382_1
@@ -222,7 +222,7 @@ requirements:
     - libdeflate =1.26 =h72bfca4_0
     - libedit =3.1.20260512 =pl5321h26f1114_0
     - libev =4.33 =h1a92334_3
-    - libexpat =2.9.0 =h6111c0a_0
+    - libexpat =2.11.0 =h367fcd6_0
     - libffi =3.7.0 =h47dc5ef_1
     - libfreetype =2.14.3 =hce30654_2
     - libfreetype6 =2.14.3 =h2ed5691_2

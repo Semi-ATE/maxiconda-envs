@@ -25,7 +25,7 @@ requirements:
     - python =3.11.18 =hd05a0c4_0_cpython
 
     # 9 primary packages :
-    - cython =3.3.1 =py311h2f381f4_1
+    - cython =3.3.2 =py311hb3be322_0
     - matplotlib =3.11.2 =py311ha01d089_1
     - numpy =2.4.6 =py311hbd1492f_0
     - pandas =3.1.1 =np2py311h6ed7ffe_0
@@ -147,7 +147,7 @@ requirements:
     - libcxx =23.1.6 =hc645fd0_0
     - libdeflate =1.26 =h72bfca4_0
     - libedit =3.1.20260512 =pl5321h26f1114_0
-    - libexpat =2.9.0 =h6111c0a_0
+    - libexpat =2.11.0 =h367fcd6_0
     - libffi =3.7.0 =h47dc5ef_1
     - libfreetype =2.14.3 =hce30654_2
     - libfreetype6 =2.14.3 =h2ed5691_2

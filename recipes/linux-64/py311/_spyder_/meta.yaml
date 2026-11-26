@@ -25,7 +25,7 @@ requirements:
     - python =3.11.18 =h5f976f7_0_cpython
 
     # 9 primary packages :
-    - cython =3.3.1 =py311hb880519_1
+    - cython =3.3.2 =py311hb880519_0
     - matplotlib =3.11.2 =py311h968eb38_1
     - numpy =2.4.6 =py311h2e04523_0
     - pandas =3.1.1 =np2py311h1e9b377_0
@@ -158,7 +158,7 @@ requirements:
     - libegl =1.7.0 =ha4b6fd6_5
     - libegl-devel =1.7.0 =ha4b6fd6_5
     - libevent =2.1.12 =h5348a74_2
-    - libexpat =2.9.0 =hd2095e1_0
+    - libexpat =2.11.0 =hd2095e1_0
     - libffi =3.7.0 =h81df57d_1
     - libflac =1.5.0 =he200343_1
     - libfreetype =2.14.3 =ha770c72_2
