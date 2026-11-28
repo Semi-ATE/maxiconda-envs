@@ -43,7 +43,7 @@ requirements:
     - cairo =1.18.6 =h5791faa_0
     - cloudpickle =3.1.1 =pyhd8ed1ab_0
     - comm =0.2.3 =pyhe01879c_0
-    - cyrus-sasl =2.1.28 =h610c526_0
+    - cyrus-sasl =2.1.28 =h7cc0300_1
     - debugpy =1.8.16 =py39h6581403_0
     - decorator =5.2.1 =pyhd8ed1ab_0
     - et_xmlfile =2.0.0 =pyhd8ed1ab_1
@@ -70,7 +70,7 @@ requirements:
     - jedi =0.19.2 =pyhd8ed1ab_1
     - jupyter_client =8.6.3 =pyhd8ed1ab_1
     - jupyter_core =5.8.1 =pyh31011fe_0
-    - krb5 =1.21.3 =h37d8d59_0
+    - krb5 =1.22.2 =h69064fd_2
     - libblas =3.11.0 =12_he492b99_openblas
     - libcblas =3.11.0 =12_h9b27e0a_openblas
     - libclang-cpp18.1 =18.1.8 =default_h9399c5b_18
@@ -103,8 +103,8 @@ requirements:
     - libpango =1.58.2 =hb06761d_3
     - libpango-devel =1.58.2 =h432f75e_3
     - libpng =1.6.59 =h4382c61_0
-    - libpq =18.2 =hb73b81d_0
-    - libsodium =1.0.20 =hfdf4475_0
+    - libpq =19.0 =h58a6bad_1
+    - libsodium =1.0.18 =hbcb3906_1
     - libsqlite =3.54.1 =h59ff3a2_0
     - libusb =1.0.30 =h9ec13f6_1
     - libvorbis =1.3.7 =ha059160_2
@@ -117,7 +117,7 @@ requirements:
     - nest-asyncio =1.6.0 =pyhd8ed1ab_1
     - nspr =4.41 =h71d1bf3_0
     - nss =3.118 =h2b2a826_0
-    - openldap =2.6.10 =hd8a590d_0
+    - openldap =2.7.2 =h1c1fbb2_0
     - openssl =3.6.5 =h332eb6d_0
     - packaging =26.3 =pyhc364b38_0
     - pango =1.58.2 =h207e965_3
@@ -141,8 +141,8 @@ requirements:
     - pytz =2025.2 =pyhd8ed1ab_0
     - pyvisa =1.14.1 =pyhd8ed1ab_1
     - pyxdg =0.28 =pyhd8ed1ab_0
-    - pyzmq =27.0.2 =py39h7cc8fb6_0
-    - qt-main =5.15.15 =h7c652a0_7
+    - pyzmq =26.2.0 =py39ha6bd863_0
+    - qt-main =5.15.15 =h41cd783_9
     - readline =8.3 =h000c2f7_1
     - setuptools =80.9.0 =pyhff2d567_0
     - sip =6.10.0 =py39hdf37715_0
@@ -158,7 +158,7 @@ requirements:
     - wcwidth =0.2.13 =pyhd8ed1ab_1
     - wheel =0.45.1 =pyhd8ed1ab_1
     - wurlitzer =3.1.1 =pyhd8ed1ab_1
-    - zeromq =4.3.5 =h6c33b1e_9
+    - zeromq =4.3.5 =h93d8f39_0
     - zipp =3.23.0 =pyhd8ed1ab_0
     - zstd =1.5.7 =hbc1a06c_7
 

@@ -47,7 +47,7 @@ requirements:
     - arrow =1.4.0 =pyhcf101f3_0
     - astroid =4.0.4 =py311h267d04e_0
     - asttokens =3.0.2 =pyhd8ed1ab_0
-    - asyncssh =2.24.0 =pyhd8ed1ab_1
+    - asyncssh =2.24.1 =pyhd8ed1ab_0
     - attrs =26.1.0 =pyhcf101f3_0
     - autopep8 =2.0.4 =pyhd8ed1ab_0
     - babel =2.19.0 =pyh5ded981_0
@@ -172,7 +172,7 @@ requirements:
     - libpango =1.58.2 =hc2ac4f2_3
     - libpango-devel =1.58.2 =haa2d88b_3
     - libpng =1.6.59 =hf5e6511_0
-    - libpq =19.0 =h0a198e3_0
+    - libpq =19.0 =h0a198e3_1
     - libpython =3.11.18 =h0677fcb_0_cpython
     - libraqm =0.11.0 =h45af499_0
     - libsodium =1.0.22 =h74c22ad_3
@@ -201,7 +201,7 @@ requirements:
     - mpmath =1.4.1 =pyhd8ed1ab_0
     - multidict =7.2.1 =py311hed6614d_1
     - munkres =1.1.4 =pyhd8ed1ab_1
-    - mypy_extensions =1.1.0 =pyha770c72_0
+    - mypy_extensions =1.2.0 =pyh5ded981_1
     - nbclient =0.11.0 =pyhcf101f3_1
     - nbconvert =7.17.2 =h2cff187_0
     - nbconvert-core =7.17.2 =pyh5ded981_0
@@ -227,7 +227,7 @@ requirements:
     - pillow =13.0.0 =py311h9ef85ab_1
     - pip =26.2.2 =pyh8b19718_2
     - pixman =0.46.4 =h784d473_3
-    - platformdirs =4.14.8 =pyh5ded981_0
+    - platformdirs =4.14.9 =pyh5ded981_0
     - pluggy =1.7.0 =pyh5ded981_0
     - ply =3.11 =pyhd8ed1ab_3
     - prompt-toolkit =3.0.53 =pyha770c72_0
@@ -290,7 +290,7 @@ requirements:
     - rich =15.0.0 =pyhcf101f3_0
     - roman-numerals =4.1.0 =pyhd8ed1ab_0
     - rope =1.15.2 =pyh5ded981_0
-    - rpds-py =2026.9.1 =py311hcfb3d13_0
+    - rpds-py =2026.9.1 =py311h4ce0b4c_1
     - rtree =1.4.1 =pyh11ca60a_0
     - ruff =0.16.10 =hc57303c_0
     - setuptools =84.2.1 =pyhe730653_0
